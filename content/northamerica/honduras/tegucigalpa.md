@@ -1,8 +1,10 @@
 ---
-title: "Tegucigalpa"
+title: Tegucigalpa
 type: location
 latitude: 14.0818
 longitude: -87.2068
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Tegucigalpa — known as Tegus — is the capital of Honduras, a city of around 1.4 million people spread across hilly terrain at about 1000m elevation. It is not a beautiful city, but it has more to offer than its reputation suggests, and as a starting point for exploring the south and centre of the country it serves well enough.

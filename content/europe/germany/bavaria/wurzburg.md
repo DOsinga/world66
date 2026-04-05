@@ -1,8 +1,10 @@
 ---
-title: "Würzburg"
+title: Würzburg
 type: location
 latitude: 49.793372
 longitude: 9.930978
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Würzburg** is a city of about 130,000 people in northern Bavaria, set on both banks of the **Main** river in a fertile basin surrounded by the forested hills of the Spessart, Rhön and Steigerwald. It is the capital of **Lower Franconia** (*Unterfranken*), a region with its own strong identity — more Catholic, more wine-oriented and more Mediterranean-feeling than the rest of Bavaria — and one of the main wine-producing areas of Germany, specialising in the distinctive bottle-shaped *Bocksbeutel* flask and in refined dry Rieslings and Silvaner. For travellers, Würzburg is also the northern starting point of the **Romantic Road** (*Romantische Straße*), the signposted scenic route that runs south through Rothenburg ob der Tauber, Dinkelsbühl, Augsburg and eventually to Füssen and the Bavarian Alps.

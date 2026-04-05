@@ -1,8 +1,10 @@
 ---
-title: "Douala"
+title: Douala
 type: location
 latitude: 4.042939
 longitude: 9.706202
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Douala** is Cameroon's largest city and its economic capital — a sprawling, humid, noisy port of around 4 million people on the **Wouri River**, 24 km upstream from the Atlantic. It is not the political capital (that is Yaoundé, inland) and it is not a pretty city: sometimes jokingly called the "Armpit of Africa" by its own residents for its relentless equatorial sweat, it has little in the way of monuments and is mostly a place travellers arrive at and leave. The port handles around 95% of Cameroon's maritime trade, and it is the terminus of the main railway lines into the interior; for most visitors, Douala is the point of entry into Central Africa, and the last chance for a decent restaurant before heading north.

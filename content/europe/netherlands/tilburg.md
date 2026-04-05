@@ -1,11 +1,16 @@
 ---
-title: "Tilburg"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 51.5555
+longitude: 5.0913
+title: Tilburg
 type: location
-latitude: 51.585618
-longitude: 5.066062
 ---
 
-Tilburg boomed as a textiel industry town. Over the recent years the city centre has been completely restructured - and is quite nice now. Museum de Pont -in an old woollen fabrics factory - and the Textile museum are highlights. The famous Tilburg funfair is the largest in Europe. Two weeks of fun and thrills right at the height of summer; all the latest attractions and the nostalgia of fortune tellers and the try-your-strength machine.
+Tilburg is a working-class city in North Brabant that made its fortune in wool and textiles, then reinvented itself when the mills closed. The old factory buildings are now museums and cultural spaces — Museum De Pont, one of the Netherlands' finest contemporary art museums, occupies a former spinning mill, and the Textile Museum on the Goirkestraat still runs working looms. The city centre was heavily redeveloped in the 1990s and 2000s, and what emerged is genuinely pleasant: wide pedestrian areas around the Heuvel, a lively bar scene along the Piusplein, and a newly popular waterfront at the Piushaven.
 
+Tilburg takes carnival seriously. Every February the city transforms for three days of street parades, fancy dress, and brass bands — one of the biggest carnival celebrations in the country, and a genuine local obsession rather than a tourist performance.
 
- Tilburg is surrounded on all sides by marvellous woods and scenic areas; a green environment where peace and quiet reign supreme. Fine examples are the Loonse en Drunense Duinen, the fens around Oisterwijk, the Regte Heide (heath land), and the marshland De Brand in Udenhout. In addition, the city has many parks and public gardens, including a number of beautiful classical parks.
+The city sits in a green corridor between the Loonse en Drunense Duinen to the north (a dramatic inland dune landscape) and the heathland of the Regte Heide to the south. Both are easily reached by bike or bus and make for good half-day escapes.
+
+Tilburg University gives the city a young, international edge, particularly around the Piusplein quarter, which fills up on weekends with students from across Europe.

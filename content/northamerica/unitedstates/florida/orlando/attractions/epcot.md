@@ -1,6 +1,6 @@
 ---
 title: "Epcot"
-type: location
+type: poi
 latitude: 28.371406
 longitude: -81.548959
 ---

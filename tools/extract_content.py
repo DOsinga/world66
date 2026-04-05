@@ -14,6 +14,8 @@ import os
 import re
 import sys
 
+import frontmatter
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 RAW_DIR = os.path.join(SCRIPT_DIR, "raw")
 CONTENT_DIR = os.path.join(SCRIPT_DIR, "..", "content")
@@ -619,16 +621,6 @@ def process_file(filepath):
     for suffix in [" Travel Guide", " travel guide", " travelguide"]:
         if page_title.endswith(suffix):
             page_title = page_title[:-len(suffix)].strip()
-    lines.append("---")
-    safe_title = page_title.replace('"', "'")
-    lines.append(f'title: "{safe_title}"')
-    lines.append(f'type: {page_type}')
-    if properties:
-        for key, val in sorted(properties.items()):
-            safe_val = val.replace('"', "'")
-            lines.append(f'{key}: "{safe_val}"')
-    lines.append("---")
-    lines.append("")
 
     # Strip the h1 and breadcrumb from body — template renders those
     body = re.sub(r"^# " + re.escape(page_title) + r"\s*\n*", "", body)
@@ -648,14 +640,11 @@ def process_file(filepath):
     if len(body) < 50 and page_type == "poi" and not properties:
         return None
 
-    if body:
-        lines.append(body)
-        lines.append("")
-
-    # Destinations are rendered dynamically by the template from children(),
-    # so we don't include them in the markdown.
-
-    markdown = "\n".join(lines)
+    meta = {"title": page_title, "type": page_type}
+    for key, val in sorted(properties.items()):
+        meta[key] = val
+    post = frontmatter.Post(body, **meta)
+    markdown = frontmatter.dumps(post, sort_keys=False) + "\n"
 
     # Write output — use flattened path
     rel_path = "/".join(path_parts) + ".md"

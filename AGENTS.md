@@ -104,3 +104,6 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 - We squash PRs when they are ready to merge.
 - Do not force push. Do not ammend commits
 
+## Software Engineering Practives
+- Don't roll your own frontmatter parsing/writing, use the python-frontmatter
+- store requirements in requirements.in, compile that using uv to requirements.txt

@@ -5,9 +5,10 @@ Run this after geocode.py finishes.
 """
 
 import json
-import os
-import re
 from pathlib import Path
+
+import frontmatter
+import yaml
 
 SCRIPT_DIR = Path(__file__).parent
 CONTENT_DIR = SCRIPT_DIR.parent / "content"
@@ -32,21 +33,17 @@ def run():
         if not filepath.exists():
             continue
 
-        text = filepath.read_text(encoding="utf-8", errors="replace")
-
-        # Skip if already has coordinates
-        if "latitude:" in text and "longitude:" in text:
+        try:
+            post = frontmatter.load(filepath)
+        except yaml.YAMLError:
+            continue
+        if "latitude" in post.metadata and "longitude" in post.metadata:
             continue
 
-        # Insert lat/lng into frontmatter
-        if text.startswith("---"):
-            end = text.find("\n---", 3)
-            if end != -1:
-                frontmatter = text[3:end]
-                body = text[end + 4:]
-                new_text = f"---{frontmatter}\nlatitude: {lat}\nlongitude: {lng}\n---{body}"
-                filepath.write_text(new_text, encoding="utf-8")
-                updated += 1
+        post["latitude"] = lat
+        post["longitude"] = lng
+        filepath.write_text(frontmatter.dumps(post, sort_keys=False) + "\n", encoding="utf-8")
+        updated += 1
 
     print(f"Updated: {updated}, Skipped (no coords): {skipped}")
 

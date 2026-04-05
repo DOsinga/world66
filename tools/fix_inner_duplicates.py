@@ -7,31 +7,25 @@ keeps the parent-level file, merging in any richer content or
 missing frontmatter from the inner duplicate, then deletes it.
 """
 
-import re
 import sys
 from pathlib import Path
 
-import yaml
+import frontmatter
 
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 
 
 def parse(p):
-    text = p.read_text(encoding="utf-8", errors="replace")
-    if text.startswith("---"):
-        m = re.match(r"^---\s*\n(.*?)\n---\s*\n(.*)", text, re.DOTALL)
-        if m:
-            try:
-                meta = yaml.safe_load(m.group(1)) or {}
-            except yaml.YAMLError:
-                meta = {}
-            return meta, m.group(2).strip()
-    return {}, text.strip()
+    try:
+        post = frontmatter.load(p)
+    except Exception:
+        return {}, p.read_text(encoding="utf-8", errors="replace").strip()
+    return post.metadata, post.content.strip()
 
 
 def serialize(meta, body):
-    front = yaml.dump(meta, default_flow_style=False, allow_unicode=True).strip()
-    return f"---\n{front}\n---\n\n{body}\n"
+    post = frontmatter.Post(body, **meta)
+    return frontmatter.dumps(post, sort_keys=False) + "\n"
 
 
 def find_pairs(content_dir):

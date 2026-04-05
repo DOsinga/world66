@@ -1,16 +1,11 @@
 ---
-title: "The Dragon Temple"
+title: "Haedong Yonggungsa Temple"
 type: poi
-type: "Churches and Cathedrals"
+category: "Sight"
+latitude: 35.188007
+longitude: 129.225082
 ---
 
-If you see only 2 temples in Korea, make this one of them, the other is Golgusa Temple. This temple is unique as it is literally right on the ocean. It is reccomended that any visit is between Monday and Friday, locals turn out in mass over the weekend.
+One of the few Buddhist temples in Korea built directly on the sea. The complex extends along rocky cliffs and a narrow beach — shrines, stone statues, and pagodas crammed between the rocks with waves breaking below. Best visited on a weekday; it draws large crowds at weekends and on Buddhist holidays.
 
-Take Bus 8 from Haeundae Subway. The driver will advise where to get off. From the bus stop it is approximately a 1km walk to the temple. On entry there is a number of food stalls and souvenir shops.
-
-The temple is stretched out along the rocky beach and cliffs. There is a good representation of the various deities and temples across Korea.
-
-**Contributors**
-March 12, 2008
-
-type: Churches and Cathedrals
+Take bus 181 from Haeundae subway station. From the bus stop it's a short walk down to the entrance, where food stalls and souvenir shops line the path.

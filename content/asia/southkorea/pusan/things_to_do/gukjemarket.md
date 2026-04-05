@@ -1,11 +1,9 @@
 ---
 title: "Gukje Market"
 type: poi
-type: "general"
+category: "Sight"
 latitude: 35.101164
 longitude: 129.028192
 ---
 
-Here you can find electric appliances, leather goods, clothing, shoes and accessories at the cheapest prices.
-
-type: general
+Busan's main traditional market, selling clothing, shoes, leather goods, electronics, and kitchen supplies at competitive prices. Busy and chaotic in the best way — the surrounding alleys are full of street food stalls.

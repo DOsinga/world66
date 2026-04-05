@@ -1,18 +1,6 @@
 ---
-title: "Sights"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Jagalchi Market**
-
-Korea's largest fish market. It's a lively place and well worth a visit.   
-
-**Gwanganri Beach**
-
-This beach is very popular with the locals. Take a rest if you like from the hectic streets of Pusan.    
-
-**Gukje Market**
-
-Here you can find electric appliances, leather goods, clothing, shoes and accessories at the cheapest prices.
+Busan rewards wandering. The highlights range from mountaintop temples to a cliff-hugging seaside shrine, with a sprawling fish market and a hilltop village of painted stairways in between.

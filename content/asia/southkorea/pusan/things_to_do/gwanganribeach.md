@@ -1,11 +1,9 @@
 ---
-title: "Gwanganri Beach"
+title: "Gwangalli Beach"
 type: poi
-type: "general"
+category: "Sight"
 latitude: 35.150888
 longitude: 129.116655
 ---
 
-This beach is very popular with the locals. Take a rest if you like from the hectic streets of Pusan.
-
-type: general
+Busan's local beach — smaller and less crowded than Haeundae, and the clear favourite among residents. The setting is dominated by the illuminated arc of Gwangan Bridge at night. The esplanade has a long strip of cafes and bars; it's most alive after dark.

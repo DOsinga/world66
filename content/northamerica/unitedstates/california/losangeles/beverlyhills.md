@@ -5,10 +5,6 @@ latitude: 34.06965
 longitude: -118.396306
 ---
 
-It’s a cliché but it’s also all-true. The streets are filled with Bentley’s and Ferrari’s. There are drop-dead gorgeous women who are walking a French poodle wearing a diamond collar worth more than most people. It’s all fake but very real. Rodeo is only a few blocks long and perhaps not as ritzy and unique as before but still the embodiment of the leisure life. There is of course, more shopping everywhere including a Barney’s across from Rodeo. There are less discreet 5-star hotels right on Wilshire (PRETTY WOMAN) and more discreet 5-star hotels closer to the mountain range – too many to name. The Merv Griffin Beverly Hills Hilton is nearby – where the Golden Globes are held every year.
+Beverly Hills is an independent city of about 35,000 people surrounded on all sides by Los Angeles. It became synonymous with Hollywood wealth in the 1920s, when movie stars began buying estates in the hills above Sunset Boulevard; that association has only deepened over the decades. The city is small enough to walk around in an hour: Rodeo Drive with its luxury brand flagship stores, the cluster of high-end hotels on Wilshire (the Beverly Hills Hotel, the Beverly Wilshire — the Pretty Woman hotel), and the residential streets north of Santa Monica Boulevard where the mansions begin.
 
-Above Santa Monica Blvd are where the mansions start. Buy a star map to catch some older star homes.
-
-In the mid-Wilshire area are the Los Angeles County Museum of Art and the well known George C. Page Museum of La Brea Discoveries and the La Brea Tar Pits.
-
-Got your sights set on the stars? Beverly Hills and nearby West [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood) are studded with celebrity-owned and frequented cafés, clubs, and restaurants. The stars might just come out at night.
+The city has a disproportionate number of exceptional restaurants relative to its size. Spago, the flagship of Wolfgang Puck, is the most famous; Mastro's, Kate Mantilini, La Scala, and a dozen others have been Beverly Hills institutions for decades. The Los Angeles County Museum of Art (LACMA) and the La Brea Tar Pits are a short drive east on Wilshire.

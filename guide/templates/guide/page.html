@@ -279,19 +279,17 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var heroShowingMap = false;
 
   function heroSetMap() {
-    // Show element BEFORE init so Leaflet can measure its dimensions
-    if (heroMapEl) heroMapEl.style.display = '';
+    if (heroMapEl) heroMapEl.style.display = 'block';
     hero.classList.add('hero-map-mode');
     heroBtnMap.classList.add('hero-toggle-active');
     heroBtnPhoto.classList.remove('hero-toggle-active');
     heroShowingMap = true;
     if (!heroMapInited && markers.length) {
-      requestAnimationFrame(function() {
-        heroMap = initLocationMap('hero-map', markers, mapOptions);
-        heroMapInited = true;
-      });
+      void heroMapEl.offsetHeight; // force reflow so Leaflet measures real dimensions
+      heroMap = initLocationMap('hero-map', markers, mapOptions);
+      heroMapInited = true;
     } else if (heroMap) {
-      requestAnimationFrame(function() { heroMap.invalidateSize(); });
+      heroMap.invalidateSize();
     }
   }
 
@@ -319,7 +317,10 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
       heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
       heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
       if (heroShowingMap && heroMap) {
-        requestAnimationFrame(function() { heroMap.invalidateSize(); });
+        hero.addEventListener('transitionend', function h() {
+          hero.removeEventListener('transitionend', h);
+          heroMap.invalidateSize();
+        });
       }
     });
   }

@@ -1,12 +1,14 @@
 ---
-title: "El Salvador"
+title: El Salvador
 type: location
 latitude: 13.7942
 longitude: -88.8965
 image: elsalvador.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Atardecer_de_San_Salvador_desde_Los_Planes_de_Renderos.jpg"
-image_license: "CC BY 3.0"
-image_attribution: "José Alejandro Álvarez Ramírez (JOSAL)"
+image_source: https://commons.wikimedia.org/wiki/File:Atardecer_de_San_Salvador_desde_Los_Planes_de_Renderos.jpg
+image_license: CC BY 3.0
+image_attribution: José Alejandro Álvarez Ramírez (JOSAL)
+done:
+  country_cleanup: 2026-03-29
 ---
 
 El Salvador is Central America's smallest country and its most densely populated, a fact that becomes obvious the moment you start driving. What it lacks in size it more than compensates for in variety: in a single day you can hike the rim of an active volcano, swim at a black-sand Pacific beach, and walk the cobblestone streets of a colonial town.

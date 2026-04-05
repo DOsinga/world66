@@ -1,19 +1,10 @@
 ---
-title: "Surfing and watersports club"
+title: "Surfing and Watersports Club"
 type: poi
-type: "Surfing"
-url: "www.surfandwatersportsclub-scotland.com"
+category: "Sight"
+address: "Banff Links, Banff AB45"
+latitude: 57.6728
+longitude: -2.5404
 ---
 
-Surfing nd watersports club situated at Banff links, they cater for all ages.
-
-**Contributors**
-February 12, 2006
-
-type: Surfing
-
-
-
-
-
-url: [www.surfandwatersportsclub-scotland.com](http://www.surfandwatersportsclub-scotland.com/)
+Banff surf and watersports club operates from the Links beach on the western side of town, hiring wetsuits and equipment and catering for all ages and experience levels.

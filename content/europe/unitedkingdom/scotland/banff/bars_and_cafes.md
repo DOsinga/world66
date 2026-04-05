@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes in Banff"
+title: "Bars and Cafes"
 type: section
 ---
 
-No shortage of pubs in Banff, several to choose from.
+Banff has several pubs and local bars serving the usual range of Scottish ales and whiskies. The town is small and the options are modest, but the atmosphere in the older High Street pubs is convivial. Duff House has a cafe open during gallery hours.

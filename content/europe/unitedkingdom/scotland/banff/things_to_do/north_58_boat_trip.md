@@ -1,19 +1,10 @@
 ---
-title: "North 58 boat trips"
+title: "North 58 Boat Trips"
 type: poi
-type: "Sailing"
-url: "www.north58.co.uk"
+category: "Sight"
+address: "Banff Harbour, Banff AB45"
+latitude: 57.6703
+longitude: -2.5175
 ---
 
-Take North 58's fast boat the 'Buchaneer' along the coast from Banff Harbour.
-
-**Contributors**
-February 12, 2006
-
-type: Sailing
-
-
-
-
-
-url: [www.north58.co.uk](http://www.north58.co.uk/)
+North 58 operates fast boat trips along the Banffshire coast from Banff Harbour, offering views of the sea cliffs, seabird colonies, and occasional dolphins and porpoises in the Moray Firth.

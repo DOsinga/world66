@@ -3,7 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-Fyvie is in the heart of Buchan, which is good farming land but no beach, however the Buchan coast has some wonderful beaches and within a 25 mile radius you have a selection of them all. There is the wonderful Sands of Forvie on the east coast, then a 17 mile stretch of beach from [Peterhead](/europe/unitedkingdom/scotland/peterhead) all the way to St Combs passing [Rattray Head](/europe/unitedkingdom/scotland/rattray_head). A wonderful 2 mile stretch of beach at [Fraserburgh](/europe/unitedkingdom/scotland/fraserburgh) Bay. Another great beach with caves at [New Aberdour](/europe/unitedkingdom/scotland/new_aberdour). A seclude beach at Cullykhan and a nice beach at [Banff](/northamerica/canada/alberta/banff) links. So basically within a 30 miniute drive you have a choice of them all.
-
-**Contributors**
-February 07, 2006
+Fyvie is inland farming country with no beach of its own, but the Aberdeenshire coast is within 25–30 miles. The Sands of Forvie nature reserve on the east coast has dunes and a long beach. A 17-mile stretch of sand runs from Peterhead north to St Combs past Rattray Head lighthouse. Fraserburgh Bay has a 2-mile beach. New Aberdour has a sheltered beach with caves. Banff Links has a pleasant sandy beach on the Moray Firth. All are within a 30-minute drive.

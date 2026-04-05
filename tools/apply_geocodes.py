@@ -8,6 +8,7 @@ import json
 from pathlib import Path
 
 import frontmatter
+import yaml
 
 SCRIPT_DIR = Path(__file__).parent
 CONTENT_DIR = SCRIPT_DIR.parent / "content"
@@ -34,8 +35,7 @@ def run():
 
         try:
             post = frontmatter.load(filepath)
-        except Exception as e:
-            print(f"Warning: skipping {filepath}: {e}")
+        except yaml.YAMLError:
             continue
         if "latitude" in post.metadata and "longitude" in post.metadata:
             continue

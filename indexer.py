@@ -3,6 +3,7 @@ import hashlib
 from pathlib import Path
 
 import frontmatter
+import yaml
 
 CONTENT_DIR = Path("content")
 DB_PATH = Path("search.db")
@@ -20,8 +21,12 @@ def file_hash(path):
     return hashlib.md5(path.read_bytes()).hexdigest()
 
 def _load(path):
-    post = frontmatter.load(path)
-    return post.metadata, post.content
+    """Load frontmatter; returns ({}, '') on invalid YAML so callers can continue."""
+    try:
+        post = frontmatter.load(path)
+        return post.metadata, post.content
+    except yaml.YAMLError:
+        return {}, ''
 
 def _url_path(rel_path):
     """Derive URL path from a content-relative file path."""
@@ -72,15 +77,7 @@ def index_file(conn, path):
     if row and row[0] == mtime and row[1] == h:
         return
 
-    try:
-        try:
-        title, body, page_type = extract(path)
-    except Exception as e:
-        print(f"Warning: skipping {path}: {e}")
-        return
-    except Exception as e:
-        print(f"Warning: skipping {path}: {e}")
-        return
+    title, body, page_type = extract(path)
     url_path = _url_path(path.relative_to(CONTENT_DIR))
     location = _find_parent_location(path)
     conn.execute("DELETE FROM docs WHERE path=?", (rel,))

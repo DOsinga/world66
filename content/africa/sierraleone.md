@@ -6,7 +6,7 @@ longitude: -11.840027
 image: sierraleone.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Fishing_boat_in_Port_Loko_river_-_Feb_2011_-_panoramio.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161113094008/http://www.panoramio.com/user/2371979?with_photo_id=48573206">Ghassan Mroue</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161113094008/http://www.panoramio.com/user/2371979?with_photo_id=48573206">Ghassan Mroue</a>'
 ---
 
 Sierra Leone is one of West Africa's most overlooked destinations — a small country with stunning beaches, dense rainforest, warm people, and a complicated history it's still working through. The civil war that ravaged the country through the 1990s ended in 2002. Two decades on, Sierra Leone is at peace and slowly building its tourist infrastructure, though it remains raw, underdeveloped, and genuinely off the beaten path.

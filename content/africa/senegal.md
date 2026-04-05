@@ -6,7 +6,7 @@ longitude: -14.452961
 image: senegal.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:MégalitheSénégal.jpg"
 image_license: "CC BY-SA 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/photos/gbaku/">John Atherton</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/photos/gbaku/">John Atherton</a>'
 ---
 
 *Africa > Senegal*

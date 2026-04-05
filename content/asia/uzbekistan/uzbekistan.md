@@ -6,7 +6,7 @@ longitude: 64.585262
 image: uzbekistan.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Kalon-Ensemble_Buchara.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Euyasik" title="User:Euyasik">Euyasik</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Euyasik" title="User:Euyasik">Euyasik</a>'
 ---
 
 Uzbekistan is the beating heart of the ancient Silk Road. Three of its cities — [Samarkand](/asia/uzbekistan/samarkand), [Bukhara](/asia/uzbekistan/bukhara), and [Khiva](/asia/uzbekistan/khiva) — contain some of the most magnificent Islamic architecture anywhere on earth, and together they justify any journey to Central Asia. This is a country where history is written in tilework and mud brick, in mosques and mausoleums that have outlasted empires.

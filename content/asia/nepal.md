@@ -6,7 +6,7 @@ longitude: 83.99999
 image: nepal.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Alpenglow_on_Everest.jpg"
 image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/35278629@N08">NASA Goddard Space Flight Center</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/35278629@N08">NASA Goddard Space Flight Center</a>'
 ---
 
 Travel Guide

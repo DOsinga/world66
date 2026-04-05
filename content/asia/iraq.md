@@ -6,7 +6,7 @@ longitude: 44.174977
 image: iraq.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Mesopotamian_sunset.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Silver_mahmoud&amp;action=edit&amp;redlink=1" class="new" title="User:Silver mahmoud (page does not exist)">Silver mahmoud</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Silver_mahmoud&amp;action=edit&amp;redlink=1" class="new" title="User:Silver mahmoud (page does not exist)">Silver mahmoud</a>'
 ---
 
 Iraq is Mesopotamia — the Land Between the Rivers, where civilization began. The Tigris and Euphrates have been feeding humanity here for at least six thousand years, and the archaeological record is extraordinary: ziggurats, royal tombs, the ruins of Babylon, the spiral minaret of Samarra, the ancient Assyrian capitals at Nineveh and Nimrud. Nowhere else on earth has quite this density of deep history.

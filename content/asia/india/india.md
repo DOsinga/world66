@@ -6,7 +6,7 @@ longitude: 78.962880
 image: india.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Back_view_of_Rashtrapati_Bhavan.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Tamjeed_Ahmed" title="User:Tamjeed Ahmed">Tamjeed Ahmed</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Tamjeed_Ahmed" title="User:Tamjeed Ahmed">Tamjeed Ahmed</a>'
 ---
 
 *Asia > India*

@@ -6,7 +6,7 @@ longitude: -157.3626
 image: kiribati.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Abaiang_top_view.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Flexman" title="User:Flexman">Flexman</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Flexman" title="User:Flexman">Flexman</a>'
 ---
 
 Kiribati (pronounced "Kiribas") is one of the most remote and scattered nations on Earth — 33 atolls and reef islands spread across 3.5 million square kilometres of the central Pacific Ocean. The total land area is just 811 square kilometres, most of it barely a metre or two above sea level. It straddles both the equator and the International Date Line, meaning it inhabits the most easterly time zones in the world.

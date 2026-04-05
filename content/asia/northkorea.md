@@ -6,7 +6,7 @@ type: location
 image: northkorea.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Party_Foundation_Monument_(10875731074).jpg"
 image_license: "CC BY-SA 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="http://www.uritours.com">Uri Tours</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="http://www.uritours.com">Uri Tours</a>'
 ---
 
 North Korea — officially the Democratic People's Republic of Korea — is the most closed country on earth and, for that reason, one of the most compelling. Every visitor goes as a guest of the state. You will be met at the airport, escorted everywhere by two government-assigned guides, and shown a carefully curated version of the country. You will not wander freely. You will not speak to locals without a minder present. And yet people come back transformed.

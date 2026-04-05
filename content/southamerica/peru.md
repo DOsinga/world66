@@ -6,7 +6,7 @@ longitude: -75.045851
 image: peru.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg"
 image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/91008793@N00">bobistraveling</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/91008793@N00">bobistraveling</a>'
 ---
 
 **The Land of the Incas**

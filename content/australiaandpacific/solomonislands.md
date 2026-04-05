@@ -6,7 +6,7 @@ longitude: 159.107069
 image: solomonislands.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Fenualoa_lagoon_2-4.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Pohopetch&amp;action=edit&amp;redlink=1" class="new" title="User:Pohopetch (page does not exist)">Pohopetch</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Pohopetch&amp;action=edit&amp;redlink=1" class="new" title="User:Pohopetch (page does not exist)">Pohopetch</a>'
 ---
 
 Nearly 1,000 islands scattered across 1,500km of the southwest Pacific, the Solomon Islands remain one of the least-visited and most rewarding destinations in the region. This is not package tourism — getting here takes effort, logistics are genuinely challenging, and infrastructure outside Honiara is minimal. In return, you get some of the world's best diving, extraordinary cultural depth, and a sense that you've arrived somewhere that hasn't been processed for visitors.

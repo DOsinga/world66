@@ -1,16 +1,14 @@
 ---
-title: "Eilat"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 29.5577
+longitude: 34.9519
+title: Eilat
 type: location
-latitude: 29.556935
-longitude: 34.949795
 ---
 
-Travel Guide
+Eilat is Israel's southernmost city, perched at the northern tip of the Red Sea where the borders of Israel, Jordan, and Egypt converge in a blaze of desert and coral. It exists primarily as a beach resort — a warm-water escape from the cold Israeli winters — built around some of the most accessible coral reef snorkeling in the world. The underwater life is the real draw: colorful reef fish, rays, and occasional dolphins can be seen just meters from shore.
 
-Eilat is a place to come to swim, sun, and tan - if you have lots of money to throw around. The once-upon-a-time, excellent beaches have become somewhat degraded with use and abuse - and many have been hijacked by the big seafront hotels. Away from the hotel area much of the rest of the town is unbelievably squalid.
+Away from the water, Eilat is a brash, tourist-heavy town with inflated prices and limited cultural depth. The hotel strip dominates the seafront, and the beaches closest to the city center are crowded and worn. The best experiences here involve getting underwater or getting out of town — the Eilat Mountains offer dramatic desert hiking through rust-colored sandstone canyons, and day trips into Jordan's Wadi Rum or Egypt's Sinai are easy from the border crossings on either edge of the city.
 
-The formerly attractive seafront is filled by casual traders operating from shanty-like premises - great if you enjoy buying tat at inflated prices. You can sit on a camel, snorkel etc, but this is better and cheaper across the south-western border in Egypt. For a cultural holiday you need to go north to Jerusalem or Acre.
-
-At night there are quite a few things going on in Eilat. The nightlife is lively and there are many discos and bars where you can meet fellow travellers. Keep a tight hold on your belongings as pilfering is a way of life here.
-
-Eilat is surrounded by a geomorphologically stunning nature reserve and daily tours into the Eilat mountains are readily available. Short jeep tours are a rip-off, only visiting the rubbish-strewn outskirts of the town, but hiking tours are a must. Take a bus or taxi in the direction of Ovda and walk one of the trails
+Nights in Eilat are lively, with bars and clubs clustered around the promenade catering to a mix of Israeli holidaymakers and international backpackers. The city is duty-free, which keeps alcohol and electronics prices down.

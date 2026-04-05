@@ -1,19 +1,26 @@
 ---
-title: "Eating Out in Providence"
+title: "Eating Out"
 type: section
 ---
 
-One choice in Providence restaurants for good seafood is Hemenway's Seafood on 121 Main Street in downtown on the river. This restaurant provides excellent service and the seafood is fresh. Hemenway's offers lunch and dinner service. Guests can enjoy lunch entrees such as crab and lobster cakes, lobster ravioli, pan seared ahi tuna, macadamia shrimp, steamed mussels, scallop salad, baked stuffed shrimp, and grilled filet tips salad. For dinner, enjoy blackened catfish, grilled swordfish, and rack of lamb. They also have an oyster bar and some combo platters as well. For online reservations and directions, visit their website at hemenwaysrestaurant.com.
+Providence has an unusually strong restaurant scene for its size. Federal Hill is the center of Italian-American cooking, but the dining options spread across neighborhoods and cuisines.
 
-There are many Italian restaurants in Providence. But there was only one awarded Small Business Administration's Jeffrey H. Butland Family-Owned Small Business of the Year in 2008. That honor goes to Angelo's Restaurant at 141 Atwells Avenue. Customers can enjoy a eatery that has been serving Providence for over 80 years. Stop in and enjoy a meal of grilled shrimp or chicken salad, fried ravioli, ziti, homemade ravioli, grilled vegetable lasagna, cavatelli, veal & peppers, chicken, veal, or eggplant parmesan, fried or broiled pork chops, and grilled steak. For hours, directions and daily specials, check out their website at angelosonthehill.com.
+#### Angelo's Civita Farnese
 
-For fine, upscale dining, visit Aspire Restaurant in the heart of downtown at the Hotel Providence. This Providence restaurant is the place to go if you on a date or want a special place to take your significant other. Guests can enjoy mid-day, lunch, and dinner service. There is also an extensive wine list as well as a bar menu. Diners can select entrees like arugula salad, roasted pumpkin and squash bisque, new england clam chowder, shrimp and snow pea potstickers, portabella mushroom pizza, grilled chicken panini, and veal bolognese. Reservations can be made online through their website, aspirerestaurant.com.
+141 Atwells Avenue, Federal Hill. Open since 1924, Angelo's is the kind of place that hasn't changed much and doesn't need to. The menu runs to red-sauce standards — homemade ravioli, veal parmesan, cavatelli — at prices that seem impossible for this quality. Cash only; expect a line on weekends.
 
-Another great Italian eatery is Bacaro at 262 South Water Street. This is the Providence restaurant to stop by when wanting to meet up with friends. Besides having a wine bar, dining on the first and second floors can see the chefs in action. Customers can enjoy salads in such varieties like squid & octopus, strawberry & goat cheese, shrimp & avocado, and peaches & prosciutto. Other entrees include rigatoni with veal bolognese, duck breast with risotto, and poached scallops with spinach. Bacaro offers freshly-made grilled pizzas as well. Reservations or private room requests can be made online at bacarorestaurant.net.
+#### Hemenway's Seafood Grill
 
-A favorite Providence restaurant is Blake's Tavern at 122 Washington Street. This is especially popular with the lunch crowd. Customers' favorites include teriyaki chicken wings, grilled chicken tenders, crab cakes, potato skins, pepper jack cheesesticks, sweet potato fries, buffalo chicken salad, fajitas, rib & chicken platter, and stuffed shrimp with crabmeat. Other popular items are turkey burgers, penne carbonara, and hot turkey sandwich with stuffing and cranberry mayo. Blake's has a drink list as well that includes draught and bottle beer, wines, mixed drinks, and specialty beverages. For a full menu and more information, visit their website at blakestavern.com.
+121 South Main Street, downtown on the river. The go-to for fresh New England seafood: oyster bar, lobster ravioli, grilled swordfish, chowder. Reliable for both lunch and dinner. Reservations available at hemenwaysrestaurant.com.
 
-If you are looking for a Providence restaurant to enjoy contemporary fine, world-class cuisine, stop by Cafe Nuovo at One Citizens Plaza. Relax with a glass of wine and shrimp & avocado sushi maki, crispy duck mooshu, chipotle salmon chowder, apple & bibb salad with cider dressing, and spicy sirloin stew. Or, try something from the chilled bar of oysters, shrimps, and clams. Dinner service offers such entrees as denver lamb chops, swordfish steak, lobster ravioli, risotto with sea scallops, stuffed cornish hen, and macadamia & goat cheese rack of lamb. For hours and directions, visit their website at cafenuovo.com/cafenuovo.
+#### Bacaro
 
-**Contributors**
-July 06, 2009
+262 South Water Street. A wine bar with an open kitchen and serious food: squid and octopus salads, duck breast with risotto, poached scallops. Good for groups that want to share plates and linger. Reservations at bacarorestaurant.net.
+
+#### Cafe Nuovo
+
+One Citizens Plaza. Contemporary fine dining in a good downtown location. Strong on New England seafood preparations and an oyster bar. Works well for a special occasion dinner.
+
+#### Aspire Restaurant
+
+At the Hotel Providence, downtown. Upscale but not stiff. The menu leans American with global influences; the wine list is extensive. Good for a business dinner or date night.

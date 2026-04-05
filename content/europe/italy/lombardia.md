@@ -1,8 +1,10 @@
 ---
-title: "Lombardia"
+title: Lombardia
 type: location
 latitude: 45.4654
 longitude: 9.1859
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Lombardia is Italy's economic engine and its most populous region — yet it contains some of the country's most beautiful landscapes. The Alps form its northern edge, dropping through foothills and lake districts before flattening into the broad Po Valley. Within a couple of hours you can go from Milan's fashion boutiques to mountain villages that haven't changed much in a century.

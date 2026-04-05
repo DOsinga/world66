@@ -1,14 +1,14 @@
 ---
 title: "Aqaba"
 type: location
-latitude: 29.526648
-longitude: 35.007543
+latitude: 29.5267
+longitude: 35.0075
 ---
 
-Aqaba is located in the south of Jordan just accross the border from Eilat in Israel and is the only place in the whole country where you can go to the beach. Although the beaches aren't great, snorkeling and diving is. The red sea has a fantastic underwaterscape and although a few spots in Egypt may have better opportunities, Aqaba is pretty okay. 
+Aqaba is Jordan's only coastal city and the country's sole seaport, at the northern tip of the Red Sea where Jordan, Israel, Egypt, and Saudi Arabia converge. It has a population of around 150,000. The city is the jumping-off point for the south of Jordan — Wadi Rum (65km north) and Petra (130km north) — and a significant destination in its own right for Red Sea diving and snorkelling.
 
+The diving is the main draw. Aqaba Marine Park protects the reef along the southern coast; the underwater life is excellent and visibility is typically very good. Several dive operators offer courses and day trips. The beaches themselves are mixed — some clean and pleasant, others not — and the best are south of the city centre. The compact, atmospheric old city centre has the Mamluk-era Aqaba Castle (rebuilt after being damaged by Lawrence of Arabia and British naval guns in 1917) and the small Archaeological Museum.
 
+Aqaba sits within the Aqaba Special Economic Zone, making imported goods cheap by regional standards — duty-free shopping is a significant draw for Jordanian and Saudi visitors. The city is warm year-round but brutally hot in summer; October to April is the comfortable season.
 
-The town itself is not really exciting. Don't expect anything Lawrence of Arabia-style (he did fight one of his major battles here, though). 
-
-Aqaba is a convenient starting point for seeing a few of the main attractions in the south of Jordan such as [Petra](/asia/jordan/petra) or [Wadi rum](/asia/jordan/wadirum) . Furthermore it offers the possibility to take the boat to Egypt, with ferries leaving regularly for Nuweiba in the Sinai .
+Ferries cross to Nuweiba in Egypt's Sinai from the passenger port; the fast ferry takes about 1 hour.

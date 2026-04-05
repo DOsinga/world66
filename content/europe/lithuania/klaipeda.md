@@ -1,20 +1,12 @@
 ---
 title: "Klaipeda"
 type: location
-latitude: 55.712753
-longitude: 21.135047
+latitude: 55.7128
+longitude: 21.1350
 ---
 
-Klaipeda is the third city of Lithuania and the most important port. Until 1919 the city was part of [Germany](/europe/germany) and known as Memel. The old town still has quite a few monuments from those days and is rather popualr with German tourists.
+Klaipeda is Lithuania's only seaport and the country's third-largest city. Until 1919 it was the German city of Memel, part of Prussia, and German influence is visible in the half-timbered buildings of the old town and in the history museums. The city sits at the mouth of the Curonian Lagoon, where it narrows to a strait that separates mainland Lithuania from the Curonian Spit.
 
+The old town is compact and pleasant, centred on **Theatre Square** — named for the neoclassical Drama Theatre — with the fountain of Simon Dach, the 17th-century German poet born here, in front of it. The **History Museum of Lithuania Minor** chronicles the pre-war German-Lithuanian history of the region.
 
- The heart of the old town is the **Theatre Square** named after the Neoclassical theatre. In front of the theatre is the fountain of Anna.
-
-
- Southeast of the Sqaure you find the **History Museum of Lithuania Minor** with local finds and costumes,
-
-
- In the new town, just north of the old town the most impressive sights are the **Post Office** which dates from the end of the 19-th century and the **Clock Museum** with some magnificent 18-th century clocks.
-
-
- A short ferry ride takes you accross the Kurland Lagoon to Neringa, where you find an excellent **Maritime Museum** housed in an old German fort.
+A short ferry crossing takes you to the Curonian Spit, a UNESCO World Heritage site: a 98km strip of sand dunes, pine forests, and fishing villages shared between Lithuania and Russia. The **Lithuanian Sea Museum** at Smiltyne, on the Spit's Lithuanian end, is one of the best museums in the country. Nida, the main village on the Lithuanian section of the Spit, is a day trip worth taking.

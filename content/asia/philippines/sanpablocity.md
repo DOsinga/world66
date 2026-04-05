@@ -1,14 +1,12 @@
 ---
 title: "San Pablo City"
 type: location
-latitude: 14.06534
-longitude: 121.320819
+latitude: 14.0653
+longitude: 121.3208
 ---
 
-Travel Guide
+San Pablo City in Laguna province, around 100km south of Manila, is known as the "City of Seven Lakes" — seven volcanic crater lakes lie within and around the city, the largest being Sampaloc Lake (104 hectares). Bamboo rafting on the twin lakes of Pandin and Yambo, cycling around Sampaloc, and visiting lakeside restaurants built over the water are the main draws.
 
-We currently have no information about San Pablo City.
+The city is an agricultural centre for the wider Laguna region, with coconut — the dominant crop — at the heart of its economy and food culture. Villa Escudero, a large coconut plantation and museum south of the city, preserves material from the Philippine struggle for independence and attracts domestic tourists. The AERA Memorial Museum has a substantial collection of religious artefacts, wartime exhibits, and natural history.
 
-If you do know any general information about San Pablo City, please [Edit this article].
-
-If you know any hotels in San Pablo City or restaurants in San Pablo City, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/philippines/sanpablocity)
+San Pablo is a practical base for exploring southern Luzon: Mount Banahaw, an active volcano and popular pilgrimage site, is to the southeast; Anilao on the Batangas coast, one of the Philippines' best diving destinations, is around 55km to the south.

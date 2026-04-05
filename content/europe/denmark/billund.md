@@ -1,12 +1,12 @@
 ---
 title: "Billund"
 type: location
-latitude: 55.724702
-longitude: 9.119583
+latitude: 55.7247
+longitude: 9.1196
 ---
 
-Billund is the site of Legoland. All children who play with lego dream of visiting this park with an area of 100,000 m2. The park attracks around 1.4 million visitors every year. Around half of all visitors come from abroad and, after Denmark, the countries providing the largest numbers of visitors are Germany, Sweden and Norway. Since it was opened, more than 30 million people have visited the park. Every other year, the readers of Denmark's largest newspaper, "Jyllands-Posten", are invited to vote on which is the most popular family attraction in the country. In 1996 and again in 1998 they awarded the No. 1 position to the LEGOLAND.
+Billund is a small town in central Jutland, Denmark, with a population of around 6,000. It is almost entirely defined by two things: Legoland (the original, opened 1968) and Billund Airport, which is Denmark's second-busiest airport and serves most of Jutland. The Lego Group has its global headquarters here and the town exists largely to service the park and its visitors.
 
+Legoland Billund was the world's first Legoland when it opened in June 1968. The park features Miniland — a scale model of cities and landmarks built from millions of Lego bricks — alongside rides, shows, and themed areas for children up to around 12 years old. The adjacent Lalandia resort (opened 2009) adds an indoor water park, bowling, and family accommodation. Together they make Billund a viable two- or three-day family destination.
 
- 
- LEGOLAND is split into themed areas which appeal to children in various age groups. The aim of LEGOLAND is to give children aged 2-13 and their parents an intense, hands-on experience of the LEGO Group's core values - creativity, play and development. In the park, the focus is on children. They can play and learn in unique surroundings. On average, families stay in the park for 6 hours. Creative play in safe surroundings.
+Outside the park, Billund is unremarkable — a corporate headquarters town in flat Jutland. The interest is in the surrounding region: Jelling (15km north) has Viking rune stones and a UNESCO World Heritage church that are among the most important monuments in Scandinavia; Vejle (30km east) is a more conventionally attractive town with good restaurants and a fjord setting; Givskud Zoo (20km west) is a large safari park.

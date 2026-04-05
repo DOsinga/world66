@@ -1,20 +1,10 @@
 ---
-title: "Getting Around in Birmingham"
+title: "Getting Around"
 type: section
 ---
 
-**Getting Around Birmingham**
+The city centre is walkable — the Bullring, Victoria Square, Centenary Square, and Brindleyplace are all within 15 minutes on foot of New Street station. The tram network (West Midlands Metro) runs from Wolverhampton through West Bromwich to Grand Central/New Street and extends toward Edgbaston; new extensions are regularly being added.
 
-Given the high population density of **Birmingham**, **Transportation** is well developed in this British city. Here are some tips on how to get around this city.
+Buses are operated by National Express West Midlands and cover the wider city and suburbs. The city centre has several pedestrianised zones. A car is useful for reaching the Balti Triangle, Aston Hall, Cadbury World in Bournville, and attractions further out.
 
-#### **Getting Around by Taxi**
-
-This is a popular way to get around the city, especially late at night after hitting a pub. There are several taxi stops around town, but the most popular one is at New Street Station. Be aware to only get into taxis which are officially marked as taxis or taxis you have previously booked via telephone. On Friday and Saturday nights, you can expect longer waiting times, especially on Broad Street.
-
-#### **Getting Around by Rental Car**
-
-Since Birmingham has several large pedestrian zones and unintuitive one-way systems, it is not a good idea to rent a car. Car rental is only recommended if you have to make several trips outside of the city. You can expect to pay about 1 to 1.50 British Pounds per hour. Feed the meters consistently and don't park illegally because the penalty fees are expensive in England.
-
-#### **Getting Around by Bus**
-
-This is the most convenient way to get around town if you are visiting on a tight budget. You can find bus stops at Bull Street, Colmore Row, Corporation Street and Stephenson Street. It is a good idea to buy a city guide before your arrival to Birmingham and become familiar with the location of these streets so you can find the respective bus stops. Single fares are about 1.70 British Pounds and require exact change. If you're planning to use the bus often, you can save money by buying an all-day or weekly bus pass.
+Taxis are plentiful from the rank at New Street station, Broad Street, and the Bullring. Private hire (minicabs) are cheaper for pre-booked journeys. Cycling infrastructure has improved considerably in recent years.

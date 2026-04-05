@@ -6,6 +6,7 @@ Uses the `type` field (location, section, poi) to classify pages.
 The frontmatter title is the source of truth — no runtime name mapping.
 """
 
+import re
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
@@ -14,6 +15,7 @@ import frontmatter
 from django.conf import settings
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
+_FRONTMATTER_BLOCK = re.compile(r"^---\s*\n.*?\n---\s*\n?", re.DOTALL)
 
 DISPLAY_PROPERTIES = {
     "address": "Address",
@@ -41,7 +43,10 @@ def _load_md(path):
     try:
         post = frontmatter.load(path)
     except Exception:
-        return {}, path.read_text(encoding="utf-8", errors="replace")
+        # Best-effort fallback: strip the frontmatter block so a broken
+        # YAML header doesn't render as body text.
+        text = path.read_text(encoding="utf-8", errors="replace")
+        return {}, _FRONTMATTER_BLOCK.sub("", text, count=1)
     return post.metadata, post.content
 
 

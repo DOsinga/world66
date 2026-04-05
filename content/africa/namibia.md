@@ -1,12 +1,14 @@
 ---
-title: "Namibia"
+title: Namibia
 type: location
 latitude: -23.23355
 longitude: 17.323111
 image: namibia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Robbenkolonie_Sklelettküste_anagoria.JPG"
-image_license: "CC BY 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Anagoria" title="User:Anagoria">Anagoria</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Robbenkolonie_Sklelettküste_anagoria.JPG
+image_license: CC BY 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Anagoria" title="User:Anagoria">Anagoria</a>
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Namibia, a huge but sparsely populated country, is situated in southwestern Africa. Irt is known for its contrasting landscapes. There is the brooding desolate Namib Desert, said to be the oldest in the world, with its high dunes and awe inspiring sense of space. The central plateau, with its thornbush savanna and rugged mountains, rising abruptly from the plains, gives way to the majestic Fish River Canyon in the South. In the North of the country, landscapes range from dense bush and open plains of the great Etosha pan, to woodland savanna and lush riverine vegetation.

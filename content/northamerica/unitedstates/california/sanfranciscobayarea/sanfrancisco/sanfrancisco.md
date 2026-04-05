@@ -1,8 +1,10 @@
 ---
-title: 'San Francisco'
+title: San Francisco
 type: location
 latitude: 37.7749
 longitude: -122.4194
+done:
+  location_cleanup: 2026-04-04
 ---
 
 San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for weeks. The fog rolling through the Golden Gate, the pastel Victorians stacked up steep hillsides, the glittering Bay stretching out to Alcatraz -- it all looks like someone designed it for a postcard, except it is real and people actually live here.

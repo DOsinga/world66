@@ -1,8 +1,10 @@
 ---
-title: 'Piemonte'
+title: Piemonte
 type: location
 latitude: 45.0522
 longitude: 7.5155
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Piedmont is the region where Italy meets the Alps, a land of snow-capped mountains, rolling vineyard hills, and one of the country's most sophisticated cities. Tucked into the northwest corner of the peninsula, bordering France and Switzerland, it feels distinctly different from the Italy of popular imagination -- quieter, more refined, and seriously devoted to the pleasures of eating and drinking well.

@@ -1,8 +1,10 @@
 ---
-title: 'Sicily'
+title: Sicily
 type: location
 latitude: 37.5994
 longitude: 14.0154
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Sicily is not just another Italian region. The largest island in the Mediterranean has been invaded and reinvented so many times that it feels like its own country, one where Greek temples, Arab domes, Norman castles, and Baroque palaces share the same skyline. The food is different, the light is different, and the pace is slower.

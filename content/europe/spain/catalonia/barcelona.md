@@ -1,8 +1,10 @@
 ---
-title: 'Barcelona'
+title: Barcelona
 type: location
 latitude: 41.38258
 longitude: 2.177073
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Barcelona is one of those rare cities that genuinely lives up to its reputation. The capital of Catalonia sprawls along the Mediterranean coast, hemmed in by hills and sea, and packs more architectural spectacle, street life and sheer creative energy into its neighbourhoods than most countries manage in their entirety.

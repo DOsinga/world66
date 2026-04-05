@@ -5,12 +5,10 @@ latitude: -37.011479
 longitude: 174.850578
 ---
 
-The **Auckland Region** of the [North Island](/australiaandpacific/newzealand/north_island), with a population of over 1 million, includes the cities of [Auckland](/australiaandpacific/newzealand/auckland), [North Shore City](/australiaandpacific/newzealand/northshorecity), Waitakere and Manukau as well as the Rodney and [Franklin](/northamerica/unitedstates/northcarolina/franklin) districts. 
+The **Auckland Region** stretches from the Manukau Harbour in the south to the Rodney district in the north. It includes [Auckland](/australiaandpacific/newzealand/auckland) city and its surrounding urban area — the former cities of North Shore, Waitakere, and Manukau were merged into a single Auckland Council in 2010. Around 1.7 million people live here, roughly a third of New Zealand's total population.
 
-Other places include
+Other places include:
 
-[Hauraki gulf maritime park](/australiaandpacific/newzealand/haurakigulfmaritimepark)
+[Hauraki Gulf Maritime Park](/australiaandpacific/newzealand/haurakigulfmaritimepark)
 
-[Devonport](/australiaandpacific/newzealand/devonport) - A suburb of [North Shore City](/australiaandpacific/newzealand/northshorecity)
-
-Minor corrections on 11 January 05
+[Devonport](/australiaandpacific/newzealand/devonport)

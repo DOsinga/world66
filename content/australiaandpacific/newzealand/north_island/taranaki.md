@@ -9,4 +9,3 @@ longitude: 174.19735
 
 The largest city is [New Plymouth](/australiaandpacific/newzealand/newplymouth)
 
-Minor corrections on 11 January 05

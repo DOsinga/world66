@@ -6,7 +6,7 @@ longitude: -71.797
 image: turks__caicos_isl.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Grand_Turk_beach.JPG"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="https://en.wikipedia.org/wiki/User:Jersyko" class="extiw" title="wikipedia:User:Jersyko">Jersyko</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>"
+image_attribution: '<a href="https://en.wikipedia.org/wiki/User:Jersyko" class="extiw" title="wikipedia:User:Jersyko">Jersyko</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>'
 ---
 
 The Turks and Caicos Islands are a British Overseas Territory of about 40 islands and cays scattered across a broad shallow bank in the Atlantic Ocean, southeast of the Bahamas. Most are uninhabited. The ones that are not have become, improbably, some of the most sought-after beach destinations in the Caribbean.

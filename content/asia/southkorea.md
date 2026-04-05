@@ -6,7 +6,7 @@ longitude: 127.696119
 image: southkorea.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Seoul_subway_peak_hour.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>'
 ---
 
 *Asia > South Korea*

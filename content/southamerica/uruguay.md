@@ -6,7 +6,7 @@ longitude: -56.020153
 image: uruguay.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Calle_Washington_Barbot.JPG"
 image_license: "CC0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finland" title="User:Ypsilon from Finland">Ypsilon from Finland</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finland" title="User:Ypsilon from Finland">Ypsilon from Finland</a>'
 ---
 
 Uruguay is a small, yet prosperous country sandwiched between [Argentina](/southamerica/argentina) and [Brazil](/southamerica/brazil) in the heart of South America. It is basically a European country, since the majority of its citizens are descended from Spanish and Italian immigrants. Spanish is the official language, but more than half the country also speaks English. Uruguay is more upscale with less poverty and strife than its neighbors. [Montevideo](/southamerica/uruguay/montevideo) seems safer than other South American capitals. The old city, Ciudad Vieja, has many colonial buildings that are now museums, art galleries, antique shops and restaurants. For nature lovers, the Eastern Wetlands contain swamps, lagoons, marshes, and streams with hundreds of bird species. UNESCO has declared the area a biosphere reserve. There are plenty of canoeing and fishing opportunities in both Uruguay and Negro River.

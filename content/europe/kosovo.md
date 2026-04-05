@@ -6,7 +6,7 @@ longitude: 20.9030
 image: kosovo.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:07_Gjakova_Naten_Gjakova_at_Night.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:ShkelzenRexha" title="User:ShkelzenRexha">ShkelzenRexha</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:ShkelzenRexha" title="User:ShkelzenRexha">ShkelzenRexha</a>'
 ---
 
 Kosovo declared independence from [Serbia](/europe/serbia) in 2008 and is recognized by over 100 countries, though not by all. It is small, young, and still figuring itself out — which makes it an interesting place to visit. The atmosphere is hopeful and the welcome is warm, especially toward Westerners whose countries supported independence.

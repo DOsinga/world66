@@ -6,7 +6,7 @@ longitude: -72.2852
 image: haiti.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:At_the_Border_of_Haiti_and_the_Dominican_Republic_(8057179936).jpg"
 image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/34120957@N04">Alex Proimos</a> from Sydney, Australia"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/34120957@N04">Alex Proimos</a> from Sydney, Australia'
 ---
 
 Haiti occupies the western third of Hispaniola, the island it shares with the Dominican Republic. It was the first Black republic in the world, winning independence from France in 1804 after the only successful slave revolution in history — a fact that has shaped its identity, its relationship with the outside world, and the fierce pride of its people ever since.

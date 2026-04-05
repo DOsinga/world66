@@ -6,7 +6,7 @@ longitude: -77.2975
 image: jamaica.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Jamaica_Ocho_Rios_Dunn's_River_Falls_1.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Dr._Thomas_Liptak" title="User:Dr. Thomas Liptak">Dr. Thomas Liptak</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Dr._Thomas_Liptak" title="User:Dr. Thomas Liptak">Dr. Thomas Liptak</a>'
 ---
 
 Jamaica punches well above its weight. A small island — about 240 km long, 80 km wide — it has produced a disproportionate amount of the world's culture: reggae, dancehall, Rastafari, Blue Mountain coffee, and some of the fastest sprinters in history. The food is distinctive, the landscape dramatic, and the people are genuinely engaging once you get past the hustle in the tourist zones.

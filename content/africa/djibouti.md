@@ -6,7 +6,7 @@ longitude: 43.1456
 image: djibouti.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Lake_Assal_3-Djibouti.jpg"
 image_license: "Public domain"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Fishercd&amp;action=edit&amp;redlink=1" class="new" title="User:Fishercd (page does not exist)">Fishercd</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Fishercd&amp;action=edit&amp;redlink=1" class="new" title="User:Fishercd (page does not exist)">Fishercd</a>'
 ---
 
 Djibouti is one of the smallest and least visited countries in Africa, a sliver of volcanic rock and salt flats wedged between [Eritrea](/africa/eritrea), [Ethiopia](/africa/ethiopia), and [Somalia](/africa/somalia) at the mouth of the Red Sea. It is brutally hot, genuinely expensive, and rewards the traveler with landscapes that look like they belong on another planet.

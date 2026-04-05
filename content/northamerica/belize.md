@@ -6,7 +6,7 @@ longitude: -88.4976
 image: belize.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Beautiful_pier_Caye_Caulker_Belize_(21401259271).jpg"
 image_license: "CC BY 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a>'
 ---
 
 Belize is a small country on the Caribbean coast of Central America, tucked between [Mexico](/northamerica/mexico) to the north and [Guatemala](/northamerica/guatemala) to the west. It punches well above its weight for travelers: the second-longest barrier reef in the world, three offshore atolls, hundreds of cayes, and a jungle interior scattered with Maya ruins. In a single day you can snorkel among sharks and rays in the morning and walk through a rainforest in the afternoon.

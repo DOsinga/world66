@@ -6,7 +6,7 @@ longitude: 7.3986
 image: nigeria.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Zumarock.jpg"
 image_license: "CC BY-SA 2.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/57446549@N00">Shiraz Chakera</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/57446549@N00">Shiraz Chakera</a>'
 ---
 
 *Africa > Nigeria*

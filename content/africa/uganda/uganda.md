@@ -6,7 +6,7 @@ longitude: 32.2903
 image: uganda.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Entebbe_Aerial_view.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Niranjanoak&amp;action=edit&amp;redlink=1" class="new" title="User:Niranjanoak (page does not exist)">Niranjanoak</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Niranjanoak&amp;action=edit&amp;redlink=1" class="new" title="User:Niranjanoak (page does not exist)">Niranjanoak</a>'
 ---
 
 *Africa > Uganda*

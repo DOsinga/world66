@@ -6,7 +6,7 @@ longitude: 171.184478
 image: marshallislands.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Lagoon_Beach_on_Gugeegue.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Tristansill&amp;action=edit&amp;redlink=1" class="new" title="User:Tristansill (page does not exist)">Tristansill</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Tristansill&amp;action=edit&amp;redlink=1" class="new" title="User:Tristansill (page does not exist)">Tristansill</a>'
 ---
 
 The Marshall Islands is one of the most remote countries on earth — a scatter of 29 atolls and 5 islands strung across a vast stretch of the central Pacific, with a total land area barely larger than Washington D.C. Most of that land sits less than two metres above sea level. The country lives on the front line of climate change in a way that almost no other nation does.

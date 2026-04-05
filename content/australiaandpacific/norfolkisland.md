@@ -6,7 +6,7 @@ longitude: 167.948314
 image: norfolkisland.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Old_boat_-_Norfolk_Island.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Pjmonline2000&amp;action=edit&amp;redlink=1" class="new" title="User:Pjmonline2000 (page does not exist)">Peter James McNally</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Pjmonline2000&amp;action=edit&amp;redlink=1" class="new" title="User:Pjmonline2000 (page does not exist)">Peter James McNally</a>'
 ---
 
 Norfolk island was virtually uninhabited when, in 1774, Captain James Cook fell across it. If you see how small the island is and how big the Ocean around, you understand that a bit of luck was involved, even if you take into account that Cook was a great explorer.

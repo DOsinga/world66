@@ -6,7 +6,7 @@ longitude: 101.9758
 image: malaysia.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Melaka-Dutch-Square-2164.jpg"
 image_license: "CC BY-SA 3.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Vmenkov" title="User:Vmenkov">User:Vmenkov</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Vmenkov" title="User:Vmenkov">User:Vmenkov</a>'
 ---
 
 Malaysia is one of Southeast Asia's most rewarding destinations -- a country where Malay, Chinese, Indian and indigenous cultures have blended into something distinct and endlessly interesting. The food alone is worth the trip, and the natural landscapes range from ancient rainforest to coral-fringed islands to cool highland tea plantations.

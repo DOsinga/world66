@@ -6,7 +6,7 @@ longitude: -56.0
 image: suriname.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Zicht_op_en_vanaf_bastion_met_gevel_gebouw_op_fort_aan_de_rivierzijde_-_Paramaribo_-_20377867_-_RCE.jpg"
 image_license: "CC BY-SA 4.0"
-image_attribution: "<bdi><a href="https://www.wikidata.org/wiki/Q18508469" class="extiw" title="d:Q18508469"><span title="Dutch photographer (1926-2011)">Loek Tangel</span></a></bdi>"
+image_attribution: '<bdi><a href="https://www.wikidata.org/wiki/Q18508469" class="extiw" title="d:Q18508469"><span title="Dutch photographer (1926-2011)">Loek Tangel</span></a></bdi>'
 ---
 
 Suriname is South America's smallest sovereign country and one of its least visited — which is part of the appeal. More than 90% of the land is covered by intact tropical rainforest, most of it untouched. The coast holds a different world: a flat, fertile strip where Paramaribo's Dutch colonial wooden buildings stand alongside Hindu temples, mosques, synagogues, and Chinese shops, all within a few blocks of each other.

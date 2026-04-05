@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Napa"
+title: "Eating Out"
 type: section
 ---
 

@@ -102,4 +102,5 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 - Use worktrees if you are doing multiple things at the same time.
 - Try to separate changes to the code from changes to the content from changes to the instruction markdowns — open multiple PRs if needed.
 - We squash PRs when they are ready to merge.
+- Do not force push. Do not ammend commits
 

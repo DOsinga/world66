@@ -1,5 +1,5 @@
 ---
-title: "Festivals in Mcleodganj"
+title: 'Festivals'
 type: section
 ---
 

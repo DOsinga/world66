@@ -3,100 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+There is not a huge body of travel writing about Gabon, but a few books are worth seeking out before or after a visit.
 
-**Rentier State in Africa:Oil Rent Dependency and Neocolonialism in the Republic of Gabon**
+**Out of My Life and Thought** by Albert Schweitzer -- Schweitzer's autobiography covers his decision to abandon a career in music and theology to build a hospital in the Gabonese jungle at [Lambarene](/africa/gabon/lambarene). Written with characteristic modesty, it remains a fascinating account of early twentieth-century colonial Africa and one man's stubborn idealism. Essential reading if you plan to visit the hospital.
 
-** Jeremy Rich:** This is a nice albeit grim introduction to the sordid world of Gabonese politics. While more juicy stories of corruption and the role of the French government are not yet readily available in English, Yates does an admirable job of sketching out the impact of neo-c [more..](/africa/gabon/books/rentierstateinafricaoilrentdependencyandneocolonialismintherepublicofgabon)
+**The Primeval Forest** by Albert Schweitzer -- A more detailed account of Schweitzer's daily life and medical work in Gabon, full of vivid descriptions of the landscape, the river, and the challenges of practicing medicine in the equatorial forest.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865435219/ref=ase_osingacom?v=glance&s=books)
+**The Rentier State in Africa: Oil Rent Dependency and Neocolonialism in the Republic of Gabon** by Douglas A. Yates -- A scholarly but readable analysis of how oil wealth shaped (and distorted) Gabonese politics and society. If you want to understand why Gabon is simultaneously wealthy and underdeveloped, this is the book.
 
-author: Da A. Yates
+**Historical Dictionary of Gabon** by David E. Gardinier -- A dry but comprehensive reference covering Gabonese history, politics, and culture. Useful for looking up specific topics rather than reading cover to cover.
 
-isbn: 0865435219
+**The Stable Minority: Civilian Rule in Africa, 1960-1990** by Samuel Decalo -- Includes substantial coverage of Gabon's post-independence political system under Omar Bongo. Helpful context for understanding the country's decades under single-family rule.
 
-subject: travel
-
-**The Rentier State in Africa :Oil Rent Dependency and Neocolonialism in the Republic of Gabon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0865435200/ref=ase_osingacom?v=glance&s=books)
-
-author: Douglas A. Yates
-
-isbn: 0865435200
-
-subject: travel
-
-**Out of My Life and Thought :An Autobiography**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0801860970/ref=ase_osingacom?v=glance&s=books)
-
-author: Albert Schweitzer,Antje Bultmann Lemke
-
-isbn: 0801860970
-
-subject: culture
-
-**The Primeval Forest:Including on the Edge of the Primeval Forest : And, More from the Primeval Forest**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0801859581/ref=ase_osingacom?v=glance&s=books)
-
-author: Albert Schweitzer,Albert Schweitzer Institute..
-
-isbn: 0801859581
-
-subject: culture
-
-**Brothers in Spirit:The Correspondence of Albert Schweitzer and William Larimer Mellon, JR**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0815603444/ref=ase_osingacom?v=glance&s=books)
-
-author: Albert Schweitzer,William Larimer Mellon,Jean..
-
-isbn: 0815603444
-
-subject: culture
-
-**The Stable Minority:Civilian Rule in Africa, 1960-1990**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1890357006/ref=ase_osingacom?v=glance&s=books)
-
-author: Samuel Decalo
-
-isbn: 1890357006
-
-subject: history
-
-**Historical Dictionary of Gabon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0810827689/ref=ase_osingacom?v=glance&s=books)
-
-author: David E. Gardinier
-
-isbn: 0810827689
-
-subject: history
-
-**The Primeval Forest:Including on the Edge of the Primeval Forest : And, More from the Primeval Forest**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0801859581/ref=ase_osingacom?v=glance&s=books)
-
-author: Albert Schweitzer,Albert Schweitzer Institute..
-
-isbn: 0801859581
-
-subject: history
+For more recent accounts, look for trip reports from wildlife photographers and researchers who have spent time in Loango and Ivindo national parks. These offer some of the most vivid contemporary descriptions of Gabon's interior.

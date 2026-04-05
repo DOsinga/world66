@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 11 339 562 (July 1998 est.)
+Around 90 percent of Cambodia's population of roughly 17 million are ethnic Khmer — the people whose ancestors built Angkor and whose culture, art, and language define the country. The remaining population includes Vietnamese (concentrated in the south and around Phnom Penh), Chinese (prominent in commerce), the Cham Malays (descendants of the ancient kingdom of Champa, now mostly Muslim), and numerous highland groups collectively known as the Khmer Loeu who live in the forested northeast.
 
-**Age structure:**
+The demographic shadow of the Khmer Rouge years (1975–1979) is still visible. The regime killed an estimated 1.5 to 2 million people — roughly a quarter of the population — through execution, forced labour, and famine. The country lost much of its educated and professional class. Today Cambodia's population skews young, and there is a striking gap in the generation that should now be in its fifties and sixties.
 
-*0-14 years:* 45% (male 2 611 684; female 2 533 313)
+Cambodians are overwhelmingly Theravada Buddhist — about 95 percent. Buddhism was suppressed under the Khmer Rouge (monks were killed, temples destroyed) but has since been restored as the national religion. Almost every village has its wat (temple), and many Cambodian men spend time as monks at some point in their lives. Buddhist holidays punctuate the calendar and shape daily rhythms.
 
-*15-64 years:* 52% (male 2 729 598; female 3 119 579)
+The Cham community, Cambodia's largest religious minority, is Muslim. They were among the groups most brutally targeted by the Khmer Rouge, and their population roughly halved during that period. Cham villages, often identifiable by their mosques, are scattered across the country, particularly along the rivers.
 
-*65 years and over:* 3% (male 142 836; female 202 552) (July 1998 est.)
-
-**Population growth rate:** 2.51% (1998 est.)
-
-**Birth rate:** 41.63 births/1 000 population (1998 est.)
-
-**Death rate:** 16.49 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 0.87 male(s)/female
-
-*65 years and over:* 0.7 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 106.76 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 47.99 years
-
-*male:* 46.64 years
-
-*female:* 49.41 years (1998 est.)
-
-**Total fertility rate:** 5.81 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Cambodian(s)
-
-*adjective:* Cambodian
-
-**Ethnic groups:** Khmer 90% Vietnamese 5% Chinese 1% other 4%
-
-**Religions:** Theravada Buddhism 95% other 5%
-
-**Languages:** Khmer (official) French
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 35%
-
-*male:* 48%
-
-*female:* 22% (1990 est.)
+Khmer is the official language — a Mon-Khmer language with its own script, written left to right. English is the practical second language in tourist areas and among younger Cambodians. French survives mainly among older educated Cambodians and in some official contexts, a remnant of the protectorate era.

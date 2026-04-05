@@ -9,9 +9,11 @@ type: section
 
 Kenya has about 250 airports (of vastly varying quality) and plenty of airlines connecting Nairobi with Mombasa, Kisumu, Nanyuki, Malindi, Lamu, and the national parks/reserves of Amboseli Masai Mara and Samburu. While many flights are heavily booked flying around Kenya during the high season, it is a relatively safe and relatively cheap way to cover a lot of ground. Always buy your tickets in advance. If you are going on a “safari” with an organized tour, the company will usually book your tickets to the national parks for you, and the price will be included in the total amount. 
 
-**By Rail:** 
+**By Rail:**
 
-Kenyan Railways is a section of the government that runs the train in Kenya. The train is a luxurious way to travel, with comfortable beds and good meals, and is by far the safest way to travel on the ground. A passenger line runs inland from Mombasa to Nairobi and on to Malaba on the Kenya-Uganda border. There are three classes: First Class, which is the most expensive. You get your own bed and get good service, with free drinking water. Second Class is mostly the same, without all the pampering and free water, but still with a bed and meals. Third Class is very cheap, but passengers have only seats, if they are lucky enough to get one. The train is a good way to get to and from Mombasa from Nairobi, although it is slow and long waits and delays are expected. 
+The **Standard Gauge Railway (SGR)** between Nairobi and Mombasa opened in 2017 and is the main intercity train service. The journey takes about 4.5 hours and the train runs through Tsavo National Park — wildlife sightings from the window are common. The Madaraka Express operates multiple times daily; book tickets in advance at the Kenya Railways website or at Nairobi's Syokimau station. First class has reclining seats and air conditioning; second class is perfectly comfortable. The overnight train is a good alternative to a night bus if you prefer to sleep on board.
+
+An older metre-gauge line from Nairobi to Kisumu (western Kenya) still technically exists but operates irregularly and is very slow. Check locally for current status. The SGR extension to Naivasha opened in 2019 and is useful for Rift Valley travelers.
 
 **By Road (Public Transportation):** 
 
@@ -19,7 +21,7 @@ Public Transportation is very extensive in Kenya, perhaps more so than many othe
 
 **Buses:** 
 
-Buses are comfortable, some what reliable, and fairly cheap. They are quite slow, however. Buses usually leave every morning from major cities such as Nairobi, Mombasa, Kisumu and Eldoret. Night buses are also available to some cities. Good bus companies will not overload their buses will not allow passengers to stand. The best, safest and most reliable bus companies are Coast, Akamba, and Stagecoach. Buy your tickets in advance at the ticket office near the bus stage. 
+Buses are comfortable, some what reliable, and fairly cheap. They are quite slow, however. Buses usually leave every morning from major cities such as Nairobi, Mombasa, Kisumu and Eldoret. Night buses are also available to some cities. Good bus companies will not overload their buses will not allow passengers to stand. The best, safest and most reliable bus companies include Akamba, Easy Coach, Modern Coast, and Dreamline. Buy your tickets in advance at the ticket office near the bus stage or online. 
 
 **Matatus:** 
 
@@ -45,7 +47,7 @@ If you really want the flavor of Kenya, to experience it as only locals do, take
 
 If you're bringing your own vehicle to Kenya you should get a free three-month permit at the border on entry as long as you have a valid carnet de passage for it. Keep in mind there are certain routes in north-east Kenya where you must obtain police permission before setting out. Hiring a vehicle in Kenya (or at least the national parks) is a relatively expensive way to see the country but it does give you freedom of movement and is sometimes the only way of getting to the more remote reaches. Generally Kenyan roads are in good condition. 
 
-Renting a vehicle is quite easy, but fairly expensive. Estimate just over $100 a day for a car, and up to $150 per day for a 4-wheel drive vehicle. There are many agencies in the major cities where you can rent vehicles. 
+Renting a vehicle is straightforward from major airports and city centres. Expect to pay USD 60–100 per day for a saloon car and USD 120–180 for a 4WD. For getting around Nairobi, Uber and Bolt (Taxify) are widely used, reliable, and much safer than hailing random taxis on the street. Both apps work well in Nairobi and Mombasa. 
 
 **Hitch Hiking:** 
 

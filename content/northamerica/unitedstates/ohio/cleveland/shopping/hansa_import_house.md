@@ -1,27 +1,10 @@
 ---
-title: "Hansa Import House"
+title: 'Hansa Import House'
 type: poi
-address: "2701 Lorain Ave"
-email: "sales@hansaimporthaus.com"
-phone: "(216) 281-3177"
-type: "Speciality shops"
-url: "www.hansaimporthaus.com"
+address: '2701 Lorain Ave'
+phone: '(216) 281-3177'
 latitude: 41.483466
 longitude: -81.704739
 ---
 
-This shop specializes in German imports. It mostly features food items, but has a some unique gift items as well. It is a great place to browse and pick up an inexpensive treat when in Ohio City visiting the West Side Market. The shop is located a block from the West Side Market on Lorain Avenue in small obscure chalet-type building. It would be a shame to miss this shop if you are in the neighborhood.
-
-type: Speciality shops
-
-
-
-
-
-tel: (216) 281-3177
-
-url: [www.hansaimporthaus.com](http://www.hansaimporthaus.com)
-
-address: 2701 Lorain Ave
-
-email: sales@hansaimporthaus.com
+A shop specializing in German imports, mostly food items with some unique gifts. A great place to browse and pick up an inexpensive treat when visiting the West Side Market. Located a block away on Lorain Avenue in a small chalet-type building.

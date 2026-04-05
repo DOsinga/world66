@@ -3,20 +3,18 @@ title: "Denmark"
 type: location
 latitude: 55.670249
 longitude: 10.333328
+image: denmark.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:MikkelH" class="mw-redirect" title="User:MikkelH">Mikkel Houmøller</a>'
 ---
 
-Located in northern Europe, Denmark is bordered by the North Sea, the Baltic Sea, and Germany, which is its only connection to the European mainland. Most of its landmass is occupied by the Jutland peninsula while the remaining 500 islands, of which only a hundred are occupied, comprise the rest of the country. The Skagerrak and Kattegat straits separate it from Norway and Sweden. 
+Denmark is small, flat, and extraordinarily livable. It occupies the Jutland peninsula and some 400 inhabited islands, jutting northward between the North Sea and the Baltic. Germany is its only land border. Norway and Sweden lie across the straits to the north and east.
 
-The present-day Denmark owes its cultural and linguist origins to the Danes who migrated here from Sweden in around AD 500. Denmark's history, till the medieval period, is marked by much carnage and bloodshed. The Thirty Years War with Sweden followed by the Napoleonic Wars inflicted damages on the economy of the country. Although Denmark remained neutral in both the World Wars, it surrendered to Germany in 1940 following the large build-up of German forces along its borders. 
+The country punches above its weight in almost everything: design, food, cycling infrastructure, happiness surveys. Danes are famously relaxed and egalitarian, and that ease rubs off on visitors. Cities are safe, clean, and easy to navigate. English is spoken nearly everywhere. The downside is that Denmark is expensive — budget accordingly.
 
-Denmark's prime attraction is its capital [Copenhagen](/europe/denmark/copenhagen), one of the liveliest cities Europe, which also has an active nightlife. Most of the city's attractions are concentrated in a small area, while the parks, gardens, squares, and fountains are interspersed all over. 
+[Copenhagen](/europe/denmark/copenhagen) is the obvious starting point. It is one of the most enjoyable capitals in Europe: compact enough to explore by bike, dense with good food, and architecturally striking without being overwhelming. [Aarhus](/europe/denmark/aarhus), the second city on Jutland, has earned a reputation as a serious cultural destination in its own right, particularly for contemporary art. [Odense](/europe/denmark/odense) on the island of Funen is the birthplace of Hans Christian Andersen, and its medieval centre is well preserved.
 
-If you happen to be a lover of music, the city of [Aarhus](/europe/denmark/aarhus) offers you everything from symphony performances to theatres, apart from the Den Gambe By, which is an open-air theatre and the city's piece de resistance. 
+Beyond the cities, the island of [Bornholm](/europe/denmark/bornholmisland) in the Baltic — closer to Sweden than to the rest of Denmark — offers a slower pace, striking round churches, a strong smoked-food tradition, and dramatic coastal scenery. The chalk cliffs of Møns Klint on [Møn](/europe/denmark/mon) are among the most dramatic landscapes in an otherwise gentle country. [Ribe](/europe/denmark/ribe), in southwest Jutland, is Denmark's oldest town and one of its most atmospheric. [Skagen](/europe/denmark/skagen) at the northern tip of Jutland, where two seas visibly meet, attracts artists and visitors in equal measure.
 
-The historical town of [Ribe](/europe/denmark/ribe) is worth a visit because of the recent explorations that have unearthed a wealth of details about its rich past. [Odense](/europe/denmark/odense) on the island of Funen is the capital of Fairytails. In this charming city you find the house of Hans Christian Andersen. Walking the streets of the historic center you will see where he got his inspiration from. 
-
-Then there are the spectacular white chalk cliffs of Mon's Klint, on the island of [Mon](/europe/denmark/mon); the 17th-century Egeskov Castle; and the picturesque theme park called Legoland in [Billund](/europe/denmark/billund) that are worth visiting. 
-
-Cycling is an activity that tourists often indulge in Denmark along with swimming and surfing. Although you can visit Denmark throughout the year because of its mild climate, May and June see the country at its best. 
-
-Right now world66.com does not have an editor for Denmark. If you are interested click here.
+Cycling is the national sport. Most towns have well-marked cycle routes, and many visitors tour Jutland or the islands almost entirely by bike. The summer light — long, golden evenings that stretch past 10pm — is one of Denmark's best features. Come in June or July if you can.

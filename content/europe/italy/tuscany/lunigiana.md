@@ -1,14 +1,12 @@
 ---
 title: "Lunigiana"
 type: location
-latitude: 44.248489
-longitude: 10.052433
+latitude: 44.2500
+longitude: 9.9500
 ---
 
-A delightful undiscovered and unspoiled area in the hills of northern Tuscany. Medieval hill villages, stunning scenery and good food and wine are among the attractions of this quiet region, which is nevertheless within easy reach of the coastal resorts of Lerici and the Cinque Terre, and the cities of Pisa, Genoa, Florence and Parma.
+Lunigiana is the quiet, hilly corner of northern Tuscany that most visitors drive straight past on their way to Florence or the Cinque Terre. Their loss. The region is a patchwork of medieval hill villages, chestnut forests, and river valleys, with a food culture that owes as much to nearby Liguria and Emilia-Romagna as it does to Tuscany.
 
-An idea of what the area has to offer can be found at www.luniholidays.co.uk , where you will also find excellent value villas and apartments to rent for your holiday.
+The historical centre of the area is Pontremoli, a handsome town straddling the Magra river, but small towns like Fivizzano, Bagnone, and Villafranca in Lunigiana all reward a slow visit. The castles of the Malaspina family dot the hilltops throughout the region -- Verrucola above Fivizzano and Piagnaro in Pontremoli are the most impressive.
 
-## Destinations in Lunigiana
-
-[La Spezia](/world/europe/italy/tuscany/lunigiana/la_spezia)
+Lunigiana is well placed for day trips. [La Spezia](/world/europe/italy/tuscany/lunigiana/la_spezia) and the Cinque Terre are just to the west, Parma is an hour north through the Cisa pass, and Pisa, Lucca, and Florence are all reachable within a couple of hours.

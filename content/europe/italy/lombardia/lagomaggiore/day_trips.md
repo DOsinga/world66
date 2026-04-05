@@ -1,9 +1,9 @@
 ---
-title: "Day Trips in Lago Maggiore"
+title: "Day Trips"
 type: section
 ---
 
-The Lago Maggiore area is perfectly situated along the northern Italian border to make **Lago Maggiore day trips **to other parts of Italy and to other countries entirely a pleasant part of your Lago Maggiore trip. Try to fit at least one day trip into your travel itinerary to any of the following locations:
+Lago Maggiore sits right at the Italian-Swiss border, making day trips to [Milan](/europe/italy/lombardia/milan), Locarno, and even the German-speaking parts of Switzerland easy to arrange.
 
 **Milan (Milano)**
 
@@ -26,5 +26,3 @@ If you want to experience more of the culturally varied areas of Switzerland bes
 
 Zermatt is a fairly small town that's popular with skiers and winter sport enthusiasts because of the slopes and sight of the Alps, but the thawed view of the mountainside is also breathtaking. You can get around the town in electric taxis and buses.
 
-**Contributors**
-March 11, 2010

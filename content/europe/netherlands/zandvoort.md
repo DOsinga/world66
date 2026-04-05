@@ -5,7 +5,6 @@ latitude: 52.359522
 longitude: 4.535026
 ---
 
-Zandvoorts claim to fame is the fact that it is the closest beach from Amsterdam. In summer lot's of Amsterdammers will gather here to lay on the beach, while also lot's of tourist turn up, especially Germans.
+Zandvoort is the nearest beach to **Amsterdam** — less than 30 minutes by direct train from Amsterdam Centraal — and for most visitors that is the whole point. It is a straightforward Dutch seaside town: a wide, clean, windy beach of fine grey sand backed by dunes, a boulevard of beach pavilions and fish stalls, a small working centre of supermarkets and guesthouses, and not much else. Every summer weekend half of Amsterdam turns up to sunbathe, and in July and August the beach is lined end-to-end with deck chairs, pop-up bars, and flocks of gulls.
 
-
- While nothing special really, it is a nice break from the city life and you can be on the beach from downtown Amsterdam in slightly under an hour, so that can be reason enough to go. If you do, try a 'broodje haring' at one of stalls on the beach.
+Beyond the beach, the **Zuid-Kennemerland National Park** begins just behind the dunes and covers a surprising stretch of protected dune heath and woodland — a good place for a walk or a bicycle ride away from the crowds, and home to roe deer, fallow deer and Highland cattle. **Circuit Zandvoort**, just north of the town, is the Dutch motor-racing circuit; since 2021 it has once again been the venue for the **Dutch Grand Prix**, which turns the town orange in late August every year for the home races of Max Verstappen. Come in the week after the Grand Prix if you want the town at its liveliest; come in May or September for the quietest beaches. A simple day out from the city, and one of the easiest escapes from it.

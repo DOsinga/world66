@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Banff"
+title: "Beaches"
 type: section
 ---
 

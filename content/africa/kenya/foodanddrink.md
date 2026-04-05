@@ -1,6 +1,6 @@
 ---
 title: "Food and Drink"
-type: location
+type: section
 ---
 
 Food: The Kenyan diet is based more upon substance than flavor. Traditional dishes include a lot of starches and proteins, with staples such as beans, maize, meat and potatoes. Herbs and spices are not common, and most foods are served with a generous portion of fat (vegetable shortening) and salt. Meat is common and loved by those Kenyans who can afford it, giving carnivorous travelers more options than vegetarians. 

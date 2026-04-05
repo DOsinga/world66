@@ -3,110 +3,24 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**History and the Khmer Rouge**
 
-**The Ends of the Earth:From Togo to Turkmenistan, from Iran to Cambodia: A Journey to the Frontiers of Anarchy**
+*When the War Was Over* by Elizabeth Becker — Becker was one of the few Western journalists to enter Khmer Rouge Cambodia. Her account of the regime and its aftermath is still one of the essential reads on the period.
 
+*First They Killed My Father* by Loung Ung — a memoir of surviving the Khmer Rouge as a young girl, told with unsparing clarity. One of the most powerful accounts of what the regime actually meant for ordinary Cambodians.
 
+*Sideshow: Kissinger, Nixon and the Destruction of Cambodia* by William Shawcross — the definitive account of the US bombing campaign of the early 1970s and how it contributed to the Khmer Rouge's rise. Essential historical context.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679751238/ref=ase_osingacom?v=glance&s=books)
+*The Gate* by François Bizot — a French ethnologist who was held prisoner by the Khmer Rouge in 1971 and uniquely survived; his account of that experience and of watching Phnom Penh fall is unlike anything else written about Cambodia.
 
-author: Robert D. Kaplan
+**Travel and Culture**
 
-isbn: 0679751238
+*River of Time* by Jon Swain — Swain was one of the journalists who stayed in Phnom Penh as the Khmer Rouge entered in 1975. His memoir covers Cambodia and Vietnam with a particular feel for the region in its most turbulent years.
 
-subject: travel
+*Swimming to Cambodia* by Spalding Gray — a darkly comic monologue based on Gray's time in Thailand and Cambodia during the filming of *The Killing Fields*. More meditation than travel guide, but captures something true about the experience of being a foreigner in this part of the world.
 
-**Lonely Planet Cambodia '97**
+*The Ends of the Earth* by Robert D. Kaplan — includes Cambodia in a wide-ranging survey of the world's most troubled frontier zones. The Cambodia section holds up well.
 
+**For Context**
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424477/ref=ase_osingacom?v=glance&s=books)
-
-author: Chris Taylor,Tony Wheeler,Daniel Robinson
-
-isbn: 0864424477
-
-subject: travel
-
-**Traveler's Vietnam, Loas and Cambodia Companion**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0762703652/ref=ase_osingacom?v=glance&s=books)
-
-author: Derek Maitland,Jill Gocher
-
-isbn: 0762703652
-
-subject: travel
-
-**Spalding Gray's Swimming to Cambodia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/093045250X/ref=ase_osingacom?v=glance&s=books)
-
-author: Spalding Gray,James Leverett (Introduction)
-
-isbn: 093045250X
-
-subject: culture
-
-**The Terrible but Unfinished Story of Norodom Sihanouk, King of Cambodia**
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0803263619/ref=ase_osingacom?v=glance&s=books)
-
-author: HGelßene Cixous,Judith Pike (Translator),Loll..
-
-isbn: 0803263619
-
-subject: culture
-
-**Cultural Sites of Burma, Thailand, and Cambodia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/9676530700/ref=ase_osingacom?v=glance&s=books)
-
-author: Jacques Dumarcay,With Michael Smithies
-
-isbn: 9676530700
-
-subject: culture
-
-**Finding Moon**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0061092614/ref=ase_osingacom?v=glance&s=books)
-
-author: Tony Hillerman
-
-isbn: 0061092614
-
-subject: history
-
-**Into Cambodia:Spring Campaign, Summer Offensive, 1970**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0891416730/ref=ase_osingacom?v=glance&s=books)
-
-author: Keith William Nolan
-
-isbn: 0891416730
-
-subject: history
-
-**When the War Was over :Cambodia and the Khmer Rouge Revolution**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1891620002/ref=ase_osingacom?v=glance&s=books)
-
-author: Elizabeth Becker
-
-isbn: 1891620002
-
-subject: history
+*Cambodia's Curse* by Joel Brinkley — a Pulitzer-winning journalist's account of Cambodia in the 2000s: the corruption, the land grabs, the foreign aid industry, and the persistent grip of Hun Sen's government. Less optimistic than the tourist brochures.

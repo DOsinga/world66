@@ -1,11 +1,10 @@
 ---
-title: "Yucaipa"
+title: 'Yucaipa'
 type: location
 latitude: 34.033625
 longitude: -117.043087
 ---
 
-Yucaipa is a small town located in the foothills of the San Bernardino Mountains. Here you enjoy cleaner air and cooler temperatures as a result of the higher elevations. 
+Yucaipa is a small town in the foothills of the San Bernardino Mountains where the air is cleaner and the temperatures cooler than on the valley floor. The 200-acre Yucaipa Regional Park has three lakes for swimming, boating, and fishing, plus campgrounds and playgrounds.
 
-
- The city contains 8 neighborhood parks, including an equestrian arena and a municipal pool, as well as a 200 acre regional park with 3 lakes for swimming, boating, and fishing, plus campgrounds and playgrounds for the entire family. There are also 3 museums, a library, a Senior Center, 2 theater groups, and over 40 churches and 90 social or business clubs round out the community.
+The town sits at the edge of the apple-orchard country shared with Oak Glen and Cherry Valley. In autumn, the "u-pick" orchards draw families who come for the apples, the fall colors, and the crisp mountain air -- a rare taste of New England in Southern California.

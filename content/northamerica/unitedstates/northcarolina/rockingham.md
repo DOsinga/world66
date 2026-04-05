@@ -1,15 +1,8 @@
 ---
-title: "Rockingham"
+title: 'Rockingham'
 type: location
-latitude: 36.39268
-longitude: -79.744144
+latitude: 34.938611
+longitude: -79.774444
 ---
 
-Travel Guide
-
-Rockingham is a city in Richmond County, North Carolina,
-United States named after the Marquis of Rockingham. The population was 9,672
-at the 2000 census. It is the county seat of Richmond County. Rockingham is the
-home of Rockingham Speedway, formerly the North Carolina Speedway, which was a
-staple of the NASCAR schedule for nearly 40 years, before the race was
-discontinued in 2004.
+Rockingham is the county seat of Richmond County, named after the Marquis of Rockingham. For nearly 40 years it was known to NASCAR fans as the home of **Rockingham Speedway** (formerly the North Carolina Speedway), which hosted Cup Series races until 2004. The speedway still hosts smaller events and remains the town's most recognizable landmark.

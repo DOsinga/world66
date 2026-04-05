@@ -3,70 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 30 608 769 (July 1998 est.)
+Tanzania has a population of around 63 million people (2024 estimate) across some 125 ethnic groups, the vast majority of Bantu origin. The largest single group is the Sukuma of the Lake Victoria region, comprising roughly 15% of the population. Other major groups include the Gogo, Haya, Chagga, Nyamwezi, and Makonde. Zanzibar has a distinct Arab-African population with its own cultural identity.
 
-**Age structure:**
+One of Tanzania's achievements since independence in 1961 has been national unity. Julius Nyerere, the country's first president, deliberately promoted Swahili as a shared national language and discouraged ethnic politics. It has largely worked — Tanzania has avoided the ethnic conflicts that have troubled several neighbouring countries, and Tanzanians tend to identify strongly as Tanzanians first.
 
-*0-14 years:* 45% (male 6 804 194; female 6 844 815)
+**Language:** Swahili (Kiswahili) is the official language and the lingua franca of the whole country. Almost everyone speaks it. English is widely used in business, government, and higher education. Most Tanzanians also speak at least one ethnic language. A few words of Swahili go a long way — *karibu* (welcome), *asante* (thank you), and *habari* (how are you) will open doors.
 
-*15-64 years:* 53% (male 7 835 705; female 8 236 949)
+**Religion:** Roughly 61% of the mainland population is Christian and 35% Muslim, with the remainder following traditional beliefs. Zanzibar is over 99% Muslim. Religion is taken seriously and visitors should be respectful. Dress modestly when visiting mosques or rural communities, and be aware of Friday prayer times in predominantly Muslim areas.
 
-*65 years and over:* 2% (male 408 827; female 478 279) (July 1998 est.)
-
-**Population growth rate:** 2.14% (1998 est.)
-
-**Birth rate:** 40.75 births/1 000 population (1998 est.)
-
-**Death rate:** 16.71 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -2.61 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 0.99 male(s)/female
-
-*15-64 years:* 0.95 male(s)/female
-
-*65 years and over:* 0.85 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 96.94 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 46.37 years
-
-*male:* 44.22 years
-
-*female:* 48.59 years (1998 est.)
-
-**Total fertility rate:** 5.49 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Tanzanian(s)
-
-*adjective:* Tanzanian
-
-**Ethnic groups:** mainlandnative African 99% (of which 95% are Bantu consisting of more than 130 tribes) other 1% (consisting of Asian European and Arab)
-
-*note:* Zanzibar Arab native African mixed Arab and native African
-
-**Religions:** mainlandChristian 45% Muslim 35% indigenous beliefs 20%
-
-*note:* Zanzibarmore than 99% Muslim
-
-**Languages:** Kiswahili or Swahili (official) Kiunguju (name for Swahili in Zanzibar) English (official primary language of commerce administration and higher education) Arabic (widely spoken in Zanzibar) many local languages
-
-*note:* Kiswahili (Swahili) is the mother tongue of Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin its vocabulary draws on a variety of sources including Arabic and English and it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write Kiswahili (Swahili) English or Arabic
-
-*total population:* 67.8%
-
-*male:* 79.4%
-
-*female:* 56.8% (1995 est.)
+**Character:** Tanzanians are generally warm, patient, and polite. The concept of *pole pole* (slowly, slowly) governs daily life — things operate at a relaxed pace, and getting frustrated about it accomplishes nothing. Bargaining is expected in markets but not in shops with fixed prices. Always ask before photographing people.

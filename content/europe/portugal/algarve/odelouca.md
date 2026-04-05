@@ -1,12 +1,8 @@
 ---
-title: "odelouca"
+title: 'Odelouca'
 type: location
 latitude: 37.206256
 longitude: -8.513188
 ---
 
-We currently have no information about odelouca.
-
-If you do know any general information about odelouca, please [Edit this article].
-
-If you know any hotels in odelouca or restaurants in odelouca, please [[Add].](/destinations/addItemWizard?addwhere=europe/portugal/algarve/odelouca)
+Odelouca is a rural area in the hills of the central Algarve, known for the Odelouca Dam and its surrounding countryside. The reservoir and the Odelouca river valley are home to diverse birdlife and make a peaceful contrast to the busy coast.

@@ -1,5 +1,0 @@
-southamerica/chile
-southamerica/colombia
-southamerica/ecuador
-southamerica/falklandislands
-southamerica/frenchguiana

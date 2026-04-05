@@ -1,7 +1,10 @@
 ---
 title: "Arapata and the Green Lagoon"
 type: poi
+latitude: -16.2100
+longitude: -67.6800
 ---
 
-There is a road circumventing the Uchumachi mountain. The landscape changes suddenly when you cross to the other side: it suddenly becomes one big coca plantation, with most forest cleared. The landscape can sometimes look like a semi-desert, but the cocafields can be very green too. Because coca plantations leave the soil vulnerable for erosion, some of the mountains are coming down. One particularly big mountain slide blocked a valley, forming a small lake, the “Green Lagoon”. Although it doesn’t look like much form far, it’s the best place to go for a swim in the whole area. The water isn’t cold like the rivers, and it’s big enough to actually go for a swim. The lakeside beach is a great place to enjoy the sun and admire the coca fields.
-From Arapata
+On the far side of Uchumachi mountain the landscape changes abruptly — cloudforest gives way to vast coca plantations. A massive landslide once blocked a valley here, forming a small lake known as the Green Lagoon. It does not look like much from a distance, but it is the best swimming spot in the area. Unlike the rivers, the water is warm and the lake is big enough for a proper swim. The lakeside beach is a fine place to dry off in the sun.
+
+Take the road that circumvents the Uchumachi from Arapata. You can arrange transport or walk.

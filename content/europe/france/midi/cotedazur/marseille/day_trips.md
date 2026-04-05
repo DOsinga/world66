@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Marseille"
+title: Day Trips
 type: section
 ---
 

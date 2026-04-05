@@ -1,33 +1,9 @@
 ---
-title: "Law Garden"
+title: 'Law Garden'
 type: poi
-address: "Law Garden"
-type: "Markets"
+address: 'Law Garden, near Ellisbridge'
 latitude: 23.026394
 longitude: 72.561057
 ---
 
-A place to pick up authentic gujarati stuff, but remember to bargain down to half the quoted price.
-
-**Contributors**
-February 05, 2005
-
-type: Markets
-
-
-
-
-
-address: Law Garden
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The evening street market at Law Garden is Ahmedabad's most popular spot for picking up traditional Gujarati clothing, embroidered bags, and handicrafts. Remember to bargain -- expect to pay about half the quoted price. The surrounding food stalls add to the atmosphere.

@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Restaurant Chez Dmitri on Avenue Mohammed V has great dishes for reasonable prices. It used to be a foreign legion bar and has an interesting atmosphere. 
-
-We currently have no Eating Out listed in Ouarzazate.
-
-If you do know any Eating Out in Ouarzazate, please [Add].
+Ouarzazate has a modest but functional restaurant scene concentrated along Avenue Mohammed V. The classic choice is Restaurant Chez Dmitri on the main avenue, a long-running institution with character — it started life as a Foreign Legion bar and the atmosphere still has something of that era. For tagine and Moroccan standards, the restaurants around the Kasbah Taourirt cater reliably to visitors passing through on their way south.

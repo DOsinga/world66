@@ -1,15 +1,9 @@
 ---
-title: "Campomanes Bay"
+title: 'Campomanes Bay'
 type: poi
-address: "Sipalay City"
+address: 'Sipalay City'
 latitude: 9.749127
 longitude: 122.40406
 ---
 
-Very beautiful bay, the whole beach is white sand, and the best part is the diving experience.
-
-
-
-
-
-address: Sipalay City
+A beautiful bay with white sand beaches and excellent diving. The enclosed shape keeps the water calm, and the entrance is a wide coral garden. Also good for kayaking and jet skiing.

@@ -1,31 +1,30 @@
 ---
-title: "Family Travel Ideas in Japan"
+title: "Family Travel Ideas"
 type: section
 ---
 
-There is so much to see and do in the country of Japan that **Japan family travel **can be a daunting subject to tackle. Tokyo is home to both Tokyo Disneyland and Tokyo DisneySea,
-two of the biggest family-friendly destinations in the world. However,
-there are countless slightly less famous destinations throughout the
-nation guaranteed to entertain the entire family.
+Japan is an excellent destination for families. Public transport is safe and easy to navigate, cities are clean and pedestrian-friendly, and the combination of ancient culture, wild technology, and peculiar food is endlessly engaging for children of almost any age.
 
-**Nara: Nara Koen (Nara Park)**
+**Tokyo DisneySea and Tokyo Disneyland**
 
-If you visit the Nara Prefecture, about four hours west of Tokyo by train, take the kids and grandparents to Nara Koen, a famous city park in Nara City. Nara Koen is home to a number of culturally relevant places, such as the Kofukuji Temple, the Nara National Museum and the Kasuga
-Shrine. You can spend the day touring these spots, teaching your
-children about the history of the country and the small period of time
-in the 700s in which Nara was the capital of the country.
+Both parks are located together in Urayasu, about 20 minutes from central Tokyo by train. Tokyo DisneySea in particular is often considered the finest Disney park in the world — themed with extraordinary detail around water and exploration, with older children and adults in mind as much as young children. Queues are long; go mid-week if possible.
 
-However, your family members of all ages may prefer just having a
-picnic on the grassy knolls under the vast cherry blossom trees. The
-park is also famous for its friendly deer, who will walk right up to
-visitors to be pet and fed. You can purchase deer feed ("deer
-crackers") from the park to feed the deer yourselves. The deer are
-protected by the government, especially for their historic sacred association with the Kasuga
-Shrine, but they are completely wild and are not trained or watched
-over by any professional feeders, so just be careful not to startle
-them when you interact with them.
+**Nara Park**
 
-**Shizuoka: Toi Mine (A Gold Mine)**
+Just 45 minutes from Kyoto or Osaka, Nara Park is home to hundreds of wild deer that roam freely and approach visitors for food. "Deer crackers" (shika senbei) are sold at stalls throughout the park. Children love it; so do adults. The Todai-ji temple, with its colossal bronze Buddha visible through the great gate from across a wide courtyard, is genuinely impressive.
 
-About 3 hours southwest of Tokyo by train is the Shizuoka area, where kids and adults alike can enjoy touring the Toi
-Mine, a gold mine that dates
+**Teamlab and digital art**
+
+Several Teamlab digital art installations operate in Tokyo and other cities — immersive, walk-through environments of projected light and interactive art that work well for all ages. The Teamlab Planets site in Toyosu (Tokyo) is particularly popular.
+
+**Hiroshima for older children**
+
+The Peace Memorial Museum in [Hiroshima](/asia/japan/honshu/hiroshima) is sobering and important — the story of the atomic bombing told through objects, photographs, and personal testimony. Appropriate from around age 10 or 11; many schools bring students here. The museum is honest without being gratuitous.
+
+**Ryokan with outdoor onsen**
+
+Staying at a family-friendly ryokan — particularly one with outdoor (rotenburo) hot spring baths and a set dinner of Japanese food — is an experience children tend to remember long afterward. The novelty of sleeping on futons, the ritual of the bath, and the novelty of a kaiseki-style meal in a traditional room all make an impression.
+
+**Practical notes**
+
+Japan is very child-friendly in terms of safety and logistics. Baby formula and nappies are widely available in convenience stores. High chairs are common in family restaurants. Strollers on the subway require some patience at busier stations. Children under 6 ride free on most public transport; ages 6–11 pay half fare.

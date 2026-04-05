@@ -1,10 +1,6 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
-address: "141 Front St"
-phone: "781-631-4236"
 ---
 
-### The Barnacle
-
-Best Fish and Chips West of Great Britain.
+Marblehead's waterfront setting means fresh seafood is the order of the day. The harbor area has a handful of casual restaurants where you can eat overlooking the boats.

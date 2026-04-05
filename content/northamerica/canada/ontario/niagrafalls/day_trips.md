@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Niagara falls"
+title: "Day Trips"
 type: section
 ---
 

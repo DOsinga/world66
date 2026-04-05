@@ -3,66 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 616 342 (July 1998 est.)
+Bahrain has a population of roughly 1.5 million, but only about half are Bahraini citizens. The rest are expatriate workers, predominantly from India, Pakistan, Bangladesh, the Philippines, and other Arab countries. This makes for a remarkably diverse society packed into a very small space.
 
-*note:* includes 224 640 non-nationals (July 1998 est.)
+Bahraini society is predominantly Muslim, split between Shia and Sunni communities. The Shia form the majority of the native population, while the ruling Al Khalifa family and much of the political establishment are Sunni. This sectarian divide has been a source of political tension, particularly during the 2011 protests, but it rarely affects visitors directly.
 
-**Age structure:**
+Arabic is the official language, spoken in the Bahraini Gulf dialect. English is widely used in business, education, and daily life -- you will find that most Bahrainis speak it fluently. Hindi, Urdu, and Tagalog are common among the expat community.
 
-*0-14 years:* 31% (male 95 871; female 93 232)
+Bahrainis are known for their hospitality. If you are invited to someone's home, expect to be offered Arabic coffee and dates as a welcome. The pearl diving heritage remains a strong part of national identity, even though the industry itself largely disappeared after the introduction of cultured pearls in the 1930s. Traditional music (sawt and fidjeri, the songs of pearl divers) and crafts (pottery, weaving) are still celebrated, particularly at cultural festivals.
 
-*15-64 years:* 67% (male 245 099; female 164 946)
-
-*65 years and over:* 2% (male 8 799; female 8 395) (July 1998 est.)
-
-**Population growth rate:** 2.09% (1998 est.)
-
-**Birth rate:** 22.43 births/1 000 population (1998 est.)
-
-**Death rate:** 3.25 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 1.73 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 1.49 male(s)/female
-
-*65 years and over:* 1.05 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 15.54 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 74.96 years
-
-*male:* 72.42 years
-
-*female:* 77.57 years (1998 est.)
-
-**Total fertility rate:** 3.01 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Bahraini(s)
-
-*adjective:* Bahraini
-
-**Ethnic groups:** Bahraini 63% Asian 13% other Arab 10% Iranian 8% other 6%
-
-**Religions:** Shi'a Muslim 75% Sunni Muslim 25%
-
-**Languages:** Arabic English Farsi Urdu
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 85.2%
-
-*male:* 89.1%
-
-*female:* 79.4% (1995 est.)
+Compared to its Gulf neighbors, Bahrain has a more relaxed social atmosphere. Women drive, work, and participate in public life. The country has a long history as a trading hub, and that cosmopolitan character is still evident in how people interact.

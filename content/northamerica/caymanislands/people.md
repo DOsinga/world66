@@ -3,56 +3,10 @@ title: "People"
 type: section
 ---
 
-**Population:** 37 716 (July 1998 est.)
+The Cayman Islands have a population of around 90,000, of whom roughly half are Caymanians by birth or status. The rest are expatriate workers and permanent residents — a reflection of a booming economy that requires far more labour than the islands can produce locally. Over 130 nationalities live and work here. Jamaica and the Philippines make up the largest groups among work permit holders, alongside significant numbers from the UK, Canada, India, and the United States.
 
-**Age structure:**
+The Caymanian accent is distinct, carrying traces of English, Scottish, and Welsh settlers who arrived in the 18th and 19th centuries. Surnames like Ebanks, McTaggart, Bodden, and Chisholm are common, and many families trace their roots to those early settlers. The language variety spoken locally is sometimes called Cayman Creole.
 
-*0-14 years:* NA
+Caymanians have a proud seafaring history. For generations, men from these islands worked as turtle fishermen or signed on as crew aboard foreign ships. That tradition has largely faded, but the connection to the sea remains strong — fishing, diving, and sailing are central to the culture.
 
-*15-64 years:* NA
-
-*65 years and over:* NA
-
-**Population growth rate:** 4.22% (1998 est.)
-
-**Birth rate:** 13.95 births/1 000 population (1998 est.)
-
-**Death rate:** 4.98 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 33.2 migrant(s)/1 000 population (1998 est.)
-
-*note:* major destination for Cubans trying to migrate to the US
-
-**Infant mortality rate:** 8.4 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 77.1 years
-
-*male:* 75.37 years
-
-*female:* 78.81 years (1998 est.)
-
-**Total fertility rate:** 1.34 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Caymanian(s)
-
-*adjective:* Caymanian
-
-**Ethnic groups:** mixed 40% white 20% black 20% expatriates of various ethnic groups 20%
-
-**Religions:** United Church (Presbyterian and Congregational) Anglican Baptist Roman Catholic Church of God other Protestant denominations
-
-**Languages:** English
-
-**Literacy:**
-
-*definition:* age 15 and over has ever attended school
-
-*total population:* 98%
-
-*male:* 98%
-
-*female:* 98% (1970 est.)
+English is the official language. Spanish is spoken by nearly 10 percent of the population. The majority identify as Christian, with a range of denominations represented.

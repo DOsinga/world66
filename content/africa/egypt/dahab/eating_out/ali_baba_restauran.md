@@ -1,44 +1,12 @@
 ---
-title: "Ali Baba Restaurant"
+title: 'Ali Baba Restaurant'
 type: poi
-accessibility: "for all"
-address: "Masbat, Dahab, South Sinai, Egypt"
-email: "alibaba_sinai@yahoo.com"
-phone: "0020101929170"
-price: "10-50 $"
-type: "International"
-url: "www.alibaba-dahab.com"
-latitude: 28.497484
-longitude: 34.516074
+address: 'Masbat, Dahab, South Sinai'
+email: 'alibaba_sinai@yahoo.com'
+phone: '0020101929170'
+url: 'www.alibaba-dahab.com'
+latitude: 28.4975
+longitude: 34.5161
 ---
 
-Ali Baba Restaurant is one of the most famous restaurants in Dahab.
-
-Ali Baba Restaurant has professional staff, to make the service fast and
-good. The staff will help you chose from different kinds of food. They
-also joined professional training in serving people and safety to keep
-you comfortable and healthy. Ali Baba's staff has magical treasure smile
-and genuine interest in all customers.
-
-“Rich in Taste” - one of principles.
-
-Ali
-Baba's restaurant has various kinds of food .You have the ability to
-choose from several varieties. Restaurant has international quality and the
-best taste. Ali Baba Restaurant has also special meals and events.
-
-type: International
-
-
-
-accessibility: for all
-
-tel: 0020101929170
-
-url: [www.alibaba-dahab.com](http://www.alibaba-dahab.com)
-
-address: Masbat, Dahab, South Sinai, Egypt
-
-PriceOfMenu: 10-50 $
-
-email: alibaba_sinai@yahoo.com
+One of the most established restaurants on the Dahab waterfront, Ali Baba serves a broad international menu with a focus on seafood and Egyptian staples. The portions are generous, the staff are attentive, and the seaside setting is hard to beat. Prices range from budget to moderate depending on what you order.

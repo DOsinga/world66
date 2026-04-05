@@ -1,21 +1,9 @@
 ---
-title: "Santa Teresa hot springs"
+title: "Santa Teresa Hot Springs (Cocalmayo)"
 type: poi
-address: "Santa Teresa"
-type: "Spa and Sauna"
-latitude: -22.921554
-longitude: -43.186027
+category: "Sight"
+latitude: -13.1266
+longitude: -72.6113
 ---
 
-Santa Teresa is a village along the Salkantay trek. 45 minutes away from the village, in the middle of nowhere are the lovely hot springs. Contrary to other places, which are commercialized, this place seems quite wild. Being in the warm waters, surrounded by mountains is a great experience. Entrance costs 3.5 soles. You can rent a towel for 1 sol, if you didn't bring one.
-
-**Contributors**
-July 20, 2006
-
-type: Spa and Sauna
-
-
-
-
-
-address: Santa Teresa
+The Cocalmayo hot springs, about 30 minutes' walk from the village of Santa Teresa, are a welcome stop for anyone ending the Salkantay trek with sore legs. Three open-air pools of different temperatures sit on a terrace above the Urubamba River, ringed by jungle and cliffs. Unlike many hot springs in the Andes, these are well-maintained and clean; there is a cheap entrance fee, and towels can be rented on site.

@@ -3,18 +3,31 @@ title: "Taiwan"
 type: location
 latitude: 23.973937
 longitude: 120.982018
+image: taiwan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Alishan_Forest_Staircase2.JPG"
+image_license: "CC BY-SA 4.0"
+image_attribution: "User: (WT-shared) Jpatokal at  wts wikivoyage"
 ---
 
-Taiwan is situated about 160 kilometers off the southeastern coast of the Chinese mainland, and between Korea and [Japan](/asia/japan) in the north and [Hong Kong](/asia/china/hongkong) and the [Philippines](/asia/philippines)to the south. The island has always been known as one of the most beautiful in the Pacific. The Portuguese called it Formosa, which means just that. With its mountains that rise up high above the green-forested foothills, its terraced flatlands and coastal plains and basins and foremost with its friendly generous people, it’s really almost paradise. 
- 
+Taiwan is a small island of about 36,000 square kilometres sitting 160km off the southeastern coast of China. The Portuguese who first mapped it in the 16th century called it Formosa — beautiful — and the name fits. A central mountain range runs almost the entire length of the island, with over 200 peaks above 3,000 metres. The coast is dramatic, the forests dense, and the valleys terraced with rice and tea. Against all that natural backdrop, Taiwan has also built one of the most sophisticated and liveable urban cultures in Asia.
 
-Not just the breathtaking scenery with waterfalls, lakes, hot springs or misty hillsides, make Taiwan well worth a visit. Pagodas and temples build on a culture that goes back beyond the beginning of western civilization. Next to nature and tradition there’s also the modern Taiwan with skyscrapers that almost reach into heaven, with their feed firmly planted in a chaotic stream of traffic. Whatever you're looking for, you can probably find it in here. 
- 
+The island has a complicated political status — officially the Republic of China, a separate government from the People's Republic of China on the mainland, but not recognised as an independent state by most countries. This situation has persisted since 1949 and shapes much of Taiwan's history and culture. For travellers, the practical implications are minimal: Taiwan operates as a fully independent country with its own government, currency, and borders.
 
-If you visit the capital city, [Taipei](/asia/taiwan/taipei), even if you’re just passing through take a day or two to look around and to visit the Yangmingshan National Park. Other cities of interest are [Taichung](/asia/taiwan/taichung), the industrial city of [Kaohsiung](/asia/taiwan/kaohsiung) and [Alishan](/asia/taiwan/alishan)
- 
+[Taipei](/asia/taiwan/taipei) is the capital and the natural starting point. It has excellent food, a first-class museum, a thriving café and design culture, and easy connections to the rest of the island. But confining yourself to Taipei misses much of what makes Taiwan distinctive. The east coast, accessible by train through [Taroko Gorge](/asia/taiwan/torokogorge), offers some of the most spectacular scenery in Asia. [Tainan](/asia/taiwan/tainan) in the south is the oldest city, with the best temples and arguably the best street food. [Alishan](/asia/taiwan/alishan) and Sun Moon Lake in the centre are both genuinely beautiful, not just tourist-brochure beautiful.
 
-The most beautiful natural regions are Central Cross-Island Highway, the Hsitou's bamboo forests, Sun moom lake, Kenting National Park and the Yushan National Park and of course there’s Yushan or Mount Jade and [Toroko gorge](/asia/taiwan/torokogorge).
- 
+Taiwan's food culture deserves special attention. The night markets are not tourist attractions — they are where people actually eat, every night, across the whole island. The combination of Taiwanese, Japanese, and Chinese culinary influences, refined over decades of competitive street-food culture, produces results that reward serious attention. Bubble tea was invented here, but so was much else.
 
-If you think you have seen the whole island you also have to discover the Penghu Islands, off the southwestern coast of Taiwan. Ancient temples, picturesque farms and windswept fishing villages, friendly people, fine beaches, coral reefs, and rugged coastlines are just a few keywords to get your attention. This is a great place for all kinds of water sports and don't forget to try the fresh seafood!
+The transportation infrastructure is excellent. The High-Speed Rail covers the west coast in a matter of hours, and the Taiwan Railways Administration serves the east coast and slower scenic routes. Getting around without a car is straightforward and cheap.
+
+## Destinations
+
+- [Taipei](/asia/taiwan/taipei) — the capital, with night markets, temples, and Taipei 101
+- [Kaohsiung](/asia/taiwan/kaohsiung) — southern port city with a revitalised harbour front
+- [Tainan](/asia/taiwan/tainan) — Taiwan's oldest city; temples and street food
+- [Taichung](/asia/taiwan/taichung) — central Taiwan's main city; base for Sun Moon Lake
+- [Keelung](/asia/taiwan/keelung) — port city north of Taipei with a famous night market
+- [Taoyuan](/asia/taiwan/taoyuan) — near the main international airport
+- [Alishan](/asia/taiwan/alishan) — mountain resort; sea of clouds and ancient cypress forest
+- [Sun Moon Lake](/asia/taiwan/sunmoonlake) — Taiwan's largest lake, in the central highlands
+- [Taroko Gorge](/asia/taiwan/torokogorge) — marble canyon; the island's most dramatic natural sight
+- [Kenting](/asia/taiwan/kenting) — beach resort at the southern tip

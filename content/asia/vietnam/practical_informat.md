@@ -3,55 +3,52 @@ title: "Practical Information"
 type: section
 ---
 
-Basic Information
+## Basics
 
-Area
-329,560 sq.km
+**Capital:** Hanoi
+**Population:** approximately 98 million
+**Language:** Vietnamese (official). English is widely spoken in tourist areas and by younger people. French is spoken by some older Vietnamese, particularly in the north. Chinese is spoken in some border communities.
+**Religion:** Buddhism, Taoism, Confucianism, and Catholicism. The Cao Dai and Hoa Hao faiths also have significant followings in the south.
+**Time zone:** GMT +7
+**Country code:** +84
+**Electricity:** 220V, 50Hz. Outlets are typically two-pin (round or flat). Bring an adapter if needed.
 
-Capital:
-Hanoi
+## Money
 
-Population:
-82,5 Million
+The local currency is the Vietnamese Dong (VND). Banknotes come in denominations from 1,000 to 500,000 VND. The exchange rate is roughly 25,000 VND to 1 USD.
 
-Language:
-Vietnamese (official), English, Chinese and French.
+Cash is still the primary payment method outside major cities. ATMs are widely available in all cities and tourist towns. Credit cards (Visa, Mastercard) are accepted at hotels, upscale restaurants, and larger shops in Hanoi and Ho Chi Minh City; less reliable elsewhere. US dollars in good condition are accepted at many tourist businesses but you'll often get a worse rate than using dong.
 
-Religion:
-Buddhism, Taoism, and Catholic.
+Digital wallets (MoMo, VNPay) are common among locals but less useful for travelers.
 
-Country calling code:
-84
+## Health and Water
 
-Local Time:
-GMT +7
+Do not drink tap water. Bottled water is cheap and available everywhere. Avoid ice in places where hygiene looks questionable. Street food is generally safe — follow locals to busy stalls with fast turnover.
 
-Vietnamese Dong in denominations of 500, 1,000, 2,000, 5,000, 10,000, 20,000, 50,000, 100,000 and 500,000 banknotes. There are coins in use. Cash US dollars in good condition are widely used and accepted and it is advisable to bring some with you.
+Consider travel vaccinations for hepatitis A, typhoid, and rabies depending on your itinerary. Malaria prophylaxis is only recommended for remote rural areas; it's not necessary for most tourist routes.
 
-Travellers cheques and foreign currencies are accepted at most banks. Hotels sometimes charge a commission. The exchange rate can fluctuate considerably. Remaining Vietnamese currency can be exchanged for US dollars at the exchange bureau at the airport.
+## Safety
 
-Most major hotels and big restaurants in Ho Chi Minh City and Hanoi accept Visa, MasterCard and American Express.
+Vietnam is generally safe for travelers. Petty theft (bag-snatching from motorbikes, pickpocketing in crowded markets) is the main concern, particularly in Ho Chi Minh City. Keep bags on your lap in tuk-tuks or cyclos. Be cautious on beaches at night.
 
-**Business hours:** Most shops, banks and businesses open from 8am to 4 or 5pm with a 1-2 hour lunch break
+Areas near the border with China in the far north can have landmine residue in remote off-trail zones. The area around the former DMZ (Quang Tri province) still has unexploded ordnance in some rural areas — do not wander off marked paths.
 
-**Electricity supply:** The electric current in Vietnam operates mostly on 220 volts but occasionally you will find 110 volt sockets. Electric plug types vary throughout the country, however the two-rounded pin standard Asian plug is usable in most parts of the country.
-Water: Do not drink tap water, only drink bottled water
+## Photography
 
-**Nightlife**: There are numerous discos and karaoke bars. As in most places, it is preferable to explore in the company of a long-term resident, to avoid the traditional rip-offs.
+Photography near military installations, airports, and some government buildings is prohibited. Be respectful when photographing people, particularly in ethnic minority villages — ask first.
 
-**Photography:** Photography in airports, railway stations and near any military installations is forbidden and discretion should be used when photographing people.
+## Tipping
 
-**Tipping:** Tipping is not customary in Vietnam, but is appreciated. A 5-10% tip for a meal in a good restaurant may equal a day's wages.
+Not traditionally part of Vietnamese culture but increasingly expected in tourist-oriented restaurants and hotels. A tip of 10% at a sit-down restaurant is appreciated. Tipping guides on tours is standard.
 
-**Public Holidays (2006):**
-**Jan 1:** Western New Year's Day
-**Feb 3: **Founding Day of the Communist Party of Vietnam
-**April 30:** Liberation Day of South Vietnam and Saigon
-**May 1:** Labour Day
-**May 19:** Ho Chi Minh's birthday
-**Sep 2:** National Holiday
-**Sep 3:** Day to commemorate the death of Ho Chi Minh in 1969
+## Public Holidays
 
-**Currency**
+Key dates: New Year's Day (January 1), Tet/Lunar New Year (January/February, variable), Hung Kings Commemoration (April), Liberation Day (April 30), Labour Day (May 1), National Day (September 2).
 
-The local currency is the Vietnamese Dong (VND)
+During Tet, expect most businesses to close for up to a week. Many shops and restaurants run reduced hours around other public holidays.
+
+## Communications
+
+SIM cards are available at airports and phone shops for a few dollars. Local data plans are inexpensive and coverage is good in cities and along major routes. Connectivity in remote mountain areas is patchy.
+
+Some international websites and services (including Facebook and Google) have historically been subject to intermittent blocking or slowdowns. A VPN is useful if you rely on specific services.

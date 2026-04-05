@@ -1,18 +1,20 @@
 ---
 title: "Grenada"
 type: location
+latitude: 12.1165
+longitude: -61.6790
+image: grenada.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:St_George's,_Grenada_-_panoramio_(8).jpg"
+image_license: "CC BY 3.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161103064354/http://www.panoramio.com/user/558771?with_photo_id=131638654">Андрей Бобровский</a>'
 ---
 
-Just south of St. Vincent and the Grenadines, Grenada's main claim to fame is the American intervention in the early 1980s. Those days of turmoil are far behind us now and we can start to appreciate the island for what it is: one of the greatest holiday spots on the planet.
+Grenada is the southernmost of the Windward Islands, a three-island nation that includes Carriacou and Petit Martinique. It is small — the main island is about 34km long — fragrant with nutmeg and cinnamon, and genuinely beautiful in a way that doesn't require much effort to appreciate. The terrain is lush and mountainous at the centre, ringed by beaches and fishing villages, and the capital St. George's sits around one of the prettiest harbours in the Caribbean.
 
- Apart from all your lazy days bumming on the beach and or snorkeling, a visit to the island should include a tour to the Grand Etang forest reserve and the crater lake, the rum distillery, Caribs leap, Concord Falls and a spice factory. It is possible to see of all of the above in just one day starting from St. Georges, but you might as well take your time; that's what the locals do too.
+The island earned outsized attention when the United States intervened militarily in 1983, following a coup in which Prime Minister Maurice Bishop was killed. That episode is history now, though Grenadians will happily discuss it. What defines the island today is the spice trade, an unhurried pace of life, and a food culture that puts most Caribbean neighbours to shame.
 
- Excursions to [Carriacou](carriacou) and Sandy island are worth the extra effort. Petite Martinique offers the possibility to hike to the top of the volcano and get a great view over the islands. Calivigny island, Petit Martinique and Clover island are also popular excursions.
+Grenada calls itself the Spice Isle with reason: it produces around 20 percent of the world's nutmeg supply, along with cloves, cinnamon, ginger, and mace. You will smell it everywhere. A visit to a working spice plantation — River Antoine Estate or Dougaldston — is one of the more interesting afternoon excursions on the island.
 
-## Destinations in Grenada
+Beyond the capital, the interior rewards exploration. Grand Etang Forest Reserve holds a crater lake and trails through cloud forest. Concord Falls and the Seven Sisters are worth the hike. Carib's Leap at Sauteurs, where the last Carib people jumped to their deaths rather than surrender to French colonisers in 1651, is sobering and worth the drive north.
 
-[Grenville](/northamerica/grenada/grenville)
-[St. Georges](/northamerica/grenada/stgeorges)
-[Petit martinique](/northamerica/grenada/petitmartinique)
-[Grand etang forest reserve](/northamerica/grenada/grandetangforestreserve)
-[Carriacou](/northamerica/grenada/carriacou)
+The underwater world around Grenada is exceptionally good. The Bianca C, a 183-metre Italian cruise ship that sank in 1961, is one of the great Caribbean dive wreck sites. The Underwater Sculpture Park off Moliniere Bay is unusual and photogenic — dozens of human figures arranged on the seafloor, now colonised by coral.

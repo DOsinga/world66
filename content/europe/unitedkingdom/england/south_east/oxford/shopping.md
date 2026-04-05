@@ -1,102 +1,16 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
-address: "Queen Street"
-type: "Shopping centers and malls"
-url: "www.oxfordcity.co.uk"
-latitude: -27.466902
-longitude: 153.028785
 ---
 
-During your Oxford vacation, you may want to take a break from touring all of the historic sites, museums, and gardens and explore Oxford's shopping scene. Head to Oxford city centre where you will find stores like GAP, Lush, Virgin stores, Miss Selfridge, WHSmith, and lots more. If you're on a budget, you might want to try going to Primark at 27 Westgate, they sell super affordable clothes. Check out the listings to find out about more places to shop in Oxford.
+Oxford has a good mix of high street shops and independent stores. The main shopping streets are Cornmarket Street and Queen Street, which are pedestrianised and home to the usual chain shops.
 
-**Contributors**
-June 08, 2008
+**The Covered Market** is the real highlight. Trading since 1774, it is packed with independent butchers, fishmongers, cheese shops, cafes and gift shops. You can pick up anything from a venison pie to a handmade hat.
 
-### [Westgate Shopping Centre](/europe/unitedkingdom/england/south_east/oxford/shopping/westgate_shopping)
+**Blackwell's Books** on Broad Street is one of the most famous bookshops in the world. Founded in 1879, its underground Norrington Room is a vast cavern of shelves and one of the largest single rooms selling books in Europe.
 
-The Westgate Shopping Centre offers a wide range of shops including stylish clothes for men and women, ranging from designer fashions to the high street trends.
+**Alice's Shop** on St Aldate's, opposite Christ Church, is themed around Lewis Carroll's Alice in Wonderland and sells memorabilia and novelty items. Carroll reportedly based the "old sheep shop" in Through the Looking Glass on this building.
 
-type: Shopping centers and malls
+**The Westgate Centre** is a modern shopping mall at the western end of Queen Street with restaurants, a rooftop terrace and high street brands.
 
-
-
-[[rate it]](/europe/unitedkingdom/england/south_east/oxford/shopping/westgate_shopping)
-
-url: [www.oxfordcity.co.uk](http://www.oxfordcity.co.uk/shops/westgate/index.html)
-
-address: Queen Street
-
-### [Blackwell's Books](/europe/unitedkingdom/england/south_east/oxford/shopping/blackwells_books)
-
-From antiques and art to travel and true crime, Blackwell's Books has the one of the largest selection of books in the world. Established in 1879 by Benjamin Henry Blackwell, B.H. Blackwell's opened its doors on one of the most celebrated days of the year around the world -- New Years Day.
-
-type: Book shops
-
-
-
-tel: +44 0 1865 333000
-
-url: [www.bookshop.blackwell.co.uk](http://www.bookshop.blackwell.co.uk)
-
-address: 50 Broad Street, Oxford UK
-
-email: mail.ox@blackwell.co.uk
-
-### [Clarendon Shopping Centre](/europe/unitedkingdom/england/south_east/oxford/shopping/clarendon_shopping)
-
-Clarendon Shopping Centre has a wide variety of stores, restaurants, and services such as Echoo, Claire's, GAP, H Samuel, Ernst Jones, The Body Shop, French Connection, Boost Juice Bar, Millies Cookies, and more. Clarendon Shopping Centre is open seven days a week, 8:30 a.m.-6:00 p.m. Monday-Saturday, and Sunday 10:30 a.m.-5:00 p.m.
-
-type: Shopping centers and malls
-
-
-
-tel: +44 0 1865 251493
-
-url: [www.clarendoncentre.co.uk](http://www.clarendoncentre.co.uk)
-
-address: 52 Cornmarket, Oxford UK
-
-email: info@clarendoncentre.co.uk
-
-### [Alice's Shop](/europe/unitedkingdom/england/south_east/oxford/shopping/alices_shop)
-
-Alice's Shops' theme is "The Adventures of Alice in Wonderland," so it carries a wide variety of memorabilia and novelty items related to the works of Lewis Carroll. Alice's Shop is located across from a major Oxford attraction - Christ Church Cathedral.
-
-type: Speciality shops
-
-
-
-tel: +44 0 1865 723793
-
-url: [www.aliceinwonderlandshop.co.uk](http://www.aliceinwonderlandshop.co.uk)
-
-address: 83 St. Aldate's, Oxford UK
-
-### [Rowan](/europe/unitedkingdom/england/south_east/oxford/shopping/rowan)
-
-Rowan is an excellent place to pick up a gift or two to take back home to family and friends. The environment screams hippie, but this funky little shop is anything but. You'll find unique items such as stationery, handcrafted jewelry, incense, candles, cool looking dishes, and more!
-
-type: Speciality shops
-
-
-
-tel: +44 0 1865 793366
-
-address: 102 Gloucester Green
-
-### [Bicester Outlet Village Shopping](/europe/unitedkingdom/england/south_east/oxford/shopping/bicester_outlet_vi)
-
-Want to pick up some Versace or Burberry at a discount price? Then head 15 miles north of Oxford to Bicester Outlet Village Shopping where you can find high-end designer brand names for much, MUCH less than the retail price. Other brands include: Jaeger, Hugo Boss, Aquascutum, Molton Brown, and more. The savings and the steals are well worth the trip.
-
-type: Shopping centers and malls
-
-
-
-tel: +44 0 1869 323200
-
-url: [www.bicestervillage.com](http://www.bicestervillage.com)
-
-address: 50 Pingle Drive, Bicester
-
-email: bicester@valueretail.com
+For something more unusual, browse the independent shops along Little Clarendon Street and Walton Street in Jericho, Oxford's trendiest neighbourhood.

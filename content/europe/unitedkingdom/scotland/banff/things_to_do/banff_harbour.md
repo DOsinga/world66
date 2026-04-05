@@ -1,19 +1,10 @@
 ---
 title: "Banff Harbour"
 type: poi
-type: "Other"
-url: "www.banffharbour.co.uk"
+category: "Sight"
+address: "Banff Harbour, Banff AB45"
+latitude: 57.6703
+longitude: -2.5175
 ---
 
-Banff harbour, currently you can have a boat trip along the Banffshire coast or go diving with the NE divers, or if you have your own boat and can sail to Banff, the harbour can accommodate small sailing yachts.
-
-**Contributors**
-January 24, 2006
-
-type: Other
-
-
-
-
-
-url: [www.banffharbour.co.uk](http://www.banffharbour.co.uk)
+Banff Harbour is the departure point for boat trips along the Banffshire coast and for diving excursions with local operators. Small sailing yachts can berth here. The harbour area is pleasant for a walk and offers views along the coast towards Macduff.

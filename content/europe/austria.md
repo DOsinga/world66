@@ -3,6 +3,10 @@ title: "Austria"
 type: location
 latitude: 47.59397
 longitude: 14.12456
+image: austria.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Innsbruck_Flusspromenade.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Ikiwaner" title="User:Ikiwaner">Ikiwaner</a>'
 ---
 
 Located in central Europe, Austria is a landlocked country bordered by the Czech Republic, Slovakia, Germany, Hungary, Slovenia, Italy and Switzerland. The country was a centre of power in Europe at the time when it was ruled by the mighty Habsburgs. Although today it is relegated to being a minor player in the European Union, Austria offers some of the most impressive destinations on the Continent.

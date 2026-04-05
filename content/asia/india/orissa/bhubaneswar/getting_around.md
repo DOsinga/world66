@@ -1,8 +1,6 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-Getting around the city is not a big problem, with innumerable number of cycle driven rickshaws around. You also have auto rickshaws, and taxis as the second option though you will have to a little clever while talking to them, otherwise you will end of getting duped and spending a lot of money.
-
- There are regular town buses and you can stop them literally anywhere and everywhere to get in : most of the time you will find the bus overcrowded, but it is real fun to be part of it.
+Getting around Bhubaneswar is straightforward. Cycle rickshaws are everywhere and cheap. Auto-rickshaws and taxis are available but negotiate the fare before getting in, or you risk being overcharged. Town buses run frequent routes and you can flag them down practically anywhere, though they tend to be crowded.

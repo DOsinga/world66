@@ -1,32 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-accessibility: "narrow alley and stairs"
-phone: "075-361-2200"
-price: "700-1000"
-type: "Vegetarian"
-url: "www.mikoan.com"
 ---
 
-There is so much to eat:
-
-**Contributors**
-August 11, 2006
-
-### [Miko-an](/asia/japan/honshu/kyoto/eating_out/mikoan)
-
-At Mikoan, they make natural vegetarian but still traditional Japanese dishes right there in front of you. The staff/owner doesn't speak English but they will ask you to decide between the 700 yen curry plate and the 1000 yen set menu. I went twice and I would recommend either one. The also have an appitezer menu so if you can read Japanese or know what you want you can order off of that. The gyoza was tasty. They don't serve Coca-Cola since it's a natural resturant, but they do have Guinness on [more..](/asia/japan/honshu/kyoto/eating_out/mikoan)
-
-type: Vegetarian
-
-
-
-[[rate it]](/asia/japan/honshu/kyoto/eating_out/mikoan)
-
-accessibility: narrow alley and stairs
-
-tel: 075-361-2200
-
-url: [www.mikoan.com](http://www.mikoan.com/)
-
-PriceOfMenu: 700-1000
+Kyoto is arguably the most rewarding city in Japan to eat in. The local cuisine, *Kyō-ryōri*, is based on the refinement of Buddhist temple cooking, aristocratic court dishes, and a long coastal-trade tradition that brought sea-bream, konbu and sea-vegetables inland. Its most famous expression is **kaiseki**, the multi-course seasonal tasting menu that evolved from the tea ceremony and is now served in a handful of *ryōtei* restaurants at rarefied prices. But the everyday Kyoto table is just as interesting: **yudofu** (boiled tofu in a kelp broth), **obanzai** (home-style side dishes), **yuba** (tofu skin), simmered wagyū, river fish from the Kamo, and the extraordinary pickles (*tsukemono*) the city has been making for centuries. For approachable eating, **Nishiki Market** in the centre of town is the obvious starting point; **Pontocho Alley** beside the Kamo River has a long line of riverfront restaurants and, in summer, open *kawadoko* platforms suspended over the water. **Gion** hides the most famous temples of traditional dining, but most of them require advance reservations (often from your hotel) and deep pockets. For something cheaper, the lanes around **Kyoto Station** and the basement restaurant floors of the big department stores are reliably good and very reasonable.

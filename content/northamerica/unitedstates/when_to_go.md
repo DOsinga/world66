@@ -3,20 +3,14 @@ title: "When to Go"
 type: section
 ---
 
-The King Frederik Inn is conveniently located in the heart of "Little Denmark,
-USA" with easy access to the annual Danish Days festival and other popular
-attractions in Solvang. Hotel guests will also be close to historic California
-missions, local wineries and the Vandenberg Air Force Base. For outdoor
-receration the hotel is close to a variety of beautiful golf courses as well as
-boating and fishing at Lake Cachuma.
+The United States spans five time zones and almost every climate type, so the best time to visit depends entirely on where you are going.
 
-The hotel offers a complimentary continental breakfast that is served daily
-with fresh danish pastries. Other hotel amenities include a heated outdoor pool
-and spa newly remodeled. Each well-appointed room(remodeled in 2009 with new
-carpet, paint, bed spreads, and new mattresses) features free high-speed
-Internet, cable satellite television with HBO® and free long distance access.
-Refrigerators are available in select rooms.
+**Spring (March–May)** is generally the most pleasant time to travel. Crowds are smaller than summer, prices are lower, and temperatures are mild across most of the country. Washington DC's cherry blossoms peak in late March to early April. The Great Smoky Mountains and the Appalachian region turn green and wildflowers bloom. Spring in Texas and the Southwest can be excellent before the summer heat arrives.
 
-A friendly multilingual staff is ready to ensure a comfortable and memorable
-stay. Make an online reservation today and save at this Solvang , California
-King Frederik Inn!
+**Summer (June–August)** is peak tourist season. National parks are busy and expensive — Yellowstone, Zion, and the Grand Canyon can feel overwhelmed in July. That said, summer is the right time for Alaska, the Pacific Northwest, and the Great Lakes. The Northeast is lively. Beach towns on both coasts fill up; book accommodation months in advance. Hurricane season begins in June and peaks in August–October in the Gulf Coast and Atlantic states.
+
+**Fall (September–November)** is widely considered the best season in New England, where foliage peaks in October and the crowds thin after Labor Day. The Southwest and California are ideal — cooler temperatures but still sunny and dry. New Orleans is excellent in fall, before the heat of summer and during Jazz Fest season.
+
+**Winter (December–February)** is ski season in Colorado, Utah, Vermont, and the Rockies. Florida, Arizona, and Southern California draw visitors escaping cold weather elsewhere. The crowds at northern national parks essentially disappear. New York and Chicago in winter can be brutally cold but are lively through the holidays.
+
+Avoid travelling during **Thanksgiving** (fourth Thursday of November) and the few days around it if you can — it is the busiest travel period of the year, with flights, roads, and trains at full capacity.

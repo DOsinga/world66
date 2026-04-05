@@ -1,10 +1,10 @@
 ---
-title: "Mount Abu"
+title: 'Mount Abu'
 type: location
-latitude: 24.592433
-longitude: 72.708188
+latitude: 24.5926
+longitude: 72.7082
 ---
 
-Travel Guide
+Mount Abu is the only hill station in Rajasthan, perched at around 1,200 meters in the Aravalli Range. After the relentless heat of the desert cities, the cooler air and green surroundings come as a genuine relief. The town is a popular weekend escape for families from Gujarat and Rajasthan, and it can get very crowded during Indian holidays.
 
-**Mount Abu** is the highest peak in the Aravalli Range of Rajasthan state in western India. It is located in Sirohi district. The mountain forms a distinct rocky plateau 22km long by 9 km wide. The highest peak on the mountain is Guru Shikhar, at 1722 meters above sea level. It is referred to as 'an oasis in the desert', as its heights are home to rivers, lakes, waterfalls and evergreen forests.
+The Dilwara Jain Temples, about 2.5 km from the town center, are the main reason to come. Built between the 11th and 13th centuries, their white marble interiors feature some of the most intricate stone carving in India -- the detail on the ceilings and pillars is almost unbelievable. Nakki Lake in the center of town is pleasant for an evening stroll. Guru Shikhar, the highest peak in the Aravallis at 1,722 meters, is a short drive away and offers panoramic views.

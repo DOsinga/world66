@@ -5,8 +5,6 @@ latitude: 40.739466
 longitude: 44.852009
 ---
 
-Travel Guide
-
 Tavush Marz, tucked into the northeast corner of Armenia, includes the popular town of Dilijan, popularly known as "Armenia's Little Switzerland", and the popular Haghartsin and Goshavank Monasteries. Beyond that though is a great deal more to see, including the distant region of Shamshadin, which only a handful of western visitors reach each year.
 
 The town of Dilijan is the first that you come to in Tavush as you enter from the direction of Sevan or Vanadzor. A very popular town for Armenians to spend time simply relaxing, it was once popular throughout the Soviet Union for this reason, and the retro Cinematographers House is where the most famous Soviet directors used to come to commune with nature, and each other.

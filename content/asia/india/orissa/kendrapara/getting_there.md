@@ -1,6 +1,6 @@
 ---
-title: "Getting There in Kendrapara"
+title: 'Getting There'
 type: section
 ---
 
-65 Kms from Cuttack. Regular bus facilities available from Cuttack. n End of Getting There Section
+Kendrapara is 65 km from Cuttack. Regular bus services run from Cuttack's main bus stand throughout the day.

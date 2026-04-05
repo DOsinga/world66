@@ -1,9 +1,14 @@
 ---
-title: "Museums in Raleigh"
+title: 'Museums in Raleigh'
 type: section
 ---
 
-If you are traveling with your children, one of your Raleigh activities is to take them to the Marble Kids Museum. For ages birth to 10, this is the place to take them to keep them busy all day. They can participate in activities where they pretend to be a firefighter, paramedic, doctor, farmer, chef, mailman, ballerina, and train conductor. For parents that want their children to learn more about the environment, there is an eco lab where they can learn what can be made out of recycled products. Be ye forewarned: there is a lot of noise in here.
+Raleigh has an unusually strong collection of free museums, all within walking distance of each other near the State Capitol.
 
-**Contributors**
-May 11, 2009
+The **North Carolina Museum of Natural Sciences** is the most visited museum in the state, with exhibits covering everything from dinosaur fossils to live animals. The Nature Research Center wing has four floors of interactive science labs.
+
+The **North Carolina Museum of History** covers the state's story from Native American cultures through the present, with particularly good exhibits on the Civil War, civil rights, and North Carolina's role in the textile and tobacco industries.
+
+The **North Carolina Museum of Art** is a short drive from downtown and houses an impressive permanent collection spanning 5,000 years. The 164-acre museum park, with its outdoor sculptures and walking trails, is worth a visit on its own.
+
+For families with young children, the **Marbles Kids Museum** near downtown has hands-on activities where kids can pretend to be firefighters, doctors, farmers, and train conductors. There is also an eco lab where children learn about recycling. It gets noisy -- consider yourself warned.

@@ -1,14 +1,22 @@
 ---
-title: "Beaches in Guatemala"
+title: "Beaches"
 type: section
 ---
 
-The city of Antigua, Guatemala, was founded in 1543 by Spanish colonists, and **Antigua Guatemala beaches** are some of the most beautiful in Guatemala--stunning and clean. There are few naturally occurring beaches in the country, but the quality make up for the quantity.
+Guatemala's beaches are black-sand Pacific shores — the volcanic sand absorbs heat, so wear sandals or go early in the morning. The Pacific coast is known for strong surf and powerful currents; swimming requires care and local knowledge about conditions on any given day.
 
-**Monterrico Beach**
+**Monterrico**
 
-Monterrico Beach is arguably the best beach in Guatemala. This beach is located near Antigua and is accessible by train or bus. Unlike other beaches in Latin America, this one is remarkable for the lack of commercialization on the beach. There no resorts on the beach; visitors are essentially looking at what the beach was like during the time of the Spanish missionaries. Sport enthusiasts will be happy to find strong waves off the coast line. One thing to remember is that the current here is strong, so swimmers should be wary when going further then knee deep water. There is a lush line of trees by the shoreline for people who might be interested in going on a hike during their visit. Visitors will delight in the black sand from the local volcanoes. Visitors should remember to bring footwear with them, as the sand can get hot.
+The most visited beach in Guatemala. A sleepy fishing village with a long black-sand beach backed by mangrove lagoons. The surf is strong and the undertow can be dangerous, but the setting is beautiful. Monterrico is also a major sea turtle nesting site — olive ridley and leatherback turtles nest from July to November, and the local conservation project Tortugario Monterrico allows visitors to watch hatchling releases (best August to October, in the evenings). From Antigua, Monterrico is about three hours by shuttle or chicken bus via Escuintla.
 
-**Lake Atitan Beach**
+**Champerico**
 
-Lake Atitan is located by the city and is a fresh water lake. The lake is surrounded by black sand beach from the local volcano. The Maya still live in the area and survive off the tourism industry. They organize groups on the beach for tourists. People who are interested in sport fishing will be excited to visit the lake. The lake contains black bass that was introduced into the local food chain in 1958, as a way to stimulate the local economy. The beach is also home to archeological digs as evidence of civilizations that were found in the lake itself. There are resorts in the area of Monterrico. Visitors to the lake can start their day with a light breakfast from a caf&eacute; and then walk down to the beach. After a leisure drip in the lake, tourists can then have a picnic lunch and arrange for a boat tour of the lake.
+A small Pacific fishing port west of Escuintla. Less developed than Monterrico and seeing fewer tourists. The beach is long and generally deserted, the town unpretentious. The seafood is fresh and cheap.
+
+**The Caribbean coast**
+
+Guatemala's Caribbean coastline is short — about 150 km — and very different from the Pacific. [Livingston](/northamerica/guatemala/livingstone) is the only real town on this coast, accessible only by boat from Puerto Barrios or from Río Dulce. The beach at Livingston is not the draw; the attraction is the Garífuna culture, the river gorge, and the humid Caribbean atmosphere. The Siete Altares waterfalls, a short walk north of Livingston along the coast, are good for swimming.
+
+**Lake Atitlán**
+
+Not a beach in the coastal sense, but the lakeside villages of Lake Atitlán have swimming areas in the world's most spectacular caldera lake, surrounded by three volcanoes. The water is clear and cold.

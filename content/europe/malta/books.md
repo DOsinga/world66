@@ -3,70 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Malta's history is dense enough to reward some background reading before you go.
 
-**Insight Guide to Malta**
+**History and archaeology**
 
+*The Knights of Malta* by H.J.A. Sire (1994) is a thorough and readable history of the Order from its origins in the Crusades through to the present day. Solid preparation for making sense of Valletta.
 
+*Malta: A History* by Brian Blouet covers the full sweep from the prehistoric temple builders to the twentieth century in compact form.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887297099/ref=ase_osingacom?v=glance&s=books)
+*The Malta: The Thorn in Rommel's Side* by Laddie Lucas deals with the island's pivotal role in the Second World War — the siege, the convoys, and the RAF's defence of the island.
 
-author: Insight Publications,Lyle Lawson (Photographe..
+**Travel and culture**
 
-isbn: 0887297099
+*The Kappillan of Malta* by Nicholas Monsarrat is a novel set during the wartime siege, woven around the story of a parish priest in a bombed-out village. Still widely read and respected, and a good way into the character of the island.
 
-subject: travel
-
-**Insight Malta**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887295444/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Publications
-
-isbn: 0887295444
-
-subject: travel
-
-**Passport's Illustrated Travel Guide to Malta**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/084424824X/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0192834452/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/1854591991/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/1855326035/ref=ase_osingacom?v=glance&s=books)
-
-author: Tim Pickles
-
-isbn: 1855326035
-
-subject: history
-
-**The Knights of Malta**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0300068859/ref=ase_osingacom?v=glance&s=books)
-
-author: H J A J. A. Sire
-
-isbn: 0300068859
-
-subject: history
-
-**Doctor Faustus**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0192834452/ref=ase_osingacom?v=glance&s=books)
-
-author: <font face="arial, helvetica, sans-serif" siz..
-
-isbn: 0192834452
-
-subject: history
+*Insight Guide to Malta* (Insight Publications) remains a reliable reference for history, culture, and practical information.

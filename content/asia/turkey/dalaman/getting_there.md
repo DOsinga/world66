@@ -1,32 +1,22 @@
 ---
-title: "Getting There in Dalaman"
+title: "Getting There"
 type: section
 ---
 
-Dalaman town is located in the Dalaman district of the Mugla
-Province, on the southwestern coast of Turkey. Dalaman is a quaint
-little Turkish farming town, that is popular because of its Dalaman
-Airport, the only airport in the area.
+Dalaman sits on the southwestern coast of Turkey in the Mugla Province. Its international airport makes it the main entry point for this stretch of coast.
 
-**Getting There:**
+**By Air**
 
-**By Air** - Flying via the Dalaman airport is the easiest and most
-efficient way to arrive in Dalaman town. The Dalaman Airport is very
-small, with only 14 gates, but offers daily service from Istanbul, and
-nonstop flights from Europe weekly.
+Dalaman Airport is small — just 14 gates — but handles daily flights from Istanbul and regular nonstop services from across Europe, particularly charter flights in summer. The airport is the easiest and most common way to arrive.
 
-**By Boat**** - **Although Dalaman is a coastal town on the
-Mediterranean, there are no direct ferry routes to Dalaman. However,
-there are many ferry options to other parts of Turkey, such as routes
-to Kusadasi, Antalya and Alanya, all of which are also located in the
-southwestern region of Turkey. You can book a ferry to one of these
-cities and then proceed by bus to Dalaman.
+**By Bus**
 
-**By Land**** - **There are numerous international bus routes to
-Turkey, via Austria, France, Italy, The Netherlands, Switzerland,
-Greece, Iraq, Iran, Jordan, Saudi Arabia, Kuwait and Syria. The main
-bus station in Dalaman is Otogar Bus Station, and it operates daily
-services to most Turkish cities and towns, with some connections. Car
-hire and rental is also a good way to explore Dalaman, and Turkey. Most
-car rental agencies will not allow rentals to be taken across
-international borders.
+The main bus station is Otogar, with daily services to most Turkish cities and towns. International bus routes connect Turkey with Greece, Austria, France, Italy, the Netherlands, Switzerland, and several Middle Eastern countries. From the bus station, dolmus (shared minibus) services run to nearby towns.
+
+**By Car**
+
+Car hire is available at the airport and is a good way to explore the region at your own pace. Most rental agencies will not allow vehicles to be taken across international borders.
+
+**By Boat**
+
+There are no direct ferry routes to Dalaman, but ferries serve nearby ports including Marmaris. You can take a ferry to Marmaris and continue by bus.

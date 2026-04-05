@@ -1,8 +1,10 @@
 ---
 title: "Hallowell"
 type: location
-latitude: 44.285624
-longitude: -69.79028
+latitude: 44.2856
+longitude: -69.7903
 ---
 
-Hallowell is a small town adjacent to Augusta along the Kennebec River and built along a precipitous hillside. Hallowell is famous for its large assortment unusual antique shops, coffee shops, restaurants, and bookstores. All along the main street are interesting places to shop, and great places to eat. Hallowell is also famous for its unusual population of skilled musicians, artists and artisans that that grace its pubs, shops and restaurants with their talents. The town is scenic and historical, with many homes dating well into the 1700's. There are also many beautiful victorian houses.
+Hallowell is a small town adjacent to [Augusta](/northamerica/unitedstates/maine/augusta) along the Kennebec River, built along a steep hillside. The main street is lined with antique shops, bookstores, coffee shops, and restaurants -- it has more character per block than most towns ten times its size.
+
+The town is known for its concentration of musicians, artists, and artisans who perform in the pubs and sell their work in the shops. Many homes date to the 1700s, and the Victorian houses climbing the hill above the river are worth a slow walk.

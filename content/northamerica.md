@@ -1,6 +1,10 @@
 ---
 title: "North America"
 type: location
+image: northamerica.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Tuxyso" title="User:Tuxyso">Tuxyso</a>'
 ---
 
 North America stretches from the Arctic to the tropics, from the world's most powerful country to tiny Caribbean islands where time barely moves. It covers an enormous range of landscapes, cultures, and travel experiences — gleaming megacities and empty deserts, ancient Maya ruins and space-age architecture, salsa and country music, tacos and lobster rolls.

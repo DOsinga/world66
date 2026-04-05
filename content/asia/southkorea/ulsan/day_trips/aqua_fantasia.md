@@ -1,7 +1,9 @@
 ---
-title: "Aqua Fantasia"
+title: 'Aqua Fantasia'
 type: poi
-url: "www.fantasia.co.kr"
+url: 'www.fantasia.co.kr'
+latitude: 35.4536
+longitude: 129.0448
 ---
 
 Tongdo Aqua Fantasia, a mere sixty minutes west of Ulsan, is an exciting, modern, and clean water park to make a leisurely day trip to.

@@ -1,17 +1,22 @@
 ---
 title: "Festivals"
 type: section
-address: "Town Rab"
-date: "25-27.07."
-email: "info@kristofor.hr"
-url: "www.kristofor.hr"
 ---
 
-**DONKEY RACE IN TRPANJ ATTRACTS HUNDREDS OF VISITORS
-**** UTRKA TOVARA U TRPNJU PRIVUKLA NA STOTINE POSJETITELJA**
-U Trpnju je pretprošle subote prvi put organizirana utrka tovara, koja je prethodnih godina u Lovištu već postala turističkom atrakcijom. Uz inicijatora i glavnog organizatora Joška Antunovića, vlasnika tovara, ovu su osobitu večer pomogli prirediti Turistički ured i Općina Trpanj te Nogometni klub Faraon iz Trpnja. Repriza utrke tovara održat će se i ovog vikenda u Trpnju, točnije sutra, u nedjelju, s početkom u 21.30 sati.
-Pred nekoliko stotina gledatelja, domaće čeljadi i mnogobrojnih turista, za pršut i 100 kilograma zobi natjecalo se osam tovara i isto toliko "jockeya". Uz veseli program voditelja Gordana Prišlića - Vjeverice i pomoćne voditeljice Ane Antunović, te poslije napetog i dugog iščekivanja, iz sparne je noći na strpljivim tovarima izjahalo osam muškaraca - Jozo Lavrić iz Kune, Jozo Mastilica iz Gornje Vrućice, Tonći Vodopić iz Trpnja, Jocika Bergeš iz Trstenika, Ante Vidović iz Mokala, Dado Kovač iz Oskorušnog, Ante Nobilo iz Donje Vrućice i Arsen Roso iz Donje Bande.
+Croatia has a strong festival culture, particularly in summer when the whole coast comes alive. The range is wide: medieval pageantry, classical music in Roman ruins, and electronic music on Adriatic beaches.
 
-### [Fjera - medieval fair
+**Dubrovnik Summer Festival** (mid-July to late August) is Croatia's most prestigious cultural event, running since 1950. Theatre, opera, ballet, and classical concerts take place across the old city — in Fort Lovrijenac, on the Stradun, and in various historic courtyards. Performances are outdoors and atmospheric; tickets sell fast.
 
-During the 3 days in July ( 25, 25th & 27th July) a medieval fair is held on island Rab](/europe/croatia/festivals/fjera__medieval_f). People dress up in historical costumes and have open air workshops of the "medieval life"... Visitors can see traditional crafts; pottery, painting, fishing, coinage, stitching, basket weaving, carpentry, sculpting or learn the flower arrangements from the florists, see the honey makers, herbalists or even hear the stories from the cross-bow archers who will explain the technique and the history of the crossbow. [more..](/europe/croatia/festivals/fjera__medieval_f)
+**Split Summer Festival** (mid-July to mid-August) uses the extraordinary setting of Diocletian's Palace for theatre and music performances. The Peristyle square becomes an open-air stage.
+
+**Ultra Europe** (July, Park Mladezi Stadium, Split) is one of Europe's biggest electronic music festivals, drawing international headliners and crowds from across the continent. Expect days of music and a chaotic, party-focused atmosphere in the city.
+
+**Hvar Summer Festival** runs June through September with classical concerts, theatre, and cultural events across the island. More intimate than the Dubrovnik festival.
+
+**INmusic Festival** (June, Zagreb) is the leading rock and pop outdoor festival, held on an island in Lake Jarun on the edge of the capital. Past headliners have included David Bowie, Nick Cave, and Arcade Fire.
+
+**Motovun Film Festival** (July, Motovun, Istria) is a beloved independent film festival held in a hilltop Istrian village. Films screen outdoors into the night; the atmosphere is relaxed and genuine.
+
+**Rab Medieval Fair / Rabska Fjera** (late July) transforms the old town of Rab into a medieval village, with crossbow tournaments, period costumes, crafts, and music. One of the more charming local traditions.
+
+**Sinj Alka** (first Sunday of August, Sinj) is a UNESCO-listed knightly tournament dating from 1715, celebrating the town's defeat of an Ottoman attack. The ceremonial lance-throwing competition is taken very seriously and draws large local crowds.

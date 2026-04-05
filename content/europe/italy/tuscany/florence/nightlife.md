@@ -1,4 +1,4 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Nightlife"
 type: section
 ---

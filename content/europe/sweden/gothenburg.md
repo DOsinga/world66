@@ -5,12 +5,10 @@ latitude: 57.707233
 longitude: 11.967017
 ---
 
-Gothenburg is the second city of Sweden and can be seen as the capital of the South. The city is quite different from Stockholm and something of a swedish beach destination. 
+Gothenburg is Sweden's second city and has a character quite different from [Stockholm](/europe/sweden/stockholm). Founded in 1621 and built by Dutch immigrants, it still has gabled houses and an Amsterdam-style canal around the old centre. The harbour -- Sweden's only one that does not freeze in winter -- remains central to the city's identity and atmosphere.
 
-If you like harbours, Gothenburg is the place to be. It has the only harbour in Sweden that doesn't freeze over winter, and even though it's not the thriving industry it used to be, the harbour still plays an important part in city life and atmosphere. This is reflected in the excellent Gothenburg maritime museum, where you can look around on about 15 ships and boats. 
+Walk around the Haga district for its charming small shops and cafes, then head to the Kungsportsavenyn (locals call it "the Avenyn") for museums, restaurants, and Gothenburg's famously lively nightlife. The city has an impressive range of museums: art at the Konstmuseet, design at the Rohsska, world cultures in a striking modern building, and of course the Volvo Museum for anyone who wants to understand what makes Sweden tick.
 
-But it's not all fish and ships in Gothenburg. There's also plenty of shopping, culture and night life going on. It has some nice 17th century architecture. Gothenburg got it's city rights in 1621 and was built by Dutch immigrants. This explains the gabled houses and the Amsterdam-style canal around the old centre. Walk around in the Haga part of town and see the many small but charming shops and Gothenburg,Pubs & Bars. Take in some culture in one of the many museums. Art, history, natural science, armies, you name it, Gothenburg has a museum about it. And of course no visit to Sweden would be complete without a trip to the Volvo museum. 
+Liseberg, Scandinavia's largest amusement park, sits right in the centre of town and has been entertaining people since 1923. Beyond the city, the car-free West Coast Archipelago offers hundreds of islands with rocky beaches, swimming spots, and some of Sweden's best seafood. Take a ferry from Saltholmen and go island hopping -- it is one of the highlights of the Swedish west coast.
 
-When you've seen enough culture for the day, you can visit the Liseberg amusement park, the largest of it's kind in Scandinavia. Situated right in the centre of town, it has entertained millions of people since 1923. You can ride the roller coasters or see popular artist perform. 
-
-Though not as beautiful and entertaining as [Stockholm](/europe/sweden/stockholm), Gothenburg has more than enough to offer to keep you occupied for a while.
+Gothenburg is also Sweden's best seafood city. The fish harbour, the Feskekorka (fish church) market, and the restaurants along the harbour all make the most of what the North Sea brings in daily.

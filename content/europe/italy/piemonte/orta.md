@@ -1,11 +1,10 @@
 ---
-title: "Orta"
+title: 'Orta'
 type: location
-latitude: 42.117479
-longitude: 14.015827
+latitude: 45.7980
+longitude: 8.4110
 ---
 
-The lago d'Orta is one of the most beautiful lakes of Italy. It can compete with the Lago Maggiore without problems. Located on a small island is a nice little town, with cobbled streets where you can walk around in about half an hour.
+Lago d'Orta is one of the most beautiful and least crowded lakes in northern Italy, easily rivalling the more famous Lago Maggiore next door. The tiny Isola San Giulio, reached by boat from the waterfront, is a medieval gem of cobbled lanes you can walk around in half an hour.
 
-
- The town of Orta is very nice as well. There are good restaurants on the waterfront and regular boats to the island.
+The town of Orta San Giulio itself is a delight, with a handsome piazza on the water, good restaurants along the lakefront, and regular boat services to the island. It makes a fine day trip from Stresa or a peaceful base for exploring the quieter side of the Italian lake district.

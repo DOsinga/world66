@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Niagara falls"
+title: "Beaches"
 type: section
 ---
 

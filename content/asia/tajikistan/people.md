@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 6 020 095 (July 1998 est.)
+Tajikistan has a population of around 10 million, making it the smallest of the Central Asian republics by population as well as area. It is also the poorest. A significant proportion of working-age men are labor migrants in Russia, sending remittances home — these transfers account for a substantial share of GDP.
 
-**Age structure:**
+About 84 percent of the population is Tajik. Uzbeks make up roughly 14 percent, concentrated in the north around Khujand and in the Hissar Valley. The Russian minority that once staffed the Soviet bureaucracy and industry has largely emigrated since 1991. A smaller Pamiri population in Gorno-Badakhshan speaks distinct languages related to but different from Tajik.
 
-*0-14 years:* 41% (male 1 258 424; female 1 230 891)
+Tajik is the official language, a variety of Persian (Farsi). It is written in a modified Cyrillic script — Soviet-era policy — rather than the Persian script, which means Tajiks and Iranians can understand each other when speaking but not always in writing. Russian remains widely used in government, business, and the older generation in cities. Learning a few phrases of Tajik opens doors considerably.
 
-*15-64 years:* 54% (male 1 616 257; female 1 636 732)
+The country is predominantly Sunni Muslim, with a Shia minority in parts of the Pamirs. Islam is practiced with varying degrees of observance; in cities you see both headscarves and miniskirts. Religious expression has become more visible since the Soviet collapse, though the government keeps a close watch on political Islam.
 
-*65 years and over:* 5% (male 118 485; female 159 306) (July 1998 est.)
+Hospitality is genuine and pervasive. An invitation into someone's home means tea, then food, then more food. Refusing is awkward. Tajiks eat on the floor, seated on cushioned mattresses (kurpachi) arranged around a low tablecloth. Meals at home are relaxed and generous. Accepting hospitality graciously — and reciprocating with small gifts or by buying tea — is the right approach.
 
-**Population growth rate:** 1.3% (1998 est.)
-
-**Birth rate:** 27.67 births/1 000 population (1998 est.)
-
-**Death rate:** 7.77 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -6.87 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.98 male(s)/female
-
-*65 years and over:* 0.74 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 112.14 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 64.48 years
-
-*male:* 61.35 years
-
-*female:* 67.77 years (1998 est.)
-
-**Total fertility rate:** 3.53 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Tajikistani(s)
-
-*adjective:* Tajikistani
-
-**Ethnic groups:** Tajik 64.9% Uzbek 25% Russian 3.5% (declining because of emigration) other 6.6%
-
-**Religions:** Sunni Muslim 80% Shi'a Muslim 5%
-
-**Languages:** Tajik (official) Russian widely used in government and business
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 98%
-
-*male:* 99%
-
-*female:* 97% (1989 est.)
+Traditional sports include gushtingiri (wrestling) and buzkashi, a rough mounted game played with a goat carcass, familiar across the region and spectacular to watch.

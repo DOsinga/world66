@@ -1,15 +1,29 @@
 ---
-title: "Swaziland"
+title: "Eswatini (Swaziland)"
 type: location
 latitude: -26.562481
 longitude: 31.399132
+image: swaziland.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Mlilwane_Wildlife_Sanctuary_02.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard Gagnon</a>'
 ---
 
-Swaziland is a small landlocked country in Southern Africa. It is almost completely surrounded by [South Africa](/africa/southafrica) but it also borders on [Mozambique](/africa/mozambique). Most people visiting Swaziland will come from [Johannesburg](/africa/southafrica/johannesburg) only about 400 km from [Mbabane](/africa/swaziland/mbabane) the capital of Swaziland and connected by good roads.
+Eswatini — renamed from Swaziland in 2018 by King Mswati III to reclaim its precolonial name — is one of Africa's smallest countries and one of its last absolute monarchies. Landlocked between South Africa and Mozambique, it covers roughly 17,000 square kilometres, about the size of Wales or New Jersey. In that compact space it manages to pack dramatic highland scenery, lowland bushveld, some of the continent's best rhino conservation, and a living royal culture that is impossible to fake.
 
+Most visitors come from [Johannesburg](/africa/southafrica/johannesburg), about four hours by road, and many treat Eswatini as a short detour on a wider southern African trip. That is a reasonable approach but it undersells the place. A week spent here — a night or two in Mlilwane, a day at Hlane, some time in the [Ezulwini Valley](/africa/swaziland/ezulwinivalley), and with luck one of the great ceremonies — is genuinely memorable.
 
- The major attraction of the country is that it has preserved its culture quite well. From the ritual smearing of the bride with red ochre in the traditional marriage ceremony to the mystical rite of Kingship, the Incwala, each ritual is deeply significant and is performed only at the appropriate time and place. The centuries- old ceremonies are as valid today as they were in days of Ngwane, the first King of Swaziland and this balance of ancient and modern, traditional and western gives Swaziland and her people their distinctive character.
+The country divides broadly into three zones. The Highveld in the west, where [Mbabane](/africa/swaziland/mbabane) sits at 1,200 metres, is cool and green. The Middleveld is warmer and more agricultural. The Lowveld in the east is hot and flat, cattle country with acacia savannah, and where Hlane Royal National Park protects the largest game herds in the kingdom. The mountains in the northwest — particularly the Malolotja highlands — are wild and largely untouched.
 
+The Swazi people have maintained a remarkable cultural continuity. The Incwala ceremony in December, a six-day first-fruits and kingship ritual, and the Umhlanga Reed Dance in late August, which draws tens of thousands of women to [Lobamba](/africa/swaziland/lobamba), are both living events rather than tourist productions. If you are in the country at the right time, try to attend.
 
- 
- Urban Swazi's in spite of a very 20th century lifestyle still maintain firm links to the rural areas where water is fetched from the river and cooking takes place in a three-legged pot over an open fire. When duty calls, there is no contradiction for the majority of Swazi's in leaving an air-conditioned office in town and shedding a three-piece business suit in favour of the traditional cloths and skins of emahiya and to take their place with the regiments to perform the task or ceremony for which the nation has been summoned. Watching the regiments wearing the traditional dress of their great-grand-fathers, singing the songs of their ancestors and performing the ancient ritual dances, only the glimpse of a wristwatch here or a flashlight there will remind you that this is not the Swaziland of a hundred or two hundred years ago.
+Wildlife conservation is taken seriously. Eswatini has all of the Big Five, and its rhino populations — both black and white — are among the most carefully managed on the continent. The Big Game Parks organisation runs Mlilwane, Hlane, and Mkhaya, and has a strong track record on conservation. Malolotja, in the northwest, is run by the government and is less visited — the hiking there is excellent.
+
+The country is generally easy and safe to travel in. English is an official language and is spoken almost everywhere. The currency, the Lilangeni, is pegged to the South African Rand, and Rands are accepted throughout. The main practical issue is transport: without your own vehicle, some of the best areas are difficult to reach.
+
+**Destinations**
+
+- [Mbabane](/africa/swaziland/mbabane) — the capital, in the western Highveld
+- [Manzini](/africa/swaziland/manzini) — the largest city and commercial hub
+- [Ezulwini Valley](/africa/swaziland/ezulwinivalley) — the tourist heart of the country, between the two cities
+- [Lobamba](/africa/swaziland/lobamba) — the royal and traditional capital

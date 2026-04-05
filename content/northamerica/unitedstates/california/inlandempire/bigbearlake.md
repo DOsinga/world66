@@ -1,13 +1,12 @@
 ---
-title: "Big Bear Lake"
+title: 'Big Bear Lake'
 type: location
 latitude: 34.244059
 longitude: -116.91018
 ---
 
-You'll find Big Bear Lake at 7,000 feet elevation. The lakeside resort communities here offer year-round recreation-boating, jet skiing, fishing, hiking, mountain biking, horseback riding, skiing, and other snow sports. In the winter, the snow depth can reach 6 feet. If you have children, be sure to visit Santa's Village, a woodsy theme park in Skyforest. Also, walk the nearby nature trail at Heap's Peak Arboretum. Follow the scenic highway to Barton Flats, on the edge of the San Gorgonio Wilderness, for a picnic, and later stretch your legs on the fascinating San Bernardino Peak Loop Trail. 
- 
+Perched at 7,000 feet in the San Bernardino Mountains, Big Bear Lake is Southern California's favorite mountain getaway. The lakeside resort community offers year-round recreation: boating, jet skiing, and fishing in summer; skiing, snowboarding, and snowshoeing in winter, when snow depth can reach six feet.
 
-## Destinations in Big Bear Lake
+Big Bear Valley was first settled by Serrano Indians roughly 3,000 years ago. In 1845, Benjamin D. Wilson named it Bear Valley because "the place was alive with bears." Gold was discovered here in 1860, triggering Southern California's largest gold rush. The first dam was completed in 1884, and by 1949 the first ski resort had opened. Hollywood has a long history here too -- since the filming of "The Call of the North" in 1914, the valley has been called "Hollywood's back lot."
 
-[Big Bear](/northamerica/unitedstates/california/inlandempire/bigbearlake/bigbear)
+If you have children, visit Santa's Village, a woodsy theme park in nearby Skyforest. Walk the nature trail at Heap's Peak Arboretum, then follow the scenic highway to Barton Flats on the edge of the San Gorgonio Wilderness for a picnic and a stretch on the San Bernardino Peak Loop Trail.

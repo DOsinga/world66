@@ -1,20 +1,12 @@
 ---
-title: "Salisbury"
+title: 'Salisbury'
 type: location
 latitude: 35.670973
 longitude: -80.474226
 ---
 
-Travel Guide
+Salisbury was once the largest city in western North Carolina and the leading edge of the American frontier -- the jumping-off point for pioneers, visionaries, and more than a few scoundrels. As a major center of trade and politics in the eighteenth and early nineteenth centuries, the town played an outsized role in the state's history.
 
-For
-years the town was the leading edge of the American frontier, the
-jumping-off point for pioneers, visionaries and even a few scoundrels
-and fugitives. As the largest city in western North Carolina in
-the 18th and early 19th centuries, Salisbury was the major center
-of trade and politics. The coming of the railroad in 1859 further
-boosted the town's economy and stimulated industry.
-Salisbury
-was twice occupied by enemy troops; in 1781 during the Revolutionary
-War by British General Cornwallis, and again in 1865 at the end
-of the Civil War by Union General Stoneman.
+The coming of the railroad in 1859 further boosted the economy, and the town's prosperity from that era is preserved in its well-maintained historic district. Salisbury was twice occupied by enemy troops: by British General Cornwallis during the Revolutionary War in 1781, and by Union General Stoneman at the end of the Civil War in 1865.
+
+Today, the downtown is walkable and full of antique shops, restaurants, and well-preserved architecture. The **Rowan Museum** tells the local story, and the surrounding countryside includes wineries worth a day trip from [Greensboro](/northamerica/unitedstates/northcarolina/greensboro) or [Charlotte](/northamerica/unitedstates/northcarolina/charlotte).

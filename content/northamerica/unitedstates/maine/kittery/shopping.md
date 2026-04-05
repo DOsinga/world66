@@ -3,4 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-Kittery, Maine offers one of the most impressive collections of factory-direct stores in the world and is considered the premier outlet-shopping destination in New England. Formerly known as Tidewater Outlet Mall, Manufacturer's Outlet Mall, and Kittery Outlet Village, Prime Outlets at Kittery has more than 25 famous name brand stores and is only an hour's drive from both Portland, Maine and Boston, Massachusetts on scenic Coastal Route 1.
+Kittery's outlet strip along Route 1 is one of New England's premier shopping destinations. Over 120 factory-direct and brand-name stores cluster here, easily accessible from both Portland (one hour north) and Boston (one hour south). Traffic on Route 1 can be brutal on weekends -- arrive early or visit midweek.

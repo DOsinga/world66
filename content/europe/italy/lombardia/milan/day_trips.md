@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Milan"
+title: "Day Trips"
 type: section
 ---
 

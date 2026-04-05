@@ -1,8 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
-address: "Union St,Castle Circus, Torquay Devon TQ1 3DW"
-phone: "01803 293996"
 ---
 
-Rocombe Farm Organic Ice Cream
+**Rocombe Farm Organic Ice Cream** -- Union St, Castle Circus. Tel: 01803 293996. Organic ice cream made locally.

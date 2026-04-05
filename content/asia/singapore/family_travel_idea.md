@@ -3,47 +3,16 @@ title: "Family Travel Ideas in Singapore"
 type: section
 ---
 
-Singapore is a treasure-trove of family friendly activities just
-waiting to be discovered. Located off of the Malay Peninsula, Singapore
-is sure to delight kids and adults of all ages with its wild landscapes
-and exotic beauty.
+Singapore is an unusually easy city to travel with children. It is safe, clean, the public transport works well with strollers, and there is a wide range of things to do. The heat and humidity are the main challenge — plan activities for mornings and evenings, and retreat to air-conditioned spaces during the hottest part of the day.
 
-**Orchard Road Shopping District**
+**Mandai Wildlife Reserve.** The cluster of wildlife parks in the north of the island is the best family destination in Singapore. The Singapore Zoo has large naturalistic enclosures and is genuinely among the best zoos in Asia. The Night Safari — the zoo's nocturnal section — is worth doing with older children; young ones may find it hard to see the animals in the dark. River Wonders covers freshwater ecosystems and has giant pandas. The former Jurong Bird Park has relocated here as Bird Paradise. Book tickets online; it is cheaper and avoids queues at the gate.
 
-This shopping area is the most famous in all of Singapore. It
-attracts thousands of tourists with its unique restaurants, colonial
-architecture, and various malls. Since the culture of this city-state
-is so distinctive, shopping is somewhat of an educational experience.
-Kids love the hustle and bustle of the area and the interesting
-sights, colors, and sounds that enhance the shopping experience.
-Visiting the Orchard Road Shopping District also gives you and your
-family the chance to try traditional Singapore foods and see the
-residence of the president of Singapore. There is no entrance fee to
-this area, but you may end up spending a bit of money anyways due to
-the intriguing foods and products you´ll find.
+**Sentosa Island.** The resort island is essentially built for families. Universal Studios Singapore is the main draw; queues are long on weekends and school holidays, so buy tickets and book ride times online. Sentosa's beaches are good for young children — the water is calm and the sand is well maintained — and there are beach toys and equipment for rent. The cable car from Mount Faber to Sentosa is a fun way to arrive.
 
-**Singapore Botanic Gardens**
+**Singapore Botanic Gardens.** Free and open from 5am to midnight. The Jacob Ballas Children's Garden within the grounds is designed for children under 12, with water play areas, a suspension bridge, and a farm section. The National Orchid Garden charges a small fee. Good for a few hours of open-air activity.
 
-On the north side of the Orchard Road Shopping District is the
-Singapore Botanic Gardens. Free to the public and open from 5 a.m.
-until midnight, these gardens are lush and colorful. For a special
-treat you can visit the National Orchid Garden, open from 8:30 a.m. to 7 p.m. daily. Admission is $5 for adults and $1 for students. If you have
-young children, they're sure to enjoy the Jacob Ballas Children´s
-Garden which is part of the Botanic Gardens.
+**Gardens by the Bay.** The Cloud Forest conservatory — an indoor waterfall inside a cooled glass dome — is genuinely spectacular and a good midday retreat from the heat. Admission around S$14–20 for children. The Supertrees light show at 7:45pm and 8:45pm is free and impressive.
 
-**Jurong Bird Park**
+**Science Centre Singapore.** (15 Science Centre Road, Jurong) A hands-on science museum aimed at children and teenagers. Popular with local school groups. Admission around S$15 for children.
 
-This amazing free flight aviary and garden is any child´s dream.
-With 4 different aviaries in addition to exhibits for specific bird
-species, there´s so much to explore that you´d need a week to see it
-all. Lush foliage, tropical flowers, lagoons, and waterfalls adorn
-these impeccably created bird habitats. The African Waterfall Aviary is
-the largest in the world and contains a lily pond and full-sized
-African warriors and huts. Of particular interest are the black
-masked love birds, found only in Africa. The Lory Loft is the largest
-Lory aviary in the world. For a South American rain forest experience,
-you can visit the Jungle Jewels Flight Aviary, and if you want to see the birds
-that can be found locally, check out the Southeast Asia Birds Aviary.
-At the Jurong Bird Park, there is also a Panorail ride that goes from
-aviary to aviary. Adult admission to the bird park is S$18, a child's
-admission is S$9.
+**Practical notes.** Most shopping malls have dedicated nursing and baby-changing rooms. Hawker centres are child-friendly — the variety means even picky eaters can find something they will eat. Chicken rice, roti prata, and plain noodles are reliable options at any hawker centre.

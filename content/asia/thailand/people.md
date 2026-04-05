@@ -3,64 +3,22 @@ title: "People"
 type: section
 ---
 
-**Population:** 60 037 366 (July 1998 est.)
+Thailand has a population of around 70 million. The vast majority are ethnic Thai, with a significant Chinese-Thai community (roughly 14%) that has been deeply integrated into commerce and urban life for generations. There are also Malay Muslims in the far south (about 5% of the population), and numerous smaller ethnic groups in the north — Karen, Hmong, Akha, Lisu, and others — often referred to collectively as hill tribes.
 
-**Age structure:**
+The dominant religion is Theravada Buddhism, practiced by over 90% of the population. It shapes daily life in visible ways: monks in saffron robes are a constant presence on the streets, spirit houses (*san phra phum*) stand outside almost every building, and the calendar is marked by Buddhist holy days. Most Thai men spend some time as monks, often as young men before marriage.
 
-*0-14 years:* 24% (male 7 440 863; female 7 169 837)
+## Social Customs
 
-*15-64 years:* 70% (male 20 605 197; female 21 210 697)
+The traditional Thai greeting is the *wai* — palms pressed together, a slight bow. As a foreigner, you are not expected to initiate a wai, but returning one when offered is polite. The higher the hands and the deeper the bow, the greater the respect — you would wai a monk or elderly person more deeply than a peer.
 
-*65 years and over:* 6% (male 1 596 267; female 2 014 505) (July 1998 est.)
+Thais are generally warm to foreigners, patient, and inclined to laugh rather than argue. The concept of *sanuk* (fun) runs through social life. Public displays of anger or frustration are considered embarrassing. If something goes wrong, a calm and good-humoured approach will get you much further than exasperation.
 
-**Population growth rate:** 0.97% (1998 est.)
+The head is considered sacred, the feet lowly. Avoid touching people on the head, even children, and don't point your feet at people or religious images. Shoes come off at temple entrances and at many private homes.
 
-**Birth rate:** 16.76 births/1 000 population (1998 est.)
+## The Monarchy
 
-**Death rate:** 7.11 deaths/1 000 population (1998 est.)
+Reverence for the royal family is deep and backed by strict *lèse-majesté* laws that make it a criminal offence to criticise the monarchy. This is not a formality — foreigners have been prosecuted and imprisoned. Treat all discussion of the royal family with discretion, stand when the royal anthem plays in cinemas or public spaces, and handle banknotes (which bear the king's image) carefully.
 
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
+## The South
 
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 0.97 male(s)/female
-
-*65 years and over:* 0.79 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 30.82 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 69 years
-
-*male:* 65.35 years
-
-*female:* 72.83 years (1998 est.)
-
-**Total fertility rate:** 1.84 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Thai (singular and plural)
-
-*adjective:* Thai
-
-**Ethnic groups:** Thai 75% Chinese 14% other 11%
-
-**Religions:** Buddhism 95% Muslim 3.8% Christianity 0.5% Hinduism 0.1% other 0.6% (1991)
-
-**Languages:** Thai English (secondary language of the elite) ethnic and regional dialects
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 93.8%
-
-*male:* 96%
-
-*female:* 91.6% (1995 est.)
+The three southernmost provinces — Yala, Pattani, and Narathiwat — have a predominantly Malay-Muslim population and have been the site of a long-running separatist insurgency, with periodic bombings and attacks on security forces. Most tourists have no reason to travel to this area, and most Western governments advise against non-essential travel there. The rest of southern Thailand, including [Phuket](/asia/thailand/phuket), [Krabi](/asia/thailand/krabi), and the Gulf islands, is entirely unaffected.

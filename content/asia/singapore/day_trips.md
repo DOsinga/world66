@@ -3,20 +3,12 @@ title: "Day Trips"
 type: section
 ---
 
-**Day Trips**
+Singapore's location at the southern tip of the Malay Peninsula puts several worthwhile destinations within easy reach by bus, ferry, or train.
 
-**{Pulau Bintan}**
+**Johor Bahru, Malaysia.** The Malaysian city directly across the Causeway is an hour away by bus from the Queen Street or Kranji bus terminals. The border crossing can be slow, particularly on weekends when Singaporeans head north for cheaper food, fuel, and healthcare. JB has improved considerably in recent years; the old town (Bandar Johor Bahru) has some interesting colonial buildings, and the food — particularly the Chinese seafood restaurants — is cheaper and often very good. Bring your passport.
 
-The north and east coasts of Bintan are attractive tourists resorts. The main attractions are the old town of Tanjung Pinang and the relatively untouched beaches. To get there take a ferry form the Tanah Merah Ferry Terminal. The trip takes about 45-90 minutes depending on the quality of the ferr [more..](/asia/singapore/daytrips/pulaubintan)
+**Melaka (Malacca), Malaysia.** About four hours by bus from Golden Mile Complex (Beach Road), Melaka is one of the most historically layered cities in Southeast Asia. Dutch, Portuguese, and British colonial buildings crowd around the central hill; Peranakan shophouses line Jalan Tan Cheng Lock; the Baba Nyonya Heritage Museum is one of the best small museums in Malaysia. Better as an overnight stay than a day trip, but doable in a day with an early start.
 
-**{Melaka}**
+**Batam, Indonesia.** A short ferry ride (around 45 minutes) from HarbourFront Terminal. Batam is a free-trade zone with affordable seafood and a relaxed atmosphere compared to Singapore. The main draw for Singaporeans is the price differential — cheaper food, haircuts, and massage. Not a destination in itself, but a pleasant afternoon.
 
-Melaka or Malacca is a great place to visit. It bears witness to six centuries of existence with a rich cultural heritage. The Dutch, Portuguese and English buildings and monuments reflect the former presence of these colonial powers. Melaka is also synonymous wiht Straits-born Chinese culture. [more..](/asia/singapore/daytrips/melaka)
-
-**{Batam}**
-
-Batam is a bustling small island city in the Riau Archipelago. Ferries are available daily from the World Trade Centre (WTC) (now renamed to Harbourfront MRT) and Tanah Merah Ferry Terminal (TMFT). Ferries depart approx. every 40 minutes. It is famous for it's boisterious nightlife and amazingly [more..](/asia/singapore/daytrips/batam)
-
-**{Johor Bahru}**
-
-A bustling Malaysian city right at the border with Singapore. Comfortable air-conditioned busses leave at intervals of 7 minutes from Singapore and the trip takes about 1 hour.
+**Bintan, Indonesia.** Ferries from Tanah Merah Ferry Terminal take around an hour to reach the resort area on Bintan's north coast, or Tanjung Pinang — the old trading town on the west coast — about the same. The resorts are targeted at Singaporeans wanting a beach weekend; Tanjung Pinang is more interesting for the old Riau Archipelago atmosphere and the nearby ruins of the ancient Riau sultanate at Pulau Penyengat.

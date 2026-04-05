@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-**By Air**
-
-From Bangkok, the easiest option for travel to Krabi is by air. Daily flights from Bangkok to Krabi (and return) are conducted by Thai Airways in both high and low seasons. Flight schedules can be found on the Thai Airways web page or by Tel: (02) 232 8000 (Bangkok office); or (076) 327 144 (Phuket office). 
-
- Bangkok Airways flies to Krabi from Koh Samui and return, with connections
+**By air** is the easiest option from Bangkok: both Thai Airways and a handful of budget carriers (AirAsia, Nok, Thai Lion) fly direct to **Krabi International Airport**, about 15 km from Krabi Town and 30 minutes from Ao Nang, in around 1 hour 20 minutes. Many European charter flights also land here in high season. **By road**, VIP buses from Bangkok's Southern Bus Terminal take 11–12 hours, and there are regular connections from Phuket (3 hours), Phang Nga, Surat Thani, Trang and Hat Yai. **By sea**, ferries run from Phi Phi, Phuket, Koh Lanta, and Koh Phi Phi to the harbour at Krabi Town and (in season) straight to Ao Nang.

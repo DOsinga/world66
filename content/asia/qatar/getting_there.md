@@ -1,16 +1,26 @@
 ---
-title: "Getting There in Qatar"
+title: "Getting There"
 type: section
 ---
 
-This **Qatar getting there** guide will give you an idea of how to get to this amazing destination in the Middle East. Qatar is also called Dawlat Qatar. The nation is an Arab emirate that occupies the Qatar Peninsula in the northeast of the Arabian Peninsula. This nation is rich in oil and gas and holds the 3rd largest gas reserves in the world. Here are a few tips you can use while planning a trip to Qatar.
+## By air
 
-**Traveling by Air**
+Almost everyone arrives at Hamad International Airport (DOH), about 15 km east of central Doha. It replaced the old Doha International Airport in 2014 and has since expanded significantly — a major Phase B expansion was completed in March 2025, adding capacity to handle over 60 million passengers a year. The airport consistently ranks among the best in the world.
 
-Qatar is served by the Doha Airport, which is approximately 8 km from the city. The national carrier of Qatar is Qatar Airways, which operates regular flights to Qatar from different parts of the world. Unfortunately, if you are traveling from the United States, there is no direct flight to Qatar. However, you can take a flight to London and take a flight to Qatar, which will take around 7 hours.
+Qatar Airways is the national carrier, with an enormous global network. Over 50 other airlines serve Hamad International, connecting Doha to around 200 destinations. Direct flights are available from most major cities in Europe, Asia, Africa, and the Americas, including direct services from New York, London, Paris, Frankfurt, Sydney, and Nairobi. Flying time from London is around 6.5 hours; from New York, roughly 13 hours.
 
-**Traveling by Road**
+The airport is connected to the rest of the city by the Doha Metro (Red Line), which takes about 20 minutes to reach central Doha. Taxis and ride-hailing apps (Careem, Uber) are also readily available.
 
-You can also get to Qatar by road. If you are traveling from the United Arab Emirates or from Saudi Arabia, you can drive to Qatar in your car. You will need to have a Saudi Arabian or a United Arab Emirates visa or transit visa before you travel to Qatar. There are also buses that travel to Qatar from Saudi Arabia. You will need to make reservations in advance if you plan on using the bus to get to Qatar.
+## By road
 
-Qatar also has two ports: Umm Said and Doha, both of which are mainly for commercial use.
+Qatar shares a land border only with Saudi Arabia. The single land crossing is at Abu Samra, about 85 km southwest of Doha. If you hold a Saudi or UAE driving licence and a valid visa for both countries, crossing by car is straightforward. There are occasional bus services from Saudi Arabia, but schedules are inconsistent and not well suited to tourist travel.
+
+## By sea
+
+The Hamad Port handles commercial shipping. There is no regular passenger ferry service to Qatar from neighboring countries.
+
+## Visas
+
+Citizens of around 100 countries receive visa-free entry or a visa on arrival valid for 30–90 days. This includes most Western European countries, the United States, Canada, Australia, and the United Kingdom. Citizens of GCC states (Saudi Arabia, UAE, Bahrain, Kuwait, Oman) can enter freely.
+
+If you hold a valid visa or residence permit from the Schengen Area, UK, USA, or Canada, you may qualify for visa on arrival even if your nationality is not on the standard list. Check the Qatar Ministry of Interior website before you travel, as rules change.

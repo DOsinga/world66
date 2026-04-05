@@ -1,22 +1,14 @@
 ---
-title: "When to Go in South Korea"
+title: "When to Go"
 type: section
 ---
 
-In **South Korea, when to go** can be narrowed down according to the time of year. The country's 4 distinct seasons offer a variety of things to do, apart, perhaps, from the summertime. Here's a look at the weather in each of South Korea's seasons so that you can best decide when to visit.
+South Korea has four very distinct seasons, and the time of year makes a real difference to what you experience.
 
-**Winter**
+**Spring (April–May)** is arguably the best time to visit. The cherry blossoms typically peak in early April, beginning in the south and moving northward. The Jinhae Gunhangje Festival near Changwon — one of Korea's biggest — draws enormous crowds to see over 350,000 cherry trees in bloom. Temperatures are warm without being oppressive, and the countryside looks beautiful. One warning: spring can bring yellow dust (hwang-sa) blowing in from the Gobi Desert, affecting air quality for a week or two at a stretch. Most pharmacies sell face masks.
 
-Winters in South Korea are very cold and very dry. The season is also the longest of the year, as it tends to cut into spring by about a month and lasts from December through March. Temperatures occasionally drop to as low as -10 degrees C, though they more often than not just hover around freezing. The winds are always cold, however, so bundle up when going outside. There is the occasional snow throughout the season, but unless you're in the mountains it doesn't last long. But Korea's many mountains do make for some incredible ski trips, and even better is topping them off with stops at the hot springs. Just be sure to ask your hotel if they supply humidifiers in the rooms, as the dry air can cause problems.
+**Summer (June–August)** brings heat, humidity, and the monsoon. June and July are the rainy season, with heavy and persistent downpours. August is hot and humid, typically around 30–35°C, with the occasional typhoon. The beaches come to life in late July and August, when Koreans descend on Haeundae and the east coast in huge numbers. It can be fun if you embrace the crowds; if you want solitude, this is not your season.
 
-**Spring**
+**Autumn (September–November)** is the other great time to visit. The skies clear, the humidity drops, temperatures are pleasant, and the mountain forests turn spectacular shades of red and orange. Seoraksan National Park is particularly renowned for autumn foliage and gets crowded on weekends as a result. October is a good month to combine hiking and sightseeing.
 
-From April through May the weather turns warmer and the flowers burst forth. Korea is a beautiful country in the spring, as the countryside and even cities are filled with cherry trees that start to blossom, magnolias, azaleas and deliciously huge strawberries. Evenings are still chilly, so bring a sweater. Also, the one downside to spring is the coming of the "yellow dust"--sands from the Gobi desert that are picked up by the wind and carried across the country. If you see most Koreans wearing face masks on certain days, you'll want to duck into a shop and pick one up for yourself, too!
-
-**Summer**
-
-There is very little that is good about Korean summers, as they are hot, humid and extremely wet. Temperatures are usually around 40 degrees C and the rain is constant, as June and July play host to monsoon season quickly followed by the typhoon season that descends in August. If you're lucky, there may be a 2-week period in late July and early August that sees more sun than rain and is great for days at the beach.
-
-**Autumn**
-
-Touted as the best season in Korea, September through November sees the coming of autumn. The weather is dry and warm, with temperatures dropping
+**Winter (December–March)** is cold and dry. Seoul temperatures regularly dip below freezing, and the mountains can be properly arctic. But winter has its pleasures: ski resorts in the mountains, the soothing ritual of the jjimjilbang (sauna and bathhouse), and far fewer tourists at the palaces and temples. Pyeongchang, host of the 2018 Winter Olympics, has the best skiing.

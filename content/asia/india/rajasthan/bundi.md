@@ -1,10 +1,10 @@
 ---
-title: "Bundi"
+title: 'Bundi'
 type: location
-latitude: 25.436766
-longitude: 75.736147
+latitude: 25.4368
+longitude: 75.7361
 ---
 
-Travel Guide
+Bundi is what Rajasthan must have felt like before the tour buses arrived. This small town, about 40 km from [Kota](/asia/india/rajasthan/kota), sits below the star-shaped Taragarh Fort and is filled with crumbling havelis, step-wells, and narrow lanes largely free of souvenir shops.
 
-approx 40 Km from [Kota](/asia/india/rajasthan/kota) lies Bundi, a hidden beauty yet untouched by tourists, one of very few destinations left in [Rajasthan](/asia/india/rajasthan). the main attraction here is the fortress standing on the hill in shape of star- Taragarh, overlooking the town. but interesting are its streets right at the bottom of the hill, where there are many havelis, converted now in hotels or shpos- selling handicrafts and artefacts. most one can do here is just relax for a while away from main tourist destinations of [Rajasthan](/asia/india/rajasthan) and enjoy evening walks and sunsets near the lake.
+The Garh Palace, clinging to the hillside beneath the fort, contains some of the finest murals in Rajasthan -- vivid scenes of court life, hunting, and mythology painted on walls and ceilings. The town has several beautiful step-wells (baoris), with the Raniji ki Baori being the most impressive. Bundi rewards slow travel: spend a couple of days walking the old streets, watching sunsets from the fort walls, and enjoying the quiet that the big-name Rajasthan cities lost long ago.

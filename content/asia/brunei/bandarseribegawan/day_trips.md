@@ -1,16 +1,26 @@
 ---
-title: "Day Trips in Bandar Seri Begawan"
+title: 'Day Trips'
 type: section
 ---
 
-Bandar Seri Begawan, the capital of Brunei is a small place. In fact, Brunei itself is a small place and most of the places in it can be seen by making day trips. You can base yourself at Bandar Seri Begawan and visit the other places of importance and interest.
-The Ulu Temburong National Park and the Batu Apoi Forest Reserve
-Both these places are in Bangar, the administrative center of the Temburong District of Brunei. They are excellent for experiencing the jungle. The area is in the rain forest and you get to see the flora and fauna of the Southeast Asian rain forest. You can get there by speedboat. The journey takes about 45 minutes. This park is as good as any of Malaysia's national parks. The Ulu Temburong National Park is situated in a remote part of the Batu Apoi Forest Reserve. You have to reach it only by a long boat. One highlight of the Ulu Temburong National Park is the Canopy Walkway, which is 50m above the ground and set on a treetop. This walkway permits access to a serene view of the virgin rain forest. This is something that you should not miss.
-Sungai Liang Forest Reserve
-At the Sungai Liang Forest Reserve you can learn about the history of forest conservation activities in the country and see many well preserved local fauna specimens.
-Next, visit the forest and opt for a guided easy nature trek in the reserve. Here you will see many tropical rain forest plants and the different uses to which the local community of Borneo puts them to. You will also be able to hear the cicadas.
-Luagan Lalak
-Next, visit the nature oasis of Brunei – the Luagan Lalak Recreational Park. This is about 25 km away from the Forest Reserve. The park covers an area of about 270 hecters within the Labi Hill Forest Reserve. It features a rare alluvial fresh water swamp that offers a beautiful spot for a picnic lunch by the lake. It is a stopping point for many migratory water bird species.
-Labi Iban Longhouse
-Lastly try to visit an Iban Longhouse. The Iban or “Sea Dayaks” are the famous head hunters of Borneo. A longhouse is a house for the entire village under one roof. You will have to get special permission for visiting a longhouse, but the trouble is well worth it.
-A trip to the rain forests of this area is a must if you visit Brunei. The flora and fauna are unique and a must see.
+BSB makes an excellent base for day trips, and some of Brunei's best experiences are outside the capital.
+
+## Ulu Temburong National Park
+
+This is the day trip everyone should do. The journey is half the fun -- a 45-minute speedboat ride from BSB through mangrove-lined waterways to [Bangar](/asia/brunei/bangar), then a longboat ride upstream into the pristine rainforest. The highlight is the canopy walkway, a metal structure that climbs 50 meters above the forest floor for spectacular views across unbroken primary jungle. You will also swim in jungle streams and walk forest trails. Day trips must be booked through a licensed tour operator (Freme Travel and Borneo Guide are reliable options) and cost around BND150-200 per person including transport, guide, and lunch.
+
+## Mangrove River Cruise
+
+Late afternoon boat trips from the BSB waterfront head into the mangrove forests along the Brunei River. The main draw is spotting proboscis monkeys -- the big-nosed primates endemic to Borneo -- as well as crocodiles, monitor lizards, and various bird species. Cruises last about two hours and cost BND40-60. Go in the late afternoon when the monkeys are most active.
+
+## Sungai Liang Forest Reserve
+
+About an hour's drive west of BSB, this forest reserve offers easy nature trails through tropical rainforest. There is a small museum about forest conservation and you can hear the deafening chorus of cicadas in the jungle. It is quieter and more accessible than Ulu Temburong, and a good option if you do not have a full day.
+
+## Luagan Lalak Recreation Park
+
+Continue past Sungai Liang into the Labi area to reach this alluvial freshwater swamp within the Labi Hill Forest Reserve. It is a peaceful spot for a picnic, and a good place for birdwatching -- the swamp is a stopping point for migratory water birds. The park covers about 270 hectares.
+
+## Iban Longhouses
+
+In the Labi area you can visit longhouses of the Iban people, the indigenous "Sea Dayaks" of Borneo. A longhouse is a single communal dwelling for an entire village under one roof. Visits should be arranged in advance through a tour operator or local contact, but the experience of meeting the community and learning about their traditions is memorable.

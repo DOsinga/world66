@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 748 982 (July 1998 est.)
+Cyprus has a population of roughly 1.3 million, split unevenly by the island's political division. The Republic of Cyprus in the south is home to the large majority — Greek Cypriots, plus a substantial and growing expat population drawn by EU residency and the island's relatively low cost of living. Northern Cyprus has a more complex demographic: original Turkish Cypriots, settlers from mainland Turkey who arrived after 1974, and a growing number of expats and students from Turkey and elsewhere.
 
-**Age structure:**
+Greek Cypriots identify strongly as Greek in culture and Orthodox Christian in religion, though they will often tell you they are "Cypriot first." They speak a dialect of Greek that sounds notably different from Athenian standard, with Turkish loanwords woven in from centuries of Ottoman rule.
 
-*0-14 years:* 25% (male 94 006; female 89 256)
+Turkish Cypriots are predominantly Muslim but tend to be secular in practice. Their culture has been shaped by both Anatolian and distinctly Cypriot traditions — they share more with Greek Cypriots in terms of food, music, and outlook than the political division might suggest.
 
-*15-64 years:* 65% (male 245 739; female 241 935)
+Cypriots on both sides are warm and hospitable to visitors. English is widely spoken, a legacy of British colonial rule that ended in 1960. The British maintained two Sovereign Base Areas on the island — at Akrotiri and Dhekelia — which still exist today.
 
-*65 years and over:* 10% (male 33 989; female 44 057) (July 1998 est.)
-
-**Population growth rate:** 0.69% (1998 est.)
-
-**Birth rate:** 13.93 births/1 000 population (1998 est.)
-
-**Death rate:** 7.51 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.44 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.77 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 7.97 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.79 years
-
-*male:* 74.62 years
-
-*female:* 79.07 years (1998 est.)
-
-**Total fertility rate:** 2.03 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Cypriot(s)
-
-*adjective:* Cypriot
-
-**Ethnic groups:** Greek 78% (99.5% of the Greeks live in the Greek Cypriot area; 0.5% of the Greeks live in the Turkish Cypriot area) Turkish 18% (1.3% of the Turks live in the Greek Cypriot area; 98.7% of the Turks live in the Turkish Cypriot area) other 4% (99.2% of the other ethnic groups live in the Greek Cypriot area; 0.8% of the other ethnic groups live in the Turkish Cypriot area)
-
-**Religions:** Greek Orthodox 78% Muslim 18% Maronite Armenian Apostolic and other 4%
-
-**Languages:** Greek Turkish English
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 94%
-
-*male:* 98%
-
-*female:* 91% (1987 est.)
+The 1974 division displaced around 200,000 people — Greek Cypriots who fled or were expelled from the north, and Turkish Cypriots who moved from the south. For older generations on both sides, this remains an open wound. Most families have a story of a village they can no longer visit, a house they can no longer enter. The emotional weight of this is worth understanding before you make cheerful comments about "crossing into the other side."

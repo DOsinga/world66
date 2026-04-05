@@ -1,19 +1,20 @@
 ---
 title: "Yemen"
 type: location
-latitude: 16.347124
-longitude: 47.891527
+latitude: 15.5527
+longitude: 48.5164
+image: yemen.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Shaharah_bridge.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard Gagnon</a>'
 ---
 
-Yemen is located in the south-west corner of the Arabian Peninsula. It borders on [Saudi Arabia](/asia/saudiarabia) and [Oman](/asia/oman) in the nort and has the Red Sea and the Indian Ocean as natural borders in the south. Yemen used to be known as Arabia Felix, the happy Arabia, because of its richness, but nowadays it is the second poorest country in the Arabic world (only [Mauritania](/africa/mauritania) has a lower per capita GDP.
+**Travel warning:** Yemen has been in active civil war since 2014. Virtually every government in the world advises against all travel to the country. The conflict between Houthi forces (controlling much of the north, including Sana'a) and the internationally recognized government (based in Aden) has killed hundreds of thousands of people and created one of the world's worst humanitarian crises. Landmines, air strikes, armed checkpoints, and kidnapping remain serious risks. Do not travel to Yemen without an exceptional reason and professional security support.
 
+This page describes Yemen as it was and as it may one day be again. The country has extraordinary things to show the world — architecture that has no equal in the Arabian Peninsula, landscapes that range from misty mountains to stark desert canyons, and an island ecosystem unlike anywhere else on earth. None of that has disappeared. It is simply, for now, unreachable.
 
- Yemen is one of the most beautiful countries in the world. You will feel like you jumped back in time, some good thousand years. Men and women still wear traditional garb, the houses look like pictures from your children's Bible (or Koran).
+Yemen sits at the southwestern tip of the Arabian Peninsula, bordered by Saudi Arabia to the north and Oman to the east. The Red Sea lies to the west, the Arabian Sea and Gulf of Aden to the south. The terrain is dramatically varied: the Haraz mountains rise above 3,600 metres, the Rub' al Khali desert extends from the north, and the coastal Tihama plain runs hot and flat along the Red Sea.
 
-[Sanaa](/asia/yemen/sanaa) the capital is great and is probably your point of entry. The old city is on the world heritage list of UNESCO. [Marib](/asia/yemen/marib) is another must see. The Great Marib Dam is a very impressive structure and shows how developed early Yemenite civilizations were. [Shibam](/asia/yemen/shibam) is dubbed the Manhattan of the desert and is far away but very pretty.
+Yemen was known in antiquity as Arabia Felix — "Happy Arabia" — a name earned by the wealth generated from its position on the ancient incense trade routes. The Kingdom of Saba, which flourished here from around 1000 BCE, built the Great Marib Dam and left behind temples and inscriptions that rival anything in the ancient Mediterranean world. Islam arrived in the 7th century CE and Yemen produced some of the most distinctive Islamic architecture in existence: the tower-house cities of the Hadramawt, the elaborate mud-brick facades of the old city of Sana'a, the hilltop villages of the Haraz mountains.
 
-
- You are sure never to forget a trip to Yemen. Either you enjoy the fantastic ancient architecture, have a great time in the beautiful mountains and appreciate the desert landscapes or you are kidnapped by one of the many tribes who look for tourists because they are good for ransom.
-
-
- The second of these two options is by far the least likely to happen, but you can't exclude it. A few tourists fall in the hands of rebelling tribes every year. Don't worry too much, though, the tourists are rarely harmed.
+The country reunified in 1990, after decades of division between a socialist south (People's Democratic Republic of Yemen, backed by the USSR) and a conservative north (Yemen Arab Republic). The union was troubled from the start, and the current conflict has effectively re-divided the country along broadly similar lines, though with far more complexity.

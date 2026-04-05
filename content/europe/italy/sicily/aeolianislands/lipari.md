@@ -1,8 +1,8 @@
 ---
-title: "Lipari"
+title: 'Lipari'
 type: location
-latitude: 38.469272
-longitude: 14.95645
+latitude: 38.4693
+longitude: 14.9565
 ---
 
 The Aeolian archipelago comprises some seventeen islands, but only seven of them are inhabited. The island group, also better known as the Lipari islands, are located north-east of the Sicilian coast and can be reached by ferry from [Sicily](/europe/italy/sicily).

@@ -1,49 +1,16 @@
 ---
-title: "Getting Around"
+title: 'Getting Around'
 type: section
 ---
 
-In Luang Prabang bicycles are very cheap to rent, about $1USD per day and a great way to get around the city. They can be found all along the main street through town. Renting of motorscooters was banned due to many tourist accidents.
+**By train.** The Laos-China Railway is a game-changer. Fast trains connect [Vientiane](/asia/laos/vientiane), [Vang Vieng](/asia/laos/vangvieng), [Luang Prabang](/asia/laos/luangprabang), and Boten several times daily. Vientiane to Luang Prabang takes around two hours and costs $15-30 depending on class. Tickets can be booked via the LCR app up to 7 days in advance -- trains fill up quickly, so book early. This is by far the most comfortable way to travel the north-south corridor.
 
-**Contributors**
-June 29, 2005
+**By bus.** VIP sleeper and semi-sleeper buses connect all major towns and are the backbone of long-distance travel where the railway doesn't reach. Vientiane to [Pakse](/asia/laos/pakse) takes around 10 hours by VIP bus. Local buses and songthaews (covered pickup trucks with benches) serve shorter routes. Expect slow going on mountain roads -- distances that look short on a map can take many hours.
 
-### [Tuk Tuks](/asia/laos/getting_around/tuk_tuks)
+**By boat.** River travel on the Mekong and its tributaries was once the main way to get around Laos. The slow boat from Huay Xai to Luang Prabang is still running, but most other river routes have been replaced by roads. Local boats still serve some remote areas.
 
-Tuk tuks are either small trailers on the back of a front end of a chopped motorcycle, or even an enclosed back of a small truck. In most towns, you'll find they are motorcycles because they are cheaper to run. Hence, you can haggle your way down to a cheaper price.
+**Tuk-tuks.** In towns, tuk-tuks are the standard taxi. These are either motorcycle-powered three-wheelers or small trucks with bench seating in the back. Always agree on a price before getting in. You can and should haggle -- in a gentle, good-natured way. Prices are easily halved with patience. Traveling in a group makes it cheaper per person.
 
-Don't be afraid to haggle, especially if you know where you are going. Prices can easily be halved if you stick to your haggling style (which in Laos, is a quiet tone), and not be afraid to try the 'walk away method'. There are lots of tuk tuks around, especially in big towns like [more..](/asia/laos/getting_around/tuk_tuks)
+**Motorbikes and bicycles.** Bicycles are excellent in compact towns like Luang Prabang ($1-2 per day) and around Si Phan Don. Motorbike rental ($5-10 per day) is available in most tourist towns. Be cautious -- roads can be poor, and medical facilities are limited. Motorbike rental was banned in Luang Prabang due to tourist accidents but is available in most other towns.
 
-
-
-[[rate it]](/asia/laos/getting_around/tuk_tuks)
-
-## Destinations in Laos
-
-- [Luang prabang](/asia/laos/luangprabang)
-- [Vientiane](/asia/laos/vientiane)
-- [Vang Vieng](/asia/laos/vangvieng)
-- [Pakse](/asia/laos/pakse)
-- [Savannakhet](/asia/laos/savannakhet)
-- [Houeixay](/asia/laos/houeixay)
-
-- [Patong](/asia/laos/patong)
-- [Luang Namtha](/asia/laos/luang_namtha)
-- [Muang Sing](/asia/laos/muang_sing)
-- [Phonesavanh](/asia/laos/phonesavanh)
-- [Khammouan](/asia/laos/khammouan)
-- [Champasak](/asia/laos/champasak)
-
-add region or city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+**Domestic flights.** Lao Airlines flies between Vientiane, Luang Prabang, and Pakse. Flights are reasonably priced ($70-120) and save long bus journeys, particularly for reaching the south.

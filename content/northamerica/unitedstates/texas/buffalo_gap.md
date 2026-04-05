@@ -1,8 +1,8 @@
 ---
-title: "Buffalo Gap"
+title: 'Buffalo Gap'
 type: location
-latitude: 43.49165
-longitude: -103.312975
+latitude: 32.2834
+longitude: -99.8326
 ---
 
-A transitional oasis in West Texas, Buffalo Gap sits in a pass through the Callahan Divide. Buffalo Gap is home to around 500 people and some giant live oak trees, some of which are over 600, 700, and even 800 years old! Only three hours from Dallas and Austin, Buffalo Gap provides a nice weekend getaway or even a rewarding day trip. While there, visit the Buffalo Gap Historic Village ( www.buffalogap.com) a collection of West Texas frontier buildings and recreations that show how Texas went from the wild, wild west to a settled American heartland. Perini's Ranch and Steakhouse ( www.periniranch.com) is world famous for their tenderloin. Tom Perini has catered for President Bush, Robert Duvall, and many others. Abilene State Park is just west of town and features an outdoor pool built by CCC troops in the early 30's.
+A tiny oasis of about 500 people in West Texas, Buffalo Gap sits in a pass through the Callahan Divide and is home to some of the oldest live oak trees in the state, several over 800 years old. Three hours from [Dallas](/northamerica/unitedstates/texas/dallas) and [Austin](/northamerica/unitedstates/texas/austin), it makes a rewarding day trip or weekend getaway. The Buffalo Gap Historic Village is a collection of frontier buildings showing how West Texas was settled. Perini Ranch Steakhouse is famous for its tenderloin, and Abilene State Park just west of town has an outdoor pool built by CCC troops in the 1930s.

@@ -3,13 +3,16 @@ title: "Nauru"
 type: location
 latitude: -0.525231
 longitude: 166.932443
+image: nauru.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Island_Ring_Road_-_Nauru.jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/11331051@N00">Hadi Zaher</a> from Melbourne, Australia'
 ---
 
-One of the smallest countries in the woirld, Nauru consists of one atoll with a surrounding reef which is exposed at low tide, just 12 miles in circumference and just over 8 square miles. Most of the 10,000 population live on the narrow coastal belt. 
+Nauru is one of the strangest places on Earth. The world's third-smallest country — only Monaco and the Vatican are smaller — sits just south of the Equator in the Central Pacific, a raised coral island barely 21 square kilometres in area. Its 11,000 or so residents live almost entirely on a narrow coastal strip, because the interior is largely uninhabitable: stripped bare by a century of phosphate mining, it looks like a moonscape of jagged limestone pinnacles and abandoned machinery.
 
+For much of the 20th century, Nauru was extraordinarily wealthy. The phosphate deposits underlying the island — ancient seabird guano compacted over millennia — made it briefly one of the highest per-capita-income countries in the world. The money was spent rather than invested, the reserves were exhausted, and Nauru spent the early 2000s on the verge of bankruptcy. The economy has never fully recovered.
 
- A small isolated Central Pacific island, it lies some 26 miles south of the Equator and is readily accessible by regular services on the island's national courier, Air Nauru, from major Pacific ports.
+Since 2001, Nauru has hosted Australia's offshore asylum seeker processing centre — the so-called "Pacific Solution." The arrangement was suspended, then revived, and as of 2025 remains operational, with over 100 people detained while their claims are processed. It is controversial and impossible to ignore when visiting.
 
-
- 
- The mining of phosphate has been the mainstay of the island's economy since the 1900s, providing the locals with a steady source of income. Phosphate reserves are expected to be exhausted during this decade.
+Nauru is not a conventional tourist destination. Fewer than a few hundred visitors arrive each year. There are no resorts, no tourist infrastructure to speak of, and most food is imported. But for travellers who want somewhere genuinely off the map — WWII relics, a freshwater lagoon surrounded by jungle, a reef you can snorkel without another soul nearby, and a story that encompasses colonialism, resource extraction, and one of the world's most acute public health crises — Nauru is unforgettable.

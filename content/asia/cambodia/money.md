@@ -1,37 +1,16 @@
 ---
 title: "Money"
-type: location
-latitude: 11.567899
-longitude: 104.903415
+type: section
 ---
 
-NOTES
+The **US dollar** is the practical currency of Cambodia. Hotels, restaurants, transport, and tourist businesses all price in dollars, and ATMs dispense dollars. You can travel through most of the country without ever needing to deal with the local currency.
 
+The **Cambodian riel** (KHR) circulates alongside the dollar and is used for small transactions. The exchange rate is roughly 4,000 riel to US$1. When you pay in dollars, change for amounts under a dollar typically comes back in riel notes. It's useful to know the approximate riel value of small denominations to avoid being shortchanged.
 
- 
- The Cambodian currency is the Riel, officially denoted by the prefix - R. The U.S. dollar is widely used in all major centres and circulates along side the local currency. Many hotels, shops and restaurants list their prices in U.S. dollars and seem to prefer that currency. The Thai Baht is also widely accepted. 
- Riel notes come in denominations of 100, 200 and 500, 1000, 5000, 10000. Coins are no longer used. 
+**ATMs** are plentiful in Phnom Penh, Siem Reap, Sihanoukville, and other larger towns. Most accept Visa and Mastercard; some charge a transaction fee (typically US$3–5). In smaller towns and rural areas, ATMs can be scarce or unreliable — carry enough cash before heading off the main routes.
 
+**Credit cards** are accepted at upmarket hotels, larger restaurants, and many shops in the main cities. Outside these contexts, cash is king. Always ask before assuming card payment is possible.
 
- TRAVELERS' CHECKS 
+Carry small bills. Many vendors and tuk-tuk drivers cannot break a US$20, and it's the cause of a remarkable amount of inconvenience.
 
-
- Travellers cheques can be exchanged in the main cities at large banks or hotels. All major brands are accepted. 
-
-
- CREDIT CARDS 
-
-
- Credit cards are becoming more widely recognized. Bring your American Express, Mastercard, or Visa on your travels, but outside the main hotels, shopping centers and banks, prepared to pay in cash. If in doubt or there is no credit card logo visible, ask first. CHANGING MONEY 
-
-
- Banks cash travellers cheques at the daily exchange rate. This can fluctuate depending on the current economic and political situation but is currently around 3800R - US$1. (July, 98) 
-
-
- There is a thriving unofficial money exchange system in Cambodia. The rate received from money changers may be better than the bank rate but there may be some risk involved. Gold shops may offer an exchange service. 
-
-
- When changing travellers cheques be sure to ensure that the notes received are of good quality. Damaged notes are often unacceptable to Cambodians. 
-
-
- Most banks are open from 8.30 to 3.30 during the week and possibly open on Saturday morning.
+**Tipping** is not traditional in Cambodian culture but is appreciated in tourist-facing businesses — restaurants, guides, drivers. A dollar or two for a meal, a few dollars for a good guide, is appropriate.

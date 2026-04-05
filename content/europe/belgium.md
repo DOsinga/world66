@@ -3,16 +3,20 @@ title: "Belgium"
 type: location
 latitude: 50.640281
 longitude: 4.666715
+image: belgium.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Spa_So1JPG.jpg"
+image_license: "CC BY 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT" title="User:Jean-Pol GRANDMONT">Jean-Pol GRANDMONT</a>'
 ---
 
-Located in north-western Europe, Belgium is a small country bordered by The Netherlands, France, Germany, and Luxemburg. There's more to the country than Belgian glass and beer: multicultural and multilingual, Belgium is a veritable Europe in miniature. 
+Belgium is a small, densely packed country in north-western Europe, squeezed between France, the Netherlands, Germany, and Luxembourg. It is easy to underestimate — it gets overlooked by travellers heading to Paris or Amsterdam — but it is one of the most rewarding destinations on the continent.
 
+The country is famous for its beer, chocolate, and waffles, and rightly so. But that's not the half of it. Belgium has three of the finest medieval cities in Europe — [Bruges](/europe/belgium/bruges), [Ghent](/europe/belgium/ghent), and [Antwerp](/europe/belgium/antwerp) — along with [Brussels](/europe/belgium/brussels), which has one of Europe's great central squares and a surprisingly vibrant cultural life. The south of the country, the Ardennes, is beautiful hiking and cycling territory with old castle towns, river valleys, and some of the best abbey beer in the world.
 
+Belgium is also deeply, structurally divided. The Dutch-speaking north (Flanders) and French-speaking south (Wallonia) have separate governments, education systems, and media. Brussels is officially bilingual but predominantly French-speaking in daily life. This division is real and politically sensitive, though it rarely affects visitors in any practical way beyond needing to know which language is in use where you are.
 
-Belgium reached its zenith under the Duke of Burgundy during the 14th century. However, the country declined in the mid-15th century. During the First World War, despite Belgium's neutral policy, the Germans invaded the country in 1914. The Germans attacked it again in 1940, this time taking control over the entire country within barely three weeks. After the war, Belgium witnessed an economic boom, which was further boosted by [Brussels](/europe/belgium/brussels) appointment as the headquarters of both the European Union and NATO. 
+The country punches well above its weight in art history. Flemish painting from the 15th to 17th centuries — Jan van Eyck, Rogier van der Weyden, Rubens, van Dyck — is among the greatest in Western art, and much of it can be seen in the cities where it was made. The Surrealists René Magritte and Paul Delvaux were Belgian. So were the comic artists Hergé (Tintin) and the creators of the Smurfs.
 
-[Brussels](/europe/belgium/brussels) today is a bustling city of diplomats, followed closely by towering skyscrapers and numerous restaurants. You will see superb examples of art and architecture, both past and present-Romanesque, Gothic, Baroque, and Nouveau. The city is also famous for some well-preserved ancient châteaux, colourful fairs and festivals, nature reserves as well as amusement parks-all within easy reach. 
+Belgium is also scarred by the First World War in ways that remain visible. The landscape around [Ypres](/europe/belgium/ypres) in the west was among the most fought-over ground in the war, and the cemeteries, memorials, and museums there are among the most powerful anywhere.
 
-Due to the country's strategic location, Belgians play host to tourists from all parts of the world. The local people are always cooperative and courteous. Though Dutch and French are the commonly used languages, you'll find that almost everyone can manage to communicate in English. 
-
-Belgium has some of the renowned art cities of Europe- [Antwerp](/europe/belgium/antwerp) , [Bruges](/europe/belgium/bruges) and [Ghent](/europe/belgium/ghent) . The southern region of the country is interspersed with the rolling hills of the Ardennes, numerous castles, and the cities of [Liege](/europe/belgium/liege) , and Tournai . The Ardennes, in particular, are a major centre for skiing in winter and kayaking in summer, with added facilities of hiking and mountain biking along the forest tracks.
+Getting around is easy. The country is small and the rail network is excellent — you can travel between any of the main cities in under two hours from Brussels. [Getting there](/europe/belgium/getting_there) is straightforward by Eurostar from London or high-speed train from Paris, Amsterdam, or Cologne.

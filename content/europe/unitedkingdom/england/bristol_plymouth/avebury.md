@@ -1,5 +1,5 @@
 ---
-title: "Avebury"
+title: 'Avebury'
 type: location
 latitude: 51.42861
 longitude: -1.851705

@@ -1,25 +1,9 @@
 ---
-title: "Harbor Country Michigan"
+title: 'Harbor Country'
 type: poi
-address: "Harbor Country Chamber of Commerce, 530 S. Whittaker Street, New Buffalo MI, 49117"
-email: "request@harborcountry.org"
-phone: "269-469-5409"
-url: "www.harborcountry.org"
+url: 'www.harborcountry.org'
+latitude: 41.7940
+longitude: -86.7487
 ---
 
-Harbor Country isn't just one place, it's actually made up of eight towns. These include: Union Pier, Three Oaks, Harbert, Grand Beach, Lakeside, Michiana, Sawyer, and New Buffalo. The drive is less than an hour and a half (70 miles) and what you will find here are white sandy beaches, antique shops, wineries, bike paths, and plenty of walking trails. Activities run the gamut from canoeing and sailing to golfing, shopping, dining, and more. The best time to visit Harbor Country is summer, with fall coming in at a close second. Winter is also popular for skiing, snowmobiling, and tobogganing.
-
-**Contributors**
-June 05, 2008
-
-
-
-
-
-tel: 269-469-5409
-
-url: [www.harborcountry.org](http://www.harborcountry.org)
-
-address: Harbor Country Chamber of Commerce, 530 S. Whittaker Street, New Buffalo MI, 49117
-
-email: request@harborcountry.org
+A cluster of eight small towns along the Lake Michigan shore in southwest Michigan, about 70 miles from Chicago. The white sand beaches are the main draw in summer, but there are also wineries, antique shops, bike paths, and walking trails. The towns -- Union Pier, Three Oaks, Harbert, New Buffalo, and others -- each have their own character, from artsy to outdoorsy. Fall is beautiful for the foliage, and winter brings skiing and snowmobiling.

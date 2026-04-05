@@ -1,14 +1,10 @@
 ---
 title: "Puente Armas Waterfalls"
 type: poi
+latitude: -16.2700
+longitude: -67.5900
 ---
 
-Puente Armas is the metal bridge which used to cross the river in Choro. That doesn’t sound too interesting, however, the bridge gave its name to the whole area, which features various huge waterfalls in a spectacular forested canyon.
+A spectacular forested canyon with several huge waterfalls, named after an old metal bridge in Choro. The easiest to reach is the Rio Cajon waterfall, just 100 metres from the main road. A short path leads into a small canyon and opens onto a large chilly lagoon with the powerful falls crashing down. Excellent for a swim on sunny days — bring an inner tube if you want to get right under the falls. Try to arrive before 2pm for the best light.
 
-The waterfall that’s easiest to reach is the Rio Cajón waterfall, at just 100 meters from the main road. Isolated from the noise by a small canyon, you reach a big but chilly lagoon, with constant wind from the powerful waterfall. Excellent for a swim, but it might be advisable to take an inner tube if you want to get right under the falling water. As the water is pretty cold, it’s best to go on sunny days, and count on being there before 2 pm .
-The waterfall can be reached by taking any transport in the direction of Caranavi. After about two hours you’ll cross a tunnel (the only one on the road). Sit tight for ten more minutes and you’re there.
-
-About an hour before arriving at the Cajón waterfall, you’ll see a couple of very high waterfalls at the other side of the canyon. These can be visited, but only during the dry season, and it is highly recommended to go with a guide.
-
-**Contributors**
-January 13, 2007
+To get there, take any transport heading toward Caranavi. After about two hours you will cross a tunnel (the only one on the road). Ten more minutes and you are there. About an hour before the Cajon waterfall, you can spot very high waterfalls on the far side of the canyon — these can be visited in the dry season, but only with a guide.

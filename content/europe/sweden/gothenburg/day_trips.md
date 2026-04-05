@@ -1,9 +1,9 @@
 ---
-title: "Day Trips in Gothenburg"
+title: "Day Trips"
 type: section
 ---
 
-Planning **Gothenburg day trips **is one way to enhance your trip to Sweden's second largest city. There are plenty of exciting cities in Sweden that you can visit in a day from Gothenburg, such as the following:
+Gothenburg's central location on Sweden's west coast puts several interesting towns within day-trip range.
 
 **Jonkoping, Smaland**
 

@@ -1,19 +1,10 @@
 ---
-title: "Angling"
+title: "Angling on the Deveron"
 type: poi
-type: "Hunting and Fishing"
-url: "www.deveron.org"
-latitude: 51.490657
-longitude: -3.127544
+category: "Sight"
+address: "River Deveron, Banff AB45"
+latitude: 57.6620
+longitude: -2.5190
 ---
 
-Angling on the Deveron.
-
-**Contributors**
-February 12, 2006
-
-type: Hunting and Fishing
-
-
-
-url: [www.deveron.org](http://www.deveron.org/index.html)
+The River Deveron flowing through Banff is a noted salmon and sea trout river. Fishing permits are available through the Deveron, Bogie and Isla Rivers Charitable Trust. The lower Deveron, in the wooded gorge below Duff House, is particularly scenic.

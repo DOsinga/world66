@@ -1,22 +1,14 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-There are a number of nice places to eat, most of them in guesthouses.
+Fort Cochin has a good range of restaurants, many of them in guesthouses and heritage buildings.
 
-**all**
+**Kashi Art Cafe** on Burgher Street is the most popular spot in Fort Cochin, and the chocolate cake is the main reason. Breakfast and lunch are excellent, though the menu is not very flexible. The atmosphere is relaxed, with art on the walls and good music. It gets busy, so go early.
 
-**Kashi Art Cafe**
+**Dal Roti** on Lily Street serves excellent North Indian food at reasonable prices. The dal makhani and the parottas are both very good. Simple setting, friendly service.
 
-Art is not the main reason people go here, it probably has more to do with the excellent chocalate cake they serve. Breakfast and lunch are also excellent, though the menu is not very flexible. Nice atmosphere and music. 
+For fresh seafood, walk down to the Chinese fishing nets at sunset and buy fish directly from the fishermen. Several small stalls nearby will cook it for you on the spot for a small fee. It does not get fresher than this.
 
-address: Burgher Street
-
-tel: 04842215769
-
-email: mail@kashiartcafe.com
-
-zipcode: 682001
-
-url: [www.kashiartcafe.com](http://www.kashiartcafe.com)
+The Kerala thali is worth seeking out at one of the smaller local restaurants in Ernakulam. A banana leaf loaded with rice, sambar, rasam, aviyal and fish curry is a proper Kerala meal, and you will pay very little for it.

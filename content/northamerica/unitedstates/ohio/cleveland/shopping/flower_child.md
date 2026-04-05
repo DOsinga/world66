@@ -1,22 +1,10 @@
 ---
-title: "Flower Child"
+title: 'Flower Child'
 type: poi
-address: "11508 Clifton Blvd."
-phone: "(216) 939-9933"
-type: "Antiques"
+address: '11508 Clifton Blvd.'
+phone: '(216) 939-9933'
 latitude: 41.487331
 longitude: -81.766596
 ---
 
-This is one of Cleveland's most well known vintage shops. It is the perfect place to find items of gently used retro clothing, accessories, furniture and collectables to complement more modern pieces. The merchandise is not priced at thrift store prices, but are still reasonable and competive with prices of brand new merchandise. This boutique is fun to browse and a great place to find truly unique items. It is conveniently located just west of downtown in a small attractive commercial strip on Clifton Boulevard near the intersection of W.117th in Cleveland's Gold Coast neighborhood.
-
-**Contributors**
-April 08, 2006
-
-type: Antiques
-
-
-
-tel: (216) 939-9933
-
-address: 11508 Clifton Blvd.
+One of Cleveland's most well-known vintage shops. Gently used retro clothing, accessories, furniture, and collectibles at reasonable prices. Fun to browse and a great place to find truly unique items. Located on Clifton Boulevard near W. 117th in the Gold Coast neighborhood.

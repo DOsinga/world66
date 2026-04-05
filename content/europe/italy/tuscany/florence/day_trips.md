@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Florence"
+title: "Day Trips"
 type: section
 ---
 

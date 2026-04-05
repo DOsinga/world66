@@ -1,36 +1,12 @@
 ---
-title: "American Coney Island"
+title: 'American Coney Island'
 type: poi
-accessibility: "Fully"
-address: "114 W. Lafayette"
-email: "eat@americanconeyisland.com"
-phone: "(313) 961-7758"
-price: "Under $10"
-type: "American"
-url: "www.americanconeyisland.com"
-latitude: 40.167668
-longitude: -92.175417
+address: '114 W. Lafayette Blvd, Detroit, MI 48226'
+phone: '(313) 961-7758'
+url: 'www.americanconeyisland.com'
+price: 'Under $10'
+latitude: 42.3314
+longitude: -83.0484
 ---
 
-This Detroit institution has been open since 1917. Located in downtown Detroit, American Coney Island offers a menu of hot dogs, fries, and other fast foods, 24 hours a day. Their feature item, the Coney Island dog, is a hot bod covered with chili, mustard and onions. The restaurant is staffed by older Greek men who have worked there for forty years; they add to the charm, yelling out orders and telling stories of years gone by. For quick, cheap eats...American Coney Island is the place to stop in Detroit.
-
-**Contributors**
-April 29, 2007
-
-type: American
-
-
-
-
-
-accessibility: Fully
-
-tel: (313) 961-7758
-
-url: [www.americanconeyisland.com](http://www.americanconeyisland.com/home.htm)
-
-address: 114 W. Lafayette
-
-PriceOfMenu: Under $10
-
-email: eat@americanconeyisland.com
+This Detroit institution has been open since 1917. Located in downtown Detroit, American Coney Island offers hot dogs, fries, and other fast foods 24 hours a day. Their signature Coney Island dog is covered with chili, mustard, and onions. The restaurant is staffed by old-school Greek waiters who yell out orders and tell stories of years gone by. For quick, cheap eats, this is the quintessential Detroit stop.

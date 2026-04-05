@@ -3,22 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Lago Maggiore sits on the Simplon route between Milan and Switzerland, making it easy to reach by road, rail, or air.
 
-In addition to its beautiful geographical setting, Lake Maggiore enjoys an excellent position because it can be reached so easily. It is in fact situated on the great Simplon route, along which international highways and railways run. The nearby Milan airports (Malpensa and Linate) supply a fast and convenient landing point. Besides all lake resorts are connected with one another by a frequent and punctual boat service provided by Navigazione Lago Maggiore (Lake Maggiore Shipping Company).
+**Airports**
 
-  **Airports:**
+Milano Malpensa is the closest airport, about 45 km away. Milano Linate is 95 km to the south. Both airports have good onward connections by bus and train.
 
- Milano Malpensa (distance km. 45)
+**Railway stations**
 
- Milano Linate (distance km. 95)
+The main lakeside stations along the western shore are Arona, Stresa, Baveno, and Verbania, all on the Milan-Domodossola line.
 
- **Railway stations:**
+**Roads and Highways**
 
- Castelletto Ticino - Dormelletto - Arona - Meina - Lesa - Belgirate - Stresa - Baveno - Verbania
-
- **Roads and Highways:**
-
- Highway Milano-Laghi (A8)
-
- Highway Genova-Voltri-Sempione (A26)
+The A8 (Milano-Laghi) and A26 (Genova-Voltri-Sempione) motorways provide direct access from Milan and Genoa.

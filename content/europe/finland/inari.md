@@ -5,10 +5,10 @@ latitude: 68.906246
 longitude: 27.026077
 ---
 
-Inari is located in Finnish Lapland. The main reason to travel this far north is to see the breathtaking natural wilderness of Lapland. 
+Inari is a vast, sparsely populated municipality in northern Lapland — in area it's one of the largest municipalities in Finland, but most of it is Arctic wilderness. The small village of Inari itself sits on the southern shore of Lake Inari, Finland's third-largest lake.
 
-Finland's largest National Park Lemmenjoki is partly located in Inari, as is the Urho Kekkonen National Park. 
+The main reason to come here is nature: the Lemmenjoki National Park (Finland's largest), the Urho Kekkonen National Park, and several designated wilderness areas are wholly or partly in Inari municipality. The landscape is fell, forest, and water.
 
-The Wilderness Areas of Hammastunturi, Muotkatunturi, Paistunturi, Kaldoaivi and Tsarmitunturi are also located in Inari. 
+Inari is also the most important centre of **Sámi culture** in Finland. The Siida museum covers the history, culture, and way of life of the Finnish Sámi with serious depth, and the Sámi Cultural Centre Sajos in the village hosts events, traditional crafts, and exhibitions. If you have any interest in Arctic indigenous culture, this is worth the journey north.
 
-In Inari you will find a special shop - an EURO shop headed by an Austrian selling Euro coins to very favourable prices. Have a look at www.topshop.fi.
+Reindeer are everywhere on the roads; drive carefully.

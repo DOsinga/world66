@@ -1,9 +1,6 @@
 ---
-title: "pitfalls in shopping"
+title: 'Pitfalls in Shopping'
 type: poi
-type: "Antiques"
 ---
 
-while shopping in mcleodganj is an exciting prospect, esp the loads of silver jewellery on display, be very wary of the prices being quoted. the stuff is good but there is no limit to the sheer robbery the shopkeepers come down to. i was entranced by the wares of this little shop in a small bylane run by asif and came home to learn that he had charged me almost five times the actual rates-more fool me.
-
-type: Antiques
+While shopping in McLeodganj is an exciting prospect -- especially the loads of silver jewellery on display -- be wary of the prices being quoted. The stuff is good but there's no limit to the markup some shopkeepers will try. Always compare prices at a few shops before buying, and don't be afraid to walk away.

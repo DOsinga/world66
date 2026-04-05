@@ -5,8 +5,6 @@ latitude: 39.952015
 longitude: 44.539323
 ---
 
-Travel Guide
-
 Ararat Marz is the agriculturally rich but hot and flat valley of the Arax river S of Yerevan,
 including the severe brown hills of the lower Azat and Vedi river
 watersheds, but including fine green valleys and mountains in the upper

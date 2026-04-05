@@ -1,4 +1,0 @@
----
-title: "principe"
-type: location
----

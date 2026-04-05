@@ -1,21 +1,26 @@
 ---
-title: "Getting Around in Mexico"
+title: "Getting Around"
 type: section
 ---
 
-**Mexico Transportation** ranges from the very affordable to the very expensive, so it is a good idea to familiarize yourself with all the options available before arriving.
+## By Bus
 
-**Buses Around Town**
+Buses are the backbone of Mexican travel. Long-distance services split into two tiers: first class (primera clase) and luxury (ejecutivo or premium). Companies like ADO, ETN, and Primera Plus run comfortable coaches with reclining seats, air conditioning, onboard movies, and occasional snacks. First class buses go directly between cities; second-class buses make stops along the way and are cheaper but slower. For overnight journeys of six hours or more, a luxury seat is worth the extra cost.
 
-When riding the bus within city limits, be aware that locals identify buses by landmarks or avenues along the bus's route, not by the bus's number. Look online for city maps, or buy paper maps of the cities you plan to visit. This way you will have a better idea of what to expect when asking for directions from locals.
+Within cities, local buses are extremely cheap but routes can be confusing. Locals navigate by landmarks and avenue names rather than route numbers. In major tourist cities, ride-hailing apps (Uber, InDriver, DiDi) are often easier and safer than street taxis.
 
-Fortunately, it is possible to reach nearly every corner in Mexico via bus. This mode of transportation is generally very inexpensive, although some fares can be high in comparison to others. Express buses (*directos*) usually cost about twice as much as normal buses (*ordinarios*). The buses in are usually in very good condition, and will generally arrive ontime. You don't need to have exact change when boarding the buses in Mexico.
+## By Air
 
-**Buses Between Cities**
+Flying makes sense for long distances — Mexico City to the Yucatan, for instance, takes two hours rather than a full day by bus. Aeromexico covers most major routes. Budget carriers Volaris and VivaAerobus are cheaper but operate point-to-point and often use secondary airports. Book at least two weeks ahead for the best domestic fares.
 
-When traveling by bus between cities, it is a good idea to book your ride with the *servicio ejecutivo* (literally, "executive service"). This gives you the most bang for your buck. Not only will you have a comfortable ride with air conditioning, a movie service, and prepaid snacks, but also you will avoid riding in a bus that makes unplanned stops to pick up extra passengers. This practice is illegal in Mexico, but many bus drivers still do it to make an extra buck.
+## By Train
 
-**Traveling by Plane**Mexicana and Aeromexico are the two largest airlines in Mexico, but locals prefer to travel with discount airlines such as Click and Aerobus because they are much more affordable. To guarantee the lowest price, make sure to book your flight at least two weeks in advance, as these discounted tickets sell very fast. Be aware that in most cases you will arrive at an alternative, local airport, not a major airport. However, the airline companies do offer free shuttles to downtown areas and major transportation hubs.
+Passenger rail is very limited, but the Chihuahua al Pacífico (Chepe) is worth a trip in its own right. This spectacular railway runs through the Copper Canyon — deeper than the Grand Canyon in places — connecting Los Mochis on the Pacific coast with Chihuahua in the north. The Chepe Express runs between Los Mochis and Creel (the main jumping-off point for canyon exploration). Book in advance; it is popular.
 
-**Contributors**
-March 19, 2010
+## By Car
+
+Driving opens up areas poorly served by buses, particularly [Baja California](/northamerica/mexico/bajacalifornia) and rural Oaxaca. Mexico has two road systems: toll highways (cuotas) and free roads (libres). Tolls add up quickly but the highways are well-maintained and patrolled. Free highways are slower and best avoided at night in less-visited regions. You will need Mexican auto insurance; US and Canadian policies generally do not cover Mexico. Buy it before crossing the border.
+
+## Getting Around Mexico City
+
+Mexico City's metro is extensive (12 lines, 163 stations) and very cheap — one of the best transit systems in Latin America. During rush hours it is extremely crowded. The Metrobús rapid transit system runs on dedicated lanes along major avenues and is usually faster during peak hours. Uber and DiDi are widely used and generally reliable. Street taxis (sitio taxis from established stands) are safer than flagging cabs off the street.

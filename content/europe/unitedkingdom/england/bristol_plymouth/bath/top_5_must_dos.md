@@ -1,5 +1,5 @@
 ---
-title: "Top 5 Must Do's in Bath"
+title: 'Top 5 Must Do''s in Bath'
 type: section
 ---
 
@@ -25,5 +25,3 @@ This bridge that spans the River Avon is one of only four bridges in the world t
 
 This architectural gem was founded in 1499 on the site of an 8th century church. It is located near the Roman Baths and is a sight to behold both from the outside and inside. Services are still held in the abbey, as well as concerts, lectures and exhibitions. Don't leave without seeing the [Vaults Heritage Museum](/europe/unitedkingdom/england/bristol_plymouth/bath/museums) on the premises.
 
-**Contributors**
-August 24, 2009

@@ -1,12 +1,12 @@
 ---
-title: "Porto alegre"
+title: "Porto Alegre"
 type: location
 latitude: -30.0325
 longitude: -51.230377
 ---
 
-Porto Alegre is the capital of Rio Grande del Sul. It is the 6-th biggest town of Brazil and a good place to get your via before you go to [Uruguay](/southamerica/uruguay). The city is located on the banks of the Rio Guaiba river. Although it doesn't have any special attractions it is nice to stay here for some time. 
+Porto Alegre is the capital of **Rio Grande do Sul**, Brazil's southernmost state, and the largest city in the Brazilian **gaúcho** country — the cattle-ranching pampas culture that straddles the border with Uruguay and Argentina. With a metropolitan population of around 4 million, it is Brazil's sixth-largest urban area, and probably the most European-feeling of its big cities. Large waves of German and Italian immigrants settled in Rio Grande do Sul in the 19th century, and their descendants still dominate the food, the architecture, and the particularly strong local tradition of drinking **chimarrão** (the bitter green maté tea you will see people carrying in thermoses and passing around at every bus stop) and eating grilled meat.
 
-The Parque Farroupilha in the south east of town is a nice place to relax. On sunday mornings there is a big market and fair in the park, called the Brique da Redencao. 
+The city is built on the east bank of the vast **Rio Guaíba** — strictly a lake rather than a river, formed by the confluence of five waterways — and the sunsets over its water are considered the best in Brazil; the whole city gathers along the riverside walks in the late afternoon to watch them. The compact colonial centre, **Centro Histórico**, holds the grand 19th-century **Mercado Público**, the **Metropolitan Cathedral**, the **Palácio Piratini** (the state governor's palace), and the pleasant **Praça da Matriz** surrounded by the old colonial buildings. The **Museu de Arte do Rio Grande do Sul** (MARGS) has the best regional art collection in the south. **Parque Farroupilha** (always called **Redenção** by locals) is the city's central green space, and its Sunday morning **Brique da Redenção** craft and antiques market is the main gathering of the week. A little further out, **Parque Moinhos de Vento** and the surrounding **Moinhos de Vento** district are the most pleasant upper-middle-class neighbourhoods — think cafés, boutiques, and tree-lined streets.
 
-If you have some more time, you can take a cruise on the river.
+For many travellers, though, Porto Alegre is mainly a base for exploring the surrounding countryside. The **Serra Gaúcha** — the vineyards, German and Italian colonial towns and mountain landscapes around **Gramado** and **Canela** — is a few hours north. The **missões** region on the Argentine border contains the ruins of the great 17th- and 18th-century **Jesuit missions** (**São Miguel das Missões** is UNESCO-listed). And the **gaúcho** cattle ranches of the interior can be visited on working *estância* stays. Do not leave the city without eating at a traditional **churrascaria** — the all-you-can-eat grilled meat restaurant that was invented in Rio Grande do Sul.

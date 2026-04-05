@@ -3,112 +3,30 @@ title: "Books"
 type: section
 ---
 
-**Books**
+Ireland has one of the richest literary traditions of any small country, and reading some of it before you go adds considerably to the experience.
 
-**Viking Ships at Sunrise:(Magic Tree House Series #15)**
+**Fiction and literature**
 
+*Ulysses* by James Joyce (1922) — the most famous Irish novel, and one of the most famous novels in the English language. It is set over a single day in Dublin (16 June 1904). Difficult but rewarding; *Dubliners*, also by Joyce, is a better starting point if you haven't read him before.
 
+*The Remains of the Day* author Kazuo Ishiguro wrote *The Unconsoled* — but for Ireland specifically, the collected stories of William Trevor (*The Collected Stories*) are extraordinary: quiet, devastating accounts of Irish provincial life across the 20th century.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679890610/ref=ase_osingacom?v=glance&s=books)
+*Amongst Women* by John McGahern (1990) — a novel about a domineering IRA veteran and his family in rural County Leitrim. Compact and powerful.
 
-author: Mary Pope Osborne,Sal Murdocca (Illustrator)
+*The Gathering* by Anne Enright (2007, Booker Prize winner) — a Dublin family returns after a death. One of the best Irish novels of the 21st century.
 
-isbn: 0679890610
+*Normal People* and *Conversations with Friends* by Sally Rooney — contemporary Dublin and the west of Ireland, sharp and widely read.
 
-subject: travel
+**History and non-fiction**
 
-**Eyewitness Travel Guide:Ireland**
+*How the Irish Saved Civilization* by Thomas Cahill (1995) — isbn: 0385418493 — a popular history of how Irish monasteries preserved classical learning during the early medieval period. Slightly oversells its thesis but genuinely engaging.
 
+*1916: A Novel of the Irish Rebellion* by Morgan Llywelyn — isbn: 0812574923 — fictionalised account of the Easter Rising.
 
+*The Great Hunger* by Cecil Woodham-Smith — the definitive account of the 1845–52 famine. Harrowing and essential for understanding modern Ireland.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789401886/ref=ase_osingacom?v=glance&s=books)
+**Travel and background**
 
-author: DK Travel Writers,Deni Bown,Tim Perry
+*McCarthy's Bar* by Pete McCarthy — a British writer travels through Ireland in search of pubs called McCarthy's. Funny and affectionate.
 
-isbn: 0789401886
-
-subject: travel
-
-**Ireland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0760704694/ref=ase_osingacom?v=glance&s=books)
-
-author: Max Caulfield,Joe Cornish (Photographer)
-
-isbn: 0760704694
-
-subject: travel
-
-**Ulysses**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679722769/ref=ase_osingacom?v=glance&s=books)
-
-author: James Joyce,Foreword by Morris L. Ernst
-
-isbn: 0679722769
-
-subject: culture
-
-**44 Dublin Made Me:A Memoir**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0670885142/ref=ase_osingacom?v=glance&s=books)
-
-author: Peter J. Sheridan
-
-isbn: 0670885142
-
-subject: culture
-
-**Culture Shock!:Ireland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558682473/ref=ase_osingacom?v=glance&s=books)
-
-author: Patricia Levy
-
-isbn: 1558682473
-
-subject: culture
-
-**How the Irish Saved Civilization:The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Med..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0385418493/ref=ase_osingacom?v=glance&s=books)
-
-author: Thomas Cahill
-
-isbn: 0385418493
-
-subject: history
-
-**Ireland**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0760704694/ref=ase_osingacom?v=glance&s=books)
-
-author: Max Caulfield,Joe Cornish (Photographer)
-
-isbn: 0760704694
-
-subject: history
-
-**1916:A Novel of the Irish Rebellion**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0812574923/ref=ase_osingacom?v=glance&s=books)
-
-author: Morgan Llywelyn
-
-isbn: 0812574923
-
-subject: history
+*Paddy Clarke Ha Ha Ha* by Roddy Doyle (1993, Booker Prize) — childhood in a Dublin suburb in the 1960s, told entirely from a child's perspective.

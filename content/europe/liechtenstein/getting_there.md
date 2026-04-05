@@ -3,18 +3,24 @@ title: "Getting There"
 type: section
 ---
 
-"/>
+Liechtenstein has no airport, no motorway border crossing of its own, and until recently no passenger rail service within its borders. Getting there means arriving by train or bus from Switzerland or Austria, which is straightforward and actually rather pleasant.
 
-Europe can be reached by surface transport from Africa and Asia. Getting there from the other continents involves flying.
+**By train**
 
- **Air**
+The nearest train stations are Buchs SG and Sargans in Switzerland and Feldkirch in Austria. From any of these, LIEmobil buses connect directly into Vaduz and the rest of the country. Buchs is on the main Zurich–Vienna line; the journey from Zurich takes about an hour and a quarter. From Feldkirch (served from Innsbruck and Bregenz), it is a short bus ride across the border.
 
- Europe has lot's of airconnections with all the other continents, except for Antarctica. Indeed, for some connections from Asia to the America's it makes sense to pick up a flight to Europe and then head on. London, Paris, Amsterdam and the bigger German cities have competitive markets for cheap flights. Return Flights to North America (mostly New York) can be had for under 250 Euro. The rest of the world has some excellent connections too.
+Interrail and Eurail passes are valid to Buchs and Feldkirch but not within Liechtenstein itself.
 
- Note that the cheapest flight tend to use cheapish Eastern European Airlines. Most of them are ok, but connections tend to be unpractical - although if you pay attention you can get a free hotel night thrown in.
+**By bus**
 
- **Surface**
+Direct Postbus services run from St. Gallen (Switzerland) into Vaduz. The journey takes around an hour. This is the easiest connection if you are coming from Zurich airport without changing trains.
 
- Asia and Europe share the longest continent border of the planet, though most people will cross from/to Asia in Istanbul, where a bridge spans the gap between the continent. Taking the transiberian express is another possiblity. From Greece there are boats to Turkey, Cyprus, Israel, Syria and Libanon.
+**By car**
 
- To Africa the most used route is without doubt the crossing of the Street of Gibraltar, which is easily done, but there are also ships between France and Algeria and from Italy to Tunis, Lybia and Egypt.
+There are no border formalities between Switzerland and Liechtenstein. Coming from Austria you pass through a brief checkpoint but it is rarely more than a wave-through. Switzerland requires a motorway vignette (CHF 40, valid for a calendar year) to use the autobahn; Liechtenstein does not charge one.
+
+The most direct route from Zurich is via the A3/A13 motorway to Sargans, then east through the Rhine Valley. From Innsbruck, take the A14 to Feldkirch.
+
+**By air**
+
+The nearest major airports are Zurich (ZRH), about 80 km away, and Friedrichshafen (FDH) in Germany, which is smaller but served by budget airlines. Zurich has excellent onward connections; transfer to the S-Bahn for the train to Buchs.

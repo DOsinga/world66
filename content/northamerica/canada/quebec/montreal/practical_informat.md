@@ -1,70 +1,30 @@
 ---
-title: "Practical Information"
+title: 'Practical Information'
 type: section
 ---
 
-Montreal
-is the second largest city in Canada and the second largest French
-speaking city in the world, only after Paris. The mixture of English
-and French speaking cultures, combined with the influx of African and
-South American immigrants, has created an eclectic atmosphere in the
-rich cultural setting that is the city of Montreal. Here are a couple
-of practical tips during your visit to Montreal.
-**
+## Language
 
-Language**
+Montreal is officially French-speaking, and Quebec's language laws mean that French dominates signage, menus, and public life. In practice, a large majority of Montrealers are bilingual, and you will have no trouble getting by in English in tourist areas, restaurants, and shops. That said, making an effort in French -- even just *bonjour* and *merci* -- is appreciated and will warm people up.
 
-It's
-important to understand that the French used in Canada is different
-from the French used in France. Even if you're fluent in French, don't
-be surprised to hear unusual phrases or slang! The province of Quebec
-and its capital city, Montreal, have developed its own style of French
-throughout the years and the citizens of Montreal are very proud of it.
-A large majority of people are bilingual, however don't take it wrong
-if a local switches to English after hearing your French. Just keep
-smiling and be glad that they are willing to help you with directions
-or tips.
-**
+The French spoken in Quebec is distinctly different from Parisian French. The accent, vocabulary, and slang (*joual*) can surprise even fluent French speakers from France. Do not be offended if a local switches to English after hearing your French -- they are being helpful, not dismissive.
 
-The Best Time To Visit**
+## Money
 
-The
-best time to visit Montreal is, without a doubt, the summer. During the
-summer, the city of Montreal is full with cultural and social events,
-especially festivals. The city's biggest festival is the Just for
-Laughs comedy festival, gathering so many performing comics that it
-generates enough TV material for a whole year! Reruns of the Just for
-Laughs shows are available throughout the year at Canadian TV stations.
-Other important festivals are the Montreal International Jazz Festival,
-the Montreal World Film Festival, the Francofolies (celebrates French
-speaking cultures), Vues D'Afriques Music Festival and the Montreal
-Fireworks Festival.
-**
+The currency is the Canadian dollar (CAD). Credit and debit cards are accepted almost everywhere, including transit. Tipping is standard: 15 to 20 percent in restaurants, a dollar or two per drink at bars, and 15 percent for taxis. Quebec's sales taxes (combined about 15 percent) are not included in displayed prices, so expect your bill to be higher than the menu suggests.
 
-Hockey****
+## Safety
 
-**
-Canada's
-favorite past time is a religion in Montreal. Montreal's official
-hockey team, the Montreal Canadiens, is one of the original six teams
-of the National Hockey League (NHL) and has a record of 24 Stanley Cup
-championships. If you have the opportunity of watching a hockey game in
-Montreal, don't think it twice! It's a "religious" experience during
-your stay in Montreal!
+Montreal is a safe city by North American standards. Violent crime is rare in areas visitors frequent. The usual big-city advice applies: watch your belongings in crowded metro stations and tourist areas, and stay aware of your surroundings late at night. Winter sidewalks can be icy -- wear shoes with good grip.
 
-**Public Transportation**
-The
-evolution of the city of Montreal, particularly its off island suburbs,
-has made it very cumbersome to develop its road system. Therefore,
-traffic is a serious problem in the city. However, this problem has
-also worked as a mixed blessing because Montreal has been able to
-develop an extraordinary public transportation system that combines
-railways, metro lines, and buses. Montreal's metro system has 68
-stations, each one designed by a different architect. Also, the metro
-system is one of the quietest one in the world because its trains run
-on rubber tires. Talk about a smooth ride! The Montreal public
-transportation system is so effective that just in 2007, it had about
-15.7 million passengers!
+## Climate
 
-**Contributors**
-August 19, 2009
+Winters are genuinely cold, with temperatures regularly dropping to -15C or lower in January and February. Snow is heavy and persistent from December through March. Summers are hot and humid, with temperatures above 30C in July and August. Spring and fall are short but beautiful -- April brings the thaw, and October brings spectacular fall color from the city's many maple trees.
+
+## Connectivity
+
+Free public Wi-Fi is available in many cafes, the metro system, and public spaces. Canada uses the same mobile frequencies as the US, so American phones work. European visitors may want a local SIM or eSIM for data.
+
+## Hockey
+
+The Montreal Canadiens are one of the original six NHL teams, with a record 24 Stanley Cup championships. Hockey is not a sport here -- it is a religion. If you can get tickets to a game at the Bell Centre, the atmosphere is electric even during a losing season.

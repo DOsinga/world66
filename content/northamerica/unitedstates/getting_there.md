@@ -3,38 +3,30 @@ title: "Getting There"
 type: section
 ---
 
-Note:
+## By Air
 
-The information to be found immediately below is of a more general nature. For more details consult the individual State sections.
+Most international visitors arrive by air. The busiest international gateways are John F. Kennedy International (New York), Los Angeles International, Chicago O'Hare, Miami International, and San Francisco International. Dallas/Fort Worth, Washington Dulles, and Boston Logan also handle heavy international traffic.
 
-Air
+Approximate flight times to New York from major cities: London is about 7–8 hours, Frankfurt 8 hours, Tokyo 14 hours, Sydney 20–22 hours, São Paulo 10 hours.
 
-The principal US airlines operating international services are: *American Airlines (AA) Continental Airlines (CO) Delta Air (DL) Northwest Airlines (NW) Trans World Airlines TWA (TW) *and *United Airlines (UA)*. Many other airlines operate services from all over the world to the USA.
+Nearly every major airline in the world serves the United States. US carriers including American, Delta, and United operate extensive international networks. Low-cost carriers rarely fly transatlantic, but do connect to Mexico and the Caribbean.
 
-For free advice on air travel from the UK call the Air Travel Advisory Bureau on (0171) 636 5000 (London) *or* (0161) 832 2000 (Manchester).
+## Entry Requirements
 
-Approximate flight times:
+Citizens of 42 countries (including most of Europe, Australia, Japan, and South Korea) can enter under the **Visa Waiver Program** and do not need a visa for stays up to 90 days. You must apply for **ESTA** (Electronic System for Travel Authorization) online before travel — it costs $21, is valid for two years, and takes minutes to complete. Apply at esta.cbp.dhs.gov.
 
-From *London* to Anchorage is 8 hours 55 minutes to Detroit is 8 hours 30 minutes to Los Angeles is 11 hours to Miami is 9 hours 35 minutes to New York is 7 hours 30 minutes (3 hours 50 minutes by Concorde) to San Francisco is 10 hours 45 minutes to Seattle is 9 hours 40 minutes and to Washington DC is 8 hours 5 minutes (all times are by nonstop flight).
+All other nationalities must apply for a visitor visa (B-1/B-2) at a US embassy or consulate before departure. Processing times vary widely by country, so apply early.
 
-From *Singapore* to Los Angeles is 18 hours 45 minutes and to New York is 21 hours 25 minutes.
+At the border you will be photographed and fingerprinted. Officers may ask about the purpose of your visit, your accommodation, and your onward travel. Have your return ticket and accommodation details accessible.
 
-From *Sydney* to Los Angeles is 17 hours 55 minutes and to New York is 21 hours 5 minutes.
+## By Land
 
-More international flight times may be found in the individual State sections.
+Canada and the US share dozens of crossing points. Major road crossings include Detroit–Windsor, Niagara Falls, Buffalo–Toronto, Seattle–Vancouver, and Minneapolis–Winnipeg. Crossings can be busy on weekends and holidays. Walking or cycling across is possible at several border points.
 
-Note:
+The US–Mexico border is crossed by road at major points including San Diego–Tijuana (one of the busiest land borders in the world), El Paso–Ciudad Juárez, and Laredo–Nuevo Laredo.
 
-Flights from Europe to the USA take longer than those coming back; ie flying east to west takes longer than west to east. Flights to Europe from the east coast of the USA take approximately 30-40 minutes less and from the west coast of the USA approximately one hour less.
+**Amtrak** connects to Canada via three routes: New York–Montréal (Adirondack), New York–Toronto (Maple Leaf), and Seattle–Vancouver (Cascades). There is no passenger rail between the US and Mexico.
 
-Sea
+## By Sea
 
-Numerous cruise lines sail from ports worldwide to both the east and west coasts. Contact a travel agent for fares and details.
-
-Rail:
-
-The US and Mexican rail networks connect at Tecate (Tijuana) Yuma Nogales Douglas El Paso Del Rio and Laredo but there are few scheduled passenger services. There are several connections with the Canadian network. The major routes are: New YorkMontr&eacute;al New YorkToronto and SeattleVancouver. Milwaukee Chicago Detroit and Buffalo are all connected via terminals in Toronto Hamilton and Ottawa.
-
-Road
-
-There are many crossing points from Canada to the USA. The major road routes are: New York to Montr&eacute;al/Ottawa Detroit to Toronto/Hamilton Minneapolis to Winnipeg and Seattle to Vancouver/Edmonton/Calgary.
+Cruise ships call at ports along both coasts, the Gulf of Mexico, and Hawaii. Major cruise terminals include Miami, Port Canaveral, Seattle, Los Angeles/Long Beach, and New York/New Jersey. Transatlantic crossings are limited but possible on ocean liners such as the Cunard Queen Mary 2, which sails between Southampton and New York in about seven days.

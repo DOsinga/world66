@@ -3,112 +3,14 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Running in the Family** by Michael Ondaatje is the best starting point for Sri Lanka — a lyrical, fragmentary memoir about the author's Burgher family, colonial Colombo, and the island's layered history. Ondaatje grew up here before emigrating to Canada, and the book has the texture of recovered memory. It is short, beautiful, and unlike any conventional travel writing.
 
-**Lonely Planet Sri Lanka '97**
+**Anil's Ghost** (2000), also by Ondaatje, is a novel set during the civil war. A Sri Lankan forensic anthropologist returns from the West to investigate wartime atrocities. It is harrowing but important, and it captures something about the island that guidebooks cannot reach.
 
+**The Village in the Jungle** by Leonard Woolf. Woolf spent years as a colonial administrator in Ceylon in the early 20th century, and this 1913 novel draws directly on his experience in the southern dry zone. It is dark and sympathetic to the rural poor in ways unusual for colonial fiction of its era.
 
+**Reef** by Romesh Gunesekera is a short, beautifully written novel about a young houseboy working for a marine biologist in Colombo in the 1960s and 70s. It is quiet and precise and captures the texture of upper-class Sri Lankan life before the civil war.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424760/ref=ase_osingacom?v=glance&s=books)
+**Sri Lanka's Hybrid Conflict** by Neil DeVotta, for those who want to understand the civil war seriously. DeVotta is a political scientist who writes clearly for a non-academic audience. It is more a historical and political analysis than a narrative, but it is the best single-volume explanation of how the conflict developed.
 
-author: Christine Niven,John Noble,Tony Wheeler,Susan..
-
-isbn: 0864424760
-
-subject: travel
-
-**Culture Shock!:Sri Lanka**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558680691/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Barlas,Nanda P. Wanasundera
-
-isbn: 1558680691
-
-subject: culture
-
-**Field Guide to the Mammals of the Indian Subcontinent:Where to Watch Mammals in India, Nepal, Bhutan, Bangladesh, S..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0123093503/ref=ase_osingacom?v=glance&s=books)
-
-author: K. K. Gurung,Raj Singh
-
-isbn: 0123093503
-
-subject: history
-
-**Insight Guide Sri Lanka**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887291503/ref=ase_osingacom?v=glance&s=books)
-
-author: Edmond Bealby-Wright (Editor),Brian Bell (Edi..
-
-isbn: 0887291503
-
-subject: travel
-
-**SRI Lanka Handbook**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/084424953X/ref=ase_osingacom?v=glance&s=books)
-
-author: Robert Bradnock,Roma Bradnock
-
-isbn: 084424953X
-
-subject: travel
-
-**Culture Shock! Succeed in Business:Sri Lanka**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558683208/ref=ase_osingacom?v=glance&s=books)
-
-author: Douglas Bullis
-
-isbn: 1558683208
-
-subject: culture
-
-**Gender and Slum Culture in the Asian City**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1856491285/ref=ase_osingacom?v=glance&s=books)
-
-author: Susanne Thorbek
-
-isbn: 1856491285
-
-subject: culture
-
-**A Guide to the Birds of India, Pakistan, Nepal, Bangladesh, Bhutan, SRI Lanka, and the Maldives**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0691006873/ref=ase_osingacom?v=glance&s=books)
-
-author: Richard Grimmett,Carol Inskipp,Tim Inskipp
-
-isbn: 0691006873
-
-subject: history
-
-**Running In The Family**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679746692/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Ondaatje
-
-isbn: 0679746692
-
-subject: history
+For guidebooks, Lonely Planet Sri Lanka and Bradt Sri Lanka are both solid, though any print edition will be partly out of date for prices and transport specifics. Cross-reference with recent online sources for practical details.

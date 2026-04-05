@@ -1,14 +1,18 @@
 ---
 title: "Somaliland"
 type: location
-latitude: 10.374367
-longitude: 45.109858
+latitude: 9.5595
+longitude: 44.0769
+image: somaliland.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Somaliland_(6790596624)_(2).jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/10088550@N00">YoTuT</a> from United States'
 ---
 
-Although Somaliland is not recognized by the international community as an independent country, it is listed seperately here, because it effectively behaves like a state of its own. And might we add, a state that is a lot saver to travel in than neighbouring Somalia. 
+Somaliland declared independence from Somalia in 1991, after the collapse of the Siad Barre regime and years of brutal military repression. No country officially recognises it, but that hasn't stopped it from functioning. It has its own elected government, currency, police force, and passport — and for travellers, it behaves like an independent country in every practical way.
 
+The contrast with Somalia proper is stark. Hargeisa, the capital, is a busy, relatively safe city with functioning markets, hotels, and a growing café culture. Street crime exists but political violence directed at foreigners is rare. The eastern regions bordering Puntland — Sool and parts of Sanaag — have seen periodic conflict and should be avoided, but the core of the country is accessible and surprisingly welcoming to visitors.
 
+Few people come here. That's part of the appeal. Somaliland has extraordinary prehistoric cave paintings at Laas Geel, a Gulf of Aden coastline that sees almost no tourists, and a vivid, living nomadic culture. It also has a story to tell about self-determination and state-building that's unlike anywhere else in the region.
 
-The Somaliland style of government combines traditional practices of tribal democracy with the idea of minmal government and altough this may come as a suprise: it works! 
-
-Most parts of Somaliland can be visited without danger. There are a few regular flights from Ethiopia and Djibouti and some humanitarian flights from Nairobi.Hargeisa is not exactly what you would call a tourist destination. But if you do get there, Somaliland offers an unique insight in Somali culture and lifestyle without the dangers you would be facing if you wanted to experience this in 'real Somalia'. Still security is not the best
+Expect rudimentary infrastructure outside the main towns, limited English, and a society shaped entirely by Islamic values — alcohol is absent, dress is conservative. But Somali hospitality is genuine, and the curiosity flows in both directions.

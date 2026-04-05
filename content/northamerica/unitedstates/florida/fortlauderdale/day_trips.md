@@ -1,11 +1,6 @@
 ---
-title: "Day Trips in Fort Lauderdale"
+title: "Day Trips"
 type: section
 ---
 
-The Florida Everglades
-
-While staying in Fort Lauderdale, the Florida Everglades is a perfect day trip and one of most enjoyable of Fort Lauderdale attractions. Visitors can experience nature’s wonders while gliding over a river of grass in an airboat. In addition, it’s educational and children learn a lot bout the Everglades and its denizens, such as the alligators, birds, and fish. The Everglades Holiday Park, which is open every day, provides airboats that are covered so they can be used in any weather and without the possibility of getting a bad burn. And the guides will give you wonderful details about the Everglades and its flora and fauna.
-
-**Contributors**
-May 27, 2009
+The classic Fort Lauderdale day trip is into the **Everglades**. Airboat operators line US 27 and the Tamiami Trail; a two-hour ride will get you a near-certain alligator sighting, plus great blue herons and — if you are lucky — a glimpse of a manatee. From Fort Lauderdale it is also very easy to go south to **Miami** (45 minutes by car or Tri-Rail) for South Beach, Little Havana, and the Wynwood street-art district. In the other direction, **West Palm Beach** and the island of Palm Beach are an hour up the coast; further afield, the **Florida Keys** begin a couple of hours south, and **Key Largo**, with its glass-bottom-boat reef trips, is a realistic long day out.

@@ -1,6 +1,6 @@
 ---
-title: "Getting There in Konark"
+title: 'Getting There'
 type: section
 ---
 
-The nearest airport is in Bhubaneswar which is connected to the major cities of India. The nearest railway stations are in Puri (34kms) and Bhubaneswar (64 kms).Konark is well-connected by regular bus-services with Puri, Bhubaneshwar as well as all the major places in Orissa. You can also take the conducted coach tours from Bhubaneswar and Puri.
+The nearest airport is Bhubaneswar (64 km). The nearest railway stations are at Puri (34 km) and Bhubaneswar. Konark is well connected by regular bus services with both Puri and Bhubaneswar. Conducted coach tours from either city typically include Konark on their itinerary.

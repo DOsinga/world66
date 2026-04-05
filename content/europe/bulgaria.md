@@ -3,12 +3,14 @@ title: "Bulgaria"
 type: location
 latitude: 42.607397
 longitude: 25.485662
+image: bulgaria.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:AlexanderNevskyCathedral-Sofia-6.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: 'Plamen Agov (<a href="//commons.wikimedia.org/wiki/User:MrPanyGoff" title="User:MrPanyGoff">user:MrPanyGoff</a>)'
 ---
 
-Bulgaria has changed a lot during the last 15 years. From being a communist-ruled state "on the other side of the Iron Curtain," it has enacted some free-market reforms. The Bulgarian nation has made progress since Russia freed it from its 500-year domination by the Ottoman Empire in the 1870's, but is now still struggling to cope with the aftermath of the demise of the Soviet empire, of which Bulgaria was a client state.
+Bulgaria rewards travelers who look beyond the package-holiday beach resorts. Yes, the Black Sea coast gets crowded and a little tacky in summer, but drive an hour inland and you're in a country of mountain monasteries, Ottoman-era towns, Roman ruins, and a cuisine built around wood-fired clay pots, sheep's cheese, and homemade rakia. It's one of the cheapest countries in the EU, and it shows — in a good way.
 
-Renaming themselves the Bulgarian Socialist Party, the Communists still vie with progressives for control of the country. Low wages, high unemployment, and rampant corruption, especially in the criminal-justice system, seem to remain ever-present features of Bulgarian life.
+The country joined the Schengen Area fully in January 2025 and adopted the euro on 1 January 2026, so the practical barriers for European visitors have fallen sharply. Prices remain well below Western European levels.
 
-Bulgaria has a large number of travel destinations. There are few restrictions. Costs are relatively low, despite the fact that foreigners are routinely charged higher prices than nationals for accomodation and most tourist services. The country offers a beautiful mountainous scenery as well as sandy beaches on the Black Sea coast. You will find ski resorts, deep forests, ancient monasteries, greek and roman remains and the fascinating capital [Sofia](/europe/bulgaria/sofia) is a must for Bulgaria travelers. [Veliko turnovo](/europe/bulgaria/velikoturnovo) , the ancient capital, is a young and vibrant city that deserves a visit as well.
-
-Right now World66.com does not have an editor for Bulgaria. If you are interested click here.
+The capital [Sofia](/europe/bulgaria/sofia) is an easy, walkable city with good museums and a lively cafe scene. [Plovdiv](/europe/bulgaria/plovdiv) is arguably the more beautiful of the two, with a preserved old town of National Revival houses stacked up three hills above the Maritsa River. [Veliko Turnovo](/europe/bulgaria/velikoturnovo) was the medieval capital and still feels the part. For the coast, skip the mega-resorts and head for [Sozopol](/europe/bulgaria/sozopol) or [Burgas](/europe/bulgaria/burgas) instead.

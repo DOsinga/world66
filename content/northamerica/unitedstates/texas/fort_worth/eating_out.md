@@ -1,32 +1,10 @@
 ---
-title: "Eating Out in Fort Worth"
+title: 'Eating Out'
 type: section
-address: "1314 W. Magnolia Ave."
-email: "Veg@SpiralDiner.com"
-phone: "817-332-8834"
-price: "$2.25-$9.00 for food, good and cheap!"
-type: "Vegetarian"
-url: "www.spiraldiner.com"
-latitude: 32.73081
-longitude: -97.340127
 ---
 
-There is a wide selection of quality food in Fort Worth, from vegan restaurants to indian buffets, from all-night pancake houses to little mexican taquerias.
+Fort Worth has a wide selection of quality food, from vegan restaurants to Indian buffets, all-night pancake houses to little Mexican taquerias. The Stockyards and Magnolia Avenue are the best areas for restaurant-hopping.
 
-### [Spiral Diner & Bakery](/northamerica/unitedstates/texas/fort_worth/eating_out/spiral_diner__bak)
+### Spiral Diner & Bakery
 
-The Spiral Diner offers all vegan food that is both delicious and cheap. They have salads, wraps, sandwiches, and various hot plates. For drinks they have coffees, smoothies, and various other liquids, including organic beers and wines. A standout would have to be the pickle sandwich, a steal at $2.25 with a side of potato salad. Rated one of the top 14 vegetarian restaurants in North America by VegNews.
-
-type: Vegetarian
-
-
-
-tel: 817-332-8834
-
-url: [www.spiraldiner.com](http://www.spiraldiner.com/)
-
-address: 1314 W. Magnolia Ave.
-
-PriceOfMenu: $2.25-$9.00 for food, good and cheap!
-
-email: Veg@SpiralDiner.com
+All-vegan food that is both delicious and cheap. Salads, wraps, sandwiches, and hot plates alongside coffees, smoothies, organic beers, and wines. The pickle sandwich with a side of potato salad is a steal. Rated one of the top 14 vegetarian restaurants in North America by VegNews. 1314 W. Magnolia Ave, tel: 817-332-8834.

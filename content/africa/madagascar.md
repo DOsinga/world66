@@ -3,34 +3,31 @@ title: "Madagascar"
 type: location
 latitude: -18.92496
 longitude: 46.441642
+image: madagascar.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Katta_család.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: "Veszprémi Állatkert"
 ---
 
-The island of Madagascar, situated off the east coast of Africa, is often considered to be the world’s eighth continent. 
+*Africa > Madagascar*
 
+Madagascar is unlike anywhere else on earth. Separated from the African mainland roughly 88 million years ago, the island developed in isolation long enough for around 90 percent of its wildlife to evolve into forms found nowhere else — including dozens of lemur species, hundreds of endemic birds, and plants that look like they belong on another planet. For a traveler who cares about nature, it is one of the most extraordinary destinations in the world.
 
+The country is also genuinely poor and difficult to get around. Roads are rough, travel times are long, and infrastructure outside the capital is thin. That is partly what keeps the crowds away — Madagascar receives only a few hundred thousand tourists a year. If you come expecting comfort and efficiency, you will be frustrated. If you come prepared to move slowly and improvise, you will be rewarded.
 
-With a diversity of wildlife not found anywhere else on the planet, and a varied climate, each area of the island nation has something different to offer. 
+The island stretches over 1,600 km from north to south, encompassing radically different landscapes: the humid rainforests of the east coast, the high central plateau with its rice terraces and eroded red hills, the semi-arid spiny forests of the south, and the mangrove-fringed channels of the west. Each region has its own climate, wildlife, and ethnic character.
 
-From the tropical rain forests of the north east to the spiny deserts of the south, and with mountains in between, Madagascar has something to offer everyone. 
+Most visitors enter through [Antananarivo](/africa/madagascar/antananarivo) (universally called Tana), the highland capital. The classic route south along RN7 passes through [Antsirabe](/africa/madagascar/antsirabe), [Fianarantsoa](/africa/madagascar/fianarantsoa), and the spectacular [Isalo](/africa/madagascar/isalo) National Park before reaching the coast at Tulear. The northwest island of [Nosy Be](/africa/madagascar/nosybe) is the main beach destination. [Toamasina](/africa/madagascar/toamasina) (Tamatave) is the main port on the east coast, with access to Île Sainte-Marie and the Ivoloina nature reserve nearby.
 
-The only drawback for tourists is a lack of infrastructure; however this also ensures that crowds of foreigners are not overrunning the country. 
+## Destinations
 
-Madagascar is made up of six provinces – [Antsiranana](/africa/madagascar/antsiranana) , [Mahajanga](/africa/madagascar/mahajanga) , [Toamasina](/africa/madagascar/toamasina) , [Antananarivo](/africa/madagascar/antananarivo) , [Fianarantsoa](/africa/madagascar/fianarantsoa) and Toliara – the capital city of each lending its name to the province. 
-
-[Antananarivo](/africa/madagascar/antananarivo) , or Tana, as it is more commonly known, is the capital city of Madagascar and is situated in the central highland region of the island. 
-
-With an international airport and easy access to Toamasina on the east coast, and many locations in the south, Tana is where most tourists begin their visit to Madagascar. 
-
-An enjoyable journey is to follow national route number 7 from Tana to [Tulear](/africa/madagascar/tulear) , which takes in the towns of [Antsirabe](/africa/madagascar/antsirabe) , Ambositra , [Fianarantsoa](/africa/madagascar/fianarantsoa) , Ambalavao , [Ihosy](/africa/madagascar/ihosy) and Toliara as well as providing access to scenic attractions such as Ranomafana National Park (lemur spotting and hot springs), [Isalo](/africa/madagascar/isalo) National Park, the Fianarantsoa-Manakara Rail Journey , home made paper factories , spiny forests and world class diving at Ifaty . 
-
-Other popular destinations include the islands of [Nosy be](/africa/madagascar/nosybe) in the northwest and St. Marie off the coast of [Toamasina](/africa/madagascar/toamasina) in the east, [Morondava](/africa/madagascar/morondava) for its avenue of baobab trees in the west, the magnificent harbour of [Antsiranana](/africa/madagascar/antsiranana) (Diego Saurez) in the north, and Port Daulphin ( Taolagnaro ) in the south. 
-
-For more travel tips, information about the towns and places mentioned in this introduction and further recommendations, please follow the appropriate links. 
-
-If you have recently travelled to Madagascar yourself and wish to drop us line or offer suggestions, please do not hesitate to do so. 
-
-Happy reading 
-
-Sean Lee (editor – Madagascar section, World66) 
-
-NB: Please note that I am currently updating the whole Madagascar section. Please refer to ‘last update’ situated at the start of each section to see if the page has recently been modified.
+- [Antananarivo](/africa/madagascar/antananarivo) — the capital, the starting point
+- [Antsirabe](/africa/madagascar/antsirabe) — highland town famous for its pousse-pousse and thermal springs
+- [Fianarantsoa](/africa/madagascar/fianarantsoa) — highland city, gateway to Ranomafana National Park and the scenic east-coast railway
+- [Isalo](/africa/madagascar/isalo) — dramatic sandstone canyon national park
+- [Nosy Be](/africa/madagascar/nosybe) — Madagascar's main beach and diving island
+- [Toamasina](/africa/madagascar/toamasina) — the main east-coast port
+- [Morondava](/africa/madagascar/morondava) — base for the famous Avenue of the Baobabs
+- [Mahajanga](/africa/madagascar/mahajanga) — northwestern port city with a different, drier character
+- [Anakao](/africa/madagascar/anakao) — fishing village south of Tulear, excellent snorkeling
+- [Ambohimanga](/africa/madagascar/ambohimanga) — UNESCO-listed royal hill fortress outside Tana

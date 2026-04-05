@@ -1,29 +1,30 @@
 ---
-title: "Family Travel Ideas in China"
+title: "Family Travel Ideas"
 type: section
 ---
 
-China is quickly growing and changing and this makes **China family travel** a lot of fun as there is something for everyone. While the history of China is extensive and there are plenty of historic and cultural sites to visit, there are also many other interactive and thrilling adventures waiting for you. Since China has the largest population and geographic landmass in the world, it will take more than 1 trip to see this beautiful country.
+China works well for families, with a few caveats. Crowds at major sights can be intense, especially during school holidays. The food is generally very kid-friendly — noodles, dumplings, fried rice — though spicy Sichuan cuisine is worth introducing gradually. Getting around on the high-speed rail network is easy and exciting for children.
 
-**Visiting Beijing**
+## Beijing
 
-Beijing is high on the list of places to visit as this city contains some of the most historical sites in the country. Explore the largest palace in the world, the Forbidden City. Visit historic Tiananmen Square to fly a kite or visit the Beijing Zoo to see the giant pandas. You should not only see but climb the Great Wall of China and in the evening everyone will love seeing a Kung Fu show.
+[Beijing](/asia/china/beijing) has more than enough to keep a family busy for several days. The Forbidden City is genuinely awe-inspiring — the sheer scale of it lands with kids as well as adults. The Great Wall at Mutianyu (less crowded than Badaling) has a cable car up and a toboggan run down, which is a significant hit. Tiananmen Square is good for kite-flying in the evenings.
 
-**Adventures in the Countryside**
+The Beijing Zoo has giant pandas. It's not the most progressive zoo in the world, but if your children have never seen a giant panda, this is the most reliable place in China to do it.
 
-Visiting the countryside is also preferable due to the many different outdoor activities. There are options for those looking for vigorous exercise or those who prefer a more leisurely approach to the day. What better way to ensure everyone gets a good night’s sleep then by biking or hiking for most of the day and taking in the gorgeous scenery of Yanshuo and Guilin. This area contains many rice paddies and small villages where you can cruise down the river on a traditional bamboo raft or take a bike trip through the countryside. The scenery from the Li River is some of the most spectacular in China. You will regularly come across water buffalo.
+## Guilin and Yangshuo
 
-**The Leshan Buddha**
+The karst landscape around [Guilin](/asia/china/guilin) is visually extraordinary and child-appropriate. The Li River cruise from Guilin to Yangshuo takes four hours on a boat with a viewing deck, passing through some of the most unusual scenery in Asia. In Yangshuo itself, you can rent bikes and cycle through rice paddies and villages at an easy pace. Bamboo raft rides on the Yulong River are particularly good for younger children.
 
-If you are in Chengdu then you should make a day trip to see the Leshan Buddha. Everyone will giggle when they see this huge Buddha, the largest in the world. The park that contains the Buddha also has several play areas and picnic spots for a great family day in the outdoors. The Buddha was carved out of the hill side in order to appease the water spirits so they would protect the boats on the river.
+## Chengdu and the Giant Panda Base
 
-**Hong Kong Disneyland**
+The Chengdu Research Base of Giant Panda Breeding, just outside the Sichuan capital, is the best place in China to see giant pandas up close — including cubs if you visit between autumn and spring. Arrive early (opening time) to see them active before the heat of the day sends them to sleep. Chengdu itself is a relaxed, eating-obsessed city with a good pace for families.
 
-Hong Kong is a huge metropolitan city and if your family should not miss out on a trip to Hong Kong Disneyland. Disneyland is the perfect spot for families and is a main tourist draw for Hong Kong. This is the newest Disney theme park and opened in 2005. You can experience the many adventures of Winnie the Pooh, take a Jungle River Cruise, attend the Festival of the Lion King, go rafting at Tarzan’s Tree House and attend Mickey’s PhilharMagic.
+The Leshan Giant Buddha — a 71-meter stone figure carved into a cliff face above the confluence of three rivers — is about an hour and a half from Chengdu. The scale of it is astonishing. You can view it from a boat on the river or descend the steep stone staircase cut into the cliff beside it.
 
-**Shanghai**
+## Shanghai
 
-A truly mystifying city to visit is Shanghai as this is where the East and the West meet and mix. This is one of the most vibrant cities in China and families find it jaw-dropping with new wonders around every corner. Explore the bazaars for a souvenir for everyone and have each member of the family purchase a different type of food and then try a little bit of everything. Make sure you go to the top of the Oriental Pearl TV Tower, the tallest in Asia.
+[Shanghai](/asia/china/shanghai) is China's most cosmopolitan city and the easiest for families unfamiliar with China. The Bund waterfront is a good introduction to the city's visual drama. The Shanghai Natural History Museum is excellent and well-laid-out for children. Food options are extremely diverse.
 
-**Contributors**
-April 12, 2010
+## Hong Kong
+
+[Hong Kong](/asia/china/hongkong) is the most accessible Chinese city for first-time visitors with children. Everything is signed in English, the metro is effortless, and the food is outstanding. Ocean Park offers marine animals and rides on a dramatic coastal site. The Star Ferry across Victoria Harbour is one of the best ferry rides anywhere.

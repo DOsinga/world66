@@ -1,29 +1,10 @@
 ---
-title: "Festivals"
+title: 'Festivals'
 type: section
-address: "check Catalonia Festivals section"
-date: "In summer season"
 ---
 
-Below is a listing of Festivals in **Barcelona city** and **Catalonia region**.
+Barcelona celebrates with an intensity that matches its personality. The biggest event is La Merce in late September, a week-long explosion of music, fire runs and human castles that takes over the entire old town. But there is always something happening.
 
-For Barcelona city, festivals can be added below on this page; please use the [Add Festival] button below.
+Sant Jordi on April 23rd is Catalonia's own Valentine's Day, when the city fills with book and rose stalls. The tradition is to give your partner a book and a rose, and the Ramblas becomes one long open-air market. The Sonar festival in mid-June draws electronic music fans from across Europe. Sant Joan on the 23rd of June marks the start of summer with bonfires and fireworks on the beaches. The Grec festival runs through summer with theatre, music and dance performances in outdoor venues across the city.
 
-For details and addition of Festivals in the Catalonia region, please go to the [Catalonia Festivals](/europe/spain/catalonia/festivals) section. Below is a lead in only.
-
-**Contributors**
-July 11, 2006
-
-### [Festivals in Catalonia region
-
-Catalonia region festivals offer spectacular demonstrations of traditional folklore, i.e:
-
-***"Dances"** - Dancing
-*Town squares burst into life
-with displays of vibrant Catalan dancing: the Ball dels Gegants (the
-Dance of the Giants) with twelve foot models, the Ball de Gitanes
-(Gypsy Dance), the Sardanes and Ball de Bastons (Stick Dance).
-***"Castellers"** - Human Castles*
-Originating
-from the region of Tarragona, south of Barcelona, is the famous Human
-Castle tradition. Hundreds of people balance on each other’s more..](/europe/spain/catalonia/barcelona/festivals/festivals_in_catal)
+For traditional Catalan culture, look out for castellers (human castle builders), correfocs (fire runs with devil figures), and sardana dancing in the squares. These are not tourist shows - they are living traditions that Catalans take very seriously. See also [Catalonia Festivals](/europe/spain/catalonia/festivals) for events across the wider region.

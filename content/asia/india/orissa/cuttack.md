@@ -1,5 +1,5 @@
 ---
-title: "Cuttack"
+title: 'Cuttack'
 type: location
 latitude: 20.4686
 longitude: 85.8792

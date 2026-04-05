@@ -3,112 +3,20 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Travel and history**
 
-**The Bulgaria:The Rough Guide**
+*A Concise History of Bulgaria* by R.J. Crampton (Cambridge University Press) — the standard English-language history, updated to the post-communist period. Covers the Ottoman era, the National Revival, the communist decades, and transition with clarity and no sentimentality.
 
+*Beyond Hitler's Grasp: The Heroic Rescue of Bulgaria's Jews* by Michael Bar-Zohar — the remarkable story of how Bulgaria, alone among Nazi-allied states, refused to deport its Jewish citizens to the death camps. Essential reading for understanding both the wartime period and Bulgarian national character.
 
+*The Bulgarians in the Seventeenth Century* by Dennis P. Hupchick — an academic look at Orthodox society and culture under Ottoman rule; useful background for understanding the monastery system and the National Revival movement.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1858281830/ref=ase_osingacom?v=glance&s=books)
+**Fiction and memoir**
 
-author: Rough Guide Publications,Dan Richardson
+*Under the Yoke* by Ivan Vazov — the great 19th-century Bulgarian novel, set during the April Uprising of 1876. Melodramatic by contemporary standards but still readable, and central to understanding how Bulgarians see their own history.
 
-isbn: 1858281830
+*Street Without a Name* by Kapka Kassabova — a memoir of growing up in communist Sofia and returning as an adult. Funny, sharp, and unsentimental about both the communist past and the chaotic transition years.
 
-subject: travel
+**Music**
 
-**Bulgaria**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/039331796X/ref=ase_osingacom?v=glance&s=books)
-
-author: James Pettifer
-
-isbn: 039331796X
-
-subject: travel
-
-**Fodor's Eastern and Central Europe '99:Bulgaria, Czech Republic, Hungary, Poland, Romania, Slovakia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679000119/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679000119
-
-subject: travel
-
-**May It Fill Your Soul:Experiencing Bulgarian Music**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0226711226/ref=ase_osingacom?v=glance&s=books)
-
-author: Timothy Rice
-
-isbn: 0226711226
-
-subject: culture
-
-**The Bulgarian Cinema**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0838631835/ref=ase_osingacom?v=glance&s=books)
-
-author: Ronald Holloway
-
-isbn: 0838631835
-
-subject: culture
-
-**The Bulgarians in the Seventeenth Century:Slavic Orthodox Society and Culture under Ottoman Rule**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0899508227/ref=ase_osingacom?v=glance&s=books)
-
-author: Dennis P. Hupchick
-
-isbn: 0899508227
-
-subject: culture
-
-**Beyond Hitler's Grasp:The Heroic Rescue of Bulgaria's Jews**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1580620604/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Bar-Zohar
-
-isbn: 1580620604
-
-subject: history
-
-**A Concise History of Bulgaria**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/052156719X/ref=ase_osingacom?v=glance&s=books)
-
-author: R. J. Crampton
-
-isbn: 052156719X
-
-subject: history
-
-**Creating Parliamentary Government:The Transition to Democracy in Bulgaria**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0814207707/ref=ase_osingacom?v=glance&s=books)
-
-author: Albert P. Melone,Samuel C. Patterson
-
-isbn: 0814207707
-
-subject: history
+*May It Fill Your Soul: Experiencing Bulgarian Music* by Timothy Rice — an ethnomusicological study of Bulgarian folk music that manages to be engaging for non-specialists. Bulgarian polyphonic choral music, with its unusual rhythmic structures and microtonal harmonies, rewards some background reading.

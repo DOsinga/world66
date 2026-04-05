@@ -3,90 +3,22 @@ title: "Books"
 type: section
 ---
 
-**all**
+**Travel and background reading**
 
-**Rand McNally Deluxe Road Atlas and Travel Guide 1999:United States Canada Mexico**
+*The Labyrinth of Solitude* by Octavio Paz (1950) — Mexico's Nobel laureate examines Mexican identity, history, and the national psyche. Dense but essential for understanding the country's cultural self-image.
 
+*Mexico* by Lonely Planet or Rough Guides — Updated regularly, these are the standard practical references for travelers. Worth buying a current edition before a long trip.
 
+*The Conquest of New Spain* by Bernal Díaz del Castillo — A soldier's firsthand account of Cortés's conquest, written decades later. Vivid, opinionated, and strangely readable.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0528840363/ref=ase_osingacom?v=glance&s=books)
+*Like Water for Chocolate* (Como agua para chocolate) by Laura Esquivel — A love story set in northern Mexico, intertwined with traditional recipes. A good entry point into Mexican magical realism.
 
-author: Rand McNally
+*The Power of the Dog* by Don Winslow — A brutal, thoroughly researched novel about the Mexican drug trade from the 1970s through the 1990s. Not a travel book, but it provides context for the forces that shaped modern Mexico.
 
-isbn: 0528840363
+*Pedro Páramo* by Juan Rulfo (1955) — A short, haunting novel considered the masterpiece of Mexican literature. Gabriel García Márquez claimed he could recite it from memory.
 
-subject: travel
+**On Mexican food**
 
-**National Geographic Road Atlas:United States-Canada-Mexico 1999**
+*Mexico from the Inside Out* by Enrique Olvera — The chef behind Pujol in Mexico City writes about Mexican cuisine and its evolution. Beautiful book for food-focused travelers.
 
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1572624000/ref=ase_osingacom?v=glance&s=books)
-
-author: National Geographic Society
-
-isbn: 1572624000
-
-subject: travel
-
-**Josefina's Theater Kit**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1562476726/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0810936852/ref=ase_osingacom?v=glance&s=books)
-
-author: Barbara Novak,Barbara Rose,Lisa Mintz Messing..
-
-isbn: 0810936852
-
-subject: culture
-
-**Culture Shock!:Mexico**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558683992/ref=ase_osingacom?v=glance&s=books)
-
-author: Mark Cramer
-
-isbn: 1558683992
-
-subject: culture
-
-**The Pearl**
-
-**hendrickx :** 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/014017737X/ref=ase_osingacom?v=glance&s=books)
-
-author: John Steinbeck
-
-isbn: 014017737X
-
-subject: history
-
-**Los Alamos**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0737290595/ref=ase_osingacom?v=glance&s=books)
-
-author: Joseph Kanon,Designed by Terry Karydes
-
-isbn: 0737290595
-
-subject: history
-
-**A Reward for Josefina:(American Girls Collection Series: Josefina)**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1562477633/ref=ase_osingacom?v=glance&s=books)
-
-author: Valerie Tripp,Jean-Paul Tibbles,Susan McAlile..
-
-isbn: 1562477633
-
-subject: history
+*Decolonize Your Diet* by Luz Calvo and Catriona Rueda Esquibel — Explores the pre-colonial food traditions of Mexico and the borderlands.

@@ -3,30 +3,39 @@ title: "Japan"
 type: location
 latitude: 36.574844
 longitude: 139.239418
+image: japan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/84301190@N00">Rosino</a>'
 ---
 
-Japan, so large and filled with much attractions, will leave a lasting impression in your mind. Starting with city based attractions such as Tokyo Towers, all
- the way to the nature lovers heaven attractions such as Mount Fuji and the natural hot springs.
- Japan is ideal for the city lovers. To see how a country, practically
- destroyed in the war, built up its economy to such great strength.
+Japan is one of the most rewarding countries in the world to travel. It is modern and ancient simultaneously: bullet trains run on the second, while Buddhist monks chant in thousand-year-old temples. Streets are spotlessly clean and almost completely safe. The food is extraordinary. And despite the language barrier, Japan is surprisingly easy to get around.
 
-Japan also combines the most traditional of societies with the most modern of techniques.
- Technology lovers will love Japan, being the heart of all
- techological development, tourists greatly enjoy the diversity of shopping
- in Japan. In Tokyo the districts of [Roppongi](/asia/japan/tokyo/roppongi), [Akihabara](/asia/japan/tokyo/akihabara) and [Shinjuku](/asia/japan/tokyo/shinjuku) all offer all you could dream in this respect. Between the neon signs and the sky scrapers you will also find pagodes and shrines where saints are venered according to century old customs.
+The country is an archipelago of nearly 7,000 islands stretching roughly 3,000 km from north to south. Four main islands account for almost all of the population and most of the sights: [Honshu](/asia/japan/honshu) (the largest, where Tokyo and Kyoto sit), [Hokkaido](/asia/japan/hokkaido) in the north, [Kyushu](/asia/japan/kyushu) in the southwest, and [Shikoku](/asia/japan/shikoku) to the south of Honshu. The subtropical [Ryukyu Islands](/asia/japan/ryukyuislands) — including Okinawa — extend far to the southwest, closer to Taiwan than to Tokyo.
 
+[Tokyo](/asia/japan/tokyo) is the obvious starting point — an enormous, endlessly layered city that takes weeks to understand and years to exhaust. But the classic route for first-timers is the Tokaido corridor: Tokyo, then Hakone or Nikko, then west by Shinkansen to Kyoto, Nara, and Osaka. It barely scratches the surface, but it's a good scratch.
 
- Japan is also ideal for the children as it is the home of one of the
- Disneylands and many other amusement parks.
+The deeper Japan — Tohoku's mountain shrines and traditional villages, Shikoku's pilgrimage circuit, [Hokkaido's](/asia/japan/hokkaido) vast national parks, the ancient stones of the Kumano mountains — requires more time and more effort, but is well worth both.
 
+A note on cost: Japan is not as expensive as its reputation suggests, especially in 2025 with the yen at historically weak levels against most Western currencies. Budget travel is genuinely feasible; the main costs are accommodation and intercity transport.
 
- The city of [Tokyo](/asia/japan/tokyo) will easily fill the four day touring and perhaps more time should be
- spent there because the tourist will realise it is really worth it.
+## Destinations in Japan
 
-[Honshu](/asia/japan/honshu) is the main island. Most of the big cities are here and if you have just two weeks, you can limit your trip to just the island.
-
-
- [Hokkaido](/asia/japan/hokkaido) in the north is good for outdoor activities as well as partying. [Sapporo](/asia/japan/hokkaido/sapporo) is the beer capital of Japan.
-
-
- [Kyushu](/asia/japan/kyushu) is the southernmost of the four large islands. The main sight on the island is [Nagasaki](/asia/japan/kyushu/nagasaki) once the only city foreigners where allowed to visit in Japan - and only the Dutch and the Chinese. More recently it was the place the biggest of the two nuclear bombs dropped in WW II hit.
+[Tokyo](/asia/japan/tokyo)
+[Honshu](/asia/japan/honshu)
+[Kyoto](/asia/japan/honshu/kyoto)
+[Osaka](/asia/japan/honshu/osaka)
+[Nara](/asia/japan/honshu/nara)
+[Kobe](/asia/japan/honshu/kobe)
+[Hiroshima](/asia/japan/honshu/hiroshima)
+[Nikko](/asia/japan/honshu/nikko)
+[Takayama](/asia/japan/takayama)
+[Hokkaido](/asia/japan/hokkaido)
+[Sapporo](/asia/japan/hokkaido/sapporo)
+[Kyushu](/asia/japan/kyushu)
+[Fukuoka](/asia/japan/kyushu/fukuoka)
+[Nagasaki](/asia/japan/kyushu/nagasaki)
+[Shikoku](/asia/japan/shikoku)
+[Ryukyu Islands](/asia/japan/ryukyuislands)
+[Tohoku](/asia/japan/tohoku)
+[Kansai](/asia/japan/kansai)

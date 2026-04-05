@@ -1,57 +1,14 @@
 ---
-title: "Top 5 Must Do's in Beirut"
+title: "Top 5 Must Do's"
 type: section
 ---
 
-Beirut is the capital of Lebanon, and is located directly on the
-Mediterranean Coast. Though this city has had a recently troubled past,
-they have restored the city, and it has recently become a popular tourist
-attraction once again. The following are the top five **Beirut must do's**.
+**1. Walk the Corniche at sunset and see Pigeon Rock.** Beirut's seafront promenade is the city's outdoor living room. As the sun drops toward the Mediterranean, the light on the Pigeon Rocks -- two massive natural arches rising from the sea at Raouche -- is spectacular. Grab a fresh juice from one of the carts and join the parade of joggers, families and fishermen.
 
-**1. Tour Old Downtown**
+**2. Tour old downtown and Martyrs' Square.** The rebuilt centre of Beirut is unlike anywhere else -- Roman ruins, Ottoman architecture and modern construction layered together. Start at Martyrs' Square, see the bullet-scarred statue that survived the civil war, walk to Nejmeh Square with its Ottoman clock tower, and peek into the Omari Mosque, which has been a temple, a church and a mosque over its long history.
 
-The Omari Mosque has a rich history, as it was converted to a
-Christian cathedral during crusader conquests twice in its lifetime.
-This mosque is the center of Islamic beliefs in Lebanon, and is one of
-the most beautiful buildings in the city. There are differing opinions
-about whether people of other faiths are welcome in mosques, but at the
-very least you can ask for permission to explore the mosque's garden. Another
-important historical landmark in Beirut are the stunning Roman columns in Nejmeh
-Square. Near Nejmeh square is the Parliament
-building, and across the street are Greek Orthodox churches and one Greek Catholic church.
+**3. Spend an evening in Gemmayzeh or Mar Mikhael.** These neighbouring streets are the heart of Beirut's nightlife. Start with dinner, move to a bar, and end up wherever the night takes you. The energy in these neighbourhoods -- despite everything the city has been through -- is extraordinary. Try B018 if you want a club experience you will not find anywhere else on earth.
 
-**2. Visit the Coast**
+**4. Eat a proper mezze.** Not a quick lunch, but a full Lebanese mezze with dozens of small dishes arriving over two hours. Find a restaurant with a terrace, order freely, and let the food keep coming. Hummus, baba ghanoush, kibbeh, tabbouleh, grilled halloumi, stuffed vine leaves, fresh flatbread -- this is Lebanon at the table.
 
-Standing in the Mediterranean off of Beirut's western-most tip is
-Pigeon Rock. Pigeon Rock is a massive rock formation in the sea that is a
-popular tourist destination. This is a great place to watch the sunset
-or make your way to one of Beirut's many beaches to spend the day in
-the sun.
-
-**3. The Hippodrome**
-
-Open Sunday only but free of charge, this race track was built in
-1885, and is one of the premier places to see Arabian horses in action.
-Arabian horses are one of the top breeds of horses in the world, and were
-prized possessions of the ancient nomadic people who inhabited the
-Arabian peninsula. Betting on the races is a popular pastime for
-locals and tourists alike.
-
-**4. Scuba Diving**
-
-Scuba diving in Beirut operates year-round, and you can get
-lessons and rent equipment at Kyriakos Freres Marine Diffusion. The
-coast of Beirut is full of natural and historical beauty, which makes diving a top Beirut must-do while you visit the city. The shore is dotted
-with shipwrecks and remnants of the different civilizations that
-inhabited the area. There are also sting ray and shark habitats among the many caves and canyons in this part of the Mediterranean.
-
-**5. Shoping**
-There are many malls, shops and markets in Beirut that you will not
-want to miss. You can find high-end and designer shopping in downtown
-Beirut and on Verdun Road, which boasts some of the best shopping in the Middle East. There are many malls throughout Beirut that have western
-and eastern brands as well as movie theaters and cafes. The Souk El
-Tayeb market is open every Saturday, and has traditional cheese, honey
-and bread as well as artisan crafts.
-
-**Contributors**
-March 28, 2010
+**5. Take a day trip to Byblos or Baalbek.** You could spend a week in Beirut and never leave, but the rest of Lebanon is too good to miss. [Byblos](/asia/lebanon/jbeilbyblos) is 40 minutes north -- ancient, charming, with a harbour lunch. [Baalbek](/asia/lebanon/baalbek) is further but the Roman temples there are among the most impressive ancient ruins in the world.

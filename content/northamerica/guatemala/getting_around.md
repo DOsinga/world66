@@ -1,32 +1,30 @@
 ---
-title: "Getting Around in Guatemala"
+title: "Getting Around"
 type: section
 ---
 
-**Antigua Guatemala Transportation **provides an abundant means of transportation that will take you to and from the city or within the city itself. Antigua is the former capital of Guatemala. It has been popular to world travelers because of its rich customs and wonderful spots, especially the building&rsquo;s architectural designs which are purely century-old Spanish style. It is also famous for the thousands of students who come to the place to learn the Spanish language.
+Guatemala is not a large country, but getting between destinations takes longer than maps suggest. The highlands are mountainous and winding roads are the rule.
 
-You can travel around the city by using your own car. If this is not available, you can also tour around the city by foot. The advantage of going around the city by walking is you get the chance to have a closer encounter with the beautiful places of Antigua.
+**Chicken buses**
 
-**Bus**
+The country's iconic chicken buses — retired US school buses painted in extravagant colors — are the cheapest way to travel. They connect virtually every town and village. Fares are very low (under Q15 for short hops, Q40–60 for a two- to three-hour route like Antigua to Panajachel), and the experience is genuinely local. The downsides: they are slow, sometimes crowded beyond comfort, and on rural routes can be unreliable and occasionally risky. Stick to well-traveled corridors if you use them.
 
-The bus in Antigua has a unique appearance. They call their bus &ldquo;Chicken Bus&rdquo;. This Chicken Bus is a colorful one and it is among the pride in Antigua. If you are a foreigner, do not miss riding in this distinctive bus. You cannot find this in other countries. Your travel to Antigua will be more memorable when you experience to ride in this bus of theirs. It is safe for visitors like you to ride in this kind of transportation. However, be sure you have an ample time if you really want to try this bus because this is quite slow. Additionally, the bus has no fixed departure schedule. You need to sit in the bus and wait until it is full.
+**Tourist shuttles**
 
-Chicken Bus is inexpensive so that is why it is a very popular form of transportation for the local residents and the thousands of students who come to the place to learn Spanish. Also, these Chicken Buses access a great number of routes around Antigua and to and from Antigua and Guatemala City.
+Shared minivan shuttles run between all the main tourist points — Antigua, Panajachel, Chichicastenango, Quetzaltenango, Flores, and the borders with Mexico and Belize. They cost several times more than chicken buses but pick you up at your door, drive faster, and are far easier to navigate. For most independent travelers, shuttles hit the right balance of price and convenience.
 
-**Trolley **
+**Taxis and Uber**
 
-The trolley is a new transportation service in Antigua and is designed purely for tourists. This transportation goes around the city and gives the visitors a guided tour.
+Taxis are widely available in Guatemala City and Antigua. Agree on a fare before you get in, or insist the driver use the meter. Uber operates in Guatemala City and has expanded to Antigua — it is often cheaper and simpler than negotiating with street taxis.
 
-**Taxi**
+**By air**
 
-A taxi is the most preferred form of transportation if you are going for a long distance travel. Be sure that before you take a ride, you have made a fare arrangement. If you think that the driver is charging you too much, then do the art of bargaining. If he will not bargain, you have the option to scout for more taxis. There are more taxis in Antigua. For sure, you can get one that suits your travel budget.
+TAG Airlines and Avianca run several daily flights between Guatemala City and Flores (about 1 hour). This is by far the best way to reach Tikal unless you have days to spare for the overland journey.
 
-**By Air: **Flores is served three times daily at 7:30 AM, 10:40 AM, and 6:00 PM by INTER air. The cost is listed at $110 round trip. 
+**Car rental**
 
-Write up on 22 February 04
+Renting a car gives flexibility to reach off-the-beaten-track villages and ruins. Major agencies operate at La Aurora airport. Roads in the highlands are paved but narrow and winding; the road to Cobán and routes into the Petén can be rough. Drive defensively, and avoid driving at night outside cities.
 
-Minor corrections on 22 February 04
+**Boats**
 
-We currently have no Getting Around listed in Guatemala.
-
-If you do know any Getting Around in Guatemala, please [Add].
+Lake Atitlán is navigated by lanchas (small motorboats) connecting Panajachel with the lake's villages — the main and most enjoyable way to move around the lake. Rio Dulce is also best explored by boat.

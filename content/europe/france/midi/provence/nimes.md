@@ -5,4 +5,6 @@ latitude: 43.837425
 longitude: 4.360069
 ---
 
-Nîmes is at the heart of a region steeped in the traditions of the Camargue to the south and the Cévennes hills to the north. Whether you are a lover of the arts, nature, the mountains, the sea, ‘farniente’ or activities, there is something to suit all tastes in and around Nîmes. There is a wealth of rich and varied resources around the town, with the town centre an inviting and relaxing ambience for the evenings.
+Nimes has some of the best-preserved Roman monuments anywhere. The Arena, still used for Provencal-style bullfights, rivals the Colosseum in its state of preservation. The Maison Carree is an almost perfectly intact Roman temple. The Tour Magne crowns the hill above town with panoramic views.
+
+The city sits at a crossroads: the Camargue wetlands to the south, the rugged Cevennes hills to the north, and the vineyards of the Costieres in between. It is less polished than [Avignon](/europe/france/midi/provence/avignon) or [Aix-en-Provence](/europe/france/midi/provence/aixenprovence), which means fewer tourists and lower prices, but the Roman heritage alone makes it worth the stop.

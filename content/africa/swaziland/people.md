@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 966 462 (July 1998 est.)
+Eswatini's population is around 1.2 million, almost entirely Swazi — one of the most ethnically homogeneous countries in Africa. The Swazi people trace their origins to a Nguni-speaking group that settled the region in the 18th century, establishing a kingdom that, unlike many of its neighbours, managed to survive the colonial era largely intact as a unit, though under British protection from 1903 to 1968.
 
-**Age structure:**
+The country is one of the last absolute monarchies in the world. King Mswati III, who has ruled since 1986, holds executive power. Traditional authority structures — chiefs, elders, and the royal council — remain significant at a local level and are woven into everyday life in ways that are genuinely felt rather than merely ceremonial.
 
-*0-14 years:* 46% (male 223 649; female 224 782)
+SiSwati is the national language, spoken by virtually everyone. English is the official language of government and business, and is widely understood. Road signs and menus are in English, so travelers find communication straightforward.
 
-*15-64 years:* 51% (male 238 547; female 255 137)
+The population is predominantly Christian, with a significant minority who follow traditional beliefs — and many who combine the two without contradiction. Around 60% of the population lives in rural areas, where a largely subsistence-based life persists alongside the formal economy.
 
-*65 years and over:* 3% (male 9 625; female 14 722) (July 1998 est.)
+Eswatini faces a serious HIV/AIDS epidemic: prevalence among adults has been among the highest in the world for two decades, and this has had a significant impact on demographics, healthcare, and family structures. The country has made real progress on treatment access, but the burden remains heavy.
 
-**Population growth rate:** 1.96% (1998 est.)
-
-**Birth rate:** 41 births/1 000 population (1998 est.)
-
-**Death rate:** 21.4 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.03 male(s)/female
-
-*under 15 years:* 0.99 male(s)/female
-
-*15-64 years:* 0.93 male(s)/female
-
-*65 years and over:* 0.65 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 103.37 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 38.53 years
-
-*male:* 37.31 years
-
-*female:* 39.79 years (1998 est.)
-
-**Total fertility rate:** 5.96 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Swazi(s)
-
-*adjective:* Swazi
-
-**Ethnic groups:** African 97% European 3%
-
-**Religions:** Christian 60% indigenous beliefs 40%
-
-**Languages:** English (official government business conducted in English) siSwati (official)
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 76.7%
-
-*male:* 78%
-
-*female:* 75.6% (1995 est.)
+The Swazi are known for their warmth and hospitality toward visitors. If you greet people in siSwati — even just *sawubona* (hello) — the response is invariably warm.

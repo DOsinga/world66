@@ -1,20 +1,14 @@
 ---
 title: "Ecotourism"
-type: location
+type: section
 ---
 
-Ecotourism emphasizes a minimal impact on the environment. It provides income that helps to both preserve protected areas as well as benefiting local populations, to reduce their dependence on activities possibly harmful to natural habitat.
+Costa Rica was one of the earliest countries to develop ecotourism as a serious alternative to extractive industries. The idea was simple: a living forest is worth more to the economy than a logged one. The bet has largely paid off. Tourism now accounts for a significant share of GDP, and the protected area network that makes it possible covers roughly a quarter of the national territory.
 
- Fortunately, Costa Rica, the birthplace of ecotourism, is also the place where this activity has achieved the highest level of success.Costa Rica takes pride in the fact that evrey day tens of thousands of visitors experience the incredible variety of wildlife in this natural paradise.
+The country's biodiversity is genuinely extraordinary. Though it represents only 0.03% of the earth's surface, Costa Rica holds around 5% of global biodiversity: some 900 bird species, 230 types of reptile, 165 amphibians, and over 13,000 plant species. More bird species than in all of North America. More butterfly species than all of Africa.
 
- Costa Rica, a small country,measuring 51.100 square kilometers, is replete with breathtaking landscapes and a variety of natural wealth. This small stretch of land, representing barely 0.3% of the earth's total surface area, houses 5% of the global biodiversity. Cost Rica is home to more bird species than the United States, as well as a greater variety of butterflies than all Africa. These facts demonstrate why this Central American nation of 3.5 million inhabitants has received such considerable international recognition in the area of biodiversity. 
+The diversity comes from geography. The country sits at the junction of North and South American fauna, has both Pacific and Caribbean coasts, and ranges in altitude from sea level to nearly 4,000 meters — creating rainforest, cloud forest, dry tropical forest, alpine paramo, wetlands, and coral reefs in a space you can cross in a day.
 
- Living in Costa Rica's diverse habitats and ecosystems are: 13 thousand plant species, 2000 moth and 4500 butterfly species, 163 varieties of amphibians, 220 types of reptiles, 1600 species of fresh and salt water fish, and at least 850 sorts of birds.
+The main ecotourism activities are hiking in national parks, birding, wildlife tours, turtle-watching, canopy tours (zip lines and hanging bridges through the forest canopy), white-water rafting, and kayaking through the Tortuguero canals.
 
- The extensive landscape also boasts many different types of forests, including, deciduous, mangrove swamps, rain forests, herbaceous ponds, cloud forests, moors, palm groves, oak woods, coral reefs, riparian forests and swamp groves.
-
- Costa Rica's environmental wonders are extensive volcanoes, several of which are active and produce relaxing thermal springs, are some of Costa RIca's most popular attractions. There are deep caves to explore and preColumbian settlements site of many meso-American archaeological studies. These are all part of a vast system of 21 national parks, 9 wildlife refuges, 13 biological reserves, 12 forest reserves and 24 protected zones, covering 25% of the national territory.
-
- The Costa Rican Government, in an effort to prederve teh natural riches of this contry, is currently implementing sustainable development policies that foster the adequate use of natural resources.
-
- This section has been edited with material from  Travel Excellence
+When choosing a tour operator, look for ones certified by the Costa Rican Tourism Board (ICT) and the Certification for Sustainable Tourism (CST) program, which rates businesses on environmental and social criteria. Cheap operations that cut corners often do so at the expense of wildlife welfare or local communities.

@@ -3,6 +3,10 @@ title: "Angola"
 type: location
 latitude: -11.2027
 longitude: 17.8739
+image: angola.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Mini_oasis_in_the_namibe_desert,_Angola.JPG"
+image_license: "CC0"
+image_attribution: "Paulo César Santos"
 ---
 
 Angola is one of Africa's most striking and least visited countries. It has the oil wealth of a Gulf state, the colonial architecture of Portugal, the wildlife of East Africa, and the beaches of Brazil -- yet almost no tourists. Decades of civil war kept the country closed until 2002, and the aftereffects still shape the experience of traveling here. Infrastructure is improving fast, but Angola remains expensive, bureaucratic, and rough around the edges. That is part of its appeal.

@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 26 111 110 (July 1998 est.)
+Peru has around 33 million people. About 60% identify as mestizo — mixed indigenous and European ancestry — while around 22% identify as Quechua and 2.4% as Aymara. Smaller communities of African, Japanese, and Chinese descent have shaped the country's culture, particularly its food, out of all proportion to their numbers.
 
-**Age structure:**
+Spanish is the first language for most Peruvians (around 83%), but Quechua is spoken as a first language by nearly 14% of the population, mostly in the Andes. Aymara speakers are concentrated around Puno and Lake Titicaca. Both are recognized as official languages alongside Spanish.
 
-*0-14 years:* 36% (male 4 745 363; female 4 589 017)
+The country is majority Roman Catholic, though in practice Andean spirituality and Catholic practice have blended deeply. Festivals in the highlands typically honour both a Christian saint and an older agricultural or astronomical cycle; the line between the two is often invisible.
 
-*15-64 years:* 60% (male 7 856 414; female 7 752 085)
+Peru is a highly unequal society. Lima concentrates wealth, infrastructure, and services in a way that leaves much of the interior, particularly indigenous Andean and Amazonian communities, underserved. This tension is a recurring theme in Peruvian politics and society.
 
-*65 years and over:* 4% (male 535 566; female 632 665) (July 1998 est.)
-
-**Population growth rate:** 1.97% (1998 est.)
-
-**Birth rate:** 26.69 births/1 000 population (1998 est.)
-
-**Death rate:** 5.81 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -1.15 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 1.01 male(s)/female
-
-*65 years and over:* 0.85 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 43.42 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 69.97 years
-
-*male:* 67.78 years
-
-*female:* 72.25 years (1998 est.)
-
-**Total fertility rate:** 3.31 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Peruvian(s)
-
-*adjective:* Peruvian
-
-**Ethnic groups:** Amerindian 45% mestizo (mixed Amerindian and white) 37% white 15% black Japanese Chinese and other 3%
-
-**Religions:** Roman Catholic
-
-**Languages:** Spanish (official) Quechua (official) Aymara
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 88.7%
-
-*male:* 94.5%
-
-*female:* 83% (1995 est.)
+Mario Vargas Llosa — awarded the Nobel Prize in Literature in 2010 — is Peru's most internationally recognized writer. His novels, including *Conversation in the Cathedral* and *The Green House*, are among the most searching portrayals of Peruvian society in any language.

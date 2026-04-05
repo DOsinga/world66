@@ -1,11 +1,9 @@
 ---
-title: "Farmington"
+title: 'Farmington'
 type: location
-latitude: 44.640243
-longitude: -93.14355
+latitude: 36.7281
+longitude: -108.2187
 ---
-
-Travel Guide
 
 Farmington is a large city in the northwest corner of the state. It sits on three rivers: the San Juan, the La Plata, and the Animas. Started as an agricultural town that supplied the mining communities to the north in the San Juan mountains, Farmington has grown due to an influx of retirees who seek a temperate place in the southwest.
 

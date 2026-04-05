@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Apeldoorn can be conveniently reached by railway. There are direct lines running each hour from Utrecht, Amsterdam, Enschede, Groningen and Leeuwarden. There’s also a line with one change each hour. 
+Apeldoorn has direct hourly train connections from Amsterdam (about 55 minutes), Utrecht, Enschede, Groningen and Leeuwarden. From Amsterdam, trains run every 30 minutes during peak hours. A one-way ticket from Amsterdam costs around EUR 14 in second class.
 
-By car there are two freeways, the A1 running east from Amsterdam and the A50 southward bound from Groningen to Arnhem.
+By car, the A1 motorway runs east from Amsterdam and the A50 connects Groningen in the north to Arnhem in the south, both passing through Apeldoorn.

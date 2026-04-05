@@ -1,125 +1,20 @@
 ---
-title: "Sights in Qatar"
+title: "Sights"
 type: section
 ---
 
-Qatar
-sights are a real fest to the sense of sight. Qatar has a host of
-tourist destinations and a quick getaway to this place or for that
-matter, a prolonged vacation will prove the fact that Qatar sights are
-sure to stay in your memory album forever. Throughout the tour, you will
-find yourself busy roaming to places but still at the end you will be
-sure that a vacuum has not yet been filled. Yes, such is the excitement
-of visiting this place.
+Qatar's main sights are concentrated in [Doha](/asia/qatar/doha). Outside the capital, there are a handful of genuinely worthwhile destinations — but the drive to reach them is part of the experience.
 
-The
-beautiful heritage of the Qatar subcontinent has been vividly
-highlighted by its tourist spots. This spots in some way or the other
-also help to promote the rich culture of the nation. Each of the
-destinations has something new in store that will surely enchant and
-enamor the tourists. Let’s explore some of the tourist destinations that
-are extremely popular with the tourists visiting Qatar.
+**Museum of Islamic Art (MIA)** is the standout. Designed by I.M. Pei and opened in 2008, it sits on its own island off the Doha Corniche and houses one of the world's finest collections of Islamic art and objects from the 7th to 19th centuries — metalwork, ceramics, textiles, manuscripts, and jewelry from Spain to Central Asia. The building itself is extraordinary. Budget a half day. There is a good cafe and a restaurant on the top floor (IDAM, by Alain Ducasse).
 
-Al
-Khor – It is known to be quite a serene destination in Qatar. If you
-want to make an escape far from the maddening crowd, then this is the
-place to be. The natural beauty is sure to delight your sense of sight
-to an extreme. The pleasant view of numerous watchtowers sited at a
-short proximity from the Corniche is another delight in itself.
+**National Museum of Qatar** opened in 2019 in a building designed by Jean Nouvel, with interlocking disc shapes meant to evoke a desert rose crystal. Eleven galleries trace the story of Qatar from geological prehistory through the pearl-diving era to modern gas wealth. The multisensory exhibits on Bedouin life and pearl diving are the highlights. It is a few minutes' walk from Souq Waqif.
 
-Doha
-– It is by far the most famous tourist spot in Qatar. This place is
-known for its unique charm and grandeur. The establishment of this city
-was completed somewhere around 1850 and since then it has attracted
-tourists and visitors from all across the globe. Doha features several
-museums, which brilliantly showcases the traditions and culture of the
-Qatari populace. Out of all the museums The Qatar National Museum holds a
-significant place and nicely illustrates the culture of the nation.
-Again the Ethnographic Museum portrays the history of the progress of
-this nation from that of an emirate to a financial power house that it
-is at present.
+**Souq Waqif** is the old market quarter of Doha, rebuilt and restored in the early 2000s. It is more tourist-friendly than some souqs, but not entirely without substance — the spice market, the falcon souq, and the Arabic coffee shops are worth your time. Evenings are the best time to go when the temperature drops and locals come out.
 
-Dukhan
-- Historical landmarks are other prominent sights in Qatar. Dukhan for
-instance is sited at a close proximity of about 80 kilometers from the
-site of Doha. It can also be described as the original place where oil
-was first found. It is from here that the meek fishing ground converted
-itself into a terrific resource powerhouse.
+**Zubarah Fort** on the northwest coast, about 90 km from Doha, is a UNESCO World Heritage Site. The fort itself dates from 1938, but it sits next to the ruins of an 18th-century pearling and trading town that was abandoned after being sacked in 1811. The archaeological site is extensive. It is a rewarding half-day trip if you have a car.
 
-Al
-Zubra – This is yet another city which very well marks the historical
-development of Qatar. This place now houses a disused fort that very
-well saw the light of the day till 1980s. now a military base has been
-planted and is fully functional in the middle of the ancient castle.
+**Khor Al Udeid** — the Inland Sea — in the far southeast requires a 4WD and about two hours from Doha. The landscape is remarkable: high golden dunes meeting a calm inlet of the Gulf, with Saudi Arabia visible on the other side. Tour operators can take you there without a 4WD if you prefer. See [Al Khor](/asia/qatar/khor) for more detail.
 
-Qatar
-sights are just not numbered. There are plenty of places that deserve
-your detailed attention rather than just a quick glance. Probably you
-cannot end up seeing the whole of Qatar in your first visit. The
-pristine sandy beaches that embraces the shores or the artificially
-constructed resorts that have sprung up like tiny dots across the
-lengths and breadths of the nation make this destination a hot spot
-where tourists like to return time and again to rejuvenate their
-spirit.
+**Al Wakrah old town** has been sensitively restored and has a smaller, quieter souq that most tourists miss. Worth the 30-minute drive south from Doha.
 
-************************************
-
-**Qatar sights** are a real fest to the sense of sight. Qatar has a
-host of tourist destinations and a quick getaway to this place or for
-that matter, a prolonged vacation will prove the fact that Qatar sights
-are sure to stay in your memory album forever. Throughout the tour, you
-will find yourself busy roaming to places but still at the end you will
-be sure that a vacuum has not yet been filled. Yes, such is the
-excitement of visiting this place.
-
-The beautiful heritage of the Qatar subcontinent has been vividly
-highlighted by its tourist spots. These spots in some way or the other
-also help to promote the rich culture of the nation. Each of the
-destinations has something new in store that will surely enchant and
-enamor the tourists. Let’s explore some of the tourist destinations that
-are extremely popular with the tourists visiting Qatar.
-
-**Al Khor**
-
-It is known to be a serene destination in Qatar. If you want to make
-an escape far from the maddening crowd, then this is the place to be.
-The natural beauty is sure to delight your sense of sight to an extreme.
-The pleasant view of numerous watchtowers sited at a short proximity
-from the Corniche is another delight in itself.
-
-**Doha**
-
-It is by far the most famous tourist spot in Qatar. This place is
-known for its unique charm and grandeur. The establishment of this city
-was completed somewhere around 1850 and since then it has attracted
-tourists and visitors from all across the globe. Doha features several
-museums, which brilliantly showcases the traditions and culture of the
-Qatari populace. Out of all the museums The Qatar National Museum holds a
-significant place and nicely illustrates the culture of the nation.
-Again the Ethnographic Museum portrays the history of the progress of
-this nation from that of an emirate to a financial power house that it
-is at present.
-
-**Dukhan**
-
-Historical landmarks are other prominent sights in Qatar. Dukhan for
-instance is sited at a close proximity of about 80 kilometers from the
-site of Doha. It can also be described as the original place where oil
-was first found. It is from here that the meek fishing ground converted
-itself into a terrific resource powerhouse.
-
-**Al Zubra**
-
-This is yet another city which very well marks the historical
-development of Qatar. This place now houses a disused fort that very
-well saw the light of the day till 1980s. Now, a military base has been
-planted and is fully functional in the middle of the ancient castle.
-
-Qatar sights are just not numbered. There are plenty of places that
-deserve your detailed attention rather than just a quick glance.
-Probably you cannot end up seeing the whole of Qatar in your first
-visit. The pristine sandy beaches that embraces the shores or the
-artificially constructed resorts that have sprung up like tiny dots
-across the lengths and breadths of the nation make this destination a
-hot spot where tourists like to return time and again to rejuvenate
-their spirit.
+The **2022 World Cup stadiums** scattered around Doha and its suburbs are open for tours and host regular football matches. Lusail Stadium — the largest, which hosted the final — is the most impressive, a golden lattice structure in the purpose-built city of Lusail north of Doha.

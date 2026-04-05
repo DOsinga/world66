@@ -1,26 +1,14 @@
 ---
-title: "Chicago"
+title: 'Chicago'
 type: location
-latitude: 41.875562
-longitude: -87.624421
+latitude: 41.8756
+longitude: -87.6244
 ---
 
-Since its humble beginnings in the beginning of the
- nineteenth century --- by 1835 it was just a little
- village on the Chicago River --- it has boomed with
- activity and received quite appropriately the name
- "The Working City". By 1870 it had become the second
- city in the nation, catching up fast with New York
- City. Then in 1871 what started as a small fire in
- a stable far to the west of the city center, became
- a blazing inferno that destroyed the whole inner 
- city. But the people of the city were resilient and
- it fought back, creating a whole new style of 
- architecture in the process, called the Skyscraper.
- Yes, that's right, even today downtown Chicago is
- the beautiful early laboratory of this new form of
- building. But there is more to Chicago than just 
- the architecture. The city is vibrant with an 
- excellent Jazz and Blues scene, two great ballparks,
- good food in the Near North and much more. It's
- history is always just around the corner.
+Chicago is one of the great American cities, and unlike New York or Los Angeles, it still feels like a surprise to many visitors. The skyline alone is worth the trip -- this is where the skyscraper was invented, and the downtown Loop remains an open-air museum of architectural ambition from the 1880s to the present day.
+
+But architecture is just the beginning. Chicago has a world-class food scene that runs from deep-dish pizza joints and legendary hot dog stands to some of the country's finest restaurants. The blues and jazz heritage is real and still alive in clubs on the South and West sides. Two baseball teams split the city's loyalties, and the lakefront stretches for miles with beaches, parks, and bike paths that make you forget you are in the middle of the continent.
+
+The city is organized around its neighborhoods, each with its own character. The Loop is the business and cultural center. The Near North side has the Magnificent Mile shopping strip and River North's restaurants. Lincoln Park and Lakeview are green and residential. Wicker Park and Bucktown draw the younger creative crowd. Pilsen is the heart of Mexican Chicago. Hyde Park, on the South Side, is home to the University of Chicago and Frank Lloyd Wright's Robie House.
+
+Chicago winters are genuinely cold -- the "Windy City" nickname understates it. But summer and early fall are glorious, with festivals nearly every weekend and the whole city spilling out onto patios and beaches. If you can handle the weather, Chicago rewards you with a city that works hard and knows how to have a good time.

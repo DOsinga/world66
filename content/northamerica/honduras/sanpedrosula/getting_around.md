@@ -3,30 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-SERVICIOS MULTIPLES CYBER
-
-PC RENTAL INTERNATIONAL CALLS
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=northamerica|honduras)
-
-[](/lib/map/handle?loc=northamerica|honduras|sanpedrosula)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The safest way to get around San Pedro Sula is by radio-dispatched taxi. Ask your hotel to call one rather than hailing cabs on the street. Local buses exist but are not recommended for visitors due to safety concerns. The city is laid out on a grid system inherited from its colonial past, with numbered streets and avenues divided into quadrants (noroeste, noreste, suroeste, sureste), which makes navigation straightforward if you have a map.

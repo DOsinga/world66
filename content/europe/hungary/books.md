@@ -3,102 +3,16 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Budapest 1900: A Historical Portrait of a City and Its Culture** by John Lukacs (isbn: 0802132502) — A vivid account of fin-de-siècle Budapest at its imperial peak, when the city was one of Europe's most dynamic capitals. Essential background for any visitor.
 
-**Budapest and the Best of Hungary:With City Strolls and Scenic Day Trips**
+**Under the Frog** by Tibor Fischer — A darkly comic novel set in communist Hungary, following a basketball team through the late 1940s to the 1956 uprising. Fischer is Hungarian-British and writes with real insider bitterness and wit.
 
+**Fatelessness** by Imre Kertész (isbn: 9780810129177) — Hungary's only Nobel laureate in literature tells the story of a teenage Jewish boy deported from Budapest to the Nazi camps. Spare, strange, and unforgettable. Essential reading for understanding the Hungarian Jewish experience.
 
+**The Paul Street Boys** by Ferenc Molnár — A classic Hungarian novel about rival street gangs in turn-of-the-century Budapest. Beloved across Central Europe.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028620828/ref=ase_osingacom?v=glance&s=books)
+**I Have Lived a Thousand Years** by Livia Bitton-Jackson (isbn: 0689823959) — A memoir of survival in the Holocaust, written for younger readers but powerful for all ages.
 
-author: Joseph S. Lieber,Christina Shea
+**Ballad of the Whiskey Robber** by Julian Rubinstein — A nonfiction account of Attila Ambrus, the Romanian-Hungarian refugee who became the most wanted bank robber in post-communist Hungary while playing amateur ice hockey on the side. Genuinely incredible.
 
-isbn: 0028620828
-
-subject: travel
-
-**Lonely Planet Hungary:A Travel Survival Kit**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0864424523/ref=ase_osingacom?v=glance&s=books)
-
-author: Steve Fallon
-
-isbn: 0864424523
-
-subject: travel
-
-**Budapest 1900:A Historical Portrait of a City and Its Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0802132502/ref=ase_osingacom?v=glance&s=books)
-
-author: John Lukacs
-
-isbn: 0802132502
-
-subject: culture
-
-**Fodor's Eastern and Central Europe '99:Bulgaria, Czech Republic, Hungary, Poland, Romania, Slovakia**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679000119/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor Travel Publications,Fodor's Travel
-
-isbn: 0679000119
-
-subject: travel
-
-**Fin-de-Siecle Vienna:Politics and Culture**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0394744780/ref=ase_osingacom?v=glance&s=books)
-
-author: Carl E. Schorske
-
-isbn: 0394744780
-
-subject: culture
-
-**Liszt**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0711916829/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0449219771/ref=ase_osingacom?v=glance&s=books)
-
-author: William L. Shirer
-
-isbn: 0449219771
-
-subject: history
-
-**I Have Lived a Thousand Years:Growing up in the Holocaust**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0689823959/ref=ase_osingacom?v=glance&s=books)
-
-author: Livia Bitton-Jackson
-
-isbn: 0689823959
-
-subject: history
-
-**Hitler's Vienna:A Dictator's Apprenticeship**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0195125371/ref=ase_osingacom?v=glance&s=books)
-
-author: Brigitte Hamann,Thomas Thornton (Translator)
-
-isbn: 0195125371
-
-subject: history
+**Rough Guide to Hungary** or **Lonely Planet Hungary** — Either is a solid practical companion. The Rough Guide tends to be stronger on history and context; Lonely Planet better on logistics.

@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Santa Barbara"
+title: "Day Trips"
 type: section
 ---
 

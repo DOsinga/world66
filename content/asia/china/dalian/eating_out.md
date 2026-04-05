@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-## Categories
-
-[Chinese](/asia/china/dalian/eatingout?subsection=Chinese)
-
-[Korean & Japanese](/asia/china/dalian/eatingout?subsection=Korean%20%26%20Japanese)
+Dalian's position on the coast means seafood dominates the menu. Sea cucumber, abalone, and various shellfish are local specialities. Korean and Japanese food is widely available, a legacy of close historical ties with both countries. The markets around Qingniwa Street are a good place to eat cheaply and watch locals shop.

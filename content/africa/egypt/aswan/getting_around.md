@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Aswan"
+title: Getting Around
 type: section
 ---
 

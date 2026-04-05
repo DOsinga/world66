@@ -3,98 +3,30 @@ title: "Books"
 type: section
 ---
 
-**Books**
+## Travel Guides
 
-**Frommer's Germany '99**
+**Rick Steves Germany** — Updated annually, practical and opinionated, excellent for first-time visitors. Strong on the Bavaria-Rhineland circuit and Berlin.
 
+**Lonely Planet Germany** — Good all-round coverage, better than most for eastern Germany and off-the-beaten-path destinations.
 
+## History
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028622758/ref=ase_osingacom?v=glance&s=books)
+**Germania** by Simon Winder — A genial, oddly personal journey through German history, focussing on the small states and princely eccentricities rather than the big dark episodes. Surprisingly good company.
 
-author: Darwin Porter,Arthur Frommer,Danforth Prince
+**The Anatomy of Fascism** by Robert O. Paxton — Not Germany-specific, but essential for understanding how it happened. Better than most books focused only on Hitler.
 
-isbn: 0028622758
+**Stalingrad** by Antony Beevor — The definitive account of the battle that broke the Eastern Front. Harrowing and authoritative.
 
-subject: travel
+**Berlin: The Downfall 1945** by Antony Beevor — A companion volume covering the last months of the war in Germany.
 
-**Rick Steves' Germany, Austria and Switzerland 1999**
+## Fiction and Literature
 
+**All Quiet on the Western Front** by Erich Maria Remarque — The definitive anti-war novel, written by a German about German soldiers in World War One. Still devastating.
 
+**Faust** by Johann Wolfgang von Goethe — The defining work of German literature. Faust Part One at least is accessible; Part Two is a slog even in German.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1562614630/ref=ase_osingacom?v=glance&s=books)
+**Buddenbrooks** by Thomas Mann — A portrait of a Lübeck merchant family's decline over generations. Mann's most readable novel.
 
-author: Rick Steves
+**Berlin Alexanderplatz** by Alfred Döblin — The great Weimar Republic Berlin novel, raw and modernist, set in the working-class streets of 1920s Berlin.
 
-isbn: 1562614630
-
-subject: travel
-
-**Fodor's Germany '99**
-
-love
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-//ref=ase_osingacom?v=glance&s=books)
-
-subject: travel
-
-**The Doctor Faustus**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0451524772/ref=ase_osingacom?v=glance&s=books)
-
-author: ](http://www.amazon.com/exec/obidos/tg/detail/-/0812049918/ref=ase_osingacom?v=glance&s=books)
-
-author: Ann Rachlin,Susan Hellard (Illustrator)
-
-isbn: 0812049918
-
-subject: culture
-
-**Faust:Part One, Vol. 1**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0140440127/ref=ase_osingacom?v=glance&s=books)
-
-author: Johann Wolfgang von Goethe,Philip Wayne (Tran..
-
-isbn: 0140440127
-
-subject: culture
-
-**All Quiet on the Western Front**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0449213943/ref=ase_osingacom?v=glance&s=books)
-
-author: Erich Maria Remarque,A. W. Wheen (Translator)
-
-isbn: 0449213943
-
-subject: history
-
-**Citizen Soldiers:The U.S. Army From the Normandy Beaches to the Bulge to the Surrender of Germany, June 7, 1944 - ..**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684848015/ref=ase_osingacom?v=glance&s=books)
-
-author: Stephen E. Ambrose
-
-isbn: 0684848015
-
-subject: history
-
-**The Times of My Life and My Life with the Times**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679448241/ref=ase_osingacom?v=glance&s=books)
-
-author: Max Frankel
-
-isbn: 0679448241
-
-subject: history
+**The Reader** by Bernhard Schlink — A short, morally uncomfortable novel about guilt, complicity, and the postwar generation. Widely read in Germany.

@@ -6,6 +6,7 @@ tools/image_progress.json
 tools/locations.json
 tools/site_index.json
 tools/*.tmp
+search.db
 venv/
 staticfiles/
 __pycache__/
@@ -13,3 +14,9 @@ __pycache__/
 *.pyo
 .DS_Store
 .idea/
+/.python-version
+/pyproject.toml
+/uv.lock
+/.env
+.claude/worktrees/
+/tasks/2026-03-29-001-feat-photo-finder-tool-plan.md

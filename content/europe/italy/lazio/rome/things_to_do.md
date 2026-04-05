@@ -1,6 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Rome is a city with a lot of things you can do. The beach is not far away, there are hill resorts nearby and there are a few excellent racing tracks just around the corner.
+Rome's sights span 2,500 years of continuous history, from republican-era temples to Baroque fountains to contemporary art foundations. The centro storico holds most of the major monuments within walking distance of each other; the Vatican is a separate half-day; the Borghese Gallery and the Ostiense district require short trips out.
+
+Use the filters below to browse by type.

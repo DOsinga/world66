@@ -1,10 +1,12 @@
 ---
-title: "Faro"
+title: 'Faro'
 type: location
 latitude: 37.016294
 longitude: -7.935182
 ---
 
-Most visitors to the Algarve fly into Faro, grab a hire car, and head straight for the beaches — which is a shame, because the old town has real character. The Cidade Velha (Old City) is enclosed by Roman walls and packed with medieval churches, convents, and a cathedral with a tower you can climb for views over the Ria Formosa lagoon. Faro isn't trying to compete with the resort towns to the west; it's a working Portuguese city with decent restaurants, local cafes, and a university that keeps things lively out of season.
+Faro is the capital of the Algarve and home to the region's international airport, making it the first stop for most visitors. Many people rush straight to the beach resorts, but the town itself deserves at least a day.
 
-The Ria Formosa Natural Park — a protected lagoon system of barrier islands, salt marshes, and tidal flats — is largely accessible from Faro and is one of Portugal's most important wetlands for birdlife.
+The old town sits within medieval walls, entered through the ornate **Arco da Vila**. Inside you will find the Cathedral with its Roman-Gothic origins, the **Nossa Senhora da Assunção Convent**, and quiet cobbled squares. The **Capela dos Ossos** (Chapel of Bones) at the Carmelite Church is one of Portugal's most unusual sights — its walls are lined with over a thousand skulls and bones.
+
+Faro is also the gateway to the **Ria Formosa Natural Park**, a lagoon system of barrier islands, salt marshes, and tidal flats stretching along the coast. It is one of Portugal's most important wetlands for birdlife, and ferries run from Faro to island beaches with warm, clear water and far fewer crowds than the resort towns to the west.

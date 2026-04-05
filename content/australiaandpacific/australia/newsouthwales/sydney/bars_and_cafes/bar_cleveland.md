@@ -1,10 +1,10 @@
 ---
-title: "Bar Cleveland"
+title: 'Bar Cleveland'
 type: poi
-address: "433 Cleveland St, Surry Hills 2010, NSW, Australia"
-phone: "+6129698 1908"
-latitude: -33.88965
-longitude: 151.205897
+address: '433 Cleveland St, Surry Hills'
+phone: '+61 2 9698 1908'
+latitude: -33.8897
+longitude: 151.2059
 ---
 
-This heritage listed building dates
+A heritage-listed pub in Surry Hills with character to spare. Good beer selection and a solid neighbourhood atmosphere.

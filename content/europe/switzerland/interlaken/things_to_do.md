@@ -1,9 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Tandem Hang Gliding flights.....a must for anyone who wants to fly like a bird and see the alps from above! go to www.hangglidinginterlaken.com
-
-**Contributors**
-April 28, 2006
+Interlaken is built for doing, not just looking. The Jungfrau region offers some of Europe's most dramatic mountain scenery, and the town itself has enough sights and activities to fill the days between adventures.

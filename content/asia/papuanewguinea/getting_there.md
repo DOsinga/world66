@@ -3,42 +3,20 @@ title: "Getting There"
 type: section
 ---
 
-**By Air** 
+**By Air**
 
-Most travellers arrive in Papua New Guinea from Australia. The capital city of Port Moresby happens to be the gateway to most tourists, though another international airport has been made operational recently at Alotau. The national airline, Air Niugini, operates to Sydney, Brisbane, Cairns, Singapore, Manila, Hong Kong, and Vanimo in Indonesia. Qantas also has flights from Sydney, Brisbane, and Cairns. Solomon Airlines flies from Honiara in the Solomon Islands and provides access to further destinations in South Pacific.
+Almost everyone arrives at Jacksons International Airport in Port Moresby. Air Niugini, the national carrier, has direct flights from Sydney, Brisbane, Cairns, Singapore, Manila, Hong Kong, Nadi (Fiji), and Honiara (Solomon Islands). Qantas flies from Sydney, Brisbane, and Cairns. From Brisbane the flight takes about three hours.
 
- 
+A second international gateway at Tokua Airport near Rabaul in New Britain handles some regional traffic, and Air Niugini also operates internationally into Mount Hagen and Lae on selected routes.
 
-**By Boat** 
+**Visas**
 
-It is not possible to enter the country by land as the land route from Irian Jaya is closed. For the adventurous tourists, local contacts are available from Vanimo. Entry by sea is also almost impossible, though a few cruises and yachts occasionally arrive at Port Moresby, Madang, and Miline Bay. 
+Citizens of many countries — including Australia, the US, Canada, the UK, and EU member states — can get a 60-day tourist visa on arrival. You will need a passport valid for at least six months, proof of onward travel, and sufficient funds. A digital arrival card must be completed online within 72 hours before landing; this is free and mandatory since October 2025.
 
-**Points of Interest**
+If your country is not on the visa-on-arrival list you will need to apply in advance. Check with the PNG Immigration and Citizenship Authority or your nearest PNG embassy before you travel, as policies change.
 
-**Air Niugini, **
+You will also need a yellow fever vaccination certificate if you are arriving from a country with yellow fever transmission risk.
 
+**By Sea**
 
-
-fax: 273482
-
-address: Port Moresby,
-
-tel: 273200
-
-**Singapore Airlines, **
-
-
-
-address: Port Moresby,
-
-tel: 213975
-
-**Qantas, **
-
-
-
-fax: 213073
-
-address: Port Moresby,
-
-tel: 211200
+There is no regular passenger ferry service to PNG from outside the country. A handful of cargo ships and occasional cruise ships put into Port Moresby, Madang, and Milne Bay, but this is not a practical option for most travelers. The land border with Indonesia (West Papua) is technically open at Vanimo but requires advance arrangements; most visitors do not use this route.

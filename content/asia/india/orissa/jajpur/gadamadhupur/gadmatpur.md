@@ -1,8 +1,8 @@
 ---
-title: "Gadmatpur"
+title: 'Gadmatpur'
 type: location
+latitude: 20.8500
+longitude: 86.0833
 ---
 
-Travel Guide
-
-Medium
+Gadmatpur is a small village in Jajpur district.

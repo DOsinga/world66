@@ -1,11 +1,10 @@
 ---
-title: "Vila Real"
+title: 'Vila Real'
 type: location
-latitude: 41.52293
-longitude: -7.546631
+latitude: 37.194
+longitude: -7.416
 ---
 
-Vila Real de Santo António (normally shortened to just Vila Real) is the main border town between [Spain](/europe/spain) and the South-East of Portugal. The closeness of Ayamonte in Spain (just a few minutes ferry journey across the Guadiana River - there is also a new bridge) can be seen in the way that shops show their prices in both currencies. (Some really keen ones even show prices in other currencies as well).
+Vila Real de Santo Antonio (usually just 'Vila Real') is the main border town between [Spain](/europe/spain) and the southeastern Algarve. The Guadiana River separates it from Ayamonte on the Spanish side -- you can cross by ferry in a few minutes or drive over the bridge.
 
-
- Apart from travelling across the river to Spain the only item of interest to the tourist is the main square. This, cardinally arranged, tiled square tries to emulate that of [Seville](/europe/spain/andalucia/seville) but while it is worth a look it does not have Seville's ambience or style.
+The town's main attraction is its central square, a grid-planned, tile-decorated plaza that was designed to echo [Seville](/europe/spain/andalucia/seville). It does not quite reach that standard, but it is a pleasant spot for a coffee. Vila Real is more of a transit point than a destination, but the riverside promenade is worth a stroll, and the proximity to Spain makes for an easy day trip across the border.

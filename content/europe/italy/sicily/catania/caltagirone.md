@@ -1,13 +1,11 @@
 ---
-title: "Caltagirone"
+title: 'Caltagirone'
 type: location
-latitude: 37.237201
-longitude: 14.513202
+latitude: 37.2372
+longitude: 14.5132
 ---
 
-Travel Guide
-
-** Caltagirone ** , in the province of Catania, is a
+**Caltagirone** , in the province of Catania, is a
 city of some 39,000 inhabitants. To 68 km from Catania, the city dominate the
 "*piana di Catania*" and Gela.
 

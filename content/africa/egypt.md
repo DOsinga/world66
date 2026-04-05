@@ -1,32 +1,24 @@
 ---
-title: "Egypt"
-type: location
 latitude: 26.254049
 longitude: 29.267547
+title: Egypt
+type: location
+image: egypt.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Katharinenkloster_Sinai_BW_2.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Berthold_Werner" title="User:Berthold Werner">Berthold Werner</a>'
 ---
 
-Egypt does not need an introduction. It was the introduction to human civilization itself, and has all the evidence to show for it. 
+Egypt is one of the world's great destinations, and has been for thousands of years. The monuments are staggering in scale and age, the Nile Valley is lush and beautiful, and the culture -- ancient and modern -- is endlessly fascinating. It is also loud, chaotic, and occasionally exhausting. That is part of the deal.
 
+Most visitors start in [Cairo](/africa/egypt/cairo), and they should. The city is enormous and overwhelming, but the Pyramids of Giza are right there on its western edge, and the Egyptian Museum holds treasures that justify the trip on their own. Cairo is also a living city of over 20 million people, with medieval Islamic architecture, buzzing souks, and some of the best street food in the Middle East.
 
+From Cairo, the classic route heads south along the Nile. [Luxor](/africa/egypt/luxor) is the ancient city of Thebes, with the Valley of the Kings on one bank and the vast Karnak Temple complex on the other. [Aswan](/africa/egypt/aswan) is smaller and more relaxed, set among granite islands and Nubian villages, and the starting point for trips to Abu Simbel. A Nile cruise between Luxor and Aswan remains one of the great travel experiences -- three or four days of temples, farmland, and river light.
 
+[Alexandria](/africa/egypt/alexandria) on the Mediterranean coast has a different feel entirely: cosmopolitan, literary, faded but charming. The new Bibliotheca Alexandrina is worth the visit, and the seafood is excellent.
 
+The Red Sea coast draws a different crowd. [Hurghada](/africa/egypt/hurghada) is the biggest resort town, with world-class diving and snorkeling on coral reefs. [Sharm el Sheikh](/africa/egypt/sharmelsheikh) sits at the southern tip of the Sinai Peninsula, combining beach resorts with easy access to Ras Mohammed National Park. [Dahab](/africa/egypt/dahab) is the backpacker and freediver favorite -- laid-back, cheap, and right next to the Blue Hole, one of the most famous dive sites on earth.
 
+The Sinai also holds Mount Sinai and St. Catherine's Monastery, both worth the predawn climb for the sunrise. And further west, [Siwa](/africa/egypt/siwa) is a remote oasis near the Libyan border with salt lakes, palm groves, ancient ruins, and a pace of life that feels like a different country entirely.
 
-
-Tour Egypt from the lively Nile Valley , to the solitary deserts, to the diversity of the [Sinai desert](/africa/egypt/sinaidesert) , to the lush oases, to the exotic underwater life of the Red Sea , to the Mediterranean beaches. *"Now, let me talk more of Egypt for it has a lot of admirable things and what one sees there is superior to any other country."* - Herodotus, 500 BCE 
-
-*"...In Egypt all the operations of the powers which rule and work in heaven have been transferred to earth below...It should rather be said that the whole cosmos dwells in [Egypt] as in its sanctuary..." 
-
-"There will come a time when ... the gods will return from earth to heaven; Egypt will be forsaken, and the land which was once the home of religion will be left desolate, bereft of the presence of its deities."* 
-
-- Ascleptus III (25 BCE), Hermetic Texts 
-
-Even though much of what Herodotus witnessed has been ruined by the cruelty of later generations, his statement is still valid to this day. Today's Egyptians have abandoned their ancient heritage for a mostly Moslem Arabic-speaking nation. Happily, they have maintained their friendly, hospitable, and warm characteristics. 
-
-[Cairo](/africa/egypt/cairo) , the capital is the place to start. It has the Pyramids, th Sphinxs, the Egyptian Museum, many more sights and more than ten million cairenes to share the experience. [Alexandria](/northamerica/unitedstates/virginia/alexandria) , the second city of the country has its fair share of historic sights as well and with its location on the Mediterranean it is an ideal spot for your holidays. 
-
-The south of Egypt has many impressive temples and graves from Pharaonic times. [Luxor](/africa/egypt/luxor) , [Aswan](/africa/egypt/aswan) and [Abu Simbel](/africa/egypt/abusimbel) should all be on your to do list. 
-
-The Red Sea hs great scuba diving : [Hurghada](/africa/egypt/hurghada) is world famous for its under water world. 
-
-*Em Hetep* (*In Peace*, in ancient Egyptian language).
+Egypt is not always easy. Traffic in Cairo is legendary, touts at tourist sites can be relentless, and the bureaucracy is formidable. The summer heat in Upper Egypt is brutal -- 45 degrees in Luxor is not unusual. But Egyptians are genuinely warm and hospitable people, the food is delicious and cheap, and the history on display here is simply unmatched anywhere on earth.

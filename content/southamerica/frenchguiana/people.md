@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 162 547 (July 1998 est.)
+French Guiana has a population of around 300,000, making it one of the least densely populated territories in the world given its size. The population is young, fast-growing, and extraordinarily diverse.
 
-**Age structure:**
+The largest group is Creole — people of mixed African and European descent whose ancestors were brought to Guiana during the colonial period. They make up roughly a third of the population and are concentrated in the coastal towns. French metropolitans (born in metropolitan France) live mostly in Cayenne and Kourou, drawn by work in the public sector and the space industry.
 
-*0-14 years:* 31% (male 26 003; female 24 840)
+The Maroons, or Bushinengue, are among the most distinctive communities. Their ancestors escaped slavery on Dutch plantations in Suriname in the 17th and 18th centuries, retreated deep into the jungle, and negotiated peace treaties with the colonial powers that guaranteed their autonomy. Six distinct Maroon peoples live in French Guiana today — including the Aluku, Saramaka, and Ndjuka — maintaining their own languages, spiritual practices, and extraordinary woodcarving and textile traditions. The Maroni River region around Saint-Laurent-du-Maroni is the heart of Maroon life.
 
-*15-64 years:* 64% (male 56 034; female 47 250)
+Several Amerindian peoples inhabit the interior, including the Wayãpi and Teko in the south (accessible mainly from the village of Camopi), and the Wayana in the far southeast. Their territories overlap with the Guiana Amazonian Park. Relations with the French state have been tense at times, particularly over land rights and the impacts of illegal gold mining.
 
-*65 years and over:* 5% (male 4 245; female 4 175) (July 1998 est.)
+In the 1970s, Hmong refugees from Laos were resettled in French Guiana by the French government. They established agricultural villages, most notably Cacao and Javouhey, and have become the territory's main market gardeners. The Sunday market at Cacao is one of the best food experiences in French Guiana.
 
-**Population growth rate:** 3.4% (1998 est.)
-
-**Birth rate:** 23.73 births/1 000 population (1998 est.)
-
-**Death rate:** 4.53 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 14.76 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.05 male(s)/female
-
-*15-64 years:* 1.19 male(s)/female
-
-*65 years and over:* 1.02 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 13.48 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 76.34 years
-
-*male:* 73.12 years
-
-*female:* 79.71 years (1998 est.)
-
-**Total fertility rate:** 3.35 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* French Guianese (singular and plural)
-
-*adjective:* French Guianese
-
-**Ethnic groups:** black or mulatto 66% white 12% East Indian Chinese Amerindian 12% other 10%
-
-**Religions:** Roman Catholic
-
-**Languages:** French
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 83%
-
-*male:* 84%
-
-*female:* 82% (1982 est.)
+The official language is French. Creole French (Guianese Creole) is widely spoken. Maroon communities speak Taki-Taki (also called Sranan Tongo), Aluku, and other creole languages. Hmong, Portuguese (spoken by a large Brazilian immigrant community), Haitian Creole, and various Amerindian languages add to a genuinely multilingual territory.

@@ -1,13 +1,11 @@
 ---
-title: "Mount Etna park"
+title: 'Mount Etna Park'
 type: location
-latitude: 37.748787
-longitude: 14.96685
+latitude: 37.7488
+longitude: 14.9669
 ---
 
-Travel Guide
-
-The Etna Natural park is a region in the east side of [Sicily](/europe/italy/sicily) composed by 20 commons all in the province of [Catania](/europe/italy/sicily/catania)
+The Etna Natural Park is a region in the east side of [Sicily](/europe/italy/sicily) composed by 20 commons all in the province of [Catania](/europe/italy/sicily/catania)
 
 **The commons are:**
 Zafferana

@@ -1,8 +1,6 @@
 ---
-title: "Culture"
-type: location
-latitude: 51.456982
-longitude: -2.587553
+title: 'Culture'
+type: section
 ---
 
 The city has some excellent museums and galleries, many of which are within walking distance of each other. 

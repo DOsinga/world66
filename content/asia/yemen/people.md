@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 16 387 963 (July 1998 est.)
+Yemen's population was estimated at around 34 million before the war began in 2014 — making it the most populous country in the Arabian Peninsula. The conflict has displaced millions internally and driven hundreds of thousands to flee the country. The population is overwhelmingly Arab, with some Afro-Arab communities along the western coast and a historically significant South Asian presence in Aden, legacy of its time as a major British colonial port.
 
-*note:* other estimates range as high as 16.6 million
+Yemen is one of the youngest societies in the world by age structure, with a very high proportion of the population under 15. High birth rates have historically combined with high infant mortality and limited educational and economic opportunity for women — though this varied significantly between city and countryside, and between the more conservative north and the historically more open south.
 
-**Age structure:**
+The Hadramawt region produced one of the most remarkable diasporas in history. Hadrami merchants and scholars spread across the Indian Ocean world from the 9th century onward — to East Africa, India, Malaysia, and Indonesia. Descendants of Hadrami emigrants hold prominent positions across these regions, and remittances from the diaspora were historically a major source of income for families in the valley.
 
-*0-14 years:* 48% (male 4 016 052; female 3 859 079)
+Tribal identity remains central to social life, particularly in rural areas. The two main tribal confederations in the north — Hashid and Bakil — have been major political actors throughout Yemen's modern history. Much of the conflict's complexity stems from tribal loyalties that cut across the Houthi/government divide.
 
-*15-64 years:* 49% (male 4 066 601; female 3 902 686)
+The Zaydi Shia community of the north, from which the Houthi movement emerged, constitutes roughly a third of the population. Sunni Shafi'i Muslims make up the majority. The distinction has not historically been as fraught as in some other parts of the Middle East — intermarriage between the communities was common — but the war has hardened sectarian lines.
 
-*65 years and over:* 3% (male 280 152; female 263 393) (July 1998 est.)
-
-**Population growth rate:** 3.31% (1998 est.)
-
-**Birth rate:** 43.36 births/1 000 population (1998 est.)
-
-**Death rate:** 10.27 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.04 male(s)/female
-
-*15-64 years:* 1.04 male(s)/female
-
-*65 years and over:* 1.06 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 72.2 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 59.47 years
-
-*male:* 57.71 years
-
-*female:* 61.32 years (1998 est.)
-
-**Total fertility rate:** 7.14 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Yemeni(s)
-
-*adjective:* Yemeni
-
-**Ethnic groups:** predominantly Arab; Afro-Arab concentrations in western coastal locations; South Asians in southern regions; small European communities in major metropolitan areas
-
-**Religions:** Muslim including Shaf'i (Sunni) and Zaydi (Shi'a) small numbers of Jewish Christian and Hindu
-
-**Languages:** Arabic
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 38%
-
-*male:* 53%
-
-*female:* 26% (1990 est.)
+Yemeni society is deeply hospitable. Travellers who visited before the war consistently describe the warmth with which they were received — invited into homes, offered tea and meals, treated as guests rather than customers. The tradition of hospitality (*diyafa*) is genuine and deeply held.

@@ -3,46 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 10 501 (July 1998 est.)
+Nauru's population is around 10,000 to 11,000 people. Nauruans are a distinct Micronesian-Polynesian people with their own language, Nauruan, which is unrelated to other Pacific languages and is spoken only here. English is widely understood and used in government and commerce.
 
-**Age structure:**
+Around 58 percent of the population are ethnically Nauruan. The remainder are primarily other Pacific Islanders, Chinese, and Australians, many of them workers connected to the phosphate industry or government services.
 
-*0-14 years:* NA
+Nauruan society has been through extraordinary upheaval in the past half-century. The phosphate boom of the 1960s and 70s made Nauru briefly one of the wealthiest places in the world on a per-capita basis. The government built free housing, free healthcare, and free education. Physical labour was largely outsourced to foreign workers. Then the reserves dwindled, the investments collapsed (a series of ill-fated ventures including a West End musical), and the country entered a prolonged economic crisis.
 
-*15-64 years:* NA
+The health consequences have been severe. Nauru has among the highest rates of obesity and type-2 diabetes in the world. WHO estimates suggest around 94 percent of the adult population is overweight or obese. More than 40 percent have type-2 diabetes. The underlying causes are well understood: the destruction of subsistence agriculture by mining, the shift to imported processed food, and a cultural association between larger body size and prosperity. Life expectancy has fallen sharply as a result, now around 62 years.
 
-*65 years and over:* NA
-
-**Population growth rate:** 1.33% (1998 est.)
-
-**Birth rate:** 18.03 births/1 000 population (1998 est.)
-
-**Death rate:** 5.1 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0.4 migrant(s)/1 000 population (1998 est.)
-
-**Infant mortality rate:** 40.6 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 66.68 years
-
-*male:* 64.3 years
-
-*female:* 69.18 years (1998 est.)
-
-**Total fertility rate:** 2.08 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Nauruan(s)
-
-*adjective:* Nauruan
-
-**Ethnic groups:** Nauruan 58% other Pacific Islander 26% Chinese 8% European 8%
-
-**Religions:** Christian (two-thirds Protestant one-third Roman Catholic)
-
-**Languages:** Nauruan (official a distinct Pacific Island language) English widely understood spoken and used for most government and commercial purposes
-
-**Literacy:** NA
+Most Nauruans are Christian — roughly two-thirds Protestant and one-third Catholic. Religious practice is central to community life. The pace of life is slow and, outside of the government and the Australian-linked processing operations, largely informal. Visitors are generally treated with warmth and curiosity.

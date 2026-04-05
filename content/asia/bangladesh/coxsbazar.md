@@ -5,12 +5,8 @@ latitude: 21.442004
 longitude: 91.981246
 ---
 
-Travel Guide
+Cox's Bazar has one of the longest natural beaches in the world: 120 kilometers of unbroken sandy shoreline, backed by low forested hills, running south along the Bay of Bengal toward the Myanmar border. On weekdays and outside Bangladeshi holidays, it is far less crowded than the numbers suggest. At sunrise and sunset the light on the water is extraordinary.
 
-We currently have no information about Cox's Bazar.
+The town itself is chaotic and commercial, catering mainly to domestic tourists. The beach north of the main town, toward Inani, is the most attractive part — cleaner, quieter, and more scenic. Inani beach has dark sand flecked with coral and is much prettier than the main town beach.
 
-If you do know any general information about Cox's Bazar, please [Edit this article].
-
-If you know any hotels in Cox's Bazar or restaurants in Cox's Bazar, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/bangladesh/coxsbazar)
-
-Near the border with [Myanmar](/asia/myanmar)Myanmar this town is noted for one of the world’s longest and least-crowded beaches—an incredible 121 km in length! The setting for this beach with its silvery gold sand is tropical-forested hills. The best time to go there is at sunrise and sunset when the sand changes colors. Enjoy water-related activities, shop for handmade clothes, relax and enjoy the scenery.
+From Cox's Bazar you can take a boat to Maheshkhali island, where a Buddhist temple and a Shiva shrine sit on a hill above a working fishing community. It is a good half-day trip. Saint Martin's Island, Bangladesh's only coral island, is further south and reachable by boat — calm, small, and very different in character from the mainland.

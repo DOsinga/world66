@@ -1,12 +1,10 @@
 ---
-title: "Rajkot"
+title: 'Rajkot'
 type: location
 latitude: 22.305326
 longitude: 70.802838
 ---
 
-We currently have no information about Rajkot.
+Rajkot is the main city of the Saurashtra region, a busy commercial centre that served as the capital of a princely state during British rule. Mahatma Gandhi spent part of his childhood here, and the **Kaba Gandhi No Delo**, the house where he lived, is now a small museum.
 
-If you do know any general information about Rajkot, please [Edit this article].
-
-If you know any hotels in Rajkot or restaurants in Rajkot, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/india/gujarat/rajkot)
+The city is a useful base for reaching the Gir Forest National Park and other destinations in Saurashtra. It is well connected by rail and road to [Ahmedabad](/asia/india/gujarat/ahmedabad) (220 km), [Jamnagar](/asia/india/gujarat/jamnagar) (90 km), and [Junagadh](/asia/india/gujarat/junagadh) (100 km), and has a domestic airport with flights to major Indian cities.

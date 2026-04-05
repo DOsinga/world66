@@ -1,5 +1,0 @@
-asia/bangladesh
-asia/bhutan
-asia/brunei
-asia/cambodia
-asia/china

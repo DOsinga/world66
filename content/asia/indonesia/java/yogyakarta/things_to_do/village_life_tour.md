@@ -1,24 +1,9 @@
 ---
-title: "Village Life Tour"
+title: 'Village Life Tours'
 type: poi
-type: "Other"
-url: "www.borobudurpark.com"
+category: 'Other'
+latitude: -7.6080
+longitude: 110.2040
 ---
 
-Several villages, give visitors opportunity to see their daily lives in village, like planting, harvesting or caring for their livestock, a few villages have opened their doors to tourist for staying include overnight accommodations, etc.
-* Brayut Village, many old style Javanese homes. Candirejo Village, surrounded by volcanoes, two rivers meander through the villages.
-* Panjang Rejo Village, local ceramic works and krupuk (shrimp crackers) made there.
-* Sambi Village, in the foothills of MountMerapi, is its joglo traditional house which is open for homestay.
-* Tanjung Village, surrounded by many fields, and joglo traditional house built 200 years ago
-
-Read more at: http://tourthewonder.com/content/tour/19
-www.borobudurpark.com
-
-**Contributors**
-November 22, 2009
-
-type: Other
-
-
-
-url: [www.borobudurpark.com](http://www.borobudurpark.com)
+Several villages around Yogyakarta open their doors to visitors. Brayut Village has old-style Javanese homes. Candirejo Village is surrounded by volcanoes with two rivers running through it. Panjang Rejo Village is known for local ceramics and krupuk (shrimp crackers). Sambi Village, in the foothills of Mount Merapi, offers homestays in traditional joglo houses. Most villages can arrange overnight stays.

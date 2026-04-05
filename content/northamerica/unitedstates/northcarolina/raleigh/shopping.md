@@ -1,9 +1,10 @@
 ---
-title: "Shopping in Raleigh"
+title: 'Shopping in Raleigh'
 type: section
 ---
 
-If you're looking to do a little Raleigh shopping, you have to go to Crabtree Valley Mall. This is by far the best mall in Raleigh, and has all the best stores you can even think of. They have Crate & Barrel, Apple, Banana Republic, Express, Forever XXI, Aveda, Motherhood Maternity, Nine West, Pottery Barn, The Disney Store, Crabtree & Evelyn, Yankee Candle, Williams-Sonoma, and Coach. When you get hungry, you can have Subway, Sbarro, or Chick-Fil-A in the food court. Or, for a real dining experience, enjoy a meal at McCormick & Schmick's, PF Chang's, or Brio Tuscan Grille.
+**Crabtree Valley Mall** is the largest shopping center in Raleigh, with a wide selection of stores including Crate and Barrel, Apple, and Coach. When you need a break, the food court and several sit-down restaurants are on-site.
 
-**Contributors**
-May 11, 2009
+For something more interesting, the **North Hills** area on Six Forks Road is an open-air shopping district with a mix of national chains and local boutiques, plus restaurants and a movie theatre.
+
+Downtown Raleigh's **Fayetteville Street** has a growing collection of independent shops, and the **Historic City Market** nearby houses small galleries and specialty stores. The **State Farmers Market** is worth a visit for local produce, baked goods, and North Carolina-made crafts and gifts.

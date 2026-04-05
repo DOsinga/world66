@@ -1,27 +1,22 @@
 ---
-title: "Getting Around in Dalaman"
+title: "Getting Around"
 type: section
 ---
 
-**Dalaman Transportation**
+Dalaman is a small town and easy to navigate on foot. For reaching the surrounding destinations, you have a few options.
 
-While in the country of Turkey, it's best and safest to know
-exactly what transportation company will be used, especially while
-in Dalaman. The best and safest route from anywhere, airport,
-restaurants or parks, is the taxi cab. This will cost a few Euros, but the
-ride will be safe and comfortable. The main issue here is safety, and
-the government of Turkey understands this like no other. In order to
-have a continual stream of tourists coming into the city, it's very
-important that the travelers have a sense of security the entire time
-there. A great company that's associated with the Turkish officials is
-the Dalaman Airport and Bus Service.
+**Dolmus**
 
-**Dalaman Airport and Bus Service**
+The dolmus is Turkey's shared minibus system — essentially a public taxi that picks up and drops off passengers along a fixed route at fixed fares. They run regularly and are the cheapest way to get between towns in the Dalaman area. Ask at your hotel or the bus station for routes and times.
 
-It makes great and secure sense to utilize a taxi company that bears
-the name of the city, since that means they must have a great
-association with the local government. This is the exact type of
-mindset that many a traveler has, since it is the safety of the
-passengers and the guests that is of utmost importance. Being a stranger
-in a strange town requires courage, and this should not be compounded by
-an unsafe taxi trip.
+**Taxis**
+
+Taxis are readily available and reasonably priced for short journeys. They are the most convenient option from the airport. Make sure the meter is running or agree on a fare before setting off.
+
+**Car Hire**
+
+Renting a car gives you the most freedom to explore the coast and inland areas. Rental agencies operate at the airport and in town. Roads in the region are generally well maintained.
+
+**Local Buses**
+
+Regular bus services connect Dalaman with nearby towns. Routes are well signposted and the buses are comfortable. The main bus station (Otogar) is the hub for longer-distance connections.

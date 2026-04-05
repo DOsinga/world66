@@ -1,29 +1,26 @@
 ---
-title: "Eating Out in Argeles sur Mer"
+title: "Eating Out"
 type: section
 ---
 
-Situated on the Mediterranean coast of France less than an hour away from the Spanish border, one can find a variety of **Argeles sur Mer restaurants**. In this quaint coastal town, eating out will never be a cause to worry because you will be spoiled with cuisine ranging from French to Spanish and Italian. Since this is a coastal area, you’ll find seafood to be the best option. Most of these restaurants, which are within walking distance, offer a good view of the sea or of the quaint cobblestoned town.
+Argeles-sur-Mer's food leans Catalan, with plenty of seafood and Mediterranean cooking. The port has the best waterfront restaurants, while the old village offers quieter spots with more local character. Spanish influence shows up in the tapas and the flavours.
 
-**La Tramontane**
+### La Tramontane
 
-This quaint road side café and bar known for its Mediterranean cuisine serves up dishes like the Marine Salad, with lightly flavored squid, mussels and shrimp. Vegetarians will find lots to choose from with the Escalivade (a traditional Catalan dish made with vegetables roasted in olive oil) topping the list. Complete your meal with a caramelized fruit salad and a courgette cappuccino. A meal for 2 will cost you around $15.
+A roadside cafe and bar with Mediterranean dishes. The Marine Salad -- squid, mussels, and shrimp -- is a good bet. Vegetarians should try the Escalivade, a traditional Catalan dish of vegetables roasted in olive oil. Around $15 for two.
 
-**L’Amadeus**
+### L'Amadeus
 
-L’Amadeus whips up a mean “fois gras” in this typical French restaurant complete with small portions, clean table cloths and excellent French food. A must try is the beef baixus sautéed with wine, garlic and mayonnaise sauce. Garden and terrace seating is available here and it’s quite child-friendly too. A complete 3-course meal will cost around $30 for 2. L’Amadeus is open throughout the week from 12:00 p.m. to 12:00 a.m.
+A proper French restaurant with small portions, clean tablecloths, and excellent food. The foie gras is a standout, and the beef baixas sauteed with wine, garlic, and mayonnaise sauce is worth trying. Garden and terrace seating, child-friendly. Three courses run about $30 for two. Open daily, noon to midnight.
 
-**La Gamate**
+### La Gamate
 
-Situated in the main town area this warm, family-run restaurant cooks up delicious food with a whole lot of love. Seafood served here is fresh and cooked with all the right ingredients. La Gamate is a perfect place to enjoy a quiet meal with your family. A meal for 2 works out to around $20.
+A warm, family-run place in the main town area. The seafood is fresh and well-prepared, and the atmosphere is relaxed enough for a quiet family meal. Around $20 for two.
 
-**Menja Aqui**
+### Menja Aqui
 
-If you happen to be travelling with your kids in tow, try out this open-air restaurant done tastefully with creative décor bound to keep children occupied. Casual fare such as tapas is highly recommended here. The staff is helpful and you won’t have to wait long for your freshly cooked meal. A meal here would costs $20 to $30
+An open-air restaurant with creative decor that keeps children entertained. Casual fare -- the tapas are particularly recommended. Quick service. Expect $20 to $30 for two.
 
-**The Flowers**
+### The Flowers
 
-This restaurant-cum-creperie that is located in the main town area serves excellent food from around the world and also houses a good selection of wines. The restaurant is famous for its savory pancakes. A meal for two costs $15.
-
-**Contributors**
-March 14, 2010
+A restaurant and creperie in the main town, known for its savoury pancakes and a good wine selection. Around $15 for two.

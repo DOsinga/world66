@@ -3,112 +3,20 @@ title: "Books"
 type: section
 ---
 
-**general**
+**Travel guides**
 
-**Frommer's Amsterdam**
+The Lonely Planet guide to Belgium and Luxembourg covers Luxembourg adequately for most trips. For a more dedicated treatment, the Bradt Guide to Luxembourg is thorough on hiking, cycling, and regional detail.
 
+**History**
 
+*The Battle of the Bulge in Luxembourg: The Southern Flank* (Roland Gaul) is the standard reference for the Ardennes campaign of December 1944–January 1945. Gaul spent decades documenting the fighting on Luxembourgish soil; two volumes cover different sectors of the battle.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0028626001/ref=ase_osingacom?v=glance&s=books)
+*Luxembourg: A History* (Pit Péporté et al.) is an academic history of the Grand Duchy from its origins to the 20th century — serious but accessible for the general reader.
 
-author: George McDonald,Arthur Frommer
+**Photography and culture**
 
-isbn: 0028626001
+Edward Steichen's *The Family of Man* catalogue accompanies the permanent exhibition at Clervaux Castle. Steichen was born in Luxembourg and this collection, originally assembled for MoMA in 1955, is one of the most celebrated photography exhibitions ever mounted.
 
-subject: travel
+**Fiction**
 
-**Eyewitness Travel Guide:Amsterdam**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/078940186X/ref=ase_osingacom?v=glance&s=books)
-
-author: DK Travel Writers,Christopher Catling
-
-isbn: 078940186X
-
-subject: travel
-
-**The Fodor's The Netherlands, Belgium, Luxembourg '99**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0679000607/ref=ase_osingacom?v=glance&s=books)
-
-author: Fodor's Travel Publications
-
-isbn: 0679000607
-
-subject: travel
-
-**Culture Shock!:The Netherlands**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/155868400X/ref=ase_osingacom?v=glance&s=books)
-
-author: Hunt Janin
-
-isbn: 155868400X
-
-subject: culture
-
-**Tripbuilder - Holland:For History Buffs**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566213053/ref=ase_osingacom?v=glance&s=books)
-
-author: Inc. Staff TripBuilder
-
-isbn: 1566213053
-
-subject: culture
-
-**European Railway Atlas:France, Netherlands, Belgium, Luxembourg**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/071102328X/ref=ase_osingacom?v=glance&s=books)
-
-author: M. G. Ball,Ian Allan Ltd
-
-isbn: 071102328X
-
-subject: culture
-
-**Flemish Cities Explored:Bruges, Ghent, Antwerp, Mechelen, Leuven and Ostend**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1873429568/ref=ase_osingacom?v=glance&s=books)
-
-author: Derek Blyth
-
-isbn: 1873429568
-
-subject: history
-
-**The Battle of the Bulge in Luxembourg:The Southern Flank, Vol. 1**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887407463/ref=ase_osingacom?v=glance&s=books)
-
-author: Roland Gaul
-
-isbn: 0887407463
-
-subject: history
-
-**The Battle of the Bulge-December 1944:A Historical Collage on the Ardennes Offensive, Vol. 2**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0887407471/ref=ase_osingacom?v=glance&s=books)
-
-author: Roland Gaul
-
-isbn: 0887407471
-
-subject: history
+Luxembourg has a modest literary tradition in Luxembourgish and French. Hugo Claus, though Belgian, set parts of his work in this border region. Roger Manderscheid is one of the more prominent contemporary Luxembourgish writers, though translations into English are limited.

@@ -3,34 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-Air
+Most travelers arrive in Argentina by air. The main gateway is Ezeiza Ministro Pistarini International Airport (EZE), located about 35km southwest of Buenos Aires. A second airport, Jorge Newbery Aeroparque (AEP), handles most domestic flights and a few short-haul regional routes; it sits right on the waterfront near the city center.
 
-Argentina's national airline is *Aerol&iacute;neas Argentinas (AR)*. Other airlines serving Argentina include *Aeroflot Air France Alitalia American Airlines British Airways Canadian Airlines KLM Lufthansa South African Airlines *and *United Airlines*.
+Direct flights operate from New York (around 11 hours), Miami (9 hours), London (14 hours), Madrid (13 hours), and Sydney (around 14 hours via Auckland or Los Angeles). Aerolíneas Argentinas is the national carrier. American Airlines, British Airways, Air France, Iberia, Lufthansa, and LATAM are among the many international airlines serving EZE.
 
-Approximate flight times:
+Getting from EZE to Buenos Aires: the Manuel Tienda León shuttle bus runs frequently to the city center and costs around $15 USD. Remis (radio taxis) booked at the official counter in arrivals are reliable and cost around $25–35 USD. Regular taxis and ride-hailing apps also operate from the airport. Avoid unlicensed drivers who approach you in the terminal.
 
-From Buenos Aires to *London* is 18 hours (depending on connection) to *Los Angeles* is 16 hours to *New York *is 14 hours 15 minutes to *Singapore* is 29 hours 30 minutes and to *Sydney* is 16 hours.
+## By land
 
-International airport
+Argentina shares land borders with Chile, Bolivia, Paraguay, Uruguay, and Brazil. Long-distance buses connect Buenos Aires to Montevideo (Uruguay), São Paulo and Rio de Janeiro (Brazil), Santiago (Chile), and Asunción (Paraguay). Journey times are long — Santiago is around 20 hours — but sleeper buses are comfortable and reasonably priced.
 
-*Ezeiza Ministro Pistarini (EZE) International Airport * 50km (31.5 miles) from the city. There is a bus service to the city operating every 30 minutes between 0500-2300 (travel time  30 minutes). Taxis are also available. Airport facilities include a bank restaurants bureau de change duty-free shops and car hire (*Avis Dollar *and *Localiza*)*.* There is also a coach connection to *Jorge Newbery* airport (locally called *Aeroparque*) for domestic flight connections.
-
-Departure tax:
-
-US$13. For flights to Montevideo (Uruguay) the departure tax is US$5. Passengers in transit and children under two years of age are exempt.
-
-Sea
-
-The main ports are Buenos Aires Quequ&eacute;n and Bah&iacute;a Blanca. There are ferry connections down the Paran&aacute; River from Paraguay and ferries and hydrofoils link Buenos Aires with Montevideo in Uruguay.
-
-Rail
-
-The major direct international route is from Buenos Aires to Asunci&oacute;n in Paraguay. There are also direct rail links with Bolivia Brazil Chile and Paraguay. The timetables and journey times are often disrupted and delays can be expected.
-
-Road
-
-Argentina has a network of aproximately 217 762km (136 101 miles) of roads of which around 156 789km (97 993 miles) are paved. There are well-maintained road routes from Uruguay Brazil Paraguay Bolivia and Chile.
-
-Coach
-
-Direct daily services between Buenos Aires Puerto Alegre S&atilde;o Paulo and Rio de Janeiro.
+Ferries and fast catamarans cross the Río de la Plata between Buenos Aires and Colonia del Sacramento or Montevideo in Uruguay, operated by Buquebus and Seacat. The fast service to Colonia takes about an hour.

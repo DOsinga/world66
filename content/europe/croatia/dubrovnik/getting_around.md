@@ -3,10 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-"/>
-
-The old city of Dubrovnik is really so small, walking is the only way to get around. Cars are not even allowed within the city walls.
-
- Outside of the city walls, busses will get you relatively easy around. At daytime busses run every twenty minutes and a single fare cost about 1 dollar if bought from a new stand, slightly more if bought directly from the driver.
-
- Taxis are expensive, figure about 10 dollars for a short ride.
+The old town is car-free and small enough to walk end to end in fifteen minutes. Outside the walls, local buses run every twenty minutes during the day and connect the old town to Lapad, Gruz, and the surrounding areas. Buy tickets at a newsstand for a small discount over buying from the driver. Taxis are expensive by Croatian standards.

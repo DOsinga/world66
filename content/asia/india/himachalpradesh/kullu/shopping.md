@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Kullu"
+title: 'Shopping'
 type: section
 ---
 

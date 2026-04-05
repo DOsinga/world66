@@ -1,57 +1,8 @@
 ---
-title: "When to Go in Kyoto"
+title: "When to Go"
 type: section
 ---
 
-**
-**
+Kyoto has four very distinct seasons, and your experience of the city will be utterly different depending on which one you pick. **Cherry blossom** (*sakura*) peaks in late March to early April and is as beautiful as everyone says — the Philosopher's Path, Maruyama Park and the riverbanks of the Kamo are the classic viewing spots — but the entire country converges on Kyoto for a fortnight, and hotels book out six months in advance. **Autumn foliage** (*kōyō*) in mid- to late November is, if anything, even more spectacular, with the maples of Tōfuku-ji and the Arashiyama hills turning scarlet; again, book well ahead.
 
-**Autumn/Fall**
-Traditional culture and cherry
-blossoms, what more could you ask for from the beautiful city of Kyoto,
-Japan. With cherry blossoms in the spring and the autumn foliage of the
-fall no wonder these are the two busiest times for tourism in Kyoto.
-Even with the amount of tourists flocking to this central Japanese city
-it is worth the extra expense and the extra time you will spend to
-visit during these peak seasons.
-
-Do not be mistaken by your
-first impressions of Kyoto. Even though your first images of Kyoto will
-be concrete and neon lights, behind doors and down side streets you
-will find some of the most breath taking and interesting sights
-available in this island country.
-
-While you will be fighting for
-lodging and amenities with many other tourists during the spring and
-fall seasons this is the best time to make a trek to Japan. The temples
-flanked by cherry blossom trees are sure to delight all visitors young
-and old. Where else can you find that picturesque beauty of Japan that
-you find in your imagination. During your spring stay you will
-definitely need a light jacket and pants. With highs in April only
-averaging 66 F you will want to be prepared in case of any northerly
-winds.
-
-As summer turns to fall so do the leaves turn to bright
-reds and oranges. This beautiful sight will never be replicated
-anywhere else in the world. The trees line streets and temple bridges
-showering you with the lovely fall foliage. Walk along the Kamo River
-and enjoy the breeze while enjoying the natural beauty of the leaves.
-During the fall season you should be able to get away with pants and a
-short sleeve shirt during the day. Be sure to pack a light weight
-jacket for evenings out in the city.
-**
-Things to Do Any Season **
-
-No
-matter when you choose to travel to Kyoto don’t be surprised to see
-geishas in the streets as this is a city that still participates in a
-lot of the old world traditions. The temples are actively used so be
-sure that you follow any and all stated guidelines. The last thing you
-want to do is disrespect the people of this gorgeous city.
-
-With
-over one thousand temples and shrines Kyoto is a wonderful city to
-explore no matter the time of year. Steeped in history and tradition
-this modern day city will capture your heart and imagination. No where
-else can you enjoy such mild temperatures and outstanding beauty than
-Kyoto, Japan.
+**Summer** is hot, humid, and exhausting — Kyoto sits in a basin and temperatures regularly push past 35°C in July and August — but it is also the season of the *Gion Matsuri* (Kyoto's great month-long festival culminating in a parade on 17 July) and the open-air dining platforms over the Kamo River. **Winter** is cold but rarely snowy; the city is at its quietest and cheapest in January and early February, and a dusting of snow on the temples is rare but unforgettable. If you want to avoid the worst crowds, **late May** and **early June** (before the rainy season) and **early October** are the best quiet-shoulder choices.

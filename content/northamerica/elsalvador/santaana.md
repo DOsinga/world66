@@ -1,10 +1,14 @@
 ---
-title: "Santa ana"
+title: "Santa Ana"
 type: location
+latitude: 13.9942
+longitude: -89.5597
 ---
 
-Santa Ana is the second largest city of the country. It is only 50 km from San Slavador and lies in a rich coffee and sugar cane growing region on the slopes of the Santa Ana volcano. It is an attractive town with many old buildings. 
+Santa Ana is El Salvador's second city, about 65 km west of San Salvador. It sits in a fertile valley on the lower slopes of the Santa Ana Volcano, surrounded by coffee and sugar cane plantations. The city is smaller and considerably calmer than the capital, with a well-preserved historic center that rewards an afternoon of walking.
 
- The main sights in town include the **Theatre**, the neo-gothic **Cathedral** and several churches in colonial style of which the Church of El Calvario is the nicest. 
+The main square is anchored by the **Cathedral of Santa Ana**, a neo-Gothic structure completed in 1905 and one of the most impressive colonial churches in the country. The neoclassical **Teatro Nacional** nearby is also worth seeing — one of the finest theaters in Central America, restored after years of neglect. Several other colonial churches are scattered through the center, of which the **Church of El Calvario** is the most charming.
 
- Excursions can be made to Lake Coatepeque, Tazumal and Chalchuapa.
+Santa Ana is the best base for exploring the western highlands. **Cerro Verde National Park**, about 20 km south, provides access to hikes up the Santa Ana Volcano (the country's highest) and the Izalco Volcano, as well as views over the beautiful Lake Coatepeque. The **Tazumal** Maya ruins at Chalchuapa, 15 km to the west, can be visited in a half-day.
+
+The **Ruta de las Flores** — the scenic road through coffee-growing mountain towns — begins roughly in Santa Ana's orbit and is easy to explore by bus or car from here.

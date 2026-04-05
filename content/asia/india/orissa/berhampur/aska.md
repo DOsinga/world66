@@ -1,5 +1,5 @@
 ---
-title: "Aska"
+title: 'Aska'
 type: location
 latitude: 19.606087
 longitude: 84.672452

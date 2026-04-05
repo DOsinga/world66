@@ -1,14 +1,12 @@
 ---
 title: "Burlington"
 type: location
-latitude: 43.324892
-longitude: -79.796684
+latitude: 43.3249
+longitude: -79.7967
 ---
 
-Travel Guide
+Burlington is a city of about 180,000 on the western shore of Lake Ontario, between Hamilton to the west and Oakville to the east, roughly 50 km from Toronto. It has a pleasant waterfront and a quieter character than its larger neighbours, with good parks along the lake and a strong community arts scene.
 
-Located west of the City of Toronto and immediately east of Hamilton, Burlington is a smaller city of approximately 150,000 people.
+The lakefront centrepiece is Spencer Smith Park, a long waterfront greenway with walkways, a Discovery Centre, and a pond that becomes an outdoor skating rink in winter. The Burlington Art Centre focuses on Canadian ceramics and contemporary craft. The Joseph Brant Museum commemorates the Mohawk leader who was granted land here by the Crown in the 18th century. The Royal Botanical Gardens, straddling the Burlington-Hamilton border, is one of the largest botanical garden complexes in Canada, with the world's largest collection of lilacs.
 
-Burlington is located on Lake Ontario and has an excellent sandy beach at Beachway Park. Also located on the waterfront is Spencer Smith Park with walkways, playground, a compass, a new Waterfront Centre with a Discovery Centre, an excellent restaurant and a pond for model boats which converts to an outdoor skating rink in winter.
-
-Across from Spencer Smith Park are the Burlington Art Centre and the Joseph Brant Musuem, both of which are worth a visit.
+The Niagara Escarpment rises to the north and the Bruce Trail passes through Burlington, providing access to escarpment forest walks. Niagara Falls and Niagara-on-the-Lake are straightforward day trips to the south.

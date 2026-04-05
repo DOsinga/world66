@@ -1,10 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes in Tavira'
 type: section
 ---
 
-The Tavira Inn Jazz bar.
-
-We currently have no Bars and Cafes listed in Tavira.
-
-If you do know any Bars and Cafes in Tavira, please [Add].
+**Tavira Inn Jazz Bar** -- A local spot for live jazz and drinks in a relaxed setting.

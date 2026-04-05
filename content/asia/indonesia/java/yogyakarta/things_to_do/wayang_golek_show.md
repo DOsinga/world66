@@ -1,32 +1,11 @@
 ---
-title: "Wayang Golek Show"
+title: 'Wayang Golek Show'
 type: poi
-address: "Jl. Rotowijayan No. 1"
-phone: "+62 274 373721"
-type: "Other"
+category: 'Other'
+address: 'Jl. Rotowijayan No. 1'
+phone: '+62 274 373721'
+latitude: -7.8053
+longitude: 110.3642
 ---
 
-Wayang, Traditional puppet is one of Indonesia Herritage. Come and watch the show...
-
-WAYANG GOLEK SHOW
-Time : Every Wednesday, 10.00 - 12.00
-Venue : Keraton Yogyakarta
-Jl. Rotowijayan No. 1
-Phone : +62 274 373721
-Category : Cultural Performance
-Description : Wayang Golek is a wooden puppet art
-show which is so popular in West Java.
-Ticketing : It's free. However, we need to pay the
-entrance fee to get into Keraton (IDR
-12,500)
-
-tourthewonder.com
-Yogyes.com
-
-type: Other
-
-
-
-tel: +62 274 373721
-
-address: Jl. Rotowijayan No. 1
+Wayang golek (wooden puppet) shows are held every Wednesday from 10:00 to 12:00 at the Keraton. This art form is especially popular in West Java but the Keraton performances are a good introduction. Free entry, though you pay the Keraton entrance fee of IDR 12,500.

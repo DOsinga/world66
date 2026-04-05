@@ -1,10 +1,8 @@
 ---
-title: "Pawnee"
+title: 'Pawnee'
 type: location
-latitude: 38.185876
-longitude: -99.240825
+latitude: 36.337
+longitude: -96.804
 ---
 
-Travel Guide
-
-Pawnee is the birthplace of cartoonist Chester Gould, the creator of Dick Tracy.
+Pawnee is the birthplace of cartoonist Chester Gould, creator of Dick Tracy. The town is the county seat of Pawnee County and home to the **Pawnee Bill Ranch**, a historic site honoring showman Gordon "Pawnee Bill" Lillie.

@@ -11,14 +11,3 @@ The excellent Stedelijk Museum displays contemporary art including traveling exh
 
 If time permits take a look a Rembrandt’s house near the Waterlooplein (the artist lived there 1639-1657). And the church where he is buried at the Westerkerk, (you’ll walk passed it on the way to The Anne Frank House). Have a look for the crown on top of the church given to Amsterdam by Maximilian I in 1489 and you can also climb the spire for a great view of the city. There are also a number of other Rembrandt-related sites: the 13th-century Oudekerk (Amsterdam’s oldest church), where Rembrandt’s wife Saskia is buried. The 15th-century Waag (weigh station) where Rembrandt painted "The Anatomy Lesson" (it now houses the Jewish Historical Museum) and the Zuiderkerk (South Church) where he painted "The Night Watch".
 
-## Different kinds of Sights
-
-[Churches and Cathedrals](/europe/netherlands/amsterdam/sights?subsection=Churches%20and%20Cathedrals)
-[Historic Buildings](/europe/netherlands/amsterdam/sights?subsection=Historic%20Buildings)
-[Churches & Cathedrals](/europe/netherlands/amsterdam/sights?subsection=Churches%20%26%20Cathedrals)
-
-[Squares](/europe/netherlands/amsterdam/sights?subsection=Squares)
-[Hotspots](/europe/netherlands/amsterdam/sights?subsection=Hotspots)
-
-[Parks](/europe/netherlands/amsterdam/sights?subsection=Parks)
-[Museums](/europe/netherlands/amsterdam/sights?subsection=Museums)

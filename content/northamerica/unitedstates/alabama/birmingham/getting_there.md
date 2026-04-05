@@ -1,9 +1,10 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-Birmingham travel has never been easier! Thanks to the several airline carriers that provide service to and from Birmingham International Airport, planning a trip to Alabama can be a breeze. American, Continental, Delta, Southwest, United, and US Airways all fly to Birmingham. If you decide to travel by train, Amtrak has a train station in Birmingham at 1819 Morris Avenue. For hours and directions, go to their website at amtrak.com. If you want to take the bus, Greyhound provides service from several many cities nationwide to Birmingham. To check routes and schedules, visit greyhound.com.
+Birmingham-Shuttlesworth International Airport has service from American, Delta, Southwest, United, and several other carriers, with connections through Atlanta, Charlotte, Dallas, and other hubs.
 
-**Contributors**
-May 25, 2009
+Amtrak stops in Birmingham at 1819 Morris Avenue on the Crescent line between New York and New Orleans. Greyhound provides bus service from cities across the Southeast.
+
+By car, Interstate 20 runs east-west through the city (Atlanta to the east, Jackson, Mississippi to the west), and Interstate 65 runs north-south (Nashville to the north, Montgomery and Mobile to the south).

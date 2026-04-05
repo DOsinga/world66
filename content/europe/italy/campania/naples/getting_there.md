@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Naples"
+title: "Getting There"
 type: section
 ---
 

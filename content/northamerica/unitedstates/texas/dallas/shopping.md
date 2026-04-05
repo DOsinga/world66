@@ -1,17 +1,10 @@
 ---
-title: "Shopping"
+title: 'Shopping'
 type: section
-address: "I-635 LBJ at Dallas North Tollway"
-email: "webmaster@galleriadallas.com"
-phone: "972.702.7100"
-type: "Shopping centers and malls"
-url: "www.galleriadallas.com"
 ---
 
-Dallas is the home of the original *Galleria* mall and has many others.
+Dallas is the home of Neiman Marcus, and the city's shopping culture reflects that pedigree. From the original Galleria to the boutiques of Highland Park Village, this is a city that takes retail therapy seriously.
 
-### Gallaria Dallas
+### [Galleria Dallas](/northamerica/unitedstates/texas/dallas/shopping/gallaria_dallas)
 
-The original *Gallaria* mall in Dallas is the one that all the others are based upon....
-
-type: Shopping centers and malls
+The original Galleria mall that inspired all the others. Located at I-635 LBJ and the Dallas North Tollway.

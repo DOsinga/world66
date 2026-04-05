@@ -1,8 +1,8 @@
 ---
-title: "Jinha Beach"
+title: 'Jinha Beach'
 type: poi
-latitude: 35.382932
-longitude: 129.345676
+latitude: 35.3829
+longitude: 129.3457
 ---
 
 Jinha Beach is situated in the far south of

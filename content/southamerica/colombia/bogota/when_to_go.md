@@ -1,24 +1,8 @@
 ---
-title: "When to Go in Bogota"
+title: "When to Go"
 type: section
 ---
 
-**Need a translator in Bogota?**
+Bogota has no real seasons -- temperatures hover around 14 degrees Celsius year-round, with chilly mornings and occasional afternoon warmth. The drier months (December to March and July to August) see more sunshine, while April to May and October to November bring the heaviest rain. The altitude means UV is strong even on cloudy days, so bring sunscreen.
 
-****
-
-Hi my name is Maria and a few weeks ago I was in bogota-
-
-A friend of mine told me that it would be better if I contact a guide.
-
-After that I get in contact with Diego he's an outgoing person young and experienced.
-
-if someone want to contact him.
-
-Mail: koifish81@gmail.com
-
-Mobile: (57) 3103347928
-
-Best regards to all!!
-
-Maria
+The Iberoamerican Theatre Festival (Festival Iberoamericano de Teatro), held every two years, is the largest theatre festival in the world and fills the city with street performances, international companies, and a carnival atmosphere. The Bogota Book Fair in April and the Rock al Parque festival in July are also worth timing a visit around.

@@ -1,7 +1,6 @@
 ---
 title: "Getting There"
 type: section
-type: "By Air"
 ---
 
 Leh is best visited during Summer

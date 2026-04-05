@@ -1,23 +1,10 @@
 ---
 title: "Castle of Park"
 type: poi
-type: "Other"
-url: "www.castleofpark.net"
-latitude: 54.875997
-longitude: -4.825562
+category: "Sight"
+address: "Castle of Park, Cornhill, Banff AB45"
+latitude: 57.5900
+longitude: -2.7000
 ---
 
-Painting, writing and photography courses available at the Castle of Park, 10 miles south of Banff.
-
-You can even get married here, a Scottish wedding!
-
-**Contributors**
-February 12, 2006
-
-type: Other
-
-
-
-
-
-url: [www.castleofpark.net](http://www.castleofpark.net/)
+Castle of Park is a 16th-century tower house 10 miles south of Banff near Cornhill. It offers painting, writing, and photography courses and is also licensed for weddings.

@@ -1,26 +1,8 @@
 ---
-title: "Zaika"
+title: 'Zaika'
 type: poi
-address: "Ground Floor, Saran Building, Opp. Tube Co., Old Padra Road, Baroda - 390 020."
-phone: "+91 265 3254477"
-type: "Indian and Pakistani"
+address: 'Ground Floor, Saran Building, Opp. Tube Co., Old Padra Road'
+phone: '+91 265 3254477'
 ---
 
-Zaika Restaurant is probably the best place for traditional Indian Mughlai and Punjabi food in Baroda. Simple ambience, understated decor, efficient service and above all, the mouth-watering food are the hallmarks of this restaurant. Zaika offers the standard selection of Indian dishes plus new innovations by it Owner who is a qualified chef with experience at the Taj Mahal Hotel, Mumbai. Zaika also has an extensive Indian Chinese menu selection.
-
-Zaika also has it own parking lot right in front of the restaurant and so parking is not a problem.
-
-Zaika also has a fully airconditioned banquet hall which can accomodate upto 300 people.
-
-**Contributors**
-July 06, 2006
-
-type: Indian and Pakistani
-
-
-
-
-
-tel: +91 265 3254477
-
-address: Ground Floor, Saran Building, Opp. Tube Co., Old Padra Road, Baroda - 390 020.
+Probably the best place in Vadodara for traditional Mughlai and Punjabi food. Simple ambience, understated decor, and efficient service. The owner is a qualified chef with experience at the Taj Mahal Hotel in Mumbai, and the food reflects that. Also has an extensive Indian Chinese menu and its own parking lot.

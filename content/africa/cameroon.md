@@ -1,30 +1,20 @@
 ---
-title: "Cameroon"
-type: location
 latitude: 4.612552
 longitude: 13.153581
+title: Cameroon
+type: location
+image: cameroon.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Bismarck-Brunnen_in_Buea.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Daina" title="User:Daina">Daina</a>'
 ---
 
-Cameroon is one of the most diverse countries in Africa and oft referred to as "Africa in miniature”. Here you’ll find a myriad of ethnic and language groups, extremely varied climatic and geographical conditions, and a fascinating traditional culture and history. From the Sahara desert to the equatorial grasslands or the nature reserves Lobeke, Nki and Boumba_Bek. In Cameroom lays the highest mountain in West Africa and last but not least Cameroon is full of wonderful friendly and warmhearted people.
- 
+They call Cameroon "Africa in miniature" and it is not marketing fluff. This is one country where you genuinely move through the entire continent's landscapes in a few days of travel: from the Sahel savannah in the north to the dense equatorial rainforest in the south, from volcanic peaks along the coast to the cool green highlands of the west. Add roughly 250 ethnic groups, two colonial languages (French and English), and a food culture that ranks among the best on the continent, and you start to understand why travelers who make it here tend to stay longer than planned.
 
-[Limbe](/africa/cameroon/limbe) is a small picturesque town of the Gulf of Guinee, with beautifull beaches to laydown on and relax under a palmtree, but there's also a traditional market and interesting bars and shops to explore. If you're interested in a beachside holiday the white sand beaches of [Kribi](/africa/cameroon/kribi) are also an option. Also interesting is [Douala](/africa/cameroon/douala), Cameroon's port city.
- 
+The south is anchored by [Douala](/africa/cameroon/douala), the chaotic economic capital and main port of entry, and [Yaound](/africa/cameroon/yaound), the more orderly political capital set among rolling hills. Neither city will win beauty prizes, but both have energy, good food, and enough to hold your attention for a day or two. The coast west of Douala leads to [Limbe](/africa/cameroon/limbe), a small town backed by the massive bulk of Mount Cameroon, with black-sand beaches and a decent wildlife center. Further south, [Kribi](/africa/cameroon/kribi) offers the country's best white-sand beaches, with the surreal bonus of a waterfall crashing directly into the sea.
 
-Those who like the shade can go on an excursion to a rubber or cocoa plantation near Bafang and Nkongsamba. And everyone should visit the Guneku and the Sultan's Palace in [Foumban](/africa/cameroon/foumban), Cameroon's Moslem center.
- 
+The western highlands are where Cameroon gets quietly spectacular. [Bamenda](/africa/cameroon/bamenda) is the gateway to the Ring Road, a rough loop through the grassfields past traditional fon palaces, crater lakes, and village markets that see almost no tourists. [Foumban](/africa/cameroon/foumban) is Cameroon's cultural jewel, home to the Bamoun people and a Sultan's palace that has been the seat of power for over six centuries. The artisan quarter here is one of the most remarkable craft centers in West Africa.
 
-For an active vacation, you can hike Mt. Cameroon, the tallest mountain in this part of Africa. Also the tropical forest and savannah terrain near [Bamenda](/africa/cameroon/bamenda), Korup National Park or the Kumbo Highlands belong to the most interesting landscapes of the country.
- 
- 
+The north is another country entirely. The landscape dries out into Sahel scrubland, the population is predominantly Muslim, and the architecture shifts to mud-brick compounds. Waza National Park, when accessible, is one of West Africa's best wildlife reserves, with elephants, giraffes, and lions. Rhumsiki, near the Nigerian border, sits among volcanic plugs that look like something from another planet.
 
-**Geography**
-
-
- Cameroon is a Central African nation on the Gulf of Guinea, bordered by Nigeria, Chad, the Central African Republic, the Republic of Congo, Equatorial Guinea, and Gabon. It is about the size of Spain and nearly twice the size of Oregon. Mount Cameroon (13,350 ft.; 4,069 m), near the coast, is the highest elevation in the country. The main rivers are the Benue, Nyong, and Sanaga.
- 
-
-**Government**
-
-
- After a 1972 plebiscite, a unitary nation was formed out of East and West Cameroon to replace the former federal republic.
+Cameroon is not an easy country to travel in. Roads outside the main highways can be brutal, bureaucratic hassles are common, and the Anglophone crisis has made parts of the northwest and southwest regions unpredictable. Check conditions before heading to the English-speaking west. But for travelers willing to deal with the rough edges, Cameroon rewards with a depth and variety that few African countries can match.

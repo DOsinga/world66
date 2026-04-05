@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Cincinnati"
+title: "Shopping"
 type: section
 address: "1401 Reading Road"
 email: "info@highstreetcincinnati.com"

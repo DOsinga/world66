@@ -1,16 +1,16 @@
 ---
 title: "South America"
 type: location
+image: southamerica.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Perú,_2015-07-30,_DD_47.JPG"
+image_license: "CC BY-SA 4.0"
+image_attribution: '<bdi><a href="https://www.wikidata.org/wiki/Q28147777" class="extiw" title="d:Q28147777"><span title="Spanish photographer">Diego Delso</span></a></bdi>'
 ---
 
-South America is salsa, cumbia, samba and tango. Life really swings there. The mixture of African, Indian and European influences have given south-america a very distinct flavour and I like it.
+South America is one of the most varied places on Earth. In the span of a single continent you get the world's largest rainforest, the longest mountain range, the driest desert, the highest navigable lake, and some of the most biodiverse terrain anywhere. It is also a place of extraordinary cities, ancient civilizations, and a human mix — indigenous, African, European, Asian — that has produced distinctive cultures in every country.
 
- The continent offers incredible precolumbian sights all along the Andes in [Chile](/southamerica/chile), [Bolivia](/southamerica/bolivia), [Ecuador](/southamerica/ecuador), [Peru](/southamerica/peru) and [Colombia](/southamerica/colombia). The best known of these are probably the Nazca Lines and [Machu Picchu](/southamerica/peru/machupicchu) in Peru and [Ciudad Perdida](/southamerica/colombia/ciudadperdida) in Colombia. Furthermore in every south-american country there are lots of stylish colonial churches and palaces. There is no question the lovers of architecture and history will surely find what they are looking for.
+The Andes run the full length of the continent's western spine, from [Venezuela](/southamerica/venezuela) and [Colombia](/southamerica/colombia) in the north to the tip of [Chile](/southamerica/chile) and [Argentina](/southamerica/argentina) in the south. They define the climate, history, and character of the countries they pass through. East of the Andes, the Amazon basin stretches across [Brazil](/southamerica/brazil), [Peru](/southamerica/peru), [Bolivia](/southamerica/bolivia), [Ecuador](/southamerica/ecuador), [Colombia](/southamerica/colombia), and [Venezuela](/southamerica/venezuela) — a forest so large it generates its own weather. South of the Amazon, the continent narrows through the grasslands of the pampas into Patagonia, a near-empty region of glaciers and wind.
 
- If you are looking for an active holiday: there is  good skiing in summer in Chile, Bolivia and [Argentina](/southamerica/argentina); you can find the biggest rainforest and the longest river in the world in [Brazil](/southamerica/brazil) and there is great wildlife almost everywhere. The [Galapagos islands](/southamerica/ecuador/galapagosislands) (off the coast of Ecuador deserve a special mention here.
+Twelve countries, one territory (French Guiana), and a handful of islands make up the continent. Most of South America speaks Spanish. [Brazil](/southamerica/brazil) — by far the largest country — speaks Portuguese. The three Guianas speak English, Dutch, and French. Beneath the colonial languages, indigenous languages survive: Quechua in the Andes, Guaraní in [Paraguay](/southamerica/paraguay), and hundreds of others across the Amazon.
 
-When you want to relax a bit head for the carribean : the coast of [Venezuela](/southamerica/venezuela) and [Colombia](/southamerica/colombia) has great beaches and a very good atmosphere. [Brazil](/southamerica/brazil) has great beaches as well.
-
- Those who are into the fast paced life of big cities have a number of cities to choose from: [Sao paulo](/southamerica/brazil/saopaulo), [Rio de Janeiro](/southamerica/brazil/riodejaneiro), [Buenos Aires](/southamerica/argentina/buenosaires), [Santiago](/southamerica/chile/santiago) or [Lima](/southamerica/peru/lima) all combine modern life with a south-american touch.
-
-  In South America most countries are Spanish speaking, with Brazil as the most notable exception. Furthermore the three Guyana's ([French Guiana](/southamerica/frenchguiana), British [Guyana](/southamerica/guyana) and [Suriname](/southamerica/suriname)) speak the language of their former colonial masters as well as their own languages. In all of South America native Indian languages are still spoken, but they become less frequently so.
+The continent rewards slow travel. [Peru](/southamerica/peru) alone could occupy months — from the desert coast to the cloud forest to the Amazon lowlands. [Argentina](/southamerica/argentina) stretches from the subtropical north to Antarctic latitudes in the south. Even a small country like [Ecuador](/southamerica/ecuador) contains four utterly different regions: the coast, the highlands, the Amazon, and the Galapagos. Budget more time than you think you need.

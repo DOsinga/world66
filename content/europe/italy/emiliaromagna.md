@@ -1,16 +1,16 @@
 ---
-title: "Emilia Romagna"
+title: 'Emilia-Romagna'
 type: location
 latitude: 44.525696
 longitude: 11.039437
 ---
 
-Emilia Romagna is visited mainly for its coast. And of course it does have a nice stretch of sandy beaches Especially around [Rimini](/europe/italy/emiliaromagna/rimini) and [Misano Adriatico](/europe/italy/emiliaromagna/misanoadriatico). But travelers who just leave it at that, seriously shortchange themselves. Emilia Romagna has many historic cities with loads of sights. [Ravenna](/europe/italy/emiliaromagna/ravenna) for example with its fine examples of Byzantine religious art. But [Ferrara](/europe/italy/emiliaromagna/ferrara) and [Bologna](/europe/italy/emiliaromagna/bologna) as well absolutely deserve a visit of at least a few days.
+Emilia-Romagna is Italy's gastronomic heartland. Parmigiano-Reggiano, prosciutto di Parma, balsamic vinegar from [Modena](/europe/italy/emiliaromagna/modena), mortadella and tortellini from [Bologna](/europe/italy/emiliaromagna/bologna) -- the region reads like a menu of Italy's greatest hits. [Bologna](/europe/italy/emiliaromagna/bologna), nicknamed "la grassa" (the fat one), is the unofficial capital of Italian food, and every city in the region has its own specialties worth seeking out.
 
+But visitors who come only for the coast are seriously shortchanging themselves. The region's historic cities are extraordinary. [Bologna](/europe/italy/emiliaromagna/bologna) has the oldest university in Europe, miles of elegant porticoes, and a cultural life that rivals cities twice its size. [Ravenna](/europe/italy/emiliaromagna/ravenna) holds some of the finest Byzantine mosaics in the world -- eight of its monuments are UNESCO World Heritage Sites. [Ferrara](/europe/italy/emiliaromagna/ferrara), a perfectly preserved Renaissance city on the banks of the Po, is best explored by bicycle. [Parma](/europe/italy/emiliaromagna/parma) has a monumental cathedral, a world-class opera house, and food that lives up to its reputation.
 
- In the south of Emilia Romagna you find the ministate of [San Marino](/europe/sanmarino). San Marino is an independant country - the oldest republic in the world or so they say. It's a bit of a tourist trap and you are better of visiting other Italians towns of the same size which have a lot more to offer. The only extra San Marino has is that it is independant. 
- 
+The Adriatic coast draws the summer crowds. [Rimini](/europe/italy/emiliaromagna/rimini) is the biggest and most versatile of the beach resorts, with a long stretch of sandy beach, serious nightlife, and a historic centre most visitors never discover. Smaller resorts like [Riccione](/europe/italy/emiliaromagna/riccione), [Cattolica](/europe/italy/emiliaromagna/cattolica), [Bellaria](/europe/italy/emiliaromagna/bellaria), and [Misano Adriatico](/europe/italy/emiliaromagna/misanoadriatico) line the coast to the south and north.
 
+In the south of the region you find the ministate of [San Marino](/europe/sanmarino), the oldest republic in the world -- or so they say. It is a bit of a tourist trap, and you are better off visiting other Italian towns of the same size which have more to offer. The only extra San Marino has is that it is independent.
 
- 
- While in Emilia Romagna be sure to enjoy the food. The region offers some of the finest culinary traditions of the Italian peninsula. Parma has its cheese and ham, [Ferrara](/europe/italy/emiliaromagna/ferrara) has is salame, [Bologna](/europe/italy/emiliaromagna/bologna) nicknamed la grassa, or the fat one, does a great mortadella and is the birthplace of tortellini.
+Further afield, [Comacchio](/europe/italy/emiliaromagna/comacchio) in the Po Delta is a little Venice of canals and bridges, surrounded by marshes and lagoons perfect for cycling and birdwatching. The ancient abbey of [Pomposa](/europe/italy/emiliaromagna/pomposa) and the thermal town of [Porretta Terme](/europe/italy/emiliaromagna/porretta_terme) round out a region that rewards exploration well beyond the beach.

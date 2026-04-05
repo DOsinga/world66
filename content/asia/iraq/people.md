@@ -3,64 +3,12 @@ title: "People"
 type: section
 ---
 
-**Population:** 21 722 287 (July 1998 est.)
+Iraq has a population of around 42 million people — a figure that has roughly doubled since the 1990s despite decades of war and displacement. It is a young country: well over half the population is under 25.
 
-**Age structure:**
+The country is majority Arab, predominantly Shia Muslim in the center and south. The north is predominantly Kurdish, with the Kurdistan Region governing itself with considerable autonomy. Sunni Arabs form the third main group, concentrated in the center-west of the country, the areas most affected by the 2014–2017 ISIS occupation. There are also Turkmen, Assyrians, Yazidis, Shabaks, and smaller communities, many of them concentrated in the Nineveh Plains near Mosul.
 
-*0-14 years:* 44% (male 4 865 820; female 4 711 791)
+The sectarian and ethnic divisions are real but are often overstated by outsiders. Iraqis are intensely proud of their country's civilizational heritage and many find the external reduction of Iraq to its conflicts frustrating. Hospitality is a deep cultural value — strangers are fed, housed, and helped with a generosity that regularly surprises visitors.
 
-*15-64 years:* 53% (male 5 794 336; female 5 662 163)
+Arabic and Kurdish are the two official languages. Assyrian (Syriac) and Turkmen are spoken in their respective communities. English is increasingly common among the educated urban young, particularly in Kurdistan and Baghdad.
 
-*65 years and over:* 3% (male 320 672; female 367 505) (July 1998 est.)
-
-**Population growth rate:** 3.2% (1998 est.)
-
-**Birth rate:** 38.58 births/1 000 population (1998 est.)
-
-**Death rate:** 6.57 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 0 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 1.02 male(s)/female
-
-*65 years and over:* 0.87 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 62.41 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 66.52 years
-
-*male:* 65.54 years
-
-*female:* 67.56 years (1998 est.)
-
-**Total fertility rate:** 5.23 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Iraqi(s)
-
-*adjective:* Iraqi
-
-**Ethnic groups:** Arab 75%-80% Kurdish 15%-20% Turkoman Assyrian or other 5%
-
-**Religions:** Muslim 97% (Shi'a 60%-65% Sunni 32%-37%) Christian or other 3%
-
-**Languages:** Arabic Kurdish (official in Kurdish regions) Assyrian Armenian
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 58%
-
-*male:* 70.7%
-
-*female:* 45% (1995 est.)
+Islam shapes daily life across most of Iraq. The majority Shia tradition gives Iraqi religious culture its particular character — the great pilgrimage gatherings at Karbala and Najaf, the mourning observances of Ashura, the deep veneration of the Imams. Christians have lived in Mesopotamia for two thousand years; their numbers have declined sharply due to war and emigration, but ancient churches still stand in Mosul, Erbil, and the Nineveh Plains.

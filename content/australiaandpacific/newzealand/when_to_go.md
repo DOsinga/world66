@@ -1,22 +1,16 @@
 ---
-title: "When to Go in New Zealand"
+title: "When to Go"
 type: section
 ---
 
-If you are planning to go to **New Zealand**, **when to go** is a very important decision. You can find that there are a number of times to enjoy the islands.
+New Zealand's seasons are the reverse of the Northern Hemisphere. Summer runs December to February, winter June to August. The climate varies significantly between north and south — the far north of the North Island is subtropical while the southern South Island gets proper winter cold and heavy snowfall in the mountains.
 
-#### Spring Travel
+**Summer (December–February)** is peak season. School holidays in New Zealand and Australia fill up campsites, beaches, and the main tourist spots. Prices rise and the Tongariro Crossing, Milford Sound, and Queenstown get crowded. The weather is warm and reliable, days are long, and the country is at its most accessible. Book accommodation and ferry crossings well in advance.
 
-Going to New Zealand in the spring offers you a beautiful time to visit the country. There is green grass, blooming trees and colorful flowers. The weather can be rainy, so try to bring gear for the rain if you are going to be out traveling. If you do not mind some rain, it is a great time to enjoy the mild temperatures and beauty of the islands during the spring months.
+**Autumn (March–May)** is genuinely excellent, especially in the South Island. The summer crowds have thinned, the weather stays warm, and Central Otago and Marlborough put on good colour. March is often cited as the best month for long-distance walks — conditions are settled and the worst of the summer rush is over.
 
-#### Summer Travel
+**Winter (June–August)** is ski season. Queenstown and [Wanaka](/australiaandpacific/newzealand/wanaka) in the South Island, and the Central Plateau (Ruapehu) in the North Island, are the main ski areas. Outside ski towns, winter is quiet and prices drop. Fiordland gets even more rain than usual in winter, which means the waterfalls at Milford Sound are at their most dramatic.
 
-This is the peak tourist time in New Zealand so if you travel during this time, you may have to pay more for hotels and airfare. You also are going to want to make your travel plans early, and book everything that you want to do on the trip, including any trails or tours that you are going to want to take. You can enjoy the beaches in their peak season, and enjoy the many fruits that are fresh and available. This can be a good time to visit New Zealand, but you may have to spend more money if you travel during the summer.
+**Spring (September–November)** brings wildflowers, warming temperatures, and shoulder-season prices. Weather is changeable but conditions improve steadily through the season. October and November are increasingly popular as alternatives to the full-price summer rush.
 
-#### Autumn Travel
-
-Traveling to New Zealand in the autumn months brings you pleasant temperatures, and you can enjoy the beautiful colors and mild weather. You can visit the areas of Queenstown, Central Otago, and witness the autumn colors. You can enjoy outside activities like walking trails during this time. The weather is usually still mild, so you can still dress lightly, but still enjoy the views of the Islands and not be traveling during the busiest times (which also means you may be able to save money on your vacation).
-
-#### Winter Travel
-
-Traveling in the winter to New Zealand, you will find that there is plenty of skiing available. You can also find that the rates are much lower during this season, so if you are looking to save money, you can book your travel plans to come during the winter months. You will receive more affordable rates and have plenty of winter activities to enjoy.
+In general: if you want good hiking and beach weather without peak-season crowds, aim for March or November. If skiing or snowboarding is the point, come in July or August. Summer delivers the most reliable weather and the longest days, but you'll pay more and share the highlights with many others.

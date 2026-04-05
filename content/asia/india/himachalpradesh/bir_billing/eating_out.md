@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Bir Billing"
+title: 'Eating Out'
 type: section
 ---
 

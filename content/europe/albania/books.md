@@ -3,88 +3,18 @@ title: "Books"
 type: section
 ---
 
-**Books**
+**Fiction**
 
-**Blue Guide Albania**
+Ismail Kadare is Albania's most celebrated novelist and a perennial Nobel contender. His work is the essential starting point for anyone interested in Albania. *The General of the Dead Army* (1963) — a haunting meditation on war and memory — is a good entry point. *Chronicle in Stone* is a novel set in Gjirokastër during World War II, and *Broken April* deals with the blood feud tradition in the northern mountains. All are available in English translation.
 
+**History and travel**
 
+*High Albania* by Edith Durham (1909) is a classic account of travel among the northern mountain tribes at the end of the Ottoman era. Durham spent years in the region and wrote with genuine insight and sympathy. Still readable and remarkably relevant to understanding the north.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0393314219/ref=ase_osingacom?v=glance&s=books)
+*Albania: From Anarchy to a Balkan Identity* by Miranda Vickers and James Pettifer traces the country's turbulent post-communist transition. Solid background for understanding how Albania arrived at where it is today.
 
-author: Blue Guide
+*The Accursed Mountains* by Robert Carver is a more personal and darker account of travel in northern Albania in the mid-1990s, written when the country was at its most chaotic. Vivid and occasionally unreliable, but gripping.
 
-isbn: 0393314219
+**Guidebooks**
 
-subject: travel
-
-**Albania**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0841607001/ref=ase_osingacom?v=glance&s=books)
-
-author: Insight Guides
-
-isbn: 0841607001
-
-subject: travel
-
-**Long Life to Your Children**
-
-A Portrait of High Albania
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1558490973/ref=ase_osingacom?v=glance&s=books)
-
-author: Stan Sherer,Marjorie Senechal
-
-isbn: 1558490973
-
-subject: travel
-
-**Women in Modern Albania**
-
-Firsthand Accounts of Culture and Conditions from over 200 Interviews
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/078640468X/ref=ase_osingacom?v=glance&s=books)
-
-author: Susan E. Post
-
-isbn: 078640468X
-
-subject: culture
-
-**Balkan Cinema**
-
-Evolution after the Revolution
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0835712907/ref=ase_osingacom?v=glance&s=books)
-
-author: Michael Jon Stoil,Diane Kirkpatrick (Editor)
-
-isbn: 0835712907
-
-subject: culture
-
-**The Three-Arched Bridge**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0375700943/ref=ase_osingacom?v=glance&s=books)
-
-author: Ismail Kadare,John Hodgson
-
-isbn: 0375700943
-
-subject: history
-
-**Albanian Escape**
-
-The True Story of U.S. Army Nurses behind Enemy Lines
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0813121094/ref=ase_osingacom?v=glance&s=books)
-
-author: Agnes Jensen Mangerich,As Told to Rosemary L...
-
-isbn: 0813121094
-
-subject: history
+Bradt's *Albania* guide is the most thorough English-language guidebook, updated regularly. For archaeological sites, the Blue Guide to Albania remains the definitive reference.

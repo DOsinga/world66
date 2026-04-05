@@ -3,22 +3,10 @@ title: "Beaches"
 type: section
 ---
 
-Cook Islands are perfect destination for a family holiday or honeymoon. Beaches of Cook Islands are filled with palm trees growing just above the hot whooshing water. And the ground is, of course, white-sandy. Peace, quiet, waves, palm trees, sand are words to describe Cook Islands.
-You can go to Hawaii, Dominican Republic, Maldives or some place like that, but you will nowhere find that peace like in Cooks.
-So, sit, take a deep breath, relax and find yourself for a moment in timeless PARADISE!!!!
+The Cook Islands' reputation for beaches varies significantly by island — and honest expectation-setting is useful here.
 
-Rarotonga beaches are quite different from what was written above.
-Since Rarotoga evolved from a volcanic origin, there is a continental
-coral reef encircling the entire island (at a distance ranging from
-50-200 m). There are some nice sand beaches that are engulfed with a
-calm lagoon (sea between the shoreline and mentioned coral reef). From
-my experience, there are just like 3 sandy beaches at Rarotonga at all,
-the rest is only rocky, coral flat areas with less than 60 cm of
-water (not suitable for swimiming at all). Reefs are razor sharp and
-slippery, wearing reef shoes is a vital need. If you expect a dream
-beach like the one from Blue Lagoon, than looks at Aitituki or
-different Island from Cook Islands - you could be severely disappointed
-with Raratoga's beaches (as I am).
+**Aitutaki** is where the beaches match the postcard. The motus around the lagoon have white sand, calm shallow water, and very little development. One Foot Island (Tapuaetai) is the classic, and it earns it. If a dream beach is your main goal, Aitutaki is the place.
 
-**Contributors**
-May 28, 2006
+**Rarotonga** is more complicated. The island is volcanic and encircled by a coral reef sitting 50–200m offshore. The water between the shoreline and the reef is a lagoon — calm, but often shallow and rocky rather than sandy. Genuine sandy beaches with swimmable depth are limited to a handful of spots: Muri Beach on the south-east coast is the best and most popular. The west and north coasts have flatter water but narrower strips of sand. Reef shoes are genuinely useful; the coral is sharp and slippery. Do not expect to swim freely everywhere — watch where you step and stay in established swimming areas.
+
+**The outer islands** — Atiu, Mauke, Mitiaro, Mangaia — have makatea (raised limestone) coastlines that make beaches largely inaccessible, though some have small sandy coves. These islands are not beach destinations. Go for their caves, birds, and culture instead.

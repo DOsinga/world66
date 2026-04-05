@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Wiesbaden"
+title: 'Shopping'
 type: section
 ---
 
-If you love shopping, you're in luck: **Wiesbaden shopping **has it all, for the serious shopaholic and the window shopper alike. When visiting Wiesbaden and looking for great places to go shopping, try one of these areas:
+Wiesbaden has it all for shoppers, from designer boutiques to antique dealers and a weekly farmers' market. Here are the main areas:
 
 **Wilhelmstrasse**
 

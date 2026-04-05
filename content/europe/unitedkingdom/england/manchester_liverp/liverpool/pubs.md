@@ -1,8 +1,8 @@
 ---
-title: "Bars and Cafes"
-type: location
-latitude: 50.202956
-longitude: -5.247741
+title: 'Bars and Cafes'
+type: section
 ---
 
-The city has all manner of pubs, from the oldest pub in Lancashire (the Scotch Piper, in Lydiate, about 12 miles north-east of the city centre) to Cream, the world-famous nightclub which was voted the best in the UK by a number of music magazines - over the August Bank Holiday weekend in 1999, the club organised its own festival, Creamfields, at the Old Speke Airport site.
+Liverpool has all manner of pubs and bars, from traditional Victorian boozers to slick waterfront cocktail bars. The **Philharmonic Dining Rooms** on Hope Street, opposite the Philharmonic Hall, is one of the most ornate pubs in England -- the interior is worth seeing even if you only stay for one drink.
+
+The Albert Dock area has a cluster of modern bars and cafes overlooking the water. Mathew Street and the surrounding streets in the city centre are the traditional nightlife hub, with pubs that trade heavily on Beatles heritage. For something more relaxed, the Baltic Triangle neighbourhood to the south has independent bars and coffee shops in converted warehouses.

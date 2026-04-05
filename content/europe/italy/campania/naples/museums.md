@@ -1,5 +1,5 @@
 ---
-title: "Museums in Naples"
+title: "Museums"
 type: section
 ---
 

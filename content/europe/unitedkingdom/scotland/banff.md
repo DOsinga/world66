@@ -1,14 +1,12 @@
 ---
 title: "Banff"
 type: location
-latitude: 57.664546
-longitude: -2.521754
+latitude: 57.6645
+longitude: -2.5218
 ---
 
-Travel Guide
+Banff is a small historic town on the Moray Firth coast of Aberdeenshire, where the River Deveron meets the sea. It received its royal burgh charter in 1372 and still retains a dense collection of 17th and 18th-century townhouses and public buildings, many of them Georgian, that give it a more architecturally distinguished character than most small Scottish coastal towns.
 
-The name Banff is thought to come from Scottish Gaelic meaning ‘Young Pig’ or from a stream called ‘Pigs Burn’.
+The principal attraction is Duff House, a grand Baroque mansion designed by William Adam and completed in the 1730s. Managed jointly by Historic Scotland and the National Galleries of Scotland, it functions as a country house gallery with an impressive collection of old master paintings. The wooded grounds along the Deveron include walks to the dramatic Bridge of Alvah, a single-arch span over the river gorge. The town museum on the High Street is free and contains a notable collection of stuffed birds alongside local history exhibits.
 
-The town started off as a port in the 10th century and became a royal centre at the end of the 12th century. The town was created a royal burgh in 1372.
-
-It has many 17th and 18th century buildings castle and town houses built and once owned by local lairds, prosperous tradesmen and merchants. Duff House mansion is open to visitors and houses many wonderful works of art owned by the nationl galleries, set in grounds with fantastic woodland walks to the most amazing scenic spot the 'Bridge of Alvah', see also www.banff-macduff.com 'out and about' photos. Fantastic beach, free museum in the high street, nice harbour with boat trips along the Moray Firth. Across the bridge eastward and you are in [Macduff](/europe/unitedkingdom/scotland/macduff).
+The harbour is the starting point for boat trips along the Banffshire coast and the town has a beach backed by links land. Across the Deveron bridge to the east is the neighbouring town of Macduff, with its marine aquarium. The Banffshire coast — running from Cullen westward through Sandend, Findlater Castle, and Gardenstown to Pennan — is one of the most scenic stretches of the Scottish mainland, with clifftop walks and a series of small fishing harbours.

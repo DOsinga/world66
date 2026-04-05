@@ -1,10 +1,12 @@
 ---
-title: "Chapel Hill"
+title: 'Chapel Hill'
 type: location
 latitude: 35.913154
 longitude: -79.05578
 ---
 
-This is the place to be if you love college basketball. Located in the heart of North Carolina, Chapel Hill is home to the basketball mecca, the Dean Smith Center (a.k.a. Dean Dome). It is a quaint college town, home to the University of North Carolina. There are many points of interest including Franklin Street, the University Campus, and Kenan Stadium.
+Chapel Hill is a quintessential college town, home to the University of North Carolina -- the nation's first public university. The campus is beautiful, especially in spring when the dogwoods bloom, and the surrounding streets are walkable, lively, and packed with good restaurants.
 
-The official tourism website of Chapel Hill is located at http://www.chocvb.org/.
+If you love college basketball, this is hallowed ground. The Dean Smith Center (known locally as the Dean Dome) is a mecca for Tar Heel fans. Non-ACC game tickets can be purchased fairly cheaply, while ACC games cost considerably more. Football at Kenan Stadium is a more relaxed affair -- tickets are almost always available at the gate, and a sunny Saturday afternoon in the stands is hard to beat.
+
+Franklin Street is the main drag, lined with restaurants, coffee shops, and bars. Everything is within easy walking distance of campus, giving the town a compact, self-contained feel that larger cities envy.

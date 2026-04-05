@@ -1,22 +1,12 @@
 ---
-title: "Practical Information"
+title: 'Practical Information'
 type: section
 ---
 
-RIMINI
+**Region:** Emilia-Romagna
 
- Region: Emilia Romagna
+**Phone area code:** 0541
 
- Province code: RN
+**Tourist office:** Piazzale Indipendenza 3, tel. 0541 511011.
 
- Zip code: 47900
-
- Phone area code: 0541
-
- Elevation: 5 mt / 16 feet
-
-  Tourist Office:
-
- Address: Piazzale Indipendenza, 3
-
- Phone: 511011
+**Elevation:** 5 metres above sea level.

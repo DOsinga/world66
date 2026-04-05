@@ -3,64 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 152 335 (July 1998 est.)
+Saint Lucia has a population of around 180,000. The island is predominantly rural — only about a fifth of people live in urban areas, with Castries being the only significant city.
 
-**Age structure:**
+The population is mostly of African or mixed African-European descent, a legacy of the colonial plantation economy. There is also a small East Indian community, descendants of indentured labourers brought to the island in the 19th century, and a small Carib (indigenous) population.
 
-*0-14 years:* 34% (male 26 261; female 25 747)
+English is the official language and used in schools, government, and business. But almost everyone also speaks Kwéyòl — Saint Lucian Creole French — in daily life. Kwéyòl has deep African roots and is closer to French than to English, though it is not simply a patois of either. You'll hear it everywhere from the market to the rum shop to the radio.
 
-*15-64 years:* 60% (male 45 182; female 46 956)
+Saint Lucians are predominantly Christian. About two-thirds of the population is Roman Catholic, reflecting the island's long French colonial history, with Seventh-day Adventists and Pentecostals making up most of the remainder.
 
-*65 years and over:* 6% (male 3 095; female 5 094) (July 1998 est.)
+The island has produced two Nobel laureates: economist Sir Arthur Lewis (1979) and poet Derek Walcott (1992). Both are celebrated on the island — the main hospital and a cultural centre in Castries bear their names, and their portraits have appeared on banknotes.
 
-**Population growth rate:** 1.11% (1998 est.)
-
-**Birth rate:** 22.48 births/1 000 population (1998 est.)
-
-**Death rate:** 5.64 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -5.7 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.07 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.61 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 16.95 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 71.58 years
-
-*male:* 67.94 years
-
-*female:* 75.48 years (1998 est.)
-
-**Total fertility rate:** 2.35 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Saint Lucian(s)
-
-*adjective:* Saint Lucian
-
-**Ethnic groups:** black 90% mixed 6% East Indian 3% white 1%
-
-**Religions:** Roman Catholic 90% Protestant 7% Anglican 3%
-
-**Languages:** English (official) French patois
-
-**Literacy:**
-
-*definition:* age 15 and over has ever attended school
-
-*total population:* 67%
-
-*male:* 65%
-
-*female:* 69% (1980 est.)
+Saint Lucia changed hands between Britain and France fourteen times before finally becoming British in 1814. That back-and-forth history left a deep cultural imprint: the place names are overwhelmingly French, the cuisine is Creole, and Kwéyòl is spoken far more than English in everyday conversation. The island became independent in 1979 and remains part of the Commonwealth.

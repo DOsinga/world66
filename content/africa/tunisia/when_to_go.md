@@ -3,15 +3,10 @@ title: "When to Go in Tunisia"
 type: section
 ---
 
-**The Best Season to Experience the Dunes and Beaches in Tunisia**
+**April, May, September and October** are the best months to visit Tunisia. Spring and autumn bring comfortable temperatures of 20-25 degrees across the coast and interior, the crowds thin out compared to summer, and prices are lower.
 
-This** Tunisia when to go** guide will help you pick the right travel dates. Tunisia is located at the northernmost tip of Africa. The Mediterranean Sea lies to the north and the east of Tunisia, so it is a perfect beach side destination. Other than sunny beaches, Tunisia is also popular for its culture and extreme landscapes from deserts to lush green forests.
+**Summer (June-August)** is peak tourist season for beach resorts like [Sousse](/africa/tunisia/sousse) and [Hammamet](/africa/tunisia/hammamet), but the heat inland and in the south can be brutal -- often above 40 degrees in [Tozeur](/africa/tunisia/tozeur) and the desert. If you're mainly beach-bound and don't mind sharing the sand with a lot of Europeans, summer is fine. For exploring [Tunis](/africa/tunisia/tunis), ancient sites, or the Sahara edge, it's punishing.
 
-**General Climatic Overview**
+**Winter (December-February)** is mild on the coast but cool and occasionally wet in the north. The south and desert regions become genuinely pleasant -- daytime temperatures of 15-20 degrees make winter the ideal time to explore [Douz](/africa/tunisia/douz), [Tozeur](/africa/tunisia/tozeur) and [Matmata](/africa/tunisia/matmata). The International Festival of the Sahara in Douz takes place in December.
 
-The climate in Tunisia varies according to the region. In the northern part of Tunisia, the climate is predominantly Mediterranean. October to May is the months that are least favorable for the tourists. The area experiences rain during this period, so it is not the best time for sightseeing. The weather towards the south is dry and warm. The summer temperature is high and goes to 28 degree Celsius. Along the coast, the average summer temperature is around 33 degree Celsius; in January, the temperature can be as low as 7 degrees Celsius. **
-**
-
-#### ** Best Time to Visit**
-
-Given the weather conditions and the range of activities, March to June and September to October are the best months to visit Tunisia. The former period witnesses spring, when Tunisia is warm but not scorching hot. The latter months experience autumn and are perfect to take in the natural beauty of the region. This is also the right time to see the sand dunes as the summer heat will not permit you to visit the dunes. The month of November offers several traditional festivals in this region to mark the completion of the date harvesting season.
+**Ramadan** shifts each year. Many restaurants are closed during the day and the pace of life changes considerably. Some travellers find it an interesting time to experience Tunisian culture; others find the restrictions on eating and drinking in public frustrating. Either way, plan around it rather than being surprised by it.

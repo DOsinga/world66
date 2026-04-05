@@ -1,49 +1,14 @@
 ---
-title: "Redlands Bowl"
+title: 'Redlands Bowl'
 type: poi
-phone: "909-793-7316"
-type: "Concerts"
-url: "www.redlandsbowl.org"
 latitude: 34.053552
 longitude: -117.184918
 ---
 
-Redlands
-Community Music Association INC. (RCMA) is the presenter of The Redlands
-Bowl Summer Music Festival. The festival offers a wide variety of professional
-programs including symphonies, ballet, opera, light opera, folk/culturally
-diverse music and dance, jazz and much more. Committed to promoting
-the cultural needs of the City of Redlands as well as the surrounding
-communities, the RCMA offers between 18 - 21 concerts each summer season,
-serving over 100,000 people. The performances begin at 8:15 p.m. each
-Tuesday and Friday evening from the end of June through the end of August.
-Our outdoor amphitheater seats approximately 6000 first come, first
-served (bench seating for 4000, surrounding grassy area holds an additional
-2000).
+The Redlands Bowl Summer Music Festival has been running since 1924, making it one of the oldest continuously operating music festivals in the United States. The Redlands Community Music Association presents 18 to 21 professional concerts each summer season, featuring symphonies, ballet, opera, jazz, and culturally diverse music and dance. All performances are free.
 
-FREE
+Shows begin at 8:15 PM each Tuesday and Friday evening from late June through the end of August. The outdoor amphitheater seats approximately 4,000 on benches, with the surrounding grassy area holding another 2,000. Seating is first come, first served -- bring a blanket or low chair for the lawn.
 
-**
+The Bowl is in the historic district of Redlands. There is a public parking lot at the corner of Citrus Avenue and Eureka Street, half a block north, and a parking structure on Citrus Avenue half a block east of Orange Street.
 
-Parking **
-
-The Redlands Bowl is located in the historic district of Redlands and
-has no official parking lot. There is a public parking lot on the
-corner of Citrus Ave. and Eureka St., ½ block north of the Bowl.
-Another parking structure is on Citrus Ave., 1/2 block east of Orange
-St. Additional parking is available along the residential streets
-surrounding the Bowl. Residents welcome Bowl attendees, but please do
-not block drive ways. Do not park in the basement parking under the
-Redlands Mall as that lot is closed and locked before the performances
-are over.
-
-**Contributors**
-December 05, 2005
-
-type: Concerts
-
-
-
-tel: 909-793-7316
-
-url: [www.redlandsbowl.org](http://www.redlandsbowl.org/)
+Tel: 909-793-7316. [redlandsbowl.org](http://www.redlandsbowl.org/)

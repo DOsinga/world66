@@ -3,9 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-Whatever else you do, be sure to go to the Mercado dos Lavradores, a market on three floors, the bottom one being given entirely to fish.
+The Mercado dos Lavradores is the essential Funchal shopping experience. A market on three floors, the bottom level given entirely to fish. The upper floors sell tropical fruit, flowers, and local crafts. Go in the morning when it is busiest and freshest.
 
-Recommendation: Try to taste scabbard fish, a local delicacy, before you see it here. It's delicious with a very delicate taste but is it ugly!!
-
-**Contributors**
-June 03, 2007
+Madeiran embroidery is the island's most famous craft export, available in shops throughout the old town. Madeira wine, wicker goods, and local honey cake also make good things to bring home.

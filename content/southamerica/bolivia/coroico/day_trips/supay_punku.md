@@ -1,12 +1,10 @@
 ---
 title: "Supay Punku"
 type: poi
-latitude: -14.885665
-longitude: -68.926603
+latitude: -16.2000
+longitude: -67.7000
 ---
 
-Supay Punku is a very isolated place, even though it’s relatively easy to reach. In the middle of pure forest, you’ll find these Devils Gates, an impressive narrow canyon that is closed at the top. In the same area you’ll find an otherworldly lagoon that awaits the visitor who is daring enough to climb a 3 meter cascade, the only way to reach the base of the 100 meter Paradise Fall. The whole area is of the greenest possible cloudforest, where you can spot such peculiar birds as the Cock of the Rock (the “Tunqui”, symbol of the High Amazon) and the so called Quetzal.
-The walk itself is pretty heavy, as you often have to walk through the river and the paths involve some difficult climbs. On the more relaxing side, the crystal-clear river forms the most beautiful natural pools. A small extra is that you might find fossils of seashells in the rocks on the riverbed.
+The "Devil's Gates" — an impressive narrow canyon closed at the top, deep in pristine cloudforest. Beyond it lies an otherworldly lagoon at the base of the 100-metre Paradise Fall, reachable only by climbing a three-metre cascade. The surrounding forest is home to the Cock of the Rock (the "Tunqui," symbol of the High Amazon) and the Quetzal.
 
-**Contributors**
-January 13, 2007
+The walk is demanding: you will wade through the river repeatedly and tackle some difficult climbs. But the crystal-clear water forms beautiful natural pools along the way, and you might find fossils of seashells in the riverbed rocks. Go with a guide.

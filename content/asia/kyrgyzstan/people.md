@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 4 522 281 (July 1998 est.)
+Kyrgyzstan has a population of roughly 7.4 million, making it one of the smaller Central Asian nations. About two-thirds of the population lives in rural areas, which gives you a sense of how much the country's identity is tied to the land.
 
-**Age structure:**
+The Kyrgyz make up about three-quarters of the population. They are a Turkic people with a nomadic heritage that stretches back thousands of years. That heritage is not just historical -- many families still spend their summers in the high pastures with their livestock, living in yurts exactly as their ancestors did. Hospitality is central to Kyrgyz culture; refusing an invitation for tea or food is considered rude.
 
-*0-14 years:* 36% (male 817 229; female 800 248)
+Uzbeks are the largest minority, making up roughly 15% of the population and concentrated in the south around [Osh](/asia/kyrgyzstan/osh) and the Fergana Valley. Russians, once a much larger community during Soviet times, now represent a smaller share and are mostly found in [Bishkek](/asia/kyrgyzstan/bishkek) and the north. Smaller communities of Dungans (Chinese Muslims), Uighurs, Tajiks and others add to the mix.
 
-*15-64 years:* 58% (male 1 285 520; female 1 337 259)
+Kyrgyz and Russian are both official languages. In Bishkek and the north, Russian is the default language of business and daily life. In the south and in rural areas, Kyrgyz dominates. The two languages use the Cyrillic alphabet, which is helpful for reading signs even if you speak neither.
 
-*65 years and over:* 6% (male 104 105; female 177 920) (July 1998 est.)
+Islam is the main religion, practiced by about 80% of the population, but Kyrgyzstan's version is relaxed and deeply influenced by pre-Islamic shamanic traditions. You will see shrines and sacred trees alongside mosques. Alcohol is widely available and drinking is common, especially in the north. The Russian Orthodox minority has its own churches, particularly in Karakol and Bishkek.
 
-**Population growth rate:** 0.37% (1998 est.)
-
-**Birth rate:** 22.03 births/1 000 population (1998 est.)
-
-**Death rate:** 8.65 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** -9.72 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.02 male(s)/female
-
-*15-64 years:* 0.96 male(s)/female
-
-*65 years and over:* 0.58 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 74.76 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 63.77 years
-
-*male:* 59.45 years
-
-*female:* 68.3 years (1998 est.)
-
-**Total fertility rate:** 2.68 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Kyrgyzstani(s)
-
-*adjective:* Kyrgyzstani
-
-**Ethnic groups:** Kirghiz 52.4% Russian 18% Uzbek 12.9% Ukrainian 2.5% German 2.4% other 11.8%
-
-**Religions:** Muslim 75% Russian Orthodox 20% other 5%
-
-**Languages:** Kirghiz (Kyrgyz)official language Russianofficial language
-
-*note:* in March 1996 the Kyrgyzstani legislature amended the constitution to make Russian an official language along with Kirghiz in territories and work places where Russian-speaking citizens predominate
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 97%
-
-*male:* 99%
-
-*female:* 96% (1989 est.)
+Clan and family ties remain strong, especially outside the cities. The Kyrgyz organize themselves by tribe and clan, and knowing which region someone comes from tells you a lot about their identity. The north-south divide -- between the more Russified, urban north and the more traditional, Uzbek-influenced south -- is a real feature of Kyrgyz life and politics.

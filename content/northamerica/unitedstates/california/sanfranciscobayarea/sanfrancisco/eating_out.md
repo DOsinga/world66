@@ -1,18 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Be prepared to dine well: San Francisco has over 3,000 restaurants. Most range from tasty meals to exquisite six-course dinners. Expect a culinary emphasis on fresh ingredients - the hallmark of California cuisine.
+San Francisco is one of the great food cities of the world. This is where California cuisine was born -- that obsession with seasonal, local, farm-fresh ingredients that has since spread everywhere. The restaurant scene ranges from Michelin-starred fine dining to Mission District taquerias where a super burrito costs less than a fancy coffee.
 
-## Categories
-
-[Seafood](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=Seafood)
-[French](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=French)
-[Italian](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=Italian)
-
-[Steakhouses](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=Steakhouses)
-[Oriental](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=Oriental)
-
-[Indian](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=Indian)
-[Mexican](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/eatingout?subsection=Mexican)
+Chinatown serves some of the most authentic Chinese food outside Asia. North Beach is still the place for Italian. The Ferry Building houses an outstanding collection of artisan food producers. And the city's ethnic diversity means you can eat your way around the globe without leaving the seven-by-seven.

@@ -5,8 +5,20 @@ latitude: -31.875984
 longitude: 147.286949
 ---
 
-My favourite state - love it because it encorporates some of the most beautiful beaches, beautiful bushland and bushwalking opportunities, the gorgeous [Sydney](/australiaandpacific/australia/newsouthwales/sydney) harbour scene, and the Blue Mountains area is colder and the air is fresher there. 
+New South Wales is the most populous state in Australia and home to [Sydney](/australiaandpacific/australia/newsouthwales/sydney) — the country's largest city and, for most international visitors, the first point of arrival. The state stretches from the subtropical coast north of Sydney to the alpine country in the south, across the western plains and into genuine outback.
 
-Sydney's Opera House is not the only reason why one should visit this marvellous city. The Sydney harbour area with the famous Harbour Bridge, the 'Rocks' area (the place where the first settlement took place) and Chinatown are only a few of the other places worth a visit. To the east, some of the fines beaches of NSW can be found. Bondi, Tamarama and Bronte are excellent beaches, not only for sunbathing but also for surfing. And just when you think you've already seen the best when it comes down to waves, set off for Byron Bay at the nothern tip of NSW, also better known as 'the surfing Mecca'. 
+Sydney anchors the state and dominates its identity. The Opera House, the Harbour Bridge, the ferries crossing the harbour at rush hour — all of it lives up to the reputation. Beyond the city, the eastern suburbs have some of the country's best beaches: Bondi, Tamarama, Coogee, and Manly are all accessible by public transport. The coastal walk from Bondi to Coogee is one of the finest urban walks in the world.
 
-The Blue Mountains and the Snowy Mountains, both part of the Great Dividing Range, are located in NSW. The Blue Mountains National Park is an excellent spot to do some bushwalking, whether for a short trip or for a several days' walk, and this is only one of the many NSW National Parks. The Snowy Mountains offer the perfect places for skiing and when the snow melts again, there is always the possibility of a wild water rafting trip, not to mention bushwalking and mountain treking into areas offering some of the most unique and beautiful plants and wildlife in Australia.
+An hour west of Sydney, the Blue Mountains National Park drops dramatically into forested valleys. The Three Sisters at Katoomba is the famous viewpoint, but the walking tracks that descend into the gorges below are the real attraction — ancient eucalyptus forest, sandstone cliffs, and waterfalls. The towns of Leura and Katoomba have good cafes and places to stay.
+
+The Snowy Mountains, in the Kosciuszko National Park in the state's southeast, contain Australia's highest peak (Mount Kosciuszko, 2,228 m) and the country's main ski resorts — Thredbo and Perisher. The ski season runs June to September. In summer, the high country has excellent alpine hiking and mountain biking.
+
+The north coast of NSW — Byron Bay in particular — is a magnet for surfers, yoga retreats, and travellers who overstay a night or two and end up staying for weeks. Byron is at the easternmost point of the Australian mainland; the lighthouse walk at dawn has become a classic sunrise experience.
+
+The Hunter Valley, two hours north of Sydney, is NSW's most famous wine region. Semillon is the signature white; Shiraz and Cabernet are produced here too. Most cellar doors open daily.
+
+## Destinations in New South Wales
+
+[Sydney](/australiaandpacific/australia/newsouthwales/sydney)
+[Byron Bay](/australiaandpacific/australia/newsouthwales/byronbay)
+[Broken Hill](/australiaandpacific/australia/newsouthwales/brokenhill)

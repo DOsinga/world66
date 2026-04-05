@@ -1,21 +1,16 @@
 ---
-title: "When to Go in Turkey"
+title: "When to Go"
 type: section
 ---
 
-After reading about the many attractions in **Turkey**, **when to go** is instantly the next question you might ponder. As you imagine yourself exploring the beautiful wonders of Istanbul's Grand Bazaar or touring the Princes’ Islands, you want to make sure the weather is just right. You do not want it to be rainy, or very cold. However, you would not want to endure temperatures in the hundreds mixed with high humidity either. As you are beginning the process to planning your trip, we have a few tips that might help you decide on when to go.
+Turkey is large enough that the best time depends heavily on where you're going.
 
-**Regions & Seasons**
+**Spring (April-May)** is the best overall time for most of Turkey. Temperatures are warm but not brutal, wildflowers are out across the Anatolian plateau, and tourist crowds — while growing — haven't yet peaked. Good for Istanbul, Cappadocia, the Aegean coast, and the historic sites. Accommodation is more expensive than winter but easier to find than summer.
 
-With seven different regions, Turkey has a diverse climate. Along the coast of the Marmara Sea that is called the Marmara region, the weather is moderate with temperatures falling below zero in the winter. To the west, the Aegean region has a mild Mediterranean climate with calm temperatures. In the heart of the country in the region called Central Anatolian region where the landscape has many hills and mountains, the temperature gets colder with snow at the highest peaks. This is the location of Anatolian Plateau, where the temperatures are nice during the summer and freezing during the winter. To the south lies the Mediterranean region where the weather is the same as the Aegean region. Around the Black Sea region, the climate is wet, warm and humid. In the Eastern and Southeastern region of Anatolia, the weather is harsh during the winter and moderate during the summer.
+**Summer (June-August)** is peak season on the Mediterranean and Aegean coasts, with warm sea temperatures and long days. It's the right time if you want to swim and lie on a beach. But the same period is punishing for sightseeing in Cappadocia (scorching), eastern Turkey (very hot), and Istanbul (crowded and humid). July and August see the highest prices, the most tourists, and the most domestic Turkish holiday traffic — book well ahead.
 
-The winter season in Turkey is nothing out of the norm. The weather is cold and chilly. There is much rainfall and in the high elevations, plenty of snow. It starts in mid-November and ends early March. The weather during the summer is very hot and extreme. Five of the seven regions experience server temperatures ranging into the high hundreds. There is little to no rain and the weather is humid. The autumn season is calm and mild. The days are shorter and the chance of rain increases, as you get deeper into the season. Lastly, the spring season has moderate weather in every region with longer days and few rain showers.
+**Autumn (September-October)** is arguably the sweetest time to travel. The sea is still warm from summer, the crowds thin, the light turns golden, and temperatures are ideal for walking and sightseeing. October is particularly good — one of the better months to be in Istanbul. Wine harvest in the Aegean wine regions (Bozcaada, Urla) also happens in September.
 
-**When to Go**
+**Winter (November-March)** is low season on the coasts, and many hotels and restaurants in resort towns close entirely. But winter is a fine time for Istanbul — there are far fewer tourists, prices drop, and the city's tea houses, mosques, and covered bazaars are at their most atmospheric. Cappadocia looks extraordinary with snow. Skiing is possible at Uludag near [Bursa](/asia/turkey/bursa) and at Erciyes near [Kayseri](/asia/turkey/kayseri) from December to March. Eastern Turkey is harsh in winter — roads close, temperatures drop severely.
 
-When deciding to travel to Turkey, the best time to go is during the spring season. With longer days and comfortable weather, this would be an ideal time to visit.** **
-
-**Contributors**
-March 31, 2010
-
-April 02, 2010
+**Ramadan** varies by year (it moves forward about 11 days annually). During Ramadan, some restaurants close during the day and the country takes on a different mood — more introspective during the day, livelier at night after the fast breaks (iftar). It's not a reason to avoid Turkey, but it's worth knowing about. Seker Bayrami (end of Ramadan) and Kurban Bayrami (Feast of Sacrifice) are the two major holidays when domestic travel peaks, transport fills up, and many businesses close for 3-5 days.

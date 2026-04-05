@@ -1,13 +1,12 @@
 ---
 title: "Sights"
 type: section
-type: "Hotspots"
 ---
 
-Please find great Cambodia tourist attractions below.
+Cambodia's most spectacular sights are concentrated in two places — the Angkor temple complex and the capital Phnom Penh — but the country has much more to offer beyond these anchors.
 
-### [Angkor
+**[Angkor](/asia/cambodia/angkorwat)** is the obvious starting point. The complex contains over a hundred temples built between the 9th and 13th centuries, spread across a vast archaeological park near [Siem Reap](/asia/cambodia/siemreap). Angkor Wat itself — the world's largest religious building — is only the beginning. Bayon, with its enigmatic stone faces, and Ta Prohm, where trees have grown through the walls, are equally unforgettable. Allow at least two or three days to do the complex justice; the standard one-day rush through the highlights leaves most visitors wishing they'd had more time.
 
-The celebrated temples of Angkor are Cambodia's greatest tourist attraction. The 100 or so temples are the sacred remains of what was once a much larger administrative and religious centre, and were built between the 9th and 13th centuries to glorify a succession of Khmer kings. The three most magnificent temples are Bayon, Ta Prohm and the immense Angkor wat](http://www2.world66.com/asia/cambodia/sights/angkor). Most of Angkor was abandoned in the 15th century and the temples were gradually cloaked by forest. The site became the source of scholarly interest in the late-19th [more..](http://www2.world66.com/asia/cambodia/sights/angkor)
+In **[Phnom Penh](/asia/cambodia/phnompenh)**, the Silver Pagoda and Royal Palace complex reward a long morning. The National Museum holds the finest collection of Khmer sculpture outside Angkor. The Tuol Sleng Genocide Museum — a former school that served as the Khmer Rouge's main prison — is one of the most sobering places you'll visit anywhere. Combined with a trip to the Killing Fields of Choeung Ek, 15km from the city, it forms a necessary reckoning with modern history.
 
-type: Hotspots
+Away from these two poles: [Battambang](/asia/cambodia/battambang) has French colonial architecture and excellent day trips to the bamboo train and hilltop temples. [Kep](/asia/cambodia/kep) is a ghost-resort on the south coast where ruined villas from the 1960s are slowly being reclaimed by vegetation. [Kratie](/asia/cambodia/kratie) on the Mekong offers the chance to see rare Irrawaddy dolphins. The Cardamom Mountains in the southwest are among mainland Southeast Asia's most intact forest ecosystems and increasingly accessible via Koh Kong.

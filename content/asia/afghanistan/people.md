@@ -3,66 +3,14 @@ title: "People"
 type: section
 ---
 
-**Population:** 24 792 375 (July 1998 est.)
+Afghanistan is home to a rich tapestry of ethnic groups, each with distinct traditions, languages and histories. The largest group is the Pashtuns, who make up roughly 40% of the population and dominate the south and east. Tajiks, the second largest group, are concentrated in the north and west and in [Kabul](/asia/afghanistan/kabul). The Hazara people, who live primarily in the central highlands around [Bamian](/asia/afghanistan/bamian), have Mongol ancestry and practice Shia Islam. Uzbeks and Turkmens inhabit the northern plains near [Mazar-i-Sharif](/asia/afghanistan/mazarisharif) and [Maimana](/asia/afghanistan/maimana).
 
-**Age structure:**
+The two main languages are Dari (Afghan Persian) and Pashto, both official. Dari is the lingua franca in cities and the north; Pashto dominates the Pashtun heartland. Many Afghans speak both, and Uzbek and Turkmen are common in the north.
 
-*0-14 years:* 43% (male 5 425 510; female 5 216 954)
+Hospitality is not a nicety here -- it is a deeply held obligation. Under the Pashtun code of Pashtunwali, a guest must be sheltered and fed regardless of the host's own circumstances. Expect to be invited for tea, offered food you cannot refuse, and asked about your family. Accepting graciously matters more than the details of what you eat or drink.
 
-*15-64 years:* 54% (male 6 978 549; female 6 494 253)
+Afghanistan is a profoundly poetic culture. Rumi, arguably the most widely read poet in the world, was born in [Balkh](/asia/afghanistan/balkh). Poetry gatherings remain a living tradition. Men recite couplets from Hafiz and Rumi in conversation the way others might quote song lyrics.
 
-*65 years and over:* 3% (male 357 780; female 319 329) (July 1998 est.)
+Tea is the social glue -- green tea (chai sabz) in the north, black tea (chai siah) in the south. It accompanies every meeting, every negotiation, every moment of rest. Refusing tea is almost unheard of.
 
-**Population growth rate:** 4.21% (1998 est.)
-
-*note:* this rate reflects the continued return of refugees
-
-**Birth rate:** 42.37 births/1 000 population (1998 est.)
-
-**Death rate:** 17.4 deaths/1 000 population (1998 est.)
-
-**Net migration rate:** 17.14 migrant(s)/1 000 population (1998 est.)
-
-**Sex ratio:**
-
-*at birth:* 1.05 male(s)/female
-
-*under 15 years:* 1.03 male(s)/female
-
-*15-64 years:* 1.07 male(s)/female
-
-*65 years and over:* 1.12 male(s)/female (1998 est.)
-
-**Infant mortality rate:** 143.63 deaths/1 000 live births (1998 est.)
-
-**Life expectancy at birth:**
-
-*total population:* 46.83 years
-
-*male:* 47.35 years
-
-*female:* 46.29 years (1998 est.)
-
-**Total fertility rate:** 6.01 children born/woman (1998 est.)
-
-**Nationality:**
-
-*noun:* Afghan(s)
-
-*adjective:* Afghan
-
-**Ethnic groups:** Pashtun 38% Tajik 25% Uzbek 6% Hazara 19% minor ethnic groups (Aimaks Turkmen Baloch and others)
-
-**Religions:** Sunni Muslim 84% Shi'a Muslim 15% other 1%
-
-**Languages:** Pashtu 35% Afghan Persian (Dari) 50% Turkic languages (primarily Uzbek and Turkmen) 11% 30 minor languages (primarily Balochi and Pashai) 4% much bilingualism
-
-**Literacy:**
-
-*definition:* age 15 and over can read and write
-
-*total population:* 31.5%
-
-*male:* 47.2%
-
-*female:* 15% (1995 est.)
+Islam shapes daily life completely. Afghanistan is over 99% Muslim, predominantly Sunni with a significant Shia minority (mainly Hazara). The call to prayer punctuates the day. During Ramadan, eating and drinking in public during daylight hours is unacceptable. Since the Taliban's return, religious law governs all aspects of public life, and women are largely excluded from public spaces, education and employment.

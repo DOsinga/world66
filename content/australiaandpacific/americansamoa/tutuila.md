@@ -5,11 +5,10 @@ latitude: -14.306479
 longitude: -170.759739
 ---
 
-Tutuila is the largets of the seven island and the main base for travelers. On the island is a large National Park which is one of the major attractions - together with sun, sea and sand of course.
+Tutuila is the largest of American Samoa's seven islands and the main base for travelers. Nearly all flights arrive here, and Pago Pago — the capital — is on Tutuila's south coast, inside the deep harbor carved by a collapsed volcanic caldera.
 
+The National Park of American Samoa covers a significant portion of the island's northern coast. Start at the visitor center in Pago Pago (Fagatogo) before heading out. A scenic road runs from Pago Pago over to the north coast — allow a few hours, including stops at the viewpoints along Afono Pass. The Amalau Valley is one of the better spots to watch for flying foxes gliding above the canopy.
 
- Stop first at the visitor center in Pago Pago. A scenic road leads from Pago Pago to the north coast. Allow a few hours for this drive, including stops. You may wish to stay in overnight in the villages next to the park, but prior arrangements should be made. Along the road there are panoramic views, especially from Afono Pass. The Amalau Valley is a good place to watch above the trees for flying foxes. There is a foot trail out towards Pola Island from the village of Vatia.
+From the village of Vatia on the north coast, a trail leads toward the sea cliffs overlooking Pola Island. It's a short walk with dramatic views.
 
-
- 
- Mount Alava lies to the north of Pago Pago Harbor. A hiking trail along the maintenance road leads to the 1610 foot summit; the trailhead is located at Fagasa Pass, a short drive west of Pago Pago. The hike is 6 miles round trip; allow 3 hours for your hike up and 2 hours for your return to the pass.
+Mount Alava, at 490 metres (1,610 feet), dominates the ridge north of Pago Pago Harbor. The hiking trail follows a maintenance road to the summit. The trailhead is at Fagasa Pass, a short drive west of town. The round trip is about 10 kilometres; allow 3 hours up and 2 hours down. Views over the harbor and across to the Manu'a Islands on a clear day are worth the effort.

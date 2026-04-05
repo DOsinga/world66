@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Koronadal City"
+title: "Eating Out"
 type: section
 accessibility: "Center of the City"
 address: "Koronadal City, General Santos City, Tacurong City, and Cotabato City"

@@ -5,18 +5,6 @@ latitude: 44.091629
 longitude: 8.223251
 ---
 
-Along the coast, after [Albenga](/europe/italy/liguria/albenga), we find Ceriale (pop. about 5,000), not far from Arroscia valley and Pennavaire valley it is a nice seaside resort at the foot of Monte Croce (541 meters or 1775 feet). The most famous place is the Bastion which is a circular tower built around 1563 as defense from Saracens raids.
+Ceriale is a small seaside town on the **Riviera delle Palme**, the western Ligurian coast between **Albenga** and Savona, with a permanent population of about 5,500 that swells several times over in high summer. The town itself is an unremarkable modern Italian beach resort — wide sandy beach, long promenade, parasols in neat rows from June to September — but its setting is pretty: behind the beach, the steep green hills of the Arroscia and Pennavaire valleys rise towards Monte Croce, and in front lies the characteristic curving Ligurian coast with **Gallinara** — the small uninhabited island known in ancient times as an exile destination for early Christians — visible offshore.
 
-
- Valuable works of art are housed in the baroque parish church of Santi Giovanni ed Eugenio, while the church of the cemetery, at Peagna, contains traces of frescoes from the fifteenth-sixteenth century. This small village in the immediate hinterland of Ceriale is accessible (a part from the main road) by means of a narrow and gently sloping alley, lined with pots of geraniums and basil. An important cultural festival is staged there in the summer, culminating in a book fair.
-
-
- The town has a beautiful beach full of attractions and an interesting system of walking path around it, as for example The Fountains / Ibà Valley path. It is all one with the nearby "Piana di [Albenga](/europe/italy/liguria/albenga)" which is the most fertile land in Liguria for vegetable products, exported all over Italy and the world.
-
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
-
-
- pelos@tn.village.it
-
-
- http://www.global.village.it/~pelos/index.htm
+The central monument is the **Bastione**, a circular stone tower built in 1563 as part of a chain of coastal watchtowers designed to warn the Ligurian towns of Saracen raids; it still dominates the seafront. The baroque **Parish Church of Santi Giovanni ed Eugenio** holds some good 18th-century altarpieces. More interesting is the small hilltop hamlet of **Peagna** just above the town, reached by a narrow lane lined with geraniums and basil, where the **cemetery church** has traces of 15th–16th-century frescoes; the village hosts an annual summer cultural festival and book fair. Behind Ceriale, the **Iba Valley** and the **Fountains** path are good short walks into the hinterland. The Ceriale coast is part of the fertile **Piana di Albenga**, Liguria's main market-garden district, so the local produce — especially the Albenga violet asparagus, tomatoes, and basil for pesto — is excellent.

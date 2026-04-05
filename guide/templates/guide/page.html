@@ -93,10 +93,12 @@
 {% block hero %}
 {% if hero_image_url %}
 <div id="hero" class="hero hero-image">
-  <div class="hero-overlay"></div>
   {% if hero_image_source %}
   <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
   {% endif %}
+  <div id="hero-map-zone" class="hero-map-zone">
+    <button id="hero-map-close" class="hero-map-close">&#x2715; Photo</button>
+  </div>
   <button class="hero-expand-btn" id="hero-expand-btn" aria-label="Expand image" title="Show more">&#8964;</button>
 </div>
 {% elif is_continent %}
@@ -117,23 +119,15 @@
 {% block content %}
 <h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
-{% if hero_image_url and markers_json != "[]" or hero_image_url and lat and lng %}
+{% if markers_json != "[]" or lat and lng %}
+{% if not is_continent %}
 <div class="content-map-preview" id="content-map-preview">
-  <div class="content-map-preview-inner">
-    <div id="location-map" class="content-map-leaflet"></div>
-    <div class="content-map-preview-image" id="content-preview-image" style="background-image:url('{{ hero_image_url }}')"></div>
-  </div>
-  <div class="content-map-toggle">
-    <button class="content-map-btn active" id="btn-map" data-target="map">Map</button>
-    <button class="content-map-btn" id="btn-photo" data-target="photo">Photo</button>
-  </div>
+  <div id="location-map" class="content-map-leaflet"></div>
+  {% if hero_image_url %}
+  <button class="content-map-expand-btn" id="content-map-expand" title="Expand map to full width">&#x2922;</button>
+  {% endif %}
 </div>
-{% elif not hero_image_url and markers_json != "[]" or not hero_image_url and lat and lng %}
-<div class="content-map-preview" id="content-map-preview">
-  <div class="content-map-preview-inner">
-    <div id="location-map" class="content-map-leaflet"></div>
-  </div>
-</div>
+{% endif %}
 {% endif %}
 
 {% if page.properties %}
@@ -249,19 +243,24 @@ initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
 {% elif markers_json != "[]" %}
 <script>
-initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
+var _w66map = initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
 </script>
 {% elif lat and lng %}
 <script>
-initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
+var _w66map = initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
 </script>
 {% endif %}
 {% if hero_image_url %}
 <script>
 (function() {
-  // Expand/collapse hero image
   var hero = document.getElementById('hero');
   var expandBtn = document.getElementById('hero-expand-btn');
+  var heroMapZone = document.getElementById('hero-map-zone');
+  var heroMapClose = document.getElementById('hero-map-close');
+  var contentPreview = document.getElementById('content-map-preview');
+  var contentExpandBtn = document.getElementById('content-map-expand');
+
+  // Hero image expand/collapse
   if (hero && expandBtn) {
     var expanded = false;
     expandBtn.addEventListener('click', function() {
@@ -272,23 +271,31 @@ initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escap
     });
   }
 
-  // Map/photo toggle in content preview
-  var btnMap = document.getElementById('btn-map');
-  var btnPhoto = document.getElementById('btn-photo');
-  var mapEl = document.querySelector('.content-map-leaflet');
-  var photoEl = document.getElementById('content-preview-image');
-  if (btnMap && btnPhoto && mapEl && photoEl) {
-    btnMap.addEventListener('click', function() {
-      mapEl.style.display = '';
-      photoEl.style.display = 'none';
-      btnMap.classList.add('active');
-      btnPhoto.classList.remove('active');
-    });
-    btnPhoto.addEventListener('click', function() {
-      mapEl.style.display = 'none';
-      photoEl.style.display = '';
-      btnMap.classList.remove('active');
-      btnPhoto.classList.add('active');
+  // Map expand into hero / collapse back
+  if (contentExpandBtn && heroMapZone && contentPreview && typeof _w66map !== 'undefined') {
+    var mapEl = document.getElementById('location-map');
+
+    function expandMapToHero() {
+      heroMapZone.insertBefore(mapEl, heroMapZone.firstChild);
+      hero.classList.add('hero-showing-map');
+      contentPreview.style.visibility = 'hidden';
+      requestAnimationFrame(function() { requestAnimationFrame(function() { _w66map.invalidateSize(); }); });
+    }
+
+    function collapseMapToContent() {
+      contentPreview.insertBefore(mapEl, contentPreview.firstChild);
+      hero.classList.remove('hero-showing-map');
+      contentPreview.style.visibility = '';
+      requestAnimationFrame(function() { requestAnimationFrame(function() { _w66map.invalidateSize(); }); });
+    }
+
+    contentExpandBtn.addEventListener('click', expandMapToHero);
+    if (heroMapClose) heroMapClose.addEventListener('click', collapseMapToContent);
+
+    // Click anywhere on the content map preview also expands it
+    contentPreview.addEventListener('click', function(e) {
+      if (e.target === contentExpandBtn) return;
+      expandMapToHero();
     });
   }
 })();

@@ -75,12 +75,25 @@ img { max-width: 100%; height: auto; }
   cursor: default;
 }
 
-/* Subtle dark gradient at bottom for legibility of overlay controls */
-.hero-overlay {
+/* Hero map zone — hidden until map is expanded into it */
+.hero-map-zone {
+  display: none;
   position: absolute;
   inset: 0;
-  background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.35) 100%);
-  pointer-events: none;
+  background: #f0f0ec;
+}
+
+.hero-map-zone #location-map {
+  width: 100%;
+  height: 100%;
+}
+
+.hero.hero-showing-map .hero-map-zone {
+  display: block;
+}
+
+.hero.hero-showing-map .hero-expand-btn {
+  display: none;
 }
 
 /* Attribution link bottom-left */
@@ -181,15 +194,13 @@ img { max-width: 100%; height: auto; }
    ========================================================================== */
 
 .content-map-preview {
+  position: relative;
   margin: 0 0 20px 0;
+  height: 200px;
   border: 1px solid var(--border);
   border-left: 3px solid var(--red);
   overflow: hidden;
-}
-
-.content-map-preview-inner {
-  position: relative;
-  height: 200px;
+  cursor: pointer;
 }
 
 .content-map-leaflet {
@@ -197,34 +208,22 @@ img { max-width: 100%; height: auto; }
   height: 100%;
 }
 
-.content-map-preview-image {
-  display: none;
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-position: center 40%;
-}
-
-.content-map-toggle {
-  display: flex;
-  border-top: 1px solid var(--border);
-  background: var(--sidebar-bg);
-}
-
-.content-map-btn {
-  flex: 1;
-  padding: 5px 0;
-  font-size: 12px;
-  font-family: Verdana, Arial, sans-serif;
-  background: none;
-  border: none;
-  border-right: 1px solid var(--border);
+/* Expand button on the content map preview */
+.content-map-expand-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  z-index: 1000;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 15px;
+  line-height: 1;
   cursor: pointer;
-  color: var(--text-light);
+  color: var(--text);
 }
-.content-map-btn:last-child { border-right: none; }
-.content-map-btn:hover { color: var(--red); background: #fff; }
-.content-map-btn.active { color: var(--red); font-weight: bold; background: #fff; }
+.content-map-expand-btn:hover { background: #fff; color: var(--red); }
 
 .header-top {
   padding: 14px 20px 10px;

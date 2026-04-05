@@ -104,6 +104,7 @@
 {% if is_continent %}
 <div id="hero" class="hero">
   <div id="country-map" class="hero-layer hero-map-layer"></div>
+  <div class="hero-title">{{ page.title }}</div>
 </div>
 {% elif hero_image_url or markers_json != "[]" or lat and lng %}
 <div id="hero" class="hero">
@@ -118,6 +119,7 @@
   </div>
   {% endif %}
   {% endif %}
+  <div class="hero-title">{{ page.title }}</div>
   <button class="hero-expand-btn" id="hero-expand-btn" title="Show more">&#8964;</button>
 </div>
 {% endif %}

@@ -3,8 +3,6 @@ title: "Sights"
 type: section
 address: "River Road"
 type: "Public Buildings"
-latitude: 48.070414
-longitude: -123.126748
 ---
 
 Be sure to visit the magnificent

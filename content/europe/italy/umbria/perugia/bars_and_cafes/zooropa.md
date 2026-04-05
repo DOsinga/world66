@@ -4,4 +4,4 @@ type: poi
 address: "Pozzo Etruria"
 ---
 
-Live music every now and then
+Bar near the Etruscan well, occasional live music.

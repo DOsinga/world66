@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Nakhchivan City"
+title: "Getting There"
 type: section
 ---
 

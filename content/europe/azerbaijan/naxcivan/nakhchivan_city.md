@@ -1,26 +1,12 @@
 ---
 title: "Nakhchivan City"
 type: location
-latitude: 39.217626
-longitude: 45.408542
+latitude: 39.2176
+longitude: 45.4085
 ---
 
-Travel Guide
+Nakhchivan City is the capital of the Nakhchivan Autonomous Republic, an exclave of Azerbaijan separated from the main country by Armenian territory. The city stands at around 1,000 metres in the foothills of the Zangezur range on the right bank of the Nakhchivan River. It is an ancient place — Ptolemy mentioned it by name in the 2nd century BC — and has served as a regional capital under successive rulers including the Atabek Eldegiz emirate in the 12th century and the Nakhchivan Khanate in the 18th.
 
-The main city and capital of the [Nakhchivan Republic](/europe/az-nakhchivan.html), also called Nakhchivan, was an ancient trading centre. The Greeks and Romans called it Nacksuana / Naxuana (from the Greek for "sweet water"). As early as the 2nd century BC it is mentioned by Ptolomy as a thriving city.
+The outstanding historic monument is the Momine Khatum Mausoleum, a 12th-century ten-sided tower of turquoise-glazed brick decorated with geometric patterns and Kufic script, considered a masterpiece of medieval Islamic architecture. Built by the architect Ajami of Nakhchivan, it stands near a companion octagonal tomb, the Yusuf Ibn Kusir mausoleum. The city's other significant cultural sight is the Huseyn Javid Mausoleum, a modern white marble monument to the Azerbaijani poet who died in a Soviet labour camp under Stalin. The blue-domed Imamzade mosque and the Juma mosque with its large dome are also worth seeing.
 
-It is spread over the foothills of Zangezur chain, on the right bank of the Nakhchivan river at an altitude of almost 1000 m.
-
-Invader after invader looted, destroyed and (in some cases) rebuilt the city. It was the capital of the Atabek Eldegiz emirate in the 12th century and the Nakhchivan Khanate in the 18th century.
-
-The main sight in the city is the 12th century Momine Khatum Mausoleum, also known as 'Atabek Gumbezi'. More recent (1993) is the white marble mausoleum of Hussein Javid. For more details, check teh [Sights] section.
-
-The city also has an historical museum , a literary museum and the house museum of Nakhchivansku. More info, check the [Museums] section.
-
-Have a look also at the baths and the blue domed Imamzade , the Uzbek style tomb of Abu Muzaffa Bahdur Khan. The city has a few interesting mosques, particularly the Juma mosque, with its large dome.
-
-Today Nakhchivan city is home to over 60.000 inhabitants. It has some industry, centred around glass, furniture, textiles and carpets, aluminium, tobacco and grape processing. Currently the government is looking for investment to develop tourism and oil production. Socially, this regional capital is quite sophisticated with its own university and a significant scientific and artistic community. For entertainment try the palace of culture, on Azadlyg avenue, the state musical and drama theatre on Ahmed Javad street or the puppet theatre on Nizami street.
-
-The city has a lot of business visitors from Iran, Turkey and Russia (these countries have consulates in the city), leading to a reasonable offer of hotels, to be added in the [Accomodation] section.
-
-(450 km west of Baku)
+Nakhchivan City has a university, several museums, a drama theatre, and a puppet theatre. The exclave's isolation — it has no land connection to mainland Azerbaijan — gives it a particular self-contained character. Road and air connections to Turkey and Iran compensate in part, and the city has consulates from both countries along with Russia.

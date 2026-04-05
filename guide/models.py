@@ -6,7 +6,6 @@ Uses the `type` field (location, section, poi) to classify pages.
 The frontmatter title is the source of truth — no runtime name mapping.
 """
 
-import re
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
@@ -15,7 +14,6 @@ import frontmatter
 from django.conf import settings
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
-_FRONTMATTER_BLOCK = re.compile(r"^---\s*\n.*?\n---\s*\n?", re.DOTALL)
 
 DISPLAY_PROPERTIES = {
     "address": "Address",
@@ -37,16 +35,14 @@ DISPLAY_PROPERTIES = {
 
 
 def _load_md(path):
-    """Load and parse a markdown file. Returns (meta, body) or None."""
+    """Load and parse a markdown file. Returns (meta, body) or None.
+
+    Raises on invalid frontmatter — content is expected to be valid.
+    Run `python3 tools/check_frontmatter.py` to find and fix broken files.
+    """
     if not path.is_file():
         return None
-    try:
-        post = frontmatter.load(path)
-    except Exception:
-        # Best-effort fallback: strip the frontmatter block so a broken
-        # YAML header doesn't render as body text.
-        text = path.read_text(encoding="utf-8", errors="replace")
-        return {}, _FRONTMATTER_BLOCK.sub("", text, count=1)
+    post = frontmatter.load(path)
     return post.metadata, post.content
 
 

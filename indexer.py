@@ -1,13 +1,11 @@
 import sqlite3
 import hashlib
-import re
 from pathlib import Path
 
 import frontmatter
 
 CONTENT_DIR = Path("content")
 DB_PATH = Path("search.db")
-_FRONTMATTER_BLOCK = re.compile(r"^---\s*\n.*?\n---\s*\n?", re.DOTALL)
 
 def init_db(conn):
     conn.executescript("""
@@ -22,11 +20,7 @@ def file_hash(path):
     return hashlib.md5(path.read_bytes()).hexdigest()
 
 def _load(path):
-    try:
-        post = frontmatter.load(path)
-    except Exception:
-        text = path.read_text(encoding="utf-8", errors="replace")
-        return {}, _FRONTMATTER_BLOCK.sub("", text, count=1)
+    post = frontmatter.load(path)
     return post.metadata, post.content
 
 def _url_path(rel_path):

@@ -6,7 +6,7 @@ longitude: 25.920916
 image: finland.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Koli_hill_view.jpg"
 image_license: "CC BY-SA 2.5"
-image_attribution: "<a href="//commons.wikimedia.org/w/index.php?title=User:Bramt&amp;action=edit&amp;redlink=1" class="new" title="User:Bramt (page does not exist)">Lobke Thijssen</a>"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Bramt&amp;action=edit&amp;redlink=1" class="new" title="User:Bramt (page does not exist)">Lobke Thijssen</a>'
 ---
 
 Finland is a country of forest, lakes, and space. With 338,000 square kilometres and a population of just 5.5 million, it has more room per person than almost anywhere in Europe. Two-thirds of the country is covered by boreal forest. There are around 188,000 lakes. A third of Finland lies north of the Arctic Circle.

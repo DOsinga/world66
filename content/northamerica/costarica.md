@@ -6,7 +6,7 @@ longitude: -83.7534
 image: costarica.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Cartago,_costa_rica_-_panoramio.jpg"
 image_license: "CC BY 3.0"
-image_attribution: "<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013191001/http://www.panoramio.com/user/956839?with_photo_id=27765369">belemita@gmail.com</a>"
+image_attribution: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161013191001/http://www.panoramio.com/user/956839?with_photo_id=27765369">belemita@gmail.com</a>'
 ---
 
 Costa Rica punches well above its weight. This small Central American country — roughly the size of West Virginia — holds around 5% of the world's biodiversity, has two coastlines, a spine of volcanic mountains, and no army. It abolished its military in 1948 and put the money into education and healthcare instead. That unusual history has shaped a confident, stable society that welcomes visitors without much fuss.

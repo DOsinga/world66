@@ -6,7 +6,7 @@ longitude: -53.2
 image: brazil.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Rio2009-2.JPG"
 image_license: "Public domain"
-image_attribution: "<a href="https://en.wikipedia.org/wiki/sr:User:%D0%88%D0%B0%D0%BA%D1%88%D0%B0" class="extiw" title="w:sr:User:Јакша">Јакша</a> at <a href="https://en.wikipedia.org/wiki/sr:" class="extiw" title="w:sr:">Serbian Wikipedia</a>"
+image_attribution: '<a href="https://en.wikipedia.org/wiki/sr:User:%D0%88%D0%B0%D0%BA%D1%88%D0%B0" class="extiw" title="w:sr:User:Јакша">Јакша</a> at <a href="https://en.wikipedia.org/wiki/sr:" class="extiw" title="w:sr:">Serbian Wikipedia</a>'
 ---
 
 Brazil is the largest country of South America. It borders every other country of the continent except Chile and Ecuador.

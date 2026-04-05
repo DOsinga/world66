@@ -6,7 +6,7 @@ longitude: 35.0
 image: turkey.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg"
 image_license: "CC BY 4.0"
-image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Serhio_Magpie" title="User:Serhio Magpie">Serhio Magpie</a>"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Serhio_Magpie" title="User:Serhio Magpie">Serhio Magpie</a>'
 ---
 
 Turkey — or Türkiye, as it has officially styled itself internationally since 2022 — is one of the most rewarding countries to travel in. It sits at the intersection of Europe and Asia, and that geographical fact plays out in everything: the food, the architecture, the people's self-understanding, the politics. You can stand on the Bosphorus in [Istanbul](/asia/turkey/istanbul) and watch tankers cross from one continent to the other. The effect never quite wears off.

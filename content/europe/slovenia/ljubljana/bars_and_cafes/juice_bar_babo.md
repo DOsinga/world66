@@ -1,21 +1,9 @@
 ---
-title: "Juice bar Babo"
+title: "Juice Bar Babo"
 type: poi
-accessibility: "9-21"
-address: "www.babo.si"
-phone: "+385 98 270 968"
+url: "www.babo.si"
+latitude: 46.0510
+longitude: 14.5058
 ---
 
-Juice bar Ljubljana, located in the old city center, one minute walk from the city square.
-
-The offer includes 50 freshly squeezed juices and smoothies plus shooters.
-
-
-
-
-
-accessibility: 9-21
-
-tel: +385 98 270 968
-
-address: www.babo.si
+A juice bar in the old city centre, one minute from the main square, offering 50 freshly squeezed juices and smoothies. Open 9am–9pm.

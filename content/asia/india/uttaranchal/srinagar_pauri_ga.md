@@ -1,33 +1,12 @@
 ---
 title: "Srinagar (Pauri Garhwal)"
 type: location
-latitude: 30.222175
-longitude: 78.77079
+latitude: 30.2222
+longitude: 78.7708
 ---
 
-Travel Guide
+Srinagar (Pauri Garhwal) is a town in the Garhwal division of Uttarakhand, on the banks of the Alaknanda River at around 600 metres altitude. It should not be confused with Srinagar in Jammu and Kashmir — this is a smaller, quieter Himalayan foothill town serving as headquarters of Pauri Garhwal district and home to Hemwati Nandan Bahuguna Garhwal University.
 
-Perched atop a 20 metre high rock, the temple of Dhari Devi
-is situated on the banks of river Alaknada. One has to travel
-a distance of 19 kms. from Srinagar (Pauri Garhwal) on Srinagar-Badrinath
-highway upto Kaliya Saur, then down trek another half a kilometer
-towards Alaknanda river. According to a local legened, the temple
-was once washed off by floods, while floating the idol struck
-against a rock, the villagers heard the cries of the idol. On
-reaching the site they heard a divine voice instructing them
-to install the idol as it was, on the spot it was found. Since
-then the fierce looking idol remains where it was, known as
-Dhari Devi, under the open sky, and thousands of devotees on
-the way to Badrinath pay their obeisance to it. The temple of
-Dhari Devi in Srinagar hosts only the upper part of idol of
-Godess Dhari, the remaining lower part is believed to be in
-Kalimath in Rudraprayag district.
+The town lies on the main pilgrim route to Badrinath and the Char Dham shrines. The most significant religious site nearby is the Dhari Devi Temple, 19 km from town on the Srinagar-Badrinath highway, perched on a rock above the Alaknanda gorge. According to local legend the idol was found in the river after a flood and instructed by divine voice to be installed under the open sky — it remains there to this day, and thousands of pilgrims en route to Badrinath stop to pay their respects. Photography of the idol is prohibited. The Kamleshwar Temple, Kamsmardani Temple, and Raghunath Temple are among the religious sites within the town itself.
 
-It is believed that the idol of Dhari Devi shall not be put
-under roof. For the same reason, the idols in Dhari Devi Temple
-are put under open sky. Taking photographs of Dhari Devi idols
-is strictly prohibited.
-
-The village near the temple is name after godess Dhari and
-known as Dhari Village. A hanging bridge over Alaknanda river
-connects the Dhari Devi temple to Dhari Village.
+Srinagar Garhwal is primarily a transit and service town. The university gives it a modest intellectual character, and the surrounding Alaknanda valley offers river scenery and access to the Pauri Garhwal hills.

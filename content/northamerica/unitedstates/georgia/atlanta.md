@@ -1,9 +1,12 @@
 ---
 title: "Atlanta"
 type: location
-latitude: 33.754466
-longitude: -84.389815
+latitude: 33.7545
+longitude: -84.3898
 ---
 
-Although Atlanta is not as crowded as the Big Apple or Chicago yet, it’s a vibrant city that keeps on growing onto its surroundings. The business and the historic heart beats in downtown Atlanta. Tall compact buildings are altered with old mansions and some of the best museums the city has to offer. Buckhead is the area where the fashionable live, but it is also the place to go to when you want to indulge in the sparkling nightlife
- scene (theatres, comedy clubs, bars, discos, live performances....you name it and you'll definitely find it here).
+Atlanta is the capital of Georgia and the largest city in the American South, a sprawling, car-dependent metropolis with a surprisingly good cultural centre. Downtown holds the Georgia Aquarium, the World of Coca-Cola museum, and Centennial Olympic Park, remnant of the 1996 Games. Midtown has the High Museum of Art and the Atlanta Botanical Garden. The Martin Luther King Jr. National Historic Site in Sweet Auburn is one of the more affecting memorial sites in the country.
+
+The city spreads across a series of distinct neighbourhoods. Virginia Highlands and Inman Park are pleasant on foot, with good restaurants and independent shops. Buckhead, to the north, is where the nightlife concentrates — large venues, upmarket bars, and a density of restaurants. The BeltLine trail connects many of these neighbourhoods and is the best way to navigate between them without a car.
+
+Atlanta was almost completely destroyed during Sherman's March to the Sea in 1864 and rebuilt rapidly in the following decades, which is why the architecture is mostly modern. The city has been a centre of the civil rights movement — Martin Luther King Jr. was born here — and that history is taken seriously, not turned into kitsch. Plan at least two days to see the major sites properly.

@@ -1,14 +1,10 @@
 ---
 title: "Wargal"
 type: location
-latitude: 17.774802
-longitude: 78.616565
+latitude: 17.7748
+longitude: 78.6166
 ---
 
-Travel Guide
+Wargal is a small village in Medak District, Telangana, about 60 km from Hyderabad on the Karimnagar-Siddipet highway. It is a quiet rural settlement surrounded by agricultural fields, with no particular urban character. Its significance is entirely religious: Wargal is home to one of the most important Saraswati temples in the Deccan region.
 
-Wargal is a small place located at a distance of approximately 50km from Hyderabad on the Karimnagar highway; also called as Rajiv Rahadari. Main attraction in this sleepy village is the beautiful SARASWATHI TEMPLE, located on a hill top.
-Nearby there is also a small temple with a small idol in a BILAM, which needs renovation.
-Though there are buses to the village, it would be a pleasant experience driving through the lush green fields on either side of the road.
-After passing MULUG, there is an arch on the left side of the road, which leads to the temple.
-Temple is open for ABHISHEKA DARSANAM from 6.30am to 7.30am. and again for SARVALANKRITHA DARSHANAM from 8.30am till afternoon and again in the evening.
+The Saraswati Temple stands on a small hill at the edge of the village, reached by around 100 steps (an elevator is available). The temple is dedicated to Saraswati, the Hindu goddess of learning and knowledge, and draws pilgrims from across Telangana, particularly during examination seasons when students come to seek blessings. The hilltop location gives views over the surrounding farmland. The drive from Hyderabad through green fields along the highway is pleasant in itself.

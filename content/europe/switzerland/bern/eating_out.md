@@ -1,8 +1,6 @@
 ---
-title: "Eating Out in Bern"
+title: "Eating Out"
 type: section
-address: "Neuengasse, between Spitalgass-Passage & Ryffligässchen"
-type: "Cheap"
 ---
 
 Dining out in Bern can be expensive and, in some cases, disappointing. Spending a lot of money does not necessarily get you the best food in town. Get recommendations (or read on) before you plunk down your hard-earned cash, and report back here if you find a place you like.

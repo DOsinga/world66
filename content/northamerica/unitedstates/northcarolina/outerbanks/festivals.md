@@ -1,5 +1,5 @@
 ---
-title: 'Festivals in the Outer Banks'
+title: 'Festivals'
 type: section
 ---
 

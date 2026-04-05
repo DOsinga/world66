@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Cincinnati"
+title: "Day Trips"
 type: section
 ---
 

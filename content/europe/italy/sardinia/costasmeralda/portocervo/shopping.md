@@ -1,5 +1,5 @@
 ---
-title: "shopping in Porto Cervo"
+title: "Shopping"
 type: section
 ---
 

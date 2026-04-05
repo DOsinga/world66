@@ -243,14 +243,23 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var heroExpanded = false;
   var bgMapEl = document.getElementById('background-map');
 
-  {% if is_continent %}
-  if (bgMapEl) initCountryMap('background-map', '{{ continent_slug|escapejs }}');
-
-  {% else %}
+  {% if not is_continent %}
   var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
+  {% endif %}
   var bgMap = null;
   var bgInited = false;
+
+  function initBgMap() {
+    if (bgInited || !bgMapEl) return;
+    void bgMapEl.offsetHeight; // force reflow so Leaflet measures real dimensions
+    {% if is_continent %}
+    bgMap = initCountryMap('background-map', '{{ continent_slug|escapejs }}');
+    {% else %}
+    if (markers.length) bgMap = initLocationMap('background-map', markers, mapOptions);
+    {% endif %}
+    bgInited = true;
+  }
 
   {% if hero_image_url %}
   // Photo/Map toggle — background-map starts hidden
@@ -262,32 +271,22 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     document.body.style.backgroundImage = 'none';
     if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
     if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
-    if (!bgInited && markers.length) {
-      void bgMapEl.offsetHeight; // force reflow so Leaflet sees real size
-      bgMap = initLocationMap('background-map', markers, mapOptions);
-      bgInited = true;
-    } else if (bgMap) {
-      bgMap.invalidateSize();
-    }
+    if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
   }
 
   function setPhotoMode() {
     bgMapEl.style.display = 'none';
-    document.body.style.backgroundImage = ''; // restore stylesheet value
+    document.body.style.backgroundImage = '';
     if (heroBtnPhoto) heroBtnPhoto.classList.add('hero-toggle-active');
     if (heroBtnMap)   heroBtnMap.classList.remove('hero-toggle-active');
   }
 
-  if (heroBtnMap)   heroBtnMap.addEventListener('click',   setMapMode);
+  if (heroBtnMap)   heroBtnMap.addEventListener('click', setMapMode);
   if (heroBtnPhoto) heroBtnPhoto.addEventListener('click', setPhotoMode);
 
-  {% elif markers_json != "[]" or lat and lng %}
-  // Map-only — background-map starts visible, init immediately
-  if (bgMapEl && markers.length) {
-    bgMap = initLocationMap('background-map', markers, mapOptions);
-    bgInited = true;
-  }
-  {% endif %}
+  {% else %}
+  // No photo — init map immediately
+  initBgMap();
   {% endif %}
 
   // Expand/collapse hero strip

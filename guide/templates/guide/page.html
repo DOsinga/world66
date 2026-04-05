@@ -90,22 +90,36 @@
 </aside>
 {% endblock %}
 
-{% block content %}
-<h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
-
-{% if is_continent %}
-<div id="country-map" class="country-map"></div>
-{% elif markers_json != "[]" %}
-<div class="map-wrapper">
-  <div id="location-map" class="location-map-small"></div>
-  <button class="map-expand-btn" aria-label="Fullscreen map" title="Fullscreen">&#x26F6;</button>
+{% block hero %}
+{% if hero_image_url %}
+<div id="hero" class="hero hero-image" style="background-image: url('{{ hero_image_url }}')">
+  <div class="hero-overlay"></div>
+  {% if hero_image_source %}
+  <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
+  {% endif %}
+  {% if markers_json != "[]" or lat and lng %}
+  <button class="hero-map-btn" id="hero-map-btn" aria-label="Show map">&#x1F5FA; Map</button>
+  <div class="hero-map-pane" id="hero-map-pane">
+    <div id="location-map" class="hero-map-leaflet"></div>
+    <button class="hero-map-close" id="hero-map-close" aria-label="Show image">&#x2715; Close map</button>
+  </div>
+  {% endif %}
+  <button class="hero-expand-btn" id="hero-expand-btn" aria-label="Expand image" title="Show more">&#8964;</button>
 </div>
-{% elif lat and lng %}
-<div class="map-wrapper">
-  <div id="location-map" class="location-map-small"></div>
+{% elif is_continent %}
+<div id="hero" class="hero hero-map">
+  <div id="country-map" class="hero-map-leaflet"></div>
+</div>
+{% elif markers_json != "[]" or lat and lng %}
+<div id="hero" class="hero hero-map">
+  <div id="location-map" class="hero-map-leaflet"></div>
   <button class="map-expand-btn" aria-label="Fullscreen map" title="Fullscreen">&#x26F6;</button>
 </div>
 {% endif %}
+{% endblock %}
+
+{% block content %}
+<h1><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
 {% if page.properties %}
 <div class="info-box">
@@ -220,11 +234,71 @@ initCountryMap('country-map', '{{ continent_slug|escapejs }}');
 </script>
 {% elif markers_json != "[]" %}
 <script>
+{% if hero_image_url %}
+(function() {
+  var mapPane = document.getElementById('hero-map-pane');
+  var mapBtn = document.getElementById('hero-map-btn');
+  var closeBtn = document.getElementById('hero-map-close');
+  var mapInitialized = false;
+  if (!mapBtn) return;
+  mapBtn.addEventListener('click', function() {
+    mapPane.classList.add('hero-map-pane-open');
+    mapBtn.style.display = 'none';
+    if (!mapInitialized) {
+      initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
+      mapInitialized = true;
+    }
+  });
+  closeBtn.addEventListener('click', function() {
+    mapPane.classList.remove('hero-map-pane-open');
+    mapBtn.style.display = '';
+  });
+})();
+{% else %}
 initLocationMap('location-map', {{ markers_json }}, {isPoi: {{ is_poi|yesno:"true,false" }}});
+{% endif %}
 </script>
 {% elif lat and lng %}
 <script>
+{% if hero_image_url %}
+(function() {
+  var mapPane = document.getElementById('hero-map-pane');
+  var mapBtn = document.getElementById('hero-map-btn');
+  var closeBtn = document.getElementById('hero-map-close');
+  var mapInitialized = false;
+  if (!mapBtn) return;
+  mapBtn.addEventListener('click', function() {
+    mapPane.classList.add('hero-map-pane-open');
+    mapBtn.style.display = 'none';
+    if (!mapInitialized) {
+      initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
+      mapInitialized = true;
+    }
+  });
+  closeBtn.addEventListener('click', function() {
+    mapPane.classList.remove('hero-map-pane-open');
+    mapBtn.style.display = '';
+  });
+})();
+{% else %}
 initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng": {{ lng|escapejs }}, "name": "{{ page.title|escapejs }}", "highlight": true}], {isPoi: true});
+{% endif %}
+</script>
+{% endif %}
+{% if hero_image_url %}
+<script>
+(function() {
+  var hero = document.getElementById('hero');
+  var btn = document.getElementById('hero-expand-btn');
+  if (!hero || !btn) return;
+  var expanded = false;
+  btn.addEventListener('click', function() {
+    expanded = !expanded;
+    hero.classList.toggle('hero-expanded', expanded);
+    btn.innerHTML = expanded ? '&#8963;' : '&#8964;';
+    btn.title = expanded ? 'Show less' : 'Show more';
+  });
+})();
 </script>
 {% endif %}
 {% endblock %}

@@ -2,9 +2,7 @@
 title: "Sbarro's"
 type: poi
 address: "between Wyndham and Nassau Beach Hotel, Cable Beach"
-type: "Italian"
+cuisine: "Italian"
 ---
 
-Delicious lasagana, spaghetti, pizza, calzone, and many other mouth-watering dishes to eat there or take home. Great Italian breakfasts with capuccino. Very informal and very good cheap prices.
-
-type: Italian
+Casual Italian spot on Cable Beach serving pizza, pasta, calzone, and lasagna. Cheap prices and Italian-style breakfasts with cappuccino make it a good option for a quick meal between the hotels.

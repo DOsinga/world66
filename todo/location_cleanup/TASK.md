@@ -8,6 +8,13 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
 
 ## For each location
 
+0. **Is this actually worth keeping?** Many items are misclassified, misfiled, or just not useful. Make a judgement call:
+   - **If it's not a location at all** (a restaurant, bar, hotel, shop, or other POI tagged `type: location`): change the type to `poi`, verify coordinates, and move it into the right section dir if needed. Delete it if the content is trivial or it's an excluded type (hotels, accommodation).
+   - **If it's a location but misfiled** (wrong country, wrong parent region): usually delete — the content is almost always a stub, and don't try to reparent it.
+   - **If it's a real location, keep it if either** (a) it's of genuine traveller interest (a city, a national park, a named beach, a historic town), or (b) it already has useful content worth preserving. Rewrite the overview properly.
+   - **Otherwise delete it.** Tiny village stubs with one line of content ("X is a village in Y"), gibberish, SEO spam, empty "information coming soon" pages — all go. Better to have no page than a useless one.
+   - **Check coordinates are plausible** for the claimed location. Wrong-country coordinates are common in old World66 data (a town in Utah with coordinates in Texas, a Milwaukee neighbourhood with coordinates in Washington State). Fix them or delete the page if the whole thing is unsalvageable.
+
 1. **Read** the existing location file and all section/POI files
 
 2. **Restructure sections** per LOCATIONS.md:

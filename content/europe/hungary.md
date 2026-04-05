@@ -1,12 +1,15 @@
 ---
-title: "Hungary"
+title: Hungary
 type: location
 latitude: 47.181759
 longitude: 19.506094
 image: hungary.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Kurultáj_-_Vágta,_2014.08.09_(3).JPG"
-image_license: "CC BY-SA 4.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Derzsi_Elekes_Andor" title="User:Derzsi Elekes Andor">Derzsi Elekes Andor</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Kurultáj_-_Vágta,_2014.08.09_(3).JPG
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Derzsi_Elekes_Andor"
+  title="User:Derzsi Elekes Andor">Derzsi Elekes Andor</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Located in central Europe, Hungary is bordered by Austria, Slovakia, Ukraine, Romania, Yugoslavia, Croatia and Slovenia. Apart from its quality wines and Baroque towns, its strategic location in the continent also attracts thousands of tourists to the country.

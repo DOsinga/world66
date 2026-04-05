@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-## all
-
-Sarangkot
-
-If you’re not planning a full trek, a day trek can be made to Sarangkot, a small village about a three-hour walk into the mountains. The mountain panorama of the Annapurna Range you get from Sarangkot is far superior to what you can see in town and in the other direction there’s a fine view of the Lake Phewa resort area.
+Pokhara is about the outdoors: day hikes to hilltop viewpoints, paragliding off Sarangkot (one of the best tandem flights in the world), kayaking on Phewa Lake, trekking in the Annapurnas, and — for a rest day — the quiet Tibetan monasteries around town and a sunset visit to the World Peace Pagoda across the lake.

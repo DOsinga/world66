@@ -1,14 +1,14 @@
 ---
-title: "Port moresby"
+title: Port Moresby
 type: location
 latitude: -9.47433
 longitude: 147.15995
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Port Moresby, the capital of Papua New Guinea, is also the major entry and exit point of the country. It is a sprawling city with a population of around 300,000. A ridge divides the older town from the newer island suburbs, including the government centre at Waigani.
- 
+Port Moresby is the capital of Papua New Guinea and the main gateway to the country — almost every traveller arrives here whether they plan to or not. It is a sprawling, disorderly city of around 400,000 people on a fine natural harbour in the south-east of the island, with the older colonial downtown near the port, newer districts spreading out over the hills, and the government quarter at **Waigani**.
 
-Port Moresby is also a superb natural harbour situated in the south-east corner of the country. The city houses some famous attractions like the National Museum and New Parliament, the latter built in traditional Sepik “haus tambaran” or Spirit House style. Don’t miss out on the interesting and spirited debates held in the parliament if you are there. The National Museum is the best place to begin your sightseeing expedition in the city, though it remains closed on Fridays and Saturdays. Within the city limits are situated a modern university campus and the National Botanical Garden. On Fridays, you can visit the Moitaka Wildlife Sanctuary, which is known for its crocodile farm.
- 
+It is also one of the more difficult capitals in the Pacific. Crime is a serious problem, especially in the "raskol"-dominated settlements on the edges of the city, and independent wandering after dark is strongly discouraged. Nearly all visitors stay in hotels with compound walls and move around by taxi or hotel shuttle. Most will not linger more than a day or two before flying onward to the Highlands, Madang, the Sepik, or the dive sites of New Britain — which is where the real draw of the country lies.
 
-At a distance of around 50 km from Port Moresby is the Sogeri Plateau, which has a cool and sylvan environment. Some other attractions in the city are Idler’s Beach, Sinasi Reef, Boroko, Gordons, and Daugo Island.
+That said, there are things worth seeing. The **National Museum** on Independence Hill holds one of the best collections of Melanesian art and masks in the Pacific; the **National Parliament House**, built in a stylised version of a Sepik spirit house, is genuinely striking; and the **Bomana War Cemetery** and the start of the **Kokoda Track** are half an hour out of town. For a break from the city, head up to the cool, green **Sogeri Plateau** for the waterfalls and river rafting on the Laloki.

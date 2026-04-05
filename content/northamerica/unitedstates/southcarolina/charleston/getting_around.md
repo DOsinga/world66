@@ -1,9 +1,6 @@
 ---
-title: "Getting Around in Charleston"
+title: "Getting Around"
 type: section
 ---
 
-Charleston is a wonderful place to explore by foot. Visitors find many new sights that they would miss if they drove through these narrow, one way, cobblestoned streets. Other options include the romantic horse-driven carriage rides. Of course there is a charge for this mode of seeing and learning about the city. Some visitors choose to bring their bicycles to Charleston in order to ride through the city at their own pace. Pedi-cabs (people propelled cabs) or yet another option. Of course a car is needed to visit the nearby beaches and other sights not in the downtown historic area.
-
-**Contributors**
-May 26, 2009
+Most of historic Charleston fits into a peninsula less than 5 km long and is best seen on foot. The free **DASH** trolley buses loop around the downtown stops, CARTA runs city buses to the beaches and suburbs, and ride-hail apps are plentiful. For something slower and more touristic, horse-drawn carriage tours leave from the City Market. A bicycle is also a great way to cover more ground on flat Charleston streets.

@@ -1,8 +1,10 @@
 ---
-title: "Dalaman"
+title: Dalaman
 type: location
 latitude: 36.767214
 longitude: 28.800274
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Dalaman is a small farming town on Turkey's southwestern Mediterranean coast, known almost entirely for its international airport. Charter flights from across Europe land here daily, funneling visitors toward the spectacular destinations nearby — [Fethiye](/asia/turkey/fethiye), [Dalyan](/asia/turkey/dalyan), and Marmaris among them.

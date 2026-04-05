@@ -1,10 +1,13 @@
 ---
-title: "Panama"
+title: Panama
 type: location
 image: panama.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Aduana_de_Portobelo,_Panama.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Gualberto107&amp;action=edit&amp;redlink=1" class="new" title="User:Gualberto107 (page does not exist)">Gualberto107</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Aduana_de_Portobelo,_Panama.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Gualberto107&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Gualberto107 (page does not exist)">Gualberto107</a>
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Panama is not a well known tourist destination. Nearby [Costa Rica](/northamerica/costarica) takes most of the regions incoming travelers, with some daytrippers to the Canal Zone. This is a pity, Panama has a great diversity of sights and activities that make it absolutely worth a visit. 

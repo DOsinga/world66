@@ -1,8 +1,10 @@
 ---
-title: "Basque Country (Euskadi)"
+title: Basque Country (Euskadi)
 type: location
 latitude: 43.0
 longitude: -2.5
+done:
+  location_cleanup: 2026-04-05
 ---
 
 The **Basque Country** — *Euskadi* in the Basque language — is an autonomous community in the north of Spain, tucked between the Bay of Biscay, the Pyrenees and the French border. It is one of the most distinctive parts of Europe. The **Basques** are probably the oldest indigenous people in Western Europe, with a language (*Euskara*) that is unrelated to any other in the world and whose origins are still debated; their culture is robust, defiantly proud, and visible everywhere in the flags, bilingual signs, and cheerful nationalism of the bigger towns. The region was heavily industrialised in the 19th and 20th centuries, then hollowed out, then reinvented itself — most famously in the case of Bilbao — as one of the most rewarding and unexpected corners of Spain for a visitor.

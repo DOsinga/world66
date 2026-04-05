@@ -1,8 +1,10 @@
 ---
-title: "Port Sudan"
+title: Port Sudan
 type: location
 latitude: 19.619217
 longitude: 37.211709
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Port Sudan is Sudan's principal seaport, a hot, low-lying city on a flat stretch of the **Red Sea** coast founded by the British in 1906 as the outlet for the railway from Khartoum. For most of the last century it was the country's economic lifeline — cotton, gum arabic, oil and just about everything else moved through the docks here on its way to the world. Since the outbreak of the Sudanese civil war in April 2023, Port Sudan has taken on an unexpected role as a de facto administrative capital for the internationally recognised government, and much of the foreign diplomatic presence that remains in the country is based here. Tourism, never large, has effectively stopped.

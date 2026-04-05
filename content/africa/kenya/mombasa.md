@@ -1,8 +1,10 @@
 ---
-title: "Mombasa"
+title: Mombasa
 type: location
 latitude: -4.05052
 longitude: 39.667169
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Mombasa is Kenya's second city and the busiest port in East Africa, an island of nearly 1.3 million people wrapped in Indian Ocean creeks on the country's southern coast. Its Swahili name is **Mvita** — "Island of War" — which captures 2,000 years of conquest by Arabs, Persians, Portuguese, Omanis and finally the British. The result is one of the most distinctive places in East Africa: a coastal, overwhelmingly Muslim, Swahili-speaking city that feels more connected to the Arabian Peninsula and the old Indian Ocean trade world than to the inland savannah of the rest of Kenya.

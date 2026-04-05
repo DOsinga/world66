@@ -5,10 +5,10 @@ latitude: 52.233374
 longitude: 21.071149
 ---
 
-The first impact with Warsaw may be disappointing for the tourists.
- Especially so for those who arrive from Okecie airport: in fact the city appears as long rows of anonymous residence buildings rather grey and gloomy.
- You need to keep in mind that Warsaw, which was one of the most lively and cosmopolite cities in Europe before the 2nd World War, was destroyed in 1945 and 90% of it was completely dilapidated.
- You can then feel a deep respect and a great admiration for its surviving citizens who have been able to make Warsaw arise again from its ruins like Phoenicia arose from its own ashes.
+Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, with a history so extreme that its traces are everywhere.
 
+The Old Town — completely rebuilt from photographs after the war — is a UNESCO World Heritage Site and the most visited part of the city. The Royal Castle at its edge, also rebuilt, is the symbolic centrepiece. Walking south along the Royal Route (Krakowskie Przedmieście) takes you through palaces, churches, and gardens ending at the magnificent Łazienki Park with its lakeside palace. The Warsaw Rising Museum, a short walk west of the Old Town, is one of the best history museums in Europe and is essential for understanding modern Poland.
 
- Warsaw is the national centre of culture and learning. It hosts the Polish Academy of Science, 13 higher education institutions, about 27 museums and 20 theatres, the national philharmonic, and opera and operetta companies. Warsaw plays host to several important cultural events, including the International Chopin Piano Competition every five years, the annual Warsaw Autumn Modern Music Festival in September, the International Book Fair in May, the International Jazz Jamboree Festival in October and the Warsaw Poetry Autumn. Warsaw is also Poland's largest industrial centre, though factories and industrial enterprises are certainly not what tourists like best.
+Warsaw has reinvented itself since 1989 and the centre now has a skyline of glass towers alongside the Stalinist Palace of Culture. The food and nightlife scenes are excellent, particularly in the Praga district across the Vistula — a rougher, more authentic part of the city that has developed rapidly since the mid-2000s.
+
+Chopin was born near Warsaw and spent much of his life here. His music is performed at outdoor concerts in Łazienki Park every Sunday in summer.

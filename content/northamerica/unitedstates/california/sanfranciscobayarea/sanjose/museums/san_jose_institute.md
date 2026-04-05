@@ -6,8 +6,8 @@ email: "info@sjica.org"
 opening_hours: "Tues, Weds, Fri: 10:00 - 5:00,  Thursday: 10:00 - 8:00,  Saturday: 12:00 - 5:00, Sunday/Monday: Closed"
 phone: "408.283.8155"
 url: "www.sjica.org"
-latitude: 42.2742
-longitude: -83.751321
+latitude: 37.329900
+longitude: -121.884800
 ---
 
 The San Jose Institute of Contemporary Art (ICA) seeks to engage Bay Area audiences through innovative visual art exhibitions and educational programs. The ICA reflects and interprets the cultural and technical diversity of the region and helps us see the lives we are living through the art of our time. The exhibitions and programs are designed to build community-to make a space where people of all backgrounds and ages may explore challenging contemporary art and ideas in an engaging and lively atmosphere. The ICA presents forward-looking, thought-provoking, and exciting contemporary art by emerging and established Bay Area artists. The ICA's mission is to promote greater awareness, understanding, and appreciation of contemporary art and its capacity to stimulate our imaginations and illuminate our lives, relationships, and communities.

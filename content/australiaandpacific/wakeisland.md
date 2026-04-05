@@ -1,8 +1,10 @@
 ---
-title: "Wake Island"
+title: Wake Island
 type: location
 latitude: 19.296086
 longitude: 166.626978
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Wake Island is a tiny coral atoll in the central Pacific, about 2,100 nautical miles west of Honolulu. It consists of three islets — Wake, Peale, and Wilkes — arranged around a shallow lagoon. There is no civilian population and no public access. The island is run entirely by the U.S. military.

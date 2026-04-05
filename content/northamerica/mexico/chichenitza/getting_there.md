@@ -3,13 +3,16 @@ title: "Getting There"
 type: section
 ---
 
-**Driving to Chichen Itza from Cancun**
+Chichen Itza sits alongside the village of Piste, about midway across the Yucatan Peninsula between Cancun and Merida.
 
-Driving between Cancun and Chichen Itza on the autopista (toll highway 180D), takes 2.5 to 3 hours at the speed limit. There are two toll booths, 180 pesos per car just outside of Cancun, and another 45 pesos just before Piste. Most of the journey is on a highway, which is two lanes in each direction, seperated by a wide strip of trees.
+**By car from Cancun**
 
-Make sure you have at least a half tank of gas before you leave Cancun, as it will take just under half a tank to get to the first gas station, near Valladolid. To fill up, you can either take the Valladolid exit, and go 3 km towards town, or go 1 km past the Valladolid exit and fill up at the gas station and rest stop "island", between the two sides of the highway.
+The autopista (toll highway 180D) takes about 2.5 to 3 hours at the speed limit. There are two toll booths: approximately 180 pesos just outside Cancun, and another 45 pesos near Piste. The road is two lanes each direction for most of the journey.
 
-If you take the autopista all the way to Piste, you arrive on the east side of town ( Chichen Itza is on the west side ). To get to the ruins, keep driving along the main street until you hit the T-juction. Turn left, and follow the road.
+Fill up before leaving Cancun — it takes just under half a tank to reach the first petrol station near Valladolid. You can either take the Valladolid exit and drive 3km into town, or use the service island 1km past the exit between the highway carriageways.
 
-**Contributors**
-February 25, 2005
+If you stay on the autopista all the way to Piste you arrive on the east side of town; the ruins are on the west side. Follow the main street to the T-junction and turn left.
+
+**By bus**
+
+ADO operates direct first-class buses to Chichen Itza from Cancun, Merida, and Playa del Carmen. Journey times are comparable to driving. Buses drop passengers at the visitor entrance.

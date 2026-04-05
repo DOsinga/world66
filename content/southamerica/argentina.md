@@ -1,12 +1,15 @@
 ---
-title: "Argentina"
+title: Argentina
 type: location
 latitude: -34.996496
 longitude: -64.967282
 image: argentina.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG"
-image_license: "CC BY-SA 2.5"
-image_attribution: 'Luca Galuzzi (<a href="//commons.wikimedia.org/wiki/User:Lucag" title="User:Lucag">Lucag</a>)'
+image_source: https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG
+image_license: CC BY-SA 2.5
+image_attribution: Luca Galuzzi (<a href="//commons.wikimedia.org/wiki/User:Lucag"
+  title="User:Lucag">Lucag</a>)
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Argentina takes up most of the southern half of South America. with which it has a very long border going all the way from the north of the country to the south, Argentina also borders on [Paraguay](/southamerica/paraguay), [Uruguay](/southamerica/uruguay) and [Brazil](/southamerica/brazil).

@@ -5,16 +5,4 @@ latitude: 27.937833
 longitude: -101.218748
 ---
 
-Nueva Rosita is a city located in northeastern Mexico. It is situated 1,410 feet (430 m) above sea level, on the Sabinas River, 100 km south of the border with the United States
-
-Coal mining led to the development of the city, and since the 1930s it has become a prominent industrial centre.
-
-Historical monumnent in town inculde the Panteón Municipal of the XIX century; the Iglesia San Juan (XIX) the Ignacio Zaragoza school (XX)and the former Presidencia Municipal (XIX).
-
-El templo de San Juan, built in the XIX century is a nice example of local architecture, the La Mansión plant is also worth a look,
-
-There is a museum dedicated to regional history and culture.
-
-The city celebrates its founding in May, in August there is an industrial exposition.
-
-The Los Sabinitos Park is a good place to go for hiking, along the Sabinas river you also find the parcs of Los Gritos and San Antonio.
+Nueva Rosita is a small mining town in the north-east of the Mexican state of Coahuila, about 100 km south of the US border near Eagle Pass, sitting on the Sabinas River at around 430 metres. It was built in the 1930s around the coal mines that still dominate the regional economy and, though few travellers ever pass through, it has a handful of modest 19th-century buildings — the **Templo de San Juan**, the old municipal cemetery, and the Ignacio Zaragoza school — and a small local history museum. Along the river just outside town, the parks of **Los Sabinitos**, Los Gritos, and San Antonio are pleasant for a walk. The town is a useful stopover for anyone driving between Piedras Negras on the border and Saltillo further south, but not really a destination in itself.

@@ -91,22 +91,15 @@
 {% endblock %}
 
 {% block background %}
-{% if not is_continent %}
-  {% if hero_image_url %}
-  <div id="background-map" style="display:none"></div>
-  {% elif markers_json != "[]" or lat and lng %}
-  <div id="background-map"></div>
-  {% endif %}
+{% if hero_image_url %}
+<div id="background-map" style="display:none"></div>
+{% elif is_continent or markers_json != "[]" or lat and lng %}
+<div id="background-map"></div>
 {% endif %}
 {% endblock %}
 
 {% block hero %}
-{% if is_continent %}
-<div id="hero" class="hero">
-  <div id="country-map" class="hero-layer hero-map-layer"></div>
-  <div class="hero-title">{{ page.title }}</div>
-</div>
-{% elif hero_image_url or markers_json != "[]" or lat and lng %}
+{% if is_continent or hero_image_url or markers_json != "[]" or lat and lng %}
 <div id="hero" class="hero">
   {% if hero_image_url %}
   {% if hero_image_source %}
@@ -245,20 +238,18 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 {% block extra_js %}
 <script>
 (function() {
-  {% if is_continent %}
-  initCountryMap('country-map', '{{ continent_slug|escapejs }}');
-  return;
-  {% endif %}
-
-  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
-
   var hero = document.getElementById('hero');
   var heroExpandBtn = document.getElementById('hero-expand-btn');
   var heroExpanded = false;
+  var bgMapEl = document.getElementById('background-map');
 
-  var bgMapEl  = document.getElementById('background-map');
-  var bgMap    = null;
+  {% if is_continent %}
+  if (bgMapEl) initCountryMap('background-map', '{{ continent_slug|escapejs }}');
+
+  {% else %}
+  var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
+  var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
+  var bgMap = null;
   var bgInited = false;
 
   {% if hero_image_url %}
@@ -296,6 +287,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     bgMap = initLocationMap('background-map', markers, mapOptions);
     bgInited = true;
   }
+  {% endif %}
   {% endif %}
 
   // Expand/collapse hero strip

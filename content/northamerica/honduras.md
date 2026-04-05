@@ -1,12 +1,14 @@
 ---
-title: "Honduras"
+title: Honduras
 type: location
 latitude: 15.2
 longitude: -86.2
 image: honduras.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG"
-image_license: "CC BY-SA 4.0"
-image_attribution: "User: (WT-shared) Velorian at  wts wikivoyage"
+image_source: https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG
+image_license: CC BY-SA 4.0
+image_attribution: 'User: (WT-shared) Velorian at  wts wikivoyage'
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Honduras is the second-largest country in Central America and one of its least-visited — which is both a shame and a recommendation. The country has extraordinary variety: Caribbean beaches and coral reefs in the north, cloud-forested mountains in the west, the vast wetlands of La Mosquitia in the east, and Mayan ruins that rival anything in the region. Travelers who make it here are generally glad they did.

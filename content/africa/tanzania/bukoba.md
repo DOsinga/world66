@@ -1,24 +1,12 @@
 ---
 title: "Bukoba"
 type: location
-latitude: -1.331151
-longitude: 31.812561
+latitude: -1.3312
+longitude: 31.8126
 ---
 
-**Location and Climate** 
+Bukoba is on the western shore of Lake Victoria in the extreme northwest of Tanzania, the regional capital of the Kagera region, which borders Uganda to the north, Rwanda to the west, and Burundi to the southwest. The town has a population of about 100,000 and the wider Kagera region over one million. The main ethnic group are the Bahaya; most people in town speak Swahili, and basic English is understood in shops and hotels. Agriculture is the primary occupation, coffee the main commercial product, and matoke — large green bananas roasted or steamed — the dietary staple.
 
+The town centre is flat and compact on the lake shore, with surrounding hills rising behind. Jamhuri Road runs from a cluster of German colonial-era buildings near the Lake Hotel to the central market and bus stand. The port serves the overnight ferry to Mwanza, the main crossing on Lake Victoria. A few travellers pass through on routes between East and Central Africa. The climate is warm year-round; heavy rains fall most mornings from March through May.
 
-
-
-
-Bukoba is on the western shore of Lake Victoria in the extreme northwest of Tanzania. Bukoba is the regional capital and the largest town in the Kagera region, which borders [Uganda](/africa/uganda) to the north, [Rwanda](/africa/rwanda) to the west, and [Burundi](/africa/burundi) to the southwest. 
-
-The climate is sunny and warm most of the year. Evenings can get cool but never cold. Rains occur almost every morning from March through May. It almost never rains in the p.m. hours. 
-
-**People and Occupations **
-
-Bukoba has a population of about 100,000 people, and the Kagera region over one million. The main ethnic group of the region are the Bahaya, who speak Ruhaya. (Most people in town speak Swahili, and basic English is understood at most shops.) The main occupation is agriculture, the main commercial product is coffee, and the main food crop and dietary staple is matoke (large green bananas that are roasted or steamed). There are many NGOs, volunteers and other wazungu (ex-pats) in Bukoba and the surrounding area. A few travellers pass through from [Mwanza](/africa/tanzania/mwanza) (overnight by ferry) and [Kampala](/africa/uganda/kampala) (six hours by bus). 
-
-**Orientation** 
-
-Bukoba is a fairly small town and the centre of town is flat and compact, though many people and organisations are located in the surrounding hills. Bukoba has a bay with a sandy beach, a port with a ferry that travels to and from Mwanza, a small airport, a bus stand, and numerous hotels and bars. There are two main streets, both paved: Jamhuri Road goes from a cluster of old German buildings and government offices near the Lake Hotel to the centre of town where the market and the bus stand are located. Government Road goes from the port to the town centre (about 3 km) and proceeds out of town to Kampala and Muleba.
+Bukoba has a bay with a sandy beach, and Musira Island is a short boat trip offshore. The Kagera Museum near the lakeshore has a collection of wildlife photography and traditional artefacts. The German colonial buildings near the Lake Hotel are worth a look. Lake Victoria is infested with bilharzia and swimming is generally inadvisable.

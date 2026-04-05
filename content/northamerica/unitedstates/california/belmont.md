@@ -1,8 +1,8 @@
 ---
 title: "Belmont"
 type: location
-latitude: 40.005774
-longitude: -81.009752
+latitude: 37.518087
+longitude: -122.291673
 ---
 
 Travel Guide

@@ -2,8 +2,6 @@
 title: "Things to do"
 type: section
 type: "Spa and Sauna"
-latitude: 35.321009
-longitude: -83.237684
 ---
 
 ### [Monterey Bay Aquarium](/northamerica/unitedstates/california/centralcoast/monterey/thingstodo/montereybayaquarium)

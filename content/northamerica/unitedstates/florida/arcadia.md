@@ -1,6 +1,6 @@
 ---
 title: "Arcadia"
 type: location
-latitude: 34.136207
-longitude: -118.04015
+latitude: 27.215100
+longitude: -81.858300
 ---

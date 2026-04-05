@@ -1,0 +1,12 @@
+asia/china/hongkong/kowloon/things_to_do/wong_tai_sin_temple.md
+europe/switzerland/basel/sights/fondation_beyeler.md
+europe/italy/tuscany/lunigiana/la_spezia/eating_out/la_lucciola.md
+africa/egypt/hurghada/eating_out/neptune.md
+northamerica/unitedstates/michigan/lansing/things_to_do/msu_museum.md
+europe/germany/badenwrttemberg/freiburg/nightlife/grotalcaf.md
+southamerica/brazil/riodejaneiro/bars_and_cafes/casa_rosa_cultural.md
+europe/portugal/lisbon/nightlife/bardoterrao.md
+europe/switzerland/lausanne/nightlife/eclipseclub.md
+europe/lithuania/klaipeda/things_to_do/sea_museum.md
+europe/netherlands/haarlem/eating_out/de_bokkedoorns.md
+europe/italy/lombardia/bergamo/bars_and_cafes/gelateria_pandizuc.md

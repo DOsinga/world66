@@ -1,8 +1,8 @@
 ---
 title: "Attractions"
 type: location
-latitude: 49.186292
-longitude: -122.84752
+latitude: 43.651100
+longitude: -79.347000
 ---
 
 Toronto possesses a diversity of interesting places to visit. 

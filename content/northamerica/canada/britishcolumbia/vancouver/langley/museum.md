@@ -1,8 +1,8 @@
 ---
 title: "Museum"
 type: location
-latitude: 43.666846
-longitude: -79.393351
+latitude: 49.168300
+longitude: -122.577400
 ---
 
 Come and explore Langley's colourful history.

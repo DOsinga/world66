@@ -2,8 +2,8 @@
 title: "Tribeca ."
 type: poi
 type: "general"
-latitude: 43.324744
-longitude: -79.796259
+latitude: 49.283500
+longitude: -123.116400
 ---
 
 Casual spot serving sandwiches, burgers, salads and pasta. 

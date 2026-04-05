@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Alternative Tourism in Peru**
-
-Inka Magik offers alternative 4 day eco ******Inca Trail****** routes to ******Machu Picchu******, ******Cusco*** ***through the warm jungle on foot and on horseback, staying a night in tent, hotel and in a rustic adobe lodge with a local family who live in the jungle. The family welcome the traveller in and cook a traditional meal. There is freshly picked fruit from the trees in the garden, such as papaya or pineapple, and coffee beans are toasted for a fresh breakfast wake up.
-
-There are also 10 day adventure tours as well as tailor made tours for small groups on offer, the latter is organized through local artisan groups and a locally owned community tourist agency. This means that the local community benefits from the tourism and the travellers gain a real insight into Peruvian life as well as having the opportunity to visit a hidden side to the country.
+There are no restaurants at the ruins themselves — food and water must be bought at the small café by the entrance, or brought up from Aguas Calientes, and most visitors end up doing the latter. In **Aguas Calientes**, the pedestrianised Avenida Pachacutec and the streets around the market are lined with tourist restaurants, most of them doing the same menu of grilled trout, alpaca steaks, pizza and pasta at inflated prices. The train-station side of town has a handful of better places; the simplest local *menús del día* are found in the upstairs stalls of the main market, where a three-course lunch is a fraction of the restaurant prices. Try the local trout (**trucha**) from the Urubamba, or the ubiquitous **lomo saltado**. Bring snacks and a refillable water bottle into the site itself — you will need them after a few hours of walking in the sun at altitude.

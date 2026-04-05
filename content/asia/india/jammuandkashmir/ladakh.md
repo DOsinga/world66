@@ -5,44 +5,15 @@ latitude: 33.945641
 longitude: 77.656858
 ---
 
-Travel Guide
+Ladakh — the "land of high passes" — is a high-altitude desert on India's northernmost frontier, wedged between the **Karakoram** range to the north and the **Himalaya** to the south. Nothing in Ladakh sits below 3,000 metres, and much of it is considerably higher: the capital, **[Leh](/asia/india/jammuandkashmir/ladakh/leh)**, stands at 3,524 m, and nearby passes like the Khardung La climb above 5,300 m. The landscape is an almost otherworldly mix of ochre rock, blue-white glacial rivers, and an absurdly pure, cloudless sky; the air is thin, the light is blinding, and the silence — once you are out of Leh — is the kind you rarely encounter anywhere else.
 
-Ladakh, a word which means "land of high passes", is an area of Northern India sandwiched in between the Karakoram in the north and the Himalaya in the south. Ladakh, which is made up from 2 districts of the Jammu & Kashmir Province, is the highest region of I Ladakh travel guidendia with elevations rarely reaching below 3,000m. [Leh](/asia/india/jammuandkashmir/ladakh/leh), the capital, lies at an altitude of 3,521m and the nearby airport is the highest in the world!
+Politically part of India since 1834 (and a Union Territory of its own since 2019), Ladakh is culturally a Tibetan Buddhist region — it is often called **"Little Tibet"**, and more than 80 per cent of the population are Tibetan Buddhists, with the remainder mostly Shia Muslims in the western districts. White-walled **gompas** (monasteries) sit on rocky outcrops above almost every village. The most important are **Thiksey**, **Hemis**, **Alchi**, **Lamayuru**, **Diskit** and **Spituk** — several of them founded in the 11th century and holding rare frescoes, sculpture and religious texts that escaped the destruction of the Cultural Revolution across the border.
 
-Ladakh is also called "Little Tibet", because culturally it has more in common with Tibet than the rest of India. 82% of the people in Ladakh are Buddhist and Buddhism occupies a central part of life. Prayer wheels and chortens (the local Buddhist devotional towers) are dotted everywhere. Many villages have a monastery nearby, usually built high up on a rocky outcrop or hill, and many members of society become Buddhist monks.
+Leh itself, a dusty brown town piled at the foot of a ruined royal palace, is the obvious base. Around it the main attractions are the monasteries of the **Indus valley**, the photogenic **Pangong Lake** on the Chinese border, the sand dunes and two-humped camels of the **Nubra Valley**, the remote **Tso Moriri** lake, and the longer trekking routes into **Zanskar**. Even just driving between them is extraordinary.
 
-Although [Leh](/asia/india/jammuandkashmir/ladakh/leh) was formerly a major bazaar and stopping point on the famed Silk Road, Ladakh is a predominantly agricultural society. Each Ladakhi family typically owns about 2-4 acres of land which is irrigated by snow melt water through a complex network of irrigation ditches.
+The region is closed for most of the year. The two overland roads — from **Manali** in Himachal Pradesh and from **Srinagar** in Kashmir — are only open from roughly mid-May to early October (each traverses passes that snow in heavily in winter), and most visitors now fly into Leh. Whether you fly or drive, **allow at least two full days in Leh before attempting anything strenuous** to acclimatise to the altitude: altitude sickness here is common and can be dangerous. Drink water constantly, avoid alcohol for the first 48 hours, and take it slowly.
 
-Leh only receives 60 mm of rain per year, and the non-irrigated areas are completely arid. The farming all occurs in the four month-long hot summer, allowing a single barley crop to be grown which is used for bread, tsampa (roasted barley flour used to make dumplings and so on), animal fodder and chang (rough Tibetan beer; tastes rather like a weak scrumpy).
+## Destinations in Ladakh
 
-One can get to Leh by road or air – both are equally spectaculour.
-
-The road from Manali to Leh was built as an access route for the Indian Army to the disputed Indian - Pakastani border area of Kasmir. Due to the severe weather conditions experienced, the road is only kept open for between 3 and 4 months of the year. Before the road was completed, these passes were traversed by traders who plied between Central Asia and India. This 500-kilometre journey is now one of the most amazing Himalayan routes. Crossing the Himalaya from south to north, the route high point is at over 5,300 metres (or 17,400 ft) above sea level.
-
-If you are traveling from Delhi to Leh by road, you should take the following precautions:
-
-1. Carry lots of chocolates - 5 Star and BarOne - they are the best source of energy.
-
-2. Drink lots of water on the trip - about 2 litres a day.
-
-3. Carry medicine for nausea and motion sickness (avomine) and
-headache (saridon). AMS (acute mountain sickness) can be painful if you
-are not careful.
-
-4. Ascend slowly. Take your time to acclimatise after each ascent of 1000m or 1500m.
-
-5. Black-outs at high altitude are commom. Take baby steps and
-conserve your energy if you feel you will black-out. Make sure you have
-a companion with you.
-6. Mark the petrol pumps on your map/ route and estimate your
-requirement. If you are driving in a hatch back, do not carry petrol in
-poor containers - the stench, clubbed with AMS, will drive you nuts.
-
-7. Avoid food that you think will make your stomach churn. Stick to basics. Dal-Chawal is the best.
-
-8. Try and arrange your night stays before you leave.
-
-The alternative road into Leh is via Srinagar and Kargil. This road also crosses high passes and is open for a similar period to the Manali – Leh road. Both Indian Airlines and Jet Airways do the early morning one hour flight from Delhi to Leh. From this unique flight one can see the lofty Himalayan peaks and glaciers.
-
-More information on
-*Ladakh Travel*
+- [Leh](/asia/india/jammuandkashmir/ladakh/leh)
+- [Drass](/asia/india/jammuandkashmir/ladakh/drass)

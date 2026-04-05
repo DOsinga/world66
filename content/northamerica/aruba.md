@@ -1,12 +1,15 @@
 ---
-title: "Aruba"
+title: Aruba
 type: location
 latitude: 12.5211
 longitude: -69.9683
 image: aruba.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:West_Coast_Highway,_Aruba_-_panoramio.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161017144958/http://www.panoramio.com/user/1888137?with_photo_id=40266118">Vlad Podvorny</a>'
+image_source: https://commons.wikimedia.org/wiki/File:West_Coast_Highway,_Aruba_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161017144958/http://www.panoramio.com/user/1888137?with_photo_id=40266118">Vlad
+  Podvorny</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Aruba is a small, flat island sitting just 27 km off the coast of Venezuela — far enough south to sit outside the main hurricane belt, which is a large part of its appeal. The trade winds blow steadily almost every day of the year, keeping the heat manageable and making it one of the Caribbean's top windsurfing destinations.

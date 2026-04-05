@@ -1,5 +1,5 @@
 ---
-title: "Konark"
+title: 'Konark'
 type: location
 latitude: 19.907429
 longitude: 86.14202

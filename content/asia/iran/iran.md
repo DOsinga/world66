@@ -3,6 +3,10 @@ title: "Iran"
 type: location
 latitude: 32.4279
 longitude: 53.6880
+image: iran.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Dar_ul-Hifaz_-_Holy_Shrine_of_Ali_al-Riha_-_Mashhad-Iran.jpg"
+image_license: "CC0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Sonia_Sevilla" title="User:Sonia Sevilla">Sonia Sevilla</a>'
 ---
 
 *Asia > Iran*

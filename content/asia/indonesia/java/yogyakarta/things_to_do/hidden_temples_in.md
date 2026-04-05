@@ -1,22 +1,9 @@
 ---
-title: "Hidden Temples in Yogyakarta"
+title: 'Hidden Temples'
 type: poi
-type: "Other"
-url: "tourthewonder.com"
+category: 'Sight'
+latitude: -7.7830
+longitude: 110.5120
 ---
 
-Yogyakarta turns to have other temples of which enchantment is not less interesting than Borobudur and Prambanan temples.
-
-Ijo (in Javanese language, this word means 'Green') temple, located at the highest place in Yogyakarta that presents natural and cultural enchantment with additional view of taking off and landing airplane.
-Tara Temple, the Oldest Buddhism Inheritance in Yogyakarta, presented for goddess Tara.
-Plaosan Temple, the Twin Temple in Yogyakarta.
-Plaosan temple has some uniqueness compared to other temples, twin main temple and the terrace with smooth surface. In this temple, there are Vajrapani, Amitbha, and Prajnaparamitha figures.
-
-Read more for further info at: www.tourthewonder.com
-www.yogyes.com
-
-type: Other
-
-
-
-url: [tourthewonder.com](http://tourthewonder.com/content/article/306)
+Yogyakarta has temples beyond the famous Borobudur and Prambanan. Ijo Temple sits at the highest point in the area with views of planes taking off and landing. Tara Temple is the oldest Buddhist heritage site in Yogyakarta. Plaosan Temple is a distinctive twin temple with unusually smooth-surfaced terraces and fine statues of Vajrapani, Amitabha, and Prajnaparamitha.

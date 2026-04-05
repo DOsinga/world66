@@ -3,6 +3,10 @@ title: "Kazakhstan"
 type: location
 latitude: 48.101295
 longitude: 66.778082
+image: kazakhstan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Kazakhstan_Altay_2.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Dmottl" title="User:Dmottl">Dmitry A. Mottl</a>'
 ---
 
 Kazakhstan is the world's largest landlocked country and the ninth largest country overall — a vast expanse of steppe, desert, mountain, and lake that most travelers still haven't discovered. It borders [Russia](/europe/russia), [China](/asia/china), [Uzbekistan](/asia/uzbekistan), [Kyrgyzstan](/asia/kyrgyzstan), and [Turkmenistan](/asia/turkmenistan), and stretches from the Caspian Sea in the west to the Altai Mountains in the east.

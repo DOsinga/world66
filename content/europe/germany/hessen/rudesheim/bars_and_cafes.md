@@ -1,9 +1,9 @@
 ---
-title: "Bars and Cafes in Rudesheim"
+title: 'Bars and Cafes'
 type: section
 ---
 
-Rudesheim is a popular tourist destination located in Hessen, Germany that has a good number of **Rudesheim Bars and Cafes**, which offer non-stop fun and entertainment.
+Rudesheim has a good number of bars and cafes, many centred around the famous Drosselgasse, offering wine, music and entertainment.
 
 **Breuer’s Rudesheimer Schloss **
 
@@ -25,5 +25,3 @@ Adler Café is located at 14 Rhein Strasse, Rudesheim. The café has a neat roof
 
 Wirtshaus Hannelore is a well-known place for local and tourists alike. It is a traditional inn started in 1954 in the equally famous Drosselgasse. This café serves traditional German dishes, local beers, Rudesheim wines and coffee. Live bands play here every day until the wee hours of the evening. You can either enjoy the entertainment inside or dine out in the private garden terrace and conservatory. Wirtshaus Hannelore also hosts parties and especial occasions like wedding, birthdays and anniversaries.
 
-**Contributors**
-March 31, 2010

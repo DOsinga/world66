@@ -1,22 +1,11 @@
 ---
-title: "Milton Massachusetts - The Blue Hills Trail"
+title: 'Blue Hills Trail'
 type: poi
-address: "Blue Hills Reservation, 695 Hillside Street"
-phone: "617-698-1802"
-url: "www.mass.gov"
+address: '695 Hillside Street, Milton, MA 02186'
+phone: '617-698-1802'
+url: 'www.mass.gov'
+latitude: 42.2137
+longitude: -71.1094
 ---
 
-The Blue Hills Trail is an historic Massachusetts trail featuring 125 miles of mountain biking and hiking trails that are part of a 7,000-acre state reservation. Owned and operated by the Massachusetts Department of Conservation and Recreation (DCR), the Blue Hills Trail and the hills can be found in Boston, Braintree, Canton, Dedham, Milton, Quincy, and Randolph. Other attractions here include the observation tower at Great Blue Hill, which offers views of the mountains, the surrounding islands, and the Boston skyline; Blue Hills Trailside Museum, and rare reptiles such as the timber rattlesnake (be careful!). The small town of Milton is located around 10 miles from Boston.
-
-**Contributors**
-May 31, 2008
-
-
-
-
-
-tel: 617-698-1802
-
-url: [www.mass.gov](http://www.mass.gov/dcr/parks/metroboston/blue.htm)
-
-address: Blue Hills Reservation, 695 Hillside Street
+The Blue Hills Trail features 125 miles of mountain biking and hiking trails across a 7,000-acre state reservation. Attractions include the observation tower at Great Blue Hill with views of the Boston skyline and surrounding islands, the Blue Hills Trailside Museum, and even rare timber rattlesnakes. The small town of Milton is about 10 miles from Boston.

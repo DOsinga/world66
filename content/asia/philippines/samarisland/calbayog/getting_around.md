@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Calbayog"
+title: Getting Around
 type: section
 ---
 

@@ -1,10 +1,8 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
 ---
 
-club azur
+Jakarta's nightlife and drinking scene is scattered across the city. The backpacker strip of Jalan Jaksa has cheap beer and pool tables. The Kemang area in the south is the main expat hangout with proper pubs, live music, and outdoor terraces. Mega Kuningan and the big hotel lobbies cater to the business crowd.
 
-We currently have no Bars and Cafes listed in Jakarta.
-
-If you do know any Bars and Cafes in Jakarta, please [Add].
+Most bars stay open until midnight or 1am, with some stretching later on weekends. Bintang is the local beer of choice and is cheap everywhere.

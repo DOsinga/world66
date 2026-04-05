@@ -1,32 +1,26 @@
 ---
-title: "Things to Do in Gothenburg"
+title: "Things to Do"
 type: section
 ---
 
-**Gothenburg things to do** include visiting Liseberg, Scandinavia&rsquo;s largest amusement park, and trips to the islands in the Gothenburg archipelago.
+Gothenburg has Scandinavia's largest amusement park, a car-free archipelago perfect for island hopping, and enough museums to fill several rainy days.
 
-**Visit Liseberg Amusement Park**
+**Liseberg Amusement Park**
 
-The Liseberg is the largest amusement part in the whole of Scandinavia and has huge variety of rides. Live entertainment is also offered including concerts. Liseberg is open only during the summer months from May to August, and on weekends in April and September and October. In December it opens for special Christmas events. You can get to Liseberg by tram no. 5.
+The largest amusement park in Scandinavia, right in the centre of town. Liseberg has a huge variety of rides and live entertainment including concerts. Open from May to August, with weekends in April, September, and October, and special Christmas events in December. Take tram no. 5.
 
-**Go to the Castle Forest**
+**Slottsskogen (Castle Forest)**
 
-Slottsskogen, or &ldquo;castle forest&rdquo; in Swedish, has several attractions for the whole familiy. There is an old observatory, Naturhistoriska Museet or Natural History Museum, the family-friendly animal park Djurg&aring;rdarna and a kids&rsquo; zoo. There is also minigolf and frequent concerts. The park is free to enter and is a good spot for a picnic. Trams 1, 2, 7 and 8 go to Slottsskogen.
+A large park with free entry, home to the Natural History Museum, an old observatory, an animal park, a children's zoo, and minigolf. A good spot for a picnic. Trams 1, 2, 7, and 8 go to Slottsskogen.
 
-**Go Island Hopping in the Archipelago**
+**Island Hopping in the Archipelago**
 
-The Gothenburg Archipelago has hundreds of islands with endless beaches for swimming and sunbathing. Take a ferry from Gothenburg and go on a day trip, or go island hopping from one beautiful island to another. No cars are allowed on the islands and there are enough islands and beaches so that everyone can find a quiet corner for a picnic.
+The Gothenburg Archipelago has hundreds of islands with beaches for swimming and sunbathing. Ferries run from central Gothenburg and connect the islands to each other, so you can visit several in a day. No cars are allowed on the islands.
 
-**Sightseeing and Shopping on &ldquo;the Avenue&rdquo;**
+**Alvsborgs Fastning Fortress**
 
-Gothenburg&rsquo;s main shopping street is The Kungsportsavenyn (or as locals call it, "Avenyn"). Shops, restaurants and cafes line this avenue between the old town and the G&ouml;taplatsen square. This is also the center for Gothenburg&rsquo;s nightlife.
+A 17th-century fortress on a picturesque island, half an hour by boat. The sea views of the archipelago are beautiful, and daily tours of the fortress and its church are offered.
 
-**Check out Gothenburg&rsquo;s Museums**
+**Gunnebo Castle**
 
-Visitors who are into museums should check out Gothenburg&rsquo;s wide variety of good museums. Many of them can be found in the center of the city along the Avenyn. One of the most interesting is the Gothenburg Art Museum, or Konstmuseum, with its fascinating collection of Scandinavian 19th century art. The museum is inside an impressive neoclassical building on the G&ouml;taplatsen square.
-
-**&Auml;lvsborgs F&auml;stning Fortress and Gunnebo Castle **
-
-The &Auml;lvsborgs f&auml;stning is a 17th century fortress located on a picturesque island, and a great daytrip destination. The island is a half an hour trip on a boat and the sea views of the archipelago are beautiful. The island is a nice place to spend half a day exploring the fortress and the pretty church. Daily tours around the island and the fortress are also offered. Don&rsquo;t forget to pack a picnic.
-
-Another great daytrip destination is the Gunnebo castle, an 18th century neoclassical-style castle just outside Gothenburg.
+An 18th-century neoclassical castle just outside the city, with a park, cafe, and restaurant. Easy to reach by bus or taxi.

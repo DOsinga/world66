@@ -1,9 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
 ---
 
-Rourkela has a number of splendid bars like standard bar &
-restraunt garden bar pahadi jharna oasis apsara neelam etc. moreover
-the city has a section of exquisite restraunts like madhuvan vatika
-neelam renuka.
+Rourkela has a modest bar and restaurant scene concentrated around the main commercial areas. Popular spots include Standard Bar and Restaurant, Garden Bar, Pahadi Jharna, Oasis, Apsara, and Neelam. For dining, Madhuvan, Vatika, and Renuka are well regarded locally.

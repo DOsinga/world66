@@ -3,6 +3,10 @@ title: "Qatar"
 type: location
 latitude: 25.3548
 longitude: 51.1839
+image: qatar.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Doha_Karwa_public_bus.jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a href="//www.flickr.com/people/47130629@N04" class="extiw" title="flickruser:47130629@N04">Khalid Albaih</a>'
 ---
 
 *Asia > Qatar*

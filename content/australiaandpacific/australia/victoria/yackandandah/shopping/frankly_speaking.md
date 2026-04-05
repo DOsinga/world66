@@ -1,27 +1,10 @@
 ---
-title: "Frankly Speaking Antiques"
+title: 'Frankly Speaking Antiques'
 type: poi
-address: "28 high street yackandandah"
-email: "fr99744@bigpond.net.au"
-phone: "(02) 6027 1931 Mob: 0427 271 931"
-type: "Antiques"
-url: "www.yackandandah.au.com"
-latitude: -36.313284
-longitude: 146.838787
+address: '28 High Street, Yackandandah'
+phone: '(02) 6027 1931'
+latitude: -36.3133
+longitude: 146.8388
 ---
 
-This is a fantastic shop in the main street of Yackandandah. Just next to the Yackandandah tourism office. Plenty of memorabillia there .. including meat safes, kitchen dressers, wardrobes and much more.. hey and his speciallity is Antique camers and movie film anything to do with old film stuff including cinema projectors and the like.
-
-type: Antiques
-
-
-
-
-
-tel: (02) 6027 1931 Mob: 0427 271 931
-
-url: [www.yackandandah.au.com](http://www.yackandandah.au.com)
-
-address: 28 high street yackandandah
-
-email: fr99744@bigpond.net.au
+A well-stocked antique shop on the main street, right next to the tourism office. The speciality is vintage cameras, film equipment, and cinema projectors, but you will also find meat safes, kitchen dressers, wardrobes, and plenty of other Australiana.

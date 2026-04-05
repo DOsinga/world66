@@ -3,6 +3,10 @@ title: "Bermuda"
 type: location
 latitude: 32.3078
 longitude: -64.7505
+image: bermuda.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:HamiltonStreet.jpg"
+image_license: "Public domain"
+image_attribution: "Kongsvoll"
 ---
 
 Bermuda is a small British Overseas Territory in the North Atlantic, about 1,070 km east of Cape Hatteras, North Carolina. It is not in the Caribbean — it sits well north of the Caribbean island chain — but it shares the warm, turquoise water and relaxed pace. The island chain stretches roughly 35 km from end to end and is just 3 km wide at its broadest. Everything is close together, and getting around is half the pleasure.

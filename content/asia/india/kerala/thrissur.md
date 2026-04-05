@@ -1,10 +1,12 @@
 ---
-title: "Thrissur"
+title: 'Thrissur'
 type: location
 latitude: 10.52701
 longitude: 76.214621
 ---
 
-Travel Guide
+Thrissur is the cultural capital of Kerala, sitting roughly in the geographical centre of the state. The city is built around an oval hillock called the Thekkinkadu Maidan, crowned by the Vadakkunnathan Temple, one of the oldest Shiva temples in Kerala.
 
-Thrissur city is the heart of Kerala and geographically it is in the middle of Kerala state. thrissur is known as the Cultural capital of Kerala. It is famous for its festivals, elephants, temples and the most loving people in Kerala. Thrissur pooram festival is a major event take place every year In Apr-May. Famous for the enchanting waterfall of Athirappilly and vazhachal.
+The main reason to visit is the Thrissur Pooram, held in April or May, which is simply the most spectacular temple festival in all of Kerala. Two rival temple groups parade caparisoned elephants, compete with towering parasol displays, and build to a climax of massed percussion and fireworks that draws hundreds of thousands of spectators. Even if you have seen other poorams, this one is in a league of its own.
+
+Outside festival season, Thrissur is a pleasant, leafy city with a strong tradition of classical arts and literature. It is also a good base for visiting the Athirappilly and Vazhachal waterfalls, about 60 km to the east, which are among the most impressive in Kerala.

@@ -1,24 +1,11 @@
 ---
-title: "Discount System"
+title: 'Discount System'
 type: poi
-address: "Via Panisperna 209"
-phone: "+39 06 4746545"
-type: "Speciality shops"
-latitude: 41.896336
-longitude: 12.490429
+category: 'Speciality shops'
+address: 'Via Panisperna 209'
+phone: '+39 06 4746545'
+latitude: 41.8963
+longitude: 12.4904
 ---
 
-You can still wear authentic designer fashions without actually paying full price for them. At Discount System, expect to find everything from Armani and Fendi to Valentino for up to 50% of the retail price! Discount system is located at Via Panisperna 209.
-
-**Contributors**
-May 22, 2008
-
-type: Speciality shops
-
-
-
-
-
-tel: +39 06 4746545
-
-address: Via Panisperna 209
+Designer fashion at up to 50% off retail. You will find Armani, Fendi, Valentino, and other Italian labels at serious discounts. Worth the detour if you want quality without the full Via Condotti price tag.

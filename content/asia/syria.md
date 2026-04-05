@@ -3,6 +3,10 @@ title: "Syria"
 type: location
 latitude: 34.640186
 longitude: 39.049411
+image: syria.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Overview_of_Damascus.jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/photos/upyernoz/">upyernoz</a>'
 ---
 
 Syria is one of the most historically rich countries on earth, and also one of the most difficult to visit right now. The civil war that began in 2011 ended in December 2024 when Bashar al-Assad's regime collapsed and he fled to Russia. A transitional government under Ahmed al-Sharaa took power in early 2025. The country is reopening, cautiously, to the outside world.

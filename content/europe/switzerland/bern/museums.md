@@ -1,5 +1,5 @@
 ---
-title: "Museums in Bern"
+title: "Museums"
 type: section
 ---
 

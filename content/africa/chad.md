@@ -3,6 +3,10 @@ latitude: 15.613414
 longitude: 19.015617
 title: Chad
 type: location
+image: chad.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:TCHAD_(CHAD)_2007_-_TEMPORARY_TOURIST_LICENSE_PLATE.jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/9816248@N03">Jerry "Woody"</a>'
 ---
 
 Chad is one of the most difficult countries in Africa to visit and one of the most rewarding. It is a vast, landlocked nation stretching from the Sahara Desert in the north to tropical savanna in the south, and it contains landscapes found nowhere else on earth.

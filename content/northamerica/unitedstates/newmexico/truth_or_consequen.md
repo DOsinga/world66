@@ -1,11 +1,9 @@
 ---
-title: "Truth or Consequences"
+title: 'Truth or Consequences'
 type: location
-latitude: 33.128349
-longitude: -107.252906
+latitude: 33.1283
+longitude: -107.2529
 ---
-
-Travel Guide
 
 In local parlance, it's called "T or C", and lies about two hours south of Albuquerque on Interstate 25. The former city of Hot Springs, Truth or Consequences is an interesting little town. Named after the television show of the 1950's, it's one of the more unusual places in the American West. The old bathhouses and hot springs still carry on in the historic downtown district, while more modern development has taken place near Elephant Butte State Park. Many old buildings have been lovingly restored, and now serve as restaurants, delis, bed and breakfast lodges, and art galleries. The art community in this little town is definitely happening; take some time to check it all out.
 

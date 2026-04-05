@@ -1,20 +1,8 @@
 ---
 title: "Mr. J's Fish Market"
 type: poi
-phone: "702 363-5585"
-type: "Seafood"
+category: 'Seafood'
+phone: '702-363-5585'
 ---
 
-Specializing in Louisiana Fried Fish. Located at the Southwest corner of Rainbow and I-95 in the Food 4 Less Center.
-Phone: 702 363-5585
-
-**Contributors**
-May 21, 2008
-
-type: Seafood
-
-
-
-
-
-tel: 702 363-5585
+Specializing in Louisiana fried fish. Located at the southwest corner of Rainbow and I-95 in the Food 4 Less Center.

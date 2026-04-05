@@ -1,17 +1,8 @@
 ---
-title: "Phenix City"
+title: 'Phenix City'
 type: location
 latitude: 32.470976
 longitude: -85.000765
 ---
 
-Travel Guide
-
-The Columbus, Georgia metropolitan area teems with culture, diversity
-and history. Situated just minutes from our Phenix City hotel,
-Columbus, Georgia gives visitors the opportunity to explore the
-countless attractions and fun things to do along the Chattahoochee
-River. Discover military history and appreciation at Ft. Benning and
-the National Infantry Museum. Get up close with Alabama's unique flora
-and fauna at Callaway Gardens. Families of all ages can blast off at
-the Coca-Cola Space Science Center.
+Phenix City sits on the Chattahoochee River across from Columbus, Georgia. It is primarily a gateway to the Columbus metropolitan area, with easy access to Fort Benning (now Fort Moore), the National Infantry Museum, and the Chattahoochee RiverWalk. Callaway Gardens, a popular family destination with gardens, lakes, and a butterfly center, is a short drive east into Georgia.

@@ -1,10 +1,6 @@
 ---
-title: "Shopping in Cuttack"
+title: 'Shopping'
 type: section
 ---
 
-There are various items to look upto for every shopaholic visiting Cuttack!
-
-You can shop for Tussar Sarees, Buy Silver Filigree Jewellery or Memorabilia.
-
-You can also buy Dry fruits at a very competitive price from malgodown area.
+Cuttack is famous for its silver filigree work, locally known as tarakashi. The filigree shops line Nayasarak and Balu Bazaar, where most items are sold by weight. Tussar silk sarees are another good buy. The Malgodown area is known for dry fruits at competitive prices.

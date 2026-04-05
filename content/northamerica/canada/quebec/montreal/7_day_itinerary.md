@@ -1,39 +1,34 @@
 ---
-title: "7 Day Itinerary in Montreal"
+title: '7-Day Itinerary'
 type: section
 ---
 
-Montreal, Canada's "city of culture", is one of the country's hottest tourist locations. Montreal is the second most populous city in Canada and the sixth most populous city in all of North America. One could only imagine the amount of attractions there are in and around the city. Here is a 7 day itinerary to experience just a few of the city's many offerings.
+A week in Montreal gives you time to dig beneath the surface and experience the city's neighborhoods, food, culture, and history at a relaxed pace.
 
-**Day 1 - Montreal Botanical Gardens**
+**Day 1 -- Old Montreal and the Waterfront**
 
-The Montreal Botanical Gardens has over 20,000 different plant species in 31 varied rooms. Be sure to arrive as early as possible though; the butterflies put on the best show early in the morning. In November and December, in the Insectarium, there is an even where people get to participate in tasting insects. The hours vary throughout the year, but are typically between 9am until 6pm. Admission is $5.00 for one hour, or $10.00 for the whole day.
+Start in the heart of the old city. Visit the Notre-Dame Basilica in the morning before the crowds build, then wander the cobblestoned streets around Place Jacques-Cartier. Walk to the Old Port and stroll along the waterfront. If the weather is good, rent bikes and ride along the Lachine Canal. End the day with dinner at one of the restaurants in the old quarter.
 
-**Day 2 - Lachine Rapids Jet Boat Tours**
+**Day 2 -- Mount Royal and the Plateau**
 
-Take a ride through the Lachine Rapids on a Jet Boat Tour. This attraction is available anytime from Spring to Autumn (the rest of the year is too cold). It's quite a blast crashing through the rapids and getting soaked from head to toe in the brisk water. None the less, it is exhilarating! Prices range from $45.00 to $65.00 depending on age.
+Hike up Mount Royal in the morning for the panoramic view from the Kondiaronk Belvedere. Descend into the Plateau Mont-Royal and spend the afternoon exploring Rue Saint-Denis, Avenue du Mont-Royal, and the side streets lined with colorful row houses. Have dinner at a BYOB restaurant -- bring a bottle from the SAQ (Quebec's liquor store chain).
 
-**Day 3 - Notre-Dame Basilica**
+**Day 3 -- Mile End and Little Italy**
 
-The Notre-Dame Basilica, built in 1656, is known for it's classic Gothic Revival architecture and beautiful stained glass. Guided tours are available and included in the cost of admission. The Basilica is open for touring between 9am to 4pm and is $7.00 for adults and $4.00 for children.
+Walk or bike through Mile End, stopping for bagels at Fairmount or St-Viateur. Browse the independent shops and galleries on Boulevard Saint-Laurent and Avenue du Parc. Continue north to Jean-Talon Market in Little Italy for lunch and provisions. The area around the market has excellent Italian restaurants and cafes.
 
-**Day 4 - Jean-Talon Market**
+**Day 4 -- Museums**
 
-Take a stroll the Jean-Talon Market. The market is open every day of the year and features a myriad of different foods. Fruits, vegetables, meats and snacks are all for sample and purchase. One could easily spend all day walking through this incredibly diverse display of food.
+Dedicate a day to Montreal's best museums. Pointe-a-Calliere for the city's archaeological history, the Montreal Museum of Fine Arts for art spanning centuries, and the Musee McCord for social history and photography. You can easily fill a day with two of these. Most are within walking distance of each other along Rue Sherbrooke.
 
-**Day 5 - Old Montreal**
+**Day 5 -- The Islands**
 
-Just a short cab ride from downtown Montreal, Old Montreal is a real treat. Though a small section of the area is dedicated to souvenir shops, the rest is an interesting display of old homes, restaurants and cobblestone roads. There are also a few museums which typically cost $5.00 to $7.00.
+Take the metro to Parc Jean-Drapeau on Ile Sainte-Helene and Ile Notre-Dame. The Biodome is here (if it interests you), along with green spaces, the Formula 1 circuit, and the beach at Plage de l'Ile Notre-Dame. Pack a picnic or eat at the Jardin des Floralies. A relaxing change of pace from the urban core.
 
-**Day 6 - Montreal Museum of Fine Arts**
+**Day 6 -- Day Trip**
 
-A full day's worth of excellent exhibits showcasing international contemporary and Canadian art. This two-building museum is open from 11am to 5pm. Admission is $15.00 for adults, $7.50 for students and free for children.
+Head out of the city for a day. Options include [Quebec City](/northamerica/canada/quebec/quebeccity) (3 hours by train, doable as a long day), the Laurentian Mountains for hiking or skiing depending on the season, or the Eastern Townships wine region. Mont-Tremblant is about 90 minutes north and offers outdoor activities year-round.
 
-**Day 7 - Mont (Mount) Royal**
+**Day 7 -- Food and Neighborhoods**
 
-This 764-mountain, known by the locals as Mont Royal, is an excellent way to end a vacation. There are spots for picnicking and the view of the city is breathtaking.
-
-# Saute-Moutons / Lachine Rapids Jet Boat Tours
-
-**Contributors**
-March 29, 2010
+Spend your last day on the things Montreal does best. Start with brunch in the Plateau, visit Atwater Market, explore a neighborhood you have not yet seen -- the Village, Verdun, or the Sud-Ouest along the canal. Get a smoked meat sandwich at Schwartz's if you have not already. End with a long dinner and a nightcap at one of the city's late-night bars.

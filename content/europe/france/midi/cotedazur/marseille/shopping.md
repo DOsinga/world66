@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Marseille"
+title: Shopping
 type: section
 ---
 

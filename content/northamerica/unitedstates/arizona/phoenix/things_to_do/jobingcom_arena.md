@@ -1,27 +1,11 @@
 ---
-title: "Jobing.com Arena"
+title: 'Desert Diamond Arena'
 type: poi
-address: "9400 W.Maryland Ave. - Glendale, AZ 85305"
-phone: "623-772-3200"
-type: "Other"
-url: "www.glendalearenaaz.com"
+category: 'Sight'
+address: '9400 West Maryland Avenue, Glendale, AZ 85305'
+phone: '623-772-3200'
 latitude: 33.531967
 longitude: -112.261318
 ---
 
-Right next door to the University of Phoenix Stadium is the Jobing.com Arena, home to the Phoenix Coyotes of the National Hockey League. The Coyotes season runs from September through April, and tickets can be found at www.phoenixcoyotes.com Also calling the areana home is the Arizona Sting of the National Lacrosse League, who play from January to April each year. The arena ia also home to many concets and shows throughout the year.
-
-**Contributors**
-December 21, 2006
-
-type: Other
-
-
-
-
-
-tel: 623-772-3200
-
-url: [www.glendalearenaaz.com](http://www.glendalearenaaz.com)
-
-address: 9400 W.Maryland Ave. - Glendale, AZ 85305
+Located next to State Farm Stadium in Glendale, Desert Diamond Arena (formerly Jobing.com Arena) hosts major concerts, shows, and sporting events throughout the year. The arena seats around 17,000 and has been a fixture of the West Valley entertainment scene since it opened in 2003.

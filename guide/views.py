@@ -1,14 +1,17 @@
 import json
+import sqlite3
 from functools import lru_cache
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import Http404
+from django.http import Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import load_page, load_tag_index, load_search_index
+from .models import load_page, load_tag_index
+
+SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
 @lru_cache(maxsize=1)
@@ -92,17 +95,51 @@ def location_or_section(request, path):
 
 def search(request):
     query = request.GET.get("q", "").strip()
-    results = []
-    if query:
-        q_lower = query.lower()
-        index = load_search_index()
+    has_db = SEARCH_DB.is_file()
+    return render(request, "guide/search.html", {
+        "query": query,
+        "has_db": has_db,
+    })
+
+
+def search_api(request):
+    query = request.GET.get("q", "").strip()
+    if not query or not SEARCH_DB.is_file():
+        return JsonResponse({"results": []})
+
+    conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
+    conn.row_factory = sqlite3.Row
+    try:
+        # Split into words, quote each, add * to last for prefix matching
+        # "berlin cycling" → "berlin" "cycling"*
+        words = query.split()
+        parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
+        parts.append('"' + words[-1].replace('"', '""') + '"*')
+        fts_query = " ".join(parts)
+        rows = conn.execute(
+            """SELECT title, url_path, page_type, location
+               FROM docs
+               WHERE docs MATCH ?
+               ORDER BY
+                   CASE WHEN lower(title) = lower(?) THEN 0
+                        WHEN lower(title) LIKE (lower(?) || '%') THEN 1
+                        ELSE 2
+                   END,
+                   rank
+               LIMIT 30""",
+            (fts_query, query, query),
+        ).fetchall()
         results = [
-            {"title": title, "url": "/" + url_path, "page_type": page_type}
-            for title_lower, title, url_path, page_type in index
-            if q_lower in title_lower
+            {"title": row["title"], "url": "/" + row["url_path"],
+             "page_type": row["page_type"], "location": row["location"] or ""}
+            for row in rows
         ]
-        results.sort(key=lambda r: (not r["title"].lower().startswith(q_lower), r["title"].lower()))
-    return render(request, "guide/search.html", {"query": query, "results": results})
+    except sqlite3.OperationalError:
+        results = []
+    finally:
+        conn.close()
+
+    return JsonResponse({"results": results})
 
 
 def tag_index(request, tag):

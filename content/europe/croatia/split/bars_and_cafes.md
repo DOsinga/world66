@@ -1,12 +1,6 @@
 ---
-title: "Bars and Cafes in Split"
+title: "Bars and Cafes"
 type: section
 ---
 
-Chill out and enjoy yourself at one of the popular **Split bars and caf&eacute;s** while on vacation here in Split. This is a popular tourist destination and the several seaside towns are perfect for a weekend of relaxation or partying – whichever you like.
-
-**Hemingway **
-
-Hemingway is a popular bar in Split. The bar has gained popularity because of its ideal location near the sea. The bar is situated in such a way that you will have an excellent view of the Marjan Hill on one side and a view of Kastela Bay on the other side. The bar has a large dance floor to accommodate dancers who throng the bar. The bar also has several international DJs that come to entertain the crown.
-
-The bar has a wide selection of drinks available for guests, and you can choose from alcoholic and non-alcoholic drinks. While you are here, you must try the cocktails available at the bar. The bar has excellent staffs that provide first-class service to customers. One of the highlights of this bar is the team of Croatian bartenders. This team has won several awards around the world, and you will be amazed to see them at work.
+Split is a late-night city in summer. The **Riva** waterfront promenade is the main evening ritual — long rows of terraced cafés where everyone sits with a coffee or a *rakija* and watches the sunset. Inside the walls of the palace, narrow lanes hide wine bars and cocktail places tucked into Roman doorways — **Paradox** and **Marcvs Marvlvs Spalatensis Pub** are good starting points. For nightlife proper, **Bačvice** is the centre of things: a crescent of open-air bars and clubs along the beach, with music that runs until dawn in July and August. The city's Split Music Festival (late July) and the **Ultra Europe** electronic music festival in mid-July bring enormous crowds; outside those weeks, the scene is still lively but human-scaled.

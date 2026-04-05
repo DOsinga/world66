@@ -3,6 +3,10 @@ title: "Mauritius"
 type: location
 latitude: -20.275945
 longitude: 57.570357
+image: mauritius.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:'Mon_Choisy'_approaching_rwy_14_at_Plaisance.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: "Arjun Sarup"
 ---
 
 God created Mauritius and then Heaven, at least according to Mark Twain and if you are looking for what brochures call a tropical paradise, Mauritius is there for you.

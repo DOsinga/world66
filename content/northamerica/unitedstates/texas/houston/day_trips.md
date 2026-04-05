@@ -1,8 +1,10 @@
 ---
-title: "Day Trips in Houston"
+title: 'Day Trips'
 type: section
 ---
 
+Houston's central Gulf Coast location puts beaches, small towns, and state parks within easy driving distance.
+
 **Blue Bell Creamery**
 
-The Blue Bell Creamery is located in Brenham, Texas. It's about an hour and a half away from Houston and most certainly worth the drive. While at the Blue Bell Creamery, one of three in the country, you can tour the facility that has been making delicious diary products since 1907. A short video about the factory and a guided tour is offered. Admission to the creamery will cost you $3. There are no tours on weekends and the duration of the tour is 45 minutes. Tours start at 10:00 am and last until 2:30 pm, but get there as soon as you can because only the first 800 people are allowed in throughout the day. There is a free ice cream treat at the end of the tour. It's a delicious way to end the day and will leave you wanting to buy a pint for the drive
+The Blue Bell Creamery in [Brenham](/northamerica/unitedstates/texas/brenham) is about ninety minutes from Houston and well worth the drive. You can tour the facility that has been making ice cream since 1907, watch a short video, and get a free ice cream treat at the end. Tours run weekdays from 10am to 2:30pm, lasting 45 minutes, but arrive early as only 800 visitors are admitted per day. Admission is $3.

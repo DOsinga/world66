@@ -1,23 +1,12 @@
 ---
 title: "Al Ain"
 type: location
+latitude: 24.2075
+longitude: 55.7447
 ---
 
-Two hours drive from Dubai or Abu Dhabi through rolling sand dunes along a tree-lined freeway takes you to the oasis city of Al Ain (Arabic: 'The Spring').
+**Al Ain** — "The Spring" in Arabic — is the UAE's largest inland city and the second-largest settlement in the emirate of Abu Dhabi, sitting on the eastern edge of the country against the border with Oman. The drive from Dubai or Abu Dhabi is about 90 minutes across the desert, and the change of climate when you arrive is immediate: Al Ain sits at the foot of the **Jebel Hafeet** mountain range, which casts a rain shadow that gives the city a noticeably cooler and drier microclimate than the humid coast. It has been continuously inhabited for around 5,000 years thanks to the natural oases that bubble up in the middle of the desert here, and the ancient *falaj* irrigation channels still water its palm groves today.
 
-Al Ain is the UAE's largest inland city, and the second city of the Abu Dhabi Emirate. It is surrounded by magnificent red sand dunes and overlooked by an impressive mountain range. Al Ain is located on the United Arab Emirates eastern border with Oman, and is at a focal point for journeys from all over the region by excellent roads. A holiday destination for the UAE shieks for many years, Al Ain enjoys its own microclimate bringing welcome relief from the humidity of the coast.
+Al Ain is the UAE's cultural and historical heart. This was the birthplace of **Sheikh Zayed**, the founding father of the UAE, and the city retains a more traditional Arabic feel than the glass towers of Dubai and Abu Dhabi. The **Al Ain Oasis** in the city centre — a UNESCO World Heritage Site together with the other oases and archaeological sites of the region — is a vast walled palm grove of 147,000 date palms irrigated by an ancient falaj system; walking its shaded paths is one of the best ways to experience the pre-oil Gulf. The **Al Jahili Fort**, a 19th-century mud-brick citadel restored as a museum, and the nearby **Al Ain National Museum** are both worth an hour. Above the city, the switchback road up **Jebel Hafeet** climbs to 1,249 metres for one of the finest views in the Emirates — a particularly dramatic drive at sunset. At the base of the mountain, the **Mercure hotel hot springs** are a modest but pleasant place to soak.
 
-The oases have brought people to this area for thousands of years, and there is a rich history as evidenced by the many archaeological excavations. There are numerous restored and ruined forts and settlements to be seen throughout the area. Today, the abundance of water from the oases allows the city to bloom in its numerous parks and gardens. It is often known as the 'Garden City of the Gulf' and brings welcome respite from the desert all around.
-
-Visitors to the city will find a large amount of facilities and attractions, and will find an atmosphere and culture that feels more traditionally Arabic than can be found in the coastal cities. Some of the attractions include an active and thriving Camel Market (not so easy to take one home on the plane though!), ancient forts and even a theme park. No visit would be complete without a trip to the top of Jebel Hafeet mountain, with stunning views across the desert dunes, or relaxing at one of the leavy plantations or parks.
-
-Al Ain also provides a great base from which you can explore the desert, with desert 'safaris', 4WD expeditions and camel trips through the desert all available in the area. Visitors can even hop across the border into Oman without the need for a visa and visit the shops in Al Ain's sister city Al Buirami. Driving around the city you will also find at every road junction fascinating roundabouts, each of which contain themed sculptures, statues, gardens and fountains.
-
-Al Ain can also boast a large amount of shops, from modern air conditioned malls with prices often lower than those in Dubai or Abu Dhabi, to specialised stores including one of the regions largest gold souks.
-
-There are three 5-star hotels in the city: The Hilton, the Roatana and the Intercontinental, as well as a number of smaller guesthouses.
-
-Not many visitors to the UAE make it this far inland to visit this fascinating city, and as a result you can feel what this country used to be like before the tourist influx - once you tire of the shopping and beaches of the coast it is well worth a few days to visit Al Ain.
-
-**Contributors**
-September 27, 2005
+The city also has one of the largest and oldest **camel markets** in the Gulf, still operating on the eastern edge of town — a fascinating glimpse of traditional Bedouin life, though not for the squeamish. And the **Al Ain Zoo**, unexpectedly, is one of the finest zoos in the region, with extensive desert and African animal collections. Allow a full day for the main sights; a long weekend if you want to include Jebel Hafeet and cross briefly into Oman (no visa needed for the nearby border town of Buraimi).

@@ -1,17 +1,10 @@
 ---
-title: "Cabot Tower"
+title: 'Cabot Tower'
 type: poi
-type: "general"
 latitude: 51.454029
 longitude: -2.606818
 ---
 
-*A Bristol landmark. Visible from many parts of the city, and at night its beacon flashes a message in Morse code B-R-I-S-T-O-L. 100 feet high tower commemorates John Cabot's voyage to America in 1497 (he discovered Newfoundland). *
+A Bristol landmark set atop Brandon Hill. Visible from many parts of the city, at night its beacon flashes B-R-I-S-T-O-L in Morse code. The 105-foot red sandstone tower with Bath stone dressings was designed by William Venn Gough. A spiral staircase leads to a balcony with splendid views over the city.
 
-*The Cabot Tower is one of Bristol's best-known landmarks, set amidst beautiful landscaping atop Brandon Hill. *
-
-*Designed by the architect, William Venn Gough, He produced a red sandstone tower 105 feet high, with dressings of cream coloured Bath stone. A spiral staircase leads up inside to a balcony which offers splendid views over the city. *
-
-*The foundation stone was laid in 1897, for the 400th anniversary of the master mariner's voyage to North America, and was opened on the 6th September 1898. The tower's construction was paid for by public subscription and cost over £3,000,000. *
-
-type: general
+The foundation stone was laid in 1897 for the 400th anniversary of John Cabot's voyage to North America, and the tower opened on 6 September 1898.

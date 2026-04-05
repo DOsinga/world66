@@ -1,10 +1,10 @@
 ---
-title: "Broken Bow"
+title: 'Broken Bow'
 type: location
-latitude: 41.401812
-longitude: -99.639329
+latitude: 34.029
+longitude: -94.739
 ---
 
-Travel Guide
+Surrounded by 450,000 acres of forest in southeastern Oklahoma, the small town of Broken Bow is an ideal getaway for families and outdoor enthusiasts. It is about three hours from Dallas, Oklahoma City, Little Rock, Shreveport, and [Tulsa](/northamerica/unitedstates/oklahoma/tulsa).
 
-Surrounded by 450,000 acres of forests, the quaint town of **Broken Bow** is an ideal meeting place for families and friends. Located about 3 hours from major cities such as Dallas TX, Oklahoma City, Little Rock AR, Shreveport LA, and Tulsa OK. **Beavers Bend State Park** features a fantastic and scenic fly fishing trout stream. Canoe, kayak, bass fishing, hiking, mountain biking, ATV riding, hunting, nature photography, bald eagle viewing, picnics and scenic vistas are all within minutes of the privately owned cabins for rent in the area. Cabins range from romantic cabins with hot tub and fireplace to lodges that sleep up to 16 guests.
+**Beavers Bend State Park** features a scenic fly-fishing trout stream and is the main attraction. Canoeing, kayaking, bass fishing, hiking, mountain biking, ATV riding, hunting, nature photography, and bald eagle viewing are all within minutes of town. Privately owned cabins range from romantic getaways with hot tub and fireplace to lodges sleeping up to 16 guests.

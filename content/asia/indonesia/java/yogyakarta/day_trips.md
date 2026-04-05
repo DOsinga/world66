@@ -1,14 +1,6 @@
 ---
-title: "Day Trips"
+title: 'Day Trips'
 type: section
 ---
 
-**Day Trips**
-
-**{Borobudur}**
-
-A definite must see on the island of Java, located about 42km from Yogyakarta is the Borobudur, a UNESCO world heritage site with the world's largest Buddhist monument. Borobudur, a name deriving from an expression meaning 'Mountain of accumulation of merits of the ten states of Bodhisattva' is c [more..](/asia/indonesia/java/yogyakarta/daytrips/borobudur)
-
-**{Dieng Plateau}**
-
-Another impressive sight offer the ruins on the Dieng Plateau.
+Yogyakarta is the ideal base for exploring central Java's greatest sights. [Borobudur](/asia/indonesia/java/borobudur), the world's largest Buddhist monument, is about 42km northwest and easily visited in a half day. Prambanan temple complex is just 7km east. The Dieng Plateau, with its sulphur craters and ancient temples at 2,000 meters, makes for a longer but rewarding full-day trip. [Solo](/asia/indonesia/java/solo), Java's other royal city, is an hour away by train.

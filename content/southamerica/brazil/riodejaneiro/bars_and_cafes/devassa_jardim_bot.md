@@ -1,18 +1,9 @@
 ---
-title: "Devassa Jardim Botanico"
+title: 'Devassa Jardim Botanico'
 type: poi
-address: "Avenida Lineu de Paula Machado, 696"
+address: 'Avenida Lineu de Paula Machado, 696'
 latitude: -22.962717
 longitude: -43.212218
 ---
 
-Like Germany, Brazil has really good draft beer, and its hard to compare one with the other. The other day I went to a bar called Devassa in Jardim Botanico (Botanical Gardens) and this was very good beer. Its good enough to please even the pickiest German. Really charming place with extraordinary beer and food!
-
-**Contributors**
-February 07, 2008
-
-
-
-
-
-address: Avenida Lineu de Paula Machado, 696
+The Jardim Botanico branch of Devassa, in a charming setting near the Botanical Garden. The same excellent house-brewed draught beer and good food as the Ipanema location, with a slightly more relaxed pace.

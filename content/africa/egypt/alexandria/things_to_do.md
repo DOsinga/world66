@@ -1,28 +1,24 @@
 ---
-title: "Things to Do in Alexandria"
+title: 'Things to Do'
 type: section
 ---
 
-In **Alexandria, things to do **range from sunbathing at the beach to visiting the famous casinos of the area. Alexandria is the second largest city in Egypt and the largest seaport in the country. This fascinating city is located on the Mediterranean Sea and is home to numerous astounding museums and monuments. Travelers will not become bored while visiting this interesting and cultural region, as there are endless activities and explorations within the city. Read on to learn more about things to do in Alexandria.
+Alexandria has enough to fill a week without repeating yourself. The city's appeal is split between its ancient sites, its waterfront life, and a handful of experiences you will not find anywhere else in Egypt.
 
-**Sunbathing at the Beach**
+**Ancient Sites and Museums**
 
-Montazah Beach and Maa'moura Beach in Alexandria are ideal places to sunbathe and work on your tan. Summer months are full of visitors relaxing in the sun and enjoying the beautiful water. The cost can be anywhere between LE 5 to LE 20 to get onto the beaches, and once you have gained entry, it's a great way to relax and take in the peaceful day while you are visiting Alexandria.
+The **Catacombs of Kom el-Shoqafa** are Alexandria's most atmospheric ancient site -- a three-level underground necropolis from the second century AD where Egyptian, Greek, and Roman funeral art blend in ways that are genuinely strange and beautiful. **Pompey's Pillar**, a 25-meter column of red Aswan granite, stands in the ruins of the Serapeum temple complex. The **Roman theater at Kom el-Dikka** is a small but well-preserved amphitheater surrounded by an open-air museum with sphinxes and statues recovered from around the city. Stand on the central stone and whisper -- the acoustics amplify your voice to a shout.
 
-**Visiting the Montazah Royal Gardens**
+The **Bibliotheca Alexandrina** is worth a half day at minimum. The building itself is remarkable, with a sundial outside where your own shadow tells the time and the scripts of every known alphabet carved into the exterior walls. Inside you will find several specialized libraries, four museums, a planetarium, and rotating exhibitions.
 
-The Montazah Royal Gardens in Alexandria are over 350 acres and are a fascinating sight to see within the region. The gardens are a part of the Muntazah Palace, taking up more than half of the property. The gardens are located along the waters of the Mediterranean Sea, and they are beautifully landscaped. The area also holds open swimming pools for the public and numerous benches and sitting areas.
+The **Cavafy Museum** (4 Sharm El Sheikh Street, open 9 am to 2 pm except Mondays) preserves the apartment of the great Greek-Alexandrian poet Constantine Cavafy. A small, personal space that says more about the city's cosmopolitan past than any grand monument.
 
-**Exploring the Casino Austria of Egypt**
+**St. Mark's Church** is reputedly the oldest Christian foundation in Africa, established by St. Mark the Evangelist himself. The current building sits on earlier remains and leads to an eleventh-century cemetery of Coptic archbishops.
 
-Also known as the El-Salamiek Palace Casino, the Casino Austria of Egypt is a large casino that is home to games such as roulette, blackjack, Punto Banco, Caribbean stud poker, and slot machines. This is a great place for visitors to unwind after a long day of exploring the city.
+**Diving**
 
-**Touring the Museums of Alexandria**
+Alexandria offers some of the most unusual diving in the Mediterranean. Book a trip to explore the submerged remains of the Lighthouse of Alexandria, Cleopatra's royal quarter, Roman columns, and sphinxes still lying on the seabed. Several operators run trips from the harbor.
 
-Alexandria is home to five major museums, including the Alexandria National Museum, Museum of Fine Arts, Graeco-Roman Museum, Royal Jewelry Museum, and the National Institute for Oceanography and Fisheries. Travelers will want to see at least one or two of these famous and cultural museums while they tour Alexandria.
+**The Corniche**
 
-**Marveling at the Historical Monuments**
-
-Alexandria has dozens of fascinating monuments, including the Citadel of Qait Bey, the Cemetery of Mostafa Kamel, the Roman Catacombs, the Roman Cemetery of Kom el-Shouqafa, Pompey's Pillar, the Roman theater, Montaza Palace, Ras el-Tin Maamoura, and the Tomb of the Unknown Soldier. Exploring these historical sites is a must when touring the culture of Alexandria.
-
-##
+Walk the corniche in the late afternoon, when the light turns golden and the fishing boats come in. The sea wall is lined with anglers, kids playing football on the sand, and families out for an evening stroll. Time it right and you will catch one of the best sunsets in Egypt.

@@ -1,4 +1,0 @@
----
-title: "Pahrup"
-type: location
----

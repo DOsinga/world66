@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Cincinnati"
+title: "Eating Out"
 type: section
 accessibility: "Handicap Accessibility"
 address: "654 Highland Ave."

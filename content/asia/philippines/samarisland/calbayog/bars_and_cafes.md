@@ -1,18 +1,10 @@
 ---
-title: "Bars and Cafes in Calbayog"
+title: Bars and Cafes
 type: section
 ---
 
-**Calbayog bars and cafes** tend to be low-key affairs where you can sit and have a quiet beer with friends. However, there is one exception that is probably the best venue in the city: the Movie House.
+Calbayog nightlife revolves around simple bars and music lounges where cold San Miguel and live bands are the main attractions. Most places are cheap even by Philippine standards — a night out rarely costs more than a few hundred pesos.
 
-**Address and Layout**
+**The Movie House** on Magsaysay Boulevard is the standout venue. A former cinema converted into a live music hall and disco, it has a proper stage, back projections, and an impressive grandstand seating level above the bar. Local bands play classic rock, reggae, hip hop, and occasionally traditional tribal music. Entry is around 20 pesos, beers around 60.
 
-As you might expect from the name, this venue was once a very busy and bustling movie theatre but was changed into a live music venue/disco some years ago to meet the local demand for good music and a place to go out to until late at night. There's quite an impressive grandstand seating level above the bar. You'll find this joint on the western end of the large and imposing Magsaysay Boulevard on the corner of Senator Tomas Gomez Street.
-
-**Live Music**
-
-The local bands come to this first-rate Calbayog bar to entertain punters with a wide range of music from the Western classic rock that Filipinos love, to reggae, hip hop and R&B. Traditional tribal music also happens occasionally at the Movie House. The stage is impressively large enough to cater for even multi-instrumentalist bands, and there is an even bigger screen hanging behind it for funky back projections.
-
-**What's it Going to Cost?**
-
-The Movie House, easily the best of Calbayog bars and cafes, is rather cheap even by Filipino standards, with entrance to the venue costing only 20 pesos, and beers around the 60 peso mark. For just 10-30 pesos, you'll be able to get a jeepney bus from most locations in the city to the Movie House.
+**Cobra's Den** on the main highway is a good stopover spot with friendly staff and karaoke. **Kamalig Music Lounge** in Barangay Rawis has a cosy atmosphere, live music, and a dance floor. **Estudio** is the quieter option — acoustic music, finger food (pica-pica), and conversation. **Manuwel's Music Lounge** in Barangay Obrero keeps the music going all night and takes requests.

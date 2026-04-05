@@ -1,9 +1,9 @@
 ---
-title: "Beaches in Salou"
+title: "Beaches"
 type: section
 ---
 
-This **Salou beaches** guide will help you decide where to enjoy the surf and sand.
+Salou has nine beaches along its coastline, from broad golden-sand stretches to small rocky coves. The main beaches have good facilities and gentle slopes into the water, making them ideal for families.
 
 **Ponent Beach**
 
@@ -41,5 +41,3 @@ Also known as Cala Pinetell, it offers crystal clear water and a breathtaking vi
 
 This small crescent shaped cove is located at the east end of the city. It is bordered by vegetation covered rocks, giving it privacy. It is popular with the residents and there is a local bus stop nearby. The golden sand gently slopes into the Mediterranean and the water is calm and clear.
 
-**Contributors**
-February 15, 2010

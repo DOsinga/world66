@@ -5,7 +5,8 @@ latitude: 30.920193
 longitude: -6.910923
 ---
 
-Ouarzazate is a useful base from which to explore the ksour and Kasbahs of Ait Benhaddou. However, there is not a lot to do in the town itself. During the 1980’s, the Moroccan government had big plans for this town, as the first stop on the "Saharan Adventure", there is even an airport here. The town became known as "Morocco’s Hollywood" as it has been used as a base for many "exotic" film like David Lean’s "Lawrence of Arabia", Bernardo Bertolucci’s "Sheltering Sky" and "Jesus of Nazareth". However, because of a recession, it now just seems to be a very clean, nicely built ghost town. 
- 
+Ouarzazate sits at 1,160 metres in the pre-Saharan south of Morocco, where the High Atlas mountains give way to the desert steppe. It is the main town and transport hub of the region and the gateway to the Draa Valley, the Dades Gorge, and the edge of the Sahara. The Moroccan government developed it in the 1980s as a planned tourism centre, giving it wide boulevards and an airport, but the town itself is quieter than its infrastructure suggests.
 
-The local Glaoui Kasbah Taorirt and the centre artenasal (across from the Kasbah) are worth a visit. Ait Benhaddou is one of the most fantastic sights of the Atlas as the kasbahs are the most elaborately decorated and best preserved (thanks to UNESCO). They have been built and re-built as sets for such movies as Jesus of Nazareth, Lawrence, and Orson Welles’ Sodom and Gomorrah.
+Ouarzazate has been dubbed Morocco’s Hollywood. Film production companies have used the region since the 1960s: Lawrence of Arabia, Jesus of Nazareth, The Last Temptation of Christ, Gladiator, and The Mummy were all partly filmed here. The Atlas Film Studios on the western edge of town are among the largest film studios in the world and give tours of their standing sets. In town, the Kasbah Taourirt — a great fortified palace of the Glaoui clan — is the main historic sight.
+
+The most visited destination near Ouarzazate is Ait Benhaddou, a UNESCO-listed ksar (fortified village) of earth and straw construction 32 km northwest on the road to Marrakech. Its towers and walls, built in the traditional southern Moroccan style, have appeared in dozens of films and television productions. Further east, the Dades and Todra gorges cut through the Atlas foothills and are accessible as day trips.

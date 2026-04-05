@@ -1,51 +1,10 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
-address: "Rua Prudente de Moraes, 416 - IPANEMA - RIO DE JANEIRO - RJ"
 ---
 
-Rio de Janeiro is very famous for its "bar-culture". The word "botequim" or "boteco" designate small places with freezing beer, lots of people, bad food and very low prices. The genre of place became so strong that a new style of "boteco" was created, it keeps the popular aura combined with a tiny sophistication. Devassa Bar in Ipanema is an exemplar of the hip but cozy boteco, full of young and interesting people, Devassa has its own beer, in different versions: blond, red, black and indian. I had the blond and found it very special. The menu is another chapter: many yummy finger foods, typical of Brazil. Go feel yourself a real carioca!
+Rio's bar culture is legendary. The Carioca tradition centres on the **boteco** -- a no-frills neighbourhood bar with ice-cold draught beer (chopp), simple finger food, and tables spilling onto the pavement. In recent years a new breed of upscale botecos has emerged, keeping the relaxed atmosphere but adding craft beers and better food.
 
-### [Devassa Ipanema](/southamerica/brazil/riodejaneiro/bars_and_cafes/devassa_ipanema)
+The **Lapa** neighbourhood is the epicentre of Rio's nightlife. On Friday and Saturday nights the streets around the Carioca Aqueduct fill with thousands of people moving between samba clubs, forr bars and open-air stages. In Ipanema and Leblon, the scene is more polished -- cocktail bars, wine bars and international pubs line the streets behind the beach. For something different, try a kiosk bar on the shore of the [Lagoa](/southamerica/brazil/riodejaneiro/things_to_do/lagoa) at sunset, where you can sip caipirinhas with views of Corcovado reflected in the water.
 
-Having come straight from some of London´s best pubs, you coulda say the stakes were high during my stay in Rio, the Brazilian city that never sleeps. I was staying in the Ipanema neighbourhood, where they´ve got the lot of those, such as Shenanigan´s, The Irish Pub and those types which follow the international pubs´ tracks. Me and some mates tried something different than the usual pub crawl and found ourselves in this Brazilian bar called Devassa. Now this is some grade A, excellent quality, savoury beer. One of the best I´ve tasted, and that´s a bold statement. The [more..](/southamerica/brazil/riodejaneiro/bars_and_cafes/devassa_ipanema)
-
-
-
-[[rate it]](/southamerica/brazil/riodejaneiro/bars_and_cafes/devassa_ipanema)
-
-address: Rua Prudente de Moraes, 416 - IPANEMA - RIO DE JANEIRO - RJ
-
-### [Devassa Jardim Botanico](/southamerica/brazil/riodejaneiro/bars_and_cafes/devassa_jardim_bot)
-
-Like Germany, Brazil has really good draft beer, and its hard to compare one with the other. The other day I went to a bar called Devassa in Jardim Botanico (Botanical Gardens) and this was very good beer. Its good enough to please even the pickiest German. Really charming place with extraordinary beer and food!
-
-
-
-[[rate it]](/southamerica/brazil/riodejaneiro/bars_and_cafes/devassa_jardim_bot)
-
-address: Avenida Lineu de Paula Machado, 696
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=southamerica|brazil)
-
-[](/lib/map/handle?loc=southamerica|brazil|riodejaneiro)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Nightlife in Rio starts late. Midnight is considered early, and most places keep going until well past dawn.

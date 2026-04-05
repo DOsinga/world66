@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Izmir"
+title: "Shopping"
 type: section
 ---
 

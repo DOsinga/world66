@@ -1,5 +1,5 @@
 ---
-title: "Family Travel Ideas in Barcelona"
+title: 'Family Travel Ideas'
 type: section
 ---
 

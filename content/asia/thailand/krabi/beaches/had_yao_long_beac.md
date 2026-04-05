@@ -1,9 +1,9 @@
 ---
 title: "Had Yao (Long Beach)"
 type: poi
+category: "Sight"
 latitude: 7.960259
 longitude: 98.958956
 ---
 
-Located in the rural backwaters of Krabi province in the south of Thailand you find the longest untouched beach of mainland Krabi. In convenient distance from the hordes of tourists poring into nearby Phuket and Au Nang, but only 25 kilometer from the new international airport of Krabi.
-Commercialization of long beach has yet to come ashore. The locals makes a living from the rice paddies and prawn farms found in the nearby area. The local roads takes you pass their homes which are beautiful old wooden houses on stilts, where goats and chickens scratch around for food. On Tuesday and Friday afternoons, there is a local marked down the road by the beach where you can stock up on fresh fruit and vegetables at barging prices. Maybe a perfect activity before taking a stroll on the beach while watching a breathtaking sunset crawling behind the island and into the horizon of the Andaman Sea.
+The longest undeveloped beach on the mainland Krabi coast, in the quiet rural south of the province about 25 km from Krabi airport. Most of the surrounding land is still rice paddy, prawn farms and stilt houses, and the crowds of Ao Nang have yet to arrive. There is a small local market down the road on Tuesday and Friday afternoons — fresh fruit and vegetables at local prices. Come for a quieter alternative to Ao Nang and one of the best sunsets on the coast.

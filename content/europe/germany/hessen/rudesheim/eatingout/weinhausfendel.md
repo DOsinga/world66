@@ -1,19 +1,9 @@
 ---
-title: "Weinhaus Fendel"
+title: 'Weinhaus Fendel'
 type: poi
-address: "Marienthaler Str. 46"
-type: "general"
-zipcode: "D-65385 Rüdesheim - Eibingen"
-latitude: 53.562074
-longitude: 10.043266
+address: 'Marienthaler Str. 46, D-65385 Rüdesheim - Eibingen'
+latitude: 49.9920
+longitude: 7.9250
 ---
 
-70 seats, groups up to 50 persons possible
-
-type: general
-
-
-
-address: Marienthaler Str. 46
-
-zipcode: D-65385 Rüdesheim - Eibingen
+Wine house with 70 seats, accommodating groups up to 50 persons.

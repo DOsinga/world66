@@ -1,54 +1,11 @@
 ---
-title: "Healesville Sanctuary"
+title: 'Healesville Sanctuary'
 type: poi
-address: "Badger Creek Road, Healesville, Victoria"
-phone: "03-5957 2800"
-url: "www.zoo.org.au"
-latitude: -37.668815
-longitude: 145.530022
+address: 'Badger Creek Road, Healesville'
+phone: '03-5957 2800'
+url: 'www.zoo.org.au'
+latitude: -37.6688
+longitude: 145.5300
 ---
 
-If you’re a fan of “Croc Hunter” Steve Irwin, you’ll know just how
-many amazing animals call Australia home.
-
-Healesville Sanctuary is
-considered one of Australia's best wildlife parks, where you can see a
-whole range of Australia’s native creatures. Nestled in the foothills
-of the Yarra Valley, just one hour from Melbourne, the famous Sanctuary
-is your chance to get eye to eye with koalas, dingoes, kangaroos and
-the unique platypus, just a few of the 200 native species you’ll find
-flourishing in this beautiful bushland environment.
-
-Bird
-lovers will be especially impressed with Healesville Sanctuary's Birds
-of Prey Presentation, which was launched over ten years ago and has
-become one of the Sanctuary's 'must do' experiences. Set in an outdoor
-amphitheatre, you’ll witness the breathtaking power and beauty of a
-wedge-tailed eagle flying just inches above your head. Other birds you
-might meet include the buzzard, kite, peregrine falcon, osprey and
-those wise and pensive owls. You can also visit Karak, the
-South-eastern Red-tailed Black Cockatoo, who was the official Mascot of
-the Melbourne 2006 Commonwealth Games.
-
-Indigenous
-history is also part of Healesville Sanctuary’s appeal, where visitors
-can get off the beaten track on the Burra Burra Yan Tour, with an
-Aboriginal guide to impart the ancient secrets of the bush. Led by
-Murrindindi, a local Wurrundjeri interpreter and storyteller, his
-exclusive guided walk through the protected Bushland of Coranderrk
-offers an authentic experience of Victorian indigenous culture. See the
-Australian bush through the eyes of a traditional custodian of the
-land, who will reveal the medicinal and food uses of plants and the
-fascinating story of the boomerang.
-
-The zoo is set in a natural bushland environment where paths wind through different habitat areas showcasing wallabies, wombats, dingoes, kangaroos, and over 200 native bird varieties.
-
-Conducted tours, bird shows and information areas are available to visitors.
-
-
-
-tel: 03-5957 2800
-
-url: [www.zoo.org.au](http://www.zoo.org.au/HealesvilleSanctuary)
-
-address: Badger Creek Road, Healesville, Victoria
+One of Australia's best wildlife parks, set in beautiful bushland in the Yarra Valley foothills about an hour from Melbourne. You can get close to koalas, kangaroos, wombats, dingoes, and the elusive platypus across 200 native species. The Birds of Prey show is a must, with wedge-tailed eagles swooping inches above your head. Aboriginal-guided bush walks offer a deeper understanding of the landscape.

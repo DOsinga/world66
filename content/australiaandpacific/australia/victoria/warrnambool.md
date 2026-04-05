@@ -1,16 +1,12 @@
 ---
-title: "Warrnambool"
+title: 'Warrnambool'
 type: location
-latitude: -38.382624
-longitude: 142.48142
+latitude: -38.3826
+longitude: 142.4814
 ---
 
-Warrnambool means between two rivers in Aboriginal, and that is where it's located. Placed snugly between the Merri River and the Hopkins River, it is a moderate sized sea side town on the west end of the Great Ocean Road. It was once a major whaling and sealing station, but nowadays it's an industrial and commercial centre. It has a nice relaxed atmosphere and can offer its visitors entertainment, culture and nature.
+Warrnambool sits snugly between the Merri and Hopkins rivers at the western end of the Great Ocean Road. Once a major whaling station, it is now a relaxed seaside town with a nice mix of maritime history, surf beaches, and wildlife.
 
+The big draw is whale watching. Every year between June and October, Southern Right Whales migrate from Antarctic waters to calve at Logan's Beach, sometimes swimming within 100 metres of shore. A viewing platform on the dunes offers excellent vantage. The Flagstaff Hill Maritime Museum recounts the dangerous days of the Shipwreck Coast, when fog and reefs claimed hundreds of sailing ships.
 
- The Victorian coast was once infamous for its dangers. Many a sailing ship found out about the reefs and the fog the hard way. You can see artefacts of many wrecks in the Flagstaff Hill Maritime Museum. But the see has more to offer than dangerous reefs. Logan's Beach, Levy's Beach and Second Bay offer some great surf spots, and Lady Bay is an exellent place to go swimming. 
-
-The most spectacular thing in Warrnambool is perhaps to see the whales. Every year between June/July and October, Southern Right Whales come from the Antarctic region to the warmer waters of Logan's Beach to calve. The whales often swim close to the beach (up to 100 meters) and can be seen from the dunes, the beach, or the special whale viewing platform. 
-
-
- Warrnambool even has it's very own mystery. In 1832 an ancient shipwreck was discovered before the coast. In 1880 this so-called Mahogany wreck was lost again, presumably covered under drifting dunes. Later, very old Portugese maps of the Australian coast were discovered, suggesting a Portugese voyage to Australia in 1522. Some historians believe the Mahogany wreck was Portugese caravel that lost in the early 1500's. If this were true, it would rewrite Australian history (now believed to be 'discovered' in the early 1600's).
+Warrnambool has its own unsolved mystery too. In 1832 an ancient shipwreck was found off the coast, then lost again under shifting dunes in 1880. Old Portuguese maps suggest a voyage to Australia as early as 1522. If the so-called Mahogany wreck is indeed Portuguese, it would rewrite the story of European discovery of Australia.

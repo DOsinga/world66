@@ -1,14 +1,11 @@
 ---
-title: "Amoeba Music"
+title: 'Amoeba Music'
 type: poi
-address: "1855 Haight St.  San Francisco, CA"
-phone: "415.831.1200"
-type: "Music"
-url: "www.amoebamusic.com"
-latitude: 37.768937
-longitude: -122.452645
+address: '1855 Haight St'
+phone: '(415) 831-1200'
+url: 'www.amoebamusic.com'
+latitude: 37.7689
+longitude: -122.4526
 ---
 
-One of the biggest, most diverse, awe-inspiring stores for music lovers. A mecca of sorts, Amoeba has built it's reputation of carrying the best selection fo vinyl, CD's, Tapes, DVD's, Posters, etc etc, by simply providing the kind of quality that can only be experienced by walking into one of their bowling-alley-turned-stores and getting lost in the sea of aisles for hours.
-
-type: Music
+One of the biggest and most diverse music stores in the country. Amoeba fills a converted bowling alley on Haight Street with an enormous selection of vinyl, CDs, DVDs, and posters. You can easily lose an hour or two browsing the aisles. If you care about music at all, this place is a pilgrimage.

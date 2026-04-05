@@ -3,6 +3,10 @@ title: 'Laos'
 type: location
 latitude: 19.8563
 longitude: 102.4955
+image: laos.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Laos_entry_and_exit_stamps.jpg"
+image_license: "CC BY 4.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>'
 ---
 
 Laos is Southeast Asia's most languid country, a place where the Mekong River sets the pace and nobody rushes. Landlocked between [Thailand](/asia/thailand), [Vietnam](/asia/vietnam), [Cambodia](/asia/cambodia), [China](/asia/china) and [Myanmar](/asia/myanmar), it remains one of the region's least developed nations -- and that is a large part of its appeal. With a population of around 8 million, it feels blissfully uncrowded.

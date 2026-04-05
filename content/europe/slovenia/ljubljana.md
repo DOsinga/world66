@@ -5,14 +5,8 @@ latitude: 46.050027
 longitude: 14.506929
 ---
 
-Ljubljana is the capital of [Slovenia](/europe/slovenia). It's also the biggest city in the country and the political, cultural and commercial centre. With a population of around 300,000 it has the intimacy of a small town mixed with the cultural heritage and cosmopolitan feel of a vibrant city. 
+Ljubljana is Slovenia's capital and largest city, with a population of around 300,000. It has the feel of a small Central European city that happens to be a national capital — compact, walkable, and genuinely pleasant without trying too hard. The Ljubljanica River flows through the old town, lined with outdoor cafes. A castle sits on the hill above.
 
-The stunning old town is nestled between a hill topped with a castle and the gently flowing Ljubljanica river. The banks of the river and many other important buildings where designed by local architect Joze Plecnik (1872-1957). When strolling through the streets of Ljubljana you can see the remains of the Roman settlement Emona, the medieval old town, the many works of Plecnik and modern buildings blended with parks and squares. 
+The old town is the main draw. It runs east from the Triple Bridge along the right bank of the river, through a grid of Baroque churches, arcaded streets, and well-preserved medieval buildings. The work of local architect Joze Plecnik (1872–1957) is everywhere: the Triple Bridge extensions, the covered market by the river, the National and University Library. It gives the city a distinctive modernism you won't find elsewhere in Central Europe.
 
-The history of the city begins some 5,000 years ago with "marsh dwellers" inhabiting the the boggy *barje* (marsh lands) near the city, and continues through the time of Roman Emona, followed by the medieval city under the castle. Over the last century, Ljubljana has experienced its highest rate of growth, becoming more important as the political and educational centre of Slovenia. With Slovenia becoming independent in 1991 it has become one of the smallest capitals in Europe. 
-
-As a new member state of the European Union after 1 May 2004, Slovenia starts a new and exciting phase in its storied history. 
-
-You can walk through the city in couple hour's time. If you have an entire day you can see almost all sights worth visiting. If you stay longer Ljubljana is a great starting point to see all of Slovenia. Within a two hour drive you can see the Adriatic Sea, alpine mountains, the Karst (full of magical caves), the Panonian lowland, and a Sub alpine world of enormous beauty.
-
-Minor corrections on 27 March 04
+Ljubljana makes an excellent base for exploring Slovenia. Within two hours by car you can reach the Julian Alps, the Adriatic coast, the Karst caves at Postojna, and Lake Bled. If you have a single day in the city, you can see all the main sights comfortably on foot.

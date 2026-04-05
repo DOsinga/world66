@@ -1,20 +1,12 @@
 ---
 title: "Pingyao"
 type: location
-latitude: 37.139393
-longitude: 112.284997
+latitude: 37.189293
+longitude: 112.169624
 ---
 
-Travel Guide
+Pingyao is the best-preserved walled city in China — a compact Ming-era trading town in the middle of **Shanxi Province**, about 90 km south of the provincial capital **Taiyuan**, whose entire old town has survived almost unchanged since the 14th century. The 6.4 km **city wall**, built in its present form in 1370 but standing on foundations a thousand years older, still runs the complete perimeter of the old city; inside, a grid of narrow streets is lined with single-storey tiled-roof courtyard houses, banks, temples and shops almost entirely of Ming and Qing date. The whole thing is a UNESCO World Heritage Site, and more importantly, a working town — real families live in most of the old houses, and the streets are busy with bicycles and hawkers rather than tour buses.
 
-In the middle of Shanxi Province, covers an area of 2.25 sq kilometers, 90km southward from Taiyuan, the capital of the province, Pingyao Ancient Town is one of the four best-preserved ancient cities in China. Being prosperous and well developed in both Ming and Qing dynasties as a financial and business center, Pingyao was the assembly place of wealthy merchants who built the eye-catching courtyards one after the other, thus made the town the typical folk house in northern China. With more than 1700 years history, the ancient town is the birthplace of the earliest bank in China, named Piaohao, means the firm for exchanging and transferring of money.
+Pingyao's golden age came under the Qing, when it became the financial capital of China. In **1823**, the **Rishengchang** exchange shop opened here — the first of the *piaohao* or draft banks that allowed merchants to transfer money across the empire without carrying silver, the effective birth of modern Chinese banking. At its peak in the late 19th century, Pingyao had over twenty *piaohao*, half the financial system of the Qing empire was run from here, and the city was one of the wealthiest in China. The Rishengchang building, now a museum, is the most interesting single sight in town, followed by the **Ancient Government Office** (*Xian Ya*), the **City Wall**, the **Market Tower** at the centre of the main street, and the painted clay sculptures of the **Shuanglin Temple** and **Zhenguo Temple**, both a short drive outside the walls.
 
-The most brilliant spot of this ancient town is its city wall which was originally built during 827-782 B.C. Designed as a military strong-hold, it is 3-6m wide across the top, 9-12m wide at the bottom, 10m in height and 6.4km in length. The body of the wall was first built of rammed clay, and then was enhanced by bricks and stones in the early Ming Dynasty. During the Ming and Qing dynasties, the city wall was renovated 25 times to make the inner and outer city walls strongly fortified.
-
-The pattern of the whole town resembled Eight Diagrams (a combination of eight of the 64 Trigrams of the ¡°Book of Changes¡± traditionally used in divination), which is similar to the pattern on a tortoise shell. It thus called ¡°tortoise city¡±, symbolizing its longevity and solidity.
-
-As an outstanding example of Chinese Han Nationality cities in the Ming and the Qing dynasties, Pingyao's ancient architecture fully reflects the historical flavor of those periods. The ancient town has 4 major streets, 8 lesser streets and 72 lanes form a cross shape. The shops, firms and residences were built symmetrically along a 750-meter-long street runs from north to south as the axis, and the Market Tower located in the center.
-
-Along the central street there were over 220 banks, inns, pawn shops, Chinese herb shops, silk shops, tea stores, antique stores and restaurants at that glorious time. The most famous one was Rishengchang, the first private banking unit in China. The folk residences display the noted feature in Pingyao which are a combination of artistry and practicability.
-
-There are many stunning temples inside and around Pingyao. Shuangling Temple (Double Tree Temple), 6km southwest from Pingyao is famous for its colorful sculpture. The Zhengguo Temple, 12km to the northeast features unique wooden structural architecture.
+Come by high-speed train from Beijing (about four hours), Xi'an (three hours), or Datong. Stay inside the walls in one of the restored **courtyard hotels** — they are one of the great charms of visiting Pingyao, and a night in the old city is worth any discomfort. Two days here are enough; the city is small, but it is one of the best places in China to feel what the country looked like before the 20th century arrived.

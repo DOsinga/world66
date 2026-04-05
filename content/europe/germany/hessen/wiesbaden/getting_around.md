@@ -1,9 +1,9 @@
 ---
-title: "Getting Around in Wiesbaden"
+title: 'Getting Around'
 type: section
 ---
 
-**Wiesbaden transportation** is quite simple because of the relative small size of this German city. Here are a couple of tips to consider when getting around Wiesbaden.
+Wiesbaden is relatively compact and easy to get around.
 
 **Getting around by Foot**
 

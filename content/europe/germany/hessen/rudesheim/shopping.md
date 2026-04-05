@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Rudesheim"
+title: 'Shopping'
 type: section
 ---
 
-Rudesheim, Germany is considered the gateway to the Rhineland. A romantic stop in a tour of Germany, **Rudesheim Shopping** is famous for wine. While a shopper can find a number of luxury goods like perfume, jewelry and leather goods, wine is the main product sold.
+Rudesheim is the gateway to the Rhineland, and while you can find perfume, jewelry and leather goods, wine is the main product sold here.
 
 **Wine**
 

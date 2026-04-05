@@ -5,8 +5,6 @@ latitude: 42.193936
 longitude: -73.362773
 ---
 
-Travel Guide
-
 Nestled in the southwestern corner of Massachusetts, we are bordered by Connecticut to the south and New York to the west. We're easy to reach by car and are less than 2-1/2 hours from both New York City and Boston. The Appalachian Trail winds through our scenic network of mountains, streams, lakes and forests. We're rich with history and surrounded by natural beauty. In addition we offer exciting outdoor recreation, unique shopping, exquisite art galleries and antiques, world-class performing arts, wonderful lodging and dining and a solid professional community and diversified small-business base.
 
 A great charm of the town is its magnificent view-points- to Prospect Rock or East Rock on Mount Bryant is a fairly hard climb, but, within half a mile of the railroad station, an easy path creeps upward through a sunshiny hill pasture bordered by a green wood; pine-needles strewn over tree- roots offer an agreeable seat in the forest balcony. on the edge of the hill; across swaying tree-tops swells The Dome of the Taconics. The inspiring landscape of valley and mountain extends into three States. As evening approaches, the wood-thrush pipes in harmony with the lines of Cowper:

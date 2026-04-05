@@ -1,14 +1,8 @@
 ---
-title: "Festivals"
+title: 'Festivals'
 type: section
 ---
 
-**all**
+**Carnival** is Rio's defining event. For four days in February or early March, the city erupts into the world's biggest party. The highlight is the parade of samba schools through the purpose-built **Sambadrome** in downtown -- the shows start at 8 pm and run until 8 am, with each school fielding thousands of dancers in costumes they have spent the entire year creating. Buy tickets well in advance. Beyond the Sambadrome, street parties (*blocos*) take over neighbourhoods across the city, with free music and dancing that anyone can join. Carnival is a must -- at least once in a lifetime.
 
-**New Year's Celebration**
-
-The Copacobana beach is also is home to Rio's famous New Year's celebration. It attracts over 2 million people from all over the world! Following a local tradition, most people dress in white for good luck. Offering a white flower to Yemanjá, the goddess of the seas, is also a part of the ritual. The exquisite fireworks festival starts at midnight, lasting almost a half hour. With white sand and waters that are never rough, this is also a very popular beach for sunbathing. During the summer international championships of beach soccer, volleyball and other sports are promoted in arenas along Copacabana Beach. Some beach kiosks are open around the clock, offering refreshments and snacks. Cross the street and explore the beachside cafes, restaurants, and night clubs along Av. Atlantica.  [more..](/southamerica/brazil/riodejaneiro/festivals/newyearscelebration)
-
-**Carnival**
-
-Carnival in Rio is the only real Carnival. Everybody is out dancing in the streets. Participants plan (and save up for) their colorful exquisite costumes for a year (though some costumes seem to be little more than glitter and one or two sequins). The best costumes can be seen on Sunday and Monday of Carnival week in the specially constructed SAMBÓDROMO(in downtown -- subway station Praça Onze). The shows start at 8 pm and continue until 8 am! Buy your tickets well in advance. Carnival is a must—at least once in a lifetime. [more..](/southamerica/brazil/riodejaneiro/festivals/carnival)
+**New Year's Eve** (*Reveillon*) on Copacabana Beach draws over two million people. Following tradition, most revellers dress in white for good luck and throw white flowers into the sea as offerings to Yemanja, goddess of the waters. The fireworks display at midnight lasts nearly half an hour and is visible along the entire beachfront. Hotels and flights book up months ahead.

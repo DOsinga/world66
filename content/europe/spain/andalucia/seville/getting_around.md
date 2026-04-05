@@ -3,10 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Sevilla's city map is very easy to understand. The town centre lies within the boundaries of the old Arab walls on the east bank of the Guadalquivir river. These walls which are visible in parts are symbolised by a circular avenue, la Ronda , within which it is highly unpractical to drive a car.  
-
-On the other hand, as streets are mostly still as narrow as in the Middle Ages, few buses can drive through. So we suggest you do as the locals: walk, enjoy the hustle and bustle and when you feel tired just hail one of the many cheap taxis.  
-
-Even the sights outside the historical centre, Maria Luisa Park to the south and the Triana quarter across the river, are within walking distance, so the often crowded public transport will be of little use.  
-
-If you drive, park outside the historical centre where there is usually no parking fee, but make sure to respect a strict rule: do not leave absolutely anything in the car, even in the trunk.
+Seville is flat, compact, and almost entirely walkable. The whole of the old town, the Barrio Santa Cruz, the cathedral quarter, the Plaza de España and María Luisa Park, and even Triana across the river are all within a 20-minute walk of each other. Many of the narrow streets are pedestrianised or too tight for buses, and the easiest way to get around is on foot. When you need a ride, the **taxis** are cheap and honest. Seville has the most extensive **bike-share** system in Spain — **Sevici** — with docking stations all over the centre and a network of segregated bike lanes that makes it easy and pleasant to cycle everywhere. There is one **Metro** line, useful mostly for reaching the outskirts, and a **tram** (MetroCentro) that runs along Avenida de la Constitución through the heart of the old town. Don't rent a car: parking is difficult, theft from cars is common, and you won't need one unless you are driving on out of the city.

@@ -1,17 +1,8 @@
 ---
-title: "Day Trips"
+title: 'Day Trips'
 type: section
 ---
 
-There are many possible day-trips that you can do, with Melbourne as
-your base. A trip down the Great Ocean Road could consist of a rather
-long and rushed day-trip, or a more relaxed trip over a few days.
-Littered with small seaside towns and beaitiful coastal scenery, it is
-indeed one of the great places to drive in Australia. For coastal
-scenery, nothing beats the sights like the Twelve Apostles and Loch
-Ayrd Gorge close to Port Campbell. If you like lighthouses, there is a
-splendid one to visit at Cape Otway. Also, there are lovely seaside
-towns to visit, like Lorne and Apollo Bay.
+Melbourne makes an excellent base for exploring Victoria, with most of the state's highlights reachable in a day. The Great Ocean Road is the classic drive, threading through seaside towns like Lorne and Apollo Bay before reaching the Twelve Apostles and Loch Ard Gorge near Port Campbell. You can rush it in a long day or, better yet, spread it over two or three.
 
-**Contributors**
-March 29, 2006
+Other rewarding day trips include the gold rush towns of [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo), the Yarra Valley wine region, the penguin parade on Phillip Island, and the bushwalking at Wilson's Promontory. The Mornington Peninsula, with its wineries, beaches, and hot springs, is the easiest escape of all.

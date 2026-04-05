@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Niagara falls"
+title: "When to Go"
 type: section
 ---
 

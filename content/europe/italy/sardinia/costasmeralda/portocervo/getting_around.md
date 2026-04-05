@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Porto Cervo"
+title: "Getting Around"
 type: section
 ---
 

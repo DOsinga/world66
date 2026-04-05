@@ -3,6 +3,10 @@ title: "Singapore"
 type: location
 latitude: 1.357107
 longitude: 103.819499
+image: singapore.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Skylines_of_the_Central_Business_District,_Singapore_at_dusk.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Basile_Morin" title="User:Basile Morin">Basile Morin</a>'
 ---
 
 Singapore is a city-state on a small island at the southern tip of the Malay Peninsula, and it works harder than almost anywhere on earth to justify its own existence. No natural resources, no agricultural land, no hinterland — just 730 square kilometres of reclaimed and original island, six million people, and an economy that has grown from colonial trading port to one of the wealthiest places in the world within a single lifetime.

@@ -3,6 +3,10 @@ title: "Cambodia"
 type: location
 latitude: 12.5657
 longitude: 104.991
+image: cambodia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Angkor_Wat_-_022_Architecture_(8581740990).jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/64337707@N07">Photo Dharma</a> from Penang, Malaysia'
 ---
 
 Cambodia is one of Southeast Asia's most captivating destinations, a country where ancient temple ruins rise from jungle canopy and modern cities hum with the energy of a nation reinventing itself. For most visitors, the temples of Angkor are the draw, and rightly so -- there is nothing else quite like them on earth. But Cambodia has far more to offer than its famous ruins.

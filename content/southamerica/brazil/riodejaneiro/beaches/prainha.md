@@ -1,15 +1,8 @@
 ---
-title: "Prainha"
+title: 'Prainha'
 type: poi
-url: "www.riodejaneirophotoguide.com"
-latitude: -1.807287
-longitude: -53.479794
+latitude: -23.040
+longitude: -43.505
 ---
 
-The surfer's paradise of Rio de Janeiro. It is located between Grumari Beach and the Pontal/ Macumba of Recreiro dos Bandeirantes District. You can only reach it like Grumari by car - no public transport. On sunny weekends you have nearly no chance of getting a parking lot and beside this entrance for cars to the beaches is restricted and controlled by guards.
-
-
-
-
-
-url: [www.riodejaneirophotoguide.com](http://www.riodejaneirophotoguide.com)
+A surfer's paradise tucked between green hills, west of Barra da Tijuca. Prainha is small, wild and beautiful -- nothing like the urban beaches of the Zona Sul. You can only reach it by car, and on sunny weekends parking fills up fast (access is controlled by guards). The waves are strong and consistent, making it one of Rio's best surf spots. Bring everything you need -- there is little infrastructure beyond the beach itself.

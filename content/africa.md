@@ -1,6 +1,10 @@
 ---
 title: "Africa"
 type: location
+image: africa.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Serengeti_Landscape_with_dust_and_tees.jpg"
+image_license: "CC BY 4.0"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Maximilian_Staub&amp;action=edit&amp;redlink=1" class="new" title="User:Maximilian Staub (page does not exist)">Maximilian Staub</a>'
 ---
 
 Africa is the second-largest continent on earth and the most diverse. It holds 54 countries, over 2,000 languages, every climate zone from tropical rainforest to Saharan sand to alpine glacier, and some of the oldest civilizations in human history. It is also the continent most carelessly reduced to a single image. Travelers who show up expecting a monolith leave surprised by how different [Morocco](/africa/morocco) is from [Kenya](/africa/kenya), or [Ethiopia](/africa/ethiopia) from [South Africa](/africa/southafrica). That variety is the point.

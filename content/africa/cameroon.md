@@ -3,6 +3,10 @@ latitude: 4.612552
 longitude: 13.153581
 title: Cameroon
 type: location
+image: cameroon.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Bismarck-Brunnen_in_Buea.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Daina" title="User:Daina">Daina</a>'
 ---
 
 They call Cameroon "Africa in miniature" and it is not marketing fluff. This is one country where you genuinely move through the entire continent's landscapes in a few days of travel: from the Sahel savannah in the north to the dense equatorial rainforest in the south, from volcanic peaks along the coast to the cool green highlands of the west. Add roughly 250 ethnic groups, two colonial languages (French and English), and a food culture that ranks among the best on the continent, and you start to understand why travelers who make it here tend to stay longer than planned.

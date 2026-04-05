@@ -1,36 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Catania has many good restaurants - look and you will find!
+Catania has a vibrant food scene centred around the fish market near Piazza del Duomo. The city is the birthplace of pasta alla norma, and you should try it here at least once. Horse meat is a local speciality that appears on many menus.
 
-**all**
-
-**Osteria i Tre Bicchieri**
-
-Exclusive restaurant and wine bar.
-
-bookingurl: [www.osteriaitrebicchieri.it](http://www.osteriaitrebicchieri.it)
-
-fax: 095 310759
-
-address: via s.giuseppe al duomo 31
-
-PC: 95124
-
-tel: 095 7153540, 095 312294
-
-**Osteria Antica Marina**
-
-Very good seafood restaurant! Point at your fish and let them know how you'd like it prepared and they will do an excellent job. 
-
-If you order wine, try to get one that is not only of Sicilian grapes. After dinner, try the Grappa di Müller Thurgau! 
-
-Friendly staff, some english [more..](/europe/italy/sicily/catania/eating_out/osteria_antica_mar)
-
-PriceOfMenu: €30
-
-address: Via Pardo 29
-
-tel: +39-095-348197
+**Osteria Antica Marina** on Via Pardo is a standout seafood restaurant. Point at your fish and tell them how you want it prepared. Friendly staff, some English spoken. Around 30 euros per person. Tel: +39 095 348197.

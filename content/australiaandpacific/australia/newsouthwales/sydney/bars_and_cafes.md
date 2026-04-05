@@ -1,12 +1,6 @@
 ---
-title: "Bars and Cafes"
+title: 'Bars and Cafes'
 type: section
 ---
 
-**all**
-
-**The tea gardens**
-
-This bar is one of the more popular in the Bondi Junction area. With a luxurious interior and stylish clientele, it attracts a pleasant mix of socialites and locals. On top of this the dining service is remarkable for it's quality and price. A truly one off bar, and an unforgetable experience.
-
-address: 2-4 Bronte Rd, Bondi Junction, Sydney, 2022 NSW
+Sydney takes its drinking seriously, whether that means a flat white at a specialty roaster or a cocktail with harbour views. The inner-city neighbourhoods of Surry Hills, Darlinghurst and Newtown are packed with bars ranging from tiny wine bars to rooftop lounges. Oxford Street has long been the heart of the city's LGBTQ+ nightlife scene, with clubs and bars of every description.

@@ -1,13 +1,8 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
-address: "Hardware 25"
-phone: "+61 3 9670 3813"
 ---
 
-Melbourne, being the big city that it is, has of course everything to offer when it comes down to food. Nice cafes where you can have a tasty meal after your shopping events, fast food that offer all sorts of cuisines you might not even have tried yet. Grab your chance and indulge into something you have never tasted before!
+Melbourne is arguably Australia's best food city. Wave after wave of immigration has left the city with an extraordinary range of cuisines, from the Greek restaurants of Oakleigh to the Vietnamese strips of Richmond's Victoria Street, the Italian trattorias of Carlton's Lygon Street, and the Chinese late-night joints of Chinatown.
 
-**Display all** or display just...
-
-[Asian](/world/australiaandpacific/australia/victoria/melbourne/eatingout?subsection=Asian)
-[Cafés](/world/australiaandpacific/australia/victoria/melbourne/eatingout?subsection=Caf%C3%A9s)
+The laneway cafe culture is equally strong. Melburnians take their food seriously and are not afraid to queue for the right place. If in doubt, follow the locals down an alley and see what they are eating.

@@ -1,29 +1,11 @@
 ---
-title: "Resturant 'Harem'"
+title: 'Restaurant Harem'
 type: poi
-address: "Durag Niwas Guest House, Near k.n.hall Girls Collage,Raikabagh,Jodhpur,Rajasthan"
-email: "mail@durag-niwas.com"
-phone: "0091-0-9828089293"
-price: "http://durag-niwas.com/service/menu.html"
-type: "Indian and Pakistani"
-url: "www.durag-niwas.com"
+address: 'Durag Niwas Guest House, Near KN Hall Girls College, Raikabagh, Jodhpur'
+phone: '9828089293'
+url: 'www.durag-niwas.com'
+latitude: 26.2875
+longitude: 73.0190
 ---
 
-Serving fresh prepared meals , Guest can also join in free cooking lessons or see how there meal is prepared, meals take some time because everything is cooked fresh in the family kitchen by ladies of the family.go and experiance yourself to be between a Rajput family.
-
-**Contributors**
-June 22, 2005
-
-type: Indian and Pakistani
-
-
-
-tel: 0091-0-9828089293
-
-url: [www.durag-niwas.com](http://www.durag-niwas.com/service/index.html)
-
-address: Durag Niwas Guest House, Near k.n.hall Girls Collage,Raikabagh,Jodhpur,Rajasthan
-
-PriceOfMenu: http://durag-niwas.com/service/menu.html
-
-email: mail@durag-niwas.com
+A home-style restaurant inside the Durag Niwas Guest House where meals are cooked fresh in the family kitchen by the women of the household. Expect Rajasthani home cooking rather than restaurant fare. Meals take a while since everything is made to order, and they sometimes offer free cooking lessons. A genuine family experience rather than a polished dining room.

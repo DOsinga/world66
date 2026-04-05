@@ -1,32 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-accessibility: "bfgf"
-address: "54 zoo land"
-email: "www.losy.nor"
-phone: "01642 222222"
-type: "Going to the Beach"
-url: "123456"
-latitude: 36.648297
-longitude: -93.274533
 ---
 
-### [nice](/europe/france/midi/cotedazur/nice/things_to_do/nice)
-
-the beach is a very bug place
-
-type: Going to the Beach
-
-
-
-[[rate it]](/europe/france/midi/cotedazur/nice/things_to_do/nice)
-
-accessibility: bfgf
-
-tel: 01642 222222
-
-url: [123456](http://123456)
-
-address: 54 zoo land
-
-email: www.losy.nor
+Nice has a higher density of museums than most French cities outside Paris, and the old town alone could fill a day of wandering. From the hilltop ruins of Chateau de Nice to the Matisse and Chagall museums in Cimiez, the city rewards visitors who look beyond the beach.

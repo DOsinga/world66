@@ -1,8 +1,8 @@
 ---
 title: "Old Deerfield"
 type: location
-latitude: 43.083054
-longitude: -89.075667
+latitude: 42.5409
+longitude: -72.6076
 ---
 
 As the name suggests Old Deerfield goes way back. In a town first settled in the 1660s, there's lots of history to absorb. A walk down Main Street takes you past houses built in the 1700s, with their dark facades, and Deerfield Academy, with its flurry of prep- school students. A walk in autumn surrounded by yellow leaves is especially pleasant.

@@ -1,5 +1,5 @@
 ---
-title: "Karanjia - Similipal"
+title: 'Karanjia - Similipal'
 type: location
 ---
 

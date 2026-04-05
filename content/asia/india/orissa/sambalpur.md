@@ -1,5 +1,5 @@
 ---
-title: "Sambalpur"
+title: 'Sambalpur'
 type: location
 latitude: 21.557061
 longitude: 84.152851

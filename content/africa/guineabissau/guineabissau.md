@@ -3,6 +3,10 @@ title: 'Guinea-Bissau'
 type: location
 latitude: 12.0
 longitude: -15.0
+image: guineabissau.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Paesaggio_savana_con_termitai_in_Guinea-Bissau.JPG"
+image_license: "Public domain"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Francofranco56" title="User:Francofranco56">Francofranco56</a>'
 ---
 
 Guinea-Bissau is one of the smallest and least visited countries in West Africa, and that is precisely its appeal. This is a place where the rhythms of daily life have barely been touched by tourism, where cashew trees line red-dirt roads, and where the extraordinary Bijagos archipelago offers some of the most pristine island landscapes on the continent.

@@ -5,8 +5,6 @@ latitude: 42.282398
 longitude: -73.312368
 ---
 
-Travel Guide
-
 Stockbridge is located at the west end of Massachusetts near the New York State boundary. It is an extremely small place, basically a T-junction. The main street in Stockbridge is called Main Street and really is one block long.
 
 Being so small, it is a surprise that Stockbridge is home to two famous US landmarks.

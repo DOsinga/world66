@@ -1,4 +1,0 @@
----
-title: "Mokea"
-type: location
----

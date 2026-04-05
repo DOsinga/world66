@@ -1,54 +1,18 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-There are so many ways to, but Normal Options are always there like: By Road, By Air and By Rail. I have tried to give you the most actual on the basis of actual run by time giving exact details, but always check the Timmings before starting. 
+## By Air
 
+Pune Airport (PNQ) is about 10 km northeast of the city center. It handles domestic flights to Delhi, Bangalore, Chennai, Hyderabad, Kolkata, and several other Indian cities, plus a handful of international connections to Dubai and Singapore. A taxi or auto-rickshaw from the airport to the central areas takes about 30 minutes, though traffic can stretch that considerably.
 
+## By Train
 
+Pune Junction is well connected to [Mumbai](/asia/india/maharashtra/mumbai) and the rest of India. The most popular trains from Mumbai include the Deccan Queen (afternoon departure, about 3.5 hours) and the Shatabdi Express (morning, about 3 hours). Trains also run to Delhi, Bangalore, Chennai, Hyderabad, and Goa. Pune Junction is centrally located, making onward travel by auto-rickshaw straightforward.
 
+## By Road
 
+The Mumbai-Pune Expressway has made the drive between the two cities a smooth three-hour ride. State-run MSRTC buses and private operators like Neeta and Purple run frequent services from Mumbai's Dadar and Sion terminals. Volvo and sleeper buses are comfortable and affordable. From Goa, expect about 9 hours by bus or car.
 
-
-**By Road: **By Road, this route takes atleast Four Hours and depending on the Halt. There are regualr Buses available from Dadar which is most popularly known as Asiad Buses and operates every half an hour, 24 hours a day. The cost of ticket is Rs: 100 for Non A/c and Rs: 160 for A/C Buses. You will also get Private Taxis, like ambassador and Maruti Van, but you will have to wait, if there are not minimum of 4 Pessengers. The charges will be around 200 to 250 per seat. 
-
-
-
-
-
-
-
-**By Rail:** By Rail, there are so many Trains available from CST or VT Station from the City. The normal Train Ticket fare is around Rs: 62 and by Shatabdi it is Rs: 300 with Breakfast. Following are the Names and Timings for your convinience: 
-
-
-
-
-
-
-
-Indrayani Express: 6 am 
-
-Shatabdi: 7 am 
-
-Deccan Express: 7.20 am 
-
-Koyna Express: 8 am 
-
-Sikandarabad Express: 12.30 noon 
-
-Sinhagadh Express: 2.30 pm 
-
-Pragati Express: 4.20 pm 
-
-Deccan Queen: 5.10 pm 
-
-
-
-As soon as work on the Express Highway will be finished (planned delivery June 2000) these times will be cut by at least one to one and a half hours. 
-
-Now the express highway is finished and is a wonderful way of travelling between Pune - Bombay. But check in local newspaper during the rains for safety and delays due to landslide. During this time the train might be a better option.
-
-[spookydumb]
-
-The same trains are also available for returning from Poona to Bombay.
+If you are driving yourself, the expressway is excellent but watch for fog in the early morning during winter and landslide warnings during the monsoon season.

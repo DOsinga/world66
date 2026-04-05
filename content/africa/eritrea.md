@@ -3,6 +3,10 @@ latitude: 15.950032
 longitude: 37.999967
 title: Eritrea
 type: location
+image: eritrea.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Gash_Barkahouses.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: 'The original uploader was <a href="https://en.wikipedia.org/wiki/User:Blofeld_of_SPECTRE" class="extiw" title="wikipedia:User:Blofeld of SPECTRE">Blofeld of SPECTRE</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>.'
 ---
 
 Eritrea is one of the least visited countries in Africa, and one of the most rewarding for travelers who make the effort. This small nation on the Horn of Africa, wedged between Sudan, Ethiopia, and Djibouti along the Red Sea coast, gained its independence in 1993 after a thirty-year war. That struggle shaped everything about the place -- the national character, the infrastructure, the politics, and the way Eritreans relate to outsiders, which is with remarkable warmth.

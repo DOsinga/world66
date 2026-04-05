@@ -1,61 +1,28 @@
 ---
-title: "Things to do in Gujarat"
+title: 'Things to Do'
 type: section
 ---
 
-In **Gujarat**,** things to do** include
-temples and historical monuments and national parks. The vibrant
-Gujarat offers a number of entertainment opportunities to people of all
-age groups and the best sightseeing tours to travelers.
+### Safari in Gir Forest
 
-**Wildlife Safari**
+The Gir Forest is the last home of the Asiatic lion -- the only place outside Africa where you can see lions in the wild. Jeep safaris run from Sasan Gir, and sightings are common. Beyond lions, the forest has leopards, spotted deer, nilgai, and excellent birdwatching.
 
-Boasting a number of wildlife parks, Gujarat is home to a number of
-animal and bird species. Watch the Asiatic Lion from a close range at
-the Gir Forest. A visit to the Blackbuck National Park gives you the
-opportunity to view the jumping Black Bucks. Picnicking in this park is a
-common activity.
+### Explore the Rann of Kutch
 
-**Explore Beautiful Temples, Monasteries**
+Visit the vast white salt marshes of the Great Rann, especially during the Rann Utsav festival (November to February) when tent cities spring up on the edge of the desert. A full moon night on the Rann, when the white salt flat stretches to the horizon, is unforgettable. The Little Rann is home to the Indian wild ass.
 
-Gujarat is a hub of temples belonging to both Hindus and Jains.
-Palitana Temples, Hathee Singh Jain Temple, Kalikamata Temple, The Sun
-Temple of Modhera, Siddha Shree Dhoramnath Monastery, Dhoramnath Temple
-are some of the finest architectural masterpieces that are a treat to
-see. The Akshardham is a splendid building and, being a Hindu temple,
-remains crowded throughout the year.
+### Temple Architecture
 
-**Visit Museums and Archeological Sites**
+Gujarat has some of India's finest temple architecture. The [Sun Temple at Modhera](/asia/india/gujarat/modhera), the [Rani ki Vav stepwell at Patan](/asia/india/gujarat/patan), the Jain temples at Palitana (over 800 temples on a single hilltop), and the Akshardham temple in [Gandhinagar](/asia/india/gujarat/gandhinagar) are all outstanding.
 
-With a large number of archeological sites and museums, Gujarat
-offers archeology lovers a lot to explore and enjoy. Be it the Kutch
-Museum, Calico Museum of Textiles, Bhadra Tower, Jami Masjid, The
-Sarkhej Monuments, Champaner-Pavagadh, the Maharaja Palace, Panch Kuwa
-gate, Hussain-Doshi Gufa or any other historical monument, you will just
-love the splendor and elegance of these great archeological structures.
+### Birdwatching at Nal Sarovar
 
-**Recreation on Gujarat Beaches**
+About 60 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), Nal Sarovar Bird Sanctuary covers 120 square kilometres of wetland. From November to February, over 250 species of migratory birds -- including flamingos, pelicans, and cranes from Siberia and Europe -- gather here. Boat rides take you into the heart of the sanctuary.
 
-Adjoining the Arabian Sea, Gujarat boasts a number of serene beaches,
-offering numerous entertainment opportunities. Swim in the turquoise
-Arabian waters, walk on the pristine beaches, participate in any of the
-water sports, sail on the Arabian waters, watch fishermen, ride a water
-scooter, windsurf, watch others roll on the sand, and find yourself
-loving every moment on the Gujarat beaches. Some of the popular Gujarat
-beaches are Ahmedpur Mandvi beach, Somnath beach, Chorwad Beach, Gopnath
-beach, Kutch Mandvi Beach and Dwarka beach. Tourists come from far and
-near to relax on the beaches in Gujarat and to entertain themselves.
+### Beach Towns
 
-**Journey by Royal Orient Train**
+Gujarat's Arabian Sea coastline has quiet beaches at Ahmedpur Mandvi, Chorwad, and Gopnath. Dwarka and [Somnath](/asia/india/gujarat/somnath) combine pilgrimage with coastal scenery.
 
-A journey by the Royal Orient Train is an exhilarating experience,
-offering both thrill and entertainment. The train itself is a splendor
-to watch and takes you to some of the most exciting and exotic locations
-in Gujarat and Rajasthan.
+### Craft Villages of Kutch
 
-**Tour Nal Sarovar Bird Sanctuary **
-
-Amid the other fun and frolicking activities in Gujarat, do not
-forget to visit the Nal Sarovar Bird Sanctuary, where you will witness
-250 different species of migrant birds flocking together, a scene worth
-capturing on your cameras.
+The villages around [Bhuj](/asia/india/gujarat/kutch/bhuj) are home to some of India's finest textile artisans. Visit workshops producing embroidery, block printing, bandhani tie-dye, and lacquer work, each village with its own distinctive style.

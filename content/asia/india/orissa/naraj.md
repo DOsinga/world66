@@ -1,5 +1,5 @@
 ---
-title: "Naraj"
+title: 'Naraj'
 type: location
 latitude: 20.475067
 longitude: 85.779593

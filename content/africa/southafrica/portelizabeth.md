@@ -1,15 +1,12 @@
 ---
-title: "Port elizabeth"
+title: "Port Elizabeth"
 type: location
 latitude: -33.96186
 longitude: 25.618673
 ---
 
-Port Elizabeth has about 1 million inhabitants and is located on the Indian Ocean about halfway between [Cape Town](/africa/southafrica/capetown) and [Durban](/africa/southafrica/durban). The city is beautifully set along the beautiful shores of Algoa Bay. 
- In and around the city you will find scenic nature trails and wildlife experiences, long golden beaches, historic heritage and a unique coastal climate: that seems like enough to come here. The calm waters of Algoa Bay, its shores lapped by the warm Indian Ocean, make Port Elizabeth a Mecca for all beach and watersport activities. 
+Port Elizabeth — now officially known by its Xhosa name **Gqeberha** since 2021, though almost everyone still calls it PE — is a city of around 1.3 million people on Algoa Bay, roughly halfway between Cape Town and Durban on the Indian Ocean coast. It was founded in 1820 as the landing point of the British settler scheme that brought 4,000 immigrants to the eastern Cape frontier, and the colonial-era buildings of Donkin Street and the old town hill above the harbour still carry that history. Today it is the main port and industrial city of the Eastern Cape, with a reputation for sunshine — the nickname is "the Friendly City" or "the Windy City" (both fit) — and for being the best base for exploring the **Garden Route** to the west and the **Eastern Cape game reserves** to the north.
 
+Most visitors use PE as a short stopover between the Garden Route and the parks. The city's own attractions are modest but pleasant: the broad beaches of **Hobie Beach** and **Kings Beach** along the bay, the **Donkin Reserve** with its pyramid memorial and lighthouse, the **Route 67** public art trail that celebrates Nelson Mandela's 67 years in public life, and the small but dignified **Nelson Mandela Bay Metropolitan Art Museum**. Children's attractions include the **Bayworld** oceanarium complex and the **South End Museum**, which tells the story of a mixed-race district demolished under apartheid in the 1960s.
 
- Port Elizabeth enjoys more sunshine hours and fewer rainy days than any other coastal city in South Africa. The city boasts a moderate climate all year round with sea temperatures ranging from 16 degrees C in Winter to 23 degrees C in Summer. The average temperature for Summer and Winter are 25 degrees and 17 degrees respectively - truly an ideal place to holiday! 
-
-
- Greater Port Elizabeth is a great base for exploring the Eastern Cape: the famous Garden Route, Settler Hinterland and Sunshine Coast are all within reach.
+The real reason to come, though, is for the wildlife. **Addo Elephant National Park**, about an hour north-east, is the third-largest national park in South Africa and holds the densest population of elephants anywhere; more than 600 of them roam the dense spekboom thickets, along with black rhino, buffalo, lion and leopard (the full Big Five plus the Southern right whale offshore — the "Big Seven"). Further out, **Kariega**, **Shamwari** and **Kwandwe** are private reserves offering classic Big Five safaris without the long flight to the Kruger. The **Eastern Cape's Wild Coast** begins a few hours' drive east — rugged, undeveloped, and among the most beautiful coastline in South Africa.

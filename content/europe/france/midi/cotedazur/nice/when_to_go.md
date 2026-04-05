@@ -1,14 +1,10 @@
 ---
-title: "When to Go in Nice"
+title: "When to Go"
 type: section
 ---
 
-When planning a trip to **Nice, when to go **is a critical
-question. Since the coastal climate is relatively temperate for much of
-the year, there are more possibilities than for some other locations.
-One of the primary things to consider may be, "When does everyone else
-go?" Understanding the tourist trends in Nice may help you schedule your
-trip.
+Nice enjoys a mild Mediterranean climate year-round, so timing your visit is really about whether you want sunshine and crowds or quieter streets and cooler air.
+
 **Spring**
 
 With average high temperatures between 11 degrees and 16 degrees
@@ -57,5 +53,3 @@ des Anges. For those who seek an opportunity to celebrate on the
 Riviera and who do not mind cooler temperatures of 8 degrees to 12
 degrees C, a February visit may be of interest.
 
-**Contributors**
-March 06, 2010

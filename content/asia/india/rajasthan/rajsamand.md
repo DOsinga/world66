@@ -1,8 +1,10 @@
 ---
-title: "Rajsamand"
+title: 'Rajsamand'
 type: location
-latitude: 25.289246
-longitude: 73.824108
+latitude: 25.0714
+longitude: 73.8800
 ---
 
-Located 60 km from [Udaipur](/asia/india/rajasthan/udaipur) this is an interesting daytrip. There is a lake with many sights on the shores. The lake was made when Maharana Raj Singh built a dam here in 1660 A.D. Many ornamental arches and chhatris adorn the embankment.
+Rajsamand is a small town about 60 km north of [Udaipur](/asia/india/rajasthan/udaipur), centered on the vast Rajsamand Lake. Maharana Raj Singh built the dam here in 1660, and the embankment is decorated with ornamental arches, carved marble chhatris, and inscriptions in Sanskrit recording the history of the Mewar dynasty.
+
+The lake and its surroundings make a pleasant day trip from Udaipur. The town is also a convenient stopping point on the road between Udaipur and [Jodhpur](/asia/india/rajasthan/jodhpur) or Ajmer.

@@ -1,5 +1,5 @@
 ---
-title: "When to Go"
+title: 'When to Go'
 type: section
 ---
 

@@ -1,12 +1,10 @@
 ---
-title: "Getting Around"
-type: location
+title: 'Getting Around'
+type: section
 ---
 
-**
+The bus company is ATC and has several information booths around the city, including on the square in front of the train station.
 
-Transport  **
+Bus tickets can be bought in tabaccai (small tobacco shops all over the city). An 8-ride bus ticket called *Citypass* is also available and can be shared by a group.
 
-Bus company is ATC and has several information booths around the  city, e.g., on the square in front of the train station.  
-
-Bus tickets can be bought in Tabaccai (small "tabacco" shops all over the city) for L1.800. An 8-ride bus ticket,  called *Citypass,* will cost you L12.000 and can be bought at the  same place. The *citypass* is not personal and can be used by a group.   It is generally impossible to hail a cab/taxi on the street. There are several taxi ranks around the city (station etc.) where you  can take a cab. Otherwise, if you want to go by cab, you will have to make a phone call to a cab company.
+It is generally impossible to hail a cab on the street. There are several taxi ranks around the city (station, etc.) where you can take one. Otherwise, you will have to phone a cab company.

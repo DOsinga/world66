@@ -3,6 +3,10 @@ title: "Estonia"
 type: location
 latitude: 58.752378
 longitude: 25.331908
+image: estonia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Purekkari_neemel.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Abrget47j" title="User:Abrget47j">Abrget47j</a>'
 ---
 
 The most northern of the three Baltic states, Estonia punches well above its weight. It's small — 1.3 million people, roughly the size of the Netherlands — but it packs in a medieval capital, unspoilt national parks, hundreds of islands, and a tech culture that pioneered e-governance and gave the world Skype.

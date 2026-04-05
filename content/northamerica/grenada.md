@@ -3,6 +3,10 @@ title: "Grenada"
 type: location
 latitude: 12.1165
 longitude: -61.6790
+image: grenada.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:St_George's,_Grenada_-_panoramio_(8).jpg"
+image_license: "CC BY 3.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161103064354/http://www.panoramio.com/user/558771?with_photo_id=131638654">Андрей Бобровский</a>'
 ---
 
 Grenada is the southernmost of the Windward Islands, a three-island nation that includes Carriacou and Petit Martinique. It is small — the main island is about 34km long — fragrant with nutmeg and cinnamon, and genuinely beautiful in a way that doesn't require much effort to appreciate. The terrain is lush and mountainous at the centre, ringed by beaches and fishing villages, and the capital St. George's sits around one of the prettiest harbours in the Caribbean.

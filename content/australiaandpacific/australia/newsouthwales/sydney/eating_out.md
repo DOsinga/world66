@@ -1,6 +1,6 @@
 ---
-title: "Eating Out"
+title: 'Eating Out'
 type: section
 ---
 
-Sydney offers a wide choice in cuisines, whether you're looking for a quick burger, a dish prepared with fresh seafood or an exclusive six course meal. Prices vary enormously, so it's up to you to decide whether you want to eat at one of the many moderately priced cafes (check out the daily specials) or indulge in an expensive Japanese sushi meal at a fashionable restaurant.
+Sydney is one of the great eating cities of the Asia-Pacific. The diversity of cuisines reflects the city's multicultural population, and competition keeps quality high even at budget price points. Chinatown around Haymarket has excellent cheap eats, Surry Hills is where the trendiest cafes and restaurants cluster, and you will find gems in every suburb if you are willing to explore.

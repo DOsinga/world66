@@ -3,6 +3,10 @@ title: "Turkmenistan"
 type: location
 latitude: 39.376381
 longitude: 59.392461
+image: turkmenistan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Central_Asia_100.jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/65638600@N05">Stefan Krasowski</a>'
 ---
 
 Turkmenistan is one of the most closed countries on earth. It sits in the heart of Central Asia, bordered by Kazakhstan, Uzbekistan, Afghanistan, Iran, and the Caspian Sea — and for decades it has turned most of its back on the outside world. Getting in is complicated. Moving around independently is restricted. Yet travelers who make the effort find a country of startling contrasts: blazing desert and ancient Silk Road ruins, a surreal marble capital and a crater of fire that has burned for fifty years in the middle of nowhere.

@@ -1,13 +1,8 @@
 ---
-title: "Cathedral"
+title: 'Cathedral'
 type: poi
-type: "Churches and Cathedrals"
-latitude: 43.0922
-longitude: 11.78073
+latitude: 44.494476
+longitude: 11.345632
 ---
 
-Right in the center of town stands the cathedral, with an odd facade,
-it rather seems half finished. Still it is a beautiful building well
-worth a visit.
-
-type: Churches and Cathedrals
+Right in the centre of town stands the cathedral, with an odd facade that seems half finished. Still a beautiful building, well worth a visit.

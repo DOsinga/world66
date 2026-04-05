@@ -1,25 +1,6 @@
 ---
 title: "Getting There"
 type: section
-address: "7. Ave. 3-62 Zona 1, HUehuetenango, Guatemala, C.A."
-phone: "0050277642251"
-zipcode: "13001"
 ---
 
-Transportation, the only way to get Huehuetenango is by bus, from Guatemala City or from the border La Mesilla i fyou come from México.
-
-## all
-
-Transportes Los Halcones
-
-*En Huehuetenango 
-
-*7 Ave. 3 - 62, Z.1, Tel: 7764-2251 
-
-Huehuetenango a Guatemala: 4:30 am, 7am, 2pm 
-
-*En Guatemala * 
-
-7 Ave. 15-27 Z.1, Tel: 2238-1979 
-
-Guatemala a Huehuetenango: 7am, 2pm, 5
+The only way to reach Huehuetenango is by road. **Guatemala City** is about 5–6 hours by direct bus on the CA-1 (Pan-American Highway); the best company for the run is **Transportes Los Halcones**, which runs comfortable express buses several times a day from its terminal at 7 Avenida 15-27, Zona 1 in Guatemala City to its office at 7 Avenida 3-62, Zona 1 in Huehuetenango. Cheaper but slower chicken buses also run throughout the day. Huehuetenango is on the main route between Guatemala City and the **Mexican border at La Mesilla** — about 90 minutes further west — so it is a useful overnight stop for travellers crossing to San Cristóbal de las Casas in Chiapas.

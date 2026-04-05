@@ -1,10 +1,8 @@
 ---
 title: "Burlington"
 type: location
-latitude: 44.47616
-longitude: -73.212906
+latitude: 42.5048
+longitude: -71.1962
 ---
 
-Travel Guide
-
-Burlington is a city outside of Boston
+Burlington is a suburban town northwest of Boston, known for the Burlington Mall and its convenient access to the city.

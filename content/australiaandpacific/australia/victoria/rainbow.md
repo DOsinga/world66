@@ -1,12 +1,8 @@
 ---
-title: "Rainbow"
+title: 'Rainbow'
 type: location
-latitude: -35.898183
-longitude: 141.995553
+latitude: -35.8982
+longitude: 141.9956
 ---
 
-We currently have no information about Rainbow.
-
-If you do know any general information about Rainbow, please [Edit this article].
-
-If you know any hotels in Rainbow or restaurants in Rainbow, please [[Add].](/destinations/addItemWizard?addwhere=australiaandpacific/australia/victoria/rainbow)
+A small wheat-belt town in Victoria's remote northwest Wimmera region. Rainbow sits on the edge of vast golden plains and serves as a gateway to the nearby Wyperfeld National Park, one of Victoria's largest and least-visited wilderness areas.

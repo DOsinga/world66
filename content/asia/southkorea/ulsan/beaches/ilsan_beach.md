@@ -1,8 +1,8 @@
 ---
-title: "Ilsan Beach"
+title: 'Ilsan Beach'
 type: poi
-latitude: 35.495446
-longitude: 129.430873
+latitude: 35.4954
+longitude: 129.4309
 ---
 
 Upon arriving in the area you may feel like

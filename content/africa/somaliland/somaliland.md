@@ -3,6 +3,10 @@ title: "Somaliland"
 type: location
 latitude: 9.5595
 longitude: 44.0769
+image: somaliland.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Somaliland_(6790596624)_(2).jpg"
+image_license: "CC BY 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/10088550@N00">YoTuT</a> from United States'
 ---
 
 Somaliland declared independence from Somalia in 1991, after the collapse of the Siad Barre regime and years of brutal military repression. No country officially recognises it, but that hasn't stopped it from functioning. It has its own elected government, currency, police force, and passport — and for travellers, it behaves like an independent country in every practical way.

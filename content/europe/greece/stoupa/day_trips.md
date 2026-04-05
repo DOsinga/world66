@@ -1,14 +1,10 @@
 ---
-title: "Day Trips in Stoupa"
+title: "Day Trips"
 type: section
 ---
 
-These **Stoupa Day Trips** are tranquil journeys into perfect places for tourists who want to enjoy the serenity of rural Greece and the joys of simple living. Considered a &ldquo;hidden gem&rdquo; by some tourists, Stoupa nestles peacefully along the Peloponnese coastline. Time seems to stand still in the quiet places you could visit from this small village.
+**Kardamyli** (15km north) is the most rewarding short trip. The old village has a beautiful stone Ktenas tower-house complex, a Byzantine church of Agios Spyridon, and good tavernas. The gorge of Vyros, above the village, is one of the best hikes in the Peloponnese — two gorges converging, with plane trees, springs, and abandoned chapels. Patrick Leigh Fermor lived in Kardamyli for decades and wrote about the Mani here.
 
-**Mountain Village Trip**
+**Diros Caves** (35km south near Pyrgos Dirou) are one of Greece's most spectacular natural sites — an underground river system explored by flat-bottomed boat. The stalactite formations are extraordinary. Open daily; booking ahead is advisable in peak season.
 
-Your visit to Stoupa is not complete without participating in mountain trips. From Stoupa, you travel by land to the quaint village of Pyrgos, where you can explore the inherent beauty of the village. The place offers also an amazing view of the neighboring villages and the surrounding terrain. You can walk around the village and interact with the locals to learn more about their heritage. You can then proceed to Kastania, where you explore the ancient Agios Petros Church and the Dourakis Tower. From there, you travel to Saidona and enjoy a Greek supper. The meals are included in the package, which costs $40.50.
-
-**Corinth Canal Trip**
-
-This is a ferry cruise that starts from Stoupa. The group will have a brief stop at Kalamata for coffee. At Kalamata, you will meet the other guests who are with the cruise. The cruise will take you to Loutraki Bay, where you can spend a few hours basking in the sun, enjoying the priceless scenery and the brackish waters. You proceed around Loutraki Bay and to the lower bridge of the canal, where lunch is provided. After lunch, the cruise returns to Stoupa. This wonderful cruise costs only $60.25.
+**Mystras** (60km northeast) is a ruined Byzantine city on a hillside above Sparta, a UNESCO World Heritage Site with frescoed churches, palaces, and fortifications. A half-day trip. **Kalamata** (45km north) has good food and a pleasant old quarter; the Benakeion Archaeological Museum is worth a visit.

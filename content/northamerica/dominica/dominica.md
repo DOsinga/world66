@@ -3,6 +3,10 @@ title: "Dominica"
 type: location
 latitude: 15.4150
 longitude: -61.3710
+image: dominica.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:La_randonnée_en_Dominique.jpg"
+image_license: "CC BY-SA 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/w/index.php?title=User:Charlottea&amp;action=edit&amp;redlink=1" class="new" title="User:Charlottea (page does not exist)">Charlottea</a>'
 ---
 
 Dominica — the Nature Isle of the Caribbean — is the odd one out in the region. There are no white-sand resort beaches, no casino strips, no all-inclusive hotel zones. What there is: a staggering volcanic interior covered in rainforest, 365 rivers (one for every day of the year, locals say), the world's second-largest boiling lake, and some of the finest diving in the Caribbean. If you came looking for a beach holiday, you've landed in the wrong place. If you came to hike, dive, or simply disappear into jungle for a week, you've found it.

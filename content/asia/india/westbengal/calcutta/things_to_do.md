@@ -1,17 +1,6 @@
 ---
-title: "Things to do in Calcutta"
+title: 'Things to Do'
 type: section
 ---
 
-Normal
-0
-
-Puzzles are actually a
-challenge to the mental ability. It aims to make the human brain more
-effective, and to do that, places number of cases. It needs a bit of intellect
-application, and surely this one is a boost to foster your kid's IQ level.
-That’s what **RightToys.In **aims for, and a
-visit to us will fetch you the quality offerings from HOT WHEELS. Just meet us
-at **www.righttoys.in/products.asp?brand=166 **to
-have them, and start experiencing the uplifted intelligence level of your
-growing kid**.**
+Kolkata rewards the curious traveler. The city's colonial architecture, sprawling gardens, and chaotic street life offer a very different experience from the tourist circuits of Delhi or Rajasthan. Start with the Victoria Memorial and Howrah Bridge, then let yourself get pulled into the lanes of north Kolkata or across the river to the Botanical Gardens.

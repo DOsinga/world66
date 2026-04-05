@@ -1,18 +1,8 @@
 ---
-title: "Beaches"
+title: 'Beaches'
 type: section
 ---
 
-Victoria has some fine beaches where you can, besides lying in the sun and enjoying a swim, surf on the impressive waves that clasp onto shore. Port Campbell, a popular resort, offers besides some interesting sights a good beach. Phillip Island’s south coast claims to have some of the best beaches in the country. Besides waves, you can also spot penguins, occasionally white sharks (!) and marvellous scenery. When you can’t decide yet, just go along the **Great Ocean Road ** and stop at places such as Torquay and its famous Bells Beach.
+Victoria's coastline is wilder and more dramatic than the postcard beaches up north, but that is part of the appeal. The Great Ocean Road strings together some of the country's best surf beaches, from the famous Bells Beach at Torquay to the quieter stretches around Apollo Bay. Phillip Island's south coast has powerful surf and the bonus of penguin parades at dusk.
 
-**all**
-
-**Phillip Island **
-
-Check out Woolamai, Surfies Point and Cat bay.
-
-**Torquay**
-
-The famous Bells Beach is located here.
-
-**Gunamatta**
+The water is cold enough to need a wetsuit most of the year, but Victorian surfers would not have it any other way.

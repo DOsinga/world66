@@ -1,14 +1,14 @@
 ---
-title: "Southampton"
+title: 'Southampton'
 type: location
 latitude: 50.902535
 longitude: -1.404189
 ---
 
-Southampton, while having a strong naval and maritime history, has only been a city since the 1960's. This shows, as the city centre is considerably smaller than somewhere such as Reading (still a town) for instance. This makes walking very easy, as all major streets are now pedestrianised. The parks are very agreeable for a picnic lunch, but don't venture in to them after dark - pikeys abound!
+Southampton is a port city on the south coast of England with deep maritime roots. It was from here that the Mayflower set sail for America in 1620, and from here that the Titanic departed on its ill-fated maiden voyage in 1912. Today it remains one of Europe's busiest cruise ports, and the waterfront is always busy with ships.
 
-The road network is, as in all British cities, confusing. Less busy than most though, but watch out for traffic lights, there are more sets of traffic lights in Southampton than roundabouts in Basingstoke! Parking facilities are abysmal, but with the equally bad bus and train services, a visitor is left no choice. Try not to park in the overpriced and over-busy West Quay complex, but in one of the other multi-storeys (East Street is a good bet).
+The old town, south of the medieval Bargate, is surprisingly rich in history. The medieval walls are among the best-preserved in England, and a self-guided walk takes you past Tudor merchants' houses, old churches and the remains of the castle. The Tudor House Museum on Bugle Street gives a vivid sense of how the town looked before the Blitz destroyed much of it.
 
-There are a few good pubs in the centre of the city, most notably the two J.D. Wetherspoon's (expect to meet plenty of students), the Hogshead, and the most aptly named Gay pub ever - The Hampshire Ram. Restaurants worth looking at are Kuti's Brasserie (Indian), Kama (Indian) and everything else really. Avoid the seafood restaurants in Ocean Village however - poor quality, expensive, and bad service.
+The city centre was heavily bombed during the Second World War and rebuilt in a functional style that lacks charm. The modern WestQuay shopping centre dominates, but the pedestrianised streets are easy to navigate on foot. The parks offer pleasant green space, and the two universities give the city a youthful energy with plenty of pubs and restaurants.
 
-If you are thinking of becoming a student at the University - make sure you complain about the Union. Prices can be more expensive than city centre pubs, and "The Cube" as it is now called lacks any sort of character whatsoever. For an "authentic" Student Union experience, you will be be welcome at the Southampton Institute Union - which is in town, very cheap, and always busy!
+Southampton is well connected by train, with frequent services to [London](/europe/unitedkingdom/england/london) Waterloo (about 80 minutes), [Winchester](/europe/unitedkingdom/england/south_east/winchester) (15 minutes) and [Portsmouth](/europe/unitedkingdom/england/south_east/portsmouth) (50 minutes). It also makes a good base for exploring [the New Forest](/europe/unitedkingdom/england/south_east/the_new_forest), which begins just to the west.

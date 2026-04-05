@@ -1,62 +1,10 @@
 ---
-title: "Things to do in Aqaba"
+title: "Things to Do"
 type: section
 ---
 
-There is a long list of **Aqaba Things to Do** since
-Aqaba has developed into a global tourist destination, attracting
-thousands of international visitors, each year. Your Aqaba Things to Do
-list should consist of exploring Aqaba’s history and its unique ecology.
-Aqaba’s history is truly enthralling, ranging from its very first,
-Biblical rulers to the more dominant Roman and Ottoman kings. Aqaba is
-also regarded as Jordan’s most ecologically-progressive city. You can
-spend your time in Aqaba:
+Diving and snorkelling are the primary activities. Aqaba Marine Park (administered by ASEZA) protects a long stretch of reef along the south coast. The coral is generally intact and the fish life is excellent. Multiple dive centres offer PADI courses, fun dives, and guided snorkelling; shore diving is possible at several points. Glass-bottomed boat trips are an option for non-divers.
 
-**1. Exploring Aqaba’s Biodiversity **
+Aqaba Castle (Mamluk Fort) in the old town was originally built in the 13th century, damaged by British naval bombardment in 1917 during Lawrence of Arabia's campaign, and subsequently rebuilt. It houses exhibits on the city's history and is a worthwhile short visit. The small Archaeological Museum next to the castle has coins, pottery, and inscriptions from Aqaba's history as a Red Sea trading port.
 
-Aqaba is Jordan's most beautifully-landscaped city. It consists of a
-blended terrain, composed of vast green-covers, desert patches and
-small, mountain ranges.
-
-**Spotting-the-Whales**
-
-Aqaba’s most popular reef inhabitant is the whale shark that is known
-to surface a few times during the daytime. Visitors can be found
-flocking to the sea-side, waiting to catch a glimpse of this gigantic
-hunter. Local tourist guides often arrange small trips around the gulf
-for those interested in watching the whales.
-
-**Bird Watching**
-
-Jordan is popular as a global, bird-watching destination. The
-presence of dry woodlands, sea-fronts and mountains have made Jordan a
-breeding ground for many unique birds. Further, due to its unique
-location, Aqaba has become host to migratory birds that are headed to
-Asia, Africa and Europe. Visitors can ask about the prominent
-bird-watching spots from the local authorities. Most of these spots are
-marked as IBAs or Important Bird Areas. One of the rarest birds found
-here is the Arabian warbler.
-
-**Visiting Aqaba Marine Park**
-
-Aqaba’s coastline consists of an exotic mix of marine life. As a
-result, water-sports, and particularly deep-sea diving, have become very
-popular. The Aqaba Marine Park is located near the town center and is
-among Aqaba’s most popular tourist attractions. The Aqaba Marine Park
-was started as a conservation effort but now, it has developed into a
-famous, marine exhibit. Visitors are educated about the marine life
-through a series of video presentations before being given a ride of the
-entire premises. Visitors can choose from a wide range of
-water-adventure sports.
-
-- **Location: **P.O. Box 2565, Aqaba 77110. Visitors should ask for
-the ASEZA—Aqaba Special Economic Zone Authority. Upon reaching ASEZA,
-any taxi can be hired to reach the park.
-
-**2. Exploring Aqaba’s History**
-
-The easiest way of understanding Aqaba’s exceptional history is
-visiting the Archaeological Museum. The museum has become a
-conservatory, housing some of the rarest, most historic coins from
-different parts of Middle East. Some of the exhibits inside the museum
-date
+The waterfront corniche and the market area near the city centre are good for an evening walk — the city is most pleasant after dark when the heat has eased.

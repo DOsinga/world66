@@ -5,13 +5,6 @@ latitude: 44.046648
 longitude: 9.984746
 ---
 
-Travel Guide
+Bocca di Magra is a small resort village at the mouth of the **Magra River** on the eastern edge of Liguria, where the river cuts through the hills into the Ligurian Sea. Its name means, literally, "mouth of the Magra". This is the unfashionable end of the Gulf of the Poets — less polished than nearby Lerici and Portovenere, but quieter, cheaper and still very pretty. Fishermen's houses line the riverbank, small boats are moored in rows along the quay, and on the far side of the river the pine-covered slopes of the **Montemarcello-Magra Natural Park** rise steeply out of the water.
 
-The town of Bocca di Magra is located at the place where the Magra River flows into the Mediterranean Sea out of the Magra Valley. "Bocca" means mouth, so this is the mouth of the river but it is so wide and well connected to the sea that it is a sea port.
-
-The Monastery of Santa Croce has the best position on the top of the hill and you can see all the way down the Italian Riviera. This Monastery has a chapel with a wonderful cross of Jesus and Dante is said to have stopped by here searching for peace.
-
-This is also a good starting place to see the Bay of the Poets, the National Park, take ferryboat rides to different destinations and visit local Roman ruins such as Luni.
-
-**Contributors**
-January 13, 2006
+The main reason to come is to use Bocca di Magra as a base for the surrounding area without paying Cinque Terre prices. It is well placed: the **Cinque Terre** is a short ride north by boat or train, the Roman ruins of **Luni** (once a major port in antiquity, now sitting a few kilometres inland after centuries of silt) are ten minutes away by car, and the Apuan Alps — the marble quarries where Michelangelo chose his stone — are visible across the plain to the south. The village itself has a sprinkling of good seafood restaurants on the river, a couple of small beaches on the sea side of the headland, and the hilltop **Monastery of Santa Croce**, which claims to have once hosted Dante.

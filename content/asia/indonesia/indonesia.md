@@ -3,6 +3,10 @@ title: "Indonesia"
 type: location
 latitude: -2.548926
 longitude: 118.0148634
+image: indonesia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Java_man_National_Museum_Indonesia.JPG"
+image_license: "CC BY 3.0"
+image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Midori" title="User:Midori">Midori</a>'
 ---
 
 *Asia > Indonesia*

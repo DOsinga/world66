@@ -3,6 +3,10 @@ title: "Cook Islands"
 type: location
 latitude: -19.996972
 longitude: -157.785871
+image: cookislands.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Cook_Islands_IMG_6418_2_(8451970309).jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/42774464@N03">Christopher Johnson</a> from Tokyo, Japan'
 ---
 
 Fifteen islands scattered across an area of ocean the size of India, with a total population of around 17,000 people. That ratio — vast sea, tiny population — tells you most of what you need to know about the Cook Islands. These are not undiscovered islands dressed up as paradise. They are the real thing.

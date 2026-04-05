@@ -5,15 +5,8 @@ latitude: 38.581061
 longitude: -121.493895
 ---
 
-The state capital, Sacramento, is a sophisticated city with vestiges of a pioneer past. Explore that past at Sutter's Fort State Historic Park, a representation of the settlement founded by Swiss homesteader John Sutter. 
- Tour the domed and ornate 1874 capitol building. Then stroll the surrounding Capitol Park, filled with thousands of varieties of plants.
+Sacramento is the capital of California, a flat, tree-shaded city of about half a million people at the confluence of the **Sacramento** and **American** rivers in the northern end of California's Central Valley. It has none of the glamour of Los Angeles or the Bay Area, and few travellers make it a destination in its own right — which is a pity, because Sacramento is where California actually happened. When **John Sutter** built his fort here in 1839 and **gold** was discovered 50 km east at Coloma in 1848, the city became the supply centre of the Gold Rush, the terminus of the Pony Express, and the western end of the first transcontinental railroad. Almost every foundational story of California's rise passes through Sacramento at some point.
 
+The past is preserved most vividly in **Old Sacramento**, a 26-acre national historic district of cobbled streets, wooden plank sidewalks and restored 1850s–1870s buildings down by the river. Inside this district is the **California State Railroad Museum**, widely considered the best railroad museum in North America — 21 restored locomotives (several of them working), rolling stock you can walk through, and superb exhibits on the construction of the Central Pacific Railroad. A short walk from there, **Sutter's Fort** (a reconstruction on the original site) is where it all began. Up the hill, the grand neoclassical **California State Capitol**, completed in 1874, is open to visitors; the surrounding **Capitol Park** is a 40-acre arboretum with trees from every continent. The **Crocker Art Museum**, founded in 1885 and the oldest public art museum west of the Mississippi, has a good collection of 19th-century Californian painting and an impressive new wing of European and contemporary art.
 
- 
- 
- Visit the 1878 Governor's Mansion, now a state museum with furnishings donated by 13 former governors. The Crocker Art Museum, opened in 1873, houses 19th-century Californian and European art. The nearby Towe Ford Museum displays every model made during Ford's first 50 years. The new Golden State Museum brings California's rich history to life with a mix of traditional exhibits and state-of-the-art technology.
-
-
- 
- 
- On the riverfront, Old Sacramento encompasses 26 acres of shops and restaurants in 1849-to-1870-vintage buildings. Walk through the California State Railroad Museum, the world's largest, to see 21 restored locomotives and a large collection of railroad memorabilia.
+Beyond the sights, Sacramento has in the last decade developed a surprisingly serious food scene — the city declared itself **"America's Farm-to-Fork Capital"** in 2012, and has real grounds for the claim given the productivity of the Central Valley farmland around it. The **Midtown** neighbourhood on J and K streets is where most of the good restaurants, coffee places and breweries are.

@@ -3,12 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-**By Air** 
-
-Durban is the nearest airport to Drakensberg, and is well connected to most national and international destinations. Sightseeing with aerial views of the Drakensberg mountains from chartered helicopters is also possible.
-
- 
-
-**By Bus** 
-
-If you come by road, you can enter Drakensberg from Bergville. Minibuses and taxis are available at Ladysmith, situated at a distance of around 50 km from Bergville. Self-driven vehicles are also available on hire. As the public transport is limited and costly, it is better to use tourist cars, which are easily available.
+The closest airports are Durban (King Shaka) for the Central and Southern Berg, and Johannesburg for the Northern Drakensberg; both are roughly a three- to four-hour drive from the mountains. There is no useful public transport into the range — a rental car is effectively essential, and a short stretch of dirt road at the end of many approaches is normal. From Johannesburg take the N3 south to Harrismith or Ladysmith and turn off for Bergville or Winterton; the Sani Pass, crossing into Lesotho, requires a 4x4.

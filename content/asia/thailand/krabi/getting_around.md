@@ -3,6 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Most of Krabi's attractions are easily accessed by road, and/or by boat. Long tail boats are readily obtainable from Krabi Town at the Chao Fah Pier and at all major beaches. Tour companies can arrange charter boats, or advise on ferry services between beaches and islands around the area.
-
- For those who prefer to go by land, hire a car or motor cycle, or rent a Songtaew (taxi truck) to drive you round for the day. Local buses also shuttle between major areas in the province, from the bus station just outside of Krabi Town at Talaat Kao.
+Most of Krabi's attractions are reached either by **long-tail boat** or by **songthaew** (converted pickup truck). Long-tails leave Krabi Town from Chao Fa Pier and every major beach, and are the only way to reach Railay; fares are fixed by a cooperative, so there is no bargaining. Songthaews shuttle between Krabi Town, Ao Nang, the airport, and the bus station at Talaat Kao from early morning until dusk. For exploring inland — Wat Tham Seua, the hot springs, the Emerald Pool — a rented motorbike or a day's hired songthaew-taxi is the simplest option. Long-distance buses serving the rest of southern Thailand use the Talaat Kao terminal, just outside Krabi Town.

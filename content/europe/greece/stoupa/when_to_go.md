@@ -1,16 +1,10 @@
 ---
-title: "When to Go in Stoupa"
+title: "When to Go"
 type: section
 ---
 
-Stoupa is a village on the coast of Southern Peloponnese Greece that's famous for its natural beauty, and you can see everything it can offer when you know the answer to the **Stoupa- when to go** inquiry. Once known as the sleepy town, today it showcases a string of restaurants along the beach, and a few and simple hotels are now seen streaming this old town. Stoupa is almost the secret hideaway in Greece because of its size, and it's virtually unknown to tourists planning their trip to Greece.
+May, June, and September are the best months — warm enough to swim, fewer visitors than July and August, and the landscape greener and the heat more manageable for walking. September is particularly good: the sea is still warm from summer, the crowds have thinned, and the light is beautiful.
 
-The Stoupa village possesses gorgeous beaches that tourists can visit. Snorkeling sites at the very end of its beaches can be visited by beginners who wish to learn. The Stoupa beach and cove is the most popular, aside from the equally enchanting Kalogria beach. Here are the best times to visit this natural beauty:
+July and August are peak season: hot (often 35°C+), busy with British and German visitors, and the beaches fill by mid-morning. Accommodation should be booked well in advance.
 
-**Summer Season**
-
-The summer season in Stoupa mars the celebration of what they call the Kalamata Dance Festival. This internationally acclaimed dance festival is the focus of their art of dancing.
-
-**Kardamili International Art Exhibition **
-
-This is where a community of young artists present several paintings and arts in one special event. It is also celebrated to commemorate the special talent of emerging artists. The celebration also aims to help these artists display and show their talents, as well as help them market their work. This event showcases most of the year&rsquo;s best paintings and artwork.
+October is quiet and still mild; most tavernas and smaller hotels close by late October. The village is largely shut from November to April.

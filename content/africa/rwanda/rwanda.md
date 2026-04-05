@@ -3,6 +3,10 @@ title: "Rwanda"
 type: location
 latitude: -1.9403
 longitude: 29.8739
+image: rwanda.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Seven_Volcanoes_-_Musanze,_Rwanda_(cropped).jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/84985982@N00">Andrew Moore</a> from Johannesburg, South Africa'
 ---
 
 Rwanda is a small, landlocked country in East-Central Africa — roughly the size of Maryland — yet it packs in an extraordinary variety of landscapes. The "Land of a Thousand Hills" is exactly that: a country of steep green ridges, tea plantations, volcanic peaks, and deep crater lakes. Dense rainforest in the southwest gives way to open savanna in the east. It is one of the most densely populated countries in Africa.

@@ -1,30 +1,13 @@
 ---
-title: "W. C. Handy Home, Museum & Library"
+title: 'W. C. Handy Home, Museum & Library'
 type: poi
-address: "620 West College Street, Florence, Al  35630"
-email: "bbroach@florenceal.org"
-opening_hours: "10am-4pm Tues. - Sat."
-phone: "(256) 760-6379"
-url: "www.florenceal.org"
+address: '620 West College Street, Florence, AL 35630'
+phone: '(256) 760-6379'
+opening_hours: '10am-4pm Tues.-Sat.'
 latitude: 34.795826
 longitude: -87.685108
 ---
 
-This restored log cabin was the boyhood home of the famous composer known as the "Father of the Blues." The museum houses a lifetime of memorabilia including his trumpet and the piano on which many of his songs were written, such as "St. Louis Blues" and "Memphis Blues." The museum provides scheduled care for the artifacts associated with the Handy family and William Christopher Handy; and it provides exhibits, educational programs, and research activities about Mr. Handy's life. The museum plays an important part in the annual W.C. Handy Music Festival. It also hosts a birthday celebration for W.C. Handy during November.
+This restored log cabin was the boyhood home of W.C. Handy, the composer known as the "Father of the Blues." The museum houses a lifetime of memorabilia including his trumpet and the piano on which he composed "St. Louis Blues" and "Memphis Blues." The collection includes original manuscripts, personal belongings, and materials documenting Handy's life and influence on American music.
 
-**Contributors**
-October 13, 2005
-
-
-
-
-
-tel: (256) 760-6379
-
-openingHours: 10am-4pm Tues. - Sat.
-
-url: [www.florenceal.org](http://www.florenceal.org/cultural/artsandmuseums.html)
-
-address: 620 West College Street, Florence, Al 35630
-
-email: bbroach@florenceal.org
+The museum plays an important part in the annual W.C. Handy Music Festival each July and hosts a birthday celebration for Handy in November.

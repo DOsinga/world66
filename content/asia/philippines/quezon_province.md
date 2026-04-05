@@ -1,12 +1,10 @@
 ---
 title: "Quezon Province"
 type: location
-latitude: 6.539209
-longitude: 124.963126
+latitude: 14.0313
+longitude: 122.1108
 ---
 
-Travel Guide
+Quezon Province is a long, narrow, mostly rural province on the south-east side of Luzon, Philippines' main island, named after **Manuel L. Quezon**, the country's second president and a native of the area. It stretches for over 200 km along the **Sierra Madre** mountain range and the coasts of Lamon and Tayabas Bays, with the Pacific on one side and the Sibuyan Sea on the other. The interior is dominated by rugged jungle-covered mountains and extinct volcanoes — most famously **Mount Banahaw** (2,170 m), a sacred mountain whose slopes are dotted with hermitages, healing springs, and small religious communities.
 
-Quezon is the largest province in Southern Tagalog, ranks sixth biggest in the Philippines in terms of land area which totals 8,728.25 square kilometers.Quezon's West side is tightly clasped by the Provinces of Aurora, Nueva Ecija, Bulacan, Rizal, Laguna, and Batangas while Camarines Sur embraces its Southeast border. In 1995, its population of 1,537,744 came from the 40 municipalities and one city. Provincial territory spans through the Islands of Polillo, Patnanungan, Jomalig, Pagbilao Chica, Pagbilao Grande, Alabat and several unnamed islets.The province topography is generally characterized by rugged terrain. The Sierra Madre Range runs along the entire length of the province, with Mount Banahaw, an extinct volcano rising at 7,382 feet above sea level, as its most prominent peak. The province is indented by a number of bays which serve as fertile fishing grounds, among them, Lamon, Tayabas, and Ragay Gulf.
-
-The province has one City and 40 Municipalities (Agdangan, Alabat, Perez, Atimonan, Buenavista, Burdeos, Calauag, Catanauan, Candelaria, Dolores, Infanta, Jomalig, Guinayangan, General Luna, Gumaca, General Nakar, Lopez, LUCENA CITY, Lucban, Macalelon, Mulanay, Mauban, Pagbilao, Padre Burgos, Panukulan, Patnanungan, Polillo, Plaridel, Pitogo, Quezon, Real, San Andres, San Francisco, San Narciso, San Antonio, Sariaya, Tagkawayan, Tayabas, Tiaong, and Unisan).
+Most visitors to Quezon come for one of three things: beaches, mountains, or the **Pahiyas Festival**. The beaches are scattered along the long coastline — **Borawan Island** off Padre Burgos is sometimes called the "poor man's Boracay", and the **Polillo Islands** (Polillo, Patnanungan, Jomalig) in the Pacific to the north-east are remote and largely unvisited, with white-sand beaches and good surf. For mountain walking, Banahaw and **Mount Cristobal** (also known as "Devil's Mountain") are the main targets; both require permits and local guides. And the **Pahiyas Festival** in **Lucban**, held every 15 May in honour of San Isidro, is one of the most photogenic events in the Philippines — every house in the town decorates its facade with hundreds of kilos of dyed rice wafers (*kiping*) in elaborate patterns. **Lucena City** is the provincial capital and the main transport hub.

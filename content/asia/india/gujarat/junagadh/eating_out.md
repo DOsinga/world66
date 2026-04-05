@@ -1,41 +1,10 @@
 ---
-title: "Eating Out in Junagadh"
+title: 'Eating Out'
 type: section
-address: "Chitta Khana Chowk, Junagadh - Gujarat - India."
-phone: "+91 285 2620302"
-type: "First Class"
-url: "www.reliefhotel.com"
-latitude: 21.522462
-longitude: 70.460207
 ---
 
-Garden cafe open air restaurant, serve south indian and punjabi dishes . time evening only 6.30 to 10.30. wednesday closed. Address:- Dulbi road, near girnar darwaja junagadh. ph. 0285-2623565.
+**Garden Cafe** is a popular open-air restaurant near Girnar Darwaja serving South Indian and Punjabi dishes. Open evenings only, 6:30 to 10:30, closed Wednesday. Dulbi Road, near Girnar Darwaja. Phone: 0285-2623565.
 
-**Contributors**
-June 06, 2006
+**Relief Restaurant** at Chitta Khana Chowk serves vegetarian, non-vegetarian, and Chinese food. Phone: +91 285 2620302.
 
-July 30, 2006
-
-### [Relief Restaurant](/asia/india/gujarat/junagadh/eating_out/relief_restaurant)
-
-For Veg, Non –Veg, Chinese Food.
-
-type: First Class
-
-
-
-tel: +91 285 2620302
-
-url: [www.reliefhotel.com](http://www.reliefhotel.com/relief_restaurant.htm)
-
-address: Chitta Khana Chowk, Junagadh - Gujarat - India.
-
-### [Hotel Indralok](/asia/india/gujarat/junagadh/eating_out/hotel_indralok)
-
-it is one of the best hotel in junagadh its food side in as best as its name 'RAJBHOG'
-
-type: African
-
-
-
-address: near majevadi gate, on way to rail way station,junagadh
+**Hotel Indralok** near Majevadi Gate, on the way to the railway station, is another well-regarded option with its Rajbhog restaurant.

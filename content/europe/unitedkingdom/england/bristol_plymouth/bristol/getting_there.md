@@ -1,14 +1,8 @@
 ---
-title: "Getting There"
+title: 'Getting There'
 type: section
 ---
 
-**all**
+**By plane** -- Bristol Airport is just to the south of the city, with connections to domestic and European destinations.
 
-**By plane**
-
-The airport is just to the south of Bristol. There is also access to Bath, Wales and the south west of England.   
-
-**By train**
-
-Bristol is served by two main-line train stations; Temple Meads for the city centre and Bristol Parkway for the North of the City. Services between both stations and London are frequent.
+**By train** -- Bristol is served by two main-line stations: Temple Meads for the city centre and Bristol Parkway for the north of the city. Services to London Paddington are frequent and take under two hours.

@@ -1,6 +1,10 @@
 ---
 title: "Antarctica"
 type: location
+image: antarctica.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Lemaire_Channel,_Antarctica.jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/59222181@N03">Liam Quinn</a> from Canada'
 ---
 
 Antarctica is the coldest, driest, windiest, and highest continent on earth. Almost the entire landmass lies buried under ice up to four kilometres thick. It has no permanent human population, no cities, no roads, and no government. What it has, in overwhelming abundance, is wildness.

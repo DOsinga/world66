@@ -1,13 +1,9 @@
 ---
-title: "Shopping in Frankfurt"
+title: 'Shopping'
 type: section
 ---
 
-Frankfurt is an effervescent city and has a lot to offer to business
-and leisure travelers alike, especially the different **Frankfurt
-Shopping** hot spots--all of which offer everything a shopper
-would want, like handicrafts, designer merchandise, jewelry, perfume
-and a lot more.
+Frankfurt has a lot to offer shoppers, from designer boutiques to large shopping centres, with handicrafts, jewelry, perfume and much more.
 
 **Goethestraße**
 
@@ -58,5 +54,3 @@ lot more. You can also buy fashionable jewelry, eyewear, underwear,
 watches, accessories, men’s clothing, bags and shoes all under 1 roof
 here in Werth and Werth.
 
-**Contributors**
-March 31, 2010

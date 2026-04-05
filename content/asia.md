@@ -1,6 +1,10 @@
 ---
 title: "Asia"
 type: location
+image: asia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Mount_Fuji_at_sunset,_March_2025.jpg"
+image_license: "CC0"
+image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/24046097@N00">Romain Guy</a> from San Francisco, USA'
 ---
 
 Asia is home to more than half of humanity, and traveling here makes that fact feel utterly real. Cities press in from all sides. Temples materialize in the middle of rice paddies. Food arrives in forms you have never imagined. No other continent offers such a range of experiences packed so densely together.

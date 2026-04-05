@@ -1,14 +1,8 @@
 ---
 title: "Persian Palate"
 type: poi
-type: "Indian and Pakistani"
-latitude: 10.311058
-longitude: 123.895609
+latitude: 9.3052
+longitude: 123.3012
 ---
 
-Serves authentic Indian & Persian food like kababs, hummus, curries, and the likes. Prices are affordable, place has good ambiance, food is superb! Serving time is about 20min. It's right on the side of La Residencia Almar (see related entry under Accomodation).
-
-**Contributors**
-May 08, 2006
-
-type: Indian and Pakistani
+A small restaurant serving Indian and Persian dishes — kebabs, hummus, curries — at affordable prices. Good food and a calm atmosphere. Located beside La Residencia Al-Mar along the Boulevard.

@@ -1,22 +1,9 @@
 ---
-title: "Eating Out in Ithaca (Tompkins County)"
+title: "Eating Out"
 type: section
-address: "700 Cascadilla Street"
-phone: "(607) 272-1545"
-price: "$2-$5"
-type: "Cheap"
-url: "www.purityicecream.com"
-latitude: 42.444464
-longitude: -76.509301
 ---
 
-Like many other cities of the world, Ithaca is home to a diverse collection of restaurants sure to please nearly every palate.
-
-The Downtown Ithaca Commons is bustling with a selection of restaurants and taverns.
-
-Most city and rural buses terminate near the commons. Check with bus schedules to confirm last trip times so you are not stuck there!
-
-In addition, Collegetown (Cornell Campus) has the second largest selection of restaurants in a common area.
+Ithaca punches above its weight for food. The Ithaca Commons downtown has the densest cluster of restaurants and cafes, while Collegetown near Cornell is more casual and student-oriented. Local and organic food is taken seriously here — several restaurants source directly from Finger Lakes farms.
 
 ### [Purity Ice Cream](/northamerica/unitedstates/newyorkstate/ithaca_tompkins_c/eating_out/purity_ice_cream)
 

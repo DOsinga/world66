@@ -1,15 +1,9 @@
 ---
-title: "Shopping in Ithaca (Tompkins County)"
+title: "Shopping"
 type: section
-address: "North Triphammer Road (north of Ithaca), near NYS 13"
-phone: "607-257-5338"
-type: "Shopping centers and malls"
-url: "www.pyramidithaca.com"
 ---
 
-Ithaca Commons, in the center of Downtown Ithaca is likely one of the first boutique areas to visit.
-
-In addition, Collegetown (near Cornell University) also offers some interesting boutiques to visit.
+The Ithaca Commons downtown has independent boutiques and local shops. Collegetown near Cornell adds more options, mostly student-oriented. Pyramid Mall on North Triphammer Road is the main suburban mall, with Sears, Bon Ton, and Target as anchors.
 
 ### [Pyramid Mall](/northamerica/unitedstates/newyorkstate/ithaca_tompkins_c/shopping/pyramid_mall)
 

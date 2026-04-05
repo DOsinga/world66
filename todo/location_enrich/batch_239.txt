@@ -1,8 +1,0 @@
-northamerica/costarica/tibas
-northamerica/unitedstates/illinois/mokea
-europe/bosniaandherzegovina/vares
-europe/bosniaandherzegovina/bihac
-europe/germany/bavaria/feuch
-africa/congobrazzaville/nkayi
-africa/centralafricanrepublic/boali
-northamerica/trinidadandtobago/debe

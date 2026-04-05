@@ -1,5 +1,5 @@
 ---
-title: "Daytrips"
+title: "Day Trips"
 type: section
 ---
 

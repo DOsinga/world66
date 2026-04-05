@@ -1,8 +1,10 @@
 ---
-title: "Da Nang"
+title: Da Nang
 type: location
 latitude: 16.068
 longitude: 108.212
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Da Nang** is the largest city on Vietnam's central coast and, increasingly, one of the most interesting places in the country. It sits roughly halfway between Hanoi and Ho Chi Minh City, on a broad crescent of bay where the Han River meets the South China Sea, backed by the forested bulk of the **Marble Mountains**. For most of the 20th century it was known to Western travellers only as the large American airbase during the Vietnam War — the first US Marines waded ashore at **China Beach** just south of the city in March 1965, and Da Nang's airport handled more flights than any other in the world during the war years. In the 21st century the city has reinvented itself as one of Vietnam's most prosperous and best-planned urban centres, with a string of new luxury resorts along the beach and a reputation as the easiest big Vietnamese city to live in.

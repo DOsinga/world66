@@ -1,8 +1,10 @@
 ---
-title: "Marche"
+title: Marche
 type: location
 latitude: 43.345839
 longitude: 13.141587
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Le Marche** — "the Marches" in English, the only Italian region whose name is properly plural — is a quiet, rolling region on the Adriatic side of central Italy, bordered by Umbria to the west, Emilia-Romagna to the north, and Abruzzo to the south. It is roughly the shape of Tuscany flipped onto its opposite coast, and shares much of Tuscany's gentle landscape of hill towns, vineyards, and dense medieval history — without any of the crowds. Almost none of the international tourism that swamps Florence, Siena, and Venice in summer reaches this side of the Apennines, which is both the region's great disadvantage (the trains are slower, the English-language information is thinner) and the main reason to visit.

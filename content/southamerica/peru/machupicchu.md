@@ -1,8 +1,10 @@
 ---
-title: "Machu Picchu"
+title: Machu Picchu
 type: location
 latitude: -13.164341
 longitude: -72.545009
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Machu Picchu** 

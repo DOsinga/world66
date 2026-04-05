@@ -1,12 +1,14 @@
 ---
-title: "New Zealand"
+title: New Zealand
 type: location
 latitude: -41.500083
 longitude: 172.834408
 image: newzealand.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg"
-image_license: "Public domain"
-image_attribution: "User: (WT-shared) Plug at  wts wikivoyage"
+image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_02.jpg
+image_license: Public domain
+image_attribution: 'User: (WT-shared) Plug at  wts wikivoyage'
+done:
+  country_cleanup: 2026-03-30
 ---
 
 New Zealand is remote by any measure — a two-island nation in the South Pacific, about 2,000km southeast of Australia. The North Island and South Island together cover roughly 268,000 sq km, home to around 5 million people. That ratio of space to population is part of the point: the landscape is extraordinary and the crowds are manageable.

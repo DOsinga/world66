@@ -1,12 +1,14 @@
 ---
-title: "Amersfoort"
+title: Amersfoort
 type: location
 latitude: 52.16377
 longitude: 5.408885
 image: amersfoort.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg"
-image_license: "CC BY 4.0"
-image_attribution: "acediscovery"
+image_source: https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg
+image_license: CC BY 4.0
+image_attribution: acediscovery
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Amersfoort is one of the Netherlands' best-kept secrets — a proper medieval city half an hour by train from [Amsterdam](/europe/netherlands/amsterdam) and just ten minutes from [Utrecht](/europe/netherlands/utrecht), yet largely ignored by tourists. Their loss.

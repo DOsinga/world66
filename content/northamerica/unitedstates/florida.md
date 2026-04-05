@@ -1,8 +1,10 @@
 ---
-title: "Florida"
+title: Florida
 type: location
 latitude: 27.756767
 longitude: -81.463983
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Florida is a place people come to reinvent themselves — or simply to escape winter. It has built its entire identity around tourism and does not pretend otherwise. More than 60 million visitors a year flood the state, yet it still manages to surprise: pull off the interstate into the scrub pines of the Panhandle, or paddle a flat-bottomed boat through the Everglades at dawn, and you'll find something altogether different from the theme-park version of Florida most people imagine.

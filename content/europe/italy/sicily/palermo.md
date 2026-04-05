@@ -1,8 +1,10 @@
 ---
-title: 'Palermo'
+title: Palermo
 type: location
 latitude: 38.1113
 longitude: 13.3524
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Palermo is the capital of [Sicily](/europe/italy/sicily) and its largest city, set in a wide bay beneath the limestone bulk of Monte Pellegrino. It is fast, brash, and unlike anywhere else in Italy. The mix of Arab and Norman influences is one of the city's strangest and most rewarding surprises, visible in buildings from the 11th and 12th centuries that blend Islamic geometry with Christian iconography.

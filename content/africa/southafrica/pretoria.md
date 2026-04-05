@@ -1,8 +1,10 @@
 ---
-title: "Pretoria"
+title: Pretoria
 type: location
 latitude: -25.745928
 longitude: 28.18791
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Pretoria is the capital of South Africa. Located just a few kilomets north of [Johannesburg](/africa/southafrica/johannesburg) it is an attractive city - but it doen't have the big city atmosphere of Jo'burg. 

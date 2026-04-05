@@ -1,8 +1,10 @@
 ---
-title: "Olongapo City"
+title: Olongapo City
 type: location
 latitude: 14.8386
 longitude: 120.2842
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Olongapo is a city of around 260,000 people on the western coast of Luzon, best known as the gateway to Subic Bay Freeport — the former US Naval Base Subic Bay, which was one of the largest American overseas military installations in the world until its closure in 1992. The base has since been converted into a freeport and tourism zone, and most of the attractions visitors come to Olongapo for are technically within the Subic Bay Freeport Zone rather than the city itself.

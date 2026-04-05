@@ -1,8 +1,10 @@
 ---
-title: 'Hawaii'
+title: Hawaii
 type: location
 latitude: 19.593802
 longitude: -155.42837
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Hawaii is unlike anywhere else in the United States. A chain of volcanic islands in the middle of the Pacific Ocean, more than 2,000 miles from the nearest continent, it has developed a culture and landscape that feel like another country entirely. The spirit of aloha is real -- a warmth and openness that comes from centuries of Polynesian tradition blended with waves of immigration from Japan, China, the Philippines, Portugal, and the American mainland.

@@ -1,8 +1,10 @@
 ---
-title: "West Bengal"
+title: West Bengal
 type: location
 latitude: 22.9868
 longitude: 87.855
+done:
+  location_cleanup: 2026-04-05
 ---
 
 *Asia > India > West Bengal*

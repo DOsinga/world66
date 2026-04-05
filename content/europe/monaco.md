@@ -1,12 +1,14 @@
 ---
-title: "Monaco"
+title: Monaco
 type: location
 latitude: 43.732349
 longitude: 7.427683
 image: monaco.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Monaco_at_dusk.jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: "JP Miss"
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Monaco_at_dusk.jpg
+image_license: CC BY-SA 2.0
+image_attribution: JP Miss
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Monaco is one of the world's smallest countries — 2.1 square kilometres wedged between France and the sea — and one of the most densely packed with wealth. The glittering yachts, the casino, the Grand Prix circuit threading through city streets: it's a place where ostentation has been elevated to an art form. But it's also genuinely worth visiting, even if you're not a billionaire.

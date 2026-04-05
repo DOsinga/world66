@@ -1,8 +1,10 @@
 ---
-title: "Kathmandu"
+title: Kathmandu
 type: location
 latitude: 27.708317
 longitude: 85.320582
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Travel Guide

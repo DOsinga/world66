@@ -1,8 +1,10 @@
 ---
-title: "Abu Dhabi"
+title: Abu Dhabi
 type: location
 latitude: 24.4539
 longitude: 54.3773
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Abu Dhabi is the capital of the United Arab Emirates and the seat of its federal government. It sits on a T-shaped island jutting into the Persian Gulf, connected to the mainland by three bridges. First settled in the 18th century by the Bani Yas tribe, who found fresh water there — Abu Dhabi translates roughly as "land of the gazelle" — the city has transformed beyond recognition since oil was discovered in 1958.

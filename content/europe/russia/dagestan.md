@@ -1,8 +1,10 @@
 ---
-title: "Dagestan"
+title: Dagestan
 type: location
 latitude: 43.0
 longitude: 47.0
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Dagestan is a republic of the Russian Federation on the western shore of the **Caspian Sea**, at the eastern end of the Caucasus range. It is roughly the size of Scotland and home to around three million people, but those people belong to more than thirty distinct ethnic groups — **Avars**, **Dargins**, **Kumyks**, **Lezgins**, **Laks**, **Tabasarans** and many others — each with its own language. Dagestan is, by several measures, the most linguistically diverse place in Europe, and the name itself means "Land of Mountains" in Turkic.

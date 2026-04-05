@@ -1,12 +1,14 @@
 ---
-title: "United States"
+title: United States
 type: location
 latitude: 39.78373
 longitude: -100.445882
 image: unitedstates.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:USA-NYC-Statue_of_Liberty.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Ingfbruno" title="User:Ingfbruno">Ingfbruno</a>'
+image_source: https://commons.wikimedia.org/wiki/File:USA-NYC-Statue_of_Liberty.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ingfbruno" title="User:Ingfbruno">Ingfbruno</a>
+done:
+  country_cleanup: 2026-03-29
 ---
 
 The land of the brave and the free, that's the States and it's certainly true for traveling. The USA offers a unique combination of bigger than big cities with their fast paced life and great outdoor opportunities.

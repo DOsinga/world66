@@ -1,8 +1,10 @@
 ---
-title: "Manchester"
+title: Manchester
 type: location
 latitude: 53.4808
 longitude: -2.2426
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Manchester is a city that keeps reinventing itself. From the engine room of the Industrial Revolution to the birthplace of Britpop, it has always punched above its weight. The IRA bomb of 1996 flattened the city centre; Manchester rebuilt it bigger and better, then did the same again for the 2002 Commonwealth Games. The result is a confident, compact city with world-class museums, a famous music scene, and some of the best eating in northern England.

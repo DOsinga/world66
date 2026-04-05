@@ -1,8 +1,10 @@
 ---
-title: "Berchtesgaden"
+title: Berchtesgaden
 type: location
 latitude: 47.633022
 longitude: 13.002005
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Berchtesgaden** is a market town of about 8,000 people in the far south-eastern corner of **Bavaria**, 150 km south-east of Munich and surrounded by the snow-capped peaks of the **Berchtesgaden Alps**. It sits in one of the most dramatically beautiful valleys in Germany — a cul-de-sac of the Alps almost entirely surrounded by Austrian territory, and protected since 1978 as **Berchtesgaden National Park**, the only Alpine national park in Germany. The landscape is what brings almost everyone here: the jade-green waters of **Königssee**, the 1,874-metre **Watzmann** (Germany's third-highest peak, a colossal double-summited mountain that dominates the valley), and the cable-car-accessed **Jenner** and **Kehlstein** viewpoints.

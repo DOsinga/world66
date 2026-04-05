@@ -1,8 +1,10 @@
 ---
-title: "Elba"
+title: Elba
 type: location
 latitude: 42.790238
 longitude: 10.340224
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Elba is the largest and best-known of the seven islands of the Tuscan Archipelago — a granite-and-schist mountain poking out of the Tyrrhenian Sea roughly halfway between the Italian mainland and Corsica. It is a short ferry from Piombino (about an hour) and feels like a world away from mainland Tuscany: over 150 km of coastline, more than fifty beaches, pine forests climbing the slopes of **Monte Capanne** (1,019 m), and a long history of mining that made it rich long before it became a summer resort.

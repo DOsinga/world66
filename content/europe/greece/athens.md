@@ -1,8 +1,10 @@
 ---
-title: "Athens"
+title: Athens
 type: location
 latitude: 37.975565
 longitude: 23.734832
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Athens is one of the oldest continuously inhabited cities in the world — people have lived here for at least 7,000 years, and for 2,500 of them the city has been important. It is also one of Europe's most confusing capitals: a sprawling, hot, noisy metropolis of over 3 million people, blanketed by low concrete apartment blocks, crossed by chaotic traffic, and centred on a small rocky hill that happens to hold the most important set of ruins in the western world. First-time visitors often hate it at first sight and then find themselves captivated by the time they leave. It rewards patience.

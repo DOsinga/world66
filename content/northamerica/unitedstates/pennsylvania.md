@@ -1,8 +1,10 @@
 ---
-title: 'Pennsylvania'
+title: Pennsylvania
 type: location
 latitude: 40.969989
 longitude: -77.727883
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Pennsylvania punches well above its weight in American history. The Declaration of Independence and the Constitution were both signed in [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia), which served as the nation's first capital. The Battle of Gettysburg turned the tide of the Civil War. And the state's nickname, the Keystone State, reflects its central role among the original thirteen colonies.

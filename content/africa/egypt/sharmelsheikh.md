@@ -1,8 +1,10 @@
 ---
-title: "Sharm el-Sheikh"
+title: Sharm el-Sheikh
 type: location
 latitude: 27.864442
 longitude: 34.295447
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Sharm el-Sheikh sits at the southern tip of the Sinai Peninsula where the Red Sea splits into the Gulf of Aqaba and the Gulf of Suez. For divers it is one of the great destinations on earth — the coral reefs of Ras Mohammed National Park, the Strait of Tiran, and the Aqaba coast rank among the world's finest, with over 200 species of coral and more than a thousand species of fish in clear, warm water. But Sharm has long since outgrown its diving-only identity. Today it is a full-scale resort city, and most visitors come simply to lie on the beach, eat well, and enjoy the reliably sunny weather.

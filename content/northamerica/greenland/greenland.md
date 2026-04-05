@@ -1,12 +1,14 @@
 ---
-title: "Greenland"
+title: Greenland
 type: location
 latitude: 72.0
 longitude: -40.0
 image: greenland.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Qaanaaq,_Greenland.jpg"
-image_license: "Public domain"
-image_attribution: "Col. Lee-Volker Cox"
+image_source: https://commons.wikimedia.org/wiki/File:Qaanaaq,_Greenland.jpg
+image_license: Public domain
+image_attribution: Col. Lee-Volker Cox
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Greenland is the world's largest island — 836,000 square miles of ice cap, fjords, and tundra, with a coastline longer than the earth's circumference. About 80% of the island is covered by a permanent ice sheet. The roughly 56,000 people who live here are concentrated along the southwest coast, in small towns connected not by roads but by air and sea.

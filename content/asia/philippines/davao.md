@@ -1,8 +1,10 @@
 ---
-title: "Davao"
+title: Davao
 type: location
 latitude: 7.064831
 longitude: 125.608062
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Davao City is located deep in the heart of the Philippines' exotic south, in the southeastern portion of [Mindanao Island](/asia/philippines/mindanaoisland). It is a highly urbanized city that serves as the major economic, financial, and educational centre of the entire island. The city which falls nominally under the province of Davao del Sur Province, is bounded on the north by Davao and Compostela Valley provinces, on the east by Davao Gulf, on the south by Davao del Sur, and on the west by North Cotabato province.

@@ -1,8 +1,10 @@
 ---
-title: "Masbate"
+title: Masbate
 type: location
 latitude: 12.166667
 longitude: 123.583333
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Masbate** is one of the least-visited provinces in the Philippines — an island group in the Bicol region, at the centre of the Philippine archipelago, made up of three main islands (Masbate itself, **Ticao**, and **Burias**) and a number of smaller islets. It is the country's cattle-ranching capital, a quiet, sparsely populated place of rolling pastures and long empty beaches, and a place most Filipino travellers know about but hardly anyone actually goes to. That, of course, is the main reason to visit.

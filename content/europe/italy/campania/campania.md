@@ -1,8 +1,10 @@
 ---
-title: "Campania"
+title: Campania
 type: location
 latitude: 40.839565
 longitude: 14.252243
+done:
+  location_cleanup: 2026-04-05
 ---
 
 *Europe > Italy > Campania*

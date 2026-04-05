@@ -1,8 +1,10 @@
 ---
-title: "Paris"
+title: Paris
 type: location
 latitude: 48.8566
 longitude: 2.3522
+done:
+  location_cleanup: 2026-04-05
 ---
 
 *Europe > France > Paris*

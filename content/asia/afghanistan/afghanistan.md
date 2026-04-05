@@ -1,12 +1,14 @@
 ---
-title: "Afghanistan"
+title: Afghanistan
 type: location
 latitude: 33.9391
-longitude: 67.7100
+longitude: 67.71
 image: afghanistan.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:View_of_Herat_in_2009.jpg"
-image_license: "Public domain"
-image_attribution: "Employee of the U.S. State Department"
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Herat_in_2009.jpg
+image_license: Public domain
+image_attribution: Employee of the U.S. State Department
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Afghanistan is one of the most beautiful and least accessible countries on earth. The Hindu Kush mountains cut through its heart, rising above 7,000 meters. The landscape ranges from high alpine valleys to scorching deserts, and the history runs deeper than almost anywhere in Central Asia. Alexander the Great marched through here. The Silk Road crossed it. Genghis Khan destroyed its greatest cities, and they were rebuilt, and destroyed again.

@@ -1,8 +1,10 @@
 ---
-title: "Columbus"
+title: Columbus
 type: location
 latitude: 39.96226
 longitude: -83.000707
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Columbus is the capital and largest city of Ohio, a mid-size Midwestern metropolis of around 900,000 people (about 2.2 million in the metropolitan area) on the Scioto River in the centre of the state. For most of its history it was an unremarkable state-capital and rail junction town, but since the 1990s Columbus has been one of the fastest-growing major cities in the United States — driven by **Ohio State University** (one of the largest single-campus universities in the country, with over 60,000 students), a cluster of Fortune 500 companies in banking and insurance, and a young, diverse population that has given the city an unexpectedly lively food and arts scene. It is not a tourist destination, and most travellers will only spend time here as part of a longer road trip through the Midwest — but it is a reliably pleasant, surprisingly cosmopolitan stopover.

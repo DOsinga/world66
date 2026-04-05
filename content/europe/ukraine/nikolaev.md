@@ -1,8 +1,10 @@
 ---
-title: "Mykolaiv"
+title: Mykolaiv
 type: location
 latitude: 46.975862
 longitude: 31.993967
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Mykolaiv** (still widely known by its Russian name **Nikolaev**) is a city of around 480,000 people in southern Ukraine, on the **Southern Bug** river about 65 km inland from the Black Sea coast. Founded in 1789 as a Russian naval shipyard by Prince Grigory Potemkin on the orders of Catherine the Great, it grew throughout the 19th and 20th centuries as one of the most important shipbuilding cities of the Russian and then Soviet empires — the Ukrainian aircraft carriers of the Soviet navy (and most of the modern Chinese ones) were built here. The city is named after **Saint Nicholas**, the patron saint of sailors.

@@ -1,8 +1,10 @@
 ---
-title: "Krabi"
+title: Krabi
 type: location
 latitude: 8.111165
 longitude: 99.10973
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Krabi is a province on the Andaman coast of southern Thailand, roughly opposite Phuket across the bay, where limestone karsts rise straight out of the sea and a scattering of beaches, islands and mangrove estuaries make up some of the most photographed landscapes in South-east Asia. The name refers to a whole province — the small provincial capital, **Krabi Town**, is unremarkable — but in traveller's shorthand "Krabi" almost always means the beach resorts and islands strung along the coast nearby.

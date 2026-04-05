@@ -1,8 +1,10 @@
 ---
-title: "Andhra Pradesh"
+title: Andhra Pradesh
 type: location
 latitude: 15.9129
-longitude: 79.7400
+longitude: 79.74
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Andhra Pradesh is the rice bowl of peninsular India, a vast state irrigated by the Krishna and Godavari rivers, where the dry Deccan plateau in the northwest gives way to a long, fertile coastal plain. Most travellers pass through without slowing down — which is their loss. The state has real depth: medieval fort towns, one of the world's great Buddhist archaeological sites at Nagarjunakonda, and the extraordinary temple complex at Tirumala, which draws more pilgrims annually than almost any site on earth.

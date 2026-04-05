@@ -1,8 +1,10 @@
 ---
-title: 'Rome'
+title: Rome
 type: location
 latitude: 41.9028
 longitude: 12.4964
+done:
+  location_cleanup: 2026-04-04
 ---
 
 The Eternal City needs no introduction, yet it still manages to surprise. Rome layers nearly three thousand years of history into a living, breathing capital where ancient ruins sit beside buzzing trattorias and Renaissance churches share streets with vintage clothing shops. It is chaotic, beautiful, maddening, and utterly addictive.

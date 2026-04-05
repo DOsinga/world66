@@ -1,12 +1,15 @@
 ---
-title: "Midway Islands"
+title: Midway Islands
 type: location
 latitude: 28.2072
 longitude: -177.3735
 image: midwayislands.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Starr_080531-4690_Eragrostis_variabilis.jpg"
-image_license: "CC BY 3.0"
-image_attribution: '<a rel="nofollow" class="external text" href="http://www.hear.org/starr/">Forest &amp; Kim Starr</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Starr_080531-4690_Eragrostis_variabilis.jpg
+image_license: CC BY 3.0
+image_attribution: <a rel="nofollow" class="external text" href="http://www.hear.org/starr/">Forest
+  &amp; Kim Starr</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Midway Atoll is a small American territory in the north-central Pacific, roughly 1,300 miles northwest of Honolulu. It sits near the far end of the Hawaiian archipelago and consists of three low-lying coral islands — Sand Island, Eastern Island, and Spit Island — surrounded by about 580,000 acres of reef and lagoon. The Hawaiian name for the atoll is Pihemanu, meaning "the loud din of birds," which tells you almost everything you need to know about the place.

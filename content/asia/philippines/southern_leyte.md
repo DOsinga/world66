@@ -1,8 +1,10 @@
 ---
-title: "Southern Leyte"
+title: Southern Leyte
 type: location
 latitude: 10.34751
 longitude: 125.12509
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Southern Leyte is a quiet island province in the central Philippines, occupying the southern tip of Leyte island and a scattering of smaller islands in the Bohol Sea. Most travellers pass straight through on the way between Cebu and Mindanao, but for those who stop, the province offers some of the finest underdeveloped diving and whale-shark encounters in the country, along with a strange historical footnote: it was here, on the tiny island of **Limasawa** off the south-west coast, that **the first Catholic mass in the Philippines** was celebrated on **31 March 1521**, during Ferdinand Magellan's expedition. A cross and a small chapel mark the spot and the island remains an active Catholic pilgrimage site on Easter weekend.

@@ -1,8 +1,10 @@
 ---
-title: "Music Row"
+title: Music Row
 type: location
 latitude: 36.148
 longitude: -86.792
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Music Row is the historic heart of the American country music industry — a compact grid of streets running along 16th and 17th Avenues South in Nashville, just south-west of downtown. Almost every major country record label has had offices here at some point, and much of the music you associate with Nashville was written in the low-rise bungalows and publishing houses that line these streets. The RCA **Studio B** on Music Square West — where Elvis, Dolly Parton, Roy Orbison, the Everly Brothers and hundreds of others recorded — is now run as a museum and can be toured from the Country Music Hall of Fame downtown.

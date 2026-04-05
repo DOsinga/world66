@@ -1,8 +1,10 @@
 ---
-title: "Dubrovnik"
+title: Dubrovnik
 type: location
 latitude: 42.6507
 longitude: 18.0944
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

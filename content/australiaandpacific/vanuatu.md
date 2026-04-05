@@ -1,12 +1,14 @@
 ---
-title: "Vanuatu"
+title: Vanuatu
 type: location
 latitude: -16.525507
 longitude: 168.106915
 image: vanuatu.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Port_Vila_Harbour_(Imagicity_816).jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "Graham Crumb"
+image_source: https://commons.wikimedia.org/wiki/File:Port_Vila_Harbour_(Imagicity_816).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Graham Crumb
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Vanuatu is an archipelago of 83 islands strung across the South West Pacific, roughly midway between Australia and Fiji. It became independent in 1980 after nearly a century of joint British and French rule — an unusual arrangement called the New Hebrides Condominium that left the country with two official European languages, two separate education systems, and an abiding fondness for French bread and kava in equal measure.

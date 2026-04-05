@@ -1,12 +1,14 @@
 ---
-title: "Azerbaijan"
+title: Azerbaijan
 type: location
 latitude: 40.393629
 longitude: 47.787251
 image: azerbaijan.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Sheki_-_Bergdorf_Kish.JPG
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Azerbaijan is a small country on the Caspian Sea. Until 1991 it was part of the Soviet Union. It borders on [Armenia](/europe/armenia), [Georgia](/northamerica/unitedstates/georgia), [Russia](/europe/russia) and [Iran](/asia/iran), but culturally speaking it probably has the closest ties with Turkey. The Azeri language is a lot like an archaic form of Turkish. Iran has a large Azeri Community as well.

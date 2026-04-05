@@ -1,8 +1,10 @@
 ---
-title: "Brooklyn"
+title: Brooklyn
 type: location
 latitude: 40.6782
 longitude: -73.9442
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Brooklyn is the most populous of New York City's five boroughs — home to about 2.6 million people on the western end of Long Island, across the East River from Manhattan. If Brooklyn were an independent city, as it was until 1898, it would be the fourth-largest in the United States. For most of the 20th century it was famously blue-collar and immigrant — Jewish, Italian, Polish, Irish, African American, Puerto Rican, Caribbean — and the accent, the attitude and the food all reflected it. Since about 2000 the western waterfront neighbourhoods have been transformed by an extraordinary wave of gentrification, and **Williamsburg**, **DUMBO**, **Park Slope**, **Bushwick** and **Greenpoint** are now international bywords for creative-class urbanism. The rest of Brooklyn, further east and south, is still largely the working immigrant city it always was.

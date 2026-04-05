@@ -1,8 +1,10 @@
 ---
-title: "Zanzibar"
+title: Zanzibar
 type: location
 latitude: -6.099971
 longitude: 39.320954
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Zanzibar is an archipelago of coral islands off the coast of **Tanzania**, in the Indian Ocean about 35 km from the East African mainland. Officially a semi-autonomous part of Tanzania since 1964, it has its own president, flag, and a strong sense of being a separate place — which it has effectively been for most of its history. For centuries Zanzibar was the wealthiest and most cosmopolitan city state on the East African coast, built on the trade in **cloves**, **ivory** and **slaves**. At its 19th-century height it was ruled by the Omani Sultans of Muscat, whose descendants ran the islands from the magnificent palace district of **Stone Town** until the 1964 revolution that overthrew them and killed thousands of Arab and Indian Zanzibaris.

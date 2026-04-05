@@ -1,8 +1,10 @@
 ---
-title: "Bremen"
+title: Bremen
 type: location
 latitude: 53.07582
 longitude: 8.807165
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Bremen is one of Germany’s oldest Hanseatic cities, set on the Weser River about 60 km from the North Sea. The Altstadt survived the Second World War better than many comparable German cities, and the area around the Marktplatz — with the Renaissance Rathaus, the Gothic Dom, and the Roland statue — is arguably the finest medieval market square in northern Germany. Both the Rathaus and Roland are UNESCO World Heritage Sites.

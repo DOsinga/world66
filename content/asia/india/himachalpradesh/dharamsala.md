@@ -1,8 +1,10 @@
 ---
-title: "Dharamsala"
+title: Dharamsala
 type: location
 latitude: 32.214304
 longitude: 76.319672
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Dharamsala is a hill town in the **Kangra Valley** of Himachal Pradesh, stretched up the forested slopes of the **Dhauladhar** range at elevations between around 1,250 and 1,800 metres. Before 1960 it was a sleepy British-era cantonment and tea-growing district headquarters; since the **Dalai Lama** and some 80,000 Tibetan refugees settled here after fleeing the 1959 uprising in Lhasa, it has become one of the most important centres of Tibetan Buddhism outside Tibet itself — and one of the most unusual small towns in India.

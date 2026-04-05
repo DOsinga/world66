@@ -1,8 +1,10 @@
 ---
-title: "Lake Toba"
+title: Lake Toba
 type: location
 latitude: 2.610838
 longitude: 98.902308
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Lake Toba is the largest volcanic lake in the world, formed by a supervolcanic eruption roughly 74,000 years ago that left a caldera 100 kilometres long and 30 kilometres wide. The lake sits at 900 metres above sea level in the highlands of North Sumatra, giving it a cool, pleasant climate that makes it a welcome escape from the heat of Medan, less than 200 km away. Rising from the lake's centre is Samosir Island, a landmass roughly the size of Singapore that functions almost as a world within a world.

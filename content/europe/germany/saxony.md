@@ -1,8 +1,10 @@
 ---
-title: "Saxony"
+title: Saxony
 type: location
 latitude: 50.9296
 longitude: 13.4585
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Saxony (Sachsen) is the southeastern corner of Germany, bordered by Poland to the east and the Czech Republic to the south. It was once one of the most powerful kingdoms in Europe, and the remnants of that wealth are everywhere: in the Baroque splendour of [Dresden](/europe/germany/saxony/dresden), in the porcelain factories of [Meissen](/europe/germany/saxony/meissen), in the Gothic cathedrals of [Bautzen](/europe/germany/saxony/bautzen), and in the landscapes of the Erzgebirge mountains and the Sächsische Schweiz national park.

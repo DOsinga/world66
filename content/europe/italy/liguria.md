@@ -1,8 +1,10 @@
 ---
-title: "Liguria"
+title: Liguria
 type: location
 latitude: 44.477762
 longitude: 8.70263
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Liguria is a thin crescent of land pressed between the Apennine mountains and the Ligurian Sea — barely 100km from end to end, but packed with more variety than regions ten times its size. The Italian Riviera runs along the entire coast, but Liguria is not just coastline. The mountains rise steeply from the shore, hiding medieval villages, ancient pilgrimage routes, and a network of valleys that most tourists never reach.

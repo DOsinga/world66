@@ -1,12 +1,15 @@
 ---
-title: "Ivory Coast"
+title: Ivory Coast
 type: location
 latitude: 7.989737
 longitude: -5.567946
 image: ivorycoast.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Rond-point_Liberté_Adjamé.jpg"
-image_license: "CC BY 2.0"
-image_attribution: '<a rel="nofollow" class="external text" href="https://secure.flickr.com/people/willstephe/">Willy Stephane Awaho</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Rond-point_Liberté_Adjamé.jpg
+image_license: CC BY 2.0
+image_attribution: <a rel="nofollow" class="external text" href="https://secure.flickr.com/people/willstephe/">Willy
+  Stephane Awaho</a>
+done:
+  country_cleanup: 2026-03-31
 ---
 
 Côte d'Ivoire — usually called Ivory Coast in English — was for decades the economic powerhouse of Francophone West Africa. The cocoa and coffee boom of the 1960s and 70s built roads, hospitals, and a skyline in [Abidjan](/africa/ivorycoast/abidjan) that drew comparisons to Paris. That era ended badly — a period of coups, contested elections, and two civil wars consumed most of the 2000s and early 2010s. The country has since stabilised, and Abidjan in particular has bounced back as one of the most dynamic cities on the continent.

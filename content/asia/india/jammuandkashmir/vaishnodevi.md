@@ -1,8 +1,10 @@
 ---
-title: "Vaishno Devi"
+title: Vaishno Devi
 type: location
 latitude: 33.0305
 longitude: 74.9487
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Vaishno Devi** — more fully Mata Vaishno Devi — is one of the holiest Hindu pilgrimage sites in India, a shrine to the goddess dedicated in a cave at 1,585 metres on the slopes of the **Trikuta Mountains** in Jammu and Kashmir. It draws around **8–10 million pilgrims every year** — the second most-visited Hindu pilgrimage site in India after Tirupati — and on the busiest festival days the number of pilgrims climbing the mountain in a single day can exceed 30,000. For Indian Hindus, a visit here is a major life event; foreign travellers are rare.

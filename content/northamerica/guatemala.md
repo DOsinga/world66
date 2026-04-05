@@ -1,12 +1,14 @@
 ---
-title: "Guatemala"
+title: Guatemala
 type: location
 latitude: 15.7835
 longitude: -90.2308
 image: guatemala.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Tikal_Giaguaro.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: "Unknown"
+image_source: https://commons.wikimedia.org/wiki/File:Tikal_Giaguaro.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Unknown
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Guatemala is a small country — roughly the size of Tennessee — that packs in an astonishing range of landscapes, cultures, and history. There are 37 volcanoes, highland lakes of absurd beauty, lowland jungle containing some of the greatest Maya cities ever built, a Pacific coast of black volcanic sand, and a short stretch of Caribbean coast that feels like a different country entirely.

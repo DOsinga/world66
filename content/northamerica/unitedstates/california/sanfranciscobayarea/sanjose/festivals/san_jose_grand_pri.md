@@ -6,8 +6,8 @@ address: "downtown streets"
 date: "July 28 weekend"
 phone: "408-277-9470"
 url: "www.sanjosegrandprix.com"
-latitude: 39.963673
-longitude: -83.000408
+latitude: 37.333900
+longitude: -121.890700
 ---
 
 World class open-wheel racing returns

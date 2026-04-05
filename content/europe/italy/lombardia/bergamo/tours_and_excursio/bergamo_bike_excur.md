@@ -1,10 +1,11 @@
 ---
-title: "Bergamo bike excursions"
+title: "Bergamo Bike Excursions"
 type: poi
-address: "via G. Greppi 8, Bergamo"
-email: "info@prenditempo.com"
-phone: "tel. 340 0982887"
+address: "Via G. Greppi 8, Bergamo"
+phone: "340 0982887"
 url: "www.prenditempo.com"
+latitude: 45.698300
+longitude: 9.676500
 ---
 
 Prenditempo is a tour operator which proposes bike excursions in Bergamo area.

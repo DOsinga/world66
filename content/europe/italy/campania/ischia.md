@@ -5,12 +5,12 @@ latitude: 40.734205
 longitude: 13.947125
 ---
 
-Ischia is the largest and most populous island in the Bay of Naples. Today it is furthermore one of the most important vacation destinations in southern Italy and a very famous spa. The island covers an area of 8,05 square kilometres and includes six communes: Ischia Porto & Ponte, Casamicciola Terme, Lacco Ameno, Forio, Serrara Fontana and Barano, furthermore the villages of Campagnano, San Michele and Sant' Antuono, all belonging to the town of Ischia. The island's population counts about 50.000 inhabitants.
+*Europe > Italy > Campania > Ischia*
 
+Ischia is the largest island in the Bay of Naples and the most populous. It is primarily known for its thermal spas — hot springs that emerge everywhere on the island, from dedicated spa parks to the sand of Maronti Beach — but it also has good beaches, an extinct volcano to climb, and a history that predates Rome.
 
- 
- The first settlements on the islands date from the 8th century BC when Greeks from Eretria and Chalcis founded Pithecusae, the first Greek colony in the West, on the promotory of Mount Vico. Later, the Romans arrived and discovered the extraordinary properties of the hot springs so abundant in this island. This wealth of thermo-mineral waters was first used for therapeutic purposes on an organized basis in the 16th century and has progressed constantly as a result of medical and scientific research and advanced technology. Ischia,Treatment centres and parks constitute half of the island's tourism services. The popular treatments include thermal baths, mud baths, irrigation, inhalation, hydromassage, massotherapy, physiotherapy and beauty treatments.
+The island was colonised by Greeks from Euboea in the 8th century BC as Pithecusae, the first Greek colony in the western Mediterranean. Later came the Romans, who built villas here and exploited the thermal waters. Today the six communes (Ischia, Casamicciola Terme, Lacco Ameno, Forio, Serrara Fontana, and Barano) together have a resident population of about 50,000, which multiplies several times over in summer.
 
+[Forio](/europe/italy/campania/ischia/forio) on the western coast is the most attractive town architecturally — its historic centre of churches and towers is largely intact, and the botanical gardens of La Mortella are nearby. [Casamicciola](/europe/italy/campania/ischia/casamicciola) is the oldest thermal town, quieter than Ischia Porto and with good access to Monte Epomeo (789m), the island's peak.
 
- 
- Ischia is the main town on the island of Ischia and is situated at the north-east end of the island. It is divided into two, Ischia Ponte and Ischia Porto. The former is the old quarter, a fishing village built round the little island on which the castle stands. It was under the rule of the Greeks, Syracuse, Naples and the Romans, but the oldest surviving buildings date
+The island is most enjoyable in May–June or September–October. In July and August it is popular with Italian families and prices are high. Getting there from Naples takes about 90 minutes by ferry or 60 minutes by hydrofoil.

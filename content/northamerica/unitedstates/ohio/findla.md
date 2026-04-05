@@ -1,4 +1,0 @@
----
-title: "Findla"
-type: location
----

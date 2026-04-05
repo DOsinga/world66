@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-People travel to British Columbia by car, truck, recreational vehicle, cruise ship, train, pleasure yacht, aircraft (personal and commercial), train, and some simply walk here.
-
-We currently have no Getting There listed in British Columbia.
-
-If you do know any Getting There in British Columbia, please [Add].
+Vancouver International Airport (YVR) is BC's main hub, with direct connections to Europe, Asia, and cities across North America. Victoria has its own airport (YYJ) with regional flights, and Kelowna (YLW) serves the Interior. For road trips, the Trans-Canada Highway enters from Alberta through the Rockies; the drive from Calgary to Vancouver takes about 10 hours. The BC Ferries network connects the mainland to Vancouver Island and the Gulf Islands — the Tsawwassen–Swartz Bay route is the main crossing and takes about 90 minutes.

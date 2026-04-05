@@ -3,12 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-now u can take a tour of the Botanic garden and u can also sleep in a garbage can on the side of the road
-
-### [Kinosoo Beach, Cold Lake](/northamerica/canada/alberta/beaches/kinosoo_beach_col)
-
-Cold Lake is located 3 hours N.E of Edmonton and is a ideal summer spot. People come to Cold Lake for the beach, the fishing, camping and watersports.
-
-
-
-[[rate it]](/northamerica/canada/alberta/beaches/kinosoo_beach_col)
+Alberta is landlocked, but its lakes draw summer crowds, especially in the north and central regions. Cold Lake in particular is a popular destination for swimming, fishing and watersports — a favourite escape for Edmonton residents looking to get out of the city on a long weekend.

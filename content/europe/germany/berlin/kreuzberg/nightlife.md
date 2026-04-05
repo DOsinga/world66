@@ -1,12 +1,6 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Nightlife"
 type: section
 ---
 
-Although the beating heart of the nightlife scene changed to ‘Mitte’ when the wall came down, Kreuzberg still has a sparkling nightlife. Whatever type of bar or dancing you’re looking for, there is a fair chance that you’ll find it in this area. Punk, rock ‘n roll, mainstream music, live performances, arty cafes, gay and lesbian bars…. Kreuzberg still has its own scene. West of Oranienstrasse, Tacheles offers cultural life in all its facets. Hackeschen Hofen is where the modern metropolitan heart beats. Oranienburgerstrasse is also better known as a red light and hard drugs district. 
-
-## Categories
-
-[Bars & Cafes](/europe/germany/berlin/kreuzberg/nightlife?subsection=Bars%20%26%20Cafes)
-
-[Dancing](/europe/germany/berlin/kreuzberg/nightlife?subsection=Dancing)
+Kreuzberg's nightlife is anchored by a handful of legendary venues that have outlasted every trend. SO 36 on Oranienstraße is Berlin's original punk venue — still going, still mixing queer nights and techno with its alternative roots. Schwuz is the city's oldest gay club. Junction Bar runs live funk and jazz most nights. The energy in Kreuzberg after midnight is still raw and genuine in a way that's increasingly rare in Berlin.

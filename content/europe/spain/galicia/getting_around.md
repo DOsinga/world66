@@ -1,33 +1,10 @@
 ---
-title: "Getting Around in Galicia"
+title: "Getting Around"
 type: section
-address: "Glasgow U.K."
-email: "gordonlang@myrealbox.com"
 ---
 
-Getting around
-Galicia is quite hard using public transport. It seems as if there is no
-coordination between the different bus companies and they do not publish their
-timetables on any web site. You may be lucky and find sheets of A4 selo-taped
-to the doors of the bus stations with the times of departure, but no route!
+A car is strongly recommended for exploring Galicia. Public transport between the main cities (Santiago, Vigo, A Coruña, Ourense, Lugo) is reasonable by bus or train, but reaching coastal villages, inland valleys, or sites like the Ribeira Sacra or Castro de Baroña without a car is difficult. Bus company schedules are often not online, and services are infrequent outside city routes.
 
-Trains are little
-better as the timetables can be found on http://horarios.renfe.es/hir/ingles.html
+Renfe runs trains between the main Galician cities and connects to Madrid and the rest of Spain. The train from Vigo to Porto (Portugal) is a useful cross-border route. Ryanair and Iberia serve Santiago de Compostela airport, with connections to Madrid, Barcelona, London, and a handful of other European cities.
 
-Flying to Galicia from the U.K. can be done with Ryanair to Santiago.
-This airport also handles flights from Amsterdam and Madrid.
-
-**Contributors**
-June 25, 2005
-
-### [gordon lang](/europe/spain/galicia/getting_around/gordon_lang)
-
-I wish to travel from Santander to Santiago de Compestela via Coruna by train. Fave?
-
-Please advise
-
-
-
-address: Glasgow U.K.
-
-email: gordonlang@myrealbox.com
+Within cities, Vigo and A Coruña have decent bus networks. Santiago de Compostela's old centre is compact and best explored on foot.

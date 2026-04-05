@@ -1,23 +1,11 @@
 ---
-title: "National Museum of Archaeology (Museo Archeologico Nazionale)"
+title: "National Archaeological Museum"
 type: poi
-address: "Museum Square, 19 Napoli"
-email: "sanc@interbusiness.it"
-phone: "+39 08 144 0166"
-type: "Other"
+address: "Piazza Museo Nazionale 19, Naples"
+phone: "+39 081 44 0166"
+opening_hours: "9:00-20:00, closed Tuesdays"
+latitude: 40.853056
+longitude: 14.250556
 ---
 
-The National Museum of Archaeology houses the remains of towns buried by Mount Vesuvius during the eruption in 79 AD. Other pieces on display here, which make the collection the largest archaeological collection in history include artifacts from cities such as Baia, Capri, Capula, Nola, and Pozzuoli, to name a few. Also on site is the Farnese Collection, acquired from Charles of Bourbon at the beginning of the 19th century. This is the largest art collection in Italy. Hours: 9:00 a.m.-8:00 p.m.
-
-**Contributors**
-June 09, 2008
-
-type: Other
-
-
-
-tel: +39 08 144 0166
-
-address: Museum Square, 19 Napoli
-
-email: sanc@interbusiness.it
+The finest archaeological museum in Italy, and one of the best in the world. The collection centres on finds from Pompeii and Herculaneum — mosaics, frescoes, bronzes, and household objects that make Roman daily life vivid. The Farnese collection of Greek and Roman sculpture is also here, as is the Secret Cabinet of erotic art (separate entry required). Allow at least three hours. Entry costs around €15; closed Tuesdays.

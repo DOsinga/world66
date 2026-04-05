@@ -1,19 +1,12 @@
 ---
 title: "Hong Kong Disneyland"
 type: poi
-type: "Hotspots"
-latitude: 22.31307
-longitude: 114.040985
+address: "Lantau Island"
+url: "www.hongkongdisneyland.com"
+latitude: 22.3131
+longitude: 114.0410
 ---
 
-Hong Kong Disneyland opened in the Fall of 2005. There are about one-third the
-number of attractions of most Disney resorts, but a great introduction
-to the Disney culture for first-timers.
+Hong Kong Disneyland opened in 2005 and has expanded considerably since, now including several themed lands. The park is the smallest Disney resort globally but large enough to fill a full day. It targets Asian visitors — Mickey Mouse appears in Cantonese-themed costumes around Lunar New Year, and the food menus lean heavily Asian. Most attractions run in both Cantonese and English.
 
-The park definitely targets Asian visitors--you'll see Mickey Mouse in a silk Chinese shirt and the vast majority of dishes offered in the restaurants are Asian. Most attractions are in dual-language (Cantonese and English) mode. You can do the whole park in
-one day.
-
-The park is easily accessed via a 30-minute tram/subway ride from Hong
-Kong or Kowloon. For longer-term visitors, two Disney hotels are located near the theme park. Adult admission ticket prices are about $38 (USD) during the week and $45 (USD) on the weekends.
-
-type: Hotspots
+Access is easy via the dedicated Disneyland Resort Line MTR, branching from Sunny Bay station (about 30 minutes from Central). Two Disney hotels sit at the resort entrance. Check the website for current admission prices and seasonal events.

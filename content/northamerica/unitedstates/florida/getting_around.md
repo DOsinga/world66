@@ -5,7 +5,7 @@ type: section
 
 Florida is big, but more importantly it is extremely spread out. If your itinerary includes stops in Pensacola and Miami, you'll want to book a flight between the two or literally be driven crazy. Train service is desultory at best and too expensive to be practical (though we're working on that), and bus service, though somewhat better, is scattershot and difficult to figure out. The reason why Americans drive everywhere is because we have no other choice. Those who like to pilot their own planes should note that virtually every town of respectable size has a general aviation airport. 
 
-Always be on the lookout for the weather, as Florida is known for those "afternoon showers" which pop-up rather fast, and leave sunshine in their wake! Also **<B>be aware that our Florida Sun is ~really~ strong, so be sure to wear sunscreen/suntan lotion, especially at the beach.</B>**
+Always be on the lookout for the weather — Florida afternoon thunderstorms build quickly and pass just as fast. The sun is genuinely intense; wear sunscreen, especially at the beach.
 
 Our late governor, Lawton Chiles, was first elected to office many years ago after a political campaign in which he walked from the tip of the Panhandle to the heart of central Florida. You can recreate Walkin' Lawton's trek if you like, but you'd be better advised to rent a car. This is extremely easy to do with a valid driver's license (an International Driving Permit may make things easier for non-nationals), and generally affordable-though it gets quite expensive if you are under 25 and may be impossible for those under 21. 
 

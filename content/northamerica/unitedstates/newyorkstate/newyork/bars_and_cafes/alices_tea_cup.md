@@ -1,8 +1,9 @@
 ---
-title: "Alices Tea Cup"
+title: "Alice's Tea Cup"
 type: poi
+address: "102 West 73rd Street (at Columbus Ave)"
+latitude: 40.778150
+longitude: -73.981560
 ---
 
-Alice's Tea Cup is a tea room. It's nice and cozy. There is a lot of Alice's Wonderland pictures and merchandise.
-
-address: Off of 73rd on Columbus Ave. (102 Columbus Ave.)
+A beloved neighborhood tea room on the Upper West Side decorated floor to ceiling in Alice in Wonderland imagery. The scones are the main attraction — buttery, properly sized, served with clotted cream and jam. Good for a slow weekend brunch or afternoon tea with someone you want to impress.

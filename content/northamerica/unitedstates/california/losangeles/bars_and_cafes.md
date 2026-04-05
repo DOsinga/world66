@@ -1,11 +1,6 @@
 ---
-title: "Bars and Cafes in Los Angeles"
+title: "Bars and Cafes"
 type: section
 ---
 
-Los Angles possesses more than its fair share of trendy bars and
-cafes, providing plenty of fun and excitement for tourists and locals
-alike.
-
-**Formosa Café** – This Los Angeles institution has a reputation
-dating
+LA's bar scene is as stratified as the rest of the city — rooftop pools on the Sunset Strip, dark dives in Highland Park, cocktail labs in downtown arts district warehouses. The trick is knowing which register you want, because they don't really overlap. Expect to pay for valet parking at anything above dive-bar level, and don't show up before 9pm if you want company.

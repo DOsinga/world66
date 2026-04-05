@@ -1,6 +1,6 @@
 ---
-title: "Things to do in Lombardia"
+title: "Things to Do"
 type: section
 ---
 
-Thank you for your qitesuon – of course it will be possible. Let us improve our page a little bit and then you all will have a chance to insert your stories directly on the web!
+Lombardia rewards those who look beyond Milan. The lakes draw crowds for good reason — Como and Garda are genuinely beautiful — but the region's medieval cities, Alpine foothills, and vine-covered plains offer plenty for those willing to explore further. Whether you're after art, hiking, or simply eating very well, this region delivers.

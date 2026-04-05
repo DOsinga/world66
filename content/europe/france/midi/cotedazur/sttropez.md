@@ -5,6 +5,6 @@ latitude: 43.272719
 longitude: 6.640523
 ---
 
-If you look hard, you might still catch a glimpse of the old days. Especially when you walk you're way up to the citadelle, dating from the 16th century, and visit the tiny windy graveyard that faces the robust sea. And of course, St Tropez still has its small winding street, its discloured houses (either by the impact of the sea or the sun) with green shutters and aged men that play pétanque under the trees in the shade. 
+St Tropez is a small fishing village that became one of the most famous resorts in the world, mostly by accident — Brigitte Bardot filmed And God Created Woman here in 1956 and the jet set followed. The village itself is genuinely charming, with painted shutters and a citadel from the 16th century overlooking the bay. Walk up to the citadel's small graveyard for views of the sea and a sense of how the place must have felt before the yachts arrived.
 
-However, the harbour has turned into a parade of the jet set showing off how they like to squander their money on things that we used to call 'boats' in the old days. Always good for a laugh and then you can take your bottle of rosé and walk the pier to have some good views of both the harbour, the sea and the setting sun on St Tropez....
+The harbour is pure spectacle — an unbroken line of megayachts in summer, the owners visible on deck and the price tags visible in everything else. Worth a look, then find a table away from the waterfront and drink rosé while the show carries on without you. Getting there is half the problem: the D98A from Sainte-Maxime is chronically congested in summer — the ferry from Saint-Raphaël or Sainte-Maxime is much faster.

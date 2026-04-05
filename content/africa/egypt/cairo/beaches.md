@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Cairo"
+title: "Beaches"
 type: section
 ---
 
@@ -32,5 +32,3 @@ Alexandria, east to Port Said, so if you have the time and like to
 explore you can easily find your own beaches to enjoy along the
 Mediterranean.
 
-**Contributors**
-December 27, 2009

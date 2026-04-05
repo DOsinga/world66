@@ -5,6 +5,6 @@ latitude: 23.68713
 longitude: 86.974659
 ---
 
-Travel Guide
+Asansol is West Bengal's second-largest city, in the Chota Nagpur coalfields about 200 km northwest of Kolkata. It grew in the 19th century as the British developed the coal seams of the Burdwan district — coal remains the city's defining industry, which locals sometimes call "black diamond." The city has one of the oldest railway stations in the state, still an important junction on the Howrah-Delhi main line.
 
-Asansol is the one of the city in Burdwan Distic. The city is populat for its natural resivour **Coal** (Known as Black Diamond). The city is having good transportation system link train and city bus services.The CIty Railway station is one of the oldest one in West Bengal. There are some beauty full places for site seen and for picnic.There are hotels from 3 star to 1 star in the city.NightLife activity is not present in the city.
+It is primarily an industrial and transit city rather than a tourist destination. Those stopping here are usually passing between Kolkata and the hill stations, or visiting the nearby Maithon and Panchet dams on the Damodar River, which offer pleasant lake scenery and boating. The Kalyaneshwari temple at Kalyanpur, about 25 km away, is a significant Hindu pilgrimage site in the region.

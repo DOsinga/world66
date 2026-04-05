@@ -5,6 +5,4 @@ latitude: 12.811446
 longitude: 74.840728
 ---
 
-Travel Guide
-
-Ullal is a tiny fishing village perched on the southern sand pit of Mangalore. The fabled “Rome of the east”. Built on 10 hills with several old Churches and Cathedrals same dating
+Ullal is a small coastal town just south of Mangalore, best known for its long, largely uncrowded beach. The Summer Sands Beach Resort has made it a weekend destination for Mangaloreans, but it hasn't been overrun. The beach is wide, the fishing boats add character, and the pace is slow. The Dargah of Hazrat Syed Mohammed Shareeful Madani, a Sufi shrine, draws pilgrims from across the coast and is worth a visit.

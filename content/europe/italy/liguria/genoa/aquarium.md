@@ -1,15 +1,8 @@
 ---
 title: "Aquarium"
-type: location
-latitude: 43.838162
-longitude: 10.507066
+type: section
+latitude: 44.406778
+longitude: 8.921533
 ---
 
-Genoa Aquarium is the biggest in Europe and one of the most important worldwide, and with one and a half million visitors each year it is one of Europe’s leading cultural attractions.
-
-
- The Aquarium’s 59 tanks reproduce marine and terrestrial habitats from throughout the world and provide a home for more than 500 animals belonging to 500 different species. While it is first and foremost a tourist attraction, the Aquarium also has a mission to increase public awareness of environmental problems.
-
-
- 
- Photo Gallery
+The Porto Antico's centrepiece, the Acquario di Genova was redesigned by Renzo Piano for the 1992 Expo and remains Europe's largest aquarium. The waterfront complex also includes the Neptune galleon — built for Polanski's *Pirates* — which serves as a floating exhibition. It's the third most-visited attraction in all of Italy.

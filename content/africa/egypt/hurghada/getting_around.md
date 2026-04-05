@@ -1,38 +1,14 @@
 ---
-title: "Getting Around in Hurghada"
+title: "Getting Around"
 type: section
 ---
 
-Hughada’s local transport is a mix of taxis and local minivans called *jalla
-jallas*. A lot of visitors also hire bikes to move around the town and on the
-adjoining desert. Here is a guide to moving around in Hughada.
+Hurghada is a long, thin city strung along the coast for more than 20 km, so getting around requires some thought.
 
-**Taxi**
+**Taxis** are the main option. Always agree on the fare before you get in — drivers do not use meters with tourists and will quote inflated prices if you don't negotiate upfront. Fares within the same district (say, Sakkala to the marina) should be around 30–50 EGP; between El Dahar and the resort strip, 50–80 EGP. The word "taxi" in Arabic is the same as English, and most drivers understand basic directions to major hotels.
 
-Local taxis in Hurghada are notorious for fleecing tourists and trying every
-trick in the book to extract money from them. Visitors should make sure to fix
-the price in advance as drivers are known to quote preposterous rates,
-especially for tourists from the west. Find a driver who is well-versed in
-English and it will make your haggling a little more easy. There are only a few
-streets in Hurghada that actually have names--the rest are identified by their
-proximity to prominent landmarks. It is best to get off at the nearest
-destination or landmark. Hotels, for example are the best places to stop the
-taxi and walk it up to your destination. While fixing the price, visitors must
-ensure that they agree on a total price and not a per head rate as suggested by
-some overly-smart drivers. The correct fare would be approximately 5 to 10 LE if
-travelling within the same area of the town and 20 LE when moving to another
-region within the town. Avoid going by the regular meter because there are tons
-of extra charges on it for tourists.
+**Microbuses** (the local *jalla jalla* minivans) run along the main coastal road and are extremely cheap — a few pounds anywhere in town — but have no fixed schedule or stops. Flag them down when you see them and tell the driver roughly where you're going.
 
-**Public Transport**
+**Ride-hailing apps** — Uber and Careem both operate in Hurghada and are generally more transparent on pricing than street taxis.
 
-Hurghada has no real public transport to speak of, and the only thing that’s
-visible in the name of public transport is the *jals jall's*--Toyota minivans which have no fixed routes or timings and can be stopped
-wherever required with a mere wave of the hand. Not a lot of tourists use them,
-but they are a cheap mode of travel, charging a mere 1LE to reach anywhere
-within the town.
-
-Hurghada has limited public transport options and tourists seeking a
-relatively stress-free sightseeing experience, would do well to hire a car or a
-bike from a reputed car rental agency situated around the airport or town
-center.
+**Bicycle hire** is available through many hotels and is practical for getting around within a single district, though the main coast road is busy and lacks dedicated lanes.

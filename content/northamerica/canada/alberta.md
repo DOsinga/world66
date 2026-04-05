@@ -5,12 +5,10 @@ latitude: 55.001251
 longitude: -115.002136
 ---
 
-Alberta's grandeur and beauty are obvious from the moment you arrive. With vast blue skies and the snow-capped Rocky Mountains, and thousands of hectares of farmland and forests, it won't be long before you're engulfed by Alberta's natural features. 
+Alberta sits in western Canada between the Rockies and the prairies, and the contrast between those two landscapes defines much of what the province offers. To the west, the mountains are dramatic and close — Banff and Jasper national parks are among the most visited places in Canada for good reason. To the east, the land opens into wide agricultural plains and eventually the badlands near Drumheller, where one of the world's richest fossil records lies embedded in eroded sandstone.
 
-But it's the people of Alberta that give the province its charm and fervor. There seems to be an ardent sense of community inherent in the people who live there. Casual, friendly, hard-working -- you'll feel at home among these family-minded people.
+Calgary and Edmonton are the two dominant cities, each with a distinct personality. Calgary is oil money and outdoor ambition — it hosts the famous Stampede each July and sits just an hour from world-class skiing. Edmonton, the provincial capital, is scrappier and more arts-focused, with a long stretch of river valley parkland and a genuinely vibrant festival culture. Both cities are easy bases for day trips into the surrounding wilderness.
 
-Edmonton, the provincial capital, features world-class attractions including the world's largest mall - West Edmonton Mall, and one of the most vibrant arts communities in North America. Calgary, home of the Calgary Exhibition and Stampede, is the fastest growing city in the country. The province is home to millions of people, and the standard of living is high.
+The national parks are the undeniable draw, but don't overlook the lesser-known spots. Wood Buffalo National Park in the far north is bigger than Switzerland and barely visited. Waterton Lakes in the south, where the prairies collide abruptly with the mountains, is one of the more striking landscapes in the country. Elk Island, east of Edmonton, is an easy half-day trip with bison roaming freely through the forest.
 
-Not to be missed are Banff National Park and Jasper National Park, which are among the most beautiful places on earth. Another world-class attraction is the Royal Tyrell Museum at Drumheller, where you'll fine one of the world's greatest collections of dinosaur remains. 
-
-Alberta's Provincial Flower is the Wild Rose
+Albertans tend to be direct and outdoors-minded. The province has long had a frontier streak — resource industries, agriculture, a certain self-reliance — and that shapes the culture. It's a good place to travel if you like your natural scenery on a grand scale and your cities without pretension.

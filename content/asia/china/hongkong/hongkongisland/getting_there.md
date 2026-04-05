@@ -1,32 +1,10 @@
 ---
-title: "Getting There in Hong Kong Island"
+title: "Getting There"
 type: section
 ---
 
-**Getting There by Plane**
+Hong Kong Island is connected to the rest of the territory by road tunnels, the MTR, and ferry. See the main [Hong Kong Getting There](/asia/china/hongkong/getting_there) page for information on arriving in Hong Kong from overseas.
 
-Hong Kong Island is served by over 30 airline companies which land at the Hong Kong International Airport (IATA code: HKG),
-one of the world's busiest international airports. After
-landing, you will experience one of the most efficient and modern
-customs offices in the world (you will notice that this airport is full
-of superlatives!). You can carry your bags yourself using the airport carts through customs or you can hire a porter to carry them for you (a tip of HK$5 is appropriate).
+From Kowloon, the MTR Tsuen Wan and Kwun Tong lines cross under the harbour via the Tsuen Wan Line at Admiralty and Central. The Cross-Harbour Tunnel carries buses and taxis between Kowloon and Causeway Bay. The Star Ferry crosses between Tsim Sha Tsui and Central (or Wan Chai) every few minutes from early morning until late evening — the most scenic option and worth taking at least once.
 
-**The Honk Kong Tourist Association**
-
-After leaving customs, the best idea is to make a stop at the Hong Kong Tourist Association (HKTA)
-because here you can pick up the schedules for events (most of
-them are free) sponsored by this tourist association. The HKTA Official Guidebook (updated monthly)
-is a bit commercial, but is a good information source. Many hotels
-offer this book free with their own name and logo printed on the cover.
-Overseas, the HKTA
-maintains offices in Chicago, Frankfurt, London, New York, Osaka,
-Paris, Rome, San Francisco, Singapore, Sydney, Tokyo and all of Cathay
-Pacific Airways offices around the world.
-
-**Getting There by Sea from Singapore
-
-**For those who really want a ship and don't mind not being fawned over, the easiest, cheapest option is Golden Line/Guan Guan Shipping
-(23 Telok Ayer Street in Singapore), which runs the route
-between Penang, Singapore and Hong Kong every 3 weeks. The Hong Kong leg takes about
-4 1/2 days either way, and first class costs less than a plane
-ride.
+From the airport on Lantau, the Airport Express runs directly to Hong Kong Station in Central (24 minutes). Buses from the airport also serve various points on the island.

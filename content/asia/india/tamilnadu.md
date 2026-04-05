@@ -5,21 +5,26 @@ latitude: 11.332372
 longitude: 78.609864
 ---
 
-Tamil Nadu is India’s southernmost state. Tamil is the most spoken language as opposed to Hindi in most other parts and if you’re looking for the cradle of all vegetarian dishes, you’ve hit the right state. You might get the feeling that people less often speak English, which might be true. Sometimes it feels as if in the south, and especially Tamil Nadu, the atmosphere is different than in most other parts of India. Maybe a bit warmer, a bit more relaxing combined with the proud south Indians and their welcoming and friendly nature in general.
+Tamil Nadu is India’s southernmost state, and in many ways the most distinctly itself. Tamil is one of the world’s oldest living languages and the pride people take in it is palpable — Hindi has never made much inroad here, but English is widely spoken in cities and tourist areas. The food is the foundation of south Indian vegetarian cooking: the dosa, idli, sambar, and rasam that have spread across India all come from here. If you’ve only eaten those dishes elsewhere, eating them in Tamil Nadu is a revelation.
 
-Chennai is Tamil Nadu’s capital and is a thriving city that is a good point from which to explore the rest of the state. Not far away from Chennai is the little village of Mahabalipuram that offers, besides a good place to relax and excellent beaches, some of the most impressively carved sandstone shore temples. When you’re interested in temples, you can’t miss out on the Shree Meenakshi Temple complex that dominates the whole lively city of Madurai. A fresh breath of air can be caught at the hill-station of Kodaikanal. After the challenging bus trip, you’ll appreciate the lakes, views and serene atmosphere even more.
+The state is defined by its Dravidian temple architecture — enormous complexes with soaring gopurams (gateway towers) encrusted with thousands of painted figures. These temples are not just tourist sights; they are living religious centres that have operated continuously for centuries. The Ramanathaswamy Temple at Rameshwaram, the Meenakshi Amman Temple at Madurai, the Brihadeeswarar Temple at Thanjavur — each is a serious pilgrimage destination as well as an extraordinary piece of architecture.
 
-Minor corrections on 29 March 04
+[Chennai](/asia/india/tamilnadu/chennai) is the capital and the most practical entry point — a large, confident city with good connections and a reasonable beach at Marina. Not far south is [Mahabalipuram](/asia/india/tamilnadu/mahabalipuram), a coastal village with some of the finest open-air rock-cut sculpture in India, the Pallava shore temples carved directly from granite boulders on the beach. [Madurai](/asia/india/tamilnadu/madurai) is the temple city par excellence, centred on the vast Meenakshi complex. [Thanjavur](/asia/india/tamilnadu/thanjavur) has the Brihadeeswarar Temple, a UNESCO World Heritage Site and the high point of Chola-era architecture.
+
+For a break from the heat and temples, [Kodaikanal](/asia/india/tamilnadu/kodaikanal) and [Ooty](/asia/india/tamilnadu/ooty) are hill stations in the Western Ghats with cool air, lakes, and walking. The temple circuit along the Cauvery Delta — Thanjavur, Kumbakonam, Gangaikonda Cholapuram — is rewarding for anyone with a serious interest in South Indian history.
 
 ## Destinations in Tamil Nadu
 
-[Ooty](/asia/india/tamilnadu/ooty)
 [Chennai](/asia/india/tamilnadu/chennai)
 [Madurai](/asia/india/tamilnadu/madurai)
-[Mannargudi](/asia/india/tamilnadu/mannargudi)
-[Tiruparankundram](/asia/india/tamilnadu/madurai/tiruparankundram)
-[Ramanathapuram](/asia/india/tamilnadu/ramanathapuram)
-[Puram](/asia/india/tamilnadu/puram)
-[Kodaikanal](/asia/india/tamilnadu/kodaikanal)
-[Thanjavur](/asia/india/tamilnadu/thanjavur)
 [Mahabalipuram](/asia/india/tamilnadu/mahabalipuram)
+[Thanjavur](/asia/india/tamilnadu/thanjavur)
+[Rameshwaram](/asia/india/tamilnadu/rameshwaram)
+[Ooty](/asia/india/tamilnadu/ooty)
+[Kodaikanal](/asia/india/tamilnadu/kodaikanal)
+[Pondicherry](/asia/india/tamilnadu/pondicherry)
+[Kanyakumari](/asia/india/tamilnadu/kanya_kumari)
+[Tirunelveli](/asia/india/tamilnadu/tirunelveli)
+[Ramanathapuram](/asia/india/tamilnadu/ramanathapuram)
+[Mannargudi](/asia/india/tamilnadu/mannargudi)
+[Nagapattinam](/asia/india/tamilnadu/nagapattinam)

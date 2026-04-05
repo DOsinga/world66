@@ -3,56 +3,30 @@ title: "Practical Information"
 type: section
 ---
 
-Hong Kong is exceptionally humid during the summer, but everyone has
-airconditioning. You'll probably get dripped on by A/C walking
-down the street.
+**Visas**
 
-Personal Security: Backpackers in HK typically wear their backpacks
-in front of them to prevent razor slit robbery from behind, and to
-provide easy access to the pack's content. Most pickpockets and thieves
-know about the neck wallets that people have hanging inside their
-shirts from the telltale string around the neck. Use an internal wallet
-that is worn like a shoulder holster to avoid easy detection.
+Most Western passport holders (EU, US, UK, Australian, Canadian) can enter Hong Kong visa-free for 90 days or more. Hong Kong immigration is separate from China's — a visa for one does not cover the other. If you plan to cross into mainland China, arrange a Chinese visa in advance (the Chinese visa application service centre in Wan Chai processes applications within a few days).
 
-Bargaining: There is an old rule of thumb that whatever the street
-vendor quotes as an opening price, that you should offer half (50%) as
-that is closer to the actual selling price. This was initially true.
-Now the street vendors have wised up to that and have actually raised
-their first quotes. Most street vendors are a superstitious
-lot; believing it to be of utmost importance to complete the
-first sales attempt of the day (even at no profit), else it
-becomes an ill omen for the rest of the day's business. So if you
-spot some guy opening his stall and it looks like it has something
-you'll want. Go over right away and offer him something ridiculously
-low. You'll have him at a point that is the least advantagous to him;
-and he knows it. Further, he also knows that you know it and hence
-won't back down. More often than not, you get your product for a song.
+**Money**
 
-Jade: If you're in the market for jade but don't really know your
-jadeite or nephrite from a hole in the wall, then you should assume
-that everything on the street is NOT jade. In case you didn't know,
-true jade has a hardness better than steel. It is never carved (like
-soapstone) but must be ground (abraded). If you're looking at an
-intricately carved piece, then it's most likely soapstone (Shoushan
-stone) as it's impossible to carve jade in such a fashion. Further,
-many dealers and guides will tell a customer to perform the sound test,
-that is to clink two jade bangles together; that the ring of true jade
-can be heard. Well, unless you've performed this test thousands of
-times with both real and fake jade, you won't be able to tell what is
-the real sound of Jade. Hence this "test" is utterly meaningless and
-misleading. In Hong Kong, real jade is found in the main shops around
-the Jordan Road area, whilst fakes are plentiful all over, but
-espeically so in the Tung Chou Street Temporary Market enclosure.
-Often, it's nice to buy a piece simply for the nice way that something
-was carved rather than to expect any real true value as jade.
+The currency is the Hong Kong Dollar (HKD), pegged to the US dollar at roughly HK$7.8 to USD$1. ATMs are everywhere and accept international cards. Credit cards are widely accepted in shops, restaurants, and hotels. For street markets and hawkers, cash is essential; the Octopus card (see Getting Around) handles most transit and convenience store payments. Avoid exchange counters in tourist areas — banks and post offices offer better rates.
 
-**Contributors**
-July 07, 2005
+**Climate and clothing**
 
-July 07, 2005
+Hong Kong is subtropical with four distinct seasons. Autumn (October to December) is the best time to visit: clear skies, comfortable temperatures around 20–24°C, low humidity. Winter (December to February) is mild, averaging 15–18°C, occasionally cold enough for a jacket. Spring (March to May) brings heavy rain and high humidity. Summer (June to September) is hot (30–35°C), intensely humid, and prone to typhoons — pack a light waterproof. Air conditioning in shops and restaurants is frequently set aggressively cold; bring a layer regardless of the season.
 
-October 08, 2005
+**Typhoons**
 
-**Currency**
+Typhoon season runs from May to November. Storms are rated T1 to T10; when a T8 or above signal is hoisted, most businesses close, transport halts, and you should stay indoors. Check the Hong Kong Observatory app for updates.
 
-The local currency is the Hong Kong Dollar (HKD)
+**Safety**
+
+Hong Kong is one of the safest large cities in the world. Violent crime against tourists is rare. The usual urban precautions apply: watch bags in crowded areas (Mong Kok, Temple Street), be wary of the occasional gem or jade scam in tourist districts, and don't buy electronics from street touts who approach with offers that seem too good.
+
+**Shopping tips**
+
+For jade, buy from established shops rather than street stalls. True jade (jadeite) is ground rather than carved and is considerably harder than steel. The jade market at Kansu Street in Yau Ma Tei is authentic but requires knowledge; tourist-oriented pieces are often dyed or synthetic. Electronics are cheaper at Sham Shui Po (computer and electronics district, accessible by MTR) than in tourist shops near Nathan Road.
+
+**Language**
+
+Cantonese is the language you'll hear everywhere. Most signage is bilingual (Chinese and English), and English is widely spoken in shops, restaurants, and hotels. In outlying areas and with older taxi drivers, English is less reliable — having your destination written in Chinese characters is useful.

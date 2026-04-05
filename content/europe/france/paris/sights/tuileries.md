@@ -1,8 +1,0 @@
----
-title: "Tuileries"
-type: poi
-latitude: 48.864519
-longitude: 2.329631
----
-
-The Jardin des Tuileries is a very nice park between and near the Louvre. The park is quite stately and very French. Hardly any grass to lay in but perfect peranque courts, and ... culture. By strolling around you will find lots of sculptures made by famous artists such as Aristide Maillol and others.

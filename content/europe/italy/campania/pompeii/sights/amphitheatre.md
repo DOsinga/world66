@@ -1,17 +1,8 @@
 ---
 title: "Amphitheatre"
 type: poi
-latitude: 41.890257
-longitude: 12.492384
+latitude: 40.748056
+longitude: 14.494444
 ---
 
-The amphitheatre was once the warm hart of Pompeii entertainment. Gladiator fights were immensly popular in the Roman empire, and especially in Campania, where fights took place as early as the fouth century BC. One battle in the theatre of Pompeii was so large and bloody, that it even made Tacitus' Annales.
-
-
- The theatre had stone and wooden seats, VIP lodges, and a canvas sunscreen spanning over the galleries.
-
-Annales.
-
-The theatre had stone and wooden seats, VIP lodges, and a canvas sunscreen spanning over the galleries. "
-dc:creator="World66"
-dc:date="" />
+The amphitheatre at Pompeii is the oldest surviving Roman amphitheatre in existence, built around 70 BC. It could hold 20,000 spectators — essentially the entire population of the city. Gladiatorial contests here were so popular that in 59 AD a riot between Pompeii supporters and visitors from Nuceria resulted in deaths, and the amphitheatre was closed for ten years by Senate decree (Tacitus recorded the incident). The terraces of stone seating, the VIP boxes (baltei), and the canvas sunscreen supports are still visible.

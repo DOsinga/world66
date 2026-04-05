@@ -5,10 +5,12 @@ latitude: 40.421678
 longitude: 15.014883
 ---
 
-Paestum was founded as a colony by the Greek city of Sybaris around 600 B.C. and was first named Posidonia. It flourished with the rest of Magna Graecia through the 6th cent. B.C. The Romans took the city in 273 B.C. and called it Paestum. The ruins, near the present Pesto, include some of the finest and best-preserved Doric temples in existence.
+*Europe > Italy > Campania > Paestum*
 
+Paestum is an ancient city in the southern Campania plain, about 85 km south of Naples. It was founded as a Greek colony around 600 BC (originally called Posidonia), flourished under Rome, and was then gradually abandoned as the surrounding plain became malarial. The result is that three remarkably complete Doric temples survive in open fields, with little around them to obscure the view.
 
- The three Paestum temples are all in the Archaic Doric style with heavy columns and capitals, or as Goethe termed them, 'oppressive.' Paestum's now crudely exposed shellstone shafts were originally covered with lime stucco.
+The temples are among the finest Greek structures outside Greece itself. The **Temple of Neptune** (actually dedicated to Hera, despite its name), built around 460 BC, is the best preserved — its columns and entablature are almost complete, and the interior is accessible. The **Basilica** (530 BC), the oldest, stands alongside it, its squat proportions and heavy capitals dating it to the early Archaic period. The **Temple of Ceres** (510 BC) stands separately to the north and was used as a Christian church in the early medieval period, which may explain its better preservation.
 
+The site museum, across the road from the temples, holds the extraordinary Tomb of the Diver (480 BC) — a set of painted tomb slabs with a unique figurative scene, the only surviving Greek fresco of this period in Italy.
 
- The southernmost of the temples, the Basilica, was built about 530 B.C., with the Temple of Poseidon dating from about 460 B.C. The third, farther north is the Temple of Ceres, from about 510 B.C.
+Paestum sees fewer visitors than Pompeii and the experience is correspondingly more peaceful. Combine it with a night on the Cilento coast if you can.

@@ -5,14 +5,8 @@ latitude: 21.560769
 longitude: 88.267317
 ---
 
-Travel Guide
+Bakkhali is a small beach resort about 132 km south of Kolkata, close to the edge of the Sundarbans. It is more remote than Digha — reaching it requires a bus from Kolkata to Namkhana, a ferry crossing of the Hatania Doania river, and another bus — which keeps the crowds down. From the beach at Bakkhali you can walk to Frasergunj, the small settlement nearby, and take a motor launch to Jamhudwip, a forested island in the delta.
 
-Bakkhali is a small beach resort about 132 kms from Calcutta. it is very popular with the citizens of Calcutta. One can walk to the Frasergunj beach from Bakkhali. You may have the fun of wave-riding on a motor launch or make a trip by motor launch, of course, to Jamhudwip.
+The combination of beach, ferry crossing, and proximity to the Sundarbans gives Bakkhali a slightly adventurous feel that more accessible resorts lack. Accommodation is basic; it is not the place for comfort. But for a day or two away from Kolkata with the feeling of real remoteness, it rewards the extra travel time.
 
-**Access**
-
-A three hour bus journey from Kolkata to Namkhana, a ferry across the river Hatania Doania, and another bus journey for one and half hour to Bakkhali Between Kolkata and Namkhana there are CSTC buses an well as private bus. Departure : Esplanade (CSTC) 0700 hrs. Fare Rs. 13.50 Arrival : Namkhana 1100 hrs.
-
-There is also a train service from Sealdah station upto Namkhana. Cross the river by boat and then take a bus to Bakkhali
-
-by amrabedwin@yahoo.co.in
+**Getting there:** Bus or train from Kolkata to Namkhana (Sealdah has direct trains), then ferry across the river, then a short bus ride to Bakkhali.

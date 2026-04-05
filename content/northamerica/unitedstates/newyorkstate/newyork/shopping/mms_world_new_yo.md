@@ -2,7 +2,9 @@
 title: "M&M's World New York"
 type: poi
 accessibility: "open 7 days a week from 9:00am-midnight"
-address: "1600 Broadway St., Times Square, New York NY 10019"
+address: "1600 Broadway"
+latitude: 40.758000
+longitude: -73.985600
 phone: "(212) 295-3850"
 type: "Speciality shops"
 url: "www.mmsworld.com"

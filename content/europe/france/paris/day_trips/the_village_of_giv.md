@@ -1,22 +1,16 @@
 ---
-title: "The Village of Giverny"
+title: "Giverny — Monet's Gardens"
 type: poi
-address: "36 rue Carnot"
-phone: "02-32-51-39-60"
-url: "www.intermonet.com"
-latitude: 50.652681
-longitude: 3.077086
+latitude: 49.076405
+longitude: 1.533498
+address: "84 Rue Claude Monet, 27620 Giverny"
+url: "www.fondation-monet.com"
+opening_hours: "Late Mar–early Nov, daily 9:30am–6pm"
+admission: "€12.50"
 ---
 
-Claude Monet lived in the Village of Giverny for 43 years, and art lovers flock here because of it. An overnight stay in Giverny offers plenty of time to immerse yourself in Monet's work and his former home, as well as lush gardens, and delicious cuisine with character. View Claude Monet's and gardens at 84 rue Claude-Monet and dine on escargot or fresh salmon at Les Fleurs located at 71 rue Sadi-Carnot, 02-32-51-16-80. Musee d'Art Americain (American Art Museum), another must-see, features temporary exhibits of American paintings by artists that studied with Monet or artists who were influenced by the Impressionist painter. Additional information about the Village of Giverny can be found at the Vernon Tourist Office, 36 rue Carnot, 27600 Vernon, 02-32-51-39-60 or visit http://www.intermonet.com.
+Claude Monet lived in the village of Giverny for the last 43 years of his life and created the gardens that inspired the Nymphéas series — the water lily paintings that now fill an entire room at the Orangerie in Paris. The gardens are maintained to the same standard as in Monet's lifetime and are genuinely extraordinary: the Japanese bridge, the wisteria tunnels, the lily ponds in all their seasonal colours.
 
-**Contributors**
-May 14, 2008
+Giverny is 80km north-west of Paris. Take the train from Gare Saint-Lazare to Vernon (70 minutes), then a taxi, bus, or bicycle hire for the 5km to the village. The whole journey takes about 90 minutes each way, making it a comfortable day trip.
 
-
-
-tel: 02-32-51-39-60
-
-url: [www.intermonet.com](http://www.intermonet.com)
-
-address: 36 rue Carnot
+Go in May or June when the wisteria and roses are in full bloom and the colours are at their peak. The gardens are very popular in summer; arrive at opening time to avoid crowds. The Fondation Monet also includes Monet's house, preserved intact with its yellow dining room and blue kitchen.

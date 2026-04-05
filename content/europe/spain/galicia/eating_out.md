@@ -3,36 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-The main allure of Galician Gastronomy is its variety, to such an
-extent that it is hard to tell which is the most typical dish of the
-region. If there is one characteristic that links all the dishes, it
-must be the familiar, loving way of cooking, with slow craft and varied
-abundance . The same product can be cooked in many ways and has a
-different taste in different places. It could be said that Galician
-cuisine is a classical one, in the sense given by history or art,
-because it reaches its peak with the simplest elements naturally
-combined.
+Galician cuisine is built around what comes out of the sea. More than 80 types of fish and 50 shellfish species pass through the region's restaurants and taverns, from humble octopus boiled and dressed with paprika and olive oil (pulpo á feira) to razor clams, barnacles, spider crab, and scallops in countless preparations. Hake, turbot, and sea bass are the most prized white fish, served grilled or Galician-style.
 
-To speak of fish and seafood in Galicia may be a
-commonplace, but it is worth a reference. There is a rich variety of
-fish, the tastiest of them are those caught in the rias or close to the
-coast: hake, turbot, sea-bass, grouper and sole. They are prepared in
-classical styles: grilled, a la Gallega (Galician fashion) or
-caldeirada (a sort of casserole), or else sophisticatedly dressed by
-expert cooks. With regard to seafood, shrimp makes a delicious
-appetizer, as do squid , cuttlefish , served fried or in their own ink,
-and crab . Barnacles gather the quintessence of all the sea flavours.
-Others are eaten raw, like the fine cockle (Razor Clams) and its oyster
-. Another group of seafood which make delicious dishes include the
-spider crab and its three flavours, lobster, **king prawns**
-and scallops , in their uncountable variety of sauces, along with the
-nourishing and accessible mussel . The final seafood worth mentioning,
-considered humble because it is eaten every month of the year in every
-fair in Galicia, is the octopus "á feira" , i.e. cooked, sliced,
-sprinkled with paprika and salt, and dressed with olive oil.
+Away from the coast, the food is heartier: slow-cooked pork, hearty stews of greens and chorizo (caldo gallego), and the local tetilla and San Simón cheeses. Finish with a tarta de Santiago — an almond cake dusted with powdered sugar and marked with the cross of St James.
 
-To
-finish up with this short glimpse at the Galician cuisine, some
-products must be called to mind: the rich fresh cheeses , the exquisite
-confectionery and the filloas (a kind of pancake) , the most original
-and delicious dessert that can be tasted in our land.
+Albariño from the Rías Baixas is the obvious match for seafood. For red wine, look for Mencía from the Ribeira Sacra or Bierzo. After dinner, expect a shot of orujo — the local grape spirit, sometimes served flaming in a clay bowl as a queimada.

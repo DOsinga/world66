@@ -3,22 +3,10 @@ title: "Shopping"
 type: section
 ---
 
-You can shop till you drop. But where to start? Here are a few hints.
+Hong Kong Island covers the range from Causeway Bay's dense shopping streets to the market at Stanley on the south coast.
 
-**Shops**
+**Causeway Bay** is the island's main shopping district outside of Central, with department stores, street-level fashion shops, and the vast Times Square mall. The area around Fashion Walk (Great George Street, Kingston Street) has a mix of independent and international labels. Pedestrian traffic on weekends is intense.
 
-**Stanley Market**
+**Central and SoHo** have high-end fashion boutiques and gallery-shops in the Pedder Building area, along with the Lane Crawford flagship in IFC. The antique dealers on Hollywood Road in Sheung Wan are the best in Hong Kong for Chinese furniture, ceramics, and paintings — quality varies considerably but serious pieces are here.
 
-Stanley Market is the perfect place to pick up a present for the people back home. The market closes at 18:00 hours. 
-
-**Cityplaza Shopping Centre **
-
- On 111 King's Road, this is a big shopping centre.
-
-**Island Beverley **
-
- On Great George Street in Causeway Bay this is a big place.
-
-**Pacific Place**
-
-Pacific Place, one of Hong Kong's most popular malls, is the ideal place to go in this area. You'll find perfect gift ideas within its 130-plus outlets, including Marks & Spencer, Lane Crawford, Seibu and top designer labels. Pacific Place is connected to the Admiralty MTR Station.
+**Stanley Market** on the south coast sells silks, linen, Chinese antiques and curios in a relaxed setting. Worth visiting as part of a south-side excursion rather than a special trip. [Pacific Place](/asia/china/hongkong/hongkongisland/shopping/pacific_place) in Admiralty is the island's most convenient upmarket mall, connected directly to the MTR.

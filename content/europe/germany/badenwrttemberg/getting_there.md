@@ -1,35 +1,14 @@
 ---
-title: "Getting There in Baden-Wurttemberg"
+title: "Getting There"
 type: section
 ---
 
-When planning your trip to **Baden-Wurttemberg**, **Getting There** is one of the first things that you need to plan. The state of Baden-Wurrtemberg
-is among the top 3 largest states of Germany with about 37,000 square
-km (approximately 13,800 square miles), so there are a lot of
-arrival cities to choose from. Here are some ideas on how to get to
-Stuttgart and Heilbronn in Baden-Wurttenberg.
+The main entry point to Baden-Württemberg by air is **Stuttgart Airport** (STR), located south of the city centre and connected to it by S-Bahn line S2 or S3 in about 27 minutes. Lufthansa, Eurowings, and several other European carriers serve Stuttgart. Fares from within Europe are often reasonable if booked ahead.
 
-**Getting To Stuttgart**
+**Freiburg** has no commercial airport but sits close to **Euro Airport Basel-Mulhouse-Freiburg** (BSL/MLH/EAP), shared between Switzerland and France, which serves more routes than Stuttgart and is around 50 minutes by bus. Buses run direct from Freiburg main station. **Karlsruhe/Baden-Baden Airport** (FKB) is served mainly by Ryanair and handles a handful of European routes.
 
-Stuttgart is served by the Stuttgart International Airport (IATA airport code: STR) which is nearby the A8 roadway in the southern region of the city. Given that Stuttgart is the capital of Baden-Wurttemberg, it is a good idea to start your search for airfares with this city.
+By rail, Baden-Württemberg is well integrated into the German and European ICE network. Stuttgart is a major hub: direct ICE trains connect it to Frankfurt (about 1 hour), Munich (about 2 hours 15 minutes), and Berlin (around 4 hours 30 minutes). Freiburg sits on the main Mannheim–Basel line and is 1 hour from Basel and about 2 hours from Zurich by IC.
 
-**Getting to Heilbronn**
+If you're coming from France, Eurostar connections via Paris or direct TGV trains from Paris to Stuttgart (around 3 hours 15 minutes) make rail an attractive alternative to flying.
 
-Even though this city does not have its
-own airport, it is well-connected through the German road and rail
-systems. There are direct connections via rail with Stuttgart, Wurzburg and Heidelberg. Street rail connects Heilbronn with cities as far as Karlsruhe. On the northeast of the city you can find the
-intersection of the A81 and A6 highways, meaning that the city is
-accessible from several cities by car. When driving on Germany's
-speedways, be aware that only certain zones don't have a speed limit.
-These zones are clearly marked with road signs shaped as circles and
-are gray in color.
-
-**Flying within Europe**
-
-If you're traveling to Baden-Wurttemberg from any place in Europe, it is a good idea to check out flight and fares from Germanwings and Ryanair
-because they both offer great discounts to destinations in and nearby
-this German state. To guarantee the lowest fare, book your flight with at least
-a week in advance.
-
-**Contributors**
-March 03, 2010
+Driving into Baden-Württemberg is easy on the A8 (Munich–Stuttgart) and A5 (Frankfurt–Basel) autobahns. The German motorway network is generally excellent, though roadworks on the A8 around Stuttgart are a perennial frustration.

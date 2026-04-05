@@ -1,6 +1,8 @@
 ---
 title: "The Land of the Cathars"
-type: location
+type: section
+latitude: 43.0500
+longitude: 2.3500
 ---
 
 The province
@@ -115,5 +117,3 @@ Middle Ages. In an era of violence it preached peace and tolerance, and in this
 land of Occitania its memory lives on in those
 lofty memorials to those who died so cruelly for their beliefs.
 
-**Contributors**
-May 03, 2005

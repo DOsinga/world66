@@ -5,8 +5,6 @@ latitude: 34.42927
 longitude: 75.750761
 ---
 
-Travel Guide
-
 Drass is a small village in Kargil district, derives its name from the
 Drass valley that adjoins Suru and Zanskar valleys in the Norther
 Himalayas. The Indo-Pak Kargil war of

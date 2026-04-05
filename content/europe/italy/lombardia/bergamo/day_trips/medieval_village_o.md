@@ -1,8 +1,10 @@
 ---
 title: "Medieval Village of Oneta & Cornello dei Tasso"
 type: poi
-address: "Cornello dei Tasso, Brembana Valley"
+address: "Cornello dei Tasso, Valle Brembana"
 url: "www.brembana.info"
+latitude: 45.870000
+longitude: 9.630000
 ---
 
 The house of Harlequin is in the Medieval village of Oneta, which consisted of a population comprised of mostly of farmers with their houses, barns sheds, and animal pens clustered around the center of the village, which was surrounded by plowed fields and pastures. Medieval society depended on the village for protection and a majority of people during these centuries called a village home. Most were born, toiled, married, had children and later died within the village, rarely venturing beyond its boundaries. Hours:** **10-12 e 15-18 Tel: 0345.43262 by reservation only.

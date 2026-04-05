@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Southern France"
+title: "Day Trips"
 type: section
 ---
 

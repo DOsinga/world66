@@ -3,16 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-## Categories
-
-[Indonesian](/europe/germany/berlin/berlinmitte/eatingout?subsection=Indonesian)
-[Jewish](/europe/germany/berlin/berlinmitte/eatingout?subsection=Jewish)
-[International](/europe/germany/berlin/berlinmitte/eatingout?subsection=International)
-
-[South American](/europe/germany/berlin/berlinmitte/eatingout?subsection=South%20American)
-[Indian](/europe/germany/berlin/berlinmitte/eatingout?subsection=Indian)
-[Thai](/europe/germany/berlin/berlinmitte/eatingout?subsection=Thai)
-
-[Italian](/europe/germany/berlin/berlinmitte/eatingout?subsection=Italian)
-[Greek](/europe/germany/berlin/berlinmitte/eatingout?subsection=Greek)
-[Spanish](/europe/germany/berlin/berlinmitte/eatingout?subsection=Spanish)
+Mitte's restaurant scene runs the full range from tourist-trap to genuinely excellent. Around Hackescher Markt and the Hackesche Höfe you'll find good Vietnamese, Indian, and international options at reasonable prices. Oranienburger Straße is more tourist-facing and correspondingly more expensive. The best spots are often tucked into the side streets around Rosenthaler Platz — worth exploring on foot rather than booking in advance.

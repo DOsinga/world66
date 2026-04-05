@@ -5,8 +5,8 @@ latitude: 10.233712
 longitude: 77.491972
 ---
 
-Kodaikanal is a charming hill station, dating from the time the British ruled and needed an alternative for the hot lowlands. It can be reached easily by bus from Madurai. It is a nice change of scenery and the perfect spot to relax, do some hiking or row a boat on the lake. There are some good points from which you can have splendid views of the surroundings (that is, when the clouds don’t take away the view). It can get quite foggy but normally it does not get really cold, so you don’t have to carry a round winter coats.
+Kodaikanal is the most appealing hill station in Tamil Nadu, sitting at 2,133 metres in the Palani Hills, 120 km northwest of Madurai. The British established it in the 1840s as a summer retreat from the Madurai heat, and unlike Ooty it has retained something of that quiet quality — though it gets very crowded in April and May when the plains become unbearable.
 
+The centre of everything is Kodai Lake, a star-shaped artificial lake ringed by hired bicycles and boat rental. The eucalyptus and pine forests smell different to anything on the plains, and on clear days the views down the escarpment to the lowlands 2,000 metres below are extraordinary.
 
- 
- In order to reach Kodaikanal, you have to take the bus. As you might gather, the road to the top is a small and winding one that does offer astonishing views but at the same time makes you believe that this will be your final destination as well. (And it isn't Kodaikanal that is meant by ‘final destination’.)
+Getting there is an experience in itself: the road up from Kodaikanal Road (the railhead, 80 km below) is a spectacular succession of hairpin bends through shola forest. The nearest airport is at Madurai, 120 km away; buses and taxis from Madurai take 3-4 hours.

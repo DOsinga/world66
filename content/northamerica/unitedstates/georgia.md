@@ -5,30 +5,12 @@ latitude: 32.329381
 longitude: -83.113737
 ---
 
-Welcome to Georgia, the Peach State! Georgia gets this nickname
- from one of its most famous crops. From the Blue Ridge Mountains
- in the North to the beautiful beaches along the Atlantic Coast;
- from the thriving, bustling metropolis of [Atlanta](/northamerica/unitedstates/georgia/atlanta), to the relaxed,
- languid atmosphere of [Savannah](/northamerica/unitedstates/georgia/savannah) and the smaller cities and towns,
- this state in the southeastern United States has something to
- offer everyone. 
- 
+Georgia spans from the Blue Ridge Mountains in the north to the Atlantic barrier islands and the coastal plain in the south — a range that gives the state more geographic and cultural variety than most of its neighbors. The Peach State's best-known exports are peaches (of course), Vidalia onions, and an outsized influence on American music, from country to soul to hip-hop.
 
-Atlanta (metropolitan population approx. 3.5 million), the
- largest city in the southeastern United States, has become a world
- class city and was host of the 1996 Summer Olympics. Atlantans
- have access to world class entertainment, including the Atlanta
- Symphony Orchestra (consistently ranked as one of the top American
- orchestras) and the Atlanta Opera, and the city boasts a vibrant
- nightlife and the busiest international airport in the world.
- 
- 
+[Atlanta](/northamerica/unitedstates/georgia/atlanta) is the dominant city, a sprawling metro of around six million people and the busiest airport in the world. It hosted the 1996 Summer Olympics and is home to CNN, Coca-Cola, Delta Air Lines, and the Centers for Disease Control. It's also the birthplace of Dr. Martin Luther King Jr. and the heart of the modern Civil Rights movement.
 
-From the fouding of Georgia as Britain's thirteenth colony
- in 1733, to the tragedy of the American Civil War, to the Civil
- Rights struggle led by one of Atlanta's most famous sons, Dr.
- Martin Luther King Jr., there is a strong sense of history to
- be encountered at every turn in Georgia.
- 
+Beyond Atlanta, Georgia rewards slower travel. [Savannah](/northamerica/unitedstates/georgia/savannah) is one of the most beautiful cities in the American South — its grid of shaded squares, Federal-era townhouses, and Spanish-moss-draped oaks has barely changed since the 19th century. The Golden Isles — St. Simons, Jekyll, and Cumberland islands — offer quiet beaches along the Atlantic coast. The north Georgia mountains around Helen and Hiawassee are popular for fall foliage, hiking, and whitewater rafting.
 
-Welcome to Georgia, where there is truly something for everyone!
+History runs deep here. [Andersonville](/northamerica/unitedstates/georgia/andersonville) preserves the site of the notorious Civil War prison camp, now a somber national historic site. [Augusta](/northamerica/unitedstates/georgia/augusta) hosts the Masters golf tournament each spring. [Athens](/northamerica/unitedstates/georgia/athens) is a university town with a live music scene that produced R.E.M. and the B-52s.
+
+Georgia's climate is humid and subtropical. Summers are hot and sticky across most of the state, while the mountains offer some relief. Spring and autumn are the most pleasant seasons for outdoor travel.

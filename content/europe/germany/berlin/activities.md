@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Activities"
 type: section
 ---
 
-Berlin is a big city. That means you will find here the leisure time activities that you would find in every big city all over the world. Let's have a look at some highlights ...
+Beyond the museums and monuments, Berlin has a strong culture of outdoor activity and offbeat experiences. The Tiergarten offers 210 hectares of parkland for cycling and running in the middle of the city. The river beaches (Wannsee, Müggelsee) come alive in summer. Street art tours, canal boat trips, and flea markets at Mauerpark or Arkonaplatz are mainstays of the Berlin weekend.

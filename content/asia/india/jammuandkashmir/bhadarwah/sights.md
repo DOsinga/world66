@@ -3,40 +3,12 @@ title: "Sights"
 type: section
 ---
 
-Bhadarwah has very old and historic religious places that are worth
-to see such as:
+Bhadarwah's main attractions are its natural landscapes and old religious sites.
 
-1. Temples of Gupt Ganga, Vasuki Nag, Atalgarh, Bhadrakali, Chinot, Laxminarayan and Durga Devi.
+The historic temples include Gupt Ganga, Vasuki Nag, Atalgarh Fort, Bhadrakali, Laxminarayan, and Durga Devi — all within or near the town. Bhadarwah Fort and the walk through Parla Bazar give a good sense of the old town.
 
-2. Bhadarwah Fort, Walk through Parla Bazar, Govt.Degree College and onwards to Ghatha and Fish Pond.
+The countryside around the town offers alpine meadows (Jai and Chinta meadows are the main ones), Ashapati Glacier, and the natural springs and rivers that characterise the valley. Traditional step farming using bullocks is still practiced in the villages of Sertingal, Nalthi, and Paneja — worth visiting to see agricultural methods that have changed little in centuries.
 
-3. The Grassy Meadows of Jai and Chinta.
+The trek to Mount Kailash (5,029 m) is doable in August; it requires no technical skills and horses and porters are available locally. The trek follows traditional pilgrimage routes and the views at the top are exceptional.
 
-4. Ashapati Glacier.
-
-5. The Villeges of Sertingal, Nalthi and Paneja.
-
-6. Trek to Mount Kailash during August ( 16500 FT.)
-The trek is easy and requires no training for trekking. Horses and
-Porters are available.
-
-7. Natural Springs and rivers of Bhadarwah.
-
-8. Step Farming: Still Old method of farming is used e.g.
-ploughing by bulls, carrying paddy plants on big baskets tied at the
-back of the farmers, etc.
-
-9. Till today in some places the running water of rivers is used to transport wooden logs from one place to another.
-
-10. Till Today in some places one can see the Food
-grain grinders operating from fast flow of river water without using
-any electricity.
-
-11. The Flore and fauna of Bhadarwah.
-
-12. The Cultural dances of Bhadarwah by
-locals. Bagpiper music and band during weddings and other ceremonies and
-festivals.
-
-**Contributors**
-July 11, 2006
+Local culture is distinct from the Kashmir Valley: Bhadarwah has its own folk music traditions including bagpiper bands (an unusual Himalayan instrument combination) and distinctive dances at festivals and weddings.

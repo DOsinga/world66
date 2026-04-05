@@ -1,11 +1,9 @@
 ---
-title: "Chennai Museum"
+title: "Government Museum Chennai"
 type: poi
-type: "Museums"
+address: "Pantheon Road, Egmore, Chennai"
 latitude: 13.071281
 longitude: 80.257043
 ---
 
-Established in 1857, the Chennai Museum is undoubtedly one of the country's best museums located at Egmore. It has sections devoted to Geology, Archeology, Anthropology, Numismatics, Botany, Zoology and Sculpture besides which there is good collection of arms & armour as well as several other specimens of Anthropological interest. The museum's prized possessions however, are the relics from the 2nd century A.D Buddhist site at Amravathi & Pre-Historic exhibits from the stone & iron ages. the bronze gallery with its ancient icons & modern bronzes is perhaps the best found anywhere in the world.
-
-type: Museums
+Established in 1857, the Government Museum at Egmore is one of the best museums in south India. The bronze gallery holds an outstanding collection of Chola bronzes from the 9th to 13th centuries — the finest of their kind. The archaeology section has exhibits from the Buddhist site at Amaravati (2nd century AD) and prehistoric finds from Tamil Nadu. Other sections cover geology, anthropology, numismatics, and zoology. Worth two hours at least.

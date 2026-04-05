@@ -3,15 +3,10 @@ title: "Festivals"
 type: section
 ---
 
-Please find Madurai area festivals below.
+Madurai has one of the richest festival calendars in Tamil Nadu.
 
-**Contributors**
-March 19, 2006
+**Jallikattu** (bull-taming) takes place in villages near Madurai during Pongal in January. Young men compete to hold on to the hump of a running bull. The festival is controversial — it was banned and then reinstated after mass protests — but if you're in the area during Pongal, the village events at Alanganallur and Palamedu are extraordinary spectacles.
 
-### [Bull Taming Festivals](/asia/india/tamilnadu/madurai/festivals/bull_taming_festiv)
+**Chithirai Festival** at the Meenakshi Amman Temple in April is Madurai's biggest religious event, drawing over a million pilgrims over ten days. The celestial marriage of Meenakshi and Sundareswarar is celebrated with massive processions.
 
-Not to miss during the annual harvest season are the spectacular bull-taming festivals held in some villages near Madurai. Hundreds of young men compete for pride, status and the prizes to win. The bull is released into the crowd and the bravest daredevils try taming it by jumping on to its back.
-
-
-
-[[rate it]](/asia/india/tamilnadu/madurai/festivals/bull_taming_festiv)
+**Floating Festival** (Teppam) at the Vandiyur Mariamman Teppakulam tank takes place in January-February (Thai month). Illuminated floats carrying the temple deities are taken in procession around the vast tank by night — one of the more beautiful temple festivals in south India.

@@ -1,49 +1,30 @@
 ---
-title: "Beaches in Sardinia"
+title: "Beaches"
 type: section
 ---
 
-Sardinia is a magical Italian island with long sandy coasts, clear,
-turquoise water, stunning rocky coves, and inland lakes to be enjoyed
-by tourists and locals alike. Here are just a few of the fabulous
-beaches to be discovered in Sardinia.
+Sardinia's beaches deserve their reputation as among the finest in Europe. The water is a clear, translucent turquoise — the result of granite and limestone seabeds and minimal river runoff — and the sand ranges from white to rose-pink. Here are some of the best.
 
-**Portobello and Pula**
+**La Pelosa (Stintino, northwest)**
 
-On the northern coast of Sardinia, called Portobello, there are some
-spectacular beaches, particularly for families with kids of all ages.
-Rena Majori beach is a huge, white stretch of fine sand with clear blue
-water lapping the shoreline. Even at times of year with the most
-tourists, this beach is not crowded. You can feel free to spread out
-and enjoy the space, the fresh air, and the view. Sunbathing, sand
-castle building, wading, and swimming are just a few of the excellent
-Rena Majori activities. Vignola Beach is also a great bet for families.
-The water is calm, safe, and clear, perfect for young children to wade
-in and explore.
+Arguably the island's most photographed beach. A long, shallow arc of white sand with water so clear and still it looks artificial. Gets extremely crowded in August — arrive early or out of season. Near the Asinara island nature reserve.
 
-Pula is a very historic coast. Roman ruins, Spanish watchtowers and
-an amphitheater are just a few of the archaeological wonders to be
-found there. The historical significance of the area only adds to the
-already woundrous natural beauty of the white sand beaches. There are
-plenty of beaches for sunbathing, swimming, windsurfing, and more.
+**Piscinas (Costa Verde, southwest)**
 
-**Costa Rei**
+A vast beach backed by enormous sand dunes and 19th-century mining ruins. The contrast of the abandoned industrial landscape and the wild empty beach is striking. Very hard to reach without a car — which keeps it quiet even in summer.
 
-One of the most well known Sardinian coasts, Costa Rei is located in
-the southeastern part of the island. There are many tiny islets off of
-this coast that are fun to explore. The water is a translucent
-turquoise, as it is on basically every beach on Sardinia, and the coast
-is connected to a lake system around which many rare birds can be
-observed. Apart from the wide, family friendly, white sand beaches,
-there are also rocky shorelines that make up Costa Rei, and many
-visitors go to the area simply to check out the interesting rock
-formations made by Mother Nature, herself. There are windsurfing
-rentals in the area as well as a nice diving center.
+**Cala Goloritzé (Gulf of Orosei, east)**
 
-**Villasimius**
+Reachable only by boat or a steep two-hour hike down from the plateau above Baunei. A small, perfect cove of white pebbles and limestone pinnacles rising from turquoise water. A UNESCO World Heritage Site. The effort is absolutely worth it.
 
-Some of the island´s most beautiful beaches are located in the
-village of Villasimius. Spiaggia di Porto Giunco is a gorgeous beach in
-the town with calm, crystal clear waters, and plenty of spectacular
-seascapes, especially around sunset. Cala Pira Bay is in Villasimius as
-well, and it is the perfect place to get in the warm water and swim.
+**Villasimius (southeast)**
+
+The area around this small town has some of the island's best beaches. Spiaggia di Porto Giunco is a long sweep of fine sand beside a flamingo lagoon. Cala Pira and Simius beach are also excellent. Busy in summer but the area is large enough to spread out.
+
+**Budelli — Spiaggia Rosa (La Maddalena Archipelago)**
+
+The famous pink-sand beach, coloured by fragments of coral and shells. Access is now restricted to protect the environment — you can view it from a boat but cannot land. Day trips from Palau or La Maddalena town.
+
+**Costa Rei (southeast)**
+
+A long stretch of fine white sand backed by low scrub, with small islets offshore. Less developed than the Costa Smeralda, and good for windsurfing. The area connects to a lagoon system where flamingos and herons can be seen.

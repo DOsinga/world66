@@ -1,9 +1,7 @@
 ---
 title: "Prosecco Wine Route"
-type: location
+type: section
 ---
-
-Travel Guide
 
 The Prosecco wine route winds around through the
 vineyard-covered hills between Conegliano, Vittorio Veneto and

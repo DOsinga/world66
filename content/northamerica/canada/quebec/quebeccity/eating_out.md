@@ -1,50 +1,12 @@
 ---
-title: "Eating Out"
+title: "Eating Out in Québec City"
 type: section
 ---
 
-Please feel free to recommend a restaurant you enjoyed.
+Québec City has one of the best food scenes in Canada. The cuisine is rooted in French tradition but distinctly Québécois — rich, seasonal, and more generous with maple syrup, pork and cheese than anything you'd find in France. The city has a concentration of excellent restaurants in the Old City and the Saint-Jean-Baptiste neighbourhood.
 
-**Restaurants**
+**Rue Saint-Jean** (both inside and outside the old walls) is the best street for restaurants. **Rue du Petit-Champlain** in the Lower Town is touristy but has some genuinely good places alongside the tourist traps.
 
-**Restaurant Primavera . **
+Local dishes to try: **tourtière** (a spiced meat pie traditionally made with pork or game), **cretons** (a spreadable pork pâté), **tarte au sucre** (a sweet maple-sugar tart), and poutine, which is taken very seriously here.
 
-Tel: 418 694-0030 
-
-Address: 73 rue St-Louis Québec PQ G1R 3Z2  
-
-**Restaurant Le Portugais . **
-
-Tel: 418 529-1675 
-
-Address: 1155 de la Chevrotiere, Quebec QC  
-
-**Restaurant le Marie Clarisse . **
-
-Tel: 418 692-4455 
-
-Address: 12 Petit Champlain Québec PQ GIK 4H4  
-
-**Commensal, Le.**
-
-Vegetarian restaurant
-
-Tel: 418 647-3733  
-
-** Restaurant Mandarin . **
-
-Tel: 418 692-0909 
-
-Address: 65 rue d'Auteuil Québec PQ G1R 4C2  
-
-**Restaurant Gambrinus . **
-
-Tel: 418 692-5144 
-
-Address: 15 rue du Fort Québec PQ G1R 3W9  
-
-**Aviatic Club . **
-
-Tel: 418 522-3555 
-
-Address: 450 Gare du Palais Quebec QC
+**Restaurant Champlain** at the Château Frontenac (418 692-3861; 1 rue des Carrières) is one of the most celebrated dining rooms in the city — formal, expensive, and excellent. For a more casual meal, **Apsara** (71 rue d'Auteuil; 418 694-0232) serves reliable Southeast Asian food at reasonable prices just inside the old walls.

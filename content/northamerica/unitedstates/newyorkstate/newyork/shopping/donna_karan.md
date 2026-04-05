@@ -1,7 +1,9 @@
 ---
 title: "Donna Karan"
 type: poi
-address: "819 Madison Ave  Near 68th St."
+address: "819 Madison Ave"
+latitude: 40.769900
+longitude: -73.966800
 type: "Shopping centers and malls"
 ---
 

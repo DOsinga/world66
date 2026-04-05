@@ -1,10 +1,6 @@
 ---
 title: "Movies"
-type: location
+type: section
 ---
 
-Cairo is the center of the Arabic speaking world when it comes to the production of movies. The movie festival held in Cairo is the biggest event in its kind in the Middle East. Allthough local movies are probably quite hard to follow for the average tourist, they often give a nice idea of the local culture. Although it might be a nice idea, you don't even have to go to the cinema to see these films. Older movies are shown all day on TV, in bars and restaurants.
-
- For a (foreign) woman it may not be a wise idea to go to a film alone, especially if the film contains scenes that according to Egyptian habits may be considered explicit.
-
- For more info on the Cairo International Film Festival check this site.
+Cairo is the Hollywood of the Arab world — it has dominated Arabic-language cinema since the 1930s and still produces more films than anywhere else in the region. The Cairo International Film Festival in December is the biggest film event in the Middle East. Even if you don't speak Arabic, watching an Egyptian film in a local cinema or on TV in a café gives a vivid window into contemporary Egyptian life; the country's classic films are constantly rerun. Note that solo women may attract unwanted attention in local cinemas if the film has any content deemed explicit by Egyptian standards.

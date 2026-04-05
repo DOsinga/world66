@@ -1,11 +1,6 @@
 ---
 title: "Shopping"
 type: section
-address: "Ponte della Guerra, Saint Mark"
-email: "info@itremercanti.it"
-phone: "+390415222901"
-type: "Speciality shops"
-url: "www.itremercanti.it"
 ---
 
 Don't expect to find any mega malls or massive department stores during your Venice vacation. What you will find are interesting markets, unique shopping streets, antique shops, and bookstores. Venice is known for glass and lace, so you will also find thousands of places to buy glassware and dozens of lace vendors centered on Piazza San Marco. Continue reading through the listings below to find out where to buy what in Venice!

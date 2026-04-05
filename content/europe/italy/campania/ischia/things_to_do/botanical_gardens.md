@@ -1,21 +1,13 @@
 ---
-title: "Botanical Gardens 'La Mortella'"
+title: "La Mortella Botanical Gardens"
 type: poi
-accessibility: "Above St Francis of Paola Church, Spiaggia St. Francesco, Forio"
-address: "Via F Calise 39, 80075 Forio, Isola di Ischia (NA)"
-email: "info@lamortella.it"
-phone: "0039 081 986220/Fax 0039 081 986237"
-type: "Other"
+address: "Via F. Calise 39, Forio d'Ischia"
+phone: "+39 081 986220"
 url: "www.lamortella.it"
+email: "info@lamortella.it"
+opening_hours: "Tue/Thu/Sat/Sun 9:00-19:00, April-November only"
+latitude: 40.734389
+longitude: 13.859444
 ---
 
-"La Mortella" was created by the wife of one of the most famous English composers of the twentieth century, William Walton.
-
-Open from April to November on Tuesday, Thursday, Saturday and Sunday - 9 am- 7 pm. Entrance fee to be paid at the entrance. There is free parking at the top of the hill where there is also another entrance. Maps are free of the entire Garden and there is a small print-out in different languages explaining "The Victoria Amazonica, Nymphaeum and The Temple of the Sun."
-
-Also you will find a tea house with snacks, a shop, many restrooms, and a Greek Amphi-theatre with evening concerts in the summer according to schedule. Instead in Spring and Fall the concerts are in the Recital Hall every week-end on Saturday at 5 pm and Sunday at 4:30 and 6 pm.
-
-**Contributors**
-June 22, 2006
-
-type: Other
+Created by Susana Walton, wife of composer William Walton, in a former rock quarry on the slopes of Monte Zaro. Over 800 plant species including tropical rarities, a nymphaeum, cascades, a Thai Sunhouse, and a Greek amphitheatre where concerts are held in summer. Free parking above the main entrance. A tea house and shop are on site.

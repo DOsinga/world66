@@ -3,37 +3,12 @@ title: "Getting Around in West Bengal"
 type: section
 ---
 
-Normal
-0
+West Bengal's internal transport is reasonably good, with trains doing the heavy lifting between major cities and towns.
 
-false
-false
-false
+**By train:** The Indian Railways network covers West Bengal well. From Kolkata, frequent trains reach Darjeeling (change at New Jalpaiguri), Durgapur, Asansol, Bardhaman, Krishnanagar, and Nabadwip. The narrow-gauge Darjeeling Himalayan Railway (the Toy Train) runs from New Jalpaiguri up to Darjeeling via Kurseong; this is itself a reason to visit, listed as a UNESCO World Heritage site. Journey time is around 7 hours. Faster road transport cuts this to 3–4 hours.
 
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
+**By road:** State and private buses connect cities across the state. Long-distance buses from Kolkata serve Darjeeling, Siliguri, Durgapur, Digha, and most other towns. For the coast — Digha, Mandarmani, Shankarpur — buses from Kolkata's Esplanade or private cars are the standard option. Shared taxis and jeeps are common in the hill areas around Darjeeling and Kalimpong, connecting towns that trains don't reach.
 
-The recent boom in telecommunication sector has certainly
-acted for the benefit of the mobile manufacturers. Especially for the new
-players. When you pay a look at the offerings of these new players like Karbonn, the
-immediate fact that will grab your attention is the price advantage. If you are
-looking for the quality features, yet at comparatively lower price than the
-established players, then certainly Karbonn is the pick for you. And RightGadgets.in is here to make this shopping for you further beneficial with its
-healthy range of price discounts. Models like Karbonn
-K770 Mobile Phone, Karbonn K25 Mobile Phone, Karbonn K19 Mobile Phone, Karbonn
-K1 Mobile Phone, KARBONN-K390-Mobile Phone, Karbonn K30 Mobile Phone, Karbonn
-K496 Mobile Phone, KARBONN-K111-Mobile Phone, Karbonn K1212 Mobile Phone,
-Karbonn K 777 Mobile Phone, Karbonn K488 Mobile Phone are rich in features, and your trip to
-the Karbonn mobile specific link that www.rightgadgets.in has in operation lets you have them under a single roof.
-These models are studded with the utility features like TFT screen, huge
-memories with expandability, multiple pixel cameras, music keys, mp3 players,
-card slot, FM radios, etc, and are available without pinching your pocket much.
-Advanced level features like Dual SIM dual, standby single working 3 Front and
-Back Changeable Panels, WAP/MMSGPRS connectivity, Class 12Bluetooth, A2DPVoice
-Recorder, FM Radio Recording, Background Sound changer, Dual Camera, media
-player for music and for video playback, as well that supports all standard,
-capability of formatting the supported image formats. Just a look inside the RightGadgets.in special link for Karbonn mobiles will fetch all these feature mobile
-collections right at you. It’s a feature rich catalog of Karbonn mobiles that www.rightgadgets.in/it.asp?C=Karbonn&it=Karbonn-Mobiles-Phones&ct=1
-has for you, and mobiles in
-the form of the simplistic CDMA sets, or the advanced level Android, GPRS, GSM, Smartphone models. Models like Karbonn mobile sets.
+**By ferry:** The Hooghly River is still a working waterway. Local ferries cross between Kolkata and Howrah and connect riverside ghats. For Bakkhali, you cross the Hatania Doania river by ferry from Namkhana. In the Sundarbans, boats are the only way to move between islands.
+
+**Within Kolkata:** The city has a metro (the oldest in India, opened 1984), buses, trams, and the famous hand-pulled rickshaws of Shyambazar. Taxis and auto-rickshaws are plentiful; app-based cabs (Ola, Uber) operate widely. The metro is by far the fastest way to move north–south through the city.

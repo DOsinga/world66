@@ -1,26 +1,18 @@
 ---
-title: "Sights"
+title: "Sights in Pompeii"
 type: section
 ---
 
-Of course, Pompeii is one big sight, but there are a few highlights you really don't want to miss.
+The entire archaeological site is the sight — but some areas deserve special attention.
 
-**all**
+**Amphitheatre** — The oldest surviving Roman amphitheatre in the world (c. 70 BC). Capacity 20,000. At the eastern end of the site.
 
-**Amphitheatre**
+**House of the Vettii** — The most elaborately decorated house in Pompeii, owned by two wealthy freedmen. Extraordinary frescos in the triclinium (dining room), including the famous Priapus painting at the entrance.
 
-The amphitheatre was once the warm hart of Pompeii entertainment. Gladiator fights were immensly popular in the Roman empire, and especially in Campania, where fights took place as early as the fouth century BC. One battle in the theatre of Pompeii was so large and bloody, that it even made Tacit [more..](/europe/italy/campania/pompeii/sights/amphitheatre)
+**House of the Tragic Poet** — A smaller, more modest house, known for its entrance mosaic of a chained dog with the inscription *Cave Canem* (Beware of the Dog).
 
-**House of the Vettii**
+**Villa of Mysteries** — Outside the main city walls, about 400m from the Porta Ercolano entrance. The largest known example of a Pompeian suburban villa, with a spectacular continuous fresco of a Dionysian initiation ritual — arguably the finest fresco of antiquity.
 
-This luxurious patrician villa is a good example of the taste of the last years of Pompeii. It belonged to two rich noblemen, Aulus Vettius Restitutus and Aulus Vettius Conviva, and had recently been renovated when the vulcano erupted.
+**The Forum** — The civic and commercial centre. Surrounded by temples, market halls, and the basilica (law courts). The plaster casts of victims are displayed in a small shed here.
 
- It is beutifully preserved. You can walk around inside a [more..](/europe/italy/campania/pompeii/sights/houseofthevettii)
-
-**House of the Tragic Poet**
-
-This is a good example of a house built during the Roman empire. It is not very big, with intimate rooms. Connected to the house are to tabernae or shops, indicating that the house belonged to a merchant. The entrance has a charming mosaic: a large chained dog and the motto *Cave Canem* (B [more..](/europe/italy/campania/pompeii/sights/houseofthetragicpoet)
-
-**Villa of Mysteries**
-
-The Villa is located on a slope, and is a fine example of a suburban antique villa. It is a small maze of living rooms, servant quarters, kitchens and gardens. The main attraction of the villa is the amazing fresco of a dionysian ritual. This is probably the most famous fresco of antiquity, both [more..](/europe/italy/campania/pompeii/sights/villaofmysteries)
+**Lupanar (Brothel)** — Near the Forum. Small rooms with stone beds and explicit painted panels above each door identifying the services available.

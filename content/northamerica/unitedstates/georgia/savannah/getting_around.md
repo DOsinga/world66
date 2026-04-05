@@ -1,14 +1,18 @@
 ---
-title: "Getting Around in Savannah"
+title: "Getting Around Savannah"
 type: section
 ---
 
-**Planters Inn on Reynolds Square.**
+The historic district is compact and entirely walkable. Most major attractions, restaurants, and squares are within easy walking distance of each other. Wear comfortable shoes — the brick and cobblestone streets are uneven.
 
-The Planters Inn on Reynolds Square, Savannah - a spectacular hotel in Savannah, Georgia. Stay at the Planters Inn on
-Reynolds Square - an upscale hotel in Savannah, GA offering fabulous
-accommodations, a convenient downtown location, free Internet access,
-and easy walkable access to local attractions and beaches. To get more information, visit http://www.plantersinnsavannah.com or Call 800-554-1187
-**Location:** 29 Abercorn St., Savannah, Georgia (GA) 31401
-**Phone:** 912-232-5678 **Fax:** 912-232-8893
-**Email:** marc@savannahplantersinn.com
+**On foot and by bike**
+
+Walking is the best way to experience Savannah's squares and architecture. The grid layout makes navigation easy. Bikes are available to rent from several shops in the historic district.
+
+**DOT Trolley**
+
+The free DOT (Department of Transportation) shuttle runs through the historic district, stopping at major attractions. It's a useful backup when you don't want to walk, though routes and schedules should be checked locally as they change seasonally.
+
+**Car**
+
+Parking in the historic district is limited. Most visitors find it easier to leave the car at their hotel and walk or take a rideshare within the district. A car is essential if you're heading to Tybee Island (about 18 miles east) or exploring outlying areas.

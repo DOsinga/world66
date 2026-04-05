@@ -3,8 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-**all**
-
-**Library**
-
-Library of Arabic, English,and French books. OPEN 9 AM TO 1 PM AND 7 PM TO 10 PM next to Winter palace hotel.
+Luxor's bazaars cluster around the East Bank near Luxor Temple. Alabaster carvings, papyrus, and replica cartouches are everywhere — bargaining is expected and prices start high. The quality varies enormously, so take your time. Avoid shops directly attached to temple entrances, where prices are inflated.

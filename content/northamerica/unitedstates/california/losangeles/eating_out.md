@@ -3,12 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
-
-**San Antonio Winery/Maddalena Restaurant**
-
-L.A.'s only producing winery, restaurant. Landmark open 7 days. Tours, tasting, restaurant, gift shop. Italian, Californian cuisine. Banquet facilities, special events. 737 Lamar St. 90031 323/223-1401 Fax: 323/221-7261 www.sanantoniowinery.com Wheelchair Access 
-
-**County Ruby's Diner**
-
-Open for breakfast, lunch, and dinner. Enjoy a variety of delicious breakfasts, sandwiches, dinner specialties, thick shakes, and don't forget, their award-winning RubyBurgers! Call for the location nearest you. 800/HEY-RUBY www.rubys.com Wheelchair Access
+Los Angeles has one of the most genuinely diverse food cities in the world — not just in variety but in quality at every price point. The best tacos cost $2 and come from a truck. The best sushi rivals anything in Tokyo. You can find exceptional Ethiopian, Oaxacan, Persian, Korean, Vietnamese, and Salvadoran food all within a few miles of each other in a city where every immigrant community has maintained its culinary traditions rather than assimilating them away. Don't let anyone tell you the food is all sunshine and salads.

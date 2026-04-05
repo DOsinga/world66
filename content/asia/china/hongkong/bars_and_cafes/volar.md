@@ -1,16 +1,10 @@
 ---
 title: "Volar"
 type: poi
-address: "Basement 38-44 D'Aguilar St, Lan Kwai Fong"
+address: "Basement, 38-44 D'Aguilar St, Lan Kwai Fong"
 phone: "2810 1510"
+latitude: 22.2808
+longitude: 114.1544
 ---
 
-Probably the place hardest for a traveler to get into on Saturday night, primarily due to its small space and the crowds to jam in on the hype. This venue plays host to world-renowned DJs as well as their own much-loved resident spinners. The beautiful and famous can all be found here dancing the night away. But be warned - hanging out with the cool set comes at a price, In this case it's not money, it's the almost guaranteed humiliation of being rejected at the door unless you 1) have a reservation 2) are a model or celeb 3) are a member. Otherwise you'll be turned away along with all the other wannabees.
-
-
-
-
-
-tel: 2810 1510
-
-address: Basement 38-44 D'Aguilar St, Lan Kwai Fong
+A basement club in Lan Kwai Fong that hosts international DJs as well as resident spinners. The small space gets very crowded on weekends, and the door policy can be strict on busy nights — reservations help. One of the more serious music venues in the area, with a sound system to match.

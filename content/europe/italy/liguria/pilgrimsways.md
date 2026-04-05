@@ -1,8 +1,8 @@
 ---
-title: "Pilgrims ways"
-type: location
+title: "Pilgrims Ways"
+type: section
 ---
 
-Liguria was an important region for the passages of the ancient pilgrims and for the modern tourists on the way from Compostela, from Provence, and going down to Rome. The pilgrims - and now the modern tourists - were generally walking along the coast, where people used to live, from [Ventimiglia](/europe/italy/liguria/italianriviera/ventimiglia) , to [Albenga](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga) which churches form one of the most ancient centers of christianity and where joining people coming from the mountains or the north of Europe was coming down through valleys like the Arroscia valley. From [Ceriale](/europe/italy/liguria/ceriale) a point on the Via Julia Augusta passage to [Genoa](/europe/italy/liguria/genoa) with its important palaces and churches. And from here to The Cinque Terre and to Rome. 
+Liguria was a major corridor for medieval pilgrims travelling from France and northern Europe toward Rome. The coastal route — the Via Julia Augusta, a Roman road — ran from Ventimiglia through Albenga and on to Genoa, where pilgrims would pick up the Via Francigena heading south. Albenga, with its cluster of early Christian buildings around the 5th-century baptistery, was one of the most important staging points on the entire route.
 
-Pilgrimage history goes
+Many of the old pilgrimage paths have been restored as hiking routes. The Cammino di Santiago approaches from France through the western valleys; the Alta Via dei Monti Liguri runs along the Apennine ridge above the coast. Both are well marked and manageable in stages.

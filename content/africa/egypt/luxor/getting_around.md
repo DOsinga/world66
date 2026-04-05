@@ -1,9 +1,9 @@
 ---
-title: "Getting Around in Luxor"
+title: "Getting Around"
 type: section
 ---
 
-**Luxor transportation **is a relatively simple affair. You'll find any mode of getting around in Luxor. Transportation includes everything from donkeys to taxis to boats. Here's a brief look at what you can expect, as well as a few tips for Luxor transportation.
+Getting around is straightforward. The East and West Banks are connected by a public ferry (a few Egyptian pounds) that runs all day. On each bank, taxis are the most convenient option — agree on a price before you get in, as there are no meters. Bicycles can be rented cheaply and work well for exploring the West Bank at your own pace.
 
 **Taxis**
 

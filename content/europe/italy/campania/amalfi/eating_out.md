@@ -1,66 +1,12 @@
 ---
 title: "Eating Out in Amalfi"
 type: section
-accessibility: "7 Km from Amalfi"
-address: "Piazza Sant'Elia - Furore"
-email: "information@furoreinn.it"
-phone: "+390898304770"
-price: "€ 75,00 - 90,00"
-type: "Italian"
-url: "www.furoreinn.it"
 ---
 
-shore trips in italy
+Food on the Amalfi Coast is serious business. The cuisine leans on the sea — fresh-caught fish, octopus, anchovies, and the local colatura di alici (anchovy sauce) that adds depth to simple pasta dishes. The coast's lemons are among the best in Italy and show up in everything from limoncello to pasta sauces.
 
-**Contributors**
-April 21, 2008
+Furore, a few kilometres up the coast, has become known for fine dining thanks to the restaurants at the Furore Inn — not cheap, but worth a meal if you're staying in the area.
 
-### [Restaurant Italian Touch](/europe/italy/campania/amalfi/eating_out/restaurant_italian)
+**La Volpe Pescatrice** (The Fishing Vixen) at the Furore Inn has a terrace with sweeping views over the Gulf of Salerno. Seasonal fish dishes. Address: Piazza Sant'Elia, Furore. Tel: +39 0898 304711.
 
-This stylish restaurant is the highlight of the **[Furore Inn Resort](/europe/italy/campania/amalfi/accommodation)**. The decor with stylized crossed wooden arches recalls the Arabic influence widely represented along the coast.
-
-The name is the inheritance of a successful chain of restaurants in London whereas the cuisine is Mediterranean , but wisely revisited and integrated with a touch of creativity.
-
-Creation of dishes are in full respect of every ingredient, added to which is attention to variety and detail.
-
-Extensive wine [more..](/europe/italy/campania/amalfi/eating_out/restaurant_italian)
-
-type: Italian
-
-
-
-accessibility: 7 Km from Amalfi
-
-tel: +390898304770
-
-url: [www.furoreinn.it](http://www.furoreinn.it)
-
-address: Piazza Sant'Elia - Furore
-
-PriceOfMenu: € 75,00 - 90,00
-
-email: information@furoreinn.it
-
-### [La Volpe Pescatrice](/europe/italy/campania/amalfi/eating_out/la_volpe_pescatric)
-
-La Volpe Pescatrice (The Fishing Vixen), is the Restaurant with a view as it enjoys breathtaking and unique views of the entire Gulf of Salerno. The Restarurant is located on one of the most spectacular terrace of the [Furore Inn Resort & Spa.](/europe/italy/campania/amalfi/accommodation/furoreinnresort)
-
-The name recalls the walk down to the Fiord of Furore. The beautiful restaurant is situated on a large and spacious terrace with a breathtaking sea view.
-
-The cunning fox comes from the country to the sea to catch its unusual prey; it is the [more..](/europe/italy/campania/amalfi/eating_out/la_volpe_pescatric)
-
-type: Italian
-
-
-
-accessibility: On the road to Agerola
-
-tel: +390898304711
-
-url: [www.furoreinn.it](http://www.furoreinn.it)
-
-address: Piazza Sant'Elia
-
-PriceOfMenu: 60,00 - 75,00 €
-
-email: lavolpepescatrice@furoreinn.it
+**Lido del Faro**, Anacapri. Seafront terrace restaurant known for its risotto and the local "totani e patate" (cuttlefish with potatoes). Tel: +39 081 837 1798.

@@ -1,12 +1,8 @@
 ---
-title: "Bars and Cafes"
+title: "Bars and Cafes in Québec City"
 type: section
 ---
 
-Québec's main street for bars in the Grande Allée where, in the summer,
-you can find all sorts of bars and terasses and in the winter, discos
-for the night. You might also want to try Rue S-Jean, within the
-old city wall for pubs, outside city walls for the gay hang-out.
+The Grande Allée is Québec City's main bar strip, a long boulevard lined with bars and terasses just outside the old city walls. In summer it gets very busy on weekend evenings; in winter the action moves indoors to the discos. The rue Saint-Jean, inside the old walls, has more neighbourhood pubs and a slightly younger crowd. Outside the walls to the east, rue Saint-Jean also has some good gay and lesbian bars.
 
-**Contributors**
-May 10, 2005
+Bars close at 3am throughout Québec.

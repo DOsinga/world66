@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-William B. Hartsfield International Airport ( (404) 530-6834) is located approximately 10 miles (16 km) southwest of downtown Atlanta near the junction of I-85/I-285.
+Hartsfield-Jackson Atlanta International Airport (ATL) is one of the busiest airports in the world, located about 10 miles (16 km) southwest of downtown near the I-85/I-285 interchange. Delta is the dominant carrier with a major hub here, but all major domestic and international airlines serve Atlanta.
 
- The easiest way to get to town is via MARTA (Metropolitan Area Rapid Transit Authority) (404) 848-4711. There is a MARTA station in the airport near the baggage claim area. MARTA offers both free trains and buses for the transfer A one way fare between any two points in Metro Atlanta is $1.50.  Discount MARTA tokens can be purchased 10 for $12, at the central Five Points station, where the north-south, east-west MARTA rail lines intersect. For handicapped accessibility information, call (404) 848-5389.
+The easiest way into the city is MARTA's Gold and Red rail lines, which connect directly from the airport to downtown Five Points station in about 20 minutes. A single fare is around $2.50. Trains run frequently from early morning until midnight.
+
+Taxis and rideshare (Uber, Lyft) are readily available at the airport. Downtown is roughly a $35–$45 taxi ride depending on traffic. Rental car facilities are connected to the terminal by shuttle bus.

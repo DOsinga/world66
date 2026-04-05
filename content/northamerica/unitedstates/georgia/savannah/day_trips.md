@@ -29,5 +29,3 @@ Brunswick is just 70 miles away and offers boat tours, golfing, fishing, kayakin
 
 Finally, you can visit Jekyll Island just 90 miles from Savannah. Here you can tour the Georgia Sea Turtle Center or the Tidelands Nature Center. Golfing is a popular pastime in the area, and you can also visit the local museum. For a bit of summer fun, though, be sure to stop at the Summer Waves Water Park.
 
-**Contributors**
-September 02, 2009

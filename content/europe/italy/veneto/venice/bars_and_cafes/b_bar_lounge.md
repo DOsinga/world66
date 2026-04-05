@@ -1,12 +1,8 @@
 ---
 title: "B Bar Lounge"
 type: poi
-latitude: 44.394058
-longitude: 8.975815
+latitude: 45.437191
+longitude: 12.334590
 ---
 
-Glamorous bar with a decor you expect to see in Venice;
-
-Beer: 4-5eur
-
-http://www.weetra.com/index.php?q=node/235&venueid=473
+Glamorous hotel bar with the kind of decor you'd expect to find in Venice. Beer from around 4–5 euros.

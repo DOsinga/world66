@@ -1,20 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Haggerty Farms Corn Maze Adventure**
-
-Each year we cut a maze into one of our cornfields and invite you to come out and have fun while challenging your sense of direction. Over the years, thousands of people navigated the **10,000** feet of pathway in our corn field. And we didn't have to rescue anyone ... yet.
-
-<stro [more..](/northamerica/canada/ontario/thingstodo/haggerty_farms_cor)
-
-PC: http://www.haggertyfarms.com
-
-email: scott@haggertyfarms.com
-
-address: Stirling Ontario
-
-tel: (613) 395-5115
+Ontario's sheer size means the range of things to do is almost absurd — world-class city culture in Toronto and Ottawa at one end, true northern wilderness at the other. The province has six national parks, hundreds of lakes, and some of the best bird-watching in North America. The hard part is choosing where to start.

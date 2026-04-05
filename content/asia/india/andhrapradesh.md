@@ -1,24 +1,14 @@
 ---
 title: "Andhra Pradesh"
 type: location
-latitude: 15.924091
-longitude: 80.186381
+latitude: 15.9129
+longitude: 79.7400
 ---
 
-Andhra Pradesh is the fifth largest state of India, irrigated by the Godavari rivers and is aptly termed the Rice Granary of India. Muslim rule paved the way for Urdu as well, but the main language of communication remains Telugu. Andhra Pradesh sometimes appears as a dry area, both that does not have to offer that many sights for travellers. However, if you set off for the capital of the state
- [Hyderabad](/asia/india/andhrapradesh/hyderabad), you’ll most definitely be rewarded. The city has a dualistic character and whether you visit markets and shops, sights or public buildings, you’ll always face the dualistic melange of Hindu culture on the one hand and Muslim culture on the other hand. 
+Andhra Pradesh is the rice bowl of peninsular India, a vast state irrigated by the Krishna and Godavari rivers, where the dry Deccan plateau in the northwest gives way to a long, fertile coastal plain. Most travellers pass through without slowing down — which is their loss. The state has real depth: medieval fort towns, one of the world's great Buddhist archaeological sites at Nagarjunakonda, and the extraordinary temple complex at Tirumala, which draws more pilgrims annually than almost any site on earth.
 
+The undisputed draw is Hyderabad, a city that wears its dual Hindu-Muslim heritage with genuine ease. Wander through the lanes around the Charminar and you're in a world of pearl traders, bangle sellers, and biryani restaurants that have been in business for generations. The Nizam-era architecture is grand and slightly crumbling in all the right ways. Golconda Fort, a short drive from the city, stages a nightly sound-and-light show that is actually worth attending.
 
- 
- 
- The area is also known because of its nomadic tribes, the Lambanis and Banjaras. These tribes can be spotted all around the area and are especially known for their brightly coloured skirts and the silver jewellery they sell. This fits in with the idea of Andhra Pradesh as the melting pot of various handicrafts. The craftsmen of Andhra have contributed greatly. Take for instance the Kalamkari vegetable dyed textiles, the Pochamapalli silks and the Hyderabad pearls. Besides that, it’s a must to see a performance of ‘Kuchipudi’, the classical dance form originating from the state. It has a vigorous choreography and is somewhat akin to Bharatanatyam. 
+Beyond Hyderabad, the state offers the kind of travel that feels like discovery. Warangal has a thousand-year-old Kakatiya fort and temple complex that few tourists bother to visit. The coastal town of Visakhapatnam has good beaches and a sub-base museum. Tirupati in the south draws tens of thousands of pilgrims daily to the Venkateswara temple — a spectacle of devotion unlike anything else in India.
 
-
- 
- Once you've visited the major cities, such as Hyderabad, Secunderabad and Waltair, it would be a shame to rush off to one of the other states, missing out on the little villages, the interesting temple-complex of Tirumala, the Colgonda Fort and the Quatab Shahi tombs. 
-
-
- 
- 
-
-And when you want to catch your breath again after a long day of travelling, you’ve hit the right area. Andhra Pradesh offers a rich palate to the gourmet. Hyderabadi Muslims, fastidious in their culinary art, specialise in authentic recipes that have survived throughout centuries. Their biryanis, kababs and chicken delicacies bring the water to your mouth.
+Andhra Pradesh is also the source of some of India's most distinctive handicrafts. Kalamkari vegetable-dyed textiles from Machilipatnam, Pochampally ikkat silks, and Hyderabad pearls are all worth seeking out. And the food — fiery Andhra curries, slow-cooked Hyderabadi biryani, and the remarkable variety of rice dishes along the coast — is reason enough to linger.

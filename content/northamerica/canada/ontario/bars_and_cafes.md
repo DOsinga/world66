@@ -3,6 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Internet Cafe and Hotspot located in central Bancroft, Ontario. Free HOTSPOT, free Columbian coffee at workstations, computer sales and service.
-
-Enjoy a nice cup of tea or coffee, hot chocolate, pop or juice. Serving a variety of snacks. Open 7-days late!
+Ontario's drinking culture varies wildly by region — Toronto has a dense, adventurous bar scene, while smaller towns tend toward friendly local pubs and diners. The craft beer movement has taken hold across the province, and you'll find excellent local breweries from Niagara to Thunder Bay.

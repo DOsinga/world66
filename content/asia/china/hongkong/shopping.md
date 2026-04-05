@@ -3,54 +3,18 @@ title: "Shopping"
 type: section
 ---
 
-Hong Kong is a paradise for those who love to shop. You will find
-magnificent malls and crafty street markets along side stores that sell
-Chinese herbs or exotic birds. You can find anything you need or
-imagine in Hong Kong.
+Shopping is one of Hong Kong's main draws, and the range runs from street markets where you bargain for watches and clothing to international luxury malls where the prices are fixed and steep. The city levies no sales tax, which makes it competitive for electronics and certain luxury goods.
 
 **Street Markets**
 
-Hong Kong has many different street markets with stalls filled with
-food, fabrics, crafts, statues, purses, and much more. The street
-markets are the place where you can bargain with the shop proprietors
-to get a better price. At Ladies’ Market on Tung Choi Street you can
-find bags, clothing for families, toys, and accessories from noon to
-11:30 pm. The Temple Street Night Market gives you the opportunity to
-shop for just about anything from watches, CDs, electronics, hardware
-and you can also have your fortune read. Hours are 4 pm to midnight. The Stanley Market on Stanly Market Road will provide you with silks,
-curios, and other Chinese artwork. They are open from 10:30 am to 6:30
-pm.
+The Temple Street Night Market in Yau Ma Tei (open from 7pm) has watches, electronics, clothing, and hardware alongside fortune tellers and street food stalls. Ladies' Market on Tung Choi Street in Mong Kok is a long stretch of stalls selling bags, clothing, toys, and accessories; open noon to 11:30pm. Stanley Market on the south side of Hong Kong Island sells silks, Chinese artwork, and curios in a more relaxed setting; open 10:30am to 6:30pm. The Jade Market at Kansu Street in Yau Ma Tei is worth a look, though buying jade requires some knowledge — see the Practical Information section.
 
-**Shopping Malls**
+**Malls**
 
-Tsim Sha Tsui Center and Empire Center on Granville Road are great
-places to shop and dine. They are right on the Harbor and the views
-are spectacular. Langham Place Mall has 200 shops that anyone will
-enjoy. China Hong Kong City is next to the China Ferry Terminal and
-has 6 floors of shopping. Citygate Outlets sells 70 international
-brands with big discounts. Habour City has a many trendy shops and
-outlets. Causeway Bay has great shopping on the streets, especially
-Causeway Place, Fashion Walk and Lafloret, where clothing and
-accessories can be found. Mong Kok, on Sai Yeung Choi Street, has
-fashion, electronics and toy stores.
+Harbour City in Tsim Sha Tsui is one of the largest malls in Asia, with over 700 shops and restaurants across several interconnected buildings along Canton Road. IFC Mall in Central and Pacific Place in Admiralty cover the luxury end. Citygate Outlets at Tung Chung (near the airport and Disneyland) sells discounted international brands.
 
-**Flower Markets**
+For electronics and computers, Sham Shui Po in Kowloon is far better than the tourist-facing shops on Nathan Road. The Golden Computer Arcade and Apliu Street flea market are where locals go.
 
-Hong Kong’s Flower Market displays are incredible. It is worth it
-just to go and look at the flowers. It is near Prince Edward Road West
-near the railway station and shops are open 7am to 7pm. Another place
-to go and look is the Goldfish Market on Ton Choi. Fish are good luck
-so aquariums are popular and some of them are pretty extravagant.
+**Markets worth seeing even if you don't buy**
 
-**Herbal Medicines**
-
-Herbal Medicines can be purchase on Ko Hing Street. Antique
-stores line the street of Hollywood Road, and these antiques come from
-ancient days. Western Market is a 20th century Edwardian
-building--handcrafts and collectibles can be found here. It is on
-Des Voeux Road Central and open 10am to 7pm except Sundays and
-holidays.
-
-This is just a sampling of the shops you can find on the streets of
-Hong Kong. It is impossible to describe each one and better to just go
-out on the streets and explore to see what you can find.
+The Flower Market on Prince Edward Road West is extraordinary — a dense run of wholesale flower shops open from early morning, busiest around Lunar New Year. The Goldfish Market on Tung Choi Street is a Hong Kong oddity: dozens of shops selling aquarium fish and accessories, since keeping fish is considered auspicious.

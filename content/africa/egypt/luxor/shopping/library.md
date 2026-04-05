@@ -1,8 +1,8 @@
 ---
-title: "Library"
+title: "Bookshop near Winter Palace"
 type: poi
-latitude: 30.065134
-longitude: 31.280261
+latitude: 25.700826
+longitude: 32.642847
 ---
 
-Library of Arabic, English,and French books. OPEN 9 AM TO 1 PM AND 7 PM TO 10 PM next to Winter palace hotel.
+A small bookshop next to the Winter Palace hotel selling Arabic, English, and French books. Open 9am–1pm and 7pm–10pm. Good for picking up a guide to the temples or something to read on the train home.

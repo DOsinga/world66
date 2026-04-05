@@ -1,35 +1,24 @@
 ---
-title: "Getting Around in Baden-Wurttemberg"
+title: "Getting Around"
 type: section
 ---
 
-**Baden-Wurttemberg Transportation** is not only convenient but
-also affordable if you follow a couple guidelines. Here are some
-suggestions on smart ways to get around Baden-Wurttemberg.
+Baden-Württemberg has a solid public transport network, though a car becomes useful if you want to explore the smaller Black Forest villages or the lake shore.
 
-**Saving Money with Public Transportation Passes**
+**By train**
 
-If
-you're either planning to use the bus and rail frequently, it is a
-good idea to buy daily, weekly or monthly passes because they will
-allow you to save money on transportation. Rail passes are available at
-the train station or at magazine shops. If you have a Hostelling
-International membership card, you'll be able to have access to
-lower student rates. It is a good idea to apply for a membership card
-at the local office of Hostelling International in your country of
-origin because application within Germany is reserved only for nationals
-and current exchange students.
+The state is covered by the Baden-Württemberg-Ticket, a day pass (around €25 for the first person, plus a few euros each for additional passengers) valid on all regional trains and most buses within the state. It doesn't cover ICE or IC trains. Buy it at any DB ticket machine or online. The main rail corridors — Stuttgart to Heidelberg, Stuttgart to Freiburg via the Schwarzwaldbahn, and the Rhine Valley line down to Basel — are fast and frequent.
 
-**Driving Around Baden-Wurttemberg**
+The Schwarzwaldbahn between Offenburg and Konstanz is one of the most scenic rail lines in Germany, looping through the forest via 37 tunnels and 163 bridges.
 
-Having an international driver's license will allow you to better meet the legal driving requirements, not only of Baden-Wurttemberg but also of all of Europe. Just like a Hostelling International membership card, it is better to get this special permit before you leave for Germany.
+**By bus**
 
-**Where to Visit**
+Regional buses cover many smaller towns not served by rail. In the Black Forest, several bus routes are included with the Baden-Württemberg-Ticket. The Freiburg region has good bus connections into the forest valleys.
 
-The state of Baden-Wurttemberg
-is the third largest of Germany. With over 35,500 square km
-(about 13,700 square miles), sometimes you don't know where to get
-started. A good starting point are the cities along the Neckar River such as Stuttgart (the state's capital city), Heilbronn and Mannheim. Other great travel ideas are Lake Constance and the Black Forest region because of its spas and great views.
+**By car**
 
-**Contributors**
-March 03, 2010
+The autobahn network is excellent for long distances. In towns, parking is metered and increasingly restricted. Freiburg and Stuttgart have environmental zones (Umweltzone) requiring a green emissions sticker (Umweltplakette), which rental cars usually come equipped with — check before driving in.
+
+**By bike**
+
+The region is very cycle-friendly. The Bodensee-Radweg circuits Lake Constance (around 260 km, mostly flat). The Black Forest has challenging but rewarding cycling on trails and quieter roads. Bikes can be taken on regional trains with a bike ticket.

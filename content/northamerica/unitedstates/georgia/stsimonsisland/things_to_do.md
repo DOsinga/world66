@@ -1,27 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do on St. Simons Island"
 type: section
 ---
 
-There are many different things to do on the island. Shopping, Golfing,
-or a tour of the island’s marshes and historical landmarks are often
-things most visitors like to do. However if you don’t like to do
-any of those things then you should try crabbing. The island’s
-surrounding waters are home to many delicious soft shell blue crabs.
-Crabbing is a very simple yet challenging thing to do. You simply stand
-on the shoreline and cast a small thirty foot rope, with a piece of
-chicken on one end, into the water. Once the chicken has sank to the
-bottom the crabs will latch on o the chicken with their claws and eat
-the chicken. Approximately five minutes after casting your line, slowly
-pull the bait in until it is visible. This is where it gets tricky. If
-you see any crabs on the bait you must scoop them up quickly before
-they see you. Other wise if they do see you they will bolt off into the
-water and disappear. Once you catch the crab you can release it or cook
-it. Visitors, who don’t know about crabbing, often wonder
-why someone would be throwing a piece of chicken on a string into the
-water. You have now been fore warned that if you crab you are a big
-target for the confused visitors. Crabbing can be enjoyed by all ages
-and can entertain for hours.
+Fort Frederica National Monument at the north end of the island is the main historic attraction — ruins of the 1736 British colonial fort and town, beautifully set among massive live oaks. The St. Simons Lighthouse at the south end is also open for tours and worth the climb for the views.
 
-**Contributors**
-October 16, 2005
+The island has good beaches on its eastern shore, though they're not the wide, sandy expanse of resort beaches — more natural and low-key. Neptune Park near the village pier has a pool and green space. Biking is a pleasant way to get around; rentals are available in the village.
+
+The surrounding salt marshes and tidal creeks are excellent for kayaking. Several outfitters in the area offer guided tours. Fishing — from the pier, from the shore, or on a charter boat — is popular year-round. Crabbing from the shoreline with a simple chicken-on-a-string rig is a classic local activity that works surprisingly well and keeps everyone entertained.

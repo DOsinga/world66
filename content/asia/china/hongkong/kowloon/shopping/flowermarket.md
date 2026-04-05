@@ -1,11 +1,9 @@
 ---
 title: "Flower Market"
 type: poi
-type: "Antiques"
-latitude: 39.954417
-longitude: 116.462792
+address: "Flower Market Road, Prince Edward, Mong Kok"
+latitude: 22.3254
+longitude: 114.1716
 ---
 
-The colourful flower market in Mong Kok is great for its scents and colours.
-
-type: Antiques
+A dense run of wholesale flower shops along Flower Market Road in Mong Kok, open from early morning until around 7pm. Hundreds of varieties from orchids to seasonal blooms. Worth visiting even without buying, particularly in the weeks before Lunar New Year when the street fills with blossoms and potted citrus trees. Prince Edward MTR Exit B1.

@@ -1,17 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-address: "Yeni Çarşi Cad. 60"
 ---
 
-**bars**
-
-### [45'lik
-
-Damn cool and damn cheap. Efes, a Turkish beer, costs only YTL
-2.25. The music is rock, tending towards the indier side, with
-some Turkish and German stuff thrown in for good measure. The
-crowd tends towards indie as well. Pretty empty during the week,
-but fairly full without being crowded on the weekend. It's
-charmingly dingy inside, and the neighborhood stray cats are always
-trying to visit. Sit outside in the
+The nightlife axis runs along Istiklal Caddesi from Taksim down to Tünel, with dozens of bars, live music venues, and cafés packed into the side streets of Beyoğlu. Ortaköy on the Bosphorus is livelier in summer. Across the water, Kadiköy has its own independent scene with cheaper beer and a younger, more local crowd.

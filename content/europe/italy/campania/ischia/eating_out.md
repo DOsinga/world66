@@ -3,20 +3,12 @@ title: "Eating Out in Ischia"
 type: section
 ---
 
-Italy has wonderful cuisine to sample and an array of **Ischia Restaurants**. It is a volcanic island, popular for its hot springs and breath taking beauty. The climate provides an ideal setting, with soil rich in minerals to grow perfect fruits and vegetables. As a result, the food here is just about the best you can find, with tantalizing fresh flavor. Below are a few places worth trying:
+Ischia grows excellent produce on its volcanic soil — the wine is surprisingly good, the vegetables are flavourful, and the rabbit dishes (coniglio all'ischitana, braised with white wine, tomatoes, and herbs) are considered a local speciality. Seafood is everywhere. Restaurants near the thermal parks and tourist beaches tend towards the expensive and average; seek out places in Forio, Sant'Angelo, or the back streets of Ischia Porto for better quality.
 
-**Ristorante Pizzeria Limoneto**
+**Ristorante Pizzeria Da Gaetano** (Via M. Mazzella 33, Ischia Porto. Tel: +39 081 991807). Third-generation Neapolitan pizza tradition. Good for both pizza and pasta.
 
-Ristorante Pizzeria Limoneto has one of the best reputations on the island, known for its fresh food. It is also reasonable, with most of the food priced for a mid-range budget.
+**Ristorante Pizzeria Limoneto** (Ischia Porto area). Good local reputation for fresh food at reasonable prices.
 
-**Ristorante Il Melogano**
+**Ristorante La Capanna** (beachside). Traditional Neapolitan pizza from a wood-fired oven, with views over the water.
 
-Ristorante Il Melogano is frequented by locals, as well as tourists due to its central location. Here, you can find typical Mediterranean food that also reserves the flavors that are unique only to Ischia.
-
-**Ristorante La Capanna**
-
-Ristorante La Capanna is a beautiful beach side restaurant with a great view of the sea. Here, you can sample an authentic Neapolitan pizza that is baked in a traditional firewood oven.
-
-**Bar Calise**
-
-Bar Calise is a bar famous for a pastry tradition that goes all the way
+**Bar Calise** (Via Antonio Sogliuzzo 69, Ischia Porto). Famous for pastries and ice cream; over 50 types of cake. A local institution.

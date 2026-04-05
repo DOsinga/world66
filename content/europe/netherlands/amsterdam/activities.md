@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Activities"
 type: section
 ---
 
-Amsterdam offers a lot of things to do other than museums and canal tours. Amsterdam is a city where you can try nearly every kind of sport you might think of. Check out the sections to find more details.
+Beyond the standard tourist trail, Amsterdam has a good range of active options. The flat terrain makes cycling the obvious choice for exploring beyond the centre. There are also swimming pools, tennis courts, rowing on the canals, and opportunities for walks along the IJ waterfront or through the Amsterdamse Bos on the city's southern edge.

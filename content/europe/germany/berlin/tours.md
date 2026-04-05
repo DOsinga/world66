@@ -1,8 +1,8 @@
 ---
 title: "Tours"
-type: location
-latitude: 50.95436
-longitude: 14.029536
+type: section
+latitude: 52.517389
+longitude: 13.395131
 ---
 
 »Berlin: open city« sets the stage for a nascent »New Berlin« by presenting ten suggested routes. These routes were deliberately selected for their wealth of themes; it is the aim of each route and of all of them collectively to show the diversity of the city and the people who live in it and with it. The variety of architectural styles, squares and city districts, ranging from the realisation of an entirely new urban centre from scratch to the restoration of neglected historical buildings. Planning was based on the latest technology in the field of ecological building and the buildings which have been constructed are intended to satisfy the requirements of sustainable urban planning for the 21st century. But visible scars also remain for the time being. Far from being complete, the development of Berlin will continue to progress towards a future which can only be seen in outline at present. Certainly not a task to be completed in ten years, rather one which will take a number of generations.

@@ -1,16 +1,8 @@
 ---
-title: "SHARM EL NAGA BAY"
+title: "Sharm El Naga Bay"
 type: poi
-type: "Swimming"
-url: "www.ido-travel.com"
+latitude: 26.9714
+longitude: 33.9336
 ---
 
-Get indulged with a fascinating trip to Sharm El Naga bay, 30 km south of Hurghada, with crystal clear water and protected house reef. It's enough to go out where there is approx 40 cm deep water and you will see a large variety of colorful fish everywhere.
-
-type: Swimming
-
-
-
-
-
-url: [www.ido-travel.com](http://www.ido-travel.com/hurghada-activities.html)
+A protected bay about 30 km south of Hurghada with crystal-clear water and a house reef that begins in shallow water — you can wade in from the beach and immediately find yourself surrounded by colorful reef fish. It's far less crowded than Giftun Island and one of the best spots on this stretch of coast for independent snorkeling. Accessible by taxi or organized day trips from Hurghada.

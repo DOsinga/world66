@@ -3,23 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-**Naples: Getting There Information
-**
+**By air:** Naples has its own international airport, Aeroporto Capodichino (NAP), about 5 km from the centre. Flights connect to most major European cities. The Alibus airport shuttle runs to Piazza Garibaldi (central station) and Piazza Municipio near the port; a taxi to the centre takes 20 minutes and costs around €20.
 
-Visitors can feel relaxed about traveling to **Naples; getting there **is easy to do from just about anywhere.
+**By train:** Napoli Centrale on Piazza Garibaldi is the main station. High-speed Frecciarossa trains connect Naples to Rome in just over an hour, and to Milan in under four. Trenitalia and Italo both serve the route; book ahead for cheaper fares. Trains also run to Salerno, Caserta, and Bari.
 
-#### **By Air**
+**By ferry:** Naples is a major ferry hub. From Molo Beverello (a short walk from Piazza Municipio), ferries and hydrofoils run to Capri, Ischia, Procida, and Sorrento. Overnight ferries to Palermo and Cagliari depart from Calata Porta di Massa, nearby.
 
-Many tourists arrive in Naples from Rome. The connecting flight takes just about 20 minutes. The FCO airport of Rome is the closest to Naples. However, this is not the only way of landing in Naples, as the city has a prominent international airport, the Aeroporto Capodichinou. International flights from European cities and national carriers from Italian cities land there. The Aeroporto Capodichinou is located at a distance of just about 5 miles from the city. Passengers arriving at the airport will find easy commuting facilities. The exit gate of the airport leads to multiple buses that connect to the main tourist destinations of Naples. Visitors can also hire a cab. It takes just about 20 minutes to reach Naples from the airport.
-
-#### **By Train**
-
-Traveling by train is the second most-preferred way of reaching Naples. Trains are regularly used by visitors arriving from Italian cities. Naples has two major railway stations, the Napoli Centrale (Naples Train Station) and Mergellina Station. The connecting trains between Rome and Naples arrive at Napoli Centrale. Other trains arriving at these two stations are scheduled daily from Italian cities like Pompeii, Sorrento and Herculaneum. Regionale and Rapid are the names of two train services considered the most affordable for reaching Naples. Some Eurostar trains are also available, but their fares are much higher.
-
-#### **By Ferry**
-
-Visitors in Sorrento and other small islands surrounding Naples can reach the city by ferry. Ferry services are easily available along the entire stretch of the Amalfi Coast at affordable rates. Cruise ships are also available, but they are expensive. The major ferry ports near Naples are Mergellina and Molo Beverello. Molo Beverello is located near Castel Nuovo. It is a walkable distance from the city. Mergellina is located a bit further and is commonly used for fetching tourists arriving from Ischia or Capri. From this port, a taxi is needed for reaching the central part of Naples.
-
-#### **By Car**
-
-Visitors from the surrounding Italian cities can rent a car and reach Naples by road. The suggested route is using highway A1 that extends from Rome or highway A3 that extends from Salerno. A3 is easier for people driving from southern Italian cities like Calabria and Foggia. From smaller cities like Puglia and Bari, using A16 is recommended.
+**By car:** The A1 motorway connects Rome to Naples (230 km, about 2.5 hours). Driving in Naples itself is not recommended — traffic is anarchic and parking is difficult. Leave the car at a hotel outside the centre or use a garage near the port.

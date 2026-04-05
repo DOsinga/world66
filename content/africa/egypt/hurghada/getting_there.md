@@ -1,40 +1,10 @@
 ---
-title: "Getting There in Hurghada"
+title: "Getting There"
 type: section
 ---
 
-Hurghada, being an important tourist destination, is easily accessible by
-major modes of transport within and outside the country. Here is a guide to
-getting to Hurghada in the fastest and most convenient ways.
+**By air** — Hurghada International Airport (HRG) receives direct charter and scheduled flights from across Europe, particularly the UK, Germany, Russia, and Eastern Europe. EgyptAir operates domestic connections from Cairo (around 1 hour). During peak winter season the flight selection is extensive; in summer it thins out somewhat. The airport is about 5 km south of the Sakkala resort strip.
 
-**Air Transport**
+**By bus** — Upper Egypt Travel and Go Bus operate services from Cairo (roughly 6–7 hours), Luxor (3–4 hours), and Aswan (5–6 hours). Buses are comfortable and air-conditioned; book tickets in advance during peak season.
 
-Hurghada is a prominent international diving center and a very popular
-coastal retreat due to the Red Sea. Many tourists from Europe and
-Middle East come here during summer and hence almost all major airlines from
-Europe feature direct international flights to Hurghada without a stopover at
-Cairo. Visitors wanting to travel to Hughada from Cairo can book themselves on
-the Egypt Air Express flight, which directly connects the two cities. Ticket
-prices of airlines vary from 450 Egyptian Pounds to 1000 Egyptian Pounds and
-travelers can save a lot by booking in advance and avoiding the peak tourist
-season.
-
-**Water Transport**
-
-International Fast Ferries plies boats to and from Sharm-el-Sheikh 4 times
-a week. The boat ride takes approximately 1 1/2 hours and costs 450
-Egyptian Pounds for a return fare for international travelers.
-
-**Road Transport**
-
-Hurghada can be accessed by a bus from Cairo in about 7 hours. The buses stop
-at several stations in Cairo including the downtown area and Almaza Station.
-Private tour organizers have buses to Luxor that travel together in large
-numbers accompanied by an escorted convoy of police. The journey takes around
-4 to 5 hours. A newly built highway also connects Hurghada to Assiut and Kenna to
-the West of Egypt.
-
-Hurghada is well-connected to most international and domestic destinations by
-expedient air, water and land transport.
-
-** **
+**By ferry** — A fast ferry crosses to [Sharm el-Sheikh](/africa/egypt/sharm_el_sheikh) several times a week, taking around 1.5 hours. The service is reliable in calm conditions but can be cancelled in rough weather.

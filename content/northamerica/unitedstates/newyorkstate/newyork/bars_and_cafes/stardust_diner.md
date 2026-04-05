@@ -1,10 +1,9 @@
 ---
-title: "Stardust Diner"
+title: "Ellen's Stardust Diner"
 type: poi
-latitude: 45.613809
-longitude: -122.504583
+address: "1650 Broadway at 51st Street"
+latitude: 40.762100
+longitude: -73.983500
 ---
 
-As fifties videos play on TVs, you can enjoy harty american breakfasts! Some good dishes are: Blue Suede burger ($10.50), meatloaf ($11.95), Gina Lola Brigetta lasagna ($11.25), and reuben ($10.50).
-
-address: 1650 Broadway and 51st
+A Times Square institution where the waitstaff are all aspiring Broadway performers who sing show tunes between taking orders. The food is classic American diner — burgers, meatloaf, stacked pancakes — and the tourist vibe is deliberate. It's loud, campy, and genuinely entertaining if you're in the right mood.

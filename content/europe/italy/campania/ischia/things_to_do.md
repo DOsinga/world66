@@ -1,29 +1,12 @@
 ---
-title: "Things to do"
+title: "Things to Do in Ischia"
 type: section
-accessibility: "Above St Francis of Paola Church, Spiaggia St. Francesco, Forio"
-address: "Via F Calise 39, 80075 Forio, Isola di Ischia (NA)"
-email: "info@lamortella.it"
-phone: "0039 081 986220/Fax 0039 081 986237"
-type: "Other"
-url: "www.lamortella.it"
 ---
 
-The most famous thing to do on the Island of Ischia is spend a day or a week or two at the thermal spas. There is one for every ailment and even the hotels have them on their grounds or in thier buildings.
+The main reason most people come to Ischia is for the thermal spas. The island sits on a volcanic field and hot springs emerge everywhere — not just in dedicated spa parks but rising through the sand at beaches like Maronti. Most spa parks charge entry; in return you get a series of pools at different temperatures, treatments, beach chairs, and usually a restaurant.
 
-Take a mini-bus tour of the island in half a day to get a good over-view and then you can go back and spend more time at the favorite spots you picked out. Or go hiking or on a geological tour to see mini volcanoes and geological phenomena.
+**La Mortella** (Via F. Calise 39, Forio) is the finest garden on the island and one of the best in Italy. Created by Susana Walton, wife of composer William Walton, in a former quarry at the base of Monte Zaro. Over 800 plant species, pools, cascades, a Greek amphitheatre for summer concerts, and a tea house. Open April–November, Tue/Thu/Sat/Sun 9am–7pm. Tel: +39 081 986220.
 
-Visit the best botanical gardens in all of Italy in Forio -above the St Francis Beach - called "La Mortella" which means 'the myrtle bush' from whence Aeneas plucks the Golden Bough and is then guided through the underground by the Sybil who is an emblem of death and rebirth.
+The **Castello Aragonese** at Ischia Ponte is the island's main historical monument — a fortress on a volcanic rock connected to the mainland by a causeway. The history stretches back to 474 BC. Inside: several churches, a convent, a nuns' cemetery, and a café. The views from the top are the best on the island.
 
-**Contributors**
-June 22, 2006
-
-### [Botanical Gardens "La Mortella"
-
-"La Mortella" was created by the wife of one of the most famous English composers of the twentieth century, William Walton.
-
-Open from April to November on Tuesday, Thursday, Saturday and Sunday - 9 am- 7 pm. Entrance fee to be paid at the entrance. There is free parking at the top of the hill where there is also another entrance. Maps are free of the entire Garden and there is a small print-out in different languages explaining "The Victoria Amazonica, Nymphaeum and The Temple of the Sun."
-
-Also you will find a tea house with snacks, a shop, many restrooms, and a more..](/europe/italy/campania/ischia/things_to_do/botanical_gardens)
-
-type: Other
+At **Sorgeto Bay**, geothermal springs emerge directly on the sea floor, warming the water year-round. You can swim among the bubbles. The bay is accessible by boat from Ischia Porto or by steps from the road above.

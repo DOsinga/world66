@@ -3,26 +3,8 @@ title: "Getting Around in Rameshwaram"
 type: section
 ---
 
-If you are going to be staying in Rameshwaram and need to find the best way to travel in the city, here are the **Rameshwaram transportation** options.
-The Train
+The town is small and most temples and ghats are walkable from the main bazaar area. Auto-rickshaws are the main way to get around for longer distances within the island and charge fixed rates to the main sites.
 
-The train is one of the best ways to travel in the city. It runs
-along the bridge over the sea to reach the island, and also runs is
-beneath the famous Pamba bridge. You can enjoy the views of the sea
-while using one of the best ways to travel in and out of the city. Many
-people take the train for the ride above the sea, and it is one of the
-popular Rameshwaram transportation choices.
-Buses
+To reach Dhanushkodi (18 km), jeeps are available for hire from near the bus stand. The track is unpaved and ordinary cars won't make it — the jeep arrangement is standard and costs around 800-1000 rupees for a return trip.
 
-You can catch one of the buses anywhere in Tamin Nadu to Rameshwaram.
-There are also coaches available by private owners in the city to take
-you to the island or to use for the whole day if you want to have
-transportation available for you when you are seeing a lot of places.
-Cars and Hires
-
-The car hires are available to use like a taxi. The services mainly
-go to the tourist attractions and temples in the city, but you can find
-them to take you to other locations if needed. There are different kinds
-of cars and off-road vehicles you can choose depending on the terrain
-where you are headed. The prices are different and depend on the type
-and how long you need it.
+The Pamban Bridge connecting Rameshwaram to the mainland is itself a sight. The train crossing is dramatic: the line runs low over the sea and the bridge swings open to allow ships through. Madurai (173 km) is the nearest city with a mainline rail junction and the nearest airport, with connections to major Indian cities.

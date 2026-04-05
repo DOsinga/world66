@@ -1,25 +1,26 @@
 ---
-title: "Things to do in Srinagar"
+title: "Things to Do"
 type: section
 ---
 
-Blessed with a natural beauty, Srinagar, the capital of Jammu and Kashmir, is a haven from the noise and bustling city life. From sightseeing to shopping, **Srinagar Things to do** are full of fun and amazement to make your trip an unforgettable experience.
+Srinagar offers more than most visitors expect. Beyond the lake, there are old mosques and shrines worth half a day, gardens that reward an early-morning visit, and a craft tradition that makes shopping here genuinely interesting.
 
-**An Overnight Stay on Dal Lake**
+**Shikara rides on Dal Lake**
 
-[Srinagar](/asia/india/jammuandkashmir/srinagar/practicalthings) boasts of the inimitable beauty of Dal Lake. Encircled by lush green mountains, Dal Lake looks heavenly when the lotus flowers are in full bloom. Dal Lake is famed for the enchanting houseboats and Shikaras beautifully decorated with flowers. Completely built of cedar woods, all the houseboats are equipped with sophisticated wooden furniture. Tourists can spend a night in houseboats among peace and tranquility, with ripples of water being the only sound to disturb their sleep.
+Hiring a shikara for a couple of hours is the single best introduction to the city. The boats glide past floating vegetable gardens, under willow branches, and along narrow waterways into parts of the lake that feel completely cut off from the city. Morning is the best time — the light is good and the vegetable market boats come out. Rates are set by the local union; negotiate but don't low-ball — these guys are working.
 
-**The Shankaracharya Temple**
+**The Mughal Gardens**
 
-Situated at an altitude of 350 meters on the hill called Takht-e-Suleiman, the Shankaracharya Temple is considered to be the oldest shrine in Kashmir. The temple is a must visit for the devotees of Lord Shiva. Even if you are not an ardent worshiper of Lord Shiva, you should still pay a visit to this shrine. The temple has a great architectural value. About 100 stairs are to be climbed to appreciate the Persian inscriptions upon the walls of the temple that will remind you of the Mughal era. The temple also offers an outstanding view of the surrounding landscapes.
+Nishat Bagh, Shalimar Bagh, and Chashma Shahi are three Mughal-era terraced gardens on the eastern shore of Dal Lake. Nishat Bagh (the "Garden of Bliss") is the largest and most dramatic, rising in twelve terraces up the hillside. Shalimar Bagh is more romantic, built by Jahangir for his wife Nur Jahan. All three are best in spring (April–May) when flowers are out, and best visited on weekday mornings before tour groups arrive.
 
-**Mesmerizing Gardens**
+**Shankaracharya Temple**
 
-Srinagar boasts of its vast collection of eclectic gardens admired and awed for generations. Comprised of three famous gardens, the Nishat Bagh, Shalimar Gardens and Chashmasahi, Mughal Gardens is the most visited place for tourists. Built and expanded during the Mughal era, the gardens are home to a variety of bright flowers, not to mention the stunning fountains that heighten the aura of the gardens. Alongside the Mughal Gardens, you must not forget to visit the gardens of Pari Mahal, which is another reason for Srinagar's pride.
+Perched on Takht-e-Suleiman hill, this ancient Shiva temple requires climbing about 243 steps but rewards with a 360-degree view over the entire city, lake, and surrounding mountains. The temple itself predates the Mughal era. Non-Hindus are generally welcome; remove shoes before entering.
+
+**The Old City**
+
+The neighbourhood around the Jama Masjid and the wooden mosques along the Jhelum is the most atmospheric part of Srinagar. The 14th-century Jama Masjid, built from deodar wood, is one of the most impressive mosques in India. Wander the lanes around Shah Hamdan Mosque and the old bazaars — this is where the city's craft workshops are.
 
 **Shopping**
 
-Shopping in [Srinagar](/asia/india/jammuandkashmir/srinagar/top_5_must_dos) will be a different experience for you if you're used to shopping only in malls and upscale shopping stores. Carpets, Pashmina shawls embroidered in crewel work, papier-mache boxes and walnut woodcarvings are some of indigenous items of Kashmir that you will not find anywhere else in the world. Even if these things are found elsewhere, you would not get them at such a cheap rate as you can here. You can buy a pocketful of dry fruits and spices like almonds, walnuts, saffron, shah zira and Kashmiri chillies. Srinagar also has plenty of handicraft stores where you can collect a souvenir of this wonderful trip.
-
-**Contributors**
-March 01, 2010
+Kashmir produces some of the finest handicrafts in India: Pashmina shawls, hand-knotted carpets, papier-mâché boxes, walnut woodcarvings, and crewel embroidery. Lal Chowk and the Polo View area have many shops; the government-run emporiums are a reliable starting point for price reference. Be prepared for persistent sales pressure and do your research on genuine Pashmina (100% cashmere) versus machine-made imitations.

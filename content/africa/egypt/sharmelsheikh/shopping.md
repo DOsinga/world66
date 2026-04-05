@@ -3,7 +3,7 @@ title: "Shopping"
 type: section
 ---
 
-The shopping scene in Sharm el Sheikh is outrageous. Some tourists love it, some tourists hate it, but either way, it is quite a distinctive experience. Most shops are open from Monday until Thursday and sometimes on weekends. During the low season, however, no one really works on Sundays, so everything tends to be closed. Also, the hours of shopping are limited during the day in summer, because shopkeepers prefer to take afternoon breaks and stay open later into the evening. The same situation occurs during Ramadan.
+Shopping in Sharm el-Sheikh is a polarising experience — some visitors love it, others find it exhausting. Most shops open Monday to Thursday and sometimes weekends. In summer the hours shift: shopkeepers close in the afternoon heat and reopen in the evening. The same pattern applies during Ramadan.
 
 **Typical Souvenirs**
 

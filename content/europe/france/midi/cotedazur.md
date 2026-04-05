@@ -5,15 +5,10 @@ latitude: 43.426417
 longitude: 6.722662
 ---
 
-The name Côte d’Azur for one of France’s most southern region becomes clear as soon as one arrives at the southern coastline of France. This is where the sky-blue sea beats against the stone beaches and where purple coloured Bougainville crawls up the discoloured walls of charming old houses. Thriving cities such as Nice , with its abundance of museums, and fashionable Marseille are facing the Mediterranean sea.
+The Côte d'Azur earns its name the moment you arrive. The light is different here — sharper, more Mediterranean — and the sea really is that shade of blue. It stretches from the Italian border past Nice, Cannes, and Toulon to Marseille in the west, covering some 200 kilometres of coastline backed by the Maritime Alps and the Var hills.
 
-With its Mediterranean climate, The Côte d’Azur attracts people from far and near. After a visit to the hilly inlands with the olive trees and old villages, most people head for some sunny days at the seaside. And not in the least to see how the jet set arrive with their fancy boats in general charming harbour where life is all about seeing and being seen.
+Nice is the natural capital: a proper city with great food, a dense tangle of museums, and the famous Promenade des Anglais along a wide pebbly beach. Cannes is smaller and more self-consciously glamorous, built around a film festival and a harbour full of yachts. Further west, Marseille is the counterweight to all that — rough-edged, energetic, and genuinely French in a way the resort towns sometimes aren't.
 
-People who still have a lot of money left, and who are in for some adventure, can’t miss out on Cannes , also known for its yearly film festival, where you might make a fortune that paves the road for the mini state Monaco .
+Inland is often overlooked but worth it. Villages like Gréolières and the perched towns above Nice and Antibes sit in the pre-Alps, a completely different landscape from the coast below. The Train des Pignes from Nice to Digne-les-Bains is one of the most scenic journeys in France.
 
-## Destinations in Cote d'Azur
-
-[Marseille](/world/europe/france/midi/cotedazur/marseille)
-[Nice](/world/europe/france/midi/cotedazur/nice)
-[Cannes](/world/europe/france/midi/cotedazur/cannes)
-[Antibes](/world/europe/france/midi/cotedazur/antibes)
+The coast gets genuinely crowded in July and August. May, June, and September are better — the light is excellent, the crowds are manageable, and everything is still open.

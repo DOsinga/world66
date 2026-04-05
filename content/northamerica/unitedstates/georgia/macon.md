@@ -5,14 +5,8 @@ latitude: 32.840695
 longitude: -83.632402
 ---
 
-Macon is located south of [Atlanta](/northamerica/unitedstates/georgia/atlanta) on Interstate 75. For visitors the town's main interest is probably that it's the location of a very important archeological site: Ocmulgee.
+Macon sits at the geographic center of Georgia, about 80 miles south of Atlanta on I-75. It's a mid-size city with a well-preserved historic downtown and a surprisingly rich musical heritage — Macon was the home of Otis Redding, Little Richard, and the Allman Brothers Band. The Allman Brothers Band Museum at the Big House on Vineville Avenue is a pilgrimage site for fans.
 
+The main archaeological attraction is Ocmulgee Mounds National Historical Park, just east of downtown, which preserves one of the most significant pre-Columbian sites in the eastern United States. The mounds date primarily from the Mississippian culture (AD 900–1200), and a reconstructed ceremonial earthlodge with original clay floor has been preserved. The site records 12,000 years of continuous human habitation.
 
- Ocmulgee is a memorial to the antiquity of man in this corner of the North American continent. The National Monument preserves a continuous record of human life in the Southeast from the earliest times to the present. From Ice-Age hunters to the Muscogee (Creek) people of historic times, there is evidence here of 12,000 years of human habitation. 
-
-
- One period stands out. Between AD 900 and 1200 a skillful farming people lived on this site. Known to us as Mississippians, they were part of a distinctive culture which crystallized about AD 750 in the middle Mississippi Valley and over the next seven centuries spread along riverways throughout much ofthe central and eastern United States. The Mississippians brought a more complex way of life to the region and here they left behind eight earthen mounds and the remains of a ceremonial earthlodge.
-
-
- 
- The Monument today consists of two units separated by two miles of riverine wetlands along the Ocmulgee River. The Main Unit is adjacent to the city of Macon, an urban area with a population of 118,000. The isolated Lamar Mounds and Village Unit can be visited by special permit.
+Macon is also known for its cherry blossoms — the city plants more than 300,000 Yoshino cherry trees, and the annual Cherry Blossom Festival in mid-March draws large crowds.

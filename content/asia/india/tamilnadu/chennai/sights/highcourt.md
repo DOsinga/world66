@@ -1,11 +1,9 @@
 ---
-title: "High Court"
+title: "Madras High Court"
 type: poi
-type: "general"
+address: "High Court Complex, Parry's Corner, Chennai"
 latitude: 13.087268
 longitude: 80.284984
 ---
 
-The High court was built in 1892, the imposing Indo-Saracenic style building is located near Parry's Corner. It has beautiful domes, a grand central cupola-once the lighthouse, and lots of stained glass windows. A granite Doric column 49m above sea-level was erected in 1841 to serve as a stand for the second light house. the column still stands tall, an ornament to the campus. The building houses the High Court, the small causes Court and the City Civil Court.
-
-type: general
+One of the largest High Court complexes in the world, built in 1892 in Indo-Saracenic style near Parry's Corner. The building is extravagant — red and white striped domes, stained glass windows, and a lighthouse tower that served as the city's second lighthouse. A Doric granite column from 1841 still stands in the compound. You cannot enter the courts without business there, but the exterior is worth seeing from the road.

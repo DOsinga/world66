@@ -1,13 +1,8 @@
 ---
 title: "Happy Habou"
 type: poi
-type: "Local"
+latitude: 25.719956
+longitude: 32.601441
 ---
 
-Located near the Madinet Habou temple. Very good egyptian food with good prices, clean, good location and very
-nice view to the mountains and the temple of Ramses III.
-
-**Contributors**
-November 03, 2006
-
-type: Local
+A simple local restaurant near the Medinet Habu temple on the West Bank. Good Egyptian food at honest prices, with views of the Ramses III temple and the Theban hills. A useful pit stop after a morning on the West Bank.

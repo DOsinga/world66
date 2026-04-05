@@ -1,6 +1,8 @@
 ---
 title: "Asian Part"
 type: location
+latitude: 41.010000
+longitude: 29.025000
 ---
 
 There is a local idiom which states that Istanbul is spread out upon two continents. Even the slogan of the advertising campaign for Istanbul in the competition to host the 2000 Olympics read, *"Meet where the continents meet."* I believe there is some truth in the phrase "Istanbul is spread out on two continents" in real terms - Istanbul accommodates two very different cities on the European and Asian sides, and the difference is not limited to the area codes of the telephones.

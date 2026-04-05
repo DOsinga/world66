@@ -3,17 +3,10 @@ title: "Shopping in Durgapur"
 type: section
 ---
 
-Steel City of Durgapur, the City of Joy.
-Durgapur is a great place for Shopping, You can pick up many beautiful handcrafted things here at a fraction of what you will pay in the west. Lots of Shopping Mall are present in Steel City of Durgapur.
+Durgapur has a range of shopping options centred around two main areas.
 
-(01) BENACHITY BAZAAR:- This is the old market in this City.
+**Benachity Bazaar** is the old market — a 2–3 km strip of shops covering everything from food to electrical goods to textiles. The scale and variety are impressive for a city of this size. It has a real market atmosphere that the malls don't replicate.
 
-(02)RELIANCE TRENDS:- This is the Shopping Mall of Durgapur.
+**City Center** (the mall district) has Reliance Trends, Big Bazaar, Junction Mall, and Suhatta Mall. Standard Indian mall retail, but air-conditioned and convenient.
 
-(03)GHOSH ENTERPRISES:- Here all electrical goods are available. Mainly it is the Shopping for Copper wire. Address of this Secon Lane, Benachity.
-
-(04)BIG BAZAAR:- This is the Shopping Mall of Durgapur. Address of this City Center.
-
-(05)JUNCTION MALL:- This is the Shopping Mall of Durgapur. Address of this City Center.
-
-(06)SUHATTA MALL:- This is the Shopping Mall of Durgapur. Address of this City Center.
+The city is not particularly known for crafts or souvenirs — there's nothing specific to buy in Durgapur that you can't get in Kolkata. But for day-to-day needs or window shopping, Benachity is more interesting than the malls.

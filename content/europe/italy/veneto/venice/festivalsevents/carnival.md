@@ -1,6 +1,6 @@
 ---
 title: "Carnival"
-type: location
+type: poi
 latitude: 45.446081
 longitude: 12.320384
 ---

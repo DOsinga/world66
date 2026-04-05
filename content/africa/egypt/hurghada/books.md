@@ -1,30 +1,10 @@
 ---
-title: "Books in Hurghada"
+title: "Books about Hurghada and the Red Sea"
 type: section
-author: "DK Publishing"
-isbn: "075662875X"
 ---
 
-These are some great books to get you around Hurghada.
+**The Red Sea by Sybil Taylor** is the best single volume on Red Sea diving, covering the major sites from Hurghada to the Sudanese border with good underwater photography and site descriptions.
 
-### [Egypt (Eyewitness Travel Guides)](/africa/egypt/hurghada/books/egypt_eyewitness)
+**Egypt (Lonely Planet)** has a reliable chapter on the Red Sea coast with practical logistics. The DK Eyewitness guide is better for cultural context and planning day trips to Luxor and the ancient sites.
 
-**Egypt (Eyewitness Travel Guides), DK Publishing, ISBN: 075662875X **is part of a very popular series of travel guides and gives a good basic overview of tourist highlights of the country.
-
-**Picture Perfect**
-
-As with the other books in the Eyewitness Travel Guide range, the Egypt guide is beautifully illustrated with many photographs.
-
-**Maps**
-
-Unfortunately although there are many maps in the guide there are no Hurghada specific ones.
-
-Hurghada Specific [more..](/africa/egypt/hurghada/books/egypt_eyewitness)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/075662875X/ref=ase_osingacom?v=glance&s=books)
-
-
-
-author: DK Publishing
-
-isbn: 075662875X
+For history and context, **The Nile by Toby Wilkinson** is excellent background reading before visiting Egypt's interior sites on day trips from Hurghada.

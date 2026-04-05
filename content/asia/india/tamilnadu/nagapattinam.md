@@ -5,18 +5,10 @@ latitude: 10.60262
 longitude: 79.761935
 ---
 
-Travel Guide
+Nagapattinam is a coastal district town in the Cauvery Delta, 340 km south of Chennai on the Bay of Bengal. It's the main town in a district that contains an unusual concentration of pilgrimage sites across different religions — Hindu, Muslim, Christian, and Jain — within a small area.
 
-An ancient coastal region in South India and central part of Tamilnadu. This district was bifurcated from integrated **Thanjavur**. The development of Nagapattinam town itself is very slow as compared to other towns bacause of its vulnerable location.
+[Nagore](/asia/india/tamilnadu/nagore), 5 km north, has the important Sufi dargah of Meeran Sahib, drawing pilgrims from across south India. **Velankanni**, 12 km south, is a major Catholic pilgrimage centre — the Basilica of Our Lady of Good Health draws millions of pilgrims, particularly in September. **Sikkal** has a significant Murugan temple.
 
-Nagapattinam district has important tourist locations.
+**Poompuhar** (Kaveripoompatinam), 20 km north, is the site of the ancient Chola port that once rivalled Rome in trade. Largely submerged, it has an archaeological museum and some reconstructed structures. **Tranquebar** (Tharangambadi), 60 km south, is a former Danish colonial settlement with a well-preserved fort and church from the early 1600s — one of the least-visited European heritage sites on the Tamil Nadu coast.
 
-**Nagore** : A pilgrim center 5 Km north of Nagapattinam with a population around 30,000. Famous for Annual Kandoori festival. Still part of Nagapttinam Municipality from early British period.
-
-**Velankanni**: Catholic Pilgrimage. Aroung 12 KM south of Nagai with a poulation of around 7,000.
-
-**Sikkal:** Famous for Hindu Temple.
-
-**Vedaranyam** and **Kodikkarai** birds Sanctuary are around 20KM from nagapattinam.
-
-Other attaractions are **Poompuhar**, **Tranqubar** (Old danish Colony) and **Karaikal**.
+The **Point Calimere Wildlife Sanctuary** (Kodikkarai), 50 km south, protects a coastal wetland that hosts large flamingo flocks and other migratory birds between November and January.

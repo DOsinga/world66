@@ -1,33 +1,11 @@
 ---
 title: "St. Mark's Bookshop"
 type: poi
-accessibility: "Wheelchair Accessible"
-address: "31 Third Avenue"
-email: "stmarksbooks@mindspring.com"
+address: "31 Third Avenue, East Village"
 phone: "212-260-7853"
-type: "Book shops"
 url: "www.stmarksbookshop.com"
-latitude: 51.531324
-longitude: 0.158081
+latitude: 40.729040
+longitude: -73.989340
 ---
 
-Located in New York's funky East Village, St. Mark's Bookshop is the number one choice for the city's eclectic readers. In addition to cultural and critical theory books, St. Mark's Bookshop also has literature, literary journals, and a hefty number of self-published books.
-
-**Contributors**
-May 18, 2008
-
-type: Book shops
-
-
-
-
-
-accessibility: Wheelchair Accessible
-
-tel: 212-260-7853
-
-url: [www.stmarksbookshop.com](http://www.stmarksbookshop.com)
-
-address: 31 Third Avenue
-
-email: stmarksbooks@mindspring.com
+An East Village institution for readers who care about what they're reading. St. Mark's stocks cultural theory, literary fiction, poetry, and an excellent selection of literary journals and zines. The kind of bookshop where browsing the shelves teaches you something, and the staff recommendations can be trusted.

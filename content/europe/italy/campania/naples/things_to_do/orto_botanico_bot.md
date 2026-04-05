@@ -1,20 +1,12 @@
 ---
-title: "Orto Botanico (Botanical Gardens)"
+title: "Orto Botanico"
 type: poi
-address: "Via Fiora 223, Carlo III, Naples Italy"
-phone: "+39 0 8 1449 759"
-type: "Other"
+address: "Via Foria 223, Naples"
+phone: "+39 081 449 759"
+opening_hours: "9:00-14:00 daily"
+admission: "Free"
+latitude: 40.861944
+longitude: 14.271389
 ---
 
-This Botanic Garden features 30 acres of palms and ferns, and a significant collection of trees and shrubs, large cacti, and flowering plants. The gardens, founded nearly 200 years ago by Joseph Bonaparte and Prince Joachim Murat, are surrounded by massive walls that add even more beauty to the unique landscape. Open daily from 9:00 a.m.-2:00 p.m. Admission is *free!*
-
-**Contributors**
-June 09, 2008
-
-type: Other
-
-
-
-tel: +39 0 8 1449 759
-
-address: Via Fiora 223, Carlo III, Naples Italy
+Thirty acres of palms, ferns, cacti, and flowering plants founded by Joseph Bonaparte and Joachim Murat at the start of the 19th century. A quiet escape from the city noise, surrounded by high walls. Free admission; open weekday mornings.

@@ -1,18 +1,16 @@
 ---
-title: "Practical Information in Ischia"
+title: "Practical Information"
 type: section
 ---
 
-**Enjoy Your Vacation at Ischia –The Emerald Isle**
+**Visas:** Italy is a Schengen country. EU/EEA citizens and most Western nationals can stay up to 90 days without a visa. US passport holders need no visa for stays under 90 days.
 
-Do you need some **Ischia practical information**? Then, read on about this nearly trapezoid-shaped, volcanic island in the Tyrrhenian Sea. Ischia is also locally known as the Emerald Isle due to the verdant vegetation found in its landscape. So what are the typical facts that you need in traveling to this wondrous place?
+**Getting to Ischia:** Ferries from Naples Molo Beverello (Caremar, Lauro) take about 90 minutes and carry cars. Hydrofoils from Naples Molo Beverello and Mergellina take 60 minutes, foot passengers only. Ferries also run from Pozzuoli (slightly shorter, useful if driving from the north). Frequent departures throughout the day in summer; reduced service November–March.
 
-**Visa Requirements**
+**Currency:** Euro. ATMs are in Ischia Porto and Forio.
 
-If you are a U. S. citizen and a holder of a U.S. passport valid for more than 6 months, then you are free to travel to Ischia, provided that you will be staying inside Italy for no more than 90 days. However, if you are going to stay for more than the 90-day specified period, then you need to apply for a tourist visa.
+**Language:** Italian. English is spoken in most hotels and tourist facilities.
 
-For other nationalities, especially for citizens with a Schengen Visa which is a visa valid for 24 European countries, do not need to get an Italian visa. Holders of a Schengen visa are entitled to a maximum stay inside Ischia or Italy for a maximum of 90 days.
+**Emergencies:** 112 (general). The main hospital is in Ischia Porto.
 
-**Entry Tips**
-
-In entering the country of Italy, going to your Ischia destination, you need to register with the country&rsquo;s police department within eight days of arrival. You have to get the declaration of stay for foreigners from this place. Aside from this, you may be required to present your health insurance policy that would provide proof for your capability to pay in the event of illnesses, accidents and if applicable, pregnancy.
+**Tourist office:** Via Sogliuzzo 72, Ischia Porto. Tel: +39 081 507 4231.

@@ -1,52 +1,12 @@
 ---
-title: "Festivals"
+title: "Festivals in Durgapur"
 type: section
-accessibility: "ALL"
-address: "4/12 tilak road"
-date: "10.09.2007"
-email: "RANJIT_GUHA@REDIFFMAIL.COM"
-phone: "2564832"
 ---
 
-As usual with Bengalis the **Durga Puja** is the biggest festival around. Some of the pujas known for their lavish artistic renditions:
+Like the rest of West Bengal, Durgapur treats Durga Puja as the defining festival of the year. Several neighbourhood committees are known for ambitious artistic installations: Nabarun Sangha on the National Highway and Marconi Club are two of the most closely watched for the quality of their pandals (temporary shrines). During the five-day festival in October, the city's usual industrial character gives way to street parties, new clothes, and elaborate lighting displays.
 
-1. Nabarun: Can't miss it. Right beside the National Highway, it is
-huge. With cash flowing in from the business community of Benachity, it
-is undoubtedly one of the best pujas around.
+The **Rath Fair** at the fairgrounds near the Chitralaya theatre is held over seven days during the RathaYatra festival (usually June–July). A traditional mela with food stalls, crafts, and carnival rides.
 
-2. Marconi: Critics say, it is the local party leader that makes sure money pours in. This undoubtedly is a great puja.
+The **Industrial Fair**, held in November, reflects Durgapur's character as an engineering and manufacturing centre. Major investments are announced here and the event draws business visitors from across the region as well as exhibitions of machinery and technology.
 
-There are scores others....
-
-**The Rath Fair** is an old style fair organized every year at the
-fairgrounds near the Chitralaya theater. Fun place to go and buy stuff
-you really do not need. Takes place for seven days during the
-RathaYatra festival.
-
-**Industrial Fair**: Most Durgapur-ites hard working people and
-generally believe in industry and technology. Industry plays a major
-role in the Ruhr of India(thats what they call Durgapur) and hence this
-fair, held in November generally, is of vital importance. It seems that
-in 2005, industrial investments to the tune of Rs 30,000.00 crores were
-promised during the fair.
-
-Apart from these, cultural events are organized all throughout the year
-in pockets. Pujas and the Autumn-Winter season sees the most.
-
-### [soumyajit guha](/asia/india/westbengal/durgapur/festivals/soumyajit_guha)
-
-*MR and Mrs ranjit guha hosts a gala holi celebration at the kumarmangalam park at the heart of the city.The couple invites their family and friends and more than 500 odd people from different walks of life participate in the holi utsab . this has added a new dimension in the city . Mr ranjit guha burdens the entire financial and other responsibilities of the celebrations.THe ajit mohan guha award is also given to the best local poet of the year.*
-
-
-
-[[rate it]](/asia/india/westbengal/durgapur/festivals/soumyajit_guha)
-
-accessibility: ALL
-
-tel: 2564832
-
-date: 10.09.2007
-
-address: 4/12 tilak road
-
-email: RANJIT_GUHA@REDIFFMAIL.COM
+Cultural events run throughout the autumn and winter season. The city has several active cultural clubs that organise music, dance, and theatre performances.

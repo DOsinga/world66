@@ -1,14 +1,16 @@
 ---
-title: "Fort William"
+title: Fort William
 type: location
-latitude: 56.817826
-longitude: -5.110952
+latitude: 56.8198
+longitude: -5.1052
+done:
+  location_cleanup: 2026-04-05
 ---
 
-This is a fair sized town by the standards of north Scotland and it is probably easier to find somewhere to stay here without planing than anywhere else around, though you may have a fair wait for attention in the TIC. The town itself may have little to commend it other than position but with a position like this, who needs much else?
+Fort William is a functional, sprawling town on the eastern shore of Loch Linnhe in the west of the Scottish Highlands — the largest settlement for a hundred miles in any direction and, for most visitors, the base from which to explore one of the most spectacular corners of Britain. The town itself has little to commend it beyond the supermarkets, hotels, and outdoor shops that make it a useful stopover. But the position is unbeatable: Ben Nevis rises directly behind the town, Glen Coe lies half an hour south, Loch Ness is an hour north, and the Road to the Isles runs west to Mallaig through some of the finest mountain-and-sea scenery in the country.
 
-From the A82 to Inverness there is a junction at Spean Bridge, soon reached, that leads to Aviemore and the Cairngorms. Going south, beyond Loch Leven you come to some of the best scenery south of Skye in the [Glencoe](/europe/unitedkingdom/scotland/glencoe) area. You can leave this road to the west before this and take the Corran Ferry, one of the last ferries left in Scotland other than those to the Islands, to reach the peace of Ardgour, Ardnamurchan and Moidart. West the A830 follows a delightful course to Mallaig [see [Small Isles](/europe/unitedkingdom/scotland/small_isles)] Turning right off this on the B8004 parallel to the A82 enables you to see a stretch of the Caledonian Canal with some electrically operated locks.
+Ben Nevis, at 1,345 metres the highest mountain in Britain, is the obvious main draw. The standard tourist route starts from the visitor centre at Glen Nevis and takes most people six to eight hours for the round trip — long, exposed above the halfway lochan, and weather-dependent in a way first-time visitors often underestimate. A quieter and more scenic alternative is the path up past the Ben Nevis Distillery and the Allt a' Mhuilinn to the Charles Inglis Clark memorial hut, from which experienced walkers and climbers tackle the dramatic north face.
 
-Lastly you can leave the north bound A82 to the west on one of the two approaches to the great wilderness area of Knoydart.
+Beyond the Ben, the options are endless. The Jacobite Steam Train (the "Hogwarts Express" in the Harry Potter films) runs from Fort William to Mallaig in summer, crossing the 21-arch Glenfinnan Viaduct over the monument where Bonnie Prince Charlie raised his standard in 1745. Glen Coe, half an hour south down the A82, is one of the great Scottish landscapes and the site of the notorious 1692 massacre. The remote Knoydart peninsula, the last true wilderness in mainland Britain, is a two-day walk in from Kinloch Hourn. And the Corran Ferry on Loch Linnhe crosses to the peace of Ardnamurchan, one of the quietest corners of the Highlands.
 
-If you fancy a break from the car there are long walks based on Bein Nevis, Scotland's highest which is better approached from the distillery than the tourist route, or, if you want something less energetic, you could always have a boat trip on Loch Lynne.
+The West Highland Way, the 96-mile long-distance path from Milngavie near Glasgow, ends in Fort William — which explains the number of slightly dazed walkers you'll see on the high street on summer afternoons. Eat seafood at the Crannog on the pier (the red-roofed former bait shed, overlooking the loch), and raise a glass to the weather forecast.

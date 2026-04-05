@@ -91,14 +91,23 @@
 {% endblock %}
 
 {% block background %}
-{% if hero_image_url %}
-<div id="background-map" style="display:none"></div>
+{% if not is_continent %}
+  {% if hero_image_url %}
+  <div id="background-map" style="display:none"></div>
+  {% elif markers_json != "[]" or lat and lng %}
+  <div id="background-map"></div>
+  {% endif %}
 {% endif %}
 {% endblock %}
 
 {% block hero %}
-{% if hero_image_url %}
+{% if is_continent %}
 <div id="hero" class="hero">
+  <div id="country-map" class="hero-layer hero-map-layer"></div>
+</div>
+{% elif hero_image_url or markers_json != "[]" or lat and lng %}
+<div id="hero" class="hero">
+  {% if hero_image_url %}
   {% if hero_image_source %}
   <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
   {% endif %}
@@ -108,15 +117,8 @@
     <button class="hero-toggle-btn" id="hero-btn-map">Map</button>
   </div>
   {% endif %}
+  {% endif %}
   <button class="hero-expand-btn" id="hero-expand-btn" title="Show more">&#8964;</button>
-</div>
-{% elif is_continent %}
-<div id="hero" class="hero">
-  <div id="country-map" class="hero-layer hero-map-layer"></div>
-</div>
-{% elif markers_json != "[]" or lat and lng %}
-<div id="hero" class="hero">
-  <div id="location-map" class="hero-layer hero-map-layer"></div>
 </div>
 {% endif %}
 {% endblock %}
@@ -258,6 +260,9 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var bgMapEl  = document.getElementById('background-map');
   var bgMap    = null;
   var bgInited = false;
+
+  {% if hero_image_url %}
+  // Photo/Map toggle — background-map starts hidden
   var heroBtnPhoto = document.getElementById('hero-btn-photo');
   var heroBtnMap   = document.getElementById('hero-btn-map');
 
@@ -285,8 +290,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   if (heroBtnMap)   heroBtnMap.addEventListener('click',   setMapMode);
   if (heroBtnPhoto) heroBtnPhoto.addEventListener('click', setPhotoMode);
 
-  {% else %}
-  if (markers.length) initLocationMap('location-map', markers, mapOptions);
+  {% elif markers_json != "[]" or lat and lng %}
+  // Map-only — background-map starts visible, init immediately
+  if (bgMapEl && markers.length) {
+    bgMap = initLocationMap('background-map', markers, mapOptions);
+    bgInited = true;
+  }
   {% endif %}
 
   // Expand/collapse hero strip

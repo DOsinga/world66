@@ -3,6 +3,10 @@ latitude: -2.981434
 longitude: 23.822264
 title: Congo Kinshasa
 type: location
+image: congokinshasa.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Aéroport_International_de_N'djili_Kinshasa.JPG"
+image_license: "Public domain"
+image_attribution: "Humprey J. L. Boyelo"
 ---
 
 The Democratic Republic of the Congo is the largest country in sub-Saharan Africa and one of the most difficult to travel in. It is also, for the right kind of traveler, one of the most extraordinary. This is a country of superlatives: the Congo River is the deepest in the world, Virunga is Africa's oldest national park, and the forests of the Congo Basin are second only to the Amazon in scale. Nowhere else can you peer into a volcanic lava lake, trek with mountain gorillas, and dance to live rumba -- all in the same country.

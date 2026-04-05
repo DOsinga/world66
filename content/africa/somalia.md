@@ -3,6 +3,10 @@ latitude: 5.152149
 longitude: 46.199616
 title: Somalia
 type: location
+image: somalia.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:On_a_desserted_beach_in_Mogadishu,_Somalia_in_Dec_2024.jpg"
+image_license: "CC BY-SA 4.0"
+image_attribution: "Drew Binsky"
 ---
 
 Somalia occupies the Horn of Africa, a dramatic peninsula where the Gulf of Aden meets the Indian Ocean. It has the longest coastline on the African mainland — some 3,025 km of largely untouched shore — and a landscape that shifts from mountains in the north to semi-arid scrubland in the interior to the river valleys of the south.

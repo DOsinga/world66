@@ -3,6 +3,10 @@ title: "Japan"
 type: location
 latitude: 36.574844
 longitude: 139.239418
+image: japan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg"
+image_license: "CC BY-SA 2.0"
+image_attribution: "<a rel="nofollow" class="external text" href="https://www.flickr.com/people/84301190@N00">Rosino</a>"
 ---
 
 Japan is one of the most rewarding countries in the world to travel. It is modern and ancient simultaneously: bullet trains run on the second, while Buddhist monks chant in thousand-year-old temples. Streets are spotlessly clean and almost completely safe. The food is extraordinary. And despite the language barrier, Japan is surprisingly easy to get around.

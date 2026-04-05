@@ -3,6 +3,10 @@ title: "Jordan"
 type: location
 latitude: 31.166705
 longitude: 36.941628
+image: jordan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:As_Salt_Castle.JPG"
+image_license: "CC BY-SA 3.0"
+image_attribution: "<a href="//commons.wikimedia.org/wiki/User:Freedom%27s_Falcon" title="User:Freedom's Falcon">Freedom's Falcon</a>"
 ---
 
 Jordan punches well above its weight. A small country with no oil wealth and limited natural resources, it has assembled some of the most remarkable sights in the world: a city carved from rose-red sandstone, the lowest point on earth, Roman ruins that rival anything in Italy, and desert landscapes that feel like another planet. It is also, by the standards of the region, calm, stable, and welcoming.

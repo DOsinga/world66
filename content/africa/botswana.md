@@ -3,6 +3,10 @@ title: "Botswana"
 type: location
 latitude: -23.168178
 longitude: 24.592874
+image: botswana.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Kalahari_PICT0036_.JPG"
+image_license: "CC BY-SA 2.5"
+image_attribution: "Winfried Bruenken (<a href="//commons.wikimedia.org/wiki/User:Amrum" title="User:Amrum">Amrum</a>)"
 ---
 
 Botswana is one of Africa's great wildlife destinations and one of its most expensive. This is deliberate -- the government has pursued a low-volume, high-value tourism policy that keeps the wild places genuinely wild. If you can afford it, or if you are willing to self-drive and camp, the reward is landscapes and animal encounters that feel like nowhere else on earth.

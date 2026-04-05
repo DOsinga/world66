@@ -1,12 +1,15 @@
 ---
-title: "South Africa"
+title: South Africa
 type: location
 latitude: -28.816624
 longitude: 24.991639
 image: southafrica.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG"
-image_license: "CC BY-SA 4.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Uspn" title="User:Uspn">Bjørn Christian Tørrissen</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Uspn" title="User:Uspn">Bjørn
+  Christian Tørrissen</a>
+done:
+  country_cleanup: 2026-03-31
 ---
 
 Located at the southern tip of Africa, South Africa is an impressive melting-pot of sunshine and beaches (some even have penguins on them), astonishing mountain scenery in the [Drakensberg](/africa/southafrica/drakensberg) Area, sprawling national parks such as the [Kruger national park](/africa/southafrica/krugernationalpark) and small villages alternated with big thriving cities full of sharply dressed businessmen. Combine all of this with sunshine, ‘braai’ and rugby and you’ve found a perfect travel destination. 

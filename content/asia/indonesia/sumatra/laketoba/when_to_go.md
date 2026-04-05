@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Lake Toba"
+title: "When to Go"
 type: section
 ---
 

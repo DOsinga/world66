@@ -1,14 +1,6 @@
 ---
-title: 'Bars and Cafes'
+title: "Bars and Cafes"
 type: section
 ---
 
-**Bar Caffe Cavour.** Located at Piazza Cavour Camillo 12, one of the busiest bars around the chic Piazza Cavour entertainment district. A perfect place for people watching, with charming old-world Italian elegance. Good Prosecco and fresh Italian snacks.
-
-**American Green Bar.** Located in [Riccione](/europe/italy/emiliaromagna/riccione), this bar is an easy medley of cool American with stylish Italian. It has a lovely open terrace and a well-stocked bar with classic cocktails. A DJ provides smooth numbers in the evenings. Slightly on the expensive side and needs a booking during peak season. Open daily from 10pm to 3am.
-
-**Bar La Loggia.** At 19 Piazza Maggiore, a glamorous venue inside a medieval castle atop a hill in Mondaino. A fine collection of wines, liqueurs, and spirits, with unique antique decor and pavement tables for those who prefer an outdoor experience.
-
-**Cantina Aula Magna.** An informal yet stylish cafe at Piazzetta Agabiti 4 in the university area. Fresh hand-made pizzas, sandwiches, light appetisers, Italian desserts, and a range of cappuccinos.
-
-**Bio's Cafe.** For the health-conscious. The cafe uses only pure organic products in all its items, including ice cream and light snacks. Located in the Via Bramante neighbourhood.
+Rimini's nightlife scene is large and genuinely impressive for a mid-size Italian city. The beach clubs transform into bars after sunset, and the strip along the seafront has some of the loudest nightclubs in Italy. For something more Italian, **Bar Caffè Cavour** on Piazza Cavour in the historic centre is a good spot for an aperitivo. **Cantina Aula Magna** near the university area is casual and cheap. The **Riccione** district, to the south, is where the flashier clubs tend to concentrate.

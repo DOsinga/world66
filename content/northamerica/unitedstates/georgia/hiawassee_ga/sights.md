@@ -1,5 +1,5 @@
 ---
-title: "Sights in Hiawassee GA"
+title: "Sights"
 type: section
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Platja d'Aro"
+title: "Bars and Cafes"
 type: section
 ---
 

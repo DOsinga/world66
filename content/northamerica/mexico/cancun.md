@@ -5,14 +5,6 @@ latitude: 21.152747
 longitude: -86.842576
 ---
 
-Cancun is one of the major tourist destinations in Mexico. The city is located on a beautiful bay, along a long broad sunny beach. Nearby are many Maya sites that are easy to explore. They offer a unique insight in the precolombian civilization of Mexico.
+Cancun delivers on the basics: white sand that stays cool underfoot, warm Caribbean water in shades of turquoise, and more Mayan ruins within two hours' drive than most people can visit in a week. The Hotel Zone (Zona Hotelera) is exactly what you'd expect — a 15-mile strip of international resorts, chain restaurants, and nightclubs — while Cancun City (Ciudad Cancun) to the west is a genuine Mexican town with a market, local restaurants, and lower prices.
 
-The other main attraction of Cancun consists of the possibilities to see the world under the waves. Snorkeling and diving in Cancun and nearby Cozumel are among the best of the world.
-
-The town itself is rather disappointing however and if you have not booked a room with your flight it would be better to find lodging somewhere else. The big hotel chains are focused very much on package deal groups and do not cater well to individual travelers.
-
-To see the real Mexico the best place to go to would probably be Almeria, some 2 hours driving to the west.
-
-Orginal article by [TravellingMap](/world/member/travellingmap) on 28 January 05
-
-Minor corrections by [giorgio](/world/member/giorgio) on 22 February 05
+The real draw beyond the beach is the Yucatán Peninsula itself. Chichen Itza, Tulum, and Cobá are all within easy day-trip distance, and the cenotes — freshwater sinkholes in the limestone — are some of the best snorkeling and diving in the world. The reef off Cozumel, accessible by ferry from nearby Playa del Carmen, is world-class.

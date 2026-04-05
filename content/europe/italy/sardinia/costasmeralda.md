@@ -5,9 +5,9 @@ latitude: 40.899377
 longitude: 9.517747
 ---
 
-The Costa Smeralda is the most touristy part of Sardinia. It consists thousands of indentations and rocky promontories, a lot of great beaches and is breathtakingly beautiful. Let yourself be dazzled by the clear waters, where colours blend with the white sand of the beaches and with the red or pink granites and the green of the Mediterranean bush, dotted with one of the many sorts of blossoms that grow all throughout the year.
+The Costa Smeralda — the Emerald Coast — is a 55-kilometre stretch of northeastern Sardinia's coastline between the Gulf of Cugnana and the Gulf of Arzachena. The Aga Khan IV purchased the land in the early 1960s and developed it as a planned resort destination for the international wealthy, and it has remained one of Europe's most expensive holiday areas ever since. The granite-fringed coves, turquoise water, and pink-sand beaches are genuinely spectacular; the price levels are equally so.
 
-This is the part of Sardinia also boasts the highest concentration of marinas in the world. The universally renowned [Porto Cervo](/europe/italy/sardinia/costasmeralda/portocervo), hosting the Costa Smeralda Yacht Club is the place where rich Italians go with their yachts.
+Porto Cervo, the coast's main resort, centres on a superyacht marina that regularly hosts some of the largest private boats in the world. Porto Rotondo, a few kilometres south, is smaller and slightly less ostentatious. Both are largely closed out of season.
 
 ## Destinations in Costa Smeralda
 

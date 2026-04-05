@@ -1,6 +1,8 @@
 ---
 title: "Cabarete"
 type: location
+latitude: 19.7880
+longitude: -70.5130
 ---
 
 Caribbean's most laidback place to stay, Cabarete. This is the place to

@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Fortaleza"
+title: "Bars and Cafes"
 type: section
 ---
 

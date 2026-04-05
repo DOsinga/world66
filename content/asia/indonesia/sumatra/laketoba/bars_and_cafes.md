@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Lake Toba"
+title: "Bars and Cafes"
 type: section
 ---
 

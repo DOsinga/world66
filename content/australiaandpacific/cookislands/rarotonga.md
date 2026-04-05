@@ -5,12 +5,6 @@ latitude: -21.236831
 longitude: -159.777474
 ---
 
-With its jagged peaks and deep valleys, fertile slopes of red earth and sparkling aquamarine lagoon, Rartonga comes pretty close to the classic image of paradise.
+Rarotonga is the largest and most populous of the Cook Islands, a self-governing territory in free association with New Zealand. The island is roughly circular, about 32 km in circumference, with a dramatic interior of jagged volcanic peaks rising to over 600 metres and a narrow coastal plain ringed by a reef lagoon. It comes close to the archetype of a South Pacific island and is popular as a less commercial alternative to Fiji or Tahiti.
 
-
- Raratonga was one of the last of the Cook Islands to be visited by European ships, but since its "discovery" it has always been a favorite of sailors and merchants. Many old South Sea hands consider it the most beautiful island in the Pacific.
-
-
- Countless travellers' tales, books, plays and films have created a vision of an archetype of heaven in the South Seas -- massed coconut palms, jungle-clad peaks, the boom of combers smashing on the reef, the crimson flamboyant trees and the beat of the drum dance. Amazingly enough it is all true. Casual chats with overseas visitors will often confirm their surprise that such a place exists.
- 
- One feature remarked on by most visitors but almost unnoticed by Rarotongans is the number of tiny wild chickens which wander without hindrance wherever they choose. These fowl are too scrawny or quick to make serious contributions to cooking pots. Every morning before dawn and often in the middle of the night a chorus of cockerels starts up, with each rooster trying to outdo the other in staking their claims to territory and harems.
+Avarua, on the north coast, is the national capital — a small, relaxed town of a few thousand people. Most visitor accommodation is spread along the west and south coasts. The island's highlight beyond the lagoon beaches is the mountainous interior: a guided cross-island walk across the Te Rua Manga ridge is one of the best half-day hikes in the Pacific. Wild chickens wander freely across the island and the pre-dawn crowing of roosters is a reliable feature of any stay.

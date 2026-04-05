@@ -1,14 +1,10 @@
 ---
-title: "Hiawassee GA"
+title: "Hiawassee"
 type: location
 latitude: 34.947959
 longitude: -83.756992
 ---
 
-Travel Guide
+Hiawassee is a small mountain town in the Blue Ridge Mountains of northern Georgia, sitting at around 1,900 feet on the shores of Lake Chatuge. It serves as the seat of Towns County and draws visitors for its mountain scenery, outdoor recreation, and the Georgia Mountain Fair — a summer event that's been running since 1949. Brasstown Bald, the highest point in Georgia at 4,784 feet, is just a short drive away.
 
-Hiawassee, aside from being a lovely town, features interesting attractions. The Georgia Mountain Fair comes to town in the summer and a 10-day fall festival is at the fairgrounds in October. Anderson Music Hall, also on the fairgrounds, is the venue for concerts year-round. Downtown Hiawassee is populated by local shops and stores.
-
-Dining is a pleasant surprise in Hiawassee. The town boasts several good local restaurants offering many different cuisines. We got a great steak at Daniel's Family Steakhouse. The Rose is a sports bar, Asiana features Chinese and Thai cuisine, and Hawg Heaven has great barbecue. A couple of restaurants even feature gourmet cuisine on their menus at surprisingly low prices.
-
-There are numerous day trips from Hiawassee. One must-see excursion is to Brasstown Bald, the highest point in Georgia. At 4,784 feet above sea level, the weather on top is usually much cooler than the valley. About two-thirds of the way up, visitors can park and visit the gift shop. Shuttles will take guests to the very top, or people can hike the last half-mile. A visitors center sits atop the mountain and guests can see exhibits about the area's natural and cultural history, and also view a film about the mountain itself. On a clear day, visitors can see four states from the mountaintop, and the view is spectacular. The park is open Memorial Day through October, and on weekends in the spring and late fall, weather permitting.
+The town itself is modest: a handful of local restaurants, shops, and the fairgrounds on the lake. It's a good base for hiking sections of the Appalachian Trail, which passes through the area, and for fishing and boating on Lake Chatuge.

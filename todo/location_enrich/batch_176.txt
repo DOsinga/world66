@@ -31,7 +31,6 @@ northamerica/unitedstates/texas/houston/brazosportarea
 northamerica/unitedstates/california/hollister/wvknjoxhr
 asia/china/shanghai/nightlifeentertainment/no1beercity
 asia/india/uttaranchal/srinagar_pauri_ga/sant_nirankari_bha
-europe/russia/krasnodar
 europe/unitedkingdom/england/guildford
 europe/unitedkingdom/england/south_east/guildford
 europe/spain/spanishcostas/arroyodelamiel
@@ -42,7 +41,6 @@ northamerica/canada/ontario/haliburton
 asia/india/rajasthan/sriganganagar/shopping_1
 asia/thailand/chiangmai/toursevents/chiang_mai_tours
 asia/pakistan/azad_kashmir/panoila
-asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_1
 europe/slovakia/trnava_1
 europe/switzerland/winterthur
 europe/unitedkingdom/wales/bridgend

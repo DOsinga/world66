@@ -9,7 +9,6 @@ europe/italy/liguria/italianriviera/rivieradellepalme/urbe
 europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino
 asia/iran/isfahan/sightsattractions/vankchurch
 europe/bulgaria/primorsko
-europe/faroeislands/vagar/bour
 africa/tunisia/moknine
 africa/mauritius/casela
 africa/tunisia/monastir/moknine
@@ -22,7 +21,6 @@ asia/turkmenistan/mary
 northamerica/unitedstates/newyorkstate/dewitt
 northamerica/unitedstates/northdakota/medora
 northamerica/canada/saskatchewan/swift_current
-southamerica/brazil/rio_verde_gois
 africa/cameroon/ngaoundere
 africa/kenya/westernkenya/kisumu/wwwlondonguesthou_1
 northamerica/unitedstates/colorado/avon
@@ -38,7 +36,6 @@ europe/netherlands/diever
 africa/algeria/constantine
 northamerica/mexico/tlaxcala
 asia/indonesia/cirebon
-asia/philippines/bicol
 europe/sweden/visby/nynshamn
 africa/guineeconakry/labe
 africa/mauritius/curepipe
@@ -46,5 +43,4 @@ northamerica/dominica/roseau
 europe/slovenia/savinja_and_alek
 europe/lithuania/vilnius/izaias
 europe/netherlands/keukenhof
-europe/germany/mecklenburgwesternpomerania/rugen
 southamerica/venezuela/san_cristobal

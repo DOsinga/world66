@@ -10,7 +10,6 @@ africa/burkinafaso/tibl
 northamerica/unitedstates/newmexico/laguna
 northamerica/unitedstates/arizona/grandcanyon/facilities
 europe/azerbaijan/naxcivan/shahbuz/museums_1/regional_museum
-northamerica/mexico/zacapu
 northamerica/unitedstates/idaho/salmon_river
 northamerica/unitedstates/newyorkstate/auburn/gaiaeamiikvlid
 asia/indonesia/sumatra/bukittinggi
@@ -26,7 +25,6 @@ northamerica/canada/ontario/stcatharines
 asia/india/rajasthan/hanumangarh
 asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia
 europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford
-europe/netherlands/waddenislands/terschelling
 europe/ireland/cork/pubsandbars/reardens
 africa/southafrica/johannesburg/getting_there_2/long_distance_buss
 northamerica/cuba/matanzas

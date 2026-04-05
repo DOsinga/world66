@@ -15,7 +15,6 @@ northamerica/unitedstates/nebraska/falls_city
 northamerica/canada/alberta/banff/historicspecialsites/bankhead
 asia/turkey/diyarbakir/malatyada_satilik
 asia/india/andhrapradesh/rangareddy
-asia/india/uttaranchal/srinagar_pauri_ga/pauri_garhwal
 asia/thailand/maehongson/excursions/rafting
 asia/pakistan/azad_kashmir/forward_kahuta
 europe/spain/balearicislands/menorca/in2menorca
@@ -47,4 +46,3 @@ europe/germany/bavaria/romanticroad/badmergentheim
 northamerica/unitedstates/pawleys_island
 northamerica/unitedstates/arizona/tempe
 northamerica/canada/britishcolumbia/hornby_island/ive_got_the_hornb
-asia/srilanka/tissamaharama

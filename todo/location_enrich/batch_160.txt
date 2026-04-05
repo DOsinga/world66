@@ -21,7 +21,6 @@ northamerica/unitedstates/iowa/devanport
 northamerica/unitedstates/michigan/warrendunes
 northamerica/unitedstates/california/venice_1
 northamerica/unitedstates/california/centralvalley/bakersfield/particularly_benef
-asia/india/uttaranchal/kanatal/basnsai_talli_vill
 asia/thailand/kohchang/koh_mak
 europe/sweden/pajala
 europe/portugal/setubal

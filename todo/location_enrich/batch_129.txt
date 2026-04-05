@@ -6,12 +6,10 @@ northamerica/unitedstates/newjersey/piscataway
 northamerica/canada/alberta/edmonton/outdoors/colibritoursltd
 northamerica/canada/britishcolumbia/vancouver/tours/colibritoursltd
 asia/india/rajasthan/ajmer/sights_1
-asia/pakistan/azad_kashmir/kotli/rawal_pindi
 asia/jordan/wadirum/quweira
 africa/mali/dogoncountry/sanga
 northamerica/unitedstates/california/sanfranciscobayarea/accommodation_1
 northamerica/canada/alberta/banff/goingout/rosecrown
-asia/japan/honshu/osaka/aroundosaka
 asia/pakistan/bhalwal/shopping_2
 europe/poland/torun
 europe/italy/veneto/chioggia
@@ -46,5 +44,4 @@ southamerica/argentina/patagonia/comodoro_rivadavia
 northamerica/unitedstates/southdakota/deadwood
 northamerica/unitedstates/wyoming/little_america
 northamerica/unitedstates/florida/delray_beach
-northamerica/unitedstates/idaho/teton_valley
 europe/estonia/narvajesuu

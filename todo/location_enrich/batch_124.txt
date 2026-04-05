@@ -1,4 +1,3 @@
-asia/pakistan/islamabad/chashama
 europe/ukraine/yaremche
 asia/india/tamilnadu/mahabalipuram
 asia/thailand/bangkok/toursevents/fairsfestivals
@@ -8,7 +7,6 @@ asia/india/andhrapradesh/machilipatnam/tarakaturu_1
 asia/india/andhrapradesh/machilipatnam/tarakaturu
 asia/india/andhrapradesh/machilipatnam/tarakaturu_2
 asia/india/gujarat/vadodara/baroda
-asia/india/uttaranchal/dhumakot_village_c/shishupal_singh_ra
 europe/belarus/slutsk
 europe/sweden/degerfors
 europe/sweden/gotland
@@ -28,7 +26,6 @@ southamerica/ecuador/mompiche
 asia/china/yunnanprovince/highlights/shangrila
 europe/hungary/pilis_hills
 europe/unitedkingdom/england/chiswick
-europe/italy/trentinoaltoadige/val_di_fassa
 europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re
 northamerica/canada/newbrunswick/campobello_island
 asia/myanmar/kyaiktiyo
@@ -43,7 +40,6 @@ asia/indonesia/kalimantan/banjamarsin
 europe/estonia/otep
 europe/croatia/samobor
 europe/spain/catalonia/nuria
-africa/morocco/marrakesh/bookshops
 africa/southafrica/johannesburg/getting_there_1
 australiaandpacific/newzealand/otago/fiordland/te_anau
 northamerica/unitedstates/florida/palatka

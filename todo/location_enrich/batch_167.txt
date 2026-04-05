@@ -8,7 +8,6 @@ asia/india/maharashtra/pune/cybercaf/econnect
 asia/thailand/cha_am/how_to_get_to_cha
 asia/iran/tehran/damghan
 europe/germany/mecklenburgwesternpomerania/fischland_darss
-europe/ireland/cork/wilton/glasheen
 australiaandpacific/tuvalu/nukufetauatoll
 northamerica/unitedstates/newyorkstate/queensbury
 northamerica/greenland/practicalinformation/photography

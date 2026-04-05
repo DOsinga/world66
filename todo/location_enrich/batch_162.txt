@@ -14,7 +14,6 @@ northamerica/unitedstates/virginia/chantilly
 northamerica/canada/britishcolumbia/fishing
 asia/cyprus/larnaca/cybercafs/webinternetcafe
 europe/spain/northernspain/lacorua
-africa/algeria/blida
 africa/centralafricanrepublic/bangassou
 northamerica/unitedstates/florida/lecanto
 northamerica/unitedstates/california/modesto
@@ -22,7 +21,6 @@ asia/india/kerala/tattamanglam
 asia/thailand/maehongson/excursions/thamlot
 asia/pakistan/nushki/panjgur
 europe/georgia/kazbegi
-europe/austria/bregenzerwald
 europe/ireland/cork/europe/ireland/cork/highlights
 southamerica/uruguay/melo
 africa/benin/abomey

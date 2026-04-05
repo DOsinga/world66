@@ -10,7 +10,6 @@ asia/pakistan/dera_ghazi_khan/fazla_kach
 asia/pakistan/azad_kashmir/forward_kahuta_1
 asia/pakistan/hassan_abdal/shahia_1
 asia/pakistan/azad_kashmir/jandathi/jandala
-asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1
 europe/russia/tomsk
 europe/unitedkingdom/england/eastern_england/80g_ipod_video_6
 europe/unitedkingdom/scotland/aberdeen/barspubs/inversneckycafe

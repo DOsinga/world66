@@ -1,9 +1,7 @@
 asia/malaysia/melaka/culturefood
-northamerica/unitedstates/california/centralcoast/santamaria
 asia/kuwait/kuwait
 europe/norway/hammerfest
 europe/unitedkingdom/cumbria
-northamerica/netherlandsantilles/curacao
 asia/japan/honshu/matsumoto
 europe/ukraine/donetsk
 australiaandpacific/australia/queensland/mackay/hotels_intro
@@ -16,8 +14,6 @@ northamerica/unitedstates/niagara_frontier
 northamerica/unitedstates/newyorkstate/niagara_frontier
 asia/turkey/erzincan
 northamerica/unitedstates/mississippi/natchez
-europe/unitedkingdom/scotland/aberdeen/barspubs
-europe/germany/hamburg/toursdaytrips
 europe/italy/tuscany/monsummano_terme/hotels_intro
 asia/cambodia/sihanoukville
 europe/spain/northernspain/burgos
@@ -27,7 +23,6 @@ europe/germany/schleswigholstein/north_frisian_isla/frisian_islands_in
 southamerica/chile/rancagua/puerto_bories
 northamerica/unitedstates/california/commerce
 northamerica/unitedstates/indiana/richmond
-europe/germany/badenwrttemberg/badenbaden/spas
 australiaandpacific/australia/newsouthwales/brokenhill
 europe/italy/veneto/treviso
 africa/egypt/pyramids_of_egypt
@@ -37,11 +32,8 @@ southamerica/ecuador/bahiadecaraquez
 europe/france/aquitaine/larochelle
 europe/france/midi/languedoc/nmes
 northamerica/mexico/yucatan/rio_lagartos
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/makwal_kalan
 australiaandpacific/solomonislands/santaisabel
 southamerica/peru/huancabamba
-europe/finland/joensuu
-africa/morocco/zagora/tours
 africa/guineeconakry/guineeconakry
 asia/taiwan/alishan
 europe/austria/kitzbuehel

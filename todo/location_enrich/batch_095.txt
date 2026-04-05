@@ -1,4 +1,3 @@
-northamerica/costarica/playa_herradura
 asia/pakistan/hunzavalley/gojal_valley/chipurson_gojal
 asia/india/karnataka/tumkur
 europe/italy/molise/isernia
@@ -12,11 +11,9 @@ europe/unitedkingdom/wales/cardiff/barscafes
 australiaandpacific/niue/alofi
 southamerica/peru/huancayo
 northamerica/britishvirginislands/marina_cay
-asia/philippines/southern_leyte/maasin_city
 northamerica/unitedstates/maryland/montgomerycounty/rockville
 europe/sweden/slen
 europe/italy/lazio/terracina
-northamerica/puertorico/vieques
 northamerica/panama/antonvalley
 northamerica/unitedstates/california/goldcountry/jackson
 europe/unitedkingdom/england/bristol_plymouth/devon/exeter
@@ -35,11 +32,9 @@ northamerica/mexico/campeche
 northamerica/unitedstates/washington/bellingham
 northamerica/unitedstates/newmexico/tucumcari
 northamerica/mexico/yucatan/campeche
-europe/unitedkingdom/scotland/shetland
 southamerica/peru/chachapoyas/tingo
 northamerica/unitedstates/california/centralcoast/ventura
 asia/indonesia/java/borobudur/ratu_boko
-europe/albania/mallakaster
 europe/italy/valledaosta/aosta
 asia/srilanka/polannaruwa
 europe/netherlands/waddenislands/terschelling_islan/formerum

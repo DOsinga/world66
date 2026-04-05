@@ -39,7 +39,6 @@ africa/tunisia/douz
 europe/unitedkingdom/wales/conwy
 northamerica/canada/alberta/edmonton/goingout/november252000
 europe/estonia/valgeranna
-europe/germany/badenwrttemberg/stuttgart/thermalbaths
 northamerica/haiti/petite_riviere_de
 northamerica/unitedstates/wisconsin/parkfalls
 northamerica/unitedstates/california/watsonville_2

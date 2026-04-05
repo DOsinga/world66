@@ -16,7 +16,6 @@ africa/centralafricanrepublic/bouar
 northamerica/unitedstates/texas/quality_inn__suit
 asia/india/uttarpradesh/fatehpursikri/aboutthecity
 europe/macedonia/ohrid/velestovo
-northamerica/honduras/bayislands/cayos_cochinos/honduras_tourist_o
 northamerica/unitedstates/georgia/valdosta
 northamerica/unitedstates/texas/utopia
 southamerica/brazil/niteroi/piratininga_beach
@@ -44,7 +43,6 @@ europe/france/normandybrittany/lisieux
 europe/italy/basilicata/montescaglioso
 northamerica/unitedstates/california/shastacascade/trinity
 asia/pakistan/azad_kashmir/leswa
-europe/denmark/brabrand
 europe/france/normandybrittany/caen
 europe/france/midi/dordogne/domme
 europe/germany/badenwrttemberg/ravensburg_1

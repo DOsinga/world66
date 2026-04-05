@@ -33,7 +33,6 @@ northamerica/canada/alberta/banff/goingout/magpieandstump
 asia/thailand/chiangmai/churches/churchofchrist
 asia/pakistan/islamabad/muzaffarabad_ajk_1
 asia/pakistan/islamabad/muzaffarabad_ajk
-asia/pakistan/azad_kashmir/bagh/kana_mohri
 europe/russia/ufa
 europe/portugal/algarve/tavira/moncarapacho
 europe/italy/puglia/bari/rome

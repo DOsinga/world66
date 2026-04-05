@@ -1,7 +1,4 @@
 europe/spain/soria
-europe/finland/rovaniemi
-europe/finland/elimki
-europe/italy/liguria/genoa/aquarium
 northamerica/unitedstates/virginia/wingate_fredericks
 northamerica/unitedstates/oklahoma/broken_arrow
 northamerica/unitedstates/california/orangecounty/newportbeach/shopping_1
@@ -14,8 +11,6 @@ asia/iraq/arbil/al_sulaymaniah
 northamerica/unitedstates/missouri/rolla
 europe/italy/liguria/rivieradellepalme/cairomontenotte
 europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte
-southamerica/guyana/newamsterdam
-asia/india/madhyapradesh/bhopal
 northamerica/unitedstates/newmexico/farmington
 europe/spain/galicia/tui
 australiaandpacific/australia/tasmania/climbing
@@ -29,9 +24,6 @@ northamerica/unitedstates/california/centralcoast/santamaria/placestostay/santam
 asia/iran/hormuz_island
 europe/italy/liguria/imperovalley
 northamerica/canada/britishcolumbia/vancouver/tours/the_mighty_rockies
-southamerica/brazil/campinas
-asia/pakistan/gujrat/jalalpur_jattan
-europe/russia/karelia/petrozavodsk
 europe/unitedkingdom/england/devon
 africa/angola/namibe
 northamerica/unitedstates/colorado/durango

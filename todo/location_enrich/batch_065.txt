@@ -8,16 +8,12 @@ europe/montenegro/montenegro
 europe/unitedkingdom/england/basingstoke
 europe/unitedkingdom/england/south_east/basingstoke
 europe/unitedkingdom/england/bristol_plymouth/bristol/barsandpubs
-africa/equatorialguinea/riomuni
 asia/japan/kunitachi_tokyo
 africa/kenya/lakes/lakebaringo
-northamerica/canada/britishcolumbia/victoria/events
 africa/morocco/tangier/usefuladdresses
-africa/mauritius/souillac
 southamerica/chile/antofagasta
 asia/tajikistan/tajikistan
 africa/kenya/centralhighlands/naromoru
-northamerica/unitedstates/california/northcoast/eureka_1
 africa/congobrazzaville/impfondo
 europe/russia/irkutsk/ulan_ude
 northamerica/mexico/akumal
@@ -32,7 +28,6 @@ europe/bulgaria/koprivshtitsa
 europe/italy/valledaosta/courmayeur
 africa/kenya/nairobi/safety
 northamerica/unitedstates/indiana/delphi
-europe/ireland/sligo
 southamerica/ecuador/aluasi__railway_t
 southamerica/frenchguiana/kourou
 africa/morocco/agadir/shopping_1

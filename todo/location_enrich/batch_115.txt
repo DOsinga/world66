@@ -6,14 +6,12 @@ northamerica/unitedstates/indiana/rensselaer
 europe/azerbaijan/naxcivan/batabat
 northamerica/unitedstates/southdakota/fort_thompson
 asia/philippines/misamis_occidental
-europe/croatia/miljet_island
 europe/france/normandybrittany/guilvinec
 europe/germany/saxonyanhalt/wernigerode
 europe/italy/sardinia/baia_sant_anna
 asia/india/maharashtra/konkan/vijaydurga
 europe/unitedkingdom/scotland/edinburgh/stockbridge
 southamerica/guyana/baganara
-southamerica/paraguay/santan
 northamerica/mexico/nuevocasasgrandes/to_the_president_o
 asia/indonesia/lombok/cakranegara
 asia/indonesia/sumatra/medan

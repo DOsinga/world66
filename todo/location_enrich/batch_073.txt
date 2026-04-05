@@ -1,7 +1,6 @@
 northamerica/unitedstates/indiana/thorntown
 asia/indonesia/java/bogor
 europe/norway/oslo/holmekollen
-europe/slovenia/postojnacaves
 europe/italy/emiliaromagna/parma
 africa/mauritania/mauritania
 asia/britishindianoce/diego_garcia
@@ -17,10 +16,7 @@ northamerica/unitedstates/arizona/flagstaff
 asia/bhutan/phuntsholing
 europe/serbiaandmontenegro/budva
 europe/spain/northernspain/pontevedra
-europe/ireland/clare
 southamerica/argentina/esquina_corrientes
-asia/israel/ein_hod
-europe/sweden/sdertlje
 southamerica/falklandislands/falklandislands
 australiaandpacific/australia/tasmania/westcoast
 europe/malta/sliema
@@ -46,5 +42,4 @@ europe/montenegro/perast
 europe/italy/sicily/mount_etna_park
 northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/specialevents/16_burlingame_art
 africa/morocco/larache
-australiaandpacific/australia/tasmania/eastcoast
 northamerica/unitedstates/newjersey/somerville

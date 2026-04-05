@@ -22,7 +22,6 @@ northamerica/greenland/narsaq
 northamerica/unitedstates/montana/thompson_falls
 northamerica/canada/quebec/montreal/goingout/the_main_bar
 africa/mauritania/atar
-africa/mali/mopti/usefuladdresses
 australiaandpacific/newzealand/auckland_region/auckland/things_to_do_1
 northamerica/turksandcaicosislands/pinecay
 asia/iran/tabriz/bazar
@@ -37,8 +36,6 @@ europe/sweden/lund/studentlife
 europe/russia/kizhi/karelia
 africa/somalia/lasanod
 northamerica/unitedstates/california/centralcoast/oxnard
-northamerica/mexico/mexicocity/accommodation_1
-africa/somaliland/borama
 asia/india/haryana/baroda_jind
 asia/philippines/binanlaguna/microtel_by_wyndha
 asia/pakistan/abbottabad/dubran
@@ -47,4 +44,3 @@ europe/unitedkingdom/suffolk/lowestoft
 europe/italy/molise/campobasso
 asia/india/madhyapradesh/sirpur
 europe/germany/saxony/bautzen
-europe/ireland/limerick/barspubs

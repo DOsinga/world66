@@ -14,7 +14,6 @@ southamerica/colombia/palmira
 southamerica/brazil/fortaleza/region
 africa/togo/togoville
 northamerica/nicaragua/montelimar
-northamerica/cuba/baracoa
 northamerica/canada/newfoundland/lanseauxmeadows
 northamerica/canada/quebec/valdavid
 asia/india/kerala/pampady
@@ -30,7 +29,6 @@ europe/albania/lezha_castle/shen_gjin/permet
 southamerica/colombia/zipaquira
 northamerica/canada/alberta/calgary/sports/horseracing
 asia/indonesia/bali/lovina
-asia/india/uttaranchal/hemkunt
 europe/spain/catalonia/mataro
 southamerica/argentina/bahiablanca
 northamerica/unitedstates/maine/fryeburg

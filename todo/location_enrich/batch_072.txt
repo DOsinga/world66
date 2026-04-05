@@ -1,11 +1,8 @@
 africa/southafrica/capetown/tablemountain
 europe/norway/lofotenislands/brettesnes_lofoten
 europe/norway/lofotenislands/brettesnes_lofoten_1
-europe/italy/abruzzo/teramo
-africa/rwanda/gisenyi
 northamerica/unitedstates/nevada/lasvegas/casinos
 europe/sweden/falun
-asia/vietnam/vungtau
 africa/ethiopia/mekele
 northamerica/unitedstates/massachusetts/sturbridge
 asia/kyrgyzstan/lakeissykkul
@@ -15,7 +12,6 @@ northamerica/unitedstates/california/centralvalley/selma
 northamerica/unitedstates/pennsylvania/benton
 southamerica/peru/ancash
 northamerica/unitedstates/oklahoma/ponca_city
-europe/denmark/bornholmisland
 africa/djibouti/lakeabbe
 asia/iraq/babylon
 northamerica/unitedstates/ohio/whatsgoingon
@@ -29,7 +25,6 @@ southamerica/venezuela/paraguan_peninsu
 northamerica/unitedstates/washington/yakima_valley
 europe/romania/sibiu
 africa/somaliland/somaliland
-australiaandpacific/newzealand/otago/wanaka
 northamerica/unitedstates/alaska/homer
 northamerica/unitedstates/newjersey/lambertville
 europe/russia/pskov
@@ -39,7 +34,6 @@ northamerica/unitedstates/texas/midland
 asia/philippines/rizal
 asia/thailand/kohphiphi/asia/southeastasia/thailand/kohphiphi
 northamerica/unitedstates/louisiana/batonrouge
-asia/pakistan/azad_kashmir/pallandri
 europe/georgia/tbilisi/gudauri/kazbegi
 europe/italy/tuscany/siena/toursdaytrips/chianti_tour
 northamerica/unitedstates/pennsylvania/reading

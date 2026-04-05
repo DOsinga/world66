@@ -1,5 +1,4 @@
 europe/serbiaandmontenegro/perast
-asia/pakistan/sheikhu_pura
 asia/japan/ryukyuislands/zamamiisland
 asia/thailand/chiangrai/aroundchiangrai/doimaesalong
 asia/pakistan/thatta/baden_1

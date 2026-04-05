@@ -10,7 +10,6 @@ asia/china/hainanisland/xinglong
 europe/georgia/bakuriani
 asia/myanmar/mrauku
 europe/georgia/borjomi
-europe/faroeislands/eysturoy/noroyggjar
 southamerica/venezuela/coloniatovar
 northamerica/unitedstates/alaska/furrendezvous
 northamerica/unitedstates/utah/heber_city
@@ -20,7 +19,6 @@ southamerica/venezuela/valencia
 asia/japan/honshu/takayama
 europe/france/midi/dordogne/sarlat/practicalinfo
 australiaandpacific/australia/tasmania/foodandculture/verandahs_in_the_v
-northamerica/unitedstates/delaware/newark
 asia/pakistan/taunsa_sharif
 europe/malta/comino
 northamerica/unitedstates/washington/the_palouse

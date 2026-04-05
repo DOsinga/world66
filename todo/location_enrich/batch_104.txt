@@ -18,14 +18,12 @@ asia/india/maharashtra/dhule/history_1
 europe/germany/lowersaxony/frisianislands
 europe/germany/rhinelandpalatinate/trier/barspubs/blauesblut
 europe/ireland/clare/lough_derg
-northamerica/honduras/bayislands/cayos_cochinos
 asia/india/assam/guwahati
 asia/thailand/sukhothai/juotrkdqrbnamdh
 europe/unitedkingdom/england/gloucestershire/cotswolds
 asia/china/jiangxi
 europe/france/centre/lemans
 europe/spain/andalucia/conil
-europe/greece/athens/todo
 africa/ghana/upper_west
 europe/italy/calabria/tropea
 africa/ethiopia/harar
@@ -45,6 +43,5 @@ europe/unitedkingdom/england/scarborough
 europe/unitedkingdom/england/leeds_sheffield_a/scarborough
 northamerica/unitedstates/connecticut/glastonbury
 asia/turkey/edirne
-asia/japan/tokyo/ginza/barspubs
 europe/france/midi/cotedazur/nice/great_work
 europe/germany/badenwrttemberg/lakeconstance

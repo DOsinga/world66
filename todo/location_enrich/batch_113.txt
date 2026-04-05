@@ -37,7 +37,6 @@ africa/mozambique/quelimane
 northamerica/unitedstates/california/brawley
 northamerica/canada/alberta/edmonton/outdoors/altacantours
 asia/vietnam/hoalu
-asia/india/goa/margao
 europe/italy/sicily/aeolianislands/stromboli
 asia/india/sikkim/pelling
 northamerica/unitedstates/kansas/larned

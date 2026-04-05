@@ -1,6 +1,5 @@
 australiaandpacific/tuvalu/niulakitaisland
 northamerica/unitedstates/washington/selah
-northamerica/unitedstates/montana/glendive
 northamerica/canada/alberta/banff/goingout/thekeg
 northamerica/dominicanrepublic/puertoplata/playabergantin
 asia/india/andhrapradesh/vetapalem
@@ -29,8 +28,6 @@ africa/ethiopia/debre_damo
 northamerica/unitedstates/texas/houston/downtown
 northamerica/unitedstates/california/highsierra/bridgeport
 northamerica/unitedstates/california/sandiego/solanabeach
-europe/georgia/zugdidi
-europe/france/midi_1/provence
 northamerica/saintvincentandthegrenadines/tobagocays
 asia/india/madhyapradesh/hoshangabad
 europe/poland/jaslo
@@ -42,7 +39,6 @@ northamerica/unitedstates/newjersey/hightstown
 europe/russia/karelian_isthmus
 europe/spain/balearicislands/menorca/virtual_tour_throu
 europe/croatia/krkisland/vrbnik
-europe/greece/crete/iraklion/villa_bellevuehot
 australiaandpacific/vanuatu/shepherdgroup
 australiaandpacific/tuvalu/funafutiatoll
 australiaandpacific/newzealand/waikato/waitomo

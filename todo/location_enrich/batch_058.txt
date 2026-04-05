@@ -10,7 +10,6 @@ africa/mauritius/rodrigues
 northamerica/netherlandsantilles/bonaire
 europe/bulgaria/plovdiv
 northamerica/canada/ontario/northamerica/canada/ontario
-asia/pakistan/dera_ghazi_khan/yaroo_khosa
 europe/unitedkingdom/warwick
 northamerica/belize/naturepreserves
 northamerica/nicaragua/ruins_of_len_vie
@@ -22,7 +21,6 @@ australiaandpacific/frenchpolynesia/borabora/watersports
 europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure
 europe/denmark/r_southern_fyn
 asia/india/nagaland
-europe/azerbaijan/agdam
 africa/somaliland/berbera_1
 southamerica/brazil/imbituba
 northamerica/unitedstates/california/northcoast/eureka
@@ -34,17 +32,14 @@ europe/germany/lowersaxony/goettingen
 europe/italy/liguria/gallinarapark
 northamerica/virginislands/stcroix
 northamerica/unitedstates/alabama/coveredbridges
-asia/pakistan/khyberpass
 asia/india/uttarpradesh/moradabad
 asia/india/maharashtra/konkan/khed/bahirwali
 europe/norway/telemark
 europe/spain/canaryislands/lapalma
-australiaandpacific/newzealand/bay_of_plenty/rotorua
 europe/czechrepublic/spindleruvmlyn
 europe/italy/liguria/albenga/gallinaraisland
 europe/azerbaijan/mingechevir
 africa/tunisia/gabes
 asia/india/andhrapradesh/vijayawada
-asia/pakistan/azad_kashmir/fathepur_thakiala/qumrooti
 northamerica/unitedstates/california/northcoast/crescentcity
 northamerica/unitedstates/newhampshire/manchester

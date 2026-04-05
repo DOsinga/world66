@@ -1,4 +1,3 @@
-asia/pakistan/azad_kashmir/mirpur/islam_garh_morah_m
 northamerica/unitedstates/utah/spanish_fork
 northamerica/unitedstates/nebraska/valentine
 northamerica/unitedstates/hawaii/kauai/sights_1
@@ -17,7 +16,6 @@ northamerica/unitedstates/florida/everglades/marco_island_flor
 asia/india/orissa/bhubaneswar/karanjia__similip
 asia/pakistan/dera_ismail_khan/wah_village
 northamerica/mexico/puertoaventuras
-northamerica/unitedstates/georgia/helen
 africa/tunisia/sfax
 northamerica/unitedstates/texas/nylo_hotels_plano
 asia/india/tamilnadu/salem

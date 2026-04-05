@@ -20,7 +20,6 @@ africa/libya/jebelakhdar/misurata
 northamerica/unitedstates/colorado/durangocolorado
 asia/oman/ibri/travel_agancey_in
 asia/india/andhrapradesh/palair
-asia/pakistan/abbottabad/aliabad_circle_ba/pakho_naker
 europe/switzerland/einsiedeln
 europe/iceland/egilsstadir
 europe/france/centre/limousin/rochebrune

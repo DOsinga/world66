@@ -2,14 +2,12 @@ africa/nigeria/ikom
 australiaandpacific/australia/southaustralia/william_creek
 northamerica/unitedstates/palm_springs
 northamerica/unitedstates/michigan/frankenmuth_mi
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/makwal_kalan_1/makwal_kalan/basti_ahmadani
 europe/ireland/cork/togher
 northamerica/unitedstates/utah/bullfrog_marina
 asia/india/madhyapradesh/sanchi
 europe/france/midi/southern_alps/train_des_pignes
 northamerica/unitedstates/california/sanfranciscobayarea/westgate
 asia/japan/shikoku/marugame
-asia/india/punjab/dhuri_city
 asia/pakistan/dera_ghazi_khan/taunsa_sharif/makwal_kalan/mohallah_nizam_aba
 europe/unitedkingdom/england/manchester_liverp/england/manchester_liverp
 europe/albania/saranda/hotels_in_saranda
@@ -31,7 +29,6 @@ europe/belgium/hastiere
 europe/finland/pirkkala
 africa/algeria/skikda
 australiaandpacific/australia/victoria/melbourne/cybercafs/cybernetcaf
-asia/pakistan/soon_valley/ugalisharif
 northamerica/unitedstates/georgia/crawfordville_geo
 northamerica/unitedstates/illinois/carbondale/shawnee_adventure
 northamerica/unitedstates/california/shastacascade/quincy
@@ -45,6 +42,5 @@ europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri
 africa/somaliland/erigavo
 australiaandpacific/newzealand/north_island/manawatu
 asia/india/manipur/khongjom
-asia/india/orissa/berhampur/aska
 europe/france/centre/loirevalley/bracieux
 europe/hungary/budapest/coffeehouses/coffee_cat

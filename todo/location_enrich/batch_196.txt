@@ -4,7 +4,6 @@ asia/philippines/escalante_city
 asia/israel/ein_hod/john
 asia/pakistan/dera_ghazi_khan/tibbi_miana
 asia/pakistan/bhalwal/moazzam_abad
-asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2
 europe/ukraine/ivanofrankivsk
 europe/bosniaandherzegovina/medjugorje/m275z
 europe/spain/balearicislands/ibiza/sargamassa

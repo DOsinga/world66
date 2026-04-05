@@ -1,4 +1,3 @@
-northamerica/unitedstates/newyorkstate/adirondacks
 northamerica/unitedstates/massachusetts/stockbridge
 asia/philippines/zambales_1
 asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian
@@ -13,8 +12,6 @@ asia/uzbekistan/shakhrisabz/evoqqgbnc
 europe/italy/liguria/italianriviera/rivieradellepalme/murialdo
 africa/ghana/lakevolta
 asia/india/bihar/patna
-europe/ireland/carlow
-europe/finland/kajaani
 europe/france/midi/pyrenees/vernet_les_bains/prades
 europe/unitedkingdom/england/eastern_england/ely
 europe/germany/murnau_am_staffels
@@ -25,7 +22,6 @@ northamerica/canada/britishcolumbia/vancouver/goingout/the_cambie
 australiaandpacific/australia/newsouthwales/the_entrance
 northamerica/unitedstates/oklahoma/grove
 asia/qatar/alwakrah
-europe/albania/vlore/accommodation_3
 europe/italy/emiliaromagna/bellaria
 africa/mauritania/kiffa
 asia/myanmar/maymyo
@@ -37,12 +33,10 @@ northamerica/unitedstates/arkansas/mountain_view
 africa/kenya/theriftvalley/naivasha/eatingoutentertainment/burchscampsite
 australiaandpacific/australia/westernaustralia/perth/cybercafs/netcom_internet_ca
 northamerica/unitedstates/florida/cassadaga
-asia/pakistan/azad_kashmir/rawalacoat/shaina_mora
 asia/bangladesh/banderban_hill_tra
 asia/lebanon/aley
 northamerica/greenland/qaanaaq
 northamerica/unitedstates/southcarolina/florence
-asia/india/uttaranchal/karanprayag/pauri
 africa/algeria/tlemcen
 australiaandpacific/cookislands/mauke
 northamerica/jamaica/falmouth

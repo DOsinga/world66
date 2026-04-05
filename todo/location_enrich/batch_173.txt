@@ -1,7 +1,6 @@
 northamerica/unitedstates/oklahoma/chandler
 asia/malaysia/cameronhighlands/pubscafes/ranchpub
 asia/china/shanghai/nightlifeentertainment/gelunbubar
-asia/pakistan/azad_kashmir/mirpur/jatti_dahri
 europe/netherlands/lochem
 europe/netherlands/waddenislands/terschelling/midsland
 europe/albania/tepelene/tepelena/blerim
@@ -31,7 +30,6 @@ northamerica/unitedstates/oklahoma/warr_acres
 asia/thailand/maehongson/excursions/thamnamlang
 asia/pakistan/azad_kashmir/bagh/kahuta
 europe/poland/kazimierzdolny
-europe/belgium/wervik
 australiaandpacific/fiji/yasawaislands
 australiaandpacific/vanuatu/espiritusanto
 northamerica/unitedstates/california/manhattan_beach

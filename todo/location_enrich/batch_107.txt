@@ -1,5 +1,4 @@
 asia/uzbekistan/samarkand/termez
-europe/france/nord/boulogne
 europe/netherlands/friesland/sneek
 europe/ireland/cork/youghal
 europe/italy/liguria/italianriviera/rivieradellepalme/testico
@@ -13,7 +12,6 @@ northamerica/canada/nunavut/inuitandtheland
 asia/india/gujarat/ahmedabad/sightseeing/sarkhej_roja
 europe/spain/balearicislands/ibiza/clubs/pacha
 europe/italy/calabria/scilla_1
-northamerica/unitedstates/newyorkstate/uniondale
 asia/iran/kishisland
 europe/unitedkingdom/scotland/pennan
 northamerica/unitedstates/delaware/dover
@@ -47,4 +45,3 @@ northamerica/unitedstates/indiana/williams_dam
 asia/cyprus/kourion
 europe/romania/bistrita
 northamerica/unitedstates/indiana/franklin
-asia/pakistan/azad_kashmir/mirpur/afzalpur/pindi_suberwal

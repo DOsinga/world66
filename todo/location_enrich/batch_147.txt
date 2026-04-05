@@ -7,7 +7,6 @@ europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout
 northamerica/martinique/le_carbet
 europe/serbia/sokobanja
 northamerica/honduras/santarosadecop
-northamerica/unitedstates/alaska/portageglacier
 northamerica/unitedstates/minnesota/coon_rapids
 northamerica/unitedstates/alaska/anchorage/operatheater
 asia/philippines/mindoroisland/pandan_is
@@ -32,7 +31,6 @@ northamerica/unitedstates/pennsylvania/pristine_treasure
 northamerica/unitedstates/alabama/highlights/looneystavern
 northamerica/canada/quebec/mont_tremblant_que
 northamerica/canada/britishcolumbia/victoria/chemainus
-asia/pakistan/ahmad_pur_east
 asia/india/uttaranchal/mussoorie/arvind
 europe/faroeislands/suuroy/tvroyri
 africa/nigeria/zumarock

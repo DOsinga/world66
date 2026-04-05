@@ -1,7 +1,6 @@
 asia/china/manzhouli
 europe/latvia/gauja_national_par
 asia/india/rajasthan/alwar
-europe/germany/rhinelandpalatinate/mosel/lieser
 northamerica/mexico/mazatlan
 asia/india/gujarat/fairsfestivals/janmashtami
 africa/morocco/mhamid_el_ghislan
@@ -10,10 +9,8 @@ europe/italy/puglia/alberobello
 northamerica/unitedstates/california/sandiego/toursandexcursio/san_diego_sightsee
 europe/russia/vladimir
 europe/armenia/sanahin_1
-europe/italy/calabria/catanzaro
 northamerica/costarica/quepos
 northamerica/unitedstates/colorado/fairplay
-northamerica/canada/britishcolumbia/vancouver/sports
 europe/france/east/burgundy/dijon
 northamerica/mexico/yucatan/oaxaca
 asia/indonesia/java/salatiga
@@ -25,7 +22,6 @@ asia/india/andhrapradesh/vemulawada
 northamerica/elsalvador/santaana
 northamerica/unitedstates/texas/grand_prairie
 asia/india/jammuandkashmir/leh
-asia/pakistan/dera_ghazi_khan/kot_qaisrani
 europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure
 europe/italy/liguria/italianriviera/rivieradellepalme/quiliano
 africa/gabon/lambarene
@@ -42,7 +38,6 @@ africa/southafrica/capetown/outdooractivities/surfing
 northamerica/unitedstates/texas/houston/fortbendcounty
 asia/japan/ryukyuislands/tokashikiisland
 asia/india/tamilnadu/kanchipuram
-europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello
 southamerica/ecuador/riobamba
 africa/mozambique/tofo
 northamerica/greenland/nanortalik

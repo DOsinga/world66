@@ -4,7 +4,6 @@ northamerica/unitedstates/california/goldcountry/nevadacity
 asia/indonesia/irianjaya/sorong
 europe/unitedkingdom/scotland/jedburgh
 europe/unitedkingdom/england/south_east/eastbourne/january_4_2012
-southamerica/colombia/tunja
 africa/ghana/akosombo
 northamerica/unitedstates/ohio/zanesville
 northamerica/unitedstates/pennsylvania/hershey
@@ -18,7 +17,6 @@ asia/india/orissa/konark/bonai_garh
 europe/romania/ceptura
 northamerica/unitedstates/california/spindrift_inn__mo
 asia/china/shanghai/nightlifeentertainment/beerhouse
-africa/uganda/jinja
 australiaandpacific/newcaledonia/iledespins
 northamerica/unitedstates/georgia/americus
 northamerica/unitedstates/maine/rockland_maine
@@ -46,5 +44,4 @@ africa/tunisia/zarzis
 africa/ghana/dixcove
 northamerica/unitedstates/oklahoma/tahlequah
 northamerica/mexico/mexicocity/accommodation_1/jw_marriott_hotel
-asia/pakistan/azad_kashmir/bagh/hamamora
 europe/portugal/arouca

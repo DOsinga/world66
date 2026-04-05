@@ -24,7 +24,6 @@ asia/iran/mahdishar
 asia/thailand/sukhothai/sukhothaihistoricalpark/theroyalpalace
 asia/pakistan/hunzavalley/duikar
 europe/portugal/algarve/vilareal
-africa/capeverde/saotiago
 northamerica/unitedstates/newhampshire/warren
 northamerica/unitedstates/indiana/south_bend
 europe/croatia/dubrovnik/lika_region
@@ -34,7 +33,6 @@ africa/egypt/dokki
 europe/faroeislands/suuroy/hvalba
 europe/romania/constanta/getting_there_1
 northamerica/canada/manitoba/churchill/wildlife
-europe/unitedkingdom/england/southeast
 northamerica/canada/quebec/montreal/arts
 europe/georgia/alkhatsikhe
 northamerica/unitedstates/ohio/obetz

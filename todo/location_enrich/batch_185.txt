@@ -28,7 +28,6 @@ northamerica/honduras/gracias
 northamerica/britishvirginislands/anegada
 northamerica/nicaragua/masaya
 northamerica/antiguaandbarbuda/barbuda
-northamerica/unitedstates/georgia/cartersville
 northamerica/unitedstates/colorado/highlands_ranch
 northamerica/unitedstates/utah/marysvale
 northamerica/unitedstates/texas/kerrville

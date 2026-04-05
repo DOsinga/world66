@@ -21,7 +21,6 @@ northamerica/unitedstates/southdakota/pierre
 northamerica/unitedstates/newhampshire/aehbgcoorfmwsr
 northamerica/unitedstates/vermont/westmore
 northamerica/canada/britishcolumbia/wildlife/trumpeterswans
-asia/india/jammuandkashmir/rahi
 asia/india/rajasthan/chittorgarh
 asia/india/goa/margao/vasco
 europe/portugal/portalegre
@@ -36,7 +35,6 @@ africa/malawi/nkhotakota
 africa/ethiopia/dembidollo
 africa/ethiopia/riftvalleylakes
 australiaandpacific/newzealand/bay_of_plenty/rotorua/things_to_do_1
-northamerica/unitedstates/newyorkstate/allegany
 northamerica/unitedstates/washington/woodinville
 northamerica/unitedstates/california/orangecounty/missionviejo
 asia/myanmar/thipaw
@@ -46,5 +44,4 @@ europe/norway/lofotenislands/skomvr
 europe/unitedkingdom/england/manchester_liverp/little_moreton_old
 europe/germany/brandenburg/rheinsberg
 southamerica/brazil/bonito
-africa/somaliland/borama/xaafada_nafaqo
 northamerica/mexico/veracruz

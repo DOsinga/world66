@@ -37,7 +37,6 @@ africa/seychelles/arideisland
 australiaandpacific/newzealand/christchurch/diningout/thegeorgehotel1
 northamerica/unitedstates/maryland/upper_marlboro
 asia/china/tibet/zhangmu
-asia/pakistan/dera_ghazi_khan/waqas_ka_city
 europe/slovenia/celje
 europe/france/normandybrittany/evreux
 europe/france/midi/dordogne/laroquegageac

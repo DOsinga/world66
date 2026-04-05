@@ -35,11 +35,9 @@ europe/russia/novosibirsk/whattoknow
 northamerica/unitedstates/nebraska/grand_island
 northamerica/canada/alberta/jasper/goingout/marmotlodge
 asia/unitedarabemirates/ajman
-asia/pakistan/burewala/gaggoo_mandi_2
 europe/france/wine/champagne
 europe/france/east/champagne/epernay
 europe/netherlands/friesland/sloten
-northamerica/unitedstates/ohio/maumee
 northamerica/unitedstates/florida/macdill_air_force
 asia/india/westbengal/chandaneshwar
 europe/unitedkingdom/scotland/arran/lochranza

@@ -4,16 +4,12 @@ northamerica/anguilla/anguilla
 northamerica/unitedstates/wisconsin/viroqua
 asia/taiwan/torokogorge
 asia/uzbekistan/tashkent/transportation
-asia/india/maharashtra/karnala
 europe/russia/khabarovsk
 europe/portugal/aveiro
 australiaandpacific/westernsamoa/upolu/i_have_been_there
 australiaandpacific/australia/westernaustralia/kalbarri
-europe/sweden/oland
 europe/italy/liguria/corniglia
-europe/unitedkingdom/cornwall
 europe/italy/tuscany/florenceprovince/florentinearea/pratolino
-southamerica/venezuela/maracaibo
 southamerica/chile/arica
 asia/turkey/hisaronu
 asia/lebanon/beiteddine
@@ -29,7 +25,6 @@ southamerica/argentina/buenosaires/nightlifeandentertainment/casa_bar
 africa/morocco/skoura
 africa/guineeconakry/conakry
 africa/tanzania/mafiaisland
-europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors
 europe/greece/nauplia
 asia/northkorea/kaesong
 asia/china/harbin
@@ -46,5 +41,3 @@ europe/italy/tuscany/florenceprovince/chiantiregion/viacassia
 asia/iraq/samarra
 europe/italy/lazio/ciceo_national_par
 northamerica/unitedstates/florida/spacecoastarea
-asia/india/maharashtra/konkan/deogad
-africa/libya/jebelakhdar

@@ -1,14 +1,12 @@
 northamerica/unitedstates/idaho/rexburg
 northamerica/unitedstates/california/sanfranciscobayarea/pleasanthill
 northamerica/canada/quebec/montlaurier
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/soker_1
 europe/portugal/dourovalley
 asia/india/bihar/ranchi
 southamerica/argentina/corrientes
 asia/laos/savannakhet
 europe/italy/liguria/magravalley
 northamerica/nicaragua/bluefields
-asia/maldives/ari_atoll
 asia/malaysia/kotabharu/tangkak
 europe/italy/sicily/piazza_armerina/morgantina
 europe/italy/liguria/italianriviera/rivieradellepalme/ceriale
@@ -29,7 +27,6 @@ europe/italy/tuscany/florence/toursdaytrips/terme_di_montecati
 europe/italy/liguria/italianriviera/rivieradellepalme/gastronomy/farinata
 africa/morocco/marrakesh/holiday_in_morocco
 northamerica/canada/manitoba/shoal_lake
-asia/china/fujianprovince
 asia/china/xinjiangprovince/turpan
 europe/russia/karelia/valaam
 africa/tunisia/bizerte
@@ -47,4 +44,3 @@ asia/india/jammuandkashmir/anantnag
 europe/sweden/sdertlje/hlsingland
 australiaandpacific/australia/victoria/melbourne/cybercafs/1frog_gamesworld
 northamerica/unitedstates/maryland/college_park/nightlifeandentertainment/cornerstone_grill
-asia/pakistan/azad_kashmir/mirpur/chakswari

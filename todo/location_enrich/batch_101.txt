@@ -34,7 +34,6 @@ asia/india/maharashtra/raigad
 africa/kenya/thecoast/mombasa/entertainment/club_rio
 northamerica/unitedstates/texas/brenham
 asia/indonesia/bali/songan
-asia/pakistan/dera_ghazi_khan/jhok_utra
 europe/sweden/lidkping
 europe/spain/galicia/monterrei
 europe/spain/northernspain/monterrei
@@ -46,5 +45,4 @@ europe/france/east/lorraine/fleville
 europe/spain/galicia/valdeorras
 europe/spain/northernspain/valdeorras
 europe/germany/badenwrttemberg/waiblingen
-europe/armenia/kotayk_marz/hrazdan
 southamerica/chile/travelfacts/healthrisks

@@ -10,7 +10,6 @@ europe/unitedkingdom/england/manchester_liverp/lancaster
 northamerica/belize/cayecaulker
 australiaandpacific/newzealand/otago/milford_sound
 europe/switzerland/tessin
-asia/india/maharashtra/bhandardhara
 asia/india/haryana/jind
 europe/spain/balearicislands/mallorca/porto_colom
 northamerica/unitedstates/ohio/dayton
@@ -21,22 +20,14 @@ europe/france/alpes/annecy
 africa/kenya/thecoast/northofmombasa
 australiaandpacific/marshallislands/kwajaleinatoll
 europe/croatia/umag
-europe/portugal/valena_do_minho
 northamerica/belize/dangriga
 northamerica/unitedstates/georgia/augusta
-europe/italy/lombardia/mantua
-northamerica/unitedstates/virginia/shenandoah
-europe/faroeislands/sandoy
-europe/unitedkingdom/england/manchester_liverp/pendle
 asia/india/tamilnadu/chennai/shopping_1
 europe/portugal/theazores/so_miguel/ribeira_grande
 africa/kenya/theriftvalley/naivasha
 asia/thailand/koh_mak
-asia/israel/tzfat
-asia/thailand/tarutao
 europe/bulgaria/sandanski
 southamerica/peru/ica
-europe/estonia/kihnu_island
 africa/tanzania/bagamoyo
 northamerica/unitedstates/florida/pasco_county/dade_city
 europe/germany/bavaria/passau
@@ -45,6 +36,5 @@ asia/turkey/olympos
 africa/burundi/bujumbura
 asia/turkey/istanbul/safranbolu
 europe/spain/galicia/ria_of_pontevedra
-africa/tunisia/monastir
 northamerica/canada/nunavut/iqaluit
 southamerica/peru/colca_canyon/cabanaconde

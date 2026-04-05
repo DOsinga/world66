@@ -27,9 +27,7 @@ northamerica/unitedstates/michigan/holly
 europe/sweden/linkping
 europe/france/midi/pyrenees/pic_carlit
 africa/angola/catumbela
-asia/unitedarabemirates/sharjah
 asia/indonesia/maluku/kei_islands/pasir_panjang_coas
-europe/spain/cantabria
 europe/spain/alcaladehenares
 southamerica/ecuador/mitad_del_mundo
 northamerica/unitedstates/kansas/fortscott

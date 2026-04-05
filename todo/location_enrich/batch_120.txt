@@ -21,7 +21,6 @@ southamerica/paraguay/villaflorida
 africa/burkinafaso/ouagadougou/fespaco
 europe/switzerland/flims
 africa/angola/lubango
-northamerica/unitedstates/california/sanfranciscobayarea/santacruz/sight
 europe/portugal/caminha
 europe/unitedkingdom/wales/colwyn_bay
 southamerica/venezuela/margaritaisland/pampatar

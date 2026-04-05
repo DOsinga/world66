@@ -1,14 +1,11 @@
 europe/italy/liguria/italianriviera/rivieradellepalme/casanovalerrone
-africa/morocco/tiznit
 northamerica/unitedstates/westvirginia/yorktown
-europe/norway/spitsbergen/longyearbyen
 europe/italy/campania/paestum
 europe/ukraine/poltava
 africa/malawi/zombaplateau/kasungu
 northamerica/unitedstates/maine/acadia
 asia/india/tamilnadu/kanchipuram_1
 australiaandpacific/palau/babeldoab
-europe/netherlands/arnhem/hotspots
 africa/algeria/inguezzam
 europe/lithuania/hill_of_crosses
 northamerica/unitedstates/ohio/worthington

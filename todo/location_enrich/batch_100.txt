@@ -1,4 +1,3 @@
-asia/taiwan/taoyuan
 asia/japan/honshu/himeji
 europe/spain/galicia/ras_baixas
 europe/spain/northernspain/ras_baixas
@@ -8,7 +7,6 @@ europe/germany/northrhinewestphalia/jakzjizkplsl
 europe/albania/ardenica
 europe/italy/liguria/italianriviera/rivieradellepalme/stellanello
 northamerica/unitedstates/northcarolina/wilmington
-northamerica/unitedstates/california/northcoast/garberville
 asia/oman/barka
 asia/lebanon/ehden
 europe/armenia/tavush_marz/dilijan
@@ -20,11 +18,9 @@ asia/nepal/narayangarh
 asia/thailand/surat_thani
 europe/spain/galicia/redondela
 asia/yemen/aden
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/basti__buzdar
 africa/guineabissau/bafata
 northamerica/mexico/piedras_negras_co
 asia/uzbekistan/ferghanavalley
-europe/croatia/brioniislands
 northamerica/unitedstates/vermont/bellowsfalls
 europe/portugal/beja
 europe/greece/lesbos/mytilini

@@ -13,7 +13,6 @@ asia/thailand/chiang_dao
 europe/spain/galicia/noia
 europe/germany/hesse/marburg
 africa/tunisia/jerba
-asia/pakistan/dera_ghazi_khan/tribal_area_of_dgk
 northamerica/unitedstates/maryland/ellicott_city
 asia/afghanistan/kandahar
 asia/kyrgyzstan/uzgen
@@ -43,7 +42,6 @@ europe/czechrepublic/olomouc
 asia/thailand/phuket/chalong
 europe/slovakia/kremnica
 southamerica/brazil/vilavelha
-africa/nigeria/ife
 asia/india/tamilnadu/kovilpatti/cst_soft_solutions
 europe/italy/umbria/magione
 asia/nepal/phidim

@@ -43,7 +43,6 @@ northamerica/honduras/lamosquitia
 northamerica/turksandcaicosislands/southcaicos
 northamerica/turksandcaicosislands/northcaicos
 northamerica/guadeloupe/grandeterre
-northamerica/unitedstates/newyorkstate/saratoga/saratoga_springs
 asia/india/madhyapradesh/jabalpur/history_1
 asia/pakistan/dera_ghazi_khan/basti_wadani_khosa
 asia/pakistan/dera_ghazi_khan/tribal_area_of_dgk/fazla_kach

@@ -1,7 +1,6 @@
 southamerica/venezuela/ciudadbolivar
 africa/congobrazzaville/brazzaville
 asia/kazakhstan/semipalatinsk
-europe/unitedkingdom/suffolk
 asia/india/andhrapradesh/nagarjunkonda
 europe/spain/costa_blanca/torrevieja
 africa/morocco/fez/sahara/mhamid_el_ghizlan
@@ -15,12 +14,10 @@ europe/france/midi/basqueregion/bayonne
 asia/philippines/banaue
 southamerica/brazil/curitiba
 northamerica/mexico/yucatan/coppercanyon
-northamerica/canada/britishcolumbia/vancouver/langley
 africa/kenya/lakes/lakevictoria
 asia/laos/vangvieng
 europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles
 africa/reunion/cirquedesalazie
-africa/kenya/luo_nyanza/siaya_town
 europe/russia/tula
 europe/france/alpes/ceillac
 europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale
@@ -45,6 +42,5 @@ asia/china/tibet/nyingchi
 southamerica/peru/trujillo_1
 northamerica/unitedstates/massachusetts/seekonk
 northamerica/unitedstates/california/menlo_park
-asia/philippines/generalsantoscity/eating_out_1
 europe/unitedkingdom/england/leeds_sheffield_a/ripon
 northamerica/unitedstates/indiana/porter

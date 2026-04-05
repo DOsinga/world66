@@ -46,5 +46,4 @@ asia/iraq/tikrit
 asia/turkey/istanbul/healthtroubleshooting/plusdent_dental_cl
 asia/pakistan/bhalwal/shopping_1
 europe/italy/lombardia/lagodigarda/lazise
-africa/ghana/brong_ahafo_region
 africa/kenya/northernkenya/eastoflaketurkana/wajir

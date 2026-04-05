@@ -1,5 +1,4 @@
 europe/switzerland/klosters
-europe/lithuania/siauliai
 europe/germany/saxony/meissen
 northamerica/panama/portobelo
 asia/bhutan/punakha
@@ -9,13 +8,9 @@ asia/thailand/kohlanta/koh_lanta
 northamerica/canada/alberta/calgary/goingout/mount_royal_colleg
 africa/algeria/annaba
 asia/malaysia/sabah
-europe/spain/andalucia/ronda/walks
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/mithey_wali
-europe/latvia/riga/communications
 australiaandpacific/australia/queensland/gympie
 northamerica/unitedstates/california/sanfranciscobayarea/mountainvieuw
 asia/thailand/bangkok/toursevents/watthamakai
-europe/albania/lezha_castle/shen_gjin
 northamerica/honduras/choluteca
 northamerica/unitedstates/rensselaer_indian
 asia/india/westbengal/krishnanagar
@@ -30,7 +25,6 @@ asia/cyprus/nicosia/cybercafs/slipstream_gaming
 africa/tunisia/ghomrassen
 africa/morocco/azemmour
 africa/somalia/garowe
-asia/philippines/leyteisland
 africa/capeverde/boavista
 northamerica/mexico/isla_holbox__host
 northamerica/mexico/yucatan/islamujeres

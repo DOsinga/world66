@@ -1,12 +1,9 @@
-southamerica/bolivia/cochabamba
 northamerica/belize/puntagorda
-asia/turkey/diyarbakir
 asia/pakistan/dera_ghazi_khan/nawan_shehar__has
 asia/pakistan/azad_kashmir/mirpur_hall_road
 europe/france/midi/languedoc/narbonne
 europe/spain/northernspain/lacoruna
 africa/kenya/centralhighlands/runyanjes
-northamerica/canada/alberta/calgary/aroundtown
 northamerica/canada/britishcolumbia/terrace
 europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean
 asia/china/aba
@@ -44,7 +41,6 @@ europe/channelislands/herm
 europe/switzerland/fribourg
 europe/germany/hesse/giessen
 europe/germany/berlin/tours/robert_breitnercz
-northamerica/unitedstates/california/rancho_cordova
 asia/kyrgyzstan/norus
 northamerica/mexico/yucatan/chihuahua
 asia/india/jammuandkashmir/kishtwar

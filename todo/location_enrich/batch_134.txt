@@ -1,6 +1,5 @@
 europe/france/aquitaine/arcachon
 europe/unitedkingdom/england/eastern_england/broads
-australiaandpacific/newzealand/kapiti_coast
 northamerica/mexico/irapuato
 asia/india/westbengal/asansol
 europe/belgium/hasselt
@@ -22,7 +21,6 @@ europe/slovakia/luenec
 europe/germany/mecklenburgwesternpomerania/rugen/warnemunde
 southamerica/brazil/barra_de_tijuca
 northamerica/mexico/barradenavidad
-northamerica/antiguaandbarbuda/stjohns
 northamerica/unitedstates/newjersey/newbrunswick
 northamerica/mexico/yucatan/barradenavidad
 northamerica/canada/quebec/montreal/historicsites/theclocktower
@@ -40,7 +38,6 @@ europe/spain/galicia/la_tojaa_toxa_isl
 europe/spain/northernspain/la_tojaa_toxa_isl
 asia/iraq/karbala
 asia/pakistan/mattanipeshawar
-europe/albania/tepelene/tepelena
 southamerica/argentina/ushuaia
 africa/ivorycoast/bingerville
 northamerica/unitedstates/kansas/nicodemus

@@ -7,8 +7,6 @@ europe/italy/lazio/tarquinia
 africa/angola/soyo
 australiaandpacific/newzealand/north_island/auckland_region
 northamerica/unitedstates/arkansas/fortsmith
-northamerica/unitedstates/california/willows
-northamerica/unitedstates/colorado/coloradosprings/gardenofgods
 northamerica/canada/alberta/edmonton/goingout/club_9_ultralounge
 europe/croatia/plitvice/korenica
 europe/germany/saxony/dresden/toursdaytrips
@@ -39,7 +37,6 @@ europe/finland/lahti
 southamerica/colombia/ipiales
 africa/somalia/galdogob
 africa/niger/tillaberi
-asia/pakistan/khanpur_mahar
 asia/japan/kyushu/kitakyushu/moji
 asia/india/punjab/kapurthala
 asia/pakistan/dera_ismail_khan/lucky_dil

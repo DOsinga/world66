@@ -1,5 +1,4 @@
 asia/pakistan/gilgit/yasin_valley
-asia/pakistan/gujrat/jalalpur_jattan/duhdray_sharqi
 europe/armenia/tzakhadzor
 europe/italy/abruzzo/sulmona
 northamerica/costarica/monteverde
@@ -12,7 +11,6 @@ europe/italy/liguria/portofino/toursdaytrips
 northamerica/unitedstates/oregon/forestgrove
 asia/india/kerala/wayanad
 europe/malta/cottonera_or_three/cospicua_or_borml
-asia/nepal/birtamode
 europe/sweden/uddevalla
 europe/netherlands/almere
 europe/armenia/geghard
@@ -40,11 +38,9 @@ northamerica/unitedstates/alaska/statefacts
 asia/indonesia/irianjaya/baliemvalley
 europe/greece/samos/day_trips_1/aegeanscuba_dive_c/aegeanscuba_dive_c
 australiaandpacific/australia/victoria/yea
-europe/belgium/veurne
 europe/italy/piemonte/turin/eventsfairs/granbaln
 europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi
 southamerica/argentina/buenosaires/nightlifeandentertainment/krakow_cafe_bar
 africa/southafrica/overberg
-africa/mali/gao/usefuladdresses
 asia/india/kerala/kannur
 europe/luxembourg/vianden

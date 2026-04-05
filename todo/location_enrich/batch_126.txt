@@ -34,7 +34,6 @@ asia/india/maharashtra/pune/cybercaf/cyber_vision
 europe/germany/badenwrttemberg/freudenstadt
 australiaandpacific/australia/westernaustralia/perth/cybercafs/captain_munchies_2
 northamerica/unitedstates/vermont/putney
-europe/ireland/cork/wilton
 europe/italy/puglia/castellana_grotte
 europe/netherlands/woldendorp
 europe/france/midi/provence/aixenprovence/markets
@@ -42,9 +41,7 @@ europe/spain/andalucia/jaen
 europe/czechrepublic/brno/nightlifeandentertainment/clubwashbrno
 europe/greece/mani/kardamili
 northamerica/unitedstates/newyorkstate/newyork/wwwbuybooksonline_1
-asia/pakistan/azad_kashmir/hajira
 europe/ireland/cork/highlights/glenpark
 europe/italy/abruzzo/abruzzonationalpark/location
 africa/egypt/luxor/colossiofmemnon
-northamerica/unitedstates/arizona/yuma/toursevents
 northamerica/unitedstates/california/deserts/deathvalley

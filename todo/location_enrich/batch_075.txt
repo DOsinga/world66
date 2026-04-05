@@ -2,7 +2,6 @@ africa/tanzania/dodoma
 europe/unitedkingdom/england/whitby
 asia/turkey/adana
 asia/tajikistan/khojend
-asia/india/himachalpradesh/bir_billing/chandpur_tea_estat
 africa/morocco/sports/camelexcursions
 asia/india/jammuandkashmir/jammu
 europe/unitedkingdom/england/hull
@@ -10,13 +9,11 @@ europe/finland/oravainen
 europe/sweden/rebro
 africa/eritrea/massawa
 australiaandpacific/australia/northernterritory/ulurukata_tjuta_n
-europe/slovenia/bled
 asia/iraq/basra
 europe/belarus/vitebsk
 europe/moldova/tighina
 europe/georgia/vardzia
 europe/poland/krakow/christmas
-africa/malawi/zombaplateau
 southamerica/frenchguiana/devilsisland
 europe/italy/abruzzo/carunchio
 northamerica/mexico/yucatan/cozumel
@@ -25,8 +22,6 @@ southamerica/brazil/riodejaneiro/travelinformation/getting_around_1
 asia/kazakhstan/lakemarkakol
 europe/faroeislands/suuroy/fmjin
 northamerica/canada/princeedwardisland/naufrage
-asia/india/goa/oldgoa
-europe/ireland/cork/mayfield
 southamerica/brazil/riodejaneiro/travelinformation/getting_around_2
 northamerica/unitedstates/missouri/ozark
 asia/philippines/zamboanga

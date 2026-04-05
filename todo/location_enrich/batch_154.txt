@@ -3,7 +3,6 @@ europe/unitedkingdom/england/south_east/rayleigh
 europe/greece/crete/kritsa
 africa/malawi/livingstonia
 africa/cameroon/benouepark
-australiaandpacific/australia/tasmania/cooktown
 australiaandpacific/australia/tasmania/eastcoast/orford
 northamerica/unitedstates/indiana/ftwayne
 northamerica/unitedstates/arkansas/austin_1
@@ -12,7 +11,6 @@ northamerica/unitedstates/oregon/salem
 northamerica/unitedstates/california/lawndale
 northamerica/unitedstates/alabama/highlights/fortgaines
 northamerica/canada/alberta/outdooractivities/mtlouis
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa
 europe/france/midi/ardeche/villeneufdeberg
 europe/france/midi/pyrenees/vallouron
 europe/unitedkingdom/england/south_east/hounslow

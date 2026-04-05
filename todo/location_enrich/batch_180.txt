@@ -26,9 +26,7 @@ europe/ireland/newgrange
 africa/saotomeandprincipe/principe
 africa/kenya/westernkenya/cheranganihills
 northamerica/antiguaandbarbuda/greatbirdisland
-northamerica/unitedstates/newyorkstate/watertown
 asia/bahrain/jid_hafs
-asia/india/orissa/jajpur/gadamadhupur
 asia/thailand/nationalparks/kaolaemya
 asia/thailand/chiangmai/toursevents/borichindacave
 europe/iceland/vik

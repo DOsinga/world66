@@ -41,7 +41,6 @@ asia/india/maharashtra/konkan/dapoli
 europe/denmark/horsens
 europe/switzerland/zurich/events/streetparade
 europe/italy/umbria/orvieto
-africa/somaliland/awdal
 africa/southafrica/drakensberg/tendele
 northamerica/unitedstates/vermont/newfane
 asia/philippines/cagayan_de_oro_cit

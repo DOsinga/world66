@@ -28,8 +28,6 @@ southamerica/colombia/rincon_del_mar
 australiaandpacific/australia/southaustralia/handorf
 northamerica/honduras/sanpedrosula/nightlifeandentertainment/beer_bar_1
 northamerica/canada/alberta/edmonton/goingout/princess_theatre
-asia/indonesia/lombok/mataram
-africa/southafrica/gardenroute/wilderness
 northamerica/unitedstates/louisiana/opelousas
 northamerica/unitedstates/kansas/kansascity
 africa/kenya/thecoast/mombasa/entertainment/mombasa_gokart

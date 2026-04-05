@@ -38,7 +38,6 @@ asia/india/maharashtra/konkan/wanivade_1
 europe/unitedkingdom/wales/shirenewton
 europe/belgium/brussels/practical_informat_1
 europe/slovenia/bled/boninj
-australiaandpacific/northernmarianaislands/rota
 northamerica/unitedstates/kansas/abilene
 asia/pakistan/shahpur_city
 europe/belgium/namur

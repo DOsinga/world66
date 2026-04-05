@@ -41,7 +41,6 @@ northamerica/unitedstates/utah/capitolreef
 northamerica/unitedstates/texas/texarkana
 northamerica/unitedstates/california/shastacascade/weaverville
 asia/indonesia/sumatra/bukitlawang
-asia/india/maharashtra/chiplun
 europe/albania/hotels_in_albania/hotels_in_berat
 europe/albania/hotels_in_albania/hotels_in_vlora
 europe/ireland/cork/theglen

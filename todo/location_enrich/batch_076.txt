@@ -3,9 +3,7 @@ asia/kyrgyzstan/karakol
 europe/armenia/khorvirap
 europe/germany/bavaria/wurzburg/toursdaytrips
 africa/morocco/oujda
-northamerica/canada/britishcolumbia/vancouver/northvancouver
 asia/china/shanxiprovince/mtwutai
-asia/jordan/petra/accommodation_2
 australiaandpacific/newzealand/rotorua
 northamerica/greenland/diskobay
 asia/saudiarabia/dhahran
@@ -13,17 +11,14 @@ asia/philippines/bohol/pamilacanisland
 asia/thailand/kui_buri/kui_buri
 europe/albania/saranda/hotels_in_ksamil
 asia/saudiarabia/madainsalih
-northamerica/canada/ontario/toronto/universities
 europe/poland/malbork
 europe/albania/shengjin/himara_hotels
 europe/italy/liguria/alassio
 europe/italy/liguria/rivieradellepalme/laigueglia
 europe/italy/liguria/italianriviera/rivieradellepalme/laigueglia
-southamerica/ecuador/cuenca
 southamerica/ecuador/galapagosislands/puerto_baquerizo_m
 southamerica/ecuador/galapagosislands/puerto_baquerizo_m_2
 southamerica/ecuador/galapagosislands/puerto_baquerizo_m_1
-northamerica/dominicanrepublic/casadecampo
 africa/tanzania/tanga
 northamerica/unitedstates/wisconsin/pepin
 asia/malaysia/tamannegara
@@ -31,7 +26,6 @@ asia/mongolia/khovsgol/khatgal
 africa/southafrica/winelands
 europe/netherlands/dezaanseschans
 europe/italy/piemonte/alagna
-asia/india/maharashtra/ashta
 africa/kenya/nationalparksandreserves/lakebogorianp
 northamerica/unitedstates/california/inlandempire/bigbearlake/bigbear
 asia/pakistan/azad_kashmir/bhimber_azad_kishm

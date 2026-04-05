@@ -1,4 +1,3 @@
-asia/pakistan/azad_kashmir/kotli/rawal_pindi/kotli_azad_kashmir
 europe/germany/northrhinewestphalia/cologne/festivalsevents/musictriennial
 southamerica/ecuador/cayambe
 northamerica/canada/alberta/banff/goingout/barbarycoast
@@ -9,7 +8,6 @@ australiaandpacific/fiji/suva
 northamerica/unitedstates/illinois/grayslake
 asia/turkey/dogubeyazit
 asia/india/himachalpradesh/mandi
-asia/india/maharashtra/ulhasnagar
 europe/russia/stpetersburg/suburbs
 europe/spain/spanishcostas/valencia/sights_1/plaza_del_ayuntami
 europe/ireland/cork/wheretostay/isaacshostel

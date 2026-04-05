@@ -26,7 +26,6 @@ europe/italy/liguria/italianriviera/rivieradellepalme/rialto
 africa/egypt/hurghada/m580z
 northamerica/canada/quebec/montreal/goingout/les_deux_pierrots
 asia/india/haryana/thanks_so_much_for
-europe/macedonia/kicevo
 europe/slovenia/lipica
 europe/faroeislands/sandoy/skopun
 europe/armenia/syunik_marz/meghri

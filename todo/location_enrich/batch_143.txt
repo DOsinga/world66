@@ -11,7 +11,6 @@ northamerica/unitedstates/montana/kalispell
 northamerica/unitedstates/california/centralvalley/kernville
 northamerica/mexico/yucatan/hermosillo
 asia/india/kerala/kannur/iritty
-asia/pakistan/dera_ghazi_khan/jhoke_utra
 europe/poland/mragowo
 europe/hungary/visegrad
 northamerica/unitedstates/newyorkstate/newyork/amherst
@@ -39,7 +38,6 @@ southamerica/bolivia/cochabamba/qawjflycc
 africa/mauritius/moka
 northamerica/britishvirginislands/peterisland
 northamerica/thecaribbean/saintmartin
-northamerica/unitedstates/iowa/iowacity
 europe/france/normandybrittany/lesandelys
 southamerica/chile/travelfacts/chile_travel_suppl
 africa/mozambique/inhambane

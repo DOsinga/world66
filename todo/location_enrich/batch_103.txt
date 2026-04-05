@@ -1,5 +1,4 @@
 northamerica/unitedstates/georgia/fortoglethorpe
-asia/maldives/south_male_atoll
 europe/ireland/cork/pubsandbars/thelobbybar
 southamerica/brazil/ouropreto
 southamerica/colombia/islasdelrosario
@@ -11,7 +10,6 @@ northamerica/unitedstates/ohio/mentor
 northamerica/unitedstates/newjersey/greateggharbor
 northamerica/unitedstates/newyorkstate/newyork/aperfectday
 northamerica/unitedstates/florida/miami/nightlifeentertainment/barscafes
-europe/belgium/essen
 europe/ireland/fermoy
 europe/unitedkingdom/england/leeds_sheffield_a/todmorden
 southamerica/guyana/mabarumba
@@ -41,7 +39,6 @@ asia/bhutan/bumthang
 northamerica/jamaica/oracabessa
 asia/saudiarabia/mecca
 asia/jordan/ummeljimal
-asia/pakistan/dera_ghazi_khan/mana_ahmadani/zila_tax_gagan_wa
 northamerica/unitedstates/southcarolina/comfort_suites_lex
 northamerica/unitedstates/oklahoma/chickasaw
 asia/india/rajasthan/bundi

@@ -6,14 +6,12 @@ northamerica/canada/alberta/banff/goingout/melissas
 asia/indonesia/wakatobi
 asia/pakistan/dera_ghazi_khan/kot_qaisrani_1
 europe/france/centre/loirevalley/meungsurloire
-europe/netherlands/ijmuiden/gettingarround
 australiaandpacific/australia/newsouthwales/glebe/hwzwgkkaoj
 northamerica/mexico/ensenada
 northamerica/unitedstates/texas/arlington
 northamerica/unitedstates/california/inlandempire/riverside/mugqhqlxwttewl
 asia/china/simatai
 asia/srilanka/the_south/practical_informat_1
-europe/luxembourg/echternach/museum
 africa/namibia/etoshanationalpark/oshikango
 asia/pakistan/azad_kashmir/sehra/tatta_pani
 europe/spain/centralspain/almagro
@@ -38,7 +36,6 @@ europe/germany/hessen/offenbachammain
 europe/hungary/szekszrd/i_recently_twteeed
 europe/italy/liguria/rivieradellepalme/giusvalla/nozsywpxripq
 northamerica/unitedstates/northcarolina/mooresville
-northamerica/unitedstates/idaho/teton_valley/victor
 asia/china/shandong_province/taian
 asia/pakistan/abbottabad/tarimon
 asia/pakistan/abbottabad/tarimon_1

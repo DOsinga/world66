@@ -40,7 +40,6 @@ northamerica/unitedstates/colorado/winter_park
 asia/singapore/islands/sentosa
 asia/pakistan/murree/charsadda
 asia/jordan/wadirum/rum
-europe/spain/grancanaria
 europe/austria/zirl
 europe/malta/birzebbugia
 europe/unitedkingdom/wales/swansea/theatres/brangwynhall

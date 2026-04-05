@@ -18,7 +18,6 @@ northamerica/unitedstates/kentucky/bowlinggreen
 northamerica/unitedstates/nebraska/northplatte
 northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach
 northamerica/canada/britishcolumbia/vancouver/goingout/roxys
-asia/thailand/chiangrai/aroundchiangrai
 asia/thailand/maehongson/excursions/maelana
 europe/unitedkingdom/wales/tenby
 europe/unitedkingdom/scotland/arran/brodick

@@ -22,7 +22,6 @@ europe/france/midi/languedoc/montpellier/walks/terralcastle
 europe/spain/galicia/donon
 europe/ireland/cork/bishopstown
 africa/zambia/kitwe
-africa/nigeria/ilorin
 northamerica/unitedstates/california/salinas
 northamerica/canada/nunavut/resolute
 asia/japan/ryukyuislands/kuroshima

@@ -26,11 +26,9 @@ europe/unitedkingdom/england/glastonbury
 europe/unitedkingdom/england/bristol_plymouth/glastonbury
 europe/azerbaijan/naxcivan/shusha
 africa/mali/dogoncountry/djiguibombo
-europe/luxembourg/beaufort
 europe/france/centre/richelieu
 europe/unitedkingdom/england/leicester_notting/peak_district
 northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh
-northamerica/canada/quebec/hull
 asia/indonesia/belitung
 asia/pakistan/ganish_hunza_2
 europe/italy/veneto/quarto_daltino

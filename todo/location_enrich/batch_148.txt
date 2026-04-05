@@ -1,4 +1,3 @@
-asia/pakistan/islamabad/hasilpur
 australiaandpacific/australia/queensland/noosaheads
 northamerica/costarica/samara
 northamerica/unitedstates/alabama/highlights/noccalulafalls
@@ -16,7 +15,6 @@ northamerica/unitedstates/oklahoma/muskogee
 northamerica/unitedstates/northcarolina/moreheadcity
 northamerica/unitedstates/florida/tampabayarea/fortdesoto
 asia/syria/arwadisland
-asia/pakistan/lakki_marwat/dallo_khel_lakki_m
 europe/germany/bavaria/traunstein
 europe/italy/lombardia/lake_garda
 africa/lesotho/malealea
@@ -26,7 +24,6 @@ northamerica/unitedstates/wyoming/star_valley_afton
 northamerica/canada/britishcolumbia/victoria/universities
 asia/philippines/guimaras
 asia/japan/honshu/osaka/aroundosaka/minoh
-asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1
 europe/sweden/ystad
 europe/greece/florina
 europe/spain/catalonia/ripoll

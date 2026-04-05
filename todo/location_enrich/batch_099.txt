@@ -8,7 +8,6 @@ southamerica/ecuador/otavalo
 northamerica/unitedstates/newhampshire/littleton
 northamerica/unitedstates/oregon/yachats
 northamerica/unitedstates/california/tulare_california
-asia/pakistan/dera_ghazi_khan/aali_wala_pathan
 africa/algeria/tiziouzou
 africa/tunisia/nabeul
 australiaandpacific/australia/queensland/tully

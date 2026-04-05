@@ -8,7 +8,6 @@ europe/croatia/drasnice/podgora
 africa/angola/massoulo
 australiaandpacific/frenchpolynesia/moorea/maharepa
 asia/india/uttarpradesh/kanpur/shopping_1
-europe/russia/chuvashia
 europe/ireland/dundalk
 europe/netherlands/friesland/holwerd
 africa/liberia/greenville

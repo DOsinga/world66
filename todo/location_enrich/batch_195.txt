@@ -4,7 +4,6 @@ asia/unitedarabemirates/ummalqaiwain
 asia/china/shanghai/nightlifeentertainment/99disco
 asia/thailand/krabi/sports
 asia/israel/road_899/great_work
-asia/pakistan/soon_valley/history_about_wadi
 asia/pakistan/skardu/khaplu
 asia/pakistan/azad_kashmir/bagh/aliot_village
 europe/unitedkingdom/chichester

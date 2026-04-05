@@ -13,7 +13,6 @@ europe/ireland/cork/ballincollig
 africa/capeverde/brava/faj_dagua
 northamerica/unitedstates/minnesota/virginia
 northamerica/unitedstates/california/orangecounty/aliso_viejo
-asia/pakistan/khairpur_tamewali
 asia/philippines/quezon_province/lucena
 europe/faroeislands/eysturoy/gjogv
 northamerica/unitedstates/illinois/wheeling
@@ -47,4 +46,3 @@ europe/armenia/garni
 europe/unitedkingdom/england/london/foresthill
 europe/italy/calabria/reggio
 northamerica/unitedstates/wyoming/jacksonhole
-northamerica/unitedstates/california/deserts/borregosprings

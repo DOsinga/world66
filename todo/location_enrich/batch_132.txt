@@ -1,4 +1,3 @@
-asia/china/ningxia
 europe/portugal/obidos
 europe/spain/catalonia/roses
 europe/albania/mallakaster/corrush

@@ -16,7 +16,6 @@ asia/india/maharashtra/chiplun/solapur
 asia/pakistan/pakpattan/getting_there_1
 asia/pakistan/azad_kashmir/salahain
 asia/pakistan/azad_kashmir/kotli/charhoi
-asia/pakistan/azad_kashmir/mirpur/afzalpur/pindi_suberwal/chechian_khari_sha
 europe/hungary/kalocsa
 europe/unitedkingdom/england/leyland
 europe/germany/northrhinewestphalia/dusseldorf/dorsten
@@ -27,7 +26,6 @@ africa/morocco/marrakesh/usefuladdresses/hammam
 africa/egypt/luxor/history_1
 northamerica/canada/manitoba/winnipeg/goingout/royal_albert_arms
 asia/pakistan/abbottabad/aliabad_circle_ba/pakho_naker/pakho_naker_baghla
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/basti__buzdar/sheep_land
 asia/pakistan/azad_kashmir/kotli/charhoi_1
 europe/ireland/ennis
 europe/serbiaandmontenegro/ulcinj_1
@@ -40,7 +38,6 @@ asia/thailand/bangkok/toursevents/boattrips
 europe/lithuania/vilnius/culture/vingissale3
 europe/italy/liguria/manarola
 europe/italy/liguria/genoa/practical_informat_1
-northamerica/unitedstates/newyorkstate/victor
 asia/china/shanghai/nightlifeentertainment/omalleys
 europe/russia/tyumen
 europe/denmark/roskilde

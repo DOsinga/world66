@@ -4,12 +4,10 @@ northamerica/unitedstates/colorado/denver/prosports
 africa/egypt/safaga
 asia/india/uttarpradesh/tirth
 europe/france/east/champagne/clairvaux
-africa/southafrica/kwazulu_natal
 africa/morocco/fez/mhamid
 asia/oman/sur
 northamerica/unitedstates/newmexico/ruidoso
 northamerica/unitedstates/newjersey/northamerica/unitedstates/newjersey
-europe/greece/crete/iraklion
 africa/morocco/ouarzazate/tours/camel_ride_in_moro
 asia/thailand/kosamet
 europe/croatia/narona
@@ -26,10 +24,8 @@ europe/moldova/soroca
 europe/switzerland/crans_montana
 northamerica/unitedstates/alabama/lake_martin
 northamerica/unitedstates/massachusetts/yarmouth
-asia/india/andhrapradesh/nalgonda
 europe/unitedkingdom/england/bristol_plymouth/east_brent
 europe/spain/aragon/ordesa_national_pa
-europe/spain/spanishcostas/valencia/sights_1
 europe/hungary/szentendre/general
 europe/netherlands/naarden
 northamerica/unitedstates/california/deserts/ridgecrest

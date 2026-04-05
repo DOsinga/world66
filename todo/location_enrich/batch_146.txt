@@ -1,6 +1,4 @@
 northamerica/unitedstates/california/highsierra/tahoecity
-asia/philippines/quezon_province/lucban
-asia/pakistan/azad_kashmir/sehra
 europe/luxembourg/wasserbillig
 europe/denmark/haderslev
 europe/spain/catalonia/sant_feliu_de_gu
@@ -8,7 +6,6 @@ europe/croatia/brioniislands/vanga
 europe/ireland/aranislands/kilronan
 europe/italy/liguria/nerviavalley/dolceacqua
 asia/india/himachalpradesh/chinmaya
-asia/india/maharashtra/dombivli/vidharbha
 africa/ethiopia/omoriver
 northamerica/unitedstates/texas/the_woodlands
 northamerica/unitedstates/montana/redlodge/accommodations/rockcreekresort
@@ -16,10 +13,8 @@ northamerica/canada/quebec/saintetherese
 asia/bhutan/lhuntsi
 asia/india/gujarat/rajkot/rajendra_nagar
 asia/india/orissa/bargarh/paikmal
-europe/germany/northrhinewestphalia/dusseldorf/events
 africa/mauritania/nouamghar
 europe/sweden/sveg
-europe/france/centre/auxerre
 europe/italy/basilicata/miglionico
 northamerica/unitedstates/california/goldcountry/angels_camp
 asia/china/yunnanprovince/highlights/lijiang

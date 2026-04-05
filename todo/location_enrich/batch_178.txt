@@ -47,4 +47,3 @@ europe/malta/attard
 europe/greece/drama
 europe/greece/epirus
 europe/iceland/skogar
-europe/unitedkingdom/england/bristol_plymouth/blandford

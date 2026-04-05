@@ -34,7 +34,6 @@ europe/finland/espoo
 europe/france/midi/cotedazur/nice/great_work_3
 europe/italy/liguria/italianriviera/rivieradellepalme/osiglia
 northamerica/unitedstates/williams_dam
-northamerica/unitedstates/california/anaheim_california
 europe/italy/abruzzo/pescara
 australiaandpacific/newzealand/south_island/west_coast/westland
 asia/cyprus/lefkara
@@ -43,7 +42,6 @@ asia/northkorea/mangyongdae
 europe/spain/catalonia/montserrat
 southamerica/argentina/patagonia/torresdelpaine
 northamerica/unitedstates/illinois/rochelle_hotel_nor
-europe/ukraine/crimea/sevastopol
 southamerica/ecuador/galapagosislands/theislands
 europe/italy/liguria/italianriviera/rivieradellepalme/plodio
 africa/benin/djougou

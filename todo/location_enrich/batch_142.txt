@@ -6,7 +6,6 @@ asia/india/maharashtra/pune/cybercaf/a3snetcafe
 asia/iran/whattoknow/persiantraveler
 europe/france/centre/loirevalley/chaumont
 europe/spain/balearicislands/mallorca/portocristo
-europe/austria/salzburg/goingout
 southamerica/uruguay/rio_branco_urugua
 africa/kenya/nairobi/mqhckhjnde
 europe/faroeislands/bordoy/klaksvk
@@ -18,7 +17,6 @@ europe/france/east/burgundy/maillylechateau
 europe/netherlands/ijmuiden/usefuladdresses/dentists
 northamerica/unitedstates/hawaii/molokai
 northamerica/unitedstates/montana/billings/communityevent
-asia/nepal/dhulikel
 asia/china/guangzhou/aroundguangzhou
 africa/ivorycoast/gouessesso
 northamerica/unitedstates/connecticut/enfield

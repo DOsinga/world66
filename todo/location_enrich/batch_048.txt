@@ -2,16 +2,12 @@ northamerica/mexico/coppercanyon
 europe/romania/pitesti
 northamerica/unitedstates/indiana/crawfordsville
 europe/unitedkingdom/london
-europe/france/midi/pyrenees/vernet_les_bains
 europe/germany/saxonyanhalt/halle
 africa/somalia/mogadishu
 asia/japan/tokyo/akihabara
 asia/china/shanxiprovince/pinyao
 europe/spain/galicia/el_bierzo
-northamerica/unitedstates/arkansas/buffaloriver
-asia/myanmar/nyangshwe
 europe/italy/tuscany/florenceprovince/florentinearea/impruneta
-africa/botswana/kalaharidesert
 africa/tunisia/matmata
 northamerica/canada/alberta/jasper/hotels_intro
 northamerica/canada/britishcolumbia/courtenay/hotels_intro
@@ -22,7 +18,6 @@ europe/serbiaandmontenegro/kosovoprovince/pristina
 europe/italy/liguria/rivieradellepalme/thesea
 africa/kenya/nationalparksandreserves/aberdarenp
 africa/morocco/ouarzazate/tours/dades_valley
-asia/nepal/royalchitwannationalpark/accommocation
 europe/greece/crete/knossos
 asia/cambodia/kratie
 africa/ivorycoast/yamoussoukro
@@ -39,11 +34,8 @@ northamerica/canada/britishcolumbia/sooke/hotels_intro
 asia/china/china
 europe/spain/centralspain/caceres
 asia/india/meghalaya
-asia/pakistan/nushki
 europe/belarus/brest
 europe/unitedkingdom/wales/aberystwyth
-australiaandpacific/australia/queensland/palmcove
-northamerica/mexico/guanajuato
 australiaandpacific/newzealand/whanganui_region/wanganui
 asia/india/orissa/puri
 asia/thailand/phuket/karon

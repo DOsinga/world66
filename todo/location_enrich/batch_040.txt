@@ -1,4 +1,3 @@
-northamerica/unitedstates/california/brentwood
 africa/ghana/kumasi
 asia/india/orissa/chhatia
 europe/france/normandybrittany/deauville
@@ -7,10 +6,8 @@ europe/netherlands/bergen
 southamerica/brazil/itapema
 northamerica/canada/britishcolumbia/whistler/outdoors
 africa/nigeria/kano
-northamerica/guatemala/pacaya_volcano
 northamerica/canada/alberta/coldlake
 africa/madagascar/fianarantsoa
-europe/france/around_paris/disneylandparis
 asia/myanmar/kalaw
 europe/croatia/island_solta
 europe/norway/bodo
@@ -19,10 +16,8 @@ asia/india/maharashtra/konkan/beach_resort_silve
 europe/italy/liguria/italianriviera/finaleligure
 northamerica/canada/northwestterritories/fort_smith
 africa/kenya/nationalparksandreserves/maasai__maranakur
-northamerica/unitedstates/montana/bozeman
 asia/india/haryana/kurukshetra
 northamerica/mexico/sayulita
-europe/greece/cephalonia
 australiaandpacific/newzealand/wellington
 europe/italy/umbria/gubbio
 africa/benin/portonovo
@@ -35,8 +30,6 @@ europe/spain/northernspain/leon
 asia/indonesia/indonesia
 africa/tanzania/iringa
 asia/turkey/istanbul/asianpart
-asia/china/golmud
-europe/russia/ulyanovsk
 europe/netherlands/noordpolderzijl
 europe/spain/canaryislands/grancanaria/las_palmas
 europe/spain/andalucia/cordoba/europe/spain/andalucia/cordoba
@@ -44,7 +37,4 @@ northamerica/unitedstates/vermont/montpelier
 northamerica/unitedstates/florida/tampabayarea/stpetersburg
 europe/croatia/makarska
 asia/philippines/caloocan
-northamerica/canada/ontario/orillia
 europe/azerbaijan/masally
-europe/france/east/franchecomte
-europe/hungary/lakebalaton

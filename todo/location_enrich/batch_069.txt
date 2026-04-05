@@ -1,12 +1,10 @@
 northamerica/unitedstates/newmexico/alamogordo
 asia/thailand/maehongson/mae_sariang_1
-europe/sweden/visby
 europe/romania/oradea
 europe/france/nord/stomer
 europe/unitedkingdom/england/newcastle_and_nort/hartlepool
 europe/germany/thuringia/oberhof
 europe/italy/lombardia/lagomaggiore/islands
-northamerica/unitedstates/california/placerville
 europe/montenegro/ulcinj_1
 northamerica/unitedstates/florida/tarpon_springs
 northamerica/unitedstates/california/centralvalley/hanford
@@ -25,7 +23,6 @@ northamerica/canada/ontario/welland
 northamerica/unitedstates/wisconsin/lacrosse
 northamerica/unitedstates/california/monterey
 europe/montenegro/cetinje
-africa/eritrea/dahlakislands
 africa/swaziland/ezulwinivalley
 northamerica/costarica/tamarindo
 asia/northkorea/myoyangsan
@@ -40,7 +37,6 @@ northamerica/canada/quebec/montreal/goingout/stereo
 africa/egypt/karnak
 australiaandpacific/palau/koror
 europe/belgium/kortrijk
-europe/netherlands/ijmuiden/usefuladdresses
 northamerica/belize/hopkins
 europe/spain/spanishcostas/picassent
 northamerica/honduras/roatan

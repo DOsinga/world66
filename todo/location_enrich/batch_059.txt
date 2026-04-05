@@ -1,14 +1,10 @@
-northamerica/canada/alberta/banff/parkwildlife
-australiaandpacific/newzealand/south_island/west_coast
 northamerica/unitedstates/nevada/carsoncity
 asia/japan/tokyo/asakusa
-europe/italy/sicily/marsala
 northamerica/mexico/yucatan/sanluispotosi
 europe/italy/lazio/tivoli
 europe/france/nord/olhain
 europe/bulgaria/rilamonastery
 europe/germany/lowersaxony/east_frisian_islan/frisian_islands_in
-australiaandpacific/australia/westernaustralia/esperance
 europe/greece/meteora
 africa/libya/sebha
 europe/unitedkingdom/england/swindon
@@ -27,7 +23,6 @@ europe/albania/hotels_in_vlora/hotels_in_velipoje
 europe/albania/hotels_in_vlora/hotels_in_velipoje_1
 europe/italy/veneto/lessinia
 europe/france/midi/provence/menton
-asia/india/andhrapradesh/touristinfo
 europe/unitedkingdom/dorset
 northamerica/unitedstates/illinois/carbondale
 asia/easttimor/dili
@@ -35,14 +30,11 @@ asia/turkey/selcuk
 northamerica/unitedstates/california/palo_alto
 europe/spain/galicia/soutomaior
 europe/unitedkingdom/england/leeds_sheffield_a/hull/barspubs
-europe/armenia/vayots_dzor_marz
 europe/france/paris/fontainebleau
 europe/ireland/cork/wheretostay/sheilashostel
 europe/italy/sicily/aeolianislands/lipari
 europe/moldova/orheiul_vechi_2
 northamerica/unitedstates/massachusetts/plymouth
-northamerica/unitedstates/florida/everglades/tours
-northamerica/canada/the_yukon_territor
 europe/albania/durres/hotels_in_permet
 northamerica/unitedstates/newmexico/taos
 africa/zimbabwe/lakekariba

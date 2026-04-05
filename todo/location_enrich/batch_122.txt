@@ -27,8 +27,6 @@ europe/italy/campania/herculaneum
 northamerica/mexico/matamoros
 northamerica/unitedstates/northcarolina/waynesville
 northamerica/canada/britishcolumbia/wildlife/bears
-asia/cyprus/larnaca/cybercafs
-asia/india/madhyapradesh/jabalpur
 europe/faroeislands/nolsoy
 europe/serbiaandmontenegro/hercegnovi
 europe/spain/canaryislands/lanzarote/puertodelcarmen

@@ -27,7 +27,6 @@ europe/italy/molise/termoli
 northamerica/unitedstates/massachusetts/springfield
 northamerica/canada/newfoundland/cornerbrook
 europe/germany/badenwrttemberg/schiltach
-europe/ireland/sligo/rossespoint
 africa/kenya/safaris/consolata_mungai
 australiaandpacific/newzealand/west_coast/franzjosef
 asia/india/karnataka/konkan_coast/pethri
@@ -43,7 +42,6 @@ northamerica/mexico/yucatan/cuatla
 africa/morocco/nkob
 northamerica/haiti/add_a_city_or_regi/buenos_aires
 asia/uzbekistan/khiva/nukus
-europe/croatia/vodice
 europe/italy/sicily/monreale
 europe/italy/veneto/padua/euganei_hills
 africa/tunisia/skanes

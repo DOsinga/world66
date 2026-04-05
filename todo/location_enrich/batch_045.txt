@@ -2,19 +2,15 @@ northamerica/canada/alberta/lake_louise
 europe/denmark/esbjerg
 southamerica/ecuador/esmeraldas
 africa/morocco/dakhla
-australiaandpacific/australia/queensland/caloundra
 australiaandpacific/australia/queensland/townsville/hotels_intro
 northamerica/unitedstates/california/san_jose
-europe/france/midi/languedoc/hautlanguedoc_reg
 europe/unitedkingdom/england/bristol
 australiaandpacific/micronesiafederatedstatesof/yap
 asia/bangladesh/bangladesh
 europe/armenia/dilijan
-asia/turkey/kackar
 europe/france/around_paris/versailles
 asia/iran/kermanshah
 europe/italy/tuscany/viareggio
-europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme
 asia/india/assam/kaziranga
 asia/japan/tokyo/ueno
 europe/italy/abruzzo/aquila
@@ -28,7 +24,6 @@ europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith
 northamerica/canada/ontario/mississauga/hotels_intro
 northamerica/canada/saskatchewan/regina/hotels_intro
 northamerica/unitedstates/california/sandiego/coronado
-asia/india/orissa/udayagiri
 europe/italy/tuscany/pitigliano
 australiaandpacific/frenchpolynesia/frenchpolynesia
 northamerica/unitedstates/newyorkstate/ashford
@@ -42,9 +37,6 @@ europe/spain/spanishcostas/benalmadena
 europe/norway/narvik
 asia/japan/shikoku/tokushima
 australiaandpacific/australia/westernaustralia/fremantle/hotels_intro
-australiaandpacific/newzealand/north_island/hawkes_bay
-australiaandpacific/newzealand/central_plateau
 northamerica/belize/sanignacio
 northamerica/canada/britishcolumbia/tofino/hotels_intro
 asia/uzbekistan/uzbekistan
-asia/pakistan/dera_ghazi_khan/taunsa_sharif/makwal_kalan_1

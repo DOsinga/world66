@@ -1,8 +1,10 @@
 ---
-title: "Transylvania"
+title: Transylvania
 type: location
 latitude: 46.597162
 longitude: 24.374029
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Transylvania is the large plateau that fills the centre and north of Romania, ringed on three sides by the great arc of the **Carpathian Mountains**. For a word so saturated with vampire associations in the English-speaking imagination, the reality is almost comically unlike it: rolling farmland, forested hills, beech woods that still shelter the densest populations of brown bear and wolf in Europe, and a collection of small, beautifully preserved medieval towns that would not look out of place in Austria or southern Germany. That resemblance is not a coincidence — from the 12th century until the end of the First World War, Transylvania was ruled by Hungarians, and colonised by German-speaking "Saxons" who built the fortified churches and the cobbled squares that still dominate its towns today.

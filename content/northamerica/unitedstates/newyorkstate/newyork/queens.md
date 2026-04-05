@@ -1,8 +1,10 @@
 ---
-title: "Queens"
+title: Queens
 type: location
 latitude: 40.7282
 longitude: -73.7949
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Queens is the largest and most ethnically diverse of New York City's five boroughs, and almost certainly the most diverse urban area on earth — somewhere around 2.4 million people speaking over 150 languages across Astoria, Flushing, Long Island City, Jackson Heights, Jamaica, Forest Hills, and dozens of other neighbourhoods. It is where most of the city's immigrants land and where most of its food comes from. If Manhattan is New York's stage and Brooklyn its self-image, Queens is the city's actual life.

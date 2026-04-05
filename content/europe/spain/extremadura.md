@@ -1,8 +1,10 @@
 ---
-title: "Extremadura"
+title: Extremadura
 type: location
 latitude: 39.174843
 longitude: -6.152989
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Extremadura is one of Spain's great underrated regions — a vast, empty, rolling land of dehesa woodlands, cork oaks, and slow rivers that lies between Madrid and the Portuguese border. It is the hottest, driest, and poorest part of the peninsula, and its population has been leaving for centuries; in the 16th century it produced conquistadores (Cortés, Pizarro, Nuñez de Balboa were all Extremeños), and in the 20th it produced emigrants to Germany and France. What remains is a deeply rural, deeply traditional Spain that feels hours older than anywhere else in the country.

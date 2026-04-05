@@ -1,8 +1,10 @@
 ---
-title: "Canterbury"
+title: Canterbury
 type: location
 latitude: -43.494176
 longitude: 171.809845
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Canterbury is the largest region on New Zealand's South Island, and one of the most varied — a huge east-coast slab of country that rises from the long, flat, surf-pounded beaches of the Pacific, across the enormous **Canterbury Plains** (the biggest plain in New Zealand, covered in patchwork sheep farms and irrigated cropland), into the foothills, and finally up to the **Southern Alps**, where **Aoraki / Mount Cook** rises to 3,724 metres as the country's highest peak. Much of the South Island's most famous scenery is here: turquoise glacial lakes (Tekapo, Pukaki), the Hooker Valley, the Tasman Glacier, and the huge braided rivers that fan across the plains.

@@ -5,22 +5,10 @@ latitude: 5.406501
 longitude: 100.255908
 ---
 
-Travel Guide
+Penang — **Pulau Pinang** in Malay — is a 280 km² island off the north-west coast of **Peninsular Malaysia**, joined to the mainland by the 14-kilometre Penang Bridge and the even longer second bridge at Batu Kawan. It was the first British foothold in Malaya, founded by **Captain Francis Light** in 1786 as a trading post of the East India Company, and the legacy of that history — British, Chinese, Indian, Malay, Peranakan, Siamese, all layered on the same small island — has made Penang the most culturally diverse place in Malaysia. It is also, by almost universal consensus, the best place in the country to eat.
 
-We currently have no information about Penang.
+The capital, **George Town**, is a UNESCO World Heritage Site — a compact old colonial grid of shophouses, clan jetties, Anglican churches, Chinese temples, Indian mosques and Peranakan mansions, all lived in and still functioning. It is the main reason most visitors come. A slow day's walk around George Town takes you past **Fort Cornwallis** (the original British settlement), the colonial-era **City Hall** and **Town Hall**, the **Cheong Fatt Tze "Blue Mansion"** (a restored 19th-century Peranakan tycoon's house open to visitors), **Khoo Kongsi** (the finest Chinese clan hall in Southeast Asia), **Pinang Peranakan Mansion**, and the famous **street art** — painted murals and wrought-iron caricature signs installed around the old town in 2012 that have become one of George Town's signature attractions. The **clan jetties**, a series of stilt villages on the waterfront each belonging to a different Chinese clan, give a glimpse of how immigrant communities organised themselves by surname and trade.
 
-If you do know any general information about Penang, please [Edit this article].
+Beyond George Town, the island holds its own surprises. **Batu Ferringhi** on the north coast is the main beach resort strip — not the finest beaches in Malaysia, but acceptable for a few lazy days. **Penang Hill**, reached by one of the oldest funicular railways in Asia (opened 1923), is 833 metres high and noticeably cooler than the sweltering city below, with colonial-era bungalows and a panoramic view. The **Kek Lok Si Temple**, the largest Buddhist temple in Malaysia, sits on another hilltop at Air Itam. And the **Tropical Spice Garden** and **Penang National Park** on the north-western tip give a taste of the jungle-covered interior.
 
-If you know any hotels in Penang or restaurants in Penang, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/malaysia/penang)
-
-Penang or its Malay name of Pulau Pinang is made up of a turtle-shaped island, a total of 280 square kilometers, and a strip of land called Seberang Prai on Peninsular Malaysia about 48 kilometers wide. Penang is also often called the Pearl of the Orient. It used to be the oldest British settlement in Malaysia predating Melaka. In 1786 Captain Francis Light took possession of the island. 
- Today it is probably the most famous island of the country. It is not only known for its beach resorts, but for its colonial heritage you can especially witness in the Georgetown, the biggest city of the island. 
-
-
- Many visitors coming down from Thailand head for Penang first before they continue their trip to places like Cameron Highlands, Kuala Lumpur or [Melaka](/asia/malaysia/melaka). Many people living in Thailand come to get a new visa at the local Thai consulate.
-
-
- Penang is much more influenced by the Chinese part of the Malaysian population than any other place. You will notice a large number of Chinese people. What is rather more impressive to the foreign visitor is the mix of churches, Chinese temples and Indian temples sometimes only a few hundred metres away from each other. Also there are a number of interesting other sights to be found in Georgetown and beyond. The famous author Somerset Maugham is known to have stayed on the island and spun tales about the romance of the white planter in South-East Asia.
-
-
- Most visitor will either stay in Georgetown or in one of the beach resorts outside the city (See accommodation section). The most popular are Tanjung Bungah and Batu Ferringhi (Foreigner's rock). If you are looking for really clean and unspoiled beach Penang might not be the right place, but it is still very nice and the whole atmosphere is really relaxed.
+The real glory of Penang, however, is the **food**. This is where the *char kway teow*, *asam laksa*, *nasi kandar*, and *nyonya* cooking of Malaysia all reach their highest form, served from hawker stalls at prices that feel almost indecent. Eat cheaply and frequently; the best meals on the island will cost you less than a coffee in Kuala Lumpur.

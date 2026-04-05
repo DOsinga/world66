@@ -1,8 +1,10 @@
 ---
-title: "Arusha"
+title: Arusha
 type: location
 latitude: -3.3697
 longitude: 36.6881
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Arusha is the gateway city to Tanzania's northern safari circuit and the base for most climbers heading to Kilimanjaro. Set at 1,400m on the southern slopes of Mount Meru, the city has a cooler, more pleasant climate than most of East Africa. It is a transit hub more than a destination in itself, but it has its own character and enough to keep you occupied for a day or two.

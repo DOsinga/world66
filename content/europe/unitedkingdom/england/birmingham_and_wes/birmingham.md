@@ -1,8 +1,10 @@
 ---
-title: "Birmingham"
+title: Birmingham
 type: location
 latitude: 52.4797
 longitude: -1.9026
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Birmingham is Britain's second-largest city, with a population of around 1.1 million in the city and 2.9 million in the wider metropolitan area. It sits in the heart of England, roughly equidistant between London and Manchester, and has been at the centre of British industrial history since the 18th century: the canals, the metalworking trades, the Lunar Society of Watt, Boulton and Erasmus Darwin, and the forges of the Black Country all took shape here.

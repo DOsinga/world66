@@ -1,8 +1,10 @@
 ---
-title: "Klaipeda"
+title: Klaipeda
 type: location
 latitude: 55.7128
-longitude: 21.1350
+longitude: 21.135
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Klaipeda is Lithuania's only seaport and the country's third-largest city. Until 1919 it was the German city of Memel, part of Prussia, and German influence is visible in the half-timbered buildings of the old town and in the history museums. The city sits at the mouth of the Curonian Lagoon, where it narrows to a strait that separates mainland Lithuania from the Curonian Spit.

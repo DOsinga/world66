@@ -1,8 +1,10 @@
 ---
-title: 'Samar Island'
+title: Samar Island
 type: location
 latitude: 11.7886
-longitude: 124.9600
+longitude: 124.96
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Samar is the third-largest island in the Philippines and one of its least-visited, which is exactly the point. Connected to Leyte by the San Juanico Bridge, the island is split into three provinces -- Western Samar, Eastern Samar, and Northern Samar -- and offers raw, unpolished natural beauty: waterfalls, caves, surf breaks, and long stretches of coastline with barely a tourist in sight.

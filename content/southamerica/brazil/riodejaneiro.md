@@ -1,8 +1,10 @@
 ---
-title: 'Rio de Janeiro'
+title: Rio de Janeiro
 type: location
 latitude: -22.911014
 longitude: -43.209373
+done:
+  location_cleanup: 2026-04-04
 ---
 
 **Rio de Janeiro** is one of the most spectacular cities in the world. A natural harbour ringed by steep green mountains, with golden beaches curving along the coast and the iconic Christ the Redeemer statue presiding over it all from the peak of Corcovado. No photograph does it justice -- you have to stand on **Sugar Loaf Mountain** and take in the 360-degree panorama of Guanabara Bay, the city sprawling between jungle-covered peaks, and the Atlantic stretching to the horizon.

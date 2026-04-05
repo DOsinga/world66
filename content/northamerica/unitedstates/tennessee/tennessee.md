@@ -1,8 +1,10 @@
 ---
-title: 'Tennessee'
+title: Tennessee
 type: location
 latitude: 35.5175
 longitude: -86.5804
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Tennessee stretches from the Great Smoky Mountains in the east to the Mississippi River in the west, and its three grand divisions feel like different states entirely. Each has its own city, its own music, and its own character.

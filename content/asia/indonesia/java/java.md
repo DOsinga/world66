@@ -1,8 +1,10 @@
 ---
-title: 'Java'
+title: Java
 type: location
 latitude: -7.6145
 longitude: 110.7122
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Java is the heart of Indonesia -- the most populated island on earth and the country's political, economic, and cultural engine. More than 150 million people live here, packed into an island roughly the size of England, and yet there are still stretches of rice terraces, volcanic peaks, and dense forest that feel genuinely remote.

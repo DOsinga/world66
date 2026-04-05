@@ -1,8 +1,10 @@
 ---
-title: 'Budapest'
+title: Budapest
 type: location
 latitude: 47.4979
 longitude: 19.0402
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Budapest is one of Europe's most rewarding cities, a place where faded imperial grandeur meets a rebellious creative energy that keeps things interesting. Straddling the Danube, with hilly Buda on one side and flat, bustling Pest on the other, it offers world-class architecture, thermal baths you can soak in for hours, and a food and drink scene that punches well above its price point.

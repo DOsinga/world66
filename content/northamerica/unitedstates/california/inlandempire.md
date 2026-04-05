@@ -1,8 +1,10 @@
 ---
-title: 'Inland Empire'
+title: Inland Empire
 type: location
 latitude: 34.068717
 longitude: -117.437968
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Think of Southern California as palm trees and beaches only? Just an hour east of downtown [Los Angeles](/northamerica/unitedstates/california/losangeles), the Inland Empire will change your mind. This sprawling region stretches across San Bernardino and Riverside counties, where the flat suburban grid gives way to soaring mountains, alpine lakes, and pine-scented air.

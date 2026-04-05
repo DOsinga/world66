@@ -1,12 +1,14 @@
 ---
-title: "Sri Lanka"
+title: Sri Lanka
 type: location
 latitude: 7.555494
 longitude: 80.713785
 image: srilanka.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_2013_01.JPG"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Cherubino" title="User:Cherubino">Cherubino</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_2013_01.JPG
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Cherubino" title="User:Cherubino">Cherubino</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Sri Lanka is an island of extraordinary variety. In the space of a few hours you can move from the frenetic energy of [Colombo](/asia/srilanka/colombo) to the cool mist of the Hill Country, from ancient ruined cities to beaches that go on for miles. It is a small country — about the size of Ireland — but it packs in more history, wildlife, and landscape than many places ten times its size.

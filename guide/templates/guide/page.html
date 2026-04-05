@@ -273,20 +273,26 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   // Hero is image by default; may also have a map layer
   var heroMapEl = document.getElementById('hero-map');
   var heroMapInited = false;
+  var heroMap = null;
   var heroBtnPhoto = document.getElementById('hero-btn-photo');
   var heroBtnMap   = document.getElementById('hero-btn-map');
   var heroShowingMap = false;
 
   function heroSetMap() {
-    if (!heroMapInited && markers.length) {
-      initLocationMap('hero-map', markers, mapOptions);
-      heroMapInited = true;
-    }
-    heroShowingMap = true;
+    // Show element BEFORE init so Leaflet can measure its dimensions
     if (heroMapEl) heroMapEl.style.display = '';
     hero.classList.add('hero-map-mode');
     heroBtnMap.classList.add('hero-toggle-active');
     heroBtnPhoto.classList.remove('hero-toggle-active');
+    heroShowingMap = true;
+    if (!heroMapInited && markers.length) {
+      requestAnimationFrame(function() {
+        heroMap = initLocationMap('hero-map', markers, mapOptions);
+        heroMapInited = true;
+      });
+    } else if (heroMap) {
+      requestAnimationFrame(function() { heroMap.invalidateSize(); });
+    }
   }
 
   function heroSetPhoto() {
@@ -312,6 +318,9 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
       hero.classList.toggle('hero-expanded', heroExpanded);
       heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
       heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
+      if (heroShowingMap && heroMap) {
+        requestAnimationFrame(function() { heroMap.invalidateSize(); });
+      }
     });
   }
 

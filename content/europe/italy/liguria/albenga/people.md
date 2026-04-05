@@ -3,10 +3,4 @@ title: "People"
 type: section
 ---
 
-Albenga famous people chronicle start with the General Costanzo which rebuilt the town after the period of the barbarians who partly destroyed the town at the end of the 4th century.  The first known important Bishop was Quinzio in 451. Bishops were very powerful in Albenga's territories and the were ruling with the help of the famous families of Costa, D'Aste, Lengueglia, Cepolla, Ricci, Rolandi, and Oddi which built many of the towers - about ten are still visible today - as symbol of power and prestige. People of Albenga has a very distinguished role in sport activities and some of them have participated to olimpics and won Italian National contest specially with sailing and running.
-
-Enrico Pelos, Albenga editor, Liguria (general) editor, Osinga.com, Genoa, Italy.
-
- pelos@tn.village.it
-
- http://www.global.village.it/~pelos/index.htm
+Albenga's recorded history begins with General Costanzo, who rebuilt the town after the barbarian raids of the late 4th century. The first documented bishop, Quinzio, held office in 451. Through the medieval period, powerful families — Costa, D'Aste, Lengueglia, Cepolla, Ricci, Rolandi, and Oddi — dominated local affairs and raised the towers that still punctuate the skyline as symbols of prestige. About ten of those towers survive. In more recent centuries, Albenga has produced athletes who have competed at Olympic level, particularly in sailing and athletics.

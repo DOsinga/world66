@@ -1,19 +1,6 @@
 ---
-title: "General"
-type: location
-latitude: 14.307028
-longitude: 120.920275
+title: "Overview"
+type: section
 ---
 
-This pleasant little town is very popular with both tourists and artists. It was founded in the 14th century by Greek and Serbian refugees who fled from the Turks. Although they struggled with invasians, they managed to hold on to their orthodox religion, as is testified by the many small orthodox churches still in Szentendre. After most of the Serbs moved away during the Habsburg era, the town lost it's commercial importance and became just another quiet little town on the Danube. In the early 20th century, a group of pioneering young artists led the way for the many artist who live and work here until today.
-
-
- Szentendre offers the visitor a relaxing day out. You can take a walk along the Danube, have something to eat in one of the small restaurants, stock up on your souvenirs, and visit a gallery or museum.
-
-
- The Margit Kovács museum (located on Vastagh György utca) displays the works of this influential Hungarian artist who is considered to be a master of ceramics. Her works usually focusses around themes of motherhood, love and destiny, and never fails to move.
-
-
- On Görög utca you can find a small gallery with works by Károly Ferenczy. He was a leading Hungarian impressionist whos works are also exhibited in the museums in Budapest.
-
-Just outside of Szentendre lies the open air ethnographical museum (Skanzen) which depicts Hungarian rural life in the 17th and 18th century. Various thatched cottages, mills and craft demonstrations can be seen all year through. In summer, you can partake in free wine tastings.
+Szentendre is centred on Fő tér (Main Square), with cobblestoned streets winding off in all directions. The Danube is a short walk to the east. Art galleries, souvenir shops, and Serbian Orthodox churches are scattered through the old town. The Margit Kovács Museum on Vastagh György utca displays the ceramics of one of Hungary's most celebrated 20th-century artists — works exploring motherhood, love, and folk themes. The Ferenczy Museum on Fő tér holds paintings by Károly Ferenczy, the leading Hungarian Impressionist. Just outside town, the Open-Air Ethnographic Museum (Skanzen) reconstructs Hungarian rural life from the 17th and 18th centuries, with thatched cottages, mills, and craft demonstrations.

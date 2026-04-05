@@ -1,6 +1,6 @@
 ---
 title: "Practical Information"
-type: location
+type: section
 ---
 
 Tourism Delegation · Place Administrative - Tel: 52.44.26 Tourist Office · Esplanade de la Foire - Tel: 52.01.91

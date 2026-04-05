@@ -1,6 +1,8 @@
 ---
 title: "Sosua"
 type: location
+latitude: 19.7688
+longitude: -70.5140
 ---
 
 Sosua is a very beautiful tourist attraction. There are good

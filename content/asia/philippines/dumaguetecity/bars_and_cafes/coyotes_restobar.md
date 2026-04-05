@@ -1,26 +1,10 @@
 ---
-title: "Coyotes Resto-Bar Dumaguete"
+title: "Coyotes Resto-Bar"
 type: poi
-accessibility: "Natasha Homes"
-address: "South Highway - Banilad"
+address: "South Highway, Banilad, Dumaguete City"
 phone: "09057789299"
 latitude: 9.260896
 longitude: 123.293851
 ---
 
-A fab new resto-bar, with live acts every Friday and Saturday Evening, followed by a disco, playing all your favourite tracks on request
-Open every day from 10am until the last one leaves.
-Located i Banilad approx 3km from the boulavard.
-Look for Green Lights!
-
-Happy Hour 2-6pm
-A selection of local and international Dishes are offered
-www.coyotes-dumaguete.com
-
-
-
-accessibility: Natasha Homes
-
-tel: 09057789299
-
-address: South Highway - Banilad
+A restobar about 3 km south of the Boulevard along the South Highway, with live music on Friday and Saturday evenings followed by a DJ set. Open daily from 10am. Filipino and international food; happy hour 2–6pm.

@@ -1,6 +1,6 @@
 ---
 title: "Gatorland"
-type: location
+type: poi
 latitude: 28.354993
 longitude: -81.401899
 ---

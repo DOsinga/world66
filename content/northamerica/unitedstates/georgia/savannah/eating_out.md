@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Savannah"
+title: "Eating Out"
 type: section
 ---
 

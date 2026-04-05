@@ -1,12 +1,16 @@
 ---
-title: "Pitcairn Islands"
+title: Pitcairn Islands
 type: location
 latitude: -25.065772
 longitude: -130.101782
 image: pitcairnislands.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Pitcairn_-_Church_of_Adamstown.jpg"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="https://en.wikipedia.org/wiki/de:User:Makemake" class="extiw" title="w:de:User:Makemake">Makemake</a> at <a href="https://en.wikipedia.org/wiki/de:" class="extiw" title="w:de:">German Wikipedia</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Pitcairn_-_Church_of_Adamstown.jpg
+image_license: CC BY-SA 3.0
+image_attribution: <a href="https://en.wikipedia.org/wiki/de:User:Makemake" class="extiw"
+  title="w:de:User:Makemake">Makemake</a> at <a href="https://en.wikipedia.org/wiki/de:"
+  class="extiw" title="w:de:">German Wikipedia</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Pitcairn is the most remote inhabited island on Earth. It sits in the South Pacific roughly halfway between New Zealand and Peru, 2,170 kilometres southeast of Tahiti. The nearest airport is in Mangareva, French Polynesia — a 32-hour voyage by sea. There are no flights. There is no harbour deep enough for large ships. You arrive by longboat through the surf at Bounty Bay.

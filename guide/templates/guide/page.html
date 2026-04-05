@@ -113,7 +113,10 @@
 {% endblock %}
 
 {% block body_style %}
-{% if hero_image_url %}<style>body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;background-attachment:fixed;}</style>{% endif %}
+{% if hero_image_url %}<style>
+body{background-image:url('{{ hero_image_url }}');background-size:cover;background-position:center top;background-attachment:fixed;}
+:root{--hero-image:url('{{ hero_image_url }}');}
+</style>{% endif %}
 {% endblock %}
 
 {% block content %}
@@ -272,13 +275,16 @@ var _w66map = initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng"
   }
 
   // Map expand into hero / collapse back
+  var header = document.getElementById('header');
   if (contentExpandBtn && heroMapZone && contentPreview && typeof _w66map !== 'undefined') {
     var mapEl = document.getElementById('location-map');
 
     function expandMapToHero() {
       heroMapZone.insertBefore(mapEl, heroMapZone.firstChild);
+      heroMapZone.style.top = (header ? header.offsetHeight : 0) + 'px';
       hero.classList.add('hero-showing-map');
       contentPreview.style.visibility = 'hidden';
+      if (header) header.classList.add('header-hero-image');
       requestAnimationFrame(function() { requestAnimationFrame(function() { _w66map.invalidateSize(); }); });
     }
 
@@ -286,17 +292,14 @@ var _w66map = initLocationMap('location-map', [{"lat": {{ lat|escapejs }}, "lng"
       contentPreview.insertBefore(mapEl, contentPreview.firstChild);
       hero.classList.remove('hero-showing-map');
       contentPreview.style.visibility = '';
+      if (header) header.classList.remove('header-hero-image');
       requestAnimationFrame(function() { requestAnimationFrame(function() { _w66map.invalidateSize(); }); });
     }
 
-    contentExpandBtn.addEventListener('click', expandMapToHero);
+    contentExpandBtn.addEventListener('click', function(e) { e.stopPropagation(); expandMapToHero(); });
     if (heroMapClose) heroMapClose.addEventListener('click', collapseMapToContent);
 
-    // Click anywhere on the content map preview also expands it
-    contentPreview.addEventListener('click', function(e) {
-      if (e.target === contentExpandBtn) return;
-      expandMapToHero();
-    });
+    contentPreview.addEventListener('click', expandMapToHero);
   }
 })();
 </script>

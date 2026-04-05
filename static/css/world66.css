@@ -46,6 +46,21 @@ img { max-width: 100%; height: auto; }
   box-shadow: 0 1px 4px rgba(0,0,0,0.08);
   position: relative;
   z-index: 100;
+  transition: background 0.3s;
+}
+
+/* When map is expanded into hero, the page image migrates to the header */
+#header.header-hero-image {
+  background-image: var(--hero-image);
+  background-size: cover;
+  background-position: center 40%;
+}
+
+#header.header-hero-image .header-top,
+#header.header-hero-image .top-nav,
+#header.header-hero-image .breadcrumbs {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(4px);
 }
 
 .header-inner {
@@ -75,12 +90,15 @@ img { max-width: 100%; height: auto; }
   cursor: default;
 }
 
-/* Hero map zone — hidden until map is expanded into it */
+/* Hero map zone — full-viewport-width strip, positioned via JS to sit below header */
 .hero-map-zone {
   display: none;
-  position: absolute;
-  inset: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 200px;
   background: #f0f0ec;
+  z-index: 9000;
 }
 
 .hero-map-zone #location-map {
@@ -92,7 +110,8 @@ img { max-width: 100%; height: auto; }
   display: block;
 }
 
-.hero.hero-showing-map .hero-expand-btn {
+.hero.hero-showing-map .hero-expand-btn,
+.hero.hero-showing-map .hero-attribution {
   display: none;
 }
 
@@ -166,7 +185,7 @@ img { max-width: 100%; height: auto; }
   position: absolute;
   top: 12px;
   right: 12px;
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.92);
   color: var(--text);
   border: 1px solid rgba(0,0,0,0.15);
   border-radius: 4px;
@@ -174,7 +193,8 @@ img { max-width: 100%; height: auto; }
   font-size: 13px;
   font-family: Verdana, Arial, sans-serif;
   cursor: pointer;
-  z-index: 30;
+  z-index: 10000;
+  pointer-events: all;
 }
 .hero-map-close:hover { background: #fff; color: var(--red); }
 

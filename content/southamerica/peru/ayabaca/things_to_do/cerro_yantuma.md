@@ -1,16 +1,9 @@
 ---
 title: "Cerro Yantuma"
 type: poi
-type: "Hiking"
+category: "Sight"
+latitude: -4.6418
+longitude: -79.7176
 ---
 
-Half an hour worth of walking out of town is the Cerro Yantuma. It’s a rolling hill, with a magnificent view over the whole area. The green pasture and the trees give it a very friendly feel. Starting at about 4 o’clock clouds start floating by, making it an almost spiritual place, ideal for a pick nick. The sunset can be tremendous here.
-
-To get there, just follow the calle Caceras with the town hall behind you. Follow this road a kilometer or two, until you reach a very small village. Cross the plaza and follow the path between two houses, as seen on one of the photos. Follow any of the branches of the path, and you’ll get there.
-
-**Contributors**
-May 20, 2006
-
-May 22, 2006
-
-type: Hiking
+A rolling green hill about half an hour's walk from the Plaza Central, with a sweeping view over the whole Ayabaca valley. The pastures and scattered trees give it a friendly, almost Alpine feel, and from around four in the afternoon clouds begin to drift across the ridge and the light turns spectacular. Bring something to drink and stay for the sunset. To get there: follow Calle Cáceres with the town hall behind you for a couple of kilometres, cross the plaza of the small village at the end, and take any of the branching paths up the hill.

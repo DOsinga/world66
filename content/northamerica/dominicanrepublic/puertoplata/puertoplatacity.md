@@ -1,6 +1,8 @@
 ---
 title: "Puerto Plata City"
 type: location
+latitude: 19.7957
+longitude: -70.6880
 ---
 
 It's a small town, but it's a good place to get used to being in a third world country. Meaning it's a good place to learn your first words of Spanish: 'no gracias'.

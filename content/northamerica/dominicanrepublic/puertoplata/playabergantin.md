@@ -1,6 +1,8 @@
 ---
 title: "Playa Bergantin"
 type: location
+latitude: 19.7870
+longitude: -70.6320
 ---
 
 There is one good reason to visit Playa Bergantin: it's paradise.

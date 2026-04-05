@@ -1,6 +1,7 @@
 Django==6.0.3
 Markdown
 PyYAML
+python-frontmatter
 uvicorn[standard]
 geopy
 httpx

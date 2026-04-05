@@ -33,6 +33,11 @@ If a task name is provided, pick up a random shard from `todo/$ARGUMENTS/` and p
 6. **Process each item in the shard**
    - Read the shard file line by line.
    - For each item, perform the task described in TASK.md.
+   - After finishing an item, mark it done in the page's frontmatter:
+     `python3 tools/mark_done.py $ARGUMENTS <path/to/page.md>`
+     This adds `<task>: <today>` to the `done:` dict in the frontmatter. Run it
+     on the main location/country file for the item (the top-level `.md`, not
+     each section/POI). Stage the change as part of the same item commit.
    - Commit each item separately with the commit message format specified in TASK.md.
    - Do NOT push until all items are processed.
 

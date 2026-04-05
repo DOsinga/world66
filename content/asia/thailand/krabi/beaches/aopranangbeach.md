@@ -1,8 +1,9 @@
 ---
 title: "Ao Nang Beach"
 type: poi
+category: "Sight"
 latitude: 8.031092
 longitude: 98.821883
 ---
 
-Ao Nang features Krabi's most developed beach. Fringed by palms, the long beach is backed by a wide range of accommodation including resorts, bungalows and guesthouses. Most travel services can be found here, and there is a good variety of restaurants featuring both local and international cuisine. Due to it's locale and range of services and accommodation, Ao Nang serves as the ideal place to both stay put and relax, or from which to explore surrounding islands and beaches.
+Ao Nang is the busiest and most developed beach in Krabi province — a long curve of pale sand backed by a strip of palm trees and, behind that, a near-continuous line of hotels, restaurants, dive shops and travel agents. It is not the prettiest beach on the coast (the nearby Railay beaches are more dramatic, and the offshore islands are quieter), but it is by far the best base for exploring everything else in the area. Long-tail boats leave all day from the seafront for Railay, the Phi Phi islands, and the nearby islets of Koh Poda and Chicken Island.

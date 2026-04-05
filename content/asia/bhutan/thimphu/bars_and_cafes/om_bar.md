@@ -1,22 +1,9 @@
 ---
-title: "OM bar"
+title: "OM Bar"
 type: poi
 address: "Jojos Building, Changlam, Thimphu"
+latitude: 27.4720
+longitude: 89.6398
 ---
 
-Om bar comes to life after 9 pm everyday besides Tuesday, it sees
-people from all walks of life, all of them go there to have a nice
-time, to socialise - meet old friends or make new ones, there are
-numerous stories of hearts broken or mended, business deals struck,
-cars and electronics sold and bought... all at Oms. But in particular a
-tough, busy and hard weeks work brings a lot of the folks here on
-weekends. A large portion of their guests are expatriates though we have
-many locals too.
-
-They also have a menu with snacks that go well with your drinks, but anyone interested can bring their food as well.
-
-Om bar's peak moment is after 9 pm on Fridays and Saturdays.
-
-It seems like more people plan their weekend evening as "a drink at
-Om and then head off to the nearest dance place to rattle their bones"
-its not unusual that they come
+The main expat bar in Thimphu, in the Jojos Building on Changlam. Comes to life after 9pm, closed Tuesdays. A mix of expats and locals; busy on Friday and Saturday evenings. Snacks available; outside food is permitted. One of the few places in Thimphu with a late-night atmosphere.

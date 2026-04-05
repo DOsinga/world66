@@ -3,6 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-No doubt there are fine restaurants in Pontevedra but you may have difficulty tearing yourself away from the many bars in which octopus [pulpo] is served cheaply.
-
-These pulperías are to be be found throughout the narrow winding streets of the old town.
+Galician food is the draw in Pontevedra, and the old town's narrow lanes are packed with places serving it well. Pulpo a feira — octopus dressed with olive oil, coarse salt, and paprika — is the thing to order, ideally at one of the small pulperías clustered around the squares. Wash it down with a glass of Albariño, the crisp white wine made just up the coast in the Rías Baixas.

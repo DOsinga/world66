@@ -93,7 +93,38 @@ The `type: neighbourhood` distinguishes these from regular sections and location
 
 ### Images
 
-Find a freely licensed image (Wikimedia Commons preferred) for each neighbourhood. Every neighbourhood file should have `image`, `image_source`, and `image_license`.
+Every neighbourhood file must have `image`, `image_source`, and `image_license` in its frontmatter, and the image file must be physically present at `explore/<slug>.jpg` (or `.png`).
+
+**How to fetch images from Wikipedia/Wikimedia Commons:**
+
+For each neighbourhood, query the Wikipedia API for the page thumbnail:
+
+```
+https://en.wikipedia.org/w/api.php?action=query&titles=TITLE&prop=pageimages&piprop=thumbnail&pithumbsize=800&format=json
+```
+
+Use the thumbnail URL to download the image. The Wikimedia API allows thumbnail sizes — request 800px to stay within rate limits. Then query Commons for the license:
+
+```
+https://commons.wikimedia.org/w/api.php?action=query&titles=File:FILENAME&prop=imageinfo&iiprop=extmetadata&format=json
+```
+
+If the Wikipedia page has no thumbnail, search Wikimedia Commons directly:
+
+```
+https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=QUERY&gsrnamespace=6&prop=imageinfo&iiprop=url|extmetadata|mime&format=json
+```
+
+Pick the first result with a JPEG or PNG mime type. Use the full image URL from `imageinfo.url`.
+
+**Frontmatter format:**
+```yaml
+image: jordaan.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:Prinsengracht_Jordaan.jpg"
+image_license: "CC BY-SA 4.0"
+```
+
+The image file lives in the same `explore/` directory as the `.md` file. Add 1–2 seconds of delay between requests to avoid rate limiting.
 
 ### Tagging POIs
 

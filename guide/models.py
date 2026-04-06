@@ -182,6 +182,8 @@ class Page:
 
         title = self.title
         pois = []
+
+        # City-section POIs tagged with neighbourhood: "Title"
         for section_dir in sorted(city_dir.iterdir()):
             if not section_dir.is_dir() or section_dir.name == "explore":
                 continue
@@ -197,6 +199,16 @@ class Page:
                     page = _load_page_from_file(poi_file, poi_path)
                     if page:
                         pois.append(page)
+
+        # Neighbourhood-local POIs stored in explore/<slug>/ subdirectory
+        local_dir = CONTENT_DIR / self.path
+        if local_dir.is_dir():
+            for poi_file in sorted(local_dir.iterdir()):
+                if poi_file.is_file() and poi_file.suffix == ".md":
+                    page = _load_page_from_file(poi_file, self.path + "/" + poi_file.stem)
+                    if page and page.page_type == "poi":
+                        pois.append(page)
+
         return pois
 
 

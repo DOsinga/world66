@@ -78,11 +78,27 @@
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
-      {% if page.page_type == "section" %}{{ page.title }}{% else %}Highlights{% endif %}
+      {% if page.page_type == "section" or page.page_type == "neighbourhood" %}{{ page.title }}{% else %}Highlights{% endif %}
     </h3>
     <ul class="sidebar-nav">
       {% for poi in pois %}
       <li><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if neighbourhood_page %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ neighbourhood_page.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for poi in neighbourhood_pois %}
+      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
+        <a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>
+      </li>
       {% endfor %}
     </ul>
   </div>
@@ -148,7 +164,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
-{% if page.page_type == "section" and pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" %}{% if pois %}
 {% if poi_categories %}
 <div class="poi-filter-bar">
   <button class="poi-filter-btn poi-filter-active" data-filter="">All</button>
@@ -179,6 +195,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
           {% endif %}
         </span>
         {% endfor %}
+        {% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}
       </td>
     </tr>
     {% endfor %}
@@ -207,6 +224,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </script>
 {% endif %}
 {% endif %}
+{% endif %}
 
 {% if tags %}
 <div class="tags">
@@ -220,6 +238,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 <div class="story-box">
   <div class="story-box-label">A story</div>
   {{ page.meta.story }}
+</div>
+{% endif %}
+
+{% if neighbourhood_page %}
+<div class="neighbourhood-ref">
+  Part of <a href="{{ neighbourhood_page.get_absolute_url }}">{{ neighbourhood_page.title }}</a>
 </div>
 {% endif %}
 

@@ -1,16 +1,16 @@
 ---
-title: "Kenmare"
+title: Kenmare
 type: location
-latitude: 51.879101
-longitude: -9.583952
+latitude: 51.8791
+longitude: -9.584
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Kenmare by the sea, nestles among the mountains of Cork and Kerry, hence its IRISH Name "NEIDIN" meaning "Little Nest" or "Little Craddle". The charming picturesque town is a good example of one of Ireland's planned towns. It was founded in 1670 by Sir William Petty. His descendent William Petty-Fitzmaurice, 2nd. Earl of Shelbourne and 1st. Marquis of Lansdowne, commissioned the present design of the town which was completed in 1775. 
+Kenmare sits at the head of Kenmare Bay where the mountains of Cork and Kerry close in around a sheltered inlet. The Irish name is Neidin -- "little nest" -- and you can see why. The town is small, colourful, and tucked into one of the most dramatic landscapes in the southwest.
 
-Chosen by The Irish Tourist Board, the town is the first Heritage town in County Kerry. The Heritage Centre is located in the Courthouse where modern interpretative techniques are being used to recall it's history. 
+Founded in 1670 by Sir William Petty, Kenmare is one of Ireland's planned towns. The layout you see today dates from 1775, commissioned by the Marquis of Lansdowne: a tidy X-shaped street plan with a triangular market square at the centre. It works. The proportions feel right, the stone buildings have aged well, and the whole place has a confidence that many small Irish towns lack.
 
-Craft people, both native and foreign, have found the area inspirational to their work. Designed and produced locally are Lace, Knitwear, Jewelry, Pottery, Wooden Crafts. Needlework, Weaving, Musical Instruments. Paintings and Smoked Salmon. 
+Kenmare is a natural base for exploring both the [Ring of Kerry](/europe/ireland/ringofkerry) and the Beara Peninsula. The town itself has good restaurants, a handful of interesting shops, and enough pubs to fill a few evenings. But the real draw is the setting -- mountains behind, the bay in front, and some of Ireland's oldest archaeological sites within walking distance.
 
-
-
-that should be ***crafty*** people....as all kerry people are crafty (or cute hoors to the rest of us)
+The craft tradition here is genuine. Local makers produce lace (a tradition dating back to the famine era), knitwear, pottery, and jewellery. The town was Kerry's first Heritage Town, and the Heritage Centre in the old courthouse tells the story well.

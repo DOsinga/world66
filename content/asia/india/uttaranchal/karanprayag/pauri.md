@@ -1,14 +1,8 @@
 ---
-title: "pauri"
+title: "Pauri"
 type: location
 latitude: 30.065231
 longitude: 78.731572
 ---
 
-Travel Guide
-
-We currently have no information about pauri.
-
-If you do know any general information about pauri, please [Edit this article].
-
-If you know any hotels in pauri or restaurants in pauri, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/india/uttaranchal/karanprayag/pauri)
+Pauri is the administrative headquarters of Pauri Garhwal district, set at around 1,650 m on a ridge overlooking the Alaknanda valley. It is primarily a government town, but the views of the Himalayan peaks — including Nanda Devi, Trishul, and Chaukhamba — are among the best accessible by road in Garhwal.

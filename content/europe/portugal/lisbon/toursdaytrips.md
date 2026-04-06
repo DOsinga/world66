@@ -1,14 +1,12 @@
 ---
-title: "Day Trips"
-type: location
+done:
+  location_cleanup: '2026-04-05'
+latitude: 38.7223
+longitude: -9.1393
+title: Day Trips
+type: section
 ---
 
-**Day Trips**
+Lisbon is well positioned for day trips. Sintra, 30 km to the west, is the most popular — its hilltop palaces, forested park, and Atlantic views make it worth the easy train ride from Rossio station. The Arrábida peninsula to the south offers limestone cliffs and clear water. Fátima, a major Catholic pilgrimage site, is about 130 km north.
 
-**Sintra - A day trip for a breath of fresh air**
-
-[Sintra](../../../sintra), about 30 km west of Lisbon, is a refreshing place to go for a day trip, especially to relax and renew after the demand’s of a big city. It’s a place to visit for its mountain-top views toward the coast, the Parque Natural de Sintra-Cascais, the funky pala [more..](/europe/portugal/lisbon/toursdaytrips/sintraadaytripforabreathoffreshair)
-
-**Daytrips from Lisbon**
-
-hi guys,   Really fun daytrips to Sintra, Arrábida and Fátima. Perfect to backpackers check this web site www.insidelisbon.com   Inside tours have cool daytrips for backpackers!    see ya, Pedro
+For a quieter day out, crossing the Tagus by ferry opens up the Setúbal coast and the fishing village of Sesimbra.

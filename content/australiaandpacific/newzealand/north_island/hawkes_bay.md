@@ -13,4 +13,3 @@ Places in the Hawkes Bay include:
 
 [Wairoa District](/australiaandpacific/newzealand/wairoa_district)
 
-Minor corrections on 11 January 05

@@ -3,12 +3,14 @@ title: "Getting There"
 type: section
 ---
 
-**all**
-
 **By air**
 
-Traveling from Seoul's Gimpo airport to Gimhae International Airport, the flight time is 50 minutes. From [Tokyo](/asia/japan/tokyo) by air, travel time is about 2 hours. From [Kyushumore..](/asia/japan/kyushu)
+Gimhae International Airport (PUS) handles domestic and international flights. The flight from Seoul's Gimpo Airport takes around 50 minutes; from Tokyo about 2 hours.
 
 **By train**
 
-From [Seoul](/asia/southkorea/seoul) Station, trains leave 24 times a day on a four and a half hour trip, while buses leave from the Gangnam Express Bus Terminal 70 times a day, traveling 5 hours and 20 minutes to reach their destination!
+The KTX bullet train from Seoul Station takes around 2 hours 40 minutes. Conventional trains take around 4.5 hours. Both are frequent and reliable — the KTX is the most comfortable option.
+
+**By bus**
+
+Express buses from Seoul's Gangnam Express Bus Terminal run roughly every 10 minutes during peak hours and take around 4.5–5.5 hours.

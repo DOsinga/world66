@@ -1,6 +1,8 @@
 ---
 title: "Peja"
 type: location
+lat: 42.6597
+long: 20.2883
 ---
 
 At the foot of the gigantic Damned Mountains (Bjeshk‘t e Nemuna), on the river Bistrica (pronounced: Bis-tritza) and the entrance of the Rugova Gorge (Gryka e Rugov‘s), lies Peja (pronounced: Pey-ah), a town with around 85,000 inhabitants, the main economic and cultural center of northern Dukagjin (pronounced: Duke-ah-jin) region of Kosova. Because of its exceptional position in regards to communication, the natural attractiveness of the mountainous hinderland and richness in cultural and historical monuments, Peja is one of the best known tourist resorts of the region. 

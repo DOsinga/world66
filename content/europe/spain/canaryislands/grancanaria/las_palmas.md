@@ -1,20 +1,14 @@
 ---
-title: "Las Palmas"
+title: "Las Palmas de Gran Canaria"
 type: location
 latitude: 28.128869
 longitude: -15.434902
 ---
 
-The capitol of the island, located on the north-west shore. Not many tourists find their way here from the south side, but it is well worth the bus trip.
+Las Palmas is the capital of Gran Canaria and one of Spain's largest cities, with around 400,000 people. Most visitors staying in the southern resorts never bother making the 50-kilometre trip north, which is their loss.
 
-Little english is spoken, but the people are friendly.
+The old quarter of Vegueta is the place to start. The Catedral de Santa Ana anchors a grid of 16th-century streets lined with balconied mansions. The Museo Canario on nearby Calle Doctor Verneau has the best collection of pre-Hispanic Guanche artefacts on the island — skulls, pottery, and the mummified remains of the original inhabitants. Columbus lodged here in 1492 before sailing west; the Casa de Colón museum occupies his supposed quarters.
 
-Las Palmas is definitely worth taking a day or two out of your holiday to visit, even if you don’t speak a word of Spanish. The City is teeming with life both day and night. During the day you can visit the Spanish Colonial Museum . Visit the numerous department stores such as El Corte Ingles, or just idle the day away on las Canteras beach.
+Las Canteras beach runs for three kilometres along the city's Atlantic side, backed by a promenade of restaurants and bars rather than hotel towers. It is a proper urban beach used by locals throughout the year. The reef offshore creates calm swimming conditions even on windier days.
 
-There are numerous Tapas bars where you can eat and mix with the locals and experience true Canarian cuisine. Also it is worth noting that as it is not dominated by tourists prices of food and drink are up to 50% less than in the South of the Island.
-
-You can have a set 3 course lunch in a quality restaurant with wine and coffee for 7 Euros a head. Try doing that in **Playa del Ingles. **
-
-At night there are numerous bars, restaurants and night clubs to choose from. A must see is Plaza Santa Catalina where you can idle away the evening in one of the open air restaurants.
-
-If you are organising your own holiday you will be well rewarded if you include a couple of nights in Las Palmas in one of it’s numerous hotels before moving on to the South for the usual tourist diet of Sun Sea and Sangria.
+Food and drink cost noticeably less than in the southern resorts. Tapas bars in Vegueta and around the port area draw a local crowd. Plaza Santa Catalina, near the port, is good for an evening drink at one of the outdoor café terraces.

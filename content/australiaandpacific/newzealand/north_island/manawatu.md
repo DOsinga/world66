@@ -13,4 +13,3 @@ Places in the Manawatu include:
 
 [Levin](/australiaandpacific/newzealand/levin)
 
-Minor corrections on 11 January 05

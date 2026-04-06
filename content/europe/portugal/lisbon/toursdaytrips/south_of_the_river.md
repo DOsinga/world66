@@ -1,6 +1,6 @@
 ---
-title: "South of the river"
-type: location
+title: "South of the River"
+type: poi
 ---
 
 This could possibly be done in a shorter time with planning - but it is best not rushing and some of the transport links may involve delay.

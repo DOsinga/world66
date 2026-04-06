@@ -1,6 +1,7 @@
 ---
 title: "Katepalli Beach"
 type: poi
+category: "Beach"
 ---
 
-Katepalli Beach - Superb place to visit, about 20 kms from Nellore. I think very less people know about this beach.
+A quiet, relatively unknown beach about 20 km from Nellore. Not heavily visited, which makes it appealing if you want space to yourself.

@@ -1,24 +1,13 @@
 ---
 title: "Lotus"
 type: poi
-address: "Coral beach"
+category: "Restaurant"
+address: "Coral Beach, near Ceasar Hotel"
 phone: "972-8-6376389"
 price: "60-120 NIS"
-type: "Chinese"
-latitude: 22.218241
-longitude: 114.032292
+cuisine: "Chinese"
+latitude: 29.4960
+longitude: 34.9000
 ---
 
-A Chinese restaurant situated on the Coral Beach near the Ceasar Hotel.
-
-type: Chinese
-
-
-
-
-
-PriceOfMenu: 60-120 NIS
-
-address: Coral beach
-
-tel: 972-8-6376389
+A Chinese restaurant on Coral Beach near the Ceasar Hotel, away from the main hotel strip. One of the few Asian options in this part of town.

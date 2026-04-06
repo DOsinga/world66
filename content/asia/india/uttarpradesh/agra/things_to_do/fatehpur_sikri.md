@@ -1,25 +1,9 @@
 ---
 title: "Fatehpur Sikri"
 type: poi
-address: "21, Jatin Bagchi Road, Flat No. 4B, 'Dakhshinee', Kolkata - 700029"
-email: "arnabmenace@hotmail.com"
-phone: "0091-9830955675"
-type: "Landmarks"
-url: "www.myspace.com"
+category: "Sight"
+latitude: 27.0945
+longitude: 77.6679
 ---
 
-Built in honour of Sufi saint **Salim Chishti **in 1571 by Mughal emperor **Akbar**. It is regarded as Emperor Akbar's crowning architectural legacy. Indeed, its numerous palaces, halls, and **masjids** satisfy his creative and aesthetic impulses, typical of Mughals. Fatehpur Sikri is a **World Heritage Site**. Architect or layperson, this city generally captures the imagination and wonder of all who experience its urban spaces and see its buildings. It is here, that the legends of Akbar and his famed courtiers, the ***nine jewels** *or navratnas, were born. The legendary musician **Tansen** is said to have performed on an island in the middle of the tank Anup Talao. Eventually, it is believed that water sources dried up and the fort had to be abandoned.
-
-type: Landmarks
-
-
-
-
-
-tel: 0091-9830955675
-
-url: [www.myspace.com](http://www.myspace.com/arnabmenace)
-
-address: 21, Jatin Bagchi Road, Flat No. 4B, "Dakhshinee", Kolkata - 700029
-
-email: arnabmenace@hotmail.com
+Built in honour of the Sufi saint Salim Chishti in 1571 by Mughal emperor Akbar, Fatehpur Sikri is regarded as Akbar's crowning architectural legacy. The red sandstone city — palaces, halls, mosques, and courtyards — was the Mughal capital for only fourteen years before being abandoned, apparently because the water supply dried up. It is a UNESCO World Heritage Site, 37 km from Agra, and one of the best-preserved Mughal complexes in India. The Buland Darwaza (Victory Gate), at 54 metres the highest gateway in the world, and the delicate white marble tomb of Salim Chishti inside the mosque courtyard are the highlights.

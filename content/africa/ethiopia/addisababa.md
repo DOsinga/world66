@@ -1,8 +1,16 @@
 ---
-title: "Addis ababa"
+title: Addis Ababa
 type: location
-latitude: 9.035829
-longitude: 38.752413
+latitude: 9.0358
+longitude: 38.7524
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Near the center of the country at an elevation of 7 600 ft/2 500 m capital city Addis Ababa (pop. 1 739 000) sits in a narrow valley in the shadow of impressive Mt. Entotto. Founded in 1880 Addis, which means "New Flower" in the the native language of amharic, is a fairly new city whose impressive monuments of colonial architecture are dispersed amid stretches of sun-bleached shacks and empty lots. The smoky pine-covered hills surrounding Addis add to the enjoyment of walking the city streets especially in the evening or early morning. While there see the Emperor’s Palace and the Imperial Zoo (when we were last there they allowed visitors to pet the cheetahs). Other sights include the Menelik II Mausoleum located in a cellar under a small church on a hill overlooking the city—a priest will open the church for you Africa Hall (a convention hall with beautiful stained glass made by the famous ethioian artist, Afowerk tekle) Lion Park the Ethiopian Museum (archaeological displays) the Great Mosque the Lion of Judah statue and the octagonal Church of St. George (built in 1896—try to attend a service to hear the incredible chanting and music of the orthodox christians as they praise the lord in the ancient language of Geez). The mercato a colorful 10-sq-mi/26-sq-km open market offers everything from food to paintings of biblical scenes. Check with local advisers before you go however as violent clashes between rival Muslim leaders in the area of the mercato have been reported. Several day trips are possible.
+Addis Ababa sits at 2,500 metres in the Ethiopian highlands, a city that feels perpetually spring-like despite being just a few degrees from the equator. Founded in 1886 by Emperor Menelik II, its name means "New Flower" in Amharic, and the city has been growing restlessly ever since. Today it is home to over five million people and serves as the diplomatic capital of Africa, hosting the African Union and dozens of embassies.
+
+The city is not conventionally beautiful. Grand monuments and colonial-era buildings stand alongside corrugated-iron neighbourhoods and half-finished construction. But that rawness is part of its appeal. Addis is a city where you can visit a world-class museum in the morning, eat injera with your hands at a streetside restaurant for lunch, and spend the evening listening to Ethio-jazz in a smoky bar.
+
+The Piazza district, a legacy of the brief Italian occupation in the 1930s, has some of the city's best restaurants and a faded European feel. Bole Road is the modern centre, lined with cafes, shops, and the kind of energy that comes with a rapidly growing African capital. The Mercato, one of the largest open-air markets on the continent, is overwhelming and exhilarating in equal measure.
+
+Addis also works well as a base for exploring [Ethiopia](/africa/ethiopia) more broadly. The city's elevation means cool mornings and warm afternoons year-round, and Bole International Airport connects to destinations across the country and continent.

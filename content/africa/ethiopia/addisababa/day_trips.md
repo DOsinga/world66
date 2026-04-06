@@ -1,14 +1,6 @@
 ---
-title: "Day Trips in Addis Ababa"
+title: "Day Trips"
 type: section
 ---
 
-Addis Ababa is many cities cast into one and a stroke of sheer cultural and artistic genius. This guide
-offers visitors information on the best day trip options to enjoy the
-magnificence of the surroundings of this quintessentially African land.
-
-**A Slice of Pre-Historic Life**
-
-Melka Kunture (50 kilometers from Addis Ababa) has an interesting
-pre-historical legacy that manifests itself in the form of several
-stone tools and other rudimentary relics dating
+The highlands around Addis Ababa offer several worthwhile excursions. Entoto Hill, just north of the city, gives panoramic views and has a small museum and the octagonal Entoto Maryam Church. Debre Libanos, about 100 kilometres north, is one of Ethiopia's most important monasteries, set on the edge of a dramatic gorge. The prehistoric site at Melka Kunture, 50 kilometres south, has stone tools dating back over a million years. All are reachable as half-day or full-day trips by taxi or organised tour.

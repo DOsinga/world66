@@ -1,5 +1,5 @@
 ---
-title: "Shopping in San Luis Potosi"
+title: Shopping
 type: section
 ---
 

@@ -3,24 +3,4 @@ title: "Festivals"
 type: section
 ---
 
-**The 2005 Alice Springs, Rodeo in the Outback**
-
-August 20th, 2005 - Blatherskite Park
-
-The Alice Springs Rodeo Week starts on August 14th and goes through
-to the 20th. Activities are planned all over town, including a barbq at
-Melanka's backpackers (Wednesday) and a free rodeo day the Todd mall
-(Thursday) where there will be autographs, face painting, event
-demonstrations, giveaways and more.
-
-For the 'over 18' crowd
-there is Calendar Cowboys on the Catwalk (Thursday night) at the Party
-Bar, and LIVE Broadcasts at Bojangles Saloon all week long, plus a
-Calcutta on Friday night. The actual rodeo is on Saturday night - free
-bus service from town, gates open at 4pm action starts at 6pm.
-Blatherskite Park.
-
-www.rodeowild.com.au
-
-**Contributors**
-June 15, 2005
+The Alice Springs Rodeo in August, held at Blatherskite Park, is one of the largest rodeos in Australia — a week of events including the main competition, street activities in Todd Mall, and associated parties. The Camel Cup in July is a camel racing event that draws crowds from across the country. The Henley-on-Todd Regatta — a "boat race" on the dry Todd River bed with bottomless boats carried by their crews — is one of Australia's more eccentric events, held in October.

@@ -1,17 +1,9 @@
 ---
 title: "Om Beach"
 type: poi
-latitude: 14.519065
-longitude: 74.325424
+category: "Sight"
+latitude: 14.5191
+longitude: 74.3254
 ---
 
-Shaped like the Hindu spiritual symbol of Om, this is the most famous
-beach in Gokarna, and has got the best waves and beach-side shacks.
-It's a wonderful stay in any of these shacks, called cafes. Expect
-thatch hut rooms and common bathrooms in most of them. Though some of
-the cafes have rooms with attached bathrooms.
-
-It takes around 20 minutes to reach this beach from Gokarna bus stand.
-
-**Contributors**
-January 18, 2006
+The most popular of Gokarna's beaches, named for its shape, which roughly resembles the Om symbol. The best waves for swimming and the widest choice of beachside shack guesthouses. About 20 minutes from the Gokarna bus stand by road or a cliff walk from Kudle.

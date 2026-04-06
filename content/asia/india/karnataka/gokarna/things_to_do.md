@@ -1,9 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-You can hike from one beach to another and do just what you did on the previous beach. These are small but interesting hikes.
-
-**Contributors**
-January 18, 2006
+The main activities are beach walking and beach-hopping. The trail from town over the headland to Kudle, then to Om beach, then over the cliff to Half Moon, and finally to Paradise beach is a rewarding half-day walk. Sections involve scrambling over rocks; wear decent footwear. The Mahabaleshwara Temple in the town centre is worth visiting even for non-pilgrims — the car street around it is atmospheric with its priests' houses and small shops. The Kotiteertha tank, where pilgrims bathe, is nearby.

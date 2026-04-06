@@ -87,6 +87,22 @@
     </ul>
   </div>
   {% endif %}
+
+  {% if neighbourhood_page %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ neighbourhood_page.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for poi in neighbourhood_pois %}
+      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
+        <a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 </aside>
 {% endblock %}
 
@@ -164,7 +180,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   <tbody>
     {% for poi in pois %}
     <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
-      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>{% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}</td>
       <td class="poi-table-details">
         {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
         {% for key, value in poi.properties.items %}
@@ -221,6 +237,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 <div class="story-box">
   <div class="story-box-label">A story</div>
   {{ page.meta.story }}
+</div>
+{% endif %}
+
+{% if neighbourhood_page %}
+<div class="neighbourhood-ref">
+  Part of <a href="{{ neighbourhood_page.get_absolute_url }}">{{ neighbourhood_page.title }}</a>
 </div>
 {% endif %}
 

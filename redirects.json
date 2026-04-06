@@ -12077,5 +12077,8 @@
   "europe/italy/sicily/palermo/nightlife": "europe/italy/sicily/palermo/bars_and_cafes",
   "europe/italy/sicily/palermo/sights/capellapalatina": "europe/italy/sicily/palermo/things_to_do/cappella_palatina",
   "europe/italy/sicily/palermo/sights/cathedral": "europe/italy/sicily/palermo/things_to_do/palermo_cathedral",
-  "europe/italy/sicily/palermo/sights/lamartorana": "europe/italy/sicily/palermo/things_to_do/la_martorana"
+  "europe/italy/sicily/palermo/sights/lamartorana": "europe/italy/sicily/palermo/things_to_do/la_martorana",
+  "europe/netherlands/amsterdam/things_to_do/jordaan": "europe/netherlands/amsterdam/explore/jordaan",
+  "europe/netherlands/amsterdam/things_to_do/leidseplein": "europe/netherlands/amsterdam/explore/leidseplein",
+  "europe/netherlands/amsterdam/things_to_do/rembrandtplein": "europe/netherlands/amsterdam/explore/rembrandtplein"
 }

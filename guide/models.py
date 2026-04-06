@@ -90,6 +90,17 @@ class Page:
     def category(self):
         return self.meta.get("category", "")
 
+    @property
+    def excerpt(self):
+        """Plain-text excerpt of body, ~220 characters, markdown stripped."""
+        import re
+        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', self.body or '')  # links
+        text = re.sub(r'[*_`#>]', '', text)
+        text = ' '.join(text.split())
+        if len(text) > 220:
+            text = text[:220].rsplit(' ', 1)[0] + '\u2026'
+        return text
+
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")
@@ -187,6 +198,22 @@ class Page:
                     if page:
                         pois.append(page)
         return pois
+
+
+def find_neighbourhood_page(city_path, title):
+    """Find a neighbourhood page in city/explore/ by title."""
+    explore_dir = CONTENT_DIR / city_path / "explore"
+    if not explore_dir.is_dir():
+        return None
+    for entry in sorted(explore_dir.iterdir()):
+        if entry.is_file() and entry.suffix == ".md":
+            result = _load_md(entry)
+            if not result:
+                continue
+            meta, _ = result
+            if meta.get("title") == title:
+                return _load_page_from_file(entry, city_path + "/explore/" + entry.stem)
+    return None
 
 
 def _load_page_from_file(file_path, url_path):

@@ -9,7 +9,7 @@ from django.http import FileResponse, Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import CONTENT_DIR, load_page, load_tag_index
+from .models import CONTENT_DIR, find_neighbourhood_page, load_page, load_tag_index
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
@@ -48,6 +48,17 @@ def location_or_section(request, path):
     parent_locations = []
     if parent:
         parent_sections, parent_locations, _ = parent.children()
+
+    # For POIs with a neighbourhood tag: load neighbourhood context for sidebar
+    neighbourhood_page = None
+    neighbourhood_pois = []
+    if page.page_type == "poi":
+        neighbourhood_title = page.meta.get("neighbourhood")
+        if neighbourhood_title and parent and "/" in parent.path:
+            city_path = parent.path.rsplit("/", 1)[0]
+            neighbourhood_page = find_neighbourhood_page(city_path, neighbourhood_title)
+            if neighbourhood_page:
+                neighbourhood_pois = neighbourhood_page.neighbourhood_pois()
 
     body_html = md.markdown(page.body) if page.body else ""
     sections, locations, pois = page.children()
@@ -101,6 +112,8 @@ def location_or_section(request, path):
         "tags": page.tags,
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
+        "neighbourhood_page": neighbourhood_page,
+        "neighbourhood_pois": neighbourhood_pois,
     })
 
 

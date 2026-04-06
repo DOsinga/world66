@@ -1,10 +1,8 @@
 ---
-title: "Getting There in Carcassonne"
+title: "Getting There"
 type: section
 ---
 
-Train to Carcassone
+Carcassonne is on the main railway line between Toulouse and the Mediterranean coast. Direct trains from Toulouse take about an hour, and connections from Narbonne and Montpellier are frequent. The station is in the Bastide Saint-Louis, a fifteen-minute walk from the Cite.
 
-We currently have no Getting There listed in Carcassonne.
-
-If you do know any Getting There in Carcassonne, please [Add].
+Carcassonne also has a small airport with seasonal Ryanair flights from several European cities. The A61 motorway connects the city to Toulouse to the west and Narbonne to the east.

@@ -1,0 +1,12 @@
+asia/turkey/fethiye
+asia/kazakhstan/almaty
+europe/france/midi/cotedazur/nice
+europe/greece/tilos
+europe/spain/catalonia/salou
+northamerica/unitedstates/arizona/tucson
+europe/greece/kalamata
+europe/sweden/gothenburg
+asia/saudiarabia/jeddah
+asia/philippines/las_pinas_city
+northamerica/mexico/sanjosedelcabo
+europe/germany/badenwrttemberg/ulm

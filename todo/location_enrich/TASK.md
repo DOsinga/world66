@@ -2,6 +2,8 @@
 
 Add new content to locations that have already been cleaned up (see `location_cleanup`). This task assumes the location already has the right section structure — if it still has `sights/` or junk sections, run cleanup first.
 
+**Skip regions** — any path that has 3+ child locations is a region (e.g. `asia/india/kerala`, `europe/italy/sicily`). Enrichment focuses on individual cities, towns, islands, and neighbourhoods where you can give specific, actionable recommendations.
+
 ## For each location
 
 1. **Read** the existing location file and all section/POI files to understand what's already there

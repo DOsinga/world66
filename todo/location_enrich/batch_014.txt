@@ -1,0 +1,15 @@
+asia/jordan/irbid
+asia/philippines/koronadal_city_1
+asia/turkey/marmaris
+southamerica/chile/puntaarenas
+northamerica/unitedstates/texas/austin
+northamerica/unitedstates/wisconsin/eau_claire
+asia/malaysia/ipoh
+europe/netherlands/ede
+europe/italy/liguria/bocca_di_magra
+asia/japan/honshu/kyoto
+northamerica/unitedstates/newjersey/atlanticcity
+northamerica/guatemala/huehuetenango
+northamerica/unitedstates/virginia/richmond
+northamerica/unitedstates/alabama/highlights
+northamerica/unitedstates/newmexico/santafe

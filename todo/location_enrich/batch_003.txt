@@ -1,0 +1,7 @@
+europe/france/midi/cotedazur/marseille
+africa/madagascar/antananarivo
+asia/turkey/izmir
+asia/philippines/davao
+europe/portugal/algarve/albufeira
+asia/malaysia/johorbahru
+northamerica/canada/ontario/niagrafalls

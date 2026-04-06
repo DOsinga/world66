@@ -1,0 +1,17 @@
+asia/unitedarabemirates/abudhabi
+europe/georgia/abkhazia
+europe/portugal/armacaodepera
+asia/turkey/side
+africa/tanzania/arusha
+asia/oman/sohar
+asia/philippines/olongapocity
+northamerica/bermuda/hamilton_capital
+europe/greece/stoupa
+europe/denmark/billund
+asia/jordan/aqaba
+europe/austria/zellamsee
+europe/albania/tirana
+asia/philippines/sanpablocity
+europe/italy/sicily/palermo
+asia/kuwait/kuwaitcity
+asia/thailand/pattaya

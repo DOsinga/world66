@@ -1,0 +1,7 @@
+northamerica/unitedstates/arizona/phoenix
+europe/spain/catalonia/barcelona
+southamerica/brazil/riodejaneiro
+asia/india/maharashtra/pune
+northamerica/unitedstates/ohio/cleveland
+africa/egypt/alexandria
+northamerica/canada/quebec/montreal

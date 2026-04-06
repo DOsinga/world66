@@ -4,7 +4,7 @@ Get every location into shape: right sections, no junk, correct metadata.
 This is structural work — making each location match LOCATIONS.md. 
 Adding new content (itineraries, books, stories) is a separate task.
 
-Locations include cities, towns, regions, islands, and neighbourhoods. 
+Locations include cities, towns, islands, and neighbourhoods. **Skip regions** — any path that has 3+ child locations is a region (e.g. `asia/india/kerala`, `europe/italy/sicily`). Regions have their own cleanup rules and are tracked in `regions.txt`.
 
 ## For each location
 

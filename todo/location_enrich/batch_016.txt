@@ -1,0 +1,16 @@
+northamerica/unitedstates/oklahoma/oklahomacity
+asia/myanmar/yangon
+northamerica/unitedstates/texas/dallas
+asia/india/tamilnadu/tirunelveli
+europe/spain/andalucia/cadiz
+southamerica/peru/san_ignacio/san_ignacio
+europe/poland/warsaw
+northamerica/unitedstates/ohio/ohios_amish_count
+southamerica/peru/nazca
+europe/greece/corfu
+australiaandpacific/australia/queensland/brisbane
+southamerica/peru/iquitos
+asia/china/shandong_province/qingdao
+asia/bhutan/thimphu
+europe/unitedkingdom/scotland/fyvie
+northamerica/unitedstates/california/losangeles/beverlyhills

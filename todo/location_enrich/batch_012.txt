@@ -1,0 +1,16 @@
+asia/philippines/iba
+southamerica/paraguay/ciudaddeleste
+africa/southafrica/transkei
+asia/papuanewguinea/portmoresby
+europe/germany/hessen/wiesbaden
+northamerica/unitedstates/california/sanfranciscobayarea/santaana
+australiaandpacific/australia/victoria/melbourne/cybercafs
+europe/italy/lombardia/brescia
+asia/india/maharashtra/panchgani
+europe/france/alpes/lyon
+europe/germany/berlin/friedrichshain
+northamerica/unitedstates/southcarolina/charleston
+europe/greece/katerini
+europe/germany/lowersaxony/salzgitter
+europe/unitedkingdom/england/south_east/portsmouth
+northamerica/dominicanrepublic/bocachica

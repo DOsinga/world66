@@ -5,6 +5,7 @@ category: "Museum"
 address: "Prinsengracht 263–267"
 opening_hours: "Daily 9:00–22:00 (varies by season). Closed Yom Kippur"
 url: "annefrank.org"
+neighbourhood: "The Jordaan"
 latitude: 52.375156
 longitude: 4.884081
 ---

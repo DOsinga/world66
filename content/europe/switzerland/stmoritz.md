@@ -1,8 +1,10 @@
 ---
-title: "St. Moritz"
+title: St. Moritz
 type: location
 latitude: 46.4979
 longitude: 9.8392
+done:
+  location_cleanup: 2026-04-06
 ---
 
 St. Moritz sits at 1,800 meters in the Upper Engadin valley, surrounded by glacier-capped peaks and alpine lakes. It has hosted the Winter Olympics twice, invented winter tourism, and remains one of the premier ski destinations in the Alps. The sun shines over 300 days a year, which for a place buried in snow half the time feels like a small miracle.

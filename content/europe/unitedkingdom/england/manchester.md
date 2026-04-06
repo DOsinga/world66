@@ -1,8 +1,10 @@
 ---
-title: "Manchester"
+title: Manchester
 type: location
 latitude: 53.479489
 longitude: -2.245115
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Manchester is mainly known as an industrial city and as home of one of the biggest and most successful football clubs in the world. Over the last few years, Manchester has really changed for the better; there has been much investment not only to repair the damage caused by the 1996 IRA bomb, but also to spruce the city up for the 2002 Commonwealth Games. The city still boasts some of the most interesting galleries and museums, such as the Museum of Science and Industry, the City Art Gallery, the Lowry and the Imperial War Museum North. 

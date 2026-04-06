@@ -1,8 +1,10 @@
 ---
-title: "Ulaanbaatar"
+title: Ulaanbaatar
 type: location
 latitude: 47.918468
 longitude: 106.917702
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Ulaanbaatar (Ulan Bator) is the capital city of Mongolia. The name means Red Hero in the Mongolian language. At 1,350 meters above sea level, almost 5000 feet, Ulaanbaatar sits in a basin surrounded by four mountains: Bogdh Khan, Songino Khairkhan, Chingeltei and Bayanzurkh. These mountains are part of the beautiful and pristine Khan Khentii mountain range. Ulaanbaatar's climate is sharply continental and experiences great extremes. Temperatures fluctuate between +38 degrees C in summer and -49 degrees C in winter.

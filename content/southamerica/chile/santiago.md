@@ -1,8 +1,10 @@
 ---
-title: "Santiago"
+title: Santiago
 type: location
 latitude: -33.4377
 longitude: -70.651067
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Santiago de Chile was founded in 1547. The location of the Chilean capital is quite spectacular: the snowcapped mountains of the Andes provide the backdrop for the city. 

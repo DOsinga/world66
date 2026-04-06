@@ -1,8 +1,10 @@
 ---
-title: "Wuhan"
+title: Wuhan
 type: location
 latitude: 30.578891
 longitude: 114.29212
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Wuhan, the "Homeland of White Clouds and Yellow Crane", is composed of three parts: Hankou, Hanyang and Wuchang. Not many people go out of their way to get to Wuhan, one of China’s largest cities, but a lot of people pass through the place since it is the terminus of the Yangtze Ferries from [Chongqing](/asia/china/sichuanprovince/chongqing).

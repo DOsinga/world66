@@ -1,8 +1,10 @@
 ---
-title: "Tongatapu"
+title: Tongatapu
 type: location
 latitude: -21.166707
 longitude: -175.1982
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Tongatapu is the largest island in Tonga and home to about two-thirds of the country's population. It's flat — most of the island barely rises above sea level — and roughly triangular, about 34km from west to east. The north coast is a low reef platform; the south and east coasts meet steep limestone cliffs dropping into deep water.

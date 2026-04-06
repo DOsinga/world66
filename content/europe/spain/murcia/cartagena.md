@@ -1,8 +1,10 @@
 ---
-title: "Cartagena"
+title: Cartagena
 type: location
 latitude: 37.615502
 longitude: -0.987511
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

@@ -1,8 +1,10 @@
 ---
-title: "Kuala Terengganu"
+title: Kuala Terengganu
 type: location
 latitude: 5.329646
 longitude: 103.138327
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

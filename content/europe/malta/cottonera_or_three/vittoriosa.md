@@ -1,8 +1,10 @@
 ---
-title: "Vittoriosa"
+title: Vittoriosa
 type: location
 latitude: 35.888112
 longitude: 14.523844
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

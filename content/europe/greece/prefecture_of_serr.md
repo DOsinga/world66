@@ -1,6 +1,8 @@
 ---
-title: "Prefecture of Serres"
+title: Prefecture of Serres
 type: location
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

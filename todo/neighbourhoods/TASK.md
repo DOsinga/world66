@@ -132,6 +132,24 @@ After creating the neighbourhood files, go through the city's existing sections 
 
 This makes the POI show up on the neighbourhood page automatically without removing it from its section.
 
+### Neighbourhood-local streets, squares, and parks
+
+For each neighbourhood, add POI files for the streets, squares, and parks that give the area its character — the market, the main shopping street, the local park, the canal worth walking. These are stored in `explore/<slug>/` subdirectories and appear **only on the neighbourhood page**, not in city-section listings.
+
+**What belongs here vs in city sections:**
+
+- **City-level** (add to `shopping/`, `bars_and_cafes/`, or `eating_out/` with a `neighbourhood:` tag): only if the street is a genuine destination on its own — a famous market street, a well-known nightlife strip, a park people travel across the city for.
+- **Neighbourhood-level only** (store in `explore/<slug>/`): streets, squares, and parks that reward knowing about but are not city-level destinations. A beautiful canal that only locals seek out. A neighbourhood market. A local park. The kind of place that makes a neighbourhood feel like somewhere, not just a location.
+
+**Aim for 2–4 neighbourhood-local POIs per neighbourhood.** Examples of the right kind of thing:
+
+- A park or green space (e.g. Oosterpark in Oost, Sarphatipark in De Pijp)
+- A daily-life shopping street or market (e.g. Dappermarkt, Linnaeusstraat)
+- A canal, square, or waterfront worth walking (e.g. Bloemgracht in the Jordaan)
+- A street that defines the neighbourhood's character (e.g. Kinkerstraat in Oud-West)
+
+Use `category: "Street"`, `category: "Square"`, or `category: "Park"`. Always include coordinates.
+
 ## Cities with sub-locations
 
 Some major cities (Tokyo, London boroughs, etc.) have their districts or wards stored as separate child locations in the hierarchy — e.g. `tokyo/shinjuku.md` with `type: location`. When you encounter this:

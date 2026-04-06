@@ -1,8 +1,10 @@
 ---
-title: "Apeldoorn"
+title: Apeldoorn
 type: location
 latitude: 52.2112
 longitude: 5.9699
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Apeldoorn grew from a scattering of Veluwe villages into a proper city, but it still feels like it hasn't quite shaken off its small-town roots. The centre is compact and manageable, ringed by some of the best forest and heathland in the Netherlands. It is not a glamorous destination, but it has genuine charm.

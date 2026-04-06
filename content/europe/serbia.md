@@ -1,12 +1,17 @@
 ---
-title: "Serbia"
+title: Serbia
 type: location
 latitude: 44.024323
 longitude: 21.076574
 image: serbia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Subotica,_radnice.jpg"
-image_license: "CC BY 3.0"
-image_attribution: 'I would appreciate <a href="//commons.wikimedia.org/wiki/Special:EmailUser/Aktron" title="Special:EmailUser/Aktron">being notified</a> if you use my work outside Wikimedia. More of my work can be found in my <a href="//commons.wikimedia.org/wiki/Category:Geocoded_images_of_User:Aktron" title="Category:Geocoded images of User:Aktron">personal gallery</a>.'
+image_source: https://commons.wikimedia.org/wiki/File:Subotica,_radnice.jpg
+image_license: CC BY 3.0
+image_attribution: I would appreciate <a href="//commons.wikimedia.org/wiki/Special:EmailUser/Aktron"
+  title="Special:EmailUser/Aktron">being notified</a> if you use my work outside Wikimedia.
+  More of my work can be found in my <a href="//commons.wikimedia.org/wiki/Category:Geocoded_images_of_User:Aktron"
+  title="Category:Geocoded images of User:Aktron">personal gallery</a>.
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Serbia is a country where East meets West in the most literal sense. Shaped by Romans, Byzantines, Ottomans, and Austro-Hungarians, it has absorbed influences from all of them and turned them into something distinctly its own. The food blends Central European and Turkish traditions. The architecture ranges from Habsburg grandeur in the north to Ottoman mosques in the south. The people are famously hospitable, passionately opinionated, and always ready to pour you another glass of rakija.

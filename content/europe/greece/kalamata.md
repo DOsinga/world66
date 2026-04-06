@@ -1,8 +1,10 @@
 ---
-title: "Kalamata"
+title: Kalamata
 type: location
 latitude: 37.037271
 longitude: 22.110707
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Kalamata is famous as the Gateway to Exo Mani (which in turn is the gateway to Mesa Mani). The airport, railway terminous, major port, and bus station make it a transportation hub to all the surrounding area. At one time British Airplane spotters were treated to special accomodations there by the local military, but this practice has stopped last I heard.

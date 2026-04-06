@@ -2,8 +2,8 @@
 title: "The War Memorial"
 type: poi
 type: "Landmarks"
-latitude: -33.867493
-longitude: 151.207777
+latitude: -31.961500
+longitude: 115.842500
 ---
 
 With a lovely location in Kings Park, which overlooks the Swan River

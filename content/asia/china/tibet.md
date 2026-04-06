@@ -1,8 +1,10 @@
 ---
-title: "Tibet"
+title: Tibet
 type: location
 latitude: 29.855644
 longitude: 90.874981
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Tibet is the vast, high, thinly populated plateau at the top of the world — most of it sits above 4,000 metres, and its entire southern edge is the Himalaya. Politically it has been part of the People's Republic of China since 1951; culturally, linguistically, religiously and ethnically it is a place apart, with its own language (Tibetan), its own script, its own branch of Buddhism, and a landscape and sky unlike anywhere else on earth. For generations of Western travellers it has been a dream destination and the closest thing the world has to a real-life Shangri-La — a reputation that survives in spite of decades of political tension, controlled tourism, and rapid Chinese-led modernisation.

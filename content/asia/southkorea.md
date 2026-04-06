@@ -1,12 +1,14 @@
 ---
-title: "South Korea"
+title: South Korea
 type: location
 latitude: 36.638392
 longitude: 127.696119
 image: southkorea.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Seoul_subway_peak_hour.jpg"
-image_license: "CC BY-SA 4.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Seoul_subway_peak_hour.jpg
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 *Asia > South Korea*

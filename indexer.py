@@ -1,8 +1,8 @@
 import sqlite3
-import re
 import hashlib
 from pathlib import Path
 
+import frontmatter
 import yaml
 
 CONTENT_DIR = Path("content")
@@ -20,16 +20,13 @@ def init_db(conn):
 def file_hash(path):
     return hashlib.md5(path.read_bytes()).hexdigest()
 
-def _parse_frontmatter(text):
-    if text.startswith("---"):
-        match = re.match(r"^---\s*\n(.*?)\n---\s*\n(.*)$", text, re.DOTALL)
-        if match:
-            try:
-                meta = yaml.safe_load(match.group(1)) or {}
-            except yaml.YAMLError:
-                meta = {}
-            return meta, match.group(2)
-    return {}, text
+def _load(path):
+    """Load frontmatter; returns ({}, '') on invalid YAML so callers can continue."""
+    try:
+        post = frontmatter.load(path)
+        return post.metadata, post.content
+    except yaml.YAMLError:
+        return {}, ''
 
 def _url_path(rel_path):
     """Derive URL path from a content-relative file path."""
@@ -44,14 +41,12 @@ def _is_location_dir(directory):
     # dir/dir.md pattern
     candidate = directory / f"{directory.name}.md"
     if candidate.is_file():
-        text = candidate.read_text(encoding="utf-8", errors="replace")
-        meta, _ = _parse_frontmatter(text)
+        meta, _ = _load(candidate)
         return meta.get("type", "location") == "location", meta.get("title", directory.name)
     # parent/dir.md sibling pattern
     sibling = directory.parent / f"{directory.name}.md"
     if sibling.is_file():
-        text = sibling.read_text(encoding="utf-8", errors="replace")
-        meta, _ = _parse_frontmatter(text)
+        meta, _ = _load(sibling)
         return meta.get("type", "location") == "location", meta.get("title", directory.name)
     return None, None  # unknown — no .md file defines this directory
 
@@ -68,8 +63,7 @@ def _find_parent_location(path):
     return ""
 
 def extract(path):
-    text = path.read_text(encoding="utf-8", errors="replace")
-    meta, body = _parse_frontmatter(text)
+    meta, body = _load(path)
     title = meta.get("title", path.stem)
     page_type = meta.get("type", "location")
     return title, body, page_type

@@ -1,8 +1,10 @@
 ---
-title: "Taipei"
+title: Taipei
 type: location
 latitude: 25.03752
 longitude: 121.56368
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Taipei is the capital and by far the largest city in [Taiwan](/asia/taiwan), home to about 2.6 million people in the city proper and around 7 million in the greater metropolitan area. It sits in a basin surrounded by low mountains, with the Danshui River running along its western edge. The city has rebuilt itself almost entirely since 1949 and is thoroughly modern, though older temple districts and Japanese colonial buildings survive in pockets throughout.

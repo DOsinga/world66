@@ -1,8 +1,10 @@
 ---
-title: "Argeles-sur-Mer"
+title: Argeles-sur-Mer
 type: location
 latitude: 42.5461
 longitude: 3.0239
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Argeles-sur-Mer sits where the Pyrenees meet the Mediterranean, right at the point where long sandy beaches give way to the rocky coves of the Cote Vermeille. It is the last stretch of flat coastline before the mountains tumble into the sea toward Spain.

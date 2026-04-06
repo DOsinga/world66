@@ -1,8 +1,10 @@
 ---
-title: "Maputo"
+title: Maputo
 type: location
 latitude: -25.966213
 longitude: 32.56745
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Maputo** is the capital and largest city of **Mozambique**, set on the shore of **Maputo Bay** in the far south of the country, close to the borders of South Africa and Eswatini (Swaziland). It was known until 1976 as **Lourenço Marques**, named after the 16th-century Portuguese explorer who first landed here, and grew up in the 19th century as a port for exporting goods from the South African Rand. The Portuguese turned it into their colonial capital, leaving a grid of wide tree-lined avenues, Art Deco apartment blocks, and the unmistakable architecture of Portuguese Africa; the long civil war that followed independence in 1975 devastated the economy and the city, but the past two decades have seen a slow, uneven recovery. Maputo is still the most cosmopolitan and Westernised city in the country, and for most visitors the only one they pass through.

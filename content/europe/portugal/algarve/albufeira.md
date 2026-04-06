@@ -1,8 +1,10 @@
 ---
-title: "Albufeira"
+title: Albufeira
 type: location
 latitude: 37.088241
 longitude: -8.252634
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Albufeira is the Algarve's most popular resort town, and for good reason. Perched on cliffs above a string of golden beaches on Portugal's southern coast, it combines the feel of a traditional fishing village with the energy of a modern holiday destination. The old town, a tangle of narrow cobbled streets and whitewashed houses tumbling down toward the sea, still has the charm that drew the first visitors decades ago -- and surprisingly few tourists bother to explore it properly.

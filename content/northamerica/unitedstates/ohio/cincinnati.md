@@ -1,8 +1,10 @@
 ---
-title: "Cincinnati"
+title: Cincinnati
 type: location
 latitude: 39.1015
 longitude: -84.5125
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Cincinnati sits on the Ohio River where Ohio, Kentucky, and Indiana meet. It's a Midwestern city with a genuine character — German immigrant heritage, a serious food tradition (Cincinnati chili is unlike any chili elsewhere), and a walkable downtown that has bounced back from decades of decline.

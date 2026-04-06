@@ -1,8 +1,10 @@
 ---
-title: "Nord"
+title: Nord
 type: location
 latitude: 50.528962
 longitude: 3.088351
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Just over the border from [Belgium](/europe/belgium) and a hop or a tunnel across the Channel from England lies the Nord region. This picturesque land consists of contrasting forests, gentle meadows, and rolling hills dotted with windmills. Sandy beaches and imposing cliffs make up the 150-mile stretch of coastline. Visitors can cruise the network of canals and rivers and explore the expansive countryside and nature reserve parks. Many battlefields including Flanders Fields are in the region.

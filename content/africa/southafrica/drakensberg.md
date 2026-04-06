@@ -1,8 +1,10 @@
 ---
-title: "Drakensberg"
+title: Drakensberg
 type: location
 latitude: -28.612916
 longitude: 29.126864
+done:
+  location_cleanup: 2026-04-05
 ---
 
 The Drakensberg — the "Dragon Mountains", or Ukhahlamba, "the barrier of spears", in Zulu — is the great basalt wall that runs for more than 1,000 km along South Africa's eastern edge, forming the border with Lesotho. Peaks rise to over 3,000 metres, cliffs drop vertically for hundreds, and the rivers that tumble off the escarpment include the Tugela, which plunges nearly a kilometre down the face of the Amphitheatre in the world's second-highest waterfall.

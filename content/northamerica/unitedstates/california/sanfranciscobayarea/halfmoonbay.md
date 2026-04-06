@@ -1,8 +1,10 @@
 ---
-title: "Half Moon Bay"
+title: Half Moon Bay
 type: location
 latitude: 37.463552
 longitude: -122.428586
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Half Moon Bay is a small coastal town of about 12,000 people on the Pacific side of the San Francisco Peninsula, 45 minutes south of San Francisco by road. It sits in a fertile coastal valley — **flower farms and pumpkin patches** stretching away from the beach towards the coastal hills — and it is the nearest stretch of genuinely rural California coastline to the city. On weekends San Franciscans pour over the coastal mountains via Highway 92 to walk on the beach, eat oysters, and pretend for an afternoon that they are somewhere much further north.

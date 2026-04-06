@@ -1,8 +1,10 @@
 ---
-title: "Siem Reap"
+title: Siem Reap
 type: location
 latitude: 13.361756
 longitude: 103.859032
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Travel Guide

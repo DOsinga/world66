@@ -1,8 +1,8 @@
 ---
 title: "Things to do"
 type: location
-latitude: 43.647892
-longitude: -79.384206
+latitude: 49.282700
+longitude: -123.120700
 ---
 
 Vancouver is the home of several professional sports teams. It is also not unusual to see groups of people in parks forming up into teams to play a variety of sports. Don't be shy about joining in.

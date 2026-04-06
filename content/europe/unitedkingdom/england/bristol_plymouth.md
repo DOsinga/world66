@@ -1,6 +1,8 @@
 ---
-title: 'Bristol, Plymouth and the South-West'
+title: Bristol, Plymouth and the South-West
 type: location
+done:
+  location_cleanup: 2026-04-04
 ---
 
 England's south-west is where the country gets wild. The coastline dominates, from the golden beaches of [Bournemouth](/europe/unitedkingdom/england/bristol_plymouth/bournemouth) and [Cornwall](/europe/unitedkingdom/england/bristol_plymouth/cornwall) to the dramatic cliffs of [Exmoor](/europe/unitedkingdom/england/bristol_plymouth/exmoor) and north [Devon](/europe/unitedkingdom/england/bristol_plymouth/devon). But there is far more than coast here.

@@ -1,8 +1,10 @@
 ---
-title: 'Negros island'
+title: Negros island
 type: location
 latitude: 10.020665
 longitude: 122.97716
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Negros is the Philippines' sugar island, the fourth largest in the archipelago, split down the middle by a volcanic mountain range into two provinces: Negros Occidental on the west and Negros Oriental on the east. The sugar barons of the 19th century left behind grand ancestral homes and a culture of celebration that survives in some of the country's most exuberant festivals. The landscape ranges from flat cane fields and mangrove coasts to the dramatic cone of Mt. Kanlaon, an active volcano rising to 2,435 metres.

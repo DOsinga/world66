@@ -1,8 +1,8 @@
 ---
 title: "Groveland"
 type: location
-latitude: 28.560215
-longitude: -81.856123
+latitude: 37.842500
+longitude: -120.233900
 ---
 
 Travel Guide

@@ -1,8 +1,10 @@
 ---
-title: "New York State"
+title: New York State
 type: location
 latitude: 43.156168
 longitude: -75.844995
+done:
+  location_cleanup: 2026-04-05
 ---
 
 New York State is two places at once. There's New York City — dense, loud, overwhelming in the best possible way — and then there's everything else: 54,000 square miles of farmland, forest, lakes, and mountains that most visitors never see. The state stretches from the Atlantic coast to the Great Lakes, from the Catskills to the wild peaks of the Adirondacks, and its scale tends to surprise people who've only ever been to the city.

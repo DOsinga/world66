@@ -1,8 +1,10 @@
 ---
-title: "Scotland"
+title: Scotland
 type: location
 latitude: 56.786111
 longitude: -4.114052
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Scotland is the northern third of Great Britain — roughly half the size of England but containing most of the drama. Moorlands, mountains, ancient forests, and around 800 islands make up the majority of its landmass. The population clusters in the central belt between Edinburgh and Glasgow, leaving vast stretches of Highland and coastal wilderness that feel genuinely remote.

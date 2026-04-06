@@ -3,8 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Nashville International Airport is 8 miles (13km) east of downtown off I-40. An Metropolitan Transit Authority (MTA) bus connects the airport and downtown and many hotels have complimentary shuttles for airport service. Taxi cabs and rental cars are also available.
-
-Downtown is easily managed on foot and a river taxi is the best way to get from there to Opryland. But for most other attractions and districts it's easiest to get around by car. Pedaling is an alternative - the streets are wide and flat enough and drivers are courteous - but bikes are a rare sight in town.
-
-MTA operates a trolley-like shuttle between major tourist sites at the riverfront and out to Music Row.
+Nashville International Airport is 8 miles east of downtown off I-40. MTA buses connect the airport to downtown; most hotels run shuttle services. A car is the most practical way to get around for anything beyond the downtown core and the immediately adjacent neighbourhoods — Nashville is a sprawling city and public transport is limited. Downtown itself is walkable, and ride-shares are reliable. The WeGo bus system covers the main corridors but is slow. Bikes are an option in East Nashville and around Vanderbilt, where streets are flatter and drivers are used to cyclists.

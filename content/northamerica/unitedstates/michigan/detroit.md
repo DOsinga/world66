@@ -1,8 +1,10 @@
 ---
-title: 'Detroit'
+title: Detroit
 type: location
 latitude: 42.3316
 longitude: -83.0466
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Detroit is the city that put the world on wheels, and that automotive legacy still shapes everything about the place. The Big Three automakers remain headquartered here, the Henry Ford Museum in Dearborn is one of the great American museums, and car culture runs deep in the local identity. But modern Detroit is defined as much by its comeback as by its industrial past.

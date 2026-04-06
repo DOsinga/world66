@@ -1,12 +1,15 @@
 ---
-title: "Isle of Man"
+title: Isle of Man
 type: location
 latitude: 54.235921
 longitude: -4.514767
 image: isleofman.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Laxey_wheel_1.JPG"
-image_license: "Public domain"
-image_attribution: 'No machine-readable author provided. <a href="//commons.wikimedia.org/wiki/User:Smurrayinchester" title="User:Smurrayinchester">Smurrayinchester</a> assumed (based on copyright claims).'
+image_source: https://commons.wikimedia.org/wiki/File:Laxey_wheel_1.JPG
+image_license: Public domain
+image_attribution: No machine-readable author provided. <a href="//commons.wikimedia.org/wiki/User:Smurrayinchester"
+  title="User:Smurrayinchester">Smurrayinchester</a> assumed (based on copyright claims).
+done:
+  country_cleanup: 2026-03-30
 ---
 
 The Isle of Man sits in the middle of the Irish Sea, equidistant from England, Scotland, Northern Ireland, and Wales — yet it belongs to none of them. It is a self-governing Crown dependency with its own parliament, laws, and tax system. The Tynwald, founded in 979 AD, is one of the oldest continuously sitting parliaments in the world. The British monarch holds the title "Lord of Mann" and is represented by a Lieutenant Governor; the island handles its own domestic affairs entirely.

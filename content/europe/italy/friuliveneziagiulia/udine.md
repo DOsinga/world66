@@ -1,8 +1,10 @@
 ---
-title: "Udine"
+title: Udine
 type: location
 latitude: 46.063463
 longitude: 13.235838
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Udine is the main city of the Friuli region, set on the plain between the Alps and the Adriatic with views of both on a clear day. It is less visited than Venice and less talked about than Trieste, which makes it one of the more pleasant surprises in northeastern Italy. The historic centre is compact and largely car-free, built around the 16th-century Piazza della Libertà — widely considered one of the most harmonious squares in Italy — with its Venetian Gothic town hall and Renaissance loggia.

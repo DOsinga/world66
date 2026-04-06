@@ -1,8 +1,10 @@
 ---
-title: 'French Alps'
+title: French Alps
 type: location
 latitude: 45.1885
 longitude: 5.7245
+done:
+  location_cleanup: 2026-04-04
 ---
 
 The French Alps stretch from Lake Geneva in the north to the Mediterranean hinterland in the south, and they contain some of the most spectacular mountain scenery in Europe. This is where Mont Blanc, western Europe's highest peak, rises to 4,808 meters, and where skiers have been coming since the sport was invented.

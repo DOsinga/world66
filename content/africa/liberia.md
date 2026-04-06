@@ -1,12 +1,14 @@
 ---
-title: "Liberia"
+title: Liberia
 type: location
 latitude: 6.428055
 longitude: -9.429499
 image: liberia.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Andrew_Cartwright_A.M.E._Zion_Minsionary_American_Colonization_Society.jpg"
-image_license: "CC BY 2.0"
-image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/65193799@N00">dbking</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Andrew_Cartwright_A.M.E._Zion_Minsionary_American_Colonization_Society.jpg
+image_license: CC BY 2.0
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/65193799@N00">dbking</a>
+done:
+  country_cleanup: 2026-03-31
 ---
 
 *Africa > Liberia*

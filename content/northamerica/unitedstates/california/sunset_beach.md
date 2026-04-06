@@ -1,8 +1,8 @@
 ---
 title: "Sunset Beach"
 type: location
-latitude: 33.880728
-longitude: -78.512231
+latitude: 33.720938
+longitude: -118.073093
 ---
 
 Travel Guide

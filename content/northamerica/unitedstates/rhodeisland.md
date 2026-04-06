@@ -1,8 +1,10 @@
 ---
-title: "Rhode Island"
+title: Rhode Island
 type: location
 latitude: 41.7963
 longitude: -71.5995
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Rhode Island** is the smallest state in the United States — you can drive from end to end in under an hour — but it packs in more coastline, history, and architectural grandeur per square mile than almost anywhere else in America. Officially the "State of Rhode Island and Providence Plantations" until a 2020 referendum shortened the name, it was the first English colony founded on the principle of religious freedom (Roger Williams, 1636), the first to declare independence from Britain (May 1776, two months before the rest), and for much of the 19th century the centre of American textile manufacturing. Today it is one of the most densely populated states, but almost all of that density is concentrated in **Providence** and the suburbs to the north; most of Narragansett Bay and the southern coast still feels rural and maritime.

@@ -1,8 +1,10 @@
 ---
-title: "Niagara Falls"
+title: Niagara Falls
 type: location
 latitude: 43.10656
 longitude: -79.063904
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Niagara Falls needs no introduction. The sheer volume of water crashing over the crest line -- four million cubic feet per minute on average -- is something you feel in your chest before you even see it properly. The Canadian side of the falls, in the city of Niagara Falls, Ontario, offers the best views, looking straight across at the wide curtain of the Horseshoe Falls. The American Falls are impressive too, but the vantage point from the Canadian side is hard to beat.

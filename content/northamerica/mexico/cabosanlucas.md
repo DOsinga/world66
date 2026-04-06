@@ -1,8 +1,10 @@
 ---
-title: "Cabo San Lucas"
+title: Cabo San Lucas
 type: location
 latitude: 22.893888
 longitude: -109.92006
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Cabo San Lucas** sits at the very southern tip of the **Baja California** peninsula, at the point where the Pacific Ocean meets the Sea of Cortez. Together with its more sedate neighbour **San José del Cabo**, 30 km to the east, it forms the resort area known simply as **Los Cabos** — the most developed beach destination in Mexico's north-west, and a different kind of Mexico from almost anywhere else in the country. Fifty years ago Cabo was a fishing village of a few hundred people; today it is an international resort with a permanent population of around 90,000 and a constant rotation of American and Canadian visitors, cruise ship passengers and sport fishermen. If you are looking for authentic Mexican culture, Cabo is not where you will find it. If you are looking for reliable sunshine, turquoise water, and first-class deep-sea fishing, there are few better places on earth.

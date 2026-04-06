@@ -1,8 +1,8 @@
 ---
-title: 'Eating Out'
+title: "Eating Out"
 type: section
 ---
 
-Palermo's food scene is extraordinary. Sicilian cuisine here goes far beyond pizza and pasta, though both are exceptional. The street food alone is worth the trip: arancini, panelle (chickpea fritters), sfincione (Sicilian pizza), and pane con la milza (spleen sandwich) from the market stalls.
+Palermo has one of the strongest food cultures in Italy, rooted in Arab, Spanish, and Sicilian traditions. The street food is the thing to start with: arancine (rice balls, stuffed with ragù or butter and ham), panelle (chickpea fritters in a sesame roll), sfincione (thick pizza with onion and anchovy), and stigghiola (grilled lamb intestines) from the Ballarò and Capo markets. Pasta con le sarde — with sardines, wild fennel, pine nuts, raisins, and saffron — is the signature first course. Cassata and cannoli are everywhere but quality varies sharply; seek out the serious pasticcerie.
 
-For sit-down meals, seek out the small family-run trattorie in the old centre. Fresh seafood is a staple, and pasta con le sarde (with sardines, fennel, and pine nuts) is the quintessential Palermo dish. For going out in the evening, many locals head to Mondello, 11km away by bus 806, but you do not need to leave the city centre to eat well.
+Restaurants are concentrated in the Kalsa district and around the Vucciria market. Most serious dining happens late — don't arrive before 20:00.

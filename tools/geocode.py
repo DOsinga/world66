@@ -11,11 +11,11 @@ Resumable — saves progress every 100 lookups. Respects Nominatim's
 
 import json
 import os
-import re
 import sys
 import time
 from pathlib import Path
 
+import frontmatter
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut, GeocoderServiceError
 
@@ -43,17 +43,11 @@ def save_locations(locations):
     os.replace(tmp, LOCATIONS_FILE)
 
 
-def parse_frontmatter(text):
-    if text.startswith("---"):
-        m = re.match(r"^---\s*\n(.*?)\n---\s*\n", text, re.DOTALL)
-        if m:
-            meta = {}
-            for line in m.group(1).split("\n"):
-                if ": " in line:
-                    key, val = line.split(": ", 1)
-                    meta[key.strip()] = val.strip().strip('"')
-            return meta
-    return {}
+def load_meta(path):
+    try:
+        return frontmatter.load(path).metadata
+    except Exception:
+        return {}
 
 
 def build_query(rel_path, meta):
@@ -84,7 +78,7 @@ def build_query(rel_path, meta):
         CONTENT_DIR / parts[0] / f"{country_slug}.md",
     ]:
         if country_md.is_file():
-            cm = parse_frontmatter(country_md.read_text(encoding="utf-8", errors="replace"))
+            cm = load_meta(country_md)
             if cm.get("title"):
                 country = cm["title"]
             break
@@ -122,13 +116,9 @@ def collect_pages():
         for fname in sorted(files):
             if not fname.endswith(".md"):
                 continue
-            filepath = os.path.join(root, fname)
+            filepath = Path(root) / fname
             rel_path = os.path.relpath(filepath, CONTENT_DIR)
-            try:
-                text = open(filepath, encoding="utf-8", errors="replace").read()
-            except Exception:
-                continue
-            meta = parse_frontmatter(text)
+            meta = load_meta(filepath)
             page_type = meta.get("type", "location")
             if page_type == "section":
                 continue  # sections inherit their location's coords

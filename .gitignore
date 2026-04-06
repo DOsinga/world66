@@ -14,6 +14,8 @@ __pycache__/
 *.pyo
 .DS_Store
 .idea/
+.claude/
+.claire/
 /.python-version
 /pyproject.toml
 /uv.lock

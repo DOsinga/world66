@@ -1,8 +1,10 @@
 ---
-title: "Sukhothai"
+title: Sukhothai
 type: location
 latitude: 17.0196
 longitude: 99.7061
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Sukhothai** — the name literally means "the Dawn of Happiness" in Pali — was the first capital of the Thai kingdom, founded in **1238** and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King **Ramkhamhaeng** in the late 13th century, it was the political and cultural heart of what is now central Thailand, and is often considered the birthplace of Thai civilisation: the Thai script is said to have been invented here, and the distinctive classical style of Thai sculpture and architecture reached its most refined form in Sukhothai's Buddha images — walking Buddhas with flame-tipped heads and the half-smile that would define Thai Buddhist art for centuries after.

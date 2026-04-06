@@ -1,8 +1,8 @@
 ---
 title: "White Mountains"
 type: location
-latitude: 48.007901
-longitude: -120.922165
+latitude: 44.270000
+longitude: -71.300000
 ---
 
 Ever since Giovanni da Verrazano first saw Mt. Washington’s shining summit from his ship off New Hampshire’s coast, the White Mountains have proved an irresistible draw. Early on it took settlers with ambition and perseverance to tame the land, like Abel Crawford, who first built a home in what is now Bretton Woods.

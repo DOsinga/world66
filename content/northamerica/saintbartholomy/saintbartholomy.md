@@ -1,12 +1,15 @@
 ---
-title: "Saint Barthélemy"
+title: Saint Barthélemy
 type: location
 latitude: 17.9
 longitude: -62.833
 image: saintbartholomy.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:St_Jean_Beach,_St_Barths,_Oct_2014_(15716806155).jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/27718315@N02">alljengi</a> from Edinburgh'
+image_source: https://commons.wikimedia.org/wiki/File:St_Jean_Beach,_St_Barths,_Oct_2014_(15716806155).jpg
+image_license: CC BY-SA 2.0
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/27718315@N02">alljengi</a>
+  from Edinburgh
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Saint Barthélemy — known to almost everyone as St. Barts or St. Barths — is a small French Caribbean island of about 25 square kilometres sitting roughly 35 kilometres southeast of Saint Martin. It is one of the most expensive destinations in the Caribbean, unabashedly so, and has built its reputation on white-sand beaches, excellent French food, and a clientele that arrives by superyacht and private jet. If that sounds rarefied, it is — but the island itself is genuinely beautiful, and the money has not ruined it. It is remarkably understated for what it costs.

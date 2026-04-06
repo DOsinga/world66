@@ -1,8 +1,10 @@
 ---
-title: "Belgrade"
+title: Belgrade
 type: location
 latitude: 44.8153
 longitude: 20.4457
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Belgrade stands at the confluence of the Sava and Danube rivers, a position that has made it strategically vital and repeatedly contested throughout history. The city has been razed and rebuilt dozens of times by Celts, Romans, Byzantines, Hungarians, Ottomans, Habsburgs, and Serbs in turn. That turbulent past left surprisingly few ancient monuments — most of what visitors see dates from the 19th and 20th centuries — but the layers of history are still felt in the texture of the city.

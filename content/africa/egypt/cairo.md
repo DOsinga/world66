@@ -3,6 +3,8 @@ latitude: 30.044388
 longitude: 31.235726
 title: Cairo
 type: location
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Travel Guide

@@ -1,8 +1,10 @@
 ---
-title: "Riviera Maya"
+title: Riviera Maya
 type: location
 latitude: 20.621933
 longitude: -87.075707
+done:
+  location_cleanup: 2026-04-05
 ---
 
 The Riviera Maya is the marketing name for roughly 130 km of Caribbean coastline that runs south from **Cancún** airport to the town of **Tulum**, on the east side of Mexico's Yucatán Peninsula. In the early 1990s almost all of it was jungle and fishing villages; since then it has been developed at extraordinary speed into one of the busiest holiday corridors in the Americas, a near-continuous string of all-inclusive resorts, cenote parks, and beach towns strung along a single highway. The beaches are long and white, the sea is a cartoon turquoise, the weather is reliably warm, and the **Mesoamerican Barrier Reef** — the second-largest coral reef in the world — runs just offshore. It is, for better and for worse, exactly what Caribbean beach tourism looks like in the 21st century.

@@ -1,8 +1,10 @@
 ---
-title: "Algiers"
+title: Algiers
 type: location
 latitude: 36.7538
 longitude: 3.0588
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Algeria's capital sprawls along the Mediterranean coast, a city of steep hills and white buildings that earned it the nickname la Blanche — the White City. Close to three million people live here, making it the largest city in the Maghreb.

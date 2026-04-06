@@ -1,8 +1,10 @@
 ---
-title: "Atlanta"
+title: Atlanta
 type: location
 latitude: 33.7545
 longitude: -84.3898
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Atlanta is the capital of Georgia and the largest city in the American South, a sprawling, car-dependent metropolis with a surprisingly good cultural centre. Downtown holds the Georgia Aquarium, the World of Coca-Cola museum, and Centennial Olympic Park, remnant of the 1996 Games. Midtown has the High Museum of Art and the Atlanta Botanical Garden. The Martin Luther King Jr. National Historic Site in Sweet Auburn is one of the more affecting memorial sites in the country.

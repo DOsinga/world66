@@ -1,8 +1,10 @@
 ---
-title: "Takoradi"
+title: Takoradi
 type: location
 latitude: 4.887401
 longitude: -1.751932
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Takoradi is a busy port city in the **Western Region** of Ghana, on the Gulf of Guinea about 230 km west of Accra. It forms a twin metropolitan area with the older town of **Sekondi** a few kilometres east — together they are simply called Sekondi-Takoradi by locals — and between them they are home to around 450,000 people, making it Ghana's third-largest urban area after Accra and Kumasi. Sekondi is the administrative capital; Takoradi is the economic heart. Since the discovery of significant offshore oil in the Jubilee Field in 2007, Takoradi has also become Ghana's oil capital, which has brought new money, new traffic, and a noticeable rise in prices.

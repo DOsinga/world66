@@ -1,8 +1,8 @@
 ---
 title: "Park & Wildlife"
 type: location
-latitude: 48.649846
-longitude: -67.271217
+latitude: 51.178700
+longitude: -115.571600
 ---
 
 Banff is a beautiful location full of natural wonders and thriving wildlife populations.

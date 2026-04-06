@@ -6,12 +6,11 @@ Uses the `type` field (location, section, poi) to classify pages.
 The frontmatter title is the source of truth — no runtime name mapping.
 """
 
-import re
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
 
-import yaml
+import frontmatter
 from django.conf import settings
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
@@ -35,25 +34,16 @@ DISPLAY_PROPERTIES = {
 }
 
 
-def _parse_frontmatter(text):
-    """Parse YAML frontmatter and body from a markdown file."""
-    if text.startswith("---"):
-        match = re.match(r"^---\s*\n(.*?)\n---\s*\n(.*)$", text, re.DOTALL)
-        if match:
-            try:
-                meta = yaml.safe_load(match.group(1)) or {}
-            except yaml.YAMLError:
-                meta = {}
-            return meta, match.group(2)
-    return {}, text
-
-
 def _load_md(path):
-    """Load and parse a markdown file. Returns (meta, body) or None."""
+    """Load and parse a markdown file. Returns (meta, body) or None.
+
+    Raises on invalid frontmatter — content is expected to be valid.
+    Run `python3 tools/check_frontmatter.py` to find and fix broken files.
+    """
     if not path.is_file():
         return None
-    text = path.read_text(encoding="utf-8", errors="replace")
-    return _parse_frontmatter(text)
+    post = frontmatter.load(path)
+    return post.metadata, post.content
 
 
 def _get_page_type(file_path):

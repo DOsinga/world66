@@ -1,8 +1,10 @@
 ---
-title: "Silvassa"
+title: Silvassa
 type: location
 latitude: 20.2766
 longitude: 73.0169
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Silvassa is the capital of the Indian union territory of Dadra and Nagar Haveli, tucked into the foothills of the Western Ghats between Gujarat and Maharashtra. A former Portuguese colony until 1954, the town still carries traces of that era alongside a strong tribal culture rooted in the Warli, Kokna, and Koli communities.

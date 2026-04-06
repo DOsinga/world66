@@ -1,8 +1,10 @@
 ---
-title: "Irbid"
+title: Irbid
 type: location
 latitude: 32.555
 longitude: 35.85
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Irbid is Jordan's second city, sitting on the fertile plateau of the north about 80 km from Amman and a short drive from the Syrian border. Ancient Arabella of the Decapolis, it has been a wheat- and olive-growing town for thousands of years, though what you see today is unapologetically modern — a busy university city of around half a million people, cheerful, crowded, and largely built in the last fifty years.

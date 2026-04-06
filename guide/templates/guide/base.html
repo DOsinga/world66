@@ -12,12 +12,14 @@
   <link rel="manifest" href="{% static 'site.webmanifest' %}">
   <link rel="stylesheet" href="{% static 'css/world66.css' %}">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  {% block body_style %}{% endblock %}
 </head>
 <body>
 
-<div id="page">
+{% block background %}{% endblock %}
 
-  <header id="header">
+<header id="header">
+  <div class="header-inner">
     <div class="header-top">
       <a href="/" class="logo">
         <img src="{% static 'images/logo.gif' %}" alt="World66" class="logo-img">
@@ -42,7 +44,12 @@
     </nav>
 
     {% block breadcrumbs %}{% endblock %}
-  </header>
+  </div>
+</header>
+
+{% block hero %}{% endblock %}
+
+<div id="page">
 
   <div id="content">
     {% block sidebar %}{% endblock %}

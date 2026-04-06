@@ -1,8 +1,10 @@
 ---
-title: "Fethiye"
+title: Fethiye
 type: location
 latitude: 36.622115
 longitude: 29.115338
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Fethiye is a pretty town at the hillsides of the Mount Mendos, the part of the Tourus Mountain chains, and surrounds the bay that it has given its name to.

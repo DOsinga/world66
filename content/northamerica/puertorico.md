@@ -1,12 +1,14 @@
 ---
-title: "Puerto Rico"
+title: Puerto Rico
 type: location
 latitude: 18.2208
 longitude: -66.5901
 image: puertorico.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Man_with_green_hat_and_musical_instrument_in_Catedral,_Old_San_Juan,_Puerto_Rico.jpg"
-image_license: "CC BY 2.0"
-image_attribution: "David"
+image_source: https://commons.wikimedia.org/wiki/File:Man_with_green_hat_and_musical_instrument_in_Catedral,_Old_San_Juan,_Puerto_Rico.jpg
+image_license: CC BY 2.0
+image_attribution: David
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Puerto Rico sits in a curious political category: a U.S. territory, not a state, with residents who are U.S. citizens by birth but cannot vote in federal elections. The question of statehood versus independence versus the status quo has defined Puerto Rican politics for generations, and most visitors will encounter it in conversation. The spirit of the place is distinctly its own — *boricua* culture, shaped by Taíno, Spanish, and African heritage, is not American in any simple sense, even if the currency and the airport signs are.

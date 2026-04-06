@@ -1,8 +1,10 @@
 ---
-title: "Lonavala"
+title: Lonavala
 type: location
 latitude: 18.750369
 longitude: 73.406944
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Lonavala is a small hill station in the **Sahyadri** range (Western Ghats), halfway between Mumbai and Pune on the old British-era railway line and the Mumbai–Pune Expressway. Sitting at 622 metres in the folds of a volcanic escarpment, it was developed in the 19th century as a cool-weather retreat for the British administrators of Bombay, and today serves the same purpose for the middle classes of both cities — on weekends it is busy with families from Mumbai fleeing the heat, and during the south-west **monsoon** (June to September), when waterfalls cascade down the basalt cliffs and the landscape turns a luminous green, it is one of the most popular short breaks in western India.

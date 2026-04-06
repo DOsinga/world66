@@ -6,9 +6,10 @@ the most existing content to clean up get picked up first. Output goes to
 todo/location_cleanup/.
 """
 
-import os
 import sys
 from pathlib import Path
+
+import frontmatter
 
 CONTENT_DIR = Path(__file__).resolve().parent.parent / "content"
 TODO_DIR = Path(__file__).resolve().parent.parent / "todo" / "location_cleanup"
@@ -27,20 +28,10 @@ MIN_DEPTH = 3
 def is_location(md_path: Path) -> bool:
     """Check if a .md file has type: location in its frontmatter."""
     try:
-        with open(md_path, "r", encoding="utf-8") as f:
-            in_frontmatter = False
-            for line in f:
-                line = line.strip()
-                if line == "---":
-                    if in_frontmatter:
-                        return False  # end of frontmatter, didn't find it
-                    in_frontmatter = True
-                    continue
-                if in_frontmatter and line == "type: location":
-                    return True
-    except (OSError, UnicodeDecodeError):
+        meta = frontmatter.load(md_path).metadata
+    except Exception:
         return False
-    return False
+    return meta.get("type") == "location"
 
 
 def total_text_size(md_path: Path) -> int:

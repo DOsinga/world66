@@ -1,8 +1,10 @@
 ---
-title: "Nantes"
+title: Nantes
 type: location
 latitude: 47.218637
 longitude: -1.554136
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Nantes** is the sixth-largest city in France, a prosperous and unexpectedly creative metropolis of about 320,000 people (650,000 in the metropolitan area) on the **Loire** river, 50 km from the Atlantic. Historically it was the capital of the **Duchy of Brittany** and for centuries the richest port in France — it made its fortune in the 18th century on the slave trade, a history the city has more recently confronted through one of the most serious memorial projects of its kind in Europe. Administratively, Nantes is no longer in Brittany (it was moved to the Pays de la Loire region in 1955, a decision locals have never entirely forgiven) but culturally the Breton identity is still strong.

@@ -1,8 +1,10 @@
 ---
-title: "Alibag"
+title: Alibag
 type: location
 latitude: 18.649843
 longitude: 72.876547
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Alibag is a small coastal town about 100 km south of Mumbai on the **Konkan coast**, the long narrow belt of palm-fringed shoreline that runs between the Arabian Sea and the Western Ghats. For most of its history it was a minor fishing port; in the late 17th century it was developed by **Sarkhel Kanhoji Angre**, the famously effective Maratha admiral who harassed European shipping along the Konkan coast for decades. Today it is best known as Mumbai's favourite weekend beach escape — a cluster of low-key beaches, old Portuguese and Maratha forts, and the sort of second-home culture that sees private jets landing on neighbouring airstrips.

@@ -1,12 +1,15 @@
 ---
-title: "Niue"
+title: Niue
 type: location
 latitude: -19.054
 longitude: -169.861
 image: niue.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Togo_Chasm_beach.jpg"
-image_license: "CC BY-SA 4.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Fmarier" title="User:Fmarier">Francois Marier</a>'
+image_source: https://commons.wikimedia.org/wiki/File:Togo_Chasm_beach.jpg
+image_license: CC BY-SA 4.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Fmarier" title="User:Fmarier">Francois
+  Marier</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Niue is one of the world's smallest nations — a single raised coral island in the South Pacific, about 2,400 km northeast of New Zealand. It calls itself the Rock of Polynesia, and the name fits. There are no beaches to speak of on most of the coast; instead, the island rises abruptly from the sea in dramatic limestone cliffs, chasms, and arches carved by millennia of wave action.

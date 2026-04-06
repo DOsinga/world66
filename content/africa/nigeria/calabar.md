@@ -1,8 +1,10 @@
 ---
-title: "Calabar"
+title: Calabar
 type: location
 latitude: 4.9796
 longitude: 8.33736
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Calabar is a tropical river port in the far south-east of Nigeria, sitting on a ridge above the Calabar River just upstream of the Bight of Biafra. It is by some margin the most pleasant city in Nigeria — green, well-laid-out, cleaner and safer than most of the country, and with a long history as a trading centre stretching back to the 15th century, when Portuguese traders first arrived here. In the 19th century it was briefly the capital of the British Oil Rivers Protectorate (later the Niger Coast Protectorate) and the headquarters of the infamous Atlantic slave trade along this stretch of the West African coast. Presbyterian missionaries, most famously the Scot **Mary Slessor**, arrived in the 1840s and eventually helped put a stop to it; Slessor is buried in Calabar's hillside cemetery and still revered locally.

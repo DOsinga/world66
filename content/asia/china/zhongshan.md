@@ -1,8 +1,10 @@
 ---
-title: "Zhongshan"
+title: Zhongshan
 type: location
 latitude: 22.517645
 longitude: 113.392782
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Zhongshan is a city of about 3.5 million in Guangdong province, on the western side of the Pearl River Delta between Guangzhou and Zhuhai. It is named after Sun Yat-sen — "Zhongshan" is the Chinese name for the revolutionary leader who was born in the village of Cuiheng, now part of the city, in 1866. Sun Yat-sen is revered across both mainland China and Taiwan as the founding father of modern China, and his birthplace draws a steady flow of visitors.

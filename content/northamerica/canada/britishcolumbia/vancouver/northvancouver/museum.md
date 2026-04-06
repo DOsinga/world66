@@ -2,8 +2,8 @@
 title: "Museum"
 type: location
 type: "general"
-latitude: 43.666846
-longitude: -79.393351
+latitude: 49.319400
+longitude: -123.079800
 ---
 
 North Vancouver's history spotlights development in this coastal region.

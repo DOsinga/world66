@@ -1,8 +1,10 @@
 ---
-title: 'Sri Ganganagar'
+title: Sri Ganganagar
 type: location
-latitude: 29.9320
+latitude: 29.932
 longitude: 73.8723
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Sri Ganganagar is the northernmost city in Rajasthan, near the Punjab and Haryana borders. Built around the Ganga Canal irrigation system in the early 20th century, it is an agricultural hub rather than a tourist destination. The surrounding farmland, irrigated from the canal network, produces wheat, cotton, and some of the best kinnow (mandarin oranges) in India.

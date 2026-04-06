@@ -1,8 +1,10 @@
 ---
-title: "Seville"
+title: Seville
 type: location
 latitude: 37.38863
 longitude: -5.99534
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Seville is the most southern from the three biggest andalusian cities.

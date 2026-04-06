@@ -1,8 +1,8 @@
 ---
 title: "Wildlife"
 type: location
-latitude: 44.018061
-longitude: -78.039865
+latitude: 49.084700
+longitude: -123.058600
 ---
 
 Many opportunities to view wildlife exist, just a short distance from Ladner's downtown core.

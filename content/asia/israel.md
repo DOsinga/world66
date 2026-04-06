@@ -1,12 +1,14 @@
 ---
-title: "Israel"
+title: Israel
 type: location
 latitude: 30.812425
 longitude: 34.859476
 image: israel.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:WikiAir_IL-13-06_035_-_Old_City_(Jerusalem).JPG"
-image_license: "CC BY-SA 3.0"
-image_attribution: '<a href="//commons.wikimedia.org/wiki/User:Neukoln" title="User:Neukoln">Neukoln</a>'
+image_source: https://commons.wikimedia.org/wiki/File:WikiAir_IL-13-06_035_-_Old_City_(Jerusalem).JPG
+image_license: CC BY-SA 3.0
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Neukoln" title="User:Neukoln">Neukoln</a>
+done:
+  country_cleanup: 2026-03-30
 ---
 
 Israel is a treat for travelers. The country has beautiful old cities, good beaches and more culture, history and holy places than any other country.

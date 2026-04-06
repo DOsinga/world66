@@ -1,8 +1,10 @@
 ---
-title: "Champagne"
+title: Champagne
 type: location
 latitude: 49.0
 longitude: 4.0
+done:
+  location_cleanup: 2026-04-05
 ---
 
 **Champagne** is a historic province and wine region of north-eastern France, tucked between Paris, Lorraine, and the Belgian and Luxembourg borders. It gives its name to the only wine in the world protected by a geographical indication so strict that no other sparkling wine may legally use the word — and most of what you come here for is connected, in some way, to that fact. The chalky soil, the cool northerly climate, and the blend of **Chardonnay**, **Pinot Noir** and **Pinot Meunier** grapes combine to produce the bottle-fermented sparkling wine that has defined celebration since the late 17th century, when the Benedictine monk **Dom Pérignon** first codified the techniques at his abbey in **[Hautvillers](/europe/france/east/champagne/hautvillers)**.

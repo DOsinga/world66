@@ -1,8 +1,10 @@
 ---
-title: 'Oklahoma'
+title: Oklahoma
 type: location
 latitude: 34.955082
 longitude: -97.268406
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Oklahoma surprises people. Many associate it with the 1995 bombing or the dust-bowl despair of Steinbeck's *The Grapes of Wrath*, but the reality is a state with wide-open landscapes, deep Native American heritage, and two genuinely interesting cities.

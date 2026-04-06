@@ -1,8 +1,10 @@
 ---
-title: "Maine"
+title: Maine
 type: location
 latitude: 45.2538
 longitude: -69.4455
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Maine's motto -- "The Way Life Should Be" -- captures something real about this vast New England state. Ninety percent forest, over five thousand miles of coastline, and a culture that values independence and self-reliance above all else.

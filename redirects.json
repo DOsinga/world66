@@ -12070,5 +12070,12 @@
   "europe/germany/hessen/rudesheim/nightlife_and_ente": "europe/germany/hessen/rudesheim/bars_and_cafes",
   "europe/germany/hessen/rudesheim/festivals": "europe/germany/hessen/rudesheim/when_to_go",
   "europe/germany/hessen/rudesheim/activities": "europe/germany/hessen/rudesheim/things_to_do",
-  "europe/germany/hessen/riedstadt/sights": "europe/germany/hessen/riedstadt/things_to_do"
+  "europe/germany/hessen/riedstadt/sights": "europe/germany/hessen/riedstadt/things_to_do",
+  "northamerica/unitedstates/tennessee/nashville/thebluebirdcafe": "northamerica/unitedstates/tennessee/nashville/things_to_do/bluebird_cafe",
+  "europe/italy/sicily/palermo/sights": "europe/italy/sicily/palermo/things_to_do",
+  "europe/italy/sicily/palermo/museums": "europe/italy/sicily/palermo/things_to_do",
+  "europe/italy/sicily/palermo/nightlife": "europe/italy/sicily/palermo/bars_and_cafes",
+  "europe/italy/sicily/palermo/sights/capellapalatina": "europe/italy/sicily/palermo/things_to_do/cappella_palatina",
+  "europe/italy/sicily/palermo/sights/cathedral": "europe/italy/sicily/palermo/things_to_do/palermo_cathedral",
+  "europe/italy/sicily/palermo/sights/lamartorana": "europe/italy/sicily/palermo/things_to_do/la_martorana"
 }

@@ -1,8 +1,10 @@
 ---
-title: 'Rimini'
+title: Rimini
 type: location
 latitude: 43.946543
 longitude: 12.630749
+done:
+  location_cleanup: 2026-04-05
 ---
 
 This crowded beach resort on the Adriatic Sea in northeastern Italy is part of a coastal recreation area that stretches 120 km north-south from Porto Garibaldi to [Cattolica](/europe/italy/emiliaromagna/cattolica). The region offers fine sandy beaches, deep-sea fishing, hot springs, mud baths, water sports, good nightlife, and restaurants.

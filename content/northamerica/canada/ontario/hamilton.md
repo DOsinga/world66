@@ -1,8 +1,10 @@
 ---
-title: "Hamilton"
+title: Hamilton
 type: location
 latitude: 43.25608
 longitude: -79.872858
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Hamilton is a mid-sized city at the western end of Lake Ontario, about an hour from Toronto. It built its identity on steel — Stelco and Dofasco still dominate the eastern waterfront — but has diversified considerably since the industry's decline, with a growing arts scene and revitalized downtown.

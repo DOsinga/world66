@@ -1,8 +1,10 @@
 ---
-title: "Lima"
+title: Lima
 type: location
 latitude: -12.045981
 longitude: -77.030591
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Lima is a vast, grey, fog-shrouded metropolis of around 10 million people spread along the Pacific coast — almost a third of Peru's population lives here. Founded by Francisco Pizarro in 1535 on the Day of the Epiphany and named **La Ciudad de los Reyes** ("The City of Kings"), it was the capital of Spanish South America for three centuries, and the riches of the Viceroyalty of Peru flowed through it on their way back to Madrid. Earthquakes and modern sprawl have disguised most of that history, and for years Lima had a reputation as a place to pass through on the way to the Inca sites. That has changed. Over the past two decades the city has been quietly rediscovering itself — through its food, above all — and it now has one of the most interesting restaurant scenes in the world.

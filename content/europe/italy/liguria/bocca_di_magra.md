@@ -1,8 +1,10 @@
 ---
-title: "Bocca di Magra"
+title: Bocca di Magra
 type: location
 latitude: 44.046648
 longitude: 9.984746
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Bocca di Magra is a small resort village at the mouth of the **Magra River** on the eastern edge of Liguria, where the river cuts through the hills into the Ligurian Sea. Its name means, literally, "mouth of the Magra". This is the unfashionable end of the Gulf of the Poets — less polished than nearby Lerici and Portovenere, but quieter, cheaper and still very pretty. Fishermen's houses line the riverbank, small boats are moored in rows along the quay, and on the far side of the river the pine-covered slopes of the **Montemarcello-Magra Natural Park** rise steeply out of the water.

@@ -1,8 +1,10 @@
 ---
-title: "Provence"
+title: Provence
 type: location
 latitude: 43.9493
 longitude: 6.0679
+done:
+  location_cleanup: 2026-04-02
 ---
 
 Provence has been drawing visitors since long before the word "tourism" existed. Roman generals retired here, medieval popes set up court in [Avignon](/europe/france/midi/provence/avignon), and painters like Van Gogh and Cezanne came for the light and never wanted to leave.

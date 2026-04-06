@@ -1,8 +1,10 @@
 ---
-title: "Lago Maggiore"
+title: Lago Maggiore
 type: location
 latitude: 45.951094
 longitude: 8.634165
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Lago Maggiore is Italy's second-largest lake, a long sliver of blue water stretching 65 kilometres from the Swiss border south to the plains of [Lombardia](/europe/italy/lombardia). Sheltered by the Alps, the lake enjoys a mild climate that produces extraordinary gardens -- azaleas, camellias, and subtropical palms flourish on the Borromean Islands as if the latitude were several hundred kilometres further south.

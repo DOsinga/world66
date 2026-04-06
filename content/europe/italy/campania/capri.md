@@ -1,8 +1,10 @@
 ---
-title: "Capri"
+title: Capri
 type: location
 latitude: 40.548843
 longitude: 14.228371
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Capri is a small, almost entirely rocky island in the Bay of Naples, off the southern tip of the **Sorrento peninsula**. Only 10 square kilometres in area, it has been a magnet for the wealthy, the famous and the merely curious since the Roman emperors **Augustus** and **Tiberius** built twelve villas on the island in the 1st century CE — Tiberius spent the last ten years of his reign on Capri, ruling the Roman Empire from the cliff-top villa now known as the **Villa Jovis**, whose ruins can still be visited. Since then the list of people who have hidden out here has included Lenin, Maxim Gorky, Graham Greene, Jackie Kennedy, and half the movie stars of the 1950s and 1960s. In high summer the day-trip crowds from Naples and Sorrento can be overwhelming; out of season, it is still one of the loveliest places in Italy.

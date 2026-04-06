@@ -1,8 +1,10 @@
 ---
-title: 'Alexandria'
+title: Alexandria
 type: location
 latitude: 31.199181
 longitude: 29.895172
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.

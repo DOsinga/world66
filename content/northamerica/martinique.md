@@ -1,12 +1,14 @@
 ---
-title: "Martinique"
+title: Martinique
 type: location
 latitude: 14.6415
 longitude: -61.0242
 image: martinique.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Jardin_de_Balata.jpg"
-image_license: "Public domain"
-image_attribution: "Box-Off-Dreams, Julie."
+image_source: https://commons.wikimedia.org/wiki/File:Jardin_de_Balata.jpg
+image_license: Public domain
+image_attribution: Box-Off-Dreams, Julie.
+done:
+  country_cleanup: 2026-03-29
 ---
 
 Martinique is a slice of France dropped into the eastern Caribbean. It is an overseas region of France — not just a territory but a full département — which means euros, French law, and French bureaucracy, along with rum, Creole cooking, and spectacular tropical scenery. The combination is unlike anywhere else in the Caribbean.

@@ -1,8 +1,10 @@
 ---
-title: "Saarbrücken"
+title: Saarbrücken
 type: location
 latitude: 49.234362
 longitude: 6.996379
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Saarbrücken is the capital of the **Saarland**, Germany's smallest and most French-leaning state, tucked into the country's western corner against the French border. It is a city of around 180,000 people on the River Saar, prosperous, walkable and surprisingly cosmopolitan given its size — the proximity of France means everyone here speaks at least some French, the bakeries sell as many croissants as they do Brötchen, and the food and wine are noticeably more Gallic than in the rest of Germany.

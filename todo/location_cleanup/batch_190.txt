@@ -21,7 +21,6 @@ europe/germany/lowersaxony/bad_rothenfelde
 southamerica/argentina/patagonia/ushaia
 northamerica/unitedstates/arizona/coloradoriver
 northamerica/unitedstates/pennsylvania/state_college
-northamerica/unitedstates/tennessee/nashville/thebluebirdcafe
 northamerica/mexico/cancun/practical_informat_1
 northamerica/panama/dariengap/meteti
 asia/china/shanghai/nightlifeentertainment/mgmdiscballroom

@@ -1,8 +1,10 @@
 ---
-title: 'Algarve'
+title: Algarve
 type: location
 latitude: 37.244922
 longitude: -8.195956
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Portugal's sunny southern coast stretches over 150 kilometres from [Sagres](/europe/portugal/algarve/sagres) in the west to [Vila Real](/europe/portugal/algarve/vilareal) on the Spanish border. The Algarve is the country's premier beach destination, blessed with more sunshine hours than almost anywhere else in Europe, golden sand beaches, and warm Atlantic water.

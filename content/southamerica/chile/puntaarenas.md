@@ -1,8 +1,10 @@
 ---
-title: "Punta Arenas"
+title: Punta Arenas
 type: location
 latitude: -53.162569
 longitude: -70.907822
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Punta Arenas sits on the edge of the **Strait of Magellan**, at the very bottom of continental Chile, and for most of its history it has been one of the most isolated cities in the world. Founded in 1848 as a Chilean military outpost to secure the strait, it grew rich in the second half of the nineteenth century on sheep, wool and shipping — every vessel from Europe to California came this way before the Panama Canal opened in 1914. That brief golden age left behind an extraordinary collection of belle-époque mansions built by British, Croatian and Spanish estancia owners, and most of the cemetery, bank buildings and central Plaza Muñoz Gamero feel more like a slightly weathered European provincial capital than a Patagonian port.

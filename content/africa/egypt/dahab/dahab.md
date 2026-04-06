@@ -1,8 +1,10 @@
 ---
-title: 'Dahab'
+title: Dahab
 type: location
 latitude: 28.5091
 longitude: 34.5131
+done:
+  location_cleanup: 2026-04-04
 ---
 
 Dahab is the Sinai's laid-back antidote to the package-tour glitz of [Sharm el Sheikh](/africa/egypt/sharm_el_sheikh). Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Backpackers discovered it in the 1980s, and the vibe has never fully shaken that easygoing DNA, even as proper restaurants and dive centers have moved in.

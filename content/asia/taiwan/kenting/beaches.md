@@ -3,22 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-The main strip of beach in Kenting is practically controlled by the large resorts. However it is accessible to everyone. You will be required to pay a small fee for a chair and umbrella.
-
-Nanwan is also a popular beach area that is quite a bit larger. Here you will see all kinds of water sports. Shops line the road with scuba/snorkelling gear and restaurants. There are also changing/shower facilities here.
-
-Shado Beach is an ecologically protected area so no swimming.
-
-Baisha Beach is about 30 minutes north west of Kenting and it literally means "white sand beach". During the week you could be lucky enough to be the only one on the beach.
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Baisha (White Sand) Beach is the largest and most accessible beach, about 30 minutes northwest of the main town — on weekdays outside peak season it can be nearly empty. The main resort beach in Kenting town is controlled by the large hotels but accessible to all for a small fee for chairs and umbrellas. Nanwan, south of town, is popular for water sports with scuba and snorkelling hire available. Shadao (Sand Island) beach is an ecologically protected area and swimming is not allowed there.

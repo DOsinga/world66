@@ -1,15 +1,10 @@
 ---
 title: "Eating Out"
 type: section
-address: "Bachstr. 35, 54346 Mehring"
-phone: "+49-6502-99123"
-type: "general"
-latitude: 49.796585
-longitude: 6.823961
 ---
 
-### Landgasthaus Müller
+### Landgasthaus Muller
 
-For five generations the Müller family runs a restaurant with own butcher's shop and wine production. The restaurant is open every day beside monday and during the winter months. In the comfortable and rural restaurant you can eat very delicious - and cheap. The homemade meat-dishes are a must. Vegetarians should try the salads. In summertime you can sit outside in the street and watch the village life. If the famous moselle wine makes you to tired to leave, you can stay - the restaurant includes a small hotel with 6 rooms.
+For five generations the Muller family has run a restaurant with its own butcher's shop and wine production. The restaurant is open every day except Monday (closed during winter months). In the comfortable, rustic restaurant you can eat very well and cheaply. The homemade meat dishes are a must. Vegetarians should try the salads. In summer you can sit outside and watch village life go by. If the Mosel wine makes you too tired to leave, you can stay — the restaurant includes a small hotel with six rooms.
 
-type: general
+Bachstr. 35, 54346 Mehring. Tel: +49-6502-99123.

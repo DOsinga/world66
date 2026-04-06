@@ -3,28 +3,10 @@ title: "Books"
 type: section
 ---
 
-**all**
+**German Wine Guide**
 
-**German Wine Guide **
+A comprehensive guide to German wines by Armin Diel. ISBN: 0789205777.
 
+**A Traveller's Wine Guide to Germany**
 
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0789205777/ref=ase_osingacom?v=glance&s=books)
-
-author: Armin Diel
-
-isbn: 0789205777
-
-subject: German Wine
-
-**A Traveller's Wine Guide to Germany **
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1566562236/ref=ase_osingacom?v=glance&s=books)
-
-author: Kerry Brady Stewart
-
-isbn: 1566562236
-
-subject: German Wine
+Kerry Brady Stewart's guide to exploring Germany's wine regions. ISBN: 1566562236.

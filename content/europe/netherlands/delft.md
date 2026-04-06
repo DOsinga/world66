@@ -1,26 +1,16 @@
 ---
-title: "Delft"
+title: Delft
 type: location
-latitude: 52.011402
-longitude: 4.35839
+latitude: 52.0116
+longitude: 4.3571
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Delft is a nice old garrison town halfway between [Rotterdam](/europe/netherlands/rotterdam) and [The Hague](/europe/netherlands/thehague) . The name Delft actually means "Ditch".
+Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands — the name comes from *delven*, to dig, after the canal that was dug here in the 11th century — and among the best-preserved, with a medieval centre of tree-lined canals, Gothic churches, and brick canal houses that has changed remarkably little in four hundred years. It is also a university town (the Delft University of Technology, founded 1842, is the Netherlands' oldest and largest engineering university), which means the cafés and bars stay lively even outside tourist season.
 
-The center of the town has a few nice canals, you can wander along, and some good museums. Delft is a university town, with a renowned technical university, so there are always many young people around and the atmosphere is pleasant enough. The only drawback: most students are male, and there is some shortage of young women.
+The **Markt**, the central square, is one of the most photogenic town squares in the country: at one end stands the **Nieuwe Kerk** (New Church, "new" in the sense that it was begun in 1381), whose tall, leaning tower dominates the Delft skyline, and at the other end the Renaissance **Stadhuis** (Town Hall). The Nieuwe Kerk holds the white marble tomb of William the Silent, the father of the Dutch nation, and has served as the burial place of the House of Orange ever since. A few streets away, the **Oude Kerk** (Old Church, begun 1246) leans at a noticeable angle of its own — Delft's soft clay plays tricks on foundations — and holds the grave of Johannes Vermeer, who was born, lived, and died here.
 
-Delft is of course also famous for Delftware, blue and white ceramics. They are on offer in all the tourist shops. The Porcelijne Fles (address: Rotterdamseweg 196) is a factory where you can see how they are produced.
+Vermeer is Delft's most famous son. He painted most of his 36 surviving works in this city, and the **Vermeer Centrum** on the Voldersgracht recreates his studio and gives context to the light, the interiors, and the maps that appear in so many of his paintings. The **Museum Prinsenhof**, in the former convent where William of Orange was assassinated in 1584, houses the city's historical collection — the bullet holes from the assassination are still visible in the wall of the entrance hall. And **Royal Delft** (De Porceleyne Fles), the last remaining Delftware factory from the 17th century, offers factory tours where you can watch painters hand-painting the blue-and-white ceramics that made the city famous.
 
-The main attractions include: Markt (central market place), Nieuwe Kerk (New Church on the Markt) and "het Stadhuis" (Cityhall, also on the Markt). Further on, the Wijnhaven is a nice canal, the Prinsenhof (nowadays a museum, but in history the place where Willem of Orange lived and is murdered), the Oude Kerk (Old Church) and "het Legermuseum" (the Royal Weapon Museum).
-
-The Nieuwe Kerk is the place where the Royal Family is buried. October 2002 was the last burial, His Royal Highness Prince Claus, the husband of our Queen Beatrix.
-
-Every Thursday there is a large market on "de Markt" with vegetables, fruit, fish, cloth, bakkery and all kinds of other things.
-
-Every Saturday there is a little market on the Brabantse Turfmarkt and Burgwal, nearby the central market place. There is also on saturday an antique market on the Hyppolytusbuurt, but only during summertime (approximately april-september).
-
-More information about Delft, you can find on the website http://www.delft.nl.
-
-If you are visiting Delft there is a tourist office at the Hippolytusbuurt, a street between the Oude Kerk en the Nieuwe Kerk.
-
-Hope you enjoy your visit to this beautiful small city.
+Delft is small enough to see in a day from The Hague or Rotterdam (ten minutes by train from either), but it rewards an overnight stay: walk the canals at dusk, eat at one of the restaurants on the Beestenmarkt or Wijnhaven, and watch the light change on the water in the way that Vermeer would have recognised.

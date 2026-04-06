@@ -1,21 +1,12 @@
 ---
 title: "Day Trips"
 type: section
-address: "P.O. Box 455"
-email: "info@denaliriverguides.com"
+linked_locations:
+  - northamerica/unitedstates/alaska/denali_national_pa
 ---
 
-Many companies provide fishing services out of Talkeenta. [Denali Southside River Guides](/northamerica/unitedstates/alaska/talkeetna) offers a unique experience that walks you through wilderness and past wildlife and stunning views, while providing excellent fishing for salmon, grayling and trout. They offer fully guided wade-style fishing with maximum client to guide ratio of 4:1. If you don't want to worry about packing all your fishing gear, they also provide breathable chest waders, jackets, felt bottom boots, polarized sun glasses, fly rod and flies for no additional charge. Fishing license can be purchased seperately.
+Talkeetna sits between two great wild areas. [Denali National Park](/northamerica/unitedstates/alaska/denali_national_pa) is the obvious draw to the north, while Denali State Park -- often overlooked -- lies right along the Parks Highway between Talkeetna and the national park entrance.
 
-### [Kayak](/northamerica/unitedstates/alaska/talkeetna/day_trips/kayak)
+Byers Lake in Denali State Park, at Mile 147 of the Parks Highway, is a rewarding half-day trip. Kayak across the lake watching for trumpeter swans, loons, and beavers, or paddle over pools of spawning salmon while keeping an eye out for bears and eagles along the shore. On a clear day the views of Denali and the Alaska Range from the water are breathtaking.
 
-Byers Lake is located half way between Talkeetna and Denali National Park in Denali State Park at Mile 147 Parks Hwy. Denali Southside River Guides offers guided kayak tours and rentals. Visit their website at www.denaliriverguides.com
-The lake is home to trumpeter swans, loons and beavers. Salmon migrate up Byers Creek and through the lake and you can paddle over pools of spawning salmon while watching for the bears and eagles that come to feed on them. Their are breath taking views of Denali and the Alaska Range from the lake. [more..](/northamerica/unitedstates/alaska/talkeetna/day_trips/kayak)
-
-
-
-[[rate it]](/northamerica/unitedstates/alaska/talkeetna/day_trips/kayak)
-
-address: P.O. Box 455
-
-email: info@denaliriverguides.com
+Wade-style fishing trips on the rivers south of Denali are another popular option, with guided outings targeting salmon, grayling, and trout. Most operators provide all gear including waders, boots, and fly rods.

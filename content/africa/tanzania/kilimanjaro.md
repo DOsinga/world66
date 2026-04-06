@@ -1,8 +1,10 @@
 ---
-title: "Kilimanjaro"
+title: Kilimanjaro
 type: location
 latitude: -3.078653
 longitude: 37.419856
+done:
+  location_cleanup: 2026-04-06
 ---
 
 **Part of history**

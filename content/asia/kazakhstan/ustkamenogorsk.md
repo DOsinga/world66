@@ -1,8 +1,10 @@
 ---
-title: "Ust-Kamenogorsk"
+title: Ust-Kamenogorsk
 type: location
 latitude: 49.948444
 longitude: 82.627479
+done:
+  location_cleanup: 2026-04-06
 ---
 
 **UST-KAMENOGORSK** has two main variations of its name. In Russian transcription (its official name) it is Ust-Kamenogorsk (pronounced oost-kuh-mee-nuh-GORSK), in Kazakh transcription it is Oskemen (pronounced us-kuh-MEN). If you are ever in Kazakhstan, please use the Russian name since it is more common and people might not understand you if you use the Kazakh equivalent.

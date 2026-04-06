@@ -297,8 +297,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     if (markers.length) bgMap = initLocationMap('background-map', markers, mapOptions);
     {% endif %}
     bgInited = true;
-    // Settle layout then pan POI into view
-    requestAnimationFrame(function() { requestAnimationFrame(function() { poiPanToHero(false); }); });
   }
 
   {% if hero_image_url %}

@@ -1,6 +1,8 @@
 ---
-title: "Amazon basin"
+title: Amazon basin
 type: location
+done:
+  location_cleanup: 2026-04-06
 ---
 
 **AMAZON IN ECUADOR** **TOP**

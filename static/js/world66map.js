@@ -218,10 +218,7 @@ function fetchStreetGeometry(map, name, lat, lng) {
     var bbox = (lat - d) + ',' + (lng - d) + ',' + (lat + d) + ',' + (lng + d);
     var escaped = name.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
     var query = '[out:json][timeout:10];way["name"="' + escaped + '"](' + bbox + ');out geom;';
-    fetch('https://overpass-api.de/api/interpreter', {
-        method: 'POST',
-        body: 'data=' + encodeURIComponent(query),
-    })
+    fetch('https://overpass-api.de/api/interpreter?data=' + encodeURIComponent(query))
     .then(function(r) { return r.json(); })
     .then(function(data) {
         if (!data.elements || !data.elements.length) return;
@@ -292,7 +289,26 @@ function initLocationMap(elementId, markers, options) {
     if (markers.length > 1) {
         map.fitBounds(group.getBounds().pad(0.15));
     } else if (markers.length === 1) {
-        map.setView([markers[0].lat, markers[0].lng], options.isPoi ? 15 : 10);
+        var zoom = options.isPoi ? 15 : 10;
+        var center = L.latLng(markers[0].lat, markers[0].lng);
+        if (options.isPoi) {
+            // Offset the initial center so the marker lands in the hero strip,
+            // not behind the page content. Both setView calls are animate:false
+            // so only the final position is ever painted.
+            map.setView(center, zoom, {animate: false});
+            var hero = document.getElementById('hero');
+            if (hero) {
+                var rect = hero.getBoundingClientRect();
+                var heroMidY = (rect.top + rect.bottom) / 2;
+                var dy = map.latLngToContainerPoint(center).y - heroMidY;
+                if (Math.abs(dy) > 2) {
+                    var currentCenter = map.getCenter();
+                    var cPx = map.latLngToContainerPoint(currentCenter);
+                    center = map.containerPointToLatLng(L.point(cPx.x, cPx.y + dy));
+                }
+            }
+        }
+        map.setView(center, zoom, {animate: false});
     }
 
     L.control.attribution({position: 'bottomright', prefix: false})

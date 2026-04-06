@@ -40,7 +40,7 @@ def location_or_section(request, path):
 
     # Derive parent for section/poi pages
     parent = None
-    if page.page_type in ("section", "poi") and "/" in page.path:
+    if page.page_type in ("section", "poi", "neighbourhood") and "/" in page.path:
         parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
 
@@ -55,10 +55,12 @@ def location_or_section(request, path):
     # For section pages, load POIs
     if page.page_type == "section":
         pois = page.pois()
+    elif page.page_type == "neighbourhood":
+        pois = page.neighbourhood_pois()
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
-    if page.page_type == "section" and pois:
+    if page.page_type in ("section", "neighbourhood") and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
     # Map context — validate lat/lng as floats

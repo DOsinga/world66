@@ -121,7 +121,7 @@ class Page:
                 page = _load_page_from_file(entry, self.path + "/" + entry.stem)
                 if not page:
                     continue
-                if page.page_type == "section":
+                if page.page_type in ("section", "neighbourhood"):
                     sections.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
@@ -133,7 +133,7 @@ class Page:
                 if child:
                     if child.page_type == "location":
                         locations.append(child)
-                    elif child.page_type == "section":
+                    elif child.page_type in ("section", "neighbourhood"):
                         sections.append(child)
 
         return sections, locations, pois
@@ -155,6 +155,37 @@ class Page:
                 page = _load_page_from_file(entry, poi_path)
                 if page:
                     pois.append(page)
+        return pois
+
+
+    def neighbourhood_pois(self):
+        """For neighbourhood pages: find POIs from the city's sections tagged with neighbourhood: matching this title."""
+        # Neighbourhood path is city/explore/slug — city is two levels up.
+        parts = self.path.rsplit("/", 2)
+        if len(parts) < 3:
+            return []
+        city_path = parts[0]
+        city_dir = CONTENT_DIR / city_path
+        if not city_dir.is_dir():
+            return []
+
+        title = self.title
+        pois = []
+        for section_dir in sorted(city_dir.iterdir()):
+            if not section_dir.is_dir() or section_dir.name == "explore":
+                continue
+            for poi_file in sorted(section_dir.iterdir()):
+                if not poi_file.is_file() or poi_file.suffix != ".md":
+                    continue
+                result = _load_md(poi_file)
+                if not result:
+                    continue
+                meta, _ = result
+                if meta.get("neighbourhood") == title:
+                    poi_path = city_path + "/" + section_dir.name + "/" + poi_file.stem
+                    page = _load_page_from_file(poi_file, poi_path)
+                    if page:
+                        pois.append(page)
         return pois
 
 

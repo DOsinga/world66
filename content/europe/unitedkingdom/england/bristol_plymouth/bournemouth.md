@@ -1,8 +1,10 @@
 ---
-title: 'Bournemouth'
+title: Bournemouth
 type: location
 latitude: 50.720151
 longitude: -1.879912
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Bournemouth is one of Britain's most popular seaside destinations. Set on the coast in the centre of southern England, its 10 km of sandy beach flies two blue flags for bathing water quality. The resort attracts visitors throughout the year with over 25,000 beds available in hotels, guesthouses and self-catering apartments.

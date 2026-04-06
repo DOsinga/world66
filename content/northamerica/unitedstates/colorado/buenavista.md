@@ -1,8 +1,10 @@
 ---
-title: "Buena Vista"
+title: Buena Vista
 type: location
 latitude: 42.744581
 longitude: -95.112752
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Buena Vista is located in Central Colorado some 200 km west of

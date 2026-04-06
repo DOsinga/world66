@@ -1,8 +1,10 @@
 ---
-title: "Moab"
+title: Moab
 type: location
 latitude: 38.57381
 longitude: -109.546214
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Moab is a wonderful place. It is about 10 minutes drive to Arches National Park (NP) and about 30 minutes drive to Canyonland NP. Stores along the highway are very yuppie liked and people-friendly. There are two large grocery stores which serve the population there and cities nearby. The tap water taste funny; so, buy gallon of distilled water from them. One of the store is City Market (425 S. Main. 435.259.5181). Don't forget ice-cream in summer. :) 

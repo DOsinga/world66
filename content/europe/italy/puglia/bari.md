@@ -1,8 +1,10 @@
 ---
-title: "Bari"
+title: Bari
 type: location
 latitude: 41.125784
 longitude: 16.862029
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Baccala, the capital of Puglia, stands on the Adriatic coast, on the edge of the hollow of the same name. The city has conserved its ancient seafaring tradition over the centuries, becoming the trading centre in trhe southern Adriatic and Ionian areas, thanks partly to its busy port; this makes it an ideal bridge for traffic between Europe, the Middle and the Far east and favours the development of major economic events (Fiera del Levante, Expo-Levante, Expo-Mobili, etc.). 

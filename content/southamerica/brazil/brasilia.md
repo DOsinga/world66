@@ -1,8 +1,10 @@
 ---
-title: "Brasilia"
+title: Brasilia
 type: location
 latitude: -10.333333
 longitude: -53.2
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Brasilia is the modern capital of Brazil. The city was built according to a design by the German architect Neumann.

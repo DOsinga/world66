@@ -1,8 +1,10 @@
 ---
-title: "Palazzuolo sul Senio"
+title: Palazzuolo sul Senio
 type: location
 latitude: 44.112475
 longitude: 11.547748
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Palazzuolo sul Senio is real-life fairy tale in the heart of Tuscan Romagna.

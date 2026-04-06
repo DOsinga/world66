@@ -1,6 +1,8 @@
 ---
-title: "Southern Norway (Sorlandet)"
+title: Southern Norway (Sorlandet)
 type: location
+done:
+  location_cleanup: 2026-04-06
 ---
 
 **Southern Norway 

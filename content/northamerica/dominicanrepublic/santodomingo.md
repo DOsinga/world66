@@ -1,6 +1,8 @@
 ---
-title: "Santo Domingo"
+title: Santo Domingo
 type: location
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Santo Domingo has many sights in the category "oldest in the new world". This is the place to look for the oldest street, the oldest cathedral and the oldest chapel in the new world. Add to that a large number of buildings that may not be the oldest in thier kind but that still are pretty old and you can see that a visit to the capital of the Dominican Republic is a must for every traveler. So get your bum away from the beach and get ready for a history tour.

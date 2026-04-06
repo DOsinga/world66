@@ -1,8 +1,10 @@
 ---
-title: "Tashkent"
+title: Tashkent
 type: location
 latitude: 41.312336
 longitude: 69.278708
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Tashkent is the capital of Uzbekistan but does not have the special attractions Samarkand and Bukhara have. Most of it was destroyed by a huge earthquake in the seventies. The soviets took this disaster as an opportunity and called the working class heroes to help rebuild Tashkent. Thousants of volunteers went to the city to help and stayed afterwards, turning the ancient city into a modern, communist and rather Russian town.

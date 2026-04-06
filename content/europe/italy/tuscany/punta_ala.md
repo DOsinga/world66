@@ -1,8 +1,10 @@
 ---
-title: "Punta Ala"
+title: Punta Ala
 type: location
 latitude: 42.801256
 longitude: 10.75113
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Punta Ala means "Wing Point" because of the shape of this point of land that extends out into the Mediterranean sea toward the Island of Elba in Tuscany near Grossetto. This land was received by Eleonora of Toledo in donation around 1560 and after many invasions by sea and by barbarians she decided to guard her land and to build the tower "Torre Nuova" on the hill which is in front of the Island of Troia and the nearby rocks raising out of the water named "li Porcellini". Then in 1577 Torre Hildago, a second tower, was built to the North-West on another hill right in front of Piombino.

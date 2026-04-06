@@ -1,9 +1,9 @@
 ---
-title: "Getting Around in Punta Cana"
+title: "Getting Around"
 type: section
 ---
 
-Punta Cana has a fairly good transportation system that can bring travelers to any place in the city or other parts of the [Dominican Republic](/northamerica/dominicanrepublic). If you are arriving at the Punta Cana airport, there are several types of airport transfer service for you to choose from. The most reliable airport transfer service is the Dominican Airport Transfers. This company has a website, and it accepts online booking.
+Most visitors to Punta Cana stay within their resort and use organised transfers. Independent travellers can rent a car from the airport (Budget, Europcar, Avis, and Prestige all have offices there) or use taxis, which have stations at most hotels and charge standard rates in pesos, dollars, or euros. Local gua-guas (minibuses) are the cheapest option for getting to Higüey or Bávaro.
 
 If you are not traveling with a [tour](/northamerica/dominicanrepublic/punta_cana/sights) operator, the best way to get around [Punta Cana](/northamerica/dominicanrepublic/punta_cana) and travel to neighboring towns is to rent a car. You can easily find car rental services in the airport and hotels, and some of the well-known car rental agencies that operate in Punta Cana include Budget, Europcar, Avis and Prestige. It is important that you get maximum insurance from the car rental company and familiarize yourself with the driving laws of the country.
 

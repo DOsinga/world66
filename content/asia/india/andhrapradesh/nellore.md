@@ -1,10 +1,12 @@
 ---
-title: "Nellore"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 14.449372
 longitude: 79.987376
+title: Nellore
+type: location
 ---
 
-**Nellore Town** is situated on the south bank of Pennar River. It lies in the southern part of the [Andhra Pradesh](/asia/india/andhrapradesh) State. It is at a distance of 173-km from Chennai and is the headquarters of the district. Flamingo Festival is celebrated in this district's famous bird sanctuary. Nellore people love Nellore for many reasons, one of them being culture and nature of people. The Nellore Telugu is unique with its accent usually used for comedy in the movies, we Nelloreans love the Nellore Telugu, its so homely and natural. Though many criticize the Nellore accent, almost every one like Nelloreans for their lavishness and broad minded nature. Most of the Nelloreans are Happy-go-lucky and take-it-easy types, however there are enough of them who are highly ambitious and hard working. These people make Nellore a much spoken about place. Nelloreans in general are respected in other places and Reddies in particular are specially called Nellore Reddies amongst the Reddies in the state. There are many places of historical importance, the Ranganayakula Temple on the bank of the river Penna, the udayagiri fort, the Narasimha Konda, Penchala kona, venkatagiri fort, Mypadu beach, the Krishnapatnam port etc.
+Nellore sits on the southern bank of the Pennar River, about 170 km north of Chennai along the coast of Andhra Pradesh. It's a workaday market city — cotton, oilseed, and the busy Krishnapatnam port drive the local economy — but the surrounding district rewards those willing to venture out. Long stretches of undeveloped coastline, a flamingo sanctuary, ancient temples on the riverbanks, and the ruined hilltop fort at Udayagiri all lie within easy reach.
 
-Nellore is an important market center for products such as cotton and oilseed. A major railway and a national highway serve the city. The nearest international airport is about 170 km (about 100 miles) south in [Chennai](/asia/india/tamilnadu/chennai) (formerly known as Madras).
+The city itself is relaxed and unpretentious. Telugu spoken here has a distinctive accent that locals are quietly proud of. There's not much in the way of fancy restaurants or nightlife, but the fish curry is genuinely excellent and the people are famously hospitable. Most visitors use Nellore as a base for day trips rather than a destination in itself, and that's a fair way to approach it.

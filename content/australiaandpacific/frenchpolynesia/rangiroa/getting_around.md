@@ -22,11 +22,4 @@ resort. For the lazy, Europcar has gasoline-powered open air "fun cars"
 and compact cars available for rent. Several other locations such as the Kia Ora resort and a couple of roadside stands have
 scooters as well.
 
-Getting to locations other than the northern part of the atoll will
-require a boat. There are numerous tour operators that will be more
-than happy to take you to such locations as la Lagon Bleu (The Blue
-Lagoon), and Les Sables Roses (The Pink Sands) on the southern side of
-the atoll.
-
-**Contributors**
-March 16, 2005
+Getting to locations other than the northern strip requires a boat. Tour operators run trips to the Blue Lagoon (Lagon Bleu) and the Pink Sands (Les Sables Roses) on the southern side of the atoll.

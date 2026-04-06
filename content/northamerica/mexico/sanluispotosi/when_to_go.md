@@ -1,5 +1,5 @@
 ---
-title: "When to Go in San Luis Potosi"
+title: When to Go
 type: section
 ---
 

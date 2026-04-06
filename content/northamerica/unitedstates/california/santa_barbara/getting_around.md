@@ -1,9 +1,9 @@
 ---
-title: "Getting Around in Santa Barbara"
+title: "Getting Around"
 type: section
 ---
 
-Set amidst the breathtaking California coast, Santa Barbara boasts fine weather, gorgeous Mission style architecture and hundreds of charming shops and restaurants. Heralded as the American Riviera, it’s no wonder hosts of tourists descend upon this city year round. Thankfully Santa Barbara makes it easy for visitors to explore the town’s popular attractions with limited hassle.
+Santa Barbara’s tourist centre is compact enough to cover on foot. City buses ($1.75 per trip) run by the Santa Barbara MTD connect the main districts, with separate shuttles from downtown to the waterfront and along State Street for 25 cents. Bikes and roller skates can be rented on the beach.
 
 **Buses**
 

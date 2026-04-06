@@ -1,30 +1,16 @@
 ---
-title: "Burgundy"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 47.278087
 longitude: 4.222486
+title: Burgundy
+type: location
 ---
 
-Burgundy is not just a region in France. It stands for a lifestyle: the
-good life! Drink a glass of wine, eat some delicious food and take your
-time to sit back and relax. If this kind of life is appealing to you,
-there is no better place to experience it than in Burgundy itself.
+Burgundy (Bourgogne) stretches south from Auxerre through the vine-covered slopes of the Côte d'Or to Mâcon, covering roughly 31,000 square kilometres of central eastern France. For most of the Middle Ages it was an independent duchy more powerful than the French crown, and that history shows: in Dijon's ducal palace, in the great Romanesque abbeys at Vézelay and Autun, in the hospice at Beaune still producing its own wine after six centuries.
 
-[Dijon](/europe/france/east/burgundy/dijon) is the capital
-of Burgundy and the best place to start exploring the region. In the
-city you will find many monuments that date is a bit
-further to the south and is mostly famous for its hospice. One of the
-oldest hospitals in Europe and built in the characteristic style of the
-region.
+The wine is what draws most visitors. The narrow strip of the Côte d'Or — roughly 50 kilometres running south from Dijon — produces some of the most sought-after red and white wines on earth: Gevrey-Chambertin, Nuits-Saint-Georges, Meursault, Puligny-Montrachet. The vineyards are classified in extraordinary detail, with individual plots (lieux-dits) carrying reputations built over hundreds of years. Chablis, further north near Auxerre, makes steely unoaked chardonnay in a different style. The Canal de Bourgogne connects the rivers Yonne and Saône, running the length of the region and offering one of France's classic barge routes.
 
-There is also a canal that crosses Burgundy (Canal de Bourgogne)
-from the North to the South joining the river Yonne and Saone. This
-allows barges and boats to cruise from the English Chanal down to the
-South of France.
+Away from the wine country, the Morvan massif in the west is dense forest and rolling hills — wild boar country, good for walking and cycling. Vézelay perches on a hilltop above the Cure valley. Autun has Roman gates and a cathedral with Romanesque carvings as fine as anything in France. Smaller villages like Mailly-le-Château and Montréal reward those who slow down and look.
 
-## Destinations in Burgundy
-
-[Beaune](/world/europe/france/east/burgundy/beaune)
-[Dijon](/world/europe/france/east/burgundy/dijon)
-[Autun](/world/europe/france/east/burgundy/autun)
-[Montréal](/world/europe/france/east/burgundy/montral)
+[Dijon](/europe/france/east/burgundy/dijon) is the regional capital and the natural base. [Beaune](/europe/france/east/burgundy/beaune) is the centre of the wine trade. [Autun](/europe/france/east/burgundy/autun) and [Vézelay](/europe/france/east/burgundy/vezelay) are the major historical draws outside the Côte d'Or. [Lormes](/europe/france/east/burgundy/lormes) is a good transit stop for the Morvan.

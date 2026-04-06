@@ -1,34 +1,9 @@
 ---
-title: "RAJA SATE BBQ & Asian RESTO"
+title: "Raja Sate BBQ & Asian Resto"
 type: poi
-accessibility: "Conveniently in city with Easy access to any public transportation"
 address: "Jalan Boulevard, near Mega Mall"
-email: "matt94z@yahoo.com"
 phone: "+62 431 3327380"
-price: "Very Affordable"
-type: "International"
-url: "www.RajaSate.com"
+price: "Budget"
 ---
 
-**[*RAJA SATE BBQ & ASIAN RESTO*](/asia/indonesia/sulawesi/manado/eating_out/raja_sate__bbq__a) ** Offering many Delicious local & Asian food, such as, Chicken/Goat/Beef/Seafood satays, Fresh BBQ Seafoods, Steaks, Salads, Soups, Fresh Tropical Juices, and the list goes on. Enjoy lunch or dinner in a relaxed, clean and casual semi-traditional architecture. A-Must-Try in Manado city. Best of all, prices are so Affordable. So, see you soon...
-
-**Contributors**
-August 21, 2007
-
-type: International
-
-
-
-
-
-accessibility: Conveniently in city with Easy access to any public transportation
-
-tel: +62 431 3327380
-
-url: [www.RajaSate.com](http://www.RajaSate.com)
-
-address: Jalan Boulevard, near Mega Mall
-
-PriceOfMenu: Very Affordable
-
-email: matt94z@yahoo.com
+Satay spot on the main boulevard serving chicken, goat, beef and seafood skewers alongside fresh BBQ seafood, soups and tropical juices. Casual open-air setting; reliable for a filling meal at low cost.

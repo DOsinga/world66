@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Kluang"
+title: Day Trips
 type: section
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Tel Aviv"
+title: "When to Go"
 type: section
 ---
 

@@ -1,33 +1,12 @@
 ---
-title: "Things to do in Paloncha"
+title: "Things to Do"
 type: section
-address: "4 chestnut court,37 bath road,hounslow,middlesex,uk"
-email: "sid222001@yahoo.com"
-phone: "020 8750 1122"
-type: "Trekking"
-zipcode: "TW3 3BP"
 ---
 
-Kinnerasani project (dam) is one of the attractions very near to Paloncha. Should visit this during the day with a crowd of friends and good music. BTW you ahve to take your own food.
+**Kinnerasani Reservoir** is the main excursion from Paloncha. The dam backs up the Kinnerasani River and the surrounding area is part of a wildlife sanctuary protecting tiger, leopard, bison, and deer in dense forest. It is popular for day trips and best visited with transport of your own.
 
-### [london guys](/asia/india/andhrapradesh/paloncha/things_to_do/london_guys)
+The hills around Paloncha offer trekking through forest with waterfalls and small lakes. The terrain is part of the Eastern Ghats foothills, and the walks are rewarding without being technically demanding.
 
-paloncha has a beautiful mountains around it. 
+**Venkateswara Temple** on the Navabharat Hill is the most visited religious site in the area. The hilltop setting gives good views over the town and the forested ridges beyond.
 
-you can have very nice experience of trekking and enjoy the beauty of thoke park. waterfalls,small lakes,wild life like deers,rabbits etc give you a soothing effect. 
-
-the venkateswara temple situated on the top of the navabharat hill is worth visiting for its beautiful gardens and its architectural grandeur.thanks to the number of dhabas which provide with a wide variety of punjabi cuisine including roti with anda burji and dal makani.
-
-type: Trekking
-
-
-
-[[rate it]](/asia/india/andhrapradesh/paloncha/things_to_do/london_guys)
-
-zipcode: TW3 3BP
-
-email: sid222001@yahoo.com
-
-address: 4 chestnut court,37 bath road,hounslow,middlesex,uk
-
-tel: 020 8750 1122
+**Kanaka Durga Temple** near the KTPS entrance is one of the older temples in the area, visited by workers and residents from across the industrial colonies.

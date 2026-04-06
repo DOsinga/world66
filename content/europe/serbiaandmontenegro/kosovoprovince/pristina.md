@@ -1,10 +1,14 @@
 ---
 title: "Pristina"
 type: location
+lat: 42.6629
+long: 21.1655
 ---
 
-Pristina is the capital of Kosovo. Officially still part of Serbia, but effectively under joint Albanian NATO control. It's a pretty tough spot to travel to and don't expect a lot by way of tourist facilities. Travelling here may actually be pretty close to dangerous. The situation looks stable now, but things can change pretty fast on the Balkan. 
+Pristina is the capital of Kosovo and a city that has reinvented itself at speed. The old image of a bombed-out UN protectorate is well out of date — this is now a busy, young capital with a lively café culture, a packed university district, and streets named after Bill Clinton and George W. Bush (both have statues here, a reflection of US support for Kosovo's independence).
 
-Battles and wars have played a big role in the history of Pristina long before the NATO stepped in. The famous Battle of Kosovo was fought here in 1389. This battle plays a pivotal role in Serbian history, one of the reasons the Serbs had such a hard time giving up Kosovo. 
+The Battle of Kosovo was fought in 1389 on the Kosovo Polje plain just outside the city, and it remains one of the most mythologised events in Serbian history. A tall monument marks the battlefield. The contrast between that historical weight and the young, forward-looking energy of modern Pristina is one of the city's defining qualities.
 
-Attractions in town include the Imperial Mosque and the 15th-century Mehmed II Fatih Mosque. In the old city centre with its narrow, twisting roads there are many shops, some Turkish baths. At the highest point you find a 13th-century fortress. When all's quiet on the eastern front day trips can be taken to the Gracanica monastery with impressive medieval frescoes or to the cathedrals of Pec, once the seat of the Serbian Orthodox Church.
+The old bazaar area near the centre has narrow streets, a few Turkish-era hammams, and the 15th-century Mehmed Fatih Mosque. The National Museum holds a strong collection on Kosovo's history from Illyrian times through the Ottoman period. The Newborn monument — a huge typographic sculpture first unveiled on independence day in 2008 — gets repainted every year and has become the city's emblem.
+
+Day trips from Pristina are easy. The medieval Gračanica Monastery, one of the finest examples of Byzantine architecture in the Balkans, is about 10km south and fully accessible. The Patriarchate of Peć (near Peja) is another important Orthodox site.

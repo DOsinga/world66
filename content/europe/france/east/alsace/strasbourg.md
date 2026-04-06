@@ -1,15 +1,16 @@
 ---
-title: "Strasbourg"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 48.5734
+longitude: 7.7521
+title: Strasbourg
 type: location
-latitude: 48.584614
-longitude: 7.750713
 ---
 
-Strasbourg, the capital of Alsace, is loacted on the banks of the Rhine on the border with [Germany](/europe/germany). The city has changed hands between the Germans and the French a couple of times. Today it is a properous, beautiful and modern city, big enough to have a metropolitain air. You could call Strasbourg a truly European city: 
- it is the seat of the European Council, the European Parliament and the European Court of Human Rights.
+Strasbourg sits on the Rhine, on the border with [Germany](/europe/germany), and it shows: the language, the food, the architecture, and the beer all carry a German imprint, yet the city is unmistakably French. The Alsatian capital has changed hands between France and Germany several times over the centuries, and that dual identity is part of what makes it so interesting.
 
+Today Strasbourg is home to the European Parliament, the Council of Europe, and the European Court of Human Rights — a fitting role for a city that has spent so long straddling two cultures. The institutions cluster in a modern quarter to the northeast, but the heart of the city is medieval.
 
- The town itself is extremely pretty. The city's cathedral, with its famed astronomical clock and the old towers, is most lovely. The Pharmacy de Cerf is the oldest pharmacy in France and Strasbourg’s university is one of the oldest and most active ones of the country.
+The cathedral of Notre-Dame de Strasbourg dominates everything around it. Its single Gothic spire, completed in 1439, was for centuries the tallest structure in the world. Inside, the 16th-century astronomical clock still draws crowds at noon when its automata parade. The area around the cathedral — cobbled lanes, half-timbered houses, candlelit winstubs — is the best of Strasbourg.
 
-
- The older quarters of Strasbourg include "La Petite France", notable for its medieval half-timbered houses situated along the canals. You can take a boat trip on these canals. Also worth seeing are the Cathedral's two museums: Musée de l'Oeuvre Notre-Dame and the Musée Alsacien. Gastronomy is an important part of the culture here; the city's winstubs (wine taverns) are a staple of Alsatian art de vivre.
+Southwest of the centre, the quarter of La Petite France is the most picturesque corner: a tangle of canals and 16th-century tanneries, now full of restaurants and tourists, but still worth walking. The city's Christmas market, held on Place Broglie and Place de la Cathédrale from late November, is one of the oldest and largest in Europe.

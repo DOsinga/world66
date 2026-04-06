@@ -1,22 +1,9 @@
 ---
 title: "Getting Around"
 type: section
-address: "737 Willow Avenue, Ithaca NY  14850"
-email: "tcat@tcatmail.com"
-phone: "(607) 277-RIDE (7433)"
-url: "www.tcatbus.com"
 ---
 
-Ithaca's TCAT (Tompkins Consolidated Area Transit) offers daily service throughout most of the city and some rural areas.
-
-In addition, connections are available to other regional carriers such as Chemung County Transit (from Elmira), Corland Transit and Broome County Transit (Binghamton, Endicott, Johnson City).
-
-The Tompkins County Airport north of Ithaca also offers non-stop commuter aircraft service to Philadelphia, New York (LaGuardia), and Pittsburgh.
-
-Coach USA and Greyhound also offer a number of trips every day to a number of regional destinations from Downtown Ithaca. The terminal for both carriers is 710 West State St., Ithaca, NY.
-
-**Contributors**
-December 19, 2005
+TCAT (Tompkins Consolidated Area Transit) covers most of the city and runs frequent service between the Commons and Cornell campus. Regional connections run to Elmira, Corland, and Binghamton. Most routes converge near the Downtown Commons — check schedules if you're out late, as service thins in the evenings.
 
 ### [TCAT (Tompkins Consolidated Area Transit)](/northamerica/unitedstates/newyorkstate/ithaca_tompkins_c/getting_around/tcat_tompkins_con)
 

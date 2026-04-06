@@ -9,6 +9,4 @@ If you're looking for snorkeling or SCUBA diving, you've come to the right place
 
 Locals advised me that you can swim in the lagoon with no fear of the many sharks and rays. However, they emphasized more than once that it is very dangerous to swim on the ocean side. (The exception is if you're an experienced SCUBA diver and you're doing a supervised drift dive in the pass.) I was in Avatoru for three weeks, snorkeled off the beach about every other day, and saw sharks and rays every time along with the expected schools of smaller colorful tropical fish.
 
-For a day trip, Lagon Bleu is spectacular, and you will see schools of baby sharks there. It takes about an hour to get by boat from Avatoru to Lagon Bleu. You can find out which boat owners are taking people by asking the owner of your pension (guesthouse). Lagon Vert is much smaller, but equally pretty. There's a "fish park" there where you can get up close and personal (swim) with large tame sharks, rays, etc. The owner of Pension Loyna (her name is Loyna) in Avatoru can hook you up with a way to get to the less-visited Lagon Vert.
-
-Toni Armstrong Jr., Chicago, IL - USA
+For a day trip, Lagon Bleu is spectacular, and you will see schools of baby sharks there. It takes about an hour by boat from Avatoru. Ask your pension owner which boat operators are running trips. Lagon Vert is smaller but equally pretty; there is a fish park where you can swim with large tame sharks and rays.

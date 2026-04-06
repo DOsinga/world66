@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Sestri Levante"
+title: Day Trips
 type: section
 ---
 

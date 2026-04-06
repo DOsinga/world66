@@ -1,18 +1,9 @@
 ---
-title: "Sunday Market (weekend market)"
+title: "Satok Weekend Market"
 type: poi
-address: "Jalan Satok"
-type: "Other"
-latitude: 1.553105
-longitude: 110.339266
+category: "Neighbourhood"
+latitude: 1.5531
+longitude: 110.3393
 ---
 
-This is the weekend market that most local people will get really busy selling & buying local stuffs here, ranging from vegetables, fruits, fishes, cloths, souvenirs, local foods & basically, just anything that locally produced.
-
-What's in it for you? You get to see the the authentic local markets here selling all kind of local stuffs & foods, & get to know what local people do during the weekend. 99% of the people you can find here is local, since this is not built for tourist. However, tourist must not miss this, as you can shop for cheap local stuffs here, & try out the delicious local foods. It's located near to the town, probably about 10 mins drive from CBD. Taking taxi will cost you less than RM10. The market will roughly start from 3pm on Saturday & will end at 12pm on Sunday. The best time to visit here is during evening time at about 7pm, so that it's not too hot & humid. You can easily spend 2 hours there for just browsing around...
-
-type: Other
-
-
-
-address: Jalan Satok
+The Satok weekend market on Jalan Satok is one of Kuching's best local experiences. Running from Saturday afternoon through Sunday, it draws an almost entirely local crowd selling vegetables, fruit, fish, jungle produce, traditional snacks, and cheap clothing. The evening hours on Saturday — around 7pm — are the liveliest. It takes about 10 minutes by taxi from the city centre.

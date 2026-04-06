@@ -1,9 +1,9 @@
 ---
-title: "Beaches in Santa Barbara"
+title: "Beaches"
 type: section
 ---
 
-**Santa Barbara beaches** are where you can get a tan and, at the same time, have some fun.
+Santa Barbara's beaches stretch along the city's southern edge, each with a slightly different character. Most are flat, sandy, and sheltered from the Pacific swell by the Channel Islands offshore.
 
 **Hendry's Beach**
 

@@ -3,36 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-Santorini, one of Greece’s most famous and beloved island retreats,
-offers a host of options in the form of adventure and relaxation.
-However, its island status really only allows two ways by which tourists
-can reach the region: by sea or air.
+Santorini is reached by ferry or plane. Most visitors arrive by one or the other depending on where they're travelling from.
 
-**Ferry **– A network of ferries circulate between Santorini,
-neighboring islands and the Greek mainland during the high season of
-July through September. From the mainland, ferries depart from such
-major cities as Athens and Thessaloniki to Santorini on a regular
-basis. Meanwhile, island hopping via ferry between Santorini and other
-Cyclades Islands, like Naxos and Mykonos, remains quite common.
-High-speed catamarans handle rough waters in the winter months fairly
-well, but seasick prone tourists may wish to take precautionary
-measures. Keep in mind, some ferries may have to postpone their
-departure due to winter storms.
+**By Ferry**
 
-**Cruise Ships** – Multiple cruise lines cater to
-Santorini. Although located in the Aegean Sea, many Mediterranean
-cruises offer stops there as part of their itinerary. Cruise
-ships dock near the island’s old dock, with small fishing boats
-providing transportation to the actual island. Keep in mind, however,
-that most shore excursions only offer a few hours in which to explore
-the island.
+Ferries run year-round from Piraeus (Athens), with the journey taking around five hours on a fast catamaran or eight to nine hours on a conventional ferry. During summer, there are also regular connections to other Cycladic islands including Mykonos, Naxos, and Ios, as well as to Heraklion in Crete. Ferries dock at Athinios port, about 12 km south of Fira; buses and taxis meet arriving boats.
 
-**Airplane **– Santorini National Airport resides in the town of
-Kamari, and serves as a small but fully functioning airport. Three
-airlines, Aegean Airlines, AirSea Lines and Olympic Airways, offer
-multiple flights throughout the year from various European cities,
-including Athens. Meanwhile, Sky Express provides flights between
-Santorini and the nearby islands.
+**By Air**
 
-**Contributors**
-October 22, 2009
+Santorini National Airport (JTR) sits near Kamari on the eastern side of the island. Olympic Air and Aegean Airlines operate multiple daily flights from Athens year-round, with the crossing taking under an hour. In summer, direct seasonal flights connect to several European cities. The airport is small and gets congested in peak season — allow extra time.

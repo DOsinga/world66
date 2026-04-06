@@ -1,10 +1,10 @@
 ---
 title: "Recco"
 type: location
-latitude: 44.36524
-longitude: 9.146299
+latitude: 44.3652
+longitude: 9.1463
 ---
 
-After Sori and Recco appears the sea dazzled climb to Ruta even through the primary importance is still due to nature, to the greenery of the plants, the colours of the flower which never will give way to the harsh grey of the cliffs.
- But not always has rock a heart of stone; there already, in the vicinity of Mulinetti, it spreads in the sun freshened by the waves of the sea.
- An invitation not to be declined in the many fine days of Paradise Gulf; first a nice bathe and then the dozy rlaxation of a nap in the sun.
+Recco is a small coastal town in the Paradise Gulf, best known for one thing: focaccia col formaggio, a thin, crisp flatbread filled with molten stracchino cheese that is arguably the finest street food in Liguria. People drive from [Genoa](/europe/italy/liguria/genoa) -- just twenty minutes up the motorway -- specifically to eat it, and the town takes its focaccia seriously enough to have a consortium protecting the recipe.
+
+The town itself was almost entirely rebuilt after heavy bombing in the Second World War, so it lacks the medieval charm of its neighbours [Camogli](/europe/italy/liguria/italianriviera/paradisegulf/camogli) and Sori. What it has instead is a pleasant, unpretentious feel, a good beach at Mulinetti just south of the centre, and a clutch of excellent restaurants. The coast path heading south from Recco toward Camogli is one of the best short walks in the area.

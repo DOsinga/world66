@@ -1,8 +1,10 @@
 ---
-title: "Ponta Delgada"
+title: Ponta Delgada
 type: location
 latitude: 37.73934
 longitude: -25.66895
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

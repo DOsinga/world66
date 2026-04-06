@@ -1,9 +1,9 @@
 ---
-title: "Day Trips in Sanya"
+title: "Day Trips"
 type: section
 ---
 
-When most people thing about **Sanya day trips**, the first thing that comes to their minds are not water retreats or tropical locations. However, the Middle Kingdom offers a peaceful, fresh surprise to the often polluted air of the busier cities. Below are two such water getaways that are well worth your time.
+The area around Sanya has several worthwhile excursions beyond the city beaches.
 
 **Nathian Hot Springs**
 

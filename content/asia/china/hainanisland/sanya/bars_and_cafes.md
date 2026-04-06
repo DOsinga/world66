@@ -1,9 +1,9 @@
 ---
-title: "Bars and Cafes in Sanya"
+title: "Bars and Cafes"
 type: section
 ---
 
-If you are going to be exploring **Sanya bars and cafes**, you will find there are different varieties of cuisine and tastes you can have at each place.
+The bar and cafe scene in Sanya concentrates around the beach areas, especially Dadonghai. Most cater to both Chinese and international visitors.
 
 #### Pirates Restaurant and Bar
 

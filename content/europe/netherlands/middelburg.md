@@ -1,8 +1,12 @@
 ---
-title: "Middelburg"
+title: Middelburg
 type: location
 latitude: 51.499678
 longitude: 3.613737
+image: middelburg.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Middelburg_-_Dam_02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Txllxt TxllxT
 ---
 
 Middelburg is the capital of Zeeland, once one of the most important provinces of the Netherlands, which gave its name to New Zealand and was home to Admiral De Ruyter who sailed its fleet up the river Thames. Now the province is one of the calmer areas of the Netherlands, with great beaches and watersport facilities and cozy little towns with cobbly streets.

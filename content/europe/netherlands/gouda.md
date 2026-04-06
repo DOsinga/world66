@@ -1,8 +1,13 @@
 ---
-title: "Gouda"
+title: Gouda
 type: location
 latitude: 52.011492
 longitude: 4.710609
+image: gouda.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chesses_gouda_affinage.JPG
+image_license: Public domain
+image_attribution: No machine-readable author provided. Alpha.prim~commonswiki assumed
+  (based on copyright claims).
 ---
 
 Gouda is 25 kilometers northeast of Rotterdam. The town is mostly famous because it has given its name to the best known kind of cheese from the Netherlands, but the town itself is definitely worth a visit. It has a lot of charm and a lot of old buildings. 

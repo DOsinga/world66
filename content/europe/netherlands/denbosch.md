@@ -1,8 +1,12 @@
 ---
-title: "Den Bosch"
+title: Den Bosch
 type: location
 latitude: 51.688939
 longitude: 5.303116
+image: denbosch.jpg
+image_source: https://commons.wikimedia.org/wiki/File:%27s-Hertogenbosch_briefkaart.jpg
+image_license: Public domain
+image_attribution: Herman de Ruiter (1870-1949)
 ---
 
 Historically Den Bosch is one of the most important towns of the south of the Netherlands. In the Middle Ages it was a major religious and political centre but after the reformation it lost some of its economic importance to the cities in Holland.

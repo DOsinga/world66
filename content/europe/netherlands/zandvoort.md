@@ -5,6 +5,10 @@ latitude: 52.359522
 longitude: 4.535026
 done:
   location_cleanup: 2026-04-05
+image: zandvoort.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2010-08_toren_zandvoort_14.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Ziko
 ---
 
 Zandvoort is the nearest beach to **Amsterdam** — less than 30 minutes by direct train from Amsterdam Centraal — and for most visitors that is the whole point. It is a straightforward Dutch seaside town: a wide, clean, windy beach of fine grey sand backed by dunes, a boulevard of beach pavilions and fish stalls, a small working centre of supermarkets and guesthouses, and not much else. Every summer weekend half of Amsterdam turns up to sunbathe, and in July and August the beach is lined end-to-end with deck chairs, pop-up bars, and flocks of gulls.

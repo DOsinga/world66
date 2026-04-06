@@ -1,8 +1,12 @@
 ---
-title: "Blaricum"
+title: Blaricum
 type: location
 latitude: 52.281133
 longitude: 5.293714
+image: blaricum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:9623_Hervormde_kerk_Blaricum.jpg
+image_license: CC BY-SA 3.0 nl
+image_attribution: Johan Bakker
 ---
 
 Travel Guide

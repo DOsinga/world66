@@ -5,6 +5,10 @@ latitude: 50.851244
 longitude: 5.690977
 done:
   location_cleanup: 2026-04-06
+image: maastricht.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2019_Maastricht,_Vaeshartelt,_interieur_(1).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Kleon3
 ---
 
 Maastricht is unlike anywhere else in the Netherlands. Tucked into the southernmost tip of the country, wedged between Belgium and Germany, it feels more Burgundian than Dutch — and it wears that difference with pride. The city is famous for the 1992 treaty that created the European Union, but its history runs far deeper: the name comes from the Roman *Trajectum ad Mosam*, the crossing of the Maas, and the Romans are still here in a sense, in the cave systems they began carving out of the soft marl hillside two thousand years ago.

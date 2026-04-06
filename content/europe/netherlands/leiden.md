@@ -1,8 +1,12 @@
 ---
-title: "Leiden"
+title: Leiden
 type: location
 latitude: 52.159475
 longitude: 4.490884
+image: leiden.jpg
+image_source: https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlands.jpg
+image_license: CC BY-SA 4.0
+image_attribution: W. Bulach
 ---
 
 Leiden is a very charming university town, halfway beteen [Amsterdam](/europe/netherlands/amsterdam) and [The Hague](/europe/netherlands/thehague). It's a very lively place, with good nightlife and many nice eating out.

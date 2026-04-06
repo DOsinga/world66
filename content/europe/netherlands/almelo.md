@@ -1,8 +1,12 @@
 ---
-title: "Almelo"
+title: Almelo
 type: location
 latitude: 52.356358
 longitude: 6.663622
+image: almelo.jpg
+image_source: https://www.flickr.com/photos/56985677@N00/4558920262
+image_license: CC BY 2.0
+image_attribution: aromano on Flickr
 ---
 
 How did you end up in Almelo at the first place? Mistook the station for that of Enschede, Twente's largest city? Forgot you're passport so you couldn't continue your journey onwards to Germany? Anyway, Almelo is mostly known for its history in textiles. These days, it is a not highly remarkable city in the eastern part of the Netherlands and has only a few interesting sights to offer. In the main shopping street, you can see the 'Old Waag' (which has been turned into a restaurant) and just off the track is the deer and ducks parks. Continuing your way, you can walk the long lanes accompanied by high trees that lead up to 'Huize Almelo' (not accessible to the public) where the count used to live. Actually, this is quite a nice area to walk around wasn't it for the motorway that separates the mansion from the 'Gravenallee', the former property of the count existing of outstretching fields, trees and watchman's huts where one used to pay toll in the good old days. 

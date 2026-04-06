@@ -1,8 +1,12 @@
 ---
-title: "Diever"
+title: Diever
 type: location
 latitude: 52.854658
 longitude: 6.318266
+image: diever.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Diever_Feb_2020_-_16.jpg
+image_license: CC BY-SA 4.0
+image_attribution: NeoMeesje
 ---
 
 An old village on the edge of the Drents-FrieseWoud It is situated

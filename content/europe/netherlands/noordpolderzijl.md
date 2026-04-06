@@ -1,8 +1,12 @@
 ---
-title: "Noordpolderzijl"
+title: Noordpolderzijl
 type: location
 latitude: 53.432069
 longitude: 6.582255
+image: noordpolderzijl.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20110805_Zielhoes_Noordpolderzijl_Gn_NL.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Wutsje
 ---
 
 Don't expect a booming harbour village here; there's just about a landing stage for 3 or 4 ships and a cafe... but it will be hard to find a more authentic spot in the whole Netherlands...

@@ -5,6 +5,10 @@ latitude: 52.496376
 longitude: 5.068274
 done:
   location_cleanup: 2026-04-02
+image: volendam.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Volendam_-_Havendijkje_-_Busparking_-_August_2010_02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Txllxt TxllxT
 ---
 
 Volendam sits on the IJsselmeer, a half-hour bus ride north of Amsterdam, and it still looks remarkably like the fishing village it once was. Wooden houses painted green and white line narrow streets, and a handful of older residents still wear traditional dress — the women in pointed lace caps, the men in baggy wool trousers.

@@ -1,8 +1,12 @@
 ---
-title: "Groningen"
+title: Groningen
 type: location
 latitude: 53.219065
 longitude: 6.568008
+image: groningen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Groningen_(stad),_station_Groningen._13-06-2022._(actm.)_03.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Agnes Monkelbaan
 ---
 
 Groningen is located in the North of the Netherlands. It is quite a charming city, although many the historic centre was scarred both in the second World War and in the rebuilding process that followed the war.

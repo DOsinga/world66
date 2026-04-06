@@ -1,8 +1,12 @@
 ---
-title: "De zaanse schans"
+title: De zaanse schans
 type: location
 latitude: 52.473183
 longitude: 4.816596
+image: dezaanseschans.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2017-08-15_Netherlands,_Zaanse_Schans_DSC_3284_DxO.jpg
+image_license: CC BY 4.0
+image_attribution: Laurens R. Krol
 ---
 
 Your traditional daytrip from Amsterdam. Just 30 minutes away, you find windmills, old shops, cobbly streets etc. Perfect to take your kids, but if you like to do the untouristy thing, you can give it a miss. 

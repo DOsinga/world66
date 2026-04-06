@@ -1,8 +1,12 @@
 ---
-title: "Kinderdijk"
+title: Kinderdijk
 type: location
 latitude: 51.888695
 longitude: 4.635697
+image: kinderdijk.jpg
+image_source: https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Lucas Hirschegger
 ---
 
 Kinderdijk is a region located south west of [Rotterdam](/europe/netherlands/rotterdam) famous for the

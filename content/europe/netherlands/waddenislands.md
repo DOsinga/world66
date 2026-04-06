@@ -1,8 +1,12 @@
 ---
-title: "Wadden islands"
+title: Wadden islands
 type: location
 latitude: 52.592929
 longitude: 5.359097
+image: waddenislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Marker_Wadden_IMG_20180625_150139.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Robbie Klinkenberg
 ---
 
 The Wadden Islands are north of [Friesland](/europe/netherlands/friesland) and [Alkmaar](/europe/netherlands/alkmaar). Texel, the biggest island is best reached from [New amsterdam](/southamerica/guyana/newamsterdam) or [Alkmaar](/europe/netherlands/alkmaar) via [Den Helder](/europe/netherlands/denhelder) (first train, then boat). Vlieland and Ameland are best reached from [Harlingen](/europe/netherlands/friesland/harlingen) in [Friesland](/europe/netherlands/friesland). The islands are a very nice place to spend a few days, enjoy the nature, walk along the shore. They are not as posh a destination as the German Wadden Islands are.

@@ -4,6 +4,38 @@ Add a rich `explore` section to major cities — a guide to the city's distinct 
 
 This task is for **major cities only**. Each batch contains exactly one city.
 
+## Before you start — checks
+
+Run these checks on the city before doing any writing. Fix problems first, then proceed.
+
+### 1. Location cleanup done?
+
+Check the city's main `.md` file for `done: location_cleanup`. If it's missing, run the location_cleanup task first or skip this city and pick another batch.
+
+### 2. Enough POIs?
+
+Count POIs across `things_to_do/`, `eating_out/`, and `bars_and_cafes/`. A city needs **at least 15 POIs total** to support meaningful neighbourhood tagging. If it's thin:
+
+- Check if the POI directories exist at all — if not, the cleanup wasn't done properly, skip it.
+- If there are 8–14 POIs, proceed but only tag what exists; note the gap in the commit message.
+- If there are fewer than 8, skip this city.
+
+### 3. Coordinate sanity check
+
+For every POI that has `latitude` and `longitude`, verify the coordinates are plausible for this city. A quick rule: look up the city's approximate bounding box and flag any POI whose coordinates fall outside it. Common failures:
+
+- Coordinates of `0, 0` — missing data pasted as null
+- Coordinates in a completely different country (e.g., a Paris POI with New York coordinates)
+- Coordinates that look swapped (lat/lng reversed)
+
+Fix bad coordinates before tagging POIs to neighbourhoods — a POI with wrong coordinates on a neighbourhood map is worse than no POI.
+
+To fix: look up the correct coordinates for the place (use web search), update the file, note the fix in the commit message.
+
+### 4. Section structure correct?
+
+Confirm the city uses `things_to_do/` (not `sights/` or `museums/`), and that `bars_and_cafes/` exists if relevant. If old section names are still present, do a quick structural fix first (or note it and skip tagging those POIs).
+
 ## What to build
 
 For each city, create:
@@ -86,7 +118,18 @@ Add to the city's main `.md` file:
 
 ```yaml
 done:
-  neighbourhoods: 2026-04-06
+  neighbourhoods: <today's date>
 ```
 
 (alongside any existing `done:` entries)
+
+## Commit message format
+
+```
+Neighbourhoods: City Name
+
+- N neighbourhoods created
+- M POIs tagged across things_to_do/, eating_out/, bars_and_cafes/
+- X bad coordinates fixed (list them)
+- any other notable issues
+```

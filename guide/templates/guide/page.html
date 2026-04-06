@@ -180,7 +180,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   <tbody>
     {% for poi in pois %}
     <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
-      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>{% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}</td>
+      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
       <td class="poi-table-details">
         {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
         {% for key, value in poi.properties.items %}
@@ -195,6 +195,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
           {% endif %}
         </span>
         {% endfor %}
+        {% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}
       </td>
     </tr>
     {% endfor %}

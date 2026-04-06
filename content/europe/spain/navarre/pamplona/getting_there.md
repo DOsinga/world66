@@ -1,35 +1,12 @@
 ---
-title: "Getting There in Pamplona"
+title: "Getting There"
 type: section
-type: "general"
 ---
 
-### [By train](/europe/spain/navarre/pamplona/gettingthere/bytrain)
+Pamplona is well connected by road and has reasonable rail and air links, though during the San Fermin festival in July everything books up fast -- plan well ahead.
 
-There are comfortable journies by train from Madrid (Chamartín Station)and Barcelona.  During the San Fermin Festival the trains tend to be booked up so it is advisable to make a booking as early as possible.  The railway station in Pamplona is situated outside the city. But there is a good local bus service every ten minutes or so to the city centre as well as a taxi service. There is a train ticket office in Pamplona city centre (RENFE - Estella Street, -8) Tfl.- 948-227282 where you can get both information and make bookings. The Train Station number: 902 240202 [more..](/europe/spain/navarre/pamplona/gettingthere/bytrain)
+**By car** -- Pamplona sits at the junction of several motorways. From [Madrid](/europe/spain/madrid) it is about four hours (400 km) on the A-15. From [Barcelona](/europe/spain/catalonia/barcelona), take the A-2 to Tudela, then the A-15 north, or go via [Zaragoza](/europe/spain/aragon/zaragoza). Parking in the city centre is tight, especially during San Fermin when special traffic restrictions apply.
 
-type: general
+**By train** -- Direct trains run from Madrid (Chamartin) and Barcelona. The railway station is outside the city centre, but local buses run every ten minutes to the Casco Viejo, and taxis are readily available. There is a RENFE ticket office in the city centre on Calle Estella. During San Fermin, book trains as early as possible.
 
-
-
-[[rate it]](/europe/spain/navarre/pamplona/gettingthere/bytrain)
-
-### [By air](/europe/spain/navarre/pamplona/gettingthere/byair)
-
-It´s possible to take direct plane flights to Pamplona. There are daily flights from Madrid and Barcelona. There are no direct flights from abroad. If you are in The French State, you can take a plane to Biarritz and hire a car for the rest of the way if you don´t have someone to meet you there. Public transport between the two cities is awkward and difficult.
-
-type: general
-
-
-
-[[rate it]](/europe/spain/navarre/pamplona/gettingthere/byair)
-
-### [By car](/europe/spain/navarre/pamplona/gettingthere/bycar)
-
-Pamplona is very well connected by road. The whole journey from
-[Madrid](/europe/spain/madrid) to Pamplona takes about four hours. (About 400 kms.) If you come from
-[Barcelona](/europe/spain/catalonia/barcelona) take the motorway A-2 as far as
-Tudela and then switching to the A-15 straight to Pamplona. Alternatively you can go via the capital of Aragon,
-[Zaragoza](/europe/spain/aragon/zaragoza). If you take your car to the San Fermin Festival it is important to know what parking space is available and what special traffic restrictions apply [more..](/europe/spain/navarre/pamplona/gettingthere/bycar)
-
-type: general
+**By air** -- Pamplona has a small airport with daily flights from Madrid and Barcelona. There are no direct international flights. If coming from France, the nearest option is Biarritz airport, from where you will need a rental car -- public transport between Biarritz and Pamplona is limited.

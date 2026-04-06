@@ -1,19 +1,6 @@
 ---
 title: "Getting There"
 type: section
-type: "By Road"
-url: "www.greyhound.com"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
-Here is how you can reach Portland.
-
-**Contributors**
-March 31, 2005
-
-### By bus
-
-Greyhound provides bus service along the West coast as well as from points inland.
-
-type: By Road
+Portland International Airport (PDX) is served by most major US carriers and several international routes. The MAX Red Line light rail connects the airport to downtown in about 40 minutes with no transfers. By train, Amtrak's Coast Starlight runs between Los Angeles and Seattle through Portland's Union Station; the Cascades service connects Portland to Seattle (3.5 hours) and Eugene. Greyhound and FlixBus serve major West Coast and inland routes. By car, I-5 runs north–south through the city; I-84 heads east along the Columbia River Gorge.

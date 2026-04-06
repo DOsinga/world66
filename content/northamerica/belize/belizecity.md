@@ -1,8 +1,10 @@
 ---
-title: "Belize City"
+title: Belize City
 type: location
-latitude: 17.2510
+latitude: 17.251
 longitude: -88.7671
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Belize City is the largest city in the country and its main transport hub, sitting where the Belize River meets the Caribbean Sea. Most international flights land here, and the water taxi and bus terminals are the departure points for the cayes and the interior.

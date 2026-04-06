@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Puglia"
+title: "Getting There"
 type: section
 ---
 

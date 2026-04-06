@@ -1,15 +1,14 @@
 ---
-title: "Gokarna"
+title: Gokarna
 type: location
-latitude: 14.543963
-longitude: 74.318442
+latitude: 14.544
+longitude: 74.3184
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+Gokarna is a small pilgrimage town on the Karnataka coast, 185 km south of Goa. It is sacred to Shiva — the Mahabaleshwara Temple at its centre is one of the most important Shiva temples in southern India, and Hindu pilgrims have been coming here for centuries. In the last few decades it has also become a backpacker destination, drawn by a string of beaches south of the town that remain less developed and less crowded than Goa.
 
-Gokarna is situated on the west coast on India, south of Goa. *Go-karna* literally means "cow's ear" in Hindi and Sanskrit. This name is believed to have been derived from mythological legend, in which Lord Shiva emerges from an ear of a cow. This village is formed in between two rivers, which flow together and form a landmass shaped like a cow's ear.
+The four beaches — Kudle, Om, Half Moon, and Paradise — are separated by headlands and reached by trails over the hills or by boat. Om beach, shaped roughly like the Om symbol, has the best facilities: beachside shack guesthouses and cafes. Kudle is the longest and closest to town. Half Moon and Paradise are smaller and more secluded, with minimal facilities. The beach trail from town to Paradise beach and back makes an excellent half-day walk.
 
-This place is famous for religious Hindu rituals, as well as it's wonderful (and not so secluded anymore) beaches. These beaches are separated by cliffs. There are four main beaches: Kudle beach, [Om beach](/asia/india/karnataka/gokarna/beaches/om_beach), [Halfmoon beach](/asia/india/karnataka/gokarna/beaches/half_moon_beach), and [Paradise beach](/asia/india/karnataka/gokarna/beaches/paradise_beach).
-
-More information on
-*Gokarna Travel*
+The town itself has a traditional atmosphere unusual for a beach destination — a car street lined with temple priests' houses, ritual bathing at Kotiteertha tank, and Brahmin-run cafes serving thali meals. The combination of pilgrimage town and beach village is distinctive.

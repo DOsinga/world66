@@ -1,18 +1,9 @@
 ---
 title: "Kudle Beach"
 type: poi
-address: "311 Eugenia Ave Madison, WI  53705"
-email: "wbpotter@wisc.edu"
-latitude: 43.070054
-longitude: -89.445008
+category: "Sight"
+latitude: 14.5297
+longitude: 74.3173
 ---
 
-A fifteen minute walk over the deccan from Gokarn will bring you to Kudle beach. It has a long crescent shape with large rocky hills at either end. Cafes, most of which double as guesthouses, line the forest edge. The beach is relatively flat, meaning the tide comes pretty far. This effect is most appreciated at sunset when you can walk the length of the beach in 2 inches of water. This also makes part of the beach relatively packed sand, which is great for beach soccer and cricket.
-
-
-
-
-
-address: 311 Eugenia Ave Madison, WI 53705
-
-email: wbpotter@wisc.edu
+The closest beach to Gokarna town — a 15-20 minute walk over the headland. A long crescent of white sand with rocky hills at either end. Beachside cafes double as simple guesthouses. The beach is relatively flat so the tide runs far up the sand; sunset walks at low tide are particularly good.

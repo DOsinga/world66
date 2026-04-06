@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Tuguegarao City"
+title: "When to Go"
 type: section
 ---
 

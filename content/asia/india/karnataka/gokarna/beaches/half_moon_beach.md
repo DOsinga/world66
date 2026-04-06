@@ -1,16 +1,9 @@
 ---
-title: "Half moon beach"
+title: "Half Moon Beach"
 type: poi
-latitude: 14.517973
-longitude: 74.330944
+category: "Sight"
+latitude: 14.5180
+longitude: 74.3309
 ---
 
-A cliff separates Half moon beach from Om beach. It's a wonderful 20
-mins hike walking along the sea face of the cliff. There is one shack
-on this beach, which also turns into a paddy field in the monsoon
-season. Typical Indian village-like huts are spread over a small area
-adjoining the beach. Enjoy drawing water from a well and a bath under
-the stars, if you stay at this place.
-
-**Contributors**
-January 18, 2006
+A small beach separated from Om beach by a cliff, reached by a 20-minute walk along the cliff face. More secluded than Om or Kudle; minimal facilities (one or two shacks). In the monsoon the shack area reverts to a paddy field. Basic huts with well water.

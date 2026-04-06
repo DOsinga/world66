@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Beirut"
+title: "Getting Around"
 type: section
 ---
 

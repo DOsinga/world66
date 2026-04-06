@@ -1,10 +1,9 @@
 ---
-title: "Lehár-Villa"
+title: "Lehár Villa"
 type: poi
-address: "Lehárkai 8, A-4820 Bad Ischl"
-phone: "+43 (0)6132 26992 or 30114"
+category: "Museum"
+latitude: 47.7117
+longitude: 13.6241
 ---
 
-Guided tours possible (in German, English, French), entrance fee/person 60 ATS  
-
-Lehár-
+The summer home of operetta composer Franz Lehár (*The Merry Widow*), preserved as a museum with his personal effects, scores, and memorabilia. Guided tours in German, English, and French.

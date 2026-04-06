@@ -1,9 +1,9 @@
 ---
 title: "Rettenbachklamm"
 type: poi
-address: "Forststrasse zur Rettenbachalm, A-4820 Bad Ischl"
-email: "erlebnisstadt@badischl.at"
-phone: "+43 (0)6132 27757-0"
+category: "Sight"
+latitude: 47.6950
+longitude: 13.6400
 ---
 
-Natural ravine, very interesting
+A narrow natural gorge on the outskirts of Bad Ischl, with a walking path along the stream through mossy rock walls. A pleasant half-day outing.

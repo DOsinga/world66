@@ -1,8 +1,9 @@
 ---
 title: "Kaiservilla"
 type: poi
-address: "Jainzen 38, A-4820 Bad Ischl"
-phone: "+43 (0)6132 23241"
+category: "Sight"
+latitude: 47.7094
+longitude: 13.6281
 ---
 
-Guided tours in German, English, French and Italian possible, accessible for handicapped, entrance fee/person 130
+The summer residence of Emperor Franz Joseph I, where he spent every summer from 1849 until his death in 1916. Guided tours in German, English, French, and Italian. The interior preserves the emperor's study, the hunting room, and personal effects largely as he left them.

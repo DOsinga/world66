@@ -1,11 +1,11 @@
 ---
-title: "Plantage"
-type: neighbourhood
-latitude: 52.3681
-longitude: 4.9130
 image: plantage.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Hortus_Botanicus_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:De_Plantage_(17).jpg
+latitude: 52.3681
+longitude: 4.913
+title: Plantage
+type: neighbourhood
 ---
 
 Plantage is Amsterdam's most quietly elegant neighbourhood — wide, tree-lined streets laid out in the mid-19th century for a prosperous Jewish community, and now home to an improbable concentration of cultural institutions within a few minutes' walk of each other. Artis Zoo, the Hortus Botanicus, the Dutch Resistance Museum, and the Scheepvaartmuseum (Maritime Museum) are all here, alongside the Bimhuis jazz club and the Hermitage-turned-Rembrandthuis annex.

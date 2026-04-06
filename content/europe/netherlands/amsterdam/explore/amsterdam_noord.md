@@ -1,11 +1,11 @@
 ---
-title: "Amsterdam Noord"
-type: neighbourhood
+image: amsterdam_noord.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:NDSM%20werf%20Amsterdam%20%2815411760015%29.jpg
 latitude: 52.3926
 longitude: 4.9033
-image: amsterdam_noord.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:NDSM_wharf_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+title: Amsterdam Noord
+type: neighbourhood
 ---
 
 Amsterdam Noord (North Amsterdam) is the city's fastest-changing neighbourhood and currently its most interesting. Separated from the city centre by the IJ waterway, it was historically the working-class counterpart to the prosperous south — shipyards, chemical plants, and large housing estates — and has spent the last fifteen years reinventing itself without entirely losing its industrial character. The transformation accelerated when the free ferry from Central Station became reliable and frequent; Noord is now a destination rather than an afterthought.

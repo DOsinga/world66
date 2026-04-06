@@ -1,11 +1,11 @@
 ---
-title: "Oud-West"
-type: neighbourhood
-latitude: 52.3681
-longitude: 4.8650
 image: oud_west.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Kinkerstraat_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bilderdijkpark%2C%20Amsterdam.jpg
+latitude: 52.3681
+longitude: 4.865
+title: Oud-West
+type: neighbourhood
 ---
 
 Oud-West (Old West) lies immediately west of Vondelpark and south of the Jordaan — close enough to both to feel their influence but distinct enough to have its own character. It is one of Amsterdam's most pleasant residential neighbourhoods for daily life: less polished than the canal ring, less touristy than the Jordaan, with a high density of independent shops, good food, and streets where people actually live.

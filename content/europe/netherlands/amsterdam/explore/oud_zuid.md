@@ -1,11 +1,11 @@
 ---
-title: "Oud-Zuid"
-type: neighbourhood
-latitude: 52.3520
-longitude: 4.8780
 image: oud_zuid.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Cornelis_Schuytstraat_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amsterdam,_Vondelpark,_at_the_pond-2.jpg
+latitude: 52.352
+longitude: 4.878
+title: Oud-Zuid
+type: neighbourhood
 ---
 
 Oud-Zuid (Old South) is Amsterdam's wealthiest residential neighbourhood — the wide, tree-lined streets south of Vondelpark and the Concertgebouw where the professional and moneyed class has lived since the early 20th century. It is quiet, unhurried, and largely residential, which makes it one of the better parts of the city to simply walk without any specific destination in mind.

@@ -1,11 +1,11 @@
 ---
-title: "De Pijp"
-type: neighbourhood
-latitude: 52.3540
-longitude: 4.8975
 image: de_pijp.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Albert_Cuypstraat_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Albert_Cuypmarkt.jpg
+latitude: 52.354
+longitude: 4.8975
+title: De Pijp
+type: neighbourhood
 ---
 
 De Pijp — "the Pipe," named for the long, narrow streets that run between the ring canals and the Amstel — is where Amsterdam actually eats. The Albert Cuypmarkt, running almost 300 metres down the main street, is Europe's largest open-air market and operates six days a week. It sells food, clothing, household goods, and almost everything else at prices considerably below what you'd find in the shops. The food stalls are the point: raw herring, stroopwafels, Indonesian snacks, Turkish breads, and every variety of Amsterdam's multicultural eating.

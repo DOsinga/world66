@@ -1,11 +1,11 @@
 ---
-title: "Westerpark"
-type: neighbourhood
+image: westerpark.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Gustaaf%20Oosterhuis%2C%20Afb%20OSIM00008005927.jpg
 latitude: 52.3875
 longitude: 4.8703
-image: westerpark.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Westergasfabriek_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+title: Westerpark
+type: neighbourhood
 ---
 
 Westerpark takes its name from the park and the former Westergasfabriek — a Victorian gasworks complex whose ornate brick buildings have been transformed into one of Amsterdam's best cultural and dining destinations. The area sits just north of the Jordaan and west of the ring canals, close enough to the centre to be convenient but far enough to feel genuinely local.

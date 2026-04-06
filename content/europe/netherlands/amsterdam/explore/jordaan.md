@@ -1,11 +1,11 @@
 ---
-title: "The Jordaan"
-type: neighbourhood
+image: jordaan.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Eerste_Leliedwarsstraat.jpg
 latitude: 52.3773
 longitude: 4.8814
-image: jordaan.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Prinsengracht_during_spring.jpg"
-image_license: "CC BY-SA 4.0"
+title: The Jordaan
+type: neighbourhood
 ---
 
 The Jordaan is the neighbourhood Amsterdam is most likely to make you fall in love with. Built in the 17th century as a working-class district outside the main canal ring — the name is thought to derive from the French *jardin* (garden) — it has evolved over four centuries into the city's most charming quarter. The streets are narrow, the canals intimate rather than grand, and the architecture slightly more varied and human-scaled than the patrician canal ring to the east.

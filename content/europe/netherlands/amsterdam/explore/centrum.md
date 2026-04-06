@@ -1,11 +1,11 @@
 ---
-title: "Centrum"
-type: neighbourhood
-latitude: 52.3730
-longitude: 4.8930
 image: centrum.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Amsterdam_Dam_Square.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dam_Square_2024.jpg
+latitude: 52.373
+longitude: 4.893
+title: Centrum
+type: neighbourhood
 ---
 
 Centrum is the historic heart of Amsterdam — the Dam, the Royal Palace, the Beurs van Berlage, and the dense shopping streets between Central Station and the canal ring. It is the most visited part of the city and, at peak times, the most crowded. It is worth understanding what it contains rather than avoiding it entirely.

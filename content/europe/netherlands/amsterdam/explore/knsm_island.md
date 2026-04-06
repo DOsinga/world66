@@ -1,11 +1,11 @@
 ---
-title: "KNSM Island"
-type: neighbourhood
+image: knsm_island.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:KNSM-eiland%2C%20Amsterdam.jpg
 latitude: 52.3754
 longitude: 4.9352
-image: knsm_island.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:KNSM-eiland_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+title: KNSM Island
+type: neighbourhood
 ---
 
 KNSM Island takes its name from the Koninklijke Nederlandse Stoomboot-Maatschappij — the Royal Dutch Steamship Company — whose ships departed from these quays for destinations across the Dutch colonial world. The company and the shipping trade are long gone; in the 1990s the city commissioned a series of large residential blocks on the island as part of the wider Eastern Docklands regeneration, and the result is one of Amsterdam's most architecturally striking residential neighbourhoods.

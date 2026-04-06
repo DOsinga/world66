@@ -1,11 +1,11 @@
 ---
-title: "Eastern Docklands"
-type: neighbourhood
-latitude: 52.3736
-longitude: 4.9320
 image: eastern_docklands.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Java_eiland_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:COLLECTIE%20TROPENMUSEUM%20Afscheepsteiger%20Tarakan%2014%20TMnr%2010010382.jpg
+latitude: 52.3736
+longitude: 4.932
+title: Eastern Docklands
+type: neighbourhood
 ---
 
 The Eastern Docklands — Java Island, KNSM Island, Borneo Island, and Sporenburg — are among the most significant urban planning projects in 1990s Europe. The old harbour basins east of Central Station were decommissioned in the 1980s; the city then commissioned a series of housing projects that gave different architects control over different islands and peninsulas. The result is a concentrated urban architecture show unlike anything else in Amsterdam.

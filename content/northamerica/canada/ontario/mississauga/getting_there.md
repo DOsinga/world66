@@ -1,21 +1,12 @@
 ---
 title: "Getting There"
 type: section
-type: "By Rail"
 ---
 
-With its close proximity to Toronto, it can be surprising that the City of Mississauga benefits from much of the same transportation offerings as its neighbouring city of Toronto.
+Mississauga is easy to reach, largely because Toronto Pearson International Airport (YYZ) is technically within city limits. Most visitors arrive by air and never realize they have landed in Mississauga rather than Toronto.
 
-GO Transit is the inter-regional carrier that radiates from Downtown Toronto (Union Station) and serves Mississauga at the Square One Transit Center in its City Center. In addition, the GO Train operates the Lakeshore Corridor service between the QEW and Lake Ontario, serving Long Branch, Port Credit and Clarkson stations.
+By rail, GO Transit runs commuter trains along the Lakeshore West corridor from Toronto's Union Station, stopping at Clarkson, Port Credit, and Long Branch. The ride takes about 30 minutes. GO also operates bus services connecting Mississauga to Hamilton, Burlington, and Oakville.
 
-Greyhound offers regular service to many national locations, also from Square One near Hurontario Street.
+Greyhound and other intercity bus lines serve the Square One terminal near Hurontario Street, with regular departures to destinations across Ontario.
 
-The Lester Pearson (Toronto) Airport (IATA Code-YYZ) is also technically in the community of Malton in Mississauga. The airport serves a number of national and international carriers to destinations throughout the world.
-
-Mississauga Transit is the local transportation carrier serving virtually all corners of the city with frequent service Monday through Friday, and service on a majority of the lines on weekends.
-
-### GO Transit (rail portion)
-
-Information forthcoming:
-
-type: By Rail
+By car, Mississauga sits at the junction of the Queen Elizabeth Way (QEW) and Highway 403, with easy access from Highway 401 to the north. Traffic can be brutal during rush hour, but off-peak driving from downtown Toronto takes about 30 minutes.

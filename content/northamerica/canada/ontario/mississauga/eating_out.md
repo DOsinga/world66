@@ -1,23 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "4559 hurontario st"
-price: "not bad for thali"
-type: "Indian and Pakistani"
-latitude: 43.607873
-longitude: -79.64985
 ---
 
-indianresturants
-
-### [saravana bavan](/northamerica/canada/ontario/mississauga/eating_out/saravana_bavan)
-
-this is where u can eat a south indian sambar and rice and dosai if u r ready for it.
-
-type: Indian and Pakistani
-
-
-
-address: 4559 hurontario st
-
-PriceOfMenu: not bad for thali
+Mississauga's dining scene reflects its extraordinary diversity. The stretch of Hurontario Street between Dundas and Britannia is packed with South Asian restaurants -- Tamil, Pakistani, Bangladeshi, Sri Lankan -- many of them excellent and inexpensive. Port Credit, down by the lake, offers a more conventional mix of Italian restaurants, pubs, and casual bistros along Lakeshore Road.

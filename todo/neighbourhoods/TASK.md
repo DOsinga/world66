@@ -141,12 +141,18 @@ For each neighbourhood, add POI files for the streets, squares, and parks that g
 - **City-level** (add to `shopping/`, `bars_and_cafes/`, or `eating_out/` with a `neighbourhood:` tag): only if the street is a genuine destination on its own — a famous market street, a well-known nightlife strip, a park people travel across the city for.
 - **Neighbourhood-level only** (store in `explore/<slug>/`): streets, squares, and parks that reward knowing about but are not city-level destinations. A beautiful canal that only locals seek out. A neighbourhood market. A local park. The kind of place that makes a neighbourhood feel like somewhere, not just a location.
 
-**Aim for 2–4 neighbourhood-local POIs per neighbourhood.** Examples of the right kind of thing:
+**Aim for 3–6 neighbourhood-local POIs per neighbourhood**, covering the full geography — not just one famous street, but the grid of streets and spaces that make the area navigable. Think about what a resident would point a visitor to:
 
-- A park or green space (e.g. Oosterpark in Oost, Sarphatipark in De Pijp)
-- A daily-life shopping street or market (e.g. Dappermarkt, Linnaeusstraat)
-- A canal, square, or waterfront worth walking (e.g. Bloemgracht in the Jordaan)
-- A street that defines the neighbourhood's character (e.g. Kinkerstraat in Oud-West)
+- The park or green space people use daily (e.g. Oosterpark in Oost, Sarphatipark in De Pijp)
+- The main commercial artery (e.g. Ferdinand Bolstraat in De Pijp, Kinkerstraat in Oud-West)
+- The market, if there is one (e.g. Dappermarkt in Oost, Albert Cuypmarkt in De Pijp — city-level)
+- The cross-street or boundary road that defines the neighbourhood's shape (e.g. Ceintuurbaan in De Pijp)
+- A quieter canal or side street that gives the area its character (e.g. Bloemgracht in the Jordaan)
+- A secondary shopping or restaurant street (e.g. Van Woustraat in De Pijp)
+
+For a neighbourhood like De Pijp, the right coverage is: Albert Cuypmarkt (city-level, in `shopping/`), Ferdinand Bolstraat, Ceintuurbaan, Van Woustraat, and Sarphatipark — five entries that between them describe the shape and character of the neighbourhood. That is the level of detail to aim for.
+
+City-level streets that also belong to a neighbourhood should be added to the relevant city section (`shopping/`, `bars_and_cafes/`, etc.) with `neighbourhood: "Exact Title"` — they will appear in both city listings and the neighbourhood page. Neighbourhood-local POIs go in `explore/<slug>/` only and appear only on the neighbourhood page.
 
 Use `category: "Street"`, `category: "Square"`, or `category: "Park"`. Always include coordinates.
 

@@ -1,12 +1,9 @@
 ---
-title: "Bars and Cafes in Santa Barbara"
+title: "Bars and Cafes"
 type: section
 ---
 
-**The Best Seafood Bar-Cafe in Santa Barbara
-**
-
-One of the best **Santa Barbara Bars and Cafes** is The Endless Summer bar-caf&eacute;. In fact, The Endless Summer bar-caf&eacute; has been specifically mentioned as one of the best places to go for seafood in *Sunset Magazine*. The Endless Summer bar-caf&eacute; is located right along the waterfront, so while enjoying a tasty meal, you can enjoy the view of the harbor.
+Santa Barbara has a lively waterfront bar and café scene, particularly along the harbour. One of the best is The Endless Summer bar-café. In fact, The Endless Summer bar-caf&eacute; has been specifically mentioned as one of the best places to go for seafood in *Sunset Magazine*. The Endless Summer bar-caf&eacute; is located right along the waterfront, so while enjoying a tasty meal, you can enjoy the view of the harbor.
 
 **D&eacute;cor**
 

@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Rameshwaram"
+title: "Getting Around"
 type: section
 ---
 

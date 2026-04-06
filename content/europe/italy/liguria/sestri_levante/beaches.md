@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Sestri Levante"
+title: Beaches
 type: section
 ---
 

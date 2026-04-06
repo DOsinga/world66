@@ -1,8 +1,10 @@
 ---
-title: "Bunbury"
+title: Bunbury
 type: location
 latitude: -33.32678
 longitude: 115.636698
+done:
+  location_cleanup: 2026-04-06
 ---
 
 For many, Bunbury is the gateway to the more famous tourist and wine centres of Busselton, Margaret River, Dunsborough, Augusta and Yallingup that occupy places around the Naturaliste and Leeuwin Capes south of Bunbury. Indeed at Augusta, the Indian and Southern Oceans meet.

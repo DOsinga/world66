@@ -1,65 +1,38 @@
 ---
-title: "Gastronomy in Riviera delle Palme"
-type: location
-type: "general"
+title: Gastronomy
+type: section
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Although inspired by traditional “Genoese” cuisine, whose fundamental ingredients are olive oil and herbs (parsley, basil, thyme, marjoram, oregano, rosemary, etc.), the seafood and vegetable dishes of the Riviera delle Palme, from Varazze to Andora, present the tourist and gourmet who wishes to explore the character of the local cooking with original variations on the theme. A cuisine that is in the first place much “greener,” commencing with the filling for ravioli – once considered “the queen of first courses” – in which vegetables (beet, borage, chicory and endives) predominate over meat and eggs. Even the classic “Genoese stuffed breast of veal” contains much more egg, along with brain, marrow and sweetbreads that do not appear in the Riviera version. In both dishes, however, we find, alongside cheese, the indispensable flavor of the sweet marjoram also known as persa or persiga (at Albenga and Alassio): of undoubted Levantine, or Persian, origin, it is a testimony to maritime trade links with faraway places. The inland region, which borders to the north on the province of Alessandria and, though only to a minimal extent, that of Asti, while opening to the west on the “Provincia Granda” of Cuneo, feels the beneficial influence of this area of “haute cuisine” and is able to offer an extraordinary series of typical specialties: highly original and tasty, they range from “white polenta” to “bacialli” and the “tire” of Altare. Each valley, each town, has interesting culinary ideas to offer to the curious visitor. A real opportunity for the rediscovery of ancient flavors that have not yet been lost. Without of course forgetting the “traditional” dishes, modern chefs are always coming up with new and much-appreciated combinations of seafood and garden produce, such as the wonderful fantasies of “pesce spade in carpaccio” (raw swordfish) or “polpo tiepido in salsa Rossese” (warm octopus in Rossese sauce), “linguine con scampi e zucchine” and the “spunciacurrente” (a kind of small octopus) fried, stewed or simply boiled and served with a dash of taggiasca extra virgin olive oil.
+The cooking of the Riviera delle Palme is rooted in Genoese tradition — olive oil, fresh herbs, seafood — but it has its own character. The cuisine here is greener and lighter than what you find in Genoa, with vegetables playing a bigger role than meat in many classic dishes.
 
-### [Farinata](/europe/italy/liguria/rivieradellepalme/gastronomy/farinata)
+Take ravioli, once considered the queen of first courses along this coast. Where the Genoese version leans on meat and eggs, the local filling is built around beet, borage, chicory and endives. Even the classic stuffed breast of veal uses more egg and less of the offal you find in the Genoese recipe. What ties it all together is sweet marjoram — called *persa* or *persiga* around [Albenga](/europe/italy/liguria/rivieradellepalme) and [Alassio](/europe/italy/liguria/rivieradellepalme/alassio) — an herb of Persian origin that speaks to centuries of maritime trade.
 
-Undoubtedly the most traditional and savory specialty in the whole of Liguria is the “farinata di ceci” or chickpea porridge. At Savona it is called turtellassu and considered much “thinner and crisper” than the classic Genoese fainà. In Savona they also make a white porridge from wheat flour and – another pride of the city that is prepared at around five in the afternoon in certain alleys in the old port area – the “fette con le fugassette,” in other words panissa made from chickpea flour, cooled and cut into thin slices, fried in good olive oil and [more..](/europe/italy/liguria/rivieradellepalme/gastronomy/farinata)
+### Farinata
 
-type: general
+The most traditional street food in all of Liguria is *farinata di ceci*, a thin, crispy chickpea pancake baked in a wood-fired oven. In Savona they call it *turtellassu* and insist theirs is thinner and crispier than the Genoese *fainà*. Savona also makes a white version from wheat flour. In certain alleys near the old port, around five in the afternoon, you can find *fette con le fugassette* — slices of *panissa* (chickpea flour set into a firm block, cut thin, and fried in olive oil).
 
+### Extra virgin olive oil
 
+Cold-pressed extra virgin olive oil is the undisputed foundation of Ligurian cooking. The *taggiasca* olive, grown in the valleys of Andora and the Albenga plain, produces an oil with a delicate, slightly fruity flavour and sometimes a hint of almonds. Other local varieties worth tasting include *Colombaia* and *Pinola*, the latter with a distinctive taste of pine kernels.
 
-[[rate it]](/europe/italy/liguria/rivieradellepalme/gastronomy/farinata)
+### Artichokes
 
-### [Extra virgin olive oil](/europe/italy/liguria/rivieradellepalme/gastronomy/extravirginoliveoil)
+The spiny artichoke of Albenga is a genuine delicacy. Unlike most artichoke varieties, this one can be eaten raw in *pinzimonio* — dipped in extra virgin olive oil, vinegar, and salt. It is equally good breaded and fried, baked in an Easter artichoke pie, or stewed with lamb or kid.
 
-Extra virgin olive oil di primo ruggio, i.e. cold pressed, made by traditional methods, is the undisputed sovereign of Ligurian cuisine. The oil made from the taggiasca olive, grown in the valleys of Andora and the Albenga region as well as in the area around Imperia, has a delicate, slightly fruity flavor, sometimes with an aftertaste of almonds. Other oils from the province of Savona that are prized for their flavor are the ones produced from olives of the Colombaia or Colombara, Frantoio and Pinola varieties. The latter, with its delicate taste of pine kernels, is [more..](/europe/italy/liguria/rivieradellepalme/gastronomy/extravirginoliveoil)
+### Purple asparagus
 
-type: general
+The purple asparagus of Albenga is one of the finest vegetables in Italian cooking. Prized as early produce, it turns up on the menus of serious restaurants well beyond Liguria. If you see it on a menu here, order it.
 
+### Basil and pesto
 
+Ligurian basil — *baxiaicò* in dialect — grown in the bracing coastal air, is the essential ingredient in pesto. Greenhouse cultivation means it is available year-round, but connoisseurs insist the best pesto comes in winter, made with small, pale green leaves grown on a balcony in the slanting light of a *carrugio* alley.
 
-### [Artichockes](/europe/italy/liguria/rivieradellepalme/gastronomy/artichockes)
+### Truffles
 
-One of the most delicious specialties of the Riviera Ligure delle Palme is undoubtedly the spiny artichoke of Albenga. With the hard external petals removed – be careful not to prick yourself – this particular variety of artichoke is the only one that can be eaten in pinzimonio, i.e. raw with a dip made of extra virgin olive oil, vinegar, salt and, if desired, pepper. The artichokes of this region are also much appreciated “breaded” and fried, in the classic Easter dish of artichoke pie, or stewed with lamb or even better kid.
+The most unexpected find in the province of Savona is truffles. A few kilometres past the Colle di Cadibona, in the southern spur of the Langhe between Cairo Montenotte, Millesimo, Carcare and [Dego](/europe/italy/liguria/rivieradellepalme/dego) — especially in the woods of Santa Giulia — you can find both black truffles (comparable to those of Norcia and Périgord) and the even more prized white truffle. This is the only place in Liguria where truffles grow.
 
-type: general
+### Wines
 
-
-
-### [Wines](/europe/italy/liguria/rivieradellepalme/gastronomy/wines)
-
-An extraordinary range of typical wines provide a worthy accompaniment to all the culinary specialties of the stretch of coast between Varazze and Andora, from fish dishes to those based on vegetables and meat, especially white meats like rabbit, lamb and kid. There is a marked preponderance of white wines, in addition to the rosé called Rossese d’Albenga and Ormeasco. Here we give a list of them with their principal characteristics:
-
- **VERMENTINO (D.O.C.) –** a clear, straw yellow in color, sometimes with golden reflections, it has a full, [more..](/europe/italy/liguria/rivieradellepalme/gastronomy/wines)
-
-type: general
-
-
-
-### [Truffle](/europe/italy/liguria/rivieradellepalme/gastronomy/truffle)
-
-The most unexpected surprise in the province of Savona, and found nowhere else in Liguria, is the seductive truffle. A few kilometers beyond the Colle di Cadibona, in that extreme southern spur of the Langhe Cuneensi comprised between the communes of Cairo Montenotte, Millesimo, Carcare and Dego – and especially in the wood of Santa Giulia – it is possible to find not only the “black truffle”, a more or less close relative of the one from Norcia and even that of Périgord, the honor and pride of French cooking, but also the even more strongly-scented white [more..](/europe/italy/liguria/rivieradellepalme/gastronomy/truffle)
-
-type: general
-
-
-
-### [Basil](/europe/italy/liguria/rivieradellepalme/gastronomy/basil)
-
-Ligurian basil (baxiaicò in the local dialect), grown on the coast in the bracing sea air, is the fundamental ingredient in the classic pesto sauce. Thanks to cultivation in greenhouses, it is now available all the year round. Indeed the best time to taste it – according to the well-informed gourmet – is in the winter, made with basil from a hothouse or grown on a balcony, in the slanting rays of sunlight of one of the Ligurian alleys known as carruggi, with its small, pale green leaves and intoxicating, unique scent. At the end of spring, on the other hand, [more..](/europe/italy/liguria/rivieradellepalme/gastronomy/basil)
-
-type: general
-
-
-
-### [Asparagus](/europe/italy/liguria/rivieradellepalme/gastronomy/asparagus)
-
-The purple asparagus of Albenga may rightly be considered one of the most refined specialties not just of Ligurian cooking but of Grande Cuisine in general. Highly appreciated in numerous dishes (especially when it is considered “fine early produce”), it is given pride of place on the menus of the best restaurants, even outside the region.
-
-type: general
+The stretch of coast between Varazze and Andora produces a fine range of wines to match the local cooking. White wines dominate, led by **Vermentino** (DOC) — straw yellow, sometimes with golden reflections, full and dry. For reds, look for **Rossese d'Albenga**, a rosé with real character, and **Ormeasco**, a sturdy red that pairs well with the local rabbit, lamb and kid dishes.

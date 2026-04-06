@@ -78,11 +78,27 @@
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
-      {% if page.page_type == "section" %}{{ page.title }}{% else %}Highlights{% endif %}
+      {% if page.page_type == "section" or page.page_type == "neighbourhood" %}{{ page.title }}{% else %}Highlights{% endif %}
     </h3>
     <ul class="sidebar-nav">
       {% for poi in pois %}
       <li><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if neighbourhood_page %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ neighbourhood_page.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for poi in neighbourhood_pois %}
+      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
+        <a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>
+      </li>
       {% endfor %}
     </ul>
   </div>
@@ -148,7 +164,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
-{% if page.page_type == "section" and pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" %}{% if pois %}
 {% if poi_categories %}
 <div class="poi-filter-bar">
   <button class="poi-filter-btn poi-filter-active" data-filter="">All</button>
@@ -164,7 +180,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   <tbody>
     {% for poi in pois %}
     <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
-      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>{% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}</td>
       <td class="poi-table-details">
         {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
         {% for key, value in poi.properties.items %}
@@ -179,6 +195,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
           {% endif %}
         </span>
         {% endfor %}
+        {% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}
       </td>
     </tr>
     {% endfor %}
@@ -207,6 +224,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </script>
 {% endif %}
 {% endif %}
+{% endif %}
 
 {% if tags %}
 <div class="tags">
@@ -220,6 +238,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 <div class="story-box">
   <div class="story-box-label">A story</div>
   {{ page.meta.story }}
+</div>
+{% endif %}
+
+{% if neighbourhood_page %}
+<div class="neighbourhood-ref">
+  Part of <a href="{{ neighbourhood_page.get_absolute_url }}">{{ neighbourhood_page.title }}</a>
 </div>
 {% endif %}
 
@@ -245,10 +269,22 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 
   {% if not is_continent %}
   var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
+  var mapOptions = {
+    isPoi: {{ is_poi|yesno:"true,false" }},
+  };
   {% endif %}
   var bgMap = null;
   var bgInited = false;
+
+  // After init or after hero resize, pan so the POI marker sits in the
+  // visible hero strip rather than behind the page content.
+  function poiPanToHero(animate) {
+    {% if not is_continent %}
+    if (bgMap && mapOptions.isPoi && markers.length === 1) {
+      panMarkerToHero(bgMap, markers[0].lat, markers[0].lng, animate);
+    }
+    {% endif %}
+  }
 
   function initBgMap() {
     if (bgInited || !bgMapEl) return;
@@ -271,7 +307,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     document.body.style.backgroundImage = 'none';
     if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
     if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
-    if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
+    if (!bgInited) {
+      initBgMap();
+    } else if (bgMap) {
+      bgMap.invalidateSize();
+      requestAnimationFrame(function() { poiPanToHero(false); });
+    }
   }
 
   function setPhotoMode() {
@@ -289,13 +330,14 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   initBgMap();
   {% endif %}
 
-  // Expand/collapse hero strip
+  // Expand/collapse hero strip — re-pan after the CSS transition (0.4s) finishes
   if (hero && heroExpandBtn) {
     heroExpandBtn.addEventListener('click', function() {
       heroExpanded = !heroExpanded;
       hero.classList.toggle('hero-expanded', heroExpanded);
       heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
       heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
+      setTimeout(function() { poiPanToHero(true); }, 420);
     });
   }
 })();

@@ -90,6 +90,17 @@ class Page:
     def category(self):
         return self.meta.get("category", "")
 
+    @property
+    def excerpt(self):
+        """Plain-text excerpt of body, ~220 characters, markdown stripped."""
+        import re
+        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', self.body or '')  # links
+        text = re.sub(r'[*_`#>]', '', text)
+        text = ' '.join(text.split())
+        if len(text) > 220:
+            text = text[:220].rsplit(' ', 1)[0] + '\u2026'
+        return text
+
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")
@@ -121,7 +132,7 @@ class Page:
                 page = _load_page_from_file(entry, self.path + "/" + entry.stem)
                 if not page:
                     continue
-                if page.page_type == "section":
+                if page.page_type in ("section", "neighbourhood"):
                     sections.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
@@ -133,7 +144,7 @@ class Page:
                 if child:
                     if child.page_type == "location":
                         locations.append(child)
-                    elif child.page_type == "section":
+                    elif child.page_type in ("section", "neighbourhood"):
                         sections.append(child)
 
         return sections, locations, pois
@@ -156,6 +167,65 @@ class Page:
                 if page:
                     pois.append(page)
         return pois
+
+
+    def neighbourhood_pois(self):
+        """For neighbourhood pages: find POIs from the city's sections tagged with neighbourhood: matching this title."""
+        # Neighbourhood path is city/explore/slug — city is two levels up.
+        parts = self.path.rsplit("/", 2)
+        if len(parts) < 3:
+            return []
+        city_path = parts[0]
+        city_dir = CONTENT_DIR / city_path
+        if not city_dir.is_dir():
+            return []
+
+        title = self.title
+        pois = []
+
+        # City-section POIs tagged with neighbourhood: "Title"
+        for section_dir in sorted(city_dir.iterdir()):
+            if not section_dir.is_dir() or section_dir.name == "explore":
+                continue
+            for poi_file in sorted(section_dir.iterdir()):
+                if not poi_file.is_file() or poi_file.suffix != ".md":
+                    continue
+                result = _load_md(poi_file)
+                if not result:
+                    continue
+                meta, _ = result
+                if meta.get("neighbourhood") == title:
+                    poi_path = city_path + "/" + section_dir.name + "/" + poi_file.stem
+                    page = _load_page_from_file(poi_file, poi_path)
+                    if page:
+                        pois.append(page)
+
+        # Neighbourhood-local POIs stored in explore/<slug>/ subdirectory
+        local_dir = CONTENT_DIR / self.path
+        if local_dir.is_dir():
+            for poi_file in sorted(local_dir.iterdir()):
+                if poi_file.is_file() and poi_file.suffix == ".md":
+                    page = _load_page_from_file(poi_file, self.path + "/" + poi_file.stem)
+                    if page and page.page_type == "poi":
+                        pois.append(page)
+
+        return pois
+
+
+def find_neighbourhood_page(city_path, title):
+    """Find a neighbourhood page in city/explore/ by title."""
+    explore_dir = CONTENT_DIR / city_path / "explore"
+    if not explore_dir.is_dir():
+        return None
+    for entry in sorted(explore_dir.iterdir()):
+        if entry.is_file() and entry.suffix == ".md":
+            result = _load_md(entry)
+            if not result:
+                continue
+            meta, _ = result
+            if meta.get("title") == title:
+                return _load_page_from_file(entry, city_path + "/explore/" + entry.stem)
+    return None
 
 
 def _load_page_from_file(file_path, url_path):

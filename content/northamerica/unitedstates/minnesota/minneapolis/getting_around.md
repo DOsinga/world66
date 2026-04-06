@@ -3,6 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Most people don't realize it, but Minneapolis-St. Paul has an excellent transportation system. The Metro Transit services all of Minneapolis-St. Paul and its surrounding suburbs. Unlike a lot of cities with public transportation, Metro Transit actually runs on a scheduled timetable. Information regarding fares, schedules, routes, and a trip planner can be found at metrotransit.org.
-
-In 2004, the Twin Cities added the Hiawatha Light Rail which travels from Minneapolis to St. Paul, making stops at Mall of America, Fort Snelling, and downtown Minneapolis. For more information, check out the Metro Transit website.
+Minneapolis has solid public transit for a mid-sized American city. Metro Transit runs buses across the metro area on a reliable timetable, and the light rail system connects downtown Minneapolis to the airport, Mall of America, and downtown St. Paul. The Nice Ride bike-share system is excellent in warmer months, and the city's extensive network of bike lanes and off-road trails makes cycling a genuine transportation option, not just recreation. In winter, the downtown skyway system — eleven miles of enclosed, climate-controlled walkways connecting buildings at the second-floor level — lets you move through the city center without stepping outside.

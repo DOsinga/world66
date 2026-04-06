@@ -1,6 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Are independent or foreign films your thing? If so, a stop at the Landmark Lagoon Cinema at 1320 Lagoon Avenue should be on your Minneapolis-St. Paul activity list. Lagoon offers roomy and comfortable seats, plush carpeting, and light fixtures shaped like the moon and trees. If the Lagoon is not showing a film you want to see, try down the street at the Landmark Uptown Theatre at 2906 Hennepin Avenue. Their prime locations in the Uptown District makes both the Lagoon and Uptown very accessible. For more information, go to landmarktheatres.com/Market/Minneapolis/UptownTheatre.htm and landmarktheatres.com/Market/Minneapolis/LagoonCinema.htm.
+Minneapolis has a deep arts and culture scene, an extensive park system, and enough sports to fill every season. The Walker Art Center and its outdoor sculpture garden are essential. The Guthrie Theater, designed by Jean Nouvel, is worth visiting for the building alone. For independent and foreign films, the Landmark Lagoon Cinema at 1320 Lagoon Avenue and the Landmark Uptown Theatre at 2906 Hennepin Avenue are both in the Uptown district and well worth a visit.
+
+The Chain of Lakes offers miles of walking and biking paths. Minnehaha Falls, where Minnehaha Creek drops into the Mississippi gorge, is a short ride from downtown and striking in every season — including winter, when it freezes into an ice sculpture.

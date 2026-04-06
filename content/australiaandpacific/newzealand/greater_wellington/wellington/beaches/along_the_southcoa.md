@@ -1,9 +1,8 @@
 ---
-title: "Along the southcoast"
+title: "South Coast Beaches"
 type: poi
+latitude: -41.3270
+longitude: 174.8050
 ---
 
-From Oriental Parade towards the airport, there are hundreds of small private beaches where you can have your privacy and picnic. The largest one is in Miramar where everyones favorite cafe is, Chocolate Fish.
-
-**Contributors**
-January 02, 2007
+From Oriental Parade heading towards the airport, there are dozens of small bays tucked between the rocks — most are quiet and uncrowded. The south coast beyond Lyall Bay is wilder still, with Red Rocks a popular walk where you can spot New Zealand fur seals in winter.

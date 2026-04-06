@@ -92,6 +92,39 @@ How to arrive — airports, train stations, bus connections.
 
 Transport within the city — metro, buses, taxis, walking, bike rental.
 
+### Explore by Neighbourhood (`explore.md`)
+
+For major cities, an `explore` section provides a neighbourhood-by-neighbourhood guide to the city. Each neighbourhood lives in `explore/` as its own file with `type: neighbourhood`.
+
+```yaml
+---
+title: "Explore by Neighbourhood"
+type: section
+---
+
+Brief intro describing how the city divides into areas and why neighbourhood-by-neighbourhood exploration rewards the visitor.
+```
+
+Each neighbourhood file:
+
+```yaml
+---
+title: "Soho"
+type: neighbourhood
+latitude: 51.5137
+longitude: -0.1337
+image: soho.jpg
+image_source: "https://commons.wikimedia.org/wiki/File:..."
+image_license: "CC BY-SA 4.0"
+---
+
+[3–5 paragraphs describing the neighbourhood's character, history, streets, and what draws people there.]
+```
+
+The `neighbourhood:` tag on POIs in other sections (e.g. `things_to_do/`, `eating_out/`) connects them to their neighbourhood page. The value must match the neighbourhood's `title` exactly (case-sensitive). POIs remain in their original sections — the neighbourhood page just references them.
+
+Major world capitals should have 15–25 neighbourhood entries. Smaller cities 8–12.
+
 ### Books (`books.md`)
 
 Novels and literature that help understand the place — its history, its people, its character. Not travel guides, not history books. The test: would a traveller who reads this understand the city differently?

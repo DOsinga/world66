@@ -90,6 +90,17 @@ After creating the neighbourhood files, go through the city's existing sections 
 
 This makes the POI show up on the neighbourhood page automatically without removing it from its section.
 
+## Cities with sub-locations
+
+Some major cities (Tokyo, London boroughs, etc.) have their districts or wards stored as separate child locations in the hierarchy — e.g. `tokyo/shinjuku.md` with `type: location`. When you encounter this:
+
+1. **Move them into the explore section.** Convert each sub-location to a neighbourhood file in `explore/`, changing `type: location` to `type: neighbourhood`.
+2. **Collapse the content.** Merge any content from the sub-location's own sections (things_to_do, eating_out, etc.) into the neighbourhood page body — cite the key POIs inline rather than keeping them as separate files under the old sub-location.
+3. **Redirect the old path.** Add a redirect in `redirects.json`: `"old/path/subdistrict" → "city/explore/subdistrict"`.
+4. **Delete the old sub-location files.** Remove the `.md` file and its directory once its content has been merged.
+
+The goal is a single canonical city page where neighbourhoods are part of `explore/`, not scattered sub-locations that duplicate the hierarchy.
+
 ## What makes a good neighbourhood list
 
 Cover the full city — don't only do the tourist centre. Include:

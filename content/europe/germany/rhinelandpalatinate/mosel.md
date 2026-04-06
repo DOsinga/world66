@@ -1,8 +1,10 @@
 ---
-title: "Mosel"
+title: Mosel
 type: location
-latitude: 50.1810
-longitude: 7.2340
+latitude: 50.181
+longitude: 7.234
+done:
+  location_cleanup: 2026-04-06
 ---
 
 The river Mosel, known in ancient times by its Latin name "Mosella", has been the artery of this region for two thousand years. Caesar mentioned the Mosel and its people, and the Roman poet Ausonius dedicated his lyric poem "Mosella" to the valley.

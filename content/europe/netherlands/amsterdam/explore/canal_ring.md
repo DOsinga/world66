@@ -1,11 +1,11 @@
 ---
-title: "Canal Ring"
-type: neighbourhood
+image: canal_ring.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(8697325011).jpg
 latitude: 52.3712
 longitude: 4.8882
-image: canal_ring.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Amsterdam_Canals_at_night.jpg"
-image_license: "CC BY-SA 4.0"
+title: Canal Ring
+type: neighbourhood
 ---
 
 The Canal Ring (Grachtengordel) is the formal centre of historic Amsterdam — the UNESCO World Heritage site that gives the city its defining image. Three concentric semicircular canals — Herengracht (Lords' Canal), Keizersgracht (Emperor's Canal), and Prinsengracht (Prince's Canal) — were dug between 1613 and 1663 during Amsterdam's Golden Age, when the city was the wealthiest in the world. The houses lining them were built for the merchant elite who financed the Dutch East India Company.

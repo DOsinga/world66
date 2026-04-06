@@ -1,11 +1,11 @@
 ---
-title: "Rembrandtplein"
-type: neighbourhood
-latitude: 52.3660
-longitude: 4.8966
 image: rembrandtplein.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Rembrandtplein_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:NieuwRembrandtplein.JPG
+latitude: 52.366
+longitude: 4.8966
+title: Rembrandtplein
+type: neighbourhood
 ---
 
 Rembrandtplein is Amsterdam's other main nightlife square — less polished than Leidseplein and, as a result, more of a genuine cross-section of who actually goes out in this city. The square is named for the large bronze statue of Rembrandt at its centre, which is surrounded by bronze reproductions of the figures from the Night Watch — an installation that reads as either charming or excessive depending on your disposition.

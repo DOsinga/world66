@@ -1,11 +1,11 @@
 ---
-title: "Leidseplein"
-type: neighbourhood
-latitude: 52.3640
-longitude: 4.8828
 image: leidseplein.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Leidseplein_-_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Stadsschouwburg%2C_Amsterdam_2335.jpg
+latitude: 52.364
+longitude: 4.8828
+title: Leidseplein
+type: neighbourhood
 ---
 
 Leidseplein is the city's primary entertainment square — a wide, irregular space where trams converge, street performers compete for space, and a permanent cluster of bars, cinemas, theatres, and restaurants surrounds the action. The square itself is not beautiful, but the neighbourhood around it is worth knowing: the streets immediately south and west of the square are considerably quieter and contain some of Amsterdam's better cultural institutions.

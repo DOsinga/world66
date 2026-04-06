@@ -1,11 +1,11 @@
 ---
-title: "Negen Straatjes"
-type: neighbourhood
-latitude: 52.3700
-longitude: 4.8858
 image: negen_straatjes.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Negen_Straatjes_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Brug_24_in_de_Hartenstraat_over_de_Herengracht_foto_2.jpg
+latitude: 52.37
+longitude: 4.8858
+title: Negen Straatjes
+type: neighbourhood
 ---
 
 The Nine Streets (Negen Straatjes) occupy nine short connecting streets that link the three major ring canals — Herengracht, Keizersgracht, and Prinsengracht — between Raadhuisstraat and Leidsegracht. The area is roughly the size of a few city blocks, but it has become one of Amsterdam's most compelling shopping districts: independent boutiques, vintage clothing, specialist bookshops, artisan food shops, and a handful of very good cafes.

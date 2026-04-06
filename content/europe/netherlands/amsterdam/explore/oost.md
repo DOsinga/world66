@@ -1,11 +1,11 @@
 ---
-title: "Oost"
-type: neighbourhood
-latitude: 52.3600
-longitude: 4.9260
 image: oost.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Dappermarkt_Amsterdam.jpg"
-image_license: "CC BY-SA 4.0"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Dappermarkt_netherlands.JPG
+latitude: 52.36
+longitude: 4.926
+title: Oost
+type: neighbourhood
 ---
 
 Oost (East Amsterdam) is the city's most ethnically diverse neighbourhood and one of its least visited by tourists, which makes it one of the most interesting. The Dappermarkt, on Dapperstraat, is Amsterdam's most culturally mixed daily market — Moroccan spices, Surinamese rotis, Turkish breads, West African fabrics, and Dutch stroopwafels are sold side by side along a street that feels entirely unlike the tourist-facing parts of the city.

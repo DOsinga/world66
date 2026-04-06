@@ -1,11 +1,11 @@
 ---
-title: "Museum Quarter"
-type: neighbourhood
-latitude: 52.3580
-longitude: 4.8790
 image: museum_quarter.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Rijksmuseum_Amsterdam_-_panoramio_-_Nikolai_Karaneschev.jpg"
-image_license: "CC BY-SA 3.0"
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg
+latitude: 52.358
+longitude: 4.879
+title: Museum Quarter
+type: neighbourhood
 ---
 
 The Museum Quarter is defined by the three great museums that cluster around Museumplein: the Rijksmuseum, the Van Gogh Museum, and the Stedelijk Museum of modern art. It is Amsterdam's densest concentration of world-class institutions, and most visitors who come for the museums do not venture much beyond them — which means the residential streets south of Vondelpark and east toward De Pijp are quieter than they deserve to be.

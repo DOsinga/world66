@@ -1,8 +1,10 @@
 ---
-title: "Lori Marz"
+title: Lori Marz
 type: location
 latitude: 40.907832
 longitude: 44.120832
+done:
+  location_cleanup: 2026-04-05
 ---
 
 The Lori region of Armenia is in the very north, in the center of

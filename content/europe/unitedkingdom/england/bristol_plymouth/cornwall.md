@@ -1,8 +1,10 @@
 ---
-title: 'Cornwall'
+title: Cornwall
 type: location
 latitude: 50.443349
 longitude: -4.624657
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Cornwall is the westernmost part of England. It is a beautiful peninsula where you will find dramatic countryside dotted with ancient stone walls and granite-built farmhouses, framed against a colourful canvas of gorse and verdant fields dropping sharply down rugged cliffs to the sea below. Sea is all around and there are many beach resorts in Cornwall.

@@ -1,8 +1,10 @@
 ---
-title: "Como"
+title: Como
 type: location
 latitude: 45.939476
 longitude: 9.14941
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Located on the Swiss - Italian border, Como is the main metropolitan area of the Lake Como district. Most people visiting that region never leave the lakeside, and that's a shame, because Como is a nice little town to visit. You can walk around the cool shade of the old buildings and soak in that Italian Renaissance atmosphere.

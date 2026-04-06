@@ -1,8 +1,10 @@
 ---
-title: "Bora bora"
+title: Bora bora
 type: location
 latitude: -16.504347
 longitude: -151.736689
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Bora Bora is as close to paradise as you can get without doing anything really drastical. It is the perfect place to spend a relaxed holiday that is filled with activities at the same time. Hardly surprising, watersports are top notch here. 

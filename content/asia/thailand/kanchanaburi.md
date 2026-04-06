@@ -1,8 +1,10 @@
 ---
-title: "Kanchanaburi"
+title: Kanchanaburi
 type: location
 latitude: 14.44019
 longitude: 99.267673
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Visitors may not have heard of this province but it’s likely they know about the nearby bridge over the River Kwai. Many Allied prisoners of war perished during World War II building the infamous Death Railway. The bridge itself is very unassuming; today it’s still used occasionally by local train traffic.

@@ -1,8 +1,10 @@
 ---
-title: "Lugo"
+title: Lugo
 type: location
 latitude: 43.039527
 longitude: -7.456798
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Built by the Romans in the 3rd

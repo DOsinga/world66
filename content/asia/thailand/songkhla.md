@@ -1,8 +1,10 @@
 ---
-title: "Songkhla"
+title: Songkhla
 type: location
 latitude: 6.879022
 longitude: 100.549854
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Songkhla province is in the deep south of Thailand, bordering with the state of Kedah in Malaysia, about 950 km south of Bangkok. 

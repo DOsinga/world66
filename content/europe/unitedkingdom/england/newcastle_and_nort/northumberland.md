@@ -1,8 +1,10 @@
 ---
-title: "Northumberland"
+title: Northumberland
 type: location
 latitude: 55.25
 longitude: -2.000559
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Northumberland is England's most northerly county. This does need saying as Scotland's most northerly was Sutherland! The border between England and Scotland goes from south-west to north-east so that many points in Northmberland are farther north than many towns in south-west Scotland. 

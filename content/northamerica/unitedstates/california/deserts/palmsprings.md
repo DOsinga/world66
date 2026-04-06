@@ -1,8 +1,10 @@
 ---
-title: "Palm Springs"
+title: Palm Springs
 type: location
 latitude: 33.824627
 longitude: -116.540303
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Another haven for rest and relaxation is Palm Springs.

@@ -1,8 +1,10 @@
 ---
-title: "Valletta"
+title: Valletta
 type: location
 latitude: 35.898998
 longitude: 14.513661
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Malta’s capital city called the City of Knights dates from the 16th century. Valletta (pop. 109 000) was one of Europe’s first planned cities with building codes a grid street pattern and garbage and sewage systems. Located on a peninsula Valletta boasts two excellent harbors: Marsamxett Harbour and the Grand Harbour. The fairly compact city can easily be seen in one day although we suggest staying two nights. We like to start by visiting the Upper Barrakka Gardens for a great overview and then follow up by getting a closer view from the harbors (take the inexpensive two-hour cruise).

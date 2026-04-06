@@ -1,8 +1,10 @@
 ---
-title: "Angers"
+title: Angers
 type: location
 latitude: 47.473988
 longitude: -0.551559
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Angers is located on the banks of the Sarthe river just before it flows into the Loire, roughly speaking halfway between [Tours](/europe/france/centre/loirevalley/tours) and [Nantes](/europe/france/normandybrittany/nantes). It is a city with a long history and many monuments to prove it. The famous medieval fortress, the château of King René is one of the major highlights but there are many more interesting sights in town.

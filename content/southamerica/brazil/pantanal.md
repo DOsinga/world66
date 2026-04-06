@@ -1,8 +1,10 @@
 ---
-title: "Pantanal"
+title: Pantanal
 type: location
 latitude: -17.675068
 longitude: -57.455336
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Pantanal - the water continent

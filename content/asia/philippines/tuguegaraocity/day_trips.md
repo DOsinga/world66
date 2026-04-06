@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Tuguegarao City"
+title: "Day Trips"
 type: section
 ---
 

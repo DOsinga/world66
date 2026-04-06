@@ -1,17 +1,6 @@
 ---
-title: "Getting Around in Tuguegarao City"
+title: "Getting Around"
 type: section
 ---
 
-**Tuguegarao City transportation** consists of vehicles, buses and on-foot to travel to your must-see and must-visit places in Tuguegarao City. The sights within the town are available on foot, but traveling to the city or to activities outside of the city requires more effort.
-
-#### **Sleep on the Bus to Tuguegarao
-**
-
-Bus is a safe method of transportation which can take you to Tuguegarao City. From the bus terminal in Quezon City, the bus trip to Tuguegarao will take almost 12 hours. You are advised to leave Manila in the evening so you will have a good sleep on the bus. When you wake up, you will be ready for a fun-filled adventure in Tuguegarao. The bus fare is around 600 to 700 pesos for the trip.
-
-There are numerous of bus companies that travel to Tuguegarao City. Choose a bus company which guarantees you a safe and good trip to your destination.
-
-#### **Jeepney**
-
-Water adventures like kayaking and rafting on the Pinacanauan River or the Cagayan River are among the best things to do Tuguegarao. If you are going to bring your kayak, raft and other equipment for water adventures, jeepney is the best method of transportation for you and your friends. You will need to hire a jeepney at a fixed fare set by the driver. Be sure to negotiate this in advance.
+Within Tuguegarao, jeepneys and tricycles are the main way to get around. Jeepneys follow fixed routes for a flat fare; tricycles (motorcycle sidecars) are for shorter distances and can be negotiated for point-to-point trips. To reach Callao Caves and other sights outside the city, you can hire a jeepney for the day or take a local van. Taxis are available but less common than in Manila. Buses to Manila (9–12 hours, overnight recommended) depart from the Tuguegarao City Grand Terminal; Florida Bus Lines is a reliable choice with reclining sleeper seats.

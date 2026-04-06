@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-You can get to Manokwari by plane, Batavia Air & Merpati Air serve daily flight to and from Manokwari. Batavia Air is flying Jakarta-Makasar-Manokwari-Jayapura and Merpati Air is flying Jakarta-Makasar-Manado-Sorong-Manokwari-Jayapura
+Manokwari is connected by air to Jayapura, Sorong, Makassar, and Jakarta, with several Indonesian airlines operating daily flights. Schedules change frequently, so check current routes before booking. The airport is about 7 km from the city centre.

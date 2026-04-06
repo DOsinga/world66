@@ -1,25 +1,16 @@
 ---
 title: "Baliem Valley"
 type: location
-latitude: -3.987404
-longitude: 138.877343
+latitude: -3.9874
+longitude: 138.8773
 ---
 
-Home of the Dani, Baliem Valley is the prime tourist destination on Irian Jaya. The best way to get here is to fly in from
-[biak](/asia/indonesia/irianjaya/biak_1) or
-Jayapura. Book early and reconfirm, because flights get full soon.
+Home of the Dani people, the Baliem Valley is the prime destination in Papua. The valley was unknown to the outside world until 1938, when an American expedition flew over it and discovered a thriving agricultural civilization in the highlands. Today it remains one of the most extraordinary places you can visit in Indonesia.
 
+The best way to get here is to fly from [Jayapura](/asia/indonesia/irianjaya/jaya_pura) or [Biak](/asia/indonesia/irianjaya/biak) to Wamena, the valley's only town. Book early and reconfirm, because flights fill up fast and cancellations are common.
 
-Wamena town is the place where you start exploring the valley. It is a spread out place that has some modern facilities but you will still see men and women in tradtional dress (meaning with penis gourds and grass skirts respectively).
+Wamena is a spread-out town with basic facilities. You will still see men and women in traditional dress -- koteka (penis gourds) and grass skirts respectively. Everything is expensive here because supplies are flown in from Jayapura.
 
+From Wamena, you can explore the valley on foot with a local guide. Wesaput is close enough to walk to from town. Pugima is about an hour's walk beyond Wesaput. Sinatma has good trekking trails along the Sungai Wamena and a swinging rope bridge.
 
-Wesaput is very close to Wamena and can be reached easily on foot.
-Pugima is a one hour wlak form Wesaput.
-Sinatma has great trails for trekking around Sungai Wamena and a swinging brigde.
-
-
- To see the East of the Valley the best base is
-Jiwika - go there by bemo. There are caves nearby in Gua Kotiloa and Gua Wikuda.
-
-
- Note that Wamena is an expensive place to stay because everything is flown in from Jayapura.
+For the eastern valley, take a bemo to Jiwika, which makes a good base. Nearby are the caves at Gua Kotiloa and Gua Wikuda, where you can see Dani mummies.

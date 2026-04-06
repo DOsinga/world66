@@ -1,8 +1,10 @@
 ---
-title: "Greater Wellington"
+title: Greater Wellington
 type: location
 latitude: -41.223547
 longitude: 175.415758
+done:
+  location_cleanup: 2026-04-06
 ---
 
 The Greater Wellington metropolitan area includes the cities of [Wellington](/australiaandpacific/newzealand/wellington), [Lower Hutt](/australiaandpacific/newzealand/lowerhutt), [Upper Hutt](/australiaandpacific/newzealand/upperhutt), [Porirua](/australiaandpacific/newzealand/greater_wellington/porirua) as well as the [Kapiti Coast](/australiaandpacific/newzealand/kapiti_coast) and [Wairarapa](/australiaandpacific/newzealand/greater_wellington/wairarapa) regions.

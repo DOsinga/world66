@@ -23,10 +23,13 @@ The filter bar (All / Sight / Museum / Architecture / Neighbourhood) is rendered
 
 | Category | Use for |
 |----------|---------|
-| `Sight` | Monuments, squares, churches, ancient sites, viewpoints |
+| `Sight` | Monuments, churches, ancient sites, viewpoints |
 | `Museum` | Art galleries, history museums, science museums |
 | `Architecture` | Buildings valued primarily for their design (not open as museums) |
-| `Neighbourhood` | Districts and areas worth wandering — canals, market streets, etc. |
+| `Neighbourhood` | Districts and areas worth wandering — use sparingly; convert to `explore/` neighbourhood pages where possible |
+| `Street` | Shopping streets, restaurant rows, market streets — named streets with a distinct character |
+| `Square` | Squares, plazas, and open spaces that function as social hubs |
+| `Park` | Parks, gardens, and green spaces |
 
 #### POI stories
 
@@ -42,9 +45,19 @@ For longer text, use a YAML block scalar (`story: >`).
 
 #### Neighbourhood POIs
 
-For large cities, add `Neighbourhood` POIs for the most characterful districts — typically 3–5 per city. Other POIs tagged with `neighbourhood: "Name"` are automatically listed on the neighbourhood page, so a visitor reading the Trastevere page sees all restaurants and bars in Trastevere without Trastevere being a separate location in the hierarchy.
+For large cities with an `explore/` section, `Neighbourhood` category POIs in `things_to_do/` should be converted to proper neighbourhood pages. See the Explore by Neighbourhood section below.
 
-The `neighbourhood:` value must match the neighbourhood POI's `title` exactly (case-sensitive).
+Other POIs tagged with `neighbourhood: "Name"` are automatically listed on the neighbourhood page, so a visitor reading the Jordaan page sees all restaurants and shops in the Jordaan without them being moved out of their sections.
+
+The `neighbourhood:` value must match the neighbourhood page's `title` exactly (case-sensitive).
+
+#### Streets, squares and parks
+
+Named streets, squares, and parks are worth adding as POIs when they have enough character to be worth a traveller's time. Use categories `Street`, `Square`, or `Park`.
+
+**City-level** — add to the relevant section (`shopping/`, `bars_and_cafes/`, `eating_out/`) with a `neighbourhood:` tag. Do this only if the street is a genuine destination on its own: a well-known market street, a famous nightlife strip, a park that draws people from across the city.
+
+**Neighbourhood-level only** — store in `explore/<slug>/` as a POI (e.g., `explore/jordaan/bloemgracht.md`). These appear on the neighbourhood page but nowhere else. Use this for streets and squares that reward knowing about but are not city-level destinations: a beautiful canal that only locals seek out, a neighbourhood park, a local market street.
 
 ### Eating Out (`eating_out.md`)
 

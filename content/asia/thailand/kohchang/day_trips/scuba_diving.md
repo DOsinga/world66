@@ -1,13 +1,11 @@
 ---
-title: "Scuba diving"
+title: "Scuba Diving"
 type: poi
-latitude: 13.73195
-longitude: 100.630447
+category: Sight
+latitude: 11.8800
+longitude: 102.4200
 ---
 
-US$40pp including gear, 2 dives and lunch.
+Several dive shops on Koh Chang run daily trips to sites around the archipelago. The best diving is around the outer islands — Koh Rang and Koh Wai have good coral and visibility, especially from November to May. Two-dive day trips typically include gear, lunch, and boat transport.
 
-Different dive spots according to day.
-
-**Contributors**
-September 05, 2005
+The area is not world-class diving, but the marine park protects the reefs well enough, and you will see plenty of tropical fish, the occasional turtle, and decent soft coral.

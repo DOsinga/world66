@@ -1,13 +1,11 @@
 ---
-title: "Jungle trek"
+title: "Jungle Trek"
 type: poi
-latitude: 7.38207
-longitude: 99.291373
+category: Sight
+latitude: 12.0800
+longitude: 102.3350
 ---
 
-8 hour hike up waterfall in national park, climbing 600m. Includes guide, swimming in waterfall pools along the way and lunch. Beautiful scenery, good exercise, eating wild fruit out of the jungle and seeing wildlife (if lucky).
+A full-day hike through Koh Chang's national park interior, climbing about 600 meters through dense jungle to reach a series of waterfalls. Guides lead you along the trail, stopping to swim in waterfall pools and pointing out wild fruit and the occasional monitor lizard. The trek takes around eight hours and includes lunch.
 
-US$28pp (for 2 people).
-
-**Contributors**
-September 05, 2005
+A good level of fitness helps, but the pace is relaxed. Guesthouses and tour agencies along the west coast beaches can arrange it.

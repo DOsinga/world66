@@ -733,6 +733,17 @@ img { max-width: 100%; height: auto; }
   margin-bottom: 6px;
 }
 
+.neighbourhood-ref {
+  margin: 20px 0;
+  font-size: 13px;
+  color: var(--text-light);
+}
+
+.neighbourhood-ref a {
+  color: var(--blue);
+  font-weight: 500;
+}
+
 /* Info box — structured properties */
 .info-box {
   background: var(--cream);
@@ -1143,11 +1154,19 @@ img { max-width: 100%; height: auto; }
 .poi-table-name {
   width: 30%;
   font-weight: bold;
-  white-space: nowrap;
 }
 
 .poi-table-name a {
   color: var(--blue);
+  white-space: nowrap;
+}
+
+.poi-excerpt {
+  font-size: 12px;
+  font-weight: normal;
+  color: var(--text-light);
+  margin: 4px 0 0;
+  line-height: 1.5;
 }
 
 .poi-table-details {

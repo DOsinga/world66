@@ -16,4 +16,3 @@ In the village you can visit the Byzantine church covered with eighteenth centur
 
 There are some spectacular views of Lindos from the road as you approach, make sure you stop off at the roadside pullins and take some great photos. The climb up to the Acropolis is quite daunting, but don't despair, there is a local 'taxi' service which runs every minute, at a very reasonable rate, it is quite an experience too. Hope you are not afraid of Donkeys! But the ride is worth it. The stroll back down to the Square is via a labyrinth of narrow streets full of shops selling local crafts, and replica artifacts, along with the usual tourist gifts, and many places to rest and take some refreshment.
 
-Minor corrections by [hpharmsen](/world/member/hpharmsen) on 26 October 04

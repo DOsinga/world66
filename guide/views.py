@@ -49,16 +49,21 @@ def location_or_section(request, path):
     if parent:
         parent_sections, parent_locations, _ = parent.children()
 
-    # For POIs with a neighbourhood tag: load neighbourhood context for sidebar
+    # For POIs: load neighbourhood context for sidebar
     neighbourhood_page = None
     neighbourhood_pois = []
     if page.page_type == "poi":
         neighbourhood_title = page.meta.get("neighbourhood")
         if neighbourhood_title and parent and "/" in parent.path:
+            # POI tagged with neighbourhood: (lives in a city section)
             city_path = parent.path.rsplit("/", 1)[0]
             neighbourhood_page = find_neighbourhood_page(city_path, neighbourhood_title)
             if neighbourhood_page:
                 neighbourhood_pois = neighbourhood_page.neighbourhood_pois()
+        elif parent and parent.page_type == "neighbourhood":
+            # Neighbourhood-local POI: parent IS the neighbourhood page
+            neighbourhood_page = parent
+            neighbourhood_pois = parent.neighbourhood_pois()
 
     body_html = md.markdown(page.body) if page.body else ""
     sections, locations, pois = page.children()

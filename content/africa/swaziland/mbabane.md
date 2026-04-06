@@ -1,15 +1,14 @@
 ---
-title: "Mbabane"
+title: Mbabane
 type: location
-latitude: -26.325745
-longitude: 31.144663
+latitude: -26.3254
+longitude: 31.1447
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Mbabane is the capital of Swaziland, but it may well not have become the capital if the British had not won the Anglo-Boer at the turn of the century. During the 1890’s the Boer administration had earmarked what was then Bremersdorp (now [Manzini](/africa/swaziland/manzini)) for the main centre, preferring the warm climate of the middlevelt area. In "Travels of an American Insurance Agent" by Jas. A. Cavanagh, which was published in 1900, Bremersdorp is indeed described as the capital of Swaziland. However, all that changed when the British won the war and Swaziland subsequently became a protectorate of that country. The English prefered the cool hills of the highvelt and so the area which grew to become Mbabane was designated the Kingdom’s administrative capital.
+Mbabane is the administrative capital of Eswatini (formerly Swaziland), tucked into the Dlangeni Hills at 1,200 metres on the kingdom’s western highveld. It is a small, quiet capital — more government town than metropolis — but the mountain setting is striking and the surrounding highlands offer some of southern Africa’s best hiking and wildlife.
 
+The town owes its status to colonial politics. During the 1890s the Boer administration favoured Bremersdorp (now [Manzini](/africa/swaziland/manzini)) as the main centre, preferring the warm middleveld. When the British took over after the Anglo-Boer War, they chose the cooler highlands instead, and the settlement near King Mbanzeni’s cattle kraal became the capital. The first government building went up on the corner of Allister Miller and Walker Streets; the colonial headquarters, a fine Cape Dutch structure, was not built until 1939.
 
- 
- Mbabane is set among the glorious mountain scenery of the Dlangeni Hills in Swaziland’s western highvelt at an altitude of 1,200 metres. The actual town of Mbabane was established near a cattle kraal belonging to King Mbanzeni - great grandfather of the present Monarch, King Mswati III.
-
-
- The first government building was erected on the corner of Allister Miller and Walker Streets which today is the site of the Mbabane Branch of the Swaziland Building Society. The head quarters for the colonial administration was not built until 1939. This fine Cape Dutch structure, which was sadly damaged by a bomb late 1998, today houses the Deputy Prime Minister’s office. Next to it was the old court house which presently accommodates the Trade Promotion Unit under the Ministry of Foreign Affairs and Trade.
+Mbabane itself is best treated as a base rather than a destination. The town centre has banks, markets, and a handful of places to eat, but the real draws are in the surrounding countryside: the Mlilwane Wildlife Sanctuary, the Malolotja Nature Reserve, and the royal and cultural sites around Lobamba.

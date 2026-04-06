@@ -271,8 +271,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var mapOptions = {
     isPoi: {{ is_poi|yesno:"true,false" }},
-    poiCategory: "{{ page.category|escapejs }}",
-    streetName: "{{ page.title|escapejs }}",
   };
   {% endif %}
   var bgMap = null;

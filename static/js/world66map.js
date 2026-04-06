@@ -211,41 +211,6 @@ function panMarkerToHero(map, lat, lng, animate) {
     }
 }
 
-/* Fetch a named street or square's geometry from the Overpass API and draw
-   it as a polyline (open way) or filled polygon (closed way) on the map. */
-function fetchStreetGeometry(map, name, lat, lng) {
-    var d = 0.025;
-    var bbox = (lat - d) + ',' + (lng - d) + ',' + (lat + d) + ',' + (lng + d);
-    var escaped = name.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
-    var query = '[out:json][timeout:10];way["name"="' + escaped + '"](' + bbox + ');out geom;';
-    fetch('https://overpass-api.de/api/interpreter?data=' + encodeURIComponent(query))
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-        if (!data.elements || !data.elements.length) return;
-        data.elements.forEach(function(el) {
-            if (el.type !== 'way' || !el.geometry || !el.geometry.length) return;
-            var pts = el.geometry.map(function(p) { return [p.lat, p.lon]; });
-            var closed = pts.length > 2
-                && pts[0][0] === pts[pts.length - 1][0]
-                && pts[0][1] === pts[pts.length - 1][1];
-            if (closed) {
-                L.polygon(pts, {
-                    color: W66_RED, weight: 2,
-                    fillColor: W66_RED, fillOpacity: 0.12,
-                    interactive: false,
-                }).addTo(map);
-            } else {
-                L.polyline(pts, {
-                    color: W66_RED, weight: 4, opacity: 0.65,
-                    interactive: false,
-                }).addTo(map);
-            }
-        });
-    })
-    .catch(function() {}); // silently ignore errors
-}
-
-
 /* ---- Location map: markers for child locations/POIs, expandable ---- */
 
 function initLocationMap(elementId, markers, options) {
@@ -314,13 +279,6 @@ function initLocationMap(elementId, markers, options) {
     L.control.attribution({position: 'bottomright', prefix: false})
         .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
         .addTo(map);
-
-    // Fetch and draw street/square/park geometry from Overpass API
-    var STREET_CATS = ['Street', 'Square', 'Park'];
-    if (options.poiCategory && STREET_CATS.indexOf(options.poiCategory) !== -1
-            && options.streetName && markers.length === 1) {
-        fetchStreetGeometry(map, options.streetName, markers[0].lat, markers[0].lng);
-    }
 
     // Fullscreen expand/collapse via button
     const wrapper = document.getElementById(elementId).closest('.map-wrapper');

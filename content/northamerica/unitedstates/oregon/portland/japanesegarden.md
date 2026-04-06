@@ -1,12 +1,8 @@
 ---
 title: "Japanese Garden"
-type: location
-latitude: 42.191764
-longitude: -122.718837
+type: section
+latitude: 45.5192
+longitude: -122.7069
 ---
 
-The peaceful atmosphere and the quiet beauty make Portland's Japanese Garden to a place ***"Where Heaven and Earth Meet"***. Honored as one of the most authentic Japanese gardens outside Japan, it spreads out on 5 1/2 acres. You are able to find five seperate concepts of Japanese garden culture: the Tea Garden (Roji-niwa), the Strolling Pond Garden (Chisen-kaiyui-shiki), the Natural Garden (Shukeiyen), the Dry Landscape Garden (Karesanui), and the Flat Garden (Hiraniwa). 
-
-The Japanese Garden is part of Washington Park and located above the International Rose Test Garden. You can get there by walking through the Antique Gate at the parking spot or with a shuttle bus. 
-
-http://www.japanesegarden.com
+Five-and-a-half acres of Japanese garden in Washington Park, widely regarded as one of the most authentic outside Japan. Five distinct garden styles spread across a hillside with views toward Mount Hood. Above the International Rose Test Garden. Accessible by MAX Red/Blue line to Washington Park station, then a short walk or shuttle.

@@ -179,6 +179,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
           {% endif %}
         </span>
         {% endfor %}
+        {% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}
       </td>
     </tr>
     {% endfor %}

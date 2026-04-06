@@ -32,7 +32,18 @@ Fix bad coordinates before tagging POIs to neighbourhoods — a POI with wrong c
 
 To fix: look up the correct coordinates for the place (use web search), update the file, note the fix in the commit message.
 
-### 4. Section structure correct?
+### 4. Neighbourhood POIs in things_to_do?
+
+Check for POIs with `category: "Neighbourhood"` in `things_to_do/`. These are neighbourhoods masquerading as POIs and must be **converted** to proper neighbourhood files in `explore/`:
+
+1. Read the existing POI body — use it as the starting point for the neighbourhood file.
+2. Create `explore/<slug>.md` with `type: neighbourhood` and expanded content (3–5 paragraphs).
+3. Delete the original `things_to_do/<slug>.md` POI file.
+4. Add a redirect in `redirects.json`: `"city/things_to_do/slug"` → `"city/explore/slug"`.
+
+Do not leave a `category: "Neighbourhood"` POI in `things_to_do/` once its neighbourhood page exists.
+
+### 5. Section structure correct?
 
 Confirm the city uses `things_to_do/` (not `sights/` or `museums/`), and that `bars_and_cafes/` exists if relevant. If old section names are still present, do a quick structural fix first (or note it and skip tagging those POIs).
 

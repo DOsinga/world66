@@ -90,6 +90,7 @@ The `type: neighbourhood` distinguishes these from regular sections and location
 - **Honest about rougher edges.** If part of an area is under construction or touristed to death, say so.
 - **3–5 paragraphs minimum** for major neighbourhoods. Smaller satellite areas can be shorter.
 - **Research using web search** — do not invent details, street names, or history.
+- **Link to local POIs by name.** When the body text mentions a street, square, park, or market that has a POI file in `explore/<slug>/` or in the city's sections, link the name directly. Use the full URL path: `[Bloemgracht](/europe/netherlands/amsterdam/explore/jordaan/bloemgracht)`. If the same name appears multiple times, link only the first occurrence. This applies to both neighbourhood-local POIs (in `explore/<slug>/`) and city-section POIs (in `shopping/`, `bars_and_cafes/`, etc.) that are tagged to the neighbourhood. For example, in the De Pijp page: link [Albert Cuypmarkt](/europe/netherlands/amsterdam/shopping/albert_cuypmarkt), [Ceintuurbaan](/europe/netherlands/amsterdam/explore/de_pijp/ceintuurbaan), [Ferdinand Bolstraat](/europe/netherlands/amsterdam/explore/de_pijp/ferdinand_bolstraat), [Van Woustraat](/europe/netherlands/amsterdam/explore/de_pijp/van_woustraat), and [Sarphatipark](/europe/netherlands/amsterdam/explore/de_pijp/sarphatipark) where they appear in the text.
 
 ### Images
 

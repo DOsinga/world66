@@ -1,62 +1,18 @@
 ---
-title: "Ribeira Sacra Valley"
+title: Ribeira Sacra
 type: location
+latitude: 42.4
+longitude: -7.65
+done:
+  location_cleanup: 2026-04-05
 ---
 
-The Ribeira Sacra
-covers an area of surprising natural beauty on both margins of the
-valley and of the manumental canyon of the Sil. This impressive natural
-and touristic territory includes the regions situated among the first
-elevation of the 'Caurel' (NE), the valleys of 'Ourense' and 'Ribeiro'
-(SW), and from the mountain range of 'Faro' (NW) to that of 'Queixa'
-(SE) nearly all the mountain limits that separate it from other regions
-such as the Caurel, Valdeorras, Lalin, Val de Limia or Bolo. In this
-way, the Ribeira Sacra is a land of river banks and monutains at the
-same time. It's average hight is of 600 metres, presenting an enormous
-declination that goes from 100 metres from the water level of the Sil
-in Peares to nearly 1900 metres to the 'Cabeza Grande de Manzaneda'
-mountain. However, the lands that include it are bathed by the waters
-of many river courses such as the Cabe, Bibei or Navea and all flow
-into the Sil. The routes of the Miño immediately preceding and
-following the confluence with the Sil also forms part of the Ribeira
-Sacra. The Ribeira Sacra is of mountainous territory with pronounced
-valleys, livestock, genuine gastronomy and a splendid monastic past
-with powerful characters such as the Lemos and including the war of the
-Irmandinhas. This is why, this land full of vineyards and excellent
-wines give place to a unique landscape, that of, vineyards on the
-mountainsides of the Miño and the Sil.
+The Ribeira Sacra is a river-canyon region in the interior of Galicia, where the Sil and Miño rivers have carved deep gorges through the granite hills south of Lugo and north of Ourense. It is one of the most atmospheric landscapes in north-western Spain: steep, forested canyons dropping to the green water of the reservoirs below, terraced vineyards clinging to the hillsides at impossible angles, and a scattering of medieval monasteries perched on the high ground above the rivers — the "sacred banks" that give the region its name.
 
-The
-Wines of the Ribeira Sacra deserve a special mention. Those elaborated
-in the Ribeira Sacra are divided among different denominations of
-origin; the 'Ribeira Sacra', that counts on five subzones, and the
-'Valdeorras' that belongs to the zones more to the east. Numerous wine
-cellars dedicated to the production of first quality wines exist and in
-smaller quantities to the production of 'Aguardiente' (firewater) and
-coffee liquor. However, these wines are becoming well known and
-exported to other markets.
+The monasteries are the historical spine of the place. From the early Middle Ages, monks settled the river gorges in extraordinary numbers: at its peak, the Ribeira Sacra held more than twenty monasteries and hermitages along the banks of the Sil and Miño. Several are still visitable: the **Mosteiro de Santo Estevo de Ribas de Sil**, dramatically built into a cliff face above the Sil (now a state-run parador hotel); the **Mosteiro de San Pedro de Rocas**, which has the oldest monastic inscriptions in Galicia, carved into bare rock; and the **Mosteiro de Santa Cristina de Ribas de Sil**, hidden deep in the chestnut forest above the gorge and reached by a walking path that descends through the trees.
 
-The
-Ribeira Sacra assembles a large number of megalithic monuments such as
-the tombs and testimonies of the people of these lands going right back
-to ancient years. However, the petroglyphs like the ones found in
-'Sober' suggest a celtic settlement in the area between 1.300-1.000
-a.C. The large number of forts show an important geographical strategy
-of these lands, generous in metals such as gold and copper and minerals
-like tin. Some areas and castles like 'Monforte' and the castle of
-Caldelas have their origins in important forts. The romans, sometimes
-settled their scarce but important nucleus over ancient forts such as
-in Proendos, and forced the native population to work in the extraction
-of the 'gold of the Sil' and other minerals. Witness of this mineral
-exploitation is the fluvial gold mine of Montefurado among others. Over
-Galicia, you can still find various bridges of roman origin, those of
-Bibei, Vilarinho, Monforte etc, and an important road the Via-VII:
-(Braga-Astorga). Above all, the introduction of the grapevines and the
-numerous chestnut trees that today cover the region are due to them. In
-effect, the romans adored the wine so much that they gave it the name
-of 'the golden liquid of the Sil'. For thousands of years a large
-number of eremites and monasteries have flourished the river banks of
-the Sil and the Miño and up to such an extent that this fact gave the
-whole region the name 'Rivoyra Sacrata'.
+The other reason to come is the wine. The vineyards of the Ribeira Sacra Denominación de Orixe are among the steepest in Europe — some terraces can only be worked by hand, and harvest requires lowering baskets on ropes down the hillside. The grapes are predominantly Mencía for reds and Godello for whites, and the wines have gained a strong reputation in recent years for their fresh, mineral-driven character. Several **bodegas** (wineries) are open for visits and tastings — ask at the tourist office in Monforte de Lemos, the main town of the region, for the current list.
 
-Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05
+The best way to see the canyon is by **catamaran** — tourist boats run through the gorge from several embarkation points and give a perspective on the terraced vineyards and monastery walls that you can't get from above. Alternatively, drive the narrow roads along the canyon rims — the **miradoiros** (viewpoints) at Cabezoas, Cividade, and Balcones de Madrid look straight down several hundred metres to the river.
+
+The Ribeira Sacra is best reached by car from Ourense (45 minutes), Santiago de Compostela (90 minutes), or Lugo (an hour). Come in October for the grape harvest and the autumn colours, or in spring when the chestnut forests are in bloom.

@@ -1,8 +1,10 @@
 ---
-title: "Pondicherry"
+title: Pondicherry
 type: location
 latitude: 10.915649
 longitude: 79.806949
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Pondicherry (Puducherry) is a Union Territory on the Bay of Bengal, 160 km south of Chennai. The French controlled it from 1674 to 1954, and the French quarter around the seafront — the White Town — survives largely intact: yellow colonial buildings, tree-lined streets named after French officers, a promenade along the seafront, and a neighbourhood where you can eat a genuinely good crêpe. It's a small, walkable area and quite unlike anywhere else in south India.

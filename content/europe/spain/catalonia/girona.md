@@ -1,8 +1,10 @@
 ---
-title: "Girona"
+title: Girona
 type: location
 latitude: 41.979301
 longitude: 2.819944
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Girona is located north of [Barcelona](/europe/spain/catalonia/barcelona) in the Ter valley, between the mountain massifs of Las Gavarres and Las Guilleries. Its strategic location favoured its original growth as an important stronghold, and its history is characterised by a seemingly never-ending list of military events which have immortalised its name. The 12C was characterised by the building of many outstanding Romanesque constructions. And during the Gothic period the city began to expand and enlarge its walled sections, which spread towards the districts that had grown up around the Roman part. Even during the 16C and 17C there was an increase in defensive construction, including fortresses, military barracks and other such buildings. 

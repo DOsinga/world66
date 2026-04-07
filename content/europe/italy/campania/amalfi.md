@@ -1,8 +1,10 @@
 ---
-title: "Amalfi"
+title: Amalfi
 type: location
 latitude: 40.63367
 longitude: 14.602609
+done:
+  location_cleanup: 2026-04-05
 ---
 
 *Europe > Italy > Campania > Amalfi*

@@ -1,6 +1,6 @@
 ---
-title: "Things to Do in Lugansk"
+title: "Things to Do"
 type: section
 ---
 
-The city of Lugansk is not only one of the largest in the Ukraine, it is also rich with green living and historical ambiance. Dating
+Lugansk has a modest but genuine set of attractions rooted in its industrial and military history. The city centre holds memorials, cultural buildings, and a few surviving pre-Soviet structures. The surrounding region offers archaeological sites for those willing to venture a little further out.

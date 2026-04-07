@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Rameshwaram"
+title: "Beaches"
 type: section
 ---
 

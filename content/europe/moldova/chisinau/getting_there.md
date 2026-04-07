@@ -1,8 +1,6 @@
 ---
-title: "Getting There in Chisinau"
+title: "Getting There"
 type: section
 ---
 
-Are you going to Chisinau? Where are you going to stay?... If you prefer a home comfort rather than a standart hotel room, choose one of my apartments on www.chisinau-apartment.com
-We offer clean, comfortable apartments to a high standard for a reasonable price.
-We will do our best to make you feel comfortable, give you personal attention and assist you on your tour in Chisinau.
+Chisinau International Airport (KIV) has direct flights from several European cities including London, Paris, Frankfurt, Vienna, and Istanbul, as well as Moscow. By train there are connections to Bucharest (Romania) and Odessa (Ukraine). By bus there are regular services from Bucharest (about 7–8 hours) and other Romanian cities. The city is well connected by road; the E85 runs south to Bucharest.

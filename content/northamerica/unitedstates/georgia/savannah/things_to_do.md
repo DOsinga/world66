@@ -1,5 +1,5 @@
 ---
-title: "Things to Do in Savannah"
+title: "Things to Do"
 type: section
 ---
 

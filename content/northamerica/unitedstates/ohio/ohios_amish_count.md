@@ -1,8 +1,14 @@
 ---
 title: "Ohio's Amish Country"
 type: location
+latitude: 40.5534
+longitude: -81.9079
 ---
 
-Travel Guide
+The largest Amish settlement in the world, centred on Holmes County in northeastern Ohio. The region covers eight counties — Holmes, Wayne, Tuscarawas, Coshocton, Stark, Knox, Ashland, and Richland — and is Ohio's top tourist destination. The landscape of rolling hills, farmland, and back roads is genuinely beautiful, and the Amish communities here have maintained their traditional way of life more completely than almost anywhere else in North America.
 
-The largest Amish setlement in the world, Ohio's Amish Country is an eight-county region in northeastern Ohio, consisting of Holmes, Wayne, Tuscarawas, Coshocton, Stark, Knox, Ashland and Richland Counties. The area is well-known for its beautiful rolling hills and scenic beauty. Holmes County, the heart of Ohio's Amish Country has a higher concentration of scenic highways than any other area in the state. The area is also recognized as the state's top tourist destination where guests can enjoy authentic Amish cooking at many of the area's restaurants, relax at a backroads bed-and-breakfast, and shop at the fine specialty shops. Amish Country is also home to [The Furniture Heartland](/northamerica/unitedstates/ohio/the_furniture_hear) the region which has rapidly become the nations leading producer of the finest in solid-wood, handcrafted furniture. For more inormation, visit oacountry.com.
+The centre of the tourist trade is Berlin (pronounced BER-lin), a small town with quilt shops, bakeries, furniture stores, and restaurants serving Amish cooking. Walnut Creek and Sugarcreek are nearby alternatives. The real interest, though, is in driving the back roads and watching teams of horses working the fields, or stopping at farm stands selling produce, cheese, and baked goods.
+
+The region is known for its solid-wood furniture workshops, and Holmes County is now the leading producer of handcrafted furniture in the US. Auctions are held regularly across the area; they offer a more genuine glimpse of Amish commerce than the souvenir shops.
+
+Best visited in spring or fall when the scenery is at its finest. In summer the main town of Berlin can get crowded.

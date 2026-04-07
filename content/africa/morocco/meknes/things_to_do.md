@@ -1,16 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Haras Régional de Meknès**
-
-The *Haras de Meknès* is said to be largest national stud. It's the home of noble Arabian and Berber Horses. At chosen times you can visit part of the stables ("Première Ecurie") by yourself or take a guided tour.
-
-It is located in Meknès-Zitoun, next to the military academy.
-
-Phone: 00212-3553-9753
-(you might have to try several times before someone answers)
-
-**Contributors**
-June 27, 2006
+Meknes divides into two distinct areas: the 17th-century Imperial City built by Sultan Moulay Ismail, south and east of the medina, and the older medina itself with its souks and religious buildings. A half-day is enough for each. The Roman ruins of Volubilis, a UNESCO World Heritage Site, lie 30 km north and are an easy day trip.

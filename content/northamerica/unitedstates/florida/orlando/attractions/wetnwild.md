@@ -1,8 +1,8 @@
 ---
 title: "Wet 'n Wild"
-type: location
-latitude: 32.761252
-longitude: -97.082314
+type: poi
+latitude: 28.4557
+longitude: -81.4684
 ---
 
 6200 International Dr

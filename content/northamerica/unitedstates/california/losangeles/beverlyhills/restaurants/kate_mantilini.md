@@ -1,24 +1,10 @@
 ---
 title: "Kate Mantilini"
 type: poi
-address: "9101 Wilshire Blvd."
+address: "9101 Wilshire Blvd., Beverly Hills"
 phone: "310-278-3699"
-type: "American"
 latitude: 34.067132
 longitude: -118.38982
 ---
 
-More than just the backdrop for the classic scene in the film “Heat” that featured Al Pacino and Robert DeNiro going mano e mano, Kate Mantilini is a Beverly Hills classic, serving up a monster menu of comfort food morning, noon and night since the ‘80s. The daily specials never disappoint and the menu is dotted with one great dish after another.
-
-**Contributors**
-December 15, 2006
-
-type: American
-
-
-
-
-
-tel: 310-278-3699
-
-address: 9101 Wilshire Blvd.
+A Beverly Hills diner-style classic, open from breakfast through late night, serving an extensive menu of American comfort food. Known for its scene in the film Heat (Al Pacino and Robert De Niro's famous coffee shop confrontation was filmed here). Daily specials are reliable; the menu is large and varied. A Los Angeles institution.

@@ -1,19 +1,14 @@
 ---
-title: "Puerto plata"
+title: "Puerto Plata"
 type: location
+latitude: 19.7957
+longitude: -70.6880
 ---
 
-Puerto Plata is the main tourist destination in the Dominican Republic. There are wonderful beaches here and all inclusive hotels. Most people who come here eat and drink in their pre booked hotel (All Inclusive). There are also several good restaurants in the area, or you can order a pizza from the Pizza Hut which delivers to the hotel rooms.
+Puerto Plata is the main tourist hub on the Dominican Republic's north coast, known as the Amber Coast. The area centres on a string of beach resorts east of Puerto Plata city, with the all-inclusive resort zone of Playa Dorada the most developed. The coastline here is backed by mountains, and the scenery is more dramatic than on the south coast.
 
-To discover something of the real Dominican Republic head for Santo Domingo, the capital or inland to Santiago de los Caballeros.
+Puerto Plata city itself is a Victorian-era port town with gingerbread architecture and a pleasant central park. It is often skipped by resort visitors, but rewards a half-day exploration: the amber museum, the 16th-century fort of San Felipe, and the cable car up to the Pico Isabel de Torres are the main draws.
 
-To discover splendid natural attractions, or to get used to the country, stay here for a couple of days.
+Cabarete, about 15 km east of the city, has established itself as one of the Caribbean's best kitesurfing and windsurfing destinations. The consistent trade winds from February through August draw serious water sports athletes alongside beginners. The town has grown up around the beach and has a lively scene in the evenings.
 
-Minor corrections by [Kitesurftravel](/world/member/kitesurftravel) on 10 March 05
-
-## Destinations in Puerto plata
-
-[Cabarete](/world/northamerica/dominicanrepublic/puertoplata/cabarete)
-[Sosua](/world/northamerica/dominicanrepublic/puertoplata/sosua)
-[Puerto Plata City](/world/northamerica/dominicanrepublic/puertoplata/puertoplatacity)
-[Playa Bergantin](/world/northamerica/dominicanrepublic/puertoplata/playabergantin)
+Sosua, between Puerto Plata and Cabarete, has a small Jewish community founded by refugees from Nazi Germany in the 1940s — a history commemorated at the local museum.

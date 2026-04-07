@@ -1,8 +1,8 @@
 ---
-title: 'Things to Do'
+title: "Things to Do"
 type: section
 ---
 
-A boat trip on Lake Pichola is the quintessential Udaipur experience, with views of the Lake Palace and Jag Mandir from the water. The City Palace complex deserves a half day for its museums, courtyards, and lake views. The Bagore ki Haveli on the waterfront hosts an evening cultural show with Rajasthani folk dance and music.
+Udaipur's main attractions cluster around the lakes and the old city. The City Palace and a boat ride on Lake Pichola are the essentials, but the old city lanes reward aimless wandering — through bazaars, past crumbling havelis, and along the ghats where daily life plays out against a backdrop of white-washed buildings and blue water.
 
-Beyond the city, the most rewarding day trips are to Kumbhalgarh Fort (84 km), with its extraordinary 36-km-long wall and panoramic views, and the Jain temples at Ranakpur (95 km), where the carved marble interiors are among the finest in India. Jaisamand Lake, the second largest artificial lake in Asia, is 48 km south and makes a pleasant excursion.
+For the best experience, spend the morning at the City Palace and the afternoon on the lake, then catch the cultural show at Bagore ki Haveli in the evening. Save the Monsoon Palace for a sunset trip on another day.

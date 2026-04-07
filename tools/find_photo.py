@@ -96,9 +96,10 @@ def build_search_query(content_path: str, meta: dict) -> str:
     title = meta.get('title', '')
     page_type = meta.get('type', 'location')
 
+    parts = content_path.strip('/').split('/')
+
     if page_type in ('section', 'poi'):
         # Combine with parent location name from path
-        parts = content_path.strip('/').split('/')
         if page_type == 'poi' and len(parts) >= 3:
             location_name = parts[-3].replace('_', ' ')
         elif len(parts) >= 2:
@@ -106,6 +107,12 @@ def build_search_query(content_path: str, meta: dict) -> str:
         else:
             location_name = ''
         return f'{location_name} {title}'.strip()
+
+    # For location pages, add country context from path for more specific results
+    if len(parts) >= 2:
+        country = parts[-2].replace('_', ' ').title()
+        if country.lower() != title.lower():
+            return f'{title} {country}'
 
     return title
 
@@ -352,15 +359,20 @@ def make_thumbnail(image_bytes: bytes) -> bytes | None:
 
 def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_text: str, cli: CLIAdapter) -> int | None:
     """Use AI CLI to pick the best photo. Returns candidate index or None."""
+    title = page_text.split('\n')[0].replace('Title: ', '')
     prompt = (
-        f'You are selecting the best photo for a travel guide page. '
+        f'You are selecting a hero photo for a travel guide page about "{title}". '
         f'Below are {len(thumb_data)} candidate photos numbered 0 to {len(thumb_data) - 1}.\n\n'
         f'Page content:\n{page_text[:1000]}\n\n'
-        f'Pick the single best photo based on:\n'
-        f'1. Relevance to this specific destination/topic\n'
-        f'2. Visual quality and composition\n'
-        f'3. How well it represents the place to a traveler\n\n'
-        f'If NONE of the photos are suitable, respond with just "NONE".\n'
+        f'A photo is ONLY acceptable if it clearly shows this specific place — '
+        f'a recognizable street, building, skyline, landmark, square, or characteristic scene '
+        f'that a traveler would associate with {title}.\n\n'
+        f'REJECT (respond "NONE") if all photos are:\n'
+        f'- Maps, diagrams, coats of arms, flags, signs, or text images\n'
+        f'- Generic nature/landscape that could be anywhere\n'
+        f'- Interior shots with no location context\n'
+        f'- Clearly unrelated to this specific city or place\n\n'
+        f'If NONE of the photos clearly show this specific place, respond with just "NONE".\n'
         f'Otherwise respond with just the number (0-{len(thumb_data) - 1}) of the best photo.'
     )
 

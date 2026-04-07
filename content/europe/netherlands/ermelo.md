@@ -4,7 +4,7 @@ type: location
 latitude: 52.285836
 longitude: 5.654939
 image: ermelo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ermelo_-_Landgoed_Staverden_19_-_360%C2%B0_Panorama.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Txllxt TxllxT
+image_source: https://www.flickr.com/photos/52365139@N05/17046448030
+image_license: CC BY-SA 2.0
+image_attribution: dvanzuijlekom on Flickr
 ---

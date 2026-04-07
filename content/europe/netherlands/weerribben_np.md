@@ -1,6 +1,10 @@
 ---
-title: "Weerribben NP"
+title: Weerribben NP
 type: location
+image: weerribben_np.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Nationaal_Park_Weerribben-Wieden._Spiegeling_in_waterweg_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dominicus Johannes Bergsma
 ---
 
 In the north-west region of the province of Overijssel lies a scenic and wildlife area called the Weerribben. Water and reed dominate its landscape and together with the neighbouring Wieden nature reserve, it is the most valuable marshland of north-west Europe.

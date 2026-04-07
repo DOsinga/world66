@@ -1,8 +1,12 @@
 ---
-title: "Utrecht"
+title: Utrecht
 type: location
 latitude: 52.090701
 longitude: 5.121563
+image: utrecht.jpg
+image_source: https://www.flickr.com/photos/12962905@N05/49438549761
+image_license: CC BY 2.0
+image_attribution: Pedro Nuno Caetano on Flickr
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

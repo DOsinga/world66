@@ -1,6 +1,10 @@
 ---
-title: "Monickendam"
+title: Monickendam
 type: location
+image: monickendam.jpg
+image_source: https://www.flickr.com/photos/28657878@N05/2692922629
+image_license: CC BY-SA 2.0
+image_attribution: Neorg on Flickr
 ---
 
 Forget [Volendam](/europe/netherlands/volendam). Go to Monickendam instead.

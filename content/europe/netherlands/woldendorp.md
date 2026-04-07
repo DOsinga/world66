@@ -4,9 +4,9 @@ type: location
 latitude: 53.273564
 longitude: 7.029794
 image: woldendorp.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Avondmaalstafel_-_Woldendorp_-_20216621_-_RCE.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Overzicht_schuur_-_Woldendorp_-_20357348_-_RCE.jpg
 image_license: CC BY-SA 4.0
-image_attribution: Unknown authorUnknown author
+image_attribution: A. J. van der Wal
 ---
 
 Woldendorp is a rural village in the north of the Netherlands, close to Delfzijl. The area has a quiet rural charm. Flat land with long canals. 

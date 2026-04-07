@@ -5,6 +5,10 @@ latitude: 52.4578
 longitude: 5.1068
 done:
   location_cleanup: 2026-04-06
+image: marken.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Marken,_The_Netherlands_07.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Rene Cortin
 ---
 
 Marken is a small former island in the IJmeer, about 15 kilometres northeast of Amsterdam, now connected to the mainland by a causeway built in 1957. For most of its history it was genuinely isolated — accessible only by boat — and that isolation produced an architecture and a culture that remained largely unchanged while the rest of the Netherlands modernised. The result is one of the most intact traditional Dutch villages in the country.

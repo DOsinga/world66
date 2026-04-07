@@ -6,9 +6,9 @@ longitude: 5.0913
 title: Tilburg
 type: location
 image: tilburg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Tilburg_Centraal_Station_Mosaicpanelen_1.jpg
-image_license: CC BY 4.0
-image_attribution: ReneeWrites
+image_source: https://www.flickr.com/photos/8470253@N04/6093535319
+image_license: CC BY 2.0
+image_attribution: Returning the Screw on Flickr
 ---
 
 Tilburg is a working-class city in North Brabant that made its fortune in wool and textiles, then reinvented itself when the mills closed. The old factory buildings are now museums and cultural spaces — Museum De Pont, one of the Netherlands' finest contemporary art museums, occupies a former spinning mill, and the Textile Museum on the Goirkestraat still runs working looms. The city centre was heavily redeveloped in the 1990s and 2000s, and what emerged is genuinely pleasant: wide pedestrian areas around the Heuvel, a lively bar scene along the Piusplein, and a newly popular waterfront at the Piushaven.

@@ -3,29 +3,6 @@ title: "Day Trips"
 type: section
 ---
 
-The most visited places are:
+Arraial is well placed for exploring the southern Bahia coast. The most popular day trips include [Trancoso](/southamerica/brazil/trancoso) (a quieter, more upscale village), Caraiva (remote and car-free), and Espelho Beach (often called one of the most beautiful beaches in Brazil). Recifes de Fora is a boat trip to a natural offshore swimming pool with good snorkelling.
 
-- The historical centre in Porto Seguro
-
-- Coroa Vermelha
-
-- Santa Cruz Cabralia
-
-- Jaqueira Indian Reserve
-
-- Monte Pascoal Park
-
-- Waterpark Eco Parque
-
-- Trancoso
-
-- Caraiva
-
-- Santo Andre
-
-- Recifes de Fora (boat trip to a natural swimming pool; good for snorkelling)
-
-- Espelho Beach
-
-**Contributors**
-November 24, 2005
+Closer to hand, Porto Seguro's historical centre preserves some of the oldest colonial buildings in Brazil. The Jaqueira Indian Reserve offers a guided visit to a Pataxo indigenous community. Monte Pascoal Park, the first point of land sighted by the Portuguese in 1500, is worth the drive for its historical weight and forested trails.

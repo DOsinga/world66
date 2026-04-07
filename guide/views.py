@@ -99,8 +99,10 @@ def location_or_section(request, path):
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
-    # Nav pages collect their POIs by tag
-    if page.page_type in NAV_TYPES:
+    # Nav pages collect their POIs by tag; section_groups collect their child nav pages
+    if page.page_type == "section_group":
+        pois = nav_pages
+    elif page.page_type in NAV_TYPES:
         pois = page.tagged_pois()
 
     # Collect distinct categories from POIs (for filter UI)

@@ -72,6 +72,21 @@ def location_or_section(request, path):
     if context_nav:
         nav_siblings = context_nav.tagged_pois()
 
+    # Neighbourhood sidebar context (for PR #105 Amsterdam content)
+    neighbourhood_page = None
+    neighbourhood_pois = []
+    if page.page_type == "poi":
+        from .models import find_neighbourhood_page
+        neighbourhood_title = page.meta.get("neighbourhood")
+        if neighbourhood_title and parent and "/" in parent.path:
+            city_path = parent.path.rsplit("/", 1)[0]
+            neighbourhood_page = find_neighbourhood_page(city_path, neighbourhood_title)
+            if neighbourhood_page:
+                neighbourhood_pois = neighbourhood_page.neighbourhood_pois()
+        elif parent and parent.page_type == "neighbourhood":
+            neighbourhood_page = parent
+            neighbourhood_pois = parent.neighbourhood_pois()
+
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
@@ -127,6 +142,8 @@ def location_or_section(request, path):
         "tags": page.tags,
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
+        "neighbourhood_page": neighbourhood_page,
+        "neighbourhood_pois": neighbourhood_pois,
     })
 
 

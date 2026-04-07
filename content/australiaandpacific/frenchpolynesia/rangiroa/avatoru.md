@@ -1,8 +1,10 @@
 ---
-title: "Avatoru"
+title: Avatoru
 type: location
 latitude: -14.941972
 longitude: -147.706148
+done:
+  location_cleanup: 2026-04-07
 ---
 
 More a sleepy hamlet than a settlement, Avatoru is a series of islets connected by concrete bridges. It and neighbouring Tiputa are the only populated areas of the Rangiroa atoll, aside from the boat-accessible resort across the main lagoon.

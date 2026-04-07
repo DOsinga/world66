@@ -1,14 +1,12 @@
 ---
 title: "Mirador del Rio"
 type: location
-latitude: 29.214453
-longitude: -13.481193
+latitude: 29.2145
+longitude: -13.4812
 ---
 
-The Mirador del Rio offers a spectacular view over the Rio. Literally Rio means river, but in this case it refers to a channel that separates Lanzarote from two smaller islands just off the coast. The views are breathtaking and the Mirador itself is a very nice structure. There is a small restaurant here where you can get drinks.
+The Mirador del Rio is a viewpoint on the northern tip of Lanzarote, perched on a 475-metre cliff overlooking the strait (the "rio") that separates Lanzarote from the small island of La Graciosa. The views are breathtaking -- the turquoise water below, La Graciosa's sandy beaches, and on clear days the silhouettes of other islands on the horizon.
 
+The building itself is a César Manrique creation, cleverly built into the cliff face so it is almost invisible from the outside. Inside, curved glass walls frame the panorama, and there is a small cafe where you can sit with a coffee and take it in. There is an entrance fee, but if you prefer not to pay, a short walk along the clifftop to the left gives you a view that is nearly as good.
 
- To get into the Mirador you have to pay an entrance fee. If you don't think want to pay up, you can walk a few hundred meters to the left and get a view that is almost as good.
-
-
- The road leading up to the mirador from [Teguise](/europe/spain/canaryislands/lanzarote/teguise) is great as well. There are a few other Miradors that offer excellent views over the valleys and mountains you are passing. The whole trip can be done as a day trip from [Puerto del Carmen](/europe/spain/canaryislands/lanzarote/puertodelcarmen).
+The drive up from [Teguise](/europe/spain/canaryislands/lanzarote/teguise) is worth the trip in its own right, winding through volcanic landscapes with several other viewpoints along the way. The whole excursion makes an easy day trip from [Puerto del Carmen](/europe/spain/canaryislands/lanzarote/puertodelcarmen).

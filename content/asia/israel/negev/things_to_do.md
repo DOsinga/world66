@@ -1,8 +1,18 @@
 ---
-title: "Things to do in Negev"
+title: "Things to Do"
 type: section
 ---
 
-Chan HaShayarot (Caravan Inn) is located in the desert between Sde Boker and Mitzpe Ramon.
-This traveler's khan (a traditional Middle Eastern inn) consists of an authentic Bedouin community tent made of woven black goat hair for dinner parties and communal sleeping.
-The Chan offers a range of activities, including tours with camels and off-road vehicles, mountain biking, and Bedouin entertainment and hospitality day or night. A possible favorite for kids who may be dazzled by the view of the galaxies and falling stars; and a favorite for everyone who will be charmed by the hospitable Bedouin.
+The Negev's main attractions are spread along Route 40 south from Be'er Sheva. Key stops:
+
+**Makhtesh Ramon** near Mitzpe Ramon — the world's largest erosion crater, 40 km long and 500 metres deep. The town sits on the rim and is the base for hiking, jeep tours, and extraordinary stargazing.
+
+**Avdat** — UNESCO-listed Nabataean ruins on a cliff-top, impressive in scale and setting.
+
+**Mamshit Ruins** — a smaller, better-preserved Nabataean site that is easier to explore independently.
+
+**Ein Avdat** — a desert gorge with springs and rock pools, accessible via marked national park trails.
+
+**Sde Boker** — kibbutz with the Ben-Gurion Heritage Institute and the tomb of Israel's founding prime minister.
+
+**Chan HaShayarot** (Caravan Inn) between Sde Boker and Mitzpe Ramon — a Bedouin-style desert camp offering camel tours, off-road trips, mountain biking, and traditional hospitality under an exceptional night sky.

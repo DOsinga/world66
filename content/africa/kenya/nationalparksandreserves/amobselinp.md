@@ -1,10 +1,12 @@
 ---
-title: "Amobseli N.P."
+done:
+  location_cleanup: '2026-04-07'
+latitude: -2.6527
+longitude: 37.2606
+title: Amboseli National Park
 type: location
 ---
 
-Amboseli National Park is probably Kenya’s second most visited park behind Masai Mara. The main attraction is its backdrop of Mt. Kilimanjaro. If conditions are right you can get amazing shots of elephants or lions with the tallest mountain in Africa in the background. The park probably has more elephants per square km than any other, so you're sure to have close encounters with the huge animals.
+Amboseli National Park is probably [Kenya's](/africa/kenya) second most visited park behind [Masai Mara](/africa/kenya/nationalparksandreserves/masaimara). The main attraction is its backdrop of Mount Kilimanjaro — if conditions are right you can get stunning shots of elephants or lions with the tallest mountain in Africa rising behind them. The park has more elephants per square kilometre than almost anywhere else, so close encounters with the huge animals are virtually guaranteed.
 
- To get to the park, most visitors cut south just outside of Nairobi and go through the town of Namanga. It’s also possible to approach from Tsavo to the east, but you should have a 4WD vehicle.
-
- There’s only one campsite in the area on the southern boundary of the park. As lodges go, there are several options inside the park, or if you want to save on park fees, there are also several places outside of the park. Inside the park try *Tortilis Camp* (# (0154) 22551), situated in one of the most beautiful spots in the park. During the high season expect to pay US$ 170/264 for singles/doubles and US$ 100/200 in the low season. There’s also the *Amboseli Lodge* (# (02) 227136 which has singles/doubles for US$ 160/210. The *Kilimanjaro Buffalo Lodge* (# (02) 227136) is located about 30 km east of the park.  It offers singles/doubles for US$ 160/200 in the high season, and US$ 70/140 in the low season.
+Most visitors approach from Nairobi, cutting south through the town of Namanga. It is also possible to come from [Tsavo](/africa/kenya/nationalparksandreserves/tsavoeastnp) to the east, though you will need a 4WD vehicle for that route.

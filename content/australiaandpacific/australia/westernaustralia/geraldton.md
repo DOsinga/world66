@@ -1,16 +1,14 @@
 ---
-title: "Geraldton"
+title: Geraldton
 type: location
-latitude: -28.77035
-longitude: 114.614716
+latitude: -28.7704
+longitude: 114.6147
+done:
+  location_cleanup: 2026-04-08
 ---
 
-**S**ituated 400 kilometres North of [Perth](/australiaandpacific/australia/westernaustralia/perth) in the heart of the Batavia Coast, Geraldton is the major regional City of the Midwest region of Western Australia. Geraldton is the main hub for the fishing, farming and mining industries of the surrounding areas and serves as the only deep-water port for the region. The surrounding waters are well known for quality rock lobster fishing and Geraldton is often referred to as a world leader in this area, a result of the pristine reefs and islands created by the Leeuwin current flowing Southward along the coast in this region. 
+Geraldton is the major city of the Mid West region of Western Australia, about 400 km north of [Perth](/australiaandpacific/australia/westernaustralia/perth) on the Batavia Coast. It is a working port city — the region's hub for rock lobster fishing, agriculture, and mining — with a rugged, windswept coastline that has made it internationally known for windsurfing and kite-boarding.
 
-Geraldton was surveyed in 1850 and in 1857 was a convict settlement. In the 1890s it became the major port for the Murchison gold rushes, promoting major growth. The name Geraldton is derived from Charles Fitzgerald, the governor of the state at the time. During this period the surrounding hinterland was settled by farmers, using the available convict labour to develop their farm land. 
+The consistent and powerful winds off the Indian Ocean draw serious windsurfers from around the world. The surrounding reefs and coastal breaks also offer good surfing, diving, and sailing. The waters around Geraldton contain many historic shipwrecks, including those of the 1629 Dutch East India Company disaster — the Batavia ran aground on the Abrolhos Islands offshore, leading to a notorious mutiny and massacre that is one of the most dramatic episodes in Australian colonial history. The Western Australian Museum in town covers the story in detail.
 
-Geraldton is a well know destination for adventure water sports men and women. With it's strong winds, it is one of the worlds best locations for windsurfing and kite-boarding. The many reefs and coastal breaks around Geraldton make the City an ideal starting point for surfing expeditions along the coast. Other water sports enjoyed in the surrounding waters include diving, sailing and fishing. 
-
-There are a wide variety of activities in and around the City and its surounding environs with the annual wildflower season bringing large crowds of Flora and wildflower fanciers to the area. Visitors are often amazed at the colours and diversity of the local flora. All visitors to Geraldton are well catered for by a large amount of hospitality outlets including Hotels, Motels, Farm Stays, Bed and Breakfasts and 2 nightclubs - The ZUU and The Circuit.
-
-Minor corrections on 27 February 04
+The spring wildflower season (August–October) brings visitors inland to the surrounding countryside, which produces extraordinary displays of everlastings, kangaroo paws, and other species. The Houtman Abrolhos Islands, about 60 km offshore, have excellent diving, snorkelling, and birdwatching, accessible by boat or light plane from Geraldton.

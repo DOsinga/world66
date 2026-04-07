@@ -1,16 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Spa and Sauna"
 ---
 
-The valle de Vinales is a great place for outdoor activities.
-
-**Contributors**
-December 27, 2004
-
-### Horseback riding
-
-There's a couple of places where you can rent horses to visit the valley. Just ask around.
-
-type: Spa and Sauna
+The valley is the main attraction, and there are several ways to explore it. The sights within the valley are within easy reach — most are a short drive or bike ride from the village.

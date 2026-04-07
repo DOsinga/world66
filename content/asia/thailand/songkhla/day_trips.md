@@ -1,22 +1,6 @@
 ---
-title: "Daytrips"
+title: "Day Trips"
 type: section
 ---
 
-**Points of Interest**
-
-**Great Songkhla Lake**
-
-Thailand's largest lake. You can visit two wildfowl sanctuaries. The Khu Khut Waterfowl Park is located near the city of Songhkla. Take the highway No. 4107. There you can hire a boat. It is a great place to visit for bird-watchers. The other one is called Nok Nam Thale Noi and is located at the [more..](/asia/thailand/songkhla/daytrips/greatsongkhlalake)
-
-**Wat Pha Kho**
-
-A temple of a famous Thai monk (Luang Por Thuat). You can see a reclining Buddha and a stupa. 
-
-**Southern Thais Studies Institute**
-
-A foklore museum. It is located 15 km out of Songhkla. The museum displays a collection of Southern Thai art. The museum is set into a beautiful surrounding. 
-
-**Cat & Rat islands**
-
-Opposite of Samila beach. Great fishing.
+Songkhla Lake (Thale Sap) is Thailand's largest lake and makes for an excellent half-day outing. The Khu Khut Waterfowl Park on the lake's edge, reached via Highway 4107, is a renowned bird-watching site where boats can be hired. Further north, the Thale Noi Waterfowl Sanctuary is another important wetland refuge. Wat Pha Kho, home to a reclining Buddha and associated with the revered monk Luang Por Thuat, is worth a visit. The Southern Thais Studies Institute, 15 km from the city, holds an interesting collection of southern Thai folk art in a pleasant garden setting.

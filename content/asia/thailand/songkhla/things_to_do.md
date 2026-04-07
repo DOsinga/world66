@@ -1,10 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Songkhla Golf / Thong Yai Golf course**
-
-The Golf course is located close to the Samila Beach. For reservations/information call +66-(0)74-323761. It is open to the public daily. Only 9 holes.
+Songkhla rewards curious visitors with an exceptional mix of Buddhist temples, a colonial-era museum, and scenic hilltop viewpoints. The old town retains its Sino-Portuguese architecture, while Khao Tang Kuan hill offers panoramic views over the lake and Gulf.

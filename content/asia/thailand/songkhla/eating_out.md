@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Loads of great places to eat in Songkhla. Seafood is a must. Also a great Vietnamese on Sri Suda Road
+Songkhla has excellent food, shaped by its mix of Thai, Chinese, and Malay communities. Seafood dominates — the morning market near the waterfront is the best place to find freshly caught fish and shellfish. Sri Suda Road has a notable Vietnamese restaurant alongside the local Chinese coffee shops that have served the old town for generations.

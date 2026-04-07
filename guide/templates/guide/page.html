@@ -48,6 +48,20 @@
   </div>
   {% endif %}
 
+  {% if page.page_type == "section_group" and sections %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ page.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for s in sections %}
+      <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if locations or parent_locations %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
@@ -175,6 +189,14 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 {% if body_html %}
 <div class="body-text">
   {{ body_html|safe }}
+</div>
+{% endif %}
+
+{% if page.page_type == "section_group" and sections %}
+<div class="destination-columns">
+  {% for s in sections %}
+  <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
+  {% endfor %}
 </div>
 {% endif %}
 

@@ -3,34 +3,10 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Gubbio's cuisine centres on truffles — white and black — and game. Look for pasta dishes with truffle shavings, porcini mushrooms, and wild boar. The local red wines are good.
 
-**Ristorante Bosone Garden**
+**Ristorante Bosone Garden** at Via Mastro Giorgio 1 occupies the restored medieval Raffaelli Palace and offers Umbrian specialities in a historic setting. Tel: +39 075 9221246.
 
-Located in the original medieval Raffaelli Palace - restored and modernized - this restaurant offers local specialties in an historic ambiente where once Dante Alighieri was on a visit. Food deserves a particular attention: a re-presentation of ancient recipes offered in a modern way by our chef.  [more..](/europe/italy/umbria/gubbio/eatingout/ristorantebosonegarden)
+**La Lanterna** in the town centre specialises in white truffle dishes. Closed Thursday. Tel: +39 075 9276694.
 
-address: Via Savelli della Porta 5 - Via Mastro Giorgio, 1 - 06024 Gubbio
-
-tel: (+39).75.9221246
-
-**La Lanterna**
-
-Centrally located restaurant specialized in white truffle dishes.
-
-address: town centre, Gubbio
-
-openinghours: Closed on: Thursday
-
-tel: +39-075-9276694
-
-**Ai Cappuccini**
-
-Original and elegant Italian restaurant (also hotel) with nice garden. Special Dishes: savarin di riso ai porcini e tartufo bianco, zuppetta di patate con dadolata di pesce, filetto di maialino ai pistacchi e tartufo nero.
-
- webpage   
-
-address: Via Tifernate, 06024 Gubbio
-
-openinghours: Closed on: Monday
-
-tel: +39-075-9234
+**Ai Cappuccini** at Via Tifernate serves inventive Umbrian cuisine — try the savarin di riso ai porcini e tartufo. Closed Monday. Tel: +39 075 9234.

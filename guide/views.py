@@ -96,10 +96,10 @@ def location_or_section(request, path):
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
-        "sections": parent_nav,          # sidebar: sibling nav pages
+        "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
         "pois": pois,
-        "parent_sections": parent_nav,   # kept for template compat
+        "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
         "nav_grouped": nav_grouped,      # grouped nav pages for city sidebar
         "context_nav": context_nav,      # nav page used to reach this POI

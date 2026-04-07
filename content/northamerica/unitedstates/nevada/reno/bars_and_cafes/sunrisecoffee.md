@@ -1,8 +1,8 @@
 ---
-title: "Sunrise Coffee"
-type: location
 latitude: 36.071941
 longitude: -115.107039
+title: Sunrise Coffee
+type: poi
 ---
 
 address: 5890 S Virginia St # 1

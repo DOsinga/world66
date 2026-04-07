@@ -1,10 +1,10 @@
 ---
-title: "5 Star Saloon"
-type: location
-address: "132 West St."
-phone: "775-329-2878"
+address: 132 West St.
 latitude: 39.854524
 longitude: -82.888838
+phone: 775-329-2878
+title: 5 Star Saloon
+type: poi
 ---
 
 Located conveniently in downtown Reno ,

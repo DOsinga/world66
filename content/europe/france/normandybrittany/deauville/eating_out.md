@@ -3,42 +3,10 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Deauville's restaurant scene skews upmarket, with seafood the standout choice. The Promenade des Planches and the streets behind the beach hold most of the options.
 
-**Augusto**
+**Augusto** at 27 rue Désiré Le Hoc is known for the best lobster in town. Tel: 02 31 88 34 49.
 
-Best lobster in town. 
+**Baghdad Cafe** at 77 rue du Général Leclerc serves excellent Moroccan food — couscous, tajine. Tel: 02 31 98 25 45.
 
-fax: 02 31 88 38 88
-
-address: 27, rue Désiré Le Hoc
-
-tel: 02 31 88 34 49
-
-**Baghdad Cafe**
-
-Great Moroccan food, couscous, tajine. Delicious.
-
-fax: 02 31 98 91 56
-
-address: 77, rue du Général Leclerc
-
-tel: 02 31 98 25 45
-
-**La Pommeraie**
-
-Menus start at 50 dollars, but it's good food.
-
-address: Hôtel du Golf Barrière
-
-tel: 02 31 14 24 00
-
-**Le Ciro's Barriere**
-
-Great seafood. Menu's start at 200 FF, about 30 dollar. 
-
-fax: 02 31 98 66 71
-
-address: Boulevard de la mer, sur les planches
-
-tel: 02 31 14 31 31
+**Le Ciro's Barrière** on the Boulevard de la mer sits right on the boardwalk and specialises in seafood. Tel: 02 31 14 31 31.

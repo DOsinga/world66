@@ -1,9 +1,6 @@
 ---
-title: "Eating Out in Dinant"
+title: "Eating Out"
 type: section
 ---
 
-**Le Jardin de Fiorine**
-*Address : 3 rue Cousot, B5500 Dinant.*
-The best place to eat in Dinant ! Menu without wine : 35 €
-The menu is available at http://www.jardindefiorine.be in French and Dutch.
+The waterfront along the Meuse has a row of restaurants and brasseries, most serving standard Belgian fare — moules-frites, carbonnade flamande, and waffles. Dinant is also known for its couques, hard honey biscuits baked in decorative moulds.

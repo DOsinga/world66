@@ -1,10 +1,14 @@
 ---
-title: "Brentwood"
+title: Brentwood
 type: location
-latitude: 37.931777
-longitude: -121.696026
+latitude: 37.9316
+longitude: -121.696
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Travel Guide
+Brentwood is a small city in eastern Contra Costa County, about an hour east of San Francisco, sitting at the foot of Mount Diablo at the edge of the Sacramento-San Joaquin Delta. It is not a tourist destination in the traditional sense, but it draws visitors who know what they're coming for: some of the best stone fruit in California.
 
-[Brentwood](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/day_trips/brentwood), an hour’s drive East of San Francisco, is one of several towns located near the delta waterways east of Mt. Diablo just below scenic rolling hills in the Central Valley . This area is a viable agricultural area, due to its unique micro climate, amidst new affordable homes and major shopping areas. Known nationally for its Brentwood Sweet Corn, the area is also well-known for its Harvest Time farm trail with over 30 farms and ranches offering the visitor a unique U-Pick experience of apricots, peaches, pears, nectarines, cherries and other equally delicious and fresh fruits, vegetables and agricultural products. A revitalized and picturesque Old Downtown offers lots of quaint boutiques and dining opportunities. Brentwood is also home to the annual, family-friendly Cornfest each July after Independence Day, celebrating the corn harvest and offers product and food vendors from all over the state. A farm trail map is produced annually by the Non-Profit group Harvest Time to direct you to the farms.
+The area's unique microclimate produces exceptional peaches, apricots, cherries, and nectarines, and more than 30 farms along the Harvest Time farm trail offer U-Pick experiences during the summer months. If you arrive in July, the annual Cornfest celebrates the sweet corn harvest with food vendors and live music. The revitalised old downtown has a handful of boutiques and restaurants worth a stop.
+
+For most visitors, Brentwood is best treated as a day trip from the Bay Area or Sacramento — come for the farm trail, pick your own fruit, and head home with a car full of produce.

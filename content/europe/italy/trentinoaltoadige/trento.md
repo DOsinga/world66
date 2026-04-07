@@ -1,37 +1,14 @@
 ---
-title: "Trento"
+title: Trento
 type: location
-latitude: 46.066423
-longitude: 11.12576
+latitude: 46.0664
+longitude: 11.1258
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Trento is a bit of a posh town. The history made
- it a proud town, with a number of large manors outside
- town, where bishops used to come for holidays.
- Nowadays it is one of the most expensive towns
- in Italy, with the wealth from farming, wine, and 
- high-tech. At Easter the fields around Trento are
- in bloom with apple blosoms.
+Trento is the prosperous capital of the autonomous province of Trentino, sitting in the Adige valley at the foot of the Dolomites. It is one of the wealthiest and most well-organized cities in Italy, with a well-preserved Renaissance centre and a civic pride that distinguishes it from the more chaotic south. The outdoor fresco paintings on the facades of historic buildings are one of the city's distinctive features.
 
+The **Council of Trent** — the Catholic Church's great counter-Reformation council, held here over three sessions between 1545 and 1563 — took place in the **Castello del Buonconsiglio**, the city's most important monument. The castle now houses a superb museum of medieval arts, archaeology, and local history. The **Piazza del Duomo** and its Romanesque-Gothic cathedral are the heart of the old city.
 
- The town centre is more or less an pedestrian area,
- and walking around the historic centre you can see
- a number of outdoor fresco's on historic buildings.
- In former days the river Adige flowed right outside the
- centre where now Torre Verde is.
-
-
- Apart from the council of Trento, which gathered in
- Trento in the sixteenth century for many periods of
- several years, which dominates the town centre, there
- is one other noteworthy historical event, related 
- to judaism. A little boy, named Simione, died about
- five hunderd years ago. The event was blamed on the
- jews, with stories of pagan rituals. Fictional scenes are depicted on two plaqettes on via Roma. Therefore all
- jewish men were killed, while women and childern 
- were expelled. The jews put a ban on Trento in return.
- In the 1990's relations between Trento and the jewish
- community improved when the Trentini stopped (officially)
- honouring Simione as a martyr, and the ban was lifted.
- A plaquette in a little alley off via Roma commemorate
- this occasion.
+For wine, the Trentino region produces excellent whites — particularly Nosiola and Müller-Thurgau — and Trentodoc sparkling wines that rival Champagne. The surrounding Dolomite valleys make Trento a good base for hiking, skiing, and mountain scenery.

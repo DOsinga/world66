@@ -1,24 +1,10 @@
 ---
-title: "Getting There in Island Čiovo"
+title: "Getting There"
 type: section
-type: "By Air"
-url: "www.split-airport.hr"
 ---
 
-- Airport Split is situated only 6 km from the Island Čiovo. - On the island you can come by car accross the drawbridge from Trogir!
+Čiovo is connected to [Trogir](/europe/croatia/trogir) by a small bridge, so you can drive or walk straight onto the island.
 
-More information ( www.dalmacijalink.hr)
+Split Airport is only six kilometres away. From the airport, a taxi to Čiovo takes about fifteen minutes. If you are coming from [Split](/europe/croatia/split) itself, the Jadrolinija catamaran runs to Slatine on the north coast of Čiovo -- a scenic 30-minute ride that drops you on the island without needing a car at all.
 
-### [Airport Split](/europe/croatia/island_iovo/getting_there/airport_split)
-
-Croatia can easily be reached by plane. Croatia Airlines, national airport company flies direct to large European capitals: Amsterdam, Rome, Brussels, Vienna, Düsseldorf, Frankfurt, London, Munich, Paris, Prague, Sarajevo, Mostar, Skopje and Zurich.Croatia Airlines: www.croatiaairlines.com
-
-Airport Split is situated only 6 km from the Island Čiovo!
-
-type: By Air
-
-
-
-[[rate it]](/europe/croatia/island_iovo/getting_there/airport_split)
-
-url: [www.split-airport.hr](http://www.split-airport.hr)
+By car from Split, follow the coastal road west through Kaštela to Trogir and cross the bridge. In summer, traffic around Trogir can be slow.

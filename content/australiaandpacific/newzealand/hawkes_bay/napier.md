@@ -1,18 +1,16 @@
 ---
-title: "Napier"
+title: Napier
 type: location
-latitude: -39.49021
-longitude: 176.917839
+latitude: -39.4902
+longitude: 176.9178
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Napier, the city by the sea, is renowned for its 1930s Art Deco architecture, events such as the Brebner Print Art Deco Weekend in February, stately Norfolk pines, surrounding wineries, local fresh produce and national tourist attractions.
+Napier is the Art Deco capital of the world, and it earned that title the hard way. On 3 February 1931, a magnitude 7.8 earthquake flattened the city and killed 256 people. What rose from the rubble was an entire town centre rebuilt in the architectural style of the moment: clean lines, geometric patterns, sunburst motifs, and pastel facades. No other city has such a concentrated, cohesive collection of 1930s architecture, and walking the streets feels like stepping into a beautifully preserved time capsule.
 
-A great climate with day upon day of sunshine makes Napier a year-round tourist destination and you will quickly feel relaxed as you wander through the streets amongst the splendour of the Art Deco buildings.
+But Napier is more than its buildings. The city sits on [Hawke's Bay](/australiaandpacific/newzealand/hawkes_bay)'s coast, backed by orchards, vineyards, and the dramatic bluff of Ahuriri. The climate is genuinely excellent -- more sunshine hours than almost anywhere else in New Zealand -- and the whole region has leaned into food and wine with real conviction. The wineries here produce some of the country's best reds, particularly Syrah and Bordeaux-style blends, and the restaurants know what to do with them.
 
-Napier oozes fun and adventure and a visit to the attractions of Marine Parade is a must. Marine Parade overlooks the Pacific Ocean and out towards Cape Kidnappers, home to the world’s largest mainland gannet colony. A full day can be taken visiting Ocean Spa hot pools and swimming complex, the Hawke’s Bay Museum, the National Aquarium of New Zealand, or get splashed by the dolphins and seals at Marineland of New Zealand.
+Marine Parade is Napier's seafront strip, a long promenade lined with Norfolk pines that runs along a pebbly beach. It is not a swimming beach -- the surf is rough and the stones are hard on bare feet -- but the views south towards Cape Kidnappers are spectacular. The cape itself is home to the world's largest mainland gannet colony, and visiting it (by tractor, on foot, or by kayak) is one of the best wildlife experiences on the North Island.
 
-A landmark of Napier is Bluff Hill, which is home for many Napier residents and provides views of the town beaches of Perfume Point and Westshore, past the newly upgraded airport and out towards Whirinaki. Bluff Hill also overlooks the Port of Napier, one of New Zealand’s busiest ports, transporting timber, local fruit and meat products to worldwide destinations. Over summer luxury cruise liners berth.
-
-Napier has accommodation to fit all budgets from boutique hotels, holiday homes, backpacker lodges, hotels, motels, holiday parks and homestays. For the shopper there are antique shops, art galleries, and studios of potters, wood turners and craftsman.
-
-After a long day taking in the sights, revitalize yourself by sampling some of Hawke’s Bay’s award winning wines and fresh Bay produce from one of the many restaurant, café and winery menus.
+Up on Bluff Hill, the old residential quarter, you get panoramic views over the port, the city, and out to Westshore Beach. The hill itself is worth wandering for the older houses and the sense of how Napier looked before the earthquake. Below it, the Ahuriri neighbourhood has transformed its old woolsheds and warehouses into restaurants, bars, and boutiques -- it is the liveliest part of town after dark.

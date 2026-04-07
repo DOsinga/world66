@@ -3,36 +3,28 @@ title: "Eating Out"
 type: section
 ---
 
-Germans may be known as Krauts to the English, but for the best Sauerkraut you can just forget about the Huns: head for Strasbourg. This is Kraut-city! Of course there are many other options as well -ranging from Pizza to very expensive three star Michelin restaurants, but a visit to the east of France without tasting Sauerkraut is not an option. 
+Strasbourg is serious about food. The local speciality is choucroute garnie — sauerkraut heaped with sausages and smoked meats — but the city also has its share of tarte flambée (a thin, crispy tart with crème fraîche, onion, and lardons), and a clutch of restaurants serious enough to earn Michelin stars. The winstub — a traditional Alsatian wine tavern — is the right format for a relaxed evening meal.
 
-**all**
+**Maison Kammerzell**
 
-**Maison Kammerzell **
+One of the most famous restaurants in Alsace, right beside the cathedral in a 15th-century building. Not cheap, but the choucroute and foie gras are the real thing.
 
-One of the best, right in the center. It'snot a cheapie but the food is delicious. 
+address: 16 Place de la Cathédrale, 67000 Strasbourg
 
-address: 16 , Place de la Cathédrale, 67000 Strasbourg
+**Flam's**
 
-**Flam’s**
+Good for tarte flambée, the Alsatian answer to pizza — a thin wood-fired base with crème fraîche, onions, and bacon. Casual and lively.
 
-Try the **tarte flambée**, a local specialty, a kind of onion tarte. 
-
-address: 27-29, Rue des Frères
+address: 29 Rue des Frères
 
 **Le St. Sépulcre**
 
-Traditional old-fashioned “Winstub” (wine bar) 
+A traditional winstub on a quiet street near the cathedral. Old-fashioned in the best sense — wooden benches, local wine, and honest Alsatian cooking.
 
 address: Rue des Orfèvres
 
-**Petit Creperie**
-
-A cheap option with great French style Pancakes 
-
-address: 8 , Rue de la râpe, 67100 Strasbourg
-
 **Au Crocodile**
 
-The cook likes to experiment and his experiments are always great! It's not cheap at 50 dollars for a lunch menu and about double for the real thing. 
+A long-standing fine dining address. The cooking is inventive and the execution careful. Expect to pay for it.
 
-address: 10 , Rue de l'Outre
+address: 10 Rue de l'Outre

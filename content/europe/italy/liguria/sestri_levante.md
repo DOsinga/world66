@@ -1,27 +1,14 @@
 ---
-title: "Sestri Levante"
+title: Sestri Levante
 type: location
-latitude: 44.271453
-longitude: 9.395863
+latitude: 44.2715
+longitude: 9.3959
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+Sestri Levante is a small Ligurian town on a narrow peninsula, roughly halfway between Genoa and La Spezia. While the [Cinque Terre](/europe/italy/liguria/thecinqueterre) and [Portofino](/europe/italy/liguria/portofino) get most of the attention on this stretch of coast, Sestri has become a favourite with Italians who want the same beauty with slightly less tourist pressure — though on summer weekends the narrow streets fill quickly.
 
-Sestri Levante is a beautiful little town found approximately
-halfway between [Genoa](/europe/italy/liguria/genoa)and [La
-Spezia](/europe/italy/liguria/laspezia). While [Portofino](/europe/italy/liguria/portofino)and the [Cinque Terre](/europe/italy/liguria/thecinqueterre) are probably the most well known tourist destinations on
-the Italian Riviera, Sestri Levante is becoming quite a favorite among
-Italians. In fact, in the past few years it has become almost impossible to
-walk in town on the weekends. The narrow streets are packed with people that
-come for a weekend stroll and stop leisurely check out the trendy shop windows
-or to get an ice cream or piece of focaccia. This once quiet fishing village is
-slowly turning into a tourist hotspot.
+The peninsula has two bays. The Baia del Silenzio (Bay of Silence) on the northwest side is the more atmospheric — a crescent of calm water backed by pastel-coloured houses with no through traffic, the boats pulled up on the sand. The Baia delle Favole (Bay of Fairy Tales) faces south and is larger and livelier, with a longer beach and more beach facilities. The name of the Baia delle Favole comes from Hans Christian Andersen, who stayed in Sestri Levante and reportedly named the bay himself.
 
-The original part of Sestri Levante is actually on a peninsula,
-with the beautiful Baia del Silenzio (also known as "Portobello") on
-one side and Baia delle Favole on the other. “Baia delle Favole” or “Bay of
-Fairy Tales” was named in honor of Hans Christian Andersen, who lived in Sestri
-for a short time.
-
-**Contributors**
-April 06, 2006
+The old town on the peninsula is genuinely charming, with medieval churches (the 12th-century San Niccolò being the most significant), narrow caruggi (alleyways), and good food shops specialising in Ligurian products — olive oil, pesto, cured meats, honey, and local nougat. The Marconi Tower at the peninsula's high point, where Guglielmo Marconi conducted transmission experiments in the 1930s, gives a panoramic view that extends to the Alps on clear days.

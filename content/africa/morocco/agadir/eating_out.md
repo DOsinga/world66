@@ -3,34 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Agadir has many restaurants. most of them catering exclusively for tourists. For regular Moroccan meals you should head for the Nouvelle Talbortj, where there are many cheap places. 
-
-**all**
-
-**L'Etoile de Marrakesh**
-
-Good Moroccan food, near the Nouvelle Talbortj on the rue de la Foire.
-
-address: rue de la Foire
-
-**Via Veneto**
-
-Best Italian food in south Morocco. 
-
-address: Bd. Hassan II
-
-tel: 08 - 841467
-
-**Le Miramar**
-
-The most chic place to go to. Fish and seefood are quite good. A bit expensive though.
-
-address: Bd. Mohammed V
-
-tel: 08 - 840770
-
-**Mille et une nuits**
-
-Good and cheap real Moroccan food. In the Talborjt area. 
-
-address: Place Lahcen Tamri
+Most of Agadir's restaurants cater to tourists and are clustered along the beach boulevard and in the hotel zone. For genuine Moroccan food at honest prices, head to the Nouvelle Talborjt neighbourhood, where simple restaurants serve tagine and couscous to locals and budget travellers. L'Etoile de Marrakesh on Rue de la Foire is a reliable option for Moroccan dishes. Le Miramar on Boulevard Mohammed V is the smartest fish restaurant in town. The fish stalls at the port offer the freshest and cheapest seafood.

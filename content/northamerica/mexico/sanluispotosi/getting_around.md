@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in San Luis Potosi"
+title: Getting Around
 type: section
 ---
 

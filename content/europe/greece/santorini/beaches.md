@@ -3,53 +3,20 @@ title: "Beaches"
 type: section
 ---
 
-[Santorini](/europe/greece/santorini) is a group of islands off of the [Greek](/europe/greece) coast. Although
-Santorini is know for volcanic eruptions, the islands themselves being
-formed by volcanoes, this has made for some of the most beautiful
-beaches in the world. Perhaps not as popular in the party scene as
-Mykonos, Santorini has a thriving nightlife and is becoming one of the
-most sought-after tourist destinations.
+Santorini's beaches are shaped by its volcanic geology — most of the island's best beaches have black or red sand and pebbles rather than the white sand of other Cycladic islands. The southern coast has the main cluster of beaches, all within a few kilometres of each other and connected by walking or a short bus ride from Fira.
 
-**Perivolos Beach**
+**Perivolos and Perissa**
 
-On the island of
-Santorini sits Perivolos beach. This is the longest "black beach" on
-the island, entitled so because of the black pebbles that make up the
-ground. Almost any water sport you can think of can be done off of this
-beach from jet skiing to windsurfing. Buses and taxis can both take you
-to Perivolos. The beaches Perissa and Agios Georgis will be found on
-either side of Perivolos and, though they have different names, they
-are connected with no barrier.
+The long stretch of black-pebble beach on the southern coast runs almost continuously from Perissa through Perivolos to Agios Georgios. Perivolos is the liveliest section, with sunbeds, water sports (jet skis, windsurfers, pedal boats), and beach bars. Perissa is slightly quieter. Frequent buses connect both to Fira.
+
+**Red Beach**
+
+Near the ancient site of Akrotiri, the Red Beach is Santorini's most visually striking. Towering cliffs of red and black volcanic rock rise directly from the water, and the coarse sand glows deep red in the afternoon sun. It's small and gets crowded; arrive early. The short walk from the road is worth it even if you don't swim.
 
 **Monolithos**
 
-If you just can't wait and go to
-the beach closest to the airport, take a look at Monolithos beach. This
-may not be the absolute best beach in Santorini due to the strong
-winds, but that makes it less populous. This beach also has a
-basketball court and a play area for children. There are beach chairs
-set up all along this beach so all you have to do is bring your bathing
-suit and a towel. Monolithos also sits near the beach Kalamari.
+The beach closest to the airport, Monolithos is a calm black-sand beach with gentle waves — good for families. It's less scenic than the southern beaches but also less crowded, with sunbeds, a children's play area, and a basketball court. Useful if you have an early flight or just want somewhere quieter.
 
-**Kalamari**
+**Kamari**
 
-Kalamari is a
-black beach close to Monolithos beach, on the opposite side of
-Santorini as Perissa beach. A mountainous rock named Mesa Vouno juts up
-from the shore of Kalamari and out into the sea. Kalamari village lines
-the beach so you can also get a taste for the Greek architecture as you
-walk along the cool beach. Water sports are also popular at this beach,
-so you will not be at a loss for activities, and there are beach chairs
-set up along the water that you can lounge in while you take in the
-scenery.
-
-**The Red Beach**
-
-The
-Red Beach is likely the most well known beach of Santorini. It is a
-mystic yet small beach and attracts many tourists due to the large
-mountain-like mounds of red and black volcanic rock in the background.
-Because of the color of the sand, it is very hot to walk or sit on, so
-it is best to wear sandals and there are chairs equipped with umbrellas
-to get a little cooler. In the distance, you can see where the red sand
-turns into tan, thus forming the next beach.
+On the southeastern coast, Kamari is a proper resort town with a long promenade of bars and restaurants running alongside a black-pebble beach. Mesa Vouno, the rocky headland that separates Kamari from Perissa, rises sharply from the water at the southern end. Water sports are available and the beach is well organised with sunbeds and umbrellas.

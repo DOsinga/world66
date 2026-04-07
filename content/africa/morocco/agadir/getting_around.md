@@ -3,6 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Distances in Agadir are relatively big, so you might want to use the petits taxis a little more often. You can alos rent mopeds and motorbikes. They are useful if you want to go to the beaches just out of town.
-
- To get to Inezgane, the main transport hub of Agadir and the whole region, you need to take a bus (no. 22) or a grand taxi.
+Distances in Agadir are larger than they look on a map. Petits taxis are cheap, metered (in theory), and the easiest way to get around the city. Inezgane, the main regional transport hub about 7 km south of central Agadir, is reached by bus (line 22) or grand taxi. Bicycles and mopeds can be hired from several outlets and are useful for reaching beaches south of town.

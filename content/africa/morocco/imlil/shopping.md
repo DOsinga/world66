@@ -1,8 +1,6 @@
 ---
-title: "Shopping in Imlil"
+title: "Shopping"
 type: section
 ---
 
-Atlas Trekking Equipment Shop in Imlil ( www.atlastrekshop.co.uk )
-Our shop, Atlas Trekking Equipment was set up by Mohamed and Paul, two mountaineering friends and colleagues. We both lead and guide groups in the mountains and both wish to share our experiences with others.
-The shop is set in the centre of Imlil village (see map) and offers trekkers the opportunity to buy or hire trekking equipment.
+Imlil has a few small shops selling basic trekking supplies, snacks, and simple gear. Trekking equipment — poles, crampons for winter ascents, sleeping bag hire — is available from equipment rental shops in the village centre. Souvenirs are limited; the focus is entirely practical.

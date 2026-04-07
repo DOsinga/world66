@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in San Luis Potosi"
+title: Eating Out
 type: section
 ---
 

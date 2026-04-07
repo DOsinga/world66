@@ -1,12 +1,12 @@
 ---
-title: "Vezelay"
+title: "Vézelay"
 type: location
 latitude: 47.465731
 longitude: 3.746285
 ---
 
-We currently have no information about Vezelay.
+Vézelay is a hilltop village in northern Burgundy, crowned by the Basilique Sainte-Marie-Madeleine, a masterpiece of Romanesque architecture and a UNESCO World Heritage Site. Richard the Lionheart and Philippe-Auguste of France gathered here in 1190 to set out on the Third Crusade. Before that, it was one of the great pilgrimage staging points on the route to Santiago de Compostela.
 
-If you do know any general information about Vezelay, please [Edit this article].
+The basilica's carved tympanum over the central doorway — Christ in Majesty sending out the apostles — is among the finest examples of medieval sculpture in France. The nave is unusually bright, its alternating light and dark voussoirs giving the interior a rhythm that rewards time spent looking up.
 
-If you know any hotels in Vezelay or restaurants in Vezelay, please [[Add].](/destinations/addItemWizard?addwhere=europe/france/east/burgundy/vezelay)
+The village below the church is small and largely unchanged: a single cobbled street climbing to the abbey, lined with stone houses, a handful of cafes, and modest shops. It's worth arriving early or late in the day to have the hilltop largely to yourself.

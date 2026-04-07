@@ -1,9 +1,9 @@
 ---
-title: "Eating Out in Santa Barbara"
+title: "Eating Out"
 type: section
 ---
 
-With the picturesque panorama of shorelines and sunsets and the constant breeze from the Pacific coast nestling through your hair, **Santa Barbara restaurants** are a haven for tranquility. Whether your penchant is for fine dining, bistro or cafes, seafood or red meat, there are diverse options to gratify any palate.
+Santa Barbara has a serious restaurant scene for a city its size, benefiting from local produce, nearby wine country, and a long-established tradition of California cuisine.
 
 **Fancy Dishes**
 

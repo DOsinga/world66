@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Varadero"
+title: Day Trips
 type: section
 ---
 

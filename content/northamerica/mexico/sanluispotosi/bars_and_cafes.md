@@ -1,8 +1,8 @@
 ---
-title: "Bars and Cafes in San Luis Potosi"
+address: AV VENUSTIANO CARRANZA 1045
+phone: 811-05-31
+title: Bars and Cafes
 type: section
-address: "AV VENUSTIANO CARRANZA 1045"
-phone: "811-05-31"
 ---
 
 **Caf&eacute; los Frailes, One of the Best Bars in Town

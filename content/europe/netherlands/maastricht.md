@@ -1,8 +1,14 @@
 ---
-title: "Maastricht"
+title: Maastricht
 type: location
 latitude: 50.851244
 longitude: 5.690977
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Maastricht (name comes from the Roman Trajectum ad Mosam = crossing the Maas)has had a long history of bringing things together. The city not only combined Roman, Frankish and Renaissance influences but it also united the countries of Europe into the European Union (this is where the treaty was signed). Linger a few minutes in the main square (Vrijthof) to soak up the city’s international atmosphere. Afterward stroll the cobblestone streets and visit the oldest market in the country. We were impressed by the silver trove in the 1 000-year-old St. Servaas Basilica. Maastricht has a wide variety of hotels, one official youth hostel (Dousberg) and several campings. Don’t leave without trying a bonbon from Bruudsje Stols. Not far away are the marl caves of the St. Pietersberg quarried for more than 2 000 years. 125 mi/200 km south of Amsterdam.
+Maastricht is unlike anywhere else in the Netherlands. Tucked into the southernmost tip of the country, wedged between Belgium and Germany, it feels more Burgundian than Dutch — and it wears that difference with pride. The city is famous for the 1992 treaty that created the European Union, but its history runs far deeper: the name comes from the Roman *Trajectum ad Mosam*, the crossing of the Maas, and the Romans are still here in a sense, in the cave systems they began carving out of the soft marl hillside two thousand years ago.
+
+The old centre sits on the west bank of the Meuse, anchored by the Vrijthof square where café terraces sprawl in summer sunshine. Walk south and you reach the St. Servaas Basilica, the oldest church in the Low Countries, whose treasury holds an extraordinary collection of medieval silver. Cross the river to the Wyck district for the Saturday market and the striking Bonnefanten Museum, designed by Aldo Rossi and housing one of the finest collections of Dutch and Flemish Old Masters in the country.
+
+Underground, the limestone caves of the Sint Pietersberg stretch for more than 200 kilometres — a labyrinthine world of tunnels that served as a refuge during wartime and a quarry for centuries. The bonbons from Bruudsje Stols are another local essential. Maastricht is 200 km south of Amsterdam, about two and a half hours by direct train.

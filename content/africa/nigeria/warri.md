@@ -1,18 +1,14 @@
 ---
-title: "Warri"
+title: Warri
 type: location
-latitude: 5.518619
-longitude: 5.74802
+latitude: 5.5186
+longitude: 5.748
+done:
+  location_cleanup: 2026-04-06
 ---
 
-**Warri** is one of Nigeria's oldest riverine towns. It is situated on the banks of the Lower Niger delta which is presently a part of Delta State. The town is is located roughly halfway between [Lagos](/africa/nigeria/lagos) and [Port harcourt](/africa/nigeria/portharcourt). It is an important sea port and a very busy town. 
+Warri is a port city in Delta State in the Niger Delta, roughly halfway between Lagos and Port Harcourt. It is one of the oldest continuously inhabited towns in the region — the Portuguese made contact with the Itsekiri kingdom here in the 15th century — and is the traditional seat of the Olu of Warri, the paramount chief of the Itsekiri people. Today the city is dominated by the oil industry: Shell, Chevron, and other companies have offices here, and Warri is the operational hub for much of Nigeria's offshore and delta oil production.
 
-The town is very popular amongst Nigerians as an oil-producing town. Most of the foreign and indigenous oil companies operating in Nigeria have offices in Warri. Shell, Chevron and Agip take active part in the Crude Oil exploitation activities going on in this southern town. 
+The city's character is shaped by the meeting of three major ethnic groups — the Itsekiri, Urhobo, and Ijaw — who have historically competed for land, political influence, and oil revenues in the delta region. This has produced a city that is energetic and commercially driven but that has also experienced significant ethnic tension and insecurity, particularly in periods when oil revenue disputes have escalated. Visitors should check current conditions before travelling; the situation changes and the city can be difficult for outsiders to navigate safely during troubled periods.
 
-Warri residents are very industrious and accommodating but the present negligence of most of Nigeria's oil-producing areas has virtually turned Warri into a violence-prone area. There is a lot of ethnic violence and political tensions in the town. Visitors should be very objective and careful too. 
-
-The major ethnic groups in the town are the **Urhobos**, **Itsekiris**, **Ijaws**,and **Ibuzos** (igbo-speaking ethnic group in Delta State). Indigenes of Warri are popularly referred to as Wafis. There are more women than men in this town. The major occupations here are fishing, canoeing and some farming. 
-
-The **Olu of Warri** is the traditional ruler of the town. He is a first-class traditional ruler and a member of the state Council of Chiefs. 
-
-Amongst other things Delta state is blessed with a Petroleum Training Institute (PTI) at Effurum (not far from Warri), and the Aladja Steel Complex.
+For those who are here, Warri's daily life plays out in its markets and waterways. The delta environment is close at hand: speedboats connect Warri to surrounding communities in a network that the road system cannot replicate. The food — banga soup, pounded yam, fresh fish, and palm wine — is excellent and authentically local. Benin City, with its extraordinary bronze and ivory court art, is 90 km northwest and the most worthwhile day trip from the city.

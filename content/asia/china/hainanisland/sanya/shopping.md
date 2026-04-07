@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Sanya"
+title: "Shopping"
 type: section
 ---
 
-There are many **Sanya Shopping** opportunities waiting for you in this attractive Chinese city. The unique goods that Sanya offers make it one of the most popular shopping destinations in the region. The emphasis lies particularly on these:
+Sanya is known for pearls, crystal, and tropical produce. Seawater pearls are a genuine local speciality — buy from established shops like GN Pearl or Heren Pearl rather than beach vendors, where fakes are common. A note on coral: products made from coral are illegal to buy and cannot be taken on a plane, despite being freely sold; avoid them.
 
 **Pearls**
 

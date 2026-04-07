@@ -1,13 +1,16 @@
 ---
 title: "Lourdes"
 type: location
-latitude: 43.09409
-longitude: -0.046497
+latitude: 43.0941
+longitude: -0.0465
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Lourdes is a small town of 15,300 inhabitants situated at the foot of the Pyrenees, and dominated by its castle. Lourdes seems very much like all other little towns of the South West of France, with its picturesque market, little shops, rugby and simple parochial life. 
+Lourdes is a small Pyrenean town of some 15,000 people that attracts five million pilgrims and tourists from 150 countries each year, making it the second most important hotel city in France after Paris, with over 270 hotels and 13 campsites.
 
-However Lourdes differs in one aspect: 5 million visitors from 150 countries pass through its streets every year. This makes Lourdes the 2nd most important city in France in the hotel trade. It Has 270 Hotels, 13 camping sites. Each season 6 million letters and post cards are sent from Lourdes.
+The reason is a single event. In 1858, a 14-year-old local girl named Bernadette Soubirous reported 18 apparitions of the Virgin Mary at a grotto beside the Gave de Pau river. The Virgin instructed her to drink from a spring she found there; the spring still flows, and millions believe its waters have healing properties. Lourdes has been one of the world's great Catholic pilgrimage sites ever since.
 
+Apart from its religious significance, the town itself is worth a look. A medieval castle perches on a rocky outcrop above the town, having served as a fortress, a state prison, and a residence of the Counts of Bigorre over the centuries. The surrounding Pyrenean landscape is spectacular — the mountains rise sharply just beyond the town, and the region offers excellent hiking and day trips into the high mountains.
 
- All of this is due to the fact that in the 19-th century a girl called Bernadette saw the virgin Mary. From the first meetings with the Virgin Mary at the Rock of Massabielle, drew with her crowds, and these crowds continue to-day in even greater numbers. During the 18 Apparitions, the Virgin Mary spoke to Bernadette, suggesting that people should come here. Lourdes thus became the most important place of pilgrimage in all of France and many people claim to have been healed here by the Virgin.
+The best time to visit is spring or autumn, when the pilgrimage crowds are smaller. Summer can be overwhelming, but even then the atmosphere is unlike anywhere else in France — candlelit processions, people of all nationalities, and a sincerity of faith that is genuinely moving whether you share it or not.

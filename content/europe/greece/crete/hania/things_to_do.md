@@ -1,44 +1,33 @@
 ---
-title: "Things to do in Hania"
+title: "Things to Do"
 type: section
-address: "Chania"
-email: "sales@diktynna-travel.gr"
-phone: "+30 28210 41458"
-type: "Hiking"
-url: "www.diktynna-travel.gr"
-latitude: 35.512083
-longitude: 24.019154
 ---
 
-June 26 - July 4, 2010
-Creativity Workshop
-Creative Writing, Drawing, Storytelling and Memoir.
-Creativity is a talent we are all born with. But it needs practice to stay vibrant and grow.
-Come to explore your creative potential and see some of the most beautiful places in the world.
-admin@creativityworkshops.com
-1 (831) 915-5209
+Hania rewards wandering. The old town is small enough to cover on foot, and much of the pleasure is in the walking itself — through the old Jewish quarter (Evraiki), along the harbour front, and through the Venetian neighbourhood of Splantzia. Beyond the city, the Samaria Gorge is the most famous day trip in all of Crete.
 
-### [Samaria Gorge Day Trip](/europe/greece/crete/hania/things_to_do/samaria_gorge_day)
+**Venetian Harbour and Lighthouse**
 
-Join our small group tour to enjoy
-a guided 16km hike through the longest and most impressive of Europe’s
-limestone gorges, a magnificent example of Crete’s many gorges, from the
-White Mountains down to the Libyan sea. We
-start early in the morning and passing through several beautiful
-villages we reach the plateau of Omalos. The hikel lasts
-approximately 6 hours and will take you - along a breathtaking and
-constantly changing landscape - down to Agia Roumeli, a fishing village
-by the South coast, accessible only by boat. The
-tour will allow you a chance [more..](/europe/greece/crete/hania/things_to_do/samaria_gorge_day)
+The old harbour, with its 16th-century lighthouse, the great Venetian breakwater, and the converted janissary mosque is the centrepiece of Hania. Most beautiful at dusk.
 
-type: Hiking
+latitude: 35.5192
+longitude: 24.0167
 
+category: Sight
 
+**Archaeological Museum**
 
-tel: +30 28210 41458
+Housed in the former Venetian church of Agios Fragkiskos. A good collection of Minoan artifacts from western Crete, including pottery, jewelry, and clay tablets.
 
-url: [www.diktynna-travel.gr](http://www.diktynna-travel.gr)
+category: Museum
 
-address: Chania
+**Maritime Museum**
 
-email: sales@diktynna-travel.gr
+Located in the Firkas fortress at the harbour entrance. Covers Cretan and Greek naval history with particular attention to the Battle of Crete in 1941.
+
+category: Museum
+
+**Samaria Gorge**
+
+A 16-km hike through Europe's longest limestone gorge, descending from the Omalos plateau at 1,227 m to Agia Roumeli on the Libyan Sea. Allow five to seven hours; open May to early October. Boats connect Agia Roumeli with Hora Sfakion for the return trip.
+
+category: Hiking

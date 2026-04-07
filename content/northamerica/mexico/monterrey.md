@@ -1,14 +1,16 @@
 ---
 title: "Monterrey"
 type: location
-latitude: 25.680202
-longitude: -100.315258
+latitude: 25.6802
+longitude: -100.3153
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Founded in the 16-th century and named after the Spanish Viceroy Count Monterrey, the city of Monterrey is most important city in the north of [Mexico City](/northamerica/mexico/mexicocity) and an industrial and economic powerhouse. 
+Monterrey is Mexico's third-largest city and its industrial and financial powerhouse — founded in 1596 and named after the Spanish Viceroy Count Monterrey, it has always been more focused on commerce than culture. That said, the city has invested heavily in its public spaces and museums, and it's a genuinely interesting place to spend a few days.
 
-**Monterrey** is **Mexico**’s third largest city; it's not one of those laid back towns with colonial architecture you've seen in the movies. It's vibrant and full of life. The Gran Plaza of Monterrey is the center for the state government of **Nuevo León**. The Plaza’s modern buildings, gardens, and monuments are a reflection of the city that has fully embraced the spirit of modern industrialism. 
+The Gran Plaza (Macroplaza), one of the largest public squares in the world, anchors the city centre. It's surrounded by government buildings, gardens, and monuments, and gives onto the Barrio Antiguo — the historic neighbourhood of 19th-century buildings now filled with bars, restaurants, and galleries. The Museo de Arte Contemporaneo (MARCO), in a striking modern building by Ricardo Legorreta, is one of the best contemporary art museums in Latin America, with a strong focus on Mexican and Latin American artists.
 
-Monterrey is surrounded by the Sierra Madre mountains. The city is set at an elevation of 1,800 feet above sea level - the climate is a lot better here than in Mexico City. Monterrey is the main transport hub of the north and there are many routes into and out of Monterrey, including excellent highways, railroads, and Monterrey’s international airport which offers daily flights to and from many cities in Mexico and the United States. 
+Monterrey is surrounded by the Sierra Madre Oriental mountains. The Parque Fundidora, built on the site of the city's old iron foundry, is an excellent urban park with walking trails, a canal, and several museums. The Chipinque Mesa nature reserve on the edge of the city offers hiking with panoramic views over the city and surrounding mountains. The Cervecería Cuauhtémoc Moctezuma — producers of Dos Equis and Tecate — offers tours and has a publicly accessible beer garden under old oak trees.
 
-The city is spread out, but remains relatively crowded. The city is wealthier than most other Mexican cities, and consequently, the prices here tend to be higher. Despite the minor disadvantages, Monterrey is a beautiful, modern city that has much to offer both in business and tourism.
+The city is wealthier than most Mexican cities and prices reflect that. It's also hot and sprawling; a car or taxi is useful outside the immediate centre.

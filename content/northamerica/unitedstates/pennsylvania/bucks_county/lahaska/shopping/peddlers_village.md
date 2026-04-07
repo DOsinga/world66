@@ -1,30 +1,13 @@
 ---
 title: "Peddler's Village"
 type: poi
-address: "Route 202, Lahaska, PA"
-email: "info@peddlersvillage.com"
+address: "Route 202, Lahaska, PA 18931"
 phone: "(215) 794-4000"
-type: "Speciality shops"
-url: "www.peddlersvillage.com"
+url: "https://www.peddlersvillage.com"
+latitude: 40.3468
+longitude: -75.0310
 ---
 
-The magical mix of merchandise found in the **70 specialty shops** ranges from classic to contemporary. Select special gifts and one-of-a-kind finds for yourself, friends and family - such as wearable art, jewelry, fashion accessories, gourmet foods, toys and novelties, handicrafts, home furnishings, collectibles, leather goods, flowers, and more.
+A sprawling open-air shopping village with around 65 specialty shops, several restaurants, and a hotel, all set among landscaped gardens and winding brick paths. The mix runs from boutique clothing and jewelry to gourmet food, toys, and home goods. Seasonal festivals draw crowds year-round, especially the Scarecrow Festival in autumn and the Grand Illumination over the holidays.
 
-You will find a wide range of dining opportunities in the **7 restaurants** from hearty meals to late-night nibbles; from romantic dinners to contemporary foods in a casual, family-oriented setting; from traditional American cuisine in a Colonial-styled dining room to a mid-after noon snack.
-
-**Contributors**
-January 20, 2006
-
-type: Speciality shops
-
-
-
-
-
-tel: (215) 794-4000
-
-url: [www.peddlersvillage.com](http://www.peddlersvillage.com/)
-
-address: Route 202, Lahaska, PA
-
-email: info@peddlersvillage.com
+It is touristy by design, but the setting is pleasant and the range of independent shops makes it more interesting than a typical outlet mall. Plan a couple of hours for browsing and a meal.

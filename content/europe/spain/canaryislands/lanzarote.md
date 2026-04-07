@@ -1,31 +1,18 @@
 ---
-title: "Lanzarote"
+title: Lanzarote
 type: location
-latitude: 29.039708
-longitude: -13.636292
+latitude: 29.0397
+longitude: -13.6363
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The extraordinary light on the island of Lanzarote is undeniably one of the most startling features for the visitor. This is due in large part to the colors of the landscape caused by the various dark hues of the lava contrasting with the clarity of the sandy beaches.
- The climate, dry and sunny as corresponds to its easterly geographic position but with low hills, is responsible for the absence of green in the landscape, and the sparse vegetation on the island seems to grow miraculously out of nowhere, constituting botanical formations that are often very rare. One might think that this desert-like dryness would create an unfriendly landscape, but Lanzarote is just the contrary, the impression the visitor receives is of an inviting and enchanting land.
+Lanzarote looks like nowhere else in Europe. The island is almost entirely volcanic, a landscape of black lava fields, rust-red craters, and pale sandy beaches under a sky that rarely clouds over. What could be barren and hostile is instead strangely beautiful -- the contrast between dark rock and white sand, between the deep blue Atlantic and the ochre desert interior, gives the island an otherworldly quality that stays with you.
 
-A chief attraction in Lanzarote is its extraordinary volcanic landscape with a multitude of remarkable places, including Timanfaya National Park, El Golfo, and Los Verdes caves, to which the superb, white sandy beaches must be added.
- Lanzarote is an example to the world of tourism sustained by its magnificent integration with the environment. The hotel infrastructure, although well-developed, has avoided agglomeration by adopting forms more in harmony with the landscape, including small housing developments and the use of traditional architecture.
+Much of the credit for Lanzarote's character goes to César Manrique, the local artist and architect who fought to keep the island free of high-rises and neon. Thanks to him, buildings stay low and white, developments blend into the landscape, and the island's volcanic features have been turned into art rather than paved over. His influence is everywhere: in the underground concert hall at Jameos del Agua, in the cactus garden at Guatiza, in the cliffside viewpoint at [Mirador del Rio](/europe/spain/canaryislands/lanzarote/miradordelrio).
 
+The volcanic heart of the island is Timanfaya National Park, where eruptions in the 1730s buried a quarter of Lanzarote under lava. The park is eerie and magnificent -- you drive through a sea of frozen lava while geothermal heat still rises from the ground. Nearby, the green lagoon at El Golfo sits in a half-collapsed volcanic crater, and the Cueva de los Verdes leads you through a lava tube stretching several kilometres underground.
 
- The old capital of Lanzarote is [Teguise](/europe/spain/canaryislands/lanzarote/teguise). It is a charming little town and on sundays it has a great market. North of Teguise is the Mirador del Rio which offers excellent views over the Ocean and some small islands off the coast of Lanzarote.
- 
+The main resorts are [Puerto del Carmen](/europe/spain/canaryislands/lanzarote/puertodelcarmen) on the southeast coast and [Playa Blanca](/europe/spain/canaryislands/lanzarote/playa_blanca) in the south. Neither is glamorous, but both stay mercifully low-rise. For something with more character, head to [Teguise](/europe/spain/canaryislands/lanzarote/teguise), the old capital, especially on Sundays when the market fills the town. The modern capital [Arrecife](/europe/spain/canaryislands/lanzarote/arrecife) is a working port city that most visitors skip, though it has a pleasant waterfront and a couple of Manrique-designed attractions worth a stop.
 
-The most popular tourist resort on the island is Puerto del Carmen. Although not very large in size, it has numerous restaurants, night spots, shops, and a nice beach. Costa Teguise, further north, assembles a group of select hotels, where we find the renowned Hotel Salinas, one of the most luxurious hotels in Europe. On the southern coast, Playa Blanca is a tourist center that has grown around a small fishing port. Nearby are the most stunning beaches on the island, the idyllic coves of Papagayo with white sand and crystal-clear waters, only accessible by dirt roads and preferably with a 4-wheel drive vehicle. The relative isolation of this succession of beaches has kept most of them unspoiled.
- 
- 
-
-Courtesy of:** TURESPAÑA**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!
-
-## Destinations in Lanzarote
-
-[Mirador del Rio](/europe/spain/canaryislands/lanzarote/miradordelrio)
-[Puerto del Carmen](/europe/spain/canaryislands/lanzarote/puertodelcarmen)
-[Teguise](/europe/spain/canaryislands/lanzarote/teguise)
+The best beaches are in the south: the Papagayo coves near Playa Blanca have white sand and clear water reached by dirt tracks, and their relative inaccessibility keeps them uncrowded. Famara beach on the northwest coast is wilder and windier, popular with surfers and with a dramatic cliff backdrop.

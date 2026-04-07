@@ -1,8 +1,16 @@
 ---
-title: "Lausanne"
+title: Lausanne
 type: location
-latitude: 46.521827
-longitude: 6.632702
+latitude: 46.5218
+longitude: 6.6327
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Lausanne, better known as the Olympic City of the world, is a small city that has a lot to offer. There are several good museums (besides the famous Olympic Museum) and some interesting sights, such as the Gothic Cathedral. Built on three hills, Lausanne offers some astonishing views of the surroundings. It’ll only take a short walk to take a boat tour on the lake or a short ride to explore the great snowy outdoors.
+Lausanne tumbles down three steep hills to the shore of Lake Geneva, and that verticality shapes everything about the city. You are always climbing or descending, catching sudden views of the lake and the French Alps beyond. It is a compact place — walkable in theory, breathless in practice — with a medieval old town stacked above a lakefront that feels almost Mediterranean on a summer evening.
+
+The city is best known as the home of the International Olympic Committee, and the Olympic Museum down by the lake is genuinely worth the visit. But Lausanne has more going on than that. The Gothic cathedral is one of Switzerland's finest, the Collection de l'Art Brut is unlike any museum you have seen, and the Flon district — a former warehouse area below the old town — has become a lively hub of bars, restaurants, and galleries.
+
+Lausanne sits at the heart of the Lavaux vineyard terraces, a UNESCO World Heritage landscape of steep vines running along the lakeshore toward [Montreux](/europe/switzerland/montreux). The local Chasselas wines are rarely exported, so this is the place to drink them. The city also makes a good base for exploring the Swiss Riviera, with excellent rail connections along the lake and into the Alps.
+
+The university and the EPFL campus give the city a youthful energy, and there is a surprisingly good food and bar scene for a place this size. Lausanne is not cheap — this is Switzerland — but it rewards a couple of days of wandering.

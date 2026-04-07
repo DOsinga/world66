@@ -1,5 +1,5 @@
 ---
-title: "Things to Do on St. Simons Island"
+title: "Things to Do"
 type: section
 ---
 

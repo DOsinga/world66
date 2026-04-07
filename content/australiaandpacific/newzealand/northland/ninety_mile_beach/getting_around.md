@@ -1,63 +1,32 @@
 ---
-title: "Getting Around in Ninety Mile Beach"
+title: "Getting Around"
 type: section
 ---
 
-** Rules for Driving On the Tohe (Ninety Mile Beach)
+Driving on Te Oneroa a Tohe is nothing like driving on a road. The surface is sand, the lanes are unmarked, and the hazards are real. These rules apply specifically to Ninety Mile Beach.
 
-**
-Make sure you have a shovel with you - while you may not need it you would not want to be stuck without one.
+**Bring a shovel.** You may not need it, but you do not want to be stuck without one.
 
-If you see anyone in trouble - stop and get out and help - the next time that could be you.
+**Stay in the middle zone.** Drive roughly halfway between the soft sand near the dunes and the waterline. Follow existing tyre tracks -- you can tell from the depth whether someone ahead hit soft sand.
 
-Do not speed out there - it is far more dangerous than any road and
-while it may look tempting to speed, the locals who often use this as
-an alternative road don't so that should tell you something.
+**Do not drive near the dunes.** The sand is soft and you will get stuck.
 
-Do not drive too close to the sand dunes - the sand is soft here and you will get stuck. ***
+**Do not drive in the water.** Rogue waves known as sweeps can rush in and literally sweep a vehicle away. You may see the roof of a buried car poking through the sand.
 
-Do not drive in the water - there are waves known as sweeps that
-can rush in and literally sweep you away - sometimes you may be able to
-see the roof of a car buried in the sand. *******
+**Watch for corrugation and humps.** The sand sometimes forms speed humps or hollows. Take these at an angle -- hitting them head-on can snap a front axle. Travel slowly over corrugated sections.
 
-Drive about half way between the soft sand and the water mark - follow
-in others tyre tracks is always a good idea as you will be able to tell
-from their tyre tracks if they have hit soft sand - the tracks get
-deeper. ** *****
+**Cross streams at an angle toward the dunes, not the sea.** You do not want to be caught in a sweep.
 
-Sometimes there will be "speed humps" or "speed hollows" in the
-sand - take these at an angle as taking them straight on can cause the
-front axle to snap.
+**Do not speed.** It is far more dangerous than any road. The locals who use this as an alternative route do not speed, and that should tell you something.
 
-Sometimes there is bad corrogation in the sand, travel over this slowly.
+**No sudden turns.** Sharp steering inputs at speed can flip a vehicle as the sand creates ridges and resistance. SUVs and 4WDs are more prone to tipping than cars.
 
-Always take streams on an angle - and make sure the angle is towards
-the dunes and not the sea - you don't want to find yourself caught in a
-sweep.
+**Passing traffic.** There are no painted lanes. Let oncoming vehicles pass on whichever side comes naturally -- do not change your mind at the last moment.
 
-Keep an eye out for the wild life - often you can see penguins and
-other sea birds as well as sometimes sting rays and the occasional
-whale or shark stranded. If these creatures are still alive, help them
-back into the sea, or if you are hungry, kill them and eat them - fresh
-shark is absolutely AMAZING!
+**Give way to anything bigger than you.**
 
-There are no lanes painted out there so you can pass oncoming traffic
-on either side, but the rule of thumb is which ever side they are going
-to naturally pass on depending where they are drive, then let that be -
-do not change your mind at the last minute and try and get onto the
-other side
+**If you see someone stuck, stop and help.** Next time it could be you.
 
-Give way to all vehicles bigger than yours.
+There are many exit ramps along the beach but only about three heading north are suitable for tourists. [Te Paki Stream](/australiaandpacific/newzealand/northland/te_paki_stream) is the northernmost. The locals use the others, but they have the vehicles and know the terrain -- you can spot these exits by the tyre tracks going straight up the dunes and disappearing over the top.
 
-Never make any sudden sharp turns as you can flip as the sand will
-create ridges and resistance. NOTE: if you are in a 4WD or SUV these
-can tip easier than a car - you have been warned.
-
-There are many "off ramps" but only about 3 heading north for tourists, [Te Paki Stream](/australiaandpacific/newzealand/north_island/northland/te_paki_stream) is the northern most one.
-
-The locals use all of the others but they have the vehicles and
-know the terrain. You can keep an eye out for them - just look for
-where there are tyre tracks going straight up the dunes and
-disappearing.
-
-***** These Rules Apply To Te Oneroa a Tohe - Ninety Mile Beach Only - different beaches different rules!**
+Keep an eye out for wildlife: penguins, sea birds, and occasionally stingrays or a stranded whale or shark.

@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Many roads lead to Radstadt. Either by car along the Tauern highway or simply by express train, Radstadt is just a skip away from Salzburg. In the heart of the Salzburger Sportwelt Amadé, amidst the Top Tauern skiing area, between the Dachstein and the Radstädter Tauern mountain ranges, Radstadt offers an excellent ambience for a winter holiday.
+Radstadt sits on the main Salzburg-to-Villach rail line, with regular express trains stopping at the station. The journey from Salzburg takes about an hour. By car, take the A10 Tauern motorway and exit at Radstadt; the town is roughly 75 km south of Salzburg. Salzburg Airport is the nearest international airport, and shuttle transfers to Radstadt are widely available during ski season.

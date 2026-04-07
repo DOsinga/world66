@@ -1,13 +1,9 @@
 ---
-title: "Surf's Up"
+title: "Surfing"
 type: poi
-type: "Surfing"
-latitude: 5.972792
-longitude: 80.43377
+category: "Sight"
+latitude: 6.0195
+longitude: 80.2465
 ---
 
-Surfin's catching on fast in Unawatuna, many of the local kids have
-mastered the art of staying afloat. Surf boards can be rented out from
-locals, they would be out at sea any day the surf's up.
-
-type: Surfing
+Surfing has taken off in Unawatuna, driven largely by local kids who have made the most of the bay's consistent swells. The waves here are modest compared to the east coast, which makes it a reasonable spot for beginners. You can rent boards from locals on the beach for a few hundred rupees. The best conditions tend to be outside the calm season, when the swell picks up, though the reef keeps things from getting too rough inside the bay.

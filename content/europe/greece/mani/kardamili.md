@@ -5,4 +5,8 @@ latitude: 36.896646
 longitude: 22.219868
 ---
 
-Kardamili is a scenic valley in Exo Mani south of Kalamata. It is a frequent stop for travelers headed south to Mesa Mani. The town was mentioned in the Illiad and has been in continuious use ever since. [Nothing is much left of the old classical town, just up the hill from the current town, and bearing a differnt name.] There is a very nice beach, and an internet cafe. The quiet beauty of the place, and relatively uncrowded beach make this a favorate place for the people of Kalamata to take important visitors.
+Kardamili is a small coastal village in Exo Mani, about 35 kilometres south of [Kalamata](/europe/greece/kalamata). Mentioned in the Iliad as one of the seven cities offered by Agamemnon to Achilles, it has been continuously inhabited ever since — though little remains of the ancient settlement on the hillside above.
+
+What draws visitors today is the setting: a pebble beach backed by olive groves, with the Taygetos mountains rising sharply behind. The village is quieter and less developed than [Stoupa](/europe/greece/mani/stoupa) further south, which is exactly why many people prefer it. Patrick Leigh Fermor, the great British travel writer, loved the area so much he built a house just outside town and lived here for decades.
+
+Kardamili is also a fine base for hiking. Trails lead up into the Viros Gorge and onto the Taygetos ridge, with routes ranging from gentle strolls to serious mountain walks.

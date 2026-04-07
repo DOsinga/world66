@@ -1,10 +1,14 @@
 ---
-title: "Durness, Sutherland"
+title: Durness, Sutherland
 type: location
+latitude: 58.5685
+longitude: -4.7507
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Durness is as far north-west as you can get by car and there is a bit of accommodation there including a camp site. There are good views of the Orkneys, though it can well follow the old adage: if you can't see them, it's raining; if you can, it's going to rain.
+Durness is as far north-west as you can get by car in mainland Scotland — a small village on the Atlantic coast of Sutherland, with views across to the Orkney Islands on clear days. There is a saying here: if you can see the Orkneys, it's going to rain; if you can't see them, it is already raining. Plan accordingly.
 
-There's so little to say about the village as such that the two nearest trips which make it a place to stay may as well come on this page. The first is a walk to Faraidh Head where families of eider ducks appear at the rght season, mothers leading their ducklings through the heavy swell. On the rocks near the headland itself you can look down well below the water at seals playing, though in really bad weather conditions you may well prefer not to see them being battered.
+The village itself is tiny, but it earns its place on the itinerary as the base for two exceptional excursions. The first is Cape Wrath, the most north-westerly point in Scotland. To get there you take a passenger ferry across the Kyle of Durness and connect with a minibus to the lighthouse — the road does not connect to any other, which is why the cape remains so wild. Puffins and other nesting auks can be seen from the cliffs in season, though the drops are precipitous. The second is Smoo Cave, a five-minute walk from the village centre: an impressive sea cave with an 80-foot underground waterfall and an estuary that opens to a stunning coastal view.
 
-For the second trip to Cape Wrath, the most northwesterly point in Scotland, you have to take a passenger ferry across an nlet of the sea to connect with a minibus. There is no alternative route to Cape Wrath, unless you are into long walks, as the road taken to the lighthouse does not connect with any other. On the way to the lighthouse the driver will advise on the best point to get off to see the nesting auks, including puffins. If there are children in the party, considerable caution is required as the cliffs are precipitous.
+There is some accommodation in the village, including a campsite, and Sandwood Bay — arguably the most beautiful unspoilt beach in Britain — is about 25km to the south-west.

@@ -1,28 +1,6 @@
 ---
 title: "Shopping"
 type: section
-email: "sales@allindiaflorist.com"
-phone: "919897064001"
-type: "Shopping centers and malls"
-url: "www.allindiaflorist.com"
-latitude: 10.673995
-longitude: 76.186901
 ---
 
-All India FlowersAll India Flowers send flowers to India, Delhi Mumbai Chennai Calcutta Bangalore Hyderabad and all India at affordable prices. Guaranteed delivery of flowers in India and sweets gifts chocolates and cakes to India.
-
-### [All India Florist](/asia/india/punjab/amritsar/shopping/all_india_florist)
-
-Leading online florists send flowers to India. Online floral gifts shop gifts cakes, floral blooms and flower blossoms delivery all over India at low prices. Send Diwali Gifts to India. Florist sends birthday cake gift and fresh flowers to India the same
-
-type: Shopping centers and malls
-
-
-
-[[rate it]](/asia/india/punjab/amritsar/shopping/all_india_florist)
-
-tel: 919897064001
-
-url: [www.allindiaflorist.com](http://www.allindiaflorist.com/)
-
-email: sales@allindiaflorist.com
+Amritsar is a good place to buy Punjabi phulkari embroidery — the bright geometric needlework used on dupattas and shawls. Hall Bazaar, running from the railway station toward the Golden Temple, is the main shopping street. The lanes of the old city around Katra Jaimal Singh are crowded with fabric shops and goldsmiths. For spices, dried fruit, and local pickle, the market around the Golden Temple complex is hard to beat.

@@ -1,8 +1,10 @@
 ---
-title: 'Greensboro'
+title: Greensboro
 type: location
 latitude: 36.072635
 longitude: -79.791975
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Greensboro sits in the central Piedmont of North Carolina, once the textile capital of the state and now increasingly a center for transportation and education, with five universities calling it home.

@@ -1,28 +1,11 @@
 ---
 title: "The Bangkok Restaurant"
 type: poi
+category: Thai
 address: "4691 Swift Rd"
 phone: "(941) 922-0703"
-type: "Thai"
-latitude: 27.287342
-longitude: -82.514057
+latitude: 27.2873
+longitude: -82.5141
 ---
 
-Good ass food that you will have to wait in line for. There is alway a line for this place, even on a weekday. So get there early and stand in line.
-
-You should try the snapper fish which is fried whole in a curry sauce. The pad thai is great. The desserts are wonderful.
-
-Price is average range for any typical Thai place.
-
-**Contributors**
-March 13, 2007
-
-type: Thai
-
-
-
-
-
-tel: (941) 922-0703
-
-address: 4691 Swift Rd
+A Thai place that draws a loyal local crowd — expect a line even on weekdays, so arrive early. The whole fried snapper in curry sauce is the thing to order. Pad thai is solid. Portions are generous and prices are reasonable for what you get.

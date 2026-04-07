@@ -1,16 +1,18 @@
 ---
-title: "Dundee"
+title: Dundee
 type: location
-latitude: 56.460594
-longitude: -2.97019
+latitude: 56.4605
+longitude: -2.9702
+done:
+  location_cleanup: 2026-04-07
 ---
 
-There are many well known cities in Scotland that offer many exciting cultural attractions, and Dundee is not one of them; not 'well known', that is, but 'cultural attractions' it does have. Being that Dundee has been consistently voted one of the top ten cities in Britain for quality of life probably hints to why it is now the choice of most Edinburgh professionals looking for a hometown without the price tag of said 'Edinburgh'. Still, with growing popularity Dundee remains a lesser known city, good or bad. 
+Dundee sits on the north bank of the Firth of Tay, Scotland's fourth-largest city and one its most underestimated. It has been consistently voted among the top ten cities in Britain for quality of life, which goes some way to explaining why Edinburgh professionals increasingly choose it as a hometown without the capital's price tag. Still, Dundee remains largely overlooked by visitors, and that is part of its appeal.
 
-So what does Dundee offer? (Don't ask too many non-Dundonian Scots, they don't seem to know.) You will find a beautiful and proud city centered around an old town midway between the Mouth of the River Tay (longest in Britian) and the unusual dormant Volcano that towers over everything and lends itself to being the centerpoint of Dundee. The views are magnificent and stretch for miles on a clear day. 
+The city wraps around the volcanic plug of Dundee Law, which rises above the centre and offers sweeping views across the Tay to Fife. Below it, the waterfront has been transformed by the V&A Dundee, Scotland's first design museum, which opened in 2018 and gave the city a striking new landmark. Nearby, RRS Discovery — the ship that carried Scott and Shackleton to Antarctica in 1901 — sits in its own museum at Discovery Point.
 
-Historically, Dundee was known for its Jute, Jam and Journalism. (Think of backs of carpets, Marmalade and, well, journalism.) Nowadays, they don't really exist except the converted old mills and the odd museum giving you a good-old-days story. Today, they have been replaced by the industrial strength Universities, Research Centers, Hospital Training Grounds, Art school and pubs that service those who attend. The student population is very international and creates quite a sub-culture itself. 
+Historically, Dundee was known for jute, jam and journalism. The jute mills are long converted, the marmalade industry has moved on, and DC Thomson (publishers of The Beano and The Dandy) is the last survivor of the three Js. What replaced them is a concentration of universities, research centres and an art school that gives the city a young, international feel. The student population drives a lively pub and cafe scene, particularly along Perth Road and around the university quarter.
 
-Culturally, you can hit the Seaside fare of Broughty Ferry Castle (plenty more Castles on the outskirts) and venture aboard the Century old ship 'Discovery' that carried Sir Walter Scott to the Arctic, or was it the Antarctic; anyway, it was a magnetic pole! Or, you can time your trip to coincide with one of the growing mini-festivals like the Guitar Festival sometime in the Summer. If that's not enough, the Indio-Pakistani-Chinese community have plenty food restaurants. Cafe's abound. And, no town is complete without endless pubs and bars, European style. 
+Beyond the centre, the seaside suburb of [Broughty Ferry](/europe/unitedkingdom/scotland/dundee/broughtyferry) has a castle on the waterfront, a string of good restaurants, and a proper beach. The countryside around Dundee is accessible too — Angus glens and the east coast fishing villages are within easy reach.
 
-To sum, Dundee is a great place to live but doesn't really boast of touristy stuff. There is much to shop, see, eat and learn but its just not made easy for the tourist. You have to go get it yourself, which for people who want to escape spoon-fed culture, its just perfect!
+Dundee is not a city that spoon-feeds its visitors. There are no hop-on-hop-off buses, no polished tourist trails. You find things by wandering, by asking, by ducking into the places that look interesting. For travellers who prefer that, it is just right.

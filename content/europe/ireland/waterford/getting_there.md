@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Waterford"
+title: Getting There
 type: section
 ---
 

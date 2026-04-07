@@ -1,20 +1,12 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
+Dogon Country is all about hiking the escarpment. The villages strung along the cliff face are the attraction, and you reach them on foot with a local guide. Treks range from a few hours to over a week, depending on how deep you want to go.
 
-**One day hike**
+**One-day hike** -- Start in [Sanga](/africa/mali/dogoncountry/sanga). Three loop routes leave from the village: the Petit Tour (7 km), Moyen Tour (10 km), and Grand Tour (15 km). All give you a taste of the escarpment villages and can be done comfortably in a day.
 
-For a one day hike, start in [Sanga](/africa/mali/dogoncountry/sanga). There are different one day hikes starting and finishing there, called Petit Tour (7 km), Moyen Tour (10 km) and Grand Tour (15 km).
+**Two-day hike** -- From [Bandiagara](/africa/mali/dogoncountry/bandiagara), hike down the escarpment to spend the night in Kani Kombole, Teli, or Ende. Sleeping in a village gives you a completely different experience from a day trip. The basic guesthouses are simple but welcoming.
 
- From [more..](/africa/mali/dogoncountry/thingstodo/onedayhike)
-
-**Two days hike**
-
-On a two day hike, you have the possibility to sleep in one of the villages which gives you a unique impression.  From Bandiagara the best place to sleep is Kani-Kombole, Teli or Ende.** Erin Coleman:** I have taken this trip from Bandiagara, spent the day in Kani-Komnole, and then [more..](/africa/mali/dogoncountry/thingstodo/twodayshike)
-
-**Longer Hikes**
-
-Longer hikes from [Bandiagara](/africa/mali/dogoncountry/bandiagara) and Sanka are mostly first to Tel, then going north, sleeping in Yawa or Douro and then back. It is also possible to a complete north-south trip, starting in Sanga and finishing in Bandiagara or [more..](/africa/mali/dogoncountry/thingstodo/longerhikes)
+**Longer hikes** -- Multi-day treks from Bandiagara or Sanga typically head south through Teli and then north, overnighting in Yawa or Douro before looping back. You can also do a full north-to-south traverse, starting in Sanga and finishing in Bandiagara or [Bankas](/africa/mali/dogoncountry/bankas). Allow four to eight days for these longer routes.

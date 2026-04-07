@@ -1,14 +1,10 @@
 ---
 title: "Bankas"
 type: location
-latitude: 14.078614
-longitude: -3.518749
+latitude: 14.0786
+longitude: -3.5187
 ---
 
-Bankas is at the southern end of the escarpment. It is one of the better starting points for a trek. The guides are more friendly than in Bandiagara. Market day is monday.
+Bankas sits at the southern end of the Bandiagara Escarpment and is one of the better starting points for a trek into Dogon Country. The guides here tend to be friendlier and less pushy than in [Bandiagara](/africa/mali/dogoncountry/bandiagara). Market day is Monday.
 
-
- The best place to stay is Campement Hogon, a few hundred meters from the central bus stop. Camping is also allowed. Other options include: Hotel les Arbres and Hotel-Bar Faida.
-
-
- Bankas is most easily reached from [Mopti](../../mopti) by road. The trip takes about five hours.
+The town is most easily reached from [Mopti](/africa/mali/mopti) by road. The trip takes about five hours.

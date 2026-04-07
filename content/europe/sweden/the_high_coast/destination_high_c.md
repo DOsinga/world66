@@ -1,6 +1,8 @@
 ---
-title: "Destination High Coast"
+title: Destination High Coast
 type: location
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Travel Guide

@@ -3,10 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-The new international airport El Catey at Samana is open.
+The nearest airport is El Catey International Airport (AZS), also called Samaná International, about 35 minutes by car from Las Terrenas. It handles seasonal charter flights and a limited number of scheduled routes, mostly from North America and Europe.
 
-You can see more at the website www.elcatey.com. You can find flight schedules at companies that fly to el Catey, in Samana next to Las Terrenas.
+Most visitors fly into Santo Domingo (SDQ) or Puerto Plata (POP) and drive. From Santo Domingo the journey takes around three hours via the Samaná highway, a modern toll road that has cut travel time significantly. From Puerto Plata, count on four to five hours.
 
-el Catey international airport is 35 minutes from Las Terrenas by car. To Samana city takes you by car also around 35-40 minutes.
-
-The airport is open since november 2006. In decembier 2007 American airlines opened a daily flight from New York to El Catey via Puerto Rico.
+Gua-guas (shared minibuses) run from Santo Domingo to Samaná and from Samaná to Las Terrenas. The ride is cheap and straightforward. Caribe Tours operates scheduled bus service on the same route. A private taxi from Santo Domingo airport will cost roughly $150–200 USD.

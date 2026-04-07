@@ -2,7 +2,9 @@
 title: "Bandiagara"
 type: location
 latitude: 14.3505
-longitude: -3.611277
+longitude: -3.6113
 ---
 
-This dusty village is the gateway to the Bandiagara Escarpment a rocky cliff 125 mi/200 km long that provides shelter to the fascinating Dogon people. The Dogon built a string of villages along the ridge and up high into the face of the cliff that can be seen on one-to eight-day hikes (guides are recommended). Because of the difficulty in getting to the region few tourists bother to go there so the Dogons’ culture with its unique religious ceremonies fabulous masks and hypnotic dances has changed little over the centuries.
+Bandiagara is the gateway to the Bandiagara Escarpment, a 200-kilometre sandstone cliff that shelters the Dogon villages. The town itself is dusty and functional, but it is where most travellers arrange guides and supplies before heading out on multi-day treks along the escarpment.
+
+Because the region is remote and transport is infrequent, few tourists make it here. Those who do find that the Dogon culture, with its elaborate mask ceremonies, hypnotic dances, and cliff-face architecture, has changed remarkably little over the centuries. Arrange your guide and provisions in town, then head for the escarpment.

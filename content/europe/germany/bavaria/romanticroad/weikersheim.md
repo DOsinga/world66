@@ -5,19 +5,6 @@ latitude: 49.480646
 longitude: 9.897678
 ---
 
-This formerly residential city of the princes of Hohenlohe is situated on the western banks of the river Tauber. The old "Schloss" (castle), built in Renaissance, Baroque and Rococo style, is completely furnished in the original way. Have a look at the knights hall inside the castle, the palace garden or the Gothic town church.
+Weikersheim is a small town on the Tauber river that punches well above its weight thanks to its castle. Schloss Weikersheim was the residence of the Hohenlohe princes, and it is one of the best-preserved aristocratic homes in southern Germany. The Rittersaal (knights' hall) has a remarkable painted ceiling depicting hunting scenes and exotic animals, and the baroque palace garden, lined with stone figures of dwarves and courtiers, is delightfully eccentric.
 
-
- More information:
-
-
- Tourist office Weikersheim
-
-
- Kultur- und Verkehrsamt
-
-
- Rathaus, 97990 Weikersheim
-
-
- Tel. +49 7934 - 102 55 or 102 45
+The town square is pleasant and quiet, with a few cafes and a Gothic church. Weikersheim also hosts the Jeunesses Musicales academy, so you may catch young musicians rehearsing in the castle grounds during summer.

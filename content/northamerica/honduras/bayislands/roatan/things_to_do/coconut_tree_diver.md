@@ -1,16 +1,9 @@
 ---
 title: "Coconut Tree Divers"
 type: poi
-type: "Diving"
-url: "www.divingonroatan.com"
+category: "Sight"
+latitude: 16.3026
+longitude: -86.5876
 ---
 
-The most popular reason to come to Roatan is to go scuba-diving. Coconut Tree Divers can take you to four different dive sites a day to choose from for a total of 36 pristine dive spots.
-
-type: Diving
-
-
-
-
-
-url: [www.divingonroatan.com](http://www.divingonroatan.com/)
+A well-regarded dive operation in West End offering trips to over 30 dive sites along the reef. They run up to four dives a day, covering walls, channels, and shallow coral gardens. Good for both beginners picking up a PADI certification and experienced divers looking for variety. The shop is right on the waterfront in the heart of West End.

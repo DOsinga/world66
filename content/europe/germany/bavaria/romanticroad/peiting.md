@@ -5,19 +5,6 @@ latitude: 47.795986
 longitude: 10.922873
 ---
 
-Located in the Upper Bavarian "Pfaffenwinkel" between the rivers Lech and Ammer Peiting is a very attractive town with some 12th century buildings such as the St. Michael Church and the Maria chapel. Peiting is as well a good starting point for a tour to the "Hoher Peissenberg"
+Peiting is a small town in the Pfaffenwinkel, the "priests' corner" of Upper Bavaria between the Lech and Ammer rivers. The name suits the landscape — this rolling green countryside south of Munich is dotted with baroque churches and pilgrimage sites.
 
-
- More informations:
-
-
- Tourist office Peiting
-
-
- Verkehrsamt
-
-
- Ammergauer Strasse 2, 86971 Peiting
-
-
- Tel. +49 8861 - 6535
+The 12th-century St. Michael's Church and the Maria Egg chapel are the main sights in town. Peiting also makes a good base for a trip up the Hoher Peissenberg, a 988-metre peak with panoramic views of the Alps. On a clear day you can see from the Zugspitze to the Berchtesgaden Alps.

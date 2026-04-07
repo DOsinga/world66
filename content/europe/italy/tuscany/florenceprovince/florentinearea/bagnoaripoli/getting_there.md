@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-By plane: after landing at Amerigo Vespucci airport of Peretola, Florence, you can reach the station by a city bus. From here you can catch another bus that will take you to Bagno a Ripoli town centre.
+Bagno a Ripoli is just five kilometres southeast of central Florence, so getting there is straightforward whether you are driving or taking the bus.
 
-  By car: We advise you to leave the "Autostrada del Sole" (A 1 Motorway) at the Firenze Sud (Florence South) exit and then follow the road signs for Bagno a Ripoli which is 5 km from the motorway tollgate.
-
-   By bus: a good bus service links the Santa Maria Novella railway station in Florence with Antella, Grassina and Bagno a Ripoli.
+By car, leave the A1 motorway (Autostrada del Sole) at the Firenze Sud exit and follow signs for Bagno a Ripoli. By bus, ATAF lines 31, 32, and 33 run from Florence to Grassina, Antella, and Bagno a Ripoli respectively. The nearest airport is Florence's Amerigo Vespucci at Peretola; from there, take the tram or a bus to Santa Maria Novella station and connect to a local bus.

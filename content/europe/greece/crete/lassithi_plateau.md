@@ -1,17 +1,14 @@
 ---
-title: "Lassithi plateau"
+title: Lassithi plateau
 type: location
-latitude: 35.180857
-longitude: 25.467855
+latitude: 35.1809
+longitude: 25.4679
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+The Lassithi plateau is a large fertile plain in the northwest part of eastern [Crete](/europe/greece/crete), ringed by the Dikti Mountains. People have lived here since Neolithic times, around 6000 BC, drawn by the rich alluvial soil deposited each spring as snowmelt runs down from the surrounding peaks.
 
-The Lassithi plateau is a large fertile plain in the NW part of Eastern Crete. People have lived here since Neolithic times (6000 B.C.)
-Soil fertility of the plateau is due to alluvial run-off, from times immemorial, when melting snow comes down from the surrounding mountains in spring.
+The Venetians built vast irrigation works in the early 15th century to ensure good harvests. For centuries afterward, the plain was irrigated by white-sailed windmills -- some 10,000 of them. Travel agencies still publish photos of the plateau crammed with sails, but those days are gone. In the late 20th century, diesel and electric pumps replaced nearly all of the windmills. The few that remain serve mostly as decoration outside tavernas along the main road.
 
-Vast and ingenious irrigation works were installed by the Venetian rulers in the early 15th century when they wanted to insure good harvests. During centuries, the plain was irrigated by white-sailed windmills, some 10.000 in all.
-
-Unfortunately (for travellers), in the last decennia of the 20th century, most if not all working windmills have been abandoned for the more efficient diesel and electrical pumps, the few remaining ones being relegated to signposting the many tavernas which line the main road that rings the plateau.
-
-It's astonishing, however, how many travel agencies still publish outdated pictures of the Lassithi plateau, crammed with white sails... don't believe them... those days are gone forever!
+What draws visitors today is the Diktaean Cave above the village of Psychro, identified by archaeologists in 1880 as the mythological birthplace of Zeus. The plateau itself is a peaceful place to drive or cycle, with a single road looping around the plain past small farming villages.

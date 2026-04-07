@@ -5,19 +5,6 @@ latitude: 49.16786
 longitude: 10.331327
 ---
 
-Feuchtwangen, a former free city of the Empire, is located in the Wörnitz river valley. It offers a lot of sights such as the market square, the town church with the famous "Wolgemutaltar", a Frankish museum and open air festivals in the historic Romanic cloister.
+Feuchtwangen is a former free imperial city in the Wörnitz valley with a picturesque market square surrounded by half-timbered houses. The Stiftskirche contains a notable altarpiece by Michael Wolgemut, Albrecht Dürer's teacher, and next door the Romanesque cloister hosts open-air theatre and concerts in summer — the Kreuzgangspiele have been running since 1949.
 
-
- More informations:
-
-
- Tourist office Feuchtwangen
-
-
- Kultur- und Verkehrsverein
-
-
- Marktplatz 1, 91555 Feuchtwangen
-
-
- Tel. +49 9852 - 90 42 60
+The Fränkisches Museum, housed in a row of old buildings on the market square, gives a good introduction to Franconian folk art and rural life. Feuchtwangen is a quiet stop, easily combined with nearby Dinkelsbühl, which is just 15 km to the south.

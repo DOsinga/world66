@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Surfing in Tioman Island a new sport which been started by 4 years ago.A few local active in this game under TIOMAN CABANA WATERSPORT & CAFE located at Tg Said Beach (Tekek Village).In Tioman Island there have two famous beach which people can surf. For begginer and beach break people can surf at Tg Said Beach (Left & Right), and for people have experience can try at Mentawak Beach (Juara Village) - "Reef Break".All the surfer can bring along the board or can rental at Tioman cabana Watersport.For further details plese log on :http://traveltiomanisland.wetpaint.com or contact at 013-7176677
+Tioman is first and foremost an outdoor island. Diving and snorkelling dominate, but there is good jungle trekking, surfing on the east coast during monsoon swell, and enough marine life to keep a snorkeller happy for days. The island's interior is largely untouched rainforest, and the cross-island trek from Tekek to Juara is one of the best half-day hikes in Peninsular Malaysia.

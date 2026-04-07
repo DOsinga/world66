@@ -3,100 +3,16 @@ title: "Books"
 type: section
 ---
 
-**all**
+**The Farming of Bones** by Edwidge Danticat — A novel set during the 1937 massacre of Haitian workers in the Dominican Republic. Danticat writes with spare, devastating precision about the border between the two countries and the people caught on the wrong side of it.
 
-**The Farming of Bones**
+**Breath, Eyes, Memory** by Edwidge Danticat — Runs from beautiful and familiar to painful and necessary. A gentle book that shows the strength and the hurts of Haitian women and Haitian Americans. Important reading for understanding the diaspora experience.
 
+**The Serpent and the Rainbow** by Wade Davis — An ethnobotanist's investigation into the reality behind Haitian zombies. Mixes solid information about Vodou's place in Haitian society with a genuine sense of the country, though the author's occasional arrogance shows through. Worth reading — less sensational than the title suggests.
 
+**Tell My Horse: Voodoo and Life in Haiti and Jamaica** by Zora Neale Hurston — Hurston's firsthand account of Vodou ceremonies and daily life, written in the 1930s. Her eye for detail and ear for speech make this one of the most vivid accounts of Haitian culture ever written.
 
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1569471266/ref=ase_osingacom?v=glance&s=books)
+**The Drums of Vodou** by Lois Wilcken — A focused study of the drumming traditions central to Vodou practice. Essential for anyone interested in Haitian music and spiritual life.
 
-author: Edwidge Danticat
+**The Immaculate Invasion** by Bob Shacochis — A journalist's account of the 1994 US military intervention in Haiti. Sharp reporting on the chaos, good intentions, and unintended consequences of foreign involvement — a pattern that has repeated itself many times since.
 
-isbn: 1569471266
-
-subject: history
-
-**Breath, Eyes, Memory**
-
-** casey:** runs from beautiful and familiar (yes! this is haiti!) to painful and in need of being said. a gentle book that shows some of the strength and some of the hurts of haitian women and haitian americans. very interesting to read; important for women and men.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/037570504X/ref=ase_osingacom?v=glance&s=books)
-
-author: Edwidge Danticat
-
-isbn: 037570504X
-
-subject: travel
-
-**The Serpent and the Rainbow**
-
-** casey:** mixes good information and a sense of haiti with the author's apparent arrogance (in places) and leaves me feeling like i have a sense about zombies and their place in haitian society, but not sure entirely i can trust that sense. worth reading. not sensational, as [more..](/northamerica/haiti/books/theserpentandtherainbow)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0684839296/ref=ase_osingacom?v=glance&s=books)
-
-author: Wade Davis
-
-isbn: 0684839296
-
-subject: travel
-
-**Tell My Horse:Voodoo and Life in Haiti and Jamaica**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0060916494/ref=ase_osingacom?v=glance&s=books)
-
-author: Zora Neale Hurston,Ishmael Reed
-
-isbn: 0060916494
-
-subject: travel
-
-**The Drums of Vodou**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0941677168/ref=ase_osingacom?v=glance&s=books)
-
-author: Lois Wilcken
-
-isbn: 0941677168
-
-subject: culture
-
-**Children Songs from Haiti:Chante Timoun Ayiti**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/1881839559/ref=ase_osingacom?v=glance&s=books)
-
-author: Fequiere Vilsaint
-
-isbn: 1881839559
-
-subject: culture
-
-**The Immaculate Invasion**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/0670863041/ref=ase_osingacom?v=glance&s=books)
-
-author: Bob Shacochis
-
-isbn: 0670863041
-
-subject: history
-
-**Why the Cocks Fight:Dominicans, Haitians, and the Struggle for Hispaniola**
-
-
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/080903719X/ref=ase_osingacom?v=glance&s=books)
-
-author: Michele Wucker
-
-isbn: 080903719X
-
-subject: history
+**Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola** by Michele Wucker — The best book on the fraught relationship between Haiti and the Dominican Republic, two countries sharing one island with very different histories and self-images.

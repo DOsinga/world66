@@ -3,8 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-**Beachs**
-
-**Kampung Juara**
-
-Kampung Juara is located two kilometers away from the village. 50 metres from the resort, a white water Mentawak River flows from Kajang mountain, the highest mountain in Tioman Island. Great beach.
+Tioman's beaches line the west coast, each one a separate kampung with its own cluster of guesthouses and restaurants. The east coast has just one beach settlement at Juara, which is harder to reach but rewards the effort with fewer crowds and better surf. Water taxis connect the west coast beaches, or you can hike between some of them on jungle trails.

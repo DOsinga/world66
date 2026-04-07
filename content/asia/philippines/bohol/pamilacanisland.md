@@ -1,18 +1,12 @@
 ---
-title: "Pamilacan Island, Bohol, Philippines"
+title: "Pamilacan Island"
 type: location
+latitude: 9.4903
+longitude: 123.9164
 ---
 
-Pamilacan Island 
+Pamilacan is a small coral island in the Bohol Sea, home to about 250 families and surrounded by some of the richest waters in the Visayas. The island's name comes from "pilak," a large hooked implement the islanders once used to catch manta rays and whale sharks. Those days are over — marine mammals are now fully protected by Philippine law — but the jaws and bones of past catches still decorate some village homes.
 
-The small island of Pamilacan is nestled in the heart of the Bohol Sea, the Visayas Archipelagos in the Philippines. Its name is derived from the word pilak, which is a large hooked implement made and used by the islanders to capture manta rays, whale sharks and bryde's whale. 
+The waters around Pamilacan are said to be a breeding ground for dolphins, whale sharks, and Bryde's whales. Dolphin-watching trips leave from the island early in the morning, and sightings are common. The island itself has a 200-year-old Spanish watchtower on its northeast side, a small chapel with an old Santa Cruz at the altar, and white sand beaches rimming a rocky interior where you can spot fossilised seashells in the limestone.
 
-The Bohol Sea is said to be a breeding ground of these mysterious but beautiful creatures. The island in previous times, served as a watch station against the intrusion of pirates and enemies of the Spanish colony as evidenced by the 200-year-old Spanish fort on the northeast side of the island. 
-
-Today, 250 families live in the island. The people used to hunt dolphins, whales, whale sharks and manta rays but these animals are now fully protected by law in the Philippines. 
-
-The attractions on the island that may catch your interest is the ancient Spanish fort, the Santa Cruz at the chapel's altar, the life within the marine sanctuary and the white beaches around the island. Pamilacan is a coral island and fossilised seashells can be seen on the island's rocky hill. 
-
-At present, the jaws and bones of marine mammals and whale sharks still adorn a number of homes of the village. The blue waters surrounding the island teem with lush and colorful marinelife. 
-
-Article taken from http://whales.bohol.ph/island.php
+A marine sanctuary off the coast offers good snorkelling, and the slow pace of village life makes this a worthwhile day trip from Panglao.

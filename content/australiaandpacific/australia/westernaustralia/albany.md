@@ -1,12 +1,14 @@
 ---
-title: "Albany"
+title: Albany
 type: location
 latitude: -35.024782
 longitude: 117.883608
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Established in 1826, Albany is the oldest European town in Western Australia. Before it was occupied by European settelers, the area was inhabited by Aboriginal people and there is much evidence of their historic presence, especially around Oyster Harbour. Thanks to it's excellent harbour, Albany was a thriving whaling town up to the 1970's, and when steamships started travelling between the UK and Australia, it also was coaling station. 
+Albany is the oldest European settlement in Western Australia, established in 1826 on the shores of King George Sound. Long before that, the Menang Noongar people lived here for tens of thousands of years, and evidence of their presence is still visible, particularly around Oyster Harbour. The town's superb natural harbour made it a thriving whaling port into the 1970s, and a coaling station for steamships travelling between Britain and Australia.
 
-Evidence of it's historical past are the fine colonial buildings still preserved. Many Victorian shopfronts can be found on Stirling Terrace. The Old Gaol on Lower Sterling Terrace is now a folk museum, and the admission includes a visit to the Patrick Taylor Cottage on Duke Street, the oldest dwelling in Western Australia. Opposite the Old Gaole is the Albany Residency Museum, exhibiting seafaring objects, flora and fauna, and Aboriginal artefacts. The Princess Royal Fortress (1893) on Mount Adelaide with its restored buildings, gun emplacements and fine views is also worth a visit. 
+That history is written across the town in fine colonial buildings. Victorian shopfronts line Stirling Terrace, and the Old Gaol on Lower Stirling Terrace is now a folk museum — admission includes a visit to the Patrick Taylor Cottage on Duke Street, the oldest dwelling in Western Australia. Opposite the Old Gaol, the [Albany Heritage Park](https://www.amazingalbany.com/albany-heritage-park) houses the Albany Residency Museum with its seafaring objects, flora and fauna, and Aboriginal artefacts. Up on Mount Adelaide, the Princess Royal Fortress (1893) has restored buildings, gun emplacements, and sweeping views across the sound.
 
-You can get some great views of the town and the coast from Mount Clarence and Mount Melville. The coast near Albany has some incredibly rugged and spectacular scenery. South of town, off Frenchman Bay Road, you can see the Gap and Natural Bridge rock formations, the Blowholes, and many other impressive formations. You can also take whale-watching tours from July to September, or go diving, snorkelling, fishing, etc. The coastline here can be dangerous though, so ask around for the safest spots to go swimming or surfing.
+The views from Mount Clarence and Mount Melville are worth the climb. South of town, off Frenchman Bay Road, the coastline turns wild — the Gap and Natural Bridge rock formations, the Blowholes, and a string of other dramatic formations carved by the Southern Ocean. From July to September you can take whale-watching tours, and there is good diving, snorkelling, and fishing year-round. The coastline can be dangerous, though, so ask locals for the safest spots before swimming or surfing.

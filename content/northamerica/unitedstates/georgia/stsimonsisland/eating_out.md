@@ -1,5 +1,5 @@
 ---
-title: "Eating Out on St. Simons Island"
+title: "Eating Out"
 type: section
 ---
 

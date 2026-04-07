@@ -4,7 +4,7 @@ type: location
 latitude: 27.9506
 longitude: -82.4572
 done:
-  location_cleanup: 2026-04-05
+  location_cleanup: 2026-04-07
 ---
 
 Tampa is a city of around 400,000 on Florida's Gulf Coast, the third-largest in the state and the commercial heart of the Tampa Bay metropolitan area. It is a less obvious destination than Miami or Orlando, which is part of the appeal: Tampa is a working city with a deep-water port, a historic cigar-making district, a big university, and a genuine sense of itself. Visitors who come tend to be drawn by the beaches of the bay, by Busch Gardens theme park, or by the Cuban and Spanish heritage of **Ybor City**, the old cigar-factory neighbourhood that is now the centre of Tampa's nightlife.

@@ -1,8 +1,6 @@
 ---
-title: "Eating Out in Las Palmas"
+title: "Eating Out"
 type: section
-latitude: 28.128869
-longitude: -15.434902
 ---
 
 Try Canarian cuisine in the capital of Gran Canaria.

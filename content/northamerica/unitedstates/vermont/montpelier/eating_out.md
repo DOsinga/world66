@@ -1,26 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "118 Main Street, Montpelier"
-phone: "802.223.3188"
-type: "American"
-url: "www.necidining.com"
-latitude: 44.260877
-longitude: -72.574956
 ---
 
-Montpelier is home to the New England Culinary Institute, which has a few training restaurants in town!
-
-### [Main Street Grill](/northamerica/unitedstates/vermont/montpelier/eating_out/main_street_grill)
-
-This is a training restaurant for the New England Culinary Institute.
-
-type: American
-
-
-
-tel: 802.223.3188
-
-url: [www.necidining.com](http://www.necidining.com/main-street-grill)
-
-address: 118 Main Street, Montpelier
+Montpelier has a disproportionately strong food scene for its size, partly because the New England Culinary Institute is based here. The Main Street Grill (118 Main Street) is a NECI training restaurant open to the public — well-executed American food at reasonable prices.

@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Memphis"
+title: Eating Out
 type: section
 ---
 
@@ -7,4 +7,4 @@ You can't go wrong with eating in Memphis. But for country cooking, visit Alceni
 
 There are plenty of Memphis restaurants to choose from when visiting this southern city. But if you want to take it up a notch, and enjoy fine dining at its best, stop by Chez Phillippe in The Peabody Memphis. They are well known for their excellent cuisine and exceptional service. Guests here can expect to dine on such Asian- French dishes as lobster cappucino, lamb porterhouse with risotto, vension with potato salad, and striped bass with mushrooms. For desert, enjoy a dish of peach melba, banana spring roll with Snickers ice cream, and strawberries and cream.
 
-Memphis restaurants aren't all dry rub ribs and potato salad. Although there are some excellent barbecue choices in this city, for fine dining, try Circa at 119 S. Main Street. Created by Chef John Bragg, this American restaurants features some of the most unique entrees with a hint of French in them. Customers keep coming
+Memphis restaurants aren't all dry rub ribs and potato salad. Although there are some excellent barbecue choices in this city, for fine dining, try Circa at 119 S. Main Street. Created by Chef John Bragg, this American restaurant features some of the most unique entrees with a hint of French influence.

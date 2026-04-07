@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Memphis"
+title: Shopping
 type: section
 ---
 

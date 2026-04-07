@@ -1,16 +1,16 @@
 ---
-title: "Aarhus"
+title: Aarhus
 type: location
-latitude: 56.149628
-longitude: 10.213405
+latitude: 56.1496
+longitude: 10.2134
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**Aarhus** is the second largest city of Denmark and the capital of Jutland, the mainland. It has a well-preserved historic centre, a few good museums and nice old churches. Close to the city are some good beaches, as well as opportunities for hiking and biking. 
+Aarhus is Denmark's second city and the capital of Jutland, a university town with a well-preserved old centre, excellent museums, and a lively bar and restaurant scene. It has the cultural weight of a much larger city — ARoS, the art museum topped with Olafur Eliasson's rainbow panorama walkway, is genuinely world-class — but keeps the easy, walkable scale of a place where everything is within reach.
 
-The main attraction is **Den Gamle By** (The Old Town). This fascinating open-air museum features 75 restored buildings from all around Denmark dating from the 17th- and 18th centuries. Full of things to see and do, it really is a must for any visitor. 
+The standout attraction is Den Gamle By (The Old Town), an open-air museum of 75 restored buildings from across [Denmark](/europe/denmark), dating from the 17th and 18th centuries. It is one of the best museums of its kind in Europe: immersive, detailed, and big enough to fill half a day. The Moesgaard Museum, south of the centre, houses the Grauballe Man — a 2,000-year-old bog body found preserved in a peat bog in 1952, with his hair, skin, and fingernails still intact.
 
-Other things to do include the **AROS Kunstmuseum**, which presents a wide-ranging collection of Danish art from the 19th and 20th centuries, and a visit to the modern Town Hall, which is a good example of Modern Danish archtiecture. It was completed in 1942 and designed by Arne Jacobsen, the pioneer of Danish design. 
+Aarhus Cathedral, begun in 1201, is Denmark's longest church and has more preserved medieval frescoes than any other cathedral in the country. The modern Town Hall, completed in 1942 and designed by Arne Jacobsen, is worth a look for anyone interested in Danish design. Tivoli Friheden, just outside the centre, is a smaller, more relaxed version of Copenhagen's Tivoli with rides, gardens, and cafes.
 
-Take a trip to the **Tivoli Friheden**, a fun-packed amusement park located just outside the city centre offering rides, clown shows, spectacular flower gardens and many cafés in which to sit and watch the crowds go by. Spend an engrossing hour or two at the **Forhistorisk Museum Moesgard**, a museum presenting amazing prehistoric artefacts, including the 2,000-year-old Grauballe Man, found preserved in a nearby bog in 1952. 
-
-Aarhus is also a very lively city. There are many good restaurants, many places to have a drink and wide range of clubs. **Vadestedet**, the newly opened meeting place by the river Arhus offers international and local cuisine at the many and varied restaurants and eateries you will find here. Various cafés or clubs tucked away in intimate sidestreets can be visited at night.
+The city's beaches are close — easily reachable by bike — and the surrounding countryside offers good hiking and cycling. But Aarhus is at its best after dark, when the restaurants along the river at Aaboulevarden fill up and the bars in the side streets get going.

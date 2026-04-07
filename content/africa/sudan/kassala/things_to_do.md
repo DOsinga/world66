@@ -1,5 +1,5 @@
 ---
-title: "Sights"
+title: "Things to Do"
 type: section
 ---
 
@@ -14,6 +14,3 @@ To reach the top of the mountains, climbers may need ropes and a local guide, bu
 Running through the city is **the Gash River**, which for most of the year is a wide expanse of sand. As the sun gets cooler, it becomes a popular place for games of football and karate practice. In the rainy season, the banks of the river are packed with locals who come to eat nuts and watch kids jump off the bridge into the fast running water.
 
 The other side of the river is mainly residential, but an interesting place to walk. **Gharb el-Gash**, the area past the university, is a predominantly Hausa quarter with a lively food market during the day, and stalls selling Hausa specialities like *agashe *in the evening. Nearby is the railway quarter called **Sikka Hadeed. **Trains no longer operate to Kassala, but the grand station building is still there, as are all the British-built brick houses and round huts for railway workers.
-
-**Contributors**
-August 25, 2006

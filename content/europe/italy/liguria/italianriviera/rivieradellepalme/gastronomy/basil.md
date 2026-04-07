@@ -1,6 +1,6 @@
 ---
 title: "Basil"
-type: location
+type: poi
 latitude: 44.402872
 longitude: 8.943553
 ---

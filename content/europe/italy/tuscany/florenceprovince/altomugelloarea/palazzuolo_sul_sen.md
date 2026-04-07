@@ -1,26 +1,10 @@
 ---
 title: "Palazzuolo sul Senio"
 type: location
-latitude: 44.112475
-longitude: 11.547748
+latitude: 44.1125
+longitude: 11.5477
 ---
 
-Palazzuolo sul Senio is real-life fairy tale in the heart of Tuscan Romagna.
-Truly
-suggested are enchanting excursions through the woods, on mountain bike
-or horseback, or relaxing rambles along nature trails that take place
-in streams, archaeological sites and unspoilt corners which offer ideal
-settings for country picnics.
-Palazzuolo sul Senio has been
-awarded with the title of "Italian Ideal Village" by Airone magazine
-and the EEC, becoming, furthermore, permanent seat of the annual
-prize-giving. During 2004 year it has obtained the environmental
-certification ISO 14001, which proves the perfect balance between man
-and nature.
-Palazzuolo organized every year an extensive programme
-of fairs, feasts and events that will enrich the stay of all who come
-here, to the place of harmony, for a vacation of nature and relaxation.
+Palazzuolo sul Senio is a small village in the Senio valley on the Tuscan-Romagnan border, awarded the title of "Italian Ideal Village" by Airone magazine and the EU. It holds ISO 14001 environmental certification, which says something about the balance between the village and its surroundings.
 
-**Historical background**
-The first traces of human
-habitation in the territory of Palazzuolo date
+The setting is lovely — wooded hills, clear streams, and trails for hiking, mountain biking, and horseback riding. The Palazzo dei Capitani in the village centre houses two small museums: one dedicated to traditional mountain life, the other to the archaeology of the upper Mugello valley. The village runs a year-round programme of fairs and festivals, including the Ottobre Palazzuolese (a chestnut and forest products festival on October Sundays) and a medieval re-enactment in July.

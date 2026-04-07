@@ -1,8 +1,10 @@
 ---
-title: "Ganca"
+title: Ganca
 type: location
 latitude: 40.679808
 longitude: 46.359718
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Ganca (pronounced 'Ganja') is Azerbaijan's second largest city (population 300,000) and the industrial centre of western Azerbaijan. It is located on the Ganca river, south of the Kura River in a rich agricultural area. 

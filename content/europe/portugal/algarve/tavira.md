@@ -1,8 +1,10 @@
 ---
-title: 'Tavira'
+title: Tavira
 type: location
 latitude: 37.126249
 longitude: -7.649912
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Tavira is often called the most attractive town in the Algarve. Straddling the Gilao river, connected by an old Roman bridge, it has the kind of quiet beauty that the bigger resorts have traded away. The rooftops are distinctive -- four-sided pyramid shapes called telhados de tesoura that you will not see elsewhere in Portugal.

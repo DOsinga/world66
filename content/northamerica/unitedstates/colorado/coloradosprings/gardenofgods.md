@@ -1,12 +1,12 @@
 ---
-title: "Garden of Gods"
+title: "Garden of the Gods"
 type: location
-latitude: 37.594498
-longitude: -88.364772
+latitude: 38.8734
+longitude: -104.8863
 ---
 
-Garden of the Gods is a beautiful place to visit if you want to walk around looking at rocks. But the best experience I had there was sleeping in the cab of a 1967 ford pickup in the handicap parking lot. Wake up just as the sun is coming up behind the largest rock in the park. The colour of the rising sun is just a lighter shade of the beautiful red rock they have there. It is a sight I will NEVER forget.
+Garden of the Gods is a public park of dramatic red sandstone formations rising from the foothills at the western edge of [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). The towering rocks — some over 300 feet tall — glow red and orange against the blue sky and the snow-capped backdrop of Pikes Peak. Admission is free, and the park is open year-round.
 
-## Destinations in Garden of Gods
+The main paved road loops through the park and takes you past the most famous formations, but the real pleasure is getting out of the car and walking the network of trails. Rock climbing is popular on several designated formations. The Visitor and Nature Center has exhibits on the geology and a good view of the park from its terrace.
 
-[Pikes Peak](/northamerica/unitedstates/colorado/coloradosprings/gardenofgods/pikespeak)
+Come at sunrise if you can — the early light on the red rock is unforgettable.

@@ -3,8 +3,9 @@ title: 'Este Castle'
 type: poi
 address: 'Largo Castello, 1'
 opening_hours: '9:30-17:30, closed on Monday'
-latitude: 44.837584
-longitude: 11.619903
+latitude: 44.8376
+longitude: 11.6199
+category: Sight
 ---
 
 Built in 1385 by Bartolino da Novara, the castle is the most prominent sight in Ferrara. It is joined to the Palazzo Ducale by a covered, elevated passageway still in existence. From the sixteenth century onwards it became the new court residence, involving radical changes: merlons were replaced with marble balustrades, roof-terraces were added to the towers, and spacious apartments were created.

@@ -1,11 +1,14 @@
 ---
 title: "Molise"
 type: location
-latitude: 41.684672
-longitude: 14.595614
+latitude: 41.6845
+longitude: 14.5956
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Molise is a narrow strip of hilly terrain covering less than 550 square miles. For millennia it has been a natural bastion, first of the Samnites, legendary challengers who were eventually defeated by the Romans. Today its heavily forested slopes are dotted with castles, many in excellent stages of preservation. They overlook friendly medieval villagess, glorious ancient ruins and some of the most uncontaminated nature in all Europe - so pristine, in fact, that UNESCO has chosen Molise for two of its four Italian biosphere locations. 
+Molise is Italy's second-smallest and least-visited region — a joke in Italy runs that Molise doesn't exist. It does, and the obscurity is its main attraction: a narrow strip of Apennine hills and river valleys between Campania and the Adriatic, historically a Samnite stronghold, now one of the least touristed corners of the peninsula.
 
+The region's terrain favours castles. The Samnites resisted Rome for three separate wars, and the ridgelines are dotted with fortifications from successive powers: Lombards, Normans, Swabians, Angevins. UNESCO has designated two biosphere reserves here, and the forests are genuinely uncontaminated. The Matese mountains in the west are excellent walking country.
 
- The biggest towns in Molise are [Campobasso](/europe/italy/molise/campobasso), [Isernia](/europe/italy/molise/isernia) and [Termoli](/europe/italy/molise/termoli). They are attractive townsand provide good starting points for seeing the countryside. [Termoli](/europe/italy/molise/termoli) also ahs a good beach and is one of the best places to get a boat to the [Tremiti islands](/europe/italy/puglia/tremitiislands).
+The main towns are Campobasso (the regional capital, dominated by the Castello Monforte), Isernia (with Samnite foundations and a fine medieval fountain, the Fontana Fraterna), and Termoli on the Adriatic coast, where a Norman castle overlooks a well-preserved medieval borgo and ferries run to the Tremiti islands.

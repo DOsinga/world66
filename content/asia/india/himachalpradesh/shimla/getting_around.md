@@ -3,35 +3,12 @@ title: 'Getting Around'
 type: section
 ---
 
-One of the renowned hill stations in India is **Shimla. Transportation**
-here is mostly restricted to private vehicles, buses, taxis and auto-
-rickshaws due to the hilly terrain. Walking is always a better option
-for the nearby areas.
+Shimla's steep terrain limits vehicle access to many parts of the town — the Mall Road and the Ridge are pedestrian-only, which suits the place perfectly. The main attractions are walkable from the centre, and the walk up to Jakhoo Hill (2 km from the Ridge) is the best excursion in town.
 
-**Auto-Rickshaw**
+**On Foot**
 
-The three-wheeler auto rickshaw service is more rare in Shimla due
-to its high altitude. It is restricted to few areas in the city. The
-charges are very economical and the journey comfortable. However, due
-to steep slopes, the service is not easily available.
+The centre — Mall Road, the Ridge, Christ Church, Lakkar Bazaar — is compact and best explored on foot. The Jakhoo Hill walk (about 2 km from Scandal Point) leads to the Hanuman Temple at the summit, with panoramic views over the town and the Himalayan foothills.
 
-**Buses**
+**Buses and Taxis**
 
-Local bus services operate within the main city area as well as in
-the nearby area. These are mostly used by the locals. For the benefit
-of tourists, many tour operators arrange for luxury and semi-luxury
-buses at a very economical price. State transport buses also operate a
-service for tourists. These are more comfortable for the tourists.
-
-**Taxi**
-
-There is nothing better than to hire a taxi or a private car for
-sightseeing in Shimla. They are very economical and very comfortable to
-travel around in the city in. However, their accessibility is
-restricted to certain areas in the city like the Mall Road and market
-area.
-
-The main center of attractions within the city can easily be reached
-on foot too, which is much better than any of the transportation
-mentioned above. One can enjoy the scenic views as well as feel the
-ambiance of the place better on foot.
+Local buses and taxis serve the wider city and surrounding areas. Taxis are the most practical option for reaching the bus station (below the town centre) or the Kalka–Shimla railway terminus. HRTC (Himachal Road Transport Corporation) buses connect Shimla to Manali, Dharamsala, and other Himachali towns.

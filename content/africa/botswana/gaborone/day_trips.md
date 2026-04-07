@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Gaborone"
+title: "Day Trips"
 type: section
 ---
 

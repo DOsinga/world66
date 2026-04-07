@@ -3,7 +3,7 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Cassoulet — the slow-cooked bean and meat stew — is Carcassonne's signature dish, and you'll find it on virtually every menu in the Cité. Duck confit and lamb are also staples. Prices inside the walled city are higher; the Bastide has better value.
 
 **La Divine Comedie**
 

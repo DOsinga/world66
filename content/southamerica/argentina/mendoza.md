@@ -1,17 +1,14 @@
 ---
-title: "Mendoza"
+done:
+  location_cleanup: '2026-04-07'
+latitude: -32.8908
+longitude: -68.8272
+title: Mendoza
 type: location
-latitude: -34.597032
-longitude: -68.73048
 ---
 
-Mendoza is the most important city of the West of Argentina. Set at the foot of the Andes mountains at an altitude of 760 meters, it is only 200 km from [Santiago](/southamerica/chile/santiago) in Chile.
+Mendoza is the wine capital of Argentina, a sun-drenched city at the foot of the Andes that draws visitors as much for its outdoor adventure as for its world-class Malbec. Set at 760 metres above sea level, it sits roughly 200 km from [Santiago](/southamerica/chile/santiago) across the mountains, and the proximity to the Andes shapes almost everything about it — the climate, the irrigation channels that water its vineyards, and the easy access to some of South America's finest high-altitude terrain.
 
+The city was founded in 1561 and rebuilt after a catastrophic earthquake in 1861, which explains why historic architecture is sparse but the street grid is wide and deliberate. Tall sycamores line the avenues, and a network of acequias (irrigation ditches) runs alongside the footpaths, giving the city centre a leafy, unhurried character. The **Parque San Martín**, a vast Beaux-Arts park on the western edge of the centre, is the focal point for weekend life and the setting for the February wine harvest festival, the **Fiesta de la Vendimia**.
 
- The city was founded in 1561, and although this is not an Earthquake free zone, there are quite a few historic buildings of interest in the centre. The **Ruinas de San Francisco** mission in the Ciudad Vieja, the **Museo Fundacional** and the **Parque San Martin** are main attraction in town.
-
-
- On saturdays you should visit the Plaza Espana, where a artisans market is held. For a cup of coffee, choose on of the sidewalks terraces on Avenida San Martin.
-
-
- Around Mendoza there are many wineries one can visit. Other interesting options around are skiing in Los Penitentes or a visit to Uspallata to explore the mountains or to the Aconcagua on the Chilean border to have a look at South America's highest mountain the Cerro Aconcagua.
+Around Mendoza stretch the major wine-producing valleys — Luján de Cuyo and the Uco Valley to the south, Maipú to the east — where dozens of bodegas welcome visitors for tastings and tours. Beyond the vines, the Andes offer skiing at Los Penitentes in winter, trekking and mountaineering in summer, and the perpetual draw of **Cerro Aconcagua**, the highest peak in the Western Hemisphere, accessible via the town of Uspallata.

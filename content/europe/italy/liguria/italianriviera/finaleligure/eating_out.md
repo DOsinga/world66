@@ -3,10 +3,7 @@ title: "Eating Out"
 type: section
 ---
 
-The cuisine of the Ponente Ligure is green, fragrant, with simple ingredients cleverly mixed together. But it is also a very light cuisine, almost vegetarian with flavors very closely tied to olives. Some dishes, such as "cappon magro" are the best expression of the mixture of products deriving from the earth and the sea. The Ligurian cooking has taken its peculiarity from other influences such as those from the Middle East, Spain and North Africa, having passed long periods of contact and exchange. We find a wide use of vegetables and herbs used in preparation of fillings for pastry covered dishes, stuffed veal, soups, and the magnificent **"pesto" (basil sauce)**. A wide use of "white" meats is customary: chicken, rabbit, or pasture meats such as goat, lamb, not to forget wild boar and snails. Pine nuts, walnuts, olives, and mushrooms appear often, as also fritters, bread foccacce, and pizzas are widely eaten. Blue fish prevails: sardines and anchovies and sea bass, salt cod, stockfish. In the pastas, ravioli are placed on top of the list followed by pansoti (pasta filled with herbs and greens), trofie, trenette, gnocchi.
-
-
-
+The Ligurian Riviera di Ponente has a distinctive cuisine — fragrant with olive oil, fresh herbs, and vegetables, and closely tied to the sea. Pesto (basil sauce) is the signature flavour, served on hand-rolled trofie pasta or trenette. The focaccia col formaggio di Recco — thin bread filled with stracchino cheese — is an essential local speciality. Fish is good here: sardines, anchovies, sea bass, and stockfish are all common. Cappon magro, a layered seafood and vegetable salad, is the most elaborate expression of Ligurian cooking.
 
 
 

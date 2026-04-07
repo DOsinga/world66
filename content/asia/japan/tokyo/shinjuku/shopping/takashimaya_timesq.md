@@ -1,11 +1,9 @@
 ---
-title: "Takashimaya Timesquare"
+title: "Takashimaya Times Square"
 type: poi
-type: "Shopping centers and malls"
+address: "5-24-2 Sendagaya, Shibuya-ku"
+latitude: 35.6876
+longitude: 139.7022
 ---
 
-Very big department store opposite Shinjuku station. This department is easily access from both Shinjuku station and Yoyogi station.
-
-You will find Tokyu hands (DIY style shop from 1st floor to 7th floor), Disney stores, HMV, Kinokuniya store and lot of restaurants.
-
-type: Shopping centers and malls
+A sprawling department store complex directly connected to Shinjuku station's south exit. Includes Tokyu Hands (seven floors of DIY and lifestyle goods), Kinokuniya bookstore, and a large restaurant floor. Easy to lose an afternoon here.

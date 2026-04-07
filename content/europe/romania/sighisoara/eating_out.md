@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
-
-**Casa Vlad Dracul**
-
-Where els could you want to eat than in the house of Dracula. Good soups and traditional Romanian fare.
+The **Casa Vlad Dracul** restaurant in the birthplace of Vlad the Impaler is the most atmospheric option in the citadel — good soups and traditional Romanian dishes in a building with genuine historical associations. Prices are reasonable by Western European standards.

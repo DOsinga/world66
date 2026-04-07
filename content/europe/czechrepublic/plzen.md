@@ -1,14 +1,14 @@
 ---
-title: "Plzen"
+title: Plzeň
 type: location
-latitude: 49.747741
-longitude: 13.377525
+latitude: 49.7477
+longitude: 13.3775
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Plzen is the capital of Bohemia and is a place of pilgrimage for every one who likes beer: this is were Lager was invented! In many languages the name for lager is derived from the German name of this city: Pilsen. Hardly surprising that one of the main attractions in town is the **Beer Brewery**
+Plzeň (Pilsen in German) is the capital of Bohemia and the fourth largest city in the Czech Republic, about 90 km southwest of Prague. It is the birthplace of lager — the **Pilsner Urquell Brewery**, founded here in 1842, gives the Pilsner style its name — and remains the city's most visited attraction. The brewery offers extensive tours with tastings.
 
+Beyond beer, the city has a fine historic centre. The **Cathedral of St Bartholomew** on the Republic Square has the tallest church spire in Bohemia at 102 metres and fine late Gothic vaulting inside. The **Republic Square** itself is large and handsome, surrounded by old mansions and the ornate Town Hall. The **Wenceslas Theatre** is one of the oldest theatres in the country.
 
- But there is a lot more to see. The historical city centre is dominated by a slim tower of the Gothic St. Bartholomew Cathedral, which is with the height of 102,26 m (335 feet) the highest church spire in Bohemia. Many other old mansions are to be found on the square of the Republic and in the area around it. The town hall at the southern end of the square of the Republic is absolutely worth a vist.
-
-
- Along the crooked Prazka street, you will find many more interesting Gothic and Renaissance buildings, most of which were modified in Baroque style.
+Plzeň makes an easy day trip from Prague but rewards an overnight stay to explore the old town at leisure and take the brewery tour in full.

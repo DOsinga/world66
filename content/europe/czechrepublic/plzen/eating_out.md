@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Plzen"
+title: Eating Out
 type: section
 ---
 

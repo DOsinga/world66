@@ -1,5 +1,5 @@
 ---
-title: 'Shopping in Vientiane'
+title: 'Shopping'
 type: section
 ---
 

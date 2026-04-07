@@ -1,25 +1,14 @@
 ---
-title: "Limousin"
+title: Limousin
 type: location
-latitude: 45.68791
-longitude: 1.634761
+latitude: 45.6879
+longitude: 1.6348
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The Limousin is right in the heart of France. Located on the western slopes of the Massif Central the region attracts travelers in search of unspoiled countryside. 
+The Limousin is one of the least visited and least populated regions of France, spread across the western slopes of the Massif Central. For travellers in search of unspoiled countryside — rolling green meadows, deep river gorges, ancient village churches, and very few tourists — it is hard to beat.
 
+The region covers three departments. The Haute-Vienne in the north is anchored by [Limoges](/europe/france/centre/limousin/limoges), famous for its porcelain. The Corrèze to the southeast has some of the most beautiful landscapes, with the gorges of the Dordogne and the medieval town of [Tulle](/europe/france/centre/limousin/tulle). The Creuse to the northeast is the quietest of the three, with vast forests and few roads.
 
- The Corrèze, Creuse and Haute Vienne are all full of beauriful hills, gorges and lush green meadows. Numerous ancient village churches dot the landscape as well as more imposing abbey churches and fortresses. The
-[De Koog](/europe/netherlands/waddenislands/texel_island/de_koog) is one of the most beautiful chateux in the area - located just north of
-[Tulle](/europe/france/centre/limousin/tulle) in the Correze.
-
-
-[Limoges](/europe/france/centre/limousin/limoges) in the Haute Vienne is the most important city in the Limousin.
-[Brive](/europe/france/centre/limousin/brive) la Gaillarde and
-[Tulle](/europe/france/centre/limousin/tulle) are the best starting points for exploring the Correze.
-
-## Destinations in Limousin
-
-[Serandon](/world/europe/france/centre/limousin/serandon)
-[Limoges](/world/europe/france/centre/limousin/limoges)
-[Chateau de Val](/world/europe/france/centre/limousin/chateaudeval)
-[Tulle](/world/europe/france/centre/limousin/tulle)
+The Limousin is cattle country — the Limousin breed of beef cattle takes its name from here — and the cooking is hearty and unpretentious. Chestnuts, walnuts, and wild mushrooms feature heavily in the local cuisine. This is also one of the great areas for Romanesque church architecture, with dozens of small village churches preserving extraordinary carved portals and painted interiors.

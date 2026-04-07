@@ -1,12 +1,16 @@
 ---
-title: "Thatta"
+title: Thatta
 type: location
 latitude: 24.7469
-longitude: 67.924028
+longitude: 67.924
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Thatta, about 98 kms (61 miles) east of Karachi. At one time Thatta was important as Sind's capital city and as a centre for Islamic arts. From the 14th century four Muslim dynasties ruled Sind from Thatta, but in 1739 the capital was moved elsewhere and Thatta declined. It was believed that this was the place where Alexander the Great rested his legions after their long march.
- The town is dominated by the Great Mosque built by the Moghul Emperor Shah Jehan which has been carefully restored to its original condition. The mosque's 33 arched domes give it superb acoustics and the tile work, a whole range of shades of blue, is equally fine. Situated on the outskirts of the new town it is surrounded by narrow lanes and multi-story houses made of plaster and wood which are top by badgirs, the wind catchers designed to funnel cool breezes down into the interiors of buildings. They are also quite common in Hyderabad. 
+Thatta lies about 100 kilometres east of Karachi in the lower Indus plain, and for centuries it was the capital of Sindh. Four Muslim dynasties ruled from here between the 14th and 18th centuries, and the city was a centre of Islamic learning and arts long before it slipped into obscurity after the capital moved elsewhere in 1739.
 
+The main draw is the Great Mosque, built by Mughal Emperor Shah Jahan. Its 93 domes — arranged to carry the imam's voice to every corner without amplification — are decorated in a range of blue tilework that ranks among the finest in South Asia. Nearby, the Makli Necropolis sprawls across a hillside with hundreds of elaborately carved sandstone and tile-decorated tombs from the 14th to 18th centuries, inscribed as a UNESCO World Heritage Site.
 
- The bazaars of Thatta are known for hand-printed fabrics, glass bangles and Sindi embroidery work in laid with tinny mirrors, one of the more world known handicrafts of Pakistan. Thatta is a fascinating town which appears to have scarcely moved out of the 18th century and is only slowly catching up with the modern world.
+The town itself feels like a step back in time. Narrow lanes wind between multi-storey plaster-and-wood houses topped with *badgirs* — wind-catchers designed to funnel breezes into the rooms below. The bazaars sell hand-printed *ajrak* cloth, glass bangles, and Sindhi mirror embroidery.
+
+Thatta is an easy day trip from Karachi, but worth lingering in if you want to explore Banbhore (an archaeological site 65 km southeast, where the first Arab conquerors landed in 711 AD) and the bird sanctuaries at Haleji and Keenjhar lakes.

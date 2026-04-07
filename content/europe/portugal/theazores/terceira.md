@@ -1,8 +1,10 @@
 ---
-title: "Terceira"
+title: Terceira
 type: location
 latitude: 38.721165
 longitude: -27.217638
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

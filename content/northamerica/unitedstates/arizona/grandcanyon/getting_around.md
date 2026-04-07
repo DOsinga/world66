@@ -3,19 +3,10 @@ title: "Getting Around"
 type: section
 ---
 
-Make sure you work in a helicopter ride over the canyon. The views are breathtaking and you it gives you a real appreciation for the size and scale of the canyon. The helicopter ride offered endless opportunities for some of the best picture taking you’ll ever do. The Grand Canyon Airport is less than a mile outside of the park entrance in Grand Canyon , AZ. Helicopter ride cost vary depending on how long of a trip, and can range from $60-$200ish. It definitely was well worth the expense.
+The park runs free shuttle buses along several routes on the South Rim, and during peak season some roads are closed to private vehicles entirely. The Hermits Rest Route (March through November) and the Village Route run frequently and connect the major overlooks, trailheads, and lodges. The Hikers' Express shuttle runs early morning service to the South Kaibab trailhead.
 
-**Contributors**
-November 03, 2005
+If you are driving, parking fills up early in summer -- often by mid-morning. The large lot at the Visitor Center is your best bet; from there the shuttle system connects you to everything else. Desert View Drive (Highway 64 east) remains open to private vehicles year-round and is one of the finest scenic drives in the park, running 25 miles from Grand Canyon Village to Desert View Watchtower.
 
-- - |
-- |
-- |
-- |
+The North Rim has no shuttle service. You will need your own vehicle, and the drive between rims is about 220 miles and four hours -- they are separated by the canyon itself, so there is no shortcut.
 
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Cycling is permitted on all paved roads and the Greenway Trail, a mostly paved multi-use path that runs along portions of the South Rim. Bikes can be rented at Bright Angel Bicycles near the Visitor Center.

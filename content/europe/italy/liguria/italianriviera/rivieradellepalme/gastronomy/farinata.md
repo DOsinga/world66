@@ -1,6 +1,6 @@
 ---
 title: "Farinata"
-type: location
+type: poi
 latitude: 44.410945
 longitude: 8.939231
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Day Trips from Tavira'
+title: 'Day Trips'
 type: section
 ---
 

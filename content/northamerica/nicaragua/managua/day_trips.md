@@ -3,22 +3,6 @@ title: "Day Trips"
 type: section
 ---
 
-Many of the country’s principal attractions can be seen as day trips from the capital. 
+Managua is well placed for day trips to Nicaragua's main attractions. [Granada](/northamerica/nicaragua/granada), the colonial jewel on Lake Nicaragua, is about an hour south. [Leon](/northamerica/nicaragua/leon), the university city with its massive cathedral, is an hour northwest. Masaya Volcano National Park is the closest — you can drive right up to the crater rim and look down into the glowing lava lake.
 
-**all**
-
-**{Leon} **
-
-the town of Leon still retains the flavour of the old days. 
-
-**{Lake Nicaragua} **
-
-The Lake is beautiful and it is fun to go on the water.  
-
-**{Granada} **
-
-Granada is nearby and a nice daytrip.  s*:Masaya Volcano National Park  
-
-**Momotombo Volcano**
-
-The mountain can be climbed but to do so you’ll need a permit from the Instituto Nicaraguense de Energia located in Managua.
+Momotombo Volcano, an almost perfect cone rising from the shores of Lake Managua, can be climbed with a permit from the Instituto Nicaraguense de Energia in Managua. Lake Nicaragua itself is beautiful and easily reached from Granada.

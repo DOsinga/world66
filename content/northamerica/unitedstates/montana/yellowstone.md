@@ -1,17 +1,16 @@
 ---
-title: "Yellowstone"
+title: Yellowstone
 type: location
-latitude: 45.964546
-longitude: -108.276076
+latitude: 44.428
+longitude: -110.5885
+done:
+  location_cleanup: 2026-04-07
 ---
 
-By Act of Congress on March 1, 1872, Yellowstone National Park was "dedicated and set apart as a public park or pleasuring ground for the benefit and enjoyment of the people" and "for the preservation, from injury or spoilation, of all timber, mineral deposits, natural curiosities, or wonders. . . and their retention in their natural condition." Yellowstone is the first and oldest national park in the world. 
+Yellowstone is the world's first national park, established in 1872, and still one of its most extraordinary. Straddling the northwest corner of Wyoming and spilling into [Montana](/northamerica/unitedstates/montana) and Idaho, the park sits atop a massive volcanic hotspot that powers more geysers and hot springs than the rest of the world combined. Old Faithful is the famous one, but the whole park is alive with steaming vents, bubbling mud pots, and brilliantly coloured thermal pools.
 
+The geology alone would justify a visit, but Yellowstone is also one of the best places in North America to see large wildlife. Bison herds graze in the Lamar Valley, grizzly bears fish the rivers, and wolf packs — reintroduced in 1995 — are regularly spotted by early-morning visitors with binoculars and patience. Elk, moose, and pronghorn are common. The park is wild in the truest sense, and it demands respect: keep your distance from all animals, no matter how calm they appear.
 
- The commanding features that initially attracted interest, and led to the preservation of Yellowstone as a national park, were geological: the geothermal phenomena (there are more geysers and hot springs here than in the rest of the world combined), the colorful Grand Canyon of the Yellowstone River, fossil forests, and the size and elevation of Yellowstone Lake. 
+The Grand Canyon of the Yellowstone River cuts through the park's centre, with the Lower Falls plunging nearly 100 metres into a yellow-walled gorge that gave the park its name. Yellowstone Lake, at over 2,300 metres elevation, is the largest high-altitude lake in North America. The park's road system forms a figure-eight loop that connects the major sights, but covering it all takes several days.
 
-
- The human history of the park is evidenced by cultural sites dating back 12,000 years. More recent history can be seen in the historic structures and sites that represent the various periods of park administration and visitor facilities development. 
-
-
- Yellowstone Park is also home to the largest super volcano in the world. The last eruption occured some 60,000 yrs. ago forming what is now knwon as the great geyser basin area and Yellowstone lake. If it were to erupt again it would have the same effect as if an asteroid hit the planet, massive devistation worldwide. The magma in this volcano is just a few miles below the surface in some areas even closer. With all that aside it is one of the most beautiful spots in the world, living only about 100 miles from the park, my wife and I spend alot of time there.
+The park is open year-round through the North Entrance at Gardiner, Montana, but most roads are only accessible from mid-April to late October. In winter, the interior is reachable only by snowcoach or snowmobile. Summer is peak season and the roads can be crowded, but the scale of the place absorbs the visitors — once you leave the car parks, you can still find solitude.

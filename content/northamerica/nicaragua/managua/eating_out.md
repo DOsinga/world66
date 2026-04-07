@@ -3,22 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Intermezzo Del Bosque - Intermezzo Del Bosque is a fine dining option situated just outside downtown Managua . The tables are on an outdoor terrance which has a beautiful view of the city and, surprising, nearby woods. Their full and varied menu offers salads, seafood, fondue, shrimp and steaks. This place is a great place if you want a gourmet meal in a quiet (romantic) restaurant to escape the hustle and bustle of Managua without going too far.
-** Prices: **
-Lunch:Expensive
-Dinner: Expensive
-** Price Description: ** Entres range from about $6 to $18. the prices do not include tax but the food and the atmosphere make the prices worth it.
-** Atmosphere: ** Outdoor/patio dining, nice view, entertainment / live music
-** Reservation: ** Accepted
-CasaMexico
-Location
-Alrededores de la laguna de Tiscapa del busto jose Marti 1/2 cuadra arriba a mano izquierda
-Managua, Nicaragua
-Description
-Authentic Mexican Food in a warm and fun setting. Casa Mexico offers a large selection of Mexican dishes freshly prepared when you order them as well as large selection of Tequila drinks
-** Prices: **
-Breakfast:Budget
-Lunch:Budget
-Dinner: Budget
-** Atmosphere: ** Outdoor/patio dining, nice view, television, entertainment / live music
-** Reservation: ** Not accepted
+Managua's restaurants are scattered across the sprawling city rather than concentrated in one district. Intermezzo del Bosque, just outside downtown, offers fine dining on an outdoor terrace with views of the city and surrounding woods — entrees run $6-18 and the atmosphere is worth the price. Casa Mexico, near the Tiscapa lagoon, serves authentic Mexican food in a fun setting at budget prices. For cheap local food, the comedores (small eateries) around the markets serve Nicaraguan staples like gallo pinto, nacatamales, and fried plantains.

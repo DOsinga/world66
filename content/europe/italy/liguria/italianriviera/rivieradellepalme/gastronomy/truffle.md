@@ -1,6 +1,6 @@
 ---
 title: "Truffle"
-type: location
+type: poi
 latitude: 44.896966
 longitude: 8.206278
 ---

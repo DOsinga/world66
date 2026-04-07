@@ -1,69 +1,18 @@
 ---
-title: "Aragatsotn Marz"
+title: Aragatsotn Marz
 type: location
-latitude: 40.296791
-longitude: 44.360961
+latitude: 40.2968
+longitude: 44.361
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Aragatsotn Marz consists of the huge volcanic shield of Mt. Aragats,
-formerly Alagyaz, whose main cone rises 4090 meters above sea level.
-The high uplands provide grazing in summer for Yezidi shepherds, as
-well as the clear air for Armenia's observatories. The rocks,
-wildflowers, and views make the ascent of Aragats unforgettable. A
-favorite site for the summer cottages of affluent Yerevantsis due to
-its proximity and cool climate, the S slopes of Aragats are also the
-subject of tentative efforts to develop skiing (via snowmobile) and
-other winter sports. The remote medieval fortress of Amberd is a
-memorable destination once the snows melt in May.
+Aragatsotn is dominated by the massive volcanic shield of Mount Aragats, Armenia's highest peak at 4,090 metres. The region stretches from the cool highland pastures where Yezidi shepherds graze their flocks in summer down to the deep Kasagh river gorge lined with medieval monasteries. It is close enough to [Yerevan](/asia/armenia/yerevan) for a day trip, but rich enough to reward a longer stay.
 
-The eastern part of the Marz
-is laid out along the Kasagh river gorge, which cuts deep into the rock
-and forms the backdrop for a chain of spectacular monasteries. The
-western uplands of Aragats,
-a bleakly beautiful landscape of volcanic boulders and green grass
-overlooking the Ararat Valley, are dotted with villages, each athwart a
-stream gorge, most with medieval churches and fortresses of the Bronze
-and Early Iron Age. Aruch Cathedral,
-the castle at Nerkin Talin (Dashtadem) the paleolithic open air
-workshops around Mt. Arteni, are all well worth a separate expedition.
+The southern slopes of Aragats are popular with Yerevantsis who keep summer cottages here for the cool climate and clean air. The ascent of the south peak (3,879m) is the most accessible summit hike — start from the lake by the Cosmic Ray Institute above Amberd, ideally at 5am before the clouds roll in. The climb takes less than two hours but dress warm; it is always cold up top. The views of the Ararat Valley on a clear morning are unforgettable.
 
-**Ashtarak**
+The eastern side of the region follows the Kasagh gorge, where [Hovhannavank](/europe/armenia/aragatsotn_marz) and [Saghmosavank](/europe/armenia/aragatsotn_marz) monasteries perch dramatically on the cliff edge. Both are photogenic, both are ancient, and both look across the gorge toward Mount Ara. Further west, the medieval fortress of Amberd and its adjoining church sit in splendid isolation on the mountainside — accessible once the snows melt in May.
 
-The only major city in the region, this historic town is home to 3 churches standing, and two in ruins. Built along the Kasagh river gorge, the natural backdrop and old stone houses are a nice respite from the bustle of Yerevan. Visit Karmravor, a cute little 7th century church, with a small, tiled dome roof. Every photo of Karmravor somehow looks like it's a watercolor painting. St. Mariane church is an interesting old church with a modern addition. Tsiranavor (meaning apricot colored) and Spitakavor (meaning white colored) churches, quite close to one another on the edge of the gorge and both half ruined have seemingly reversed names - as Tsiranavor is white and Spitakavor is light orange. Near town, the Ashtaraki Dzor restaurant complex, long popular with locals is a must. Go at night to see the entertainment!
+The small town of [Ashtarak](/europe/armenia/aragatsotn_marz/ashtarak), the region's only real urban centre, makes a good base. Its cluster of churches along the gorge — including the tiny 7th-century Karmravor, which somehow looks like a watercolour painting in every photograph — is worth an afternoon. The Ashtaraki Dzor restaurant complex nearby is a local institution, especially at night.
 
-**Sites on Mt. Aragats:**
-
-**Mt. Aragats** - at 4090 meters, this is Armenia's highest mountain and very accessible from Yerevan. The south peak (3879m) is easiest to climb, and hikers start at the lake by the Cosmic Ray Institute above Amberd. The clouds usually come in by 10, so hikers often start at 5am for a clear view - and climb. The hike is not very difficult, and takes less than 2 hours to reach the peak - but dress warm, it's always cold up there.
-
-**Byurakan Observatory** - once headed by Viktor Hambartsumian, a former president of the International Astrophysicist Organization, this observatory saw some important discoveries and research, and is very active to this day. Tours are often available by appointment - including nightime star gazing.
-
-**Byurakan Church of S. Hovhannes** - this church is so old it has the Maltese cross carved into it, predating the creation of the Armenian cross. The outer, temple-style foundation steps are a further indication of its age, and the style and carvings are beautiful.
-
-**Amberd Fortress and Church **- reaching its zenith during the 11th century when it was the seat of the Pahlavuni family, much of the fortress still stands, and the church underwent a total reconstruction during Soviet times. A beautiful spot, with spectacular views on a clear day.
-
-**Tegher Monastery** - Built of black stone, with what appear to be two additional churches built on the roof, this monastery is not on most visitors lists, and you'll likely enjoy it in solitude.
-
-**Sites south of Mt. Aragats:**
-
-**Oshakan** -This is the village where Mesrop Mashtots was buried in an unassuming church. His grave lies underground, and there is a statue of him, Armenian letters in the side yard, and a big slate upon entering the village with the alphabet as well.
-
-**Aruch Cathedral** - This ancient cathedral, built in 666, looms above the village of Aruch. There are remanants of massive frescos inside, including a 7 meter high Christ, and the outside has the ruins of castles and other structures.
-
-**Aruch Caravanseray** - this rebuilt site of the old silk road is just a few steps from the highway. A quick stop will let you see where the old spice traders would spend their nights.
-
-**Mastara Church** - This 7th century church has it's own style, is somewhat round and very tall, with a very nice old wooden altar. Worth popping by on a trip to Gyumri.
-
-**Dashtadem Fortress** -This castle within a fortress is undergoing massive restoration. There are half-round towers glued onto an earlier Armenian fortress probably of the 10th c. The outer walls are much more recent, from the early 1800s.
-
-**Sites east of Mt. Aragats:**
-
-**Mughni Church** - The round alternating stripes on the drum of the church make this one a fun one. The 14th century church is just a few minutes north of Ashtarak.
-
-**Hovhannavank Monastery** - Built on the edge of the large Kasagh gorge, across from Mt. Ara, this ancient monastery has nice carvings and views.
-
-**Armenian Alphabet - **This is one of Armenia's newest sites. Large stones have been carved into the letters of the Armenian alphabet, and are laid out randomly on the west side of the highway, with a statue of Mashtots overlooking the scene.**
-**
-
-**Saghmosavank Monastery** - Also on the edge of the large Kasagh river gorge, across from Mt. Ara, Saghmosavank is a photogenic monastery with lots of interesting details. The bell towers, khachkars, ceiling patterns and frescoes are all fun to explore.
-
-**Kasagh Basilica** — Worth a quick stop on a trip to Vanadzor, this small old basalt basilica is one of the earliest Christian churches in Armenia, dating to the 4th century.
+Other highlights scattered across the region include Byurakan Observatory, where important astrophysics research continues and night-time stargazing tours are sometimes available; the Armenian Alphabet Monument, with oversized stone letters laid out on a hillside; Aruch Cathedral (built in 666) with remnants of massive frescoes including a seven-metre-high Christ; and the 4th-century Kasagh Basilica, one of the earliest Christian churches in Armenia.

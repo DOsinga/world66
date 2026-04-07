@@ -1,16 +1,14 @@
 ---
-title: "Churchill"
+title: Churchill
 type: location
-latitude: 58.76931
-longitude: -94.173684
+latitude: 58.7693
+longitude: -94.1737
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Although Churchill only has a population of just over 1000, it certainly offers a lot for the visitor. Known as 'The Polar Bear Capital of the World' you can observe these animals just a short distance from the town each October and November.
+Churchill sits on the western shore of Hudson Bay in northern Manitoba, accessible only by train, plane, or — in winter — ice road. With a population of barely a thousand, it is one of the most remote towns in Canada, but it draws visitors from around the world for three extraordinary wildlife experiences.
 
-You can also watch Beluga Whales dive at the mouth of the Churchill River. River tours also available across to Prince of Wales Fort National Historic Site.
+In October and November, polar bears gather along the coast waiting for the bay to freeze, earning Churchill the title "Polar Bear Capital of the World." Tundra buggies take visitors out among the bears at remarkably close range. In summer, thousands of beluga whales congregate at the mouth of the Churchill River — you can watch them from shore or kayak among them. And from January through March, the northern lights put on some of their best displays anywhere on the planet, visible from right outside your door.
 
-One of the best sites on the planet to view northern lights. In winter take a tour by snowmobile or drive your own dogsleigh team under the northern lights. 
-
-A 'must see' is the Eskimo Museum which houses some of the finest Inuit artifacts in the world. 
-
-For more information, pick up the 'Hudson Bay Post' churchill's community newspaper or view past articles online at www.muncks.ca.
+The town itself is small and functional. The Eskimo Museum (now the Itsanitaq Museum) houses one of the finest collections of Inuit art and artefacts in the world. Across the river, the ruins of Prince of Wales Fort, a massive 18th-century stone fortress built by the Hudson's Bay Company, can be reached by boat tour in summer.

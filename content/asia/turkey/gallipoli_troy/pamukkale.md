@@ -1,16 +1,14 @@
 ---
-title: "Pamukkale"
+title: Pamukkale
 type: location
-latitude: 37.920038
-longitude: 29.121753
+latitude: 37.92
+longitude: 29.1218
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+Pamukkale — "cotton castle" in Turkish — is one of Turkey's most extraordinary natural sights: a hillside of brilliant white travertine terraces formed over millennia by calcium-rich thermal springs. The warm, mineral-laden water flows down the slope, depositing limestone as it goes, creating a cascade of shallow turquoise pools that look like something from another planet.
 
-Pamukkale - (Show on the Map) -An unusual natural and historical site with the sparkling white castle -like cascades, Pamukkale is one of the most important highlights of Turkey, unique in the world. The site is named in Turkish as "Pamukkale", that means "cotton castle", parallel to the glorious and spectacular view of the site. The dazzling white calcareous castles are formed by limestone-laden thermal springs, creating the unbelievable formation of stalactites, potholes and cataracts.
+Above the terraces lie the extensive ruins of Hierapolis, a Greco-Roman spa city founded in the 2nd century BC. The theatre is remarkably well preserved, the necropolis is one of the largest in Anatolia, and the "Sacred Pool" — where you can swim among submerged Roman columns in warm thermal water — is a unique experience.
 
-Waters in the terraces are the sediments of the springs with calcium bicarbonate in 33C. Waters, containing mainly calcium salts and carbon-dioxide, run off the plateau's by depositing calcium while carbon-dioxide disappearing. The marvelous landscape of Pamukkale has been created by this gradual formation, leaving a cotton-like image. Located above the theatre of Hierapolis, the mineral water sources from the thermal springs of Cal Mountain. It is collected in a pool, known as the "Sacred Pool" of ancient times, where you can swim amidst the historical remains of Hierapolis. The Sacred Pool is now located inside Pamukkale Hotel.
-
-The water of Pamukkale is famous for its benefits to the eyes and skin; and its curing properties to the ills of asthma, rheumatism, as well. The remains of the ancient Hierapolis are situated on back of the thrilling white terraces, standing wondrously in the area. The fairyland Pamukkale is a must-see traveling through this region, during a holiday in Turkey...
-
-http://www.allpamukkaletours.com
+Pamukkale is usually visited as a day trip from the Aegean coast (Kuşadası or Selçuk, about three hours by road) or from Denizli, the nearest city. The site is open year-round, but early morning or late afternoon visits avoid both the heat and the tour-bus crowds. Walking on the travertines is permitted only barefoot, to protect the fragile formations.

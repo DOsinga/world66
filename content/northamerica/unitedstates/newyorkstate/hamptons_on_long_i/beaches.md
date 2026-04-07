@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Hamptons on Long Island"
+title: "Beaches"
 type: section
 ---
 

@@ -1,18 +1,14 @@
 ---
-title: "Trang"
+title: Trang
 type: location
-latitude: 7.589294
-longitude: 99.5032
+latitude: 7.5563
+longitude: 99.6114
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The city of Trang with a population about 600,000 used to be an important trading port in former centuries. During the Ayuthaya period, Trang was a common port of entry for Western visitors. Most visitors come to see the nearby beaches and islands. Like the provinces of Krabi and Phang Nga, Trang has a geography of limestone mountains pocked with caves and fine sandy beaches facing beautiful idyllic islands.
+Trang province is southern Thailand's best-kept secret: the same dramatic limestone karsts, white-sand beaches, and turquoise Andaman Sea as Krabi and Phang Nga, but without the crowds. The coastline stretches nearly 200 kilometres and shelters more than 46 islands, many of them barely visited.
 
-Fortunately Trang has not been taken over by the tourism industry. The reason is simply that it already has a fully developed economy, based on the rubber plantations that have flourished since the end of the last century. The seafood industry, tin and barite mining have also been well established to support the workforce of Trang.
+The provincial capital is a workmanlike Thai town with little to detain you, but it serves as the gateway to a gorgeous archipelago. Rubber plantations, tin mining, and fishing have kept the local economy humming for over a century, which means Trang never needed to chase tourist dollars. The result is an authentically Thai coastal province where the seafood is fresh, the beaches are empty, and a longtail boat to a deserted island costs a fraction of what you would pay further north.
 
-Apart from the province's appealing tropical islands, the interior is strewn with caves, waterfalls, hot springs and lakes. You can find this beautiful nature twenty km north of the rather uninteresting provincial capital.
-
-**Trang **or **Muang Thap Thiang **used to be a port involved in foreign trade. It was the first city where rubber was planted. Phraya Ratsadanupradit Mahison Phakdi brought rubber from Malaysia and planted it here before anywhere else in southern Thailand in 1899. Rubber is now considered an important commodity of Thailand. The important Trang River flows through the province from its origin in the Khao Luang mountain range and the Palian River from the Banthat mountain range.
-
-Trang** **is a coastal province on the Indian Ocean with a long western coastline of about 199 kilometres. The province consists of an archipelago in the Andaman Sea with over 46 islands. Of these, 12 are in Amphoe Kantang, 13 in Amphoe Palian and 21 in Amphoe Sikao. The best time for sea travel is during October to May of the following year.
-
-Trang has a total area of 4,941 square kilometres and is divided into 9 districts (Amphoe) and 1 sub-district (King Amphoe); *Amphoe Kantang, Amphoe Huai Yot, Amphoe Yan Ta Khao, Amphoe Palian, Amphoe Sikao, Amphoe Wang Wiset, Amphoe Na Yong, Amphoe Ratsada, *and *King Amphoe Hat Samran.*
+Inland, the landscape is riddled with caves, waterfalls, and hot springs fed by rivers flowing down from the Khao Luang and Banthat mountain ranges. The best time to visit the islands and coast is from November to May, when the Andaman Sea is calm and visibility is excellent.

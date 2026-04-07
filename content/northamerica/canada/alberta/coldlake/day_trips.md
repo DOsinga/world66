@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Cold Lake"
+title: "Day Trips"
 type: section
 ---
 

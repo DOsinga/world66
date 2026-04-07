@@ -1,14 +1,6 @@
 ---
-title: "Getting There in Ioannina"
+title: "Getting There"
 type: section
 ---
 
-**By car or by bus**
-
-The distance from Athens is around 450 Km. The duration of the journey is about 6 or 7 hours.
-
-The distance from Thessaloniki is around 370 Km but the road is not very good, especially the last 100 Km from Ioannina.
-
-**By plane**
-
-Ioannina is connected to Athens and Thessaloniki every day. The duration of the flight is around 40 minutes.
+By road, Ioannina is about 450km from Athens (6–7 hours) and 370km from Thessaloniki, though the last 100km is slow mountain road. Buses from Athens (KTEL) run several times daily. Ioannina has a small airport with daily flights to Athens and Thessaloniki (around 40 minutes each).

@@ -1,8 +1,10 @@
 ---
-title: "Chantilly"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 49.193174
 longitude: 2.463669
+title: Chantilly
+type: location
 ---
 
 Forty kilometres north of Paris, Chantilly is one of the most complete aristocratic estates in France — a château, a park laid out by Le Nôtre, a racing stable built to house two hundred horses, and a forest that still stretches for thousands of acres around it. The whole domain was left to the Institut de France in 1884 by the Duke of Aumale, and has changed remarkably little since.

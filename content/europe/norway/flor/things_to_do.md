@@ -1,16 +1,12 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**BAD WEATHER TOURISM
+The main reason to come to Florø is the coast and the islands. The surrounding waters are excellent for fishing — trout and eel in the lake right in the town centre, sea fishing out in the fjords. Local outfitters can arrange day trips by boat to the outer islands.
 
-**    What can be more fascinating than a stormy day on the coast? When the winds are howling and the rain is lashing you can experience the west coast of Norway at its most primal. How about seeking shelter in a cabin / fisherman´s shack? One that has withstood storms and hurricanes for more than a hundred years? Safely inside, and yet in the middle of elemental fury. Several cottages amongst others on the islands out from Florø and on the little fishing village Kalvåg, can be hired. Daily boat service from Florø.
+For a half-day trip, head to **Ausevika**, about 40 minutes south by car toward Stavang. The rock carving site here contains more than 300 figures — humans, animals, and fertility symbols — carved over 3,000 years ago. Much of the site is intact and signposted.
 
-**Fishing**
+The island of **Svanøy**, accessible by ferry, is the most fertile and southerly island in the municipality. The old estate dates from the 17th century and the grounds include a working deer farm. It's a quiet, unhurried place best visited in good weather.
 
-****Flora, Bremanger and Naustdal is a heaven for sports fishermen. Here are numerous good fishing lakes and rivers. Such as Norddalsfjorden, Løkkebøvatnet, the Osen watercourse etc. In the centre of Florø one can fish trout and eel in the lake, ideal for fly fishing. In Flora you [more..](/europe/norway/flor/things_to_do/fishing)
-
-**Sea Rafting**
-
-****The adrenaline rushing through your veins, the engine roaring and the sea spray splashing all around you! This is speed, excitement and fun. With 200hp and a top speed of 60 knots we go west towards the ocean. The target is Svanøy, Kinn or perhaps Ytterøyane? What about a quick [more..](/europe/norway/flor/things_to_do/sea_rafting)
+For something more elemental, a stormy day on the outer coast is genuinely memorable. Several old fishermen's cottages on the outer islands can be rented; the combination of howling wind, solid timber walls, and a woodstove makes for a very Norwegian experience.

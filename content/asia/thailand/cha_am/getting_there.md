@@ -3,10 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Cha Am can be reached from Bangkok by taxi in about 2 hrs 30 minutes, a
-little longer by express bus. There are also trains but not all trains
-stop at the small Cha Am station but all trains stop at the main Hua
-Hin Train station 20 kms south of Cha Am.
-
-**Contributors**
-April 20, 2005
+From Bangkok, Cha Am is about two and a half hours by taxi or express bus. Trains run south from Bangkok but not all stop at the small Cha Am station — if yours does not, get off at Hua Hin, 20 kilometres further south, and take a taxi or minibus back.

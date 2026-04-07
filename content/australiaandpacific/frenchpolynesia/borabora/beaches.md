@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Bora bora"
+title: "Beaches"
 type: section
 ---
 

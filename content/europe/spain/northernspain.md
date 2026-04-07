@@ -1,6 +1,8 @@
 ---
-title: "Northern Spain"
+title: Northern Spain
 type: location
+done:
+  location_cleanup: 2026-04-07
 ---
 
 For years religious Pilgrims found their way to the beautiful city [Santiago de Compostela](/europe/spain/northernspain/santiagodecompostela) . This city is the main attraction of the region Galicia (also called Spains Ireland). South of Santiago there is [Vigo](/europe/spain/northernspain/vigo) ; nothing less than Spain's premier fishing port. Pontevedra is another city of great interest in Galicia. 

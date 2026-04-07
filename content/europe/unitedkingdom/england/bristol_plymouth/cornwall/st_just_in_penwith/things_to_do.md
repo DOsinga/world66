@@ -1,26 +1,12 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
-phone: "01736 786156"
-type: "Hiking"
-url: "www.nationaltrust.org.uk"
 ---
 
-Visit Cape Cornwall,which (since it is not the furthest west or south or anything else) remains an unspoiled piece of superb coastal scenery. You should also observe it from Cran Gloose (west) and Kennidjack castle (an earthwork - east)
+Things to do in St Just centre on the coast, the moorland, and the extraordinary industrial heritage of the Penwith peninsula.
 
-**Contributors**
-April 14, 2008
+Cape Cornwall, a mile west of town, is a headland where the Atlantic and the English Channel meet — or rather, where the tidal flows from each side converge. It is quieter and wilder than Land's End and far more satisfying. Walk there along the coast path from St Just for the best views back over the town.
 
-### [Tin mining remains](/europe/unitedkingdom/england/bristol_plymouth/cornwall/st_just_in_penwith/things_to_do/tin_mining_remains)
+The coast path east of St Just leads past the spectacular tin mine ruins at Botallack — particularly the dramatically placed 'Crown Mines' engine houses perched on the cliff face above the sea — and on to Levant, where the National Trust has restored a working beam engine, the only one in Cornwall that still runs under steam at announced times.
 
-Go on the coast path east and see the mining remains of Bottalack, where the mines called 'The Crowns' on the headland are spectacular, and those of Levant, where the National Trust has exhibitions, tours and an engine in stem at announced times.
-
-The url and telephone relate to the latter.
-
-type: Hiking
-
-
-
-tel: 01736 786156
-
-url: [www.nationaltrust.org.uk](http://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-levantmineandbeamengine/)
+The surrounding moors hold a remarkable density of prehistoric monuments. With a large-scale Ordnance Survey map you can find Carn Euny (an Iron Age village with a rare *fogou*, an underground stone passage), Men-an-Tol (a holed standing stone), Chysauster (another Iron Age village), Lanyon Quoit, and the Nine Maidens stone circle. These are not signposted tourist attractions but genuine ancient remains in open countryside.

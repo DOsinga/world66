@@ -1,11 +1,9 @@
 ---
-title: "Rose & Crown ."
-type: location
-type: "Casinos"
-latitude: 43.708576
-longitude: -79.398535
+title: "Rose and Crown"
+type: poi
+category: "Bar"
+latitude: 51.1762
+longitude: -115.5698
 ---
 
-Walk up to the Stairs to what could be called a **PhCLUB**. On the Left hand side it's a chill, but lively chatting atmosphere. Two pool tables, booths lining the right wall, a foosball table, and a video arcade game makes it easy to keep busy even if you not drinking. The right hand side can be the upbeat side when a live band is on the small yet inviting stage. Live music and games room. Patio. *Tel: 1 403 762-2121 Address: Upstairs, 202 Banff Ave*
-
-type: Casinos
+Upstairs pub at 202 Banff Avenue with a split personality: a chill side with pool tables, foosball, and booths, and a livelier side with a stage for live bands on weekends. Rooftop patio for summer evenings.

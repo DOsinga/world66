@@ -1,12 +1,14 @@
 ---
-title: "Norwich"
+latitude: 52.6286
+longitude: 1.2928
+title: Norwich
 type: location
-latitude: 52.628558
-longitude: 1.292395
 ---
 
-Travel Guide
+Norwich is Norfolk's only city and its cultural and commercial heart. Compact and walkable, it clusters around a Norman castle mound at the centre, with a medieval street plan that has survived largely intact. The old lanes — Elm Hill, Tombland, the Lanes — are lined with independent shops, cafés, and restaurants, making it one of England's better cities for an afternoon on foot.
 
-Norwich is the only city in Norfolk.
+Norwich Cathedral is one of the finest Norman buildings in England, its spire second only to Salisbury in height. The castle, built by the Normans in 1068, now houses a museum and art gallery. The city also has the largest collection of medieval churches of any city in northern Europe outside London — many now converted to arts and community uses.
 
-Norwich is home to the Norfolk County Council, and is home to Norwich Castle, which was constructed in 1068 CE. Norwich is home to over 100,000 inhabitants. Norwich is semi-surounded by the A47 Road and also has it's own airport, that runs flights to Amsterdam and other UK and European destinations. There are two shopping malls in Norwich. One is called Castle Mall and the other is Chapelfield Norwich. Norwich also has a railway station that is next to the football ground Carrow Road that is home of Norwich City FC.
+The University of East Anglia gives the city a young, creative edge. The UEA campus is home to the Sainsbury Centre, a landmark building by Norman Foster housing a world-class collection of tribal and modern art. Norwich was the first UNESCO City of Literature in England.
+
+Getting here is straightforward: Norwich has its own railway station with direct trains to London Liverpool Street (roughly two hours), and a regional airport with flights to Amsterdam and various UK destinations. The A47 and A11 connect the city by road to the rest of the country.

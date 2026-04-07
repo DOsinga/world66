@@ -1,6 +1,0 @@
----
-title: "Museo do Mar (Sea Museum)"
-type: poi
----
-
-Museo do Mar (Sea Museum), housed in a former slaughterhouse and the ruins of a canning factory. Currently they have an exhibit about the Battle of Rande.

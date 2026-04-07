@@ -1,18 +1,12 @@
 ---
-title: "Guwahati"
-type: location
 latitude: 26.180598
 longitude: 91.753943
+title: Guwahati
+type: location
 ---
 
-Travel Guide
+Located on the southern bank of the Brahmaputra, Guwahati is the gateway to northeast India and the largest city in Assam. It is the main entry point by air and rail for most travellers heading into the region.
 
-Located on the bank of the Brahmaputra, Guwahati is the gateway to north eastern India and to
-[Assam](/asia/india/assam).
+The city's most important sight is the Kamakhya Temple on Nilachal Hill, eight kilometres west of the centre — one of the most significant Shakti temples in India and a major pilgrimage destination. The Navagraha Temple on Chitrachal Hill to the east is dedicated to the nine celestial bodies of Hindu astronomy. On Peacock Island in the Brahmaputra itself, the Umananda Temple is reached by ferry (7am–5pm); the site is especially lively during the annual Shivaratri festival.
 
-Sights include the Kamakhya Temple on Nilachal Hill, eight km west of the city, the Navagraha temple on Chitrachal Hill to the east of the town and Umananda Temple on Peacock island in the midst of river Brahmaputra. Ferries make regular crossings from 7am to 5pm. The site is especially busy during the annual Shivaratri festival, when devotees from all over the state come to worship the god.
-
-The Assam State Museum is also worth a visit. It has collections of archaeology, sculpture, paintings, metal, ivory and woodwork, costumes and ethnology. There are exhibits of reconstructed huts of Assamese tribes.
-
-More information on
-*Guwahati Travel*
+The Assam State Museum in the city centre holds a good collection covering archaeology, sculpture, metalwork, ivory and woodwork, and ethnological displays of reconstructed tribal huts from across the state.

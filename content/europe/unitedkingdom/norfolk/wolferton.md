@@ -1,10 +1,12 @@
 ---
-title: "Wolferton"
+latitude: 52.8293
+longitude: 0.4626
+title: Wolferton
 type: location
-latitude: 52.829321
-longitude: 0.462582
 ---
 
-Travel Guide
+Wolferton is a tiny village on the western edge of Norfolk, about 3 miles from Sandringham. It sits within the Sandringham Estate woodland, surrounded by stands of mature trees that give it an unexpectedly secluded feel.
 
-**Wolferton** is a very small village about 3 miles from the queen's residence **Sandringham. **Wolferton is dominated by an old disused railway station that was closed down during the 1960's. Wolferton's old railway station has now been converted into 4 flats (2 on each platform) and are not open to the public, but useually the owners of these flats let people in to look around and take photos. The village is a loop, located in a forest of 200 year old trees that have never been influenced by man and therefore make a picture perfect zone. Wolferton contains an old signal box and house that has written on the front door 'beware of the trains', a mimick of 'beware of the dog'. Wolferton also has a picturesque row of houses, and the owners a quite nice. The only other feature of this quite village is a bus stop, with services running to King's Lynn, Hunstanton & Sandringham.
+The village is dominated by its former railway station, closed in the 1960s and now converted into private apartments. The station served the Royal Family on their journeys to and from Sandringham, and the platform buildings survive in good condition. The station is private, but the owners have traditionally been welcoming to visitors who wish to look around and photograph it.
+
+Bus services connect Wolferton to King's Lynn and Hunstanton.

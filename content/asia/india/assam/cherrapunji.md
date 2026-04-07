@@ -1,14 +1,14 @@
 ---
-title: "Cherrapunji"
-type: location
 latitude: 25.277734
 longitude: 91.729242
+title: Cherrapunji
+type: location
 ---
 
-Travel Guide
+Cherrapunji (also known as Sohra) holds the record for the world's highest annual rainfall — over 11,000 mm in a typical year, with a single-year record of 22,987 mm. Despite being in [Meghalaya](/asia/india/meghalaya) rather than Assam proper, it is easily visited from Guwahati and frequently included in trips to the northeast.
 
-Said to be the wettest place on earth with an annual rainfall of 11m( & a world record of 22m), Cherrapunji is a wierd & wonderful place to find yourself. Set in the Meghalaya hills south of Guwahati the town sits on a bluff of hills over looking the plains of Bangladesh. Warm, humid air coming off the bay of Bengal hits the Meghalayas & is pushed up rapidly making it an ideal place for non-stop rain.
+The town sits on a plateau in the Khasi Hills, with dramatic views south over the plains of Bangladesh. Warm, moisture-laden air off the Bay of Bengal hits the hills and is forced rapidly upward, generating near-constant cloud and rain for much of the year. The best time to visit is October to May, when skies occasionally clear and the waterfalls fed by the monsoon are still flowing strongly.
 
-Cherrapunji was founded by the British as a hill station serving Assam & Welsh missionaries soon set up a community there. Later on the town of Shillong, & now capital of the Meghalayas, over-shadowed the small hill resort but in recent years its begun to make a comeback. Travel is now made easy ,many buses are there running right from 7 a.m in the morning till 8,while you can find other transport like Tata sumo,Maruti car and also you can rent a private car.
+The most unusual attraction is the living root bridges — footbridges made by training the aerial roots of rubber fig trees across rivers and gorges over many decades. The Khasi people have built dozens of these in the valleys below the plateau; the double-decker root bridge near Nongriat village is the most celebrated, reached by a steep descent of around 3,500 steps each way.
 
-The town itself sits on the edge of a broad plateau & a number of good hikes can be made into the surrounding area. Kasi people( the local tribal group) mine coal locally & the mines are worth a visit. Small tunnels( 1 metre sq.) are dug kilometres into the hill sides to access the coal with small wooden trollies used to bring up the excavated material. Further afield you get great views over the Bangladeshi town of Sylhet & the flood plains below; or for the more adventurous you can head down into the lower valleys were small Kasi villages huddle in dense jungle surroundings. Make sure to see the 'Tree bridges' particular to the Meghalayas where the limbs of rubber trees are trained into foot bridges across rivers & narrow gorges.
+Cherrapunji was founded as a British administrative centre before being overshadowed by Shillong. The strong Welsh missionary presence left a lasting Christian imprint on the local Khasi community.

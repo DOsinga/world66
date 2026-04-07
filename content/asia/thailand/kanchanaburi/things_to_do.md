@@ -1,18 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Green World Hot Spring Resort & Golf Club**
-
-Address: km 107 Kanchanaburi Thong Pa Pum Rd. Phone: +66-2-2434613 or 5392865. 18 holes, par 72.
-
-**Evergreens Hills Golf Club**
-
-Address: 152 Mu 5, Tha Muang, Kanchanaburi. Phone +66-(0)2-5120294-6
-
-**Mission Hill Golf Club**
-
-Address: Nong Tak Ya, Tha Muang, Kanchanaburi. Phone: +66-(0)2-2225514. 18 holes, par 72.
+Kanchanaburi's main draw is its World War II history, centred on the Death Railway and the Allied prisoners of war who built it. The war cemeteries, memorials and museums are among the most moving in Southeast Asia. Beyond the wartime sites, the town has several Buddhist temples worth visiting, including cave temples set in the limestone hills south of town.

@@ -3,11 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Coimbra has three stations worth mentioning.
-Coimbra B, a few kilometers from the centre is where the trains from Lisbon and Porto stop. Most tickets show this as the destination. However, there is a 'new' station, Coimbra A, right in the centre and a free train shuttle operates between here and Coimbra B.
-Coimbra Parque is the station, a smal one, for some trains into the neighbourhood - notably to Lousa.
+Trains from Lisbon and Porto stop at Coimbra B, a few kilometres from the centre. A free shuttle connects to Coimbra A, the central station right in town. The journey from Lisbon takes about two hours, from Porto about an hour.
 
-The bus station is about quarter of an hour from Cimbra A up Av. Fernao de Maghalaes.
-
-**Contributors**
-October 17, 2008
+The bus station is a fifteen-minute walk north of Coimbra A along Avenida Fernão de Magalhães, with services to most Portuguese cities.

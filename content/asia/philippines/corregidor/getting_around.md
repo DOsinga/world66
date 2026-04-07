@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Corregidor"
+title: "Getting Around"
 type: section
 ---
 

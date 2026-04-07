@@ -1,24 +1,6 @@
 ---
-title: "Things to do in Reims"
+title: "Things to Do"
 type: section
-address: "Flat 1 Windale Place, 196198 Wimborne Road Poole Dorset BH152ELr"
-email: "rgriffin.poole@yahoo.co.uk"
-phone: "01202 679247"
-type: "Other"
 ---
 
-You can do all sorts of things
-
-### [Notre Dame](/europe/france/east/champagne/reims/things_to_do/notre_dame)
-
-This is where the first king was crowned St. Remi at the cathederal, it was destroyed and mostly rebuilt in the 17th century.
-
-type: Other
-
-
-
-tel: 01202 679247
-
-address: Flat 1 Windale Place, 196198 Wimborne Road Poole Dorset BH152ELr
-
-email: rgriffin.poole@yahoo.co.uk
+Reims punches above its weight for a provincial French city. Three UNESCO World Heritage monuments are within walking distance of each other in the historic centre, and the champagne cellars cut deep into the chalk beneath the city. The Cathedral is the obvious starting point, but allow time for the Tau Palace next door and the Saint-Remi Basilica and museum on the southern edge of the old town.

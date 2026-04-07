@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Tamjeed_Ahmed" tit
   Ahmed">Tamjeed Ahmed</a>
 done:
   country_cleanup: 2026-03-31
+  location_cleanup: 2026-04-07
 ---
 
 *Asia > India*

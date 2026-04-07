@@ -1,22 +1,14 @@
 ---
-title: "Fort Smith"
+title: Fort Smith
 type: location
-latitude: 60.005852
-longitude: -111.890259
+latitude: 60.0059
+longitude: -111.8903
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Travel Guide
+Fort Smith is a small town on the Alberta-Northwest Territories border at the southern edge of Wood Buffalo National Park — Canada's largest and oldest national park, a UNESCO World Heritage Site protecting the last free-roaming bison herd in the world. The park's headquarters are in Fort Smith, making it the natural base for visiting the park.
 
-60°00'N, 111°58' W
+The Slave River flows through town and the rapids here — the Mountain Portage Rapids and the Rapids of the Drowned — are dramatic and considered among the best kayaking whitewater in Canada. White pelicans nest on the islands in the river, and wood bison, wolves, and black bears can be spotted in the surrounding area.
 
-Fort Smith is where one finds the headquarters of Wood Buffalo National Park, Canada's largest and oldest National Park.
-
-There are four locations in town where you can get internet access for free.
-
-1) The Mary Kaeser Public Library right next to the town hall on Fort Smith's main drag, McDougal Street. It is open afternoons and evenings.
-
-2) The Fort Smith Recreation Centre which is easy to find because it is also the tourism information centre and there are those "?" signs point your way to it along the main streets. It is open 7 days a week and evenings
-
-3) Aurora College's library... again easy to find because there are signs around town showing you how to find it. 8:30 am to 9 pm every day except Sindays from Noon to 9pm.
-
-4) Uncle Gabe's Frienship Centre also had free internet access available, but is a little more difficuld to find.... ask anyone how to get there... This site is open most weekday evenings.
+The Northern Life Museum covers the region's history and indigenous cultures. Wood Buffalo National Park itself offers wilderness camping, hiking, and one of the best dark-sky sites in Canada for viewing the aurora borealis.

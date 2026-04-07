@@ -1,14 +1,14 @@
 ---
-title: "Little Rock"
+title: Little Rock
 type: location
-latitude: 34.746507
-longitude: -92.289627
+latitude: 34.7465
+longitude: -92.2896
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Little Rock is the capital of [Arkansas](/northamerica/unitedstates/arkansas). Much of Little Rock’s history and many of the important sights for travelers is encompassed by the Quapaw Quarter, a nine square mile area which includes Little Rock’s central business district and adjacent residential neighborhoods. "Quapaw Quarter" is a special name that since 1961 has been used to identify this oldest and most historic portion of Little Rock. (The word "Quapaw" was borrowed from the Quapaw Indians, who lived in central Arkansas before the arrival of white settlers in the early 19th century.)
+Little Rock is the capital of [Arkansas](/northamerica/unitedstates/arkansas), a mid-sized Southern city on the Arkansas River that punches above its weight historically. It was the site of the 1957 Central High School desegregation crisis — one of the defining confrontations of the American civil rights movement — and is home to the William J. Clinton Presidential Library.
 
-Although it actually encompasses a much wider area, the Quapaw Quarter is most closely associated with the neighborhoods surrounding MacArthur Park and the Arkansas Governor's Mansion. It is in these two areas, formally known as the "MacArthur Park Historic District" and the "Governor's Mansion Historic District," that Little Rock's historic preservation efforts have been concentrated for the past 20 years.
+The oldest and most historically significant part of the city is the Quapaw Quarter, a nine-square-mile area centred on the MacArthur Park and Governor’s Mansion historic districts. Most of Little Rock’s antebellum architecture survives here: the Villa Marre (an 1881 Victorian home open to visitors), Trapnall Hall, and the Pike-Fletcher-Terry House, which now holds the Decorative Arts Museum. The Arkansas Arts Center in MacArthur Park holds one of the country’s most significant collections of works on paper alongside paintings by Monet and Degas.
 
-Most of the city's oldest buildings, including some that date from before the Civil War, are found within the boundaries of the MacArthur Park Historic District. Visitors to the historic district may tour the Arkansas Arts Center which hosues one of the most significant collections of Works on Paper in the country, as well as an impressive collection of paintings by Monet, Degas and many more of the great masters. The nearby Decorative Arts Museum, which occupies the antebellum Pike-Fletcher-Terry House is another must see attraction. Another of the historic district's antebellum homes, Trapnall Hall, may be viewed by appointment. The Villa Marre, an elegant Victorian home built in 1881, is open to the public from 9 a.m. to 1 p.m. Monday through Friday and each Sunday afternoon. It may be toured at other times by appointment.
-
-Homes in the Governor's Mansion Historic District generally date from about 1880 to 1920, and they comprise an outstanding collection of Queen Anne, Colonial Revival and Craftsman architecture. All of the districts restored buildings serve as private homes or businesses. Although they are not open to the public, they can be enjoyed from the street or sidewalk via driving or walking tours. In addition, each year the Quapaw Quarter Association, Little Rock's historic preservation organization, arranges for several privately-owned historic houses to be opened to the public during the first weekend in May for the Annual Quapaw Quarter Spring Tour and the first weekend in December for Christmas Open Houses. Visitors won't want to miss a tour of the Clinton Presidential Library and Park (opening 11-04) The Old State House Museum, Historic Arkansas museum and certainly not the Arkansas Repertory Theatre or The Arkansas Symphony Orchestra or a Broadway Production at Robinson Auditorium. You wont be dissappointed with other forms of entertainment either. The restaurants and bars in the River Market District bring out the diners and partyers until late night. You can venture further down to Main Street to catch some more great live music food and fun.
+For a livelier evening, the River Market District along the waterfront has restaurants, bars, and live music venues that stay busy well into the night. The Old State House Museum — Arkansas’s original capitol building — is one of the best free attractions in the city.

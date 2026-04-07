@@ -3,10 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-**By train**: "Ferrovie dello Stato"/ Genova-Ventimiglia railway (Spotorno station).
+Noli sits on the Ligurian coast between Genoa and the French border, reachable by road and rail.
 
- **By car**: "A10" motorway (Genova-Ventimiglia): exit Spotorno; S. S. 1 (Aurelia)  
+**By train:** The nearest station is Spotorno-Noli on the Genova-Ventimiglia line. From there it is a short bus ride or taxi to the centre of Noli.
 
- **Airport**: *Genoa (GOA) *(Cristoforo Colombo Sestri) (Web site: http://www.airport.genova.it) 6km (4 miles) west of the city (travel time – 20 minutes) has duty-free facilities. Buses are available to the city.
+**By car:** Take the A10 motorway (Genova-Ventimiglia) and exit at Spotorno. The old Via Aurelia (SS1) also passes through if you prefer the scenic coastal route. Genoa is about 50km to the east.
 
- Genoa-Spotorno 51Km
+**By air:** The closest airport is Genoa Cristoforo Colombo (GOA), about 60km east. From there, take the train or rent a car.

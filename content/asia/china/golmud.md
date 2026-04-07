@@ -1,25 +1,14 @@
 ---
-title: "Golmud"
+title: Golmud
 type: location
-latitude: 36.739753
-longitude: 93.54239
+latitude: 36.4065
+longitude: 94.9023
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Travel Guide
+Golmud (also spelled Geermu) sits on the vast Qinghai-Tibet Plateau at about 2,800 metres, surrounded by desert and salt flats. It is the second city of Qinghai province and, for most travellers, primarily a transit point on the way to Tibet — either by road along the Qinghai-Tibet Highway (Route 109) or by rail on the Qinghai-Tibet Railway, which makes Golmud the last major stop before Lhasa.
 
-The secong city of Qinghai province, Golmud is a sparse dusty town whos main attraction is as a jumping off place for Tibet. Route 109 runs the buses up onto the Tibetan Plateau & more recently the new rail link makes Golmud(or Geermu as its also known) the first major stop before Lhasa.
+The city itself is a grid-patterned, Han-majority town built on the back of mining (potash, oil, salt). There is little to see, but if you're waiting for transport or an onward permit, the streets are easy to navigate and the market area near Kunlun Lu is worth a wander. The salt lakes and marshes outside town are surprisingly striking.
 
-Once part of Tibetan Amdo, Qinghai now mainly owes its existance to mining & although there is a mixed population the largest ethnic group is now Han Chinese.
-
-Golmud is a fairly easy town to navigate as its streets are laid out in a grid pattern. Any travel done beyong the city requires a Alien Travel Permit which can be gotten in minutes for 50Y at the PSB. Note that no tickets, train or bus, can be bought without a permit.
-
-A few grubby hotels surround the train & bus station, but its worth your while to head upto Kunlun Lu street( one of two main streets in the centre) to pick up good, clean accomodation for little more than $2USD- your best option is the Golmud Hotel. Information is sparse & the town is not geared up for travellers with few people speaking English, so come prepared. A good phrase book would work miracles.
-
-Golmud has few attractions so if you find your self stuck for a few days, buy a book. The only other past time is some cheap shopping which if your heading for Tibet might be your last opportunity.
-
-**Contributors**
-October 09, 2006
-
-## Destinations in Golmud
-
-[Yinchuan](/asia/china/golmud/yinchuan)
+**Permits**: Anyone travelling beyond Golmud toward Tibet requires an Alien Travel Permit, available quickly from the PSB. No bus or train ticket to Tibet can be purchased without one.

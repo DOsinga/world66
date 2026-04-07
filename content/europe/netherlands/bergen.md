@@ -1,8 +1,12 @@
 ---
-title: "Bergen"
+title: Bergen
 type: location
-latitude: 52.670228
-longitude: 4.701162
+latitude: 52.6702
+longitude: 4.7012
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Bergen is considered to be the artist-town of The Netherlands. Located just a few kilometers from [Alkmaar](/europe/netherlands/alkmaar), famous for its cheese market, Bergen is a very green village. Trees outnumber houses in every street, the woods and the dunes are always nearby, just as the typical Dutch polders (former lakes turned into farmland). No wonder Bergen inspired many poets, painters and other artists alike and still does so. If you care for art: every october Bergen has its 'Ten days of art' (Kunsttiendaagse). These days some hundred local artists open their doors for the public and explain their work. If you love classical music: every august The International Holland Music Sessions bring the most promising young classical musicians to Bergen for masterclasses. Three weeks in a row there are two or more concerts a day om different locations. Be sure to go to one of them in the Ruïnekerk, a small church some five centuries old in the very center of Bergen.
+Bergen is the artist village of North Holland — a small, leafy town a few kilometres from [Alkmaar](/europe/netherlands/alkmaar) where trees outnumber houses and the woods and dunes are always within walking distance. Painters, poets, and other artists have been drawn here since the nineteenth century, and something of that creative atmosphere survives today.
+
+The Ruïnekerk, a fifteenth-century ruin at the heart of the village, is the most atmospheric spot in Bergen and hosts concerts during the summer. Every October, the Kunsttiendaagse ("Ten Days of Art") brings more than a hundred local artists who open their studios and explain their work. In August, the International Holland Music Sessions fills the village with three weeks of classical music performed by some of the world's most promising young musicians.

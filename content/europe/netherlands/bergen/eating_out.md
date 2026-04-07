@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Bergen"
+title: "Eating Out"
 type: section
 ---
 

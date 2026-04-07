@@ -1,8 +1,10 @@
 ---
-title: "Pontassieve"
+title: Pontassieve
 type: location
 latitude: 43.773831
 longitude: 11.434629
+done:
+  location_cleanup: 2026-04-06
 ---
 
 At Pontassieve it is possible to visit the Old Town Centre, all that remains of the Castello di San Michele Arcangelo al Ponte a Sieve. This is a fortified wall built by the Florentine Republic in the second half of the 14th century, of which the three gates are still visible: to the East the Porta dell'Orologio, to South the Porta di Filicaia and to the West the Porta Fiorentina. In the centre of the castle we can find the Palazzo Sansoni-Trombetta (now the Town Hall). Leaving from the Porta dell'Orologio we can visit the ancient commercial street connecting the Castle to the monumental Medici Bridge on the River Sieve (16th century). After leaving Pontassieve and travelling along the river Sieve, the road rises to the Villa della Pievecchia with its mediaeval tower.

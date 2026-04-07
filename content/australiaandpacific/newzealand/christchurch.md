@@ -1,28 +1,14 @@
 ---
-title: "Christchurch"
+title: Christchurch
 type: location
-latitude: -43.530955
-longitude: 172.636434
+latitude: -43.5321
+longitude: 172.6362
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Christchurch city is located midway down the east coast of the South Island, just north of Banks Peninsula. The South Island's largest city (population 337,000) and main international gateway is a vibrant, cosmopolitan place with exciting festivals, theatre, modern art galleries, great shopping, award-winning attractions and a host of activities. 
- 
+Christchurch is the largest city on New Zealand's South Island and the country's most English-feeling place — the founding settlers in the 1850s explicitly set out to build a model Anglican city on the Canterbury Plains, and for 150 years they largely succeeded. Then, on 22 February 2011, a 6.3-magnitude earthquake hit directly beneath the central city, killed 185 people, and destroyed or damaged more than 80 percent of the buildings in the CBD.
 
-It has all the amenities of a modern city, but is still very much a regional centre serving the rich rural hinterland, with a laid-back pace to life. Its Gothic revival cathedral, grey-stone nineteenth century buildings, tree-lined avenues and extensive leafy parks have preserved the grace and charm of an earlier era. 
- Christchurch is a convenient base from which to explore the surrounding rural countryside and the natural attractions and activities of the region. After spending a day in the countryside visitors are able to enjoy international nightlife back in the city. 
- 
+Rebuilding has been slow, but the Christchurch you will visit now is one of the most interesting cities in Australasia precisely because of what it has been through. The central city is a patchwork of old stone survivors, gleaming new architecture, empty lots, street art, and ambitious projects like the **Cardboard Cathedral** (a transitional church by Shigeru Ban, built from cardboard tubes), the **185 Empty Chairs** memorial, and the **Riverside Market** food hall. The **Canterbury Museum** holds a strong Antarctic exploration collection, and the **Christchurch Botanic Gardens** and Hagley Park cover 164 hectares in the city centre.
 
-Alive with colour, atmosphere and world-class attractions, Christchurch is a graceful city that values its culture and heritage, but offers a year round range of fresh and exciting adventures and activities. 
- The city is full of delights, from the beautiful neo-gothic Arts Centre, to the historic tram which loops the city centre, to the Christchurch Gondola and unique attractions like the International Antarctic Centre. The shopping is superb and the restaurants are a celebration of fresh, natural New Zealand foods and fine wines. 
- 
-
-Known internationally for its award winning gardens, Christchurch is also a place for events and festivals. Whatever the season, you'll find a non-stop programme of entertainment with events like the Festival of Romance, the International Buskers Festival, winter carnival, and Showtime Canterbury in November. 
- 
-
-Christchurch also has New Zealand's finest purpose-built Convention Centre (which caters for 10 to 2500 people). You will also find the Christchurch Town Hall (the main venue for performing arts) and the Westpac Trust centre, a multi-purposed indoor venue for major sporting and entertainment events. 
- 
-
-Courtesy of:**100% Pure New Zealand**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!
+Christchurch is the main base for exploring the South Island. **Akaroa** on Banks Peninsula is ninety minutes away, the **TranzAlpine train** to the West Coast through Arthur's Pass is one of the world's great rail journeys, and Queenstown is five hours south-west.

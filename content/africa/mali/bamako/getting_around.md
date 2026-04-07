@@ -1,22 +1,12 @@
 ---
-title: "Getting Around in Bamako"
+title: "Getting Around"
 type: section
 ---
 
-There are a couple of different **Bamako transportation **options you can choose from when in the city. Below are the most recommended ones:
+Bamako doesn't have a metro or formal bus network. You get around by taxi or minibus.
 
-**Taxi
-**
+**Taxis** are the default option. All are painted yellow. There are two types: shared taxis (with a sign on the roof) that pick up multiple passengers along a route, and private taxis (no sign) that take only you. Shared taxis are cheaper; private ones cost more, especially after dark when rates double. Most drivers speak only French.
 
-Taxi is the most common option for traveling around Bamako. All taxis are painted in yellow. They are old and rusty, but you don&rsquo;t really have a better alternative. There are two types of taxis: ones with a taxi sign on top and ones without a sign. The ones without signs are private and service only you, while the others offer shared service, so it&rsquo;s not an unusual thing for their drivers to pick up other passengers along the way. Be aware that the majority of taxi drivers speak only French, so you may experience serious difficulties communicating in English. It is also good to know that the taxi rates double at night.
+**Minibuses** (locally called Dourounis) are green and run fixed routes. They're cheaper than taxis but crowded and can be slow. Avoid them at night — poor lighting on the roads and unreliable vehicle lights make accidents more likely.
 
-**Minibus
-**
-
-The public transport in Bamako is supplied by a number of green minibuses called Dourounis. Again, they are in bad technical condition. The Dourounis function a lot like shared taxis, with the only difference being that they have predefined routes. They get a bit overcrowded and aren&rsquo;t generally very safe at night--not only because of the people, but because the streets lack decent lighting. Many of the minibuses have damaged lights as well. Keep that in mind to avoid accidents.**
-**
-
-**Car Rental
-**
-
-Car rental is possible in Bamako as well, but don&rsquo;t expect too much--you won&rsquo;t likely get a vehicle that's any better than the regular taxis. A good thing is that most rented cars come with local drivers.
+**Car rental** is available, but the vehicles are generally no better than the taxis. Most rentals come with a local driver, which is genuinely useful given Bamako's traffic.

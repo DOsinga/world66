@@ -3,20 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-******Air** 
+**By air:** Chaudhary Charan Singh International Airport (formerly Amausi) has direct flights to Delhi, Mumbai, Kolkata, Varanasi, Patna, and a growing number of other Indian cities. The airport is about 15 km from the city centre.
 
-Amausi Airport, Lucknow is directly connected with Delhi, Patna, Calcutta, Bombay and Varanasi by direct flights.  Indian Airlines, Reservation Enquiry, Ph : (0522)220927 Flight Information - Amausi Airport, Enquiry - Ph : (0522)435401, 436188 (pre recorded - 142) Air India-Janata Travels, (General Sale Agent) Hotel Clarks Awadh, 8, M.g. Road, Ph: (0522)226171 Sahara India Airlines, Sahara India Tower, 7, Kapoorthala Complex, Ph : (0522)377675, 372742   
+**By rail:** Lucknow is a major railway junction. Charbagh station — worth a look in itself for its grand colonial architecture — connects the city to Delhi (Shatabdi Express, around 6 hours), Varanasi, Kolkata, Mumbai, and most other large Indian cities. The Lucknow Mail and Gomti Express are among the most popular services.
 
-**Rail** 
-
-A major railway junction, Lucknow is conveniently connected to many cities. Some of the important trains are :    5307/5308 Shatabadi Ex. : 5063/5064;  Nainital Ex; : 9165/9166;  Sabarmati Exp : 2553/2554;  Vaishali Exp : 5609/5610;  Awadh-Assam Exp : 8475/8476;  Neelanchal Exp : 4283/4284;  Ganga-Yamuna Exp : 4229/4230  Lucknow Mail : 2419/2420;  Gomti Exp : 4057/4058;  Kashi-Vishwanath Exp : 4011/4012; Nauchandi Exp : 1015/1016;  Bombay-Gorakhpur Exp : 5011/5012; Cochin-Gorakhpur Exp.  
-
-**Road** 
-
-Lucknow is connected by road with all the major cities of the country. Some of the major road distances are : Agra - 363 km, Allahabad - 210 km, Ayodhya - 135 km, Calcutta - 985 km, Corbett National Park - 400 km, Delhi - 497 km, Dudhwa National Park - 238 km, Kanpur - 79 km, Khajuraho - 320 km, Varanasi - 305 km. 
-
-**all**
-
-**Lucknow -flights {to Mumbai}**
-
-it shud contain the hyperlink of various airlines which are providing there services to lucknow airport.
+**By road:** Lucknow sits on the national highway network with good connections to Kanpur (79 km), Allahabad (210 km), Ayodhya (135 km), Agra (363 km), and Delhi (497 km). State-run and private buses operate from the main bus stand near Charbagh.

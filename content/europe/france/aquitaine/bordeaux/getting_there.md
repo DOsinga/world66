@@ -1,23 +1,8 @@
 ---
-title: "Getting There in Bordeaux"
+title: "Getting There"
 type: section
-type: "By Air"
 ---
 
-.
+Bordeaux-Merignac airport has connections to major European cities. The JetBus shuttle links the airport to the city centre every 45 minutes, stopping at Place Gambetta and Gare Saint-Jean. The ride costs around 8 euros.
 
-### [Red](/europe/france/aquitaine/bordeaux/getting_there/red)
-
-JetBus links the airport to the town every 45 minutes - costs 7 euros -
-stops at Place Gambetta & Gare St. Jean (the main railway station)
-+ other hotel stops if requested.
-
-type: By Air
-
-
-
-### [Taxi](/europe/france/aquitaine/bordeaux/getting_there/taxi)
-
-More in comfort, convenience and courtesy, meet and greet Airport Service, hotel pickups. For taxi services, you can go directly to Bordeaux Airport taxi rank or make an advance booking with one of the companies at your service.
-
-type: By Road
+Gare Saint-Jean is the main railway station. The TGV from Paris Montparnasse takes about three and a half hours. There are also direct trains to Toulouse, Lyon, and Nantes. The station is a short tram ride south of the city centre.

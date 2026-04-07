@@ -1,18 +1,18 @@
 ---
-title: "Talkeetna"
+title: Talkeetna
 type: location
-latitude: 62.267644
-longitude: -150.029529
+latitude: 62.3209
+longitude: -150.1066
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Talkeetna is about three hours north of Anchorage, by rail on the Alaska Railroad ( www.alaskarailroad.com). It's to the south east of Denali National Park, a well known place to visit in Alaska. Talkeetna is the staging point for climbers who are tackling Mt McKinley/Mt Denali, and it's rumoured that it was the inspiration for the television series, Northern Exposure. It's a small town, one paved road (Talkeetna Spur Road, the road in to Talkeetna from the highway), but with lots and lots of character. It's at the end of the road too, so you won't pass through Talkeetna on the way to somewhere else; you need to make the effort to go - do it, it's worth it.
+Talkeetna is a small Alaskan town with an outsized personality. Sitting at the confluence of three rivers with Denali towering to the north, it serves as the staging point for climbers attempting North America's highest peak. But you do not need to be a mountaineer to appreciate this place. Talkeetna runs on bush planes, local characters, and a cheerful disregard for convention.
 
-Day trippers descend on the town during the day, so it's pretty busy. There is the famous Nagle's Store, where you can get just about any food item, and more. Grab an ice-cream and sit outside and people-watch for a while. Nagle's is across the road from the historic Fairview Inn, where Talkeetna's first bath tub was located. At the end of the main street, there's a short walk to the edge of the Talkeetna River, where you can sit on the trunk of a huge fallen tree and watch the grey, glacial waters flow by and gaze at Mt Kinley.. If you are lucky, you'll have some peaceful moments here by yourself to appreciate this place.
+The town is about three hours north of [Anchorage](/northamerica/unitedstates/alaska/anchorage) by road or rail, at the end of the 14-mile Talkeetna Spur Road. You will not pass through on the way to somewhere else -- you have to want to come here. That deliberate isolation is part of the charm.
 
-There's restaurants and hotels (including the huge Talkeetna Alaskan Lodge) and lots of B&Bs. Talkeenta is still safe enough for doors to be left open which is a pleasant surprise after living in big cities. The town is surround by forest, and has an air about it that there is a lot more to this place than you see at first glance. It would be good to spend a few days here to get to know the locals and experience some of the 'real' Alaska (as opposed to the tourist Alaska).
+There is one paved road, a handful of log buildings, and more small aircraft than you can count. On a clear day the views of Denali are staggering. Walk to the end of Main Street and down to the riverbank, where grey glacial water rushes past and the mountain fills the sky. The historic Fairview Inn anchors the town center, and Nagley's Store across the road is an institution -- grab an ice cream and watch the parade of bush pilots, fishermen, and day-trippers.
 
-There is sometimes more plane traffic than car traffic in Talkeetna, and flightseeing around Mt Kinley, while a bit expensive, is a must-do. Truly amazing scenery - don't miss the lodge sitting atop a ridge in these mountains - the only private land which is reached by air taxi which lands on the glacier below. Interesting place for a holiday home!
+Flightseeing around Denali is expensive but extraordinary. Several operators fly glacier landings and summit circuits that put you face to face with Alaska's most dramatic scenery. Fishing is the other big draw, with salmon, grayling, and trout all within reach. For hikers, multi-day treks into the backcountry around [Denali National Park](/northamerica/unitedstates/alaska/denali_national_pa) offer some of the wildest terrain on the continent.
 
-Fishing is a big past time, as is hiking. One hiking company that comes personally recommended is Denali Trekking Company ( www.denalitrekking.com) which runs three, five and seven day hikes. Wonderful personalised hiking experiences that create eternal memories.
-
-The Talkeetna Chamber of Commerce website is at: http://www.talkeetnachamber.org/ and there are heaps of other sites with information if you do an internet search.
+Day visitors flood in during summer, but stay a few nights and the crowds thin out. Talkeetna rewards the unhurried. Doors are left unlocked, locals are generous with their time, and the forest presses in from every side. This is the Alaska people imagine but rarely find.

@@ -1,14 +1,20 @@
 ---
-title: "South-East"
+title: Southeast Tasmania
 type: location
-latitude: -36.862296
-longitude: 174.719072
+description: The region surrounding Hobart, from the Huon Valley and Bruny Island
+  to the Tasman Peninsula and Mt Field National Park.
+latitude: -42.8826
+longitude: 147.3257
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Any part of the South-East region of Tasmania is accesible as a day-trip from the capital city, Hobart. It ranges from the Mt Field National Park in the west to Bruny Island and the Huon Valley in the East. The South-East is also a gateway for expeditions into the World-Heritage wilderness of the South-West, in particular trail-heads for Federation Peak, Precipitous Bluff and the South Coast Track. The South East also includes the Richmond-Campaigna area and the Tasman Peninsula, to the north-east of Hobart.
+Southeast Tasmania radiates outward from Hobart, the state capital, into some of the most varied landscape in Australia. Within a couple of hours' drive you can reach temperate rainforest, convict ruins, sheltered waterways, and wild ocean coastline. Everything here works as a day trip from the city, though several spots reward a longer stay.
 
+The Derwent River flows southeast from the Central Highlands, widening into the estuary on which Hobart sits. South of the city, the Huon River runs eastward through apple-growing country to Huonville and beyond. Between the two, a string of small towns lines the D'Entrecasteaux Channel: Cygnet, Kettering, Margate, Snug. Offshore lies Bruny Island, long and wild, split by a narrow isthmus.
 
- The South-East developed as a centre of forestry and agriculture, particularly apple-growing in the Huon Valley. Other important primary industries are grazing, beer hops, and aquaculture. Population centers besides the greater Hobart area are Huonville and Geeveston to the South, Sorell and Richmond to the North, and New-Norfolk to the West.
+East of Hobart, the Tasman Peninsula juts into the Tasman Sea. Connected to the mainland by a thin strip of land, it was a natural prison — Port Arthur, Tasmania's most notorious convict settlement, sits at its tip. Further north, the towns of Orford and Triabunna mark the start of the East Coast.
 
+The region developed around forestry and agriculture. The Huon Valley was once Australia's apple capital; today aquaculture, hops, and grazing share the economy. For visitors, the draw is nature: Mt Field National Park, Hartz Mountains, and the trailheads for serious wilderness hikes into the World Heritage southwest — Federation Peak, Precipitous Bluff, the South Coast Track.
 
- A limited itinerary should at least include a day-trip to the Tasman Peninsula, Mt Field National Park or the Huon Valley. Those with time to explore could make a weekend of Bruny Island, travel further south to Geeveston or Lune River, or take an extra few days in for a hike at Mt Field, Tasman Penisula or the Hartz Mountains National Parks.
+A short visit should include at least one of the Tasman Peninsula, Mt Field, or the Huon Valley. With more time, spend a weekend on Bruny Island, push south to Geeveston or Lune River, or add a few days for hiking in Mt Field or Hartz Mountains.

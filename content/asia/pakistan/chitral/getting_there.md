@@ -3,12 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**all**
+Chitral is remote even by northern Pakistan standards, and getting there is part of the adventure. Weather can close both the air and road routes without warning, so build flexibility into your plans.
 
-**By air**
+**By air** — PIA operates daily flights between Peshawar and Chitral, weather permitting. The flight takes about 50 minutes and the fare is reasonable, but cancellations are common.
 
-PIA operates daily flights between Peshawar and Chitral, subject to weather conditions. The flying time is 50 minutes and the fare is very resonable. 
-
-**By road**
-
-Chitral is accessible from Peshawar by the 227-mile jeepable road which goes via Malakand, Dir and the 3200 meters high Lowari Pass. Chitral can also be reached from Gilgit via the 3719 meters high Shandur Pass. Distance 405km (252miles). Time required will be 25 hours. Permits are required. Please contact Deputy Commissioner, Chitral.  [more..](/asia/pakistan/chitral/gettingthere/byroad)
+**By road** — The main route from Peshawar runs 365 kilometres via Malakand, Dir and the Lowari Pass at 3,200 metres. The Lowari Tunnel has improved access, but conditions remain challenging. Chitral can also be reached from Gilgit via the Shandur Pass (3,719 metres) — 405 kilometres and roughly 25 hours of driving. Permits are required; contact the Deputy Commissioner in Chitral.

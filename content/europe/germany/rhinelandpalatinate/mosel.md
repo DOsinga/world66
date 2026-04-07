@@ -1,17 +1,12 @@
 ---
-title: "Mosel"
+title: Mosel
 type: location
-latitude: 50.781026
-longitude: 12.478017
+latitude: 50.181
+longitude: 7.234
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The river Mosel, in ancient times known under the Latin name "Mosella", is since 2000 years the artery - in many ways - of the whole region. The Mosel and it's people are mentioned by Cesar as well as by Ausonius who has dedicated the lyrics "Mosella" to this region.
+The river Mosel, known in ancient times by its Latin name "Mosella", has been the artery of this region for two thousand years. Caesar mentioned the Mosel and its people, and the Roman poet Ausonius dedicated his lyric poem "Mosella" to the valley.
 
-
- Still today it is a very popular touristic point of interest, both because of the beauty of the hills and for the taste of the famous Mosel wines.
-
-## Destinations in Mosel
-
-[Lieser](/world/europe/germany/rhinelandpalatinate/mosel/lieser)
-[Mehring](/world/europe/germany/rhinelandpalatinate/mosel/mehring)
-[Cochem](/world/europe/germany/rhinelandpalatinate/mosel/cochem)
+Today the Mosel valley remains one of Germany's most popular destinations, both for the beauty of its steep, vine-covered hills and for the taste of its famous Riesling wines. The river winds through a dramatic landscape of medieval castles, half-timbered villages, and terraced vineyards that have been cultivated since Roman times.

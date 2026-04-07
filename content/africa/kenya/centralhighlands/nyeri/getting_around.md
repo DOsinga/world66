@@ -3,16 +3,6 @@ title: "Getting Around in Nyeri"
 type: section
 ---
 
-bouncing castle;
-children Entertaing Children @ Birthday parties, Family fun
-days, Corporate Fun days, Church Fun days, Kids
-graduation parties Schools functions E.T.C.
+Nyeri's center is compact and easily walkable. Gakere Road is the main artery, running from the bus park through the commercial district.
 
-We offer, Bouncing Castle, Clown man, Face Paint,
-Kids’ games and activities E.T.C
-
-Our address FLAWAA EVENTS
-TEL: 0721 45 77 66
-EMAIL: hello@flawaaevents.com
-
-We keep your Children entertained.”
+For trips outside town — to Aberdare National Park, the Outspan Hotel, or nearby villages — you can hire a taxi or boda-boda (motorcycle taxi) from the bus park area. Matatus also run regular routes to surrounding towns like Karatina, Othaya, and Mweiga.

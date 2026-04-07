@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Jakarta"
+title: Beaches
 type: section
 ---
 
@@ -7,7 +7,7 @@ Indonesia is known for its year-round tropical climate and
 vast ethnic diversity, but especially for its islands. On the island of Java
 rests the capital city of Jakarta, and the largest city in Southeast Asia.
 Jakarta is more likely to bring about visions of commerce and industries than
-bungalows and tropical **Jakarta beaches**; but if
+bungalows and tropical beaches; but if
 you’re searching for sand don’t be discouraged by the city atmosphere. Just a
 few miles outside of the city you will find easy access to some of the most
 beautiful beaches in the world, just a speedboat ride away.

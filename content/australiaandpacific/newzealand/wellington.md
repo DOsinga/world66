@@ -1,27 +1,16 @@
 ---
-title: "Wellington"
+title: Wellington
 type: location
-latitude: -41.288795
-longitude: 174.777211
+latitude: -41.2888
+longitude: 174.7772
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Wellington City, New Zealand's capital (population 346,000), is a superbly compact city, set on the shores of a deep harbour and surrounded by a natural amphitheatre of wooded hills. It is New Zealand's trendy weekend destination and has the most vibrant entertainment district in the country, where you can find some of the best bars, cafes, restaurants and theatres. 
- 
+Wellington is New Zealand's compact and windy capital, set on the southern tip of the North Island around a deep natural harbour. It punches well above its size in terms of culture, food, and character. The city has more cafes per capita than New York, a thriving independent arts scene, and an energy that feels notably different from [Auckland](/australiaandpacific/newzealand/auckland)'s suburban sprawl.
 
-Wellington boasts an eclectic mix of shops. With a host of fashion stores and the country's premier department store, the city offers some of New Zealand's best shopping opportunities. 
- 
+Te Papa Tongarewa, the national museum of New Zealand, is one of the finest museums in the Pacific — free to enter, and worth a full day. The Wellington Cable Car runs from Lambton Quay up to Kelburn, where the Botanic Gardens spread across the hillside. The Beehive (New Zealand's Parliament building) and the Old Government Buildings, one of the largest wooden buildings in the world, are in the centre. The waterfront from Te Papa to Oriental Bay is excellent for walking, and the latter beach is where Wellingtonians come to jog, picnic, and occasionally swim.
 
-Main Attractions/Activities
- With around 400 cafes and restaurants, Wellington's inner city has the highest concentration of eating establishments in New Zealand, earning it the tag 'café capital of New Zealand'. 
- 
+The city is home to Weta Workshop (the special effects house behind the Lord of the Rings films), and the suburb of Miramar hosts the film industry cluster that earned Wellington the nickname "Wellywood." The [Kapiti Coast](/australiaandpacific/newzealand/kapiti_coast), 45 minutes north, has good beaches and Kapiti Island, a renowned bird sanctuary.
 
-The city is home to the Royal New Zealand Ballet and the New Zealand Symphony Orchestra, as well as national dance, drama, opera and musical groups. Four professional theatres operate year-round, so there are live shows every night. Wellington is also the home of much New Zealand heritage, including Te Papa, New Zealand's national, leading edge museum. 
- 
-
-Just 45 minutes by car or rail from Wellington, Kapiti Coast is the recreational playground for the lower North Island, with both beaches and mountains readily accessible. Choose from white water rafting, safe swimming, boating, hunting and hiking, golfing, horse trekking and bush walks. 
- 
-
-Courtesy of:**100% Pure New Zealand**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!
+Wellington Airport has regular connections throughout New Zealand and international flights to Australia and beyond.

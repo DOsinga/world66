@@ -1,14 +1,14 @@
 ---
-title: "Porto novo"
+title: Porto Novo
 type: location
-latitude: 6.499072
-longitude: 2.625336
+latitude: 6.4991
+longitude: 2.6253
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Porto Novo is the capital city and one of the most interesting towns in Benin. It has a number of buildings dating from the period when the Portuguese used it as a base for buying slaves which were shipped off to the New World. 
+Porto Novo is the official capital of [Benin](/africa/benin), though the commercial capital and largest city is [Cotonou](/africa/benin/cotonou) to the west. It is a quiet, atmospheric town with a fascinating layered history — Portuguese slave traders used it as a base from the sixteenth century, leaving behind Brazilian-influenced architecture and a mosque that was originally built as a church. The lagoon-side setting gives the city a distinctly different feel from most West African capitals.
 
+The main sights are the Musée Ethnographique, which traces the history of Porto Novo and holds a fine collection of Yoruba masks, and the Palais Royal of King Toffa, now a museum that gives a vivid impression of how Beninese royalty lived before colonialism. Just outside of town, the Grand Marché d'Adjara is held every four days and draws traders from across the region. Pirogue trips on the lagoon to surrounding villages make for a good half-day excursion.
 
- Other sights in town include the **Musee Ethnographique** which retraces the history of Porto Novo and has a good collection of Yoruba masks, the **Palais Royal** of King Toffa now a museum which gives you a good impression of how African royalty lived before Colonial times. 
-
-
- Just outside of town is the **Grand Marche d'Adjara** which is held every fourth day. There is also an interesting Brazilian-style church here which is now in use as a mosque. Another good option for a day trip is to hire a priogue and to make a trip to one of the villages on the lagoon.
+Porto Novo is a convenient base for day trips to [Cotonou](/africa/benin/cotonou) and to the historic royal town of Abomey, about 150 km to the northwest.

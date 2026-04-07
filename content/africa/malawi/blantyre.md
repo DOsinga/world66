@@ -1,8 +1,14 @@
 ---
-title: "Blantyre"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: -15.786254
 longitude: 35.003569
+title: Blantyre
+type: location
 ---
 
-Blantyre is the business centre of the country and the biggest city of Malawi. It is only rivaled by [Lilongwe](/africa/malawi/lilongwe) in importance. It is located in the south of the country. The city is surrounded by hills and beautiful mountains. The hills which surround the city are the first layer of an echo of hills which stretch to the Kirk Range, the Zomba Plateau and Mount Mulanje. Blantyre's hills all have something special to offer. For Malawian standards the city of Blantyre has much to offer. There are some interesting sights to visit, for example Blantyre Mission, the church of St Michaels and All Angels, the Mandala House, and the March 3 House of former president Dr Banda. There are a few good restaurants to check out and it is a good place to start some interesting daytrips.
+Blantyre is the commercial capital of [Malawi](/africa/malawi) and its largest city, spread across a series of hills in the southern part of the country. While [Lilongwe](/africa/malawi/lilongwe) serves as the political capital, Blantyre is where business happens -- and where most travellers pass through on their way to or from the south.
+
+The city takes its name from the Scottish birthplace of David Livingstone, and it was here that the first Scottish missionaries established themselves in the 1870s. The **Church of St Michael and All Angels**, built by the Blantyre Mission entirely without nails, is one of the finest colonial-era buildings in Central Africa. Other points of interest include **Mandala House**, the oldest building in the country, now housing a cafe and bookshop, and the **Chichiri Museum** near the civic offices along the Blantyre-Limbe road, which covers Malawi's natural and cultural heritage from prehistory through the slave trade and colonial era to independence.
+
+The hills that ring the city are the first layer of a chain that stretches out to the Kirk Range, the Zomba Plateau, and Mount Mulanje, making Blantyre a good base for day trips into some of Malawi's most dramatic scenery.

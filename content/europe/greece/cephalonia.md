@@ -1,12 +1,16 @@
 ---
-title: "Cephalonia"
+title: Cephalonia
 type: location
-latitude: 38.266032
-longitude: 20.53739
+latitude: 38.266
+longitude: 20.5374
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Cephalonia (or Kefallonia) is one of the seven main islands of the Ionian’s group. It was not until the beginning of the nineties that tourists discovered the island, not in the least because of the lack of proper roads. Things have changed and although the largest island of the group is still not overrun by loads of tourists, it has everything to offer for a pleasant stay off the commercial track. 
+Cephalonia (Kefallonia) is the largest of the Ionian Islands and one of the most beautiful Greek islands — a place of dramatic mountains, clear blue water, olive and cypress trees, and tiny fishing villages that escaped the worst of the mass-tourism development that hit other islands. It became more widely known internationally after Louis de Bernières set his novel *Captain Corelli's Mandolin* here.
 
-One way to explore the island is by motorbike – but do take care on the narrower roads, especially if you are likely to meet by a bus ferrying tourists from the airport to their resort! Car rental can also be cost effective, consider booking from the locals and keeping the money in the Greek economy. Good beaches (Viniares and Agio Theodoro are the most popular ones), tiny lakes, olive and cypress trees, mountain slopes and a fabulous local wine (Robola) will be the main ingredients of a trip to Kefalonia. Assos is a small fishing village on the western side and is a pleasant village to stroll around, as is the port town Fiskardo to the north. From the bay, you can have some good views of the [Ithaca](/europe/greece/ithaca) coast. 
+The island suffered a devastating earthquake in 1953 that destroyed most of its traditional buildings, but some places were spared. Fiskardo in the north, sitting in a horseshoe bay, is the prettiest village — its Venetian and Ottoman buildings survived because it sits on limestone bedrock. Assos, on the west coast, is a whitewashed fishing village on a narrow peninsula with an old Venetian castle above it. The capital Argostoli has an attractive waterfront with a colourful market.
 
-Flights from and to [Athens](/europe/greece/athens) take around an hour, usually once a day.
+The best beaches are on the south and west coasts: Myrtos (white pebbles against vivid blue water, one of the most photographed in Greece), Antisamos (used in the film adaptation of *Corelli's Mandolin*), and Xi (red sand). The local Robola white wine is excellent and worth seeking out. Exploring by motorbike or hire car is the best way to get around, though the roads through the mountains can be narrow and steep.
+
+Flights from Athens take about an hour.

@@ -1,25 +1,16 @@
 ---
-title: "Guadeloupe"
+title: Guadeloupe
 type: location
+latitude: 16.265
+longitude: -61.551
+done:
+  location_cleanup: 2026-04-06
 ---
 
-"/>
+Guadeloupe is France in the Caribbean — a butterfly-shaped archipelago where Creole culture, French cuisine, and volcanic landscapes come together in a way you won't find anywhere else in the West Indies. The two main islands, Basse-Terre and Grande-Terre, are joined by a narrow strait and could hardly be more different from each other.
 
-Originally this “Island of beautiful waters” was called Karukera but by Christopher Columbus renamed it in 1493 for Santa Maria de Guadalupe de Estremadura, just before he was driven from the island. 
+Grande-Terre to the east is the smaller of the two despite its name. It's flat, dry, and ringed with white sand beaches. This is where most visitors end up, and where you'll find the commercial capital [Pointe-a-Pitre](/northamerica/thecaribbean/guadeloupe/pointeapitre) with its markets and lively streets. Basse-Terre to the west is mountainous and wild, dominated by the active La Soufriere volcano and covered in dense tropical rainforest. The administrative capital [Basse-Terre](/northamerica/thecaribbean/guadeloupe/basseterre) sits on its southwest coast, with pretty colonial buildings, a 17th-century cathedral, and the ruins of Fort Louis Delgres.
 
-Guadalupe is comprises of two large islands, Basse Terre and Grande Terre, and several smaller ones, of which St Martin is shared with the Dutch kingdom. In 1763 the isles came under French rule and they still occupy the island, now mainly as tourists. Pack a French dictionary if you plan a trip here for it’s still a part of France. The people and culture is a harmonious blend of European, African and East Indian origin. 
+Beyond the two main islands, the outer archipelago is worth the ferry ride. [Les Saintes](/northamerica/thecaribbean/guadeloupe/lessaintes) is a cluster of tiny islands with one of the most beautiful bays in the Caribbean. [Marie-Galante](/northamerica/thecaribbean/guadeloupe/mariegalante) is rural and unhurried, known for its rum distilleries and ox-cart festivals. [La Desirade](/northamerica/thecaribbean/guadeloupe/ladesirade) is the most remote — a flat coral island where time genuinely seems to slow down.
 
-Guadeloupe is well known for its spectacular beaches, most of which are well sheltered and wonderful for swimming and seaside fun. The natural beaches, range from the surf-brushed dark sands of western Basse-Terre to the long shiny white stretches encircling Grande-Terre. The two islands, separated by the narrow bridged strait of the Rivière Salée, are often seen as the wings of a butterfly, resting on the Caribbean. They’re actually a poor lesson in French for grand Terre to the east is the smaller of the two while Basse Terre has the great La Soufrière volcano.  
-
-[Basse-terre](/northamerica/guadeloupe/basseterre) on Basse-Terre is the administrative capital of Guadeloupe and the department. There are some very pretty and authentic old buildings of the colonial period in the city. There is an 17th-century cathedral and the ruins of Fort Louis Delgrès. Here you’ll also find Saint-Claude, a wealthy suburb and summer resort, surrounded by coffee trees and the most beautiful tropical gardens.  Matouba, north of Saint-Claude, is an East Indian village known for its waterfalls and springs. There are hot springs and a bottling plant for the local mineral water, a bottle of which make an excellent souvenir. 
-
-[Pointe-a-pitre](/northamerica/guadeloupe/pointeapitre) on Grande-Terre is the commercial centre of Guadeloupe near both the airport shipping port. It is a quite compact and functional city. Its early colonial buildings were largely destroyed by an earthquake in 1843 and have been replaced with all kinds of new buildings. Also the Hurricane Hugo did a lot of damage, especially to the trees in the city. This makes the city less coherent ensemble as Basse-Terre is, but it’s all the livelier. The central Place de la Victoire once was the site of the guillotine. It’s the oldest part if town, which is reasonably intact, and it contains the oldest buildings.  
-
-## Destinations in Guadeloupe
-
-[Basse-terre](/northamerica/guadeloupe/basseterre)
-[Les saintes](/northamerica/guadeloupe/lessaintes)
-[Pointe-a-pitre](/northamerica/guadeloupe/pointeapitre)
-[Grande-terre](/northamerica/guadeloupe/grandeterre)
-[Marie-galante](/northamerica/guadeloupe/mariegalante)
-[La desirade](/northamerica/guadeloupe/ladesirade)
+Pack a French dictionary. Guadeloupe is a full department of France, and while Creole is spoken everywhere, French is the language of daily life. The blend of African, European, and East Indian heritage runs through everything — the food, the music, the architecture. You'll eat boudin noir and accras de morue at roadside stands, hear zouk and gwoka drumming, and find yourself on beaches that range from surf-brushed dark volcanic sand on Basse-Terre's west coast to long white stretches on Grande-Terre.

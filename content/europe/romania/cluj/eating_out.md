@@ -1,24 +1,6 @@
 ---
-title: "Eating Out in Cluj"
+title: "Eating Out"
 type: section
-address: "Victor Babes Street"
-price: "moderate"
-type: "International"
-url: "www.martycaffe.com"
 ---
 
-### [Marty Caffe](/europe/romania/cluj/eatingout/marty_caffe)
-
-A place with a lively touch and a college atmosphere, Marty Caffe serves great food at reasonable prices, offers a great service and a wide range of dishes, drinks, cocktails.
-
-type: International
-
-
-
-[[rate it]](/europe/romania/cluj/eatingout/marty_caffe)
-
-url: [www.martycaffe.com](http://www.martycaffe.com)
-
-address: Victor Babes Street
-
-PriceOfMenu: moderate
+Cluj-Napoca's restaurant scene has grown dramatically. The old center is full of options ranging from traditional Romanian kitchens serving hearty Transylvanian dishes to modern international restaurants. Student prices keep things affordable, and you can eat well without spending much. For local flavor, look for places serving varză à la Cluj (the city's signature cabbage dish) or ciorbă de burtă (tripe soup).

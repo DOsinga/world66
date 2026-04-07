@@ -1,28 +1,22 @@
 ---
-title: "Getting Around in Porto"
+title: "Getting Around"
 type: section
 ---
 
-**Lines A through E Get You Where You Need to Be**
+Porto is a walkable city, but be warned: it is built on steep hills, and a casual stroll can turn into a workout. The metro, buses, and trams fill the gaps, and the whole system runs on the rechargeable Andante card, which you can buy at metro stations and most transport kiosks.
 
-Planning a visit to Porto, Portugal's famous City of Bridges? Then prepare to explore all of its beauties - easy to do, given the abundance of **Porto transportation** options, all of which make getting around amazingly simple.
+**On foot**
 
-**Public Transportation**
+Walking is the best way to experience the old town. The hills are relentless but the reward is constant: unexpected viewpoints, tiled alleyways, and staircases that cut between streets at different elevations. Wear good shoes.
 
-Porto is a great walking city. But public transportation, with its inexpensive ticket prices and convenient options, make visiting even easier!
+**Metro**
 
-Grab an Andante Card to get started. It's a ticket that works on the majority of the public transportation options and it can be purchased on the bus or at Andante kiosks you'll find in most metro and rail stations.
+Five lines (A through E, colour-coded) run daily from around 6am to 1am. The metro connects the airport to the city centre cheaply and efficiently, and many major sights are near stops. The ticketing is zone-based — buy your ticket from a machine and validate it at every stop.
 
-**Bus and Tram Systems**
+**Buses and trams**
 
-The ticketing system for the bus and tram lines is based on zones, so if you jump on a bus or a tram that goes through more than one zone (and you'll see the zone demarcations on the maps at the stops), make sure to let the driver know which zone you want. You'll need to buy a ticket from a machine, but if you're not sure how to use the machines, just ask! Most fellow riders will be happy to help.
+The bus network covers what the metro does not. Trams still run on a few heritage routes and are more charming than practical. Both use the same zone-based Andante system.
 
-**Metro/Subway/Light Rail**
+**Taxis and trains**
 
-There are five different lines in the metro system, marked with letters (A- E) and colors. The metro runs daily from around 6am to 1am. Many of the major tourist attractions in Porto are conveniently located near metro stops and when you're coming from the airport, the metro is the least expensive way of getting into Porto.
-
-Just like the bus system, grab a ticket from a ticket machine. Don't forget to validate your tickets at every stop you make! Just swipe your ticket or Andante card over the machines.
-
-**Railways/Taxis**
-
-Taxis and trains are available, and they offer a great way to explore the neighboring communities.
+Taxis are widely available and reasonably priced. For day trips, the train network connects Porto to most of northern Portugal — Sao Bento and Campanha are the two main stations.

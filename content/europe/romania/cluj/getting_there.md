@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Cluj-Napoca is easily reachable by practically all means of transportation. The city is served by an international airport with direct flights to Bucharest as well as destinations in Hungary, Germany, Italy and Austria (for more information visit www.airportcluj.ro). For the budget traveler, trains are a viable alternative. To find out train routes that pass through the city, visit www.cfr.ro. Buses are also a good way of reaching Cluj-Napoca. Many companies offer scheduled buses to/from Europe and other destinations in Romania (two companies that offer routes two Cluj are Atlassib - http://www.atlassib.ro/atlassib/web/index.csp and Dacos - www.dacos.com.ro )
+Cluj-Napoca is well connected by air, rail, and road. The international airport (Avram Iancu Cluj, CLJ) has direct flights to Bucharest and destinations across Europe, including Budapest, Vienna, and several cities in Germany and Italy. Budget airlines serve the airport, making it easy to reach cheaply.
 
-For the visitors coming here by car, the city is at the junction of some of Romania's main roads (E60 E - coming from Vienna, Budapest etc; E81 N -from Belgrade).
+By train, Cluj-Napoca is on the main Romanian rail network. The journey from Bucharest takes around eight hours but passes through beautiful scenery. Buses connect the city to other Romanian cities and to European destinations.
+
+For drivers, the city sits at the junction of the E60 (coming from Vienna and Budapest) and the E81 (from Belgrade), making it a natural stop on a Transylvanian road trip.

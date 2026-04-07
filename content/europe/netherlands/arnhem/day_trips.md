@@ -1,16 +1,12 @@
 ---
-title: "Daytrips"
+title: "Day Trips"
 type: section
+linked_locations:
+  - europe/netherlands/dehogeveluwe
 ---
 
-In Arnhem there's a lot to see and to do. You can't miss the beautiful parks and gardens in this city. Outside Arnhem you find the Burgers' zoo and National Park de Hoge Veluwe.  
+The must-do day trip from Arnhem is to the **Hoge Veluwe National Park**, about 20 minutes north by car. The park covers 5,400 hectares of forest, heath, and sand dunes, and you can explore it on free white bicycles. Inside the park, the **Kroller-Muller Museum** holds one of the largest van Gogh collections in the world, plus a sculpture garden with works by Rodin, Moore, and Dubuffet.
 
-**Points of Interest**
+The **Airborne Museum Hartenstein** in nearby Oosterbeek tells the story of Operation Market Garden from the British perspective, housed in the hotel that served as divisional headquarters during the battle. Worth combining with a walk through the Oosterbeek war cemetery.
 
-**National Park De Hoge Veluwe**
-
-Address Apeldoornseweg 250  City 7351 TA Hoenderloo  Phone (+31) (0)318 59 16 27  Fax (+31) (0)55 378 81 19  E-mail park@hogeveluwe.nl  
-
-**Burgers' Zoo**
-
-Outside Arnhem you find the Burgers' zoo. Besides hundred animal species there are some really good projects in this zoo. On of them is a new project about marine life ('Burgers' Ocean') in tropical oceans and its nearing its final stages. Burgers' bush, another must-see project is the Burgers' b [more..](/europe/netherlands/arnhem/daytrips/burgerszoo)
+**Doorwerth Castle** (*Kasteel Doorwerth*) is a medieval castle on the Rhine, about 10 km west of Arnhem. The castle houses a small museum and the grounds are pleasant for a stroll.

@@ -1,15 +1,12 @@
 ---
-title: "Dunkerque"
+title: Dunkerque
 type: location
-latitude: 51.034771
-longitude: 2.377252
+latitude: 51.0347
+longitude: 2.3772
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Dunkerque is a small town in the northernmost tip of France. It is very close to the border with [Belgium](/europe/belgium) and is actually located on the shores of the North Sea.
+Dunkerque (Dunkirk) is a port city at the northernmost tip of France, close to the Belgian border and the shores of the North Sea. It is best known outside France for the extraordinary evacuation of Allied troops in May-June 1940, when over 330,000 soldiers were rescued from the beaches in a fleet of civilian and military vessels. The event has deep resonance in both British and French memory.
 
-
- Dunkerque’s cultural heritage is illustrated by the wide variety of resources and events: museums, cinemas, theatre, conference centre, cafes with live music, festivals, architectural and historic sites and, of course, the Carnival. For two months (late January to early March), Dunkerque celebrates the festival that once gave a cheerful send-off to fishermen sailing north to fish in the dangerous icy waters round Iceland. Each weekend a different group holds a procession, with crowds of carnival revellers led by a band, and featuring visiting "giants" such as the Scandinavian warrior Reuze Papa and his wife from Cassell. In the evenings each group holds a lively ball.
-
-
- 
- Colourful Flemish tradition dates
+The city was heavily bombed during the war and rebuilt in a functional postwar style, but the historic port area and the museums give it genuine interest. Its other claim to fame is one of the most exuberant carnivals in France: for two months between late January and early March, Dunkerque holds a rolling series of processions and balls that began centuries ago as a send-off for fishermen heading to the dangerous Iceland cod fisheries. The parade of costumed revellers, led by brass bands and featuring giant papier-mâché figures, is a genuine spectacle.

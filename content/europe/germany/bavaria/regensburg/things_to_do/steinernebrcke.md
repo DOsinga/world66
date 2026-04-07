@@ -1,6 +1,7 @@
 ---
 title: "Steinerne Brücke"
 type: poi
+category: "Sight"
 latitude: 49.022613
 longitude: 12.097231
 ---

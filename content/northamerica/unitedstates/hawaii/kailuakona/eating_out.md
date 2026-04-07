@@ -1,18 +1,12 @@
 ---
-title: "Eating Out in Kailua Kona"
+title: "Eating Out"
 type: section
 ---
 
-Kailua-Kona is on the Big Island of Hawaii. This vacation hot spot offers a bevy of lodging, entertainment and dining options. Below are some of the favorite eateries of locals and tourists alike.
-**
-Bongo Ben's Island Cafe for Breakfast or Brunch**
+Alii Drive is the spine of the restaurant scene — a mix of casual spots, resort dining, and a few local gems tucked behind the main strip. Kona coffee shows up everywhere, and fresh fish is the default choice. Most places are unpretentious and geared toward visitors, but a few are worth seeking out specifically.
 
-Located right on the main strip of Alii Drive, Bongo Ben's offers fresh American favorites as well as cuisine inspired by local delicacies. The restaurant has a comfortable island atmosphere with open-air seating facing the Big Island's western shore. The fact that Bongo Ben's opens at 7 a.m. makes it a good place to have breakfast or brunch; the fact that you can add a Bloody Mary (theirs is the pinnacle of spicy flavor) or Mimosa to your entree for an extra $3.00 makes it a great place for breakfast or brunch. Their breakfast special of the day is often Day's Catch Eggs Benedict, featuring whichever type of fresh fish was caught early that morning. Breakfast is served until 2 p.m., so need to get up early. 75-5819 Alii Drive, 808-329-9203
+**Bongo Ben's Island Cafe** (75-5819 Alii Drive) is a reliable breakfast and brunch spot right on the strip. Open-air seating, local fish eggs Benedict, and a Bloody Mary that earns its reputation. Open from 7am, breakfast served until 2pm.
 
-**Lunch at Kanaka Kava**
+**Kanaka Kava** (75-5803 Alii Drive, Space B6) is harder to find — look behind Alii Drive — but worth tracking down. Traditional Hawaiian food alongside kava, the ceremonial South Pacific drink made from the kava root. No real indoor seating, occasional live reggae, strongly local in feel.
 
-Though food here is secondary to Kava Kava (a ceremonial South Pacific drink made from the root of the Kava shrub), it is hardly an afterthought. The traditional Hawaiian cuisine will lure your senses and you will never want to leave the island. Try the Kalua Pork with a side of sweet potatoes, and if you're brave, sample the Kava Kava as well. If you blink, you might miss this place as it sits behind Alii Drive, but if you're smart, you'll seek it out. This tiny place is a local hangout with no real indoor seating to speak of and occasional live reggae performances. 75-5803 Alii Drive Space B6, 808-327-1660
-
-**The Royal Kona Resort for Dinner**
-
-For a dinner not soon to be forgotten, hit the Royal Kona Resort for dinner. Their Don the Beachcomber restaurant is one of the pioneers of tiki-style dining. If you sit outdoors, you'll be on the hotel's main lanai, overlooking the rocky shores of Kailua Bay. Order a Mai Tai or two and if you like seafood, opt for the Surf and Surf. Optionally, attend the Royal Kona Resort's acclaimed oceanfront luau, which starts promptly at 5:00 p.m. every Monday and Wednesday. Reservations are not required, but the desire to be fed and entertained like an island king or queen! 75-5852 Alii Drive, 808-329-3111
+**Don the Beachcomber at the Royal Kona Resort** (75-5852 Alii Drive) is unabashedly tiki but does it well. Outdoor lanai seating over the rocky shore of Kailua Bay, decent seafood, and Mai Tais that justify the resort prices. The hotel also runs an oceanfront luau on Mondays and Wednesdays starting at 5pm.

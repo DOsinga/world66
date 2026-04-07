@@ -1,26 +1,12 @@
 ---
 title: "Puerto Escondido Restaurant"
 type: poi
-address: "Manuel Antonio Quepos"
+address: "Manuel Antonio Beach, Quepos"
 email: "jorge@espadilla.com"
-phone: "(506)777-0903"
-price: "From $2"
-type: "International"
-url: "www.espadilla.com"
+phone: "(506) 777-0903"
+url: "http://www.espadilla.com"
+latitude: 9.3890
+longitude: -84.1396
 ---
 
-Located at Manuel Antonio Beach - Costa Rica, Surrounded by gorgeous nature and right next to the Hotel Espadilla is located Puerto Escondido Restaurant , offering a variety of tropical and international dishes. Combining the freshness of the tropical ingredients you'll find the perfect ambience for your joy and delight your taste.
-
-type: International
-
-
-
-tel: (506)777-0903
-
-url: [www.espadilla.com](http://www.espadilla.com/Restaurante_Pto_Escondido.html)
-
-address: Manuel Antonio Quepos
-
-PriceOfMenu: From $2
-
-email: jorge@espadilla.com
+Tucked in beside Hotel Espadilla and surrounded by tropical gardens, Puerto Escondido serves a mix of local and international dishes using fresh Costa Rican ingredients. The setting — shaded terraces close to the beach — is the main draw. Prices are low by tourist-strip standards, with meals from around $2 for simple plates.

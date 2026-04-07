@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-We didn't eat in Bago (we ate at the golden rock). The restaurant next to the Emperor Hotel serves breakfast and lunch, but no dinner. Near the Shemawdaw pagoda, there are some good noodle shops.
+Bago is not a culinary destination, but you will not go hungry. Near the Shwemawdaw Pagoda there are good noodle shops where you can get a filling bowl for next to nothing. The restaurant beside the Emperor Hotel serves breakfast and lunch but closes before dinner, so plan accordingly if you are staying overnight.

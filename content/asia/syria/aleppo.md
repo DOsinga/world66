@@ -1,19 +1,18 @@
 ---
-title: "Aleppo"
+title: Aleppo
 type: location
-latitude: 36.19924
-longitude: 37.163725
+latitude: 36.1992
+longitude: 37.1637
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Aleppo is one of the most interesting cities in the Middle East. The old centre, the citadel and the Jdeide quarter are main sights. The old town is one big maze of streets, but luckily the parts around it are a bit more organized. 
+Aleppo is one of the oldest continuously inhabited cities in the world, with roots stretching back at least eight thousand years. Before the war, it was Syria's largest city and its commercial heart — a place where Ottoman merchants, Armenian craftsmen, and Bedouin traders had done business for centuries in the same covered souks. Then came the siege of 2012–2016, and much of the old city was reduced to rubble.
 
+The destruction was staggering. The minaret of the Great Mosque, standing since the eleventh century, was destroyed in 2013. Entire neighborhoods of the UNESCO-listed old city were flattened. The famous souks — the longest covered market in the world — burned. The Citadel, remarkably, survived largely intact, its massive glacis too solid for the fighting around it.
 
- Baron street is one major axis of town. At the crossing with al Kouwatly street you will find hotels, travel agencies, transport company offices, as well as some restaurants and food shops and cool fruit juice bars.
- 
- A left turn from the Baron street into the al Kouwatly street brings you to a wide esplanade recently planted out as public gardens, dominated by the Post Office and bordered on the north by a public park. The river Quweiq flows through it and it is famous for its floral displays. (It is dry today because Turkey stopped its flow years ago).
+Since the fall of the Assad regime in late 2024, Aleppo has been slowly coming back to life. Parts of the old city are being rebuilt. Some souks have reopened. The Citadel is accessible again. But this is not restoration to some pre-war state — it is a city remaking itself, and the scars are everywhere. Entire districts remain in ruins. You will walk through streets where one side is rebuilt and the other is still a shell.
 
+What makes Aleppo worth the difficulty of visiting is the sheer depth of the place. The Citadel has been fortified since the third millennium BC. The Christian quarter of Jdeide has churches and courtyard houses dating to the fifteenth century. The food — Aleppo is considered the culinary capital of the Levant — is legendary, and the local cuisine has survived the war intact even if many of the old restaurants have not.
 
- In the other direction the al Kouwatly street crosses the al Gassaniyn street (sometimes called the Tilal street), one of the busiest streets in Aleppo. On the right, it widens to form a square, the Bab al Faraj, whose clock-tower has served at least as a landmark and from here, one can easily reach either the old city or the museum. The al Gassaniyn to the left skirts the Jdeideh, "old houses" quarter, with its marvelously decorated courtyards. St. George's Cathedral stands behind a labyrinth of narrow streets on a tiny square where there are several antique shops.
-
-
- Once in the center. the citadel is your main point of reference. There is a circular road around the foot of the Citadel. To the south, wide avenues give access to some interesting madrassas and mosques on the way to Bab al Makkam, a working district where there are many warehouses. To the north of the Citadel the street al Kawakbi crosses the eastern end of the street al Kouwatly near the picturesque souk of the coppersmiths.
+Come with your eyes open. This is a city that has been through something terrible and is rebuilding with extraordinary determination. It deserves visitors who are willing to see both what was lost and what remains.

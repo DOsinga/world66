@@ -3,22 +3,16 @@ title: "Getting Around"
 type: section
 ---
 
-**By bus**
+Skiathos is a small island and getting around is straightforward, especially along the south coast.
 
-Public buses operate throughout the islands.
+**By bus** — A regular bus service runs from Skiathos Town west along the south coast road to Koukounaries, stopping at most of the main beaches along the way. Buses run frequently in summer and are the easiest way to reach the popular beaches without renting transport.
 
-**By taxi**
+**By car or scooter** — Rental cars and scooters are widely available in Skiathos Town. The main south coast road is paved, but interior roads quickly become dirt tracks. Bringing your own car on the ferry is possible but not worth the trouble for such a small island. A scooter is the more practical choice.
 
-Taxis are easy to get from the port to anywhere on the island.
+**By moped** — Mopeds are popular and cheap to rent. They handle the narrow streets of Skiathos Town better than a car and are fine for exploring the paved coastal road.
 
-**By car**
+**By taxi** — Taxis are available from the port and can get you anywhere on the island quickly.
 
-It is not worth the hassle to bring your own car to the island, although it is in theory possible. You can rent a car or a motor scooter. Asphalt roads run across the south of the island. Roads in the interior turn out to be little more than dirt paths.
+**By boat** — The north coast beaches, including Lalaria and Kastro, are only accessible by excursion boat from Skiathos Town harbour. Small boats also run to the island of Tsougria in summer.
 
-**By motorcycle**
-
-Motorbikes and mopeds are popular alternatives to cars. Especially mopeds are frequently used by local youths and can go to many places that cars cannot go - for example the twisted narrow streets of Skiathos city. An additional advantage is that they are cheap to rent.
-
-**By bicycle**
-
-the terrain can be hilly on some parts of the island.
+**On foot** — Walking trails through the pine forest connect several beaches and lead to the ruins of Kastro, the medieval capital. The island is hilly but compact enough for good day walks.

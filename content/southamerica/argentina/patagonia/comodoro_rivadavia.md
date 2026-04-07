@@ -1,10 +1,10 @@
 ---
 title: "Comodoro Rivadavia"
 type: location
-latitude: -45.863202
-longitude: -67.475262
+latitude: -45.8632
+longitude: -67.4753
 ---
 
-Travel Guide
+The biggest city in Patagonia sits on the Atlantic coast, battered by relentless wind. Comodoro Rivadavia grew rapidly in the early twentieth century when oil was discovered here, and it still has the feel of a working industrial town rather than a tourist destination. Like many Argentine cities of that era, it is modern and practical rather than picturesque.
 
-The biggest city of Patagonia is on the coast of the Atlantic Ocean. This city, notorious for its strong winds, grew very rapidly at the beginning of the 20th centry when oil was being found here. Nowadays the city, as many Argentinian cities, is a new, modern town not very interesting to visit. But if you arrive here one day and you have the time to go to the nice town of Rada Tilly, it's definitely worth a visit. The beach over there is simply beautiful!
+If you find yourself here, make the short trip south to Rada Tilly. The beach there is genuinely beautiful -- a welcome contrast to the oil derricks and windswept streets of Comodoro itself.

@@ -1,6 +1,7 @@
 ---
 title: "Tsang Tai Uk"
 type: poi
+category: Architecture
 latitude: 22.3757
 longitude: 114.1891
 ---

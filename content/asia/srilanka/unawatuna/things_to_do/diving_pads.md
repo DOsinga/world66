@@ -1,27 +1,9 @@
 ---
-title: "DIVING PADS"
+title: "Scuba Diving"
 type: poi
-address: "Sea H orse Divingl"
-email: "Rohana@seahorsedivinglanka.com"
-phone: "+94 91-2283733"
-type: "Diving"
-url: "www.seahorsedivinglanka.com"
+category: "Sight"
+latitude: 6.0185
+longitude: 80.2490
 ---
 
-**Described as most wonderful beach location by the nature, Unawatuna is one of the best Scuba Diving Locations in Sri Lanka**
-**SCUBA DIVING** is one of the aquatic activities available in Unawatuna.
-Some of the better known Dive Pads are Submarine run by Shirly Korala in Yaddehimulla, Seahorse Diving at Ganahena on Matara Road run by Rohan.
-
-Ship wrecks around like Rangoon, Tango and Lord Nelson which lies just by the rocks outside the bay and many more awaits exploration.
-
-type: Diving
-
-
-
-tel: +94 91-2283733
-
-url: [www.seahorsedivinglanka.com](http://www.seahorsedivinglanka.com/)
-
-address: Sea H orse Divingl
-
-email: Rohana@seahorsedivinglanka.com
+Unawatuna is one of the better scuba diving spots on Sri Lanka's south coast. The reef protecting the bay supports a variety of marine life, and several shipwrecks lie within easy reach, including the Rangoon, the Tango, and the Lord Nelson just outside the bay. Visibility is best from November to April. A handful of dive operators work out of the beach area and along the Matara Road, offering PADI courses and guided wreck dives.

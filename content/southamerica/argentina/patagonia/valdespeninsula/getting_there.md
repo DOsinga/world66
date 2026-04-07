@@ -1,8 +1,8 @@
 ---
-title: "Getting There in Valdes Peninsula"
+title: "Getting There"
 type: section
 ---
 
-There is no airport on the Peninsular. The nearest is Puerto Madryn. Trelew is about 2 hours drive from Puerto Madryn. Airline service in Argentina is in a state of flux so check which airport has service.
+There is no airport on the peninsula. The nearest airport is at Puerto Madryn, and Trelew (about two hours' drive south) also has regular flights. Airline service in Argentina changes frequently, so check which airport has current connections before booking.
 
-There are no regular public transport services to the Peninsular. You can take a tour from Puerto Madryn, hire a collectivo in Puerto Madryn or use a hire car. The road from Puerto Madryn on to the Peninsular is paved initially but becomes gravel. Make sure that if you hire a car the insurance will cover all of the risks associated with driving on gravel and drive slowly.
+There is no regular public transport to the peninsula itself. From Puerto Madryn you can join an organised tour, hire a remise (private car with driver), or rent a car. The road from Puerto Madryn onto the peninsula is paved initially but becomes gravel. If you rent a car, make sure the insurance covers gravel roads and drive slowly -- punctures and cracked windshields are common.

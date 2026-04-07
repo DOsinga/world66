@@ -1,24 +1,16 @@
 ---
-title: "Key West"
+title: Key West
 type: location
-latitude: 24.554826
-longitude: -81.802072
+latitude: 24.5551
+longitude: -81.78
+done:
+  location_cleanup: 2026-04-07
 ---
 
-No one should ever die without taking at least one trip to Key West. There is no other more relaxing place in the United States. It's completely out of a travel guide. 
+Key West is the end of the road — literally. Mile Marker 0 of US Route 1 sits here, at the southernmost point of the continental United States, closer to Havana than to Miami. The island is just two miles by four miles, but it packs in more character per square foot than most American cities.
 
-Make sure that you stay within the "touristy" section of the island or else you might have just wasted your money in the center of Wildwood, NJ (which I am from btw). As long as you have a drink in one hand and a smile on your face (almost impossible not to), you should be the most content you have ever been. 
+The heart of the action is Duval Street, a mile-long strip running from the Gulf of Mexico to the Atlantic that holds most of the bars, restaurants, and shops. But the real Key West is in the quieter streets around it — the gingerbread houses with their wide porches, the wild roosters strutting through gardens, the banyan trees spreading across entire yards. Old Town has the density and walkability of a European village, which is rare in Florida.
 
-It will most likely rain short spurts of downpour on evenings when you dressed up to go out. But it will stop shortly after you finish your drink up at Sloppy Joe's, Captin Tony's or Irish Kevin's (EVERYONE owns a bar in Key West!) 
+Key West has always attracted people who wanted to live outside the mainstream. Ernest Hemingway wrote here in the 1930s. Tennessee Williams came for the winters. The town became a haven for artists, writers, and the LGBTQ+ community long before most of America was ready for any of that. That live-and-let-live attitude still defines the place — you feel it in the easygoing pace, the lack of pretension, and the nightly sunset celebration at Mallory Square where street performers, food vendors, and tourists gather to watch the sun drop into the Gulf.
 
-I would suggest to not bring children here, they will just inhibit your ability to go out at night and have "adult" fun (which is what Key West is all about) and there's no bigger buzz kill than seeing a family in a bar. 
-
-You must rent a scooter. They are marvelous fun. You can go just about as fast as the cars on the side streets and scoot in and out of the traffic with ease. 
-
-There are so many wonderful things to do in Key West. I only hope that someone else who has been here will write more about their marvelous time! :) 
-
-
-
-## Destinations in Key West
-
-[Key West](/northamerica/unitedstates/florida/keywest/keywest)
+The island runs on water — snorkeling and diving on North America's only barrier reef, kayaking through the mangroves, fishing charters heading out to the flats or the deep blue. On land, there are enough museums, historic houses, and galleries to fill rainy afternoons, and the food scene leans heavily on fresh seafood, Cuban-influenced dishes, and key lime everything.

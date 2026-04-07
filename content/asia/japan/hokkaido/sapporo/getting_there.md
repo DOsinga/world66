@@ -1,19 +1,10 @@
 ---
 title: "Getting There"
 type: section
-type: "By Rail"
 ---
 
-Skybus Sapporo provides a door to door Airport Shuttle Service from New Chitose Airport (Sapporo) and Sapporo City. They can take you to and from your hotel, hostel, office or home. No need to change trains or struggle with your luggage anymore.
+Most visitors arrive at New Chitose Airport (CTS), about 40 minutes south of the city. The JR Rapid Airport train runs every fifteen minutes to Sapporo Station and costs 1,150 yen. It is fast and reliable, though be warned that seats fill up quickly and there is limited space for large luggage.
 
-Contact Skybus on +81 80 3266 5685 or email info@skybus-jp.com
+Airport shuttle buses are an alternative, running to major hotels and Sapporo Station. They take a bit longer but are more comfortable if you are travelling with heavy bags or ski equipment.
 
-Current prices: 1 person (3000yen). Each additional person is 1000yen (must be travelling in the same group). Snowboards and Skis OK.
-
-### JR rail
-
-Directly from Sapporo Chitose Airport to the main train station in Sapporo for 1040Yen.
-
-Beware: standing room only and no space to put your luggage.The train is not so convenient.
-
-type: By Rail
+If you are already in Japan, the JR network connects Sapporo to Hakodate (about three and a half hours) and onward to Honshu via the Seikan Tunnel. The journey from Tokyo by train takes around ten hours and costs approximately 27,000 yen, though a Japan Rail Pass covers the fare. Most people coming from Tokyo fly instead, with frequent flights taking about ninety minutes.

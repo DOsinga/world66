@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Zinder is a local transport hub, although the spokes are quite far away in this case and transport is not always readily available. Main roads take you to [Niamey](/africa/niger/niamey) and [Kano](/africa/nigeria/kano) (Nigeria, as well as east to [Chad](/africa/chad) via [Nguigmi](/africa/niger/nguigmi). The road north to [Agadez](/africa/niger/agadez) is not very good, but there still is quite some traffic going that way.
+Zinder is a transport hub, though distances are vast. SNTN buses connect to [Niamey](/africa/niger/niamey) (about 14 hours). Buses to [Agadez](/africa/niger/agadez) take around 8 hours but do not follow timetables — bush taxis are faster and leave when full, best tried in the morning.
 
- SNTN buses connect Zinder to Niamey. The trip takes about 14 hopurs ans should cost 14000 CFA. Buses to Agadez do not follow timteables. The trip takes 8 hours. Bush taxi's are somewhat faster and cheaper. Bets to try in the morning.
-
- Bush tax's also take you to the Nigerian border, and some alll the way to Kano. To go to [Chad](/africa/chad) take a bush taxi to N'guigmi.
+Bush taxis also run south to the Nigerian border and sometimes all the way to [Kano](/africa/nigeria/kano). For [Chad](/africa/chad), take a bush taxi east to N'Guigmi.

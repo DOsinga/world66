@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Restaurant L'Attache, Hastain.
-
-Tel: 02.31.90.05.38
-
-Entrance of Falaise coming from Caen.
+Falaise has a handful of restaurants along the main streets. The Saturday market is a good spot to pick up local cheese, cider, and charcuterie for a picnic near the castle.

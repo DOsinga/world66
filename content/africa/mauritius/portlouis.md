@@ -1,8 +1,10 @@
 ---
-title: "Port Louis"
+title: Port Louis
 type: location
 latitude: -20.162452
 longitude: 57.502804
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Port Louis is the capital and commercial heart of Mauritius, founded by French governor Mahé de Labourdonnais in 1735. It sits in a natural harbour sheltered by a ring of mountains, and despite heavy development it still has corners of genuine colonial atmosphere.

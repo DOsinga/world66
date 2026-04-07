@@ -1,20 +1,16 @@
 ---
-title: "Tetouan"
+title: Tétouan
 type: location
-latitude: 35.570175
-longitude: -5.374278
+latitude: 35.5702
+longitude: -5.3743
+done:
+  location_cleanup: 2026-04-06
 ---
 
-For people coming into Morocco through Ceuta, Tetouan is most likely to be there first
- encounter with Morocco. Take a deep breath when you get out of the bus, because you will be besieged. Students and touts will try to get your attention, try to make you buy hashish and
- pickpockets are never far away. The people of Tetouan have a reputation of being influenced by the aggressive mentality of the Rif Berber tribes and thus the tourist hustlers seem even more assertive. Once you’ve gotten used to Moroccan street life, it can be a very rewarding city.
- 
- 
+For people coming into Morocco through Ceuta, Tétouan is likely to be their first encounter with the country. Take a deep breath when you get out of the bus, because you will be besieged — students and touts will compete for your attention, and the street hustle here is more assertive than in most Moroccan cities. Once you have got used to it, though, Tétouan can be a very rewarding place.
 
-It’s a shame to just change buses here, because the medina is filled with beautifully white-washed and tiled buildings. It may be wise to employ an official guide from the tourist office to lead you through the medina. The tourist office is at 30 Rue Mohammed V. Much like Tangier and Chefchaouen, the architecture of the medina is dominated by an Hispanic influence, as it was built by Muslim refugees from Spain in the 15th century. The Mellah, or Jewish quarter, is an interesting place (south of the Place Hassan II on the Rue de la Luneta) with its tall, square houses and iron balconies with ornately decorated windows. The fascinating, winding disorder of the Andalucian medina contrasts well with the grandeur of the Spanish new town. 
- 
+It is a shame to just change buses here, because the medina is exceptional. Built by Muslim refugees from Spain in the 15th century, it is a UNESCO World Heritage Site filled with white-washed buildings, ornate tilework, and an unmistakable Andalusian influence. The Mellah (Jewish quarter), south of Place Hassan II, has tall houses with iron balconies and decorated windows. An official guide from the tourist office on Rue Mohammed V is worth the money for navigating the winding lanes.
 
-You do not need a guide to visit the new town, to walk around the ramparts or to visit the museums. The impressive and formal buildings built by the Spanish in the early 20th century are set on broad streets and very easily navigated. Most of the hotels, banks and restaurants can be found here. The ramparts (the city walls) can be admired by walking down Avenue Hassan II, just below the bus station. There is a garden beneath the walls and a craft school (Ecole de Metiers d’Arts Traditionnels) opposite the Bab El Okla. Do not miss a tour around the center where you can see traditional crafts being taught like the making of tiles and carpet-weaving. There is also a Folk Museum (Musee Ethnographique) south of the Bab el-Okla where there is a beautiful collection of Andalucian Jewish and Islamic embroidery and rooms displaying pictures and costumes of traditional marriage ceremonies.
- 
+The Spanish new town, by contrast, is all broad streets and formal early 20th-century buildings — easy to explore on your own. The craft school (École des Métiers d'Arts Traditionnels) opposite Bab el-Okla is worth a visit to watch tile-making and carpet-weaving, and the Folk Museum (Musée Ethnographique) nearby has a fine collection of Andalusian-Jewish and Islamic embroidery.
 
-There is a reasonable beach town 8 km from Tetouan called Martil. Martil has a couple of waterfront cafes. There is no train station at Tetouan, the bus station is a bit frightening with buses downstairs and tickets upstairs. A grand taxi can be a good mode of transport to get to Tangiers or Chefchaouen after a bit of haggling.
+Martil, a beach town eight kilometres away, makes for a pleasant afternoon. There is no train station in Tétouan — grand taxis and buses connect to [Tangier](/africa/morocco/tangier) and [Chefchaouen](/africa/morocco/chefchaouen).

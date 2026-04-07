@@ -1,12 +1,14 @@
 ---
-title: "Nukualofa"
+title: Nuku'alofa
 type: location
-latitude: -21.13434
-longitude: -175.201808
+latitude: -21.1343
+longitude: -175.2018
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Nuku'alofa's white Victorian "Royal Palace" is symbol synonymous with the Kingdom of Tonga. Visitors can see the palace from outside of the surrounding walls. When H.M. King Taufa'ahau Tupou is in residence -- the royal standard is flying from the palace. This was once home of the late Queen Salote Tupou III, mother of the present king.
+Nuku'alofa is the capital of Tonga and the only real town in the kingdom. It sits on the north shore of Tongatapu, the main island, and is small enough to walk across in half an hour — but it is the centre of everything: government, commerce, churches, and the waterfront.
 
+The white Victorian Royal Palace, set in manicured grounds behind iron railings, is the most recognisable building in Tonga. You cannot go inside, but when the Royal Standard is flying the king is in residence. Nearby, the Royal Tombs — burial site of Tongan royalty since 1893 — sit in a fenced enclosure near the Basilica of St. Anthony of Padua.
 
- 
- Nuka'alofa, the capital of Tonga is the center of government and is the seat of His Majesty and Legislative Assembly. Tonga is a Constitutional Monarchy, which came into being in 1875 -- with a declaration of the Tongan Constitution by King Tupou I. Today the Tongan government is divided into three bodies: a.) The King Privy Council and Cabinet, b.) The Legislative Assembly and c.) The Judiciary.
+The main street runs parallel to the waterfront and holds most of the shops, restaurants, and the lively vegetable market where you can find local handicrafts, bone carvings, and woven baskets alongside the produce. Nuku'alofa is not a sophisticated city, but it has a relaxed, friendly character that makes it easy to spend a day or two before heading out to the outer islands.

@@ -52,11 +52,20 @@ def location_or_section(request, path):
         parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
 
-    # Build sidebar nav: nav_pages from the parent (city or section_group)
+    # Build sidebar nav: nav_pages from the parent (city or section_group).
+    # For POIs the immediate parent is the section, which has no nav children —
+    # walk up one more level to the city so the sidebar shows all city sections.
     parent_nav = []
     parent_locations = []
+    active_nav = None   # which nav item should be highlighted in the sidebar
     if parent:
         parent_nav, parent_locations, _ = parent.children()
+        if page.page_type == "poi" and not parent_nav and "/" in parent.path:
+            # Parent is a section with no nav children — use grandparent (city)
+            grandparent = load_page(parent.path.rsplit("/", 1)[0])
+            if grandparent and grandparent.page_type == "location":
+                parent_nav, parent_locations, _ = grandparent.children()
+                active_nav = parent   # mark the section as active in the sidebar
 
     # For a POI reached via a context nav page, build sidebar from that nav page
     nav_siblings = []
@@ -101,9 +110,10 @@ def location_or_section(request, path):
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
-        "nav_grouped": nav_grouped,      # grouped nav pages for city sidebar
-        "context_nav": context_nav,      # nav page used to reach this POI
-        "nav_siblings": nav_siblings,    # other POIs in same nav context
+        "active_nav": active_nav,        # nav page to mark active (when POI bumped to grandparent nav)
+        "nav_grouped": nav_grouped,
+        "context_nav": context_nav,
+        "nav_siblings": nav_siblings,
         "body_html": body_html,
         "breadcrumbs": page.breadcrumbs(),
         "lat": lat,

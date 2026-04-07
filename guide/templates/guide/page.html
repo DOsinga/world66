@@ -34,7 +34,7 @@
       {% if parent %}
       <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in parent_sections %}
-      <li{% if s.slug == page.slug %} class="active"{% endif %}>
+      <li{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
         <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
       </li>
       {% endfor %}

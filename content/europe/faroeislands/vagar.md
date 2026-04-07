@@ -1,16 +1,14 @@
 ---
-title: "Vagar"
+title: Vagar
 type: location
 latitude: 62.089898
 longitude: -7.234584
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+Vagar (pronounced roughly like Vau-er, with "au" as in "fraud") is the third largest of the Faroe Islands and the one that holds the archipelago's only airport — built on the site of a Royal Air Force station established during the British occupation of the islands in World War II.
 
-Vagar, pronounced something like Vau-er [au as in 'fraud'] is the island that holds the airport. This was developed from the old Royal Air Force [UK] station that was built during the second world war, when the island were occupied by the UK the day after Germany invaded Denmark.
+The island contains Sørvágsvatn (also called Leitisvatn), the largest natural lake in the Faroes. Its dramatic position — the lake appears to float above the sea from certain angles, due to the cliff edge at its outflow — has made it one of the most photographed places in the islands. The outflow stream drops almost immediately over the cliff, making it one of the shortest rivers in the world.
 
-Vagar contains the largest natural lake in the islands, which apparently gives rise to the shortest river in the world! It flows only feet before plunging down a vertical cliff into the sea.
-
-Beyond the airport you reach first Sørvagur, from where the ferry to the celebrated bird island of Mykines runs and then to Bour and, within the last four years to Gasaladur.
-
-At its other end the road goes into an undersea tunnel to Streymoy.
+The main settlement is Sørvágur, where the ferry to Mykines departs — Mykines being the celebrated westernmost island, known for its vast puffin colonies. Beyond Sørvágur, the road leads to Bøur, a tiny village with outstanding views of the uninhabited islet of Tindholmur and the surrounding stacks. Further still is Gásadalur, long the most isolated village in the Faroes — the post had to be carried across the mountain until a tunnel was completed in 2004. At the other end of the island, an undersea tunnel connects Vagar to the main island of Streymoy.

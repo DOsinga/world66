@@ -1,23 +1,16 @@
 ---
-title: "Cheltenham"
+title: Cheltenham
 type: location
 latitude: 51.899569
 longitude: -2.071156
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Cheltenham is a great town and your best starting place for exploring the
-[Cotswolds](/europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds). The old spa town of Cheltenham has a first class range of accommodation, restaurants, theatres and shops. As winner of "Beautiful Britain in Bloom", Cheltenham is renowned for its gracious Regency architecture, colourful parks and floral decorations.
+Cheltenham is a handsome Regency spa town in Gloucestershire, the most sophisticated urban base for exploring the Cotswolds. Its grid of wide, tree-lined avenues, white stucco terraces, and ornamental ironwork balconies give it an elegance unusual for an English market town — a legacy of its rapid growth in the early 19th century, when the discovery of mineral springs brought royalty and the fashionable classes flooding in.
 
+The spa waters that made the town's reputation can still be taken at the Pittville Pump Room, a magnificent Grecian Revival building set in parkland north of the town centre. Several of the spa buildings have been repurposed: the Art Gallery and Museum at the Clarence Street venue holds a notable collection of Arts and Crafts movement objects, including work by William Morris. The Cheltenham Literature Festival and Music Festival are among the most respected of their type in Britain, held in October and July respectively.
 
- The spa waters, which brought fame and royalty to Cheltenham can still be taken at the Pittville Pump Room. Set amongst beautiful lakes and parkland, this building has somewhat erratic opening hours but is worth a visit. There are a few interesting museums in town as well - of special note is the Arts & Crafts Collection at the Art Gallery & Museum.
+For racing enthusiasts, Cheltenham Racecourse is one of the most famous venues in the world — the spiritual home of National Hunt (jump) racing, and host to the Gold Cup, Champion Hurdle, and Champion Chase. The Gold Cup meeting in March is four days of intense racing and enormous crowds. The racecourse is two kilometres north of the town centre.
 
-
- 
- If you are into horse racing, Cheltenham offers 16 races a year. The magnificent Cheltenham Racecourse, known across the world as the home of National Hunt racing, is the place to go. The racing season lasts from October to April. 
-
-
- 
- 
- 
- 
- Within the town centre there are many small shops. The tree-lined Promenade is home to some of the best known fashion names, such as House of Fraser, Liberty, Laura Ashley and Jaeger. For small boutiques head for the area of Montpellier and The Suffolks where individual boutiques mix happily with antique shops, cafes and specialist craft establishments.
+Shopping is concentrated on The Promenade and in the Montpellier district, where Georgian terraces house independent boutiques, antique dealers, and cafes. The Suffolks area, adjacent, has a similarly characterful mix. Cheltenham is about 45 minutes by road from Bristol and an hour from Oxford.

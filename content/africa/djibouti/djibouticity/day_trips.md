@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Djibouti city"
+title: "Day Trips"
 type: section
 ---
 

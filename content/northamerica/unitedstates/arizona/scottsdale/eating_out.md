@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Scottsdale"
+title: "Eating Out"
 type: section
 ---
 

@@ -1,15 +1,10 @@
 ---
 title: "Fornells"
 type: location
-latitude: 41.931967
-longitude: 2.809034
+latitude: 40.0652
+longitude: 4.0128
 ---
 
-Fornells is on the Bay of Fornells, in the North of Minorca. It's reported to be a very unspoilt area.
+Fornells is a small fishing village on the Bay of Fornells on the north coast of Menorca. The bay is large, sheltered, and almost landlocked — perfect conditions for windsurfing and kayaking, and the reason Fornells has become a hub for water sports. The village itself is pretty, with whitewashed houses lining a waterfront that fills with yachts and pleasure craft in summer.
 
-Fornells is like a pearl nested into the virginal north coast of Menorca. A truly beautiful harbour that surprises all those who visit it. This traditional town of fishermen has become a major reference thanks to its outstanding fish restaurants and an unparalleled variety of nautical sports that can be practiced in the shelter of its bay. In their white-washed houses, the inhabitants of Fornells have always kept a calm life of respect with nature. This spirit persists nowadays. Here we live far from the large from large hotel complexes and those who visit us soon will soon recognise the affection that is felt for this authentic place.
-
-**Contributors**
-July 14, 2005
-
-January 12, 2006
+The local speciality is caldereta de llagosta, a Menorcan lobster stew that draws visitors from across the island. Several restaurants along the harbour serve it, and the freshness of the ingredients — lobsters from the bay — sets it apart. It is an expensive treat but one that Fornells does better than anywhere else on the island.

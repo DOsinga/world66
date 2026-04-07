@@ -3,28 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
+Kano's restaurant scene reflects its status as a major northern Nigerian city with significant Lebanese and Asian expat communities. Lebanese and Chinese restaurants are common alongside local Hausa food.
 
-**Torona Restaurant **
+**Torona Restaurant** is the best option for Lebanese food in Kano.
 
-Best option for Lebanese food in Kano
-
-address: Kano
-
-**Palace Restaurant **
-
-Chinese restaurant. 
-
-**Peking Restaurant **
-
-Good Chinese food. 
-
-**La Locanda **
-
-Italian restaurant. 
-
-fax: 064 636063
-
-address: Kano
-
-tel: 064 636063
+**La Locanda** serves Italian food. Tel: 064 636063.

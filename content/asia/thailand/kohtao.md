@@ -1,8 +1,10 @@
 ---
-title: "Koh Tao"
+title: Koh Tao
 type: location
 latitude: 10.092182
 longitude: 99.839536
+done:
+  location_cleanup: 2026-04-07
 ---
 
 This little island offers the accessible low key Thailand option. The ferries and speed boats drop off at the main pier and extension of the town's primary paved road. The little town offers all of the backpacker treats, including internet cafes, several food stops/bars, dirt bike rentals, a clinic with an English speaking nurse, an excellent pastry shop and place to read the paper, several general stores and more than a few beachside restaurants.

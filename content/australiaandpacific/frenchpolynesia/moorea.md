@@ -1,18 +1,16 @@
 ---
-title: "Moorea"
+title: Moorea
 type: location
-latitude: -17.533306
-longitude: -149.838601
+latitude: -17.5333
+longitude: -149.8386
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Moorea, along with Bora Bora, is considered one of the most beautiful areas in the South Pacific (and by extension, the world). It is a laid-back island with white sand beaches, turquoise lagoons, and green mountains jutting into the sky.
+Moorea is the island that makes you understand what all the fuss about the South Pacific is about. Just a 45-minute ferry ride from Pape'ete on [Tahiti](/australiaandpacific/frenchpolynesia/tahiti), it has white sand beaches, turquoise lagoons, and jagged green mountains rising dramatically from the coast. Along with [Bora Bora](/australiaandpacific/frenchpolynesia/borabora), it is considered one of the most beautiful islands in the world — and unlike Bora Bora, it is relatively easy and affordable to reach.
 
-One can drive around the island in under 2 hours, making most areas easily accessible by car or scooter, a better deal in ultra-expensive French Polynesia. Scooters run about 5500 cfp per day, cheaper for multi-day rentals. Cars are 8500 cfp and up. Most people arrive by ferry in Vaiare,on the east side of Moorea. Ferry is the best way to access the island as it is only a 45-minute ride from Pape'ete and cheaper than flying (about $8 US), with the additional bonus of some beautiful views of both Tahiti and Moorea.
+You can drive around the entire island in under two hours on a single coast road. Most visitors rent a scooter or car — scooters are the better deal in ultra-expensive [French Polynesia](/australiaandpacific/frenchpolynesia). The two main bays, Cook's Bay and Opunohu Bay, cut deep into the mountainous interior and provide the postcard views. Between them, the Belvedere lookout offers a panorama of both bays and the peaks behind.
 
-The Sofitel Ia Ora is 2 miles from the ferry, and there is a bus which runs from the ferry around the island for 300 cfp; a taxi will cost three times that for the short ride. The Sofitel also has the best beach on the island, and as with all beaches here, is open to the public. There are very few places to eat near the hotel though, so a car or scooter is helpful to have for those looking to spend less and eat better. The Sofitel is a great place to stay, but food is not their strength. There are several restaurants that will pick you up for dinner, and two markets near the ferry. Buying basic groceries will save you money, but be prepared to spend there as well. Cereal alone will run you $6-7 US per box!
+The ferry from Pape'ete lands at Vaiare on the east side. All beaches are public by law, including the excellent one at the Sofitel Ia Ora, two miles from the ferry terminal. For eating, the hotel restaurants are expensive and often mediocre — you are better off at the pizza places and rotisserie chicken stands scattered around the island. Chez Luciano on the western side does good pizza. Two markets near the ferry sell groceries, though prices for imported goods are steep.
 
-Cheaper meals on the island include several pizza parlors and a rotisserie chicken stand. The pizza place across from the ferry is pretty standard, better is Chez Luciano on the Western side of the island. Pizzas start at about 1000 cfp.
-
-Accomodations: Most are on the expensive side, as with everything here, but travelers can save money by staying at one of the two campgrounds, both on the west side of the island.
-
-Minor corrections on 06 January 05
+Budget travellers can stay at one of two campgrounds on the western side of the island. Otherwise, accommodation ranges from guesthouses to luxury resorts.

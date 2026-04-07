@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Gold Coast"
+title: Beaches
 type: section
 ---
 

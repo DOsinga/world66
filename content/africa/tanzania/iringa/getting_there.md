@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Iringa"
+title: "Getting There"
 type: section
 ---
 

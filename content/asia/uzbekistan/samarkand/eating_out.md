@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
-
-**BBQ**
-
-A one of a kind shashlik (bar-b-que) experience can be found in Samarkand. Ask a taxi driver where one can buy the really big shashlik, including pork, lamb, chicken, flank steak and mystery pieces only the truly brave or drunk will eat.
+Samarkand's food scene centres on the basics done well: plov (the Uzbek national rice dish, and Samarkand claims to make the best version), shashlik grilled over charcoal, and the city's famous non bread. The bazaar is the best place to eat cheaply and well. For a sit-down meal, look for the chaikhanas (tea houses) around the old town.

@@ -1,23 +1,14 @@
 ---
-title: "Oaxaca"
+title: Oaxaca
 type: location
-latitude: 17.0
-longitude: -96.5
+latitude: 17.0732
+longitude: -96.7266
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Oaxaca is located about 500 km southeast of [Mexico City](/northamerica/mexico/mexicocity) on an arid highland plateau some 1700 meter above sea level.
+Oaxaca (pronounced "wah-HAH-ka") is the colonial capital of the state of the same name, about 500 km southeast of Mexico City on a high, dry plateau at 1,550 m. With just under 300,000 people in the city and another half-million in the surrounding valley, it is small enough to walk across in an afternoon — and it might be the most beautiful and engaging colonial town in Mexico. The whole historic centre is a UNESCO World Heritage Site, built in warm green and ochre volcanic stone.
 
+Oaxaca is three things at once. First, it is a colonial city of baroque churches and convents — the **Templo de Santo Domingo**, with its astonishing gold-leaf ceilings and the Cultural Museum beside it, is one of the great sights of the Americas. Second, it is the centre of indigenous Mexico: the Valley of Oaxaca has been continuously inhabited for more than 10,000 years, was the heartland of the Zapotec and later Mixtec civilisations, and still speaks sixteen distinct indigenous languages. The **Monte Albán** archaeological site on the hilltop above the city — the great Zapotec capital, abandoned around AD 750 — is the must-see, with **Mitla**, **Yagul** and the Tule tree a short drive further out. Third, it is Mexico's most interesting food city — the birthplace of seven famous **moles**, of **tlayudas** (giant crisp tortillas with toppings), of grasshoppers (**chapulines**) and most of all of **mezcal**, the smoky agave spirit that has its heartland in the villages around town.
 
- It's a fairly big city with over half a million inhabitants, but it is still quite a relaxed city, unpretentious and friendly. The old inner city has many good examples of baroque colonial architecture dating from the 16th century. In Oaxaca you will find Mexico's most splendid churches, some of its finest museums, and dozens of well preserved municipal and religious buildings from the colonial era. And with a climate that is spring-like and pleasant year round you can be sure Oaxaca is a good destination. 
-
-
- The province of Oaxaca is one of the least developed regions in Mexico. This means that when you visist smaller towns in the area you might be looked upon with suspicion. The upside for you as a traveler is that lodging and dining in Oaxaca are remarkably affordable. Whatever the region lacks in resort swankiness, it more than makes up for with its quaint inns and comfortable hotels. Native cuisine is outstanding, and the region is home to mezcal, a fiery native liquor similar to tequila. 
- 
-
-
- The area around Oaxaca is rich with archaeological sites, of which about 800 have been surveyed. The area's main attractions are the majestic sites of Monte Alban, Mitla, and Yagul. Each lies within a 25 mile radius of Oaxaca City. 
- 
-
-## Destinations in Oaxaca
-
-[Reis](/northamerica/mexico/oaxaca/reis)
+Come for the extraordinary **Day of the Dead** celebrations in late October and early November — Oaxaca is one of the best places in Mexico to experience it — or for the **Guelaguetza** folk-dance festival in late July, when every indigenous community in the state sends dancers to the city.

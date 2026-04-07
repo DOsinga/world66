@@ -1,8 +1,12 @@
 ---
-title: "Ciudad del este"
+title: Ciudad del Este
 type: location
 latitude: -25.516901
 longitude: -54.616864
+done:
+  location_cleanup: 2026-04-05
 ---
 
-327 kilometres away from Asuncion, a young city founded only three decades ago, on the border with Brazil, it is the main access to the Yguazu Falls and Itaipu Dam. It is the country's leading commercial center due to the flow of imports and exports across the Parana River, you will find Foz de Iguazu, and 20 kilometres from there, the Iguazu Falls, located on the border between Brazil and Argentina, it is considered one of the world's great wonders. More than 250 water falls spread in an incredible tropical landscape, which you can enjoy through ramps and observatories. North of Ciudad del Este, the Itaipu Hydroelectric Power Dam is the largest such project in the world, with a total length of 8 kilometres and a height of 225 meters. It has 14 gigantic spillways which form artificial waterfalls and generate an ubelievable 12,600,000 kilowatts of clean electric energy.
+Ciudad del Este is Paraguay's second city and the strangest place in the country — a chaotic frontier boomtown on the Paraná river, 327 km east of Asunción, where Paraguay, Brazil and Argentina meet at the **Triple Frontier**. It was founded in 1957 to anchor the Paraguayan side of the border, and ballooned in the 1980s and 1990s into one of South America's biggest contraband bazaars. Electronics, knock-off perfume, counterfeit watches and bootleg DVDs pour across the Friendship Bridge from Brazil every day; on a busy Saturday you can barely move on Avenida San Blas.
+
+It is, to be blunt, not a pretty city. It is crowded, hot, polluted, famously unsafe after dark, and most travellers use it only as a hinge between **Iguazu Falls** (on the Argentine and Brazilian sides) and the **Itaipú Dam**, the second-largest hydroelectric dam in the world, which straddles the Paraná a few kilometres north of town. Both are genuinely world-class sights and easy half-day trips. If you come here, come for them, keep your valuables hidden, and don't linger downtown after sundown.

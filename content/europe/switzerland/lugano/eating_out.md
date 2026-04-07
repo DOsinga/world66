@@ -1,9 +1,9 @@
 ---
-title: "Eating Out in Lugano"
+title: "Eating Out"
 type: section
 ---
 
-Lugano’s cuisine is ecstasy for European food lovers and offers a mix of German, Mediterranean, Austrian, Swiss, Italian and international fare. The fine gourmet main courses and side dishes ordered at most restaurants are a little pricey, although extremely appetizing. Few things in Lugano, other than Swiss chocolates of course, can compare with the pleasure of biting into a thoroughly continental meal. Here is a guide to eating out in Lugano.
+Lugano eats Italian, with the refinement you’d expect in Switzerland. The restaurants around Piazza della Riforma and along the lake are reliably good, though pricey by Italian standards. Ticino’s own cuisine leans heavily on polenta, risotto, game, and local lake fish.
 
 **Botegone de Vino**
 

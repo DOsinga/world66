@@ -1,12 +1,14 @@
 ---
-title: "Cordoba"
+title: Córdoba
 type: location
-latitude: -31.416687
-longitude: -64.183419
+latitude: -31.4167
+longitude: -64.1833
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Ask any Argentinian about their favorite part of the country and many will respond: the province of Cordoba. This region, in the centre of the country and about 800 km from the capital Buenos Aires, is known to be a hot spot for those who want to enjoy pure, rough nature. Mountains, rivers, lakes, forest, you can find everything in Cordoba. Surrounded by nature you will also find famous villages like for example Villa Carlos Paz, Mina Clavero, Villa General Belgrano and San Marcos Sierra.
+Córdoba is Argentina's second largest city and one of the country's most vibrant university towns, home to the National University of Córdoba — the oldest in the country, founded in 1613. The colonial core around the Cathedral and the Society of Jesus block (a UNESCO World Heritage Site) is handsome and well preserved, while the surrounding streets are full of cafés, bookshops, and the energy of a large student population.
 
-Besides, the capital of the province, also named Cordoba, is an interesting town full of movement.
+Beyond the city, the province of Córdoba is among the most scenically varied in Argentina. The Sierras de Córdoba — a chain of low hills stretching west and south of the city — draw Argentine holidaymakers in summer with rivers, reservoirs, and colonial villages. Towns like Villa Carlos Paz, Mina Clavero, and Villa General Belgrano (settled by German immigrants and oddly Bavarian in atmosphere) all make good bases. The highland town of Capilla del Monte, to the north, has a reputation for UFO sightings and spiritual tourism, which you can take or leave.
 
-Minor corrections on 25 February 05
+Getting to the sierras by bus is easy from Córdoba's central bus terminal, with services to most towns in the province.

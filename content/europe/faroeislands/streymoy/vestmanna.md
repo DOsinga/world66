@@ -1,12 +1,12 @@
 ---
 title: "Vestmanna"
 type: location
-latitude: 62.155192
-longitude: -7.174975
+latitude: 62.1552
+longitude: -7.1750
 ---
 
-Travel Guide
+Vestmanna is a small fishing town on the west coast of Streymoy, located past the tunnel entrance to [Vagar](/europe/faroeislands/vagar) when coming from [Torshavn](/europe/faroeislands/torshavn). Its main draw is the boat trip to the Vestmanna bird cliffs — one of the best excursions in the Faroes.
 
-There are two firms operating boat trips from this village on Streymoy to the nearby bird cliffs. Without a single bird the trip would be exciting as the boat winds its far from obvious way into caves, under arches and round stacks; without a single arch, tsack or cave the trip would be a treat for its views of gannets, arctic terns, black and common guillemots, razorbills, pufins, great and arctic skuas; given both the cliffs and the birds, it is more than worth the money.
+Two operators run trips out of the harbour into a landscape of extraordinary drama: sea stacks, natural arches, and caves that the boats navigate with impressive confidence. Even without the birds, the geology alone would make the trip worthwhile. With the birds — gannets, arctic terns, guillemots, razorbills, puffins, skuas — it is something else entirely. The cliffs are home to enormous seabird colonies, and you get close enough to hear them.
 
-From Torshavn, vestmanna is located beyond the entrance of the tunnel to Vagar.
+The trip takes a couple of hours and is well worth booking in advance in high season.

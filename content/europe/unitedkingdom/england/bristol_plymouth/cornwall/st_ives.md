@@ -1,12 +1,12 @@
 ---
-title: "St Ives"
-type: location
 latitude: 50.214906
 longitude: -5.479508
+title: St Ives
+type: location
 ---
 
-Travel Guide
+St Ives is an artists' town that happens to be one of the most beautiful seaside places in England. The light here — clear, constantly changing as clouds race in off the Atlantic — has drawn painters since the late nineteenth century, and the tradition continues. Tate St Ives, opened in 1993 on the site of a former gasworks above Porthmeor beach, is one of the best galleries outside London, focusing on modern and contemporary art with a particular emphasis on the St Ives School. Nearby, the Barbara Hepworth Sculpture Garden preserves the studio where Hepworth worked until her death in 1975.
 
-Nothing whatsoever to do with that awful puzzle about the man with seven wives - that one is in Huntingdonshire. The one in Cornwall is an attractive seaside resort that has for many years been a haunt of artists. Now it is one of the very few places in England to have its own Tate Gallery. On both sides are fine stretches of coast.
+The town itself is a warren of steep lanes, whitewashed fishermen's cottages, and small harbours. Porthmeor, on the Atlantic-facing side, is the surf beach; the harbour beach and Porthminster, to the south, are calmer and more sheltered. The harbour still has working fishing boats.
 
-You may well prefer this out of the main season because it does attract immense crowds.
+St Ives gets extremely busy in summer. Visiting in May, early June, or September gives you the same extraordinary light and open galleries without the crowds. The branch railway line from St Erth is worth taking for the views across the estuary.

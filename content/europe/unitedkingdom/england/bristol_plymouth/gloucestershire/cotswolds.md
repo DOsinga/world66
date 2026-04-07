@@ -1,20 +1,14 @@
 ---
-title: "Cotswolds"
+title: Cotswolds
 type: location
-latitude: 51.748943
-longitude: -0.230333
+latitude: 51.833
+longitude: -1.833
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+The Cotswolds is a region of limestone uplands in central England, covering roughly 800 square miles across parts of Gloucestershire, Oxfordshire, Wiltshire, Worcestershire, and Warwickshire. It is immediately recognisable: honey-coloured stone villages, dry-stone walls, rolling fields, and market towns that have changed very little in appearance for centuries. In summer it draws enormous numbers of tourists, and some of the most famous villages — Bourton-on-the-Water, Bibury — can feel overwhelmed. The best way to experience the area is on foot, hiking between villages on the Cotswold Way or the network of footpaths.
 
-The Cptswolds is an area of gentle hills with stone walls criss-crossing the landscape, hidden river valleys and distinctive market towns and villages made of the famous honey coloured Cotswold stone. Towns such as
-Winchcombe,
-Bibury and
-Painswick have a timeless charm that fascinates visitors from all over the world. In summer they some of the villages can be overcrowded with tourists. If you want to be on your own, avoid
-Bourton-on-the-Water for example. The best way to enjoy the beauty of the region is to bring some hiking gear and hike your way from one village to the other. 
+The main towns are **Chipping Campden**, **Stow-on-the-Wold**, **Bourton-on-the-Water**, and **Burford**. For less-visited alternatives with equal charm, try **Painswick**, **Winchcombe**, or **Snowshill**. **Hidcote Manor Garden** and **Westonbirt Arboretum** are outstanding gardens worth timing a visit around. **Sudeley Castle**, near Winchcombe, was the home of Catherine Parr, Henry VIII's sixth wife.
 
-
- This part of Gloucestershire includes world-famous historic houses and gardens such as those at Hidcote Manor, Painswick, Westonbirt Arboretum and Sudeley Castle, home of Henry VIII's last Queen.
-
-More information on
-*Cotswolds Travel*
+The nearest train connections are to Moreton-in-Marsh (from London Paddington), Kingham, or Charlbury. A car makes exploration much easier, though summer parking is a genuine problem in the popular villages.

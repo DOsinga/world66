@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Cadiz"
+title: "Eating Out"
 type: section
 ---
 

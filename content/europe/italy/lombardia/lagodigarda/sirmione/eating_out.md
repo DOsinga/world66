@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Sirmione"
+title: "Eating Out"
 type: section
 address: "Via Lazzarini, 25 - Colombare del Garda"
 phone: "(+39) 030 919031-9904329"

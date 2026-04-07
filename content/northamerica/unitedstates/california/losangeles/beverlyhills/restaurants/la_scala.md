@@ -1,28 +1,10 @@
 ---
 title: "La Scala"
 type: poi
-address: "434 N. Canon Dr."
+address: "434 N. Canon Dr., Beverly Hills"
 phone: "310-275-0579"
-type: "Italian"
 latitude: 34.071315
 longitude: -118.401456
 ---
 
-Original La Scala dominated the culinary scene (specifically Italian
-food) in Los Angeles of the ‘50s and ‘60s, yet the more recent
-embodiment of the eatery remains a hotbed for excellent Italian
-cuisine. The cozy environs, replete with red, vinyl booths, add to the
-pleasant experience. The venerable chopped salad remains a must-have.
-
-**Contributors**
-December 15, 2006
-
-type: Italian
-
-
-
-
-
-tel: 310-275-0579
-
-address: 434 N. Canon Dr.
+An Italian restaurant that has been part of the Beverly Hills dining scene since the 1950s. The red vinyl booths and old-school atmosphere are part of the appeal. The chopped salad — a house invention that has been widely imitated — is the dish to order.

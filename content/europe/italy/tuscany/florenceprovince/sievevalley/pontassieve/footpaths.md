@@ -1,6 +1,6 @@
 ---
 title: "Footpaths"
-type: location
+type: section
 ---
 
 The footpaths covering some areas of the Commune of Pontassieve have been mapped and are maintained by the Italian Alpine Club (CAI), and the footpaths of the SO.F.T. (Sorgenti Trekking Firenze) and local excursion groups (GEO) are maintained by the Mountain Community. These paths are marked with white and red signs or yellow signs:

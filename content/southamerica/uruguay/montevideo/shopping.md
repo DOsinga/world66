@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Montevideo"
+title: "Shopping"
 type: section
 ---
 

@@ -9,6 +9,7 @@ image_license: CC BY 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Midori" title="User:Midori">Midori</a>
 done:
   country_cleanup: 2026-03-31
+  location_cleanup: 2026-04-08
 ---
 
 *Asia > Indonesia*

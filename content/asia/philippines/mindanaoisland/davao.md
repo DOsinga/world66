@@ -1,41 +1,16 @@
 ---
-title: "Davao"
+title: Davao
 type: location
 latitude: 7.064831
 longitude: 125.608062
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**Davao City** is located in the southeastern portion of Mindanao
-Island. It is a highly urbanized city that serves as the major
-economic, financial,
-and educational centre of the entire island.
+Davao is Mindanao's largest city and the gateway to the Philippines' wild south. While Manila gets the headlines and Cebu gets the beach crowds, Davao draws a different kind of traveller — one looking for durian at midnight markets, white-water rafting on jungle rivers, and the country's highest peak looming on the horizon.
 
-It is nominally part of the province of Davao del Sur and is bounded on the
-north by Davao Province, on the east and south by Davao Gulf, and on the west by
-North Cotabato Province.
+The city sprawls along the shores of Davao Gulf, one of the largest cities by land area in the world, though it does not feel like it. The urban core around downtown and the waterfront is compact enough to walk, while the edges dissolve into farmland, forest, and the foothills of Mount Apo. At 2,954 metres, Apo is the highest mountain in the Philippines, and the trailhead is less than two hours from the city centre.
 
-Davao serves as
-the gateway to the island of Mindanao, being serviced by several
-national as well as international air and sea carriers. The brand new
-Davao International Airport now handles international flights to
-Singapore and Indonesia. The seaport meanwhile handles a sizable
-traffic of goods bound for Japan, China, the USA and the Middle East.
+Davao has a reputation as one of the safest and cleanest cities in the Philippines, something locals are fiercely proud of. The streets are noticeably tidier than Manila's, smoking is banned in public, and the pace of life is calmer. Indigenous Lumad communities — the Bagobo, Manobo, Mandaya, and B'laan — have deep roots in the region and their presence shapes local culture, from woven textiles to the annual **Kadayawan Festival** every August, a week-long celebration of harvests and tribal heritage.
 
-Considered one
-of the largest cities in the world in terms of land area, Davao now
-boasts of a population of about 1.2 million. People from all over the
-country have come here to explore all the possibilities that this
-city has to offer. In addition, the city and region also has a number
-of indigenous tribes that add colour and uniqueness to the area; like
-the Bagobo, Manobo, Mandaya,
-and Bilaan tribes.
-
-There are lots of things for travellers to do. Tourists can try
-mountain climbing at Mt Apo, nature trekking or hiking at Eden Nature
-Park, kayaking, sailing or just lazing around at any of the numerous
-beach resorts, including white sand resorts on nearby Samal Island. For
-the more adventurous, there's white-water rafting and rappelling on the
-Davao River. Then there's **Kadayawan sa Davao**, a grand fiesta
-that happens every third week of August. Come to this fiesta and see
-indigenous tribes dancing to ancient rhythms, horse-fighting shows,
-floral float displays, and other fun-filled activities.
+The real draw here is what surrounds the city. Samal Island sits just across the gulf, reachable by a short ferry, with white sand beaches and coral reefs. Eden Nature Park offers trails through highland forest. The Davao River is one of the best spots in the country for white-water rafting. And the durian — Davao is the durian capital of the Philippines, and if you have never tried it, this is the place.

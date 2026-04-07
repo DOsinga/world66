@@ -243,7 +243,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}
-  <a href="/tags/{{ tag|urlencode }}" class="tag">{{ tag }}</a>
+  <span class="tag">{{ tag }}</span>
   {% endfor %}
 </div>
 {% endif %}

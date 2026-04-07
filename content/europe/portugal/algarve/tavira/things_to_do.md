@@ -1,5 +1,5 @@
 ---
-title: ‘Things to do in Tavira’
+title: ‘Things to Do’
 type: section
 ---
 

@@ -71,6 +71,8 @@ def location_or_section(request, path):
     nav_siblings = []
     if context_nav:
         nav_siblings = context_nav.tagged_pois()
+        if active_nav is None:
+            active_nav = context_nav  # highlight the context section in the city sidebar
 
     # Contextual URL prefix for POI links on nav pages (section/neighbourhood/theme).
     # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.

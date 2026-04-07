@@ -1,5 +1,5 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 

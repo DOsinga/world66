@@ -1,21 +1,10 @@
 ---
-title: "Shopping in Suzhou"
+title: "Shopping"
 type: section
 ---
 
-Suzhou is as popular for its varied shopping options as much for its scenic beauty, and visitors can look forward to many discounted deals and buying unique items as a part of their **Suzhou shopping** experience.****
+Suzhou has been a centre of silk production for over a thousand years, and silk remains the thing to buy. Quality varies enormously — the best places to start are the official silk shops around the Silk Museum rather than the tourist-market stalls. Prices are higher but the fabric is real. Suzhou embroidery (Su embroidery) is equally famous: intricate double-sided work that takes months to complete. The Su Embroidery Research Institute on Jingde Road sells authenticated pieces and is worth a visit even if you're not buying.
 
-**Suzhou&rsquo;s Native Offerings**
+For everyday shopping and browsing, Guanqian Street runs through the commercial heart of the old town. It mixes chain stores with older specialist shops, including calligraphy and ink-stone dealers. The night market at the back of the Temple of Mystery is good for cheap souvenirs, snacks, and people-watching.
 
-Suzhou is popular for its native form of embroidery. This form of embroidery is regarded as the most intricate across various embroidery styles found in China. Yes, Suzhou embroidery items are slightly expensive, but they are very durable and exude and old-world charm. Similarly, the Suzhou variety of herbal tea has made it to many of the popular restaurants in Europe wherein it is popular for its distinctive aroma. A typical kind of tea, the Biluochun Tea, is sold in small gift packs to visitors. This is an expensive kind of flavoring tea and is reputed to have amazing healing properties. The Suzhou brocade, often called the Song brocade, is another popular offering sold as a souvenir.
-
-Other famous souvenir options include Taohua wood-carvings and Suzhou paint-brushes. There are more than 300 varieties of Huzhou brushes retailed across the street-markets of Suzhou. Visitors can also buy calligraphy sets, including those lined with silver and gold. Suzhou is a renowned name in the global silk trade. The Suzhou and Hangzhou silks are counted among China&rsquo;s best silks. Visitors can buy a wide variety of silk items including fans, pajamas, jackets and exotic lingerie. Visitors can seek some cheap deals at the night market held at the backside of the Temple of Mystery.
-
-**Embroidery Shopping
-**
-
-The Su form of embroidery is native to Suzhou. This is regarded as the most authentic of ancient, Chinese embroidery forms. Visitors have the option of getting their embroidery customized. Customers can ask for designs like faces of animals and popular leaders on their chosen piece. The most authentic range of Suzhou embroidery is found at the Su Embroidery Museum. Located at 262, Jingde Road, this museum is partially government-controlled and offers special discounts.
-
-**Guan Qian Street**
-
-This street is recommended to foreign visitors looking for a particular brand of packaged foods, cigarettes and other, basic supplies. The Guan Street is located near the southern end of the downtown area. It also houses a major portion of the commercial space in Suzhou. For native meats, visitors can seek a wide selection at the Sheng Chun Yang. A historic and popular shop here, called the Heng Fu Shop, is supposed to have been founded during the 17th century Qing Dynasty. For buying clothes, the Golden Eagle Shopping Center is recommended.
+Biluochun tea — a green tea grown in the hills around Suzhou and Taihu Lake — makes an excellent gift. Buy it from a reputable tea shop rather than a tourist kiosk; the price difference reflects real quality differences.

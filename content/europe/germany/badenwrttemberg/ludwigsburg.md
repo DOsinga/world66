@@ -1,18 +1,14 @@
 ---
-title: "Ludwigsburg"
+title: Ludwigsburg
 type: location
 latitude: 48.895394
 longitude: 9.189515
+done:
+  location_cleanup: 2026-04-07
 ---
 
-"Ludwigsburg is a very special town" were the words used by Leopold Mozart to describe the town he visited with his son Wolfgang Amadeus in July 1763. This is still true of Ludwigsburg today which is an active, lively and friendly town in the centre of one of the most economically sound regions in Germany. The baroque palaces and the large parks, the Baroque-in-Bloom gardens and the culture and convention centre "Forum am Schlosspark", the famous porcelain factory, or the renowned palace festival are all part of the unique profile of this town. 
+Ludwigsburg is a compact baroque city 15 kilometres north of Stuttgart, built from scratch in 1704 on the whim of Duke Eberhard Ludwig of Württemberg who wanted a grand residence closer to his hunting grounds. The result is one of Germany's best-preserved baroque ensembles: a grid of elegant streets radiating from the enormous Residenzschloss, a palace with 452 rooms that is larger than Versailles in footprint if not in fame.
 
-The town was founded in 1704 on a whim of the Württemberg Duke Eberhard Ludwig who had his summer residence built here. This was the start of Germany's largest baroque town which has been home to numerous historical events and famous persons. Ludwigsburg has always been closely connected with the history of the state of Württemberg. 
+The young Wolfgang Amadeus Mozart visited in July 1763 with his father Leopold, who wrote that Ludwigsburg was "a very special town." It still has that quality — manageable, architecturally coherent, and not overwhelmed by tourism in the way Heidelberg or Rothenburg are. Most visitors come as a day trip from Stuttgart, which is fine, but an overnight stay lets you see the palace and the Blühendes Barock garden at a calmer pace.
 
-Today, Ludwigsburg is not only a town full of tradition, it is also dynamic and an attractive economic location. Many small and large companies in future-oriented industries, including a few global players, guarantee that the economy will remain strong and well-equipped to face the challenges that are expected in the future. 
-
-And this is especially important in the light of the buzz word "globalisation" and the growing competition between the European regions. A strong economic region such as Stuttgart does a lot to uphold its position as a location in the competitive European market. Ludwigsburg as one of the centres of these regions also plays an active part. 
-
-All in all, Ludwigsburg has every opportunity to continue its continuous development and remain a town in which it is worthwhile living and working. We look forward to greeting you here in Ludwigsburg in the near future! There are enough reasons for a visit as you will see on the following pages – just give it a try. 
-
-The city of Ludwigsburg has many different faces. It's the county seat of local government, has a population of 85,000 in seven suburbs, 50 factories, 1200 craftoriented and commercial companies and over 2000 wholesale and retail outlets. It's a universitytown, home to a teacher training college, a polytech college and the only film academy in the state. But Ludwigsburg ist also the city with the biggest and best-preserved baroque palace in all of Germany. It was the residence of the king of Württemberg and is called the cradle of Swabian poetry.
+The palace gardens are the main draw alongside the palace itself. In summer the Baroque-in-Bloom festival fills the grounds with elaborate floral displays. The town is also home to a still-active porcelain factory founded in 1758 — Ludwigsburger Porzellan — and the annual Film Festival at the palace is one of southern Germany's better summer cultural events.

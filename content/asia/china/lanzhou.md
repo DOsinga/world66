@@ -1,12 +1,18 @@
 ---
-title: "Lanzhou"
+title: Lanzhou
 type: location
-latitude: 36.474436
-longitude: 103.733224
+latitude: 36.4744
+longitude: 103.7332
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Lanzhou, the capital of Gansu Province, is a regional communication and transportation hub since ancient times. Lanzhou is not a major tourist spot, however, it is an important stopover in the ancient Silk Road.There hosts many cultural heritage sites, like the 5th century cave shrines and stone statues at Bingling Temple (also called Thousand Buddha Caves), and a 27-meter-high Buddha at the White Pagoda Hill. 
+*Asia > China > Lanzhou*
 
-Lanzhou is also a bustling city with a modern downtown area, with western boutiques and fast food outlets, as well as more traditional markets and temples. The Yellow River flows through the city and boat trips are available. Nevertheless, the rugged topography does give the city a certain unique charm with many friendly ethnic groups. Meanwhile, honeydew melons, peaches, and vegetables are also produced in the area. 
+Lanzhou is the capital of Gansu Province and sits in a long, narrow valley where the Yellow River cuts through the loess plateau at about 1,500 metres. It is not a conventional tourist destination — it is a working industrial city and a transport hub — but it matters to travelers heading west along the old Silk Road into Xinjiang or south into Tibetan Qinghai.
 
-Important notice: Part of the information has been provided by **China Holiday**. Visit their website.
+The Yellow River is the city's defining feature. Binhe Park runs along the northern bank for several kilometres, and the Old Zhongshan Bridge is one of the oldest iron bridges in China, built in 1907. White Pagoda Hill rises above the northern bank near the bridge with views over the valley. The Gansu Provincial Museum holds one of the best collections of Silk Road artifacts in China, including the famous Han Dynasty Flying Horse of Gansu (Galloping Horse).
+
+Lanzhou is also known for its beef noodles — *lanzhou lamian* — a dish specific to the city and eaten for breakfast by most locals. The hand-pulled noodles in clear bone broth with sliced beef and chilli oil are served in hundreds of small restaurants throughout the city and are genuinely excellent.
+
+Bingling Si, the Buddhist cave complex 70 km southwest on the Yellow River, is the main reason many travelers stop here. The day trip by boat through the Liujiaxia reservoir gorge is as good as the caves themselves.

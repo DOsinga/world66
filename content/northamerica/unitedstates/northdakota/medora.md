@@ -1,14 +1,12 @@
 ---
-title: "Medora"
+title: Medora
 type: location
-latitude: 39.174491
-longitude: -90.143165
+latitude: 46.9144
+longitude: -103.5291
 ---
 
-If you're a fan of Cowboy Poetry you have come to the rigt place the Dakota Cowboy Poetry Gathering is held right here in Medora every year in May. But there is a lpot more to this small historic town 220 km west of
-[Bismarck](/northamerica/unitedstates/northdakota/bismarck)
+Medora is a tiny town of a few hundred people in the western Badlands, about 140 km west of Bismarck, and the main gateway to Theodore Roosevelt National Park. It's small enough to walk across in ten minutes, but it packs in more history than most towns ten times its size.
 
+The town was founded in 1883 by the Marquis de Mores, a French nobleman who came west to build a beef-packing empire. The Chateau de Mores, his restored hilltop home, is open for tours and gives a vivid picture of the grand ambitions and spectacular failure of his venture. The Medora Museum covers the broader history of the northern plains through Native American and frontier artifacts.
 
- Medora is the gateway to the South Unit of
-[Crosser walk car park](/europe/ireland/cork/crosserwalkcarpark). The town is very much tied to the history of the West. The Medora Museum gives you a good intro in the history of the northern plains through a collection of Native American and frontier artifacts and other memorabilia. In the centre you also find a historic district of restored buildings constructed in the 1880s. Another attraction is the Chateau de Mores a restored chateau of the town’s founder, the Marquis de Mores. For some good hiking and camping head for the
-[Itasca State Park](/northamerica/unitedstates/minnesota/itascastatepark).
+The main draw, though, is the national park immediately to the south. The South Unit entrance is right at the edge of town. Bison herds wander freely across the roads, prairie dogs colonise the flats, and the eroded buttes turn extraordinary colours at sunset. Roosevelt's Maltese Cross Cabin, moved to the park visitor centre, is small and authentic — the log ranch house where a young, grieving New Yorker first fell in love with the West.

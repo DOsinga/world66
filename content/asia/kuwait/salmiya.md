@@ -1,8 +1,10 @@
 ---
-title: "Salmiya"
+title: Salmiya
 type: location
 latitude: 29.332783
 longitude: 48.068488
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Salmiya is Kuwait's second city in all but name -- a densely populated district about 12 km south of central [Kuwait City](/asia/kuwait/kuwaitcity) that serves as the country's main commercial and entertainment hub. Over 90% of its 150,000 residents are expatriates, giving it a cosmopolitan, multicultural atmosphere.

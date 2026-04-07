@@ -1,14 +1,9 @@
 ---
 title: "Aypate Inca Ruins"
 type: poi
-type: "Other"
+category: "Sight"
+latitude: -4.6997
+longitude: -79.5758
 ---
 
-The Aypata "Ceremonial Administrative Center" is a complex of Inca ruins an hours drive out of town. It is dated to the fifteenth century, and is made of the same material as [Machu Pichu](/southamerica/peru/machupicchu).
-
-To get to the complex, you have to take a car and later on walk about 20 minutes uphill. Part of the walk is on an ancient Inca Trail. At the start of the path lives a family who offer a *very* basic place to spend the night.
-
-**Contributors**
-May 20, 2006
-
-type: Other
+A complex of 15th-century Inca ruins — a ceremonial and administrative centre — roughly 40 km out of Ayabaca, built from the same grey granite blocks as Machu Picchu. The site is rarely visited: getting there means a bumpy drive followed by a twenty-minute walk up part of the original Inca road. At the trailhead, a local family offers very basic lodging for anyone who wants to stay overnight. Bring water and warm clothes — at 2,900 metres the afternoon weather turns fast.

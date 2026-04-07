@@ -1,27 +1,16 @@
 ---
-title: "Phong Nha - Ke Bang"
+title: Phong Nha - Ke Bang
 type: location
-latitude: 17.555264
-longitude: 106.112304
+latitude: 17.5553
+longitude: 106.1123
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Travel Guide
+Phong Nha - Ke Bang is a 200,000-hectare national park in central Vietnam's Quang Binh province, straddling the eastern flank of the Truong Son range near the Laotian border. It was recognised as a UNESCO World Heritage site in 2003, and again in 2015, for a reason that only fully registers when you see it in person: the limestone massif hides what is, by most measures, the largest and most extraordinary cave system on the planet.
 
-Phong Nha-Ke Bang national park, world heritage
-Viet Nam's Phong Nha-Ke Bang national park has been recognised as a world natural heritage site by the United Nations Educational, Scientific and Cultural Organisation (UNESCO) at its 27th general assembly session being held in Paris from June 30-July 5.
-At the session, delegates from over 160 member countries of UNESCO World Heritage Convention agreed to include Phong Nha-Ke Bang park and 30 others worldwide to the list of world heritage sites.
-**More At : ****http://www.hanoipeacetour.vn**
-Phong Nha-Ke Bang park is now the fifth UNESCO recognised site in Viet Nam after Ha Long Bay, the imperial city of Hue, the ancient quarter of Hoi An and the My Son historical site.
-Phong Nha-Ke Bang national park, located to the north of the majestic Truong Son range in central Quang Binh province, is one of the world's two largest limestone regions.
-The over 200,000 ha of parkland includes beautiful limestone formations, grottoes and caves, and boasts lush forestland covering 95 percent of the park area.
+Son Doong, discovered in 1991 and first explored in 2009, is the largest cave in the world — big enough to hold a Boeing 747 and containing its own jungle and weather system inside it. Visiting requires a multi-day expedition with a single licensed operator and is expensive, but the shorter caves on the main tourist circuit are accessible, cheap, and still astonishing. Phong Nha Cave itself, the one that gave the park its name, is explored by boat — you float into the cliff on a wooden longtail and glide through echoing chambers full of stalactites. Paradise Cave, 31 kilometres long (of which the first kilometre is open to visitors), has the feel of a cathedral. Tu Lan and Hang En involve walking, wading, and swimming through caves, and are the most popular adventure tours.
 
-The area is considered a paradise for researchers and explorers of grottoes and caves, and Vietnamese and British scientists have so far surveyed 20 with a total length of 70km. Of them, 17 are in the Phong Nha area and three in the Ke Bang area.
-The Phong Nha cave itself which lends its name to the whole system is probably the most beautiful of all, containing many fascinating rock formations, enchanting visitors with evocative names such as Lion, Fairy Caves, Royal Court and Buddha.
-Besides the grotto and cave systems, Phong Nha has the longest underground rivers, the largest caverns and passageways, the widest and prettiest sand banks, and the most astonishing rock formations in the world.
-According to initial statistics, the primitive tropical forest in Phong Nha-Ke Bang houses 140 families, 427 branches, and 751 species of high-rated plants, of which 36 species are endangered and listed in the Viet Nam Red Book. The forest is also home to 32 sets, 98 families, 256 races and 381 species of four land backboned animals. Sixty-six animal species are listed in the Viet Nam Red Book and 23 other species in the World Red Book. In general, Phong Nha-Ke Bang's animals are more diverse than in other natural reserves and national parks.
-**More at : ****www.hanoipeacetour.vn**
-Phong Nha-Ke Bang also boasts dozens of mountain peaks of over 1,000 metres still unexplored by men and seen as ideal sites for activities like climbing and exploration. Worthy of note are Peak Co Rilata with the height of 1,128 m and Peak Co Preu, 1,213 m. Lying between these peaks are valleys which promise tourists exciting eco-tours.
-In addition to the diversity in the ecosystem, Phong Nha-Ke Bang is home to archeological and historical relics, such as an ancient hieroglyphic script of the Cham ethnic minority, King Ham Nghi's base built for the resistance war against French colonialists in the late 19th century, and the Xuan Son ferry station, Ho Chi Minh Trail and Road 20 used during the US resistance war.
-Central Quang Binh province has poured heavy investment into upgrading the Phong Nha-Ke Bang visitor site to turn it into the country's major tourist destination.
+Above ground, the park is a patchwork of primary tropical forest, karst towers, and small rivers — habitat for gibbons, bears, the saola (an antelope-like ungulate so rare it is sometimes called the Asian unicorn), and hundreds of rare plants. The Ho Chi Minh Trail ran through these valleys during the American War, and you can still see sections of it, along with the bomb-blasted remains of supply stations.
 
-**More about Vietnam Travel, Tours at : ****http://www.hanoipeacetour.vn**
+The gateway town is Phong Nha village, a strip of guesthouses, cafés, and tour operators along the Son river, a short drive from the main cave entrances. Come in February–August for dry weather. The park is six hours by overnight train from Hanoi or Hue to Dong Hoi, then an hour's taxi or bus ride.

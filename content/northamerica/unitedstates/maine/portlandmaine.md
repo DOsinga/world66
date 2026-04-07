@@ -1,8 +1,10 @@
 ---
-title: "Portland Maine"
+title: Portland Maine
 type: location
 latitude: 43.6884
 longitude: -70.2463
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Portland is Maine's largest city and its cultural capital. The Old Port district -- a compact grid of brick buildings along the waterfront -- is packed with restaurants, bars, and independent shops. The food scene here punches well above its weight for a city this size, with a focus on local seafood and farm-to-table cooking.

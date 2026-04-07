@@ -1,10 +1,12 @@
 ---
-title: "The Norfolk Broads"
+latitude: 52.6307
+longitude: 1.55
+title: The Norfolk Broads
 type: location
-latitude: 52.630742
-longitude: 1.642913
 ---
 
-Travel Guide
+The Norfolk Broads is England's largest protected wetland and one of its most distinctive landscapes. Formed by medieval peat diggings that flooded over centuries, the Broads now comprise around 125 miles of navigable waterways — rivers, lakes (called broads), and drainage channels — spread across Norfolk and into neighbouring Suffolk.
 
-**The Norfolk Broads** is a national park that is made up of series of rivers and lakes throughout [Norfolk](/northamerica/unitedstates/virginia/norfolk) and [Suffolk](/europe/unitedkingdom/suffolk). The Norfolk Broads run from Great Yarmouth & [Lowestoft](/europe/unitedkingdom/suffolk/lowestoft) that extend to North Walsham and even [Norwich](/europe/unitedkingdom/england/eastern_england/norwich). The Norfolk Broads are the perfect place for relaxing on a boat and boat hires are available from the little town of Loddon (Not to be confused with [London](/europe/unitedkingdom/england/london)). It is a truly stunning area of the country.
+The area carries National Park status and is a haven for wildlife, including otters, kingfishers, marsh harriers, and rare swallowtail butterflies. In summer the waterways are busy with hire boats; in winter the marshes are largely empty and hauntingly atmospheric. The main access towns are Wroxham (the self-styled "capital of the Broads") and Potter Heigham. Boat hire is available from several points along the river system, including the village of Loddon in the south.
+
+Great Yarmouth and Lowestoft lie at the southern end of the Broads, while the system extends north towards North Walsham and west towards Norwich, where the River Yare is navigable into the city itself. Walking and cycling trails run alongside many of the waterways for those who prefer dry land.

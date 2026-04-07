@@ -3,14 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Visitors to Nuku'alofa will find a good selection of restaurants offering International and Tongan cuisine. Seafood's -- fresh lobster, shell fish, and fresh fish are available all year You will be amazed at the variety inexpensive and well prepared lobster dishes. Marinated raw fish ['ota ika] is often served as appetizer -- prepared with raw fish marinated in fresh coconut milk, lime juice and hot chili peppers. Tongan feasts and traditional entertainment are often found at hotels and resorts. 
-
-**all**
-
-**Lesieli's**
-
-A new restaurant - specializing in Polynesian cuisine.  
-
-**Fakalato **
-
-A well-established Chinese Restaurants.
+Seafood dominates — fresh lobster, shellfish, and fish are available year-round and surprisingly inexpensive. Look for 'ota ika, raw fish marinated in coconut milk, lime juice, and chilli, served as a starter at most restaurants. Tongan feasts with traditional food and entertainment are offered by some hotels and resorts, usually on set evenings.

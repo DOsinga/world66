@@ -1,10 +1,14 @@
 ---
-title: "Guimaraes"
+title: Guimarães
 type: location
-latitude: 41.441768
-longitude: -8.295571
+latitude: 41.4418
+longitude: -8.2956
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Guimaraes was the first capital of Portugal, and it is also called "the Place of Birth of the Portuguese Nation". The reason for this is that it was the hometown of the first king of Portugal, Don Afonso Henriques, and many important events that led to the independence of our country happened in Guimaraes. 
+Guimarães is known as the birthplace of Portugal — it was here that Afonso Henriques, the first king, was born and raised, and it was from here that the country's independence was launched in the 12th century. The inscription "Aqui Nasceu Portugal" (Portugal Was Born Here) is carved into a medieval tower in the old town, and the locals take the claim seriously.
 
-The town is a great place to visit. It has an historical centre with many old houses and monuments.
+The historic centre is a UNESCO World Heritage Site, and deservedly so. Narrow streets of granite houses with wooden balconies lead between medieval squares, churches, and the castle on the hill where Afonso Henriques was baptised. The Palace of the Dukes of Braganza, a 15th-century manor with a distinctive row of brick chimneys, sits just below the castle and is open to visitors.
+
+Guimarães also has a lively, youthful side — the University of Minho brings students and energy, and the old town's squares fill with cafe terraces on warm evenings. The city served as European Capital of Culture in 2012, which brought investment in arts venues and public spaces.

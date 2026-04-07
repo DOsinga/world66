@@ -1,14 +1,14 @@
 ---
-title: "Louisville"
+title: Louisville
 type: location
-latitude: 38.254238
-longitude: -85.759407
+latitude: 38.2542
+longitude: -85.7594
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Sometimes called the biggest small town in America, Louisville is (literally and figuratively) at the crossroads of the urban north and rural south. 
+Louisville sits at the crossroads of the urban north and the rural south, and it feels like both. The largest city in Kentucky, it has a vibrant music scene, a growing arts community, and a bourbon culture that runs deep — this is the gateway to the Kentucky Bourbon Trail, and distilleries line the downtown Whiskey Row.
 
-The 16th largest city in America is like no place else in Kentucky, an odd mixture of southern values and progressive ideas. The outlaying areas of Louisville are sprawling suburbs more slanted to the southern way of life, while the urban area is a northern metropolis waiting to happen. 
+The city is best known for hosting the Kentucky Derby, held the first Saturday of May at Churchill Downs. The two weeks of festivities leading up to the race take over the city. The Louisville Slugger Museum, with its giant bat leaning against the building, is another landmark — it traces the history of baseball through the bat that defined the game.
 
-Home to a vibrant underground music scene and burgeoning art community, Louisville of course also hosts the Kentucky Derby and two week celebration surrounding the event. 
-
-It is also the home of what many in the widwest call "little Burbon Street", Baxter Avenue. Situated at the northern end of the Highlands neighborhood, the four block stretch of Baxter Avenue boasts 16 bars. The Highlands in total holds over 40, all of which are open till 4am. The epicenter of this neighborhood (and Louisville's cultural scene) is Bardstown Road, a one mile stretch of odd shops and art galleries.
+The Highlands neighbourhood along Bardstown Road is the cultural heart of the city: a mile of independent shops, galleries, restaurants, and bars. The adjacent Baxter Avenue stretch is locally famous for its concentration of bars, all open until 4am. NuLu (New Louisville), the revitalised East Market District, is the newer arts-and-dining hub.

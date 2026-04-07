@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-30 kilometers by the main road N158, South-South East from Caen.
-
-We currently have no Getting There listed in Falaise.
-
-If you do know any Getting There in Falaise, please [Add].
+Falaise is about 30 kilometres south of Caen on the N158. By car from Caen it takes around half an hour. There is no train station in Falaise itself, but Bus Verts runs regular services from Caen's bus station.

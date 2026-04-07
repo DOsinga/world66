@@ -3,6 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Le Cochon de Lait, 20 rue Trinité, 14700 Falaise. Closed on Monday. 
-
-Tel: 02.31.90.06.81
+A few cafes line the main square and the streets near the castle. Falaise is not a nightlife destination, but there are pleasant spots for a coffee or a glass of cider after a day of sightseeing.

@@ -3,32 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-**By car:**
+Regensburg is well connected by train, with ICE and IC services from Munich (about an hour and a half), Nuremberg (about an hour), and direct connections to Berlin, Frankfurt, and Vienna. The Hauptbahnhof is a short walk from the old town.
 
- A3 Cologne -Frankfurt/Main - Regensburg - Vienna
-
- A83 Munich - Regensburg - Dresden
-
- Munich 85km (direct coach service to Regensburg airport) 
-
- **By air:**
-
- Regensburg has no own airport. The following airports are connected by fast trains:
-
- Airport Frankfurt/Main: 335 km
-
- Airport Nuremberg: 110 km
-
- Airport Munich/Erding: 85 km
-
- 7 times a day direct bus connection to and from the International Airport "Franz Josef Strauss" near Munich/Erding. 
-
- **By train:**
-
- You can easily and comfortably reach Regensburg by ICE-, EC-, IC und IR-trains. Regensburg is situaded on the following international lines:
-
- Amsterdam/Brussels-Vienna-Budapest Zurich/Paris-Prague
-
- and on the national lines from:
-
- Berlin/Dresden, Hamburg/Hannover, Dortmund/Cologne, Frankfurt, Karlsruhe/Stuttgart  and Munich.
+The nearest airport is Munich (about 85 km south). A direct bus service connects the airport to Regensburg several times daily. By car, the A3 motorway links Regensburg to Frankfurt and Vienna, and the A93 connects to Munich.

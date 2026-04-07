@@ -1,8 +1,10 @@
 ---
-title: "Bago"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 18.2457
 longitude: 96.1005
+title: Bago
+type: location
 ---
 
 Bago is one of those places most travellers pass through on their way to the Golden Rock pagoda at Kyaiktiyo, but if you slow down, this ancient Mon capital rewards a full day of exploring. Founded in 573 AD by the Mon brothers Thamala and Wimala, Bago served as a royal capital for centuries before King Alaungpaya destroyed it in 1757. The city never fully recovered its former grandeur, but the temples and monasteries that remain are some of the finest in Myanmar.

@@ -1,8 +1,10 @@
 ---
-title: "Noli"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 44.2059
 longitude: 8.4164
+title: Noli
+type: location
 ---
 
 Noli is one of the Italian Riviera's best-kept secrets — a medieval fishing village tucked east of the dramatic Cape Noli, where the Ligurian coastline is at its most rugged. Once a powerful maritime republic (one of only five in Italian history, alongside Venice, Genoa, Amalfi, and Pisa), it still carries that history in its towers, narrow lanes, and the remarkable 13th-century Church of San Paragorio.

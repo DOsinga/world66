@@ -1,6 +1,7 @@
 ---
 title: "Amphitheatre"
 type: poi
+category: Sight
 latitude: 40.748056
 longitude: 14.494444
 ---

@@ -1,16 +1,16 @@
 ---
-title: "Toulouse"
+title: Toulouse
 type: location
-latitude: 43.604464
-longitude: 1.444243
+latitude: 43.6047
+longitude: 1.4442
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Toulouse is one of the most stylish cities of Southern France. Situated between the Mediterranean (150 km away) and the Atlantic (250 km), and just 110 km from the ski resorts of the Pyrenees and 730 km from [Paris](/europe/france/paris), Toulouse is the chief city of the huge Midi-Pyrénées Region and the fourth largest city in France. 
- With over 700,000 inhabitants and growing, Greater Toulouse is among the leading great metropolises of Southern Europe.
+Toulouse — "la Ville Rose" — is the fourth largest city in France and the capital of the Midi-Pyrénées, named for the warm pink-terracotta brick that characterises its architecture. Situated on the Garonne River, halfway between the Atlantic and the Mediterranean, it's a wealthy, youthful city (one of France's largest student populations) with a compact, walkable historic centre and a thriving food and bar scene.
 
+The historic core is dominated by the Place du Capitole, a grand open square flanked by the neoclassical Capitole building — part city hall, part opera house — whose interior is worth seeing for the elaborate painted ceilings. A short walk away, the Basilique Saint-Sernin is the largest remaining Romanesque church in Europe, a UNESCO World Heritage Site with a vast barrel-vaulted nave and extraordinary carved stone capitals. The Couvent des Jacobins, a Gothic Dominican monastery built in the 13th century, houses the remains of Thomas Aquinas beneath a celebrated palm-tree vault.
 
- Over the past centuries the city of Toulouse has become home to a growing collection of monuments, fine edifices and works of art, which stand as witnesses of its diverse culture and stimulate the curiosity of its visitors.
+The Musée des Augustins, in a former Augustinian monastery, has an outstanding collection of Romanesque and Gothic sculpture alongside paintings from the Renaissance through the 19th century. The Canal du Midi — the 17th-century waterway that connects Toulouse to the Mediterranean — begins here; walking or cycling along the plane-tree-lined towpath is a pleasure. The Cité de l'Espace, on the eastern edge of the city, is Toulouse's big family attraction: a space park celebrating the city's role as Europe's aerospace capital (Airbus headquarters is here).
 
-
- The most important are the Capitol with the City Hall, the Archives Tower and the 
- courtyard of Henri IV., the Basilica of Saint Sernin, the Jacobin Monastery (dating
+Toulouse is 110 km from the Pyrenees ski resorts and 150 km from the Mediterranean coast, making it a useful base for exploring southwestern France.

@@ -1,12 +1,16 @@
 ---
-title: "Geneva"
+title: Geneva
 type: location
-latitude: 46.201756
-longitude: 6.146601
+latitude: 46.2018
+longitude: 6.1466
+done:
+  location_cleanup: 2026-04-06
 ---
 
-***Say 'Geneva' to a person and what will come up first? An inhabitant of the city itself will probably say that it is 'a continent on its own'. Say it to a foreigner and he or she will probably refer to the building of the United Nations located in Geneva. After the foundation of the Red Cross in 1864, Geneva became the home of many international organizations. The European head-office is located here still, together with departments of organizations, such as the World Health Organization (WHO) and the European Centre for Particle Physics (CERN). ***
+Geneva is a small city with a disproportionate presence in global affairs — home to the United Nations European headquarters, the Red Cross, WHO, CERN, and dozens of other international organisations. It sits at the western end of Lake Geneva (Lac Léman) where the Rhône flows out, with the Alps visible on clear days and the French border within walking distance of the centre.
 
-***Geneva is divided in two parts by the Rhone river that flows out of the lac Leman (lake Geneva). The old city is located on the southern shore (rive gauche or left bank), the train station north of the river, and the airport north-west of the city,straddling the French border, but only a short bus ride away. Most sights are within easy walking distance and the public transport system (with busses and trams) is very reliable. ***
+The city is divided by the Rhône: the old city (Vieille Ville) rises steeply on the left bank above the lake, centred on the St. Pierre Cathedral and the Maison Tavel (the oldest house in Geneva, now a museum). The right bank has the main train station, the UN Palais des Nations, and the famous Jet d'Eau — a 140-metre water jet that has become Geneva's symbol. The waterfront Promenades de la Treille in the old city offer good views over the lake and the Alps.
 
-***This 'smallest of the large capitals', as it is called, offers nearly everthing, ranging from extensive banking and shopping areas to rich artistic and cultural input. Geneva is packed with museums and, to a lesser extent, historical sights. When you have had it for the day, go to one of the many parks, largely created by the financial imput of many wealthy citizens. Most of the time during the summer, you can watch a free concert in one of the theatres or simply prepare yourself for the nightlife in Geneva.***
+Geneva has an unusually high density of museums for its size. The Musée d'Art et d'Histoire is the largest fine arts museum in Switzerland. The International Red Cross and Red Crescent Museum offers a powerful and well-designed experience. CERN, the particle physics laboratory, offers free public tours by advance booking.
+
+Geneva is expensive — one of the most expensive cities in the world. Public transport is excellent and free for hotel guests (request a free transport card at check-in). Most sights are within easy walking distance of the old city. The airport is 15 minutes from the centre by train.

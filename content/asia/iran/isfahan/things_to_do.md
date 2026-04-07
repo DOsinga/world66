@@ -1,7 +1,6 @@
 ---
-title: "Things to do in Isfahan"
+title: "Things to Do"
 type: section
 ---
 
-you can call me i am tour guide in isfhan (iran ) with car for transportation to around the city or move to another city for example move to abyane the historic place and kashan and another thing for you call me 0098 09372532145
-http://09372532145.blogfa.com/
+Isfahan's historic core is compact enough to explore on foot, and almost every step reveals something remarkable. The great Safavid monuments around Naqsh-e Jahan Square are the obvious starting point, but the city rewards wandering — into the bazaar's covered alleys, across the ancient bridges at dusk, and into the Armenian quarter of Jolfa with its ornate churches.

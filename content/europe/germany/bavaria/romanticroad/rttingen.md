@@ -5,19 +5,6 @@ latitude: 49.509684
 longitude: 9.968819
 ---
 
-Idyllic wine village with historic city wall en nice half-timbered houses shows the typical character of a traditional south German city. Have a look at the Baroque town hall and the market square.
+Röttingen bills itself as the first town on the Romantic Road, and it is a charming introduction. This small wine village in the Tauber valley still has its medieval city walls largely intact, and the centre is a pleasant jumble of half-timbered houses around a baroque town hall.
 
-
- More information:
-
-
- Tourist office Röttingen
-
-
- Verkehrsamt
-
-
- Marktplatz, 97285 Röttingen
-
-
- Tel. +49 9338 - 97 28 55 or 97 28 56
+The town is surrounded by vineyards — Tauberfranken wines are less well known than those from the Rhine or Mosel, but the local Müller-Thurgau and Silvaner are worth trying. Röttingen also has a series of sundials scattered through its streets, part of an open-air "sundial trail" that makes for an unusual walk.

@@ -2,9 +2,9 @@
 title: "Salang Beach"
 type: poi
 latitude: 2.874404
-longitude: 104.15332
+longitude: 104.153320
 ---
 
-Salang Beach is the northern most beach on the Island. The last stop of the ferries and speed boats. It is the most developed beach on the island but still retains the island charm. There is an abundance of fairly cheap accomodation and quite a few restaurants. There are also a couple of bars. Cafe S in the middle of the 'strip' and B B Bar which is located down at the end of the beach near the abandoned hotel. Tioman is duty free, so a Tiger or Carlsberg beer should cost around 5ringits.
+Salang is the northernmost beach on the island and the last stop for the ferries. It is one of the more developed spots on Tioman but still feels like a village, with budget guesthouses, a handful of restaurants, and a couple of bars strung along the beachfront. The coral reef just offshore makes for easy snorkelling straight off the beach.
 
-There are quite a few dive centers in Salang Beach, namely B&J, Dive Asia, Azmi and Fishermen. All cost around the same. 2 fun dives 180 ringits. Open Water Course 950ringits and Advanced Open Water 750. The more fun dives you do, the cheaper it goes.
+Several dive centres operate from Salang, offering everything from introductory dives to advanced open water courses. The reefs around the northern tip of the island are among Tioman's best, with good visibility and healthy hard coral.

@@ -1,18 +1,14 @@
 ---
-title: "Mae Hong Son"
+title: Mae Hong Son
 type: location
 latitude: 19.392746
 longitude: 98.203111
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Mae Hong Son is a peaceful spot located in the north-western corner of the Kingdom. Visitors will notice a strong Burmese influence. The city has been a place known for power struggles between various Tai and Burmese kingdoms over the years.
+Mae Hong Son is a peaceful spot in the north-western corner of Thailand, sheltered by mountains and shaped by centuries of Burmese influence. The town is small, walkable, and popular with independent travellers -- more than 20 guesthouses line the quiet streets.
 
-The city is best visited between November and March when the town is at its most beautiful. Mae Hong Son is sheltered by several mountains, keeping it cooler during the summer months and allowing the temperature to drop to only 2ºC during January. The mountains have long been home to various migrant hilltribes.
+The best time to visit is November to March, when the air is cool and the town looks its best. In January temperatures can drop to 2 degrees. The surrounding mountains have long been home to various migrant hilltribes.
 
-The region's many natural attractions have brought increasing numbers of visitors over the recent years. It is very popular with independent travellers. There are more than 20 guesthouses.
-
-Mae Hong Son is a great place for daytrips in the region and provides great opportunities for adventures; on its twisting roads, sweeping rivers and in the mountainous forested region, passing through villages with Burmese/Shan style temples. Waterfalls, not only pleasing to the eye, but also fill small pools which are a perfect treat at the end of long treks through the forests. The region is also well known for its multitude of caves: archaeologists have discovered some 67 in the province, many still containing prehistoric relics. The 400m long cave at Tham Lod, about 80km to the northwest of Mae Hong Son, near [Soppong](/asia/thailand/maehongson/soppong) , is just one of these fine caves.
-
-## Destinations in Mae Hong Son
-
-[Soppong](/asia/thailand/maehongson/soppong)
+The real draw is what lies beyond the town. The province is laced with caves -- archaeologists have counted 67 -- and the forested mountains are cut by rivers and dotted with Shan, Karen, and Hmong villages. Rafting on the Pai River, trekking to waterfalls, and exploring the cave systems around Soppong are all easily arranged from town.

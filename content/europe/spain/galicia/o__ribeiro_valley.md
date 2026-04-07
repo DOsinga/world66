@@ -1,29 +1,14 @@
 ---
-title: "O Ribeiro Valley"
+title: O Ribeiro Valley
 type: location
+latitude: 42.288
+longitude: -8.143
+done:
+  location_cleanup: 2026-04-07
 ---
 
-On a visit to the area of the **Ribeiro **where one can study the
-cultivation of the world-famous Galician wine and only 30 Kilometres
-from Ourense, on the Miño riverside is **Ribadavia**, the capital
-of the Ribeiro wine country. Abobrica seems to have been the first name
-of Ribadavia, word whose origin is supposed to be Celtic and that means
-'town of the grandfather', which was the previous name of the Avia. The
-town was originally located on the left bank of the river and
-afterwards it was transferred to the right bank, and in the Middle
-Ages, it was called Rippa Avie, name of Roman origin.
+O Ribeiro is Galicia's oldest wine region, a valley carved by the Avia and Miño rivers about 30 kilometres south of [Ourense](/europe/spain/galicia/ourense). The vines here predate the Romans, and the white wines — made from Treixadura, Godello, and other indigenous grapes — were famous across medieval Europe long before Albariño became fashionable.
 
-It is
-one of the most picturesque and monument-rich villages in Ourense. The
-history of Ribadavia is described through its monuments and medieval
-quarters, with large houses, fortifications, castles and churches, and
-styles that go from Asturian pre-roman to the ogival. Large houses,
-such as La Huerta del Castillo, or the one named Los Condes,
-fortifications such the Castle itself, temples such as the ogival Santo
-Domingo, the one of Santiago or Santa María de Oliveira, with a
-Plateresque vault, and the Jewish quarter dates from the 11th century,
-authentic architectural relic, which you can still contemplate in the
-quarter of the Porta Nova, place that stands out because of its streets
-and arcades from the age.
+The valley's capital is Ribadavia, one of the most picturesque towns in the province of Ourense. A medieval quarter of granite arcades and narrow streets slopes down to the river, with the remains of a castle, the ogival church of Santo Domingo, and a well-preserved Jewish quarter dating to the 11th century. The Porta Nova neighbourhood still has the feel of an earlier age.
 
-Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05
+Beyond Ribadavia, the valley is a landscape of terraced hillsides and small stone villages. Wineries are scattered through the hills around Leiro and San Clodio, many of them occupying traditional Galician pazos (manor houses). This is a quiet corner of Galicia — no crowds, no tour buses, just vines and river and granite.

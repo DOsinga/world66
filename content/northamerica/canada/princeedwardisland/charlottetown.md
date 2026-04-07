@@ -1,20 +1,16 @@
 ---
-title: "Charlottetown"
+title: Charlottetown
 type: location
-latitude: 46.235419
-longitude: -63.126539
+latitude: 46.2354
+longitude: -63.1265
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Charlottetown is the capital of the province of Prince Edward Island. A small city of about 35,000 residents in a largely rural province, Charlottetown has an uncommonly diverse collection of resources and facilities -- shopping, dining, culture, sports -- for a city of its size. On "the Island," it is only in Charlottetown that you will find a Thai restaurant, a Taiwanese tea house, national chains' local outlets, and a national arts centre.
+Charlottetown is the capital of Prince Edward Island and the birthplace of Canadian Confederation. With around 35,000 residents, it is a small city by any measure, but it punches well above its weight in restaurants, culture, and walkability. The historic downtown is compact enough to explore on foot in an afternoon, lined with Victorian buildings in bright paint and independent shops that have somehow held off the chains.
 
-**History**
+The city calls itself "The Birthplace of Confederation" and means it. In 1864, delegates from the British North American colonies met at Province House to discuss the union that would become Canada three years later. The irony is that Prince Edward Island itself held out until 1873 before joining. Province House still stands at the centre of the city, and you can visit the room where those first talks took place.
 
-Charlottetown is extremely proud of its very special place in history as the "The Birthplace of Confederation," for it was where the first meeting of the "Fathers of Confederation" was held. These meetings led to the creation of the modern Canada in 1867; ironically, Prince Edward Island itself didn't join the new country until 1873.
+Charlottetown's layout dates back to surveyor Samuel Holland's plan from the late 1700s. Four large squares -- Hillsborough, Connaught, Rochford, and Kings -- form the corners of a rectangle with Province House at its heart. The waterfront boardwalk runs along the harbour, busy in summer with buskers and ice cream stands. Victoria Row, a block of restaurants with patios spilling onto the closed-off street, is the social centre on warm evenings.
 
-The City of Charlottetown, named in honour of Queen Charlotte of England, was incorporated as a city in 1855 and celebrates its 150 anniversary in 2005.
-
-**City Layout**
-
-The four large squares included in surveyor Samuel Holland’s original late-1700s layout of Charlottetown still exist to this day: Hillsborough Square, Connaught Square, Rochford Square and Kings Square form four corners of a rectangular plan at the centre of which is Province House, the seat of the provincial Legislative Assembly, and the nominal centre of the city.
-
-Minor corrections by [reinvented](/world/member/reinvented) on 21 January 05
+Summer is peak season, when the Charlottetown Festival runs at the Confederation Centre of the Arts. The musical adaptation of Anne of Green Gables has played here every summer since 1965. But Charlottetown is also pleasant in fall, when the island's famous red and gold foliage is at its best and the crowds thin out.

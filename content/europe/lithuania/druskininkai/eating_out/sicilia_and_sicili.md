@@ -1,26 +1,8 @@
 ---
-title: "Sicilia and Sicilia II"
+title: "Sicilia"
 type: poi
-address: "Taikos g. (Sicilia I), near Mini Maxima (Sicilia II)"
-price: "cheap"
-type: "European"
+latitude: 54.0173
+longitude: 23.9697
 ---
 
-pizzeria, always crowded. The food is good, maybe except pizza.
-
-Recommend you:
-
-cold red beet soup (saltibarscai)
-chicken fillet stuffed with baravykai (mushrooms) - 13 Lt/big portion
-koldunai (sort of tortellini with meat - in cream) - 10 Lt/big portion
-Milk shake cocktail - 2,50-3,00 Lt
-
-type: European
-
-
-
-
-
-address: Taikos g. (Sicilia I), near Mini Maxima (Sicilia II)
-
-PriceOfMenu: cheap
+A popular pizzeria on Taikos gatvė that is always busy, which tells you something. Ironically, the pizza is probably the weakest item on the menu. Go for the Lithuanian dishes instead: the šaltibarščiai (cold beet soup), the koldūnai (meat-stuffed dumplings in cream sauce), or the chicken fillet stuffed with mushrooms. Portions are generous and prices are low.

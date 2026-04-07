@@ -5,6 +5,8 @@ latitude: 2.818736
 longitude: 104.158587
 ---
 
-Tekek village can be considered as the heart of Tioman. The airport is located at Tekek and so does police station, the hospital, local authorities, other government offices and of course the mosque. You also find a few well-stocked shops and an Internet Café. 
+Tekek is the administrative heart of Tioman. The airport, police station, hospital, government offices, and mosque are all here, along with a few well-stocked shops and an internet cafe. If you need to sort anything practical on the island, this is where you do it.
 
-The only available road at Tioman is from Tekek village to Lalang village (Berjaya Tioman Beach Resort and Berjaya Tioman Suites) in the south. Heading north the road will turn in a good concrete path on which you can bicycle (rent in Tekek for RM5 an hour) until Nazri's II in Air Batang. Better don't rent a moped (RM15 an hour) because you can't climb the stairs at the headland between Tekek and Air Batang with it. For those who love thrill can try jungle trekking from Tekek village to Juara village. Main attraction while trekking is the waterfall.
+The only paved road on Tioman runs south from Tekek to Berjaya Tioman Beach Resort. Heading north, the road narrows to a concrete path that you can cycle along (rent a bicycle in Tekek for around RM5 an hour) as far as Air Batang. Skip the moped rentals -- the path includes stairs at the headland between Tekek and Air Batang that you cannot ride over.
+
+For a proper adventure, take the jungle trek from Tekek over the spine of the island to Kampung Juara on the east coast. The trail passes through dense rainforest and a waterfall, and takes roughly two hours each way.

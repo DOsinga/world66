@@ -1,25 +1,18 @@
 ---
-title: "Fuerteventura"
+title: Fuerteventura
 type: location
-latitude: 28.400377
-longitude: -14.00487
+latitude: 28.4004
+longitude: -14.0049
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**Endless beaches and transparent waters**
+Fuerteventura is the oldest of the Canary Islands and the closest to the African coast, just 100 kilometres from Morocco. It is also the least developed, the least crowded, and the one with the best beaches. If you want turquoise water and white sand without fighting for a towel spot, this is your island.
 
+The landscape is stark and beautiful — volcanic hills, stone walls, and vast stretches of near-desert broken by the occasional palm-fringed oasis village. Fuerteventura gets less rain than any other Canary Island, and most of the interior looks more like the Sahara than Spain. The wind is constant, which is why the island has become one of the world's top destinations for windsurfing and kitesurfing.
 
- The island of Fuerteventura indisputably has the biggest and best beaches in the archipelago. Many of its 340 kilometers (210 miles) of coastline consist of white sandy beaches practically untouched and deserted. The vast expanse of sand on the isle makes it possible to enjoy the sea in solitude, and it is possible, even on the most famous beaches, such as Sotavento de Jandía, not to run into a sole in many miles.
+Most visitors head to the Jandia peninsula in the south, a nature reserve bordered by a continuous strip of white sand stretching over 20 kilometres. Costa Calma sits near the famous Playa de Sotavento, while Morro Jable at the peninsula's tip has a working port with ferries to [Gran Canaria](/europe/spain/canaryislands/grancanaria). The western beaches of Barlovento are wilder and more exposed — beautiful but not always safe for swimming.
 
-The sea is also very special here. Fuerteventura's coastal shelf contributes to the existence of shallow transparent waters that acquire an extraordinary turquoise color. The wide variety and wealth of the underwater fauna make it ideal for scuba diving.
- Windsurfing is the crown sport in Fuerteventura. Its coasts annually attract thousands of enthusiasts convinced that this is one of the best places in the world to practice windsurfing. Jandía beach has been the site of various world championships in various categories.
+In the north, [Corralejo](/europe/spain/canaryislands/fuerteventura) has the liveliest atmosphere on the island. Its old fishing harbour still serves fresh fish, and the enormous dune beach south of town is protected as a nature reserve. From here you can take a short boat ride to the tiny volcanic island of Lobos, or catch a ferry to [Lanzarote](/europe/spain/canaryislands/lanzarote). The capital, Puerto del Rosario, sits mid-island near the airport and is functional rather than charming. Nearby Caleta de Fuste is a low-key resort with a sheltered beach.
 
-Most of the tourism is concentrated in the Jandía peninsula, in the south. This is a nature reserve separated from the rest of the island and bordered almost completely by vast beaches of white sand. To the west, the beaches of Barlovento, somewhat dangerous for swimming, remain almost wild. To the east, a large sandy fringe of some 20 kilometers (12 1/2 miles) in length and more than one kilometer wide in some areas, is the site of two tourist resorts: Costa Calma, near the unequaled Playa de Sotavento, and Morro Jable, built around the port where the jet-foil departs for the island of Gran Canaria.
-
-The central and northern parts of the island boast small tourist resorts. Near the airport and the capital city, Puerto del Rosario, we find Caleta de Fustes. On the northern coast, Corralejo, near an enormous beach of dunes, is an attractive spot with a fishing port where fresh fish can be savored. It is also possible to take a trip to the nearby volcanic isle of Lobos, as well as [Lanzarote](/europe/spain/canaryislands/lanzarote).
- 
- 
-
-Courtesy of:** TURESPAÑA**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!
+The interior rewards a drive. Betancuria, the old capital tucked into a valley, has a quiet colonial centre and a surprisingly good museum. The village of La Oliva in the north has a fine colonial church and the Casa de los Coroneles, a restored 18th-century military mansion. Fuerteventura is not an island of monuments or nightlife — it is an island of space, light, and sea.

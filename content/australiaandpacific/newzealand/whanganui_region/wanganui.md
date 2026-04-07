@@ -1,18 +1,14 @@
 ---
 title: "Wanganui"
 type: location
-latitude: -39.93249
-longitude: 175.051931
+latitude: -39.9325
+longitude: 175.0519
 ---
 
-Wanganui (population 40,000) is a small city on the west coast of the North Island, near the mouth of the Whanganui river.
+Wanganui is a small city of around 40,000 people at the mouth of the Whanganui River, on the west coast of the North Island. It was founded in 1840 as Petre but soon took the name of the river that flows through it. The spelling is a local point of pride: the river, district, and national park are all "Whanganui" with an 'h', but the city officially kept the older spelling without it.
 
-Wanganui is the seat of the Wanganui District Council, overseeing the Wanganui district. It was founded in 1840 as Petre, but later took the name of the river that flows through the city. The river, district and national park are all named Whanganui, but the city and the district do not have the 'h'.
+What strikes you first is the heritage architecture. Wanganui has more intact Victorian and Edwardian commercial buildings than most New Zealand cities its size, and the centre feels pleasantly time-warped. The Sarjeant Gallery, perched on a hill above Queens Park, is a striking neoclassical building with a strong collection of New Zealand art. Durie Hill, across the river, is worth the climb (or the elevator ride through the old tunnel) for panoramic views of the city, the river, and on a clear day, Mount Taranaki and Mount Ruapehu.
 
-Wanganui is 2 1/2 hours drive from [Wellington](/australiaandpacific/newzealand/wellington), 2 hours from [New Plymouth](/australiaandpacific/newzealand/newplymouth), and 2 1/2 hours from [Hawkes Bay](/australiaandpacific/newzealand/north_island/hawkes_bay). There are regular flights to [Auckland](/australiaandpacific/newzealand/auckland) and [Nelson](/australiaandpacific/newzealand/nelson), with connections throughout the country. There is no passenger rail service to Wanganui, but the daily service between [Auckland](/australiaandpacific/newzealand/auckland) and [Wellington](/australiaandpacific/newzealand/wellington) stops in Marton, 20 minutes east of Wanganui.
+The city has reinvented itself as something of an arts town, attracting painters, glassblowers, and craftspeople drawn by cheap rents and good light. The riverfront is walkable, the Saturday market is lively, and Cooks Gardens in the centre of town has a velodrome and athletics track where Peter Snell once set a world record mile.
 
-A small fleet of mini-buses provide transport around the city and suburbs, with all services passing through the Maria Place interchange in the centre of the city. Services run from 7am to 6pm.
-
-Wanganui has a number of quality sports venues, and hosts the New Zealand Masters Games every two years. Cooks Gardens, in the centre of town, has a purpose built athletics track and velodrome, and was the venue of Peter Snell's world record mile time, though the grass track on which he set it was destroyed during modernisation in the 1990s.
-
-Suburbs: Wanganui East, Bastia Hill, Durie Hill, Putiki, Gonville, Castlecliff, Springvale, St John's Hill, Aramoho, Papaiti
+Wanganui is about two and a half hours' drive from [Wellington](/australiaandpacific/newzealand/wellington) and two hours from [New Plymouth](/australiaandpacific/newzealand/whanganui_region/newplymouth). There are regular flights to [Auckland](/australiaandpacific/newzealand/auckland). The daily rail service between Auckland and Wellington stops in Marton, twenty minutes to the east.

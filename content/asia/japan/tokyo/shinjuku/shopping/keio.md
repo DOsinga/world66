@@ -1,14 +1,9 @@
 ---
-title: "Keio"
+title: "Keio Department Store"
 type: poi
-type: "general"
-latitude: 37.893851
-longitude: 139.077996
+address: "1-1-4 Nishi-Shinjuku"
+latitude: 35.6904
+longitude: 139.6984
 ---
 
-Close to the station. Big department store.
- 
- s:Odakyu
- One block from the station this is a big department store.
-
-type: general
+A large department store directly connected to Keio Line's Shinjuku station. The basement food hall is good for picking up bento boxes and Japanese sweets. Less flashy than Isetan but convenient and well-stocked.

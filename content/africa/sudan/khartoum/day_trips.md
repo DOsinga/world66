@@ -1,62 +1,14 @@
 ---
-title: "Day Trips in Khartoum"
+title: "Day Trips"
 type: section
 ---
 
-Khartoum is a great base to discover the vivid traces of a rustic
-Sudanese culture and its endearingly unsophisticated charm through a
-series of day trips. Here are some ideas on planning trips from this
-historically and culturally blessed African region.
+Khartoum's surroundings offer some of Sudan's most rewarding excursions, though "day trip" is a loose term here — distances are long and roads are rough.
 
-**Sabaloga Gorge**
+**Sabaloka Gorge** is about 100 kilometres north of the city, where the Nile squeezes through a narrow granite canyon. You need a 4x4 to get there, and a guide helps. Along the way you pass small villages and the remains of an Ansar fort from the Mahdist period.
 
-Located at approximately 60 miles to the north of Khartoum, the
-dramatic Sabaloga Gorge provides a perfect backdrop for a thrilling
-natural and historical escapade. The only practical way to travel on
-the sandy routes and overtly rough paths of the region is in a four
-wheeler, so even the most daring travelers should avoid taking any
-other mode of transport. Visitors can mosey around a quaint Sudanese
-village and take a peak of the historic Ansar Fort.
+**Meroe**, roughly 320 kilometres northeast, is Sudan's most spectacular archaeological site — dozens of steep, narrow pyramids rising from the desert, built by the rulers of the Kingdom of Kush between 300 BC and 300 AD. It is too far for a comfortable day trip, but some travellers push through in a long day with an early start and a hired car.
 
-**Meroe**
+**Jebel Awlia Dam** sits about 40 kilometres south of the city on the White Nile. The surrounding grasslands attract birdlife, and local fishermen sell fresh catches by the dam. It is the most accessible day trip from Khartoum and makes for a good picnic outing.
 
-Meroe is located about 200 miles from Khartoum and is a vast
-storehouse of a confluence of ancient Egyptian, Greek and Roman
-cultures. The antediluvian ruins of the region combined with its
-classic temple structures and exquisite statues are worth witnessing
-for their intricate craftsmanship and pleasantly archaic appeal. Hire a
-local guide to give you exhaustive and interesting information on the
-mesmerizing history of the region. Again, make sure you come here in a
-four wheeler as the roads leading to Meroe are scruffy and worn out.
-
-**Dinder National Park**
-
-In complete contrast to the so-called ‘natural’ national parks that
-are nothing but contrived getaways aimed at appeasing a largely tourist
-population with several ‘touch ups’, the Dinder National Park stands
-out as a completely non-manipulated wildlife park where visitors can
-catch games in their true natural form. The park is located about 300
-miles to the south of Khartoum, a little away from the Roseires Dam on
-the pristine Blue Nile River. The park is open every year for visitors
-from December to May.
-
-**Red Sea Region **
-
-Diving aficionados swear by the clarity of the azure waters of Red
-Sea and its perfect conditions for undertaking enjoyable diving
-sessions. The rich coral reefs and ample oceanic ecology coupled with a
-soothing tropical climate make the place an ideal haunt for action
-packed activities and peaceful relaxation. The place can be reached in
-an hour and a half by an Air Sudan flight.
-
-**Jebel Awlia **
-
-Jebel Awlia is a strikingly beautiful dam surrounded by lush
-greenery and dense grasslands that are ideal for bird watching. This is
-an idyllic location for a picnic in the midst of Sudan’s natural
-beauty. There are several fishermen who put up their fresh catches for
-sale near the dam. Make sure you pick up some as the delicious and
-fresh catches of the day are available at rock bottom prices.
-
-Khartoum has no dearth of day trip options that allow visitors to
-savor the natural, cultural and historical magnificence of Sudan.
+**Dinder National Park**, about 500 kilometres southeast near the Ethiopian border, is properly a multi-day expedition rather than a day trip. The park is open December to May and offers genuinely wild, unmanaged savannah — lions, giraffes, and buffalo in a landscape that sees very few visitors.

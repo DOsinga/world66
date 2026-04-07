@@ -1,20 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-type: "Seafood"
-url: "www.parrot-tree.net"
 ---
 
-There are all kinds of restaurants in Roatan and they have their local specialities.
-
-### [Parrot Tree Plantation](/northamerica/honduras/bayislands/roatan/eating_out/parrot_tree_planta)
-
-Sit on the Coffee House veranda and enjoy a capuccino as you take in the sights of a beautiful bay called Second Bight and fell the refreshing trade wind breezes.
-
-type: Seafood
-
-
-
-[[rate it]](/northamerica/honduras/bayislands/roatan/eating_out/parrot_tree_planta)
-
-url: [www.parrot-tree.net](http://www.parrot-tree.net/)
+Roatan's food scene leans heavily on seafood, as you would expect from a Caribbean island. Baleadas (stuffed flour tortillas) are the Honduran staple, and you will find them everywhere from roadside stands to sit-down restaurants. Fresh fish, conch soup, and coconut-based dishes reflect the island's mixed Garifuna and Creole heritage. West End has the highest concentration of restaurants, ranging from casual beachfront places to more polished spots with sunset views.

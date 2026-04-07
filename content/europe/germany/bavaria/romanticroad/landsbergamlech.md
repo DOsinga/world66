@@ -5,19 +5,6 @@ latitude: 48.049747
 longitude: 10.876873
 ---
 
-Landsberg, situated on a steep slope along the Lech river valley, is famous for its Gothic "Bayertor" (gatetower) and the wild Romantic landscape around.
+Landsberg am Lech tumbles down a steep hillside to the river, its old town crowned by the Bayertor — one of the most impressive Gothic gate towers in southern Germany. The town has a prosperous, well-kept feel, with painted facades and a handsome main square dominated by a stuccoed town hall designed by Dominikus Zimmermann, the same architect responsible for the Wieskirche.
 
-
- More informations:
-
-
- Tourist office Landsberg
-
-
- Kultur- und Fremdenverkehrsamt
-
-
- Rathaus, 89896 Landsberg am Lech
-
-
- Tel. +49 8191 - 12 82 45 or 12 82 68
+The Lech river runs fast and clear through town, and the old weir and waterfalls make for a pleasant walk. Landsberg has a darker chapter too: Hitler wrote Mein Kampf while imprisoned in the town's fortress in 1924. The prison still stands but is not open to visitors.

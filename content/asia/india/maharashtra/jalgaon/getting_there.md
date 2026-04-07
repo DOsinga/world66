@@ -1,6 +1,10 @@
 ---
-title: "Getting There in Jalgaon"
+title: "Getting There"
 type: section
 ---
 
-Air: Nearest airport is at Aurangabad (151 km); Airports at Pune (377 km) and Mumbai (425 km) are other nearby ones Rail: Connected by rail, with a station at Jalgaon (important broad gauge route and a narrow gauge line). Connected to Mumbai too by rail. Road: State highways and roads link district headquarters at Jalgaon to all 15 tahsils and towns. National highway (No 6) passes through Jalgaon.
+**By rail:** Jalgaon Junction is on the main broad-gauge Mumbai–Kolkata line, making it well-connected in both directions. Frequent express trains run from Mumbai (roughly 7 hours), Pune, and Nagpur. This is the easiest way to arrive.
+
+**By air:** The nearest airport is at Aurangabad (151 km to the south), with connections to Mumbai, Delhi, and Hyderabad. Pune airport is 377 km away and Mumbai's airports are about 425 km.
+
+**By road:** National Highway 6 passes through Jalgaon, and state bus services connect the town to Aurangabad, Dhule, Nashik, and other regional centres. Buses to the Fardapur junction for Ajanta run throughout the day.

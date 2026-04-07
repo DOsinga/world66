@@ -3,12 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-There is a local bus system that is very cheap and easy to use. If you speak Spanish, ask a local at a bus stop how to get where you want, as they are very helpful. If you ever ride the local bus be sure to hold on as they drive and stop very quickly.
+Santa Cruz is built around concentric ring roads called anillos. The historic center within the first anillo is compact and walkable, but beyond that the city sprawls and you will need transport.
 
-The anillos are growing constantly, and not all of them are paved.
-"I was there in the midst of a three month bus strike, but besides taxis, there is no better way to explore the town. Nothing much is safer, either."
-
-**Contributors**
-August 03, 2006
-
-January 13, 2005
+Local buses are cheap and cover most of the city, though the driving is aggressive — hold on tight, as they stop and start without warning. If you speak some Spanish, people at bus stops are happy to point you in the right direction. Taxis are plentiful and affordable for getting across town. The outer anillos are still growing and not all roads are paved, so expect dust and bumps on the fringes.

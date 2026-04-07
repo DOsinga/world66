@@ -2,20 +2,10 @@
 title: "Mercado Florida"
 type: poi
 address: "Florida, just within the first anillo"
-price: "$ 1"
-type: "Local"
+latitude: -17.7870
+longitude: -63.1760
 ---
 
-This meat, fish and fruit market is worth a visit because of the excellent breakfast they offer. Various little bars offer *empanadas*, *salteñas*, fruit salad and the like. Fruit salads normally come as a big pile of fruit, some *gelatina* (you can ask not to have it) topped with a milk-and-fruit *jugo* or yogurt (3,5 bol or $ 0,5). Salteñas are pastries with a somewhat sweet filling of potatoes, vegetables, an olive, a miniature egg and a bit of chicken meat. The best are those of 2 bolivianos ($ 0,25). Contrary to the heavier empanadas, salteñas are not fried but baked in an oven.
+This meat, fish, and fruit market is worth a visit for breakfast alone. Small bars inside the market serve empanadas, salteñas, fruit salad, and fresh juices. The fruit salads come as a big pile of fruit topped with a milk-and-fruit jugo or yogurt. Salteñas — baked pastries with a slightly sweet filling of potatoes, vegetables, an olive, a miniature egg, and chicken — are the thing to try. The best ones cost just a couple of bolivianos.
 
-Right next to the market are a few popular restaurants that sell barbecued fish.
-
-type: Local
-
-
-
-
-
-address: Florida, just within the first anillo
-
-PriceOfMenu: $ 1
+Right next to the market you will find popular restaurants serving barbecued fish.

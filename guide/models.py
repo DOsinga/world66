@@ -2,8 +2,20 @@
 Filesystem-based content loading for World66.
 
 Reads markdown files with YAML frontmatter from content/.
-Uses the `type` field (location, section, poi) to classify pages.
-The frontmatter title is the source of truth — no runtime name mapping.
+Uses the `type` field to classify pages:
+
+  location      — continent, country, region, city
+  section       — top-level navigable collection within a city (things_to_do, shopping, …)
+  section_group — groups related nav pages in the sidebar (neighbourhoods, themes)
+  neighbourhood — a district; appears under its section_group in the nav
+  theme         — a cross-cutting theme (lgbtq, cold_war, …); appears under its section_group
+  poi           — individual point of interest
+
+All of section / section_group / neighbourhood / theme are "nav pages": they appear
+in the city sidebar and each collects POIs by tag.  When a POI carries `tags: [de_pijp]`
+and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears under De Pijp.
+
+A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
 from dataclasses import dataclass, field
@@ -14,6 +26,9 @@ import frontmatter
 from django.conf import settings
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
+
+# Page types that participate in city navigation and collect POIs by tag.
+NAV_TYPES = {"section", "section_group", "neighbourhood", "theme"}
 
 DISPLAY_PROPERTIES = {
     "address": "Address",
@@ -46,23 +61,14 @@ def _load_md(path):
     return post.metadata, post.content
 
 
-def _get_page_type(file_path):
-    """Get the page type from a markdown file's frontmatter."""
-    result = _load_md(file_path)
-    if not result:
-        return None
-    meta, _ = result
-    return meta.get("type", "location")
-
-
 @dataclass
 class Page:
-    """A single content page — location, section, or POI."""
+    """A single content page."""
 
     slug: str
     path: str       # relative path used in URLs
     title: str = ""
-    page_type: str = "location"  # location, section, poi
+    page_type: str = "location"
     body: str = ""
     meta: dict = field(default_factory=dict)
 
@@ -90,6 +96,22 @@ class Page:
     def category(self):
         return self.meta.get("category", "")
 
+    @property
+    def nav_tag(self):
+        """The tag this nav page uses to collect its POIs. Defaults to slug."""
+        return self.meta.get("tag", self.slug)
+
+    @property
+    def excerpt(self):
+        """Plain-text excerpt of body, ~220 characters, markdown stripped."""
+        import re
+        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', self.body or '')
+        text = re.sub(r'[*_`#>]', '', text)
+        text = ' '.join(text.split())
+        if len(text) > 220:
+            text = text[:220].rsplit(' ', 1)[0] + '\u2026'
+        return text
+
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")
@@ -103,12 +125,17 @@ class Page:
         return crumbs
 
     def children(self):
-        """Sub-pages in this page's directory, grouped by type."""
+        """Sub-pages in this page's directory, grouped by type.
+
+        Returns (nav_pages, locations, pois).  nav_pages covers all NAV_TYPES
+        so the template can group them (sections at top, section_groups with
+        their members nested, etc.).
+        """
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
             return [], [], []
 
-        sections = []
+        nav_pages = []
         locations = []
         pois = []
 
@@ -121,8 +148,8 @@ class Page:
                 page = _load_page_from_file(entry, self.path + "/" + entry.stem)
                 if not page:
                     continue
-                if page.page_type == "section":
-                    sections.append(page)
+                if page.page_type in NAV_TYPES:
+                    nav_pages.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
                 else:
@@ -133,29 +160,140 @@ class Page:
                 if child:
                     if child.page_type == "location":
                         locations.append(child)
-                    elif child.page_type == "section":
-                        sections.append(child)
+                    elif child.page_type in NAV_TYPES:
+                        nav_pages.append(child)
 
-        return sections, locations, pois
+        return nav_pages, locations, pois
 
-    def pois(self):
-        """POIs inside this section's directory (for section pages)."""
+    def nav_children(self):
+        """For section_group pages: return the nav pages they group.
+
+        Scans sibling .md files at the same directory level whose type
+        matches the group's expected child type.  For example, a
+        `neighbourhoods` section_group returns all `neighbourhood` pages.
+        """
+        expected_child_type = self.meta.get("groups", "neighbourhood")
+        if not self.path or "/" not in self.path:
+            return []
+        parent_dir = CONTENT_DIR / self.path.rsplit("/", 1)[0]
+        children = []
+        for entry in sorted(parent_dir.iterdir()):
+            if entry.is_file() and entry.suffix == ".md":
+                page = _load_page_from_file(entry, self.path.rsplit("/", 1)[0] + "/" + entry.stem)
+                if page and page.page_type == expected_child_type:
+                    children.append(page)
+            elif entry.is_dir():
+                child = load_page(self.path.rsplit("/", 1)[0] + "/" + entry.name)
+                if child and child.page_type == expected_child_type:
+                    children.append(child)
+        return children
+
+    def tagged_pois(self):
+        """Return POIs tagged with this nav page's tag, found anywhere in the city.
+
+        Also includes POIs in the legacy section subdirectory (files that
+        predate the tag system and haven't been migrated yet).
+        """
+        city_path = _find_city_path(self.path)
+        if not city_path:
+            return []
+        tag = self.nav_tag
+        by_tag = find_tagged_pois(city_path, tag)
+
+        # Legacy: also scan the section's own subdirectory for untagged POIs
+        legacy = self._legacy_dir_pois()
+        seen = {p.path for p in by_tag}
+        for p in legacy:
+            if p.path not in seen:
+                by_tag.append(p)
+
+        return by_tag
+
+    def _legacy_dir_pois(self):
+        """POIs inside this page's own subdirectory (pre-tag content)."""
         dir_path = CONTENT_DIR / self.path
         if not dir_path.is_dir():
-            parts = self.path.rsplit("/", 1)
-            if len(parts) == 2:
-                dir_path = CONTENT_DIR / parts[0] / self.slug
+            # Also try sibling directory with same name as slug
+            if "/" in self.path:
+                dir_path = CONTENT_DIR / self.path.rsplit("/", 1)[0] / self.slug
         if not dir_path.is_dir():
             return []
-
         pois = []
         for entry in sorted(dir_path.iterdir()):
             if entry.is_file() and entry.suffix == ".md":
-                poi_path = self.path + "/" + entry.stem
-                page = _load_page_from_file(entry, poi_path)
-                if page:
+                page = _load_page_from_file(entry, self.path + "/" + entry.stem)
+                if page and page.page_type == "poi":
                     pois.append(page)
         return pois
+
+    # Keep old name for call sites not yet updated
+    def pois(self):
+        return self.tagged_pois()
+
+    def neighbourhood_pois(self):
+        """Kept for backwards compatibility — use tagged_pois() instead."""
+        return self.tagged_pois()
+
+
+def _find_city_path(path):
+    """Return the path of the nearest ancestor page with type 'location'."""
+    parts = path.split("/")
+    for i in range(len(parts) - 1, 0, -1):
+        candidate = "/".join(parts[:i])
+        page = load_page(candidate)
+        if page and page.page_type == "location":
+            return candidate
+    return None
+
+
+def find_tagged_pois(city_path, tag):
+    """Scan all POI files under city_path and return those tagged with tag."""
+    city_dir = CONTENT_DIR / city_path
+    if not city_dir.is_dir():
+        return []
+    pois = []
+    seen = set()
+    for md_file in sorted(city_dir.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        if meta.get("type") != "poi":
+            continue
+        raw_tags = meta.get("tags", [])
+        if isinstance(raw_tags, str):
+            raw_tags = [t.strip() for t in raw_tags.split(",")]
+        if tag not in raw_tags:
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        url_path = "/".join(parts[:-1] + [stem])
+        if url_path in seen:
+            continue
+        seen.add(url_path)
+        page = _load_page_from_file(md_file, url_path)
+        if page:
+            pois.append(page)
+    return pois
+
+
+def find_neighbourhood_page(city_path, title):
+    """Find a neighbourhood page by title — checks both old explore/ and city level."""
+    for search_path in [city_path, city_path + "/explore"]:
+        search_dir = CONTENT_DIR / search_path
+        if not search_dir.is_dir():
+            continue
+        for entry in sorted(search_dir.iterdir()):
+            if entry.is_file() and entry.suffix == ".md":
+                result = _load_md(entry)
+                if not result:
+                    continue
+                meta, _ = result
+                if meta.get("title") == title:
+                    rel_path = search_path + "/" + entry.stem
+                    return _load_page_from_file(entry, rel_path)
+    return None
 
 
 def _load_page_from_file(file_path, url_path):
@@ -174,8 +312,7 @@ def _load_page_from_file(file_path, url_path):
 
 
 def load_page(path):
-    """Load a page by its URL path. Tries location .md files, then
-    falls back to section/poi .md inside a parent directory."""
+    """Load a page by its URL path."""
     slug = path.rsplit("/", 1)[-1] if "/" in path else path
 
     for md_file in [
@@ -194,6 +331,46 @@ def load_page(path):
     return None
 
 
+def resolve_tag_route(path):
+    """Resolve a virtual tag-based URL: city/nav-slug/poi-slug.
+
+    Returns (poi_page, nav_page) or (None, None).
+
+    When a POI tagged 'de_pijp' is accessed via /amsterdam/de_pijp/albert_cuypmarkt,
+    the file may physically live at /amsterdam/shopping/albert_cuypmarkt.md.
+    This function finds it by tag lookup.
+    """
+    parts = path.split("/")
+    if len(parts) < 2:
+        return None, None
+
+    poi_slug = parts[-1]
+
+    # Try each possible split: city = parts[:i], nav = parts[i], poi = parts[i+1:]
+    # We only support one nav-slug level (not nested like neighbourhoods/de_pijp/poi)
+    # Nested case (section_group/nav/poi) is handled by trying i and i-1.
+    for city_len in range(len(parts) - 2, 0, -1):
+        city_path = "/".join(parts[:city_len])
+        nav_slug = parts[city_len]
+
+        city_page = load_page(city_path)
+        if not city_page or city_page.page_type != "location":
+            continue
+
+        nav_page = load_page(city_path + "/" + nav_slug)
+        if not nav_page or nav_page.page_type not in NAV_TYPES:
+            continue
+
+        # Find a POI in this city tagged with the nav page's tag
+        tag = nav_page.nav_tag
+        for poi in find_tagged_pois(city_path, tag):
+            if poi.slug == poi_slug:
+                return poi, nav_page
+
+        break  # found valid city/nav, but no matching poi
+
+    return None, None
+
 
 @lru_cache(maxsize=1)
 def load_tag_index():
@@ -211,12 +388,10 @@ def load_tag_index():
             raw_tags = [t.strip() for t in raw_tags.split(",") if t.strip()]
         if not isinstance(raw_tags, list):
             continue
-        # Derive the URL path from the file path relative to CONTENT_DIR
         rel = md_file.relative_to(CONTENT_DIR)
         parts = list(rel.parts)
         if parts[-1].endswith(".md"):
             stem = parts[-1][:-3]
-            # If the stem matches the parent directory name, it's the location file
             if len(parts) >= 2 and stem == parts[-2]:
                 url_path = "/".join(parts[:-1])
             else:

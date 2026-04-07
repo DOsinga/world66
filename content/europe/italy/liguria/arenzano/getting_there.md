@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-**By train**: "Ferrovie dello Stato"/ Genova-Ventimiglia railway (Arenzano station).
-
- **By car**: "A10" motorway (Genova-Ventimiglia): exit Arenzano; S. S. 1 (Aurelia)  
-
- **Airport**: *Genoa (GOA) *(Cristoforo Colombo Sestri) (Web site: http://www.airport.genova.it) 6km (4 miles) west of the city (travel time – 20 minutes) has duty-free facilities. Buses are available to the city.
+Arenzano is on the Genova–Ventimiglia railway line and has its own station. By car, take the A26/A10 motorway and exit at Arenzano, or follow the Via Aurelia (SS1) coast road. Genoa's Cristoforo Colombo Airport is about 20 minutes east.

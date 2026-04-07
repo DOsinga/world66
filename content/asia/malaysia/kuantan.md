@@ -1,14 +1,14 @@
 ---
-title: "Kuantan"
+title: Kuantan
 type: location
-latitude: 3.797449
-longitude: 103.321919
+latitude: 3.7974
+longitude: 103.3219
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Kuantan, the state capital of Pahang, is fast gaining popularity as a beach resort. The region around Kuantan is also well known for village festivals and for the craft of weaving pandanus leaves into mats, hats and baskets. Woodcarving and batik are also traditional crafts in this part of the country.
- Asia's first Club Mediterranée holiday village is in [Cherating](/asia/malaysia/kuantan/cherating), about 45 km (30 miles) north of Kuantan. Also in the region is Malaysia's answer to Loch Ness, Lake Chini, in whose waters mythological monsters are said to lurk, guarding the entrance to a legendary sunken city.
- 
+Kuantan is the capital of Pahang, [Malaysia](/asia/malaysia)'s largest state, sitting on the east coast facing the South China Sea. It is a working Malaysian city rather than a tourist resort, but the surrounding region has good beaches, traditional crafts, and access to some of Pahang's natural attractions.
 
-## Destinations in Kuantan
+The main beach is Teluk Cempedak, a sheltered bay a few kilometres from the city centre with a decent strip of sand and a handful of hotels and restaurants. The region is known for its traditional crafts — pandanus leaf weaving, woodcarving, and batik — and village festivals. [Cherating](/asia/malaysia/kuantan/cherating), about 45 kilometres north, is the better-known beach destination, home to Asia's first Club Med and a laid-back stretch of coast popular with backpackers and surfers.
 
-[Cherating](/asia/malaysia/kuantan/cherating)
+Lake Chini, inland from Kuantan, is a freshwater lake system surrounded by jungle, the subject of local legends about a sunken city guarded by mythological creatures. Gua Charas, a cave temple set into a limestone cliff, is an easy half-day trip from the city.

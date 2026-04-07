@@ -5,14 +5,10 @@ latitude: 39.763257
 longitude: 46.75115
 ---
 
-Shusha (Şuşa) is a town in [Nagorno-Karabakh](/europe/azerbaijan/nagornokarabakh) region of Azerbaijan.
+Shusha (Şuşa) sits at 1,400 metres on a rocky ridge in the Lesser Caucasus, 11 kilometres north of Khankendi/Stepanakert. It is the city that both Azerbaijanis and Armenians regard as the symbolic heart of the Karabakh conflict: Azerbaijanis see it as the cultural capital of their nation, the birthplace of their classical music tradition; Armenians called it Shushi and held it as a key stronghold for nearly three decades.
 
-Shusha was the second largest town in Nagorno-Karabakh, predominatly populated by Azeris. Situated 1400-1800 m above the sea level on picturesque Karabakh mountains rigde, Shusha was a popular mountainous-climatic recreation resort during Soviet Union.
+Azerbaijan captured Shusha in May 2020 during the 44-day war, and it has since become the centrepiece of the country's reconstruction effort in Karabakh. Significant parts of the old city, heavily damaged in the conflict, are being rebuilt. The scale of reconstruction is striking — the old bazaar area, mosques, and cultural buildings are being restored under heavy government investment.
 
-According to the last population census in 1989, the town of Shusha had a population of 17,000 and the Shusha district had a population of 23,000. 91.7% of population of Shusha district and 98% of the town of Shusha were Azerbaijani.
+**What to see:** The 18th-century Khan's Palace, the Govhar Agha mosque complex, and the old fortress walls give a sense of the city's historical importance. Jidyr Düzü — a natural plateau just outside the city — is a beautiful open expanse used for the annual equestrian festival. The panoramic views over the surrounding mountains are exceptional.
 
-Shusha was founded in 1750-1752 by Panah khan Javanshir, the founder of the Karabakh khanate (1747-1822) as its capital. Initially the town was named after its founder Panahabad (town of Panah). Later Ibrahim Khalil khan, son of Panah khan renamed the town Shusha, supposedly after the name of the nearest village of Shushukent. The town was also largely known by the name "Qala" (castle in Azeri).
-
-Considered to be a historical capital of the Karabakh region, Shusha was one of the cultural centers of Azerbaijan. It was home to many Azeri intellectuals, poets, writers and especially, musicians. In 1977 it was declared reservation of Azerbaijan architecture and history.
-
-With the start of the Armenian-Azeri conflict in 1988 Shusha became the most important Azeri stronghold in Karabakh. In May 8, 1992 the town was captured by Armenian forces and Azeri population fled. Today a large part of the town remains in ruins.
+**Getting there:** Shusha is accessible by road from Baku via the new Lachin corridor road, roughly a 4–5 hour drive. Access to the Karabakh region requires advance registration with Azerbaijani authorities; check current entry requirements before travelling as procedures continue to evolve.

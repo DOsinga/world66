@@ -3,14 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Road Town is the best little town on the island where there are places to eat. Hotels usually have restaurants of their own.
+Road Town has the best concentration of restaurants on the island, ranging from local roti shops and fish stalls to sit-down places around the marina. Most hotels have their own restaurants, and several of the better meals on the island are eaten at fort- or beach-side hotel dining rooms.
 
-Minor corrections on 19 May 04
-
-**all**
-
-**Carrot Bay Resort**
-
-There's a Resort in Carrot Bay (next to long bay) where there is the most lovely dining. It's right on the water next to a sandy beach and you can watch the sunset and the surfers come in. Just don't order a glass of milk (it's whole milk and ice)
-
-address: Carrot Bay
+The beach bars at Cane Garden Bay are the social heart of the island for visitors. Go in the evening when the fishing boats are in and the bars are busy — food here leans toward grilled fish and lobster, and the local rum drinks are cheap and strong.

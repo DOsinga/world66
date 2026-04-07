@@ -3,18 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-'The Star of India' (calle Cochabamba no.170 - near Sol y Luna) is one of La Paz's newest restaurants. Styled as a British Curry House it has a small but delicious menu of all your favourite curries.
+La Paz has better restaurants than its reputation suggests. The Sopocachi neighbourhood is the best area to look — a grid of streets between Plaza Avaroa and Avenida 6 de Agosto with everything from cheap set-lunch places to international restaurants that would hold their own in bigger cities. The Mercado Lanza and other food markets are the places to eat like a local: hot soup, salteñas (Bolivia's answer to an empanada), and the filling two-course almuerzo that most market stalls serve until mid-afternoon for around 15 bolivianos.
 
-WARNING - make sure you reserve a table as especially on friday & saturday it tends to get very busy!
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A note on altitude and appetite: the thin air can suppress hunger for the first day or two. Eat small amounts, stay hydrated, and avoid heavy meals in the first 24 hours.

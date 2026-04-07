@@ -5,18 +5,10 @@ latitude: 51.899569
 longitude: -2.071156
 ---
 
-Cheltenham is a great town and your best starting place for exploring the [Cotswolds](/europe/unitedkingdom/england/gloucestershire/cotswolds). The old spa town of Cheltenham has a first class range of accommodation, restaurants, theatres and shops. As winner of "Beautiful Britain in Bloom", Cheltenham is renowned for its gracious Regency architecture, colourful parks and floral decorations.
+Cheltenham is the most sophisticated town in the county and the obvious base for exploring the [Cotswolds](/europe/unitedkingdom/england/gloucestershire/cotswolds). It became fashionable after George III took the waters here in 1788, and the Regency building boom that followed left it with wide tree-lined streets, ornate ironwork balconies, and a sense of confident elegance that has worn well.
 
+The spa is still operating in a fashion: the Pittville Pump Room, set in its own parkland, will let you drink the mineral water if you want to know what all the fuss was about. The Cheltenham Art Gallery and Museum holds one of the best collections of Arts and Crafts furniture outside London. The town also has a strong literary and musical tradition — the Literature Festival in October and the Jazz Festival in April both draw serious programmes.
 
- The spa waters, which brought fame and royalty to Cheltenham can still be taken at the Pittville Pump Room. Set amongst beautiful lakes and parkland, this building has somewhat erratic opening hours but is worth a visit. There are a few interesting museums in town as well - of special note is the Arts & Crafts Collection at the Art Gallery & Museum.
+Cheltenham Racecourse is world-famous as the home of National Hunt racing, and the Cheltenham Festival in March is one of the great sporting occasions in the British calendar. If you are here at the wrong time of year, the racecourse is still worth a look for the architecture alone.
 
-
- 
- If you are into horse racing, Cheltenham offers 16 races a year. The magnificent Cheltenham Racecourse, known across the world as the home of National Hunt racing, is the place to go. The racing season lasts from October to April. 
-
-
- 
- 
- 
- 
- Within the town centre there are many small shops. The tree-lined Promenade is home to some of the best known fashion names, such as House of Fraser, Liberty, Laura Ashley and Jaeger. For small boutiques head for the area of Montpellier and The Suffolks where individual boutiques mix happily with antique shops, cafes and specialist craft establishments.
+For shopping, the Promenade has the department stores; for something more interesting, head to Montpellier and the Suffolks, where independent boutiques, antique shops, and good cafes cluster around the Regency squares.

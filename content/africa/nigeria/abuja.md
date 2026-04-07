@@ -1,20 +1,14 @@
 ---
-title: "Abuja"
+title: Abuja
 type: location
 latitude: 9.064331
 longitude: 7.489297
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Abuja is the new Federal Capital of Nigeria. The idea was conceived in 1975 and the seat of government formally moved to Abuja from Lagos in 1992. It was intended to be developed in four phases. The first phase had so far been completed.
+Abuja is Nigeria's purpose-built federal capital, conceived in 1975 and officially inaugurated in 1991 to replace the overcrowded Lagos. Sitting at the geographic centre of the country, the city was designed from scratch on a blank plateau — wide boulevards, modern government ministries, and an orderliness unusual for West African capitals. It is cleaner, quieter, and more expensive than Lagos, and noticeably more relaxed.
 
+The city's centrepiece is Aso Rock, a 400-metre granite monolith that looms behind the Presidential Villa and dominates the skyline from much of the city. Around it, the Maitama and Asokoro districts are home to embassies, luxury hotels, and the kind of restaurants that cater to diplomats. Wuse and Garki are more workaday, with markets, cheaper restaurants, and street food stalls. The sprawling Gwarimpa district to the north has grown into a city within a city, popular with a younger, entrepreneurial crowd.
 
- In a few years the city will have a few million inhabitants, but right now there are only a few hunderd thousand. This means that the city is pretty spread out and there are a lot of half empty spaces.
-
-
- There aren't a whole lot of sights in Abuja (yet), the main Mosque is pretty enough, but non muslims are not allowed in and the guards are not alwyas very welcoming. Close to Abuja you find [Zuma Rock](/africa/nigeria/zumarock), which looks like a pale version of Ayers Rock. The local population used to attribute magical power to the rock. You can see it on the way from Abuja to [Kaduna](/africa/nigeria/kaduna) - the same road brings you to [Zaria](/africa/nigeria/zaria) and [Kano](/africa/nigeria/kano). 
-
-
- Abuja has an ultra modern Airport - Nnamdi Azikiwe International Airport named after the first president of Nigeria. The first phase of the international wing had been commissioned and is now operational while the smaller domestic terminals have been in operation since the early 80s.
-
-
- Abuja is located at the centre of Nigeria and is bounded by Kogi, Niger, Kaduna and Nassarawa States.
+For most visitors Abuja is a transit stop or a business destination rather than a holiday in itself. There are limited traditional sights, and the city's youth means it lacks the deep history of Kano or Calabar. But it has good international restaurants, a lively bar scene, and makes a reasonable base for visiting Zuma Rock — the giant granite outcrop 80 kilometres north on the road to Kaduna, which features on the Nigerian 100-naira note and is hard to miss if you're heading north.

@@ -11,7 +11,7 @@ from django.utils.safestring import mark_safe
 
 from .models import (
     CONTENT_DIR, NAV_TYPES, find_tagged_pois,
-    load_page, load_tag_index, resolve_tag_route,
+    load_page, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -72,6 +72,12 @@ def location_or_section(request, path):
     if context_nav:
         nav_siblings = context_nav.tagged_pois()
 
+    # Contextual URL prefix for POI links on nav pages (section/neighbourhood/theme).
+    # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
+    poi_context_prefix = None
+    _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
+    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
+        poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
@@ -127,6 +133,7 @@ def location_or_section(request, path):
         "tags": page.tags,
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
+        "poi_context_prefix": poi_context_prefix,
     })
 
 

@@ -1,20 +1,16 @@
 ---
-title: "Eysturoy"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 62.19887
 longitude: -6.817845
+title: Eysturoy
+type: location
 ---
 
-Travel Guide
+Eysturoy is the second largest of the Faroe Islands and home to Slættaratindur, the highest peak in the archipelago. It rewards exploration — the landscape shifts from dramatic sea cliffs and mountain passes in the north-west to quieter, bird-rich wetlands in the south.
 
-This is the second largest island with the highest mountain. There
-is a fabulous mountain road between Eiði, in the north-west of the
-island, and Gjovk, a village where there is a remankable cleft in the
-rocks forming a relatively sheltered harbour.
+The mountain road between [Eiði](/europe/faroeislands/eysturoy/noroyggjar/eii) and [Gjogv](/europe/faroeislands/eysturoy/gjogv) is one of the finest drives in the Faroes. At one point a free public telescope is trained on the sea stacks of Risin and Kellingin — a troll and a witch, according to legend — rising from the Atlantic below. The road itself, threading through high moorland with sea views in every direction, is reason enough to come.
 
-There are other delightful roads in the north-east leading to
-Elduvik and Oyndarfjordur, the site of rocking stones in the sea - the
-stones being a bit underwhelming but the road and the village doing far
-more than compensating.
+The north-east of the island is equally striking. Roads lead out to the villages of [Elduvik](/europe/faroeislands/eysturoy/elduvik) and Oyndarfjørdur through a succession of hanging valleys. At Oyndarfjørdur, look for the rocking stones on the foreshore — modest in themselves, but the village and the fjord surrounding them are anything but.
 
-The south of the island is supposedly less dramatic but has a lake near Nes highly recommended for bird watching.
+In the south, the lake near Nes is well regarded for birdwatching, particularly for waders and waterfowl.

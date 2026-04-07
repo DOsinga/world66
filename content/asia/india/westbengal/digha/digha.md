@@ -1,8 +1,10 @@
 ---
-title: "Digha"
+title: Digha
 type: location
 latitude: 21.623077
 longitude: 87.508253
+done:
+  location_cleanup: 2026-04-08
 ---
 
 *Asia > India > West Bengal > Digha*

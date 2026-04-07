@@ -1,15 +1,8 @@
 ---
-title: "La caracola"
+title: "La Caracola"
 type: poi
-address: "Porlamar city"
-latitude: 39.967087
-longitude: -74.2459
+latitude: 10.9580
+longitude: -63.8510
 ---
 
-Located nearby Porlamar. You can find several beach clubs and restaurants, where you will be able to eat and enjoy your day with the whole family. A good option if you are staying in Porlamar and don't want to go far away.
-
-
-
-
-
-address: Porlamar city
+A convenient beach close to Porlamar with beach clubs and restaurants. Not the island's most scenic stretch of sand, but a good option if you are staying in town and want a quick beach day without travelling far. Facilities are decent and it works well for families.

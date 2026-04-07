@@ -1,15 +1,19 @@
 ---
-title: "Auckland"
+title: Auckland
 type: location
-latitude: -36.852095
-longitude: 174.76318
+latitude: -36.8521
+longitude: 174.7632
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Auckland is situated on a narrow isthmus, bounded by two harbours - the Waitemata and the Manukau - at the southern end of the Auckland Peninsula. 
+Auckland sprawls across a narrow isthmus between two harbours, built on and around some fifty volcanic cones. It is New Zealand's largest city by far, home to roughly a third of the country's population, and the place where most international visitors first set foot in the country.
 
-Auckland is the main gateway to New Zealand and the centre of commerce and industry. With a population of about one million, it is New Zealand's largest urban area. Auckland offers something for everyone - great beaches, a beautiful harbour, fantastic shopping (head to Ponsonby Road for unique clothing, jewellery and furniture), and the nightlife and culture of a metropolitan city. Try the great resaurants in the regenerated Viaduct area, or for trendier hangouts venture to K'Road where some of the coolest bars and clubs in New Zealand exist next to massage parlours and bottle shops.
+The city's character comes from the water. The Waitemata Harbour opens north to the Hauraki Gulf, dotted with islands and ringed by beaches. Auckland calls itself the City of Sails, and on any given weekend the harbour is thick with yachts. The waterfront Viaduct Basin, once a working wharf district, now holds restaurants and bars with views across to Devonport and Rangitoto Island.
 
-Right on Auckland's doorstep is the magnificent Hauraki Gulf stretching in a great 250km sweep of coastline north and south of the city. Known as the City of Sails, Auckland was the home of the America's Cup, yachting's greatest trophy.
+Away from the water, the neighbourhoods have distinct personalities. Ponsonby Road is lined with boutiques, cafes, and Victorian villas. Karangahape Road (K'Road) is grittier and more interesting, with independent bars, vintage shops, and some of the best live music in the country. The CBD itself is unremarkable, but the Auckland Art Gallery and the Auckland Museum up in the Domain are both worth a proper visit.
+
+The volcanic cones are the city's secret weapon. Mount Eden and One Tree Hill give panoramic views across both harbours, and you can walk up either in twenty minutes. For something wilder, take the ferry to Rangitoto Island, a young volcanic island covered in pohutukawa forest, and hike to the summit.
 
 ## Destinations in Auckland
 

@@ -3,18 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-**by air:**
+Davos is tucked deep in the Graubünden Alps, so getting there takes a bit of effort from any direction. The journey is part of the experience, especially by train.
 
- Zürich Kloten is the most convenient airport to Davos. If you are flying Swiss Air, you may request that your luggage be shipped directly to your hotel.
+**By train:** The Swiss rail network connects Zurich to Landquart in about 90 minutes. At Landquart you transfer to the narrow-gauge Rhaetian Railway (Rhätische Bahn), which climbs through spectacular alpine scenery to Davos in another hour. Trains run roughly every hour. The line stops at both Davos Dorf and Davos Platz. From Zurich Airport, allow about three hours door to door.
 
-   **by car:**
+**By car:** From Zurich, take the A3/A13 south to Landquart, then follow Route 28 southeast up the valley to Davos. The drive is about 150 km and takes two to two and a half hours depending on conditions. Parking in Davos is limited and expensive, and you won't need a car once you are there — the local bus system is included with your guest card.
 
- If you rent a car, go south along N3 Expressway until you reach Landquart. Then go southeast along Route 28 to Davos. Expect the drive of 148 kilometers (92 miles) to be two to two-and-a-half hours, depending on road conditions. Parking in Davos is expensive and scarce.
-
-  **by train:**
-
- Most travelers rely on the Swiss train system, which is notoriously reliable and comfortable. Make certain you have your reservations booked ahead of time. A train runs from the airport to the Zürich train station. The trip along Lake Zürich from Zürich to Landquart takes about three hours. If you are going directly to Davos, you will need to transfer at Landquart to the narrow-gauge Rhätische Bahn (Rhaetian Railroad). Trains leave just about every hour. You will probably be traveling at night, so you won’t be able to see the extraordinary scenery as you rise up into the Alps. (You’ll get your chance on the way back.) The train stops in both Davos Dorf and Davos Platz.
-
-  Geneva, over 500 kilometers (310 miles) away, is an alternate connection point. Since there is no direct line and you must travel through the high Alps, it could take almost a day to reach Davos. If this idea scares you, Swissair offers flights to Zürich.
-
-  All this content and information is provided through a partnership with SkiEurope
+**By air:** Zurich Airport is the most convenient gateway. There is no closer commercial airport. In winter, transfer services run direct shuttles from Zurich Airport to Davos.

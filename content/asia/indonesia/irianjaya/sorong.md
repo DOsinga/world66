@@ -1,23 +1,12 @@
 ---
 title: "Sorong"
 type: location
-latitude: -0.86341
-longitude: 131.25448
+latitude: -0.8634
+longitude: 131.2545
 ---
 
-Sorong is definitely not a tourist town. The town of Sorong is a fading
+Sorong sits at the westernmost tip of the Bird's Head Peninsula, a fading oil town with rusting tin roofs stretching along eight kilometres of coastline. It is not a place anyone comes to for its own sake.
 
-oil center, with rusting tin roofs that stretch along eight km of seashore
+What brings people here is Raja Ampat. The archipelago of over 1,500 small islands to the west and south of Sorong has some of the richest marine biodiversity on the planet, and Sorong is the only gateway. Boats to Raja Ampat depart from the port daily.
 
-at the westernmost tip of the Bird’s head. We can say that the
-
-town is fully with disco nightlife while for daylight activities are
-
-strict business. There are some good beaches and islands to visit. In
-
-Sorong, you may also found the Japanese monument who died here in the
-
-World War II and casuarinas trees which grow in the area.
-
-**Contributors**
-March 30, 2005
+The town itself has little to see beyond a Japanese war memorial and some pleasant beaches on the nearby islands. Most travellers spend a night here at most, arranging their Raja Ampat permits and boat transfers before heading out.

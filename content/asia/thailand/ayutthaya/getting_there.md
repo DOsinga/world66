@@ -3,31 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-The town of Ayuthaya can be reached by rail from Bangkok, from Hualamphong Train Station. One way express train ticket is 235 Baht. The train also calls at Don Muang Train Station opposite the airport, so you can also ride to Ayuthaya upon arrival.
+Ayutthaya is an easy trip from Bangkok. Trains run frequently from Hua Lamphong station (about 1.5 hours, under 100 baht for third class). The train also stops at Don Mueang station, opposite the airport, so you can head straight to Ayutthaya on arrival.
 
-Alternatively, you can take an air-conditioned coach from the North/Northeastern Bus Terminal near the Chatuchak Weekend Market for 55 Baht.
+Air-conditioned buses leave from Bangkok's Northern Bus Terminal (Mo Chit), near Chatuchak Weekend Market. The ride takes about an hour and a half depending on traffic.
 
-**Contributors**
-January 22, 2006
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=asia|southeastasia|thailand|ayutthaya)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Minivans are faster and depart from Victory Monument. They are more cramped but get you there in about an hour. From Ayutthaya's bus or train station, a tuk-tuk to the historical park takes ten minutes.

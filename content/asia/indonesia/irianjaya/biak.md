@@ -1,33 +1,12 @@
 ---
 title: "Biak"
 type: location
-latitude: -1.183609
-longitude: 136.081632
+latitude: -1.1836
+longitude: 136.0816
 ---
 
-Biak is the name of the island and a town on the island just north of Irian Jaya or today call as Papua.
+Biak is both an island and a town off the north coast of Papua, sitting in Cenderawasih Bay. The town itself is compact and not especially scenic, but Biak is one of the main transport hubs for the region, with regular flights to Jayapura and Jakarta.
 
-Biak is a compact town with no sights of special interest, although
-you can spend an afternoon in the Cenderawasih museum. Biak is however
-one of the main transport hubs for Irian Jaya. There are regular
-flights to Jayapura and Jakarta.
+The island has a rich World War II history. Japanese soldiers hid in caves that you can still visit, and the Cenderawasih Museum has a collection of wartime relics and Papuan artifacts worth an afternoon.
 
-The island has some pretty good beaches in Bosnik and Korim. in Wardo you can take a boat trip to the Wapsdori Waterfalls.
-
-Biak is the best-known of the former scouted island and the most populated.
-
-A town was built on the coral of the island of cenderawasih bay. The
-
-island rich in history and natural beauty such as Japanese solider cave,
-
-and museum full of relics. Further out from the town, one encounters
-
-beautiful waterfalls and reefs. There are some good beaches on Biak
-
-Island, the most popular of which are Bosnik on the east coast, good
-
-for swimming and skin-diving, and Korem on the north coast, where one
-
-can watch young men dive for pearls. Supiori Island, just north of Biak,
-
-has a recreation forest and villages where visitors are welcome.
+The best beaches are at Bosnik on the east coast, good for swimming and snorkelling, and Korem on the north coast, where you can watch young men dive for pearls. Further out, the Wapsdori Waterfalls near Wardo make a good day trip by boat. Supiori Island, just north of Biak, has a recreation forest and welcoming villages.

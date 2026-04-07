@@ -1,8 +1,16 @@
 ---
-title: "Billings"
+title: Billings
 type: location
-latitude: 45.787496
-longitude: -108.49607
+latitude: 45.7833
+longitude: -108.5007
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Billings is the largest city in Montana and is host to many interesting and historic events. You can experience a wide variety of things to do in Billings, anything from The world famous NILE rodeo to a quiet visit to the Yellowstone art museum. Billings is known as the "Magic City" due to it's rapid growth. Billings sits in the middle of the Yellowstone valley which was home to Native Americans as long as 10,000 years ago and later by trappers. Billings was established in 1882 by the Northern Pacific Railway and named for the president of the railway, Frederick Billings. The city's history includes the famous as well as the infamous. One of the more colorful charecters was cigar-smoking, gun toting Martha Cannary, better known as Calamity Jane, a pal of Wild Bill Hickok. There is a wealth of history to be found in and around Billings. If you love the western lifestyle you will like Billings. There is no shortage of sports and recreation either. Billings is home to it's own first rate hockey team, basketball and baseball teams. You will just not run out of things to do here in Billings. Billings is located in south central Montana at the junction of Interstate 90 and 94.
+Billings is Montana's largest city and the hub of the Yellowstone Valley. Known as the "Magic City" for the speed at which it sprang up after the Northern Pacific Railway arrived in 1882, it still carries that frontier energy -- a working western city where rodeo is not a novelty act and the landscape beyond the city limits is genuinely vast.
+
+The city sits on the Yellowstone River beneath the sandstone cliffs of the Rimrocks, which give Billings its most distinctive feature: that abrupt edge where city meets sky. From up on the Rims, you can see the Beartooth Mountains to the southwest and the plains rolling out to the east. It is a view that explains why people settled here.
+
+Billings is not a tourist town, and that is part of its appeal. It is a real place with real steakhouses, a decent arts scene anchored by the Yellowstone Art Museum, and easy access to some of Montana's most interesting historical sites. Pictograph Caves, just south of the city, preserve rock art going back 2,000 years. The battlefield at Little Bighorn is an hour east. Chief Plenty Coups State Park, the home of the last chief of the Crow Nation, is a short drive south.
+
+If you are passing through Montana on I-90 or I-94, Billings makes a natural stopping point. If you are here for a few days, the combination of western heritage, wide-open surroundings, and unpretentious hospitality makes it a place worth getting to know.

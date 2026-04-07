@@ -3,6 +3,4 @@ title: "Day Trips"
 type: section
 ---
 
-We currently have no Day Trips listed in Koh chang.
-
-If you do know any Day Trips in Koh chang, please [Add].
+The Koh Chang archipelago has over 50 islands, and the smaller ones make excellent day trips. [Koh Kood](/asia/thailand/kohchang/koh_kood) and [Koh Mak](/asia/thailand/kohchang/koh_mak) are the most popular, reachable by speedboat from Bang Bao pier on Koh Chang's southern tip.

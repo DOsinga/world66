@@ -1,4 +1,0 @@
----
-title: "Beaches"
-type: section
----

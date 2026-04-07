@@ -1,20 +1,14 @@
 ---
-title: "Getting There in Badajoz"
+title: "Getting There"
 type: section
 ---
 
-**BY TRAIN
+Badajoz sits on the Madrid-Lisbon corridor, about 400 km from Madrid and 200 km from Lisbon. The city has its own small airport 12 km from the centre, with flights to Madrid and Barcelona.
 
-**Trains are avaiable from MAdrid to Badajoz. RENFE ( [www.renfe.es)](/europe/spain/extremadura/badajoz/practical_informat). The trip uses to take around 6 hours. We recommend you to take TALGO and try to save some time.
-**
-BY AIR**
+**By train** -- RENFE runs services from Madrid to Badajoz, taking around five to six hours. The Talgo service is faster and more comfortable.
 
-Airport in Badajoz is 12 km from city center. Flights from Barcelona & MAdrid daily ( www.iberia.com and www.airnostrum.com)
+**By air** -- Badajoz airport (BJZ) has daily connections to Madrid and Barcelona operated by Iberia and Air Nostrum.
 
-**
-BY CAR**
+**By car** -- The A-5 motorway (Autovia de Extremadura) connects Badajoz directly to Madrid. From Lisbon, take the A6/A2 across the border via Elvas.
 
-400 km from Madrid & 200 Km from Lisbon. There is the motorway Autovía de Extremadura (A5) when you leave Madrid. if you want to arrive by bus, we recommend you to take it at Autores Station in Madrid (www-auto-res.net) or in Estaçao de Oriente in Lisbon.
-
-**Contributors**
-February 12, 2007
+**By bus** -- Regular services run from Madrid's Estacion Sur. The journey takes about four and a half hours.

@@ -1,10 +1,10 @@
 ---
 title: "Juan Griego"
 type: location
-latitude: 11.072075
-longitude: -63.965196
+latitude: 11.0821
+longitude: -63.9652
 ---
 
-This is a small but very famous town for only one thing: Its terrific sunshine! There's no better place to watch the sun falling down. Juan Griego is placed in a small bay with an old and tiny spanish fort. It'll be for sure one of you're favorite places.
+Juan Griego is a small fishing town on the north coast of Margarita, famous for one thing: its sunsets. The bay faces west and the sun drops straight into the water, framed by the hills on either side. People gather at the waterfront restaurants each evening to watch.
 
-Minor corrections on 03 April 04
+Above the town sits Fortín de la Galera, a small Spanish fort from the independence wars. The views from up there are worth the short climb even outside of sunset hour. The town itself is quiet and unhurried -- a pleasant contrast to the busier south coast.

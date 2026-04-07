@@ -1,15 +1,8 @@
 ---
 title: "Playa Parguito"
 type: poi
-address: "Margarita northeast"
-latitude: -13.009849
-longitude: -38.488049
+latitude: 11.1350
+longitude: -63.8590
 ---
 
-Nowadays one of the fashion beaches. Smaller than Playa El Agua, nice waves, it is the surfer's choice. Very good restaurants and kiosks with unsalted water showers.
-
-
-
-
-
-address: Margarita northeast
+Just south of Playa El Agua, Parguito is the surfers' beach -- shorter and with consistently good waves. The crowd skews younger and the atmosphere is more laid-back than its famous neighbour. Several beachfront restaurants serve fresh fish, and there are showers with fresh water available.

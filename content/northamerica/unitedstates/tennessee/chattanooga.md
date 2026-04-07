@@ -1,20 +1,16 @@
 ---
-title: "Chattanooga"
+title: Chattanooga
 type: location
-latitude: 35.045722
-longitude: -85.309488
+latitude: 35.0457
+longitude: -85.3095
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Chattanooga is the site of three Civil War battles. It is nestled in a valley through which the Tennessee River runs. It used to be a highly industrial town, but now caters mostly to tourists.
+Chattanooga sits in a bend of the Tennessee River, wedged between the ridges of Lookout Mountain and Signal Mountain. It was a strategic prize during the Civil War -- three major battles were fought here in 1863 -- and spent much of the twentieth century as a gritty industrial town. The transformation since then has been remarkable. What was once one of America's most polluted cities now regularly appears on lists of the country's best small cities, with a revitalized downtown, a genuinely walkable riverfront, and outdoor recreation that punches well above its weight.
 
-Aside from the brand new Tennessee Freshwater Aquarium (they are currently building the Saltwater Aquarium) downtown, there is also nearby Lookout Mountain, Rock City (a bunch of caves and natural rock bridges that a rich woman made into a garden), Ruby Falls (a huge underground waterfall), and the Chattanooga Incline Railway.
+The riverfront is the anchor. The [Tennessee Aquarium](/northamerica/unitedstates/tennessee/chattanooga/things_to_do) draws most first-time visitors, but the real pleasure is the Riverwalk itself -- a 16-mile path along the water that connects parks, bridges, and neighborhoods. The Walnut Street Bridge, one of the longest pedestrian bridges in the world, links downtown to the North Shore, where Frazier Avenue has a cluster of independent shops and restaurants.
 
-Downtown there is also an IMAX Theater and a children's Discover Museum. There are many good restaurants downtown, opening in an area that is gutting the old factory buildings and rennovating them to make way for new shopping areas.
+Lookout Mountain is the other essential. You can ride the Incline Railway -- billed as the steepest passenger railway in the world -- to the top, then visit Rock City's ancient rock formations and gardens, or descend underground to Ruby Falls. The views from Point Park at the summit stretch across seven states on a clear day.
 
-A stroll along the Tennessee River downtown will lead you to the largest and oldest pedestrian-only bridge. At the north end of the bridge is a real school for wood carvers of carousel animals, and a carousel made by the students.
-
-Just north of Chattanooga is the Booker T. Washington State Park. It says you have to pay a car park fee, but as I understand it, that's only if you are putting your boat into the water and are leaving your car there unattended.
-
-There are many road signs for renting a log cabin in the mountains.
-
-Coolidge Park, Frazier Avenue
+Chattanooga is also a serious outdoor town. Rock climbing at the Tennessee Wall, hang gliding off Lookout Mountain, paddling on the river, and some of the best mountain biking in the Southeast are all within easy reach. The city's free electric shuttle buses make getting around downtown painless.

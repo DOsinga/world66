@@ -1,25 +1,18 @@
 ---
-title: "Alanya"
+title: Alanya
 type: location
-latitude: 36.886573
-longitude: 30.703024
+latitude: 36.5487
+longitude: 31.9994
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Alanya is a popular seaside resort in southern Turkey, about 150 km east of [Antalya](/asia/turkey/antalya). 
- To the east and west of Alanya you find some of the best beaches in Turkey, the Taurus Mountains provide a breathtaking backdrop to the north. Most of old Alanya lies on the great rocky promontory that juts out into the sea.
+Alanya is one of Turkey's most popular Mediterranean resort towns, perched on a dramatic rocky promontory about 150 km east of [Antalya](/asia/turkey/antalya). Where many Turkish coastal resorts are interchangeable strips of concrete, Alanya has something most of them lack: a genuine old town crowned by a massive Seljuk fortress, with history going back to the Romans and beyond.
 
-In the old town you find many old houses, towers and mosques, as well as a nice small harbour. At the waterfront there are plenty of friendly bars, tea-houses, cafes and restaurants with an excellent range of international and traditional cuisine.
+The town wraps around a steep headland that juts into the sea, dividing the coastline into two long sandy beaches. Cleopatra Beach stretches west, with coarse golden sand and clear water. Alanya Beach runs east, backed by the hotels and restaurants that serve the steady stream of European visitors. The Taurus Mountains rise sharply behind, giving the whole setting a scale that photographs never quite capture.
 
+Up on the promontory, the old town is a tangle of narrow lanes, Ottoman houses, and small mosques climbing toward the 13th-century castle at the summit. The views from the top take in the entire coastal plain, the fruit orchards, and the Ak Dagi massif to the north. Below the castle walls, sea caves and grottoes line the cliffs -- some reachable only by boat, others like Damlatas Cave accessible on foot.
 
- High above Alanya you find an impressive 14-th century citadel. Within its walls are quaint houses, mosques and a Byzantine church decorated with frescoes. There are twisting narrow alleyways tempting shoppers with their colourful boutiques and stalls of cheese-cloth dresses, carpets, copper and jewellery.
+The harbour area at the base of the promontory is where Alanya feels most alive. Tea houses, fish restaurants, and bars line the waterfront. The iconic Red Tower (Kizil Kule), an octagonal Seljuk defensive tower from 1226, stands guard over the old harbour. The atmosphere is relaxed and unhurried, even at the height of summer.
 
-
- 
- Below the citadel you find sea caves and grottoes. Some can only be reached by boat but you can walk up to the most famous, Damlatas or "Cape of Dripping Stones". The beautiful cave has a host of impressive stalactites and stalagmites with a moist warm atmosphere said to benefit asthma sufferers.
-
-
- 
- As well as its cultural and historical sights, Alanya has an unbeatable beach life too. Beautiful sandy Cleopatra beach lies to the west of the resort while the fine sands of Alanya beach stretch to the east. A good range of water-sports are available too.
-
-
- The nightlife is easy-going and relaxed with a wide choice of night-spots located at the edge of town. Take your pick from lively bars to late-night discos for real night-owls.
+Beyond the town, the coastline in both directions rewards exploration. The Dim Cayi valley, 15 km east, offers shade and riverside restaurants. The beaches at Avsallar (Incekum), 25 km west, are among the finest on this stretch of coast. Further east toward [Gazipasa](/asia/turkey/gazipasa), you will find quieter coves and the ruins of ancient Selinus, where the Roman emperor Trajan died in 117 AD.

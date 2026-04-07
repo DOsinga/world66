@@ -1,32 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-In the summer, you can go to the beach In Ulqin or you can go to the outside swimming pool in Germia.
-
-You can also go shopping down in the town center of Prishtina.
-
-In winter you can go skiing in the mountains of Germia.
-
-##
-
--
-
--
-
--
-
-[](/lib/map/handle?loc=europe|serbia|kosovoprovince|pristina)
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+Pristina's attractions are concentrated in the compact city center, easily covered on foot in a day. The mix of Ottoman, Yugoslav, and post-independence architecture tells the story of a city that has reinvented itself several times over.

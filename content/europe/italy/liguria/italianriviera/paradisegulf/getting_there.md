@@ -3,10 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Paradise Gulf, spreads out just thirty minutes from Genoa, the great seaport which offers ideal connection with its modern and well equipped air terminal, trains, the new cruiseship terminal, the motorway (and the exit to Recco leads straight to the heart of the gulf). 
+The Paradise Gulf is easy to reach from [Genoa](/europe/italy/liguria/genoa), just thirty minutes away by train or car.
 
-   **By train**: "Ferrovie dello Stato"/ Genova-Livorno railway .
+**By train:** The Genoa--La Spezia line stops at Bogliasco, Sori, Recco, and Camogli. Trains run frequently throughout the day. This is by far the easiest option -- parking along the coast is scarce in summer.
 
- **By car**: "A12" motorway (Genova-Livorno); S. S. 1 (Aurelia)  
+**By car:** Take the A12 motorway (Genoa--Livorno) and exit at Recco. The old Via Aurelia (SS1) follows the coast and is more scenic but slower.
 
- **Airport**: *Genoa (GOA) *(Cristoforo Colombo Sestri) (Web site: http://www.airport.genova.it) 6km (4 miles) west of the city (travel time – 20 minutes) has duty-free facilities. Buses are available to the city.
+**By air:** The nearest airport is Genoa Cristoforo Colombo (GOA), about 30 km west of Recco. From the airport, take a bus or taxi into central Genoa and pick up the coastal train from there.

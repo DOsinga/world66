@@ -1,34 +1,36 @@
 ---
-title: "Footpaths"
+title: Footpaths
 type: section
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The footpaths covering some areas of the Commune of Pontassieve have been mapped and are maintained by the Italian Alpine Club (CAI), and the footpaths of the SO.F.T. (Sorgenti Trekking Firenze) and local excursion groups (GEO) are maintained by the Mountain Community. These paths are marked with white and red signs or yellow signs:
+The hills around Pontassieve are laced with marked footpaths maintained by the Italian Alpine Club (CAI) and local hiking groups. White-and-red or yellow signs mark the trails. Most paths start from the valley floor and climb into chestnut and pine woods with views over the Arno and Sieve valleys toward Florence and the Chianti mountains.
 
-  West Sector, CAI footpaths, Nos. 2, 3 & 4
+## West Sector (CAI 2, 3, 4)
 
-  Footpath n. 2 starts from the Passo Croci dell’Alberaccio area (intersection with footpath 00), crosses the road at the Passo della Catena and passes through cultivated areas and pine woods towards Poggio Pratone (702m ) with a panoramic view of Florence: here it joins the footpath no. 3 which descends to the le Falle area.
+Footpath 2 starts from Passo Croci dell'Alberaccio, crosses at Passo della Catena, and climbs through cultivated land and pine woods to Poggio Pratone (702 m), where a panoramic viewpoint looks straight at Florence. From here it joins footpath 3, which descends to the Le Falle area.
 
-  Footpath no. 4 leads to the Castello di Monteloro, 480m, and the Romanesque Pieve.
+Footpath 4 leads to the Castello di Monteloro (480 m) and its Romanesque pieve — worth the detour.
 
-  North Ridge, CAI footpaths Nos. 00, 8, 5 & 4
+## North Ridge (CAI 00, 8, 5, 4)
 
-  Footpath no. 00 starts at Montesenario and continues towards the ridge of Monte Giovi. At Peretola there is a short and steep connecting path to n. 4. After a pleasant walk through the woods overlooking the North face, we reach the Cascina di Monterotondo [here footpaths no. 5 & 3 branch off], the path rises towards the hill of the ancient Tower of Monterotondo, and then descends through meadows towards Aceraia [where footpath no. 7 branches off]. At this point there is a steep uphill section leading to the peak of Monte Giovi, 992m, with a wide view over the Mugello area and the Chianti mountains. Footpath no. 00 then descends to the chapel of S. Giusto and along a rocky road to Acone. Here it goes northwards and descends in an eastwards direction to the Uscioli river and the River Sieve.
+The big one. Footpath 00 runs the full ridge from Montesenario to Monte Giovi (992 m), the highest point in the commune. The summit gives a wide panorama over the Mugello and Chianti ranges. From Monte Giovi, the path descends to the chapel of San Giusto and continues down to Acone, then drops to the Uscioli river and the Sieve.
 
-  From footpath no. 00 many other paths branch off, including no. 8 which leads to the Santuario della Madonna del Sasso (566m) and then continues downhill along an ancient paved road as far as S. Brigida, where there is an intersection with footpath no. 5 which climbs among the bushes of cistus laurinus (flower of the Madonna) only to be found in Italy in this area, until it reaches the footpath 00 on the ridge.
+Several side paths branch off footpath 00. Footpath 8 leads to the Santuario della Madonna del Sasso (566 m), then follows an ancient paved road downhill to Santa Brigida. Footpath 5 climbs through rare stands of cistus laurinus — one of the few places in Italy where this "flower of the Madonna" grows — to rejoin the ridge.
 
-  Please note that footpaths nos. 00, 4, 8 and 5 cross the Natural Protected Area of Local Interest (ANPIL) of Poggio Ripaghera-Santa Brigida, which has also been named as a Site of Community Interest, part of the European Ecological Network "Natura 2000".
+Note that footpaths 00, 4, 8, and 5 cross the ANPIL nature reserve of Poggio Ripaghera–Santa Brigida, part of the EU's Natura 2000 ecological network.
 
-  North-East Sector: CAI Footpaths nos. 10, 11, 11b, 12, 15, 13, 17 & 14
+## Northeast Sector (CAI 10–17)
 
- Footpath no. 11 descends towards Barbiana and Vicchio, no. 15 goes towards Dicomano, no. 12 is in the direction of Montauto and San Martino a Scopeto (Vicchio), no. 17 starts at Acone, travels through Poggio Lupaio and then descends through shady woods into the valley of the Uscioli river until it reaches footpath no. 00.
+A web of paths fans out from the ridge toward Barbiana, Vicchio, and Dicomano. Footpath 17 starts at Acone, crosses Poggio Lupaio, and descends through shady woods into the Uscioli river valley before connecting back to footpath 00.
 
-  Central Hills, CAI Footpaths nos. 7, 6 & 16
+## Central Hills (CAI 7, 6, 16)
 
-  Footpath no. 7 rises from Pontassieve (80m), behind the town along the Via del Capitano. It then follows the rural roads which rise towards Poggio Bardellone (490m) covered with pines and oaks. The footpath then follows the ridge that divides the Arno Valley from the Sieve Valley, passing by a mediaeval tabernacle and a Romanesque Pieve, and then by the ruins of the Montefiesole castle. It then reaches the Monterifrassine (368m) road and follows the surfaced road in a North direction, passing through Tigliano and the Hills. [connection with footpath n. 16]. It then descends to Galiga, where it goes uphill to the church and then through calanques until it reaches the country road leading to the Aceraia Cross (648m) [crossing footpath no. 6]. After 1 km it connects with footpath no. 00 following the main ridge.
+Footpath 7 starts right behind Pontassieve (80 m) and climbs steadily to Poggio Bardellone (490 m), through pines and oaks. It follows the ridge dividing the Arno and Sieve valleys past a medieval tabernacle, a Romanesque pieve, and the ruins of the Montefiesole castle. At Galiga it continues uphill to the Aceraia Cross (648 m) before joining the main ridge path.
 
- Footpath no.16 descends from the Footpath of the Hills [no.7] to Montalto Bianco and then into the valley of the Argomenna River. It then rises again to the high plain of the Castel d’Acone and then rises steeply to the town of Acone (477m).
+Footpath 16 drops from the ridge to Montalto Bianco, crosses the Argomenna river valley, and climbs steeply to Acone (477 m).
 
-  Communal Footpath GEO A -
+## GEO Path A
 
-  From the Sieci railway station, we go up the hill and around the grounds of a mediaeval-style presbytery. We then continue up the side of the Sieci valley, through rural roads and footpaths until we reach the Poggio delle Carpinete (302m). Then there is a steep descent into Molino del Piano, which we walk through until we reach the church, where there is an old road leading to the Torre a Decima Castle. The path then rises up the east side of the hill until it reaches the ruins of the Castello di Monte di Croce, and descends to Fornello, (401m). After crossing the municipal road, a steep rural road and the path take us up to the Cascina della Collina. After descending to the Galiga road [footpath 7] there is a section in a northwards direction which then turns sharp right towards Pagnalle, later descending into the valley of the Argomenna River, which it follows for a pleasant stretch, past ancient bridges and mills [and the crossing point with footpath no. 10], until it reaches the road for Montebonello, and thence to the Rufina railway station, along the footpath to the left of the Argomenna river.
+A full-day loop from Sieci railway station, climbing past a medieval presbytery to Poggio delle Carpinete (302 m), descending through Molino del Piano to the Torre a Decima castle ruins, and continuing to the Castello di Monte di Croce. The path then follows the Argomenna river past ancient bridges and mills before finishing at Rufina railway station — making a one-way walk with a train connection back perfectly feasible.

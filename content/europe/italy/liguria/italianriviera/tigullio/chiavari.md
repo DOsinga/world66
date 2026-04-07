@@ -5,4 +5,8 @@ latitude: 44.316449
 longitude: 9.323338
 ---
 
-Chiavari is the most important cty of Tigullio Gulf. There are about 30.000 people who live in it and it's probably one of the richest cities of the Italian Riviera. It is very interesting to shop in Chiavari because of its central pedonal street which contains many beautiful shops. In Chiavari there is a well-stocked museum of the Risorgimento period dedicated to Garibaldi and Mazzini. It is the home of the straw-chairs called “the town of arcades”: see for yourselves by taking a walk along the shopping centre of the old “Caruggio Dritto” where you can find a very busy antique market every second week-end of each month. After a stroll around the old part of the city look into the Palazzo Torriglia picture gallery and finish up relaxing on the beach.
+Chiavari is the commercial heart of the Tigullio Gulf — a prosperous town of around 28,000 people that has been important since medieval times. Its most distinctive feature is the long covered arcade of the old Caruggio Dritto, the main shopping street, where the colonnaded walkway shelters a string of independent shops, cafes, and an antique market held on the second weekend of every month.
+
+The old town is compact and pleasant to wander. Churches, palaces, and medieval tower-houses are scattered through the tight street grid, and the Palazzo Torriglia houses a respectable picture gallery. Chiavari is also famous for the lightweight straw chair that bears its name — the Chiavari chair has been made here since the early nineteenth century and was a design touchstone long before it became globally ubiquitous.
+
+A good beach stretches south of the harbour, backed by the usual resort infrastructure. The town is well connected by train — it sits on the main coastal line and makes a practical base for exploring the wider gulf.

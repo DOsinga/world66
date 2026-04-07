@@ -1,31 +1,8 @@
 ---
-title: "Getting There in Jomtien Beach"
+title: "Getting There"
 type: section
-address: "731 asoke dindaeng"
-email: "info@bangkoklimo.org"
-phone: "0813480241"
-type: "By Road"
-url: "www.bangkoklimo.org"
-latitude: 13.761019
-longitude: 100.555675
 ---
 
-Jomtien Beach can be reached by express bus, taxi or limousine service from Bangkok. From Bangkok Airport to Jomtien beach is about 90 minutes. from central Bangkok buses leave at regular intervals, journey time about 2 hours. Although most visitors travel through Bangkok to reach Jomtien Beach there are also flights from the Pattaya and Jomtien Beach area from Utapao Airport direct to Koh Samui and Phuket.
+Most visitors arrive via Bangkok. Express buses leave from Ekkamai (Eastern Bus Terminal) and take around two hours to reach [Pattaya](/asia/thailand/pattaya), from where a songthaew or taxi covers the final ten kilometres south to Jomtien. Taxis from Bangkok take roughly ninety minutes outside rush hour.
 
-### [Bangkoklimo](/asia/thailand/jomtien_beach/getting_there/bangkoklimo)
-
-Jomtien is famous beach in Pattaya, In former time,this beach is wellknown only for Thai People. Nowaday, there are a lot of highrise building as Hotel Accommodations. There are only many Thai people on the weekend as it is not far to drive from Bangkok. The beach also clean for swimming and enjoy playing other water sport.
-
-You can go there from the Airport by Bus and by Car. For your private transfer to make it comfortable, Please visit www.bangkoklimo.org for more information that can help you at all time.
-
-type: By Road
-
-
-
-tel: 0813480241
-
-url: [www.bangkoklimo.org](http://www.bangkoklimo.org)
-
-address: 731 asoke dindaeng
-
-email: info@bangkoklimo.org
+The closest airport is U-Tapao (UTP), about 30 kilometres south of Jomtien, with a growing number of domestic and regional flights. From Suvarnabhumi Airport in Bangkok, the drive to Jomtien takes around ninety minutes via the Motorway (Route 7).

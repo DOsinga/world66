@@ -1,8 +1,10 @@
 ---
-title: "Bitola"
+title: Bitola
 type: location
 latitude: 41.031601
 longitude: 21.330251
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Bitola is North Macedonia's second city, set in the wide Pelagonia valley close to the Greek border. It has a relaxed, unhurried feel that distinguishes it from [Skopje](/europe/macedonia/skopje), and its Ottoman-era central boulevard, Širok Sokak, lined with 19th-century buildings and cafe terraces, gives it more elegance than most Macedonian towns.

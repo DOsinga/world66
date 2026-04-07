@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Bitola"
+title: "Eating Out"
 type: section
 accessibility: "very good"
 address: "Magnolia Square"

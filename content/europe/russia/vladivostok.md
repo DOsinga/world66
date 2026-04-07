@@ -1,64 +1,14 @@
 ---
-title: "Vladivostok"
+title: Vladivostok
 type: location
-latitude: 43.115068
-longitude: 131.885577
+latitude: 43.1151
+longitude: 131.8856
+done:
+  location_cleanup: 2026-04-06
 ---
 
-**Vladivostok** is a pearl of the Russian Far East, its capital and the largest city with the population of 659'000 people. It was founded on July 2, 1860 by Colonel Paul F. Unterberger, a chief of engineering department of East Siberian military district.(For more details see History section).
+Vladivostok is the end of the line — 9,300 kilometres from Moscow by rail, the final stop on the Trans-Siberian Railway, and Russia's main Pacific port. The city sprawls across hills and peninsulas overlooking the Golden Horn Bay, and on a clear day you can see across to the mountains of China and North Korea.
 
-Once created as a citadel against enemies' invasion Vladivostok stood guard for many years. The city covers over 600 sq. km and lies on the shore of the Pacific Ocean at the Muraviyov-Amursky Peninsula, which is about 30 km long and approximately 12 km wide.
+Founded in 1860 as a military outpost and closed to foreigners throughout the Soviet era, Vladivostok has opened up considerably since the 1990s. The enormous cable-stayed Russky Bridge (completed 2012) connecting the mainland to Russky Island is the city's modern landmark, while the old town centre retains handsome 19th-century buildings from its merchant and naval past.
 
-
- The city has magnificent old and new buldings,monuments and a lot of other sights to wander around.
-
-****
-
-”The highest point is the Orlinoye Gnezdo Mountain (Eagle's Nest). The height of the Mountain is 214 m
-
-
- ” The mean annual temperature is +5 C, the temperature in January is -14 C, the temperature in August is +24 C 
- The annual precipitation is 765 mm
-
-
- ” Railroad distance to Moscow is 9302 km
-
-
- ” Direct distance to Moscow is 9302 km.
-
-
- ” Direct distance to Bangkok is 5600 km, to San_Francisco - 8400 km, to Seoul - 750 km, to Tokyo - 1050 km.
-
-
- ” Vladivostok is a sister-city of San-Diego and Tacoma (USA), Niiagata, Akita and Hakodate (Japan), Pusan (Korea) and Palyan (China).
- 
-
-**See also other cities of Russia:**
-
-
- 
- 
- 
- [Irkutsk](/europe/russia/irkutsk)
- [Kazan](/europe/russia/kazan)
- [Kizhi](/europe/russia/kizhi)
- 
- 
- [Moscow](/europe/russia/moscow)
- [Murmansk](/europe/russia/murmansk)
- [Novgorod](/europe/russia/novgorod)
- 
- 
- [Novosibirsk](/europe/russia/novosibirsk)
- [Orel](/europe/russia/orel)
- [Pyatigorsk](/europe/russia/pyatigorsk)
- 
- 
- St_Petersburg
- [Suzdal](/europe/russia/suzdal)
- [Tula](/europe/russia/tula)
- 
- 
- [Ulyanovsk](/europe/russia/ulyanovsk)
- [Vladimir](/europe/russia/vladimir)
- [Yakutsk](/europe/russia/yakutsk)
+The city feels closer to Seoul, Tokyo, and the rest of East Asia than to European Russia — Korean restaurants, Japanese cars, and Pacific seafood define the street-level experience. The Eagle's Nest viewpoint (Orlinoye Gnezdo) offers panoramic views over the city, the bay, and the Pacific. Winters are cold but bright; summers are warm and humid with fog rolling in from the sea.

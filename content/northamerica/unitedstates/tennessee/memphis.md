@@ -1,8 +1,10 @@
 ---
-title: "Memphis"
+title: Memphis
 type: location
 latitude: 35.146025
 longitude: -90.051764
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Memphis isn't so much a place as it is a feeling, a sound, a taste. It's the muggy warmth of a southern summer evening. It's the slow moan of a blues song or the eternal sounds of Elvis. It's the taste of barbecue, cornbread, and black-eye peas.

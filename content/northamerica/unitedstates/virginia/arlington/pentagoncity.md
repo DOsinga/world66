@@ -1,10 +1,12 @@
 ---
-title: "Pentagon City"
+latitude: 38.863
+longitude: -77.0594
+title: Pentagon City
 type: location
-latitude: 38.863042
-longitude: -77.059427
 ---
 
-The Fashion Centre at Pentagon City, located just moments from the nation's capital, and on the Washington DC Metro system, offers a world-class shopping experience where avenues of fashions and boulevards of style await. A scenic glass elevator ride to the Third Level reveals more than 170 fascinating stores and restaurants including Macy's, Nordstrom, Abercrombie & Fitch, Ann Taylor, Banana Republic, bebe, Cole Haan, Coach, Crate & Barrel, J. Crew, J.Jill, Jos. A. Bank Clothiers, Kenneth Cole, L'Occitane, MAC Cosmetics, Swarovski Crystal Gallery and Williams-Sonoma. The skylit Food Court features international specialties from the familiar to the exotic. Seven full-service restaurants also provide an additional selection of good food and atmosphere to make your trip complete. Love shopping? Visit The Fashion Centre at Pentagon City today. 
+Pentagon City is a dense urban neighborhood in South Arlington, built around the Pentagon City Metro station on the Blue and Yellow lines. It is the most vertically developed part of Arlington, with high-rise apartments and office towers rising above an interconnected network of shops and restaurants.
 
-Also, don't forget to visit Pentagon Row outside!
+The neighborhood's anchor is the Fashion Centre at Pentagon City, a large indoor mall with over 170 stores including Macy's, Nordstrom, Apple, Coach, and Williams-Sonoma. Pentagon Row, the open-air lifestyle center just across the street, adds more dining and retail in a livelier outdoor setting.
+
+Ronald Reagan Washington National Airport is a short walk or one Metro stop away, making Pentagon City a practical base for short visits to the capital.

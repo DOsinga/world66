@@ -1,6 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Arlington travel has never been easier! Besides having Reagan National Airport right in Arlington, there are several airlines flying into this airport that services not only Virginia, but Washington DC and Maryland as well. American, Continental, United, Northwest, and US Airways all offer service in and out of Reagan Airport. To find out driving directions, visit their website at metwashairports.com. The blue and yellow lines on the Washington Metro both stop right at the airport. If you decide to take Amtrak, you will have to arrive at either the Washington DC or the Alexandria, VA stations. Both have metrorail stops.
+Ronald Reagan Washington National Airport (DCA) sits right in Arlington, accessible via the Blue and Yellow Metro lines. It serves domestic routes from most major US cities.
+
+For international flights, Dulles International Airport (IAD) is about 45 minutes west by car or Silver Line Express bus. Baltimore/Washington International (BWI) offers a third option, reachable by MARC train or shuttle.
+
+If arriving by rail, Amtrak serves Washington Union Station across the river, with Metro connections into Arlington. From the north or south, I-395 and I-66 feed directly into the area, though expect heavy traffic during rush hour.

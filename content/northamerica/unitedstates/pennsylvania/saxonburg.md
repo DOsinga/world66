@@ -1,8 +1,10 @@
 ---
-title: 'Saxonburg'
+title: Saxonburg
 type: location
 latitude: 40.750601
 longitude: -79.814118
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Saxonburg is a small borough in Butler County, about 23 miles northeast of [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh). Founded in 1832 by German immigrants, the town has a quiet Main Street with a handful of restaurants and local businesses.

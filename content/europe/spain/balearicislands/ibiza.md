@@ -1,8 +1,10 @@
 ---
-title: "Ibiza"
+title: Ibiza
 type: location
 latitude: 38.97439
 longitude: 1.419746
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Ibiza, an island which is one in a thousand! It is undoubtedly popular within the international

@@ -1,14 +1,9 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Wines and Tapas** - Another way to sample the rich
-Lugo cuisine is by "tapeo", through the wide variety of "tapas" (little
-snacks) in bars and taverns which are customarily on offer, together
-with the typical cup of ribeiro or any other wine. The most common wine
-areas are: Plaza del Campo and nearby: Rúa da Cruz, Rúa Nova, Rúa
-Catedral. Recatelo: Near the Rosalía de Castro park. Zona de Milagrosa:
-in the north of the city. Campo Castelo: behind the city hall.
-
-Minor corrections on 11 March 05
+Lugo's old town is compact and walkable, and virtually everything worth seeing is either on
+or inside the Roman wall. The wall itself is the centrepiece: walk the full two-kilometre
+circuit on the sentry path for views over the city and the Miño valley. The cathedral and
+the Provincial Museum are both free to enter and within easy walking distance of each other.

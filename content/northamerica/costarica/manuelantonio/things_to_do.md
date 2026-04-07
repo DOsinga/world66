@@ -1,31 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-email: "info@oceansunlimitedcr.com"
-phone: "(506)7773171"
-type: "Diving"
-url: "www.oceansunlimitedcr.com"
 ---
 
-There are really fun adventures to do while in Manuel Antonio.
+Manuel Antonio packs an impressive range of activities into a small area. The national park is the obvious centrepiece, but the surrounding coast and rivers offer plenty to fill extra days.
 
-Some of the activites are; River Rafting on the Savegre , Kayaking the
-coast, Canopy Zip Lines, horseback riding, nature hikes, Diving and
-snorkeling.
-
-**Contributors**
-April 12, 2006
-
-### [Scuba and snorkelling in Quepos/Manuel Antonio](/northamerica/costarica/manuelantonio/things_to_do/scuba_and_snorkell)
-
-Pacific coast diving is awesome. You can learn to dive, advance your skills with loads of different courses or just come fun bubbling. Lots of wildlife, plenty of white tip reef sharks, rays and eels. Always big schools of jacks and surgeons. Its pretty much year round but vis is most reliable between december and may. If you want something thats a little bit more adventurous scuba diving is it! Kids can start with special adventure programs from as young as 8. If scuba may be a little too much adrenaline then, Snorkelling tours are great for the whole family as well with such [more..](/northamerica/costarica/manuelantonio/things_to_do/scuba_and_snorkell)
-
-type: Diving
-
-
-
-tel: (506)7773171
-
-url: [www.oceansunlimitedcr.com](http://www.oceansunlimitedcr.com)
-
-email: info@oceansunlimitedcr.com
+River rafting on the Savegre River suits all experience levels, with operators based in Quepos. Kayaking along the coast is a good way to reach beaches that are harder to access on foot. Canopy zip-line tours through the rainforest canopy are popular with all ages, and horseback riding through the hills offers a quieter perspective on the landscape. Inside the park, self-guided nature hikes are excellent — hire a local guide at the entrance if you want to actually spot the wildlife rather than walk past it.

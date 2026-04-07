@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: Things to Do
 type: section
 ---
 
-There are many Arlington activities, but one must include a visit to Arlington National Cemetery. Though most come to see The Tomb of the Unknown Soldier, there are nearly 100 gravesite ceremonies here in a week. There is a visitors center where maps, guidebooks, and directions to grave locations can be found. To get to Arlington National Cemetery, the blue line on the Washington Metro stops right at the entrance. The cemetery is open every day of the year. Please note that you will have to bring your own wheelchairs and strollers. For more information, visit their website at arlingtoncemetery.org.
+Arlington's main draw is its collection of national memorials and historic sites. Arlington National Cemetery alone could fill a day. The Marine Corps War Memorial (Iwo Jima) and the Netherlands Carillon sit nearby at the north edge of the cemetery, while the Pentagon Memorial offers a quiet, sobering tribute on the south side.

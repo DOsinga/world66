@@ -1,23 +1,16 @@
 ---
-title: "Norfolk"
-type: location
-latitude: 52.666667
+latitude: 52.6667
 longitude: 1.0
+title: Norfolk
+type: location
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+Norfolk is a large, largely flat county in the east of England, jutting into the North Sea between the Wash and the Suffolk border. It is one of England's least densely populated counties — a place of big skies, working farms, empty beaches, and enormous medieval churches left behind by a prosperous wool trade. The landscape is gentle and wide, with the Broads inland and long stretches of sand and salt marsh along the north and east coasts.
 
-Norfolk is the most northern county of East Anglia which contains the counties Essex, Suffolk, Norfolk & Cambridgeshire. Norfolk only contains one city, which is called Norwich. The are many towns, including:
+The county's only city is Norwich, a compact medieval centre with a Norman castle, a great cathedral, and a lively independent food and arts scene. Beyond Norwich, the county is a patchwork of market towns and villages: Cromer and Sheringham on the north coast, King's Lynn on the Wash, and dozens of smaller places in between.
 
-King's Lynn
-Hunstanton
-Downham Market
-Great Yarmouth
-Wells
-Cromer
-Sherringham
-Diss
+Norfolk is best known for two natural areas. The Norfolk Broads — a network of rivers, lakes, and marshes in the east — is England's largest protected wetland and a magnet for boating holidays. The North Norfolk Coast, designated an Area of Outstanding Natural Beauty, offers seal colonies, RSPB reserves, and some of the finest walking in the east of England.
 
-Norfolk is famous for it's food and is home of Delia Smith, who owns local football club Norwich City FC. Cromer is famous for it's crabs which make fantastic Crab Cakes.
-
-The Common Stereotype for Norfolk is Grumpy old Farmers.
+Food is taken seriously here. Cromer crabs, samphire from the salt marshes, mussels from Brancaster Staithe, and game from the great estates all appear on local menus. Norfolk is also famous as the home county of the Sandringham Estate, the Royal Family's country retreat near King's Lynn.

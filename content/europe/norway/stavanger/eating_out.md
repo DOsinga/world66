@@ -3,22 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
-
-**Cafe Sting**
-
-Very popular place. A restaurant, a café, nightclub and art gallery all in one.  The place to meet for good food and culture. Established in 1984.  
-
-fax: +47 51 89 15 25
-
-address: Valberget 3
-
-tel: +47 51 89 38 78
-
-**Galeien Bistro **
-
-Good fish restaurant. 
-
-address: Hundvågveien 27
-
-tel: +47 51 54 91 44
+Stavanger has earned a reputation as one of Norway's best eating cities — oil wealth brought an international workforce and the dining scene followed. The harbour area and the lanes around Øvre Holmegate have the highest concentration of good restaurants, ranging from fish bistros to spots with serious ambition.

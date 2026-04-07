@@ -74,7 +74,21 @@
   </div>
   {% endif %}
 
-  {% if pois %}
+  {% if nav_siblings %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {{ context_nav.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for poi in nav_siblings %}
+      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
+        <a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% elif pois %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
@@ -180,7 +194,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   <tbody>
     {% for poi in pois %}
     <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
-      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+      <td class="poi-table-name"><a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}">{{ poi.title }}</a></td>
       <td class="poi-table-details">
         {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
         {% for key, value in poi.properties.items %}

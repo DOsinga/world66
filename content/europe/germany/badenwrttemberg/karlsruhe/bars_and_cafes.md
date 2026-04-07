@@ -3,26 +3,20 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Some recommended bars:
-
-**Mood Bar & Lounge**
-
-Offers a unique James Bond like 70's atmosphere.
-Serves the best cocktails in town alongside international house dj's spinning on the weekends.
-
-**Lehner's**
-
-This bar is so good, everyone goes here from teenagers to aged men.
-Be sure to check out the happy hour for 1/2 price long islands from 9pm weekdays!
-
-**El Tequito**
-
-Best mexican themed bar.
-Great food and cocktails, perfect for a date.
+Karlsruhe has a lively bar scene centred around the Kaiserstraße and the student quarter near the university. The city's large student population keeps things going well into the night.
 
 **Badische Brauhaus**
 
-Get your mass (one liter glass) of this in house brewed nectar. This enormous traditional German drinking enterprise covers 4 floors, and hosts live music on the weekends.
+Four floors of traditional German drinking and in-house brewed beer. Get a mass (the full litre glass) and settle in — the brewery hosts live music on weekends and draws a wide mix of locals.
 
-**Contributors**
-February 22, 2006
+**Mood Bar & Lounge**
+
+A relaxed cocktail bar with a retro 1970s atmosphere. Known for strong mixed drinks and house DJs on weekends.
+
+**El Tequito**
+
+Mexican-themed bar with food and cocktails, good for a relaxed evening. Popular for dates.
+
+**Lehner's**
+
+A laid-back neighbourhood bar popular across age groups. Worth checking for happy hour deals on weekday evenings.

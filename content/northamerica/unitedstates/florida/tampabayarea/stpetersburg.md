@@ -1,17 +1,16 @@
 ---
-title: "St. Petersburg"
+title: St. Petersburg
 type: location
-latitude: 27.771226
-longitude: -82.634026
+latitude: 27.7712
+longitude: -82.634
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Well, you can have it either way: a stylish elegant city as you know them in Florida combined with a green garden city with boulevards, white beaches and a dark blue sea only at a ten minutes’ distance. As you might expect, St Petersburg attracts quite a hub of travellers who feel like relaxing at the seaside after a visit to [Florida](/northamerica/unitedstates/florida)’s Disneyland or its capital [Miami](/northamerica/unitedstates/florida/miami).
+St. Petersburg sits on a peninsula between Tampa Bay and the Gulf of Mexico, giving it water on three sides and one of the sunniest climates in the United States — the city holds the record for the longest consecutive streak of sunny days. It's a genuinely enjoyable city: more relaxed than Tampa across the bay, with a compact downtown, good museums, and beaches close enough to reach without a car.
 
+The **Salvador Dalí Museum** is the city's flagship attraction — the largest collection of Dalí's work outside Europe, housed in a dramatic building with a geodesic glass bubble. The **Museum of Fine Arts** on Beach Drive has a strong collection of American, European, and Pre-Columbian art. The **Florida Holocaust Museum** (fourth largest in the US) is a serious and moving institution.
 
- Snorkelling, swimming, surfing….think of whatever sorts of water sports and you’ll definitely be able to exercise it here (or learn it?). Besides that, you can always watcha game of baseball in the famous St. Petersburg Thunderdome, future home of the Tampa Bay Devil Rays.
+**Fort DeSoto Park** to the south is a large barrier island county park with excellent beaches, fishing, bird-watching, and canoe trails through mangroves. **Boyd Hill Nature Park**, within the city, has hiking and biking trails through wetlands and hammock forest. Downtown's Beach Drive and the Central Avenue corridor are where most of the restaurants, bars, and galleries concentrate — the city has had a notable arts scene revival in recent years.
 
-
- Exploring the shopping malls and the boulevard with exclusive shops (and great views) will guarantee a perfect outfit for one of the many restaurants, bars or discos. For those who want to see a bit more green, the Fort DeSoto Park might be an option. Rent a canoe, do some bird watching or go fishing. The nearby Boyd Hill Nature Park has a variety of hiking, biking and nature trails.
-
-
- And of course, no big cities without famous (art) collections. The Museum of Fine Arts has an interesting collection and the Dali Museum claims to have the largest collection of works of the surrealist painter. The fourth largest museum of the US dedicated to the Holocaust and its devastating impact is also located in St. Petersburg.
+St. Pete is an easy base for the Tampa Bay area: Tampa itself is 30 minutes across the Gandy or Howard Frankland Bridge, and the Gulf beach towns of Clearwater and St. Pete Beach are within 20–30 minutes.

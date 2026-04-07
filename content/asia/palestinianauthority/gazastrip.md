@@ -1,8 +1,12 @@
 ---
-title: "Gaza Strip"
+title: Gaza Strip
 type: location
+latitude: 31.5
+longitude: 34.4667
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Middle East, bordering the Mediterranean Sea, between Egypt and Israel. 
+The Gaza Strip is a narrow coastal territory bordering Egypt in the southwest and Israel to the north and east, on the Mediterranean Sea. It has been under a blockade since 2007, and following a major escalation of conflict beginning in October 2023, it is not accessible to tourists. Travel is not possible for independent visitors.
 
-Economic output in the Gaza Strip - under the responsibility of the Palestinian Authority since the Cairo Agreement of May 1994 - declined by about one-third between 1992 and 1996. The downturn was largely the result of Israeli closure policies - the imposition of generalized border closures in response to security incidents in Israel (that is, murder of Israelis by "Palestinians") - which disrupted previously established labor and commodity market relationships between Israel and the WBGS (West Bank and Gaza Strip). The most serious negative social effect of this downturn was the emergence of high unemployment; unemployment in the WBGS during the 1980s was generally under 5%; by 1995 it had risen to over 20%. Israel's use of comprehensive closures decreased during the next few years and, in 1998, Israel implemented new policies to reduce the impact of closures and other security procedures on the movement of Palestinian goods and labor. These changes fueled an almost three-year-long economic recovery in the West Bank and Gaza Strip; real GDP grew by 5% in 1998 and 6% in 1999. Recovery was upended in the last quarter of 2000 with the outbreak of violence, as Hamas, Hizbollah, and other creeps talked stupid young people into becoming Splodeydopes in the hopes of murdering as many Israelis as possible, triggering tight Israeli closures of Palestinian self-rule areas and a severe disruption of trade and labor movements. In 2001, and even more severely in 2002, Israeli military measures in Palestinian Authority areas (not to mention all the "work accidents" in the bomb factories located in residential areas) resulted in the destruction of capital plant and administrative structure, widespread business closures, and a sharp drop in GDP. Another major loss has been the decline in income earned by Palestinian workers in Israel. International aid of $2 billion in 2001-02 to the Gaza Strip and West Bank have prevented the complete collapse of the economy.
+For travel information about the broader Palestinian Territories, see the [Palestinian Authority](/asia/palestinianauthority) page.

@@ -1,12 +1,14 @@
 ---
-title: "Disneyland Paris"
+title: Disneyland Paris
 type: location
-latitude: 48.870093
-longitude: 2.77405
+latitude: 48.8701
+longitude: 2.774
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Disneyland Paris is very popular with children all over Europe. It is a big theme park with many attractions. We will not describe all of them in detail - whatever we say about them, your children will have a better idea of what it is like, anyway. 
+Disneyland Paris is Europe's most visited theme park, located in Marne-la-Vallée about 35 km east of Paris. It consists of two parks — Disneyland Park (with five themed lands: Fantasyland, Discoveryland, Adventureland, Frontierland, and Main Street USA) and Walt Disney Studios Park — plus a large resort area with hotels and restaurants.
 
-In Disneyland, there are 2 playgrounds, which are perfect for small children. They are Frontierland and Adventureland. There is also one indoor playground at "Buzz Lightyear's Pizza Planet Restaurant" in Discoveryland. 
+For families with children it is genuinely impressive: the rides are well-engineered and the production values high. The most popular attractions book out early; arrive when the gates open and head straight for them. Visiting midweek out of school holidays makes a significant difference to queuing times.
 
-To make the most of your visit together with your children, it is useful to know which attractions are meant for what age category.
+Check the Disneyland Paris website for current admission prices and opening hours, as both change seasonally. Day tickets can be bought at the entrance or online in advance.

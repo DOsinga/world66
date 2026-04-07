@@ -1,17 +1,14 @@
 ---
-title: "Hargeisa"
+title: Hargeisa
 type: location
-latitude: 9.561733
-longitude: 44.061803
+latitude: 9.5617
+longitude: 44.0618
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Hargeisa is the Capital of the Republic of Somaliland. Hargeisa is
-located North West of Somaliland (Latitude 9°18' N Longitude 44°03' E).
+Hargeisa is the capital of Somaliland, the self-declared republic in the northwest of the Horn of Africa. With over a million people, it is by far the largest city in the territory and the first point of entry for most visitors. It is a sprawling, dusty, energetic place — not beautiful in any conventional sense, but full of life and surprisingly welcoming to the few travellers who make it here.
 
-Hargeisa is about the center of the other key Cities: Burao,Berbera
-and Borama. Hargeisa has a population of (1,200,000) people according
-to year 2000 City Hall estimate.
+The city was heavily bombed during the civil war in the late 1980s and has been largely rebuilt since Somaliland declared independence in 1991. A MiG fighter jet mounted on a plinth in the centre of town serves as a war memorial and has become the city's most recognisable landmark. The national museum nearby documents the conflict and the country's history.
 
-The president Dahir Riyale Kahin is the third president until 1991,
-the voice president is Ahmed Yusuf Yasin. There are also the parlament
-and the local government.
+Hargeisa is a good base for exploring Somaliland. The Laas Geel cave paintings — some of the best-preserved Neolithic rock art in Africa — are a couple of hours' drive to the northeast. The port city of [Berbera](/africa/somaliland/berbera) and its beaches lie to the north.

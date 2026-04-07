@@ -1,6 +1,8 @@
 ---
-title: "The wildlife"
-type: location
+title: The Wildlife
+type: section
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Galapagos boast some of the most unusual and rare fauna in the world, with many that are endemic to Galapagos and found nowhere else in the world. Enedemic fauna include: **Giant tortoise, Lava lizard, Land Iguana, Marine Iguana, Galapagos fur seal, Galapagos penguin, Waved albatross, Flightless cormorant, Swallow-tailed gull, Lava gull, Lava heron, Galapagos hawk, Galapagos rail, Galapagos flycatcher, Galapagos martin, Galapagos dove,Charles mockingbird, Cactus ground finch and Vegetarian finch. ** 

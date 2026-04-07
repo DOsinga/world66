@@ -45,5 +45,4 @@ europe/poland/gdansk
 europe/italy/valledaosta
 europe/faroeislands/eysturoy
 asia/india/jammuandkashmir/kashmir
-asia/india/maharashtra/thane
 europe/unitedkingdom/england/leeds_sheffield_a/bradford

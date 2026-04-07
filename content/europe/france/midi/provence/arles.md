@@ -1,8 +1,10 @@
 ---
-title: "Arles"
+title: Arles
 type: location
 latitude: 43.677622
 longitude: 4.630965
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Arles packs a startling amount of history into a small Provencal town. The Romans built an amphitheatre here that still hosts bullfights and summer concerts. Van Gogh arrived in 1888, painted over 200 canvases in fifteen months, and many of the streets and squares he captured can still be recognised today.

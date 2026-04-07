@@ -1,6 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-By air and rail at Jorhat (94 kilometres) and Guwahati (220 kilometres) from the park Nearest town is Bokaghat, 22 kilometre from the park.
+The nearest airports are at Jorhat (94 km east of the park) and Guwahati (220 km to the west). Both have connections to major Indian cities. The nearest town is Bokaghat, about 22 km from the park boundary, where accommodation and onward transport are available.
+
+The park straddles National Highway 37, which runs along its southern edge. Buses between Guwahati and Jorhat stop at Kohora, the main park entrance village. From Guwahati, the journey takes around four to five hours by road.

@@ -33,7 +33,6 @@ europe/ukraine/kirovograd
 europe/italy/liguria/italianriviera/tigullio
 europe/serbia/zlatibor
 asia/thailand/nonthaburi_2
-southamerica/suriname/paramaribo
 northamerica/unitedstates/connecticut/hartford
 northamerica/unitedstates/maine/augusta
 europe/romania/deva

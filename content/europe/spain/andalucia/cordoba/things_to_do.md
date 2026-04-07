@@ -1,25 +1,14 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Hammam - Arabic baths** - Just 5 minutes walking distance
-west of the mosque there is a modern Arabic bath, recreating the
-antique ones. During the golden times of the western caliphate Cordoba
-was said to have more than 400 hundreds baths. The atmosphere in this
-one is delicious and a session of two hours (including a massage) can
-be a relaxing experience. Highly recommended. - Hammam (only in Spanish).
+The **Mezquita-Catedral** is non-negotiable: one of the great buildings in the world. The 10th-century mosque, with its forest of red-and-white striped arches, is astonishing in its scale and atmosphere. A full cathedral was inserted into the centre in the 16th century — jarring but historically fascinating. Arrive early to avoid crowds and, if possible, book in advance.
 
-Drive an **electric car** to discover one of the largest
-historical downtowns in Europe. The electric car is equipped with a GPS
-touristic assistant which gives spoken information on the monuments
-within 100 meter. Descriptions available in Spanish, English, and
-French. Besides, there are 10 exclusive parking spots to park the
-electric car. From 30€ for 2 hours. 2 seats and 4 seats cars available.
-- Blobject
+The **Alcázar de los Reyes Cristianos** (Palace of the Christian Kings) was built in 1328 and served successively as royal residence, Inquisition headquarters, and military prison. The extensive Arabic-influenced gardens are among the finest in Andalucía.
 
-Take a **Segway Tour** in Cordoba, passing by places which are normally missed by the visitor. English spoken tours. From 30€ per person - Blobject
+The **Jewish Quarter** (La Judería) is a maze of narrow whitewashed lanes between the Mezquita and the Alcázar. One of only three synagogues remaining in Spain — built 1315 — stands here, now a modest museum. The neighbourhood has a strongly Moorish atmosphere; it sheltered one of medieval Europe's most flourishing Jewish communities under the Caliphate.
 
-**Vision Walking Tours** - An excellent walking tour of
-the old city, Alcázar, Synagogue, and Mezquita. steep at €27 (no
-reductions) but worth it. (includes entry to buildings).
+**Medina Azahara**, 8 km west of the city, is a vast ruined palatial city built by Caliph Abd al-Rahman III in the 10th century. Partly excavated, it gives a compelling sense of the scale of Córdoba's Umayyad golden age. A good museum explains the context.
+
+An Arabic **hammam** a short walk west of the Mezquita offers two-hour sessions including massage — a genuine pleasure in a city this hot. Highly recommended.

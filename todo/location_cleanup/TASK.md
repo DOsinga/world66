@@ -55,3 +55,5 @@ Locations include cities, towns, regions, islands, and neighbourhoods.
      this place.
    - Add `latitude` and `longitude` to the location file if missing
    - Don't force sections on a small town — an overview alone is fine
+
+8. **Add hero image** — if the location file has no `image:` field, use the `find-photo` skill to find and assign one.

@@ -26,7 +26,9 @@ Add new content to locations that have already been cleaned up (see `location_cl
    - If a well-known attraction is missing from `things_to_do/`, add it
    - If `eating_out/` or `bars_and_cafes/` is thin, add notable places
 
-7. **Commit** as "Enrich: City Name" — one commit per location
+7. **Add hero image** — if the location file has no `image:` field, use the `find-photo` skill to find and assign one.
+
+8. **Commit** as "Enrich: City Name" — one commit per location
 
 ## Voice and style
 

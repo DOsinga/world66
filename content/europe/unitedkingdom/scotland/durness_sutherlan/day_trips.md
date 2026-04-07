@@ -3,8 +3,4 @@ title: "Day Trips"
 type: section
 ---
 
-Handa Island, a bird sanctuary [no dogs admitted] can be visited on a day trip from Durness or Lochinver or on the way up or down. It is accessed by a passenger ferry from Scourie which is just off A894 [reached by the A838 going southwest from Durness.
-
-In the nesting season you can expect to see masses of gulls, terns, fulmars, cormorants, auks and skuas. For the last named and some of the terns you would be well advised to have some form of head protection!
-
-Near the café on the mainland side of the ferry you can get meals or delicious light bites.
+Handa Island, a RSPB bird sanctuary, is accessible by passenger ferry from Scourie (off the A894, reached via the A838 south-west from Durness). No dogs are allowed. In nesting season the island is packed with guillemots, razorbills, puffins, fulmars, cormorants, terns, and skuas — for the last two, a hat is advisable as they defend their nests aggressively. A café near the ferry landing on the mainland side does meals and light bites.

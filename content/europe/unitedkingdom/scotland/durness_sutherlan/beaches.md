@@ -1,16 +1,6 @@
 ---
-title: "Beaches in Durness, Sutherland"
+title: "Beaches"
 type: section
 ---
 
-About 15 miles from Durness is Sandwood Bay. Probably the most
-beautifull unspoilt beach in Britian backed by large sand
-dunes. Also a gorgeous inland loch is only seperated from the sea
-by a small strip of beach. It is however a 4 mile walk from the
-nearest village Blairmore. Although this walk makes the view when you
-get there even more satisfying. Make sure you allow 1 hour to walk back
-before the sun goes down though or you might end up have to stay the
-night.
-
-**Contributors**
-March 17, 2005
+About 25km south-west of Durness lies Sandwood Bay, arguably the most beautiful unspoilt beach in Britain. Backed by large sand dunes and separated from the sea by only a narrow strip of sand, the bay also has a gorgeous inland loch. There is no road to Sandwood Bay — it is a 4-mile walk from the nearest village, Blairmore, which only adds to the sense of discovery when you arrive. Allow at least an hour to walk back before dark.

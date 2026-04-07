@@ -1,29 +1,12 @@
 ---
-title: "Arenzano"
+title: Arenzano
 type: location
 latitude: 44.402518
 longitude: 8.683132
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Look at this site
- **ARENZANO**
+Arenzano is a small seaside town on the Ligurian Riviera di Ponente, about 25km west of Genoa, sitting between Cape Invrea and the cliffs of the Lastroni. It shares the rocky coastline with neighbouring Cogoleto, the two communities divided by Cape San Martino. Today Arenzano is a quiet beach resort popular with Genoese families.
 
-
- 
- Arenzano and Cogoleto extend along the
- coast between Cape Invrea and the
- cliffs of the Lastroni, where there is a
- characteristic rock called "Aguggia"
- which has given the name to the area.
- The natural boundary between the
- two territories is Cape San Martino,
- beyond which there is the small
- valley of the stream Lerone.
- The high grounds sheer to the sea,
- have been exploited as lime quarries
- at Cogoleto and as copper and stone
- quarries at Arenzano.
-
-## Destinations in Arenzano
-
-[Vesima](/europe/italy/liguria/arenzano/vesima)
+The cooking here is characteristic Ligurian: pesto, trofie pasta, focaccia, fresh anchovies, and olive oil from the terraced hillside groves. The beach at nearby Vesima, a few kilometres east, is pleasant and quieter than the main town.

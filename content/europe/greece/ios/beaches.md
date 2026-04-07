@@ -3,12 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-The island of Ios is full of wonderful beaches extending their
-golden sands over many kilometres and offering their crystalline
-emerald waters to the astonished visitors. The most popular are near
-the touristy resort of Mylopotas and propose various hotels and sport
-activities; numerous beaches are almost deserted and completely
-non-organised.
-
-**Contributors**
-June 08, 2005
+Ios has some of the best beaches in the Cyclades, ranging from the busy resort strip at Mylopotas to completely undeveloped coves that require a hike or a boat to reach. Mylopotas — a long sweep of golden sand south of Chora — is the centre of the beach scene, with sunbeds, watersports, and beach bars. Beyond it, the southern and eastern coasts have numerous smaller beaches that are almost deserted outside peak season.

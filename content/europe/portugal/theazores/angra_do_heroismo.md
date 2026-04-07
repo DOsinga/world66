@@ -1,24 +1,16 @@
 ---
-title: "Angra do Heroismo"
+title: Angra do Heroismo
 type: location
 latitude: 38.659317
 longitude: -27.219558
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+Angra do Heroismo is the kind of place that rewards the traveller who ventures beyond mainland Portugal. Perched on the southern coast of Terceira island in the Azores, this UNESCO World Heritage city is one of the finest examples of Renaissance urban planning in the Atlantic world — its grid of straight streets laid out in the 15th century still defines the city today.
 
-Angra do Heroismo was the seat of a captaincy in 1474, and it soon became an important trading centre thanks to the natural qualities of its harbour as evidenced even in its name (Angra means Bay).
+The city's history reads like a thriller. Founded as a captaincy in 1474 and made a city in 1534, Angra became the most important Atlantic port between Europe, Africa, India and the Americas. Vasco da Gama's brother was buried here on the return from the first voyage to India. Sir Francis Drake attacked and failed to take it in 1589. The Earl of Essex turned up with a hundred ships in 1597 to seize a Spanish treasure fleet anchored in the harbour, and also failed. The massive Forte de São João Baptista was built specifically to keep such pirates and Spanish occupiers at bay.
 
-Its commercial importance led to its being given a town charter in 1478 and being raised to the status of a city - the first in the Azores - in 1534. It was also in the latter year that Pope Paul III chose Angra to be the seat of a bishopric. A port of call for the ships plying to and from Africa, India and the Americas - it was here that Vasco da Gama's brother was buried during the return from the first voyage to India - it became a town with an intensive economic life and great wealth in the 16th century. It was also at Angra that government departments such as Mint and the Navy Purveyor's Office were set up.
+After Portugal restored its independence in 1640, Angra remained the administrative capital of the Azores until the 19th century. Queen Maria II awarded it the suffix "Heroísmo" — heroism — after the city's role in the liberal civil war. A major earthquake in 1980 damaged much of the historic centre, but careful reconstruction has preserved the character of the old streets and monuments.
 
-That golden period was reflected in the straight lines of its streets, in accordance with the town planning rules of the Renaissance of which it is one of the finest examples, and also in the splendour of its palaces and churches and an artistic legacy that makes it a monument in itself. This has been recognised by UNESCO, which has included it in the world heritage list.
-
-The struggles against the Spanish occupation, between 1580 and 1583, had catastrophic consequences for Angra, which was sacked for five days by Spanish soldiers and which saw many of its leading citizens executed. Later, in 1589, the town was attacked by the privateer, Sir Francis Drake. who was unsuccessful in his attempt, and in 1597 the Earl of Essex, with about one hundred ships, tried in vain to seize a fleet of Spanish galleons, loaded with gold and silver, which were anchored in the port. The construction of Sao Filipe Castle, later called São João Baptista, dates from this period; it was designed to be a defence against pirates and, at the same lime, a means of ensuring Spanish control over the town itself.
-
-With the Restoration of Portugal's independence, the Spanish garrison surrendered after heavy fighting and after the town had been bombarded.
-
-Until the early 19th century, Angra, as the seat of the captaincy-general, retained its standing as the governmental centre of the Azores although there was a reduction of its importance as an Atlantic seaport. The town took an active part in the struggles for the implantation of liberalism and became the seat of the liberal Regency during the Civil War. Because of the spirit of sacrifice and bravery then demonstrated, the town received from Queen Maria II the tittle of "Heroi­smo" (Heroism) proposed by the great writer, Almeida Garrett.
-
-Angra do Heroi­smo is one of the administrative seats of the Autonomous Regio and has one of the centers of the University of the Azores. Having suffered the effects of an earthquake in 1980, the reconstruction work is being carried out in such a way as to preserve the lines of the damaged buildings and monuments.
-
-Places to visit: Cathedral; Church of Nossa Senhora da Guia; Church of the Jesuit School; Church of Sao Gongalo; Church of Nossa Senhora da Conceicao; Church of the Misericordia; Sao Joao Baptista Castle; Sao Sebastiao Castle; Palace of the Bettencourts; Palace of the Captains-General; Town Hall; Historic centre; Municipal Garden; Alto da Memoria; Monte Brasil; Angra Museum.
+Today the cathedral, the baroque churches, the hilltop fort, and the palm-lined garden of the Jardim Duque da Terceira make Angra one of the most satisfying small cities in Portugal.

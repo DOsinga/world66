@@ -1,13 +1,14 @@
 ---
-title: "Itapema"
+title: Itapema
 type: location
-latitude: -27.09472
-longitude: -48.613778
+latitude: -27.0947
+longitude: -48.6138
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Characteristics Situated in one of the stretches prettiest of the catarinense coast, Itapema is famous for its beautiful beaches and the hoteleira infrastructure of first world. Date of foundation - 21 of April of 1962. Festive date - 21 of April (anniversary of the city). Main economic activities - the tourism is the main economic activity of the city. Population - 25,859 fixed inhabitants and about 120.000 inhabitants in the summer. Settling - Açoriana. Main etnias - Açoriana. Localization - Coastal, 60km of Florianópolis. Area - 586km2. Climate - humid Mesotérmico, with average temperature between 20ºC and 25ºC. Altitude - 15m above of the level of the sea. Next Cities - Itajaí, Florianópolis, Camboriú Health-resort, Beautiful Port.
+Itapema is a beach town on the Santa Catarina coast of southern Brazil, about 60 km north of [Florianópolis](/southamerica/brazil/florianopolis). In summer the population swells from around 60,000 to over 100,000 as Brazilians from the southern states come for the beaches, calm waters, and beach volleyball.
 
-Itapema tourism dedicates the tourism to it during the entire year. Situated in one of the stretches prettiest of the catarinense coast, it has in beaches and the nautical activities its attractive greaters. It is a luxurious beach, with great boats and yachts floating in its waters. Beach - Of all the beaches of Itapema, the greater and most famous are the Half Beach, that counts on an excellent tourist infrastructure: bars, restaurants, nocturnal houses, commerce and services in all the edge and the main avenue. It reserves a time to also know the Beach of the Cabeço, that has the best waves for surf; Canto of the Beach, redoubt of the fishing; the Beach of the Shipyard and the Beach of the Islet, still wasteland, of open sea and strong waves. It does not leave to go to the Beach of Costão, considered one of prettiest of the city, and to the Beach of Itapema, the most frequented and of better structure of services, where innumerable esportivos events are carried through. Nature - Itapema bes situated in a bay surrounded for ramifications of the Mountain range of the Sea Beyond beaches, offers other attractive ones, as ecological, tracks among the native vegetation, rising adventures of rivers and cascades... Of the Mount of the Sentry box they have a gorgeous sight of the city. It also goes to the Costão de Itapema, one of the points prettiest of the city, of where if the maritime edge can observe all. Culture - In Itapema it has diverse constructions of the time of the açoriana settling, with ample parts, walls of rock, high right foot, rectangular or oval doors in massive wood and windows in the superior floor. The açoriana culture is present also in the way of life of the inhabitants, as for example in the fish-of-attack by teen street gang, way of subsistence of great part of the population. The activity is concentrated mainly in Colony Z-19 the Fishing, located in Canto of the Beach, where the tourists can observe the removed nets being of the sea, loaded of fish. Tourist infrastructure - the hoteleira infrastructure of Itapema is of excellent standard, with offers of 3.000 stream beds. Inns and campings are other options of lodging. It has intense commerce, with prominence for the four commercial centers, great number of bars and restaurants, beyond some nocturnal houses.
+The most popular beach is Meia Praia ("Half Beach"), a long arc of sand with good infrastructure — bars, restaurants, and shops along the main avenue behind it. The Praia do Cabeço has the best surf. Canto de Praia, at the southern end, is a fishing redoubt where you can watch nets being hauled in at Colony Z-19. The Costão de Itapema, a rocky headland, offers good snorkelling and views along the coast.
 
-**Contributors**
-December 12, 2005
+The town's Azorean colonial heritage shows in some of the older buildings — thick stone walls, high ceilings, and wooden doors are the hallmarks. For most visitors, though, Itapema is a straightforward beach holiday: sand, seafood, and warm water from December through March.

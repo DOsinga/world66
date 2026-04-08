@@ -1,20 +1,16 @@
 ---
-title: "Tsavo West"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -3.2335
+longitude: 38.0
+title: Tsavo West
 type: location
-latitude: -3.408364
-longitude: 37.957451
 ---
 
-Most of the sights in Tsavo West center around the watering holes near the Kilaguni and Ngulia lodges. **Mzima springs,** next to Kilaguni Lodge has plenty of hippos and crocodiles, and even an underwater viewing chamber, where you can check out the aquatic life in the springs. North of the lodges is Shetani lava flow and caves. There's also the **Chaimu Crater** just south of Kilaguni Lodge, which you can climb. Lastly, not far from Ngulia Lodge lies the **Ngulia Rhino Sanctuary,** where you have a chance to see one of up to 30 black rhinos inside a 70 aq km fence.
+Tsavo West is the wilder, more dramatic half of Kenya's largest national park. Where Tsavo East is flat and open, the West is a landscape of ancient lava flows, forested hills, and springs that bubble up clear and cold from underground rivers. The result is one of the most visually striking parks in East Africa — and because it draws fewer visitors than the Mara or Amboseli, you can still find yourself alone in the bush.
 
+The park's centrepiece is **Mzima Springs**, where half a billion litres of water per day emerge from volcanic rock, feeding pools full of hippos and crocodiles. An underwater viewing chamber lets you watch the hippos drift and jostle beneath the surface — one of those genuinely surprising safari experiences. Nearby, the **Shetani lava flow** (shetani is Swahili for devil) stretches for kilometres across the landscape, black and jagged, still looking freshly poured despite being around 500 years old. A short climb up **Chaimu Crater** gives you a view across the lava field and the surrounding bush.
 
- 
- If you're traveling on a budget, Tsavo West has several normal camp sites near its 3 main gates. It also has some cheap accommodations near the lodges. You can get a fully equipped banda for Ksh 500 per person (minimum Ksh 2000 per banda) at the *Ngulia Safari Camp* or the *Kitani Safari Camp.* The bandas have a bathroom, kitchen with supplies, and lanterns. Bring your own personal supplies, food, and drinking water.
+The northern part of the park protects one of East Africa's most important black rhino populations. The **Ngulia Rhino Sanctuary** — 70 square kilometres of fenced wilderness — holds some 70 individuals, one of Kenya's great conservation success stories. Sightings aren't guaranteed but are far more likely here than almost anywhere else on the continent.
 
-
- 
- There are also several lodges to choose from . The *Ngulia Lodge* (# (02) 336858) offers singles/doubles with full board for US$ 120/150 in the high season and US$ 60/120 in the low season. There's a watering hole outside the lodge which attracts wildlife every night.
-
-
- 
- The *Kilaguni Lodge* is owned by the same company, and prices are exactly the same. It too has a watering hole. Other lodges include the *Lake Jibe Lodge* by itself in the southern tip of the park, and the *Tsavo Inn,* just outside of the Mtito Andei Gate.
+Wildlife throughout the park is excellent: lion, leopard, cheetah, elephant, buffalo, and a surprising range of plains game. The watering holes near Kilaguni and Ngulia lodges are particularly productive at dusk, when animals come in to drink and predators follow.

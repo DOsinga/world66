@@ -1,10 +1,16 @@
 ---
-title: "Karlovac"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 45.4893
+longitude: 15.5486
+title: Karlovac
 type: location
-latitude: 45.489252
-longitude: 15.54863
 ---
 
-Karlovac was founded in 1579, but the parish was already mentioned in 1334. Around it grew an important cultural, commercial and industrial centre. Still, the main reason to come are the sacral buildings of the town, including the early Baroque church of the Holy Trinity.
+Karlovac sits at the confluence of four rivers — the Kupa, Korana, Mrežnica and Dobra — and was built in 1579 as a Renaissance star fortress to defend the Habsburg frontier against the Ottomans. The original six-pointed star grid is still visible from the air, and walking the old town's streets you can feel the military precision of its layout.
 
-The national shrine of St. Joseph on Dubovac is of particular interest. This modern church began to be built in 1968 and was consecrated in 1975. It was officially designated a national shrine in 1987. The main nave (33 x 17 m) is oriented towards the white marble shrine. The statues of St. Joseph and the Blessed Virgin Mary, cast in plaster, are the work of the academic sculptor, Ante Starcevic. Equally striking are the pictures of Croatian saints and blessed ones dating from 1985, as well as the picture of St. Joseph, the patron saint of the country, dating from 1988 - works by Prof. Danko Butala. The aisle of the shrine (17 x 17 m) is also dedicated to Croatian saints and blessed ones. The church has a steeple with three bells weighing 980, 520 and 297 kg. The most important pilgrimage occurs on 19th March, St. Joseph’s Day.
+Today Karlovac is Croatia's fourth-largest city and a pleasant place to stop between Zagreb and the Dalmatian coast. It is not yet on the tourist trail in any serious way, which is part of its appeal. The old fortress town (Stari Grad) has a relaxed, lived-in feel — people actually live and work here rather than putting on a show for visitors.
+
+The four rivers are a genuine asset. Swimming beaches along the Korana are popular with locals in summer, and kayaking on the Mrežnica is excellent. The riverbanks are lined with old mills and the water is clean. If you have a bicycle, the riverside paths connect to some beautiful countryside.
+
+Karlovac is also the home of Karlovačko beer, one of Croatia's best-loved lagers, brewed here since 1854. The brewery does not currently offer public tours, but the beer is everywhere and worth drinking where it's made.

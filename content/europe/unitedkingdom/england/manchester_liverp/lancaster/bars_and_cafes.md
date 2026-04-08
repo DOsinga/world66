@@ -1,5 +1,5 @@
 ---
-title: 'Nightlife and Entertainment'
+title: "Bars and Cafes"
 type: section
 ---
 

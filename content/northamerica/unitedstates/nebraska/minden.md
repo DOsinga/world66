@@ -1,20 +1,14 @@
 ---
-title: "Minden"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 40.4994
+longitude: -98.9514
+title: Minden
 type: location
-latitude: 41.466715
-longitude: -95.542622
 ---
 
-Travel Guide
+Minden is a small town in south-central Nebraska, best known as the home of Harold Warp's Pioneer Village — one of the most remarkable and least-known museums in the American Midwest. The town itself is quiet and unremarkable, but the Pioneer Village is a legitimate reason to leave the interstate.
 
-*Please do not upload copyrighted images.. they'll all be removed.
-World66
-*
+Located just 15 miles south of I-80 exit 279 on State Route 10, Pioneer Village is a sprawling complex of buildings stuffed with over 50,000 artefacts spanning American history from the 1830s onward. The collection includes an extraordinary range of automobiles, farm machinery, household goods, and pioneer-era structures — an active country church, a Pony Express waystation, a land office, and more. It has been compared to a regional rival to the Smithsonian. The carousel still runs, and the scale of the place is genuinely astonishing for a town of this size.
 
-Just 15 miles south of Interstate 80 exit 279 via well-maintained State Route 10 you will find Harold Warp's Pioneer Village. The name is deceptive in that this little known attraction offers so much more than just a "pioneer village." The Smithsonian is billed as "the nation's attic" but it has a close rival in Minden.
-
-The large buildings are literally stuffed with items of yesteryear. The collections of automobiles, trucks and farm equipment will bring back a flood of memories. See how folks lived in those early times. Watch the carding and spinning of wool. The Pioneer Village features authentic structures including an active country church, a pony express way-station, a land office and many others. The kids will want to ride the old-fashioned carousel. There is no need to list here everything you will see. You can do a simple Internet search for Harold Warp's Pioneer Village and discover all the wonders that await you there.
-
-A very nice RV campground, a motel, and restaurant are located on the site. The museum recognizes the difficulty in seeing everything in just one day, so "hand-stamping" is available allowing visitors to retreat to their room or RV for a rest, then return to the museum with no additional charge. You will want to take at least two days to see everything, so, when leaving for the day, be sure to pick up a free pass allowing you to come back the next day.
-
-You may leave the Pioneer Village saying, "Who would have thought all this was in Minden?"
+Plan to spend at least a full day, possibly two. The museum offers hand-stamping so you can leave and return, and there is an RV campground, motel, and restaurant on site.

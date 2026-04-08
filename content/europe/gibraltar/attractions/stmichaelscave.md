@@ -1,8 +1,11 @@
 ---
-title: "St Michael’s Cave"
-type: location
-latitude: 36.126085
-longitude: -5.345541
+category: Sight
+done:
+  location_cleanup: '2026-04-08'
+latitude: 36.1261
+longitude: -5.3455
+title: St Michael's Cave
+type: poi
 ---
 
-There are over 150 caves inside Gibraltar’s Rock in which numerous fossil remains have been found. The most famous cave is St. Michael’ Cave which is a dramatic natural grotto rich with stalagmites and stalactites. The cave’s natural auditorium is used for concerts and theatre performances.
+St Michael's Cave is the most famous of Gibraltar's 150-plus caves, a large natural grotto inside the Rock filled with spectacular stalagmites and stalactites. The cave's main chamber has been converted into a natural auditorium used for concerts and theatrical performances. Fossil remains of humans and animals have been found in the caves of the Rock, including evidence of Neanderthal habitation.

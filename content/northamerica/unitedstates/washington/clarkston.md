@@ -1,8 +1,16 @@
 ---
-title: "Clarkston"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 46.4163
+longitude: -117.0456
+title: Clarkston
 type: location
-latitude: 42.735863
-longitude: -83.41883
 ---
 
-Clarkston, WA, formerly known as Jawbone Flats, is a quaint little town on the Washington-Idaho border. Located at the mouth of Hell's Canyon, some of the best whitewater in the area and well known as a stop on the Lewis-Clark trail, Clarkston is a nice stopping point on the way to somewhere else. The furthest inland seaport in the Northwest, the famed "Queen of the West" riverboat docks in Clarkston once a week on her way up from Portland. Tour buses take visitors into the canyon or drop them off for riverboat excursions. In a deep valley, the weather in Clarkston is mild year round, protected from the more severe desert heat of the prairie above and the wicked winters all around. If your visiting Clarkston, make sure you stop in at Lancer Lanes bowling center and the Bridge Street Connection Sports Bar and Grill. Stay at the Quality Inn, right on the river and enjoy a night out at the newly opened Vesuvius Lounge on 6th Street. Or venture a mile across the Snake River into downtown Lewiston, ID and visit Boomers, Boomtown or the Club on Main Street. Lewiston and Clarkston are both filled with historical sites and beautiful scenery. Lewiston was featured on the Travel channel as one of the most festive holiday locations in America.
+Clarkston sits at the confluence of the Snake and Clearwater rivers on the Washington-Idaho border, directly across from its twin city Lewiston, Idaho. Named for William Clark of the Lewis and Clark expedition, the town is the gateway to Hells Canyon — the deepest river gorge in North America, carved by the Snake River into basalt walls over a mile deep.
+
+The main reason to come here is the canyon. Jet-boat excursions run upriver into Hells Canyon from the Clarkston marina, and whitewater rafting trips launch from nearby. The canyon scenery is dramatic: steep basalt walls, bighorn sheep on the ledges, and very few other people once you get past the first few miles.
+
+Clarkston is also the furthest-inland seaport in the Pacific Northwest — ocean-going barges navigate the Snake and Columbia rivers all the way from Portland. The town sits in a deep valley with a notably mild climate compared to the surrounding plateau, making it one of eastern Washington's warmer spots year-round.
+
+There is not much reason to linger in Clarkston itself beyond the river access, but the drive in from any direction passes through striking canyon and plateau country.

@@ -1,22 +1,16 @@
 ---
-title: "La Digue"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -4.3601
+longitude: 55.8385
+title: La Digue
 type: location
-latitude: -4.360087
-longitude: 55.838478
 ---
 
-An aura of charm and tranquillity surrounds La Digue. This island is accessible by boat and helicopter; about two and a half hours from Mahé and thirty minutes from Praslin. For years the way of life on La Digue has remained unchanged, transport is mainly by ox-cart or bicycle. On La Digue, time seems to stand still.
+La Digue is the most seductive of the Seychelles islands — small enough to cross by bicycle in an hour, yet varied enough to fill several days without effort. It is the fourth largest of the granitic islands, measuring roughly five kilometres by three, but what it lacks in size it makes up for in beauty. Massive pink granite boulders tumble into turquoise sea, coconut palms line the roads, and ox-carts still share the paths with cyclists.
 
+The island has no proper harbour. Ferries from [Praslin](/africa/seychelles/praslin) dock at La Passe on the west coast in around fifteen minutes; the crossing from [Mahe](/africa/seychelles/mahe) takes about two and a half hours. Once you arrive, the bicycle becomes your primary means of transport — and that suits La Digue perfectly. There are no traffic jams, no rush. The pace here is genuinely slow, and the locals intend to keep it that way.
 
- Although La Digue can be visited on a day excursion, the island's rare calm and friendliness of its people are too precious to be passed by in haste. The ox-cart excursions include some of the more picturesque parts of the island where some fine traditional houses are situated. Wide deserted beaches are perfect for long walks, safe swimming, snorkelling and fishing.
- 
- In the woods of La Digue can be found the rare black paradise flycatcher. Although this bird was once thought to be extinct, recent estimates suggest that there may be as many as one hundred on the island.
- 
- Cycads, one of the oldest and most primitive of plants, are to be seen growing above the quiet roads of the island.
+The west coast, between La Passe, L'Union Estate, and Anse Réunion, has most of the guesthouses and small hotels. The east coast faces the open Indian Ocean and has wilder, less sheltered beaches. The interior rises sharply to Nid d'Aigle (Eagle's Nest) at 333 metres, and the dense forest there is one of the last refuges of the Seychelles black paradise flycatcher, one of the rarest birds on earth.
 
-
- La Digue is the fourth largest island in the Seychelles, measuring five kilometres by three, and is part of the granitic group. It lies 43 kilometres from Mahé and six and a half from Praslin.
- 
- The island has no natural harbour and is protected by the coral reefs which circle it, together with masses of pink granite rocks which seem to have exploded around the coastline.
- 
- The hotels on La Digue are mostly situated along the west coast, between La Passe, L'Union and Anse Reunion. The east coast is far wider.
+La Digue can be visited on a day trip from Praslin, but it rewards staying. The calm is too good to rush.

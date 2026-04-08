@@ -3,7 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-The best way to get to Hikone, is to take the Shinkansen to Maibara, and then the local JR service to Hikone (5 minutes).
-
-**Contributors**
-October 25, 2005
+Take the Shinkansen to Maibara, then transfer to the local JR Biwako Line — Hikone is one stop and five minutes away. The castle is about a 15-minute walk from Hikone Station.

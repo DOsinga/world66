@@ -1,8 +1,16 @@
 ---
-title: "Queretaro"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 20.805222
 longitude: -99.883738
+title: Querétaro
+type: location
 ---
 
-Queretaro was founded by the Spanish in 1531 on the site of a village of the Otomi Indians which, in turn, probably dated from around 1427. A number of events important in the history of the Mexican Republic have taken place in Queretaro. One of the heroines of the insurrection against Spain was La Corregidor, Josefa Ortiz de Dominguez. The wife of the corregidor (magistrate) of Queretaro, she was one of the plotters in the plans for the insurrection. When she learned that their plans had been discovered, she sent riders to San Miguel de Allende on the night of September 15, 1810 to warn Ignacio Allende and Padre Hidalgo. This horseback ride is re-enacted each year as part of the Fiestas Patrias. Because of her action her memory is revered, particularly in the central part of Mexico where statues are erected and numerous streets and buildings are named in her honor. Constructed between 1726 and 1735, the aqueduct of Queretaro has gained national recognition as the symbol of the city. Built of local sandstone, its 74 arches reach nearly 1,400 yards east of the city; the highest arch soars some 75 feet above current-day street level. The aqueduct brought drinking water into the city from springs located on what are now the outskirts of town. It was put into service in 1738, furnishing water to the convents and filling the public fountains, an event which occasioned two weeks of public celebration. Today. . . Queretaro is not only the capitol of the state of Queretaro, but today it's also an important center of industrial activity. While the city has sprawled outward in recent years in response to its growth to some 600,000 inhabitants, in the central part of the city the colonial flavor has been preserved. At the hub of the colonial city is the beautiful Plaza de la Independencia or, as it's more commonly known locally, Plaza de los Perros (the name is testimony to the four stone dogs which flank the central fountain, and not because the plaza is overrun with dogs!) Outdoor cafes, which can be enjoyed year-round in the moderate climate, line the perimeter of the spacious plaza and wide andadores (walkways), such as Andador Libertad lead from the plaza to the main streets of downtown Queretaro. William D. Thompson more photos at http://smaartes.com/mexico
+Querétaro is a prosperous colonial city in central Mexico, about three hours north of Mexico City. Its historic centre is a UNESCO World Heritage Site, full of Baroque churches, shaded plazas, and handsome 18th-century mansions built with pink sandstone.
+
+The city's most recognisable landmark is its aqueduct, constructed between 1726 and 1735. Its 74 arches stretch nearly 1,400 metres across the eastern approach to the city, with the tallest soaring some 23 metres above street level. It was built to carry drinking water from springs on the outskirts and remained in service until the late 19th century.
+
+Querétaro has played an outsized role in Mexican history. It was here that the independence conspirators were warned to flee in 1810, triggering the revolution. The city later served as Maximilian's last stronghold — he was executed on the Cerro de las Campanas in 1867. And the Mexican Constitution was drafted here in 1917.
+
+Today the city of 600,000 is an important industrial centre, but the colonial core has been beautifully preserved. The Plaza de la Independencia (known locally as Plaza de los Perros, after the stone dogs flanking its fountain) is ringed with outdoor cafes and makes a pleasant base for exploring the old streets on foot.

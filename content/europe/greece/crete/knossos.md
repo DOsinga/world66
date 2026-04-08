@@ -3,18 +3,14 @@ title: "Knossos"
 type: location
 latitude: 35.298057
 longitude: 25.162813
+done:
+  location_cleanup: "2026-04-07"
 ---
 
-The first Minoan palaces were created about 2000 B.C. They show some concentration of power into the hands of a central authority. This concentration led to a sudden political, cultural, economic and religious reorganization of life. Knossos, Festos, Malia, Zakros, Agia Triada and other smaller palaces and villas were created in the same time period. It seems that there was co-operation among the palaces since no signs of competition have been found. 
+Knossos is the largest Bronze Age archaeological site on Crete and one of the most extraordinary places in the Mediterranean. This was the ceremonial heart of Minoan civilization — a culture that flourished here for roughly 1,500 years before the rest of Europe had mastered the wheel. Walking its reconstructed corridors, you get an unsettling sense of how sophisticated these people were, and how completely they vanished.
 
+The palace complex was first built around 1900 BC and rebuilt several times after earthquakes. At its height it covered nearly 20,000 square metres, housing not just a royal family but workshops, storerooms, shrines, and an administration that tracked offerings and trade with Egypt. The sewage system — still visible — used tapered pipes to maintain water pressure, a technique not matched in Europe until the Romans. The Minoans channelled drinking water from Mount Youktas, 10km away, through an engineered system of hills and valleys.
 
- The palaces forced a hierarchical organization of the society with the king at the top of the pyramid. An important role in the maintenance of this hierarchy was played by religion. From the myths that have reached us, we may conclude that the king was presented to the people as a representative of and communicator with the deities. Minos had the reputation of a just king who imposed fair laws given to him by these deities. 
+The site you visit today is partly Sir Arthur Evans's early 20th-century reconstruction, which is controversial among archaeologists but makes the place genuinely legible to visitors. The vivid frescoes of bull-leapers and blue dolphins give the ruins a colour they would otherwise lack. Come early or late — this is among the most visited sites in Greece and the midday heat and tour groups can be overwhelming.
 
-
- The palaces were not only the homes of the king and his family. They have sections devoted to the deities, rooms for ceremonies, for ceramic and seal production and large storage sections for merchandise and agricultural products. The palaces had an organized administration. Many inscriptions which have been found list the offerings of the people. Commerce with Egypt and the East was under the control of the palaces. 
-
-
- The technical innovations that were developed to support the basic needs of the first palaces are simply amazing. The sewage system was very complex and it remained the best in the western world until the Roman era (almost 2,000 years later!). Stone pipes led the water into a central sewage system, with pipes decreasing in size in order to increase water pressure and drive out obstructions. In Knossos, the Minoans channelled drinking water from Mount Youktas, a distance of about 10km, to a water tank in the palace. They used pipes that fitted one within another, perfectly engineered to carry the water through an uneven terrain of hills and valleys. Similar systems existed in the other palaces. The palaces as well as the houses outside the palaces are multilevel; the lower level often did not have windows because it was used as a storage area. 
-
-
- The old palaces were destroyed three times between 1900 and 1700 B. C. The last time they were almost completely levelled by an earthquake and the Minoans found it pointless to try to repair them. All the palaces were rebuilt from the beginning after levelling the remains of the old palaces.
+Knossos sits 5km south of [Heraklion](/europe/greece/crete/heraklion), easily reached by city bus from the port or the old town.

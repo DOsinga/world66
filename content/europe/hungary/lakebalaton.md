@@ -1,8 +1,10 @@
 ---
-title: "Lake Balaton"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 46.8839
 longitude: 17.8477
+title: Lake Balaton
+type: location
 ---
 
 Lake Balaton is Hungary's inland sea and its most beloved summer playground. Stretching 80 kilometres from east to west and up to 15 kilometres wide, it is the largest lake in Central Europe — warm, shallow, and impossibly popular from June through August. Hungarians have built their own version of a Mediterranean culture along these shores, and they do it with considerable conviction.

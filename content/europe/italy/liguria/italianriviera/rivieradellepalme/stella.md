@@ -1,31 +1,14 @@
 ---
-title: "Stella"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.404721
 longitude: 8.501565
+title: Stella
+type: location
 ---
 
-A commune in the Ligurian Appennines made
- up of several different wards: San Giovanni, set
- on a small pass, Santa Giustina on the southern
- slope of the Colle del Giovo (516 meters or
- 1693 feet), San Martino and Corona. In the
- tenth century it came under the jurisdiction of
- several branches of the Aleramici, who built a
- castle in San Giovanni, of which only a few
- remains are left today. Disputed between Genoa
- and Savona, it was attacked by Genoa in 1225,
- though it was not until 1390-93 that the city
- was able to gain complete possession, buying it
- from the various feudatories. In the fifteenth
- century it was devastated by a fierce struggle
- with Albisola over questions of territory and the
- conflict was not resolved until 1482. It was then
- given its own statutes under the podestà of
- Varazze, which were confirmed in 1601. The
- seventh president of the Italian Republic,
- Sandro Pertini, was born in Stella. The parish
- church of San Martino houses wooden statues
- by Maragliano and an eighteenth-century
- fresco. It is set in restful surroundings,
- characterized by lush and extensive woods.
+Stella is a small comune in the Ligurian Apennines, made up of several distinct hamlets: San Giovanni, perched on a small mountain pass; Santa Giustina on the southern slope of the Colle del Giovo (516 m); San Martino; and Corona. Set among lush woodland, it is a quiet and restful corner of inland Liguria, a world apart from the busy coastal Riviera below.
+
+The town has a layered medieval history. In the tenth century it came under the jurisdiction of branches of the Aleramici dynasty, who built a castle in San Giovanni — only a few ruins survive today. Stella was long disputed between Genoa and Savona: Genoa attacked it in 1225 but did not gain full control until 1390–93, when it bought out the remaining feudal lords. A fierce territorial conflict with Albisola in the fifteenth century was not resolved until 1482, after which Stella received its own statutes under the podestà of Varazze, confirmed in 1601.
+
+Stella's most famous son is Sandro Pertini, the seventh President of the Italian Republic (1978–1985), a socialist politician and resistance hero who remained one of Italy's most beloved presidents. The parish church of San Martino contains wooden statues by the Genoese sculptor Anton Maria Maragliano and an eighteenth-century fresco.

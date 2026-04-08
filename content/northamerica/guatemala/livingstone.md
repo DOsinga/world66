@@ -1,8 +1,10 @@
 ---
-title: "Livingston"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 15.8281
 longitude: -88.7533
+title: Livingston
+type: location
 ---
 
 Livingston is unlike anywhere else in Guatemala. A Garífuna town on the Caribbean coast, it is accessible only by boat — there are no roads in or out — which gives it a pleasantly stranded, tropical atmosphere. The Garífuna are descendants of Afro-Caribbean and indigenous Arawak people, and their culture, language, music, and food are distinct from the rest of the country.

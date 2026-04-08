@@ -1,8 +1,10 @@
 ---
-title: 'Fort Bend County'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 29.5112
 longitude: -95.7807
+title: Fort Bend County
+type: location
 ---
 
 Fort Bend County is one of the fastest-growing areas in the United States, situated southwest of [Houston](/northamerica/unitedstates/texas/houston). Sugar Land, Missouri City, and Stafford are the main suburban communities.

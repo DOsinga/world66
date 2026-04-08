@@ -1,8 +1,10 @@
 ---
-title: "Troyes"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 48.297163
 longitude: 4.074626
+title: Troyes
+type: location
 ---
 
 Located on the banks of the Seine river, at 170 km from Paris (1h30 by

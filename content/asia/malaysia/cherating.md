@@ -1,10 +1,14 @@
 ---
-title: "Cherating"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 4.1265
+longitude: 103.3925
+title: Cherating
 type: location
-latitude: 4.126509
-longitude: 103.392474
 ---
 
-Cherating is located approx. 75 kilometers north of Kuantan. It is known as Asia's first Club Mediterranee are excellent for a host of leisure activities, such as windsurfing, swimming, snorkelling and parasailing. Among the beach's attractions is the rustic atmosphere in the kampungs, whose friendly people will usually play host to visitors. There are also a large number of backpackers visiting Cherating. Most guesthouses serve dinner for every guest at a fixed time. A nice way of meeting other travellers. The area is also known for the famous sea turtles. 
+Cherating is a low-key beach village on the east coast of Peninsular Malaysia, about 75 kilometres north of Kuantan. It was the site of Asia's first Club Med, but the real draw is the laid-back kampung atmosphere — thatched-roof guesthouses, backpacker bars, and a long sandy beach backed by coconut palms. Most guesthouses serve communal dinners at a fixed time, which makes it easy to meet other travellers.
 
-Cherating is also a good place to explore the surrounding area - it is not necessary to stay in Kuantan for that. There are a few travel agents around. You can, for example, arrange tours to sights and sights.
+The beach faces the South China Sea and is good for windsurfing, kayaking, and surfing during the monsoon months (November to March). The lagoon behind the beach is calm enough for beginners. Between June and September, green turtles come ashore to lay eggs at the nearby Chendor turtle sanctuary — guided night visits are the best way to see them.
+
+The mangrove river behind the village is worth a boat trip: you can spot monitor lizards, monkeys, otters, and at night spectacular displays of synchronised fireflies. Cherating also makes a good base for exploring the surrounding area, including Sungai Lembing's old tin mines and the waterfalls at Berkelah.

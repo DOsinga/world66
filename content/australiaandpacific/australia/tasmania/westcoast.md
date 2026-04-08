@@ -3,12 +3,12 @@ title: "West Coast"
 type: location
 latitude: -42.452508
 longitude: 145.679633
+done:
+  location_cleanup: 2026-04-08
 ---
 
-The West Coast of Tasmania is a wind and rain swept strech of the world, where thunderous seas pound against shores that rise towards a jumble of forested valleys and broken peaks. This gothic atmosphere almost certainly has some effect on the residents, mainly mining communities that tap the rich ore bodies under the ancient volcanic ranges. One should not visit the West Coast just to visit the townships, but as part of a larger tour that either circum-navigates the state or explores one of the major wilderness areas that abutt the West Coast on all sides.
+Tasmania's West Coast is wild and rain-swept, a place where thunderous seas pound against shores that rise toward a jumble of forested valleys and broken peaks. The gothic atmosphere seeps into everything — the grey skies, the ruined mine buildings, the tangled rainforest closing in on the road. The communities here are mainly old mining towns that tap the rich ore bodies beneath the volcanic ranges.
 
+You do not come to the West Coast for the townships alone, but as part of a larger tour — either circumnavigating the island or exploring one of the great wilderness areas that border the coast on every side. The most visitor-oriented town is Strahan, at the mouth of the Gordon River, where boat cruises head upstream through ancient Huon pine forest. North of Strahan lie Rosebery, Zeehan, and Savage River. Queenstown, connected to Hobart via the Lyell Highway, is a striking place — its bare, eroded hills, stripped by a century of mining and smelter fumes, look like a moonscape.
 
- The most tourist-oriented town on the coast is probably Strahan, situated at the mouth of the Franklin-Gordon river. North of Strahan are the coastal townships of Roseberry, Zeehan and Savage River. The Lyell highway connects Strahan to Hobart through Queenstown. The West Coast can be also be reached from the North either by an inland road from the North-West that skirts the Cradle-Mountain National Park, or by a recent coastal road that has ploughed through the Tarkine region - Australia's largest single tract of temperate rainforest.
-
-
- An extremely short trip to Tasmania would probably miss the West Coast, although a three-day circumnavigation of the state might include Strahan. A longer trip should visit the area as part of a wilderness experience in the Central Highlands, South-West or Tarkine region.
+The West Coast can also be reached from the north, either by an inland road skirting Cradle Mountain–Lake St Clair National Park or by a newer coastal road through the Tarkine region — Australia's largest single tract of temperate rainforest. A short trip to Tasmania might miss this side of the island, but a longer stay should include it.

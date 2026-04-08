@@ -1,14 +1,15 @@
 ---
-title: Bahamas
-type: location
-latitude: 25.0343
-longitude: -77.3963
-image: bahamas.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Tigershark2.jpg
-image_license: CC BY-SA 4.0
-image_attribution: albert kok
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: bahamas.jpg
+image_attribution: albert kok
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Tigershark2.jpg
+latitude: 25.0343
+longitude: -77.3963
+title: Bahamas
+type: location
 ---
 
 The Bahamas is an archipelago of some 700 islands and 2,400 cays scattered across 100,000 square miles of the Atlantic Ocean, beginning just 50 miles east of Florida and stretching south toward Cuba and Haiti. Only about 30 of those islands are inhabited, and the contrast between them is one of the country's great draws: Nassau offers casinos, cruise ships, and colonial architecture; the Exumas are a wilderness of sandbars and transparent water; Eleuthera has pink sand beaches and farm-to-table restaurants; Andros is the world's third-largest barrier reef with almost no tourists.

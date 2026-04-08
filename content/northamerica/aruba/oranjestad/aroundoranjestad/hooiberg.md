@@ -1,9 +1,8 @@
 ---
 title: "Hooiberg"
 type: location
-type: "general"
+latitude: 12.4972
+longitude: -69.9810
 ---
 
-A great view you can find at the the top of Hooiberg (the Haystack), the highest peak of the island, located 10 km east of Oranjestad. You have to climb up several hundred steps. It is quite exhausting, but the view is spectacular.
-
-type: general
+Hooiberg (the Haystack) is a 165-metre volcanic hill about 10 kilometres east of Oranjestad, the most prominent landmark in the interior of the island. Several hundred concrete steps lead to the top, where the view is spectacular — on a clear day you can see the Venezuelan coast. It is quite exhausting in the heat, but the panorama makes it worth the climb.

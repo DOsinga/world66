@@ -1,6 +1,6 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Bars and Cafes"
 type: section
 ---
 
-Liverpool has been known for its contribution to the music scene since the success of the Beatles in the Sixties. The parts of Liverpool which are made famous by the Beatles, such as Penny Lane, Strawberry Fields, the Cavern Club and Mathew Street are real areas which can be visited on a tour, which leaves from the Albert Dock. More recently, groups such as Cast and Space have continued the musical tradition and the city's fame attracts most of the best national and international groups to play here, at venues such as the Empire, the Royal Court and the L2.
+Liverpool's nightlife has been famous since the 1960s, and the city still punches well above its weight. Mathew Street is the tourist draw — the Cavern Club and its neighbours — but the real action is spread across the city centre. Bold Street and its side streets are good for daytime coffee and evening drinks alike, while the Baltic Triangle has become the go-to area for independent bars, live music, and late-night venues. Concert Square and the Ropewalks area fill up on weekends with a younger crowd. For something quieter, the pubs around Hope Street and the Georgian Quarter are more relaxed.

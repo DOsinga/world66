@@ -1,19 +1,14 @@
 ---
-title: "Meghalaya"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 25.537943
 longitude: 91.29991
+title: Meghalaya
+type: location
 ---
 
-The state of Meghalaya is also known as the *abode of the clouds*. It was declared a state on 21st January 1972. Meghalaya offers an abundance of natural beauty as well as excellent trekking opportunities to explre nature at its best. Woods, a rich cultural heritage, misty heights, beautiful waterfalls, luxurious vegetation, flora and fauna will undoubtedly leave an everlasting impression. Despite all this, Meghalaya is one of the wettest places on earth. The capital Shillong is quite picturesque. It has a very strong colonial atmosphere. Here you will feel and see the Raj's impact in every single tea house.
- 
+Meghalaya — *abode of the clouds* in Sanskrit — is one of the wettest places on earth, a fact that shapes everything about it. The northeastern Indian state sits on a high plateau, coaxing rainfall out of the Bay of Bengal until the hills are smothered in mist and dense subtropical forest. Waterfalls cascade through jungle ravines, and ancient living-root bridges — grown over centuries from the roots of rubber fig trees — still carry people across mountain streams.
 
+The state is one of India's seven sister states of the northeast, bordered by Assam to the north and Bangladesh to the south. It was carved out of Assam and declared a separate state on 21 January 1972, with the capital at Shillong. The three main indigenous groups — the Khasi, Garo, and Jaintia peoples — are matrilineal, which gives the culture a notably different character from most of India. Women inherit property and carry the family name.
 
- Meghalaya is one of the seven sister states of the North Eastern region. It used to be part of Assam. The state is bordered by Assam in the north and Bangladesh in the south. 
-
-
- 
-
-## Destinations in Meghalaya
-
-[Shillong](/asia/india/meghalaya/shillong)
+[Shillong](/asia/india/meghalaya/shillong), the capital, sits at around 1,500 metres and has a distinctly colonial character — the British called it the "Scotland of the East" and left behind churches, golf courses, and stone bungalows. It is picturesque and pleasantly cool compared to the Indian plains.

@@ -1,8 +1,10 @@
 ---
-title: "Dijon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 47.321581
 longitude: 5.04147
+title: Dijon
+type: location
 ---
 
 Once the proud capital of the Dukes of Burgundy – Jean sans Peur, Philippe le Bon, Charles le Téméraire were born there – Dijon is nowadays a modern regional capital, within the only agglomeration with more than two hundred thousand inhabitants located between [Lyon](/europe/france/alpes/lyon) and [Paris](/europe/france/paris).

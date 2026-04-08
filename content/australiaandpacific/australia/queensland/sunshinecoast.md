@@ -1,14 +1,14 @@
 ---
-title: "Sunshine Coast"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -26.654434
 longitude: 153.093367
+title: Sunshine Coast
+type: location
 ---
 
-The Sunshine Coast begins 90 km North of Brisbane at Caloundra and stretches for almost 100km to Noosa, enclosing some of the best beaches and scenery on the planet. Not to be confused with the Gold Coast, which is South of Brisbane and a waste of time to visit as it already suffers the "Miami Effect" and looks like every other "holiday" destination on the planet.
+The Sunshine Coast stretches about 100 km along the Queensland coast north of Brisbane, from Caloundra in the south to [Noosa](/australiaandpacific/australia/queensland/noosa) in the north. It is the quieter, less developed alternative to the Gold Coast — surf beaches, hinterland rainforest, and small towns that still feel like beach towns rather than resort strips.
 
-A really great family holiday zone begins at Caloundra, the gateway to the SunCoast.
+Noosa at the northern end is the highlight: a national park headland with koalas in the trees, a sheltered main beach, and Hastings Street's restaurants and shops. Mooloolaba has a good beach and a harbour with fish-and-chip shops. The Glass House Mountains, a cluster of volcanic plugs visible from the highway, are worth a detour for a short hike. The hinterland behind the coast — the Blackall Range — has rainforest walks, the town of Montville, and Mary Cairncross Scenic Reserve.
 
-Unfortunately, in real terms, the Sunshine Coast is probably the fastest growing region in Australia because of this and the same errors in development will occur, the infamous "Miami Effect" where everything looks the same as the atrocious USA runaway developments, so hurry to visit this still wonderfully accessible region and experience - and maybe buy some of it - before it is too late.....
-
-Contributed by: John Rigby of FABLOR Internet Publishing Systems http://www.fablor.com
+The Sunshine Coast is about 90 minutes' drive north of Brisbane, or accessible by train to Nambour and Landsborough with bus connections to the coast towns.

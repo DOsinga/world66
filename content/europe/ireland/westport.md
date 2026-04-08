@@ -1,24 +1,16 @@
 ---
-title: "Westport"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 53.800064
 longitude: -9.520218
+title: Westport
+type: location
 ---
 
-Westport in Mayo country is an excellent place to start exploring this exciting part of Ireland. 
+Westport is one of the few planned towns in Ireland, laid out in the 18th century by architect James Wyatt. The result is a pleasing Georgian grid of streets centered on The Mall, a tree-lined boulevard running alongside the Carrowbeg River. It sits on the eastern shore of Clew Bay, in the shadow of Croagh Patrick, and it's a genuinely good base for exploring the west of Mayo.
 
-The town is situated in the shadow of Croagh Patrick, overlooking Clew Bay. One of the few planned towns in the Country, Westport was designed in the 18th Century by James Wyatt. It has become one of Ireland's established tourism centres, with many outstanding features, most notably the beautiful tree lined boulevard known as The Mall, running parallel to the Carrowbeg River. 
+Croagh Patrick dominates the skyline to the southwest. On the last Sunday of July, tens of thousands of pilgrims climb it — some barefoot — to honor St. Patrick, who is said to have fasted on the summit for forty days. The rest of the year you can walk up without ceremony, and on a clear day the view of Clew Bay, with its scatter of islands, is one of the best in Connacht.
 
-Croagh Patrick, one of Europe's best know places of Pilgrimage, has provided a tough ascent for many pilgrims each year, climbing barefoot in the memory of St. Patrick, who spent forty days and forty nights fasting on the summit more than 1,500 years ago. A small church at the summit of the mountain welcomes penitents, while magnificent views of Clew Bay, with an island for every day of the week, provides inspiration for many walkers and visitors throughout the year. 
+Westport House, the old Georgian seat of the Sligo family, is the town's most formal attraction and opens to visitors from spring through early autumn. The coastline around Clew Bay offers a string of sandy beaches — Bertra, Old Head, Carramore near Louisburgh — and the bay eventually gives way to Killary Harbour, Ireland's only true fjord, tucked into the hills to the south.
 
-Westport town boasts many tourist facilities. An excellent 18 hole Championship Golf Course is located on the Golf Course Road, just off the Newport Road, approximately one mile outside the town centre. This fabulous golf course guarantees excellent golf and scenic splendour. 
-
-Horse riding and Pony trekking is on offer all year round, contact Drummindoo Stud Equitation Centre. Clay pigeon shooting, sea angling, hill walking, sailing and adventure sports are among the many other activities on offer to the visitor. Contact, The Westport Tourist Office The Mall Westport. Telephone: ++ 353 (0) 98 25711. 
-
-Westport is also a leading sea angling centre. Boats may be hired by groups or individuals and leave the harbour daily, bound for the rich fishing grounds in the Bay, where a variety of fish offer excellent sport. 
-
-The freshwater angler is well catered for on the many lakes and rivers. For a modest license fee, a day's or a week's fishing may be had. The Erriff and Delphi fisheries are well known and there are many lesser streams and lakes to enjoy. 
-
-There is a wide selection of sandy beaches to choose from on the North and South shores of Clew Bay, and down the coast south of the Bay to where the isolated strand of Thallabawn meets Killary Harbour, Ireland's only fjord. Many of the beaches are EC Blue Flag winners including Bertra, near Murrisk, Old Head and Carramore in Louisburgh. 
-
-Westport is, of course, home of Westport House and Country Estate, one of Ireland's top Day Visitor Attractions. This fine Georgian mansion, home of Lord Sligo, is open to visitors from April to September each year.
+The town itself has a lively pub scene and a good concentration of restaurants for its size. It works well as a jumping-off point for Connemara to the south or Achill Island to the north.

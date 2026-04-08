@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Asilah has a train station. Trains to Tangiers take about 45 minutes. There are about 4 trains a day. For a time table see ONCF.
+Asilah has a train station on the [Tangier](/africa/morocco/tangier)–[Rabat](/africa/morocco/rabat) line. Trains to Tangier take about 45 minutes, with roughly four departures a day.
 
- There are about 10 buses a day going to Tanger and about 5 of those continue to Larache. Both take about an hour. Grand taxi's in both directions leave when full.
+Buses are more frequent — about ten a day to Tangier, with around five continuing south to [Larache](/africa/morocco/larache). Both journeys take about an hour. Grand taxis in both directions leave when full from the stands near the station.

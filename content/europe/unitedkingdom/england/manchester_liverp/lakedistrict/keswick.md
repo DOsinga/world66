@@ -1,8 +1,10 @@
 ---
-title: 'Keswick'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 54.601026
 longitude: -3.1377
+title: Keswick
+type: location
 ---
 
 Keswick lies on the shores of Derwentwater, near five major lakes, and serves as the main base for exploring the northern Lake District. There are quaint shops, restaurants and art galleries along the shoreline.

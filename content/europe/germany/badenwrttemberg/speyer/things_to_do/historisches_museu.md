@@ -1,6 +1,7 @@
 ---
 title: "Historisches Museum der Pfalz"
 type: poi
+category: "Museum"
 latitude: 49.315484
 longitude: 8.441434
 ---

@@ -3,14 +3,12 @@ title: "Arlon"
 type: location
 latitude: 49.68346
 longitude: 5.816771
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Arlon is the southernmost city of Belgium, situated close to the Grand-Duchy of [Luxembourg](/europe/luxembourg). With a population of only 24.000 inhabitants and has succeeded in preserving its quiet charm. In the historic centre you find many old houses in either the typical Luxemburgian style or the more Belgian-oriented neo-styles of the end of the 19th century.
+Arlon is the southernmost city in Belgium, tucked into the corner where Belgium meets the Grand Duchy of [Luxembourg](/europe/luxembourg). A small town of around 24,000 people, it has preserved a quiet charm, with old houses in the historic centre built in either the typical Luxembourgish style or the Belgian neo-classical fashion of the late 19th century.
 
+The name comes from the Latin *Orolaunum*, and the city's Roman roots are its main draw. The Musée Luxembourgeois has a remarkable collection of archaeological finds, including over 450 Gallo-Roman sculptured panels and statues from tombstones and Roman thermae that give a vivid picture of daily life two thousand years ago.
 
- 
- The name Arlon comes from the Latin 'Orolanum', which indicates that the city was founded by the Romans. After the decline of the Roman Empire, Arlon was taken by Germanic tribes (the Francs). During the Middle-Ages the city was part of the County of Luxembourg. The Musse Lyxembourgois has a good collection of archelogical finds from the regio.
- The Gallo-roman department of this museum boasts a prominent collection with over 450 statues from tombstones or from the Roman 'Thermae' (baths). Nearly 600 sculptured panels give more information about life in Roman times.
-
-
- Also worth a visit is the Archeological park (situated Rue des Thermes Romaines). In the center of the park are the foundations of the oldest church in Belgium: a basilica from the 5th century. Around it is a cemetery where christianized Merovingians were buried as from the beginning of the 6th century. Many of the ancient tombstones are still present. Furthermore, one can see at the back of the park the remainders of Roman Thermae and bathhouses.
+The Archaeological Park on Rue des Thermes Romaines is worth a visit. At its centre are the foundations of a 5th-century basilica — claimed to be the oldest church in Belgium — surrounded by a Merovingian cemetery from the 6th century, with many original tombstones still in place. At the back of the park you can see the remains of Roman baths.

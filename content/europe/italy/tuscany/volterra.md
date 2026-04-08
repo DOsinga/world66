@@ -1,12 +1,16 @@
 ---
-title: "Volterra"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.4003
+longitude: 10.86
+title: Volterra
 type: location
-latitude: 43.400337
-longitude: 10.860019
 ---
 
-Travel Guide
+Volterra sits 545 metres above sea level on a dramatic ridge in the Tuscan hills, looking out over the Cecina and Era valleys. It is less visited than [Siena](/europe/italy/tuscany/siena) or [San Gimignano](/europe/italy/tuscany/sangimignano), which is precisely the point — you can walk its narrow stone streets without feeling like you are in a theme park.
 
-Volterra is one of the finest and lesser known hilltop towns tucked away in the heart of Tuscany only a short distance from Florence, Siena, Pisa, S.Gimignano. Idyllically set amidst an evocative landscape of soft rolling hills and lush woodland abruptly defined by barren, deep clay walled chasms gullies and ravines, Volterra, 545 metres above sea level, dominates and divides the Cecina and Era valleys, a haven of Etruscan, Roman, Medieval and Rennaissance art and architecture.
-The epheremal landscape enhances the mystery, isolation and romantic melancholy that pervades this unique, artistic haven, set in the heart of Tuscany.
-Volterra is a city of stone. Its narrow streets,looming towers,and majestic palaces and fortifications are made of stone. Alabaster, a yellow-grey stone effused with fossils of rare beauty.
+The town is ancient in the truest sense. The Etruscans settled here before Rome was a city, and traces of their civilisation — walls, urns, gateways — sit alongside medieval towers and Renaissance palaces. The local stone is alabaster, a creamy translucent material that has been quarried and carved here for over two thousand years. Volterra's craftsmen still work it today, and the workshops along the main street are worth a look.
+
+The landscape around the town is remarkable. Directly to the west, the *Balze* — deep clay chasms carved by erosion — have slowly eaten into the hillside for centuries, swallowing an Etruscan necropolis and a medieval church. The effect is strange and quietly unsettling.
+
+Volterra is a half-day town for most visitors coming from Florence or Siena, but it rewards a night's stay. Once the day-trippers leave, the streets belong to residents, and the town shows its real character — modest, self-contained, and pleasingly indifferent to tourism.

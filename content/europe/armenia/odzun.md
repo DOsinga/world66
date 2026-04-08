@@ -1,34 +1,18 @@
 ---
-title: "Odzun"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 41.051653
 longitude: 44.615615
+title: Odzun
+type: location
 ---
 
-Odzun (Օձուն) is a village at a dissected plateau above the Debed
-gorge, just above [Alaverdi](/europe/armenia/alaverdi). On the contrary with [Sanahin](/europe/armenia/sanahin_1) and
-[Haghpat](/europe/armenia/haghpat_3) it is located at the left "bank" of the gorge.
+Odzun (Օձուն) is a village on a dissected plateau above the Debed gorge, just above [Alaverdi](/europe/armenia/alaverdi). Unlike [Sanahin](/europe/armenia/sanahin_1) and [Haghpat](/europe/armenia/haghpat_3), it sits on the left bank of the gorge.
 
-While tourist masses visiting the two monasteries mainly ignore it, its
-8th century (laid on foundations of 6th century church) basilica (one
-of the finest in Armenia) is well worth a visit.
+While tourist crowds visiting those two monasteries largely bypass it, Odzun's 8th-century basilica — built on the foundations of a 6th-century church — is one of the finest in Armenia and well worth a visit. It was built as a tribute to the Supreme Katholikos Hovhannes Odzunetsi (John of Odzun), who was born in the village.
 
-It was built as a tribute of the Supreme Katholikos Hovhannes Odzunetsi (John of Odzun) who was born in the village.
+The southern side has preserved an arcaded cloister, and the western side has a blind wall with an entrance. Just north of the church stands an unusual funerary monument — one of only two of its kind in Armenia; the other is in the southern Armenian village of Aghudi.
 
-The southern side has still preserved arcaded cloister and the wesetrn
-side has a blind wall with an entrance. Just north of the church There
-is an unusual funerary monument one of only two existing in Armenia;
-the other one is located in southern Armenian village Aghudi.
+There is no entry fee as such: visitors are expected to buy and light a candle. If the church is locked, the caretaker may be tending the grass around it (no simple task given the many clergy gravestones) or, if you are unlucky, absent.
 
-To visit the church there is no entry fe as such except buying and
-lighting some candles. If it's locked the caretaker might just be
-cutting the grass around the church (not a simple task due to many
-clergy gravestones) or (if you're unlocky) be absent for a good reason.
-
-If you don't have your own transport, you'll have negotiate with a
-local to drive you or take a walk (taking shortcuts can be a quite
-pleasant "mountaineering" trip when it's not too hot). From the bus
-station go south (the main road towards [Vanadzor](/europe/armenia/vanadzor)) soon at the
-southern part of the town (very close to rail tracks) turn right and go
-uphill until you reach the village after a couple of curves.
-
+Without your own transport, you can negotiate a ride with a local or walk from Alaverdi — taking shortcuts through the gorge makes for a pleasant hillside trek when it is not too hot. From the bus station head south along the main road toward [Vanadzor](/europe/armenia/vanadzor), then near the southern edge of town (close to the rail tracks) turn right and go uphill until you reach the village after a couple of bends.

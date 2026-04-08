@@ -1,27 +1,10 @@
 ---
 title: "Spas"
-type: location
-latitude: 50.491424
-longitude: 12.177248
+type: section
 ---
 
-Spas are what people used to come to Baden-Baden for. So don't miss to at least have a look at the different bathing options.
+Bathing is what Baden-Baden was built for — the name literally means "baths at Baden" — and the town's thermal springs have been in use since Roman times. The two main bathhouses sit side by side on Romerplatz and offer radically different experiences.
 
-**all**
+The Friedrichsbad is nineteenth-century grandeur: a strict, regimented 17-step bathing programme through saunas, steam rooms, and pools under a painted dome. You leave everything in a locker and move through the circuit in the order prescribed. It is a singular experience — part spa, part ritual — and worth every minute. The Caracalla Therme next door is the modern alternative: a large complex of indoor and outdoor thermal pools, more relaxed and family-friendly.
 
-**Kurhaus**
-
-The Kurhaus and the Casino are a nice attraction in the center of town, just west of the Oos river.Designe in 1824 it is everything a Kurhaus should be with more grandeur than all of Las Vegas.
-
-**Roman Baths**
-
-The remains of the Roman Baths prove that Baden-Baden was a spa in the old days already. Address: Romerplatz.
-
-**Friedrichsbad**
-
-19-th century posh. 36 DM for a bathing program of three or more hours. Open Monday to Saturday 9am-10 pm, Sunday from 2pm. ** kaye king:** Just returned from Baden-Baden. In our opinion the Friedrichsbad Spa was the "highlight" of our trip. We have visited many spas in the world and on a scale of 1 - 10 we would give this spa a definite "10"........ Can't wait to return next year.
- [more..](/europe/germany/badenwrttemberg/badenbaden/spas/friedrichsbad)
-
-**Caracalla Therme**
-
-Modern bathing complex next to the roman baths. 25 Dm for three hours. Open daily from 8 am to 10 pm.
+The remains of the original Roman baths are on display beneath the Friedrichsbad. The Kurhaus, designed in 1824 and set in formal gardens along the Oos river, houses one of Europe's most elegant casinos — Marlene Dietrich called it the most beautiful in the world.

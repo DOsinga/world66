@@ -1,8 +1,10 @@
 ---
-title: "Brentwood"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 37.9318
-longitude: -121.6960
+longitude: -121.696
+title: Brentwood
+type: location
 ---
 
 Brentwood sits at the eastern edge of Contra Costa County, about an hour's drive from San Francisco, where the Sacramento-San Joaquin Delta meets the foothills of Mount Diablo. It is, at its core, a farm town — and a good one. The surrounding flatlands produce some of the best sweet corn in the state, along with stone fruits, berries, and vegetables that most Bay Area residents only encounter in supermarkets.

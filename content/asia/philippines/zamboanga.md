@@ -1,8 +1,16 @@
 ---
-title: "Zamboanga"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 6.9102
+longitude: 122.074
+title: Zamboanga
 type: location
-latitude: 18.188871
-longitude: 120.547657
 ---
 
-The city is melting pot of cultures. Major proofs for that are the colorful vinta saila and the imposing stoneworks of Fort Pilar. Fort Pilar was built in 1635 by a Jesuit priest engineer and Spanish authorities to ward off attacks from Moros and foreign invaders. The fort was eventually converted to a shrine and miraculous powers are attributed to the statue of Our Lady of the Pillar. Ohter highlights to see are Plaza Pershing and the island of Great Santa Cruz. Plaza Pershing is a quaint remnant of a typical Spanish square, renamed in honor of a former American Governor of the Moro Province. Pettit Barracks was established by U.S. Occupation Forces in 1899 and named after its commanding officer. The major natural attraction is Great Santa Cruz Island, which is known for its pinkish sand beach. On the island is a fishing village, a lagoon and an old Muslim burial ground. Important notice: Mindanao and especially the city of Zamboanga experienced some kidnapping incidents. Please do not walk around during night-time and do not leave the city centre.
+Zamboanga City sits on the tip of the Zamboanga Peninsula in western Mindanao, a melting pot of Christian, Muslim, and indigenous cultures. The city's symbol is the colourful *vinta* — an outrigger sailboat with vivid patchwork sails that you will see in the harbour and on practically every postcard.
+
+**Fort Pilar**, built in 1635 by Spanish Jesuits to defend against Moro raiders and foreign invaders, is the main historical landmark. It was converted into a shrine to Our Lady of the Pillar and now also houses a small museum. **Plaza Pershing**, renamed after a former American governor of the Moro Province, is a pleasant remnant of the Spanish colonial square.
+
+The main natural attraction is **Great Santa Cruz Island**, known for its unusual pink sand beach, coloured by crushed red coral. The island also has a fishing village, a lagoon, and an old Muslim burial ground. Boat trips depart from the city.
+
+A note on safety: Zamboanga and parts of Mindanao have experienced security incidents. Check current travel advisories before visiting, stay in the city centre, and avoid walking around after dark.

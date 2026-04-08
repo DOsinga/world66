@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-07'
 latitude: 6.499072
 longitude: 2.625336
 title: Porto-Novo

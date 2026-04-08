@@ -1,8 +1,6 @@
 ---
-title: "Getting There in Ponce"
+title: "Getting There"
 type: section
 ---
 
-Ponce can easily be reached by jet from the United States. Continental Airlines flies from Newark, Jet Blue from New York JFK, abd Spirit Airlines from Ft. Lauderdale, Florida.
-
-Domestic connections to San Juan are available on Cape Air, a Continental partner.
+Ponce has its own airport, Mercedita (PSE), with direct flights from the US mainland. Most visitors fly into San Juan's Luis Muñoz Marín International Airport and drive south — the journey takes about 90 minutes on the autopista. Públicos (shared vans) also run between San Juan and Ponce from the main terminals.

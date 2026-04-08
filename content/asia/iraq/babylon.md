@@ -1,8 +1,10 @@
 ---
-title: "Babylon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 32.537792
 longitude: 44.427003
+title: Babylon
+type: location
 ---
 
 The name still carries weight. Babylon was the capital of no fewer than ten Mesopotamian dynasties over two thousand years, and at the height of its power in the 6th century BC under Nebuchadnezzar II it was the largest city in the world. The Hanging Gardens were one of the Seven Wonders of the ancient world; the Ishtar Gate — with its brilliant blue-glazed bricks and procession of dragons and bulls — still astonishes, though the original is in Berlin and what stands here is a reconstruction.

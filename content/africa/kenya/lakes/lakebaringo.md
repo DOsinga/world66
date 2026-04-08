@@ -1,43 +1,14 @@
 ---
-title: "Lake Baringo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 0.618499
 longitude: 36.118288
+title: Lake Baringo
+type: location
 ---
 
-Lake Baringo is a big shallow freshwater lake north of
- Marigat. Once a productive lake for fish, it has been
- severely over-fished in recent years. There are still
- plenty of birds, however, and the many islands make it
- a nice place to visit. You can arrange boat trips to
- the islands through Robert’s Camp or Lake Baringo Club.
+Lake Baringo is a large, shallow freshwater lake in the Rift Valley, north of Marigat and roughly 270 kilometres northwest of [Nairobi](/africa/kenya/nairobi). Once a productive fishing lake, it has been heavily overfished in recent years, but remains one of Kenya's premier birdwatching destinations — over 450 species have been recorded here. The many islands and papyrus-fringed shoreline make boat trips a highlight.
 
+The village of Kampi ya Samaki, on the western shore, is the main base. Robert's Camp is the most popular place to stay — you can camp or book a banda, and boat trips to the islands can be arranged from here. The Lake Baringo Club, a little further along the shore, has a swimming pool, restaurant, and grounds that attract hornbills and other birds right to the breakfast table.
 
- To get to Lake Baringo, take B4 north outside of
- Nakuru. Continue 15 km past Marigat and you’ll see a
- signpost for the village of *Kampi ya Samaki* and
- Lake Baringo Club. There is direct public
- transportation to the lake from Nakuru. However, it
- should be faster for you to first take a matatu to
- Marigat, the from there take another to the lake.
-
-
- There are several places to stay on Lake Baringo. The
- most comfortable and pleasant place is *Robert’s
- Camp.* You can camp there for Ksh 200 per person,
- with access to showers and toilets. There are also a
- few double bandas (huts) for KSh 660 per person per
- night. There’s a store with a good variety of
- groceries and a bar on the grounds. If Robert’s is
- full, try the *Bahari Lodge* where you can get abed for KSh 100.
-
-
- If you’re looking for an upper-end hotel, there’s
- Block Hotel’s *Lake Baringo Club,* which has
- singles/doubles for US$ 39/78 in the low season and
- US$ 83/128 in the high season. The club has a
- badminton court, dart boards, a swimming pool, a
- library, and an excellent restaurant. *Island Camp
- Baringo* (# (071) 374069) is a nice tented lodge on
- Ol Kokwa Island. There are singles/doubles with full
- board for US$ 69/138 in the low season and US$ 141/187in the high season.
+To get here from [Nakuru](/africa/kenya/nakuru), take the B4 north and continue 15 kilometres past Marigat. Matatus run from Nakuru to Marigat, and from there to the lake.

@@ -1,8 +1,10 @@
 ---
-title: "Fairplay"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.225189
 longitude: -106.001952
+title: Fairplay
+type: location
 ---
 
 Travel Guide

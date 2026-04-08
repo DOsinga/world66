@@ -1,22 +1,16 @@
 ---
-title: "Maruata"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 18.273235
 longitude: -103.348683
+title: Maruata
+type: location
 ---
 
-Travel Guide
+Maruata is a tiny fishing village hidden along the Michoacan coast, known mainly to backpackers, campers, and Mexican students willing to trade comfort for one of the most beautiful and remote beaches on the Pacific coast of Mexico.
 
-Hidden along the Michoacan coast, lies the small town of Maruata. It's relative obscurity and lack of mainstream accomodations leaves it to those of a more adventurous spirit. A favorite of backpackers, campers and Mexican students, Maruata caters to a younger, adventuresome group.
+The village has two main beaches. The main beach looks out onto a sheltered bay — calm enough for swimming and a major sea turtle nesting site, with a small sanctuary working to protect eggs from poachers. The second beach, surrounded by weathered rock monoliths, faces the open Pacific and gets full-force rollers that break directly on the sand.
 
-Maruata has two main beaches, the main sheltered beach that looks out onto a small bay, and a smaller beach surrounded by weathered rock monoliths. The latter beach has no breakwater for the large pacific rollers, which break directly on the beach.
+Accommodation is bare-bones: a handful of palapas with beds, and beyond that, camping on the beach. There is a small convenience store in town, but do not count on it for anything specific — food spoils quickly in the heat and humidity. A few beach restaurants serve tortillas, beans, fried fish, cold beer, and Coca-Cola.
 
-The main beach is a famed sea turtle nesting site. Indeed, there is a turtle sanctuary that is adjacent to the tiny town, about 2 miles down the beach. The sanctuary works to prevent the poaching of turtle eggs.
-
-There are palapas with beds available, but only a few. Otherwise, camping is the next form of accomodation. There are only a few toilets, all are
-
-There is a convenience store that sells some food items, but don't rely on it for anything specific. Much of the food spoils rapidly in the warm, humid climate.
-
-There are a few beach "restaurants" that offer tortillas, beans and fried fish, as well as cold beer and Coca-Cola.
-
-There is no direct bus service to Maruata. One must take the bus to Lazaro Cardenas and inform the driver that you wish to stop at Maruata. From there, you must then take a short walk (less than a mile) to the beach, passing through town and through the small stream.
+There is no direct bus service. Take any bus heading to Lazaro Cardenas and tell the driver you want to stop at Maruata. From the drop-off point it is a short walk of about a kilometre through town and across a stream to reach the beach.

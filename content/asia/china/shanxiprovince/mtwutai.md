@@ -1,18 +1,14 @@
 ---
-title: "Mt. Wutai"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.037334
 longitude: 113.489871
+title: Mt. Wutai
+type: location
 ---
 
-Located in the Wutai County, Mt. Wutai is one of the four China's well-known Buddhist shrines and the only Chinese mountain mentioned in Buddhist scriptures. The mountain is called a cool platform due to its cool and pleasant climates even in the summer. It has been regarded as an ideal place for escaping summer heat since ancient times. 
+Mt. Wutai is one of China's four sacred Buddhist mountains and the only Chinese peak mentioned in Buddhist scripture. The name means "five terraces," referring to the five flat-topped peaks that ring the central valley. At 3,058 metres the northern summit is the highest point in northern China, and the whole area stays cool even in midsummer — hence its old name, the "cool platform."
 
+Temple construction here began in the Eastern Han Dynasty and continued for nearly two thousand years. Around 76 temples survive, more than on any other mountain in China. The most important are the Xiantong Temple, Tayuan Temple with its prominent white stupa, and the Tang Dynasty Foguang Temple and Nanchan Temple — the latter two among the oldest surviving wooden structures in the country.
 
- 
- 
- Construction of the temples began in the Eastern Han Dynasty (25-220) and last l,900 years. So far there remain a total of 76 temples, ranking first in China. The must-see are the Xiantong Temple, the Tayuan Temple, the Shifang Temple, the Pusading Temple, the Dailuoding Temple, the Guangji Temple, the Wanfo Pavilion, the Foguang Temple and the Nanchan Temple, etc. Each temple with different-dynasty styles has something to be recommended.
-
-
- 
- 
- The five peaks (platforms) of the mountain have outstanding natural scenery. Enclosed by them, the beautiful monastic village called Taihuai lies deep in an alpine valley, which is the center of Mt. Wutai's Buddhist Religion. With splendid wooden architectural style of the ancient China, Taihuai's 15 or so old temples and monasteries are a sampler of the many others dotting the surrounding mountainsides. The most amazing thing is the magical atmosphere surrounded the village, which is peaceful, quiet and elegant.
+The monastic village of Taihuai sits deep in the alpine valley enclosed by the five peaks. This is the spiritual and practical centre of Mt. Wutai: a cluster of fifteen or so active temples and monasteries connected by walkways, surrounded by mountains thick with forest. The atmosphere is genuinely peaceful — incense smoke drifts between the halls, monks chant at dawn, and the whole place feels far removed from modern China despite the tourist buses parked at its edges.

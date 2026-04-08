@@ -1,9 +1,10 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-You may go to Vorokhta by train or by bus (or minibus). Buses are faster and more comfortable than local trains. You will probably have to take two buses from Lviv, with a quick change in Ivano-Frankivsk. Although the trip by bus takes as long as the train, its more efficient. The bus "system" in western Ukraine is good by anyone's standards. Considering that the train from Vorokhta to Lviv leaves at 2:30am, and that's it difficult/impossible to buy a ticket even if you speak Russian, I would suggest the relative luxury of the bus. The people on the bus are fun.
+Vorokhta is most easily reached by bus from Lviv or Ivano-Frankivsk. Buses are faster and more comfortable than the local train, and the intercity bus network in western Ukraine is reliable. From Lviv, you will typically need to change in Ivano-Frankivsk; the total journey takes around four to five hours.
 
-**Contributors**
-July 07, 2006
+The train from Vorokhta to Lviv departs in the middle of the night, which makes it impractical for most travellers. If you want the rail experience, it is more sensible to take the train in the direction of Vorokhta, arriving on a schedule that suits daytime arrival.
+
+Ivano-Frankivsk is the main regional hub, with good bus connections to Vorokhta as well as to other Carpathian resort towns such as Yaremche and Kosiv.

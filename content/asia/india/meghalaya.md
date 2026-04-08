@@ -17,3 +17,5 @@ The state of Meghalaya is also known as the *abode of the clouds*. It was declar
 ## Destinations in Meghalaya
 
 [Shillong](/asia/india/meghalaya/shillong)
+
+[Cherrapunji](/asia/india/meghalaya/cherrapunji)

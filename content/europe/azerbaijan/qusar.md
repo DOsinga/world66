@@ -1,18 +1,16 @@
 ---
-title: "Qusar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 41.449868
 longitude: 48.288893
+title: Qusar
+type: location
 ---
 
-Located under the backdrop of sacred mount Shahdag (4243m), on the right bank of the river Qusar, the north-eastern town of the same name is the next best thing to a capital for the Lezgin minority, which extends north into Russia.
+Qusar sits in the northeastern corner of Azerbaijan, pressed against the foothills of the Greater Caucasus under the shadow of Mount Shahdag (4,243m). It is the cultural heartland of the Lezgin people, a Caucasian minority who straddle the border between Azerbaijan and Russia. The town stretches along the Qusar River in a rough east-west line, with the busy bazaar and bus station at the eastern end and the central square — anchored by the Lezgin National Theatre, post office, and hotel — toward the middle.
 
-The town develops in a east-west direction, along the river. If you arrive by bus you'll disembark at the bus station in the eastern extreme of town, near the always busy bazaar and the bridge leading to [Quba](/europe/azerbaijan/quba).
+The main reason to come is the mountain scenery and the highland villages. Outside town, the village of Khazra contains the mausoleum of Sheikh Juneyd, a compact 15th-century Safavid structure with a burial vault and four domed rooms — a rare piece of early Islamic architecture in this part of the Caucasus. Sheikh Juneyd was a powerful Sufi leader killed in battle near here in 1456.
 
-On the way to the centre you'll come accross the cinema . The main square gathers around it the Lezgin National Theatre , the hotel , the post office and is not far from the stadium and the Lezgin National Museum . In the western side of the town is located the recently built mosque, the wedding house and an odd monument with an airplane.
+The Laza valley, higher into the mountains, offers the Gusarchai waterfalls and the Shahdag ski resort at 1,800m — the highest in Azerbaijan, with views across to the Gizildag peaks. In summer the same slopes fill with wildflowers and the resort functions as a cooler escape from Baku. The Long Forest resort, lower down along the Guruchay River, offers chalets spread through forest with a sauna complex — popular with Baku weekenders.
 
-Outside Qusar, in the village of Khazra , you'll find Sheik Juneyd's mausoleum. This is a small 16th century Safavid mosque, with a burial vault and 4 rooms around it, all covered with a dome. Sheik Juneyed was a 15th century warlord killed in 1456 in a battle near Khazra.
-
-Near the village of Laza you'll find the Gusarchai's waterfalls and the Suvar resort. This is the highest resort of Azerbaijan (1800 m) and has a most beautiful view on the Shahdag and Gizildagh mountains. Not far from Qusar, you can stay at the Long Forest resort. Built along the Guruchay River, with chalets scattered thoughout the forest, a sauna and steam-room complex, it is a perfect place to escape Baku.
-
-(175 km northwest of Baku)
+Qusar is about 175km northwest of Baku, and connects by shared taxi or bus to [Quba](/europe/azerbaijan/quba) across the river to the south.

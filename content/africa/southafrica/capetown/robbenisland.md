@@ -1,8 +1,10 @@
 ---
-title: "Robben Island"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -33.8053
 longitude: 18.368883
+title: Robben Island
+type: location
 ---
 
 We currently have no information about Robben Island.

@@ -1,15 +1,16 @@
 ---
-title: Uganda
-type: location
-latitude: 1.3733
-longitude: 32.2903
-image: uganda.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Entebbe_Aerial_view.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Niranjanoak&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Niranjanoak (page does not exist)">Niranjanoak</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: uganda.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Niranjanoak&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Niranjanoak (page does not exist)">Niranjanoak</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Entebbe_Aerial_view.jpg
+latitude: 1.3733
+longitude: 32.2903
+title: Uganda
+type: location
 ---
 
 *Africa > Uganda*

@@ -1,21 +1,6 @@
 ---
-title: "Things to do in Portovenere"
+title: "Things to Do"
 type: section
-type: "Sailing"
-url: "www.arbaspaa.com"
 ---
 
-Rent a boat, go for a walk, have a swim, go shopping or take a ferryboat ride to the port of your choice.
-
-**Contributors**
-February 09, 2006
-
-### [Boat Rental](/europe/italy/liguria/portovenere/things_to_do/boat_rental)
-
-Rental of every kind of boat such as a traditional Ligurian Motorboat, a catamaran, a sailing yacht or an ancient sailing boat - with or without a skipper.
-
-type: Sailing
-
-
-
-url: www.arbaspaa.com
+The sea is the main event in Portovenere. You can rent a boat to explore the rocky coastline, swim in the clear water below the Church of San Pietro, or take a ferry across to Palmaria island for a walk through the maquis and a dip in a quieter cove. The promontory also has good walking: paths climb from the village up through the old walls to the Genoese castle, with wide views over the gulf and the Cinque Terre coastline to the north.

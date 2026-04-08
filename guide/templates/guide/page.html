@@ -1,5 +1,4 @@
 {% extends "guide/base.html" %}
-{% load guide_tags %}
 
 {% block title %}
 {{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
@@ -227,7 +226,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}
-  <span class="tag">{{ tag|replace_underscores }}</span>
+  <span class="tag">{{ tag }}</span>
   {% endfor %}
 </div>
 {% endif %}

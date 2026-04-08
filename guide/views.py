@@ -10,7 +10,7 @@ from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
 from .models import (
-    CONTENT_DIR, NAV_TYPES, find_tagged_pois,
+    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
     load_page, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -83,19 +83,22 @@ def location_or_section(request, path):
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
 
+    # Build the city tag index once so all tagged_pois() calls reuse it.
+    city_tag_index = None
+    _cpath = _city_path if page.page_type in NAV_TYPES else (page.path if nav_pages else None)
+    if _cpath:
+        city_tag_index = build_city_tag_index(_cpath)
+
     # Nav pages collect their POIs by tag; section_groups collect their child nav pages
     if page.page_type == "section_group":
         pois = nav_pages
     elif page.page_type in NAV_TYPES:
-        pois = page.tagged_pois()
+        pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
     if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
-
-    # Group nav_pages by type for the sidebar template
-    nav_grouped = _group_nav_pages(nav_pages)
 
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
@@ -105,7 +108,7 @@ def location_or_section(request, path):
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
 
-    markers = _collect_markers(page, nav_pages, locations, pois)
+    markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
     image_path = _image_path(page)
     hero_image_url = f'/content-image/{image_path}' if image_path else None
@@ -121,7 +124,7 @@ def location_or_section(request, path):
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
         "active_nav": active_nav,        # nav page to mark active (when POI bumped to grandparent nav)
-        "nav_grouped": nav_grouped,
+
         "context_nav": context_nav,
         "nav_siblings": nav_siblings,
         "body_html": body_html,
@@ -134,7 +137,7 @@ def location_or_section(request, path):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
-        "tags": page.tags,
+        "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
@@ -196,24 +199,6 @@ def tag_index(request, tag):
     return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
 
 
-def _group_nav_pages(nav_pages):
-    """Group a flat list of nav pages by type for sidebar rendering.
-
-    Returns a list of (group_label, [pages]) tuples, where section_group
-    pages become group headers with their children listed beneath them.
-    Plain sections are returned as (None, [page]) single-item groups.
-    """
-    groups = []
-    group_types = {}
-    for p in nav_pages:
-        if p.page_type == "section_group":
-            group_types[p.slug] = p
-        else:
-            groups.append(p)
-    # For now return flat — template can check page_type directly
-    return nav_pages
-
-
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "things_to_do"}
 
 
@@ -226,7 +211,7 @@ def _marker_from_page(page, highlight=False):
     return None
 
 
-def _collect_markers(page, nav_pages, locations, pois):
+def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     markers = []
     seen = set()
 
@@ -245,7 +230,7 @@ def _collect_markers(page, nav_pages, locations, pois):
         if nav.page_type == "section_group":
             continue
         is_sight = nav.slug in _SIGHT_SLUGS
-        for poi in nav.tagged_pois():
+        for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
             add(_marker_from_page(poi, highlight=is_sight))
 
     return markers

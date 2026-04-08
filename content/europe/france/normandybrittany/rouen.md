@@ -1,12 +1,14 @@
 ---
-title: "Rouen"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 49.440459
 longitude: 1.093966
+title: Rouen
+type: location
 ---
 
-Normandy takes its name from the Viking "Norsemen" who sailed up the river Seine in the 9th century. As the pillagers turned into settlers, they made their capital at Rouen. The city has flourished since and was one of the most important cities of the region in the Middle Ages. Today it is a cultured cathedral city that commands the east of the region.
+Rouen is Normandy's cultural capital, a cathedral city on the Seine that has been important since the Vikings sailed upriver in the 9th century and made it the capital of their new duchy. Joan of Arc was burned at the stake in the old market square in 1431, and the spot is now marked by a striking modern church with stained glass salvaged from a medieval predecessor destroyed in the war.
 
+The centre is a dense maze of half-timbered houses and cobbled streets, punctuated by Gothic monuments: the cathedral (painted obsessively by Monet), the Gros-Horloge astronomical clock spanning the main street, the flamboyant Gothic law courts, and the church of Saint-Maclou with its five-porched entrance of carved wood. The Aître Saint-Maclou, a former plague cemetery with carved death motifs, is one of the most unusual sights in France.
 
- The main interest of the city for travelers are found in the centre. Many half timbered houses line the cobbled streets. Rouen's historical district is punctuated with splendid monuments: the cathedral, the Large-Clock, the Law courts, the Place of the Old man-Market, witness of the torment of Jeanne d' Arc and her church, Aître Saint-Maclou, abbey Saint-Ouen to name just a few.
- Rouen has also very beautiful museums, the most interesting being the museum of the Art Schools with a focus on impressionist paintings.
+Rouen also has excellent museums, notably the Musée des Beaux-Arts with its strong collection of Impressionist paintings.

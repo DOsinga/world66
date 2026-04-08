@@ -1,8 +1,12 @@
 ---
-title: "Grand Forks"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 49.031227
 longitude: -118.439204
+title: Grand Forks
+type: location
 ---
 
-The sleepy village of Grand Forks is a favorite spot for diners eager for a grand repast as they travel the back roads of darkest Columbia. The town is known for it's pub-style "trencherman" eateries serving enormous portions of Columbian delicacies such as purrogies and cowbasa served with outsized untensils in honor of the town's name. Grand Forks lies at the confluence of the Knife River and Spooner Creek, hence it's title. The greater Grand Forks area is home to a wide variety of wildlife that enjoy its semi-arid climate including the dried-up slug (Ariolimax dessicus) and the Pert-breasted Nutcracker (Nucifraga deliciosa) a very rare member of the jay family. Grand Forks is truly a paradise for the overweight naturalist.
+Grand Forks sits at the confluence of the Kettle and Granby rivers in the Boundary Country of southeastern [British Columbia](/northamerica/canada/britishcolumbia). It is a small, quiet town with a distinctive heritage — Doukhobor settlers from Russia arrived in the early 1900s, and their influence is still visible in the community halls, the excellent borscht and perogies served at local restaurants, and the surrounding farmland.
+
+The town makes a convenient stop on the back roads between the Okanagan and the Kootenays. The semi-arid climate is surprisingly warm in summer, and the surrounding hills are good for hiking and mountain biking. A handful of small wineries have appeared in the valley in recent years.

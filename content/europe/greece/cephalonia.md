@@ -1,16 +1,16 @@
 ---
-title: Cephalonia
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 38.266
 longitude: 20.5374
-done:
-  location_cleanup: 2026-04-08
+title: Cephalonia
+type: location
 ---
 
-Cephalonia (Kefallonia) is the largest of the Ionian Islands and one of the most beautiful Greek islands — a place of dramatic mountains, clear blue water, olive and cypress trees, and tiny fishing villages that escaped the worst of the mass-tourism development that hit other islands. It became more widely known internationally after Louis de Bernières set his novel *Captain Corelli's Mandolin* here.
+Cephalonia (Kefallonia) is the largest of the Ionian Islands, and one of the least commercialised. It was not until the 1990s that tourists began to discover it, partly because the roads were so poor. Things have improved since, but the island still feels pleasantly off the beaten track compared to Corfu or Zakynthos.
 
-The island suffered a devastating earthquake in 1953 that destroyed most of its traditional buildings, but some places were spared. Fiskardo in the north, sitting in a horseshoe bay, is the prettiest village — its Venetian and Ottoman buildings survived because it sits on limestone bedrock. Assos, on the west coast, is a whitewashed fishing village on a narrow peninsula with an old Venetian castle above it. The capital Argostoli has an attractive waterfront with a colourful market.
+The landscape is dramatic — mountainous, covered in olive groves and cypress trees, with some of Greece's finest beaches. **Myrtos Beach**, a sweep of white pebbles between towering cliffs, is one of the most photographed in the Mediterranean. **Antisamos** and **Petani** are equally beautiful and less crowded. The local **Robola** wine, grown in the highland valleys, is excellent and worth seeking out.
 
-The best beaches are on the south and west coasts: Myrtos (white pebbles against vivid blue water, one of the most photographed in Greece), Antisamos (used in the film adaptation of *Corelli's Mandolin*), and Xi (red sand). The local Robola white wine is excellent and worth seeking out. Exploring by motorbike or hire car is the best way to get around, though the roads through the mountains can be narrow and steep.
+**Assos**, a tiny fishing village tucked beneath a Venetian fortress on the western coast, is one of the prettiest spots on the island. [Fiskardo](/europe/greece/cephalonia/fiskardo) to the north is the most upmarket village, its Venetian harbour one of the few to survive the devastating 1953 earthquake. From the bay you can see across to [Ithaca](/europe/greece/ithaca). [Argostoli](/europe/greece/cephalonia/argostoli), the capital, was largely rebuilt after the earthquake but has an attractive waterfront and a lively fruit market.
 
-Flights from Athens take about an hour.
+The island is best explored by car or motorbike — take care on the narrower mountain roads. Flights from [Athens](/europe/greece/athens) take about an hour. Ferries connect to the mainland and neighbouring islands.

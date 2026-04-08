@@ -1,5 +1,5 @@
 ---
-title: "Food"
+title: "Eating Out"
 type: section
 ---
 

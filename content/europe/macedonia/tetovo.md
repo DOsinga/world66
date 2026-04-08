@@ -1,16 +1,16 @@
 ---
-title: "Tetovo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.00683
 longitude: 20.972856
+title: Tetovo
+type: location
 ---
 
-Tetovo (Albanian: Tetova) is located at the foothills of the Shar Mountain in north-western Macedonia, 468 m above the sea level, on the edge of the Polog Valley. The city is separated by the river Pena, which flows from the Shar mountain.
+Tetovo sits at the foot of the Shar Mountains in northwestern North Macedonia, on the edge of the broad Polog Valley. The river Pena runs through the centre, flowing down from the peaks above. It is a predominantly Albanian-speaking city with a lively bazaar atmosphere and a dramatic mountain backdrop.
 
-Although there is evidence of settlements in the area as early as the bronze age, the town is first mentioned under a name resembling its modern name in the 17th century under the toponym Htetovo. The legend is that Tetovo got its name after the legendary hero Teto, who cleared the town from snakes; not surprisingly, Tetovo means Teto's place.
+The Sharena Dzhamija (Painted Mosque), built in 1438 on the bank of the Pena, is the town's most striking landmark. Its exterior walls are covered in intricate floral frescoes — unusual for an Ottoman mosque and worth a detour. On the hillside above town, the Bektashi tekke belongs to a Sufi order with deep roots in the western Balkans and is another notable site.
 
-In the middle ages Tetovo was an important trade center for the local farmers and craftsmen, as well as an important military fortification for the Ottomans. In the 19th century, the Russian Consul I. Yastrebov spoke highly of Tetovo's climate - mild snowy winters, sunny and comfortably warm summers. The traveler Ami Bue described Tetovo as a very clean city. Today, Tetovo has a well-developed textile and clothing industry.
+Legend has it that Tetovo got its name from a hero called Teto, who cleared the town of snakes — Tetovo means "Teto's place." The town has been an important trade centre since the Middle Ages, and its climate drew praise from 19th-century travellers: mild snowy winters, sunny and comfortably warm summers.
 
-The great plant growth conditions of the Polog valley have been well used for the development of agriculture. The well-known ski resort Popova Shapka (Kodra e Diellit in albanian) lies above Tetovo in the Shara Mountain. An 18 km long asphalt road is takes you from Tetovo to Popova Shapka skiing center. While in winter Tetovo is a popular destination for the skiing fanatics, in the summer Tetovo is the beloved resort for paragliders.
-
-The Šarena Džamija (Painted Mosque), built in 1438 on the bank of the Pena river, is Tetovo's most striking landmark — its exterior walls are covered in intricate floral frescoes, unusual for an Ottoman mosque. The Bektashi tekke on the hillside above town is another notable religious site, belonging to a Sufi order with deep roots in the western Balkans.
+The ski resort of Popova Shapka lies 18 kilometres up an asphalt road into the Shar Mountains. In winter it draws skiers from across the country; in summer the same slopes attract paragliders. The mountains above town are also good for hiking, with trails leading up to alpine lakes and high pastures.

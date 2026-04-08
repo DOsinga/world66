@@ -1,7 +1,0 @@
----
-title: "Nightlife and Entertainment in Shkoder"
-type: section
----
-
-Situated on the shores of the lake bearing the same name, the biggest in the Balkans, Shkodra also known as Scodra, Scodrium, Scuttari or Skadar is one of the oldest cities in Albania. It was established around the 4th century BC. By the end of the 3rd century BC, one of the Illyrian tribes formed the Illyrian Kingdom with Shkodra as its capital. Apart from being a historic centre, Shkodra has always been a centre of education, culture and trade. It has always developed and maintained links to the west especially to Italy and Austria. Shkodra is also the centre of Albanian Catholicism as well as a fine example of tolerance between religions, with the city comprising all the major faiths found in Albania.
-With all the hardships the city has seen during the centuries, it still offers many delights for the foreign tourist. The Rozafa castle a 2400 years old monument that stands proud as a testament to a short lived glorious past on the highest hill surrounded by breathtaking scenery in every direction. Marubi’s Photo Exhibition Museum, the Archeological Museum and the Mesi Bridge are absolute musts for anyone visiting Shkodra. Furthermore the lake, the two rivers Drin and Buna who merge together just at the foot of the castle and peacefully flow into the sea, as well as the spectacular Albanian Alps close by, make this city even more attractive.

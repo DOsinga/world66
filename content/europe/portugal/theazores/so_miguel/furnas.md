@@ -1,13 +1,14 @@
 ---
-title: "Furnas"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 37.7725
+longitude: -25.3133
+title: Furnas
 type: location
-latitude: 37.772469
-longitude: -25.313307
 ---
 
-The town Furnas on the south coast of São Miguel has two main attractions: the volcanic activity and the botanical garden. The former can easily be seen at the lake Lagoa das Furnas, a few kilometres SW of the town. In a small scale it is similar to what can be seen in other volcanic areas like Iceland or Dominica: The odour of sulphur is heavy and small fumaroles of bubbling, boiling water can be seen here and there in the ground. Some of these are used for cooking of special food, later to be served at the restaurant in the town centre.
-A nice walk starts at the southern end of the lake, continues along its western shore and ends at the fumarole area. From there a trail continues into town.
-The botanical garden was founded 200 years ago by the American Thomas Hickling.In the park there is a pool with warm water which is said to have strong rejuvenating properties on our bodies, albeit the colour of the water is less inviting.
+Furnas is a small town in the volcanic interior of [São Miguel](/europe/portugal/theazores/so_miguel), with two main draws: the volcanic activity and the botanical garden.
 
-**Contributors**
-April 05, 2005
+The geothermal area is best seen at Lagoa das Furnas, a few kilometres southwest of town. The smell of sulphur is heavy, and small fumaroles of bubbling, boiling water hiss from the ground along the lake shore. Some of these natural vents are used for cooking cozido das Furnas — a traditional stew slow-cooked underground in volcanic heat, then served at restaurants in the town centre. A good walk starts at the southern end of the lake, follows the western shore to the fumarole area, and continues on a trail back into town.
+
+The Terra Nostra Garden, founded around 200 years ago by the American Thomas Hickling, is one of the finest botanical gardens in the Azores. At its centre is a large pool of warm, iron-rich thermal water — the rejuvenating properties are much advertised, though the yellowish-brown colour takes some getting used to.

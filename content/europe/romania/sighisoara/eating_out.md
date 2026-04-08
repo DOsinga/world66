@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
-
-**Casa Vlad Dracul**
-
-Where els could you want to eat than in the house of Dracula. Good soups and traditional Romanian fare.
+The most atmospheric place to eat is Casa Vlad Dracul, the house where Vlad Tepes was born, now a restaurant in the heart of the citadel. Good soups and traditional Romanian fare in a setting dripping with medieval character. Outside the citadel walls, several other restaurants along the main street serve hearty Transylvanian dishes — expect lots of pork, polenta, and cabbage rolls.

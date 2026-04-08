@@ -1,18 +1,14 @@
 ---
-title: "Jind"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 29.315207
 longitude: 76.314082
+title: Jind
+type: location
 ---
 
-Travel Guide
+Jind is an old town in central [Haryana](/asia/india/haryana), 123 km from Delhi on the Ferozepur railway line. Tradition traces its founding to the Mahabharata period, and the town is noted for its many Shiva temples — pilgrims come from across the region, particularly for the Amavasya bathing at Rani Talab, the main sacred pond.
 
-**Jind** (Hindi: जींद) (Punjabi: ਜੀਂਦ) is a town in Jind District, Harayana state, India. It is one of the oldest districts of Harayana. It is one of the first Sikh Kingdoms. It lies in central Haryana and is the fourth district of Jat belt (i.e Sonipat, Rohtak, Hissar, Jind).City is clean. Rani Talab is main tourist place and Pandu-Pidara and Ramrai are the main devotional places attracting devotees for Amaavas bath.
+The town was the seat of the princely state of Jind, one of the Phulkian Sikh kingdoms. The royal family are Sikhs of the Sidhu clan, and the area retains a strong Sikh and Jat cultural character.
 
-The district headquarter is situated in Jind town. Other smaller towns are Narwana, Safidon and Uchana. The total area of Jind district is 2736 sq kms and its population is 9,63,000.
-
-The town, headquarter of the district of the same name is situated on the Ferozepur-Delhi section of the Northern Railway, 123 kilometers away from Delhi and 57 Kilometers from Rohtak. It is also connected by road with Delhi, Patiala, Chandigarh and other important towns of Haryana.
-
-Jind town has a Arjun stadium, milk plant, cattle feed plant, Bulbul restaurant and a large grain market. There are facilities for stay at PWD rest house, canal rest house and market committee rest house. The town is well provided with schools, colleges, hospitals and other basic amenities. Jind is noted for its numerous temples sacred to the worship of Shiva. Tradition assigns the settlement of the town to the Mahabharat period.
-
-The town was the centre of the princely state of Jind. The royal family are Sikhs of the Sidhu gotra and major gotra Chahal also in many villages like as Baroda, Barodi, Alewa
+Jind is not a tourist destination in the conventional sense, but travellers passing through will find a clean, functioning town with a large grain market, basic accommodation at government rest houses, and good road connections to Delhi, Chandigarh, and Patiala. The nearby towns of Narwana and Safidon also fall within the district.

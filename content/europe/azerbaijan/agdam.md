@@ -1,21 +1,16 @@
 ---
-title: "Agdam"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.9932
+longitude: 46.9305
+title: Agdam
 type: location
-latitude: 39.993235
-longitude: 46.930484
 ---
 
-Once a thriving city of 150.000 souls, today Agdam is the consummated portrait of the devastation brought about by the Nagorno Karabakh war, it was lost to Armenian forces in July 1993. Although Agdam was not affected directly by bombardments or the place of combats, the city was systematically destroyed and looted by the Armenian forces. The mosque was the only building spared. As in a nightmare you'll find street after street of empty and gutted buildings, where the birds and the weeds started to take over. No people, no cars, no sounds - a ghostly atmosphere. 
- Following the collapse of the Azeri defences all the population was forced to move eastwards anticipating the advance of the Armenian forces, who eventually took about 80% of the Agdam rayon. Many of Agdam's former residents have found normal life elsewhere in Azerbaijan, but many other still dwell in refugee camps spread throughout the country. 
- 
- Although Agdam is just 20 northeast of Xankandi, it is outside the territory of the Nagorno Karabakh region. Nevertheless the area remains occupied by Armenian forces, who consider it a temporary buffer zone against an eventual Azeri attack. Since the Armenians admit that sooner or later this territory will return to Azeri sovereignty no effort has been made to resettle Agdam. Armenians from the neighbouring areas use Agdam as a source of construction materials, and the handful on non-military residents are professional scavengers, making a living from the materials taken from the abandoned buildings. 
- 
- The city is easily accessible from Xankandi, but being so close to the cease-fire line any visit may be limited by the Armenian military forces. Some photos of the city can be seen on the Armenian site cilicia.com. 
- 
- (340 km west of Baku) 
- 
- 
+Agdam is a ghost town in western Azerbaijan, about 340 km west of Baku. Once home to 150,000 people, it was abandoned in 1993 when Azerbaijani forces withdrew during the Nagorno-Karabakh war and Armenian forces took control. The population fled east. The city was then systematically stripped — buildings gutted for materials, streets emptied, the mosque left standing as the one intact structure among ruins.
 
-## Destinations in Agdam
+For nearly three decades it sat as one of the most striking war-ruined landscapes in the post-Soviet world: street after street of roofless shells, weeds pushing through the rubble, birds the only residents. Visitors coming from Xankandi (Stepanakert) found it hauntingly quiet — no cars, no voices, just the wind through empty window frames.
 
-[AGDAM Airfield](/europe/azerbaijan/agdam/agdamairfield)
+In November 2020, following the Second Nagorno-Karabakh War, Azerbaijan recaptured Agdam and the surrounding rayon. Azerbaijani authorities have since begun reconstruction, with plans to rebuild the city and resettle former residents. The process is long and the town remains largely uninhabited, but its character as a ruin is being gradually altered.
+
+Agdam sits just outside the formally defined Nagorno-Karabakh region. Getting there requires travelling through areas still marked by the conflict's aftermath. Check current access conditions before visiting.

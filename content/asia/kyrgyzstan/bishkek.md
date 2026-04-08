@@ -1,8 +1,10 @@
 ---
-title: "Bishkek"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.876142
 longitude: 74.603672
+title: Bishkek
+type: location
 ---
 
 Bishkek is a classic Soviet-planned city of wide boulevards, marble government buildings and shady parks, sitting at 800 meters on the northern edge of the Kyrgyz Ala-Too mountains. With a population of around one million, it feels spacious and green in summer, though architecturally it won't win any beauty contests.

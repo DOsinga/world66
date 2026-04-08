@@ -1,27 +1,10 @@
 ---
 title: "Lang Co Beach"
 type: location
-type: "general"
 latitude: 16.26927
 longitude: 108.062178
 ---
 
-10km in length, Lang Co beach borders a section of the 1A National Highway close to Hai Van pass, and only 24 km from the Bach Ma. Aside from partaking in the wonderful seafood, you can check out the scenic beauty of nearby Chan May and Lang Co fishing village.
+Lang Co Beach stretches 10 kilometres along a sheltered bay at the foot of the Hai Van Pass, about 60 kilometres north of Hue. The beach sits on a narrow spit of land with calm, clear water on one side and a lagoon on the other, making it one of the most scenic spots on the central Vietnamese coast.
 
-type: general
-
-
-
-
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+The fishing village of Lang Co is small and unhurried. Seafood is the draw — freshly caught prawns, crab and fish are served at simple restaurants right on the sand. The beach is also a stopping point on the route between Hue and [Da Nang](/asia/vietnam/danang), and many travellers pause here after crossing the Hai Van Pass. Bach Ma National Park is just 24 kilometres inland.

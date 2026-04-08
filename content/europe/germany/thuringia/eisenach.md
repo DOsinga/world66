@@ -1,30 +1,16 @@
 ---
-title: "Eisenach"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.974713
 longitude: 10.319356
+title: Eisenach
+type: location
 ---
 
-**Facts about Eisenach
+Eisenach is a small city in western Thuringia that punches far above its weight in history. Above the town sits the Wartburg, one of the most important castles in Germany — where Martin Luther hid from the Pope and translated the New Testament into German, where Elisabeth of Thuringia performed her legendary acts of charity, and where German students gathered in 1817 to call for national unity. The castle is a UNESCO World Heritage Site and the main reason to come.
 
-**
+Johann Sebastian Bach was born here in 1685, and the Bachhaus museum on the Frauenplan is an engaging introduction to his life and music. The Luther House, where the reformer lived as a schoolboy, is another major draw.
 
-**Inhabitants: 45,300
+The old town below the castle is compact and walkable, with half-timbered houses, a market square, and the Nikolai Gate leading to a historic wine restaurant. Thuringian hospitality runs to hearty fare — bratwurst, dumplings, roast meats — served in traditional pubs alongside Greek, Italian and other restaurants.
 
-Transportation connections: Federal “Autobahn” 4 (Exits Eisenach West, Eisenach Mitte and Eisenach Ost); State Highways 7, 19, 84, 98 ; Deutsche Bahn-Railway: EC, ICE, IR , Airport Erfurt (60 km), Frankfurt (200 km) **
-
-As a result of the district reform of July 1st, 1994, the Wartburg-city of Eisenach grew dramatically with the addition of new districts. As a “city in county jurisdiction”, Eisenach is the fourth largest city in the middle of Thuringia and has become a centre of production, service and educational facilities.
-
-The international recognition of Eisenach comes above all from the Wartburg Castle, The works of Landgrave Elisabeth of Thuringia, the music of Johann Sebastian Bach, Martin Luther`s translation of the New Testament and the auto industry.
-
-Rich in monuments and memorials to its humanistic, historical and artistic tradition, the Wartburg-city Eisenach is a magnet for domestic and international tourists.
-
-The world-wide reputation of companies such as Opel, Bosch and BMW belies the importance of Eisenach as an economic centre.
-
-Accommodations: 18 hotels with 1679 beds, 13 bed and breakfasts with 208 beds, 1 youth hostel with 102 beds
-
-Facilities for conferences, seminars and events are offered by the “Bürgerhaus” and the hotels.
-
-Gastronomy: Thuringian hospitality in fine restaurants and cafes; traditional pubs; Greek, Italian, Mexican, Croatian and Chinese restaurants; the historic wine restaurant at the Nikolai Gate.
-
-Sports and hiking: The sports and recreation centre “Katzenaue” with the “Werner Assmann Sporthalle” (multi-purpose gymnasium), an outdoor swimming pool, an indoor pool with sauna and tanning saloon, the Wartburg Stadium with track and field facilities, one hard ground court, a shooting range, a six-lane bowling alley, facilities for recreational sports, tennis complex “Johannistal”. 243 km of marked hiking trails.
+The Thuringian Forest begins at the edge of town, with 243 kilometres of marked hiking trails heading south into the hills. Eisenach sits on the Autobahn 4 and is well served by ICE and regional trains, making it an easy stop between Frankfurt and Erfurt.

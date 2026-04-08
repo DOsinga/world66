@@ -5,10 +5,8 @@ latitude: -15.636688
 longitude: -71.602217
 ---
 
-Travel Guide
+Chivay is the first town in the Colca Valley when coming from [Arequipa](/southamerica/peru/arequipa), sitting at about 3,700 metres. It is the main transport hub for the canyon, with plenty of hotels at generally low prices — no need to book ahead.
 
-Chivay is the first city in the region when coming from [Arequipa](/southamerica/peru/arequipa) at about 3700m. There are lots of hotels and prices are generally low, no need to book ahead.
+The nearby hot springs are the highlight. Separate baths for locals and tourists (the tourist section costs a few dollars) offer a magnificent soak with views over the valley. Most tour groups arrive between 5 and 6 pm, so go earlier or later for a quieter experience. You can walk there or take a colectivo from the plaza.
 
-The nearby hot springs have seperate baths and prices (3 $) for locals and tourists, a good place to lay down in the hot water with a magnificent view over the landscape. Between 5 and 6pm arrive most of the tourist groups, so it tends to fill up. You can either walk there or take a colectivo from the plaza.
-
-To get to the Cruz del Condor catch any bus going to Cabanaconde from the bus terminal, which will take about 2 hrs to the condor viewpoint and 3 hrs to [Cabanaconde](/southamerica/peru/colca_canyon_1/cabanaconde).
+To reach Cruz del Condor, catch any bus heading to [Cabanaconde](/southamerica/peru/colca_canyon/cabanaconde) from the bus terminal — the condor viewpoint is about two hours along the route, with Cabanaconde another hour beyond.

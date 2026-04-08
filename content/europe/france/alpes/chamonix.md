@@ -1,34 +1,16 @@
 ---
-title: "Chamonix"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.92467
 longitude: 6.872751
+title: Chamonix
+type: location
 ---
 
-Chamonix has been a popular skiing resort for a not a really
-long time. The location at the foot of the Mont Blanc makes it one of
-the most attractive places to go for a winter holiday.
+Chamonix sits at the foot of Mont Blanc, western Europe's highest peak, and that location alone makes it one of the most dramatic mountain towns on the continent. Unlike many French ski resorts — purpose-built clusters of high-rise apartments dropped next to a lift station — Chamonix is a real town, with a cosy centre full of good bars, restaurants, and cafes that have been drawing visitors since the 18th century.
 
-The best thing about Chamonix is that it really is a town. Many
-other French winter sport places are just a bunch of high rise
-buildings close to the skiing lifts, but here you find a cosy center
-with nice bars, restaurants and cafes.
+The skiing is spectacular but split across three separate areas that are not interconnected on the slopes. You will need to take a bus between them, which can be a drag on short winter days. What you lose in convenience you gain in variety: the terrain ranges from gentle pistes to serious off-piste descents down the Vallée Blanche.
 
-The slope of the Mont Blanc is very spectacular. You get a
-lovely view over the valley and the glacier is of extraterrestial
-beauty.
+Summer is equally rewarding. The Aiguille du Midi cable car lifts you to 3,842 metres in minutes, offering staggering views across the Alps into Italy and Switzerland. Hikers have the Tour du Mont Blanc and countless day walks through alpine meadows and past glacial lakes.
 
-The bad thing about Chamonix is that the slopes are divide in
-three areas and you can't ski from one to the other. You need to take a
-bus which is a drag.
-
-There are 7 major glaciers and several minor ones in the Chamonix
-valley. The Mer de Glace (sea of ice) is the second largest glacier in
-the Alps (the largest being the Aletsch Glacier, Switzerland). It is
-estimated to contain approx 4000 million cubic metres of frozen water;
-it is 12k long and varies in width from 700 - 1950m.
-
-The average depth of the ice is 240m with a maximum 420m just down
-stream of the glacier du Geant . The Mer de Glace moves forward 90m per
-year, or 1cm per hour. During the 20th century all alpine glaciers
-receded. The Mer de Glace receded 7.5m every year on average.
+The valley holds seven major glaciers. The Mer de Glace — the second largest glacier in the Alps after Switzerland's Aletsch — is 12 kilometres long and contains an estimated four billion cubic metres of ice. You can reach it by the Montenvers rack railway from Chamonix, though like all Alpine glaciers it has been receding steadily: about 7.5 metres per year on average through the 20th century, and faster since.

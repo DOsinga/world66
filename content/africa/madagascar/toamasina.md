@@ -1,14 +1,12 @@
 ---
-title: "Toamasina"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -18.155399
 longitude: 49.409835
+title: Toamasina
+type: location
 ---
 
-Toamasina is Madagascar's largest port. The central market in the heart of the city appears to be the one and only sight deemed worth showing to the few tourists who visit this city. Driving around, the economic deprivation is palpable. One of the poorest nations in the world, Madagascar has a per capita GDP of just US$750, only 60,000 passenger vehicles in the whole country, 20 TV sets per 1000 population, and less than 50,000 telephone land-lines. Rarely does one see such urban poverty and infrastructure decay. The metalled roads both in and out of town are badly damaged and pot-holed everywhere; public buildings are black with tropical mildew and pollution and undoubtedly receive no maintenance. The town's 120,000 or so inhabitants do not appear to be starving, but clearly they live at a subsistence level in their metal shacks or bamboo and atap huts. Very little sophisticated economic activity is to be seen, and even small-scale businesses apparently depend on foreign capital. The tour company handling our ground arrangements was owned by a Frenchman, and the restaurant we stopped at for refreshments by an Englishwoman. 
+Toamasina is Madagascar's largest port and its second city, though little about it feels urban in a conventional sense. The central market in the heart of town is the one sight deemed worth showing to the few tourists who visit, and driving around, the economic deprivation is palpable. The metalled roads both in and out of town are badly damaged and potholed; public buildings are black with tropical mildew. The town's 120,000 or so inhabitants do not appear to be starving, but clearly they live at a subsistence level. Very little sophisticated economic activity is visible — even small-scale businesses apparently depend on foreign capital.
 
-
-
-Driving north from Toamasina on pretty dreadful roads for some twelve kilometres, and then several more on a muddy, rutted track along the bank of a river brings you to Ivoloina Gardens. This attractive nature reserve promotes the conservation of Madagascar's unique animals and plants, which are under massive threat from the erosion of their natural habitats. The main focus is on lemurs, thirteen species of which are to be seen in the reserve, five of which range free in the forests near the caged species. Ivoloina Gardens gets about 14,000 visitors a year of which about 70% are Malagasy nationals, and the small scale but apparently effective approach taken in this reserve is partly supported by the Madagascar Fauna Group, a global consortium of 38 zoos, universities and conservation centers headquartered at the San Francisco zoo. The lemurs are certainly adorable creatures and – given the immense poverty and lack of resources in the country – such efforts to conserve and regenerate these species are to be applauded and supported. In addition to the lemurs, you may also be able to see spider tortoises, cryptic chameleons and the brilliantly colored tomato frogs – all species unique to Madagascar. 
-
-*Contributed by Howard Banwell*
+The real reason to pass through Toamasina is Ivoloina Gardens, a nature reserve about 12 kilometres north of town (followed by several more on a muddy track along a riverbank). This attractive reserve promotes the conservation of Madagascar's unique wildlife, with a focus on lemurs — thirteen species can be seen, five of which range free in the surrounding forests. You may also see spider tortoises, cryptic chameleons, and the brilliantly coloured tomato frogs, all species unique to Madagascar. The reserve is partly supported by the Madagascar Fauna Group, a global consortium of 38 zoos and universities headquartered at the San Francisco Zoo.

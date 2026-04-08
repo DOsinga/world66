@@ -1,53 +1,14 @@
 ---
-title: "Coventry"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 41.7001
 longitude: -71.682844
+title: Coventry
+type: location
 ---
 
-Travel Guide
+Coventry is one of [Rhode Island](/northamerica/unitedstates/rhodeisland)'s larger towns by area but feels surprisingly rural, especially in its western half where farms and forest still dominate. About twenty minutes southwest of [Providence](/northamerica/unitedstates/rhodeisland/providence), it straddles the line between suburb and countryside.
 
-Coventry was first settled in the early 18th century, when the town
-was part of Warwick. Since the area was so far away from the center of
-Warwick, the area that became Coventry grew very slowly. However, by
-1741, enough farmers (about 100 families) had settled in the area that
-they petitioned the General Assembly of Rhode Island to create their
-own town. The petition was granted, and the new town was named
-Coventry, after a city in central England. For the rest of the 18th
-century, Coventry remained a rural town populated by farmers. Among the
-buildings that survive are the Waterman Tavern (1740s), the Nathaniel
-Greene Homestead (1770), and the Paine Homestead (late 1600s/early
-1700s). The oldest church in Coventry, Maple Root Baptist Church, dates
-from the end of the 18th century.
+The town's main historical draw is the **Nathaniel Greene Homestead**, the 1770 home of the Revolutionary War general who served as George Washington's second-in-command. The house is open for tours and sits on a quiet road that has not changed much since Greene's day. The eastern villages of Anthony and Quidnick preserve clusters of old mill buildings from the 19th-century industrial era, worth a drive through if you are interested in New England's manufacturing past.
 
-During the War of Independence, the people of Coventry were supporters of the patriot cause. Nathaniel Greene,
-a resident of Coventry, rose through the ranks to become a leading
-general of the American army. By the end of the war, Greene was second
-in command in the US amry after Geroge Washington
-
-In the 19th century, the Industrial Revolution came to Coventry with
-the building of the first mill in Anthony. Over the next century, the
-eastern end of town became very industrialized, with manufacturing
-centers being located in Anthony, Washington, Quidnick, and Harris
-villages. Many of the old factories still stand in the town, and the
-village centers (in particular Anthony and Quidnick) remain mostly
-intact. The demographics of the town also changed as these new mill
-villages were populated by French Canadian and Irish immigrants. By the
-end of the 19th century, almost one fourth of the population was born
-outside the US, and French was the primary language for many of the
-people in the eastern part of Coventry. Not all immigrants, however,
-worked in the factories. Census records from the late 19th century show
-that some of them owned farms.
-
-By comparison, the western end of the town remained very rural, with
-the only centers of population being located at Greene and Summit, both
-being established as railroad stations on the New York, New Haven, and Hartford Railroad.
-
-In the 20th century, the town went through much change. The advent
-of the automobile brought an end of the railroad (which was dismantled
-in the 1970s) and most of the old factories closed. In the late 20th
-century, many new people moved to Coventry, most of them being from the
-Providence area. These new comers moved because of the large amount of
-land available to build on. The eastern part of the town became
-suburbanized. Currently, there is a movement in the town to limit new
-homes in order to keep the rural flavor of the western part of the town.
+Coventry is not a destination in itself, but the surrounding area offers good hiking, fishing at Heyburn Lake and Lake Tiogue, and a taste of the quieter side of Rhode Island that most visitors miss.

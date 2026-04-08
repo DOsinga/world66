@@ -1,8 +1,6 @@
 ---
-title: "Eating Out in Hammerfest"
+title: "Eating Out"
 type: section
 ---
 
-The food and hospitality given in the 'Matandvin Hus' was excellent. Where else in the world can you have 'king crab', 'grouse', 'reindeer' and 'hare' all in one set dinner, truly amazing, loved it! (Stan Bruce 17th Januray 2006)
-
-Stayed in the 'Rica Hotel' and had a beautiful lunch (see photo) I will say it was the best salad I've ever tasted. (Stan Bruce 17th January 2006)
+Hammerfest punches above its weight for food, thanks to the Arctic larder on its doorstep. King crab, reindeer, grouse, and Arctic char all appear on local menus. The town's best-known restaurant experience is a set dinner featuring game — reindeer, grouse, hare, and king crab all in one sitting. Look for restaurants near the harbour that source directly from local fishermen and hunters.

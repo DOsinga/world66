@@ -1,8 +1,14 @@
 ---
-title: "Vado Ligure"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.2714
+longitude: 8.4382
+title: Vado Ligure
 type: location
-latitude: 44.27144
-longitude: 8.43822
 ---
 
-An industrial center and port located close to the Capo di Vado, which offers a splendid view of Savona. In ancient times it was known as Vada Sabatia, which grew up in the second century BC around a Roman military camp. It became a municipium and an important junction at the meeting point of the consular roads from Genoa, Tortona and the western coast. Only a small part of the large number of finds from the Roman era is on show in the Museo Civico. Vada was the home of the family of Publius Helvius Pertinax. Spared the destruction wrought by King Rotari (643), it flourished again under the Franks and from the seventh to ninth century was an episcopal see. One of the possessions of the marchesi Del Carretto, it later came under the jurisdiction of first the commune of Savona and then the republic of Genoa. Under the latter, the part known as Porto di Vado was made the seat of a podestà and experienced strong and constant commercial development. Surviving structures from this period include the ruins of the Santo Stefano fort, the Bastione San Giovanni and above all the magnificent fort of San Giacomo with its seventeenth-century batteries. The parish church of San Giovanni Battista, built over the ancient “Santa Maria Vadensis,” was reconstructed in the baroque style in the eighteenth century. The ruins of the castle of the Del Carretto dominate the village of Segno. The Pinacoteca houses an important collection of art including, in addition to paintings from a variety of schools, a room dedicated to Arturo Martini, while original works, plaster casts and models by the sculptor from Treviso are on show in the house on Via Quintana, not far from the parish church, in which he lived for many years.
+Vado Ligure is a small industrial port town on the Riviera delle Palme, just west of Savona. It is not a typical tourist stop, but its Roman origins and handful of historic fortifications give it more character than the commercial port suggests.
+
+The town was founded as Vada Sabatia in the second century BC around a Roman military camp, and grew into an important junction where consular roads from [Genoa](/europe/italy/liguria/genoa), Tortona, and the western coast converged. Roman finds are displayed in the Museo Civico. The town was also the birthplace of the family of Emperor Pertinax.
+
+Later fortifications survive from the Genoese period: the ruins of the Santo Stefano fort, the Bastione San Giovanni, and the impressive fort of San Giacomo with its 17th-century batteries. The parish church of San Giovanni Battista, built over the ancient Santa Maria Vadensis, was reconstructed in baroque style in the 18th century.

@@ -1,8 +1,10 @@
 ---
-title: "Kansai"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.434205
 longitude: 135.222523
+title: Kansai
+type: location
 ---
 
 Kansai (also called Kinki) is the cultural heartland of Japan — the region that gave the country most of its history, religion, and aesthetic tradition. [Kyoto](/asia/japan/honshu/kyoto) was the imperial capital for over a thousand years. [Osaka](/asia/japan/honshu/osaka) is the great merchant city, louder and more direct in manner than Tokyo, famous for its food. [Nara](/asia/japan/honshu/nara) was the capital before Kyoto. [Kobe](/asia/japan/honshu/kobe) has the country's most cosmopolitan port history.

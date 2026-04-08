@@ -1,21 +1,8 @@
 ---
-title: "Getting There in Komarna"
+title: "Getting There"
 type: section
 ---
 
-****
+Komarna sits on the E65 coast road between Split and Dubrovnik, about 120 km south of Split and 70 km north of Dubrovnik. From Zagreb or Rijeka, take the highway toward Split, exit at Šestanovac, and follow the coast road south through Makarska.
 
-**With Car**
-
-From direction Dubrovnik: follow main road (E65) that runs along the coast direction Split. Komarna is about 70 km north of Dubrovnik.
-
-From direction Split: Komarna is about 120 km south of Split. Follow the main road (E65) direction Dubrovnik.
-
-From direction Rijeka, Zagreb: take a highway direction Split, Makarska. Get out at Sestanovac junction. Follow direction for Makarska, Dubrovnik. After Makarska, continue on the main road that runs along the coast (E65) direction Dubrovnik. Komarna is about 80 km south of Makarska.
-
-**With plane**
-
-Closest airport: Dubrovnik Airport (Cilipi) - 90 km
-
-**Contributors**
-November 04, 2008
+The closest airport is Dubrovnik (Čilipi), about 90 km to the south.

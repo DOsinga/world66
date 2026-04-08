@@ -3,4 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-In Goulmime everything is located within walking distance from the Place Bir Anzarane. This also happens to be where the Av. Hassan II meets Mohammed V. The Gare routiere is to the east, and the grand taxi's stop at a place somewhat to teh south west. The camal market is further to the north.
+Everything in Guelmim is within walking distance of Place Bir Anzarane, where Avenue Hassan II meets Avenue Mohammed V. The bus station (gare routiere) is to the east, and grand taxis stop a short walk to the southwest. The camel market is further north.

@@ -1,8 +1,14 @@
 ---
-title: "Cheju island"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 33.489
+longitude: 126.4983
+title: Jeju Island
 type: location
 ---
 
-If you are in Korea for your honeymoon, Cheju is where you should be heading for. Cheju island (Chejudo) known as a place of fantasy or mystery is the largest island in Korea and is located in the southwest sea of the Korean peninsula and is highlighted for its uniqueness. This large island 60 mi/100 km off the coast of the mainland has a unique history dress architecture language and tradition. Millions of dollars have been pumped into the island to build deluxe hotels and modernize the island’s infrastructure. 
+Jeju Island (Jejudo) is South Korea's largest island, a volcanic landmass about 100 km off the southwest coast of the mainland. It is the country's most popular domestic holiday destination — particularly for honeymooners — and was designated a UNESCO World Heritage Site for its volcanic landscape. The island has a unique history, dialect, architecture, and tradition that set it apart from the mainland.
 
- Nevertheless the island has not lost its charm. Chenju seems a world away from the mainland even though it’s relatively easy to reach—it’s an hour’s flight south of [Seoul](/asia/southkorea/seoul) or an overnight ferry ride from [Pusan](/asia/southkorea/pusan), Mokpo or Wando. The island itself has a good traffic infrastructure thanks to the many roads. The population of the island is about 535,000. A major highlight is Halla mountain, which was a volcano once rising 1,950 metres above the sea level.
+Hallasan, the extinct volcano at the centre of the island, rises to 1,950 metres and is South Korea's highest peak. The slopes pass through subtropical, temperate, and near-alpine vegetation zones as you climb. At the summit, the crater lake Baengnokdam (White Deer Lake) is surrounded by more than 300 smaller volcanic craters scattered across the island. The Yeongsilgiam rock formations on the southwest face — often called the "500 Disciples of Buddha" — are another highlight.
+
+Jeju is an hour's flight south of [Seoul](/asia/southkorea/seoul) or an overnight ferry from [Busan](/asia/southkorea/pusan). The island has good roads and public transport.

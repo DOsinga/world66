@@ -1,42 +1,6 @@
 ---
-title: "Things to do in Crescent city"
+title: "Things to Do"
 type: section
-address: "304 Highway 101 S"
-email: "ncol0095@linkcc.om"
-phone: "(707) 464-4900"
-type: "Other"
-latitude: 44.303935
-longitude: -124.105092
 ---
 
-### [Ocean World](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/oceanworld)
-
-Ocean World is an aquarium with a fully guided tour to the wonders under the sea that is great for the whole family. You will start your journey at the touch and feel tide pool. Then wander under the waters to see a half-million gallon aquarium full of sharks, wolf eels and local rock fish. You will have a chance to pet a shark, if you dare. The tour ends with an amazing sea lion performance. The one of a kind gift shop has something for everyone in the family. With great clothing styles, toys and gifts Ocean World is ranked as one of the [more..](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/oceanworld)
-
-type: Other
-
-
-
-[[rate it]](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/oceanworld)
-
-address: 304 Highway 101 S
-
-tel: (707) 464-4900
-
-email: ncol0095@linkcc.om
-
-### [Battery Point Lighthouse](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/batterypointlighthouse)
-
-'A' St. 95531 707/464-3089
-
-type: general
-
-
-
-[[rate it]](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/batterypointlighthouse)
-
-### [Del Norte County Historical Museum](/northamerica/unitedstates/california/northcoast/crescentcity/thingstodo/delnortecountyhistoricalmuseum)
-
-6th & 'H' Sts. 95531 707/464-3922
-
-type: general
+Crescent City's main draws are natural and historical. The lighthouse is the obvious anchor, but the small aquarium on the highway is worth a stop if you have kids in tow, and the county historical museum gives useful context on the 1964 tsunami and the Indigenous history of Del Norte County.

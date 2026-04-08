@@ -1,5 +1,7 @@
 ---
-title: "Battura Valley"
+done:
+  location_cleanup: '2026-04-08'
+title: Battura Valley
 type: location
 ---
 

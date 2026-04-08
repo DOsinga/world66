@@ -1,8 +1,10 @@
 ---
-title: "Pitigliano"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.634827
 longitude: 11.673549
+title: Pitigliano
+type: location
 ---
 
 The town is situated on a steep tuff rock, 313 metres above sea-level. The area of Pitigliano and far to the south of Rome is characterised by tuff stone, a hardened type of volcanic magma. The typical Tuscan landscape with small farm houses on soft hills is rarely found here. South Tuscany is wild and many sided, similar to neighbouring Latio, the area around Rome. Small creeks have cut steep valleys into the landscape and there is a lot of woodland. Not far from Pitigliano is Lake Bolsena, a huge water-filled crater and the largest Italian lake. From Siena you can see Mount Amiata, an isolated volcano 1738 metres high, and a favourite skiing area in winter. Near the coast are extended flat zones, which were notorious for malaria contamination up to the 1930's. This was the area that was home for famous bandits like Domenico Tiburzi. Nowadays the Maremma coast 50 kilometres from Pitigliano has beautiful beaches that are hardly developed.

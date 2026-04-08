@@ -1,8 +1,10 @@
 ---
-title: "Quiliano"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.292536
 longitude: 8.412652
+title: Quiliano
+type: location
 ---
 
 Situated in the hinterland between Savona and

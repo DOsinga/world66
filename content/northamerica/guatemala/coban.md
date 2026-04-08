@@ -1,8 +1,10 @@
 ---
-title: "Cobán"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 15.4667
 longitude: -90.3667
+title: Cobán
+type: location
 ---
 
 Cobán is the capital of Alta Verapaz, set among cloud-covered hills at 1,320 metres, about four hours north of Guatemala City by bus. The surrounding region is one of the wettest in Guatemala — the clouds rarely lift entirely, giving it a permanently green, misty character that locals call "chipi-chipi" (fine drizzle).

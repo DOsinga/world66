@@ -1,10 +1,14 @@
 ---
-title: "Ripon"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 54.1363
+longitude: -1.5238
+title: Ripon
 type: location
-latitude: 54.136261
-longitude: -1.523755
 ---
 
-Ripon is a small city near to the YorkshireDales. Its main glory is the Cathedral, started in the 7th century and still retaining a crypt from that time whereas most of what is currently seen dates from the 13th century or later. It is one of England's lower cathedrals, not having wished to advertise its presence to raiders from Scotland.
+Ripon is one of England's smallest cities, set on the edge of the Yorkshire Dales. Its main glory is the cathedral, founded in the 7th century — the Saxon crypt survives, one of the oldest intact structures in England. The rest of the building is mostly 13th century and later, deliberately kept low and modest so as not to attract the attention of Scottish raiders.
 
-Ripon also has a Wakeman's house and the wakeman's horn is still sounded every evening in the market square.
+Every evening at 9 p.m. in the market square, the Wakeman's horn is sounded — a tradition dating back over a thousand years, when the Wakeman was responsible for setting the night watch. The market square itself is handsome, surrounded by Georgian townhouses.
+
+Just outside town, Fountains Abbey is one of the finest ruined abbeys in England and a UNESCO World Heritage Site. The extensive remains sit in a beautiful valley alongside the water gardens of Studley Royal — together they make one of the best days out in Yorkshire. Brimham Rocks, a collection of bizarre wind-sculpted rock formations, is a short drive further south.

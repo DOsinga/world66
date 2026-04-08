@@ -1,26 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Budva, Slovenska obala"
-email: "quick@cg.yu"
-price: "Affable"
-type: "Fast food"
-url: "www.quick.co.yu"
-latitude: 42.286366
-longitude: 18.852524
 ---
 
-Here are a few suggested restaurants.
-
-**Contributors**
-June 06, 2005
-
-### Fast Food Quick
-
-Fast Food Quick is just the right place for all of you who want
-quick but good, healthy snack, in pause of seesighting budva
-or after night life.
-
-It's located just near famous Grand Cafe Raffaello on Slovenska obala promenade.
-
-type: Fast food
+The Slovenska obala promenade and the streets of the old town have plenty of restaurants, from seafood grills to pizza joints. Fresh fish and Montenegrin grilled meats are the standards. In summer, most places set up outdoor terraces.

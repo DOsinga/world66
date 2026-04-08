@@ -1,8 +1,10 @@
 ---
-title: "Devil's Island"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 5.289
 longitude: -52.584
+title: Devil's Island
+type: location
 ---
 
 Just off the coast of [Kourou](/southamerica/frenchguiana/kourou) are three islands: Ile Royale, Ile Saint-Joseph, and Ile du Diable (Devil's Island). Together they are known as the Iles du Salut (Salvation Islands).

@@ -1,6 +1,6 @@
 ---
 title: "De blauwe druif"
-type: location
+type: poi
 latitude: 52.380436
 longitude: 4.89105
 ---

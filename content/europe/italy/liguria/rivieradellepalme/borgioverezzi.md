@@ -3,35 +3,12 @@ title: "Borgio Verezzi"
 type: location
 latitude: 44.164968
 longitude: 8.306662
+done:
+  location_cleanup: 2026-04-08
 ---
 
-The town is made up of the two distinct
- settlements of Borgio, on the coast, and
- Verezzi, in a marvelous panoramic position on
- the hill. Formerly possessions of the bishop of
- Albenga, they came under the rule of the Del
- Carretto of Finale for brief periods and were
- ceded to the republic of Genoa by Pope Urban
- VI in 1385. Borgio’s main attraction is the cave
- of Valdemino, an underground complex that is
- open to visitors, drawn by its delicate
- calcareous concretions and fascinating series of
- small lakes. The shrine of the Madonna del
- Buon Consiglio is also located at Borgio: dating
- from the twelfth-thirteenth century, it was once
- a church dedicated to St. Stephen and St. Peter
- and still houses fragments of frescoes from the
- fourteenth and fifteenth centuries. Other
- attractive features include the fine Gothic
- campanile with a spire, the seventeenth-century
- portico and, not far off, the lookout tower
- known as the Torrione, built in 1564. At
- Verezzi a number of the medieval houses have
- a structure that reveals the influence of Saracen
- architecture. The enchanting Piazza di
- Sant’Agostino, overlooking the sea, is used in
- the summer to stage an open-air theater festival
- of international standing, culminating in the
- award of the “Premio Veretium” to the best
- actor. The event draws some of the most
- prestigious touring companies.
+Borgio Verezzi is a twin settlement on the Riviera delle Palme in western Liguria — Borgio on the coast, Verezzi on the hill above it with panoramic views over the sea. The two could hardly be more different: Borgio is a modest beach town, while Verezzi is a cluster of medieval hamlets with Saracen-influenced stone houses and narrow lanes.
+
+Borgio's main attraction is the Grotte di Valdemino, a cave complex with delicate limestone formations and a series of small underground lakes. Above, the 12th-century shrine of Madonna del Buon Consiglio preserves fragments of medieval frescoes and a fine Gothic bell tower.
+
+Verezzi's highlight is the enchanting Piazza di Sant'Agostino, an open square overlooking the sea that hosts an acclaimed summer theatre festival. The annual Premio Veretium draws some of Italy's best touring companies, and watching a performance on a warm evening with the Mediterranean below is a memorable experience.

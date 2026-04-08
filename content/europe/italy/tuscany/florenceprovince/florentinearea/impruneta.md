@@ -1,16 +1,14 @@
 ---
-title: "Impruneta"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 43.6853
+longitude: 11.2547
+title: Impruneta
 type: location
-latitude: 43.685345
-longitude: 11.254664
 ---
 
-The territory of Impruneta, which lies along the Florence-Siena thoroughfare, is bounded by the Florentine hills that create a fertile hilly area contained between the Greve and Ema rivers. In some places these rivers form the commune’s border. On the road to Florence, not far from the town, we can see a beautiful view of the inhabited area surrounded by its two green cultivated hills.
+Impruneta is a small hilltop town about 13 km south of Florence, set in the rolling Chianti countryside between the Greve and Ema rivers. It is best known for two things: its terracotta — the distinctive red clay that has been fired here since the Romans — and the Basilica di Santa Maria all'Impruneta, which houses an icon of the Virgin attributed to Saint Luke and has drawn pilgrims for centuries.
 
+The town sits along the old Florence–Siena road and has a gentle, unhurried character that feels a world away from the tourist crowds of central Florence. The main piazza, Piazza Buondelmonti, is a pleasant place to sit with a coffee and watch the rhythm of a Tuscan town going about its day.
 
- 
- Boundaries: to the North with the Commune of Florence; to the South with the Commune of Greve in Chianti; to the East with the Commune of Bagno a Ripoli; to West with the Communes of Scandicci and San Casciano Val di Pesa.
-
-
- 
- Distances: from Florence 13 km – from Siena 55Km
+In late September, Impruneta transforms for the Festa dell'Uva, a grape harvest festival that has been running since 1926. The four districts of the town compete with elaborate floats built from grapes, and the whole place takes on a festive, local energy that is quite unlike anything staged for tourists.

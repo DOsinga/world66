@@ -1,11 +1,8 @@
 ---
-title: "laox"
+title: "Laox"
 type: poi
-type: "general"
-latitude: 35.69815
-longitude: 139.770942
+latitude: 35.6982
+longitude: 139.7709
 ---
 
-Pronounced Raokkusu, Laox is the biggest shopping experience imaginable. So many electronic equipment you wouldn't know how to us!
-
-type: general
+Pronounced "Raokkusu," Laox is one of Akihabara's largest electronics retailers, spread across multiple floors with an overwhelming range of consumer electronics, cameras, and gadgets. It caters well to foreign visitors, with tax-free shopping and staff who can assist in several languages.

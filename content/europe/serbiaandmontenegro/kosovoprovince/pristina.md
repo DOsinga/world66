@@ -1,8 +1,10 @@
 ---
-title: "Pristina"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 lat: 42.6629
 long: 21.1655
+title: Pristina
+type: location
 ---
 
 Pristina is the capital of Kosovo and a city that has reinvented itself at speed. The old image of a bombed-out UN protectorate is well out of date — this is now a busy, young capital with a lively café culture, a packed university district, and streets named after Bill Clinton and George W. Bush (both have statues here, a reflection of US support for Kosovo's independence).

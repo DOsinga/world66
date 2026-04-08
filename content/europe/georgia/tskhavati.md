@@ -1,10 +1,14 @@
 ---
-title: "Tskhavati"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.246695
 longitude: 44.507146
+title: Tskhavati
+type: location
 ---
 
-The village Tskhavati is located in the Historical Shida Kartli, ksani gorge, in Akhalgori district, on a high mountain. Tskhavari monastery is situated outside the village, on a woody field surrounded by an enclisure. It comprises the main church (9th c.), the minor church (10th c.), two-storied bell-tower, and other damaged buildings. the main church belongs to the type of aisless vaulted churches with contemporary apseless annexes on the whole length of northern and southem exterior wall; southern annex is divided into two parts - a long western compartment and a short eastern one (the latter is accessible from the interior of the naos only). the naos is terminated by a restangular chancel in the East. it is crowned by a conch with the three zones of squinch-like transitional construction.
+Tskhavati is a remote mountain village in the Ksani Gorge of Shida Kartli, in the Akhalgori district of [Georgia](/europe/georgia). The main reason to come here is the Tskhavati Monastery, set in a wooded clearing outside the village.
 
-Longitudinal walls are articulated by means of two pairs of pilasters and four pairs of blind arches resting on the former and the wall corbels. The church is built of large and medium size cobble, from the exterior walls, the western one is decorated by three window erminations with crosses. 14th c. murals are partially presserved in the church. the church is severely damaged, the vault is collapsed. Walls split by enormous cracks are presently reinforced with injection solution, temporary roofing is arranged.
+The monastery complex includes a 9th-century main church, a smaller 10th-century church, and a two-storey bell tower. The main church retains fragments of 14th-century frescoes and has decorative crosses carved into the western facade. The buildings are in poor condition — the vault of the main church has collapsed and the walls are cracked, though conservation work has been underway.
+
+This is not an easy place to reach, and you are unlikely to find other visitors. The setting, in the mountains above the gorge, is the reward.

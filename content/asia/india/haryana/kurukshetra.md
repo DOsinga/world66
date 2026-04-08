@@ -1,14 +1,14 @@
 ---
-title: Kurukshetra
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 29.9694
 longitude: 76.8483
-done:
-  location_cleanup: 2026-04-08
+title: Kurukshetra
+type: location
 ---
 
-Kurukshetra is a sacred city in Haryana, about 150 km northwest of Delhi, famous as the battlefield where the great war of the Mahabharata was fought — the conflict narrated in one of Hinduism's foundational epics. It was on these plains that Lord Krishna delivered the Bhagavad Gita to the warrior Arjuna, making the site one of the holiest in the Hindu world. The city is also known as Dharmakshetra ("Land of Dharma").
+Kurukshetra is one of the most sacred places in Hindu tradition — the land where the great battle of the Mahabharata was fought and where Lord Krishna delivered the Bhagavad Gita to Arjuna. The very first verse of the Gita calls it *Dharmakshetra*, "the field of righteousness."
 
-More than 860 places of pilgrimage connected to the Mahabharata and the Gita lie within the district, including ancient tanks (sacred bathing ponds), temples, and memorial sites. The Brahma Sarovar is the largest sacred tank and is especially significant during solar eclipses when millions of pilgrims gather here. The Krishna Museum holds a notable collection of art and artefacts related to Krishna's life and the Gita. The Sri Krishna museum complex also has a panoramic representation of the Mahabharata battlefield.
+The district lies about 150 km northwest of Delhi in the state of Haryana. It is flat, fertile agricultural land dotted with more than 365 temples and hundreds of pilgrimage sites connected to the Mahabharata. According to tradition, the Rig and Sama Vedas were compiled here, Manu wrote his law code on this ground, and Buddha visited. The town was named after the legendary King Kuru, ancestor of both the Pandavas and the Kauravas.
 
-Kurukshetra is reached easily by train from Delhi on the main Delhi-Ambala-Chandigarh line.
+For travellers, Kurukshetra is primarily a place of religious and historical interest. The **Brahma Sarovar**, a sacred tank, is the main pilgrimage site. The **Sri Krishna Museum** and the **Panorama and Science Centre** offer modern interpretations of the Mahabharata story. A solar eclipse fair (*Surya Grahan Mela*) draws millions of pilgrims when it occurs.

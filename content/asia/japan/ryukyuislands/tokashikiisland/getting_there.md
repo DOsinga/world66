@@ -3,16 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Almost all travellers takes ferry or boat from Tomari port,Naha.
+Ferries and high-speed boats run from Tomari Port in Naha. The ferry takes about 70 minutes; the high-speed Marine Liner takes 35 minutes. Check the Tokashiki Village website for current schedules and fares.
 
-Both of these timetables and faretables are below.
-http://www.vill.tokashiki.okinawa.jp/en/ship_inf/set.htm
-
-Getting from neighboring islands are not common. But a few travellers charter divingboat
-from Zamami island and Aka island.
-
-Charter fare 8,000jpy from Aka,10,000jpy from Zamami for all passengers.
-Ask for local diving service on each islands.They arrive Aharen port,not Tokashiki port.
-
-**Contributors**
-November 18, 2007
+It is also possible to charter a diving boat from Zamami or Aka island — roughly 8,000 yen from Aka and 10,000 yen from Zamami. These arrive at Aharen Port, not the main Tokashiki Port. Ask local dive shops on either island to arrange this.

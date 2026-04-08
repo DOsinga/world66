@@ -1,8 +1,10 @@
 ---
-title: "Furore"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.6188
 longitude: 14.5533
+title: Furore
+type: location
 ---
 
 Furore calls itself "the town that doesn't exist" — and technically it's right. Unlike every other village on the Amalfi Coast, Furore has no real centre, no piazza, no cluster of buildings you can point to and say: that's the town. Instead it sprawls in fragments across the steep cliffs between Amalfi and Positano: a scattering of farmhouses on the terraces above, a tiny fishing port hidden in a narrow gorge below.

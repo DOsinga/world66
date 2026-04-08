@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Ouzoud"
+title: "Getting There"
 type: section
 ---
 

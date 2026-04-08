@@ -1,8 +1,14 @@
 ---
-title: "Carloforte"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.1455
+longitude: 8.3064
+title: Carloforte
 type: location
-latitude: 39.145481
-longitude: 8.306427
 ---
 
-Carloforte is the main and only city of the Isola di San Pietro. Founded by some Genovese returning from the last crusade, the people of this island don't feel Sardo, but Carlofortinian. Almost all the inhabitants of the city are in some form connected to fishing (mostly Tuna) or tourism. The city has a real Caribean look about it. This mainly due to the colors used (pastel colors). Four beautiful trees make the town-square a lovely place to repose yourself. Up on the hill you will find an old-city wall and the small historical museum of the island. Almost all of the 6000 inhabitants of the island live in the city. Altough most also own one of the small white houses outside of the city that dot the iternal countryside of the island.
+Carloforte is the only town on Isola di San Pietro, a small island off the southwest coast of Sardinia. Despite being Italian, the place has a distinct identity: it was founded in the 18th century by Genoese-origin settlers from the island of Tabarka off Tunisia, and their descendants still speak a Ligurian dialect called Tabarchino. Carlofortini don't consider themselves Sardi, and if you pay attention you'll hear it.
+
+The town has a distinctly un-Sardinian look — pastel-coloured harbour buildings, a relaxed piazza shaded by tall palms, and narrow lanes climbing the hillside toward the remains of old fortifications. The sea here is excellent for swimming and snorkelling, and the waters around the island are a marine reserve.
+
+The island's economy runs on tuna fishing and tourism. The annual Girotonno festival in late May-June celebrates bluefin tuna with food, music, and cooking competitions. Outside peak summer, Carloforte is quiet, unhurried, and genuinely pleasant.

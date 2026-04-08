@@ -1,14 +1,14 @@
 ---
-title: "Bled"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.36842
 longitude: 14.11006
+title: Bled
+type: location
 ---
 
-A fairytale castle high on a bluff, with a crystal clear lake underneath, snow capped alps in the background: Bled has all the ingredients for becoming a major tourist spot. 
+A fairytale castle on a cliff, a crystal-clear lake with a tiny island church, snow-capped Julian Alps as a backdrop — Bled looks almost too picturesque to be real. It is Slovenia's most visited resort, about an hour by bus from [Ljubljana](/europe/slovenia/ljubljana), and it earns the attention.
 
-Located in the Julian alps, a bus ride of about an hour takes you from [Ljubljana](/europe/slovenia/ljubljana) to this mountain resort. The main sights in the area are the **Bled castle **which has a pricey restaurant and a mediocre museum but the best views imaginable of the lake and the **island** with the Chuch of Sv Marika Bozja on it. The island can be visited by gondola, or by canoe from the Park Hotel. 
+Bled Castle perches on a sheer bluff above the north shore. The museum inside is modest, but the view from the terrace — straight down to the emerald lake, across to the mountains — is extraordinary. The island in the middle of the lake holds the Church of the Assumption (Cerkev Marijinega vnebovzetja); you reach it by pletna, the traditional flat-bottomed boats rowed by local oarsmen, or by renting a canoe and paddling yourself.
 
-The **Vintgar Gorge** is an excellent daytrip. It's just 10 km north of town and the hike there is great. 
-
-One of our favourite places we visited.
+The lake itself is small enough to walk around in two hours, warm enough to swim in during summer, and ringed by forested hills. The Vintgar Gorge, 4 km north of town, is a spectacular 1.6 km walk along boardwalks above the Radovna River — go early to beat the crowds. Nearby [Lake Bohinj](/europe/slovenia/bohinj), 26 km southwest, is bigger, quieter, and wilder.

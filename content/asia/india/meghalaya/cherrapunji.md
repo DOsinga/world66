@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
 latitude: 25.277734
 longitude: 91.729242
 title: Cherrapunji

@@ -1,14 +1,14 @@
 ---
-title: "Coral Coast"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -18.134239
-longitude: 178.42557
+longitude: 177.955
+title: Coral Coast
+type: location
 ---
 
-Travel Guide
+The Coral Coast stretches along the southwestern shore of Viti Levu, [Fiji](/australiaandpacific/fiji)'s main island. It is the country's most established resort strip, and with good reason — the weather here is the driest and sunniest on the island, the beaches are white sand, and the volcanic hills rising sharply behind the coast make for dramatic scenery.
 
-The Southwest quadrant of Viti Levu ("Big Fiji"), known in travel circles as the "Coral Coast," contains a number of tourist resorts, and with good reason. The area features the nicest weather on Viti Levu, as well as spectacular ocean views, white sand beaches, and volcanic hills that rise sharply toward the island's interior. Fijian village life is also on prominent display, with a number of villages which feature cultural events for interested travelers.
+The reef surfing is spectacular. The Frigates reef break near Waidroka Bay draws serious surfers, and the region is close to the Mamanuca islands where professional surfing events are held. For non-surfers, the coral reefs offer excellent snorkelling and diving.
 
-The region also features spectacular reef surfing -- Fiji hosts the Roxy Pro professional surfing event every year for women (the richest event on the women's tour), in the nearby Mamanuca islands, and the Globe Fiji Pro men's contest at the spectacular Frigates reef break near Waidroka Bay on the Coral Coast.
-
-Access for visitors is a matter of a short bus ride or rental car trip from [Nadi](/australiaandpacific/fiji/vitilevu/nadi).
+Fijian village life is on display along the coast, with several communities that welcome visitors for cultural events and kava ceremonies. A short bus ride or rental car trip from [Nadi](/australiaandpacific/fiji/vitilevu/nadi) gets you here.

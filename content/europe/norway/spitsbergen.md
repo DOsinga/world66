@@ -1,21 +1,16 @@
 ---
-title: "Spitsbergen"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 78.719852
 longitude: 20.349333
+title: Spitsbergen
+type: location
 ---
 
-Spitsbergen, also known as Svalbard, is a good place to go if you are interested in life in the Arctic. Although the weather isn't too great, the islands are extremely beautiful and there are a lot of outdoor opportunities here.
+Spitsbergen is the largest island of the Svalbard archipelago, sitting deep inside the Arctic Circle at roughly 78°N — closer to the North Pole than to Oslo. The landscape is raw and immense: glaciers calving into cold fjords, polar bears crossing tundra, reindeer grazing on rocky hillsides, and in summer, a sun that never sets. If you want genuine Arctic wilderness without the logistical extremes of Greenland or Antarctica, this is where to go.
 
+The archipelago was probably first sighted by Viking seafarers around 1194, rediscovered by the Dutch explorer Willem Barentsz in 1596, and then heavily exploited for whales and walruses for the next two centuries. Coal mining came next, and the legacy of that industry still shapes the settlements. Today Russia and Norway both operate mines here — Barentsburg flies the Russian flag, while [Longyearbyen](/europe/norway/spitsbergen/longyearbyen) is the Norwegian hub and main point of entry. Ny-Ålesund, further north, hosts an international scientific research station.
 
- Svalbard has probably been discovered in 1194, by Vikings from Iceland. Forgotten, rediscovered by Dutchmen in the XVIth century, the interest in the archipelago increased with the intensive whaling since the XVIIth century followed by hunting. Since the beginning of this century, the main stakes there are coal mining and scientific research. Mines are actually runned by Russians (Pyramiden, Barentsburg) and Norwegian (Longyearbyen, Svéagruva). Ny-Ålesund is mainly a scientific village, with researchers from many countries involved in the polar field (glaciology, biology...).
+Under the 1920 Svalbard Treaty, Norway holds sovereignty but all signatory states have equal rights to work and settle here — which is why Russian miners and international researchers coexist on Norwegian soil without visas. The treaty also bans military installations, giving Svalbard an unusual status among Arctic territories.
 
-Svalbard has also obviously been a key place for many attempt to discover the North Pole area. 
- Since the Paris treaty in 1920, the Svalbard is under the Norwegian sovereignthy trough a Sysselman based in Longyearbyen, but any signatory states have equal rights. In some features (including the interdiciton of any military base), this treaty is a precursor of the Antarctic Treaty. 
- [Longyearbyen](/europe/norway/spitsbergen/longyearbyen) is the main settlement (ca 1000 inhabitants). It is mainly a coal mine, but since a few years, tourism has became more and more important. Planes fly there almost daily during high season, almost anything (clothes, polar equipment, food...) can be purchased there, and without taxes, which make some norwegian high quality products very attractive (Ajungilak sleeping bags, Hell Sport tents...). [Nybyen](/europe/norway/spitsbergen/nybyen) is a charming village close to Lonyearbyen.
- 
-
-## Destinations in Spitsbergen
-
-[Longyearbyen](/europe/norway/spitsbergen/longyearbyen)
-[Nybyen](/europe/norway/spitsbergen/nybyen)
+Tourism has grown steadily since the 1990s. [Longyearbyen](/europe/norway/spitsbergen/longyearbyen) is well set up for visitors, with flights from Oslo and Tromsø, good outfitter shops, and a range of guided expeditions. It makes a solid base for boat trips into the fjords, snowmobile safaris in winter, and wildlife watching throughout the season. [Nybyen](/europe/norway/spitsbergen/nybyen), just outside town, is a quieter cluster of old miners' houses at the foot of a glacier.

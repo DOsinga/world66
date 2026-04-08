@@ -1,9 +1,14 @@
 ---
-title: "Kullu"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 31.957897
 longitude: 77.108923
+title: Kullu
+type: location
 ---
 
-One of the loveliest spot in the Himalayas, the Kulu Valley is known as the *Valley of Gods*. It is thus
- hardly surprising that you will find numerous temples here. The vally offers a variety of scenic charms, from wooded glades to barren rocks with snow above the tree line. Kullu is famous for its apple orchards, wooden temples, folk music and dances and their handsome hill folk. Kullu is a great place for trekking.
+The Kullu Valley is one of the loveliest stretches of the Himalayas, a broad green corridor carved by the Beas River and flanked by densely forested ridges. Known as the *Valley of Gods*, it is studded with wooden temples dedicated to local deities, and the surrounding hills are terraced with apple orchards that turn the landscape pink each spring.
+
+Kullu town itself sits at the southern end of the valley and is best known as a base for exploring the region. The real draw is what surrounds it: trekking routes into the high mountains, the turbulent Beas for white-water rafting, and the Dussehra festival each October when the valley fills with pilgrims and processions from hundreds of villages. The folk music, handloom shawls, and distinctive hill architecture give the place a character quite different from the plains below.
+
+Most travellers pass through Kullu on their way north to [Manali](/asia/india/himachalpradesh/manali), but the valley rewards a slower pace. The drive up from [Bhuntar](/asia/india/himachalpradesh) along the river is spectacular, and the villages off the main road offer a quieter glimpse of Himachali life.

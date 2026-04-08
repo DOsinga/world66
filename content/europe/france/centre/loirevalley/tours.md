@@ -1,14 +1,14 @@
 ---
-title: "Tours"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 47.390047
 longitude: 0.688927
+title: Tours
+type: location
 ---
 
-Tours is located on the banks of the Cher and the Loire river. But it's not just the setting that's great, the whole town is pretty. On the south bank of the Loire you find most of the sights close together in a small pedestrian area. Many charming old houses, old churches, a few interesting museums, nice quaint shops, bars and restaurants are all here.
+Tours sits at the confluence of the Loire and the Cher, the largest city in the valley and a natural base for exploring the chateaux country. The old centre on the south bank of the Loire is compact and largely pedestrian — a tight grid of half-timbered houses, Romanesque and Gothic churches, and lively café terraces that fills with students from the university during term time.
 
+The medieval quarter around Place Plumereau is the hub of street life, with bars and restaurants spilling out under the carved timber facades. From there, the Rue Colbert leads east through a corridor of restaurants and antique shops to the cathedral. West of Rue Nationale — the main shopping axis — the streets are quieter but no less handsome, with several good museums tucked among the townhouses.
 
- The Cathedral is worth a visit as well. It is a ten minute walk form the pedestrian area in the old centre, along the Loire. It's at the other side of the Rue Nationale, the main street for shopping. On your way there you can also follow rue Colbert which has many trendy restaurants.
-
-
- Tours also has a very impressive train station, a very grand palais de justice and many other interesting 19-th century government buildings.
+The train station is a monument in itself, a Belle Époque palace that signals Tours's confidence as a regional capital. Villandry, Chenonceau, and Amboise are all within half an hour, making it easy to see two chateaux in a day and still be back in town for dinner on rue Colbert.

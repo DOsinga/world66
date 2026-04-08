@@ -1,8 +1,10 @@
 ---
-title: "Parco del Cilento"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.345875
 longitude: 15.237878
+title: Parco del Cilento
+type: location
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

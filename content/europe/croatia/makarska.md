@@ -1,16 +1,14 @@
 ---
-title: Makarska
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 43.294
 longitude: 17.0202
-done:
-  location_cleanup: 2026-04-08
+title: Makarska
+type: location
 ---
 
-Makarska is the main town on the Makarska Riviera, a 60-kilometre stretch of Dalmatian coast backed by the dramatic limestone bulk of the Biokovo massif. The town itself wraps around a protected bay with a long shingle beach and a palm-lined seafront promenade (the Riva). It has been a major package-holiday destination since the Yugoslav era and in summer fills with young Europeans — Croatian, Bosnian, German, Scandinavian, Italian — drawn by the beaches, warm sea, and nightlife.
+Makarska is a lively resort town on the Dalmatian coast, tucked between the dramatic Biokovo mountain range and the Adriatic Sea. It is the main town on the Makarska Riviera, a string of beach towns stretching from Brela to Gradac. The combination of a long pebble beach, a sheltered harbour, a pretty old town, and the imposing mountain backdrop makes it one of the most attractive spots on the Croatian coast.
 
-The old town is compact and pleasant, centred on the Franciscan monastery and the Church of St. Mark on Kačićev trg. The **Malacological Museum** in the monastery has an impressive shell collection. The real draw, though, is the coastline: the pebble beaches at Makarska and the nearby villages of Brela, Baška Voda, and Tučepi are among the clearest-water beaches in Dalmatia.
+The **Riva** (waterfront promenade) is the centre of town life, lined with restaurants, bars, and cafes. The old town behind it has narrow streets, a main square (Kačićev trg), and a Franciscan monastery with a small shell museum. The beach runs the length of town and is well maintained. For wilder scenery, hike up into the **Biokovo Nature Park** — the views from the mountain ridge down to the islands are spectacular.
 
-**Biokovo Nature Park** rises immediately behind the town to nearly 1,800 metres. The climb from Makarska to the ridgeline is strenuous but rewarding, and there are marked trails from several points along the Riviera.
-
-Makarska is a major summer-season resort town — quiet off-season, heaving from July to mid-August. Plan accordingly.
+The Makarska Riviera draws a young crowd in summer, and the nightlife is lively.

@@ -35,7 +35,6 @@ europe/italy/calabria/hilltowns_of_the
 africa/morocco/sports/aztat_treks_shared
 northamerica/unitedstates/kentucky/franklin
 europe/greece/corinth
-northamerica/canada/quebec/montreal/goingout/stereo
 africa/egypt/karnak
 australiaandpacific/palau/koror
 europe/belgium/kortrijk

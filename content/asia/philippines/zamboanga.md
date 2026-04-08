@@ -1,8 +1,10 @@
 ---
-title: "Zamboanga"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 6.9135
 longitude: 122.0739
+title: Zamboanga
+type: location
 ---
 
 Zamboanga City sits at the southwestern tip of Mindanao, closer to Malaysia than to Manila, and it feels like it. The city is a place where Spanish colonial history, Muslim tradition, and Filipino culture have been layered on top of each other for four centuries — and where the result is unlike anywhere else in the Philippines.

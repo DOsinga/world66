@@ -1,8 +1,10 @@
 ---
-title: 'Udayagiri'
-type: location
-latitude: 20.6000
+done:
+  location_cleanup: '2026-04-08'
+latitude: 20.6
 longitude: 86.0333
+title: Udayagiri
+type: location
 ---
 
 Udayagiri is the largest Buddhist monastic complex in Odisha, identified through recent excavations as Madhavapura Mahavihara. The site contains a brick stupa, two monasteries (one still unexcavated), a beautiful stepped stone well with inscriptions, and rock-cut sculptures at the hilltop.

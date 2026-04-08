@@ -5,8 +5,6 @@ latitude: 53.790726
 longitude: -2.24392
 ---
 
-Travel Guide
-
 From a lively nightlife to dynamic theatrical productions, Burnley
 offers a variety of rousing entertainment. Burnley Mechanics is the
 place for live musical entertainment including blues and jazz, as well

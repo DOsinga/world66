@@ -1,35 +1,14 @@
 ---
-title: "Lake Victoria"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -0.1143
+longitude: 34.7616
+title: Lake Victoria
 type: location
-latitude: -0.11427
-longitude: 34.761639
 ---
 
-Lake Victoria is largest lake in Africa, measuring
- almost 70,000 square km. The lake is a very integral
- part of the lives of the Kenyans around the lake,
- namely the Luo tribe, famous fisherman. Lately the
- fishing and transport on the lake has suffered greatly
- from the invasion of water hyacinth, an aquatic weed
- that robs fish of oxygen and blocks waterways. 
- Remember that bilharzia is prevalent in the lake, so
- don’t swim in it, or walk on its banks without shoes.
+Lake Victoria is the largest lake in Africa, measuring almost 70,000 square km — roughly the size of Ireland. The Kenyan shore, centred on the city of Kisumu, is Luo country, and the lake has shaped the life and economy of the people here for centuries. Fishing remains central, though the industry has been badly affected by the invasion of water hyacinth, an aquatic weed that chokes waterways and robs fish of oxygen. Bilharzia is prevalent in the lake — do not swim in it, and wear shoes on the banks.
 
+The lake itself is not dramatically scenic, but there are several islands worth visiting. **Rusinga Island** is connected to the mainland by a causeway. From Kisumu, take a matatu to Homa Bay, where you can get transport to the island. There is a mausoleum for Tom Mboya, the Luo political leader assassinated in 1969, but not much else.
 
- 
- The lake itself is not that spectacular, although
- there are several island you can visit. **Rusinga
- Island** is connected to the mainland by a causeway. 
- From Kisumu, take a matatu to Homa Bay, where you’ll
- be able to get transportation to the island. There’s
- a mausoleum for the famous statesman Tom Mboya on the island, and not much else.
-
-
- If you really want to get off the beaten track, go to
- **Mfangano Island.** You can take a ferry from Homa Bay. 
- There’s nothing on the island except for a local
- community and one very expensive resort. Arrange to
- stay with some locals, or go to *Mfangano Island
- Camp* where a bed with full board costs US$ 125. 
- You can arrange fishing trips from here through
- Mutiara Ltd. in Nairobi (# (02) 331871).
+If you want to get properly off the beaten track, go to **Mfangano Island**, reachable by ferry from Homa Bay. There is little on the island except a local community and good fishing. It is one of those places where you arrange to stay with locals and experience a pace of life that the rest of Kenya has mostly left behind.

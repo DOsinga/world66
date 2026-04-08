@@ -1,8 +1,10 @@
 ---
-title: "Cirque de Salazie"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -21.0233
 longitude: 55.5333
+title: Cirque de Salazie
+type: location
 ---
 
 *Africa > Réunion > Cirque de Salazie*

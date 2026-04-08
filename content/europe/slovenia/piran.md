@@ -1,12 +1,16 @@
 ---
-title: "Piran"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 45.5285
+longitude: 13.5684
+title: Piran
 type: location
-latitude: 45.528492
-longitude: 13.568449
 ---
 
-Piran is an old medieval town in the west of Slovenia. It is located on the the tip of the peninsula that is the westernmost part of Slovenia on the coastal Adriatic. 
+Piran is the most beautiful town on the Slovenian coast — a compact Venetian peninsula jutting into the Adriatic with medieval streets so narrow two people can barely pass. It looks, feels, and smells like Italy, but remains gloriously Slovenian.
 
-In past centuries, its buildings, typically stone and Mediterranean, were encircled by city walls several times. It is believed that the first walls were built in the 7th century, extended in the 12th century, and achieved their present appearance in the 16th century as protection against Turkish raiders. It is understandable that the town and its surroundings therefore boast many historical monuments and a rich tradition. 
+The town sits on the very tip of the Piran peninsula, its old quarter contained within walls that have stood since the 12th century. Within that small perimeter, centuries of Venetian rule left their mark: Gothic arches, terracotta rooftops, a Lion of St Mark above the town gate, and Tartini Square — one of the most elegant town squares on this stretch of coast — named after the baroque composer Giuseppe Tartini, who was born here in 1692.
 
-But the city is more than just a place for history buffs. The area is great for people who love the outdoors, and the beaches in the area are superb. Close to the city is the tourist center of Portoroz offering an abundance of entertainment, relaxation, and cultural satisfaction for tourists of all ages with its beaches, hotels, restaurants, sports facilities, and especially its casino. The Portoroz Marina, said to the best equipped on the Adriatic, is a starting point for many yacht cruises on the Adriatic.
+The streets behind the square are a pleasure to wander with no particular goal. They are too narrow for cars and too irregular for shortcuts. Cats sleep on windowsills. Laundry hangs between shuttered windows. The climb up to the Cathedral of St George rewards you with sweeping views over the sea and the Istrian coast beyond.
+
+Piran is small enough to walk in an afternoon but rich enough to warrant a few days. The beaches — particularly Fiesa, just around the headland — are rocky and clean. The seafood is excellent. The light on the water at dusk, when the boats return and the town glows orange, is the reason people keep coming back.

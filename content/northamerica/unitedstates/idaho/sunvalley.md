@@ -1,24 +1,14 @@
 ---
-title: "Sun valley"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 43.696215
 longitude: -114.353097
+title: Sun Valley
+type: location
 ---
 
-Sun Valley. Synonomous with supurb. It boasts the best mountain in in the US. Baldy. It's not as big as Vail. It's also not as flat. And it's not like the LA 405. 
- 
- You don't wait in line. You have just as much skiing off piste as you do on. And it's impossible to do all the runs in one day (it's been attemepted). 
+Sun Valley is a world-class ski resort in the mountains of central Idaho, built around Bald Mountain — known locally as Baldy. It was America's first destination ski resort, opened in 1936 by Union Pacific Railroad, and it has stayed at the top of the pile. The resort attracts serious skiers rather than the apres-ski crowd; the focus is on the mountain itself.
 
+Baldy is legitimately excellent. The vertical drop is over 3,400 feet, the runs are sustained rather than rolling, and the lift system is efficient enough that lines are rarely a problem even on busy days. Runs like International, Fire Trail, Easter Bowl and Upper River Run give advanced skiers plenty to work with. February and March are typically the best months: the holiday rush has cleared and conditions are usually at their peak.
 
- If you're planning a trip to Aspen or Vail and you actually plan to ski, save your money. Runs like International, Fire Trail, Easter Bowl and Upper River Run make Sun Valley one of the best destinations for the real skiier. We don't have a Ritz and we don't have a Planet Hollywood. It's about the skiing. 
-
-
- 
- A word for the wise. Wait for February. All the ducks come in December hunting for the myth. Wait for them to clear out to see what the mountain is all about. 
- 
- Sun Valley does have the most advanced snow making system in the world. If someone wanted to fund it, we could have have skiing in August. So even if you catch it on an off year, you'll still ski and you'll still experience the steep grade of our slopes. It does not roll in steps, like Snow Bird. When you ski down Baldy, you actually ski down, all the way.
- 
-
-## Destinations in Sun valley
-
-[Wallace](/northamerica/unitedstates/idaho/sunvalley/wallace)
+The nearby town of Ketchum is the practical base, with restaurants, shops, and most of the accommodation. Sun Valley itself is the resort village. The surrounding Wood River Valley is worth exploring in summer too — hiking, mountain biking, and fly-fishing on the Big Wood River.

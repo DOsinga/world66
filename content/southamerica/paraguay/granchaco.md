@@ -1,8 +1,10 @@
 ---
-title: "Gran chaco"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -20.097631
 longitude: -59.873916
+title: Gran chaco
+type: location
 ---
 
 The Paraguayan Chaco covers the entire western half of the country, separated from the more populated east by the Río Paraguay. It's a vast, flat expanse of dry thorn forest, savannah, and seasonally flooded grassland — one of the largest wilderness areas in South America and among the continent's most biodiverse ecosystems. Jaguars, giant anteaters, tapirs, maned wolves, peccaries, and hundreds of bird species inhabit its forests and wetlands.

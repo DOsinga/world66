@@ -1,35 +1,6 @@
 ---
-title: "Things to do in Redding"
+title: "Things to Do"
 type: section
-type: "general"
 ---
 
-### [Carter House Natural Science Museum](/northamerica/unitedstates/california/shastacascade/redding/thingstodo/carterhousenaturalsciencemuseum)
-
-P.O. Box 990185 96099-1085 530/243-8850
-
-type: general
-
-
-
-### [Paul Bunyan's Forest Camp](/northamerica/unitedstates/california/shastacascade/redding/thingstodo/paulbunyansforestcamp)
-
-836 Auditorium Dr. 96001 530/243-8850
-
-type: general
-
-
-
-### [Turtle Bay Museums & Arboretum](/northamerica/unitedstates/california/shastacascade/redding/thingstodo/turtlebaymuseumsarboretum)
-
-800 Auditorium Dr. 96001 530/243-8850
-
-type: general
-
-
-
-### [Waterworks Park](/northamerica/unitedstates/california/shastacascade/redding/thingstodo/waterworkspark)
-
-151 N. Boulder Dr. 96003 530/246-9550
-
-type: general
+Most visitors use Redding as a base for the surrounding wilderness, but the city itself has a few worthwhile stops. Turtle Bay Exploration Park, anchored by the Sundial Bridge, combines a natural history museum, botanical gardens and miles of riverside trails. The Carter House Natural Science Museum is small but good for families.

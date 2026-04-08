@@ -1,5 +1,9 @@
 ---
-title: "Tamberma"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 10.0833
+longitude: 1.1333
+title: Tamberma
 type: location
 ---
 

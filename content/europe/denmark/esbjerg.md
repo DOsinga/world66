@@ -1,17 +1,14 @@
 ---
-title: "Esbjerg"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 55.466489
 longitude: 8.452075
+title: Esbjerg
+type: location
 ---
 
-Esbjerg is situated on the West Coast of Jutland in the middle of Denmark's loveliest holiday area. It has about 83,000 inhabitants and is the fifth largest city in Denmark. Close to Esbjerg you will find vast expanses of beaches, nature experiences, amusement parks and medieval towns. In fact, Denmark's oldest town Ribe is situated only 30 km from Esbjerg. 
- 
- Esbjerg has become a natural centre for the south western part of Denmark, not least witin the field of education. The harbour is the cradle of the city and Esbjerg's gateway to the west. The harbour is also the base of the Danish offshore oil and gas industry. 
+Esbjerg sits on the west coast of Jutland, Denmark's fifth largest city with around 83,000 inhabitants. It is a working harbour town at heart — the harbour built the city, and today it serves as the base for Denmark's offshore oil and gas industry. But the surroundings are what make it worth a stop: vast sandy beaches stretch along the coast, and Denmark's oldest town, [Ribe](/europe/denmark/ribe), is just 30 kilometres south.
 
+The city has a lively cultural scene. Musikhuset Esbjerg, the performing arts centre designed by Jørn Utzon (of Sydney Opera House fame), hosts concerts and theatre year-round. Tobaksfabrikken, a converted tobacco factory, is one of Denmark's best venues for live music. The Fisheries and Maritime Museum on the outskirts is genuinely world-class, with a seal aquarium and exhibits on North Sea fishing culture.
 
- The social life in Esbjerg is very lively. There are plenty of restaurants, cafés, bars and discotheques. Esbjerg also has one of the country's most popular rhytmic venues - "Multihus Tobaksfabrikken". Here the latest musical trends are presented all year round. Besides, you can visit the musical centre "Musikhuset", which is Esbjerg's Performing Arts Centre, designed by the world-famous architect of the Sydney Opera House, JÃ¸rn Utzon. In a wide range of museums you can explore the history of the city and the region, and experince good art. On the outskirts of the city you will find the Fisheries and Maritime Museum, which is in an international class of its own.
-
-
- 
- In Esbjerg, there is also the possibility of going in for all kind of sports. In 1996 Denmark's largest swimming stadium and tropical swimscape opened in the centre of the city.
+There are plenty of restaurants, cafés, and bars concentrated in the city centre. The four massive white figures of "Man Meets the Sea" — each nine metres tall — stand on the seafront looking out over the water, and have become the city's most recognisable landmark.

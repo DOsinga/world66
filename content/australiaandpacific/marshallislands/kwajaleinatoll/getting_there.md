@@ -3,14 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-**all**
+Flights to the Marshall Islands route through Honolulu, with United Island Hopper service connecting to Majuro. Air Marshall Islands operates inter-island flights from Majuro to Kwajalein.
 
-Linda
-
-Aloha Airlines and Continental Micronesia have regularly scheduled flights from Honolulu. Air Marshall Islands has flights from Majuro. You must have written military orders from the U.S. Army to visit Kwajalein. Most visitors can be sponsored by a friend or relative residing on Kwajalein, which takes approximately one month for the paperwork. There are dive companies and hotels on Ebeye that you can stay at without these papers, but you will not be allowed to visit Kwajalein Island or many outer islands.
-
-zipcode: 97701
-
-email: sfencer@hotmail.com
-
-address: Bend, OR
+You must have written military orders from the US Army to visit Kwajalein Island itself. Civilian visitors can be sponsored by a friend or relative stationed on Kwajalein, which takes about a month of paperwork. Ebeye Island, however, is accessible without military clearance — there are dive companies and basic hotels there.

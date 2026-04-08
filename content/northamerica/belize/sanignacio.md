@@ -1,8 +1,10 @@
 ---
-title: "San Ignacio"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 17.1562
 longitude: -89.0706
+title: San Ignacio
+type: location
 ---
 
 San Ignacio (also called Cayo) is the main town in western Belize and the base for exploring the interior. It sits on the Macal River near the Guatemalan border, and the surrounding area packs in Maya ruins, jungle caves, waterfalls, and wildlife into a compact area.

@@ -1,8 +1,10 @@
 ---
-title: "Scalea"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.8144
 longitude: 15.7914
+title: Scalea
+type: location
 ---
 
 Scalea sits on the Tyrrhenian coast of northern Calabria, its old town clinging to the heights with the remains of ancient walls and a tower. Below, the Scalea Marina has developed in recent decades with hotels, villas, and long stretches of equipped beach.

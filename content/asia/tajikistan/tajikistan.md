@@ -1,15 +1,16 @@
 ---
-title: Tajikistan
-type: location
-latitude: 38.861034
-longitude: 71.276093
-image: tajikistan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Iskander-kul,_Tajikistan.JPG
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Rjruiziii&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Rjruiziii (page does not exist)">Rjruiziii</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: tajikistan.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Rjruiziii&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Rjruiziii (page does not exist)">Rjruiziii</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Iskander-kul,_Tajikistan.JPG
+latitude: 38.861034
+longitude: 71.276093
+title: Tajikistan
+type: location
 ---
 
 Tajikistan is the smallest of the Central Asian republics, and the most mountainous. Over 90 percent of the country is covered by mountains, most of it above 3,000 meters. The Pamirs — the so-called Roof of the World — dominate the east, sharing borders with China and Afghanistan. It is wild, spectacular, and unlike anywhere else in the region.

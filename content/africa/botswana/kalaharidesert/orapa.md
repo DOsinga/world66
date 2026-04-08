@@ -5,6 +5,6 @@ latitude: -21.336196
 longitude: 25.364964
 ---
 
-Orapa is the diamond capital of Botswana. Diamonds were discovered in Botswana just over thirty years ago. De Beer geologists discovered the first diamonds in 1967 in Orapa, only a year after Botswana’s Independence.
+Orapa is home to one of the world's largest open-pit diamond mines. De Beers geologists discovered diamonds here in 1967, just a year after Botswana's independence, and the mine was in production by 1971. The discovery transformed the country's fortunes: Botswana went from one of Africa's poorest nations to one of its most prosperous, and the pula became one of the continent's stronger currencies.
 
-The mine was developed rapidly and by 1971, the mine was completed and production had begun. It was due to the discovery of diamonds here that Botswana not only has the strongest African currency but is also one of the wealthiest and most stable countries in Africa. There are plans for the Orapa mine to double its production by the year 2000, and it is already one of largest single diamond mining projects to be undertaken anywhere in the world.
+The town itself is a closed company town — access requires a permit — and there is little for visitors beyond the mining history. It is best seen as a stop on a longer journey through the central Kalahari, a reminder of how dramatically diamonds reshaped this part of the world.

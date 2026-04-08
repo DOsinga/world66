@@ -5,10 +5,6 @@ latitude: 62.325743
 longitude: -6.943029
 ---
 
-Travel Guide
+In Faroese, gjogv means cleft, and it could not be more obvious how this village got its name. The gorge cuts deep into the basalt, and it is from stone steps at the bottom that boats set out for fishing and trips around the headland.
 
-In Faroese, gjogv means cleft and it couldn't be more obvious how this village got its name. The cleft is deep and it is from the bottom of the stone steps that the boats set off for fishing, trips and the like.
-
-From the side of the cleft farthest from the cliffs you can look across to puffins and other seabirds at a reasonably short distance.
-
-Gjogv is remarkably well endowed for a village in these parts, having a hostel/guesthouse as well as a snack bar.
+From the far side of the cleft you can look across to puffins and other seabirds at close range. Gjogv is well equipped for a village of its size, with a guesthouse and a snack bar — a welcome stop after the mountain road from Eiði.

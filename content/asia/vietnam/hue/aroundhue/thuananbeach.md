@@ -1,6 +1,10 @@
 ---
-title: "Thuan An beach"
+title: "Thuan An Beach"
 type: location
+latitude: 16.4583
+longitude: 107.6350
 ---
 
-Thuan An Beach  The beach is located near the Thuan An estuary, where the Huong River runs into Tam Giang lagoon and from there to the sea. The beach is only 15km from Hue city and is accessable by car. The road trip is both fast and pleasant with the river running along one side and views of houses, temples, pagodas and rice fields along the other.
+Thuan An Beach lies just 15 kilometres east of Hue, where the Huong River flows into the Tam Giang Lagoon and out to the South China Sea. The drive is pleasant — the road follows the river past temples, pagodas and rice fields.
+
+This is Hue's local beach, busy with Vietnamese families on weekends and largely empty during the week. The sand is wide, the water warm, and there are simple seafood restaurants along the shore. It is not a resort beach and all the better for it. Come for an afternoon, eat grilled fish, and watch the fishing boats heading out as the sun drops.

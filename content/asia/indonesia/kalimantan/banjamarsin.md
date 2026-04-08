@@ -1,10 +1,10 @@
 ---
 title: "Banjamarsin"
 type: location
+latitude: -3.3186
+longitude: 114.5944
 ---
 
-With its maze of waterways, Banjamarsin is a unique city and a great place to stay for a few days. It is also the best pleace to get accommodation, to find restaurants and the do some shopping before you head off for the unknown.
+Banjamarsin is a city built on water. Its maze of canals and rivers thread through the urban fabric, and life plays out on and around the water — in stilt houses, on wooden boats, and at the famous floating market that draws visitors from across the island. It is the most accessible introduction to Kalimantan and a comfortable base for onward exploration.
 
- The main attractions of the town are its canals and the floating market. It is also nice to take a boat trip to the river islands of Pulau Kaget and Pulau Kembang. At Jalan Pos you can rent speedboats.
-
- From Banjamarsin you can go to [Samarinda](/asia/indonesia/kalimantan/samarinda) which is the best starting place to visit the Dayak tribes.
+The highlight is the early-morning floating market, where vendors in dugout canoes sell fruit, vegetables, and cooked food on the river. You can rent a speedboat at Jalan Pos to get out on the water and also reach the river islands of Pulau Kaget and Pulau Kembang, both worth a visit. From Banjamarsin you can head east to [Samarinda](/asia/indonesia/kalimantan/samarinda), the best starting point for trips up the Mahakam River to Dayak villages.

@@ -1,16 +1,16 @@
 ---
-title: "Birmingham"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 52.4797
+longitude: -1.9027
+title: Birmingham
 type: location
-latitude: 52.479699
-longitude: -1.902691
 ---
 
-Birmingham is Britain's second largest city. It is situated in the heart of England, about halfway between [London](/europe/unitedkingdom/england/london) and [Liverpool](/europe/unitedkingdom/england/liverpool). It is a city of mixed cultures, beliefs and lifestyles and has recently become a fashionable place to set up a business or to hold a conference. But it still retains pride in being a city built on industry.
+Birmingham is Britain's second city and it has spent the last few decades proving it deserves the title. Built on industry -- this is where the Industrial Revolution found its workforce -- the city spent much of the twentieth century living down a reputation for concrete brutalism and spaghetti motorways. That era is over. The centre has been transformed, the canal network rivals Venice for total length, and the cultural scene punches well above its weight.
 
-Birmingham is a very lively city and has some interesting old buildings such as The Town Hall and the Council House. the City is full of theatres, restaurants, bars and pubs and there is always something going on. The cultural life is very rich with many good museums, e.g. the Birmingham Museum and the Ikon Gallery are worth a visit.
+The city is genuinely multicultural in a way that goes beyond lip service. The Balti Triangle, a short walk south of the centre, is where Birmingham's large Kashmiri community invented the balti -- a style of curry now famous across Britain. The Jewellery Quarter, just northwest of the centre, still produces forty percent of British jewellery and has a fascinating museum. Brindleyplace and the Gas Street Basin have turned the old canal junctions into a lively area of bars and restaurants.
 
-More recently, Birmingham has become known for the 'Spaghetti Junction' - an infamously complex motorway system on the city's periphery. It has also developed an excellent reputation for the arts, with the Barber Institute, the Rep Theatre and in particular, the City of Birmingham Symphony Orchestra, which flourished under the baton of premier conductor Simon Rattle. The modern Symphony Hall is famed for having the best acoustics in Europe. 
+Culturally, Birmingham punches hard. The City of Birmingham Symphony Orchestra, which rose to international fame under Simon Rattle, performs at Symphony Hall -- widely considered to have the best acoustics in Europe. The Barber Institute houses a small but superb art collection. The Ikon Gallery shows contemporary work in a converted Victorian school. The Birmingham Museum and Art Gallery, overlooking Victoria Square, has an outstanding Pre-Raphaelite collection.
 
-The entire city centre has undergone a facelift, with a renovated City Hall, Victoria Square and new pedestrian areas; the canals have once again become an important feature with the Gas Street Basin Development and Brindleyplace belying Birmingham's reputation for being a dull, industrial, urban sprawl. Gastronomically, Birmingham is famous for its baltis and for being the home of Cadbury's confectionery, where chocolate lovers can even visit the factory!
-
-The City of Birmingham is a great starting place to explore the many sights of the Heart of England.
+Birmingham sits right in the heart of England, roughly equidistant from [London](/europe/unitedkingdom/england/london) and [Liverpool](/europe/unitedkingdom/england/liverpool), making it a natural base for exploring the Midlands. Stratford-upon-Avon, Warwick Castle, and the Cotswolds are all within easy reach.

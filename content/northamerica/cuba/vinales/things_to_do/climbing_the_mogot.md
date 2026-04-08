@@ -1,12 +1,9 @@
 ---
-title: "Climbing the mogotes"
+title: "Climbing the Mogotes"
 type: poi
-type: "Climbing"
+category: "Sight"
+latitude: 22.6189
+longitude: -83.7069
 ---
 
-The steep, amost vertical sides of the mogotes are a real challenge for climbers. The rough surface makes it easier than it looks.
-
-**Contributors**
-December 27, 2004
-
-type: Climbing
+The near-vertical faces of the mogotes are a genuine rock-climbing challenge. The rough limestone surface gives better grip than it looks, and routes of varying difficulty have been established. Local guides can arrange equipment and lead climbs.

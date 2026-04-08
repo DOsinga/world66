@@ -1,9 +1,10 @@
 ---
-title: "Getting There in Vijayawada"
+title: "Getting There"
 type: section
 ---
 
-Vijayawada is easily reachable by train from Hyderabad, the state capital (7 hours) or bus (6 hs). Air Deccan (www.airdeccan.net) operates daily flights from Hyderabad and Chennai. Kingfisher also flies daily flights from Hyd'bad.
+Vijayawada is one of the major railway junctions in south India — if you are travelling between north and south India by train, there is a good chance you will pass through. Connections to Hyderabad take around 5–6 hours; Chennai is about 5–6 hours as well; Visakhapatnam is around 5 hours. Most express trains on the main Chennai–Kolkata and Chennai–Delhi corridors stop here.
 
-**Contributors**
-September 13, 2005
+Vijayawada Airport (VGA) connects to Hyderabad, Chennai, Bengaluru, and Delhi. The airport is about 20 km from the city centre.
+
+By road, Hyderabad is around 280 km to the northwest (roughly 5 hours by bus on the national highway). Frequent APSRTC buses run to Hyderabad, Chennai, and other Andhra Pradesh cities from the main bus stand.

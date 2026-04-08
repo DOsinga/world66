@@ -1,8 +1,10 @@
 ---
-title: "Los Roques"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 11.838289
 longitude: -66.639117
+title: Los Roques
+type: location
 ---
 
 Los Roques is a national park archipelago of about 300 islands, cays, and coral reefs in the Caribbean Sea, roughly 160km north of [Caracas](/southamerica/venezuela/caracas). It's one of the most beautiful marine environments in the Caribbean — turquoise water, white sand, healthy coral reefs, and almost no development beyond the small village of Gran Roque.

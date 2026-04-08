@@ -1,12 +1,16 @@
 ---
-title: "Ærø Southern Fyn"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 54.8731
+longitude: 10.3322
+title: Ærø
 type: location
 ---
 
-Travel Guide
+Ærø is a small island off the south coast of Funen, quietly doing things the rest of Denmark is still talking about. It runs almost entirely on renewable energy — wind turbines generate most of the island's electricity, and solar collectors feed hot water directly into the district heating system of centuries-old towns, cobblestones and all.
 
-Southern Denmark provides many tourist and living attractions many are not aware of. The island of Ærø, for example, blends the old with the new in very special ways. Examples are the islands now historic, longstanding commitment to alternative energy has sprouted solar power plants that provide much of the islands hot water delivered as a source of heat in the old towns, despite their cobblestones! Similarly, the island is generating much of its electric power by windmills which the islanders hope to expand sufficient to provide 100% electric power over the long haul. And, though small, the island has secured funding to develop a biodiesel plant that will use farm waste to create non-smelling compost for farms as well as fuel for automobiles. Along these lines, the island has terrific capacity for high speed internet - making it ideal for telecommuters (like the author's family).
+The main draw is [Ærøskøbing](https://en.wikipedia.org/wiki/Ærøskøbing), one of the best-preserved small towns in Northern Europe. The streets are narrow, the timber-framed houses are intact, and many of them are available for weekly rental — you can live in a 300-year-old merchant's house rather than just photograph it. The town has a few small museums, including a ship-in-a-bottle collection that sounds odd and turns out to be genuinely absorbing.
 
-But this island is known to most people for its historic seaside villages one of which, Ærøskøbing, has achieved international recognition for its ability to retain the old world charm of the original village contructed centuries ago. Some people travel to living outdoor museums to see old buildings that have been reconstructed on site. Here, you can rent these old homes for weeks at a time (if you book early) and stay in them yourselves. Aside from the historic small museums making tile collections, ship in a bottle collections, and sailing museums, there are lots of places to camp, go kayaking, horseback riding, eat dinner out and shop and bike routes abound!
+Beyond Ærøskøbing, the island is good for cycling, kayaking, and horseback riding. There are campsites along the coast. The pace is slow and the distances are short — the island is about 30 km long and easily covered by bike in a day.
 
-For more information on the Internet, since the letters for this island are largely Danish letters not found in most search engines outside DK, try searching for aeroe in Denmark - you can also go to the more commercial site of www.aeroeportalen.dk where you can learn more about local accomodations and business or commercial facilities and opportunities.
+Getting there means a ferry from Svendborg on Funen (about 75 minutes to Ærøskøbing) or from Faaborg. The island is popular in summer; book accommodation well ahead if you want to rent one of the old houses.

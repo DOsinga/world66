@@ -5,6 +5,4 @@ latitude: 43.503127
 longitude: 2.014004
 ---
 
-This is an area near Castres where the lack of height of the hills is compensated by the weird shapes that the huge boulders of granite have acquired over geological aeons.
-
-Some excellent photos can be seen on http://www.toulousevisit.com/en/main/fenetres/region/fen_castres_sidobre.htm
+Le Sidobre is a granite plateau near Castres where enormous boulders have been sculpted into extraordinary shapes over geological time. The hills are not high, but the weird rock formations — some balanced impossibly on points, others stacked in towers — make it feel like a landscape from another world. Several marked trails wind through the woods past the most spectacular formations.

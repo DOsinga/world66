@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Nanortalik"
+title: "Getting There"
 type: section
 ---
 
-The home rule government has decided to cancel permanently the ferry connection from Qaqortoq. Therefore, the only remaining public transport to and from Nanortalik is Air Greenland’s regular helicopter service from Narsarsuaq through Narsaq and Qaqortoq. Unlike the old ferry, the helicopter travel is expensive, which forces a large part of the people of Nanortalik to stay in town and travel nowhere. It has also caused a drop in the number of tourists visiting Nanortalik.
-
-**Contributors**
-January 14, 2011
+The only public transport to Nanortalik is Air Greenland's helicopter service, which connects through Narsaq and Qaqortoq from Narsarsuaq. The ferry connection from Qaqortoq was permanently cancelled, leaving the helicopter as the sole option. It is expensive, which has reduced both local travel and tourist numbers.

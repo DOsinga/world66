@@ -1,8 +1,10 @@
 ---
-title: "Pyongyang"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.0194
 longitude: 125.7381
+title: Pyongyang
+type: location
 ---
 
 Pyongyang is unlike any other capital city. It was rebuilt from near-total destruction after the Korean War and designed as an advertisement for the socialist state — wide boulevards, monumental plazas, heroic statuary, and apartment blocks in pastel colours arranged along the Taedong River. It works, visually. On a clear day, with the city laid out below you from atop Juche Tower, it is genuinely beautiful in a deeply strange way.

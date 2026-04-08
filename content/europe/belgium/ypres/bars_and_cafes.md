@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes in Ypres"
+title: "Bars and Cafes"
 type: section
 ---
 
-**restaurants & the menin gate**
+The Grote Markt and the streets around it have a good selection of cafes and restaurants. In Flanders, a terrace seat with a Belgian beer is practically obligatory — Ypres has no shortage of options for that. Several restaurants near the Menin Gate cater to the steady stream of visitors attending the Last Post ceremony.

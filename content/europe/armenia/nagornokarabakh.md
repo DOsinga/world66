@@ -1,8 +1,10 @@
 ---
-title: "Nagorno-Karabakh"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.204724
 longitude: 44.512744
+title: Nagorno-Karabakh
+type: location
 ---
 
 Nagorno-Karabakh — known to Armenians as Artsakh — is a mountainous region that was the subject of conflict between Armenia and Azerbaijan for over three decades. After a ceasefire in 1994 ended the first war, ethnic Armenians controlled the territory and maintained a self-declared republic for nearly thirty years.

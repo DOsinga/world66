@@ -3,14 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Osaka Japan to Cheju island
-
-**all**
-
-**By boat**
-
-The trip from Cheju to Busan takes approx. 12 hours.  
-
-**By air**
-
-You can travel to Cheju by air.From Tokyo to the island (via [Pusan](/asia/southkorea/pusan), the travel time is approx. 4. From [Osaka](/asia/japan/honshu/osaka) it take approx. 2 hours. From Hukuoka yo [more..](/asia/southkorea/chejuisland/gettingthere/byair)
+Jeju International Airport has frequent flights from Seoul (about an hour), Busan, and other Korean cities — it is one of the busiest air routes in the world. Ferries run from Busan (about 12 hours overnight), Mokpo, and Wando. There are also international flights from several Japanese cities including Osaka and Tokyo.

@@ -1,8 +1,10 @@
 ---
-title: "Ravello"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.649664
 longitude: 14.612275
+title: Ravello
+type: location
 ---
 
 *Europe > Italy > Campania > Ravello*

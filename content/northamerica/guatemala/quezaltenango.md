@@ -1,8 +1,10 @@
 ---
-title: "Quetzaltenango (Xela)"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.8333
 longitude: -91.5167
+title: Quetzaltenango (Xela)
+type: location
 ---
 
 Quetzaltenango — universally called Xela (SHEH-la), from its original K'iche' name Xelajú — is Guatemala's second city and, for many travelers, a more authentic and rewarding base than Antigua. Sitting at 2,333 metres in the western highlands, it is the cultural and commercial capital of K'iche' Maya Guatemala.

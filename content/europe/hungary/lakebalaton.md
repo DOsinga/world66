@@ -1,18 +1,16 @@
 ---
-title: "Lake balaton"
+title: "Lake Balaton"
 type: location
-latitude: 46.883931
-longitude: 17.84768
+latitude: 46.8839
+longitude: 17.8477
 ---
 
-**BALATON**
+Lake Balaton is Hungary's inland sea and its most beloved summer playground. Stretching 80 kilometres from east to west and up to 15 kilometres wide, it is the largest lake in Central Europe — warm, shallow, and impossibly popular from June through August. Hungarians have built their own version of a Mediterranean culture along these shores, and they do it with considerable conviction.
 
+The lake divides into two very different worlds. The south shore is flat, brash, and packed with 1970s-era resort hotels. Teenagers, students, and package tourists fill its long beaches and its discos. Siófok is the capital of this scene — hedonistic, loud, and entirely unapologetic about it. Ten minutes inland, the south shore gives way to silent farm country, as if the whole resort strip were painted onto an otherwise agricultural plain.
 
+The north shore is quieter, hillier, and more rewarding for longer stays. Balatonfüred, the historic spa town, was once a haunt of Hungarian nobility and remains dignified. Beyond it, the [Tihany Peninsula](/europe/hungary/lakebalaton/tihany) pushes 12 square kilometres into the lake, its Benedictine abbey visible from miles around. Further west, the hills slope down to the water through vineyards — the Balaton wine region produces an honest, unpretentious white worth stopping for. The city of [Keszthely](/europe/hungary/lakebalaton/keszthely) anchors the western end, with its grand Festetics Palace and the Hévíz thermal lake a short distance away.
 
-Lake Balaton may not be the Mediterranean, but don't tell that to Hungarians. Somehow over the years they have managed to create their own Central European version of a Mediterranean culture along the shores of their long, shallow, milky-white lake. Throughout the long summer, swimmers, windsurfers, sailboats, kayaks, and cruisers fill the warm and silky smooth lake, Europe's largest at 50 miles (80 km) long and 10 miles (15km) wide at its broadest stretch. Around the lake's 315 miles (197km) of shoreline, vacationers cast their reels for pike; play tennis, soccer, and volleyball; ride horses; and hike in the hills.
+The lake has been a resort since Roman times. Under Communism, trade unions built holiday houses along the shore for workers who might not otherwise have reached a beach. Many of those blocky concrete hotels still stand, now privatised and refurbished to varying degrees. History here is visible in the infrastructure as much as in the monuments.
 
-First settled in the Iron Age, the Balaton region has been a recreation spot since at least Roman times. From the 18th century onward, the upper classes erected spas and villas along the shoreline. Not until the post-World War II Communist era did the lake open up to a wider tourist base. Many large hotels along the lake are former trade union resorts built under the previous regime.
-
-Lake Balaton, it seems, has something for everyone. Teenagers, students, and young travelers tend to congregate in the hedonistic towns of the south shore. Here, huge 1970s-style beachside hotels are filled to capacity all summer long, and disco music pulsates into the early morning hours. The south-shore towns are as flat as Pest; walk 10 minutes from the lake and you're deep in farm country. The air here is still and quiet; in summer, the sun hangs heavily in the sky.
-
-Older travelers and families tend to spend more time on the hillier, more graceful north shore. There, little villages are neatly tucked away in the rolling countryside, where the grapes of the popular Balaton wines ripen in the strong southern sun. However, if you're coming from Budapest, the northern shore of the lake at first appears every bit as built up and crowded as the southern shore. Beyond Balatonfüred, this impression begins to fade. You'll discover the Tihany Peninsula, a protected area whose 12 square kilometers (4 3/4 square miles) jut out into the lake like a knob. Moving westward along the coast, passing from one lakeside settlement to the next, you can make forays inland into the rolling hills of the Balaton wine country. Stop for a swim--or the night--in a small town like Szigliget. The city of Keszthely, sitting at the lake's western edge, marks the end of its northern shore. All towns on the lake are within 1 1/2 to 4 hours from Budapest by a *gyors* (fast) train, but the trip takes much longer on a *sebes* (local) train.
+All towns on the lake are reachable from Budapest in one and a half to four hours by fast train (*gyors*), though the slow local (*sebes*) takes considerably longer. The north shore is served by frequent trains; the south shore is easier by car.

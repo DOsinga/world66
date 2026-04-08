@@ -1,14 +1,14 @@
 ---
-title: "Mons"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 50.455
+longitude: 3.952
+title: Mons
 type: location
-latitude: 50.454957
-longitude: 3.951958
 ---
 
-On the slopes of a small hill lies the city of Mons, the capital of the Belgian province of Hainaut. The city is sometimes overlooked by tourists, but without reason. Mons offers all the splendors and historical richness that so typifies most of the cities in Belgium. Mons is certainly worth a visit during the frequent processions that take place here during the year. For the British Mons became the scene of their first battles in the war as well as the last. In modern times SHAPE (Supreme Headquarters of Allied Powers in Europe) has been located not far from the town at Maisieres.
+Mons (Bergen in Flemish) is the capital of Hainaut, the French-speaking province in Belgium's southwest. It sits on a small hill about 50 kilometres from [Brussels](/europe/belgium/brussels), and is one of those Belgian cities that tourists often skip in favour of [Bruges](/europe/belgium/bruges) or [Ghent](/europe/belgium/ghent) — unfairly, because Mons has a beautiful old centre, a rich history, and a cultural scene that earned it the title of European Capital of Culture in 2015.
 
-Located near the French border, at the junction of the Canal du Centre and the Condé-Mons Canal, it is the processing and shipping center of the Borinage district, and the closing of most of the coal mines has caused economic hardship
+The city grew up around a 7th-century monastery founded by Saint Waudru, and the Collegiate Church of Sainte-Waudru remains the chief attraction. Its gilded carriage, the Car d'Or, is paraded through the streets every year on Trinity Sunday in a procession that dates back centuries — legend says the city will suffer bad luck if the horses fail to pull the carriage up the hill in a single go. The Grand-Place is dominated by the 15th-century belfry, a UNESCO World Heritage Site and the only baroque belfry in Belgium.
 
-Mons was established at the top of a hill, around a 7th century monastery founded by St. Waudru. Mons has expanded over the centuries, outgrowing its fortified walls more than once, and engulfing surrounding communities. The central core of the town is not large, and runs in a number of rings. There is a concerted effort to keep vehicles out of the narrow streets, and parking regulations are strictly enforced.
-
-The Cathedral dedicated to St. Waudrau is now Mons' chief tourist attraction. Mons is located 50 kilometers southwest of Brussels. It has a population of 91,000. The Canal du Centre, the E42, and the E19 all pass through it. Unlike some of the other towns in Belgium where the Flemish and French names for the towns are the same, the Flemish name for Mons is Bergen (though both mean "mountains").
+For the British, Mons is most associated with the First World War. It was the site of the first and last major battles fought by the British Expeditionary Force, and the surrounding countryside is dotted with memorials and cemeteries. The Mons Memorial Museum covers the city's wartime history well. The central core is compact, pedestrianised, and easily walkable — a good half-day stop between Brussels and the French border.

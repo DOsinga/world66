@@ -1,14 +1,14 @@
 ---
-title: Itapema
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: -27.0947
 longitude: -48.6138
-done:
-  location_cleanup: 2026-04-08
+title: Itapema
+type: location
 ---
 
-Itapema is a beach town on the Santa Catarina coast of southern Brazil, about 60 km north of [Florianópolis](/southamerica/brazil/florianopolis). In summer the population swells from around 60,000 to over 100,000 as Brazilians from the southern states come for the beaches, calm waters, and beach volleyball.
+Itapema is a beach town on the coast of Santa Catarina, about 60 km from Florianópolis. It sits on one of the prettiest stretches of the catarinense coast, and in summer its population swells from around 25,000 permanent residents to over 100,000 as Brazilians from the south flock to its beaches.
 
-The most popular beach is Meia Praia ("Half Beach"), a long arc of sand with good infrastructure — bars, restaurants, and shops along the main avenue behind it. The Praia do Cabeço has the best surf. Canto de Praia, at the southern end, is a fishing redoubt where you can watch nets being hauled in at Colony Z-19. The Costão de Itapema, a rocky headland, offers good snorkelling and views along the coast.
+**Meia Praia** (Half Beach) is the largest and most developed, with a full strip of bars, restaurants, and shops along the seafront. For surf, head to **Praia do Cabeço**, which gets the best waves. **Praia do Costão** is considered one of the most beautiful beaches in town, and **Praia do Ilhota** is still relatively wild, with open sea and strong waves.
 
-The town's Azorean colonial heritage shows in some of the older buildings — thick stone walls, high ceilings, and wooden doors are the hallmarks. For most visitors, though, Itapema is a straightforward beach holiday: sand, seafood, and warm water from December through March.
+The town sits in a bay backed by spurs of the Serra do Mar. Beyond the beaches, there are ecological trails through native Atlantic Forest vegetation, river adventures, and a viewpoint from the Morro da Guarita overlooking the whole coast. The settlement traces back to Azorean colonists, and their influence lingers in the architecture and in the fishing tradition — at the **Colônia de Pesca Z-19** in Canto da Praia, you can still watch fishermen hauling in their nets.

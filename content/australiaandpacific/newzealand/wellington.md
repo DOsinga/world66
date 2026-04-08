@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Wellington
 type: location
 latitude: -41.2888
@@ -14,3 +15,20 @@ Te Papa Tongarewa, the national museum of New Zealand, is one of the finest muse
 The city is home to Weta Workshop (the special effects house behind the Lord of the Rings films), and the suburb of Miramar hosts the film industry cluster that earned Wellington the nickname "Wellywood." The [Kapiti Coast](/australiaandpacific/newzealand/kapiti_coast), 45 minutes north, has good beaches and Kapiti Island, a renowned bird sanctuary.
 
 Wellington Airport has regular connections throughout New Zealand and international flights to Australia and beyond.
+=======
+done:
+  location_cleanup: '2026-04-07'
+latitude: -41.2888
+longitude: 174.7772
+title: Wellington
+type: location
+---
+
+Wellington is New Zealand's capital and its most compact major city, set on the shores of a deep harbour and surrounded by a natural amphitheatre of wooded hills. It is famously windy, culturally rich, and home to what may be the highest concentration of cafes and restaurants per capita in the world — earning it the tag "café capital of New Zealand."
+
+The city punches well above its weight in the arts. The **Royal New Zealand Ballet**, the **New Zealand Symphony Orchestra**, and four professional theatres keep the entertainment district lively every night of the week. **Te Papa Tongarewa**, the national museum on the waterfront, is one of the best museums in the southern hemisphere — interactive, ambitious, and free to enter.
+
+Wellington is also where New Zealand's film industry is based. **Weta Workshop**, Peter Jackson's effects studio, offers tours in the suburb of Miramar. The inner city is easily walkable, and the famous **Wellington Cable Car** hauls visitors from Lambton Quay up to the Botanic Gardens in Kelburn.
+
+Just 45 minutes by car or rail, the **Kapiti Coast** offers beaches, bush walks, and access to **Kapiti Island**, a predator-free bird sanctuary.
+>>>>>>> 7546fb0d3 (Clean up Wellington, New Zealand)

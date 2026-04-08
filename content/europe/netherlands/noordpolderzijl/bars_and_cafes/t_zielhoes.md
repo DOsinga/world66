@@ -1,24 +1,10 @@
 ---
 title: "'t Zielhoes"
 type: poi
-address: "Zijlweg 4"
+address: "Zijlweg 4, 9988 TD Usquert"
 phone: "+31595423058"
-zipcode: "9988 TD Usquert"
-latitude: 52.388198
-longitude: 4.607614
+latitude: 53.4322
+longitude: 6.5823
 ---
 
-or Sluice House is very well known by locals and regional people. This authentic, old-fashioned, "living room style" cafe is open almost every day in all seasons. It's also a regionally famous stage for various music groups: Folk, Country, Celtic, Groninger and more.. Friendly staff
-
-**Contributors**
-March 07, 2005
-
-
-
-
-
-zipcode: 9988 TD Usquert
-
-tel: +31595423058
-
-address: Zijlweg 4
+The Sluice House is the one and only building in Noordpolderzijl, and it is well known to locals throughout Groningen. This authentic, old-fashioned cafe operates in a living-room style — there is nothing polished about it, which is entirely the point. It is open almost every day across all seasons, and serves as a regional stage for folk, country, Celtic, and Groninger music groups. Friendly and unhurried.

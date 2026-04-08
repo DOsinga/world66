@@ -1,12 +1,10 @@
 ---
-title: "Fabulous rivers"
+title: "Rivers of the Doubs"
 type: location
+latitude: 47.0667
+longitude: 6.3500
 ---
 
-The Département of Doubs is home to some of the best river scenery in all France. The Loue is described separately but the Doubs, itself, the Lison, the Hérisson and the Dessoubre all present outstanding valley views. The falls of the Hérisson should definitely be on your mustvisit list but you may prefer not to arrange this for a weekend - masses of french people and their children will be there to appreciate it and it's noisy - like NOISY!
+The Département of Doubs is home to some of the finest river scenery in France. The [Loue valley](/europe/france/east/franchecomte/loue_valley) is described separately, but the Doubs itself, the Lison, the Hérisson and the Dessoubre all cut outstanding gorges through the Jura limestone.
 
-The sources of the Lison and the Dobs are other special places. The Dessoubre is more unsung but tis source at the Cirque de Cosolation should on no account be missed.
-
-http://www.interfrance.com/en/fc/na_rivers.html
-
-www.interfrance.com/en/fc/na_wf.html
+The falls of the Hérisson are a must-see, though better on a weekday — on summer weekends they attract large crowds and lose some of their quiet magic. The sources of the Lison and the Doubs are remarkable places where powerful rivers emerge from cliff faces. The Dessoubre is the least famous of the four but its source at the Cirque de Consolation — a natural amphitheatre ringed by rock and forest — should not be missed.

@@ -1,10 +1,16 @@
 ---
-title: "Jujuy"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -24.1858
+longitude: -65.2995
+title: Jujuy
 type: location
-latitude: -23.154622
-longitude: -66.111091
 ---
 
-If you´re travelling north from Buenos Aires, this might be the first time you really feel like you`re in South America. Jujuy still is an Argentine city, with western-style cafés and shops. But it has a large Quechua population, which gives this town a very intercultural feel. Accept for during the siesta, which is taken dead serious here, there is always a pleasant chaos in town. Do bring your earplugs if you intend to sleep at night. Around the bus terminal lodging is redicously cheap, but it´s always noisy there. A good night´s sleep is essential to apreciate the feel of this town.
+San Salvador de Jujuy — known simply as Jujuy — is the capital of Argentina's northernmost province, a city of roughly 300,000 that straddles the junction of two Andean rivers. You feel the change from the rest of Argentina the moment you arrive: the Quechua heritage is unmistakable in the faces on the street, the music drifting from shops, and the chewing of coca leaves by vendors in the market. This is genuinely intercultural Argentina, where Andean tradition and colonial history sit side by side on the same plaza.
 
-This can be a good base for exploring the magnificent Andes by rented car, north to the Quebrada de Humahuaca or west to the Salinas Grandes and back through the valley where the superexpensive ´Tren a las Nubes` passes. Also don´t miss the road between Salta and Jujuy which is not used by the busses. Most of the road goes through spectacular forested mountains.
+The city itself is pleasant enough — tree-lined streets, a colonial cabildo, cheap and cheerful restaurants around the bus terminal — but it is really the surrounding province that draws travelers. The [Quebrada de Humahuaca](/southamerica/argentina/jujuy/quebrada_de_humahuaca), a narrow canyon running north from just outside the city, is the headline act: a UNESCO World Heritage Site with rainbow-striped rock walls, pre-Inca ruins, and villages of whitewashed adobe unchanged in their essentials for centuries. Further west, the road climbs through sparse, alien puna landscape to the Salinas Grandes, an enormous salt flat that shimmers white under the high Andean sun.
+
+One practical note: siesta is taken seriously here, and the town goes genuinely quiet for two to three hours in the afternoon. Plan accordingly. Around the bus terminal you'll find very cheap accommodation — useful but noisy — so if sleep matters, look for something a little further in.
+
+Jujuy makes a good base for the surrounding region, though many travelers also use [Salta](/southamerica/argentina/salta) to the south. The road between the two cities — not the main highway, but the scenic route through forested mountain slopes — is worth doing at least once and is rarely taken by buses.

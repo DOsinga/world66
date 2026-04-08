@@ -1,12 +1,14 @@
 ---
-title: "Cripple Creek"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.746656
 longitude: -105.178315
+title: Cripple Creek
+type: location
 ---
 
-Travel Guide
+Cripple Creek is a former gold mining town at 9,494 feet in the Colorado Rockies, about an hour's scenic drive west from [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). The drive takes you around the back of Pikes Peak and up near the tree line — bring layers, because snow and sunshine can happen on the same summer day.
 
-Cripple Creek is a little mining town tucked high in the Rockies. Built on gold and rare turquioise mines (turquoise run through with gold veins), today's Cripple Creek is a gambler's paradise. The high street could have come straight from an old silver photo, lined with beautiful brick buildings and colorful awnings. Though nearly every storefront is now a casino, a few local gems remain.
-The general store is filled with local treasures and friendly faces, as well as unusal candies, fudge, and homade ice cream. Cripple Creek Coffee is a great place to start your morning (with free wifi courtesy of Leanna) and sits just across the street from the historic Butte Opera House. This renovated theatre is perched above the local firehouse and offers a range of classic melodrama, vaudeville, musical reviews and modern musicals year round. The Mollie Kathleen gold mine and Narrow Gauge Railroad offer adventure for history buffs, as well as the Mt. Pisgah cemetery and nightly ghost tours.
-With an elevation of 9,494 feet, Cripple Creek is an hour's scenic drive west from [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings) which takes you north around Pikes Peak and up close to the tree line. Make sure to plan for all weather, as both tank tops and snow are common through the summer.
+The town boomed in the 1890s gold rush and the handsome brick main street dates from that era. Today nearly every storefront is a casino — Colorado legalised limited-stakes gambling here in 1991 — but enough of the old character survives to make it worth a visit beyond the slot machines. The Butte Opera House, perched above the firehouse, stages melodramas and musicals year-round. The Mollie Kathleen Gold Mine offers underground tours of a real thousand-foot mine shaft, and the Cripple Creek & Victor Narrow Gauge Railroad runs a scenic loop through the old mining district.
+
+The Mt. Pisgah cemetery above town has panoramic views and some colourful headstones from the mining days. Ghost tours run on summer evenings.

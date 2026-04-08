@@ -1,24 +1,12 @@
 ---
 title: "Dilijan"
 type: location
-latitude: 40.741713
-longitude: 44.872221
+latitude: 40.7417
+longitude: 44.8722
 ---
 
-Travel Guide
+Dilijan sits in a forest bowl in the hills of Tavush Marz, a small town that has served as a retreat for artists, composers, and cinematographers since Soviet times. The Cinematographers House — a grand sanatorium-style building where the most celebrated directors of the Soviet era came to think and work — is still standing. The town itself has a restored nineteenth-century quarter of wooden houses, where artisans sell handicrafts and musical instruments from their ground-floor workshops.
 
-Nestled in the heart of the forests of northern Armenia, Dilijan is
-the epitome of quaint. Home to many famous composers, artists and
-cinematographers, this reclusive town of 23,000 boasts a historic
-refurbished city center with rows of houses with typical early
-twentieth century interiors and others displaying handicrafts or
-musical instruments. This popular vacation destination is like a piece
-of Switzerland sequestered within the Armenian highlands.
+Armenians love Dilijan. It is their go-to weekend escape, prized for clean air, green hills, and a pace of life that is a world away from Yerevan. In summer the guesthouses fill up with families; in autumn the forests turn gold.
 
-Several places you should see if you are in
-Dilijan. Proceed north towards Ijevan, there is a road that reads
-Hagartsin. This is a beautiful drive to a church complex,
-composed of three standing churches, one completely ruined one and an
-old dining room that was for the Armenian kings. Behind one
-of the churches are the graves of Bagratuni dynasty family
-members. Going
+The two monasteries near Dilijan are among the finest in Armenia. Haghartsin, a few kilometers north along a beautiful forest road, is a complex of three churches with a royal dining hall and the grave markers of the Bagratuni dynasty. Goshavank, a little further, was founded by the twelfth-century scholar Mkhitar Gosh and includes a celebrated khachkar (cross-stone) collection. Most visitors to Dilijan see both in a single half-day loop.

@@ -1,19 +1,8 @@
 ---
 title: "Getting There"
 type: section
-email: "HamsterPumpkin@AOL.com"
-type: "By Road"
-latitude: 39.841319
-longitude: -88.966486
 ---
 
-Carson City is a wonderful place to visit. But how do you get there?
+Carson City has no commercial airport of its own. The nearest is Reno-Tahoe International Airport, about 30 miles north on US-395. From there it is a straightforward half-hour drive south.
 
-**Contributors**
-June 13, 2005
-
-### [The Car
-
-If you're coming from southern California](/northamerica/unitedstates/nevada/carsoncity/getting_there/the_car), be ready to spend a day or two if going by car. You'll have to battle the humongous Sierra Nevada mountains and the tiring trip. But once you're there, you won't mind
-
-type: By Road
+By car from southern California, expect a full day's drive over the Sierra Nevada via US-395 or Interstate 80 through Reno. From the San Francisco Bay Area, take I-80 east to Reno and then US-395 south — roughly four and a half hours in good weather. Winter conditions on the mountain passes can add time and require chains.

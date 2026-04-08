@@ -1,18 +1,16 @@
 ---
-title: "Sebha"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 26.995621
 longitude: 15.106542
+title: Sebha
+type: location
 ---
 
-Sebha is a good base to explore the Fezzan region and serves a stop on your way to [Chad](/africa/chad) and [Niger](/africa/niger). Going from [Ghadhames](/africa/libya/ghadhames) to [Sebha](/africa/libya/sebha) or vice versa you will cross the Fezzan region an the Akakous. 
+Sebha is the main town of the Fezzan, the vast desert region that makes up southwestern [Libya](/africa/libya). It serves as a base for exploring the Sahara and as a stopping point on the route between [Ghadhames](/africa/libya/ghadhames) and the south, towards [Chad](/africa/chad) and [Niger](/africa/niger).
 
-In Sebha town, you will be able to arrange some formalities here. The town has little to offer the tourist except accommodation.
+The town itself has little to offer tourists beyond accommodation and supplies, but what lies within reach makes it worth the stop. With a 4WD you can get across to the Ramlat Dawada area, where 11 lakes sit in the very middle of the Sahara. The setting is striking — the sand is almost red, and the lakes are full of surprises. One changes colour between green, red and blue, probably due to algae. Another is as salty as the Dead Sea, yet fresh water springs up when you dig in the sand just metres away.
 
-
- Within reach of Sebha you (with a 4WD) can get across the Ramlat Dawada area, with 11 lakes. In the very middle of Sahara. The setting of the lakes is striking. The sand out here is almost red, and it's real sandy, too. There are many strange things to these lakes, they aren't only beautiful. One of them has the quality of actually changing its colour, between green, red and blue, probably due to algae. Another is salt as the Dead Sea, but just outside it, you get fresh water coming up when digging in the sand. People from this area has been despised by Libyans in general, as they eat worms from the lakes. It's not worms of course, but a kind of prawns.
-
-
- Sebha has a connection to Gaddafi — the school he attended as a young man is here, where he is said to have begun his political awakening. The school continues in ordinary use.
+Sebha has a connection to Gaddafi — the school he attended as a young man is here, where he is said to have begun his political awakening. The school continues in ordinary use.
 
 Eating in Sebha is more manageable than its remote location might suggest. There are enough restaurants to vary your options through a week's stay.

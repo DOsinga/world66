@@ -1,12 +1,16 @@
 ---
-title: "Beit Shean"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 32.4968
+longitude: 35.4973
+title: Beit Shean
 type: location
-latitude: 32.496752
-longitude: 35.497302
 ---
 
-This park is one of the largest and unique ancient sites in Israel. It includes the mound of the city which stood here as early as the 5th millennium BCE, and the Roman-Byzantine and Arab "lower city", with its impressive remains. 
+Beit Shean has been continuously inhabited for seven thousand years, which makes most ancient sites look like newcomers. The tel — the mound of accumulated cities — rises beside the Roman lower city, and together they form one of the most impressive archaeological sites in Israel.
 
-Biblical Bet She'an is mentioned in connection with King Saul's famous battle on Mount Gilboa. The Philistines, who controlled the region in the 10th century BCE and defeated the Israelites in that battle, displayed the bodies of Saul and his sons on its walls. Since the Hellenistic period the city was called Scythopolis or Nisa-scythopolis, after the nursemaid of Dionysus (the wine god) traditionally believed to have been buried here. In the Roman period, Scythopolis was one of the "Decapolis" (federation of 10 cities). Its institutions and the lifestyle of its citizens manifested the city's pagan nature. Under Byzantine rule the city became the capital of 'Palestina Secunda' and most of its citizens were Christian. 
+The location explains everything. Beit Shean sits at the junction of the Jordan Valley and the Jezreel Valley, controlling trade routes between Egypt and Mesopotamia. Every empire that passed through — Canaanites, Egyptians, Philistines, Macedonians, Romans, Byzantines, Arabs — left something behind. The Philistines, who defeated the Israelites at nearby Mount Gilboa, hung the bodies of King Saul and his sons on the city walls here. The Romans, recognizing the strategic value, made it one of the ten cities of the Decapolis. Under Byzantine rule it became the capital of Palestina Secunda. A catastrophic earthquake in 749 CE ended its run as a major city in a single night.
 
-Following the Arab conquest in the early 7th century, the town regained its original name. In 749 it was struck by a devastating earthquake, and was destroyed. The excavation work, exciting finds and the unique reconstruction efforts currently underway, are expected to make this park the finest tourist attraction in the country. The main findings unearthed include a large Roman theater, which was built in the 2nd century, ancient colonnaded streets paved with basalt stones, a huge bathhouse - spread over some 1.5 acres - the largest Byzantine bathhouse discovered in Israel, mosaic floors, the impressive remains of a Roman temple, a nympheum (water fountain), and a lot more.
+What you see today is largely Roman: a theatre that seated five thousand people, colonnaded streets paved in basalt, bathhouses spread over more than half a hectare, a nympheum, and a temple. The scale is striking. Stand in the theatre and it still works acoustically. Walk the cardo and you can imagine the market stalls on either side. The excavations have been going on for decades and are not finished — new finds turn up regularly.
+
+The site gets hot and exposed by mid-morning. Come early, bring water, and allow at least two hours. Beit Shean is an easy day trip from [Tiberias](/asia/israel/tiberias) or [Nazareth](/asia/israel/nazareth), roughly 30 km from either.

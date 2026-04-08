@@ -1,44 +1,20 @@
 ---
-title: "Salar de Uyuni"
+done:
+  location_cleanup: '2026-04-07'
+latitude: -20.2043
+longitude: -67.515
+title: Salar de Uyuni
 type: location
-latitude: -20.204264
-longitude: -67.514995
 ---
 
-Travel Guide
+The Salar de Uyuni is the world's largest salt flat, a blinding white expanse of over 10,000 square kilometres in southwest [Bolivia](/southamerica/bolivia), at 3,650 metres on the Altiplano near the crest of the Andes.
 
-**Salar de Uyuni** is the world’s largest salt flat. It is
-located in the Departmento of Potosí in southwest Bolivia, near the
-crest of the Andes, 3650 meters high.
+The word that comes up most is **surreal**. A dried hill covered in giant cacti — once a coral island in a prehistoric lake — rises from the flattest surface on earth. Beyond the salt, extinct volcanoes wear bands of colour from successive eruptions. Lakes turn red from bacteria, white from minerals, green from arsenic, all ringed by pink flamingos bracing against the wind at 4,000 metres. The landscapes south of the Salar look like something Salvador Dali dreamed up, and viscachas — rabbit-like creatures with long curling tails — dart through miniature canyons.
 
-It's been said before: the Salar de Uyuni is **surreal**. A dried hill
-with huge cacti, that once was a coral island in a high altitude sea,
-surrounded by the flattest place on earth, with around that extinct
-vulcanos with a different colour left by every next eruption. Lakes
-whech are coloured red by bacteria, white by minerals and green by
-arsenic, filled with pink flamingos resisting the wind at 4000 meters
-altitude. Landscapes which must have shown themselves in a dream to
-Salvador Dali. Strange bunnyrabbits with a long tail inhabiting
-miniature canyons.
+You can visit, and it is remarkably cheap. Practically speaking, you go with a tour: one day on the salt flat itself, then two to three more days through the mountains to the south. Prices in Uyuni start around US$60 per person, everything included. Around 60 agencies in town compete with essentially the same product — the tourist information office can help you choose. If you form your own group you can customise the route. For a small surcharge, the jeep can drop you at the Chilean border, from where a bus runs to [San Pedro de Atacama](/southamerica/chile/sanpedrodeatacamp).
 
-You can **visit **this area, and it's redicoulously cheap. Basicly, you
-have to go with a tour. You'll spend one day on the Salar and two to
-three more days in the mountains to the south of it. Prices start at
-US$ 60 pp., everything included. In Uyuni about 60 agencies compete
-with exactly the same product. Ask help in choosing in the tourist
-information office. If you can form your own group, you can organize the trip like you want to. For a small extra cost, you can leave the jeep at the Chilean frontier, from where a bus can be arranged to San pedro de Atacama.
+If you are coming from Argentina, consider taking the trip from [Tupiza](/southamerica/bolivia/tupiza) instead. It costs a bit more, but you spend a day and a half without seeing another tourist and skip the least interesting stretch of the Uyuni route. There is no need to book from La Paz — you will likely be approached by agencies the moment you step off the bus in Uyuni, at whatever hour of the night.
 
-If you're coming from Argentina, take the trip from [Tupiza](/southamerica/bolivia/tupiza). This is slightly more expensive, but you spend a day-and-a-half without seeing other tourists and avoid the least interesting part of the trip (as done from Uyuni).
-You don't have to buy the trip from La Paz. This costs a lot more for the same service. Don't worry about not finding a tour or having to form a group: you're most likely to get bugged by several agencies on arriving in Uyuni (at whatever time of night).
+The trip is better in summer (November to March), when temperatures are less brutal, though this is also the wet season and the Salar may be flooded. A thin layer of water turns the salt flat into a giant mirror reflecting the sky — an even more surreal experience, though some visitors insist on seeing the dry white expanse. Accommodation on the tour is basic regardless of which agency you choose, and hot showers are rare.
 
-**Practical. **It's better to do the trip in summer (November-March), as it can get extremely cold in winter. However, this is also the wet season, so the Salar might be inundated. This makes for an even more surreal experience, but some people insist on seeing the salt.
-Accomodation is basic (independent of the agency you chose), and hot showers rare.
-
-**Background info. **Some 40,000 years ago, the area was part of Lago Minchin, a giant lake. When the lake dried, it left behind two modern lakes,
-Lagos Poopó and Uru Uru, and two major salt deserts, Coipasa and the
-larger Uyuni. Uyuni is roughly 300 times the size of the better-known Bonneville Salt Flats in the United States.
-
-Salar de Uyuni is estimated to contain 10 billion tons of salt
-of which less than 25,000 tons is extracted annually. Every November,
-Salar de Uyuni is also the breeding grounds for three breeds of South
-American flamingos - Chilean, James and Andean. It is also a significant tourist destination
+The Salar formed around 40,000 years ago when the giant prehistoric Lago Minchin dried up, leaving behind two modern lakes and two vast salt deserts. Uyuni is the larger, roughly 300 times the size of the Bonneville Salt Flats in the United States. It contains an estimated 10 billion tonnes of salt, of which less than 25,000 tonnes is extracted each year. Every November, the Salar becomes a breeding ground for three species of South American flamingo: Chilean, James's, and Andean.

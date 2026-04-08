@@ -1,18 +1,14 @@
 ---
-title: "Murmansk"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 68.9707
+longitude: 33.075
+title: Murmansk
 type: location
-latitude: 68.970665
-longitude: 33.07497
 ---
 
-**Murmansk** known as Romanov-on-Murman at the date of its foundation September 21, 1916 is the centre of Murmansk region and the largest Russian seaport on the Arctic Ocean. The city was named after the Russian Royal Dinasty Romanovs *Romanov-on-Murman*. The name *Murmansk* the city got after the Revolution in 1917. Some consider that the word *Murman* is decsended from "Nurman" (Normann). Peoples of Scandinavia Russians called as "Murmans". 
+Murmansk is the largest city above the Arctic Circle, a major Russian seaport on the Barents Sea coast of the Kola Peninsula. Founded in 1916 as Romanov-on-Murman (renamed after the Revolution), the city owes its existence to the warm currents of the Gulf Stream, which keep the harbour ice-free year-round — an unusual feature at this latitude.
 
+The city's economy runs on fishing, shipping, and the Russian Northern Fleet. It is not a conventionally beautiful place — decades of Soviet industrial construction saw to that — but the setting is dramatic. The Kola Peninsula is covered with thousands of lakes and dense forests, and from Murmansk you can experience the polar day in summer (continuous sunlight from late May to mid-July) and the polar night in winter (continuous darkness from early December to mid-January).
 
-
-
-
-**Murmansk**'s development has started just in the beginning of this century. Before that, the Kola Peninsula was inhabited only by the Skolt Lapps and a few Russian settlers. The main sources of livlihood are fishing, shipping and the navy. This is a great sight to see largely because of the unique Arctic nature. The peninsula is covered by thousands of lakes and dense forests. Here you'll observe the polar day in summer and the polar night in winter. 
-
-**See also other cities:** 
-
-[Irkutsk](/europe/russia/irkutsk) [Kazan](/europe/russia/kazan) [Kizhi](/europe/russia/kizhi) [Moscow](/europe/russia/moscow) [Novgorod](/europe/russia/novgorod) [Novosibirsk](/europe/russia/novosibirsk) [Orel](/europe/russia/orel) [Pyatigorsk](/europe/russia/pyatigorsk) St_Petersburg [Suzdal](/europe/russia/suzdal) [Tula](/europe/russia/tula) [Ulyanovsk](/europe/russia/ulyanovsk) [Vladimir](/europe/russia/vladimir) [Vladivostok](/europe/russia/vladivostok) [Yakutsk](/europe/russia/yakutsk)
+The main landmark is the **Alyosha Monument**, a massive Soviet-era statue of a soldier overlooking the city and the Kola Bay. The **nuclear icebreaker Lenin**, the world's first nuclear-powered surface vessel, is moored in the harbour and open as a museum.

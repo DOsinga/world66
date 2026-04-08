@@ -3,11 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-****
+Kratie sits on the main route between Phnom Penh and the Laos border, and public buses are the obvious way to get here. The journey from Phnom Penh is long but genuinely interesting — plenty of food stops, local colour, and squat toilets along the way.
 
-**Bus:** Public bus - US$4.30 *from Phnomn Penh (main bus station near the central market)* - comfortable, air-conditioned, get the front seats for extra leg room. 7-8 hours with lots of stops, lots of opportunities to eat exotic and not so exotic foodstuffs, meet the locals, stops at places with proper squat toilets.
+**Bus from Phnom Penh:** Air-conditioned public bus from the main bus station near the central market — US$4.30. The ride takes 7–8 hours with many stops. Grab the front seats for extra legroom.
 
-Public Bus - US$4.80 to Stung Treng (last town before the Laos border) - as above, 3hrs
-
-**Contributors**
-September 03, 2005
+**Bus to Stung Treng:** Continuing north to the last town before the Laos border costs US$4.80 and takes around 3 hours.

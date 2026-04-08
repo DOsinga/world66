@@ -1,9 +1,8 @@
 ---
 title: "Labadie Beach"
 type: poi
-type: "general"
+latitude: 19.7841
+longitude: -72.2513
 ---
 
-About 9 mi/15 km west of town is Labadie Beach which has a beautifully landscaped water park restaurants and water-sports rentals.
-
-type: general
+About 15 kilometres west of town, Labadie has a beautifully landscaped waterpark, restaurants, and water-sports rentals. Much of the bay is leased to Royal Caribbean as a private cruise stop, but public access remains.

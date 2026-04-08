@@ -1,12 +1,16 @@
 ---
-title: "Les Beaux de Provence"
+title: "Les Baux-de-Provence"
 type: location
-latitude: 43.7445
+latitude: 43.7444
 longitude: 4.7952
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Les Beaux de Provence is built on a narrow rock plateau with steep cliffs on every side, which made it an impregnable stronghold in medieval times. Today the drama of the setting remains the main draw.
+Few villages in France announce themselves quite so dramatically as Les Baux-de-Provence. The entire settlement — ruined castle, medieval streets, and all — sits on a narrow limestone ridge rising abruptly from the olive groves of Les Alpilles, its cliffs dropping sheer on three sides. In the Middle Ages that made it one of the most powerful strongholds in the south. Today it makes it one of the most photogenic.
 
-The ruined castle sprawls across the upper plateau, with views in every direction over the olive groves and vineyards of Les Alpilles. The village below has reinvented itself as an artists' colony, with galleries and craft shops lining the steep stone lanes.
+The ruined Chateau des Baux sprawls across the upper third of the plateau — towers, keep, and reconstructed siege engines included. The views from the ramparts over the patchwork of vineyards and garrigue below are as good as anything in Provence. Below the castle, the village itself is worth an hour of unhurried wandering: galleries and craft shops tucked into stone buildings, steep lanes that dead-end at views, the whole place built from the same pale limestone it stands on.
 
-On the far side, the strange limestone formations of Les Alpilles stretch toward [Saint Remy de Provence](/europe/france/midi/provence/saint_remy_de_prov). The whole area is superb for walking and driving, with hilltop villages and quiet roads winding through some of the most beautiful landscape in Provence.
+The other major draw is the Carrières de Lumières, a converted bauxite quarry just outside the village that hosts large-scale immersive art projections. The scale is extraordinary — floor-to-ceiling images covering 7,000 square metres of raw rock face, with a new programme each year. It's the kind of thing that sounds gimmicky and turns out to be genuinely impressive.
+
+The village gets very crowded in summer, especially on weekends. Come on a weekday morning in spring or autumn and you'll have the place closer to yourself.

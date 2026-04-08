@@ -1,12 +1,9 @@
 ---
-title: "Horseback riding"
+title: "Horseback Riding"
 type: poi
-type: "Spa and Sauna"
+category: "Sight"
+latitude: 22.6189
+longitude: -83.7069
 ---
 
-There's a couple of places where you can rent horses to visit the valley. Just ask around.
-
-**Contributors**
-December 27, 2004
-
-type: Spa and Sauna
+Several places in the village rent horses for riding out into the valley. Ask at your casa particular for a reliable contact. A morning ride through the tobacco fields, with the mogotes rising on either side, is one of the better ways to take in the landscape.

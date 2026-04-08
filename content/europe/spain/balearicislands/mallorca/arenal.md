@@ -1,11 +1,14 @@
 ---
-title: "Arenal"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 39.5167
+longitude: 2.75
+title: S'Arenal
 type: location
-latitude: 43.381535
-longitude: -3.217232
 ---
 
-Travel Guide
+S'Arenal (also known as El Arenal) is a beach resort on the southern coast of [Mallorca](/europe/spain/balearicislands/mallorca), straddling the boundary between Palma and Llucmajor. It sits at the eastern end of the Platja de Palma, a long sandy beach stretching some four kilometres to the neighbouring resort of Ca'n Pastilla, lined by a flat promenade perfect for walking.
 
-Arenal on the island of Majorca is a truly beautiful place to be....there is a lovely sandy beach stretching some two and a half miles to the neighbouring resort of Ca'n Pastilla which has a nice flat promenade which is very suitable for walking and enjoying the wonderful views. El Arenal town itself is very vibrant with all sorts of shops and eating places to suit all tastes and pockets, and one is spoilt for choice as to where to stay as there are so many hotels located here ranging from budget style to five star establishments. Frequent bus services operate to the capital city of Palma, which again is a truly beautiful place and is well worth a day trip. The bus fare is very cheap, and a €1.10 single fare is charged, and although the buses are very frequent and run every ten minutes they are very busy and getting a seat can be a problem although it is only a twenty-five minute journey. There is also a limited bus service to Manacor, Porto Cristo and the Caves of Drach suitable for a day trip if like me you didn't have a car. Aqualand on the outskirts of Arenal promises to keep the kids(and adults!)amused for hours on end. Nightlife isn't bad at all - although there are great numbers of germans holidaymaking here, English bars can be found.
-Arenal is well worth a visit - and do remember that you are always guaranteed good weather here!
+The town itself is lively and unpretentious, packed with shops and restaurants to suit all budgets. A large German tourist community has shaped much of the nightlife scene, particularly along the infamous "Ballermann" strip, though English-speaking bars are easy to find as well. Aqualand, on the outskirts of town, is one of the island's biggest water parks.
+
+Frequent buses run to [Palma](/europe/spain/balearicislands/mallorca/palma) every ten minutes (about twenty-five minutes, around one euro), making it a convenient base for day trips to the capital. There is also a limited bus service to Manacor, Porto Cristo, and the Coves del Drac on the east coast.

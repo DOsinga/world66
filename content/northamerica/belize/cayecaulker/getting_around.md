@@ -3,8 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-The island has electric golf buggies that you can hire but everything on the island is within 5 mins walk.
-
-We currently have no Getting Around listed in Caye caulker.
-
-If you do know any Getting Around in Caye caulker, please [Add].
+Caye Caulker is tiny — everything on the island is within a five-minute walk. There are no cars. Electric golf buggies can be hired, but most people get around on foot or by bicycle.

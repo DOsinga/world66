@@ -1,18 +1,12 @@
 ---
-title: "Kisumu"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: -0.102911
 longitude: 34.754176
+title: Kisumu
+type: location
 ---
 
-Kisumu is Kenya's third largest city and is the center
- of western Kenya. It feels more like Mombasa than
- Nairobi, being hot and humid, where locals move about
- their business at a leisurely pace. Like any big
- city, there’s a wide range of accommodations suitable
- for any budget. There are several attractions in
- town, such as the huge market near the bus stage were
- you can get cheap soapstone carvings, and Hippo Point
- where you can watch the sun set on Lake Victoria. For
- more information on the lake and its sights, see the
- Lakes section.
+Kisumu is Kenya’s third largest city and the beating heart of the western region. It sits on the eastern shore of [Lake Victoria](/africa/kenya/westernkenya), the world’s largest tropical lake, and carries a character all its own — hot and humid, unhurried, more reminiscent of coastal Mombasa than highland Nairobi.
+
+The city centre is lively and walkable. The vast market near the bus stage is one of the best in western Kenya, where you can pick up soapstone carvings at prices far below what you’d pay in Nairobi. In the late afternoon, head to Hippo Point to watch the sun go down over the lake — the hippos are there if you look carefully, and the light on the water is hard to beat.

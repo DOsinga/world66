@@ -1,9 +1,8 @@
 ---
 title: "Rival Beach"
 type: poi
-type: "general"
+latitude: 19.7680
+longitude: -72.2150
 ---
 
-Has places to rent equipment for water sports.
-
-type: general
+A simple beach closer to town than Labadie, with equipment rental for water sports.

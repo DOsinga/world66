@@ -1,8 +1,10 @@
 ---
-title: "Valdes Peninsula"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -42.4752
 longitude: -64.1149
+title: Valdes Peninsula
+type: location
 ---
 
 Miles and miles of unspoiled beaches and some of the richest marine wildlife in South America -- that is what Valdes Peninsula offers. Since it is often too cold and windy to sunbathe, you are probably here to watch the animals, and on that front it delivers spectacularly.

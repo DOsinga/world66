@@ -1,11 +1,14 @@
 ---
-title: "Majuro"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 7.090992
 longitude: 171.381635
+title: Majuro
+type: location
 ---
 
-Majuro is a fairly large atoll. Three of Majuro's islands - Delap, Uliga and Darrit (Rita) - combine to form the the nation's capital, also known as D-U-D. It's the most modern place on all the islands but there are still a few sights worth seeing. 
- There is a museum, a copra processing plant and the shockingly modernistic capitol building to visit.
+Majuro is the capital atoll of the Marshall Islands, a long, narrow ring of coral islets enclosing a large lagoon in the central Pacific. Three of its islets — Delap, Uliga, and Darrit (known collectively as D-U-D) — form the urban centre, home to most of the country's population and its government buildings, shops, and services.
 
-On the west side of the island Laura is the place to head for - the best beached, the most authentic villages and the best diving are found here. From Laura to Delap on the west side is some 30 miles.
+The D-U-D strip feels surprisingly urban for a Pacific atoll: concrete buildings, busy roads, and a modernistic capitol building that looks out of place against the coconut palms. The Alele Museum downtown covers the traditional and colonial history of the Marshalls, with canoe displays, traditional tools, and photographs from the German, Japanese, and American eras.
+
+Head west along the atoll road to Laura, about 30 miles from Delap, for a different Majuro altogether. Laura has the best beaches, the most authentic village life, and good diving and snorkelling on the reef. The drive itself passes through quieter communities where traditional Marshallese life is more visible.

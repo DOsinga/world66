@@ -1,8 +1,8 @@
 ---
 title: "St Pons de Thomière"
 type: location
+latitude: 43.489
+longitude: 2.755
 ---
 
-Is there a plot to keep this area secret? Even the Michelin Guide Vert gives it no astriscs, while enthusing about the prettiness of its site. With a cathedral, an abbey and a fine old town plus a good market, what more do they want for at least one star.
-
-http://www.hauts-cantons.com/st-pons/english.htm
+St Pons de Thomière is the unofficial capital of the Haut-Languedoc park — a small town tucked into a valley with a cathedral, a Benedictine abbey, and a fine old centre. The Saturday market fills the square with local produce. Even the Michelin Guide Vert gives it no stars, which seems unjust for a town with this much charm in this beautiful a setting.

@@ -1,11 +1,14 @@
 ---
-title: "Vallejo"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 38.1041
+longitude: -122.2566
+title: Vallejo
 type: location
-latitude: 38.104086
-longitude: -122.256637
 ---
 
-The New Marine World Theme Park in Vallejo, at the northeast end of San Francisco Bay, is a family favorite. In this one-of-a-kind wild animal and sealife park you can come closer to animals from land, sea and air. Featured shows include: killer whales, sea lions, lions and tigers, elephants, chimpanzees, exotic birds and water skiers. Plus, there are great exhibits on sharks, butterflies and aquaria galore.
+Vallejo sits at the northeast end of San Francisco Bay, a working-class city with more character than its reputation suggests. It served briefly as the state capital of California in the 1850s, and for over a century the Mare Island Naval Shipyard — the first on the West Coast — was the economic engine of the town. The shipyard closed in 1996, but the island is now a sprawling historic park with officer's mansions, massive dry docks, and a chapel containing one of the largest collections of Tiffany stained glass in the western United States.
 
+Downtown Vallejo has been quietly reinventing itself around a small arts scene and the ferry terminal, which runs boats directly to San Francisco's Ferry Building. Six Flags Discovery Kingdom, a theme park combining roller coasters with marine and animal shows, draws families from across the Bay Area.
 
- Include a stop at historic and quaint Benicia near Vallejo, a Civil War era armory that is now a favorite of antique hunters and boutique store shoppers. Or, explore nautical downtown Vallejo and its nearby retired Mare Island naval base, the oldest on the West Coast.
+Nearby [Benicia](/northamerica/unitedstates/california/sanfranciscobayarea/benicia), a picturesque waterfront town just across the Carquinez Strait, is worth a short detour for its antique shops and historic arsenal buildings.

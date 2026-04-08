@@ -1,21 +1,16 @@
 ---
-title: "Ziemia Chojnicka - Chojnice Region"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 53.6947
+longitude: 17.5579
+title: Ziemia Chojnicka
 type: location
 ---
 
-The most beautiful, unknown, expanding place in Poland.
+Ziemia Chojnicka — the Chojnice Region — sits in the southern corner of Pomerania, a landscape of pine forests, clean rivers, and glacial lakes that most visitors to Poland never find. That obscurity is the point. There are no crowds here, and the water is quiet.
 
-Place, which is not so popular, because only few people know about it. This is the real reason, why it is so amazing here... because there are not to many travelers. There are not to many to disturb the quiet, lakes with huge free spaces, narrow beautiful rivers. This is what you need! There is no need to visit any other places. Visit our land!
+The region divides neatly into two things: the market town of Chojnice, with its medieval gate, Gothic church, and rebuilt square; and the surrounding countryside, which belongs to the Bory Tucholskie — the great Tuchola Forest, one of the largest forest complexes in the Polish lowlands. Together they make a destination that rewards slow travel.
 
-Chojnice Region (Ziemia Chojnicka) is located in the south part of East Pomerania Province (Województwo Pomorskie), with a very popular capital named [Gdansk](/europe/poland/gdansk). Chojnice Region devides in two main parts : the town [Chojnice](/europe/poland/ziemia_chojnicka/chojnice), which is the "capital" of this small region and land, filled up by forests and lakes all around.
+Charzykowy, a small village 7 km north of Chojnice on the shore of Lake Charzykowskie, is the sailing centre. Polish lake sailing effectively began here in 1924, when Otton Weiland launched the first organised races on the lake. The sailing tradition holds to this day, and in summer the lake fills with boats.
 
-Chojnice Region offers many interesting forms of spending your time. Walking in the quiet in the forests and another types of activites, such as: sailing, kayak, and visit to [Chojnice](/europe/poland/ziemia_chojnicka/chojnice) - town with many monuments, churches, rebuilt Main Square, and other delightful places. One of the most intresting things, which we can propose is a lot of cultural and sport events.
-
-First, something about the land.
-
-Main attraction of our land: lakes and forests, like i mentioned before. Charzykowy - a popular sailing resort in Poland with a large Charzykowskie Lake (Jezioro Charzykowskie), is situated only 7 km(4,5 miles) in the north from Chojnice. Charzykowy is popular becouse of that polish Lake's Sailing was first born here. Everything was started in 1924 by founder Otton Weiland.
-
-## Destinations in Ziemia Chojnicka - Chojnice Region
-
-[Charzykowy](/europe/poland/ziemia_chojnicka/charzykowy)
-[Chojnice](/europe/poland/ziemia_chojnicka/chojnice)
+The main draw is outdoor: kayaking on the Brda river, cycling through the forest, or simply sitting by a lake with nothing particular to do. For a region so close to the Baltic coast, it stays remarkably off the tourist map.

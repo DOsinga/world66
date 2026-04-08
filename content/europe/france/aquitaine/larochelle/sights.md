@@ -1,8 +1,0 @@
----
-title: "Sights"
-type: section
----
-
-We currently have no Sights listed in La Rochelle.
-
-If you do know any Sights in La Rochelle, please [Add].

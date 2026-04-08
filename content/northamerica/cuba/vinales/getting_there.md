@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Vinales is about 40 minutes by car from Pinar del Rio. If you come from Havana you can either take the 3 hours highway route via
-[Pinar del Rio](/northamerica/cuba/pinardelrio) or take the 6 hour scenic route along the Cuban north coast.
-
-**Contributors**
-December 27, 2004
+Viñales is about 40 minutes by car from [Pinar del Río](/northamerica/cuba/pinardelrio). From Havana there are two routes: the three-hour highway via Pinar del Río, or a longer scenic drive along the north coast that takes around six hours but passes through attractive countryside. Viazul runs daily buses from Havana's terminal at Nuevo Vedado; the journey takes around three and a half hours.

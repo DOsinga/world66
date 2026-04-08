@@ -1,12 +1,14 @@
 ---
-title: "Tampere"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 61.497793
 longitude: 23.761637
+title: Tampere
+type: location
 ---
 
-Tampere is the largest inland city of the Nordic countries with a population of over 200 000. The city was founded in 1779 on the banks of the Tammerkoski Rapids (one of Finland´s official national scenic areas) and it evolved into the most highly industrialized locality in Finland during the 19th century. You can still see the Tampella-Finlayson factory area of the 19th century, also pictured in the new Finnish 20-mark bill. Thes old industrial areas have been vitalized and are now full of life and activities. You will find many small restaurants, sport and fitness centres, the Vapriikki museum centre and the Central Museum of Labour. 
+Tampere is the largest inland city in the Nordic countries, wedged between two lakes — Näsijärvi and Pyhäjärvi — and built around the Tammerkoski Rapids that once powered Finland's industrial revolution. The old red-brick factories of Tampella and Finlayson have been converted into museums, restaurants, cinemas, and studios, giving the city a creative, slightly gritty edge that sets it apart from polished Helsinki.
 
-Tampere is also a university city. There are two universities and numerous other institutions of education. Tampere is an important centre of Southern Finland when it comes to employment and education. It is also an outstanding centre for Finnish cultural life with its theatres and events focusing on music, literature, arts and architecture. 
+The city punches well above its weight culturally. Two universities keep it young, while theatres, live music venues, and festivals fill the calendar year-round. The Vapriikki museum centre alone houses several museums under one roof, and the Central Museum of Labour tells the story of Finnish working life in the very buildings where it happened.
 
-Sights include the Central Square, the Pyynikki Ridge, Pispala, the Cathedral, many examples of Pietiläs' Architecture, the Pyynikki Observation Tower and the Näsinneula Observation Tower.
+Tampere is also a city of ridges and views. Climb the Pyynikki Observation Tower for a panorama over both lakes and pick up a fresh munkki (doughnut) from the café at the top — widely considered the best in Finland. The Näsinneula Observation Tower offers an even higher vantage point. Wander through the colourful wooden houses of Pispala, perched on a steep ridge between the lakes, or stroll across the rapids in the centre of town past the Cathedral with its striking Hugo Simberg frescoes.

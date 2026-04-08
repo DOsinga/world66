@@ -5,7 +5,6 @@ latitude: 38.460928
 longitude: 20.575236
 ---
 
-Travel Guide
+Fiskardo sits on the northernmost tip of Cephalonia, curled around a horseshoe bay. It's the island's most beautiful village, and the only settlement that came through the 1953 earthquake largely intact — its limestone bedrock absorbed the shock that destroyed everywhere else. The old stone buildings that line the harbour have been carefully restored and converted into taverns, cafes, boutiques, and small hotels.
 
-**Fiskardo** is located on the northernmost tip of the island. This delightful, postcard port stands on a bed of limestone, which buffered it against the worst effects of the 1953 earthquake. As a result, many of its old stone buildings are still standing and have been restored. Some have been converted for use as taverns, restaurants, cafés, bars and boutiques.
-The village is set in a horseshoe bay and has an up market reputation. You will see fleets of caiques and yachts moored on the quay. Especially in August, Fiscardo attracts many luxury yachts and motorboats: it's a popular port of call for the rich and famous.
+In summer the quay fills with yachts; August brings serious money and serious crowds. The rest of the year it's quieter and more itself. From here you can arrange boat trips across to [Ithaca](/europe/greece/ithaca), which is visible across the strait.

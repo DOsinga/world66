@@ -1,14 +1,16 @@
 ---
-title: "Clairvaux"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 48.1455
+longitude: 4.7933
+title: Clairvaux
 type: location
-latitude: 48.145483
-longitude: 4.793316
 ---
 
-..Clairvaux is to be found 15 km from Bar sur Aube in the heart of the old Gallic forest. It was here that Saint Bernard came to prepare the land in a clearing at Val d'Absinthe 8 centuries ago on 25th June 1115, for the construction of the famous Abbey where he would live until his death on 20th August 1153. Today, interminably long walls in successive rows forbid all views of the remains of the glory of another time. Clairvaux is one of the best-guarded important buildings in France. 
+Few places in France carry as much weight as Clairvaux. On 25 June 1115, a young monk named Bernard led a small band of Cistercians into a clearing in the forest of the Aube valley — then called Val d'Absinthe — and began building an abbey that would change medieval Europe. From Clairvaux, Bernard launched the Second Crusade, corresponded with popes and kings, and oversaw the founding of over 160 daughter abbeys. He died here in 1153 and was canonised just 21 years later.
 
-Nevertheless privileged visitors who manage to penetrate the walls, will discover that this enclosed town is the possessor of many architectural treasures. True, the great Abbey Church no longer exists having been demolished at the beginning of the XIX Century. However, a few walls of Clairvaux I (the Monasterium Vetus of 1115-1135), the splendid lay building of Clairvaux II (1135-1708) and the huge Classical Cloister of Clairvaux III -(1708-1792) still remain. 
+The abbey's second life is stranger than its first. After the Revolution suppressed the monastery in 1790, the buildings were converted into a prison — which they remain to this day. The long, forbidding walls that seal off the complex from the outside world were built to contain inmates, not monks. It is one of the best-guarded historic sites in France, and that is precisely what makes gaining access feel like such an achievement.
 
-The Renaissance Association of Clairvaux Abbey organises public visits to the Abbey every Saturday from May to October, at 1.45p.m., 3.15.p.m. and 4.45p.m. precisely (identification obligatory). However, due to the location of the site, notably concerning security, it is better to make inquiries beforehand at the "Hostellerie des Dames", Telephone : 33 03 25 27 88 17 Fax : 33 03 25 39 02 54 
+Visiting requires planning. The Association Renaissance de l'Abbaye de Clairvaux organises guided tours of the prison-abbey from May through October on Saturday afternoons; you must bring identification and book in advance. What you find inside is remarkable: fragments of the original Romanesque monastery known as Clairvaux I (1115–1135), the magnificent lay brothers' building of Clairvaux II (1135–1708) — one of the best-preserved Cistercian structures in existence — and the vast classical cloister of Clairvaux III (1708–1792). The great abbey church itself was demolished in the early 19th century. Its absence only deepens the sense of loss.
 
-Likewise there are two Clairvaux monastic "barns" to visit : the Cellar at Colombé-le-Sec (XII Century) and the Cornay Cereal Barn (XVI Century) plus the Cisterian exhibition at Ville sous la Ferté Church.
+Clairvaux is a village of about 1,500 people, 15 km south of Bar-sur-Aube. There is not much else here beyond the abbey, but that is more than enough.

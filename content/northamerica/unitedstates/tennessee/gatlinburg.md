@@ -1,12 +1,14 @@
 ---
-title: "Gatlinburg"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.7143
+longitude: -83.5102
+title: Gatlinburg
 type: location
-latitude: 35.714259
-longitude: -83.510164
 ---
 
-Most people either love Gatlinburg or they hate it - or both. Thousands - perhaps millions - of people visit this little mountain town once or several times a year and think it is the neatest place in the world. Often first time visitors, who expected to find a quaint little out-of-the-way mountain village, arrive in Gatlinburg and are shocked by the congested glare. Gatlinburg is literally within footsteps of the most visited National Park in the United States, The Great Smoky Mountains, and has been in a non-stop boom ever since the formation of the Park, in the 1930s. However, expansion of the town is severely limited by the mountains and surrounding parkland. Not to be deterred, developers just keep tearing down old structures and building bigger and better ones. First the development was to provide accomodations and sell hand-made mountain crafts to visitors to the park. Today, sad to say, many people come for the tourist attractions of Gatlinburg and never give the Park a second look.
+Most people either love Gatlinburg or they hate it — or both. Thousands of people visit this small mountain town once or several times a year and think it's the neatest place in the world. First-time visitors who expected a quaint Appalachian village arrive to find congested neon and souvenir shops stacked end to end, which can come as quite a shock.
 
-You'll find almost limitless attractions here: museums, miniature golf, skylifts, amusement rides, musical revues and the most visited aquarium in the United States, to name just a few. There are dozens of motels, hotels and campgrounds to accomodate the tourists, and more restaurants than you could possibly sample in a month of vacations. Also, with more than 30 wedding chapels in Gatlinburg and Sevier County, it is second only to Las Vegas as a wedding destination.
+Gatlinburg sits literally at the doorstep of the most visited national park in the United States, [Great Smoky Mountains National Park](/northamerica/unitedstates/tennessee/greatsmokymountains). The park's formation in the 1930s kicked off a boom that never stopped. The town's geography — hemmed in by mountains and parkland — means there's nowhere to expand outward, so developers just keep tearing down old structures and building taller. What started as motels and mountain crafts shops has grown into a full-scale tourist corridor: aquariums, wax museums, SkyLift gondolas, miniature golf, and more wedding chapels per square mile than almost anywhere outside Las Vegas.
 
-Gatlinburg is definitely NOT your typical Appalachian village. It is a small town of just over 3,000 population that draws up to 10 million visitors a year - most of them en-route to the Smokies. Take Gatlinburg on its own terms. Enjoy the restaurants, museums, amusements, fudge, and entertainment - knowing that whenever the clamor gets to be too much, you can easily escape into the serene fastness of Eastern America's greatest wilderness area.
+The trick with Gatlinburg is to take it on its own terms. The food scene has genuine highlights, especially the traditional Southern spots that predate the tourist wave. The [Great Smoky Mountains](/northamerica/unitedstates/tennessee/greatsmokymountains) are right there — when the crowds and the fudge shops get too much, you can be in genuine wilderness in under ten minutes. Gatlinburg has a population of just over 3,000 permanent residents but draws up to 10 million visitors a year. Plan accordingly.

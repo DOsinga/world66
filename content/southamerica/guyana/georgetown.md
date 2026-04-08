@@ -1,8 +1,10 @@
 ---
-title: "Georgetown"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 6.803256
 longitude: -58.14554
+title: Georgetown
+type: location
 ---
 
 Georgetown is unlike any other capital in South America. It sits below sea level — protected by a seawall and a Dutch-engineered canal system — and its architecture is almost entirely wooden, a legacy of colonial-era construction that gives the city an improbable, slightly ramshackle elegance. Victorian Gothic churches, colonial government buildings, and merchants' houses raised on stilts above the flood line line broad, palm-shaded boulevards. Much of it needs paint, and some of it is actively falling apart, but the bones are extraordinary.

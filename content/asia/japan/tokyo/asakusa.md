@@ -1,14 +1,14 @@
 ---
-title: "Asakusa"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 35.717597
 longitude: 139.797563
+title: Asakusa
+type: location
 ---
 
-Asakusa retains the old athmosphere of Edo. Although most of the buildings are actually quite new (this part was heavily bombed during World War II) the low-rise buildings evoke a time long gone by. 
+Asakusa retains the old atmosphere of Edo. Although most of the buildings are actually quite new — this part of Tokyo was heavily bombed during World War II — the low-rise streets evoke a time long gone by. This was the heart of Shitamachi, the crowded quarter the Tokugawa shogunate designated for merchants, entertainers, apprentices and traders. It developed into one of old Tokyo's most vibrant neighbourhoods, and something of that character survives.
 
-Ginza was actually the center of Shitamachi, the crowded area the Tokugawa shogunate designated for merchants, entertainers, apprentices and traders. Although the area was a actually too small for the number of inhabitans, it developed into a very pleasant quarter, the inhabitants certainly new how to enjoy themselves. 
+The area is best known for Sensoji, Tokyo's oldest temple, and the Nakamise shopping street that leads up to it — a narrow lane of stalls selling rice crackers, traditional crafts, and good kimonos. The famous Kaminarimon Gate, with its enormous red lantern, is the classic Tokyo photo opportunity.
 
-The area is mainly known for its shopping in the Nakamise area(good kimono's and other traditional crafts), its many temples and the famous Kaminarimon Gate, with the red lantern. All Japanese have their picture taken with this lantern. 
-
-Asakusa is easily reached by boat from Hama Rikyu Graden or Hinode Pier at Hamamtsucho. The boats cruise up the Sumida river every 40 minutes. To go by subway you take the Ginza line and get off at Asakusa station.
+Asakusa is easily reached by boat from Hama Rikyu Garden or Hinode Pier at Hamamatsucho. The water buses cruise up the Sumida River every 40 minutes and the ride itself is worthwhile. By subway, take the Ginza line or the Asakusa line to Asakusa station.

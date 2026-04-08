@@ -3,45 +3,12 @@ title: "Day Trips"
 type: section
 ---
 
-**Pastoruri**
+The valleys around Huaraz are packed with day trip options, from glacial lagoons to pre-Inca ruins. Most can be arranged through agencies in town or done independently by colectivo.
 
-Pastoruri is one of the more tiny peaks at a
-mere 5,240m / 17,187ft. It is a very popular day trip from Huaraz as
-people without hiking/climbing experience and without specialist
-equipment can still climb it.
+**Pastoruri Glacier** — Pastoruri is one of the smaller peaks at 5,240 metres but one of the most popular day trips from Huaraz. You do not need climbing experience or specialist equipment to reach the glacier, though the altitude is no joke. Horses are available to take you up the first half of the trail from the base camp, where stalls sell mate de coca to help with the effects of the altitude. Note that the glacier has been retreating rapidly and is a fraction of what it once was.
 
-For those who can not manage the assent, horses are available to take
-you up the first half of the trail from the base camp, where there are
-also stalls that sell Mate de Coca to help with the affects of the
-altitude.
+**Chavin de Huantar** — The Chavin were a pre-Inca civilisation that flourished in central Peru around 3,000 years ago, the most ancient of the major cultures known in South America. The archaeological site at Chavin de Huantar features large ceremonial buildings, underground galleries, and a perfectly square ritual pool. The bus ride takes about three to four hours each way through spectacular mountain scenery.
 
-**Chavín**
+**Lagunas de Llanganuco** — These are the famous glacial lagoons you will see on every postcard of the region. The pale turquoise water, hemmed in by steep valleys and towering peaks, is stunning. A bus from Huaraz takes a few hours and the trip is often combined with stops at Yungay, Carhuaz, and Caraz.
 
-The Chavín were a pre-inca and pre-moche civilisation that existed in
-the area that is now central Peru around 3000 years ago. The were the
-most ancient of the major cultures known to exist in South America.
-A bus trip to Chavín de Huántar takes about 4 hours, as the
-road, which was once a mere dirt road, is still being constructed - so
-traffic is obstructed and the road is quite bad. In a year or so, the
-road and the new tunnel ought to be complete and the journey should
-only be about 3 hours long.
-
-Next we went to visit the ruins the Chavín left. The site consists of a number of large ceremonial buildings with a large *perfectly*
-square (as measured with lasers) pool in the center. The Chavín had
-engineered a river to flow into this square through a system of
-tunnels/canals then out into another river.
-
-**Lagunas de Llanganuco**
-
-These are the famous lagoons you will see on postcard of Huaraz or in any tourist guide. These beautiful lagoons, with their spectacular pale colours are a for everyone, trekker or not. A bus from Huaraz takes a few hours and is often combine with a visit to Yungay, Carhuaz and Caraz.
-
-**Yungay**
-
-Yungay was a bustling town that is no more. In
-an earthquake in 1970 it was completly buried by a landslide from the
-massive Huascaran mountain. Thousands of tons of rock, ice and mud
-killed around 20,000 inhabitants.
-The town is now a graveyard and monument, still towered over by the biggest mountain in Peru.
-
-**Contributors**
-June 28, 2006
+**Yungay** — In 1970, an earthquake triggered a catastrophic landslide from Huascaran that buried the entire town of Yungay under rock, ice, and mud, killing around 20,000 people. The site is now a memorial and graveyard, still towered over by the biggest mountain in Peru. It is a sobering and moving visit.

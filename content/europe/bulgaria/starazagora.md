@@ -1,16 +1,16 @@
 ---
-title: "Stara zagora"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.424811
 longitude: 25.625748
+title: Stara Zagora
+type: location
 ---
 
-Stara Zagora is located in the central part of Southern Bulgaria. The City of is set in the heart of the Region with the same name and has a population of 180,000 people. 
+Stara Zagora is a mid-sized Bulgarian city of about 180,000 people in the upper Thracian plain, between the Sredna Gora mountains to the north and the Sarnena Gora to the south. It is one of the oldest continuously inhabited cities in Europe — Neolithic dwellings dating back 8,000 years have been excavated in the city centre and can be visited in situ.
 
-Among the region's attractions are the Rose Festival, the Opera and Ballets Festival, some Neolithic Dwellings, Roman ruins and natural thermal hot springs healing spas. The photographer, hiker, hunter, and fishing enthusiast will appreciate the Region's mountains and mountain resorts, the moderate weather and easy accessibility to the Black Sea. 
+The city was almost entirely destroyed during the Russo-Turkish War of 1877–78 and was rebuilt on a modern grid plan, giving it a more orderly feel than many Bulgarian cities. Roman ruins, including parts of the ancient forum of Augusta Traiana, are scattered through the centre. The Stara Zagora Opera, founded in 1928, is Bulgaria's first provincial opera company and still stages regular performances.
 
-Amonth the sights of the city the National Opera Theater deserves mention. Founded in 1928, it is the first provincial opera company in Bulgaria and continues to provide world class operas. 
+Ayazmoto Park, covering a large wooded hillside on the city's northern edge, is one of the finest urban parks in the country — nearly 400 hectares of mature trees, walking paths, an observatory, and an open-air theatre that hosts the annual Festival of Romani Music and Songs each summer.
 
-Other sights include museums, libraries, art galleries, Roman ruins, and many lovely parks. Eternally green, the Ayazmoto Park dominates the northern section of the city with 939 acres of exotic trees, an astronomy observatory, a zoo, children's playgrounds, a sports complex and an open-air theater, where the National Festival of Gypsy Music and Songs is held each summer. It is a popular weekend gathering place. 
-
-The nearby [Valley of the roses](/europe/bulgaria/valleyoftheroses) is magically transformed with breathtaking blooms in May and early June each year when "The Festival of Roses" is celebrated. The capital of the rose growing region is Kazanlak where rose picking rituals and folklore displays are presented. The Museum of the Rose Industry is also located in Kazanlak
+Stara Zagora makes a practical base for visiting the nearby [Valley of the Roses](/europe/bulgaria/valleyoftheroses), where the annual rose harvest takes place in late May and early June. The Rose Festival in Kazanlak, about 40 kilometres north, is the region's biggest celebration.

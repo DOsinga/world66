@@ -1,8 +1,10 @@
 ---
-title: "Lac Abbe"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 11.1667
 longitude: 41.8833
+title: Lac Abbe
+type: location
 ---
 
 Lac Abbe sits on the [Ethiopian](/africa/ethiopia) border, about 140 kilometers southwest of [Djibouti City](/africa/djibouti/djibouticity), and it is one of the most otherworldly landscapes in Africa. The lake itself is mostly dry — a flat expanse of cracked salt and clay — but what makes it extraordinary are the travertine chimneys. Dozens of them, some over 50 meters tall, rise from the lake bed and vent sulfurous steam from geothermal springs below. They formed over millennia as mineral-rich water cooled and deposited layer upon layer of limestone.

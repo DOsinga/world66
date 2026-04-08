@@ -1,28 +1,14 @@
 ---
-title: "Menlo Park"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 37.452
+longitude: -122.178
+title: Menlo Park
 type: location
-latitude: 37.451967
-longitude: -122.177992
 ---
 
-Travel Guide
+Menlo Park is a small, affluent city on the San Francisco Peninsula, wedged between Palo Alto and Redwood City. It is best known as the headquarters of Meta (formerly Facebook), but long before that it was home to SRI International, the research institute where the computer mouse was invented and the first ARPANET message was sent.
 
-Between 1943 and 1946 another military
-installation, Dibble General Hospital, was built on the old Timothy
-Hopkins estate to care for the thousands of soldiers injured in
-the South Pacific in World War II.
-After the war a post war boom occurred
-in Menlo Park. Under the leadership of farsighted Charles P. Burgess
-the City acquired 29 acres of Dibble General Hospital grounds
-at a price of $4,000 an acre. On this land a handsome civic center
-has been erected. Later, Santa Cruz Avenue was widened and improved
-and gradually became Menlo's first street. Pioneering steps were
-taken in zoning control, off-street parking in the businesses
-district, establishment of the Administrative-Professional zoning,
-which attracted such concerns as Stanford Research Institute,
-Sunset Magazine and the U.S. Geological Survey, and, in 1952,
-led to the City's first Master Plan.
-Menlo Park has continued to grow in many
-ways to fit the needs of a progressive community, yet it looks
-back with pride at its past...its beginnings...and hopes to pass
-on to new generations the goals and ambitions of its pioneer families.
+The downtown along Santa Cruz Avenue is pleasant and walkable, with restaurants, cafes, and boutique shops. The tree-lined residential streets have a quiet, suburban character that belies the city's role at the heart of Silicon Valley. Stanford University's campus begins at the western edge of town.
+
+Most visitors will be in Menlo Park for business rather than tourism, but the Allied Arts Guild — a collection of craft studios and gardens in a Spanish Colonial courtyard — is worth a detour, and the Menlo Park Library in the civic centre is a handsome mid-century building.

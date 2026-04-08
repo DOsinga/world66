@@ -1,5 +1,5 @@
 ---
-title: "Nightlife and Entertainment"
+title: "Bars and Cafes"
 type: section
 address: "200 South, 100 West, Moab UT"
 closing_time: "1 am"

@@ -1,5 +1,5 @@
 ---
-title: "Sights in Moab"
+title: "Things to Do"
 type: section
 type: "Landmarks"
 url: "www.nps.gov"

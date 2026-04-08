@@ -1,12 +1,11 @@
 ---
-title: "Lake Louise ."
-type: location
-type: "general"
-latitude: 51.424967
-longitude: -116.177535
+category: Sight
+done:
+  location_cleanup: '2026-04-08'
+latitude: 51.415
+longitude: -116.2134
+title: Lake Louise
+type: poi
 ---
 
-View the majestic Victoria Glacier and beautiful Lake Louise. At Lake Louise visitors can enjoy horse-back riding, hiking, canoeing, etc. The original Chateau Lake Louise (Canadian Pacific) was originally built in 1890. 
- Address: Access road is S of the Trans-Canada Hwy.
-
-type: general
+Lake Louise is one of the most photographed lakes in the world, its turquoise water backed by the Victoria Glacier and framed by forest. Visitors can hike the trails above the lake, rent canoes on the water, or simply take in the view from the shore. The Chateau Lake Louise, first built in 1890 by the Canadian Pacific Railway, stands at the water's edge and is a landmark even if you are not staying there.

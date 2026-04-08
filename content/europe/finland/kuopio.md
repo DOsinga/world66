@@ -1,8 +1,10 @@
 ---
-title: "Kuopio"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 62.892463
 longitude: 27.67836
+title: Kuopio
+type: location
 ---
 
 Kuopio is the main city of North Savo, set in the heart of Finland’s lake district. The city sits on a peninsula surrounded by Lake Kallavesi, and the landscape of water, forest-covered islands, and low hills is quintessential Finnish lakeland.

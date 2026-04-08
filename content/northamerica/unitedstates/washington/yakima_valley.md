@@ -1,23 +1,14 @@
 ---
-title: "Yakima Valley"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 46.5864
+longitude: -120.5278
+title: Yakima Valley
 type: location
-latitude: 46.58642
-longitude: -120.527821
 ---
 
-Travel Guide
+The Yakima Valley stretches east from the Cascade foothills across semi-arid high desert in central Washington, producing more than 70% of Washington State's wine grapes and a significant share of its hops, apples, and other fruit. The valley is Washington wine country's heartland — less fashionable than Walla Walla but with a wider range of wineries and a more casual, less polished atmosphere.
 
-Washington Wine Country
-Escape, Relax and Enrich in the Yakima Valley
+The city of Yakima is the commercial centre, with a small but lively downtown. The real draw is the surrounding wine trail running south through Selah, Wapato, Sunnyside, and Prosser toward the Tri-Cities. Dozens of wineries open their tasting rooms, particularly on weekends; the Spring Barrel Tasting weekend in April and the wine harvest festivals in October draw visitors from Seattle and Portland.
 
-Escape to the Yakima Valley in Central Washington State to find one of the world’s top agricultural growing regions boasting award-winning wine and large varieties of fresh produce.
-
-Enjoy the relaxing pace of the countryside and the charm of revitalized downtowns. Explore the vineyards with a winemaker, then laugh and enjoy a long leisurely lunch.
-
-Access to the Yakima Valley couldn’t be easier with a quick drive from the Seattle, Portland, OR and Spokane metropolitan areas.
-
-Events abound in Yakima Valley wine country! Join the thrill of tasting wine straight from the barrel at Spring Barrel Tasting. Soar to great heights at the Great Prosser Balloon Rally. Hoist a beer with friends at the Fresh Hop Ale Festival in downtown Yakima.
-The Yakima Valley
-Yakima Valley - Cultural Heritage
-
-Immerse yourself in a variety of cultures of talented people from around the world in Yakima Valley Wine Country. Visit the Yakama Nation Cultural Heritage Center in Toppenish with one of the oldest Native American museums in the country. See the unique mannequin exhibit at the Yakama Nation Museum. While in Toppenish, tour the "City of Murals" with over 70 murals depicting the history and style of the area. And don't forget to savor the flavor from the many Mexican taquerias and restaurants in the Yakima Valley.
+Toppenish, in the valley's southern end, is home to the Yakama Nation — one of the region's original peoples — whose Cultural Heritage Centre and museum document both pre-contact life and the reservation era. The town itself is known for its outdoor murals depicting local history.

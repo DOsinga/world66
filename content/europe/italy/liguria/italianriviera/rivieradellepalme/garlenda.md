@@ -1,35 +1,14 @@
 ---
-title: "Garlenda"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.0342
+longitude: 8.0957
+title: Garlenda
 type: location
-latitude: 44.034227
-longitude: 8.09565
 ---
 
-A commune situated in the valley of the
- Lerrone upstream of its confluence with the
- Arroscia, in 1142 it came into the possession of
- the marchesi Del Carretto, who in 1385 became
- vassals of the republic of Genoa. Ceded to the
- Costa in 1594, it passed to the Del Carretto of
- Balestrino in 1717 and a few years later (1743)
- was annexed to the kingdom of Sardinia. The
- parish church of the Natività is an interesting
- seventeenth-century construction with an
- octagonal dome and campanile in the baroque
- style. Inside, it is decorated with carved marble
- and a seventeenth-century canvas attributed to
- Guercino. The castle of the marchesi of
- Balestrino at Pragliano, called the Castello della
- Meridiana, was rebuilt in the seventeenth
- century and modified by subsequent
- interventions. The ruins of another fortified
- settlement at the locality of Castelli date from
- the Middle Ages. Local agriculture, which
- produces wine grapes (Rossese and Pigato) and
- fruit, has recently been supplemented by
- development of the tourist industry, with the
- creation of first-rate sports facilities: a sports
- complex, an eighteen-hole golf course and the
- Club Horse, with a riding school, swimming
- pools, skating rink, soccer pitches and tennis
- courts.
+Garlenda is a quiet village in the Lerrone valley, a few kilometres inland from the Ligurian coast. It is known locally for its 18-hole golf course — unusual for this part of Italy — and for the vineyards that produce Pigato and Rossese, two of Liguria's best white and red wines.
+
+The village itself is small and pleasant. The baroque parish church of the Natività has an octagonal dome and contains a canvas attributed to Guercino. Above the village at Pragliano, the Castello della Meridiana is a 17th-century reconstruction of an older fortification. The surrounding valley is good walking country, with olive groves and vineyards on the lower slopes and chestnut forest higher up.
+
+Garlenda makes a peaceful base for exploring the Riviera delle Palme coast without staying in the seaside bustle. The beaches at Alassio and Laigueglia are about 15 minutes away by car.

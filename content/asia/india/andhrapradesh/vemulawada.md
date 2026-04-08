@@ -1,8 +1,10 @@
 ---
-title: "Vemulawada"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 18.467479
 longitude: 78.8699
+title: Vemulawada
+type: location
 ---
 
 Travel Guide

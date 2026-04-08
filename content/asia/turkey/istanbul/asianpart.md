@@ -1,16 +1,16 @@
 ---
-title: Asian Istanbul
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 41.01
 longitude: 29.025
-done:
-  location_cleanup: 2026-04-08
+title: Asian Part
+type: location
 ---
 
-Istanbul straddles two continents, and the Asian side — Anatolia — has a noticeably different character from the historic European districts across the Bosphorus. Where the European side dazzles with mosques, palaces, and Grand Bazaars, the Asian side is where many Istanbullus actually live: residential, relaxed, and less tourist-heavy.
+Istanbul straddles two continents, and crossing from the European side to **Kadiköy** by ferry feels like arriving in a different city. The Asian shore is quieter, greener, and more residential, with a strong intellectual and artistic identity — Kadiköy has more university graduates per capita than any other district in Istanbul.
 
-**Kadıköy** is the heart of Asian Istanbul — a large, educated, secular neighbourhood with excellent street food, a great covered market (the Çarşı), open fish markets, bookshops, and a concentration of bars and cafes. The Sunday market in Moda (a district within Kadıköy) draws locals for antiques, second-hand books, and food. Cross from Eminönü or Karaköy on one of the frequent ferries for a 20-minute ride.
+The heart of the neighbourhood is **Kadiköy Çarşısı**, a network of pedestrianised streets near the ferry terminal lined with old buildings, beautiful churches, greengrocers, bakers, open fish markets, bookshops, and pubs serving inexpensive beer and mussels. **Akmar Pasajı** is a covered arcade popular with music fans, with second-hand record and book shops. The restaurants here are a highlight — many are run by women and serve excellent home-style Turkish cooking at reasonable prices.
 
-**Üsküdar** is older and more traditional — full of mosques, including the striking Maiden's Tower offshore, and with a more conservative atmosphere than Kadıköy. **Bağdat Caddesi**, running east from Kadıköy, is a long, fashionable shopping street popular with Istanbul's middle classes. **Moda** neighbourhood has good cafes and a pleasant promenade along the water.
+East of the harbour, **Bağdat Caddesi** (Baghdad Avenue) is a long, fashionable shopping street. The suburb of **Moda**, jutting into the Sea of Marmara, has a bohemian feel with good cafes and sea views. Further south, **Kadıköy** merges into **Üsküdar**, an older, more conservative neighbourhood with fine Ottoman mosques, including the **Mihrimah Sultan Mosque** by the great architect Sinan.
 
-The Asian side is best reached by ferry from Eminönü or Karaköy. The metro and various bridges also connect the two sides, but the ferry is the most pleasant option.
+The ferry from Eminönü or Karaköy takes about 20 minutes and is one of the best experiences in Istanbul in its own right.

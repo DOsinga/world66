@@ -1,21 +1,6 @@
 ---
-title: "Shopping in Bandar e anzali"
+title: "Shopping"
 type: section
-type: "Shopping centers and malls"
 ---
 
-this section is writen by:
-
-Vahid Mariner
-
-### [Shanbeh Bazar](/asia/iran/bandareanzali/shopping/shanbeh_bazar)
-
-Shanbeh Bazar is a weekly and old and historical shoppinp street in the center of Bandar Anzali city. In Shanbeh Bazar you can buy every things: fish, clothes, food, vegetable, fruit, and any thing you think.
-
-IMPORTANT:remember this shopping is one day per week on Saturdays.
-
-type: Shopping centers and malls
-
-
-
-[[rate it]](/asia/iran/bandareanzali/shopping/shanbeh_bazar)
+The main draw is the Shanbeh Bazar, a weekly Saturday market in the centre of town where vendors sell fresh Caspian fish, produce, clothing, and household goods. It has been a fixture of Anzali life for generations.

@@ -1,14 +1,10 @@
 ---
 title: "Samarinda"
 type: location
-latitude: -0.50178
-longitude: 117.139309
+latitude: -0.5018
+longitude: 117.1393
 ---
 
-Samarinda is big in timber, but the main reason to come here to explore the Sungai Mahakam river and visit the Dayak tribes that live on the banks of the river.
+Samarinda is a major timber port on the Mahakam River and the main gateway for trips into the interior of East Kalimantan. The city itself is mostly a transit point, but what it offers is exceptional access to Dayak country upriver.
 
-
- Tanjung Isuy is located on the shores of lake Jempang. There is a longhouse craft center and tourist hotel. Dance performances are regular happenings, especially when groups of tourists arrive. Mancong has another longhouse, where you can stay. It's a bit touristy as well.
-
-
- If you have time on your hands, you should head for Melka, which is some 30 hours by boat, but it has a great orchid reserve.
+The Mahakam is the route to take. Tanjung Isuy, on the shores of Lake Jempang, has a Dayak longhouse craft centre and tourist accommodation; dance performances happen regularly, especially when tour groups arrive. Mancong has another longhouse where you can stay. If you have more time, push further to Melak — about 30 hours by river boat — where there is an excellent orchid reserve worth the journey.

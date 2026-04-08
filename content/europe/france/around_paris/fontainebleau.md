@@ -1,16 +1,14 @@
 ---
-title: "Fontainebleau"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 48.404938
 longitude: 2.701587
+title: Fontainebleau
+type: location
 ---
 
-Fontainebleau is a small village just south of Paris, surrounded by forests. It’s a great place to get some fresh air and get out of the chaos Paris usually represents. Furthermore this is an excellent base of operations if you’re seeking tranquility and culture more than the fast life in a megalopolis. 
+Fontainebleau is a small town south of Paris surrounded by one of the great forests of the Île-de-France. It is best known for its château — the first Renaissance building in France, and a royal residence for over seven centuries. Napoleon called it "the true residence of kings, the house of the centuries," and thirty-four sovereigns from Louis VI to Napoleon III lived and hunted here. The château's gallery, with its delicate stucco ornaments, and the formal gardens are well worth a half-day visit.
 
-Fontainebleau is often called the capital of French history or as Napoleon III described: "Here is the true residence of kings, the house of the centuries”. Fontainebleau can claim with this title for, there is no other castle in France, which can praise itself to having accommodated 34 sovereigns from Louis VI to Napoleon III. All these French sovereigns came in Fontainebleau in autumn, which was the hunting season and the regular appointment of the Court. The large forests around the castle were excellent hunting grounds and are still very beautiful when all red and yellow in an autumn sunset. 
+The forest of Fontainebleau is the other draw. Covering some 25,000 hectares, it has been a favourite escape from Paris since the 19th century. The sandstone boulders scattered through the woods draw climbers from across Europe — Fontainebleau bouldering is a sport in its own right, with thousands of marked problems at every level. The forest is also beautiful for walking, cycling, and horse riding, especially in autumn when the beech and oak turn gold.
 
-The name of Fontainebleau is always been connected to hunts. According to legend "la Fontaine-Belle-Eau" or "the Fountain-Bliaut" would be the name a dog owner gave to fountain in a clearing in the heart of the forest, he discovered during a hunt. It is close to this clearing, that a first hunting manor was built around 1247. 
-
-The main attraction of the small village of Fontainebleau is its 16th century castle which is actually the first renaissance building outside Italy. It has an impressive staircase and a delicate gallery with stucco ornaments and a huge formal garden. To know all about the castle, you can visit http://www.chateaudefontainebleau.net
-
-The forests around the village are beautiful, especially in autumn, the traditional hunting season. The area is also well known for the boulders that lay scattered around. They yearly attract thousands of sport climbers. Also the adjacent Seine river is a good alternative for the over crowded Loire river if you’re into canoeing.
+As a base, Fontainebleau offers a quieter alternative to Paris itself — close enough for day trips into the city, but with the pace and space of a country town.

@@ -1,12 +1,14 @@
 ---
-title: "Asmara"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 15.338967
 longitude: 38.932676
+title: Asmara
+type: location
 ---
 
-Amsara is the capital of Eritrea. It is located some 60 km inland at an altitude of 2000 meters. It is a lot cooler and more pleasant than [Massawa](/africa/eritrea/massawa) on the coast. 
+Asmara is one of Africa's most surprising capitals. Perched at 2,350 metres on the Eritrean plateau, it is cooler and more pleasant than the sweltering coast at [Massawa](/africa/eritrea/massawa), and its streets are lined with some of the finest Italian colonial architecture anywhere in the world. The city earned UNESCO World Heritage status in 2017 as a modernist African city.
 
+The character is a striking mix: Art Deco cinemas sit next to Coptic churches, the Catholic Cathedral faces the Al Khulafa Al Rashiudin Mosque, and Fiat Cinquecento taxis rattle past palm-shaded boulevards. Liberation Avenue is the heart of city life, where residents stroll in the early evening, stopping for macchiatos and pastries at the many small cafes. The espresso here is genuinely excellent, a lasting legacy of Italy's colonial presence.
 
-
-The city is a nice mixture of Italian colonial buildings and Eritrean architecture. Asmara's very diverse cultural heritage is obvious: three of the most prominent landmarks in the city are the Catholic Cathedral, the Al Khulafa Al Rashiudin Mosque and the Nda Mariam Coptic Cathedral. Not far from the Cathedral is the very buzy shuq district, with its stalls of fruits and vegetables, bric-a-brac, spices, chickens and eggs, used furniture, ceramics, and clothes. Side by side with the stalls are small workshops and shops.
+Beyond the architecture, the sprawling central market north of the Cathedral is worth a long visit. Stalls of spices, vegetables, ceramics, and handwoven textiles crowd together alongside small workshops. The gold and silver jewellers occupy the streets between the main mosque and the government buildings.

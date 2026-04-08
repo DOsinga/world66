@@ -1,14 +1,12 @@
 ---
 title: "Niamey"
 type: location
-latitude: 13.524834
-longitude: 2.109823
+latitude: 13.5127
+longitude: 2.1128
 ---
 
-Niger’s capital located in the far western region of the country is a lively fairly modern city of 500 000. Niamey offers unique open-air markets that are great for people watching—they’re patronized by members of the Tuareg Sonuri and Fulani tribes. 
+Niamey is the capital of [Niger](/africa/niger) and its only real city, sprawling along a bend in the Niger River in the far west of the country. It is dusty, hot, and chaotic in the best possible way — a place where Tuareg, Songhai, Fulani, and Hausa traders all converge in open-air markets that are as much theatre as commerce.
 
-The town’s other main attractions are the Grand Mosque (ask permission before entering) and the outdoor National Museum one of the finest museums in Africa (it displays local artifacts cultural exhibits and even animals—although the bare cages and neurotic animals are heart-wrenching to see). The museum also houses an artisans cooperative where the quality is tops (the jewelry is particularly fine) and the prices are a little high yet reasonable (and surprisingly nonnegotiable). 
+The Grand Mosque, with its green-tiled minaret, dominates the skyline; you can usually visit if you ask permission first. The National Museum is one of the finest in West Africa, with cultural exhibits, local artifacts, and an artisans' cooperative where the jewelry is particularly fine and the prices, while firm, are reasonable. The museum grounds also house a small zoo, though the conditions are dispiriting.
 
-The city’s stadium the *Stade du 29 Juillet* sometimes has sporting events soccer being far and away the most popular. The Franco-Nigerien cultural center is a well-managed facility with state-of-the-art information systems a well-endowed library a nice bar and cafe and an amphitheater used for French and African film screenings performance art and dramatic productions. Just across town on the Rue des Ambassades the U.S. recreation center has a softball field a pool a basketball court and a diner. 
-
-For more adventurous outings it’s possible to take a ride in a pirogue (dugout canoe) on the Niger to see hippos in pools.
+Down by the river, the Corniche de Gamkalle is where Niamey comes alive in the evenings — open-air bars, cold beer, and a breeze off the Niger. The Franco-Nigerien Cultural Centre on Boulevard de la République hosts film screenings, live music, and theatre, and is well worth checking out. For something more adventurous, hire a pirogue and paddle out on the Niger to spot hippos in the river pools south of the city.

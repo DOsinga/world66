@@ -1,14 +1,16 @@
 ---
-title: "Gelati"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.2971
+longitude: 42.7687
+title: Gelati Monastery
 type: location
-latitude: 41.818719
-longitude: 46.194441
 ---
 
-The Gelati Monastery , once a major centre of enlightenment in Georgia for many long centuries, was a repository of many outstanding monuments of art, and still is even today.
+The Gelati Monastery sits in the forested hills about 10 kilometres northeast of [Kutaisi](/europe/georgia/kutaisi), and is one of the most important medieval sites in Georgia. It was founded in 1106 by King David IV (David the Builder) and served not just as a monastery but as an academy — a centre of learning intended to rival Constantinople, where Georgian theologians, philosophers, and scientists gathered to teach.
 
-The monastery was founded by King David the Builder in 1106. As a result of the progressive policy he pursued as well as a favourable international situation, Georgia became a powerful feudal monarchal state which subordinated neighbouring countries to its influence and sought to play a leading role among all those of the Near East.
+The main cathedral, the Church of the Virgin, contains some of Georgia's finest medieval mosaics, including a 12th-century depiction of the Virgin with Archangels that is remarkably well preserved. The interior walls are covered in frescoes spanning several centuries, and King David himself is buried at the monastery entrance — tradition says he chose the gateway so that everyone entering would walk over his grave.
 
-Wishing to establish in his homeland a center of enlightenment which would be in no way inferior to any of the renowned hearts of culture in Byzantium or in cuontries of the Near East, King David the Builder founded an academy at the Gelati Monastery and invited to teach there the most outstanding Georgian theologians, philosophers and doctors of law, many of whom had previously been active at various monasteries abroad or at the Mangan Academy in Constantinople. Mosaic presenting the Virgin with Archangels (1125-1130) About 200 metres north-west of the Gelati ensemble, lie the ruins called Sokhasteri (hermits' dwelling place). The cleaning and research carried out on this spot showed that once a hospital was sited there and, according to the chronicle, David the Builder had erected it and personally supervised the care of the patients.
+The complex is a UNESCO World Heritage Site and includes three churches, a bell tower, and the ruins of an academy building. The setting is quiet and wooded, well removed from the road below.
 
-Portrait of King David the Builder with a model of the Cathedral in his hand (16th cent) The Gelati Monastery has preserved a great number of murals dating
+Gelati is easily visited as a half-day trip from Kutaisi. A taxi from the city takes about 20 minutes, or you can walk the uphill road if you prefer.

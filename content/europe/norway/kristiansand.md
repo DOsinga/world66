@@ -1,16 +1,16 @@
 ---
-title: "Kristiansand"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 58.085628
 longitude: 7.931858
+title: Kristiansand
+type: location
 ---
 
-Kristiansand is the biggest city on the South Coast (*Sorlandet*), and the southernmost city in Norway. It is a charming city, retaining many of the 17th century buildings from its founding days by King Christian IV. The town is home to some of the best beaches in Norway.
+Kristiansand is the largest city on Norway's South Coast (*Sørlandet*) and the country's southernmost city. It was founded in 1641 by King Christian IV and still bears his mark: the old town centre, known as Kvadraten, follows a rigid Renaissance grid that makes it unusually easy to navigate.
 
-The Renaissance style is readily apparent in the strict street plan of the area called Kvadraten ("The Square"). "Posebyen", the oldest section of town, boasts tiny, but charming houses in the traditional style of the area. The name comes from the French word reposer meaning to sleep, from when soldiers were billeted in private homes. 
+The most characterful neighbourhood is Posebyen, a grid of low wooden houses in the old southern style — painted white, closely packed, with small gardens. The name derives from the French *reposer*, a remnant of when French soldiers were billeted with local families. Walk it on a summer evening and you understand why Norwegians are so attached to this coast.
 
-The Norwegian concept of the southern idyll conjures up islets and skerries and small white houses with lush gardens nestled between rocky coastline knolls. The same building style characterises the other southern towns as well. One of the region poets claimed that people's close contact with the sea has given them webbed feet and hospitable, good-natured temperaments. 
+Kristiansand has a genuine claim to some of Norway's best beaches. The Sørlandet coast gets more sunshine than anywhere else in the country, and the archipelago outside the city — Flekkerøy, Oksøy, and a scatter of smaller islands — draws boaters and swimmers all summer. East of the city, Dyreparken is a well-regarded zoo that also contains Kardemomme By (Cardamom Town), a theme park based on the beloved Norwegian children's books by Thorbjørn Egner.
 
-Far out in the Kristiansand fjord lie Flekkerøy, Oksøy and other smaller islands as well as Grønningen lighthouse. During the summer months the whole area teems with life. Eleven miles east of the city is the Kristiansand zoo, which also includes Cardamom City and other attractions popular with Norwegian children. 
-
-From Kristiansand it is not far to other coastal idylls at Lillesand, Brekkestø, Bliksund, Gamle Hellesund, Ulvøysund, Skippergada, Tømmerstø and Ny-Hellesund. This coastal strip boasts the highest number of sunny days in the country. All summer long, crystal-clear water invites you to dive in, while the beaches and long, rounded coastal rocks invite you to relax in the warm sun.
+The city makes a good base for exploring the coast. Lillesand, Brekkestø, and Ny-Hellesund are all within easy reach — small communities of white wooden houses clinging to the skerries, the kind of places Norwegians have been coming to in summer for generations.

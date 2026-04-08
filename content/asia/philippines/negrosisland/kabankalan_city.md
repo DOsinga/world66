@@ -1,16 +1,12 @@
 ---
-title: "Kabankalan City"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 9.988915
 longitude: 122.81348
+title: Kabankalan City
+type: location
 ---
 
-Travel Guide
+Kabankalan is the second largest city in Negros Occidental, sitting in the southern part of the island about two hours by bus from Bacolod. It's a working agricultural city rather than a tourist hub — the surrounding lowlands are blanketed in sugarcane, and the mountains to the east shelter communities of the Bukidnon people. Most travelers pass through en route to the Kanlaon Natural Park or the mountain barangays, but the city itself has a genuine unhurried charm and a useful base of services.
 
-Kabankalan City is a 2nd class city in the province of Negros Occidental , Philippines . According to the 2000 census, it has a population of 149,769 people in 27,851 households.
-A Model of Growth
-First-time visitors in Kabankalan City are usually impressed to see the rapid developments in this formerly bustling municipality now transformed into an even more vibrant gateway in southern Negros .
-The steady growth of Kabankalan City has been significant in many respects –economy, education, industries, transportation and local governance.
-An impressive landmark to all these developments, now a tourist attraction in the city, is the imposing new city hall. It is a clear indication that areas in southern Negros are keeping themselves very competitive amid an economy undergoing the tests of political instability and discouraging trends in global and national business.
-Just like any city or municipality in southern Negros , Kabankalan has its share of various problems to contend with. But under the dynamic leadership of Mayor Pedro “Bebing” Zayco, Jr., those problems are promptly addressed to with the way the local leadership, civic organizations and non-governmental organizations are sharing resources and expertise for their city to etch its mark in the efforts toward a better quality of life.
-Kabankalan has now become a shining example of how countryside development has been translated from the semantic of planners to a functional reality – the city is now a model of growth, serving as an inspiration for other southern communities to also push for excellence.
+The city center is compact and easy to navigate on foot. The public market and plaza are the social heart of town, and there's a steady flow of tricycles and jeepneys connecting the urban core to the outlying barangays. Accommodation options are limited but adequate for a night's stop.

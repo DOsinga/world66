@@ -1,18 +1,16 @@
 ---
-title: "Agios Nikolaos"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.190858
+longitude: 25.717889
+title: Agios Nikolaos
 type: location
-latitude: 35.365858
-longitude: 24.263889
 ---
 
-Travel Guide
+Agios Nikolaos is the capital of eastern [Crete](/europe/greece/crete)'s Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settled into a more relaxed, upmarket identity. The recent addition of a large marina has added sailing regattas to the summer calendar.
 
-The area of Agios Nikolaos covers a long stretch of the north eastern coast and a hinterland that rises to the tremendous rocky ranges of the Dhikti mountains. The actual town of Agios Nikolaos is the administrative capital of the region of Lassithi, and has a population of around 10,000 people. Agios Nikolaos became the first real tourist resort in the early 1970's, on the island, and was known for being a noisy and lively resort. Times have changed, and Agios Nikolaos now enjoys the reputation of being an upmarket destination for many nationalities and its romantic setting and lake area make it a perfect place for couples of all ages. There has been much "beautifying" of the town in the past few years, and a large well equipped marina has been constructed. The marina hosts many national and international sailing competitions and regattas in the summe months and is a popular destination for yachtsmen.
+The town takes its name from the small Byzantine church of Saint Nicholas on a peninsula near the old harbour. Built between the 7th and 9th centuries during the Iconoclastic period, it retains some of its original frescoes and is open to visitors year-round.
 
-The town takes its name from the small Byzantine church of Saint Nicholas, situated on a small peninsula near the Venetian harbour called Mantraki. The church is a beautiful example of classic Byzantine architecture and was built between the 7th and 9th century, during the Iconoclastic period. Many of the original frescos decorate the interior. The church is open to visitors all year round. The town also houses an archaeological museum, folklore museum, cinema, and many cultural events are held in the summer months.
+Lake Voulismeni is the focal point — legend says Athena once bathed here. Today it is ringed with tavernas and cafes, and brightly painted fishing caiques bob around the edges. The archaeological museum and folklore museum are both worth a look.
 
-Legend has it that the Goddess Athena once bathed in the lake Voulismeni, the focal point of the town. Today the lake is ringed by tavernas and cafes, and has many caiques, brightly painted traditional fishing boats, moored around the edges.
-
-In Hellenistic times, the old Venetian harbour (Mantraki) was a flourishing port, for the Dorian city of Lato, 6km to the west of the town. The town thrived during the Roman occupation, and the Venetians later built their fortress at Mirabello inland of the old port to guard the harbour of Porto di San Nicolo.
-
-Agios Nikolaos and the surrounding area has more "Blue Flag" beaches than anywhere in Greece. The clear, crystal water is perfect for snorkeling and swimming and the beaches range from long sandy beaches such as Almyros, to small rocky coves where you can enjoy total solitude.
+The surrounding coastline has more Blue Flag beaches than any other area in Greece. Almyros is a long sandy stretch just north of town, while smaller rocky coves to the south offer solitude. The clear water is excellent for snorkelling. The ancient Dorian city of Lato, 6 km to the west, makes a good short excursion.

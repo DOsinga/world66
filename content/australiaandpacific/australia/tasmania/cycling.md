@@ -1,17 +1,12 @@
 ---
-title: "Cycling"
-type: location
-latitude: -38.391266
-longitude: 145.135984
+done:
+  location_cleanup: '2026-04-08'
+title: Cycling
+type: section
 ---
 
-Tasmania is perfectly suited to cycle touring. The roads are good and relatively free of traffic, and pass by seemingly endless vistas of forests, mountains and coastlines. The towns are spaced frequently and provide economical accomodation, or you can camp in the numerous national parks.
+Tasmania is well suited to cycle touring. The roads are good and relatively light on traffic, passing through forests, mountains, and coastline. Towns are spaced close enough to make logistics manageable, and the national parks offer plenty of camping.
 
+One warning: Tasmania is not flat. Unlike much of mainland Australia, the interior involves real climbing, and cyclists should be ready for it. The weather is also more changeable — pack a waterproof. That said, the cool summers are a genuine advantage when you're grinding up a mountain road.
 
- One point: Tasmania, unlike most of Austrlalia, is definietely NOT flat, so cyclists should be prepared for plenty of exercise. Also, cyclists should note that the weather is more changeable than in other areas, and should be prepared for the odd rainstorm. However, the summer is generally benevolent, and while other adventuresr might chafe at the cooler climes, many cyclist will probably be thankful for an overcast day while slogging up some of the winding mountain roads!
-
-
- Of the various options for cyclist, travelling up the East Coast should be first priority, as it has mild weather all year round, and a string of spectacular coastal National Parks to explore. The North Coast can also be reccomended for plenty of beaches and the flattest terrain. The West coast will greet you with wind and showers, but it is also closest to the spectacular wilderness areas, and has long stretches of deserted coastline for the real get-away experience. For the ultimate tour, connect all three in a circumnavigation of the state that includes Cradle Mountain in the North and the Franklin River off the Lyell Highway in the rugged South-West.
-
-
- Finally, a disclaimer: the author is not an avid cyclist and has not performed the tours he prescribed. On the upside, he has several friends who have and they have nothing but superlatives to describe the experience. If in doubt, consult a specific cycling guide such as that suggested in the books section.
+For routes, the East Coast is the natural starting point: mild weather year-round and a string of coastal national parks. The North Coast offers the flattest riding and plenty of beaches. The West Coast is rougher — windier, wetter — but it puts you closest to the wilderness areas and has long, empty stretches of coastline if that's what you're after. The most ambitious option is a full circumnavigation connecting all three coasts, taking in Cradle Mountain in the north and the Franklin River on the Lyell Highway through the south-west.

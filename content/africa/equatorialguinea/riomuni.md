@@ -1,18 +1,14 @@
 ---
-title: "Rio muni"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 1.001169
 longitude: 9.518176
+title: Rio Muni
+type: location
 ---
 
-Rio Muni is the name of the part of Equatorial Guinea that's located on the mainland of Africa. It is one of the least traveled bits of Africa and a trip there takes a bit of an explorer.
+Rio Muni is the mainland portion of Equatorial Guinea, and one of the least-visited corners of Africa. Getting here takes a bit of an explorer's spirit — infrastructure is sparse, roads are rough, and tourist facilities are almost nonexistent. But that is precisely the appeal for those who do make the trip.
 
+Bata, the mainland capital, is the starting point. Just south of town are some excellent beaches. Regular flights connect Bata to [Malabo](/africa/equatorialguinea/malabo) on Bioko Island, along with a weekly ferry.
 
- Bata is the capital of the mainland. Just south of town are some excellent beaches. There are regular flights to [Malabo](/africa/equatorialguinea/malabo) from Bata and a ferry once a week.
-
-
- A general lack of good roads makes travel in Rio Muni pretty tough. There is no bridge between Cocobeach in [Gabon](/africa/gabon) and [Acalayong](/africa/equatorialguinea/riomuni/acalayong) in the south of Rio Muni, so if you want to go with your own car to [Libreville](/africa/gabon/libreville) you need to make a big detour via Evinayong. The road to Cameroun takes you via Ebebiyin in the far north east. In both cases you will have a great travel experience - but as we said no good roads to travel on.
-
-## Destinations in Rio muni
-
-[Acalayong](/africa/equatorialguinea/riomuni/acalayong)
+Travel overland in Rio Muni is an adventure in itself. There is no bridge between Cocobeach in [Gabon](/africa/gabon) and [Acalayong](/africa/equatorialguinea/riomuni/acalayong) in the south, so driving to [Libreville](/africa/gabon/libreville) means a long detour via Evinayong. The road north to Cameroon runs through Ebebiyín in the far northeast. In both directions, expect dense jungle pressing in on both sides and roads that barely qualify as such.

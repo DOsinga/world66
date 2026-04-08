@@ -1,28 +1,14 @@
 ---
-title: "Vilalba"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 43.2963
+longitude: -7.6788
+title: Vilalba
 type: location
-latitude: 43.296282
-longitude: -7.678767
 ---
 
-Vilalba , capital of the Terra Cha',
-is also the capital of the township with the same name and it has as
-its limits, to the north, the councils of Xermade, Muras and Abadín; to
-the west, Xermade and Guitiriz; and to the south, Cospeito, Guitiriz
-and Begonte. This town was born beside the castle that belonged to the
-house of Andrade, today Parador Nacional, and nowadays an important
-head in the farming region, with trading and services functions, among
-which we must point up the ones related to the tourism, because due to
-its geographical position, it is a compulsory visit for those who go to
-Galicia and to the north of Portugal, and it is placed on both sides of
-the roads from Santander-A Coruña and Madrid-Ferrol. As the name of the
-region indicates, the topography of this council is characterized by
-its flatness, except in the areas of the mountain range of the Carba
-and in Pena do Mirador. The hydrographic system is organized around the
-bank of the river Miño and in a narrow band of the north flows into the
-Eume. The mountain range of A Carba is the water divisor line between
-both banks and several streams are born there, which flow in the Támoga
-or Santaballa and in the rivers Trimaz and Magdalena, which drain most
-part of the township.
+Vilalba is a small market town in the Terra Cha, the broad, flat plain of inland [Galicia](/europe/spain/galicia). It sits at the crossroads of the Santander–A Coruña and Madrid–Ferrol routes, making it a natural stopping point for travellers crossing the region.
 
-Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05
+The town grew up around the medieval castle of the Andrade family, whose octagonal keep tower survives as part of the Parador Nacional — one of Spain's state-run heritage hotels, and worth a look even if you are not staying. Vilalba is better known as the capital of Galician poultry: the local capons (capóns de Vilalba) are famous throughout Spain and fetch extraordinary prices at the annual December market.
+
+The surrounding countryside is green, quiet, and very flat by Galician standards — farmland and small villages along the upper Miño river valley. The Castro de Viladonga, a remarkably well-preserved Celtic hill fort about 20 km to the southeast, is the main sight in the area and worth a detour.

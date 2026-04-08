@@ -1,18 +1,18 @@
 ---
-title: "Lindos"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 36.0916
+longitude: 28.0855
+title: Lindos
 type: location
-latitude: 36.091557
-longitude: 28.08548
 ---
 
-Lindos is less than 50 kilometer from
-[Rhodes City](/europe/greece/rhodes/rhodescity) and one of the the island's major tourist attractions. The village has perfectly preserved its medieval character, with pebble-covered streets and whitewashed houses built on a slope just over the sea.
+Lindos is one of the most beautiful villages on [Rhodes](/europe/greece/rhodes) and one of the island's major tourist attractions. Whitewashed houses with pebble-mosaic courtyards climb a hillside above a turquoise bay, crowned by an ancient Acropolis that has been continuously fortified since the 4th century BC.
 
-A series of steps leads to the ancient Acropolis with its Doric Temple of Athena. Through the main gate we discern the ruins of the Knight's Lodge and the Byzantine church of St. John. Outside the Doric Stoa the prow of a Lindian Hellenistic trireme has been carved in a rock (4.5 m x 5 m). We cross the Doric Stoa (5th century BC) with its 42 columns (20 have been restored) and climb the majestic staircase to higher terrace with Propylaean ruins (5th century BC). From this point we reach the Sanctuary of Lindian Athena, with its elegant bi-prostyle temple on the edge of the cliff (4th century). Ruins of an ancient theater have been found on the slope of the Acropolis. The ancient Acropolis was then built into a castle.
+The Acropolis is the main draw. A long staircase — or a donkey ride, if you prefer — leads up through the medieval Knights' fortifications to the Doric Temple of Athena Lindia, perched dramatically on the cliff edge. Along the way you pass the carved prow of a Hellenistic trireme, the remains of a 5th-century BC stoa with its 42 columns (20 restored), and a Byzantine church of St. John. The views from the top over the village, St. Paul's Bay, and the coast are worth the climb alone.
 
-It is said that St. Paul the Apostle landed here when he came to the island of Rhodes; accordingly, the tiny harbor on the other side of village has been named Agios Pavlos.
+Below the Acropolis, the village itself is car-free and easy to get lost in. Narrow lanes wind between whitewashed houses, many dating to the 15th century and now protected as traditional buildings. The Byzantine Church of the Panagia is covered with 18th-century frescoes. The main square is lined with restaurants and bars — pleasant enough, though you pay tourist prices.
 
-In the village you can visit the Byzantine church covered with eighteenth century frescoes. In the recent years, some 15th century houses have been declared traditional buildings to be preserved and can be visited. Today, this peaceful traditional village has been chosen by many VIPs as the place to build a vacation house.
+St. Paul's Bay, the small sheltered harbour on the south side, is where the apostle is said to have landed on his way to preach on Rhodes. It is one of the best swimming spots near the village. The main beach on the north side is larger and busier, with sunbed rentals and watersports.
 
-There are some spectacular views of Lindos from the road as you approach, make sure you stop off at the roadside pullins and take some great photos. The climb up to the Acropolis is quite daunting, but don't despair, there is a local 'taxi' service which runs every minute, at a very reasonable rate, it is quite an experience too. Hope you are not afraid of Donkeys! But the ride is worth it. The stroll back down to the Square is via a labyrinth of narrow streets full of shops selling local crafts, and replica artifacts, along with the usual tourist gifts, and many places to rest and take some refreshment.
-
+Lindos is less than 50 kilometres from [Rhodes City](/europe/greece/rhodes/rhodescity). Local buses run regularly, or you can drive — stop at the roadside pullouts on the approach for spectacular views of the village below.

@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Furnas"
+title: "Getting There"
 type: section
 ---
 
-There are some, not many, buses running between Furnas and Ponta Delgada. If you want to walk around the lake Lagoa das Furnas, get off the bus where you first see the lake (if travelling from Ponta Delgada). If you want to visit the fumarole area, leave the bus at the other end of the lake (towards town).
-
-**Contributors**
-April 05, 2005
+There are some buses running between Furnas and Ponta Delgada, though the service is infrequent. If you want to walk around Lagoa das Furnas, get off the bus where you first see the lake (coming from Ponta Delgada). For the fumarole area, stay on until the stop at the other end of the lake, closer to town. A rental car gives much more flexibility.

@@ -1,8 +1,10 @@
 ---
 title: "Vila Nova Sintra"
 type: location
+latitude: 14.8648
+longitude: -24.6942
 ---
 
-Travel Guide
+Vila Nova Sintra is the only real town on Brava, perched at about 500 meters in the island's interior. It is a quiet place of around 1,500 people, reached in about fifteen minutes from the port at Furna.
 
-Vila Nova Sintra is the only town on Brava, reached after about 15 minutes travel from the port Furna. It has about 1,500 inhabitants. It has little to offer a tourist, except the normal services of a town. The post office and the bank are at the central Praça (square). There is a Catholic and a Nazarene church as well as a few restaurants and hotels. The poet Eugénio Tavares lived here
+The town is small and easily walked. The central Praca has the post office and bank, and a couple of churches -- Catholic and Nazarene -- stand nearby. There are a few simple restaurants and guesthouses. The main reason to linger is the climate, which is mild and pleasant year-round, and the town's connection to the poet Eugenio Tavares, one of the most celebrated figures in Cape Verdean literature, who lived and wrote here.

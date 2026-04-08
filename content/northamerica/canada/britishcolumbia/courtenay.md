@@ -7,6 +7,8 @@ title: Courtenay
 type: location
 ---
 
-A visit to Courtenay and it's sister community of Comox ( together, known as the Comox Valley ) is a must for travellers looking to explore the natural wonders of Vancouver Island.
+Courtenay is the largest community in the Comox Valley, on the east coast of Vancouver Island in British Columbia. Together with its sister town of Comox and the village of Cumberland, it forms the main population centre between Nanaimo and Campbell River.
 
-Information on the Comox Valley and on local accommodation at Copes Islander Oceanfront Bed and Breakfast can be found at: http://www.bed-breakfast-vancouver-island.com
+The valley is squeezed between the mountains of Strathcona Provincial Park and the sheltered waters of the Strait of Georgia, giving it an unusual range of outdoor options. In winter, **Mount Washington Alpine Resort** draws skiers and snowboarders from across the island. In summer, the same mountains offer hiking, and the coastline has kayaking, fishing, and whale watching. The Courtenay River runs through town and is popular with fly fishers chasing trout and salmon.
+
+The town itself is pleasant if unremarkable -- a handful of good restaurants, a farmers market, and a relaxed pace of life that typifies smaller Vancouver Island communities. It makes a convenient base for exploring the central island, with ferries from nearby Comox connecting to Powell River on the mainland.

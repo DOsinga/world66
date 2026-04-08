@@ -1,13 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Do yourself a favor and visit the Mermaid, the best bar in the south pacific
+The water is the main event in Vava'u. Whale watching and whale swimming dominate from mid-July to mid-October, when humpbacks migrate through these waters. Diving is excellent year-round, with healthy reefs, sea snakes, and two notable cave dives — Swallows Cave is open and dramatic, while Mariner's Cave requires a short underwater swim to enter.
 
-Beware: the local brew is not very good. its actually really bad. really bad, especially after it has set out in the sun for two months and the tops of the bottles are starting to rust.
-
-If you are adventureous there is a bar at the bottom of the hill from Neiafu. its a local honky-tonk disco that looks like an old warehouse. This is where the locals thrive.
-
-**Contributors**
-January 06, 2005
+Kayaking between the outer islands is a popular multi-day option, and fishing charters run regularly from Neiafu harbour. On land, there is not much to do beyond walking the ridge in Neiafu and enjoying the views, but that is rather the point of being here.

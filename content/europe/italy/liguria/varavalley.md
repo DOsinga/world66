@@ -1,14 +1,14 @@
 ---
-title: "Vara valley"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.25
+longitude: 9.65
+title: Vara Valley
 type: location
 ---
 
-We are here almost at the end of Liguria and the valley is along the motorway. Here you find the nice place of Bolano, a mediaeval village situated in a magnificent scenic position on a hill that domainates the confluence of tbis valley with the Magra valley. Mentioned in a document of 963, it was a feud of the bishops of Luni until 1318, when it passed to the Malaspina family. [Genoa](/europe/italy/liguria/genoa) took possession in 1562. Climb the valley and, after passing Borghetto Vara, you come to Brugnato, an ancient settlement thought to bave been the capital of the local Ligurians defeated by the Romans in 190 BC. Benedictines built an abbey bere in 8th century. To be seen here is the cathedral of the Santi Pietro, Lorenzo e Colombano, of the 11th century; formerly the abbey church of the ancient monastery thought to have been founded by Saint Columban and is one of the best preserved example of medieval architecture in the area. At Pozzolo you can see carved portals. Following the road that climbs the valley you come to Varese Ligure, a farming centre and well renown boliday resort. Of mediaeval origin, the village was for a long tirne of the Fieschi family. The place has a castle which is one of the most interesting examples of a fortress. Near is Càssego with a folk museum. From here you can go up to the Centocroci pass to see a wonderful panorama with farms and agriculture products.
+The Vara Valley runs through the eastern end of [Liguria](/europe/italy/liguria), parallel to the motorway, connecting the coast near La Spezia with the Apennine passes. It is a quiet, rural area of medieval villages, chestnut forests, and organic farms — a world away from the crowds on the Riviera.
 
- While walking around have a taste of Focaccia with raisins from the bakery shops. Another of the many Ligurian areas wher you can eat specialities without having to spend much if you do not like to. They are is now leader in [Liguria](/europe/italy/liguria) for biologicallly grown products so ask to eat the vegetable recipes in the restaurants with table grapes and mushrooms. Many are the wines here from red Bolano wine to white Tocai d'Arcola or Aleatico di Sarticola. While eating you can also ask for the "Vino della casa" (wine generally produced in the area but with no particular names), it makes the bill cheaper but is good as well.
+Bolano, at the mouth of the valley, sits on a hill overlooking the confluence with the Magra valley, mentioned in documents as far back as 963. Further up, Brugnato has an 11th-century cathedral, the Santi Pietro, Lorenzo e Colombano, built on the site of a Benedictine abbey thought to have been founded by Saint Columban. At the head of the valley, Varese Ligure is a charming farming town with a medieval round castle and a strong tradition of organic agriculture — the area has become a leader in [Liguria](/europe/italy/liguria) for biologically grown produce.
 
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
-
- pelos@tn.village.it
-
- http://www.global.village.it/~pelos/index.htm
+The valley is excellent walking and cycling country. Try the focaccia with raisins from the bakery shops, and in the restaurants ask for the local vegetable dishes, mushrooms in season, and the house wine — the reds from Bolano and the whites from the area are honest and cheap.

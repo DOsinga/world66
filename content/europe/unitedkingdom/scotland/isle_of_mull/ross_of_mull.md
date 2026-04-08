@@ -5,9 +5,8 @@ latitude: 56.305319
 longitude: -6.236819
 ---
 
-This is the area reached by turning left off the ferry at Craignure, the most southerly part of the island. The small heritage centre is located in the village nearest to being a town [more than one shop, PO, restaurant and pub] of Bunessan, situated with the sea to its north. This is a favourite place for herons but the best beaches are those on the south coast of the Ross. Many people think these actualy beat the better known one at Calgary in the north of the island. 
+The Ross of Mull is the long, narrow peninsula forming the southern part of the island. You reach it by turning left off the ferry at Craignure and following the single-track road west.
 
-The vast majority of cars seem to head for Fionnphort at the south-west tip, where the ferry [cars only with a permit] makes the five minute crossing to
-[Iona](/europe/unitedkingdom/scotland/iona)
+Bunessan is the main village — small enough that having more than one shop counts as notable. The Bunessan Heritage Centre covers the local history. The south coast of the Ross has some of Mull's best beaches: white shell sand, clear water, and very few people. Many locals consider them finer than the more famous Calgary Bay in the north.
 
-Write up by [davidx](/world/member/davidx) on 24 July 04
+Most traffic heads for Fionnphort at the peninsula's southwest tip, where a five-minute passenger ferry crosses to [Iona](/europe/unitedkingdom/scotland/iona). Cars need a permit for the crossing, and most visitors walk on.

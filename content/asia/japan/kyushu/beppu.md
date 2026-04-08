@@ -1,11 +1,11 @@
 ---
-title: "Beppu"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 33.284575
 longitude: 131.491306
+title: Beppu
+type: location
 ---
-
-Travel Guide
 
 As any Japanese person over the age of 10 can likely tell you, Beppu is synonymous with one thing - *onsen*, or hot springs. Though urban sprawl has practically fused it with the neighboring prefectural capital, [Oita](/asia/japan/kyushu/oita), the city's purpose is less that of industry and commerce than that of a resort town. Hordes of tourists - primarily domestic - descend on Beppu across the year to take in its plentiful, geothermal riches. As a result the city is usually considered not so much a conventional sightseeing destination as one for relaxation and enjoyment.
 
@@ -15,7 +15,4 @@ Arguably the most atmospheric bathhouse is the Meiji-era **Takegawara Onsen**, s
 
 For those seeking kitsch, the **Beppu Hihokan** in Kannawa offers a weird, Japanese take on a museum of erotica. Further to the east, on a hill sits the reconstructed **Kifune-jo**, a castle based upon an original that no one seems certain actually ever existed!
 
-Beppu is also home to Ritsumeikan Asia-Pacific University, an international 4-year school with students from more than 40 countries attending.
-
-More information on
-*Beppu Travel*
+Beppu is also home to Ritsumeikan Asia-Pacific University, an international school with students from more than 40 countries, which gives the city a more cosmopolitan dining and nightlife scene than you might expect.

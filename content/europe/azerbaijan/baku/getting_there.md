@@ -3,50 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-Submitted by: BakuServices.com ( Baku, Azerbaijan ) 
+Heydar Aliyev International Airport (airport code GYD, though older references use BAK) is the busiest airport in the Caucasus and lies about 25 km east of central Baku, roughly 40 minutes by road. The airport has separate international and domestic terminals.
 
---------------------------------------- 
+From the airport, licensed taxis with a TAXI sign are the simplest option -- avoid drivers who approach you inside the customs hall, as they charge significantly more. Bus number 116 (formerly 16) runs from just outside the arrivals zone to the city centre. Most major hotels will arrange airport transfers for a reasonable fee.
 
-Baku has direct flights from/to the following cities. 
+Baku has direct flights to Istanbul, Dubai, Moscow, London, Frankfurt, Vienna, and a number of Central Asian capitals. Azerbaijan Airlines (AZAL) operates the widest network. Turkish Airlines, Lufthansa, and several other carriers also serve the route.
 
-London Heathrow: British Airways
-
-London Gatwick: Azerbaijan Airlines 
-
-Bishkek: British Airways
-
-Paris: Azerbaijan Airlines 
-
-Frankfurt: Lufthansa
-
-Ashgabat: Lufthansa
-
-Vienna: Austrian Airlines
-
-Prague: Czech Airlines 
-
-Istanbul: Turkish Airlines / Azerbaijan Airlines
-
-Ankara: Azerbaijan Airlines 
-
-Dubai ( U.A.E ): Azerbaijan Airlines 
-
-Moscow: Aeroflot / Domodedovo Airlines / Azerbaijan Airlines
-
-Tblisi: Caucasus Airlines / Azerbaijan Airlines
-
-Aktau: Azerbaijan Airlines
-
-Urumqi: Azerbaijan Airlines
-
-Trabzon: Azerbaijan Airlines
-
-Tehran: Azerbaijan Airlines
-
-Tel-Aviv: Azerbaijan Airlines
-
-Kiev: Azerbaijan Airlines
-
-Almaty: Azerbaijan Airlines
-
-Tashkent: Azerbaijan Airlines
+International trains connect Baku to Tbilisi (overnight, roughly 13 hours). There is also a rail link across the Caspian to Turkmenistan via the Baku-Tbilisi-Kars railway.

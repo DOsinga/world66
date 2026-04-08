@@ -1,8 +1,16 @@
 ---
-title: "Shenandoah"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.856559
 longitude: -78.589089
+title: Shenandoah
+type: location
 ---
 
-Shenandoah National Park lies astride a beautiful section of the Blue Ridge Mountains, which form the eastern rampart of the Appalachian Mountains between Pennsylvania and Georgia. The Shenandoah River flows through the valley to the west, with Massanutten Mountain, 40 miles long, standing between the river's north and south forks. The rolling Piedmont country lies to the east of the park. Skyline Drive, a 105-mile road that winds along the crest of the mountains through the length of the park, provides vistas of the spectacular landscape to east and west. The park holds more than 500 miles of trails, including 101 miles of the Appalachian Trail. Trails may follow a ridge crest, or they may lead to high places with panoramic views or to waterfalls in deep canyons. Many animals, including deer, black bears, and wild turkeys, flourish among the rich growth of an oak-hickory forest. In season, bushes and wildflowers bloom along the Drive and trails and fill the open spaces. Apple trees, stone foundations, and cemeteries are reminders of the families who once called this place home. Shenandoah National Park has many stories waiting to be told, and a world of beauty that can renew and bring peace to the spirit.
+Shenandoah National Park stretches for 105 miles along the crest of the Blue Ridge Mountains in [Virginia](/northamerica/unitedstates/virginia). Skyline Drive follows the ridge the entire length of the park, with more than 70 overlooks offering views east to the rolling Piedmont and west to the Shenandoah Valley and Massanutten Mountain.
+
+The park holds over 500 miles of trails, including 101 miles of the Appalachian Trail. Some follow ridge crests with panoramic views; others drop into hollows with waterfalls and hemlock groves. Dark Hollow Falls, a short steep hike from Skyline Drive, is one of the most popular. Deer are everywhere, and black bears are common — you will likely see both.
+
+Spring brings wildflowers and migrating warblers. Autumn is peak season, when the oak-hickory forest turns brilliant red and gold and the park fills up on weekends. Winter is quiet and often misty, with sections of Skyline Drive closed after snow.
+
+Stone foundations, old cemeteries, and apple trees scattered through the forest are reminders of the mountain families who lived here before the park was established in 1935.

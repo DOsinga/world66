@@ -1,27 +1,10 @@
 ---
 title: "Thu Maung"
 type: poi
-accessibility: "easy to find"
-address: "Kalaw highway"
+address: "Kalaw highway, opposite the market"
 price: "$2-5"
-type: "International"
-latitude: 20.66557
-longitude: 96.535461
+latitude: 20.6656
+longitude: 96.5355
 ---
 
-A great place to get a traditional-style Burmese meal. I highly recommend ordering any of the curries-chicken or mutton or whatever, and the green tomato salad, leave the rest to them. They will bring you side dishes of all sorts, balachaung, pickled bamboo shoots, soup, fruit and jaggery to eat with your rice. They will also continuously refill your plates until you are stuffed and the meal will cost only a couple dollars.
-
-One of my most favorite places to eat in Kalaw it is across from the market on the main "superhighway" that passes by Kalaw.
-
-**Contributors**
-March 03, 2008
-
-type: International
-
-
-
-accessibility: easy to find
-
-address: Kalaw highway
-
-PriceOfMenu: $2-5
+Thu Maung is one of the best places in Kalaw for a traditional Burmese meal. Order any of the curries — chicken, mutton, or whatever is on that day — and the green tomato salad, then leave the rest to them. The kitchen will send out an array of side dishes: balachaung, pickled bamboo shoots, soup, and fruit, all with rice that gets refilled as fast as you eat it. The meal ends with jaggery and Shan tea. The cost is astonishingly low, around two dollars per person.

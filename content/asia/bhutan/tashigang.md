@@ -1,20 +1,16 @@
 ---
-title: "Tashigang"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 27.331284
 longitude: 91.552067
+title: Trashigang
+type: location
 ---
 
-Tashigang, located in the east of Bhutan is the largest district of Bhutan. It is comprised of many valleys and villages. Compared to the valleys in the west like Paro and Thimphu, the valleys in the east are narrow and steep. 
+Trashigang is the largest district in eastern Bhutan and its small town is the main settlement in a part of the country that few visitors reach. The valleys here are narrower and steeper than those in the more touristed west around [Paro](/asia/bhutan/paro) and [Thimphu](/asia/bhutan/thimphu), and the remoteness is part of the appeal.
 
+The town itself is tiny — perhaps 40 or 50 shops, a school, and a hospital, all crammed onto a hillside with no room to expand. The reason it exists is the Trashigang Dzong, a fortress-monastery built on a ridge overlooking the confluence of the Dangme Chhu and Gamri Chhu rivers. Like all Bhutanese dzongs, it is both beautiful and imposing.
 
+The surrounding countryside is a patchwork of barley, rice, and wheat fields, with subtropical fruit orchards at lower elevations. Sherubtse College, Bhutan's oldest degree-granting institution, is about two hours' drive away in Kanglung.
 
-The only college in Bhutan which confers bachelor and honours degrees in arts, commerce and science fields is located in Kanglung under Tashigang district, about 2 hour's drive from Tashigang town. Students qualifying to study in Sherubtse college are considered as the cream of Bhutanese youths. 
-
-Tashigang town itself is a very small town, with about 40 or 50 shops, one school and a general hospital. The town itself is cramped into a very uncomfortable area of little space with no more space left for expansion. The main reason for the town being there is that the Tashigang Dzong, which houses the district's administrative centre is located there. 
-
-Like all other Dzongs, Tashigang Dzong is a beautiful and imposing structure built on a ridge overlooking the Dangme chhu river. 
-
-Tashigang is surrounded by barley, rice and wheat fields as well as tropical-fruit orchards. The best time to visit is between October and April—you’ll avoid the leeches, mosquitoes and landslides. 
-
-While one night is enough to see everything, allow two because it’s so remote and unusual. The Chortenkora festival is in mid March. From Thimphu, Tashigang can be reached in two ways: via Phuntsholing and Samdrup Jongkhar in the south (taking 3 days by public bus with overnight stops), or via central Bhutan taking about 2 days. Be warned that Tashigang does not have good hotels.
+The best time to visit is between October and April — you will avoid leeches, mosquitoes, and monsoon landslides. Allow at least two nights; the remoteness demands it. The Chortenkora festival in mid-March is worth timing a visit around. Getting here from Thimphu takes two to three days by road, depending on the route.

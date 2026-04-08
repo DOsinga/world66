@@ -1,37 +1,16 @@
 ---
-title: "Tabriz"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 38.0739
+longitude: 46.2979
+title: Tabriz
 type: location
-latitude: 38.073861
-longitude: 46.297879
 ---
 
-In northwest Iran near the Turkish border this ancient capital of Armenia (founded in the 3rd century BC) is now a sprawling industrial city surrounded by mountains. Famed for its calligraphy and bookmaking in the 13th century Tabriz was well placed on trade routes and played an important role in Iran’s history. The city (pop. 1 089 000) is home to the Azeri Turks Iran’s largest minority group. While there visit the ruined 14th-century Ali Shah Mosque (its walls are 85 ft/26 m high) the 13th-century Blue Mosque (beautiful tilework) and the Jum’a Mosque.
+Tabriz sits in a broad valley in Iran's northwest, ringed by mountains and close to the Turkish border. It is one of the oldest continuously inhabited cities in the Middle East, and it feels it — this is a place with layers. Once a capital of the Persian and Safavid empires, Tabriz was a major stop on Silk Road trade routes, and its enormous covered bazaar remains the commercial heart of the city.
 
-In the nearby city of Ardabil (pop. 150 000) lies the Shaikh Safi Tomb where the world’s most valuable carpet was discovered (it’s now in London’s Victoria and Albert Museum). Huge Daryacheh ye Oroumieh (Lake Urmia) which lies west of Tabriz is noted for its healing salt water and medicinal mud.
+Today Tabriz is home to about 1.5 million people, most of them Azeri Turks — Iran's largest ethnic minority. You'll hear Azerbaijani spoken as often as Farsi on the streets. The city has an industrial character but rewards anyone who takes the time to look: the bazaar alone is worth a full day, and several remarkable mosques survive from the city's medieval peak.
 
-Plan a very full day to see Tabriz. 
- 465 mi/750 km from Tehran.
+The surrounding region has its own draws. [Lake Urmia](/asia/iran/lake_urmia), about 60 km to the west, is a vast salt lake with striking pink-hued water and medicinal mud. The nearby city of [Ardabil](/asia/iran/ardabil) contains the Shaikh Safi ud-Din tomb complex, a UNESCO World Heritage site and one of the finest examples of Safavid architecture in Iran.
 
-
- 
- 
-
-**See also other cities of Iran**
-
-
- 
- 
- 
- 
- 
- [Isfahan](/asia/iran/isfahan)
- [Kashan](/asia/iran/kashan)
- [Kerman](/asia/iran/kerman)
- 
- 
- [Persepolis](/asia/iran/persepolis)
- [Shiraz](/asia/iran/shiraz)
- [Tehran](/asia/iran/tehran)
- 
- 
- [Qum](/asia/iran/qum)
+Tabriz is about 750 km northwest of Tehran by road, or roughly 90 minutes by air.

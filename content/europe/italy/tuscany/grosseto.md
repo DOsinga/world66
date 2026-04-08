@@ -1,14 +1,14 @@
 ---
-title: "Grosseto"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.7751
+longitude: 11.2878
+title: Grosseto
 type: location
-latitude: 42.77511
-longitude: 11.287804
 ---
 
-The main attraction in Grosetto is [Castiglione della Pescaia](/europe/italy/tuscany/grosseto/castiglionedellapescaia), a very attractive town. A few hundred houses with a few thousand inhabitants, a romantic corner of the old Maremma between the azure sea and the evergreen hills, with rocks going down to the sea and beaches bordered by thick brush and extensive pine woods, a Fishing harbour dominated by an embattled, medieval castle: this is Castigtione della Pescaia. In addition to its delightful beach, its sea and pine woods, Castiglione della Pescaia can also offer the fascination of the imposing remains of its important past.
+Grosseto is the capital of the Maremma, the wild southern stretch of Tuscany that most tourists skip in favour of Florence, Siena, and the Chianti hills. The city itself is a modest provincial centre ringed by well-preserved Medici walls, but the real draw is the surrounding countryside — rolling farmland, cork-oak forests, thermal springs, and a coastline that includes some of Tuscany's best beaches.
 
-Grosseto is the agricultural capital of the Maremma and is known for its “Agriturismo” which basically means agricultural tourism. Organic farming is popular and here you can really get to eat delicious food. Sun ripened tomatoes, artichokes, mushrooms, spinach, olives and wild boar are all are prepared by the locals who are always happy to serve. People in this county cook from recipes that have been passed down over many generations. In days gone by when the populace was ravaged by poverty a ham bone was passed from family to family to add flavour to the broth. This act of allegiance shows that the clansmen cared about the well being of all the community members. Guests are considered as brothers and receive warm attention and fabulous meals.
+The Maremma is famous for its **agriturismo** culture. Organic farming is popular, and the food here is excellent: sun-ripened tomatoes, artichokes, wild mushrooms, olive oil, and above all wild boar, which appears on almost every menu. Recipes have been passed down for generations, and meals at farmhouse restaurants tend to be generous, seasonal, and superb.
 
-## Destinations in Grosseto
-
-[Castiglione della Pescaia](/world/europe/italy/tuscany/grosseto/castiglionedellapescaia)
+The most attractive coastal town in the province is **Castiglione della Pescaia**, a small fishing village dominated by a medieval castle, with rocky coves, pine-backed beaches, and a working harbour. It is an easy day trip from Grosseto or a destination in its own right.

@@ -1,18 +1,18 @@
 ---
-title: "Mt. Rainier NP"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 46.8543
+longitude: -121.7063
+title: Mt. Rainier National Park
 type: location
-latitude: 46.854338
-longitude: -121.706334
 ---
 
-Mount Rainier National Park is a 14,410' volcano about 2 hours from Seattle. It encompasses 235,625 acres, ranging in elevation from 1,610' to 14,410' above sea level. The "mountain" (as locals call it) is an active volcano encased in over 35 square miles of snow and ice, surrounded by old growth forest and stunning wildflower meadows.
+Mount Rainier National Park protects a 14,411-foot active volcano encased in over 35 square miles of glacial ice, surrounded by old-growth forest and wildflower meadows. It is about two hours from [Seattle](/northamerica/unitedstates/washington/seattle) and no visit to Washington State should miss it.
 
-The road to Paradise is open year round. In the winter (Nov - May) the drive to Paradise can be unbelievable. By late winter you'll be driving through 40' walls of snow. Paradise is a popular backcountry ski destination in the winter and flower filled paradise during the brief summer (June - Sept, flowers peak in July).
+The road to **Paradise** is open year-round and is the most popular destination in the park. In winter you drive through corridors of snow 12 metres high. Paradise is a popular backcountry skiing destination from November to May. In summer — the brief window from late June to September — the meadows explode with wildflowers (peak in July), and the views of the glaciated summit are extraordinary.
 
-There are hundreds of miles of trails ranging from easy nature trails to 98 mile multi-day treks to technical climbing on glaciers.
+The park has hundreds of miles of trails, from easy nature walks to the 93-mile **Wonderland Trail** that circumnavigates the entire mountain. Technical climbing routes on the glaciers attract mountaineers from around the world.
 
-No visit to Washington State should miss this unbelievable park.
+**When to visit:** Summer is the busiest season but almost always sunny and warm. Many trails are only open from July to September. Winter is quiet and atmospheric — only the road to Paradise stays open.
 
-Best time to visit: While crouded the brief summer is almost always sunny and warm. Many trails are only open from July to September. In the winter the park empties out and lonesome snowy routes can be found in all directions. Only the road to Paradise is open in the winter - which is a popoular backcountry skiing area.
-
-Where to stay: There are two hotels in the park itself and a few outside of the park. Drive in camping fills up fast in the summer - don't count on finding a spot on the weekend, backcountry spots are a bit easier to find. If you have a rental car you can easily stay in Seattle though.
+**Where to stay:** Two lodges operate inside the park. Drive-in campgrounds fill up fast in summer — don't count on a spot at weekends. Backcountry camping permits are easier to get. With a car you can easily stay in Seattle or Tacoma and day-trip.

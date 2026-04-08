@@ -1,12 +1,12 @@
 ---
-title: "Ait Ourir"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 31.5639
+longitude: -7.6623
+title: Ait Ourir
 type: location
-latitude: 31.563898
-longitude: -7.662276
 ---
 
-Ait Ourir is located between [Marrakesh](/africa/morocco/marrakesh) and [Ouarzazate](/africa/morocco/ouarzazate) (40 Kms from Marrakesh) and it can be seen on the way if you are going over the Tizi-n-Tichka pass. It is a typical Berber town with a very lively market on Tuesdays. 
+Ait Ourir is a small Berber town on the main road between [Marrakesh](/africa/morocco/marrakesh) and [Ouarzazate](/africa/morocco/ouarzazate), about 40 kilometres southeast of Marrakesh, just before the road begins its climb toward the Tizi-n-Tichka mountain pass. Most travellers pass through without stopping, but the town's Tuesday souk is one of the liveliest in the region and worth timing a visit around if you can.
 
-
-
-Ait Ourir is crossed by Oued Zat, Zat river. Nowadays, it's nearly empty from March to December but we still remember its last fury (1986/87) when the bridge (called "bridge of Zat") and half of "Coq Hardy", a lovely "Auberge" fell down in the river. Having a walk into that river is a unique moment. The view of salty water's effects and a good opportunity to find nice ametists should make passers by have a break there.
+The Oued Zat river runs through town. For much of the year it's reduced to a trickle, but the riverbed and its smooth stones are pleasant to walk. The valley between here and the High Atlas is good amethyst country — local vendors sell rough crystals.

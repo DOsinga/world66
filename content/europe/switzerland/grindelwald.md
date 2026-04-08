@@ -1,12 +1,16 @@
 ---
-title: "Grindelwald"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.624273
 longitude: 8.036746
+title: Grindelwald
+type: location
 ---
 
-Grindelwald is one of the most famous Swiss ski and winter sport resorts. Enveloped in a real scenic and unique alpine landscape, the world famous alpine peaks and mountains Wetterhorn, Eiger, Mönch and Jungfrau form the background scenery of the Grindelwald valley. The "glacier village" of Grindelwald, with its total surface area of 171 sqkm is the second largest community in the canton of Berne. The territory of Grindelwald rises from a height of 720 m above sea level to that of 4,107 m above sea level. The village itself lies at a height of 1,050 m above sea level and is home to 3,800 inhabitants and up to 7,000 guests.
+Grindelwald is a village at 1,050 metres in the Bernese Oberland, set in a valley beneath the Eiger, Mönch, and Jungfrau — three of the most famous peaks in the Alps. The north face of the Eiger, one of mountaineering's great challenges, looms directly above the village. Tourists have been coming here since the 17th century, and it remains one of Switzerland's most popular mountain resorts.
 
+In winter, Grindelwald is a base for skiing and snowboarding across the Jungfrau region's extensive network of lifts. In summer, the hiking is superb — trails lead to the Upper and Lower Grindelwald glaciers, across high alpine meadows, and up to viewpoints that take in the whole Bernese Oberland. The Eiger Trail, a path along the base of the north face, is one of the most dramatic walks in the Alps.
 
- 
- Grindelwald is a good example of being one of the first tourist centres in Switzerland. As early as the 17th century, tourists have visited Grindelwald, many of whom were of international origin. Grindelwald has become a popular destination for people from all over the world to pursue numerous sports, or a variety of recreational activities, as well as just for relaxation. Swiss guests alone provide for one fifth of the total bed nights and the majority of apartment rentals (130,000 overnight stays per year). Germans and Japanese, both with a quantity of about 100,000 overnight stays per year, are the most seen foreign guests in Grindelwald, followed by the Brits (about 50,000).
+The Jungfraujoch railway, which climbs through a tunnel inside the Eiger to the highest railway station in Europe at 3,454 metres, departs from nearby Kleine Scheidegg. It is expensive but the views from the top — across the Aletsch Glacier and into the heart of the Alps — are worth it on a clear day.
+
+Grindelwald is accessible by train from [Interlaken](/europe/switzerland/interlaken) in about 35 minutes, with no need for a car.

@@ -1,20 +1,16 @@
 ---
-title: "Goslar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.905994
 longitude: 10.426628
+title: Goslar
+type: location
 ---
 
-The history of the imperial town of Goslar goes back more than a thousand years - is was founded in 922 by Heinrich (Henry) I. Goslar gained its wealth mainly by mining silver ore: the discovery of the forst silver veins probably moved the Saxon and Salian emperors to build their biggest and safest palace complex on this site. It became the preferred seat of government in the northern part of Germany and remained so for centuries. At the same time a centre of the Christian faith arose here.
+Goslar is a thousand-year-old imperial town at the northern edge of the Harz mountains, founded in 922 by Heinrich I. Its wealth came from silver — the mines of the Rammelsberg drew Saxon and Salian emperors here, and they built their biggest palace complex on this site. For centuries Goslar was the preferred seat of government in northern Germany, and a centre of the Christian faith grew up alongside it.
 
+The oval-shaped old town packs itself into a single square kilometre and is extraordinarily well preserved. At its heart sits the Kaiserpfalz, a mighty Romanesque imperial palace with commanding views over the town. The skyline is defined by spires and towers — 47 churches and chapels once stood here, and the five great parish churches still dominate the roofline today.
 
- 
- The oval-shaped heart of the old part of the town was built in a very confined area covering one square kilometre. Drive once to the Kaiserpfalz (imperial palace), where you can enjoy the fascinating view of the mighty palace built in the Romanesque style. With its numerous spires and towers, 47 churches and chapels characterize the town's unique silhouette. Even today, the view of the town with the spires of five big parish churches is impressive.
+Behind the palace, the Rammelsberg rises more than 600 metres. The ore mine there operated continuously for over a thousand years before closing in 1988. Both the mine and the medieval old town have been on the UNESCO World Heritage list since 1992.
 
-
- 
- A wonderful natural background is provided by the Rammelsberg, more than 600 metres high, towering up directly behind the palace. The former ore mine there was only closed in 1988. This and the medieval old part of the town have been on the "UNESCO List of the Cultural and Natural Heritage of Mankind" since 1992.
-
-
- 
- All ways are short in the old part of the town. Going down "Hoher Weg" the visitor first passes the Grosses Heiliges Kreuz, a hospice dating from the Middle Ages. Shortly after that he is already in the centre and sees an impressive market square with the Gothic town hall and the splended guild house "Kaiserworth". Something of an adventure are the many narrow and still cobbled lanes and alleys in the old part of the town, where every house tells its own story. Secluded corners are waiting to be discovered.
+All distances in the old town are short. Walking down the Hoher Weg you pass the Grosses Heiliges Kreuz, a medieval hospice, before reaching the market square with its Gothic town hall and the splendid guild house Kaiserworth. The narrow cobbled lanes and alleys reward wandering — every house tells its own story, and secluded corners wait to be discovered.

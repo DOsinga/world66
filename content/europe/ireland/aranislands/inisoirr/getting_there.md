@@ -1,29 +1,12 @@
 ---
-title: "Getting There in Inis Oirr"
+title: "Getting There"
 type: section
 ---
 
-**The island can be visited by sea or by aer.
+Inis Oirr is reachable by sea from both Galway and Doolin, or by air from Connemara.
 
-****Sea:****Galway:
-There are 2 boats daily leaving Rosavil in Conamara with a connecting bus from Galway city.
-Contact:
+**From Galway:** Aran Island Ferries runs two boats daily from Rossaveal (Ros an Mhil) in Connemara, with a connecting bus from Galway city. The crossing takes about 45 minutes.
 
-Aran Island Ferries phone: +353 91-568903
-web address: www.aranislandferries.com**
-**Clare, Doolin:
-There are 3 companies running from Doolin to Inis Oírr from around April to October.
-Contact:**
-**Doolin Ferries phone: +353 65-7075555
-web: obrienline.com
-Doolin2Aran Ferries phone: +353 65-7075949
-web: www.doolin2aranferries.com
-Aran Doolin Ferries phone: +353 65_7074455
-web: www.doolinferries.com
+**From Doolin, Co. Clare:** Three ferry companies operate from Doolin pier to Inis Oirr from roughly April to October. The crossing is short — about 20 minutes in good weather — but can be rough when the Atlantic is up.
 
-****Aer:****You can book yourself a seat on the daily flights to Inis Oirr with
-
-Aer Arann Islands phone: +353 91-593034
-web: www.aerarannislands.com
-
-**
+**By air:** Aer Arann Islands flies daily from Connemara Airport (near Inverin) to all three Aran Islands. The flight takes about 10 minutes and the views are spectacular.

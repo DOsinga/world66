@@ -3,12 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-**Rail** 
+The nearest railway station is Kathgodam, 35 kilometres downhill, with connections to Delhi, Lucknow, Bareilly and other cities in northern India. From Kathgodam, shared taxis and buses make the winding climb up to Nainital in about an hour.
 
-Nearest railway station is at Kathgodam – 35 km, which is connected by metre guage to Agra, Bareilly and Lucknow. Some of the important train connections are - 
-
- 1) Howrah-Kathgodam Exp 3019up-3010dn 
-
-**Road** 
-
-Nainital is connected by road to major centres of northern India, some of the major road distances are:   Almora – 62 km. Agra – 379 km. Delhi – 277 km. Kausani – 117 km Ranikhet – 60 km. Corbett (Dhikala) – 128 km. Bareilly – 141 km.
+By road, Nainital is roughly 277 kilometres from Delhi (six to seven hours by car), 141 kilometres from Bareilly, and 62 kilometres from the hill town of Almora. State-run and private buses operate regularly from Delhi's Anand Vihar terminal. The road climbs steeply through pine forest for the last stretch, with sharp switchbacks above Bhowali.

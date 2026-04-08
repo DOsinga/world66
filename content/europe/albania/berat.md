@@ -1,8 +1,10 @@
 ---
-title: "Berat"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.701864
 longitude: 19.958076
+title: Berat
+type: location
 ---
 
 Berat is one of the most beautiful towns in Albania and, with [Gjirokastër](/europe/albania/gjirokaster), is a UNESCO World Heritage Site for its remarkably well-preserved Ottoman architecture. The nickname "town of a thousand windows" refers to the distinctive Ottoman-era houses stacked up the hillside, each with rows of large windows looking out over the Osum river valley.

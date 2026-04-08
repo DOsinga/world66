@@ -1,18 +1,14 @@
 ---
-title: "Hull"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 53.762386
 longitude: -0.330121
+title: Hull
+type: location
 ---
 
-Hull is a major port in England. Many people just get off the boat here and immediately move on. It would be a pity. Hull has quite a few things to offer to travelers.
+Officially Kingston upon Hull, but nobody calls it that. Hull sits where the River Hull meets the Humber estuary on England's east coast, and for centuries it has been one of the country's major ports. Ferries from Rotterdam and Zeebrugge dock here, and many travellers step off the boat and head straight for [York](/europe/unitedkingdom/england/york) or the Yorkshire Dales. That is a shame — Hull has more to offer than its reputation suggests.
 
+The Old Town is the heart of it: 800 years of narrow cobbled lanes, old waterside inns, and Holy Trinity Church, one of the largest parish churches in England. The free museums are genuinely good — the Ferens Art Gallery, the Streetlife Museum of Transport, and the Hull and East Riding Museum are all worth a visit. William Wilberforce was born here, and his former home on High Street is now a museum dedicated to the abolition of the slave trade.
 
- Officially known as Kingston-upon-Hull, Hull - as it is better known - is a city and port in Humberside, England, situated at the junction of the Hull and Humber rivers. It is linked to the south bank of the estuary by a bridge completed in 1981. Hull was the birthplace of the English philanthropist William Wilberforce.
-
-
- The city centre has spacious pedestrianised shopping streets; distinguished public buildings, many recently refurbished; the Old Town, where Hull began about 800 years ago, offers narrow, cobbled lanes and quays; Holy Trinity Church, founded 700 years ago; 18th and 19th Century architecture; old waterside inns and a wide range of museums to which entrance is entirely free.
-
-
- 
- New leisure attractions in out historic dockland include an elegant yacht harbour, and Olympic-standard Ice Arena, a 34-lane 10-pin Bowling Centre and an extensive range of shopping facilities complementary to those in the heart of the City. There is also a satisfying variety of entertainment, theatrical and musical choice to meet the most demanding tastes - all brought together by many special and 'festive' events throughout the year and the ever present tang of the sea.
+The historic dockland area around the Marina has been revived with restaurants and bars, and The Deep — a striking aquarium built into the point where the rivers meet — is the city's most recognisable modern landmark. Hull was the UK City of Culture in 2017, and the investment from that era is still visible in the public spaces and cultural venues across the centre.

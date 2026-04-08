@@ -1,18 +1,16 @@
 ---
-title: "Nosy be"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -13.332
+longitude: 48.2631
+title: Nosy Be
 type: location
-latitude: -13.311953
-longitude: 48.253399
 ---
 
-Along the north-west coast lies a number of islands, the largest of which is Nosy Be. Marvelous beaches and coral reef in a protected national zone, natural lemur reserve, wonderful fishing, numerous nearby desert islands, all await the lucky traveller. 
+Madagascar's most popular island sits off the northwest coast, surrounded by warm turquoise water and dozens of smaller islands. Nosy Be draws visitors with its coral reefs, white sand beaches, and a relaxed pace that makes the mainland feel far away. The island is roughly three-quarters the size of Singapore, home to about 60,000 people, and serves as the center of what little tourism Madagascar has.
 
-The unfortunately named Hell-Ville is the largest town and port of Nosy Be (Big Island) Three-quarters the size of Singapore, Nosy Be has 60,000 inhabitants, half of whom live in Hell-Ville, and the island is apparently the centre of what little tourism exists in Madagascar (only about 150,000 tourists visit the country each year). 
+Hell-Ville, the main town and port, has a name that does it no favors but offers a good market, colonial-era architecture, and the practical services you need. Beyond town, the island is lush with ylang-ylang plantations, vanilla orchids, and pepper plants that give the air a heady fragrance.
 
+Small boats make the short crossing to [Nosy Komba](/africa/madagascar/nosybe), the "Lemur Island," where a village sprawls along the northern beach and black lemurs are so habituated to people that they will climb onto your shoulders for bananas. The surrounding jungle is textbook tropical paradise: wild fruit trees everywhere, chameleons sunning on branches, birds in every tree. The nearby island of Nosy Tanikely is a marine reserve with some of the best snorkeling in Madagascar.
 
-
-Small boats are available to make the short journey across to the nearby island of Nosy Komba (Lemur Island), where a pretty village sprawls along the northern beach. It is an enchanting spot, and the inhabitants are amiable, especially the ever-present children. Life here is simple, based on fishing, small-scale cultivation, and the rub-off from tourists arriving to see the 5,000 black lemurs that roam the island. At the end of the village, a small tribe of these delightful mammals is so habituated to human contact that they will jump onto one's shoulders to eat bananas out of one's hands. The nearby jungle defines the term "tropical paradise". Fruit trees grow wild all around, with lemons, oranges, bananas, papayas and mangos waiting to be plucked. Coffee bushes, vanilla orchids, pepper plants and other spices abound, chameleons sun themselves on the acacia branches, and birds sing in every tree. Life here feels good.
-
-
-
-*Contributed by Howard Banwell*
+The best time to visit is during the dry season from May to October, when the weather is warm and clear. Getting here usually means a short flight from Antananarivo to Fascene Airport, or a boat from Ankify on the mainland.

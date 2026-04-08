@@ -1,8 +1,10 @@
 ---
-title: "Sunnyvale"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 37.36883
 longitude: -122.036349
+title: Sunnyvale
+type: location
 ---
 
 Travel Guide

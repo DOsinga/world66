@@ -1,6 +1,14 @@
 ---
-title: "Gaeta - Ulysses Riviera"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 41.2114
+longitude: 13.5713
+title: Gaeta
 type: location
 ---
 
-Gaeta is a small Italian town, located just south of Rome en route to Naples, facing one of the most beautiful gulfs of Italy. Gaeta lies on a pictoresque peninsula over the Tyrranean sea and its strategic position and magic environment has made Gaeta a secure harbor since the time of the Roman Empire. Its coast was described by many ancient poets, like Homer and Virgil. This is the reason why the coast around Gaeta is called the "Ulysses riviera". (Cliff towns like Sperlonga or the mythological wilderness of Circeo). The golden beaches and many coves, scattered all over the coast, make of Gaeta a marvelous place to relax.. The old town with its enchanting promenades and picturesque alleys, the Angioino Aragonese Castle and the town's many beautiful buildings, make Gaeta famous for culture and history. It is also the perfect starting point to explore the most loved southern Italy's treasures as Pompei, Herculanum, Capri, Pontine islands, Caserta Palace, Montecassino Abbey, Pastena caves and the adjacent wilderness parks of Monte Orlando, Circeo, Sperlonga and Gianola. You can reach Gaeta by train from Rome or Naples, directed to Formia that is the nearest train station to Gaeta. From Formia you are only 10 minutes from Gaeta. Driving from Rome by car, the options are: Autostrada (Italian highway) A1, or the Roman road Appia ss7,or the coastal road Pontina ss148. The old part of town lords over the broad sweep of bay from its high, castle-topped headland, an appealing place at first sight (especially from the southern side), untidily piled up onto the pinnacle of its defensive rock. The fortress here was impregnable: it resisted Gothic and Saracen invaders and the town flourished under the Normans, some of its architecture dating
+Gaeta sits on a rocky peninsula jutting into the Tyrrhenian Sea, about halfway between [Rome](/europe/italy/lazio/rome) and [Naples](/europe/italy/campania/naples). The coast here was described by Homer and Virgil — the stretch from Gaeta south to Sperlonga is still called the Riviera di Ulisse — and the town has been a strategic harbour since Roman times.
+
+The old town piles up steeply on the headland, crowned by the Aragonese-Angevin castle and threaded with narrow alleys that open suddenly onto sea views. Below, golden sand beaches line the bay — Serapo, the main beach, is one of the best on the Lazio coast. The town is popular with Italian weekenders from Rome but sees relatively few international visitors, which keeps it genuine.
+
+Gaeta also makes a good base for day trips along this stretch of coast: the cliff-perched town of Sperlonga, the ruins of Tiberius's grotto, and the wild headland of Monte Circeo are all within easy reach. Formia, the nearest train station, is a ten-minute bus ride away and has frequent connections to both Rome and Naples.

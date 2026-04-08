@@ -1,15 +1,8 @@
 ---
 title: "Santa Rosa"
 type: poi
-latitude: -8.527077
-longitude: -78.067262
+latitude: -6.8536
+longitude: -79.9456
 ---
 
-Santa Rosa has little or no touristic infrastructure. It's a fishing village and nothing more.
-
-The beach is a shipyard, with dozens of boats laying about being renovated. Cane rafts abound. At the entrance of the village coming from Pimentel, there is a fish processing factory, which you can just walk into -- if you can stand a whole lot of people staring at you like you're a bit of an alien.
-
-**Contributors**
-May 10, 2006
-
-February 14, 2008
+Santa Rosa is a working fishing village with no tourist infrastructure. The beach is essentially a shipyard — dozens of boats in various stages of repair, traditional cane rafts (*caballitos de totora*) lined up on the sand. At the village entrance coming from Pimentel, a fish processing factory offers an unfiltered look at the local industry. Interesting to see, but this is not a swimming beach.

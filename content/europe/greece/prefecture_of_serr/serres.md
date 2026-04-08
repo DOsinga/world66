@@ -1,14 +1,10 @@
 ---
 title: "Serres"
 type: location
-latitude: 41.091071
-longitude: 23.549803
+latitude: 41.0911
+longitude: 23.5498
 ---
 
-Travel Guide
+Serres is the capital of the prefecture, a city whose roots go back to at least the fifth century BC — Herodotus called it Siris. It became one of the most important cities in the Byzantine empire, praised by contemporary writers as "great and admirable." The centuries since brought waves of conquerors — Franks, Bulgarians, Serbians, Ottomans — each leaving their mark. The Ottoman period lasted 530 years, and traces of it remain in the old town alongside Byzantine churches and the medieval acropolis with the tower of Orestis.
 
-Serres is main city of Prefecture of Serres.
-
-**history of the city of serres.**
-
-The city of Serres appears for the first time in history at the beginning of the 5th century AC Herodotus refers to it with the name Stris and to its inhabitants with the name Siropaiones. After Herodotus, Theopompos refers to it with the name Sira. The most ancient inscription found in Serres is Roman and it can be seen at the museum of Serres. The name of the city probably comes from the ancient word Sirios that means Sun, The more ancient relics found are from the Roman era.The city of Serres becomes the most important and prosperous city of the seventh province of the Byzantine empire. During the 8th century Serres plays a very important role in the greek history. The Byzantine writers refer to it as "great and admirable city", "powerful", "prosperous" and "metropolis". During the Middle Ages it suffered a lot of destructions and it was enslaved by many conquerors. The Franks conquered it in the end of year 1204. In 1205 the tzar of Bulgaria Ioannis A' conquered the city and destroyed it completely. In 1245, the city came to the possession of the emperor of Nicea, loannis Vatatzis. In 1345 the ruler of Serbia conquered the city of Serres and built the tower of the acropolis, known as the tower of Orestis. The city came to the possession of the King of Thessaloniki, Manouil B' in 1371. In 1383, the Turks conquered the city which state under Turkish occupation for 530 years.
+Today Serres is a pleasant mid-sized Greek city, not overrun by tourists, with a museum displaying Roman-era inscriptions and a lively market town atmosphere.

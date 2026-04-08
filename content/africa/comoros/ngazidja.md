@@ -1,8 +1,10 @@
 ---
-title: "Ngazidja"
-type: location
-latitude: -11.7500
+done:
+  location_cleanup: '2026-04-08'
+latitude: -11.75
 longitude: 43.3333
+title: Ngazidja
+type: location
 ---
 
 Known to the French as Grande Comore, Ngazidja is the largest and most populous of the Comoros islands, home to around 400,000 people and to Moroni, the national capital. It is the island most visitors see first, and for many it is the only one -- which is a pity, because the other islands are equally compelling. But Ngazidja has enough to justify several days.

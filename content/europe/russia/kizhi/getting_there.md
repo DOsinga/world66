@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-The capital of Karelia-Petrozavodsk city is the point from where you can get to the Kizhiby the hydrofoils **"Cometa"** or **"Colkhida"**.
-
-On a regular basis they carry visitors from the Petrozavodsk port to the **Kizhi** outdoor museum. 
-
-The best airticket prices to Karelia you can get on the Priceline.com. The connection to the site is provided at the Links section.
+The main gateway to Kizhi is [Petrozavodsk](/europe/russia/kizhi/karelia), the capital of Karelia. From there, hydrofoils — the **Cometa** and the **Kolkhida** — run regularly across Lake Onega to the island. The journey takes around an hour and a quarter and the ride across the open lake is a good introduction to the scale of the place.

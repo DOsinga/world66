@@ -1,26 +1,16 @@
 ---
-title: "Yazd"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 32.040616
 longitude: 54.665719
+title: Yazd
+type: location
 ---
 
-Yazd is a pretty old town and has always played a major role in Persia's long long history. Surprisingly enough, Yazd never made it to capital of an empire during all those centuries. However there are enough historical monuments for any travelers taste.
+Yazd is one of the oldest continuously inhabited cities in the world, set in the desert between Isfahan and Kerman. It has played a role in Persian history for millennia but never made it to imperial capital — which may be why its old city has survived so well. The mud-brick labyrinth of lanes, domed roofs, and badgirs (wind towers) was recognised as a UNESCO World Heritage Site in 2017.
 
+The wind towers are the city's most distinctive feature: tall chimneys that catch desert breezes and funnel cool air down into the rooms below, an ingenious form of natural air conditioning perfected over centuries. They punctuate the skyline everywhere you look.
 
- The tomb of Sayyid Rukn ad-Din dates form the 14-th century. The Time and Hour (Vaqt-u-Saat) Mosque is all that remains of a complex erected to his orders known as the Institute of Time and the Hour whose mechanical devices made it one of the wonders of the age. 
+The Jameh Mosque (Friday Mosque) is one of the great sights of Iran. Its twin minarets are the highest in the country, and the portal is decorated from top to bottom in dazzling tilework, predominantly blue. Inside, the sanctuary chamber under a squat tiled dome contains an exquisite faience mihrab dated 1365 — one of the finest of its kind. The bazaar entrance nearby rivals the mosque for grandeur, with glazed tiles and plaster stalactite vaulting.
 
-
- 
- The Friday Mosque is one of the major sights. Crowned by the highest minarets of all mosques in Persia, the protal's facade is decorated from top to bottom in dazzling tilework, predominantly blue in color. Within there is a long arcaded court where, behind a deep-set south-east Ivan, is a sanctuary chamber. This chamber, under a squat tiled dome, is exquisited decorated with faience mosaic: its tall faience Mihrab, dated 1365, is one of the finest of its kind in existence. The Mosque was largely rebuilt between 1324 and 1365, and is one of the outstanding 14th century buildings in Persia. The tilework has recently been skilfully restored and a modern library built to house the mosque's valuable collection of books and manuscripts. 
-
-
- The Bazaar is great for shopping, but the entrance is a an attraction in its own right. The twin minarets rival those of the Jami' Mosque, while the entire facade is decorated with glazed titles and plaster stalactite vaulting. The wooden framework is decorated and carried during the procession for the mourning for Imam Husayn. 
-
-
- 
- 
- The "Fire Temple" is one of the most important remaining temples of the Zorroastrians a religion older than Christianity or Islam. The initiated meet there, but nobody apart form the Grand Priest, a descendant of the Magi, reciting the Avesta, has access to the Saint of Saints where for th past 3000 years a fire burns in a brazen vessel. The fire itself is a representation of what is good. The "Towers of Silence" are used by the Zoroastrians as part of their burial ceremony. They overlook an impressive desert and mountain landscape. 
-
-
- A special attraction of Yazd are the windtowers. Yazd can get very very hot in the summer and in earlier days when there was no such thing as aircon they had windtowers: high chimenys acting as air-vents bring some comfort to these dwellings.
+Yazd is also one of the most important centres of Zoroastrianism, the ancient Persian religion that predates both Christianity and Islam. The Atashkadeh (Fire Temple) houses a flame that is said to have burned continuously for over 1,500 years. On the outskirts of town, the Towers of Silence — circular stone platforms where the dead were once laid out for the birds — overlook an impressive desert and mountain landscape.

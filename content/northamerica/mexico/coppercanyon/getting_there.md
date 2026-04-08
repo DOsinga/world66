@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Although accessible by a dirt road through the mountains, the canyon is more comfortably visited by train. 
+The classic way to reach Copper Canyon is by the El Chepe (Ferrochihuahua) train, which runs between Los Mochis on the Pacific coast and Chihuahua City, climbing through 86 tunnels and across 37 bridges. If you board in Los Mochis, aim for the early morning departure — the most dramatic scenery between El Fuerte and Creel unfolds during daylight hours. Travelling east to west from Chihuahua, the train departs around 6am.
 
-For a scenic journey through the heart of Copper Canyon, board a train in Los Mochis at 7:00 a.m. central time. That way you can enjoy the view between El Fuerte and Creel during daylight hours. 
-
-Running in the opposite direction the train departs Chihuahua at approximately 6am. Two trains run, a first class which is exclusively tourist and second class where you get to mix with the locals. Even the second class is a comfortable airconditioned train and the onboard entertainment is so much better.
+Two services run the route: a first-class tourist train and a regional second-class service that mixes locals with travellers. The second-class train is perfectly comfortable, air-conditioned, and considerably cheaper. The canyon is also reachable by a rough dirt road through the mountains if you're driving, but the train is the reason most people come.

@@ -1,18 +1,16 @@
 ---
-title: "Norrköping"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 58.5909
+longitude: 16.1904
+title: Norrköping
 type: location
-latitude: 58.590912
-longitude: 16.190351
 ---
 
-Travel Guide
+Norrköping is a former textile and manufacturing city on Sweden's east coast, about 160 kilometres south of Stockholm. Its defining feature is the **Industrilandskapet** — a cluster of 19th-century factories along the Motala Ström river, beautifully repurposed into a university campus, concert halls, and museums. The old industrial buildings give the city centre a character quite different from other mid-sized Swedish towns.
 
-Norrköping is located on the Swedish east coast, some 160 km to the south of Stockholm. Population: Approx 125,000.
+The city earned its charter in 1384 and owes much of its industrial heritage to Walloon immigrants, most notably the 17th-century industrialist Louis de Geer. Textile mills powered the economy for centuries, though the industry collapsed in the 1970s. Norrköping reinvented itself around education and tech, anchored by a campus of Linköping University right in the old factory district.
 
-Norrköping received its city privileges in 1384, by king Albrekt of Mecklenburg, although the area has been inhabited for much longer. Throughout its history, the city has been characterised by trade, due to its favourable location at the end of the bay Bråviken, and manufacturing. The latter industry was founded in the 17th century by Wallon immigrants, most notably by industrialist Louis de Geer, who still today is considered to be one of the city's most important persons - ever. The manufacturing industry remains important, especially production of paper of pulp. Nevertheless, Norrköping has been hit several times by massive shutdowns, particularly in the seventies, when the Swedish textile industry was almost wiped out, and in the nineties, when then largest private employer Ericsson cancelled its telecom component production. Today, Norrköping has changed more towards the service industry and smaller high-tech companies, fuelled by the installation of a branch of the Linköping University in the city centre.
+Beyond the centre, the surroundings offer genuine variety. **Kolmården Zoo**, one of the largest in Europe, sits in deep forest northeast of town. The **Bronze Age rock carvings at Himmelstalund** are among the finest in Scandinavia, with hundreds of figures carved into flat rock surfaces some 3,000 years ago. For outdoor pursuits, the archipelagos of Sankt Anna and Gryt to the east provide excellent kayaking and island-hopping.
 
-Major sights in Norrköping includes "Gamla Industrilandskapet", where industrial facilities from the 19th century have been refurbished into a university and business campus, "Kolmårdens djurpark", one of Europe's largest zoos, and the bronze age rock carvings at Himmelstalund. Norrköping is also a good base for outdoor activities in a wide variety of settings, ranging from the spectacular forest of Kolmården, via the agrarian fields of Vikbolandet, to the archipelago of S:t Anna and Gryt. Outdoor activities include hiking, canoeing, rock climbing and bicycling.
-
-Norrköping is the cultural hub of the Östergötland province. The Norrköping Philharmonic Orchestra has toured throughout the world, and the Östgötateatern theatre is one of the most important Swedish stages outside of the three largest cities. There are also a multitude of smaller venues and amateur cultural societies.
-
-Recurring events in Norrköping includes: Walpurgis mass bonfires on April 30, National Day celebration on June 6, Night of Culture, the last weekend of September, the Bel Canto S:t Lucia concert on December 13 and the "City of Light" walks around Christmas.
+Norrköping is also a strong cultural centre for the Östergötland region. The Norrköping Symphony Orchestra has an international reputation, and the Östgötateatern is one of Sweden's most respected regional theatres. Recurring events worth timing a visit around include the Night of Culture in late September and the "City of Light" illuminations around Christmas.

@@ -1,48 +1,10 @@
 ---
 title: "Eating Out"
 type: section
-accessibility: "walking distance from university gate"
-address: "Lopez Avenue, Los Baños"
-price: "$2 - up"
-type: "Local"
-latitude: 14.178011
-longitude: 121.242311
 ---
 
-### [LB Square](/asia/philippines/losbanos/eatingout/lb_square)
+Los Baños has a solid eating scene fueled by the University of the Philippines campus nearby. Most of the action is along Lopez Avenue and the streets around the UP Los Baños gate.
 
-LB Square is the place to go after office for a few rounds of drinks and also for dinner and another few rounds of drinks. :)
+**LB Square** on Lopez Avenue is the place to go after work for dinner and a few rounds of drinks. The Square offers a spread of Filipino and Asian food — Japanese, Thai, inasal, sisig — and an adjacent spot serves pasta, sandwiches, and grilled pizza. It gets busy from 6pm onwards, with live bands on Thursday nights.
 
-The Square offers an array of food: Japanese, Thai, and some regional specialties: inasal, sisig, etc. An adjacent resto (may be I'll make an entry for that also) serves good pasta, sandwiches and grilled pizza.
-
-The Square is most alive during 6pm to 2am.
-
-Live bands play during thursdays (I think).
-
-type: Local
-
-
-
-[[rate it]](/asia/philippines/losbanos/eatingout/lb_square)
-
-accessibility: walking distance from university gate
-
-address: Lopez Avenue, Los Baños
-
-PriceOfMenu: $2 - up
-
-### [Bonito's](/asia/philippines/losbanos/eatingout/bonitos)
-
-Where do you get freshly made pasta in Los Baños, nay Laguna? Bonito's is the place. It's just a few meters down from the UP Los Baños gate, this place started out as a hole in the wall, now they've got the whole wall and more.
-
-It's an unassuming place - tiled tables with printed placemats under a tent with a small pond and lots of greens, it's actually a nice place to hang out at with friends. Lunch may be hot, but just the same it's full during school days. At night you can choose your poison - ice cold beer, French wines, freshly brewed hot [more..](/asia/philippines/losbanos/eatingout/bonitos)
-
-type: International
-
-
-
-accessibility: very accessible
-
-address: Demarses Ave. cor. Lopez Ave., Grove, College, Los Baños, Laguna
-
-PriceOfMenu: $1-6
+**Bonito's**, just a few meters from the UP Los Baños gate, started as a hole in the wall and has grown into a proper restaurant with tiled tables, printed placemats, a small pond, and plenty of greenery under a tent. The freshly made pasta is the draw — a rarity in this part of Laguna. It fills up at lunch during school days and turns into a relaxed evening spot after dark, with cold beer, wine, and good company.

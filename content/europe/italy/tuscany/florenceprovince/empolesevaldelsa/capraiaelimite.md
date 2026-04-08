@@ -1,29 +1,14 @@
 ---
-title: "Capraia e Limite"
-type: location
-latitude: 43.759563
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.7596
 longitude: 10.9997
+title: Capraia e Limite
+type: location
 ---
 
-Partly located on the slopes of the Montalbano hills, the territory of the Commune covers a typically hilly landscape.
+Capraia e Limite is a small comune on the slopes of the Montalbano hills between Florence and Empoli. It is not a conventional tourist destination, but the hills above the Arno here are laced with old walking trails that follow medieval trade routes, passing Romanesque churches and rural estates.
 
+The parish church of **San Jacopo a Pulignano** (visible from the outside only) and the **Abbey of San Martino in Campo**, built around the year 1100 near Artimino, are worth seeking out. On the Bibbiani hills east of Montereggi, a 16th-century villa built by the Frescobaldi family was later transformed by Cosimo Ridolfi into a Romantic-style park with a botanical garden containing 120 species of trees — Giacomo Puccini was a regular visitor.
 
- 
- It is covered with a network of mountain-walking trails, leaving from the peak to reach either Limite or carry on to Capraia. Along these trails, which are likely to follow the ways of trade routes of the Montalbano, we often come across architecturally interesting religious buildings, constructed in Mediaeval times. The rural churches in Romanesque style of S. Jacopo a Pulignano (only visible from the outside) and the Abbey of San Martino in Campo (built around the year 100 near Artimino) are worth visiting.
-
-
-
-
- 
- 
- On the Bibbiani hills, East of Montereggi, a villa was built by the Frescobaldi family in the 16th Century which was later transformed in the early 1800s by Cosimo Ridolfi, who created a "Romantic" park, often visited by Giacomo Puccini, and a botanical garden with 120 different types of trees.
-
-
-
-
- 
- The history of Capraia and Limite is linked to the fact that it is crossed by an important waterway, the River Arno, which encouraged settlement and increased economic and cultural exchanges.
-
-
- 
- The River was also the cause for the increase in shipbuilding which started in the 1400s, also favoured by the fact that the area contains thick woodland of suitable materials, thus creating a tradition of "Axe Masters" which has continued to the present day, with individual talents of a national level and craftsmanship used in the production of ships for high sea and competitions, in the shipyards that are still working and flourishing. The link with the river gave rise to the creation of the Limite Canoe Society in 1861 (the first canoe society in Italy).
+The commune's history is tied to the Arno. The river encouraged settlement and trade, and from the 1400s onward Limite became a shipbuilding centre, using timber from the surrounding forests. The tradition of master boatbuilders continues today, with working shipyards producing racing and sea-going vessels. Limite's canoe society, founded in 1861, is the oldest in Italy.

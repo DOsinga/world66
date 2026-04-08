@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Mol"
+title: "Bars and Cafes"
 type: section
 address: "Kloosterstraat 14"
 phone: "+32 (0)14 311519"

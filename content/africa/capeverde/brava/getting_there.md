@@ -1,10 +1,8 @@
 ---
-title: "Getting There in Brava"
+title: "Getting There"
 type: section
 ---
 
-Brava has an airport near Fajã d’Agua but it is closed. Entry to the island is therefore exclusively by ferry from Fogo. Schedules are erratic and passengers should enquire locally and be prepared to wait for transport a day or so. This is of course particularly important to note for travellers returning home; they should have a couple of spare days to be sure to reach their flight on Sal or at Praia.
-The lucky traveller will catch the big ro-ro ferry which also connects with Praia. The less lucky – or more adventorous – takes the small boat that can carry maximum 30 passengers. It was not built for taking people, and passengers have to hang on to whatever support they can find. The sea is usually rough between Fogo and Brava. The choice is then between staying on the open deck, which means becoming soaking wet, or moving inside, which means becoming sea-sick. The travel takes one hour.
+Brava has no working airport -- the old airstrip near Faja d’Agua is closed. The only way to reach the island is by ferry from [Fogo](/africa/capeverde/fogo), and getting here requires patience and flexibility.
 
-**Contributors**
-January 12, 2009
+The ferry schedule is erratic. Enquire locally and be prepared to wait a day or two for a crossing, especially on the return -- build spare days into your plans if you have a flight to catch from Sal or Praia. On a good day you will get the large ro-ro ferry that also connects with Praia. Otherwise it is the small boat, built for cargo rather than passengers, with room for about 30 people clinging to whatever they can find. The sea between Fogo and Brava is usually rough. You can stay on the open deck and get soaked, or go below and get seasick. The crossing takes about an hour.

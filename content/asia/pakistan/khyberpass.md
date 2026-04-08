@@ -1,18 +1,18 @@
 ---
-title: "Khyber Pass"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.094027
 longitude: 71.144142
+title: Khyber Pass
+type: location
 ---
 
-The Khyber Pass is situated in the Sulaiman Hills which form the western barrier of Pakistan. The hills dip down here, leaving a passage sometimes as broad as 1 ½ kms (1 mile) and sometimes as narrow as 16 metres (42 feet). The Pass begins near Jamrud Fort (18 kms 11 miles) from [Peshawar](/asia/pakistan/peshawar) and extends beyond the border of Pakistan at Torkham 58 kms away. At Torkham PTDC has a Motel-cum-Information Centre which is closed at present due to unsettled conditions in Afghanistan. 
+The Khyber Pass is one of the most storied mountain crossings in the world — a narrow corridor through the Sulaiman Hills that has funnelled armies, traders, and conquerors between Central Asia and the Indian subcontinent for millennia. Alexander the Great came through here. So did Genghis Khan, Babur, and countless others whose ambitions hinged on controlling this gap.
 
+The pass runs 58 km from [Peshawar](/asia/pakistan/peshawar) to the Afghan border at Torkham. It begins near Jamrud Fort and rarely widens beyond 1.5 km — at its narrowest point, the walls close to just 16 metres. That physical constriction is what made it strategically irreplaceable, and what makes it feel so charged even today.
 
+The road passes Ali Masjid and its fort, where the insignia of every regiment that served here is carved into the stone. Also along the route is the Sphola stupa, a Buddhist structure dating from the 2nd to 5th centuries AD — a reminder that before this was a military corridor it was a trade and pilgrimage route on the Silk Road.
 
+For rail enthusiasts, the Khyber Railway is something special. The British built it in 1920 at staggering expense, threading tracks through 34 tunnels and over 92 bridges and culverts, climbing 1,200 metres in the process. A pair of 1920s steam engines still push and pull two or three coaches along the line. The most dramatic stretch is the Changai Spur, where the track traces a "W" shape with two reversing stations to gain 130 metres of altitude in under a mile.
 
-
-
-
-You may travel by road from Peshawar via Jamrud fort which lies amongst low story hills capped with pickets manned by Khyber Rifles. Also on the way you will see Ali Masjid and the fort with insignia of the regiments that have served in the Khyber. On route is also the Sphola stupa of Buddhist period (2-5 centuries A-D) and Landikotal Bazaar until you reach the border post at Torkham. 
-
-For rail enthusiasts, there is also a Khyber railway. It threads its way through 34 tunnels crossing 92 bridges and culverts and climbing 1,200 metres. The British built it in 1920 at an enormous cost of Rs. Two million. Two or three coaches are pulled and pushed by two 1920 model steam engines. At one point, the track climbs 130 metres in less than a mile by means of the famous Changai Spur, a section of track shaped like a "W" with two reversing stations.
+Access to the pass requires a permit from the political administration in Peshawar, and the security situation near the Afghan border can change quickly. Check conditions before planning a visit.

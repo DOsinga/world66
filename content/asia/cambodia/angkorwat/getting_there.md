@@ -3,9 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Most tourists choose to fly direct into Siem Reap's airport, which is situated close to the ruins. Amongst the airlines that serve Siem Reap (REP), are Silk Air, Bangkok Airways, Royal Cambodge and Jetstar Asia.
+The gateway to Angkor is [Siem Reap](/asia/cambodia/siemreap), which has its own international airport (REP) with direct flights from Bangkok, Singapore, Kuala Lumpur, and other Southeast Asian hubs. The temples are just a few kilometers north of town.
 
-Alternatively, some travel up the Tonle Sap from Phnom Penh.
-
-**Contributors**
-December 09, 2005
+Alternatively, you can travel overland from [Phnom Penh](/asia/cambodia/phnompenh) by bus (five to six hours) or take the scenic boat up the Tonle Sap lake.

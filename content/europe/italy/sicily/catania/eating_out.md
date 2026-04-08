@@ -3,6 +3,8 @@ title: 'Eating Out'
 type: section
 ---
 
-Catania has a vibrant food scene centred around the fish market near Piazza del Duomo. The city is the birthplace of pasta alla norma, and you should try it here at least once. Horse meat is a local speciality that appears on many menus.
+Catania's food scene is one of the best in Sicily and cheaper than you'd expect. The city is the birthplace of pasta alla norma — rigatoni with tomato, fried aubergine, and salted ricotta — and every self-respecting trattoria does it well. Horse meat is a local speciality and appears on menus more often than visitors anticipate; arancini here tend to be pointy rather than round, which is an eastern Sicilian thing.
 
-**Osteria Antica Marina** on Via Pardo is a standout seafood restaurant. Point at your fish and tell them how you want it prepared. Friendly staff, some English spoken. Around 30 euros per person. Tel: +39 095 348197.
+The Pescheria market near Piazza del Duomo is the obvious place to understand what you'll be eating. The surrounding streets have trattorias that buy from the market in the morning and serve it at lunch.
+
+**Osteria Antica Marina**, Via Pardo 29, is a standout seafood restaurant. The practice is to point at what you want and say how you'd like it cooked. Friendly staff, some English spoken, around €30 per person. Tel: +39 095 348197.

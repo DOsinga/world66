@@ -1,15 +1,14 @@
 ---
-title: "Enschede"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 52.220985
 longitude: 6.894054
+title: Enschede
+type: location
 ---
 
-It depends on where you're coming from, but when you're arriving from the western part of the Netherlands, the first thing you want to do is probably get out of that train where you've been seated in for over two hours. The city centre of this student town of the east, is from a walkable distance of the train station.
+Enschede is a university city in Twente, the eastern corner of the Netherlands, about two hours by train from Amsterdam. It is the largest city in the region and has a youthful energy driven by the University of Twente and Saxion University of Applied Sciences.
 
+The Oude Markt is the centre of social life — packed with terraces in summer and busy with bars and restaurants at night. From there, shopping streets radiate outward around the Grote Kerk. The Rijksmuseum Twenthe has a solid collection of Dutch paintings.
 
- 
- As a result of its young population and being the main city of Twente, the old heart still beats vividly at the 'Oude Markt'. This square is packed with terraces during summer-time and transforms into a busy nightlife area at night where there is always a 'bruin cafe', such as 'de Kater', where you can have your beer, an 'eetcafe' to have a tasty dish of the day and a disco where you can dance the night away until the early hours. From the Oude Markt, you can set off for one of the many shopping streets that surround the church at the main square. For those interested in Dutch paintings, the Rijksmuseum has an interesting and elaborate collection of Dutch artists.
-
-
- On the 13th of May 2000, one of Enschede's residential quarters vanished as a result of a fireworks' catastrophe.
+On 13 May 2000, a fireworks storage facility in the residential neighbourhood of Roombeek exploded, killing 23 people and destroying hundreds of homes. The rebuilt neighbourhood is notable for its modern architecture and a memorial park.

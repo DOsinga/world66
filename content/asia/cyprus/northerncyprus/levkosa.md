@@ -1,10 +1,14 @@
 ---
-title: "Levkosa"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 35.1856
+longitude: 33.3823
+title: Lefkoşa
 type: location
 ---
 
-Turkish Nicosia, here called Levkosa, is north of the dividing “Green Line”. There is only one border crossing in Nicosia, near the old Ledra Palace Hotel. Cypriots, Greeks and Turks are not allowed to cross the borderline; only tourists can get a daily visa (see northern cyprus/getting there) – normally without bigger complications. It is a somehow strange feeling, to be able to switch the areas more or less easily, whereas locals are not allowed to visit their old home villages on the opposite side for now more than 25 years.
+Lefkoşa (Turkish Nicosia) is the northern half of the world's last divided capital, separated from its Greek counterpart by the UN-patrolled Green Line. Tourists can cross at the Ledra Street and Ledra Palace checkpoints — a strange experience, walking between two worlds in a matter of minutes.
 
-  The difference between the Greek and the Turkish part is easy to recognize. While the Greek new city in the south is modern and lively, Levkosa is traditional in style and facilities. There are several gothic structures and sights, as Selimiye Mosque or the Lapidary Museum. There is also a number of Ottoman style public buildings, such as the Arabahmet Mosque, the Büyük Han (Great Inn) or the Kumarcilar Han (Gamblers Inn).
+The difference is immediately visible. Where Greek [Nicosia](/asia/cyprus/nicosia) to the south is modern and commercial, Lefkoşa is quieter, more traditional, and full of layered history. Gothic churches converted to mosques sit alongside Ottoman-era caravanserais and crumbling Venetian walls. The Selimiye Mosque, originally built as the Cathedral of St. Sophia in the 13th century, still has its French Gothic structure intact beneath the added minarets. The Büyük Han (Great Inn), beautifully restored, is the finest Ottoman building on the island — its inner courtyard now houses shops and cafes.
 
- For more info on Greek Nicosia, see [Nicosia](/asia/cyprus/nicosia)
+For more on the Greek side, see [Nicosia](/asia/cyprus/nicosia).

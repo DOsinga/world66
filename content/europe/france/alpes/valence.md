@@ -1,22 +1,14 @@
 ---
-title: "Valence"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.933228
 longitude: 4.892081
+title: Valence
+type: location
 ---
 
-Valence, a town of south-eastern [France](/europe/france), capital of the département of Drôme, situated on the left bank of the Rhone, 65 miles south of [Lyon](/europe/france/alpes/lyon) on the railway to [Marseille](/europe/france/midi/cotedazur/marseille). The industries of this city include metallurgical products, textiles, leather goods, jewelry and munitions, as well as being a processing and trade center for the surrounding agricultural region. 
+Valence sits on the left bank of the Rhône, roughly halfway between [Lyon](/europe/france/alpes/lyon) and [Marseille](/europe/france/midi/cotedazur/marseille), and most travelers encounter it as a stop on the way south. That's a reasonable way to use it — the TGV pauses here, the autoroute passes just outside, and the old town is compact enough to explore in a few hours. Founded as a Roman colony and later a bishopric of some importance, Valence spent centuries caught between rival powers, which at least left it with decent architecture.
 
-**History** 
+The cathedral of Saint-Apollinaris is the one sight you should not skip. Built in the 11th century in the Romanesque style of the Auvergne and consecrated in 1095 by Pope Urban II, it has the solid, rooted feel of early medieval church-building at its best. Inside, look for the tomb of Pope Pius VI, who died here in French captivity in 1799 — an oddly affecting monument to the end of an era. The surrounding old town has the usual pattern of narrow streets and shaded squares, pleasant to wander without demanding too much.
 
-Known in ancient times as Valentia, this city was the capital of the Segalauni, and the seat of a celebrated school prior to the Roman conquest. It became a colony under Augustus, and was an important town of Viennensis Prima under Valentinian. It was the seat of a bishopric perhaps as early as the 4th century. 
-
-It was ravaged by the Alani and other barbarians, and fell successively under the power of the Burgundians, the Franks, the Arabs of Spain, the sovereigns of Arles, the emperors of Germany, the dukes of Valentinois, the counts of Toulouse, as well as its own bishops. These bishops were often in conflict with the citizens and the dukes of Valentinois, and to strengthen their hands against the latter the pope in 1275 united their bishopric with that of Die. 
-
-The citizens put themselves under the protection of the dauphin, and in 1456 had their rights and privileges confirmed by Louis XI and put on an equal footing with those of the rest of Dauphiné, the bishops consenting to recognize the suzerainty of the dauphin. In the 16th century Valence became the center of Protestantism for the province in 1563. The town was fortified by King Francois I. It became the seat of a celebrated university in the middle of the 15th century; but the revocation of the Edict of Nantes in 1685 struck a fatal blow at its industry, commerce and population. 
-
-**Highlights** 
-
-The cathedral of St. Apollinaris, which has an interesting apse, was rebuilt in the 11th century in the Romanesque style of Auvergne and consecrated in 1095 by pope Urban II. It suffered extensive damage in the French Wars of Religion, but it was restored in the first decade of the 17th century. The porch and the stone tower above it were rebuilt in 1861. The church contains the monument of Pius VI, who died at Valence in 1799. The library and the museum containing Roman antiquities, sculptures and a picture gallery, are housed in the old ecclesiastical seminary. 
-
-The most notable of the monuments erected it this city to its natives include those to Émile Augier the dramatist by the duchess of Uzès (1897), and to General Championnet.
+What makes Valence worth more than a fleeting glance is its position as a gateway to the Drôme, the département that spreads to the east. Drive an hour into that countryside and you are in lavender fields, small vineyards, and medieval villages that feel entirely removed from the motorway. The Drôme is one of those French landscapes that rewards slow travel — bring a detailed map and no fixed agenda.

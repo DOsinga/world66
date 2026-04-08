@@ -1,48 +1,16 @@
 ---
-title: "ChengDe"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 40.9507
+longitude: 117.9567
+title: Chengde
 type: location
-latitude: 40.950715
-longitude: 117.956703
 ---
 
-Travel Guide
+Two hundred and thirty kilometres northeast of Beijing, Chengde sits in a fold of the Yanshan mountains where the air is cooler and the pace noticeably slower. For three centuries this was the summer capital of the Qing emperors, who fled the Beijing heat to hold court here among lakes, pavilions, and forested hills. That imperial past is the reason to come: Chengde has one of the finest concentrations of eighteenth-century Chinese architecture anywhere, and it has not been overwhelmed by mass tourism.
 
-Chengde,
-lying in the northeast of Hebei Province, is close to Beijing,
-about 230 kilometers (140 miles) away, Tianjin, Tangshan and Qinhuangdao.
-The topography of Chengde is mainly divided into plateau and mountainous
-regions, including Yanshan, Yinshan and Qilaotushan mountains,
-as well as the Luanhe, Liaohe, Chaobaihe and Yixunhe rivers flowing
-through the city.
+The centrepiece is the Mountain Resort (避暑山庄 — literally "avoiding the heat mountain villa"), a vast walled park covering about 564 hectares. The Kangxi Emperor chose this valley in 1703, and his successors Yongzheng and Qianlong spent decades expanding it into a complex of palaces, pagodas, lakes, and meadows. Since the government followed the emperor, Chengde was effectively the political capital of the Chinese empire for much of the 1700s.
 
-Chengde, originally called Rehe was once the summer resort capital
-of the Qing Dynasty (1644-1911). It holds rich culture related
-to this history as well as many historic relics dating as far
-back as the Neolithic
-Age in this city. Ethnic groups such as Xiongnu, Xianbei,
-Qidan, Nvzhen, and Mongolian
-once led a nomadic existence in this region from the Qin (221BC-206)
-to the Ming Dynasty (1368-1644).
+Ringing the outside of the resort wall are the Eight Outer Temples (外八庙), built in architectural styles drawn from across China and its frontier peoples — Tibetan, Mongolian, Han. The most dramatic is the Putuo Zongcheng Temple, modelled on the Potala Palace in Lhasa. The Puning Temple, built in 1755, houses a 22-metre wooden statue of the bodhisattva Guanyin — the tallest of its kind in the world. The resort and temples together form a UNESCO World Heritage Site designated in 1994.
 
-As one of the first famous historic and cultural cities of the
-nation, Chengde has plenty of sceneries, with some of them being
-renowned both at home and abroad. The Mountain Resort and
-Eight Outer Temples are listed as the world cultural heritage sites,
-which have contributed towards Chengde being one of famous cities
-in the world.
-
-In 1703, Chengde was chosen by the Kangxi Emperor as the location for his summer residence. Constructed throughout the eighteenth century, the Mountain Resort (避暑山庄; literally "avoiding the heat mountain villa") was used by both the Yongzheng and Qianlong
-emperors. Since the seat of government followed the emperor, Chengde
-was a political center of the Chinese empire during these times.
-
-The elaborate Mountain Resort features large parks with lakes, pagodas,
-and palaces ringed by a wall. Outside the wall are the Eight Outer
-Temples (外八庙), built in varying architectural styles drawn from
-throughout China. The best-known of these is the Putuo Zongcheng Temple, built to resemble the Potala Palace in Lhasa, Tibet. The resort and outlying temples were made a UNESCO World Heritage Site in 1994. The nearby Puning Temple, built in 1755, houses the world's tallest wooden statue of the Bodhisattva Avalokiteśvara.
-
-Chengde's older name of *Rehe* (or *Jehol*) came from the name for the local river (热河; Pinyin:
-Rèhé) which translates as "hot river." The river was so named because
-it did not freeze in the winter. Most sections of the river are
-currently dry because of a new damming project.
-
-Another popular attraction of the Chengde area is Sledgehammer Peak (磬锤峰), a large rock formation in the shape of an inverted sledgehammer. A variety of other mountains, valleys, and grasslands lie within the borders of the city.
+Chengde's old name, *Rehe* (热河, "hot river"), came from the local river that refused to freeze in winter. Most of the river now runs dry following upstream damming, but the name stuck. The city itself is pleasant and manageable — a good base for two or three days.

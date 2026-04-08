@@ -1,15 +1,12 @@
 ---
-title: "Gujranwala"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 32.152531
 longitude: 74.193375
+title: Gujranwala
+type: location
 ---
 
-Travel Guide
+Gujranwala is Pakistan's fifth-largest city, an industrial centre in Punjab with a population of well over a million. It is known across the country as the "City of Wrestlers" — traditional Punjabi wrestling (pehlwani) has been a local passion for generations, and matches at Sheranwala Garden draw big crowds.
 
-**Gujranwala** is a city in Punjab with a population of 1,384,100 (2003). It is located at 32.16 0 North, 74.18 0 East. The district is an area of 3198 sq. m. Gujranwala is the 5th largest city in Pakistan. Punjabi is the daily used language here, however English and Urdu are extensively used too. The city has also always been known for it's famous wrestling which is why it is also called ***The City Of Wrestlers***. Food is enjoyed by all in Gujranwala. Hotels and restaurants prepare the top quality foods for their customers which are always popular such as **tikka's and kebabs**. *It is a city with lot of small industries*
-
-**Contributors**
-March 18, 2007
-
-September 11, 2007
+The city's other claim to fame is food. Gujranwala is a serious eating town: tikkas, kebabs, and nan with chai are the daily staples, and the street food stalls lining the main bazaars serve some of the best in Punjab. The birthplace of Maharaja Ranjit Singh, the great Sikh emperor, is the main historical sight.

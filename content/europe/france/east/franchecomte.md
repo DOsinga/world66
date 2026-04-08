@@ -1,34 +1,16 @@
 ---
-title: "Franche Comte"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 47.142585
 longitude: 6.132022
+title: Franche-Comté
+type: location
 ---
 
-The Franche Comte is a region located between the
-[Alsace](/europe/france/east/alsace),
-[Burgundy](/europe/france/east/burgundy) and
-[Switzerland](/europe/switzerland). You will find a bit of all three in this beautiful, hilly region, which produces great cheeses and fine wines to go with them. With 6000 km of navigable rivers, over 80 lakes and hundreds of ponds the area is great for people who love to swim, kayak, canoe or raft. The waterfalls of
-Herisson,
-Doubs and
-Ognon, and the lakes of Jura and Mille Etang de Haute-Saône are just some of the possible destinations.
+Franche-Comté is a region tucked between [Alsace](/europe/france/east/alsace), [Burgundy](/europe/france/east/burgundy) and [Switzerland](/europe/switzerland), and it borrows a little from each: the mountain character of the Swiss border, the rolling vineyards of Burgundy, and the forested quietness of Alsace. It is one of France's least-visited regions, which is precisely why it is worth visiting.
 
+The landscape is defined by water. Some 6,000 km of navigable rivers thread through the hills, along with more than 80 lakes and hundreds of ponds. The rivers — the Doubs, the Loue, the Lison, the Hérisson — cut dramatic gorges and drop into spectacular waterfalls. The [Loue valley](/europe/france/east/franchecomte/loue_valley) is the most celebrated, but the rivers of the Département of Doubs could fill a week of exploration on their own. For swimming, kayaking, canoeing and rafting, this is some of the best terrain in France.
 
- In the forests around these lakes and rivers there are plenty of paths and roads for hiking and biking. There are literally thousand of places to get lost and wander around in a peacful surrounding.
+The forests above the rivers are equally rewarding. Hundreds of kilometres of hiking and cycling paths wind through beech and fir trees, and in winter much of the higher ground becomes cross-country ski country.
 
-
- 
- 
- For the lovers of culture and history there are many things to do as well.
-Besançon, the region's capital city, has a great historic centre that is dominated by its spectacular astronomical clock. The Royal Salt Factory in
-Arc-et-Senans is on the UNESCO list and a great example of industrial architecture. There are beautiful châteaux in
-Arlay,
-Gy and
-Fabulys.
-
-## Destinations in Franche Comte
-
-[Besancon](/world/europe/france/east/franchecomte/besancon)
-[Vesoul](/world/europe/france/east/franchecomte/vesoul)
-[Dole](/world/europe/france/east/franchecomte/dole)
-[Loue valley](/world/europe/france/east/franchecomte/loue_valley)
+Culture is not neglected. Besançon, the regional capital, has a beautifully preserved old centre and a famous astronomical clock inside its cathedral. The Royal Salt Factory at Arc-et-Senans — a visionary 18th-century industrial complex — is a UNESCO World Heritage Site and worth a detour for anyone interested in architecture or history. The region also produces some excellent cheeses, above all Comté, and pairs them with wines from the Jura vineyards just to the south.

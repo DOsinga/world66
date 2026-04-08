@@ -1,14 +1,14 @@
 ---
-title: "Lake Louise"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.424967
 longitude: -116.177535
+title: Lake Louise
+type: location
 ---
 
-Travel Guide
+Lake Louise is one of the most photographed scenes in the Canadian Rockies — a turquoise lake set against the stark backdrop of Victoria Glacier, surrounded by snow-capped peaks inside [Banff National Park](/northamerica/canada/alberta/banff). Known as Canada's "Diamond in the Wilderness," the lake and its surroundings draw skiers, hikers, and anyone who wants to stand in front of genuinely jaw-dropping mountain scenery.
 
-Lake Louise is a beautiful mountain lake in the middle of Banff National Park in the Canadian Rockies . The lake is surrounded by snow-capped peaks, and at the far end is a large glacier. The lake is quite isolated, but provides a magnificent setting for a luxury resort, the Chateau Lake Louise.
+The area is home to one of North America's finest downhill ski resorts in winter, and in summer the trails fan out in every direction — from easy lakeside walks to full-day hikes up to alpine meadows and glaciers. Moraine Lake, a short drive away, rivals Lake Louise itself for sheer beauty. The iconic Chateau Lake Louise sits right on the shore, offering old-world elegance against a wilderness backdrop.
 
-Canada's "Diamond in the Wilderness," and the "Hiking Capital of Canada". This area offers a tremendous diversity of recreational and sightseeing opportunities. Lake Louise is home to one of North America's finest downhill ski areas, and has numerous hiking and walking trails. The region abounds with spectacular scenery, from glaciers to waterfalls.
-
-The Village of Lake Louise is on the Trans-Canada Highway fifty-seven kilometers (thirty-five miles) west of banff. This quiet and small village offers a range of travel amenities, fabulous dining opportunities and accommodations.
+The Village of Lake Louise sits on the Trans-Canada Highway, about 57 kilometres west of [Banff](/northamerica/canada/alberta/banff). It is small and quiet, with a handful of restaurants, shops, and places to stay. The pace here is deliberately slow — this is a place for a good book by the fireplace, a walk after dinner, and the stillness of the outdoors.

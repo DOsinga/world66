@@ -1,8 +1,14 @@
 ---
-title: "Imbituba"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -28.2418
+longitude: -48.6643
+title: Imbituba
 type: location
-latitude: -28.241827
-longitude: -48.664344
 ---
 
-Known national for its port, Imbituba also was célebre for the Praia do Rosa - that, according to surfistas, it has waves that they only lose for the ones of Fernando de Norinha. Also it gained fame for changedding itself, between May and November, in maternity of whale-frank, that they come to give birth and to suckle a its younglings in its waters and are well next to the coast, offering true show to the tourists. Valley to confer the parties of the tourist calendar, in special the Party of the Shrimp and the Festival of Summer, in January; the Week of the City, in June, and the Zimba Motion Beach, a meeting of motions that happens in November. Beach and Nature - the natural beauties of Imbituba are responsible for a true revolution to each summer, when the city is invaded by hordas of tourists who search its beaches, still almost intocadas many, beyond the lagoons, dunes, rivers and islands. The beaches of the Village, the Rose, the Bar, Ibiraquera and the Port, with classified waters as five stars for the ambient agency of the State, are of inconfundível beauty. The Beach of Itapirubá also gained fame for its characteristics of ecological preservation. The Lagoon of Ibiraquera is one of the most beautiful scenes of the e region is famous for fishes of the shrimp. It also visits the Lagoon of the Peri and the Way. Beyond beaches and lagoons, Imbituba also has some islands, as the Sant'Ana de Dentro, Sant'Ana de Fora, You plough, Tacami, Listener and the Islet of the Baton... It makes a stroll of escuna and it walks for the ecological tracks, that lead desert beaches or the mysterious lagoons... Tourist infrastructure - Imbituba counts on some hotels, inns and other forms of alternative lodging. The gastronômica net serves of barbecue the fruit-do-sea and the commerce is so attractive that many tourists come of other States to buy merchandises to resell in its cities.
+Imbituba is a small port town on the coast of Santa Catarina, about 90 km south of Florianópolis. For most of its modern life it was defined by its coal port, but it has gradually become known for something more appealing: whale watching. Between May and November, southern right whales migrate here to give birth and nurse their calves in the sheltered waters — you can watch them from the shore.
+
+The other draw is Praia do Rosa, a sweeping beach a few kilometres south of town with waves that have made it one of the premier surf spots in Brazil. The beach sits inside a bay ringed by green hills, and the village behind it has a low-key, end-of-the-road feel. Beyond Praia do Rosa, the coastline around Imbituba is largely unspoiled: dune-backed beaches, coastal lagoons, and fishing communities that haven't yet been overwhelmed by development.
+
+The town itself is modest — a working-class port with a market, a few restaurants, and the kind of low-key street life you find in places that haven't tried to reinvent themselves for tourism. That's part of the appeal.

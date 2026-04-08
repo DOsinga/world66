@@ -1,8 +1,16 @@
 ---
-title: "Weimar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.97933
 longitude: 11.329792
+title: Weimar
+type: location
 ---
 
-Despite its modest size (with only 60.000 inhabitants) Weimar has played an important role in the development of German culture. The name is still inseparably connected with Goethe, Schiller, Herder and Nietzsche, who all made it their home. The same did the Cranachs and J.S. Bach as well as the architects and designers of the Bauhaus school. Weimar's part in the politics of Germany is scarcely less significant: It was chosen as the seat of government of the democratic republic (Weimarer Republik) established after World War I, a regime that ended with the Nazi accession in 1933. One of the most notorious concentration camps was to be built here (Buchenwald) and its presevation is a shocking reminder of the fact, that Germany has not only been the country of "Dichter und Denker" (poets and philosophers), but also the one of "Richter und Henker" (judges and executioners).
+Despite its modest size — around 65,000 inhabitants — Weimar has punched far above its weight in German history. Goethe and Schiller both lived and worked here; so did Herder, Nietzsche, Liszt, and the Cranach dynasty of painters. J.S. Bach held his first major court appointment in the city. In the early twentieth century, Weimar gave its name to the democratic republic established after World War I, and Walter Gropius founded the Bauhaus school here in 1919. It is an extraordinary concentration of cultural legacy for a small Thuringian city.
+
+The darker threads run through the same fabric. Buchenwald, one of the largest Nazi concentration camps, sits on a ridge just north of the city. Its preservation as a memorial is sobering — and deliberately so. Weimar has never been able to separate its cultural glory from its proximity to that horror, and the city does not try to.
+
+The historic centre is compact and walkable. The Altstadt clusters around the Markt, and the park along the Ilm river — the Park an der Ilm — is a genuine pleasure, the kind of green space you wander into intending to spend twenty minutes and leave two hours later. Goethe's garden house stands in the middle of it.
+
+[Erfurt](/europe/germany/thuringia/erfurt), the Thuringian capital, is just fifteen minutes by train and worth a half-day. [Jena](/europe/germany/thuringia/jena) is nearby too, a university city with a different character. Weimar works well as a base for exploring central Thuringia.

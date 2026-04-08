@@ -3,12 +3,12 @@ title: "Tupiza"
 type: location
 latitude: -21.443772
 longitude: -65.720837
+done:
+  location_cleanup: 2026-04-08
 ---
 
-It´s a small city, with nothing much to do. But it´s located in a fantastic mountain area. It´s a great place for horsebackriding, in a western-style landscape. The canyonfloors are perfect for galoping until your ass comes off. You can do jeep tours in the region, which includes the grand Salar de Uyuni and various highland lakes. And it´s cheap: four days, all included should be no more than 100 dollars.
+Tupiza is a small town in southern Bolivia set in a spectacular landscape of red rock canyons, eroded pinnacles, and dry river valleys that looks like something out of a Western film. This is where Butch Cassidy and the Sundance Kid met their end — or so the story goes — and horseback riding through the canyons is the classic way to experience the scenery.
 
-And if you want to do something in town, you can always cirkel around the plaza again and again, like the locals do for entertainment.
+The town itself is quiet and unremarkable, but it has become a popular base for jeep tours to the Salar de Uyuni and the high-altitude lakes of the Eduardo Avaroa Reserve. The southern approach via Tupiza is less crowded than the more common route from [Uyuni](/southamerica/bolivia/uyuni), and the four-day tours are remarkably affordable.
 
-There is a verry large tourist population in this town, but you can easily avoid the herd by not going to the city´s self-proclaimed "First and Best" hotel/hostel.
-
-Minor corrections on 23 August 04
+The surrounding valleys are ideal for hiking and mountain biking as well as riding. The canyon floors are flat and open, and the red rock formations are at their most dramatic in the late afternoon light.

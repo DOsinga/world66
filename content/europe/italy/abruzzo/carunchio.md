@@ -1,21 +1,14 @@
 ---
-title: "Carunchio"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 41.916634
 longitude: 14.526722
+title: Carunchio
+type: location
 ---
 
-Travel Guide
+Carunchio is a quiet hilltop village in southern Abruzzo, the kind of place where church bells mark the hours and not much else disturbs the afternoon. The views from the old centre are beautiful — the Maiella massif, one of the highest mountains in the Apennines, dominates the western horizon.
 
-This is a peaceful quiet town where the church bells tell the time on the top of the hill. Noteworthy: Palazzo Tour D'Eau restaurant and hotel, where the owners speak English, www.palazzotd.com, and the main church San Giovanni Battista with its famous organ built in 1692, open for mass every Sunday morning.
+The main church, San Giovanni Battista, has an organ dating from 1692 and is open for Sunday morning mass. The streets of the historic centre are steep and narrow, built for donkeys rather than cars. Just across the border into Molise, the Sanctuary of Madonna del Canneto is worth a detour — a 12th-century church set in a wooded valley, with a small museum of Roman agricultural implements on the grounds.
 
-The whole town is located on a hill, so some walks around the historical center can be steep. The views are beautiful, as this is very close to one of the two highest mountains in the Appenine range (La Maiella).
-
-This is definitely a town to drive to, as public transport is limited to the bussing of the high school students to and from school.
-
-It's just off the highway (SS650) that leads from the Adriatic coast (Vasto and San Salvo) all the way to Naples. If going westbound, it's less that 20 miles to get there, but make sure you take the second exit to Carunchio, not the first (it will lead you on a long winding journey). If going east, take the first exit. Unless, of course, you like the idea of a long winding journey.
-
-Close by there is an amazing sanctuary with a 12th century church called "Madonna del Canneto" (this is technically just across the Abruzzo/Molise border) but well worth a visit to see the roman agricultural "museum" located within the sanctuary.
-
-**Contributors**
-May 01, 2007
+Carunchio is a place to drive to — public transport is essentially nonexistent. It sits just off the SS650, the road connecting the Adriatic coast at Vasto to Naples. From the coast, the drive takes about 30 minutes.

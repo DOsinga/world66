@@ -1,6 +1,7 @@
 ---
 title: "European Part"
-type: location
+type: poi
+category: Neighbourhood
 latitude: 41.013611
 longitude: 28.954167
 ---

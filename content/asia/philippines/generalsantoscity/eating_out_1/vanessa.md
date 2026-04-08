@@ -1,19 +1,9 @@
 ---
 title: "Vanessa"
-type: location
-address: "general santos city, philippines"
-phone: "(083)552-5479"
-type: "Seafood"
-latitude: 6.112222
-longitude: 125.172189
+type: poi
+address: "Sydney Hotel rooftop, General Santos City"
+latitude: 6.1122
+longitude: 125.1722
 ---
 
-The *fresh* and very *delicious* grilled or sizzling seafoods in town located in the rooftop of *SYDNEY HOTEL* where you can find also the nice service and their friendly staffs.
-
-type: Seafood
-
-
-
-tel: (083)552-5479
-
-address: general santos city, philippines
+A rooftop seafood restaurant in the Sydney Hotel, serving grilled and sizzling seafood. Popular with locals for its fresh fish and informal atmosphere.

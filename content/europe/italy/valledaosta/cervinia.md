@@ -5,7 +5,8 @@ latitude: 45.935603
 longitude: 7.63044
 ---
 
-What brings people to Breuil Cervinia (as the resort now styles itself) in winter in the 21th century is what brought climbers to the original village of Breuil in the 19th century: altitude. For climbers it was a launch pad for assaults on the nearby Matterhorn (Monte Cervino). For winter sports, it offers an unusual combination: slopes that are gentle and extensive, sunny and snow sure.
+Breuil-Cervinia sits at 2,006 m at the foot of the Matterhorn — or Monte Cervino as the Italians call it — and what brought 19th-century climbers to the original village of Breuil is essentially what brings winter sports tourists now: altitude, and the exceptional snow reliability that comes with it. The slopes are gentle and extensive, the sun is generous, and the season runs reliably from November through May.
 
+For cruising intermediates, there is nowhere quite like it: wide, well-groomed runs and a top elevation of 3,480 m that keeps the snow in good condition long after lower resorts are relying on machines. The connection to Zermatt across the Swiss border adds a glamorous dimension on paper, but the link is genuinely useful only in good conditions and does not access Zermatt's best terrain. Expert skiers looking for challenge are better served elsewhere; they will find Cervinia's slopes tame.
 
- For cruisers who like to cover the miles on flattering slopes with no worries about unexpected challenges, there is nowhere like it. But experts should steer clear: they'll find the slopes tame and the link with Zermatt disappointing because it doesn't access Zermatt's best slopes.
+The village itself is functional rather than charming — purpose-built for winter tourism without much of the Alpine character you find in [Courmayeur](/europe/italy/valledaosta/courmayeur). But the Matterhorn looming overhead is one of the great mountain spectacles in the Alps, and on clear days the view from the top of the lifts extends across a sea of peaks.

@@ -1,8 +1,10 @@
 ---
-title: "Tripoli"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.437362
 longitude: 35.834855
+title: Tripoli
+type: location
 ---
 
 Tripoli (Trablos in Arabic) is Lebanon's second city, about 85 km north of [Beirut](/asia/lebanon/beirut), and arguably the most underrated destination in the country. While most visitors focus on the capital, Tripoli has extraordinary Mamluk architecture, the best souks in Lebanon, and a grittier, more traditional atmosphere that feels a world away from Beirut's cosmopolitan scene.

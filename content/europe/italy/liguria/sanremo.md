@@ -3,9 +3,10 @@ title: "Sanremo"
 type: location
 latitude: 43.819825
 longitude: 7.774883
+done:
+  location_cleanup: '2026-04-07'
 ---
 
-Travel Guide
+Sanremo is the grand old lady of the Italian Riviera — a resort town with a mild year-round climate, sheltered between Cape Verde to the east and Cape Nero to the west. The town is shaped like an amphitheatre sloping down to the sea, with the old medieval quarter (La Pigna) climbing the hillside above the more modern waterfront.
 
-
- Sanremo, climatic and touristic resort of international importance, is shaped like an amphitheatre between Cape Verde eastwards and Cape Nero westwards. Protected by hillocks, once covered with olives, cedars, lemons, oranges and almonds, today replaced to a large extent by greenhouses for floriculture and by modern residential complexes, it enjoys a wonderful climate. Inland we can find wooden high grounds, whose highest tops are Mount Bignone and Mount Negro.
+Sanremo is best known for its annual Italian Song Festival, which has been running since 1951, and for its casino — one of only a handful in Italy. The old town, with its narrow passages and steep staircases, offers a genuine contrast to the polished promenade below. Inland, Mount Bignone offers good views and walking.

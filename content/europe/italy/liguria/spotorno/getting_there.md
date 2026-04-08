@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Spotorno"
+title: "Getting There"
 type: section
 ---
 

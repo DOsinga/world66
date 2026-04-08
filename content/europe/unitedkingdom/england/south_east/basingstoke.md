@@ -1,8 +1,10 @@
 ---
-title: 'Basingstoke'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.262826
 longitude: -1.086198
+title: Basingstoke
+type: location
 ---
 
 Basingstoke sits in the centre of Hampshire, about 50 minutes by train from London Waterloo. It is not a destination most travellers seek out, but it serves as a practical base for exploring the surrounding Hampshire countryside.

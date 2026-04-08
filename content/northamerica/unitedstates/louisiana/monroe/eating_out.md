@@ -1,21 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Forsythe Ave"
-price: "$6 to $15"
-zipcode: "72101"
 ---
 
-Louisiana is as well know for it's food as it is the music.
-
-Cormier's Cajun
-
-Traditional cajun food served in a traditional Cajun fashion.. On picnic table while drinking a cold beer. 
-
-
-
-Must try: 
-
-Pig Sandwich with Jambalaya 
-
-Boiled Crawfish
+Louisiana is as well known for its food as for its music, and Monroe is no exception. Cajun and Southern cooking dominate, with good honest food served without fuss.

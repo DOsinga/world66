@@ -1,8 +1,10 @@
 ---
-title: "Khajuraho"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 24.851513
 longitude: 79.925979
+title: Khajuraho
+type: location
 ---
 
 Khajuraho’s rather isolated location makes it an ideal retreat. The main attraction for tourists is the group of temples. Both the origin of these temples as well as the history of the Chandela dynasty, during which era they were built, are not fully documented. However, it is generally agreed that they were built between 950 A.D. and 1050 A.D and that there are at least 85 of them. Although it is somewhat hard to reach (there is no train station), one should definitely try to visit Khajuraho. [Varanasi](/asia/india/uttarpradesh/varanasi) is a good starting point from which to visit the temples.

@@ -3,22 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Eating out can be inexpensive with choices from fish and chips through to Indian, Greek, Italian and Chinese (Liverpool's Chinatown, which is situated in the Berry Street area of the city, near to the Anglican Cathedral, is the oldest in Europe).  
-
-**all**
-
-**The Number Seven Café **
-
-Off Hope Street. This is quite a student-orientated café, being so close to the uni, and it offers good value for money and good food too. The vegetarian range is particularly good.  ** Darren Northcott:** A very good and handy place, good food at a good price.
-
-**Everyman Theatre**
-
-Further along Hope Street, in the basement of the Everyman Theatre, there is a bistro, which is reasonably good value for money.  
-
-**Caesar's Palace**
-
-On Renshaw Street. The service at Caesar's can be slow and it gets very busy at around 8.00 on a Saturday.  
-
-**Otters Pool**
-
-If you're willing to drive out of the city a little way, the Otters Pool, at the Otterspool Promenade, about 4 miles to the south of the city centre, offers a good menu, with good vegetarian choice (though, incidentally, I found it better in the winter than the summer). Anglican Cathedral
+Liverpool's food scene has expanded enormously. Bold Street is the best street for independent restaurants — you will find everything from Ethiopian to Lebanese to Neapolitan pizza within a few hundred metres. The Albert Dock and waterfront have more polished options, while Chinatown around Berry Street (the oldest in Europe) is worth exploring for dim sum and Cantonese cooking. For something quick, the Baltic Market in the Baltic Triangle brings together street food vendors under one roof. Liverpool also does a proper chippy well — look for the ones the locals queue at.

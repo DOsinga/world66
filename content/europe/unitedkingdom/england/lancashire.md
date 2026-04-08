@@ -1,35 +1,16 @@
 ---
-title: "Lancashire"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 53.861171
 longitude: -2.565094
+title: Lancashire
+type: location
 ---
 
-Travel Guide
+Lancashire is a county in the north-west of England with an identity shaped by two very different histories: the industrial revolution that made it one of the world's great cotton-weaving heartlands, and the farming and fell country that predates it by centuries. The two sit side by side in a way that never quite resolves, which is part of what makes the county interesting.
 
-Normal
-0
+The county town is [Lancaster](/europe/unitedkingdom/england/lancashire/lancaster), a handsome city on the River Lune with a Norman castle that looms over the town centre and a surprisingly good café and arts scene. Further south, Preston is the administrative capital — larger and less picturesque, but worth passing through. Between and around these two cities the [Ribble Valley](/europe/unitedkingdom/england/lancashire/ribblevalley) offers some of the gentlest countryside in the north: rolling green hills, old market towns like Clitheroe, and abbey ruins at Whalley that date back to the twelfth century.
 
-false
-false
-false
+On the coast, [Blackpool](/europe/unitedkingdom/england/lancashire/blackpool) is one of England's most famous seaside resorts — brash, colourful, and unapologetically itself. The Tower, the Golden Mile, the illuminations in autumn: Blackpool does popular entertainment on a grand scale and has been doing so since the Victorian era. Further north, Morecambe is quieter and more faded, with a beautiful bay and an art deco lido that's been lovingly restored. The bay itself is spectacular at low tide, though the quicksands and fast-incoming tides are genuinely dangerous without a guide.
 
-EN-US
-X-NONE
-X-NONE
-
-MicrosoftInternetExplorer4
-
-/* Style Definitions */
-table.MsoNormalTable
-[The New Chirst the King Cathedral, the largest Roman Catholic Cathedral in Mindanao](/asia/philippines/tagumcity/the_new_chirst_the)
-
-Lancashire is
-a non-metropolitan
-county of historic origin in the North West of England. It takes its name from
-the city of Lancaster, and is sometimes known as the County of Lancaster. Although
-Lancaster is still considered to be the county town,
-Lancashire County Council is based in Preston. Lancashire is sometimes referred to by
-the abbreviation Lancs, as
-originally used by the Royal Mail. The population of the county is
-1,449,700. People from the county are known as Lancastrians.
+Inland from the coast, the [Forest of Bowland](/europe/unitedkingdom/england/lancashire/forestofbowland) is an Area of Outstanding Natural Beauty — a high moorland plateau of heather and gritstone, largely empty and largely overlooked by visitors who head straight for the Lake District. That relative obscurity is a feature. You can walk for hours on the fells above the Trough of Bowland and see almost no one.

@@ -1,8 +1,10 @@
 ---
-title: "Kotayk Marz"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 40.1873
+longitude: 44.5994
+title: Kotayk Marz
 type: location
-latitude: 40.187273
-longitude: 44.599438
 ---
 
 Kotayk Marz is the region just north of [Yerevan](/europe/armenia/yerevan). The Marz is geographically bounded by the Geghama mountains on the east, plains and the Hrazdan River gorge in the center, and the hills and Mt. Ara on the west.

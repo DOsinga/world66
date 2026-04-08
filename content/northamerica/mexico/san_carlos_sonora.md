@@ -1,11 +1,14 @@
 ---
-title: "San Carlos (Sonora)"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 27.9723
+longitude: -111.0111
+title: San Carlos (Sonora)
 type: location
-latitude: 27.972251
-longitude: -111.011111
 ---
 
-Beachside resort located 9 miles from the Port of Guaymas, 74 miles from Hermosillo, the capital of Sonora and 242 miles from the border city of Nogales - USA, offers the visitor beautiful beaches surrounded by the special atmosphere of the sonoran desert. Tetakawi hill, like a lighthouse shows the way with a warm welcome to those that arrive to San Carlos .
-During the first months of the year whales coming from cold waters come to the Sea of Cortez to mate and have their *cachalotes. *The coast line of San Carlos offers this unique opportunity to whale watchers and photographers.
-Hills with copper tones, a desert vegetation and a deep blue sea invites to explore and discover the place, enjoy the sea and its beaches, sail, fish, relax and dive in a wonderful submarine world.
-San Carlos has an ideal climate with media temperatures of 68F° in winter and 95F° in summer.
+San Carlos is a small beach resort on the Sea of Cortez, about 15 kilometres from the port of Guaymas in the state of Sonora. The setting is dramatic — copper-toned desert hills drop steeply into deep blue water, with the distinctive twin peaks of Cerro Tetakawi rising above the bay like a landmark.
+
+The diving and snorkelling are excellent, with warm, clear water and good marine life including sea lions, rays, and reef fish. Between January and March, grey whales pass through the Sea of Cortez on their way to breeding grounds further south, and whale-watching trips run from the marina. Sport fishing is popular year-round.
+
+The beaches are clean and uncrowded, backed by desert rather than development. San Carlos has a small expat community, a few restaurants, and a relaxed pace. The climate is hot in summer (averaging 35°C) but mild and pleasant in winter — a popular escape for Arizonans, with the border at Nogales about four hours' drive north.

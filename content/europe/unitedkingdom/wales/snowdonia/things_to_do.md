@@ -1,10 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**The 14/15 Peaks walk**
+Snowdonia is walking country above all else. The park holds fifteen peaks over 3,000 feet, and the Welsh 3000s challenge — linking them all in a single day — is one of the classic British mountain routes. The terrain ranges from gentle lakeside strolls to serious scrambles along the Crib Goch knife-edge ridge.
 
-Whether you count 14 Welsh peaks in as being over 3,000 feet or 15 doesn't really matter a lot as you go the same way whichever. On a good day this is a fabulous walk and almost all is really enjoyable. It covers three peaks in the Snowdon group, five in the Glyders and the rest in the Carnedds.
-
-There is no point in going into great detail when it is so well covered by http://www.harbach.4ever.org.uk/snowdonia/threes.htm
+Beyond the summits, there is mountain biking on forest trails, kayaking on Llyn Padarn, and rock climbing at dozens of crags. The Snowdon Mountain Railway offers a gentler way to the top for those who prefer wheels to boots.

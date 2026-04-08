@@ -1,14 +1,14 @@
 ---
-title: "Peljesac"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.904567
 longitude: 17.47521
+title: Pelješac
+type: location
 ---
 
-**Peljesac peninsula **is the second largest in **Croatiam, **located in south Dalmatia in immediate proximity of [Dubrovnik](/europe/croatia/dubrovnik) . Natural beauty on Peljesac still stands against commercial and urban values. 
+The Pelješac peninsula is the second largest in Croatia, stretching 85 kilometres along the south Dalmatian coast in immediate proximity to [Dubrovnik](/europe/croatia/dubrovnik). Although it is attached to the mainland — making it easy to reach — it has all the characteristics of a typical Dalmatian island: unspoiled nature, crystal-clear bays, and traditional stone villages where the pace of life has barely changed.
 
-Peljesac is 85 km long, 358 square km in size, and has about 8000 inhabbitants. Although it's attached to the Croatia mainland - making it easy to reach, it has all the characteristics of typical Dalmatian island, in natural beauty and the way of living. As it was commercialy neglected for years - it stil have beauty of unspoiled nature, crystal clean bays and traditional villages - being one of the rare tourist resorts in Europe which still can fully express the Croatia tourism tagline: Mediterranean as it was.
+With a population of only about 8,000, Pelješac was commercially neglected for years, which turned out to be its greatest asset. The beaches are beautiful at any point along the peninsula, from quiet pebble coves to long stretches of sand. [Orebić](/europe/croatia/peljesac/orebic), the "town of captains," preserves a proud maritime tradition, while Viganj is one of the best windsurfing spots in this part of Europe.
 
-Although it's interesting as a whole, and in all of it's aspects - there are several extraordinary things making **Peljesac **what it is. It's nature and beautiful beaches - which can be enjoyed at any part of peninsula. Peljesac maritime tradition which you can still feel in [Orebic](/europe/croatia/orebic) - the town of captains. One of the best windsurfing spots in this part of Europe - Viganj, and, certanly not the least important - Peljesac wines - famous red Dingac, Postup and other sorts of Plavac mali - which absolutely should be tasted if you are visiting this part of the world.
-
-You can find out more about Peljesac on it's unofficial internet site - http://www.peljesac.info/
+But the real glory of Pelješac is its wine. The peninsula produces Dingač and Postup, Croatia's most celebrated reds, made from the Plavac Mali grape grown on steep, sun-baked slopes above the sea. Visiting a cellar and tasting these wines with local cheese and cured meat is reason enough to come.

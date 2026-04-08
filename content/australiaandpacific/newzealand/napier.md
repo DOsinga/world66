@@ -1,22 +1,14 @@
 ---
-title: "Napier"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -39.49021
 longitude: 176.917839
+title: Napier
+type: location
 ---
 
-**Napier**
+Napier is New Zealand's Art Deco city. After a devastating earthquake levelled the town in 1931, it was rebuilt almost entirely in the styles of the day — Stripped Classical, Spanish Mission, and above all Art Deco. Walking through the centre feels like stepping into a 1930s movie set, and the annual Art Deco Weekend in February draws visitors from around the world.
 
-Napier, the city by the sea, is renowned for its 1930s Art Deco architecture, events such as the Brebner Print Art Deco Weekend in February, stately Norfolk pines, surrounding wineries, local fresh produce and national tourist attractions.
+The city sits on Hawke's Bay, backed by Bluff Hill and lined with Norfolk pines along Marine Parade. The waterfront runs past the National Aquarium and Ocean Spa hot pools, with views out to Cape Kidnappers — home to the world's largest mainland gannet colony, reachable by tractor-trailer along the beach at low tide.
 
-A great climate with day upon day of sunshine makes Napier a year-round tourist destination and you will quickly feel relaxed as you wander through the streets amongst the splendour of the Art Deco buildings.
-
-Napier oozes fun and adventure and a visit to the attractions of Marine Parade is a must. Marine Parade overlooks the Pacific Ocean and out towards Cape Kidnappers, home to the world’s largest mainland gannet colony. A full day can be taken visiting Ocean Spa hot pools and swimming complex, the Hawke’s Bay Museum, the National Aquarium of New Zealand, or get splashed by the dolphins and seals at Marineland of New Zealand.
-
-A landmark of Napier is Bluff Hill, which is home for many Napier residents and provides views of the town beaches of Perfume Point and Westshore, past the newly upgraded airport and out towards Whirinaki. Bluff Hill also overlooks the Port of Napier, one of New Zealand’s busiest ports, transporting timber, local fruit and meat products to worldwide destinations. Over summer luxury cruise liners berth.
-
-Napier has accommodation to fit all budgets from boutique hotels, holiday homes, backpacker lodges, hotels, motels, holiday parks and homestays. For the shopper there are antique shops, art galleries, and studios of potters, wood turners and craftsman.
-
-After a long day taking in the sights, revitalize yourself by sampling some of Hawke’s Bay’s award winning wines and fresh Bay produce from one of the many restaurant, café and winery menus.
-
-**Courtesy:** Hawke's Bay Tourism
+Hawke's Bay is one of New Zealand's premier wine regions. More than 70 wineries surround the city, most within a short drive or cycle ride, and the combination of sunshine, wine, and fresh local produce makes Napier an easy place to spend a few days.

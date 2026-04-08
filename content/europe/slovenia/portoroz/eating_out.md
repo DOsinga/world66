@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Portoroz"
+title: "Eating Out"
 type: section
 ---
 
@@ -15,5 +15,3 @@ For a cheap and abundant meal of seafood, without a stuffy atmosphere, the best 
 
 For a classy night out to dinner with your significant other, Taverna is a nice restaurant to go to. Specializing in seafood, like almost every other restaurant in Portoroz, Taverna has a distinctively upscale atmosphere and style. Obviously, it is the atmosphere that you pay for more than the food. Main dishes cost anywhere from $21 to $30 USD.
 
-**Contributors**
-October 30, 2009

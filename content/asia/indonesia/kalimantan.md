@@ -1,20 +1,12 @@
 ---
-title: "Kalimantan"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 1.4298
+longitude: 114.741
+title: Kalimantan
 type: location
-latitude: 1.429783
-longitude: 114.741041
 ---
 
-Kalimantan is one of the least visited parts of Indonesia. The main reason for this is that it takes a long time and a fair amount of money and effort to explore. The good thing about the lack of tourists is that Kalimantan has remained unspoilt. 
+Kalimantan is the Indonesian portion of Borneo, the world's third-largest island, and one of the least visited parts of the archipelago. Getting here takes time and money, but the reward is a place that remains genuinely unspoilt — vast rainforests, slow rivers, and Dayak longhouse villages that few tourists ever reach.
 
-With its great floating markets and stilt houses,
-[Banjamarsin](/asia/indonesia/kalimantan/banjamarsin) is the main tourist destination. It is also the ideal place to start exploring the rest of the island.
-[Samarinda](/asia/indonesia/kalimantan/samarinda) is a good starting point for trips up the Mahakam River.
-
-Minor corrections by [laszlo](/world/member/laszlo) on 30 January 05
-
-## Destinations in Kalimantan
-
-[Balikpapan](/world/asia/indonesia/kalimantan/balikpapan)
-[Banjamarsin](/world/asia/indonesia/kalimantan/banjamarsin)
-[Samarinda](/world/asia/indonesia/kalimantan/samarinda)
+The main gateway for most visitors is [Banjamarsin](/asia/indonesia/kalimantan/banjamarsin), known for its maze of canals and spectacular floating market. From there the island opens up: [Samarinda](/asia/indonesia/kalimantan/samarinda) is the jumping-off point for expeditions up the Mahakam River into Dayak country, while [Balikpapan](/asia/indonesia/kalimantan/balikpapan) serves as the main air hub. [Palangka Raya](/asia/indonesia/kalimantan/palangka_raya), the capital of Central Kalimantan, sits between two rivers and offers a quieter base for exploring the interior.

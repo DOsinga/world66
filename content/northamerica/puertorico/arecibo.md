@@ -1,12 +1,12 @@
 ---
-title: "Arecibo"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 18.4725
+longitude: -66.7156
+title: Arecibo
 type: location
 ---
 
-Settled in 1556, Arecibo became the third Spanish settlement. Founded sixty years later, in 1616, when the King of Spain granted that section of land and the Indians on it to Lope Conchillos, under the governorship of Captain Felipe de Beaumont y Navarra. The leader (Indian chief) of these Indians was called Jamaica Aracibo, their yucayeque was named after him and ultimately the town was called by that same name.
+Arecibo is the largest municipality by area in Puerto Rico, a coastal city on the island's north shore known for two very different attractions: the Cueva del Indio, a sea cave with pre-Columbian Taíno petroglyphs carved into its walls, and the former Arecibo Observatory, once the world's largest single-aperture radio telescope.
 
-Arecibo is also known as "La Villa del Capitán Correa" in memory of a battle fought successfully on its shores by Captain Antonio Correa and a handful of soldiers to repel a British invasion by sea lead by Englishmen Admiral Whelstone in August 5, 1702.
-
-You can visit "Cueva del Indio, an archeological site, the cave is located on the shores of the Atlantic Ocean, in Bo. Islote. It it is called "The Cave of the Indian", because drawings of the Indians that lived in this area in the Prehistoric Era were found in the walls of the cave.
-
-Arecibo is the largest city in geographical size on the island. Its rivers are: Rio Grande de Arecibo and Río Tanamá.
+The town itself has a long history — it was the third Spanish settlement on the island, founded in the early 17th century. The old centre around the plaza retains some colonial character, and the Atlantic coastline east of town has dramatic karst formations and blowhole caves. The nearby Río Camuy cave system, one of the largest in the Western Hemisphere, is another popular day trip.

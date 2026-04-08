@@ -1,22 +1,14 @@
 ---
-title: "Kihnu Island"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 58.126136
 longitude: 23.985261
+title: Kihnu Island
+type: location
 ---
 
-Travel Guide
+Kihnu is a tiny island off the southwest coast of [Estonia](/europe/estonia), home to one of the most distinctive living cultures in Europe. The society is essentially matriarchal: the women guard the cultural traditions — hand-woven skirts, folk songs, handicrafts — while the men go to sea and fish. UNESCO has proclaimed the Kihnu cultural space a Masterpiece of the Oral and Intangible Heritage of Humanity.
 
-Originally used by seal hunters and fishermen Kihnu is now a culturally
-significant and essentially matriarchal society. The women guard the
-cultural heritage whilst the men go off to sea and fish.
+The island is small enough to explore on foot or by bicycle in a day. There are a few guesthouses and a small museum. The attraction is the culture itself and the quiet, unhurried pace of island life.
 
-UNESCO has
-proclaimed the Kihnu marriage ceremony as a Masterpiece of the Oral and
-Intangible Heritage of Humanity.**
-
-More information **about Kihnu Island can be found on the official
-tourist
-information website of Estonia
-(http://www.visitestonia.com/en/articles/destinations/the-islands/kihnu)
-and at: http://www.kihnurand.ee/index.php?option=com_content&task=view&id=12&Itemid=26
+Ferries run from Munalaid on the mainland (about an hour), and small planes fly from Parnu in summer.

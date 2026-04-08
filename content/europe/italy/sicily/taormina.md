@@ -1,8 +1,10 @@
 ---
-title: 'Taormina'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 37.8512
-longitude: 15.2830
+longitude: 15.283
+title: Taormina
+type: location
 ---
 
 Taormina is so beautifully located that it would not need great sights to attract visitors. The fact that it does have them makes it an absolute must. Perched on a rocky promontory at the foot of Mount Etna and looking out over the azure Mediterranean, the town has drawn visitors for centuries.

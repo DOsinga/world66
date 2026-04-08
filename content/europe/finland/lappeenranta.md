@@ -1,16 +1,14 @@
 ---
-title: "Lappeenranta"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 61.0587
+longitude: 28.1887
+title: Lappeenranta
 type: location
-latitude: 61.058342
-longitude: 28.186229
 ---
 
-Lappeenranta sits at the southwest corner of Lake Saimaa, Finland's largest lake, close to the Russian border. Its position has shaped it historically — for over 350 years it has been a crossing point between Finnish and Russian cultures, a garrison town guarding the eastern frontier.
+Lappeenranta sits at the southwest corner of Lake Saimaa, Finland's largest lake, just 30 kilometres from the Russian border. For over 350 years it has been a crossing point between Finnish and Russian cultures, a garrison town guarding the eastern frontier. That history is still visible in the fortress on the lakeside hill, where 18th-century ramparts now house museums, craft workshops, and summer cafes.
 
-The fortress area on the lakeside hill is the main sight: 18th-century ramparts housing museums, craft shops, and cafes. The harbour below is busy in summer, with boat trips heading out onto the labyrinthine lake system and day cruises through the Saimaa Canal toward Vyborg in Russia (check current border rules before planning this).
+The harbour below the fortress is the heart of summer life. Boat trips head out onto the labyrinthine Saimaa lake system, and the 43-kilometre Saimaa Canal connects the lake to the Gulf of Finland. The sandcastle competition held on the harbour beach each July draws surprisingly ambitious entries.
 
-Lappeenranta has about 75,000 people and serves as the administrative centre of South Karelia. It's a pleasant city to spend a day or two, especially in summer when the lakeshore fills up.
-
-## Destinations in Lappeenranta
-
-[Saimaa Canal](/europe/finland/lappeenranta/saimaacanalsaimankanava)
+Lappeenranta has about 75,000 people and serves as the administrative centre of South Karelia. It is a pleasant city to spend a day or two, especially between June and August when the long evenings and warm lakeside make it worth lingering.

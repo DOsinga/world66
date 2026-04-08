@@ -3,13 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Johannesburg is one of the most important transportation hubs in South Africa (if not in the region).
+Johannesburg is the main transportation hub for South Africa and much of the southern African region.
 
-Johannesburg boasts one of Africa's few hubs for air travel, with regular connections throughout the continent, as well as to Europe and Australasia.
+OR Tambo International Airport is one of Africa's busiest, with direct flights to destinations across the continent and intercontinental connections to Europe, Asia, North America, South America, and Australia. Most visitors to South Africa will pass through here at some point.
 
-South Africa's (limited) rail network more or less centers in Johannesburg, providing connections to for example Cape Town, Port Elizabeth, Durban and Pretoria.
-
-Long distance busses connect Johannesburg with cities all over the country as well as some cities in neighbouring countries.
-
-**Contributors**
-February 12, 2007
+South Africa's rail network centres on Johannesburg, with connections to Cape Town, Port Elizabeth, Durban, East London, Nelspruit, Messina, and Pretoria. Long-distance buses connect Johannesburg with cities across the country and into neighbouring countries — the main operators are Translux, Greyhound, and Intercape Mainliner.

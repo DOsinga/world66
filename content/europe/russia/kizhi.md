@@ -1,40 +1,14 @@
 ---
-title: "Kizhi"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 61.769693
 longitude: 34.370758
+title: Kizhi
+type: location
 ---
 
-The **Kizhi** is one of the most precious world sights protected by UNESCO. One should definitely visit this perfectly preserved and arranged outdoors museum
+Kizhi is a small island in Lake Onega, about 70 kilometres northeast of [Petrozavodsk](/europe/russia/kizhi/karelia), and it holds one of the most extraordinary collections of wooden architecture anywhere in the world. The island is a UNESCO World Heritage Site, and deservedly so.
 
+The centrepiece is the Church of the Transfiguration, built in 1714 and crowned with 22 onion domes that cascade upward in a way that seems almost impossible in timber. The story goes that it was built without a single nail — the logs fitted together by notch and groove alone. Whether or not that is strictly true, the craftsmanship is staggering. Alongside it stands the smaller, winter-use Church of the Intercession (1764) and a bell tower, the three structures forming the Kizhi Pogost ensemble that anchors the whole island.
 
-
-The **Kizhi** open-air museum is situated on Kizhi Island 70 kilometers to the northeast of Petrozavodsk-the capital of Karelia.
-
-
- The **Kizhi** historic, cultural and natural complex is a unique historic area having no equal in the European North of [Russia](/europe/russia) reflecting the concentration of the monuments of the Russian heritage. 
-
-**See also other cities of Russia:**
-
-
- 
- 
- [Irkutsk](/europe/russia/irkutsk)
- [Kazan](/europe/russia/kazan)
- [Moscow](/europe/russia/moscow)
- 
- [St Petersburg](/europe/russia/stpetersburg)
- [Murmansk](/europe/russia/murmansk)
- [Novgorod](/europe/russia/novgorod)
- 
- [Novosibirsk](/europe/russia/novosibirsk)
- [Orel](/europe/russia/orel)
- [Pyatigorsk](/europe/russia/pyatigorsk)
- 
- [Suzdal](/europe/russia/suzdal)
- [Tula](/europe/russia/tula)
- [Ulyanovsk](/europe/russia/ulyanovsk)
- 
- [Vladivostok](/europe/russia/vladivostok)
- [Vladimir](/europe/russia/vladimir)
- [Yakutsk](/europe/russia/yakutsk)
+Beyond the pogost, the open-air museum spreads across the island with farmhouses, windmills, chapels and granaries relocated from across the [Karelia](/europe/russia/kizhi/karelia) region. Walking between them gives a real sense of how people lived in the Russian north a few centuries ago. The island is quiet, the lake enormous, and on a clear day the light on the water makes the whole place feel genuinely remote — which, in a sense, it is.

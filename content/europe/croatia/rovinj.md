@@ -1,8 +1,10 @@
 ---
-title: "Rovinj"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.080741
 longitude: 13.641728
+title: Rovinj
+type: location
 ---
 
 Rovinj is one of the most picturesque Mediterranean towns. When you climb to the top of the bell-tower, above the roof of the church you can see a unique combination of nature in all its magnificence and many historical monuments. 

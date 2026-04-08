@@ -1,20 +1,16 @@
 ---
-title: "Nagasaki"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.115468
 longitude: 129.787434
+title: Nagasaki
+type: location
 ---
 
-Nagasaki is a historic city. It was for a long time the only point of contact between the west and Japan. But today it is molsty known for the fact that it was bombed with an atomic bomb at the end of WW II.
+Nagasaki sits at the head of a long harbour on Kyushu's western coast, and for more than two centuries it was Japan's only window to the outside world. During the Edo period, when the rest of Japan was closed to foreign contact, a tiny artificial island called Dejima in Nagasaki harbour was the sole place where Dutch traders were permitted to operate. Chinese merchants had their own quarter nearby. This long history of foreign contact gives the city a character unlike anywhere else in Japan — European, Chinese, and Japanese influences are layered throughout.
 
+On 9 August 1945, the city was struck by the second atomic bomb. The Nagasaki Atomic Bomb Museum and the Hypocenter Park in the Urakami district are sombre and deeply affecting. The rebuilt Urakami Cathedral, originally the largest cathedral in East Asia, stands nearby.
 
- Many sights in the city remind us of the explosion on 9 August 1945. A visit to the A-bomb site in Urakami, the Cathedral, The Hypocentre park and the A-bomb museum will leave most visitors shaken.
+Beyond the atomic history, Nagasaki rewards exploration. **Glover Garden**, perched on a hillside above the harbour, preserves Western-style residences from the Meiji era — the Glover House is the oldest surviving Western building in Japan. **Dejima** has been partially reconstructed as a museum of the Dutch trading post. The city's **Chinatown**, one of the oldest in Japan, is compact and lively. The row of Chinese-style Buddhist temples — Sofuku-ji, Kofuku-ji, and Fukusai-ji — along the Nakashima River are distinctive, each built by Chinese merchant communities in the 17th century. The river itself is crossed by a series of stone bridges, of which the Megane-bashi (Spectacles Bridge) is the most famous.
 
-
- The role of Nagasaki as the main point for international contacts can be seen at different locations. Chinatown gives insight in the role of Chinese traders, the Dejima Museum, Dutch Slopes and Nagasaki Holland Village celebrate the role of the Dutch. Glover Garden is the area where businessmen established themselves in the 19-th and 20-th century. The whole Garden is a lot like a Japanese Disneyland, but there are many interesting houses from the Meiji period and the gardens are nice.
-
-
- The main Japanese sights are the Fukusai-ji, Shofuku-ji, Kofuku-ji and Sofuku-ji temples as well as the row of temples between the Sofuku and Kofuku-ji. Parallel to the temple row is the Nakajimagawa stream which is covered by many bridges.
-
-
- The Maruyama Area is the place to head for at night. It has been the main entertainment area of Nagasaki for centuries and still has the best nighlife. A few historic brothel buildings still stand e.g. Kagetsu now a hotel.
+The **Maruyama** entertainment district has been the centre of Nagasaki's nightlife for centuries. It is more restrained now than in its heyday, but it remains the best area for an evening out.

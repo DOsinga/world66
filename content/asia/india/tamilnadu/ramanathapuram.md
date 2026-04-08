@@ -1,8 +1,10 @@
 ---
-title: "Ramanathapuram"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 9.520558
 longitude: 78.518463
+title: Ramanathapuram
+type: location
 ---
 
 Ramanathapuram is the district headquarters of the district that contains Rameshwaram, and most travellers pass through it on their way to that far more famous island. The town itself has a quiet, faded grandeur from its time as the seat of the Sethupati Rajas, a dynasty that controlled this coastal region for several centuries and whose alliance with the Rameshwaram temple brought them great prestige.

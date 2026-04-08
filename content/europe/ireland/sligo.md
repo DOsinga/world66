@@ -1,16 +1,14 @@
 ---
-title: "Sligo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 54.27207
 longitude: -8.475136
+title: Sligo
+type: location
 ---
 
-Sligo is located in the North West of Ireland. It has been a popular destination for centuries. The town of Sligo gracefully combines its busy market role with a relaxed attitude. The tightly packed streets and laneways are crowded with a diverse array of shops and pubs, while bridges and benches are welcome points for quiet reflection. 
+Sligo is a market town of about 20,000 people in the northwest of Ireland, set between the Atlantic coast and the mountains of Ben Bulben and Knocknarea. It combines the services of a regional centre — good restaurants, pubs, and shops — with a compact walkability and a countryside that begins at the edge of town.
 
-Most of the sights of Sligo are to be found in the town Centre. 
+The town is closely associated with W.B. Yeats, who spent much of his childhood here and drew on the landscape of Sligo Bay, Lough Gill, and the surrounding hills throughout his poetry. The Yeats Memorial Building and several sites connected to the poet are scattered around town. Yeats is buried in nearby Drumcliff churchyard, beneath Ben Bulben.
 
-Absolutely beautiful, I lived there for about 6 months. It has everything you need convenience wise. (record stores , electronics, video store, drycleaners, upscale restaurants, fast food, supermarkets) while maintaining a very rural feel. it has about 19 000 residents. you only have to walk for about twenty minutes and you can be in the countryside
-
-## Destinations in Sligo
-
-[Rosses Point](/europe/ireland/sligo/rossespoint)
+Sligo's tightly packed streets are pleasant for wandering. The pubs have good traditional music, the farmers' market on Saturday mornings is lively, and the coast at [Rosses Point](/europe/ireland/sligo/rossespoint) and Strandhill — both within a short drive — offers beaches, surfing, and views across Sligo Bay to the Ox Mountains.

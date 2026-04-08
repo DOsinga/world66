@@ -1,22 +1,18 @@
 ---
-title: "Tavush Marz"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 40.8793
+longitude: 45.149
+title: Tavush Marz
 type: location
-latitude: 40.739466
-longitude: 44.852009
 ---
 
-Tavush Marz, tucked into the northeast corner of Armenia, includes the popular town of Dilijan, popularly known as "Armenia's Little Switzerland", and the popular Haghartsin and Goshavank Monasteries. Beyond that though is a great deal more to see, including the distant region of Shamshadin, which only a handful of western visitors reach each year.
+Tavush is Armenia's greenest corner — a tangle of forested ridges, river valleys, and ancient monasteries tucked into the northeast of the country. Where much of Armenia is dry and stony, Tavush is lush, with a mild climate and landscapes that genuinely justify the well-worn comparison to Switzerland.
 
-The town of Dilijan is the first that you come to in Tavush as you enter from the direction of Sevan or Vanadzor. A very popular town for Armenians to spend time simply relaxing, it was once popular throughout the Soviet Union for this reason, and the retro Cinematographers House is where the most famous Soviet directors used to come to commune with nature, and each other.
+The main road through the region connects the resort town of [Dilijan](/europe/armenia/tavush_marz/dilijan) to the regional capital Ijevan, passing through some of the country's finest scenery along the way. Most visitors stop at Dilijan and the great monasteries near it — Haghartsin and Goshavank — and consider themselves done. That leaves most of Tavush entirely to themselves.
 
-A relatively short distance from Dilijan is Haghartsin Monastery, and a bit further is Goshavank. Both are stunning for their own reasons, and most people that make it to Dilijan visit both.
+Beyond Dilijan, Ijevan is a pleasant small city on the Aghstev River, the kind of place where life proceeds at an unhurried pace. North of Ijevan, the village of Yenokavan guards a deep canyon with caves bearing ancient carvings, waterfalls, and wild rivers. Further north still, Makaravank Monastery and the small city of Noyemberian — with its nearby Mshkavank Monastery and Berdavan Castle — reward those willing to push on.
 
-Beyond Goshavank is Ijevan, the regional capital and a nice little town in its own right. A river runs through it, the climate is mild, and the people relaxed. Not far is the village of Yenokavan, guarding a deep canyon with lush forests, wild rivers, caves with ancient carvings, and waterfalls.
+The forests around Kirants, near the Georgian border, hide three monasteries — Arakelots, Deghtsnuti, and Kirants — along a river valley accessible by dirt road. A GPS helps, but they are not hard to find.
 
-Makaravank is another nice monastery further north, and Noyemberian is a small city with nearby Mshkavank Monastery and Berdavan Castle Fortress.
-
-In the forests of this area, starting at the village of Kirants is another river valley going up into the mountains, with only a dirt road going through the forest. Arakelots, Deghtsnuti and Kirants are three monasteries lost in these hills, but not so hard to find with a GPS and the right coordinates!
-
-Finally, the isolated area of Shamshadin surrounds the city of Berd, with a small fortress. In the surrounding hills and forests are the worthy monasteries of Nor Varagavank, Shkhmuradi and Khoranashat.
-
-The town of Berd has a hotel that recently underwent renovation.
+Furthest from the main tourist circuit is Shamshadin, surrounding the town of Berd. In the forested hills here sit three more monasteries — Nor Varagavank, Shkhmuradi, and Khoranashat — that almost no western visitor ever reaches. If you have the time and a vehicle, this is one of the most rewarding detours in Armenia.

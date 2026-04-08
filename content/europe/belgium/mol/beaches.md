@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Mol"
+title: "Beaches"
 type: section
 address: "Kiezelweg 17 2400 Mol"
 phone: "+32 (0)14 810098"

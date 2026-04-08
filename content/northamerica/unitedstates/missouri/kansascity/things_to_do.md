@@ -1,9 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Go to BB's Lawnside Barbecue. Sunday afternoon is great - a blues jam session. Other evenings, just great blues, and great barbecue. The neighborhood looks a little rough, but once you get to your destination, you'll find people from all walks of life, smiles, and great music. 1205 E 85th St at Troost Ave, Kansas City 64131 • 816-822-7427
-
-**Contributors**
-July 03, 2004
+Kansas City rewards those who explore beyond the obvious. The museums are excellent and mostly free, the art deco architecture downtown is underrated, and the jazz and barbecue scenes give the city a genuine identity that no amount of civic boosterism could manufacture. A few neighborhoods — 18th and Vine, Westport, the Crossroads — are worth treating as destinations in their own right.

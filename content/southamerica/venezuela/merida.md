@@ -1,8 +1,10 @@
 ---
-title: "Mérida"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 8.581696
 longitude: -71.165807
+title: Mérida
+type: location
 ---
 
 Mérida is Venezuela's great mountain city, sitting in a narrow valley in the Andes at about 1,600 metres above sea level. The climate is mild and spring-like year-round — a welcome contrast to the coastal heat — and the city has a large, lively university population. For many travelers it is the most pleasant and liveable city in the country.

@@ -1,17 +1,14 @@
 ---
-title: "Kaziranga"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 26.589253
 longitude: 93.408474
+title: Kaziranga
+type: location
 ---
 
-Kaziranga National Park lies on the south bank of the Brahmaputra and its boundary for the most part follows the Mora Diphlu river and runs parallel to National Highway No. 37. It covers an area of 688 sq. kilometres. The Park was first established in 1908, as a reserve forest with only about a dozen rhinos and was declared a National Park in 1974. 
+Kaziranga National Park lies on the south bank of the Brahmaputra in Assam, covering 688 square kilometres of tall elephant grass, marshland, and dense tropical forest. First established in 1908 as a reserve forest with barely a dozen rhinos, it was declared a National Park in 1974 and is now a UNESCO World Heritage Site.
 
+Kaziranga is famous above all for the Indian one-horned rhinoceros — it holds around two-thirds of the world's population. Tigers are present in significant numbers too, along with wild buffalo, swamp deer, hog deer, wild boar, hoolock gibbons, and capped langurs. The birdlife is exceptional: crested serpent eagles, Pallas's fishing eagles, the endangered Bengal florican, great adjutant storks, bar-headed geese, and pelicans are all found here.
 
- Kaziranga is famous for the great One-Horned Rhinos. Tigers which are natural enemies of rhinos are also there in sizable numbers in this area. Other attractions of this national park include the wild buffalo, magnificent swamp deer, hog deer, wild boar, Hoolok gibbon, capped langur and ratel (badger). 
-
-
- A wide variety of snakes including the rock python and the monitor lizard are also found here. Amongst the birds, the crested serpent eagle is common while palla's fishing eagle and gray headed fishing eagle are frequently seen. Others include the Great Adjutant Stork, crane, Bengal floricab, bar-headed goose, whistling teal, and pelican. 
-
-
- Mihimukh is the starting area for the park and elephants can be hired from here to enter the sanctuary. Jeep safaris and early morning elephant rides can be arranged for at the Tourist Centre here.
+Mihimukh is the main entry point, where jeep safaris and early morning elephant rides can be arranged through the Tourist Centre. The park is open from November to April — the monsoon floods much of the low-lying grassland during the rest of the year, which is precisely what keeps the habitat so rich.

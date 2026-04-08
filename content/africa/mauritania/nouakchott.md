@@ -1,14 +1,14 @@
 ---
-title: "Nouakchott"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 18.0791
+longitude: -15.9785
+title: Nouakchott
 type: location
-latitude: 18.079238
-longitude: -15.978007
 ---
 
-Nouakchott is the capital of Mauritania. When Mauritania was still part of French West-Africa it did not have a capital city; most of its inhabitants were nomads. Nouakchott was founded at the independence in 1960. Since it has grown at an incredible rate and now a third of the population of the country lives in the city; that means 800,000 people. 
+Nouakchott is the capital of Mauritania and one of the youngest capital cities in the world. When France granted independence in 1960, Mauritania had no obvious urban centre — most of its people were nomads. The new government chose a small administrative outpost near the Atlantic coast and built a capital around it. In the decades since, people have flooded in from the desert as drought and conflict pushed nomadic communities toward the city. Today roughly a third of Mauritania's population — around a million people — lives here.
 
+The city is flat, sprawling, and dusty. There are no high-rises and few colonial-era landmarks to orientate yourself by. What Nouakchott has instead is texture: the extraordinary market, the long Atlantic beach where colourful pirogues land their catch each afternoon, and a street life shaped by people who were living in tents a generation ago. You will still see tents pitched in gardens and along roadsides, and the three-glass tea ceremony — mint tea poured high and repeatedly to build a froth — remains the rhythm of daily life.
 
-
-The city is quite spread out -no high buildings- and does not have a lot of monuments. There is a good beach nearby, with high waves and a somewhat dangerous undertow. There is a market that is good fun and there are a few mosques you might want to have a look at, but that's about it. 
-
-Nouakchott does provide you with the opportunity to get your first impressions of life in Mauritania. Even when they are living in the city a nomad is still a nomad. You will see tents pitched in gardens or along the streets and the tea ceremony that played a pivotal role in desert life, is still the centre of every day life.
+For the traveller, Nouakchott is usually a staging post rather than a destination in itself. But spend a day or two and you will get something that cannot be found in the desert towns: a sense of how Mauritanian society is changing, and how stubbornly the old ways persist even within a modern capital.

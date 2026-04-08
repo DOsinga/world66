@@ -1,10 +1,10 @@
 ---
 title: "Buongiorno"
-type: location
-latitude: 51.445197
-longitude: -0.336793
+type: poi
+address: "Esplanade, Sea Beach, Aberdeen AB24 5NS"
+phone: "01224 211647"
+latitude: 57.1590
+longitude: -2.0850
 ---
 
-address: Esplanade, Sea Beach, Aberdeen Aberdeenshire AB24 5NS
-
-tel: 01224 211647
+Italian-influenced cafe on the Aberdeen beach esplanade, handy for a coffee or ice cream after a walk along the seafront.

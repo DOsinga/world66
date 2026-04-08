@@ -1,11 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-The Golan Heights are a beautiful mountain range towering over the Sea
-of Galilee (The Kineret). The highest peak in this rang is called Mount
-Hermon. There is even winter skiing at the top of this mountain.
-Throughout the range are hikes through creeks and canyons, that
-sometimes lead to waterfalls and springs. The very source of the Jordan
-River can be traced to this region of Israel.
+The Golan is superb walking country. Trails wind through basalt canyons, past waterfalls, and along creek beds fed by snowmelt from Mount Hermon. The Yehudiya Nature Reserve has several marked routes through deep gorges with natural pools — bring swimwear in summer. The Banias waterfall trail, starting from the ancient Pan temple site, is one of the prettiest short hikes in northern Israel.
+
+In winter, **Mount Hermon** — the highest peak in the range at 2,236 metres — has Israel's only ski resort. The season is short and conditions are unpredictable, but skiing here is a novelty worth trying if the snow cooperates.
+
+The Jordan River's headwaters rise in this region, and the area around Tel Dan and Banias is green and lush year-round. Several boutique wineries offer tastings — the volcanic soil produces excellent wines, and the Golan Heights Winery (Yarden label) is the most established.

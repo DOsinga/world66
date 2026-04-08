@@ -13,4 +13,4 @@ The park's centrepiece is **Mzima Springs**, where half a billion litres of wate
 
 The northern part of the park protects one of East Africa's most important black rhino populations. The **Ngulia Rhino Sanctuary** — 70 square kilometres of fenced wilderness — holds some 70 individuals, one of Kenya's great conservation success stories. Sightings aren't guaranteed but are far more likely here than almost anywhere else on the continent.
 
-Wildlife throughout the park is excellent: lion, leopard, cheetah, elephant, buffalo, and a surprising range of plains game. The watering holes near Kilaguni and Ngulia lodges are particularly productive at dusk, when animals come in to drink and predators follow.
+Wildlife throughout the park is excellent: lion, leopard, cheetah, elephant, buffalo, and a surprising range of plains game. The watering holes near Kilaguni and Ngulia lodges are particularly productive at dusk, when animals come in to drink and predators follow. origin/main

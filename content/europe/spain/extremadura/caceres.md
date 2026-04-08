@@ -1,18 +1,14 @@
 ---
-title: "Caceres"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.4745
+longitude: -6.3717
+title: Caceres
 type: location
-latitude: 39.474517
-longitude: -6.371676
 ---
 
-Caceres, lies on a hill and is characterised by its constant evolution in history from Roman times until the present day. Two periods in it development have left their mark on today's city: the Arab stronghold before it fell to the Christians in 1229, and the feudal city between the 14th and 16th C, when it was swamped with palaces and towers of aristocratic families. This urban complex full of its own personality became part of World Heritage in 1986. 
+Caceres sits on a hill in Extremadura, its old town a remarkably intact medieval quarter that earned UNESCO World Heritage status in 1986. Walk through the Arco de la Estrella and you step into a city that has barely changed in five centuries — a maze of narrow streets lined with golden stone palaces, fortified towers, and churches, almost entirely free of traffic and modern intrusions.
 
-The city's history of battles between Moors and Christians is reflected in its architecture which is a blend of Roman, Islamic, Northern Gothic, and Italian Renaissance styles. From the Moslem period remain about 30 towers, of which the Torre del Bujaco is the most famous. 
+The layers of history are visible everywhere. About thirty Moorish towers survive from the period before the Christian reconquest in 1229, of which the Torre del Bujaco is the most prominent, overlooking the Plaza Mayor. After the reconquest, noble families competed to build the grandest palace — the result is an extraordinary concentration of Gothic and Renaissance mansions: the Casa de los Golfines de Arriba, the Palacio de Carvajal, the Casa del Mono. The Catholic monarchs ordered many of the defensive towers lopped off to curb the nobility's power, but enough survive to give the skyline its distinctive bristling silhouette.
 
-With the 14th C, Caceresis invaded by noblemen, and in only a few dozen years there are fortress-like houses and towers everywhere in the city, which becomes feudal in nature and is at the mercy of fighting rival factions. Of this period are the Palace of La Generala, Las Cigueñas House and Tower, the house of the Ovando-Oerero family, Espadero-Pizarro House or the House of El Mono.. 
-
-The Catholic Monarchs ordered many of these buildings to be destroyed, bestowing the privilege of not being demolished on only a few, such as the Palace of Los Golfines de Arriba or Las Cigueñas Palace. During the 15th and 16th C, the palaces were replaced by magnificent stone houses which differed from the palaces only in size and fewer defensive means. This is the case of Aldana House, El Sol, Ulloa and Carvajal House... In their company, churches and convents were built, such as the Gothic Church of Santa Maria, which has cathedral status, the one of Santiago, which has an important reredos by Berruguete, the one of San Mateo, which was built in the 14th C on the site of a mosque, the Gothic Convent of San Francisco. 
-
-In the course of the centuries, the old city of Caceres has preserved surprisingly well the distribution of space of an Arab city transformed into a feudal one with the addition of towers, palaces and fortified houses of rival families. Arab and Gothic influence, Italian Renaissance, art from America.., all of them can be found in this unique city of Extremadura. 
-
-Courtesy of:**Spaintour.com**
+Churches are woven through the fabric — the Gothic co-cathedral of Santa Maria, the Church of San Mateo built on the site of a mosque, the Church of Santiago with its altarpiece by Berruguete. Storks nest on nearly every tower and belfry, and their clacking is the soundtrack of the old town. Caceres is one of Spain's great hidden pleasures — less visited than Salamanca or Toledo, but every bit as rewarding.

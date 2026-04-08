@@ -1,12 +1,14 @@
 ---
-title: "Perpignan"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.6985
+longitude: 2.8953
+title: Perpignan
 type: location
-latitude: 42.69853
-longitude: 2.895312
 ---
 
-**Perpignan** is the meeting point of all the routes which lead to the seaside, the mountains, and also all the other cultural environments such as churches, abbeys, Citadels, treasures of art etc. These are representations of ten centuries of history which makes this city a proof of the richness and the creativity of the Mediterranean civilization.
+Perpignan is the capital of French Catalonia, a sun-baked city at the foot of the Pyrenees near the Spanish border. It was the mainland capital of the Kingdom of Majorca in the 13th and 14th centuries, and the Catalan identity runs deep — you will hear Catalan spoken, see the *senyera* flag hanging from balconies, and eat *pa amb tomàquet* in the restaurants.
 
+The Palais des Rois de Majorque, a fortified palace on a hilltop in the south of the city, is the main sight — a beautiful blend of Romanesque and Gothic architecture with views to the Pyrenees. The Castillet, a crenellated red-brick gatehouse, is the symbol of the city and houses a small museum of Catalan folk art. The Place de la Loge, with its ornate 14th-century Loge de Mer (once a maritime exchange), is the heart of the old town.
 
- Magnificent monuments, such as the "Palais des Rois de Majorque", the Castillet, the "Loge de Mer" or the Campo Santo remind us that Perpignan has been covetted by Spain and France. Catalane in the heart, Perpignan expressses its difference in every way. Immortalized by Dali to make its train station the center of the world, Perpignan will seduce you by its exteme diversity. 
- There are a lot of nice beaches in the near distance
+Salvador Dalí famously declared Perpignan's railway station "the centre of the world" — a plaque commemorates the claim. The city is a useful base for day trips to the coast (Collioure and the Côte Vermeille are 30 minutes away), the medieval fortress town of Villefranche-de-Conflent, and the Petit Train Jaune scenic railway into the mountains.

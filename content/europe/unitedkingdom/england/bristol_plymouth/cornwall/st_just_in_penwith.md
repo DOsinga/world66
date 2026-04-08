@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.124369
 longitude: -5.679704
 title: St Just in Penwith

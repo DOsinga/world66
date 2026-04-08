@@ -1,11 +1,14 @@
 ---
-title: "Sihanoukville"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 10.622
+longitude: 103.5223
+title: Sihanoukville
 type: location
-latitude: 10.622049
-longitude: 103.522336
 ---
 
-**Kompong Som** or **Sihanoukville** is becoming more and more a touristy place. It is home to some 18,000 people, and the city sits on a headland ringed by pristine beaches and overlooks the Gulf of Thailand. The main reason to come here are the (four) beaches in the area. They are not really special, but good enough for some relaxing days. There are facilities for snorkeling, scuba diving and swimming. 
+Sihanoukville — also known as Kompong Som — is Cambodia's main beach town, sitting on a headland overlooking the Gulf of Thailand. It is the country's only deep-water port, but for most visitors the draw is the string of beaches along the coast: Otres, Ochheuteal, Sokha, and Independence Beach each have their own character.
 
+The town has changed dramatically in recent years. Chinese investment has transformed parts of the coastline, and the casino-driven construction boom has given some areas a chaotic, half-finished feel. But away from the development, the beaches remain attractive, the seafood is excellent and cheap, and the islands offshore — Koh Rong and Koh Rong Sanloem — are among the most beautiful in Southeast Asia.
 
- The number of hotels is more and more increasing. Sihanoukville is also the only deep-sea port of Cambodia and Cambodia's coast is 354 km long! On the weekend a lot of people from the capital [Phnom penh](/asia/cambodia/phnompenh) come to the city to enjoy the idyllic pace of life and the great seafood available here.
+On weekends, residents of [Phnom Penh](/asia/cambodia/phnompenh) pour in to enjoy the coast. Sihanoukville is about four hours from the capital by road, or you can fly — the airport has expanded along with everything else.

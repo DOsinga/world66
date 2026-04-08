@@ -1,8 +1,10 @@
 ---
-title: "Maralal"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 1.0978
+longitude: 36.6985
+title: Maralal
 type: location
-latitude: 1.1000
-longitude: 36.7000
 ---
 
 Maralal is a small highland town north of Nyahururu, set in attractive country at around 1900 metres — cool enough to be a relief after the lowland heat. It sits on the edge of Maralal National Sanctuary, a patch of bush that brings elephant, zebra, and impala into town. The surrounding area is Samburu country; you'll see herders in traditional dress around the market and on the roads out of town.

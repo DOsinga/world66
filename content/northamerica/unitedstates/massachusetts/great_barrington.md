@@ -1,15 +1,14 @@
 ---
-title: "Great Barrington"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.193936
 longitude: -73.362773
+title: Great Barrington
+type: location
 ---
 
-Nestled in the southwestern corner of Massachusetts, we are bordered by Connecticut to the south and New York to the west. We're easy to reach by car and are less than 2-1/2 hours from both New York City and Boston. The Appalachian Trail winds through our scenic network of mountains, streams, lakes and forests. We're rich with history and surrounded by natural beauty. In addition we offer exciting outdoor recreation, unique shopping, exquisite art galleries and antiques, world-class performing arts, wonderful lodging and dining and a solid professional community and diversified small-business base.
+Great Barrington sits in the southwestern corner of Massachusetts, tucked between the Taconic and Berkshire hills where Connecticut and New York press in from two sides. It's the largest town in the southern Berkshires and functions as the commercial and cultural hub for the region — a compact Main Street lined with good restaurants, galleries, and independent shops, surrounded by serious countryside.
 
-A great charm of the town is its magnificent view-points- to Prospect Rock or East Rock on Mount Bryant is a fairly hard climb, but, within half a mile of the railroad station, an easy path creeps upward through a sunshiny hill pasture bordered by a green wood; pine-needles strewn over tree- roots offer an agreeable seat in the forest balcony. on the edge of the hill; across swaying tree-tops swells The Dome of the Taconics. The inspiring landscape of valley and mountain extends into three States. As evening approaches, the wood-thrush pipes in harmony with the lines of Cowper:
+The town is well-positioned for outdoor pursuits. The Appalachian Trail crosses nearby, viewpoints like Prospect Rock and East Rock on Mount Bryant reward those willing to climb, and the Housatonic River runs through the valley below. In early July, the Berkshires Arts Festival takes over the Butternut ski area grounds (green grass, no snow), with dozens of craft and fine art vendors spread across the base of the mountain — worth timing a visit around if you're in the area.
 
-*"No noise is here, or one that hinders thought; Stillness accompanied with sounds like these Charms more than silence. Meditation here thought May think down hours to moments. Here the heart May give a useful lesson to the head And learning wiser grow without his books."
-***
-
-If visiting Great Barrington in early July be sure to visit the annual Berkshires Arts Festival which is held at the nearby Butternut Ski Hill grounds. Dozens of high quality artists and craftsperons sell their one-of-a-kind goods at the bottom of the ski slopes (now covered with green grass).
+Getting here is easy: under two and a half hours by car from both New York City and Boston, which makes Great Barrington a popular weekend escape for both cities. Plan accordingly on summer and fall weekends.

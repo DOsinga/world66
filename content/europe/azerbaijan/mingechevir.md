@@ -1,20 +1,16 @@
 ---
-title: "Mingechevir"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.920633
 longitude: 46.757101
+title: Mingechevir
+type: location
 ---
 
-Mingechaur is an ancient town and since the 1940s a significant centre of light industry, including the production of cotton and woollen textiles, knitwear, household items, souvenirs, and assorted consumer goods.
+Mingechevir sits on the Kura River about 275 km west of Baku, and its two claims to fame are separated by millennia: human settlement here dates back 5,000 years, and in the 1950s it became the site of the largest hydroelectric dam in Azerbaijan. Both facts shape the town you see today.
 
-The population today is almost 100.000 and the archaeological findings in the area revealed human occupation dating as far back as 5000 years ago, a prosperous town from the Albanian period and rich strata for other periods, revealing a intense trading and manufacturing activity.
+Archaeological work in the area revealed continuous occupation from the Albanian period onward, with rich trading and manufacturing evidence across multiple eras. Much of what was uncovered now sits in Baku — some sites were submerged when the dam created the Mingechevir Reservoir, an artificial lake covering 605 square kilometres that remains the largest body of water in Azerbaijan.
 
-There is some interesting architecture in the centre and the town was generously dotted with parks. The area near the Kura river is particularly pleasant, with nice restaurants and tea houses. There is some entertainment with a drama theatre and the Kosmos cinema. Some of the modern monuments are quite original, don't miss the war memorial. Have a look also at the huge new mosque. The modest football field is home to F.C.Kur Nur.
+The dam itself, built in 1953 and operated by Azerenergy, brought the town electricity, flood control, and irrigation, and gave it the pleasant lakeside setting near the reservoir's small beach. The Kura rises in Georgia and flows southeast toward the Caspian — the lower 500 km are navigable, and a canal network connects it to the Araz River.
 
-There is a grim hotel in the city centre (the Kur), but if you are looking for a decent place try the hotel Kainat, in the western side of the town, across the river.
-
-The Mingechaur Reservoir, with an area of 605 square kilometers that makes it the largest body of water in Azerbaijan, was formed by damming the Kura river. Operated by Azerenergy, the Mingechaur hydroelectric power station was built in 1953, providing Mingechaur not only with energy, flood control and irrigation but also with a large and pleasant artificial lake nearby which has a small beach . Production capacity is 360MWt.
-
-The waters of the Kura river also submerged several important archaeological sites, although some of the findings can now be seen in Baku. The Kura River rises in Georgia and flows southeast towards the Caspian Sea. The lower 500km are navigable and prone to flooding. There is a network of canals linking the Kura to the Araz River
-
-(275 km west of Baku)
+Since the 1940s Mingechevir has been a centre of light industry: cotton and woollen textiles, knitwear, household goods, and souvenirs. The population today is close to 100,000. The town centre has some interesting architecture and generous parkland; the riverbank area is particularly pleasant, lined with restaurants and tea houses. There's a drama theatre and the Kosmos cinema for evenings in, and a war memorial and a large new mosque worth a look.

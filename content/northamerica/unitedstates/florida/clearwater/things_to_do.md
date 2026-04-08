@@ -1,6 +1,6 @@
 ---
-title: "Things to do in Clearwater"
+title: "Things to Do"
 type: section
 ---
 
-Simply Kayaking is a local guided kayak eco-tour service in the [Palm Harbor](/northamerica/unitedstates/florida/palmharbor) and [Tarpon Springs](/northamerica/unitedstates/florida/tarpon_springs) area. They take daily trips for groups of 1 to 16 kayakers. Everything is included; guides, instruction, kayak and safety equipment, bottled water, snacks, sunscreen, and a photo CD of the trip is all included. (727) 481 0184
+Beyond the beaches, Clearwater has a handful of attractions worth your time. The Clearwater Marine Aquarium is home to Winter the dolphin and focuses on marine rescue and rehabilitation. Kayak eco-tours through the mangrove channels around Palm Harbor and Tarpon Springs offer a quieter side of the coast, with manatee and dolphin sightings common. Parasailing, jet skiing, and fishing charters all operate from Clearwater Marina.

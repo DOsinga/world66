@@ -1,9 +1,12 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - africa/gambia/bakau
+  - africa/gambia/juffure
 ---
 
-[Banjul](/africa/gambia/banjul) itself is small and can be seen in half a day, but it makes a useful starting point for excursions along the coast and upriver.
+Banjul itself is small and can be seen in half a day, but it makes a useful starting point for excursions along the coast and upriver.
 
 **Bakau, Fajara, Kotu and Kololi**
 

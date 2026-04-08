@@ -1,8 +1,16 @@
 ---
-title: "Lalibela"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 12.03671
 longitude: 39.046112
+title: Lalibela
+type: location
 ---
 
-Missing this town would be like going to Egypt and not seeing a pyramid. Lalibela’s 11 Orthodox churches are some of the world’s greatest architectural marvels. Each church was carved out *of a solid piece of red rock* in the 12th century. The largest Medhane Alem measures an incredible 100 ft/30 m long 77 ft/24 m wide and 37 ft/11 m high. Beta Giorgis (the Church of St. George) is shaped like a cross and surrounded by a 40-ft/12-m trench. Historians say that the churches were built by King Lalibela to mark his conversion to Christianity. Legend says that the churches were completed in 24 years with the help of angels (historians believe it was 100 years and some Egyptians). The churches have beautifully painted facades tunnels and a cloth (in the Pillar of Light Church) upon which Christ was said to have leaned when appearing to King Lalibela in a dream. Built as the king’s own New Jerusalem Lalibela strikes many visitors as one of the most sacred eerily mystical places on Earth particularly during religious festivals when pilgrims arrive in the thousands from around the country. Especially in the month of September, the celebration of Jesus Christ's baptism is considered as one of the most memorible festivals in Lalibela. The event attracts many outside visitors. The Saturday market is also a marvelous vantage point for observing Ethiopian villagers coming in to trade goats cows cloth and vegetables. For all of its holiness the town itself is rather a squalid fly-plagued place with no telephones or local transport and visitors to the churches are often surrounded by persistent young beggars. Nevertheless Lalibela is a must-see destination. 210 mi/340 km north of Addis Ababa.
+Missing Lalibela would be like going to Egypt and not seeing a pyramid. This small town in the Lasta mountains, 340 km north of Addis Ababa, holds 11 Orthodox churches carved out of solid red rock in the 12th century — some of the greatest architectural marvels on earth.
+
+The largest, Medhane Alem, measures 30 metres long, 24 wide, and 11 high, hewn from a single block of stone. Beta Giorgis (the Church of St. George), shaped like a perfect cross and surrounded by a 12-metre trench, is the most photographed. Historians believe King Lalibela built them to create a "New Jerusalem" after Muslim conquests cut Ethiopian Christians off from the Holy Land. Legend says angels helped complete the work in 24 years; historians think it took closer to a century, possibly with Egyptian craftsmen.
+
+The churches have beautifully painted facades, tunnels connecting them underground, and are still in active use as places of worship. During religious festivals — especially Timkat (Epiphany) in January — pilgrims arrive in their thousands, dressed in white, and the atmosphere is extraordinary. The Saturday market is also worth seeing: Ethiopian villagers coming in to trade goats, cloth, and vegetables.
+
+The town itself is poor and fly-plagued, with limited infrastructure and persistent young beggars around the churches. None of that diminishes the experience. Lalibela is a must-see destination.

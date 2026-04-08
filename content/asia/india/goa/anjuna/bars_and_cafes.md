@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes"
+title: Bars and Cafes
 type: section
 ---
 

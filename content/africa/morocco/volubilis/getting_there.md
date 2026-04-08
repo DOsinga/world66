@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-The two easiest ways to reach Volubilis are by bus and car. While bus is definitely cheaper and in my opinion more interesting, hiring a car is faster, sometimes more flexible and to a certain degree more reliable. In either case, it is best to leave as early in the morning as possible since a ride
+Volubilis is about 30 kilometres north of [Meknes](/africa/morocco/meknes) and 4 kilometres from [Moulay Idriss](/africa/morocco/moulayidriss). The easiest way to visit is by grand taxi from Meknes — negotiate a half-day rate that includes waiting time at both Volubilis and Moulay Idriss. Buses run from Meknes to Moulay Idriss, from where you can walk or take a short taxi ride to the site. Leave as early in the morning as possible, as the site gets very hot by midday.

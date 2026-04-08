@@ -1,24 +1,18 @@
 ---
-title: "Telemark"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 59.396268
 longitude: 8.66266
+title: Telemark
+type: location
 ---
 
-**Telemark** is one of Norway's foremost vacation areas. Its varied and spectacular scenery mixes well with its sense of fun and enjoyment with something to do for all the family. From theme parks to countryside activities, Telemark has something for everyone, whatever the season. 
+Telemark is a large inland county in southern Norway, best known abroad for two things: the canal that once linked its mountain valleys to the sea, and the skiing technique that carries its name. Both are worth your time.
 
-The diversity of the landscape adds excitement to the area. Seaswept rocky shores merge with open farmlands, vast forests and narrow valleys. Steep mountains plunge into bottomless lakes or widen into endless mountain moors rolling onward to the horizon. 
+The [Telemark Canal](https://en.wikipedia.org/wiki/Telemark_Canal), completed in 1892, runs 105 km from the port city of Skien up to the old trading town of Dalen, rising 72 metres through 28 lock chambers. It was blasted through the mountains by 500 workers over five years, and when it opened, European engineers called it the eighth wonder of the world. Today you can travel the full length by canal boat — a slow, unhurried journey past farms, forest, and locks that still operate by hand.
 
-The Telemark Canal 
+The county is also where modern skiing began. In the Morgedal valley in the mid-nineteenth century, a farmer named Sondre Norheim developed the carved turn, the ski jump, and the binding that allowed heel lift — the foundations of almost every ski discipline that followed. The Telemark turn, which requires bending the back knee and dropping it toward the ski, is his most visible legacy. Morgedal now has a small ski museum in his honour.
 
-The Telemark Canal was etched in the mountains for well over 100 years ago, and when the canal was completed in 1892 the rest of Europe called it “the eighth wonder of the world". Five hundred men had worked for five years, blasting their way through the mountains. With a total of 28 lock chambers, the route was cleared from Skien to the ancient Norwegian town of Dalen, a sailing route of 105 km and with an elevation difference of 72 meters. 
+Away from these two landmarks, the landscape is the main draw. The western part of the county rises into the Hardangervidda plateau, one of the largest mountain plateaus in Europe, shared with Hardanger and Numedal. The eastern lowlands around Skien are flatter and more agricultural. Between them, narrow valleys cut through dense spruce forest, opening onto lakes that are used for swimming and fishing in summer and frozen skating in winter.
 
-Skiing 
-
-It all began in Telemark. With woven willow bindings with heel fastenings and skiing with inner turns, Sondre Norheim originated the modern sport of skiing. With his daring skiing competitions, ski jumps and Telemark swings in Morgedal valley, Sondre taught the whole world to ski. Bring your family to Telemark and Hovden and experience a real skiing adventure! 
-
-Summer 
-
-Summer, sun, sea! Roaring waterfalls and silent lakes. Lazy slopes and wild mountains. Blues and folk music. A throng of happy holidaymakers or quiet paths for peace and meditation. The choice is yours! Telemark is a fairytale of opportunities. With its calm and temperate climate, its varying and magnificent scenery, its rich cultural heritage and multitude of exciting activities, Telemark has been a real summer fairytale for large and small, for more than a hundred years. 
-
-www.norwaydirect.co.uk
+Skien, the county capital, is the birthplace of Henrik Ibsen, and the house where he grew up — Venstøp Farm — is preserved as a museum outside the city.

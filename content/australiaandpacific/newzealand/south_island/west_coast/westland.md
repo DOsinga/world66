@@ -5,14 +5,6 @@ latitude: -42.8508
 longitude: 170.7152
 ---
 
-**Westland**, the southern part of the [West Coast](/australiaandpacific/newzealand/south_island/west_coast) of the [South Island](/australiaandpacific/newzealand/south_island) of [New Zealand](/australiaandpacific/newzealand) is a narrow ribbon of land where the mountains of the Southern Alps rise out of the Tasman Sea. The steep mountains force the warm moist winds from the sea to rise, cool and drop their rain on this land. As a consequence the countryside is full of rainforests, lakes, rivers and the occasional swamp. 
+Westland is the southern part of the [West Coast](/australiaandpacific/newzealand/south_island/west_coast), a narrow ribbon of land where the Southern Alps rise almost straight out of the Tasman Sea. The steep mountains force warm moist winds upward, dropping enormous amounts of rain that feed dense rainforests, glacier-fed lakes and rivers, and the occasional swamp.
 
-Places in Westland include:
-
-[Greymouth](/australiaandpacific/newzealand/greymouth)
-
-[Hokitika](/australiaandpacific/newzealand/hokitika)
-
-[Franz Josef](/australiaandpacific/newzealand/franzjosef) Glacier
-
-Minor corrections on 11 January 05
+The two star attractions are the [Franz Josef](/australiaandpacific/newzealand/franzjosef) and Fox glaciers — rare examples of temperate glaciers that descend almost to sea level, surrounded by rainforest. [Hokitika](/australiaandpacific/newzealand/hokitika) is the region's cultural hub, known for its greenstone carving and annual Wildfoods Festival, while [Greymouth](/australiaandpacific/newzealand/greymouth) is the largest town on the Coast and the terminus of the TranzAlpine railway from Christchurch.

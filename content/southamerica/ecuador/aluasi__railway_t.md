@@ -1,10 +1,14 @@
 ---
-title: "Aluasi - railway town"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -2.2005
+longitude: -78.8469
+title: Alausi
 type: location
 ---
 
-Travel Guide
+Alausi is a small highland town in central Ecuador, about two hours by bus south of [Riobamba](/southamerica/ecuador/riobamba), perched at the top of a steep descent into the lowlands. A statue of St Peter watches over the town from a hilltop, and the climate is often cold and cloudy, especially in the rainy season.
 
-Alausi is an attractive highland town around two hours by bus from [Riobamba](/southamerica/ecuador/riobamba), with a statue of patron saint St. Peter watching over the town from a hilltop. The climate is often cold and cloudy especially in the rainy season.
+The reason most travellers come here is the Nariz del Diablo — the Devil's Nose — a famous section of Ecuador's railway line where the track zigzags back and forth down an impossibly steep mountainside. The train ride from Alausi descends and returns in about two hours, passing dramatic gorge scenery on the way. It is routinely listed as one of Ecuador's top tourist experiences.
 
-The main feature of the town is its location at the top of the "Devil's Nose", a very steep section of Ecuador's only railway line, constructed around a hundred years ago. The trainline zigzags backwards and forwards past dramatic mountainside views to negotiate the gradient. The Devil's Nose (Nariz del Diablo) train-ride is often listed as one of Ecuador's tourist highlights.
+Beyond the train, Alausi itself is a pleasant enough place for a wander — colonial streets, a Sunday market, and views across the valley — but there is not much to fill more than a few hours.

@@ -1,14 +1,14 @@
 ---
-title: "Broken Hill"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -31.965
-longitude: 141.451111
+longitude: 141.4511
+title: Broken Hill
+type: location
 ---
 
-Broken Hill is a hospitable place in the middle of desert-like surroundings. It is an important silver mining centre that became prosperous after Charles Rasp found the first silver lode in the area. His mining company BHP became the largest company in Australia. Today, silver is still an important product of Broken Hill, although zinc is now the most important mineral in SIlver City, as Broken Hill is also know. You can visit several mines, the most adventurous of whis is perhaps the Delprat's Mine, where you don a miners outfil and go 130 meters underground on a two hour tour.
+Broken Hill sits in the far west of New South Wales, surrounded by flat red desert — closer to Adelaide than to Sydney, and running on South Australian time despite being technically in NSW. It is one of the great mining towns of Australia, founded after Charles Rasp discovered a massive silver-lead-zinc lode in 1883. His mining company, BHP, grew into the largest company in Australia. Silver and zinc are still mined here, and you can tour several mines — the most memorable is Delprat's Mine, where you don a miner's outfit and descend 130 metres underground.
 
-As well as having one big company, Broken Hill saw the birth of one big union. In the early days, mining conditions were terrible, and many miners died in accidents or were afflicted with lead poisoning and lung disease. For years miners strived to improve their working conditions, and unions were formed. When these united to work together on the 18 month Big Strike of 1919-20 the miners finally managed to get their situation improved.
+Broken Hill's labour history is as dramatic as its geology. Conditions in the early mines were appalling, and the unions that formed here were among the most militant in Australian history. The Big Strike of 1919-20, which lasted 18 months, finally won the miners improved conditions and became a landmark in the Australian labour movement.
 
-Besides being a miners town, Broken Hill is also a cultural centre. The red earth and harsh light has been an inspiration for many artists and there are a good number of art galleries. The Broken Hill City Art Gallery (corner of Blende and Chloride Streets) is devoted to the work of local artists. It also houses the intricate silver sculpture commisioned by Charles Rasp, the *Silver Tree*. The Pro Hart Gallery (108 Wyman Street) is owned by Pro Hart, Broken Hill's best-known artist. His gallery displays both his own work as minor works by great artists like Picasso and Dali. It also houses a good collection of Australian art. The Sculpture Symposium was a project by a multinational group of sculptors. They carved sandstone blocks on a hilltop 9 km from Broken Hill. From here you can not only see the scuptures, but also get a great view over the plains. Contact the tourist information centre for directions and the keys to the gate.
-
-For fans of the Flying Doctors Broken Hill is of course a must-see. The Royal Flying Doctor Service Base can be visited, and tours include a film and visits to the headquarters, aircraft and the radio room that handles calls from remote towns and stations.
+The town is also an unexpected cultural centre. The harsh light and red earth have inspired generations of artists, and Broken Hill has more galleries per capita than you would expect from an outback mining town. The City Art Gallery houses the Silver Tree, an intricate silver sculpture, and work by local artists. The Sculpture Symposium — sandstone blocks carved by international artists on a hilltop nine kilometres out of town — is worth the drive for the sculptures and the sweeping views over the plains. The Royal Flying Doctor Service base offers tours that include a visit to the radio room handling calls from remote stations across the outback.

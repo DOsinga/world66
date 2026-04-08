@@ -1,10 +1,6 @@
 ---
-title: "Getting There in Mtera"
+title: Getting There
 type: section
 ---
 
-There are daily buses between Iringa and Dodoma .
-The road is part of the old British “ Cape-Cairo Highway ”, but it is poorly maintained. A fourwheel-drive is necessary.
-
-**Contributors**
-May 25, 2006
+Mtera sits on the main road between Iringa and Dodoma, the old British Cape-Cairo Highway. Daily buses run between both cities and pass through Mtera. The road is poorly maintained and a four-wheel-drive is strongly recommended if you are driving yourself.

@@ -1,10 +1,10 @@
 ---
-title: "QASR LIBYA"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 32.6144
+longitude: 21.3995
+title: Qasr Libya
 type: location
-latitude: 32.614438
-longitude: 21.399456
 ---
 
-Travel Guide
-
-The museum of Qasr Libya about 45 km west of Al Bayda has one of the most beautiful collections of Byzantine mosaics in Libya.
+Qasr Libya is a small village about 45 kilometres west of Al Bayda in the Green Mountain region of northeastern Libya. Its museum holds one of the finest collections of Byzantine mosaics in Libya, discovered in two 6th-century churches. The mosaics depict animals, hunting scenes, and religious imagery in remarkable detail and condition. The site received little tourist traffic even before Libya's period of conflict, giving it an almost private quality for those who reached it.

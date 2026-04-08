@@ -3,4 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-One of the best ways to get around the island, especially in Koror, is by bicycle! Best deal on the island for a bike rental is with Island Biycle Rental, website at www.PalauBikeRental.com
+Koror is small enough to walk most of it on foot. The main commercial strip runs along the waterfront and is easily covered in twenty minutes. For exploring further afield — particularly the Compact Road north into [Babeldaob](/australiaandpacific/palau/babeldoab) — you will need a vehicle. Car rentals are available through several local operators, and taxis are cheap and plentiful within town. Some guesthouses also arrange transfers to dive operators and the ferry docks.

@@ -1,10 +1,12 @@
 ---
 title: "Brentwood"
 type: location
-latitude: 37.931777
-longitude: -121.696026
+latitude: 37.9318
+longitude: -121.6960
 ---
 
-Travel Guide
+Brentwood sits at the eastern edge of Contra Costa County, about an hour's drive from San Francisco, where the Sacramento-San Joaquin Delta meets the foothills of Mount Diablo. It is, at its core, a farm town — and a good one. The surrounding flatlands produce some of the best sweet corn in the state, along with stone fruits, berries, and vegetables that most Bay Area residents only encounter in supermarkets.
 
-[Brentwood](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco/day_trips/brentwood), an hour’s drive East of San Francisco, is one of several towns located near the delta waterways east of Mt. Diablo just below scenic rolling hills in the Central Valley . This area is a viable agricultural area, due to its unique micro climate, amidst new affordable homes and major shopping areas. Known nationally for its Brentwood Sweet Corn, the area is also well-known for its Harvest Time farm trail with over 30 farms and ranches offering the visitor a unique U-Pick experience of apricots, peaches, pears, nectarines, cherries and other equally delicious and fresh fruits, vegetables and agricultural products. A revitalized and picturesque Old Downtown offers lots of quaint boutiques and dining opportunities. Brentwood is also home to the annual, family-friendly Cornfest each July after Independence Day, celebrating the corn harvest and offers product and food vendors from all over the state. A farm trail map is produced annually by the Non-Profit group Harvest Time to direct you to the farms.
+The real draw is the Harvest Time farm trail, a network of more than 30 family farms and ranches that open to visitors from late spring through early fall. You pick your own cherries, apricots, peaches, nectarines, and strawberries directly from the source. It is unpretentious, genuinely fun, and the produce is exceptional. Families make a day of it; serious cooks plan whole weekends around the stone fruit season.
+
+Downtown Brentwood has been tidied up over the years into a walkable strip of boutiques, cafes, and restaurants. It is modest but pleasant. Every July after Independence Day, the town holds Cornfest, a family-friendly celebration of the corn harvest with vendors, food stalls, and the kind of civic enthusiasm that only a town with a genuine agricultural identity can pull off.

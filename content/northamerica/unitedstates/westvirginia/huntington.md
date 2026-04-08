@@ -1,14 +1,16 @@
 ---
-title: "Huntington"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.41925
 longitude: -82.445154
+title: Huntington
+type: location
 ---
 
-Huntington lies in the western extreme of [West Virginia](/northamerica/unitedstates/westvirginia), across the river from Ohio and just down the road from Kentucky. Founded as a railroad town and named in honor of railroad baron Collis P. Huntington, industry has been the heartbeat of the city from its infancy. It is an important port on the Ohio River, and the city has put much effort into making the riverfront area attractive and leisurely. 
+Huntington sits on the Ohio River in the western tip of [West Virginia](/northamerica/unitedstates/westvirginia), where the state meets both Ohio and Kentucky. It was founded in 1871 as a railroad terminus and named after railroad magnate Collis P. Huntington. The city grew around industry and river trade, and while much of that has declined, the riverfront has been revitalised with parks and a walkway along the Ohio.
 
-Unfortunately (or fortunately, depending on who you ask) Huntington's city leaders have pretty much killed the downtown area by allowing the main shopping area to move east to Barboursville and routing the Interstate Highway around the city rather than through it. Today Huntington's biggest draw is Marshall University, and sporting events associated with the Thundering Herd.
+The city's identity today is largely defined by **Marshall University** and its Thundering Herd athletics programme — football in particular draws strong local loyalty. The downtown area is quiet, with most commercial activity having shifted to the eastern suburbs.
 
-While in the Huntington area, take the kids to Camden Park, a vintage amusement park that still believes in *amusing* children, rather than shocking and freightening them. About 20 minutes to the East lies the town of Milton, and the Blenko glass factory where you can witness beautiful trinkets (both functional and ornamental) being mouth-blown in the same manner they were made 200 years ago.
+**Camden Park**, a vintage amusement park that has been operating since 1903, is a genuine throwback — wooden roller coasters, bumper cars, and a pace that feels like it belongs to another era. About 20 minutes east in Milton, the **Blenko Glass** factory produces hand-blown glass using techniques largely unchanged for two centuries; visitors can watch the process and buy from the factory outlet.
 
-Huntington is located along I-64 about 50 miles west of Charleston, 2 hours south of Columbus, OH, and 2 1/2 hours east of Lexington, Ky. The Huntington airport has flights from Pittsburgh, Cincinnati, and some other cities. Amtrak serves Huntington on the Cardinal Line.
+Huntington is on I-64, about 80 kilometres west of Charleston. Amtrak's Cardinal line stops here, and the Tri-State Airport has limited commercial flights.

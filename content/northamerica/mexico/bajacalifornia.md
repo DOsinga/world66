@@ -1,16 +1,18 @@
 ---
-title: "Baja California"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 30.033892
 longitude: -115.142511
+title: Baja California
+type: location
 ---
 
-Baja Califonia is that 1300 kilometer long arm that dangles down from the US border between the Pacific and the Gulf of California. The whole of the peninsula consists of rugged and nearly uninhabited mountains. 
+Baja California is the 1,300-kilometre peninsula that hangs south from the US border between the Pacific Ocean and the Gulf of California. It is mostly rugged, arid, and sparsely populated — a spine of mountains running through desert, with the sea on both sides. For travelers willing to make the drive, it is one of the most dramatic landscapes in North America.
 
-The desert landscape is fascinating and the scenery is extremely beautiful. Most travelers find Baja a magical place of blue skies, fresh air and solitude. A great get away form the crazy land of California. 
+The northern border at [Tijuana](/northamerica/mexico/tijuana) is the busiest land crossing in the world. Beyond the border city, the Transpeninsular Highway runs the full length of the peninsula through increasingly empty country. The Pacific coast is wild and windswept; the Gulf side is calmer, warmer, and fringed with islands.
 
-Tijuana, a city with a population of over 1 million is located on the Pacific and is the most important border crossing. The San Ysidro/ Tijuana crossing is the busiest border crossing in the world. The town boomed in the 1920s when hollywood stars came here for a drink and, if willing to put up with hordes of drunk American college students on weekends, it is still a great place for nightlife. Try stopping by at some of the grills of the side of the highway where they will serve up the best of fresh fish tacos.
+[Ensenada](/northamerica/mexico/ensenada), about 100 kilometres south of Tijuana, is a busy port city and wine region — the Valle de Guadalupe nearby has become one of Mexico's most interesting wine-producing areas. Further south, the central desert opens up: the Desierto Central is stark, beautiful, and home to some of the tallest cacti in the world, the cardón.
 
-Ensenada is the third city of Baja and is a leading seaport. It is a great city, beautiful and fully equiped to serve tourists and travelers. 
+[La Paz](/northamerica/mexico/lapaz), the capital of Baja California Sur, sits on the Gulf side and serves as the base for exploring the southern peninsula. It is a relaxed city with good seafood, a long malecón, and easy access to the islands of Espíritu Santo — a UNESCO-protected area where you can snorkel with sea lions.
 
-La Paz is the capital of Baja California Sur. It is a fast growing city, but still a quite relaxed place to stay. It is an excellent base for exploring the south end of the peninsula. Cabo san lucas is a big resort with many tourist facilities in the south.
+At the southern tip, Cabo San Lucas and San José del Cabo form the Los Cabos resort corridor. Between November and March, grey whales migrate into the lagoons along Baja's Pacific coast — Guerrero Negro and Bahía Magdalena are the main watching spots, and the encounters are remarkably close.

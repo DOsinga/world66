@@ -1,8 +1,10 @@
 ---
-title: "Basse Casamance"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 12.388451
 longitude: -16.238502
+title: Basse Casamance
+type: location
 ---
 
 Basse Casamance — the lower Casamance region — is the lushest part of Senegal, a world apart from the dry scrubland of the north. The landscape is dense: tropical forest with high-canopy trees, rice paddies, mangrove estuaries, and the Casamance River winding through it all. The region is home to the Diola people, whose culture, religion, and traditions are quite distinct from the Wolof-dominated north.

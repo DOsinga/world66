@@ -1,11 +1,16 @@
 ---
-title: "Togian Islands"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -0.3811
+longitude: 121.9442
+title: Togian Islands
 type: location
-latitude: -0.381142
-longitude: 121.944206
 ---
 
-Tip! Stunning archipelago in the Tomini bay south of the northern arm of [Sulawesi](/asia/indonesia/sulawesi).Rich in nature and coral reefs,very good diving in places,abundant marine life,as well as one of the last refuges in indonesia of animal species like the saltwater croc and gigantic coconut crab.Several isolated & charming beach resorts. Good destination to chill out,to be reached by ferry from Gorontalo in the north(when coming from Manado) or Ampana in the south(much closer).Ferryservices erratic. Note that there has been quite some religious strife in recent years in the area around Poso(you pass through here on your way to Ampana). When coming via Gorontalo and needing to stay overnight before taking the ferry check out the guides for the adress of Alex Velberg's hotel(forgot the name,check around) situated in the colonial mansion of his Dutch grandfather,the local harbourmaster. Alex speaks Dutch fluently and has some great stories. (Dutch) republicans be aware,he's an ardent supporter of the Dutch royal house(despite ever having been abroad).His kids can take you around town(if you manage to befriend them).
+The Togian Islands are a remote archipelago scattered across the Tomini Bay, off the northern arm of [Sulawesi](/asia/indonesia/sulawesi). Largely bypassed by mainstream tourism, they offer some of the best diving in Indonesia — rich coral reefs, abundant marine life, and clear water without the crowds. The islands are also one of the last refuges in Indonesia for the saltwater crocodile and the enormous coconut crab.
 
-**Contributors**
-October 12, 2005
+Several small, isolated beach resorts dot the islands, with hammocks, simple food, and little else to distract you. It is a destination for slowing down rather than sightseeing. The diving and snorkelling are the draw, and they are genuinely exceptional.
+
+Getting here requires effort. The islands are reached by ferry — either from **Ampana** in the south, which runs every few days and takes a couple of hours with stops, or from **Gorontalo** in the north, roughly once a week, with a journey of around twelve hours. Both schedules are erratic and worth checking in advance: ask in Manado before heading to Gorontalo, and ask locally before setting out for Ampana. Cabins are available on the longer Gorontalo ferry for a premium — worth it if you can fill the four berths. A meal of rice and egg is nominally included, served below deck near the engine room. Chartering a speedboat is possible but expensive.
+
+Note that the overland route to Ampana passes through the Poso area, which has experienced religious conflict in recent years. Check current conditions before travelling that way.

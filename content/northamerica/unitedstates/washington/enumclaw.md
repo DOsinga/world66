@@ -1,16 +1,16 @@
 ---
-title: "Enumclaw"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 47.204779
 longitude: -121.991637
+title: Enumclaw
+type: location
 ---
 
-Travel Guide
+Enumclaw sits at the foot of the Cascade foothills in southeast King County, about 45 miles southeast of Seattle. The town bills itself the "Gateway to Mt. Rainier," and the claim is honest: Highway 410 heads east out of downtown, climbs through timber country, and delivers you to Crystal Mountain ski area and Mt. Rainier National Park beyond.
 
-The self-termed "Gateway to Mt. Ranier," Enumclaw, Washington boasts delights galore for the interested enthusiast of the Pacific Northwest and it's natural treasures and cultural wonders. Known historically by Native Americans as "Home of Evil Spirits" and a logging town, today Enumclaw is a bedroom community, a ten-mile dairy cow farm buffer separate from the sprawls of the Seattle-Tacoma metropolitan area.
+The surrounding landscape is the main draw. Crystal Mountain is Washington's largest ski resort, with terrain to suit everyone from beginners to steep-and-deep seekers, and the views of Rainier from the summit are exceptional. In summer, the same highway opens access to backcountry hiking, camping along the White River, and the wildflower meadows of the national park. If you have only one reason to stop in Enumclaw, it's as a base for these mountains.
 
-While recent years have seen Enumclaw lose its rural personality, a small group of farmers and lumbermen continues to give the city a quaint feeling. Highway 410 leaves civilization in Enumclaw, leading to Crystal Mountain, Washington's premier skiing destination, and Mt. Ranier National Park beyond. Travelling outward into the hills which surround Enumclaw, the interested backpacker finds a smorgusboard of hiking and camping opportunities. In Summer, those who prefer relaxing evening in town can enjoy the King County Fair in July or a drink with locals in the classic dive bar, the Ski Inn.
+In town, the pace is slow and agricultural. Dairy farms still ring the community, and the King County Fair — held each July — draws livestock judging, rodeo events, and the usual carnival sprawl. The town has the feel of a place that exists on its own terms, not for tourists.
 
-Notorious nation-wide for a heavily publicized beastality-related death, Enumclaw offers two hotels, having lost downtown historic Ridge Motel late in 2002. Wary travellers will find comfort in a Burger King, McDonalds, Pizza Hut and any number of other ubiquitous American restaurants. Locals flock to Oriental Gardens or Ranchito Mexican restaurant.
-
-Enumclaw can be reached from Seattle via Auburn and highway 164, Tacoma via Puyallup and highway 410 or Bellevue via Renton and highway 169. While in Southeast King County, also stop by Enumclaw's Pierce County Twin, Buckley that lies just South of the White River. Bukcley boasts that it lies "above the fog and below the snow" and is home to Ranier State School, Washington State's largest repository for the mentally retarded. The Institution is not to be missed for architecture enthusiasts, embodying a unique 1950's brick style.
+Getting here is straightforward: from Seattle, take Highway 169 south through Renton and Maple Valley, or come via Auburn and Highway 164. From Tacoma, Highway 410 runs northeast through Puyallup.

@@ -1,28 +1,14 @@
 ---
-title: "Gloucester"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 51.8654
+longitude: -2.2458
+title: Gloucester
 type: location
-latitude: 51.86537
-longitude: -2.245819
 ---
 
-Gloucester is the capital of Gloucestershire and located in the Severn
-Vale. It is a laid back place and a good starting point for exploring
-the [Cotswolds](/europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds). The town has quite a few interesting sights itself as well...
+Gloucester is the county town of Gloucestershire, sitting in the broad Severn Vale where the river begins to widen toward its estuary. It's an ancient place — founded by the Romans as Glevum — with a cathedral that ranks among the finest in England and a restored Victorian dockland that gives the city an unexpectedly handsome waterfront.
 
-A visit to the magnificent Norman Cathedral is a must, as is the
-House of the Tailor of Gloucester, the actual shop that Beatrix Potter
-used as a model for the Tailor's home in her famous story "The Tailor
-of Gloucester". The nearby Folk and City museums, both individual and
-fascinating, will lead you through the complete Gloucester story; its
-extraordinary history, its people, their lives and livelihoods.
+It makes a good base for the [Cotswolds](/europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds) to the east, and the Forest of Dean is within easy reach to the west. But Gloucester itself rewards a day or two of exploration on its own terms.
 
-Just a short walk from the City Centre, you will discover the
-Historic Gloucester Docks, home to three fascinating museums - National
-Waterways Museum, Regiments of Gloucestershire Museum, and the Robert
-Opie Collection.
-
-The Docks also boast a specialist shopping centre, waterfront
-cafes, bars and restaurants and boat trips on the Queen Boadicea II, a
-Dunkirk little ship offering river cruises. There are also guided
-tours, a family picnic area, the amazing Antiques Centre, with four
-floors packed full of treasures, and ample car parking.
+The cathedral is the undisputed highlight: its Norman nave, fan-vaulted cloisters, and the tomb of Edward II make it a genuine architectural pilgrimage. The Historic Docks, a short walk from the centre, have been well restored — the warehouses now house museums and cafes around a working inland port basin.

@@ -1,8 +1,10 @@
 ---
-title: "Shusha"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.763257
 longitude: 46.75115
+title: Shusha
+type: location
 ---
 
 Shusha (Şuşa) sits at 1,400 metres on a rocky ridge in the Lesser Caucasus, 11 kilometres north of Khankendi/Stepanakert. It is the city that both Azerbaijanis and Armenians regard as the symbolic heart of the Karabakh conflict: Azerbaijanis see it as the cultural capital of their nation, the birthplace of their classical music tradition; Armenians called it Shushi and held it as a key stronghold for nearly three decades.

@@ -1,38 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-accessibility: "First Floor"
-address: "Blue Building - Road to Montezuma - Cobano"
-email: "info@cafeazucar.net"
-phone: "5420198"
-price: "$10-$20"
-type: "European"
-url: "www.cafeazucar.net"
 ---
 
-There are a few good places to eat in Montezuma. As well do not miss the Organic Market that takes place every Saturday inside the park. You´ll get in touch with the large expat community and have good food to eat.
-
-**Contributors**
-April 15, 2007
-
-### [Cafe Azucar](/northamerica/costarica/montezuma/eating_out/cafe_azucar)
-
-Fully air-conditioned cafe/restaurant which serves fresh food including salads, sandwiches made with homemade bread, European style food for main courses like beef in red wine sauce and tuna with basil & capers sauce.
-The restaurant also offers fresh coffee (they have a coffee machine) and homemade ice cream.
-Open Monday to Friday from 8.00 to 20.00 and Saturday from 8.00 to 16.00
-
-type: European
-
-
-
-accessibility: First Floor
-
-tel: 5420198
-
-url: [www.cafeazucar.net](http://www.cafeazucar.net)
-
-address: Blue Building - Road to Montezuma - Cobano
-
-PriceOfMenu: $10-$20
-
-email: info@cafeazucar.net
+Montezuma has a surprisingly good food scene for a village its size, thanks to a large expat community and a steady flow of travellers. The Saturday organic market in the park is the social hub of the week -- local and expat vendors sell fresh produce, baked goods, and prepared food. Several small restaurants along the main road serve a mix of Costa Rican staples and international dishes, with an emphasis on fresh ingredients and vegetarian options.

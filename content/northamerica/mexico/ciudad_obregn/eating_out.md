@@ -1,8 +1,10 @@
 ---
-title: "Eating Out in Ciudad Obregón"
+title: "Eating Out"
 type: section
 ---
 
-Obregon is a city with not many restaurants, so the concept of eating out literally means eating out mostly on sidewalk stands. But, the food is one of the best things Obregón has to offer. Starting with tacos, not just any tacos, the list is long: tacos de carne asada, tacos cebosos, tacos de cabeza, tacos de chicarrón, tacos de cahuamanta, just to name a few. The next most distinctive food is hot dogs. You will see all along the corner of the streets white and red hot dog carts. These are not just some hot dogs, they are prepared with bacon, two sausages, onion, tomato, mayo, mustard, chile and you can add any topping you want, like guacamole, mushrooms, salsas, etc. You eat the hot dog while standing up, and most likely make a mess. I can dare to say that seafood is one of the best in the country, not only because the sea is so close, but the preparation is an art that Obregonenses have perfected through time. It can be on a sidewalk or a restaurant, the flavor and originality is always amazing. But, be very careful in the summer months with rare products, because you can easily get intoxicated. And last but not least, well the restaurants. There are some sushi places, italian, etc. And the beef restaurants there are two of them, don't hesitate to visit them.
-Moving on to the sweet tooth, Obregón has great pastries named Coyotas, there are full of some sort of molasses. Also Raspados, shaved ice with flavored syrups. To snack there are Pico de Gallo (fruit with lemon, salt and chile) and Cocos (coconuts with lemon, salt and chile).
-Enjoy and trust the sidewalk stands, all the people from Obregon eat from them and nothing happens.
+Eating out in Obregón mostly means eating at sidewalk stands — and the food is excellent. **Tacos** come in endless varieties: carne asada, cebosos, cabeza, chicharrón, cahuamanta. The **hot dogs** are a local institution — wrapped in bacon, loaded with two sausages, onion, tomato, mayo, mustard and chile, eaten standing up and inevitably making a mess.
+
+The **seafood** is some of the best in Mexico, thanks to the proximity of the Sea of Cortez. Whether from a sidewalk stall or a restaurant, the preparation is inventive and the ingredients are fresh — though take care with raw dishes in the hot summer months.
+
+For sweets, try **coyotas** (pastries filled with a dark molasses), **raspados** (shaved ice with flavoured syrup), or **pico de gallo** — fresh fruit with lemon, salt and chile.

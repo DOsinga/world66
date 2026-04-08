@@ -3,7 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-There are nice places to eat in Vinales. Since most of these are unofficial you'd better pick up a hichhiker and ask him or here for a good address.
-
-**Contributors**
-December 27, 2004
+Viñales has a good number of paladares — privately run restaurants that are generally better value and more interesting than the state-owned alternatives. Your casa particular is the best source of current recommendations, as the scene shifts. Expect simple Cuban cooking: rice, beans, pork, fresh vegetables from the valley farms. Lobster appears on some menus at surprisingly low prices.

@@ -1,19 +1,8 @@
 ---
-title: "Beaches in Kaitaia"
+title: Beaches
 type: section
 ---
 
-North of Kaitaia stretches the Te Aupouri Penninsula, that is approx 100 ks long and 10ks from Coast to Coast.
+The Te Aupouri Peninsula stretches about 100 kilometres north of Kaitaia, narrowing to a point at Cape Rēinga. Its west coast is dominated by [Ninety Mile Beach](/australiaandpacific/newzealand/northland/ninety_mile_beach) — a vast, wild sweep of Tasman sand that runs almost the entire length of the peninsula. The east coast has gentler, more sheltered beaches suited to swimming and families.
 
-The west coast basically has only one easily accessible beach, Ninety
-Mile Beach while the east coast of the penninsula has several easily
-accessible beaches.
-
-### [Ninety Mile Beach - Oneroa a Tohe](/australiaandpacific/newzealand/northland/kaitaia/beaches/ninety_mile_beach)
-
-[Ninety Mile Beach](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach) is situated on the West Coast and runs for nearly
-90ks. Ahipara, to the west of Kaitaia is the start of the Tohe.
-
-
-
-[[rate it]](/australiaandpacific/newzealand/northland/kaitaia/beaches/ninety_mile_beach)
+Ahipara, 5 kilometres west of Kaitaia, is the most accessible beach town and the southern gateway to Ninety Mile Beach. It has a strong surf culture and the beach itself is wide and beautiful, with consistent breaks. For calmer water, the beaches around Whatuwhiwhi and Tokerau Beach on the eastern Karikari Peninsula are worth the drive.

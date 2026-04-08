@@ -1,18 +1,10 @@
 ---
-title: "Daytrips"
+title: "Day Trips"
 type: section
 ---
 
-**Points of Interest**
+Most of Hat Yai's interesting sights are outside the city. A car or motorbike makes these trips much easier.
 
-**Ton Nga Chang Waterfall**
+**Ton Nga Chang Waterfall**, 25 km west of the city on Highway 4, is a seven-tier waterfall in a national park — the name means "elephant tusk" after the twin streams that split at the top. Best visited in the rainy season when the water is strong.
 
-Located 25 km from Hat Yai. A nice trip to west of the city on Highway 4. 
-
-**Chana Doves**
-
-40 km southeast of the city. Most dove lovers are Muslim Thais. They are entertaining dove cooing competitions.
-
-**Tham Khao Rap Chang**
-
-An elephant-shaped mountain with three interesting caves. Ask the travel agency at Hat Yai how to get there.
+**Tham Khao Rup Chang** is an elephant-shaped mountain with three caves worth exploring. Ask at a local travel agency for directions and transport.

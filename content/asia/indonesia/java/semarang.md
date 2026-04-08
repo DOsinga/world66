@@ -1,8 +1,10 @@
 ---
-title: 'Semarang'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -6.9904
 longitude: 110.4229
+title: Semarang
+type: location
 ---
 
 Semarang is the capital of Central Java and a busy port city on the north coast. It rarely features on tourist itineraries, which is a shame -- the old Dutch quarter (Kota Lama) has atmospheric colonial architecture including the Blenduk Church and the landmark Lawang Sewu ('Thousand Doors') building. The Chinese temple of Sam Po Kong is another highlight.

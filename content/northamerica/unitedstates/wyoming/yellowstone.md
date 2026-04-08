@@ -1,8 +1,18 @@
 ---
-title: "Yellowstone"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.428
+longitude: -110.5885
+title: Yellowstone
 type: location
-latitude: 45.964546
-longitude: -108.276076
 ---
 
-Yellowstone became the first national park in the world in 1872. There is so much beauty to be found in Yellowstone, many different kinds and types of landscapes. Yellowstone is very large, you can spend a lifetime trying to conquer everything Yellowstone has to offer and still not see everything. The majority of the people who visit Yellowstone stop in to see the Old Faithful Geyser, The Grand Canyon of Yellowstone, and hike the short 1 mile trail at the paint pots. There is so much to see and most people don't have the time to see all the attractions. Since I was a child I have been to Yellowstone 5 times that I can remember, my last trip was in August of this year and the year before, the past few times I have left Yellowstone I felt empty inside, I just miss it so much, Thinking of the site and trails that I didn't get to see and do. There is so much wildlife to see in the park, the Bison grazing in the fields, the moose wading in the marshes eating the lush greens, The herds of Elk and deer in the hundreds, the coyotes scaveging the roadsides, and the occasional bear and bighorn sightings and so much more. I been on a few of the trails in Yellowstone, Mount wasburn trail a nice steady steep grade a nice hike, Cascade Lake trail, From Lower falls there is a trail I cannot think of what the trails name is that leads you to Crystal Falls, a short little hike. My personal favorite of popular sites is the Grand Canyon of Yellowstone, but there is so much more to be seen when you get off the beatin path.
+Yellowstone became the world's first national park in 1872, and it remains one of the most extraordinary landscapes on earth. The park sits on top of a volcanic hotspot that powers over 10,000 thermal features — geysers, hot springs, mud pots and fumaroles — more than anywhere else on the planet.
+
+**Old Faithful** is the most famous geyser, erupting roughly every 90 minutes, but the Upper Geyser Basin around it contains the densest concentration of geysers in the world. The **Grand Prismatic Spring** is the park's most photographed feature — an enormous hot spring ringed with brilliant bands of orange, yellow and green created by heat-loving bacteria. The **Grand Canyon of the Yellowstone**, where the Yellowstone River plunges over Upper and Lower Falls through a gorge of yellow-tinged rock, is genuinely awe-inspiring.
+
+The wildlife is extraordinary. Bison graze in the Lamar and Hayden valleys in herds of hundreds. Elk, moose, coyotes and pronghorn are common sightings. Grizzly bears and wolves have both recovered strongly since reintroduction programmes, and early morning drives through the Lamar Valley offer some of the best wildlife watching in North America.
+
+The park is vast — larger than Rhode Island and Delaware combined — and most visitors only see the main loop road. The backcountry trails, including the hike up Mount Washburn and the trail from Lower Falls to Crystal Falls, reward those willing to go further. Plan at least three days; a week is better.
+
+The park straddles [Wyoming](/northamerica/unitedstates/wyoming), [Montana](/northamerica/unitedstates/montana) and [Idaho](/northamerica/unitedstates/idaho). The busiest season is July and August; September is quieter and the autumn colours are beautiful.

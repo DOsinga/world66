@@ -1,14 +1,16 @@
 ---
-title: "Nyungwe National Park"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -2.559061
 longitude: 29.293926
+title: Nyungwe National Park
+type: location
 ---
 
-Travel Guide
+Nyungwe is the largest montane forest in central Africa, covering about 1,000 square kilometres of dense, mountainous terrain in southwestern Rwanda. The forest is ancient — one of the few in Africa that survived the ice ages — and its biodiversity reflects this. More than 13 primate species live here, including chimpanzees and the striking L'Hoest's monkey. Over 275 bird species have been recorded.
 
-Nyungwe National Park constitutes the largest montane forest in central Africa , covering about 1,000 km 2 . It also continues into [Burundi](/africa/burundi) . There are more than 240 species of trees, 275 bird species and 13 primates, including a viable population of the chimpanzee. L’Hoest’s monkey is often seen which is classified as “vulnerable” in the Red Data Book.
-Some areas are covered by secondary regrowth due to fires or other disturbances, whereas others have high, closed forest. There is also a 13 km 2 large wetland with unique flora and fauna. The water divide between the Congo and the Nile runs through the forest and the most distant sources of the Nile are also found here.
-The number of visitors is only about 3,000 per year but is steadily increasing. Walking tours with a guide through the forest can be arranged at Uwinka Tourism Reception Centre. The park can be easily reached from [Butare](/africa/rwanda/butare) or [Cyangugu](/africa/rwanda/chyangugu) where accommodation is available.
+The continental divide between the Congo and Nile river basins runs through the park, and the most distant source of the Nile is found here. The terrain ranges from high closed-canopy forest to bamboo groves and wetlands, with some areas of secondary regrowth where fires or disturbances have opened gaps.
 
-Accomodation is also available at the Gisakura Guesthouse, which is run by the ORTPN/WCS for its own staff but accommodates park visitors as well. If is off the main road, on the edge of Nyungwe National Park and close to the Gisakura Tea Estate. Meals are tasty and served in a dining room. Rooms are pleasant (they have doubles), and bathrooms, although communal, are kept clean. Vervet monkeys and a variety of birds visit the guesthouse garden.
+The park's main activities are chimpanzee tracking and canopy walks. The **Igishigishigi Trail** leads to a suspension bridge hanging 50 metres above the forest floor — one of the few canopy walkways in Africa. Guided forest walks can be arranged at the Uwinka Reception Centre, which is the main visitor hub in the park.
+
+Nyungwe is accessible from [Butare](/africa/rwanda/butare) (now Huye) to the east or [Cyangugu](/africa/rwanda/chyangugu) to the west. The road between the two passes through the park and is scenic in itself.

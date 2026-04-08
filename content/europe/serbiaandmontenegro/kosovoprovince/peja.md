@@ -1,14 +1,16 @@
 ---
-title: "Peja"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.6597
+longitude: 20.2883
+title: Peja
 type: location
-lat: 42.6597
-long: 20.2883
 ---
 
-At the foot of the gigantic Damned Mountains (Bjeshk‘t e Nemuna), on the river Bistrica (pronounced: Bis-tritza) and the entrance of the Rugova Gorge (Gryka e Rugov‘s), lies Peja (pronounced: Pey-ah), a town with around 85,000 inhabitants, the main economic and cultural center of northern Dukagjin (pronounced: Duke-ah-jin) region of Kosova. Because of its exceptional position in regards to communication, the natural attractiveness of the mountainous hinderland and richness in cultural and historical monuments, Peja is one of the best known tourist resorts of the region. 
+Peja (Albanian: Pejë; Serbian: Peć) sits at the mouth of the Rugova Gorge, where the Bistrica river tumbles out of the Accursed Mountains — the dramatic limestone range that marks Kosovo's border with Montenegro and Albania. With around 85,000 inhabitants, it is the main city of the Dukagjin region and a gateway to some of the most spectacular mountain scenery in the western Balkans.
 
-During the medieval Serbian state, Peja was a cultural center because of the Patriarchate of Peja, which is in the immediate vincity of the town. With the arrival of the Ottoman Turks, Peja developed under the influence of oriental architecture, becoming a casbah with cobble stone streets, numerous brooks in courtyards, small shops, and mosques.
+The old town still shows the layers of history plainly. During the medieval Serbian kingdom, Peja was a religious center of the first order — the Patriarchate of Peć, a fortified monastery complex just outside the city, served as the seat of the Serbian Orthodox Church for centuries. When Ottoman rule arrived, the city was rebuilt in the Balkan-Islamic manner: cobblestone lanes, interior courtyards with brooks running through them, small workshops, and the elegant Bajrakli Mosque dating from the 15th century.
 
-The urban architecture of the Turkish period is interesting, with a large number of preserved houses of Albanian feudal lords, among which is the famous Tahir Bey's Palace, and Jashar Pasha's House. The Sheremet Tower, although built during the Turkish rule, in fact is a true type of an Albanian Dukagjin tower, a stone house with small windows resembling rifle loopholes. The ceilings of these types of houses are tall, usually in carved wood, with niches. The houses are surrounded by tall walls and have well kept gardens.
+Worth seeking out are the preserved houses of Albanian feudal lords: Tahir Bey's Palace and Jashar Pasha's House both survive. The Sheremet Tower is a good example of a Dukagjin stone tower — thick walls, rifle-loop windows, tall carved-wood ceilings, and high garden walls that kept family life private from the street.
 
-In the center of the town is the old ‚arshia (shopping street), with shops of various craftsmen (coppersmiths, goldsmiths, slipper makers, leather tanners, saddle makers, tailors, etc.). The attractive Bajrakli mosque built in the 15th century ranks among the older structures of Islamic architecture.
+The old çarshia (bazaar street) in the center still has craftsmen's shops — coppersmith and goldsmith workshops alongside the newer cafés — and makes for a pleasant half-hour wander.

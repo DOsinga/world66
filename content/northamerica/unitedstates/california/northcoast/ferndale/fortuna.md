@@ -1,18 +1,16 @@
 ---
-title: "Fortuna"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.597407
 longitude: -124.156034
+title: Fortuna
+type: location
 ---
 
-Travel Guide
+Fortuna sits about 20 miles south of [Eureka](/northamerica/unitedstates/california/northcoast/eureka) in Humboldt County, seven miles inland from the Pacific. The slight distance from the coast gives it warmer summers than its foggy neighbours — temperatures regularly reach the mid-70s when Eureka is stuck in the low 60s.
 
-Fortuna has been described as the Jewel of the North Coast. Located about 20 miles SSW of [Eureka](/northamerica/unitedstates/california/northcoast/eureka) it's location about 7 miles from the Pacific Ocean gives it a somewhat more temperate climate. Where 55-62 degrees is the summer norm in [Eureka](/northamerica/unitedstates/california/northcoast/eureka), Fortuna will regularly reach 70-75. Winters are mild and, in a word, wet.
+The town bills itself as "The Friendly City" and has the feel to match. A population of just over 10,000, a downtown of independent shops, and no big-box stores in sight. Fortuna is not a destination in itself, but it makes a practical and inexpensive base for exploring the southern Humboldt coast and the redwood parks nearby.
 
-Billing itself as The Friendly City (with signs to that effect ringing it's downtown core) Fortuna has slowly grown in size from 6000 or so in the 70's to it's current size of just over 10,000 people. Fiercely proud of their city, Fortunans have resisted efforts by the "big box" stores to encroach. It retains it's small town ambience with Mom and Pop still manning the counter and shutting the joint down for the High School football game on Friday night.
+The signature local event is Fortuna Rodeo, held the third week of July — a carnival, soap box derby, dances, and a weekend of rodeo competition. The Eel River, running just south of town, offers good swimming holes in summer.
 
-Like many smaller areas, Fortuna is an expensive pain to get to by any method other than by car. It's served by the Arcata/Eureka Airport which is 40 miles to the north. Flights are offered by Horizon Air as well as United Airlines, but the fares tend to the exorbitant.
-
-Bus service from out of the area is offered by Greyhound and is fairly conveniently scheduled from the South, but not as convenient from the North. A regional bus service connects southern Humboldt county with their northern neighbors and the airport.
-
-Fortuna's signature attraction continues to be it's Rodeo Days celebration the 3rd week of July. Small town Americana abounds with a carnival, soap box derby, dances, and a weekend rodeo.
+Getting here without a car is difficult. The Arcata/Eureka Airport is 40 miles north, with limited and expensive flights. Greyhound serves the area, and a regional bus connects southern Humboldt County with Eureka and the airport.

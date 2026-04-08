@@ -1,12 +1,16 @@
 ---
-title: "Klagenfurt"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.623943
 longitude: 14.307598
+title: Klagenfurt
+type: location
 ---
 
-Klagenfurt is the capital of the Austrian region of Carinthia (Kärnten). According to the legend the city was founded after brave men had killed the "Lindwurm", a dragon living in the moors around Klagenfurt. In fact the town was founded about 800 years ago by duke Hermann, a descendant of the Rhine-Franco family Spanheim. Today it is a lively and attractive city with 90.000 inhabitants. Thanks to the work of Italian architects throughout the 16th and 17th centuries the city centre has an almost southern atmosphere. Over 50 romantic courtyards were built and most of them have been renovated with great effort and are open to the public. Nevertheless the city is not a museum, but a living town. Courtyards and shopping arcades house cafes, shops and restaurants which make a stroll a pleasant way to pass your time. Klagenfurt is also well worth a visit because of its many parks and the lake "Wörthersee".
+Klagenfurt is the capital of Carinthia (Kärnten), Austria's southernmost province, and it carries the easy confidence of a city that knows it sits in one of the most beautiful corners of the Alps. Legend says the city was founded after brave townspeople slew the Lindwurm, a dragon that terrorized the moors — the beast still looms large in civic identity, immortalized in a famous fountain on the central Neuer Platz.
 
+The historic center has an unmistakably Italian feel, the legacy of Lombard and Venetian architects who worked here throughout the 16th and 17th centuries. More than fifty arcaded Renaissance courtyards survive, most of them open to the public and quietly magnificent. Walk through the old town on a warm afternoon and you could almost be in northern Italy — the light, the proportions, the rhythm of shaded passages giving way to sunlit squares.
 
- 
- Klagenfurt and Lake Wörthersee lie in the south of the Province of Carinthia, close to its borders with Slovenia and Italy. While high mountain ranges form the borders between the holiday paradise of Carinthia and its neighbouring countries, the countryside opens up to the north in a picturesque landscape of rolling hills in which numerous buildings of historical significance can be found. Only a few kilometers away from Klagenfurt, for example, there is Hochosterwitz Castle, which was first mentioned in a document dating
+Just west of the city lies the Wörthersee, a warm alpine lake that draws swimmers, sailors, and cyclists all summer. The lake tempers the climate, making Klagenfurt warmer than most Austrian cities, and its shores are lined with resorts and villages worth exploring. Nearby, the hilltop fortress of Hochosterwitz and the Roman excavations at Magdalensberg make the surrounding countryside worth a day or two of wandering.
+
+The city itself is compact and walkable, with a lively bar and cafe culture centered around the old town, and a university that keeps the population young and the evenings animated.

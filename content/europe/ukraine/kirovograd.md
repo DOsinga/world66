@@ -1,30 +1,16 @@
 ---
-title: "Kirovograd"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 48.5107
+longitude: 32.2658
+title: Kropyvnytskyi
 type: location
-latitude: 48.510581
-longitude: 32.265628
 ---
 
-Kirovograd region is situated on the right bank of Dnieper between the rivers Dnieper and Southern Bug. At the centre of Ukraine where the boundless steppe replace the forest- steppe Kirovograd - the regional centre with the almost 300-thousand population is placed. Kirovograd is spread over the two hill-side near the river Ingul among the boundless steppes of Ukraine. 
+Kropyvnytskyi — known as Kirovograd until 2016 and as Elisavetgrad before the Soviet era — sits near the geographic heart of Ukraine, on the banks of the Inhul River amid open steppe country. With around 220,000 people, it is the capital of Kirovohrad Oblast and one of Ukraine's less-visited regional cities, which is part of its appeal: you are unlikely to be the only foreign visitor, but you are unlikely to be far from one either.
 
-The ripe wheat, golden sunflowers, the green borders of the forest shelter-belts approach to the walls of the city and as if thay lost of contemplation of the wide streets and new buildings. 
+The city has a long and layered history. The fortress of Saint Elizabeth was built here in 1752 as a military outpost against Tatar and Ottoman raids. The earthworks of that fortress still survive. By the 19th century Elisavetgrad had grown into a lively provincial centre, and it earned an outsized place in Ukrainian cultural memory as the birthplace of professional Ukrainian-language theatre: the playwright and director Mark Kropyvnytskyi — for whom the city is now named — founded his theatre company here in the 1880s along with Ivan Karpenko-Kary, Panas Saksahansky, and other figures who defined the Ukrainian stage.
 
-Just such young and modern Kirovograd - one of administrative, industrial and cultural cen- tres of the country still have in the memory. Kirovograd dweller knows and loves his city. Both the gray-haired veteran and schoolboy with admiration will tell you about the memo- rable pages of its history. They will tell like along these steppes among luxuriant motley grass Taras Bulba has led his sons to the Sech and like later here on the Upper Ingul the Cossac settlement was founded. 
+The Soviet name "Kirovograd" — honouring Sergei Kirov, a Soviet official — was shed in 2016 under Ukraine's decommunization legislation. The city's new name restores the memory of Kropyvnytskyi, giving the place a meaningful identity rooted in its own history rather than an imposed one.
 
-In 1752 according to the imperial decree "against the hostile attacks" of the Tatars and Turks the fortress of St.Elisabet was erected here just on the river bank between two its inflowes - Sigokleja and Gruzka. 
-
-Soon near the important strategic fortress which ramparts and now are almost perfectly survived the large village - future district centre of steppe land has arisen and in 1755 it was named Elisavetgrad. 
-
-The further history of the city is connected with the memorable events and names of the remarkable persons. Here the leader of the peasant liberating campaigns Emelian Pugachev had served, A.V.Suvurov and M.I.Kutuzov repeatedly came to Elisavetgrad to control the figt- ing trim of the troops, and just here during the Crimean war 1853-1856 N.I.Pirogov laied down the foundations of the military surgery. 
-
-The heroes of the Patriotic war in 1812 N.I.Raevski and V.LDavydov, the Decembrists I.I.Suhinov and E.L.Obolenski, the greatest poets Alexander Pushkin, Taras Shevchenko and Adam Mitskewicz visited Elisavetgrad. The townspeople listened the lectures of the well- known Slavonic scolar Grigorovich and the last concert of Ferenc List. Here "Vechernitsy" by the talented Ukrainian composer P.I.Nischinski have sounded for the first time. 
-
-Elisavetgrad was fated to become the cradle of the Ukrainian professional theatre. Its was founded by the the coryphaeuses of the Ukrainian theatre Mark Kropivnitski, brothers and sister from unforgettable family Tobilevich - Ivan Karpenko-Kary, Panas Saksaganski, Nicolai Sadovski, Maria Sadovski-Barilotti, and also the playwright Mikhail Ctaritski and talented actress Maria Zan'kovetska. 
-
-The first vital universities the poet Demian Bednyi and the author of the well-known novel "The Riders" Jurij Janovski. the playwright lvav Mikitenko have studied in the city. The local museum, the museum - reserve of the foundator of the Ukrainian national the- atre I.K.Karpenko-Karyi "Nadija" farm", the museum of the of the hero of civil war V.N.Bojenko, the memorial "The fortress of St.Elisabet", the literary-memorial museums of Demian Bednyi, Jurij Janovski, lvav Mikitenko are very popular among the townpeople and visitors of the city. 
-
-As well as also Onyfrievka stud-farm where everybody can see the rare breeds of the hors- es and go for a drive. There are many interesting places where you can to have a rest, to fish and hunt. 
-
-The interesting excursion-tourist routes on the Kirovograd region "From Ingul up to Dnieper", "The theatre Kirovograd land" and other are developed. The whole-year round the tourist center "Slavutich" in Svetlovodsk offers the family rest. 
-
-The hotel association of Kirovograd offers rooms for one -, two and three persons and three meals a day in the restaurants of hotels "Tourist", "Kiev", "Ukraine", "Europe".
+Today the city offers a calm, unhurried atmosphere typical of Ukrainian provincial life. The historic centre has some handsome 19th-century streetscapes, and the riverside provides pleasant walking. It is not a major tourist destination, but travelers passing through central Ukraine will find it an honest and genuinely Ukrainian city.

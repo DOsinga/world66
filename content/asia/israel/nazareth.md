@@ -1,16 +1,14 @@
 ---
-title: "Nazareth"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 32.7046
+longitude: 35.2972
+title: Nazareth
 type: location
-latitude: 32.704636
-longitude: 35.297185
 ---
 
-Nazareth, a small and insignificant village in the period of Jesus, has now grown to be a modern city that serves as a regional economic center. It is the largest Arab city in Israel with a population of 60,000 most Christians and Moslems, living side by side in harmony. 
+Nazareth is the largest Arab city in [Israel](/asia/israel), home to around 80,000 people — mostly Muslim and Christian — and one of the most important pilgrimage sites in Christianity. The Basilica of the Annunciation, a striking 1960s church built over the grotto where the angel Gabriel is said to have appeared to Mary, dominates the old town. Beneath it lie the remains of earlier churches going back to the Byzantine period.
 
-Though Nazareth is one of the most important Christian holy sites in the world and some 1 million tourists and pilgrims visit this city every year. It’s not a city that gets to you. Most tourists stay just for a few hours, just long enough to visit the religious and historical sites. In the past few years however large public budgets have been invested to establish an appropriate infrastructure for the tourists and pilgrims who visit Nazareth's sites yearly. 
+The city is more than its holy sites. The old town is a tangle of steep, narrow lanes with Ottoman-era stone buildings, 19th-century Venetian-style houses with painted ceiling frescoes, and a lively souk selling spices, Arabic sweets, and coffee. The food is excellent — Nazareth has become one of the best places in Israel to eat Arabic cuisine, with restaurants serving dishes like maqluba, knafeh, and slow-cooked lamb that draw visitors from across the country.
 
-To make the city more attractive, it underwent a facelift that changed the appearance of the city more to the expectations of these visitors, including a reconstruction of the village in a way it might have looked in the days of Christ. The scarce monuments from the beginning the city still possesses are being polished and made accessible, to facilitate exploitation and a lot of squares and roads are being refurnished to finally make an end to the renown eternal traffic jam. 
-
-The city has been inhabited continually, but did not gain any significance till the 5th century, when the first church of the Annunciate was invested. This and the moved history of Israel and it’s inhabitants has lead to the fact that there’s little saved from the early days of Christianity. Most of the archeological finds consist of caves, cisterns and grain storage bins, which may be disappointing, but not unexpected from a small village. 
-
-If you want to experience what the city looked like 2000 years ago, it might be interesting to checkout one of the many villages around in the horseshoe shaped Jezreel Valley. Less known but very interesting are the 19th century Venetian-style homes that have ceiling frescoes and red tile roofs. For those who come to find a stable with an ox, donkey and some sheep, the city might be a bit of a disappointment, but for those who interested in a lively and exotic Middle Eastern town, Nazareth has a lot to offer.
+Most pilgrims pass through quickly, but it is worth staying longer. The surrounding hills of the Galilee are beautiful, the Jezreel Valley stretches out to the south, and the old villages nearby give a sense of what this landscape looked like before modernisation. Mary's Well, the Greek Orthodox Church of the Annunciation (a rival tradition to the Catholic basilica), and the Synagogue Church — said to be where Jesus preached — are all within walking distance of each other.

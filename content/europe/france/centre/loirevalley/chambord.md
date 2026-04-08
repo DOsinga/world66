@@ -1,15 +1,14 @@
 ---
-title: "Chambord"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 47.6161
+longitude: 1.517
+title: Chambord
 type: location
-latitude: 48.889945
-longitude: 0.609595
 ---
 
-Chambord is probably the second most famous and second most visited chateau of France after [Versailles](/europe/france/around_paris/versailles). Begun in 1519 the chateaud is square shaped with the keep situated on the inside forming part of the northern waall. Inside the keep a double turn spiral staircase leads up to the different floors and the terrace.
+Chambord is probably the second most famous chateau in France after [Versailles](/europe/france/around_paris/versailles), and arguably the more impressive of the two — a fantasy of towers, chimneys, and dormers rising from the flat Sologne forest. Begun in 1519 for King Francis I, the castle is square-shaped with a central keep connected to the outer wings by galleries. Inside the keep, a famous double-helix spiral staircase — widely attributed to Leonardo da Vinci — allows two people to ascend simultaneously without ever meeting.
 
+The castle sits in the largest enclosed forest park in Europe, a national hunting reserve home to deer, wild boar, and abundant birdlife. Several footpaths through the estate are open to the public.
 
- The castle is located in the largest enclosed forest park of Europe. A national hunting reserve it is home to abundant wild fauna. Different footpaths are open to the public.
-
-
- Top priorities for your visit are the double turn spiral stair case - it's hard to miss anyway, the second floor barrel-vault coffered ceilings, the terrace, 
- the appartment of Louis XIV and the suite of Francois I.
+Top priorities for a visit: the double-helix staircase, the second-floor barrel-vaulted coffered ceilings, the rooftop terrace (the view over the estate is extraordinary), the apartments of Louis XIV, and the suite of Francis I.

@@ -3,10 +3,12 @@ title: "Hvar"
 type: location
 latitude: 43.173941
 longitude: 16.556516
+done:
+  location_cleanup: '2026-04-07'
 ---
 
-South of [Brac](/europe/croatia/brac) and close to the city of [Split](/europe/croatia/split) is Hvar, the longest island of the Adriatic. The island is covered with vineyards, olive groves and lavender. 
+South of [Brač](/europe/croatia/brac) and easily reached from [Split](/europe/croatia/split), Hvar is the longest island in the Adriatic and one of the sunniest places in Croatia. The island is covered with vineyards, olive groves, and lavender fields that scent the summer air.
 
-Stari Grad is the most atractive town on the island. The many stone houses along both coasts, which are connected by small bridges, achieve a harmonious unity. Vrbovska has its fishermans museum which makes the town worth a visit. 
+Hvar Town, at the western end, is the glamorous face of the island — a Venetian harbour town with a fortress above, good restaurants along the waterfront, and a lively bar scene in summer. But the quieter Stari Grad, connected to the mainland by ferry, is the most architecturally attractive town, with stone houses along both coasts linked by small bridges. Vrboska, further east, has a charming fisherman's museum.
 
-http://www.hvar-travel.com/
+The Pakleni Islands, just offshore from Hvar Town, offer secluded swimming and sailing.

@@ -3,7 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Visit **Cafe Gourmet El Mirador** for the best view on Sucre especially at sunset (bring a sweater!) and enjoy the pastas, a beer or a Bomba vitaminica. You can find it opposit form the Recoleta its official address is **Pasaje Iturricha 297** Mirador de la Recoleta.
+Sucre's food scene is modest but pleasant. As a university city it keeps prices low, and Bolivian staples — soups, stews, grilled meat, fresh salteñas in the morning — are easy to find around the market and the main plazas.
 
-**Contributors**
-May 30, 2007
+**Cafe Gourmet El Mirador** is worth a visit for the view alone: perched opposite the Recoleta church, it looks out over the white rooftops of the city, and at sunset the light is exceptional (bring a sweater — evenings cool quickly at altitude). The menu covers pastas, drinks, and the house speciality Bomba Vitaminica. Find it at Pasaje Iturricha 297, Mirador de la Recoleta.

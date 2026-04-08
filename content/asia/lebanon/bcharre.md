@@ -1,8 +1,10 @@
 ---
-title: "Bcharre"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.250723
 longitude: 36.009991
+title: Bcharre
+type: location
 ---
 
 Bcharre is a mountain town perched above the eastern end of the Qadisha Gorge, about 65 km northeast of [Beirut](/asia/lebanon/beirut). With its red-tiled roofs, olive groves and mountain backdrop, it has the feel of a Mediterranean hill village.

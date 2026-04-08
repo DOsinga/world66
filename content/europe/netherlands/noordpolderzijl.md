@@ -1,14 +1,19 @@
 ---
+done:
+  location_cleanup: '2026-04-07'
+latitude: 53.432069
+longitude: 6.582255
 title: Noordpolderzijl
 type: location
-latitude: 53.4321
-longitude: 6.5823
-done:
-  location_cleanup: 2026-04-08
 ---
 
-Noordpolderzijl is the smallest sea harbour in the Netherlands — a remote spot at the very top of the Groningen province where a tiny sluice connects the polderland to the Wadden Sea. There are no shops, no hotels, and almost no inhabitants: just a small landing stage, a pumping station, and a single cafe that doubles as the village's entire social life.
+Don't expect a booming harbour village here; there's just about a landing stage for 3 or 4 ships and a cafe... but it will be hard to find a more authentic spot in the whole Netherlands...
 
-The harbour is tidal and shallow, reachable only by small boats at high water, but its very remoteness is the point. The wide, flat landscape, the enormous Groningen sky, and the silence make it a surprisingly compelling destination for a day trip from Groningen. Walk the dike paths, watch the wading birds on the mudflats, and end up at the cafe.
+Noordpolderzijl is the smallest sea harbour of the Netherlands. It's located in the north (of the province of Groningen) and it is in direct tide-connection with the Waddensea. Only small ships can make this harbour at high tide because of limited navigable depth.
 
-Getting there: no public transport reaches Noordpolderzijl directly. By car, take the N361/N363 from Groningen toward Winsum and Uithuizen, then turn off at Warffum toward the harbour. By train and taxi, take the train from Groningen to Warffum, then a taxi for the 6 km to the harbour.
+The harbour's name shows exactely what it stands for: the *zijl* of the *North polder*, where a "zijl" is a sluice and a "polder", especially in the Netherlands, is an area of low-lying land, that has been reclaimed from the sea and is protected by dikes.
+
+The one and only house in Noordpolderzijl is an authentically driven cafe. Check the [Bars & Cafes] section.
+
+**Contributors**
+March 06, 2005

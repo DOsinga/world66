@@ -1,25 +1,14 @@
 ---
-title: "Le havre"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 49.493898
 longitude: 0.107973
+title: Le Havre
+type: location
 ---
 
-Le Havre (pop. 255 000) is usually thought of as a place to get on or off a ship. There is a bit more to this major seaport however.
+Le Havre is usually thought of as a place to get on or off a ship, but France's second-largest port has more going for it than the docks suggest. The city was heavily bombed in 1944 and rebuilt by architect Auguste Perret in a distinctive concrete modernism that earned the city centre UNESCO World Heritage status — one of the few 20th-century urban ensembles on the list.
 
-The Granville Abbey is worth a visit and the view from St. Adresse Fort is great. The Seine estuary is an impressive sight as well.
+The **Musée d'Art Moderne André Malraux** (MuMa), with its glass-and-metal waterfront building, has an excellent Impressionist collection — fitting, since this is where Monet painted the sunrise that gave the movement its name. The fine-arts museum holds a good collection including 16th-century paintings. The Prieuré de Graville, on the hillside above town, has religious statuary and the Gosselin collection in a Romanesque setting.
 
-
- If you want to spend some more time you should consider a visit to the Ocean Dock, the Town Hall or the fine-arts museum, which has a good collection of paintings including a good 16th-century collection.
-
-
- A stroll down Avenue Foch is pleasant especially on a lazy summer afternoon.
-
-
- If you want to make a day trip, at a distance of only 30 km of Le Havre you will find [Etretat](/europe/france/normandybrittany/etretat) with its superlative and often-photographed cliffs.
-
-
- Nearly 2 000 feet of the mile-long beach belong to the Le Havre commune. The yachting harbour is freely accessible 24 hours a day and has a total of 1 300 mooring spaces. Le Havre is the nearest deep water yachting harbour to Paris. The high chalk cliffs of Côte d'Albâtre stretch from the Seine estuary to the Somme estuary.
-
-
- Le Havre is less than 200 km northwest of [Paris](/europe/france/paris).
+A stroll down the broad **Avenue Foch** is pleasant on a summer afternoon. The beach stretches for nearly two kilometres, and the yachting harbour — the nearest deep-water marina to [Paris](/europe/france/paris), less than 200 km to the southeast — has 1,300 mooring spaces. For a day trip, the spectacular chalk cliffs of [Étretat](/europe/france/normandybrittany/etretat) are only 30 km up the coast.

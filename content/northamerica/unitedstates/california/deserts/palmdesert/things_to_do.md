@@ -1,39 +1,24 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "general"
-latitude: 35.321009
-longitude: -83.237684
 ---
 
-### [The Living Desert](/northamerica/unitedstates/california/deserts/palmdesert/thingstodo/thelivingdesert)
+Palm Desert punches above its weight for a resort town. The Living Desert is the standout attraction — genuinely impressive, not just for kids. El Paseo offers galleries alongside the shops, and the McCallum Theatre brings in serious touring performers.
 
-Major area attraction! Offers rare look at the world's desert regions. New Village Watutu, kids petting krall, wildlife shows, discovery room, gift shops, cafe, trails. 47-900 Portola Ave. 92260 760/346-5694 Fax: 760/568-9685 www.livingdesert.org
+### The Living Desert
 
-type: general
+47-900 Portola Ave, Palm Desert. Tel: 760/346-5694.
 
+The best reason to stop in Palm Desert. This 1,200-acre zoo and botanical garden covers desert ecosystems from the Sonoran to the Sahara, with animals, native plant trails, and a petting kraal for younger visitors. The scale surprises most people — allow at least three hours. The African village section added in recent years is particularly well done.
 
+### McCallum Theatre for the Performing Arts
 
-[[rate it]](/northamerica/unitedstates/california/deserts/palmdesert/thingstodo/thelivingdesert)
+73000 Fred Waring Dr, Palm Desert. Tel: 760/346-6505.
 
-### [Aerie Art Garden](/northamerica/unitedstates/california/deserts/palmdesert/thingstodo/aerieartgarden)
+The valley's premier performing arts venue, seating about 1,100. The program mixes Broadway touring shows with classical music, dance, and comedy. Worth checking what's on — the programming is better than you'd expect from a desert resort town.
 
-71-225 Aerie Rd. 92260 760/568-6366
+### The Gardens on El Paseo
 
-type: general
+73545 El Paseo, Palm Desert. Tel: 760/862-1990.
 
-
-
-### [McCallum Theatre for the Performing Arts](/northamerica/unitedstates/california/deserts/palmdesert/thingstodo/mccallumtheatrefortheperformingarts)
-
-73000 Fred Waring Dr. 92260 760/346-6505
-
-type: general
-
-
-
-### [The Gardens on El Paseo](/northamerica/unitedstates/california/deserts/palmdesert/thingstodo/thegardensonelpaseo)
-
-An open-air shopping and dining complex with lush gardens, dynamic water features, and breathtaking desert views. El Paseo at Larkspur, Palm Desert. 73545 El Paseo 92260 760/862-1990 Fax: 760/862-1884 E-mail: tperezchica@thegardensonelpaseo.com Wheelchair Access
-
-type: general
+An open-air complex anchoring the upscale end of El Paseo, with fountains, sculpture gardens, and desert mountain views as backdrop to the shopping and dining. More pleasant than a standard mall — the landscaping is genuinely attractive and the views toward the Santa Rosas are good on a clear day.

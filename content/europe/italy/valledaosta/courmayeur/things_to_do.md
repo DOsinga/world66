@@ -1,5 +1,5 @@
 ---
-title: "Things to Do in Courmayeur"
+title: "Things to Do"
 type: section
 ---
 

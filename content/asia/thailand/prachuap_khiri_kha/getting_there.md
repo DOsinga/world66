@@ -1,6 +1,8 @@
 ---
-title: "Getting There in Prachuap Khiri Khan"
+title: "Getting There"
 type: section
 ---
 
-Prachuap Khiri Khan can be reached by express air conditioned bu service from Bangkok, journey time about 5 hours. There are also trains from Bangkok to Prachuap Khiri Khan. Buses and trains also operate south from Hua Hin to prachuap Khiri Khan. By taxi or car it is just over an hour from Hua Hin.
+Prachuap Khiri Khan is about 300 km south of Bangkok. Express air-conditioned buses run from Bangkok's Southern Bus Terminal, taking around five hours. Trains from Bangkok's Hua Lamphong station also stop here — the journey is roughly four to five hours on an express service.
+
+From [Hua Hin](/asia/thailand/huahin), it is about an hour south by taxi or car. Buses and minivans also run between the two towns throughout the day.

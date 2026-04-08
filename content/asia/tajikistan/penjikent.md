@@ -1,15 +1,16 @@
 ---
-title: "Penjikent"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.4962
+longitude: 67.6141
+title: Penjikent
 type: location
-latitude: 39.496169
-longitude: 67.614146
 ---
 
-Substantially closer to Samarkand Uzbekistan than to Dushanbe, Penjikent is the old center of the Sogdian empire. Around the modern town and in its museum you will find remains of this preislamic civilization.
+Substantially closer to [Samarkand](/asia/uzbekistan/samarkand) than to Dushanbe, Penjikent was the old center of the Sogdian empire. Around the modern town and in its museum you will find remains of this pre-Islamic civilization.
 
-The remains of the Sogdian city of Panjikent are just out of town on a hill overlooking the valley. You can wander around the site without being bothered by anyone. Unfortunately there are hardly any signs that explain what is what. If you are lucky there are excavators here. Most of the time they are students from St. Petersburg and they are very willing to tell you about their work and about the finds.
+The ruins of the ancient Sogdian city sit on a hill just outside town, overlooking the valley. You can wander the site freely without being bothered. There are almost no explanatory signs, but if you are lucky there will be excavators at work — usually students from St. Petersburg who are very willing to explain what they have found and what they are digging for.
 
+The town museum holds Soviet memorabilia and stuffed animals alongside genuinely impressive finds from the excavations: wall paintings from the 5th century with faded but recognizable colors and hunting scenes.
 
- The town has a small museum with soviet memorabilia and stuffed animals, but also very impressive finds from the excavations nearby. Wallpaintings from the 5-th century with faded colors, but recognizable motifs and hunting scenes.
-
-You can also do good treks in the surrounding Fan Mountains. Penjikent is usually visited from Samarkand through the Intourist Service Bureau located in the Hotel Samarkand, but it is also possible to arrange the trip by yourself. You might even arrange to come here without an actual Tajik visa, on your Uzbek visa. It seems to depend a bit on the custom guards, but they tend to be quite friendly. They do not see many tourists, so you are a bit of a sight yourself.
+You can also do good treks in the surrounding Fan Mountains. Penjikent is usually visited as a day trip from Samarkand, but you can also arrange the trip yourself. Some travelers have reportedly entered on an Uzbek visa without a separate Tajik visa — the border guards tend to be friendly and don't see many tourists, so you are something of a novelty.

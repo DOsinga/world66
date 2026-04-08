@@ -1,8 +1,10 @@
 ---
-title: 'Boley'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 35.493489
 longitude: -96.483611
+title: Boley
+type: location
 ---
 
 Located on Highway 62 in Okfuskee County in central Oklahoma, Boley is a town of about 1,100 people and one of the most significant towns in Black American history. Established on September 22, 1904, Boley is one of the few surviving towns originally founded as an all-Black community.

@@ -1,43 +1,16 @@
 ---
-title: "Alassio"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.008011
 longitude: 8.173027
+title: Alassio
+type: location
 ---
 
-Its origins are obscure. According to some it
- was founded by the inhabitants of the
- surrounding heights, who came down to the
- coast in the tenth century to devote themselves
- to seafaring activities. For others, the first
- nucleus was created by Benedictines from the
- island of Gallinara. They did in fact have a fief
- here up until the twelfth century, when the
- territory was sold to the Commune of Albenga,
- from which it did not gain its freedom until the
- sixteenth century. It was at this time that that
- the city walls, traces of which are still standing,
- and the imposing tower by the sea were built.
- The most interesting of the religious buildings
- is the parish church of Sant'Ambrogio: although
- its tall campanile with a spire dates from the
- eleventh century, the church was rebuilt several
- times during the Renaissance and modern era.
- The Palazzo Scofferi dates from the
- seventeenth-eighteenth century, as does the
- Palazzo Ferrero de Gubernatis, restored in the
- nineteenth century. The energies that Alassio
- has devoted to the improvement and renovation
- of its tourist and bathing facilities has made it a
- seaside resort of international repute, where
- vacationers congregate not only on the beach
- but also at two other famous focal points: “Il
- Budello,” the narrow alley running parallel to
- the promenade and lined with stores, and the
- “muretto” of the public gardens, a wall with
- hundreds of ceramic tiles bearing the signatures
- of the many celebrities who have stayed in
- Alassio, commencing with Hemingway and
- Chaplin. The tourist harbor, with two wharves
- and five piers, can accommodate around 400
- boats.
+Alassio is the undisputed belle of the western Ligurian Riviera — a long, sandy beach, pastel-coloured houses, and a mild climate that keeps the bougainvillea flowering well into autumn. It sits between Albenga and Laigueglia in what the Italians call the Baia del Sole, and its roughly 11,500 permanent residents share the town with tens of thousands of summer visitors who have been coming here since the Belle Époque.
+
+The heart of social life is Il Budello, a narrow pedestrian alley that runs behind the beach hotels parallel to the seafront. Lined with boutiques, gelaterie, and bars, it becomes a slow-moving promenade on summer evenings. Out on the seafront promenade is the "muretto" — a low wall in the public gardens covered in hundreds of ceramic tiles signed by celebrities who have visited, starting with Ernest Hemingway and Charlie Chaplin. It is kitsch and entirely charming.
+
+Historically the town was a fiefdom of the Benedictine abbey on the island of Gallinara before passing to the Commune of Albenga in the twelfth century. Alassio won its freedom in the sixteenth century and built the city walls, fragments of which still stand. The main landmark from that era is the parish church of Sant'Ambrogio, whose campanile with its distinctive spire dates from the eleventh century, though the church itself was rebuilt several times over the following centuries.
+
+The tourist marina, with space for around 400 boats, makes Alassio a popular sailing base for cruises along this stretch of coast.

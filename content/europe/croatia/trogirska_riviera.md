@@ -1,13 +1,12 @@
 ---
-title: "Trogirska Riviera"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.5167
+longitude: 16.25
+title: Trogirska Riviera
 type: location
 ---
 
-www.toptrogir.com
+The Trogir Riviera stretches along one of the most indented sections of the Dalmatian coast, centred on the UNESCO-listed town of [Trogir](/europe/croatia/trogir). The coastline alternates between rocky capes and sheltered inlets with pebble and sandy beaches, backed by pine forests.
 
-Trogir Riviera belongs to the most indented parts of the coast; small inlets with smaller and larger pebbles that are separated by rocky capes - great for suntanning and diving. We recommend the Ciovo peninsula to those looking for beautiful sandy beaches. In Gornji and Donji Okrug and Slatina, there are sandy and pebble beaches, while magnificent sandy beaches can be found in certain larger inlets. You can reach secluded bays and capes on the Ciovo peninsula on foot or by car. These bays and capes are surrounded by pine trees and usually consist of smooth rocks that lead right to the water. The beaches by the summer houses in Vinisce, Kalebova luka, Kanica and Razanj are rocky or concrete. The city of Trogir has a pebble public beach with a variety of additional entertainment facilities and many restaurants and cafes in the vicinity. The beach in the Medena tourist complex in Seget offers numerous water sports, diving and windsurfing courses as well as equipment rental.
-
-[www.toptrogir.com](/europe/croatia/trogirska_riviera)
-
-**Contributors**
-May 16, 2005
+The Čiovo peninsula, connected to Trogir by a bridge, has the best beaches. Gornji and Donji Okrug and Slatina offer a mix of sandy and pebble beaches, while more secluded bays can be reached on foot or by car along the peninsula's south coast — pine-shaded, smooth-rock coves that lead straight into clear water. The Medena tourist complex at Seget offers water sports, diving, and windsurfing courses with equipment rental.

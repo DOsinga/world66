@@ -3,20 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-All the main markets are in the downtown area and at the corner of Mall Road. The best place to go to when your looking for cloth and clothes are Old Manali and at Vashisht. Most of the handicrafts items shops are at Old Manali and at Vashisht. The main markets are:
-
- Hong Kong Market
-
- Thai Market
-
- Tibetan Market
-
- Dragon Shopping Complex
-
- Lama Underground Shopping Complex
-
- Shangrilla Shopping Complex
-
- New NAC Market
-
- Snow Lion Underground Market.
+The main markets cluster around Mall Road in the town centre. For handicrafts, woollen shawls, and Tibetan goods, head to **Old Manali** or **Vashisht**, where small shops sell Kullu caps, handwoven shawls, and silver jewellery at better prices than the tourist-facing stalls downtown. The Tibetan Market and Hong Kong Market on Mall Road are the busiest, though bargaining is expected.

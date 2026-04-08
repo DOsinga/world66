@@ -5,13 +5,8 @@ latitude: -34.524582
 longitude: 172.773549
 ---
 
-Te Paki Stream is the northern most off ramp / on ramp for the [Ninety Mile Beach](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach).
+Te Paki Stream is the northern access point for [Ninety Mile Beach](/australiaandpacific/newzealand/northland/ninety_mile_beach), where the stream meets the sand at the far end of the Aupouri Peninsula. All tour buses heading to and from Cape Reinga use this route, and it is the only vehicle crossing between the beach and the road at the northern end.
 
-All of the tours to Cape Reinga use this ramp when travelling up or down [Ninety Mile Beach](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach).
+The stream flows out onto the beach through a shallow, shifting channel. At the inland end where it meets the sealed road, there is a car park and toilet block. From here, the giant Te Paki sand dunes rise on the northern side -- some of the largest in the southern hemisphere. Walking to the top takes real effort, but sandboarding back down is worth every step. Keep your mouth closed on the way down.
 
-The stream opens flows into the [Ninety Mile Beach](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach). At the other
-end where it joins the metal road, there are toilets and a parking area.
-
-At the rest area are huge sand dunes, where people who have the energy
-walk up to the top to go tabogganning down. Note: when
-coming down the dunes, if you scream you may be a mouth full of sand!
+Driving the stream requires care. Stay on sand as much as possible and avoid stopping in the water -- some areas are effectively slow quicksand that will trap a stationary vehicle. When transitioning between sand and water, take any drops or rises at an angle rather than head-on. About halfway along, the stream splits into two channels separated by bullrushes. In summer with low water this is straightforward; after rain, get out and check the depth before committing. Keep the vehicle in third gear (or second in 4L) and do not stop. These rules apply specifically to Te Paki Stream -- other stream crossings in the area have different conditions.

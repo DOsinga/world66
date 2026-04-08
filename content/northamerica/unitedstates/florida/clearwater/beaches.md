@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Clearwater"
+title: "Beaches"
 type: section
 ---
 

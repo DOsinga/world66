@@ -1,12 +1,12 @@
 ---
-title: "Cochem"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 50.1484
+longitude: 7.1663
+title: Cochem
 type: location
-latitude: 50.148392
-longitude: 7.16632
 ---
 
-Cochem is a charming village in the Mosel valley. The main attraction is the hilltop castle, which dates from the year 1000. The castle was first mentioned in a document in 1051 when Richeza, Ezzo's oldest daughter and former Queen of Poland, gave the castle to her nephew count palatine Henry I. In 1294, King Adolf of Nassau pawned the castle and the city of Cochem as well as the surrounding imperial property of about 50 villages to Boemund I of [Trier](/europe/germany/rhinelandpalatinate/trier) in order to pay for his coronation as German emperor. Neither Adolf nor his successor, King Albrecht I of Austria, could redeem the pledge, so the archbishops of Trier kept Cochem as a hereditary fiefdom until 1794. Under the reign of Archbishop Balduin (1307-1354) the old castle was enlarged and fortified.
+Cochem is one of the most photogenic towns on the [Mosel](/europe/germany/rhinelandpalatinate/mosel) — a compact medieval riverside settlement dominated by a fairy-tale hilltop castle that rises more than 100 metres above the water. The town is small enough to explore on foot in an afternoon, yet substantial enough to hold your interest for a day or two.
 
-In 1689 the town of Cochem was almost completely destroyed and the castle remained a ruin until 1868, when Berlin businessman Louis Ravené bought the land and rebuilt it in the neogothic style, integrating the remains of the late gothic building. The castle served as the Ravené family's summer residence.
-
-Today the castle is well-equipped with Renaissance and Baroque furniture carefully collected by the Ravené family. Since 1978 it has been owned by the town. Situated on a hill more than 100 metres above the river, Cochem Castle is a popular tourist attraction — in summer it can get pretty crowded.
+The surrounding landscape is the real draw for many visitors: steep vine-covered slopes, narrow river bends, and half-timbered villages tucked into every valley. Cochem sits at the heart of the Mosel wine region, and the local Riesling is sharp, mineral, and very drinkable. The riverfront promenade is pleasant, the old town is largely intact, and the whole place is unapologetically tourist-friendly from May through October — which means crowds in high summer but also good food, open cellars, and a festive atmosphere.

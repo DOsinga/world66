@@ -1,10 +1,14 @@
 ---
-title: "Palangka Raya"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -2.2073
 longitude: 113.9164
+title: Palangka Raya
+type: location
 ---
 
-Palangka Raya is the capital of Central Kalimantan, situated between the Kahayan and Sabangau rivers in the heart of Borneo. It is a quieter and less-touristed city than Banjamarsin, making it a good base for exploring the surrounding forests and rivers at a slower pace.
+Palangka Raya is the capital of Central Kalimantan, spread along the banks of the Kahayan River deep in the Borneo interior. It is not a city that gets many tourists — most pass through on their way to the orangutan rehabilitation centres and peat swamp forests that surround it — but that is part of its appeal. This is a working Indonesian provincial capital with good food, a strong Dayak cultural presence, and genuine wilderness at its doorstep.
 
-The city has two main traditional markets — Pasar Besar and Pasar Kahayan — where you can pick up local produce and supplies before heading further into the interior. The local food is worth sampling: look for patin bakar (grilled river fish) and nasi kuning (yellow rice), as well as Banjar dishes like soto Banjar and ketupat Kandangan that reflect the cultural mix of the region. The nearest airport is Tjilik Riwut.
+The city was purpose-built in the early 1960s as a pet project of President Sukarno, who envisaged it as a future national capital. The grand boulevards he planned never quite materialised, but the wide, tree-lined Jalan Yos Sudarso running through the centre still gives Palangka Raya an oddly spacious feel for a city of its size.
+
+Languages reflect the mix of peoples who call the city home: Indonesian everywhere, but also Dayak Ngaju, Dayak Maanyan, and the Banjar dialect of Malay spoken by migrants from South Kalimantan. The Banjar influence shows in the food too — dishes like soto Banjar and ketupat kandangan appear on menus alongside Central Kalimantan specialties.

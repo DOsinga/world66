@@ -1,20 +1,16 @@
 ---
-title: "Banamichi"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 30.0635
+longitude: -110.2985
+title: Banamichi
 type: location
-latitude: 30.063494
-longitude: -110.298452
 ---
 
-Travel Guide
+Banamichi is a small pueblo on the [Ruta Rio Sonora](/northamerica/mexico/sonora), tucked into a river valley about two hours north of Hermosillo and three hours south of Bisbee, Arizona. The name comes from the Opata language — Banamitzi, meaning "where the river turns" — which says something about both the geography and the age of the place. Jesuit missionaries Bartolome Castonas and Pedro Pantoja founded the settlement in 1639, and it has been quietly going about its business ever since.
 
-Banamichi, Sonora is located on the Ruta Rio Sonora just 3 hours from Bisbee, Arizona 5 hours from Tucson and 2 hours north of Hermosillo. The small pueblo was founded in 1639 by Bartolome Castonas and Pedro Pantoja, Jesuit missionaries. The name Banamitzi cames from the Opata Indians of the region and means, where the river turns.
+This is the kind of town where the pace of life has not shifted much in a century. The economy runs on agriculture, farming, and ranching. The streets are quiet, the square is shaded, and the surrounding hills reward anyone willing to slow down.
 
-Like all small pueblos along the Rio Sonora, the Catholic church is the primary place of worship. Nuestro Senora de Loreto Temple, located on the town plaze, was built in the 17th century. The town square, on the main highway, displays the Piedra Historica, an ancient petroglyph discovered on a local ranch. Some scholars believe the petroglyph represents a map of irrigation canals. A gazebo graces the main square in the center of town, Hildalgo Plaza. Nearby parks, Bacachi and El Baceran, offer natural warm springs. Aconchi, another pueblo south of Banamichi offers hot springs west of town. Other activities in the area include mountain biking, horse back
-riding, bird watching, star gazing, visits to local bacanora stills,
-local fiestas, horse cart rides, authentic Sonoran cuisine and
-motorcycle tours.
+The heart of town is Hidalgo Plaza, where a gazebo anchors the main square. Look for the Piedra Historica, an ancient petroglyph found on a nearby ranch and now displayed here — some scholars think it depicts a map of local irrigation canals, which would make it one of the more unusual civic monuments in Mexico. The 17th-century church of Nuestra Señora de Loreto stands on the plaza as well, the spiritual and architectural center the pueblo has organized itself around for nearly four centuries.
 
-The principal economy in the area is
-agriculture, farmng and ranching Many small local businesses supply goods and services to the residents of this quaint Mexican pueblo. Many come from far away places to receive Qi Gong multidimensional therapy.
-
-The premier hotel in town is Hotel Los Arcos de Sonora www.losarcossonora.com which provides travelers with ten comfortable modern hotel rooms with private baths, air conditioning and heat, intimate interior courtyard, covered patio with wood burning fireplace, second floor terraza, wi-fi, coffee shop and gift shop.
+The Sonora River valley is good walking and riding country. Nearby natural warm springs at Bacachi and El Baceran are worth the detour, and the village of Aconchi a short distance south has its own hot springs. The area also draws mountain bikers, birdwatchers, and people who want genuinely dark skies for stargazing. Bacanora — the regional agave spirit, older and rougher than mezcal — is made in local stills, and visits to those stills can be arranged.

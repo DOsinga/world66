@@ -1,35 +1,12 @@
 ---
 title: "Cormier's Cajun"
 type: poi
-address: "Forsythe Ave"
+address: "Forsythe Ave, Monroe, LA"
 price: "$6 to $15"
-type: "Local"
-zipcode: "72101"
-latitude: 39.988861
-longitude: -83.012001
+latitude: 32.51
+longitude: -92.12
 ---
 
-Traditional cajun food served in a traditional Cajun fashion.. On picnic table while drinking a cold beer. 
+Traditional Cajun food served at picnic tables with a cold beer. Unpretentious and authentic — the kind of place locals eat.
 
-
-
-Must try: 
-
-Pig Sandwich with Jambalaya 
-
-Boiled Crawfish
-
-**Contributors**
-January 19, 2005
-
-type: Local
-
-
-
-
-
-zipcode: 72101
-
-PriceOfMenu: $6 to $15
-
-address: Forsythe Ave
+Must try: pig sandwich with jambalaya, boiled crawfish.

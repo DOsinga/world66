@@ -1,6 +1,6 @@
 ---
-title: "Getting There in Den Bosch"
+title: "Getting There"
 type: section
 ---
 
-For a good taxi: +31 7 644 60 10 or check [www.taxi-denbosch.nl](/europe/netherlands/denbosch/gettingaround)
+Den Bosch is well connected by rail. The station has direct trains to Utrecht (30 minutes), Amsterdam (1 hour), Eindhoven (25 minutes), and Nijmegen (40 minutes). The station is a short walk south of the old centre. By car, the city sits at the junction of the A2 and A59 motorways.

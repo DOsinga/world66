@@ -3,6 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-A car or other private transport is a huge asset here because of the delights only accesssible by minor roads.
-
-However there are means of access by public transport. There is the ferry to/from Stornoway on Lewis and a bus conects with Inverness and with the railway.
+A car is a huge asset here because the best scenery is on minor roads with no public transport. However, there are ways to arrive without one: a Citylink bus connects Ullapool with Inverness (about an hour and a half), and the CalMac ferry runs to Stornoway on Lewis.

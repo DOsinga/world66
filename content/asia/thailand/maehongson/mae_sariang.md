@@ -1,18 +1,14 @@
 ---
-title: "Mae Sariang"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 18.159646
 longitude: 97.930113
+title: Mae Sariang
+type: location
 ---
 
-Travel Guide
+**Mae Sariang** is one of seven districts in [Mae Hong Son](/asia/thailand/maehongson) province, and one of the most rewarding to linger in. Often overlooked by tourists moving between Chiang Mai and Mae Hong Son, it has real character and plenty to explore.
 
-**Mae Sariang** is one of 7 districts in **Mae Hong Son** **province**. Although often overlooked by tourists it has plenty to offer. Surrounding the town there are many sights and day trips to go on, such as **Mae Sam Laep** the Burmese style village on the
-banks of the **Salawin River** where a long tail boat can be hired for the day
-to cruise down the river, the **Salawin National Park** and **Mae Ngao National Park. **
+The town sits in a broad valley along the Yuam River, surrounded by forested hills and national parks. Nearby, the Salawin River forms part of the Thailand-Burma border — you can hire a longtail boat at the Burmese-style village of Mae Sam Laep for a day on the water. The [Salawin National Park](/asia/thailand/maehongson/mae_sariang) and Mae Ngao National Park are both within reach.
 
-Although being small it still has all the essentials, and
-provides well for tourists with an adequate selection of hotels,
-guesthouses and restaurants to choose from. It has a warm and welcoming
-atmosphere, the people are very friendly and it’s the kind of place
-where everybody knows everyone else.
+Despite its small size, Mae Sariang is well set up for travelers. The people are friendly, the atmosphere relaxed, and it has the easy familiarity of a place where everyone knows each other.

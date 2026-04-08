@@ -1,24 +1,14 @@
 ---
-title: "Bhandardhara"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 19.5218
+longitude: 73.7577
+title: Bhandardhara
 type: location
 ---
 
-Travel Guide
+Bhandardhara is a hill station and reservoir in the Sahyadri range of [Maharashtra](/asia/india/maharashtra), about four hours' drive from [Mumbai](/asia/india/maharashtra/mumbai). During the monsoon the landscape transforms — cloud-wrapped mountains, waterfalls everywhere, and the Arthur Lake reservoir brimming against the Wilson Dam. It is one of the best weekend escapes from the city.
 
-**Bhandardhara, beauty undiscovered !!!**
+Kalsubai Peak, the highest point in Maharashtra at 1,646 metres, lies nearby and is a popular trek. Ratangad Fort offers another good hike with panoramic views of the surrounding valleys. The area around Igatpuri and Bhandardhara is dotted with natural lakes and cascading waterfalls, particularly dramatic from July to September.
 
-Although many near Mumbai & Nasik will say we know this place, we have been there & we know its beautiful... accepted !!! But apart from people of Maharashtra very few Indians from the other parts of the country know about this beautiful hill-station situated so close to Mumbai & Nasik.
-
-Well the beauty of Bhandardhara can rival any of the hill-stations in Mahrashtra, cloud covered mountains, waterfalls, a huge dam, lush greenery, cool weather, the works... Bhandardhara has it all.
-
-Reaching there is quite easy, get down at Igatpuri station & Bhandardhara is just 35 km from here. One can drive down from Mumbai & reach there within 4 hrs. MTDC has a resort at Bhandardhara, the resort faces the lake & during the rains one can just sit & relax for hours together.
-
-There are many sights near Bhandardhara... Kalusubai, the highest mountain peak in Maharashtra is lies on the way to Bhandardhara, many naturally formed lakes can be seen on the way, Igatpuri too has many lakes & waterfalls, taking a dip into these lakes is very safe as well.
-
-Do put Bhandardhara on our weekend holidaying list.
-
-***Some tips...***
-
-Budget travellers can stay at many hotels in Igatpuri. For people with some more moolah to spare... Manas Resort at Igatpuri is a good option.
-
-It is surrounded by some of the best places like Wilson Dam, Kalsubai Peak ( the biggest peak in Maharashtra), Ghatghar and Ratangadh Fort. Its a must for every traveller
+The MTDC resort overlooks the lake and is the most convenient place to stay. Budget travellers will find more options in Igatpuri, 35 km away and well connected by rail on the Mumbai-Nashik line.

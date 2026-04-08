@@ -3,8 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-Wellington City and the surrounding suburbs have excellent bus and train service. Tickets are available on board, in the train station, at City Hall and various "dairies."
+Wellington is a small city and much of it is walkable, though the steep hills surrounding the centre make some parts a workout. The city has good bus and train connections to the suburbs, with tickets available on board, at the train station, at City Hall, and at corner dairies throughout the city.
 
-Taxis are available at stands in the city center, train station, ferry terminals, airport and most larger shopping venues. Transport vans are also available for groups and usually have towed luggage trailers.
+Taxis are easy to find at stands near the city centre, the train station, the ferry terminals, and the airport. For groups, transport vans with luggage trailers are a practical option.
 
-Some of the more interesting attractions and views require walks up steep streets or staircases. This is particularly the case in the Lambton Quay/Terrace area. Keep an eye open for various combinations of publically accessible hotel and shopping center elevators and escalators that can get you topside with minimal aerobic effort. The famous Wellington Cable Car hoists those disinclined to the incline from Lambton Quay to Kelburn in turn-of-the-century style for a small fee.
+The hills around Lambton Quay can be deceptive — keep an eye out for publicly accessible elevators and escalators through hotels and shopping centres that can save you the climb. The famous Wellington Cable Car runs from Lambton Quay up to Kelburn, a small but genuinely scenic ride that also gives you access to the Botanic Garden at the top.

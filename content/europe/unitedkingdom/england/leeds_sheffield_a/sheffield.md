@@ -1,13 +1,14 @@
 ---
-title: "Sheffield"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 53.3807
+longitude: -1.4702
+title: Sheffield
 type: location
-latitude: 53.380663
-longitude: -1.470228
 ---
 
-Sheffield is one of those industrial cities of England where one can still see the impact of the steel making industry that made Sheffield into what it is these days. Although some people consider it an uncharming and depressing city, others love this city at the heart of Britain because of the combination of a thriving steel making industry with a modern pulse, set in hilly surroundings with the moors and the famous Peak district only a few miles away.
+Sheffield is England's greenest city, built on seven hills at the edge of the [Peak District](/europe/unitedkingdom/england/peakdistrict). Once the steel capital of the world — the city still makes most of the country's cutlery — it has reinvented itself around two universities, a strong arts and music scene, and some of the best outdoor access of any English city. A third of Sheffield lies within the Peak District National Park.
 
+The city centre has been heavily redeveloped since the 1990s, with the Winter Garden glasshouse and the Millennium Gallery forming a modern cultural quarter. The older industrial quarters along the River Don are being converted into studios, breweries, and street food halls. Kelham Island, the old steelworks district, is now one of the most interesting neighbourhoods for eating and drinking.
 
- 
- These days, Sheffield has about half of a million inhabitants and attracts visitors from all over the world, not in the least because of its rapid and fairly short (approximately 2,5 hours) connection with London. There are several good museums, most of them dedicated to the city’s industrial past, subsequent growth and prosperity, and the present. 
- Besides that, Sheffield has two universities and offers excellent sport facilities and an active nightlife scene. The Yorkshire countryside lends itself perfectly for a walking trip.
+Sheffield is well connected by train — about two hours from London St Pancras, an hour from [Manchester](/europe/unitedkingdom/england/manchester_liverp/manchester), and half an hour from [Leeds](/europe/unitedkingdom/england/leeds_sheffield_a/leeds). The real draw, though, is the countryside on the doorstep. The Peak District moors start at the western suburbs, and on a clear day you can see them from the city centre.

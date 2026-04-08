@@ -1,10 +1,16 @@
 ---
 title: "Sarajevo"
 type: location
+latitude: 43.8563
+longitude: 18.4131
+done:
+  location_cleanup: '2026-04-07'
 ---
 
-Sarajevo is the capital city of the Republic of Bosnia and Herzegovina. During the years after the split up of Yugoslavia, Bosnia and Sarajevo went through a few very rough years. Over the last few years, the situation has become more stable and now it is possible to visit Sarajevo again. 
+Sarajevo has always been a place where civilisations meet — Ottoman, Austro-Hungarian, Yugoslav, and now Bosnian — and the result is a city unlike any other in Europe. You can walk from a 16th-century Ottoman bazaar to a Habsburg boulevard in five minutes, passing mosques, Catholic churches, Orthodox churches, and a synagogue along the way.
 
-It has always been an important crossways for different cultures of the world. Because of its location on the Balkan diagonal, since ancient times it has acted as gateway for the peoples of Greece and Asia Minor migrating towards the midwest of Europe or vice versa. Sarajevo is also situated on the crossroads which runs along the valleys of the Bosna and Neretva rivers and connects northern Europe with the Mediterranean Sea and its traditions. Thanks to its geographical position, since its origins it has been influenced by a great number of different cultures and civilizations which came together, struggled against one another, but then intermingled and reconciled on this same land. 
+The city endured one of the longest sieges in modern warfare from 1992 to 1996, and the scars are still visible — bullet-pocked facades, Sarajevo Roses (mortar scars filled with red resin), and the remarkable Tunnel of Hope, an 800-metre passage dug under the airport runway that was the city's lifeline during the siege. Many tour guides served in the army during the war and offer compelling firsthand perspectives.
 
-Sarajevo is currently undergoing major transformation. Schools, facilities, and other objects are being reconstructed, new trees planted, new street lights are being installed, new tram stops, new billboards... Just about everything is to be changed (for better). The Turkish old town also known as Bascarsija is basically rebuilt (except for the National Library).The new town is also being transformed with many rebilt high rises, and restourants are being opend all over the city, The two tallest towers in the Balkans are curently being constructed. Many religious buildings have also been rebuilt, wich is giving Sarajevo's old spirit back, of religious tolerence. Many of it's former Serbian and Croatian residents are moving
+The Old Town (Baščaršija) is the heart of the city — cobblestone streets lined with Ottoman-era shops, copper workshops, and cafes serving Bosnian coffee in traditional *džezva* pots. The Latin Bridge is where Archduke Franz Ferdinand was assassinated in 1914, setting off World War I. The Bosnian Historical Museum documents the war with images and exhibits that are not for the faint-hearted but are essential for understanding the city.
+
+For scenic views, walk up to the old bastion walls or one of the surrounding hills — but stay on paved roads and sidewalks, as some landmines remain in outlying areas. The city is compact and walkable, and its food scene — grilled *ćevapi*, *burek*, sweet *baklava* — is one of the best in the Balkans.

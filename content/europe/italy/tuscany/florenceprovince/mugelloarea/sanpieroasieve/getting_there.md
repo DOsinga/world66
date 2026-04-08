@@ -1,8 +1,6 @@
 ---
-title: "Getting There in San Piero a Sieve"
+title: "Getting There"
 type: section
 ---
 
-- A1 Motorway (Barberino di Mugello exit);
-
-  - State Roads from Florence (Via Bolognese - S.S. 65), from Bologna (S.S. 65), from Imola (S.S. 503), from  Faenza (S.S. 302), from Forlì (S.S. 67) and from Arezzo (S.S. 70).
+By road, take the A1 motorway and exit at Barberino di Mugello, then follow signs north into the Mugello valley. San Piero a Sieve is also reachable by state roads from Florence (Via Bolognese / S.S. 65), Bologna (S.S. 65), Imola (S.S. 503), Faenza (S.S. 302), Forlì (S.S. 67), and Arezzo (S.S. 70).

@@ -1,15 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Rue de Berkane"
-price: "20 Dollars"
-type: "Local"
-latitude: 34.911107
-longitude: -2.312602
 ---
 
-### Le dauphin
-
-The best restaurant in Oujda. Very interesting prices
-
-type: Local
+Oujda's food reflects its position on the Algerian border — you will find dishes here that are uncommon further west in Morocco. The local cuisine leans toward grilled meats, couscous with a distinctly eastern touch, and Algerian-influenced pastries. Rue de Berkane and the streets around Boulevard Mohamed V are the main dining areas.

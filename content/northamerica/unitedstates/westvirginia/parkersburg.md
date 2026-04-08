@@ -1,14 +1,16 @@
 ---
-title: "Parkersburg"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.2667
+longitude: -81.5621
+title: Parkersburg
 type: location
-latitude: 39.266731
-longitude: -81.562076
 ---
 
-Parkersburg is located in northwest [West Virginia](/northamerica/unitedstates/westvirginia) on the Ohio River. It is a small port city. 
+Parkersburg sits on the Ohio River in the far northwest corner of [West Virginia](/northamerica/unitedstates/westvirginia), where the Little Kanawha River joins the Ohio. It is a small industrial city with an outsized piece of American history anchored in the river beside it.
 
-Blennerhasset Island, in the middle of the river, was the home of Aaron Burr and his consort after he killed Alexander Hamilton in a New Jersey dual and was convicted of treason for plotting to annex northern Mexico and create a new nation there. The manion they inhabited was burned to the ground, but has been completely restored and is now a historical park which offers a real-time experience of life in the early 1800s. 
+The city's signature attraction is Blennerhassett Island, a low wooded island mid-river that was once home to Harman Blennerhassett, an Irish-born aristocrat who made the mistake of backing Aaron Burr's notorious conspiracy. Burr, fleeing the scandal of killing Alexander Hamilton in a duel in 1804, hatched a scheme to carve out an independent nation from the western territories. Blennerhassett's grand mansion was raided and burned by the Virginia militia in 1806. It has since been painstakingly restored and is now a state historical park reachable only by sternwheeler from downtown Parkersburg — a ferry ride that itself feels like a step back in time.
 
-The Fenton Art Glass Factory is just north of Parkersburg in Williamstown, and creates beautiful pieces of functional and ornamental glass for export all around the world. Visitors can tour the factory and see the glass being manufactured in time-honored traditons, as well as purchase these unique works of art at rock-bottom prices.
+The Blennerhassett Museum on Juliana Street tells the full story of the island and the broader history of the upper Ohio Valley. Together, the museum and island make for a full day out.
 
-Parkersburg is located on I-77 about 1 1/2 hours north of [Charleston](/northamerica/unitedstates/southcarolina/charleston) and 4 1/2 hours south of [Cleveland](/northamerica/unitedstates/ohio/cleveland), OH
+Parkersburg lies on I-77, roughly 90 minutes northwest of [Charleston](/northamerica/unitedstates/westvirginia/charleston) and four and a half hours south of [Cleveland](/northamerica/unitedstates/ohio/cleveland).

@@ -1,26 +1,18 @@
 ---
-title: "Kochi"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 33.559
+longitude: 133.5311
+title: Kōchi
 type: location
-latitude: 33.558848
-longitude: 133.531092
 ---
 
-Travel Guide
+Kōchi is the most characterful city on Shikoku, and many people find it the most likeable. Set on the Pacific coast of the island's southern prefecture, it is a city of around 320,000 that retains a genuine roughness — a hangover from its days as the capital of Tosa, a domain historically so remote and rugged that the shogunate could never quite tame it. That independent spirit is still here, in the directness of the people, the strength of the local sake, and the swagger of Kōchi's contribution to the Meiji Restoration.
 
-The former castle town of historic Tosa province, Kochi is a modern
-city of some 320,000 on Shikoku's Pacific coast. The prefecture itself
-bears the brunt of many typhoons and sees heavy rain compared to the
-relatively dry Inland Sea coast of Shikoku. Historically considered an
-isolated and rugged region, Tosa was famous for its independent spirit
-and rough nature. Kochi prefecture, and even Kochi city proper to some
-extent, has retained some of that reputation.
+The city's most striking landmark is **Kōchi Castle** (*Kōchi-jo*), one of only twelve original Japanese castles still standing — that is, never reconstructed from ruins. It sits on a low hill in the middle of the city, its white towers rising above the trees, and you can walk up to it in ten minutes from the tram stop. The castle survived the Meiji purge because the local lord asked nicely. The view from the keep over the Shikoku mountains to the north and the Pacific glinting to the south is worth the climb on its own.
 
-The star attraction of the city is **Kochi-jo**, a small, original
-castle perched atop a hill near the town center. Most of its buildings
-and fortifications were destroyed in the anti-feudal fits of the Meiji
-Restoration. From the intact donjon, visitors can get great views over
-Kochi. An original gate, **Ote-mon**, has been preserved at the foot of the hill. East of the center is the mountain park of **Godai-san-koen**. **Chikurin-ji**, founded in 724 and the 31st of Shikoku's famed 88-temple circuit, sits nearby.
+Below the castle, **Otesuji-dori** — the city's broad, tree-lined main street — hosts a Sunday market (*Nichiyō-ichi*) that has been running for 300 years. Hundreds of stalls sell vegetables, antiques, plants, tools, and food, and locals turn out in force. It is one of the best markets in Japan and a good reason to plan your visit around a Sunday.
 
-Around 13km south of Kochi is the beach area of **Katsura-hama**. The area is also home to an aquarium and the **Kochi Prefectural Sakamoto Ryoma Memorial Museum**, dedicated to a key player in the events of 1867. The nearby **Tosa Token Centre** offers an opportunity to witness some of the region's famous fighting dogs in action. Back in town, **Otesuji-dori** is home to a bustling Sunday market that's worth visiting.
+About 13km south of the centre, the rocky peninsula of **Katsurahama** is Kōchi's most famous stretch of coast — pine trees, a crescent of dark sand, and a bronze statue of **Sakamoto Ryōma**, the Tosa-born samurai who helped broker the alliance that brought down the shogunate. He is something of a local deity here, and the **Sakamoto Ryōma Memorial Museum** on the hill above the beach is genuinely good. The beach itself is not for swimming (currents are fierce) but the coastal scenery is striking.
 
-Kochi's **Yosokoi Matsuri**, held August 9th through the 12th, offers a more low-key version of Tokushima's popular Awa Odori.
+Kōchi's food culture is distinctive. *Katsuobushi* — bonito — is the city's obsession; the local speciality *katsuo no tataki* (lightly seared bonito over a straw flame, served with garlic and ginger) is arguably the best fish dish in Japan. The city's *izakayas* are lively and unpretentious, and the local sake and *yuzu* (citrus) drinks are excellent.

@@ -1,18 +1,18 @@
 ---
+done:
+  location_cleanup: '2026-04-07'
+latitude: -4.15
+longitude: 39.6
 title: South of Mombasa
 type: location
-latitude: -4.1725
-longitude: 39.5936
-done:
-  location_cleanup: 2026-04-08
 ---
 
-The coast south of [Mombasa](/africa/kenya/mombasa) stretches from the Likoni ferry crossing down through a series of white coral sand beaches fringed by reef — some of the best beach territory in Kenya. The three main beaches — Shelly, Tiwi, and Diani — each have a distinct character.
+Three white coral-sand beaches stretch south of Mombasa, reached by the Likoni ferry from the city centre. High season runs from January, April to early July, August to early September, and December.
 
-**Shelly Beach** is the closest to Mombasa and the least developed, a 30-minute walk from the Likoni ferry. Good for a day trip.
+**Shelly Beach** is the closest to the city, about 30 minutes' walk or a quick matatu ride from the Likoni ferry. It is pleasant but the least impressive of the three.
 
-**Tiwi Beach** is the quietest and most relaxed of the three, with a low-key backpacker scene and several small cottages and lodges available. Snorkelling and diving can be arranged here. Note: the gravel access road from the matatu drop-off is a 3 km walk, and it is best not to walk it alone — muggings have been reported; wait for a lift.
+**Tiwi Beach** is the least developed and the best option for independent travellers. A matatu from the ferry drops you at a gravel access road about 3 km from the beach — do not walk this stretch alone, as it has a reputation for muggings. Wait for a lift. The beach itself is quieter than Diani, with good snorkelling and diving available through local operators.
 
-**Diani Beach** is the most developed, with a long strip of resorts, beach bars, and water sports operations catering to package tourism. The beach itself — broad, white, and backed by tropical vegetation — is genuinely beautiful. Independent travellers will find a few affordable guesthouses south of the main resort strip.
+**Diani Beach** is the most developed beach in Kenya, a long stretch of powder-white sand backed by palm trees and lined with resorts. It caters primarily to package tourists, but the beach itself is spectacular. Matatus and buses run every 15 minutes from Likoni ferry.
 
-To reach all three, take a matatu or bus from the Likoni ferry. High season runs from January, April to early July, and August to early September, and December.
+To reach any of these beaches, take a matatu heading south from the Likoni ferry terminal.

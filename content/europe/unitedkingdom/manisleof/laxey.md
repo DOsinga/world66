@@ -1,12 +1,12 @@
 ---
 title: "Laxey"
 type: location
-latitude: 50.986068
-longitude: 0.956689
+latitude: 54.2282
+longitude: -4.3938
 ---
 
-This is a small village with a Youth Hostel and a station on the atmospheric electric railway from Douglas to Ramsey.
+Laxey is a small village on the northeast coast of the Isle of Man, set in a wooded valley where the Laxey River meets the sea. It is a stop on the Manx Electric Railway between Douglas and Ramsey, and the departure point for the Snaefell Mountain Railway to the island's summit.
 
-However its principal clain to fame is its enormous water wheel which usually operates from Easter until the end of the tourist season. 
+The village's main draw is the Lady Isabella, also known as the Laxey Wheel -- a waterwheel built in 1854 to pump water from the local lead and zinc mines. At over 22 metres in diameter, it is the largest working waterwheel in the world. The wheel and the surrounding mine trail are open from Easter through to the autumn, and the site gives a vivid sense of the island's industrial past.
 
-http://www.isle-of-man.com/information/lwheel.htm will show the wheel and provide good information.
+The village itself is pleasant for a wander, with a small harbour, a good beach at the mouth of the glen, and a few pubs and cafes.

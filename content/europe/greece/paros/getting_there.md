@@ -3,28 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Being one of the top three destinations of the Cyclades and located in the centre of the archipelago, many ferries go to Paros and thousands of visitors stay or just pass in the island, waiting for a transfer to another island.
+Paros sits in the centre of the Cyclades and is one of the best-connected islands in the group. All ferries dock at Parikia.
 
-During summer, daily ferries link Paros with
-[Piraeus](/europe/greece/piraeus) and
-Rafina. From the harbour of Piraeus, Paros is reachable in 5 hours or in 2, 45 hours with a High-speed catamaran. From the harbour of Rafina (second main port of
-[Athens](/europe/greece/athens), 1 hour drive from the centre, nearby the new airport) the trip to Paros is shorter.
+From [Piraeus](/europe/greece/piraeus) (the main port of [Athens](/europe/greece/athens)), conventional ferries take about five hours; high-speed catamarans make the crossing in under three. There are also sailings from Rafina, the secondary Athens port near the airport, which is a shorter crossing.
 
-During summer, frequent ferry services operate to various destinations such as:
-Amorgos,
-Anafi,
-Ikaria,
-[Ios](/europe/greece/ios),
-[Samos](/europe/greece/samos),
-Koufonisia,
-[Mykonos](/europe/greece/mykonos),
-[Naxos](/europe/greece/naxos),
-[Rhodes](/europe/greece/rhodes),
-[Santorini](/europe/greece/santorini),
-Schinousa,
-[Skiathos](/europe/greece/skiathos),
-Syros, and
-[Tinos](/europe/greece/tinos), but also to
-[Crete](/europe/greece/crete),
-[Volos](/europe/greece/volos) and
-[Thessaloniki](/europe/greece/thessaloniki).
+During summer, frequent services connect Paros to [Naxos](/europe/greece/naxos), [Mykonos](/europe/greece/mykonos), [Santorini](/europe/greece/santorini), [Ios](/europe/greece/ios), [Tinos](/europe/greece/tinos), Syros, Amorgos, Koufonisia, and several other Cycladic islands. Longer-distance ferries run to [Samos](/europe/greece/samos), [Rhodes](/europe/greece/rhodes), [Crete](/europe/greece/crete), and [Thessaloniki](/europe/greece/thessaloniki). Paros also has a small airport with domestic flights from Athens.

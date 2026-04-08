@@ -1,22 +1,16 @@
 ---
-title: "Svolvær"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 68.2321
+longitude: 14.5646
+title: Svolvær
 type: location
-latitude: 68.232171
-longitude: 14.564602
 ---
 
-Svolvær is today Lofoten´s regional centre with about 4,120 inhabitants. The Svolvær Goat, is the town´s most characteristic feature, and it represents a challenge to climbers. The peak was reached for the first time in 1910. The Svolvær Goat peak, a characteristic feature of Svolvær, challenges mountaineers to jump from one of its horns to the other. Would you dare to jump?
+Svolvær is the regional centre of the Lofoten Islands, a small but lively town of around 4,500 people strung along the waterfront beneath dramatic peaks. It is the natural base for exploring the archipelago — the only place in Lofoten with a proper airport, and a port of call for the Hurtigruten coastal steamer and express ferry services.
 
-Svolvær is a natural starting point for expoling the Lofoten Islands. Her you will find serveral hotels, rorbuer (Fisherman`s cabin) and seahous camping. Try for example Svinøya rorbuer. Svinøya was the main centre of Svolvær during the 1800 century. In Svolvær you will also find some of the best fish restaurants in Lofoten Islands.
+The town is dominated by the Svolvær Goat (Svolværgeita), a two-pronged rock spire rising 568 metres above the town. The peak was first climbed in 1910, and the jump between its two horns — a gap of roughly two metres, with nothing below — remains one of the most famous challenges in Norwegian mountaineering.
 
-Svolvær have airport, ferry, express boats and daily arrival of Hurtigruten, north and soutbound.
+The harbour area at Svinøya was the commercial heart of Svolvær throughout the 1800s, and several of the old rorbu (fishermen's cabin) complexes have been converted into accommodation and restaurants. The painter Gunnar Berg (1861–1893), best known for his monumental canvas of the Battle of Trollfjord, was born and worked here; his gallery at Svinøya is worth a visit. The North Norwegian Artist Centre and Dagfinn Bakke's gallery round out an unexpectedly strong art scene for a town this size.
 
-From Svovlær there are daily departure to the Trollfjord during the summertime.
-
-From octobre to january several hotels and rorbu cabins are arranging Killer Whale Safari/ Orca Safari. For more info see www.orca-lofoten.com
-
-The painter Gunnar from Lofoten and his most famous painting, "The Battle of Trollfjord" can be seen in the his own Gallery at Svinøya. Among galleries we might mention the North Norwegian Artist Centre with its exhibitions, Galleri Gunnar Berg and Dagfinn Bakke´s Gallery. The Konrad Gallery exhibits the works of amateur painters. Svolvær offers the atmosphere of a harbour, a small town and art simultaneously.
-
-Main office for Destination Lofoten are also located in Svolvær City centre!
-
-Welcome to Lofoten Islands and Svolvær!
+From October to January, herds of orca follow the herrings into the fjords around Svolvær, making it one of the most accessible places in Norway for killer whale watching. In summer, daily boat trips run to the Trollfjord — a narrow, glacier-carved gorge flanked by near-vertical walls — one of the most dramatic short excursions in Norway.

@@ -1,8 +1,10 @@
 ---
-title: "Vicenza"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.634859
 longitude: 11.406354
+title: Vicenza
+type: location
 ---
 
 Vicenza is located at the foot of the Berici mountains, at the confluence of the Retrone and Bacchiglione rivers, on the upper Venetian plain between Verona and Padua.

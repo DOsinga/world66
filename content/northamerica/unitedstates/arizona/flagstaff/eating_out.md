@@ -3,7 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Brandy's Restaurant **- Consistently voted "Best of
-Flagstaff". Breakfast, Lunch, Dinner, Espresso, Bakery, and Art
-Gallery. For more information see our website:
-www.brandysrestaurant.com
+Flagstaff has a good range of restaurants for a small city, concentrated along the Route 66 historic district downtown. The university keeps the food scene lively, with everything from Mexican and Thai to craft brewpubs.

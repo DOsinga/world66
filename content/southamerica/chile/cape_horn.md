@@ -1,16 +1,16 @@
 ---
-title: "Cape Horn"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -55.9797
+longitude: -67.2717
+title: Cape Horn
 type: location
-latitude: -55.977457
-longitude: -67.263054
 ---
 
-Travel Guide
+There are places on the map that exist as myth before you ever get close to them, and Cape Horn is one of them. The southernmost point of the Americas, the place where the Atlantic and Pacific meet, the graveyard of hundreds of ships that tried to round it in the age of sail — the Horn carries real weight. Standing at 55°58′S on Isla Hornos, deep in the Chilean Tierra del Fuego archipelago, it is as remote and elemental a spot as you are likely to reach without a full expedition.
 
-Cape Horn is widely considered to be the most southerly point of South America, and marks the northern boundary of the Drake Passage; for many years it was a major milestone on the clipper route, by which sailing ships carried trade around the world. However, the waters around the cape are particularly hazardous, owing to strong winds, large waves, strong currents and icebergs; these dangers have made it notorious as a sailors' graveyard.
+The waters here are genuinely fearsome. The Drake Passage, which separates Cape Horn from Antarctica some 800 kilometres to the south, is the stormiest stretch of ocean on earth: waves can exceed 20 metres, winds blow near-constantly from the west, and icebergs drift up from the south. Clipper ships once had to fight these conditions for weeks to get through — "rounding the Horn" was a rite of passage for sailors, and many did not make it. A large sculpture of an albatross in flight stands as a memorial to the thousands who drowned.
 
-Cape Horn is the southernmost point of land associated with South America; it is located at 55°58′47″S 067°16′18″W﻿ / ﻿55.97972°S 67.27167°W﻿ / -55.97972; -67.27167, on Isla Hornos in the Hermite Islands group, at the southern end of the Tierra del Fuego archipelago. It marks the north edge of the Drake Passage, the strait between South America and Antarctica. The dividing line between the Atlantic and Pacific oceans runs along the meridian of Cape Horn, from Tierra del Fuego to the Southern Ocean. It is located in Cabo de Hornos National Park.
+Cape Horn itself lies within [Cabo de Hornos National Park](/southamerica/chile/cabo_de_hornos), a UNESCO Biosphere Reserve covering the southernmost tip of South America. The Chilean Navy maintains a small station on the island — a lighthouse, a chapel, a residence — and a family of naval personnel lives there year-round, one of the most isolated postings on the planet. You can walk up to the memorial and take in the view; on a clear day the drama of the landscape is stunning, though clear days are not guaranteed.
 
-The cape lies within Chilean territorial waters, and the Chilean Navy maintains a station on Hoorn Island, consisting of a residence, utility building, chapel, and lighthouse; A short distance from the main station is a memorial, including a large sculpture featuring the silhouette of an albatross, in honour of the sailors who died while attempting to "round the Horn"
-
-The only way to visit Cape Horn, Chile is by ship and a cruise ship is your best option.
+The only way to get here is by sea. Expedition cruise ships operating out of [Ushuaia](/southamerica/argentina/tierra_del_fuego/ushuaia) in Argentina or [Punta Arenas](/southamerica/chile/punta_arenas) in Chile pass Cape Horn on routes through the Beagle Channel and the Southern Ocean. Landing depends entirely on weather and sea state, and is far from assured — many voyages can only cruise past and view the Horn from the ship. That uncertainty is part of the experience.

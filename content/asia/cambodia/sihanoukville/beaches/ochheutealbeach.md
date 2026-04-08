@@ -1,11 +1,8 @@
 ---
 title: "Ochheuteal Beach"
 type: poi
-type: "general"
-latitude: 10.598151
-longitude: 103.531901
+latitude: 10.5982
+longitude: 103.5319
 ---
 
-Ochheuteal Beach is becoming touristy. Many hotels can be found on the developed end along with some great seafood restaurants.
-
-type: general
+The longest and most developed of Sihanoukville's beaches, with a line of seafood restaurants and beach bars along its length. The northern end is busy and touristy; the southern end, sometimes called Serendipity Beach, is livelier at night.

@@ -1,8 +1,0 @@
----
-title: "Practical Information"
-type: section
----
-
-** Hoteles y Resorts / Hotels & Resorts in/en Puerto Plata: **
-
-Allegro Playa Dorada - Azzurro Club Cabarete - Azzurro Club Estrella - Bahia Principle - Barcelo Punta Goleta - Breezes Puerto Plata Resort - Caribbean Village Playa Dorada - Casa Colonial Beach & Spa Resort - Casa Marina Bay - Casa Marina Beach - Casa Marina Reef - Coconut Palms Resort - Costa Real - Dominican Condo Rental - El Colibri Resort - El Palomar - Fun Royale Beach Resort - Fun Tropicale Beach Resort - Gran Ventana Beach Resort - Grand Flamenco Puerto Plata - Haciendas El Choco - Hotel Cabarete - Hotel Casa Cayena - Hotel Cita del Sol - Hotel Don Andres - Hotel Kaoba - Hotel Paraiso de Colon - Hotel Playa Laguna - Hotel-Paraiso - Hotelera Naco - IberoStar Costa Dorada - Lifestyle Crown Residence Suites - Lifestyle Hacienda Resorts - Lifestyle Tropical Beach - Luperon Beach Resort - Marien Coral by Hilton - Oasis Marien - Occidental Grand Puerto Plata - Paradise Beach Resort and Casino - Paraíso del Sol - Piergiorgio Palace Hotel - Playa Dorada complex - Puerto Plata Vacation Rentals - Puerto Plata Village - Residencia del Paseo Aparthotel - Residencial Casa Linda - Riu Bachata - Riu Mambo - Riu Merengue - Sea Horse Ranch Villas - Sosua Bay Hotel - Sosua by the Sea - Sun Village Resort - Tropix - VH Hotels and Resorts - Victoria Golf & Beach Resort - Victoria Hoteles - Victorian House - Villa Tamisa - Viva Wyndham Playa Dorada - Viva Wyndham Tangerine

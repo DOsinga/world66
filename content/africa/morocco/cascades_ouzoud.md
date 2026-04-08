@@ -1,14 +1,16 @@
 ---
-title: "Cascades Ouzoud"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 31.9898
+longitude: -6.7137
+title: Cascades d'Ouzoud
 type: location
-latitude: 31.989795
-longitude: -6.713693
 ---
 
-Cascade Ouzoud should be classified as one of the "natural wonders" of Morocco. Approximately 300 meters high, the cascade is northeast of Marrakech about 150km. Like some stage-plays in New York City being "off-off Broadway," the cascade is also "off-off" the beaten path. But the journey there is well worth the effort. You will find at the top quaint and cheap little hostels, good restaurants serving excellent meals and small shops selling hand-made Moroccan goods. 
+The Cascades d'Ouzoud are Morocco's most spectacular waterfall — a 110-metre drop through a red-rock gorge about 150 km northeast of Marrakech. The falls are hardly secret among Moroccan tourists, but they remain far enough off the main Marrakech–Fès highway that most foreign visitors miss them entirely. That is their loss.
 
-Journey down the well constructed path through olive trees to the bottom of the gorge and look up as the water cascades over the edge far above you. You can have your lunch served to you right at the waters edge after having taken a refreshing swim in the large pool formed by the falling torrent. Or, you can just sit quietly while drinking your mint tea and watch the Rhesus Macaques (Desert Monkeys) begging for handouts. 
+The path down from the plateau winds through olive groves before opening onto a series of terraced viewpoints above the gorge. At the bottom, the falls feed a wide emerald pool where you can swim in warm months. Barbary macaques — local people call them desert monkeys — work the terraces with practised nonchalance, accepting handouts from cafe tables with unsettling poise. Several small restaurants and cafes are perched above the water; all serve mint tea and tagines at prices that feel almost absurdly cheap after Marrakech.
 
-Ask one of the locals where the source of the water is and they will take you about 6km east to it. You will walk through olive groves for about 1 or 2 km and pass an ancient olive press that must have known the Moulay Idriss. Finally, you will come to the source; a "gush" of water from an artesian spring out of the ground that is so cold and refreshing you will not want to leave. 
+If you ask a local to show you the source of the water, they will lead you about 6 km east through the olive groves, past an ancient olive press, to a cold artesian spring that bubbles straight out of the ground. It is one of those surprises Morocco keeps producing on people who bother to look.
 
-To get there, take Highway P24 from Marrakech northeast which goes to Fez. When you see the road panels for Afourer turn there and scale the mountain road (S508) and pass through Bin-el-Quidane (You'll know it by the huge dam and man-made lake). Just keep following the road panels to Cascade Ouzoud.
+**Getting there:** Take highway P24 northeast from Marrakech towards Fès. Turn off at Afourer, then follow road S508 through Bin-el-Ouidane — you will know it by the large dam and reservoir — and continue following signs to Cascade d'Ouzoud. A handful of small guesthouses at the top of the falls make it possible to stay overnight, which is worth doing to catch the falls in morning light without the day-trip crowds.

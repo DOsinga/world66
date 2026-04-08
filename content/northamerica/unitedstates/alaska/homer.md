@@ -1,16 +1,14 @@
 ---
-title: "Homer"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 59.6454
+longitude: -151.5446
+title: Homer
 type: location
-latitude: 59.645406
-longitude: -151.544564
 ---
 
-Homer has a lot to offer besides the abundant **espresso** cafes. For a full background and cultural feel of this weird *drinking town with a fishing problem* the Pratt Museum is a must go. Located on the corner of Bartlett Street and Pioneer Avenue which is the primary business and tourist thoroughfare of upper Homer, it provides cultural insights of the residents and a guided **botanical garden** to learn of the many edible plants that grow wild on the Kenai Penninsula of Alaska. If you desire fine dinning and a pleasant wine and beer patio, be sure to stop in at **Cups Cafe** just down the ave. about half a block. 
+Homer sits at the end of Sterling Highway on the south shore of the Kenai Peninsula, where the land runs out into Kachemak Bay. Locals call it "the cosmic hamlet by the sea" and also "a drinking town with a fishing problem" — both are accurate. The town has a bohemian streak unusual for Alaska, a serious arts scene, and more espresso cafes per capita than you might expect this far north.
 
-Crossing the Beluga Slough on Sterling Highway on the way to the other tourist district known as **Homer Spit** you see several float planes docked waiting to transport people across the bay. 
+The Homer Spit, a 3-mile-long sandbar jutting into the bay, is the town's social centre: ferry terminal, marina, campground, seafood restaurants, galleries, and charter fishing boats. Halibut fishing is the main draw for visitors — the bay is productive and the catch can be enormous. Bald eagles are a constant presence along the waterfront, more interested in fish scraps than in spectators.
 
-The Homer Spit is the narrow isthumus of land jutting out 3 miles into the Katchemak Bay just off the lower Cook Inlet. It serves as a ferry terminal to the Maritime Highway and water taxi across the bay to glaciers and hiking trails. 
-
-Tourism is highly developed by the city in the form of a full service transient marina and R/V-tent camping grounds. Other city run campgrounds are on the mainland in town. 
-
-Restaurants and a hotel surround the marina where Bald eagles can be viewed gliding along the shore feeding. Halibut fishing to win the daily derby prize is done at the lagoon.
+The **Pratt Museum** on Pioneer Avenue is the town's cultural anchor, with exhibits on local ecology, indigenous cultures, and Kenai Peninsula natural history, plus a botanical garden. Water taxis run from the Spit across the bay to Kachemak Bay State Park, which has glaciers, tide pools, sea otters, and hiking trails accessible only by boat.

@@ -1,39 +1,16 @@
 ---
-title: "Hacibektas"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 38.9429
+longitude: 34.5609
+title: Hacıbektaş
 type: location
-latitude: 38.942884
-longitude: 34.560882
 ---
 
-Travel Guide
+Hacıbektaş is a small Anatolian town about an hour's drive north of Nevşehir, reached by taking a local minibus through the town of Gülşehir. It belongs on any serious Cappadocia itinerary because it illuminates a side of Turkey that most visitors never encounter: the Alevi-Bektaşi tradition of Islam, a humanist and syncretic strand that has shaped perhaps a quarter of all Turkish Muslims.
 
-A Cappadocia-visit should also include a visit in the town of
-Hacibektas. The town is located nearly 1 hour's drive from Nevsehir.
-You take a local minibus or midibus from Nevsehir. By travelling
-northwards via the town of Gulsehir you arrive in Hacibektas.
+The town's central draw is the Hacıbektaş Museum, the former dergah (monastery) where students of the Bektaşi order were trained for centuries. The complex includes a kitchen, a ceremonial hall, and the tomb of Hacı Bektaş Veli himself — the 13th-century mystic who founded the order and whose philosophy placed the human being at the centre of all things. The architecture is austere and moving; the setting genuinely peaceful.
 
-Approximately one fourth of the people in Turkey belong to
-Alawi-Islam and Haci Bektas Veli is one of the leading personalities of
-this sect. Without a visit in Hacibektas, it is difficult to get a full
-picture of Turkey. In the present day world where we search for
-dialogue between the religions, it is probable that a key to this
-dialogue will show itself in Hacibektas. Alawi-bektasi sect of Islam is
-based mainly on the ideology of having the humanbeings in the center of
-all and with its simplistic ( and easy-to-understand) philosophy, it
-propogates for beeing a good person with a proper life.
+A few minutes' drive from the town center is an open-air complex with an amphitheater and the famous cilehane — a narrow cave passage through which pilgrims traditionally crawl to symbolize absolution from sin. Whether you fit through it depends on your coat and your karma. At certain times of year, the town's culture center hosts sema performances, the ecstatic ritual dances of the Alevi tradition.
 
-In Hacibektas-town, I would suggest you visit two places:
-
-1) Hacibektas Museum, which is the monestary where the pupils of
-Alawi-Bektasi sect were trained. There you find different section of
-the monestary with amongst others the kitchen and the tomb of Haci
-Bektas Veli.
-
-2) By driving few minutes from the town center , you come to a type
-of open-air museum with an amphi-theatre and a "cilehane". "Cilehane"
-is a small cave and if you can pass through the small hole, this means
-that you are free from your sins. I could not manage this, possibly
-because I had a thick coat on me!
-
-In the Culture Center of the town, you also may join at certain
-periods SEMA-performances, which is the Alawis' traditional dances.
+Hacıbektaş hosts one of Turkey's largest annual gatherings in August, the Hacıbektaş Anma Töreni festival, which draws Alevis from across Turkey and the diaspora. If you visit then, expect crowds and a charged atmosphere; at any other time, the town is quiet and welcoming to curious visitors.

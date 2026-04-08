@@ -1,52 +1,12 @@
 ---
-title: "Varazze"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.3593
 longitude: 8.575327
+title: Varazze
+type: location
 ---
 
-The town, set on a broad bay stretching from
- the Punta di Mola to the Punta dell’Aspera, has
- a fine beach and a tourist harbor with berths for
- 300 boats. From the sea, it climbs up the
- flowering slopes of the hills, with the outlying
- wards of Casanova and Pero overshadowed by
- the mountains of the Beigua group. Varazze
- was founded as a Roman military post, called
- Ad Navalia because ships were built there, and
- then came to be known as Varagia and
- Varagine, again with reference to vessels and
- their launching (varo in Italian). It was already
- a town of considerable importance around the
- year 1000 when, surrounded by high walls, it
- was set further back from the sea, up against the
- hills. It was the birthplace of Jacobus de
- Voragine. Among the monuments of artistic
- value that testify to the important role played by
- Varazze over the centuries, the collegiate
- church of Sant'Ambrogio stands in the heart of
- the town, on the square of the same name. It
- dates from 1535 but was built on the ruins of a
- fourteenth-century church, whose beautiful
- campanile with a spire and three rows of three-light
- windows, in an elegant Romanesque-Gothic
- style, still stands. The interior, with a
- nave and aisles roofed by domes, houses
- precious baroque altars and fine canvases and
- panels (by Barbagelata, Cambiaso and other
- artists of the Ligurian school). Higher up extend
- the Piani d’Invrea, covered with mimosa and
- Maritime pine and with steep cliffs overlooking
- the sea at several points. In the area known as
- Pian di San Giacomo stands the interesting
- church of San Giacomo di Latronorio, dating
- from the twelfth century and extensively
- restored in the 1960s. A crudely-made menhir
- of presumed prehistoric origin is located close
- to the expressway junction. The seventeenth-century
- monastery “of the Desert,” given a
- suggestive and severe appearance by the typical
- small cells of the Discalced Carmelites, stands
- in an isolated position. Alongside the
- flourishing tourist industry, the tradition of
- shipbuilding is maintained.
+Varazze is a small Ligurian resort town on a broad bay between the headlands of Punta di Mola and Punta dell'Aspera. It has a decent beach, a busy tourist marina with moorings for some 300 boats, and a pleasant historic centre that climbs towards the hills. The Romans established a settlement here — called Ad Navalia for the ships built on this shore — and the shipbuilding tradition persisted into modern times. Behind the town, the slopes of the Beigua mountains are covered with mimosa and maritime pine, broken by cliffs that drop straight to the sea.
+
+The town's most notable monument is the collegiate church of Sant'Ambrogio, dating from 1535 and standing on the square of the same name. Its Romanesque-Gothic campanile, with three tiers of triple-arched windows, survives from a fourteenth-century predecessor and is the finest thing in town. Varazze was the birthplace of Jacobus de Voragine, the thirteenth-century Dominican archbishop who compiled the Golden Legend, one of the most widely read books of the medieval world.

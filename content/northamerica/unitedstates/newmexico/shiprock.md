@@ -1,8 +1,10 @@
 ---
-title: 'Shiprock'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.7858
 longitude: -108.6845
+title: Shiprock
+type: location
 ---
 
 In Navajo it is "Naat'aanii Nez", or "Tall Leader". Home to a famous annual fair and located near a mythical landmark, Shiprock is a sprawling Navajo Nation community in the four corners region. Plenty of fast food restaurants and service stations await the weary traveler, but there is no lodging, despite years of attempts by the local Navajos to get a motel project constructed. Maybe one day this will happen. Nearby Farmington has plenty of lodging for those interested in staying in the area.

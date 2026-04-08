@@ -3,10 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**By train**: "Ferrovie dello Stato"/ Genova-Ventimiglia railway (Finale Ligure station).
+**By train**: Finale Ligure is on the Genova–Ventimiglia railway line, with frequent regional trains. The journey from Genoa takes about an hour.
 
- **By car**: "A10" motorway (Genova-Ventimiglia): exit Finale Ligure; S. S. 1 (Aurelia)  
+**By car**: Take the A10 motorway (Genova–Ventimiglia) and exit at Finale Ligure. The old coast road, the SS1 Aurelia, is a scenic alternative. Genoa is about 60 km to the east.
 
- **Airport**: *Genoa (GOA) *(Cristoforo Colombo Sestri) (Web site: http://www.airport.genova.it) 6km (4 miles) west of the city (travel time – 20 minutes) has duty-free facilities. Buses are available to the city.
-
- Genoa-Finale Ligure 60Km
+**By air**: The nearest airport is Genoa Cristoforo Colombo (GOA), about 60 km east of Finale Ligure.

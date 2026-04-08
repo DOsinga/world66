@@ -1,22 +1,14 @@
 ---
-title: "Vlasenica"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.1833
+longitude: 18.9333
+title: Vlasenica
 type: location
 ---
 
-Travel Guide
+Vlasenica is a small town in northeastern Bosnia and Herzegovina, set in the hilly Birac region. The town takes its name from a type of grass that grows locally and was once the defining feature of this landscape. Before the 1992–1995 war, it was a quietly prosperous mixed community; today it is a place still coming to terms with a difficult recent history.
 
-Vlasenica is a municipality and town in the northeastern part of Bosnia and Herzegovina. It is in the Vlasenica Region.
-It got its name from a locag type of grss, that only grows in this region, called "Birac".
+The town saw some of the worst violence of the Bosnian War. Serbian forces expelled the Muslim population in 1992, and the Sušica detention camp, established on the outskirts of town, became the site of mass killings and abuse. The Bosniak population has since returned in part, though slowly, and the wounds of that period are still visible in the town's demographics and political life. Travelling here is a quiet, sober experience.
 
-In the 1991 census the municipality had a population 33,817. The distribution was Muslims 18,699 (55.29%), Orthodox 14,356 (42.25%), Catholics 40 (0.12%), Yugoslavs 336 (0.99%) and others 386 (1.14%). The town itself had a population of 7,916. The distribution was Muslims 4,794 (61%), Christian-Orthodox 2,777 (35%), Catholics 28(0.003%) Yugoslavs 243 (0.03%) and others 74 (0.093%).
-
-During the 1992-1995 Bosnian Genocide the city and the municipality were taken over by the JNA (Jugoslav National Army), and serb Volunteers who expeled the entire Muslim population. Several hundred Bosniaks were killed and there were reports of rapes. The Orthodox set up a concentracion camp called Sušica where many atrocities took place.
-
-Recently a there have been a number of Bosniaks who have returned to Vlasenica. However their return has been made difficult by the local authorities. The current population is overwhelmingly Orthodox. Economy is very slugish, but the
-left over population struggles to live a normal life.
-
-During the winter season, great local Ski Center "Igrista" is
-the was to injos the snow and ski. Surounding Rivers are also
-a great plate to go fishing, like Slapovi - Tisca, Kuslat -Drina and such.
-
-Down town market is the place to visit for some shopping experiance. And newly rebuilt "Hajrija" Mosque is a site to visit. Fun swimming can be exploted in the local lake "Jezero".
+For visitors, the main draw in winter is the Igrište ski centre in the surrounding hills — a modest but genuine mountain resort. The area's rivers, including stretches of the Drina, attract anglers. In warmer months, the local lake Jezero is good for swimming. The rebuilt Hajrija Mosque, destroyed during the war and since restored, is worth a visit. The downtown market is a good place to pick up local produce and get a feel for daily life.

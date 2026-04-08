@@ -1,18 +1,16 @@
 ---
-title: "San Luis Obispo"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.2828
+longitude: -120.6596
+title: San Luis Obispo
 type: location
-latitude: 35.354021
-longitude: -120.375716
 ---
 
-San Luis Obispo was established in 1772 with the construction of Mission San Luis Obispo de Tolosa. A town quickly grew around and eventually on the mission grounds which included San Luis Creek.
+San Luis Obispo — universally called SLO — was founded around Mission San Luis Obispo de Tolosa, established in 1772. The mission still anchors the downtown, and San Luis Creek still runs through it. What grew up around them is a genuinely pleasant California city that manages to feel unhurried despite being home to Cal Poly (California Polytechnic State University), one of California's larger public universities.
 
-Today, the city is home to world-class California Polytechnic State University - San Luis Obispo (not to be confused with Cal Poly-Pomona, its sister school), a thriving downtown, fine restaurants, decent nightlife and the Thursday Night Farmers Market.
+The downtown is compact and walkable. Higuera Street is the main drag — lined with restaurants, bars, and shops that cater to locals as much as visitors. On Thursday evenings the street closes for the Farmers Market, which is less a produce run and more a weekly block party: streetside BBQs, restaurant stalls, live music, and a crowd that includes everyone from students to retirees.
 
-Farmers Market is a weekly event that includes not only farmers selling their vegies, fruits and flowers, but also streetside BBQs, restaurant kiosks, and entertainment that ranges from jugglers to favorite local bands.
+The climate is mild year-round, averaging in the low-to-mid 70s Fahrenheit, but temperatures can swing significantly within a single day. Dress in layers.
 
-The average temperature in SLO is in the 70s, but bring a jacket, shorts and sunscreen as temperatures can vary tremendously on any given day. (Local kids quickly learn to wear shorts and a warm coat to school, thereby covering all the bases.)
-
-Downtown parking can be a bear if you're looking to park directly in front of any given store or restaurant. Instead, head to the parking structures at the corner of Marsh and Chorro streets or another on Palm Street between Chorro and Morro streets. Structure parking is less expensive and SLO is a very walkable town.
-
-Created by JenPete@REMOVEaol.com on 01/7/2005.
+Parking downtown is tight on street level. The parking structures on Marsh at Chorro, and on Palm Street between Chorro and Morro, are cheaper and almost always have space — and since SLO is easy to walk, leaving the car a couple of blocks away is no hardship.

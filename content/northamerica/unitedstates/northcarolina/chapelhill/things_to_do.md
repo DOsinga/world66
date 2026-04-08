@@ -1,5 +1,5 @@
 ---
-title: 'Sights in Chapel Hill'
+title: 'Things to Do'
 type: section
 ---
 

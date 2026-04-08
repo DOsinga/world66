@@ -1,19 +1,16 @@
 ---
-title: "Wittenberg"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 51.8667
+longitude: 12.6468
+title: Wittenberg
 type: location
-latitude: 51.866653
-longitude: 12.646761
 ---
 
-"Lutherstadt" Wittenberg is located in the eastern part of Saxony Anhalt about halfway between
-[Berlin](/europe/germany/berlin) (80 km) and
-[Leipzig](/europe/germany/saxony/leipzig) (70 km). The city of approximately 54,000 serves as the county seat of Wittenberg (population ca. 140,000).
+Lutherstadt Wittenberg — to give it its official name — sits on the Elbe in eastern Saxony-Anhalt, roughly halfway between [Berlin](/europe/germany/berlin) (80 km) and [Leipzig](/europe/germany/saxony/leipzig) (70 km). This is where Martin Luther nailed his 95 theses to the door of the Castle Church in 1517 and set the Reformation in motion. The town has been trading on that moment ever since, and the concentration of well-preserved Renaissance buildings makes it a rewarding half-day or day trip.
 
+The best starting point is the **Markt**, the central square flanked by the Renaissance town hall (completed 1535) and **St. Mary's Church** (Stadtkirche), where Luther preached regularly. Together with the facades of the surrounding townhouses, these buildings form one of the finest historical ensembles in Germany.
 
- The main claim to fame of Wittenberg is that it is the town where Martin Luther started the reformation. The city was an important intellectual and cultural centre in thos days and many monuments of that period can still be seen today. The best starting point for a samll city tour is the **Markt** where you find City Hall, a beautiful renaissance building finished in 1535, as well as St. Mary's Church. Together with the facades the houses facing the marketplace, these two buildings form one of the most beautiful historical ensembles in Gemany. For this reason this whole area has long been protected as an historical site.
+The **Castle Church** (Schlosskirche), at the western end of town, is where Luther posted his theses. The castle and church were built by Frederick the Wise between 1490 and 1511. The originals were destroyed by fire during the Seven Years' War in 1760; the current church was rebuilt in 1892 as a monument to the Reformation. Luther and Melanchthon are both buried inside.
 
-
- The **Castle Church**, in the Wittenberg Castle was were Luther posted his 95 theses - the starting point opf the reformation. The Castle and All Saints Church were built by Frederick the Wise between 1490 and 1511. The Church comprises the third wing of the structure. In 1892 one of the castle towers was remodeled and made into the spire of the church. The Castle Church was known both for its artistic interior and for Frederick the Wise's unique collection of relics. Beginning in 1507, the Church also served as the University chapel. During the Seven Years' War, in 1760, the Church was destroyed by fire and was rebuilt in 1892 as a Monument to the Reformation.
-
-
- Cranach and Melanchthon Houses are good examples of renaissance architectur from this part of Europe as well and can be visited.
+The **Cranach Houses** and **Melanchthon House** are good examples of Renaissance architecture and can be visited. The town is compact enough to cover on foot in a couple of hours.

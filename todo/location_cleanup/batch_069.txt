@@ -20,7 +20,6 @@ africa/senegal/bassecasamance
 asia/srilanka/kandy
 europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci
 europe/romania/vama_veche
-africa/egypt/cairo/wedjat_tours_priva
 northamerica/canada/ontario/welland
 northamerica/unitedstates/wisconsin/lacrosse
 northamerica/unitedstates/california/monterey

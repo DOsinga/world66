@@ -1,8 +1,10 @@
 ---
-title: "Gythio"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.761578
 longitude: 22.56595
+title: Gythio
+type: location
 ---
 
 Gythio is a charming harbour town on the Laconian Gulf, at the eastern edge of [Mani](/europe/greece/mani). Neoclassical mansions climb the steep hillside above a long waterfront promenade lined with fish tavernas and colourful fishing boats. It serves as the gateway to Mesa Mani from the east and to the island of Kythira by ferry.

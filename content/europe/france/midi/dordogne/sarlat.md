@@ -1,11 +1,12 @@
 ---
-title: "Sarlat"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.8879
+longitude: 1.2161
+title: Sarlat
 type: location
-latitude: 44.887943
-longitude: 1.216132
 ---
 
-Sarlat (or Sarlat-La-Caneda) is the capitol of Périgieux Noir and a lovely village where medieval times revive. The Cathedrale St Sacerdos, the various churches and the sandstone buildings, all of them have been restored in their near authentic state. The several Chateaux are a must for mystic lovers (as long as you’re not afraid of bunping into one of the many ghosts that haunt the place). Sarlat is an excellent village from which to explore the Dordogne valley.
+Sarlat-la-Caneda is the capital of the Perigord Noir and one of the best-preserved medieval towns in France. The old centre is a dense cluster of golden sandstone buildings, turrets, and steep slate roofs — so perfectly intact that it is regularly used as a film set. The Cathedrale Saint-Sacerdos anchors the historic core, and behind it lie the atmospheric Jardin des Enfeux and the twelfth-century Lanterne des Morts.
 
-
- It is a cultural centre and, like Périgueux, offers its visitors many festivals and concerts during the Summer months. Sarlat, a jewel of its kind, offers such a treasure of medieval and renaissance architecture that it is often used in the making of films. Not to be missed is the house of Etienne de La Boétie, a great philosopher and friend of Michel de Montaigne.
+The town is an excellent base for exploring the Dordogne valley. Chateaux — Castelnaud, Beynac, Puymartin — dot the surrounding hillsides, prehistoric caves line the Vezere valley to the west, and the weekly Saturday market fills the old town with foie gras, walnuts, truffles, and local wine. Not to be missed is the house of Etienne de La Boetie, the philosopher and friend of Montaigne, on the main street.

@@ -1,12 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-There are a variety of things to do in Kariba, ranging from wildlife viewing safari's on land and on water, houseboatig, fishing and viewing local arts and crafts.
+Houseboating is the quintessential Kariba experience — boats range from basic to luxury, hired by the night or the week, with a cook and captain included. Wildlife viewing from the water is excellent: crocodiles bask on the banks, elephants come down to drink, and hippos surface at dusk.
 
-Kariba houseboats are a zimbabwean tradition ranging from basic to absolute luxury houseboats for hire on a nightly to weekly hire rate. Coming with cook and captain on board.
+Sport fishing is world-renowned here. The tigerfish is the main prize — a powerful, aggressive fighter that puts up a spectacular battle — but bream and barbel are plentiful too. Fishing is best between September and November.
 
-The fishing on Lake Kariba is world renowned. You can fish for anything from a Lowely barbal to an almighty Tiger Fish, all within sight of crocodiles, buffalo, hippo's, elephant and even Lion.
-
-Accomadation opptions in Kariba itself range from camping to five star luxury.
+On land, game drives in the Matusadona National Park cover the shoreline and inland bush, with good chances of seeing elephant, buffalo, and lion. Boat-based safaris along the shore offer a different perspective and are particularly rewarding at sunset.

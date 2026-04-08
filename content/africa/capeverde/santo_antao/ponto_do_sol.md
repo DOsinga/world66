@@ -1,16 +1,16 @@
 ---
-title: "Ponto Do Sol"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 17.2023
+longitude: -25.0929
+title: Ponta do Sol
 type: location
 ---
 
-**Ponto Do Sol** is the most northern city. It can be reached by car and by plane. The plane leaves from **Mindelo**, **San Vicente**. Car can be from anywhere from the island. 
+Ponta do Sol is the northernmost town on Santo Antão and one of the most atmospheric spots in Cape Verde. It sits wedged between steep green mountains and the Atlantic, at the mouth of a dramatic river valley. The setting is extraordinary — dark volcanic cliffs, terraced hillsides, and a small cluster of pastel-coloured colonial buildings along the waterfront.
 
-The local inhabitants live from fishing, or work in other places. Every night everybody goes out to the main square in town, **Praça**. people meet there, and at the **Esplanada **you can buy drinks and food. The village has 2 or 3 snackbars, and 2 hairdressers (at the corner of the 1st street crossing *Rua Direita*, and one on *Rua Direita* itself). There's only 1 school in the village, highschool is often followed in a nearby town, **Povo Sao**.
+The town is small and quiet. The main square (Praça) comes alive in the evening when residents gather for drinks and conversation. Fishing is the main livelihood, and the pace is unhurried.
 
-The village is yet undiscovered by tourists, most people who go there is because they have family living there. But it's so beautiful there. If you stand at the end of the village you can still see the sea. You'll hear it all night long. 
+**Prainha**, a sheltered natural pool formed by rocks just outside town, is the best swimming spot — the basalt boulders create a calm basin protected from the open sea. **Praia da Lisboa**, a larger beach further along the coast, is reachable by boat or on foot along a narrow cliffside path.
 
-The place where most people go for swimming is called **Prainha**. It's some sort of lagune, and if you climb over some small rocks, you get to this bassin, almost completely shielded from the sea. It's very peaceful there, and the only entrance for the water is over some rocks. There's an annual party at **Prainha**, mostly in *february*.
-
-Another place to swim is **Praia Da Lisboa** (*Beach of Lisbon*). You can reach it by boat, or by foot. The latter way is the least recommended, because it's a long walk and you have to go over very small 'goat' roads.
-
-Recent developments in the village are: a playground for children, an internetcafé and they're building a hotel.
+Ponta do Sol is the starting point for some of Santo Antão's best hikes. The trail down the Ribeira Grande valley — through terraced sugarcane fields and small villages clinging to the mountainside — is one of the finest walks in the Cape Verde islands.

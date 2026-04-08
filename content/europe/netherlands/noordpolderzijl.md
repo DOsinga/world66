@@ -1,8 +1,10 @@
 ---
-title: "Noordpolderzijl"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 53.432069
 longitude: 6.582255
+title: Noordpolderzijl
+type: location
 ---
 
 Noordpolderzijl is the smallest sea harbour in the Netherlands — a place so small it barely registers on a map, and all the more remarkable for it. There is just a landing stage for a handful of boats, a pumping station, and a single building: an old cafe that doubles as the village itself.

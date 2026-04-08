@@ -1,16 +1,14 @@
 ---
-title: "Bornholm island"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 55.1431
+longitude: 14.9226
+title: Bornholm Island
 type: location
-latitude: 55.143122
-longitude: 14.92263
 ---
 
-Bornholm, part of Denmark and located to the east of it (and probably closer to Sweden), strikes the imagination of a lot of people. Already some 200 years ago, several painters came over to the island either to find their inspiration or to depict the beautiful rural scenery of the island, resulting in a permanent stay for a lot of them. The Bornholm School is still renowned for its still live. 
+Bornholm is a Danish island in the Baltic Sea, sitting closer to Sweden and Poland than to the Danish mainland. It has a distinctive character that sets it apart from anywhere else in Denmark: a rugged granite coast in the north, rolling farmland and sandy beaches in the south, round medieval churches, smokehouse chimneys, and a long tradition of ceramics and artistic craftsmanship.
 
+The island has drawn painters since the 19th century — the Bornholm School of painters is still well regarded in Scandinavia — and it continues to attract artists and craftspeople. The town of Gudhjem on the north coast is the most picturesque, with coloured timber houses stacked on the hillside above the harbour. The medieval round churches, built around the 12th century and found in four locations across the island, are unique to Bornholm.
 
-
-These days, a lot of visitors come over to Bornholm to enjoy the beaches, to bike around the island (some 100 likomteres) and to catch some fresh breath again in one of the many fields or forests or to wander around in one of the many picturesque villages. 
-
-There are several interesting museums on the islands, such as Bornholms Museum with a collection on the cultural history of the islands and the ceramics museum. For botanical lovers, a visit to Erichsens GÃ¥rd is a must. This is both a building and a garden dating from the beginning of the 19th century. If you want to have a lasting historical experience, go to Gudhjem where you can pay a visit to the Bornholms Middelaldercenter, 15 acres of 'authentic Medieval life'. 
-
-There are plenty of ferry connections to the mainland of both Sweden en Denmark.
+Cycling is the best way to explore — a circuit of the island is about 100 kilometres and takes most cyclists two to three days. The smoked herring (röget sild) at the traditional smokehouses around Allinge and Gudhjem is not to be missed. Ferries serve the island from Copenhagen and Malmö.

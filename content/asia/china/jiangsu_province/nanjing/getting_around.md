@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Nanjing"
+title: "Getting Around"
 type: section
 ---
 

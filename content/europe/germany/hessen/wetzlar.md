@@ -1,16 +1,14 @@
 ---
-title: "Wetzlar"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 50.5706
+longitude: 8.5312
+title: Wetzlar
 type: location
-latitude: 50.570561
-longitude: 8.531245
 ---
 
-Wetzlar, in central Hesse, features an amazingly well-preserved and restored Old Town with historic plazas, a 13th-century cathedral and scores of half-timbered houses. The city was temporary home to Goethe in 1772, and his time here inspired *The Sorrows of Young Werther*.
+Wetzlar, in central Hesse, is a city with a remarkably well-preserved Altstadt — an ensemble of half-timbered houses, Baroque facades, and cobbled squares that looks much as it did in the late 18th century. It was here in 1772 that the young Goethe worked as a legal apprentice and fell unhappily in love, an experience that directly inspired *The Sorrows of Young Werther*.
 
-The tightly woven ensemble of buildings in the Altstadt spans Romanesque to Baroque, preserved and extensively restored to look much as it did in the late 18th century. The great squares of Buttermarkt, Fischmarkt, Eisenmarkt and Kornmarkt give the old centre its character, each named after the trades that once filled them.
+The old centre is compact enough to explore on foot. The great squares of Buttermarkt, Fischmarkt, Eisenmarkt and Kornmarkt give the Altstadt its character, each named after the trades that once filled them. The Dom dominates the skyline — construction began in 1230 and is famously still unfinished, which gives it an engaging mix of Romanesque, Gothic, and later styles. The interior is harmonious despite this, with 14th-century frescoes and an unusual Pieta from 1380.
 
-The Dom is one of Wetzlar's landmark buildings. Construction began in 1230 and is famously still not finished. It incorporates so many architectural styles that it reads like a stone album of German ecclesiastical architecture, yet the interior is remarkably harmonious, with 14th-century frescoes and an unusual Pieta from 1380.
-
-There are many noteworthy buildings to visit if time permits, including the Lottehaus, Jerusalemhaus, and the Reichskammergerichtsmuseum. Otherwise, just strolling casually through these old streets, looking at the shops and stopping for dinner at one of the restaurants is a fine way to spend an afternoon. At night there are many pubs open, some of them offering live music.
-
-If you want to explore in more depth, spend several days. There is a tourist information booth at Domplatz 8 with detailed maps and recommended tours. Park your car at the Lahninsel, where parking is free, for a good starting point into the historic centre with views of the Lahn river and the 13th-century Alte Lahnbrücke.
+Beyond the cathedral, the Lottehaus and the Jerusalemhaus are closely tied to the Goethe story, while the Reichskammergerichtsmuseum tells the history of the imperial court that sat here from 1689 to 1806. A good starting point is the free parking at the Lahninsel, which puts you near the 13th-century Alte Lahnbrücke with views of the Lahn. The tourist information office at Domplatz 8 has detailed maps and walking tour suggestions. An afternoon is enough to see the highlights; a full day lets you go deeper.

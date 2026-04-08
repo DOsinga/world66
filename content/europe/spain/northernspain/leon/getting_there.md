@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-Leon is connected to a number of other Spanish cities by both train and bus and with others by bus only. Specifically it is connected to Madrid by both, as it is with San Sebastian and Vigo.
+**By train:** León has direct train connections to Madrid (around 2 hours on the fast Alvia service), Oviedo, Gijón, and other northern cities. The station is a 15-minute walk west of the old quarter across the river.
 
-It is connected with Salamanca by bus via Zamora.
+**By bus:** The bus station is near the train station. Regular services run to Salamanca (via Zamora), Valladolid, Burgos, and smaller towns in the province.
+
+**By road:** León sits on the A-66 motorway (the Ruta de la Plata) and the A-231, with easy access from Madrid, Oviedo, and the northwest.

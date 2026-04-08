@@ -1,18 +1,24 @@
 ---
-title: "Grenada"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 12.1165
+longitude: -61.679
+title: Grenada
 type: location
 ---
 
-Just south of [Saint Vincent and the Grenadines](/northamerica/saintvincentandthegrenadines), Grenada's main claim to fame is the American intervention in the early 1980s. Those days of turmoil are far behind us now and we can start to appreciate the island for what it is: one of the greatest holiday spots on the planet.
+Just south of [Saint Vincent and the Grenadines](/northamerica/thecaribbean/saintvincentandthegrenadines), Grenada's main claim to fame is the American intervention in the early 1980s. Those days of turmoil are far behind it now, and the island has settled into being one of the Caribbean's most appealing destinations — lush, unhurried, and genuinely friendly.
 
- Apart from all your lazy days bumming on the beach and or snorkeling, a visit to the island should include a tour to the [Grand etang forest reserve](/northamerica/grenada/grandetangforestreserve) and the crater lake, the rum distillery, Caribs leap, Concord Falls and a spice factory. It is possible to see of all of the above in just one day starting from [St. Georges](/northamerica/grenada/stgeorges), but you might as well take your time; that's what the locals do too.
+Grenada calls itself the Spice Island for good reason. Nutmeg, cinnamon, cloves, and cocoa grow across the mountainous interior, and the scent of spices hangs in the air around the plantation villages. A visit to a spice factory or the Belmont Estate cocoa plantation is worth the trip into the hills. The Grand Etang Forest Reserve, set around a crater lake in the cloud forest at the centre of the island, is the best place for hiking and wildlife.
 
- Excursions to [Carriacou](/northamerica/grenada/carriacou) and Sandy island are worth the extra effort. Petite Martinique offers the possibility to hike to the top of the volcano and get a great view over the islands. Calivigny island, [Petit martinique](/northamerica/grenada/petitmartinique) and Clover island are also popular excursions.
+The capital, [St. George's](/northamerica/thecaribbean/grenada/stgeorges), is one of the prettiest harbour towns in the Caribbean, built on hills around a horseshoe-shaped bay. Beyond the capital, the coast offers good beaches (Grand Anse is the most famous), excellent diving and snorkelling, and the world's first underwater sculpture park.
 
-## Destinations in Grenada
+Excursions to [Carriacou](/northamerica/thecaribbean/grenada/carriacou) and its smaller neighbour [Petite Martinique](/northamerica/thecaribbean/grenada/petitmartinique) are well worth the ferry ride. Carriacou is quieter still, with excellent sailing waters and the annual Big Drum Festival, a celebration rooted in West African tradition.
 
-[Carriacou](/northamerica/grenada/carriacou)
-[Grenville](/northamerica/grenada/grenville)
-[St. Georges](/northamerica/grenada/stgeorges)
-[Petit martinique](/northamerica/grenada/petitmartinique)
-[Grand etang forest reserve](/northamerica/grenada/grandetangforestreserve)
+## Destinations
+
+- [St. George's](/northamerica/thecaribbean/grenada/stgeorges)
+- [Carriacou](/northamerica/thecaribbean/grenada/carriacou)
+- [Petite Martinique](/northamerica/thecaribbean/grenada/petitmartinique)
+- [Grenville](/northamerica/thecaribbean/grenada/grenville)
+- [Grand Etang Forest Reserve](/northamerica/thecaribbean/grenada/grandetangforestreserve)

@@ -1,13 +1,12 @@
 ---
-title: "Prefecture of Serres"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 41.0911
+longitude: 23.5498
+title: Prefecture of Serres
 type: location
 ---
 
-Travel Guide
+The prefecture of Serres occupies the eastern part of Greek Macedonia, stretching from the gulf of Strymon to the Bulgarian border. It is a landscape of broad plains surrounded by mountains — Kerkini, Vertisko, Menikio, Pangaio — with the river Strymon running through from Bulgaria to the sea.
 
-The prefecture of Serres is one of the 13 prefectures of the region of Macedonia, the greatest and most prosperous region of Greece. It occupies the eastern part of Macedonia and it stretches from the gulf of Strymon to the Greek Bulgarian frontiers. From the East it has common boundaries with the prefectures of Drama and Kavala and from the West with the prefectures of Thessaloniki and Kilkis. The prefecture of Serres has many plains surrounded by the mountains Kerkini, Vertisko, Kerdilia, Orvilo, Menikio, and Pagaio. The river Strimon that runs through it originates from Bulgaria and leads out in the gulf of Strimon.
-Administratively the prefecture is divided into 4 provinces.
-a. The province of Serres with the city of Serres as its capital.
-b. The province of Visaltia with the city of Nigrita as its capital.
-c. The province of Sintiki with the city of Sidirokastro as its capital.
-d. The province of Fillida with the city of Nea Zichni as its capital.
+The main draw for visitors is the natural environment. Lake Kerkini is one of Greece's most important wetlands, home to thousands of water birds, herds of water buffalo, and vast carpets of water lilies. The forest of Lailia, 25 kilometres from [Serres](/europe/greece/prefecture_of_serr/serres), shelters brown bears and rare birds in a landscape of tall trees, deep ravines, and granite cliffs. In the south, the ravine of Aggitis has extraordinary rock formations and forest. The capital, Serres, is a historic city with Byzantine and Ottoman heritage, and the Anastenaria fire-walking ritual at the village of Agia Eleni each May is one of Greece's most remarkable folk traditions.

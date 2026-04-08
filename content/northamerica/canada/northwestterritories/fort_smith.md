@@ -1,22 +1,14 @@
 ---
-title: "Fort Smith"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 60.0059
+longitude: -111.8903
+title: Fort Smith
 type: location
-latitude: 60.005852
-longitude: -111.890259
 ---
 
-Travel Guide
+Fort Smith sits at the northern edge of Alberta on the banks of the Slave River, just inside the Northwest Territories — and it is the administrative headquarters of [Wood Buffalo National Park](/northamerica/canada/northwestterritories/woodbuffalo), Canada's largest national park and a UNESCO World Heritage Site. If you are heading into that vast wilderness of boreal forest, salt plains, and bison meadows, this is where you start.
 
-60°00'N, 111°58' W
+The town is small — around 2,500 people — but punches well above its weight for anyone interested in northern wildlife. Wood Buffalo is home to the world's largest free-roaming bison herd, whooping cranes nesting in the wild, and the Peace-Athabasca Delta, one of the world's great freshwater deltas. The park headquarters here can set you up with maps, guided programs, and everything you need before you head in.
 
-Fort Smith is where one finds the headquarters of Wood Buffalo National Park, Canada's largest and oldest National Park.
-
-There are four locations in town where you can get internet access for free.
-
-1) The Mary Kaeser Public Library right next to the town hall on Fort Smith's main drag, McDougal Street. It is open afternoons and evenings.
-
-2) The Fort Smith Recreation Centre which is easy to find because it is also the tourism information centre and there are those "?" signs point your way to it along the main streets. It is open 7 days a week and evenings
-
-3) Aurora College's library... again easy to find because there are signs around town showing you how to find it. 8:30 am to 9 pm every day except Sindays from Noon to 9pm.
-
-4) Uncle Gabe's Frienship Centre also had free internet access available, but is a little more difficuld to find.... ask anyone how to get there... This site is open most weekday evenings.
+The Slave River runs right through town, and the rapids on its banks are a draw in themselves. The Mountain Portage Rapids and the Rapids of the Drowned are considered among the finest whitewater in northern Canada, drawing kayakers who know what they are looking at. In summer, white pelicans congregate along the river in numbers that feel impossible this far north.

@@ -1,8 +1,10 @@
 ---
-title: "Aachen"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 50.776351
 longitude: 6.083862
+title: Aachen
+type: location
 ---
 
 Aachen, a small city in the north western part of Germany, is located at a short distance from both the Belgian and Dutch borders. Around the late eighth century the city became very important as the capital of the empire of Charlemagne. He made this choice partly for strategic reasons but also because of the presence of hot springs – exercising in these waters is said to be one of the emperor’s favourite pastimes. In the center of town you can find the Aachener Dom, a beautiful palace and cathedral, built for Charlemagne. Thirty Holy Roman emperors were crowned there between 936 and 1531.

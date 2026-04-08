@@ -1,14 +1,16 @@
 ---
-title: "Prachuap Khiri Khan"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 12.043267
 longitude: 99.748723
+title: Prachuap Khiri Khan
+type: location
 ---
 
-Travel Guide
+Prachuap Khiri Khan is a quiet coastal province on the Gulf of Thailand, squeezed between limestone mountains and the sea at the country's narrowest point. The provincial capital of the same name is a low-key Thai town with a stunning bay, a hilltop temple with panoramic views, and none of the tourist crowds you will find further north.
 
-Prachuap Khiri Khan is a province on the coast of the Gulf of Thailand. The province also contains the town of Prachuap Khiri Khan. Popular destinations within the province are already listed, [Hua Hin](/asia/thailand/huahin) and [Pranburi](/asia/thailand/pranburi), and [Bang Saphan](/asia/thailand/bang_saphan) and also [Koh Talu Island](/asia/thailand/koh_talu_island). Just to the north of the province is [Cha Am](/asia/thailand/cha_am), just north of Hua Hin.
+The province stretches along what Thais call the Sunrise Coast. Most visitors head straight to [Hua Hin](/asia/thailand/huahin) or [Pranburi](/asia/thailand/pranburi), but the capital itself rewards a stop — especially if you are beach-hopping southward. The bay at Ao Manao, inside a military base, is one of the prettiest in the region, backed by dramatic karst peaks. Khao Chong Krajok, the "Mirror Mountain" temple in town, offers views over the bay and the fishing boats below.
 
-The town of Prachuap Khiri Khan is about 300 km south of Bangkok by modern highway. It can be reached by express bus services from [Bangkok](/asia/thailand/bangkok) and also by regular and express trains the the Prachuap Khiri Khan area.
+Further south, [Bang Saphan](/asia/thailand/bang_saphan) and [Koh Talu Island](/asia/thailand/koh_talu_island) offer quieter beaches. The next major town down the coast is [Chumphon](/asia/thailand/chumphon), the jumping-off point for boats to Koh Tao, Koh Phangan, and Koh Samui. Just north of the province, [Cha Am](/asia/thailand/cha_am) sits above Hua Hin.
 
-The town is famous for it's amazing Bay and also the hilltop temple that overlooks the bay. prachuap Khiri Khan offers beautiful scenery and is popular as a stoping point when traveling along the Sunrise Coast of Thailand. Accommodation in the town is limited but it makes for a good off the beaten track place to visit along the coast if you are beach hopping down the Sunrise Coast of the Gulf of Thailand. The next main town south is [Chumphon](/asia/thailand/chumphon) from where boats go to Koh Tao, Koh Phangan and Koh Samui.
+Accommodation in Prachuap Khiri Khan town is limited compared to Hua Hin, which is part of the charm — this is an off-the-beaten-track stop where you eat at the night market alongside locals rather than tourists.

@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Caye caulker is a 45 min water taxi ride from Belize City. The water taxis leave regularly from the water taxi terminal near Downtown in Belize City.
-
-We currently have no Getting There listed in Caye caulker.
-
-If you do know any Getting There in Caye caulker, please [Add].
+Water taxis run regularly from the Downtown terminal in [Belize City](/northamerica/belize/belizecity) and take about 45 minutes (BZ$30-40 one way). From Caye Caulker you can continue to [Ambergris Caye](/northamerica/belize/ambergriscaye) in another 30 minutes. Maya Island Air and Tropic Air also fly small planes from Belize City's municipal airport.

@@ -1,13 +1,12 @@
 ---
-title: "Tubarão"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -28.471488
 longitude: -49.014132
+title: Tubarão
+type: location
 ---
 
-Characteristics Between the mountain range and the sea, Tubarão enchants for its beauties. Endowed with excellent urban infrastructure, its tourist potential is concentrated in thermal waters, canalized for comfortable hoteleiros complexes. Date of foundation - 27 of May of 1836. Festive date - 27 of May (anniversary of the city) and 15 of September (Day of Ours Lady of the Mercy, padroeira of the city). Main economic activities - Tubarão is distinguished in the cattle one and agriculture. It is as the commercial center of the south of the State, mainly in the ceramics area. Prominence also for the tourism, centered in its hidrominerais ranches. Population - 90,000 inhabitants. Settling - Italian, German and açoriana. Main etnias - Italian, German and açoriana. Localization - In the south of the State, 66km of Criciúma and 133km of Florianópolis. Area - 313km2. Climate - Subtropical, with average temperature of 23ºC. Altitude - 09m above of the level of the sea. Next cities - Mafra, Gravatal, Thirteen of May, Great Jaguaruna, Rocks, Lagoon, Capivari de Baixo, Are Ludgero, Orleans.
+Tubarão sits between the mountains and the sea in southern Santa Catarina, about 130 kilometres south of Florianópolis. The city of around 90,000 people is a regional commercial centre with a strong Italian, German, and Azorean heritage. Its main draw for visitors is the thermal waters — hot springs channelled into comfortable spa complexes in the surrounding area, particularly in nearby Gravatal.
 
-Tubarão tourism has an excellent urban infrastructure and its tourist potential is concentrated in thermal waters, canalized for comfortable hoteleiros complexes. Polar region of integration of the region, offers to weekly tourist strolls in theMaria-Fumaça locomotives for the railroad Thereza Christina, binding the cities of Imbituba, Lagoon, Criciúma and Urussanga. The passage binds these cities to beaches, to the ascent of the Mountain range of the River of the Track, to historical monuments and the traditions of the etnias that had helped to populate the region. It is kept by the Federal Railroad Net. The railroad, situated between the mountain range and the sea, to the edges of the river Tubarão, has as one of its attractive innumerable bridges. It knows the Square Owner Thereza Christina, inaugurated in 1884, for occasion of the Centenarian of the Railroad of the same name, or makes a stroll of barge for the river Tubarão, route to the Lagoon. The passage, of 20km, reproduces the old script of the colonizadores.
-
-**Contributors**
-December 12, 2005
+The Ferrovia Tereza Cristina, a heritage railway dating from 1884, runs tourist excursions on Maria Fumaça (steam locomotive) trains connecting Tubarão to the coastal towns of Imbituba and Laguna and inland to the Serra do Rio do Rastro. The route passes through beautiful scenery, crossing bridges over the Tubarão River, and links to beaches, historical monuments, and the cultural traditions of the region's immigrant communities.

@@ -1,14 +1,16 @@
 ---
-title: "Siljan area"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 61.08
+longitude: 14.8
+title: Siljan area
 type: location
 ---
 
-Siljan itself is a lake but it has given its name to the central parts of the province Dalarna in central Sweden, perhaps the most classical of all Swedish tourist areas. The lake is part of a giant crater caused by a meteorite, 360 mill. years ago. The beautiful landscape has kept much of the traditional Swedish features and the traditions of the inhabitants have survived here more than in most other parts of the country. Rural houses are to a very large extent kept in the traditional style, built of logs and, if at all painted, always with red colour from the copper mine in Falun. Many wooden houses are several hundred years old, in many cases with traditional wall paintings indoors.
-The Wasa ski race has become world famous. It ends at the village Mora at Siljan where many thousands of ski runners end up after the about 90 km long race each year on the first Sunday in March. Works of the well-known artist Anders Zorn can be seen in the Zorn Museum nearby.
-The painted horses carved of wood have become a famous tourist souvenir, mainly made at Nusnäs. Another tradition is kept at the village Våmhus where decorations of various kinds are made from human hair. Many other kinds of handicraft can also be seen for sale in many villages.
-There are beautiful panoramas over the lake at many places, and further away from it there are vast forest areas with elks and bears, maybe even some wolfs. One such area, which has been developed for tourists, is at Grönklitt, beyond Orsa.
-Particularly in summer, there are music concerts at many places, in churches and in other suitable locations, but also at Dalhalla (near Rättvik), an old lime quarry, now turned into an opera scene with fantastic acoustics.
-And don’t forget the “Classic Car Week” every summer at Rättvik. Tourist bureaus are found in all major villages.
+Lake Siljan has given its name to the heart of Dalarna, the province in central Sweden that Swedes themselves regard as the most classically Swedish. The lake sits inside a vast impact crater formed by a meteorite some 360 million years ago — the landscape gentle and ancient-feeling. The villages around it have preserved traditional Swedish rural culture more stubbornly than almost anywhere else in the country. Farmhouses are built of logs and painted in the deep red oxide pigment from the copper mine at Falun, and many are several hundred years old, some with painted interiors that have never been updated.
 
-**Contributors**
-May 20, 2005
+The crafts here are part of everyday life rather than museum exhibits. The Dalecarlian horse — the carved, painted wooden horse that became Sweden's unofficial folk symbol — is still made by hand at Nusnäs. The village of Våmhus is known for a different and stranger tradition: decorations woven from human hair. Across the region, handicraft studios and market stalls are easy to find.
+
+Every first Sunday in March, the Vasaloppet ski race ends at Mora on Siljan's western shore. Around 15,000 skiers complete the roughly 90-kilometre course from Sälen, making it the world's largest cross-country ski race. The summer season brings concerts in churches and village squares throughout the area, and the open-air opera venue at Dalhalla — a former limestone quarry near Rättvik with extraordinary natural acoustics — draws large audiences from across Sweden. Car enthusiasts will know the Classic Car Week held at Rättvik each summer.
+
+Beyond the lake, forests stretch out in every direction, with elk, bear, and occasional wolves. The developed nature area at Grönklitt, beyond Orsa, is worth a detour. Tourist offices in Mora, Rättvik, Leksand, and Orsa can help with routes and accommodation throughout the area.

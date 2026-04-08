@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Malmo is a convenient stop on your way to or from [Copenhagen](/europe/denmark/copenhagen). By train the crossing takes only 35 minutes and costs 85 SEK. It is also possible to drive a single journey costs 280 SEK but combination tickets are available to make it cheaper.
+Malmo is exceptionally well connected for a city its size. The Oresund Bridge links it directly to [Copenhagen](/europe/denmark/copenhagen) by both road and rail, with trains running every 20 minutes and taking about 35 minutes. Copenhagen Airport (Kastrup) is the nearest major airport, just one stop across the bridge. From there, trains run directly to Malmo Central Station.
 
-Trains connect Malmo to [Stockholm](/europe/sweden/stockholm), [Gothenburg](/europe/sweden/gothenburg) and [Oslo](/europe/norway/oslo) as well as most of Sweden. Regional trains and buses are cheap and easy, day or month tickets can be purchased, Skanetrafiken is responsible for regional transportations.
+Domestic trains connect Malmo to [Stockholm](/europe/sweden/stockholm) in around four and a half hours and to [Gothenburg](/europe/sweden/gothenburg) in about three. Regional trains and buses operated by Skanetrafiken cover the rest of the Skane region cheaply and efficiently. Drivers arriving via the Oresund Bridge pay a toll, but the E6 motorway runs straight through the city connecting it to the rest of Sweden.

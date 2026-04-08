@@ -3,12 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
-
-**Patisserie Bigot**
-
-Best tarte tatin in town. Located between the castle and the clock tower, both of which can be seen from the terrace.
-
-address: Place Michel Debre
-
-tel: 02 47 57 04 46
+Amboise has a decent spread of cafes and restaurants clustered near the chateau and along the main street. The Patisserie Bigot on Place Michel Debré is a local institution — the tarte tatin here is worth making room for.

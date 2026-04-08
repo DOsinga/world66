@@ -1,6 +1,8 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-About 75% of all travelers will come to Chinguetti form Atar. The other option is to come here from Ouadane. It is actually a nice plan to visit the three twons one after the other, going Atar-Chinguetti-Ouadane-Atar. The one disadvantage is that the route Ouadane Chinguetti is not very well traveled. Best to have your own transport (4WD) and maybe even a guide.
+Most visitors reach Chinguetti from [Atar](/africa/mauritania/atar), a straightforward journey of about 100 km across piste (unpaved desert track). The nicest plan is to visit Atar, Chinguetti, and Ouadane in a loop — though the direct route between Ouadane and Chinguetti is lightly traveled and really requires your own 4WD, ideally with a guide who knows the piste.
+
+Reaching Atar itself is possible by weekly Mauritanian Airlines flights from Nouakchott, or by bush taxi from the capital (around 10 hours). From Atar to Chinguetti, shared transport departs when full; private hire is faster and more reliable. There is no public transport on the Chinguetti–Ouadane leg.

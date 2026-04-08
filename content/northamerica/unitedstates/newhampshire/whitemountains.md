@@ -1,29 +1,16 @@
 ---
-title: "White Mountains"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.27
+longitude: -71.3
+title: White Mountains
 type: location
-latitude: 44.270000
-longitude: -71.300000
 ---
 
-Ever since Giovanni da Verrazano first saw Mt. Washington’s shining summit from his ship off New Hampshire’s coast, the White Mountains have proved an irresistible draw. Early on it took settlers with ambition and perseverance to tame the land, like Abel Crawford, who first built a home in what is now Bretton Woods.
+The White Mountains are the dominant geographical feature of New Hampshire and one of the most popular outdoor destinations in the northeastern United States. The range runs roughly 140 kilometres through the northern part of the state, encompassing the White Mountain National Forest and some of the most rugged terrain east of the Rockies.
 
+Mount Washington, at 1,917 metres (6,288 feet), is the highest peak in the northeastern US and famously holds the record for the highest wind speed ever recorded at a surface weather station. You can drive or take the cog railway to the summit, but the hiking trails — particularly Tuckerman Ravine — are the more rewarding approach.
 
- 
- Soon the wide range of lodgings, restaurants and other services catering to guests, combined with warm hospitality, ensured that the White Mountains would be one of the most popular year-round destinations in the East. Modern attractions run the gamut from theme parks designed with families in mind, to waterparks, scenic mountain rides, and historic sites. Also, the White Mountain National Forest is a haven for hikers, bikers and nature lovers of all kind.
+Beyond Washington, the range offers hundreds of kilometres of trails through dense forest, past waterfalls, and along exposed ridgelines. The Franconia Ridge traverse and the Presidential Range are among the finest day hikes in New England. In winter, several ski areas operate throughout the region, from family-friendly slopes to steeper mountains that challenge experienced skiers.
 
-
- 
- The dominant feature of the White Mountains is Mt. Washington. Rising 6,288 feet above sea level, Washington is the highest point above sea level east of the Mississippi. Washington isn't the only impressive mountain in the region, however. There are many ski areas to choose from, from gentle family mountains to ones that can challenge the most daring expert.
-
-
- 
- In the past two decades, tax-free shopping has become an increasingly important draw, thanks to the region’s many unique boutiques, name-brand outlets, antiques, crafts and other stores.
-
-
- 
-
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
-
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+The towns along the Kancamagus Highway and in the notches (Crawford Notch, Franconia Notch, Pinkham Notch) provide lodging, restaurants, and outfitters. Autumn foliage season, roughly late September through mid-October, draws enormous crowds — book well in advance.

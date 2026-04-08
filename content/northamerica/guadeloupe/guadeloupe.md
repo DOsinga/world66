@@ -1,15 +1,16 @@
 ---
-title: Guadeloupe
-type: location
-latitude: 16.265
-longitude: -61.551
-image: guadeloupe.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Fort_Napoléon_des_Saintes_2010-03-30.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Slaunger" title="User:Slaunger">Kim
-  Hansen</a>
 done:
   country_cleanup: 2026-03-29
+  location_cleanup: '2026-04-08'
+image: guadeloupe.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Slaunger" title="User:Slaunger">Kim
+  Hansen</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Fort_Napoléon_des_Saintes_2010-03-30.jpg
+latitude: 16.265
+longitude: -61.551
+title: Guadeloupe
+type: location
 ---
 
 Guadeloupe is a French overseas region in the eastern Caribbean, part of the Lesser Antilles archipelago. It sits between Antigua to the north and Dominica to the south, and because it is French territory, it uses the euro, operates under French law, and sends representatives to the French parliament. For visitors, this means good infrastructure, French food culture, and an easier entry process for EU citizens — alongside all the warmth and color of the Caribbean.

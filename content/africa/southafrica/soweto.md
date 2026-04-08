@@ -1,10 +1,12 @@
 ---
-title: "Soweto"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -26.222778
 longitude: 27.89
+title: Soweto
+type: location
 ---
 
-Locted some 16 kms from Johannesburg, Soweto is the name for a collective of townships that grew into a city. Originally intended for the temporary housing of mine workers, it became a ghetto for the black population of Jo’burg in 1923. The Urban Areas Act promised (besides the stigma) new houses and better facilities. However, the poor circumstances and the discriminatory laws by the government, resulted in a stream of people, accumulating in illegal squatter camps. It has always been the scene of South Africa’s turbulent history. Soweto is ‘famous’ for its severe violent riots that took place in 1976 when the government wanted to introduce Afrikaans as the official language at schools. The intended peaceful demonstrations were put down violently and over 600 people were killed. 
+Located about 16 kilometres from central Johannesburg, Soweto is a collective of townships that grew into a city of its own. Originally built for temporary housing of mine workers, it became a ghetto for Johannesburg’s black population from 1923 under the Urban Areas Act. The township has always been at the centre of South Africa’s turbulent history — most famously the 1976 uprising, when students protesting the imposition of Afrikaans as a language of instruction were met with police gunfire. Over 600 people were killed, and the events galvanised international opposition to apartheid.
 
-Nowadays, history still shows its face. Most sights in this thriving township are dedicated to the commemoration of either peaceful or violent political struggles. In the western part of Soweto, Orlando, you’ll find the former houses of two Nobel Prize winners, Nelson Mandela and Archbishop Desmond Tutu who staked their lives, together with many others, for human rights.
+Today Soweto is a thriving, sprawling city-within-a-city, and most of its sights relate to the struggle for freedom. In Orlando West you will find the former houses of two Nobel Peace Prize laureates on the same street: **Nelson Mandela’s house** (now a museum) and **Archbishop Desmond Tutu’s house**. The **Hector Pieterson Memorial** commemorates the 1976 uprising. **Regina Mundi Church**, the largest Catholic church in South Africa, served as a meeting place for anti-apartheid activists and still bears bullet holes in its ceiling.

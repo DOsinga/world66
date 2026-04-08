@@ -1,8 +1,10 @@
 ---
-title: "Murudeshwar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.094361
 longitude: 74.482261
+title: Murudeshwar
+type: location
 ---
 
 Murudeshwar sits on a small peninsula jutting into the Arabian Sea in Uttara Kannada district, dominated by what was once claimed to be the world's tallest Shiva statue — a 37-metre figure that glitters in the direct sun. The Murudeshwara Temple at its base is built in traditional style and draws pilgrims year-round.

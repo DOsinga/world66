@@ -3,6 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Renting a car is the best option since Bonaire has no public bus service. There are plenty of car rental agencies. Drivers licenses from the US Canada and Europe are valid but you must be 21. Drive on the right and look out for unlicensed donkeys and goats wandering on the road. Unmetered taxis with fixed rates are plentiful and provide a good alternative for getting around especially if you want a guided tour of the island. Bicycles can be rented in Kralendijk. Bonaire's Flamingo Airport is 5km (3mi) south of the capital; taxis are available for the short trip into town.
-
- If you want to get more information on Bonaire, visit their website at: www.infobonaire.com
+Bonaire has no public bus service, so a rental car is the practical choice if you want to explore the island independently. Rental agencies are well-represented in Kralendijk, and driver's licenses from the US, Canada, and Europe are accepted — though you must be at least 21. Drive on the right, and watch for donkeys and goats on the road, especially in the north. Taxis are unmetered but operate on fixed rates; the tourism board publishes the official tariff. Bicycles are available for rent in Kralendijk and work well for getting around town.

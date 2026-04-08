@@ -1,31 +1,18 @@
 ---
-title: "Baguio"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 16.4023
+longitude: 120.596
+title: Baguio
 type: location
-latitude: 16.411991
-longitude: 120.593372
 ---
 
-One of the cleanest and greenest cities in the country, Baguio is made for sightseeing. And for strolls and boat rides and gentle trots around the park. And for golf. Kennon Road, completed in 1905, opened Baguio to tourism. The zigzagging path previews the scenic highlights of the city. Along the 32-kilometer highway are the Bridal Veil and Colorado waterfalls.
+Baguio is the Philippines' escape from the heat. Perched at 1,500 meters in the Cordillera mountains of northern Luzon, this pine-scented hill station stays cool when the rest of the country swelters, earning it the nickname "Summer Capital." Filipinos have been coming here to breathe since the Americans built Kennon Road up the mountainside in 1905, and the city still draws crowds every dry season.
 
+The heart of Baguio is Burnham Park, a green expanse in the center of town with a man-made lagoon for boat rides, tree-lined promenades, and a plant market where you can lose an hour among orchids and ferns. Session Road, the main commercial strip, climbs steeply through the city center, lined with restaurants, cafes, and shops. On weekend nights the lower stretch closes to traffic and fills with street performers and food vendors.
 
- 
- Synonymous with Baguio is Burnham Park. Located in the heart of the city, the park's features include a man-made lagoon ideal for boat rides, a skating rink, an athletic field and stadium, basketball and tennis courts, a biking zone, tree-and-flower lined promenades, and a plant market.
+What sets Baguio apart from other Philippine cities is its cultural life. The BenCab Museum, founded by National Artist Benedicto Cabrera, sits on a hillside overlooking a lily pond and houses an impressive collection of modern Filipino art alongside indigenous Cordilleran pieces. Tam-awan Village recreates an authentic Cordillera settlement with tribal houses relocated from remote mountain communities, and doubles as an artists' colony. The city has a thriving arts scene, from the Ibaloi weaving traditions to the painters and sculptors who have clustered here for decades.
 
+Baguio Cathedral, with its twin pink spires, watches over the city from the top of Session Road. The Grotto of Our Lady of Lourdes rewards those who climb its 252 steps with views across Dominican Hill. Mines View Park offers a panorama of the old Benguet mining valleys and an obligatory souvenir market at its entrance. Wright Park is where children and cautious adults take guided horseback rides along a pine-shaded oval track, and the Mansion House, the presidential summer residence, sits behind ornate iron gates with a reflecting pool and manicured grounds.
 
- 
- A popular golfing destination, the city takes pride in its Baguio Country Club and Camp John Hay. What used to be the rest-and-recreation base of American military personnel, the Camp is being transformed into a world-class resort and is also Baguio's biggest pine tree conservation area. Its newly refurbished 18-hole golf course rivals that of the Country Club which has pretty garden-patched cottages surrounding its fairways.
-
-
- 
- Ornate iron gates open to the Mansion House, the official summer residence of Philippine presidents. It offers tourists with great photo opportunities with its rectangular reflecting pool along a tree-lined walkway. It also houses a museum of presidential memorabilia. Near the Mansion House is Wright Park where neophyte riders can trot around an oval track guided by trainers who lead horses with a hand-held leash. At the Mines View Park, tourists can have a panoramic view of the old mines of Benguet. At the park entrance is a flea market for souvenir items.
-
-
- Sitting on top of a hill in Upper Session Road is the twin-spire Baguio Cathedral, a city landmark. Another pilgrimage site is the Grotto of Our Lady of Lourdes which sits on top of Dominican Hill. Devotees prefer to climb the 252-step ascent than drive through a winding road to reach the shrine. Bell Church holds a religious service of mixed Buddhist, Taoist, Confucian and Christian dogmas but tourists come here to have their fortunes told.
-
-
- 
- Located on an elevated pine-forested ground is the Philippine Military Academy, the country's foremost military learning institution. Its Saturday morning Parade in Review by cadets in full regalia never fails to attract visitors. Also within campus is a Military Museum.
-
-
- 
- A cultural haven established by noted Baguio artist BenCab, Tam-awan Village recreates a typical ethnic village in the Cordilleras with authentic tribal homes uprooted from their original locations and re-set on similar terrain. There is also an art gallery-cum-coffee shop.
+The public market is worth a visit for strawberries, ube jam, peanut brittle, and woven goods from the Cordillera provinces. Baguio strawberries are a point of local pride, and La Trinidad, the neighboring municipality in Benguet, is where most of them are actually grown. The food scene leans toward comfort: steaming bowls of bulalo, fresh vegetables from the highland farms, and good coffee from Benguet and Mountain Province beans.

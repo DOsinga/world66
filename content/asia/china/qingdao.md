@@ -3,10 +3,12 @@ title: "Qingdao"
 type: location
 latitude: 36.066325
 longitude: 120.377766
+done:
+  location_cleanup: '2026-04-07'
 ---
 
-Located at the southwestern tip of the Shandong Peninsular, facing the Yellow Sea on the east and south, Qingdao is a beautiful coastal city with bright sea, blue-sky, cool sea breezes, cobbled streets, and there is much more waiting for you to explore…. Historically, Qingdao was once a sleepy fishing town but in 1897 Germany annexed Qingdao and the surrounding Jiazhou peninsula and introduced German style brewing. Its German legacy more or less intact, Qingdao takes pride in its Bavarian appearance-the Chinese call the town " China’s Switzerland ". In recent years, Qingdao became one of China's first "open door" cities, and it continues to produce the world-renowned Qingdao Beer. 
+Qingdao sits on the southwestern tip of the Shandong Peninsula facing the Yellow Sea, and it is one of China's most pleasant coastal cities. Once a German colonial concession, the city still has a distinctly European old quarter — red-roofed Bavarian-style buildings climbing the hillsides above the waterfront. The Germans also introduced brewing in 1903, and Tsingtao Beer remains the city's most famous export.
 
-Qingdao has plenty of diversions to offer, but the main thing to do here is stroll. So you may enjoy the indolent, flirtatious waterfront, the haunt of the well-heeled inhabitants, the crowds on the esplanade, beach bums reclining elegantly on the sands and skateboarders weaving down the hills, and the beaches and old German town as well.
+The main thing to do in Qingdao is stroll. The waterfront promenade, the old German streets, the beaches, and the parks all reward an unhurried pace. The Protestant Church and the Catholic Church of St. Emil are both fine examples of German colonial architecture. Little Qingdao, a small peninsula with a white lighthouse, is a pleasant walk. The Tsingtao Brewery runs tours and is worth visiting for the tasting room alone.
 
-I love this city really much!!!
+The seafood in Qingdao is excellent — the city's beer-and-seafood culture peaks during the annual Qingdao International Beer Festival in August.

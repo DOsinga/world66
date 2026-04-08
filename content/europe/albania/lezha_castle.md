@@ -1,6 +1,7 @@
 ---
 title: "Lezha Castle"
-type: location
+type: poi
+coordinates: [41.7833, 19.6436]
 ---
 
 Before you spend the afternoon on the beach in Shengjin, take the

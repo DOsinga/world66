@@ -1,15 +1,16 @@
 ---
-title: Qatar
-type: location
-latitude: 25.3548
-longitude: 51.1839
-image: qatar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Doha_Karwa_public_bus.jpg
-image_license: CC BY 2.0
-image_attribution: <a href="//www.flickr.com/people/47130629@N04" class="extiw" title="flickruser:47130629@N04">Khalid
-  Albaih</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: qatar.jpg
+image_attribution: <a href="//www.flickr.com/people/47130629@N04" class="extiw" title="flickruser:47130629@N04">Khalid
+  Albaih</a>
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Doha_Karwa_public_bus.jpg
+latitude: 25.3548
+longitude: 51.1839
+title: Qatar
+type: location
 ---
 
 *Asia > Qatar*

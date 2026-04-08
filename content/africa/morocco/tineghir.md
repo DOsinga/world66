@@ -1,5 +1,9 @@
 ---
-title: "Tineghir"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 31.5147
+longitude: -5.5328
+title: Tineghir
 type: location
 ---
 

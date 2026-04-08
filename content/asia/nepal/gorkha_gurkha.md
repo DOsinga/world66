@@ -1,9 +1,14 @@
 ---
-title: "Gorkha (Gurkha)"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 28.0
+longitude: 84.6333
+title: Gorkha
 type: location
 ---
 
-Travel Guide
+Gorkha is the town that gave the world the Gurkhas. Perched on a dramatic hillside in central Nepal, roughly halfway between Kathmandu and Pokhara, it is where the Shah dynasty built their fortress-palace in the 18th century and from where Prithvi Narayan Shah set out to unify Nepal's warring kingdoms. The courage of the hill fighters who served the Shah kings so impressed the British during the Anglo-Nepalese War of 1814–1816 that they began recruiting them into the British Army — a tradition that continues to this day. The name Gurkha comes directly from this town.
 
-Gorkha is a historical and picturesque district comprising Mt Manaslu (8,156 m ) the eight highest mountain in the world. Gorkha as a district covers an area of 3,610 sq km in the central Nepal with population of 2,88,134. This is from where the unification of present Nepal began in mid 18th century. Under the leadership of Gorkha king the brave people fought with British in 1814 – 1816. Impressed by courage and strength of hill people, British recruited Gorkhalies into British army and are keeping the tradition unlit the date.
-In the present, Gorkha has many tourist attractions. The main attraction is the Gorkha Bazaar, 24 km north of Anbu Khaireni on the Kathmandu – pokhara highway. The road snakes high up the Daraundi Khola (river) coming to the mountainside with magnificent view of Mt Manaslu. Atop Gorkha Bazaar at 1,500m stands the historical fortress temple and palace of Gorkha kings. This will make nice morning hike of 45 mints. The hill top offers the panoramic view of Annapurna, Manaslu and Ganesh Himal range. This side trip will provide more insights on Nepal than one are likely to get in Pokhara or Chitwan.
+Most travelers rush through on the Kathmandu–Pokhara highway without stopping, which is a mistake. Gorkha rewards a half-day or full day. The hilltop Gorkha Durbar — the fortress, temple complex and palace from which Prithvi Narayan Shah ruled — sits at 1,500 metres above the bazaar and offers a panoramic view of the Annapurna, Manaslu and Ganesh Himal ranges. On a clear morning the view stretches across an enormous sweep of Himalayan peaks. The hike up from the bazaar takes about 45 minutes and is straightforward.
+
+The town itself is honest and unhurried, a world away from the trekking-industry bustle of Pokhara. The surrounding district encompasses Mount Manaslu (8,163 m), the eighth-highest mountain in the world, and the Manaslu Circuit is increasingly popular with trekkers looking for a quieter alternative to the Annapurna Circuit.

@@ -1,8 +1,10 @@
 ---
-title: "Cold Lake"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 54.46046
 longitude: -110.192871
+title: Cold Lake
+type: location
 ---
 
 **Cold Lake** is a steadily growing city in northeastern Alberta, with a population constantly in flux. A significant portion of residents are members of the Canadian Armed Forces, drawn by the proximity of **4 Wing Cold Lake**, Canada's largest air base. Oil industry workers from the surrounding oilfields add to the transient character of the place.

@@ -1,8 +1,10 @@
 ---
-title: "Bankas"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 14.0786
 longitude: -3.5187
+title: Bankas
+type: location
 ---
 
 Bankas sits at the southern end of the Bandiagara Escarpment and is one of the better starting points for a trek into Dogon Country. The guides here tend to be friendlier and less pushy than in [Bandiagara](/africa/mali/dogoncountry/bandiagara). Market day is Monday.

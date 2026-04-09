@@ -1,5 +1,9 @@
 ---
-title: "Anton valley"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 8.6003
+longitude: -80.1264
+title: Anton Valley
 type: location
 ---
 

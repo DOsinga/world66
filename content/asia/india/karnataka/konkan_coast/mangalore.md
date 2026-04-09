@@ -1,14 +1,16 @@
 ---
-title: "Mangalore"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 12.86981
 longitude: 74.843008
+title: Mangalore
+type: location
 ---
 
-Travel Guide
+Mangalore (Mangaluru) is a port city on Karnataka's coast, sitting on the estuary where the Netravati and Gurpur rivers meet the Arabian Sea. The town has been a trading hub for centuries — Arab merchants came here for pepper and spices long before the Portuguese arrived — and the port remains central to the city's character.
 
-A Thriving Port on the estuary of the Nethravati and gurpur rivers is the capital of South Kanara. mangalore today presents a panorama of terracota roofed houses, whitewashed churches, temples and mosques nestling amid groves of coconut palms.
+The cityscape is a mix of terracotta-roofed houses, whitewashed churches, temples, and mosques, all nestled among coconut palms. The old Bunder area near the port has the most atmosphere. St. Aloysius Chapel, with its walls and ceiling entirely covered in frescoes, is worth seeking out.
 
-. The city is a mixture of the old world charm and modern sophistication. The town has the history of marine trade, and at present fully equipped port has helped the town to develop into a commercial and trading centre of the Southern part of the country. The New Mangalore Harbour with the iron ore projects, and iron pellet processing plant can be seen at New Harbour.
+Ullal Beach, 10 km south of the centre, is a long stretch of sand with views across the estuary. Mangalore is also the gateway to the Western Ghats — the hill stations of Coorg (Kodagu) and Chikmagalur are a few hours inland.
 
-Mangalore is well connected with the country by air, rail and road. For sight seeing and picnic one can go to the picturesque Ullal beach just 10 Kms from the heart of Mangalore city. 'Summer Sands' a beach resort with beach side restaurant and cottage in native styles attracts tourists
+The local cuisine is distinctive: Mangalorean fish curry, neer dosa (thin rice crepes), and kori rotti (chicken with crispy rice wafers) are regional specialties you will not find easily elsewhere. The city is well connected by air, rail, and road to Bangalore, Goa, and Mumbai.

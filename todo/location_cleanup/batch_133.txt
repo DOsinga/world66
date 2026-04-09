@@ -13,7 +13,6 @@ northamerica/unitedstates/illinois/sights_3
 northamerica/unitedstates/maine/kennebunkport
 northamerica/canada/ontario/kingston
 europe/sweden/kiruna
-africa/egypt/alexandria/taba_1
 northamerica/mexico/zacapu/prawda_dobrze
 northamerica/canada/newfoundland/capespear
 europe/poland/wieliczka

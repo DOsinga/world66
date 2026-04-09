@@ -1,8 +1,14 @@
 ---
-title: "The Qalas"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 41.9283
+longitude: 60.8122
+title: The Qalas
 type: location
 ---
 
-Some of the most interesting attractions in Uzbekistan are quite remote and very few tourists ever make their way there. Of course, I'm referring to the scattered "qalas" of western Uzbekistan. A "qala" is roughly a fortress built of mud that served as an ancient citadel to warring warlords of the Silk Road. There are literally hundreds of ruins littering the Kyzyl Kum desert and the Karakalpak Republic. The most accessible fortresses are located near the town of Buston, in southeastern Karakalpakistan, about an hour north of Urgench.
+Scattered across the Kyzyl Kum desert and the Karakalpak Republic in western Uzbekistan, the qalas are ancient mud-brick fortresses that once served as citadels for the warlords and rulers of the Silk Road. There are hundreds of ruins out here, and very few tourists ever make the journey — which is precisely the appeal.
 
- Toproq Qala shows detailed rooms and buildings that were once inhabited by semi-nomadic warriors some 1500 years ago. Ayaz Qala, although more remote, offers an excellent view of the barren desert and on a clear day, other fortresses. Locals have made it a popular picnic spot, but the steep sides are difficult to climb if you're not prepared. They were built of mud by hand and have withstood the desert climate for nearly two millennia. There are other qalas in the area, such as Guldursun and Kyzyl. Getting to them all in one day can be an exhausting but worthwhile experience.
+The most accessible qalas lie near the town of Buston in southeastern Karakalpakstan, about an hour north of Urgench. Toproq Qala is the best preserved, with detailed rooms and buildings still visible from a civilisation that thrived here some 1,500 years ago. Ayaz Qala, more remote but easier to spot from a distance, offers sweeping views across the barren desert — on a clear day you can pick out other fortresses on the horizon. Guldursun and Kyzyl Qala are also nearby and worth the detour if you have time.
+
+These structures were built entirely of mud by hand and have withstood nearly two millennia of desert climate. Getting to them all in a single day is exhausting but rewarding. You will need a car and ideally a local driver — public transport does not reach these sites.

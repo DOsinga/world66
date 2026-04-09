@@ -1,8 +1,10 @@
 ---
-title: "Albenga"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.04925
 longitude: 8.213124
+title: Albenga
+type: location
 ---
 
 Albenga is the most historically significant town on the Ligurian coast west of Genoa. It was founded by the Ingauni, a Ligurian tribe, and became the Roman municipium of Albingaunum in the 2nd century BC; the Roman street grid survives almost intact beneath the medieval buildings. The town's historic centre is a dense cluster of tower-houses, narrow lanes, and religious buildings that have changed little since the 13th century.

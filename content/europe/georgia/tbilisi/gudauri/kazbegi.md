@@ -1,8 +1,10 @@
 ---
-title: "Kazbegi"
-type: location
-latitude: 42.6580
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.658
 longitude: 44.6408
+title: Kazbegi
+type: location
 ---
 
 The Kazbegi region — centred on the village of **Stepantsminda** (still widely called Kazbegi) — sits at the foot of Mount Kazbek (5,033 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and a half hours from Tbilisi by car or marshrutka from Didube bus station.

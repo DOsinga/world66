@@ -1,15 +1,14 @@
 ---
-title: "Falun"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 60.607
+longitude: 15.6323
+title: Falun
 type: location
-latitude: 60.607007
-longitude: 15.632306
 ---
 
-Falun is the capital of the Swedish province Dalarna and the centre of an ancient mining area which has been declared a World Heritage Site by UNESCO. Coppermining has taken place here at least since the 13th century but probably from the 9 th century. From the 14th century it was organised as a kind company with shareholders, considered the oldest of its kind. It was once the biggest copper mine in the world. Mining continued up to the end of the 20th century. The only remaining activity today is the production of a copperholding paint from the waiste products of the coppermine. This paint has since long been used to paint most rural buildings in Sweden red.
+Falun is the capital of Dalarna, a Swedish province that prides itself on being the heartland of traditional Swedish culture. The city is best known for the Falun Copper Mine, a UNESCO World Heritage Site that has been worked since at least the 13th century — making it one of the oldest industrial sites in the world still open to visitors.
 
-The main activity today in the mining area is tourism. Actually it has been an internationally wellknown tourist attraction for more than 300 years. It is possible to reach 600 m below ground. Tourists cannot go that far down but are taken on long walks through the moist and cool tunnels. There are also buildings and various remnants above ground.
+At its peak in the 17th century, the mine supplied two-thirds of Europe's copper and made Sweden a major European power. Tours now take you deep into the cool, orange-tinged tunnels, past extraordinary rock formations stained by the mineral-rich water. The open-pit crater created by a catastrophic collapse in 1687 is still visible above ground.
 
-The town Falun was created in relation to the mining. The present masterplan for the town is from 1646 and many of the 17th century wooden buildings are still preserved, although other parts of the town were destroyed by fire in 1761. After the fire new buildings were erected with a peculiar technology using slag from the mining. Several such buildings are also preserved.
-
-**Contributors**
-May 10, 2005
+One side-effect of all that copper extraction: the distinctive dark red paint seen on wooden houses and barns across Sweden — "Falun red" — is made from the mine's waste slag, and has been used since at least the 16th century. The town itself has a well-preserved 17th-century street plan and several buildings constructed using slag bricks after a fire destroyed much of it in 1761.

@@ -1,20 +1,14 @@
 ---
-title: "Fredericia"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 55.5653
+longitude: 9.7562
+title: Fredericia
 type: location
-latitude: 55.565268
-longitude: 9.756217
 ---
 
-Travel Guide
+Fredericia is a fortified town on the eastern coast of the Jutland peninsula in Denmark, built from scratch in the 17th century as a planned military stronghold. King Frederick III founded it in 1650 — hence the name — and laid it out on a strict grid plan enclosed by star-shaped ramparts. Those ramparts are still intact and intact, forming a green ring around the old town that residents use for walking and cycling.
 
-Fredericia is a town located in the eastern part of the Jutland peninsula in Denmark.
+The town has a significance in Danish military history beyond its architecture: in 1849, during the First Schleswig War, a Danish sortie from the town's gates defeated a vastly larger Schleswig-Holstein force in what became known as the Battle of Fredericia. The Soldier statue on the main square commemorates the fallen.
 
-Founded as a free city in 1650 by King Frederick III, after whom it was named. The town has a large port and is one of Denmark's largest traffic hubs, due to its central location.
-
-After the Thiry Years War, King Christian IV realized the necessity of building a strong fortress in Jutland, and decided that this project could be combined with his plans for building a large town in Jutland.
-
-A fortified encampment was built on a point of land called Lyngs Odde, near the current location of Fredericia, with a rampart stretching to either side of the point, thus protecting the encampment from attacks. Frederick III completed the plans for the fortification, also adding a flank fortification on nearby Bers Odde as suggested by Danish Imperial Marshal Anders Bille.
-
-On December 15, 1650 the King signed the document giving the town its first privileges, and work on the new fortifications could begin. In 1651, the town was named Frederiksodde (Frederick's Point) after the king, and on April 22, 1664, it got its newly Latinized name of Fredericia.
-
-The ramparts are very well preserved and function as a recreational area for the 40,000+ inhabitants - and as a major attraction for visitors. From them one can easily see the strict grid-like layout of the streets that formed the original town. .
+Fredericia is also one of Denmark's main rail and road junctions — the point where traffic between Copenhagen and the rest of the country crosses to and from the Jutland peninsula. That means trains stop here, and the rampart park makes it worth a brief stopover even if you're just passing through.

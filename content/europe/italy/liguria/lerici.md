@@ -1,16 +1,14 @@
 ---
-title: "Lerici"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.073607
 longitude: 9.909914
+title: Lerici
+type: location
 ---
 
-Near the Eastern end of the Italian Riviera lies the Gulf of La Spezia, or as it is more romantically called, the Bay of Poets, because Byron, Shelley and Keats played upon its shores, around the old fishing villages of San Terenzo, Fiascherino, and Lerici.
+Lerici sits at the eastern end of the Gulf of La Spezia — the "Bay of Poets," so named because Byron, Shelley, and Keats all spent time along these shores. The town clusters around a medieval castle on a rocky promontory, with pastel houses tumbling down to a small harbour.
 
+Now a popular resort, Lerici makes a good base for exploring this stretch of the Ligurian coast. Boats run across the gulf to Portovenere and the [Cinque Terre](/europe/italy/liguria/cinqueterre), and the walking path between the five villages offers some of the most spectacular coastal views in Italy — terraced vineyards dropping to the sea, with the mountains rising behind.
 
- 
- Lerici, now a picturesque resort, is an ideal location for exploring the pleasures of the Italian Riviera, which runs from the French border to the mouth of the Magra River.
-
-
- 
- From Lerici, you can take boats across the gulf to the Cinque Terre, five villages strung along the coast north of Portovenere. A leisurely walk between two or more of the villages along the footpath which connects them will provide some absolutely breathtaking views of the sea and the surrounding mountains. The cliffs are terraced and planted with vineyards and vegetable gardens. It is easy to imagine what this area must have looked like two centuries ago, for the houses and terraces have not changed.
+The neighbouring villages of San Terenzo and Fiascherino, both within easy walking distance, have quieter beaches and a more local feel.

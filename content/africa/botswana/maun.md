@@ -1,16 +1,14 @@
 ---
-title: "Maun"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -19.9861
+longitude: 23.4224
+title: Maun
 type: location
-latitude: -19.986095
-longitude: 23.422435
 ---
 
-Maun is Botswana's tourist capital. It is one of the busiest centres in the country and a real travel hub with daily flights from [Gaborone](/africa/botswana/gaborone), [Victoria Falls](/africa/zimbabwe/victoriafalls), [South Africa](/africa/southafrica) and [Namibia](/africa/namibia) arriving at the small airport. 
+Maun is Botswana's tourist capital and the gateway to the [Okavango Delta](/africa/botswana/okavangodelta) — the main attraction in the region. A small airport handles daily flights from [Gaborone](/africa/botswana/gaborone), [Victoria Falls](/africa/zimbabwe/victoriafalls), [South Africa](/africa/southafrica), and [Namibia](/africa/namibia), making it the starting point for most safari itineraries in northern Botswana. Within a few hours of travel from Maun, you can reach the Okavango, Moremi Game Reserve, and the Chobe–Zambezi area.
 
+Over the past few years Maun has developed rapidly from a rural frontier town, spreading along the wide Thamalakane River. It now has good shopping centres, hotels, lodges, and 4WD hire. But it still retains a rural atmosphere — local tribesmen bring their cattle here to sell, and you might see antelope grazing the riverbanks. There is a small community museum worth a quick visit.
 
- Maun is a perfect gateway into the [Okavango delta](/africa/botswana/okavangodelta) - the main attraction in the region. Within few hours of travel from Maun, travellers can find themselves in the Okavango, Moremi Game Reserve and the Chobe-Zambezi Area. The village has a small community museum.
-
-
- The best time to go is during the winter months from May to October when there is little or no rainfall and the days are warm and cloudless. Nights can be cold though so take a jacket. November to April can be very hot, with most of the rainfall between December and February.
-
-Over the last few years Maun has developed rapidly from a rural frontier town and has spread along the wide Thamalakane River. It now boasts good shopping centres, hotels and lodges as well as car and 4-wheel drive vehicle hire. However, it still retains a rural atmosphere and local tribesmen still bring their cattle here to sell and you might see antelopes grazing the river banks.
+The best time to go is during the winter months from May to October, when there is little or no rainfall and the days are warm and cloudless. Nights can be cold, so bring a jacket. November to April can be very hot, with most of the rainfall between December and February.

@@ -1,15 +1,6 @@
 ---
-title: "Beaches in Monterosso"
+title: "Beaches"
 type: section
-url: "www.cinqueterre.it"
 ---
 
-Swim or practice motorsports from this large sandy beach. Jump off the rocks into the sea. There are private beaches and public beaches.
-
-### [Fegina Beach](/europe/italy/liguria/thecinqueterre/monterosso/beaches/fegina_beach)
-
-This is a large sandy beach for all kinds of sports.
-
-
-
-url: [www.cinqueterre.it](http://www.cinqueterre.it/en/cta0.html)
+Monterosso has the only real sandy beach in the Cinque Terre. Fegina Beach, in front of the new town, is a broad stretch of sand with both free public sections and private stabilimenti where you can rent umbrellas and loungers. The water is clear and the swimming is good. On busy summer weekends the beach fills up fast — arrive early or try the rocky coves west of the old town for more space.

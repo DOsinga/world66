@@ -1,14 +1,14 @@
 ---
-title: "New London"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.393
+longitude: -88.74
+title: New London
 type: location
-latitude: 41.355619
-longitude: -72.09978
 ---
 
-Travel Guide
+New London is a small city in east-central Wisconsin, set where the Wolf River meets the Embarrass River. The two rivers and nearby lakes make it a natural base for fishing, boating, canoeing and tubing in summer, with ice fishing taking over in winter.
 
-Two rivers within our city limits and a third nearby provide great fishing, boating, tubing and canoeing, and other water sports. There are multiple boat launches, docks, bait shops, and marine stores located right in town.
+The town is best known for its St. Patrick's Day celebration, when it renames itself "New Dublin" for a week of Irish festivities, including Wisconsin's largest St. Patrick's Day parade, an Irish ceili (dance social), and corned beef and cabbage in every restaurant in town. The tradition has been running for decades and draws visitors from well beyond the Fox Valley.
 
-Dine in fine restaurants and supper clubs, take in a theatrical performance, or see a movie at a theater complex. You can find many things to do such visit a nature center, historical village, or enjoy one of our many parks or trails. Recreation opportunities also include a scenic 18 hole golf course.
-
-With historic buildings, gift shops, a book store, and many places to dine you will find it easy to relax and enjoy your surroundings. Exploring the downtown can be an adventure in itself.
+Downtown New London has a pleasant collection of historic buildings, a few independent shops and restaurants, and an 18-hole golf course on the edge of town.

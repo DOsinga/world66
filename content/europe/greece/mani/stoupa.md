@@ -1,8 +1,10 @@
 ---
-title: "Stoupa"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.84675
 longitude: 22.264662
+title: Stoupa
+type: location
 ---
 
 Stoupa is a small resort village on the coast of Exo [Mani](/europe/greece/mani), popular with British and German visitors but still relatively unknown to North American travellers. The main draw is a pair of excellent sandy beaches — Kalogria and Stoupa beach — sheltered by headlands and ideal for swimming.

@@ -1,16 +1,14 @@
 ---
-title: "Oland"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 56.7816
+longitude: 16.6622
+title: Oland
 type: location
-latitude: 56.781596
-longitude: 16.662156
 ---
 
-Oland is an island off the coast of Sweden in the Baltic Sea, but it is connected to the mainland by a 6 km long bridge. [Kalmar](/europe/sweden/kalmar) is at the other side of the bridge. 
+Öland is a long, slender island off the southeast coast of Sweden, connected to the mainland by a 6 km bridge. On the other side of that bridge is [Kalmar](/europe/sweden/kalmar), the nearest city. The island stretches about 137 km from north to south but rarely exceeds 16 km across, which makes it easy to explore by bicycle or car along the single main road.
 
-It is a beautiful island with many windmills, some interesting Viking monuments. [Eketorp](/europe/sweden/oland/eketorp) has some of the best Viking sights. [Solliden](/europe/sweden/oland/solliden) is worth a visit because it is the summer residence of the Swedish royal family. Other sights. [Gardslosa](/europe/sweden/oland/gardslosa) has a medieval church worth checking out. The most famous sight is probably the Borgholm Castle (just a few km north of [Solliden](/europe/sweden/oland/solliden)) you may recognize it from a Roxette clip that was shot here. At the southernomst tip of the islandyou find the lighthouse of Lange Jan (Long John) Lighthouse.
+What draws people here is the landscape: flat limestone plains called alvar, hundreds of old windmills, wildflowers in spring and summer, and a coastline that flips between rocky shores and sandy beaches. The southern alvar is a UNESCO World Heritage Site, recognized as one of Europe's largest areas of this rare habitat. In summer the island fills with Swedes on holiday; in the off-season it goes wonderfully quiet.
 
-## Destinations in Oland
-
-[Gardslosa](/europe/sweden/oland/gardslosa)
-[Eketorp](/europe/sweden/oland/eketorp)
-[Solliden](/europe/sweden/oland/solliden)
+The big sights are spread along the length of the island. Borgholm Castle in the north is the most dramatic ruin in Sweden. Solliden Palace nearby is the Swedish royal family's summer residence. At the southern tip, the Långe Jan lighthouse marks the end of the land. Eketorp, a reconstructed Iron Age fortress in the south, gives a vivid sense of how people lived here 1,500 years ago.

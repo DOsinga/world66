@@ -1,30 +1,14 @@
 ---
-title: "Wadi Matkhandoush"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 25.8167
+longitude: 12.3833
+title: Wadi Matkhandoush
 type: location
 ---
 
-Travel Guide
+Wadi Matkhandoush is one of the most important rock art sites in the Sahara — a 12 km stretch of desert-varnished sandstone covered in petroglyphs dating from 10,000 BC to around 2,000 BC. The carvings depict elephants, giraffes, hippos, crocodiles, and domestic cattle — evidence of a time when this desert was green savanna. You will see no camel carvings, which seems strange until you learn that the camel was only introduced to the Sahara around 200 BC.
 
-The route to Wadi Matkhandoush lies south of Germa, about four hours by 4WD. At first
-you drive at up to 100kph or more over a flat plateau of gravelly sand which brings you to Wadi
-Berjuj, an extremely wide sandy valley alive with vegetation and herds of grazing camels.
-Once you pass the control point in the middle of nowhere which checks your
-Acacus Desert permit, you climb up on to a gravel ridge for more
-high-speed driving, before dropping down halfway along Wadi
-Matkhandoush, over several kilometers of large, uneven black stones that
-slow you to a crawl.
+The route lies south of Germa, about four hours by 4WD. You drive at speed over a flat plateau of gravelly sand to Wadi Berjuj, a wide valley alive with vegetation and grazing camels, then pass a control point that checks your Acacus Desert permit before climbing a gravel ridge and dropping down into the wadi over several kilometers of large, uneven black stones. The wadi itself may be barren and bone-dry, or green and full of water if there has been recent rain.
 
-The wadi itself may be barren and bone dry, or abundantly
-green and full of water if it has rained in the previous couple of weeks.
-
-On one side of the wadi runs a bluff of desert-varnished sandstone,
-and the whole 12km stretch is home to petroglyphs (rock carvings), some of
-which have been dated to 10,000BC, with many between six and eight thousand
-years old. Wild animals such as
-elephant, giraffe, hippo and crocodile are depicted, as well
-as domestic cattle and some formless human bodies dating to a later period. You
-will see no camel carvings here which may seem strange until you discover that
-the camel was only introduced to the Sahara around 200BC.
-
-Germa is two hours
-driving from Sebha along the Wadi Al-Hayat. Further south from Wadi Matkhandoush lies Idehan Murzuq (the Murzuq Sand Sea).
+Germa is about two hours' drive from Sebha along the Wadi Al-Hayat. Further south from Wadi Matkhandoush lies the Idehan Murzuq (Murzuq Sand Sea).

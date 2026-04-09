@@ -1,33 +1,12 @@
 ---
-title: "Cairo Montenotte"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.399268
 longitude: 8.274561
+title: Cairo Montenotte
+type: location
 ---
 
-The town is situated on the left bank of the
- Bormida di Spigno, on a plain ringed by hills
- that climb up toward the Appennines in the
- direction of Monferrato. The Parco
- dell’Adelasia is located in its territory. An
- important Roman station on the Via Julia
- Augusta from Vado to Tortona, it was invaded
- by the Longobards and sacked numerous times
- by the Saracens. In the twelfth century it came
- under the rule of the marchesi Del Carretto,
- who originated here, but in 1339 the fief went
- to the Scarampi of Asti and was later conquered
- by the house of Savoy. Bonaparte defeated the
- Austrians at Montenotte in 1796. Laid out on a
- rectangular plan, the town still has traces of its
- fourteenth-century walls with a tower and the Porta Soprana, a gate with a pointed arch. The
- ruins of the former Del Carretto castle date
- from the same century. The parish church of
- San Lorenzo, overlooked by a tall campanile,
- was built in 1630-40. The industrial center of
- Cairo Montenotte has three principal sectors of
- production: coke (700,000 metric tons a years),
- photographic materials (Ferrania) and carbon-based
- chemical compounds. Prized boletus
- mushrooms and black truffles are gathered in
- the hilly areas.
+Cairo Montenotte sits on the left bank of the Bormida di Spigno, on a plain ringed by hills that climb toward the Apennines in the direction of Monferrato. The town has been a crossroads since Roman times — it was a station on the Via Julia Augusta from Vado to Tortona — and was fought over by Lombards, Saracens, the Del Carretto marchesi, and the House of Savoy. Napoleon defeated the Austrians here in 1796, his first major victory of the Italian campaign.
+
+The old town retains traces of its fourteenth-century walls, including a tower and the Porta Soprana, a gate with a pointed arch. The ruins of the Del Carretto castle date from the same period, and the parish church of San Lorenzo, with its tall campanile, was built in the 1630s. The surrounding hills, part of the Parco dell’Adelasia, are good hunting ground for prized boletus mushrooms and black truffles.

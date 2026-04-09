@@ -1,13 +1,14 @@
 ---
-title: "Mont-Laurier"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.552407
 longitude: -75.49689
+title: Mont-Laurier
+type: location
 ---
 
-Travel Guide
+Mont-Laurier is a small town about three hours' drive north of Montreal, serving as the administrative capital of the Hautes-Laurentides region in Quebec. Surrounded by boreal forest, lakes, and the Laurentian Mountains, it draws visitors who come for the outdoor life rather than urban attractions.
 
-The small town of Mount-Laurier, around 3 hours drive north of Montreal in Quebec, is the capital of the Hautes-Laurentides (province of Québec, regional municipality of *Comté d'Antoine Labelle)*, merged with the *Des Ruisseaux* and *Saint-Aimé-du-Lac-des-Iles* municipalities in 2003).
-Mount-Laurier is a site of exceptional beauty and a favourite destination for photographers and those who love trekking and biking.
-A nature trail leads to the summit and to a spectacular panorama of the town, Matagami lake and the boreal forest in all its splendour!
-A 200 km bicycle trail through the Laurentian Mountains, over the Former Canadian Pacific railroad from Saint-Jerome ends up in Mount Laurier.
+A nature trail leads to the summit above town with a panoramic view over Matagami Lake and the surrounding forest. The Route Verte cycling network brings one of its long-distance trails here — a 200 km bicycle route following the former Canadian Pacific railway bed from Saint-Jérôme ends in Mont-Laurier, making the town a popular destination for cycle tourists completing the journey.
+
+In winter, the area is prime cross-country skiing and snowmobile territory.

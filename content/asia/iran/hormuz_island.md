@@ -1,11 +1,14 @@
 ---
-title: "Hormuz Island"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 27.068024
 longitude: 56.46417
+title: Hormuz Island
+type: location
 ---
 
-Small island in the Persian Gulf(strait of Hormuz,might ring a bell..)far off the beaten track and not far offshore from the major portcity of Bandar-e-Abbas.There does not seem to be a regular ferryservice going there but you can easily catch one of the smugglers boats ferrying people over,the island is basically a smugglers denn,transporting cheap cigarettes to the Emirates accross the straits seems to be the only source of income. Just check with boats in which people are already waiting for the boat to fill up ,moored off the jetties in the port. The short and bumpy speedboat ride is quite uneventful. The island has one attraction: a large,totally abandoned european castle. This was the regional hub of the portuguese traders in the region in the 16th c. Later the castle was occupied by the Dutch and the English. Now largely in ruins but still an imposing site on the promomtory just past Hormuz town. For the rest there's nothing to see on the island although the omnipresent lethargy and seriously oppressing heat give an end-of-the-world feeling. Anyway,if you make it to Bandar anyway (nothing to see) why not take this short side trip. Prepare for some sweating!
+Hormuz is a small island in the Strait of Hormuz, a short boat ride from [Bandar Abbas](/asia/iran/bandarabbas) on the Iranian mainland. It is a genuinely strange and beautiful place — the landscape is almost lunar, with vivid red, orange, and yellow soil that locals use as spice (the "red earth" is edible and used in cooking). The beaches on the south side of the island shimmer with mineral colours unlike anything you have seen before.
 
-**Contributors**
-October 12, 2005
+The main historical attraction is the Portuguese Fort of Our Lady of the Conception, built in the early sixteenth century when Hormuz was a major hub of the spice trade. The Portuguese, Dutch, and English all fought over this strategic island, and the imposing fort — now largely in ruins — still dominates the promontory just past Hormuz town. The surrounding walls and bastions are atmospheric, especially at sunset.
+
+Getting there is straightforward: regular ferries and speedboats leave from the Shahid Haghani port in Bandar Abbas several times a day. The crossing takes about 30 minutes. The island has a few basic guesthouses but most visitors come as a day trip. Be prepared for serious heat — Hormuz is one of the hottest places in Iran.

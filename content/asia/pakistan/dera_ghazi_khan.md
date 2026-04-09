@@ -1,8 +1,10 @@
 ---
-title: "Dera Ghazi Khan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 30.032137
 longitude: 70.640111
+title: Dera Ghazi Khan
+type: location
 ---
 
 Travel Guide

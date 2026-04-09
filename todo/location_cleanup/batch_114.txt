@@ -10,7 +10,6 @@ africa/botswana/kalaharidesert/orapa
 europe/hungary/esztergom
 northamerica/mexico/puerto_penasco
 asia/srilanka/arugam_bay
-europe/armenia/nagornokarabakh/stepanakert_3
 africa/algeria/laghouat
 northamerica/unitedstates/texas/laguna_texas
 europe/serbiaandmontenegro/sokobanja

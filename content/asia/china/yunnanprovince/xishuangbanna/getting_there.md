@@ -1,11 +1,8 @@
 ---
-title: "Getting There in Xishuang banna"
+title: "Getting There"
 type: section
 ---
 
-To get to Jinghong (the capital of the region) one must take a sleeper
-bus or fly in a small plane from Kunming. The bus ride is a winding 12
-hour trip through the mountains.
+The main gateway is Xishuangbanna Gasa International Airport, just north of Jinghong, with direct flights from Kunming, Chengdu, and several other Chinese cities. The Kunming flight takes about an hour.
 
-**Contributors**
-June 06, 2005
+By road, Jinghong is roughly 600 kilometres from Kunming along winding mountain highways — the journey by sleeper bus takes around 12 hours and passes through dramatic mountain scenery. Faster express buses do the route in less time on improved roads. There are also bus connections to Laos via the Mengla border crossing.

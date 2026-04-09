@@ -1,8 +1,10 @@
 ---
-title: "Rosses Point"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 54.305943
 longitude: -8.558944
+title: Rosses Point
+type: location
 ---
 
 Rosses Point is a small seaside village on a peninsula jutting into Sligo Bay, about eight kilometres from [Sligo](/europe/ireland/sligo) town. It has fine beaches, a pier, and commanding views across the bay to Knocknarea and the Ox Mountains.

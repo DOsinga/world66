@@ -1,12 +1,12 @@
 ---
-title: "Canillas de Aceituno"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.873167
 longitude: -4.082126
+title: Canillas de Aceituno
+type: location
 ---
 
-Travel Guide
+Canillas de Aceituno is a small white village in the Axarquía region of Málaga province, in the foothills of the Sierra de Tejeda. The road up from the coast winds through olive and almond groves before the village appears as a cluster of white-walled houses around a church and a couple of small squares.
 
-**Canillas de Aceituno** is a small village typical of those you can find across the length and breadth of [Andalucia](/europe/spain/andalucia) in southern [Spain](/europe/spain). As you approach, up a road that winds its ways through the arid foothills of the Axarquia, it appears as a white smudge against the dun of the landscape.
-
-A huddle of narrow streets clustered around a church and a couple of squares, Canillas de Aceituno is nevertheless well decked out with a couple of inviting bars and restaurants and has a generally relaxed and friendly atmosphere. The village makes for a great jump-off point for the great walking that the Sierra de Tejeda national park offers or for exploring the other nearby villages of Sedella, Salares, Colmenar and Iznate.
+The village has a friendly, unhurried atmosphere and a few bars. Its main appeal is as a base for walking in the Sierra de Tejeda natural park, which rises steeply behind the village and offers trails with excellent views across to the Mediterranean. The surrounding area includes several similar white villages — Sedella, Salares, Colmenar, and Iznate — worth exploring if you have a car.

@@ -1,10 +1,12 @@
 ---
-title: "Panguitch"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.82282
 longitude: -112.435756
+title: Panguitch
+type: location
 ---
 
-Travel Guide
+Panguitch is a small ranching town along the Sevier River in south-central Utah, straddling US-89 about 25 miles from the entrance to Bryce Canyon National Park. Most visitors use it as a base for exploring Bryce and the surrounding red-rock country — it has classic roadside motels, a handful of diners, and none of the resort-town polish of nearby Springdale or Moab.
 
-Panguitch is a small community located along the Sevier River in southcentral Utah, along US-89. It's a beautiful place, and is a handy spot to stay in when visiting Bryce Canyon National Park and other nearby public lands. The town has many classic motels and other accommodations, restaurants and services, but also nice old historic buildings and homes. The legendary polygamist and Mountain Meadows Massacre scapegoat John D. Lee is buried here, and the surrounding countryside evokes the mythology of the American West. Stop and explore the area; you won't be disappointed.
+The town itself has a quiet charm. The main street is lined with old brick storefronts and there are some handsome pioneer-era homes worth a walk past. John D. Lee, the only man convicted for the Mountain Meadows Massacre of 1857, is buried in the local cemetery. The surrounding landscape — sagebrush flats giving way to ponderosa forests and hoodoo-studded canyons — is pure American West.

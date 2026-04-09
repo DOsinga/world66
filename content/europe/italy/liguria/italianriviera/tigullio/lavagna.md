@@ -1,8 +1,10 @@
 ---
-title: "Lavagna"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.312154
 longitude: 9.341706
+title: Lavagna
+type: location
 ---
 
 Lavagna sits on the eastern bank of the Entella river, directly across from [Chiavari](/europe/italy/liguria/italianriviera/tigullio/chiavari) and effectively its quieter twin. The town developed along a main street running perpendicular to the shore — typical of Ligurian coastal settlements that grew to service a harbour rather than a beach.

@@ -1,11 +1,14 @@
 ---
-title: "Ílheus"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -14.7926
+longitude: -39.0454
+title: Ilhéus
 type: location
-latitude: -14.792599
-longitude: -39.045384
 ---
 
-"ILHÉUS", known as "Land of the Gabriela", graduated as "Princesinha of the South", reflects an enormous importance as reference of the coast of the cacao, in the south of the Bahia. The capital of the coast of the cacao, of as much memory, culture and beauty, exerts an authentic irresistible attraction on the visitors. Ilhéus, scene that inspired to the creativity of the writer Loved Jorge, fascinates and involves to all. Ilhéus is considered as a great tourist polar region of the region, where if they also detach, Itacaré, Canavieiras, Joins and Great Mountain range. Histories of the aúreos times of the cacauicultura can be revividas in the Bar Vesúvio and the Cabaret Bataclan, old scenes of the Gabriela romance, cravo and cinnamon, today transformed into tourist attractions of obligator visitation, in the block Loved Jorge. It is basic also to know the Church First of Are Jorge of the Ilhéus (1556), where the Museum of Sacra Art functions, also the Cathedral of Is Sebastião, constructed in neoclássico style, one of the registered marks of the city, and the Outeiro of Is Sebastião, where they are the Chapel of Ours Mrs. of Lurdes and the landmark of the city, that they provide to the visitors a panoramic vision.
+Ilhéus is the capital of Bahia's cacao coast — a languid, sun-baked city where the boom years of the early twentieth century left behind a scatter of Art Nouveau mansions, grand churches, and the kind of stories that made Jorge Amado one of Brazil's most celebrated writers. His novel *Gabriela, Cravo e Canela* is set here, and you can still visit the Bar Vesúvio and the Cabaret Bataclan that appear in its pages, both now restored as tourist landmarks in the Bloco Jorge Amado.
 
-**Contributors**
-December 14, 2005
+The city sits where several rivers meet the Atlantic, strung along a palm-lined coast with long beaches stretching north and south. The historic centre is compact and walkable: the Igreja de São Jorge dos Ilhéus (1556), the oldest church in the region, houses a small Museum of Sacred Art, while the Cathedral of São Sebastião, built in neoclassical style, dominates the skyline. From the Outeiro de São Sebastião you get a panoramic view over the city, the river, and the coast.
+
+Beyond the town, the surrounding countryside is still dotted with old cacao fazendas, some of which are open to visitors. Ilhéus makes a good base for exploring the southern Bahian coast, with [Itacaré](/southamerica/brazil/itacare) an hour to the north.

@@ -1,11 +1,14 @@
 ---
-title: "Njombe"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -9.1211
+longitude: 34.4317
+title: Njombe
 type: location
-latitude: -9.121089
-longitude: 34.431677
 ---
 
-Travel Guide
+Njombe sits at about 2,000 metres in the Southern Highlands of Tanzania, making it one of the coolest towns in the country — in June to August it can be genuinely cold by East African standards. The climate attracted missionaries in large numbers, and the town's single main street is lined with an unusual concentration of churches.
 
-Njombe, at an altitude of about 2000 m a.s.l., is one of the coolest places in Tanzania . In June-August it can be distinctly cold. The climate may be the main reason for the high number of churches found along the only main street of the town, as the place has been a convenient and pleasant base for missionaries.
-The traveller coming from the north will pass through extensive wattle and tea plantations in an unusually flat terrain which is part of the geologically ancient Gondwanaland erosion surface. South and southeast of Njombe is a very beautiful, hilly landscape with extensive grasslands.
+The approach from the north passes through extensive wattle and tea plantations on a surprisingly flat plateau — part of the ancient Gondwana erosion surface. South and southeast of Njombe, the landscape changes dramatically to beautiful rolling hills covered in grassland, with views stretching for miles.
+
+Njombe is not a tourist destination in itself, but it is a pleasant stop on the road between [Dar es Salaam](/africa/tanzania/daressalaam) and the southern highlands. The surrounding countryside rewards exploration, and the cool air is a welcome change from the lowland heat.

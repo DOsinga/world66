@@ -1,14 +1,14 @@
 ---
-title: "Tumkur"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 13.340077
 longitude: 77.100621
+title: Tumkur
+type: location
 ---
 
-Tumkur, the seat of administration of Tumkur District, is a leading commercial, industrial and business center and a famous health resort in the Devarayanadurga Hills. It is situated 70 km north-west of Bangalore on the Bangalore– Pune highway.
+Tumkur sits 70 km northwest of Bangalore on the Pune highway, at the edge of the Devarayanadurga Hills. It is a busy commercial town and the administrative seat of Tumkur District, known for its markets in coconut, tobacco, and vegetable oil.
 
-Tumkur was founded by the Kante Arasu of the Mysore royal family. It is a big market for vegetable oil, tobacco, chilies and coconuts in the district. Prominent industries are that of soap, tools and food processing.
+The town itself is not a major tourist destination, but it makes a reasonable stop if you are travelling between Bangalore and the northern Karnataka interior. The Siddhaganga Matha, a large Lingayat monastery 5 km from town, is worth a visit — it runs one of India's largest free residential schools and the grounds are peaceful. The Devarayanadurga hill fort, about 15 km south, has two ancient temples and good views of the surrounding countryside.
 
-Places of tourist include Yediyur, Kunigal Farm, Pavagada Fort, Madhugiri, Marconahalli, Sira, Lakshmikanthaswamy Temple, Siddhaganga Kshetra (5 km), Turuvekere and Tumkur Jain Temple.
-
-Nearest airport is at Bangalore. Tumkur Railway Station is on the Bangalore-Arasikere line. National Highway 4 passes through Tumkur.
+Other day-trip options from Tumkur include the massive granite monolith at Madhugiri (claimed to be Asia's second-largest), the Markonahalli dam, and the historic fort town of Sira.

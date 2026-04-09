@@ -1,11 +1,12 @@
 ---
-title: "George"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -33.959721
 longitude: 22.458715
+title: George
+type: location
 ---
 
-George is the largest town of the Garden Route. It is locate in the Western Cape just south of [Oudtshoorn](/africa/southafrica/oudtshoorn). The setting of town is pretty with the magnificent Outeniqua Mountain range dominating the city, and rivers , rich farmlands, forests and wild flowers surrounding it on all sides. Nature, outdoor and scenery is what you come here for.
+George is the largest town on the Garden Route and the commercial hub of the southern Western Cape. The Outeniqua Mountains rise dramatically behind the town to the north, while the coastline — some of the finest beaches in South Africa — lies just a short drive to the south.
 
-
- Forestry is the backbone of the area's economy and, in addition to exotic species, large tracts of indigenous forest have been preserved. Hops grown in the countryside around George and the well-watered valleys in the Outeniqua Mountains supply about half of South Africa's needs. It is possible to make increible hikes and treks in the mountains. And if you are tired of walking just go to the beach - some of the nicest beaches with nice warm water are just a few km away.
+Forestry has long been the economic backbone of the area, and large tracts of indigenous forest have been preserved in the hills. Hops grown in the valleys around George supply roughly half of South Africa's needs. For travelers, the town is more a base than a destination: the beaches at Victoria Bay and Wilderness are excellent, the Outeniqua Pass drive over the mountains toward [Oudtshoorn](/africa/southafrica/oudtshoorn) is spectacular, and hiking trails through the indigenous forest are well worth a day. George Airport is the main gateway for the eastern Garden Route, with regular flights to Cape Town and Johannesburg.

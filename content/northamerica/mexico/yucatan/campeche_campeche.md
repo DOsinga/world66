@@ -1,12 +1,16 @@
 ---
-title: "Campeche"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 19.8454
+longitude: -90.5253
+title: Campeche
 type: location
-latitude: 19.0
-longitude: -90.5
 ---
 
-Travel Guide
+Campeche is one of the best-preserved colonial cities in Mexico — a walled port where brightly painted mansions and cobblestone streets have barely changed since Spanish pirates made this place their favourite target. The historic centre was declared a UNESCO World Heritage Site in 1999, and unlike some heritage designations, this one actually shows: the overhead cables are gone, the facades are immaculate, and the atmosphere is genuinely lovely.
 
-Campeche is the capital city of the state of... Campeche! While to many Mexicans the Campechanos are to Mexico what the Gallegos are to the Spanish and the Newfies to Canadian, Campeche is actually getting its act together.
+The city is the capital of the state of the same name, which stretches south into the jungle toward Guatemala. Within the state you'll find some of the most impressive and least-visited Maya ruins in Mexico. [Edzna](northamerica/mexico/yucatan/edzna) is close and easily done as a half-day trip; [Calakmul](northamerica/mexico/yucatan/calakmul), deep in the biosphere reserve, is a full expedition — remote, magnificent, and often nearly empty.
 
-There are splendid Mayan ruins throughout the state; the most popular to visit are Edzna and Calakmul. The seafood is fantastic. Your visit won't be complete unless you have lunch at the original La Pigua (a branch is open in Merida also) for the most mouth-watering seafood around. Don't forget to visit the forts, built in response to frequent pirate attacks during colonial times, and the charming city center, completely restored to colonial splendor a few years ago complete with overhead telephone and electricity cable removal. It was declared a cultural site - or some such designation - by UNESCO. There are also beaches, jungle, and the impressive ultra-modern *malecon *(Yucatecans eat your hearts out)* *for strolling along the city's waterfront.
+The seafood here is exceptional. The Gulf of Mexico laps at the city's doorstep, and the waterfront *malecón* — a wide modern promenade — is the place to stroll at sunset. Don't leave without eating at La Pigua, the classic spot for shrimp, crab, and pan de cazón (a layered tortilla dish with dogfish that is very much the local speciality). The forts ringing the city, built in the 17th century to defend against pirate raids, are worth visiting as much for the views as for the history.
+
+Campeche is less visited than Mérida or the Caribbean coast — which is largely why it's worth going.

@@ -1,8 +1,10 @@
 ---
-title: "Baghdad"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 33.30617
 longitude: 44.387221
+title: Baghdad
+type: location
 ---
 
 The name of Bagdad used to evoke images of Arabian Nights, Harems and Sultans. Since the Gulf War most people think of war, destruction and Saddam Hussein. Both images are more or less correct

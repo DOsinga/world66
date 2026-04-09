@@ -1,8 +1,10 @@
 ---
-title: 'Jamnagar'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 22.473242
 longitude: 70.05521
+title: Jamnagar
+type: location
 ---
 
 Jamnagar is a city on the Gulf of Kutch known for its bandhani (tie-dye) textiles -- this is one of the best places in Gujarat to buy authentic bandhani saris. The city also sits near the Marine National Park, India's first marine sanctuary, where low tide reveals coral reefs, colourful sponges, and sea life you can explore on foot.

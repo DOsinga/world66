@@ -1,8 +1,12 @@
 ---
-title: "Ferizaj"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.3703
+longitude: 21.1553
+title: Ferizaj
 type: location
-lat: 42.3703
-long: 21.1553
 ---
 
-Ferizaj/Urosevac is located in eastern Kosovo along the main highway leading from the Macedonian border to Pristina. It is home to the Orthodox Church known as St. Uros. St. Uros Church is a KFOR protected site and is currently protected by the Hellas Battalion attached to KFOR Multinational Brigade (East). Downtown Ferizaj has many cafes and shops that visitors will find appealing. Traffic is tight in the city and the main roads through the city are one way.
+Ferizaj (also known as Uroševac) is a mid-sized city in southeastern Kosovo, sitting on the main highway between the Macedonian border and [Pristina](/europe/serbiaandmontenegro/kosovoprovince/pristina). It is a transit town more than a destination, but if you are passing through, the downtown has plenty of cafes and shops to kill a few hours. Traffic through the centre is tight — the main roads are one-way.
+
+The city's most notable landmark is the Orthodox Church of St. Uroš, a KFOR-protected site. The surrounding area offers access to the Sharr Mountains to the southwest.

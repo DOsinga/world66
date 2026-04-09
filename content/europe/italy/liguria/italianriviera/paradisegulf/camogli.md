@@ -1,8 +1,10 @@
 ---
-title: "Camogli"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.3492
 longitude: 9.1589
+title: Camogli
+type: location
 ---
 
 Camogli is one of the most pleasant surprises on the Italian Riviera -- a compact fishing village of tall, painted houses crammed together above a small harbour, tucked between the Portofino headland and the open Ligurian Sea. The houses are famously colourful, their trompe-l'oeil facades a tradition dating back centuries, and the whole town feels like it has been gently compressed into its narrow strip of coast.

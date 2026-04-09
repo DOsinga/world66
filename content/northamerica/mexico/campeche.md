@@ -1,14 +1,18 @@
 ---
-title: "Campeche"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 19.8482
+longitude: -90.5259
+title: Campeche
 type: location
-latitude: 19.0
-longitude: -90.5
 ---
 
-The Land of Serpents and Ticks, as the Mayas called the city of Campeche, is an attractive town on the Gulf of Mexico. Lots of things remind the visitor of the town's bloody history: this was a favourite picknick spot for pirates. The Spanish built citadels and thick walls to protect the city. Many of them can be visited today and some have been made into small museums displaying Maya artifacts or items from the city’s colonial past.
+The Land of Serpents and Ticks, as the Mayas called this place, is an attractive colonial city on the Gulf of Mexico. Campeche's old centre, a UNESCO World Heritage Site, was beautifully restored in the early 2000s — the pastel-coloured buildings, fortified walls, and underground cables give it a clean, photogenic look that is rare in Mexican cities.
 
+The city's history is colourful. For centuries it was raided by pirates — the Spanish eventually built massive walls, citadels, and forts to protect it. Several of these survive and have been turned into museums. The Fuerte de San Miguel, on a hilltop south of town, has a superb collection of pre-Columbian artefacts including six jade funeral masks from Calakmul.
 
- 
- Take some time to walk along the city walls. The old sections of the town were nicely renovated. Churches and plazas can be explored including the Cathedral Concepcion which was built between 1540 and 1704. The museum at San Miguel Fort has a good collection of pre-Colombian artifacts including 6 peerless jade funeral masks.
+Walk the city walls, explore the churches and plazas, and visit the Cathedral de la Concepción, built between 1540 and 1704. The malecón (waterfront promenade) is pleasant in the evening.
 
-Also plan to visit the Maya ruins at Edzna about 25 mi/40 km southeast of town to see the impressive Temple of Five Stories and other structures.
+The Maya ruins at Edzná, about 40 km southeast, are worth a half-day trip for the impressive Temple of Five Stories. For something more ambitious, the ruins at Calakmul — deep in the jungle near the Guatemalan border — are among the most impressive and least-visited major Maya sites.
+
+The seafood in Campeche is fantastic, particularly the pan de cazón (layered tortillas with dogfish) and coconut shrimp.

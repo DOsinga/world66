@@ -1,8 +1,12 @@
 ---
-title: "Springdale"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 37.1891
+longitude: -112.9988
+title: Springdale
 type: location
-latitude: 36.186744
-longitude: -94.128814
 ---
 
-Springdale is mainly known because it gives access to Zion National Park, a 229 square miles (593.1 km²) spectacular cliff-and-canyon landscape and wilderness full of the unexpected including one of the world's largest arches - Kolob Arch - with a span that measures 310 feet (94.5 m). Wildlife such as mule deer, golden eagles, and mountain lions, also inhabit the Park. Mukuntuweap National Monument proclaimed July 31, 1909; incorporated in Zion National Monument March 18, 1918; established as national park Nov. 19, 1919.
+Springdale is a tiny town at the mouth of Zion Canyon, existing almost entirely as the gateway to Zion National Park. The park's sheer red-and-white sandstone cliffs rise straight up from the valley floor, and the main canyon is accessible by shuttle bus from Springdale's doorstep.
+
+Zion covers 229 square miles of cliff-and-canyon landscape, including one of the world's largest natural arches — Kolob Arch, with a span of about 94 metres. The park's signature hikes range from the paved Riverside Walk to the chain-assisted climb up Angels Landing and the technical slot canyon of The Narrows. Mule deer, golden eagles, and mountain lions all inhabit the park.

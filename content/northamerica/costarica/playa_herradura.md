@@ -1,5 +1,9 @@
 ---
-title: "Playa Herradura"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 9.6358
+longitude: -84.6531
+title: Playa Herradura
 type: location
 ---
 

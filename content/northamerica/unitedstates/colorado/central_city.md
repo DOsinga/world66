@@ -1,22 +1,14 @@
 ---
-title: "Central City"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.801932
 longitude: -105.514163
+title: Central City
+type: location
 ---
 
-Central City is one of several locations in Colorado where it is legal
-to gamble (see Black Hawk and Cripple Creek info for the other
-locations). There are many smaller casinos throughout Central
-City.
+Central City sits in Gilpin County in the Colorado Rockies, about an hour west of Denver. During the gold rush of the 1850s and 1860s it was known as the "Richest Square Mile on Earth," and the Victorian-era architecture left over from that era still gives the town a distinctive character.
 
-Central City was once a booming mining town and was known as the
-"Richest Square Mile on Earth." It was a historical location with
-museums and attractions for much of the time between the gold rush and
-the present day. In the early 1990s, Colorado voters allowed
-Central City to engage in limited gambling (bets are limited to $5,
-there are time restrictions on gambling). This re-vitalized the
-area and now much of the city is populated mostly with casinos.
+In 1991 Colorado voters approved limited-stakes gambling in Central City and neighbouring Black Hawk. The casinos that followed changed the town's character considerably — most of the historic streetscape now hosts gambling establishments. The betting limits and time restrictions on gaming originally intended to keep it "limited" have since been removed.
 
-There are several companies that run buses from Denver (about an hour
-east) on regular schedules to bring gamblers up to the city.
+It can be visited as a day trip from Denver. Several bus services run from the city on casino-focused schedules. Those more interested in the mining history than the slot machines will find more reward at Black Hawk's museums and walking tours of the historic district.

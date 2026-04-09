@@ -1,8 +1,14 @@
 ---
-title: "Cospicua (or Bormla)"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.8805
+longitude: 14.5225
+title: Cospicua (or Bormla)
 type: location
 ---
 
-Travel Guide
+Bormla, officially Cospicua, is the oldest inhabited of the Three Cities on the southern shore of the Grand Harbour in [Malta](/europe/malta). The town nestles behind the historic No. 1 Dock, built in the 1840s in what was once the Porto delle Galere. The dockyard here has been in use since Phoenician times, expanded by every successive ruler — the Knights of St John, the French, and the British all used it as their Mediterranean base for ship repair.
 
-Bormla, also known as Citta' Cospicua, is the oldest inhabited of the three towns. The town nestles behind the No 1 Dock built in 1842 - 1848, in Porto delle Galere, the older name for Dockyard Creek. The dockyard was first started by the Phoenicians and later developed with the colonizers needs. The knights and later the British turned it into their strategic and Mediterranean base for ship repair. The town plans were laid out in 1717 on a grid pattern. Though some of the older streets survive intact from remote times. The town boasts of its magnificent doric church of the Immaculate Conception a museum of artistry and craftsmanship that lived in the town for centuries. Other attractions in the town are the 17th century fortifications of the Knights, British Fort Verdala, Bir Mula Heritage - a social history museum located in a palazzino of the St. Margerita hill, and various other architectural jewels.
+The town was laid out on a grid pattern in 1717, though some older streets survive from earlier periods. The Church of the Immaculate Conception, built in the Doric style, dominates the skyline and contains centuries of craftsmanship. The 17th-century fortifications of the Knights, British-era Fort Verdala, and the Bir Mula Heritage museum (a social history collection housed in a small palazzino on St Margaret's Hill) are the main sights.
+
+Cospicua suffered badly in the Second World War — the dockyard was a prime target — and much of the town was rebuilt afterwards. Today it is quieter and less visited than neighbouring Vittoriosa (Birgu), but the waterfront regeneration around the docks is gradually changing that.

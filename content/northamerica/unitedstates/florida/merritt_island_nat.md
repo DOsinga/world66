@@ -1,8 +1,10 @@
 ---
-title: "Merritt Island National Wildlife Refuge"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 28.620231
 longitude: -80.742237
+title: Merritt Island National Wildlife Refuge
+type: location
 ---
 
 Located on the John F. Kennedy Space Center, east of [Titusville](/northamerica/unitedstates/florida/titusville), Florida.

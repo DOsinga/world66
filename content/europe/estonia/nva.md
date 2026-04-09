@@ -1,18 +1,12 @@
 ---
-title: "Nõva"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 59.22471
 longitude: 23.688303
+title: Nõva
+type: location
 ---
 
-Travel Guide
+Nõva is a quiet coastal village on the northwest shore of Estonia, roughly halfway between [Haapsalu](/europe/estonia/haapsalu) and Paldiski. The area has a long Swedish heritage — Coastal Swedes settled these shores for centuries, and traces of that history linger in place names and old farmsteads.
 
-**Nõva** is a small coastal village located on the North West coast of Estonia. It's situated between Haapsalu and Paldiski (around 50km from each).
-
-Swedes inhabited the coast for hundreds of years so the area is full of Swedish history.
-
-The beach is the biggest attraction of the village.
-
-During summer and autumn you can also wander around the untouched pine forests and pick berries or mushrooms.
-**More information **about Nõva can be found on the official tourist
-information website of Estonia: http://www.visitestonia.com/en/articles/destinations/the-coastline/nova
+The main draw is the beach and the surrounding pine forests, which in late summer and autumn are thick with wild berries and mushrooms. It is not a resort — there are no crowds, no boardwalk, just sand, sea, and forest. If you want a genuinely quiet stretch of Estonian coastline, Nõva delivers.

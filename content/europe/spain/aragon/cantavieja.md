@@ -1,10 +1,14 @@
 ---
-title: "Cantavieja"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.525272
 longitude: -0.406213
+title: Cantavieja
+type: location
 ---
 
-Cantavieja is a small village and its specific sights can be quickly seen. However it's a vital link in the cicuit Valencia - Teruel - Maestrazgo - Castellón - Valencia, better described under Teruel. At least done in this direction, the circuit entails a night spent in Cantavieja and that's no hardship. The narrow streets of the old town grow on you rapidly and it's good to just stoll around, even though the hilltop location induces mighty winds.
+Cantavieja is a fortified hilltop village in Teruel province, perched on a rocky spur above the wild Maestrazgo mountains. It sits at over 1,300 metres and the winds that tear across its streets are a constant reminder of just how exposed the position is — yet that same position gives it a drama that stays with you.
 
-Some of the houses are built immediatley over a sheer rocky precipice but you will need to take quite a walk to see this from below. If staying longer, you would doubtless find many good routes into the Maestrazgo mountains.
+The village works well as an overnight stop on the classic circuit between Valencia, Teruel, the Maestrazgo interior, and Castellón. The old town is small enough to cover on foot in an afternoon: the arcaded square with its Baroque church and the attached ayuntamiento (town hall) is the centre of it all, and the TIC occupies the same porticoed stretch. Wander the narrow streets and you will quickly notice that several houses are built right over a sheer rocky precipice — to see this properly from below requires a short walk out of town.
+
+If you have more than a night, the surrounding Maestrazgo landscape opens up into good walking country, with empty roads and austere villages that see very few visitors.

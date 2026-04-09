@@ -1,8 +1,10 @@
 ---
-title: "Kalinago Territory"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 15.48
+longitude: -61.28
+title: Kalinago Territory
 type: location
-latitude: 15.4800
-longitude: -61.2800
 ---
 
 Kalinago Territory — formerly called Carib Territory — is a 3,700-acre reserve on Dominica's northeast coast, home to around 3,000 Kalinago people, the last remaining indigenous Carib community in the Caribbean. It is a place where people actually live and work, not a museum recreation.

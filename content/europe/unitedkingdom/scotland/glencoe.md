@@ -1,22 +1,16 @@
 ---
-title: "Glencoe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 56.682765
 longitude: -5.101455
+title: Glencoe
+type: location
 ---
 
-There is a village at Glencoe with two hotels , a youth hostel and a private bunkhouse. However the name also covers the immediate area around the village and, in particular, the excellent mountain chains on each side of the road. 
+Glencoe is one of the most dramatic landscapes in Scotland — a deep glacial valley carved between towering ridges, with a history as dark as its skies can be. The name covers both a small village at the valley's foot and the wider mountain terrain that draws walkers and climbers from across Britain and beyond.
 
-Historically Glencoe is known for the terrible and treacherous massacre of the MacDonald clan but any horrors associated with this are soon banished by the views from the tops, povided it is not misty. 
+Historically, Glencoe is inseparable from the 1692 massacre, when government soldiers killed dozens of MacDonalds who had sheltered them for days. The betrayal is remembered sharply here. But the landscape has a power of its own that pushes history into the background — particularly on the rare clear days when the peaks emerge from cloud.
 
-As you approach Glencoe from the south, the pinnacle ridge to the right of the road is Aonach Eagach. It is one of the best on the mainland but the potential falls really are prodigious so don't take anybody suffering vertigo. 
+If you approach from the south on the A82, the pinnacle ridge rising to the right is Aonach Eagach, one of the finest and most exposed scrambles on the Scottish mainland. The peaks to the left lead toward Bidean nam Bian, the highest summit in the old Argyll. Between the two, the valley's scale is frankly staggering. Even if you don't climb, the drive through is worth making — and if you are heading north through Scotland, the A82 from Tyndrum to Fort William is one of the great scenic routes in the country.
 
-The lovely peaks to the left, leading to Bidean nam Bhean also have an unenviable accident record, though there are many good walks here in reasonable weather. Nearest the road are the 'three sisters of Glencoe.' Find your way to the delectable 'Lost Valley,' where the MacDonalds used to keep rustled cattle. 
-
-If you bypass the village on the A82 you will reach a good information centre. If you are heading for anywhere in the north of Scotland, although it may be much quicker by the A9, you really should try to travel on the A82 from Fort William to Tyndrum in one direction for the glorious scenery. 
-
-For the youth hostel in Glencoe see http://www.syha.org.uk/syha/Web/Site/Hostels/Glencoe.asp
-
-Write up on 15 September 04
-
-Minor corrections on 15 September 04
+A visitor centre near the head of the valley has maps, exhibits on the massacre, and information on walking routes. The village itself is small and functional, with a few places to eat and stay.

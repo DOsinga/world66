@@ -1,8 +1,14 @@
 ---
-title: "Laguna de Apoyo"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 11.9208
+longitude: -86.0342
+title: Laguna de Apoyo
 type: location
 ---
 
-Travel Guide
+Laguna de Apoyo is a volcanic crater lake about 30 minutes from [Granada](/northamerica/nicaragua/granada), filling a caldera formed some 23,000 years ago. The water is warm, clear, and impossibly blue — fed by underground springs rather than rivers, so it stays clean and calm.
 
-Laguna de Apoyo is one of the top attraction in Nicaragua. If you need a place to stay, scuba dive, kayak, fish, hike as well as learn spanish, I highly recommend the Laguna de Apoyo Cultural Center where I was well treated. Google Laguna de Apoyo to learn more about this spectacular crater lake.
+The lake is a nature reserve, ringed by tropical dry forest that descends steeply to the shore. Swimming, kayaking, and scuba diving are all popular — the lake is deep and home to several species of cichlid found nowhere else on earth. A handful of lodges and research stations line the shore, and the Estacion Biologica runs Spanish courses and volunteer programmes alongside its conservation work.
+
+Most visitors come as a day trip from Granada or [Masaya](/northamerica/nicaragua/masaya), though staying overnight is the better option if you want to catch the lake at dawn, when howler monkeys start up in the trees above the water.

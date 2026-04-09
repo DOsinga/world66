@@ -1,19 +1,14 @@
 ---
-title: "Formentera"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 38.7062
+longitude: 1.4334
+title: Formentera
 type: location
-latitude: 38.706216
-longitude: 1.43341
 ---
 
-**Formentera is maybe not as popular with tourists as 
- [Mallorca](/europe/spain/balearicislands/mallorca) opr 
- [Ibiza](/europe/spain/balearicislands/ibiza), but the island does have its fair share of idyllic beaches and with their crystal clear waters and fine sands they are great for a relaxing holiday.** 
- 
+Formentera is the smallest and quietest of the main Balearic Islands, just a short ferry ride south of [Ibiza](/europe/spain/balearicislands/ibiza). It lacks the club scene and the crowds, and that is precisely the point — Formentera is about beaches, bicycles, and doing very little. The island's beaches are among the best in the Mediterranean: Platja de Ses Illetes and Platja de Migjorn have white sand and water so clear it looks Caribbean.
 
-San Francesc is the capital of Formentera. It is a lively place and is worth a visit especially in the morning when a craft fair is held in the centre. 
- 
+The island is flat and small enough to explore by bicycle in a day. La Savina is the main port, where ferries from Ibiza dock alongside fishing boats and yachts. San Francesc (Sant Francesc Xavier), the tiny capital, has a fortified church, a morning craft market, and a handful of restaurants. Els Pujols is the main tourist centre, with most of the island's restaurants and bars.
 
-Els Pujois is the leading tourist centre where the majority of Formenteras hotels, restaurants and bars are located. 
- 
-
-La Savina is the islands main port which although quite small, holds passenger ships, fishing boats and luxury yachts. The town itself is also small though its services include a number of restaurants, shops and holiday accommodation.
+Formentera was a favourite of hippies in the 1960s and 1970s, and something of that laid-back spirit persists. It is more expensive than you might expect for such a small island — the proximity to Ibiza and the limited accommodation push prices up in high season. Visit in June or September for better weather and fewer people.

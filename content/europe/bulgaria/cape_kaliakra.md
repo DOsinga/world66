@@ -1,8 +1,10 @@
 ---
-title: "Cape Kaliakra"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.3604
 longitude: 28.4652
+title: Cape Kaliakra
+type: location
 ---
 
 Cape Kaliakra is a narrow finger of rock jutting into the Black Sea some 12 km southeast of Kavarna — dramatic red-brown cliffs dropping 70 metres straight to the water, with steppe grassland stretched behind. It is one of Bulgaria's most striking natural features and worth the detour from the coastal resorts.

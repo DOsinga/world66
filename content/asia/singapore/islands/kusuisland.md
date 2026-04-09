@@ -1,8 +1,8 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-lat: 1.2231
-long: 103.8612
+latitude: 1.2231
+longitude: 103.8612
 title: Kusu Island
 type: location
 ---

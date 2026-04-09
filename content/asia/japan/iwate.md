@@ -1,8 +1,10 @@
 ---
-title: "Iwate"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.571376
 longitude: 141.425357
+title: Iwate
+type: location
 ---
 
 Iwate is the second largest prefecture in Japan by area and one of the least densely populated, covering a large stretch of northern Honshu between the mountains and the Pacific coast. It sits at the heart of the [Tohoku](/asia/japan/tohoku) region.

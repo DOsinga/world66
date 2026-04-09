@@ -1,14 +1,14 @@
 ---
-title: "Miches"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 18.9879
+longitude: -69.0472
+title: Miches
 type: location
 ---
 
-Travel Guide
+Miches is a small fishing town on the Dominican Republic's northeast coast, sitting roughly halfway between Punta Cana and Samaná. It has stayed well outside the resort circuit, which is exactly the point. The beaches here stretch for more than 50 kilometres, bordered by coconut palms, and you will rarely share them with more than a handful of people.
 
-Miches is a small town of fishermen on the eastcoast half way from Punta Cana or Bayahibe to Samana. In the municipal district of El Cedro there are the most attractive places like the Beach of Playa Esmeralda, the
-two lakes Laguna Redonda and Limon, the mountain of Montana Redonda with the majestic panoramic view to Samana, the cordillera oriental ans all the natural splendor from the valley of Miches, the beach of Playa Limon and the
-cascades of the river Cedro. There you can find more than 50 kilometers undeveloped beaches boarded by coconut palms.
-Miches is far away from the common tourist streams. There are only few small Hotels in the center of Miches and the Hotel La Cueva near the beach of Playa Limon. You can go there by pblic bus from Higuey/Otra Banda, from El Seibo or Sabana de la Mar. The local transport is the motoconcho. People are very friendly and there you can eat the best fresh fish and seafood
+The real draws are in the surrounding municipal district of El Cedro. Playa Esmeralda and Playa Limón are long, wild beaches backed by forest. Laguna Redonda and Laguna Limón are two coastal lagoons worth exploring by boat. Montana Redonda rises above the valley and offers a sweeping panoramic view across to Samaná Bay and the Cordillera Oriental. The river Cedro has a series of cascades worth a visit if you can arrange a guide.
 
-**Contributors**
-May 24, 2007
+Getting here takes a bit of effort. Buses run from Higüey via Otra Banda, from El Seibo, and from Sabaná de la Mar. Within town, motorconchos are the way to move. Accommodation is limited to a handful of small hotels in the centre and the Hotel La Cueva near Playa Limón. Eat at the waterfront — the fresh fish and seafood are as good as anywhere in the DR.

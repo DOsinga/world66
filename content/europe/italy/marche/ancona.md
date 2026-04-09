@@ -1,11 +1,14 @@
 ---
-title: "Ancona"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.480119
 longitude: 13.218728
+title: Ancona
+type: location
 ---
 
-**Ancona** is located in central Italy on the Adriatic coast. Its characteristic aspect is the mountain chain which, from the Appennines summits, descends gracefully to the beach. The climate is ideal thanks to the ever present breeze from the sea. In this area we can find urban and medieval buildings, architecture from each epoch, and prestigious art collections. Ancona is a city of art with magnificent views of the beach. Above all, the province of Ancona offers the tourist a stupendous seaside, sandy and rocky from Senigallia to the Conero Riviera kilometers and kilometers of beach for a serene and fun filled holiday. There are many moderately priced efficient and modern facilities Ancona's cuisine consists of simple dishes which entrust their good taste to the ingredients' basicness and freshness more than to their complicated elaboration. 
+Ancona is the capital of the Marche region, a working port city built on a promontory jutting into the Adriatic. It lacks the instant charm of its smaller neighbors, but rewards those who look past the port infrastructure: a fine Romanesque cathedral on the hill, a well-preserved old town, and the Conero Riviera — some of the Adriatic's best coastline — right on its doorstep.
 
+The Cattedrale di San Ciriaco crowns Monte Guasco above the harbor with sweeping views up and down the coast. The old town below has the Piazza del Plebiscito, the Renaissance Loggia dei Mercanti, and the Pinacoteca Civica with works by Titian and Lorenzo Lotto. The port handles ferries to Croatia, Greece, and Turkey, making Ancona a practical transit point as well as a destination.
 
- As far as wines are concerned, there is the famous Verdicchio dei Castelli di Jesi Light in colour, sparkling. and just a little bitter.It is an excellent wine for fish or roast meets. The other vintage wine of the province of Ancona is suggested Rosso Conero.
+The real draw is south of the city: the Parco del Conero, where limestone cliffs drop into clear water at beaches like Portonovo, Sirolo, and Numana. The local wines — Verdicchio dei Castelli di Jesi (crisp and excellent with fish) and Rosso Conero — are among Italy's best-value bottles.

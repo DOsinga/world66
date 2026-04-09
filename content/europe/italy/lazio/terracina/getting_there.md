@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Terracina"
+title: "Getting There"
 type: section
 ---
 
@@ -7,5 +7,3 @@ The Terracina railway station is not on the main Rome-Naples railway line. The n
 
 Terracina can be reached by car from Rome by the old Via Appia, which goes on to Fondi , or by the more modern Via Pontina as far as Latina , and then through a direct road link running along the coast. The Via Flacca connects the city to Sperlonga and Gaeta to the south coast. A fast road link leads to the Frosinone exit of the A1 Rome-Naples highway
 
-**Contributors**
-November 20, 2006

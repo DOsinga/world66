@@ -1,11 +1,12 @@
 ---
-title: "Alkmaar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 52.600854
 longitude: 4.817099
+title: Alkmaar
+type: location
 ---
 
-A visit to a cheese market is a must. Alkmaar, located an hour north of Amsterdam by train where the specialty is Gouda. The market is held on Friday mornings in the summer beginning literally at the crack of dawn—it’s all over by noon. It’s fun to watch: Hand clapping is an instrumental part of the selling process and large purchases are sometimes carried off by porters on ornamental carriers.
+Alkmaar is a handsome old town about an hour north of Amsterdam by train, best known for its cheese market. The market runs on Friday mornings in summer and is a genuine spectacle: porters in white uniforms carry wheels of Gouda on ornamental wooden carriers, buyers and sellers seal deals with ritual hand-clapping, and the whole thing is over by noon. It is touristy, but it is also real — this is how cheese was traded here for centuries.
 
-
- Some guidebooks will suggest you combine Alkmaar with a visit to the Zaanse Schans. If you came to the Netherlands for Windmills you sure could do worse than that, but if you hate tourist traps, give it a miss.
+Beyond the market, Alkmaar has a well-preserved old centre with canals, a fine late-Gothic church (the Grote Kerk), and a good waffle house or two. Some guidebooks suggest combining Alkmaar with a visit to the [Zaanse Schans](/europe/netherlands/dezaanseschans). If you came to the Netherlands for windmills you could do worse, but if you dislike tourist traps, give it a miss.

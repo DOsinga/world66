@@ -1,18 +1,14 @@
 ---
-title: "Nam-Tso Lake"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 30.7165
+longitude: 90.5889
+title: Namtso Lake
 type: location
-latitude: 30.716451
-longitude: 90.588925
 ---
 
-Travel Guide
+Namtso (Nam-tso) is one of the holiest lakes in Tibet and one of the highest large lakes on earth, sitting at 4,718 metres about four hours northwest of Lhasa. The lake stretches over 70 km, its extraordinary turquoise waters bounded by snow peaks to the east and north — a landscape of austere, breathtaking beauty.
 
-Four hours North west of Lhasa is one of the holiest lakes in Tibet,Nam-tso(elev:4718m). The lake is large & said to be over 70kms long& bounded by snow peaks to the east & north.
+Tashi Dor monastery, built into the hillside at the lake's southeastern shore, is surrounded by prayer flags, mani stones, and yak skulls. The black tents of Tibetan nomads can be seen dotted around the shoreline — this is one of the best places in Tibet outside the remote Chang Tang to encounter nomadic herding life. The lake is also excellent for hiking and day walks, and the views from the surrounding hills at sunset, when the water turns an intense blue-green, are among the finest in Tibet.
 
-Its a popular destination with back packers & alot of tour companies offer various kinds of deals heading to the lake. Prices vary but with so much competition its easy enough to get a good deal. Most accomodation is either tented or in yurt style 'rooms' with any number of locals offering food, poney rides etc.
-
-This is a great place for hiking & day walks.
-
-Tashi dor monastry is close by & built into the hillsides dramatically surrounded by prayer flags, mani stones & yak skulls. Nam-tso is also one of the best places in Tibet(outside of the Chang Tang) to see the last of the Tibetan Nomads whose black tents can be seen dotted around the lake.
-
-Its said the Heinrich Harrer(author of Seven years in Tibet) passed over the near by Tangula mountains on his journey to Lhasa. The lake is an extrodianry turqouise colour & best viewed from the nearby hills at sunset.
+Most visitors come on organised trips from Lhasa, with accommodation in yurt-style rooms or tents run by local families. Competition among tour operators is fierce, so it is easy to find a reasonable deal. Heinrich Harrer, author of *Seven Years in Tibet*, is said to have passed over the nearby Tanggula mountains on his journey to Lhasa.

@@ -1,14 +1,12 @@
 ---
-title: "Luhuitou"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 18.227154
 longitude: 109.496275
+title: Luhuitou
+type: location
 ---
 
-A Long time ago, a young hunter pursued a deer and cornered it to a crag, when he aimed at his quarry by the arrow, the deer suddenly transformed into a beautiful maiden. Dropped his bow, the startled hunter instantly fell in love with the doe-eyed beauty. This is the local legend of Luhuitou. Today, you can take a photo with the statue commemorating that magical moment at the gate of Luhuitou Park. More over, there’s a small herd of Hainan deer in the park.
- 
- 
- 
+Luhuitou is a small rocky peninsula on the southern tip of Hainan Island, just outside Sanya. The name means "deer turning its head" and comes from a local Li legend: a young hunter chased a deer to the edge of a cliff, where it transformed into a beautiful woman. A statue of the moment stands at the entrance to Luhuitou Park, which covers the forested hilltop of the peninsula. A small herd of Hainan deer — the island's native species — lives in the park grounds.
 
-
- Luhuitou is located in a craggy peninsula which is a neat fishing port, so the seafood is freshest in your dishes here.
+The peninsula is also a working fishing port, and the seafood here is about as fresh as it gets on Hainan. Simple waterfront restaurants serve the day's catch directly. The hilltop viewpoint offers a wide panorama over Sanya Bay, particularly good at sunset.

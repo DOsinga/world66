@@ -1,20 +1,14 @@
 ---
-title: "Watamu"
-type: location
-latitude: -3.35
+done:
+  location_cleanup: '2026-04-08'
+latitude: -3.3505
 longitude: 40.0166
+title: Watamu
+type: location
 ---
 
-Watamu is 20 km south of Malindi, famous for its Marine National Reserve. The National Reserve boasts a protected coral reef that makes for some the best snorkeling on the coast.
+Watamu is a small beach village on Kenya's coast, about 20 km south of [Malindi](/africa/kenya/thecoast/malindi) and roughly 120 km north of [Mombasa](/africa/kenya/thecoast/mombasa). It sits at the edge of one of East Africa's finest stretches of protected ocean: the Watamu Marine National Reserve, where a pristine coral reef lies just offshore. That reef is the reason most people come here.
 
+The pace of life in Watamu is unhurried. The village itself is small — a handful of streets, local dukas selling basics, and a scattering of guesthouses. The beach, though largely fronted by resort hotels, is beautiful: white sand, warm turquoise water, and the steady arrival of dhows taking visitors out to the reef. Dolphins are regularly spotted in the bay.
 
- 
- To get to Watamu, take a Nissan to Malindi, then tell the tout you want to get off at the Watamu junction. From there, wait for Nissan that takes you the few km into Watamu Village.
-
-
- 
- There’s not much to do in Watamu except to dive or snorkel in the Marine Reserve, or relax. Dhow crews will be glad to take you out to the Reserve for a prearranged price that includes park fees. There’s a nice beach here, but most the space is taken by the big resorts, so access can be a bit difficult.
-
-
- 
- For a nice cheap place to stay, try *Hotel Dante* in Watamu Village. Doubles have fans, mosquito nets, and bathrooms for KSh 500. More expensive, but also a good value is *Peponi Cottages* (#32434), where doubles run KSh 1000. The *Ascot Residence Hotel* is also a good mid-range hotel, offering doubles for KSh 1200 with breakfast. Many of the top-end resorts do not encourage casual bookings, so you may not feel welcome. Try the *Barracuda Inn* (#617074) or *Hemingways* (#32256).
+What makes Watamu special is the combination of protected reef and relative tranquillity compared to busier coastal towns. It is a place for snorkelling, diving, and sea kayaking — not for nightlife or sophisticated dining. Come for the water; everything else is secondary.

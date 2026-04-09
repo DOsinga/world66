@@ -1,14 +1,14 @@
 ---
-title: "Colmar"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 48.0778
+longitude: 7.358
+title: Colmar
 type: location
-latitude: 48.077752
-longitude: 7.357964
 ---
 
-Lying in the heart of the vineyards of the Alsace, Colmar is a city made for strolling. Its famed historic district is now a vast pedestrian zone, with medieval houses boasting carved gables, galleries with beautiful bannisters, and doors adorned with lavish woodwork.
+Colmar sits in the heart of the Alsatian vineyards and is one of the most photogenic small cities in France. Its historic centre is a vast pedestrian zone of medieval half-timbered houses with carved gables, painted shutters, and doors adorned with lavish woodwork — the kind of place that looks almost too perfect to be real.
 
-Things to see include the Heads House (1609), the 15th-C. Customs House, the Dominican Church (with its famous "Virgin in the Rosebush" by Martin Schoengauer).
+The old Quartier des Tanneurs, where hides were once dried on the upper floors, and the Petite Venise canal district are the best areas for wandering. The Unterlinden Museum, housed in a former Dominican convent, is home to the Issenheim Altarpiece by Matthias Grünewald — one of the masterpieces of European art — alongside a strong collection of medieval sculpture and painting. Nearby, the Dominican Church contains Martin Schongauer's delicate "Virgin of the Rose Bush."
 
-The old "Quartier des Tanneurs" (Tanner's District) and the "Petite Venise" (Little Venice) canal district are great places to walk through cobbeld streets past the old houses. The Unterlinden Museum, which houses the prized Issenheim Altarpiece by Mathias Grünewald has a good collection of sculptures and paintings from the Middle Ages.
-
-Colmar is the birthplace of Bartholdi, creator of the Statue of the Liberty, and is home to the Bartholdi Museum.
+Colmar is also the birthplace of Frédéric Auguste Bartholdi, sculptor of the Statue of Liberty, and a small museum in his family home documents the project. The city makes an excellent base for exploring the Alsace Wine Route, which runs through the surrounding villages and vineyards.

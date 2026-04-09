@@ -1,11 +1,14 @@
 ---
-title: "Lancaster"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 54.0485
+longitude: -2.8014
+title: Lancaster
 type: location
-latitude: 54.048822
-longitude: -2.80135
 ---
 
-Lancaster is quite a historic town, its main sight being the Lancaster Castle, one of the longest serving prisons in Europe. The town centre is for the pedestrians and offers, besides shops and a fish market, some interesting sights, such as the Roman Bath-House and the St Peter’s Roman Cathedral. The 200 year old Lancaster canal finds it way throughout the city and offers some excellent waterside pubs.
+Lancaster is a compact, historic city on the River Lune in northwest England, sitting between the Yorkshire Dales to the east and the Lake District to the north. It punches above its weight for history: the castle has loomed over the city since Norman times and only stopped functioning as a working prison in 2011, making it one of the longest-serving in England. The old quarter around the castle and the Priory Church is genuinely handsome, and the city has avoided the worst of modern redevelopment.
 
+The centre is largely pedestrianised and easy to walk. The Roman bathhouse off Church Street is a reminder that this was a significant Roman settlement — the city's name comes from the Latin *Castra* on the Lune. A working fish market, decent independent shops, and the Lancaster Canal threading through make it a pleasant place to spend a day or two.
 
- The area itself boasts many festivals and Lancaster is only one of the many places where the events take place, whether part of the Lancaster university scheme or not. From Lancaster, it’s only a short drive to the famous Lake District or the Yorkshire Dales.
+Lancaster is a useful base. The southern Lake District is 30 minutes away, Morecambe Bay is just to the west, and the Forest of Bowland fills the hills to the east. Lancaster University, a few miles from the centre, gives the city a lively edge that you'd otherwise not expect from a town of this size.

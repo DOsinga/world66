@@ -1,17 +1,8 @@
 ---
 title: "Events"
-type: location
-latitude: 45.738252
-longitude: 13.023364
+type: section
 ---
 
-The third of each month the pottery market takes place in the exposition centre in Corso Garibaldi. In montelupo many factories can be visited by appointment.
+Montelupo Fiorentino's calendar revolves around its ceramic tradition. A pottery market takes place on the third of each month at the exposition centre on Corso Garibaldi, and many of the town's ceramic factories can be visited by appointment.
 
-
- Among the fairs, the most characteristic one is the International Pottery Fair, with exposition and selling of local handicraft, the recreation of historicale events, exhibitions and traditional commemorations.
- 
-
-
- The fair take place every year the last week of June.
-
-During the year there are some other interesting exhibitions, among which the antique trade, the local handicrafts, the flower and biological products markets.
+The highlight of the year is the **International Pottery Fair** in the last week of June, with exhibitions of local handicraft, historical re-enactments and traditional commemorations. Through the rest of the year, smaller markets and exhibitions — antiques, local crafts, flowers and organic produce — keep the town lively.

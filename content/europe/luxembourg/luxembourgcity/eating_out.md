@@ -3,19 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-The people of Luxembourg like going to restaurants, especially for lunch. Taking into account the ethnic diversity of the inhabitants, it is not surprising that you will find a wide range of restaurants : Japanese, Thai, Chinese, Greek, Spanish, Portuguese and much more...Restaurants tend to be rather expensive for visitors of most countries as incomes in this country are very high in comparison to other Member States of the European Union, but generally speaking you get good value for your money. Most of the restaurants offer one or two fixed-price menus (ask for the "plat du jour") under 10 Euro for lunch from Monday to Friday.
-
-## Different kinds of Eating Out
-
-[Grill/Steakhouse](/europe/luxembourg/luxembourgcity/eatingout?subsection=Grill/Steakhouse)
-[Local Dish](/europe/luxembourg/luxembourgcity/eatingout?subsection=Local%20Dish)
-[Vegetarian](/europe/luxembourg/luxembourgcity/eatingout?subsection=Vegetarian)
-[Indian](/europe/luxembourg/luxembourgcity/eatingout?subsection=Indian)
-
-[Japanese](/europe/luxembourg/luxembourgcity/eatingout?subsection=Japanese)
-[Italian](/europe/luxembourg/luxembourgcity/eatingout?subsection=Italian)
-[Thai](/europe/luxembourg/luxembourgcity/eatingout?subsection=Thai)
-
-[Chinese](/europe/luxembourg/luxembourgcity/eatingout?subsection=Chinese)
-[Spanish](/europe/luxembourg/luxembourgcity/eatingout?subsection=Spanish)
-[Greek](/europe/luxembourg/luxembourgcity/eatingout?subsection=Greek)
+Luxembourg City has a restaurant scene that punches well above its size. The expat population — over 70% of residents are non-Luxembourgish — has generated a wide spread of cuisines, from Portuguese and Italian to Japanese and Thai. Prices are high by European standards, but lunch is the exception: most restaurants offer a plat du jour for under €15, which is how locals eat during the week. The Grund and the streets around Place d'Armes have the highest concentration of places.

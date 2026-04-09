@@ -1,21 +1,14 @@
 ---
-title: "Nagahama"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.380862
 longitude: 136.278507
+title: Nagahama
+type: location
 ---
 
-Travel Guide
+**Nagahama** sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with *machiya* (townhouses) and *kura* (storehouses), many now converted into shops, galleries, and cafes.
 
-A small city on the eastern shore of Shiga prefecture's Lake Biwa,
-Nagahama is regionally known for its large stock of traditional
-architecture. Numerous streets to the east of the main train station
-are lined with *machiya* (townhouses) and *kura*
-(warehouses), many of which are now host to shops and crafts stores.
-Nagahama's most famous speciality craft is glassware, a good display of
-which can be found in the Kurokabe Glass Shop (itself a converted,
-historic bank). A somewhat unremarkable reconstruction of the city's
-16th-century castle sits to the west of the train station, on a hill
-overlooking Biwa-ko. The original castle was built in 1574, only to be
-disassembled in 1615 to provide materials for neighboring Hikone-jo's
-construction.
+The city's signature craft is glassware. The Kurokabe Glass Shop, housed in a handsome converted bank building, is the centrepiece of a whole district of glass studios and boutiques. It is worth an afternoon of browsing.
+
+West of the station, a reconstructed castle perches on a hill overlooking the lake. The original was built in 1574 by Toyotomi Hideyoshi — his first castle — only to be dismantled in 1615 so its materials could be used in the construction of neighbouring Hikone Castle. The reconstruction is modest, but the views across Biwa-ko are good.

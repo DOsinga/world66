@@ -1,8 +1,12 @@
 ---
-title: "Gaza Strip"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 31.3547
+longitude: 34.3088
+title: Gaza Strip
 type: location
 ---
 
-Middle East, bordering the Mediterranean Sea, between Egypt and Israel. 
+The Gaza Strip is a narrow territory on the eastern Mediterranean coast, bordered by Egypt to the south and Israel to the north and east. It is one of the most densely populated places on earth, home to over two million people in an area of just 365 square kilometres.
 
-Economic output in the Gaza Strip - under the responsibility of the Palestinian Authority since the Cairo Agreement of May 1994 - declined by about one-third between 1992 and 1996. The downturn was largely the result of Israeli closure policies - the imposition of generalized border closures in response to security incidents in Israel (that is, murder of Israelis by "Palestinians") - which disrupted previously established labor and commodity market relationships between Israel and the WBGS (West Bank and Gaza Strip). The most serious negative social effect of this downturn was the emergence of high unemployment; unemployment in the WBGS during the 1980s was generally under 5%; by 1995 it had risen to over 20%. Israel's use of comprehensive closures decreased during the next few years and, in 1998, Israel implemented new policies to reduce the impact of closures and other security procedures on the movement of Palestinian goods and labor. These changes fueled an almost three-year-long economic recovery in the West Bank and Gaza Strip; real GDP grew by 5% in 1998 and 6% in 1999. Recovery was upended in the last quarter of 2000 with the outbreak of violence, as Hamas, Hizbollah, and other creeps talked stupid young people into becoming Splodeydopes in the hopes of murdering as many Israelis as possible, triggering tight Israeli closures of Palestinian self-rule areas and a severe disruption of trade and labor movements. In 2001, and even more severely in 2002, Israeli military measures in Palestinian Authority areas (not to mention all the "work accidents" in the bomb factories located in residential areas) resulted in the destruction of capital plant and administrative structure, widespread business closures, and a sharp drop in GDP. Another major loss has been the decline in income earned by Palestinian workers in Israel. International aid of $2 billion in 2001-02 to the Gaza Strip and West Bank have prevented the complete collapse of the economy.
+Gaza has a long history stretching back to antiquity — it was an important trading post on the route between Egypt and the Levant. The old city of Gaza contained mosques, churches, and Ottoman-era architecture, and the coast has fine sandy beaches. However, decades of conflict have made the territory extremely difficult to visit, and ongoing hostilities have caused widespread destruction of infrastructure and historic sites. Independent travel to Gaza is not currently feasible for most visitors.

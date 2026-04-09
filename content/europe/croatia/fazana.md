@@ -1,41 +1,14 @@
 ---
-title: "Fazana"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.927333
 longitude: 13.805077
+title: Fazana
+type: location
 ---
 
-Fazana, a town, small port and fishermen's centre in the south-western
-part of the western Istrian coast in the Fazana Strait, 8 km northwest
-of Pula, population 2,716. It is located on a low part of the coast,
-well protected from the sea by Brijuni Islands.
+Fazana is a small fishing town on the southwestern Istrian coast, 8 kilometres northwest of [Pula](/europe/croatia/pula). It sits on a low stretch of shoreline sheltered from the open sea by the Brijuni Islands, which are visible just offshore — and Fazana is the departure point for boats to the Brijuni National Park.
 
-The town dates from the ancient Roman
-times when its name was Vasanium and was well-known for manufacturing
-amphorae, vases and tiles.
+The town dates from Roman times, when it was known as Vasanium and produced amphorae, vases and tiles. The old centre is compact and medieval in character, with narrow stone-paved streets, close-built houses and picturesque squares. The parish church of SS. Cosmas and Damian dates from the 15th century, and three smaller churches — St. Mary of Mount Carmel (9th century), St. John's (16th century) and St. Eliseus (6th century) — are scattered through the town.
 
-Many different flags have sailed in the
-Fažana canal throughout the centuries the cultures succeeding one
-another – the Romans, Byzantines, Venetians, Austro-Hungarians – met
-and fought in the area leaving many traces behind. The old town centre
-dating back from medieval times is dominated by the parish church of
-SS. Cosmas and Damian (XV century). Picturesque squares, old
-close-built houses, narrow stone paved streets as well as three
-churches (St. Mary of Mount Carmel – IX century, St. John's XVI cent.,
-St. Eliseus – VI cent.) are only a part of Fažana's cultural heritage.
-The town port and squares are nowdays a beautiful stage hosting
-numerous cultural and music events that take places during the
-summer.Except being a fishermen village, Fažana has always been well
-known for its excellent wine and olive oil. Fish and meat gastronomic
-deliciousness, authentic dishes as well as quality wine offered by
-local restaurants can surely meet the requirements of any gourmand.
-
-Beautiful
-beaches, clear sea, Mediterranean climate and lush vegetation have
-contributed to the development of tourism in Fažana, Valbandon and
-Šurida whose inhabitants have always been known for their hospitality.
-The guests who prefer camping are invited to spend their holidays in a
-high-quality campings, situated in the shade of pine trees.
-
-**Contributors**
-October 01, 2005
+Fazana has always been known for its food. The fishing tradition is alive and well, and local restaurants serve fresh fish alongside excellent Istrian wine and olive oil. The harbour and town squares host cultural events and music through the summer months. Beaches are clean, the sea is clear, and the pace is unhurried — this is Istria without the crowds of [Rovinj](/europe/croatia/rovinj) or Pula.

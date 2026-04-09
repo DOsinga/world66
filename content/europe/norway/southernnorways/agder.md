@@ -1,12 +1,16 @@
 ---
-title: "Agder"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 58.719442
+longitude: 8.034963
+title: Agder
 type: location
-latitude: 58.7194
-longitude: 8.0350
 ---
 
-Agder comprises two counties — Aust-Agder (East) and Vest-Agder (West) — and is the heart of Sorlandet. Forest walks, sandy beaches, small wooden towns, sheltered bays, and islands make it a natural holiday region.
+Agder is the closest Norway comes to a riviera. Stretching along the southern coast, it comprises two former counties — Aust-Agder and Vest-Agder — and offers sheltered bays, rocky islands, small wooden towns and some of the warmest summer weather in the country.
 
-Using [Kristiansand](/europe/norway/kristiansand) as a base, the 210-kilometre drive north through Setesdal to Hovden is one of the best routes in southern Norway, passing dramatic scenery, local folk traditions, and wildlife on the way to the fjords of western Norway. Highlights along the road include the Setesdalbanen preserved steam railway, a trip on the wood-burning steamboat on Byglandsfjord, the Setesdal Mineral Park, white-water rafting at Syrtveitfossen, and the Setesdal Folk Museum. Europe's most southerly herd of wild reindeer can be spotted in the Setesdal valley.
+The coast is the main draw. The small white-painted towns of Grimstad, Lillesand and Mandal have narrow streets, wooden architecture and harbours full of pleasure boats. [Kristiansand](/europe/norway/southernnorways/kristiansand), the regional capital, is the biggest city and a good base. Risor, further east, is one of the prettiest harbour towns in Norway.
 
-Further on, the Nomeland route leads to the dramatic Lysefjord and the famous Preikestolen (Pulpit Rock). At the top of Setesdal, Hovden is southern Norway's largest winter resort, with skiing, an indoor-outdoor heated water park, and well-marked hiking trails for summer.
+Inland, the Setesdal valley runs 210 kilometres north from Kristiansand to Hovden, climbing from gentle farmland into wild mountain country. Along the way you will find the Setesdalbanen preserved steam railway, the Byglandsfjord (where the wood-burning steamboat Bjoren still runs), the Setesdal Mineral Park, whitewater rafting at Syrtveitfossen, and Sylvartun with its famous silversmiths. The valley is home to Europe's most southerly herd of wild reindeer.
+
+At the top of the valley, Hovden is southern Norway's largest winter sports resort, with downhill skiing, cross-country trails and a popular indoor-outdoor water park. In summer the area is ideal for hiking, with well-marked trails running from cabin to cabin through the mountains.

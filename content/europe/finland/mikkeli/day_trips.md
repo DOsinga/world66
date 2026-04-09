@@ -3,8 +3,4 @@ title: "Day Trips"
 type: section
 ---
 
-**all**
-
-**Visulahti Travel Center**
-
-Visulahdenkatu 1, tel: (015) 18 281. Just a few hours' drive from Mikkeli and offering everything ranging from swimming pools, a childrens' farm and picknick spots to other sorts of leisure activities.
+The lake district around Mikkeli is ideal for day trips by car or bicycle. Visulahti Travel Centre (Visulahdenkatu 1) is a family-oriented leisure park with swimming pools, a children's farm, and picnic areas.

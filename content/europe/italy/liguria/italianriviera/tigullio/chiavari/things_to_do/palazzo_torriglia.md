@@ -1,9 +1,9 @@
 ---
-category: Museum
-latitude: 44.3165
-longitude: 9.3235
-title: Palazzo Torriglia
+title: "Palazzo Torriglia (Pinacoteca)"
 type: poi
+category: Museum
+latitude: 44.3168
+longitude: 9.3232
 ---
 
-A seventeenth-century palazzo that now houses an important picture gallery with works from the Ligurian school. The building is one of the finest examples of aristocratic architecture in Chiavari's historic centre.
+The Maschio-Torriglia Palace is a seventeenth-century palazzo that houses Chiavari's main picture gallery, with a collection of Ligurian paintings from the medieval period through the Baroque. The building itself is worth visiting for its courtyard and frescoed rooms.

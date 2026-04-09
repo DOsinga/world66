@@ -1,16 +1,12 @@
 ---
-title: "Yamoussoukro"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 6.82
+longitude: -5.2776
+title: Yamoussoukro
 type: location
-latitude: 6.820007
-longitude: -5.277603
 ---
 
-In 1983 Yamoussoukro became the official capital of Cote d'Ivoir. But some twenty years later it is still capital only in name: [Abidjan](/africa/ivorycoast/abidjan) is where everything happens. 
+Yamoussoukro is one of Africa's great political curiosities — a city built almost from scratch to satisfy the ego of a president, then largely abandoned by the government it was meant to house. In 1983, President Félix Houphouët-Boigny declared his home village the official capital of Côte d'Ivoire, and poured national oil revenues into transforming it. Today you find eight-lane highways with almost no cars on them, grand government buildings that stand half-empty, and at the centre of it all, the largest church in the world.
 
-From 1960 onward the then president Felix Houpouet Boigny starting spending lots of money to make his native village into a big city. The result is that you now find a small city with some 100,000 people and loads of huge governement buildings, a bigger-than-life cathedral, a presidential palace and eight-lane highways. 
-
-The main attraction for visitors is the **Basilique de Notre Dame de la Paix**, a copy of the St. Peter's in [Rome](/europe/italy/lazio/rome) . The stain-glass windows are truly impressive. 
-
-*(one wonders how such a big building can be afforded by such a poor country.)* 
-
-Houpouets **Palace** is also worth a visit. You cannot visit nut you can witness the moment when the crocodiles in the pond just in front of the palace are fed.
+[Abidjan](/africa/ivorycoast/abidjan) remains where Ivorian power actually lives. But Yamoussoukro — with its surreal scale, its crocodiles, and its improbable basilica — is worth a visit precisely because of that absurdity. The city has around 300,000 people and a calm, unhurried feel that its oversized infrastructure never quite disturbs.

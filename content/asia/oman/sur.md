@@ -1,18 +1,14 @@
 ---
-title: "Sur"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 22.5694
+longitude: 59.5297
+title: Sur
 type: location
-latitude: 22.569426
-longitude: 59.52972
 ---
 
-**Sur** is on the edge of the world. A seaside town 350kms approximatley from the capital** Muscat**. Before you arrive in **Sur **driving from **Muscat **be sure to go to the incredible **Wadi Bani Khalid**. You will need a good four wheel drive, a bathing suit, and a solid packed lunch to make a day of it. 
+Sur is one of Oman's oldest port towns, sitting on a sheltered lagoon where the Gulf of Oman meets the Arabian Sea, about 350 km south-east of Muscat. For centuries its fortune was built on the sea — Sur dhows sailed as far as East Africa, India, and the Persian Gulf, and the town still maintains one of the last working traditional boat-building yards in the Arab world. Watching a craftsman shape a wooden hull using techniques unchanged for generations is reason enough to come.
 
-Follow the road signs, and be alert to traffic and smaller route signs. **Sur **is an old port town, with a few old forts, Al Alijah, ... and well, I will leave the historic information to someone with the facts at their finger tips. Once in **Sur**, go to the market for arabic food, or a curry and juice. At night catch a film on the seaside screen, playing DVDs projected on a large white wooden manmade *screen*. 
+The town itself is quiet and lived-in, without the polish of Muscat. There are a couple of old forts watching over the lagoon, a lively market selling Arabic food and curries, and an outdoor cinema where films are projected on a large screen by the seafront on summer evenings. It has the feel of a place that gets on with itself and doesn't especially need your approval.
 
-There are a two hotels to choose from but I recommend camping. It is completely safe, and your only worries will be a fresh water shower. Bring a portable solar shower. A large plastic container you can hang from a tree. Don`t worry it will heat up all on its own. You will have a harder time keeping things cool. Eat veggie for the trip if you are camping much easier. 
-
-Sur is well located with the Wadis and Turtle Beach (RusAlHhad) being so nearby. 
-
-A great day trip is to the nearby Wadis, drive towards Wadi Tiwi, and ask directions before you get on the unpaved roads. Camp down by White Sands beach, and swim in the smaller nearby Wadis. Again, bring food and lots of liquids. 
-
-Back track and head to Ras-Al-Hhad, see endangered green back sea turtles laying eggs. Please respect the environment and all species. Tread lightly.
+Sur's real draw is what surrounds it. Wadi Bani Khalid, about 70 km to the north-west, is one of the most beautiful wadis in Oman — deep, clear turquoise pools fed by year-round springs, surrounded by date palms and dramatic limestone walls. To the south, Ras Al-Hadd and Ras Al-Jinz are among the most important nesting sites for endangered green sea turtles in the Indian Ocean. Watching turtles come ashore at night to lay their eggs is something you won't forget.

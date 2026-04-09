@@ -1,12 +1,14 @@
 ---
-title: "Cordoba"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -31.416687
 longitude: -64.183419
+title: Cordoba
+type: location
 ---
 
-Ask any Argentinian about their favorite part of the country and many will respond: the province of Cordoba. This region, in the centre of the country and about 800 km from the capital Buenos Aires, is known to be a hot spot for those who want to enjoy pure, rough nature. Mountains, rivers, lakes, forest, you can find everything in Cordoba. Surrounded by nature you will also find famous villages like for example Villa Carlos Paz, Mina Clavero, Villa General Belgrano and San Marcos Sierra.
+Ask any Argentinian about their favourite part of the country and many will answer: the province of Córdoba. About 800 km northwest of Buenos Aires, this region is where porteños come to escape the capital and breathe mountain air. The Sierras de Córdoba — rolling, scrubby ranges that rarely top 2,800 metres — are laced with rivers, lakes, and small valleys, and the villages tucked into them have become beloved holiday destinations: Villa Carlos Paz on the lake, Mina Clavero with its river pools, the German-flavoured Villa General Belgrano, and the hippie haven of San Marcos Sierra.
 
-Besides, the capital of the province, also named Cordoba, is an interesting town full of movement.
+The provincial capital, also called Córdoba, is Argentina's second city and a lively university town. Its colonial centre has Jesuit churches and buildings that are a UNESCO World Heritage Site, and the student population keeps the bars and restaurants busy year-round. It is also the main transport hub for reaching the sierra villages.
 
-Minor corrections on 25 February 05
+Getting around the province is straightforward. Buses fan out from the main terminal in the capital to most villages. Renting a car opens up more remote corners, though Argentine driving standards take some getting used to. Taxis and remises (private cars with drivers) are inexpensive by North American or European standards and a good option for day trips.

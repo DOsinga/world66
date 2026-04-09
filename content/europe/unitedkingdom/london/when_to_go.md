@@ -1,18 +1,14 @@
 ---
-title: "When to Go in London"
+title: "When to Go"
 type: section
 ---
 
-One of the world’s most visited cities, London, England, is awash with tourists all year round. The city’s many attractions are worth a visit at any time of year, and the changeable climate means that visitors should come prepared for all types of weather. During the winter months of December, January and February, chilly weather is pretty much guaranteed, but visitors are more likely to see gray skies and drizzly rain than heavy snowfall. Summers in the city can be very hot and sticky, but umbrellas should be kept ready in case of sudden downpours. Spring and autumn are pleasant times to visit London, with plenty of crisp clear days and fewer tourists than during the key holiday seasons.
+London is worth visiting at any time of year, but when you go shapes the experience considerably. The climate is changeable and rarely extreme — pack for rain regardless of the season.
 
-**Summer in the City**
+**Spring and autumn** are the sweet spots: May, June, September, and October bring crisp days, manageable crowds, and the city’s parks at their best. May is particularly good — long evenings, good light, and the tourist hordes haven’t quite arrived yet.
 
-The crowds that swarm London during the summer high season can make the city feel stifling on hot, humid summer days. The months of July and August see the city at both its busiest and hottest, and although temperatures rarely exceed 30°, it can feel hotter when trying to navigate the busy Tube (underground train) system. The summer months offer the best chance to bask in sunshine in London, but May and June tend to be less crowded and slightly fresher than July and August. Visitors can expect long lines and higher accommodation prices during summer, but the city’s parks, gardens and café bars are wonderful places to be when the sun beats down.
-**
-Warming Winter Treats**
+**Summer** (July and August) is busy, hot in patches, and the Tube becomes genuinely unpleasant on warm days. Prices are higher, queues are longer, but the outdoor terraces, parks, and open-air events make it feel festive. If you’re coming in summer, book ahead for any major attraction or theatre show.
 
-London hits another tourist high season in December, but this is one of the best places in the world for Christmas shopping. The switching on of London’s impressive Christmas lights displays, which takes place in early November, has become a major event for the city, with crowds gathering to watch celebrities switch on the lights at free ceremonies across the West End. The city’s pubs and bars are great places to warm up with a drink and a bite to eat during the winter chill, and London’s buzzing nightlife makes this a key city for partiers to celebrate New Year.
+**Winter** is underrated. December is packed with Christmas markets, spectacular light displays along Oxford Street and Carnaby Street, and a festive energy that the city does well. January and February are quiet and cheap — the museums are still free, the restaurants are still excellent, and you’ll have the galleries almost to yourself. Wrap up; it’s cold and damp, not Arctic.
 
-**Bargain Breaks**
-
-Visitors looking for a cheap break to London would be wise to visit London during the low seasons of November to December, and from January to March. Prices plummet in line with the temperatures, and London’s many excellent galleries, museums and shows, together with a nightlife and dining scene that excels whatever the weather, rain needn’t stop play during an off-season visit to London.
+**New Year’s Eve** draws enormous crowds to the Thames for fireworks — ticketed in advance, and the transport system is overwhelmed. Unless you plan specifically around it, avoid being near the river that night.

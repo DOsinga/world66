@@ -1,5 +1,9 @@
 ---
-title: "Limon"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 9.9907
+longitude: -83.036
+title: Limon
 type: location
 ---
 

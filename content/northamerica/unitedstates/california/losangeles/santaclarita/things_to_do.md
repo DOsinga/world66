@@ -1,26 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Mountasia Family Fun Center**
-
-21516 Golden Triangle Rd. 91350 661/253-4386 
-
-**Placerita Canyon Nature Center**
-
-19152 Placerita Cyn. Rd. 91321 661/259-7721 
-
-**Six Flags Magic Mountain/Six Flags Hurricane Harbor**
-
-Located minutes north of Hollywood. Features the world's most thrilling rides plus exciting shows and family adventures. Next door, Hurricane Harbor water park is open May-Sept. Separate admission required. 26101 Magic Mountain Pkwy. 91355 805/255-4100 Fax: 805/255-4149 www.sixflags.com Wheelchai [more..](/northamerica/unitedstates/california/losangeles/santaclarita/thingstodo/sixflagsmagicmountainsixflagshurricaneharbor)
-
-**Water Conservatory Garden & Learning Center**
-
-27234 Bouquet Cyn. Rd. 91350 661/297-1600 
-
-**William S. Hart Park & Museum**
-
-24151 San Fernando Rd. 91321 805/259-0855
+Santa Clarita's biggest draw is unambiguously Six Flags Magic Mountain, one of the world's premier thrill parks. Beyond the coasters, the valley has some genuinely good nature and history — Placerita Canyon preserves the site of California's first gold discovery, and the William S. Hart estate is one of the most evocative remnants of the silent film era.

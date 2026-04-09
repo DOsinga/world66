@@ -1,8 +1,10 @@
 ---
-title: "Durham"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 54.666667
 longitude: -1.75
+title: Durham
+type: location
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to
@@ -25,5 +27,3 @@ train station - either on foot (simply follow your eye - you cannot
 miss the cathedral on the skyline!) or, if you using a shuttle
 bus (No 40) that goes direct from the station to Palace Green where the
 cathedral and castle are located.
-
-Minor corrections on 13 March 05

@@ -1,8 +1,14 @@
 ---
-title: "Embu"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -0.5359
+longitude: 37.6653
+title: Embu
 type: location
-latitude: -0.535948
-longitude: 37.665288
 ---
 
-Embu is located on the southeastern slopes of Mt Kenya, but is actually the provincial headquarters of Eastern Province. It’s home to the Embu people, close relatives of the Kikuyu and Meru. There’s little reason for tourists to stay here, unless you’re on your way to Chogoria to climb the mountain. If you’re looking for a good meal while you’re in town, the *Arkland Cafe* near the roundabout has excellent Kenyan food. If you stay in town, try the *Valley View Hotel* which has singles/doubles for KSh 400/700 including breakfast. If you have more cash to spend, stay at the *Izaak Walton Inn* north of town. It’s a very nice places with singles/doubles costing KSh 1200/1500.
+Embu sits on the southeastern slopes of Mount Kenya, where the mountain's forest gives way to fertile farmland and the air carries a cool freshness even at this elevation. It serves as the headquarters of Embu County and is the traditional home of the Embu people, close cultural relatives of the Kikuyu and Meru who share a common ancestry rooted in the slopes of Kirinyaga — their name for Mount Kenya.
+
+The town itself is a working market centre rather than a tourist destination, but it makes a practical overnight stop for those heading to [Chogoria](/africa/kenya/centralhighlands/meru), the village that serves as the most scenic approach to Mount Kenya's peaks. From Embu, the Chogoria route leads up through dense moorland to the mountain's famous lakes and glaciers.
+
+Beyond the mountain connection, the area around Embu rewards those willing to venture off the main road. The Tana River has its headwaters here, and the landscapes of the lower slopes — a patchwork of tea, coffee, and subsistence farms — are among the most visually striking in central Kenya.

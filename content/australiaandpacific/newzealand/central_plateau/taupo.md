@@ -7,12 +7,10 @@ title: Taupo
 type: location
 ---
 
-Located about halfway between [Auckland](/australiaandpacific/newzealand/auckland) and [Wellington](/australiaandpacific/newzealand/wellington), Taupo is a lakeside town that punches well above its weight for things to do. It sits on the shore of Lake Taupo, the largest lake in New Zealand and the water-filled caldera of a dormant supervolcano.
+Located about halfway between [Auckland](/australiaandpacific/newzealand/auckland) and [Wellington](/australiaandpacific/newzealand/wellington), Taupo is a lakeside town that serves as the main base for exploring the Central Plateau. Lake Taupo itself — 616 square kilometres of water filling the caldera of a dormant supervolcano — is the largest lake in New Zealand and one of the largest freshwater volcanic lakes in the world.
 
-The lake covers 616 square kilometres. Volcanic activity has occurred at this site for at least 65,000 years, but the lake in its present form was created by a massive eruption 26,500 years ago that ejected 800 cubic kilometres of material. A comparatively small eruption in 181 CE was likely visible as far away as China and Rome. Scientists estimate significant eruptions may occur roughly once every 5,000 years, and the area is intensively monitored. The volcano shows no signs of becoming active.
+The lake was created by a massive eruption around 26,500 years ago, and a comparatively smaller eruption in 181 CE was recorded as far away as China and Rome. The volcano is intensively monitored and shows no signs of activity, but its presence gives the whole area a dramatic edge.
 
-Some of the world's best rainbow and brown trout fishing can be found on the lake and its surrounding streams year-round. There is also a stunning view of Mt Tongariro to the south. Beyond fishing, the lake offers skydiving, seaplane rides, waterskiing, and sailing. Take the opportunity to visit a traditional Maori marae, and do not miss the Honey Hive near Huka Falls.
+Taupo is famous for its trout fishing — some of the world's best rainbow and brown trout fishing can be found on the lake and its surrounding streams year-round. Beyond fishing, the lake offers skydiving, waterskiing, sailing, and scenic flights. Huka Falls, at the headwaters of the Waikato River just north of town, is New Zealand's most visited natural attraction — over 220,000 litres of water tumble over the cliff face every second, creating a wall of turquoise foam. Nearby, the Craters of the Moon geothermal area and the Wairakei geothermal power station are both worth a visit.
 
-The Huka Falls, at the headwaters of the Waikato River, is New Zealand's most visited natural attraction. More than 220,000 litres of water tumble over the cliff face every second. The falls are in Wairakei Tourist Park, a short drive north of Taupo. Nearby, a geothermal power station is a reminder that the earth here is very much alive.
-
-Over 70 percent of New Zealand's electricity comes from hydroelectric dams. While most are on the South Island, the Waikato River is also heavily dammed, making the region a fascinating study in how New Zealand harnesses its natural energy.
+The town itself is relaxed and well set up for tourists, with good restaurants, bars, and places to stay at all price levels. Views of the Tongariro volcanic peaks to the south are a constant backdrop.

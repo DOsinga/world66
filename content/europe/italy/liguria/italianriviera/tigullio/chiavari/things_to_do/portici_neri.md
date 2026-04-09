@@ -1,9 +1,9 @@
 ---
-category: Architecture
-latitude: 44.3162
-longitude: 9.3225
-title: Portici Neri
+title: "Portici Neri"
 type: poi
+category: Architecture
+latitude: 44.3163
+longitude: 9.3230
 ---
 
-One of the oldest surviving buildings in Chiavari, this thirteenth-century palace stands in the Fenice square. The "black arcades" (portici neri) that give it its name are among the earliest examples of the colonnaded streetscape that defines the historic centre.
+The Portici Neri (Black Arcades) on the Fenice square date from the thirteenth century and are among the oldest surviving architectural structures in Chiavari. The dark stone columns give the arcade its name and its slightly austere character — a medieval remnant embedded in the otherwise Baroque streetscape.

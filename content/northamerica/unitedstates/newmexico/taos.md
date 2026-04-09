@@ -1,8 +1,10 @@
 ---
-title: 'Taos'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.4072
 longitude: -105.5733
+title: Taos
+type: location
 ---
 
 For a town in the middle of nowhere, Taos has a lot going for it. From the numerous art galleries and shops in town to the magnificent ancient dwellings of Taos Pueblo, Taos has plenty to offer for nearly every lifestyle. 

@@ -1,8 +1,10 @@
 ---
-title: "Menton"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 43.775349
 longitude: 7.502921
+title: Menton
+type: location
 ---
 
 Menton sits on the last stretch of French coastline before [Italy](/europe/italy), squeezed between the mountains and the sea with [Monaco](/europe/monaco) just to the west. It has the mildest climate on the Riviera, which is why it became a winter retreat for European royalty and aristocracy in the 19th century — Queen Victoria, the Tsar, and the man who built the Suez Canal all kept houses here.

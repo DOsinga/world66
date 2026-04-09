@@ -1,17 +1,14 @@
 ---
-title: "Lake Bracciano"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.121058
 longitude: 12.230275
+title: Lake Bracciano
+type: location
 ---
 
-Visiting Rome but all of a sudden longing for a place to swim? It might be a good idea to take the train and go to Lake Bracciano. Braccanio is one of the eight largest lakes in Italy and fills one of the parts of the old Sabatina volcano. It serves as a reserve water reservoir for the city of Rome, hence why you’re not allowed on the water with motor boats. Any other kind of activity relating to water can be exercised.
+Visiting [Rome](/europe/italy/lazio/rome) and suddenly longing for a swim? Lake Bracciano is an easy escape. About 40 kilometres northwest of the capital, this large volcanic lake fills part of the old Sabatina caldera. It serves as a reserve water supply for Rome, which means motor boats are banned — the water is clean and the shores are peaceful.
 
+The lake is dominated by the Castello Orsini-Odescalchi, a 15th-century fortress rising above the town of Bracciano with impressive views over the water. Trevignano Romano, a village perched on cliffs on the northern shore, has a pleasant medieval quarter, an archaeological museum with Etruscan objects, and a string of small cafes and restaurants.
 
- The lake is dominated by the Orsini Odescalchi castle, dating from the 12th century. The only way to reach the lake is by following the winding road all the way down to the waterside.
-
-
- Trevigna Rome is a nice village located on cliffs on the Braccanio shore. The medieval village quarter is a nice area to stroll around and the Archeological museum has an interesting collection on Etruscan objects. There are plenty of little cafes and restaurants where you can have a glass of wine and eat something afterwards. The hills of Tolfa are also a popular daytrip destination.
-
-
- Because the lake is becoming increasingly popular both with locals and travellers, there’ll plenty of options for accommodation. Bring your own tent and spend some time at one of the camping sites or rent a white villa with a view of the lake.
+Swimming, sailing, kayaking, and windsurfing are all popular on the lake. The surrounding hills are green and quiet, and the area is increasingly popular both with Romans looking for a weekend escape and with travellers wanting a break from the city.

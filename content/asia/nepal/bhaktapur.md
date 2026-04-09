@@ -1,16 +1,12 @@
 ---
-title: "Bhaktapur"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 27.671113
 longitude: 85.426168
+title: Bhaktapur
+type: location
 ---
 
-Bhaktapur is one of the three major cities in the Kathmandu Valley. It can be easily reached by bus from Kathmandu or when you feel like it, by bike (be aware that especially at the beginning of the track, you'll be sharing the road with heavy trucks and some crazy drivers). But you'll be rewarded. As you're getting closer to Bhaktapur, the air becomes fresher again. Paddies are altered with trees and little cottages and there it lies, the city of Devotees.
+Bhaktapur is one of the three royal cities in the Kathmandu Valley, and arguably the most atmospheric. The old centre is closed to motor vehicles, which gives its squares and alleys a calm that Kathmandu itself has long since lost. Known as the City of Devotees, Bhaktapur was the valley's capital before power shifted to Kathmandu in the early 17th century, and its Durbar Square still bristles with multi-roofed Newari temples, palace buildings, and the famous Golden Gate.
 
-
- 
- Bhaktapur used to be the capital of the valley before Kathmandu got the honours at the beginning of the 17th century. At one of the main squares, the multi-roofed temple will undoubtedly make a lasting impression. Due to their enormous size and impressive carvings, the temples in Newari style rule the square. One of the floors of one of the two former temples is turned partly into a restaurant. At the entrance, vendors sell embroideries, bangles and pottery (Bhaktapur is the pottery centre of Katmandu Valley).
-
-
- 
- One of the side alleys of the square leads to Bhaktapur Durbar Square. The square offers an impressive sight of a mixture of space, temples and the famous Window Palace with its Golden Gate. It used to be the case that visitors to this square had to pay an entrance fee.
+You can reach Bhaktapur easily by bus from Kathmandu, or by bicycle if you do not mind sharing the road with trucks for the first stretch. The air freshens as you leave the capital behind, and rice paddies and trees begin to replace the urban sprawl. The town is also the pottery centre of the Kathmandu Valley — at Potter's Square you can watch potters at their wheels making bowls, jugs, and elaborate figurines.

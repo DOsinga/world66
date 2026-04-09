@@ -1,22 +1,16 @@
 ---
-title: "ZVORNIK"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.3864
+longitude: 19.1025
+title: Zvornik
 type: location
 ---
 
-Zvornik is a city on the Drina river in northeastern Bosnia and Herzegovina, located southwest of Tuzla and north of Srebrenica. It is administratively part of Republika Srpska. The town Mali Zvornik lies directly across the river in Serbia, and not far north is Loznica.
+Zvornik is a city on the Drina river in northeastern [Bosnia and Herzegovina](/europe/bosniaandherzegovina), on the border with [Serbia](/europe/serbia). The town of Mali Zvornik lies directly across the river on the Serbian side. Zvornik is administratively part of Republika Srpska and sits on the main road between Sarajevo and Belgrade.
 
-Before the war in Bosnia, the Zvornik municipality was one of the largest in the country with a population of 81,111. The city of Zvornik itself had 14,852 inhabitants.
+First mentioned in 1410 as Zvonik ("bell tower"), Zvornik's position on the Drina made it an important trade link between Bosnia and the east for centuries. Under Ottoman rule it was the capital of the Zvornik sanjak, one of the empire's key administrative regions in the area.
 
-History
+The city's recent history is painful. Before the Bosnian war, the municipality had a Bosniak majority. In 1992, the Bosniak population was driven out through ethnic cleansing, with mass killings in the city and surrounding villages. The demographic transformation was total — the mosques and much of the Bosniak cultural presence were destroyed. Since the war, there has been a gradual effort to support the return of refugees, though the city today remains overwhelmingly Serb.
 
-Zvornik is one of the oldest cities in Bosnia, being first mentioned in the year 1410, although it was known as Zvonik ("bell tower") at that time. The town's geographic location has made it an important trade link between Bosnia and the east. For instance, the main road connecting Sarajevo and Belgrade runs through the city. Zvornik also has the distinction of being the only city in Bosnia that directly lies on the border to Serbia.
-
-During the Ottoman occupation, Zvornik was the capital of the Zvornik sanjak (an administrative region), which was a result of the city's crucial role in the economy and the strategic location.
-
-Demographics
-
-The city's demographic situation has changed drastically in the last 15 years. Up until 1992, the municipality had a clear Bosniak majority and a Serb minority. There were 59.43% Bosniaks, 38.02% Serbs, 1.51% Yugoslavs, 0.15% Croats and 0.89% others.
-
-But, through ethnic cleansing practiced widely in the Bosnian war, Zvornik's Bosniak population was forced to flee. In addition, there were numerous instances of mass killings in Zvornik and the surrounding villages. It is known that the suburb of Karakaj was the place of concentration camps where hundreds of Bosniaks were brutally murdered.
-
-After the war, the town's population consisted of only Serbs with no trace of the long Bosniak tradition, such as mosques. With the help of the international community, there has been an effort to return refugees
+Above the city, the ruins of Zvornik Fortress (a medieval fort later expanded by the Ottomans) offer views over the Drina valley. The fortress is freely accessible and worth the short climb.

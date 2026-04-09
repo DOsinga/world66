@@ -3,20 +3,7 @@ title: "Eating Out"
 type: section
 ---
 
-Not a large selection of restaurants, but the quality of some of them might suprise you. 
+Not a large selection of restaurants in Brest, but a few are genuinely good and the quality may surprise you.
 
-**Restaurants**
-
-**Zio Pepe **
-
-Tasty pizza and pasta, also open almost all night. 
-
-address: Shevchenko 4
-
-**India**
-
-I don't know if the food is authentic Indian cuisine, but it does taste good. The people are friendly and the service seems great compared to other Belarusian restaurants.
-
-address: Gogolya 29,
-
-tel: 26 63 25
+- **Zio Pepe** — Tasty pizza and pasta, open late. Shevchenko 4.
+- **India** — The food is more local than authentic Indian cuisine, but it tastes good and the service is friendly by local standards. Gogolya 29, tel: 26 63 25.

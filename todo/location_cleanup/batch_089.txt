@@ -43,5 +43,4 @@ europe/channelislands/herm
 europe/switzerland/fribourg
 europe/germany/hesse/giessen
 asia/kyrgyzstan/norus
-northamerica/mexico/yucatan/chihuahua
 asia/india/jammuandkashmir/kishtwar

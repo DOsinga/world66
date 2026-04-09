@@ -1,10 +1,12 @@
 ---
-title: "Askersund"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 58.866667
 longitude: 14.916667
+title: Askersund
+type: location
 ---
 
-Travel Guide
+Askersund is a small wooden town at the northern tip of Lake Vättern in the province of Närke. It grew up around iron mining — nails and scythes were the local speciality — and the old centre still has the charm of painted timber houses and a handful of cafes along the harbour.
 
-Askersund is an idyllic town in the province Närke at the northern end of Lake Vättern . In medieval times it was an important centre in an iron mining district. It has been known for its production of iron nails and scythes. The lake forms a nice archipelago close to town with about 50 islands accessible for those having a small boat or a canoe. There are several nature reserves not far from town and also the large forest area Tiveden, partly a national park. The town itself is inviting with wooden houses and many cafés.
+The main attraction is the lake. Vättern narrows here into an archipelago of about 50 islands, excellent for canoeing and small-boat exploring. Southwest of town lies **Tiveden National Park**, one of Sweden's wilder forests — deep ravines, mossy boulder fields, and lakes hidden in old-growth woodland. Several smaller nature reserves are scattered around the area as well.

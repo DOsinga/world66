@@ -1,8 +1,14 @@
 ---
-title: "Catalina"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 33.3872
+longitude: -118.416
+title: Catalina
 type: location
-latitude: 32.482184
-longitude: -110.900194
 ---
 
-Sail or fly from San Pedro or Long Beach to Catalina Island, 26 miles across the sea. Relish the sight of the vivid blue waters sparkling in the harbor of Avalon; tour the streets of this lovely resort town. For an unforgettable adventure, view undersea life in a glass-bottom boat or semi- submersible submarine. Like L.A. itself, it's another world.
+Catalina Island sits 26 miles off the coast of Los Angeles, and it feels like a different country. The crossing from San Pedro or Long Beach takes about an hour by ferry, but the moment you step onto the pier in Avalon, the freeways and smog are a world away. The water in the harbour is an almost absurd shade of blue.
+
+Avalon is the island's only real town -- a compact, walkable strip of restaurants, shops, and art deco architecture dominated by the circular Casino Building on the point. Most of the island's interior is a protected conservancy, home to bison (descendants of a 1920s film shoot herd), endemic fox, and surprisingly rugged terrain. You can hike, kayak, snorkel in clear kelp forests, or take a glass-bottom boat tour over the underwater gardens.
+
+The island has been a getaway for Angelenos since the 1920s, and it still draws a mix of day-trippers and weekenders. Come midweek if you want Avalon to yourself.

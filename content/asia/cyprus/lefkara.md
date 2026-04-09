@@ -1,12 +1,11 @@
 ---
 title: "Lefkara"
 type: location
-latitude: 34.862695
-longitude: 33.316391
+latitude: 34.8627
+longitude: 33.3164
+todo_location_cleanup: done
 ---
 
-Pano (Upper) and Kato (Lower) Lefkara are lovely spots in the hills between Larnaca and Limassol. The small and narrow village is famous for its lace. Nearly everywhere you will find it on sale together with the usual silver and copper objects. The lace is very expensive, but the delicate and exquisite craftsmanship is certainly worth the expense.
+Pano (Upper) and Kato (Lower) Lefkara are picturesque hill villages between Larnaca and Limassol, best known for their traditional lacemaking. The village lanes are narrow and whitewashed, and lace and lacework in the distinctive Lefkaritika style hang outside virtually every shop alongside silver and copper objects. The craftsmanship is genuinely fine — and the prices reflect that.
 
-
- 
- According to the legend, Leonardo da Vinci visited the village in 1481, and purchased a lace cloth for the main altar of the Milan Doumo. The Lefkaritika style was probably imported here in ancient times from Assyria. Much later, the Venetians brought it home, and set up their own lace industry on the island of Burano. In 1889 a local lace school was opened, and Lefkara lace regained much of its ancient renown.
+According to local tradition, Leonardo da Vinci visited in 1481 and purchased a lace cloth for the main altar of Milan Cathedral. The Lefkaritika style is thought to have ancient roots, possibly imported from Assyria; the Venetians later brought it home to establish their own lace industry on the island of Burano. A local lace school opened in 1889 and helped revive the craft's international reputation. Lefkara lacemaking was inscribed on the UNESCO Intangible Cultural Heritage list in 2009.

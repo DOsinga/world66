@@ -1,14 +1,14 @@
 ---
-title: "Ouadane"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 20.933726
 longitude: -11.617374
+title: Ouadane
+type: location
 ---
 
-Oudane had its glory days when the slave and gold caravans between Morocco and Ghana made their last stop here. But that is long ago. Now there is just a nice, but very quite oasis town left.
+Ouadane had its glory days when the slave and gold caravans between Morocco and Ghana made their last stop here. That was long ago. Now there is just a quiet oasis town left, a UNESCO World Heritage Site slowly crumbling in the desert.
 
+The wadi and the remains of the old fort are impressive, and it is pleasant to wander through the date palm groves. East of the modern town, a cliff holds the remains of the Ksar el Klali fort and a mosque. There is also a small museum and a library you can visit.
 
- The wadi and the remains of the fort are impressive and it is nice to wander around in the date palmery. East of the modern town is a cliff with remains of Ksar el Klali fort and a mosque. Furtermore there is a museum here and a library you can visit.
-
-
- Oudane is about 120 kilometer from Chinguetti and double that from Atar. But rides are quite irregular. When driving yourself you need a 4WD and a guide might be a good idea as well, especially if you want to do Chinguetti-Ouadane.
+Ouadane is about 120 kilometres from [Chinguetti](/africa/mauritania/chinguetti) and double that from [Atar](/africa/mauritania/atar). Rides are irregular. If you are driving yourself, you will need a 4WD, and a guide is advisable — especially for the route between Chinguetti and Ouadane.

@@ -1,10 +1,16 @@
 ---
-title: "Arlit"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 18.7391
+longitude: 7.3933
+title: Arlit
 type: location
-latitude: 18.739079
-longitude: 7.393331
 ---
 
-Arlit is a Saharan version of a boomtown: Uranium mines in the desert have given it a recently-thrown-together look and feel. Since Arlit is on the main road to Algeria, the town is quite a busy place (when the road is open at least, when it is closed you don't need to be here). There are many things to be bought and sold, there are banks here, there are some bars. There is also a real tourist office here! On the other hand, the banks do not always have money, the bars do not always have beer. The hustlers who buy and sell are always there and you will not have trouble spotting them. 
+Arlit is a Saharan boomtown built on uranium. The French mining company Areva has operated here since the 1970s, and the town owes its entire existence to the ore beneath the surrounding desert. It has a recently-thrown-together look and feel that's entirely appropriate for what it is.
 
-When you arrive you have to go to the police and leave them your passport. You can get it back when you are ready to leave.
+For travellers, Arlit matters primarily as a waypoint on the overland route between Niger and Algeria. When the road north is open, this is where you stock up, sort out paperwork, and brace yourself for the Sahara crossing. When the road is closed — which happens — you'll be waiting here whether you like it or not.
+
+The town has banks (though they don't always have money), bars (that don't always have beer), a tourist office, and a lively trade in goods moving between West Africa and North Africa. The hustlers who work the border economy are hard to miss and will find you before you find them.
+
+When you arrive, head to the police station first and surrender your passport. You'll get it back when you're ready to leave.

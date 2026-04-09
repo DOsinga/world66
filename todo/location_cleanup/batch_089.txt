@@ -42,7 +42,6 @@ asia/india/gujarat/modhera
 europe/channelislands/herm
 europe/switzerland/fribourg
 europe/germany/hesse/giessen
-northamerica/unitedstates/california/rancho_cordova
 asia/kyrgyzstan/norus
 northamerica/mexico/yucatan/chihuahua
 asia/india/jammuandkashmir/kishtwar

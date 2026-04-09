@@ -1,8 +1,10 @@
 ---
-title: "Atiu"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -19.916358
 longitude: -158.197198
+title: Atiu
+type: location
 ---
 
 Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by *makatea* — raised coral limestone — a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastline inaccessible. Inside the makatea sits a fertile plateau where five villages cluster together.

@@ -1,8 +1,14 @@
 ---
-title: "Calpe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.644325
 longitude: 0.046012
+title: Calpe
+type: location
 ---
 
-The strategic situation of Calpe has served to him to become, throughout history, in an important zone of step and establishment of numerous civilizations. The emblematic Rock of Ifach has served as protection for diverse cultures, in its skirts have been rest of the Iberian time, pertaining to centuries IV and III a.C. Later, Calpe receives the first Roman visits. Of this time still the Baths of Reina, one piscifactoría or salt meat factory can be contemplated since Calpe were dedicated to the commerce and the industry of the fish salt meat. During the Muslim domination, the population resided in small farmhouses with exclusive dedication to agriculture and the fishing. After the conquest of Calpe on the part of king Jaume I, Christian and Muslim they coexisted of pacific form and the greater frights came from the attacks of the pirates. This threat extended from century XIV to XVII. The continuous sackings forced to the construction of diverse towers watches, between which they are left rest, like the one of the Castellet de Calp. From the SXVIII, Calpe a development stage begins that consolidates in century XIX until becoming a center of national and international tourist attraction.
+Calpe (Calp in Valencian) is a small coastal town on the Costa Blanca dominated by the Penon de Ifach, a massive 332-metre limestone rock jutting out of the sea. The rock is a nature reserve and the climb to the top — about an hour each way through a tunnel and along a steep trail — rewards you with views stretching to [Ibiza](/europe/spain/balearicislands/ibiza) on a clear day.
+
+The town has a long history of settlement. There are Iberian remains from the fourth century BC, Roman fish-salting baths (the Banos de la Reina) right on the waterfront, and a small walled old quarter that dates from the Moorish period. After the Christian reconquest, Calpe endured centuries of pirate raids — the watchtowers scattered along the coast are a reminder of that era.
+
+Modern Calpe is a resort town with a large expat population, long sandy beaches on either side of the rock, and a fish market where the day's catch is auctioned each afternoon. The old town above the port has a few good restaurants serving fresh seafood.

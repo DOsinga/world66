@@ -1,10 +1,14 @@
 ---
-title: "Kishtwar"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 33.3108
+longitude: 75.7694
+title: Kishtwar
 type: location
-latitude: 33.310791
-longitude: 75.769421
 ---
 
-The present name, related with "Kishat Rishi" who stayed here, is the modified version of earlier name of Kishaswar. Located about 232 Kms. from Jammu at a height of 5.360 feet, Kishtwar in its ancient form Kashthavata, is first referred to in the Rajatarangini during the reign of Raja Kalsa of Kashmir (A.D.1063-89), when "Uttamaraja", the ruler of Kashthavata visited the court of Kashmiri king in company with several other hill chiefs to pay their respects to the Raja.
+Kishtwar sits on a high ridge above the Chenab River, roughly 232 km from Jammu and tucked into a deep valley where the mountains start to get serious. At around 1,600 m it is cool even in summer, and the peaks above — Nun Kun, Brahma, Barnaj — push past 6,000 m. For most travellers, this is genuine off-the-beaten-track territory: the road from Jammu is long, the infrastructure basic, and the rewards proportional.
 
-The place endowed with dense forests of deodar, fir and pine is treasure of scenic beauty. The place has rich wild-life like snow-deer, leopard, Neel Gai and musk-deer. There are high altitude mountains ranging between 20,000 feet to 21,000 feet like Num Kum, Burmah and Barnag. It offers tremendous scope for pilgrim tourism also as some important shrines are located in the area. These include Ziarat Zain-Shah-Sahib, Farid-ud-Din Sahib, Hazrat Asrar-ud-Din Sahib, Athara Bhuja Devi temple and Chandi Mata temple.
+The town has a small bazaar and a relaxed atmosphere. Historically it was an independent hill chiefdom — first mentioned in the 12th-century chronicle Rajatarangini — before being absorbed into the Kashmir kingdom and later the Mughal empire. That layered history is visible in the mix of Hindu temples and Sufi shrines that dot the area.
+
+The surrounding forests of deodar, fir, and pine shelter snow leopard, musk deer, and serow. Kishtwar High Altitude National Park, established in 1981, covers some 2,190 sq km of high-altitude terrain and is one of the least-visited protected areas in India. Trekkers who make it here often have trails entirely to themselves.

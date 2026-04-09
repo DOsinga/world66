@@ -1,8 +1,14 @@
 ---
-title: "Nabeul"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.45129
 longitude: 10.735591
+title: Nabeul
+type: location
 ---
 
-Nabeul, so often presented as the Tunesian capital of pottery. It truly is. Nearly everywhere you can buy pottery, but the only sorryful experience you get in Nabeul is how inhabitants, the merchandisers in special treat you. Even if you give a product a shy eye to look at, they stick to you until you nearly get hairraising discussion, simply on the subject why you do not buy the product from him. Ridiculous, a way of trading goods we do not know in our western civilisation. A nice place to be for itself, a shame poeple make it so dirty. In western europe we get educated with the decency of not polliting anything, overther even police officers throw their used garbage and packages along the street. But even this does not mean you msut avoid Nabeul. It is an interesting place to be with nice poeple, kind poeple, except the merchandisers. A horror.
+Nabeul is the pottery capital of Tunisia, and it wears that title openly. The town on the Cap Bon peninsula, about 65 km from Tunis, is lined with workshops and shops selling the distinctive blue-and-white glazed ceramics, terracotta pots, and tiles that have been made here for centuries. The weekly Friday market draws traders from across the region.
+
+Beyond the ceramics, Nabeul has a pleasant old medina and a good beach. The town is quieter and more authentic than the resort strip further along the coast. It also serves as a useful base for exploring Cap Bon — the vineyards, citrus groves, and historic sites like the Roman ruins at Kerkouane are all within easy reach.
+
+Be prepared for persistent salesmanship in the market and pottery shops. Bargaining is expected, and prices rarely start where they end.

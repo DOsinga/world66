@@ -1,26 +1,18 @@
 ---
-title: "Morgantown"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.6297
+longitude: -79.9559
+title: Morgantown
 type: location
-latitude: 39.629681
-longitude: -79.955944
 ---
 
-Morgantown is the home of West Virginia University and a quintessential university town. Visit Morgantown (or Mo'town to most of the locals) in the summer and you'll be bored. Visit while school is in session and you'll be pleasantly surprised by the quasi-bohemian atmosphere and extensive nightlife. 
+Morgantown is West Virginia University's town, and the university shapes everything about it — the energy, the nightlife, the rhythm of the year. Visit during the academic year and you'll find a lively, quasi-bohemian atmosphere that belies the surrounding Appalachian hills. Visit in summer and the place goes quiet. Plan accordingly.
 
+The university runs a unique automated transit system called the PRT (Personal Rapid Transit), a fleet of driverless electric pods that connect the main downtown campus to the upstream Evansdale campus. It's a genuine oddity — personal urban transport from the 1970s that still works — and worth a ride for anyone curious about experimental infrastructure.
 
+Downtown Morgantown sits along the Monongahela River, with High Street at its core. The Old Stone House near the river is one of the oldest structures in West Virginia, a solid Georgian building dating to 1795 that survives as a reminder of the town's pre-university past.
 
-West Virginia University constructed a unique form of public transportation called the PRT to connect the main campus to its satellite. The PRT is of particular interest to those who admire futuristic machines and urban planning. 
+Outside town, Coopers Rock State Forest lies a short drive east on I-68. The overlook above Cheat Canyon is genuinely dramatic — a long view across forested ridges and the river winding below. Cheat Lake, formed by the Cheat River dam, has become a popular spot for boating and recreation.
 
-
-
-While in the area, visit Coopers Rock State Forest to the east of town on I-68 for a breathtaking view of the hills and valleys below; Cheat Lake is fast becoming a favorite recreation area for city dwellers. 
-
-
-
-Some suggested places to go are the Cinemagic Warner Theater, which holds second-run movies, Pinocchio's Books & Toys, and the Old Stone House, a very historic house right in the downtown area. 
-
-
-
-Morgantown is located an hour and thirty to fourty-five minutes south of Pittsburgh, PA at the junction of Interstates 79 and 68.
-
-Minor corrections by [Sarai](/world/member/sarai) on 25 September 04
+Morgantown sits at the junction of Interstates 79 and 68, about 75 miles south of Pittsburgh.

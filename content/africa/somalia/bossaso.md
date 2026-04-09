@@ -1,8 +1,10 @@
 ---
-title: "Bossaso"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 11.002615
 longitude: 49.410723
+title: Bossaso
+type: location
 ---
 
 Bossaso is Puntland's main commercial port and its largest city, sitting on the Gulf of Aden coast at the foot of dramatic escarpment mountains. It has an international airport with connections to Nairobi, Djibouti, and Yemen, and a busy seaport that handles much of northeastern Somalia's trade.

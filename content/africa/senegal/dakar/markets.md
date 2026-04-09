@@ -1,6 +1,8 @@
 ---
-title: "Markets"
-type: location
+done:
+  location_cleanup: '2026-04-09'
+title: Markets
+type: section
 ---
 
 It si a delight to wander around the differnet markets of Dakar. Spend some time in the open-air food markets not only to see the beautiful vegetables but to see the most colorfully dressed people in Africa as well. If you want to see where they bought their fabric visit the Sandaga Market which has fruits vegetables and a brilliant array of cloth. The Kermel Market our favorite spot for souvenirs has reopened for business (it burned down in 1993). 

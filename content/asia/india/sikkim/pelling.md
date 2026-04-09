@@ -1,12 +1,14 @@
 ---
-title: "Pelling"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 27.3004
+longitude: 88.2357
+title: Pelling
 type: location
-latitude: 27.300372
-longitude: 88.23565
 ---
 
-**Pelling** is the jumping-off point for most trekkers in Sikkim. With easy access to the popular four-day "Local Trek," the village has basic amenities as well as spectacular views. Don't miss the lovely walks and awesome vistas from the nearby monasteries. 
+**Pelling** is a small hill town in western Sikkim that sits at around 2,150 metres and offers some of the most accessible views of Kanchenjunga, the world's third-highest mountain. It is the main base for trekking in this part of the state, including the popular four-day Local Trek through villages, cardamom farms and rhododendron forest.
 
-Many tourists stay at the **Hotel Garuda** which gives out a handy trekking map and has a detailed logbook with other travellers' notes. It also boasts the village's best views of Kanchenjanga from its rooftop terrace. The restaurant has a wide and varied menu, including excellent warm **Tibetan bread**. 
+The town is spread across upper and lower Pelling, with the upper section giving the better mountain views. On clear mornings — most common from October to December — the Kanchenjunga massif fills the horizon in extraordinary detail. Clouds tend to move in by mid-morning, so early risers are rewarded.
 
-Like all of Sikkim, Pelling is plagued by frequent and unpredictable power cuts, so bring a flashlight.
+Several monasteries are within easy walking distance. Pemayangtse, one of Sikkim's oldest and most important gompas, sits about two kilometres uphill and repays the walk. Like the rest of Sikkim, Pelling is subject to frequent power cuts, so a torch is useful.

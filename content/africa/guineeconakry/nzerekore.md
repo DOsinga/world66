@@ -1,8 +1,10 @@
 ---
-title: "Nzerekore"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 8.392573
 longitude: -8.857252
+title: Nzerekore
+type: location
 ---
 
 Nzerekore is the largest city in Guinea's forested southeast, a region that feels quite different from the rest of the country. The landscape here is dense tropical forest and rolling hills, and the ethnic groups -- Manon, Kono, and Guerze -- have distinct cultures from the Malinke and Fulani of the north.

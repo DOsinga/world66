@@ -3,12 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-The core of the city is very small and all of the attractions can be
-reached bby foot in less than 30 minutes. The only location that might
-take longer is a church on top of the nearby hill called the Virgin
-Mary's Hill. It offers a fantastic view of the city from above
-and the area around it. There is a regular sunday afternoon service at
-2pm.
-
-**Contributors**
-September 03, 2005
+The old town is tiny — you can walk across it in under fifteen minutes. All the main sights are within easy reach on foot from the main square. The one exception is the basilica on Mariánska Hora (Virgin Mary's Hill), a twenty-minute uphill walk north of the centre, with a Sunday afternoon service at 2pm.

@@ -1,10 +1,12 @@
 ---
 title: "Gun-Galuut"
 type: location
-latitude: 47.629486
-longitude: 108.297961
+latitude: 47.6295
+longitude: 108.2980
+done:
+  location_cleanup: '2026-04-09'
 ---
 
-Travel Guide
+Gun-Galuut Nature Reserve, about 130 km east of Ulaanbaatar, packs a surprising range of landscapes into a compact area: open steppe that seems to run to the horizon, the rugged Baits and Berkh mountain ranges, and the wetlands of the Kherlen River — the longest river in Mongolia. Ikh-Gun and Ayaga lakes draw large numbers of migratory waterbirds, and the reserve is home to rare species including Mongolian gazelle and argali sheep.
 
-Gun-Galuut is the state combined from diversity of ecosystem although it owns comparatively small area. The harmonized complex of high mountains, steppes, rivers, lakes and wetlands as well are kept enough as its original condition. Whoever visiting enjoys to see Gun-Galuut vast steppe seems to meet the sky, the imposing mountains Baits and Berkh, a home land of rare creatures, Ikh-Gun and Ayaga lakes, a paradise of birds, Kherlen, the longest river of Mongolia and Tsengiin Burd wetland, in where water and wetland birds lay their eggs.
+The reserve is one of the more accessible wild destinations from the capital, and several ger camps operate within or near its boundaries. It offers a taste of the Mongolian landscape without the long drives that reach-of-the-road destinations require.

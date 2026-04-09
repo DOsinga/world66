@@ -1,8 +1,10 @@
 ---
-title: "Herat"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 34.349144
 longitude: 62.216325
+title: Herat
+type: location
 ---
 
 Herat is the third city of Afghanistan and its most cultured. Close to the Iranian border, it has always looked west -- the architecture is Persian, the language is Dari, and the atmosphere feels more like Isfahan than Kabul. In the 1970s it was the gateway for hippies entering Afghanistan overland from Iran.

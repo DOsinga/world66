@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.18769
 longitude: -5.573281
 title: Zennor

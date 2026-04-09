@@ -1,10 +1,12 @@
 ---
-title: "Al Hoceima"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.245114
 longitude: -3.930186
+title: Al Hoceima
+type: location
 ---
 
-Al Hoceima is mainly known as a beach resort. It is a pleasant place to rest while touring the Rif. Al Hoceima was built by the Spanish in 1926, after they suppressed a Rif rebellion. The Spanish influences remain, however most new construction is cheap North African style. 
+Al Hoceima is a small Mediterranean beach town on the Rif coast of northern [Morocco](/africa/morocco), a pleasant place to rest between the mountain roads of the Rif. The town was built by the Spanish in 1926, after they suppressed the Rif rebellion led by Abd el-Krim, and Spanish influences are still visible in the architecture and the town's relaxed character.
 
-The Plage Quemado is right in the center of town between two massive sea cliffs. There are a couple of quieter beaches a few km out of town on the Nador road. From certain points on this road, you can catch a glimpse of the Spanish-controlled island of Penon de Alhucemas. It can be a beautiful site, with its white church and tower in the Mediterranean-blue sea, however it is used mainly as a prison and military base.
+The Plage Quemado sits right in the centre of town, wedged between two massive sea cliffs. Quieter beaches lie a few kilometres out on the road to [Nador](/africa/morocco/nador). From certain points along this road you can catch a glimpse of the Peñón de Alhucemas, a tiny Spanish-held island with a white church and tower sitting in the Mediterranean blue — though it serves mainly as a military outpost. The Al Hoceima National Park, protecting coastline and forested mountains to the west, is worth exploring.

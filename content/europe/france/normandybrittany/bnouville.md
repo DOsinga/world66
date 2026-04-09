@@ -1,16 +1,10 @@
 ---
 title: "Bénouville"
 type: location
-latitude: 49.246607
-longitude: -0.278193
+latitude: 49.2466
+longitude: -0.2782
 ---
 
-The famous Pegasus Bridge is there with its Café Gondrée which was the first house in France to be liberated during the night of the 5th-6th of June 1944 by the British gliders of Major Howard. 
+Bénouville is a small village on the Caen Canal between Caen and the ferry port of Ouistreham, and it holds one of the most celebrated sites of the D-Day landings. In the early hours of 6 June 1944, British gliderborne troops of Major John Howard's D Company seized the canal bridge here in the first Allied ground action of Operation Overlord — the bridge was renamed Pegasus Bridge in their honour. Café Gondrée, the farmhouse beside the bridge, was the first building in occupied France to be liberated, and it still stands and still serves drinks.
 
-The Café Gondrée is still open for visitors from March to November, it serves refreshments and sells postcards. 
-
-Next to the famous Pegasus Bridge is the Pegasus Memorial museum. Closed in December and January. 
-
-Within a walking distance is the Château of Bénouville which can be visited specially during exhibitions.
-
-Minor corrections by [Sir Malcolm](/world/member/sir_malcolm) on 18 January 05
+The village is small and easily visited in a half-day, but for anyone following the Normandy battlefields it is essential. The Pegasus Memorial museum tells the story of the airborne assault in detail, and the original bridge — replaced in 1994 — now sits in the museum grounds. The neoclassical Château de Bénouville, a few minutes' walk away, makes a graceful contrast to the martial history.

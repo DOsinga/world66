@@ -14,7 +14,6 @@ europe/armenia/nagornokarabakh/stepanakert_3
 africa/algeria/laghouat
 northamerica/unitedstates/texas/laguna_texas
 europe/serbiaandmontenegro/sokobanja
-europe/italy/tuscany/florenceprovince/altomugelloarea/fiorenzuola
 asia/cambodia/ratanakiriprovince/banlung
 northamerica/unitedstates/oklahoma/broken_bow
 northamerica/unitedstates/texas/amarillo

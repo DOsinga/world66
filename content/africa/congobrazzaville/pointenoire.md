@@ -1,10 +1,14 @@
 ---
-title: "Pointe noire"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -4.7769
+longitude: 11.8635
+title: Pointe-Noire
 type: location
 ---
 
-Pointe-Noire is the main town on the coast. Go here for the beaches and the lively evening market. 
+Pointe-Noire is Congo-Brazzaville's second city and its economic heartbeat — the country's main port, its oil hub, and the liveliest place on the coast. It has a different feel from the capital Brazzaville: more open, more international, with a rough-and-ready energy that comes from years of oil money and maritime traffic.
 
- Several good beaches are close by in the region known as the Côte Sauvage. Around 20km (12 miles) from the city are the villages of Loango and Diosso. Loango was the main embarkation port for slaves and it is estimated that more than 2 million people were transported from here.
+The city's main draw for travellers is its coastline. The beaches are long and wild, and in the evenings the seafront market comes alive with grilled fish, cold beer, and music. Away from the coast, the area known as the Côte Sauvage stretches south, offering dramatic cliffs and remote beaches that see very few visitors.
 
-The Gorges of Diosso, spectacular cliffs formed by the erosion of the sea and the wind, are worth visiting.
+Around 20km from the city, the villages of Loango and Diosso reward a half-day trip. Loango was one of the principal embarkation ports for the transatlantic slave trade — it is estimated that more than two million people were transported from here, a history that weighs heavily on the landscape. The Gorges of Diosso nearby are spectacular: red and ochre cliffs carved by centuries of wind and sea erosion, dropping sharply to the ocean.

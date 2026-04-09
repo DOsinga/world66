@@ -1,13 +1,14 @@
 ---
-title: "Merced"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.164154
 longitude: -120.76786
+title: Merced
+type: location
 ---
 
-Merced features the Yosemite Wildlife Museum. Northwest of Merced, the Castle Air Museum in Atwater exhibits 44 vintage military aircraft. In Le Grand, southeast of Merced, visit the Buchanan Hollow Nut Company, where you can trek through the fields and tour the processing plant. Also in Le Grand is Bright's Pioneer Exhibit, which features antique vehicles. And, in Madera, farther to the south, the Madera County Museum displays agricultural exhibits and Native American artifacts. 
- Bird-watchers can search for 200 species, including migratory waterfowl and shore birds, at the nearby Grassland Wetlands of Merced County, a 25-square-mile area including five national wildlife refuges.
+Merced is a small city in California's Central Valley, best known as the gateway to Yosemite National Park — the western entrance is about 80 miles northeast along Highway 140. The city is also home to the University of California, Merced, the newest campus in the UC system.
 
+The town itself is not a major destination, but it has a few diversions worth knowing about. The Castle Air Museum in nearby Atwater displays 44 vintage military aircraft outdoors, from a B-52 Stratofortress to a SR-71 Blackbird. The Grassland Wetlands of Merced County, a 25-square-mile area including several national wildlife refuges, are excellent for birdwatching — some 200 species pass through, including migratory waterfowl and shorebirds.
 
- 
- Year-round, in the San Luis Reservoir State Recreation Area off Highway 152 (west of Los Banos), you can view birds of prey, deer, and other wildlife.
+Most visitors use Merced as a base or transit stop on the way to Yosemite. There are regular Amtrak and bus connections.

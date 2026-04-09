@@ -1,10 +1,14 @@
 ---
-title: "Guelph and area"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 43.5448
+longitude: -80.2482
+title: Guelph and area
 type: location
 ---
 
-Travel Guide
+Guelph is a university city with a strong arts scene and some of the best-preserved limestone architecture in Ontario. Settled in the 1820s, the downtown still has a handsome Victorian core built in the local grey stone, centred on Church of Our Lady Immaculate — an imposing neo-Gothic cathedral visible from most of the city. The University of Guelph gives the place energy and keeps the music and gallery scene lively for a city of its size.
 
-**Guelph** is a beautiful city with limestone architecture, a university vibe and a lively arts scene. The Guelph Jazz Festival is world-renowned, there is a national scale Contemporary Dance Festival and a three day music festival - Hillside, that attracts people from all over the province of Ontario. Guelph is just over an hour from Toronto and is a good starting point for day trips to Elora, and St. Jacobs. The city has a progressive citizenship dedicated to environment, social issues and preserving the heart of the downtown.
+The Guelph Jazz Festival in September draws international performers and is one of the better music events in the region. The Hillside Festival, held at Guelph Lake in late July, is a long-running folk and roots music weekend with a loyal following across Ontario.
 
-In the nearby village of West Montrose a wooden covered bridge built in 1881 still exists and is in use for vehicular traffic including Mennonites who travel with horse and buggy.
+The surrounding area has some good day-trip options. Elora, 25 km to the northwest, has a dramatic limestone gorge and an attractive 19th-century village. The covered bridge at West Montrose — built in 1881 and still used by Mennonite horse-and-buggy traffic — is one of the last of its kind in Ontario. St. Jacobs, in the heart of Mennonite country near Waterloo, is worth a morning at the farmers' market.

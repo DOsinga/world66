@@ -1,9 +1,14 @@
 ---
-title: "Maymyo"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 22.0331
+longitude: 96.4667
+title: Maymyo
 type: location
-latitude: 22.033137
-longitude: 96.466734
 ---
 
-Maymyo (Pyin U Lwin) is Burma's best-known colonial hill station and a worthwhile 2-hours-trip from [Mandalay](/asia/myanmar/mandalay). You can enjoy beautiful scenery, a cool climate and nostalgic atmosphere of former days with its old buildings and botanical gardens. The British called it Maytown, after Colonel May. It stands on a plateau, 1,000m up in the Shan Hills. 
- The town, with its brick and timber houses-complete with English-style gables, turrets and chimneys-remains as a ghost like memento of empire. Botanical Gardens were laid out by Sir Harcourt Butler, former Governor of Burma. The plants and trees are labelled in Latin and Burmese. A wide range of fruits (including strawberries), vegetables and coffee can be grown in Pyin U Lwin. There are few interesting sights to check out: the Pwe Kauk and Anisakan Falls and to go to the Shibaa Village.
+Pyin Oo Lwin (still widely known as Maymyo, its colonial name) is a hill station on a plateau at 1,000 metres in the Shan Hills, about two hours northeast of [Mandalay](/asia/myanmar/mandalay). The British established it as a summer retreat -- Colonel May, after whom the town was named, was stationed here in the 1880s -- and it still feels markedly different from the lowland cities.
+
+The town is full of brick and timber houses with English-style gables, turrets, and chimneys, giving it a peculiar colonial atmosphere. Horse-drawn carriages are still a common way to get around. The National Kandawgyi Botanical Gardens, laid out by the former Governor Sir Harcourt Butler, are the main attraction -- well-maintained grounds with plants labelled in Latin and Burmese, and a good orchid collection.
+
+The cooler climate means the area produces strawberries, coffee, and a range of vegetables that do not grow well in the plains. The Pwe Kauk and Anisakan waterfalls, both within easy reach of town, are popular day excursions. Anisakan in particular involves a steep hike down through forest to a dramatic cascade.

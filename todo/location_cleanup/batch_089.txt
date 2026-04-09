@@ -42,7 +42,6 @@ asia/india/gujarat/modhera
 europe/channelislands/herm
 europe/switzerland/fribourg
 europe/germany/hesse/giessen
-europe/germany/berlin/tours/robert_breitnercz
 northamerica/unitedstates/california/rancho_cordova
 asia/kyrgyzstan/norus
 northamerica/mexico/yucatan/chihuahua

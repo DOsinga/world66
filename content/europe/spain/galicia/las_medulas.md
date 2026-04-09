@@ -1,19 +1,12 @@
 ---
-title: "Las Medulas"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.454439
 longitude: -6.762921
+title: Las Medulas
+type: location
 ---
 
-Las Medulas , the
-Roman Empire's Largest Gold mines. In the 1st century AD the Roman
-Imperial authorities began to exploit the gold deposits of this region
-in north-west Spain, using a technique based on the utilization of
-hydraulic power. After two centuries of working the deposits, the
-Romans withdrew, leaving a devastated landscape. Since there was no
-subsequent industrial activity, the dramatic traces of this remarkable
-ancient technology are everywhere visible, in the form of sheer faces
-in the mountainsides and vast areas of tailings, now in use for
-agriculture.
+Las Medulas is one of Spain's most extraordinary landscapes. In the 1st century AD, the Romans began mining gold here on an industrial scale, using a hydraulic technique called *ruina montium* that literally collapsed entire mountainsides. After two centuries of extraction they moved on, leaving behind a surreal terrain of red sandstone pinnacles, eroded cliffs, and chestnut forests that has been a UNESCO World Heritage Site since 1997.
 
-Minor corrections by [giorgio](/world/member/giorgio) on 11 March 05
+The walking trails through the old workings are excellent. The viewpoint at Orellan gives you the full panorama of the red rock formations against green forest. It is a quiet place, well off the usual tourist circuits, and all the more rewarding for it.

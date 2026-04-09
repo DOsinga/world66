@@ -1,8 +1,10 @@
 ---
-title: "Port Royal"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 17.9355
 longitude: -76.8424
+title: Port Royal
+type: location
 ---
 
 Port Royal sits at the tip of the Palisadoes spit that encloses Kingston Harbour. In the 17th century it was one of the largest cities in the Americas — a notorious pirate haven and trading post where Henry Morgan and other buccaneers brought their plunder. In 1692 a massive earthquake dropped much of the city into the harbour, killing thousands instantly. The sunken city and its cargo are still down there.

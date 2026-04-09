@@ -1,8 +1,10 @@
 ---
-title: "Samarinda"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -0.5018
 longitude: 117.1393
+title: Samarinda
+type: location
 ---
 
 Samarinda is a major timber port on the Mahakam River and the main gateway for trips into the interior of East Kalimantan. The city itself is mostly a transit point, but what it offers is exceptional access to Dayak country upriver.

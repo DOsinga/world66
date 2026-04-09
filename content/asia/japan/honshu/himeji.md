@@ -3,21 +3,12 @@ title: "Himeji"
 type: location
 latitude: 34.815353
 longitude: 134.685479
+done:
+  location_cleanup: true
 ---
 
-Travel Guide
+Himeji is a city in Hyogo Prefecture, about 90 minutes west of Osaka by Shinkansen, and it has one of the finest castles in Japan. Himeji-jo — also called White Heron Castle for its gleaming white plaster walls — is a UNESCO World Heritage site and one of only twelve original castles in the country to have survived intact, never destroyed or rebuilt.
 
-The city's main claim to fame, is the splendid castle that sits on a
-hill overlooking it. In fact, the castle is visible from the Shinkansen
-tracks! If you only visit one castle in Japan, make it this one. It has
-extensive grounds, and an interesting display of items in the main
-dojon. The view from the top of the castle over the whole of Himeji is
-splendid.
+The castle sits on a hill visible from the Shinkansen tracks as you pull into the station. Walk straight down the main boulevard for about 15 minutes to reach it, or take the covered arcade running parallel if the weather turns. The grounds are extensive and worth taking slowly; the main keep rises six storeys and the view from the top over the city and surrounding plain is excellent.
 
-To get the castle, you can walk straight down the main drag for about
-15 minutes. Alternatively, there is a covered arcade the runs parallel
-to the main drag, which is quite useful, if the weather is not
-cooperative.
-
-More information on
-*Himeji Travel*
+The Koko-en garden, reconstructed in the Edo period style just next to the castle grounds, makes a pleasant addition to the visit. Allow at least half a day for both.

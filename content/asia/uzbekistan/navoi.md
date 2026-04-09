@@ -1,12 +1,12 @@
 ---
-title: "Navoi"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 40.1003
+longitude: 65.3792
+title: Navoi
 type: location
-latitude: 42.0
-longitude: 64.0
 ---
 
-For those interested in the Soviet occupation of Uzbekistan, there is no better place than Navoi. This city, nearly a midpoint between Samarkand and Bukhara, was never under the jurisdiction of Tashkent. It was administered and supplied directly from Moscow. Locals who could not afford the trip to Moscow, even at the ridiculously cheap communist prices, would go to Navoi for access to goods available nowhere else in Central Asia.
+Navoi is the most Soviet city in Uzbekistan — and that is saying something. Built from scratch in the 1950s as an industrial centre, it was administered directly from Moscow rather than Tashkent, and supplied with goods unavailable anywhere else in Central Asia. The city's grid of grand boulevards, rectangular apartment blocks, and geometrically perfect parks is a textbook of Soviet urban planning, dropped into the desert between [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara).
 
-
- 
- The modern city of Navoi is completely artificial, the grand boulevards, square parks and rectangular apartment blocks the height of Soviet perfectionist ideology. Don't try to spend the night as the local police are a bit gittery. This city remained "closed" long after the freedom was imposed upon Uzbekistan. Don't forget to take a picture of the "we swear they are not nuclear" factory smokestacks. Two camel treking companies operate out of Navoi. It is expensive, for tourists only, but one of the few places that offer this service. I paid a little over 30 USD for a two day trek in a group of 15. I have heard of tourists paying over 85 USD per person.
+Few travellers stop here, but for anyone interested in Soviet-era Central Asia, Navoi is a fascinating detour. The city remained "closed" well after Uzbekistan's independence, and something of that isolation lingers in the atmosphere. The surrounding steppe offers camel trekking — a handful of operators run multi-day trips into the desert.

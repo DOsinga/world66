@@ -1,16 +1,8 @@
 ---
-title: "Day Trips in Invercargill"
+title: "Day Trips"
 type: section
 ---
 
-One of the things you can do from Invercargill out is a trip to Bluff.
-Bluff is the must southern town in NZ you can go by car. It is for many
-people the most southern point they will ever visit in their life.
+Invercargill sits at the crossroads of some of Southland's best day trips. The most popular is the short drive south to Bluff, the southernmost town in mainland New Zealand, where you can stand at Stirling Point and contemplate the signpost showing distances to cities around the world. Bluff is also famous for its oysters — if you visit between March and August, do not miss them.
 
-### [Bluff](/australiaandpacific/newzealand/otago/invercargill/day_trips/bluff)
-
-Go there just to be on the most southern point of New Zealand you can get.
-
-
-
-[[rate it]](/australiaandpacific/newzealand/otago/invercargill/day_trips/bluff)
+The Catlins coast to the east offers waterfalls, petrified forests, and colonies of sea lions and penguins along a wild stretch of coastline that sees remarkably few visitors. To the west, the road to Riverton and on toward Tuatapere follows the Southern Scenic Route through rolling farmland and rugged coast.

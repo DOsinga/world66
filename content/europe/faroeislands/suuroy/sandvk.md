@@ -1,10 +1,14 @@
 ---
-title: "Sandvík"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 61.634177
 longitude: -6.928838
+title: Sandvík
+type: location
 ---
 
-Travel Guide
+Sandvík is the northernmost village on [Suðuroy](/europe/faroeislands/suuroy), reached through an old road tunnel that is the only way in. About a hundred people live here. As the name suggests, it has a large sandy beach — a rarity in the Faroes.
 
-Sandvík is the northernmost village in Suðuroy. The only entrance to Sandvík is through an old road tunnel. As the name indicates, Sandvík has a large sandy beach. There are three monuments in Sandvík: One is in memory of Martin Joensen, which was a famous writer from Sandvík, famous in the Faroe Islands, that is. There is one monument near Sigmundsgjógv in memory of the viking cheaf Sigmundur Brestisson, who escaped from his enemies by swimming from the island Skúvoy to Sandvík in Suðuroy, but after swimming that long way, he was killed by the local Torgrímur Illi (The Mean Torgrim). Sigmundur Brestisson was the man who brought christianity to the Faroe Islands around year 1000. Another monument is in memory of the men who lost their lives in a boat accident in 1915, the so-called Skaðagrindin. There is a local museum in the historical home "Húsið uttan Ánna", which means the House East by the River. The house has turf roof, it is made by wood and is only painted outside: black and white. The house was built in 1866. The population of Sandvík is around 100.
+The village has an outsized place in Faroese history. A monument near Sigmundsgjógv marks where the Viking chieftain Sigmundur Brestisson came ashore around the year 1000, having escaped his enemies by swimming all the way from the island of Skúvoy. He brought Christianity to the Faroes but was killed on this beach by the local farmer Torgrímur Illi — "the Mean Torgrim." Two other monuments stand in the village: one for the writer Martin Joensen, and one for the men lost in the 1915 Skaðagrindin boat disaster.
+
+The local museum is housed in Húsið uttan Ánna ("the House East by the River"), a turf-roofed wooden house built in 1866 and painted black and white. It is a good example of traditional Faroese building.

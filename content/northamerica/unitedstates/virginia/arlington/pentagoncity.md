@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.863
 longitude: -77.0594
 title: Pentagon City

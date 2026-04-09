@@ -1,21 +1,14 @@
 ---
-title: "Grand Marais"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 47.750467
 longitude: -90.334675
+title: Grand Marais
+type: location
 ---
 
-Travel Guide
+Grand Marais is a small harbor town on the north shore of Lake Superior, in Cook County, Minnesota, about 110 miles northeast of Duluth. It is the last significant town before the Canadian border at Grand Portage and the most appealing stop on the entire North Shore Drive.
 
-Grand Marais is a city in Cook County, Minnesota, United
-States. The population was 1,353 at the 2000 census. It is also the county seat
-of Cook County. Grand Marais is French
-for “Great Marsh,” referring to a marsh, which in early fur-trading times was
-20 acres or less in area, nearly at the level of Lake Superior, and situated at
-the head of the little bay and harbor that led to the settlement of the village
-there. Another small bay on the east, less protected from storms, is separated
-from the harbor by a slight projecting point and a short beach. In allusion to
-the two bays, the Ojibwe name for the area is Gichi-biitoobiig which means
-"great duplicate water," "parallel body of water" or
-"double body of water" (like a bayou), a reference to the two bays
-which form the large harbor off Lake Superior.
+The town has genuine charm — a working fishing harbor, an art colony, and a compact downtown of independent shops and restaurants — and sits at the edge of the Boundary Waters Canoe Area Wilderness (BWCA), one of the most extensive lake-and-portage paddling regions in the world. Outfitters in town can rent canoes, arrange permits, and provision extended backcountry trips into the BWCA.
+
+The Gunflint Trail heads inland from Grand Marais through boreal forest to the BWCA. In summer the fishing is excellent; in winter the area is popular for cross-country skiing, snowshoeing, and dogsledding.

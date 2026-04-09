@@ -5,4 +5,8 @@ latitude: 39.940143
 longitude: -82.005019
 ---
 
-Home of the Y-Bridge and named after Ebenezar Zane. This is the only Y-Bridge with active traffic in the world. This small rural community is home to numerous nationally and internationally recognized products, such as Longaberger Baskets and McCoy Pottery. The largest city and county seat of Muskingum County, Zanesville offers a small town experience close to the "big city" (Columbus). Home of the Wilds, one of the largest animal conservatories in the United States, Zanesville has something for everyone.
+Zanesville sits on the Muskingum River about 55 miles east of Columbus, and it has a legitimate claim to something no other city in the world can match: a Y-shaped bridge where you can start on one side and end up back on the same side without turning around. The Y-Bridge has been a curiosity since 1819, and locals have been watching tourists puzzle over it ever since.
+
+Beyond the bridge, Zanesville was once a center of American art pottery — McCoy and Roseville both operated here, and the region's clay-rich soil made it a natural hub for the industry. Today the Zanesville Museum of Art holds a strong collection of American ceramics and regional painting.
+
+The biggest draw in the wider area is the Wilds, a 10,000-acre open-range wildlife conservation center about 30 miles south, where you can take safari tours past rhinos, giraffes, and African wild dogs. It's one of the largest private wildlife reserves in North America and worth the drive.

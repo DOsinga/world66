@@ -1,8 +1,10 @@
 ---
-title: "Kuelap"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -6.423103
 longitude: -77.910721
+title: Kuelap
+type: location
 ---
 
 Travel Guide

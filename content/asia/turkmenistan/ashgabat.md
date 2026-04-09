@@ -1,14 +1,18 @@
 ---
-title: "Ashgabat"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.937832
 longitude: 58.235947
+title: Ashgabat
+type: location
 ---
 
-To sum up Ashgabat in one word... toilet.
+Ashgabat is one of the world's strangest capitals — a gleaming white marble city marooned in the Karakum desert, built almost entirely to glorify a single man. The late president Saparmurat Niyazov, who renamed himself Turkmenbashi ("Father of All Turkmen"), turned this orderly Soviet garrison town into a monument to his own personality cult. Golden statues of him once rotated to face the sun. Streets were renamed after his mother. The whole city feels less like a place where people live than a stage set for a state that no longer exists.
 
-Ashgabat is a modern city in the middle of Kara-Kum desert. It was founded by the Russians to house the Russian garrison and the headquarters for the Transcaspian Railroad. The city still shows its military and bureaucratic origins—it’s orderly clean and uninteresting. 
+That said, Ashgabat has a surreal fascination for travelers who make it this far. The scale of the architectural vanity is genuinely astonishing: vast white palaces, fountains that outdo Las Vegas, and a carpet museum housing what is claimed to be the largest hand-woven carpet in the world — a 2,000-square-foot Tekke Bukhara. The city's broad tree-lined boulevards are immaculately clean, the hotels are posh and largely empty, and you may find yourself the only tourist in many of the official sights.
 
-Most of the monuments and sights are very recent and have one purpose to hail the president Turkmenbasi. The oil-boom has made Turkmenistan oil rich, and has given the government the possibility to spend money on fountains and big posh hotels and palaces. 
+The historic core, such as it is, clusters around the central area near old Skobelev Square and the remains of the Russian-era fortress. This part of the city gives a faint sense of the pre-boom Ashgabat that existed before the oil money arrived. The Tolkuchka Bazaar on the northern edge of the city was once Central Asia's largest outdoor market, a chaotic open-air bazaar selling carpets, livestock, and Soviet-era bric-a-brac — it has since been relocated and tidied up, but still repays a visit on weekends.
 
-Start your visit in the central area where there is an old fortress. Skobelev Square is also worth a look. Head out to see the surreal Islamic-style Lenin Monument, do a carpet factory (there are nine in town) skip the Turkmenistan History Museum and the Exhibition of Economic Achievements. As carpets are the pride of the nation don’t miss the new Turkmen Carpet Museum that has on display the largest carpet in the world—a 2 000-sq-ft/190-sq-m Tekke Bukhara.
+Carpets are the pride of Turkmenistan and Ashgabat is the place to understand why. The Turkmen Carpet Museum holds a remarkable collection that traces the distinct tribal patterns of the Tekke, Yomut, and other Turkmen groups. There are nine carpet factories in the city and most can be visited with a local guide. If you are buying, do it here — prices in Ashgabat are lower than anywhere you will find them abroad, and the quality is genuine.
+
+Getting into Turkmenistan requires advance planning: most visitors need a letter of invitation and a government-approved guide. If you have made it this far, you are already committed. Allow at least two to three days in the capital before heading out to the ancient ruins at [Merv](/asia/turkmenistan/mary) or the haunting gas crater at Darvaza.

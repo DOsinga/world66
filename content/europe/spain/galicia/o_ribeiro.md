@@ -1,8 +1,14 @@
 ---
-title: "O Ribeiro"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.2883
+longitude: -8.145
+title: O Ribeiro
 type: location
-latitude: 42.319906
-longitude: -8.152267
 ---
 
-O Ribeiro wines grow over a surface area of approximately 3,000 hectares, situated on hillsides that run down to the Rivers Miño, Avia and Arnoia, in the west of the province of Ourense. O Ribeiro wines are young, moderately acid, light and delicate, with exquisite combinations of floral and fruity aromas which are almost always surprising. When it is made with autochthonous varieties (Treixadura, Torrontés, Loureira, Albariño, Caíño, Brancellao, Sousón...) it acquires a peculiar personality that makes it incomparable. In the Ourense district of Ribadavia, the Exhibition-Fair of the Exaltation of O Ribeiro Wine has been held for a quarter of a century, and every year attracts thousands of people. Declared of National Tourist Interest.
+**O Ribeiro** is one of Galicia's oldest wine regions, centred on the town of Ribadavia in the province of Ourense. The vineyards cover about 3,000 hectares of terraced hillsides running down to the Miño, Avia, and Arnoia rivers — a beautiful landscape of steep green slopes and granite villages.
+
+The wines are light, aromatic, and moderately acidic — at their best when made from indigenous varieties like Treixadura, Torrontés, and Loureira. They are meant to be drunk young and go perfectly with Galician seafood. The annual Feira do Viño do Ribeiro in Ribadavia draws thousands and is a good excuse to visit.
+
+Ribadavia itself is a handsome old town with a ruined castle, a well-preserved Jewish quarter, and a good number of wine bars where you can taste the local product for very little.

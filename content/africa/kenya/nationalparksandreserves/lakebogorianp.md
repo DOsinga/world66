@@ -1,10 +1,14 @@
 ---
-title: "Lake Bogoria N.P."
+done:
+  location_cleanup: '2026-04-08'
+latitude: 0.25
+longitude: 36.1
+title: Lake Bogoria N.P.
 type: location
 ---
 
-Lake Bogoria is a shallow soda lake north of Nakuru.  If you’re lucky and the conditions of Lake Nakuru are not quite right, Lake Bogoria could be covered with flamingos. If not, there’s still other attractions, like hot springs and geysers. The surrounding habitat is drab scrub, so there’s not much chance of seeing wildlife. I suggest visiting the lake only if you’re in the area, or seeing it together with Lake Baringo.  This is a National Reserve, so you will be charged a modest fee to enter.
+Lake Bogoria is a shallow soda lake in the Rift Valley, north of [Nakuru](/africa/kenya/nakuru). When conditions at Lake Nakuru are not right for flamingos — which happens regularly — the birds move here instead, and the lake can turn pink with hundreds of thousands of lesser flamingos. Even without the flamingos, Lake Bogoria is worth the detour for its hot springs and geysers, which erupt along the western shore with impressive force.
 
- To get to Lake Bogoria National Reserve, take B4 north, just outside of Nakuru, towards Marigat. The road to the gate is signposted about 2 km before Marigat. It’s about 20 km from the turn off to Loboi Gate. You need your own vehicle to reach the lake, as there are no matatus that run there.
+The surrounding landscape is dry scrubland, so do not expect much in the way of wildlife beyond the flamingos and the occasional greater kudu. This is a national reserve rather than a full national park, with a modest entry fee.
 
- If you want to stay at the lake, there are several accommodations near by. There are two campsites south of the lake, but make sure to bring your own food and water. If you don’t want to camp, try the *Papyrus Inn* just outside of the Loboi Gate. They have singles/doubles with breakfast from KSh 400/600. Two km before the same gate is the Lake Bogoria Hotel (# (037) 42696). The hotel is very nice, with rooms costing US$ 105/130 for singles/doubles with half board, or US$ 120/160 with full board.
+To get here, take the B4 north from Nakuru towards Marigat. The turn-off to Loboi Gate is signposted about 2 km before Marigat, and it is roughly 20 km from there to the gate. You will need your own vehicle — no matatus run to the lake.

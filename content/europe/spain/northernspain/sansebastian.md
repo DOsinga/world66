@@ -1,14 +1,16 @@
 ---
-title: "San sebastian"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.3224
+longitude: -1.9839
+title: San Sebastián
 type: location
-latitude: 43.322422
-longitude: -1.983889
 ---
 
-**San Sebastian** is in important city in the Basque Region in the north of Spain. It lies in the shelter of the Monte lgueldo, Urgull and Ulía, and the river Urumea flows through the middle of it. 
+San Sebastián (Donostia in Basque) has one of the most beautiful urban settings in Europe. The city curves around the Bay of La Concha, a near-perfect crescent of sand sheltered by the green hills of Monte Urgull and Monte Igueldo, with the tiny island of Santa Clara sitting in the middle of the bay. The view from either hill is reason enough to visit.
 
-San Sebastian is an important beach resort, but that's not all that there's to the city. The cosmopolitanism of the modern town with its large avenues and elegant tree-lined boulevards and picturesque old quarter are two important attractions. Don't miss the fishing port where excellent typical restaurants compete for business and where you find its two oldest churches - the Gothic **Church of San Vicente** and the **Baroque Church of Santa María**, as well as the 16th c Convent of San Telmo, converted into a museum and worthy of a visit to see its cloister and the paintings by the great Sert which decorated it. I LOVE THE COCK 
+But San Sebastián's real fame is its food. The Parte Vieja (old town), squeezed between the bay and the river Urumea, is packed with pintxo bars — small, beautifully prepared bites lined up on the counter, washed down with txakoli or cider. This is where Basque cuisine reaches its most concentrated and accessible form. The city also holds more Michelin stars per capita than almost anywhere on earth, if that matters to you.
 
-The beach of **La Concha** is worthy of mention, being a magical viewing point from the city out onto the Bay of Biscay, and if we add to this the Montes Urgull and lgueldo and the Island of Santa Clara, then the final result is a bay of outstanding beauty. 
+Beyond the food: the old town has the Gothic Church of San Vicente and the Baroque Church of Santa María, both worth a look. The Convent of San Telmo has been converted into a museum of Basque history and culture, with murals by the Catalan painter Josep Maria Sert covering the walls of the old cloister. La Concha beach is one of the finest city beaches in Europe — calm, clean, and walkable from anywhere in the centre.
 
-The Cathedral del Buen Pastor, the Municipal Casino, the Auditorium and the Congress Palace are modern structures of important addition to the urban surroundings.
+San Sebastián also hosts the International Film Festival in September, which draws a serious crowd but adds a buzz to the city.

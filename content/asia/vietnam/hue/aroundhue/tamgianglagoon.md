@@ -1,8 +1,10 @@
 ---
-title: "Tam Giang Lagoon"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 16.373383
 longitude: 107.876348
+title: Tam Giang Lagoon
+type: location
 ---
 
 Tam Giang and Cau Hai together form the largest lagoon system in Southeast Asia, stretching more than 70 kilometres along the coast north of Hue. The shallow, brackish waters teem with fish, shrimp and crab, and the seafood here — eaten fresh at simple waterside stalls — is some of the best in central Vietnam.

@@ -1,11 +1,14 @@
 ---
-title: "Rovaniemi"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 66.502554
 longitude: 25.730391
+title: Rovaniemi
+type: location
 ---
 
-The gold fever drew many adventurers to the cold Rovaniemi at the beginning of the 1800s. Not surprisingly, this resulted in an economical growth of Rovaniemi and made it into the capital of the province of Lapland. The city’s modern buildings border on the extensive unspoiled Lapland countryside and Artic wilderness. Besides a conference town, Rovaniemi is a thriving university town that offers some good museums in the neighbourhood and some excellent hiking and skiing opportunities.
+Rovaniemi sits right on the Arctic Circle, the capital of Finnish Lapland and the self-proclaimed hometown of Santa Claus. Gold fever brought adventurers here in the early 1800s and kicked off the town’s growth, but the German army burned Rovaniemi to the ground during their retreat in 1944. What rose from the ashes is an entirely modern city — Alvar Aalto designed the town plan in the shape of reindeer antlers.
 
+Today Rovaniemi is a university town with good museums, including the excellent Arktikum science centre, which tells the story of Arctic life under a long glass tunnel. The Santa Claus Village on the Arctic Circle line draws families year-round, but the real draw is the wilderness just beyond the city limits — cross-country skiing, snowmobile safaris, and northern lights in winter, midnight sun and hiking along the Ounasjoki river in summer.
 
- Because the city was completely destroyed in World War II, and after that completely rebuilt, you won’t find many traces of the city’s history. A good day-trip is a visit to Ranua (with its zoo) and to the Santa Park that gives you the opportunity to see Santa Claus in person and is especially recommended to those who still don't believe that he truly exist.
+A good day trip is Ranua Wildlife Park, about an hour south, home to the only polar bears in Finland alongside Arctic foxes, wolverines, and lynx.

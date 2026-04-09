@@ -1,8 +1,10 @@
 ---
-title: "Bandarban"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 22.192009
 longitude: 92.218533
+title: Bandarban
+type: location
 ---
 
 Bandarban is the most remote and scenic of the three Chittagong Hill Tracts districts. The town sits in a valley surrounded by forested ridges, and the surrounding hills are home to several indigenous peoples — the Mro, Bawm, Khumi, and others — whose villages can be reached on foot or by motorbike.

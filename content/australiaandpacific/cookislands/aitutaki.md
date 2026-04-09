@@ -1,8 +1,10 @@
 ---
-title: "Aitutaki"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -18.888378
 longitude: -159.783188
+title: Aitutaki
+type: location
 ---
 
 Aitutaki is the Cook Islands' second most visited island, and for many travellers the highlight of the whole country. The island itself is pleasant — small, green, quiet — but the real draw is the lagoon: a vast, shallow expanse of turquoise water ringed by fifteen small motus (islets), with white sand and coral outcrops scattered across it. It is genuinely one of the most beautiful lagoons in the Pacific.

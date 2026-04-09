@@ -1,10 +1,18 @@
 ---
-title: "Cousin island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -4.3323
+longitude: 55.6644
+title: Cousin Island
 type: location
 ---
 
-A few kilometres from [Praslin](/africa/seychelles/praslin) is the small island of Cousin. Cousin is a bird sanctuary and can be visited by arrangement. It is about one and a half hours from Praslin by boat.
+A few kilometres southwest of [Praslin](/africa/seychelles/praslin), Cousin Island is one of the finest nature reserves in the Indian Ocean. At just 27 hectares, it punches well above its weight: this tiny granitic island hosts extraordinary densities of seabirds and is home to several species found nowhere else on Earth.
 
- The island is owned by the Royal Society for Nature Conservation (RSNC), administered by the International Council for Bird Preservation (ICBP). Cousin extends over 27 hectares and is entirely dedicated to nature. In fact, the island was made a nature reserve in 1968, when it was bought by the RSNC as a haven for endangered species of land and sea birds. Furthermore, the Seychelles Government declared it a Special Reserve in 1975, thus offering all the wildlife on the island legal protection.
+The island was bought by the Royal Society for Nature Conservation in 1968 to save it from agricultural conversion and to protect endangered bird species. The Seychelles Government declared it a Special Reserve in 1975. Today it is managed by Nature Seychelles, and every visitor goes with a trained guide — there is no independent wandering. That's not a restriction to resent; the guides know every nest and burrow, and you'll see far more with them than on your own.
 
-  Amongst the species to see are the Seychelles fody, the Seychelles turtle dove, the white-faced tropic bird, The wedge-tailed shearwater, the fairy tern, noddies and bridled terns. The Seychelles brush warbler can be found only on Cousin, Cousine island and [Aride island](/africa/seychelles/arideisland).
+The bird life is the reason to come. Hundreds of thousands of seabirds breed here: fairy terns nest in the open on branches (their single egg balanced precariously without a nest), wedge-tailed shearwaters burrow underfoot, and noddies pack the trees. Rarer land birds include the Seychelles fody and the Seychelles turtle dove. The Seychelles brush warbler — once critically endangered and reduced to around 30 individuals on Cousin alone — has recovered significantly thanks to conservation work here and translocation to [Aride Island](/africa/seychelles/arideisland) and Cousine.
+
+Green turtles nest on the beaches between October and February. The surrounding waters are a marine protected area, and the reef supports good snorkelling.
+
+Visits are by organised boat trip from Praslin, typically departing in the morning and returning by early afternoon. The island is closed on Sundays.

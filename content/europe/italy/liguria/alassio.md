@@ -1,8 +1,12 @@
 ---
-title: "Alassio"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.008011
 longitude: 8.173027
+title: Alassio
+type: location
 ---
 
-Alassio is a beautiful resort facing the Ligurian Sea, on the coast of the West Ligurian Riviera, in the province of Savona. Alassio, situated in the area called "Riviera delle Palme" is the pearl of the so-called Baia del Sole (Sun-Bay). It has 11.500 inhabitants, but the large number of summer tourists allow to reach up to 50.000. It takes around two hours to get to important towns such as Milan ( 245 km) and Turin (195 km), while it takes just a few minutes to reach Genoa (95 km), Savona (50 km), Imperia (24 km) and Sanremo (48). At about 50 km is the border between Italy and France: you'll need just one hour to get to Montecarlo or Nice. You can easily reach Alassio by any means of transport: by car (A 10 motor-way Genoa - Ventimiglia, gate Albenga), by train (Railway Station in the centre of Alassio) and airport (Genoa).
+Alassio is one of the classic Ligurian Riviera resorts, set in the curve of the Baia del Sole on the Riviera delle Palme west of [Savona](/europe/italy/liguria/savona). With 11,500 residents that swell to 50,000 in summer, it has the feel of a proper seaside town rather than just a beach — a long pedestrian centre, good restaurants, and enough life in the evening to keep you occupied.
+
+The beach is the main draw: a broad sweep of fine sand stretching for several kilometres, backed by a promenade. The town sits in a natural amphitheatre between the hills and the sea, sheltered enough to enjoy mild weather for most of the year. [Genoa](/europe/italy/liguria/genoa) is about 95 km east; the French border is 50 km to the west, making Montecarlo and Nice easy day trips. Alassio has its own railway station, and the A10 motorway (exit Albenga) connects it to Milan and Turin in about two hours.

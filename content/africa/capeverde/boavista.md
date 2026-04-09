@@ -1,13 +1,14 @@
 ---
-title: "Boa vista"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 16.099509
 longitude: -22.800941
+title: Boa vista
+type: location
 ---
 
-Boa Vista has a distinctly different character from the others. São Vicente may be a bit dry, but Boa Vista is a desert. It is pretty flat with larger expanses of sand and gravel, and a few volcanic core mountains. 
- Vegetation is almost nonexistant over most of the island. 
+Boa Vista is the flattest and most desert-like of the Cape Verde islands. Where São Vicente has at least some scrubby vegetation, Boa Vista is largely sand and gravel, punctuated by a few volcanic peaks and some extraordinary dune fields. The sparse, sunbaked landscape has a harsh beauty that is quite different from the more mountainous islands.
 
+The beaches, however, are exceptional — long, white, and largely deserted outside the resort areas. **Santa Monica** on the east coast is one of the finest beaches in the Cape Verdes. Loggerhead turtles nest on several beaches between June and October. The island is also popular for windsurfing and kitesurfing thanks to reliable trade winds.
 
- 
- Sal Rei is the most important town on the island. The name means "Salt King and refers to the salt production business which used to be important on Boa Vista. Nowadays it seems like it's tourism which may bring in some money. There's lots of fantastic beaches on the island.
+**Sal Rei** is the main town, a small, relaxed fishing community whose name (Salt King) recalls the historic salt trade. Most of the island's limited tourist infrastructure — guesthouses, restaurants, dive operators — is based here. Large international resort hotels have arrived in recent years and altered the southern coastline, but outside the resort zones Boa Vista remains quiet and authentically Cape Verdean.

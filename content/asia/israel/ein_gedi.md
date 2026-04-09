@@ -1,8 +1,10 @@
 ---
-title: "Ein Gedi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 31.452396
 longitude: 35.384824
+title: Ein Gedi
+type: location
 ---
 
 Ein Gedi is a lush oasis nature reserve clinging to the cliffs above the Dead Sea, about 90 km southeast of Jerusalem. The contrast with the surrounding desert is dramatic: springs feed waterfalls, ibex pick their way along rocky ledges, and hyraxes sun themselves on the boulders.

@@ -1,8 +1,10 @@
 ---
-title: "Bhera"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 32.482001
 longitude: 72.911052
+title: Bhera
+type: location
 ---
 
 Bhera is historical town of Punjab in district Sargodha. Bhera is
@@ -17,9 +19,6 @@ Babu Usman which has a beautiful rear garden and
 great interior designing.Bhera city is the same design as
 inner Lahore city. Alexander the great passed near to Bhera.
 
-Bhera's speciality in foods are phenia (fine spagetti in milk),
-patisa (sweets) wariya (dried lentil's with mixed spices) and
+Bhera's speciality in foods are phenia (fine vermicelli in milk),
+patisa (sweets), wariya (dried lentil dumplings with mixed spices), and
 mendhi (henna).
-
-**
-******

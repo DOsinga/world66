@@ -1,11 +1,14 @@
 ---
-title: "Apostle Islands"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.937496
 longitude: -90.582415
+title: Apostle Islands
+type: location
 ---
 
-Wisconsin's northernmost landscape juts out into Lake Superior as the scenic archipelago known as the Apostle Islands. The national lakeshore includes 21 islands and 12 miles of mainland Lake Superior shoreline, featuring pristine stretches of sand beach, spectacular sea caves, remnant old-growth forests, resident bald eagles and black bears, and the largest collection of lighthouses anywhere in the National Park System. 
+The Apostle Islands are an archipelago of 21 islands scattered across the southwestern corner of Lake Superior, off the northern tip of Wisconsin. The national lakeshore protects the islands plus 12 miles of mainland shoreline, and it is one of the quieter units in the National Park System.
 
+The sea caves are the star attraction, carved by centuries of wave action into the red sandstone cliffs of the mainland and several islands. In winter they freeze into spectacular ice formations. Six historic lighthouses dot the islands, the largest concentration in any national park. The forests are old-growth in places, and bald eagles and black bears are resident.
 
- For detailed information on the park's features and programs, fascinating stories, and links to a wide variety of related sites enter our Virtual Visitor Center by clicking the "In Depth" link to the right.
+Most visitors explore by kayak or tour boat from Bayfield, a small town on the mainland that serves as the gateway to the islands. The sailing season runs from roughly June through October.

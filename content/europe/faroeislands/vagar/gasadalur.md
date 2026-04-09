@@ -1,8 +1,10 @@
 ---
-title: "Gasadalur"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 62.109738
 longitude: -7.436009
+title: Gasadalur
+type: location
 ---
 
 Gasadalur is reached from Bour [qv] by the latest tunnel to be built in the Faroes [July 2008] - within the last four years. This has transformed the little village from its existence when the post had to be brought across the mountain and most supplies came by boat. Now there is a road vehicle outside practically every house.

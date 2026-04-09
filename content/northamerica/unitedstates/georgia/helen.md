@@ -1,8 +1,10 @@
 ---
-title: "Helen"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 34.700904
 longitude: -83.729455
+title: Helen
+type: location
 ---
 
 Helen is a small town in the mountains of northeast Georgia that was reimagined in 1969 as a Bavarian Alpine village — an unlikely transformation that has made it one of the most visited small towns in the state. The mock-Bavarian architecture is kitsch but enthusiastically done, and the setting in a valley along the Chattahoochee River is genuinely beautiful.

@@ -1,16 +1,14 @@
 ---
-title: "Cirebon"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -6.713704
 longitude: 108.560848
+title: Cirebon
+type: location
 ---
 
-Travel Guide
+Cirebon sits on the north coast of Java, a harbour city known locally as Kota Udang (Shrimp City) for the prawns that come in from its waters. The name itself comes from the local word for shrimp. It is a city where Javanese, Sundanese, and Chinese cultures overlap, giving it a character distinct from either [Bandung](/asia/indonesia/bandung) or the Javanese heartland to the east.
 
-Addressed as *'Kota Udang'* [prawn or shrimp city] since situated in the northern coastal line of Java. Cirebon literally stands from *ci *and *rebon* which is rebon is local language to address shrimp.
+The city's historical importance comes from Sunan Gunung Jati, one of the nine Wali Songo saints who spread Islam across Java. His legacy is visible in the city's mosques and tombs. Cirebon is unusual in having two royal palaces: the Keraton Kasepuhan (the Elder) and the Keraton Kanoman (the Younger), a split engineered by the Dutch to weaken the Sultan's power. Both are open to visitors and house collections of royal heirlooms and batik.
 
-This city known as one of the harbour city in west Java. Also a religious city where Sunan Gunung Jati, one of the Nine Saints of Wali Songo set his foot for spreading Islam. In another point, Cirebon is a unique city which have two palaces; Istana Kasepuhan [The Elder] and Istana Kanoman [The Younger]. That's happened during old centuries, whenever Dutch playing role *divide et impera *for reducing the power of Sultan Cirebon [the King of Kacirebonan].
-
-Beside historical trip, Cirebon also have delicious traditional meals so called *Nasi Jamblang*. Steam ride wrapped in teakwood leaf and served with several assortments.
-
-And another point of interest is old sugar mills that still running nowadays.
+Cirebon is also known for its food — particularly Nasi Jamblang, steamed rice wrapped in teak leaves and served with an array of side dishes. The old sugar mills on the outskirts of town, some still in operation, are another point of interest.

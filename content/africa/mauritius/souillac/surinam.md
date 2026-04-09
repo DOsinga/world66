@@ -1,8 +1,10 @@
 ---
-title: "Surinam"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -20.512291
 longitude: 57.509683
+title: Surinam
+type: location
 ---
 
 Surinam is a village in the far south of Mauritius, just east of Souillac on the other side of the Savanne River estuary. It's a quiet, largely residential community with a Sunday market and some local cafes.

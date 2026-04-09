@@ -1,18 +1,12 @@
 ---
-title: "Sogod"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 10.747195
 longitude: 124.004473
+title: Sogod
+type: location
 ---
 
-Travel Guide
+Sogod is the second-largest town in Southern Leyte, serving as a regional hub for commerce and education in the province. It sits inland, away from the dive-tourism crowds that concentrate along the coast, and has a workaday feel that reflects its role as a market and transport node rather than a tourist destination.
 
-Sogod, So. Leyte is the secondary center for commerce, trade, industry and education in the province of Southern Leyte. A fifth class municipality headed by mayor Shephered Tan, Sogod, although prospering, still struggles in th mud since local investors their refuse to adopt certain changes which are really of paramount importance.
-
-Although Sogod's politics and commerce are less palatable, it must be noted though that it's tourism potentials could compete that of other neighboring establish tourism destinations like Ormoc, Tacloban, and even Bohol.
-
-A trip to Sogod would not be complete if you fail to visit Gerona Farm located 15 minutes away from the town proper via motorcle-for-hire and "habal-habals".
-
-Gerona Farm boasts it's fresh from the bond fishes such as telapia (St. Peter's fish), hito (Catfish), native chicken, fruits, cut-flowers, and other souvenir goods.
-
-for more information about Sogod, Southern Lete, visit http://bendzgerona.blogspot.com
+There isn't much here to draw a dedicated visit, but travellers passing through Southern Leyte may find themselves stopping in Sogod to change buses, stock up, or break a longer journey.

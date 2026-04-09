@@ -1,14 +1,14 @@
 ---
-title: "Tartu"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 58.377953
 longitude: 26.729002
+title: Tartu
+type: location
 ---
 
-Tartu was closed to the outside world during the Soviet rule, because the biggest Baltic military aerodrome was situated here. Since the independance of Estonia the town has opened up; the citizens of Tartu are most hospitable towards the visitors of their city and every year more tourists come to visit this charming univesrity town.
+Tartu is Estonia's second city and its intellectual capital — home to one of the oldest universities in northern Europe, founded in 1632. The Estonians call it the "Athens on the Emajogi." During Soviet times the city was closed to outsiders because of a military aerodrome, but since independence it has opened up into a lively, walkable university town with a growing café and restaurant scene.
 
+The centre of town is Raekoja plats (Town Hall Square), dominated by its neoclassical town hall and the famous "Kissing Students" fountain. Toome Hill (Toomemagi) rises behind it, a park-covered hill with the ruins of the medieval cathedral, now housing the university's history museum, and several observatory buildings. The Estonian National Museum, in a striking modern building on the site of the old Soviet airfield, is one of the best museums in the Baltics.
 
- Tartu is internationally known for its university - one of the oldest in Europe. Many international conferences and seminars are held here. It gave the city the reputation of being "Athens on the River Emajõgi".
-
-
- Over the recent years most of the sights have been restored, the number of high-level hotels, recreation sites, cafés and restaurants has increased fast and Tartu has become a good place to spend some time.
+Tartu has a youthful energy thanks to its large student population. The bars and cafés around the old town are lively, especially during the Student Days festival at the end of April.

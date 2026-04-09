@@ -1,18 +1,12 @@
 ---
-title: "Mitad del Mundo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -1.260787
 longitude: -78.609882
+title: Mitad del Mundo
+type: location
 ---
 
-Travel Guide
+Just half an hour north of Quito, the Mitad del Mundo marks the location of the equator — or rather, where 18th-century French explorers calculated it to be. The actual equator line sits about 240 metres north, at the smaller Intiñan Solar Museum.
 
-Just half an hour north of Quito, you'll find the Mitad del Mundo (the
-middle of the world), a monument marking the location of the equator.
-In actuality, the monument called Mitad del Mundo was inaccurately
-reported as the equator line by a group of international explorers in
-the 19th century. The original monument is worth a visit for its
-three-story museum (entrance $3) which goes into great detail on all of
-Ecuador’s indigenous tribes’ typical dress, food and customs.
-To read more about Mitad del Mundo, visit
-http://www.vivatravelguides.com/south-america/ecuador/quito/near-quito/mitad-del-mundo
+The original monument is still worth a visit for its three-story museum covering Ecuador’s indigenous cultures — their dress, food, and customs. The surrounding complex has restaurants and souvenir shops, and it makes for an easy half-day trip from Quito.

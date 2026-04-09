@@ -1,22 +1,14 @@
 ---
-title: "Skerries"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 53.573989
 longitude: -6.119175
+title: Skerries
+type: location
 ---
 
-Skerries is a nice suprise when you see some of the ham-fisted urban planning that goes on in the Dublin Commuter Belt. it still feels like a victorian fishing village and its on the train to Dublin. There are nice walks around the coast and the architecture is a good blend of Georgian to Edwardian. 
+Skerries is a pleasant surprise on the Dublin commuter belt — a seaside town that still feels like a Victorian fishing village, with good coastal walks, a working harbour, and a mix of Georgian and Edwardian architecture. It is on the DART/commuter rail line to Dublin, making it an easy day trip or a quieter base for exploring the capital.
 
+The coastal walks are the main draw: a path runs around Red Island and along the cliffs south of town, with views out to Skerries Islands and their colony of terns. Skerries Mills, a restored complex of two windmills and a watermill, is worth a visit if you are interested in industrial heritage.
 
-
-There are plenty of pubs to tickle your fancy but the 'stoop your head' is a good gastro-pub. There's a nice wine shop near the Super-Valu whose name escspes me but it has a good selection of vino. 
-
-
-
-The only bad thing in Skerries is the selection of chip-shops. No only do they sell truly dreadful muck passing as food but they should have guns and masks on given the prices they charge. 
-
-My advice is to drive about 290km southwest to [Cork](/europe/ireland/cork) City where you have a choice between KC's, Lennox's and The Golden Fry (and Dino's if your from the 'Collig or Bishopstown). 
-
-
-
-So................Skerries, nice if you're on a diet. ......
+The town has a good selection of pubs and restaurants. Stoop Your Head is a reliable gastro-pub, and the harbour area has a few seafood spots making the most of the local catch.

@@ -1,14 +1,14 @@
 ---
-title: "Rudesheim"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 49.84579
 longitude: 7.815331
+title: Rüdesheim
+type: location
 ---
 
-Since the beginning of the last century, Ruedesheim has been an attraction for English and German romantic writers, and is today considering the modest number of its residents - one of the most visited towns in Germany, especially in summertime. If you do not mind some overcrowded streets like the "Drosselgasse", visit the historical buildings, such as the Klunkhardshof, the fortified Adlerturm, the thousand-year old Broemser castle, the Boosenburg and the ruins of Ehrenfels castle, which are a pleasure for the eyes and senses. For those who seek tranquility, there are extensive forests nearby, such as the nature park "Rhein-Taunus". 
+Rüdesheim am Rhein is one of Germany's most visited small towns — remarkable given its modest population — due to its position at the southern end of the Rheingau wine region and its dramatic Rhine Valley setting. It has been a stop for travellers since at least the early 19th century, when English and German Romantic writers made the Rhine valley fashionable.
 
+The narrow Drosselgasse pedestrian lane is the tourist epicentre: wine taverns and restaurants packed together, inevitably crowded in summer. Beyond this, the town has real substance. The Klunkhardshof, the Adlerturm fortified tower, and the Brömserburg — a thousand-year-old castle now housing a wine museum — are all worth seeing. Across the Rhine are the ruins of Ehrenfels castle, best viewed from the Rüdesheim side.
 
-
-From the vantage points of the Niederwald, you can enjoy breathtaking views of the narrow Rhine valley, the Nahe estuary, and the extensive wine landscape of the Rheingau. Concerning Rhiengau and wine: enjoy the world-famous Ruedesheimer Riesling, together with music and dancing, maybe in the Drosselgasse, numerous inns, wine bars, and places which sell home-grown wine. 
-
-**With courtesy of www.ruedesheim.de**
+The Niederwald monument above the town, reachable by gondola, gives spectacular views over the narrow Rhine valley, the Nahe estuary, and the vine-covered Rheingau slopes. The Rüdesheimer Riesling grown here is world-famous.

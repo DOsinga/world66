@@ -1,14 +1,16 @@
 ---
-title: "Puerto Plata City"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 19.7957
-longitude: -70.6880
+longitude: -70.688
+title: Puerto Plata City
+type: location
 ---
 
-It's a small town, but it's a good place to get used to being in a third world country. Meaning it's a good place to learn your first words of Spanish: 'no gracias'.
+Puerto Plata city is a Victorian-era port town that most resort visitors skip entirely — which is exactly why it's worth a half-day. The centre has genuine character: gingerbread wooden houses, a handsome central park with a gazebo, and a Malecón seafront promenade lined with restaurants and cafes. It feels like a real Dominican town, not a curated tourist experience.
 
-There isn't that much to see, but it has some nice old buildings, and a good pizzeria on the Malecon (no, it's no Pizza Hut). Buy the best pineapples in the world on the local markets, go visit the amber museum, or take the Téléferico to the summit of the 'Silver Mountain'. Or you can go drink a pint in the slums: people are friendly there, despite what the hotels try to make you believe. Just try to learn a little Spanish, and don't throw dollars around.
+The three main attractions are the Amber Museum, the 16th-century Fort San Felipe, and the Teleférico cable car up to the summit of Pico Isabel de Torres, where a Christ statue looks out over the coast and the green mountains behind the city. The views from the top on a clear day are excellent. The amber market near the museum is one of the better places in the country to buy genuine Dominican amber.
 
-If you stay in the Tourist Reservation a couple of miles to the east, you can take a nice walk along the beach to the city. You will pass Playa Bergantin, which is almost only visited by Dominican people. And some young tourists who come gazing at the local beauty's. I do think you shouldn't do this alone, especialy if you happen to be female.
+The local markets sell what many people consider the best pineapples in the world — the variety grown in this region is sweeter and more fragrant than anything you'll find exported. Pick one up and eat it on the spot. If you are staying at one of the beach resorts to the east, it is possible to walk along the beach to the city, passing [Playa Bergantin](/northamerica/dominicanrepublic/puertoplata/playabergantin) along the way, which is mostly frequented by Dominicans and far less crowded than the resort beaches.
 
-Nature is wonderfull in the region, especialy along the coast, and here and there their is still some rainforest (for example near [Cabarete](/northamerica/dominicanrepublic/puertoplata/cabarete)), and the occasional hunchback whale.
+The surrounding region is worth exploring too: mountains covered in tropical vegetation rise just behind the city, and the coast has pockets of rainforest. [Cabarete](/northamerica/dominicanrepublic/puertoplata/cabarete) is 15 km east and worth an evening out.

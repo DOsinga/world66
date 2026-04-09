@@ -1,8 +1,8 @@
 ---
 title: "The Ould Shebeen"
 type: poi
+latitude: 50.2919
+longitude: 2.7749
 ---
 
-Address: 6, Bd. Faidherbe 62000 ARRAS
-
-A real Irish Pub in the North of France. Situated close to all the Battle Fields of the First World War, what better way to relax after a day reflecting on ' Man's inhumanity to his fellow Man', than with a cool pint of beer in friendly surroundings.
+An Irish pub on Boulevard Faidherbe, a short walk from the Grand'Place. It draws a steady crowd of British and Commonwealth visitors coming to the region for the First World War battlefields. Good pints of Guinness, friendly staff, and a reliable place to decompress after a heavy day around the memorials.

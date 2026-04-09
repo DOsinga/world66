@@ -1,8 +1,10 @@
 ---
-title: "Tekek Village"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 2.818736
 longitude: 104.158587
+title: Tekek Village
+type: location
 ---
 
 Tekek is the administrative heart of Tioman. The airport, police station, hospital, government offices, and mosque are all here, along with a few well-stocked shops and an internet cafe. If you need to sort anything practical on the island, this is where you do it.

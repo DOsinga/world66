@@ -1,31 +1,14 @@
 ---
-title: "Durango"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 37.276948
 longitude: -107.8766
+title: Durango
+type: location
 ---
 
-Travel Guide
+Durango sits in the Animas River Valley in southwest Colorado, surrounded by the San Juan Mountains. It is one of the best outdoor towns in the state — the kind of place where you can raft the Animas in the morning, mountain bike in the afternoon, and eat well downtown in the evening.
 
-The City of Durango is a Home Rule Municipality that is the
-county seat and the most populous city of La Plata County, Colorado, United
-States. The United States Census Bureau estimates that the city population was
-15,501 in 2005.
+The Durango & Silverton Narrow Gauge Railroad is the town's most famous attraction: a steam-powered heritage train that follows the Animas River through spectacular mountain scenery to the old mining town of [Silverton](/northamerica/unitedstates/colorado/silverton). The trains have been running since 1882 and the ride is genuinely thrilling.
 
-Durango is nestled in the Animas River Valley surrounded by
-the San Juan Mountains. The Animas River—El Río de las Animas Perdidas or the
-River of Lost Souls—runs through downtown and boasts gold medal fly fishing
-waters, and is popular for whitewater rafting, kayaking and canoeing. Durango
-is also popular for outdoor activities like hiking, mountain biking, road
-biking, backpacking, rock climbing, hunting, off-roading, year-round fishing,
-kayaking and golfing.
-
-Durango is near five major ski areas, including Purgatory at
-Durango Mountain Resort, located twenty-five minutes north of downtown. Located
-thirty-five miles west of Durango is Mesa Verde National Park, a UNESCO World
-Heritage Site known for its Ancestral Puebloan Cliff Dwellings.
-
-Durango is known for the Durango & Silverton Narrow
-Gauge Railroad, a heritage railway which travels from Durango to the historic
-mining town of Silverton, Colorado on steam-powered trains with rolling stock
-dating
+[Mesa Verde National Park](/northamerica/unitedstates/colorado/mesaverde), with its extraordinary Ancestral Puebloan cliff dwellings, is about 35 miles west — an easy day trip. Purgatory ski resort is 25 minutes north for winter visitors. The Animas itself offers gold medal fly fishing and good whitewater rafting through town.

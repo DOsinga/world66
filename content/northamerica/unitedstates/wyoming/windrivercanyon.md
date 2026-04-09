@@ -1,8 +1,14 @@
 ---
-title: "Wind River Canyon"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.57
+longitude: -108.2
+title: Wind River Canyon
 type: location
-latitude: 43.563549
-longitude: -116.617505
 ---
 
-Shoshoni, Wyoming is located near the center of the state, Which is located on the Wind River Indian Reservation. North of Shoshoni will take you up to Lake Boysen State Park a fairly large lake with clean beaches, camping, boating with great walleye fishing and up through the Wind River Canyon absolutely stunning scenery, The canyon is one of the oldest in the US. there are many many "huge" cliffs and rock that is dated from way back and is marked in places telling about the rock and how old it is and about it. Your eyes will be in heaven as you drive up through the Wind River Canyon on a paved winding road going through mountains "tunnels" on your way to Hot Springs State Park in Thermopolis. Thermopolis.. What can I say .. you will love it.. It is the home of the Largest hot springs in the world, Thermopolis has lodging available, as you visit the museums and relax in this beautiful country.. and don't forget if you like whitewater sports:-) Like I do.. do some white water rafting through the Wind River Canyon You won't regret it trust me .. you will see so much and feel so small compared to the huge cliffs that will surround you.
+Wind River Canyon carves through the Owl Creek Mountains in central Wyoming, cutting a dramatic gorge that the Wind River has spent millions of years deepening. The canyon walls expose rock dating back nearly three billion years — among the oldest exposed geology in North America — and geological markers along the road identify the formations as you pass through them. The drive alone is worth the detour.
+
+The main route through the canyon, US Highway 20, runs about 12 miles between Shoshoni to the south and Thermopolis to the north, following the river along a winding paved road that passes through two short tunnels blasted through solid rock. The cliffs rise dramatically on both sides, and the river churns below. Whitewater rafting through the canyon is a serious option — the river runs fast through the gorge and outfitters based in Thermopolis run guided trips.
+
+To the south, just outside Shoshoni, Boysen State Park offers a large reservoir with camping, boating, and excellent walleye fishing — a good base if you want to spend more than a day in the area. To the north, Thermopolis is home to Hot Springs State Park, which contains some of the world's largest mineral hot springs. After a day in the canyon, soaking in the state bath house — which offers free entry — is an obvious way to end it.

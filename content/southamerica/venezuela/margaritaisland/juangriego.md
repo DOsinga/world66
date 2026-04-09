@@ -1,8 +1,10 @@
 ---
-title: "Juan Griego"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 11.0821
 longitude: -63.9652
+title: Juan Griego
+type: location
 ---
 
 Juan Griego is a small fishing town on the north coast of Margarita, famous for one thing: its sunsets. The bay faces west and the sun drops straight into the water, framed by the hills on either side. People gather at the waterfront restaurants each evening to watch.

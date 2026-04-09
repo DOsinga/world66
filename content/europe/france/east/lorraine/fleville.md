@@ -1,12 +1,14 @@
 ---
-title: "Fleville"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 48.5917
+longitude: 6.2594
+title: Fléville
 type: location
-latitude: 49.305342
-longitude: 4.970557
 ---
 
-Just outside of Nancy the chateau de Fleville is one of the finest Renaissance castles of the East of France. 
+Fléville-devant-Nancy is a small commune just south of Nancy, best known for the Château de Fléville — one of the finest Renaissance castles in eastern France. The château has been in private ownership for nearly two centuries and is open to visitors.
 
-The 30 m. high keep, which dominates this monument dating from 1320 was protected by Richelieu, at King Louis XIII's request. The Renaissance construction was finished in 1533, and demonstrates early French Renaissance architecture. A large 35 m. long balcony with beautiful windows under the roof decorates the front facade. The harmony of the frontage makes Fléville one of the most beautiful castles in Lorraine. 
+The castle's history starts with a 14th-century keep, 30 metres high, which was spared by Cardinal Richelieu at the request of King Louis XIII. The Renaissance wings were completed in 1533, demonstrating early French Renaissance architecture at its most graceful: a 35-metre-long balcony with elegant windows runs the length of the principal facade. The interior includes the grand Estates of Lorraine Room, which tells the history of the Dukes of Lorraine, and several intimate family rooms. Both the castle and the park are listed historic monuments.
 
-Inside, the grand Estates of Lorraine Room tells the history of the Dukes of Lorraine. The Stanislas Room along with other rooms demonstrate the intimate details of the family who has lived in this chateau for 190 years. The castle and the park all are listed among the Historic buildings.
+Fléville is a short drive from Nancy — about 10 km — and can be combined with a visit to the city's famous Place Stanislas.

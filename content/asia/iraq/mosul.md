@@ -1,19 +1,14 @@
 ---
-title: "Mosul"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.343694
 longitude: 43.099716
+title: Mosul
+type: location
 ---
 
-Mosul is Iraq's third largest city and sometimes described as the Pearl of the North.
+Mosul is Iraq's second-largest city, straddling the Tigris in the far north of the country and long known as the Pearl of the North. It sits on the site of ancient Nineveh, capital of the Assyrian Empire, and for centuries was one of the most cosmopolitan cities in the Middle East — a place where Arab, Kurdish, Assyrian Christian, Turkmen, and Yazidi communities lived side by side.
 
+Your first impression arriving from the south may not be positive. The modern outskirts are utilitarian and, after the devastation of the 2016–17 battle to retake the city from ISIS, much of the Old City on the west bank remains in ruins. But Mosul is rebuilding. Along the river, surviving Ottoman houses line the waterfront, and minarets, church spires, and domes still punctuate the skyline.
 
- 
- Your first impresison of Mosul from the south may not be thta positive. The buildings are modern and have a utilitarian look. But once you get to the river, the old houses that still stand on the water's edge and the parks you can start appreciating the place. You can see minarets and church spires and domes above the rooftops. This area has a mixed christian and muslim population
-
-
- One of the main tourist sights is a church: Chamoun al Safa dates from the thirteenth century. It has a deep underground courtyard and a cemetery between high walls containing some ornate tombstones of Moslawi merchants.
-
-Another Christian monument is the Syrian Orthodox Church of Ma Toma (St, Thomas). It is lavishly, even gaudily, decorated although from the outside it looks rather dull. On one wall, you see a small illuminated and lass-fronted pigeon-hole in which are displayed the relics of St. Thomas.
-
-The oldest mosque is the Al Kabir, the Great Mosque, built in beginning of the 10-th century by Nur-ad-Din esh Shahid. Next door is a fine brick minaret that leans like the Tower of Pisa. It is all that is left of an Ommayad mosque from 640 AD.
+Among the historic monuments, the thirteenth-century Chamoun al-Safa church has a deep underground courtyard and a cemetery with ornate tombstones of Moslawi merchants. The Syrian Orthodox Church of Mar Toma (St Thomas) is lavishly decorated inside despite its plain exterior, with a small glass-fronted niche displaying relics of St Thomas. The Al-Nuri Great Mosque, built by Nur ad-Din in the twelfth century, was famous for its leaning minaret — the "hunchback" — which tragically collapsed during the 2017 fighting and is now being reconstructed with UNESCO support.

@@ -3,9 +3,4 @@ title: "Things to do"
 type: section
 ---
 
-Ao Chalong doesn't offer much but is home of the Ao Chalong Yacht Cub where they are very welcoming of novice and experienced sailors alike. Once a month they have **fun** race, open to anyone for very a cheap entry fee that includes prizes for winning crews and a small Thai buffet after the race.
-
-**Contributors**
-May 28, 2006
-
-May 29, 2006
+The **Ao Chalong Yacht Club** is the social hub of the bay, welcoming sailors of all experience levels. They run a fun race once a month — open to anyone, with a cheap entry fee that covers prizes for winning crews and a small Thai buffet afterwards. Worth knowing about even if you're not a sailor.

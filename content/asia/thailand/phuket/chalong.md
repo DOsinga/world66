@@ -1,8 +1,16 @@
 ---
-title: "Chalong"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 7.84652
 longitude: 98.334415
+title: Chalong
+type: location
 ---
 
-Chalong is in the South East of Phuket, it's the armpit of Phuket more or less. But a lot of foreigners live here to get away from the BS rules and regulations of their overdeveloped western home country. There is two reasons a tourist visiting Phuket may want to visit Chalong. First, it is where all the boats depart from. So if you are going to one of the many nearby islands on a dive or snorkeling trip, then you will most likely depart from Chalong. And second, there are a number of good seafood restaurants here along Ao Chalong, Chalong Bay. Fresh crab, lobster and fish, still live.
+Chalong sits in the southeast of Phuket, well away from the tourist circus of Patong. It's a working waterfront district — functional, a little rough, and genuinely Thai in character. Plenty of expats have settled here precisely because it feels like real life rather than a resort.
+
+There are two good reasons to come. The first is the pier: almost all boat trips to the nearby islands — dive excursions, snorkelling day trips to Coral Island, liveaboards — depart from Chalong Bay. If you're heading out to sea, you'll end up here anyway.
+
+The second reason is food. The seafood restaurants along Ao Chalong Bay serve fresh crab, lobster, and fish straight from the tank. This is where you eat well for less than you'd pay anywhere near the beach strip.
+
+The bay also has a quiet sailing scene centred on the Ao Chalong Yacht Club, which runs regular races open to all comers.

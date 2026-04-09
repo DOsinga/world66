@@ -1,24 +1,11 @@
 ---
-title: "Shopping Antartica"
+title: "Shopping Antártica"
 type: poi
-address: "Vicente Machado"
-email: "mail@shoppingantartica.com.br"
-type: "Shopping centers and malls"
-url: "www.shoppingantartica.com.br"
-latitude: -25.435429
-longitude: -49.282737
+category: "Sight"
+address: "Rua Vicente Machado, Ponta Grossa"
+url: "http://www.shoppingantartica.com.br"
+latitude: -25.0944
+longitude: -50.1603
 ---
 
-The best place for shopping in Ponta Grossa.
-
-type: Shopping centers and malls
-
-
-
-
-
-url: [www.shoppingantartica.com.br](http://www.shoppingantartica.com.br)
-
-address: Vicente Machado
-
-email: mail@shoppingantartica.com.br
+A smaller shopping centre in the heart of Ponta Grossa, on Rua Vicente Machado near the city centre.

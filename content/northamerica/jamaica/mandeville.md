@@ -1,8 +1,10 @@
 ---
-title: "Mandeville"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 18.0418
 longitude: -77.5044
+title: Mandeville
+type: location
 ---
 
 Mandeville sits at about 600 m in the central highlands of Manchester parish, and it shows: the town is noticeably cooler than the coast, with a tidy, prosperous air and a long tradition of attracting Jamaicans who've returned from overseas. It's sometimes called the most English town in Jamaica, a reference to its cool climate and its green central square.

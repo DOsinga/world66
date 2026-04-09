@@ -1,20 +1,12 @@
 ---
-title: "Henningsvær"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 68.1529
+longitude: 14.2007
+title: Henningsvær
 type: location
-latitude: 68.152888
-longitude: 14.200724
 ---
 
-Travel Guide
+Henningsvær sits at the foot of Mount Vågakaillen, a cluster of isles and islets scattered across the blue waters of the Vestfjord. With mountains at its back and the sea on every other side, it was a natural hub during the Lofoten winter fishery, and in the 1800s the village prospered into one of the most prominent fishing communities in Lofoten.
 
-Henningsvær is situated at the foot of Mount Vågakaillen, and consists of a group of isles and islets spread out at random in the blue waters of the Vestfjord.* *
-
-With the mountain at its back and otherwise surrounded by the sea, Henningsvær was a natural hub of activity during the Lofoten Winter Fishery, and in the 1800’s, the island community prospered, and Henningsvær became one of the most prominent fishing villages in Lofoten.
-
-Unlike many other fishing villages, the population of Henningsvær has remained stable in recent years, and there are still over 500 people living there.
-
-The islands were not connected to the rest of Lofoten by bridges until 1983, a fact that probably helped save the community from the contemporary style of architecture with its preference for concrete blocks, that otherwise left its mark on just about all other Norwegian towns and villages in the 60’s and 70’s.
-
-Such a combination of an active, vibrant environment and well-preserved architecture, makes Henningsvær something quite unique.
-
-More information about Henningsvær: http://www.henningsvar.com/** **
+Unlike many other fishing villages, Henningsvær's population has remained stable in recent years, with over 500 people still living here. The islands were not connected to the rest of Lofoten by bridges until 1983, and that isolation probably saved the community from the concrete-block architecture that blighted most Norwegian towns in the 1960s and 70s. The result is something quite special — a vibrant, working fishing village with well-preserved traditional buildings, a handful of art galleries, and one of the most photogenic football pitches in the world, wedged between rock and sea on a tiny islet.

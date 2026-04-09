@@ -1,8 +1,10 @@
 ---
-title: "Ceriale"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.091629
 longitude: 8.223251
+title: Ceriale
+type: location
 ---
 
 A seaside resort at the eastern end of the fertile

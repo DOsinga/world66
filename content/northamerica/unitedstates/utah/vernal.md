@@ -1,24 +1,12 @@
 ---
-title: "Vernal"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.455683
 longitude: -109.528474
+title: Vernal
+type: location
 ---
 
-Travel Guide
+Vernal is the main town in the Uintah Basin of northeastern Utah, sitting at the edge of some of the state's most spectacular dinosaur country. It is the gateway to Dinosaur National Monument, where a quarry wall exposes over 1,500 dinosaur bones in situ — one of the great fossil sites in North America.
 
-**Vernal** is a city in Uintah County, Utah, United States. The population was 7,714 at the 2000 census. It is the county seat of Uintah County[3].The city's Vernal-Uintah County Airport has scheduled air service to Denver provided by Great Lakes Aviation. Service is subsidized by the Essential Air Service program.
-
-Vernal is one of the largest cities in the United States without a
-railway. One was proposed in the past, with a railway station being
-built. There is still a railway approximately 60 miles away from city
-limits. Railways are used for coal being delivered to the power plant
-and the transportation of gilsonite,
-a former major part of the economy in the area. The area is in a fossil
-fuel boom, bringing great amounts of economy to the area.
-
-Shopping centers and commercial districts are currently under
-construction. The Uintah Gateway Mall and the Vernal Towne center will
-offer the Vernal area with substantial shopping opportunities.
-Currently there are a number of hotels under construction, including
-two Marriott chain hotels, a LaQuinta, and others.
+The town itself is a small, practical place, notable for being one of the largest cities in the United States without a railway. The surrounding landscape is dramatic: red rock canyons, the Green River, and the Flaming Gorge National Recreation Area to the north. The Utah Field House of Natural History State Park in town has full-size dinosaur replicas and a good fossil collection.

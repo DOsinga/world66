@@ -1,14 +1,12 @@
 ---
-title: "Hastiere"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.2158
 longitude: 4.826825
+title: Hastière
+type: location
 ---
 
-**Hastiere** is a rural commune located along the most romantical part of the Meuse in the Belgian Ardennes at the boarder with France . You can discover 
+Hastière is a small rural commune in the Belgian Ardennes, strung along one of the most scenic stretches of the Meuse river near the French border. The valley here is particularly dramatic, with limestone cliffs rising directly above the water.
 
-the famous Renaissance of **Freyr** and its classical gardend facing the sperctacular rocks dominating the river on the opposite bank;
-
-the charming old village of **Waulsort** with its formal benedictine monastery;
-
-the **Romanesque** church of another formal benecictine monastery at hastière as well as a the groto of the **Pont d'Arcoles**.
+The area rewards a half-day of wandering. The Château de Freyr is a Renaissance manor set in formal gardens that face a wall of spectacular rock across the river. The village of Waulsort has a former Benedictine monastery overlooking the Meuse. Hastière itself has a fine Romanesque church — also part of a former Benedictine monastery — and the nearby Grotto of Pont d'Arcole is worth a visit.

@@ -1,12 +1,14 @@
 ---
-title: "Dunvegan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 57.436714
 longitude: -6.5814
+title: Dunvegan
+type: location
 ---
 
-Dunvegan is set on a sea loch between the peninsula of Vaternish and Duirnish. It is located some 20 miles fro [Portree](/europe/unitedkingdom/scotland/skye/portree). The main reason to come here is to visit the MacLeod castle up on a hil just outside of town. 
+Dunvegan sits on a sea loch between the Vaternish and Duirnish peninsulas, about 20 miles from [Portree](/europe/unitedkingdom/scotland/skye/portree). The main reason to come is Dunvegan Castle, the seat of the MacLeod clan and one of the oldest continuously inhabited castles in Scotland.
 
-Although it was partly rebuilt in the 19-th century the medieval outline of the fortress is still quite clear. Inside is a museum with a few important relics of the famility suchas the Fairy Flag and the Dunvegan Horn. The gardens of the castle are well tended and a great place to sit back and relax. 
+Although it was partly rebuilt in the 19th century, the medieval outline is still evident. Inside, the castle museum holds a few remarkable relics of the MacLeod family, including the Fairy Flag — a fragment of ancient silk said to protect the clan in battle — and the Dunvegan Cup. The walled gardens are beautifully kept and worth time in their own right.
 
-In summer it is also possible to take a boat and visit the colonies of seals who live on teh small islands just off the coast.
+In summer, boat trips run from the castle jetty to visit the seal colonies on the small islands just offshore.

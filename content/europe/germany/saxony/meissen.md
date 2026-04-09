@@ -1,14 +1,14 @@
 ---
-title: "Meissen"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.163087
 longitude: 13.470494
+title: Meissen
+type: location
 ---
 
-Meissen in Saxony is famous as a producer of parcelain and wine. With a history dating back more than a thousand years, Meissen is also known as the "cradle" of Saxony. That the town is worthy of such a name is clearly seen in its buildings - records of stone which bear witness to the different epochs of not only Saxon history but also the history of the Holy Roman Empire with Germany at its centre.
+Meissen is a small city on the Elbe about 25 km northwest of Dresden, famous across Europe as the birthplace of European hard-paste porcelain. The Meissen factory was established in 1710 when Augustus the Strong, Elector of Saxony, set alchemist Johann Friedrich Böttger to work producing something to rival Chinese porcelain. The result was the white gold that bears the city's name, still produced here and marked with the crossed blue swords trademark.
 
+The old town climbs above the Elbe to a hilltop crowned by **Albrechtsburg Castle** and **Meissen Cathedral**, one of the most striking medieval silhouettes in Saxony. The castle, built between 1471 and 1524, was one of the first large residential palaces in Germany; the Cathedral next door contains notable Gothic altarpieces and choir stalls. Together they make a rewarding afternoon on their own.
 
- The main sights in town are the **Albrechtsburg Castle** and **Meissen Cathedral** on the hill above the town. With the romantic silhouette of the roofs of the Old Town below it, the hill offers a magnificent panorama and has become a favourite subject for photographers from the banks of the Elbe.
-
-
- Meissen is also a good starting point for taking a trip along the Saxon wine road. Saxony is one of Europes northernmost wine producing areas and especially the white wines are not bad.
+The city is also a good base for the Saxon wine road — Saxony is one of Germany's northernmost wine-producing areas, and the steep slopes above the Elbe produce some distinctive white wines, particularly Müller-Thurgau and Riesling. Day trips to Dresden are easy.

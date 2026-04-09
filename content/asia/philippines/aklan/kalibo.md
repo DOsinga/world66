@@ -1,10 +1,14 @@
 ---
-title: "Kalibo"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 11.7089
+longitude: 122.364
+title: Kalibo
 type: location
-latitude: 11.708897
-longitude: 122.364023
 ---
 
-Travel Guide
+Most travelers pass through Kalibo on their way to Boracay — the town's airport is the main entry point for the island — but that's a shame, because Kalibo is worth more than a quick connection. It's the capital of Aklan province, a busy, lived-in market town with good food and a genuinely welcoming atmosphere.
 
-Kalibo is a First Class Municipality in the Western Visayas Region practically located at the center of all coastal municipalities of Aklan province. The native Kalibonhon population of about 65,000 explodes to more than 100,000 during daytime being a commercial and educational haven that caters not only to the people of Aklan but also to transients coming from other nearby provinces, cities and countries. As a major tourism gateway, the influx of tourists to Boracay Island catalyzes rapid economic expansion and municipal landscape development. Tourism activity peaks in the heart of Kalibo every January as the yearly celebration of the world-famous Sto- Ni ñ o Ati-Atihan Festival - the Mother of Philippine Festivals attracts devotees, revelers, and tourists from different parts of the world to experience the utmost solemnity and unparalleled camaraderie and spontaneity - unique twin characteristics of the Ati-Atihan that truly make it the fiesta of all fiestas.
+The big reason to actually stay is the Ati-Atihan Festival in January: a raucous, days-long street party built around devotion to the Santo Niño. Participants paint their faces black, beat drums, and dance through the streets in elaborate costumes. It predates Mardi Gras comparisons but earns them — if you happen to be in the Philippines in January, this is worth rearranging your itinerary for.
+
+Outside festival season, Kalibo is an agreeable stopover. The town center has reasonable restaurants and cafes, a lively public market, and the kind of unhurried provincial pace that's increasingly rare in the Philippines. It's not a destination in itself, but it's a decent place to spend a night before or after Boracay rather than rushing through.

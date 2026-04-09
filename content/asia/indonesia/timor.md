@@ -1,16 +1,14 @@
 ---
-title: "Timor"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -9.75
+longitude: 124.0
+title: Timor
 type: location
-latitude: -9.346017
-longitude: 124.637077
 ---
 
-Most people call at West Timor either to get to or from Australia to the rest of Indonesia. Kupang is the biggest city on the island and is not too bad to hang around for a few days.
+West Timor is the Indonesian half of Timor island, part of East Nusa Tenggara province. Most travellers pass through on their way to or from [East Timor](/asia/easttimor) or Australia, but the region has its own rough appeal — dry savannahs, traditional villages, and a culture quite distinct from the rest of Indonesia.
 
+Kupang, the provincial capital on the western tip, is the main transport hub. It is a scrappy, sprawling port city but not unpleasant for a day or two — the waterfront sunsets are good, the seafood is cheap, and it serves as a base for exploring the surrounding area. From Kupang, you can arrange visits to traditional villages in the interior where ikat weaving is still practiced and animist traditions persist alongside Christianity.
 
- The capital of
-[East Timor](/asia/easttimor), Dili, can be reached fairly easily and offers a mélange of Portuguese colonial remnants, a laid-back atmosphere and some nice beaches.
-
-
- 
- However, East Timor (a former Portuguese colony) is mostly known for its heated relationship with Indonesia, that invaded and occupied East Timor in 1975. After a lot of bloodshedding, East Timor finally saw its chance in 1999 and 80% of its population voted for independence. These days, the UN sees to the upholding of the referendum results. Although East Timor is open to travellers, be aware that they are not a common sight outside the city of Dili and that feelings can run high when even mentioning the political situation. Best to check on the present state of affairs before heading off for the eastern part of Timor.
+The landscape is drier and more rugged than most of Indonesia — think eucalyptus, lontar palms, and red earth rather than the lush rice terraces of Java or Bali. The eastern border crossing to East Timor at Mota'ain is straightforward if you have a visa. The road from Kupang east through Soe and Kefamenanu passes through some of the most traditional parts of the island.

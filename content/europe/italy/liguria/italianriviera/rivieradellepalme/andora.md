@@ -1,8 +1,12 @@
 ---
-title: "Andora"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.9519
+longitude: 8.1456
+title: Andora
 type: location
-latitude: 43.951929
-longitude: 8.145649
 ---
 
-Facing onto the bay that extends between Capo Mele and Capo Cervo, it used to belong to the marchesi di Clavesana, who chose to make their home at Borgo Castello: the latter comprises the church of Santi Giacomo e Filippo in late Romanesque style, the tower that served as the entrance to the castle and, on the top of the hill, the little church of San Nicolò, the “Paraxu” or residence of the Genoese governor and the remains of the polygonal castle with its fortifications. Other relics from the medieval period include the large Romanesque bridge with its ten arches spanning the Merula River, a fountain and a number of small lookout towers to guard against raids by Barbary pirates on the surrounding hills. An important seaside resort with a marina that can accommodate 670 boats, Andora has embraced the tourist industry and expanded all its structures, with particular emphasis on sports facilities: the town offers courses in swimming, sailing and windsurfing, along with tennis courts and riding schools. One of the most interesting events of the year is the summer program of concerts known as the Estate Musicale Andorese.
+Andora faces the bay between Capo Mele and Capo Cervo on the Riviera delle Palme. The old hillside settlement of Borgo Castello preserves the medieval core: the late Romanesque church of Santi Giacomo e Filippo, a gate tower, and on the hilltop the little church of San Nicolò alongside the remains of a polygonal castle and the "Paraxu," the former residence of the Genoese governor. A handsome ten-arched Romanesque bridge spans the Merula River below.
+
+The modern town is a popular seaside resort with a large marina accommodating over 600 boats. Sports facilities are a focus — swimming, sailing, windsurfing, tennis and riding are all on offer. In summer the Estate Musicale Andorese concert programme livens up the evenings.

@@ -1,12 +1,14 @@
 ---
-title: "Avanos"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.870906
 longitude: 34.853666
+title: Avanos
+type: location
 ---
 
-Avanos is the pottery centre of Cappadocia. The city is set on the banks of the Kizilirmak, meaning the Red River. The river gets its name from the clay that it deposits - the caly that is used for the pottery Avanos is famous for. 
+Avanos is Cappadocia's pottery town, and it wears that identity without apology. The Kizilirmak — the Red River — runs right through it, depositing the red clay that potters here have been working for thousands of years. The colour of the river tells you everything about the place.
 
-The main street of town has numerous shops and workshops selling plain and decorated pots and plates and you can watch the potters at work using kick wheels, the design of which has remained unchanged for generations. Many of the workshops will encourage you to have a go yourself. Groups of tourists are shipped in the whole time and there are always a few people willing to give it a go - always good for a few laughs. 
+The main street is lined with workshops and showrooms, and it's worth slowing down to watch the potters at the kick wheel — a design that has barely changed in centuries. Most shops will happily let you have a go yourself, with the predictably messy results. It's one of those rare tourist activities that's actually fun rather than just something to tick off.
 
-Avanos is a possible base for exploring Cappadocia with accommodation and services available at reasonable rates. Sights in town include the Caravanserai, a restored Han (travellers 'service station'), and the Ozkanak Underground city, a smaller version of those at [Derinkuyu](/asia/turkey/cappadocia/derinkuyu) and Kaymakli.
+Beyond the pottery, Avanos is a practical and pleasant base for exploring Cappadocia. It has more accommodation and everyday services than the smaller villages, and rates tend to be reasonable. The Caravanserai — a restored Ottoman han that once served travelling merchants — is worth a look. Nearby, the Ozkanak Underground City is smaller and less visited than the famous examples at [Derinkuyu](/asia/turkey/cappadocia/derinkuyu) and Kaymakli, which makes it considerably more atmospheric.

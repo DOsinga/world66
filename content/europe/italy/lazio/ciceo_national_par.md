@@ -1,19 +1,16 @@
 ---
-title: "Ciceo National Park"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.34
+longitude: 13.05
+title: Circeo National Park
 type: location
 ---
 
-Travel Guide
+Circeo National Park, on the coast south of Rome, packs a remarkable variety of landscapes into a compact strip of land. A limestone promontory juts into the Tyrrhenian Sea, giving the park its name and its most distinctive landmark. Forests of oak cover the inland slopes, while junipers cling to the seaward face. The peak of Circeo reaches 541 metres above sea level and can be reached on foot from [San Felice Circeo](/europe/italy/lazio/san_felice_circeo), which also serves as the main gateway to the park.
 
-Circeo national park on the coast south of Rome is well worth a visit. Itencompasses a number of very different environments. A promontory, visible from far away, has given the name to the park. This promontory is characterized by forest dominated by oaks but on the side facing the sea these are replaced by junipers. The promontory is easily reached from [San Felice Circeo](/europe/italy/lazio/san_felice_circeo) and is partly accessible by car. There are also trails, including one leading to the Peak of Circeo at 541 m a.s.l.
+Northwest of the promontory, a 25-kilometre sandbar runs along the coast, its dunes stabilised in places by three species of juniper. In summer the beaches fill with Italian holidaymakers, but behind the dunes lies a quieter world: a chain of lakes and marshes protected under the international Ramsar Convention for their importance to migratory waterfowl.
 
-Along the coast northwest of the promontory is a 25 km long sandbar with dunes, partly with bare sand and partly covered by three species of junipers. In summer the sandy shores are full of tourists. Inside the dunes there are a series of lakes and marshes protected by the international Ramsar Convention because of their richness of waterfowl.
+Inland, a forest of 3,260 hectares includes patches of swamp woodland — the last remnant of the Pontine Marshlands, which were otherwise drained on Mussolini's orders in the 1930s. A visitor centre here is a good starting point for walks into the forest.
 
-Further inland is a 3260 ha large forest, including some swamp forests, the last remnant of the Pontine Marshlands which were otherwise completely drained during the time of Mussolini. Here is also a visitor’s centre
-
-On the un inhabited island Zannone the visitor can experience Mediterranean shrublands and heaths, including the colourful lavender.
-
-Within the park are also the Dominitian’s Villa from the first century and the botanical garden at Villa Fogliano. The town Sabaudia is also inside the borders of the park.
-
-**Contributors**
-November 05, 2007
+Further out to sea, the uninhabited island of Zannone belongs to the park and offers Mediterranean scrubland, heathland, and patches of lavender. Within the park boundaries you will also find Domitian's Villa, a first-century imperial retreat, the botanical garden at Villa Fogliano, and the rationalist town of Sabaudia, built during the land reclamation era.

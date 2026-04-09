@@ -1,17 +1,14 @@
 ---
-title: "Lapland"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 67.692237
 longitude: 26.728139
+title: Lapland
+type: location
 ---
 
-Lapland is the hometown of Santa Claus, half a million of reindeers and the 'Aurora Borealis' (the Northern Lights). Besides that, there are some 200,000 human inhabitants, half of them dispersed over the four major cities Rovaniemi (the provincial capital), Kemijärvi, Tornio and Kemi. The province of Lapland is mostly known for its astonishing beauty: lakes, brooks, rivers, mountains and woodlands combined with little villages and extended fields.
+Finnish Lapland is the northernmost province of Finland — and Europe's last true wilderness. Half a million reindeer outnumber the 200,000 human inhabitants. The landscape is all lakes, rivers, birch forests, and fell mountains, with tiny villages scattered across an enormous territory. It is the home of Santa Claus (officially, in Rovaniemi), and the Aurora Borealis on a clear winter night is among the most extraordinary sights on earth.
 
+The provincial capital [Rovaniemi](/europe/finland/rovaniemi) sits just south of the Arctic Circle and makes a good base. The Santa Claus Village and the Ranua Wildlife Park are nearby. In summer, the Midnight Sun means continuous daylight for three months — festivals, hiking, and fishing without darkness. In winter, the landscape is deep snow and silence, the temperatures can drop to -30°C, and the northern lights perform overhead.
 
- 
- [Rovaniemi](/europe/finland/rovaniemi) offers some interesting museums and is an excellent city from which to explore the surroundings, where one can visit the Santa Park and the Ranua Wildlife Park. It is located 8 kilometres from the Artic Circle, the place to be when you want to see the Northern Lights for yourself.
-
-
- 
- A lot of festivals take place during the short summer. Make sure to participate in the Midsummer Festival of Light that takes place when Lapland turns into the land of the Midnight sun again. For the following three months, the sun remains permanently
- above the horizon.
+The four main towns — Rovaniemi, Kemijärvi, Tornio, and Kemi — each have their own character. Beyond them, vast areas of fell and forest are essentially untouched.

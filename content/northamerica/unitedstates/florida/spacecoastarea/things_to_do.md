@@ -1,19 +1,10 @@
 ---
-title: "Things to do in Space Coast Area"
+title: "Things to Do in Space Coast Area"
 type: section
-type: "Other"
 ---
 
-If you're considering viewing a space shuttle launch - SHOW UP EARLY.
+The Space Coast's signature attraction is Kennedy Space Center Visitor Complex, where you can walk beneath a Saturn V rocket, see actual spacecraft up close, and — if timing works out — watch a live launch from viewing areas on site or along the causeways. Launches happen regularly; check the Kennedy Space Center schedule before your trip and plan around one if you can.
 
-It's something you'll never forget. Shuttle and rocket launches can be seen in many parts of Florida, but you should try to catch at least one launch from Cape Canaveral. Ask locals for advise or contact the Kennedy Space Center for more info.
+Out on the water, airboat rides on the St. Johns River and the Indian River Lagoon are a genuinely good way to see the area's wildlife — herons, ospreys, alligators, and manatees are all common. Several operators run trips out of Titusville and Cocoa.
 
-### [Air Boat Rides](/northamerica/unitedstates/florida/spacecoastarea/things_to_do/air_boat_rides)
-
-A ride on an air boat can take you away! Skim across a rural lake with all the flora and fauna you'd expect practically at your fingertips. Many companies offer air boat rides at very reasonable prices along the St. John's River and across the area's many other waterways.
-
-type: Other
-
-
-
-[[rate it]](/northamerica/unitedstates/florida/spacecoastarea/things_to_do/air_boat_rides)
+[Canaveral National Seashore](/northamerica/unitedstates/florida/spacecoastarea/canaveralnationalseashore) is 24 miles of undeveloped Atlantic beach — one of the longest stretches of undisturbed coastline on Florida's east coast. Playalinda Beach at the south end sits directly adjacent to the launch pads, which makes for an unusual view.

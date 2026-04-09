@@ -1,15 +1,14 @@
 ---
-title: "Huayang Village"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 33.5639
+longitude: 107.5097
+title: Huayang Village
 type: location
-latitude: 23.07785
-longitude: 113.57173
 ---
 
-Huayang Village is a tiny Chinese village where people still live a traditional lifestyle and practise traditional agricultural methods. The village's one hotel is modern, and equipped with air conditioning/heating, ensuite bathroom and televisions. Famous local dishes and Shaanxi Province specialties can be eaten in the restaurant opposite the hotel.
+Huayang is a tiny village in Shaanxi Province where people still live a traditional lifestyle and practise traditional agricultural methods. The village has one modern hotel and a restaurant serving local dishes and Shaanxi specialities.
 
-The village is half an hour's drive from Changqing Nature Reserve, one of the few remaining sites in China where Giant Pandas can be seen in the wild. Changqing Nature Reserve is also home to Golden Monkeys, Golden Takin and Crested Ibis, along with 39 other threatened animals and 31 threatened plants.
+The main reason to come here is Changqing Nature Reserve, about half an hour's drive away — one of the few remaining sites in China where giant pandas can be seen in the wild. The reserve is also home to golden monkeys, golden takin and crested ibis, along with dozens of other threatened species.
 
-Hainan Airlines fly twice daily from [Xian](/asia/china/xian) to Hanzhong City. Two trains also depart daily from [Xian](/asia/china/xian) railway station to Hanzhong City. Changqing Nature Reserve staff will pick visitors up from Hanzhong City airport or Hanzhong City railway station and drive them to Huayang Village.  To organise a visit, see the Changqing Nature Reserve website at www.cqpanda.com or telephone +86 091682263044.
-
-**Contributors**
-March 01, 2005
+The nearest city is Hanzhong, reachable by air or rail from [Xi'an](/asia/china/xian). Reserve staff can arrange transport from Hanzhong to the village.

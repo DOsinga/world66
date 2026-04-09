@@ -1,20 +1,12 @@
 ---
-title: "Surin"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 7.9774
+longitude: 98.2796
+title: Surin Beach
 type: location
-latitude: 15.061014
-longitude: 103.761312
 ---
 
-Surin Beach is a quiet and very relaxing beach, a rather undeveloped bay lined by a row of high Casuarina trees which give shade to those who are tired of [Phuket](/asia/thailand/phuket)'s tropical sun and provide a pleasant change from the common palm trees found everywhere else.
+Surin Beach is one of [Phuket](/asia/thailand/phuket)'s quieter stretches of sand, a bay lined with tall casuarina trees that offer welcome shade from the tropical sun. It is a favourite beach for locals, who flock here on weekends and holidays to eat seafood at the beachside restaurants.
 
-
- 
- It is the favorite beach for the locals, who flock here on weekends and holidays to enjoy seafood and other freshly prepared meals in one of the beach restaurants.
- 
- Unlike most Phuket beaches, Surin Beach has a steep sand shelf, making it not so suitable for swimming. Big waves are common on Surin beach during the monsoon season and can create dangerous undertow conditions.
-
-
- 
- Surin Beach offers some good snorkeling opportunities at both ends of the beach but during the rainy season the water visibility is not very good, due to high turbulence.
- 
- Surfing is becoming increasingly popular here because there are often good waves during monsoon season.
+Unlike most Phuket beaches, Surin has a steep sand shelf, which makes it less suitable for swimming. Big waves are common during the monsoon season and can create dangerous undertow conditions. That same swell has made surfing increasingly popular here, and the beach offers decent snorkelling at both ends of the bay when the water is calm — though visibility drops considerably during the rainy season.

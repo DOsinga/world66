@@ -1,13 +1,14 @@
 ---
-title: "Chiapas"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 16.5
 longitude: -92.5
+title: Chiapas
+type: location
 ---
 
-Travel Guide
+Chiapas is Mexico's southernmost state and the heart of the Mundo Maya — a landscape of misty highlands, dense jungle, and some of the most spectacular Mayan ruins in existence. The indigenous cultures here are among the strongest in Mexico; Tzotzil and Tzeltal Maya communities maintain their languages, customs, and traditional dress in ways that feel a world apart from the beach resorts on the coast.
 
-Combined with the Yucatan Peninsula and parts of Guatemala, the state of Chiapas is a central part of the Mundo Maya “Mayan World.” Modern day locals, “chiapanecos”, are descendants of the Maya and still maintain close ties to their religion and customs. From its lush tropical lowlands to its indigenous highlands, Chiapas attracts more travelers and trekkers than typical tourists. Local festivals, exquisite Mayan ruins, diverse nature and a rich blend of colonial and indigenous cultures makes trips to the region fascinating travel experiences. With a landscape that ranges from misty mountains to pine covered hills and dense jungle, Chiapas has an ideal climate for coffee, tropical fruits, and rich biodiversity. The howler monkeys, jaguars, and numerous avian species all occupy your senses when you descend into the lush valleys or climb to the tops of the mountainous peaks.
+The ruins at Palenque, rising from the jungle canopy, are among the finest in the Americas. Bonampak has the best-preserved Mayan murals anywhere, and Yaxchilán, reached by boat down the Usumacinta River along the Guatemalan border, is as dramatic a setting as any archaeological site in Mexico. Between the ruins, the waterfalls at Agua Azul cascade over turquoise limestone pools, and Sumidero Canyon — a kilometre-deep gorge — can be explored by boat from Tuxtla Gutiérrez.
 
-This state includes the visits worth visiting such as
-Palenque, Bonampak and Yaxchilan, Agua Azul, San Cristóbal de Las Casas, Sumidero Canyon, Tuxtla Gutierrez, and Villahermosa
+[San Cristóbal de las Casas](/northamerica/mexico/sancristobaldelascasas), in the cool highlands at 2,200 metres, is the traveller base for the region: a beautiful colonial town with excellent food, good markets, and easy access to indigenous villages in the surrounding hills. The climate across the state ranges from tropical heat in the lowlands to pleasantly cool in the mountains, and the coffee, tropical fruit, and chocolate produced here are some of the best in Mexico.

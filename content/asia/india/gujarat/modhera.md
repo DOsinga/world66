@@ -1,8 +1,10 @@
 ---
-title: 'Modhera'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 23.581665
 longitude: 72.140412
+title: Modhera
+type: location
 ---
 
 Modhera is famous for its Sun Temple, built in 1026 AD by Bhimdev I of the Solanki dynasty. About 99 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), it is one of the finest examples of medieval Indian temple architecture, comparable to the Sun Temple at Konark and the carvings at Khajuraho.

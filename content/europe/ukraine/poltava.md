@@ -1,10 +1,12 @@
 ---
-title: "Poltava"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 49.860781
 longitude: 33.749879
+title: Poltava
+type: location
 ---
 
-Located between [Kharkiv](/europe/ukraine/kharkiv) and [Kyiv](/europe/ukraine/kyiv) in the Ukraine, Poltova is not much of a tourist destination. The city is probably best known as the site of a 1709 battle between the Russians and the Swedes and Cossacks, which established Russia’s position in Europe and Ukraine’s decline.
+Poltava sits halfway between [Kharkiv](/europe/ukraine/kharkiv) and [Kyiv](/europe/ukraine/kyiv) in central Ukraine. The city is best known as the site of the 1709 Battle of Poltava, where Peter the Great's forces defeated the Swedish army of Charles XII and their Cossack allies under Hetman Mazepa — a turning point that established Russia as a European power and sealed Ukraine's fate for centuries.
 
-The battlefield and its monuments are the major draw. A museum displays the rather large uniform of Czar Peter, who was unusually tall. In town, visit the October Park, the gun-barrel-shaped Column of Glory and the Spassky Church, which is actually an outer shell protecting an earlier, wooden church inside.
+The battlefield and its monuments remain the major draw. A museum on the site displays Peter's famously oversized uniform (the tsar stood well over six feet). In town, the October Park offers a pleasant stroll, the gun-barrel-shaped Column of Glory commemorates the battle, and the Spassky Church is an unusual structure: an outer shell built to protect an earlier wooden church within.

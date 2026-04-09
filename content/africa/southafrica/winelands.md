@@ -1,8 +1,10 @@
 ---
-title: "Winelands"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -33.15101
 longitude: 19.615931
+title: Winelands
+type: location
 ---
 
 The Cape Winelands sit about 45 minutes east of [Cape Town](/africa/southafrica/capetown) in a series of valleys framed by jagged mountain ranges. The towns of Stellenbosch, [Franschhoek](/africa/southafrica/franschhoek), and [Paarl](/africa/southafrica/paarl) are the main centres, each with its own character.

@@ -5,12 +5,8 @@ latitude: 53.573989
 longitude: -6.119175
 ---
 
-Skerries is a nice suprise when you see some of the ham-fisted urban planning that goes on in the Dublin Commuter Belt. it still feels like a victorian fishing village and its on the train to Dublin. There are nice walks around the coast and the architecture is a good blend of Georgian to Edwardian. 
+Skerries is a pleasant surprise — a genuine Victorian fishing village that has somehow survived the ham-fisted urban planning that plagues the Dublin commuter belt. It's on the train line from the city, the coastline is good for walking, and the architecture ranges from Georgian to Edwardian without embarrassing itself.
 
+There are plenty of pubs. The Stoop Your Head is a reliable gastro-pub. A wine shop near the SuperValu has a good selection if you're self-catering.
 
-
-There are plenty of pubs to tickle your fancy but the 'stoop your head' is a good gastro-pub. There's a nice wine shop near the Super-Valu whose name escspes me but it has a good selection of vino. 
-
-
-
-The only bad thing in Skerries is the selection of chip-shops. No only do they sell truly dreadful muck passing as food but they should have guns and masks on given the prices they charge.
+The chip shops, on the other hand, are a low point: dreadful food at inexplicable prices.

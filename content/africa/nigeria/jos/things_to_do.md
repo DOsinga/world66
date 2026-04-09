@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Discover the beautiful hills of Plateau State, ECOTOUR-HILLS will take you hiking for a day, 2 days or half a day.
-You will be surprised at the beauty of the landscapes.
-Join them through their web site: www.ecotourhills.com
+Jos rewards slow exploration. The Museum Complex alone can fill most of a day, and the hills outside town are good for a half-day walk.

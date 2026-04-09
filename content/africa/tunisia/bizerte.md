@@ -1,8 +1,10 @@
 ---
-title: "Bizerte"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.27209
 longitude: 9.870857
+title: Bizerte
+type: location
 ---
 
 Bizerte is located in the north of Tunisia, approx. 65km north of [Tunis](/africa/tunisia/tunis). It is the the largest city north of the capital. Bizerte is not on the tourist track so you may actually have a chance to see some real Tunisia here. The main other reasons to come here are the unspoiled traditional quarter of the old port and the presence of a couple of good beaches in the area. 

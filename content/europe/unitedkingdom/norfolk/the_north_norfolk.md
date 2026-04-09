@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
 latitude: 52.95
 longitude: 0.9
 title: The North Norfolk Coast

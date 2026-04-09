@@ -1,4 +1,0 @@
-europe/unitedkingdom/london
-asia/turkey/istanbul
-asia/japan/honshu/kyoto
-northamerica/unitedstates/newyorkstate/newyork

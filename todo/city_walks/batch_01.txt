@@ -1,4 +1,0 @@
-europe/spain/catalonia/barcelona
-europe/czechrepublic/prague
-europe/portugal/lisbon
-europe/unitedkingdom/scotland/edinburgh

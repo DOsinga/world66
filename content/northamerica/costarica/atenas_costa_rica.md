@@ -1,5 +1,9 @@
 ---
-title: "Atenas, Costa Rica"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 9.9758
+longitude: -84.3797
+title: Atenas
 type: location
 ---
 

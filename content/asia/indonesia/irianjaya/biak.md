@@ -1,8 +1,10 @@
 ---
-title: "Biak"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -1.1836
 longitude: 136.0816
+title: Biak
+type: location
 ---
 
 Biak is both an island and a town off the north coast of Papua, sitting in Cenderawasih Bay. The town itself is compact and not especially scenic, but Biak is one of the main transport hubs for the region, with regular flights to Jayapura and Jakarta.

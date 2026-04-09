@@ -1,8 +1,10 @@
 ---
-title: "Trabuco Canyon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.662623
 longitude: -117.58938
+title: Trabuco Canyon
+type: location
 ---
 
 Trabuco Canyon received its name when members of the 1769 Portola Expedition trekked through and lost a blunderbuss (Spanish: *trabuco*). The weapon was never found.
@@ -16,7 +18,3 @@ Cook's Corner, an infamous biker's bar, is the spiritual center of Trabuco Canyo
 Roads leading out of the canyon lead to interesting trailheads for locally famous scenic wonders such as Holy Jim Falls and Vulture Crags.
 
 Favored activities in the area include hiking, horse-back riding, and mountain biking.
-
-## Destinations in Trabuco Canyon
-
-[Whiting Ranch Wilderness](/world/northamerica/unitedstates/california/orangecounty/trabucocanyon/whitingranchwilderness)

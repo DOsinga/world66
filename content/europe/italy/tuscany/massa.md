@@ -1,24 +1,12 @@
 ---
-title: "Massa"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.035932
 longitude: 10.139552
+title: Massa
+type: location
 ---
 
-Travel Guide
+Massa sits where the Apuan Alps meet the sea in northern [Tuscany](/europe/italy/tuscany), sharing its province with the marble town of Carrara. The setting is striking — rugged mountains drop almost directly to a long sandy coastline, and the Malaspina castle on its hilltop dominates the town below.
 
-**Massa** is a town and comune in Tuscany, Italy,
-the administrative centre of the province of Massa-Carrara.
-
-Located in the northern part of the Tuscany region, where sea and land naturally join in a
-wonderful and unique contrast, Massa has a population of approximately 69,000
-inhabitants, distributed in five boroughs.
-
-The Massa area is of high touristic value and also hosts a concentration of
-some 600 industrial and craft activities, located within the so-called Apuan
-Industrial Zone, with a direct employment of more than 7,000 people. Together
-with the twin town of Carrara, Massa
-is worldwide known for the extraction and production of marble.
-
-**Contributors**
-January 02, 2008
+The old centre has a pleasant piazza and a cathedral with a medieval crypt. The real draw, though, is the surrounding landscape: the marble quarries of Carrara are a short drive away, and the Apuan Alps behind the town offer some of Tuscany's best mountain hiking — far less crowded than the more famous parts of the region.

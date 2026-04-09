@@ -1,8 +1,12 @@
 ---
-title: "Catumbela"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -12.433425
 longitude: 13.543048
+title: Catumbela
+type: location
 ---
 
-Originally called Quitumbela, the city was named for a "soba" or traditional leader in the area. Catumbela provided excellent water and a much friendlier climate than Benguela and at one point in 1650 there was talk of moving the provincial capital from Benguela to Catumbela for these reasons. Catumbela grew out of the profitable inland trade that mushroomed following the opening of the road to Bailundo and Bie. Large-scale trade in rubber began in 1888 and was the basis for Catumbela's quick development. As the rubber trade boomed Catumbela grew in importance, reaching its peak in the last two decades of the 19th century.
+Catumbela sits between [Benguela](/africa/angola/benguela) and [Lobito](/africa/angola/lobito) on Angola's central coast, straddling the river that shares its name. Originally called Quitumbela after a local soba (traditional leader), the town has always had better water and a friendlier climate than its neighbours -- in 1650 there was even talk of moving the provincial capital here from Benguela.
+
+The town grew rich on the inland rubber trade after the road to Bailundo and Bie opened in the late 1800s. That boom faded, but Catumbela remains a quiet stop between the two larger coastal cities, with colonial-era buildings along the riverbanks and a slower pace than either Benguela or Lobito.

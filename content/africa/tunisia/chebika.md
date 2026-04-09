@@ -1,12 +1,16 @@
 ---
-title: "Chebika"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 34.2167
+longitude: 7.9667
+title: Chebika
 type: location
-latitude: 35.65887
-longitude: 9.927648
 ---
 
-The place with the waterfall in the middle of the desert. It only takes half an hour drive straight through the desert till you get on the Algerian border. The mountains witch lay aside the village do not look exciting, but when you pass the waterfall, and climb up to the top and follow the paveway to get up there, the big surprise is there for you: not only a magnificant panoramic view from the desert, but the materials the mountains exist of: fossile sea bottom.
+Chebika is a mountain oasis clinging to the edge of the Djebel en Negueb range, where the Sahara meets the Atlas foothills in western Tunisia. Springs push up through ancient rock to feed a pocket of palms and greenery, and a small waterfall cascades into a pool before the water disappears back into the desert. The combination of lush vegetation against bare, rust-coloured cliffs is genuinely striking.
 
-In Chebika you are about 400 miles deep in the desert, and still you find the fossile remains of the sea that once was in that part of what we nowadys call Tunesia. See picture.
+The mountains here are made of fossilised sea bed — millions of years ago this was the floor of a shallow ocean, and you can pick out shell impressions and marine fossils pressed into the stone. Climbing above the oasis rewards you with a panoramic view across the desert plain stretching toward the Algerian border, flat and immense in every direction.
 
-An unforgettable place to be.
+Chebika was used as a filming location for *The English Patient* and for parts of the original *Star Wars*, which is partly why it shows up on tour itineraries from Tozeur. The old village above the oasis was abandoned after flash floods in 1969; the ruins are still there, quiet and a little haunting, with low stone walls and doorways open to the sky.
+
+The site is well-signed and easily reached by road from [Tozeur](/africa/tunisia/tozeur), about 55 kilometres to the southeast. It is usually visited alongside the nearby oases of Tamerza and Mides in a half-day circuit.

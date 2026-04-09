@@ -1,12 +1,14 @@
 ---
-title: "Man"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 7.410258
 longitude: -7.550372
+title: Man
+type: location
 ---
 
-Man itself is not a very beautiful town in Ivory Coast, but the lush green hills around it make it a great place to travel to.
+Man itself is not a particularly beautiful town, but the lush green hills surrounding it make it one of the more rewarding destinations in western Ivory Coast.
 
-The main attractions are outside of town, but in town a visit to the market is worth your while. It's a very colorful and l ively place and you can find some good buys, espceially carvings and fabrics.
+The main attractions lie outside of town, but the market in town is worth your while — a colorful, lively place where you can find good buys, especially carvings and fabrics.
 
-Around Man the best places to visit are the **Cascade**, a waterfall in a bamboo forest 5 km west of town, **Mount Tonkoui** the second highest peak just 20 km on the same road from where you can see as far as Liberia on a clear day, the **Dentde Man** a steep touth-shaped mountain 15 km north-east of twon with great hiking opportunities, as well as a number of local villages such as [Biankouma](/africa/ivorycoast/biankouma), [Gouessesso](/africa/ivorycoast/gouessesso), [Tieni-Siabli](/africa/ivorycoast/tienisiabli) or [Fakobly](/africa/ivorycoast/fakobly). Here you can experience 'the real Africa'. §
+Around Man the best places to visit are the **Cascade**, a waterfall in a bamboo forest 5 km west of town; **Mount Tonkoui**, the second highest peak in the country just 20 km further on the same road, from where you can see as far as Liberia on a clear day; and the **Dent de Man**, a steep tooth-shaped mountain 15 km north-east of town with great hiking opportunities. A number of local villages such as [Biankouma](/africa/ivorycoast/biankouma), [Gouessesso](/africa/ivorycoast/gouessesso), [Tieni-Siabli](/africa/ivorycoast/tienisiabli), and [Fakobly](/africa/ivorycoast/fakobly) are also worth visiting for a taste of rural life in the region.

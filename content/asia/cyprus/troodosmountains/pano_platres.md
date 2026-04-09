@@ -1,14 +1,12 @@
 ---
-title: "Pano Platres"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 34.888621
 longitude: 32.864864
+title: Pano Platres
+type: location
 ---
 
-Travel Guide
+Perched on the southern slopes of the Troodos mountains at around 1,100 metres, Pano Platres is the most popular mountain resort in Cyprus. The air is noticeably cooler here than on the coast, and the surrounding pine forests give the village a quite different character from the sun-baked lowlands.
 
-On the southern slopes of the Troodos mountains, Pano Platres is favourite resort for Cypriots and tourist alike.
-
-It is popular in the summertime with Cypriots to escape the heat of the towns, in the spring and autumn with visitors from overseas to enjoy the many nature trails of the area (caledonian waterfalls, mesapotamos trail, millomeris trail, artermis and krios potamos). Also popular during the winter & the ski season for its closeness to the ski centre in Troodos.
-
-Platres has a variety of hotels and restaurants for the visitor and many people have summer/weekend homes.
+In summer, Cypriots head up to escape the coastal heat. In spring and autumn, visitors arrive for the walking trails — the Caledonian Waterfalls trail and the Millomeris trail are particular favourites, and the Artemis trail circles the peak of Mount Olympos nearby. When winter arrives, the village sits within easy reach of the Troodos ski centre, making Pano Platres a year-round destination.

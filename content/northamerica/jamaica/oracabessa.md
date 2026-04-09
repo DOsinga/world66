@@ -1,8 +1,10 @@
 ---
-title: "Oracabessa"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 18.4043
 longitude: -76.9694
+title: Oracabessa
+type: location
 ---
 
 Oracabessa is a small town in St Mary parish, about 16 km east of Ocho Rios on the north coast. Its Spanish name — Oracabeza, or "Golden Head" — refers to the quality of the light that falls on the bay in the afternoons.

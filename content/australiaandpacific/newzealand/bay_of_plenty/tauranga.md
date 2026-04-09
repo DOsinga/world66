@@ -1,17 +1,14 @@
 ---
-title: "Tauranga"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -37.685901
 longitude: 176.167505
+title: Tauranga
+type: location
 ---
 
-Tauranga, has all the amenities of a major city. Holiday accommodation ranges from high-class lodges to holiday parks and backpacker hostels, both in the city and across the harbour at the beach resort of Mount Maunganui. This region seems to have it all - a mild, sunny climate, some of the country's most popular beaches and an abundance of orchards, especially citrus and kiwifruit.
- 
+Tauranga sits on a large sheltered harbour on the Bay of Plenty coast, with a mild, sunny climate and easy access to good beaches. The city has all the practical amenities you'd expect, while across the harbour the beach resort of Mount Maunganui — with its distinctive volcanic cone — draws surfers, swimmers, and families who come for both the ocean swells and the calmer harbour side.
 
-Mount Maunganui, with its prominent volcanic cone that gives it its name, is popular with surfers. It's also a very popular family holiday spot having a choice of both ocean and gentle harbour beaches. 
- 
+The surrounding region is prime kiwifruit and citrus country, and you'll see orchards stretching across the coastal plain. Out on the horizon, White Island (Whakaari) trails a plume of steam — an active volcano visible from shore and reachable by boat from Whakatane or by helicopter from Rotorua.
 
-Boat charters are available from Tauranga for big game fishing, snorkelling, dolphin watching or just cruising. Out on the horizon is White Island, an active volcano usually identified by its trailing plume of steam. Helicopter trips land on the island from Rotorua and Whakatane, along with boat trips also from Whakatane. 
- 
-
-There are a number of challenging activities in the area, including tandem parachute jumping, sky diving, a hair-raising ride in a bungee rocket and rafting down the Wairoa River, one of the most spectacular stretches of white water in the country.
+For the more active, Tauranga has boat charters for big-game fishing, dolphin watching, and snorkelling. Rafting the Wairoa River is one of the more dramatic white-water options in the North Island.

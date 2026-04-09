@@ -1,29 +1,14 @@
 ---
-title: "Killeen"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 31.1171
+longitude: -97.7278
+title: Killeen
 type: location
-latitude: 31.117144
-longitude: -97.727796
 ---
 
-Killeen, in Bell County, central Texas, is not one of those places
-you would visit if you were a tourist/traveller. It is certainly a very
-unique place, and has experienced enormous growth over the past 5
-years, and even moreso now since the opening of the new "Killeen-Ft.
-Hood Regional Airport" in 2004. Killeen is within easy reach
-of Austin, only an hour away by car, and Dallas-Ft.Worth and San
-Antonio, each about 2.5 hours away.
+Killeen sits in central Texas, about an hour north of Austin, in the shadow of Fort Cavazos — the largest military installation in the United States. The town exists largely to serve the base, and that shapes everything about it: the demographics, the pace, the economy. It isn't a destination in the usual sense, but if you're passing through or visiting someone stationed here, there's more to do than you might expect.
 
-With it's close neighbor Fort Hood, the biggest military
-installation in the US, Killeen offers numerous interesting sites to
-see and things to do. The Military Museum is one such place
-certainly worth a visit.
+The Fort Cavazos area has a pair of military museums worth a visit, particularly if you have any interest in armor or the history of the US Army. The surrounding countryside is genuinely appealing — Belton Lake and Stillhouse Hollow Lake are both within a short drive and offer swimming, fishing, boating, and hiking. Around Christmas, Belton Lake hosts a light display that draws visitors from across the region.
 
-Belton Lake and Stillhouse Hollow Lake are just a short drive from
-Killeen, and a must-see if you are in this region. There are
-lots of activities, water sports, picnic areas, fishing, and an
-abundance of wildlife to see. Plus, if you are in the region around
-Christmas time, you *must* visit the Incredible Christmas Light Display at Belton Lake: it is spectacular.
-
-Harker Heights has the "Cactus Canyon Club" which is a great place
-to visit for a bit of "Good ol' Country Music" while you enjoy the
-nightlife atmosphere.
+Austin is close enough for a day trip, and Waco is about 45 minutes north.

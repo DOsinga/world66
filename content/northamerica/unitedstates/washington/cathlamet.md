@@ -1,10 +1,12 @@
 ---
-title: "Cathlamet"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.203167
 longitude: -123.383189
+title: Cathlamet
+type: location
 ---
 
-Travel Guide
+Cathlamet is a small town of about 500 people on the Columbia River in southwest Washington, 20 miles west of Longview on Highway 4. It is the county seat of Wahkiakum County, one of the least populous counties in the state. The town has a quiet, old-fashioned character and serves as the access point for Puget Island, which you can reach by a short bridge and explore by bike.
 
-Welcome to Cathlamet, Washington. Located on Hwy 4, about 20 miles west of Longview, Washington, this town is a bustling community of 500 people and NO traffic lights! The town hugs the Columbia River in southwest Washington. There's lots to see and do here, including taking the bridge over to Puget Island, browsing friendly shops and restaurants, docking your boat at the Elochoman Slough Marina, as well as biking, kayaking, antiqueing, and fishing. Come visit us soon!
+The Elochoman Slough Marina offers boat moorage and access to the Columbia River. The area is popular for fishing, kayaking, and wildlife viewing along the river's edge.

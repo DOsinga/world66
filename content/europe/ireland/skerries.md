@@ -1,8 +1,10 @@
 ---
-title: "Skerries"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 53.573989
 longitude: -6.119175
+title: Skerries
+type: location
 ---
 
 Skerries is a pleasant surprise — a genuine Victorian fishing village that has somehow survived the ham-fisted urban planning that plagues the Dublin commuter belt. It's on the train line from the city, the coastline is good for walking, and the architecture ranges from Georgian to Edwardian without embarrassing itself.

@@ -3,16 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Huancayo has a good range of restaurants along the main streets, catering to both locals and travellers.
 
-**El Inca**
+**El Inca** does good salads and has solid vegetarian options. Address: Puno 530.
 
-Does good salads - good options for vegetarians.
-
-address: Puno 530
-
-**La Cabana**
-
-Good place for a pizza - great atmosphere and a real travelers' hangout.
-
-address: Av Giraldez 652
+**La Cabaña** is a popular traveller hangout with decent pizza and a relaxed atmosphere. Address: Av Giraldez 652.

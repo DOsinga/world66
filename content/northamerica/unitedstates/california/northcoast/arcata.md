@@ -1,12 +1,14 @@
 ---
-title: "Arcata"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.866517
 longitude: -124.08284
+title: Arcata
+type: location
 ---
 
-Arcata's town square, called The Plaza, is big on sophisticated shops and restaurants; the central square is a convenient hangout for college students and retired hippies.
+Arcata is a small university town on Humboldt Bay — progressive, a little quirky, and genuinely pleasant to spend time in. It's home to Cal Poly Humboldt (formerly Humboldt State University), which gives the town its energy and its politics: Arcata has been governed by the Green Party and has declared itself a sanctuary city, banned Styrofoam, and built one of the country's first ecological wastewater treatment wetlands. For a place of 18,000 people, it has an outsized sense of itself, and mostly lives up to it.
 
-The local college, Humboldt State University (HSU) is noted for its education and biological science programs. Its campus is also beautiful and connects to the scenic Redwood Park.
+The Plaza at the center of town is the best thing about Arcata — a proper public square with a farmers market, good coffee shops, and independent bookstores. The surrounding streets are walkable and human-scaled in a way that most California towns aren't.
 
-Another local attraction (if anything can be called that in this off-the-beaten-path town) is the Arcata Marsh, a great bird-watching spot which, in typically environmentally-minded Arcata style, is also an environmentally friendly wastewater treatment facility. If you have the chance to be in Humboldt on Memorial Day weekend, check out the Kinetic Sculpture Race, a race of wacky human-powered vehicles that runs from Arcata to [Ferndale](/northamerica/unitedstates/california/northcoast/ferndale) over the three-day weekend.
+On the edge of Humboldt Bay, the Arcata Marsh is a world-class birding site. If you're anywhere in the area on Memorial Day weekend, don't miss the [Kinetic Grand Championship](https://kineticgrandchampionship.com/) — a three-day race of elaborately engineered human-powered sculptures from Arcata to [Ferndale](/northamerica/unitedstates/california/northcoast/ferndale), one of the most genuinely fun spectacles in California.

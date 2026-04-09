@@ -5,4 +5,6 @@ latitude: -28.907794
 longitude: 136.341327
 ---
 
-Near the middle of the Oodnadatta Track in the thriving metropolis of William Creek. The smallest town (pop 16) in South Australia and ironically situated in the centre of Australia's largest cattle station, Anna Creek Station (30,100 square kms). Also just down the road is Australia's longest place name, Lake Cadibarrawirracanna.William Creek is a mere 160 kms from Coober Pedy and 55km from the shores of Lake Eyre. This small town and its colourful pub is a must when visiting the SA outback.
+William Creek is the smallest town in South Australia, with a population of just 16, set near the midpoint of the famous Oodnadatta Track in the remote outback. It sits at the heart of Anna Creek Station — at over 30,000 square kilometres, the largest cattle station in Australia. The town's colourful pub is a landmark and a necessary stop for anyone driving the track.
+
+Just down the road is Lake Eyre (about 55 km away), the vast salt lake that fills only a few times a century and becomes a magnet for birds and travellers when it does. Nearby is also Lake Cadibarrawirracanna, which holds the record for Australia's longest place name. [Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy) is about 160 km to the west.

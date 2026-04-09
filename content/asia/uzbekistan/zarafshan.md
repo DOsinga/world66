@@ -1,8 +1,14 @@
 ---
-title: "Zarafshan"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.5699
+longitude: 64.2097
+title: Zarafshan
 type: location
-latitude: 39.566566
-longitude: 67.346951
 ---
 
-Zarafshan is a gold mining city in the remote Kyzyl Kum desert of northern Uzbekistan. Hardly anyone makes the grueling trip here, although rumors abound of an expat community as a result of the mining. There is little reason to go to Zarafshan other than a strong desire to go where no one has gone before. Beware! Local police forces may forbid you access to Zarafshan and it is highly unlikely that you will be able to get permission on your passport. There are several flights to Zarafshan as well as the even more remote Uchkuduk, which is visible from the air on a Tashkent-Urgench flight. Just don't try to go without the proper permission or you may not be coming back!
+Zarafshan is a closed gold-mining city planted in the middle of the Kyzyl Kum desert in northern Uzbekistan. It exists entirely because of the Muruntau gold deposit nearby — one of the largest open-pit gold mines in the world — and it has essentially no reason to exist otherwise. The city is home to an expat community of miners and engineers, but almost no travelers ever make it here.
+
+Getting in is the real challenge. The city has historically required a special permit to enter, and local police have been known to turn away visitors who show up without the right paperwork. Check the current permit requirements before attempting the trip. If you do manage to get in, the bleak Soviet-era grid of apartment blocks against a backdrop of endless desert has a strange fascination — a company town at the edge of the world.
+
+There are several flights connecting Zarafshan to Tashkent, which is the only realistic way to arrive. The even more remote settlement of Uchkuduk lies further into the desert and is sometimes visible from the air on the Tashkent–Urgench route.

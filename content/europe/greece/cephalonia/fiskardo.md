@@ -1,8 +1,10 @@
 ---
-title: "Fiskardo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.460928
 longitude: 20.575236
+title: Fiskardo
+type: location
 ---
 
 Fiskardo sits on the northernmost tip of Cephalonia, curled around a horseshoe bay. It's the island's most beautiful village, and the only settlement that came through the 1953 earthquake largely intact — its limestone bedrock absorbed the shock that destroyed everywhere else. The old stone buildings that line the harbour have been carefully restored and converted into taverns, cafes, boutiques, and small hotels.

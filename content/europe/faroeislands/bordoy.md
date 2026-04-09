@@ -1,14 +1,12 @@
 ---
-title: "Bordoy"
+title: "Borðoy"
 type: location
-latitude: 62.263797
-longitude: -6.51996
+latitude: 62.2638
+longitude: -6.5200
 ---
 
-Travel Guide
+Borðoy is the largest of the six islands of the Norðoyggjar group in the northern Faroe Islands, and home to Klaksvík, the second-largest town in the archipelago. Where Tórshavn is the political and commercial capital, Klaksvík is the fishing capital — a working harbour town surrounded by dramatic mountains and fjords.
 
-Bordoy is the largest of the six islands of the Norðoyggjar. It is connected to Eysturoy by a long tunnel (toll one way) under the sea and mountains and anybody wanting to go to one of the other islands in the group must come this way.
+The island sits at the hub of the northern islands. A subsea tunnel connects Borðoy to Eysturoy (and from there to the rest of the Faroes), while causeways link it to Kunoy and Viðoy. Car ferries run to Kalsoy; Fugloy and Svinoy are reached via Viðoy and then a ferry from Hávansund. If you are heading to any of the remote northern islands, Borðoy is your gateway.
 
-Bordoy is connected by causeways with Kunoy and Vidoy and by car ferry to Kalsoy. Fugloy and Svinoy are reached by the causeway to Vidoy and then ferry from Havassund.
-
-The only town is Klaksvik which is second to Torshavn in the Faroes. It could be thought of as the 'fish capital' as Torshavn is not primarily a fishing port.
+The landscape is rugged and rewarding. Steep ridgelines drop sharply to the sea, and the light shifts constantly — overcast and moody one hour, brilliant the next. For travellers who want a quieter Faroese experience than Tórshavn offers, Borðoy and Klaksvík reward those who make the journey north.

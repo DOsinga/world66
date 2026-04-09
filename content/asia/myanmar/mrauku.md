@@ -1,14 +1,12 @@
 ---
-title: "Mrauk-U"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 20.590127
 longitude: 93.191577
+title: Mrauk-U
+type: location
 ---
 
-Travel Guide
+Mrauk-U was once one of the wealthiest cities in Asia. As capital of the Rakhine kingdom from the 15th to 18th century, it controlled the Bay of Bengal trade and drew merchants from Portugal, the Netherlands, and across South Asia. The Burmese sacked it in 1784, moving the sacred Mahamuni Buddha image to Mandalay, and the city never recovered. What remains is a landscape of crumbling temples rising from the jungle, with a small market town at its centre.
 
-The ancient kingdom of Mrauk-U in Rakhine State was one of the richest cities in the world in the 12th century. Shortly thereafter it was sacked by the Burmese, the Mahamuni relocated to Mandalay from a nearby hillside. Time has stopped there.
-
-This little known, hard to get to location is worth the time. Near the border of Bangladesh and Chin State, Myanmar the poverty is extreme and the people very freindly. The best way to get there is to take a flight to Sittwe, and take a boat up the Lemro River.
-
-An interesting history of this ancient city state can be found in Maurice Collis book The Great Image.
+Getting here takes effort — a flight to Sittwe followed by a boat up the Kaladan River — but that difficulty is part of what makes Mrauk-U so rewarding. The site sees few visitors, and the surrounding villages in this corner of Rakhine State, near the borders with Bangladesh and Chin State, feel genuinely remote. The poverty is real and the people are warm.

@@ -1,11 +1,14 @@
 ---
-title: "Sarvar"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.2517
+longitude: 16.9342
+title: Sárvár
 type: location
-latitude: 47.251743
-longitude: 16.934217
 ---
 
-A long stone bridge leads to the five sided Nadasdy Castle (1 Varkerulet), which used to be surrounded by a moat and, beginning from the 16th century, served as a fortress and aristocratic family residence.
-ecause of its lavish interior decor and valuable furnishing, the Ferenc Nadasdy Museum is today one of the most beautiful castle museums in the country. It has exhibitions presenting the interwoven history of the castle and the town, the life of Hungarian Hussars and an abundant collection of applied art.
-The 36-metre pyramid oak, and the four oaks which are more than 400 years old, are the pride of the Sarvar Arboretum (30 Varkerulet) on the bank of the Gyongyos brook.
-The salty water of the Medicinal Bath (1 Vadkerti Street) is used to help cure rheumatism, post-fracture complaints and gynaecological disorders. It also helps general regeneration and conditioning as part of a course of treatment or for use at home in the from of the Sarvar thermal crystal produced by distillation.
+Sárvár is a small town in western Hungary known for its castle and its thermal baths. The Nádasdy Castle sits at the centre of town, reached by a long stone bridge that once crossed a moat. The five-sided Renaissance fortress served as both a military stronghold and an aristocratic residence from the 16th century, and its lavishly decorated interior now houses the Ferenc Nádasdy Museum — one of Hungary's finest castle museums, with exhibitions on the town's history, Hungarian Hussars, and a rich collection of applied art.
+
+The castle grounds include the Sárvár Arboretum along the banks of the Gyöngyös brook, where a 36-metre pyramid oak and several oaks over 400 years old are the star specimens.
+
+The town's thermal bath draws visitors year-round. The mineral-rich water is used for treatments and general relaxation, and the complex includes indoor and outdoor pools. Sárvár sits in a pleasant stretch of the Vas County countryside, with gentle hills and farmland in every direction, and makes a good stop between [Budapest](/europe/hungary/budapest) and Vienna.

@@ -1,12 +1,12 @@
 ---
-title: "Hebron"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 31.532569
+longitude: 35.099825
+title: Hebron
 type: location
 ---
 
-Hebron is quite a nice city. Unfortunately it is also a place of religious tensions due to the fact that it is seen by both Moslems and Jews as a very holy place; the grave of Abraham is to be found in the old center.
+Hebron is one of the oldest continuously inhabited cities in the world and a place of deep significance for both Muslims and Jews. The Tomb of Abraham (the Cave of the Patriarchs) sits in the old centre, sacred to both faiths. Visiting it is a powerful experience — the building is divided into a mosque section and a synagogue section, each with its own entrance and heavy security presence.
 
- If you visit Hebron it the grave of Abraham is one of the places you should not miss. It has two entrances, obne for the mosque part one for the synagogue part. Both are heavily guarded.
-
- The souq (or market) is a very lively place and has some good bargains. On markets days you are likely to see women in traditional Palestinian garb.
-
- Palestinian children tend to see all foreigners as colonists. It is not unlikely they throw stones at you (they did at me).
+The old city's souq is lively and full of bargains. On market days you'll see women in traditional Palestinian dress and the narrow streets packed with vendors. The atmosphere in Hebron can be tense — the city is a flashpoint in the Israeli-Palestinian conflict, with a small but heavily guarded Israeli settlement in the heart of the old town. Come with an open mind, stay aware of your surroundings, and be respectful of both communities.

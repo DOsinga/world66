@@ -1,20 +1,8 @@
 ---
-title: "Things to do in Sälen"
+title: "Things to Do"
 type: section
-type: "Skiing"
 ---
 
-Plenty of activities all around the ski centres and the hotels. But be aware that you have to pay for most of it!
+Skiing is the main draw. The area around Sälen has several alpine centres, each with its own character and range of slopes. Most also offer activities beyond skiing — snowmobile safaris, ice karting, swimming pools, and family entertainment.
 
-**Contributors**
-April 23, 2006
-
-### [Stöten](/europe/sweden/slen/things_to_do/stten)
-
-A good alpine centre in the area of Sälen. Here is something for everybody, and the centre arrange activities for the whole family, among them scooter safari, ice cart and much more. The alpine centre has a hotel, a sport store, swimming pool, bowling, restaurant, store, candy shop, and of course the alpint elevators with many downhills opportunities.
-
-type: Skiing
-
-
-
-[[rate it]](/europe/sweden/slen/things_to_do/stten)
+**Stöten** is one of the larger centres, with runs for all levels, a hotel, restaurants, and a good range of off-slope activities including bowling and a swimming pool. It is particularly well-suited for families.

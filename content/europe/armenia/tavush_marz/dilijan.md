@@ -1,8 +1,10 @@
 ---
-title: "Dilijan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.7417
 longitude: 44.8722
+title: Dilijan
+type: location
 ---
 
 Dilijan sits in a forest bowl in the hills of Tavush Marz, a small town that has served as a retreat for artists, composers, and cinematographers since Soviet times. The Cinematographers House — a grand sanatorium-style building where the most celebrated directors of the Soviet era came to think and work — is still standing. The town itself has a restored nineteenth-century quarter of wooden houses, where artisans sell handicrafts and musical instruments from their ground-floor workshops.

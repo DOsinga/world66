@@ -1,16 +1,14 @@
 ---
-title: "Huddersfield"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 53.6467
+longitude: -1.7822
+title: Huddersfield
 type: location
-latitude: 53.646664
-longitude: -1.782248
 ---
 
-Huddersfield is located in the northern part of England, close to Manchester. It's a nice town with a few goof sights and worth a visit.
+Huddersfield is a compact West Yorkshire mill town sitting between Leeds and Manchester, with more character than its modest reputation suggests. The surrounding Pennine landscape is genuinely dramatic, and the town itself has some worthwhile sights that reward a half-day stop.
 
-Dominating the Huddersfield skyline, Castle Hill is the main sight. It has been occupied since the Stone Age. The Victoria Tower was built in 1898/9 to celebrate the 60th anniversary of Queen Victoria’s coronation. Visitors can take in the panoramic views across Huddersfield and the surrounding countryside.
+Castle Hill is the obvious starting point — a rocky outcrop that has been occupied since the Iron Age, topped by the Victoria Tower, built in 1899 to mark sixty years of Queen Victoria's reign. The views across the town and out to the moors are excellent on a clear day. Back in town, the Kirklees Light Railway runs steam trains through the South Pennines on a narrow-gauge line that's charming rather than kitsch.
 
-Other sights include the Kirklee gallery(paintings by Francis Bacon, LS Lowry, Henry Moore, Graham Sutherland, and members of the Camden Town group).a ride on Kirklees Light Railway a Steam Train, which will carry you through the lovely [South Pennines](/europe/unitedkingdom/england/leeds_sheffield_a/south_pennines_yo) on an old country branch line and Tolson Memorial Museum.
-
-Finally you can see if you can take a boat trip on the canals, the broad canal and the narrow canal which boasts Standedge Tunnel, the longest and highest in the country, standing 654ft (196m) above sea level and 3 miles 135yrds (4950m) long.
-
-What was once busy docks and warehouses is now home to moorings and a popular canalside restaurant and pubs.
+The Tolson Memorial Museum covers local history, and the Huddersfield Art Gallery holds a decent collection including work by Francis Bacon, L.S. Lowry, and Henry Moore. What was once a busy inland port is now the Huddersfield Broad Canal and the Huddersfield Narrow Canal — the narrow canal's Standedge Tunnel is the longest canal tunnel in Britain, running over three miles through the Pennine rock at 196 metres above sea level. Boat trips on the canal are available in season.

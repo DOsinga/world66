@@ -1,12 +1,14 @@
 ---
-title: "San Vito di Cadore"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 46.4764
+longitude: 12.2079
+title: San Vito di Cadore
 type: location
-latitude: 46.476412
-longitude: 12.207878
 ---
 
-Travel Guide
+San Vito di Cadore is a quiet mountain village tucked into the Dolomites at the head of the Boite valley, just 10 km south of [Cortina d'Ampezzo](/europe/italy/veneto/cortina_d_ampezzo). It sits at around 1,010 metres, surrounded by the jagged limestone peaks that define the eastern Dolomites, and draws visitors primarily as a base for skiing and hiking in one of the most dramatic mountain landscapes in Europe.
 
-Situated in the art of the Italian dolomite mountains in the north eastern corner of Italy. Very close to the town are the ski slopes of S.Vito di Cadore (within walking distance), within the larger area of the Superski Dolomites in zone 01 of Cortina, San Vito and Misurina: 50 ski lifts, 160 km downhill ski runs with artificial snow-making system, 130 km nordic ski runs, 300 teachers and a public Skibus for the slopes of Cortina and San Vito.
+The village itself is small and unhurried — a welcome contrast to the glamour and crowds of Cortina. The ski area is practically on the doorstep: the slopes of San Vito connect into the vast Superski Dolomiti network in the Cortina zone, giving access to 50 lifts, 160 km of downhill runs, and a further 130 km of Nordic tracks. A public ski bus connects the village to the slopes of both Cortina and San Vito.
 
-In a few minutes you can stroll through the streetsof Cortina d'Ampezzo, a showcase of worldliness, custom and culture at high altitude (only 10 km). Not far from San Vito are: Pieve di Cadore, birthplace of Titian , one of the most renowned painters of the Renaissance, whose house you can visit; the incomparable Lago di Misurina within whose waters are reflected the Three Peaks of Lavaredo; } the Eyeglasses Museum at Tai di Cadore; the murales of Cibiana di Cadore and the Cloud Museum of Monte Rite founded by the mountain climber Reinold Messner.
+The surrounding valley is rich in things to explore beyond the snow. Pieve di Cadore, a short drive south, is the birthplace of Titian — one of the great painters of the Italian Renaissance — and his house is open to visitors. The Lago di Misurina, a short distance to the north, is one of the most photographed lakes in the Dolomites, with the jagged outline of the Tre Cime di Lavaredo reflected in its still water. Cibiana di Cadore is known for its outdoor murals, and at nearby Monte Rite you'll find a cloud museum founded by the mountaineer Reinhold Messner.

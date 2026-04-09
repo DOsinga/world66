@@ -1,17 +1,14 @@
 ---
-title: "Latakia"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.5799
+longitude: 35.9773
+title: Latakia
 type: location
-latitude: 35.579874
-longitude: 35.97727
 ---
 
-Latakia is the most important port of Syria. The town has a sizable Christian minority although it has shrunk considerably over the years. The atmosphere on the coast is probably a more relaxed than anywhere else in the country.
+Latakia is Syria's main port and its most relaxed city, strung along the Mediterranean coast with a character noticeably softer than Damascus or Aleppo. It has a sizable Christian minority, and the mixed demographic has always given the city a more open feel — outdoor cafes stay busy into the night, and the waterfront corniche draws an easy mix of families, fishermen, and walkers.
 
+The city itself isn't pretty, but it has texture. A Roman triumphal arch from the time of Septimius Severus (around 200 AD) still stands near the town center, and a handful of columns survive from the ancient city of Laodicea. The regional museum, installed in the old Khan al Dukhan caravanserai, covers the archaeology of the coast from Ugarit through the Islamic period and is well worth an hour. The public gardens by the sea, with their palm trees and clumps of oleanders, are an excellent place to do nothing.
 
- The town itself is not very beautiful, but it is an important travel hub. You can go to [Cyprus](/asia/cyprus) by boat or to [Turkey](/asia/turkey) or [Lebanon](/asia/lebanon) by bus from here.
-
-
- In the city itself there is a pleasant walk along the corniche and the adjacent colorfully planted avenues; it is tempting to linger longer in the magnificent public gardens, right by the sea, with their fine palm trees and clumps of oleanders. There are not many ancient remains: four columns and a Roman arch from the time of Septimus Severus (circa 200A.D.), a triumphal arch on four massive supports at the bottom of an avenue in the south of the city and a regional museum recently installed in the ancient Khan al Dukhan monument.
-
-
- Furthermore, Lattakia is a perfect base for excursions throughout Syria’s coastal regions where beaches, mountains, lush countryside, archaeological sites and traces of the Crusaders all lie within a short distance.
+Latakia matters most as a base. The surrounding coastline holds some of the best beaches in Syria, the mountains behind the city are green and cool, and the ruins of [Ugarit](/asia/syria/latakia/ugarit) — one of the world's earliest cities — are just a short drive north. Crusader castles dot the hills inland. Buses run to [Turkey](/asia/turkey) and [Lebanon](/asia/lebanon), and ferries have historically connected to [Cyprus](/asia/cyprus), making this a natural entry or exit point for travelers working the eastern Mediterranean.

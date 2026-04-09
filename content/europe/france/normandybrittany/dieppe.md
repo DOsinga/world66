@@ -1,18 +1,16 @@
 ---
-title: "Dieppe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 49.924618
 longitude: 1.079144
+title: Dieppe
+type: location
 ---
 
-Dieppe is located on the north of France and is connected by Ferry with
-[Brighton](/europe/unitedkingdom/england/south_east/brighton) in the UK. Close to the town there are some good beaches and there are a few interesting sights in town so it is worthwhile to stay a fe days before you take the ferry or train.
+Dieppe is a working port and seaside town on the Normandy coast, the closest point of France to England. Ferries still cross to [Newhaven](/europe/unitedkingdom/england/south_east/brighton) as they have for centuries, making Dieppe a natural gateway — though it rewards a few days' stay rather than a quick transit.
 
+The town has a character shaped by its maritime past: fishing, trade, and an unlikely artistic legacy. In the late nineteenth and early twentieth century Dieppe attracted a colony of painters and writers — Pissarro, Monet, Sickert, Renoir, and Boudin all worked here, drawn by the particular quality of the Channel light. Oscar Wilde came too, to recover after his release from prison. That history sits quietly alongside the working docks and the busy Saturday market.
 
- The Castle Museum at the top of the hill at the west end of the town is a must visit. It houses fascinating exhibits evoking Dieppe's rich history and maritime connections, and some fine works by Boudin, Pissarro, Blanche, Sickert, Braque and other artists who knew this town well. 
+The seafront promenade stretches along a long pebble beach backed by chalk cliffs. It is not a resort beach in the Mediterranean sense, but it is bracing and beautiful, and the views along the cliffs towards Varengeville are genuinely fine. The beach also carries heavier memories: on 19 August 1942 the Dieppe Raid saw over six thousand Allied troops — mostly Canadian — land here under heavy fire. More than half were killed, wounded, or captured in a single morning. A memorial on the seafront and the graves in the Canadian War Cemetery at Hautot-sur-Mer mark that disaster.
 
-
- The Jean Renoir Cultural Centre - a combination of theatre, cinema, lending library and town archive, with a restaurant on the premises - is worth a visit as well. Its 650-seat theatre is now famous for its dance productions. Foreign films (including British and American films) are often shown there in the original version, with subtitles
-
-
- The Cité de la Mer is a cultural venue for all ages but especially nice for young children.
+The town centre is compact and walkable. The Grande Rue runs from the harbour up through the old quarter, lined with the kinds of fishmonger, cheesemonger, and market stall that remind you why people still cross the Channel just to shop. The castle on the cliff at the western end of town houses the Musée de Dieppe, which is well worth an afternoon: good maritime history, a strong collection of ivories carved by Dieppe craftsmen in their seventeenth-century heyday, and paintings by the artists who knew the place.

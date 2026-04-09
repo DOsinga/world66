@@ -1,12 +1,14 @@
 ---
-title: "Hanko"
-type: location
-latitude: 59.822801
+done:
+  location_cleanup: '2026-04-09'
+latitude: 59.8228
 longitude: 22.9695
+title: Hanko
+type: location
 ---
 
-The cape town of Hanko borders on three sides on the sea and is Finland's most southern town. Over 30 kilometres of sandy beaches and beautiful old villas (once built for visiting royals from Russia and where you can stay for the night yourself now) will probably make you stay for a few days- if not only to feed your hunger for spotting birds. There are some fifteen migratory birds points and several nature parks that offer excellent opportunities to spot all sorts of birds. In the town itself, you can either visit the ramparts of the 18th century fort or simply enjoy the excellent views of the sea. Although Hanko is a busy port these days, it was able to keep the atmosphere of earlier days.
+Hanko is Finland's southernmost town, a narrow cape jutting into the Baltic where the sea presses in on three sides. Over 30 kilometres of sandy beaches line the shore, and the waterfront is backed by a parade of ornate wooden villas — built in the late 19th century for Russian nobility seeking sea air, many of them still standing and available to rent. The town has the unhurried feel of a resort that has been fashionable for a very long time.
 
+Beyond the beaches, Hanko is serious bird-watching territory. Some fifteen migratory watch points and several nature reserves make it one of Finland's best spots for birding in spring and autumn. The Uddskatan nature reserve to the west is particularly rewarding — guided tours are strongly advised, as the terrain can be tricky. The Högholmen nature trail leads to open-sea panoramas that reward the effort.
 
- 
- Try to visit the nearby Uddskatan nature reserve (guided tour strongly advised) and follow the nature track Högholmen that leads up to astonishing views of open sea.
+In town, the 18th-century fortress ramparts are worth a climb for the views. Despite being a working port — cargo ships and ferries move through regularly — Hanko has held onto its resort atmosphere. Walk the harbour front, hire a bike, or simply find a stretch of beach.

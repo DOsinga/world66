@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-08'
 latitude: 52.7224
 longitude: 1.1039
 title: Lenwade

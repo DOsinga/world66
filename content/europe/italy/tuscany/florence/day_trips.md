@@ -1,6 +1,8 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - europe/italy/tuscany/pisa
 ---
 
 If you are interested in taking an entire day off to explore a new place in Tuscany, you will find a good many **Florence day trips** to choose from. A good option is to enjoy a day in the town of Fiesole. It will be perfect for adults and children alike, complete with exciting activities.

@@ -37,6 +37,11 @@ img { max-width: 100%; height: auto; }
   background: #f0f0ec;
 }
 
+/* Push Leaflet zoom control below the site header (~130px tall) */
+#background-map .leaflet-top {
+  top: 130px;
+}
+
 /* --- Page container --- */
 #page {
   max-width: 980px;

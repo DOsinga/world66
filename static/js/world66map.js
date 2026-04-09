@@ -256,6 +256,8 @@ function initLocationMap(elementId, markers, options) {
         scrollWheelZoom: false,
     });
 
+    L.control.zoom({position: 'topleft'}).addTo(map);
+
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
         maxZoom: 18,
     }).addTo(map);

@@ -1,21 +1,14 @@
 ---
-title: "Shishkat Gojal"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.383
+longitude: 74.805
+title: Shishkat Gojal
 type: location
 ---
 
-Travel Guide
+Shishkat (also known as Nazimabad) is the first village you encounter when entering Gojal from Central Hunza. Settled in 1903 during the reign of Mir Nazim Khan, it sits on what were once grazing lands belonging to nearby Gulmit.
 
-also known as
-Nazimabad Shishkat is the first village of Goj
-al when crossing Central
-Hunza. Total population of the village is 2160 individuals
-living within 220 households. This is dominantly a Burushaski speaking village however people of Wakhi and
-Domaaki ethnic group also inhibit the village. The village was
-settled down in 1903 during the reign of Mir Nazim Khan.
-Before this the barren lands were used as grazing land of
-Gulmit village. Some Wakhi households from Gulmit also
-permanently settled down in Shishkat while the Burushaski and
-Domaaki people migrated from Central Hunza. The village also
-has historical significance because this was the battle ground
-between Wakhi population above Gulmit and the state of Nagar
-and Hunza.
+The village has a mixed population of about 2,160 people — predominantly Burushaski speakers, with Wakhi and Domaaki communities as well. This cultural mix reflects its history as a settlement frontier where people from Central Hunza and Upper Gojal came together. The village also has historical significance as a battleground between the Wakhi population and the states of Nagar and Hunza.
+
+The surrounding landscape is classic Karakoram: terraced fields backed by glaciated peaks, with the Karakoram Highway running through on its way to the Chinese border.

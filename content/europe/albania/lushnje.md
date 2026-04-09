@@ -1,13 +1,14 @@
 ---
-title: "Lushnje"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.942204
 longitude: 19.705972
+title: Lushnjë
+type: location
 ---
 
-**Lushnjë** ( Albanian: *Lushnjë* or *Lushnja*) is a town of Central-West Albania located at 40.95°N, 19.71°E. It is the center of the District of Lushnjë in the County of Fier and has a population of about 38,000 ( 2003 est.). The town was founded in late medieval time by a Turkish widow called Salushe. She built a restoring point in the way passing from Durrës to Berat. This way the town was born.
+Lushnjë is a town of central-west Albania, about halfway between Durrës and Fier on the main road south. It sits in a flat agricultural plain and serves as the main market town for the surrounding region, which is one of Albania's most fertile and a primary supplier of vegetables and grain to the rest of the country.
 
-In January of 1920, Lushnjë was a provisional capital of Albania and the place of the Congress of Lushnjë. Chieftains of Albania assembled in town and they declared Tirana first a provisional and then the definitive capital of Albania. The Lushnjë district is known as a main provider of agricultural products to the rest of the country. It is one of very few field districts of mountainous Albania.
+The town's main historical significance is the Congress of Lushnjë in January 1920, when Albanian chieftains assembled here to resist the post-WWI partition of the country and declared Tirana the provisional capital of Albania. The town was founded in late medieval times as a way-station on the road from Durrës to Berat.
 
-**Contributors**
-April 13, 2005
+Most travelers pass through on the way to Berat or Fier rather than stopping. The town has basic facilities and a lively central market, but limited tourism infrastructure.

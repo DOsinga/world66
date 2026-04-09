@@ -1,16 +1,16 @@
 ---
-title: "Bautzen"
-type: location
-latitude: 51.180913
+done:
+  location_cleanup: '2026-04-09'
+latitude: 51.1809
 longitude: 14.4276
+title: Bautzen
+type: location
 ---
 
-Travel Guide
+Bautzen is one of eastern Germany's best-preserved medieval towns, perched on a rocky promontory above the Spree River in Upper Lusatia. Its skyline of eleven medieval towers rising over the old town is genuinely striking — more so than most German cities that were bombed flat in the war and rebuilt from scratch.
 
-Above all Bautzen is renowned for its historical town centre with its skyline of medieval towers.
+What makes Bautzen genuinely unusual is that it is bilingual. The town is the cultural heart of the Sorbs, a West Slavic people who have lived in this corner of Saxony for over a millennium. Road signs appear in both German and Upper Sorbian, the local radio broadcasts in Sorbian, and the traditional costumes worn at festivals are not a tourist put-on but an expression of a living culture. Roughly one in ten residents identifies as Sorbian.
 
-Some examples: The Reichenturm: One of the steepest leaning and still passable towers north of the Alps Ortenburg Castle The Old Waterworks: architectural monument and museum; landmark of Bautzen Saint Peter's Cathedral: Germany's oldest and Eastern Germany's only historic interdenominational church edifice
+The old town rewards an afternoon of wandering. The Reichenturm leans visibly — it is one of the most dramatically tilted towers north of the Alps, and you can climb it. The Ortenburg castle complex overlooks the river valley. Saint Peter's Cathedral has been shared since 1524 between Catholic and Protestant congregations, divided by an internal wall — Germany's oldest and only remaining interdenominational church of its kind.
 
-Bautzen is the most important cultural center of the Sorbs, which make 5-10% of the city population. You will find many places of Sorbian, German and Sorbian-German culture in the city.
-
-Kleinwelka is a subdivision of the city of Bautzen. There is the largest maze of Germany and a large Dinosaur-park.
+Just outside the city, the suburb of Kleinwelka has Germany's largest hedge maze and a large outdoor dinosaur park — a good option if you are travelling with children.

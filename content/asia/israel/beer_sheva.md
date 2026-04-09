@@ -1,8 +1,10 @@
 ---
-title: "Be'er Sheva"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 31.245744
 longitude: 34.792518
+title: Be'er Sheva
+type: location
 ---
 
 Be'er Sheva (Beersheba) is the capital of the Negev — a university city, military center, and the main transport hub for Israel's south. It's not a conventional tourist destination, but it's a useful base for exploring the Negev desert and has a few things worth seeing in its own right.

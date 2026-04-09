@@ -1,8 +1,10 @@
 ---
-title: "Palm Springs"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 33.824627
 longitude: -116.540303
+title: Palm Springs
+type: location
 ---
 
 Palm Springs is a desert resort city in southern California at the foot of the San Jacinto Mountains. It is famous for its mid-century modern architecture — the 1940s and 50s left the city with an extraordinary concentration of flat-roofed houses and civic buildings that now attract design enthusiasts from around the world, and Modernism Week each February draws thousands of architecture fans.

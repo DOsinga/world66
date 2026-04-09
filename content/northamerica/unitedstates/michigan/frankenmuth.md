@@ -1,8 +1,10 @@
 ---
-title: "Frankenmuth"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.332368
 longitude: -83.739229
+title: Frankenmuth
+type: location
 ---
 
 Frankenmuth is a small city about 20 miles north of Flint, Michigan, that has leaned hard into its German heritage. Founded in 1845 by Bavarian immigrants, it has built a thriving tourist trade around its Bavarian architecture, German food, and year-round Christmas spirit. It's unusual enough to be worth a visit if you're in the area.

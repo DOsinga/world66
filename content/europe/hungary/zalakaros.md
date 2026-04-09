@@ -1,11 +1,14 @@
 ---
-title: "Zalakaros"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 46.5608
+longitude: 17.1222
+title: Zalakaros
 type: location
-latitude: 46.560786
-longitude: 17.122153
 ---
 
-Its spa water with a temperature of 96 degrees centigrade, rich in minerals, was found when they were looking for mineral oil in 1962. The water from a depth of 2,307.5 metres is beneficial for the following health problems: chronic gynaecological diseases, the deterioration of the articular cartilage, disc degeneration, lesions of the spinal joints due to cartilage wear, chronic discitis.
-It is also suitable for the after-care of orthopaedic patients, people recovering from accidents, and following neurosurgery, and those with locomotor disorders and paradental conditions. The construction of the spa began in l964.
+Zalakaros is a small spa town in southwestern Hungary, near Lake Balaton. The town's thermal water was discovered by accident in 1962, when drillers searching for oil hit a spring at 2,300 metres depth — the water comes up at 96°C and is rich in minerals.
 
-Today visitors can go to the health centre, open air and indoor swimming pools, can take the waters, can get hydrotherapy treatment, like hydromassage, sauna, medicinal weight bath, and effervescent bath. They are also offered special treatment, massage, and electrotherapy, as well as examination by specialists. In 1997, they started the construction of a pleasure pool.
+The spa complex has grown steadily since the 1960s and now includes indoor and outdoor pools, water slides, a wellness centre, and treatment facilities. It draws a steady stream of visitors from Hungary, Austria, and Germany, many of them coming for multi-day cure programmes. The town has developed accordingly, with guesthouses, pensions, and restaurants lining the main streets.
+
+Beyond the spa, Zalakaros is a quiet place. The surrounding Zala County countryside is gentle and green, with vineyards and small villages. The Kis-Balaton wetlands, an important bird habitat, are a short drive north. The town makes a reasonable base if you want to combine thermal bathing with exploring the western shore of Lake Balaton.

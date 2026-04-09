@@ -1,19 +1,12 @@
 ---
-title: "Otepää"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 58.058491
 longitude: 26.49606
+title: Otepää
+type: location
 ---
 
-Travel Guide
+Otepää is a small town in southern [Estonia](/europe/estonia) that bills itself as the country’s "winter capital." Set among the rolling hills of the Otepää Uplands — the highest ground in the Baltics, though still modest by most standards — it is Estonia’s main winter sports centre.
 
-A small city it might be but in winter, hilly Otepää is the winter
-capital of Estonia and attracts skiers, snowboarders, snowmobile
-riders, snow tubers and sledgers from all over Estonia and beyond.
-
-It’s
-home to international cross-country skiing (Estonia's favourite sport)
-events and in summer, the hills are alive with hikers and climbers.
-
-**More information **about Otepää can be found on the official tourist
-information website of Estonia (http://www.visitestonia.com/en/articles/destinations/city-guides/otepaa).
+Cross-country skiing is the main event: Otepää hosts World Cup races on the Tehvandi track and the town fills up with Estonians and Scandinavians whenever snow falls. Downhill skiing, snowboarding, snowmobiling, and sledging are also on offer, with several small slopes around town. In summer the same hills draw hikers and mountain bikers, and the surrounding lakes are good for swimming.

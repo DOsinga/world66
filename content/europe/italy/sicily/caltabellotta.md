@@ -1,8 +1,10 @@
 ---
-title: 'Caltabellotta'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.5773
 longitude: 13.2165
+title: Caltabellotta
+type: location
 ---
 
 Caltabellotta is one of the highest villages in Sicily, perched on a rugged hilltop near Sciacca on the south coast. The bus ride up from Sciacca winds right up the mountainside and is half the fun. The village itself is crammed onto every available ledge below the crest.

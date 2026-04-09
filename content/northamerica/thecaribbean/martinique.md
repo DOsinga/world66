@@ -1,17 +1,14 @@
 ---
-title: "Martinique"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 14.6361
+longitude: -61.0192
+title: Martinique
 type: location
 ---
 
-La Martinique is a bit of France in the Caribbean. Located over 4,000 miles from Paris, it is a full fledged French "région". The French came in 1674 and with the exception of a short lived British occupation, the island has been in French hands ever since. 
+Martinique is a bit of France in the Caribbean. Located over 6,000 km from Paris, it is a full département and région of France — the euro is the currency, the food is French, and the bureaucracy is unmistakably Gallic. The French arrived in 1635, and with the exception of brief British occupations, the island has been French ever since.
 
-Before Columbus discovered the island in 1502, the Caribs called it Isle of Flowers and floral it has remained up to this day. You will find frangipani, wild orchids, hibiscus and neon-bright bougainville all over the place. 
+Before Columbus sighted the island in 1502, the Caribs called it Madinina, the Isle of Flowers, and floral it has remained. You will find frangipani, wild orchids, hibiscus, and neon-bright bougainvillea everywhere. The northern half of the island is mountainous and lush, dominated by Mont Pelée (1,397 m), the volcano that buried the old capital Saint-Pierre under ash and lava in 1902, killing 30,000 people in minutes. The southern half is drier, flatter, and lined with excellent beaches.
 
-The capital city of the island is [Fort-de-France](/northamerica/martinique/fortdefrance) a very stylish and sophisticated city. South of the city you find many excellent beaches, be careful if you have young children. There are some beaches that allow nudists. Mont Pelee is in the north of the island. The volcanoe buried the old capital city, St. Pierre under lava and ashes back in 1902. With a height of over 4,000 feet it is the highest point of the island. 
-
-Martinique is a french speaking island.
-
-## Destinations in Martinique
-
-[Fort-de-France](/northamerica/martinique/fortdefrance)
-[La Trinite](/northamerica/martinique/latrinite)
+Fort-de-France is the capital — a stylish, sophisticated city with a covered market, rum bars, and a lively waterfront. Martinique is a French-speaking island; English is not widely spoken outside tourist areas.

@@ -1,6 +1,6 @@
 ---
-title: "Eating Out in Arcata"
+title: "Eating Out"
 type: section
 ---
 
-Arcata spoils its residents with delicious healthy cuisine. Visitors get to experience the benefit of locally owned businesses that take pride and care in providing a great experience in their restaurant. Don't be surprised to see a lot of organic ingredients and almost all restaurants have vegetarian meals.
+Arcata punches well above its weight for food. Locally owned restaurants dominate, many emphasizing organic and locally sourced ingredients. Vegetarian and vegan options are everywhere — this is one of the easiest towns in California to eat well without meat.

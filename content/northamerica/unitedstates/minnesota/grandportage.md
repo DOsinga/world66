@@ -1,12 +1,14 @@
 ---
-title: "Grand Portage"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 47.9638
+longitude: -89.6848
+title: Grand Portage
 type: location
-latitude: 47.963776
-longitude: -89.684812
 ---
 
-Located on the magnificent shore and boreal forest of Lake Superior in northeastern Minnesota, Grand Portage National Monument preserves a vital headquarters of 18th, 19th and 20th century fur trade activity and Ojibwe heritage.
+Grand Portage sits on the shore of Lake Superior in the far northeastern corner of Minnesota, about as close to Canada as you can get without crossing the border. The main draw is Grand Portage National Monument, which preserves the site of an 18th-century fur trade headquarters where voyageurs, Ojibwe families, and North West Company agents gathered each summer for a grand rendezvous of trade and negotiation.
 
-The monument is enclosed within Grand Portage Indian Reservation, for centuries home to Ojibwe Indian families. Within a reconstructed palisade wall, the great hall and kitchen complex have been rebuilt on their original archeological sites. Nearby, a canoe warehouse houses the vessels, crafted from birch, cedar and spruce raw materials, essential for travel along east-west fur trade routes.
+The reconstructed palisade, great hall, and kitchen have been rebuilt on their original archaeological sites. A canoe warehouse holds birch-bark vessels of the kind that once carried furs and trade goods along the waterways connecting Lake Superior to the continent's interior. The 8.5-mile Grand Portage trail — the "Great Carrying Place" — links the compound to Fort Charlotte on the Pigeon River, and can be hiked in a long day.
 
-The eight and one-half mile "Great Carrying Place" or Grand Portage connects the summer headquarters compound of The Northwest Company to an unrestored Fort Charlotte located across the Pigeon River from Canada. This centuries old Grand Portage became a major gateway into the interior of North America for exploration, trade and commerce. It linked Lake Superior with a westward system of lakes and rivers. During the late 18th century, Grand Portage served as the inland headquarters for the North West Fur Company and was the location for a summer rendezvous involving Indian families, voyageurs, clerks, wintering partners and agents.
+The surrounding landscape is striking: boreal forest, cold Superior waters, and the kind of quiet that makes the rest of the state feel far away. Grand Portage is on the Grand Portage Band of Lake Superior Chippewa reservation, and the community's heritage is woven throughout the site.

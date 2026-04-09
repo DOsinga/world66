@@ -3,12 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
-
-**Beiruth**
-
-Lebanese restaurant with freindly manager.** Bobby Mixon:** I have never heard of this place in Malabo..the telephone does not mean anything unless it is 9330
-
-address: Enrique Nvo
-
-tel: 3330
+Dining options in Malabo are limited but improving. A handful of restaurants serve a mix of local and international food — Lebanese, Spanish, and Cameroonian cuisines are all represented. Prices are high by African standards, reflecting the oil-boom economy.

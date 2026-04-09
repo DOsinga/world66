@@ -1,8 +1,10 @@
 ---
-title: "Kodaikanal"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 10.233712
 longitude: 77.491972
+title: Kodaikanal
+type: location
 ---
 
 Kodaikanal is the most appealing hill station in Tamil Nadu, sitting at 2,133 metres in the Palani Hills, 120 km northwest of Madurai. The British established it in the 1840s as a summer retreat from the Madurai heat, and unlike Ooty it has retained something of that quiet quality — though it gets very crowded in April and May when the plains become unbearable.

@@ -1,24 +1,14 @@
 ---
-title: "Ormond Beach"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 29.285413
 longitude: -81.055792
+title: Ormond Beach
+type: location
 ---
 
-Travel Guide
+Ormond Beach sits at the north end of the Daytona Beach area on Florida's Atlantic coast, where the Halifax River runs behind the barrier island. It is quieter and more residential than Daytona Beach itself — beach driving is not permitted here, which keeps the northern strand in better shape — and has a legitimate claim to historical interest.
 
-Ormond Beach is located at the north end of the *Daytona Beach area*.
-Ormond Beach was once home to oil industry multi-millionaire, John D.
-Rockefeller and railroad magnate, Henry Flagler, as well as the early
-automotive pioneers who tested their inventions on the hard-packed
-beach.
+At the turn of the 20th century, Ormond Beach was where the world's speed records were broken. The hard-packed Atlantic sand was the best racing surface available, and early automotive pioneers including R.E. Olds and Alexander Winton brought their machines here between 1902 and 1935. Oil baron John D. Rockefeller wintered at **The Casements**, his cottage on the Halifax River, which is now open as a museum. Railroad magnate Henry Flagler also had strong connections with the area.
 
-Today, Ormond Beach is known as the "Birthplace of Speed" and
-celebrates its racing heritage with annual events that reenact the
-early days of racing on the beach. Visitors to the area can enjoy a
-tour through the Casements, the former winter home of John D.
-Rockefeller, canoeing, fishing and viewing a vast array of wildlife at
-the Tomoka State Park. The area also boasts several beachfront and
-riverfront parks. Visitors seeking a quieter part of the beach can find
-it in the Ormond Beach area. In fact, beach driving is not allowed at
-the northern end of Ormond Beach.
+Today the **Tomoka State Park** at the north end of town is the main draw for nature visitors: canoeing, fishing, birdwatching along the river, and walking trails through coastal hammock. The beach parks along the oceanfront are uncrowded compared to Daytona.

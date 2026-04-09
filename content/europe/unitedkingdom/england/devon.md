@@ -1,8 +1,10 @@
 ---
-title: "Devon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.72414
 longitude: -3.660779
+title: Devon
+type: location
 ---
 
 Devon is situated in southern England and is a very beautiful county, famous for many picturesque and varied environments in both coastline and countryside.

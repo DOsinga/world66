@@ -1,20 +1,14 @@
 ---
-title: "Qax"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 41.2564
+longitude: 46.8006
+title: Qax
 type: location
-latitude: 41.256376
-longitude: 46.80064
 ---
 
-Qax is a pleasant an tranquil provincial town, northwest of [Sheki](/europe/azerbaijan/saki), at the base of an appendix of Azeri territory that penetrates into Georgia and Dagestan.
+Qax is a pleasant, tranquil provincial town in northwestern Azerbaijan, at the base of an appendix of Azerbaijani territory that juts into Georgia and Dagestan. It sits northwest of [Sheki](/europe/azerbaijan/saki) and about 400 km from Baku.
 
-There is a culture centre, but social life runs around the chaikana, an interesting building with a metallic dome, located near the Baku bus stop, on a park with a monument to Mammad Mammadov.
+Social life centres on the chaikhana, an interesting building with a metallic dome located near the Baku bus stop on a park with a monument to Mammad Mammadov. The main bus station is in the south of town, near an attractive Georgian-style church, with services to Russia and Georgia. Near the town of Kakhi, you can find the tomb of Haji Murat, the Avar resistance fighter made famous by Tolstoy's novella *Hadji Murad*.
 
-The main bus station is in the south of the town, near the attractive Georgian style church. There are services to Russia and Georgia.
-
-In the northern part of the town there is a small and poorly maintained hotel, without en-suite bathrooms. Qax train station is isolated and quite far from the town, so you may consider using Sheki's station instead.
-
-Near Kakhi you'll find the tomb of Haji Murat, a fighter against Russian occupation, famous for Tolstoy's story 'Haji Murat'.
-
-The nearby village of Ilisu was once the capital of an independent sultanate. There is only one street but two castle towers, a mosque and a bridge dating from the 18 th century remain.
-
-(400 km northwest of Baku)
+The nearby village of Ilisu, once the capital of an independent sultanate, is worth the short detour. There is only one street, but two castle towers, a mosque, and an eighteenth-century bridge survive — a reminder of a time when this remote valley was an autonomous power in its own right.

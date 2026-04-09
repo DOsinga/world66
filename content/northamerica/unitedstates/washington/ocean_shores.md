@@ -1,23 +1,14 @@
 ---
-title: "Ocean Shores"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.973703
 longitude: -124.156277
+title: Ocean Shores
+type: location
 ---
 
-Ocean Shores is in Washington state. It is located between
-Grays Harbor and the natural beauty of the Pacific Ocean. It is
-also near the wild forest and coastline of the Olympic Peninsula.
-The beaches of Ocean Shores are spectactular, and the resort
-community provides first-class accomodations that offer the
-finest family vacation lodging anywhere on the Washington coast.
+Ocean Shores is a small resort community on a sandy peninsula between Grays Harbor and the Pacific Ocean, on Washington's central coast. The beaches here are wide and dramatic — miles of flat sand backed by dunes, with the kind of moody Pacific weather that makes the Washington coast distinctive.
 
-To the north the pacific coastline is made up of secluded
-beaches and ancient rainforests that you'll want to visit. But before
-you make that trek, stay a while in Ocean Shores. There are regular
-events like the Sand and Sawdust Festival in the summer and the Art and
-Photography Show in the winter to entertain you, and there is surf
-fishing or kiteflying or simply beach combing going on all the
-time. See the website at www.oceanshores.org for a list of events
-and accomodations. Or visit www.travelhwyy101.com for photos of the
-area.
+The town is a popular weekend escape from Seattle and the Puget Sound cities. The main draws are the beach itself (good for kite flying, razor clamming in season, and long walks), the annual Sand and Sawdust Festival in summer, and easy access to the wilder coastline and rainforests of the Olympic Peninsula to the north.
+
+Ocean Shores is not glamorous — it is a low-key beach town with motels, a casino, and a handful of restaurants — but the setting is genuine and the beach is spectacular.

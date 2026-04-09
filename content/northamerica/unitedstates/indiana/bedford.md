@@ -1,15 +1,14 @@
 ---
-title: "Bedford"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 38.8612
+longitude: -86.4875
+title: Bedford
 type: location
-latitude: 40.027145
-longitude: -78.523745
 ---
 
-Travel Guide
+Bedford is a small city of around 13,000 people in southern Indiana, best known as the self-proclaimed Limestone Capital of the World. The pale grey oolitic limestone quarried from the hills around town has shaped some of the most recognizable buildings in the United States — the Empire State Building, the Pentagon, the National Cathedral in Washington, and the facade of the United States Holocaust Memorial Museum all owe their stone to Lawrence County.
 
-The city of Bedford is home to around 14,000 people. It has several elementary schools and a great high school. The high school has the former IU basketball star as their coach. The boys and girls club is very active offering sporting events all year long.
-Bedford has plenty of places to shop and good places to eat.
+The limestone heritage runs deep here. Drive out of town in any direction and you will find old quarry pits, stone cutting mills, and yards full of freshly hewn blocks. The local cemeteries, particularly the one near 9th and N Streets, are worth a quiet hour: craftsmen who spent their lives shaping stone put the same skill into the headstones of their own. One remarkable example is a full-scale carving of a mason's desk, left exactly as he had it at the moment he died — papers, tools, and all.
 
-Bedford is also known and "The Limestone Capitol of the World". Bedford limestone can be found in many principle buildings around the world. Including the Pentagon, the empire state buildings and the National Cathedral. A trip to the graveyards of Bedford, especially one near 9th and N Streets, can be rewarding for some of the interesting ornamental limestone headstones. One of the most impressive is of the desk of a mason who died; his colleagues carved his desk as he left it, with papers and other assorted objects on top of it. Another interesting headstone is a carving of a local character with a penchant for golf, since he holds for eternity his clubs beside him.
-
-Since mine and my husband's hobby is geocaching, I can tell you Bedford has 1000s of caches hidden in Bedford and the surrounding communities.
+Bedford sits along the East Fork of the White River, surrounded by the gentle karst hills of the Mitchell Plain. It makes a natural stopping point for travelers heading to [Hoosier National Forest](/northamerica/unitedstates/indiana) or [Spring Mill State Park](/northamerica/unitedstates/indiana), a short drive to the east.

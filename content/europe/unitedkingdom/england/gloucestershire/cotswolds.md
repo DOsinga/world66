@@ -1,8 +1,10 @@
 ---
-title: "Cotswolds"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.748943
 longitude: -0.230333
+title: Cotswolds
+type: location
 ---
 
 The Cotswolds is an area of gently rolling hills stitched together with dry-stone walls, hidden river valleys, and market towns built from the distinctive amber-coloured limestone that gives the whole region its warm, unified look. Towns like Winchcombe, Bibury, and Painswick have genuine medieval and Tudor character, though in high summer the most famous villages — Bourton-on-the-Water especially — can be so crowded as to be barely worth the effort.

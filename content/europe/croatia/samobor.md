@@ -1,12 +1,14 @@
 ---
-title: "Samobor"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 45.801862
 longitude: 15.70971
+title: Samobor
+type: location
 ---
 
-This quaint, charming town is very picturesque and well worth your time. It is only about twenty-five minutes from the eastern end of Zagreb by car, and it is near the Slovenian border.
+Samobor is a pretty little town about 25 minutes west of [Zagreb](/europe/croatia/zagreb), right on the edge of the Žumberak hills near the Slovenian border. It makes an easy half-day trip from the capital and is where Zagrebčani go for a Sunday stroll and cake.
 
-All within walking distance from the center of town, there is a historical museum (worth the visit), castle ruins on a hilltop, and a pleasant path to walk along, the sights to see including a delightful chapel in the forest.
+The town centres on a pleasant square lined with pastel-coloured buildings and traditional cake shops — **kremšnita**, a custard cream slice, is the local speciality and you should not leave without trying one. From the square, a path climbs through forest past a small chapel to the ruins of a 13th-century castle on the hilltop above, with views over the town and surrounding hills. The Samobor Museum on the main square covers local history and is worth a look.
 
-Also, Samobor is famous for its specialty "cakes," which must be tried! These can be bought in several confection shops in town.
+The Žumberak-Samoborsko Gorje Nature Park begins just outside town, offering easy hiking through forested hills and meadows.

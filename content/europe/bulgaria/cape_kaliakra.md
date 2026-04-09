@@ -1,28 +1,14 @@
 ---
 title: "Cape Kaliakra"
 type: location
-latitude: 43.360374
-longitude: 28.465223
+latitude: 43.3604
+longitude: 28.4652
 ---
 
-Kaliakra
-(Bulgarian: Калиакра; Romanian: Caliacra) is a long and narrow headland
-in the Southern Dobrudzha region of the northern Bulgarian Black Sea
-Coast, located 12 km south-east of Kavarna and 60 km north-east of
-Varna.
+Cape Kaliakra is a narrow finger of rock jutting into the Black Sea some 12 km southeast of Kavarna — dramatic red-brown cliffs dropping 70 metres straight to the water, with steppe grassland stretched behind. It is one of Bulgaria's most striking natural features and worth the detour from the coastal resorts.
 
-The coast is steep and has cliffs reaching 70 m down to the sea.
-In the area the last remains of steppe habitats in Bulgaria occur.
-Kaliakra is a nature reserve, where dolphins, shags and a numbers of
-typical steppe birds can be observed, it is one of the very good
-birdwatching sites in Bulgaria.
+The cape is a protected nature reserve, and the mix of steppe, cliffside, and sea makes it exceptional for wildlife. Dolphins are regularly spotted below the cliffs, and Kaliakra is one of the best birdwatching sites in Bulgaria — a designated Important Bird Area and Natura 2000 site. If you are interested in birds, come in spring or autumn during migration, when the headland funnels raptors and passerines along the coast.
 
-It is identified by the Bulgarian
-Society for the Protection of Birds/BirdLife Bulgaria as an Important
-Bird Area and a Natura 2000 site. There are features and ruines of the
-fortified walls, water-main, baths and residence of Despot Dobrotitsa's
-medieval capital.
+History piled up here over the centuries. The fortified medieval capital of Despot Dobrotitsa once stood at the tip, and you can still walk among the ruins of walls, baths, and a water-main. In August 1791, the cape gave its name to a naval battle between Russian and Ottoman fleets — a clash that helped determine the outcome of the Russo-Turkish War of 1787–1792.
 
-Kaliakra was the site of the naval Battle of Cape Kaliakra on 11 August 1791, part of the Russian-Turkish War of 1787-1792.
-
-Since 2005 there is a large medium wave transmitter with 9 guyed masts near Kaliakra, the Kaliakra Transmitter.
+Getting there requires your own transport — the cape is not served by public buses. From Kavarna, follow the road southeast; the reserve entrance has a small admission fee. Allow at least half a day to walk the headland properly and explore the archaeological remains.

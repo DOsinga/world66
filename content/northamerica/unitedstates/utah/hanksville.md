@@ -1,14 +1,14 @@
 ---
-title: "Hanksville"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 38.3738
+longitude: -110.7064
+title: Hanksville
 type: location
-latitude: 38.373776
-longitude: -110.706401
 ---
 
-Travel Guide
+Tiny Hanksville is surrounded by overwhelmingly dramatic country. Home to around 300 people, this desert crossroads has a colourful past as a polygamist hideout, an outlaw refuge — Butch Cassidy and his Wild Bunch reportedly frequented the area — and a hardscrabble ranching town. Even today it is not easy to get here; long drives across burning, empty desert are pretty much the only way in.
 
-Tiny Hanksville is surrounded by overwhelmingly dramatic and beautiful country. Home to at most about 300 people, Hanksville has a colorful past as polygamist hideout, outlaw hideout, and desert ranching town. Legend has it that Butch Cassidy and his wild bunch frequented the area. Even today, it's not easy to get to Hanksville. Long driving across the burning and lonely deserts is pretty much the only way, although there is an airport for those with aircraft.
+Local landmarks include the Hollow Mountain store and gas station, carved into a sandstone knob, and the restored Wolverton Mill at the BLM office, which was airlifted by helicopter from its original perch on Mount Pennell. Gas, food and lodging are available but limited.
 
-Local highlights include the Hollow Mountain store and gas station (set in a sandstone knob of rock), Stan's Burger Shak and Motel, the Red Rock Campground, and the local BLM office, where the restored Wolverton Mill now sits, having been removed by helicopter from it's perch high on Mount Pennell.
-
-Gas, food, and lodging are all available but limited. From Hanksville, Utah Highway 95 goes south to Hite Marina and Blanding, passing the junction for Utah Highway 276 to Bullfrog Marina. Highway 24 heads west to Capitol Reef National Park. A dusty dirt road wanders south to the Henry Mountains, going up to Lonesome Beaver Campground on Mount Ellen.
+Hanksville sits at a junction of routes into some of southern Utah's most spectacular landscape. Highway 24 heads west to Capitol Reef National Park, Highway 95 runs south to Hite Marina and Blanding, and a dusty dirt road wanders into the Henry Mountains toward Lonesome Beaver Campground on Mount Ellen.

@@ -1,8 +1,10 @@
 ---
-title: "Grand Cayman"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 19.3133
 longitude: -81.2546
+title: Grand Cayman
+type: location
 ---
 
 Grand Cayman is the largest of the three Cayman Islands and handles the vast majority of visitors. The capital, George Town, sits on the western shore. Seven Mile Beach stretches north from the capital — this is where most hotels, restaurants, and tourist activity is concentrated. The eastern side of the island is quieter, more residential, and largely overlooked by visitors in a hurry.

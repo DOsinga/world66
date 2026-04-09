@@ -1,8 +1,14 @@
 ---
-title: "Pogradec"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.899874
 longitude: 20.657388
+title: Pogradec
+type: location
 ---
 
-On the top of the hill overlooking Pogradec there is an ancient Illyrian fortress believed to have been known as *Encheleana*. In the Middle Ages this fortress was reconstructed and the place was renamed by the Bulgarians, who invaded Southeastern Albania at this time. *( Pogradec, Pod Grad - the place** beneath the fortress )*. During the Eighteenth century under Turkish occupation, the town became an administrative centre, but was largely destroyed ruing the World War I, again during the Italian-Greek War of 1940-1941 and twice during the *National Liberation War *(1941-1944); however a number of characteristic houses have been preserved as cultural monuments. Pogradec has a population of 15,000 inhabitants. It is a centre of the food industry, noted for its canned fruits, vegetables and dairy products. There are also factories producing furniture, tobacco and knitwear. Pogradec has an excellent bathing beach and has a great future as a tourist centre. The environment offers an alpine like scenery of rare beauty. The lofty mountains of Kamja and Guri i Topit stand over it like a crown.
+Pogradec sits on the western shore of Lake Ohrid, one of the oldest and deepest lakes in Europe, shared between [Albania](/europe/albania) and [North Macedonia](/europe/macedonia). The town is backed by the lofty mountains of Kamja and Guri i Topit, giving it an almost alpine setting.
+
+The lakeside promenade and beach are the main draws — Pogradec has one of the best bathing beaches in Albania, and the water is remarkably clear. Above the town, the ruins of an ancient Illyrian fortress known as Encheleana sit on the hilltop, offering views over the lake. The town has a long history: its Slavic name ("beneath the fortress") dates from the medieval period, and it survived destruction in both World Wars.
+
+Pogradec is a common stop for travellers heading between [Korce](/europe/albania/korce) and [Ohrid](/europe/macedonia/ohrid) across the North Macedonian border. The Drilon springs, a short drive south along the lake, are a beautiful spot for a meal by the water.

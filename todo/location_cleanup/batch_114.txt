@@ -9,7 +9,6 @@ africa/mozambique/pemba
 africa/botswana/kalaharidesert/orapa
 europe/hungary/esztergom
 northamerica/mexico/puerto_penasco
-northamerica/unitedstates/pennsylvania/dunmore
 asia/srilanka/arugam_bay
 europe/armenia/nagornokarabakh/stepanakert_3
 africa/algeria/laghouat

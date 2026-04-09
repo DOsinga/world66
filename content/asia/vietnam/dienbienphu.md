@@ -1,11 +1,14 @@
 ---
-title: "Dien bien phu"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 21.4904
+longitude: 103.1046
+title: Dien Bien Phu
 type: location
-latitude: 21.490438
-longitude: 103.104635
 ---
 
-**Dien Bien Phu** is a small village in the north west corner of Vietnam. Situated in a beautiful valley near the Laotian border, the area has special significance to the modern State of Vietnam. It was the site of the decisive battle that led to the end of French colonial occupation. In May 1954 the Vietnames forces (the so-called Viet Minh) destroyed the the local French garrison. There is an interesting museum to visit that informs about the battle. The area is inhabitant by hill-tribe people, most notably the Tai and Hmong. A journey to this remote region provides a visita of picturesque mountain terrain and glimpses of ethnic villages living a lifestyle unchanged for centuries. 
+Dien Bien Phu is a small town in the northwest corner of Vietnam, set in a beautiful valley near the Laotian border. It is best known as the site of the decisive battle that ended French colonial rule in Indochina. In May 1954, Vietnamese forces besieged and destroyed the French garrison here — a defeat that led directly to the Geneva Accords and the French withdrawal.
 
+The valley is surrounded by forested mountains and populated by hill-tribe peoples, most notably the Tai and Hmong. A museum on the battlefield site documents the battle in detail and is well worth a visit. The area around the town offers views of picturesque mountain terrain and ethnic minority villages.
 
- This place in nearly a must for every French visitor who is interested in history. The victory of the Vietnamese against the French foreign army was the trigger for the French to move out of Vietnam. During the tourist season you can easily get a flight from [Hanoi](/asia/vietnam/hanoi) to this historic place. Some travellers come by motor-bike you can hire in the capital. From Dien Bien Phu you can continue to [Sapa](/asia/vietnam/sapa).
+During the tourist season you can fly from [Hanoi](/asia/vietnam/hanoi) to Dien Bien Phu. Some travellers ride motorbikes hired in the capital — a spectacular if demanding journey through the mountains. From here you can continue northwest to [Sapa](/asia/vietnam/sapa).

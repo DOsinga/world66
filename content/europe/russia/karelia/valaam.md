@@ -1,11 +1,14 @@
 ---
-title: "Valaam"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 61.388986
 longitude: 30.944978
+title: Valaam
+type: location
 ---
 
-Travel Guide
+Valaam is an archipelago of rocky wooded islands in the northern part of Lake Ladoga, Europe's largest lake, in the Russian Republic of Karelia. The main island gives its name to a famous Orthodox monastery founded in the 14th century — one of the most important in the Russian church.
 
-A group of picturesque rocky islands, the archipelago Valaamsky, is located in the northern part of the Lake Ladoga. The island Valaam is the main among them. The monastery was founded here in the 14th century. The name of the island comes from Finno-Ugric "valomo" - which means "the high, mountain land". The monks living there found this name harmonious to the name of the bible prophet so they named the island Valaam.
-Today the island Valaam itself and the male monastery located on the island is the united architectural complex. Those who love nature and history must visit this cultural center. The monks transformed this wild northern island into flourishing gar&shy;den. The monks did not cut down the trees but used for their needs only the trees that had been tumbled down by the wind. Therefore Valaam is still covered by the virgin taiga. From the highest points of island one can enjoy the magnificent views to the Ladoga Lake. Other islands of archipelago create the world of fantastic landscapes with the rocks and the gulfs.
+The island has a remote, otherworldly quality. The monks transformed this wild northern landscape into gardens and farmland without felling the standing forest; they only used trees blown down by the wind. As a result, Valaam retains its original boreal taiga, and the views from the island's heights across the grey waters of Ladoga are striking. The monastery complex — with its cathedral, hermitages, and stone churches scattered across the island — forms a unified architectural and spiritual ensemble.
+
+Valaam is accessible by boat from Sortavala and Priozersk. Day trips run in summer; staying overnight on the island gives a very different atmosphere once the day visitors have gone.

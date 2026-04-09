@@ -1,18 +1,14 @@
 ---
-title: "Batanes"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 20.644247
 longitude: 121.893946
+title: Batanes
+type: location
 ---
 
-Travel Guide
+Batanes is the Philippines' northernmost province — a cluster of ten small islands in the Luzon Strait, closer to Taiwan than to Manila. Only the three largest islands (Batan, Itbayat, and Sabtang) are inhabited, and the total population is among the smallest in the country. The provincial capital is Basco on Batan Island.
 
-The Province of Batanes is the northernmost and the smallest province of the Philippine Republic, both in terms of population and land area. The provincial capital is Basco.
+The landscape is unlike anywhere else in the Philippines: rolling green hills, stone houses with thick walls and cogon-grass roofs built to withstand typhoons, and dramatic coastal cliffs dropping into the Pacific. The Ivatan people who live here have their own language and a culture shaped by centuries of isolation and fierce weather. Fishing and farming are the mainstays of life.
 
-The province is composed of ten islands, called the Batanes Islands, located about 162 km north of the Luzon mainland in the Luzon Strait and is part of the Cagayan Valley region in Luzon. Of this island group, the largest and only inhabited islands are Itbayat, Batan and Sabtang.
-
-The Batanes Islands are separated from the Babuyan Islands of Cagayan Province by the Balintang Channel and from Taiwan by the Bashi Channel.
-
-The northernmost island of the province, as well as of the Philippines, is Mavudis (Yami) Island. The other islands are Misanga, Siayan, Itbayat, Dinem, Batan, Sabtang, Ivuhos, and Dequey. Only the four largest islands (Batan, Ivuhos, Itbayat and Sabtang) are inhabited.
-
-The Batanes are about 190 kilometers south of Taiwan.
+Batanes sees relatively few visitors, partly because flights from Manila are limited and frequently cancelled by weather. Those who make it find an extraordinarily peaceful, photogenic place — the kind of destination where the main activity is walking through open hills above the sea.

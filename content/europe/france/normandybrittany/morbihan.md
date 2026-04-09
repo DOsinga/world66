@@ -1,9 +1,14 @@
 ---
-title: "Morbihan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 47.825981
 longitude: -2.763349
+title: Morbihan
+type: location
 ---
 
-Golfe of Morbihan
- "Morbihan" means "small sea" in Breton, because the coast, after the presqu'ile of Quiberon, shelters a marvellous ecosystem including dozens of islands. Some of them can be visited (I recommend "l'Ile aux moines") from the city of Vannes. Vannes owns a pretty walled downtown, full of delicious restaurants. One can see numerous mediaeval houses and... postcards sellers! Nearby, the small city of Auray worth the detour: its neighborough of Saint Goustan shelters a museum-sail boat, twisty mediaeval streets and... the house where Benjamin Franklin stopped on his way to Paris to convince France to help the United States during the war of independance! Along the river which links Auray with the Golfe of Morbihan, I advice you to stopover at the village of Le Bono: the sight from the bridge is gorgeous and you will learn how to raise oysters! The inhabitants of the region are proud to be Breton but it's a pride they are willing to share with the visitors. I found them friendly and very interesting to listen to.
+Morbihan is a département in southern Brittany, named after the Golfe du Morbihan — "small sea" in Breton — a sheltered inland sea dotted with dozens of islands. The gulf is a remarkable ecosystem of tidal flats, oyster beds, and bird colonies, and several of the islands can be visited by boat from Vannes, the main city.
+
+Vannes has a beautifully preserved walled old town with half-timbered medieval houses, a cathedral, and a lively restaurant scene concentrated around the ramparts. Nearby Auray is worth the detour for its Saint-Goustan quarter — a picturesque harbour district of twisting medieval streets where Benjamin Franklin landed in 1776 on his way to Paris to enlist French support for the American Revolution. The village of Le Bono, upstream along the river, is known for its oyster farming and gorgeous views from the old bridge.
+
+Beyond the gulf, Morbihan's coast stretches from the Quiberon peninsula to the megaliths of Carnac, one of the most impressive prehistoric sites in Europe — thousands of standing stones arranged in long rows across the landscape. The inhabitants are proud to be Breton, and it is a pride they are happy to share.

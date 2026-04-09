@@ -1,20 +1,14 @@
 ---
-title: "Maracaibo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 10.649809
 longitude: -71.64436
+title: Maracaibo
+type: location
 ---
 
-Venezuela’s commercial and oil center Maracaibo is not the most interesting place in the country. It is a centre for heavy industry and few tourists are attracted by that kind of thing.
+Maracaibo is Venezuela's second city and its oil capital — a hot, flat, industrial place on the northwestern shore of Lake Maracaibo. It is not the most picturesque city in the country, but it has its own energy and a few genuinely worthwhile corners.
 
-Near the waterfront, the old town was restored nicely and the neighborhood of Santa Lucia which is just behind it, is also worth a visit. There are a few good markets scattered around Maracaibo where you can buy things made by the local Guajira tribe.
+The old town near the waterfront has been restored with care, and the neighbourhood of Santa Lucía just behind it is good to wander. The city's markets are worth a stop — several stock crafts and textiles from the local Wayuu (Guajira) people, who live across the border with Colombia and bring their distinctive woven goods into the city.
 
-
- Maracaibo is 500 km west of [Caracas](/southamerica/venezuela/caracas).
-
-
- 
-
-## Destinations in Maracaibo
-
-[Maracaibo Lake](/southamerica/venezuela/maracaibo/maracaibolake)
+Maracaibo sits 500 km west of [Caracas](/southamerica/venezuela/caracas), close to the Colombian border.

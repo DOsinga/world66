@@ -1,10 +1,14 @@
 ---
-title: "Ste. Genevieve"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 37.8896
+longitude: -90.1857
+title: Ste. Genevieve
 type: location
-latitude: 37.88958
-longitude: -90.185664
 ---
 
-Records indicate that Missouri's oldest community was founded as early as 1735. Ste. Genevieve's French immigrant architecture is nationally famous, especially the "vertical log" cabin construction. The town's French heritage is remembered in street and family names, in architecture, and in celebrations during the year 
+Ste. Genevieve is Missouri's oldest community, founded by French settlers around 1735 on the banks of the Mississippi River. It has one of the most important collections of French colonial architecture in North America -- the distinctive "vertical log" (poteaux-sur-sole) construction technique used here is rarely found elsewhere in the United States.
 
-Ste. Genevieve, Missouri has some of the most important French Cololonial structures in North America. Additionally, the City is the site of other historically significant buildings, for example, the home of U.S. Senator Lewis Linn still stands as does the first brick building west of the Mississippi. The first academy west of the Mississippi is in Ste. Genevieve. What has been described as the oldest cemetary in Missouri is located in Ste. Genevieve. Senator Linn and Missouri's first Congressman, John Scott are buried there.
+The town became a National Historical Park in 2020, recognising its significance. Several of the key buildings are open to visitors, including the Bolduc House (c. 1770), one of the finest surviving French colonial structures on the continent. The first brick building west of the Mississippi and the first academy west of the Mississippi are both here.
+
+Ste. Genevieve sits on the Great River Road about an hour south of St. Louis. The town is compact and walkable, with a quiet charm that makes it a pleasant day trip. The oldest cemetery in Missouri is here as well, where several notable early Missourians are buried, including Senator Lewis Linn and John Scott, Missouri's first Congressman.

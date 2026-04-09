@@ -1,22 +1,12 @@
 ---
-title: "South Bend"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.683381
 longitude: -86.250007
+title: South Bend
+type: location
 ---
 
-Travel Guide
+South Bend sits on the St. Joseph River in northern Indiana, and it punches well above its size. The University of Notre Dame is the obvious draw — the golden dome, Touchdown Jesus, and the electricity of a home football weekend make it worth a visit even if you have no strong feelings about college sports. The broader campus is beautiful and open to visitors year-round.
 
-South Bend is a growing city of more than 107,000 people living
-in 39 square miles. Residents and visitors can spend time in one of
-the city’s 70 parks and take advantage of local attractions such as
-the East Race, The College Football Hall of Fame, Potawatomi Zoo, Howard
-Park Skating Rink, Coveleski Regional Baseball Stadium, Century Center
-and the Morris Performing Arts Center, as well as the four publicly
-owned golf courses, including nationally recognized Blackthorn Golf
-Course. The University of Notre Dame, St. Mary’s College, and Indiana
-University, South Bend attracts students and professors from the United
-States and all over the world.
-
-More information on
-*South Bend Travel*
+Beyond Notre Dame, the city has more to offer than most people expect. The Studebaker National Museum tells the story of the South Bend automaker that built everything from covered wagons to automobiles before closing in 1963 — it's a genuinely good industrial history museum. Downtown has seen real investment over the past decade, with independent restaurants and bars filling spaces that were empty not long ago. The East Race Waterway, an artificial whitewater channel carved from the St. Joseph River, hosts kayaking and rafting in summer. The Morris Performing Arts Center brings in national touring acts throughout the year.

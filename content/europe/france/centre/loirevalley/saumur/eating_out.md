@@ -3,16 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
-
-**Auberge St. Pierre**
-
-Good cheap option.
-
-address: 6, place St. Pierre
-
-**Les Forges de St.Pierre**
-
-The menu is okay and the prices are not too high.
-
-address: Place st.Pierre
+Place Saint-Pierre, in the shadow of the church, is the natural centre of gravity for eating in Saumur. Several restaurants cluster around the square, and on a warm evening the terrasses fill quickly. Look for local Saumur-Champigny red wine on the menu — it pairs well with the region's river fish and goat's cheese.

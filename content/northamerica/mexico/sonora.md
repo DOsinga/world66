@@ -1,14 +1,14 @@
 ---
-title: "Sonora"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 29.333333
 longitude: -110.666667
+title: Sonora
+type: location
 ---
 
-The state of Sonora at the north western part of México and south of the state of Arizona , USA is an unique and unspoiled destiny of México.
+Sonora is [Mexico's](/northamerica/mexico) northwestern frontier state, bordering Arizona to the north and the Sea of Cortez to the west. It is a land of contrasts — the arid Sonoran Desert in the centre, the rugged western slopes of the Sierra Madre Occidental to the east, and long stretches of unpolluted beaches along the coast.
 
-You will find beautiful unpolluted beaches bathed by the Sea of Cortés - surrounded by the Sonora Desert and the western slopes of the Occidental Sierra Madre mountains. Safe and modern cities with all the amenities and services you may demand. Old towns covered with legends and history, where the past is suspended and hasn't change as the years pass by.
+The coast is the main draw for visitors. The Sea of Cortez offers outstanding fishing (bass lakes are famous worldwide), whale watching, and diving. Bird watching is excellent along the coastal wetlands. The old port towns along the coast have largely escaped the development that has transformed other Mexican resort areas.
 
-The state of Sonora geographically offers the best duck, dove and quail hunting, combine with it's worlwide famous bass fishing lakes. Sonora is also a bird and whale watching paradise.
-
-An excellent cuisine, typical dishes, music and dances of the Yaqui, Mayos and Seris ethnics are some of the attractions Sonora offers you. All this with first class services and a warm welcome awaits the visitor for an unforgottable stay.
+Sonora also has a strong cultural identity. The Yaqui, Mayo, and Seri indigenous peoples maintain living traditions of music, dance, and craft. The food is distinctive — carne asada, flour tortillas, and machaca (dried beef) are staples here, different from the cuisine further south. The state's ranching heritage gives it a character more akin to the American Southwest than to central Mexico.

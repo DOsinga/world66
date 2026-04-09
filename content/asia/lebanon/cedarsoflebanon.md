@@ -1,8 +1,10 @@
 ---
-title: "Cedars of Lebanon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.2467
 longitude: 36.0631
+title: Cedars of Lebanon
+type: location
 ---
 
 A cedar tree graces Lebanon's flag, but few of the fabled trees that once covered the mountains remain. The best place to see them is the grove on Mount Makmal, about 8 km east of [Bcharre](/asia/lebanon/bcharre), at an altitude of 1,800 metres. Bring a warm layer -- it is noticeably cooler up here.

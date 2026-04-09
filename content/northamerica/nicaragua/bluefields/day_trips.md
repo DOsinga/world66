@@ -1,25 +1,6 @@
 ---
 title: "Day Trips"
 type: section
-type: "general"
 ---
 
-### [Rama Cay](/northamerica/nicaragua/bluefields/daytrips/ramacay)
-
-Rama Cay is another nice excursion.
-
-type: general
-
-
-
-[[rate it]](/northamerica/nicaragua/bluefields/daytrips/ramacay)
-
-### [Pearl Lagoon](/northamerica/nicaragua/bluefields/daytrips/pearllagoon)
-
-Short boat trips can be made to nearby Pearl Lagoon.
-
-type: general
-
-
-
-[[rate it]](/northamerica/nicaragua/bluefields/daytrips/pearllagoon)
+The lagoon and coast around Bluefields offer worthwhile excursions. Rama Cay, an island in the lagoon, is home to one of the last communities of the Rama people. Pearl Lagoon, reached by boat to the north, is a quieter base with access to the Pearl Keys, a scattering of small islands with good beaches and snorkelling.

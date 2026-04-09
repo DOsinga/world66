@@ -3,7 +3,10 @@ title: "Day Trips"
 type: section
 ---
 
-Little Harbor, Abaco is a great island. It's situated around a cute little crystal clear harbor (hence the name little harbor) On one side is the most relaxed outdoor bar named Pete's Pub right next to the bar is a great foundry that has really nice high quality stuff. on the other side of the harbor is this cool little cave that you can explore. On the other side of the island is a rock cliff down to the ocean with a little sliver of beach at the bottom. Oh and the beach has large amounts of beautiful beach glass. Also if you would rather drive than take a boat it is a short drive from marsh harbor
+The cays are the whole point of being in Abaco. Each one is reachable by water taxi or ferry from Marsh Harbour, and most make an easy half-day or full-day trip.
 
-**Contributors**
-September 06, 2005
+Little Harbour is a favourite for those with a boat or a ride. The harbour is tiny and crystalline, with Pete's Pub — an open-air beach bar run by the Johnston family — on one side and their art foundry on the other. A short walk across the island brings you to a rocky Atlantic cliff with a sliver of beach at the base, scattered with sea glass. It's about a 45-minute drive from Marsh Harbour if you prefer to come by road.
+
+Hope Town on Elbow Cay is the most visited day trip: a small loyalist village with a candy-striped lighthouse (built 1862, still hand-cranked) that you can climb for views over the cays. The town is walkable, unhurried, and largely car-free.
+
+Man-O-War Cay has a boatbuilding tradition stretching back generations and a more local feel than Hope Town. It's a dry island — no alcohol sold — and gives a sense of what the Abacos were like before tourism arrived.

@@ -1,14 +1,12 @@
 ---
-title: "The Palouse"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 46.7298
+longitude: -117.1817
+title: The Palouse
 type: location
-latitude: 43.585855
-longitude: -116.229552
 ---
 
-About six hours east of Seattle in the south-eastern section of the state you'll find beautiful farming bliss. A favorite location for **photography** this region also offers some great back road America exploring. A really fun place to get lost for a long weekend.
+The Palouse is a rolling agricultural region in southeastern Washington and northern Idaho, about five to six hours east of Seattle. What you see here are hills — hundreds of them, shaped by ancient wind-deposited soil called loess — covered almost entirely in wheat and lentil fields that ripple and change colour through the seasons. The landscape is quietly spectacular in a way that surprises people who expect flat farmland.
 
-The main town in the Palouse is Pullman (home to Washington State University) which makes a good base for hotels and restaurants.
-
-Also, near by, is Walla Walla, an up and coming Napa'esque winery city. Home to the quaint and picturesque Whitman College
-
-Tons of photos of this region can be found here. http://suletzki.com/Palouseweb/default.asp
+Pullman, home to Washington State University, is the main town and a reasonable base for exploring. Nearby Palouse Falls State Park has a dramatic waterfall that drops nearly 60 metres into a basalt canyon. Moscow, Idaho, just across the state line, adds a second small city's worth of restaurants and services.

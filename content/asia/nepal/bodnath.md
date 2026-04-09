@@ -1,10 +1,13 @@
 ---
 title: "Bodnath"
 type: location
-latitude: 27.721426
-longitude: 85.362003
+latitude: 27.7215
+longitude: 85.3620
+todo_location_cleanup: done
 ---
 
-Bodnath is only a short ride from Kathmandu and worth the detour. Although the town itself is fairly small, it boasts the largest Stupa in Nepal. Most visitors are rather surprised when they get out of one of the narrow alleys and set their eyes on this enormous stupa that was built by Tibetan Buddhists. Due to the fact that these Tibetans were not allowed to practise their religion in their home country, Bodnath has become an important religious centre. 
- 
- The enormous Stupa with its penetrating eyes, numerous prayer-wheels and swaying flags is built on a white elevation that is surrounded by small handicrafts shops and several 'gompas' (Tibetan Buddhists monasteries). If you're interested in both Tibetan culture and religion then Bodnath is a place not to be missed!
+Bodnath (also spelled Boudhanath) is a suburb just northeast of Kathmandu and easily reached by taxi or shared vehicle. Although the area is small, it contains the largest stupa in Nepal — a massive white dome topped with a golden spire and the watchful eyes of the Buddha, surrounded by hundreds of prayer wheels and lines of fluttering prayer flags.
+
+The stupa was built by Tibetan Buddhists, and Bodnath has become one of the most important Tibetan Buddhist centres outside Tibet. Dozens of gompas (monasteries) ring the great stupa, and the lanes around it are lined with shops selling thangkas, ritual objects, and handicrafts. The atmosphere during morning and evening kora — the clockwise circumambulation of the stupa — is particularly striking, with monks, nuns, and pilgrims spinning prayer wheels as they walk.
+
+If you are interested in Tibetan culture and religion, Bodnath is not to be missed. It pairs naturally with a visit to [Pashupatinath](/asia/nepal/pashupatinath), the great Hindu temple complex a short walk away.

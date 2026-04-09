@@ -1,12 +1,14 @@
 ---
-title: "Tulum"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 20.2114
+longitude: -87.4654
+title: Tulum
 type: location
-latitude: 20.429647
-longitude: -87.652931
 ---
 
-The setting of Tulum is perfect. It is something out of a James Bond movie. The dramatic Mayan ruins of Tulum stand on a cliff overlooking the Caribbean sea. 
+Tulum sits at the southern end of the Riviera Maya, where the Yucatán jungle meets the Caribbean. The town has two distinct parts: the beach strip (Zona Hotelera), where boutique hotels and restaurants line the coast road, and the pueblo inland, where Mexicans live and buses arrive. Between the two, on a cliff above the sea, are the ruins that put Tulum on the map.
 
-Tulum was an important port and trading center for the Yucatan's east coast Maya. Within the walls of the city lies a series of platforms and buildings, including ruined palaces and elevated temples. The most impressive structure is "El Castillo". The temple of the Frescos is also interesting. It has murals that are similar to the designs of the Paris Codex, one of the fewsurviving Mayan books. 
+The Mayan walled city of Tulum was an important port and trading centre on the Yucatán's east coast. El Castillo, the main temple, stands at the cliff edge; it once served as a lighthouse, and the sight of it with the turquoise sea beyond is one of the most striking in Mexico. The Temple of the Frescoes preserves murals with imagery from the Paris Codex, one of the few surviving Mayan manuscripts. Go early — before 9am if you can — to beat the tour groups from Cancún.
 
-Go early to Tulum, no later than 9:00 a.m. to avoid the bus loads from Cancun. This area has heavy tourist traffic. Large market, bargaining is expected. The pueblo has Money exchanges at good rates, GAS STATION HERE! FILL UP YOUR TANK BEFORE YOU HEAD NORTH!
+Tulum beach is long, beautiful, and increasingly crowded with upscale eco-chic tourism. The cenotes nearby — Dos Ojos and Gran Cenote are the best known — are excellent for snorkelling and diving. The Sian Ka'an Biosphere Reserve begins south of town, accessible by boat or four-wheel drive.

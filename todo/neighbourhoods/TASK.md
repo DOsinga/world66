@@ -47,6 +47,28 @@ Do not leave a `category: "Neighbourhood"` POI in `things_to_do/` once its neigh
 
 Confirm the city uses `things_to_do/` (not `sights/` or `museums/`), and that `bars_and_cafes/` exists if relevant. If old section names are still present, do a quick structural fix first (or note it and skip tagging those POIs).
 
+## Flatten and tag POIs
+
+Before building neighbourhood pages, migrate the city's POIs to the tag-based model. This unlocks neighbourhood cross-referencing and keeps all POI files in one place.
+
+For each section subdirectory (`things_to_do/`, `eating_out/`, `bars_and_cafes/`, `shopping/`, `day_trips/`, etc.):
+
+1. **Add tags** to each POI file:
+   - Add `tags:` containing the section slug: `tags: [things_to_do]`
+   - If the POI has a `neighbourhood:` field, also add the neighbourhood slug as a tag: `tags: [things_to_do, jordaan]`
+   - A POI can have multiple section tags if it genuinely fits more than one
+
+2. **Move the file** from `section_name/poi.md` to `poi.md` at the city root. The old URL (`city/section_name/poi`) continues to work via tag routing — no redirect needed.
+
+3. Leave the section `.md` file (`things_to_do.md`) in place — it defines the section and its description.
+
+**Do not flatten:**
+- Section files (`things_to_do.md`, `eating_out.md`, etc.)
+- Child location directories (e.g. `districts/shoreditch.md`) — handle those under "Cities with sub-locations"
+- Files already at city root
+
+After this step the city root will contain many more files. That is correct — all POIs are now peers of the section files, discoverable by tag.
+
 ## What to build
 
 For each city, create:

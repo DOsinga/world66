@@ -1,8 +1,16 @@
 ---
-title: "Narsaq"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 60.912745
 longitude: -46.04527
+title: Narsaq
+type: location
 ---
 
-[Narsaq](/northamerica/greenland/narsaq), set against a mountain backdrop this village (pop. 1 900) offers several attractions including a museum (equipment and products from famous local printer and publisher Frederik Hoegh); the home of Henrik Lund (a priest and poet who wrote the national anthem); the Krystal Palace (a workshop specializing in modeling local stones); and Narsaq Foto (where John Rasmussen tells the story of life in South Greenland through photography). At Kayak Harbor you’ll see some old kayaks icebergs and hunters returning with seals. At the nearby mountain of Kvanefjeld you can hunt for gemstones (*tuttupit*) and uranium deposits have also been found in the area. *295 mi/475 km southeast of Nuuk.*
+Narsaq is a small village of around 1,900 people in South Greenland, set against a dramatic mountain backdrop. It is a quiet, unhurried place — but one with a surprisingly specific set of attractions for the curious traveler.
+
+The local museum holds equipment and printed works from Frederik Hoegh, a notable local printer and publisher. Nearby stands the home of Henrik Lund, the priest and poet who wrote Greenland's national anthem. The Krystal Palace is a workshop where local stones are shaped and sold, and Narsaq Foto documents life in South Greenland through the photography of John Rasmussen.
+
+At Kayak Harbor you can watch old kayaks, icebergs, and hunters returning with seals — a scene unchanged for centuries. The nearby mountain of Kvanefjeld rewards those who make the climb: you can hunt for *tuttupit* gemstones in the rock, and uranium deposits have been found in the area too.
+
+Narsaq lies about 475 km southeast of [Nuuk](/northamerica/greenland/nuuk).

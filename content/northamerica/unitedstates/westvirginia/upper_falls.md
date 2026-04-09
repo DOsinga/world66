@@ -1,20 +1,14 @@
 ---
-title: "Upper Falls"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 38.152
+longitude: -81.734
+title: Upper Falls
 type: location
-latitude: 39.43733
-longitude: -76.403294
 ---
 
-Travel Guide
+Upper Falls is a small community in Kanawha County, West Virginia, named for the falls of the Coal River that run through it. The Coal River, originally called Walhonde by the Lenape, was explored by John Peter Salley in 1742, who documented these falls on his expedition.
 
-**Upper Falls** is an unincorporated populated place in Kanawha County in [West Virginia](/northamerica/unitedstates/westvirginia).
+The Upper Falls of Coal River are the centrepiece of the community — a scenic waterfall that splits the town and draws visitors for swimming and picnicking in summer. Meadowood Park lines the eastern bank of the river along the falls. Across the river, Big Bend Golf Course occupies the western bank below the falls.
 
-**Coal River**, which was originally named Walhonde by the Lenape Indians, was followed by explorer John Peter Salley when he discovered its Upper Falls during his 1742 expedition.
-
-**Upper Falls of Coal River**, today a popular scenic destination, bisects the community of Upper Falls and gives it its name.
-
-**Meadowood Park** is a public park that borders the river on its eastern bank, along the length of the falls.
-
-**Big Bend Golf Course** is an 18-hole championship golf course situated along the western bank of the river, below the falls.
-
-**Walhonde Trail Byway** and **Upper Falls Byway** are two planned scenic byways that will intersect at Upper Falls.
+Upper Falls is a quiet community within easy reach of Charleston, the state capital.

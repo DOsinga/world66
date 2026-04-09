@@ -1,6 +1,9 @@
 ---
 title: "National Day"
-type: location
+type: poi
+category: "Festival"
 ---
 
-The Greenlandic National Day is June 21st and is called "Ullortuneq", meaning "The Longest Day". The day is celebrated with cultural activities, entertainment, shows and communal outdoor eating.  The national day is also the official flag day, when the Greenlandic flag, first introduced on June 21st 1985 flutters all across the country. The colors of the flag are red and white, the red semicircle symbolizing the midnight sun and the white surface the ice.
+The Greenlandic National Day falls on June 21st — the summer solstice — and is called Ullortuneq, meaning "The Longest Day." It is celebrated across the country with cultural activities, traditional music and dance performances, communal outdoor feasting on Greenlandic specialities, and a festive atmosphere that draws whole communities together.
+
+The day also marks the anniversary of the Greenlandic flag, first raised on 21 June 1985. The flag's red semicircle represents the midnight sun setting over the ice, which is symbolised by the white lower half. If you are visiting [Greenland](/northamerica/greenland) in mid-June, timing your trip to include National Day is well worth the effort — it is the best window into Greenlandic culture and community spirit.

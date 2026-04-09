@@ -1,8 +1,10 @@
 ---
-title: "Al Wakrah"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 25.003745
 longitude: 51.410334
+title: Al Wakrah
+type: location
 ---
 
 Al Wakrah is a fishing town about 15 km south of central Doha — close enough to reach easily, different enough to feel like somewhere else. For most of Qatar's oil-era growth it was ignored, but the old waterfront quarter has been carefully restored and now has a small, pleasant souq that most Doha tourists miss entirely.

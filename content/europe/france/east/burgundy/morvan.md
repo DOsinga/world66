@@ -1,10 +1,12 @@
 ---
-title: "Morvan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 47.097814
 longitude: 4.086389
+title: Morvan
+type: location
 ---
 
-Think of Burgundy and you think of wine - and delicious wine at that. However Morvan is not a wine-growing area but a very large forest, home to wild boars and deer. It might not be one of the areas of France most suitable for a whole holiday but it provides some fine transit places - and could well be combined with seeing Vézelay.
+Morvan is the forested upland at the heart of Burgundy — and it is easy to miss it entirely if you come to the region only for the wine. This is wild boar and deer country: a large regional nature park of granite hills, rivers, and dense woodland that feels very different from the manicured vineyards to the east.
 
-For some good photos go to http://www.france-voyage.com/english/ and click on Burgundy and then [top right-centre] select the department of Yonne and scroll well down.
+The Morvan works best as a complement to other Burgundy sights rather than a destination on its own. It pairs well with a visit to Vézelay, the hilltop pilgrimage town on the park's northern edge, which is one of the finest Romanesque basilicas in France. Walking, cycling, and kayaking on the Cure and Chalaux rivers are the main draws for outdoor visitors.

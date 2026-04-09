@@ -1,6 +1,14 @@
 ---
-title: "Raas Baixas"
+title: "Rías Baixas"
 type: location
+latitude: 42.45
+longitude: -8.73
+done:
+  location_cleanup: true
 ---
 
-The area of production spreads over the the provinces of Pontevedra and A Coruña, which consists of five sub-zones: Val do Salnés, Ribeira do Ulla, Soutomaior, O Rosal and Condado de Tea. The most prestigious variety of vine, and the fundamental one, is Albariño, although there are other local varieties of excellent quality, such as Treixadura, Loureira, Caíño and Espadeiro. Mostly white wines are made, and most of these are Albariño (100% monovarieties). They exhibit a rich mosaic of qualities: straw yellow in colour with gold and green iridescence, intense floral and fruity bouquet, average alcohol content at 12 degrees, balanced acidity and a youth which, in this case, is a virtue. On the first Sunday in August, the Fiesta del Vino Albariño is held in Cambados (Pontevedra), one of the most-visited cooking dates in Galicia. Declared of National Tourist Interest.
+Rías Baixas (Galician for "lower estuaries") is a wine region and a landscape — a deeply indented coastline in the southwest corner of Galicia, where the sea pushes far inland through four great rias. The vineyards climb the granite hillsides above fishing villages and mussel farms, and the combination of cool Atlantic air and good drainage produces Albariño, one of Spain's finest white wines.
+
+The DO Rías Baixas covers five sub-zones: Val do Salnés, Ribeira do Ulla, Soutomaior, O Rosal, and Condado de Tea. Albariño is the star variety in all of them — pale straw-gold in the glass, intensely floral and fruity on the nose, naturally high in acidity and low enough in alcohol to stay lively and fresh. On the first Sunday of August, Cambados hosts the Fiesta del Vino Albariño, a wine festival declared of National Tourist Interest.
+
+The landscape is as much a draw as the wine. The rías of Arousa, Pontevedra, and Vigo each have their own character, and the coast is dotted with small towns — Cambados, Baiona, A Guarda — that reward slow exploration.

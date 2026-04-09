@@ -1,14 +1,14 @@
 ---
-title: "Harper"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 4.378938
 longitude: -7.706099
+title: Harper
+type: location
 ---
 
-In August 1963,I was sent by my government , to assume the postion of Bandmaster,for the Cape-Palmas Military Band. Following an invitation by President William V S Tubman. I arrived with my wife Edna and our two little children.
+Harper is the capital of Maryland County, perched on Cape Palmas at Liberia's southeastern tip where the coast turns from west-facing to south-facing. It was founded in 1834 as the capital of the independent Republic of Maryland, a colony of free African Americans, before merging with Liberia in 1857. That history is still visible in the crumbling Americo-Liberian architecture scattered around the cape.
 
-We stayed in Harper City , Liberia one beautiful year,with beautiful people.
+The town has a dramatic setting — rocky promontories, pounding Atlantic surf, and the Cape Palmas lighthouse marking the point. The old Episcopal cathedral, one of the oldest churches in West Africa, stands near the waterfront. Harper was badly damaged during the Liberian civil wars and recovery has been slow, but the town retains a faded grandeur and the surrounding coastline is wild and beautiful.
 
-I was decorated by the Liberian government with the title of "Officer of African Redemption".
-
-Aharon Shefi Givatayim Israel
+Getting to Harper requires commitment. The road from Monrovia is long and rough, though conditions are gradually improving. Most visitors arrive by bush taxi or the occasional domestic flight. Facilities are basic — this is deep rural Liberia, not a tourist destination in the conventional sense, but rewarding for travellers drawn to remote places with layered histories.

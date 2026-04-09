@@ -1,14 +1,14 @@
 ---
-title: "Clarksville"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.5278
+longitude: -87.3589
+title: Clarksville
 type: location
-latitude: 36.527761
-longitude: -87.35887
 ---
 
-Travel Guide
+Clarksville is the fifth-largest city in Tennessee, sitting on the Cumberland River about 40 miles northwest of [Nashville](/northamerica/unitedstates/tennessee/nashville) along Interstate 24. The city grew up around Fort Donelson and has been shaped by its proximity to Fort Campbell, one of the largest military installations in the United States, which straddles the Tennessee-Kentucky border.
 
-Clarksville is a vibrant community located in Middle Tennessee, directly off of I-24, 40 miles northwest of Nashville. As the fifth-largest city and the fastest growing city in Tennessee, Clarksville is experiencing tremendous growth. New schools, a new hospital, and new residential developments are exciting current events in Clarksville-Montgomery County.
+Downtown Clarksville has a small historic district with 19th-century brick buildings, a few local restaurants, and the Customs House Museum — one of the largest general-interest museums in Tennessee, housed in a striking Italianate former post office. The Riverwalk along the Cumberland is a pleasant stretch for walking or cycling.
 
-And, even though new developments are taking place, Clarksville-Montgomery County is still a community that is steeped in history and heritage. Visitors and residents alike can experience history through area attractions, unique architecture, and a variety of festivals and entertainment events that take place year round.
-
-A mild climate, 4 distinct seasons, and a low cost of living are just a few of the reasons why over 100,000 residents call Clarksville-Montgomery County home. Whether you're planning a visit or event, building a business, or relocating your home, Clarksville-Montgomery County is an excellent choice!
+The city is growing fast and feels more suburban than historic, but it works well as a base if you are visiting the Land Between the Lakes National Recreation Area to the west or passing through on the way between Nashville and western Kentucky.

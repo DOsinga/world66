@@ -1,8 +1,12 @@
 ---
-title: "Rachel"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 37.6464
+longitude: -115.7465
+title: Rachel
 type: location
-latitude: 37.646366
-longitude: -115.746461
 ---
 
-The small town of Rachel, Nevada is home to the infamous Little A'Le'Inn. It's 73 residents (yes, 73 people) are mostly very helpful, courteous, and rather interesting to talk to. One of the main tourist attractions around Rachel is the top secret US Air Force base known as Area 51, or Dreamland. At night you may be able to see strange lights eminating from the base, or be knocked over by sonic booms -- Rachel is also the sonic boom capitol of the world. Travelling a bit further down 375, which is also officially known as the Extraterrestrial Highway, you can park on a dry lake bed (just make sure you clearly mark how you got in, since it's difficult to find your way out at night), prop up some chairs, and gaze at the stars. Since there's no light pollution and very, very few commercial jets pass by due to the proximity to an Air Force base, you can see the sky in all it's glory... including the Milky Way, assuming you arrive at the right time. All in all, Rachel is a fun little place to visit. There's much more to Nevada than just Reno and Las Vegas.
+Rachel is a tiny settlement of about 50 people on Nevada's State Route 375, officially designated the Extraterrestrial Highway. The town exists almost entirely because of its proximity to Area 51, the classified US Air Force installation whose secrecy has fuelled decades of UFO speculation. The Little A'Le'Inn, a bar and motel decorated with alien memorabilia, is the only real business in town and the main reason most visitors stop.
+
+The real draw, though, is the landscape. Rachel sits in an empty valley surrounded by desert ranges, and the skies here are extraordinary. With no light pollution and virtually no commercial air traffic — the military base keeps the airspace restricted — the night sky is as dark and clear as anywhere in the Lower 48. You can park on a dry lake bed off the highway, set up a chair, and see the Milky Way in detail that city dwellers will never experience. Sonic booms from military aircraft are a regular occurrence, and strange lights on the horizon are easy to spot — whether they come from experimental aircraft or something else is a question Rachel is happy to leave open.

@@ -1,35 +1,14 @@
 ---
-title: "Laigueglia"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 43.978826
 longitude: 8.157351
+title: Laigueglia
+type: location
 ---
 
-A seaside resort set at the western end of the
- broad sweep of coast delimited by Capo Santa
- Croce and Capo Mele. Part of the countship of
- Albenga, it was inhabited by fishermen who in
- 1191 swore allegiance to Genoa, receiving
- numerous tax exemptions in exchange. Splitting
- from Andora at the beginning of the sixteenth
- century, it became an independent commune
- and in 1609 was acquired by Genoa. A round
- tower of 1564 is the oldest building in the
- village, which also has houses from the
- sixteenth and seventeenth centuries. The parish
- church of San Matteo, built in 1754-83, is an
- example of the local baroque. Its façade is
- flanked by two campaniles decorated with
- glazed tiles. The rich interior contains a marble shrine and holy-water stoup from the sixteenth
- century and canvases by Genoese painters of
- the sixteenth and seventeenth centuries (B.
- Castello, G.A. de Ferrari, B. Strozzi). An
- altarpiece by D. Piola and a seventeenth-century
- wooden choir can be seen in the nearby
- oratory of Santa Maria Maddalena, constructed
- in 1616-34. Thanks to its particularly mild
- climate, it attracts visitors all year round. For
- those interested in sport it offers courses in
- swimming, water-skiing and windsurfing, along
- with a sailing club and nightclubs catering to
- every taste and age.
+Laigueglia is a small seaside village at the western end of the Baia del Sole, just south of [Alassio](/europe/italy/liguria/alassio) on the Riviera delle Palme. Originally a fishing settlement that swore allegiance to Genoa in 1191, it became an independent commune in the sixteenth century before being absorbed back into the Genoese republic in 1609.
+
+The village has kept its old character better than many of its larger neighbours. A round tower from 1564 is the oldest building, and there are houses from the sixteenth and seventeenth centuries lining the narrow streets. The parish church of San Matteo, built between 1754 and 1783, is the architectural highlight — a fine example of Ligurian baroque with a facade flanked by two campaniles decorated with glazed tiles. Inside are a sixteenth-century marble shrine, canvases by Genoese painters including Bernardo Castello and Bernardo Strozzi, and a seventeenth-century wooden choir in the adjoining oratory of Santa Maria Maddalena.
+
+Thanks to its sheltered position, Laigueglia enjoys mild weather year-round and draws visitors for swimming, water-skiing, windsurfing and sailing.

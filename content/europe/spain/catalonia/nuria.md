@@ -1,10 +1,14 @@
 ---
-title: "Nuria"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.3977
+longitude: 2.1547
+title: Vall de Núria
 type: location
-latitude: 40.438269
-longitude: -3.653697
 ---
 
-Far from being a city, this is scarcely even a village. It is a group of monastic buildings in a mountain setting. You may well find the trip to it and up from it more entertaining than the place itself. 
+Vall de Núria is not a town but a high mountain sanctuary at 2,000 metres in the eastern Pyrenees, accessible only by the **Cremallera de Núria** rack railway — Spain's only surviving rack line. The valley is car-free and snowbound in winter, ringed by peaks that top 2,900 metres.
 
-You can book a ticket at the station in Barcelona that covers the main line railway to Ribes Fraser via [Ripoll](/europe/spain/catalonia/ripoll) and the private rack railway, unique in Spain today, to Nuria. It can also cover archery, a horse ride and a trip up in a chairlift to a Youth Hostel and the start of some good mountain walks.
+The rack railway climbs from Ribes de Freser (reachable by mainline train from [Barcelona](/europe/spain/catalonia/barcelona) via [Ripoll](/europe/spain/catalonia/ripoll)) through a spectacular gorge to the sanctuary complex at the top. The journey itself is half the point. At the top you will find the Santuari de la Mare de Déu de Núria, a pilgrimage church dating to the 11th century, along with a lake, walking trails, and in winter a small ski station. In summer, chairlifts access higher ground for ridge walks with views into France.
+
+A combined ticket from Barcelona covers the mainline train, the rack railway, and various activities (archery, horse riding, chairlift) — good value for a day trip.

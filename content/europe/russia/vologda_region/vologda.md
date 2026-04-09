@@ -1,12 +1,14 @@
 ---
-title: "Vologda"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 59.2187
+longitude: 39.8914
+title: Vologda
 type: location
-latitude: 60.039146
-longitude: 43.121521
 ---
 
-Travel Guide
+Vologda is one of the oldest Russian cities, founded in 1147 on the banks of the small, quiet river of the same name. Historically it was the "gate to the North" — a major trade and handicraft centre, and an outpost of Moscow in its struggles with rival principalities.
 
-Vologda is one of the oldest Russian cities located on the pictur&shy;esque coast of the small still river which has the same name. It is considered to be founded in 1147. The ancient Russian city was the "gate" to the North. Vologda was large trade and handicraft center, an advanced post of Moscow in constant struggles against the foreign conquerors. Many pages in history of Russian culture are connected with the name of Vologda.
-Lace weaving appeared here in the beginning of the 19th century. Nowdays the Vologda laces are world-famous.
-Vologda has many beautiful architectural monuments. Majestic Sofia Cathedral, the Vologda Kremlin, Spaso-Prilutsky Monastery are the most delightful among them. Many monuments of the wooden architecture remained in the city.
+The city is known for its beautiful architectural monuments. The majestic Sofia Cathedral, the Vologda Kremlin, and the Spaso-Prilutsky Monastery are the finest. Vologda also preserves an unusual number of wooden houses, many with elaborate carved window frames — a style of decoration for which the city is famous.
+
+Lace weaving appeared here at the beginning of the 19th century, and Vologda lace remains world-famous. The Lace Museum in the city centre has an impressive collection. Vologda butter, produced from the rich dairy pastures of the surrounding region, is another local speciality known throughout Russia.

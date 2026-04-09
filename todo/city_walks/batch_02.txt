@@ -1,0 +1,4 @@
+europe/france/paris
+europe/italy/lazio/rome
+europe/germany/berlin
+europe/austria/vienna

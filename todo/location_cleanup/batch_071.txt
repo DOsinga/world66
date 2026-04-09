@@ -42,7 +42,6 @@ africa/niger/kawar
 northamerica/canada/britishcolumbia/denman_island
 asia/pakistan/moenjodaro
 africa/capeverde/mindelo
-europe/italy/tuscany/florenceprovince/chiantiregion/viacassia
 asia/iraq/samarra
 europe/italy/lazio/ciceo_national_par
 northamerica/unitedstates/florida/spacecoastarea

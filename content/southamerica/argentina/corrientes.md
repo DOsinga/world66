@@ -1,17 +1,14 @@
 ---
-title: "Corrientes"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -27.467
+longitude: -58.8341
+title: Corrientes
 type: location
-latitude: -29.017738
-longitude: -57.886974
 ---
 
-Corrientes is one of the oldest cities of Argentina. Located some 1000 km from [Buenos Aires](/southamerica/argentina/buenosaires) at the confluence of the Parana and Paraguay rivers it is a pleasant place to stay a few days, although you shouldn't expect anything spectacular.
+Corrientes is one of the oldest cities in Argentina, founded in 1588 at the confluence of the Paraná and Paraguay rivers, about 1,000 km north of [Buenos Aires](/southamerica/argentina/buenosaires). It is a pleasant place to stop for a few days — not spectacular, but genuinely relaxed and authentically Argentine without the tourist polish of the big cities.
 
+The city is laid out on a perfect grid. The heart of town is the Plaza 25 de Mayo. Shopping is centred on the Junín pedestrian street between Salta and Catamarca. The riverside Parque Mitre is shady and pleasant for an evening walk. The Convento de San Francisco on Mendoza street is one of the nicer historic buildings; the Museo Histórico and the Museo de Bellas Artes are both worth a visit.
 
- The patern of the city is that of a perfect grid. The Plaza de 25 Mayo is the centre of town (heard that one before) but the attractions are spread out over all of the cities. For shopping head for Junin peatonal between Salta and Catamara. The shady riverside Paruqe Mitre is a perfect place to relax.
-
-
- The Convento de San Francisco on Mednoza is one of the nicest attractions. The Museo Historido and the Museo de Bellas Artes are both well worth a visit too.
-
-
- Accross the river is Resistencia the capital of the Chaco province - the city of sculptures with statues on every city park, sidewalk and square.
+Just across the river is Resistencia, the capital of Chaco province, known for its outdoor sculpture collection — statues on every park, sidewalk and square — which makes a worthwhile short excursion.

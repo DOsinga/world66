@@ -1,8 +1,10 @@
 ---
-title: "Blue Mountains"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 18.0558
 longitude: -76.5813
+title: Blue Mountains
+type: location
 ---
 
 The Blue Mountains form the spine of eastern Jamaica, rising to 2,256 m at Blue Mountain Peak — the highest point in the Caribbean outside Hispaniola. They're named for the blue mist that hangs over them in the mornings, visible from Kingston below.

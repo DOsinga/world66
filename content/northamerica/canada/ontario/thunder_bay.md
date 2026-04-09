@@ -1,16 +1,16 @@
 ---
-title: "Thunder Bay"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 48.382
+longitude: -89.2502
+title: Thunder Bay
 type: location
-latitude: 48.406414
-longitude: -89.259796
 ---
 
-Travel Guide
+Thunder Bay sits at the western tip of Lake Superior, the largest freshwater lake on earth by surface area, and it wears that geography proudly. The city's skyline is dominated not by towers but by grain elevators — for decades this was the busiest grain-shipping port in the world, funnelling prairie wheat through the Great Lakes to the Atlantic. That industrial past still shapes the place: it is practical, unpretentious, and quietly proud.
 
-**Thunder Bay** (2006 census population 109,140), formerly the twin cities of Fort William and Port Arthur, is a city in and the seat of Thunder Bay District, Ontario, Canada. It is the most populous municipality in Northwestern Ontario, and the second most populous in Northern Ontario after Greater Sudbury.
+The city was created in 1970 by merging the twin towns of Fort William and Port Arthur, and the seam between them is still visible. The south side (Fort William) is more working-class, the north side (Port Arthur) more gentrified, with the waterfront marina and most of the restaurant and bar scene. Locals tend to identify with one or the other, and the rivalry is still gently alive.
 
-The city takes its name from the immense bay at the head of Lake Superior, known on 18th century French maps as "Baie du Tonnerre". The city is often referred to as the Lakehead or Canadian Lakehead because of its location at the end of Great Lakes navigation.
+What brings travellers here is wilderness. Sleeping Giant Provincial Park, on the Sibley Peninsula just across the bay, is one of the great hiking destinations in Ontario. Kakabeka Falls, 30 kilometres west, is legitimately spectacular. The surrounding boreal forest offers fishing, canoeing, and winter skiing within easy reach of the city. Thunder Bay is also a city with a large Indigenous population and a meaningful connection to Anishinaabe culture — Fort William Historical Park, the reconstructed Northwest Company fur trade post, is one of the best living history sites in Canada.
 
-Sleeping Giant
-
-A large formation of mesas on the Sibley Peninsula in Lake Superior which resembles a reclining giant has become a symbol of the city. Sibley peninsula partially encloses the waters of Thunder Bay, and dominates the view of the lake from the northern section of the city (formerly Port Arthur). The Sleeping Giant also figures on the city's coat of arms and the city flag.
+The Terry Fox Memorial stands at the city's eastern approach, at the spot where Fox — a Thunder Bay boy — was forced to end his Marathon of Hope in 1980. It remains one of the most moving roadside monuments in the country.

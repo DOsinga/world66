@@ -1,32 +1,14 @@
 ---
-title: "Waiblingen"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 48.8326
+longitude: 9.3164
+title: Waiblingen
 type: location
-latitude: 48.832566
-longitude: 9.316382
 ---
 
-Travel Guide
+Waiblingen is a town of about 50,000 people in the Rems-Murr district of Baden-Württemberg, roughly 15 km east of Stuttgart. It is the kind of well-preserved Swabian town that the region does well: a medieval core with half-timbered houses, a circuit of old city walls with battlements, a 15th-century watchtower, and a town gate dating from 1300.
 
-**City in brief**
+The town is also known as the home of Stihl, the global manufacturer of chainsaws and outdoor power tools, founded in a nearby suburb. The annual Waiblinger Altstadtfest draws visitors from the region for a summer street festival in the old town.
 
-Waiblingen, capital of the Rems-Murr-Kreis county, is a town of about 50,000 inhabitants. It is situated approx. 10 miles in the east of Stuttgart.
-
-Waiblingen is famous for the global company "Stihl", which was founded in a suburb of Waiblingen called "Neustadt".
-
-There is an anual festival in Waiblingen called "Waiblinger Altstadtfest", which attracts thousands of peoples from the immediate regions.
-
-**History**
-
-Waiblingen is a medieval town, founded around 885 a.D., and still has loads of artificats from then (e.g. timbered houses)
-
-**Sights**
-
-Landmarks of the town are;
-
-- a watchtower from the 15th century built by Romans
-
-- a town gate from 1300
-
-- the well preserved city wall including its battlement
-
-You might find pictures at http://de.wikipedia.org/wiki/Waiblingen
+Waiblingen is easily reached by S-Bahn from Stuttgart's main station (S2 or S3 lines, about 25 minutes). It makes a pleasant half-day excursion from the city.

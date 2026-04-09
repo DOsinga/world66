@@ -1,16 +1,14 @@
 ---
-title: "Pineto"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.607771
 longitude: 14.067103
+title: Pineto
+type: location
 ---
 
-Travel Guide
+Pineto is a beach resort on the Adriatic coast of Abruzzo, about 40 km south of Pescara in the province of Teramo. It takes its name from the pine woods that back the beach, and the coastline holds a Blue Flag designation for water quality and services.
 
-Pine is now a popular seaside resort among the most popular of the Middle Adriatic and from 2006 has been awarded the blue flag of Europe, which certifies the quality of water and the high level of services. In the city there are many hotels and restaurants, entertainment venues, beaches and some campsites. Also in the municipal area, you can see the Cerrano's Tower, one of the best preserved coastal forts entire Abruzzo coast that
-currently houses the headquarters of a center of marine park.
+Just outside town stands the Torre di Cerrano, a well-preserved 16th-century coastal watchtower that now serves as the headquarters of the Torre del Cerrano Marine Protected Area — one of the few protected marine zones on the Adriatic. The Filiani Park, created between the wars and reopened in 2010, is a wooded hillside area with walking trails and mixed wildlife.
 
-On 21 November 2010 it was reopened to the public on *Filiani Park,* a green hilly originally created between the wars by Luigi Corrado Filiani
-on part of his farm, in it, as well as various tree species and the
-presence of different groups of animals, there are also trails and
-pedestrian paths.
+Pineto is a popular summer destination for Italian families and makes a reasonable base for the Abruzzo coast.

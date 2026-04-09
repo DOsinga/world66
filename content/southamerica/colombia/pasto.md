@@ -1,8 +1,10 @@
 ---
-title: "Pasto"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 1.214028
 longitude: -77.27851
+title: Pasto
+type: location
 ---
 
 Pasto is the capital of the Nariño department in the far south of Colombia, sitting at 2,500 metres in the Andes not far from the Ecuadorian border. For centuries it has been an important religious and cultural centre, and the city retains a strong colonial character. Among its richly decorated churches, the most notable are the Iglesia de Cristo Rey and the Iglesia de San Juan Bautista.

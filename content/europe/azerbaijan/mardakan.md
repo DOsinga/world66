@@ -1,12 +1,14 @@
 ---
-title: "Mardakan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.493588
 longitude: 50.149548
+title: Mardakan
+type: location
 ---
 
-Located on the Apsheron peninsula (Abseron Yasaqligi) north-east of Baku, Mardakan is a small town of flat roofs, named after the ancient tribe of the Mards.
+Mardakan is a small town on the Absheron Peninsula, about 30 km north-east of [Baku](/europe/azerbaijan/baku). Named after the ancient tribe of the Mards, it sits among flat-roofed houses and old mansions — many now converted into sanatoria. In summer, Baku residents flock here to escape the city heat, renting dachas and spending long weekends by the Caspian shore.
 
-During the summer the town is popular with the inhabitants of Baku who own or rent dachas in the area, you can see also some old mansions some of which are now used as sanatoria.
+The town's main draw is its two medieval castles. The larger one, dating from the 14th century, has a square tower about 25 metres high and is visible from a distance as you approach town. Inside you will find a small exhibition dedicated to the castles of the Absheron Peninsula. The smaller castle, built in the 13th century, features a round central tower surrounded by a defensive wall — similar in design to the Ramana castle between Baku and the airport. An inscription names Abdulmajid Ibn Masud as its architect. A fourth castle stands at Nardaran, further north on the peninsula.
 
-Mardakan's main attraction is its castles . There are two of them, one with a round tower, and a larger one with a square tower. The larger castle dates from the 14 th century and is immediately visible as you approach Mardakan, although it is not built on a hill. This tower is about 25 m exhibition dedicated to the castles in the Apsheron peninsula. The smaller castle was built in the 13 th century and its design is similar to that of the Ramana castle (between Baku and the airport): a round central tower surrounded by a wall. An inscription names Abdulmajid Ibn Masud as the architect. (there is a fourth castle at Nardaran, further north on the peninsula).
+Mardakan also has a pleasant botanical garden and a beach that draws weekend crowds in the warmer months. It makes for an easy half-day trip from Baku, especially if you are interested in the peninsula's medieval fortifications.

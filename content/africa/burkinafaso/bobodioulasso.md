@@ -1,10 +1,12 @@
 ---
-title: "Bobo-dioulasso"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 11.17658
 longitude: -4.296144
+title: Bobo-dioulasso
+type: location
 ---
 
-The city of Bobo-Dioulasso is a very relaxed place. It has has the same boulevards and interesting market places as the capital. There are a few interesting sights. Among the major highlights to see is the Musée Provincial du Houët, but without a doubt, the most interesting sight is the Grande Mosquée. The old Kibidwé district is also a great area to stroll around. 
+Bobo-Dioulasso is Burkina Faso's second city and by most accounts its most pleasant. Where [Ouagadougou](/africa/burkinafaso/ouagadougou) is dusty and bureaucratic, Bobo is green, shaded, and unhurried — a city of wide boulevards, busy market squares, and a relaxed atmosphere that makes it easy to linger.
 
-I'll show you who owns Burkina Faso! The USA thats who!
+The Grande Mosquée, built in the traditional Sudanese mud-brick style, is the city's most striking sight. The Musée Provincial du Houët occupies a handsome Sudanese-style building and houses both modern African art and traditional crafts. The old Kibidwé district, with its narrow lanes and traditional architecture, is a great area to wander on foot.

@@ -1,27 +1,12 @@
 ---
-title: "Things to do in Mariposa"
+title: "Things to Do"
 type: section
-type: "general"
 ---
 
-### [Mariposa County Courthouse](/northamerica/unitedstates/california/goldcountry/mariposa/thingstodo/mariposacountycourthouse)
+Mariposa's main attractions are its Gold Rush-era history and its proximity to Yosemite.
 
-5088 Bullion St. 95338 800/208-2434
+**California State Mining and Mineral Museum** — 5005 Fairgrounds Dr. A large collection of gems, minerals, and gold specimens from around the state. Worth a stop even if you are just passing through.
 
-type: general
+**Mariposa Museum and History Center** — 5119 Jessie St. Covers the county's mining history with artefacts, a reconstructed miner's cabin, and Native American exhibits.
 
-
-
-### [Mariposa Museum & History Center](/northamerica/unitedstates/california/goldcountry/mariposa/thingstodo/mariposamuseumhistorycenter)
-
-5119 Jessie St. 95338 209/966-2924
-
-type: general
-
-
-
-### [California State Mining & Mineral Museum](/northamerica/unitedstates/california/goldcountry/mariposa/thingstodo/californiastateminingmineralmuseum)
-
-5005 Fairgrounds Dr. 95338 209/742-7625
-
-type: general
+**Mariposa County Courthouse** — 5088 Bullion St. California's oldest continuously operating courthouse, a gracious white clapboard building from 1854.

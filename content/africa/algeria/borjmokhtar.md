@@ -1,10 +1,16 @@
 ---
-title: "Borj Mokhtar"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 21.3294
+longitude: 0.9531
+title: Borj Mokhtar
 type: location
 ---
 
-Borj Mokhtar, not really a town, is the on the border with [Mali](/africa/mali), it is on the road to [Gao](/africa/mali/gao). Borj Mokhtar has an air strip, and you can advance seriously by taking a plane to/from [Adrar](/africa/algeria/adrar) in Algeria, but these leave only once in a while.
+Borj Mokhtar is a remote desert outpost on the Algerian side of the border with [Mali](/africa/mali), roughly 650 km south of [Reggane](/africa/algeria/) and 1,400 km south of [Adrar](/africa/algeria/adrar). It barely qualifies as a town — the military presence is the main reason it exists at all — but for overlanders crossing between Algeria and Mali, it is an important waypoint.
 
- Note that crossing the border, involves paying taxes, and out here French Francs is the best currency. Also note that if you are setting out on the journey in your own vehicle, there is something like 500 km between every place to get gaz, food and water. Also note that this region has been tormented by upheavals from the Tuareg side, strongest in Niger, but we get so rarely reports out of the region, that we recommend you to check all this well in advance.
+The town has a small airstrip with occasional flights to and from Adrar. If you are travelling in this direction, it is worth checking whether a flight is running — the stretches of empty desert on either side are formidable. Expect around 500 km between fuel stops, with food and water equally scarce, so plan provisions carefully before setting out in either direction.
 
- Coming from Mali, the first place that seem to exist even without the help of military presence, is Reggane (650 km from Borj Mokhtar), a place that has nothing to offer. From Reggane you head north to Adrar (125 km), or take the route to the east, where you will end up in [In salah](/africa/algeria/insalah) after 250 km
+Crossing the border involves customs formalities and fees on both sides. The nearest significant Malian town on the other side is [Gao](/africa/mali/gao), a long drive away through open desert. The region has historically been affected by unrest related to Tuareg movements and, more recently, broader Sahel security concerns — check current travel advisories carefully before making this crossing.
+
+Coming from Mali, once you clear the border and reach Reggane (650 km north of Borj Mokhtar), you have two options: continue north to Adrar (125 km) or head east toward [In Salah](/africa/algeria/insalah) (250 km). Neither town is large, but both have fuel, food, and accommodation after the crossing.

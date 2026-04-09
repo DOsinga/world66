@@ -1,23 +1,12 @@
 ---
-title: "Moknine"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.628257
 longitude: 10.900133
+title: Moknine
+type: location
 ---
 
-Moknine , the town in which is established POTTERY OF THE SAHEL, is in
-the middle of the Tunisian Sahel, surrounded by vast fields of
-olive-trees, close to three tourist poles, Sousse 35 Km, Monastir 20 Km
-and Mahdia 25Km.
+Moknine is a town in the Tunisian Sahel, surrounded by vast fields of olive trees and positioned between the tourist centres of [Sousse](/africa/tunisia/sousse) (35 km), [Monastir](/africa/tunisia/monastir) (20 km), and Mahdia (25 km). It is known throughout [Tunisia](/africa/tunisia) as the centre of Sahel pottery.
 
-We should note that the development of the artisanal and even
-sometimes industrial activities depends on the abundance of certain
-natural resources that the inhabitants of the area use. Thus, the
-abundance of non-olive 'grig' (a natural and ecological fuel used to
-cook the pottery), the clay deposits of good quality (raw materials for
-the production of pottery) promoted the development of this activity
-through the years. The use of pottery is common in all the domains of
-everyday life: the conservation of food, the cooling of water,
-crockery... Nowadays this use is very limited, and the use for
-decoration replaced it. Nevertheless, this heritage is the principal
-source for the actual decorative articles.
+The pottery tradition here goes back centuries, sustained by abundant local clay deposits and a natural fuel called grig, made from non-olive wood. Pottery was once used in every domain of daily life — for storing food, cooling water, and cooking. While everyday use has faded, the decorative tradition remains strong, and the potters' workshops in and around Moknine are the principal source of the ornamental ceramics you will see across the Sahel.

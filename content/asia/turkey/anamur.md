@@ -1,14 +1,16 @@
 ---
-title: "Anamur"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.0803
+longitude: 32.8312
+title: Anamur
 type: location
-latitude: 36.080323
-longitude: 32.831211
 ---
 
-Travel Guide
+Anamur is a small coastal town on Turkey's southernmost point, tucked between the Taurus Mountains and the Mediterranean. It sits roughly halfway between Alanya and Silifke, about 150 km east of Alanya, and sees far fewer tourists than the resorts to the west — which is a large part of its appeal.
 
-Anamur is located 150km East of Alanya.
+The area's standout sight is [Mamure Castle](/asia/turkey/anamur/things_to_do), a massive sea fortress just 7 km southeast of town. Built by the Romans around the 3rd century AD, expanded by the Byzantines, and later reinforced by the Karamanids and Ottomans, it is one of the best-preserved castles in Turkey — 39 towers and a 13th-century mosque survive largely intact, with the Mediterranean lapping at the outer walls.
 
-Anamur occupied by Alexander the Great in 333 BC and the city name was changed to "Anemurium" which means windy Penninsula.In 100 BC the ciry was ruled by the Byzantinus. Seljuk Turks occupied the city in 1228 and later became an Ottoman city.
+Beyond the castle, Anamur has the ruins of ancient Anemurium just west of town: a Roman and Byzantine city abandoned in the 7th century, with intact streets, mosaics, and a necropolis. The combination of two significant ancient sites within walking distance of the beach is unusual even by Turkish standards.
 
-The most important historical the Romans in site is the Anamur or Mamure castle, it is located 7km SE of Anamur. The castle was built by the Romans in 300 AD. The castle was rebuilt by the Ottomans in 15 century. The castle has 39 towers, a mosques was built in the middle of the castle in 1221 by Karamaoğlu.
+The town itself is a working agricultural centre — bananas are grown here, benefiting from the sheltered, near-tropical microclimate — rather than a resort. Accommodation is simple, and that suits the kind of traveler who ends up here.

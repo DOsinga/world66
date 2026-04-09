@@ -1,17 +1,14 @@
 ---
-title: "Võsu"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 59.5765
+longitude: 25.9554
+title: Võsu
 type: location
-latitude: 59.576518
-longitude: 25.955366
 ---
 
-Travel Guide
+Võsu is a small beach village on the north coast of [Estonia](/europe/estonia), inside the Lahemaa National Park. It has been a summer resort since the 19th century, and remains one of the most popular seaside spots in the country — Estonians from Tallinn drive out for weekends, but it never feels crowded.
 
-**Võsu** is a small beach village in North Estonia. It is one of the oldest summer resorts in Estonia, founded in the 19th century.
+The beach stretches for about three kilometres, backed by a belt of pine-covered dunes. The water is shallow and calm enough for children, and the wide sand is good for beach volleyball. Behind the village, Lahemaa's forests and bogs are crisscrossed with walking trails — the Oandu forest trail and the Viru bog boardwalk are both within easy reach.
 
-Võsu has a beautiful 3 km long beach area with a belt of dunes
-behind it. Swimming, sailing, windsurfing, beach volleyball and
-football are all options.
-
-**More information **about Võsu can be found on the official tourist
-information website of Estonia: http://www.visitestonia.com/en/articles/destinations/the-coastline/vosu
+The village itself is tiny: a few guesthouses, a shop, and a summer cafe or two. That is precisely the appeal.

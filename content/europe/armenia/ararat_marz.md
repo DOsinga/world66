@@ -1,18 +1,14 @@
 ---
-title: "Ararat Marz"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.952
+longitude: 44.5393
+title: Ararat Marz
 type: location
-latitude: 39.952015
-longitude: 44.539323
 ---
 
-Ararat Marz is the agriculturally rich but hot and flat valley of the Arax river S of Yerevan,
-including the severe brown hills of the lower Azat and Vedi river
-watersheds, but including fine green valleys and mountains in the upper
-reaches, mostly now protected within the bounds of the Khosrov Forest State Preserve. Ararat Marz is dominated by the double silhouette of Mt. Ararat, which looms on a clear day close and magical.
+Ararat Marz is the province that dominates the view from Yerevan: a broad, hot, flat valley carved by the Arax river, with the double peak of Mount Ararat — now just across the border in Turkey — looming over everything on a clear day, impossibly large and impossibly close. The mountain gave the region its name even though Armenians can only look at it.
 
-Main tourist destination of the Marz is Khor Virap Monastery, legendary site of the captivity of Gregory the Illuminator, which sits among the ruins of Ancient Artashat. The ruins of Dvin
-are another important destination, at least scientifically, while the
-upper valley of the Vedi River includes interesting natural sites and a
-fortified monastery. The fishponds of Armash are one of the Caucasus's
-richest spots for birders. East from Yeraskh, a fold of Mt. Urts
-shelters the virtually unknown S. Karapet Monastery. Technically in Ararat Marz, but more accessible from Garni (see Kotayk section), the remote valleys of the Azat river and its tributaries shelter Aghjots (S. Stepanos) Vank and Geghi Castle (Kakavaberd).
+Most of the valley is agricultural — vineyards, orchards, and fishponds on the flat ground, brown hills rising steeply on either side. The Khosrov Forest State Reserve protects the upper Azat and Vedi river valleys, where the landscape turns green and the terrain becomes genuinely wild.
+
+The main reason travelers come here is [Khor Virap](/europe/armenia/khorvirap) monastery, which sits right at the Turkish border among the ruins of ancient Artashat. It is the legendary site where Gregory the Illuminator was imprisoned before converting Armenia to Christianity in 301 AD — the combination of monastery and mountain backdrop makes it one of the most photographed spots in the country. The ruins of [Dvin](/europe/armenia/ararat_marz), the medieval Armenian capital, lie nearby and reward visitors interested in archaeology. The fishponds at Armash, in the flat southwest of the province, are one of the richest birdwatching sites in the Caucasus.

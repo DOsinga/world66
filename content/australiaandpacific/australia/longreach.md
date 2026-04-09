@@ -1,8 +1,10 @@
 ---
-title: "Longreach"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -23.437839
 longitude: 144.25869
+title: Longreach
+type: location
 ---
 
 Longreach is a small outback town in central Queensland, about 700 km west of Rockhampton. It sits at the edge of the channel country — flat, dry grassland country crossed by river channels that flood dramatically in wet years and shrink to nothing in dry ones.

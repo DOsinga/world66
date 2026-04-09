@@ -1,8 +1,12 @@
 ---
-title: "Koure"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 13.310915
 longitude: 2.57563
+title: Koure
+type: location
 ---
 
-Although it’s not found on many maps Koure is important as the center of an area roamed by a herd of giraffes—the last remaining free-range herd in West Africa. The area is not controlled in any way but there are trained guides in Koure who know the trails the movement patterns of the giraffes and the local ecology (beware of false guides on the road to Koure!). They command a flat fee and willingly accept tips but do not have their own vehicles. The best way to see the giraffes is by four-wheel-drive vehicle and the dry season (November-February) is the best time to see them. Koure is located just south of the paved road heading east out of [Niamey](/africa/niger/niamey) toward Dosso.
+Koure is important as the centre of an area roamed by the last remaining free-range giraffe herd in West Africa. The animals aren't fenced in — they simply move through the bush as they always have, and that's part of what makes seeing them so remarkable.
+
+Trained local guides in Koure know the trails and the giraffes' movement patterns. They charge a flat fee and willingly accept tips, but don't have their own vehicles — you'll need a four-wheel drive. Beware of unofficial guides who approach on the road to Koure. The dry season (November to February) is the best time to visit. Koure is located just south of the paved road heading east out of [Niamey](/africa/niger/niamey) toward Dosso.

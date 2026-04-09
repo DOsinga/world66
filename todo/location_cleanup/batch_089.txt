@@ -2,7 +2,6 @@ southamerica/bolivia/cochabamba
 northamerica/belize/puntagorda
 asia/turkey/diyarbakir
 asia/pakistan/dera_ghazi_khan/nawan_shehar__has
-asia/pakistan/azad_kashmir/mirpur_hall_road
 europe/france/midi/languedoc/narbonne
 europe/spain/northernspain/lacoruna
 africa/kenya/centralhighlands/runyanjes

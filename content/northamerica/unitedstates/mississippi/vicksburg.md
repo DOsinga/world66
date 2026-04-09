@@ -1,8 +1,14 @@
 ---
-title: "Vicksburg"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 32.3528
+longitude: -90.8777
+title: Vicksburg
 type: location
-latitude: 32.352806
-longitude: -90.877734
 ---
 
-Vicksburg, Mississippi is known as "the River City" and is nestled in the bluffs of the Mississippi River. Vicksburg is home to the National Military Park (which commemorates the battle for Vicksburg and contains an 18 mile long tour road), several antebellum homes, many good local restaurants, antique shopping, and now the newly rennovated downtown shopping district. For a more modern flare, Vicksburg has an outlet mall called the Vicksburg Factory Outlets and is home to four casinos: Ameristar, Horizon, Rainbow, and Isle of Capri. Vicksburg is a progressive city and a most beautiful city that is a must see for any visit to Mississippi.
+Vicksburg is where the Civil War turned. The 47-day siege of 1863, ending with the city's surrender on the Fourth of July, gave the Union control of the Mississippi River and cut the Confederacy in two. The city has never forgotten it -- and neither should you, because the Vicksburg National Military Park is one of the most moving historical sites in the American South.
+
+The park stretches across 1,800 acres of battlefield, with a 16-mile tour road winding past more than 1,300 monuments, markers and cannon positions. You can drive it, bike it, or walk sections of it. The restored USS Cairo, an ironclad gunboat raised from the Yazoo River, sits in its own museum near the park's entrance. Allow at least half a day.
+
+Beyond the battlefield, Vicksburg is a pleasant river city built into the bluffs above the Mississippi. The downtown has been renovated with antique shops, local restaurants and a walkable historic district. Several antebellum homes are open for tours. The Old Court House Museum, where Grant reportedly raised the Union flag, offers a good overview of the city's layered history. Vicksburg sits at the intersection of I-20 and the Natchez Trace, making it an easy stop on a road trip through Mississippi.

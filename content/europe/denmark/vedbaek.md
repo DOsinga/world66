@@ -1,10 +1,12 @@
 ---
-title: "Vedbaek"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 55.8541
+longitude: 12.5653
+title: Vedbæk
 type: location
-latitude: 55.854091
-longitude: 12.565312
 ---
 
-A fantastic town, full of life and joy. Possibly the most happy town i Denmark. If you decide to visit Denmark, Vedbaek is only about 10 miles away from Copenhagen, and you can easily get there by train. The main reason to visit Vedbaek is probably the forest, and also the shopping abilities in Troeroed. When visiting Vedbaek you really get a glimpse of how everydaylife is in Denmark. Vedbaek is perfect for a one-day-trip. The Troeroedschool is also an attraction in Vedbaek, and is really worth visiting. 
+Vedbæk is a quiet coastal town on the Øresund shore, about 20 km north of Copenhagen. It's a pleasant enough place — a small marina, a beach, and the forested hills of Dyrehaven nearby — but its real claim to fame is archaeological. In 1975, construction workers uncovered a Mesolithic burial ground dating to around 5000 BC, now known as the **Vedbæk Bøgebakken** site. Among the finds was the famous "woman with the feathers": the skeleton of a young woman buried with her newborn child resting on a swan wing beside her. The original finds are held at the National Museum in Copenhagen, but a small local display tells the story.
 
-The train from Copenhagen - and to Copenhagen - leaves every 20 minutes, and takes about half an hour.
+For visitors, Vedbæk works best as a stop on the Kystbanen coastal railway, which runs between Copenhagen and Helsingør. The town itself takes an hour to see; combine it with Rungstedlund (Karen Blixen's house) or the Louisiana Museum of Modern Art further up the coast.

@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.8652
 longitude: 1.0321
 title: Briston

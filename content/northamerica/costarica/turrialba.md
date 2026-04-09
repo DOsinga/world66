@@ -1,5 +1,9 @@
 ---
-title: "Turrialba"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 9.9013
+longitude: -83.6817
+title: Turrialba
 type: location
 ---
 

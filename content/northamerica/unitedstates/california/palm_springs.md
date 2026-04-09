@@ -1,22 +1,14 @@
 ---
-title: "Palm Springs"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.824627
 longitude: -116.540303
+title: Palm Springs
+type: location
 ---
 
-Travel Guide
+Palm Springs sits in the Coachella Valley, ringed by mountains on all sides and baked by desert sun for 354 days a year. It was a glamorous midcentury retreat — Frank Sinatra, Dean Martin, and the Rat Pack crowd all had homes here — and that era still defines the town's character. The midcentury modern architecture is the best-preserved collection in the country, and "Modernism Week" each February draws architecture fans from around the world.
 
-**Palm Springs** is a desert city in Riverside County. As
-of the 2000 census, the city population was 42,807. Golf, swimming, tennis,
-horseback riding and hiking in the nearby desert and mountain areas are major
-forms of recreation in Palm Springs. It is one of nine adjacent cities that
-make up the Coachella Valley (Palm Springs area). Located in the Coachella
-Valley desert region, Palm Springs is sheltered by the San Bernardino Mountains
-to the north, the Santa Rosa Mountains to the south, by the San Jacinto
-Mountains to the west and by the Little San Bernardino Mountains to the east.
-This geography gives Palm Springs its hot, dry climate, with 354 days of
-sunshine and less than 6 inches (150 mm) of rain annually. The winter
-months are warm, with daily high temperatures ranging from 70 °F –
-80 °F (21 °C – 27 °C) and low temperatures rarely dipping below
-42 °F (6 °C).
+Today Palm Springs is a mix of retirees, weekenders from Los Angeles (it is about two hours east), and a large LGBTQ+ community that has helped keep the town culturally interesting. The downtown strip along Palm Canyon Drive has good restaurants, galleries, and a Thursday evening street market (VillageFest).
+
+The Palm Springs Aerial Tramway is the highlight for visitors: a rotating cable car that climbs from the desert floor to the top of Mount San Jacinto at 2,596 metres, where the temperature can be 20°C cooler and the views stretch across the entire valley. In winter there is often snow at the top while it is warm enough for shorts below. The Indian Canyons, just south of town, offer easy hiking through fan palm oases.

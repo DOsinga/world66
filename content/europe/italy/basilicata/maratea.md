@@ -1,23 +1,14 @@
 ---
-title: "Maratea"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.993103
 longitude: 15.723124
+title: Maratea
+type: location
 ---
 
-Travel Guide
+Maratea is the best [Basilicata](/europe/italy/basilicata) has to offer coastal travellers. Squeezed onto a narrow strip between mountains and the Tyrrhenian Sea, it is the region's only stretch of coastline — and it makes the most of it.
 
-Maratea is the best Basilicata has to offer to travellers. There is an
-old historic centre, where you can wander trhough narrow streets and
-visit some splendid centruy-old churches, and there is a marina and
-some nice peaches.
+The old town is built on the slopes of Monte San Biagio, its narrow streets threading between 17th- and 18th-century buildings. The main sight is the church of Santa Maria Maggiore in the centre of the village, but the real pleasure is in wandering. Above it all, on the summit, stands an enormous statue of Christ — smaller than Rio's, but dramatically sited.
 
-The Old Town built on the
-slopes of Monte San Biagio. The buildings
-date to the 17th and 18th Centuries. The main sight is the Sta Maria Maggiore church in the center of the village.
-The port is the most lively area. It has shops, several cafés and some
-good restaurants. You can take an excursion by boat to visit some of
-the caves nearby.
-
-The best (rocky) beaches are found at Acquafredda (10 km north) and Marina di
-Maratea (5 km south) along the coastal road.
+The port is the liveliest area, with shops, cafes and some good restaurants. Boat excursions run to the caves along the coast. The best beaches — rocky, clear-watered — are found at Acquafredda, about 10 km north, and Marina di Maratea, 5 km south along the coastal road.

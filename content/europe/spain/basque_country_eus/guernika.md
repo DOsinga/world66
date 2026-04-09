@@ -1,9 +1,12 @@
 ---
-title: "Guernika"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.992426
 longitude: -3.008872
+title: Guernika
+type: location
 ---
 
-Guernika is most famous for the painting by Pablo Picasso - they have a copy of it in the local museum, the original is in
-[Madrid](/europe/spain/madrid)- but the place is very interesting for all tourists. The beach is spectacular with a hige difference between high and low tide and there are some grottoes with old paintings nearby. In this rural market town in the Basque highlands the town now boasts of having Euskadi's only Irish owned country pub and Europe's only Irish whiskey bar-Scanlan's Tavern www.bilbaodenoche.com with an infusion of Basque/Irish culture "craic" will be had .Gernika is the heart of the Basque country and a visit to their famous tree is a must.Check out the towns festival in August .
+Guernika — also spelled Gernika — is a small market town in the Basque highlands whose name became known worldwide after April 1937, when Nazi and Fascist warplanes bombed it in support of Franco, killing hundreds of civilians. Picasso's response was the enormous monochrome painting that now hangs in Madrid's Museo Reina Sofía; the town's own museum holds a full-size reproduction and a permanent exhibition on the attack and its aftermath.
+
+For the Basque people, Guernika carries a deeper significance beyond the bombing. The Guernica Oak — the Arbol de Gernika — stands in the grounds of the Casa de Juntas, where the Lords of Biscay swore to uphold Basque rights for centuries. The current tree is a descendant of the original; it remains a powerful symbol of Basque autonomy. The town also sits close to the Urdaibai estuary, a biosphere reserve where the tidal range is dramatic and there are painted caves in the nearby hills. Guernika's Monday market has been running for centuries and is still worth timing a visit around.

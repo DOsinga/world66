@@ -1,12 +1,12 @@
 ---
-title: "Brigham City"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.511
+longitude: -112.0155
+title: Brigham City
 type: location
-latitude: 41.511043
-longitude: -112.015499
 ---
 
-Travel Guide
+Brigham City is a quiet county seat at the northern end of Utah's Wasatch Front, backed by the Wasatch Mountains and fronting the broad flats that slope toward the Great Salt Lake. With a population of around 17,000, it has the feel of a rural market town — family farms ring the outskirts and the pace is unhurried.
 
-Brigham City (pop. 17,411, 2000 U.S. Census) is the county seat of Box Elder County. Its most notable visitor attraction may be the expansive Bear River Migratory Bird Refuge which features a beautiful new visitors center. Brigham City is also a good jumping off point for visits to Golden Spike National Historic Site, Mantua, Willard Bay and Bear River.
-
-Brigham City remains a quiet town with a rural feel. It is surrounded by family farms and lies at the base of the Wasatch Mountain Range. Its history includes Baron Woolen Mills and a large school for Native American children (long since disbanded, largely removed and replaced by a golf course).
+The standout reason to visit is the Bear River Migratory Bird Refuge, one of the most important wetland habitats in the American West. Hundreds of species pass through during migration season, and the refuge has a handsome visitor centre with exhibits and a wildlife drive. Brigham City also makes a convenient base for Golden Spike National Historic Site, where the first transcontinental railroad was completed in 1869, and for Willard Bay State Park on the lake.

@@ -1,16 +1,14 @@
 ---
-title: "Orkneys"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 58.9809
+longitude: -2.9605
+title: Orkney
 type: location
-latitude: 50.859797
-longitude: -2.162905
 ---
 
-A wonderful Jewel of Scotland in the North Sea, The Orkney Isles are by far some of the most remote, but pleasurable, islands in Scotland. If you seek solitude but friendly and outgoing people this is the area to visit. From the ring of Brodgar, Standing Stones of Stennes, Maes Howe Tomb, and Tomb of the Eagles, to the city center of Kirkwall and Stromness and the bustling Ba held once a year on New Years, Orkney is a relaxing and solitary hot spot for tourism.
+Orkney is an archipelago of about seventy islands off the north coast of Scotland, separated from the mainland by the Pentland Firth. Only about twenty are inhabited, and most visitors stick to Mainland, the largest island, where the two towns — [Kirkwall](/europe/unitedkingdom/scotland/orkneys/kirkwall) and Stromness — sit on opposite coasts.
 
-The Orkneys are a series of islands in the northernmost reaches of Scotland. The county to the south is Caithness with numerous ancient tombs, standing stones, and ancient dwellings called "brochs." The ferry to the main island in the Orkneys departs from and returns to Caithness. 
+What makes Orkney extraordinary is its density of prehistoric sites. Skara Brae, a Neolithic village on Mainland's west coast, is over 5,000 years old and remarkably well preserved. The Ring of Brodgar and the Standing Stones of Stenness stand in open farmland between two lochs. Maeshowe, a chambered cairn, is aligned so that the setting sun on the winter solstice lights up the back wall — and Viking raiders left graffiti inside centuries later. The Tomb of the Eagles on South Ronaldsay rounds out the collection.
 
-Skara Brae the oldest human settlement in the world is located on South Ronaldsay, the main island on the Orkneys.
-
-## Destinations in Orkneys
-
-[Kirkwall](/world/europe/unitedkingdom/scotland/orkneys/kirkwall)
+Beyond the archaeology, Orkney has wild coastal scenery, excellent birdwatching (puffins nest on the cliffs in summer), and a relaxed, friendly atmosphere. The Ba' — a mass street football game through Kirkwall — takes place every Christmas Day and New Year's Day. Ferries run from Scrabster and Gill's Bay in Caithness; NorthLink also operates an overnight service from Aberdeen.

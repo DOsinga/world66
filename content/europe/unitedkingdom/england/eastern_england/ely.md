@@ -1,12 +1,14 @@
 ---
-title: "Ely"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 52.399
+longitude: 0.262
+title: Ely
 type: location
-latitude: 52.39902
-longitude: 0.262039
 ---
 
-Ely is one of two cities in England, Wells being the other, that is virtually dependent on its cathedral for its number of visitors. The Cathedral is covered under ‘Sights.’ 
+Ely is a small cathedral city in the Cambridgeshire fens, about fifteen miles north of Cambridge. The city essentially exists because of its cathedral, and so do most of its visitors -- Ely Cathedral is one of the great medieval buildings of England.
 
-There are some very fine houses around the Cathedral and not far away is the house where Oliver Cromwell was born, now linked with the tourist office. This is perticularly suitable for older children but adults can learn a lot from it.
+The cathedral's most famous feature is the Octagon, an extraordinary lantern tower built in the 1330s after the original Norman crossing tower collapsed. The engineering was daring for its time and the effect is stunning -- light floods in from above in a way no other English cathedral achieves. The Lady Chapel is the largest attached chapel in England.
 
-Write up by [davidx](/world/member/davidx) on 31 August 04
+Around the cathedral, the streets are lined with fine medieval and Georgian houses. Oliver Cromwell's House, a timber-framed building near St Mary's Church, is now a museum and tourist information centre -- Cromwell lived here for about ten years while he was a local tithe collector, before rather larger ambitions took hold. The riverside area along the Great Ouse is pleasant for a walk, and in summer you can take a boat trip through the fens.

@@ -1,8 +1,10 @@
 ---
-title: "San Pedro"
-type: location
-latitude: 17.9150
+done:
+  location_cleanup: '2026-04-09'
+latitude: 17.915
 longitude: -87.9657
+title: San Pedro
+type: location
 ---
 
 San Pedro is the main town on [Ambergris Caye](/northamerica/belize/ambergriscaye), located at the southern end of the island. What was a fishing village until the 1980s is now Belize's most developed tourist destination, with resorts, restaurants, dive shops, bars, and a permanent population that swells significantly during high season.

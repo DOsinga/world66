@@ -1,8 +1,14 @@
 ---
-title: "Monterrei"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.9468
+longitude: -7.4491
+title: Monterrei
 type: location
-latitude: 41.946766
-longitude: -7.449147
 ---
 
-The area of production for these wines lies in the Valley of Monterrei covering territory of the towns of Verín, Monterrei, Oímbra and Castrelo do Val, all in the south-east of the province of Ourense, on the Portuguese frontier. The vineyards spread over the hillsides and valleys, irrigated by the River Tamega and its tributaries. They occupy a surface area of 3,000 hectares, and the predominant variety is white from the Verdello, Dona Brance and verdello Louro vines; and, among the reds, Bastardo, Tinta Fina, Mencía and Arauxa. The whites of O Val de Monterrei are light, aromatic, golden or straw yellow in colour and with an average alcohol content of approximately 11 degrees. The reds are purple in colour, pleasant fruity bouquet, light, well-balanced acidity/alcohol and one degree less than the whites.
+Monterrei is a wine-producing comarca in the south-east corner of Galicia's Ourense province, right on the Portuguese border. The Valley of Monterrei, watered by the River Tamega and its tributaries, covers the municipalities of Verín, Monterrei, Oímbra, and Castrelo do Val. The vineyards stretch across some 3,000 hectares of hillside and valley.
+
+The DO Monterrei produces mostly white wines from Verdello, Doña Blanca, and Verdello Louro varieties — light, aromatic, golden-straw wines with moderate alcohol. The red wines, primarily Mencía, are purple in colour with a fruity bouquet. The quality has risen considerably in recent years, and the wines offer good value compared to better-known Galician DOs.
+
+The town of Verín is the main commercial centre of the area and has a thermal spa tradition. The medieval castle of Monterrei, perched above the valley, dominates the landscape and is worth a visit.

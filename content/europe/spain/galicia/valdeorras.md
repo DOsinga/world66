@@ -1,8 +1,14 @@
 ---
-title: "Valdeorras"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.3483
+longitude: -6.966
+title: Valdeorras
 type: location
-latitude: 42.348342
-longitude: -6.965998
 ---
 
-The production zone of this wine lies over most of the basin of the Rivers Sil and Xares, around the towns of O Barco, A Rúa, Vilamartín, O Bolo, Carballeda de Valdeorras, Larouco, Petín and Rubiá, located in the east of the province of Ourense. The most characteristic variety of wine among the whites is the Godello, whose grape provides white wines with a fine fruity aroma, yellow colour, gold and straw, fine flavour in the mouth, with an average alcohol content of 12.5 degrees. The red wines produced from the variety Mencía have an intense purple colour and an elegant fruity bouquet, light and with a fine balance acidity/alcohol. The monovariety wines, both the white Godello and the red Mencía, are surprising for their excellent quality, full of nuances, and are among the great wines of the moment.
+Valdeorras is a wine region and comarca in the eastern end of Galicia's Ourense province, along the Sil and Xares river valleys. The DO Valdeorras covers the municipalities of O Barco, A Rúa, Vilamartín, O Bolo, Carballeda de Valdeorras, Larouco, Petín, and Rubiá.
+
+The star variety here is Godello — a white grape that had nearly disappeared by the 1970s but has since been rescued and elevated to international recognition. Valdeorras Godello produces aromatic white wines with a fine fruity character, golden-straw colour, and around 12.5% alcohol. The red wines are primarily made from Mencía, producing intensely purple wines with an elegant fruity bouquet. Both the monovariety Godello white and the Mencía red are among Galicia's finest wines.
+
+The Sil river valley scenery in this part of Galicia is dramatic — steep terraced vineyards clinging to slate hillsides above the river — and the region rewards slow travel.

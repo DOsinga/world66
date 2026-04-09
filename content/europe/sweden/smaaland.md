@@ -1,6 +1,12 @@
 ---
-title: "Smaaland"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 57.25
+longitude: 15.25
+title: Småland
 type: location
 ---
 
-Some 350 south of [Stockholm](/europe/sweden/stockholm), close to [Kalmar](/europe/sweden/kalmar) and [Oland](/europe/sweden/oland) you find the Kingdom of Chrystal as Smaaland is often names because of the man glass making factories you find in the area. All twenty of them offer free tours and most have shops selling their wares.Vaxjo has a glass museum as well as one dedicated to Swedish emigration to the [United States](/northamerica/unitedstates) in the 19th century.
+Småland is the heavily forested province in southern Sweden, roughly 350 km south of [Stockholm](/europe/sweden/stockholm). It is best known as the "Kingdom of Crystal" — some twenty glassworks are scattered through the woods between [Kalmar](/europe/sweden/kalmar) and Växjö, most of them offering free tours and factory shops where you can buy seconds at good prices. Kosta Boda and Orrefors are the famous names, but the smaller workshops are often more interesting to visit.
+
+Växjö, the main inland town, has a glass museum and the House of Emigrants, a museum dedicated to the mass Swedish emigration to the [United States](/northamerica/unitedstates) in the 19th century — roughly a quarter of Sweden's population left, many of them from Småland. The surrounding countryside is classic Swedish landscape: lakes, forests and red wooden houses. The island of [Öland](/europe/sweden/oland) is just across the bridge from Kalmar.

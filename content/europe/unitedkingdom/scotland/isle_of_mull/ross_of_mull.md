@@ -1,8 +1,10 @@
 ---
-title: "Ross of Mull"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 56.305319
 longitude: -6.236819
+title: Ross of Mull
+type: location
 ---
 
 The Ross of Mull is the long, narrow peninsula forming the southern part of the island. You reach it by turning left off the ferry at Craignure and following the single-track road west.

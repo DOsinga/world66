@@ -1,8 +1,10 @@
 ---
-title: "Lalitpur (Patan)"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 27.6766
 longitude: 85.3166
+title: Lalitpur (Patan)
+type: location
 ---
 
 Lalitpur — better known as Patan — sits just across the Bagmati River from Kathmandu, close enough to reach in twenty minutes yet distinct enough to feel like a different world. Where Kathmandu can be hectic and commercial, Patan has a quieter, more refined character. It's a city of courtyards, carved wooden windows, and some of the finest Newari architecture in the valley.

@@ -1,8 +1,10 @@
 ---
-title: "Acadia"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.3386
 longitude: -68.2733
+title: Acadia
+type: location
 ---
 
 Acadia became the first national park east of the Mississippi thanks largely to George B. Dorr, who spent 43 years and his family fortune preserving the landscape. The park encompasses nearly 48,000 acres of granite-domed mountains, woodlands, lakes, and ocean shoreline on the coast of Maine.

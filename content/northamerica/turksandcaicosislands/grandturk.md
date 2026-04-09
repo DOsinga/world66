@@ -1,14 +1,14 @@
 ---
-title: "Grand turk"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 21.4655
+longitude: -71.139
+title: Grand Turk
 type: location
 ---
 
-Grand Turk is the capital island of the Turks and Caicos, Cockburn town is the center piece of the island with a wonderful selection of historical buildings and a rustic charm. You will find many Bermudian and Colonial style buildings and ruins, along with The Turks and Caicos National Museum. 
+Grand Turk is the small, unhurried capital island of the Turks and Caicos, home to around 4,000 people and the seat of the territory's government. It has none of the resort gloss of Providenciales — the buildings are low, the roads are quiet, and donkeys still wander the streets. That's the draw.
 
-Grand Turk i inhabited by some 4000 people and it's the financial heart of the country. 
+Cockburn Town, the island's main settlement, is one of the most intact colonial streetscapes in the Caribbean. Duke and Front Streets are lined with 18th and 19th-century salt-era architecture — Bermudian-style limestone buildings with broad verandas and weathered shutters — and the pace of life feels genuinely local.
 
-On Grand Turk you can arrange everything you want to do on the islands: diving, snorkeling, watersports etc.
-
-## Destinations in Grand turk
-
-[Cockburn Town](/northamerica/turksandcaicosislands/grandturk/cockburntown)
+The waters off Grand Turk's west coast are world-class. The wall drops from about 10 metres to over 2,000 metres just a few hundred metres offshore, making it one of the best shore-dive sites in the Atlantic. Even snorkellers can reach healthy reef from the beach.

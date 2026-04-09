@@ -1,8 +1,10 @@
 ---
-title: "Ehden"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 34.290658
 longitude: 35.965676
+title: Ehden
+type: location
 ---
 
 Ehden is a mountain village in the Mount Lebanon range, about 100 km northeast of [Beirut](/asia/lebanon/beirut), and a gateway to some of the best scenery in the country. The village itself has several old churches and monuments, but the main draw is nature.

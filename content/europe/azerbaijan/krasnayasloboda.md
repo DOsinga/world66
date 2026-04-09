@@ -1,12 +1,14 @@
 ---
-title: "Krasnaya Sloboda"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.3658
+longitude: 48.5128
+title: Krasnaya Sloboda
 type: location
 ---
 
-Krasnaya Sloboda is Quba's smaller sister, located on the northern bank of the gorge of the Kudyal river, just facing it's sibling. You can enter Krasnaya Sloboda arriving from [Baku](/europe/azerbaijan/baku) and making a right turn before entering [Quba](/europe/azerbaijan/quba) or simply cross the foot bridge connecting the two towns, located between the war memorial on Krasnaya Sloboda's side and Nizami park on Quba's bank. 
+Krasnaya Sloboda sits on the northern bank of the Kudyal River gorge, directly facing [Quba](/europe/azerbaijan/quba) — you can walk between the two towns across a footbridge. The town is remarkable as one of the last surviving settlements of the Mountain Jews, a community that has lived in the eastern Caucasus for centuries.
 
+Although emigration to [Israel](/asia/israel) has reduced the population considerably, the Jewish heritage remains visible. There is an old wooden synagogue and a newer one, large Jewish cemeteries, and houses that show signs of prosperity from remittances sent by family abroad. The overall atmosphere is quiet and very similar to Quba across the gorge.
 
-
-Although emigration to [Israel](/asia/israel) has taken its toll, the main particularity of Krasnaya Sloboda is that it's populated almost entirely by mountain jews. Nevertheless, the architecture and ambience is very similar to Quba's, although some affluence can be noticed in building refurbishment, as hard currency sent from families in Israel makes life easier. There is an old wooden, barn-style synagogue as well as a new one, of no better inspiration. For the nostalgic there is still a Lenin's statue near the Mayor's office and there are large jewish cemeteries. For a change of mood you can try Vurgun cinema. 
-
-Not far from Krasnaya Sloboda you'll also find the village of Khanalygh , where a ethnic group of 1000 Tats who have preserved the original language, customs and traditions.
+Not far from town, the village of Khinalig (Xinaliq) is home to an ethnic group of about a thousand people who have preserved their own distinct language, customs, and traditions — one of the most isolated communities in the Caucasus and well worth the rough drive up into the mountains.

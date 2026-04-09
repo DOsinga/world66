@@ -1,13 +1,12 @@
 ---
-title: "Altos Mirandinos"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 10.3571
+longitude: -66.9895
+title: Altos Mirandinos
 type: location
-latitude: 10.357088
-longitude: -66.989543
 ---
 
-Located in the state of Miranda, this area is formed by 2 cities and 5 towns. The cities are: Los Teques (Miranda state's capital) and San Antonio de los altos while San Diego, San José, San Pedro, El Jarillo and Carrizal remain as little and picturesque towns. They are called los altos beacuse both cities and the towns are located at more than 1000 meters or 3281 feet above the sea level. The weather is very nice during all the year with an average of 20 degrees c or 68 degrees f. The territory itself has lots of green mountains.
+The Altos Mirandinos is a cluster of highland towns in Miranda state, perched above 1,000 metres in the mountains southwest of Caracas. The altitude keeps temperatures around a pleasant 20°C year-round — a welcome escape from the heat of the capital, which is less than an hour away by road.
 
-## Destinations in Altos Mirandinos
-
-[San Diego](/southamerica/venezuela/altos_mirandinos/san_diego)
-[Los Teques](/southamerica/venezuela/altos_mirandinos/los_teques)
+Los Teques, the state capital, is the largest settlement and the commercial centre of the area. San Antonio de los Altos, on a ridge overlooking the valley, is popular with Caraqueños for its weekend restaurants and mountain views. The smaller towns — San Diego, San José, San Pedro, El Jarillo, and Carrizal — remain quieter and more picturesque, surrounded by green mountains and coffee farms.

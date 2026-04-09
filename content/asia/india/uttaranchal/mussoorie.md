@@ -1,10 +1,14 @@
 ---
-title: "Mussoorie"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 30.4569
+longitude: 78.0783
+title: Mussoorie
 type: location
-latitude: 30.456901
-longitude: 78.078291
 ---
 
-Travel Guide
+**Mussoorie** is a hill station in the foothills of the Himalayas in Uttarakhand, perched along a ridge at about 2,000 metres with views north to the snow peaks and south across the Doon Valley. It has been a retreat from the plains heat since the British established it in the 1820s, and it remains hugely popular with Indian holidaymakers.
 
-Mussoorie is a hill station situated in the foothills of the Himalaya ranges in north Indian state of Uttaranchal. It is also known as the "Queen of the Hills". The adjoining town of Landour, which includes a military cantonment, is considered part of 'greater Mussoorie', as are the townships of Barlowganj and Jharipani.
+The main promenade, known as the Mall Road, runs along the ridge between the two ends of town — Library Bazaar to the west and Picture Palace to the east. It is crowded in season but pleasant enough for an evening stroll. Landour, the quieter cantonment area above the main town, has better walks and a more relaxed atmosphere — the writer Ruskin Bond has lived here for decades, and his presence has given Landour a modest literary reputation.
+
+Gun Hill, reachable by cable car, offers panoramic views of the Himalayan range on a clear day. Kempty Falls, about 15 km out of town, is a popular excursion though it gets very crowded.

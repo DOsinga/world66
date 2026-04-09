@@ -1,16 +1,14 @@
 ---
-title: "Yachats"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.312756
 longitude: -124.104999
+title: Yachats
+type: location
 ---
 
-Travel Guide
+Yachats (pronounced "YAH-hots") calls itself the Gem of the Oregon Coast, and it earns the title. This tiny community, nestled between surf and mountains about 25 miles south of Newport, has the rugged scenery of the coast at its most dramatic — wave-carved tidepools, forested headlands, and a small river meeting the sea at the edge of town.
 
-Calling itself "Gem of the Oregon Coast", this tiny community nestled between the surf and the mountains is truly a beautiful little gem. Several fine motels line the beachfront, many with fireplaces to ward off the chill that often blows in off the ocean. There are also several campgrounds close by for the warmer months.
+There are no traffic lights and very few tourist traps. A couple of good restaurants, a food market, some shops, and a scattering of comfortable motels along the beachfront — most with fireplaces for the frequent cool and stormy days — make this a proper retreat rather than a resort. Cape Perpetua, a few miles to the south, has some of the best hiking on the coast, including sea caves and spectacular viewpoints. Beachcombing for agates along the river mouth and nearby beaches is a local pastime.
 
-There are two gas stations, several restaurants to fit any budget, one food market, along with lots of cute shops, but not one stop signal in town.
-
-Activities include hiking on numerous scenic trails at nearby Cape Perpetua, beachcombing for agates, fishing off the rocks or along the banks of the Yachats river, or just kicking back and enjoying a winter storm from the comfort of your cozy motel room.
-
-People say there is a healing spirit around Yachats, a belief which was held by the original native residents.
+People come here to slow down, and they usually succeed.

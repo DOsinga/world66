@@ -1,20 +1,14 @@
 ---
-title: "The Entrance"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -33.3441
+longitude: 151.496
+title: The Entrance
 type: location
-latitude: -33.344059
-longitude: 151.496017
 ---
 
-The Entrance is a quiet beachy suburb north of Sydney and South of
-Newcastle, It is definately worth a look. The beaches are less
-populated than Sydney but you are still able to find many patrolled
-beaches that are safe to swim in. Some of the unpatrolled Beaches are
-even better, less crowd's and you can find a calm spot for safe
-swimming or an excellent surfing spot. Some surfing beaches include
-Blue Bay, North Shelly, Crackneck Point. Calmer beaches are Bateau
-Bay, South Shelly - Patrolled(with an excellent golf course to go with
-it). Around The Entrance you will find many shops with much
-cheaper food than Sydney as well. There is a Subway, KFC and many not
-too pricy restaurants. Highly recommended for a more adventurous
-traveller that doesn't follow crowds. Car Transport is necessary though
-as public transport is definately NOT to be relyed upon.
+The Entrance sits on a narrow strip of land between Tuggerah Lake and the Pacific Ocean on the New South Wales Central Coast, about an hour and a half north of Sydney. It is a low-key beach town that makes a good alternative to the crowded city beaches -- the sand is just as good and you will have far more of it to yourself.
+
+The main beach at The Entrance is patrolled in summer, but the real finds are further along the coast. Blue Bay, North Shelly, and Crackneck Point are popular surf breaks, while Bateau Bay and South Shelly offer calmer water for swimming. The pelican feeding at The Entrance waterfront, held daily at 3:30pm, has become a local institution.
+
+The town itself is unpretentious -- fish and chip shops, a few cafes, and a pleasant lakeside promenade. Tuggerah Lake behind the town is good for kayaking and stand-up paddleboarding. You will need a car to get the most out of the area, as public transport on the Central Coast is limited.

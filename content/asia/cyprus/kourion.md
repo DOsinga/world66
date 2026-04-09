@@ -1,26 +1,17 @@
 ---
-title: "Kourion"
-type: location
-latitude: 34.665471
-longitude: 32.885786
+category: Sight
+done:
+  location_cleanup: '2026-04-09'
+latitude: 34.6655
+longitude: 32.8858
+title: Kourion
+type: poi
 ---
 
-Kourion has the most interesting excavations of Cyprus. You find the
-place on the road from Pafos to Limassol. Best take the road along the
-sea. You'll pass first the birthplace of Afrodite and then not far from
-Limassol you first see the temple of Apollo and
-the holy street and then the huge archeological park
-of Kourion.
+Kourion is arguably the most dramatic ancient site in Cyprus: a Greco-Roman city perched on clifftops above the sea, with views stretching along the coast toward [Limassol](/asia/cyprus/limassol) to the east. The setting alone is worth the trip.
 
-It is open every day from 8.00 hour. The scenery is fantastic above the sea.
+The site's centerpiece is a restored Hellenistic theatre, still used for open-air performances in summer. Next to it, the House of Eustolios has some of the finest mosaic floors on the island — intricate geometric patterns and a famous inscription welcoming visitors with good fortune. Beyond these headline attractions, there is a great deal more to explore: a Roman forum, early Christian basilica, public baths, and the House of the Gladiators with its well-preserved mosaic of combat scenes.
 
-There is a restaurated theatre and next to it the house of Eustolos
-with wonderful mosaics. Thats what most tourists see, but there is much
-more e.g. the basilca,
-the thermes, the forum and the house of the gladiator. And everywhere
-there are hidingplaces against the sun with seaviews.
+Just outside the main archaeological park, the Sanctuary of Apollo Hylates sits a short drive to the west — a well-preserved temple precinct that predates the city itself. The two sites together make a half-day easily.
 
-**Contributors**
-June 09, 2005
-
-June 10, 2005
+Kourion lies on the coast road between Limassol and [Paphos](/asia/cyprus/paphos), about 14 km west of Limassol. The site is open daily from 08:00. Bring water and sun protection — there is little shade between the ruins, though a few covered rest areas overlook the sea.

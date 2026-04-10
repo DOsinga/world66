@@ -1,8 +1,14 @@
 ---
-title: "Murialdo"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.3166
+longitude: 8.1643
+title: Murialdo
 type: location
-latitude: 44.31658
-longitude: 8.164297
 ---
 
-A commune in the upper valley of the Bormida di Millesimo, it is made up of the villages of Isola Grande, Piano (seat of the municipality), Ponte, Riofreddo and Valle. It was originally a possession of the marchesi di Clavesana of Ceva and the Del Carretto. The parish church of San Lorenzo at Ponte dates from 1445, but was renovated in the baroque era: all that remains of the original construction are a portal with a pointed arch and mullions, the rose window of the Gothic façade in brick and the campanile with a spire and three rows of two-light windows. The ruins of the keep, a long stretch of wall and two gates with pointed arches of the medieval castle of the Del Carretto can be seen at the locality of Costa. Agriculture, the traditional craft of woodworking and a paper mill form the basis of the local economy. The woods are rich in chestnuts and mushrooms.
+Murialdo is a scattered commune in the upper valley of the Bormida di Millesimo, made up of several small villages -- Isola Grande, Piano, Ponte, Riofreddo, and Valle -- connected by narrow roads through chestnut and beech woods.
+
+The parish church of San Lorenzo at Ponte dates from 1445. It was renovated in the baroque era, but the original Gothic facade in brick, with its pointed-arch portal, rose window, and campanile with three rows of two-light windows, survives largely intact. At the locality of Costa, the ruins of a medieval castle of the Del Carretto family include a keep, a long stretch of wall, and two gates with pointed arches.
+
+The surrounding woods are rich in chestnuts and mushrooms, and the local economy still depends on agriculture, woodworking, and forestry. Murialdo is not a destination on its own, but a pleasant stop if you are exploring the inland valleys behind the Ligurian coast.

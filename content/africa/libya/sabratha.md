@@ -1,8 +1,10 @@
 ---
-title: "Sabratha"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 32.805249
 longitude: 12.485202
+title: Sabratha
+type: location
 ---
 
 Sabratha was founded by the Phoenicians as a trading post, grew into a significant Roman port city, and today holds one of the most striking ancient theatres in the world. The three-tiered stage wall — columns rising against a backdrop of sea and sky — is the defining image of Libyan archaeology.

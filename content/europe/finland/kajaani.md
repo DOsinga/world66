@@ -1,8 +1,14 @@
 ---
-title: "Kajaani"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 64.2247
+longitude: 27.7339
+title: Kajaani
 type: location
-latitude: 64.224686
-longitude: 27.733928
 ---
 
-Kajaani, situated on the shore of Lake Oulujärvi, is a pleasant town that still radiates the rural character of the area. Main sights are the the old wooden houses in the town's centre, the Kajaani Art Museum and the ruins of the Kajaani castle. In the wintertime, there are good skiing opportunities in the surrounding area and the town features a popular jazz festival every spring. Elias Lönnrot, the collector of all the folk poetry that eventually became the Finnish national epic, used to reside in Kajaani.
+Kajaani sits on the shore of Lake Oulujarvi in the Kainuu region of eastern Finland, a quiet town that still carries the rural character of the surrounding forests and lakes. It is small enough to walk around in an afternoon but has a few things worth stopping for.
+
+The ruins of Kajaani Castle, on an island in the Kajaaninjoki river rapids, date from 1604 and were destroyed by the Russians in 1716. The old wooden houses in the town centre give it a distinctive feel, and the Kajaani Art Museum is worth a visit. Elias Lonnrot, who collected the folk poetry that became the Kalevala -- the Finnish national epic -- lived and worked here as a district doctor in the 1830s.
+
+In winter, the surrounding area offers good cross-country skiing. In spring, Kajaani hosts a well-regarded jazz festival that draws visitors from across Finland.

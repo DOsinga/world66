@@ -3,4 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Kiffa is pretty spread out for the number of inhabitants. This maybe a result of the fact that most of the people living here would rather still be herding their camels in the immensity of the desert.
+Kiffa is surprisingly spread out for a town of its size. Walking between the market, the main road, and the residential areas takes time in the heat. A taxi or shared ride is the practical option for getting between different parts of town.

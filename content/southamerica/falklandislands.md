@@ -1,21 +1,20 @@
 ---
-title: "Falkland Islands"
+done:
+  country_cleanup: 2026-03-29
+  location_cleanup: '2026-04-08'
+image: falklandislands.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/59222181@N03">Liam
+  Quinn</a>
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sheep_on_Saunders_Island_in_the_Falkland_Islands.jpg
+latitude: -51.7963
+longitude: -59.5236
+title: Falkland Islands
 type: location
-latitude: -51.949294
-longitude: -59.538366
 ---
 
-Falkland (Islas Malvinas) is famous for the war [Argentina](/southamerica/argentina) and the [United Kingdom](/europe/unitedkingdom) had over the islands. Thatcher's iron hand made sure the region is still firmly under British Rule.
+Two large islands and nearly 700 smaller ones sitting in the South Atlantic, roughly 500 kilometres east of Patagonia. The Falkland Islands are a British Overseas Territory with full internal self-government, and the landscape, culture, and accent are unmistakably British — a fact that surprises many first-time visitors. Argentina calls them the Malvinas and still disputes sovereignty; the 1982 war settled the military question but not the political one.
 
+What draws most visitors is the wildlife. Around a million penguins nest here each year across five species, and the islands also support black-browed albatross colonies, elephant seals, sea lions, fur seals, and a regular parade of cetaceans offshore. The landscape is open and spare — rolling peat moorland, quartzite ridges, and vast empty beaches — without the dramatic scenery of Patagonia but with a raw, elemental quality all its own.
 
- More recently the islands were in the spotlights again, this time because of the behaviour their Pinguin inhabitants supposedly showed when jets flew over. Urban legend has it that our feathered friends tumbie and fall when an airplane flies by, because they try to follow the fast bird with their eyes.
-
-
- Apart from pinguins, the falklands have a lot of sheep and rather few inhabitants, less than 5,000.
-
-
- Stanley is the capital of the Falkland Islands and is the usual starting point for visits. It is in many ways like an English village, but with Government House, a Cathedral and a wide range of amenities and services. 
- Stanley has a few historic buildings as well as a fe ships form the days when great sailing ships and early steam vessels called on their journeys around Cape Horn. 
-
-
- From Stanley you can easily visit Cape Pembroke (birdlife, lighthouse), you can make a boat trip around Stanley Harbour - (contact Dave and Carol Eynon, South Atlantic Marine Services Ltd., PO Box 140, Stanley, telephone 21145. E-Mail: sams@horizon.co.fk), or drive to Darwin (Argentine cemetery, the old Darwin cemetery, the memorial to Colonel H Jones, the grave of Flight Lieutenant Nick Taylor and the memorial to the Parachute Regiment.) One of the most southerly suspension bridges in the world, Bodie Creek Bridge, can also be visited.
+The population is about 3,400, concentrated almost entirely in Stanley, the capital, with a handful of farming settlements scattered across the two main islands and the outer islands. The pace of life is slow. People are hospitable and used to travellers turning up, but this is not a destination with tourist infrastructure on any scale. You need to plan ahead, book accommodation early, and accept that things may change at short notice because of the weather.

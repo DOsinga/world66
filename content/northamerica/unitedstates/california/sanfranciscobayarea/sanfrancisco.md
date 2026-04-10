@@ -1,18 +1,16 @@
 ---
-title: "San Francisco"
+done:
+  location_cleanup: 2026-04-04
+latitude: 37.7749
+longitude: -122.4194
+title: San Francisco
 type: location
-latitude: 37.787936
-longitude: -122.40752
 ---
 
-If you're going to San Francisco.... 
+San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for weeks. The fog rolling through the Golden Gate, the pastel Victorians stacked up steep hillsides, the glittering Bay stretching out to Alcatraz -- it all looks like someone designed it for a postcard, except it is real and people actually live here.
 
+The city is compact enough to explore on foot, though your calves will know about it. Each neighborhood has its own personality: the Italian cafes and bookshops of North Beach, the Victorian architecture of Pacific Heights, the murals and taquerias of the Mission, the rainbow flags and energy of the Castro, the old-school counterculture of the Haight. Chinatown is the oldest in North America and still one of the most vibrant. The waterfront runs from the tourist bustle of Fisherman's Wharf to the sleek Ferry Building, where local food producers sell some of the best produce and artisan goods in California.
 
+San Francisco punches well above its weight for food. The city essentially invented California cuisine -- that obsession with seasonal, local, farm-fresh ingredients -- and the restaurant scene ranges from legendary fine dining to Mission burritos that cost less than a coffee. You will eat very well here, possibly better than anywhere else in the country.
 
-
-
-Apart from the attraction San Francisco had in the sixties on the hippies and before those hippies on the Gold searching pioneers, San Francisco still has a lot to offer to the visitor. 
-
-Pier 39 in the Wharf area is one of the culprits of entertainment, shops and culturally interesting sights. Most visiters make sure they pay a visit to the Golden Gate and struggle their way to the top of Telegraph Hill where the elevator is awaiting to take you to the top of the Coit Tower where you can enjoy excellent views of San Fran's impressive skyline. And what about the Chinatown with its tiny shops, wall drawings and excellent restuarants? San Francisco offers a cultural diversity that is reflected in its museums, architecture, art and restaurants. 
-
-The Golden Gate National Recreation Area, nearly twice as large as San Francisco itself, comprises famous sights such as Alcatraz Island that can be easily seen in a daytrip from the city. Besides this, San Francisco's perfect location makes it an ideal city from which to explore and enjoy the West coast of the U.S. with its impressive shores, cities and valleys.
+One thing to know: the weather is not what you expect from California. Summer fog keeps temperatures cool, often in the low 60s, and microclimates mean one neighborhood can be sunny while another is socked in. Bring layers. The warmest months are actually September and October, when the fog retreats and the city basks in its brief Indian summer.

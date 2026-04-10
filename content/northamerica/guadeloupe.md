@@ -1,14 +1,20 @@
 ---
-title: "Guadeloupe"
+done:
+  country_cleanup: 2026-03-29
+  location_cleanup: '2026-04-08'
+image: guadeloupe.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Slaunger" title="User:Slaunger">Kim
+  Hansen</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Fort_Napoléon_des_Saintes_2010-03-30.jpg
+latitude: 16.265
+longitude: -61.551
+title: Guadeloupe
 type: location
 ---
 
-Originally this “Island of beautiful waters” was called Karukera but by Christopher Columbus renamed it in 1493 for Santa Maria de Guadalupe de Estremadura, just before he was driven from the island. 
+Guadeloupe is a French overseas region in the eastern Caribbean, part of the Lesser Antilles archipelago. It sits between Antigua to the north and Dominica to the south, and because it is French territory, it uses the euro, operates under French law, and sends representatives to the French parliament. For visitors, this means good infrastructure, French food culture, and an easier entry process for EU citizens — alongside all the warmth and color of the Caribbean.
 
-Guadalupe is comprises of two large islands, Basse Terre and Grande Terre, and several smaller ones, of which St Martin is shared with the Dutch kingdom. In 1763 the isles came under French rule and they still occupy the island, now mainly as tourists. Pack a French dictionary if you plan a trip here for it’s still a part of France. The people and culture is a harmonious blend of European, African and East Indian origin. 
+The territory consists of six main inhabited islands. The two largest, Basse-Terre and Grande-Terre, are joined at the narrow Rivière Salée strait and form the shape of a butterfly. Basse-Terre, despite its name ("low land"), is the more rugged of the two: it's dominated by the active volcano La Soufrière (1,467m), covered in rainforest, and home to the administrative capital of the same name. Grande-Terre is flatter, drier, and more tourist-oriented, with the main commercial hub of Pointe-à-Pitre and most of the large beach resorts. Beyond these two, the outer islands — Les Saintes, Marie-Galante, and La Désirade — each have their own distinct character and are well worth the short ferry ride.
 
-Guadeloupe is well known for its spectacular beaches, most of which are well sheltered and wonderful for swimming and seaside fun. The natural beaches, range from the surf-brushed dark sands of western Basse-Terre to the long shiny white stretches encircling Grande-Terre. The two islands, separated by the narrow bridged strait of the Rivière Salée, are often seen as the wings of a butterfly, resting on the Caribbean. They’re actually a poor lesson in French for grand Terre to the east is the smaller of the two while Basse Terre has the great La Soufrière volcano.  
-
-[Basse-terre](/northamerica/guadeloupe/basseterre) on Basse-Terre is the administrative capital of Guadeloupe and the department. There are some very pretty and authentic old buildings of the colonial period in the city. There is an 17th-century cathedral and the ruins of Fort Louis Delgrès. Here you’ll also find Saint-Claude, a wealthy suburb and summer resort, surrounded by coffee trees and the most beautiful tropical gardens.  Matouba, north of Saint-Claude, is an East Indian village known for its waterfalls and springs. There are hot springs and a bottling plant for the local mineral water, a bottle of which make an excellent souvenir. 
-
-[Pointe-a-pitre](/northamerica/guadeloupe/pointeapitre) on Grande-Terre is the commercial centre of Guadeloupe near both the airport shipping port. It is a quite compact and functional city. Its early colonial buildings were largely destroyed by an earthquake in 1843 and have been replaced with all kinds of new buildings. Also the Hurricane Hugo did a lot of damage, especially to the trees in the city. This makes the city less coherent ensemble as Basse-Terre is, but it’s all the livelier. The central Place de la Victoire once was the site of the guillotine. It’s the oldest part if town, which is reasonably intact, and it contains the oldest buildings.
+The population is around 400,000, predominantly Creole — people of mixed African, European, and occasionally East Indian descent. French is the official language but Guadeloupean Creole, a French-lexified language with African and Amerindian roots, is widely spoken in everyday life. The culture blends French structure with Caribbean spirit: markets, festivals, rum, and music are central to daily life.

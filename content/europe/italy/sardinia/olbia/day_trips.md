@@ -1,6 +1,8 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+  - europe/italy/sardinia/lamaddelena
 ---
 
 The **Maddalena Archipelago**, accessible by ferry from Palau (40km north), is one of the most beautiful stretches of coast in the Mediterranean: a national park of small granite islands with clear turquoise water. La Maddalena and Caprera are the main islands.

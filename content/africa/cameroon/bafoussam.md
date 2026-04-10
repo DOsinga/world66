@@ -1,10 +1,12 @@
 ---
-title: "Bafoussam"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 5.4759
+longitude: 10.4218
+title: Bafoussam
 type: location
-latitude: 5.475884
-longitude: 10.421785
 ---
 
-Bafoussam is located some 250 km northeast of [Douala](/africa/cameroon/douala) . This nice laid back city is the main center of the Bamileke tribe. The main attractions include the colorful markets offering beautiful Bamileke wood carvings. 
+Bafoussam is the capital of the West Region of Cameroon and the cultural centre of the Bamiléké people, about 250 kilometres northeast of [Douala](/africa/cameroon/douala). The highland setting at around 1,400 metres makes the climate noticeably cooler than the coast.
 
-Bafoussam is a good base for visiting [Foumban](/africa/cameroon/foumban) . A daytrip can be made to Bafut as well. In Bafut there is a nice castle woth visiting.
+The city's main draw is its market — one of the liveliest in western Cameroon — where you will find Bamiléké wood carvings, beadwork, and textiles alongside everyday produce. Bafoussam makes a good base for visiting [Foumban](/africa/cameroon/foumban), with its sultan's palace and artisan quarter, and the traditional chiefdom of Bafut further north.

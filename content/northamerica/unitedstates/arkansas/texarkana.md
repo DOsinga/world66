@@ -1,10 +1,12 @@
 ---
-title: "Texarkana"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 33.4467
+longitude: -94.0771
+title: Texarkana
 type: location
-latitude: 33.446675
-longitude: -94.077148
 ---
 
-Texarkana is twice as nice! Located on the border of Texas and Arkansas, Texarkana is composed of two cities with the same name. The Texarkana cities are uniquely connected by a man made line, State Line Avenue, which runs through the center of downtown Texarkana. Visit the only post office in the US sitting in two different states.
+Texarkana straddles the border of Texas and Arkansas — literally. State Line Avenue runs through downtown, and you can stand with one foot in each state. The federal courthouse and post office sits directly on the line, making it the only one in the country in two states at once. The novelty is genuine fun, and the photo opportunity at the state line marker is obligatory.
 
-Minor corrections by [giorgio](/world/member/giorgio) on 14 December 04
+Beyond the border gimmick, Texarkana is a modest Southern city with a few draws. The Perot Theatre, a beautifully restored 1924 movie palace, hosts touring shows. The city is also the birthplace of Scott Joplin, and a mural downtown commemorates the ragtime composer.

@@ -1,6 +1,12 @@
 ---
-title: "Getting There"
-type: location
+done:
+  location_cleanup: '2026-04-10'
+title: Getting There
+type: section
 ---
 
-By Air Aer Rianta Aer Lingus - providing services to and from Ireland. Ryanair Cork Airport - offers flight information, maps, news, and more. Shannon Airport - find real-time flight information, maps to the airport, and much more. British Airways    By Ferry Swansea Cork Ferries    By Bus Bus Éireann    By Train Iarnród Éireann      Tour Operators  S.A.Y.I.T Student and youth International travel : Travel Agents
+Cork is well connected by air, sea, and land. Cork Airport, about eight kilometres south of the city centre, has direct flights to London, Amsterdam, and several other European cities on Aer Lingus and Ryanair. Bus and taxi connections from the airport to the centre take about twenty minutes.
+
+By ferry, services from Roscoff in France dock at Ringaskiddy, about fifteen kilometres southeast of the city. The Swansea–Cork ferry offers a direct link to Wales.
+
+By train, Iarnród Éireann runs regular services from Dublin Heuston to Cork Kent Station, taking about two and a half hours. Bus Éireann operates frequent coach services from Dublin, Limerick, Galway, and Waterford.

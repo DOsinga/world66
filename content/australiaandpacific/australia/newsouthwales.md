@@ -1,24 +1,18 @@
 ---
-title: "New South Wales"
+done:
+  location_cleanup: 2026-04-04
+latitude: -32.1633
+longitude: 147.0166
+title: New South Wales
 type: location
-latitude: -31.875984
-longitude: 147.286949
 ---
 
-New South Wales is the most populous state in Australia and home to [Sydney](/australiaandpacific/australia/newsouthwales/sydney) — the country's largest city and, for most international visitors, the first point of arrival. The state stretches from the subtropical coast north of Sydney to the alpine country in the south, across the western plains and into genuine outback.
+New South Wales is Australia's most populous state and the one most visitors see first. Sydney, its capital, is one of the great cities of the Southern Hemisphere, but the state has far more to offer than its famous harbour. From the subtropical beaches of Byron Bay in the north to the snow-capped peaks of the Kosciuszko range in the south, NSW packs a remarkable range of landscapes into a single state.
 
-Sydney anchors the state and dominates its identity. The Opera House, the Harbour Bridge, the ferries crossing the harbour at rush hour — all of it lives up to the reputation. Beyond the city, the eastern suburbs have some of the country's best beaches: Bondi, Tamarama, Coogee, and Manly are all accessible by public transport. The coastal walk from Bondi to Coogee is one of the finest urban walks in the world.
+The coastline runs for over 2,000 kilometres and it is, frankly, spectacular. The northern beaches around Byron Bay and Coffs Harbour draw surfers from around the world. The South Coast from Jervis Bay down to Eden is quieter and just as beautiful, with white sand beaches backed by eucalyptus forest. In between, Sydney's own beaches -- Bondi, Manly, Bronte -- are iconic for good reason.
 
-An hour west of Sydney, the Blue Mountains National Park drops dramatically into forested valleys. The Three Sisters at Katoomba is the famous viewpoint, but the walking tracks that descend into the gorges below are the real attraction — ancient eucalyptus forest, sandstone cliffs, and waterfalls. The towns of Leura and Katoomba have good cafes and places to stay.
+Inland, the Blue Mountains rise dramatically just ninety minutes west of Sydney, offering bushwalking, canyon scenery and the famous Three Sisters rock formation. Further west, the landscape opens into rolling farmland, the wine country of the Hunter Valley, and eventually the vast, dry outback around Broken Hill, which feels like a different continent entirely.
 
-The Snowy Mountains, in the Kosciuszko National Park in the state's southeast, contain Australia's highest peak (Mount Kosciuszko, 2,228 m) and the country's main ski resorts — Thredbo and Perisher. The ski season runs June to September. In summer, the high country has excellent alpine hiking and mountain biking.
+NSW has a well-developed food and wine culture. The Hunter Valley is Australia's oldest wine region. Sydney is one of the best eating cities in the Asia-Pacific. Even smaller towns like Orange and Mudgee have developed serious food scenes in recent years.
 
-The north coast of NSW — Byron Bay in particular — is a magnet for surfers, yoga retreats, and travellers who overstay a night or two and end up staying for weeks. Byron is at the easternmost point of the Australian mainland; the lighthouse walk at dawn has become a classic sunrise experience.
-
-The Hunter Valley, two hours north of Sydney, is NSW's most famous wine region. Semillon is the signature white; Shiraz and Cabernet are produced here too. Most cellar doors open daily.
-
-## Destinations in New South Wales
-
-[Sydney](/australiaandpacific/australia/newsouthwales/sydney)
-[Byron Bay](/australiaandpacific/australia/newsouthwales/byronbay)
-[Broken Hill](/australiaandpacific/australia/newsouthwales/brokenhill)
+Getting around is straightforward along the coast, where highways and rail lines connect the major towns. The further inland you go, the more you will want your own car. Sydney's airport handles most international arrivals to Australia, making NSW the natural starting point for any trip.

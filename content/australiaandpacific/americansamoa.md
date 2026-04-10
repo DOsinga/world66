@@ -1,40 +1,24 @@
 ---
-title: "American Samoa"
-type: location
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: americansamoa.jpg
+image_attribution: <a href="https://en.wikipedia.org/wiki/User:Marshman" class="extiw"
+  title="en:User:Marshman">Eric Guinther</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Fagatogo_Dock.jpg
 latitude: -14.297124
 longitude: -170.713148
+title: American Samoa
+type: location
 ---
 
-American Samoa consists of seven islands in the Pacific. While
+American Samoa is a small U.S. territory in the South Pacific — seven islands scattered between the equator and the Tropic of Capricorn, about halfway between Hawaii and New Zealand. It's remote, genuinely beautiful, and almost entirely off the tourist trail.
 
-[Western Samoa](/australiaandpacific/westernsamoa) is a independent country, American Samoa is part of the United States.
+Most visitors fly into Tutuila, the main island, where the capital Pago Pago sits inside one of the finest natural harbors in the Pacific. The harbor is a drowned volcanic caldera, ringed by steep green ridges that drop almost straight into the sea. It's dramatic and a little ragged — this is not a polished resort destination.
 
-The volcanic island of
+The islands are Polynesian in culture, American in governance, and neither quite fits the other. Samoan culture — fa'a Samoa — shapes daily life. Extended family, village hierarchy, church, and tradition carry real weight. Visitors who respect this find the place genuinely welcoming.
 
-[Tutuila](/australiaandpacific/americansamoa/tutuila) is the largest of the seven islands that comprise American Samoa.
+The main draw for travelers is the National Park of American Samoa, which protects rainforest, coral reef, and fruit bat habitat across Tutuila, Ofu, and Ta'u. The park is unusual: there are no entrance fees, very few facilities, and almost no other tourists. The snorkeling off Ofu Island is among the best in the Pacific.
 
-Pago Pago
-
-Harbor, a collapsed volcanic caldera is one of the largest natural harbors in the South Pacific. It cuts deeply into the south-central coast almost dividing the island in two.
-
-From east to west, a steep mountainous spine runs the 20-mile length of the island, punctuated in places by notable summits including Matafao Peak, Tutuila's tallest mountain at 2,142 feet; North Pioa Mountain, popularly known as Rainmaker Mountain, 1,718; and Mount 'Alava, the steep ridgeline looming to the north of Pago Pago Harbor, marking the south boundary of the park area.
-
-About one mile southeast of Tutuila's eastern tip is the volcanic island of
-
-Aunuu
-
-the smallest of the inhabited islands; it can be reached by boat and explored by foot in a day. After you visit the National Park, visits to the east and west ends of the island will reveal more island and ocean scenery and insights into Samoan culture.
-
-The Manu'a Island group includes the volcanic islands of
-
-[Ofu](/australiaandpacific/americansamoa/ofu) and
-
-Olosega
-
-(joined by a bridge), and
-
-Tau
-
-. These islands lie 60 miles east (a 30-minute flight on a small plane) from Tutuila; flights are available between Ofu and Ta'u. These islands are sparsely populated - each village has only a few hundred people.
-
-The National Park area on Ofu includes sand beach and coral reef with a mountain backdrop. There is also and excellent view of Lata Mountain (3,170 feet) on Ta'u, the tallest peak in American Samoa.
+The Manu'a Islands — Ofu, Olosega, and Ta'u — lie 60 miles east of Tutuila, a 30-minute flight on a small plane. They are sparsely populated and feel genuinely remote. Ta'u's Lata Mountain, at 3,170 feet the highest peak in American Samoa, rises out of dense cloud forest above sheer sea cliffs.

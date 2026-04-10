@@ -2,8 +2,6 @@ europe/germany/bavaria/schleissheim
 asia/iran/sareyn
 asia/cyprus/nicosia/cybercafs/gspot_gaming_cafe
 asia/japan/ryukyuislands/okinawaisland/okinawa_island
-asia/india/tamilnadu/kovilpatti/instittution_1
-asia/india/tamilnadu/kovilpatti/instittution
 europe/unitedkingdom/wales/machynlleth
 europe/unitedkingdom/manisleof/laxey
 europe/belgium/charleroi/internetcafs

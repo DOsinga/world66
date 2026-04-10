@@ -1,8 +1,10 @@
 ---
-title: "Cahuita"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 9.7375
 longitude: -82.8387
+title: Cahuita
+type: location
 ---
 
 Cahuita is a predominently Afro-Caribbean community in the region of Talamanca. Set on the Caribbean coast it is a fairly quiet village which borders with one of Costa Rica's nicest National Parks. 

@@ -1,16 +1,6 @@
 ---
-title: "Bars and Cafes in Torreon"
+title: Bars and Cafes
 type: section
 ---
 
-ZONA CENTRO
-a few bars got united to offers Torreón nightlife more attractive.
-
-Marioneta Café Bar
-Legmu
-Casa Azul
-Casa Vieja
-Noba
-... and more to come offer you a better experience.
-all these bars have live music, fair prices and very good ambience.
-come and see us !
+The Zona Centro has a cluster of bars and cafes that give Torreón's nightlife a lively character on weekends. Most offer live music, reasonable prices, and a good atmosphere.

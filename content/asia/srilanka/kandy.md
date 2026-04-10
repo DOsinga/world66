@@ -1,14 +1,14 @@
 ---
-title: "Kandy"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 7.293121
 longitude: 80.635036
+title: Kandy
+type: location
 ---
 
-Kandy, the second largest city in Sri Lanka lies 2hrs30 mins north east of the capital Colombo. Whilst not as polluted and hectic as Columbo, Kandy is still a bustling city, albeit with a small town feel. A large lake dominates the centre of the city while Sri Lanka's famous Temple of the Tooth sits noisily alongside. If you're staying near the temple, be prepared to be woken up with buddha prayers through [very] loudspeakers at 12am, 4am and 7am on a bad day. All very amusing, and strangely endearing though! 
+Kandy is Sri Lanka's second city and its spiritual heart — a compact, hilly place set around an artificial lake, with the famous Temple of the Tooth Relic sitting right at the water's edge. It was the last capital of the Sinhalese kings before the British arrived in 1815, and that royal history gives it a weight that Colombo, for all its size, lacks. The surrounding hill country is strikingly beautiful: green, cool, and layered with tea plantations.
 
+The Temple of the Tooth (Sri Dalada Maligawa) is the city's defining sight and one of the most sacred Buddhist temples in the world. The tooth — a relic of the Buddha — is housed here under heavy guard and brought out for veneration during puja ceremonies three times daily. If you're staying nearby, expect to be woken at midnight, 4am, and 7am by devotional drumming and chanting through loudspeakers — authentic, unavoidable, and strangely moving once you adjust to it.
 
-
-There are good places to stay and Kandy makes a great base for exploring the hill country. If you are looking for comparative luxury Helga's Folly ($100 per night) makes a more than pleasant retreat for those looking to escape the guest house trail.. Nestled in the hills overlooking the lake and tucked away from the noisy temple, this eccentric, laid back hotel offers western comfort, with an eastern flavourand a 30s style ambient cocktail lounge, complete with gramophone and walls heavily adorned with pictures of famous characters and fashoin icons. If budgets won't streatch to $100 pn this area of town offers many cheap alternatives with superb traditonal Sri Lankan food. 
-
-It's pleaseant enough, but Kandy doesn't have a great deal to offer and a couple of days should keep most people happy, and those who have ventured this far must be looking for more. From Kandy, you can easily reach many areas of interest, such as Ella, Nuwara Eliya and Sigiriya and more.
+Kandy makes an excellent base for the surrounding region. Two or three days in the city is enough for most visitors: walk around the lake, visit the temple, wander the market streets behind the bus stand, and take in the Kandyan dance performance held most evenings. From here you can reach [Pinnawela](/asia/srilanka/pinnawela) and the Elephant Orphanage, the cave temples at [Dambulla](/asia/srilanka/dambulla), and Sigiriya's rock fortress — all within a few hours. The scenic train journey east through the hills toward [Ella](/asia/srilanka/ella) is one of the finest rail rides in Asia and well worth doing slowly.

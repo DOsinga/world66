@@ -1,16 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-08'
-latitude: 53.76
-longitude: -1.97
+latitude: 53.7
+longitude: -2.0
 title: South Pennines
 type: location
 ---
 
-The South Pennines is a landscape of steep-sided valleys, exposed moorland, and old textile mill towns straddling the border between West Yorkshire and Lancashire. The remains of the once-dominant wool and cotton industries — ruined mills, weaving sheds, stone-built terraces — merge into the surrounding hills in a way that is both atmospheric and distinctly northern English.
+The South Pennines is a landscape where the ruins of the textile industry — cotton around Todmorden, wool everywhere else — dissolve into steep moorland valleys and mill-side streams. Spanning the municipal boroughs of Bradford, Calderdale and Kirklees in West Yorkshire, it feels like a place caught between eras: handsome stone towns, derelict mill towers, and some of the best walking in northern England.
 
-[Hebden Bridge](/europe/unitedkingdom/england/leeds_sheffield_a/hebden_bridge) is the best base. Once a declining mill town, it reinvented itself as an artistic and alternative community and has good cafes, bookshops, and pubs. Nearby Hardcastle Crags, where two wooded valleys meet, is one of the finest walking spots in the region — a National Trust site centred on Gibson Mill, a restored watermill deep in the trees.
+[Hebden Bridge](/europe/unitedkingdom/england/leeds_sheffield_a/hebden_bridge) is the most visited town in the area and worth the attention. The valley at Hardcastle Crags just above it — where two rivers meet in woodland owned by the National Trust — offers excellent walking without much effort. Gibson Mill at its heart was one of the first mills to switch from water to steam power, and has been restored as a visitor centre.
 
-Haworth draws visitors for its Brontë connections. The Parsonage Museum, where Charlotte, Emily, and Anne grew up, is still worth visiting despite the coach-party crowds. The surrounding moors are the real attraction — the landscape that inspired Wuthering Heights is bleak, beautiful, and largely unchanged.
+[Haworth](/europe/unitedkingdom/england/leeds_sheffield_a/bradford) is Brontë country: the parsonage where the sisters lived is now a museum and still draws literary pilgrims despite the gift-shop overlay around it. [Todmorden](/europe/unitedkingdom/england/leeds_sheffield_a/todmorden) and Ripponden are quieter and more workaday, but both have mill ruins worth poking around. The Rochdale Canal runs through the region and makes for good towpath walking along the valley floors.
 
-Todmorden sits at the Lancashire end of the Calder Valley, with good walks up into the surrounding hills and the remnants of cotton mills along the smaller valleys. The Rochdale Canal, reopened for leisure traffic, threads through the area. Ripponden, further east, is a quieter base with a cluster of old pubs.
+The old Industrial Museum in Halifax, just outside the area's boundary, is one of the best museums of its kind in England.

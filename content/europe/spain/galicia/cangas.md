@@ -1,11 +1,16 @@
 ---
-title: "Cangas"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.277908
 longitude: -8.789634
+title: Cangas
+type: location
 ---
 
-Cangas, sea and mountains blend in this municipality where different natural landscapes are portrayed. Fishing and agriculture, and several industries related to both sectors, are the main sources of income for Cangas' inhabitants, who have the privilege to possess some unsurpassable locations, such as beaches, soft hills and an uneven coastline. The village was founded by the Hellenes, and it is situated at an inlet at the bottom of the ría bearing its name. As centuries have gone by, numerous peoples have left their trace on its streets. The visitor who gets to Cangas looking for beaches will be surprised because of having discovered this landscape with beaches for everybody. There are almost 40 beaches only in the council, each of them with a singular beauty. Depending on the visitor's demand, he can choose, at the entrance of Cangas coming from Vigo, the beach of Rodeira, one of the biggest ones and with the best access. In Hío we have the sandy areas of Nerga and Barra, with transparent water and beautiful views of the Cíes Islands. The beach of Barra is the paradise for the nudists in the northern coast of Galicia, with total calmness, because cars cannot get there, so you have to walk for about a kilometre across a pinewood. But if you prefer to enjoy the wild water you will have to get to the beach of Melide, in the area of Cabo Home, surrounded by two lighthouses and with the Cíes Islands very close to it.
+Cangas sits at the mouth of the Ría de Vigo, a short ferry ride from the city but a world apart in pace and feel. Fishing boats work the harbor, granite hills roll behind the town, and nearly 40 beaches are scattered across the municipality — from busy family strands to wild, car-free coves that take a walk through a pine forest to reach.
 
-**Contributors**
-March 09, 2005
+The beach of Rodeira, just at the entrance to town, is the easiest: wide, well-serviced, and good for families. Head out to Hío on the western tip of the peninsula and the mood changes entirely — Nerga and Barra face the open Atlantic with transparent water and views straight out to the Cíes Islands. Barra is the nudist beach of choice for northern Galicia, reachable only on foot through the pines, which keeps it calm and genuinely beautiful. At Cabo Home, the beach of Melide sits between two lighthouses with the Cíes Islands close enough to feel like you could swim there.
+
+The town itself rewards a wander. Cangas has been settled since ancient times — the Romans were here, and before them others — and its old streets have a weathered, lived-in quality that Vigo, just across the water, has largely lost to development. Come on market day and the waterfront fills up with stalls and locals.
+
+The ferry from Vigo takes about 30 minutes and runs frequently; it's the nicest way to arrive. From Cangas you can also reach [Vigo](/europe/spain/galicia/vigo) and the [Cíes Islands](/europe/spain/galicia/vigo/cies_islands) by boat in summer.

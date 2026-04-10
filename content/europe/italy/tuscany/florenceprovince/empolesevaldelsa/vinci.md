@@ -1,17 +1,14 @@
 ---
-title: "Vinci"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.7874
+longitude: 10.9271
+title: Vinci
 type: location
-latitude: 43.787397
-longitude: 10.927105
 ---
 
-The town is situated on the slopes of Montalbano, surrounded by an agricultural landscape which has remained unaltered since the last century and the system of share cropping has allowed it to remain virtually intact until the present day, with agricultural production traditionally based on Chianti wine and extra-virgin olive oil.
+Vinci is a small hilltop town in the Empolese Valdelsa, about 40 kilometres west of Florence, and it owes its fame entirely to one man: Leonardo da Vinci was born here on 15 April 1452. The town has embraced this legacy with two dedicated museums — one in the medieval castle, one at the actual farmhouse where he was born — and together they make a compelling half-day stop for anyone traveling between Florence and Pisa or Lucca.
 
+Beyond Leonardo, Vinci sits on the southern slopes of Montalbano, a forested ridge that separates the Arno valley from the Valdinievole. The agricultural landscape around the town has changed little in centuries: terraced olive groves, Chianti vineyards, and small hilltop villages connected by a network of footpaths and cycle tracks. Path 14, known as the Strada Verde, runs from the town center up to Leonardo's birthplace in about an hour's walk through the olive trees — a genuinely pleasant way to link the two museums.
 
- 
- 
- In this context there is a widespread network of footpaths and cycle paths which can be used to reach hillside villages surrounded by dense vegetation, archaeological sites, ancient woods such as the ilex wood of Pietramarina. Some of the itineraries start directly from Vinci. Path number 14, with the first part called Strada Verde (1hour round trip), takes you to the Casa natale di Leonardo (Birthplace of Leonardo).
-
-
- 
- Modern day Vinci is still dominated by the primitive construction of the Castle of the Guidi Counts, dating
+The town itself is compact and easy to explore on foot. The Castello dei Conti Guidi dominates the center, its medieval tower visible from the valley below. Around it, the streets are quiet and unpretentious — this is not a tourist trap, and most visitors come for the morning, see the museums, eat lunch, and leave. That's a reasonable plan. If you want to stay longer, the footpath network gives you reason to.

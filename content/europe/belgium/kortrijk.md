@@ -1,16 +1,14 @@
 ---
-title: "Kortrijk"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 50.8276
+longitude: 3.266
+title: Kortrijk
 type: location
-latitude: 50.827643
-longitude: 3.265988
 ---
 
-Kortrijk (Courtrai in English and French) is the cultural, social and economic centre of an agglomeration of more than 300,000 inhabitants. Courtrai is a city on the Leie River. Its most famous moment in history was the Battle of the Golden Spurs, when a peasant militia scored a victory against an army of heavily armed French nobility. Due to this victory Flandern became independant from the dominion of the French King Louis IVX. 
+Kortrijk — known as Courtrai in French — is a compact Flemish city on the Leie River, about 40 kilometres southwest of [Ghent](/europe/belgium/ghent) and close to the French border. It punches above its weight: for a city of around 80,000 people, its historic centre is remarkably well-preserved, with medieval towers, a beautiful béguinage, and a fine Gothic church still anchoring daily life.
 
-Courtrai was well-known for its textiles, especially its linen. 
+The city's most famous moment came in 1302, when a Flemish peasant militia routed a French cavalry force at the Battle of the Golden Spurs — one of the great upsets of medieval warfare, celebrated ever since as a symbol of Flemish identity. For centuries Kortrijk was also known for its linen, grown from flax retted in the Leie and woven into cloth that went out across Europe. The textile tradition has given way to design and technology industries, but the river and the old core retain their character.
 
-Courtrai lies at the junction of many important roads (E17, A17, A19) and railways, and can also be reached from the regional airport.
-
-The Kortrijk University and many schools of all levers are attended by over 25,000 pupils and students.
-
-Moreover, dynamic Kortrijk is also famous for the hospitality of its inhabitants.
+It is not a major tourist destination, and that is part of its appeal. The crowds that descend on [Bruges](/europe/belgium/bruges) are nowhere to be seen here. Kortrijk rewards a half-day or full day from Bruges or [Ghent](/europe/belgium/ghent), or an overnight stop for those exploring Flemish Belgium slowly.

@@ -1,8 +1,10 @@
 ---
-title: "Khankendi (Stepanakert)"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 39.818218
 longitude: 46.751063
+title: Khankendi (Stepanakert)
+type: location
 ---
 
 Khankendi — known as Stepanakert during the period of Armenian administration — is the largest city in the Karabakh region, situated in a valley at around 850 metres. It served as the capital of the self-declared Republic of Artsakh from 1991 until Azerbaijan reasserted full control in September 2023, when the Armenian population departed almost entirely within days of the Azerbaijani offensive.

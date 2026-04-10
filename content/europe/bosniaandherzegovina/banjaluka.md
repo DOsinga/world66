@@ -1,10 +1,10 @@
 ---
-title: "Banja luka"
+title: "Banja Luka"
 type: location
+latitude: 44.773
+longitude: 17.196
+done:
+  location_cleanup: '2026-04-10'
 ---
 
-We currently have no information about Banja luka.
-
-If you do know any general information about Banja luka, please [Edit this article].
-
-If you know any hotels in Banja luka or restaurants in Banja luka, please [[Add].](/destinations/addItemWizard?addwhere=europe/bosniaandherzegovina/banjaluka)
+Banja Luka is the second-largest city in Bosnia and Herzegovina and the administrative centre of Republika Srpska, located on the Vrbas River in the north of the country. The city has a pleasant riverside character, with cafes and parks along the Vrbas and a lively pedestrian centre. The Kastel fortress overlooks the river from a rocky promontory, and the old Ottoman-era mosque (Ferhadija Mosque) — destroyed in the 1990s war and rebuilt — is an important landmark. Banja Luka is also a gateway to rafting on the Vrbas canyon upstream.

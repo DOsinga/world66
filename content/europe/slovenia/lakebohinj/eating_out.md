@@ -1,13 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Jaka KUSTERLE4267 SREDNJA VAS V BOHINJU 87"
-phone: "++ 386 4 572 34 01"
-url: "www.apartmajikatrnjek.com"
 ---
 
-### Restaurant Rupa
-
-Bear right at the junction at the foot of the lake, carry on through
-stunning villages for 2-3km and it will be there on your left. I defy
-anyone to find better value or quality anywhere else in the country.
+The villages around Lake Bohinj have a handful of restaurants and gostilne (inns) serving hearty Slovenian food — štruklji (rolled dumplings), žlikrofi (stuffed pasta), and grilled trout from local streams. Quality is generally high and prices are reasonable by Alpine standards.

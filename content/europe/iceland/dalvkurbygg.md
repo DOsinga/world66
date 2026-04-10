@@ -1,16 +1,14 @@
 ---
-title: "Dalvíkurbyggð"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 65.893406
 longitude: -18.563879
+title: Dalvíkurbyggð
+type: location
 ---
 
-Travel Guide
+Dalvíkurbyggð is a small municipality on the western shore of Eyjafjörður, northern Iceland's largest fjord. The main town of Dalvík (population around 2,000) is a working fishing port that serves as the departure point for the ferry to Grímsey — Iceland's northernmost inhabited island, sitting right on the Arctic Circle.
 
-The community of Dalvíkurbyggð was formed in 1998 by the merger of three districts of the outer Eyjafjörður: the town of Dalvík and the rural districts of Svarfaðardalur and Árskógur. The logo of Dalvík shows three mountains, signifying the merger of the three communities.
+The area is a good base for exploring the Tröllaskagi peninsula, one of Iceland's most scenic coastal stretches with dramatic mountain passes and remote fjords. Dalvík itself hosts the annual Fiskidagurinn mikli (Great Fish Day) festival in August, where the town's entire catch is grilled and served free. Whale watching tours operate from nearby Hauganes.
 
-The population of Dalvík is nearly 2.000. The local economy is mostly based upon the fisheries and fish processing, in addition to various industrial and food enterprises, services, commerce and trade. Dalvík harbour is a large fishing and commercial port; the ferry Sæfari, wich sails from Dalvík, serves the island of Grímsey, Iceland's northenmost community, wich lies on the Arctic Circle.
-
-Árskógsströnd comprises the villages of Hauganes and Árskógssandur, each with a population of under 200. Fishing and fish processing are the main occupations. The ferry Sæfari plies between Árskógssandur and the island of Hrísey, out in the middle of the fjord, known as "the pearl of Eyjafjörður".
-
-The farmers of the Svarfaðardalur valley and Árskógsströnd are mainly engaged in dairy farming, while sheep husbandry has declined. Horses are kept by both farmers and towndwellers. Other branches of agriculture include fur farming. Farmhouse holidays and other tourist services play a growing role in the rural areas of Dalvíkurbyggð.
+From Árskógssandur, a short drive south, a ferry crosses to Hrísey, a small island in the middle of the fjord known for its birdlife and tranquility. The Svarfaðardalur valley inland offers horseback riding and farmhouse accommodation.

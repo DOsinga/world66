@@ -1,32 +1,14 @@
 ---
-title: "Samcheunpo"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 34.9314
+longitude: 128.0683
+title: Samcheunpo
 type: location
 ---
 
-Travel Guide
+Samcheunpo (now part of Sacheon City) is a small port town on the southern coast of South Korea, tucked between high rocky cliffs. Its residents used to boast of living in "the smallest city in Korea" — the city with the bare minimum population to qualify as such.
 
-Samcheunpo is a lovely but very small city on the southern coast of
-South Korea. It is so small, in fact, that it's residents boast
-of being "the smallest city in Korea" - that is, the city with the
-minimum possible residents to be considered a city, and not a
-town.
+Small public beaches are nestled between the cliffs along the coast. The water is warm in summer, though the inlets are shallow and you may need to wade out quite a way. The real draw for visitors is the Dinosaur Park Beach, where genuine fossilized dinosaur footprints are embedded in the shoreline rocks — both the clawed tracks of predators and the round, heavy prints of herbivores. A boardwalk wraps around the cliffs, and the site draws families for swimming, picnicking, and fossil-spotting.
 
-There are many small public beaches nestled between the high rock
-cliffs of the coast. The water is quite warm in the summer,
-although the inlets are very shallow, so you may have to wade out quite
-a bit to get in deeper than your waist. Most of the beaches
-feature banana boat or jetski rides and plenty of rentable amenities.
-
-Perhaps the most interesting jewel of this city for the traveller
-interested in rare finds is the Dinosaur Park Beach. Many
-families come to this attractive place to swim, picnic, and walk along
-the boardwalk that wraps around the beautiful cliffs. What makes
-this place so special, however, is that embedded in the rocks along the
-shore are several real dinosaur footprints! You can see both the
-clawed footprints of predators as well as the round, plodding steps of
-herbivores winding their way across the land. Wherever the land
-was when the prints were made, they are right at the water's edge now,
-and constantly lapped by the tides, so they may not be there for much
-longer.
-
-The rest of the city has many fine seafood restaurants and several inexpensive but comfortable hotels and bars.
+The town has good seafood restaurants serving the day's catch, and a handful of inexpensive, comfortable places to stay.

@@ -1,8 +1,10 @@
 ---
-title: "Lubumbashi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -11.6647
 longitude: 27.4794
+title: Lubumbashi
+type: location
 ---
 
 Located some 1,500 km southeast of [Kinshasa](/africa/congokinshasa/kinshasa), Lubumbashi is the DRC's second city and the capital of the copper-rich Katanga region. It sits close to the [Zambian](/africa/zambia) border, and in many ways feels closer to southern Africa than to the rest of the Congo. The city is relatively compact, with tree-lined avenues, colonial-era buildings, and a more orderly feel than the capital.

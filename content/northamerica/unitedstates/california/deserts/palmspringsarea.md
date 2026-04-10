@@ -1,12 +1,14 @@
 ---
-title: "Palm Springs Area"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 33.8303
+longitude: -116.5453
+title: Palm Springs Area
 type: location
-latitude: 32.863171
-longitude: -116.227168
 ---
 
-Passionate golfers, tennis buffs, and sun seekers throng to the Desert Resorts of the Coachella Valley, where plush resort playgrounds line up along the base of the stunning San Jacinto Mountains. Havens for rest and relaxation include Palm Springs, Palm Desert, Cathedral City, Desert Hot Springs, Indian Wells, La Quinta, Rancho Mirage, and Indio, the Date Capital of the World.
- After browsing the elegant shops of Palm Desert and Palm Springs, visit the Palm Springs Desert Museum-you'll find Western art and Native American artifacts. Palm Desert's Living Desert Wild Animal Park and Botanical Gardens offers 1,200 acres of native desert plants and wildlife. Get a splendid view of the valley on the Palm Springs Aerial Tramway, a 14-minute ride up 10,800-foot Mt. San Jacinto to the pines and cool mountain air.
+The Palm Springs area stretches across the Coachella Valley at the base of the San Jacinto Mountains — a string of desert cities including Palm Springs, Palm Desert, Cathedral City, Indian Wells, La Quinta, and Rancho Mirage. Golf courses, mid-century modern architecture, and year-round sunshine are the main draws.
 
+The Palm Springs Aerial Tramway is the single best thing to do here: a 14-minute ride from the desert floor to the top of Mount San Jacinto at 2,600 metres, where you step from 40-degree heat into pine forest and cool mountain air. The Indian Canyons, just minutes from downtown Palm Springs, are a surprising oasis of California fan palms — the ancestral home of the Agua Caliente band of Cahuilla Indians. The Living Desert Zoo and Gardens in Palm Desert is excellent for understanding the desert ecosystem.
 
- For a closer look at desert life, take a walk into the Indian Canyons with a desert guide and naturalist. The oasis is the ancestral home of the Agua Caliente band of Cahuilla Indians. Just minutes from downtown Palm Springs, this beautiful, cool forest of California fan palms is the largest natural desert oasis in the world with over 3,000 native palms. Learn about the life cycle of the palm, Indian life in the canyon and see desert wildlife. Guided walks and hikes vary from easy to strenuous and are available year round.
+The area's mid-century modern architecture — all low-slung rooflines, glass walls, and kidney-shaped pools — has become a major draw in itself, with tours and an annual Modernism Week in February. The Coachella Valley Music Festival, held in Indio each April, brings a very different kind of crowd.

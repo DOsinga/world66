@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-Casa del Desierto (Harvey House)
-
-685 N. 1st St. 92311 760/256-3531 
-
-Mojave River Valley Museum
-
-270 E. Virginia Way 92311 760/256-5452
+Barstow's attractions are a mix of desert landscapes and the town's railroad heritage. The surrounding Mojave offers dramatic geology and wide-open spaces, while the town itself preserves traces of the Route 66 era.

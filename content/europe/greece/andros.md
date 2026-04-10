@@ -1,10 +1,12 @@
 ---
-title: "Andros"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.840835
 longitude: 24.862382
+title: Andros
+type: location
 ---
 
-Travel Guide
+Andros is the northernmost and second-largest island of the Cyclades, but it feels nothing like its famous neighbours. Where Mykonos and Santorini draw crowds, Andros is green, mountainous, and relatively quiet — an island of stone-walled footpaths, spring-fed valleys, and Venetian dovecotes scattered across the hillsides.
 
-**Andros**, or **Andro** (Greek: Άνδρος) is the northernmost island of the Greek Cyclades archipelago, approximately 10 km (6 mi) south east of Euboea, and about 3 km (2 mi) north of Tinos. It is nearly 40 km (25 mi) long, and its greatest breadth is 16 km (10 mi). Its surface is for the most part mountainous, with many fruitful and well-watered valleys. The area is 380 km2 (147 sq mi). The largest towns are Andros (town), Gávrio, Bátsi, and Órmos Korthíou.
+The main town, Chora, occupies a narrow peninsula on the east coast and has a surprisingly good museum of modern art (the Goulandris foundation) alongside a crumbling Venetian castle. Gavrio, on the west coast, is where the ferries dock. Batsi, a few kilometres south, is the closest thing Andros has to a resort — a sheltered bay with a small beach and a handful of tavernas. Serious walkers come for the network of old mule paths that criss-cross the island's interior, connecting villages through some of the finest hiking in the Aegean.

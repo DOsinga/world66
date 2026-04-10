@@ -1,8 +1,12 @@
 ---
-title: "Isla Negra"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -33.4449
+longitude: -71.6925
+title: Isla Negra
 type: location
-latitude: -54.4709
-longitude: -73.024411
 ---
 
-Leaving Santiago thru the Ruta del Sol highway we will reach and visit Pomaire, a handcrafts center located in the heart of the fertile Central Valley . After a short stop, we will continue our tour to the port of San Antonio , and along a coastal road we will pass thru the resorts of Cartagena and El Tabo. We will arrive Isla Negra, where we will visit the museum and seaside house of Pablo Neruda, chilean poet and winner of the 1971 Literature Nobel Prize award. On our way
+Isla Negra is a small coastal village about 100 km southwest of [Santiago](/southamerica/chile/santiago), reached via the Ruta del Sol highway. Despite the name, it is not an island but a stretch of rocky shoreline backed by pine trees, and it is known above all for one thing: the house of Pablo Neruda.
+
+The poet's seaside home, now a museum, is Isla Negra's main draw. Neruda filled it with an extraordinary personal collection — ships' figureheads, seashells, butterflies, maps, navigational instruments — and the house itself, built piecemeal over decades, is as idiosyncratic as the man. He is buried here alongside his wife Matilde, facing the Pacific. The village itself is tiny and quiet, with a handful of restaurants and craft stalls, and makes a pleasant day trip from Santiago combined with a stop in the traditional pottery town of Pomaire on the way.

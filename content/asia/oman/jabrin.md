@@ -1,11 +1,12 @@
 ---
-title: "Jabrin"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 22.9167
+longitude: 57.2333
+title: Jabrin
 type: location
-latitude: 22.92
-longitude: 57.25
 ---
 
-Jabrin is a relatively small city in the Hajar mountains with an impressive fort. Entrance to the fort is 0.5 Rial and on most days you can wander around pretty much on your own.
+Jabrin is a small oasis town in the interior of Oman, about 45 kilometres southwest of Nizwa, best known for its 17th-century fort — one of the most impressive in the country. Built by Imam Bil'arab bin Sultan in the 1670s, Jabrin Fort served as both a royal palace and a centre of Islamic learning. Unlike the more military forts at Nizwa and Bahla, Jabrin has elaborately painted ceilings, carved stucco, and rooms that feel like they were actually lived in. Entrance costs 0.5 Rial and on most days you can wander the chambers and rooftop largely on your own.
 
-
- If you don't have your own transport, getting to Jabrin is slightly difficult. The bus to Nizwa drops you off the junction from where it is another 8 kilometers to the fort. You might find a taxi, but you're probably better of hitching a ride with the locals.
+Getting here without your own transport requires some effort. Buses to Nizwa drop you at the junction, leaving another 8 kilometres to cover to reach the fort. A taxi from Nizwa is the most straightforward option; otherwise, locals along this route are generally willing to offer a lift.

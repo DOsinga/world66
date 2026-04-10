@@ -1,14 +1,12 @@
 ---
-title: "Abilene"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 38.9172
+longitude: -97.2137
+title: Abilene
 type: location
-latitude: 32.44645
-longitude: -99.747591
 ---
 
-Travel Guide
+Abilene is a small Kansas town on the plains west of [Topeka](/northamerica/unitedstates/kansas/topeka), best known as the boyhood home of Dwight D. Eisenhower. The Eisenhower Presidential Library, Museum, and Boyhood Home complex is the main reason to stop — it covers his life from growing up in this modest clapboard house to commanding the D-Day invasion and serving two terms as president. He and Mamie are buried in a small chapel on the grounds.
 
-The City of Abilene has a population of about 6,400 and is the county seat for Dickinson County.
-
-A worthwhile attraction is the Eisenhower Center which has his boyhood home, the Eisenhower Presidential Library, a Museum, a Place of Meditation and his statue.
-
-A great place to eat in Abilene is the historic (1870) Brookville Hotel which serves all you can eat family style chicken dinners.
+Abilene also has a Wild West pedigree. In the 1860s and 1870s it was the terminus of the Chisholm Trail, where Texas cattlemen drove their herds to the railhead. Wild Bill Hickok served briefly as town marshal. The Old Abilene Town heritage site recreates the cattle-drive era with period buildings along a boardwalk.

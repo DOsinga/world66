@@ -1,10 +1,16 @@
 ---
-title: "Calistoga"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.578797
 longitude: -122.579705
+title: Calistoga
+type: location
 ---
 
-Calistoga is a small charming town of round and about 5,000 inhabitants and located at the foot of mount St. Helena. It is well known for its hot springs (isn't it about time that you had your first mud-bath?) and the old faithful geyser of California. The town itself has one of the oldest depots in California and the Sharpsteen Museum, named after Ben Sharpsteen who is known for his work as a producer for Walt Disney. However, don't expect Donald Duck and Mickey Mouse. The museum gives a nice overview of the history of Calistoga. Several historical remnants can still be traced in the town itself, such as the Bale Grist Mill and the Sam Brannon Cottage. 
+Calistoga sits at the northern end of the Napa Valley, at the foot of Mount St. Helena. It is a small town — about 5,000 people — with a main street lined with tasting rooms, old storefronts, and a pace noticeably slower than the valley's more polished towns to the south.
 
-Besides that, Calistoga is a good starting-point for exploration of the Bothe-Napa Valley State Park. The state park comprises a vast area filled densily with pine groves and because of the several elevations it is an interesting area to go walking and picknicking.
+The town was founded in the 1860s by Sam Brannan, California's first millionaire, who saw the commercial potential in the area's natural hot springs and geysers. That geothermal character still defines the place. Mud baths and mineral spring soaks are the signature Calistoga experience — several spas along Lincoln Avenue offer them, ranging from no-frills to upscale. Dr. Wilkinson's Hot Springs, operating since 1952, is the classic choice.
+
+The Old Faithful Geyser of California erupts roughly every 30 minutes, sending a column of hot water about 18 metres into the air. It is one of only a handful of geysers in the world with a reasonably predictable schedule. Northwest of town, the Petrified Forest preserves ancient redwoods turned to stone by volcanic ash millions of years ago.
+
+Beyond the geothermal attractions, Calistoga is a good base for exploring the upper Napa Valley. The Bothe-Napa Valley State Park, a short drive south, has hiking trails through dense stands of coast redwood and Douglas fir — a welcome contrast to the open vineyards that dominate the valley floor.

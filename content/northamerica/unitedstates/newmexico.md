@@ -1,14 +1,18 @@
 ---
-title: "New Mexico"
+done:
+  location_cleanup: 2026-04-04
+latitude: 34.5199
+longitude: -105.8701
+title: New Mexico
 type: location
-latitude: 34.580207
-longitude: -105.996047
 ---
 
-New Mexico's natural landscapes, traditional architecture, and magnificent sunsets, provide the perfect backdrop for the rich history and proud heritage that exist in the "Land of Enchantment." The unique blend of Native American, Mexican, Spanish and Western cultural influences helped New Mexico to develop a colorful and distinctive spirit. 
+New Mexico calls itself the Land of Enchantment, and for once the tourism slogan is not an exaggeration. This is a state where ancient pueblo dwellings sit beneath enormous skies, where the desert erupts in volcanic lava fields and white gypsum dunes, and where the food will make you sweat in the best possible way. It is unlike anywhere else in the United States.
 
-There is no other state with so many national parks dedicated to Native Indian civilizations. From Bandelier in [Los Alamos](/northamerica/unitedstates/newmexico/losalamos) to the ancestral Pueblo Indian ruins in [Aztec](/northamerica/unitedstates/newmexico/aztec) to the Chaco Culture in [Nageezi](/northamerica/unitedstates/newmexico/nageezi), the whole state has places where you can learn about this important cultural heritage. 
+The state's character comes from the collision of three cultures -- Native American, Hispanic, and Anglo -- that have shaped everything from the architecture to the cuisine to the way people talk. You will hear Spanish on the streets of [Espanola](/northamerica/unitedstates/newmexico/espanola), see Pueblo feast day dances at [Laguna](/northamerica/unitedstates/newmexico/laguna) and [Zuni](/northamerica/unitedstates/newmexico/zuni), and eat green chile on practically everything in [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque).
 
-[Albuquerque](/northamerica/unitedstates/newmexico/albuquerque) and [Santa Fe](/northamerica/unitedstates/newmexico/santafe) are the main urban areas in New Mexico. Both are attractive towns with excellent tourist infrastructure. They are good starting points for exploring the rest of the state. 
+[Santa Fe](/northamerica/unitedstates/newmexico/santafe) draws the most visitors with its galleries, adobe architecture, and world-class opera, but the real New Mexico lies beyond the capital. [Taos](/northamerica/unitedstates/newmexico/taos) has its ancient pueblo and ski valley. The northwest corner holds [Chaco Canyon](/northamerica/unitedstates/newmexico/nageezi), one of the most impressive archaeological sites in North America. Along the Rio Grande, small towns like [Truth or Consequences](/northamerica/unitedstates/newmexico/truth_or_consequen) offer hot springs and a slower pace. In the south, [White Sands](/northamerica/unitedstates/newmexico/whitesands) is otherworldly, and [Roswell](/northamerica/unitedstates/newmexico/roswell) has made a whole economy out of a supposed UFO crash.
 
-For hiking and other outdoor activities, El Malpais and [White Sands](/northamerica/unitedstates/newmexico/whitesands) are spectacular national parks, where anyone with a love for the outdoor can spend whole weeks.
+Route 66 cuts across the middle of the state through [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque), [Grants](/northamerica/unitedstates/newmexico/grants), [Gallup](/northamerica/unitedstates/newmexico/gallup), and [Tucumcari](/northamerica/unitedstates/newmexico/tucumcari), with fading neon signs and vintage motels still hanging on. The back roads are even better -- US-60 through [Pie Town](/northamerica/unitedstates/newmexico/pie_town), [Datil](/northamerica/unitedstates/newmexico/datil), and [Magdalena](/northamerica/unitedstates/newmexico/magdalena) is one of the loneliest and most beautiful drives in the American West.
+
+New Mexico is not a wealthy state, and the infrastructure can be rough in places. Distances are vast, cell service is spotty outside the cities, and some roads are unpaved. But if you are the kind of traveler who values authenticity over convenience, this is your place.

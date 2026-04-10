@@ -1,4 +1,11 @@
 ---
+done:
+  country_cleanup: 2026-03-29
+  location_cleanup: 2026-04-07
+image: cuba.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Alfre0411" title="User:Alfre0411">Alfre0411</a>
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Valle_de_Viñales_2.jpg
 latitude: 22.0
 longitude: -79.5
 title: Cuba

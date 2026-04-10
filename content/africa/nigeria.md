@@ -1,17 +1,41 @@
 ---
-title: "Nigeria"
+done:
+  country_cleanup: 2026-03-31
+image: nigeria.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/57446549@N00">Shiraz
+  Chakera</a>
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Zumarock.jpg
+latitude: 9.0765
+longitude: 7.3986
+title: Nigeria
 type: location
-latitude: 9.600036
-longitude: 7.999972
 ---
 
-Nigeria is the most important country of West Africa. It borders on [Cameroon](/africa/cameroon) in the East, [Chad](/africa/chad) and [Niger](/africa/niger) in the North and [Benin](/africa/benin) in the West
+*Africa > Nigeria*
 
+Nigeria is Africa's most populous country and its largest economy — a place of staggering diversity, creative energy, and raw ambition. With over 220 million people and more than 500 languages, it contains more ethnic and cultural complexity than most continents. It is also, frankly, a difficult country to travel in: infrastructure is patchy, security is a real concern in parts, and logistics take effort. But those who make the effort find a country that rewards curiosity with extraordinary depth.
 
- Nigeria is the most populous country of Africa with over 100 million inhabitants. Its an oil rich but otherwise very poor country.
+The south is lush and tropical, defined by the Niger Delta, dense forest, and a humid coastline. The north is semi-arid savanna, turning to near-desert near the borders with Niger and Chad. Between them lies a transition zone of hills, rivers, and the enormous Benue and Niger rivers, which meet at Lokoja before flowing south to the sea. This geographic sweep is matched by cultural variety: Yoruba civilization in the southwest, Igbo culture in the southeast, Hausa-Fulani traditions across the north, and hundreds of smaller groups across the middle belt and delta.
 
+[Lagos](/africa/nigeria/lagos) is the megacity that most visitors encounter first — chaotic, electric, and impossible to ignore. [Abuja](/africa/nigeria/abuja), the purpose-built federal capital, is calmer and more navigable. In the north, [Kano](/africa/nigeria/kano) is one of the oldest cities in sub-Saharan Africa, with a walled old city and a living emirate culture. [Benin City](/africa/nigeria/benincity) carries the legacy of the Benin Empire, whose bronzes now sit in museums across Europe. [Calabar](/africa/nigeria/calabar) in the southeast is one of the most pleasant Nigerian cities to visit. [Ibadan](/africa/nigeria/ibadan), [Port Harcourt](/africa/nigeria/portharcourt), [Kaduna](/africa/nigeria/kaduna) and [Jos](/africa/nigeria/jos) are all worth time if you have it.
 
- [Lagos](/africa/nigeria/lagos) the capital is a huge city, very crowded, with colorful markets but it can be a bit dangerous at night. There are very good beaches nearby if you want to get away from it all. [Ibadan](/africa/nigeria/ibadan) is the second biggest cities, and from a distance it looks a lot like an Italian city, because of the colour of the roofs of the houses. The centre for Tropical Agriculture is not only a very interesting place but also boasts one of the best Golf courts in the country
+The wildlife reserves are undervisited and genuine. [Yankari National Park](/africa/nigeria/yankarigamereserve) has elephants, baboons, and warm natural springs. Cross River National Park near [Calabar](/africa/nigeria/calabar) protects one of Africa's last significant patches of lowland rainforest.
 
+Nigeria is not an easy destination. But it is an alive one.
 
- The most interesting city of the North is without a doubt [Kano](/africa/nigeria/kano). A very old centre of learning and an important emirate before the British arrived, it still is a great city to explore. [Zaria](/africa/nigeria/zaria) and [Sokoto](/africa/nigeria/sokoto) - with a real Sultan - are two other of these old Hausa cities you can visit.
+## Destinations
+
+- [Lagos](/africa/nigeria/lagos) — the commercial capital, sprawling and relentless
+- [Abuja](/africa/nigeria/abuja) — the federal capital, cleaner and more ordered
+- [Kano](/africa/nigeria/kano) — ancient walled city, leather markets, Durbar festivals
+- [Ibadan](/africa/nigeria/ibadan) — Nigeria's second largest city, Yoruba heartland
+- [Benin City](/africa/nigeria/benincity) — home of the legendary Benin bronzes and a living royal court
+- [Calabar](/africa/nigeria/calabar) — relaxed colonial port city, host to the December carnival
+- [Port Harcourt](/africa/nigeria/portharcourt) — oil city on the delta
+- [Kaduna](/africa/nigeria/kaduna) — northern crossroads city
+- [Jos](/africa/nigeria/jos) — temperate plateau city, good museum
+- [Abeokuta](/africa/nigeria/abeokuta) — rock-strewn Yoruba city
+- [Oshogbo](/africa/nigeria/oshogbo) — art capital, UNESCO-listed sacred grove
+- [Yankari Game Reserve](/africa/nigeria/yankarigamereserve) — the best wildlife in Nigeria
+- [Zuma Rock](/africa/nigeria/zumarock) — dramatic monolith north of Abuja

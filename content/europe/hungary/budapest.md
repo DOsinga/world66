@@ -1,21 +1,20 @@
 ---
-title: "Budapest"
+done:
+  location_cleanup: 2026-04-04
+latitude: 47.4979
+longitude: 19.0402
+title: Budapest
 type: location
-latitude: 47.497879
-longitude: 19.040238
 ---
 
-Budapest is the capital of Hungary and with a population of 2 million somewhat depressive, yet friendly, citizens by far the largest city in the country. 
- 
+Budapest is one of Europe's most rewarding cities, a place where faded imperial grandeur meets a rebellious creative energy that keeps things interesting. Straddling the Danube, with hilly Buda on one side and flat, bustling Pest on the other, it offers world-class architecture, thermal baths you can soak in for hours, and a food and drink scene that punches well above its price point.
 
-The city is often referred as the Paris of the east, and deserves this name. It bears some resemblance to Vienna, but slightly smaller and friendlier, not as grand. The picturesque setting on two sides of the Danube, the nine connecting bridges and the villa's and public buildings from the fin-de-siècle era really make Budapest one of the most enjoyable cities in Europe. 
- 
+The city's most recognizable landmarks line the riverbanks. On the Buda side, the Castle District sits on a limestone plateau overlooking the water, with the Royal Palace, Matthias Church, and Fisherman's Bastion all within walking distance. Across the river, the Hungarian Parliament Building stretches along the Pest embankment, its neo-Gothic spires reflected in the Danube on calm evenings. The whole panorama is a UNESCO World Heritage Site, and it looks even better at night when everything is lit up.
 
-Budapest is composed of two cities: the small Buda, on the west side of the river looking over the much larger Pest on the opposite side. The two parts developed seperately as the bourgois Buda with it's palaces and spas and the more commercial Pest. At first, the hills of Buda were the safe core of the twin cities, but as Buda and Pest were united with Óbuda (Ancient Buda) the plains of Pest became the centre of the growing metropolis.
+What sets Budapest apart from other European capitals is the thermal bath culture. The city sits on a network of hot springs, and Budapestians have been soaking in them since Roman times. The Art Nouveau Gellert Bath, the vast outdoor pools at Szechenyi, and the Ottoman-era Rudas Bath each offer a completely different experience. Spending a morning floating in hot mineral water while snow falls around you is one of those travel moments that stays with you.
 
+The Jewish Quarter in District VII has become the center of Budapest's nightlife and cultural scene. The famous ruin bars, built in the courtyards of abandoned buildings, started here with Szimpla Kert and spawned dozens of imitators. The same neighborhood holds the Great Synagogue, the largest in Europe, and streets lined with street art, independent shops, and restaurants.
 
- 
- Today, the most famous landmark of Budapest is the Parliament building on the banks of the Danube. From a distance it looks a lot like the English House of Parliament. Only Big Ben is missing. The best view of the Parliament can be had from Castle Hill, a Budapset highlight itself. This collection of palaces, churches and monuments has been declared a World Heritage Site by UNESCO and is a must see for every tourist. Around here you can also check out the ugliest fountain in eastern Europe. Budapest has some very good museums as well, The National Museum, the Jewish Museum and the Historical Museum of Budapest being the best.
+Hungarian food deserves more attention than it gets. Beyond goulash, look for dishes like chicken paprikash, fisherman's soup, and langos, the deep-fried dough sold at markets. The Great Market Hall at the southern end of Vaci utca is worth a visit for the food alone. For something more refined, Budapest has a growing number of serious restaurants doing modern takes on Hungarian classics at prices that would seem absurd in Paris or London.
 
-
- Budapest has developed to become a very lively city, with many good restaurants and a nightlife scene you need to check out to believe it. By day, you can roam the city, visit a museum, take a look around churches, make your choise from the dozen or so types of coffee in one of the cafés. By night you can have dinner at a cheap or a fancy eating out, go to the opera, and afterwards dance the night away.
+Budapest is also remarkably affordable by Western European standards. Public transport is excellent and cheap, a beer at a ruin bar costs a couple of euros, and you can eat very well without spending much. The city is compact enough that most of the main sights are walkable, and the combination of beauty, culture, and value makes it one of the best city breaks in Europe.

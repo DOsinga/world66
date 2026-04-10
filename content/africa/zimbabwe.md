@@ -1,11 +1,33 @@
 ---
-title: "Zimbabwe"
-type: location
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: zimbabwe.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Tarisai.m&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Tarisai.m (page does not exist)">Tarisai.m</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bus-stop.jpg
 latitude: -18.455496
 longitude: 29.746841
+title: Zimbabwe
+type: location
 ---
 
-Zimbabwe could be a fantastic place for tourism. However, the present economical and political situation make it not a country you want to visit as a tourist.
- 
+Zimbabwe is one of southern Africa's most rewarding destinations, a country of staggering natural beauty and deep cultural heritage that has endured decades of economic turmoil with remarkable resilience. From the thundering curtain of [Victoria Falls](/africa/zimbabwe/victoriafalls) to the ancient stone ruins of [Great Zimbabwe](/africa/zimbabwe/greatzimbabwe), this is a place that stays with you.
 
-The most visited place are the spectacular Victoria Falls. They can be seen on a short trip from [Botswana](/africa/botswana) or [South Africa](/africa/southafrica) but in doing so they are missing some fascinating areas. Visitor to Zimbabwe can gaze upon hundreds of species of tropical wildlife, thrill to the experience of white water rafting, scale chilly mountain peaks and savour the history of a people that goes back tens of thousands of years? Yet these pleasures are but a few of those waiting to be discovered by the traveller who plans to visit this gem in the heart of Africa. More highlights are the ruins of Great Zimbabwe, the beautiful [Lake Kariba](/africa/zimbabwe/lakekariba) and also the two biggest cities of Zimbabwe are worth a visit: [Harare](/africa/zimbabwe/harare) and [Bulawayo](/africa/zimbabwe/bulawayo). Last but not least, to the east are the so-called [Eastern highlands](/africa/zimbabwe/easternhighlands), fine walking and fishing country, so cool that at certain times of the year, the grass in the morning can be trimmed with frost. In the west is the other-worldly jumble of granite rocks that make up the Matopos National Park. Zimbabwe's largest wildlife sanctuary is Hwange National Park, situated on the western border with [Botswana](/africa/botswana). Hwange is home to one of Africa's largest elephant populations and myriad other species. Other excellent game viewing areas are Matusadona, Mana Pools and Zambezi National Parks.
+The country's geography is as varied as its appeal. In the west, [Hwange National Park](/africa/zimbabwe/hwange) protects one of Africa's largest elephant populations across nearly 15,000 square kilometres of woodland and savanna. The eastern border rises into the [Eastern Highlands](/africa/zimbabwe/easternhighlands), a chain of misty mountains, tea plantations and pine forests so cool that frost dusts the grass on winter mornings. In the south, [Gonarezhou National Park](/africa/zimbabwe/gonarezhou) remains wild and uncrowded, its red Chilojo Cliffs towering above the Save River. To the north, [Lake Kariba](/africa/zimbabwe/lakekariba) stretches 280 kilometres along the Zambian border, its skeletal drowned forests silhouetted against spectacular sunsets.
+
+Zimbabwe's economic troubles are real and ongoing. The hyperinflation of the 2000s destroyed the Zimbabwe dollar, and the country now runs largely on US dollars. Infrastructure has suffered, public services are patchy, and power cuts are common. But the country has stabilized considerably since those worst years, and for travelers willing to be flexible, Zimbabwe offers world-class wildlife, genuinely warm people, and far fewer crowds than neighboring safari destinations.
+
+[Harare](/africa/zimbabwe/harare), the capital, has a lively arts and music scene and serves as the gateway to the country. [Bulawayo](/africa/zimbabwe/bulawayo), the second city, is quieter and more laid-back, with the otherworldly granite formations of Matobo Hills just a short drive away. The Matobo landscape — enormous balancing boulders scattered across the hills — is sacred to the Ndebele people and home to one of the world's densest populations of leopards and black eagles.
+
+## Destinations
+
+- [Harare](/africa/zimbabwe/harare)
+- [Victoria Falls](/africa/zimbabwe/victoriafalls)
+- [Bulawayo](/africa/zimbabwe/bulawayo)
+- [Lake Kariba](/africa/zimbabwe/lakekariba)
+- [Eastern Highlands](/africa/zimbabwe/easternhighlands)
+- [Great Zimbabwe](/africa/zimbabwe/greatzimbabwe)
+- [Gonarezhou](/africa/zimbabwe/gonarezhou)
+- [Kwekwe](/africa/zimbabwe/kwekwe)

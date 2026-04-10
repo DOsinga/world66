@@ -1,18 +1,12 @@
 ---
-title: "Nelson Bays"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -41.234862
 longitude: 173.306509
+title: Nelson Bays
+type: location
 ---
 
-The Nelson Bays are in the northwest part of the [South Island](/australiaandpacific/newzealand/south_island). Blessed with a warm sunny climate, this fruit growing region of [New Zealand](/australiaandpacific/newzealand) has other attactions for the tourist - long beaches with golden sand.
+The Nelson Bays region sits at the top of the [South Island](/australiaandpacific/newzealand/south_island), blessed with the sunniest climate in [New Zealand](/australiaandpacific/newzealand). It is a fruit-growing region backed by forested hills, with long golden-sand beaches along Tasman Bay and a relaxed, outdoorsy character.
 
-Places in the Nelson Bays include:
-
-[Nelson](/northamerica/canada/britishcolumbia/nelson) - Named after the British Admiral of Trafalgar fame.
-
-[Richmond](/northamerica/canada/britishcolumbia/vancouver/richmond)
-
-[Motueka](/australiaandpacific/newzealand/motueka)
-
-Minor corrections on 11 January 05
+[Nelson](/australiaandpacific/newzealand/nelson) is the main town — a compact, artsy city named after the British admiral. Nearby Richmond is the commercial centre of the Waimea Plains, while [Motueka](/australiaandpacific/newzealand/motueka) to the west is the gateway to Abel Tasman National Park, one of New Zealand's most popular coastal walks.

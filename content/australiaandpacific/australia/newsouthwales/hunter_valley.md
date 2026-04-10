@@ -1,17 +1,12 @@
 ---
-title: "Hunter Valley"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -32.450678
 longitude: 150.926241
+title: Hunter Valley
+type: location
 ---
 
-The Hunter Valley is NSW's famous wine region. Two hours from Sydney and 40 minutes from Newcastle, the region has has some of the best wine producers in Australia.
+The Hunter Valley is Australia's oldest wine region, about two hours' drive north of Sydney and 40 minutes from Newcastle. The lower Hunter is best known for its Semillon — some of the finest in the world — and Shiraz, while the upper Hunter adds Chardonnay to the mix. More than 150 wineries are scattered across the rolling green hills, most with cellar doors open for tastings.
 
-Most of the wine producers open their doors to self-drive tourists or tour buses.
-
-A good suggestion is to stay at one of many accomodation offerings the Valley has on offer and tour the local wineries over a few days.
-
-Children are also catered for at many of the wineries with children activities. The Hunter Valley Gardens, dawn balloon rides are other activities for tourists.
-
-**Contributors**
-September 06, 2005
+Self-driving between wineries is the most flexible way to visit, though tour buses and cycling tours are easy to arrange. Beyond the wine, the valley has Hunter Valley Gardens (a large formal garden complex), hot-air balloon rides at dawn, and good restaurants that take advantage of the local produce. A weekend stay gives you time to visit a dozen or so wineries without rushing.

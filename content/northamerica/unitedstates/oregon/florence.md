@@ -1,10 +1,12 @@
 ---
-title: "Florence"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 43.9826
+longitude: -124.0998
+title: Florence
 type: location
-latitude: 34.79981
-longitude: -87.677251
 ---
 
-Located on the Oregon coast, Florence is located near both ocean beach and massive sand dunes. Hiking through the dunes can be an amazing (if dehydrating) experience.
+Florence sits where the Siuslaw River meets the [Oregon](/northamerica/unitedstates/oregon) coast, at the northern edge of the Oregon Dunes National Recreation Area. The dunes here are enormous — some rise over 150 metres — and hiking through them to reach the ocean is a memorable experience, though bring water.
 
-Dune buggy rentals, miniature golf, boating and camping are all available.
+The old town along the riverfront has good restaurants, a small-town feel, and easy access to both the dunes and the rocky headlands to the north. Dune buggy rentals, kayaking on the river, and camping at Honeyman State Park are all popular.

@@ -1,8 +1,10 @@
 ---
-title: "Pamilacan Island"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 9.4903
 longitude: 123.9164
+title: Pamilacan Island
+type: location
 ---
 
 Pamilacan is a small coral island in the Bohol Sea, home to about 250 families and surrounded by some of the richest waters in the Visayas. The island's name comes from "pilak," a large hooked implement the islanders once used to catch manta rays and whale sharks. Those days are over — marine mammals are now fully protected by Philippine law — but the jaws and bones of past catches still decorate some village homes.

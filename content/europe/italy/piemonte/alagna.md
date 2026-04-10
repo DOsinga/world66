@@ -1,17 +1,14 @@
 ---
-title: "Alagna"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.169861
 longitude: 8.889846
+title: Alagna
+type: location
 ---
 
-Travel Guide
+Alagna Valsesia sits at the end of the road beneath Monte Rosa, the second-highest massif in the Alps. The village is small and has a genuine Alpine character — stone and timber houses, a handful of restaurants, and not much else besides the mountains.
 
-Alagna Valsesia is a small ski village where the road literally ends. Alagna is located in Piedmont and is found at the base of the mountain "Monte Rosa".
-Monte Rosa, meaning 'Pink Mountain' got its name by an ancient local idiom: "rosa" come from "rosà" meaning "ice, iced" in the local idiom of Valle d'Aosta. Then Monte Rosa means Ice Mountain. Alagna's nickname is "Freeride Paradise" and is a very hot spot for skiers and snowboarders.
-The actual town itself has a very nice Alpine charm and offers restaurants serving regional specialties such as *Polenta* or *Miaccia*. *Polenta* is a cornmeal dish served hot with toppings such as meat sauce or cheese. *Miaccia* is almost like a folded crepe. Other regional items include Toma cheese which is typical of this area.
-If you love chocolate, Mirella's Bar is the place for you! This café / pastry shop is a great find and a great place to stop!
-If you love the mountains, Alagna is a great place to come. Not only is it popular with those involved in winter sports but even if you are not interested in that, Monte Rosa offers an array of amazing views and down below in the town of Alagna you can take walks, wander through shops and experience the wonderful hospitality that The Italian Alps has to offer.
+Skiers and snowboarders know Alagna as "Freeride Paradise." The terrain above the village is steep, off-piste and largely ungroomed, accessed by a cable car that climbs to nearly 3,000 metres on the Indren glacier. It connects to the Monterosa Ski area, which links into Gressoney and Champoluc on the Valle d'Aosta side. This is not a place for beginners, but experienced riders come from across Europe for the powder and the vertical.
 
-**Contributors**
-May 31, 2007
+In summer the mountains offer hiking and climbing, with trails leading up to the Monte Rosa huts and the high valleys around the glacier. The village restaurants serve Piedmontese mountain food — *polenta* with cheese or meat sauce, *miaccia* (a local folded crêpe), and Toma cheese from the surrounding pastures.

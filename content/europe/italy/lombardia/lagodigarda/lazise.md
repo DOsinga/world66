@@ -1,12 +1,14 @@
 ---
-title: "Lazise"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 45.505201
 longitude: 10.733025
+title: Lazise
+type: location
 ---
 
-Lazise is a small and charmin town. It once was am important naval town and the Venetians maintained a powerful presence here. It was the most important post of the Venetians on the shores of the Lago di Garda. 
+Lazise is a small walled town on the eastern shore of Lake Garda. It was once the Venetians' most important outpost on the lake — a naval base and customs checkpoint — and the medieval fortifications still stand in remarkably good shape.
 
-The main attractions include the city walls, with colorful frescoes and intricately carved statues imbedded in the sides, The Scaliger castle and the Venetian Customhouse. Today, the castle is privately owned and linked with the olds customs house they make an attractive corner of the lake. 
+The main sights are the Scaligero castle and the Venetian Customhouse at the harbour edge, a rare surviving example of Venetian administrative architecture outside Venice itself. The town walls are well-preserved and pleasant to walk along.
 
-Lazise is also quite an easy going place, with nice bars and good places where you can taste the excellent local wines and there are always a few slices of spicy local salami to sample.
+Lazise is an easy-going place to eat and drink. Local bars pour wines from the Bardolino DOC, which begins practically at the town limits, and it's easy to find a table with lake views and a plate of salami to go with a glass.

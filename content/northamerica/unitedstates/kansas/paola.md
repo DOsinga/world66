@@ -1,10 +1,12 @@
 ---
-title: "Paola"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.572332
 longitude: -94.878648
+title: Paola
+type: location
 ---
 
-Travel Guide
+Paola is the county seat of Miami County, about 40 miles south of Kansas City. It's a small, historically preserved town with a handsome courthouse square at its center and streets lined with late 19th-century brick buildings.
 
-Paola is the largest city in Miami County, and is the county seat. Paola offers residents and visitors several choices for shopping, entertainment, and recreation. Annually, Paola hosts the Miami County Fair in July, the Roots Festival in August and the Harvest Festival in October. There is also a Christmas tree lighting ceremony, arrival of Santa, and carriage rides throughout the historic streets shortly after Thanksgiving. Also available is water recreation and camping at Lake Miola, a contemporary Aquatic Center in Wallace Park, the Swan River Museum, and the Miami County Historical and Genealogical Society, and a variety of events held at the Paola Community Center
+The town is most lively during its festivals: the Miami County Fair in July, the Roots Festival in August, and the Harvest Festival in October. Lake Miola, just outside town, offers camping and water recreation. The Swan River Museum and Miami County Historical and Genealogical Society are worth a visit for anyone interested in local history.

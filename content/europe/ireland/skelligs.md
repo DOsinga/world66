@@ -1,8 +1,14 @@
 ---
-title: "Skelligs"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 51.7687
+longitude: -10.5417
+title: Skelligs
 type: location
-latitude: 51.768681
-longitude: -10.541714
 ---
 
-The Skelligs are renowned for their scenery, sea bird colonies, long-lived lighthouse service, their early Christian monastic architecture and rich underwater life. The two Skellig islands - Skellig Michael and Small Skellig stand in the Atlantic ocean 12 km south west of Valentia, County Kerry. At 218 metres above sea level, Skellig Michael towers the higher, it is also the larger in area - 44 acres. Underwater, their steep cliffs plunge a further 50 metres before they merge into the vast plain of the Co ntinental shelf. Irish mythology records an early reference to a shipwreck here nearly 3,400 years ago. The King of the World is reputed to have visited the Skelligs in the year 200 AD.
+Two jagged rock islands rising from the Atlantic 12 km off the Kerry coast, the Skelligs are one of Ireland's most extraordinary places. Skellig Michael — the larger of the two at 44 acres, soaring to 218 metres — holds a remarkably well-preserved early Christian monastery, occupied by monks from roughly the 6th to the 12th centuries. The beehive stone huts clinging to the clifftop look like they were abandoned last century, not a thousand years ago.
+
+Small Skellig is a protected seabird colony and home to one of the world's largest gannet populations — around 70,000 pairs. The noise and smell hit you before you get close. Neither island is easily reached: you need to book a boat trip from Portmagee or Ballinskelligs well in advance, and landings depend on sea conditions.
+
+Skellig Michael is a UNESCO World Heritage Site and access is strictly managed. Only a limited number of visitors can land each day, boats run from May to September, and the 600-step climb to the monastery is steep and exposed. It's worth every bit of the effort.

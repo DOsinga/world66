@@ -1,8 +1,10 @@
 ---
-title: "Beijing"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.905714
 longitude: 116.391297
+title: Beijing
+type: location
 ---
 
 Beijing means 'Northern Capital' and in many ways the name speaks for itself. It is the capital of the People's Republic of China and the capital of bureaucrats. The whole country runs on Beijing time and speaks the Beijing dialect. From here the Chinese Communist Party rules over its enormous empire while further to the south, you will find more and more free trading with new capitalists, having contributed to form the new face of China over the last decades.

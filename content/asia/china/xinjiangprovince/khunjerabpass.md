@@ -1,8 +1,14 @@
 ---
-title: "Khunjerab pass"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.846
+longitude: 75.4197
+title: Khunjerab Pass
 type: location
 ---
 
-The Khunjerab pass is the highest point of the Karakoram highway and the border between China and [Pakistan](/asia/pakistan). Although the actual pass isn’t that long it encompasses some of the most impressive mountain scenery in the world. If you are on public transport, you will probably be forced to spend a night between between [Kashgar](/asia/china/xinjiangprovince/kashgar) and Pakistan in Tashkurghan (see the mud wall fort) because the bus stops there and doesn't go on until next morning.
+The Khunjerab Pass sits at 4,693 metres — the highest paved international border crossing in the world and the point where the Karakoram Highway crosses from China into Pakistan. The scenery around the pass is extraordinary: jagged peaks, glaciers, and high plateau grassland where yaks and Marco Polo sheep graze.
 
-  Be aware that because of mudslides the pass is closed to all vehicles except trucks during the rainy season (December-April). A Pakistani visa (easily obtainable in Hong Kong or Beijing) will need to be arranged in advance.
+If you're travelling by public transport between Kashgar and Pakistan, expect to spend a night in Tashkurghan. Buses stop there and don't continue until morning — which is no hardship, as the old mud-brick fort is worth a look. The pass itself is the highlight of the KKH, not a destination in its own right.
+
+Be aware that the pass closes to all vehicles except trucks during the rainy season (roughly December to April) due to mudslide risk. A Pakistani visa must be arranged in advance; Kashgar, Beijing, and Hong Kong are reliable places to get one.

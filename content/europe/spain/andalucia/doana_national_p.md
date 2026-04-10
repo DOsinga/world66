@@ -1,12 +1,16 @@
 ---
-title: "Doñana National Park"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.98446
 longitude: -6.408603
+title: Doñana National Park
+type: location
 ---
 
-This is reckoned to be one of Europe's greatest reserves for marshland inhabitants. Wild boar and deer [fallow and red deer] are spotted frequently during the official tour in 4 by 4 coaches, the only way of getting far into the park. Effectively it is divided into two parts, the northernmost being accessed from Matalascanas in Huelva Province whereas the southern part can only be gained through Sanlucar de Barrameda in Cádiz Province. From Matalascanas to the provincial border thre is a huge stretch of beach along which the coaches travel. there are practically no buildings and just more and more flocks of sanderlings and black-backed gulls. 
+Doñana is one of Europe's most important wetland reserves and a UNESCO World Heritage Site, straddling the border between Huelva and Cádiz provinces in southwestern Andalucía. It protects an extraordinary mosaic of marshes, dunes, scrubland and pine forest at the mouth of the Guadalquivir river — a critical wintering and staging ground for hundreds of thousands of migratory birds.
 
-'Inland' there are sand dunes of great height at different stages of cultivation by plants - from marram grass to pine trees. 
+The park is divided into two zones accessed from opposite ends. The northern section is reached from [Matalascanas](europe/spain/andalucia/matalascanas) in Huelva Province; the southern section from [Sanlúcar de Barrameda](/europe/spain/andalucia/sanlucar_de_barrameda) in Cádiz Province. Deep access into the protected core is only possible by official guided tours in 4x4 coaches — and that restriction is precisely what keeps the wildlife undisturbed.
 
-Birds are as well seen form the edge of the park, like [Sharm el Sheikh](/africa/egypt/sharmelsheikh) and in season they include flamingoes, avocets and black-winged stilts as well as many different kinds of ducks, waders and herons.
+The coastal approach from Matalascanas follows a vast, empty beach with no buildings in sight, just waves of sanderlings and black-backed gulls working the tideline. Behind the shore, sand dunes rise to impressive heights at different stages of colonisation — from marram grass at the seaward edge to full pine forest inland. Wild boar and fallow and red deer are commonly spotted on the tours.
+
+Birds are the real draw. In season, flamingoes wade through the shallows, avocets and black-winged stilts pick through the margins, and dozens of species of ducks, waders and herons crowd the marismas. From the park boundaries you can observe a great deal without a tour — bring binoculars.

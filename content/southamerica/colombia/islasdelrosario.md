@@ -1,12 +1,14 @@
 ---
-title: "Islas del Rosario"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 10.1767
+longitude: -75.7721
+title: Islas del Rosario
 type: location
-latitude: 4.615004
-longitude: -74.103366
 ---
 
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhThe National Park of Corales del Rosario embraces the 30 islands of the Rosario archipelago and the mangrove coast of Baru island. 
+The Islas del Rosario are an archipelago of about 30 small coral islands lying roughly 45 km southwest of [Cartagena](/southamerica/colombia/cartagena), protected within the Parque Nacional Natural Corales del Rosario y San Bernardo. The waters are clear and the reefs are among the best accessible from the Colombian Caribbean coast.
 
-Isla Grande is accesible for as a day trip form [Cartagena](/southamerica/colombia/cartagena) . There are a few hotels, so it is possible to stay a bit longer as well. 
+Isla Grande is the largest island and can be reached as a day trip from Cartagena, with a few small guesthouses for those who want to stay overnight. The rest of the islands range from private resort islets to uninhabited specks of sand. Most visitors come to snorkel or dive the coral gardens, or simply to find a quieter beach than those near Cartagena.
 
-Many travel agencies in Cartagena offer trips. Recommended are Excursiones Roberto Lemaitre, C 8, No 4-66 in Bocagrande. Yates Alcatraz are cheaper, however. If you are five or more people, you can hire your own boat which gives you more freedom. About 60 dollar per day per boat should do the trick.
+Boat tours depart from Cartagena's Muelle Turístico most mornings — shared lanchas are the cheapest option, private boat hire gives you more flexibility. If there are five or more in your group, hiring your own boat for the day makes good sense.

@@ -1,8 +1,12 @@
 ---
-title: "Massimino"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.299575
 longitude: 8.07062
+title: Massimino
+type: location
 ---
 
-A village in the upper valley of the Tanaro, it is the smallest commune in Liguria, but one with a long history behind it as it was mentioned in a diploma of Otto I (967). It was transferred from the marchesi di Ceva to the Del Carretto of Finale after 1260. It came under Spanish rule in 1598 and in 1713 was acquired by Genoa owing to its strategic position controlling the Via dei Giovetti. On the hill of San Giuseppe stand the ruins of the castle and chapel of San Giuseppe, built in the fifteenth-century and subsequently converted into a theater. The main feature of the territory is its fine chestnut woods, the area’s principal economic resource in the past. The people of Massimino traditionally set great store by hospitality and this is celebrated with a festival staged in August.
+Massimino is the smallest commune in Liguria, a village in the upper valley of the Tanaro with a long history that belies its size. It appears in a diploma of Otto I in 967, and over the following centuries passed from the Marchesi di Ceva to the Del Carretto of Finale, then to Spain in 1598, and finally to Genoa in 1713 — acquired for its strategic position controlling the Via dei Giovetti mountain pass.
+
+On the hill of San Giuseppe stand the ruins of a fifteenth-century castle and chapel, the chapel later converted into a small outdoor theatre. The surrounding territory is dominated by chestnut woods, historically the village's main economic resource. Massimino holds a festival in August celebrating local hospitality.

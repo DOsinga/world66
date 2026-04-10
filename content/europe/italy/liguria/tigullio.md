@@ -1,16 +1,14 @@
 ---
-title: "Tigullio"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.27264
 longitude: 9.396492
+title: Tigullio
+type: location
 ---
 
-In the Tigullio Gulf there's many beautiful little cities. The sea is a crystal bowl reflecting the Portobello bay. The sea is a quiet extension seen from the window of Montallegro funicular, going up to the sky from Rapallo. The sea is a boat-sail that blends in with the rosy dusk off Moneglia.
- It is also the frothy white of the waves that caress the sandy shore of Paraggi and kiss the "Baia delle Favole" (Fairy-tale bay) in Sestri Levante.
+The Tigullio Gulf is the eastern arc of the Ligurian Riviera, a string of beautiful small towns between [Portofino](/europe/italy/liguria/portofino) and Sestri Levante. The coastline here is gentler than the Cinque Terre to the south — sheltered bays, palm-lined promenades and pastel harbours.
 
-## Destinations in Tigullio
+[Rapallo](/europe/italy/liguria/tigullio/rapallo) is the largest town, with a seafront promenade and a funicular up to the sanctuary of Montallegro. [Santa Margherita Ligure](/europe/italy/liguria/tigullio/santamargheritaligure) is quieter and more elegant. [Chiavari](/europe/italy/liguria/tigullio/chiavari) and [Lavagna](/europe/italy/liguria/tigullio/lavagna) sit side by side at the eastern end, separated by the Entella river — Chiavari with its arcaded streets, Lavagna with its slate quarries and beach.
 
-[Chiavari](/europe/italy/liguria/tigullio/chiavari)
-[Rapallo](/europe/italy/liguria/tigullio/rapallo)
-[Santa Margherita Ligure](/europe/italy/liguria/tigullio/santamargheritaligure)
-[Lavagna](/europe/italy/liguria/tigullio/lavagna)
+Sestri Levante's Baia delle Favole (Fairy-tale Bay), so named by Hans Christian Andersen, and the tiny cove at Paraggi are among the most beautiful swimming spots on the coast.

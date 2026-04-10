@@ -3,12 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Three restaurants overlooking the picturesque Spinola Bay, terraces on water's edge:
-
-Ristorante San Giuliano, Italian, fish and pasta. 
-
-Caffe Raffael, Matese + international...
-
-Girasole, Maltese + Mediterranean...
-
-Tel: (+356)21359615, 21352000,Fax: (+356)21373934.
+Spinola Bay has several restaurants with waterfront terraces — a pleasant spot for lunch or dinner with a view of the fishing boats. The area around Paceville has everything from fast food to upmarket dining, and the Portomaso complex adds a few more options.

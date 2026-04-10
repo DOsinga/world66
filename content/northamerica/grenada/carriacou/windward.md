@@ -1,8 +1,10 @@
 ---
-title: "Windward"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 12.4878
 longitude: -61.4417
+title: Windward
+type: location
 ---
 
 Windward is a small village on the eastern coast of Carriacou, the largest of Grenada's sister islands. It has an unusual history: a group of Scottish boatbuilders settled here in the 19th century, and their names and skills have been passed down through the generations.

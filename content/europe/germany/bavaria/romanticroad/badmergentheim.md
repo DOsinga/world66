@@ -1,8 +1,10 @@
 ---
-title: "Bad Mergentheim"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 49.490791
 longitude: 9.77317
+title: Bad Mergentheim
+type: location
 ---
 
 Bad Mergentheim sits at the northern end of the Romantic Road, technically in Baden-Württemberg rather than Bavaria. The town was the seat of the Teutonic Order from 1525 to 1809, and their enormous castle — the Deutschordensschloss — still dominates the centre. The castle museum is worth a stop for its collection of medieval armour and the grand staircase alone.

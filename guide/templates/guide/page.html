@@ -260,24 +260,10 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 
   {% if not is_continent %}
   var markers = {% if markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat|escapejs }},"lng":{{ lng|escapejs }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var mapOptions = {
-    isPoi: {{ is_poi|yesno:"true,false" }},
-    poiCategory: "{{ page.category|escapejs }}",
-    streetName: "{{ page.title|escapejs }}",
-  };
+  var mapOptions = {isPoi: {{ is_poi|yesno:"true,false" }}};
   {% endif %}
   var bgMap = null;
   var bgInited = false;
-
-  // After init or after hero resize, pan so the POI marker sits in the
-  // visible hero strip rather than behind the page content.
-  function poiPanToHero(animate) {
-    {% if not is_continent %}
-    if (bgMap && mapOptions.isPoi && markers.length === 1) {
-      panMarkerToHero(bgMap, markers[0].lat, markers[0].lng, animate);
-    }
-    {% endif %}
-  }
 
   function initBgMap() {
     if (bgInited || !bgMapEl) return;
@@ -300,12 +286,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     document.body.style.backgroundImage = 'none';
     if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
     if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
-    if (!bgInited) {
-      initBgMap();
-    } else if (bgMap) {
-      bgMap.invalidateSize();
-      requestAnimationFrame(function() { poiPanToHero(false); });
-    }
+    if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
   }
 
   function setPhotoMode() {
@@ -323,14 +304,13 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   initBgMap();
   {% endif %}
 
-  // Expand/collapse hero strip — re-pan after the CSS transition (0.4s) finishes
+  // Expand/collapse hero strip
   if (hero && heroExpandBtn) {
     heroExpandBtn.addEventListener('click', function() {
       heroExpanded = !heroExpanded;
       hero.classList.toggle('hero-expanded', heroExpanded);
       heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
       heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
-      setTimeout(function() { poiPanToHero(true); }, 420);
     });
   }
 })();

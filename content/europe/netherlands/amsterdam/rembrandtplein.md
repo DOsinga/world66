@@ -14,4 +14,4 @@ The square's bars range from big tourist-facing establishments along the perimet
 
 De Jaren, on the Nieuwe Doelenstraat a short walk from the square, is the neighbourhood's best cafe — a grand, light-filled space on two floors overlooking the Amstel, with a terrace that is the most pleasant outdoor seat in the city centre on a warm day. Mulligan's, on Amstelstraat, serves Guinness seriously and draws Irish residents who mean it.
 
-Between Rembrandtplein and the canal ring to the east lie several smaller squares and streets — [Thorbeckeplein](/europe/netherlands/amsterdam/explore/rembrandtplein/thorbeckeplein) has jazz clubs; Utrechtsestraat runs south with independent restaurants and wine bars that reward walking the whole length.
+Between Rembrandtplein and the canal ring to the east lie several smaller squares and streets — [Thorbeckeplein](/europe/netherlands/amsterdam/thorbeckeplein) has jazz clubs; Utrechtsestraat runs south with independent restaurants and wine bars that reward walking the whole length.

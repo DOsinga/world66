@@ -1,23 +1,12 @@
 ---
-title: "Jakobstad"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 63.6745
+longitude: 22.7055
+title: Jakobstad
 type: location
-latitude: 63.67447
-longitude: 22.705538
 ---
 
-Also known as Pietarsaari (in Finnish - Jakobstad is Swedish),
-Jakobstad is named after its founder Jacob de la Gardie who founded the
-town in 1652. Jakobstad is a harbor town that used to be known for its
-tabacco and shipsailing industry. In 1850, the town had to be built
-from scratch again after a devasting fire which left only a few
-original wooden houses of the Skata area intact. Nowadays, most of the
-bilingual inhabitants (nearly half of it have Swedish as their mother
-tongue) make their living in either the plastic or the forest industry.
+Jakobstad (Pietarsaari in Finnish) is a small bilingual town on the Gulf of Bothnia, founded in 1652 by Jacob de la Gardie. Nearly half its inhabitants speak Swedish as their mother tongue, giving it a character distinct from most Finnish towns. The old quarter of Skata, with its surviving wooden houses, is one of the best-preserved wooden town districts in Finland — a remarkable survival, since a devastating fire in 1850 destroyed almost everything else.
 
-The city centre is left to the pedetrians and has a green and
-lushy garden area nearby the old college. Recently, Fantasea Park has
-been opened nearby the harbor side, offering everything from foaming
-water to exhibitions on the fauna and the city's harbour and
-shipbuilding past. Jakobstad is also the birthplace of the nation's
-national poet Johan Ludvig Runeberg. However, the Johan Ludvig Runeberg
-museum is in [Porvoo](/europe/finland/porvoo), where he lived most of his life with his wife and eventually died.
+The town grew wealthy through shipbuilding and tobacco, and the harbour area has been redeveloped with Fantasea Park, which covers the local maritime and shipbuilding history alongside exhibitions on the region's fauna. Jakobstad is also the birthplace of Johan Ludvig Runeberg, Finland's national poet, though his museum is in [Porvoo](/europe/finland/porvoo), where he lived most of his adult life. The pedestrianised town centre is compact and pleasant, with a green park near the old college.

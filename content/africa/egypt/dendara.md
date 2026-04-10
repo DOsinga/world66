@@ -1,16 +1,14 @@
 ---
-title: "Dendara"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 26.1451
+longitude: 32.6717
+title: Dendara
 type: location
-latitude: 26.145081
-longitude: 32.671687
 ---
 
-Outside the town of 
-Qena Dendera has the large wonderfully preserved Temple of Het-Heru (Hathor) built on the site of an older temple, and is a replica of the original. The inscription on the present temple states that the original building was erected in the far pre-Dynastic times.
+Dendara (Dendera) is home to one of the best-preserved temples in all of Egypt. The Temple of Hathor, built largely by the Ptolemies and finished during the early Roman period, stands virtually intact — a rarity in a country where most ancient buildings survive only as ruins. It sits about 60 km north of Luxor, near the town of Qena, and makes an easy day trip.
 
-This was a major healing center for people from all over.
+The temple's interior is extraordinary. The walls and ceilings of the outer and inner hypostyle halls, the sanctuary rooms, the crypts, and the rooftop suites are carved with highly detailed reliefs, many remarkably untouched after more than two thousand years. The ceiling of the outer hall features a famous astronomical chart, and the rooftop chapels dedicated to Osiris contain the original of the Dendera Zodiac (the carved ceiling is now in the Louvre, but a cast remains in situ). On the outside of the rear wall, a large relief depicts Cleopatra with her son by Julius Caesar, Ptolemy XV — better known as Caesarion.
 
-285 mi/460 km southeast of
-[Cairo](/africa/egypt/cairo).
-
-The Temple of Hathor at Dendara was built at the very end of the Pharaonic period, largely by the Ptolemies (323-20 BC), and was finished during the early Roman period. This temple is wonderfully preserved, with its main building virtually intact, and is a sight to behold. The walls and ceilings of the outer and inner hypostyle halls, the sanctuary rooms, the crypt and the rooftop suites were carved with highly detailed relief scenes, many of them remarkably untouched by the ravages of over 2,000 years. On the outside of the rear wall is a large relief of Cleopatra with her son by Julius Caesar, Ptolemy XV, better known as Caesarian. *(Contributed by Howard Banwell)*
+Dendara was a major healing centre in antiquity, and the complex includes a sacred lake, a Roman-era birth house, and the remains of a Coptic church. The site sees far fewer visitors than the temples at Luxor, which only adds to the atmosphere.

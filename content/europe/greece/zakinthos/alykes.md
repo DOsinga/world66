@@ -1,28 +1,14 @@
 ---
-title: "Alykes"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 37.8318
+longitude: 20.7563
+title: Alykes
 type: location
-latitude: 36.884925
-longitude: 27.170572
 ---
 
-ALYKES is situated on the east coast of the island. 
+Alykes is a small beach resort on the north coast of Zakynthos, about 16 km from Zakynthos Town. The name comes from the salt lakes (alyki) that sat just behind the beach and were worked until 1985 — you can still see the shallow depressions and the old stone bridge that crosses the river Skourtis nearby.
 
-A resort has grown up along the stunning beach. 
+The beach itself is the main draw: long, sandy, and with very shallow water that stays calm even when the wind picks up. It's a good choice for families with young children. Watersports are available from the beach — jet skis, pedalos, waterskiing, inflatables. A speedboat runs day trips to the Blue Caves at Cape Skinari, which is otherwise hard to reach from the south of the island.
 
-The majority of the restaurants, bars and shops are located on the main road that runs just behind the beach.The beach at ALYKES is very long 
-
-and sandy with very shallow waters, this makes it perfect for families. It also has two water sports centre's from the beach 
-
-where you can jet ski, water ski hire a pedalo or have a go on the ringos or banana boat. 
-
-There is also a speed boat that takes 
-
-trips to the blue caves from the beach. The resort of ALYKES is named after the salt lakes which were in use until 1985. There is a beautiful stone bridge that crosses the "river" Skourtis. 
-
-
-
-**Hi lights** **What you must know** For the airport with taxi is 20min and it cost 20euros The nearest manina is in Alykanas Bus from alykes to zante town Meal for 2 people 15 euros Cocktails 3euros Lager on draught 2.8 euros Lager on bottle 2 euros Bitter on draught 3.5 euro 
-
-
-
-Studios Drosia (from 18euros per room)
+The resort is low-key. A strip of tavernas, bars, and shops lines the road behind the beach. Prices are reasonable by Greek island standards. It's quieter than Laganas and Tsilivi, which suits people who want a base rather than a party.

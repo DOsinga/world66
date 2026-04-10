@@ -1,6 +1,6 @@
 ---
-title: "Things to do in Lido di Metaponto"
+title: "Things to Do"
 type: section
 ---
 
-In Metaponto you can do a lot of things. For example you can do water sports or you can rent a boat at a low price, you can go to discos, play bowling game, play computer games and, if you love that, you can visit archaeological resuides at Tavole Palatino or at Public Museum.
+The main draws here are outdoors and ancient. The beach is the obvious starting point — wide, sandy, and calm enough for children — but the Greek ruins just inland are what set Lido di Metaponto apart from any other Ionian resort. You can rent boats and kayaks along the shore, and the flat terrain makes cycling between the resort and the archaeological sites easy.

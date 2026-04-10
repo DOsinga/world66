@@ -1,12 +1,8 @@
 ---
 title: "Hong"
 type: location
-latitude: 10.262295
-longitude: 12.947925
+latitude: 10.2623
+longitude: 12.9479
 ---
 
-We currently have no information about Hong.
-
-If you do know any general information about Hong, please [Edit this article].
-
-If you know any hotels in Hong or restaurants in Hong, please [[Add].](/destinations/addItemWizard?addwhere=africa/nigeria/yola/hong)
+Hong is a small town in Adamawa State, northeast Nigeria, roughly 120 km north of Yola. It sits in an agricultural area near the Cameroon border.

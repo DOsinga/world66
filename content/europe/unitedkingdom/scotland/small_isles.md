@@ -1,11 +1,22 @@
 ---
-title: "Small Isles"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 56.9326
+longitude: -6.2857
+title: Small Isles
 type: location
-latitude: 55.837267
-longitude: -5.933947
 ---
 
-The Small Isles is a name given collectively to the islands of Rum, Canna, Eigh and Muck. When Skye is added they are more often called Inner Hebrides [as opposed to the Outer Hebrides or
-[Krk island](/europe/croatia/krkisland)The islands are reached from Mallaig on the mainland by a passenger ferry of Calmac [www.calmac.co. uk] The timetable is different on different days but it is sometimes possible to go from the morning train from Glasgow straight onto the boat.
+The Small Isles are four islands — Rum, Eigg, Muck, and Canna — lying just south of [Skye](/europe/unitedkingdom/scotland/skye) in the Inner Hebrides. Together they form one of the quietest corners of Scotland, with barely a thousand people between them and no cars on some of the islands at all.
 
-This is a magic trip in good weather. The less said about other circumstances, the better, perhaps. Rum is a fine island with mountains called Coolins of its own, Sea eagles have been re-introduced there from Bodø in Norway. Canna has no accommodation except camping but looks attractive. There are no regular day trips which allow time on the island. Muck is a very small island but there are cottages for rent there. Eigh is a shapely island which has been in the news when the islanders managed to buy it from the Laird. The Sgurr of Eigh, an accessible hill provides a splendid spot for views and is itself a very prominent viewpoint from all sorts of plaes on the mainland and other islands.
+The ferry from [Mallaig](/europe/unitedkingdom/scotland/mallaig) is run by CalMac (calmac.co.uk), and the timetable varies by day — on the right day you can take the morning train from Glasgow and step straight onto the boat. The crossing is part of the experience.
+
+**Rum** is the largest island, dominated by the Cuillin of Rum — smaller than the more famous Skye Cuillins but no less dramatic. It's a national nature reserve and the site of a successful sea eagle reintroduction, originally brought over from Bodø in Norway. If you visit, look up.
+
+**Eigg** has perhaps the most character of the four. The islanders famously bought it from the laird in 1997 in a landmark community buyout, and the island now runs on its own renewable energy grid. The Sgùrr of Eigg — a great basalt ridge visible from the mainland and surrounding islands — is a satisfying half-day walk with views that justify every step.
+
+**Canna** is the westernmost and smallest of the four, a quiet place with no accommodation beyond camping. It looks beautiful from the ferry but takes commitment to visit properly.
+
+**Muck** is tiny and low-lying, with self-catering cottages available for rent. It's the kind of place you go to slow down entirely.
+
+In good weather, a day on the Small Isles is one of the finer things you can do in Scotland. In bad weather, you'll be reminded that these islands don't perform for visitors.

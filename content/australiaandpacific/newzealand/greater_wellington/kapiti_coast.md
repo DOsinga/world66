@@ -1,6 +1,6 @@
 ---
 done:
-  location_cleanup: '2026-04-09'
+  location_cleanup: '2026-04-10'
 latitude: -40.904736
 longitude: 174.986136
 title: Kapiti Coast

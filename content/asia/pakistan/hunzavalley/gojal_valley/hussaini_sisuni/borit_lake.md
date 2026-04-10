@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.430774
 longitude: 74.862402
 title: Borit Lake

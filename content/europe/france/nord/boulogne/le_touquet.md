@@ -1,10 +1,12 @@
 ---
-title: "Le Touquet"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.520008
 longitude: 1.586453
+title: Le Touquet
+type: location
 ---
 
-Travel Guide
+Le Touquet-Paris-Plage is a seaside resort on the Opal Coast, about 30 km south of [Boulogne](/europe/france/nord/boulogne). It was developed in the late 19th century as a fashionable retreat for wealthy Parisians and the English gentry, and something of that elegance lingers in the Art Deco villas and the pine-shaded avenues behind the seafront.
 
-According to all other searches you can do nothing. But you can go to a picturesque beach which stretches for a good couple of miles. Restaraunts are plentiful with alot of variety ranging from sea food to hamburgers. For a budding Tiger Woods you can visit the stunning 18 hole golf course which has about 100 acres to it's name! Finally at the end of a long day the men can blow their kid's university fund away with a private room at the male-famous Ladybird Club.
+The beach is the main draw — a wide stretch of firm sand that runs for kilometres, popular with sand-yachters and kite-surfers when the wind picks up. Behind the beach, the town has a good selection of restaurants ranging from traditional seafood brasseries to more casual fare. Golfers will find one of the finest links courses in northern France here, and the surrounding pine forest is pleasant for walking and cycling.

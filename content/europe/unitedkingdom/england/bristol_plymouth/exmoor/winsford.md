@@ -1,12 +1,12 @@
 ---
-title: "Winsford"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 51.0914
+longitude: -3.5696
+title: Winsford
 type: location
-latitude: 53.192071
-longitude: -2.531311
 ---
 
-This has often been considered the prettiest of Exmoor villages. It is situated near to Dunkery Beacon, the highest point on the moor with outstanding views and is very close to the popular and impressive clapper bridge at Tarr Steps.
+Winsford is widely considered the prettiest village on [Exmoor](/europe/unitedkingdom/england/bristol_plymouth/exmoor), set in a hollow where the River Exe meets the Winn Brook. Thatched cottages cluster around a ford, and the village feels remarkably unvisited despite being within easy reach of the moor's main roads.
 
-
-
-http://www.devon-online.com/towns/exmoor/Welcome.html
+Two well-known Exmoor attractions are close by: Dunkery Beacon, the highest point on the moor at 519 metres, with wide views on clear days toward Wales and the Bristol Channel; and Tarr Steps, a medieval clapper bridge of flat stones spanning the River Barle, about four miles to the southwest.

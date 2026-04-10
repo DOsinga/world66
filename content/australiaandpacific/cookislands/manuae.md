@@ -1,8 +1,10 @@
 ---
-title: "Manuae"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: -19.2748
 longitude: -158.962403
+title: Manuae
+type: location
 ---
 
 Manuae, Cook Islands is an uninhabited atoll in the south Pacific Ocean. It consists of two islands enclosed by a lagoon.

@@ -1,14 +1,12 @@
 ---
-title: "Ravensthorpe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -33.581345
 longitude: 120.04735
+title: Ravensthorpe
+type: location
 ---
 
-Travel Guide
+Ravensthorpe is a small town in Western Australia, roughly 550 km southeast of Perth, 290 km east of Albany, and 187 km west of Esperance. It sits among ancient ranges, rocky hills, and rugged river valleys, with bushland rich in geology, native flora, and fauna.
 
-Ravensthorpe is located approximately 550 kms south east of Perth, 290 Kms East of Albany and 187 kms west of Esperance.
-
-The Ravensthorpe region is renowned for the natural beauty of its ancient ranges, rocky hills, rugged river valleys, estuaries, and large inlets. The bushland, including national parks, reserves and vacant crown land, is rich in geology, native flora and fauna.
-
-In the spring, visitors from around the world flock to the region to enjoy the display of abundant wildflowers, some species only to be seen around Ravensthorpe.
+The region is best known for its wildflowers. In spring, visitors from around the world come to see the display — some species grow only in the Ravensthorpe area. The Ravensthorpe Wildflower Show, held each September, is one of the largest community wildflower shows in Australia.

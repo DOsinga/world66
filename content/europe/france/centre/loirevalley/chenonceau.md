@@ -1,14 +1,14 @@
 ---
-title: "Chenonceau"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.3249
+longitude: 1.0705
+title: Chenonceau
 type: location
-latitude: 49.402035
-longitude: 2.816391
 ---
 
-A masterpiece of French renaissance, the Chateau de Chenonceau was built in the beginning of the 16-th century by Thomas Bohier, the Minister of Finance of Francois I. After his death, Henri II gave it to one of his mistresses, Diane de Poitiers. Since then the castle has always been under femal proprietorship. 
+The Château de Chenonceau is one of the most beautiful and most visited castles in the Loire Valley. Built in the early 16th century by Thomas Bohier, finance minister to François I, it spans the River Cher on a series of graceful arches — the gallery bridge is its most iconic feature and one of the defining images of the French Renaissance.
 
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
+After Bohier's death, Henri II gave the castle to his mistress Diane de Poitiers. When Henri died, his queen Catherine de' Medici forced Diane out and took it for herself. Since then the château has almost always been owned or managed by women, earning it the nickname "the ladies' castle."
 
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+The interior is richly furnished and well-preserved, with fine tapestries and period furniture. The gardens on either bank — Diane's formal garden and Catherine's more expansive one — are worth time on their own. In summer, the château is open for evening visits with illumination.

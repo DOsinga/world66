@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Athens"
+title: "Eating Out"
 type: section
 ---
 

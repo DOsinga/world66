@@ -1,6 +1,6 @@
 ---
 done:
-  location_cleanup: 2026-04-04
+  location_cleanup: '2026-04-10'
 latitude: 37.7749
 longitude: -122.4194
 title: San Francisco

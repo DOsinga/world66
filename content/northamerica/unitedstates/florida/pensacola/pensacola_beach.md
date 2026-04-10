@@ -1,12 +1,14 @@
 ---
-title: "Pensacola Beach"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 30.3342
+longitude: -87.1351
+title: Pensacola Beach
 type: location
-latitude: 30.334235
-longitude: -87.135098
 ---
 
-Travel Guide
+Pensacola Beach sits on Santa Rosa Island, a narrow barrier strip of white quartz sand about 8 km long, reached from the mainland via the Bob Sikes Bridge. The water is Gulf-clear and turns remarkable shades of green and turquoise in good light.
 
-Pensacola Beach is a tiny unincorporated strip of barrier beach near the city of Pensacola. Originally owned by the Army, it was handed over to the state of Florida in 1947 on condition that none of the land be sold, so all occupants have longterm leases. A big chunk is now one of the ten National Seashores in the U.S.
+The island has an unusual history: originally Army land, it was transferred to Escambia County in 1947 on condition that no land be sold outright, so all residents and businesses operate on long-term leases. A large section to the east is part of the Gulf Islands National Seashore, which protects the dunes and keeps development away from the most pristine stretch of beach.
 
-Several hotels dominate the eight-mile beach.
+Casino Beach at the island's west end is the social hub, with beach bars, restaurants, and volleyball courts. For quieter sand, walk east toward the national seashore boundary.

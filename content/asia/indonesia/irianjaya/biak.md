@@ -1,6 +1,6 @@
 ---
 done:
-  location_cleanup: '2026-04-08'
+  location_cleanup: '2026-04-09'
 latitude: -1.1836
 longitude: 136.0816
 title: Biak

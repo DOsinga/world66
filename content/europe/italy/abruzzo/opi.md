@@ -1,15 +1,14 @@
 ---
-title: "Opi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.780873
 longitude: 13.829524
+title: Opi
+type: location
 ---
 
-Travel Guide
+Opi is a tiny hilltop village near Pescasseroli in the National Park of Abruzzo, Lazio and Molise. It sits on a rocky spur with splendid views over the surrounding valleys and mountains — a picturesque cluster of stone houses that has changed remarkably little over the centuries.
 
-Opi is a very small vilage near to Pescasseroli in the National Park of Abruzzo, Lazio and Molise. It is the nearest place to the Val Fondillo, not only one of the really great parts of the park but with an easy trail to walk. Opi itself is delightful, with splendid views from the top, but not provide much by way of specific sights.
+The village is the nearest base to the Val Fondillo, one of the finest valleys in the park and home to an easy, well-marked trail through beech forest that is one of the best walks in the region. The park is known for its Marsican brown bears, Apennine wolves, and chamois, and the Val Fondillo is one of the better areas for wildlife sightings, particularly in the early morning.
 
-It is a good base for seeing the National Park.
-
-**Contributors**
-June 20, 2006
+Opi itself does not have specific sights beyond its setting and atmosphere, but that is enough. It makes a quiet, appealing base for exploring the national park.

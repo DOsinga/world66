@@ -1,10 +1,11 @@
 ---
 title: "Chersonesus"
-type: location
-latitude: 44.6103
-longitude: 33.4942
+type: poi
+category: "Sight"
+latitude: 44.583323
+longitude: 33.378866
 ---
 
-Chersonesus (Chersones) is an ancient Greek colony founded around 422 BC on a headland inside modern Sevastopol. For nearly a thousand years it was the largest and richest city in Crimea — a thriving Hellenic trading post that outlasted the fall of Rome and survived into the Byzantine period. The site is now a national archaeological reserve and museum.
+Chersonesus (Khersones) is an ancient Greek city on the outskirts of [Sevastopol](/europe/ukraine/crimea/sevastopol), founded in the fifth century BC as a Doric colony. For nearly a thousand years it was the most important city on the Crimean peninsula — a wealthy trading port, a Roman outpost, and later a Byzantine stronghold.
 
-The ruins are extensive: theatre, temples, a basilica, mosaic floors, and the remains of the street grid are all visible. The museum holds a fine collection of artefacts found on site. It is genuinely one of the most impressive classical sites in the former Soviet Union and a place worth taking time over.
+The ruins are extensive and well-preserved: city walls, a basilica, a theatre, residential quarters, and the iconic St Vladimir's Cathedral built over the site where Prince Vladimir of Kyiv is said to have been baptised in 988 AD, the event that brought Christianity to Kievan Rus. The on-site museum houses Greek and Roman artefacts, mosaics, and inscriptions. Chersonesus is a UNESCO World Heritage Site and one of the most important archaeological sites in the Black Sea region.

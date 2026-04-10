@@ -1,18 +1,14 @@
 ---
-title: "Lebanon"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.0484
+longitude: -86.4694
+title: Lebanon
 type: location
-latitude: 40.375713
-longitude: -76.462612
 ---
 
-Travel Guide
+Lebanon is the seat of Boone County, about 20 miles northwest of [Indianapolis](/northamerica/unitedstates/indiana/indianapolis) in central [Indiana](/northamerica/unitedstates/indiana). The town of about 14,000 was named for a grove of hickory trees that reminded its pioneer founders of the biblical cedars of Lebanon.
 
-Lebanon is the seat of Boone County, situated about 20 miles northwest of Indianapolis in central Indiana.
+The centrepiece of Lebanon is the Boone County Courthouse, a handsome limestone building with a stained-glass dome and a three-storey rotunda. A large Bicentennial Quilt, created for the nation's 200th birthday in 1976, hangs inside. The town square around the courthouse has the slow, pleasant feel of small-town Indiana.
 
-The population is estimated at 14,380. The community was named for a grove of hickory trees that reminded pioneer founders of the Biblical cedars of Lebanon.
-
-Major festivals include a lavish week-long Independence Day celebration and the annual Boone County 4-H Fair. The fairgrounds at the south end of the city is the site of numerous events each year, inclulding motorcycle rallies, Good Sam gatherings and an American Indian pow wow.
-
-The centerpiece of Lebanon is the Boone County Courthouse, a stately limestone structure that features a stained glass dome and three-story rotunda. A huge Bicentennial Quilt, created to mark the nation's 200th birthday in 1976, hangs in the rotunda.
-
-The city has two newspapers - the long-established Reporter and a recent start-up, The Daily Sun - and an FM radio station.
+Major events include a week-long Fourth of July celebration and the annual Boone County 4-H Fair. The fairgrounds at the south end of town host events year-round, including motorcycle rallies and gatherings.

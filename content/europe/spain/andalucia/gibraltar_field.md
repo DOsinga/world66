@@ -1,9 +1,14 @@
 ---
-title: "Campo de Gibraltar"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.1408
 longitude: -5.4531
+title: Campo de Gibraltar
+type: location
 ---
 
-Gibraltar field is located in south Andalucia, the capital is Algeciras and it is an important, economical and historic place. The north is full of tupid forrests where "almost is always raining" with beautiful towns like Jimena, Grazalema, or Alcalá de los Gazules. The coast is cover with long, fine gold sands beaches like Bolonia Beach with the Roman Ruins in the middle of the beach, Tarifa the paradise of surf or Zahara de los Atunes. The capital
-[Algeciras](/europe/spain/andalucia/algeciras) is a industrial center with the second most important harbour in Europe. In Algeciras Bay you can find interesant towns like Los Barrios, San Roque or La Línea de la Concepción. At the south of La Línea de la Concepción is Gibraltar. Gibraltar is a British Colony conquered by the English in 1704 and always reclaimed by Spain. Following the coast to the north we can find Sotogrande one of the most rich and luxurius cities only for great fortunes and Golf Players.
+The Campo de Gibraltar is the southernmost region of [Andalucía](/europe/spain/andalucia), where Europe almost touches Africa. The capital is [Algeciras](/europe/spain/andalucia/algeciras), an industrial city with the second-busiest port in Europe and the gateway to Morocco by ferry.
+
+The northern part of the region is covered in dense cork oak forests where it rains far more than you would expect this far south, with beautiful white towns like Jimena de la Frontera, Grazalema, and Alcalá de los Gazules tucked into the hills. The coast offers long, fine golden sand beaches: Bolonia Beach has Roman ruins right on the sand, Tarifa is a world-class destination for windsurfing and kitesurfing, and Zahara de los Atunes is a former tuna-fishing village that has kept its character.
+
+On the bay of Algeciras sit the towns of Los Barrios, San Roque, and La Línea de la Concepción. At the southern tip of La Línea stands Gibraltar, the British overseas territory claimed by Spain since it was taken in 1704. Following the coast north from the bay, you reach Sotogrande, an exclusive enclave of golf courses and luxury villas.

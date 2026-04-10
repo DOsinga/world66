@@ -1,28 +1,12 @@
 ---
-title: "Urbe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.477256
 longitude: 8.631393
+title: Urbe
+type: location
 ---
 
-On the northern side of the Ligurian
- Appennines, it consists of a number of
- settlements scattered over the upper valley of
- the Olba stream. Once a possession of the
- abbey of Tiglieto, it was donated to the bishop
- of Acqui in the eleventh century. Mentioned
- under the names of Urbs and Urba in the
- imperial diplomas of 981 and 1002, it shared
- the fortunes of Sassello, of which it formed part
- until 1798. The seventeenth-century parish
- church of San Giacomo, in the locality of
- Martino d’Olba, contains decorations and a
- marble altar from the eighteenth century. That
- of San Pietro d’Olba is a reconstruction from
- 1775. San Pietro d’Olba is a popular mountain
- resort with good hotel accommodation and
- various restaurants offering typical local
- cuisine. It attracts large numbers of vacationers
- in the summer and is famous for its excellent
- mushroom picking. There is also a local cottage
- industry producing furniture.
+Urbe lies on the northern side of the Ligurian Apennines, scattered across the upper valley of the Olba stream. Once a possession of the Abbey of Tiglieto, it was donated to the Bishop of Acqui in the eleventh century and shared the fortunes of Sassello until 1798.
+
+The hamlet of San Pietro d'Olba is a popular mountain resort with restaurants serving typical local cuisine. It draws visitors in summer and is famous for its mushroom picking in the surrounding forests. The seventeenth-century parish church of San Giacomo, in the locality of Martino d'Olba, contains decorations and a marble altar from the eighteenth century.

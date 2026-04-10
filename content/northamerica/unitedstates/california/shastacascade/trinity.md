@@ -1,8 +1,12 @@
 ---
-title: "Trinity"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.9862
+longitude: -122.693
+title: Trinity
 type: location
-latitude: 31.083445
-longitude: -95.121935
 ---
 
-Houseboat, fish, and camp at Trinity Lake. Outdoor enthusiasts will delight in the Trinity Alps Wilderness Area. Ranchers and city slickers alike will be intrigued by the impressive barbed-wire collection in the Scott Museum in Trinity Center.
+Trinity County is deep backcountry in far northern California, centred on the Trinity Alps Wilderness and the reservoir of Trinity Lake. This is where Californians come to escape — houseboat on the lake, fish for bass and trout, hike into the alpine wilderness, or simply camp under pines with nobody around.
+
+The Trinity Alps Wilderness Area offers some of the best backcountry hiking in the state, with granite peaks, glacial lakes, and far fewer people than the Sierra Nevada. Trinity Center, a tiny settlement on the north shore of the lake, is home to the Scott Museum and its curious collection of barbed wire.

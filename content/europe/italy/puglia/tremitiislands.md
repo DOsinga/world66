@@ -1,13 +1,14 @@
 ---
-title: "Tremiti islands"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.1148
 longitude: 15.487124
+title: Tremiti Islands
+type: location
 ---
 
-The Tremiti Islands are an exceptionally isolated archipelago in the Adriatic Sea approximately 40 km east of
-[Termoli](/europe/italy/molise/termoli) and 20 km north of the
-[Placencia peninsula](/northamerica/belize/placenciapeninsula) (the "spur" on the east coast of central Italy). The islands can be classified as arid or semi-arid limestone bluffs broken up by sections of heavily wooded land. Each island is extremely small and the largest of these can be crossed on foot in a matter of less than two hours. Accessible only by boat from Termoli (1 hour) or Pescara (3 hours), the islands are a favorite summer weekend retreat for Italians from
-[Pescara](/europe/italy/abruzzo/pescara),
-[Ancona](/europe/italy/marche/ancona), and
-[Bari](/europe/italy/puglia/bari). Although the small beaches can be absolutely jammed with the day-trippers, late afternoons and early evenings are the perfect time to enjoy the sunset and relax on the sand.
+The Tremiti Islands are a tiny archipelago in the Adriatic Sea, about 40km off the Gargano coast of [Puglia](/europe/italy/puglia). There are only three inhabited islands — San Domino, San Nicola, and Capraia — each small enough to cross on foot in under two hours. The landscape is arid limestone broken up by patches of Aleppo pine forest, with dramatic sea cliffs and hidden coves.
+
+Accessible only by ferry or hydrofoil from [Termoli](/europe/italy/molise/termoli) (1 hour) or seasonal services from [Pescara](/europe/italy/abruzzo/pescara) and other Adriatic ports, the islands are a favourite summer weekend escape for Italians. The small beaches can get absolutely packed with day-trippers, but late afternoons and early evenings are the perfect time to enjoy the sunset in relative peace. The sea is clear and excellent for snorkelling.
+
+San Nicola has the more interesting history — a fortified medieval abbey dominates the island — while San Domino has the better beaches and the only hotel accommodation.

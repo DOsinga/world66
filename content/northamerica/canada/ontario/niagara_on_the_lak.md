@@ -1,16 +1,14 @@
 ---
-title: "Niagara on the Lake"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.255612
 longitude: -79.072326
+title: Niagara-on-the-Lake
+type: location
 ---
 
-Travel Guide
+Niagara-on-the-Lake is a small, immaculate town at the mouth of the Niagara River where it meets Lake Ontario, about 20km north of [Niagara Falls](/northamerica/canada/ontario/niagarafalls). With its tree-lined streets, heritage buildings, and manicured gardens, it has a distinctly British feel — a legacy of its role as the first capital of Upper Canada.
 
-Just north of Niagara Falls and east of St. Catharines, this sleepy bedtime community provides visitors a host of unique boutiques, bed and breakfasts, and a British influence that is not shown anywhere else in the Niagara region.
+The town is home to the Shaw Festival, one of Canada's premier theatre companies, which runs productions on three stages from April through October. The main street, Queen Street, is lined with boutiques, bakeries, and restaurants that cater to a well-heeled weekend crowd.
 
-Niagara-On-The-Lake is home to The Shaw Festival with live theatre at three different stages. A must see as it is the one of the best theatres in Canada!
-
-Niagara-On-The-Lake is in the heart of Niagara's wine industry. Dozens of excellent wineries are located here or nearby which have won numerous gold medals in world wine competitions. Come for wine tasting at most wineries.
-
-Stay for a weekend, on your stopover in Niagara Falls, St. Catharines or Toronto.
+Niagara-on-the-Lake is also at the heart of Ontario's wine country. Dozens of wineries surround the town, many offering tastings, and the region is particularly known for its ice wine — made from grapes left to freeze on the vine. A day spent cycling between wineries along the flat, scenic back roads is one of the best things to do here.

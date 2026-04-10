@@ -1,5 +1,5 @@
 ---
-title: "Getting to Paestum"
+title: "Getting There"
 type: section
 ---
 

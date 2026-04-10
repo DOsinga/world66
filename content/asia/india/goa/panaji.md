@@ -1,12 +1,12 @@
 ---
-title: "Panaji"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 15.498995
 longitude: 73.828214
+title: Panaji
+type: location
 ---
 
-Panaji, formerly known as Panjim and before that as New Goa, is the capital of Goa state. It is a rather small town, overlooked by the Altinho hill to the south.
- The town does not have great buildings or attractions, but there is enough here to keep you busy for at least a day.
+Panaji (formerly Panjim) is the capital of Goa, a small and manageable town overlooked by the Altinho hill to the south. It lacks the grand monuments of Old Goa a few kilometres upriver, but has a relaxed charm of its own — particularly in the old Latin Quarter of Fontainhas, where narrow lanes wind between colourful Portuguese-era houses with tiled roofs and wrought-iron balconies.
 
-
- The old district of Fontainhas is the nicest part of town. It has a lot of atmosphere and it is nice to walk around here. When you are done strolling, head for the Altinho, the hill overlooking the town. It offers great views over the estuary. There are good beaches close to Panaji. The seafront boulevard runs south for three kilometers.
+Fontainhas is the nicest part of town for a stroll. When you are done wandering, climb the Altinho for views over the Mandovi estuary. The seafront boulevard runs south for three kilometres and makes for a pleasant evening walk. Good beaches are close by — Miramar is the nearest, though the beaches further south or north along the coast are better for swimming.

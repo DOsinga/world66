@@ -1,8 +1,12 @@
 ---
-title: 'Linosa'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.8652
 longitude: 12.8675
+title: Linosa
+type: location
 ---
 
-This is the first island we come to in the Straits of Sicily, and constitutes, together with Lampedusa and the desert rock Lampione, the Pelagian archipelago proper. Known in ancient times as Aetusa (Algusa), it is obviously of volcanic origin. Its highest hill, Mount Vulcano, measures 195 meters. The only town of any size is Linosa, a typical agricultural and fishing settlement.
+Linosa is a tiny volcanic island in the Strait of Sicily, part of the Pelagian archipelago along with Lampedusa and the uninhabited rock of Lampione. With its black lava coastline, colourful cube-shaped houses, and crystal-clear water, it feels closer to Africa than to mainland Italy — because geographically, it is.
+
+The island rises to 195 metres at Monte Vulcano and is home to a single small settlement of the same name, where fishing and farming still define daily life. Linosa is one of the few places in the Mediterranean where Caretta caretta sea turtles still nest on the beaches. If you are looking for somewhere genuinely off the beaten path with exceptional snorkelling, this is it.

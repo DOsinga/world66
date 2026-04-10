@@ -3,6 +3,6 @@ title: "Bars and Cafes"
 type: section
 ---
 
-### [Bar George wine bar](/europe/isleofman/douglas/barsandcafes/bar_george_wine_ba)
+Douglas has a solid pub scene concentrated around the harbor and Strand Street areas. The finance sector keeps things lively on Friday evenings, and during TT week the whole town turns into one big party.
 
-Superb wine bar with excellent food in the centre of Douglas, just one street away from the financial district. Very popular, particularly on a Friday after work, with the finance sector workers.
+**Bar George** is a well-regarded wine bar with excellent food in the center of town, just off the financial district. It draws a smart after-work crowd, especially on Fridays.

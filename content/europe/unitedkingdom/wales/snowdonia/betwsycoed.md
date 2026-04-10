@@ -1,8 +1,10 @@
 ---
-title: "Betws-y-Coed"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 53.094237
 longitude: -3.825125
+title: Betws-y-Coed
+type: location
 ---
 
 Betws-y-Coed sits where the Conwy, Llugwy and Lledr rivers meet at the edge of the Gwydyr Forest. It is a natural base for walking in Snowdonia — short trails lead to Conwy Falls and Swallow Falls, while longer routes climb through the forest to the summit of Moel Siabod.

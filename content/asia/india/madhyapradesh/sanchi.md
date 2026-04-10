@@ -1,8 +1,12 @@
 ---
-title: "Sanchi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 23.487634
 longitude: 77.736068
+title: Sanchi
+type: location
 ---
 
-Located 68 kms from Bhopal, Sanchi is distinctive because it has the finest specimens of almost all sorts of Buddhist architectural forms, such as stupas, chaityas, temples and monasteries (dating from the 3rd century BC). Visit the stupas with circular domes and railings around them and the Ashoka Pillar. The Gupta temple, built in the 4th century, and the Great Bowl carved out of one piece of stone are also impressive sights. The museum displays a number of sculptures found in the surrounding area.
+Sanchi is a small village about 68 km northeast of Bhopal that contains one of the most remarkable concentrations of Buddhist architecture in the world — a UNESCO World Heritage Site. The hilltop complex spans nearly 1,000 years of continuous building from the 3rd century BC through the 12th century AD, and includes stupas, temples, chaityas, and monasteries in various states of preservation.
+
+The Great Stupa (Stupa No. 1), commissioned originally by the Emperor Ashoka in the 3rd century BC and enlarged by later dynasties, is the centrepiece. Its four elaborately carved gateways (toranas) are among the finest examples of early Indian art, depicting scenes from the Buddha's life with extraordinary detail and vitality. Also worth seeing are the Ashoka Pillar (now broken), a Gupta-period temple from the 4th century, and the Great Bowl carved from a single stone. The site museum houses sculptures excavated from the complex.

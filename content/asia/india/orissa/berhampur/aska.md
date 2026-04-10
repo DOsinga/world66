@@ -1,13 +1,12 @@
 ---
-title: 'Aska'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 19.606087
 longitude: 84.672452
+title: Aska
+type: location
 ---
 
-Travel Guide
+Aska is a town in Ganjam District, Odisha, about 40 km from [Berhampur](/asia/india/orissa/berhampur). It is known locally as the "Sugar City," a nickname earned by what is claimed to be one of the oldest sugar mills in Asia, established here during the British colonial period in 1824.
 
-Aska also known as" The Sugar City" is 40 Km away from Berhampur. Aska is famous
-for the "Asia's first sugar Industry" established during British Rule in India in 1824.
-
-Aska is also famous for the temple of Goddess Khambeswari and "The Dandanacha" a festival of Goddess "Maa Kali" during spring summer (March-April). The must see on the festival is the last day called "Meru".
+The Khambeswari temple is the main religious site in town. The most animated time to visit is during the Dandanacha festival (March–April), dedicated to the goddess Maa Kali, which culminates on the final day — the Meru — in a procession that draws large crowds from the surrounding area.

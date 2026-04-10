@@ -1,12 +1,12 @@
 ---
-title: "Pirkkala"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 61.466146
 longitude: 23.646265
+title: Pirkkala
+type: location
 ---
 
-Travel Guide
+Pirkkala is a small municipality of about 15,000 people just south of [Tampere](/europe/finland/tampere), about 15 minutes by road. It is home to Tampere-Pirkkala International Airport, the gateway for budget flights into the Tampere region, and its main claim to fame for travellers.
 
-A cosy small town with 15.000 inhabitants, just 15 minutes to [Tampere](/europe/finland/tampere). The nordic hub of Ryanair, the Tampere Pirkkala International Airport, is located in Pirkkala.
-
-Pirkkala is not too famous of anything else than the Airport, but the high quality public services and nice location just by the lake Pyhäjärvi make it a nice place to live in. In Pirkkala you will find traditional and modern Finnish housing, countryside as well as modern shopping mills.
+The town itself sits beside Lake Pyhäjärvi and offers a quiet, residential character. For most visitors, Pirkkala is simply the airport town — [Tampere](/europe/finland/tampere) is the destination worth your time.

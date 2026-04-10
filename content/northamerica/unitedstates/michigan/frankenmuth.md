@@ -1,10 +1,12 @@
 ---
-title: "Frankenmuth"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.332368
 longitude: -83.739229
+title: Frankenmuth
+type: location
 ---
 
-Travel Guide
+Frankenmuth is a small city about 20 miles north of Flint, Michigan, that has leaned hard into its German heritage. Founded in 1845 by Bavarian immigrants, it has built a thriving tourist trade around its Bavarian architecture, German food, and year-round Christmas spirit. It's unusual enough to be worth a visit if you're in the area.
 
-This German town is about 20 miles north of Flint and worth a side trip. If you like good German food, stop at the Bavarian Inn. Unless you're really hungry, opt for the lunch menu. Also on Main Street is Willi's Sausage Shop where they make the meats that are for sale. There are carriage rides which pick up passengers near the covered bridge. Frankenmuth is also home to Bronner's Christmas Wonderland. Allow a couple of hours at Bronner's to see everything and do some shopping.
+The Bavarian Inn on Main Street is the main restaurant draw — a sprawling place serving traditional German-American food. Down the road, Willi's Sausage Shop makes and sells the smoked meats on the premises, and is worth a stop. Carriage rides pick up passengers near the covered bridge. Bronner's Christmas Wonderland, open year-round, is billed as the world's largest Christmas store and draws visitors from across the Midwest — allow a couple of hours if you go.

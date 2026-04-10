@@ -1,10 +1,12 @@
 ---
-title: "Jerusalem"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 31.7683
+longitude: 35.2137
+title: Jerusalem
 type: location
 ---
 
-Travel Guide
+Jerusalem is one of the oldest and most contested cities on earth — sacred to Judaism, Christianity, and Islam, and at the centre of a political dispute that has not been resolved. The UN voted in 1947 to place the city under international administration; no party accepted this. West Jerusalem came under Israeli control in 1948; East Jerusalem, including the Old City, was occupied by Israel in 1967. The status of the city remains disputed, and the de facto Israeli annexation of East Jerusalem has not been recognised by most of the international community.
 
-The United Nations decided in 1947 to establish a demilitarized zone in Jerusalem under the aegis of the United Nations Trusteeship Council. None of the parties accepted this. Western Jerusalem came under Israel control in 1948 and East Jerusalem was occupied by Israel in 1967. The status of the city is still disputed and the de facto Israeli annexation has not been internationally accepted.
-
-In Jerusalem there are holy sites for Muslims, Christian and Jews. For further information, see under [Israel](/asia/israel).
+The Old City contains the Western Wall, the Church of the Holy Sepulchre, and the Al-Aqsa Mosque and Dome of the Rock — all within walking distance of each other. For full coverage, see the [Israel](/asia/israel) section.

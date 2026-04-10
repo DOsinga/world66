@@ -1,10 +1,12 @@
 ---
-title: "Ars-en-Ré"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 46.208056
+longitude: -1.515833
+title: Ars-en-Ré
 type: location
-latitude: 46.2081
-longitude: -1.5158
 ---
 
-**Ars-en-Ré** is the prettiest village on the Île de Ré and the unofficial capital of its western half. The black-and-white painted church spire — originally a navigation marker for sailors — is the island's most recognisable landmark.
+Ars-en-Ré is one of the most distinctive villages on the Île de Ré, known above all for the black-and-white painted steeple of its Gothic church — a landmark visible from the sea that has guided sailors into port for centuries. The village sits at the northern end of the island, bordered by oyster beds and salt marshes that give it a quieter, less touristed character than the beaches further south.
 
-The village is small enough to walk in ten minutes, but the narrow streets, whitewashed houses, and tiny harbour are worth lingering over. The salt marshes begin just north of town, where *sauniers* still harvest fleur de sel by hand. You can visit the marshes on foot or by bike and buy salt direct from the producers.
+The old harbour is the heart of town, where fishing boats tie up alongside pleasure craft and the morning catch is sold at the quay. The surrounding lanes are narrow enough that cars are a nuisance and a bicycle the obvious way to get around — the island's cycle path network passes through Ars on its way around the coast.

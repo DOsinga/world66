@@ -1,14 +1,14 @@
 ---
-title: "St. Aignan"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 47.2667
+longitude: 1.3667
+title: St. Aignan
 type: location
-latitude: 44.948632
-longitude: -0.29684
 ---
 
-Located on the banks of the Cher river, St.Aginan has a charming old centre and an impressive chateau which is not open to visitors. You can climb up and guess what you get when you are there - a great view over the Cher valley. 
+St. Aignan is a small town in the Loir-et-Cher department, sitting on the south bank of the Cher river in the heart of the Loire Valley. The old town climbs the hill above the river in a series of narrow lanes lined with Renaissance and medieval houses, giving it a more authentic feel than the larger chateau towns nearby.
 
+The collegiate church of St. Aignan, partly Romanesque and partly Gothic, dominates the upper town and is worth visiting for its Romanesque crypt with 11th-century capitals. The chateau above the church is privately occupied and not open to visitors, but the terrace outside its gates offers an excellent view over the Cher valley and the rooftops of the old town.
 
-
-
-
-In the old town most of the hosues go
+St. Aignan is a comfortable base for exploring southern Touraine. The ZooParc de Beauval, one of France's most celebrated zoos and home to giant pandas, is just 4 km south. Vineyards producing Touraine wines surround the town.

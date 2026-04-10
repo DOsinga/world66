@@ -1,10 +1,12 @@
 ---
-title: "Hoch Ybrig"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 47.015476
 longitude: 8.799598
+title: Hoch Ybrig
+type: location
 ---
 
-Hoch Ybrig is a ski area close to
-[Zurich](/europe/switzerland/zurich). By public transport you can get here in 1,5 hours. First by train to
-[Einsiedeln](/europe/switzerland/einsiedeln) and then by bus. You can get a combined ticket for train, bus and the skiing area at the station.
+Hoch-Ybrig is a family-friendly ski resort in the Schwyz Pre-Alps, about 90 minutes from [Zurich](/europe/switzerland/zurich) by public transport. You take the train to [Einsiedeln](/europe/switzerland/einsiedeln) and then a bus up into the mountains. With around 50 km of pistes — mostly blue and red runs — it draws families and intermediate skiers rather than thrill-seekers, and the slopes rarely feel crowded. A handy combined ticket covering train, bus, and lift pass can be bought at the station, which takes the hassle out of getting there.
+
+In summer the ski runs give way to hiking trails through the Pre-Alpine landscape. It is a small resort, not a destination you would plan a whole trip around, but as a day or weekend escape from Zurich it works well.

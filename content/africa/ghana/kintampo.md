@@ -1,10 +1,14 @@
 ---
-title: "Kintampo"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 8.053714
 longitude: -1.728919
+title: Kintampo
+type: location
 ---
 
-This place is especially known for it's beautyfull and very touristic waterfalls. 
+Kintampo is a town in the Bono East Region of central Ghana, roughly halfway between Accra and Tamale and positioned near the geographic centre of the country. It sits at a transitional zone between the forest belt to the south and the drier savanna to the north, and this in-between character shapes the landscape around it.
 
-But what many people don't know is that ther's a prayer park not far away either, less visited by tourists. The prayerpark also has a beatyfull waterfall which you'll ba able to climb if you want. And down the fall it is deep enough to swim.
+The main draw for visitors is the Kintampo Waterfalls, a series of falls on the Pumpum River set within a gorge of mossy rocks and forest. The falls are accessible by a short walk from the road and popular with Ghanaian day-trippers at weekends. There is also a smaller, less-visited set of falls at the nearby Fuller Falls, and a scenic viewpoint above the town.
+
+Kintampo functions as a practical stop on the road north — a place to break the journey, eat, and refuel — as much as a dedicated destination.

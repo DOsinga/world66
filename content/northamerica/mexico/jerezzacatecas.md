@@ -1,12 +1,14 @@
 ---
-title: "Jerez Zacatecas"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 22.648
+longitude: -102.998
+title: Jerez Zacatecas
 type: location
-latitude: 26.874167
-longitude: -101.402642
 ---
 
-We currently have no information about Jerez Zacatecas.
+Jerez de García Salinas is a small colonial town in the state of Zacatecas in northern Mexico, about an hour's drive south-west of Zacatecas city. It is a well-preserved example of a provincial Mexican colonial town — a central plaza lined with arcaded buildings, a fine parish church, and streets of pink stone that give the whole place a warm, unhurried character.
 
-If you do know any general information about Jerez Zacatecas, please [Edit this article].
+The town has a strong literary association as the birthplace of the poet Ramón López Velarde, whose most famous poem, "Suave Patria," is considered a defining work of Mexican national identity. His childhood home is now a museum.
 
-If you know any hotels in Jerez Zacatecas or restaurants in Jerez Zacatecas, please [[Add].](/destinations/addItemWizard?addwhere=northamerica/mexico/jerezzacatecas)
+Jerez is quieter and less touristed than Zacatecas city, and makes a worthwhile half-day trip for those already in the region. The local market and the main square are particularly lively on weekends.

@@ -1,8 +1,10 @@
 ---
-title: "Ushuaia"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: -54.8073
 longitude: -68.3084
+title: Ushuaia
+type: location
 ---
 
 Ushuaia claims to be the southernmost city in the world, and the setting backs it up: wedged between the Martial mountains and the Beagle Channel on the southern coast of Tierra del Fuego, it feels genuinely remote. The town is the main base for exploring Tierra del Fuego National Park and for boat trips through the islands of the Beagle Channel, where you can see sea lions, penguins, and cormorants.

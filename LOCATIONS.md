@@ -42,9 +42,7 @@ For longer text, use a YAML block scalar (`story: >`).
 
 #### Neighbourhood POIs
 
-For large cities, add `Neighbourhood` POIs for the most characterful districts — typically 3–5 per city. Other POIs tagged with `neighbourhood: "Name"` are automatically listed on the neighbourhood page, so a visitor reading the Trastevere page sees all restaurants and bars in Trastevere without Trastevere being a separate location in the hierarchy.
-
-The `neighbourhood:` value must match the neighbourhood POI's `title` exactly (case-sensitive).
+For large cities with a `neighbourhoods.md` section group, tag each POI with both `neighbourhood: "Exact Title"` and the neighbourhood slug in `tags:` — e.g. `tags: [things_to_do, jordaan]`. This wires the POI to the neighbourhood page via the tag system. The `neighbourhood:` value must match the neighbourhood page's `title` exactly (case-sensitive).
 
 ### Eating Out (`eating_out.md`)
 
@@ -92,28 +90,28 @@ How to arrive — airports, train stations, bus connections.
 
 Transport within the city — metro, buses, taxis, walking, bike rental.
 
-### Explore by Neighbourhood (`explore.md`)
+### Neighbourhoods (`neighbourhoods.md`)
 
-For major cities, an `explore` section provides a neighbourhood-by-neighbourhood guide to the city. Each neighbourhood lives in `explore/` as its own file with `type: neighbourhood`.
+For major cities, a `neighbourhoods` section group provides a neighbourhood-by-neighbourhood guide. The section group file and each neighbourhood page live at the **city root** — not in a subdirectory.
 
 ```yaml
 ---
-title: "Explore by Neighbourhood"
-type: section
+title: "Neighbourhoods"
+type: section_group
 ---
 
 Brief intro describing how the city divides into areas and why neighbourhood-by-neighbourhood exploration rewards the visitor.
 ```
 
-Each neighbourhood file:
+Each neighbourhood file lives at the city root (e.g. `amsterdam/jordaan.md`):
 
 ```yaml
 ---
-title: "Soho"
+title: "Jordaan"
 type: neighbourhood
-latitude: 51.5137
-longitude: -0.1337
-image: soho.jpg
+latitude: 52.3738
+longitude: 4.8827
+image: jordaan.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:..."
 image_license: "CC BY-SA 4.0"
 ---
@@ -121,7 +119,7 @@ image_license: "CC BY-SA 4.0"
 [3–5 paragraphs describing the neighbourhood's character, history, streets, and what draws people there.]
 ```
 
-The `neighbourhood:` tag on POIs in other sections (e.g. `things_to_do/`, `eating_out/`) connects them to their neighbourhood page. The value must match the neighbourhood's `title` exactly (case-sensitive). POIs remain in their original sections — the neighbourhood page just references them.
+POIs tagged with the neighbourhood's slug (e.g. `tags: [jordaan]`) appear on the neighbourhood page automatically. Neighbourhood-local streets, squares, and parks live in a subdirectory (`amsterdam/jordaan/bloemgracht.md`) and also carry `tags: [jordaan]`.
 
 Major world capitals should have 15–25 neighbourhood entries. Smaller cities 8–12.
 

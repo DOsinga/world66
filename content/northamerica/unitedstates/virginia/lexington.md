@@ -1,10 +1,12 @@
 ---
-title: "Lexington"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.046407
 longitude: -84.497039
+title: Lexington
+type: location
 ---
 
-Nestled in the Shenandoah Valley this special place that has all the ingredients for a perfect vacation. Surrounded by natural wonders and beauty of the Smokey Mountains, Lexington boasts hometown charm, southern hospitality and a history unmatched. Whether it's dining, shopping, museums, or outdoor adventure, you'll have an experience of a lifetime in our backyard. 
+Lexington sits in the Shenandoah Valley, a small town with a strong sense of history and easy access to the surrounding mountains.
 
-Also the home of Washington and Lee University which houses the remains of General Robert E. Lee. This I can tell you from personal experieince is well worth the visit. You can also walk over and see the resting place of Stonewall Jackson another hero of the South.
+Washington and Lee University is here, housing the remains of General Robert E. Lee and well worth a visit. Nearby you can also see the resting place of Stonewall Jackson. Beyond the Civil War history, there is good dining, a handful of shops, and plenty of outdoor options in the area.

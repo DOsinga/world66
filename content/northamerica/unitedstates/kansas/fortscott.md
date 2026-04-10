@@ -1,11 +1,12 @@
 ---
-title: "Fort Scott"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.839979
 longitude: -94.708288
+title: Fort Scott
+type: location
 ---
 
-The thirty-one year span of history interpreted at Fort Scott National Historic Site is perhaps the most significant era of our nation's history. Fort Scott witnessed a decade of rapid westward expansion in the 1840s followed by civil strife and unrest in the 1850s that brought about our nation's deadliest conflict-the Civil War. 
+Fort Scott is a small city in southeastern Kansas whose history is inseparable from the conflicts that shaped America. The Fort Scott National Historic Site preserves a frontier military post that witnessed westward expansion in the 1840s, Bleeding Kansas in the 1850s, and the Civil War that followed.
 
-
- Fort Scott National Historic Site consists of 20 historic structures, a parade ground and five acres of restored tallgrass prairie. The architectural style of the buildings is French Colonial with Greek Revival elements. The exteriors of the buildings are restored to their 1840s appearance.
+The site consists of 20 historic structures arranged around a parade ground, built in a French Colonial style with Greek Revival elements. The exteriors are restored to their 1840s appearance. Five acres of tallgrass prairie surround the complex, giving a sense of the landscape soldiers and settlers would have known.

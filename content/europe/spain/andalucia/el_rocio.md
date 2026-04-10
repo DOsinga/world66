@@ -1,8 +1,10 @@
 ---
-title: "El Rocio"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.130708
 longitude: -6.484735
+title: El Rocio
+type: location
 ---
 
 This is an exceptional village for several reasons. The one which most inhabitants would give is that it is the destination for an annual romero or pilgrimage. There is a brotherhood connected with this which owns nearly all property in the village.

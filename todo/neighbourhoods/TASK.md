@@ -188,14 +188,14 @@ Example: `amsterdam/jordaan/bloemgracht.md` with `tags: [jordaan]`.
 
 ## Cities with sub-locations
 
-Some major cities (Tokyo, London boroughs, etc.) have their districts or wards stored as separate child locations in the hierarchy — e.g. `tokyo/shinjuku.md` with `type: location`. When you encounter this:
+Some major cities (London, Tokyo, etc.) have districts stored as separate child locations — e.g. `london/shoreditch.md` with `type: location`, with its own `things_to_do/`, `eating_out/` subdirectories. **Always convert these to neighbourhood pages.** There is no case where a sub-location should stay as a `type: location` inside a city.
 
-1. **Convert them to neighbourhood files.** Change `type: location` to `type: neighbourhood` and move the file to the city root if needed.
-2. **Collapse the content.** Merge any content from the sub-location's own sections (things_to_do, eating_out, etc.) into the neighbourhood page body — cite the key POIs inline rather than keeping them as separate files under the old sub-location.
-3. **Redirect the old path.** Add a redirect in `redirects.json`: `"old/path/subdistrict" → "city/subdistrict"`.
-4. **Delete the old sub-location files.** Remove the `.md` file and its directory once its content has been merged.
+1. **Convert to a neighbourhood file.** Change `type: location` to `type: neighbourhood`. The file stays at its current city-root path (e.g. `london/shoreditch.md`).
+2. **Flatten the sub-location's POIs.** Apply the same POI flattening step as for the city itself: move POI files from `shoreditch/things_to_do/poi.md` to the city root (`london/poi.md`) and add `tags: [things_to_do, shoreditch]`.
+3. **Delete the sub-location's section files and empty directories.** Once POIs are at the city root, remove `shoreditch/things_to_do.md`, `shoreditch/eating_out.md`, etc. Remove now-empty directories.
+4. **Redirect if the URL changed.** If the sub-location moved (e.g. from `london/districts/shoreditch` to `london/shoreditch`), add a redirect in `redirects.json`.
 
-The goal is a single canonical city page where neighbourhoods live at the city root, not as scattered sub-locations.
+The goal is a single flat city structure: all POIs at the city root with tags, all neighbourhoods as `type: neighbourhood` pages at the city root.
 
 ## What makes a good neighbourhood list
 

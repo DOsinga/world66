@@ -1,5 +1,7 @@
 ---
-title: "Practical Information"
+done:
+  location_cleanup: '2026-04-10'
+title: Practical Information
 type: location
 ---
 

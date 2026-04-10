@@ -1,12 +1,10 @@
 ---
-title: "Sabang (Island)"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 5.8833
+longitude: 95.3167
+title: Sabang Island
 type: location
 ---
 
-Travel Guide
-
-Sabang is the main town on this island, about an hour's ferry ride from Banda Aceh. The island is very relaxed and offers swimming, snorkelling and diving.
-
-The island is also called "Pulau Weh" or "Weh island".
-
-Sabang town has an area picturesque with a number of colonial homes. For more information: http://www.amuba.web.id/demo/sabang/tourism_information.htm or here: http://geocities.com/kepulauan/sabang/
+Sabang is the main town on Pulau Weh (Weh Island), about an hour's ferry ride from [Banda Aceh](/asia/indonesia/aceh/banda_aceh). The island is very relaxed and offers excellent swimming, snorkelling, and diving — the reefs around Iboih and Rubiah Island are among the best in Sumatra. Sabang town itself has a picturesque centre with a scattering of colonial-era houses.

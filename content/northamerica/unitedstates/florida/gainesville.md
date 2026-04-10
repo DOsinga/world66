@@ -1,18 +1,12 @@
 ---
-title: "Gainesville"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 29.652
+longitude: -82.325
+title: Gainesville
 type: location
-latitude: 29.651968
-longitude: -82.324985
 ---
 
-Gainesville, Florida is located smack dab in the middle of Florida.
-Home of the University of Florida gainesville is basically a college
-town. Therefore its population drops dramatically when students aren't
-in school. Besides the university gainesville has lots more to offer
-such as the performing arts center the natural history museum and the
-brand new huge buterfly garden, just to name a few.
+Gainesville is a college town in north-central Florida, home to the University of Florida and shaped almost entirely by it. When school is in session the city buzzes with energy; when students leave, it goes noticeably quiet. For visitors, Gainesville offers a pleasant surprise — more culture and nature than you expect from inland Florida.
 
-**Contributors**
-September 06, 2005
-
-September 07, 2005
+The Florida Museum of Natural History is excellent, and the adjacent Butterfly Rainforest — a screened vivarium with hundreds of free-flying butterflies — is one of the best of its kind in the country. The surrounding area is rich in natural springs; Ichetucknee Springs and Ginnie Springs are both within an easy drive and offer crystal-clear water for swimming and tubing. The town itself has a decent live music scene, good affordable restaurants near the university, and the kind of independent bookshop culture that college towns do well.

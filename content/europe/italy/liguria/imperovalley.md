@@ -1,19 +1,14 @@
 ---
-title: "Impero valley"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 43.939627
 longitude: 8.010234
+title: Impero Valley
+type: location
 ---
 
-This itinerary starts from [Imperia](/europe/italy/liguria/imperia) just off the [Genoa](/europe/italy/liguria/genoa)-[Ventimiglia](/europe/italy/liguria/italianriviera/ventimiglia) motorway (Imperia est exit) and you come across Pontedassio famous for the "Spaghetti museum" and whit many big interesting shopping supermarkets. Going further you enter in one olive tree area and if you go up to Lucinasco you can visit the interesting medieval village with the churches of St. Stephan (Santo Stefano) and of the Maddalena still like it was in the 15th century, full immersed in the olive groves. returning down to Chiusanico with the Olivetan Santuary, you find then Rezzo, an ancient mountain village controlled by the powerful Clavesana family with a palace-fortress and with one of the largest beech wood in Liguria. The road takes you then to Pieve di Teco in the Arroscia valley.
+The Impero Valley runs inland from [Imperia](/europe/italy/liguria/imperia) into the hills behind the coast, a quiet route through olive groves and medieval villages that most coastal visitors never discover. Take the Imperia Est motorway exit and head up through Pontedassio, which has a small pasta museum, and into the olive country beyond.
 
+Lucinasco is worth a detour — a tiny medieval village with the churches of Santo Stefano and the Maddalena still looking much as they did in the fifteenth century, surrounded by olive groves. Further up the valley, Rezzo is an ancient mountain village once controlled by the Clavesana family, with a palace-fortress and one of the largest beech woods in Liguria. The road eventually descends to Pieve di Teco in the Arroscia Valley.
 
- Ligurian and and somewhere Piedmontese gastronomy in this valley. Olive oil, cheese, raspebberries, bilberries and mushroom-oil are to be considered together with Pigato, Dolcetto or Ormeasco wines.
-
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
-
-
- pelos@tn.village.it
-
-
- http://www.global.village.it/~pelos/index.htm
+The gastronomy here blends Ligurian and Piedmontese traditions. Local olive oil is excellent, and you will find mushrooms, chestnuts, raspberries, and bilberries alongside Pigato, Dolcetto, and Ormeasco wines.

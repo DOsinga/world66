@@ -1,12 +1,12 @@
 ---
-title: "Patnitop"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.09082
 longitude: 75.32639
+title: Patnitop
+type: location
 ---
 
-If you like a peaceful and quiet place, then this hill station in the Jammu area is the place for you to stay. Patnitop is located at a considerable height and is surrounded by trees. It takes four hours to reach the top via Katra. The best place to stay is JKTDC Cottages, owned by the government. The location is perfect, amidst the trees and in the centre of town. Other options to spend the night at Patnitop are GreenTop hotel, Hotel Samsar, Hotel Vardaan Resort, Hotel Oasis Resort and Hotel Jaiskahan. 
+Patnitop is a small hill station in the Jammu region, perched at about 2,024 metres in the Shivalik range and surrounded by dense pine and deodar forest. It is a quiet, unhurried place — the kind of hill retreat where the main activity is walking through the woods and breathing the mountain air.
 
-
-
-From Patnitop, you can visit Sanasar which resembles Patnipop a bit. The only difference is that Sanasar is situated on a heigher location. While going towards Sanasar, Mathatop/NathaTop is the place to visit. From this point you can get a clear view of Patnitop which offers some excellent trekking routes as well.
+The views from Nathatop, a short drive higher up, are spectacular on a clear day — you can see the snow-covered Himalayan peaks stretching across the horizon. Nearby Sanasar, at a slightly higher elevation, has a meadow popular for paragliding and horse riding. Patnitop itself has a few good trekking routes through the forest and makes a pleasant stop on the Jammu–Srinagar highway.

@@ -1,18 +1,16 @@
 ---
-title: "Marquesas"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -9.779326
 longitude: -139.006784
+title: Marquesas
+type: location
 ---
 
-Just south of the equator, the Marquesas Islands are the furthest islands from any continent and are a 3.5 hour flight from Tahiti. Jagged volcanic mountains jut imposingly out of the sea and waves crash against cliff faces. However, the islands are also lushly forested, with an amazing range of flora. 
+The Marquesas are the most remote inhabited islands on earth — further from any continent than anywhere else in the Pacific. A 3.5-hour flight from [Tahiti](/australiaandpacific/frenchpolynesia/tahiti), they feel like a different world entirely. Jagged volcanic peaks jut straight out of the ocean, waves crash against sheer cliff faces, and the valleys behind are lushly forested with an extraordinary range of tropical flora.
 
+The islands have a rich Polynesian heritage, with ancient stone ruins, ceremonial platforms, and giant tiki carved in rock — related to but distinct from their Easter Island counterparts. The archaeological sites are scattered through the valleys and are often reached only on foot or by horseback.
 
- Visitors will find plenty of sea and land based activities, including sailing, deep-sea fishing, hiking and horseback riding. They can watch artisans as they create unique works of art.
+Hiva Oa is the most visited island, with deep valleys and dense forest. It is the final resting place of both the painter Paul Gauguin and the Belgian singer Jacques Brel — both came here to escape and never left. Ua Pou's dramatic basalt spires give it the name "The Pillars," and Ua Huka is known for its birdlife and petroglyphs. Fatu Hiva, the most remote of the group, is famous for its tapa cloth and wood carving.
 
-
- 
- The islands also have a fascinating archaeological attraction, with ancient ruins and giant tiki, carved in rock like their Easter Island 'neighbours'.
-
-
- Although there are no hotels, there are some small pensions and home stay accommodation. The island of Hiva Oa, with its deep valleys and lush plateaus covered in dense forest, is popular with 'yachties'. It is home to the graves of artist Paul Gauguin and singer Jaques Brel. Ua Pou island's dramatic skyline gives it the name 'The Pillars' and Ua Huka is known for its range of wildlife - flowers, herbs, birds and sealife. It also has some interesting archaeological sites that include petroglyphs and tiki. Fatu Hiva is known for its unique carving.
+There are no hotels in the conventional sense — accommodation is in small pensions and family-run guesthouses. Sailing yachts are a common way to island-hop. Activities include hiking, deep-sea fishing, and diving, but the real draw is the landscape and the sense of genuine isolation.

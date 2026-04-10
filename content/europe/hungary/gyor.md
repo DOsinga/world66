@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 47.6835
 longitude: 17.6343
-title: "Győr"
+title: Győr
 type: location
 ---
 

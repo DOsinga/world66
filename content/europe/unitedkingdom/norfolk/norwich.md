@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.6286
 longitude: 1.2928
 title: Norwich

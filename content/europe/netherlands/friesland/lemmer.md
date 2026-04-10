@@ -1,10 +1,12 @@
 ---
-title: "Lemmer"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 52.844486
 longitude: 5.709914
+title: Lemmer
+type: location
 ---
 
-Located on the IJsselmeer, Lemmer is a main water sport center. 
+Lemmer is a small town on the IJsselmeer coast in [Friesland](/europe/netherlands/friesland), popular with sailors and water sports enthusiasts. The harbour fills up in summer with yachts and motor boats exploring the Frisian lakes.
 
-Ther major sight is the Wouda gemaal, used in the 20 the century for regulating the water levels in the region. It is on the UNESCO world heritage list so it must be worth a look.
+The main sight is the Ir. D.F. Woudagemaal, a steam-driven pumping station built in 1920 and still operational — it is a UNESCO World Heritage site and the largest steam-powered pumping station ever built. Worth a visit even if industrial heritage is not normally your thing.

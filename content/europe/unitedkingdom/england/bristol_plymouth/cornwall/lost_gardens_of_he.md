@@ -1,8 +1,10 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.283414
 longitude: -4.807851
 title: Lost Gardens of Heligan
-type: location
+type: poi
 ---
 
 The Lost Gardens of Heligan were, until the 1990s, genuinely lost. The great walled kitchen gardens and pleasure grounds of the Heligan estate had supplied the house and fed the estate workers for generations, but when the gardening staff left to serve in the First World War and few returned, the gardens were abandoned and swallowed by brambles and self-seeded trees.

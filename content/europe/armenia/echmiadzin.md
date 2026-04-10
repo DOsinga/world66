@@ -1,14 +1,14 @@
 ---
-done:
-  location_cleanup: '2026-04-09'
+title: "Echmiadzin"
+type: location
 latitude: 40.162776
 longitude: 44.293166
-title: Echmiadzin
-type: location
 ---
 
-Echmiadzin is the spiritual heart of Armenia — the seat of the Supreme Catholicos and home to one of the oldest cathedrals in the Christian world. The city served as the country's capital for nearly two centuries, and its religious significance has never faded: pilgrims and tourists arrive in equal numbers to walk the same ground that Gregory the Illuminator is said to have consecrated in 301 AD.
+Echmiadzin is the site of one of the oldest churches of Christianity. The city was the capital of the country for almost two centuries. Today, Echmiadzin remains the spiritual capital of Armenia, as it is the home of the Supreme Catholicos, the spiritual leader of the Armenian Church. 
 
-The Cathedral of Etchmiadzin anchors the site, its interior filled with remarkable religious artifacts including what the church claims are fragments of Noah's Ark and the spear that pierced Christ's side. The 7th-century Church of Hripsime and the nearby Church of St. Gayane are quieter and more intimate — both UNESCO-listed, both worth taking time with.
 
-Echmiadzin is 30 kilometers west of [Yerevan](/europe/armenia/yerevan) and easy to combine with a visit to [Zvartnots](/europe/armenia/zvartnots) cathedral, which lies between the two. Marshrutkas (minibuses) run frequently from Yerevan's Kilikia bus station; a taxi from the city costs just a few dollars.
+
+The main sights are the Church of Hripsime and the Church St. Gayanch, and last but not least the Cathedral which has a beautiful interior and contains an amazing array of apocryphal religious artifacts. 
+
+Echmiadzin is just 30 kilometers from [Yerevan](/europe/armenia/yerevan) and can be seen on a daytrip, combined with the [Zvartnots Cathedral ruins](/europe/armenia/echmiadzin/things_to_do/zvartnots_cathedral) nearby. There are many minibuses. A taxi shouldn't cost more than two dollars.

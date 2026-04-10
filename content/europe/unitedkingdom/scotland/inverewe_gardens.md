@@ -1,10 +1,11 @@
 ---
-title: "Inverewe Gardens"
-type: location
-latitude: 55.80093
-longitude: -4.333188
+category: Sight
+done:
+  location_cleanup: '2026-04-09'
+latitude: 57.7747
+longitude: -5.3433
+title: Inverewe Garden
+type: poi
 ---
 
-Inverewe Gardens might not normally be regarded as a region but it cannot be less like a city! It is not near any town of any size but is between Gairloch and Ullapool beyond the end of beautiful Loch Maree. It should be included in any tour of northwest Scotland if you have the slightest interest in gardens or plants.
-
-Inverewe was conceived and started by Osgood Mackenzie in 1863 and has been owned by the national trust for Scotland since 1953. The gardens occupy a peninsula near Poolewe. If you had read nothing about them, you might well be astonished to find tropical plants so far north but Mackenzie must have appreciated the influence of the Gulf Stream.
+A walled garden of extraordinary variety on a peninsula jutting into Loch Ewe in the northwest Highlands. Osgood Mackenzie began planting here in 1863, choosing a sheltered spot warmed by the Gulf Stream — which is why Himalayan rhododendrons, Chilean fire bushes, and Tasmanian tree ferns thrive at 57°N. The National Trust for Scotland has managed the garden since 1952. It sits between Gairloch and Ullapool, well off any main route, but worth a detour if you are touring the northwest coast.

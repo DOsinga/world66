@@ -1,11 +1,12 @@
 ---
-title: "Burao"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 9.5277
+longitude: 45.538
+title: Burao
 type: location
-latitude: 9.527727
-longitude: 45.538018
 ---
 
-Burao is the second largest city of the Republic of Somaliland
-and it's second capital. Its population are in the region of 500,000 [@
-2005]. It is the capital City of Togdheer region and is in the centre
-of Somaliland.
+Burao is the second largest city in [Somaliland](/africa/somaliland) and the capital of the Togdheer region, sitting in the dry central plains roughly halfway between Hargeisa and the coast. It is a major livestock market — the trade in camels, goats, and sheep is the economic backbone of the city and the surrounding pastoral communities.
+
+The city itself is sprawling and dusty, with little in the way of formal tourist infrastructure, but it gives an unvarnished look at life in the Horn of Africa. Burao played a significant role in Somaliland's war of independence and still bears some scars from the conflict. Visitors are rare, and those who come will find the hospitality generous.

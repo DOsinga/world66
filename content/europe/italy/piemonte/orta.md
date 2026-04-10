@@ -1,8 +1,10 @@
 ---
-title: 'Orta'
+done:
+  location_cleanup: '2026-04-10'
+latitude: 45.798
+longitude: 8.411
+title: Orta San Giulio
 type: location
-latitude: 45.7980
-longitude: 8.4110
 ---
 
 Lago d'Orta is one of the most beautiful and least crowded lakes in northern Italy, easily rivalling the more famous Lago Maggiore next door. The tiny Isola San Giulio, reached by boat from the waterfront, is a medieval gem of cobbled lanes you can walk around in half an hour.

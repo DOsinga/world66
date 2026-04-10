@@ -1,5 +1,7 @@
 ---
-title: "Bars and Cafes"
+done:
+  location_cleanup: '2026-04-10'
+title: Bars and Cafes
 type: section
 ---
 

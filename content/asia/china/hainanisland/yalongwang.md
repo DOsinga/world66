@@ -1,8 +1,12 @@
 ---
-title: "Yalong Wang"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 18.2109
+longitude: 109.7065
+title: Yalong Bay
 type: location
-latitude: 23.978226
-longitude: 107.81519
 ---
 
-About 20km to the east of Sanya, Yalong Wan is the longest beach in southern Hainan, whose shimmering sands extend along the shore for about 5km. Part of an officially protected marine park. The beach is quiet and peace besides the beauty. You’ll enjoy the kinds of cute and valuable seashells in the seashell museum, and can buy some in the shopping area, but they’re more expensive than the vendors on the way to Tianyahaijiao. Any way, the shellpower-made pearl only cost 25 yuan each is very attractive to women for its big size and pearl-like surface. And landscaped butterfly park is the best rest place.
+Yalong Bay (Yalong Wan) lies about 20km east of Sanya on the southern tip of Hainan Island, and is widely considered the finest beach on the island. The bay curves for around 7km in a broad arc, with white sand that stays fine-grained underfoot and water that stays clear well into the shallow. The area is a protected marine park, which has kept the beach from the worst of the overdevelopment that affects Sanya's other resort zones.
+
+The headlands at either end shelter the bay from wind, which makes it calm for much of the year. A seashell museum near the beach has a large collection of tropical specimens, and there is a landscaped butterfly park nearby if you want a break from the sun. Most visitors stay at one of the large international resort hotels that back the beach.

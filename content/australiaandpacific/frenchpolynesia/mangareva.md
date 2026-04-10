@@ -1,10 +1,12 @@
 ---
-title: "Mangareva"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -23.104536
 longitude: -134.969596
+title: Mangareva
+type: location
 ---
 
-Travel Guide
+The Gambier Islands — known collectively as the Mangareva archipelago — lie some 1,600 km southeast of Tahiti, making them one of the most remote inhabited places in French Polynesia. Sixteen volcanic islands and coral atolls are scattered across a vast lagoon, and the largest island, Mangareva, gives the group its name. The capital, Rikitea, is a quiet village of around 1,100 people, presided over by an unexpectedly grand Catholic cathedral that was built by islanders under missionary direction in the nineteenth century.
 
-The archipeligo of Mangareva (sometimes called the Gambiers) lies some 1,600 kms South East of Tahiti and are said to be the most beautiful islands in the South Seas. In all there are 16 islands and the largest of them is Mangareva from which the archipeligo takes its name. The Capital city is sleepy Rikitea home to the largest cathedral in the South Seas. Some 1,100 people live here and many work in the pearl farms for it is from Mangareva that the most beautiful pearls come. A truly idyllic place someone once said that it's motto is "Deus meus haec otia fecit" - God has given us this tranquillity.
+The islands are best known for their black pearls — Mangareva's lagoon produces some of the most prized in the world, and pearl farms are the main industry. The waters are exceptionally clear, and the surrounding reef offers world-class diving largely untouched by mass tourism. Visitors who make the effort to reach Mangareva tend to find a peaceful, genuinely remote Pacific experience — far removed from the tourist circuits of Bora Bora or Moorea.

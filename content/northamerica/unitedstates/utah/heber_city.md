@@ -1,10 +1,12 @@
 ---
-title: "Heber City"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.5065
+longitude: -111.4133
+title: Heber City
 type: location
-latitude: 40.506463
-longitude: -111.413296
 ---
 
-Travel Guide
+Heber City sits in a broad mountain valley about 45 minutes southeast of Salt Lake City and just over the ridge from Park City. It's a working Utah town rather than a resort — quieter and cheaper than its famous neighbour, with a good collection of cafes, diners, and motels that make it a practical base for exploring the area.
 
-Heber City sits in a pleasant mountain valley, east and south of Salt Lake City and Park City. It's a nice little town, with the usual assortment of cafes, diners, motels, and other necessities. The big draws are the nearby Deer Creek Reservoir, and the famous Heber Valley Railroad, a remnant of the Denver & Rio Grande Western Railroad from the 19th century. The railroad features a good collection of locomotives and cars, and has been seen in many movies and television specials. Check their webside for an up-to-date schedule of trips. The trains run up the scenic Provo Canyon to Bridal Veil Falls.
+The two main draws are Deer Creek Reservoir, popular for boating, fishing, and paddleboarding, and the Heber Valley Railroad, a historic narrow-gauge line that runs vintage steam and diesel trains up the scenic Provo Canyon toward Bridal Veil Falls. The railroad's collection of locomotives has appeared in numerous films over the years. Check the current schedule before visiting — trip frequency and themes vary by season.

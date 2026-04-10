@@ -1,5 +1,7 @@
 ---
 category: Sight
+done:
+  location_cleanup: '2026-04-10'
 latitude: 50.834645
 longitude: 2.947232
 title: Hill 62 (Sanctuary Wood)

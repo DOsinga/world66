@@ -1,8 +1,10 @@
 ---
-title: "Sylt"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 54.9027
 longitude: 8.3311
+title: Sylt
+type: location
 ---
 
 Sylt is the largest of the North Frisian Islands and one of the most celebrated holiday destinations in Germany. A narrow sliver of land stretching 40 kilometres from north to south, it is connected to the mainland only by the Hindenburgdamm railway causeway — cars ride the train across.

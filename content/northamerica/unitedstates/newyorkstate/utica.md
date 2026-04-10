@@ -1,15 +1,12 @@
 ---
-title: "Utica"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.100903
 longitude: -75.232664
+title: Utica
+type: location
 ---
 
-Travel Guide
+Utica is a small city in the Mohawk Valley of central New York State, once a major hub on the Erie Canal. The city went through hard times as industry left, but has found an unlikely second act as one of the most diverse small cities in the northeast — waves of Bosnian, Burmese, and Somali refugees have revitalised neighbourhoods and brought new restaurants and markets to Bleecker Street.
 
-Strategically located in Oneida County (within the heart of the Mohawk Valley) & within 500 miles of 17 of the top 50 U.S. markets, the City of Utica has many attributes that make it the ideal location for business and raising a family.
-
-Long considered the socioeconomic hub of Oneida County, the City of Utica offers its residents and visitors small-city charm, abundant industry, affordable housing, ample recreational opportunities and a diverse cultural and ethinic community.
-
-More information on
-*Utica Travel*
+The Munson-Williams-Proctor Arts Institute is the standout attraction, with a strong collection of American art housed in a Philip Johnson building. The restored Stanley Theatre, a 1928 movie palace, is worth seeing for the architecture alone.

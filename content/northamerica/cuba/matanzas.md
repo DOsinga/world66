@@ -1,5 +1,9 @@
 ---
-title: "Matanzas"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 23.0415
+longitude: -81.5775
+title: Matanzas
 type: location
 ---
 

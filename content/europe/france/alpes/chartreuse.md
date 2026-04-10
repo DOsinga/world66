@@ -1,14 +1,12 @@
 ---
-title: "Chartreuse"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 45.3536
+longitude: 5.7854
+title: Chartreuse
 type: location
-latitude: 43.720962
-longitude: 1.490885
 ---
 
-The Chartreuse is a regional natural park lying partly in Savoie and partly in Isère. It is very green with forested pre-Alpine hills, rushing streams, cliffs overhanging the narrow roads, and delightful mountain meadows with a plethora of spring flowers. 
+The Chartreuse is a regional natural park in the pre-Alps between [Grenoble](/europe/france/alpes/grenoble) and Chambéry, straddling the border of Savoie and Isère. The landscape is intensely green: forested limestone ridges, narrow gorges with rushing streams, cliffs overhanging the roads, and mountain meadows thick with wildflowers in spring.
 
-There is a tourist office in St Pierre d’Entremonts, an attractive little town with a camping municipal near the centre and walks in all directions. 
-
-
-
-http://www.chartreuse-tourisme.com/vallee_des_entremonts/ [English site is under construction but is downloadable.
+The park is also the home of Chartreuse liqueur, still produced by Carthusian monks at the Grande Chartreuse monastery — the monastery itself is closed to visitors, but a museum in the nearby village of Saint-Pierre-de-Chartreuse explains the order's history and the famous recipe. The village of Saint-Pierre-d'Entremont, straddling the Savoie/Isère border, makes a good base for walking, with trails heading in every direction.

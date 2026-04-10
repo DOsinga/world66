@@ -1,10 +1,14 @@
 ---
-title: 'Carlisle'
+done:
+  location_cleanup: '2026-04-09'
+latitude: 54.8951
+longitude: -2.9382
+title: Carlisle
 type: location
-latitude: 54.894848
-longitude: -2.936231
 ---
 
-Carlisle is the capital of Cumbria and most visitors heading to [Glasgow](/europe/unitedkingdom/scotland/glasgow) from England pass close to it. It is a city with both a cathedral and a castle. Carlisle Castle, managed by English Heritage, has served as a military stronghold for over nine centuries and was besieged during both the English Civil War and the Jacobite risings.
+Carlisle sits at the meeting point of three rivers — the Eden, the Caldew, and the Petteril — and has spent most of its history as a contested border city between England and Scotland. That contested past left it with some of the finest medieval fortifications in northern England: a castle that has been besieged more times than almost any other in the country, and a cathedral that survived centuries of conflict, fire, and Civil War damage.
 
-The city is also the northern terminus of the Settle-Carlisle railway, one of the most scenic rail journeys in England, though the most dramatic stretches of the line lie between Settle and Appleby.
+The city is the capital of Cumbria, and most travellers who pass through are on their way north to [Glasgow](/europe/unitedkingdom/scotland/glasgow) or south from Scotland. Worth stopping for: the castle is genuinely impressive, and the cathedral's painted ceiling is one of the most beautiful things in the north of England that no one talks about.
+
+Carlisle is also the northern terminus of the Settle-Carlisle railway, one of the most scenic rail journeys in England. The most dramatic scenery is further south between Settle and Appleby, but arriving or departing Carlisle by this line is a pleasure in itself.

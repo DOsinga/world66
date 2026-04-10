@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Biplane, Air Combat & Warbird Adventures
-
-From $49 pp. Coastal air tours for 2 in open cockpit biplanes (helmet and goggles provided). You-fly-it Air Combat (no license required). Authentic warbird flights. Reservations req. Daily, year-round, 10 am to dark. Palomar Airport 92008 760/438-7680, 800/SKY-LOOP Fax: 760/931-2664 www.barnstorming.com E-mail: katetom@barnstorming.com Wheelchair Access
+Carlsbad's two flagship attractions draw visitors from across Southern California: LEGOLAND California, one of the original LEGOLAND parks outside Denmark, and the Carlsbad Flower Fields, where 50 acres of giant ranunculus bloom in vivid colour each spring (roughly March through May). Beyond those, the city has good beaches, the sheltered waters of Batiquitos Lagoon for kayaking and birding, and access to excellent coastal surf.

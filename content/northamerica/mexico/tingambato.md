@@ -1,14 +1,14 @@
 ---
-title: "Tingambato"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 19.506387
 longitude: -101.85337
+title: Tingambato
+type: location
 ---
 
-Travel Guide
+Tingambato is a small village in the heart of avocado country in [Michoacán](/northamerica/mexico/michoacan), on the free road between [Uruapan](/northamerica/mexico/uruapan) and Pátzcuaro.
 
-Tingambato is a small village in the heart of avacado country in [Michoacan](/northamerica/mexico/michoacan). Located on the free road between [Uruapan](/northamerica/mexico/uruapan) de Progreso and Patzcuaro.
+At first glance Tingambato seems to be nothing more than a Pemex station and a couple of tiendas. But head down one of the streets toward the hill and you will find the town plaza and the church.
 
-At first site Tingambato seems to be nothing more than a Pemex station and a couple of tiendas. But, taking one of the streets down the hill will lead to the town plaza and the church.
-
-Continue on beyond the old railroad tracks and find the real treasure of the village. The Tingambato Archaeological Site, a small but interesting, partially-restored collection of Tarascan ruins.
+Continue past the old railroad tracks and you reach the real treasure of the village: the Tingambato Archaeological Site, a small but interesting, partially-restored collection of Tarascan ruins worth stopping for.

@@ -1,8 +1,10 @@
 ---
-title: 'Lancaster City'
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 40.037875
 longitude: -76.305514
+title: Lancaster City
+type: location
 ---
 
 Lancaster is the urban heart of [Lancaster County](/northamerica/unitedstates/pennsylvania/lancastercounty) and has more historical depth than its small size suggests. The city served briefly as the capital of the United States in 1777, and was the state capital of Pennsylvania until 1812.

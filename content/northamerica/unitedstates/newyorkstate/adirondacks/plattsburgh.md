@@ -1,12 +1,14 @@
 ---
 title: "Plattsburgh"
 type: location
-latitude: 44.6961
-longitude: -73.4543
+latitude: 44.696086
+longitude: -73.454291
+done:
+  location_cleanup: 2026-04-10
 ---
 
-Plattsburgh sits on the western shore of Lake Champlain, about twenty miles south of the Canadian border. It is a quiet city with a rich military history -- the 1814 Battle of Plattsburgh was a turning point in the War of 1812, and the former Plattsburgh Air Force Base shaped the town for decades during the Cold War.
+Plattsburgh is a small city on the western shore of Lake Champlain in the northeastern corner of New York State, about 25 kilometres south of the Canadian border and 100 kilometres south of Montreal. It has a history that punches above its size.
 
-The lake is the main attraction. The waterfront has been revitalised with a public beach, a marina, and a bike path running along the shore. The fishing is excellent -- perch, bass, and landlocked salmon draw anglers year-round. In summer you can take a ferry across to Burlington, Vermont, a scenic hour-long crossing with views of both the Adirondacks and the Green Mountains.
+The **Battle of Plattsburgh** in 1814 was one of the decisive naval engagements of the War of 1812: an American fleet defeated a much larger British force on the lake, halting a British invasion from Canada and influencing the subsequent peace treaty. The **Battle of Plattsburgh Museum** and the Macdonough Monument on City Hall Park commemorate the victory.
 
-Plattsburgh also serves as a practical base for exploring the northern Adirondacks. The Ausable Chasm, a dramatic sandstone gorge, is just south of town, and the High Peaks are within an hour's drive.
+Today the city has a pleasant lakefront and a manageable downtown. Perch fishing on Lake Champlain has drawn anglers here for generations. The lake itself — 193 kilometres long, with the Green Mountains of Vermont rising on the eastern shore — is one of the great inland bodies of water in the eastern United States. Burlington, Vermont, is a short ferry ride across the lake.

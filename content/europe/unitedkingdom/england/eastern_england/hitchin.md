@@ -1,8 +1,12 @@
 ---
-title: "Hitchin"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 51.9487
+longitude: -0.2779
+title: Hitchin
 type: location
-latitude: 51.948694
-longitude: -0.277912
 ---
 
-Hitchin is a lively little market town, near to Stevenage and Letchworth. It has a nice little market place and some interesting little shops where you can buy various unusual items. There are a good assortment of Bars, Coffeeshops and Restaurants. It has its share of mainstream businesses too; banks, supermarkets, high street well known brands etc.
+Hitchin is a well-preserved market town in Hertfordshire, about 35 miles north of London. Its medieval street plan survives largely intact, centred on a handsome market square that still hosts a twice-weekly market. The town has an active independent shopping scene — coffee shops, bookshops, and delis tucked into buildings that go back centuries — alongside the usual high street chains.
+
+It sits between [Stevenage](/europe/unitedkingdom/england/eastern_england/stevenage) and [Letchworth Garden City](/europe/unitedkingdom/england/eastern_england/letchworth), and is easy to reach by train from London King's Cross in under 40 minutes.

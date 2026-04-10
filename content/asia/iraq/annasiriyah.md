@@ -1,8 +1,10 @@
 ---
-title: "An Nasiriyah"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 31.043996
 longitude: 46.239939
+title: An Nasiriyah
+type: location
 ---
 
 An Nasiriyah is the capital of Dhi Qar Governorate in southeastern Iraq, on the Euphrates River. Founded in 1870, it is a provincial city of around 800,000 people and the main gateway for visiting the nearby ruins of [Ur](/asia/iraq/ur), one of the oldest cities in the world.

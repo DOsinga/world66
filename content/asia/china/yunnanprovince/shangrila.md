@@ -1,26 +1,18 @@
 ---
-title: "Shangri-La"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 27.871702
 longitude: 99.83655
+title: Shangri-La
+type: location
 ---
 
-Shangri-La (Pinyin: Xianggelila), previously known as Zhongdian, is a
-small, primarily Tibetan town located 5 hours drive north of [Lijiang](/asia/china/yunnanprovince/lijiang).
-The Chinese part of town is typical for the area, but a recent bout of
-development in the old city center is creating an interesting old town
-to explore.
+Shangri-La (Xianggelila), previously known as Zhongdian, is a small, primarily Tibetan town five hours' drive north of [Lijiang](/asia/china/yunnanprovince/lijiang) at about 3,200 metres elevation. The old town has been rebuilt after a fire in 2014, but the surrounding landscape is the real draw — high-altitude grasslands, Tibetan monasteries, and mountain passes.
 
 Highlights within a day's trip from town include:
 
-* Song Lan Lin Monestary, reportedly the biggest Tibetan monestary complex in the province
-
-* Bai Shui Tai, a picturesque limestone formation
-
-* Tiger Leaping Gorge, a sheer gorge which has a well marked trail and good tourist infrastructure
-
-* Bita Hai, a lake featuring a small island in its middle, a popular destination
-
-* Da Bao Si, a small but famous monestary approximately 15 km out of town
-
-* Lijiang, the province's mecca for chinese tour groups
+- **Songzanlin Monastery**, reportedly the largest Tibetan monastery complex in the province
+- **Bai Shui Tai**, a picturesque white limestone terrace formation
+- **Tiger Leaping Gorge**, a spectacular canyon with a well-marked hiking trail
+- **Bita Hai**, a lake at 3,500 metres with a small island in its centre
+- **Da Bao Si**, a small but renowned monastery about 15 km out of town

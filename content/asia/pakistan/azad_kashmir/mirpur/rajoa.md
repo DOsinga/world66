@@ -1,8 +1,10 @@
 ---
-title: "Rajoa"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.303294
 longitude: 73.04961
+title: Rajoa
+type: location
 ---
 
 Travel Guide

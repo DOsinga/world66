@@ -1,10 +1,12 @@
 ---
-title: "Amsterdam"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 42.936223
 longitude: -74.190582
+title: Amsterdam
+type: location
 ---
 
-Travel Guide
+Amsterdam is a small city on the Mohawk River in upstate New York, about 30 miles northwest of Albany. Once a prosperous carpet-manufacturing centre, it has the faded-grandeur look common to former mill towns in the Northeast — handsome 19th-century commercial buildings alongside empty lots.
 
-City of Amsterdam, located in upstate New York.
+The city sits along the Erie Canal trail and the Mohawk River, making it a stop for cyclists and boaters passing through the valley. The nearby Adirondack Park is within easy reach for day trips into the mountains.

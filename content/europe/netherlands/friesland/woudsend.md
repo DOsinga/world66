@@ -3,6 +3,8 @@ title: "Woudsend"
 type: location
 latitude: 52.943933
 longitude: 5.628326
+done:
+  location_cleanup: '2026-04-10'
 ---
 
-In the heart of the lake region of Friesland, Woudsend is also the tonw where the Osinga family stems from. The town itself is cute and there are some nice options for accommodation, eating out and even nightlife. In the center there is a very steep bridge.
+Woudsend is a small Frisian village in the lake district of Friesland, in the northern Netherlands, at the junction of the Fluessen and Morra lakes. The village has a distinctive steep bascule bridge at its centre and is a popular stop for sailors navigating the Friese Meren (Frisian Lakes). It offers a modest but pleasant range of restaurants, accommodation, and an active local marina catering to the large recreational boating scene in the area.

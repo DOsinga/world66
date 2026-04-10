@@ -3,19 +3,10 @@ title: "Day Trips"
 type: section
 ---
 
-**Tarabuco**. Traditional town near Sucre. The sunday market is a major touristical attraction, get there before 10 am.
+The countryside around Sucre rewards exploration. The altiplano gives way to warmer, lower valleys within a couple of hours' drive, and there are indigenous villages, dramatic canyons, and unusual geology within easy reach.
 
-### [The Canyon of Icla](/southamerica/bolivia/sucre/day_trips/the_canyon_of_icla)
+**Tarabuco** is the most popular day trip and deservedly so. This traditional town about 65 km from Sucre comes alive every Sunday with one of the most authentic indigenous markets in Bolivia. Jalq'a and Tarabuco people arrive in full ceremonial dress — elaborate woven ponchos and leather helmets — to sell textiles, produce, and crafts. Get there before 10am to see it at its best before the tour groups arrive.
 
-Icla is a small village about 100 km out of Sucre. It is lower than Sucre and therefore the temperature is nicer. Just outside of the village of Icla there is a canyon that is really worth a visit. You do need to bring cloths and shoes that may get wet, because the three hour trip will take you in and out of the water a couple of times. The best thing is to book a tour from Sucre, they will organize the guide, transportation and if you want to stay a night also a room in one of the two local hostels.
-A two day trip also gives you the time to visit the rock paintings, the [more..](/southamerica/bolivia/sucre/day_trips/the_canyon_of_icla)
+**The Canyon of Icla** lies about 100 km from Sucre, dropping to lower, warmer elevations than the city. Just outside the small village of Icla, a canyon cuts through the rock and is well worth the journey. The standard three-hour walk takes you in and out of the water several times, so bring clothes and shoes you don't mind getting wet. The canyon walls also shelter rock paintings. Most visitors book a tour from Sucre, which covers transport, a local guide, and if you want to stay overnight, a room in one of Icla's two small hostels — well worth considering since a two-day trip gives you time to see the paintings properly.
 
-
-
-### [Hiking in the crater of Maragua](/southamerica/bolivia/sucre/day_trips/hiking_in_the_crat)
-
-The Crater of Maragua is a geological abberation and the experts are still not sure if it´s a real crater. The average hike starts usually on the mountain rim of the fryers mountain range near the Chapel of Chataquila. From there you can hike down the Inca trail (2 hrs) to Chaunaca and from there you hike into the crater of Maragua (3.5 hrs) where you can sleep in the small hostel. if you are there before sun set you can enjoy the beautiful changing colors of the rim of the crater. The next day you can hike to the village of Potolo (5hrs) and visit the dino tracks of Niñumayu [more..](/southamerica/bolivia/sucre/day_trips/hiking_in_the_crat)
-
-
-
-email: happyinbolivia@gmail.com
+**The Crater of Maragua** is a geological curiosity: a vast depression in the landscape that experts still debate — real meteor crater or erosion feature? The classic two-day hike begins at the Chapel of Chataquila on the mountain rim, descends the old Inca trail to Chaunaca (about two hours), then continues into the crater itself (another three and a half hours), where a small hostel takes in hikers. If you arrive before sunset, the light plays across the rim in shifting colors that are worth the effort alone. The next day leads to the village of Potolo (five hours), passing dinosaur tracks at Niñumayu on the way.

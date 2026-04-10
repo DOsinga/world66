@@ -1,11 +1,12 @@
 ---
-title: "Getting There in Jaú Nacional Park"
+title: "Getting There"
 type: section
 ---
 
-Starting in Manaus you will cross the Rio Negro by Fairboat following by road until Novo Airão about 140 km from Manaus.
+The gateway to Jaú National Park is **Novo Airão**, a small river town roughly 140 kilometres from Manaus. From Manaus, cross the Rio Negro by ferry and then continue by road to Novo Airão — the journey takes about three to four hours depending on the ferry connection.
 
-Inside the park there are no lodges, so you must lodge in in Novo Airão or during the trips in jungle Camps, trips to the park requires prior permission 5 days in advance so it is essential to book this tour 7 days before arriving in Manaus with a licensed operator.
+From Novo Airão, access into the park is exclusively by motorboat along the Rio Jaú. Most visitors travel with a licensed tour operator who handles the boat, guides, and campsite logistics. The river journey into the heart of the park takes a full day or more.
 
-**Contributors**
-September 27, 2006
+**Permits are required.** IBAMA (Brazil's environmental agency) requires a permit at least five days in advance, so book your tour operator a minimum of seven days before arriving in Manaus. Independent access to the park is not permitted — you must go with an authorized operator.
+
+There are no lodges inside the park boundaries. Accommodation options are either in Novo Airão before the trip, or in jungle camps (tents or hammocks) during the river journey.

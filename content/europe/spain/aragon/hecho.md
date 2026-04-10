@@ -1,14 +1,16 @@
 ---
-title: "[H]echo"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.7384
+longitude: -0.7503
+title: Hecho
 type: location
-latitude: 42.738391
-longitude: -0.750316
 ---
 
-Hecho or Echo is a village on the edge of the Pyrenees, not far from Jaca. The only bus is in the evening so you are almost obliged to stay if you want to go at all, hardly a great hardship!
+Hecho (also written Echo) is a stone village in the Hecho Valley, one of the western Pyrenean valleys that cuts north from [Jaca](/europe/spain/aragon/jaca) toward the French border. It is quiet, unhurried, and genuinely old-feeling — narrow streets, slate roofs, and a pace of life that has little to do with the coast.
 
-It is an idyllic village, seeming older than it actually is, with steps and winding roads. Only about 3 kilometres away is the smaller village of Siresa with an ancient monastery.
+The valley is popular with Spanish hikers and largely unknown to anyone else, which is most of its charm. The mountains close in properly above the village, and the upper valley — the Selva de Oza — is a stretch of beech and fir forest with rivers and trails that rewards anyone willing to walk or drive up.
 
-The mountains are further up the valley and there is no way there other than car or foot.
+About three kilometres north sits the smaller village of Siresa, with a Romanesque monastery church, San Pedro, that dates to the ninth century. It is one of the oldest surviving Romanesque buildings in Aragon and worth the short walk.
 
-Pyrenees Guide .com - hecho & anso valley tourism travel guide
+Getting here without a car is awkward — the one bus from Jaca runs in the evening, which means you are effectively committed to staying at least one night. That is not a hardship. There are a few small guesthouses and the village has enough to keep you for a day or two.

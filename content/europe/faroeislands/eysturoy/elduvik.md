@@ -5,6 +5,4 @@ latitude: 62.282279
 longitude: -6.911833
 ---
 
-Travel Guide
-
-A very picturesque village south of Gjogv, reached past a number of exquisite hanging valleys.
+A picturesque village on the north-east coast of Eysturoy, reached by a road that passes through a series of exquisite hanging valleys. The drive alone is worth the detour.

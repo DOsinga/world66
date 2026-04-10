@@ -1,6 +1,6 @@
 ---
-title: "Bars and Cafes in Kokura"
+title: "Bars and Cafes"
 type: section
 ---
 
-XELHA is definately worth seeking out, comfortable atmostphere, reasonable food, english football and a very welcoming owner. Seems to be a hub for europeans in the city.
+XELHA is worth seeking out — comfortable atmosphere, reasonable food, English football on the screen, and a welcoming owner. It functions as something of a hub for Europeans passing through the city.

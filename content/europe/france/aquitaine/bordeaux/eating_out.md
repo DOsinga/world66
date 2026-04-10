@@ -3,10 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-## Categories
-
-[Haute Cuisine](/europe/france/aquitaine/bordeaux/eatingout?subsection=Haute%20Cuisine)
-
-[Spanish](/europe/france/aquitaine/bordeaux/eatingout?subsection=Spanish)
-
-[Japanese](/europe/france/aquitaine/bordeaux/eatingout?subsection=Japanese)
+Bordeaux takes its food seriously. The local cuisine leans on duck, foie gras, oysters from Arcachon, and lamb from the nearby Pyrenees, all paired with the obvious local wines. Rue du Parlement Saint-Pierre and the streets around Place Fernand Lafargue are good hunting ground for restaurants.

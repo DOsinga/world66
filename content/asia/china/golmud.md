@@ -1,25 +1,14 @@
 ---
-title: "Golmud"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 36.739753
 longitude: 93.54239
+title: Golmud
+type: location
 ---
 
-Travel Guide
+Golmud — also known as Geermu — is the second city of Qinghai province and the main staging post for Tibet. It sits on the high-altitude plateau at around 2,800 metres, surrounded by salt flats and desert, and its primary function for most travellers is exactly that: a place to arrive, sort paperwork, and move on.
 
-The secong city of Qinghai province, Golmud is a sparse dusty town whos main attraction is as a jumping off place for Tibet. Route 109 runs the buses up onto the Tibetan Plateau & more recently the new rail link makes Golmud(or Geermu as its also known) the first major stop before Lhasa.
+The town is laid out on a simple grid. Route 109 connects Golmud to Lhasa by road, and the Qinghai–Tibet Railway — one of the highest rail lines in the world — makes Golmud the last major stop before the train begins its dramatic climb onto the Tibetan Plateau. Any travel beyond the city requires an Alien Travel Permit, obtainable at the PSB for 50 yuan — no bus or train tickets can be bought without one.
 
-Once part of Tibetan Amdo, Qinghai now mainly owes its existance to mining & although there is a mixed population the largest ethnic group is now Han Chinese.
-
-Golmud is a fairly easy town to navigate as its streets are laid out in a grid pattern. Any travel done beyong the city requires a Alien Travel Permit which can be gotten in minutes for 50Y at the PSB. Note that no tickets, train or bus, can be bought without a permit.
-
-A few grubby hotels surround the train & bus station, but its worth your while to head upto Kunlun Lu street( one of two main streets in the centre) to pick up good, clean accomodation for little more than $2USD- your best option is the Golmud Hotel. Information is sparse & the town is not geared up for travellers with few people speaking English, so come prepared. A good phrase book would work miracles.
-
-Golmud has few attractions so if you find your self stuck for a few days, buy a book. The only other past time is some cheap shopping which if your heading for Tibet might be your last opportunity.
-
-**Contributors**
-October 09, 2006
-
-## Destinations in Golmud
-
-[Yinchuan](/asia/china/golmud/yinchuan)
+Golmud itself has few sights. The streets are wide and functional, the population a mix of Han Chinese, Tibetan, and Hui Muslim. If you find yourself with time to spare, the market streets near the centre offer the last real chance to stock up before Tibet.

@@ -1,8 +1,10 @@
 ---
-title: "Sant Andreu de Llavaneres"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.573952
 longitude: 2.482816
+title: Sant Andreu de Llavaneres
+type: location
 ---
 
 Sant Andreu de Llavaneres is a small coastal municipality in the Maresme comarca, about 35km north of Barcelona along the Costa del Maresme. It sits between the sea and the forested hills of the Serralada Litoral, giving it a pleasant combination of beach access and green hiking trails nearby.

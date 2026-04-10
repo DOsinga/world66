@@ -1,18 +1,18 @@
 ---
-title: "Jacksonville"
+title: Jacksonville
 type: location
 latitude: 30.326225
 longitude: -81.657918
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+Jacksonville is the largest city by area in the contiguous United States, sprawling across both sides of the St. Johns River where it empties into the Atlantic. It is a city that rewards the curious — behind the downtown skyline and suburban sprawl, you will find distinct neighbourhoods with real character, a serious arts scene, and easy access to some of northeast Florida's best beaches.
 
-If you're in town on a Sunday in the fall you might be able to catch the Jaguars football team in action-the city is very **proud of its new** franchise. The Cummer Museum of Art, in the Riverside neighborhood near downtown, has a good collection of American artists and a fascinating garden with a view of downtown. Architecture buffs will find the Riverside district fascinating. Many homes here were designed by noted Jacksonville architect Henry Klutho, a student of Frank Lloyd Wright's Prairie Style.
+The Riverside district is the highlight for architecture fans. Many of its homes were designed by Henry Klutho, a Jacksonville architect deeply influenced by Frank Lloyd Wright's Prairie Style. The Cummer Museum of Art sits in this neighbourhood too, with a strong collection of American art and gardens that look out over the river toward downtown. Further along the waterfront, the Museum of Science and History offers rotating hands-on exhibits and the Alexander Brest Planetarium.
 
-On both sides of the St. Johns river, in downtown Jacksonville there are riverwalks that provide great views of downtown as well as access to the Jacksonville Landing, an open-air mall that is often the site of concerts, political rally's or other events, and other attactions along the way. The riverwalks are great places for romantic walks in the evening. You still need to be careful however at night.
+Downtown's riverwalks on both sides of the St. Johns make for a pleasant stroll, with views of the skyline and access to the Times-Union Center for the Performing Arts, home to the Jacksonville Symphony Orchestra. The riverwalks are particularly nice in the evening, though you should stay alert after dark.
 
-The Museum of Science and History has a series of rotating hands-on exhibits, generally geared toward children, and also is home to the Alexander Brest Planetarium, with hourly shows. Across the river you can dine and shop at The Landing, a Jack Rouse project modelled after the larger (and more successful) Inner Harbor in Baltimore. Next door to the Landing is the Times-Union Center for the Performing Arts, home to the Jacksonville Symphony Orchestra, regarded as one of the best orchestras in the state for those who might care to take in some high culture.
+Jacksonville has three beach towns — Atlantic Beach, Neptune Beach, and Jacksonville Beach — which run together along the coast. They are pleasant and unpretentious, with good surfing and a laid-back boardwalk scene. Just south of the city, Ponte Vedra Beach draws golfers to the TPC at Sawgrass, home of The Players Championship. The World Golf Village, off I-95 between Jacksonville and [St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), has its own courses and the World Golf Hall of Fame.
 
-Jacksonville has three beach towns, which are pleasant enough and have fine beaches but more or less blend together. Immediately to the south is Ponte Vedra Beach, where many golf and tennis stars live and where the TPC at Sawgrass golf tournament is played each year. One-day memberships to the Sawgrass course are available, but only deeply committed golf fans will want to pony up the roughly $300 it takes to purchase one. The somewhat less committed golf fans will want to head for the World Golf Village, just off I-95 between Jacksonville and St. Augustine. Several challenging courses and the World Golf Hall of Fame are here, as well as an entertainment complex that includes an IMAX theatre.
-
-Jacksonville is only 30 minutes north of [St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), the nations oldest city. Be sure to make the trip down to visit, it is well worth it.
+St. Augustine, the oldest city in the United States, is only 30 minutes to the south and makes an easy day trip.

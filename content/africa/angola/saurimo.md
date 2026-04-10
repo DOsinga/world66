@@ -1,14 +1,12 @@
 ---
-title: "Saurimo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -9.65893
 longitude: 20.398112
+title: Saurimo
+type: location
 ---
 
-Travel Guide
+Saurimo is the provincial capital of Lunda Sul, deep in eastern Angola's diamond country. It is a quiet rural town that functions primarily as a crossroads — the main road from Luanda meets the north-south route connecting Lunda Norte (and the DRC border) with Moxico province. This makes it a natural rest stop for long-distance travelers and truckers, and a reasonable place to find onward transport.
 
-District Capital of Lunda Sul, Saurimo is a pleasant rural town with not much going for it. The town acts as a kind of crossroads as the main road from Luanda intersects here with the North-south road connecting Dondo in Lunda Norte(border crossing to DRC) with the province of Moxico. This has turned Saurimo into a bit of a truck stop as vehicles heading in from the coast(a 5 day journey) refuel & rest before heading north or south. This makes Saurimo a good place for hitching.
-
-Accomodation is scarce but for a few kwanzas you can buy space on someones floor. Prices tend to be much higher this far inland as transport costs add as much as 50% to the Luanda price.
-
-Trips made south of Saurimo need(at the time of visiting) to be done with some care as banditry is rife & local police contribute by expecting 'bakshish' at road check points etc. Despite these inconveniences the virgin bush of this part of Africa is extraordinary & the colourful local people make the visit worth while.
+Accommodation is limited and prices are high this far inland, as transport costs add significantly to everything. The surrounding bush is wild and beautiful, and the local people are welcoming, but travel south of Saurimo requires care — security can be unpredictable and police checkpoints are frequent. Getting here from Luanda by road takes several days.

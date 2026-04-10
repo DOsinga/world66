@@ -1,9 +1,9 @@
 ---
 title: "Pinsapar"
 type: poi
-url: "www.walkingworld.com"
-latitude: 36.675238
-longitude: -5.010687
+category: "Sight"
+latitude: 36.7541
+longitude: -5.3808
 ---
 
 This is a wonderful walk and the return can well be done by road, giving terrific views at the end of the daylight hours. You may like to try out the bar in Benamahoma before you start back.

@@ -1,8 +1,10 @@
 ---
-title: 'Pushkar'
+title: Pushkar
 type: location
 latitude: 26.4876
 longitude: 74.5578
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Pushkar is a tiny, atmospheric town built around a sacred lake, just 15 km from [Ajmer](/asia/india/rajasthan/ajmer). It is one of the holiest sites in Hinduism, home to one of the very few temples in India dedicated to Lord Brahma. Over fifty ghats (stepped bathing areas) line the lake, and the town has a devout, vegetarian character -- no meat, eggs, or alcohol are sold in the old town center.

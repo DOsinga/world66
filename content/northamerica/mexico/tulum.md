@@ -1,12 +1,16 @@
 ---
-title: "Tulum"
+title: Tulum
 type: location
-latitude: 20.429647
-longitude: -87.652931
+latitude: 20.2114
+longitude: -87.4654
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The setting of Tulum is perfect. It is something out of a James Bond movie. The dramatic Mayan ruins of Tulum stand on a cliff overlooking the Caribbean sea. 
+Few places on the Yucatán Peninsula deliver such a concentrated hit of beauty. Tulum is where the ancient Maya chose to build one of their few coastal cities, and it is easy to see why: the cliffs here are dramatic, the turquoise Caribbean stretches away below them, and the jungle presses in on three sides. The ruins of Tulum remain one of the most striking archaeological sites in Mexico, not because they rival Chichen Itza in scale, but because nowhere else can you watch the sea from a Maya temple.
 
-Tulum was an important port and trading center for the Yucatan's east coast Maya. Within the walls of the city lies a series of platforms and buildings, including ruined palaces and elevated temples. The most impressive structure is "El Castillo". The temple of the Frescos is also interesting. It has murals that are similar to the designs of the Paris Codex, one of the fewsurviving Mayan books. 
+The town itself has changed enormously since backpackers first discovered it. What was once a strip of palm-shaded cabañas on a dirt road is now a fully-fledged destination, attracting visitors who come for the cenotes, the coral reef, the yoga retreats, and some of the best boutique hotels in Mexico. The beach road running south from the ruins into the Sian Ka'an Biosphere Reserve is one of the most beautiful stretches of Caribbean coast in the country.
 
-Go early to Tulum, no later than 9:00 a.m. to avoid the bus loads from Cancun. This area has heavy tourist traffic. Large market, bargaining is expected. The pueblo has Money exchanges at good rates, GAS STATION HERE! FILL UP YOUR TANK BEFORE YOU HEAD NORTH!
+Tulum has three distinct zones: the archaeological site at the north, Tulum Pueblo (the town) straddling the highway a kilometre south, and the beach zone along the coast road heading south toward Boca Paila. Each has its own character — plan on at least two days to do all three justice.
+
+Go early to the ruins — no later than 9am — to beat the tour buses from Cancún. The pueblo has banks, a bus station, grocery stores, and far more affordable restaurants than the beach road.

@@ -1,10 +1,12 @@
 ---
-title: "Comino"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.011887
 longitude: 14.33693
+title: Comino
+type: location
 ---
 
-Comino and the Blue Lagoon
- For anyone who finds Gozo's tranquil paradise still a little too hectic, there is nearby Comino, an island only 2 sq. km in area, with one hotel. The island is a haven for anyone interested in water sports with ample room for everyone, whether a professional scuba diver looking for excitement in the depths or a child learning to use a snorkel in safety. 
- Of spectacular beauty is the Blue Lagoon with its turquoise waters surrounded by a sun drenched coastline.
+Comino is a tiny island of just 3.5 square kilometres between Malta and Gozo, with a permanent population of almost zero. Its main draw is the Blue Lagoon, a sheltered cove with spectacularly clear, shallow turquoise water that is one of the most photographed spots in Malta. It is genuinely beautiful, though in summer the day-trip boats arrive in force and the lagoon can get crowded by midday — arrive early or late in the season.
+
+The rest of the island is scrubby and quiet, good for walking. There are caves along the coastline popular with divers and snorkellers. Day trips run from both Malta and Gozo; the crossing takes 20–30 minutes.

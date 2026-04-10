@@ -1,17 +1,14 @@
 ---
-title: "Kinderdijk"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.888695
 longitude: 4.635697
+title: Kinderdijk
+type: location
 ---
 
-Kinderdijk is a region located south west of [Rotterdam](/europe/netherlands/rotterdam) famous for the
-high concentration of windmills and for being a UNESCO heritage site.
-Here you can find a few dozens of windmills built between XVI and the
-XVIII century that were used to dry polders.
+Kinderdijk is a UNESCO World Heritage site southwest of [Rotterdam](/europe/netherlands/rotterdam) with the most concentrated collection of historic windmills in the Netherlands — 19 of them, built around 1740, lined up along the polders in a landscape that has become one of the country's most photographed scenes.
 
-Nowadays polders are kept dry by electrical pumps, even if windmills can be still activated in emercengy cases.
+The mills were built to pump water out of the low-lying Alblasserwaard polder. Modern electric pumps do the job now, but the mills are maintained and can still be activated in emergencies. From April to October you can enter one of the mills to see the machinery and living quarters inside. The best way to take in the full row is by walking or cycling the path along the canal — in the early morning or late afternoon, when the light catches the sails, it is genuinely striking.
 
-From April till October you can visit one of those windmills and get an idea of how they worked.
-
-A curiosity: the oldest windmill, which dated
+Kinderdijk is an easy day trip from Rotterdam or [The Hague](/europe/netherlands/thehague). A Waterbus ferry runs from Rotterdam Erasmusbrug directly to Kinderdijk in about 35 minutes.

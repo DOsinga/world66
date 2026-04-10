@@ -1,11 +1,14 @@
 ---
-title: "Lake Kariba"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -16.531595
 longitude: 28.772178
+title: Lake Kariba
+type: location
 ---
 
-Lake Kariba is located on Zimbabwe's northern border, 365 km from [Harare](/africa/zimbabwe/harare), holding back the mighty Zambezi River for 280 km's of sparkling fresh water. It covers an area of 5 230 square kilometres and lies 500m above sea level. Lake island and shoreline constitute an unparalleled wilderness spectacle, home to a multitude of wildlife in a protected environment. Kariba is famed for its sport fishing, with the fighting tigerfish as the prime trophy. Lake Kariba is studded with islands and surrounded by mountains. Of the forests which fringe the shores, the most intriguing is found at the Matusadona National Park.
+Lake Kariba lies on [Zimbabwe's](/africa/zimbabwe) northern border, 365 km from [Harare](/africa/zimbabwe/harare), a vast artificial lake holding back the Zambezi River for 280 km. It covers over 5,000 square kilometres and is one of the largest man-made lakes in the world, created when the Kariba Dam was completed in 1959 as a hydroelectric project.
 
+The lake and its shoreline are strikingly beautiful. Thousands of teak trees were submerged as the waters rose, and today their skeletal branches jut from the surface like a drowned forest from another world. The Matusadona National Park along the southern shore is home to elephant, buffalo, lion, and large populations of crocodile and hippo. Houseboating on the lake — with a cook and captain aboard — is a Zimbabwean tradition and one of the best ways to experience the wildlife and landscape.
 
- Once on dry land, these thousands of teak trees were half submerged in water as the lake slowly expanded to its present dimensions. Today, the skeletal branches of the trees jut into the sky from another world. At the downstream end by the dam, the town Kariba is equipped with sophisticated hotels, casinos and restaurants. The summit of the hill above the town offers a spectacular panorama of the lake, the dam wall and the downstream gorge. Lake Kariba dam wall was constructed in 1955/59, as a hydroelectric project.
+Kariba is famous for sport fishing, particularly for tigerfish, a ferocious fighting fish that draws anglers from across southern Africa. The town of Kariba sits at the dam end of the lake and has hotels, restaurants, and a casino. The hilltop above town offers a panoramic view over the lake, the dam wall, and the gorge downstream.

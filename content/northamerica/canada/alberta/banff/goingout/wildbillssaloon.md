@@ -1,9 +1,9 @@
 ---
-title: "Wild Bill’s Saloon ."
-type: location
-type: "general"
+title: "Wild Bill's Saloon"
+type: poi
+category: "Bar"
+latitude: 51.1761
+longitude: -115.5698
 ---
 
-Entertainment nightly. Live country/rock Wed-Sun. Line dance lessons Wed 8 pm. 15-ft TV, VLTs.  Tel: 1 403 762-0333  Address: Upstairs, 201 Banff Ave, Banff AB T0L 0C0
-
-type: general
+Upstairs at 201 Banff Avenue, Wild Bill's is the place for live country and rock music, with performances Wednesday through Sunday. Line dancing lessons on Wednesday evenings at 8pm, plus a 15-foot TV and a classic saloon atmosphere.

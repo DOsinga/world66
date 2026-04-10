@@ -1,14 +1,16 @@
 ---
-title: "Moynaq"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 43.7683
+longitude: 59.0214
+title: Moynaq
 type: location
-latitude: 43.764328
-longitude: 59.029747
 ---
 
-Moynaq is no more than a rotting village that was a former prosperous seaport on the Aral Sea. The utter desperation and depression here is so thick that a knife wouldn't cut it. Some 30 years ago when the waters of the Aral lapped at the shore, Moynaq was home to a successful fishing industry. Today it is a living ghost town, with no drop of water in sight.
+Moynaq (also written Mo'ynoq or Muynak) was once a prosperous seaport on the Aral Sea, home to a thriving fishing fleet and cannery. Today it is a ghost town sitting in the middle of a desert, the water gone — retreated more than 150 km to the north — and the ships left rusting on the sand where the harbour used to be.
 
+The Aral Sea disaster is one of the worst environmental catastrophes in history. From the 1960s onward, Soviet-era irrigation projects diverted the rivers feeding the sea to grow cotton in the desert. The water shrank decade by decade. Moynaq, which once had a lakeside boulevard and a busy port, is now stranded in the Aralkum — the new desert that formed where the sea used to be.
 
- If you want to get a sense of the world's worst environmental disaster, and you're an intrepid traveler, Moynaq will be a highlight of your trip. Rusted-out ships litter the sandy plains that were once a lake bottom. Get your taxi driver to drive you as close as possible to the ship area. There are a couple dozen ships in the area. Some are concentrated in one area, and there are a few others scattered around. If you dare, inquire locally or just have your driver take you around.
+The rusting ship graveyard is what most visitors come to see. A couple of dozen hulks sit tilted and corroding on the dry lakebed, some clustered together, others scattered across the flats. A concrete anchor monument stands on a bluff overlooking the former shoreline — a memorial to the port that no longer exists. The scale of the emptiness hits harder than any photograph prepares you for.
 
-
- Beware that there are no services in Moynaq, so pack a lunch! A concrete anchor memorial on a precipice overlooking the former lake is a tribute to what was once Uzbekistan's only seaport.
+There are no tourist services in Moynaq to speak of, so bring food and water. Hire a taxi from [Nukus](/asia/uzbekistan/nukus) for the day — the drive takes around two hours each way. Ask your driver to take you out to the ships and to the old cliff edge for the best view across the former sea bed.

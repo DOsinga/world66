@@ -1,14 +1,16 @@
 ---
-title: "Tozeur"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.9239
-longitude: 8.137064
+longitude: 8.1371
+title: Tozeur
+type: location
 ---
 
-Loacted in the southwest of Tunisia Tozeur is a pretty desert town on the fringes of the salt lake of Chott el-Jerid. It was once one of the Roman outposts and a stopping point for the caravans coming from the sub Sahara to trade with the coastal cities of the Mediterranean. Tozeur is world famous for its dates and you will find many palms here. The beauty of this oases, its fabulous 14th century medina and botanical gardens are the main reason to come here. The groves of over 200,000 palms are watered by hundreds of natural springs and the Belvedere park offers a panoramic view.
+Tozeur sits on the northern edge of Chott el-Jerid, the vast salt lake that dominates southwestern Tunisia. Once a waystation for trans-Saharan caravans trading with the Mediterranean coast, it is now famous above all for its dates — more than 200,000 palms draw their water from hundreds of natural springs, and the groves are extraordinary.
 
+The old quarter, the Ouled el-Hadef medina, is the finest reason to come here. Its architecture is unlike anywhere else in Tunisia: intricate geometric brickwork in warm ochre, with Moorish arches and high vaulted ceilings. The Dar Chariet museum occupies a reconstructed Tunisian palace and displays rare manuscripts, ceramics, jewellery and wax figures of traditional craftspeople. A smaller treasure house nearby holds ancient coins, antique weapons and bridal apparel. The medina is also a good hunting ground for souvenirs — locally woven carpets and Berber jewellery in particular.
 
- The medina, restored to its original beauty boasts a an interesting museum, the Dar Chariet. Built in the authentic style of Tunisian palace it displays in a true life setting rare manuscripts, jewelry, ceramics and ornaments as wells as wax figures of the traditional artisans at work. Besides the Dar Chariet museum, the medina, a museum in itself offers another smaller treasure house of ancient coins, doors, bridal apparel and antique weapons. The remarkable architecture of Tozeur, with its Moorish arches and high vaulted ceilings is a treat. Tozeur is good place to hunt for souvenirs. The shops in the medina offer locally woven carpets, Berber jewelry and ornaments.
+Beyond the medina, the Belvedere park offers a panoramic view across the palm groves, and the botanical gardens are worth an hour. Tozeur is also the main base for excursions into the surrounding desert — the sand dunes of Nefta, the canyon of Chebika and the oasis of Tamerza are all within easy reach.
 
-
- Tozeur is 450 km south-west of [Tunis](/africa/tunisia/tunis), 95 km south-west of [Gafsa](/africa/tunisia/gafsa), 90 km west of Kebili, 210 km west of [Gabes](/africa/tunisia/gabes).
+Tozeur lies 450 km south-west of [Tunis](/africa/tunisia/tunis), 95 km south-west of [Gafsa](/africa/tunisia/gafsa), and 210 km west of [Gabes](/africa/tunisia/gabes).

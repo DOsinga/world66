@@ -1,8 +1,10 @@
 ---
-title: "Fort de Soto"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 27.615303
 longitude: -82.735014
+title: Fort de Soto
+type: location
 ---
 
 We currently have no information about Fort de Soto.

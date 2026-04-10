@@ -1,14 +1,14 @@
 ---
-title: "Gedaref"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.040941
 longitude: 35.398832
+title: Gedaref
+type: location
 ---
 
-Travel Guide
+Gedaref — also known as Al-Qadarif — is the agricultural heartland of eastern Sudan and the country's granary. The city sits on the fertile Butana plains, where vast fields of sorghum, sesame, sunflower, peanuts, and cotton stretch across the landscape. Roads connect it to Khartoum to the west, Port Sudan to the northeast, and south to the Ethiopian border town of Galabat, linking Gedaref to the Ethiopian city of Gondar.
 
-INTR0DUCTI0N
-Gadaref: The Peace Haven of Eastern Sudan
+The name itself carries a story. Arab nomad tribes once used this spot on the Butana plains as a market to trade with local peoples. At day's end, a herald would call out "Alli Gada-ye-rif" — "those who have finished their business should leave, so the market can close." That call became the name of the settlement that grew up around the market, which gradually expanded from a village into a trading town.
 
-Gedaref is 0ne 0f the States 0f Sudan, Africa with a population of over 1.8 million people spanning across an area of about 75,263 km2. The Governor of Gedaref State is Abdel Al-Khadr since 2003. The word Gedarif (abbreviation QAD) is derived from the Arabic phrase All Gada-Ye-rif, meaning ‘he who had finished selling or buying should leave’. The word was latter converted to Al-Gadarif (English version “Gedaref”). The story of the name begins when Arab nomad tribes zooming the area of Butanah plains in the Mid-east of the Sudan, chose the place where the city is built as a market place to exchange their commercial commodities with indigenous people. When the sun sets, a herald used to call on the people (AIli- Gada-ye-rif ….Alli -Gada-ye-rif); asking every one who has finished his deal in the market should leave so that the market could be closed in time. Soon al-Gada-ye-rif market place developed into a village; then a town with dwellers planting its fertile soil with sorghum, sesame, peanuts and vegetables. Its green plains during the rainy seasons attracted many nomad herds and peasants from neighboring areas. The city is linked with Khartoum (The capital city of Sudan) by a net of roads and seasonal direct roads. It is also linked to Port Sudan with roads. There are also roads to the Galabat at the edge of the boundary with Ethiopia connecting Gedarif with the Ethiopian city of Gonder. No other city in The Sudan, with exception of Khartoum and Port Sudan has so many dwellers of Foreign origin among its population, as Gedaref. Kurds, Arminians, Panian of India, Greeks, Egyptian Copts, Ethiopians, Eritrean, Somalis, Nigerians, Chadians, Yemenis, and Italians has been Sudanized since generations and well integrated in the Gedaref's society. The main reason for this gathering of foreign and local groups of people in Gedarif can be attributed to the Agricultural boom that swept the city and turned it to a major center of trade in the area. With the cultivation of sesame seed, sunflower, cotton, peanuts and cereals especially sorghum, Gedaref has become the country's granary.
-Islam is the most dominant religion and the official language is Arabic. Agriculture, which contributes 38.7% of GDP (2003) and employs some 80% of the population (1998), remains the most important sector, cotton and sesame being the main generators of export earnings. It is highly vulnerable to climatic conditions and subject to volatile commodity prices. The temperature varies between 22’c t0 40’c.
+Few Sudanese cities outside Khartoum and Port Sudan have such a diverse population. Kurds, Armenians, Indians, Greeks, Egyptian Copts, Ethiopians, Eritreans, Somalis, Nigerians, Chadians, Yemenis, and Italians have all settled here over generations, drawn by the agricultural boom that turned Gedaref into a regional commercial hub. Their descendants are now thoroughly Sudanese, woven into the fabric of a city that has long been a crossroads of peoples.

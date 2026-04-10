@@ -1,15 +1,12 @@
 ---
-title: "Dolceacqua"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 43.850926
 longitude: 7.623636
+title: Dolceacqua
+type: location
 ---
 
-Travel Guide
+Dolceacqua is a beautiful medieval village in the Nervia Valley, a short drive inland from [Ventimiglia](/europe/italy/liguria/ventimiglia). The old town (Terra) climbs up the hillside in a tangle of covered alleyways and stone staircases, topped by the ruins of the Doria castle. Below, a single-arch medieval bridge — the one Monet painted in 1884 — spans the river to connect the old quarter with the newer Borgo.
 
-A very beautiful and ancient town in the Nervia Valley north of
-Ventimiglia. Lovely little covered alleyways and interesting
-surroundings including the boroque church of Sant'Antonio Abate.
-
-The town is dominated by the famous bridge that spans the river from
-the old town to the more modern part where many good cafes can be found.
+The baroque church of Sant'Antonio Abate is worth a look, and the surrounding valley produces Rossese di Dolceacqua, one of Liguria's best red wines. It is an easy half-day trip from the coast, or a pleasant stop on the way into the mountains.

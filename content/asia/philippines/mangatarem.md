@@ -1,10 +1,14 @@
 ---
-title: "Mangatarem"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 15.788536
 longitude: 120.293864
+title: Mangatarem
+type: location
 ---
 
-Travel Guide
+Mangatarem is a town in the southern part of Pangasinan province in the Philippines, its name derived from "mango" and "tarem" (knife). The town sits along the highway between Dagupan and the Hundred Islands, and is worth a stop for its hot springs and its colonial-era church.
 
-Southern town of Pangasinan which the name root from "mango" and "tarem" (knife). You can find the Manleluag Hot Spring southeast of the town proper. The catholic church is a must to visit. Check out the municipal hall too. When you stop and travel through the highway leading to Dagupan or Hundred Islands, buy yourself some "tupig". They are delicious. During summer, hike to the mountains east of the town to pick berries we call "lomboy". You can stop at a nursery and get some free seedlings to plant in your garden. Happy trails. Famous people from Mangatarem: Vitt Romero-film director Fernando Poe Sr.-father of actor Fernando Poe Jr. Larry Henares-essayist Al Mendoza-essayist, journalist Rina Jiminez-David-essayist
+The Manleluag Hot Spring, southeast of the town proper, is a natural mineral spring set in a small national park. The St. Raymond of Peñafort Church in the town centre is a fine old stone church. If you are passing through, pick up some tupig (grilled rice cakes wrapped in banana leaves) from the roadside stalls — they are a local speciality and delicious.
+
+In summer, the mountains east of town offer hiking through berry-covered hillsides.

@@ -1,8 +1,14 @@
 ---
-title: "Bristol"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.453802
 longitude: -2.597298
+title: Bristol
+type: location
 ---
 
-Bristol is the largest city in the south west of England, with a population of approximately half a million. Historically a county in its own right, it lies between Somerset and Gloucestershire and is properly entitled the City and County of Bristol. It also has a great history as a major trading port in the 19th century, - wine/spirits, shipping,(Isambard Kingdom Brunel) and John Cabot who went to the 'new continent' (U.S.A.) in the Matthew. There are plenty of historical areas to visit including the suspension bridge you can see in the picture, designed and built by Brunel as was also the SS Great Britain which is displayed now in the docks after being reclaimed from the Falklands in the 70's.and is still being repaired but looks great, well worth a visit.
+Bristol is the largest city in southwest England, with around half a million people, and it has more character than most British cities twice its size. Historically a county in its own right, it sits between Somerset and Gloucestershire and made its fortune as a major trading port — first in wine and spirits, then in shipping and engineering.
+
+The city's most famous son is Isambard Kingdom Brunel, whose Clifton Suspension Bridge still spans the Avon Gorge in dramatic fashion. His SS Great Britain, the first iron-hulled, screw-propeller-driven ocean liner, sits in the same dry dock where she was built and is one of the best maritime museums in the country. John Cabot sailed from Bristol harbour in 1497 to reach North America, and the city has been looking outward ever since.
+
+Modern Bristol is known for its independent spirit. The harbourside area has been transformed into a lively mix of restaurants, galleries, and bars. Stokes Croft is the street art capital of Britain (this is Banksy's home town). Clifton, up on the hill, is elegant and village-like with good shops and restaurants. The music scene — from trip-hop to drum and bass — punches well above its weight.

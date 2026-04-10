@@ -1,22 +1,9 @@
 ---
 title: "The Bhutan Kitchen"
 type: poi
-address: "One block of the town square on the thrid floor."
-type: "Local"
+address: "Third floor, one block from the town square, Thimphu"
+latitude: 27.4716
+longitude: 89.6388
 ---
 
-For the best authentic Bhutanese cuisine the Bhutan Kitchen is the
-place to go. It opened in the summer of 2004 and has become THE place
-for the local big shots to hang out. The Crown Prince often dines there
-with his entourage. The buckwheat pancakes are a specialty and are
-great to wrap around the meat from the pork stew or the local staple of
-chiles and cheese.
-
-**Contributors**
-June 30, 2005
-
-type: Local
-
-
-
-address: One block of the town square on the thrid floor.
+The most recommended restaurant for authentic Bhutanese cooking in Thimphu. Opened in 2004, it became a favourite of Thimphu's elite. The menu centres on Bhutanese specialities: ema datshi (chillies with cheese), pork stew, and buckwheat pancakes. The buckwheat pancakes, used as a wrap for stew, are the dish to order.

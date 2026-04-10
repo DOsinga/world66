@@ -1,11 +1,12 @@
 ---
-title: "Annobon"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -1.4344
+longitude: 5.6374
+title: Annobon
 type: location
-latitude: -1.434384
-longitude: 5.637424
 ---
 
-About 500 km southwest of [Rio muni](/africa/equatorialguinea/riomuni), Annobon is a small island in the bight of Biafra. Locally known as Pagalu, the island is about 8 kilometers from north to south and about 3 kilometers wide with a total area of land of about 17 square km. It is mountainous and there are three remarkable peaks on it. In the north it is Pico del Fuego (454meters), in the centre Pico del Centro (630 m) and in the south Pico Surcado, about the same hight. Pico Surcado is an extinct volcano, and a lake is situated in its former crater. 
+Annobon is one of the most isolated inhabited islands in Africa — a volcanic speck in the Gulf of Guinea, about 500 km southwest of the Equatorial Guinean mainland. Known locally as Pagalu, the island is just 8 km long and 3 km wide, yet it packs in real drama: three distinct peaks rise from dense forest, including Pico Surcado in the south, an extinct volcano with a crater lake. Getting here takes serious effort, which means almost no tourists ever do.
 
-
- The village of San Antonio, inhabited by about 400 people, is the biggest town. It is located just south of Punta del Palmar. There is a christian missionary station in its vicinity.
+The island's only significant settlement is San Antonio, a small fishing village of a few hundred people on the northwestern coast. Life moves slowly here. The population speaks Annobonese, a Portuguese-based creole with roots in the island's colonial past, and fishing remains the main livelihood. There is little infrastructure and no conventional tourist facilities, but for the determined traveler, Annobon offers something genuinely rare: an inhabited island that the modern world has largely passed by.

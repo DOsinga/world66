@@ -1,18 +1,7 @@
 ---
 title: "Books"
 type: section
+description: "Reading to help you understand Guadeloupe before you go."
 ---
 
-**all**
-
-**Guadeloupe**
-
-The only guidebook for this destination in the French West Indies. The charm of this dramatically beautiful Caribbean island is revealed along winding picturesque roads through typical villages and towns. Colour plates to help you identify birds.
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/2894642822/ref=ase_osingacom?v=glance&s=books)
-
-author: Pascale Couture
-
-isbn: 2894642822
-
-subject: Ulysses Travel Guides
+Guadeloupe's literary tradition is rich, rooted in the Creole experience and the tension between Caribbean identity and French colonial history. These are worth reading before or during a visit.

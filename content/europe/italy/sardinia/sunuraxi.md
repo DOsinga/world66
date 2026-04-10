@@ -1,8 +1,10 @@
 ---
-title: "Su Nuraxi di Barumini"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.705867
 longitude: 8.990894
+title: Su Nuraxi di Barumini
+type: location
 ---
 
 If you choose one ancient nuraghe to visit, make it Su Nuraxi. It gives you the best sense of the primitive grandeur of Sardinia's only indigenous Bronze Age civilisation. A UNESCO World Heritage Site, it's the largest and probably the oldest nuraghic complex on the island, dating from around 1500 BC.

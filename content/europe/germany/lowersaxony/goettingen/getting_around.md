@@ -1,20 +1,10 @@
 ---
-title: "Getting Around in Goettingen"
+title: "Getting Around"
 type: section
 ---
 
-It is not very hard to get around in this rather small town, because most
-sights, bars, nightclubs, etc. are in walking distance and can be found
-around the city center (market place).
+The centre is small enough to walk everywhere that matters — sights, bars, and most of what students and visitors need are within a few minutes of the market square.
 
-Another option is to ride a bike, what most students in Goettingen do.
+Cycling is the default for many residents. Bike lanes are widespread and the terrain is flat.
 
-The bus system is wide spread, so this is another option for travelers to reach the outskirts of the town.
-
-And finally there are taxis. Look out for a "PUK-Minicar" (you will
-have to stop one on the side of the street, because they are not
-allowed to have a taxi-stand or anything similar), since they have
-cheaper fares than the regular "white" cabs.
-
-**Contributors**
-June 13, 2005
+Buses cover the outer districts. For taxis, look out for PUK-Minicars — they operate without a taxi stand (wave one down on the street) and charge less than the standard white cabs.

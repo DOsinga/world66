@@ -1,14 +1,12 @@
 ---
-title: "Cavite"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 14.255407
 longitude: 120.86715
+title: Cavite
+type: location
 ---
 
-Travel Guide
+Cavite is a province just south of Metro Manila, wedged between Manila Bay and the South China Sea. It punches well above its size historically — this is where Emilio Aguinaldo declared Philippine independence in 1898, and the province has produced more national heroes and revolutionary leaders than almost anywhere else in the country. The Caviteños are proud of that record, and rightly so.
 
-Cavite is known for its rich history and a large number of National Heroes. It is sometimes called "Land of the Brave" or the History Capital of the Philippines.
-
-Those who live in Cavite are called Caviteños. Check Cavite blog for other information regarding the history, culture and latest issues regarding Cavite.
-
-Cavite is part of Region IV-A, or (Calabarzon - Cavite, Laguna, Batangas, Quezon Region) or the southern Tagalog Region. It is Bordered by Metro Manila in the North, Laguna in the east, Batangas in the south and by Soouth China Sea on the west.
+Most travellers pass through Cavite City or Tagaytay (technically a separate city but within the province) on their way somewhere else, but there's enough here to justify a proper day trip: colonial-era fortifications, Corregidor Island accessible from Cavite port, and the cool ridge above Taal Volcano at Tagaytay. The province is part of the Calabarzon region and connects easily with Laguna and Batangas for a wider southern Luzon loop.

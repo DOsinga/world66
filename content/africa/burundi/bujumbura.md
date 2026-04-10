@@ -1,8 +1,10 @@
 ---
-title: "Bujumbura"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -3.3822
 longitude: 29.3644
+title: Bujumbura
+type: location
 ---
 
 Bujumbura is Burundi's largest city, its economic hub, and the place where almost every visitor to the country begins and ends. It sits on the northeastern shore of Lake Tanganyika, backed by steep green hills, and the setting is genuinely striking. The lake dominates the city's character -- warm, vast, and fringed with sandy beaches that feel improbable for a landlocked country.

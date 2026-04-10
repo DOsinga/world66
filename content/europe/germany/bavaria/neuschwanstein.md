@@ -1,14 +1,14 @@
 ---
-title: "Neuschwanstein"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.5576
+longitude: 10.7497
+title: Neuschwanstein
 type: location
-latitude: 47.557552
-longitude: 10.749696
 ---
 
-The ultimate fairytal, jigsaw puzzle, castle. Perched on top of a mountain this Disney like construction was built in th 19-th century Bavarian king Ludwig. He was a 19-th century version of Micheal Jackson and this is his neverland. 
+Neuschwanstein is the fairytale castle perched above the village of Hohenschwangau in the Bavarian Alps, about 120 km southwest of Munich. King Ludwig II ordered its construction in 1869, intending it as a private refuge — it was never finished in his lifetime, and he lived in it for only 172 days before his mysterious death in 1886. Walt Disney later used it as the model for Sleeping Beauty's castle, which tells you something about the impression it makes.
 
+The best approach is from [Füssen](/europe/germany/bavaria/fussen), the nearest town, where you can catch a shuttle bus or walk the steep 2 km path up to the castle. Book timed entry tickets online in advance; the castle is one of the most visited in Europe, and summer queues without a reservation are punishing. The interior tour takes about 35 minutes and covers the elaborately painted throne room, the artificial grotto, and the unfinished bedroom.
 
-
-Neuschwanstein is 100 km by rail from Munich. Best to be explored from [Fussen](/europe/germany/bavaria/fussen) , where you can find transport, food and accommodation. 
-
-Hohenschwangau is another castle, older but less spectacular. Both casles can be visited on the same day. Entry for both castles costs 12 DM.
+Hohenschwangau castle, just below, is older and less theatrical — it was Ludwig's childhood home and is worth combining into the same day. Both castles are closed on Mondays.

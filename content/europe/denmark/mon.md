@@ -1,15 +1,16 @@
 ---
-title: "Mon"
+title: "Møn"
 type: location
 latitude: 54.969843
 longitude: 12.424946
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Mon is a small island just south of Zealand - the island [Copenhagen](/europe/denmark/copenhagen) is on. Mon has superb beaches, gently rolling hills and idyllic pastoral scenery. Mon is a perfect get away from the big city of Copenhagen; its slow, easy-going pace creates the perfect atmosphere for a thoroughly enjoyable holiday. 
+Møn is a small island just south of Zealand, the island [Copenhagen](/europe/denmark/copenhagen) sits on. With superb beaches, gently rolling hills, and idyllic pastoral scenery, it is a perfect escape from the capital — slow-paced and thoroughly relaxing.
 
+The main sight is Møns Klint, a dramatic stretch of chalk cliffs dropping 128 metres into the sea. The cliffs are around 70 million years old and have been a major attraction for Danes and visitors alike for centuries. The nearby Klinteskoven woodland is good for hiking, picnics, and riding.
 
- The main sight on the islands is Mons Klint, the 5,000-year-old chalk cliffs, They drop 128 metres into the sea and are a major tourist attraction for Danes and foreigners alike. In addition, the nearby Klinteskoven woodland is perfect for hiking, picnics and horseriding excursions.
+The main town is Stege, a pleasant place to spend an hour browsing the shops on Storegade and sitting in one of its cafes. The 13th-century Stege Kirke has some quirky ceiling frescoes, and the Møllerporten is one of the best-preserved medieval town gates in Denmark.
 
-The main town and commercial centre of Mon is Stege. Enjoy a pleasant hour or two window-shopping on Storegade, the main thoroughfare and relax in one of the many cafés and restaurants located there. Pay a visit to the 13th-century Stege Kirke, whose ceiling features some quirky frescoes restored in 1892, or marvel at the Molleporten, one of the best-preserved medieval gates in Denmark.
-
-North of Stege is the Ulvshale strand, a great beach with a wild forest nearby, which offers good hiking opportunities. With much of its landscape taken up by marshland, Mon offers perfect opportunities for the amateur birdwatcher to pass a fascinating afternoon spotting some local and migratory birds from one of the many birdwatching sites scattered strategically around.
+North of Stege, the Ulvshale strand is a fine beach with a wild forest nearby. Much of Møn's landscape is marshland, making it excellent territory for birdwatching — several dedicated hides are scattered around the island.

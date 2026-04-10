@@ -1,8 +1,10 @@
 ---
-title: "Victoria Falls"
+title: Victoria Falls
 type: location
 latitude: -17.922895
 longitude: 25.847685
+done:
+  location_cleanup: 2026-04-06
 ---
 
 The 'Vic Falls' are the most beautiful waterfalls in Africa, if not the world. The Falls are about 1000km from the source of the Zambezi River in western Zambia. Towards the end of a normal rainy season the flow of water over the Falls reaches 500 000 cu m per minute. The towering column of spray when the river is high and the thunder of the falling water will take your breath away. Politically speaking the Victoria Falls is the border between Zambia and Zimbabwe. You can visit the falls on both sides, but the Zimbabwean side is by fare more beautiful. 

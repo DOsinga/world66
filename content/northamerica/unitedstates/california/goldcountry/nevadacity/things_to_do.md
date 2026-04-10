@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Fire House Museum**
-
-214 Main St. 95959 530/265-5468 
-
-**Miners Foundry Cultural Center**
-
-325 Spring St. 95959 530/265-5040
+Nevada City's historic downtown is small enough to cover on foot in an afternoon. The Firehouse Museum and Miners Foundry are both within a few blocks of Broad Street. For bigger ambitions, the drive to Malakoff Diggins is one of the better half-day excursions in the Gold Country.

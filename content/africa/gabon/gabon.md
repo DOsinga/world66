@@ -1,14 +1,15 @@
 ---
-title: Gabon
-type: location
-latitude: -0.8037
-longitude: 11.6094
-image: gabon.jpg
-image_source: https://commons.wikimedia.org/wiki/File:POG-Street_1.jpg
-image_license: Public domain
-image_attribution: Brian Ecton
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: gabon.jpg
+image_attribution: Brian Ecton
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:POG-Street_1.jpg
+latitude: -0.8037
+longitude: 11.6094
+title: Gabon
+type: location
 ---
 
 Gabon is one of the most pristine and least-visited countries in Africa. Straddling the equator on Central Africa's Atlantic coast, nearly 90% of the country is covered in dense tropical rainforest, and almost 11% of its territory is protected in thirteen national parks. If you want to see forest elephants wandering on white-sand beaches, western lowland gorillas in jungle clearings, or leatherback turtles nesting by moonlight, this is where you come.

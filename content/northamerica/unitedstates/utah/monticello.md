@@ -1,12 +1,12 @@
 ---
-title: "Monticello"
+done:
+  location_cleanup: '2026-04-09'
+lat: 37.8722
+long: -109.3428
+title: Monticello
 type: location
-latitude: 38.010319
-longitude: -78.452333
 ---
 
-Travel Guide
+Monticello is a small town in southeastern Utah, about 50 miles south of Moab at the junction of US-191 and US-491 (formerly the notorious US-666). It's a useful stopping point in canyon country, with basic motels, gas stations, and restaurants, and the landscape all around it is stunning.
 
-Monticello is about 50 miles south of Moab, and at the junction of US-191 and US-491 (the formerly infamous US-666). It's a very small Mormon town, but the real gem is the little Peace Tree coffee shop. Smoothies, good food, and other treats are available in this shop which seems somewhat out of place in a very conservative and somewhat frumpy burg.
-
-The usual assortment of small motels and restaurants is also available, along with gas stations and other services. The country all around is breathtakingly beautiful. Too bad the human population seems so ill-matched to the gorgeous location.
+One local surprise worth knowing about: the Peace Tree Café, a coffee shop that serves smoothies and good food — unexpectedly good for such a quiet and conservative corner of Utah.

@@ -3,12 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-**By Car**
+You need a car. Public transport outside Hobart is thin, and the best of the southeast is spread across four distinct corridors, all radiating from the city.
 
- There are four major roads that can be used to explore the South-East, all radiating from Hobart. The Midlands Highway (A1) runs from Hobart up to Bridgewater, then crosses the Derwent and heads north for Launceston. The route is an old one, and is lined by a number of historic towns. Closest to Hobart is Pontville and Kempton. Other towns in the midlands are described in other sections.
+**The Midlands Highway (A1)** heads north from Hobart to Bridgewater, crosses the Derwent, and continues toward Launceston. The route passes a string of historic towns — Pontville and Kempton are the closest.
 
- The East Coast Highway (A3) crosses the Derwent River immediately and passes the Hobart Airport and Sorell, then bypasses the Tasman Peninsula and reaches the coast at Orford. This route also takes one out to the Richmond-Campaigna district (turn west before the airport).
+**The East Coast Highway (A3)** crosses the Derwent, passes the airport and Sorell, then skirts the Tasman Peninsula on its way to the East Coast at Orford. A turn west before the airport takes you into the Richmond-Campania district.
 
- South of Hobart, take the Southen Outlet (A6) to Kingston. The Huon Highway (A6), continues south to Huonville, Franklin, Geeveston and Dover, with access to the Hartz Mountains and the South-West National Park. Alternatively, you can take B68 to explore the townships along the Channel and access Bruny Island.
+**The Huon Highway (A6)** runs south from Kingston through Huonville, Franklin, Geeveston, and Dover, with access to the Hartz Mountains and the Southwest National Park. Alternatively, take the B68 along the Channel through Margate and Kettering, where the ferry departs for Bruny Island.
 
- Finally, you can explore the Derwent Valley by travelling north-west from Hobart along the Lyell Highway (A10) past New Norfolk. The Mt Field National Park is reached by veering west along B62, and one can continue past Maydena into the South-West. The Lyell Highway continues to follow the Derwent to its source in the Central Highlands, before continuing on to the West Coast.
+**The Lyell Highway (A10)** heads northwest from Hobart past New Norfolk into the Derwent Valley. Turn west on the B62 for Mt Field National Park and Maydena. The highway continues to the Central Highlands and eventually the West Coast.

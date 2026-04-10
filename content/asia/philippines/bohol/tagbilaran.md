@@ -5,9 +5,8 @@ latitude: 9.640261
 longitude: 123.855981
 ---
 
-Tagbilaran will probably be your starting place to make some trips on the island. Close to town there are some old chucrhes dating from teh 16-th century as well as some nice small towns.
+Tagbilaran is the capital of Bohol and the most likely starting point for exploring the island. It is a small, functional city — not a destination in itself, but a convenient base with an airport, the main ferry terminal, and enough services to get you sorted before heading out.
 
-The Punta Cruz pirate watchtower is just 15 km north of town, near Maribojoc. Loon, in the same direction but a bit further, has a beautiful old church, dating from 1753. Antequera has a sunday market. It is some 25 km north of Tagbilaran.
+The real rewards are just outside town. The Punta Cruz watchtower, a pirate lookout from the Spanish era, stands about 15 kilometres north near Maribojoc. A bit further in the same direction, the town of Loon has a beautiful old church dating from 1753. Antequera, about 25 kilometres north, has a lively Sunday market worth timing your visit around.
 
-
- East of town, Bool (just 3 km) has a monument commemorating the blood compact between Legaspi and Rajah Sikutana, continue for 4 km and you are in Bacalayon, which has the oldest church of Bohol, going all the way
+East of town, the village of Bool is just three kilometres away and has a monument commemorating the 1565 blood compact between the Spanish explorer Legazpi and the local chief Sikatuna. Continue another four kilometres to Baclayon, where the oldest church in Bohol stands — a massive coral-stone structure built in 1595.

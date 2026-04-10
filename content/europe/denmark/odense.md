@@ -1,10 +1,14 @@
 ---
-title: "Odense"
+title: Odense
 type: location
-latitude: 55.399723
-longitude: 10.38521
+latitude: 55.3997
+longitude: 10.3852
+done:
+  location_cleanup: 2026-04-06
 ---
 
-With about 175,000 inhabitants, Odense is the regional capital of Funen and the third-biggest city in Denmark. The city is more than a thousand years old and various museums tell about the history of Odense and of Denmark. Odense lies within a short distance of beaches and many leisure activities are offered.
+Odense is Denmark's third-largest city and the birthplace of Hans Christian Andersen, a fact the city embraces wholeheartedly. The Hans Christian Andersen Museum, recently rebuilt and expanded, is the centrepiece, but Odense has more to offer than fairy tales.
 
-The city centre has many pedestrian streets, wonderful shops, small cafés and restaurants, where you can enjoy life with the locals - or visit the large shopping centres, with all the heart can desire under one roof. Main sights include the Hans Christian Andersen, the Odense City Museum and the St. Knuds Cathedral.
+The old city centre is compact and walkable, with cobbled pedestrian streets, small cafes, and the Gothic St. Knud's Cathedral — one of Denmark's finest churches, with a gilded altarpiece by Claus Berg and the remains of King Knud the Holy in the crypt. Odense is also the capital of Funen, the island Danes call "the garden of Denmark" for its gentle, green landscape.
+
+The Funen Village, an open-air museum on the outskirts, reconstructs 18th and 19th century rural life with farmhouses, a smithy, a windmill, and working agriculture. It is one of the best of its kind in Scandinavia.

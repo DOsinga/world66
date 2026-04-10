@@ -1,8 +1,12 @@
 ---
-title: "Bacina Lakes"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 43.0708
+longitude: 17.3808
+title: Baćina Lakes
 type: location
 ---
 
-The Bacina Lakes at Ploce is one of the most spectacularly beautiful sights in Croatia. The six **semi-**linked lakes that lie about half an hours drive North of Komarna are visible from the coastal road. They more or less have the same colour as the brochures advertising diving trips to The Maldives.
+The Baćina Lakes are a cluster of six interconnected freshwater lakes near Ploče on the southern Dalmatian coast. They are visible from the coastal road and their colour — an intense turquoise-green — is striking enough to make you pull over.
 
-The lakes are a favoured spot for the locals so it's possible to buy food and drink. Remember to bring your diving glasses. It's not The Maldives but there is an abundance of fish in the water anyway.
+The lakes are popular with locals for swimming, kayaking, and fishing, and there are a few places along the shore to buy food and drink. The water is clean and warm in summer, and far less crowded than the beaches along the coast. If you are driving the coastal road between [Split](/europe/croatia/split) and [Dubrovnik](/europe/croatia/dubrovnik), the lakes make an excellent stop.

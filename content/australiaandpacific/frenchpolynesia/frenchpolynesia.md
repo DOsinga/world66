@@ -1,15 +1,16 @@
 ---
-title: French Polynesia
-type: location
-latitude: -17.679742
-longitude: -149.406843
-image: frenchpolynesia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:West_side_of_Taha'a_atoll_-_fishing_inside_the_reef_-_panoramio.jpg
-image_license: CC BY 3.0
-image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161029152712/http://www.panoramio.com/user/2134453?with_photo_id=95869938">David
-  Broad</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: frenchpolynesia.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161029152712/http://www.panoramio.com/user/2134453?with_photo_id=95869938">David
+  Broad</a>
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:West_side_of_Taha'a_atoll_-_fishing_inside_the_reef_-_panoramio.jpg
+latitude: -17.679742
+longitude: -149.406843
+title: French Polynesia
+type: location
 ---
 
 French Polynesia is a scattering of 118 islands and atolls across a stretch of the South Pacific larger than Western Europe. Most of them are tiny, remote, and uninhabited. The ones that are inhabited are, in many cases, extraordinarily beautiful — mountains draped in jungle dropping into turquoise lagoons, encircled by coral reefs full of sharks and manta rays.

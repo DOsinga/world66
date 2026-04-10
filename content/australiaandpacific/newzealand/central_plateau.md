@@ -1,12 +1,16 @@
 ---
-title: "Central Plateau"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -38.8
+longitude: 175.9
+title: Central Plateau
 type: location
-latitude: -49.688921
-longitude: 178.774094
 ---
 
-Central Plateau is a region in North Island, New Zealand.
+The Central Plateau is the volcanic heart of New Zealand's North Island — a high, dramatic landscape of active volcanoes, vast forests, and the country's largest lake. The three peaks of the Tongariro Volcanic Plateau — Ruapehu, Ngauruhoe, and Tongariro — dominate the skyline, and the Tongariro Alpine Crossing is often called the best one-day walk in New Zealand.
 
-## Destinations in Central Plateau
+[Taupo](/australiaandpacific/newzealand/central_plateau/taupo), on the shores of Lake Taupo (the water-filled caldera of a dormant supervolcano), is the main base for the region. The lake offers world-class trout fishing, and nearby Huka Falls is New Zealand's most visited natural attraction, with over 220,000 litres of water tumbling over the cliff every second.
 
-[Taupo](http://www2.world66.com/australiaandpacific/newzealand/central_plateau/taupo)
+## Destinations
+
+- [Taupo](/australiaandpacific/newzealand/central_plateau/taupo)

@@ -1,15 +1,14 @@
 ---
-title: "La Coruna"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 43.37097
 longitude: -8.395943
+title: La Coruña
+type: location
 ---
 
-La Coruna is located in the North West of Spain, close to the border with
-[Portugal](/europe/portugal).
+La Coruña (A Coruña in Galician) sits on a rocky peninsula in the far northwest of [Spain](/europe/spain), facing the Atlantic. The city's signature feature is the **Tower of Hercules**, a Roman lighthouse that has been guiding ships for nearly 2,000 years — the oldest working lighthouse in the world, and a UNESCO World Heritage Site.
 
-Land of seamen and countrymen, La Coruña has known how to become a city of the future, a nice place to live and a great destination to spend the holidays. No other city in the northwest of Spain has such a mix of relax and high standard cultural activities.
+The old centre is compact and worth a slow walk: narrow medieval streets, Romanesque churches, and a cluster of striking Modernist buildings from the late 19th century, when the city prospered. Picasso spent his childhood here (his father taught at the art school), and the Picasso House Museum on Rúa de Panadeiras preserves the connection. The waterfront promenade, one of the longest in Europe, wraps around the peninsula with views of the harbour and the open sea.
 
-The old center is definately worth a visit. It contains most of the historical monuments built before the 19th century. Even more important probably are the buildings dating from the Modernist period. La Coruña blosomed during the progressive wave at the end of the nineteenth and beginning of the twentieth centuries. Picasso lived in La Coruna during that time and there are many reminders of the great painter.
-
-Near the city, the Rías Altas, the Costa da Morte (Death Coast), the shires of As Mariñas, Os Bergantiños, and a little bit further away, the rest of Galicia, make the city of La Coruña an ideal base for hiking in a beautiful natural area.
+La Coruña makes an excellent base for exploring [Galicia](/europe/spain/galicia). The Rías Altas — deep inlets north of the city — are dramatic and uncrowded. The **Costa da Morte** (Death Coast) to the west is wild, windswept and beautiful, named for the shipwrecks that littered its rocks over the centuries.

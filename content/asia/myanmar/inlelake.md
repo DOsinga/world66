@@ -1,22 +1,18 @@
 ---
-title: "Inle lake"
+title: Inle Lake
 type: location
-latitude: 20.539915
-longitude: 96.91721
+latitude: 20.5399
+longitude: 96.9172
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The centre of Myanmar will captivate you very quickly. Once you got used to the sight of the fishermen’s peculiar 'leg-rowing-technique', your eyes can enjoy the 'floating flower beds' and the pile-dwellings on the shore. A boat-trip on the lake is absolutely recommendable. Here, villages are built on stilts over the lake waters and boats are the sole means of transport. Don't forget to bring along an umbrella or cap beacuse the sun can be extremey hot.
+Inle Lake is one of Myanmar's most captivating destinations — a vast freshwater lake in the Shan Hills where life happens almost entirely on water. Villages stand on stilts, gardens float on the surface, and fishermen balance on one leg while rowing with the other, a technique found nowhere else in the world.
 
+A boat trip on the lake is essential. Hire a rowing boat rather than a motorised one if you can — the silence lets you hear the water lapping against the stilts and the sounds of village life drifting across the surface. Rowing boats can also reach the narrow ditches behind the main canals, where you will find locals doing laundry and performing offering ceremonies in near-total peace.
 
- 
- Try to make the trip on the lake at least two times: once with a motorised boats (be aware that the letters of the boats don't mind pulling the traveller's leg) and once with one of the small rowing boats. The trouble with the motorboats is that they make such a noise that you can't possibly enjoy the scenery. So, take a rowing boat or ask if they turn off the engine when you arrive at the floating gardens and the lovely houses. Children will appear form every corner and they will giggle when they see you and wave at you. If you don't like children....this might be the turning-point in your life.
+The lake's main attractions are spread along its shores and on the water itself: the floating gardens where tomatoes and flowers grow on beds of water hyacinth, silk-weaving and lotus-fibre workshops, jewellery makers, and ancient pagodas. The jumping cat monastery and the central pagoda are popular stops, but the real pleasure is in the quieter moments — watching children leg-row their younger siblings to school, or drifting past a stilt house as someone prepares the evening meal.
 
+The surrounding mountains offer excellent trekking. You can hike to villages where Burmese cheroots are hand-rolled, or take longer multi-day treks to Kalaw through rolling green hills and hill-tribe villages.
 
- 
- Besides the fact that the rowing boatsn don't make any noise, they can take you to places that you can't reach by motorboat. It leads you to the little ditches behind the main canal where you can enjoy the serene atmosphere and the sight of locals doing their laundry or performing their offering ceremonies.
- 
- In the centre is an excellent pancake restaurant where you can eat western fries as well. This might be a nice change of diet when you haven't seen and eaten anything else than rice for a long time. The owner of the restaurant, that only consist of a table or five, goes to the village some fifteen kilometres away in order to fetch the best strawberries to make the most delicious strawberry milkshakes.
-
-
- 
- In one of the hotels, you can see 'longneck' women. You have to pay to make a picture. Although it is a slightly disgusting idea, this is the way they make money and this is the only place where you can see them, because the area where they live is not accessible to the public (probably for the best).
+Nyaung Shwe is the gateway town, with guesthouses, restaurants, and a market. From there, a canal leads out to the lake itself — about half an hour by boat.

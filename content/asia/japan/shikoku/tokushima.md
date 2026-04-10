@@ -1,33 +1,16 @@
 ---
-title: "Tokushima"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.919642
 longitude: 134.250963
+title: Tokushima
+type: location
 ---
 
-Travel Guide
+The first major city beyond the Akashi Kaikyo-Ohashi bridge, Tokushima is a small but modern city on the northeast coast of Shikoku. It is best known for the **Awa-Odori** festival, held during the Obon period in mid-August and sometimes called Japan's Mardi Gras. For three days the city's population explodes — during the day it is quiet, but once dusk comes, thousands of people pour into the streets to drink, dance, and watch the dancing groups called *ren*. Hotel rooms are impossible to find during the festival, so book well in advance.
 
-The first major city beyond the Akashi Kaikyo-Ohashi bridge, Tokushima
-is a small, but modern metropolis with a quaint air. The city is best
-known for its annual **Awa-Odori** festival (considered by some to
-be "Japan's Mardi Gras"), which is held during the yearly Obon period
-in mid-August. This is a three-day festival during which the city's population explodes and finding hotel rooms can be difficult. During the festival days, the city is quiet, but once dusk comes, thousands of people are out drinking, watching dancing groups call *ren*, and generally enjoying themselves. Some local people claim the festival began with the completion of Tokushima Castle, which was later dismantled. All the men doing that construction work meant there was a market for female company, which is why the females' distinctive hats cover their faces yet the ladies also repeatedly show their ankles and lower legs while dancing.
+**Mount Bizan**, accessible by ropeway from south of the Yoshino River, offers a panoramic view of the city and coast. At the summit is Tokushima Pagoda, a stupa built as a memorial to Japanese soldiers killed in Burma, along with gardens that are pleasant in warm seasons. At the base of the mountain, the **Awa Odori Kaikan** has year-round exhibits and performances of the trademark dance for those who cannot visit during the festival itself.
 
-The major geographic feature of the city is its mountain
-of **Bizan**, accessible by a ropeway located south of the Yoshino River. From its summit, you can get a nice panoramic view of the area. **Tokushima Pagoda**, a stupa built as a memorial to Japanese soldiers killed in Burma, is the main feature of the mountain-top park, although there is also a monument to a visit from the Meiji Emperor. There is also wide area of flowers and small gardens that can be very pleasant in warm seasons.
+The ruins of Tokushima Castle sit in Tokushima-chuo-koen, northeast of the station, alongside a formal garden (**Shenshuku-teien**) and a small museum showing what the castle once looked like. About 4 km north of the station, **Awa Jurobe Yashiki** features displays and live performances of local Bunraku puppetry.
 
-For those unable to visit during the festival, the **Awa Odori Kaikan**,
-at the base of Mt. Bizan, offers numerous exhibits relating to its
-trademark dance. The former castle of Tokushima is now only ruins,
-having been destroyed in 1896. Despite its absence, there are some
-remnants along with a formal garden (**Shenshuku-teien**) in
-Tokushima-chuo-koen, northeast of the station. The park also features a
-museum dedicated to the castle, providing examples of how it once
-looked. Further away, 4km north of Tokushima station is Awa Jurobe
-Yashiki, which features displays and performances of local Bunraku
-puppetry performed by local women.
-
-Beyond Tokushima to the north are the famous **Naruto Whirlpools**,
-formed by the changing of tides. Though sometimes difficult to plan for
-accurately, they are viewable by tour boat or by walking across the
-Uzu-no-Michi walkway. If you have access to a car, a drive along the **Naruto Skyline Drive** is very scenic, with some high bridges providing superb views of various inlets and fishing villages. This road is popular with motorcyclists and, once the sun goes down, people into* drifting,* skid-sliding cars through twists and turns of the road.
+Beyond Tokushima to the north are the famous **Naruto Whirlpools**, formed by tidal changes in the narrow strait. They are viewable by tour boat or by walking across the Uzu-no-Michi glass walkway. The **Naruto Skyline Drive** is a scenic road with dramatic views of inlets and fishing villages from its high bridges.

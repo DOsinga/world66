@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Himeji"
+title: "Getting There"
 type: section
 ---
 
-The Shinkansen would be the best way to get to Himeji. It is on the Sanyo Shinkansen line, west of Osaka and east of Okayama.
-
-**Contributors**
-October 24, 2005
+Himeji is on the Sanyo Shinkansen line, roughly 90 minutes from Osaka and 30 minutes from Okayama. The station is in the centre of town, with the castle visible straight down the main boulevard.

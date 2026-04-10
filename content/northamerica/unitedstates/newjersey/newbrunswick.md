@@ -1,14 +1,12 @@
 ---
-title: "New Brunswick"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.495137
 longitude: -74.443925
+title: New Brunswick
+type: location
 ---
 
-If you are into theater, there is the State Theater on Livingston Avenue or various shows through Rutgers University.
+New Brunswick is a small city on the Raritan River, defined above all by Rutgers University — the State University of New Jersey, whose campus sprawls across much of the town. The result is a college-town atmosphere with a good mix of cheap food, live music, and a surprisingly active theatre scene centred on the State Theater on Livingston Avenue.
 
-New Brunswick is also in the middle of Rutgers University. You can get something to eat at the popular Grease Trucks, located on College Ave. 
-
-The train station on Rte 27 is convienient to the rest of town and trains run every half hour to NYC.
-
-New Brunswick also has two hospitals: St. Peters & Robert Wood Johnson.
+Trains run every half hour to New York City from the station on Route 27, making New Brunswick an easy day trip or stopover.

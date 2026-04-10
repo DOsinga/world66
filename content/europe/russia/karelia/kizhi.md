@@ -1,14 +1,12 @@
 ---
-title: "Kizhi"
+title: Kizhi
 type: location
 latitude: 61.769693
 longitude: 34.370758
 ---
 
-Travel Guide
+Kizhi is a small island in Lake Onega, about 70 kilometres northeast of Petrozavodsk, and it holds one of the most extraordinary collections of wooden architecture anywhere in the world. The island is a UNESCO World Heritage Site, and deservedly so.
 
-The **Kizhi** is one of the most precious world sights protected by UNESCO. One should definitely visit this perfectly preserved and arranged outdoors museum
+The centrepiece is the Church of the Transfiguration, built in 1714 and crowned with 22 onion domes that cascade upward in a way that seems almost impossible in timber. The story goes that it was built without a single nail — the logs fitted together by notch and groove alone. Alongside it stands the smaller Church of the Intercession (1764) and a bell tower, the three structures forming the Kizhi Pogost ensemble that anchors the whole island.
 
-The **Kizhi** open-air museum is situated on Kizhi Island 70 kilometers to the northeast of Petrozavodsk - the capital of Karelia.
-
-The **Kizhi** historic, cultural and natural complex is a unique historic area having no equal in the European North of [Russia](/europe/russia) reflecting the concentration of the monuments of the Russian heritage.
+Beyond the pogost, an open-air museum spreads across the island with farmhouses, windmills, chapels, and granaries relocated from across Karelia. The island is quiet, the lake enormous, and on a clear day the light on the water makes the whole place feel genuinely remote.

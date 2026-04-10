@@ -1,8 +1,10 @@
 ---
-title: "Tuba City"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.123307
 longitude: -111.242188
+title: Tuba City
+type: location
 ---
 
 Travel Guide

@@ -1,17 +1,14 @@
 ---
-title: "Cumbria"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 54.6144
+longitude: -2.9421
+title: Cumbria
 type: location
-latitude: 54.614314
-longitude: -2.94209
 ---
 
-Travel Guide
+Cumbria is England's most north-westerly county and home to the Lake District, a compact landscape of mountains, lakes, and stone-walled valleys that has drawn walkers, poets, and painters for centuries. The fells — as the mountains are known locally — include Scafell Pike, England's highest point, and the lakes themselves range from the busy shores of Windermere to the quiet isolation of Wastwater.
 
-Cumbria is England's most north westerly county and is easily its most beautiful with the world famous Lake District at its heart. The county, the second largest in England, contains the highest mountains [known locally as "fells"] and the biggest lakes in the country. The tourist meccas of Bowness-on-Windermere, Keswick and Ambleside attract most visitors but there are many pretty villages set in the valleys further afield. Brockhole is the Lake District's National Park centre on the shores of Windermere and is the ideal introduction to England's largest National Park. Walkers especially love the Lake District and footpaths are well marked with excellent maps and guides available. The area has such varied scenery with wild moorland, pretty lush valleys, sweeping views and majestic lakes all in a relatively compact region.
+The tourist towns of Bowness-on-Windermere, Keswick, and Ambleside get the crowds, but the real character of the region lies in the smaller valleys beyond — Borrowdale, Langdale, Buttermere, and Ennerdale, each with its own personality. Footpaths are well marked and maps are excellent, making this one of the best walking regions in Britain.
 
-Carlisle in the far north is the only city in Cumbria and is its administrative capital and its other main towns are around the perimeter - Barrow, Workington, Kendal for example. On the west coast is the controversial industrial plant of Sellafield where nuclear waste is reprocessed in a site employing thousands of workers. However, tourism and agriculture remain at the centre of the county's employment base.
-
-Food and drink, along with varied accommodation, are plentiful and varied. You can have 5 star hotels, prize winning local beers, top class restaurants and delicacies such as Cumberland Sausage and Sticky Toffee Pudding.
-
-More information on
-*Cumbria Travel*
+Carlisle in the far north is Cumbria's only city and its administrative capital. The western coast is quieter and less visited, running from Barrow-in-Furness up through Whitehaven and Workington. Food and drink are a real strength — Cumberland sausage, sticky toffee pudding, and a thriving local beer scene.

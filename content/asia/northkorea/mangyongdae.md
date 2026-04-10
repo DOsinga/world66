@@ -1,8 +1,10 @@
 ---
-title: "Mangyongdae"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.0108
-longitude: 125.6540
+longitude: 125.654
+title: Mangyongdae
+type: location
 ---
 
 Mangyongdae is a suburb west of Pyongyang, on the banks of the Taedong River, known as the birthplace of Kim Il-sung. The site has been maintained as a shrine: a simple thatched farmhouse where the founding leader was born in 1912, surrounded by trees and kept immaculately. Visitors are expected to bow.

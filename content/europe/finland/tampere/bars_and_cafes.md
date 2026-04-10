@@ -3,8 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Here are a few suggested bars.
-
-### Semafori
-
-Located at the train station and sells beer for 2.5€,among the cheapest in Tampere
+Tampere's bar scene is relaxed and unpretentious, spread between the city centre and the converted factory buildings along the rapids. Prices are high by European standards — this is Finland — but cheaper than Helsinki.

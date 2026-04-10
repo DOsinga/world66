@@ -1,11 +1,9 @@
 ---
-title: "Day Trips in Santa Barbara"
+title: "Day Trips"
 type: section
 ---
 
-**Exciting Santa Barbara Day Trip: Santa Ynez Valley **
-
-People planning their **Santa Barbara day trips** should consider exploring the natural beauty of the Santa Ynez Valley. This valley is located along Highway 101 and is easily accessible. Visitors can hire a cab or rent a car and drive to Santa Ynez. The connecting roadways are ideal for driving, and the distance can be covered in less than 40 minutes. Santa Ynez Valley is located along the outer edge of the Santa Barbara County. It is sandwiched between the San Rafael Mountains and the Santa Ynez Mountains and intersected by the Santa Ynez River.
+The Santa Ynez Valley, less than 40 minutes north via Highway 101, is the main day-trip destination from Santa Barbara — a wine-producing region set between the San Rafael and Santa Ynez Mountains. This valley is located along Highway 101 and is easily accessible. Visitors can hire a cab or rent a car and drive to Santa Ynez. The connecting roadways are ideal for driving, and the distance can be covered in less than 40 minutes. Santa Ynez Valley is located along the outer edge of the Santa Barbara County. It is sandwiched between the San Rafael Mountains and the Santa Ynez Mountains and intersected by the Santa Ynez River.
 
 #### **Exploring Vineyards**
 

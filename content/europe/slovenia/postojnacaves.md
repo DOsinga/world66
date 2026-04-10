@@ -1,8 +1,14 @@
 ---
-title: "Postojna caves"
+title: "Postojna Caves"
 type: location
+latitude: 45.7828
+longitude: 14.2043
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Postojna's caves are about 4 million years old and are home to the Proteus anguineus - a sort of blind salamander which can only live in cave like conditions. A small train takes you 2 km down to the starting point of the tours. What you will see there is hard to desrcibe but we can assure you that Postojna has one of the most impressive cave systems in the world.
+Postojna is home to one of the most impressive cave systems in the world — 24 kilometres of passages, galleries, and halls carved out over millions of years by the Pivka River. A small electric train takes you two kilometres into the mountain to the start of the walking tour, which passes through vast chambers filled with stalactites, stalagmites, and formations that look like they belong on another planet.
 
- Postojna is on the main route south from [Ljubljana](/europe/slovenia/ljubljana) and can be seen as a daytrip or on your way to the beaches of the Adriatic.
+The caves are also home to the *Proteus anguinus*, a blind cave salamander known locally as the "human fish" for its pale, skin-like appearance. It can live for over a century and is one of the most remarkable creatures in European zoology. You can see them in an aquarium near the cave entrance.
+
+Postojna sits on the main route south from [Ljubljana](/europe/slovenia/ljubljana) — about an hour by bus — and makes an easy day trip or a stop on the way to the Adriatic coast. Predjama Castle, a dramatic fortress built into a cliff face, is only nine kilometres away and usually visited on the same trip.

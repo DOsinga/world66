@@ -1,6 +1,7 @@
 ---
 title: "Che Kung Temple"
 type: poi
+category: Sight
 latitude: 22.3748
 longitude: 114.1862
 ---

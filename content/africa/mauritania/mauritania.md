@@ -1,14 +1,15 @@
 ---
-title: Mauritania
-type: location
-latitude: 20.254
-longitude: -10.9408
-image: mauritania.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Border-Senegal-from-Mauretania.JPG
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Finn-DE" title="User:Finn-DE">Finn-DE</a>
 done:
   country_cleanup: 2026-03-31
+  location_cleanup: '2026-04-08'
+image: mauritania.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Finn-DE" title="User:Finn-DE">Finn-DE</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Border-Senegal-from-Mauretania.JPG
+latitude: 20.254
+longitude: -10.9408
+title: Mauritania
+type: location
 ---
 
 Mauritania is one of those countries that still rewards the genuinely curious traveller. Most of it is Sahara — vast, empty, and strikingly beautiful. The northwest is dominated by the Adrar plateau and its ancient desert towns, now UNESCO World Heritage sites. The Atlantic coast offers remarkable wildlife. The southeast holds the ruins of an empire most people have never heard of.

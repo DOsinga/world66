@@ -1,17 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-What to do when here? Scuba Diving!here is company that is on
-the island and offeres scuba diving tours in Los Roques http://www.ecobuzos.com/english/index.htm
+Beyond the beaches, Margarita has a few worthwhile diversions. Boat trips through the mangrove channels of Laguna de la Restinga are a highlight -- the national park sits on the sandbar connecting the island's two halves. Kitesurfing and windsurfing at El Yaque attract serious riders from around the world. The island also has decent scuba diving and snorkelling, particularly around the offshore islands.
 
-Hiking, tons of Beaches, wind surfing, La Restinga National Lagoon
-park with a boat tour, Parque El Agua water Park, Jeep Tours, Island
-Tours, Horseback Riding, Coche Island Snorkeling, Air Tours to Angel
-Falls and more.
-
-This may not be the cheapest vacation but imagine yourself on a island for a week and without it costing an arm and a leg!
-
-**Contributors**
-June 16, 2005
+For something different, the colonial towns of La Asuncion and Pampatar are worth exploring on foot, and the mountainous interior of the Macanao peninsula offers hiking with views over empty coastline.

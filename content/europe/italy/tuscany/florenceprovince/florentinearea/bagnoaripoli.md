@@ -1,16 +1,14 @@
 ---
-title: "Bagno a Ripoli"
+title: Bagno a Ripoli
 type: location
-latitude: 43.752172
-longitude: 11.319995
+latitude: 43.7522
+longitude: 11.32
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The council territory of Bagno a Ripoli of today only corrisponds in part to the historically famous mediaeval League of the Florentine countryside whose name it bears.
- 
- 
- Parish Church of S.Maria dell'Antella 
- The Leagues were associations of parishes and their subsidiary churches;the League of Bagno a Ripoli included the parish territories of Santa Maria at Antella and San Donnino at Villamagna, almost all of San Pietro a Ripoli and some parts of the parish of San Giovanni a Remole.
- The parish of Antella stretched as far as San Donato in Collina, a village that stood on the important mediaeval road that linked Florence with Arezzo and thence with Rome.
- The parish of Ripoli was situated along the right bank of the Arno, whose crossing was guaranteed by the ancient roads in the area.
- We should remember that the parishes formed important ecclesiastic districts in the Middle Ages and, at the same time, represented the one of the basic structures in the civil organization, often carrying out administrative, and therefore ÒlayÓ, functions. For example every "parish" had to see to the upkeep of the roads in its area while, in times of war, the parishioners were also expected to contribute towards its costs.
- There were as many as thirty-six parishes in Bagno a Ripoli at the beginning of the modern era.
+Bagno a Ripoli is a quiet municipality on the southeastern edge of [Florence](/europe/italy/tuscany/florence), spread across gentle hills covered in olive groves and vineyards. It sits along the right bank of the Arno, just five kilometres from the city centre, making it an easy escape from the crowds.
+
+The area has deep medieval roots. It was once the centre of one of the Florentine countryside's historic Leagues — associations of parishes that served as both ecclesiastical and civil districts. The League of Bagno a Ripoli encompassed dozens of parishes, including Santa Maria at Antella and San Donnino at Villamagna, and the old parish of Antella once sat on the important road linking Florence with Arezzo and Rome.
+
+Today the municipality is a patchwork of small villages — Antella, Grassina, Ponte a Niccheri — set among terraced hillsides where Chianti DOCG and extra-virgin olive oil are still produced on small family farms. The landscape is classic Florentine countryside, with Renaissance villas, Romanesque churches, and cypress-lined lanes.

@@ -1,5 +1,5 @@
 ---
-title: "When to Go in Sestri Levante"
+title: When to Go
 type: section
 ---
 

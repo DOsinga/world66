@@ -1,8 +1,10 @@
 ---
-title: "Jurmala"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 56.972716
 longitude: 23.788698
+title: Jurmala
+type: location
 ---
 
 Jurmala is a long, low beach resort strung out along the Gulf of Riga, about 25 kilometres west of the capital. It's been a summer destination for city dwellers since the mid-19th century, when Russian aristocrats and later Soviet-era workers came here to take the sea air. The result is an eclectic stock of wooden villas — many in ornate Jugendstil style — scattered among pine forests behind a wide sandy beach.

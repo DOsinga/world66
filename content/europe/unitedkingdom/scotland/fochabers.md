@@ -1,10 +1,12 @@
 ---
-title: "Fochabers"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 57.6141
 longitude: -3.097447
+title: Fochabers
+type: location
 ---
 
-Travel Guide
+Fochabers is a neat village on the main road between Aberdeen and Inverness, standing beside the River Spey — one of Scotland's premier salmon rivers. The village was planned and laid out by the Duke of Gordon in the late 18th century when the original settlement was moved to make way for the expansion of Gordon Castle, which still stands on the edge of the village.
 
-On the main through fare between Aberdeen and Inverness is Fochabers and what a wonderful place. Home to the maker of world class haggis, the village stands aside the Spey river which boasts some of the best salmon fishing in Scotland. Baxters the purveyor of some of Scotland's finest foods was founded here and today still has a large factory here with a very large visitors centre which includes a replica of their first shop. On the main street there is a fantastic folk museum with literally thousands of exhibits. The Gordon's founded the village and Gordon Castle proudly stands on the outskirts of the village. Christies garden centre on the east end of the village is one of the finest in the area. A walk around the lake in the castle grounds is relaxing. Milnes Institute is probably the finest school building architecturaly speaking in the whole of Scotland and what a picture it makes at night - absolutely amazing!
+Fochabers is home to Baxters, the Scottish food company founded here in 1868. Their visitor centre on the edge of town includes a replica of the original shop. On the high street, the Fochabers Folk Museum packs in thousands of exhibits on local life. Christie's Garden Centre on the eastern end of the village is one of the largest in the region. A walk around the lake in the castle grounds makes for a pleasant hour.

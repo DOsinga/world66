@@ -3,7 +3,7 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Beirut's bar and cafe scene is one of the best in the Middle East, ranging from traditional Arabic coffeehouses to sleek cocktail lounges.
+Beirut's bar and cafe scene is one of the best in the Middle East, ranging from traditional Arabic coffeehouses to sleek cocktail lounges. The nightlife is legendary — clubs don't get going until midnight and run until dawn. B018, in a bunker-like structure in Karantina whose roof opens to reveal the night sky, is Beirut's most famous club. Music Hall downtown mixes live Arabic music, cabaret and dance. Grand Factory hosts large-scale electronic and house events.
 
 **Gemmayzeh and Mar Mikhael** are the main bar districts. Gouraud Street in Gemmayzeh is lined with bars and cafes in restored Ottoman-era buildings. Mar Mikhael, the next neighbourhood east, has a more alternative, artsy vibe with rooftop bars and craft cocktail spots. Both areas were damaged in the 2020 explosion but have largely bounced back.
 

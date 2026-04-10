@@ -1,29 +1,14 @@
 ---
-title: "Altay Prefecture"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 47.100178
 longitude: 88.434175
+title: Altay Prefecture
+type: location
 ---
 
-Travel Guide
+Altay Prefecture is the northernmost part of Xinjiang, pushing up against the borders of Kazakhstan, Russia, and Mongolia. It is remote, sparsely populated, and spectacularly beautiful — a landscape of alpine meadows, conifer forests, and glacier-fed rivers that feels more like Switzerland or Siberia than the deserts most people associate with Xinjiang.
 
-Altay Prefecture lies in the northernmost part of the Xinjiang Uygur
-Autonomous Region, bordering on Kazakhstan, Russia, and Mongolia. The
-prefecture has four trading ports and nine roads, and the Ertix River
-runs through the prefecture.
+The Kanas Lake area in the Altay Mountains is the main draw. Kanas Lake is a long, deep glacier lake surrounded by peaks and forest, home to endemic species and a Tuvan community who have lived here for centuries. The lake area is a national nature reserve and one of the most scenic corners of China. The Ertix River — the only river in China that flows toward the Arctic Ocean — runs through the prefecture.
 
-Altay Mountain has been a producer of gold since ancient times,
-and 84 other ferrous and non-ferrous minerals have been found in Altay
-Prefecture. There are 56 rivers, large and small, that join to become
-the Ertix. The landscape around Hanas Lake can match that of
-Switzerland, and the lake area is now a national nature reserve.
-
-Altay Prefecture is also known for its cultural relics.
-Pictures on the rock faces, color paintings on the walls of the caves,
-and carved figures form an art gallery in the six counties and one city
-under the jurisdiction of the prefecture.
-
-Fuyun County, the first stop on National Highway 216 in Altay
-Prefecture, is the No. 1 gold producer in China. The county is also
-famous near and far for non-ferrous metals, some of them rare, and
-abundant gemstones.
+Fuyun County, the first major stop on National Highway 216 heading north, is one of China's leading gold-producing areas and was the site of a famous Soviet–Chinese geological survey. Rock art scattered across the prefecture records the region's long history of nomadic occupation. This is genuinely off-the-beaten-track China, and the journey here is part of the experience.

@@ -1,21 +1,11 @@
 ---
 title: "Haeundae Beach"
 type: poi
+category: "Sight"
 latitude: 35.157781
 longitude: 129.158132
 ---
 
-One of the most popular beaches in Korea.
+Korea's most visited beach — a wide strip of white sand backed by a busy promenade and a skyline of hotels. In summer it gets seriously packed; the water is warm and there are beach volleyball courts, a folk festival area, and a constant stream of street food. Come at dawn in any season for the sunrise over the sea, which draws crowds of its own.
 
-Also a great place to visit first to assist with facilitating your trip around Pusan and surrounds. The Tourist Information Centre here is staffed by people with perfect English. In addition they can supply instructions for each tourist site in Korean *and *a choice of languages. Very valuable in assisting successfully completing excursions.
-
-While at the beach there is an aquarium and a number of restruants providing food styles around the world.
-
-This location is well serviced by buses and the subway.
-
-**Contributors**
-March 12, 2008
-
-January 06, 2005
-
-January 07, 2005
+The nearby Tourist Information Centre is unusually well-staffed, with English speakers and printed guides for most of the city's attractions. The COEX Aquarium is a short walk from the beachfront.

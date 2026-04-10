@@ -1,14 +1,14 @@
 ---
-title: "Ciudad Perdida"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 11.037855
 longitude: -73.925775
+title: Ciudad Perdida
+type: location
 ---
 
-Tayrona National Park is just east of the old town of [Santa marta](/southamerica/colombia/santamarta) and can be visited form there. The park has great beaches, is wonderful for bird enthusiasts and has one of the most unexpected treasures of Colombia: the Ciudad Perdida, the Machu Picchu of the Tayrona people. 
+Ciudad Perdida (the "Lost City") is a ruined settlement deep in the Sierra Nevada de Santa Marta, built by the Tairona people around 800 AD — some 650 years before Machu Picchu. It was abandoned during the Spanish conquest and not rediscovered until 1972, when tomb raiders stumbled upon its terraces in the jungle.
 
+Reaching it requires a four-to-six-day guided trek through dense tropical forest from the trailhead near Machete Pelao, southeast of [Santa Marta](/southamerica/colombia/santamarta). The trail climbs through river crossings, indigenous Kogui and Wiwa communities, and increasingly thick jungle before the final ascent up 1,200 stone steps to the terraced city at around 1,300 metres. It is one of Colombia's most rewarding and physically demanding adventures.
 
-
-Different ruins within the park can be reached up a steep path of loose rocks. 
-
-The paths were designed so the Tayrona Indians could hear visitors approaching (this journey takes a full day and is quite difficult—you must crawl through hand-carved tunnels and over large boulders). Robberies have occurred along the trails so ask at the gate for the latest security information. To visit the actual city, the Ciudad Perdida, you either need to go on a five day trek, or hire a heli. It will be an experience you will never forget.
+All treks must be done with a licensed operator — independent visits are not permitted. The trail was reopened after years of security concerns and is now considered safe, though the hike itself is challenging in the heat and humidity.

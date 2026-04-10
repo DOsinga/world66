@@ -1,10 +1,12 @@
 ---
-title: "Reading"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 43.491
+longitude: -72.596
+title: Reading
 type: location
-latitude: 40.335345
-longitude: -75.927949
 ---
 
-Hardly a city, Reading sports a population of about 700.
+Reading is a small Vermont town with a population of around 700, situated in the eastern central part of the state on Route 106 between Woodstock and Springfield. It is quiet and agricultural, with the unhurried feel of rural southern Vermont.
 
-Located halfway between Woodstock and Springfield on Route 106 in the eastern central portion of the state, Reading is the site of the Jenne Farm, one of New England's (and probably the country's) most photographed spots. I'm not big into farms, but it IS pretty...
+The main point of interest is the **Jenne Farm**, which sits on a hillside outside town and is said to be among the most photographed farms in New England. The classic red barns set against rolling hills and autumn foliage draw photographers and painters, particularly in October.

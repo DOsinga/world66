@@ -1,8 +1,10 @@
 ---
-title: "Apolonia"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.723362
 longitude: 19.471828
+title: Apolonia
+type: location
 ---
 
 Apollonia (Apolonia) is one of the most important Greek archaeological sites in Albania, set on a gentle hill with views over the coastal plain near Fier. Founded in the 7th century BC by Greek colonists from Corinth and Corcyra, it grew into a prosperous city and centre of learning — the Roman emperor Augustus sent his nephew Octavian (later Augustus Caesar) to study here.

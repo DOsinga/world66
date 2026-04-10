@@ -1,22 +1,14 @@
 ---
-title: "Carpathian Mountains"
+title: Carpathian Mountains
 type: location
+latitude: 48.25
+longitude: 24.5
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+The Ukrainian Carpathians form the easternmost arc of the Carpathian mountain range, running through the western oblasts of Lviv, Ivano-Frankivsk, Zakarpattia, and Chernivtsi. They are lower and gentler than the Alps — the highest peak, Mount Hoverla, reaches only 2,061 metres — but they are beautifully forested, sparsely populated, and refreshingly untouched by mass tourism.
 
-The Ukrainian Carpathian Mountains (Karpaty) are part of Central European mountain system, forming a semicircle through Slovakia–Poland–Ukraine–Moldova–Romania.
-This region is very popular tourist destination.
+The landscape is a mix of beech and coniferous forests, alpine meadows (*polonyny*), fast-flowing rivers, and scattered Hutsul villages where traditional wooden architecture and folk culture survive. The Hutsul people, the mountain-dwelling Ukrainians of this region, maintain distinct traditions in music, woodcarving, embroidery, and cuisine. Mineral springs are abundant, and several small spa resorts dot the valleys.
 
-**Landscape.** The Ukrainian Carpathians are typical mountains of medium height with rock of low resistance. Gentle, broad, and little-dissected ridges and parallel valleys contrast with the deeply incised (up to 1,000 m) transverse valleys
-with steep slopes that are the result of the relief's rejuvenation.
-Only the highest parts of the Carpathians—mainly the Hutsul Alps and Chornohora—display a high-mountain landscape owing to past glaciation. Rock fields appear only here and, more markedly, in the Corgany Mountains, but even the highest peaks of the Carpathians are covered with clays and continuous vegetation.
-
-**Rivers.** The Carpathians are rich in rivers. The Dniester River with its numerous tributaries, the tributaries of the Danube River, including the Tysa River with its tributaries, the Prut River, and others all originate in the mountains. The rivers are fed mostly by snow and rain. Flash floods are common in the spring and summer.
-
-Because of the abundance of mineral springs, a healthy climate, and
-natural beauty, the Carpathians are the main resort and recreation area
-in Ukraine after the Crimea. Various mineral springs—carbonic acid,
-salt, iodine salt, bitter, and petroleum—occur.
-
-* Part of this text stems from the original article at Encyclopedia of Ukraine ( www.encyclopediaofukraine.com) *
+[Vorokhta](/europe/ukraine/carpathian_mountai/vorokhta) is a popular base for hiking Mount Hoverla. The mountains offer skiing in winter (basic by Alpine standards but improving), and the countryside is idyllic for walking in summer and autumn. Getting around is easiest by bus or minibus — local trains exist but are slow.

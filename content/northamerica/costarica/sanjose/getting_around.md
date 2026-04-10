@@ -1,12 +1,6 @@
 ---
-title: "Getting around"
+title: Getting Around
 type: section
 ---
 
-**Points of Interest**
-
-**By plane**
-
-Another option to travel faster through Costa Rica is to use the domestic flights or the charter flights. Most flights leave from San Jose. Two domestic airlines offer daily scheduled flights, each one flying to 15 destinations in small propeller aircrafts.
-
-Important Notes: The maximum baggag [more..](/northamerica/costarica/sanjose/gettingaround/byplane)
+San José is compact enough to walk between most central attractions. The city centre grid is straightforward but pavement quality is uneven. Taxis are abundant, metered (by law), and cheap by western standards — the red cabs with a yellow triangle are the official ones. Ride-sharing apps (Uber, InDriver) also operate widely. Local buses cover the metropolitan area and surrounding towns extensively; routes are posted on the front of the bus. Renting a car is useful for day trips but not recommended inside the city itself.

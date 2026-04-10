@@ -1,8 +1,12 @@
 ---
-title: "Portsmouth"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 38.7318
+longitude: -82.9977
+title: Portsmouth
 type: location
-latitude: 36.832008
-longitude: -76.297699
 ---
 
-There is definately nothing to do in Portsmouth, Ohio. I here it used to be pretty cool back in the day, but now there is nothing left but once crowded and now very empty streets, floodwalls, and people who have nothing better to do than eat and go to Wal-Mart. This is the life. You'll also find some way cool college kids around, because Portsmouth is home to Shawnee State University. You also can't forget that fact that Portsmouth was also once home to Roy Rogers! In conclusion, Portsmouth is definately the place to be.
+Portsmouth sits at the confluence of the Scioto and Ohio rivers in southern [Ohio](/northamerica/unitedstates/ohio), a former industrial town that wears its history on its floodwalls — literally. The Portsmouth Floodwall Murals, a series of more than 50 panels stretching along the riverfront, depict the city's history from the Shawnee era through the steel and shoe-making boom years.
+
+The town is also the southern terminus of the Ohio and Erie Canal trail and home to Shawnee State University, which sits on the edge of the Shawnee State Forest — the largest contiguous forest in Ohio, sometimes called the "Little Smokies" for its rugged, hilly terrain.

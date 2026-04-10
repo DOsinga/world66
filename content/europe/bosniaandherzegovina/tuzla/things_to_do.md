@@ -1,12 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Visit Tuzla lake Panonnica
-
-The only salt lake in europe. Many tourists come to Tuzla just because of that lake. Don't miss...
-
-### Panonnica Lake
-
-Just see this in center of Tuzla City
+Tuzla's salt lakes are the headline, but the city has a compact old town worth exploring on foot, with Ottoman mosques, the Salt Square open-air museum, and a lively cafe culture along the pedestrian streets.

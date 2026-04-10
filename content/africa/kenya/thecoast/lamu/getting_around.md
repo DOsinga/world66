@@ -3,4 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-There is no beach at Lamu town, so you need to take a dhow to Shela Beach on the other side of the island. There are many dhow “taxis” that take tourists around to different beaches, islands, or day trips. Prices are very negotiable. Walking (or riding a donkey) is the only way to get around Lamu town. Like most old Swahili towns, Lamu is a maze which is difficult to navigate. Don’t worry, though, Lamu town is quite safe.
+Lamu town has no cars — the streets are too narrow. You walk, or if you prefer, ride a donkey. The town is a maze of alleyways that can be disorienting at first, but it is small and safe, and getting lost is part of the experience. Dhow "taxis" are the main transport between beaches and islands — prices are very negotiable.

@@ -1,8 +1,10 @@
 ---
-title: "Museum"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 49.1683
+longitude: -122.5774
+title: Museum
 type: location
-latitude: 49.168300
-longitude: -122.577400
 ---
 
 Come and explore Langley's colourful history.

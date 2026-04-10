@@ -1,16 +1,14 @@
 ---
-title: "Hermosillo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 29.094821
 longitude: -110.96922
+title: Hermosillo
+type: location
 ---
 
-Hermosillo, the capital of the State of Sonora, is located 246 miles south of the border with the USA. It was founded in 1700, alongside the Sonora River, as *Santísima Trinidad del Pitic* . In 1828 it is named in honor of General José Maria Gonzáles Hermosillo, who fought in the Independence war against the Spaniards. In 1879 it is declared capital of the state.
+Hermosillo is the capital of Sonora, a prosperous northern state that feels as much influenced by the American Southwest as by central Mexico. Set in the low desert at about 215 metres above sea level, it is a practical, fast-moving city of around 900,000 people — the industrial and commercial hub of a region known for cattle ranching, wheat farming, car manufacturing, and some of the best beef in Mexico.
 
-A modern urbanization and buildings from last century gives Hermosillo a special touch. Among the most important are the Government Palace in front of Plaza Zaragoza alongside the Asunción cathedral. It's also interesting to visit Carmen and Espiritu Santo churches, the University museum, the Casa de Cultura and the Popular Arts Museum .
+The historic centre holds its own. Plaza Zaragoza anchors downtown, flanked by the neoclassical Government Palace and the Cathedral of the Assumption, with its distinctive twin towers visible from much of the city. Nearby, the Carmen and Espíritu Santo churches are worth a look, and the Regional History Museum — housed in the old city jail — gives context to the long Yaqui and Seri indigenous presence in the region. The Casa de Cultura and the Popular Arts Museum both show the crafts and traditions that persist across Sonora.
 
-We also suggest you to visit La Sauceda Park, the Ecological Center and the Sonora Museum located at the old city jail.
-
-35 miles south of Hermosillo you will find La Pintana, an ex shelter of the Seris and Pima Indians, with more than a thousand rupester paintings.
-
-Well known is the sea side resort of Bahía Kino, just 54 miles from Hermosillo. During the first months of the year whales coming from cold waters come to the Sea of Cortez to mate and have their cachalotes. The coast line of Bahía Kino offers this unique opportunity to whale watchers and photographers.
+Day trips from the city are the real reward. Bahía Kino, 54 miles to the west, is a relaxed seaside town on the Sea of Cortez where you can hire a boat to reach Isla Tiburón, Mexico's largest island and a Seri biosphere reserve. During winter months, grey whales and other cetaceans move through the gulf. Southeast of the city, La Pintada shelters one of the largest concentrations of rock art in Mexico — more than 1,500 petroglyphs and pictographs left by the Seri and Pima people on canyon walls above a dry riverbed.

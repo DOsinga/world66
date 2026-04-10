@@ -1,14 +1,15 @@
 ---
-title: Vatican City
-type: location
-latitude: 41.9029
-longitude: 12.4534
-image: vaticancity.jpg
-image_source: https://commons.wikimedia.org/wiki/File:StAngelo_Bridge_Rome.jpg
-image_license: CC BY-SA 2.5
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:AngMoKio" title="User:AngMoKio">AngMoKio</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: vaticancity.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:AngMoKio" title="User:AngMoKio">AngMoKio</a>
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:StAngelo_Bridge_Rome.jpg
+latitude: 41.9029
+longitude: 12.4534
+title: Vatican City
+type: location
 ---
 
 Vatican City is the world's smallest independent state — 44 hectares enclosed within Rome, home to around 800 people and one of the most visited sites on the planet. It is the seat of the Roman Catholic Church and the residence of the Pope, and everything within its walls reflects that singular purpose: St. Peter's Basilica, the Sistine Chapel, the Vatican Museums, and the Apostolic Palace are all here, packed into a space you can walk across in fifteen minutes.

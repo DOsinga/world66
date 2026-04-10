@@ -1,8 +1,14 @@
 ---
-title: 'Karanjia - Similipal'
+done:
+  location_cleanup: '2026-04-09'
+latitude: 21.7272
+longitude: 86.1172
+title: Karanjia & Similipal
 type: location
 ---
 
-Travel Guide
+Karanjia is a small town in the Mayurbhanj district of Orissa, serving as the main gateway to Similipal National Park — one of India's largest tiger reserves, spread over 2,750 square kilometres of sal forest, grasslands, and hills.
 
-Karanjia is just about 230 Km. from Bhubaneswar and around 120 Km. from Tata. Karanjia town is in the Mayurbhanj district of Orissa and is just near the Similipal. Karanjia has number of hotels and different modes of transport to cater and visit to Similipal. Similipal Reserve forest is one of the biggest reserve forest in India spread over 2500 square kilometer which has more than one hundred royal bengal tigers and thousands of beer, elephants, deers and other wild animals. Courtesy & for visiting and assistance contact Prasanta Varma, 09818076828. To see the wild animals the best place in similipal is Chahala where, in the evening the wild animals gathered to have water etc. It has two beautiful massive water falls namely Joranda and Bareipani. One can stay inside the similipal reserve forest government cottages upon advance booking. The nearby visiting places includes sanghaghara, badaghagara, Khiching and the workshops of black granites, Bhimakund, Maa Tarini etc.
+Similipal is home to Royal Bengal tigers, elephants, gaur, deer, and a wide variety of birdlife. The best place for wildlife sightings is Chahala, where animals gather at the water holes towards evening. The park also has two spectacular waterfalls: Joranda (150 metres) and Bareipani (399 metres, one of the tallest in India). Visitors can stay in government forest rest houses inside the park, which should be booked in advance through the Similipal Tiger Reserve office.
+
+Karanjia is about 230 km from Bhubaneswar and 120 km from Jamshedpur. The town has basic hotels and transport connections. Nearby attractions include the ancient temple complex at Khiching and the hot springs at Badaghagara.

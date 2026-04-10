@@ -1,10 +1,14 @@
 ---
-title: "Malmo"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 55.605
+longitude: 13.0038
+title: Malmo
 type: location
-latitude: 55.605293
-longitude: 13.000157
 ---
 
-Malmo is a modern city in the south of Sweden. In the process of modernization, from industrial town to knowlegde trown, the town has lost most of its old charm. It is the third of Swedens towns in size and with a population of 255,000 inhabitants, has a modern and continental atmosphere. A 35 minutes short trip by train takes you to [Copenhagen](/europe/denmark/copenhagen), over the newly build Oresunds brigde (expansion brigde). The train can also take you to the boat for Bornholm or Lübeck.
+Malmo is Sweden's third-largest city and its most cosmopolitan after Stockholm. Sitting on the Oresund strait just 35 minutes by train from [Copenhagen](/europe/denmark/copenhagen), it has long been shaped by its proximity to Denmark and the continent, giving it a more relaxed, outward-looking character than you might expect from a Swedish city of 350,000 people.
 
-The major sight in Malmo is without a shadow of a doubt the Malmohus, the old citycastle which houses a series of museums. Otherwise try the Form and Design Center or the Rooseum, they have good collections of modern art. Furthermore you can find an architectural housing exhibition area (from the exhibition Bo01) on the westharbour. New ideas for living.
+The old town is compact and handsome, centred on the grand Stortorget square and the medieval lanes around St Petri Church. But Malmo's real story is reinvention. The shipyards that once dominated the western harbour have given way to the Turning Torso and a district of bold contemporary architecture, and the city has become a hub for tech startups, food culture, and design. The transformation is genuine and visible: new restaurants and cafes open constantly, the parks are immaculate, and the waterfront promenades invite long walks.
+
+Malmo is also one of Sweden's most diverse cities, with over 180 nationalities represented, which shows most clearly in its food scene. You can eat your way through the Middle East, the Balkans, and Southeast Asia without leaving the Mollevangen neighbourhood. Add excellent cycling infrastructure, easy access to beaches at Ribersborg, and [Copenhagen](/europe/denmark/copenhagen) a short train ride across the bridge, and you have a city that works both as a destination and as a base for exploring the region.

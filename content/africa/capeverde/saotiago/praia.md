@@ -1,11 +1,14 @@
 ---
-title: "Praia"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 14.916281
 longitude: -23.50951
+title: Praia
+type: location
 ---
 
-Praia is one of the most relaxed capital cities in the world. With only some 60,000 inhabitants it's not very big either.
+Praia is the capital of Cape Verde and the largest city in the archipelago — relaxed by African capital standards, with a compact old quarter (the Platô) perched on a plateau above the harbour. The colonial Portuguese architecture and the central square of Praça Alexandre Albuquerque give it more charm than most West African capitals manage.
 
+The nightlife is excellent for a city of this size. Cape Verdean music — batuque, funaná, and morna — is alive here, and live music venues are easy to find most nights of the week. The beaches in town are decent, and better ones are within a short taxi ride south.
 
- There are not a lot of actual sights you should see, but the nightlife scene is incredible and there are pretty good beaches in town and really good beaches some 10 km away.
+Getting around Santiago from Praia is easy, and the dramatic interior highlands of Serra Malagueta make for a worthwhile day trip.

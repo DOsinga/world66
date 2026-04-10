@@ -1,11 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Volunteer to teach Thai cooking and conversational Thai.**
-
-We are a family of three residing in Chiangrai, northern Thailand.
-Any travelers passing through and are keen to learn some conversational Thai, home cooking and at the same time wants to experience the inside-out of the Thai culture and lifestyle in a rice farming village but with the comfort of running water, a seating flush toilets and a furnished bedroom. To see and experience the local areas can be done at cost but share out the food cost.
-
-[PM me of your interest.](/asia/thailand/chiangrai/accommodation/soms_house)
+The White Temple (Wat Rong Khun) is the essential sight in the Chiang Rai area — 10km south of the city and best visited early to beat the tour buses. The city itself has the Blue Temple (Wat Rong Suea Ten), equally striking in blue and gold but far less visited, and Wat Phra Kaeo, where the Emerald Buddha now in Bangkok was discovered in the 15th century. Trekking to hill tribe villages and river trips on the Kok River are popular activities from Chiang Rai.

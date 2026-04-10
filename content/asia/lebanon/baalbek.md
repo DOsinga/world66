@@ -1,8 +1,10 @@
 ---
-title: "Baalbek"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.007887
 longitude: 36.211811
+title: Baalbek
+type: location
 ---
 
 Baalbek in the northern Bekaa Valley is one of the world's oldest cities and home to the most impressive classical ruins in Lebanon -- and arguably the most important Roman site in the Middle East.

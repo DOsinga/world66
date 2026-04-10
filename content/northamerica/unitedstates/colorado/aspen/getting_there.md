@@ -1,19 +1,10 @@
 ---
-title: "Getting There in Aspen"
+title: "Getting There"
 type: section
-type: "By Air"
 ---
 
-Driving time from the Denver airport by rental car is approximately 4
-hours west on Interstate 70 to Hwy 82. The scenic drive is spectacular,
-but can have heavy traffic and icy conditions in the winter. In summer
-months only, Independence pass is a paved alternative which cuts off
-some time. It is spectacular, but do not take if you are in a hurry and
-you do not like steep, winding, narrow roads.
+Aspen is tucked deep in the Colorado Rockies, so getting there takes some effort regardless of how you travel. The reward is the spectacular mountain scenery along the way.
 
-### [By Plane from Denver](/northamerica/unitedstates/colorado/aspen/gettingthere/skern)
+The drive from Denver International Airport takes about four hours west on Interstate 70, then south on Highway 82. The route is beautiful but can have heavy traffic and icy conditions in winter. In summer, Independence Pass offers a paved shortcut, though it is steep, winding, and narrow -- not for the faint-hearted or the impatient.
 
-There are regular 40 minute flights to Aspen from Denver. Weather
-is a problem in winter and expect delays at the Denver airport.
-
-type: By Air
+There are regular 40-minute flights to Aspen-Pitkin County Airport from Denver. Winter weather frequently causes delays, so build some flexibility into your schedule if flying in during ski season.

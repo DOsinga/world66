@@ -1,24 +1,14 @@
 ---
 title: "Las Palmas"
 type: location
-latitude: 28.128869
-longitude: -15.434902
+latitude: 28.1289
+longitude: -15.4349
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The capitol of the island, located on the north-west shore. Not many tourists find their way here from the south side, but it is well worth the bus trip.
+Las Palmas de Gran Canaria is the capital and largest city of the Canary Islands, situated on the northeastern tip of Gran Canaria. It tends to be overlooked by visitors who head straight for the resorts in the sunny south of the island — which is their loss. Las Palmas is a proper Spanish city with a life of its own: busy streets, real bars, good food, and a beach that's considerably more pleasant than anything in the tourist belt.
 
-Little english is spoken, but the people are friendly.
+The Playa de Las Canteras, a 3-km urban beach protected by a natural reef, is one of the best city beaches in Europe. The water is calm, the promenade is lined with restaurants and cafes, and there are enough watersports on offer to fill several days. The old quarter, Vegueta, is the historic centre of the city — the Cathedral, the Christopher Columbus House Museum (where he stopped to repair the Pinta on his first voyage to the Americas), and the Canary Islands Museum are all here.
 
-Las Palmas is definitely worth taking a day or two out of your holiday to visit, even if you don’t speak a word of Spanish. The City is teeming with life both day and night. During the day you can visit the Spanish Colonial Museum . Visit the numerous department stores such as El Corte Ingles, or just idle the day away on las Canteras beach.
-
-There are numerous Tapas bars where you can eat and mix with the locals and experience true Canarian cuisine. Also it is worth noting that as it is not dominated by tourists prices of food and drink are up to 50% less than in the South of the Island.
-
-You can have a set 3 course lunch in a quality restaurant with wine and coffee for 7 Euros a head. Try doing that in **Playa del Ingles. **
-
-At night there are numerous bars, restaurants and night clubs to choose from. A must see is Plaza Santa Catalina where you can idle away the evening in one of the open air restaurants.
-
-If you are organising your own holiday you will be well rewarded if you include a couple of nights in Las Palmas in one of it’s numerous hotels before moving on to the South for the usual tourist diet of Sun Sea and Sangria.
-
-Write up by [thefemsta](/world/member/thefemsta) on 27 March 05
-
-Minor corrections by [thefemsta](/world/member/thefemsta) on 27 March 05
+Prices for food and drink are noticeably lower than in the south of the island. A three-course set lunch at a proper Spanish restaurant can cost under €10. The shopping district around Avenida Mesa y López offers department stores including El Corte Inglés alongside independent shops.

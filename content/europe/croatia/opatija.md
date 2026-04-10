@@ -1,18 +1,16 @@
 ---
-title: "Opatija"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 45.3369
+longitude: 14.3053
+title: Opatija
 type: location
-latitude: 45.334924
-longitude: 14.306783
 ---
 
-Opatija is one of the main resorts on what is called the Opatija Riviera a 25 km long coastal strip along the eastern coast of Istria, at the foot of Ucka (1396 m).
+Opatija is Croatia's grandest old resort town, draped across a hillside above the Kvarner Gulf and still wearing its Austro-Hungarian finery with considerable pride. Where Dubrovnik has medieval walls and Split has a Roman palace, Opatija has Belle Epoque villas, formal gardens, and a promenade that once drew emperors and composers. Franz Joseph I, Kaiser Wilhelm II, Gustav Mahler, and Anton Chekhov all came here to take the sea air. The style they came for survives remarkably intact.
 
+The town sits at the northern end of the Opatija Riviera, a 25 km strip of coast backed by the steep slopes of Ucka mountain (1,396 m), which shelters the bay from cold northerly winds. This microclimate made Opatija attractive to central European aristocracy as a winter resort from the 1840s onward — palm trees grow in the parks, and mild winters allowed the kind of promenading that was the aristocratic leisure activity of the age.
 
- Tourism here started in 1844 when Hignio Scarpa, a patrician from Rijeka built a big villa amidst the bay-tree and oak-tree vegetation. Soon the royal families and men of distinction of 19-th Century Europe followed suit: Wilhelm II, Franz Joseph I, Gustav Mahler, Isadora Duncan, A.P.Chekhov among others came over to spend the winter here. By the end of the 19th century, Opatija was the winter and the health resort of the worldly Central Europe.
+The Lungomare, a seafront promenade running 12 km south along the coast through [Icici](/europe/croatia/opatija) and [Lovran](/europe/croatia/opatija), is the town's great pleasure. Walk it in the morning and you share it with local women pushing prams and old men arguing politics. In the evening it belongs to lovers. The sea is clear enough to swim from the concrete platforms and small pebble beaches along the way.
 
-
- The main toruist attractions in the area are pittoresque Volosko, the old fishing villages Icici and Ika, Lovran with its old center and modern hotels, Meveja and Moscenicka Draga with large sandy beaches, Kraj and Brsec high above the sea, and last but not least the medieval towns on the nearby hills - Kastav, Veprinac and Moscenice.
-
-
- 
- Opatija and its Riviera have many good restaurants as well as some of the best nighlife in Croatia. Here you find many discos, clubs, nightclubs and you can even try your chance in the Casino.
+Opatija is quieter and more sedate than [Dubrovnik](/europe/croatia/dubrovnik) or [Split](/europe/croatia/split) — a place for people who want good food, a comfortable bed, and an unhurried walk rather than party bars and party boats. The restaurants are excellent by Croatian standards. The nightlife exists, with clubs, a casino, and late bars, but the dominant mood is refinement, not revelry.

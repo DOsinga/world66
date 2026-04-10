@@ -1,19 +1,12 @@
 ---
-title: "Churachandpur"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.346884
 longitude: 93.699414
+title: Churachandpur
+type: location
 ---
 
-Churanchandpur is 59 kilometer to the south of Imphal. It is the district Head Quarter of South-Manipur and an advanced tribal ( Kuki ) town where local hanicrafts are available in the market. 
+Churachandpur is a hill town about 60 kilometres south of Imphal, the district headquarters of Churachandpur district in the southern part of Manipur. It is primarily a Kuki tribal town with a predominantly Christian population — the result of American Baptist missionary activity in the late nineteenth and early twentieth centuries.
 
-
- Acco : Tourist Bunglow. Rs. 50 (D). Resv. : Deputy Director of Tourism, Govt. of Manipur, Imphal, Tel. 220802;
-
-Hotel Rajdoot, Rs. 30-80 (S), 50- 150 (D);
-
-Hotel International, Rs. 40 (S), 70 (D), 110 (T), 150 (4 Bed);
-
-Green Hotel, Rs. 20 (S), 40 (D);
-
-Hotel Eden, Rs. 25-30 per bed.
+The town is a centre for local handicrafts, and the market sells textiles and cane products made by the surrounding hill communities. The landscape around Churachandpur is hilly and forested, with the Manipur River flowing nearby. Inner Line Permits are required for foreign visitors to Manipur.

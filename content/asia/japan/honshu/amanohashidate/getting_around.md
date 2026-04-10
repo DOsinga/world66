@@ -3,7 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-While you can walk or cycle down the sand-spit of Amanohashidate, you can also take a ferry to the other end.
-
-**Contributors**
-October 25, 2005
+You can walk or cycle down the sand spit of Amanohashidate — bicycles are available for rent near the station. A ferry also crosses the bay to the other end, saving the return walk. The chairlifts at each end run regularly and offer the best elevated views.

@@ -1,8 +1,10 @@
 ---
-title: "Le Blanc"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 46.633229
 longitude: 1.06323
+title: Le Blanc
+type: location
 ---
 
 Le Blanc

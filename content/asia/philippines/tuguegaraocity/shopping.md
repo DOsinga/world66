@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Tuguegarao City"
+title: "Shopping"
 type: section
 ---
 

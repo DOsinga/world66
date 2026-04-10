@@ -1,12 +1,16 @@
 ---
-title: "Komarom"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 47.7417
+longitude: 18.1218
+title: Komarom
 type: location
-latitude: 47.741735
-longitude: 18.121826
 ---
 
-The closeness of the border and River Danube has always determined the life and the unique structure of Southern-Komarom having 20 000 inhabitants. After the Trianon peace treaty the Danube became a border river and divided the old, integrated town into Slovakian (Komarno) and Hungarian Komarom.
-The parts of the town (on the Hungarian side) are: Szony (Brigetio) which used to be a strategic centre of the ancient Pannonia province, and Koppanymonostor which is famous for its natural beauty and the Benedictine Monastery destroyed in the time of Turkish occupation. The main attraction of Komarom is the medicinal water that is rich in minerals and constitutes the basis of the bathing and medicinal complex which invites guests to recover or refresh all the year round.
+Komarom sits on the Hungarian bank of the Danube, directly across from its Slovak twin Komarno. The 1920 Treaty of Trianon split what had been a single town in two, and the border still runs along the river — a visible reminder of the region's tangled history. The Hungarian side has around 20,000 inhabitants and feels quietly proud of its layered past.
 
-The most famous sight of the town is the fortification system which is unparalleled in Europe. The parts of this system in Hungary are: Star fort (1871-1877), Igmand fort (1871-1877) and Fort Monostor (1850-1871). Despite its gigantic size this fort system is uniform regarding both the architecture and the building materials. The top level of the forts has already sunk down to the ground level so it is covered with grass and wild flowers as part of the nature.
-Other sights are: the memorial relic Roman Catholic Church in Szony (1774-1777), the one-time Gyurky country-seat (Selye Janos Hospital today), the Presbyterian Church (1787), the building of the granary (1770), the Collection of Ocean Shipping of dr. Ferenc Juba in the building of the town hall, the Klapka Gyorgy Museum (showing the frescos and finds of the ancient civic town Brigetio), the Small Gallery, the Presbyterian Church standing on the Jokai square and the Jesus Heart Roman Catholic Church.
+The town's standout attraction is its 19th-century fortification system, which is genuinely remarkable in scale. Star Fort, Igmand Fort, and Fort Monostor were all built between 1850 and 1877, and together they form one of the most complete such networks in Central Europe. The engineering is impressive: the upper levels have settled into the ground over the years, so grass and wildflowers now grow over what were once battlements. Fort Monostor can be visited and gives a real sense of the system's ambition.
+
+The older part of the town, Szony, sits on the site of Brigetio — a Roman legionary fortress and civilian town that was one of the key bases on the Pannonian frontier. The Klapka György Museum holds finds from the excavations, including mosaics and everyday objects from Roman life. Elsewhere in town you'll find the 18th-century Catholic memorial church in Szony, an 18th-century granary, and a couple of modest galleries.
+
+Komarom also has a thermal bath complex fed by mineral-rich groundwater. It's popular with locals year-round and worth a stop if you're in the area.

@@ -1,16 +1,12 @@
 ---
-title: "Kaberneeme"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 59.518844
 longitude: 25.272958
+title: Kaberneeme
+type: location
 ---
 
-Travel Guide
+Kaberneeme is a small coastal village in northern [Estonia](/europe/estonia), about 40 km east of Tallinn on the Kaberneeme peninsula. The village is known for its long, quiet beach — roughly 2 km of sand with pine forest edging right up to the shore. It is a popular summer escape for locals but rarely visited by foreign travellers.
 
-**Kaberneeme** is a small coastal village in North Estonia located 40km east from Tallinn on Kaberneeme peninsula.
-
-The beach is the biggest attraction of the village - it's 2 km long with pine tree forests edging right up to the shore.
-
-Camp trails can be found in the forest.
-**More information **about Kaberneeme can be found on the official tourist
-information website of Estonia: http://www.visitestonia.com/en/articles/destinations/the-coastline/kaberneeme
+Walking trails wind through the pine forest behind the beach. The peninsula itself juts out into the Gulf of Finland and has a pleasantly wild, end-of-the-road feel.

@@ -3,4 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-There are different ways of getting to Tabriz. If you are coming form Tehran then I recommand to fly or use the buss. Flying between Tabriz and Tehran will cost you something around 35 US dollar. To take the buss is much cheaper.  The buss will use around 8-9 hours. Flying will take 1.5 hour.  Tabriz is not so far away from the Turkish border, so it is possible to take the buss from Turkey if you come from that side.
+From Tehran, the most practical options are flying or taking the bus. Flights take about 90 minutes and cost around $35. The bus takes 8–9 hours but is considerably cheaper.
+
+Tabriz is also accessible from Turkey — buses run across the border for travellers arriving from that direction. The city's Shahid Madani International Airport handles both domestic and some international routes.

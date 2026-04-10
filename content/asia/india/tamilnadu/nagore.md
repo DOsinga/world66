@@ -1,8 +1,10 @@
 ---
-title: "Nagore"
+title: Nagore
 type: location
 latitude: 10.816698
 longitude: 79.840364
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Nagore is a small coastal town 5 km north of Nagapattinam, almost entirely defined by the **Nagore Dargah** — the shrine of Meeran Sahib (Shahul Hamid Badshah), a 16th-century Sufi saint who travelled from north India and settled here. The dargah is one of the most important Muslim pilgrimage sites in south India and draws pilgrims from across Tamil Nadu, Kerala, and Sri Lanka, including many Hindus.

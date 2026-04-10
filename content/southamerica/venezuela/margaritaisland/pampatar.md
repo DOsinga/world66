@@ -1,8 +1,10 @@
 ---
 title: "Pampatar"
 type: location
-latitude: 10.995731
-longitude: -63.805079
+latitude: 10.9957
+longitude: -63.8051
 ---
 
-Pampatar is a quaint and quite beautiful town, was founded in the 1530s and named after a Guaqueri Indian word meaning “town of salt”. Indeed, a salt flat mine is close by to this day. There is a lot of mystery and beauty to explore in this charming town, especially in the fine old colonial buildings. Spaniards settled here because of its strategic location, a deep water-calm port and wealth produced by the existence of a natural salt flat mine. Yachts, ships, and wooden boats are anchored in the quiet bay giving a picturesque contrast. Location: 10 Km east from Porlamar.
+Pampatar is a colonial town on the east coast, founded in the 1530s and named after the Guaiqueri word for "town of salt" -- a salt flat mine still operates nearby. The town is built around a deep, calm bay where fishing boats and yachts sit side by side.
+
+The Castillo de San Carlos de Borromeo dominates the waterfront, a well-preserved 17th-century fortress that saw action during the wars of independence. Behind the castle, the old town has narrow streets lined with colonial buildings, a few good restaurants, and a quieter atmosphere than nearby Porlamar. The bay itself is sheltered and waveless, good for a swim with children.

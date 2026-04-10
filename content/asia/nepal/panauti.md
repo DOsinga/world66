@@ -1,14 +1,14 @@
 ---
-title: "Panauti"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 27.580735
 longitude: 85.522857
+title: Panauti
+type: location
 ---
 
-Travel Guide
+Panauti is a small Newar town about 30 kilometres southeast of Kathmandu, reachable in under an hour by bus or taxi. It sits at the sacred confluence of the Rosi and Punyamati rivers — a third river, the Lilamati, is said to be visible only to the wise. The town once straddled two major trade routes and had its own palace, but those days are long past. What remains is a dense cluster of medieval temples, carved wooden architecture, and a pace of life that Kathmandu left behind decades ago.
 
-The ancient city Panauti located south east of the capital Kathmandu. The bus/taxi takes only 45 minute to reach there. This delightful small town (pop. 23,000) remains relatively untouched by the changes taking place elsewhere . Large and prestigious temples are the only reminders of past glories when Panauti enjoyed a prime position on two trade routes and even boasted a palace. Situated at the confluence of the Rivers Rosi and Punyamati, the town occupies a sacred site. A third river, called Lilamati, visible only to the wise, is said to flow into the others from the Gorakhnath Shrine on the hill above the town.
+The **Indreshwor Mahadev Temple** is the reason most visitors come. Originally built over a lingam in 1294, it is the oldest surviving purpose-built temple in Nepal. The triple-roofed Shiva temple was modelled on Pashupatinath and took on its present form in the 15th century. The wooden roof struts on the lower two storeys are extraordinary — slender dancing figures, carved with a precision and grace that ranks them among the finest Newar woodwork anywhere. Small erotic scenes are tucked into the carvings, in keeping with temple tradition. The upper section is hung with pots and pans, offerings from young couples hoping for a happy family life.
 
-**Indreshwor temple **
-
-The triple-roofed Shiva Temple was originally built over a lingam in 1294, making it the oldest surviving temple in Nepal. Kathmandu's Kasthamandapa is actually older, but did not start out as a shrine. The mandir - modeled on the Pashupatinath Temple - took on its present appearance in the 15th c., though the third story is of later date. The roof struts embellishing the two lower stories are acknowledged masterpieces of Nepalese wood-carving. Shiva is represented in various forms, and there are some small erotic scenes. The slender, perfectly proportioned figures, portrayed as in a dance, are extraordinarily graceful. The upper section of the temple is hung with pots and pans, offerings from young married couples hoping for a happy family life. The 1988 earthquake caused considerable damage and the building is still awaiting restoration by foreign experts.
+Panauti is walkable in half a day, and the absence of tour buses makes it a welcome contrast to the Kathmandu Valley's more famous temple towns.

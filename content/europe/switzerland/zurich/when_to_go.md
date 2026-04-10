@@ -1,14 +1,20 @@
 ---
-title: "When to Go"
+title: When to Go
 type: section
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Zurich has a continental climate with four rather distinctive seasons. The warm winds that the Atlantic Ocean provides make the city's climate even milder than some other cities at the same latitude, and the level of humidity is comfortable all year round.
+Zurich has a continental climate with four distinctive seasons. Spring runs from March to May — March can still be cold, but by April the city comes alive. Summer (June–August) brings temperatures up to the mid-30s Celsius, with Zurichers swimming in the lake and rivers, and the city's outdoor café culture in full swing. Autumn is mild and pleasant for walking; winter turns the city into a snow-covered version of itself, with the fountains frozen and icicles on the buildings.
 
-**Spring and Summer**
+**Key events:**
 
-Spring is from March to May and is characterized by warm to chilly dry wind and sun. March and early April can still be quite cold with temperatures in the 30s and 40s, but by late April and May the sun is already starting to shine and the rain dies down a bit. It is during this season that more people start to come out from their houses and enjoy a break from the cold weather of winter. From June to August summer is in the air. The average temperature is about 72, but the maximum temperatures can get up to the upper 90s! Luckily, the humidity levels aren't too high during summer, so being outside doesn't get too uncomfortable as it does in other areas of the world with higher humidity. Summer is also the season that gets the most rain. Zurich really has precipitation throughout the year, around .35 inches per month, in fact, but in the summertime is when that precipitation is most concentrated. During this hot season, everybody is outside and active, either biking, strolling through the streets, swimming in the rivers and lakes, or simply basking in the bright sun. There are tons of outdoor activities available for tourists this time of year including boating, fishing, swimming, and hiking. Exploring Zurich, it's parks, museums, and historic buildings, is also made easier and more pleasant during summer, as you don't have to deal with snow or bitter temperatures.
+**Sechseläuten** (third Monday in April) — Zurich's spring festival, centred on the parade of the city guilds in historical costume through the old town, culminating in the burning of the Böögg, a cotton snowman stuffed with fireworks. The speed at which the Böögg's head explodes is said to predict the quality of the summer.
 
-**Fall and Winter**
+**Street Parade** (early August) — One of the world's largest electronic music events, with over a million people filling the lakefront and city streets. Expect noise, crowds, and a city completely taken over.
 
-Fall, from September to November, is agreeable for the most part. Temperatures range from 30 to 70 depending on the month and the air gets a little drier than it was during summer. Still, it's a popular season, as the air is still warm, if a little crisp, and it's perfect for walking around the city. The leaves on the trees start to change color, as well. From December to February, winter turns Zurich into a wonderland of snow, with fountains frozen over, icicles hanging from every building, and fluffy snow carpeting the streets. It's beautiful, but cold, with temperatures in the 20s and low 30s. If you love the cold and want to ski, snowboard, or ice skate, visiting in winter is your best bet.
+**Knabenschiessen** (second weekend in September) — A traditional shooting competition for 12–16-year-olds, centred on a three-day fair.
+
+**Züri Fäscht** (every three years, early July) — The city's biggest popular festival, transforming the old town, the lake shore, and the Limmat into a three-day fairground.
+
+**Fasnacht** (February–March) — Zurich's carnival, with street bands, masked balls, and processions.

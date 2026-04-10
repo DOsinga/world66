@@ -1,8 +1,10 @@
 ---
-title: "Jbeil (Byblos)"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 34.120244
 longitude: 35.651858
+title: Jbeil (Byblos)
+type: location
 ---
 
 Byblos (Jbeil in Arabic) is one of the oldest continuously inhabited cities in the world, with a history stretching back over 9,000 years. Located 37 km north of [Beirut](/asia/lebanon/beirut), it has been occupied by Phoenicians, Egyptians, Assyrians, Greeks, Romans, Arabs, Crusaders and Ottomans, each leaving traces that make it one of the richest archaeological sites in the Middle East.

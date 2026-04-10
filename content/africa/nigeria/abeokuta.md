@@ -1,25 +1,14 @@
 ---
-title: "Abeokuta"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 7.161
 longitude: 3.348
+title: Abeokuta
+type: location
 ---
 
-Travel Guide
+Abeokuta, the capital of Ogun State, takes its name — "Under the Rock" — from Olumo Rock, a massive granite outcrop that rises 137 metres above the city. The rock is sacred to the Egba people, who found refuge in its caves during the inter-tribal wars of the 19th century. It stands as both a monument of faith in unity and the city's defining landmark.
 
-Abeokuta is the capital of Ogun State. The town derives its
-name (meaning "Under the Rock") from the Olumo Rock, a massive
-outcrop of granite rocks. The highest point of the Rock is 137 meters
-above sea level. The Rock is naturally surrounded by caves , one of
-which
-is about 20 feet long and 25 feet wide. Abeokuta lies in the South-West
-of Nigeria about 100 kilometres from Lagos. To the North of it, some 70
-kilometres away, is the city of Ibadan,
-the capital of Oyo State.
+Climbing Olumo Rock is the main attraction. The caves, some 20 feet long and 25 feet wide, were the hiding places of early settlers. From the top you get a sweeping view of the city and the surrounding countryside. The rock has been developed with walkways and a small museum, making it accessible for visitors.
 
-The Rock is sacred to the Egba of Abeokuta because it was the place where they
-found refuge from their attackers in the days of internecine wars. To
-them, Olumo Rock stands not only as a monument of faith in unity but also as a
-source of strength and unfailing protection and sustenance from the Supreme
-Being who led their ancestors through the complexities of life safely to
-Abeokuta.
+Abeokuta lies about 100 kilometres north of [Lagos](/africa/nigeria/lagos) and 70 kilometres south of [Ibadan](/africa/nigeria/ibadan), making it an easy day trip from either. The city has a rich tradition of adire (tie-dye) cloth production, and the adire market near Itoku is one of the best places in Nigeria to see the craft and buy fabrics. The old quarter around the Ake palace of the Alake of Egbaland is worth a wander.

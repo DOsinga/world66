@@ -1,14 +1,18 @@
 ---
-title: "Yokohama"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.4503
+longitude: 139.6344
+title: Yokohama
 type: location
-latitude: 35.450338
-longitude: 139.63438
 ---
 
-Only 32 kilometer from [Tokyo](/asia/japan/tokyo) Yokohama is the second city of Japan. It's a great, cosmopolitan city and absolutley deserves a visit.
+Only 32 kilometres from [Tokyo](/asia/japan/tokyo), Yokohama is Japan's second-largest city and one of its most cosmopolitan. It was here that Commodore Matthew Perry landed with his Black Ships in 1854 to force Japan to open to foreign trade, and the city has had an international character ever since — growing rapidly into one of Asia's major ports.
 
+Most of the sights cluster around the waterfront. **Minato Mirai** is the futuristic centrepiece: a cluster of towers, shopping complexes, a maritime museum, and the landmark Ferris wheel. The Yokohama Museum of Art is excellent. Nearby, the Red Brick Warehouse buildings have been converted into shops and restaurants. The harbour area is good for walking, with views across to the Bay Bridge.
 
- It was in Yokohama that Commodare Mathew Perry landed with his Black ships in 1854 to force Japan to open up ro foreign trade. Yokohama soon grew into one of the major ports in Asia and the atmosphere was one of a border town in the wild west. Today Yokohama is still a very international city.
+**Chinatown** is the largest in Japan and one of the liveliest — hundreds of restaurants and shops packed into a few colourful blocks. Come hungry.
 
+Away from the waterfront, **Sankeien Garden** is a peaceful collection of historic buildings — pagodas, tea houses, and villas — moved here from around Japan and set in beautiful landscaped grounds. It is at its finest during cherry blossom season.
 
- Many of the sights in Yokohama are close to the waterfront, **Minato Mirai** is the futuristic heart of the area, many shops, restaurants a maritime museum a historic ship and a good museum of art. One of the most interesting places elsewhere in the city is without a doubt **Sankaien garden** a haven of peace in the big city. The garden consists of a collection of historic buildings moved from elsewhere in Japan to this park. The garden around is very pretty as well, and as always, best seen in springtime.
+The Ramen Museum in Shin-Yokohama recreates a 1950s Tokyo street and houses ramen stalls representing famous shops from across Japan — a good detour for noodle enthusiasts.

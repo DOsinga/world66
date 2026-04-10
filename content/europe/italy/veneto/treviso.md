@@ -1,8 +1,10 @@
 ---
-title: "Treviso"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.806691
 longitude: 12.206316
+title: Treviso
+type: location
 ---
 
 Treviso is a walled medieval city about 30 kilometres north of Venice that most visitors pass through on the way to somewhere else. That's their loss. The historic centre has canals, arcaded streets, towers, and a cathedral with frescoes by Titian — all on a much more human scale than Venice, without the crowds or the prices.

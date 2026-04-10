@@ -1,12 +1,18 @@
 ---
-title: "Trujillo"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -8.1117
+longitude: -79.0288
+title: Trujillo
 type: location
-latitude: -8.111678
-longitude: -79.028774
 ---
 
-Travel Guide
+Trujillo is Peru's third-largest city, sitting on the northern coastal desert about 560 km north of Lima. It is one of the country's most important archaeological destinations, surrounded by pre-Columbian ruins that span over a thousand years of civilisation.
 
-Northern city in the coast of Peru, with almost 800,000 people is known by its precolombian ruins in Chan Chan, Huaca del Sol and Huaca de la Luna. It has plenty of Spanish buildings dated more than four hundred years ago. Nearby [Huanchaco](/southamerica/peru/huanchaco) is a town near the Pacific Ocean and is popular for those who wish to watch the fishermen on the reed boats or hang at the beach.
+The headline site is **Chan Chan**, the vast adobe capital of the Chimú Empire and a UNESCO World Heritage Site. At its peak in the 15th century it housed some 60,000 people, making it the largest pre-Columbian city in South America. The Huaca del Sol and Huaca de la Luna, massive Moche pyramids about 8 km south of the city, are even older, dating from around the 1st to 8th centuries AD. The murals at Huaca de la Luna are remarkably well preserved.
 
-Trujillo is definitely a fun place, but it is also a place to keep an eye open. In the marketplaces, where tourists are most susceptible, pick pockets are the most expert at their craft. They work in groups, so it would be good practice for visitors to try to avoid large gatherings of people, and try not to show a wallet or money too much, even when making purchases.
+The city itself has a handsome colonial centre with brightly painted mansions around the Plaza de Armas. Trujillo was founded in 1534 and was one of the wealthiest colonial cities in Peru — the architecture reflects that.
+
+Nearby [Huanchaco](/southamerica/peru/huanchaco), about 12 km northwest, is a laid-back beach town where fishermen still use traditional reed boats called caballitos de totora. It makes a pleasant base, and watching the fishermen paddle in through the surf on their ancient craft is one of northern Peru's most memorable sights.
+
+Keep an eye on your belongings in the markets and crowded areas — pickpockets work in groups and are skilled.

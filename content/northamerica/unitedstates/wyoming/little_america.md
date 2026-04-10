@@ -1,18 +1,12 @@
 ---
-title: "Little America"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.544369
 longitude: -109.858126
+title: Little America
+type: location
 ---
 
-Travel Guide
+Little America is a roadside stop on Interstate 80 in the high desert of southwestern Wyoming, between Green River and Rock Springs. It is not really a town in the conventional sense — the "community" is essentially a large travel plaza with a motel, restaurant, gas station, and gift shop, operated by the Little America hotel chain. The permanent population is the staff.
 
-[Little America](/northamerica/unitedstates/wyoming)
-
-Little America is a Census Designated Place (CDP) in Sweetwater County, in the Rock Springs metro area.
-
-The community was named for the building constructed in Antarctica by Richard Evelyn Byrd and his expedition
-
-The latitude of Little America is 41.543N. The longitude is -109.858W. It is in the Mountain Standard time zone. Elevation is 6,424 feet.
-
-The population, at the time of the 2000 census, was 56.
+The name comes from Admiral Richard Byrd's base camp in Antarctica, which the founder of the original Little America stop reportedly thought this stretch of Wyoming resembled. It has been a landmark on the transcontinental road since the 1930s and remains a useful fuel and food stop on one of the lonelier stretches of I-80.

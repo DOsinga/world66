@@ -1,12 +1,14 @@
 ---
-title: "Trenton"
-type: location
-latitude: 40.220307
+done:
+  location_cleanup: '2026-04-08'
+latitude: 40.2203
 longitude: -74.7659
+title: Trenton
+type: location
 ---
 
-Trenton is the capital of New Jersey and located in the centre of the State. It is a city with a lot of history - it played an important role in the Independence War and you will find many buildings that date from the 18th century. The town hall is the second oldest town hall that is still in use in the whole of the United States. It also possesses the only free-standing Revolutionary War Barracks, which has become a living museum. The William Trent House, as well as Kuser mansion and the Nottingham Tavern (located in adjecent Hamilton) are other historic highlights. 
+Trenton is the capital of New Jersey, sitting on the Delaware River in the centre of the state. It played an important role in the American Revolution — this is where Washington crossed the Delaware on Christmas night 1776 to surprise the Hessian garrison, a turning point in the war.
 
-Trenton and Hamilton were also home to the Leni Lenape Native Americans, and there are sites and museams across the area dedicated to this tribe. 
+The city retains several 18th-century buildings worth seeing. The **Old Barracks Museum** is the only surviving free-standing Revolutionary War barracks in the country and operates as a living history museum. The **William Trent House** (1719), which gave the city its name, is the oldest residence in Trenton. The **New Jersey State House** is the second-oldest state capitol building still in use in the United States.
 
-Trenton is also a very lively city. The Patriots Theater located in the Trenton War Memorial, the Soverign Bank Arena, and Waterfront Park (Baseball Field) draw many top performers. You will also find many wonderful restaurants which cater to every kind of traveler.
+Trenton is also home to the **Patriots Theater** at the Trenton War Memorial and a minor-league baseball park on the waterfront. The area around the state house has a number of restaurants catering to government workers and visitors.

@@ -1,6 +1,6 @@
 ---
-title: "Artichockes"
-type: location
+title: "Artichokes"
+type: poi
 ---
 
-One of the most delicious specialties of the Riviera Ligure delle Palme is undoubtedly the spiny artichoke of Albenga. With the hard external petals removed – be careful not to prick yourself – this particular variety of artichoke is the only one that can be eaten in pinzimonio, i.e. raw with a dip made of extra virgin olive oil, vinegar, salt and, if desired, pepper. The artichokes of this region are also much appreciated “breaded” and fried, in the classic Easter dish of artichoke pie, or stewed with lamb or even better kid.
+One of the best specialties of the Riviera Ligure delle Palme is the spiny artichoke of Albenga. Once you strip back the tough outer petals — carefully, they prick — this particular variety is the only artichoke that can be eaten in pinzimonio: raw, dipped in extra virgin olive oil, vinegar, salt, and a little pepper. It's also excellent breaded and fried, baked into the classic Easter artichoke pie, or braised slowly with lamb or kid.

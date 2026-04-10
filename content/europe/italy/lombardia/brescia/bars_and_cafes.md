@@ -1,18 +1,6 @@
 ---
-title: "Bars and Cafes in Brescia"
+title: "Bars and Cafes"
 type: section
 ---
 
-There are a lot of **Brescia bars and cafes** you can try when you are in the city. There are different kinds of cuisines served and many items to try along with some of the best traditional Italian dishes.
-
-#### Osteria del Quartino
-
-The Osteria del Quartino caf&eacute; is a great place to stop for a fresh taste of the city. You can enjoy the quiet and relaxing music and the many choices of wine. They serve a lot of small and lighter meals. You can enjoy dinner in the dining area or the bar area to relax with a great glass of wine.
-
-#### Truffles
-
-The Truffles caf&eacute; is a great place to go to try some of the local truffles. If you want to experience the city and see what people wait for all year until the mushrooms are in season, you can find a lot of varieties to try. If you want to try something different in the city, choose this caf&eacute;.
-
-#### Osterio La Grotta
-
-This is one of the old spots to explore in the city. You can walk into the caf&eacute; and be taken
+Early evening in Brescia means *aperitivo* — a Campari or a glass of Franciacorta sparkling wine with a plate of olives, cheese and cured meats — taken in one of the cafes on Piazza della Loggia or under the arcades of Piazza Vittoria. Osterie in the streets south of Piazza del Foro stay busy late.

@@ -1,8 +1,10 @@
 ---
-title: "Ziguinchor"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 12.563493
 longitude: -16.272461
+title: Ziguinchor
+type: location
 ---
 
 Ziguinchor is the main town of the Casamance region, sitting on the south bank of the Casamance River about 70 km from the Atlantic coast. It is the obvious base for exploring the lush forests, mangroves, and villages of southern Senegal.

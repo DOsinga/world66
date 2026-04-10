@@ -1,14 +1,16 @@
 ---
-title: "Shopping in Monterrey"
+title: "Shopping"
 type: section
 ---
 
-CARAPAN ARTS AND CRAFTS CENTER, FOUNDED IN 1950 IS ONE OF THE BEST PLACES TO BUY MEXICAN FOLK ART.
+Monterrey's upscale shopping centres — including Galerías Valle Oriente and Antara Fashion Hall — are among the best in northern Mexico, reflecting the city's proximity to US consumer culture. The Centro area has traditional market stalls and craft shops.
 
-HIDALGO OTE. 305
+**Carapan Arts and Crafts Center**
 
-MONTERREY N.L., 64000
+One of the best places in Monterrey to buy Mexican folk art, founded in 1950. Good selection of ceramics, textiles, and traditional crafts.
 
-TEL. (52 81) 83454422
+address: Hidalgo Ote. 305
 
-www.carapangaleria.com
+tel: 52-81-8345-4422
+
+category: Shopping

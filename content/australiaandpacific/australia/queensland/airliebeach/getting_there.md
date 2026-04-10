@@ -3,16 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-I got a cheap flight from Melbourne to Hamilton Island. From
-there, a $2 bus ride got me to the ferry, then the ferry to Shute
-Harbour cost around $33 one-way for a one hour trip. From Shute
-harbour, you won't have to wait long to grab the bus into Airlie Beach
-($3). Once in the main strip you'll be fine.
+The nearest airport is at Proserpine (Whitsunday Coast Airport), about 25 minutes south of Airlie Beach, with flights from Brisbane, Sydney, and Melbourne. Hamilton Island also has an airport with more frequent services — from there, a ferry crosses to the mainland at Shute Harbour, and a short bus ride completes the trip to Airlie Beach.
 
-You can also get there by bus. Greyhound buses
-www.greyhound.com.au have special rates for backpackers, or you can get
-a certain number of km, like my friend went all around Australia with a
-25,000 km ticket or something.
-
-**Contributors**
-September 10, 2005
+Greyhound and Premier Motor Service coaches stop in Airlie Beach on the coastal run between Brisbane and Cairns. The drive from Brisbane takes about 12 hours; from Cairns about 8 hours.

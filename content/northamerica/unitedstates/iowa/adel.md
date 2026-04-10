@@ -1,13 +1,10 @@
 ---
-title: "Adel"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 41.617412
 longitude: -94.018518
+title: Adel
+type: location
 ---
 
-Travel Guide
-
-Discover Adel!
-Adel is a charming, friendly, small town just a few miles west of Des
-Moines. If your looking for unique shops, friendly service and
-welcoming hospitality, you’ll love it here. You won't want to miss the Annual Sweet Corn Festival, over 7 tones of FREE sweet corn and the largest parade in Dallas County.
+Adel is the county seat of Dallas County, a small town just west of Des Moines. The historic courthouse square has a few independent shops and the kind of unhurried pace that makes a contrast with the state capital next door. The Annual Sweet Corn Festival in August is the big event — over seven tonnes of free sweet corn and the largest parade in the county.

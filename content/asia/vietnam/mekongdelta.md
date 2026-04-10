@@ -1,14 +1,16 @@
 ---
-title: "Mekong delta"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 9.750896
 longitude: 105.22246
+title: Mekong delta
+type: location
 ---
 
-The **Mekong Delta** is the southern rice bowl of Vietnam. The Mekong River, one of the famous river of the world, is known to the Vietnamese as Song Cuu Long (River of the Nine Dragons). The Mekong originates high in the Tibetan plateau, flowing through [China](/asia/china), between [Myanmar](/asia/myanmar) (Burma) and [Laos](/asia/laos), along the Lao-Thai border and through [Cambodia](/asia/cambodia) and Vietnam. 
- The Mekong splits into two main branches in [Phnom penh](/asia/cambodia/phnompenh), the lower river cross Chau Doc, Long Xuen and Can Tho and flows to the sea, the upper river splits into several branches at Vinh Long and empties into the sea at six points. 
- 
- Half of the delta region is fully covered with rice fields. The region is dotted with small villages and towns and several large centres like Can Tho, My Tho, Rach Gia, Chau Doc and Ca Mau. 
+The **Mekong Delta** is the southern rice bowl of Vietnam. The Mekong River — known to the Vietnamese as Song Cuu Long, the River of the Nine Dragons — originates high on the Tibetan plateau and flows through [China](/asia/china), between [Myanmar](/asia/myanmar) and [Laos](/asia/laos), along the Lao-Thai border, and through [Cambodia](/asia/cambodia) before reaching Vietnam.
 
+The river splits into two main branches at [Phnom Penh](/asia/cambodia/phnompenh). The lower branch crosses Chau Doc, Long Xuyen, and Can Tho before reaching the sea; the upper branch fans out into several channels near Vinh Long and empties into the sea at six separate points.
 
- There are many Khmer temples and relics dating from previous centuries. This is an area of endless paddy fields and mangrove swamps, small villages and communities and, along the coast, deserted beaches. Special features include Vinh Long with the most charming hotel in the Mekong Delta, Chau Doc and the temple hill, Ha Tien with the best beach in Vietnam and Soc Trang and Tra Vinh with their Khmer temples.
+Half the delta is rice fields. The landscape is a mosaic of paddies, mangrove swamps, quiet villages, and a handful of larger towns: Can Tho, My Tho, Rach Gia, Chau Doc, and Ca Mau. Along the coast, beaches sit largely empty.
+
+Scattered throughout are Khmer temples and ruins from earlier centuries — reminders that this region was once part of the Khmer empire. Highlights include Vinh Long's river setting, Chau Doc and its nearby temple hill, Ha Tien with what many consider the best beach in Vietnam, and Soc Trang and Tra Vinh for their Khmer architecture.

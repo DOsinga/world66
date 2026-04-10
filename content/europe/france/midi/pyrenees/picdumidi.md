@@ -1,8 +1,10 @@
 ---
-title: "Pic du Midi"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 42.811723
 longitude: 1.993453
+title: Pic du Midi
+type: location
 ---
 
 We currently have no information about Pic du Midi.

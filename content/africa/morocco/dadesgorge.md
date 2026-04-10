@@ -1,8 +1,14 @@
 ---
-title: "Dades Gorge"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 31.5106
+longitude: -5.9583
+title: Dades Gorge
 type: location
 ---
 
-The Dades gorge is a spectacular place! It has a relaxed atmosphere, so you may want to recover if you’re in need of a rest from the daily hassle. The gorge is as interesting as the valley. The valley is wonderfully colorful as the green of the riverbed is surrounded by red, scarlet and carmine rocks and soil. It starts out rather wide and then narrows at Ait Oudinar. 
+The Dades Gorge cuts through the eastern High Atlas in [Morocco](/africa/morocco), carving a dramatic valley between the town of Boumalne Dades and the mountains to the north. The lower valley is wide and colourful — green riverbed vegetation set against red, scarlet, and ochre rock — before the gorge narrows dramatically at Ait Oudinar, where the road twists through a series of hairpin bends beneath towering cliff walls.
 
-The Kasbah of the Rocks is a mystical landscape of dark red eroded volcanic rocks. The beauty of this place is in its visual transformation as you change perspectives. From different angles and distances, the rocks transform in front of your eyes, in shape and form. The Kasbah is marked by the Cafe Meguirne, 14 km down the road. The kasbahs of the Ait-Atta look vulnerable and fragile as they lie under a massive volcanic rock formation. The kasbahs blend in perfectly with the soil and rocks. It is a perfect place to draw, sketch, write or have a pic-nic.
+About 14km up the road, the Kasbah of the Rocks (marked by the Café Meguirne) is a landscape of dark red eroded volcanic formations that change shape as you shift perspective. The kasbahs of the Ait Atta tribe below are built from the same red earth and blend almost seamlessly into the rock.
+
+The gorge is a good place to pause for a day or two. Several small guesthouses operate along the road, and the atmosphere is relaxed. Walking, sketching, or simply sitting and watching the light change on the rocks is the main activity. The Dades is often visited as part of a loop through the Todra Gorge and the Road of a Thousand Kasbahs.

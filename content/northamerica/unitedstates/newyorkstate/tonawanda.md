@@ -1,14 +1,14 @@
 ---
-title: "Tonawanda"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.020679
 longitude: -78.878383
+title: Tonawanda
+type: location
 ---
 
-The "Tonawandas" are also known regionally as "the Twin
-Cities", because of the City of Tonawanda and City of North
-Tonawanda. The Cities benefit from being an early port for the
-Erie Canal, and having the Herschell Carousel Museum, near Wurlitzer
-Park (NE corner of North Tonawanda).
+The "Tonawandas" — the City of Tonawanda and the City of North Tonawanda — are twin cities on the Erie Canal just north of Buffalo. They grew up as canal ports in the 19th century, and that waterfront heritage is still the most interesting thing about them.
 
-The City of Tonawanda also is part of the larger Town of Tonawanda, a moderately priced, safe suburb to stay in.
+The standout attraction is the Herschell Carousel Factory Museum in North Tonawanda, housed in the original factory where Allan Herschell built carousels from 1916. You can ride a restored carousel and see the workshops where the wooden horses were carved. Nearby Wurlitzer Park sits on the site where the Rudolph Wurlitzer Company once manufactured the jukeboxes and theatre organs that made the name famous.
+
+The Erie Canal towpath makes for a pleasant walk or bike ride, and the area is a practical, affordable base for visiting Niagara Falls, about twenty minutes north.

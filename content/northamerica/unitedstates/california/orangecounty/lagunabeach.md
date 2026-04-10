@@ -1,12 +1,14 @@
 ---
-title: "Laguna Beach"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 33.5427
+longitude: -117.7854
+title: Laguna Beach
 type: location
-latitude: 33.542698
-longitude: -117.785366
 ---
 
-At Laguna beach nature has been attracting artists here for generations. Art aficionados can contemplate works of American Impressionists and California artists at the Laguna Art Museum. At the annual Pageant of the Masters, enjoy incredible artwork re-creations, with cast members posing to look exactly like the original works of art. Savor the coastal views along the bluffs of Cliff Drive in Laguna Beach's Heisler Park. Hike in a picturesque canyon in the Laguna Coast Wilderness Park.
+Laguna Beach is the most attractive coastal town in Orange County — a hilly, artsy enclave wedged between rocky coves and the dry chaparral of the Laguna Coast Wilderness Park. The town has drawn artists since the early 20th century, and that legacy is still visible in dozens of galleries, the Laguna Art Museum (strong on California Impressionists and plein air painting), and the annual Pageant of the Masters, where volunteers pose in elaborate re-creations of famous artworks.
 
-## Destinations in Laguna Beach
+The coastline is the other draw. Heisler Park runs along the bluffs above a string of small beaches and tide pools, and the views from Cliff Drive are among the best in Southern California. The coves are good for snorkelling and bodyboarding, and the Laguna Coast Wilderness Park, accessible from several trailheads at the edge of town, offers hiking through coastal sage scrub and canyon oak woodland with surprisingly few people.
 
-[Laguna Beach](/world/northamerica/unitedstates/california/orangecounty/lagunabeach/lagunabeach)
+The main drag, Pacific Coast Highway, is lined with restaurants, surf shops, and galleries. The town gets busy in summer, especially during the art festivals, but the vibe stays noticeably more relaxed than neighbouring beach cities.

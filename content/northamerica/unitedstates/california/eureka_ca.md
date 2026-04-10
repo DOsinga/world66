@@ -1,30 +1,14 @@
 ---
-title: "Eureka, CA"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 40.801875
 longitude: -124.170756
+title: Eureka, CA
+type: location
 ---
 
-Travel Guide
+Eureka sits on the shore of Humboldt Bay, 275 miles north of San Francisco along Highway 101, surrounded by some of the tallest trees on earth. Founded in 1850 as a shipping hub for the Trinity gold mines, the city grew into a prosperous Victorian port town — and the evidence is everywhere. Eureka has one of the finest collections of Victorian architecture on the West Coast, concentrated in its Old Town, where ornate painted houses line streets full of galleries, restaurants, and independent shops.
 
-Eureka California is 275 miles north of San Francisco, along th Pacific
-Coast Highway 101. Visitors are overwhelmed by the beauty of the giant
-redwood groves, untouched coastline, and six wild and scenic rivers.
-Eureka was founded in 1850 as a shipping center for Trinity gold mines.
-Eureka's Victorian Heritage is preserved in its Old Town's unique
-shops, restaurants, galleries and museums. Eureka is dedicated to
-preserving one of the finest and largest collections of Victorian homes
-in the world.
+Beyond the architecture, the surrounding landscape is extraordinary. Giant redwood groves, an untouched Pacific coastline, and six wild and scenic rivers make the Eureka area a destination for hikers, kayakers, surfers, birdwatchers, and anglers. Humboldt Bay itself is one of California's largest coastal bays and supports a rich ecosystem of shorebirds and marine life.
 
-One can get lost in the never ending adventure
-of hiking, kayaking, surfing, beach-combing, birdwatching, biking,
-sailing, fishing, and many other activities near Eureka.
-
-Eureka has many special events!
-Arts
-Alive! brings locals and visitors alike to view the amazing local art
-and specialty shops on the first Saturday of every month, in Old Town
-Eureka.
-Blues By the Bay August 30 & 31 features an amazing
-line-up of world premier blues musicians in Halvorsen Park Eureka on
-the beautiful Humboldt Bay.
+On the first Saturday of each month, Arts Alive! brings locals and visitors to Old Town to browse local art and specialty shops. In late summer, Blues by the Bay draws world-class musicians to Halvorsen Park for a weekend festival on the waterfront.

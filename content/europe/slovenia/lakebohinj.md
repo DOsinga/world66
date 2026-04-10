@@ -1,12 +1,14 @@
 ---
-title: "Lake bohinj"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.282265
 longitude: 13.864531
+title: Lake Bohinj
+type: location
 ---
 
-Lake Bohinj is located in the Julian Alps not far from more touristy Bled. It is close to the border with [Italy](/europe/italy) and [Austria](/europe/austria) in the northwest of Slovenia. 
+Lake Bohinj sits in the Julian Alps of northwestern Slovenia, not far from the more famous [Lake Bled](/europe/slovenia/bled) but a world apart in atmosphere. Where Bled caters to coach tours, Bohinj is quieter, wilder, and surrounded by proper mountains — Triglav, Slovenia's highest peak, rises just to the north.
 
-The area is extremely beautiful. It's as good looking as the nicest places in Switzerland or Austria, but life here is a whole lot cheaper. The water of the lake is of the deepest blue. 
+The lake itself is stunning: deep blue water backed by forested slopes and limestone peaks. In summer the area is excellent for hiking, swimming, and mountain biking; in winter the Vogel ski resort offers runs directly above the lake with spectacular views. The Savica waterfall, a short hike from the western end of the lake, is one of Slovenia's most photogenic natural sites.
 
-In Winter the area offers good skiing possibilities and in summer hiking and biking are the favourite activities.
+The area has all the beauty of the Austrian or Swiss Alps at a fraction of the price. The small villages around the lake — Ribčev Laz, Stara Fužina, Srednja Vas — have good accommodation and a growing food scene.

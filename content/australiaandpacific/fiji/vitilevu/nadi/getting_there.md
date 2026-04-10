@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-From the Airport you can take a taxi into the city for $10 fiji or you can walk 200m to the highway and wait for a public minibus to take you into the city for fifty cents (great deal!). From Denarau Island A taxi should cost you $6 fiji from the marina into town.
+Nadi International Airport is the main gateway to Fiji, with direct flights from Australia, New Zealand, and several Pacific and Asian cities. From the airport, a taxi into town costs about FJ$10, or you can walk 200 metres to the highway and catch a public minibus for around FJ$0.50. From Denarau Island, a taxi to town is about FJ$6.

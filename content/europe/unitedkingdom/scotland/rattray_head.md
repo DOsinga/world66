@@ -1,13 +1,14 @@
 ---
-title: "Rattray Head"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 57.6101
+longitude: -1.8163
+title: Rattray Head
 type: location
-latitude: 57.610059
-longitude: -1.816293
 ---
 
-Travel Guide
+Rattray Head is a remote and windswept headland on the east coast of Buchan in Aberdeenshire — one of those places that rewards anyone willing to drive a little further than most. A 17-mile stretch of largely empty beach runs south from St Combs to [Peterhead](/europe/unitedkingdom/scotland/peterhead), and Rattray sits roughly in the middle.
 
-Rattray Head on the east coast of Buchan, Aberdeenshire in my opinion is one of Buchan's special places, remote, unspoilt and unique. Rattray became a royal burgh in 1563-1564 and at one time had its own castle on ‘Castlehill’ built by the Comyns. It is thought that this castle which once stood on a rock near the sea was burned to the ground by Edward Bruce younger brother of Robert the Bruce during the ‘Harrying of Buchan’, in 1308 or another less credible version is that it was overcome with the shifting sands. Rattray once had a good natural harbour but by 1654 it was becoming badly silted. The ‘ Loch of Strathbeg’ which is fed by the burn o’ Rattra was formed due to a massive shifting of the sands during a great storm in 1720. The harbour was known as ‘Starny Keppie’ and during the storm a ship became trapped in the harbour never to sail the seas again. The dunes at Rattray are now up to seventy-five feet high. Rattray Head lighthouse (120 feet high) was built in 1895 by Alan Stevenson. The keepers were withdrawn in February 1982 when it became fully automatic. Rattray Head is the site of many a shipwreck, the remains of several boats can be still seen on the beach to this day. If you’re interested in lighthouses then a visit to the ‘ Museum of Scottish Lighthouses ’ in [Fraserburgh](/europe/unitedkingdom/scotland/fraserburgh) is well worth a visit. The remoteness of this place is special, this stretch of beach is approximately 17 miles long and stretches from St Combs all the way south to [Peterhead](/europe/unitedkingdom/scotland/peterhead), text from 'The Bard O' Buchan Vol 1' by Stanley Bruce published 2005.
+The lighthouse, 36 metres tall, was built in 1895 by Alan Stevenson and automated in 1982. It stands on a low spit of land that has been the site of many shipwrecks — rusted remains of several vessels are still visible on the beach. Behind the dunes lies the **Loch of Strathbeg**, a freshwater loch formed when a massive storm in 1720 blocked the old harbour entrance with sand. It is now an RSPB reserve and an important staging ground for migrating geese and wildfowl.
 
-**Contributors**
-February 04, 2006
+Rattray was once more than a lighthouse. It was a royal burgh in the 1560s with its own castle, built by the Comyns on a rock near the sea. The castle was destroyed — possibly during Robert the Bruce's Harrying of Buchan in 1308, possibly buried by the shifting sands. The harbour silted up by the mid-17th century and the settlement faded. What remains is the emptiness, the scale of the beach, and the light. If you are interested in lighthouses, the **Museum of Scottish Lighthouses** in nearby [Fraserburgh](/europe/unitedkingdom/scotland/fraserburgh) is worth a visit.

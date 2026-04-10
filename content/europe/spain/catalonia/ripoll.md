@@ -1,9 +1,12 @@
 ---
-title: "Ripoll"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 42.1982
+longitude: 2.1933
+title: Ripoll
 type: location
-latitude: 42.198239
-longitude: 2.19325
 ---
 
-Ripoll is a small town which can be reached by bus from Gerona, if you plan carefully involving a circular route via or by train from
-[Barcelona](/europe/spain/catalonia/barcelona) when it is worth getting off a train to Ribes Frazer on route for Nuria and look at the 9th century monastery here before taking a later train onwards.
+Ripoll is a small town in the Pyrenean foothills of Catalonia, best reached by train from [Barcelona](/europe/spain/catalonia/barcelona). Its main draw is the Monastery of Santa Maria de Ripoll, founded in the 9th century by Wilfred the Hairy — the legendary first Count of Barcelona. The monastery was one of the most important in medieval Catalonia and its elaborately carved Romanesque portal, dating from the 12th century, is considered a masterpiece of the style.
+
+The town sits at the confluence of the rivers Ter and Freser, and the surrounding mountains offer good hiking. Ripoll is also a logical stop on the way to Ribes de Freser, where you can board the rack railway up to the mountain sanctuary of Núria.

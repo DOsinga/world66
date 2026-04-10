@@ -1,12 +1,12 @@
 ---
-title: "Tabarka"
+done:
+  location_cleanup: '2026-04-09'
+lat: 36.9546
+long: 8.7574
+title: Tabarka
 type: location
-latitude: 36.954561
-longitude: 8.757383
 ---
 
-Tabarka is located in the northwest of Tunisia, in a picturesque area between mountains and sea. Tabarka is promoted by the Tunisian government as a tourist destination and does meet most of the requirements a modern traveler might have. The area is great for hiking and other outdoor activities. The waters around the area abound with fish and coral, making it a good place for fishing, scuba diving and underwater photography. Nearby are excellent golf courses.
+Tabarka sits in the far northwest of Tunisia, squeezed between the forested Kroumirie mountains and the Mediterranean. The setting is genuinely pretty, and the town has grown into a low-key resort without losing too much of its character.
 
-
- 
- Tabarka was obviously a favorite of the Romans too as they left their mark on the region-towns which can now be visited by history-loving tourists.
+The waters offshore are rich in fish and coral — Tabarka has a reputation as one of Tunisia's better spots for scuba diving and underwater photography. There's good hiking in the hills behind town, and the Romans were clearly fond of the area too: the ruins of ancient settlements nearby are worth a look for anyone with an interest in history.

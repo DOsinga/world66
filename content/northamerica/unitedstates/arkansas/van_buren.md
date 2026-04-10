@@ -1,10 +1,12 @@
 ---
-title: "Van Buren"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.4368
+longitude: -94.3483
+title: Van Buren
 type: location
-latitude: 42.271076
-longitude: -86.013973
 ---
 
-Travel Guide
+Van Buren sits just across the Arkansas River from [Fort Smith](/northamerica/unitedstates/arkansas/fortsmith), a small town of about 24,000 with a well-preserved historic downtown district. Main Street is lined with antique shops, collectibles stores, and specialty shops housed in handsome nineteenth-century brick buildings — it is one of the better antique-hunting strips in western Arkansas.
 
-Just across the Arkansas River northeast from Fort Smith, Arkansas is the town of Van Buren with a population of about 21,000 people. Downtown Van Buren is riddled with numerous shopping surprises. Rows of antique shops, collectibles stores, hobby shops, and specialty stores make Van Buren's historic district an amazing shopping experience.
+The town is also the home station of the Arkansas & Missouri Railroad excursion train, which runs scenic trips through the Ozarks to Winslow and back.

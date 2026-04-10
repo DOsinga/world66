@@ -1,10 +1,14 @@
 ---
-title: "Newcastle"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -32.9275
+longitude: 151.7817
+title: Newcastle
 type: location
-latitude: -32.927288
-longitude: 151.781253
 ---
 
-Newcastle is a city about 2 hours north of Sydney (by car). Newcastle is a fascinating harbour city, an ideal location for a short break of for an extended stay. Newcastle is the sixth largest city in Australia, however, the friendliness and welcoming ambience of the city creates a very special greeting for all visitors.
+Newcastle sits on a headland above a working harbour, about two hours north of Sydney by road or rail. It is Australia's seventh-largest city, but it carries itself more like a big country town — unhurried, unpretentious, and genuinely welcoming to visitors.
 
-There's a harbour, a museum, and spectacular beaches, which provide for some of the best surfing in Australia. Friendly nightlife in the city in pubs. Nature reserves including Blackbutt and Wetlands centre. Newcastle Regional Art Gallery is one of the most prestigious art galleries in Australia.
+The city has reinvented itself since the BHP steelworks closed in 1999. The old industrial waterfront has been opened up, the city centre pedestrianised in places, and a creative scene has taken root in the heritage buildings around Hunter Street. The beaches are exceptional: Nobbys, Newcastle, Bar Beach, Merewether — all within walking distance of the CBD, all with reliable surf.
+
+The Hunter Valley wine country lies less than an hour to the west, which means Newcastle also works well as a base for wine touring without the motel prices and bus-tour crowds of the valley itself.

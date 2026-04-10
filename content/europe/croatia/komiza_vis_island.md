@@ -1,15 +1,16 @@
 ---
-title: "Komiza, Vis island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 43.05
+longitude: 16.0869
+title: Komiza, Vis island
 type: location
 ---
 
-**The Island of Vis **is the most distant and western of the larger Dalmatian islands, with an area of about 90 km2. This is a tourist oasis of untouched beauty, full of history and wild mountain scenery, crisscrossed with donkey tracks.
+Komiža is the main fishing port of Vis island — the most remote of the larger Dalmatian islands, sitting about 45 km off the coast of Split. It is a compact, intimate town with a palm-fringed harbour on one side and a ring of mountains on the other. Despite being less visited than Hvar or Korčula, Vis has a devoted following among travelers who prefer authenticity over crowds.
 
-Vis produces some of the best olives, figs, almonds, lemons in Croatia, and can rival anywhere in the Mediterranean for it's tasty fish and lobster, prepared the same way as the ancient Vis fishermen used to do. There are also many vineyards (some of which were first planted by the Greeks as early as the 4th century), which produce some popular Croatian wine; Plavac is a strong heavy red and Vugava a rather rich white wine.
+Vis island itself is strikingly fertile by Dalmatian standards. It produces some of the best olives, figs, almonds, and lemons in Croatia, and the seafood — lobster especially — is as good as anything in the Adriatic. The vineyards go back to Greek settlers in the 4th century BC; Plavac is the local red, a strong and heavy wine, while Vugava is a distinctive white found almost nowhere else.
 
-**Komiža - **is the island's main fishing port, a compact and intimate town with a palm-fringed seafront on one side and a ring of mountains on the other. Dominating the southern end of the harbour is the Kastel, a stubby sixteenth-century fortress which now holds a Fishing Museum . Rearing up above KomiÏa to the southeast is Mount Hum , at 587m Vis 's highest point. There's a wonderful view of the Adriatic from the top, with the pale grey stripe of the Italian coastline far away to the west, and the mountains of the Croatian mainland to the east.
+The harbour at Komiža is framed at its southern end by the Kastel, a squat sixteenth-century fortress that now houses a Fishing Museum. Behind the town, Mount Hum rises to 587 metres — the highest point on Vis. On a clear day from the summit you can make out the pale strip of the Italian coastline to the west.
 
-Notable sandy beaches on the island are those at Milna and Stoncica, a narrow inlet cleft in the rock with warm, aquamarine water, and Srebrna where the large, flat, pale stones give the place its name ('silvery').
-
-**Contributors**
-February 01, 2006
+Notable beaches on the island include Milna, a broad shingle bay, and Stiniva, a narrow inlet where the rock walls nearly close overhead and the water turns an astonishing shade of blue. Srebrna is named for the large pale stones that give it a silvery look.

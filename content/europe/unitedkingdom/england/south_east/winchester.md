@@ -1,8 +1,10 @@
 ---
-title: 'Winchester'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.061277
 longitude: -1.313169
+title: Winchester
+type: location
 ---
 
 Winchester was once the capital of England, and it carries that history lightly. The city is centred on its magnificent cathedral, one of the longest in Europe, where Jane Austen is buried and medieval wall paintings still glow in the side chapels. The Great Hall is all that remains of Winchester Castle, and it houses a round table that has been hanging on the wall since at least the fourteenth century, painted with the names of King Arthur's knights.

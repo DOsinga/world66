@@ -1,17 +1,16 @@
 ---
-title: "Dahlak islands"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 15.7248
+longitude: 40.08
+title: Dahlak Islands
 type: location
-latitude: 15.724832
-longitude: 40.080041
 ---
 
-The Dahlak islands are great for scuba diving, sailing and fishing. The archipelago of some 200 islands is located south-east of [Massawa](/africa/eritrea/massawa) and can be reached from there. Since the islands are a National Park you can't just go there but need to arrange your trip through a tourist agency that takes care of the permits. Charter yachts are available for hire in Massawa.
+An archipelago of some 200 islands scattered across the southern Red Sea, the Dahlak Islands are one of East Africa's best-kept diving secrets. Only four are inhabited, with a total population of around 2,500 people — most of them on Dahlak el Kebir — who still live by fishing, herding goats and camels, much as their ancestors did for centuries.
 
+The diving is the main draw. Submerged coral reefs, dramatic shoals, and shipwrecks sit beneath water that teems with dolphins, sharks, dugongs, turtles, hermit crabs, and an astonishing variety of fish. Some islands have mangrove-fringed shores or salt-bush flats; others are bare rock rising from the blue. Submarine volcanoes have left fields of pumice scattered across the seabed.
 
- Only four of the islands are inhabited and the total population only numbers about 2,500 of which most live on Dahlak el Kebir. The inhabitants still maintain their traditional lifestyle of fishing and herding goats and camels.
+Dahlak el Kebir was historically the chief port for pearl fishing in the southern Red Sea and carries a darker past too — the islands were a major conduit for the export of enslaved people from the mainland to the Arabian peninsula. The Ethiopians used Dahlak el Kebir as a military base during their occupation of Eritrea.
 
-
- Some islands have shores lined with mangrove trees or salt bush. Shoals and submerged corral reefs, a spectacular marine life (dolphins, sharks, dugongs, turtle species, hermit crabs, fish, shells), shipwrecks and pumice stones formed from submarine volcanos make the Red Sea an unforgettable diving experience.
-
-
- Dahlak el Kebir is the chief port for pearl fishing in the southern part of the Red Sea and was formally used as a military base by the Ethiopians. A more sinister aspect of the islands’ history is that they were one of the most important conduits for the export of slaves from the mainland to [Saudi Arabia](/asia/saudiarabia).
+The islands are a protected National Park, so independent access is not possible. You'll need to book through a tourist agency that arranges the permits. Charter yachts are available for hire in [Massawa](/africa/eritrea/massawa), the nearest mainland port, from where the crossing departs.

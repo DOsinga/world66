@@ -1,14 +1,12 @@
 ---
-title: "Cayenne"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 4.937154
 longitude: -52.325874
+title: Cayenne
+type: location
 ---
 
-Located on Cayenne island, Cayenne is the capital and chief town and port of Guiana. In some aspects it looks like a small provincial town somewhere in France, but in most ways it is very much a Caribbean town. 
+Cayenne is the capital of French Guiana, situated on a small island where the Cayenne River meets the Atlantic coast. As an overseas department of France, it has the strange quality of being simultaneously a French provincial town and a tropical Caribbean city — French is the official language, the euro is the currency, and the baguette is on every table, yet the heat, the vegetation, and much of the population feel firmly Caribbean.
 
-
- Cayenne has quite an interesting musuem, the Musee Departemental de la Francofonie on rue de Remire, it has a good ethnological collection. 
-
-
- The area around the Canal Luassat is known as La Crique and is well worth a visit, although it can be dangerous to venture there on your own.
+The Musée Départemental de la Francophonie on rue de Remire is worth a visit for its ethnological collection covering the diverse communities of French Guiana. The area around the Canal Laussat (known as La Crique) is a lively neighbourhood with local character — exercise some caution if exploring on your own. The city's colourful central market is the best place to get a feel for the local food culture, with Creole, Brazilian, and Hmong influences all present.

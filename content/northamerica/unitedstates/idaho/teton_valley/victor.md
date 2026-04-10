@@ -1,10 +1,8 @@
 ---
-title: "Victor"
+latitude: 43.603
+longitude: -111.128
+title: Victor
 type: location
-latitude: 38.70999
-longitude: -105.13998
 ---
 
-Travel Guide
-
-Town in Idaho near Teton mountain range & Jackson Hole, WY
+Victor is a small town at the southern end of Teton Valley, Idaho, close to the Wyoming border and Teton Pass. It is a quieter and less commercial alternative to Driggs as a base for exploring the western side of the Tetons.

@@ -1,8 +1,10 @@
 ---
-title: 'Hastings'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.855098
 longitude: 0.582178
+title: Hastings
+type: location
 ---
 
 Hastings is best known for the battle that changed English history in 1066, though that actually took place six miles inland at what is now called Battle. The town itself is an ancient Sussex seaside settlement, nestled in the folds of the High Weald as it meets the sea.

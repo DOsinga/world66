@@ -1,25 +1,16 @@
 ---
-title: "Curú National Park"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 9.7833
+longitude: -84.9167
+title: Curú National Wildlife Refuge
 type: location
 ---
 
-**Location
-**Curú National Wildlife Refuge is located in the south of Nicoya Peninsula. This place has captured the fancy of many nature lovers. There is a provision of 36 beds, although the cabins are meant primarily for researchers and students.
+The Curú National Wildlife Refuge sits on the southern tip of the Nicoya Peninsula, covering 208 acres of mangrove swamps, hills, beaches and tropical forest. It feels genuinely cut off from the mainland — a small, quiet place where the wildlife outnumbers the visitors.
 
-**Quality **
-The refuge sports the feel of being cut-off from the mainland. The refuge is just 5% of the total 1214-hectare property. Almost 75% of the land is declared to be a forest, the rest 20% of the land is used for agriculture and cattle raising. The status of refuge was accorded in 1983. You can explore the place by hiking or trekking. There are 17 trails you can choose from, with various difficulty levels. You can go here swimming. The white sands of the beach and quiet waters are the perfect place to unwind.
+The refuge is only 5% of the total 1,214-hectare property; roughly 75% is forest, the rest used for agriculture and cattle. It was declared a refuge in 1983. Seventeen hiking trails of varying difficulty wind through the property, and the white-sand beaches with calm water make for easy swimming.
 
-** Kind of habitat**
-The refuge has different habitats and ecosystems with a very diverse wildlife. There are mangrove species and then there are organisms in the marine ecosystems. The park is also the breeding ground for the pacific fishes. You might just also spot certain extinct species of oysters, found only here. The park also houses plant and animal species in the forests, which includes species of evergreen and deciduous variety. While in the forests you can spot raccoons, white-tailed deer, pacas, monkeys, opossums, coaties and coyotes. Here, you can also find a wide variety of lizards like the green iguana, ctenosaur and boa constrictor.
+The habitats are remarkably diverse for such a small area. Mangroves, marine ecosystems, and evergreen and deciduous forests support around 500 plant species and 223 bird species. You can expect to see white-faced and howler monkeys, white-tailed deer, peccaries, coatis, raccoons, and iguanas. Hawks, trogons, roseate spoonbills, and hummingbirds are among the birds. The beaches are breeding grounds for Pacific fish and home to giant conch and lobsters.
 
-** Animal Species**
-The species that form a part of the ecosystem here are white-tailed deer, herds of peccaries, mountain lions, and margays ocelots, white-faced and howler monkeys, rattlesnakes, iguanas .the beaches are home to giant conch, lobsters and oysters. There are about 223 species of birds present on the island. You can spot any of these here: hawks, swallows, egrets, motmots, hummingbirds, trogons, roseate spoonbills, and fish eagles.
-
-** Floral Species**
-There are about 500 plant species forming a part of the ecosystem here. The vegetation here is a mixture of deciduous and evergreen species. Some of the trees in these forests include the silk cotton, the Panama and the redwood. Curú itself is the name of one of the trees on which the park is named.
-
-** Total Area**
-Curú National Wildlife Refuge covers an area of 208 acres. The area comprises mangrove swamps, hills, beaches and forests. Even the species dotting the area correspond to the diverse habitats.
-
-**Contributors**
-October 09, 2006
+Accommodation is limited to 36 beds in cabins that are primarily reserved for researchers and students, so plan this as a day trip from [Paquera](/northamerica/costarica/paquera) or [Montezuma](/northamerica/costarica/montezuma) unless you have arranged a stay in advance.

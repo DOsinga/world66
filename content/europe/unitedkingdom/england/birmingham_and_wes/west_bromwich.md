@@ -1,22 +1,14 @@
 ---
-title: "West Bromwich"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 52.5187
+longitude: -1.9923
+title: West Bromwich
 type: location
-latitude: 52.518658
-longitude: -1.992311
 ---
 
-Travel Guide
+West Bromwich grew from a roadside settlement on the main route from the northwest to London into an industrial town shaped by the Black Country's coal seams and iron foundries during the 18th and 19th centuries. Mining is long gone and the steel industry followed, leaving the town with above-average unemployment and a landscape that is more post-industrial than picturesque. It sits in a dense West Midlands conurbation stretching between Birmingham and Wolverhampton.
 
-West Bromwich orignated as a sprawl around the main road from the north west to London. It grew in size and importance during the industrial revolution due to the easily accessible coal seams and shared with the rest of the Black Country an important role fueling the industrial revolution and Britain's empire building.
+That said, there's more here than the industrial legacy suggests. The moated Manor House near Stone Cross — now a pub — dates from the Middle Ages. The Oak House near the town centre is a fine late-Elizabethan timber-framed building open as a museum. Sandwell Priory ruins and fragments of Dartmouth Hall survive as archaeological curiosities. Sandwell Valley Country Park, tucked between the M5 motorway and the West Midlands suburbs, provides green space and a nature reserve.
 
-Mining finished a long time ago and the steel industry's demise came in recent decades. This has left the region much cleaner but with unemployment above the national average.
-
-Although now a rather nondescript town nestled in the middle of a conurbation spanning Birmingham and Wolverhampton, it is possible to get away from the urbanisation in the peaceful countryside and parkland of Sandwell Valley.
-
-West Bromwich is probably most famous for its (presently) premiership football club residing in England highest league ground.
-
-The middle ages moated Manor House (now a pub) near Stone Cross, the Oak House near the town centre and theexcavated ruins of the old Sandwell Priory along with some well-hidden remnants of Dartmouth Hall are all points of interest.
-
-Even amongst the industrial landscape it is possible to get away from it all seeing another side to the area by walking, cycling or even boating around the area's extensive canal system.
-
-Nearby attractions include the Black Country Museum, Dudley Zoo, or shopping at Merry Hill or Birmingham.
+West Bromwich is probably best known as the home of West Bromwich Albion Football Club (The Baggies), whose ground at The Hawthorns is the highest above sea level of any Football League ground in England. The extensive Black Country canal network — rundown in places but atmospheric — is accessible for walking, cycling, and boating.

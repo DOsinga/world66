@@ -1,22 +1,26 @@
 ---
-title: "Getting Around in Sapporo"
+title: "Getting Around"
 type: section
 ---
 
-**Sapporo transportation **makes getting around Japan's fifth largest city simple. Most public transportation in Sapporo is extremely safe--and definitely advisable if you're visiting during the harsh winter season, so that you don't slip on the ice.
+Sapporo is easy to get around. The city was built on a grid, so it is hard to get lost, and the public transport system is clean, safe, and punctual. In winter, when the pavements are icy, public transport is especially welcome.
 
-**Trains**
+### Subway
 
-Trains are the most convenient way to get around Japan, and Sapporo is no exception. The JR train line can get you to multiple points throughout the city or to the Shin-Chitose Airport or Hokkaido. Getting to Tokyo is also possible, although it costs around $230 and takes ten hours.
+The subway is the backbone of getting around central Sapporo. Three lines converge at Odori Station: the Namboku Line runs north-south, the Tozai Line runs east-west, and the Toho Line serves the eastern part of the city. Single fares start at around 210 yen. On weekends and holidays you can buy a one-day unlimited pass (Donichika Kippu) for 520 yen, which is excellent value if you plan to make a few trips.
 
-**Subway**
+### Streetcar
 
-Perhaps even less expensive than than the train, especially if you're planning on staying in Sapporo anyway, is the subway system. Heading west and east from the central Odori Station is the Tozai Line and north and south is serviced by the Namboku Line. Fares cost about $2 for adults and $1 for children ages twelve and younger each time, but if you come on the weekends, you may be able to purchase an unlimited use one-day ticket that costs only $5 for adults and $2.50 for kids. (You can also purchase an unlimited-use one-day weekday card for $8 for adults and $4 for kids.) There's also a combination subway/bus card, with unlimited one-day use that costs about $10 for adults and $5 for kids.
+A single streetcar loop runs through the southwestern part of the city, passing by the Mt. Moiwa Ropeway among other stops. The flat fare is 200 yen. It is a pleasant, slow way to see a quieter side of Sapporo.
 
-**Bus**
+### Bus
 
-Where the subway doesn't go, the Sapporo area is serviced by three bus lines: the JR Hokkaido Bus, the Hokkaido Chuo Bus and the Jotetsu Bus. Fares are similar to that of the subway.
+Three bus companies serve the Sapporo area: JR Hokkaido Bus, Hokkaido Chuo Bus, and Jotetsu Bus. Fares are similar to the subway. Buses are useful for reaching areas beyond the subway network, but the subway handles most visitor needs.
 
-**Streetcar**
+### JR Trains
 
-Besides the bus and the subway, another popular option for public transportation in Sapporo is the streetcar. Mostly in the southwest area of the city, the streetcar makes a number of stops at important points in the city, such as a library and the Mt. Moiwa Ropeway. Fares are only about $1.70 each way, with unlimited one-day passes going for $3.
+JR trains are mainly useful for longer trips, such as out to Otaru or the airport, rather than getting around within the city itself.
+
+### On foot
+
+In the snow-free months, Sapporo's flat grid makes walking between the main sights straightforward. Odori Park, the Clock Tower, and the Former Government Office are all within easy walking distance of each other.

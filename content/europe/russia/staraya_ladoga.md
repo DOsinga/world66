@@ -1,14 +1,14 @@
 ---
-title: "Staraya Ladoga"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 59.996994
 longitude: 32.296246
+title: Staraya Ladoga
+type: location
 ---
 
-Small village, situated on the southern shore of Ladoga Lake, in North-West Russia.
+Staraya Ladoga — Old Ladoga — has a claim to being the very first capital of Russia. Founded in the 9th century on the banks of the Volkhov River, it predates Moscow, Novgorod and Kiev as a seat of power. Today it is a quiet village about 250 km east of [Saint Petersburg](/europe/russia/stpetersburg) along Route M8, but the sense of deep history here is real and immediate.
 
-Staraya Ladoga (Old Ladoga) once was a first Russian capital, being founded in IX century. Nowadays its a fortress (XV-XVI century), well-preserved, cathedral of XIII century inside, two ancient monasteries, one of which have another XIII-century cathedral. One of the monasteries is under restavration.
+The centerpiece is a well-preserved 15th–16th century fortress perched above the river, with a 13th-century cathedral still standing inside its walls. The views from the ramparts over the Volkhov are genuinely lovely. Two ancient monasteries flank the village, each with its own medieval cathedral — one of them is currently under restoration. The scale is small, the crowds are thin, and the atmosphere is nothing like the big-ticket Russian heritage sites.
 
-Place is famous because of its history and because of the beautiful views from the fortress's walls on the river Volchov.
-
-250 km from the Saint-Petersburg to the East, Route M 8, guided tours available.
+Guided tours from Saint Petersburg are available, or you can arrive independently and take your time walking between the fortress and the monasteries on your own.

@@ -1,8 +1,10 @@
 ---
-title: 'Bijagos Islands'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 11.25
 longitude: -16.0
+title: Bijagos Islands
+type: location
 ---
 
 The Bijagos archipelago is the highlight of Guinea-Bissau and one of the most remarkable island groups in Africa. Eighty-eight islands, of which only about twenty are permanently inhabited, spread across the Atlantic off the coast. UNESCO declared it a Biosphere Reserve, and it is easy to see why: long white-sand beaches, dense palm forests, mangrove channels teeming with birdlife, and waters rich with fish.

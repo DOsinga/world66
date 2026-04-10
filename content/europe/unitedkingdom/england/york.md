@@ -1,36 +1,22 @@
 ---
-title: "York"
+title: York
 type: location
 latitude: 53.965658
 longitude: -1.074305
+done:
+  location_cleanup: 2026-04-07
 ---
 
-You’ll love York. On the one hand, it’s a thriving modern city with modern shopping areas and two universities. On the other hand, you'll find constant reminders of its Roman, Viking and Medieval past. The city is surrounded by walls that have a Roman base. They were rebuilt by the Saxons, destroyed by William the Conqueror and rebuilt, first by the Normans and then in the 14th century in much the same form as today. One of the four impressive gateways, Monk Bar, has a small museum where you can trace the impact of one of York’s famous citizens, Richard III. 
+Two thousand years of history packed into a walkable city centre, and over 200 pubs to recover in afterwards. York is one of England’s finest cities, layering Roman foundations, Viking heritage, and medieval streets into a place that rewards every visit.
 
-Besides the Roman city walls, the Museum Gardens with its ruins, the Clifford’s Tower and the museums, York is especially known for its cathedral: the York Minster. It will take you at least half a day to see the inside and to climb your way up to the top to have some astonishing views of the surroundings. Nearby the Minster, you can lose your way in the winding cobbled alleys of the Shambles with the little shops and beetling timber-framed houses. 
+The York Minster dominates the skyline and deserves at least half a day. Climb to the top for sweeping views across the Vale of York, then lose yourself in the cobbled alleys of the Shambles, where timber-framed houses lean so close across the narrow street that neighbours could pass things between upper windows. The Shambles was once the city’s butchers’ quarter -- you can still see the meat hooks on some shopfronts. At its far end sits Whip-Ma-Whop-Ma-Gate, York’s shortest street with its longest name.
 
-When you’ve walked upon the longest intact city walls in the UK, take a rest at one of the many pubs or sit at one of the many terraces along the Ouse (that is, when the adjoining building aren’t flooded by the river, which does normally happen at least once a year) or enjoy a boat trip on the river. 
+Walk the city walls, the longest intact medieval circuit in England, and you will pass through four medieval gateways -- called "bars" in York. Monk Bar houses a small Richard III museum. Micklegate Bar was where traitors’ heads were displayed on spikes; some reproductions are still there. The walls give you a bird’s-eye tour of the city before you have even set foot in a museum.
 
-York has excellent connections with other big cities in the UK and serves as an ideal base for visiting the nearby National Parks, such as the Lake District, and the heritage coastline towns, such as Scarborough and Whitby. The city of York, steeped in history, is an absolute must when you’re visiting Yorkshire. 
+And the museums are worth your time. The Castle Museum, next to Clifford’s Tower, features Kirkgate, a brilliantly detailed reconstruction of a Victorian street. The National Railway Museum is one of the best free museums in the country, with engines spanning every era and a royal carriage. JORVIK Viking Centre recreates tenth-century York right down to the smells, which they are very proud of.
 
-Now enough of the tourist guide ramblings lets get a real view of York. As a local I can maybe point out some of the things not though of. 
+York claims both Guy Fawkes and Dick Turpin among its famous former residents. Guy Fawkes was born here and educated at St Peter’s School. Dick Turpin was hanged at the Tyburn, now York Racecourse, and his grave can be found at St George’s Church. Memorial plaques and a pub bearing Fawkes’s name dot the city centre.
 
-Lets start with Castle Museum, a gem amongst museums of the older school. Here you can find an amazing reconstruction of a complete street from Victorian times called Kirkgate. It also has artifacts found from battlesites nearby such as Stamford Bridge. You will find the museum next to Clifford's Tower. 
+The city is criss-crossed with hidden alleyways known as "snickelways" -- narrow passages that locals use to navigate past the Saturday crowds. If the crowds get too much, duck into one of York’s many tea rooms. Bettys on St Helen’s Square is the most famous, though Little Bettys in Stonegate is cosier and usually has a shorter queue. York is also reputedly one of the most haunted cities in England, and the Castle Museum claims to be the most haunted museum in the country.
 
-York is the home to the National Railway Museum.Here you can find a real train enthusiasts dream with trains of all eras on display including a royal carriage. 
-
-The Yorvic Museum has become something of a cult recently apparently acurately recreating the smells of Viking times. 
-
-Enough of Museums. What about Pubs. York had at last count over 200 pubs. These can be split fairly accurately into two categories modern and traditional. The modern cater for the young lager drinkers and the traditional for everyone including the real ale enthusiast. Nearly all of these serve food and most of it is very good. Possibly the best can be found at the Spread Eagle in Walmgate. For real ale try the Maltings at one end of Lendle Bridge.
-
-What about Dick Turpin and Guy Fawkes both ex of York. Dick Turpin was hung at the Tyburn which is now York Racecourse and his burial stone can be found at St. Georges Church in York with memorial plaques on houses near the minster.
-
-Guy Fawkes was born in York and educated at St Peter's School in York. After leaving England for Spain and converting to Catholic he was convicted of Treason and hanged, drawn and quartered a particularly unpleasant way of killing someone. Memorial Plaques to Guy Fawkes and a pub in his name can be found in York. 
-
-Walking around York on a Saturday is a challenge for anyone not local to York. To those in the know York is criss-crossed with many small alleyways. These were described in a book called Snickleways of York. They allow the local to avoid the masses and cross York in relative peace. 
-
-Tea shops are a very popular haunt in York with many very fine examples including Betty's and Taylors Tea Rooms (now called little Betty's) and talking of haunts York is reputedly very haunted. In fact the Castle Museum lays claim to be the most haunted museum in the UK. 
-
-Why not go shopping in the Shambles or just go to look at the shops. Look up and you will see that people living there could actually pass things across out of the windows to their neighbours on the opposite sides of the street. The Shambles was the place to buy meat in days gone by and you can still see the hooks in the shops there from which the meat was hung. It was also the home of Margaret Clitherow who was crushed to death for practising catholocism in the Ouse Bridge Prison. Her right hand is on display at the Bar Convent museum... And at the end of the Shambles Whip-Ma-Whop-Whap-Ma Gate can be found. Despite the long name the street is the shortest in York and once was the shortest in the country.
-
-The bars - York has four bars, Micklegate Bar, Walmgate Bar, Bootham Bar, Monkgate Bar. These were the entrances into the city built in the 12th and 13th century and a place where the traitors of the city had their heads placed on public display -on spikes outside the walls of course... Today these heads can be found in Micklegate Bar.
+With over 200 pubs, York is a serious drinking city. The traditional pubs serve real ale and good food -- try the Maltings near Lendal Bridge for cask beer. The city has excellent rail connections and makes an ideal base for the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire_dales), the North York Moors, and the heritage coast towns of [Scarborough](/europe/unitedkingdom/england/scarborough) and [Whitby](/europe/unitedkingdom/england/whitby).

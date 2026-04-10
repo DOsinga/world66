@@ -1,14 +1,16 @@
 ---
-title: "Zagreb"
+title: Zagreb
 type: location
-latitude: 45.813097
-longitude: 15.977279
+latitude: 45.815
+longitude: 15.9819
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Zagreb is the capital of Croatia and its most important city. ALthough the city is not as popular with tourists and travalers as the Dalmatian coast is, it still offers a few nice attractions that make it worthwhile to stop over for a few days.
+Zagreb is Croatia's capital and a city that most visitors skip on their way to the Dalmatian coast — a mistake, because it is one of the more likeable small European capitals, with a strong café culture, excellent museums, and a leafy, walkable old town that fills up with locals rather than tourists. About a million people live here, and the atmosphere is distinctly Austro-Hungarian: wide boulevards lined with 19th-century apartment buildings, parks designed on the Viennese model, and the kind of café-sitting, people-watching, unhurried social rhythm that the locals call *špica* — the Saturday-morning ritual of getting dressed up and parading through the centre with a coffee.
 
+The city divides into two parts worth exploring. The **Gornji Grad** (Upper Town), reached by funicular or steep stone steps from the main square, is the medieval core: cobbled streets, gas lamps that still burn, the colourful tiled roof of **St Mark's Church** (with the Croatian and Zagreb coats of arms in ceramic), the Croatian Parliament building, and the **Lotrščak Tower**, which fires a cannon every day at noon. Just below it, **Kaptol** is the cathedral quarter — the twin-spired neo-Gothic cathedral is the tallest building in Croatia and the city's most recognisable landmark. Between the two, **Tkalčićeva Street** is a long pedestrian lane of small bars, cafés, and restaurants that runs along the course of the medieval stream that once separated the two rival settlements.
 
- The city is divided into three parts: the thousand-year old upper town (Gornji grad) which contains the Presidential Palace, the historic church of St. Mark's, the Croatian parliament, museums and galleries which are all set in cobbled streets lit by gas lamps; the 19th century lower town (Dolnji grad) with its shops, restaurants, cafes, theatres, parks; and the modern post-war (WWII) part of Zagreb (Novi Zagreb) which is full of high-rise buildings and basically has nothing to offer to tourists.
+The **Donji Grad** (Lower Town) is the 19th-century city, laid out around a horseshoe of parks and grand public buildings in the 1880s. The **Mimara Museum** (European old masters and decorative arts), the **Museum of Arts and Crafts**, and the **Croatian National Theatre** are all here. But Zagreb's most celebrated museum is the **Museum of Broken Relationships**, a genuinely original collection of objects donated by people around the world to represent their failed love affairs — funny, moving, and unlike any museum you've visited.
 
-
- Zagreb is called a city of museums as there are more of them per square foot than any other city in the world. But this doesn't mean that there is nothing else for you to do if you are not a history buff. One of the many pleasures that many Zagrebcani enjoy is sitting in one of the numerous cafes, watching the world go by. In the evening, you can visit one of the many restaurants, sampling one of the delicious Croatian dishes, and finish the day in the one of the bars or clubs. Whatever you choose to do, you are guaranteed to have a good time!
+Eat *štrukli* (filled pastry, baked or boiled), drink Croatian wine (the whites from Slavonia and Istria are excellent and little-known outside the country), and use Zagreb as a base for day trips to the **Plitvice Lakes** (two hours south, one of the most beautiful natural parks in Europe) or the rolling hills and hilltop castles of the **Zagorje** to the north.

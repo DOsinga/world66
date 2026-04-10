@@ -1,15 +1,10 @@
 ---
-title: "Getting Around in Prespa"
+title: "Getting Around"
 type: section
 ---
 
-The municipality of Prespa includes 15 villages, each village has between 1 and 200 inhabitants. The distance between the villages is quite large: there is not local public transport between them, only to Florina, the closest city, a distance of 50 km.
+A car is the only practical way to get around. There is no public transport between the fifteen villages of the municipality, although buses connect to Florina (50 km) — the nearest city and the jumping-off point for most visitors.
 
-Most of the villages have a local shop with a small selection of goods and also a traditional coffee bar (mostly visited just by men). Thee are a number of hotles, tavernas and bars in the municipality although these are spread over quite a large area. Other facilities include a couple of supermarkets and petrol stations accessible by car.
+The villages divide historically between Upper Prespa (Psarades, Vrondero, Pili, Agios Achillios) and Lower Prespa (Agios Germanos, Laimos, Plati, Kallithea, Lefkona, Karies, Oxia, Mikrolimni). Distances between them are considerable. Vrondero, at the far end of the region, is the only village in Prespa with no view of the lake.
 
-Historically the villages split into those of Upper Prespa (Psarades, Vrondero, Pili and Agios Achilios and Lower Prespa (Agios Germanos, Laimos, Plati, Kallithea, Lefkona, Karies, Oxia and MIkrolimni).
-
-At the furthest end of Prespa is Vrondero, the only village in Prespa without a view of the lake.
-
-**Contributors**
-September 09, 2008
+Most villages have a small shop and a kafeneion. Supermarkets and petrol stations exist but are not numerous — fill up and stock up before arriving.

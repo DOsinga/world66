@@ -3,20 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Restaurants**
-
-**The Black Rose**
-
-Good food, good prices. No credit cards accepted.
-
-address: Michalská ulica
-
-**Giuseppe**
-
-Pizza, Restaurant, 
-
-Very good food, good prices.
-
-address: Panonska street, Petrzalka
-
-PriceOfMenu: 3 EURO
+Bratislava's old town is packed with restaurants, ranging from traditional Slovak food (bryndzove halusky — potato dumplings with sheep cheese — is the national dish) to international options. Prices are lower than in nearby Vienna, especially if you step a block or two off the Main Square. The Black Rose on Michalska ulica is a reliable choice for good food at good prices (cash only).

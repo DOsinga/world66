@@ -1,15 +1,14 @@
 ---
-title: "Mosonmagyarovar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 47.873179
 longitude: 17.272234
+title: Mosonmagyaróvár
+type: location
 ---
 
-The town of Mosonmagyarovar is situated at the crossing point of the rivers Mosoni-Danube and Lajta, at about 15 kilometres from the Austrian and Slovakian borders. It was already known in the Roman age as a watch-post along the limes under the Latin name Ad Flexum. After the Conquest it was used as a reeve-site, later it became shire-town.
-The motte of Moson was ruined by the soldiers of the Bohemian King Ottokar in 1271, after the Mongol Invasion the fort of Ovar was fortified.
-In 1354 the town was honoured with the right of goods arrestation and town rights by King Lajos the Great. When the Turks marched against Vienna it was repeatedly desolated, while in 1809 the army of Napoleon occupied the town.
-From 1529 it belonged to the Habsburg family and between 1763 and 1945 it was a private domain of the House of Habsburgs.
+Mosonmagyaróvár is a small town of about 30,000 people in the far northwest corner of Hungary, just 15 kilometres from both the Austrian and Slovak borders. It sits where the Lajta river meets the Mosoni-Danube, and its position on the old trade route between the Hungarian plains and Vienna shaped its history — the Romans had a garrison here, the Habsburgs made it a private domain, and Napoleon's army passed through in 1809.
 
-The main road of transportation for corn and animal carriage from the Hungarian Flatlands to Vienna led through the town. During the years, the town of Magyarovar developed into an industrial and trade centre of the region while Moson remained a significant village inhabited by merchants and husbandmen.
-The two towns united in 1939 and together with the village of Lucsony that joined Magyarovar as early as 1905 they constitute the town of today with a population of 30,000 people.
-The town's most important tourist attraction is its thermal water , which is acknowledged medicinal water and belongs to the five best quality ones in Europe according to its classification.
+The town was formed in 1939 by merging two older settlements, Moson and Magyaróvár. There is a small castle (the Magyaróvár Castle, now part of the university), some pleasant Baroque streets, and a relaxed pace that suits a border town.
+
+The main draw is the **thermal baths**. The town's thermal water is classified among the best medicinal waters in Europe, and the modern thermal complex draws visitors from across the border in Austria and Slovakia — for Austrians in particular, it is a cheaper alternative to spas at home. The baths are a good reason to stop if you are passing through the region.

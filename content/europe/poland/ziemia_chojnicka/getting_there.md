@@ -1,13 +1,6 @@
 ---
-title: "Getting There in Ziemia Chojnicka - Chojnice Region"
+title: "Getting There"
 type: section
 ---
 
-It is very easy to get to Chojnice Region from the most places around the region, because of very good roads and railways network. You can go to Chojnice from Gdansk (Trójmiasto), Bydgoszcz, Poznań, Pila, Koszalin, Gorzów Wielkoposlski by train or by car. If you want to get know more information about getting into Chojnice, go to :
-
-- PKP (Polish Railways) - http://rozklad.pkpik.pl/bin/query.exe/en? ;
-
-- PKS - Bus Time Table- http://www.rozklady.com.pl/
-
-**Contributors**
-January 13, 2005
+Chojnice is well connected by train and bus. Direct rail services run from Gdańsk (roughly 2 hours), Bydgoszcz (1.5 hours), and Poznań (about 3 hours). Regional buses link the town to surrounding villages including Charzykowy. If you are driving, the road network across Pomerania is straightforward and well signposted.

@@ -1,35 +1,14 @@
 ---
-title: "Ephesus"
+title: Ephesus
 type: location
-latitude: 37.940446
-longitude: 27.339319
+latitude: 37.9395
+longitude: 27.3393
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Ephesus, known as one of the most fascinating archeological sites in the world, was a large port and trading center at the crossroads of important trade routes, such as the Kind road and the Silk road.
+Ephesus is one of the largest and best-preserved ancient cities in the Mediterranean world, located near the town of Selçuk on Turkey's Aegean coast. At its height in the Roman imperial period it had a population of perhaps 200,000 people and was the most important city in the Roman province of Asia — wealthier, larger, and more culturally significant than most cities anywhere in the ancient world. Its ruins cover several square kilometres and include a theatre that seated 25,000, a two-storey library façade that has become one of the iconic images of antiquity, marble-paved streets, public latrines, gymnasia, and the Terrace Houses where Roman domestic spaces survive with mosaics and frescoed walls still intact.
 
+The city's history goes back at least to the 10th century BC. It was Lydian, then Persian, then Hellenistic, then Roman. The Temple of Artemis that stood here — one of the Seven Wonders of the Ancient World — was in its final form larger than the Parthenon. The Apostle Paul preached here and was briefly imprisoned, and the city appears repeatedly in early Christian history. When the harbour silted up over centuries and the sea retreated, the city gradually lost its commercial reason to exist. Today the ancient site is about 5 km from the coast, stranded inland by the same alluvial processes that eventually killed the city.
 
- 
- As the most visited antic site of Turkey, Ephesus is the gate to Turkey’s presentation to the world. Every year millions of visitors come to Ephesus for its marvelous and mystical atmosphere. Huge granite columns are witnesses of the city’s former magnificence and many worth-seeing sites are surrounding it : the Artemision, one the Seven Wonders, the Saint-John’s church, the Cave of the Seven Sleepers, the Shrine of Virgin Mary, the Mosque of Isabey and the archeological museum of [Selcuk](/asia/turkey/selcuk).
- 
-
-
- 
- Originally Ephesus was a harbor city but due to the Menderes alluviums over the centuries, the site is now remoted from sea for about 5-6 kms.
- 
- Excavation works in Ephesus started about 129 years ago and there is no doubt that these will go on for many years together with restoration works : each piece brought to daylight gives new clues to archeologists about more objects to be discovered or mysteries to be solved.
- 
- Androcles, son of King Kondros, founded the city in 10 B.C. When Androcles died during the war against the Carians, the habitants of Ephesus erected a mausoleum for this hero, their first king. This mausoleum may have been built around the Magnesia door.
- 
- 
-
-
- The city was established on the shores of the Konessos harbor where the Kucuk Menderes (“Kaystros”) floods into the Aegean Sea. When Ephesus became member of the Ionian Confederation, Carians and Lelegians inhabited it. By then the town had to move stream upward to the current “Ayasolug Hill” because of the alluviums.
- 
- After the invasion, in the VIth century, by the Lydian King Kreisos, Ephesus reached its apogee : it became a model for the antic world in arts and culture. Refusing ruling by thirds, Ephesians moved around the Artemision, today still waiting to be brought to daylight. Later, during the “Ionian Rebellion”, Ephesians refused to participate to the struggles against the Persians and saved their city from complete destruction. Alexandre the Great, who then decided to make the Ionic cities independent, ended the war. Oligarchic and democratic partisans were quarreling and destroyed the Artemision (356 B.C.). Alexander proposed to rebuild it but the population could not agree with it as It would not be right to build a temple for a god by a god.
- 
-
-
- 
- In 190 B.C., the city, conquered and controlled by the Romans, was given to the Bergamian Kings till it was re-ruled by the Romans in 133 B.C. After that the city lived another Golden Age when it became an important trade center and gave itself a brand-new look : many new buildings, such as the Celcius Library, were erected. During the upcoming of Christianity (the arriving of Saint John with Virgin Mary, the preaches of Saint Paul), Ephesus became an important center where Christians, Jews and pagans were to share their temples. It is in that period that the Cave of the Seven Sleepers, the Saint-John’s church were built. 
- 
- After having been ruled by the Byzantine, the Selcuks, Ephesus fell under the Ottomans but lost of its importance as places such as [Izmir](/asia/turkey/izmir) and [Kusadasi](/asia/turkey/kusadasi) were becoming important harbor cities.
+Most visitors arrive from Kuşadası, about 20 km west, or from Selçuk, the modern town immediately adjacent to the ruins where the nearest accommodation is. The site is large enough to take several hours, and summer temperatures are severe — water, a hat, and sun protection are essential. Cruise ship groups arrive in large numbers from mid-morning; arriving before 9am or after 3pm makes a significant difference to the experience. The Ephesus Museum in Selçuk holds finds from the excavations, including the famous multi-breasted statues of Artemis, and is an important complement to the site.

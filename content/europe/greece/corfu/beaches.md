@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Corfu"
+title: "Beaches"
 type: section
 ---
 

@@ -1,14 +1,16 @@
 ---
-title: "Dayton"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.758948
 longitude: -84.191607
+title: Dayton
+type: location
 ---
 
-Dayton has continued to progress in a growth of industrial power, in its blossoming as a center of high technology, research and information services, and in its development as a service and distribution center. In transportation, Dayton is the hub of one of the largest "90-Minute" markets in the nation. 
+Dayton is the birthplace of aviation — Orville and Wilbur Wright built and tested their aircraft here, and the city has never stopped reminding visitors of that fact. The **National Museum of the United States Air Force** at Wright-Patterson Air Force Base is the world's largest and oldest military aviation museum, with over 350 aircraft and missiles on display across four enormous hangars. It is free to enter and easily worth a full day.
 
-Brief History: Dayton was founded April 1, 1796. The city was named after Revolutionary War hero General Jonathan Dayton, the youngest signer of the U.S. Constitution and one of the first investors in the new town. The city was Incorporated February 12, 1805. TheCommission-Manager Plan was established by charter, adopted on August 12, 1913. Dayton was the first large city in America to adopt the Commission-Manager form of government. The City Charter established a five-member, non-partisan City Commission, elected at large for four-year overlapping terms. The Mayor is a separately elected, voting member of the City Commission. The City Manager is appointed by the City Commission. The City of Dayton has been rated as an "All-America City" three times - 1951, 1978 and 1991. 
+The Wright Brothers' legacy is everywhere: their original bicycle shop, Huffman Prairie where they refined their flying techniques, and the Dayton Aviation Heritage National Historical Park tie the story together. Paul Laurence Dunbar, the pioneering African American poet, also grew up here — his home is part of the same national park.
 
-Cultural Diversity: White -- 58 percent African-American -- 40 percent Other -- 2 percent 
+Downtown Dayton sits on the Great Miami River and has seen significant revitalization. The Oregon District is the main entertainment neighbourhood, with restaurants, bars, and shops in restored 19th-century buildings. The Dayton Art Institute houses a respectable collection in a handsome Italian Renaissance-style building overlooking the river.
 
-Top Twenty Employers* NCR Corp. Miami Valley Hospital, Delphi Automotive/General, Reynolds & Reynolds, University of Dayton, Veterans Administration, Good Samaritan Hospital, United States Postal Service, Daimler Chrysler Corp., Emery Air Freight, Sinclair Community College, Mead/Westvaco Corp., Dayton Osteopathic Hospital (Grandview), Childrens' Medical Center, Standard Register Co., Dayton Newspapers, Inc., Greater Dayton Regional Transit (RTA), National City Bank, Emery Worldwide Airlines
+The city is a regional hub in southwestern [Ohio](/northamerica/unitedstates/ohio), about an hour north of [Cincinnati](/northamerica/unitedstates/ohio/cincinnati) and an hour west of [Columbus](/northamerica/unitedstates/ohio/columbus).

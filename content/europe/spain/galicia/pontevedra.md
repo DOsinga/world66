@@ -1,12 +1,12 @@
 ---
-title: "Pontevedra"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 42.431888
 longitude: -8.643159
+title: Pontevedra
+type: location
 ---
 
-Pontevedra is the capital of the province of the same name, that contains the much larger city of Vigo. This is one of the four provinces in Galicia. Connoiseurs often rate it as the most impressive place in southern Galicia.
+Pontevedra is one of the four provinces of Galicia, in the wet green corner of northwestern Spain. It contains the region's largest city, Vigo, but the provincial capital — also called Pontevedra — is the more appealing place to spend time, with a beautifully preserved old town that sits at the head of the Ría de Pontevedra. The coast here is indented with rías, the long fjord-like inlets that give this stretch of Atlantic shoreline its particular character, and the province stretches south to the Portuguese border.
 
-Although it has no mega-site like the cathedral of Santiago de Compostela, the old part of the city is immensely pleasing and few things can beat eating hot chestnuts in the square caleed Herreria, with the pilgrim church of Capilla Peregrina and other fine buildings all around you when the dusk is coming.
-
-There are sundry lovely squares hidden along the narrow twisting roads of the old town which contain dozens of tiny bars selling octopus, [pulperias.] If you have not tried octopus, you will be pushed to find anywhere better to give it a try.
+The old quarter of Pontevedra city is largely car-free, a tangle of granite lanes and covered arcades opening onto a series of small squares. You're never far from a pulpería serving octopus with paprika, or a bar piled high with Galician empanadas. The Ría de Pontevedra and the nearby coast offer beaches, fishing villages, and the remarkable hórreos — raised stone grain stores that dot the landscape — of places like Combarro.

@@ -1,10 +1,12 @@
 ---
-title: "Virginia"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.5233
+longitude: -92.5366
+title: Virginia
 type: location
-latitude: 37.123224
-longitude: -78.492772
 ---
 
-Travel Guide
+Virginia is a small city on the Mesabi Iron Range in northeastern Minnesota, known locally as the "Queen City of the North." It was founded in the 1890s during the iron mining boom, and mining — now mostly taconite — still shapes the local economy and landscape. The Hull-Rust-Mahoning Mine viewpoint, just north of nearby Hibbing, offers a staggering view of one of the largest open-pit mines in the world.
 
-Virginia is a city in St. Louis County, Minnesota, USA, on the Mesabi Iron Range. The area was originally named "qeechaquepagem" by the Ojibwe tribe, which roughly means "lake of the North birds". The population was 9,157 at the 2000 census. According to a water tower in the middle of town, the city's nickname is the "Queen City", or The Queen City of the North. This water tower was recently vandalized, as someone changed the "N" of Queen City to an "R.
+The town itself has a handsome main street with early 20th-century commercial buildings and a few good places to eat. The surrounding area is lake country — hundreds of lakes within easy driving distance, making it a popular base for fishing, canoeing, and exploring the Boundary Waters Canoe Area Wilderness to the north.

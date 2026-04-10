@@ -1,14 +1,14 @@
 ---
-title: "Matheran"
+title: Matheran
 type: location
-latitude: 18.990154
-longitude: 73.270019
+latitude: 18.9902
+longitude: 73.27
+done:
+  location_cleanup: 2026-04-06
 ---
 
-**Matheran** 
+Matheran — "forest on top" in Marathi — is a tiny hill station at 800 metres elevation, just 111 km from Mumbai and the nearest escape from the city's heat and noise. What makes it special is that no motorised vehicles are allowed. You arrive by toy train on a narrow-gauge line from Neral (or by taxi to the car park at the edge of town), and from there everything is on foot, by horse, or by hand-pulled cart.
 
-**Matheran** (which means 'top of the head') offers unpolluted air, beautiful surroundings and shady walks with marvellous panoramic views. The best season to visit this place is from October until May. 
+The best season is October to May, when the air is cool and clear and the viewpoints offer panoramic views across the Western Ghats. Charlotte Lake, Panorama Point, and Louisa Point are the main walks — none of them strenuous. The town itself is small, with a market street, a handful of basic restaurants, and colonial-era bungalows turned into guesthouses.
 
-This is the nearest hill station to Mumbai (111 kms), at an altitude of 803,47 metres. It's a great experience to travel from Neral station to the top by means of the mini-train, using a narrow gauge line. Taxi services are also available. From the station, it is a 10 to 15 minutes' walk and there are plenty of coolies that are most willing to carry your luggage for 40/50 Rs. In Matheran, no cars are allowed, which makes the place even more interesting. You can even visit the main sights by horse car. 
-
-Visit places such as Louise Point, the Charlotte Lake with the Panthers caves, do some golf at the excellent golf courses or go to the sunset and panoramic points to freshen up your mind.
+The toy train ride from Neral is part of the experience — 21 km of switchbacks and cliff edges taking about two hours. It is slow, rattling, and thoroughly enjoyable.

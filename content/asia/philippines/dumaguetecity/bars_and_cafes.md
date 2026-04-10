@@ -3,4 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Set right in the heart of Uptown district in Cebu City, Mango Avenue, El Gecko Restobar. A popular haunt of expats and locals with great international food, the cheapest beer in town, 30 peso and fantastic people. Multi screen TVs playing music DVDs and very welcoming staff !!! Start here before hitting the clubs later in the evening. www.elgecko.info Check it Out !!!
+Dumaguete has an active bar scene for a city its size, fuelled partly by the large student population at Silliman University. The Boulevard, the seafront promenade along Rizal Boulevard, is the main gathering place in the evenings. There are a number of expat-friendly bars and restobar (restaurant-bar) venues south of the city centre along the South Highway.

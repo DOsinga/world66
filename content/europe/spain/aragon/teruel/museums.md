@@ -1,5 +1,5 @@
 ---
-title: "Museums in Teruel"
+title: "Museums"
 type: section
 ---
 

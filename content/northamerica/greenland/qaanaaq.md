@@ -1,11 +1,14 @@
 ---
-title: "Qaanaaq"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 77.4686
+longitude: -69.2223
+title: Qaanaaq
 type: location
-latitude: 77.468636
-longitude: -69.222275
 ---
 
-The town of Qaanaaq was first established during the 1950s when the US airbase, which was originally built during the Cold War at Thule/Dundas, needed to be extended. At that time it was not considered appropriate for a civilian population to be living close to the base, so everybody was moved some 100 kilometres further north, where the new town of Qaanaaq was built in 1953.
+Qaanaaq is one of the northernmost towns in the world, a settlement of about 600 people on the shore of Inglefield Bredning in the far northwest of Greenland. The town was established in 1953 when the inhabitants of the original Thule settlement were relocated to make way for the expansion of the American air base at Pituffik (Thule Air Base), about 100 kilometres to the south.
 
+Despite its remoteness, Qaanaaq is a functioning town with a school, hospital, and small hotel. The glaciers are less than an hour's walk away, and the surrounding landscape is Arctic in the most absolute sense -- sea ice, ice caps, and midnight sun in summer, polar darkness in winter. The Inughuit people who live here maintain some of the most northerly hunting traditions in the world.
 
- The presence of Pituffik, as the US base is called, makes it difficult to visit the area, as permission to travel through it must be obtained from the Danish Foreign Ministry. But during the next few years a runway is to be built close to Qaanaaq, creating a direct connection between it and the other towns in the north of Greenland and improving access for both residents and tourists. There is a small hotel in Qaanaaq, and the glaciers are less than an hour's walk from town.
+Getting to Qaanaaq requires flying via Ilulissat or Upernavik on Air Greenland's small domestic network. Access was previously complicated by the need to transit through the Pituffik base area, but a new airport at Qaanaaq has improved connections. Accommodation is limited, so book ahead.

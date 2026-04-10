@@ -1,10 +1,14 @@
 ---
-title: "Iona"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 56.3289
+longitude: -6.4084
+title: Iona
 type: location
-latitude: 56.328918
-longitude: -6.408401
 ---
 
-Iona is a small island close to the south-west tip of the [Ross of Mull](/europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull), from where the ferry [cars need a permit] connects. However it is one of the most famous places in the UK, being the first centre of Christianity in the UK. Columba came from Ireland and introduced the Celtic Church here and this preceded St Augustine's founding an English branch of the Roman Catholic Church.
+Iona is a small island off the south-west tip of [Mull](/europe/unitedkingdom/scotland/isle_of_mull), reached by a short ferry crossing from Fionnphort. Despite being barely five kilometres long, it carries more history per square mile than almost anywhere in Scotland — this is where St Columba landed from Ireland in 563 AD and established the monastic community that spread Christianity across Scotland and northern England.
 
-There are beautiful beaches and unspoilt areas on the island but the crowds head for the reconstructed abbey and the ruins of the nunnery. The ancient crosses in the grounds and the museum at the abbey are of particular interest.
+The ferry takes foot passengers only unless you have a permit; most visitors leave their cars on Mull and walk the island. Cars are rare and the village is quiet. In summer, day-trippers arrive in waves from the Mull ferry connection, but if you stay overnight the island empties out and takes on a different, contemplative character.
+
+The reconstructed abbey dominates the northern part of the village, but the ruins of the medieval nunnery and the scatter of ancient carved crosses are just as compelling. Beyond the monuments, the island has some genuinely fine beaches — the white sands at the Bay at the Back of the Ocean on the Atlantic side are as good as anywhere in Scotland.

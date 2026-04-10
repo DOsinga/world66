@@ -1,14 +1,14 @@
 ---
-title: "Ganish"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 36.3131
+longitude: 74.6684
+title: Ganish
 type: location
-latitude: 36.313144
-longitude: 74.668388
 ---
 
-Travel Guide
+Ganish is the oldest settlement in the Hunza Valley, perched on flat land near the Hunza River at an altitude of about 2,300 metres. The village sits on the ancient Silk Road and has been recognised by UNESCO for its cultural heritage — the historic core of tightly packed stone houses, watchtowers, and mosques is remarkably well preserved.
 
-The oldest and first settlement on ancient Silk rout in Hunza.You may see different old watch towers,old traditional mosques,religious centers,and a water reserviour .Ganish is situated in central Hunza near Hunza river. Some people call this village as land of warriors and king makers because people belonged to this village had been involved in battles with Nagar valley and decision making during royal system in Hunza.
+The original layout of Ganish Khun, the oldest quarter, survives largely intact despite a damaging flood in 1960 and the construction of the Karakoram Highway through the village in the 1970s. A distinctive S-shaped road cuts through the heart of the settlement. Scattered nearby are ancient sacred rocks carved with inscriptions and Buddhist imagery, evidence of the area's pre-Islamic past.
 
-Speciality of this village is "S" shape road which cuts the village through its heart,old sacred rocks of Ganish are also located near this village. The village has won a Unesco award for its cultural heritage.
-
-Ganish village is located on flat land near the Hunza River and the Hunza hill at an altitude of 7,500 ft. Though it has several new Khuns (clusters), Bitan Khun, Suni Khun, Buldus, Ganish Shukonoshal, Chaboikushal and Tsill Ganish, Ganish Khun is the oldest. The original layout of Ganish Khun is mostly intact, even after damage caused by a flood in 1960 and the construction of the KKH through it in the 1970's. Garnish’s existing historic fabric is a typical central Hunza Khun layout, which comprises of 39 houses dating
+The village has traditionally held a prominent place in Hunza's political history, and locals call it the "land of warriors and king-makers" for the role its people played in battles and governance during the old royal system.

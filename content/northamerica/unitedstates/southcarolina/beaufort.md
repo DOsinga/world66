@@ -1,12 +1,14 @@
 ---
-title: "Beaufort"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 32.4316
+longitude: -80.6698
+title: Beaufort
 type: location
-latitude: 35.469331
-longitude: -76.892752
 ---
 
-A city of rich history, Southern hospitality and casual seaside charm, the “Queen of the Carolina Sea Islands” was discovered by the Spanish in 1514 and chartered by the British in 1711. Enjoying great prosperity in the eighteenth century as indigo and rice plantations thrived, Sea Island Cotton also brought tremendous wealth to the area prior to the Civil War.
+Beaufort is one of the loveliest small towns in the American South, sitting on Port Royal Island among the Sea Islands of South Carolina's Lowcountry. Discovered by the Spanish in 1514 and chartered by the British in 1711, it grew wealthy on indigo, rice, and Sea Island cotton, and the antebellum mansions from that era still line the streets — making the historic district one of only three National Historic Landmark Districts in the state.
 
-Today, tabby ruins, historic forts, elegant homes, majestic plantations and Gullah culture and cuisine are reminders of Beaufort’s 500-year history. Horse-drawn carriages make their way slowly through the narrow streets of the historic district, one of only three National Historic Landmark Districts in South Carolina and shrimps boats can often be seen gliding past Waterfront Park with the day’s catch.
+The town has a quiet, unhurried quality. Horse-drawn carriages make their way through narrow streets shaded by live oaks dripping with Spanish moss, and shrimp boats glide past Waterfront Park with the day's catch. Gullah culture — the distinctive heritage of the descendants of enslaved West Africans who settled the Sea Islands — is a living presence here in the food, the language, and the sweetgrass baskets sold at local markets.
 
-In addition to a variety of historical and natural attractions, the area is home to three major military installations – the Marine Corps Recruit Depot, Parris Island, the Marine Corps Air Station and the Naval Hospital – which are vital to the local economy, as well as national security.
+Beaufort is also home to the Marine Corps Recruit Depot at Parris Island, which offers a small but interesting museum and hosts graduation ceremonies that are open to the public.

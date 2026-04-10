@@ -1,18 +1,16 @@
 ---
-title: "Kadiri"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 14.10823
 longitude: 78.161069
+title: Kadiri
+type: location
 ---
 
-Travel Guide
+Kadiri is a small town in the Anantapur district of Andhra Pradesh, about 100 kilometres from the district headquarters. Its name comes from the Sanskrit word *khadri*, meaning a tree. Most travellers come here for one reason: the ancient temple of Sri Lakshmi Narasimha Swamy, one of the most venerated Vaishnava shrines in the region.
 
-Kadiri comes from the sanskrit word "Khadri" meaning a tree. This place is in AP about 100 kms away from Anantapur, the district HQ.
+The temple, believed to date from the Vijayanagara period under the Rayas, houses a swayambhu murthy — a self-manifested image, not carved by human hands. Devotees travel from across Andhra Pradesh and beyond to receive darshan. What draws the faithful most is a remarkable phenomenon: after the daily abhishekam (ritual bathing of the deity), the idol is said to perspire, and the archakas (temple priests) must continually wipe the moisture away as it keeps flowing. Whether you interpret this as miracle or curiosity, it makes Kadiri memorable.
 
-The city is very famous for the temple of Sri Lakshmi Narasimha Swamy which is a swayambhu murthy here.
+Behind the main sanctum lies a pushkarini, the sacred tank common to South Indian temples, lending the complex a sense of calm that contrasts with the bustle of the surrounding town. The temple is considered especially auspicious, and pilgrimage traffic peaks during major festivals in the Hindu calendar.
 
-The amazing thing about this temple which was supposed to be built during the period of Rayalus is, after the daily abhishekam is performed to the murthy in the temple, the murthy sweats and as long as the archakas keep swabbing off the sweat, it keeps coming out.
-
-The temple has a pushkarini at the back and is considered a very sacred place.
-
-For more information about this temple visit www.srikadirinarasimha.org
+Kadiri itself is a modest working town without great tourist infrastructure, but the temple alone justifies a stop for anyone travelling through this part of the Rayalaseema plateau.

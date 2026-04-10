@@ -1,8 +1,10 @@
 ---
-title: "Alishan"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 23.515035
 longitude: 120.809754
+title: Alishan
+type: location
 ---
 
 Alishan is a mountain resort area in Chiayi County, known throughout [Taiwan](/asia/taiwan) for its sea of clouds, ancient cypress forests, and the narrow-gauge forest railway that climbs through three climate zones to reach it. The area sits at around 2,200 metres and the air is noticeably cooler and cleaner than on the plains below.

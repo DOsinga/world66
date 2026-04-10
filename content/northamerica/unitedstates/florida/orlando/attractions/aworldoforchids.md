@@ -1,6 +1,11 @@
 ---
-title: "A World of Orchids"
-type: location
+category: Sight
+done:
+  location_cleanup: '2026-04-10'
+latitude: 28.2894
+longitude: -81.5873
+title: A World of Orchids
+type: poi
 ---
 
-2501 N. Old Lake Wilson Rd. Kissimmee, FL 34747-2001 Phone: 407/396-1887 Fax: 407/396-4177 Website: http://www.a-world-of-orchids.com E-mail: kricha7010@aol.com  Exquisite flowering orchids displayed in a rainforest setting with exotic birds, fish, chameleons and Asian squirrels. Nature walk.  Hours: Call for hours.
+A tropical greenhouse and garden showcasing thousands of flowering orchids in a rainforest setting, alongside exotic birds, fish, chameleons and Asian squirrels. The nature walk makes for an unusual Orlando stop well outside the theme park circuit. Located in Kissimmee, about 20 minutes south of International Drive.

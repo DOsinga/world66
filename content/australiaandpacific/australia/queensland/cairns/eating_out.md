@@ -3,15 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-As you can see, Cairns has to offer many sorts of cuisines. Ranging from Asian to Grill dishes, it won't be a problem to find something that suits your taste. A lot of cafes offer besides a place where you can devour an inexpensive meal, also a nice setting to spend the evening. Make sure you try the seafood - how fresh can it be? 
-
-## Categories
-
-[Continental](/australiaandpacific/australia/queensland/cairns/eatingout?subsection=Continental)
-[Italian](/australiaandpacific/australia/queensland/cairns/eatingout?subsection=Italian)
-
-[Grill](/australiaandpacific/australia/queensland/cairns/eatingout?subsection=Grill)
-[Asian](/australiaandpacific/australia/queensland/cairns/eatingout?subsection=Asian)
-
-[Seafood](/australiaandpacific/australia/queensland/cairns/eatingout?subsection=Seafood)
-[Cafes](/australiaandpacific/australia/queensland/cairns/eatingout?subsection=Cafes)
+Cairns punches above its weight for food, thanks to proximity to some of Australia's best seafood and a climate that grows tropical produce year-round. You will find everything from cheap backpacker feeds to serious restaurants along the Esplanade and around the marina. The Asian food is particularly good — the city has strong Thai, Japanese, and Vietnamese options. Do not leave without trying the local barramundi and mud crab.

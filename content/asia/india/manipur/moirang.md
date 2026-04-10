@@ -1,8 +1,12 @@
 ---
-title: "Moirang"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.500551
 longitude: 93.776748
+title: Moirang
+type: location
 ---
 
-South of Imphal, Moirang is one of the ancient villages of Manipur with a typical Mao character. As far as history goes, the traditional 'Moirang Lai Haraoba' is celebrated in the month of May. During the festival, hundreds of people dance and sing together in honour of Thangjing. At the time of World War II, Moirang was the headquarters of Azad Hind Fouz. This is also the place where Netaji hoisted the flag of the I.N.A for the first time on Indan soil. Moirang offers an I.N.A. memorial with the statue of Netaji Subhas Chandra Bose.
+Moirang is one of the oldest settlements in [Manipur](/asia/india/manipur), lying about 45 km south of [Imphal](/asia/india/manipur/imphal) on the shore of Loktak Lake. The town carries deep historical weight: during World War II it served as the headquarters of the Indian National Army, and it was here that Subhas Chandra Bose first raised the INA flag on Indian soil. The INA Memorial, with its statue of Bose and a small museum of wartime artefacts, is the main reason travellers stop here.
+
+Beyond the war history, Moirang is known for the annual Lai Haraoba festival in May, one of Manipur's most important traditional celebrations. Hundreds of people dance and sing together in honour of Thangjing, the local deity. The festival offers a rare window into Meitei culture that few visitors get to see.

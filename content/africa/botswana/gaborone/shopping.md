@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Gaborone"
+title: "Shopping"
 type: section
 ---
 

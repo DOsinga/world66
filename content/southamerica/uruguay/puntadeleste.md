@@ -1,8 +1,14 @@
 ---
-title: "Punta del este"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -34.9632
+longitude: -54.944
+title: Punta del Este
 type: location
-latitude: -34.963234
-longitude: -54.943998
 ---
 
-The tiny peninsula of Punta del Este, with its yacht harbor and expensive hotels, is Uruguay's most spectacular beach resort. There are two kind of beaches, one at the ocean side and one at the bay side. Each summer, this glamorous Atlantic town draws rich and famous tourists from Europe and South America. Apart form its fantastic beaches, the lively, chic resort of Punta del Este has superb food and scenery. The area is clean and not too pricey: a weekend would cost a couple about $200 (U.S.) for lodging and meals. All the Argentinean and Brazilian jet sets spend their summers ( Dec. to March )there. The nightlife is amazing. There are three casinos with the most beautiful women in the world. but be careful, there are drugs, too.
+Punta del Este is South America's most glamorous beach resort — a narrow peninsula jutting into the Atlantic where the Rio de la Plata meets the ocean. It has two very different coastlines: the sheltered bay side, calm and good for families, and the open ocean side, where waves roll in hard and the beautiful people go to be seen.
+
+From December to March, Argentine and Brazilian jet-setters fill the high-rises and beach clubs. Prices spike, traffic stalls, and the place hums with a particular kind of Latin energy that's hard to find anywhere else on the continent. Out of season, Punta becomes a quieter, more contemplative place — wide beaches largely to yourself, restaurants open and unhurried.
+
+The resort is compact and walkable. The main strip along Gorlero Avenue has shops and restaurants; the port area has good seafood and a constant parade of yachts. Nearby Casapueblo, the extraordinary white-washed artist's castle a few kilometres west at Punta Ballena, is worth the trip on its own.

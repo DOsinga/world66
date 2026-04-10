@@ -1,13 +1,14 @@
 ---
-title: "Satoraljaujhely"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 48.396098
 longitude: 21.65615
+title: Sátoraljaújhely
+type: location
 ---
 
-Once the town of the historic Zemplen county, Satoraljaujhely is situated - by the famous Hungarian poet, Sandor Petofi - "by the foot of the incomparably beautiful Sator hills". In 1261 it was granted town privileges by King Stephen the 5th. Due to its favourable geographic position, the town began to thrive as early as the Middle Ages.
-As part of the famous Hegyalja wine-producing region, Satoraljaujhely lay on the important commercial routes to Russia, Poland and Transylvania, as well as into the centre of Hungary. The town takes pride in significant historic traditions: Ferenc Rakoczi II was born in the nearby Borsi and Lajos Kossuth's political carrier was launched here. Ferenc Kazinczy, the famous neologist of the Hungarian language also worked in the town and in the nearby Szephalom.
+Sátoraljaújhely is Hungary's northernmost town, tucked against the Slovak border at the foot of the volcanic Zemplén Hills. The poet Sándor Petőfi described its setting as "incomparably beautiful," and the hills — often compared by visitors to a miniature Vesuvius — still dominate the view.
 
-Today Satoraljaujhely is the most northern Hungarian town. The number of its inhabitants is twenty thousand. At present, the commercial activities are on increase, but industry has failed to become dominant. The Zemplen region centre was lucky to preserve the area's clean air and natural environment. The shape of the neighbouring volcanic mountains is compared to the italian Vesuvius by visitors.
-There are only few places in Hungary for the lovers of winter sports, and the Magas-hill of Satoraljaujhely is a real Paradise in this respect, where sledge- and ski-tracks await visitors. The 1,333 metre long cable lift with seats, the so-called "libegő" is also available.
-The city centre has preserved the characteristic Upper Hungary small-town atmosphere. The image of the main square is shaped by the Roman Catholic Church, the Kossuth statue and the baroque *** Country Hall *** (today Town Hall). The water of the mountain springs comes from the Nymph-well, erected between the church and the Kossuth statue. Satoraljaujhely is a border crossing to the Republic of Slovakia.
+The town has been a regional centre since the 13th century, when King Stephen V granted it town privileges in 1261. Sitting on the trade routes between Russia, Poland, Transylvania and central Hungary, it thrived on the famous Tokaj-Hegyalja wine trade. Ferenc Rákóczi II was born nearby in Borsi, and Lajos Kossuth launched his political career here. The linguist Ferenc Kazinczy worked in the town and in neighbouring Széphalom, where his memorial stands today.
+
+Modern Sátoraljaújhely is a town of about twenty thousand people. Industry never became dominant, which has the happy side effect of preserving clean air and unspoiled countryside. The Magas-hegy above town is one of Hungary's few winter sports areas, with sledge and ski runs and a 1,333-metre chairlift. The main square retains its Upper Hungarian small-town atmosphere, shaped by the baroque County Hall (now the Town Hall), the Roman Catholic Church, and the Kossuth statue.

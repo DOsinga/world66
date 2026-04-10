@@ -3,14 +3,8 @@ title: "Eating Out"
 type: section
 ---
 
-**Gastronomy
+Portoferraio's restaurants lean heavily on seafood — this is an island, after all. The local specialty is **cacciucco**, a rich fish soup with tomatoes and stale bread that varies from kitchen to kitchen. You will also find squid cooked "alla diavola" (with chilli), rice blackened with squid ink, and stockfish prepared in the Riese style. Vegetable dishes hold their own too: **gurguglione**, a summer stew of courgettes, peppers, aubergine, and tomatoes, is the island's answer to ratatouille.
 
- **Elba's gastronomy is based upon simple dishes, dominated by fantasy, by the smart matching of ingredients and by country spices. In its tasty dishes seafood and vegetables are at their best: rice with squid's ink, squids "alla diavola" boiled octopus, "cacciucco" (fish soup), stockfish "riese style", vegetable "gurguglione", "sburita"" of stockfish, wild fennels "risotto".
+For dessert, look for **schiaccia briaca** — a dense, dark cake made with pine nuts, sultanas, and Aleatico wine. The local wines carry the Elba DOC label: a crisp white Procanico and a light red Sangioveto for the table, and the sweet Aleatico and Moscato to finish.
 
- **The typical desserts** are: "schiaccia briaca" rich in pine kernels, sultanas and aleatico wine, that gives its typical colour; the "corollo" a sweet pastry of eggs, sugar
-
-   and aromas; the crispy, simple and tasty "schiacciunta", the puffy "schiaccia pasquale", made teasing by aniseeds.
-
- The ** wines of Elba** enjoy a long tradition. Plinio the Old describes it as "lnsula vini ferax". The Elban wines, during the Middle Age, cheered up the Pope's tables and, during the 18th century, ships carried it to the most important harbours of Europe.
-
- "Elba bianco" and "Elba rosso" are the classic wines, and they carry the "controlled origin" tag. The '"Procanico" ( white ) and the "Sangioveto" ( red ) are the more robust, the "Aleatico" and the " Moscato" accompany desserts in an ideal way.
+The harbour front has the most options but also the highest tourist markup. For better value, try the lanes behind Piazza della Repubblica or ask at your accommodation — the locals eat well and they know where.

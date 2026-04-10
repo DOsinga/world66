@@ -1,32 +1,16 @@
 ---
-title: "Yarmouth"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 41.7059
 longitude: -70.2286
+title: Yarmouth
+type: location
 ---
 
-Three villages make up the 17 square mile town of Yarmouth Cape Cod:
-West Yarmouth, Yarmouthport, and South Yarmouth. Each village has a
-distinctive character formed by over 350 years of history. A community
-shaped by its seaside heritage, Yarmouth has retained much of historic
-charm while integrating the present into its surroundings. To gain a
-true perspective of our town you must stray from the major roadways of
-Route 6 and 28 that traverse from Hyannis to the West and Dennis to the
-East. Yarmouth is the second oldest town on Cape Cod, and it is filled
-with historic charm.
+Yarmouth is actually three villages folded into one Cape Cod town: Yarmouthport on the bay side, and West Yarmouth and South Yarmouth along the south shore. They have almost nothing in common in feel, which is part of what makes the place interesting.
 
-Yarmouth's
-rich history has grown a Cape Cod seaside community that offers a
-potpourri of activities for area vacationers. For the outdoor minded,
-Yarmouth boasts 15 of Cape Cod’s finest fresh and saltwater beaches to
-laze away the days, 4 golf courses challenging all levels, 14 tennis
-courts for the more active, and many hiking, and conservation trails.
-Yarmouth, Cape Cod truly has something for everyone. On the Northside
-in Yarmouth Port, tree lined historic Route 6A hosts an array of
-country inns and quaint bed & breakfasts, complemented by antique
-and craft shops. The Southside along Route 28 offers the hustle and
-bustle of a summertime resort town, from factory outlet shopping to sea
-lion shows to the most adventurous mini-golf. Nightlife in Yarmouth is
-filled with moonlight walks on Cape Cod’s most beautiful beaches,
-candle lit dinners at the area's many restaurants, and dancing to music
-for all ages at one of several clubs.
+Yarmouthport, on the quieter north shore, is old Cape Cod — tree-lined Route 6A, a handful of antique dealers, weathered sea captains' houses, and a working general store. This is the village worth slowing down for. The south shore along Route 28 is a different world: mini-golf, go-karts, shops selling salt-water taffy, and the kind of summer-resort bustle that families with young kids tend to love and everyone else either tolerates or avoids.
+
+The town has 15 beaches between them — salt marshes, kettle ponds, and open Atlantic — plus some good conservation trails through the wooded interior. Bass Hole Boardwalk in Yarmouthport stretches out over a tidal marsh toward the bay and is worth the short walk, particularly around sunset.
+
+Yarmouth sits between Hyannis to the west and Dennis to the east, making it a convenient base if you're working your way along the Cape rather than a destination in itself. That said, Yarmouthport alone is worth a stop for anyone who wants to see what Cape Cod looked like before the strip malls arrived.

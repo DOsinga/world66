@@ -1,15 +1,16 @@
 ---
-title: "Bran"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 45.516329
 longitude: 25.371567
+title: Bran
+type: location
 ---
 
-The little homestead of Vlad Tepes', also known as Dracula, Bran Castle, is one of the top attractions in Transsylvania and easily reached from [Brasov](/europe/romania/brasov). Although there are no historic sources linking the famous count with the sharp teeth to the castle, popular belief and travel writers have it that this is the place. Whatever you think, it definately is a pretty nice castle and a must see if you are around.
+Bran Castle is one of the top attractions in Transylvania and easily reached from [Brasov](/europe/romania/brasov) by bus in about half an hour. Although there are no historic sources linking Vlad Tepes — the real-life inspiration for Bram Stoker's Dracula — to this particular castle, popular belief has firmly attached the legend to it. Whatever you make of the Dracula connection, this is a genuinely striking castle perched on a rocky outcrop, and well worth the visit.
 
+Construction began around 1378, combining wood with stone quarried from Magura Branului. The castle served both a defensive and commercial purpose, guarding the mountain pass between Transylvania and Wallachia. Over the centuries it was expanded by Prince Gabriel Bethlen, who added towers and the main gate. The old observatory tower, dated 1622, shows a distinctly Romanian architectural style.
 
- The building of Bran Castle started somewhere around the year 1378. The constructors somehow succeeded in combining wood with the rock brought from Magura Branului. The castle had a protective and commercial purpose. 
+In the 1920s and 1930s, Queen Marie of Romania turned Bran into a royal residence. Fire holes became windows, the well shaft was converted into an elevator room, and medieval stoves gave way to fireplaces. Today the castle operates as a museum displaying Queen Marie's art and furniture collection, alongside exhibits on the castle's medieval history.
 
-
- While the centuries passed by changes have been made to the castle. Many of the changes and reparations have been made by the prince Gabriel Bethlen. He added another rectangular tower, a square tower with two floors and the actual gate. The old observatory tower, dated 1622, shows the Romanian architectural style. 
- During 1920-1930 other changes have been made. The fire holes turned into windows, the well into the elevator's room and the stoves into fireplaces. There have been added towers to the stairs and it was built in wood the fourth floor.
+The village of Bran itself is small but lively, with a market selling souvenirs, local cheeses, and handmade woolens right outside the castle gates. The surrounding Bucegi Mountains offer good hiking if you want to spend more than an afternoon in the area.

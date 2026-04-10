@@ -3,6 +3,4 @@ title: "Day Trips"
 type: section
 ---
 
-**Mystical Cachi**
-
-This tour begins in the Lerma Valley, then going through the dense mountain jungle in Los Laureles and reaching the Escoipe Gorge and La Cuesta del Obispo (Bishop’s Slope), which is a mountain path that leads to Piedra del Molino, at 3348 m.a.s.l. After this, Los Cardones National Park. Then, the picturesque town of Cachi where have to visit the Archaeological Museum (it houses vestiges of several native cultures of the region, since its first inhabitants) and the Church. in the afternoon come
+The countryside around Salta is extraordinary and easy to explore. The classic route heads south-west through the Escoipe Gorge, climbs the Cuesta del Obispo to 3,348m, skirts Los Cardones National Park with its giant cacti, and drops into the Calchaquí Valley to reach the small colonial town of Cachi — a full day but one of the best drives in Argentina. North of Salta, the Quebrada de Humahuaca offers dramatic gorge scenery and the UNESCO-listed village of Purmamarca, famous for its Hill of Seven Colours.

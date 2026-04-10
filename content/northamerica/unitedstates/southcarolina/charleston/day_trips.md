@@ -1,11 +1,6 @@
 ---
-title: "Day Trips in Charleston"
+title: "Day Trips"
 type: section
 ---
 
-Fort Sumter
-
-One of the most popular of Charleston attractions is Fort Sumter, which is probably best known as the site where the first shots of the American Civil War took place. Situated on a small island in Charleston Harbor, it is only reachable by boat. It was built shortly after the War of 1812, and the structure stands on 70,000 tons of granite that were imported from New England to create a sand bar at the entrance to the harbor for the five-sided structure. Fort Sumter can be reached by ferry from the Fort Sumter Visitor Education Center located in downtown Charleston.
-
-**Contributors**
-May 26, 2009
+The **Ashley River plantations** — Magnolia, Middleton Place, and the starkly beautiful Drayton Hall — are 30–40 minutes' drive northwest of the city and each offers a different perspective on Lowcountry history and the lives of the enslaved people who built it. The beach towns of **Sullivan's Island** and **Folly Beach** are half an hour east, with Atlantic surf and relaxed seafood shacks. Further afield, historic **Beaufort** and the **ACE Basin** wetlands make a long but rewarding day trip down the coast.

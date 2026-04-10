@@ -1,5 +1,5 @@
 ---
-title: "Things to do in Ullal"
+title: "Things to Do"
 type: section
 ---
 

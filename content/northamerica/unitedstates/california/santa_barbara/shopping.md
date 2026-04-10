@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Santa Barbara"
+title: "Shopping"
 type: section
 ---
 
-**Santa Barbara shopping** will give you an unforgettable experience.
+State Street is the main shopping artery, running through downtown with boutiques, antique shops, and chain stores. Paseo Nuevo and La Arcada are the main covered shopping centres. For antiques, check Antique Alley on State Street and Antique Market Place on Ortega Street.
 
 **Downtown Santa Barbara**
 

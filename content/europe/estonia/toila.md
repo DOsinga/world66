@@ -1,19 +1,12 @@
 ---
-title: "Toila"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 59.4209
+longitude: 27.5133
+title: Toila
 type: location
-latitude: 59.420903
-longitude: 27.513252
 ---
 
-Travel Guide
+Toila is a small seaside town on the cliffs of northeast [Estonia](/europe/estonia), about 40 kilometres west of Narva and 10 kilometres from Jõhvi. It is a popular weekend escape for Estonians — a quiet, green place set above a dramatic stretch of coastline where the North Estonian Klint drops sharply to the sea.
 
-Toila is a small town in North-East Estonia. It's situated about
-40km west from Narva and 10 km northeast from the town of Jõhvi.
-
-It's a popular place for weekend breaks and holidays, especially with Estonians nearby.
-The impressive
-Valaste waterfall is located near Toila.
-**
-More information **about Toila can be found on the official
-tourist
-information website of Estonia: http://www.visitestonia.com/en/articles/destinations/the-coastline/toila
+The main draw is Toila-Oru Park, a landscaped cliff-top park that once surrounded a grand manor house (destroyed in the Second World War). The park's terraced gardens, winding paths, and views down to the rocky beach are worth the visit. Nearby, the Valaste waterfall — at over 30 metres, the highest in Estonia — cascades over the limestone cliff edge, most impressively during spring snowmelt.

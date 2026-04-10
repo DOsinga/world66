@@ -1,27 +1,6 @@
 ---
 title: "Getting There"
 type: section
-address: "8500 Peña Boulevard, Denver, Colorado"
-phone: "303-342-2000"
-type: "By Air"
-url: "www.flydenver.com"
-latitude: 39.860668
-longitude: -104.685367
 ---
 
-### [Denver International Airport](/northamerica/unitedstates/colorado/denver/gettingthere/denver_internation)
-
-Built ten years ago on the plains outside of Denver, Denver International Airport (airport code DEN) has birds in the atrium of terminals and art in the inter-terminal tram tunnels. During busy hours, baggage can take a while to collect and the trams are very crowded. Make sure you arrive at the airport at least an hour early when you are flying out--there is sometimes a very long wait for security, check-in lines are long, and they won't let you check in inside half an hour of your flight.
-
-**Bus to Downtown**
-Take the AF for $8 to Market [more..](/northamerica/unitedstates/colorado/denver/gettingthere/denver_internation)
-
-type: By Air
-
-
-
-tel: 303-342-2000
-
-url: www.flydenver.com
-
-address: 8500 Peña Boulevard, Denver, Colorado
+Denver International Airport (DEN) is the main gateway, about 40 km north-east of downtown. The airport's A-line commuter rail connects to Union Station in the city centre in about 37 minutes. Denver is also well connected by Amtrak (California Zephyr to Chicago and San Francisco) and interstate highways — I-70 from the east and west, I-25 from the north and south.

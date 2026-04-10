@@ -1,11 +1,12 @@
 ---
-title: "Vallorbes"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 46.051918
 longitude: 6.948309
+title: Vallorbes
+type: location
 ---
 
-Situated northwest of Lausanne, nearly at the French border, is the town of Vallorbes. Above the town is a very interesting site which stood ready to protect the Swiss homeland from invasion. The Fort de Pré-Giraud is a fortress inside a mountain, disguised as a Swiss chalet, complete with artillery and capable of housing over 100 men.
+Vallorbes is a small town in the Jura mountains northwest of Lausanne, sitting right on the French border. It has long been a crossing point between the two countries, and the railway tunnel linking Switzerland to France emerges here.
 
-**Contributors**
-April 09, 2006
+The town's most unusual attraction is the Fort de Pré-Giraud, a Cold War–era fortress built inside a mountain and disguised on the outside as a Swiss chalet. Inside, artillery positions and living quarters for over 100 soldiers are preserved as they were when the fort was operational. The Grottes de Vallorbes, a cave system carved by the River Orbe, is also worth visiting — the underground formations are impressive and the cave entrance dramatically set in a cliff face.

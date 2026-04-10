@@ -1,16 +1,12 @@
 ---
-title: "Lichtenfels"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.14568
 longitude: 11.06382
+title: Lichtenfels
+type: location
 ---
 
-Travel Guide
+Lichtenfels is a small, peaceful town of about 20,000 people in Upper Franconia, midway between [Bamberg](/europe/germany/bavaria/bamberg) and Coburg on the River Main. It calls itself the basket-making capital of Germany and still has a college dedicated to the craft.
 
-Lichtenfels is a small peaceful town between Bamberg and Coburg with about 20.000 inhabitants.
-
-It is the basket making capital of Germany with college to teach the subject.
-
-It is also a railway junction on the line from Bamberg to Bayreuth so it is easy to get to by rail.
-
-Its two main tourist attractions apart from the town itself are the baroque Vierzehnheiligen (14 angels) church and the Kloster Banz monastery which sit on the skyline on either side of the valley of the River Main which flows through the town.
+The town's two main draws sit on opposite sides of the Main valley, framing it like a pair of bookends: the Baroque pilgrimage church of Vierzehnheiligen (Fourteen Saints) on the eastern ridge, and the monastery of Kloster Banz on the western one. Both are worth the detour. Lichtenfels is also a railway junction on the Bamberg–Bayreuth line, making it easy to reach by train.

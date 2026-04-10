@@ -1,56 +1,33 @@
 ---
-title: "Bars and Cafes in Oostende"
+title: "Bars and Cafes"
 type: section
-address: "Louisastraat 19"
-phone: "+32 59 70 09 28"
 ---
 
-Good bars in Oostende are scarce and scattered over the city.
+The Langestraat is the main strip for a night out — bars of all kinds, busy on weekends year-round. Elsewhere the options are scattered but rewarding if you know where to look.
 
-### ['t Botteltje](/europe/belgium/oostende/bars_and_cafes/den_artiest)
+### 't Botteltje
 
-The biggest beer house in the city, serving **230 beers. **Very crowded, but very cosy.
-
-
-
-[[rate it]](/europe/belgium/oostende/bars_and_cafes/den_artiest)
+The biggest beer house in the city, serving 230 beers. Very crowded, but very cosy.
 
 tel: +32 59 70 09 28
-
 address: Louisastraat 19
 
-### [Den Artiest](/europe/belgium/oostende/bars_and_cafes/den_artiest_1)
+### Den Artiest
 
-Popular bar among all ages, with an excellent grill kitchen open until 02h00. Art exhibition on first floor and regular rock concerts.
+Popular bar across all ages, with a grill kitchen open until 02h00. Art exhibition on the first floor and regular rock concerts. [www.denartiest.be](http://www.denartiest.be)
 
-H ttp://www.denartiest.be/home.html
-
-
-
-[[rate it]](/europe/belgium/oostende/bars_and_cafes/den_artiest_1)
-
-tel: +32/59/808889
-
+tel: +32 59 80 88 89
 address: Kapucijnenstraat 13
 
-### [Tati's Jazz Club](/europe/belgium/oostende/bars_and_cafes/tatis_jazz_club)
+### Tati's Jazz Club
 
 One of the few jazz clubs in Ostend. Check for opening hours.
 
-
-
-[[rate it]](/europe/belgium/oostende/bars_and_cafes/tatis_jazz_club)
-
 address: Langestraat 71
 
-### [Celtic Ireland](/europe/belgium/oostende/bars_and_cafes/celtic_ireland)
+### Celtic Ireland
 
-Very large Irish Pub. Inside ear-damaging loud, but a nice terrace on summer evenings.
+Very large Irish pub. Inside it gets ear-damagingly loud, but the terrace is pleasant on summer evenings.
 
-
-
-[[rate it]](/europe/belgium/oostende/bars_and_cafes/celtic_ireland)
-
-tel: 059/518.599
-
+tel: +32 59 51 85 99
 address: Langestraat 67

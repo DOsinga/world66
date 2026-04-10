@@ -1,30 +1,16 @@
 ---
-title: "Hov"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 61.506936
 longitude: -6.755742
+title: Hov
+type: location
 ---
 
-Travel Guide
+Hov is a village of around 100 people on the east coast of [Suðuroy](/europe/faroeislands/suuroy), the southernmost island of the [Faroe Islands](/europe/faroeislands). It sits between Porkeri and Øravík, connected to the latter by a road tunnel since 2007. Small as it is, Hov has a surprisingly deep history.
 
-Hov is a village in the centre of the island Suðuroy. The population is around 100. Hov is located on the east coast of the island, between the villages Porkeri and Øravík. There is a large new building just south of Hov which is a school center with the Suduroy High School and the Faroe Islands Health School.
+In the Viking age, Hov was an important seat of power. Chieftain Hovgrímur ruled over roughly half the Faroe Islands from here. He was killed in a fight on the island of Stóra Dímun, battling Brestir Sigmundsson — both men died. Hovgrímur's grave can be seen on the hillside above the village: two piles of rocks with no tombstone. Tradition says the chieftain lies under one pile and his horse under the other.
 
-**Viking History**
+West of the village, the valley of Ergidalur has a name believed to be of Celtic origin, suggesting Irish settlers were here before the Vikings arrived.
 
-In the Viking Ages Hov was an important center. Chieftain Hovgrímur had his residence there, he ruled over ca. half of the islands over a period. He was killed in a fight on the island Stóra Dímun while fighting with Brestir Sigmundsson, they both died. The grave of Havgrímur can be seen above Hov. There is no tombstone, but two piles of rocks. Tradition says, that the Chieftain Hovgrímur is buried below one of the piles and his horse is buried below the other pile.
-
-**Celtic History**
-
-West of Hov there is a valley which is called Ergidalur. The names is believed to have Celtic origin. It is believed that Irish people had their residence there before the Vikings came.
-
-**Columnar Basalt**
-
-Further up on the mountain on the northern side of Hov, there are some curious columnar basalt formations just next to the road in Hovsegg. There is a good view over the village and over the southern part of the island from this spot.
-
-**The Museum, Fish Place and Café in the Harbour **
-
-Down in the harbour there is a little museum and café, both in the same building, which used to be a local shop. Outside the museum one can see an area with flat stones, where the local people used to work with drying fish by laying them on these stones and then collecting them again.
-
-**The Tunnel between Hov and Øravík**
-
-Hov was connected with Øravík by a two lane road tunnel in 2007. Before that the road went up above the mountain and made transport a difficult task in winther time, it is much easier to travel now.
+On the mountainside north of Hov, the columnar basalt formations at Hovsegg are worth a stop — curious geological pillars with a fine view over the village and the southern part of the island. Down in the harbour, a small museum and cafe occupy what used to be the local shop. Outside, flat stones where fish were once laid out to dry remain as a reminder of the village's fishing past.

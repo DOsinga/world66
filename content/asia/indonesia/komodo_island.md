@@ -1,18 +1,16 @@
 ---
-title: "Komodo Island"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -8.589191
 longitude: 119.462412
+title: Komodo Island
+type: location
 ---
 
-Travel Guide
+Komodo Island is a small, rugged island of about 280 square kilometres between Sumbawa and Flores in the Lesser Sunda chain. It is famous for one thing: the Komodo dragon (*Varanus komodoensis*), the world's largest living lizard, which reaches lengths of three metres and has roamed these islands for hundreds of thousands of years.
 
-A small island of 280 km², Komodo Island is located between Sumbawa Island and Flores Island. Almost entire Komodo Island are hills and barren, except palm tress and woods. This island is famous with its giant lizards which are considered the last of their kind remaining in the world today. To many modern naturalists, East Nusa Tenggara is particularly interesting because of its unique species, called the komodo dragon (Varanus komodoensis).
+The island is part of Komodo National Park, a UNESCO World Heritage Site that also includes the neighbouring islands of Rinca and Padar. Rinca actually offers better odds of seeing dragons up close, but Komodo is the original and most atmospheric setting — barren hills, lontar palms, dry savannah, and a single fishing village. Rangers lead guided walks to the feeding areas where dragons gather; going without a guide is not permitted.
 
-The local people call the animal: ora. It is a giant lizard with 3-4 meters length whose ancestors roamed the earth about half a million years ago.
+The waters around the island are as impressive as the land. The coral reefs are among the richest in Indonesia, with strong currents that bring big pelagics — manta rays are regularly seen at nearby dive sites. Snorkelling from the beaches is good, and the pink-sand beach on the island's east coast is one of the more unusual sights in the archipelago.
 
-Komodo lives by eating carcasses of goats, deer, and even of its own kind. The only human population in this island live in fishermen village. They also breed goats which are used to feed the giant lizards.
-
-Komodo is protected by law and though they are considered harmless, it is advisable to keep them at distance. Komodo is now preseved at national park. The national park is home to a number of rare species, deer, and wild pigs, which are prey to the lizards.
-
-To see komodo at day time, baits have to be set in the hinterland where local guides are needed. The sea surrounding the island offers sea life, crystal clear water, and white sandy beaches. The only accommodation available is simple guest houses in the fishermen village. It is advisable to carry food supplies. The best time to visit the island is between March and June, and between October and December. Komodo Island is accessible only from sea. From Labuan Bajo, visitors can travel to the island by boat about 3-4 hours.
+The best months to visit are April through June and September through December — the dry season, when boat crossings from Labuan Bajo on Flores (3–4 hours) are most reliable. Accommodation on the island is basic; most visitors stay in Labuan Bajo and make day trips.

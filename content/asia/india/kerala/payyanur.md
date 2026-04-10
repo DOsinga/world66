@@ -1,8 +1,10 @@
 ---
-title: 'Payyanur'
+title: Payyanur
 type: location
 latitude: 12.091893
 longitude: 75.195176
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Payyanur is a small town in the Kannur district of northern Kerala, set in the valley of the Ezhimala Hills. Its name derives from the Sri Subrahmanya Swami Temple here, "Payyan" being an appellation of Lord Subrahmanya.

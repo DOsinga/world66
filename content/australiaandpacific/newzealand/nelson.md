@@ -1,54 +1,16 @@
 ---
-title: "Nelson"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -41.271085
 longitude: 173.283676
+title: Nelson
+type: location
 ---
 
-**Welcome to Nelson** 
+Nelson sits at the top of the South Island, where the Southern Alps drop down to a wide coastal plain and three national parks press in from different directions. It is one of the sunniest places in New Zealand — the region consistently records the country's highest sunshine hours — which goes some way to explaining the produce, the art, and the general mood of the place.
 
-Discover the creative paradise that is Nelson - an irresistible blend of lifestyle and stunning landscape at the top northwest corner of the South Island. 
+The three parks define the region as much as the town itself. Abel Tasman National Park runs along the coast to the northwest, all golden beaches and clear water, reachable by water taxi or on foot along the coastal track. Kahurangi is the big one to the west — New Zealand's second-largest park, with the Heaphy Track cutting through it. Nelson Lakes lies to the south, a quieter, more alpine place of beech forest and glacial lakes. Between them they give you a lot to do.
 
-From the northern edge of the Southern Alps across the fertile plains and out to a great sweep of beaches, our place is beautifully laid out under a generous sun that delivers New Zealand's highest sunshine hours. 
+Nelson has a genuine arts scene rather than a manufactured one. More than 350 working artists live in the region, and the density of studios, galleries, and craft workshops is high enough that you can spend a day just wandering between them. The World of WearableArt show started here — it has since moved to Wellington, but the museum in Nelson still houses the spectacular creations from past competitions. The surrounding hills and river valleys have also become known for wine, particularly aromatic whites.
 
-**The Big Picture - Geography** 
-
-The Nelson region covers five distinct geographic areas: 
-
-the alpine lakes and rivers around Nelson Lakes & Murchison including Nelson Lakes and Kahurangi national parks 
-
-the heart of the parks, Golden Bay between Kahurangi and Abel Tasman National Parks 
-
-the idyllic coastline of the Abel Tasman National Park 
-
-the highways of Mapua, Motueka, Moutere, through the horticultural land 
-
-and the urban centres of Nelson & Richmond People 
-
-Nelson and Richmond's combined population of 53,000 ranks it as New Zealand's 10th most populous city. 
-
-Maori occupation dates back some 800 years, while European settlement occurred in 1842. Six Iwi groups claim ancestral occupation rights, or rights of conquest over areas in this region. These are Ngati Koata, Ngati Rarua, Ngati Tama, Te Atiawa, Ngati Kuia and Ngati Toa. 
-
-Today Nelson is made up of Kiwis and increasing numbers of immigrants from the UK, Germany, America and further afield. 
-
-**Economy** 
-
-The Nelson economy is based on the 'big four' industries; seafood, horticulture, tourism and forestry. Port Nelson is the biggest fishing port in Australasia. There are also with a range of growth industries, including art and craft, aviation, engineering technology, and information technology. 
-
-**Recreation **
-
-Sport: Nelson loves sport and the outdoors, with many outdoor adventure opportunities from sea kayaking to rocking climbing. There is a network of sporting activities at a local level. 
-
-Wilderness: The region is known for its stunning scenery and three national parks, Abel Tasman National Park, Kahurangi National Park and Nelson Lakes National Park. 
-
-Wineries: Growing numbers of vineyards and wineries have created an international reputation for fine Nelson wines. 
-
-Arts: Nelson is home to over 350 working artists and the World of WearableArt & Collectable Cars Complex. 
-
-**Transport and Getting Around** 
-
-Nelson airport is the 4th busiest in New Zealand. Two airlines operate out of Nelson, Origin Pacific and Air New Zealand. 
-
-Visitors and residents enjoy small town informality and friendliness with a lifestyle that also offers the finer things in life!
-
-**Courtesy:** Latitude Nelson
+The town itself is small and walkable, with a relaxed provincial feel. Port Nelson is the largest fishing port in Australasia, which keeps things practical and grounded even as the cafe culture and art scene thrive. It is a good base for the parks and coast, and easy enough to reach — the airport is the fourth busiest in New Zealand.

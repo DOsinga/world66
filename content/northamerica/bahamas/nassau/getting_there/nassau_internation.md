@@ -1,19 +1,8 @@
 ---
-title: "Nassau International Airport"
+title: "Lynden Pindling International Airport"
 type: poi
-address: "PO Box AP, 59222, Nassau, Bahamas"
+address: "Nassau, New Providence Island, Bahamas"
 phone: "+1 242 377 7281"
-type: "By Air"
 ---
 
-There are flights from Miami, other towns, the inter-islands and elsewhere to the Nassau International Airport on the New Providence Island. It is 10 miles or 16 kilometers from the city of Nassau reachable by taxi and hotel courtesy buses that drive on the left side of the street! Or you can rent a car. There are rest rooms, a bar with television and a restaurant. Lots of internet facilities are available, as well as ATMs, foreign exchange, banking, gift stores, luggage storage and disabled visitor access. Not to mention the post office, tourist information desk and the newsagent.
-
-type: By Air
-
-
-
-
-
-tel: +1 242 377 7281
-
-address: PO Box AP, 59222, Nassau, Bahamas
+Nassau's main airport, about 16 km west of the city center. Direct flights from Miami, other US cities, Canada, and inter-island routes. Taxis and hotel shuttles connect to downtown; note that traffic drives on the left. The airport has ATMs, foreign exchange, a restaurant, bar, luggage storage, and a tourist information desk.

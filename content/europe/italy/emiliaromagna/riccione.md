@@ -1,8 +1,10 @@
 ---
-title: 'Riccione'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.998274
 longitude: 12.647437
+title: Riccione
+type: location
 ---
 
 Riccione, known as the Green Pearl of the Adriatic, is a small but lively resort on the coast south of [Rimini](/europe/italy/emiliaromagna/rimini).

@@ -1,15 +1,8 @@
 ---
 title: "El Tirano"
 type: poi
-address: "Margarita northeast"
-latitude: -13.009849
-longitude: -38.488049
+latitude: 11.1410
+longitude: -63.8710
 ---
 
-A relatively small beach, but very pleasant and not so crowded. The best part is used by the guests of the Barceló Pueblo Caribe hotel.
-
-
-
-
-
-address: Margarita northeast
+A smaller beach on the northeast coast, quieter and less crowded than nearby Playa El Agua and Parguito. The sand is good and the water is pleasant, though part of the beachfront is used by resort guests.

@@ -1,8 +1,10 @@
 ---
-title: "Ha'apai Group"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -19.75
 longitude: -174.35
+title: Ha'apai Group
+type: location
 ---
 
 Ha'apai is the middle island group of Tonga — a low-lying archipelago of about 62 islands, mostly tiny, spread across a wide lagoon. It is the quietest and least-visited of Tonga's main island groups, which is its main appeal. The infrastructure here is genuinely basic: a few guesthouses, limited restaurants, and patchy communications.

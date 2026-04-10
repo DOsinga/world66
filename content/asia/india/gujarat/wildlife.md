@@ -1,30 +1,12 @@
 ---
-title: 'Wildlife'
-type: section
+title: "Wildlife"
+type: location
+latitude: 21.2456
+longitude: 70.8215
 ---
 
-Gujarat has a remarkable diversity of wildlife habitats -- from the dry deciduous forests of Gir to the salt marshes of the Rann, the wetlands of Nal Sarovar to the coral reefs of the Marine National Park. Several species found nowhere else in the world survive here.
+Gujarat offers a remarkable diversity of habitats for wildlife enthusiasts, from deep teak forests and arid grasslands to coastal wetlands and marine ecosystems. The state is home to several species found nowhere else in India in such concentrations, including the Asiatic lion, the Indian wild ass, and the four-horned antelope.
 
-### Gir National Park
+The flagship destination is [Gir National Park](/asia/india/gujarat/wildlife/girnationalpark), the last refuge of the Asiatic lion, but Gujarat's network of sanctuaries extends well beyond Gir. Blackbuck National Park near Bhavnagar shelters over 1,500 blackbuck, while the Rann of Kutch's Wild Ass Sanctuary protects India's last population of the Indian wild ass across vast salt flats. Nalsarovar Bird Sanctuary, just an hour from Ahmedabad, draws migratory flamingos and pelicans each winter.
 
-The only place in the world outside Africa where you can see lions in the wild. The Asiatic lion population has recovered from just 15 animals around 1910 to over 600 today. The forest also shelters leopards, sambar deer, spotted deer, nilgai, the unique four-horned antelope (chowsingha), and marsh crocodiles at Kamleshwar Dam. Excellent birdwatching too. Contact: Deputy Conservator of Forests, Sasan. Phone: +91-2877-85541.
-
-### Wild Ass Sanctuary
-
-In the Little Rann of [Kutch](/asia/india/gujarat/kutch), this sanctuary protects the Indian wild ass along with blue bulls, blackbuck, chinkara gazelles, jackals, and wolves. Contact: Deputy Conservator of Forests, Dhrangadhra. Phone: +91-2754-23016.
-
-### Blackbuck National Park
-
-Near Bhavnagar, this park has over 1,500 blackbuck and is one of the best places to see these graceful antelopes. Contact: Deputy Conservator of Forests, Bhavnagar. Phone: +91-278-428644.
-
-### Marine National Park
-
-Near [Jamnagar](/asia/india/gujarat/jamnagar), India's first marine sanctuary. At low tide you can walk among the coral reefs and see sponges, sea urchins, octopuses, and marine creatures that blur the line between plant and animal. Contact: Conservator of Forests, Marine National Park, Jamnagar. Phone: +91-288-552077.
-
-### Nal Sarovar Bird Sanctuary
-
-A vast wetland about 60 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), home to over 250 species of migratory birds from November to February, including flamingos, pelicans, and cranes from Siberia and Europe.
-
-### Other Sanctuaries
-
-**Narayan Sarovar Chinkara Sanctuary**, **Shoolpaneshwar Wildlife Sanctuary**, **Vansda National Park**, **Thol Wildlife Sanctuary**, and **Porbandar Bird Sanctuary** are all worth visiting for wildlife enthusiasts with more time.
+For something different, the Marine National Park in the Gulf of Kutch protects coral reefs, sea turtles, and octopuses along 42 islands -- one of the few places in India where you can walk on exposed reef beds at low tide.

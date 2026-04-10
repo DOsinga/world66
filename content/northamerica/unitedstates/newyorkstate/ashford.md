@@ -1,8 +1,10 @@
 ---
-title: "Ashford"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.41
+longitude: -78.59
+title: Ashford
 type: location
-latitude: 31.183832
-longitude: -85.235844
 ---
 
 Travel Guide

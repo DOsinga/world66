@@ -3,8 +3,8 @@ title: "Getting Around"
 type: section
 ---
 
-The first thing you notice when you come out of Charbagh Railway station is the ear peircing noise and choking smoke of "tempo", a cross between Auto-Rickshaw found every where in India and four wheelers. It takes 6 - 10 people at unbelievable cheap rates to all corners of Lucknow.
+Lucknow's transport is chaotic but functional. Auto-rickshaws are the most practical option for getting across the city — agree on the fare before you get in. Shared tempos (oversized auto-rickshaws seating six to ten people) run fixed routes at very low fares and are the workhorse of the local transport system.
 
-Don't ever even think of venturing out in the mass transport, the buses. You may never reach the destination.
+Cycle rickshaws are still common, especially in the bazaar areas of Aminabad and Chowk where motorised traffic can barely move. They are slower and a bit more expensive than tempos, but a far more pleasant way to take in the old city.
 
-You want to enjoy roads and travelling in Lucknow or for that matter anywhere in Uttar Pradesh, take cycle rickshaw...or simply riksha. Slow, a little costlier than tempos...they are fun to travel in. Places like Aminabad and other shopping areas, they move with front touching the back of the other one. You'd be surprised to see sometimes upto 5 people on one rickshaw !!!
+The city bus network exists but is crowded and unreliable. For longer distances or airport transfers, app-based ride services (Ola, Uber) work well and are the most comfortable option.

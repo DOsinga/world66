@@ -1,11 +1,9 @@
 ---
-title: "Magpie and Stump ."
-type: location
-type: "general"
-latitude: 51.176518
-longitude: -115.572197
+title: "Magpie and Stump"
+type: poi
+category: "Bar"
+latitude: 51.1765
+longitude: -115.5722
 ---
 
-Western cantina. Tel: 1 403 762-4067 Address: 203 Caribou St.
-
-type: general
+A western cantina at 203 Caribou Street. Relaxed and unpretentious, with a good selection of drinks and a casual crowd.

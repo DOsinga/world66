@@ -1,14 +1,14 @@
 ---
-title: "Benjosa"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 33.7833
+longitude: 73.7167
+title: Banjosa
 type: location
 ---
 
-Travel Guide
+Banjosa is a hill resort in Azad Kashmir, perched at around 1,980 meters in the forested hills above [Rawalakot](/asia/pakistan/azad_kashmir/rawala_kot). Its centrepiece is a tranquil artificial lake ringed by dense pine and oak forest — one of the few genuinely peaceful retreats in this part of Pakistan.
 
-An excellent place to visit especially during summer.It is accessible from Rawalakot, Palandri, Hajira & Sarsawa (Kotli). A nice lake surrounded by greenish plains and trees.
+The lake and surrounding woodland are at their best in summer, when the temperatures are mild and the meadows are green. Families and day-trippers come up from Rawalakot, about 20 kilometres away, and from [Palandri](/asia/pakistan/azad_kashmir/pallandri) and [Hajira](/asia/pakistan/azad_kashmir/hajira) further south. The approach roads wind through attractive scenery; the journey itself is part of the appeal.
 
-It is Situated 20 kilometers from Rawalakot , at an altitude of 1981 meters. Its scenic beauty and impressive surrounding is compelling and attracts tourists to reach here to enjoy the nature for a possible comeback. Amidst the captivating beauty of Banjosa the artificial lake reflects the dense forest standing along the surrounding of of the resting calm waters of Banjosa lake.
-
-The nearby worth seeing areas of Banjosa are Jandali , Hussain kot and Devi gali which can't be simply bypassed for a pleasure trip. The distance parting the destinations from Banjosa are 3 kms, 4kms and 12 kms respectively. These places portray rich inherent natural beauty encompassing all others while awaiting visitors for a comfortable stay. Also, Ghorimar is situated 20 kms from Khaigala awaiting ones arrival to explore the fascinating beauty over-looking the sub-valley of Rawalakot and Bagh.
-
-Accommodation on reasonable rates is available here in Tourism, PWD , Pearl Development Authority's and Deira rest houses.
+From Banjosa it is easy to continue to Jandali (3 km), Hussainabad (4 km), or Devi Gali (12 km), all set in similar hill country with good views over the Rawalakot valley. Ghorimar, about 20 km from Khaigala, looks out over the sub-valleys of Rawalakot and Bagh and is worth a detour if you have transport.

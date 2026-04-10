@@ -3,4 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-America Envios is located at 8150 SW 8 St, #124, just west of the 826 Expressway on the famous SW 8 St (Calle Ocho). It features three terminals starting at $2.50 an hour and printing as well as fax and other business services. English and Spanish spoken.
+Miami's bar scene ranges from the iconic Art Deco lounges of South Beach to rum-soaked dives in Little Havana. Calle Ocho — SW 8th Street — is the place for a Cuba Libre and live salsa; Wynwood has the craft cocktail crowd; South Beach draws the see-and-be-seen set. Wherever you end up, the nights start late and finish later.

@@ -1,21 +1,10 @@
 ---
-title: "Things to do in Fort Bragg"
+title: "Things to Do"
 type: section
-type: "general"
 ---
 
-### [Mendocino Coast Botanical Gardens](/northamerica/unitedstates/california/northcoast/fortbragg/thingstodo/mendocinocoastbotanicalgardens)
+Fort Bragg's main attractions are the Skunk Train, the botanical gardens, and the coast itself. The town is also a base for whale watching and sport fishing out of Noyo Harbor.
 
-18220 N. Hwy. 1 95437 707/964-4352
+**Mendocino Coast Botanical Gardens** — 47 acres of coastal gardens on a bluff above the Pacific, with rhododendrons, heathers, and native plant collections. Open daily. 18220 N. Highway 1.
 
-type: general
-
-
-
-[[rate it]](/northamerica/unitedstates/california/northcoast/fortbragg/thingstodo/mendocinocoastbotanicalgardens)
-
-### [California Western Railroad, The Skunk Train](/northamerica/unitedstates/california/northcoast/fortbragg/thingstodo/californiawesternrailroadtheskunktrain)
-
-Ride the Skunk in its natural habitat. Daily from the Pacific Ocean through the redwood forest. Whether it's spring, summer, fall, or winter, there's always something to see along the Redwood Route. 100 W. Laurel St. 95437 800/77-SKUNK Fax: 707/964-6754 www.skunktrain.com E-mail: skunk@mcn.org Wheelchair Access
-
-type: general
+**California Western Railroad (The Skunk Train)** — A heritage railroad running through 40 miles of redwood forest between Fort Bragg and Willits. Originally a logging line, it now carries passengers on half-day and full-day trips year-round. Departs from the depot at 100 W. Laurel Street.

@@ -1,17 +1,14 @@
 ---
-title: "Zouerate"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 22.740206
 longitude: -12.466492
+title: Zouerate
+type: location
 ---
 
-Zouerate is the number one mining town of Mauritania. For people who are not very much interested in mining, there are only two reasons to come here: the fantastic train ride you can take here or because you are going to or coming from[Morocco](/africa/morocco) via [Nouadhibou](/africa/mauritania/nouadhibou) and you don't want to take the track via the beach.
+Zouerate is Mauritania's main mining town, built around the vast iron ore deposits of the Tiris Zemmour region in the far north. There is not much here for travellers beyond the mining operations themselves — but that is not why most people come. Zouerate is the eastern terminus of one of the great train journeys in the world.
 
+Once a day, the iron ore train runs the 700 km line between Zouerate and [Nouadhibou](/africa/mauritania/nouadhibou) on the Atlantic coast. Passenger cars are attached — basic, but functional. The journey takes around 12–16 hours through open Saharan landscape, and the scale of the thing is hard to describe: the ore trains are among the longest in the world, sometimes stretching over two kilometres. Many travellers skip the passenger cars entirely and ride in the open ore wagons, which is cold, dusty, and memorable in equal measure.
 
- Once a day, two passenger cars towed by the ore train run the line between [Nouadhibou](/africa/mauritania/nouadhibou) and Zouerate, stopping over at various spots along the track, mainly at Choum, 460 km East of Nouadhibou.
-
-
- From Choum on, one can reach the center of the country by road and, more specifically, [Atar](/africa/mauritania/atar), which is the capital of the Adrar province. It is one of the highlights of Mauritanian tourism, in close proximity to the ancient sites of [Chinguetti](/africa/mauritania/chinguetti) and [Ouadane](/africa/mauritania/ouadane), which were scheduled as international heritage by UNESCO. 
-
-
- From Choum, one can also reach [Nouakchott](/africa/mauritania/nouakchott) through [Akjoujt](/africa/mauritania/akjoujt), Mauritania's second mining city (gold and copper).
+The train stops at Choum, about 460 km west of Zouerate, where it meets the road south to [Atar](/africa/mauritania/atar) — the capital of the Adrar region and the gateway to the ancient desert cities of [Chinguetti](/africa/mauritania/chinguetti) and [Ouadane](/africa/mauritania/ouadane), both UNESCO World Heritage sites. From Choum you can also head south toward [Nouakchott](/africa/mauritania/nouakchott) via [Akjoujt](/africa/mauritania/akjoujt). The train connection at Choum is what makes Zouerate relevant to travellers routing between the Moroccan border crossing near [Nouadhibou](/africa/mauritania/nouadhibou) and the interior.

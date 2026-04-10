@@ -1,16 +1,14 @@
 ---
-title: "Noli"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 44.2059
+longitude: 8.4164
+title: Noli
 type: location
-latitude: 44.205883
-longitude: 8.416419
 ---
 
-It is situated to the east of the inaccessible Cape Noli and in the past it took advantage of an excellent creek, mentioned in the old portulans.
- Close to the coast there are some woody high grounds, destination of trips and hikes. In the latest years the traditional activities based on fishery have been considerably retrenched because of the increasing of tourism, favoured by the suggestive beauty of the place and by the historical importance of its various monuments.
+Noli is one of the Italian Riviera's best-kept secrets — a medieval fishing village tucked east of the dramatic Cape Noli, where the Ligurian coastline is at its most rugged. Once a powerful maritime republic (one of only five in Italian history, alongside Venice, Genoa, Amalfi, and Pisa), it still carries that history in its towers, narrow lanes, and the remarkable 13th-century Church of San Paragorio.
 
+The old town is a compact maze of caruggi (narrow alleys) lined with stone houses, many still bearing the red-brick towers that were status symbols in the Middle Ages. The beach is small but pretty, and the water quality has earned Noli the European Blue Flag year after year. Above the town, the ruins of Monte Ursino castle offer sweeping views along the coast.
 
-
-
-
-**EUROPEAN
- BLUE FLAG**
+The wooded hills behind Noli make for excellent walking, and the GeoTrek Noli trail connects geological points of interest with sea views. It is a quieter, more authentic alternative to the better-known Cinque Terre — the kind of place where fishermen still mend nets on the beach and the restaurants serve whatever came in that morning.

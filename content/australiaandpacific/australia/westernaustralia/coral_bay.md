@@ -1,14 +1,14 @@
 ---
-title: "Coral Bay"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -23.143675
 longitude: 113.770165
+title: Coral Bay
+type: location
 ---
 
-Travel Guide
+Coral Bay is a small township on the coast of Western Australia, about 1,100 km north of Perth, at the southern end of the Ningaloo Reef. The reef here comes very close to the shore — in places you can wade straight into it — and that accessibility makes Coral Bay one of the best places in Australia to snorkel without getting on a boat.
 
-This pearl of Western Australia is a not much travelled place. It's only well known by backpackers and WA locals. (Whatever you can call local in WA, a state that's bigger than western Europe)
-This little town has the best access to the Ningaloo Reef, it's two swimming strokes off the beach, and has the best diving sites around.
-Coral Bay is also popular for the Whaleshark migration that takes place twice a year. Then you can snorkle with these gentle giants and discover how beautiful these mammals are.
-So Coral Bay is the best place to have a relaxing beach holiday where you also have the opportunity to get involved in some watersports.
-And I must honestly say that I've seen almost whole the Australian Coast and this is the best and most relaxing place I've visited. A real hidden gem.
+The Ningaloo Reef is one of the world's longest fringing reefs and is notably less crowded than the Great Barrier Reef. The snorkelling around Coral Bay is excellent year-round, with turtles, rays, reef sharks, and a wide variety of fish common in the shallows. From March to July, whale sharks aggregate in the area and can be snorkelled with on guided trips — a genuinely remarkable experience, as these are the largest fish in the ocean.
+
+The town itself is small but has a handful of cafes, dive operators, and campsites. The beach is wide and calm, protected from the ocean swell by the reef. Exmouth, 150 km north, is the other base for accessing the reef and has more services.

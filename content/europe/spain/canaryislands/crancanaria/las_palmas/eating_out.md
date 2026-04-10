@@ -3,9 +3,7 @@ title: "Eating Out"
 type: section
 ---
 
-Try the Canarian cuisine in the capitol of Gran Canaria
-
-**all**
+Las Palmas has a genuine local restaurant scene. Along Las Canteras beach you'll find seafood restaurants catering to a mix of tourists and locals; in the old quarter of Vegueta you'll find more traditional Spanish cooking. Set lunches at local restaurants are excellent value.
 
 **Restaurante Casa Carmelo**
 

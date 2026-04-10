@@ -1,21 +1,14 @@
 ---
-title: "Saarland"
+title: Saarland
 type: location
-latitude: 49.384187
-longitude: 6.953737
+latitude: 49.3842
+longitude: 6.9537
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The Saarland is, beside the city states Berlin, Hamburg and Bremen the smallest of Germany's state regions. It is situated in the very Southwest of Germany, between
-[France](/europe/france),
-[Luxembourg](/europe/luxembourg/wiltz/luxembourg) and the German regions
-Pfalz and
-Hunsruck. It has low, partly wooded hills and is drained by the river Saar, which flows in endless bows from the industrial regions of
-Saarlouis and
-Volklingen towards its mouth right in the wine region around
-[Trier](/europe/germany/rhinelandpalatinate/trier) in Rhineland-Palatinate. The main attraction is
-[Saarbrucken](/europe/germany/saarland/saarbrucken), the capital and a modern, industrial city with beautiful churches. Everywhere in the Saarland you will find the french way of living, especially in the field of gastronomy. The "Laissez faire" and "savoir vivre" mentality of the Saarland inhabitants is really a fascinating mixture of french and typical German influences.
+Saarland is Germany's smallest state (apart from the city-states), wedged into the southwest corner between France, Luxembourg, and the German regions of Rhineland-Palatinate and Palatinate. The River Saar winds through low, wooded hills past the industrial towns before meeting the Moselle near Trier.
 
-## Destinations in Saarland
+The defining characteristic of Saarland is its French character. Centuries of dispute between France and Germany — the state was under French administration until 1957 — mean the food, wine, and general outlook are more Gallic than anything else in Germany. Croissants sit next to Brötchen in the bakeries; regional dishes lean heavily on French technique.
 
-[St. Ingbert](/world/europe/germany/saarland/stingbert)
-[Saarbrucken](/world/europe/germany/saarland/saarbrucken)
+[Saarbrücken](/europe/germany/saarland/saarbrucken), the capital, has excellent 18th-century baroque architecture by Friedrich Joachim Stengel, including the Ludwigskirche and Saarbrücken Castle. Nearby, the Völklinger Hütte — an intact 19th-century ironworks — is a UNESCO World Heritage Site and the finest industrial monument in Germany. France is minutes away; Metz is 70 km south and Luxembourg City is 90 km west.

@@ -1,12 +1,16 @@
 ---
-title: "Charlottenburg"
+title: Charlottenburg
 type: location
-latitude: 52.515747
-longitude: 13.309683
+latitude: 52.5157
+longitude: 13.3097
+done:
+  location_cleanup: 2026-04-06
 ---
 
-If you arrive at Zoo train station and don't want to plunge into the city right away, turn directly into the Tiergarten, where you can get refreshment and a nice taste of green at Schleusenkrug or the Cafe am Neuen See. Most tourists head straight for Kurfürstendamm - and not only for shopping. Later at night people will meet here in the numerous bars, pubs and clubs. Three area's around here are specially popular: the streets bordering elegant Savignyplatz, and Ludwigkirchplatz and Olivaer Platz, which are linked by Pariser Straße, where the Twens have taken over.
+Charlottenburg is Berlin's western bourgeois heartland — grand apartment buildings, the Kurfürstendamm shopping boulevard, the city's best Jugendstil architecture, and a bar and restaurant scene that attracts an older, better-dressed crowd than the eastern districts. It was the centre of West Berlin during the divided city years and retains a certain self-conscious elegance.
 
+The Kurfürstendamm (universally shortened to Ku'damm) runs east from the ruins of the Kaiser Wilhelm Memorial Church — the bombed-out tower preserved as a monument — for several kilometres of shops, hotels, and cafes. The most interesting part of Charlottenburg is north of the Ku'damm around Savignyplatz, where the S-Bahn arches house a cluster of good bookshops, galleries, and restaurants, and the streets radiating outwards have Berlin's best concentration of pavement cafes.
 
- 
- Only a stone's throw away from the glitter of Ku'damm, between Olivaer Platz and Ludwigskirchplatz, is where the rather more chic young scene hangs out. The guests in the currently fashionable drinking places are pretty stylish. There's a tough battle for parking spaces in front of Checker at Olivaer Platz. It's a matter of esteem to try and park your convertible in the front row. Walking down Pariser Straße, you pass the disco Madow, an institution for the past 20 years. Regardless of passing trends, on weekends pop, soul and rock are played here. A few steps further on, Jimmy's Diner and Poco Loco do a roaring trade in hamburgers, Mexican food and margaritas. If you can't find a table here, you can always get a take-away hot dog from Mike's American Deli in Ludwigskirchstraße. Afterwards you can quench your thirst in Cafe Solo - also good for breakfast - or in Weyer's on Ludwigskirchplatz, which is great for sitting outside under the trees in summer. If you are wilting by now, we recommend Berlin Bar in Uhlandstraße - tiny, but good. In the smart bar Zur Weißen Maus you can savor the atmosphere of the '20s. An outfit to match isn't a bad idea. Fans of far Eastern cooking can tuck into Korean delicacies at Kwang-Ju in Emser Straße. At the end of Pariser Straße, at Spichernstraße U-Bahn station, is Hui Qin, a cheap Asian snack bar with big delicious portions. There's a lot going on in this part of West Berlin - just take a look for yourself.
+Schloss Charlottenburg, the baroque palace at the neighbourhood's northern edge, is one of Berlin's most impressive historical buildings — set in formal French gardens with a carp pond and an excellent collection of 18th-century Prussian royal apartments. The Egyptian Museum opposite holds the famous bust of Nefertiti.
+
+From Zoo station, the Tiergarten is immediately accessible — the city's main park, with the Café am Neuen See and the Schleusenkrug beer garden providing pleasant outdoor stops in summer.

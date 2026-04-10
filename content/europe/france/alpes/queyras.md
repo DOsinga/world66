@@ -1,14 +1,12 @@
 ---
-title: "Queyras"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.729805
 longitude: 6.844817
+title: Queyras
+type: location
 ---
 
-The Queyras Regional Natural Park is south of Grenoble and Briançon and to the far east of France bordering on Italy. It enjoys a micro-climate of its own and has sun for over 300 days in a year. It is much less frequented and somewhat lower than the better known areas further north in Savoie and Haut-Savoie but it is extremely beautiful with some of the best Alpine flower meadows in France. 
+The Queyras Regional Natural Park sits in the far southeast of France, south of Briançon and right against the Italian border. It enjoys a microclimate of its own — over 300 days of sunshine a year — and feels like a well-kept secret compared to the busier resorts of Savoie and Haute-Savoie further north.
 
-Walking up towards Monte Viso [in Italy] from the far east part of the area, you will be unlucky if you don’t see a number of marmots and hear their piercing whistle. 
-
-
-
-http://www.pnr-queyras.fr/Sources/FramesGenerales/Decou.htm
+The terrain is somewhat lower than the northern Alps but strikingly beautiful, with some of the best alpine flower meadows in France. Walking towards Monte Viso from the eastern edge of the park, you are almost guaranteed to spot marmots and hear their piercing warning whistles echoing across the valleys.

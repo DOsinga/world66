@@ -1,12 +1,14 @@
 ---
-title: "Ioannina"
+title: Ioannina
 type: location
 latitude: 39.663982
 longitude: 20.852278
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Ioannina is one of the four cities that belong to *Epirus *department. It is a lively city of more than 100,000 inhabitants that fascinates everyone with its beauty and makes it the ideal place for vacation throughout the year. It is a city that combines everything... there are important sights for those who want to combine travel and culture... there is the lake with its island surrounded by the mountains for those who like nature and walks... there are opportunities for extreme sports for those who combine travel and adventure... there is a nightlife and a traditional cuisine for those who like good food and pleasure.
+Ioannina is the capital of Epirus, a city of about 100,000 on the shores of Lake Pamvotis in north-western Greece, surrounded by mountains. It is one of the most historically interesting cities in Greece outside Athens — not for ancient ruins but for its layered Ottoman history, its lake with a tiny island at its centre, and its dramatic setting between water and peaks.
 
-What can anyone say about the castle of Ioannina, the lake Pamvotis with the Island, the Cave of Perama, the historical monuments, the museums and the whole prefecture that gives to the visitors the opportunity to discover the natural beauties that the God spread into the area.
+The city is famous above all as the seat of Ali Pasha of Ioannina, the notoriously brutal Albanian-born Ottoman ruler who controlled much of Greece from this city in the early 19th century and whose court was visited by, among others, Lord Byron. The old castle district on the lake shore is where Ali Pasha ruled and where he was eventually killed in 1822. The museum on the island across the lake marks the room where the assassination took place.
 
-Each time of the year gives a special beauty in Ioannina. In winter the area is usually dressed in snow giving a white view of the city especially in the mountainous parts. In spring there is a feast of colours giving a view of perfection aroung the city. In summer no-one can deny a boat trip into the lake, or a walk into the Island. In autumn the first rainfalls come to complete the picture with the falling leaves that give a different colour in the area.
+Lake Pamvotis is the heart of the city's character: boats cross to the small island throughout the day, and the island's monasteries, narrow lanes, and waterside restaurants serving lake fish and eels are worth at least a couple of hours. The Cave of Perama, 5km from the city, is an impressive stalactite cave discovered accidentally in 1940 during WWII.

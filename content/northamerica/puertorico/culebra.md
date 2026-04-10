@@ -1,8 +1,12 @@
 ---
-title: "Culebra"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 18.3108
+longitude: -65.3029
+title: Culebra
 type: location
 ---
 
-The arid island of Culebra is located off the east coast of the mainland of Puerto Rico and can be reached by ferry from Playa Fajardo or by plane from [San juan](/northamerica/puertorico/sanjuan). Besides the fact that the flight is not very expensive, you'll have some breathtaking views before arriving at the airport of Culebra.
+Culebra is a small, arid island off the east coast of [Puerto Rico](/northamerica/puertorico), reachable by ferry from Fajardo or by a short flight from [San Juan](/northamerica/puertorico/sanjuan) — the aerial views of the cays and reefs on approach are worth the fare alone.
 
-  Coral reefs, beaches, mountains and little villages set the tone on this island. A good option for exploring the island is by bike. It is a pleasant ride from Dewey to the unbelievable white Flamenco Beach, an excellent snorkelling spot.
+The island is best known for Flamenco Beach, consistently ranked among the finest beaches in the Caribbean: a long crescent of white sand backed by low hills, with excellent snorkelling on the reef at either end. Beyond the beach, Culebra is a place of coral reefs, dry scrubland hills, and the tiny settlement of Dewey, which barely qualifies as a town. A bicycle is the best way to get around — the ride from Dewey to Flamenco takes about 20 minutes.

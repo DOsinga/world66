@@ -1,16 +1,16 @@
 ---
-title: "Valgeranna"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 58.393349
 longitude: 24.364001
+title: Valgeranna
+type: location
 ---
 
-Travel Guide
+**Valgeranna** is a quiet beach area on Estonia's west coast, about 8km west of Pärnu. It offers 500 metres of fine white sand backed by a beautiful pine forest — a peaceful alternative to the busier Pärnu Beach in summer.
 
-**Valgeranna** is a beach area in South West Estonia. It's located just 8km west from Pärnu.
+The beach is well suited for swimming, sailing, sunbathing, and beach volleyball. A golf course is also nearby.
 
-If you don't like the summer crowds on Pärnu Beach then Valgeranna is the place for you. It has 500m of fine white sand at the edge of a beautiful pine tree forest.
+## Beaches
 
-It's a good location for swimming, sailing, sunbathing, playing beach volleyball and football or golfing.
-**More information **about Valgeranna can be found on the official tourist
-information website of Estonia: http://www.visitestonia.com/en/articles/destinations/the-coastline/valgeranna
+Valgeranna's beach is the main draw: a long stretch of clean white sand sheltered by pine trees, with calm, shallow water that is safe for children. In summer it attracts locals escaping the Pärnu crowds; outside peak season it can be almost deserted.

@@ -1,8 +1,10 @@
 ---
-title: "Sainte-Therese"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 45.634292
 longitude: -73.836238
+title: Sainte-Therese
+type: location
 ---
 
-Sainte-Thérèse is a city in southwestern Quebec, northwest of [Montreal](/northamerica/canada/quebec/montreal). The town is mostly know as a home for heavy industry, but it is also a center of recreational and tourist activites, mainly cross-country skiing. During the summer, many of the ski trails are used as dedicated bicycle paths.
+Sainte-Thérèse is a small city on the North Shore of [Montreal](/northamerica/canada/quebec/montreal), part of the Laurentides region. The town is mostly known for its industrial base, but it also has decent cross-country skiing in winter, with trails that double as cycling paths in summer.

@@ -1,10 +1,16 @@
 ---
-title: "Deauville"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 49.3595
+longitude: 0.0747
+title: Deauville
 type: location
-latitude: 49.359502
-longitude: 0.074664
 ---
 
-Deauville is the most glamorous seaside resort of Northern Fance. It is one the favourite resorts for well off Parisiens. The name symbolizes elegance, prestige and sophistication. Just a few of the nicknames of the town are "The city of the horse" and "gateway to Calvados".
+Deauville is the most glamorous seaside resort on the Norman coast — and it knows it. Since the 1860s, well-heeled Parisians have been making the two-hour train journey to promenade on the famous boardwalk, watch horses race, and be seen at the casino. The town has nicknames to match its ambitions: "the city of the horse" and "the gateway to Calvados."
 
-There are many posh villas in and around Deauville some of which are open to the public but just walking past them gives you a good idea of typical Normandic archticture from the end of the 19-th century. The boardwalk is the area where you find most of the restaurants and bars. In the area around Deauville ther are many activities such as horse back riding, sailing or golfing.
+The seafront Promenade des Planches is the beating heart of Deauville: a long wooden boardwalk lined with cabins painted in the colours of France's most elegant beach clubs. Behind it, the beach is wide and sandy, and on a summer weekend it's packed. The restaurants and bars along the promenade are pricey but the setting is hard to argue with.
+
+Inland from the beach, grand villas in the Norman timber-frame style fill the residential streets — turrets, half-timbering, steep roofs with decorative woodwork. Many are private, but simply walking the streets gives you a strong sense of what ambitious late 19th-century seaside architecture looked like. The town is compact enough to cover on foot in a day.
+
+Across the Touques river lies Trouville, Deauville's less polished but more characterful neighbour. It has better fish stalls, fewer pretensions, and a working fishing harbour. Worth half a day on any visit.

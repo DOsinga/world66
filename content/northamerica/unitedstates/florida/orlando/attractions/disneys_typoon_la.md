@@ -1,6 +1,6 @@
 ---
 title: "Disney's Typoon Lagon"
-type: location
+type: poi
 ---
 
 **Disney's Typoon Lagon**

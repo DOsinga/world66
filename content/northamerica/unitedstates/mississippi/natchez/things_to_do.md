@@ -1,8 +1,8 @@
 ---
-title: "Things to do in Natchez"
+title: "Things to Do"
 type: section
 ---
 
-Carriage tours
+The main attraction in Natchez is the collection of antebellum mansions — Longwood, Stanton Hall, Rosalie, and many others are open for tours. Some are house museums, others are still private homes that open during the twice-yearly Natchez Pilgrimage in spring and fall.
 
-The horse drawn carriage tour goes through the historic district. The guides tell history of the antebellum homes and churches. The guides also point out resturants, hotels, churches, museums, and interesting things to do while in Natchez. The drivers also like to crack jokes and tell funny stories that really makes the tour fun for everyone. The tour last about 40 to 45 minutes and cost $15 for adults and $5 for kids under 11. Most guides have lived in Natchez their whole lives and seem to be able to tell the stories behind the homes as though they have lived them. The tours start at 9 in the morning and end at 9 at night. There is a shift change at 4 and new drivers with fresh horses come out to do night tours. This is definetly a must do and is a sure way to know what to see, where to stay, and where to eat.
+Horse-drawn carriage tours through the historic district are a good way to get oriented. The guides are locals who know the stories behind every house, and the tours run from morning to evening. The Natchez Trace Parkway Visitor Center, just north of town, is the starting point for the scenic 444-mile drive to Nashville. Below the bluff, the Mississippi riverfront is worth a walk — and the view back up to the town from the water's edge puts the bluff-top setting in perspective.

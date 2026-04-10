@@ -1,20 +1,12 @@
 ---
-title: "Onzo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.070289
 longitude: 8.050019
+title: Onzo
+type: location
 ---
 
-A commune in the upper valley of the Arroscia
- which extends over the southern slope of Monte
- Peso Grande (1092 meters or 3583 feet).
- Formerly a possession of the marchesi di
- Clavesana, it was ceded to the republic of
- Genoa in 1393. In 1402 it passed to the
- marquisate of Finale and subsequently to the
- Del Carretto of Zuccarello. It came back under
- Genoese rule in 1581, though with its own
- statutes. The ring of walls, on a polygonal plan
- with two large towers, comprise the ruins of the
- castle. The principal agricultural products are
- olives and wine.
+Onzo is a tiny commune in the upper valley of the Arroscia, on the southern slope of Monte Peso Grande (1,092 m). The village passed through the hands of the Marchesi di Clavesana, the Republic of Genoa, and the Marquisate of Finale before settling under Genoese rule in 1581.
+
+The remains of a medieval castle — a ring of walls on a polygonal plan with two towers — are the main point of interest. The surrounding hillsides produce olives and wine.

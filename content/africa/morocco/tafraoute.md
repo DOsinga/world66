@@ -1,13 +1,14 @@
 ---
-title: "Tafraoute"
+title: Tafraoute
 type: location
-latitude: 29.720472
-longitude: -8.974453
+description: A laid-back Berber town in Morocco's Anti-Atlas mountains, surrounded
+  by spectacular granite landscapes and the palm-filled Ameln Valley.
+latitude: 29.7205
+longitude: -8.9745
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Tafraoute is a nice and easy going mountain village east of Tiznit, south-east of
- Agadir. After the barren landscape, it is a welcoming site to feel the cool air coming from the palm grove at the edge of the town. The Anti-Atlas mountains are spectacular! Also, the lunar landscape around Tafroute is one of the major physical attractions. The dress, architecture and general independence of the Berbers in the area are also a welcome change. It is an excellent place to walk, ride bikes or just relax. 
- 
+Tafraoute is a laid-back mountain town in Morocco's Anti-Atlas, east of Tiznit and southeast of Agadir. After hours of barren landscape, the cool air drifting up from the palm grove at the edge of town feels like a reward. The granite peaks and lunar rock formations surrounding the town are spectacular — pink and orange at sunset, otherworldly at any hour.
 
-It is an excellent starting point for hiking or bicycling in the nearby Ameln
- valley. Getting around in the Ameln villages you can use taxis or rent mountain bikes from across the PTT.
+The Berber villages in the area have their own distinct character: brightly painted houses clinging to massive boulders, independent-minded people, and an architecture that feels rooted in the landscape rather than imposed on it. Tafraoute is an excellent base for hiking or cycling in the nearby Ameln Valley, or simply for slowing down and doing nothing at all.

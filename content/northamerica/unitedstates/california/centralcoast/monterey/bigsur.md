@@ -1,12 +1,16 @@
 ---
-title: "Big Sur"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 36.1437
+longitude: -121.5646
+title: Big Sur
 type: location
-latitude: 36.143704
-longitude: -121.564593
 ---
 
-**Big Sur **is located on HWY 1 in ancient groves of redwood and oak trees in Pfeiffer Big Sur State Park. Big Sur, California is famous for its pristine natural beauty and dramatic, rugged coastline and has been an inspiration to writers, artists, and seekers of a more simple life.
+Big Sur is one of the most dramatic stretches of coastline in the world. Highway 1 clings to cliffs that drop straight into the Pacific, redwood canyons cut down to the sea, and the light on a clear afternoon turns the ocean every shade of blue and green. It is not a town but a 90-mile wild corridor between Carmel in the north and San Simeon in the south, and the landscape is the whole point.
 
-Numerous hiking trails are located in the 1,006 acre park and a scenic highlight is Pfeiffer Falls Trail which winds over rustic bridges across Pfeiffer Redwood Creek and ends at a 60-foot high waterfall. From this trail, some of the finest redwood groves in the Big Sur region can be viewed. Wildlife is abundant in the park and condors soar overhead, often stopping to rest in the top of a redwood tree right outside the entrance to the main lodge.
+The Santa Lucia mountains rise steeply from the water, and the canyons behind the highway hold old-growth redwood groves that feel genuinely ancient. Pfeiffer Big Sur State Park is the main hub — it has campgrounds, day-use trails, and the classic Pfeiffer Falls walk, a short hike through redwoods to a 60-foot waterfall. McWay Falls, in Julia Pfeiffer Burns State Park, drops directly onto a beach you cannot reach, which makes it more beautiful somehow. Bixby Creek Bridge is the most photographed spot on the coast, and rightly so.
 
-*-Article edited by Jessie on 03/13/05*
+Big Sur has attracted writers and artists since Henry Miller settled here in 1944 and spent a decade painting watercolors and writing about the place with barely concealed wonder. The Esalen Institute, perched above the sea near the southern end of the corridor, has been running human potential retreats since the 1960s, and the hot springs on its cliff edge are worth the trip on their own. The spirit of the place — remote, beautiful, a little otherworldly — has changed less than you might expect.
+
+Come prepared. There are no gas stations for long stretches, cell service disappears for miles at a time, and the road closes after heavy rain or landslides (a regular occurrence in winter). The best seasons are late spring and fall; summer brings coastal fog and traffic. Camping at Pfeiffer Big Sur or Kirk Creek puts you inside the landscape rather than just passing through it.

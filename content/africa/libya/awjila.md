@@ -1,22 +1,14 @@
 ---
-title: "Awjila"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 29.1081
+longitude: 21.2869
+title: Awjila
 type: location
 ---
 
-Awjila also written as Awjilah, Aujila, Augila, Aoudjila is an historic oasis deep in the Libyan desert about 260 kilometers south of [Agedabia](/africa/libya/agedabia) . From Awjila the the road leads to Jalo and [Kufra](/africa/libya/kufra).
+Awjila (also written Awjilah, Aujila, or Augila) is a historic oasis deep in the Libyan desert, about 260 km south of [Agedabia](/africa/libya/agedabia). For centuries it sat at the crossroads of the great east-west North African caravan routes and the north-south routes from the coast into sub-Saharan Africa, making it one of the most important stops in the Saharan trade network.
 
-Not so long ago Awjila was the capital of the large surrounding region because of its unique location of being at the crossroads of caravans moving along the east west north africa route and the north south coast to africa route.
+The oasis has the oldest mosque in the western North African region, built with local soil and palm branches in a style that provides natural climate control — cool in the scorching summer heat, warm at night. The population is Amazigh (Berber), with their own distinct language, though Arabic is dominant.
 
-It has the oldest masjed (mosque) in the western north african region with its unique style of architecture with rooms that are naturally conditioned . In the scorching heat of the summer days the rooms are cool and at night they are warm.
-
-The building materials are made from the soil and the palm tree branches which make up an excellent heat insulator.
-
-Awjila is a unique ethnic community as the people are of Berber ( Amazigh ) origions.
-
-They have their own distinct Berber language but Arabic is the dominant language and Islam is the only religion.
-
-The main activities of the people in Awjila are agriculture and working for the oil sector companies as this area is the cradle of Libyan wealth.
-
-The main crops are dates from the many verities of palm trees, tomatoes, and cereals.
-
-Awjila is a remote destination, and reaching it requires either a vehicle or willingness to wait for infrequent shared transport from Agedabia.
+The main economic activities are date farming — the oasis has many varieties of palm trees — and employment with the oil companies that operate in this region. From Awjila the road continues to Jalo and on to [Kufra](/africa/libya/kufra). Reaching Awjila requires a vehicle or willingness to wait for infrequent shared transport from Agedabia.

@@ -1,5 +1,9 @@
 ---
-title: "Freetown Peninsula"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 8.35
+longitude: -13.2167
+title: Freetown Peninsula
 type: location
 ---
 

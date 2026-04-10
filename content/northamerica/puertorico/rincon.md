@@ -1,6 +1,8 @@
 ---
-title: "Rincon"
+title: Rincon
 type: location
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

@@ -12,5 +12,3 @@ night prices are slightly higher. Most of the time it´s much easier to
 get to a place if you just hop in and state your destination, than to
 walk around and look for it yourself.
 
-**Contributors**
-June 05, 2006

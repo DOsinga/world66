@@ -1,8 +1,6 @@
 ---
 title: "Safety"
-type: location
-latitude: -1.297343
-longitude: 36.830753
+type: section
 ---
 
 As mentioned before, Nairobi is famous for petty crime. It’s important to never walk anywhere at night and to avoid bad parts of town at all times of the day. 

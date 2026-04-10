@@ -3,12 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**By Train:**
+Khajjiar is 27 km from Dalhousie and most people arrive by road from there. Taxis make the run easily, as do state transport buses between Dalhousie and Chamba (56 km beyond Khajjiar). Private taxis can also be arranged from Pathankot or Chamba.
 
- The nearest railway station is Pathankot or ChakkiBank at a distance of 80 Kms. These stations are well connected by rail with all the main stations in India.
+The nearest railway station is Pathankot (or Chakki Bank, adjacent), about 80 km away, which has good connections from Delhi, Amritsar, and Chandigarh. From Pathankot, take a bus or taxi to Dalhousie and then continue to Khajjiar.
 
-  **By Road:**
-
- It is connected to so many cities like Amritsar, Chandigarh, Delhi and Manali, but nearest is Chamba at 56 Km, Pathankot at 80 Km and Jammu at a distance of 188 km. If you are a member of WIAA in India or a tourist, you can ask for a Road Route Map which is available for a fro a few Rs. You can easily get a State Transport bus available from an to Delhousie and Chamba. Private taxis are also available from the bus stand.
-
- **By Air:** Jammu is the nearest airport and is locates some 200 kms away.
+The nearest airport is Kangra (Gaggal), roughly 120 km away, with flights from Delhi. Jammu airport is about 200 km and has broader connectivity. From either airport, a taxi to Dalhousie or Chamba is the practical option.

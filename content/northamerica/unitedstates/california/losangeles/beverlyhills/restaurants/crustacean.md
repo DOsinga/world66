@@ -1,22 +1,10 @@
 ---
 title: "Crustacean"
 type: poi
-address: "9646 Little Santa Monica Boulevard, Beverly Hills, CA, 90210"
-email: "info@anfamily.com"
+address: "9646 Little Santa Monica Blvd., Beverly Hills 90210"
 phone: "+1-310-205-8990"
-type: "Seafood"
-url: "www.anfamily.com"
+latitude: 34.0721
+longitude: -118.4013
 ---
 
-From the moment the An family opened the doors to their posh,
-multi-level eatery in 1997, the Asian and Vietnamese-inspired menu has
-wowed food lovers – not to mention the interior design of the
-restaurant/bar, which blends an evocative Asian aesthetic with
-Hollywood style. The glamorous vibe and hot bar scene aside, it’s the
-food that is the main draw, which features Dungeness crab, gigantic
-grilled tiger prawns, Sea Bass and the famous garlic noodles.
-
-**Contributors**
-February 27, 2007
-
-type: Seafood
+A Vietnamese-French restaurant from the An family, known for its glamorous multi-level interior and the "secret kitchen" concept — certain recipes kept in a glass-enclosed kitchen visible from the dining room. Signature dishes include Dungeness crab, grilled tiger prawns, sea bass, and the famous garlic noodles.

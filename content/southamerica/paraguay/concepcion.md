@@ -1,11 +1,14 @@
 ---
-title: "Concepcion"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -23.1775
 longitude: -57.1675
+title: Concepción
+type: location
 ---
 
-Travel Guide
+Concepción is an attractive frontier town on the Río Paraguay in northern [Paraguay](/southamerica/paraguay). It is not really worth a detour in itself, but it is the traditional departure point for river journeys heading upstream toward the Pantanal of [Brazil](/southamerica/brazil).
 
-Concepcion is an attractive frontier town on the Rio Paraguay, but isn´t worth a detour.
-It is however often used to catch a boat upriver, in the direction of the Pantanal of [Brazil](/southamerica/brazil). There used to be boats crossing the Pantanal proper, going all the way to [Corumbá](/southamerica/brazil/corumb), but this is rarely possible now. Taking a boat on the Paraguay is still quite an adventure though, because the passenger boats are freight ships too. It´s a good way to live the couleur locale, but you should start your trip by starting to look for a hammock to spend the night in. It is an extremely cheap option for a river cruise (about 5 dollars per day on board), but if you are en route to Brazil (that means getting of at Isla Margarita / Porto Morinho) you won´t get to see much wildlife. Better sightings are more upstream, from where you may or may not find onward transport to Brazil.
+The passenger boats that ply the river are primarily freight ships, and travelling on them is an adventure in itself. You will need to bring a hammock to sleep in. The trip is extraordinarily cheap — around five dollars a day on board — but don't expect a cruise-style experience. If you are heading to Brazil (disembarking at Isla Margarita or Porto Murtinho), the lower stretch of the river has limited wildlife. The better sightings are further upstream, from where onward transport to Brazil may or may not materialise.
+
+The town itself has a pleasant riverfront and a quiet, end-of-the-road feel that is characteristic of Paraguay's northern towns.

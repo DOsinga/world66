@@ -1,16 +1,17 @@
 ---
-title: "Gallinara park"
+done:
+  location_cleanup: '2026-04-08'
+excerpt: A rocky, forested island one mile off the coast of Albenga — once home to
+  St. Martin of Tours and Benedictine monks, now a protected nature reserve and a
+  magnet for divers.
+latitude: 44.0333
+longitude: 8.2
+title: Gallinara Island Regional Park
 type: location
 ---
 
-The Gallinara Island Regional Park is concerning this rocky and luxuriant island just one mile off the Albenga beach. It was inhabited since ancient times.
+Gallinara is a small, densely wooded island sitting about a mile offshore from [Albenga](/europe/italy/liguria/albenga). The name comes from the Latin for "wild hens" — the island apparently swarmed with them in Roman times, and the Latin writers noticed. Today it is a regional nature reserve, and the only way to truly appreciate it is from the water.
 
- Its name derive from the presence in the roman age of wild hens ("galline" in Italian) and it is largely mentioned by Latin writers. From documents we know that St. Martin de Tours lived here from 356 to 360 A.C. and the afterwards a community of hermits was founded on the island. A monastery was dedicated to St. Mary and St. Martin and probably run by benedectines after the 8th century becoming so an outpost of Christianity in Liguria. They became extremely rich and powerful to arrive to own large properties in Liguria, Provence and Catalogne. In the 15th century the island passed to the Albenga church and since last century they are private property and on the top the ruins of the monastery has been transformed in a villa. The tower is a classica example of military architecture of the 16th century and it was once included in the coastal fortification system of the [Genoa](/europe/italy/liguria/genoa) Republic.
+The island has an unusually layered history. Between 356 and 360 AD, St. Martin of Tours lived here as a hermit before going on to become one of the most venerated saints in France. After him came a community of hermits, and eventually a Benedictine monastery dedicated to St. Mary and St. Martin — an outpost of Christian influence that became powerful enough to hold properties across Liguria, Provence, and Catalonia. By the 15th century the church of Albenga had taken over the island, and in more recent centuries it passed into private hands. The ruins of the monastery now sit beneath a private villa. The 16th-century tower at the island's edge was part of the coastal fortification network of the Genoese Republic.
 
- The typical Mediterranean flora concerns mostly this island and it is a particular habitat for many species of birds and so the entrance is forbidden unless you have a very special permit. But proper for this reason and in this particular view you can stil see all the deep blue sea and all around is a wonderful place for swimming and boating. Very important from the tourist point of view is the beautiful underwater world surrounding the island; which is also a regional protected including the archaelogic remains (like the wreck of the 1st century ship of burden liyng not far away) and sometimes it is possible to find new interesting roman remains - many of which are visible in the Naval Museum - still nowadays.
-
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
-
- pelos@tn.village.it
-
- http://www.global.village.it/~pelos/index.htm
+The island is off-limits to visitors without a special permit, which in practice means you see it from a boat. The typical Ligurian macchia — rockrose, myrtle, lentisk — covers most of it, and it is a nesting and resting ground for migratory birds. The real draw for most visitors is underwater: the waters around Gallinara are a protected marine area and one of the better dive sites on the Ligurian coast. The highlight is the wreck of a 1st-century Roman cargo ship lying on the seabed nearby. Other Roman remains surface occasionally, and many finds are displayed at the Naval Museum in the region. Snorkeling and swimming around the island are popular even for non-divers — the water is clear, the sea floor varied.

@@ -1,10 +1,11 @@
 ---
 title: "Djougou"
 type: location
-latitude: 9.710668
-longitude: 1.665161
+latitude: 9.7107
+longitude: 1.6652
+todo_location_cleanup: done
 ---
 
-Travel Guide
+Djougou is a small city in the Donga department of western Benin, about 60 km south of Natitingou. Most travellers pass through on the way to the [national parks](/africa/benin/nationalparks) of the north, but the town has a lively market and a friendly atmosphere that makes it worth a day's pause.
 
-Djougou is a small city some 60 km south of Natitingou. Most travellers only travel through on their way to the [National parks](/africa/benin/nationalparks), but with it's lively market and friendly people, you can easily spend a day.
+The town is predominantly Muslim, and the call to prayer gives the mornings and evenings a particular character. Zemidjan (motorbike taxis) are the primary way to get around, available at street corners throughout town.

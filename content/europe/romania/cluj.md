@@ -1,14 +1,14 @@
 ---
-title: "Cluj"
+title: Cluj-Napoca
 type: location
-latitude: 46.769379
-longitude: 23.589954
+latitude: 46.7712
+longitude: 23.6236
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The unofficial capital of Transylvania, the 2000 years old Cluj-Napoca (during the Roman occupation it was called Napoca) is one of the most vibrant cities in Romania. With a population of around 400000 people out of which around 70000 college students, the city is bursting with energy year round. Located in a hilly area, the city spreads itself around the Somes river towards the surrounding hills. The architecture in the downtown is reminiscent of the old Austro-Hungarian Empire, while elements of modernism have now been added to give the city a modern, exciting feel. 
+Cluj-Napoca is the unofficial capital of Transylvania and Romania's liveliest university city. With around 70,000 students in a city of 400,000, the energy is palpable — the cafes stay full, the cultural calendar never stops, and the old center hums well past midnight.
 
-There are lots of museums, parks and a European renowned Botanical Garden that are sure to appeal even to the most demanding visitor. Not to mention the countless cafes, restaurants, clubs and discos where one can have a great time at any time of day or night. 
+The city spreads along the Someș river and up into surrounding hills. Downtown is pure Austro-Hungarian grandeur: baroque facades, Gothic churches, and grand squares that wouldn't look out of place in Vienna or Budapest. The centerpiece is Piața Unirii, dominated by the 14th-century St. Michael's Church and the statue of Matthias Corvinus, the Renaissance king born here. Around it, pedestrian streets wind past bookshops, pastry shops, and university buildings.
 
-As a sidenote, Cluj-Napoca is one of the only cities (if not THE only) in the world that has 2 National Opera Houses in two different languages(Romanian and Hungarian). This city's personality comes from its multiculturality and diversity.
-
-Minor corrections on 21 July 04
+Cluj-Napoca is one of the few cities in the world with two National Opera Houses — one Romanian, one Hungarian — a reflection of its multicultural character. The Romanian and Hungarian communities have shaped the city for centuries, and that mix gives it a depth and complexity you won't find in Bucharest. Add to that the European-renowned Botanical Garden, a clutch of excellent museums, and a restaurant scene that has exploded in the last decade, and you have a city that rewards a longer stay.

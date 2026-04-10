@@ -1,8 +1,10 @@
 ---
-title: "Rungstedlund"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 55.883327
 longitude: 12.543427
+title: Rungstedlund
+type: location
 ---
 
 We currently have no information about Rungstedlund.

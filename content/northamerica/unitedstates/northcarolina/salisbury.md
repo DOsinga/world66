@@ -1,8 +1,10 @@
 ---
-title: 'Salisbury'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.670973
 longitude: -80.474226
+title: Salisbury
+type: location
 ---
 
 Salisbury was once the largest city in western North Carolina and the leading edge of the American frontier -- the jumping-off point for pioneers, visionaries, and more than a few scoundrels. As a major center of trade and politics in the eighteenth and early nineteenth centuries, the town played an outsized role in the state's history.

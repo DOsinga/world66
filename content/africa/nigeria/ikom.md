@@ -1,14 +1,14 @@
 ---
-title: "Ikom"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 5.962765
 longitude: 8.723969
+title: Ikom
+type: location
 ---
 
-Ikom is close to the [Cross River National Park](/africa/nigeria/crossrivernationalpark) and probably the best base for exploring it. Regular bush taxis connect Ikom to [Calabar](/africa/nigeria/calabar).
+Ikom is a small town in Cross River State, southeastern Nigeria, best known as the gateway to the [Cross River National Park](/africa/nigeria/crossrivernationalpark) — one of the most biodiverse forest areas in West Africa. Regular bush taxis connect Ikom to [Calabar](/africa/nigeria/calabar), about 90 km to the south.
 
+The area around Ikom is home to the remarkable Akwanshi monoliths — ancient carved stones depicting ancestral figures, found scattered across nearby villages. These basalt carvings are thought to be several hundred years old and are protected by the National Commission for Museums and Monuments. They are unique to this corner of Nigeria and little known to outside visitors.
 
- Unique carved stones are found in the neighbourhood. The stones depict ancient monuments in reverence of the ancestors. The monoliths are currently being protected in their locations by the National Commission for Museum and Monuments.
-
-
- If you want to spend the night here, try the Hotel Garden Hotel.
+For accommodation, the Hotel Garden Hotel offers basic rooms in town.

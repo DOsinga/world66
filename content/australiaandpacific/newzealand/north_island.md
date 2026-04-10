@@ -1,8 +1,10 @@
 ---
-title: "North Island"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: -38.00353
 longitude: 175.957821
+title: North Island
+type: location
 ---
 
 The **North Island** of [New Zealand](/australiaandpacific/newzealand) is home to around three-quarters of the country's population. It's warmer, more urbanised, and geologically more active than the South Island — the Taupo Volcanic Zone cuts across the centre of the island, producing geysers, boiling mud pools, and the thermal lakes around [Rotorua](/australiaandpacific/newzealand/rotorua) and [Taupo](/australiaandpacific/newzealand/taupo). Mount Ruapehu, an active volcano, dominates the Central Plateau.
@@ -19,3 +21,5 @@ The **North Island** of [New Zealand](/australiaandpacific/newzealand) is home t
 [Greater Wellington](/australiaandpacific/newzealand/greater_wellington)
 [Eastland](/australiaandpacific/newzealand/eastland)
 [Waikato](/australiaandpacific/newzealand/waikato)
+[Manawatu](/australiaandpacific/newzealand/manawatu)
+[Whanganui Region](/australiaandpacific/newzealand/whanganui_region)

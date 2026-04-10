@@ -1,15 +1,16 @@
 ---
-title: "Karwar"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 14.812093
 longitude: 74.131923
+title: Karwar
+type: location
 ---
 
-Travel Guide
+Karwar sits at the mouth of the Kali River where it meets the Arabian Sea, a small port town on Karnataka's northern coast that has been a crossroads of trade and culture for centuries. Arabs, Dutch, Portuguese, French, and British all left their mark here, and the town's layered history gives it a character that goes well beyond its modest size.
 
-The British made this place their district headquarters in 1862. Karwar was an ancient site of sea trade visited by the Arabs, Dutch, Portuguese, French and later the British. Ibn battuta passed through this route during one or more of his journeys.
+The British made Karwar their district headquarters in 1862, but the place had already been drawing visitors for much longer. Ibn Battuta passed through on one of his journeys, and in 1882 a 22-year-old Rabindranath Tagore stayed here with his brother Satyendranath, who was serving as district judge. Tagore was so moved by the coastline that he dedicated an entire chapter of his memoirs to Karwar, writing: "The sea beach of Karwar is certainly a fit place in which to realise that the beauty of Nature is not a mirage of the imagination, but reflects the joy of the Infinite." The main beach now bears his name.
 
-Significant and pictureseque, the Sadashivgad fort of historical importance is now a popular tourist destination located by the Kali river bridge, which has been built at the confluence of the river and the Arabian Sea.
-Renowned poet Rabindranath Tagore, who visited Karwar in 1882, dedicated an entire chapter of his memoirs to this town.[2] The 22 year old Rabindranath Tagore stayed with his second brother, Satyendranath Tagore, who was the district judge in Karwar.
+The town remains relatively unhurried — the kind of place where the fishing boats come in early and the evenings are spent watching the river mouth catch the last light. Several of the most picturesque beaches nearby have been absorbed into the INS Kadamba Naval Base, which limits access but has also kept development in check. What remains is quieter and less trampled than the Goa resorts just 107 kilometres to the north.
 
-"The sea beach of Karwar is certainly a fit place in which to realise that the beauty of Nature is not a mirage of the imagination, but reflects the joy of the Infinite and thus draws us to lose ourselves in it. Where the universe is expressing itself in the magic of its laws it may not be strange if we miss its infinitude; but where the heart gets into immediate touch with immensity in the beauty of the meanest of things, is any room left for argument?" - Rabindranath Tagore
+The surrounding region holds its own rewards: the Kali River winds inland through dense forest toward Dandeli and the Anshi National Park (also known as Dandeli-Anshi Tiger Reserve), making Karwar a sensible base for wildlife and nature as well as coast.

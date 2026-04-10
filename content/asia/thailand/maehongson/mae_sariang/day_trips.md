@@ -1,11 +1,10 @@
 ---
-title: "Day Trips in Mae Sariang"
+title: "Day Trips"
 type: section
 ---
 
 **Salawin River Boat Trip**
 
-The mighty **Salawin River** stems from the Himalayas flows through China and forms part of the Thailand/Burma border. It remains a great natural wonder unknown to many foreign tourists. If you are exploring **Mae Hong Son province** and pass through **Mae Sariang** town one item on your travel schedule should be a boat trip down the **Salawin** **River**. This can be done on a 1 day trip from Mae Sariang town. You will need to get to **‘Ban Mae Sam Laep’** a Burmese village on the banks of the river where boats depart. To reach Ban Mae Sam Laep you can take a local songtiaw, hire a car or motorbike.
+The mighty **Salawin River** rises in the Himalayas, flows through China, and forms part of the Thailand-Burma border. It remains a great natural wonder little known to foreign tourists. If you pass through Mae Sariang, a boat trip down the Salawin should be on your list.
 
-**Contributors**
-December 02, 2009
+The trip is easily done as a day excursion. Head to **Ban Mae Sam Laep**, a Burmese village on the riverbank where boats depart. You can get there by local songthaew, or by hiring a car or motorbike. From the village, longtail boats are available for hire to cruise downriver through spectacular scenery.

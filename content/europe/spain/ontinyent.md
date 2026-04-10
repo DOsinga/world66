@@ -1,11 +1,12 @@
 ---
-title: "Ontinyent"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 38.8209
+longitude: -0.61
+title: Ontinyent
 type: location
-latitude: 38.820852
-longitude: -0.609993
 ---
 
-Travel Guide
+Ontinyent is a small city of about 36,000 people in the Valencia region, tucked into the hills of the Vinalopó river valley an hour's drive from the coast. It has a compact old quarter with a Moorish-era castle and a pleasant central square that comes alive in the evenings.
 
-Ontinyent is a small city,between the montains and 1 hour to the beach, also it has a natural lake, it is the most turistic atraction of Ontinyent. Also you can visit the really nice town centre.
-If you go in summer you can not lose the "Moros y Cristians" celebration, the biggest week of the year!
+The highlight of the year is the Moros i Cristians festival in late August, when the town re-enacts the medieval battles between Moorish and Christian forces with elaborate costumes, music, and fireworks. It is one of the most elaborate celebrations of this tradition in the Valencia region and well worth timing a visit around.

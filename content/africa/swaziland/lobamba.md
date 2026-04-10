@@ -1,14 +1,14 @@
 ---
-title: "Lobamba"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -26.4463
+longitude: 31.2084
+title: Lobamba
 type: location
-latitude: -26.446285
-longitude: 31.208378
 ---
 
-Lobamba is the traditional and legislative capital of Eswatini, about 15 km south of [Mbabane](/africa/swaziland/mbabane) in the [Ezulwini Valley](/africa/swaziland/ezulwinivalley). While [Mbabane](/africa/swaziland/mbabane) handles government administration, Lobamba is where the heart of the kingdom beats. Parliament meets here, and more importantly, this is the site of the royal ceremonies that define Swazi national identity.
+Lobamba is the traditional and legislative capital of Eswatini, sitting at the southern end of the [Ezulwini Valley](/africa/swaziland/ezulwinivalley) about 15 km from [Mbabane](/africa/swaziland/mbabane). While Mbabane handles day-to-day administration, Lobamba is where the kingdom's identity is kept: Parliament convenes here, the royal family holds court nearby, and the great ceremonies of the Swazi year take place on this ground.
 
-The Somhlolo National Stadium — named after a 19th-century king who reportedly foresaw the arrival of Europeans — hosts football matches and large events. The National Museum is a short walk away and provides context on Swazi history and culture.
+The Somhlolo National Stadium — named after a 19th-century king who reportedly foresaw the arrival of Europeans — is the country's main venue for football and national events. The nearby National Museum is the best single introduction to Swazi history and culture: it covers the kingdom's origins, the royal lineage, and the material culture of a people who maintained their sovereignty longer than most of their neighbours.
 
-Lobamba comes alive during the Umhlanga Reed Dance in late August or early September, when tens of thousands of women converge on the queen mother's village to perform. The Incwala ceremony in December or January is equally significant, though parts of it are closed to outsiders.
-
-The village itself is quiet the rest of the year — worth a stop as part of a drive down the Ezulwini Valley, but not a destination in its own right.
+Most travellers pass through on a drive down the Ezulwini Valley, and that is enough on an ordinary day. Come during the ceremonies and Lobamba becomes something else entirely — a place where tens of thousands of people gather for rituals that have been performed for centuries, in a valley that still belongs to the royal family rather than to development.

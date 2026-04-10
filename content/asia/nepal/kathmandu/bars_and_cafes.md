@@ -3,16 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-**all**
-
-**Lser Cyber**
-
-Our Services are: Internet sufring, Live Web conference, Laptop connection support, Chatting, Word processing, Scanning, CD writing, Floppy Disk copying, Graphics workstation, Web site developing, Laser Jet printing & International call in moderate cost. 
-
-If you need any additional inform [more..](/asia/nepal/kathmandu/bars_and_cafes/lser_cyber)
-
-PC: 30
-
-tel: 2111230
-
-address: Pulchowk
+Kathmandu has a pulsating tourist center with hectic nightlife. The area around the Kathmandu Guest House in Thamel has mutated into a throbbing little quarter in the evenings, with dueling nightclub sound systems blaring across the alleyways, noisy bands of revellers looking for action, and the cops and the rickshaw-wallahs waiting outside for closing time. By day, Thamel's cafes are the place to plan treks over coffee and free wifi.

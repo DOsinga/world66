@@ -1,6 +1,6 @@
 ---
-title: "Sights in La Teste de Buch"
+title: "Sights"
 type: section
 ---
 
-la Dune de Pyla is the largest sand dune of Europe. A lot of paragliding in going on there.
+The Dune du Pilat is the main draw — the largest sand dune in Europe, rising over 100 metres above sea level on the southern tip of the Arcachon Basin. Paragliding from the dune is popular in season, and the views from the top extend over the Atlantic pine forest and across the bay.

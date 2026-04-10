@@ -1,8 +1,14 @@
 ---
-title: "St. Etienne"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 45.4397
+longitude: 4.3872
+title: Saint-Étienne
 type: location
-latitude: 45.440147
-longitude: 4.387306
 ---
 
-Saint-Etienne is located in the Rhone-Alps and it is an area with diverse environments, from hills and pine forests to beautiful green valleys and snow-capped mountains. St. Etienne is an alternative entry place to [Lyon](/europe/france/alpes/lyon), the biggest city in the area. The city is home to the most important art gallery of modern and contemporary art in France outside [Paris](/europe/france/paris) - the splendid Museum of Modern Art, which hosts the works of Picasso and Warhol among others. Spring, summer and early autumn are the best times to enjoy this lush green stretch of France. In the area the visitor can discover historical towns dotted about the country-side carefully managed to maximise its potential for sightseers and active holiday-makers alike. Enjoying an almost-Mediterranean climate, the area's lakes, inland marina and rivers cater for water sports including wind-surfing and sailing while mountain-biking, golf, rambling and even skiing can be enjoyed in the higher reaches.
+Saint-Étienne is a former industrial city in the Loire valley, about 60 km southwest of [Lyon](/europe/france/alpes/lyon). It built its wealth on coal, steel, and arms manufacturing — the city once produced weapons for Napoleon's armies — and the traces of that past are everywhere, from the grid of workers' terraces to the great factory sheds now repurposed as cultural spaces.
+
+What surprises visitors is the quality of its art. The Musée d'Art Moderne et Contemporain de Saint-Étienne Métropole is one of the best modern art collections in France outside Paris, with works by Picasso, Warhol, Léger, and a strong design collection that reflects the city's industrial tradition. The Cité du Design, built on the old Manufacture Nationale d'Armes site, has become a genuine hub for industrial and graphic design.
+
+The city itself is not conventionally beautiful, but it has a no-nonsense, working-class character that is refreshing after more manicured French destinations. It sits at around 500 metres elevation, with the Pilat regional park rising to the south and the Loire gorges nearby — good walking country that most visitors to the region overlook.

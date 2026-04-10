@@ -1,18 +1,14 @@
 ---
-title: "Deogad"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 16.3808
+longitude: 73.3565
+title: Deogad
 type: location
-latitude: 19.73347
-longitude: 79.024712
 ---
 
-Travel Guide
+Deogad (also written Devgad) is a small coastal town on the Sindhudurga district's northern shore, about 500 km south of Mumbai along the Mumbai–Goa highway. It sits on a narrow peninsula backed by a well-sheltered natural harbour — one of the few ports on this coast that stays navigable during the monsoon. Fishing is the main livelihood here, and the catch comes in daily.
 
-Deogad is one of taluka of sindhudurga district, This taluka is famous for Alphanso Mango. The Occupation of the people in this taluka is farming and fishing. Deogad port is also famous for fishing. This port is surrounded by land and one small inlet to entered in to the port. so this port is very safe in mansoon also.
+The town is best known outside Maharashtra for its Alphonso mangoes, considered among the finest in the world. From March to June, the local orchards produce fruit prized for its sweetness, low fibre, and deep saffron colour. Visitors who time their trip right can buy directly from growers.
 
-This taluka is located on Mumbai Goa highway and 500km from mumbai.
-
-So many temples are also also famous like Shree Kunkeshwar Mandir at Kunkeshwar beach. Ramesh Mandir at Achara. Gajbadevi Mandir at Mithbao(Dagare wadi). Peoples going to native place in vacation were also visit to these temples.
-
-Velankar family is more famous as alphanso dealar.
-Chakresha Velankar (bandya) is most famous for sellar of milk.
-Rajabhau was famous as vaidya. Sadanad Velankar is agent of fertilisers in Nadan.
+The surrounding taluka has a scattering of temples on quiet beaches, most notably Kunkeshwar on the coast to the north. The pace is unhurried, the coastline largely undeveloped, and the food — fresh seafood cooked in coconut-based Malvani style — is excellent.

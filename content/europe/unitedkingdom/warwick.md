@@ -1,27 +1,14 @@
 ---
-title: "Warwick"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 52.2815
+longitude: -1.5816
+title: Warwick
 type: location
-latitude: 52.281452
-longitude: -1.581574
 ---
 
-Travel Guide
+Warwick is a compact medieval town in the English Midlands, and it punches well above its size. The main draw is Warwick Castle, one of England's best-preserved medieval fortresses, which has loomed over the River Avon for nearly a thousand years. Beyond the castle, the town centre holds a pleasing mix of Tudor timber-frames and Georgian townhouses, most of it recoverable on foot in an afternoon.
 
-**Warwick** (pronounced /ˈwɒrɪk/ ( listen) *WORR-ik* with a silent w in the middle) is the county town of Warwickshire, England. The town lies upon the River Avon, 18 km (11 miles) south of Coventry and 4 km (2.5 miles) west of Leamington Spa (although the towns are conjoined), with a population of 25,434 (2001 census).[1]
+The town sits at the heart of Warwickshire — 18 km south of Coventry and right next door to Royal Leamington Spa, which effectively merges with Warwick to the east. Stratford-upon-Avon is a short drive away, making Warwick a natural base for exploring Shakespeare country without fighting Stratford's peak-season crowds.
 
-Warwick hosts annual festivals ranging from the Spoken Word to Classical and Contemporary Music to a Folk Festival and a Victorian Evening, held in late November or early December. St. Mary's Church hosts a series of Early Music concerts, and the Bridge House Theatre hosts the Music-in-Round concerts. Warwick Chamber of Trade helps to promote the town for visitors, residents and businesses. The town is also famous for Warwick Castle,
-the construction of which began in 1068. The town centre is also known
-for its historic architecture and contains a mixture of Tudor
-and 17th-century buildings. In recent years several high-profile
-national and international companies have set-up large office complexes
-in and around Warwick, notably National Grid plc and IBM.
-
-Warwick is also known for Warwick Racecourse,
-near the west gate of the medieval town which hosts several televised
-horse racing meetings a year. Within the racecourse is a small
-golfcourse. Warwick Hospital, Royal Leamington Spa Rehabilitation Hospital and St Michael's Hospital (a psychiatric that superseded Central Hospital, Hatton) are situated within the town.
-
-Warwick is twinned with Saumur in France and Verden, Germany. Warwick was twinned with Saumur in 1976. Verden, already the twin town of Saumur, became Warwick's German partner in 1989. Havelberg,
-in the former East Germany was adopted by Verden on re-unification, and
-was welcomed as a friendship town by Warwick and Saumur. As part of
-Warwick District, the town participates in One World Link (OWL), a friendship link with Bo in Sierra Leone.
+Warwick is a working county town as much as a tourist destination, which gives it a slightly different feel from places that exist purely to be visited. The market square and the side streets off the High Street have independent shops and cafes alongside the usual chains. St Mary's Church dominates the skyline alongside the castle, and both are worth your time.

@@ -1,11 +1,16 @@
 ---
-title: "Khatgal"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.444229
 longitude: 100.157935
+title: Khatgal
+type: location
 ---
 
-Travel Guide
+Khatgal is a small settlement at the southern tip of Lake Khövsgöl, the gateway to one of Mongolia's most beautiful landscapes. The lake — often called the "Blue Pearl of Mongolia" — sits at 1,645 metres, holds nearly 70 percent of the country's fresh water, and is so clear you can see the bottom in places several metres deep.
 
-Local Bonda Lake Camp offers various of tours such are nature and cultural tours to the adventures featured on fishing,hiking,winter tours,explore nature and visit 5 Nomad nationality, horse back riding,visiting reindeer herders and Darhad valley. These tours will be running through the most favourite and unexplored remote places to discover.We have started our most famous horsetrips since 1993 in Khovsgol region.Lake Khovsgol is land of great beauty, is a sacred place for the locals, who refer to it as the name of "Mother", and is appointed by the Mongolian "Blue pearl of Mongolia" because its very pure water as clear as a mountain stream, and its depth.Through a horse riding,you have chance discover with us the lake Khovsgol north of Mongolia and its beautiful waters, then heading north to go to the meeting Tsataan, nomadic, reindeer herders, living in teepees in the north of Khovsgol area.
-This region is itself a marvel, perched at 1645 m altitude in a green mountains, covered with thick pine forests and lush meadows with grazing yaks and horses, and wildlife are a rich: the lake has a 9 species of fish and its surroundings are full of sheep, goats, elk and more than 430 species of birds.There is 5 different Mongolian nationailty. Its Khalh,Darhad,Buriad,Hotgoid,Urianhai.
+The surrounding area is classic northern Mongolian scenery: pine-forested mountains, lush meadows grazed by yaks and horses, and a wilderness that stretches unbroken to the Siberian border. The lake supports nine species of fish, and the forests and grasslands are home to elk, wild sheep, and more than 430 species of birds.
+
+Most visitors use Khatgal as a base for horse treks along the lake's western shore and into the Darhad Valley to the north, where the Tsaatan (Dukha) people — one of the last communities of nomadic reindeer herders in the world — live in traditional teepees. Multi-day horseback trips have been running here since the early 1990s and remain one of Mongolia's most memorable travel experiences. In winter, the lake freezes solid enough for truck traffic, and ice fishing and dog sledding take over.
+
+The easiest access is by road from [Mörön](/asia/mongolia/moron), the provincial capital, about 100 km to the south.

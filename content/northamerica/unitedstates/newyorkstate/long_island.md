@@ -1,10 +1,14 @@
 ---
-title: "Long Island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.7282
+longitude: -73.7949
+title: Long Island
 type: location
-latitude: 40.851497
-longitude: -73.09943
 ---
 
-Travel Guide
+Long Island stretches 115 miles east from New York City into the Atlantic, a long wedge of sand and suburb bookended by the urban density of Queens and the empty beaches of Montauk. For most of its length the island is relentlessly suburban — Nassau and Suffolk counties are two of the most densely populated areas in America — but the extremities are another matter.
 
-**Long Island** is a long island stretching eastward from New York City . The largely suburban area is approximately 115 miles long from Brooklyn and Queens at the western end, to Montauk at the easternmost point. At its widest the island is approximately 20 miles from north to south. While Long Island geographically includes Brooklyn and Queens, politically Long Island in general includes Nassau County and Suffolk County of New York State only.
+At the eastern end, the twin forks of the North and South Forks split around Peconic Bay. The South Fork is the Hamptons, where summer money has been flowing for over a century: the beaches at Southampton, East Hampton, and Montauk are genuinely excellent, wide and backed by dunes, though the town centres are thick with boutiques. The North Fork is quieter, less fashionable, and has been producing serious wine since the 1970s — a drive along the main road in autumn passes dozens of vineyard tasting rooms. Montauk at the tip is still relatively rough around the edges compared to the Hamptons towns further west, and the surf here is the best on the island.
+
+Fire Island, a narrow barrier island off the South Shore accessible by ferry, has no cars, a string of small communities, and a long stretch of national seashore that is worth going out of your way for.

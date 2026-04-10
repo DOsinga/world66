@@ -1,11 +1,14 @@
 ---
-title: "Darra adam khel"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.685011
 longitude: 71.516624
+title: Darra Adam Khel
+type: location
 ---
 
-One of the more unusual attractions of Pakistan, Darra is the gun factory of the Tribal Areas, located 40 kilometres south of [Peshawar](/asia/pakistan/peshawar) on the road to [Kohat](/asia/pakistan/kohat), a drive of about 40 minutes. To visit the gun factories, foreigners need a permit from the Home Secretary of NWFP whose office is in the civil Secretariat on Police Road. Apparently the effective control of the government is somewhat limited and it seems to be possible to just go and pay the gun-people some money. Note that here may be risk involved in coming here.
+Darra Adam Khel is one of the more unusual attractions in Pakistan — a small bazaar town whose entire economy revolves around a single trade: making guns. Located in the Tribal Areas, 40 kilometres south of [Peshawar](/asia/pakistan/peshawar) on the road to [Kohat](/asia/pakistan/kohat), it is a drive of about 40 minutes.
 
+The town is lined with small workshops openly producing copies of almost every weapon imaginable — AK-47s, pistols, rocket launchers — alongside bullets sold by the cartridge. Shopkeepers invite visitors in to inspect (and buy) their wares. Visitors can pay to fire weapons at a range. It is noisy, chaotic, and extraordinary.
 
- Take a minibus from Peshawar to Darra (10 Rs, 1h). At Darra you have to leave the bus at the gunman's checkpoint. The gunmen will escort you through the city. They will show you the factories where guns and bullets are produced. You can shoot a round with an AK47 for 50 USD or anything else for more.
+Note that the area carries genuine risk. The government's effective control is limited. Check current advisories carefully before visiting.

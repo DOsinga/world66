@@ -1,8 +1,12 @@
 ---
-title: "Conwy"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 53.146093
 longitude: -3.75992
+title: Conwy
+type: location
 ---
 
-Conwy, Wales is in the north. It's a lovely town, and unique because it is, if I remember correctly from my visit, the only town that is still contained inside the walls of it's parental castle. The Conwy Castle walls are still completely entact and enclose the town. It's amazing to see and with the entrance fee to the castle, you can walk the entire wall. It is absolutely incredible. I highly recommend a visit here. It is especially convenient if you are driving and want to go to Dublin because Conwy is on the way to the town where you get the auto ferry to Ireland.
+Conwy is one of the best-preserved medieval walled towns in Britain. The town walls, built by Edward I in the 1280s as part of his ring of fortresses across north Wales, still encircle the old town almost completely — you can walk the full circuit of the battlements and look down into the streets below. Conwy Castle itself is an impressive hulk of towers and great halls perched above the estuary, and along with the walls it forms a UNESCO World Heritage Site.
+
+The town is small enough to cover on foot in a morning, with a compact centre of old stone streets, a good quayside, and the claim to fame of Europe's smallest house (genuinely tiny, on the quay). Conwy sits on the A55, the main north Wales coastal route, and is a natural stopping point between [Llandudno](/europe/unitedkingdom/wales/colwyn_bay) and [Bangor](/europe/unitedkingdom/wales/bangor_wales). The Holyhead ferry to Dublin is a few miles further west, making Conwy a convenient overnight stop on the Ireland crossing.

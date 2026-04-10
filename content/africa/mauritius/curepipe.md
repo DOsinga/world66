@@ -1,8 +1,10 @@
 ---
-title: "Curepipe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -20.315052
 longitude: 57.52115
+title: Curepipe
+type: location
 ---
 
 Curepipe is the main commercial town of the central plateau, sitting at 550 metres above sea level — cooler and often cloudier than the coast. It's primarily a shopping town for Mauritians, known for its model ship workshops (a Mauritian craft speciality), textile factories, diamond cutting operations, and the Floreal Knitwear factory shop where you can buy quality wool knitwear at good prices.

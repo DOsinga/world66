@@ -1,46 +1,14 @@
 ---
-title: "Silkeborg"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 56.169453
 longitude: 9.549514
+title: Silkeborg
+type: location
 ---
 
-Silkeborg is situated on the banks of the Gudenå river, surrounded by large forests and beautiful lakes. The city is situated at the largest lake district in Denmark. 
+Silkeborg sits at the heart of Denmark's lake district, surrounded by the country's largest connected network of lakes and the Gudenå river, which winds its way east to Randers Fjord. It is a pleasant, prosperous town of around 45,000 people and one of the best bases for exploring the gentle landscape of central Jutland.
 
+The main attraction is the **AQUA freshwater aquarium**, one of the largest in Northern Europe, with otters, pike, and other river and lake species in naturalistic settings. The **Hjejlen** paddle steamer, which has been sailing the Silkeborg lakes since June 18, 1861, is the world's oldest operational paddle steamer — still running its original steam engine. In summer it makes regular sightseeing trips up the Gudenå and across the lakes. The illuminated **colour fountain** on the lake is worth seeing after dark when the lights change.
 
-
-
-
-
-
-
-
-
-
-Sights include AQUA - the largest fresh water aquarium in Northern Europe, where you can see otters among other animals.
-
-Your can also take a trip on the world's oldest operative paddle steamer, the oldest steamboat in the world which still remains in its original form. The steam engine is the original engine used on the boat's first sailing on the Silkeborg lakes on June 18th 1861. It is still going strong and when you visit Silkeborg in the summer time, it is ready to bring you on sight-seeing on the lakes and up the Gudenå river. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Finally you shouldn't miss Northern Europe's largest colour fontain, especially not in the evening where you can see the colours change.
+The **Silkeborg Museum** houses the Tollund Man, a remarkably preserved 2,400-year-old bog body whose leathery face and serene expression have fascinated visitors since his discovery in 1950. He is displayed near the spot where he was found.

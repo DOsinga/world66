@@ -1,10 +1,6 @@
 ---
-title: "Shopping in Charleston"
+title: "Shopping"
 type: section
 ---
 
-The Old City Market
-The Old City Market in downtown Charleston is a special place to find special crafts and other items. Without a visit there the Charleston shopping experience would not be complete. First its history is notable since it has been a shopping district for the nearly 200 years. Housed in two historic buildings, there are plenty of vendors of all types, including local artisans and international importers who are located in the Open Air Market and enclosed Rainbow Market. Among the many items offered by local crafts people are the famous Charleston sweetgrass baskets.
-
-**Contributors**
-May 26, 2009
+**King Street** is Charleston's main shopping strip, running north from the historic district through a mix of high-end boutiques, antique stores and (further up) design shops. **Charleston City Market** is the place for **sweetgrass baskets** woven by Gullah artisans — a genuine American craft with deep African roots — as well as souvenir tea towels and Lowcountry preserves. For antiques, the stretch of King Street between Broad and Market is particularly strong.

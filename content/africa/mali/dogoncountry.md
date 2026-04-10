@@ -1,17 +1,16 @@
 ---
-title: "Dogon Country"
+title: Dogon Country
 type: location
+latitude: 14.3
+longitude: -3.45
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Dogon country is definately one of the highlights of West-Africa and absolutely worth a visit.
+Dogon Country is one of the highlights of West Africa. The Bandiagara Escarpment, a 200-kilometre sandstone cliff running through the heart of this region, shelters a string of villages built into the rock face by the Dogon people over centuries. Their culture, with its elaborate mask dances, animist ceremonies, and distinctive mud-brick architecture, has survived here largely because the terrain kept the outside world at bay.
 
-The main thing you will want to do is hike to a number of villages on the escarpment, with a local guide and get to know the people and the way they have lived here for centuries. For details about different possibilties, see Dogon Country/hiking. In all cases it is best to stay at least one night in one of the villages, but it is also possible to to it as a daytrip. In that case [Bankas](/africa/mali/dogoncountry/bankas) on the Mopti to [Burkina Faso](/africa/burkinafaso) road is your best starting point.
+The main reason to come is to hike from village to village along the escarpment, sleeping in basic guesthouses and getting to know Dogon life at walking pace. You will need a local guide, and you should plan at least two days to get beyond the most visited spots. One-day treks are possible but barely scratch the surface.
 
- In other cases the best starting point to explore Dogon country is probably [Bandiagara](/africa/mali/dogoncountry/bandiagara). Check the details at that location. 
+[Bandiagara](/africa/mali/dogoncountry/bandiagara) is the most common starting point, a dusty town with transport connections to [Mopti](/africa/mali/mopti). [Sanga](/africa/mali/dogoncountry/sanga), 40 km to the northeast, sits right on the escarpment and offers shorter loop hikes. [Bankas](/africa/mali/dogoncountry/bankas) at the southern end is quieter and has more relaxed guides. [Djiguibombo](/africa/mali/dogoncountry/djiguibombo), reachable from Bandiagara, gives access to the villages of Ende, Teli, and Kani Kombole.
 
-## Destinations in Dogon Country
-
-[Bandiagara](/africa/mali/dogoncountry/bandiagara)
-[Sanga](/africa/mali/dogoncountry/sanga)
-[Bankas](/africa/mali/dogoncountry/bankas)
-[Djiguibombo](/africa/mali/dogoncountry/djiguibombo)
+If you get the chance, try the local millet beer, served from a shared gourd. It is strong and the hygiene is rustic, but it is part of the experience. Ask before taking photographs of people.

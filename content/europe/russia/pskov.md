@@ -1,14 +1,16 @@
 ---
-title: "Pskov"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 57.8174
+longitude: 28.3343
+title: Pskov
 type: location
-latitude: 57.817392
-longitude: 28.334346
 ---
 
-Pskov is an ancient Russian city, situated almost on the border with Latvija and Estonia, on the shores of the river Velikaya. It was founded in IX century and soon become a center of a big medieval feudal republic. It was a city of merchants and because of its agressive neighbours - Teutonic Order, Litva and Poland - it needed a good fortifications. Thus Pskov was one of the strongest fortresses in medieval Europe, it was besieged 42 times, only 2 times stormed succesfully.
+Pskov is one of Russia's oldest cities, founded in the 9th century on the banks of the Velikaya River near what is now the Estonian and Latvian border. Through the medieval period it was the centre of an independent feudal republic — a city of merchants who, given their aggressive neighbours (the Teutonic Order, Lithuania, and Poland), had every reason to build exceptional fortifications. The Krom, Pskov's medieval kremlin, was besieged 42 times over its history; only twice was it successfully stormed.
 
-Now this city have a lot of tourists attractions, such as Krom - medieval fortress, well preserved, situated in the center of the city, several towers in different parts of the city, on of them, Pokrovskaya Tower, 40 meters high aand extremely broad, was once a biggest sinle fortification building in Northern Europe. Also there's a big cathedral in the Krom, great iconostasis (row of icons) inside it, almost 40 meters high and 20 meters wide, with a lot of jilted wood. Also there's more than 40 ancient churches in the city, most of them built earlier then XVI century.
+The Krom still stands at the heart of the city, sitting on a promontory at the confluence of two rivers. Inside it, the Trinity Cathedral has a remarkable gilded iconostasis nearly 40 metres high. The Pokrovskaya Tower, part of the outer ring of fortifications, was once reputedly the largest single fortification structure in Northern Europe — it's still impressively broad at 40 metres tall.
 
-Outside the city there's an ancient fortress of Izborsk, also worth to see it, and Pskov-Pechorian Lavra (monastery), one of the biggest and most beautiful monasteries in Russia.
+Beyond the kremlin, the city has more than 40 ancient churches, most built before the 16th century. The nearby fortress town of Izborsk and the Pskov-Pechory Monastery (Pskovo-Pechersky Lavra) — one of the most beautiful active monasteries in Russia, built partly into a hillside — are both worth the short journey out of town.
 
-Pskov could be reached by the road from St-Petersburg (320 km), from Latvijan border(50 km), or by railroad from any of the big cities nearby, in Russia and in Baltic states.
+Pskov is about 320 kilometres from St Petersburg by road or rail, and 50 kilometres from the Latvian border.

@@ -1,10 +1,12 @@
 ---
-title: "St. Croix"
+done:
+  location_cleanup: '2026-04-08'
+title: St. Croix
 type: location
 ---
 
-The biggest of the US virgin islands is best explored from the town of Christiansted. Colonial development of the Virgin Islands is commemorated by the 18th and the 19th century structures in the heart of the capital of the former Danish West Idies on St. Croix Island
+St. Croix is the largest of the US Virgin Islands, and the most historically layered. Where St. Thomas runs on tourism and St. John on eco-credentials, St. Croix has a quieter confidence — colonial architecture, working towns, and some of the best diving in the Caribbean without the crowds.
 
- Just a few miles away is Salt River Bay. It is the only known site where members of the Columbus expedition set foot on what is now U.S. territory. The park contains the only ceremonial prehistoric ball court ever discovered in the lesser Antilles, village middens, and burial grounds. The area was a focal point of various European attempts to colonize the area during the post-Columbian period by the Spaniards, French, Dutch, English, and Danish. The site is marked by Fort Sale, a remaining earthworks fortification from the Dutch period of occupation. 
+The main base is Christiansted, a compact waterfront town whose 18th- and 19th-century Danish buildings still line the harbor. Pastel warehouses, a fort, and an old customs house give it the feel of a place that hasn't tried too hard to pretty itself up. On the western end of the island, the smaller town of Frederiksted has its own fort and a more relaxed pace.
 
- Just off the coast you find one of the finest marine gardens in the Caribbean Sea. The elkhorn coral barrier reef that surrounds two-thirds of the island has extrodinary coral formations, deep grottoes, abundant reef fishes, sea fans and gorgonians, and the occasional sea turtle. At the eastern most point of the reef is the famous underwater trail; both novice and expert snorkelers will enjoy the passages through the reef. The island, which has an overland nature trail and white coral sand beaches, is a rookery for endangered brown pelicans and a nesting area for three species of sea turtles. Seasonally Buck Island Reef supports one of the last remaining protected nesting populations of endangered hawksbill sea turtles in the eastern Caribbean. Visitors can take daily trips to the park. Once there they can enjoy the tropical island its extraordinary array of marine life and tropical flora and fauna while leasurely swimming in the crystal clear waters, or snorkeling or SCUBA diving through the fantastic reef or hiking over the island while getting a birds-eye view of the reef and sea below.
+Just outside Christiansted, Salt River Bay is the only confirmed site in what is now US territory where Columbus's expedition made landfall, in 1493. It's also an important archaeological site — a prehistoric ceremonial ball court, burial grounds, and village middens from the island's indigenous Taíno people — and a protected estuary worth kayaking through. Offshore, Buck Island Reef National Monument protects an elkhorn coral barrier reef with an underwater trail that works for snorkelers as much as divers. Sea turtles, reef fish, sea fans, and the occasional hawksbill nesting on the beach make it one of the more rewarding half-day trips in the region.

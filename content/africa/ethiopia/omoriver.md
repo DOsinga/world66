@@ -1,10 +1,12 @@
 ---
-title: "Omo River"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 5.515121
 longitude: 36.176738
+title: Omo River
+type: location
 ---
 
-The Omo river runs from the Highland of Ethiopia to the Nile in the lowland of Sudan.
+The Omo River runs from the Ethiopian Highlands south to Lake Turkana on the Kenyan border, carving its way through some of the most remote and culturally rich territory in East Africa. The lower Omo valley is home to several indigenous peoples — the Mursi, Hamer, Karo, and others — who maintain traditions largely unchanged by the outside world.
 
-The Omo river offers the ultimate rafting journey, a wild and beautiful immersion in an almost prehistoric world. Deep forested gorges hide thundering waterfalls, wildlife is prolific and you will encounter some of the most remarkable tribal peoples on earth.
+The river offers one of Africa's great rafting journeys: deep forested gorges, thundering waterfalls, and prolific wildlife. It is not easy to reach and not easy to run, but for those who make the effort, the Omo is an immersion in a landscape that feels genuinely prehistoric.

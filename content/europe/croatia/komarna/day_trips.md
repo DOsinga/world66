@@ -1,25 +1,14 @@
 ---
-title: "Day Trips in Komarna"
+title: "Day Trips"
 type: section
 ---
 
-****
+Komarna is well placed for day trips along the coast and into Herzegovina.
 
-**Neretva River Safari**
+**Neretva River Safari** — From the village of Vid, 25 km north, you can take a ride on traditional flat-bottomed boats (trupica or lađa) through the [Neretva](/europe/croatia/neretva) delta wetlands. Most trips include a tasting of local specialities: frogs, eels, dried figs, and homemade grappa.
 
-Embark on Neretva River Safari from village Vid, only 25 km far from Komarna. On Neretva river people, throughout the history, have used specially designed little boats, called "trupica" ili "ladja". Today, locals offer the river ride in these traditional boats. Most of the trips include also degustation of the local specialities, like frogs and eels, dry figs and local "grappa".
+**Ston** — Half an hour south. The 5.5 km of medieval walls are the second longest in Europe after the Great Wall. Ston is also famous for its oysters — eat them fresh at the waterfront.
 
-**Ston**
+**[Dubrovnik](/europe/croatia/dubrovnik)** — An hour's drive south. The walled old town needs no introduction.
 
-Ston is only half an hour drive from Komarna. During Dubrovnik Republic, long fortified walls were built around Ston to protect Dubrovnik Republic from the enemies. The walls are 5.5. km long. Beside its historical sites, Ston is very famous for its sea food, particulary oysters.
-
-**Dubrovnik**
-
-Old town Dubrovnik is a must see place. It is surrounded by the walls. You will be enchanted by its streets, squares, churches, monestries, port...
-
-**Mostar**
-
-Mostar is 65 km nort of Komarna. The biggest attraction in Mostar is its Unesco listed Old Bridge. The old turkish style houses in the old town are very interesting to see. Taste local meat dish - cevapcici.
-
-**Contributors**
-November 04, 2008
+**Mostar** — 65 km inland in [Bosnia-Herzegovina](/europe/bosniaherzegovina). The UNESCO-listed Old Bridge and the Ottoman old town are the highlights. Try ćevapčići while you are there.

@@ -1,10 +1,14 @@
 ---
-title: "O Salnés (Salnes Valley)"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 42.51
+longitude: -8.8
+title: O Salnes
 type: location
 ---
 
-O Salnés (Salnes Valley) traveling along the ría of Arousa's southern shore passing by villages offering varied and interesting allures, but each and every one of them has its own symbol. O Salnés presents an important natural inheritance with beautiful panoramic views of the coast and vineyard valleys. It is one of the sub-zones for the Domination of Origin Rias Baixas.
+O Salnes is the wine country of Galicia's Rias Baixas, a valley stretching along the southern shore of the Ria de Arousa where the Albarino grape reaches its finest expression. The landscape is a patchwork of small vineyards, granite villages, and misty green hills rolling down to the coast.
 
-Vine growing has a 2000-year-old tradition in Galicia. All possible types of vine can be found here, growing mainly in the valleys, following the river-courses and making the landscape tremendously attractive. Harvesting the grape begins normally in the month of August and goes on until October. It is a time of hard work, but enveloped in a festive atmosphere, when it is common to here the songs and aturuxos going from one vine to another. Gallego wines are usually young and have an alcohol content between 11 and 13 degrees. The whites are among the most prized Spanish wines worldwide, and are of extraordinary quality.
+Vine-growing here goes back two thousand years, and the harvest between August and October still carries a festive atmosphere, with songs drifting from one vineyard to the next. The whites produced here — crisp, aromatic, and slightly mineral — rank among Spain's most prized, and the Albarino from O Salnes is considered the benchmark for the entire Rias Baixas denomination.
 
-Minor corrections on 04 March 05
+Beyond the wine, the valley offers interesting history. The Torres de Oeste in [Catoira](/europe/spain/galicia/o_salns_salnes/things_to_do/catoiras_torres_d) are medieval defence towers built to guard against Viking raids up the Ulla River toward Santiago de Compostela. Each August, Catoira hosts the Festa Vikinga, one of Galicia's most colourful festivals, with thousands of revellers dressed as Vikings sailing in on a replica longship.

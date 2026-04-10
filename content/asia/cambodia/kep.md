@@ -1,12 +1,16 @@
 ---
-title: "Kep"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 10.4822
+longitude: 104.3167
+title: Kep
 type: location
-latitude: 10.402154
-longitude: 104.265062
 ---
 
-The sleepy seaside town of Kep wasn't always so sleepy. Before Pol Pot and the Khmer Rouge kicked everybody out, this was [Cambodia](/asia/cambodia)s major tourist destination. Evidence of this can be seen everywhere, from the hollowed out remains of what were once lavish beach resorts to the overgrown tennis courts. 
+Before the Khmer Rouge, Kep was Cambodia's glamour resort. In the 1960s, Phnom Penh's elite and visiting foreign dignitaries came here for weekends by the sea — the Gulf of Thailand side, sheltered and warm, with whitewashed villas and shaded terraces. Pol Pot's regime drove everyone out and left the buildings to the jungle. The shells are still there: roofless mansions draped in vines, swimming pools filled with nothing, a bullet-pocked Mercedes in a driveway that locals say once belonged to Pol Pot himself.
 
-Although far off the beaten track for most tourists, Kep is just over 100 kilometres from the main regional port of [Sihanoukville](/asia/cambodia/sihanoukville) and is an ideal destination for anyone wanting to see first hand the devastation that the Pol Pot regime created. Once majestic hotels and resorts, now reduced to empty skeletons are dotted all over the area. A newish but bullet ridden Mercedes in the driveway of one of the hotels is reputed by locals to be last used by Pol Pot before he was driven into hiding. 
+The ruins are the reason many people come, and they don't disappoint. But Kep has also built a life around them. The town is small, quiet, and genuinely relaxing. The famous crab market on the waterfront sells fresh blue swimmer crabs cooked with Kampot pepper — one of the great cheap meals in Southeast Asia. The national park behind the town has trails through dense forest to viewpoints over the coast and nearby islands.
 
-One word of warning, the area is still littered with land mines - probably why this area is a long way from being restored to its former glory.
+Kep sits about 25 kilometres from [Kampot](/asia/cambodia/kampot), which makes a natural base if you want more amenities. Many visitors do a half-day or full-day trip from there. The road between them follows the coast past salt flats and pepper plantations.
+
+Getting here is straightforward by minibus from [Phnom Penh](/asia/cambodia/phnompenh) (around 3–4 hours) or by taxi or motorbike from [Kampot](/asia/cambodia/kampot). Note that the surrounding countryside was heavily mined during the Khmer Rouge years — stick to marked paths in the national park and don't wander into unfamiliar areas off the road.

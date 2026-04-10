@@ -1,23 +1,16 @@
 ---
-title: "Donauwörth"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 48.718036
 longitude: 10.78073
+title: Donauwörth
+type: location
 ---
 
-Donauwörth is located, where the rivers Donau and Wörnitz meet. As one of the bigger towns along the Romantic Road it offers complete holiday possibilities (concerts, sports etc.) including sights like the town hall, the munster church, a Baroque monastery church and some museums.
+Donauwörth sits where the Wörnitz meets the Danube, making it one of the more substantial stops on the Romantic Road. It is a working Bavarian town rather than a museum piece — rebuilt after heavy Second World War bombing but done carefully, so the old streets still feel like themselves.
 
+The Reichsstrasse, the long main street, is one of the most photogenic in the region: colourful gabled houses line both sides as it climbs to the late-Gothic Liebfrauenmünster, whose tower offers a good view over the river confluence below. At the top of town, the Benedictine abbey church of Heilig Kreuz is worth the short detour.
 
- More informations:
+The Käthe-Kruse-Puppen-Museum is an unexpected pleasure. Käthe Kruse (1883–1968) revolutionised the toy industry by making soft, lifelike dolls instead of the rigid porcelain figures common at the time, and the museum in a former monastery traces her life and work with genuine warmth. Even visitors indifferent to dolls tend to find it oddly compelling.
 
-
- Tourist office Donauwörth
-
-
- Städtische Tourist information
-
-
- Rathausgasse 1, 86609 Donauwörth
-
-
- Tel. +49 0906 - 789 145
+If you are passing through in late July, the Schwäbischwerder Kindertag is worth timing a visit around. Hundreds of local children dress in period costume and re-enact scenes from the town's history in a pageant that has been running for over a century.

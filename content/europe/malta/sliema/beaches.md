@@ -3,15 +3,6 @@ title: "Beaches"
 type: section
 ---
 
-There aren't many sand beaches in Malta. If you're staying in Sliema
-there's a large rock beach located in the point of the cape of Sliema.
+Sliema's shoreline is mostly flat rock rather than sand — typical of northeast Malta. There are ladders and steps into the water at regular intervals, and the swimming is excellent in the clear Mediterranean water. The rocky shelf at the tip of Tigné Point is a popular spot.
 
-A little and quiet sand beach can be found in front of the hotel called
-Plaza & Plaza Recengy, which is located just across the street off
-the coast boulevard. The sand in the beach is original Maltese sand,
-unlike the one in St. George's beach in [St. Julians](/europe/malta/stjulian).
-This beach is in favor of local people, especially youth. There are
-great opportunities for snorkelers like in all beaches of Malta.
-
-**Contributors**
-November 16, 2006
+For sand, the small beach near the foot of the peninsula is used mainly by locals. Alternatively, head to St George's Bay in [St Julian's](/europe/malta/stjulian), a short walk or bus ride away.

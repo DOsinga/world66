@@ -1,16 +1,14 @@
 ---
-title: "Persepolis"
+title: Persepolis
 type: location
-latitude: 29.935167
-longitude: 52.890404
+latitude: 29.9352
+longitude: 52.8904
+done:
+  location_cleanup: 2026-04-06
 ---
 
-**Persepolis** is one of the most ancient sites of [Iran](/asia/iran) located in 30 miles or 48 km northeast of Shiraz. It was founded by Darius the Great in the 6th century BC. 
+Persepolis is the ceremonial capital of the Achaemenid Empire, founded by Darius the Great around 518 BC and expanded by his successors Xerxes and Artaxerxes. The ruins lie on a vast stone terrace at the foot of a mountain, about 60 kilometres northeast of [Shiraz](/asia/iran/shiraz), and they remain one of the most impressive archaeological sites in the world.
 
-**Persepolis** has perfectly preserved magnificent palaces with detailed stone reliefs monuments of winged bulls with human heads (some covered with graffiti that is hundreds of years old), staircases and a citadel who wxperienced the presence of Alexander the Great in 330 BC. 
+The stone reliefs are the highlight — long processions of tribute-bearers from across the empire carved into the staircases of the Apadana palace, each delegation rendered with enough detail to identify their clothing, gifts, and ethnicity. Winged bulls with human heads guard the Gate of All Nations, some bearing centuries-old graffiti from earlier travellers. The scale of the ruins conveys the ambition of the empire that built them: the audience hall alone could hold 10,000 people.
 
-The on-site museum contains some of the best museum pieces anywhere in the Middle East. 
-
-**See also other cities of Iran** 
-
-[Isfahan](/asia/iran/isfahan) [Kashan](/asia/iran/kashan) [Kerman](/asia/iran/kerman) [Shiraz](/asia/iran/shiraz) [Tabriz](/asia/iran/tabriz) [Tehran](/asia/iran/tehran) [Qum](/asia/iran/qum)
+Alexander the Great burned Persepolis in 330 BC, but what survived is extraordinarily well preserved. The on-site museum holds some of the finest Achaemenid artefacts in Iran. Spring and autumn are the best times to visit — summer temperatures can exceed 40°C. Most visitors base themselves in Shiraz and make the drive out for a half day.

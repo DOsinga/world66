@@ -1,14 +1,14 @@
 ---
-title: "Scrivia valley"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.55
+longitude: 8.97
+title: Scrivia Valley
 type: location
 ---
 
-"/>
+The Scrivia Valley runs inland from [Genoa](/europe/italy/liguria/genoa) through a corridor of hills and chestnut woods toward the Giovi pass, which for centuries marked the boundary between the Ligurian Republic and the Holy Roman Empire. It's a quiet, workaday valley — more weekend retreat for Genoese than international tourist destination — but that's part of its appeal.
 
-  This itinerary starts from [Genoa](/europe/italy/liguria/genoa) and following the road to the Giovi pass you come to Campomorone - to be seen the "Puppet museum" - and taking the motorway to Milan you come to Ronco Scrivia, with an interesting medieval bridge, and then to Isola del Cantone, and Vobbia, with its unique castel. From here the road descend to Savignone, a populated summer resort, and Casella. Casella has been the regular destination of people on holiday, those who love good food and enjoy the peacefulness of the cool shade of age-long trees. Thanks to thaee trees Casella has gained the desiderable designation of "Pearl of the Scrivia Valley", . You can also reach Casella from Genoa by the picturesque narrow-gauge Casella train, known and esteemed abroad. You can see the village softly lying between Mount Maggio and the Scrivia river, an historical stream which kept Genoa, the "Superba", separate from the Holy Roman Enmpire. Continuing the main road, pass Montoggio and arrive in Torriglia a tiny so called "Switzerland of Liguria", a nice holiday resort with the ruin of its Fieschi castle and starting poiint of many trekking itineraries like the ones to [Manu national park](/southamerica/peru/manunationalpark). Nearby there is the big Brugneto artificial lake with many small villages in the peace of the woods and where you can eat very well almost everywhere at very reasonable prices ravioli and mushrooms with typical red wines like Polcevera or Morasca. 
+Following the road from Genoa, Campomorone comes first, home to an eccentric puppet museum. Further on, Ronco Scrivia has a well-preserved medieval bridge. Continuing south, Isola del Cantone and then Vobbia, where a distinctive castle clings to the hillside above the village.
 
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
-
- pelos@tn.village.it
-
- http://www.global.village.it/~pelos/index.htm
+The heart of the valley is Casella, long a summer destination for Genoese families drawn by the cool shade and the food — wild mushrooms, hand-made ravioli, and local wines including Polcevera and Morasca. You can reach Casella from Genoa on the narrow-gauge Casella railway, a slow and scenic ride that feels like it belongs to another era. From Casella the road continues to Montoggio and then to Torriglia, a small hill resort sometimes called the "Switzerland of Liguria," with the ruins of the Fieschi castle and a network of hiking trails into the surrounding hills. Nearby, the Brugneto reservoir sits among woods dotted with tiny villages.

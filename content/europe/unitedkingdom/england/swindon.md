@@ -1,8 +1,14 @@
 ---
-title: "Swindon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.561533
 longitude: -1.785432
+title: Swindon
+type: location
 ---
 
-Bustling like London, bursting with nightlife and rammed with so many shops, Swindon should be the top of your itinery. Set admidst the beautiful Malborough downs and nearby the picturesque Cotswolds, Swindon has everything on offer for everyone. Within easy reach of the M4 Motorway, you can access Heathrow via Swindon QUICKER than central london itself! Its prime location is ideal.With its famous railway heritage and uncherished past, its fascinating to see how quickly the population of Swindon has exploded over time. It's now one of the fastest growing towns in europe. The leisure facillites and shops are endless, so you will far from being bored!Come see for yourself what Swindon has to offer, you will not be disapointed! .............. I'm stunned. As a resident of 15 years I'm amazed to see my town described as 'Bustling like London, bursting with nightlife'. Swindon really does not have anything out of the ordinary for any tourist other than the relief you feel when leaving. So it has a railway museum...must be a great town then. Any place whose main tourist attraction is a museum centered around a bygone rail era is showing how little it really has to offer. Want to visit a french, lebanese or greek restaurant for a sit down after a trip to Swindons premier attraction? Sorry, the Swindonian culture precludes any culinary delights that do not include Italian or Indian cuisine. You'll have to go to Bath or Bristol for that. Swindon has grown immensely in recent times. Sadly this has only resulted in congested roads and substandard shopping facilities. You'll also find the town has no architecture of note, unless you consider the link centre or the renault building (as featured in a James Bond flick) the pinnacle of architectural achievements. The nightlife in Swindon is great if you are into the pubs with music pumping. It's like a flash
+Swindon is a large town in Wiltshire that grew up around the Great Western Railway works in the 19th century. It is not a tourist destination in the conventional sense, but it sits in a remarkably useful location — the Cotswolds, the Marlborough Downs, Avebury, and the White Horse at Uffington are all within easy reach, and it has good motorway and rail connections to London, Bristol, and Bath.
+
+The town's main attraction is STEAM, the Museum of the Great Western Railway, housed in the original railway works buildings. For anyone interested in industrial heritage, it is genuinely excellent. The old Railway Village nearby, a planned workers' community from the 1840s, is one of the earliest examples of social housing in Britain and has a quiet, atmospheric charm.
+
+The designer outlet at the McArthurGlen centre draws shoppers from across the region, and the Wyvern Theatre and Arts Centre keeps a reasonable cultural programme. Old Town, the original settlement on the hill above the railway, has a few decent pubs and restaurants and more character than the modern centre below.

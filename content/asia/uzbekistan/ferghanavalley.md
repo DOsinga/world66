@@ -1,6 +1,14 @@
 ---
-title: "Ferghana Valley"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.85
+longitude: 71.7
+title: Ferghana Valley
 type: location
 ---
 
-The Ferghana Valley is a tempting spot for those who have travelled all of the way to Central Asia. The Valley has many attractions, but they are simply not as closely packed as in other regions of Uzbekistan. Khokand has refurbished the palace of the Khan. Margilon has a silk factory which utilizes more modern production methods, but which also employs the old traditions. Rishtan has a tradition of uniquely designed pottery. A small town outside of Namangan is known by local people to produce the best knives in Uzbekistan.  The Valley also hosts a fledgling adventure tourism industry. Rock climbing, white water rafting, hiking, bungy jumping and even ski diving have been reported by travellers. The adventures are wholly unregulated. The travellor should expect more Soviet era army surplus than the latest gear. Some daring people haved lived to brag about it.
+The Ferghana Valley is a large fertile depression in the heart of Central Asia, shared between Uzbekistan, Tajikistan, and Kyrgyzstan. Enclosed by the Tian Shan and Pamir-Alay mountain ranges, it is the most densely populated region in Central Asia and has been an agricultural and commercial heartland for centuries, famous for silk, horses, and dried fruit.
+
+For travellers in Uzbekistan, the valley rewards a few days of slow exploration. The cities each have their own specialty. Margilon is one of the oldest silk-producing towns in the region — workshops here use traditional methods to produce ikat fabric with complex geometric patterns. Rishtan is known for the distinctive blue-and-white ceramics produced by local master potters. Khokhand has a restored 19th-century palace of the former Khanate and a covered bazaar.
+
+Adventure tourism is possible in the surrounding mountains — hiking, horse trekking, and river activities, though with rougher logistics than in more developed destinations. The valley is most pleasant in spring (April–May) and autumn (September–October) when the heat is manageable and the fruit bazaars are at their best.

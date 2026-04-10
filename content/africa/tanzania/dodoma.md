@@ -1,15 +1,12 @@
 ---
-title: "Dodoma"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -6.179118
 longitude: 35.746817
+title: Dodoma
+type: location
 ---
 
-Travel Guide
+Dodoma is Tanzania's official capital, though in practice [Dar es Salaam](/africa/tanzania/daressalaam) remains the country's commercial and administrative heart. Parliament meets here, but most ministries and government offices stay on the coast. The decision to relocate the capital was made under Nyerere in the 1970s — Dar es Salaam was considered too geographically peripheral — and the move has been inching forward ever since.
 
-Dodoma is in theory the capital of Tanzania . It is where the parliament (Bunge) meets but the cabinet ministers spend most of their time in [Dar es Salaam](/africa/tanzania/daressalaam) and that is also where most governmental offices are to be found. Dodoma cannot be reached by regular air flights and it is only now getting a university. To move the capital to Dodoma was decided already during the times of Nyerere in the 1970s, as Dar es Salaam was considered too peripheral geographically.
-
-Dodoma has little to offer the visitor. The historically interested may want to visit the railway hotel and the railway station which is an important hub along the Central Railway built by the Germans before World War I along the old caravan route. In Dodoma the railway crosses the Great North Highway , part of the road system that the British planned from Cape Town to Cairo. However, the road is in poor condition.
-
-More information on
-*Dodoma Travel*
+The city sits on a dry central plateau surrounded by wine-growing country and rocky hills. It is not a major tourist destination, but travellers passing through will find a few points of interest. The railway station is a hub on the Central Railway, built by the Germans before World War I along the old caravan route from the coast to Lake Tanganyika. Nearby, the old railway hotel dates from the same era. The point where the railway crosses the Great North Highway — part of the old British Cape-to-Cairo road scheme — is a reminder of the grand colonial infrastructure projects that shaped East Africa.

@@ -1,12 +1,14 @@
 ---
-title: "Cape Cod"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.798759
 longitude: -69.996066
+title: Cape Cod
+type: location
 ---
 
-Cape Cod is a truly unique destination. It’s amazing the amount of things to do in such a small place. It has yet to be destroyed with overdevelopment, save for certain areas inland that have evolved into strip mall central. But anyone who hops on 6A and makes the trip toward Provincetown, if they slow down, relax, and enjoy, will learn to appreciate the Cape as one of the most special places on Earth.
- 
- Cross the Bourne Bridge and you're there. Be careful of the Rotary all you out of staters: the rotary traffic has the right of way! Avoid the silliness of Rt 6, its another endless boring highway, and get off on 6a. Stop by the Cape Cod canal and watch the fishermen catch stripers and breed tales of the activity. Cruise down a bit to Sandwich and explore the beach with its impressive dunes. Enjoy all of the antique shops along the way. Just peel your eyes, and stop everywhere. When you have a beach need, turn left and you'll find it. It proves difficult at times as much of the land is privately owned, but thats part of the fun of exploring. Keep up this same path, and gop all the way to Provincetown. You can't really go wrong on the Cape, its too well catered to tourists.
- 
- And I have an important suggestion, if possible, avoid peak summer months as it get CRAZY. Traffic can back up for hours especially on Friday and Sunday nights when the flight
+Cape Cod is a hook-shaped peninsula stretching into the Atlantic from southeastern Massachusetts. Despite its modest size, the Cape packs in dune-backed beaches, saltwater marshes, cranberry bogs, and a string of towns each with their own character — from the antique shops of Sandwich to the artist colony atmosphere of Provincetown at the very tip.
+
+The best way to experience the Cape is on Route 6A, the Old King's Highway, which winds through the historic north-side villages. Skip Route 6, the mid-Cape highway — it's fast but soulless. Along 6A you'll find weathered shingled houses, farm stands, and quiet beaches. The Cape Cod National Seashore, established by JFK in 1961, protects 40 miles of pristine coastline on the outer Cape.
+
+The Cape is a summer destination above all, but if you can visit in September or early October you'll have the beaches largely to yourself. July and August bring serious crowds — traffic backs up for hours on Friday and Sunday evenings as weekend visitors pour on and off the peninsula.

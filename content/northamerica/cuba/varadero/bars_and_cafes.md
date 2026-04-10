@@ -1,9 +1,9 @@
 ---
-title: "Bars and Cafes in Varadero"
+title: Bars and Cafes
 type: section
 ---
 
-**Varadero bars and cafes** rank as some of the best in all of Cuba. For many years Cuba has been regarded by travelers as a truly romantic and iconic destination, partly because of its revolutionary past and partly because of its attraction to writers and artists over the years.
+Varadero's bars range from tiny local spots to cabaret venues. The best are the smaller ones that mix tourists and locals over genuine Cuban music.
 
 **La Arboleda**
 

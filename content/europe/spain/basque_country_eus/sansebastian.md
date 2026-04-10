@@ -1,14 +1,16 @@
 ---
-title: "San sebastian"
+title: San Sebastián
 type: location
-latitude: 43.322422
-longitude: -1.983889
+latitude: 43.3183
+longitude: -1.9812
+done:
+  location_cleanup: 2026-04-05
 ---
 
-**San Sebastian** is in important city in the Basque Region in the north of Spain. It lies in the shelter of the Monte lgueldo, Urgull and Ulía, and the river Urumea flows through the middle of it.
+San Sebastián — Donostia in Basque — is a small, impossibly elegant city on the Bay of Biscay in the north-eastern corner of Spain, just 20 kilometres from the French border. It is widely considered one of the most beautiful small cities in Europe, and unlike most of Europe's prettiest places it has earned the reputation on its own terms rather than for any single monument. The setting is extraordinary: a perfect crescent bay (the Bay of La Concha) bounded by two wooded hills and a small island, an elegant 19th-century city wrapping around it, and a medieval old town (the Parte Vieja) tucked at one end that is widely acknowledged as having the best food per square metre of anywhere in the world.
 
-San Sebastian is an important beach resort, but that's not all that there's to the city. The cosmopolitanism of the modern town with its large avenues and elegant tree-lined boulevards and picturesque old quarter are two important attractions. Don't miss the fishing port where excellent typical restaurants compete for business and where you find its two oldest churches - the Gothic **Church of San Vicente** and the **Baroque Church of Santa María**, as well as the 16th c Convent of San Telmo, converted into a museum and worthy of a visit to see its cloister and the paintings by the great Sert which decorated it.
+The **Playa de la Concha** is the most famous urban beach in Spain — a long curve of fine pale sand right at the foot of the old town, with a white iron railing and parasols that appear each morning like clockwork. Walk the paseo (the seafront promenade) west to Monte Igueldo for the classic elevated view back over the city, or east to Monte Urgull for the old fortress and the giant statue of Christ at its summit. Beyond the bay, **Playa de la Zurriola**, on the other side of the Urumea river, is where the surfers go.
 
-The beach of **La Concha** is worthy of mention, being a magical viewing point from the city out onto the Bay of Biscay, and if we add to this the Montes Urgull and lgueldo and the Island of Santa Clara, then the final result is a bay of outstanding beauty.
+The real reason to come is the food. San Sebastián has more Michelin-starred restaurants per capita than any city in the world — including three of Spain's three-star places (Arzak, Akelarre, and Martín Berasategui) — but it is the tapas bars of the Parte Vieja, where the Basques invented their own version of tapas called **pintxos**, that make this the food capital of Europe. Walk the narrow streets around Calle Mayor and 31 de Agosto after 8pm, push your way up to the bar of one pintxo place after another, and eat small plates of perfectly constructed bites — anchovies on bread, gilda skewers, stuffed txangurro crab, grilled foie on caramelised apple. Most people do five or six bars in an evening. Wash it down with **txakoli**, the dry, slightly sparkling local white, poured from bottles held high to aerate it.
 
-The Cathedral del Buen Pastor, the Municipal Casino, the Auditorium and the Congress Palace are modern structures of important addition to the urban surroundings.
+In September, San Sebastián hosts the **Festival Internacional de Cine**, one of Europe's top film festivals alongside Cannes, Venice, and Berlin, which turns the whole city into a ten-day red carpet. It is also the place to base yourself for exploring the Basque country: Bilbao and the Guggenheim are 100 km west, the French Basque coast (Biarritz, Saint-Jean-de-Luz) is 30 km north, and the wine region of Rioja Alavesa is 90 km south. Come in late spring or early autumn to avoid the worst of the crowds and get the best weather — the Atlantic rain, which the Basques call *sirimiri*, is a permanent feature of the climate the rest of the year.

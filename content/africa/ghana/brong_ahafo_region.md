@@ -1,12 +1,12 @@
 ---
-title: "Brong Ahafo Region"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 7.504739
 longitude: -2.912896
+title: Brong Ahafo Region
+type: location
 ---
 
-In the mid west of Ghana, between Ashanti Region and the Côte d'Ivoire Border lies Brong Ahafo Region, with **Sunyani** as it's capital.
+Brong-Ahafo lies in the mid-west of Ghana, sandwiched between Ashanti Region and the Côte d'Ivoire border, with Sunyani as its capital. It's one of Ghana's less-visited regions, which means fewer crowds and a more authentic experience than the heavily touristed south.
 
-This region also contains lot's of culture and wonderfull nature, but is less known to tourists then Ashanti, Northern, Central or Greater Accra Region.
-
-You can visit **Kintampo** and it's beautifull falls and prayer park. **Fiema** the monkey village, and many more. A good stop when going up north.
+The main draws are natural: the Kintampo Falls, one of Ghana's most impressive waterfalls, and the nearby prayer rock park; and the Fiema Monkey Sanctuary, a sacred forest where Colobus monkeys live alongside the community and can be approached on foot. The region makes a good stop on the road north towards Tamale and the upper regions.

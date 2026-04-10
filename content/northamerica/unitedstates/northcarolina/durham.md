@@ -1,8 +1,10 @@
 ---
-title: 'Durham'
+title: Durham
 type: location
 latitude: 35.996653
 longitude: -78.901805
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Durham is the gritty, creative corner of the Research Triangle, forming one of three points alongside [Chapel Hill](/northamerica/unitedstates/northcarolina/chapelhill) and [Raleigh](/northamerica/unitedstates/northcarolina/raleigh). Once known primarily as a tobacco town -- the old Lucky Strike factory still dominates the skyline -- Durham has reinvented itself around Duke University, a booming food scene, and one of the most interesting downtown revivals in the South.

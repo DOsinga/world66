@@ -1,8 +1,10 @@
 ---
-title: "Manihiki"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -10.422228
 longitude: -160.995904
+title: Manihiki
+type: location
 ---
 
 Manihiki is a remote atoll in the northern Cook Islands, about 1,200km north of Rarotonga. It consists of roughly 40 small islets ringing a large central lagoon, and the population of a few hundred lives primarily in the village of Tukao on one of the larger islets.

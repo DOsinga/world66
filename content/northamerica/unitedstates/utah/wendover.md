@@ -1,16 +1,14 @@
 ---
-title: "Wendover"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 40.7376
+longitude: -114.0314
+title: Wendover
 type: location
-latitude: 40.737597
-longitude: -114.03142
 ---
 
-Travel Guide
+Wendover is a small community on the Utah–Nevada border, sitting at the edge of the Great Salt Lake Desert in one of the most desolate and strangely beautiful landscapes in North America. The town's twin across the state line, West Wendover in Nevada, is a casino strip that draws Utahns looking for gambling, but the real draw here is the salt flats.
 
-Wendover is a small community located in an incredibly desolate and wonderfully bleak area. Right on the edge of the Great Salt Lake Desert, Wendover's primary claim to fame is its proximity to Wendover, Nevada, the first casino town that the lonely highway traveler encounters after leaving Utah.
+The Bonneville Salt Flats, a vast expanse of blindingly white salt stretching to the horizon, are home to the sport of extreme high-speed racing — land speed records have been set here since the 1930s, and Speed Week each August still draws racers from around the world. Nearby Pilot Peak, rising over 3,000 metres, was a landmark for nineteenth-century emigrants on the California Trail. The ill-fated Donner Party passed through in 1846. The mountain sits on Bureau of Land Management land and is open to hikers and climbers.
 
-But there's more to this region than slot machines. The salt flats are one of the most intriguing landscapes in North America, and home to the sport of extreme high speed racing. Many land speed records have been set on the white expanses of salt.
-
-Nearby Pilot Peak was a landmark for travelers in the 19th century, and the ill-fated Donner Party passed through the area in 1846. Pilot Peak is one of the tallest mountains in terms of its height (over 10,000 feet) above the surrounding terrain. Hikers and climbers are welcome since the mountain is on Bureau of Land Management public lands.
-
-More recently, the military established an air base for bomber training in world war II, and the nearby deserts are still home to training ranges for military aircraft.
+During World War II the military established an air base here for bomber training, and the Wendover Airfield Museum preserves the history of the site where the crew of the Enola Gay trained for their mission over Hiroshima.

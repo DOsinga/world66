@@ -1,6 +1,8 @@
 ---
-title: "Eating Out"
+title: Eating Out
 type: section
 ---
 
-Arlington restaurants are plentiful, but for great Thai food, check out Sawatdee Thai Restaurant on Clarendon Boulevard. I love pad thai with shrimp, and they have the best in the city. The noodles are chewy, and there is plenty of shrimp. Another good choice is the pineapple fried rice. If you like spicy food, they have a menu section of curry dishes. The portions are good and the service is excellent. The decor is beautiful with Asian art, sculptures, and Buddhas everywhere. Sawatdee Thai Restaurant is located in the Courthouse Plaza which is conveniently located at the Courthouse Metro stop.
+Arlington's restaurant scene is concentrated in Clarendon, Courthouse, and Ballston — all connected by the Orange Line Metro. Clarendon Boulevard and Wilson Boulevard are lined with Thai, Vietnamese, and Latin American restaurants catering to a young professional crowd.
+
+The Clarendon neighborhood has a strong Southeast Asian dining culture. Sawatdee on Clarendon Boulevard is a reliable Thai standby, known for its pad thai and curry dishes. For Vietnamese, head to the Eden Center in Falls Church nearby — a Vietnamese-American shopping plaza with some of the best pho and banh mi in the region.

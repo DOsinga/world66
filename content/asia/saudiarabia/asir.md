@@ -1,8 +1,10 @@
 ---
-title: "Asir"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 19.166667
 longitude: 43.166667
+title: Asir
+type: location
 ---
 
 The Asir region in southwest Saudi Arabia is one of the country's best-kept secrets. The mountains around Abha rise above 3,000 metres, trapping monsoon clouds from the Indian Ocean and producing a landscape of terraced hillsides, juniper forests, and waterfalls that feels nothing like the rest of the country. In summer, when the rest of Saudi Arabia bakes, Asir stays comfortably cool — locals and Saudis from the interior come here specifically to escape the heat.

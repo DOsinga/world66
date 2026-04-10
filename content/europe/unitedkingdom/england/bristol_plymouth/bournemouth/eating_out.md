@@ -1,5 +1,5 @@
 ---
-title: 'Eating Out in Bournemouth'
+title: 'Eating Out'
 type: section
 ---
 

@@ -1,17 +1,12 @@
 ---
-title: "Getting There in Padua"
+title: "Getting There"
 type: section
 ---
 
-**By air**
-The nearest airport is the "Marco Polo" Airport in Venezia (Venice), 20 kilometers (12 miles) east of Padua.
-There are buses which connect the Marco Polo airport directly to Padua. They leave every 30 minutes, usually at the 5th and the 35th minute of each hour. The earliest bus leaves at 6:35AM and the last bus in the night leaves at 0:10AM. Tickets can bought before boarding the bus (it is cheaper) or in the bus
+Padua sits on major rail and road routes, making it one of the easiest cities in the Veneto to reach.
 
-**By car**
-Padua is linked by highways with Venezia, Milano and Bologna
+**By train** — Padua is on both the Venice-Milan and Venice-Rome lines. Fast trains from Venice Santa Lucia take about 25 minutes; from Milan around two hours. The station is a short walk north of the historic centre.
 
-**By train**
-Padua is both on the Venezia-Milano and on the Venezia-Roma railways; many trains are available.
+**By air** — The nearest airport is Venice Marco Polo (VCE), about 40 km east. Direct buses run to Padua roughly every half hour, taking around 50 minutes. Verona's Valerio Catullo airport is another option for flights from within Europe.
 
-**Contributors**
-July 16, 2006
+**By car** — The A4 motorway (Venice-Milan) passes just north of the city, and the A13 connects south toward Bologna. Driving into the centre is restricted in places; park outside the ZTL zone and walk in.

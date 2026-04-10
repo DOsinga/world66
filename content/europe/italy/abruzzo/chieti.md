@@ -1,10 +1,12 @@
 ---
-title: "Chieti"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.102693
 longitude: 14.415905
+title: Chieti
+type: location
 ---
 
-Travel Guide
+Chieti sits on a ridge above the Pescara River in [Abruzzo](/europe/italy/abruzzo), with the Maiella and Gran Sasso mountains as a backdrop and the Adriatic Sea just a few kilometres to the east. The panorama alone is worth a stop.
 
-Chieti is a city 200 km northeast of Rome. It lies on a crest along the Pescara River a few kilometers away from the Adriatic Sea, and with the Maiella and Gran Sasso mountains in the background (incredible beautiful panorama). As Theate, Chieti was founded about 500 years before Rome. In Roman imperial times Chieti reached up to 60,000 inhabitants. For this the city is full of monuments and ruins of the Roman Empire (Theatre, Amphitheatre, Temples, Terms, etc). There are also monuments of Gothic and Baroque periods.
+As Theate, the city was founded roughly 500 years before [Rome](/europe/italy/lazio/rome) and grew to some 60,000 inhabitants under the Roman Empire. The remains of that era are scattered through the modern city: a theatre, an amphitheatre, temples, and thermal baths. Later centuries added Gothic and Baroque layers — the cathedral of San Giustino and the churches along the main corso are the highlights.

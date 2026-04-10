@@ -1,14 +1,16 @@
 ---
-title: "Denman Island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 49.5418
+longitude: -124.7945
+title: Denman Island
 type: location
-latitude: 49.54177
-longitude: -124.794502
 ---
 
-Travel Guide
+Denman Island sits tucked into the Strait of Georgia between Vancouver Island and the mainland — a quiet, rural place known for its arts community, white sand beaches, and unhurried pace. Along with its neighbour [Hornby Island](/northamerica/canada/britishcolumbia/hornby_island), it has more artists per capita than almost anywhere else in Canada, and it shows: potters, painters, and musicians live and work here year-round.
 
-From music to oil on canvas, Hornby and Denman Islands are home to more artists, per capita, than anywhere else in Canada. It’s easy to see why. Tucked in the rainshadow of Vancouver Island, both islands are remarkably drier than almost anywhere else on the BC coast. Views are of the Strait of Georgia and the snowcapped mountain ranges on either side. White sand and pebble beaches are popular spots all year round and parks and trails abound.
+The islands lie in the rainshadow of Vancouver Island, making them noticeably drier and sunnier than most of the BC coast. Parks and trails run through the forests, and the beaches draw visitors in every season.
 
-Many of the local artisans open their studios for drop in visitors or during studio tours, like the Denman Island Pottery Tour. Others show their work in local galleries. Musically speaking, concerts go on all year and climax with the nine-day Hornby Festival (www.hornbyfestival.bc.ca) in August. Along with an eye and an ear for art, don’t forget to bring your appetite: chocolate, meed, wine and produce is all grown and sold here and locally baked goodies are always a treat.
+Access is by BC Ferries from Buckley Bay, about an hour north of Nanaimo. The crossing to Denman takes around 10 minutes. To reach Hornby, you drive across Denman and catch a second short ferry. Accommodation and fresh water are limited in summer, so book ahead and come prepared.
 
-The side-by-side rural islands are just a short, BC Ferry jump from Vancouver Island. Access to the islands is by regular BC Ferries service at Buckley Bay, about an hour north of Nanaimo. A 10-minute ferry services Denman Island. To reach Hornby, drive 10-minutes through orchards and forest across Denman and catch another 10-minute ferry. Accommodations, campsites and fresh water are limited in summer months so be sure to plan your vacation ahead of time and tread lightly.
+The arts community is welcoming. Many local studios are open to drop-in visitors, and events like the Denman Island Pottery Tour give a good excuse to wander. The [Hornby Festival](https://www.hornbyfestival.bc.ca) — a nine-day music event held each August — draws crowds to both islands. Locally made chocolate, mead, wine, and produce are worth seeking out.

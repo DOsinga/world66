@@ -1,35 +1,14 @@
 ---
-title: "Eating Out in Porto"
+title: "Eating Out"
 type: section
-address: "travessa do Buel, 40"
-phone: "227 623 509"
-type: "Portuguese"
-url: "www.locanda.com.pt"
-latitude: 41.075909
-longitude: -8.599497
 ---
 
-**Porto restaurants** are offering all standard European dishes, but much more interesting is the traditional Portuguese cuisine. Here are a couple of places that offer traditional meals and worth visiting.**
-**
+Porto's food is unapologetically heavy and deeply satisfying. The city is famous for the francesinha — a tower of meat, cheese, and bread drenched in a spicy beer-and-tomato sauce — and for bacalhau prepared in ways you did not know existed. The locals are called tripeiros because of their fondness for tripe stew, and that is not a joke: tripas a moda do Porto is a genuine point of civic pride. You will eat well here, and you will eat a lot.
 
 **Tripeiro**
 
-This casual 3-floor restaurant is situated on Passos Manuel Street and offers undoubtedly the best Porto-Style Tripe in town. This dish is so popular in Porto that in fact the local residents are frequently called tripeiros (people who eat tripe). The Porto-style tripe is a soup made out of tripe, sausages and beans. Its preparation is very complicated, slow and requires a certain amount of patience. However, since this is the most ordered dish in the restaurant, you would hardly have to wait more than a several minutes until they serve it to you. Tripeiro has an original award-winning recipe acknowledged on worldwide cooking competitions.
+This casual three-floor restaurant on Passos Manuel Street serves what is widely considered the best tripe in Porto. The Porto-style tripe — a slow-cooked stew of tripe, sausages, and white beans — is the house speciality and the most ordered dish. Tripeiro's recipe has won awards at international cooking competitions, and given how popular the dish is, you will not wait long for it despite the elaborate preparation.
 
 **Chez Lapin**
 
-Chez Lapin is an attractive restaurant situated on S&aacute; de Noronha Street and having an excellent waterfront location. You can find some fantastic fish dishes in the menu, but you should certainly try the Bacalhau &agrave; Gomes de S&aacute;. This is a very special soup made out of codfish soaked in milk, potatoes and onions. It was invented and named after a popular Portuguese chef, who had a restaurant in Porto in the early 20th century. Unfortunately, his restaurant was closed long time ago, but Chez Lapin prepares this meal according to the original recipe and it is said that their Bacalhau &agrave; Gomes de S&aacute; is the most authentic.
-
-### [Locanda](/europe/portugal/porto/eating_out/locanda)
-
-This house special is the "francezinha" baked on a wood oven. You can also enjoy a pizza or home cooked food. Fantastic
-
-type: Portuguese
-
-
-
-tel: 227 623 509
-
-url: [www.locanda.com.pt](http://www.locanda.com.pt/)
-
-address: travessa do Buel, 40
+An attractive restaurant on Rua de Sao Nicolau with an excellent waterfront location on the Ribeira. The fish dishes are consistently good, but the reason to come is the Bacalhau a Gomes de Sa — salt cod baked with potatoes, onions, and soaked in milk, named after a Porto chef who invented the dish in the early twentieth century. Chez Lapin claims to follow the original recipe, and the result is convincing.

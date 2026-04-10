@@ -1,6 +1,10 @@
 ---
-title: "Beaches in Zambales"
+title: "Beaches"
 type: section
 ---
 
-Botolan, just 15 kilometers South of Iba, has beautiful unspoiled beaches abd several first class Resorts, one of which, Rama International Beach Resorts, supports a Turtle Hatchery for the conservation of sea Turtles that nest on the beaches of Botolan every year from October until late February. You may be lucky enough to actually witness a nesting or assist in releasing new borne Turtles
+Zambales has some of the best beaches in Central Luzon, and they are far less crowded than the famous strands of Boracay or Palawan. The coastline varies dramatically -- white sand coves in the north, volcanic grey-black stretches near Botolan, and tiny offshore islands you can have almost entirely to yourself.
+
+The most popular beaches cluster around Pundaquit in San Antonio municipality, where boats leave for the stunning coves of Anawangin and Nagsasa. Both are only accessible by water, with no permanent structures -- you camp on the beach. Further north, Potipot Island off Candelaria is a tiny sandbar with clear water and good snorkeling.
+
+Around Botolan, the beaches have a wilder feel. Sea turtles nest here from October to February, and the Rama International Beach Resort runs a turtle hatchery for conservation. You may be lucky enough to witness a nesting or help release newborn turtles into the sea.

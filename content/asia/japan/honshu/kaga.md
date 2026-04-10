@@ -1,14 +1,12 @@
 ---
-title: "Kaga"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.302762
 longitude: 136.315116
+title: Kaga
+type: location
 ---
 
-Travel Guide
+Kaga is a city of about 72,000 people in Ishikawa Prefecture, tucked between Komatsu and Fukui on the Sea of Japan coast. It's well off the usual tourist trail, which is part of its appeal — you'll experience everyday Japanese life here without the crowds.
 
-Kaga is located in the prefecture of Ishikawa located between the cities of Komatsu and Fukui. Its population is about 72,000 people.
-
-Kaga was the first city in Japan to twin with a Canadian city (Dundas which now is part of Hamilton) in 1968. Student exchanges have been occuring between Kaga and Dundas since then. When visiting Kaga, normally there are no other foreigners in the city except for the Canadians, thus you really experience Japanese life as the group lives with host families for the three or four week duration.
-
-With Kaga being on The Sea of Japan, there is a lovely sandy beach in the Shioya section of Kaga.
+The city has a long-running twin-city relationship with Dundas (now part of Hamilton) in Canada, established in 1968. Student exchanges have continued ever since, and visiting Canadians are often the only foreigners in town. The Shioya district has a pleasant sandy beach facing the Sea of Japan, and the surrounding area is known for its onsen hot springs.

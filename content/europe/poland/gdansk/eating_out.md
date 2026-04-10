@@ -1,15 +1,6 @@
 ---
-title: "Eating Out in Gdansk"
+title: "Eating Out"
 type: section
 ---
 
-Try the Restaurant
-
-**Piwnica Świętego Jerzego**więcej informacji‎
-
-**Piwnica Świętego Jerzego
-**Targ Węglowy 27Gdańsk58 301 85 32
-14 Slt, ,$4.77. buys a great lunh,supper of Pork steak , cabbage, potatoe and salad.
-Located just outside of the Golden Gate . Headed out of the Old Town, Go through the G.G. Turn right immediately and you are headed down stairs for a really good meal.
-
-Polish Cuisine, Dining on the patio also
+Gdansk's food scene has improved enormously since the early 2000s. The old town has a concentration of restaurants ranging from traditional Polish pierogi houses to contemporary Baltic cuisine making proper use of local fish, smoked meats, and seasonal produce. Amber-coloured Zywiec or Lech beer goes with most of it. The waterfront along the Motlawa has plenty of options but tends toward the tourist end; the streets behind, particularly around Sw Ducha, are better hunting ground.

@@ -1,8 +1,10 @@
 ---
-title: "Hadjer Hadid"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 12.7833
 longitude: 22.2167
+title: Hadjer Hadid
+type: location
 ---
 
 Hadjer Hadid is a small village in eastern [Chad](/africa/chad), best known as the location of two large refugee camps, Bredjing and Treguine, housing Sudanese refugees who crossed the border during the Darfur crisis. The camps have been there since 2003, and international organizations including MSF, Oxfam, and IFRC maintain a presence.

@@ -1,14 +1,14 @@
 ---
-title: "Pontine islands"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.9692
+longitude: 13.0547
+title: Pontine Islands
 type: location
-latitude: 40.969243
-longitude: 13.054723
 ---
 
-A stunning volcanic archipelago just off the coast of Lazio, the Pontine islands offer you turquoise waters, tiny vineyards, wild herbs and flowers. In the summer it can be pretty crowded with Italians flocking in from Rome but foreigners are still some sort of a rarity.
+The Pontine Islands are a small volcanic archipelago off the Lazio coast, close enough to Rome that Italians have claimed them entirely as a summer retreat — and far enough out to sea that the water is genuinely turquoise. If you come in July or August, you will be sharing the harbours with a lot of Romans. Come in May, June, or September and you will have things much more to yourself.
 
+Ponza is the island worth building a trip around. The coastline is dramatic — dark volcanic cliffs dropping into clear water, sea caves threading through the rock, small beaches tucked into coves you can only reach by boat. The Pilatus Caves, a vast Roman-era complex carved into the cliff face, are the most striking sight. Most visitors take at least one boat trip around the island, which is the best way to see the grottoes and find the quieter swimming spots.
 
- Ponza is the most interesting island. It's full of grottoes and secluded beaches. The Pilatus Caves are one of the main higlights and most visitors take one or more boat trips.
-
-
- Ventotene is smaller and more tranquil. For most of its history it was a prison and there's not a lot to see and do now. There are remains of a Roman villa - but they're not exactly spectacular. The beaches are okay but the tranquility of the island is probably the main draw.
+Ventotene, further out to sea, is a different proposition. It spent centuries as a Roman exile island — Augustus banished his daughter Julia there — and later became a Bourbon prison. Today it is small, quiet, and largely undeveloped. There are Roman ruins, a natural harbour cut straight into the volcanic rock, and very little else. Some travelers love it for exactly that reason.

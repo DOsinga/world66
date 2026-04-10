@@ -1,10 +1,14 @@
 ---
-title: "Inis Mor"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 53.1204
+longitude: -9.7056
+title: Inis Mór
 type: location
-latitude: 53.120352
-longitude: -9.705632
 ---
 
-Inis Mor is the largest of the three islands. It also has the most facilities for the traveler. It has safe, sandy beaches for bathing; clear water for sailboarding or boating. Facilities are provided for deep sea angling, or you can find many spots suitable for rock fishing. For conviviality, there are the islands pubs, where you can often hear the best of music, instrumental and vocal. Dances (sometimes ceilís) are held in Halla Rónáin. In the open air, Árainn is a paradise for bird watchers or the lover of wild flowers and plants. Many visitors like best of all to savour in the total freedom of the island's peace and quiet: walking our roads (there are two where no bus or car run) or the small myriad of small winding paths between stone walls or over open sandy dunes or by dizzying cliff heights. These walks are for many an enduring Árainn memory. 
+Inis Mór is the largest of the three Aran Islands, lying off the coast of County Galway at the mouth of Galway Bay. It is a slab of karst limestone nine miles long, windswept and treeless, crisscrossed by thousands of stone walls and scattered with some of the most impressive prehistoric and early Christian ruins in Ireland. Irish is the first language here.
 
-Dun Aengus is a very large and impressive stone fort, standing on a cliff top, almost 300ft above sea level. It is in the hill fort tradition and consists of four sets of dry-stone walls and a defensive feature known as "cheveaux de frise" - bands of stone, standing on edge. It is claimed that the fort was built by the Fir Bolg (who were a pre-historic tribe) and their leader Aengus. Recent excavation, by the Discovery programme, has produced evidence of activity on the site from the late Bronze Age (between 1000 & 700 BC) until early Christian times (around the corner from the five and dime). Evidence of habitation in the late Bronze Age includes traces of hut and hearth sites, a stone trough and a range of domestic material. The fort was strengthened and extended from time to time. It is likely that there is a protective wall on the sea side.
+The great draw is **Dún Aonghasa** (Dún Aengus), a massive semi-circular stone fort perched on the edge of a 100-metre cliff. It dates from the late Bronze Age (roughly 1100–800 BC) and consists of four concentric walls with a band of chevaux-de-frise — jagged stones set upright in the ground — as an outer defence. Standing at the cliff edge with the Atlantic below is one of the most dramatic experiences in Ireland.
+
+Beyond Dún Aonghasa, the island rewards walkers. The roads are quiet enough that bicycles are the standard transport — you can rent one at Kilronan, the main village, where the ferry lands. Smaller forts, early churches, and holy wells are scattered across the landscape. The beaches on the sheltered north side have clear water and fine sand, good for swimming on calm days. The island's pubs provide traditional music most evenings in summer.

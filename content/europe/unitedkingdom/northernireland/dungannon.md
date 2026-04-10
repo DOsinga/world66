@@ -1,8 +1,10 @@
 ---
-title: "Dungannon"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 54.503909
 longitude: -6.770362
+title: Dungannon
+type: location
 ---
 
 We currently have no information about Dungannon.

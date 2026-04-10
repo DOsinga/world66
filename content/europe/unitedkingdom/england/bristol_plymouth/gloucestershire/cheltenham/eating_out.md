@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Cheltenham"
+title: "Eating Out"
 type: section
 ---
 

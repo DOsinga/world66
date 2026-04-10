@@ -12,6 +12,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Naseem_abi_shahee
   Wikipedia</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: 2026-04-07
 ---
 
 Lebanon is one of the smallest countries in the Middle East but packs more history, scenery and flavour into its 10,452 square kilometres than most nations ten times its size. This is a place where you can ski in the morning and swim in the Mediterranean by afternoon, where Roman temples rival anything in Italy, and where the food alone is worth the plane ticket.

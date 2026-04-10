@@ -1,20 +1,16 @@
 ---
-title: "Phuket City"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 7.8848
+longitude: 98.3892
+title: Phuket City
 type: location
-latitude: 7.88479
-longitude: 98.38915
 ---
 
-**Phuket City** (until 2005 called Phuket Town).
+Most visitors to [Phuket](/asia/thailand/phuket) head straight for the beaches on the western coast and never see the island's actual capital. Their loss. Phuket City (called Phuket Town until 2005) is the most characterful settlement on the island — a compact old town of Sino-Portuguese shophouses, Chinese shrines, and street art, with a food scene that runs circles around the tourist strips.
 
-Although most tourists only visit the beached on the western side of the island of [Phuket](/asia/thailand/phuket), the capital of the province is certainly worth a trip.
+The old town centers on Thalang Road and the surrounding sois, where restored shophouses in pastel colours now hold cafes, galleries, and guesthouses. The architecture reflects Phuket's tin-mining history: Chinese miners and Portuguese traders built the town in the 19th century, and the hybrid style — Mediterranean arches above Chinese lattice screens — is unlike anything else in Thailand.
 
-From every place on the island a bus will be able to take you to Phuket City. This is a small town with interesting architecture, in Portuguese Colonial style. Phuket City also has many Chinese style houses.
+The **Thavorn Hotel Lobby Museum** is a free, quirky collection of old Phuket memorabilia worth a quick stop. For something more substantial, the **Thai Hua Museum** on Krabi Road does an excellent job tracing the island's Chinese immigrant history.
 
-And, when there, visit the **Thavorn Hotel**, that has a small but nice museum (free entry) with memories of old Phuket. Don't forget to have a drink in the cafeteria, which also has some historic items on display.
-
-Phuket City is quiet, but - as said - worth a visit. Near the place where your bus will arrive you will find a typical Thai food market.
-
-In October every year the famous **Vegetarian Festival** is celebrated in Phuket City. The festival is of a Chinese origin. People mutilate themselves, in processions through the streets, to honor Chinese Gods.
-
-Write up on 25 February 05
+Every October the city hosts the **Phuket Vegetarian Festival**, a nine-day Taoist event of Chinese origin featuring street processions, spirit mediums, and extraordinary acts of devotion. It is loud, intense, and not for the squeamish — but it is one of the most striking festivals in Southeast Asia.

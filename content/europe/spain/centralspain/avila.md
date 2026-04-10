@@ -1,19 +1,16 @@
 ---
-title: "Avila"
+title: Ávila
 type: location
-latitude: 40.656478
-longitude: -4.700217
+latitude: 40.6565
+longitude: -4.7002
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Avila
- 
- 
- 
- **
+Ávila is one of the best-preserved medieval cities in Spain — a UNESCO World Heritage Site perched on a granite plateau at over 1,100 metres, making it the highest provincial capital in the country. Its defining feature is the wall: two and a half kilometres of perfectly intact 11th-century ramparts with 88 towers and nine gates, encircling the entire old town. You can walk along the top of much of it.
 
-Avila
- **
+The city is deeply associated with Santa Teresa de Jesús, the 16th-century mystic and reformer who was born here. The Convent of Santa Teresa stands over her birthplace, and her presence is felt throughout — in churches, convents, and the local pastries (yemas de Santa Teresa) sold in every bakery.
 
+Inside the walls, the cathedral is half church, half fortress — its apse is built into the city wall itself. The Real Monasterio de Santo Tomás, a short walk outside the walls, was the summer residence of Ferdinand and Isabella and holds a striking cloister. The narrow streets between them are quiet and atmospheric, especially in winter when the cold keeps the day-trippers away.
 
- 
- Enchanting Avila a wonderful 1 000-year-old city is listed as a UNESCO World Heritage site. The surrounding region known as the Tierra de Cantos y de Santos (Land of Songs and Saints) is associated with Spain's great Christian mystics San Juan de la Cruz and Santa Teresa de Jesus. Avila's main attraction is its medieval wall which measures 1 mi/2 km in circumference and completely encircles the town. The ramparts have nine gates and 88 towers many topped with stork nests. Walk along the top of the wall or stroll around the outside. Just inside one gate is the Convent of Saint Teresa with a small church built over the saint's birthplace. Avila also has interesting narrow streets an intriguing cathedral and the Real Monasterio de Santo Tomas (the summer home of Ferdinand and Isabella). Plan an overnight stay-even if you?re not staying there drop by and soak up the atmosphere of the Nacional Parador Raimondo de Borgonia a palace-turned-hotel. 55 mi/85 km west from Madrid.
+Ávila is about 90 minutes from Madrid by car or train, making it an easy day trip — though an overnight stay, particularly at the Parador built into the old city walls, is the better way to experience the place.

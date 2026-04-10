@@ -3,8 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-**Bars**
-
-**Ten Napel Cafe**
-
-Here you can get a good breakfast like bagels, croissant and the best coffe in town1
+Santa Rosa has a handful of cafes around the central plaza and along the main streets. The coffee is local highland-grown and generally excellent.

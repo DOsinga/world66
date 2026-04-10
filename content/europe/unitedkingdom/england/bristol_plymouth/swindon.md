@@ -1,8 +1,10 @@
 ---
-title: 'Swindon'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.561533
 longitude: -1.785432
+title: Swindon
+type: location
 ---
 
 Swindon is not a destination most people would travel to for its own sake, but it has its merits. The town grew rapidly around the Great Western Railway works in the 19th century, and the STEAM Museum of the Great Western Railway is genuinely worth a visit if you have any interest in industrial history.

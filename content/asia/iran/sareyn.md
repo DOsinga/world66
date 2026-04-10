@@ -1,8 +1,12 @@
 ---
-title: "Sareyn"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 38.149375
 longitude: 48.074621
+title: Sareyn
+type: location
 ---
 
-Situated 29 kms west of Ardebil, this town is an important centre of mineral water. The nine hot and mineral springs with medicinal qualities and the centre of hydrotherapy are significant tourist attractions. Facilities for recreation and accommodation are thriving, so that in the near future Sar'eyn will be one of the largest leisure centres in Iran.
+Sareyn is a small spa town in northwest Iran, about 29km west of [Ardebil](/asia/iran/ardebil). It sits at altitude in the Alborz foothills and is best known for its hot mineral springs, which draw visitors from across the region for hydrotherapy and relaxation.
+
+Nine springs with different mineral compositions feed the town's bath complexes. The waters are reputed to have medicinal properties, and weekends fill up with families from Ardebil and Tabriz looking for a restorative break.

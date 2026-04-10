@@ -1,46 +1,16 @@
 ---
-title: "Toirano"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.12753
 longitude: 8.20485
+title: Toirano
+type: location
 ---
 
-The area of karsts in Val Varatella, included in
- its territory, contains over fifty caves that even
- open in the sheer walls of the small side valleys
- and in the spectacular Salto del Lupo. All the
- archeological finds made in these caves are on
- show in the Museo Preistorico della Val
- Varatella. The locality was inhabited in the
- Roman era and during the Middle Ages
- belonged to the bishops of Albenga, under
- whom it obtained its own statutes. Disputed
- between the Genoese and the marchesi di
- Finale, it was assigned to Genoa by Pope Urban
- VI in 1395. The characteristic town still has a
- number of structures from this period, including
- several large towers, part of the ancient walls
- and a bridge with three arches. The parish
- churches of San Martino and the Rosario date
- from the seventeenth century. The shrine of Santa Lucia, above the cave of the same name,
- has a spring that is believed to have miraculous
- powers for the restoration of sight and attracts
- many pilgrims. The church of San Pietro dei
- Monti, which once belonged to the ancient and
- powerful Benedictine abbey, stands on a
- panoramic rocky hill offering a view of the
- whole town. A link with the farming
- community of the past is provided by the
- Museo Etnografico della Val Varatella, housed
- in what used to be the stables of the palace of
- the marchesi del Carretto, formerly the Palazzo
- dell’Aste. The institution was set up in 1982,
- when a collection of implements and objects
- connected with the growing of olives and the
- production of oil began to be assembled. The
- museum now boasts collections of various
- kinds, relating to the agriculture, crafts and
- daily life of the Val Varatella, with a total of a
- thousand objects on show, dating from between
- the beginning of the seventeenth century and
- the beginning of the twentieth.
+Toirano is a small medieval village in the Val Varatella, best known for its remarkable caves. The karst landscape around the valley contains over fifty caves, some opening dramatically in the sheer walls of side valleys and in the spectacular Salto del Lupo gorge. The archaeological finds from these caves — including evidence of prehistoric human habitation and cave bear remains — are displayed in the Museo Preistorico della Val Varatella.
+
+The village itself is a well-preserved medieval settlement that still retains several large towers, remnants of its ancient walls, and a handsome three-arched bridge. Toirano was inhabited in Roman times and later fell under the bishops of Albenga before being contested between Genoa and the marchesi di Finale; Pope Urban VI assigned it to Genoa in 1395.
+
+The parish churches of San Martino and the Rosario date from the seventeenth century. Above the caves, the shrine of Santa Lucia has a spring believed to restore sight, drawing pilgrims to this day. The church of San Pietro dei Monti, once part of a powerful Benedictine abbey, stands on a rocky hill with panoramic views over the entire town.
+
+For a glimpse into the valley's agricultural past, the Museo Etnografico della Val Varatella occupies the former stables of the Palazzo dell'Aste. Founded in 1982, it holds around a thousand objects related to olive growing, oil production, crafts, and daily life from the seventeenth to the twentieth century.

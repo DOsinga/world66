@@ -1,24 +1,14 @@
 ---
-title: "Passu"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 36.4658
+longitude: 74.8943
+title: Passu
 type: location
-latitude: 36.465816
-longitude: 74.894326
 ---
 
-Travel Guide
+Passu is a small village on the Karakoram Highway in the upper [Gojal Valley](/asia/pakistan/hunzavalley/gojal_valley), about 150 km north of [Gilgit](/asia/pakistan/gilgit). It sits at around 2,500 metres on the west bank of the Hunza River, surrounded by some of the most dramatic mountain scenery on earth — jagged cathedral-like spires, massive glaciers, and the brown-grey immensity of the Karakoram range.
 
-A fascinating land with an amazing diversity of places, people and customs, Passu is the mixing bowl of ancient civilization and dream of nature lovers, is well known about its extraordinary contrast of landscapes of the world. Passu is one of the most beautiful village of Pakistan . From times, immemorial the village has been promising Mountainous resort. Situated in the spectacular karakoram Mountains on the old silk route 150 km from Gilgit in the west banks of Hunza River and border on China .
+The village is best known for Passu Cathedral, a cluster of serrated peaks (6,106 m) that look like the pipes of a giant organ. The Passu Glacier descends almost to the highway, and the much larger Batura Glacier — one of the longest outside the polar regions at 56 km — is accessible on a day trek from the village. The famous Passu suspension bridge, a swaying cable-and-plank affair over the Hunza River, has become one of the most photographed spots on the Karakoram Highway.
 
-It has a unique place on the World map. With a rich history and deep rooted culture .It invites to its breath taking surrounding many adventurers, eco-tourist, historians and nature lovers. This famous village, its towering peaks ever flowing streams its fascinating heritage and above all its hospitable People make it a place worth visiting.
-
-Passu is considered the worlds heights landmass, where there is nothing below 2500 matters ,Passu is surrounded by some of the world most famous peaks, glaciers and lakes, such as Passu peak 7284, Shisper peak 7611, Batura, 7785, and the most remarkable is Passu cathedral peak 6500, in the shadow of lofty mountains are the Passu glacier with white skin and Batura glacier with both at the length of 56km, which is the fifth largest glacier of the world.
-
-Human’s era passes generation to generation. Passu village is devastated four times in the past. Its first era of human generation is included 3000bc to 5000bc. we saw many arts of ibex and zebra in different rocks. It shows that people are started to live here so early.After a few decades this village had destroyed by flood, sliding and erodes of rivers. That’s why this village had been empty for a long time.
-
-Its second era was pretty historical coz Chinese people lived here, who followed Buddha. Buddha religion came through Gandahara, Swat, Gilgit, Passu and reached China . Its great memory is at karga Gilgit and khuram Abed Passu.
-
-Its third era is called Islamic coz there is QURANI AYAT written on the mountain. Islam came here in 9th century through Arabs soldiers when Buddha left.
-
-Its fourth era also called Islamic, which had been started from 18th century at the time there were 315 families. During sliding the river was blocked and again this village was destroyed by natural disaster. This time only few families were safe.
-
-Later on, again this village was destroyed by natural disaster in 1964. Now the population is around 1000, most of their economy depends on agriculture, tourism and cattling. this village is famous for its high literacy rate in the region. Where you can find hundred percent educated. In this village every one wants to be educated because the environment can change the peoples. Now a day’s people are doing their education in diffrent cities of Pakistan .
+Passu has a long and turbulent history — ancient rock carvings suggest habitation dating back thousands of years, and the village has been destroyed and rebuilt multiple times by floods and landslides. Today it is home to around a thousand people, known throughout the region for their hospitality and remarkably high literacy rate. A handful of simple guesthouses cater to trekkers and overland travellers on the KKH.

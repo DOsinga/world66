@@ -1,20 +1,16 @@
 ---
-title: "Topeka"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.049011
 longitude: -95.677556
+title: Topeka
+type: location
 ---
 
-Topeka is the capital of Kansas. It is located in the middle of the eastern half of the state. 
+Topeka is the capital of Kansas — a mid-sized city on the Kansas River that doesn't get much attention from travelers passing through the Great Plains, but rewards those who stop. It's a political and administrative city first, which means its most interesting sites tend to be civic and historical rather than culinary or cultural.
 
-The World Famous Topeka Zoological Park is nationally noted for its Tropical Rain Forest and innovative ideas for the displaying of wildlife, this facility has something for all ages. A stop at the Gorilla Encounter is a must to view the gorillas in a glass-enclosed area where you are on the inside and the gorillas are outside. Take time to stroll the grounds and relax as you enjoy the splendors of nature and animals in a most beautiful setting. 
+The single most important place here is the Brown v. Board of Education National Historic Site, housed in the Monroe Elementary School where Linda Brown was denied enrollment in 1951. The case that followed reached the Supreme Court, which unanimously ruled in 1954 that racially segregated schools were unconstitutional. Standing in those classrooms, reading the accounts of the children and families involved, makes the history feel immediate rather than distant.
 
-In the Historic Ward-Mead Park and Botanical Gardens, you can enjoy a Victorian lunch served from the dining room of the Ward-Meade mansion complete with costumed hostesses and linens of the period. You'll also tour the pioneer cabin, train depot, mansion and one-room schoolhouse. The gardens offer a relaxing atmosphere and unique charm to this five and one-half acre complex. 
+The Kansas State Capitol is worth an hour of your time. John Steuart Curry's murals inside depict John Brown and the violent period before the Civil War when Kansas was a battleground over slavery — raw, expressionist paintings that feel nothing like typical government-building decoration. You can walk up through the dome for a view over the city.
 
-In the Kansas Museum of History you can see the history of the state from Indian times to the Civil War, right up to the present day. 
-
-Other attractions include a guided tour of the Capitol where you'll view the murals by John Steuart Curry which depict John Brown and the turbulent era of Kansas known as "Bleeding Kansas. 
-
-Topeka is also home of the **Brown V Board of Education National Historic Site** which commemorates the landmark Supreme Court decision aimed at ending segregation in public schools. On May 17, 1954, the Supreme Court unanimously declared that separate educational facilities are inherently unequal" and, as such, violate the 14th Amendment to the United States Constitution, which guarantees all citizens "equal protection of the laws." 
-
-The Tallgrass Prairie is lacted just south of Topeka and can be visited form here.
+The Topeka Zoo is genuinely good, known especially for its Gorilla Encounter — a glass enclosure where the arrangement is reversed: you're inside looking out at the gorillas in an open habitat. The Historic Ward-Meade Park, a Victorian mansion complex with gardens, pioneer cabin, and train depot, is pleasant on a warm afternoon. The Tallgrass Prairie National Preserve lies about an hour south and is worth combining into a visit if you have the time.

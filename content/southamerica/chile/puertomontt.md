@@ -1,8 +1,16 @@
 ---
-title: "Puerto montt"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -41.4717
+longitude: -72.9396
+title: Puerto Montt
 type: location
-latitude: -41.471798
-longitude: -72.939592
 ---
 
-The capital of X Region (Los Lagos) was founded by German colonists in 1853. It is one of southern Chile's most important cities. It features middle-European architecture, with shingles, high-pitched roofs and ornate balconies. The redwood cathedral (Iglesia de los Jesuitas) on the city's plaza is the city's oldest building. Puerto Montt is the transport hub and access point to the southern Lake District, the island of Chiloé and Chilean Patagonia. The little fishing port of Angelmo located 2 km west of Puerto Montt deserves a visit as well. Great seafood and handicraft shops can be found there.
+Puerto Montt is where Chile's Lake District ends and Patagonia begins. Founded in 1853 by German settlers — you can still see their influence in the shingled wooden houses, steep-pitched roofs, and ornate balconies — the city has grown into the main transport hub for the entire south. If you are heading to [Chiloé](/southamerica/chile/chiloe), the southern fjords, or anywhere in Chilean Patagonia, you will almost certainly pass through here.
+
+The waterfront neighbourhood of Angelmo, about 2 km west of the centre, is worth an afternoon on its own. Fishing boats unload their catch at the docks while vendors sell king crab, sea urchin, and smoked fish from stalls beside an excellent handicraft market. The Costanera promenade connects Angelmo to the city centre and gives fine views across the bay to the Osorno volcano on clear days.
+
+The centrepiece of the city's main plaza is the Cathedral of Puerto Montt, a structure built entirely of alerce wood — a native Patagonian cypress so dense it barely rots — dating from 1856. The nearby Museo Regional de Los Lagos covers the area's German colonisation, the indigenous Mapuche and Huilliche peoples, and the maritime heritage of the fjords.
+
+Puerto Montt has ferry connections south to Puerto Natales and the Torres del Paine region — a spectacular multi-day sailing through channels, glaciers, and islands that is itself a highlight.

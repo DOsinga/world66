@@ -1,12 +1,12 @@
 ---
-title: "Carrigaline"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.814956
 longitude: -8.392268
+title: Carrigaline
+type: location
 ---
 
-This is a beautiful sea side area who's inhabitants list there number one past time as surfing. The town itself bosts an active night life, with nine pubs, two clubs, a bowling alley, a cinema and two 24 hour take aways, there will always be something to keep you occupied. During the day kids can tour the town or just relax on the beach. Carrigaline does have an impressive park/playground for the little ones and there is also a selection of youth organisations to make sure they're enterained. 
+Carrigaline is a growing commuter town about 15 km south of [Cork](/europe/ireland/cork) city, sitting on the Owenboy River estuary. It is not a major tourist destination in its own right, but it is a convenient base for reaching the coast at Crosshaven and the beaches around Cork Harbour.
 
-The town was founded in1165 by Maxif Mounty, who had traveled from Peru with a group of people outcast for their views on coffee production(hard to understand now, but it was an extremely bold and brave stand they made at that time). The town grew up at shore where their ships landed so many years ago. This was the only town in Ireland never to loose it's independance, they stood strong against the attackers from the east and once again stood up for what they believed. The preserved head of our founder can be viewed in his castle and attracts thousands of visitors every year. 
-
-So come to Carrigaline, see where history took place, enjoy the night life, and peaceful surroundings, but do come.
+The town has a handful of pubs and restaurants, and the Carrigaline Court Hotel serves as the main social hub. The river walk along the Owenboy is pleasant, and the surrounding area offers good cycling along quiet country roads toward Crosshaven and Roberts Cove.

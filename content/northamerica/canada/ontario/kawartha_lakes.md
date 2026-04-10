@@ -1,14 +1,12 @@
 ---
-title: "Kawartha Lakes"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.359682
 longitude: -78.742173
+title: Kawartha Lakes
+type: location
 ---
 
-Travel Guide
+Kawartha Lakes is a sprawling municipality in east-central Ontario that's more countryside than city, despite its official designation. The name comes from the anglicized Anishinaabe word gaa-waategamaag, meaning "shining waters" — and that's exactly what you'll find. Lakes everywhere, most of them ringed with cottages.
 
-The city of Kawartha Lakes is located in east-central Ontario. Although designated as a city, it is largely a rural area. The municipality is named after the Kawartha lakes, which themselves are from the anglicized kawatha, shortened from gaa-waategamaag, meaning "shining waters". The 'r' was eventually added for pronunciation reasons.
-
-The main population centres are Bobcaygeon, Fenelon Falls, Lindsay, Omemee, Lindsay, Woodville and Norland, although the municipality also includes many smaller communities as well.
-
-Kawartha Lakes is one of Ontario's cottage areas with its many lakes and cottages located on them.
+The main towns are Lindsay, Bobcaygeon, Fenelon Falls, Omemee, Woodville, and Norland, connected by quiet roads through farmland and forest. This is classic Ontario cottage country: swimming, fishing, paddling in summer, and ice fishing and snowmobiling once the lakes freeze over.

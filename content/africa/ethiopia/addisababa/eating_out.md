@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-The Habesha Restaurant is recommended for Ethiopian food, music, and traditional dancing. Less good, but still not bad, for Ethiopian food is Yod Abyssinia. Makush Gallery is a very popular Italian restaurant/art gallery with homemade pasta and a stylish setting. Nakhlah, near the Ibex Hotel, is a small but cheerful Yemeni Restaurant.
+Ethiopian cuisine revolves around injera, the spongy sourdough flatbread used as both plate and utensil. You tear off pieces and scoop up stews of lentils, chickpeas, and slow-cooked meat. Addis has everything from streetside injera joints to upscale restaurants with live traditional music and dancing. The Habesha Restaurant is a reliable pick for the full Ethiopian experience with music and dancers. Makush Gallery combines Italian food with an art gallery setting and homemade pasta. For something different, Nakhlah near the Ibex Hotel serves good Yemeni food.

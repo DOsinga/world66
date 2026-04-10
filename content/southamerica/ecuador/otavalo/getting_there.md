@@ -3,8 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-**all**
-
-**By bus**
-
-Busses leave in Quito from the Terminal Terrestre Cumandá. Main Bus Station, "Cumanda". Frequency: Every 10 minutes. Different Bus companies available. Buses does not have any stops. Whenever you want to stop just say : ¡Gracias! (Thank you!)
+Otavalo is about two hours from Quito by bus. Buses depart frequently from the Terminal Terrestre Quitumbe in the south of the city and the smaller Carcelén terminal in the north. The journey costs a few dollars. Buses run throughout the day and there is no need to book ahead — just show up and board. When you want to get off, say "¡Gracias!" to the driver.

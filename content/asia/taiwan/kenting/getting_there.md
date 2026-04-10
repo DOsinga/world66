@@ -1,18 +1,6 @@
 ---
 title: "Getting There"
 type: section
-type: "By Road"
-url: "www.ktnp.gov.tw"
 ---
 
-Kenting is very well connected by road with major towns on the east coast.
-
-### Buses and cabs
-
-Kenting is about 7km from Hengchun. Hengchun is well connected by the nearby big city of Kaohsiung by frequent buses.
-
-One can catch a bus to Hengchun from Kaohsiung international airport,
-or from the bus station nearby Kaohsiung train station. Frequency of
-buses is about 30-40min.
-
-type: By Road
+The nearest city is Kaohsiung (about 90 minutes by bus or car). Buses run every 30–40 minutes from Kaohsiung train station and from Kaohsiung International Airport to Hengchun; from Hengchun local buses cover the 7 km to Kenting. The journey can also be done by high-speed rail to Zuoying (Kaohsiung) then bus. No direct train service reaches the cape.

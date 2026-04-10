@@ -1,16 +1,14 @@
 ---
-title: "Baja California"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 30.033892
 longitude: -115.142511
+title: Baja California
+type: location
 ---
 
-Baja Califonia is that 1300 kilometer long arm that dangles down from the US border between the Pacific and the Gulf of California. The whole of the peninsula consists of rugged and nearly uninhabited mountains. 
+The Baja California peninsula is a 1,300-km arm of desert, mountains, and coastline dangling south from the US border between the Pacific Ocean and the Sea of Cortez. Most of it is rugged, sparsely inhabited, and strikingly beautiful — a landscape of cactus-studded mesas, hidden coves, and empty beaches that feels a world away from mainland Mexico.
 
-The desert landscape is fascinating and the scenery is extremely beautiful. Most travelers find Baja a magical place of blue skies, fresh air and solitude. A great get away form the crazy land of California. 
+[Tijuana](/northamerica/mexico/tijuana) at the northern tip is Mexico's busiest border city. South of it, Ensenada is a lively port town popular for its wine country and seafood. The Transpeninsular Highway (Highway 1) runs the full length of the peninsula, passing through increasingly remote terrain. La Paz, the capital of Baja California Sur, is a relaxed waterfront city and an excellent base for exploring the southern peninsula. At the very tip, Cabo San Lucas and San José del Cabo form the resort corridor known as Los Cabos.
 
-Tijuana, a city with a population of over 1 million is located on the Pacific and is the most important border crossing. The San Ysidro/ Tijuana crossing is the busiest border crossing in the world. The town boomed in the 1920s when hollywood stars came here for a drink and, if willing to put up with hordes of drunk American college students on weekends, it is still a great place for nightlife. Try stopping by at some of the grills of the side of the highway where they will serve up the best of fresh fish tacos.
-
-Ensenada is the third city of Baja and is a leading seaport. It is a great city, beautiful and fully equiped to serve tourists and travelers. 
-
-La Paz is the capital of Baja California Sur. It is a fast growing city, but still a quite relaxed place to stay. It is an excellent base for exploring the south end of the peninsula. Cabo san lucas is a big resort with many tourist facilities in the south.
+The Sea of Cortez side is world-class for diving, snorkeling, and whale watching — gray whales calve in the lagoons on the Pacific side between January and March, and whale sharks gather near La Paz. Most travelers find Baja a magical place of blue skies, fresh air, and solitude.

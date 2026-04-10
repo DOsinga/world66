@@ -1,21 +1,16 @@
 ---
-title: "La Paz"
+title: La Paz
 type: location
-latitude: -16.495545
-longitude: -68.133623
+latitude: -16.4955
+longitude: -68.1336
+done:
+  location_cleanup: 2026-04-07
 ---
 
-La Paz is the highest capital in the world. When you arrive by plane you probably need some days to adjust to the height. Be prepared for Altitude Sickness - get medical advice before you leave.
+La Paz hits you before you even arrive. The airport sits at 4,061 metres in El Alto — a wind-blasted plateau city in its own right — and the descent by road into the canyon below is one of the great urban approaches on earth. The city spills down the slopes in a tangle of red-brick buildings, cable cars, and market stalls, with the white peak of Illimani hovering behind it all at 6,438 metres.
 
+At 3,640 metres at its centre, La Paz is the world's highest capital, and altitude will be your first preoccupation. Give yourself two days before doing anything strenuous. Drink coca tea, eat lightly, and walk slowly. The city rewards patience — once you've acclimatised, the thin air stops being an obstacle and starts feeling like part of the place's strange, weightless character.
 
- 
- Boliva's capital has an impressive setting lying huddled at the bottom of a huge canyon in the Illimani mountain as a backdrop. A high proportion of people still wear traditional dresses.
+The city has two overlapping personalities. The historic centre around Plaza Murillo is colonial Bolivia: government buildings, churches, and the steep lanes of the Witches' Market selling dried llama foetuses, herbal potions, and offerings to Pachamama. A few kilometres downhill, the Sopocachi and Miraflores neighbourhoods are full of cafes, international restaurants, and the comfortable hotels that most travellers end up in. The contrast between these worlds — Aymara market women in bowler hats and cholita skirts beside suited businessmen — is less a contradiction than the actual texture of the place.
 
-
- 
- Once you are over that you can start enjoying this friendly city. Bolivians are among the most friendly people in South America and you will feel at home immediately in La Paz.
-
-
- 
- Some of the information used has been provided by 
- ** Turismo Bolivia** Please visit their website.
+La Paz is also the best base for exploring this part of Bolivia. The Salar de Uyuni salt flat, Tiwanaku's pre-Inca ruins, the Death Road cycling descent, and Lake Titicaca are all within day-trip or overnight range.

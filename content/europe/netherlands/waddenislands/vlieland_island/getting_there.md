@@ -1,93 +1,27 @@
 ---
 title: "Getting There"
 type: section
-type: "By Road"
 ---
 
-**By Train + Ferry **(polders route)**
-**Train (any station) to Harlingen harbour > Ferry to Vlieland.
+All routes to Vlieland pass through Harlingen harbour, where you board the ferry. You cannot bring a car or motorcycle to the island, so if you drive to Harlingen you will have to leave your vehicle there.
 
-**By Bus + Ferry **(closing dike/afsluitdijk route)**
-**Train (any station) to Alkmaar > Bus to Harlingen harbour > Ferry to Vlieland.
+## By Train and Ferry
 
-**By Car + Ferry **(polders or closing dike/afsluitdijk route)**
-***Make a note:
-You cannot take your car, or any other motor vehicle to Vlieland island, so you'll have to leave it at Harlingen harbour*.
-** **
+Take a train to Leeuwarden, then change for the direct train to Harlingen harbour to meet the ferry. Amsterdam, Rotterdam, Utrecht, and Groningen all have direct connections to Leeuwarden.
 
-** By traditional sailing ships **
-There are several travel agencies that offer organized sailing/cycling trips to two or more Wadden islands by authentic sailing ships, e.g. Wadfietsen.nl and Fiets-fun.nl.
+Alternatively, take a train to Alkmaar and then bus 132 to the ferry quay in Harlingen harbour. Amsterdam, Nijmegen, and Utrecht have direct trains to Alkmaar.
 
-**Contributors**
-March 16, 2005
+## By Car and Ferry
 
-### [Bus transfer Alkmaar <> Harlingen harbour](/europe/netherlands/waddenislands/vlieland_island/getting_there/bus_transfer_alkma)
+There are two driving routes from Amsterdam:
 
-Departure/timetable and tariff information for **bus** transfer to Harlingen harbour (here soon)
+- **Afsluitdijk route** -- Take the A7/E22 toward Leeuwarden. After the dam, follow the N31 to Harlingen. ANWB signs direct you to the harbour.
+- **Polders route** -- Take the A1, then A8 toward Leeuwarden/Groningen. At the Joure roundabout take the A7/E22 toward Sneek and Bolsward, then the N31 to Harlingen.
 
-Take a direct train from Amsterdam to Alkmaar.
+## By Ferry
 
-Bus 132 has a quick service from Alkmaar to the ferry quay in Harlingen harbour.
-On the ferry quay you'll find a bus stop for all bus services with destination Harlingen railway station.
+Rederij Doeksen operates the crossing from Harlingen to Oost-Vlieland harbour. The regular ferry takes about 1 hour 45 minutes; the fast ferry takes 45 minutes.
 
-Of course, you can take a train from ANY Railway station to Alkmaar.
+## By Sailing Ship
 
-Amsterdam, Nijmegen and Utrecht have direct connections.
-
-type: By Road
-
-
-
-[[rate it]](/europe/netherlands/waddenislands/vlieland_island/getting_there/bus_transfer_alkma)
-
-### [Train transfer Amsterdam Leeuwarden Harlingen](/europe/netherlands/waddenislands/vlieland_island/getting_there/train_transfer_ams)
-
-Departure/timetable and tariff information for **train** transfer to Leeuwarden and correspondence to Harlingen harbour (here soon)
-
-Take a direct train from Amsterdam to Leeuwarden.
-In Leeuwarden change train for the Harlingen harbour direct train to meet the ferry connection.
-
-Of course, you can take a train from ANY Railway station to Leeuwarden. Amsterdam, Rotterdam, Utrecht and Groningen have direct connections.
-
-type: By Air
-
-
-
-[[rate it]](/europe/netherlands/waddenislands/vlieland_island/getting_there/train_transfer_ams)
-
-### [Ferry Harlingen Vlieland island](/europe/netherlands/waddenislands/vlieland_island/getting_there/ferry_harlingen)
-
-Departure/timetable and tariff information for the **ferry** Harlingen harbour-Vlieland island.
-
-*Doeksen* ferry company offers a crossing service to Vlieland island (Oost -Vlieland harbour). Depending on the ferry choice, your trip may take up to 1.45 hours when travelling by normal ferry and 45 minutes by hydrofoil fast ferry.
-
-Global overview of departures and rates Harlingen - Vlieland:
-Regular ferry: 9 am, 14.15 pm and 7 pm. Return ticket: €20,40
-Fast ferry: 8 am or 8.45 am. Return ticket: €28,20
-*Make a note*
-This [more..](/europe/netherlands/waddenislands/vlieland_island/getting_there/ferry_harlingen)
-
-type: By Sea
-
-
-
-url: [www.rederij-doeksen.nl](http://www.rederij-doeksen.nl/pdf/3360-002_Dien%8Aregeling_enge.pdf)
-
-tel: for departures and rates: +31 (0)517 491 500 (English spoken)
-
-### [Drive yourself](/europe/netherlands/waddenislands/vlieland_island/getting_there/drive_yourself)
-
-**Ijsselmeer Dam route** (also called Closing dike or Afsluitdijk route).
-
-From Amsterdam, take the A7/E22 direction Leeuwarden. After the Dam,
-follow the N31 to Harlingen. From there, ANWB-route signs will show you
-the way to Harlingen harbour.
-
-**Polders route**.**
-
-**From Amsterdam, take A1 > A8 direction Leeuwarden/Groningen. At
-Joure roundabout/traffic circle go to A7/E22 direction Sneek, Bolsward.
-Before the IJsselmeer Dam take the N31 to Harlingen. From there, ANWB-route signs will show you
-the way to Harlingen [more..](/europe/netherlands/waddenislands/vlieland_island/getting_there/drive_yourself)
-
-type: By Road
+Several agencies offer organized sailing and cycling trips to the Wadden islands aboard traditional sailing ships, including Wadfietsen.nl and Fiets-fun.nl.

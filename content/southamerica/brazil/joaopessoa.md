@@ -1,10 +1,14 @@
 ---
-title: "Joao pessoa"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -7.1216
+longitude: -34.882
+title: Joao Pessoa
 type: location
-latitude: -7.121598
-longitude: -34.882028
 ---
 
-Joao Pessoa is the extreme eastern point of continental Brazil (as well as Americas!), and greenest city in Brazil, just north of [Olinda](/southamerica/brazil/olinda) and [Recife](/southamerica/brazil/recife) and south of [Pipa](/southamerica/brazil/pipa) and [Natal](/southamerica/brazil/natal). The Cabo Branco (White Cape), with Longitude W34º44'55" is a must for visitors. The main reason people come here is for the beaches, but before you head for the prayas you should at least check out the Igreja Sao Francisco, one of the nicest churches in the country (there's a panel in perspective on its ceiling, said to be the third largest in the world...). 
+João Pessoa sits at the easternmost point of the Americas — Cabo Branco, at longitude W34°44'55", is where the continent's land runs out. That geography alone makes it worth a stop on any northeast Brazil itinerary, but there's more to it than a bragging right. It's often cited as Brazil's second-greenest city, and the pace is noticeably slower than Recife or Natal.
 
-The Lagoa is a nice place to relax a bit, it's a big park. Buses leave from here to Tambau one of the main beaches just east of town with an exciting nightlife scene. Praia Cabo Branco, Praia da Penha and Tambaba (nudist beach) are also good options.
+The old centre rewards an afternoon on foot. The Igreja São Francisco is one of the finest baroque churches in the country — look up at the ceiling and you'll find a trompe-l'œil panel in perspective said to be one of the largest of its kind in the world. The Lagoa park is a good place to recover afterwards, shaded and calm, and it's also where buses leave for Tambau, the main beach strip just east of the centre.
+
+Beyond Tambau, the coast opens up. Praia Cabo Branco is cleaner and less built-up, while Tambaba to the south is one of Brazil's few official nudist beaches. João Pessoa sits between [Recife](/southamerica/brazil/recife) and [Natal](/southamerica/brazil/natal) on the coastal route, and [Pipa](/southamerica/brazil/pipa) is an easy day trip north.

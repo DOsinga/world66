@@ -5,15 +5,8 @@ type: section
 
 The islands can only be reached by ferry.
 
-From the south a ferry leaves from **Ampana** every few days. It's wise to check up on the schedule before you head for **Ampana**. The ferryride will take a couple of hours, depending on how many stops they make along the way.
+From the south, a ferry leaves from **Ampana** every few days. The journey takes a couple of hours depending on stops. Check the schedule before heading to Ampana — it changes.
 
-From the north, about once a week, the ferry leaves from **Gorontalo. **It's
-best to check up on the situation/schedule in Manado. Expect around 12
-hours on the ferry. You can rent small (and not so clean) cabins for a
-hefty fee on the ferry, but it can be worth it especially if you are 4
-people as there are 4 small beds. A meal (rice + egg)* should *be included and can be obtained below the main deck near the engine...
+From the north, a ferry departs **Gorontalo** roughly once a week. The crossing takes around twelve hours. Small cabins with four berths are available for hire — not luxurious, but worth the price if you are sharing. A meal of rice and egg is nominally included and can be found below the main deck near the engine room. Check the current schedule in Manado before making the trip to Gorontalo.
 
-Alternatively you can charter a speedboat to the islands but it will cost you.
-
-**Contributors**
-November 07, 2005
+A chartered speedboat is also possible but significantly more expensive.

@@ -1,21 +1,12 @@
 ---
-title: "Cowichan Bay"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 48.741701
 longitude: -123.626404
+title: Cowichan Bay
+type: location
 ---
 
-Travel Guide
+Cowichan Bay is a small working village on the eastern shore of Vancouver Island, about 45 minutes south of Victoria. It sits at the mouth of the Cowichan River, with a jumble of boats, seafood shacks, and heritage buildings perched on pilings above the tidal flats.
 
-The delightful village of Cowichan Bay is central to all of southern
-Vancouver Island splendid attractions. Vancouver Island is one of the
-major tourist destinations for Canada . The area is well known for its
-moderate climate making it a holiday destination for all seasons. Known
-for its fine food and award winning local wineries. Aquatic sports such
-as sailing; kayaking, fishing (fresh and salt water) and scuba diving
-are rated with the best in the world. Other activities include horse
-back riding, hiking, and exquisite golfing.
-
-Visiting the Cowichan Valley, come stay with us and enjoy
-amazing views of Cowichan Bay, Vancouver Island, British Columbia,
-Canada.
+The village is known for its food culture — local wineries, artisan farms, and a strong Indigenous food tradition from the Cowichan peoples who have fished and farmed this valley for generations. Aquatic activities are the other big draw: sailing, kayaking, fishing both in the river and the salt water, and some of the best scuba diving on the island. The mild climate makes it viable year-round.

@@ -3,18 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Cheap food is hard to find. There are a few food stalls that do acceptable brochettes and you can buy bread to self cater at the restaurant du Nord. 
+Timbuktu is not a food destination. Options are limited and simple, but you will eat well enough. Brochettes from street stalls are cheap and reliable. For sit-down meals, expect basic West African and French-influenced cooking.
 
-**Restaurants**
-
-**Restaurant du Nord**
-
-For bread, coffee, tea and simple meals, this may be your best bet.
-
-**Poulet d'Or**
-
-The golden Chicken has quite good food, is slightly more expensive than the restaurant du Nord.
-
-**Thierry-Sabine**
-
-For a cold beer, try Bar Thierry-Sabine. It's on the main street.
+**Restaurant du Nord** is the reliable standby -- bread, coffee, tea, and simple meals. **Poulet d'Or** has slightly better food at a slightly higher price. For a cold beer, try **Bar Thierry-Sabine** on the main street.

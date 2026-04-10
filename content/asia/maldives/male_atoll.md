@@ -1,8 +1,10 @@
 ---
-title: "Malé Atoll"
+title: Malé Atoll
 type: location
 latitude: 4.354299
 longitude: 73.576003
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Malé Atoll (officially North Malé Atoll, or Kaafu) is the most visited atoll in the Maldives and the natural starting point for any trip. Velana International Airport sits on Hulhulé Island within the atoll, a five-minute ferry from the capital. Most visitors pass through here at minimum, and many stay.
@@ -14,5 +16,3 @@ The house reefs off many islands in this atoll are excellent, and the dive sites
 ## Destinations in Malé Atoll
 
 [Malé](/asia/maldives/male_atoll/male)
-
-[Thulhagiri Resort](/asia/maldives/male_atoll/thulhagiri_resort)

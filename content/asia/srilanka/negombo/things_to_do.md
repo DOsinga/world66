@@ -1,19 +1,6 @@
 ---
-title: "Things to do in Negombo"
+title: "Things to Do"
 type: section
 ---
 
-We specialize in best-in-class website design, online marketing,
-Flash multimedia, Logo design, Video Editing & Software Developing.
-If you are serious about your web design success, we can get you
-there.
-
-**Web Division:**
-
-Tel [Asanka] : +94 31 2250856
-
-Hotline [Asanka]: +94 77 9098327
-
-E-mail : info[AT]evisionlk.com
-
-Website: [http://evisionlk.com](/asia/srilanka/negombo)
+Negombo's appeal is more atmospheric than monumental. The best things to do here involve the canal, the fishing harbour, and the old colonial quarter — walking, cycling, or taking a slow boat rather than ticking off sights. The two churches, the Dutch fort ruins, and the giant reclining Buddha at Angurukaramulla Temple are worth a few hours on foot.

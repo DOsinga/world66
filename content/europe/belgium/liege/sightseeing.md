@@ -1,6 +1,6 @@
 ---
 title: "Sights"
-type: location
+type: section
 ---
 
 The symbol of the city of Liège is the 'Perron' at the 'Place du Marché'. The monument represents the Province of Liège and the city freedoms. The original Perron had been demolished by Charles the Bold of Burgundy. Mary of Burgundy, however, had it reconstructed. The present Perron, designed in 1697 by Jean Delcour, consists of a octagonal fountain with arcades in which a column, carried by four lions, supports the Three Graces who carry a pine cone. Close to the Perron is the town hall of Liège, known as 'La Violette'. 

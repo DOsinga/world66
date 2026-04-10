@@ -3,50 +3,10 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Klosters has several good restaurants attached to its main hotels, plus a few independent options in the village. Cuisine tends toward hearty alpine fare — rösti, fondue, raclette — alongside grilled meats and seasonal specialities. The standard is high and the atmosphere is relaxed.
 
-**Albeina Sporthotel **
+**Walserhof** (Landstrasse 141) is one of the village's most respected dining rooms, offering classic Swiss cuisine in an elegant chalet setting.
 
+**Steinbock** (Landstrasse 146) is another reliable choice, comfortable and traditional.
 
-
-fax: 081 - 423 21 21
-
-address: 7250 Klosters
-
-tel: 081 - 423 21 00
-
-**Pardenn **
-
-
-
-fax: 081 - 422 40 06
-
-pc: 7250 Klosters
-
-address: Bahnhofstrasse 12
-
-tel: 081 - 422 11 41
-
-**Steinbock **
-
-
-
-fax: 081 - 422 16 36
-
-pc: 7250 Klosters
-
-address: Landstrasse 146
-
-tel: 081 - 422 45 45
-
-**Walserhof **
-
-
-
-fax: 081 - 422 14 37
-
-pc: 7250 Klosters
-
-address: Landstrasse 141
-
-tel: 081 - 422 42 42
+**Pardenn** (Bahnhofstrasse 12) serves good food in a convenient central location near the train station.

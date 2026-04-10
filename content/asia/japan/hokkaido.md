@@ -1,8 +1,10 @@
 ---
-title: "Hokkaido"
+title: Hokkaido
 type: location
 latitude: 43.451983
 longitude: 142.819783
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Hokkaido is the northernmost of the four big islands that make up Japan. It is really a great place if you are an outdoor enthusiast. There are many many hiking possibilities in the great national parks such as [Daisetsuzan](/asia/japan/hokkaido/daisetsuzan) and there are some good skiing slopes (Sapporo hosted the winter olympics once).

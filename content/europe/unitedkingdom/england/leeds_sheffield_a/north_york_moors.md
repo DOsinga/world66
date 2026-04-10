@@ -1,12 +1,14 @@
 ---
-title: "North York Moors"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 54.3318
+longitude: -0.6902
+title: North York Moors
 type: location
-latitude: 54.331777
-longitude: -0.690194
 ---
 
-There are two national parks in Yorkshire, this being one and the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales) the other. Although it would be difficult to distinguish between them, based on their names, they are quite different. One difference is that the North York Moors embrace some of the most scenic places on the Yorkshire Coast. Inland both contain dales and both contain moors but the dales here are smaller and more intimate than the largest in the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales)
+The North York Moors National Park covers roughly 550 square miles of upland moorland, wooded valleys, and dramatic coastline in northeast Yorkshire. It is one of two national parks in Yorkshire — the other being the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales) — but the two feel quite different. The Moors are wilder and more austere, their heather-blanketed plateaus stretching unbroken to clifftop edges above the North Sea.
 
-Near to the North York Moors is Rievaulx Abbey, perhaps rivalling Fountains Abbey nearer to the Dales. One area in which it certainly beats the Dales is that of preserved railways, the NYM Railway rivalling that of the Dart Valley in Devon to be considered England's most scenic.
+The coastline is one of the park's strongest cards. Whitby, with its ruined abbey silhouetted against the sky, sits at the mouth of the Esk and draws visitors as much for its brooding atmosphere as for its fish and chips. Further south, Robin Hood's Bay curves around a cove of tight-packed cottages, and Staithes preserves the feel of a working fishing village.
 
-Useful websites are http://www.moors.uk.net/ for the National Park and http://www.nymr.demon.co.uk/ for the railway.
+Inland, the valleys — Eskdale, Farndale, Bilsdale — cut down through the moorland to reveal a gentler landscape of farms and villages. Rievaulx Abbey, in a bend of the River Rye, rivals Fountains Abbey in grandeur and surpasses it in setting. And the North Yorkshire Moors Railway runs steam trains between Pickering and Whitby through some of the most scenic countryside in England.

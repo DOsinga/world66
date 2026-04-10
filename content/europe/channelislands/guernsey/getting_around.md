@@ -3,4 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-Nutters, the lot of 'em. Don't walk on the pavements as cars use them more frequently than pedestrians. Roads are about 3 foot wide and are two way so if you hire a car here make sure it's a small one and definitley take out the Collision Damage Waiver.
+Guernsey's roads are narrow — many are single-track with passing places — and the island has a maximum speed limit of 35 mph. If you hire a car, get a small one and take the collision damage waiver seriously. A public bus service circles the island and is a pleasant way to see the coast without the stress of driving. The full circuit takes about 90 minutes.
+
+Walking and cycling are practical for the southern parishes. The cliff paths along the south coast are some of the best walking on the island.

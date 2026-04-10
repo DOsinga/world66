@@ -1,10 +1,12 @@
 ---
-title: "Porlock and District"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.195375
 longitude: -3.618544
+title: Porlock and District
+type: location
 ---
 
-Porlock, itself, is quite a substantial village on the main road, A39, between Minehead and Lynmouth. Although it is not Exmoor's prettiest place, the area around it is superb. The wodland walks around Luccombe and the village of Selworthy with its beacon hill cry out to be seen and then there is the tiny port at Porlock Weir, with a beach of massive pebbles. From here there is a great cliff walk to the tiny church at Culbone.
+Porlock is a village on the A39 between Minehead and Lynmouth, sitting in a sheltered valley just below the dramatic Exmoor ridge. The village itself is pleasant rather than spectacular, but the surrounding area is excellent. The infamous Porlock Hill — one of the steepest main roads in England — rises sharply to the south, with a toll road offering an easier alternative.
 
-http://www.whatsonexmoor.co.uk/villages/porlock.htm
+The best walks are in the hills and combes nearby. Luccombe and Selworthy (with its thatched cottages and hilltop beacon) are among the prettiest corners of Exmoor. Porlock Weir, a short distance west, is a tiny harbour with a pebble beach, a handful of fishermen's cottages, and a good pub — and from here a superb cliff path leads through ancient oak woodland to the isolated church at Culbone, reputedly the smallest complete church in England.

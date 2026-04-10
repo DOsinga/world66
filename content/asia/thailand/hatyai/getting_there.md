@@ -1,18 +1,12 @@
 ---
-title: "Getting there"
+title: "Getting There"
 type: section
 ---
 
-**Points of Interest**
+**By plane** — Thai Airways and budget carriers operate daily flights from Bangkok (75 minutes). The airport is a short drive west of the city centre.
 
-**By bus**
+**By train** — Several daily services run from Bangkok's Hua Lamphong station, including overnight sleepers. Some trains continue into Malaysia. The journey takes around 16 hours.
 
-Air con buses leave from Bangkok's Southern Bus Terminal. For further information call +66-2-434558. Alternatively take a mini bus from Khao San Rd.  
+**By bus** — Air-conditioned buses leave from Bangkok's Southern Bus Terminal. The journey takes around 12 hours. Mini buses also depart from Khao San Road.
 
-**By train**
-
-There are a number of trains leaving from the central station in Bangkok for Hat Yai. Some trains are heading actually for Malaysia. You can get further information calling +66-2-2237020.
-
-**By plane**
-
-Thai Airways offers a number of daily flights from Bangkok to Hat Yai. The flight time is 75 minutes. You can book the flight at every travel agency.
+**From Malaysia** — Regular buses and minivans connect Hat Yai with Penang, Kuala Lumpur and other Malaysian cities via the border crossing at Sadao.

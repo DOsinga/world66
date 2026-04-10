@@ -1,10 +1,14 @@
 ---
-title: "San Cristobal"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 7.775666
 longitude: -72.221415
+title: San Cristóbal
+type: location
 ---
 
-San Cristóbal, the capital of the state of Táchira, was founded by Juan de Maldonado in 1561. From its inception, the city evolved rapidly as one of the most progressive and important centers of commerce in the country. As throughout the Andean states, the people of Táchira are characterized as hardworking, cordial, conservative, and devoted to their historical, religious, and folkloric traditions. 
+San Cristóbal is the capital of Táchira state in the Andean highlands of western [Venezuela](/southamerica/venezuela), close to the Colombian border. Founded in 1561 by Juan de Maldonado, it grew into one of the most progressive commercial centres in the country. The people of Táchira are known for being hardworking, conservative, and devoted to their traditions.
 
-The primary industries here are centered around agriculture, mainly the production of coffee, sugar, and legumes. Other important industrial sectors which have helped fuel the economic engines of the region include meat production (cattle), agriculture, and manufacturing industries like shoes, baskets, and ceramics. A fact that perhaps is not widely known is that it was in Táchira, and not in Zulia, that the first oil wells were excavated in 1875-- a procedure done in those days by hand and with buckets.
+The economy is built around agriculture — coffee, sugar, and legumes — along with cattle, shoe-making, and ceramics. A fact that is not widely known is that Venezuela's first oil wells were excavated here in Táchira in 1875, not in the more famous oil state of Zulia — done in those days by hand and with buckets.
+
+San Cristóbal has the pleasant, temperate climate of the Venezuelan Andes and a university-town energy. It is a common crossing point for travellers heading to or from [Colombia](/southamerica/colombia).

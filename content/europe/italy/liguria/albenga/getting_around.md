@@ -3,12 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Getting around Albenga is quite easy as the town is well designed in its piana. You can easily walk down to the beaches and visiting the town center for some shopping.
-
- Only during summertime is quite busy to go around by car due to the holyday people but generally it is possible to go everywhere in few munits with no serious problems. There are many parkings so it is better to live the car and enjoy the town trek.
-
-Enrico Pelos, Albenga editor, Liguria (general) editor, Osinga.com, Genoa, Italy.
-
- pelos@tn.village.it
-
- http://www.global.village.it/~pelos/index.htm
+Albenga is compact and easy to navigate on foot. The historic centre, the beaches, and the main shopping streets are all within walking distance of each other. Car parking is available on the edges of the old town. In summer the roads through the piana can be congested with holiday traffic; leaving the car and walking is usually faster.

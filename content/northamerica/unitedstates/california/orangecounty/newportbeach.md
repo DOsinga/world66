@@ -1,8 +1,10 @@
 ---
-title: "Newport Beach"
+title: Newport Beach
 type: location
 latitude: 33.617009
 longitude: -117.92944
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Newport Beach's pleasure-craft harbor-one of the largest in the world-brims with activity. You'll find harbor cruises that depart from the Fun Zone. While near the harbor, check out the Newport Harbor Nautical Museum. Contemporary-art lovers will revel in the Newport Harbor Art Museum's collection of California post-World War II art. Browse in the charming shops and dine in one of the distinctive restaurants. Or, paddle a kayak in the lagoon, then picnic on a private beach. Rent a bike for a trip to the Upper Newport Bay Ecological Reserve, where endangered birds live in the freshwater marsh.

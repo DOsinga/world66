@@ -1,26 +1,16 @@
 ---
-title: 'Balangir'
+title: Balangir
 type: location
-latitude: 20.609518
-longitude: 83.167303
+latitude: 20.6717
+longitude: 83.4846
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+Balangir is a district in western [Odisha](/asia/india/orissa), flanked by the Gandhamardan hills to the northwest and the rocky Mahanadi river to the northeast. It is hot, dry, and deeply historical — the kind of place where ancient temples stand quietly in fields and the past feels close to the surface.
 
-The district of Balangir is named after the headquarters towns of Balangir. This
-town was also the headquarters of the princely state of Patna, since the
-eighties of the nineteenth century. **Balaram Deo**, the brother of Narasimha
-Deo, the **12th Raja of Patna**, **established Balangir**. As Balaram Deo
-i s known to have flourished about the middle of
-16 th century, the origin of the town of Balangir
-has also been attributed to that period. It is said that the town being founded
-by Balaram Deo was named after him as Balaramgarh, from which the
-present name Balangir has been derived.The district of Balangir is flanked in the North-west by
-the Gandhamardan hill, and in the north-east by the rock-infested Mahanadi. Many
-hill streams traverse it. It is the land of **Tantrik culture**. It is also notable
-for having experimented in the republican form of Government that was overthrown
-by Ramai Deo. Ramai founded the kingdom of Patna in the 14th century, which
-within a short span of career become the head of the cluster of
-eighteen Garhs. The Chauhan rule ended with the merger of the state of Patna and
-Sonepur with Orissa on the 1st January, 1948. They together from the district of
-Balangir. Sonepur was carved out as a separate district on 1.4.1993.The Town of Balangir is one of the biggest commercial town of western orissa..It is probably the first planned town of orissa..the plan was don by pandit vidyabhusan..The town has one of the oldest and largest(campus area wise) college called Rajendra college..which is also credited with introducing commerce in orissa for the first time.One of the oldest school is also here called PR High school which is already more than 100 years old. The town has two beautiful Parks and seven small lakes.It has several temples,the main of them are the local deity Pataneswari and Samaleswari.It is politically very volatile place having mainly dominated by the royal family..Balangir is one of the hottest place in India with temperature reaching 50 degree two years back..the main language spoken here is Koshali which is spoken in almost the whole of western orissa .it is also famous for its sambalpuri saree and terracotta structures.On the whole it is a historical town with greate contibution to koshali culture and orissa culture.You can visit the official website of [Balangir](/asia/india/orissa).
+The town was founded in the 16th century by Balaram Deo, brother of a raja of the Patna kingdom, and originally called Balaramgarh. The Chauhan dynasty ruled here for centuries, building a network of eighteen fortified territories known as Garhs. That era ended in 1948, when the princely states of Patna and Sonepur merged with Odisha.
+
+What draws visitors today is the remarkable temple heritage scattered across the district. Ranipur Jharial, about 100 km away, is one of only four circular 64-yogini temples in India — a haunting ring of carved figures open to the sky. Patnagarh, the old Chauhan capital, has Chalukyan-style temples dating to the 12th century.
+
+Balangir town itself is one of the larger commercial centres in western Odisha. The main language here is Koshali, and the district is known for its Sambalpuri handloom sarees and terracotta work. Temples to Pataneswari and Samaleswari anchor the town's religious life. Be warned: summers are brutal, with temperatures regularly pushing past 45 degrees Celsius.

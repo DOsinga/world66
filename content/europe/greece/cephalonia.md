@@ -1,12 +1,16 @@
 ---
-title: "Cephalonia"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 38.266032
 longitude: 20.53739
+title: Cephalonia
+type: location
 ---
 
-Cephalonia (or Kefallonia) is one of the seven main islands of the Ionian’s group. It was not until the beginning of the nineties that tourists discovered the island, not in the least because of the lack of proper roads. Things have changed and although the largest island of the group is still not overrun by loads of tourists, it has everything to offer for a pleasant stay off the commercial track. 
+Cephalonia (or Kefalonia) is the largest of the Ionian Islands and one of the least overrun by mass tourism. A serious earthquake in 1953 destroyed most of its villages, but the island rebuilt itself — and what survived, like the port of Fiskardo in the north, shows how beautiful it once was. The landscape is dramatic: limestone mountains, cypress groves, olive trees, and a coastline that flips between rugged cliffs and long sandy beaches.
 
-One way to explore the island is by motorbike – but do take care on the narrower roads, especially if you are likely to meet by a bus ferrying tourists from the airport to their resort! Car rental can also be cost effective, consider booking from the locals and keeping the money in the Greek economy. Good beaches (Viniares and Agio Theodoro are the most popular ones), tiny lakes, olive and cypress trees, mountain slopes and a fabulous local wine (Robola) will be the main ingredients of a trip to Kefalonia. Assos is a small fishing village on the western side and is a pleasant village to stroll around, as is the port town Fiskardo to the north. From the bay, you can have some good views of the [Ithaca](/europe/greece/ithaca) coast. 
+The island got a boost of international attention from the novel and film *Captain Corelli's Mandolin*, set during the Italian occupation in World War II. That history runs deep here — the massacre of the Acqui Division in 1943 is still talked about.
 
-Flights from and to [Athens](/europe/greece/athens) take around an hour, usually once a day.
+Getting around requires a vehicle. Motorbikes work well on the quieter roads, though bus routes through mountain passes can make them hairy. Car rental is widely available; going local keeps the money on the island. The local wine to seek out is Robola, a dry white made from a grape variety found almost nowhere else.
+
+Argostoli, the capital, sits on a long bay and makes a practical base. Fiskardo, at the northern tip, is the island's most charming corner — a small Venetian-era port with intact stone buildings and a harbour full of yachts. Day trips to nearby [Ithaca](/europe/greece/ithaca) are easy to arrange from the north.

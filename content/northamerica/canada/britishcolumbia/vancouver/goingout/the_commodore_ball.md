@@ -1,22 +1,9 @@
 ---
 title: "The Commodore Ballroom"
-type: location
+type: poi
 address: "868 Granville Street"
-phone: "604.739.SHOW"
-type: "Concerts"
-url: "uqevents.com"
 latitude: 49.280563
 longitude: -123.120792
 ---
 
-Visit one of Vancouver's best live music venues. To find a complete schedule go to http://uqevents.com/profile/the-commodore-ballroom/396570/
-
-type: Concerts
-
-
-
-tel: 604.739.SHOW
-
-url: [uqevents.com](http://uqevents.com/profile/the-commodore-ballroom/396570/)
-
-address: 868 Granville Street
+One of Vancouver's best live music venues, the Commodore Ballroom has been hosting concerts since 1929. The sprung dance floor — built on a bed of horsehair and car tires — is legendary, and the room's intimate size means there is not a bad spot in the house. Everyone from Talking Heads to Arcade Fire has played here.

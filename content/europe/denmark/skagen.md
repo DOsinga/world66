@@ -1,10 +1,12 @@
 ---
-title: "Skagen"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 57.72597
 longitude: 10.58446
+title: Skagen
+type: location
 ---
 
-Skagens Gren is the northernmost tip of the European continent where the meeting of two seas makes surreal wave shapes for miles out to sea. Walking out to the point, a derelict bunker at the edge of the beach is a stark reminder of the strategic importance of this particular stretch of the [Denmark](/europe/denmark) coastline. 
+Skagen sits at the very tip of Denmark, where the Skagerrak and Kattegat seas collide in visible, clashing wave patterns that stretch for miles. Walking out to Grenen — the actual northernmost point — you can stand with one foot in each sea. A derelict WWII bunker at the beach's edge is a stark reminder of this coastline's strategic importance.
 
-According to locals, the reflection of the light in the sea and the width of the horizon creates a huge feeling of open space and drew a great many 19th century artists to the region. Nowadays, the large expanses of pristine beaches and clear waters are reason enough to visit this unspoilt wilderness.
+The unique light here drew a colony of 19th-century painters known as the Skagen artists, and you can see their work at the Skagens Museum. Today, the draw is simpler: vast pristine beaches, clear waters, and a feeling of wide-open space that is hard to find elsewhere in Denmark.

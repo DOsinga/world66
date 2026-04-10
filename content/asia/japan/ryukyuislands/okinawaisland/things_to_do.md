@@ -1,25 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Saltwater Fishing Okinawa's world class fishing charters offers offshore fishing charters for tuna, wahoo, marlin, shark, mahimahi, and various other fish. [www.saltwater-fishing-okinawa.com](/asia/japan/ryukyuislands/okinawaisland/things_to_do)
-call 090-3797-9810, International calling: 81-903-797-9810
+Okinawa offers a mix of war history, marine life, and Ryukyuan culture that you will not find elsewhere in Japan. The reconstructed Shuri Castle in Naha is the obvious starting point for understanding the island's past as the seat of the Ryukyu Kingdom. The Peace Memorial Park and Himeyuri Monument in the south confront the devastating Battle of Okinawa head-on.
 
-## Destinations in Okinawa Island
-
-- [Naha](/asia/japan/ryukyuislands/okinawaisland/naha)
-
-add city >
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+On the lighter side, the Churaumi Aquarium on the Motobu Peninsula is genuinely impressive, with whale sharks gliding through one of the world's largest tanks. Offshore, the diving around the Kerama Islands and the Blue Cave near Cape Maeda draws divers from across Asia. For a quieter afternoon, the traditional pottery village of Tsuboya in Naha and the Ryukyu glass workshops scattered around the island are worth a visit.

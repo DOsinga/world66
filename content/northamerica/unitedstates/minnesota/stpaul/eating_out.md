@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in St. Paul"
+title: "Eating Out"
 type: section
 ---
 

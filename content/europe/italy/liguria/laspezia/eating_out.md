@@ -1,17 +1,10 @@
 ---
 title: "Eating Out"
 type: section
-address: "Via del Prione, 268"
-phone: "+39 0187 737 203"
-type: "Italian"
-latitude: 44.107685
-longitude: 9.81781
 ---
 
-Here are a few suggested places to eat.
+La Spezia's restaurant scene centres on Via del Prione and the surrounding streets. Seafood is the thing here — the Gulf of La Spezia supplies fresh catch daily, and you'll find mussels, anchovies, and branzino on most menus. Prices are noticeably lower than in the Cinque Terre villages.
 
-### Ristorante - Pizzeria Fratelli D'Angelo
+### Ristorante-Pizzeria Fratelli D'Angelo
 
-Excellent seafood & great house (new) wines at affordable prices! Don't forget the garlic pizza bread!
-
-type: Italian
+Via del Prione 268, tel. +39 0187 737 203. A reliable local spot serving excellent seafood and pizza at reasonable prices. The house wine is good and the garlic bread is worth ordering.

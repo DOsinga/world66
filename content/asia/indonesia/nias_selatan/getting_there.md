@@ -3,11 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Nias (Gunungsitoli) is accessible best by air. Merpati Nusantara has daily flights from Medan.
+Nias Island is most easily reached by air. Flights operate from Medan to Gunungsitoli airport in the north of the island. From Gunungsitoli, it is a long drive south to Teluk Dalam and the surf beaches — allow several hours on rough roads.
 
-During the reconstruction activities, there are also flights by the UN (UNHAS) from Banda Aceh.
-
-There is also a ferry service from Sibolga, on the western coast of North Sumatra, however, mostly used by locals.
-
-**Contributors**
-July 16, 2006
+A ferry service also runs from Sibolga on the west coast of North Sumatra, though it is slow and primarily used by locals. Conditions on the ferry can be basic.

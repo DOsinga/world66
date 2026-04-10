@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Javie
   class="new" title="User:Javierblas (page does not exist)">Javierblas</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: 2026-04-07
 ---
 
 *Asia > Saudi Arabia*

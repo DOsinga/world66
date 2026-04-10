@@ -1,14 +1,14 @@
 ---
-title: "Ptuj"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.41981
 longitude: 15.871738
+title: Ptuj
+type: location
 ---
 
-Ptuj is the oldest city in Slovenia; it obtained town rights in 977. It has survived the centuries well, and the visitor will find its historic centre filled with beautiful sights and monuments. 
+Ptuj is the oldest town in Slovenia, with town rights dating back to 977, and it wears that age well. The compact historic centre clusters beneath a hilltop castle and is filled with the kind of detail that rewards slow walking: carved stone doorways, wrought-iron window grills, and patrician houses lining quiet streets.
 
-The castle, the Dominican and Minorite monasteries, the Provost Church, the old City Hall, the patrician houses, numerous marvelously carved doors, wrought iron window grills, and stonecutting details are some of the most important attractions. 
+The castle itself houses a museum with an excellent collection of musical instruments and period rooms. Below it, the Dominican and Minorite monasteries and the Provost Church anchor the old town, and the vaulted wine cellars beneath the city store vintages from a tradition that stretches back more than seven centuries. If you are in the region, a tasting is worth your time.
 
-In the surroundings of Ptuj, there are many possibilities for excursions. In the immediate vicinity, the Terme Ptuj Health Resort offers the beneficial and healing effects of its thermal waters. 
-
-Ptuj is also an important wine producing city with a wine growing tradition of more than seven centuries. The inns and restaurants of the city and its surroundings offer a great variety of courses that the vintage wines from the Ptuj region complement very well.
+Ptuj is also home to the Kurentovanje carnival, held in February before Lent. Locals dress in sheepskin costumes with elaborate masks and cowbells to chase away winter — it is one of the most distinctive folk traditions in Europe and draws crowds from across Slovenia.

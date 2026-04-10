@@ -1,19 +1,16 @@
 ---
-title: "Delaware"
+title: Delaware
 type: location
-latitude: 38.692045
-longitude: -75.401331
+latitude: 39.0
+longitude: -75.5
+done:
+  location_cleanup: 2026-04-05
 ---
 
-The three counties which make up the state of Delaware were added to William Penn's lands in America. In 1682, Penn came ashore at New Castle and took possession, but these counties, which were well established, became dissatisfied with Penn's rule. In 1704, when he granted them a separate legislature, New Castle became the colonial capitol of Delaware. In June 1776, the three lower county declared their independence from both Great Britian and Pennsylvania. During the Revolutionary War, the minor battle of Cooches Bridge was fought in Delaware, a few miles south of Newark along the White Clay Creek. On December 7, 1787, Delaware signed the United States Constitution becoming the first state. 
+Delaware is the second smallest state in the United States, and the one most Americans pass through without quite noticing: a thin wedge of land between Maryland and the Atlantic, squeezed against the Delaware Bay, crossed by the I-95 on the way between New York and Washington. It is also the "First State" — the first to ratify the Constitution in December 1787 — and a place with more interesting corners than its size and highway reputation suggest.
 
-Today, Delaware is the corporate home to over half of the Fortune 500 companies in the United States. Chemical and banking industries are the largest ecomonic force in northern Delaware, while agriculture make up the largest industry in the southern part of the state. Tourist flock to Delaware beaches in eastern Sussex County in the summer months. No sale tax has also made shopping a major industry in Delaware, as out of state buyers flock to Delaware from the surrounding states to save.
+The north, around Wilmington, is the industrial and corporate end: the DuPont chemical company was founded here in 1802, and more than half the Fortune 500 companies are registered in Delaware because of the state's famously business-friendly corporate law. Wilmington itself has the Hagley Museum (the original DuPont gunpowder works on the Brandywine River), the Nemours Estate (a 105-room French-style mansion built by Alfred I. du Pont), and the Delaware Art Museum, which holds the largest collection of Pre-Raphaelite art outside Britain. The Brandywine valley, stretching north into Pennsylvania, has the Wyeth family's Brandywine River Museum and the handsome rolling horse country that inspired three generations of American painters.
 
-## Destinations in Delaware
+The south is a different state altogether. Dover, the compact state capital, has a walkable historic green dating from William Penn's day and the Air Mobility Command Museum at the air force base. Further south, the Sussex County coast has a string of Atlantic beach towns — Lewes (a quiet Dutch-founded town at the mouth of the Delaware Bay, reached by ferry from Cape May), Rehoboth Beach (the busy summer destination, with a boardwalk and the best restaurants on the coast), Dewey Beach (the younger, rowdier cousin), and Bethany Beach (quieter and family-oriented). In between, the flat farmland grows corn, soybeans, and chickens — Sussex County is the largest broiler-chicken producing county in America by value.
 
-[Lewes](/northamerica/unitedstates/delaware/lewes)
-[New Castle](/northamerica/unitedstates/delaware/newcastle)
-[Georgetown](/northamerica/unitedstates/delaware/georgetown)
-[Wilmington](/northamerica/unitedstates/delaware/wilmington)
-[Dover](/northamerica/unitedstates/delaware/dover)
-[Newark](/northamerica/unitedstates/delaware/newark)
+Two particular Delaware facts are worth knowing. There is no sales tax, which is why you will see shoppers with out-of-state plates loading cars outside the malls on the Pennsylvania and New Jersey borders. And Delaware is the only state with no national park — but it compensates with Bombay Hook, a 16,000-acre national wildlife refuge on the Delaware Bay where tens of thousands of shorebirds stop every spring to feast on horseshoe crab eggs, one of the great migration spectacles of the Atlantic coast.

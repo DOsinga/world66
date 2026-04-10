@@ -1,8 +1,10 @@
 ---
-title: "Viseu"
+title: Viseu
 type: location
 latitude: 40.657471
 longitude: -7.913866
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Travel Guide

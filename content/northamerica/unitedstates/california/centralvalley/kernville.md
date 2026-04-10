@@ -1,16 +1,12 @@
 ---
-title: "Kernville"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.7331
+longitude: -118.434
+title: Kernville
 type: location
-latitude: 35.73308
-longitude: -118.433964
 ---
 
-Travel Guide
+Kernville sits on the North Fork of the Kern River, just above Isabella Lake in the southern Sierra Nevada. The Sequoia National Forest rises to the north, and the whole area is laced with back roads that wind through granite peaks and pine forests.
 
-Kernville is north of Isabella Lake on the North Fork of the Kern
-River which flows into Isabella
-Lake . The area north of it is the Sequoia
-National Forest . There are many
-beautiful back roads through the mountains to spend days exploring. In spring
-time the river is full of white water enthusiasts. They have many campgrounds
-up and down the river.
+In spring the river draws serious whitewater enthusiasts — the upper Kern is one of the best rafting runs in California. The rest of the year it is a quiet base for camping, fishing, and exploring the mountains. Campgrounds line the river corridor both upstream and downstream.

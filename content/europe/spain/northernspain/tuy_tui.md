@@ -1,14 +1,12 @@
 ---
-title: "Tuy [Tui]"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.050137
 longitude: -8.646641
+title: Tuy [Tui]
+type: location
 ---
 
-Tuy is in the south of Galicia just by the Portuguese border, which is crossed at this point by a bridge designed by Eiffel. Being a frontier city in a previously bellicose area, it is on top of a hill and it has three major things goind for it:
+Tui sits in the south of [Galicia](/europe/spain/galicia), right on the Portuguese border. The two countries are linked here by an iron bridge designed by Gustave Eiffel. As a frontier town in a historically contested region, Tui is built on a hilltop with commanding views over the Miño river valley into [Portugal](/europe/portugal).
 
-1. Its great views
-
-2.It's proximity to Portugal and ease of travel by train [timetables less helpful for staying in north Portugal]
-
-3. Previously fortified cathdral like a hybrid with a castle.
+The main draw is the fortified cathedral, a striking hybrid of church and castle that reflects centuries of border warfare. The old town around it is attractive and quiet, and the ease of crossing into Portugal (the town of Valença is just across the bridge) makes Tui a natural stop on any trip through this corner of the Iberian peninsula.

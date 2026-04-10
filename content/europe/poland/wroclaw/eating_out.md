@@ -1,12 +1,6 @@
 ---
-title: "Eating Out in Wroclaw"
+title: "Eating Out"
 type: section
 ---
 
-Bar Bazylia Wroclaw,Kuzinica 42
-Near the Law School of the University.
-This is a cafeteria, but the food is outstanding, such a variety. It is amazing and so well prepared. . The vegetables are cooked just right hot and crisp. And the sauces are wonderful
-Excellent Food and at a great price. Weighed at the Cash out. Many varieties of beef, pork, chicken dishes. Great vegetable selection ,deserts, bread, soup.
-For about $6 U.S.D. you eat a large very tasty meal.
-I was there in June 2011
-David C.
+Wroclaw's food scene reflects its student-town energy — affordable, varied, and unpretentious. Polish classics like pierogi, zurek, and bigos are easy to find, but the city also has a growing number of restaurants doing more inventive cooking. The Rynek and surrounding streets are packed with options, though some of the best places hide in courtyards and side streets a block or two off the square.

@@ -1,14 +1,12 @@
 ---
-title: "Stoke-on-Trent, Staffordshire"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 53.020564
 longitude: -2.229993
+title: Stoke-on-Trent
+type: location
 ---
 
-Travel Guide
+Stoke-on-Trent — "The Potteries" — is an industrial city in Staffordshire, halfway between Birmingham and Manchester on the M6. It is the historic centre of English ceramics: Wedgwood, Royal Doulton, Spode, and dozens of other famous names all started here, and the pottery industry still defines the city's character.
 
-Stoke-on-Trent in Staffordshire also known as The Potteries or North Staffordshire is the hub city located between Birmingham in the South and Manchester to the North accessed via the M6 Motorway. The City has a range of excellent accommodation from B&B to Five Star Hotels; excellent parking and Bus and Rail Services.
-
-If you find Birmingham or Manchester overcrowded or "busy" then the "quiet" city of Stoke is the place to go; with services to attractions like Alton Towers (Thrill Rides and similar entertainment with accommodation available on site; Trentham Gardens (Italian Gardens, Monkey Forrest etc.) to mention just two. The city is home to a number of specialist museums including the renowned Potteries Museum.
-
-Stoke is situated in the foothills and to the East of the Penine Mountain range (The Backbone of England) and is an ideal starting point to visit the Peak Nation Park for walking, climbing or sightseeing. Bus services from Stoke call at Leek, Buxton, Bakewell and Sheffield as well as manyother towns and villages in the area.
+The Potteries Museum & Art Gallery has an outstanding ceramics collection and a good Staffordshire Hoard display. Several working potteries offer factory tours. Alton Towers theme park and Trentham Gardens are both a short drive away. Stoke sits in the foothills of the Pennines and is a practical starting point for visiting the Peak District — buses run to Leek, Buxton, Bakewell, and Sheffield.

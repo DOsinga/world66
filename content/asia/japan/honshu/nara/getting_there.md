@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Nara"
+title: "Getting There"
 type: section
 ---
 
-Most travellers will take the train to Nara. JR Rail Pass holders should take the JR service to Nara, from Kyoto.
-
-**Contributors**
-October 25, 2005
+Most travellers arrive by train. From Kyoto, the JR Nara Line takes about 45 minutes; JR Rail Pass holders should use this service. The Kintetsu Kyoto Line is slightly faster and cheaper but not covered by the pass. From Osaka, the Kintetsu Nara Line runs in about 45 minutes from Namba station.

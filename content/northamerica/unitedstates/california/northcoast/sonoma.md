@@ -1,12 +1,14 @@
 ---
-title: "Sonoma"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 38.292
+longitude: -122.458
+title: Sonoma
 type: location
-latitude: 38.51108
-longitude: -122.847339
 ---
 
-Sonoma, the last of the mission towns to be established, was fortified in the 1830s to protect Mexico's frontier from encroaching Russian settlements to the north. Picnic or dine on the historic Sonoma Plaza, then visit the former Mexican barracks and the 1823 Mission San Francisco Solano de Sonoma. 
- West of Sonoma, in Petaluma, board a steamboat for a ride on the Petaluma River. Then visit Petaluma Adobe State Historic Park, the remains of a once-vast rancho. Be sure to stop at the California Welcome Center in Rohnert Park and visit its excellent Sonoma County Wine Center. 
+Sonoma County is California wine country without the polish and price tag of neighbouring [Napa](/northamerica/unitedstates/california/northcoast/napa). The landscape rolls from the Pacific coast through redwood forests and into sun-drenched valleys planted with pinot noir and chardonnay. Small towns like Healdsburg, Sebastopol, and Guerneville each have their own character, and the tasting rooms tend to be friendlier and less crowded than what you will find across the hills to the east.
 
+The town of Sonoma itself sits around a leafy eight-acre plaza, the largest in California, where Mexico's frontier once ended. The 1823 Mission San Francisco Solano de Sonoma anchors one corner, and the old Mexican barracks line another. It is a fine place to start a day with a farmers' market and a coffee before heading out to the wineries.
 
- Don't miss the 800-acre Jack London State Historic Park north of Sonoma near forested Glen Ellen. Survey the ruins of London's dream home, which burned down just before he and his wife moved in.
+North of town, the narrow road to Glen Ellen passes Jack London State Historic Park, where the author spent his final years on an 800-acre ranch. The ruins of his dream house, Wolf House, which burned the night before he was to move in, still stand among the oaks. Further north, the Russian River Valley around Guerneville draws kayakers in summer and pinot noir lovers year-round.

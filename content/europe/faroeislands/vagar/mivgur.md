@@ -1,10 +1,12 @@
 ---
-title: "Miðvágur"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 62.047955
 longitude: -7.192204
+title: Miðvágur
+type: location
 ---
 
-Travel Guide
+Miðvágur is one of the larger settlements on Vágar island in the [Faroe Islands](/europe/faroeislands), home to about a thousand people. The village sits on the shore of Sørvágsfjørður and serves as a practical base for exploring Vágar, which has the Faroes' airport and some of its most dramatic scenery.
 
-Miðvágur (Midvagur) is one of the largest towns/villages in Vágar island. It is now a part of Vágar Municipality, which also consists of Sandavágur. The population of Miðvágur is around 1050. There is a Tourist Information Center in Miðvágur and museums. Of of the museums in Vágar island is the War Museum, it is in the same building as the Tourist Information Centre and the Bónus Supermarket.
+The War Museum (Dúgvan), housed in a former British military installation from World War II, documents the Allied occupation of the Faroes and is worth a visit. Vágar's main attractions — the lake Leitisvatn that appears to hang above the ocean, the waterfall at Bøsdalafossur, and the remote village of [Gásadalur](/europe/faroeislands/vagar/gasadalur) — are all within easy reach of Miðvágur.

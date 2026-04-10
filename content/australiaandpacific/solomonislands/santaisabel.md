@@ -1,24 +1,14 @@
 ---
-title: "Santa isabel"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -8.0412
+longitude: 159.2113
+title: Santa Isabel
 type: location
-latitude: -8.041199
-longitude: 159.211301
 ---
 
-Santa Isabel is the longest Island in the Solomon Islands, South Pacific. The first european contact was made through this province, and that was made by Alvarode Mendana in 1568. The highest point there is Mount Kubonitu. River Marutho runs down that mount into the ocean at Hofi. Almost all the rivers or streams run down that center point except for those at the other tip of the Island, Katova side. Isabel Province is long but narrow. Estimation population there at the moment 2004 is 30 000. We do have lots of space for more people to come, that is, in comparative to the other provinces. 
+Santa Isabel is the longest island in the Solomon Islands — a narrow, mountainous strip of land that was the first of the Solomons to be contacted by Europeans, when the Spanish explorer Alvaro de Mendana arrived in 1568. The island remains one of the least visited provinces in the country, with about 30,000 inhabitants, limited infrastructure, and the unhurried pace that comes with genuine remoteness.
 
-It is filled with nice and friendly people. It is also the least visited province by tourist and thats because, we don't have the proper housing, transport, and so on. May be you (the reader) can help us out. 
+Buala, the small provincial capital, has no vehicles. The airstrip is at Fera, a 15-minute boat ride away, served by Solomon Airlines. Kia village on the northern tip is recommended by locals as the place to visit. Mount Kubonitu is the highest point, with rivers running down its flanks to the coast on both sides.
 
-Some facts about Isabel Province: Buala (Its small, no vehicles, what a pity!) is the provincial capital, Allardyce and Kamaosi (Duddley Tuti) are the two main highschools in the province, Kia village is always recommended by others as a must place to visit, Fera is where the airstrip is located if you take Sol Air to Isabel and its 15 minutes boat-ride to the provincial capital. 
-
-Banking: You better of changing your currency while in Honiara, but sure, you can do banking in any branch of the National Bank of Solomon Islands (NBSI) in the province. 
-
-Health: Malaria, but if you take etra care of yourself, lotion or sleeping inside mosquito nets, wear long sleeves in the evenings, you should be fine. Clinics are available but only for basic things. 
-
-Where to stay: If you know somebody in there, you are all set to go. Other than that, most areas should have what they call "Rest House", a house where they can put guests in for the night or two, or somebody might take you in for the night. 
-
-Well, am going to leave it there for now.
-
-Should you have any question, feel free to ask autobevmc@hotmail.com 
-
-Thagio fara (Thank you very much)
+Facilities are basic — change your currency in Honiara before you come. Accommodation means rest houses or staying with locals. Malaria is present, so take precautions — mosquito nets, long sleeves in the evenings, and repellent. Clinics exist but only for basic care. What you will find is warm hospitality, spectacular reef diving, and one of the most unspoiled corners of the Pacific.

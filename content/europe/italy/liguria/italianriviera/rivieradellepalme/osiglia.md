@@ -1,24 +1,11 @@
 ---
 title: "Osiglia"
 type: location
-latitude: 44.282632
-longitude: 8.202144
+latitude: 44.2826
+longitude: 8.2021
+todo_location_cleanup: done
 ---
 
-An agricultural center on the Po Valley side of
- the Ligurian Alps, located just upstream of the
- artificial lake of the same name. It used to
- belong to the Del Carretto of Savona, then to
- the marchesi di Monferrato and was finally
- acquired by Spain. Nothing remains of the
- marquis’s castle but a few ruins. The parish
- church of Sant'Antonio is a reconstruction from
- the baroque period. The surrounding woods
- contain two spectacular chestnut trees, with a
- girth of three meters (nearly ten feet) and five
- meters (sixteen and a half feet) respectively.
- The blanket of forest that cloaks Osiglia attracts
- large numbers of summer visitors, who also
- come for the fishing and the sporting activities
- on the lake (regional canoeing championships,
- regattas, etc.).
+Osiglia is a small agricultural centre on the Po Valley side of the Ligurian Alps, situated just upstream of the artificial lake that shares its name. The village has a long feudal history: it belonged successively to the Del Carretto lords of Savona, the marchesi di Monferrato, and finally Spain. Nothing remains of the marquis's castle but a few ruins. The parish church of Sant'Antonio is a baroque reconstruction.
+
+The surrounding forests are the main attraction, and they draw large numbers of summer visitors for walking, fishing, and water sports on the lake, which hosts regional canoeing championships and regattas. Two spectacular chestnut trees in the surrounding woods — with girths of nearly three and five metres respectively — are minor local curiosities.

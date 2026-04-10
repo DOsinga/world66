@@ -1,14 +1,14 @@
 ---
-title: "Punakha"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 27.584286
 longitude: 89.859309
+title: Punakha
+type: location
 ---
 
-You can visit Punakha as a long day trip from [Thimphu](/asia/bhutan/thimphu) this former capital of Bhutan offers superlative views of the Himalaya, nearby Wangdiphodrang Dzong and Punakha Dzong. The latter is the winter home of the largest group of monks in the country (some 500) and the Je Khempo ( spiritual leader of the monk body).
+Punakha was the capital of Bhutan until 1955 and remains one of the most rewarding destinations in the country. The town sits at the confluence of the Pho Chhu (Male River) and Mo Chhu (Female River) at around 1,200 m elevation — considerably warmer than Thimphu, which makes it an attractive winter destination.
 
+The centrepiece is **Punakha Dzong**, one of the finest examples of Bhutanese architecture in the country. Built in the 17th century by Zhabdrung Ngawang Namgyal, the dzong stands on the tongue of land between the two rivers, its whitewashed walls rising above the water like a fortress. It is the winter residence of the Je Khenpo — the spiritual leader of Bhutan — and some 500 monks. Renovated several times after fires and floods, it remains a living religious centre.
 
- Punakha Dzong is built on the confluence of the two rivers Pho chhu (meaning - Male river) and the Mo chhu (female river). Although renovations and extensions were carried out later, the Dzong was first built by Shabdrung Ngawang Namgyal who unified the country under one government in the 17th Century.
-
-
- The drive to Punakha is breathtaking. Although there are two ways to go we recommend the impressive Dochula Pass (Dochula La). The Punakha Domche festival is in late February. Punakha is some 30 km northeast of [Thimphu](/asia/bhutan/thimphu).
+The approach from [Thimphu](/asia/bhutan/thimphu) crosses the Dochula Pass at 3,100 m, where on a clear day you can see dozens of Himalayan peaks stretching across the horizon. The Punakha Domchoe festival, held in late February or early March, is one of Bhutan's most spectacular, featuring traditional masked dances. Punakha is about 75 km northeast of Thimphu and makes either a long day trip or an overnight stop.

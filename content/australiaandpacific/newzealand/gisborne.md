@@ -1,32 +1,14 @@
 ---
-title: "Gisborne"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -38.661326
 longitude: 178.020649
+title: Gisborne
+type: location
 ---
 
-**Gisborne** 
+Gisborne is the first city in the world to see the sunrise each day, sitting on the sunny East Coast of the North Island where Captain Cook made his first New Zealand landfall in 1769. The Maori name for the district, Tairawhiti, means "the coast upon which the sun shines across the water" — and the climate lives up to it, with over 2,200 hours of sunshine a year.
 
+The city is small and relaxed, with good surf beaches, a growing wine region (Gisborne produces more Chardonnay than anywhere else in New Zealand), and a strong Maori cultural presence. Kaiti Beach, near the centre, was where the Horouta waka landed — one of the great canoes of Maori migration — and the area around the city has significant historical sites from both Maori and early European settlement.
 
-
-Gisborne, the first city in the world to see the sun each day, is located on the sunny East Coast of the North Island. 
-
-The Maori name for the district is Tairawhiti which means "The coast upon which the sun shines across the water". Kaiti Beach, near the city, was where the Maori immigrational waka, Horouta, landed; and is also the first European landing place in New Zealand. 
-
-Captain Cook first set foot here in 1769. European settlement was established in 1831 and the town which developed was named after Hon. William Gisborne, the Colonial Secretary, in 1870. 
-
-Prior to this the settlement was known as Turanga but confusion with Tauranga, Bay of Plenty, led to the name change. To the early Maori the Poverty Bay area was known as Turanganui-a-Kiwa, "The stopping place of Kiwa". Gisborne became a borough in 1877 and a city in 1955. 
-
-**Climate** 
-
-The Gisborne district (population 45,000 with about 30,000 residing in the city) generally has warm summers and mild winters. Gisborne is one of the sunniest places in New Zealand with average yearly sunshine of around 2200 hours. The region's annual rainfall varies from about 1000mm near the coast to over 2500mm in the higher inland country. Temperatures of 38°C have been recorded and an average 65 days a year have a maximum of over 24°C. 
-
-**Farming** 
-
-The Poverty Bay plains contain 20,200 ha of rich, alluvial river flats which, combined with mild temperatures, make this district an ideal area for the growing of maize, grapes, kiwifruit, citrus and subtropical fruits. The district is mainly hill-country, well-suited to grazing. Sheep, cattle, deer and goats are farmed. Pinus radiata forests have been planted throughout the region with forestry now a major landuse. 
-
-**Transport** 
-
-Gisborne is serviced by daily passenger and freight, air and bus connections to other main centres in the North Island. There is also a rail freight service and a busy overseas shipping and local fishing port.
-
-**Courtesy of:** Tourism Eastland Inc.
+The surrounding countryside is a mix of rich alluvial plains, hill-country farms, and vast planted forests. It feels remote — Gisborne is a long drive from anywhere — but that isolation is part of its appeal.

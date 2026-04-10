@@ -1,22 +1,16 @@
 ---
-title: "St Andrews"
+title: St Andrews
 type: location
-latitude: 56.34039
-longitude: -2.795584
+latitude: 56.3398
+longitude: -2.7967
+done:
+  location_cleanup: 2026-04-05
 ---
 
-St. Andrew's is an eclectic town busling with tourists, students and golf zealots alike. Located 50 miles north of Edinburgh, this university town has a lot to offer in a relatively small setting. The heart of the city extends only for a few blocks along North Street, Market Street, and South Street, so it easy to walk around the city, see the St Andrews University buildings and other sights, and decide which restaurant or pub to try.
+St Andrews is a small, handsome Scottish town on the Fife coast, about an hour north of Edinburgh, and for the size of the place it punches remarkably above its weight. It is the home of golf — the game has been played on the Links here since at least 1457, and the Royal and Ancient Golf Club of St Andrews, founded in 1754, is still the guardian of the rules worldwide. It is also the home of Scotland's oldest university, founded in 1413 and famous in recent years as the place where Prince William met Kate Middleton. And it was, for several centuries, the ecclesiastical capital of Scotland, until the Reformation left its cathedral and castle in ruins.
 
-Golfers make pilgrimages to the Old Course and to the nearby golf museum, while movie buffs might want to stroll along the West Sands, where the opening scene of Chariots of Fire was filmed.
+The town is compact — you can walk from end to end in twenty minutes along the three old parallel streets (North Street, Market Street, South Street) — and everything worth seeing is within that footprint. The cathedral, begun in 1160 and once the largest in Scotland, is now a dramatic set of ruins surrounding the intact St Rule's Tower, which you can climb for the best view over the town and the North Sea. The castle, perched on a cliff above the sea, was the archbishop's fortified palace and the site of some of the more violent episodes of the Reformation — you can explore the dungeon and crawl through the mine-and-countermine tunnels dug during the 1546 siege. Outside the castle walls, cobblestones mark the spot where the Protestant reformer George Wishart was burnt at the stake in 1546; his patron John Knox watched and was radicalised.
 
-St Andrews was the center of Scotland's religious life for centuries; St Andrews Castle was once the archbishop's palace and was the site of notable murders and martyrdoms during the Reformation.
+For golfers, the Old Course is the obvious pilgrimage, though getting a tee time requires a ballot, a wallet, and some luck. The British Golf Museum next to the Royal and Ancient is a decent consolation prize, and you can walk the 18th fairway for free — it is public land, and the Old Course shares the West Sands beach with dog walkers and the opening scene of *Chariots of Fire*, which was filmed here.
 
-You can explore the ruins of the Castle and, if you're not claustrophobic, you can creep through its ancient tunnels. St Andrews Cathedral is also in ruins, but the remaining walls and towers are dramatic frames for photographers and interesting fodder for historians. St Rule's Tower, built around 1130, is still standing; you can climb to the top of the tower for panoramic views of the city, the golf courses, and the surrounding country.
-
-For the tourist there is the treat of intermingling with centuries of history embedded in St.Andrews religious, academic and social life. At one time this was an epi-center of religious learning and power that killed the famous and outspoken George Wishart who was burned at the stake outside St Andrew's Castle. Many remains of monastries and religious houses along the Southern embankements of the River Tay between Perth and Dundee evidence peoples' journeys from Europe to reach St.Andrews because it was so religiously and politically important. So few people discover these treasures outside of St. Andrews.
-
-The rich and famous compete to have their children educated in the ancient halls of St.Andrew's academia most notably Prince William of the British Royal family.
-
-Visiting the birthplace of golf is a rite of passage for most golfing enthusiasts and they won't be disappointed with the Royal and Ancient golf course and club house. Its majestic views of the flat beachs and North sea make it a spiritual discovery even if you have never discovered the religion of golf. Unfortunately, a waiting list and a nice fee stands in your way of playing the course.
-
-Probably the best part of St. Andrews is that everything is so close together. Walking distance is truly walking distance. You can see ancient buildings, religious relics, the castle complete with dungeon, George Wishart's burning site, the fishing port and quaint cottages, a host of shops, the famous golf course, the beaches (host to films like Chariots of fire), the sealife center, and not to mention the host of authentic places to eat and drink day and night. This town is very hard to equal in experience.
+Beyond golf, the real pleasure of St Andrews is the scale: three long sandy beaches, a harbour full of fishing boats, university students spilling out of pubs on Market Street in red gowns, ancient ruins, and the North Sea light. It is easily day-trippable from Edinburgh, but worth an overnight to see it after the tour buses leave.

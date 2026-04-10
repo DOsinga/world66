@@ -3,12 +3,12 @@ title: "Plattsburgh"
 type: location
 latitude: 44.696086
 longitude: -73.454291
+done:
+  location_cleanup: 2026-04-10
 ---
 
-Travel Guide
+Plattsburgh is a small city on the western shore of Lake Champlain in the northeastern corner of New York State, about 25 kilometres south of the Canadian border and 100 kilometres south of Montreal. It has a history that punches above its size.
 
-Practical Information
+The **Battle of Plattsburgh** in 1814 was one of the decisive naval engagements of the War of 1812: an American fleet defeated a much larger British force on the lake, halting a British invasion from Canada and influencing the subsequent peace treaty. The **Battle of Plattsburgh Museum** and the Macdonough Monument on City Hall Park commemorate the victory.
 
-Plattsburgh, NY is a quiet city with plenty of history. For those wishing to get away from the hustle and bustle of major tourist areas, Plattsburgh is ideal. Situated right on Lake Champlain, you'll find plenty to do. Fisherman have sworn by the perch that can be caught for decades.
-
-The city has a history going
+Today the city has a pleasant lakefront and a manageable downtown. Perch fishing on Lake Champlain has drawn anglers here for generations. The lake itself — 193 kilometres long, with the Green Mountains of Vermont rising on the eastern shore — is one of the great inland bodies of water in the eastern United States. Burlington, Vermont, is a short ferry ride across the lake.

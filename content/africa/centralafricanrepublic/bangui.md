@@ -1,14 +1,16 @@
 ---
-title: "Bangui"
+title: Bangui
 type: location
+latitude: 4.3947
+longitude: 18.5582
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Bangui is the capital of the Central African Republic. It is located in the southwestern part of the country. The city is situated on the western bank of the Oubangi River, the nation's main trade artery, across from the Democratic Republic of the Congo.
+Bangui is the capital of the Central African Republic, set on the western bank of the Oubangui River with the Democratic Republic of the Congo visible on the opposite shore. The city developed around a French military post established in 1889 and served as the administrative centre of the territory of Ubangi-Chari before independence in 1960.
 
- Bangui developed around a military post established by the French in 1889-90. It was the administrative center for the French territory of Ubangi-Chari and continued as the national capital when the country achieved independence as the Central African Republic in 1960.  
+With its broad avenues, surrounding hills, and riverside setting, Bangui has a certain charm that belies the country's difficult recent history. The centre of town is the Place de la République, where a Roman-style triumphal arch — a legacy of former Emperor Bokassa — faces the central market. Avenue Boganda, the main commercial street, is always busy.
 
- Bangui is the republic's chief port and its leading administrative, economic, and educational center. It has the only university of the country.
+The area known as "Km5," five kilometres out along Avenue Boganda, is the liveliest part of town for nightlife, cheap restaurants, and music, though it can be rough after dark. The Musée de Boganda, near the centre, has a small but worthwhile collection covering the country's ethnography and history. The Marché Central is noisy, colourful, and worth the visit for the atmosphere alone.
 
- With its broad avenues, the beautiful hills and the river, Bangui certainly has some charm. Around the central market and the avenue Boganda there are always things going on. The centre of town is the place the la republique, where you find the Roman style triumphal arch of former emperor Bokassa.
-
-  For nightlife head out 5 kilometer on Avenue Boganda until it intersects with Avenue Koudougou. You are in 'km5' as the locals call it: cheap restaurants, accommodation and nightclubs. The area may be somewhat unsafe, especially at night.
+Bangui is not an easy city — infrastructure is limited, security can be unpredictable, and getting around requires patience. But for travellers who make it here, it is an authentic and memorable African capital.

@@ -1,14 +1,16 @@
 ---
-title: "Coober Pedy"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -29.0134
+longitude: 134.7536
+title: Coober Pedy
 type: location
-latitude: -29.013368
-longitude: 134.753616
 ---
 
-Coober Pedy is reputed to mean 'white fellow's hole in the ground', and this is a very good description of the place. The 'opal capital' of Australia (and the world) largely consists of holes in the ground. Not only are thre over 25,000 mine shafts in the area (so mind your step!), a large percentage of the population actually lives in dugouts to shelter from the harsh enviroment: summer temperatures can rise up to over 50ºC, while the winter nights get freezing cold. These weather extremes make Coober Pedy a popular tourist destination. You will have to look very hard to find a place more desolate looking than this. In fact, if you walk around, you may recognise scenery from the post-apocalyptic classic *Mad Max II*, which was filmed here. 
+Coober Pedy is the opal capital of the world, and one of the strangest towns in [Australia](/australiaandpacific/australia). The name is said to derive from the Aboriginal *kupa piti* — "white fellow's hole in the ground" — and it is an accurate description. There are over 25,000 mine shafts dotting the barren landscape around town, and a large part of the population lives underground in dugout homes carved from the rock, escaping summer temperatures that regularly exceed 45°C.
 
-To take a good look at the scenery, you can visit Breakaway Reserve (permits can be obtained from the tourist office or Underground Books), about 35 km north of Coober Pedy. It's a colourful area of mesa hills and rock formations pretty accesible to convenional vehicles despite the mainly unsealed roads.
+The town looks post-apocalyptic, which is why *Mad Max: Beyond Thunderdome* and several other films were shot here. The Breakaways Reserve, about 35 kilometres north, has spectacular mesa formations and painted desert landscapes — accessible by conventional vehicle on unsealed roads.
 
-Inside Cooper Pedy you can learn everything there is to know about opals from several opal-related sights. You can first get orientated in the Umoona Opal Mine & Museum (Hutchison Street), which houses information on opal mining, an actual opal mine, several old and modern dugout homes and Aboriginal displays. Then you can try your luck at the Jeweller's Shop, an opal field in the north-east of town, where you can fossick through the waste dumps for opal yourself. If that doesn't work out, you can buy some from one of the many opal outlets around town. Several other tours of mines, both discarded and working, can be taken.
+In town, the Umoona Opal Mine and Museum on Hutchison Street is the best introduction: it covers the history of opal mining, includes a walk-through mine, and has displays on dugout living and Aboriginal culture. You can try your own luck fossicking through the waste dumps at designated noodling areas. Several working and disused mines offer underground tours. The Serbian Orthodox Church and the Catholic church are both carved entirely underground and worth a visit.
 
-One of the most bizarre features of Cooper Pedy is the abundance of dugout homes. Originally, these used to be worked out mines that were then used as shelters against the climate. These days they are usually cut out especially to serve as residences. You can visit several of these homes. The most eccentric is probably the one a couple of km down Seventeen Mile Road belonging to Crocodile Harry, a Latvian baron who emigrated to Australia and spent 13 hunting crocodiles.
+The dugout homes themselves are a highlight. Some are open to visitors, and a few underground motels let you experience sleeping in one. Coober Pedy is a long drive from anywhere — about 850 kilometres north of [Adelaide](/australiaandpacific/australia/southaustralia/adelaide) on the Stuart Highway — but it is genuinely unlike anywhere else on earth.

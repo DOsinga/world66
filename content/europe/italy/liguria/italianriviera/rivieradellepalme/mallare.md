@@ -1,29 +1,14 @@
 ---
-title: "Mallare"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.291
+longitude: 8.2966
+title: Mallare
 type: location
-latitude: 44.290982
-longitude: 8.296649
 ---
 
-An agricultural center on the upper Bormida, in
- the middle of a valley dominated by Monte
- Alto (956 meters or 3137 feet). A possession of
- the Del Carretto since the twelfth century, it
- was ceded in 1393 to the marchesi di
- Monferrato, who then invested the Del Carretto
- themselves with the fief. The late sixteenth-century
- parish church of San Nicolò was built
- in 1570. The former abbey of Santa Maria, at
- the locality of Fornelli, is much older, dating
- from 1179: it is in a Gothic-Lombard style,
- with a nave and two aisles and tunnel vault, and
- has traces of frescoes. Also of medieval origin
- is the shrine of Nostra Signora della
- Misericordia, at the locality of Eremita, built on
- top of a pagan temple but renovated and
- enlarged in the baroque period. There are also
- the remains of two castles that used to control
- access to the San Giacomo pass for Finale: the
- Castello del Carruggio and the Castello del
- Miele. The traditional local occupation is
- woodworking (chestnut).
+Mallare is a small agricultural village on the upper Bormida river, set in a valley dominated by Monte Alto (956 m). A possession of the Del Carretto family since the 12th century, it was ceded to the Monferrato in 1393, who then re-invested the Del Carretto with the fief.
+
+The parish church of San Nicolò dates from 1570. More interesting is the former abbey of Santa Maria at Fornelli, much older (1179) and built in a Gothic-Lombard style with a nave, two aisles, and tunnel vaulting — traces of frescoes survive inside. The shrine of Nostra Signora della Misericordia at the hamlet of Eremita was built on top of a pagan temple but renovated and enlarged during the baroque period.
+
+Ruins of two medieval castles guard the approaches to the San Giacomo pass toward Finale: the Castello del Carruggio and the Castello del Miele. The traditional local industry is chestnut woodworking.

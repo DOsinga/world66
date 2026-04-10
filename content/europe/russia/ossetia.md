@@ -1,17 +1,16 @@
 ---
-title: "Ossetia"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.992071
 longitude: 44.263635
+title: Ossetia
+type: location
 ---
 
-Ossetia is a part of the Russian Federation. The tiny republic is located in the Caucasus. Visiting Osetia is an unforgettable experience, the awe-inspiring Caucasus peaks being but one gem on the tiara of this ancient land.
+North Ossetia–Alania is a small republic in the Russian Caucasus, wedged between Georgia to the south and the plains of southern Russia to the north. The landscape is dramatic — snow-capped peaks, deep gorges, alpine meadows, and mineral springs that locals have used for centuries.
 
+The Ossetians are descendants of the ancient Alans and take enormous pride in their hospitality. Spending even a short time with a local family is one of the most rewarding experiences the Caucasus can offer — expect long toasts, hearty food, and genuine warmth. The capital, Vladikavkaz, sits at the foot of the mountains and serves as the gateway to some of the most spectacular mountain scenery in Russia.
 
- Despite the overall state of the Russian economy, Osetians remain perhaps the world's most hospitable people. Spending even a short time with an Osetian family offers an unforgettable insight into a close-knit society, one eager to show off to guests its heritage and customs, as well as the region's natural wonders. (For those who prefer not to live with a family, furnished apartments are also available.)
+Beyond the city, the Tsey Valley and the Karmadon Gorge offer serious hiking and skiing, while the medieval Dargavs necropolis — a hillside of stone crypts known as the "City of the Dead" — is one of the most haunting historical sites in the region. The Georgian Military Highway passes nearby, connecting Vladikavkaz to Tbilisi through some of the most breathtaking mountain road scenery anywhere.
 
-
- Snow-capped peaks soar above--you gaze upon them from your cozy baths amid temperate air, some of the cleanest on earth. Legend has it that bathing here quickens healing--you are sure to believe it as you take in the rugged alpine landscape. 
-
-
- In truth, however, travel to Osetia currently is not without risks. If you consider yourself an "adventure" traveller...
+Travel to the region requires some planning, and the security situation has historically been complicated. Check current conditions before visiting, particularly near the border with South Ossetia and Ingushetia.

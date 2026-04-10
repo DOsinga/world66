@@ -1,47 +1,13 @@
 ---
 title: "Pacific Cafe & Internet"
 type: poi
-accessibility: "Easy"
-address: "Lini Highway, (Opposite The Sebel Hotel), Ballande Centre (D Dock), Port Vila"
+latitude: -17.7416
+longitude: 168.3120
+address: "Lini Highway, Ballande Centre (D Dock), Port Vila"
 email: "pacificcafe@vanuatu.com.vu"
 phone: "+678 26240"
-price: "Starting @ 100 vatu ($1) to 990 vatu ($9.90)"
-type: "Cheap"
 ---
 
-**Pacfic Cafe & Internet is REALLY CHEAP!!!**
+A budget-friendly cafe in central Port Vila, opposite The Sebel Hotel. The menu is extensive and nothing costs more than 990 vatu. Takeaway plates start at 350 vatu — generous portions at the same price as eating in.
 
-Take Away is 350 vatu ($3.50) (You can eat there same price and a big plate!)
-
-Normal Menu and Breakfast Menu is unreal! Nothing is over 990 vatu ($9.90)
-
-Examples
-
-Pan Chocolat - Chocolate Croissant 120 vatu ($1.20)
-
-Sausage & Eggs - Sausage (2) and Eggs (2), Kumala Hash Brown, Tomato, Toast and Salad 500 vatu ($5)
-
-Carbonara - Fettuccine with Mushrooms, Onion & Smoked Bacon served in a Cream Sauce 600 vatu ($6)
-
-South Pacific Pizza - Ham, Pineapple, cheese on a tomato/ oregano base 700 vatu ($7)
-
-You can have a beer there or wine and enjoy a snack.
-
-Internet is available and also CHEAP!
-
-**Contributors**
-August 17, 2007
-
-type: Cheap
-
-
-
-accessibility: Easy
-
-tel: +678 26240
-
-address: Lini Highway, (Opposite The Sebel Hotel), Ballande Centre (D Dock), Port Vila
-
-PriceOfMenu: Starting @ 100 vatu ($1) to 990 vatu ($9.90)
-
-email: pacificcafe@vanuatu.com.vu
+The breakfast menu includes pan chocolat (120 vatu) and a full sausage and eggs plate with kumala hash brown (500 vatu). For lunch, options range from carbonara (600 vatu) to the South Pacific Pizza with ham, pineapple, and cheese on a tomato and oregano base (700 vatu). Beer and wine are available, and there is internet access on site.

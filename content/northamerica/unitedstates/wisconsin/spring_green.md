@@ -1,10 +1,12 @@
 ---
-title: "Spring Green"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.176937
 longitude: -90.068048
+title: Spring Green
+type: location
 ---
 
-Travel Guide
+Spring Green is a small town on the Wisconsin River, about 40 miles west of [Madison](/northamerica/unitedstates/wisconsin/madison). It was the home of Frank Lloyd Wright, and his influence is visible everywhere — a local bank, the Catholic church, and of course Taliesin, his home and studio, where tours are available.
 
-Spring Green is a small town located on the Wisconsin River about 40 miles west of the state capitol, Madison. It was the home of Frank Lloyd Wright and his influence in architecture is evident in one of the local banks and the Catholic church. Tours of his studio are available for a charge. House On The Rock (Hwy #23) is a one-of-a-kind tourist attraction where extraordinary displays, automatons and a walk out glass enclosure places you high above a Wisconsin valley. The American Players theater is nearby. It is an open air theater performing several Shakespeare plays every summer season. Spring Green is noted for its annual juried art/craft fair the last weekend in June.
+Just south of town, the House on the Rock is a wonderfully eccentric tourist attraction: a bizarre house built atop a chimney of rock, expanded over decades into a labyrinth of extraordinary collections, automated orchestras and a glass-enclosed walkway jutting out high above the valley. The American Players Theatre, an outdoor amphitheatre in the surrounding woods, stages Shakespeare and other classics every summer. Spring Green also hosts a well-regarded juried arts and crafts fair on the last weekend in June.

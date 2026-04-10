@@ -1,18 +1,18 @@
 ---
-title: "Negombo"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 7.2096
+longitude: 79.8356
+title: Negombo
 type: location
-latitude: 7.209428
-longitude: 79.833117
 ---
 
-This is one of the most touristy places of Sri Lanka.
+Negombo sits on the west coast of Sri Lanka, about 35 kilometres north of Colombo and a short tuk-tuk ride from the international airport. Most visitors pass through on their first or last night in the country — and that's not a bad idea. But the town rewards a longer look.
 
-Although there are some good reasons for that, that also means that the locals here are well-trained in milking the dollars out of you. Be prepared to say 'No, thank you' several times per, well, every moment or two.
+The Dutch left their mark here most visibly: a canal system that once moved cinnamon from the interior to the coast still cuts through the town and extends north toward Puttalam. Taking a boat or cycling along the canal banks is one of the more relaxed ways to see the countryside. The Portuguese came earlier, converting much of the coastal population to Catholicism, and the legacy endures in the two large churches — St. Mary's and the smaller Angurukaramulla Temple — that anchor the older part of town.
 
-But even in a place like this, not all people are like that: in the fishing harbour, people don't ask anything from you. I did feel a certain out-of-placeness there.
+The fishing harbour is the heart of Negombo's working life. Outrigger canoes go out before dawn and return in the morning; the fish market that follows is loud, colourful, and completely indifferent to tourists. Prices are not inflated here. It's one of the few corners of Negombo where you're just a visitor, not a target.
 
-Apart from the fishermen - and women, so I've been told - with their primitive boats, there is off course the sea. The beach is great, though the water can be pretty rough.
+The beach runs along the western edge of town. The sand is pleasant but the current can be strong — swim with caution. The strip of guesthouses and restaurants along Lewis Place caters heavily to backpackers and tends toward the cheerfully chaotic. If you're here to rest between flights, it does the job.
 
-Then there's also the canal system, mainly dug by the Dutch (and before them by the local Singalese). The Portuguese have been here too: there still are quite some catholics and two nice churches in town.
-
-This town can be a good starting point for a tour through the country, although I would only recommend that for experienced travellers. Alternatively, you can come here after a tour for a couple af days rest before taking the airplane (the airport is a mere 200 roepies away by tuk-tuk).
+Be prepared to say no. Tuk-tuk drivers, tour sellers, and gem shop touts are persistent. It's nothing personal — Negombo has been a tourist town long enough that the hustle is well-practiced. A firm but polite no generally works.

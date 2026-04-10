@@ -1,10 +1,12 @@
 ---
-title: "Ubud"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -8.5072
+longitude: 115.2618
+title: Ubud
 type: location
-latitude: -8.507156
-longitude: 115.261785
 ---
 
-Nicely located in the hills, Ubud is becoming increasingly popular with tourists. It's a good alternative for anyone who wants to leave the beach for what it is and look for some culture. Ubud is also known as the cultural centre of Bali. It is famous not only for its local artist but also for the foreign artists who have deceided to reside and let themselves be even more inspired by the pleasant atmosphere in the town and the great views in the surroundings. If you want to see traditional Balinese arts, then you’ve hit the right spot.
+Ubud is Bali's cultural heart, set in the hills above the southern beach resorts and surrounded by terraced rice paddies and river gorges. If you want to get beyond the sunbed-and-cocktail version of Bali, this is where you come. The town is famous for traditional Balinese arts — dance, painting, woodcarving, silverwork — and for the foreign artists who have settled here, drawn by the landscape and the atmosphere.
 
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!.
+The centre is walkable but increasingly busy. The Royal Palace hosts evening dance performances, the Monkey Forest draws crowds to its temple-dotted woodland on the southern edge of town, and four museums display Balinese art from the sixteenth century onward. Beyond the town, the countryside rewards exploration by bicycle or on foot — small craft villages sit between the rice fields, and day trips to the Goa Gajah elephant cave or the spectacular views of the Batur Volcano from Penelokan are easy to arrange.

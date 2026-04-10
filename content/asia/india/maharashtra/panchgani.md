@@ -1,12 +1,12 @@
 ---
-title: "Panchgani"
+title: Panchgani
 type: location
 latitude: 17.923954
 longitude: 73.799268
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Panchgani is situated 20 kms East of Mahabaleshwar and spreads out over five hills. The name actually means 'five lands' and in this very popular hill station, that bears the Raj stamp all over it, you can have some excellent views of the flat surroundings. It is also famous for its boarding schools, its Parsee Bungalows, the fresh air, tasty strawberries and the rich Indians who like to spend some time here. Picturesque Panchgani has served as the background for several films. 
+Panchgani — the name means "five hills" — is a small colonial-era hill station in the Western Ghats of Maharashtra, about 100 km southwest of Pune and 250 km from Mumbai. Set on a plateau at 1,334 m, surrounded by five flat-topped hills and thick forest, it was founded in the 1860s as a summer retreat for British colonials, and the legacy is still visible in the old bungalows, gabled boarding schools and mission churches that line its lanes. Today it is a weekend escape for Mumbai and Pune families, famous above all for its strawberries (April–May is peak season), its jam and syrup factories (Mapro, Mala's) and the fresh cool air.
 
-
- 
- From Mahabaleshwar, it takes only twenty to twenty-five minutes to reach Panchgani. It can also be easily visited from Poona or Bombay.
+The main sight is **Table Land**, the long, completely flat lava plateau on top of the highest of the five hills — the second-largest mountain plateau in Asia, wide enough to hold a small airstrip and often used as a backdrop in Bollywood films. The walk around the rim takes about an hour and the views over the surrounding valleys are the reason to come. Neighbouring **Mahabaleshwar**, 20 minutes' drive up the road, is the bigger and more famous hill station of the two and makes an easy half-day combination.

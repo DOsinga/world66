@@ -1,16 +1,14 @@
 ---
-title: "Serowe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -22.39776
 longitude: 26.703289
+title: Serowe
+type: location
 ---
 
-Serowe is one of Botswana's largest traditional villages and well worth a visit. It is set against rocky hills to the east. The village also boasts several other areas that are rather picturesque and worthy of viewing during morning or late afternoon.
+Serowe is one of Botswana's largest traditional villages, set against rocky hills to the east. It was the royal capital of the Bangwato people and home to three of the country's most important leaders: Khama III, Tshekedi Khama, and Seretse Khama, Botswana's first president.
 
+The village has the Khama III Memorial Museum, which houses the Bessie Head collection of manuscripts — Head, one of Africa's most celebrated writers, lived in Serowe for decades and set much of her work here. The surrounding hills offer picturesque walks, best enjoyed in the morning or late afternoon light.
 
- 
- There is a museum in the village which houses the Bessie Head collection "manuscripts".
-
-
- 
- From this village, travellers can move on to [Central Kalahari Game Reserve](/africa/botswana/kalaharidesert/centralkalaharigamereserve) via [Orapa](/africa/botswana/kalaharidesert/orapa) and continue on to [Maun](/africa/botswana/maun) through the Makgadikgadi Pans. The village provides lodging facilities. The Khama Rhino Sanctuary is within access as well.
+From Serowe, travellers can head west to the [Central Kalahari Game Reserve](/africa/botswana/kalaharidesert/centralkalaharigamereserve) via [Orapa](/africa/botswana/kalaharidesert/orapa), or continue on to [Maun](/africa/botswana/maun) through the Makgadikgadi Pans. The Khama Rhino Sanctuary, one of Botswana's community-run conservation successes, is an easy day trip.

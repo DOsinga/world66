@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-It is a long way to Nouadhibou, wherever you are coming from. Coming from Morocco, you have just had about two tiring days of sand driving, customs and avoiding landmines. Going to [Nouakchott](/africa/mauritania/nouakchott) you have about two more days of sand driving on the beach ahead of you.
+It is a long way to Nouadhibou, wherever you are coming from. From Morocco you will have had two tiring days of sand driving, customs, and navigating around landmines. Heading south to [Nouakchott](/africa/mauritania/nouakchott), the coastal route means another two days of driving along the beach.
 
-There is also a train, which takes you to [Zouerate](/africa/mauritania/zouerate), one look on the map will tell you this is the wrong direction, but from Zouerate the rest of the country is accesibel by road. Taking this route has one other advantage, namely that you can see Chingetti and [Ouadane](/africa/mauritania/ouadane) on your way from Nouadhibou to [Nouakchott](/africa/mauritania/nouakchott). Taking the route via the beach woule mean you have to go back up north to see these ancient caravane city. For more info on the train see the [Zouerate](/africa/mauritania/zouerate) section.
+There is also the iron ore train to [Zouerate](/africa/mauritania/zouerate) — a journey in the wrong direction on the map, but from Zouerate the rest of the country is accessible by road. This route has one significant advantage: it lets you visit the ancient caravan cities of Chinguetti and [Ouadane](/africa/mauritania/ouadane) on your way south to Nouakchott, instead of having to backtrack north. See the [Zouerate](/africa/mauritania/zouerate) page for more on the train.

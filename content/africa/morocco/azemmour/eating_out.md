@@ -3,6 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Restaurant
+Eating options in Azemmour are limited — the town is small and tourism is low-key. Basic cafes in the medina serve tagines and Moroccan staples.
 
-La Perle, a good but expensive restaurant (130 dh/person) serves delicious seafood. It’s a ½ hour walk through a eucalyptus forest outside the town, there is a sign post called "Balneaire du Haouzia" (a small campground).
+**La Perle** is a seafood restaurant about a half-hour walk through a eucalyptus forest outside town, signed from the Balneaire du Haouzia campground. It is good but pricey by local standards (around 130 dh per person) and worth the walk for the seafood.

@@ -1,12 +1,10 @@
 ---
-title: "Orebic"
+title: "Orebić"
 type: location
 latitude: 42.976914
 longitude: 17.183237
 ---
 
-Travel Guide
+Orebić lies on the southwest coast of the Pelješac peninsula, at the foot of St. Ilija hill (961 metres), facing the island of Korčula across a narrow channel. The town gets sunshine all day long and has a mild, almost subtropical feel — centuries-old fir trees and cypresses, olive groves, flower gardens, and long pebble beaches stretching in both directions.
 
-**OREBIĆ **lies on the southwest portion of the Pelješac Peninsula, at the foot of St. Ilija Hill (961 meters), a position exposed to sunshine the entire day. This picturesque town is an irresistable temptation to tourists seeking natural beauty and relaxation, it's many attractions including:centuries-old fir trees, cypresses, olive groves, spacious lawns and flower gardens and sunny pebble or sand beaches which in some places stretch for miles and in others are punctuated by small bays with crystal clear waters.
-
-The beginnings of tourist development in Orebić go
+This was historically a town of sea captains, and the grand stone houses lining the waterfront tell the story. The Maritime Museum documents several centuries of seafaring tradition. Today Orebić is a quiet, pleasant base for exploring Pelješac, with regular ferries to [Korčula](/europe/croatia/korcula) taking just 15 minutes.

@@ -1,14 +1,14 @@
 ---
-title: "Kalbarri"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -27.710999
 longitude: 114.163816
+title: Kalbarri
+type: location
 ---
 
-A tourism hotspot, Kalbarri is located 170 kilometres North of the main Midwest City of [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton) or 570 kilometres North of [Perth](/australiaandpacific/australia/westernaustralia/perth) the capital of Western Australia.
+Kalbarri sits at the mouth of the Murchison River, 570 kilometres north of [Perth](/australiaandpacific/australia/westernaustralia/perth) and about 170 kilometres north of [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton). It is a small town — fishing boats, a pub, a few supermarkets — but the surrounding landscape is extraordinary. The Murchison River has carved a series of dramatic gorges through Kalbarri National Park, and the coastline to the south is a succession of red sandstone cliffs plunging into the Indian Ocean.
 
-The main industrial interests of the area are fishing and farming, with the waters of the Murchison river providing protection for the local fishing fleet when they are not at sea. The townsite of Kalbarri is situated right in the middle of one of the states many National Parks and the region boasts a wide range of natural lanscapes. From the rolling plains or gorges and river valleys of Kalbarri National Park to the cliffs and beaches along the Murchison coast, the area around Kalbarri is as diverse as the Flora and Fauna that the area is also famous for.
+The national park is the main draw. The river gorges — Z Bend, The Loop, Hawks Head — offer walking trails with views that reward the effort. Offshore reefs create consistent surf conditions along the coast, and the sheltered estuary at town is good for kayaking and fishing. Wildflowers blanket the surrounding scrubland from July to October.
 
-The town of Kalbarri itself is a well known tourist spot for holiday makers in Western Australia and a popular destination for the residents of its nearest major City, [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton). There are a number of small convenience stores in Kalbarri and two larger super-markets as well as well stocked petrol/service stations, a pub and a tavern as well as numerous restaurants and resorts.
-
-The waters along the Kalbarri coastline are dotted with gorges, cliffs and gullies with the offshore reefs creating great surfing conditions all year round.
+The town itself is modest but functional, with a strong local fishing industry alongside the tourist trade. The Murchison estuary provides shelter for the local fleet, and fresh fish is easy to find. It is a good base for exploring the national park without the infrastructure — or crowds — of a larger resort town.

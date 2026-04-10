@@ -1,8 +1,14 @@
 ---
-title: "Vung Tau"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 10.3479
+longitude: 107.0745
+title: Vung Tau
 type: location
-latitude: 10.347899
-longitude: 107.074466
 ---
 
-**Vung Tau** is a beach resort on the South China Sea and the closet beach to [Ho Chi Minh City](/asia/vietnam/hochiminhcity). It is also the home of the rapidly expanding petroleum exploration industry in Vietnam but this has not spoiled the beauty of the port town and beaches. Many Saigonese make day trips to the Vung Tau to lie on the beach or swim in the clear water. The port may be reached by fast hovercraft from Saigon or by highway. Closeby to Vung Tau are the deserted beaches of Long Hai.
+Vung Tau is a beach resort city on a small peninsula jutting into the South China Sea, about 120 kilometres southeast of [Ho Chi Minh City](/asia/vietnam/hochiminhcity). It's the closest seaside escape for Saigon residents, and on weekends the beaches fill up with day-trippers. During the week it's quieter and more manageable.
+
+The city sits on oil money — Vietnam's offshore petroleum industry is based here, and you can see supply vessels in the harbour alongside fishing boats. It hasn't ruined the place. The beaches along the western and eastern sides of the peninsula are pleasant enough, and the town has a relaxed resort atmosphere. The nearby deserted beaches at Long Hai, about 30 kilometres south, are worth the detour if you want to get away from the crowds.
+
+Getting there from Ho Chi Minh City is easy: hydrofoils cross the river and then the bay in about an hour, or you can take the highway in 2–3 hours depending on traffic.

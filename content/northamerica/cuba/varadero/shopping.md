@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Varadero"
+title: Shopping
 type: section
 ---
 

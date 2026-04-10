@@ -1,10 +1,14 @@
 ---
 title: "Inhambane"
 type: location
-latitude: -22.779116
-longitude: 34.566174
+latitude: -23.8650
+longitude: 35.3834
+done:
+  location_cleanup: '2026-04-09'
 ---
 
-Inhambane is a photographers dream; it possesses a unique charm that can only come from a rusty old town with delapidated buildings and neglected maintenance. It is worth exploring the fascinating mix of African, old-world Portugese and muslim cultures. 
+Inhambane is a photographer's dream: a crumbling old port town where dilapidated colonial buildings, rusting tin roofs, and overgrown courtyards give every street corner a faded grandeur. One of the oldest settlements on the East African coast, it has been a trading post for over a thousand years, and the mix of African, Portuguese, and Muslim cultures still shapes daily life.
 
-It is also very close to Tofo Beach, one of the most popular destinations for South Africans on holiday.
+The town itself is small and walkable. The waterfront market, the old cathedral, and the dhow harbour are the main landmarks, but the real pleasure is just wandering — down side streets lined with cashew and mango trees, past mosques and colonial-era verandas. Inhambane is unhurried in a way that larger Mozambican cities no longer are.
+
+Most visitors use Inhambane as the gateway to [Tofo Beach](/africa/mozambique/tofo), one of the most popular coastal destinations in southern Africa, just 20 kilometres east. Tofo draws divers, surfers, and South African holidaymakers, but Inhambane itself is worth more than a quick pass-through.

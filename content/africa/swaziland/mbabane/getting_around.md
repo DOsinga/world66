@@ -1,20 +1,12 @@
 ---
-title: "Getting Around in Mbabane"
+title: "Getting Around"
 type: section
 ---
 
-If you're visiting Swaziland, you're likely to be making a stop in the capital city of **Mbabane**;** transportation** is difficult to come by in this city, and it is something that you should carefully consider when planning to visit this area. In addition to having a difficult time finding suitable transportation, many of the options that travelers take are not entirely safe.
+Mbabane is a small city and the centre is walkable, but getting to attractions outside town takes some planning. There is no public bus network or metered taxi service within the city itself.
 
-**Cars**
+**Minibus taxis** are the main form of public transport. They run fixed routes between Mbabane and other towns — particularly [Manzini](/africa/swaziland/manzini) — and depart when full from the bus rank on Mhlakuvane Street. They are cheap but can be crowded.
 
-While taxis are practically nonexistent in Swaziland, there are some cars. These are typically driven by locals, many of whom will be very willing to provide you with a ride if you're interested. As with any situation of this type, however, there are risks involved. Be careful who you ride with and ensure that you have a reasonable sense of where you're going before you get in the vehicle. It's advised to avoid this mode of transportation.
+**Car hire** is the most practical option if you want to explore the surrounding reserves and countryside at your own pace. Roads around Mbabane are generally in reasonable condition, though some routes to the nature reserves are unpaved. Drive on the left.
 
-**Bikes**
-
-Bicycles are another common method of transportation in Mbabane. This is typically the best option for tourists, as it gives you both the opportunity to see unique parts of Mbabane and it is the cheapest, most readily available, and safest of all of the options at your disposal.
-
-**Motorbikes**
-
-Some motorbikes are also available, but these are difficult to come by for tourists. Avoid riding on a random person's bike if you can help it, as drivers rarely have proper headgear and other protective equipment.
-
-Ask a representative at your hotel for more advice on getting around Mbabane in particular, and Swaziland in general. Tour buses are the best way to get to neighboring cities.
+**Walking** works well for the town centre — the main commercial area along Allister Miller Street and the Swazi Plaza mall are all within a short stroll. For anything further afield, ask at your accommodation about transport options or arrange a driver for the day.

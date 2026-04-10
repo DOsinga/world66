@@ -1,14 +1,14 @@
 ---
-title: "Goreme"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 38.642089
 longitude: 34.829623
+title: Göreme
+type: location
 ---
 
-Goreme is the centre of [Cappadocia](/asia/turkey/cappadocia) and one of the best starting points for seeing the fairy chimneys in the area. The famous fairy chimneys are strange rock formations made of soft volcanic stone. They are of naturla origin but humans have added a special touch to their beauty. For centuries and centuries people have lived and worked in these chimneys and today you can see their churches with their painted walls, their houses and even carpet shops.
+Göreme is the centre of [Cappadocia](/asia/turkey/cappadocia) and the best base for exploring the region's famous fairy chimneys — strange rock formations of soft volcanic tuff that have been carved into churches, houses, and even carpet shops over many centuries.
 
+The Göreme Open-Air Museum, about 2 km from the centre, is a UNESCO World Heritage Site and the single must-see attraction. It preserves a monastic community of rock-cut churches, many with remarkable Byzantine frescoes. The Karanlık Kilise (Dark Church), recently restored, has the finest frescoes but requires a separate admission fee. The Tokalı Kilise (Buckle Church) near the entrance is equally impressive and included in the main ticket.
 
- Goreme has decent accommodation, restaurants and many, many tour organizations that take you past the most important sights in a mini-bus. They are well organized and if you don't mind stopping in a pottery and or carpet shop, they are quite a convenient way to do the sights.
-
-
- The sights not to miss include the Goreme Museum, The Ihlara Valley and [Zelve](/asia/turkey/cappadocia/zelve). Allow some time to see the underground city of [Derinkuyu](/asia/turkey/cappadocia/derinkuyu) as well.
+Beyond the museum, the surrounding valleys — Rose Valley, Red Valley, Pigeon Valley — are riddled with fairy chimneys and rock-cut dwellings that you can explore on foot. Many tour operators in town run minibus excursions covering the main sights including the Ihlara Valley, [Zelve](/asia/turkey/cappadocia/zelve), and the underground city of [Derinkuyu](/asia/turkey/cappadocia/derinkuyu). They are convenient if you do not mind stopping at a pottery or carpet shop along the way.

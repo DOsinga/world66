@@ -1,24 +1,14 @@
 ---
-title: "Streymoy"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 62.1237
+longitude: -7.0159
+title: Streymoy
 type: location
-latitude: 62.123719
-longitude: -7.015883
 ---
 
-Travel Guide
+Streymoy is the largest of the Faroe Islands and the one most people use as a base. [Torshavn](/europe/faroeislands/torshavn), the island group's small, spirited capital, sits on its southeastern tip. From there, good roads fan out across dramatic terrain — sea cliffs, narrow fjords, waterfall-streaked hillsides, and villages that look like they've barely changed in centuries.
 
-Streymoy is the largest of the Færoe Islands and includes the capital,
-Torshavn. [q.v.]
+The island rewards a day or two of driving. [Kirkjubour](/europe/faroeislands/streymoy/kirkjubour) to the south is the old episcopal centre of the Faroes, with a roofless medieval cathedral and a church that has stood since the 12th century. Up in the north, [Saksun](/europe/faroeislands/streymoy/saksun) is one of the most quietly beautiful villages in the islands — a handful of grass-roofed houses around a tidal lagoon, with the open Atlantic just beyond. On the west coast, [Vestmanna](/europe/faroeislands/streymoy/vestmanna) is the departure point for boat trips into towering bird cliffs, sea caves, and natural arches that make for an unforgettable few hours on the water.
 
-There are numerous places of interest and/or beauty.
-Kirkjubour is a most interesting place with a ruin of a cathedral, St
-Magnus, that was never finished and a church, St Olaf's, that goes back
-to the 12th century - though not the present building.
-
-At the north of
-the island there are roads to Tjornuvik, a delectable village with
-fabulous views of sea stacks off the north of the neighbouring island
-of Eysturoy and to Saksun, with a good museum and a lagoon formed by
-the sea.
-
-To the west, Kvivic is an idyllic village with a heart breaking memorial in the churchyard to the crew of a wrecked boat. Further along the road Vestmanna is the base for wonderful boat trips to see stacks, arches, caves and a terrific variety of seabirds.
+The landscape is typical Faroese: green and treeless, swept by Atlantic winds, with mountains that drop steeply into narrow sounds. Light changes constantly. Even on a grey day, the colours — deep water, bright grass, black rock — are striking.

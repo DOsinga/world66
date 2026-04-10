@@ -1,8 +1,10 @@
 ---
-title: "Rincón del Mar"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 9.766779
 longitude: -75.641092
+title: Rincón del Mar
+type: location
 ---
 
 Rincón del Mar is a small Caribbean beach village in the municipality of San Onofre, Sucre, about two hours by road from Cartagena. It sits on the Gulf of Morrosquillo, a calm stretch of the Caribbean sheltered from the open sea.

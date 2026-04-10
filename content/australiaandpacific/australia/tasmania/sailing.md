@@ -1,8 +1,6 @@
 ---
-title: "Sailing"
-type: location
-latitude: -34.005354
-longitude: 151.130669
+title: Sailing
+type: section
 ---
 
 Although the author himself is not a sailor, it can be categorically stated that Tasmania earns a space on the world map in this regard. Not just as the finishing point for the Sydney-to-Hobart yacht race (one of the three blue-water classics throughout the world), Tasmania is often a stopover for sailors competing in the big global yacht races, on account of it's position almost directly due East of the Southern tip of Africa. Besides these big ticket events, there are several other significant yacht races to, from and around Tasmania (the Melbourne-to-Hobart run in consert with the larger Sydney-to-Hobart race, a race that passes round the Southern Capes and up the West coast, and the Three Peaks race combining sailing and the ascent of three large coastal peaks around the state).

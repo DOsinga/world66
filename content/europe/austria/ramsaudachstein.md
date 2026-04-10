@@ -1,8 +1,10 @@
 ---
-title: "Ramsau / Dachstein"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 47.443109
 longitude: 13.619276
+title: Ramsau / Dachstein
+type: location
 ---
 
 We currently have no information about Ramsau / Dachstein.

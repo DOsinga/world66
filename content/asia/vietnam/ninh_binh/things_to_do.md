@@ -3,18 +3,14 @@ title: "Things to do in Ninh Binh"
 type: section
 ---
 
-**Tourism Information
-**In Ninh Binh, Hoa Lu Ancient Capital (in Truong Yen Commune, Hoa Lu District now) was chosen as the first capital of Vietnam feudal centralism regime and the Dai Co Viet ’s political, economic and cultural centre with the name of Kings Dinh Tien Hoang, Le Dai Hanh and Ly Thai To in 10th century. In 1010, King Ly Thai To moved the capital from Hoa Lu to Thang Long (Hanoi now), opening a new era for Vietnamese people.
+**Trang An** is the standout experience — a UNESCO-listed boat circuit through karst caves and flooded valleys that takes around three hours. It's bigger and wilder than Tam Coc, with fewer souvenir sellers. Boats hold four people and are rowed by local women, often with their feet.
 
-Ninh Binh owns beautiful Tam Coc, Bich Dong, Dich Long, Hoa Son, Tien caves, Van Trinh Grotto and other special landscapes following:
+**Tam Coc** is the classic postcard image: a slow row through three river caves with limestone peaks rising from the rice paddies. It's beautiful but crowded. Arrive before 8am or after 4pm to avoid the worst of it.
 
-Cuc Phuong National Park is home of varies of strange flora and fauna. Especially it is enjoyable to touch the thousand-year-old cho xanh (parashrea stellata) and sau (Dracontomelum Duperranum or Dancorra Edulis) trees, 50-70m high. The park is also suitable to watch birds, butterflies and orchid flowers.
-Phat Diem Cathedral is a solemn and interesting architectural complex, reflecting the skilful and excellent stone carving art of the Vietnamese workers.
+**Bich Dong pagoda** sits partway up a limestone cliff near Tam Coc. The walk up through the cave shrines and up to the upper pagoda takes about 30 minutes and rewards with views over the surrounding plain.
 
-Ninh Binh’s people have created such famous and traditional products as Kim Son ’s fine arts, Hoa Lu ’s high-class embroidery, hanger products and rocky sculpture products for export, Gia Vien ’s rattan and bamboo knitting products, etc…
+**Mua Cave** (Hang Mua) involves climbing 500 steps to a peak with panoramic views across the Tam Coc valley — the most photographed viewpoint in the province. It's physically demanding and tourist-heavy, but the views justify it.
 
-**More Vietnam Tours at : ****http://www.hanoipeacetour.vn**
+**Cuc Phuong National Park** is Vietnam's oldest national park, an hour northwest of the city. The primate rescue and conservation centre is the main draw — home to dozens of lorises, langurs, and gibbons — but the old-growth forest itself, with trees over 1,000 years old, is worth the trip independently.
 
-Tam Coc caves - Ancient Capital Hoa Lu - Ban Long pagoda **Code: NB P01**
-
-**9:00 ****AM **Depart from your Hotel in NinhBinh. Take a rowing boat a long the tiny canal throughout the rice fields to visit Tam Coc Three caves (4 hours). Lunch at a Restaurant in Tam Coc. Continue to visit Dinh King and Le King temples Hoa Lu old citadel and Ban Long pagoda in the quite countryside. 5:00 P.M:
+**Hoa Lu Ancient Capital** is the 10th-century fortified capital of the Dinh and Le dynasties. The remaining temples are modest but evocative, set in a tight valley enclosed by cliffs. Combine it with Trang An since they're adjacent.

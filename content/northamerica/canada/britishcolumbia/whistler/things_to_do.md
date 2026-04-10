@@ -1,5 +1,7 @@
 ---
-title: "Things to do in Whistler"
+done:
+  location_cleanup: '2026-04-07'
+title: Things to do in Whistler
 type: section
 ---
 

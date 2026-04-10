@@ -1,12 +1,14 @@
 ---
-title: "Tsavo East"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -2.842033
 longitude: 38.818984
+title: Tsavo East
+type: location
 ---
 
-The vast northern two-thirds of Tsavo East is closed to the public. The Kenyan Government is actively trying to eliminate poaching in the region. There's still much to see south of the Galana River, however, such as the **Kanderi Swamp** and the **Aruba Dam.**
+Tsavo East is the open, elemental half of Kenya's largest national park — flat red plains stretching in every direction, enormous herds of elephant, and skies that seem twice as wide as anywhere else in Africa. Where [Tsavo West](/africa/kenya/nationalparksandreserves/tsavonp/tsavowest) has drama and topography, the East has scale and silence.
 
+Much of the northern section remains closed to the public — access is restricted to the area south of the **Galana River**, which still covers an enormous amount of territory. The **Kanderi Swamp** is a reliable draw for large elephant herds and buffalo, particularly in the dry season when surface water elsewhere disappears. The **Aruba Dam**, a short drive from the Voi gate, is one of the best wildlife-watching spots in the park: hippos, crocodiles, and waterbirds are almost always present, and lions are frequent visitors at dusk.
 
- 
- There are campsites near most gates to Tsavo East, as well as one right by the Kanderi Swamp. The *Voi Safari Lodge* (# (02) 336858), just east of Voi has singles/doubles with full board for US$ 150/200 in the high season and US$ 60/120 in the low season. The very beautiful *Tsavo Safari Camp* (# (02) 338888) is located further north on the banks of the Athi River. Singles/Doubles with full board cost US$ 50/100 in the low season and US$ 152/190 in the high season.
+The elephants here are famous for their distinctive red colour — they roll in the iron-rich laterite soil and the dust stains them rust. Tsavo East holds one of the largest elephant populations in Kenya, and you can see herds of a hundred or more moving across the plains with no other vehicle in sight. This is not the Mara; crowds are rare and the sense of wilderness is real.

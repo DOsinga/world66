@@ -1,14 +1,6 @@
 ---
 title: "Beaches"
 type: section
-address: "55 Larrabee"
-email: "tasha@.com"
-phone: "282-3554"
-url: "69556"
 ---
 
-La Guancha the city’s waterfront boardwalk and public beach development is also worth a visit. Stroll the boardwalk grab a bite to eat at one of the outdoor cafes then head over to the beach next door for a dip in the Caribbean.
-
-### tasha valentin
-
-Show us baches in ponce.
+Ponce is not primarily a beach destination, but La Guancha boardwalk and its adjacent public beach offer a pleasant spot to cool off after a day of sightseeing. The boardwalk has food kiosks, live music on weekends, and views across to the offshore islands. For something more secluded, take the boat trip to Caja de Muertos — an uninhabited island nature reserve with pristine beaches and excellent snorkelling.

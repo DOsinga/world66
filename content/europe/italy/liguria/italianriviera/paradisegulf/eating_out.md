@@ -3,10 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-The oven cooked flat cheese garnished "focaccia" bread of Recco is a marriage of ancient and simple flavours, the intense and fresh fragrance of soft "stracchino" cheese spread overa thin layer of bread.
-
-
-
-
-
-Then the "trofie" which, in their elongate and somewhat knaggy shape, carry the patient marks of the housewives who have formed these little noodles, one by one, with an expert and skilful touch; a rite of former times, crowned by the encounter of pasta and pesto, the savoury sauce of Liguria. Gastronomy and good healt go arm in the paradise of Mediterranean diet and the extra virgin olive oil dignifies a light and digestible menu.
+The Paradise Gulf is focaccia country. Recco's focaccia col formaggio -- two paper-thin layers of dough with molten stracchino cheese between them -- is the signature dish of the entire coast, and bakeries in every town along the gulf have their own version. Trofie al pesto is the other essential: short, hand-rolled pasta twists dressed with the basil pesto that Liguria does better than anywhere else, often served with potatoes and green beans. The coast's extra-virgin olive oil ties everything together, and the local white wines from the hills above are the right match.

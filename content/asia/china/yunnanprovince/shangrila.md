@@ -1,26 +1,14 @@
 ---
-title: "Shangri-La"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 27.871702
 longitude: 99.83655
+title: Shangri-La
+type: location
 ---
 
-Shangri-La (Pinyin: Xianggelila), previously known as Zhongdian, is a
-small, primarily Tibetan town located 5 hours drive north of [Lijiang](/asia/china/yunnanprovince/lijiang).
-The Chinese part of town is typical for the area, but a recent bout of
-development in the old city center is creating an interesting old town
-to explore.
+Shangri-La (香格里拉, formerly Zhongdian) is a small Tibetan town at 3,200 metres in northwestern Yunnan, about five hours north of [Lijiang](/asia/china/yunnanprovince/lijiang). The name was officially changed in 2001 to capitalise on the James Hilton connection, but the town's Tibetan character is genuine — prayer flags, yak butter tea, and monasteries set against a backdrop of snow-capped mountains.
 
-Highlights within a day's trip from town include:
+The old town was largely rebuilt after a devastating fire in 2014, but the reconstruction preserves the Tibetan wooden architecture and the lanes are pleasant to wander. The enormous prayer wheel at the hilltop temple is a local landmark.
 
-* Song Lan Lin Monestary, reportedly the biggest Tibetan monestary complex in the province
-
-* Bai Shui Tai, a picturesque limestone formation
-
-* Tiger Leaping Gorge, a sheer gorge which has a well marked trail and good tourist infrastructure
-
-* Bita Hai, a lake featuring a small island in its middle, a popular destination
-
-* Da Bao Si, a small but famous monestary approximately 15 km out of town
-
-* Lijiang, the province's mecca for chinese tour groups
+Highlights within day-trip range include **Songzanlin Monastery**, the largest Tibetan Buddhist monastery in Yunnan, often called the "Little Potala Palace"; **Tiger Leaping Gorge**, one of the deepest gorges in the world with an excellent two-day hiking trail; **Baishuitai**, terraced white limestone formations sacred to the Naxi people; and **Pudacuo National Park** (formerly Bita Hai), a high-altitude lake and forest reserve. The town is also the last staging post before heading further into the Tibetan plateau toward Deqin and the Meili Snow Mountains.

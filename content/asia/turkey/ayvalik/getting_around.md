@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Ayvalik"
+title: "Getting Around"
 type: section
 ---
 

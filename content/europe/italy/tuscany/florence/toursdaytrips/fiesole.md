@@ -1,20 +1,10 @@
 ---
 title: "Fiesole"
-type: location
-address: "Florence Tourism Board: Via A. Manzoni, 16"
-phone: "+39 055 23320"
-url: "www.firenzeturismo.it"
+type: poi
+latitude: 43.8063
+longitude: 11.2943
 ---
 
-Even the short 25-minute bus ride to this popular retreat for Florentines is filled with lovely sights and historic landmarks. Hop on Bus number 7, leaving from Piazza San Marco and you will be on your way to traveling past fountains, gardens, and statues throughout the hills surrounding the city. While Fiesole is considered a suburb of Florence, once here, you will feel like you’re more than just a few miles away from the bustle of the city. Highlights include Bandini Museum, the Roman Theater and Civic Museum, Cattedrale di San Romolo cathedral, and the Museum of the Franciscan Missionaries. All Fiesole sights are located within walking distance of the main square – Piazza Mino da Fiesole.
+A popular retreat for Florentines, Fiesole sits in the hills just 25 minutes by bus from Piazza San Marco (Bus 7). The ride itself is rewarding — past fountains, gardens, and statues along winding roads through the hills above [Florence](/europe/italy/tuscany/florence).
 
-**Contributors**
-May 23, 2008
-
-
-
-tel: +39 055 23320
-
-url: [www.firenzeturismo.it](http://www.firenzeturismo.it)
-
-address: Florence Tourism Board: Via A. Manzoni, 16
+Once here, you will feel more than a few miles from the bustle of the city. All the main sights are within walking distance of the central Piazza Mino da Fiesole: a Roman theatre and archaeological area, the Bandini Museum, the Cattedrale di San Romolo, and the Museum of the Franciscan Missionaries. The views over Florence and the Arno valley from the hilltop are superb.

@@ -3,18 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-**By train:**
+Sanremo has its own station on the Genova–Ventimiglia railway line, with regular regional trains along the coast. By car, take the A10 motorway (exit Sanremo) or the old Via Aurelia coastal road.
 
- "Ferrovie dello Stato" / Genova-Ventimiglia railway, Sanremo station.
-
-  **By car:**
-
- "A10" motorway (Genova-Ventimiglia): exit Sanremo; S.S. 1 (Aurelia)
-
-  **By Air:**
-
- *Genoa (GOA)* (Cristoforo Colombo Sestri) (Web site: http://www.airport.genova.it) 6km (4 miles) west of the city (travel time – 20 minutes) has duty-free facilities. Buses are available to the city.
-
- Sanremo-Genoa 200 Km 
-
- *Nizza*: (Sanremo-Nizza travel time: 1 hour)
+The nearest airports are Nice Côte d'Azur (about an hour's drive west along the coast) and Genoa Cristoforo Colombo (about two hours east). Nice is the more practical option for most visitors.

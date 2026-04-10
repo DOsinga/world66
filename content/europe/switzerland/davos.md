@@ -1,36 +1,18 @@
 ---
-title: "Davos"
+title: Davos
 type: location
 latitude: 46.796198
 longitude: 9.823689
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Davos is a busy resort in a beautiful alpine playground. The town extends for several kilometers along the broad Landwasser River Valley, between two giant mountain ranges. The area is part of the southeastern canton of Graubünden, "the holiday corner of Switzerland" and home to some of the best developed winter sports centers in the world: Arosa, [Klosters](/europe/switzerland/klosters), Flims, [St. Moritz](/europe/switzerland/stmoritz) and Pontrèsina. Apart from these tourist centers, the canton is relatively unspoiled, boasting beautiful alpine lakes and exquisite mountain settings.
+Davos sits at 1,560 metres in the broad Landwasser Valley, stretching for several kilometres between two towering mountain ranges in the canton of Graubünden. It is one of the highest towns in Europe, and one of Switzerland’s most famous ski resorts. But Davos is not just a winter destination. In summer the valley turns green and the hiking is superb.
 
+The town has an unusual history. In the mid-19th century its clean, dry mountain air made it a centre for tuberculosis treatment, and sanitariums sprang up along the valley. Thomas Mann set *The Magic Mountain* here. Many of those old sanitariums are now hotels. Today, Davos is perhaps equally known as the home of the World Economic Forum, which fills the town with security cordons and black SUVs every January.
 
- 
- Davos was once hugely popular with Brits, but has fallen out of favor and is now dominated by Germans. Few resorts in the world have more extensive slopes, or offer more for all standards. But the area has its drawbacks: it is split into several unlinked sectors, and relatively ancient and queue-prone lifts access many of them. Those prepared to accept such drawbacks normally do so as the price of staying in a captivating Alpine village.
+The skiing is extensive. Seven distinct areas spread along both sides of the valley: Parsenn, Jakobshorn, Pischa, Rinerhorn, Madrisa, Schatzalp/Strela, and Gotschna. You could ski a different area every day of the week. Parsenn is the largest and best-known, with long cruising runs and excellent off-piste terrain. Jakobshorn is the snowboarder’s mountain. The drawback is that not all areas are linked by lifts, so you rely on buses and trains to move between them.
 
+The town itself is honest rather than charming. Davos is more small city than alpine village, with two main roads carrying steady traffic and architecture that is functional rather than picturesque. If you want a postcard Swiss village, neighbouring [Klosters](/europe/switzerland/klosters) is the prettier option. But what Davos lacks in cosiness it makes up for in scale, facilities, and a lively apres-ski scene.
 
- 
- During the mid-19th century, the area became known for its health benefits. The clean, dry air and high altitudes provided the perfect environment to recover from tuberculosis and other lung ailments so prevalent at this time. Many of the old sanitariums have been converted to present-day hotels. The medical importance has continued, as several highly specialized practices still provide therapies and research for allergies, respiratory illnesses, and dermatological problems. It is also a world renowned medical conference center, and many top-tier international meetings are held at the convention center.
-
-
- 
- In 1877 a natural ice rink was built, which became the first step towards the development of a world-class winter sports destination. Flanked on both sides by stunning mountain views, this setting provided a natural attraction. The high Landwasser Valley is wind protected by forested mountain slopes. It was, and remains, a perfect environment to enjoy nature at its finest throughout the year.
-
-
- 
- Skiing and boarding in Davos is excellent. Seven distinct ski areas have been developed in the immediate area, so snow sports enthusiasts can spend a week and ski a different resort every day. From west to east along the northern face are the resorts of Schatzalp/Strela, Parsenn, Gotschna, and Madrisa. On the opposite side of the valley, you can ski or board at Pischa, Jakobshorn, or the Rinerhorn. The Parsenn is the largest and most familiar of the group. A wide selection of terrain offers satisfying skiing for all ability levels. The area is renowned for its off-piste skiing and long cruisers.
-
-
- 
- Although the mountain setting is spectacular, much of Davos’ architecture is undistinguished. The area has the hustle and bustle of a busy town, with only two major roads to handle the flow of traffic. The ski areas are widely spread along the mountain faces and are easily accessible from town, but only some are connected by lifts. Although improvements are being made each year, much of the lift system is still antiquated, and during peak times skiers may experience long lines. The transit system between ski areas, however, is excellent.
-
-
- 
- Après-ski options are abundant. The dining is exceptional, the nightlife can hop, and cultural activities regularly poke through the snow.
-
-
- 
- All Davos content and information is provided through a partnership with SkiEurope
+In summer, the same mountains offer hundreds of kilometres of hiking and mountain biking trails. The Davos Klosters region is one of the best areas in the Alps for cross-country running and trail running. The lake at Davosersee is popular for swimming, and the surrounding peaks are accessible by cable car for high-altitude walks.

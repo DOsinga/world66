@@ -1,8 +1,12 @@
 ---
-title: "Tsilivi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.812344
 longitude: 20.871852
+title: Tsilivi
+type: location
 ---
 
-Tsilivi is a family resort containing many tavernas and restaurants. It is situated approx 10 minutes from Zakintho town. Whilst becoming more of a holiday resort every year, there are still many traditional greek tavernas offering only the best service. Places to stay are in abundance and are easy to find, either through a simple search on the internet; visiting www.tsilivi.com or by a short trip to your nearest travel agent. Boasting a large beach with local marina, many pools which you can access, and many supermarkets, bars and tavernas tsilivi is the place for familys who want to experience a bit of traditional greece
+Tsilivi is a popular family resort on the northeast coast of Zakynthos, about ten minutes from Zakynthos Town. Despite growing as a holiday destination, it retains plenty of traditional Greek tavernas alongside the newer bars and restaurants.
+
+The resort has a large sandy beach with a local marina, and accommodation is easy to find. With supermarkets, pools, and a relaxed atmosphere, Tsilivi suits families who want a taste of traditional Greece without straying too far from the comforts of a well-established resort.

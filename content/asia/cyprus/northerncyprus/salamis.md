@@ -1,16 +1,18 @@
 ---
-title: "Salamis"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 35.179303
 longitude: 33.902493
+title: Salamis
+type: location
 ---
 
-**Salamis**, four miles north of Famagusta is one of the most important and magnificent archaeological sites on the island. The mythological father of Salamis is Tefkros, an hero of the Troian War, banned by his father, King of Salamis, who blamed him for the suicide of his brother Ajax. Tefkros landed, at what used to be known as the Akalar Beach, with a handful of faithful followers. As soon as he settled down, he built a temple to Zeus (Yuppiter), whose ruins can be seen today in the southern section of the market. Tefkros gave this new town the name of his childhood home, Salamis.
+Salamis is one of the most important archaeological sites on Cyprus, spread across a large area of sandy ground and scrubby forest about 6 kilometres north of Famagusta in Northern Cyprus. According to tradition, the city was founded by Teucer (Tefkros), a hero of the Trojan War, who named it after his home island of Salamis near Athens.
 
+The site was a major city for over a thousand years — first as a Greek city-state, then as the Roman capital of Cyprus. An earthquake in the 4th century AD destroyed much of it, and the rebuilt city (renamed Constantia) was eventually abandoned after Arab raids in the 7th century.
 
- 
- The town had an inner and an outer wall. Fragment of the inner wall can be seen at the entrance to the site. An earthquake in the 4th century destroyed most of the buildings. The ruins of the Roman Amphitheatre were later used to build the Turkish Baths. The Amphitheatre, with its spacious stage, can still be clearly identified. Along the stage you can see the trench used to collect blood from the victims consecrated to Dyonisus before each ritual. Only the first eight of the fifty rows of seats balong to the otiginal Roman structure; the rest are later additions.
+What remains is extensive and atmospheric. The **gymnasium and baths complex** is the most impressive surviving structure — a large palaestra surrounded by re-erected marble columns, with adjacent Roman baths featuring underfloor heating and mosaic fragments. The **amphitheatre** is partially restored and gives a good sense of scale, with about 50 rows of seats. The original lower eight rows are Roman; the rest are later reconstructions. Nearby, the remains of a temple to Zeus and a large market area are visible.
 
+The **Monastery of St. Barnabas**, a short drive south, houses a small archaeological museum with finds from Salamis and the nearby Bronze Age settlement of Enkomi (ancient Alasia), one of Cyprus's oldest known towns.
 
- 
- The site of **Alasia**, one of Cyprus' most ancient settlements, is in the vicinity of Salamis, southeast of St. Barnabas. Alasia was an affluent settlement during the Bronze Age. Its name is mentioned in several egyptian papyri. Archaeologists found gold and ivory ornaments, amphoras and Mycaenean earthenware in several tombs.
+The site is open and largely unshaded — bring water and sun protection, especially in summer.

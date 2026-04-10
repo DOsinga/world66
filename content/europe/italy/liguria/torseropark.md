@@ -1,8 +1,12 @@
 ---
-title: "Torsero park"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.086969
 longitude: 8.216493
+title: Torsero Park
+type: location
 ---
 
-The Torsero Park, Natural Regional Reserve is quite small but notwhistanding very nice and full of suggestions. It is not generally known by the normal visitors but it is very famous around Europe among all fossiles experts. The Torsero River Park is about 1.5 km from Ceriale and is 70 m above sea level. The Park is about 1 Sq Km large and it takes the name from the river which has exacavated the nearby rock strata, and creating so some vertical walls of about 200 feet high. The presence of marine deposits with shells (of the Terabratula genre) can go
+The Torsero Park is a small natural reserve about 1.5 km inland from Ceriale on the Ligurian coast. It covers roughly one square kilometre along the Torsero River, which has carved through the rock strata to create vertical walls up to 60 metres high.
+
+The park is not well known to casual visitors, but it is famous among palaeontologists for its marine fossil deposits — shells of the Terebratula genus and other Pliocene-era specimens are visible in the exposed rock faces. If you have any interest in geology, it is a fascinating short visit.

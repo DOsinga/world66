@@ -1,28 +1,14 @@
 ---
-title: "Ventura County"
+title: Ventura County
 type: location
-latitude: 34.445825
-longitude: -119.077936
+latitude: 34.3705
+longitude: -119.1391
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+Ventura County sits between Los Angeles and Santa Barbara, and that is precisely why most people drive straight through it. There is no Disneyland, no Sea World, no professional sports team. What there is: sixty miles of coastline, the Channel Islands just offshore, mountains rising behind quiet agricultural valleys, and towns that still feel like themselves rather than extensions of the LA sprawl.
 
-Situated between Los Angeles and Santa Barbara, Ventura County often
-gets overlooked as a vacation/travel destination. It doesn't have
-a Disneyland, Sea World or Magic Mountain, nor does it have a
-professional sports team, and there are no "Big Name" spas or other
-recreation centers. Of course, all of the above and more are
-within driving distance. What Ventura County lacks in big,
-glittery entertainment venues, it more than makes up for in charm,
-outdoor recreation, art, cultural and historical sites, and
-(most-importantly for the cost-conscious traveler)
-comparatively-inexpensive lodging, dining and shopping. Add
-mountains, the Pacific Ocean and the Channel Islands to the list, and
-you
-have a top-notch place for a day-trip, a weekend or a full-blown
-vacation
-that'll make you wonder how you could have missed it before, and
-have you looking forward to your next visit. Oh, and let's not
-forget
-businesses; there are lots of facilities for conferences and small
-conventions.
+The county rewards travelers who value charm over spectacle. [Ojai](/northamerica/unitedstates/california/ventura_county_ca/getting_there) is a small arts town tucked into a valley famous for its golden sunsets and classical music festival. The city of Ventura has a restored mission, a walkable downtown, and easy access to Channel Islands National Park. Oxnard's strawberry fields stretch to the coast, where uncrowded beaches face the open Pacific.
+
+For the cost-conscious traveler, Ventura County is a real find. Lodging, dining, and shopping all come at a fraction of what you would pay in LA or Santa Barbara, and everything those cities offer is within an easy drive.

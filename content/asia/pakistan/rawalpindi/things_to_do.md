@@ -1,23 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Other"
-latitude: 24.934706
-longitude: 67.077162
 ---
 
-There are various things you can do in Rawalpindi. A few of them are:
-
-1) Plan a trip to Raja Bazar, Bara Bazar and Murree Road. Although the traffic gets horrible at times, but you will find such amazing stuff at amazing prices that you'll forget the pain.
-
-2) Go to Ayub Park, have a pleasant walk around, it will give you hours of walk in green meadows without having to worry about anything else. If you take the family along, you can eat snacks and even take you own for added fun !
-
-3) If you have more time on your hands, go to Murree. Murree is one of the hottest attractions (attraction wise, temparture wise its very cold) where you can spend even weeks if you like to, every day is a new day.
-
-### [sammy](/asia/pakistan/rawalpindi/things_to_do/sammy)
-
-go to bayval and kullar
-
-realli gud bazaars
-
-type: Other
+The bazaars are the main attraction. Raja Bazaar, Saddar Bazaar, Moti Bazaar, and Kashmiri Bazaar offer exciting shopping — handicrafts, Kashmiri shawls, inlaid furniture, hand-woven carpets, and traditional footwear. Sarafa Bazaar specialises in beaten gold and silver jewellery. For green space, Ayub Park is a pleasant escape from the city's bustle.

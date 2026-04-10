@@ -1,14 +1,16 @@
 ---
-title: "Aden"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 12.789585
 longitude: 45.028504
+title: Aden
+type: location
 ---
 
-Aden is the old capital of south yemen. It is still one of the most modern cities in the world, it is a busy port and more open to external influences than the rest of the country. 
+Aden is Yemen's main port and former southern capital, built in and around the crater of an extinct volcano on a peninsula jutting into the Gulf of Aden. It has a long history as a trading hub — the British made it a strategic coaling station and free port in the 19th century, and at its peak it was one of the busiest ports in the world. That era is visible in the grid of colonial-era buildings, many now crumbling.
 
-The oldest part of the city is known as the Crater, since it lies in the crater of an extinct volcano. Here you find most of the old buildings in Aden. An interesting site is the Aden Tanks, man-made reservoirs, partly cut out of the rock, with a storage capacity of 50 million litres. When it rains, the upper basins fill up first and then overflow into the lower basins. 
+The oldest part of the city is known as Crater, because it literally occupies the caldera of the volcano. Here you find the Aden Tanks — massive man-made cisterns carved out of the rock, partly cut into the hillside, with a combined capacity of around 50 million litres. When it rains, the upper basins fill first and overflow into the lower ones. They were built over two thousand years ago and periodically restored.
 
-To see the traditional boats head to the Maallah district 
+The Maallah district, along the waterfront, is where you see the traditional wooden dhow-style boats. South of the city, Little Aden — also built in a volcanic crater — has small fishing villages in sheltered bays and beaches fronting the Indian Ocean.
 
-For beaches head south of Aden, to a town called Little Aden, also located in the crater of an extinct volcano; this is an area of small fishing villages in sheltered bays, with several superb beaches fringing the Indian Ocean
+Note that Yemen has been in armed conflict since 2015 and travel to Aden carries serious safety risks. Check current advisories before any travel.

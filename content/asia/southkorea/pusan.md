@@ -1,16 +1,18 @@
 ---
-title: "Pusan"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 35.179953
 longitude: 129.075236
+title: Busan
+type: location
 ---
 
-Pusan is the second city of South Korea. It is a big industrial port with almost 4 million inhabitants. It is not a very attractive city, but there are a few nice beaches nearby. More importantly : Pusan is also the departure point for [Cheju island](/asia/southkorea/chejuisland) . 
+Busan is South Korea's second city — a sprawling port of nearly four million people wedged between steep hills and the sea. It's louder, saltier, and more working-class than Seoul: container ships crowd the horizon, the fish market starts before dawn, and the mountains drop so abruptly into the coastline that entire neighbourhoods cling to the cliffs.
 
+The beaches are the main draw. Haeundae is Korea's most visited, and for good reason — wide, white sand backed by a busy promenade, buzzing on summer nights and surprisingly peaceful at dawn. Gwangalli is the locals' favourite: smaller, with a dramatic view of Gwangan Bridge lit up after dark.
 
+Inland, the Gamcheon Culture Village climbs a hillside in a riot of painted staircases and murals — a former slum turned artist colony. Beomeosa Temple sits in the mountains north of the city, quiet and forested, a sharp contrast to the energy below. The UN Memorial Cemetery honours the soldiers of sixteen nations who died in the Korean War; Busan was the last city never taken by the North.
 
-Take in the view from Pusan Tower in Yongdusan Park and visit the Yi Sun-shin statue, the fish market (best seen 6-7 am) the U.N. Cemetery (where fallen U.N. soldiers from the Korean War are buried) and the Municipal Museum. 
+Jagalchi Fish Market is worth an early-morning visit to watch the auction floor in action. Street food is excellent throughout the city — look for dwaeji gukbap (pork and rice soup), the Busan signature.
 
-Daytrips include Haeundae which has casinos and a spa); Kumgang Park (beautiful cherry blossoms in the spring); and Pomosa , a 7th-century temple area. 
-
-Pusan is 340 km southeast of [Seoul](/asia/southkorea/seoul) .
+Busan is 340 km southeast of [Seoul](/asia/southkorea/seoul) and a natural jumping-off point for [Jeju Island](/asia/southkorea/chejuisland).

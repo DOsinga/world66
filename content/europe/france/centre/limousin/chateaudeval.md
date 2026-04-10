@@ -1,17 +1,14 @@
 ---
-title: "Chateau de Val"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.442681
 longitude: 2.505324
+title: Château de Val
+type: location
 ---
 
-Just north of [Tulle](/europe/france/centre/limousin/tulle) the chateau of val is a XVth century fortress. It stands majestically on its rocky island, displaying its fine silhouette with its six battlemented towers in the enormous Lake Bort.
+Just north of [Tulle](/europe/france/centre/limousin/tulle), the Château de Val is a fifteenth-century fortress standing on a rocky promontory in the enormous Lac de Bort. With six battlemented towers reflected in the water, it looks like something straight out of a fairy tale — or a child's drawing of what a castle should be.
 
+The château was built by the d'Estaing family, whose fleur-de-lys coat of arms still decorates the iron-studded entrance door. Inside, three large furnished rooms on the first floor retain their nineteenth-century decoration, while the second floor houses exhibitions of contemporary art. A Gothic chapel dedicated to Saint-Blaise stands in the main courtyard. The parapet walk on the top floor offers panoramic views over the lake and the surrounding countryside of Haute-Corrèze.
 
- As if straight out of a child's imagination, the château de Val could be considered as the archetypal medieval fortress with its magnificent setting, evocative of battles and cloak-and-dagger scenes, but also with its atmosphere of medieval art and love. strength and gentleness, such are the characteristic features which emanate from the Château and its surroundings.
- In the main courtyard we can see a gothic chapel dedicated to Saint-Blaise.
-
-
- We enter the château by a door armed with iron, whose tympanum bears the fleur-de-lys coat-of-arms of the d'Estaing family. The first floor consists of three large furnished rooms whose decoration (ceilings and fireplaces) dates from the middle of the XIXth century.
- The second floor is set aside for the exhibition of the work of the greatest contemporary artists.
- On the top floor, the parapet-walk has a splendid panoramic view over the lake. The visit ends with the timber framework of one of the towers, an interesting piece of work by XVth century "compagnons" (masters builders).
+The château was nearly lost when the Bort-les-Orgues dam was built in the 1950s, flooding the valley below. What had been a hilltop fortress became a lakeside one — which, if anything, only improved the setting.

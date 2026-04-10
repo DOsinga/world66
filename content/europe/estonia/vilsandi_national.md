@@ -1,24 +1,14 @@
 ---
-title: "Vilsandi National Park"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 58.383
+longitude: 21.81
+title: Vilsandi National Park
 type: location
 ---
 
-Travel Guide
+Vilsandi National Park covers the island of Vilsandi, about 160 smaller islands and islets, and parts of western [Saaremaa](/europe/estonia/saaremaa) including the Harilaid peninsula. It is Estonia's most important seabird sanctuary, with over 250 recorded bird species, 112 of which nest here.
 
-**Vilsandi National Park** is in Saare County of Estonia.
+The park is best known for its common eider colony -- several thousand pairs nest on the islets each spring. Even in winter, flocks of the rare Steller's eider can be seen in the waters around the park, making Vilsandi one of the few reliable spots in Europe for this species. The west and north shores are dominated by exposed dolomite rock, giving the coastline a raw, windswept character.
 
-The park includes the island of Vilsandi, 160 other islands and islets, parts of Western [Saaremaa](/europe/estonia/saaremaa) and the Harilaid peninsula.
-
-The most characteristic to the landscape are the small islands and
-islets of the nature park of which Vilsandi is the only one with
-permanent human inhabitants.
-
-The west and north shore is dominated by dolomite rock bank shore.
-Vilsandi is an international bird sanctuary with over 250 recorded bird
-species (112 nesting). The most famous is the common eider, several
-thousands pairs nest on the islets. Even in winter you can see flocks
-of Steller's eiders in the park.
-
-**More information **about Vilsandi National Park can be
-found on the official tourist
-information website of Estonia: http://www.visitestonia.com/en/destinations/national-parks/vilsandi
+Vilsandi island itself is the only one with permanent inhabitants -- a handful of people who maintain the old lighthouse and run a small guesthouse. Reaching the island requires a boat from the Saaremaa coast (arrangements can be made through the national park office or local guides). The park is best visited between May and September, when the bird colonies are active and boat access is most reliable.

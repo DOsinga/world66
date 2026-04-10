@@ -1,25 +1,9 @@
 ---
-title: "Steam Train Spotting"
+title: "Wolsztyn Steam Railway"
 type: poi
-address: "Central Station and Station Yard"
-type: "Other"
-url: "www.parowozy.com.pl"
+category: "Sight"
+latitude: 52.1153
+longitude: 16.1172
 ---
 
-Poznan is also a place which is popular with Steam Railway enthusiasts as there are *regular steam services* to Wolsztyn at 72 kms SW of Poznan; for more info, click the url below of *Wojciech Lis '*s detailed site on Poznan-Wolsztyn traject scheduled Steam Trains.
-
-The author lives in Wolsztyn near the Station Yard and presents you this interesting information payed out of his own pocket.
-The site is in polish and german language only, but the train pics are fantastic... and since trains have their own language: The site is steam-sound supported!
-
-**Contributors**
-January 28, 2006
-
-type: Other
-
-
-
-
-
-url: [www.parowozy.com.pl](http://www.parowozy.com.pl)
-
-address: Central Station and Station Yard
+Poznan is a pilgrimage destination for steam railway enthusiasts. Regular steam services run from Poznan to Wolsztyn, about 72 kilometres southwest, on one of the last scheduled steam-hauled railway lines in Europe. The Wolsztyn locomotive depot maintains a fleet of working steam engines, and you can arrange footplate rides alongside the crew. Even if you are not a trainspotter, the sight and sound of a full-size steam locomotive pulling out of the station is genuinely thrilling.

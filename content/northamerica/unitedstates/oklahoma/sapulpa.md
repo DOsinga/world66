@@ -1,8 +1,10 @@
 ---
-title: 'Sapulpa'
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 36.000504
 longitude: -96.104961
+title: Sapulpa
+type: location
 ---
 
 Located on Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m), Sapulpa is the county seat of Creek County with over 19,000 people. From Indian Territory history to the Glenpool oil strike, from railroad town to glass and pottery manufacturing, Sapulpa has been shaped by diverse influences. The Main Street project has preserved the distinctive downtown district, most of which was built before the 1920s.

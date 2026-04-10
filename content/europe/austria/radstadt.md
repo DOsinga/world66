@@ -1,14 +1,14 @@
 ---
-title: "Radstadt"
+title: Radstadt
 type: location
-latitude: 47.375288
-longitude: 13.491216
+latitude: 47.3839
+longitude: 13.4618
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Known as a nice Activities in the mountains, Radstadt is a medieval town lying at an altitude of a little less than 900 metres. It is considered a place with lots of snow and sun. The variety of activities in winter and summer attracts lots of tourists from all over the world. Radstadt can boast of its history: The Celts settled this area already in the 4th century B.C. The city charter was conferred in 1289. The strategic location and the blossoming trade have made Radstadt an excellent point of attraction for many visitors throughout the centuries. The late Roman city parish church, the gothic light column, the well-preserved city walls and round towers as well as the Capuchin tomb in the former monastery make us feel the pulse of history today.
+Radstadt is a small medieval walled town at 858 metres in the Salzburg region, tucked between the Dachstein massif and the Radstädter Tauern. The town received its charter in 1289 and still wears its history on its sleeve: intact city walls and round towers, a late-Romanesque parish church, and a gothic light column all survive in the compact old centre.
 
+In winter, Radstadt is a gateway to the Ski Amadé network, one of Austria's largest connected ski areas. The slopes above town suit intermediates well, and cross-country trails run through the valley. In summer the same landscape opens up for hiking, mountain biking, and golfing, with the Tauern mountain passes providing dramatic high-altitude routes.
 
- One of the most famous sons of Radstadt is Paul Hofhaymer, the composer and conductor at the court of emperor Maximilian, and known far across the country's borders. And since everything here has a history, it should also be mentioned that one of the first chairlifts was operated in Radstadt already in 1949. Radstadt is not just a pioneer as far as spirit of innovation is concerned, but also in the sense of a sports spirit: It is not without reason that sports legends reside here, such as Walter Habersatter, the world's best ski jumper in 1959, as well as Putzi Frandl, the Olympic and World Championship medal winner in 1956 and 1958 in alpine skiing, and many others.
-
-
- **With courtesy of www.radstadt.com**
+The town is small enough to walk end to end in ten minutes, which is part of its appeal. It is a practical, unpretentious base rather than a resort village, with a handful of restaurants and bars clustered around the Stadtplatz. If you want big-resort nightlife, head to Schladming down the valley; if you want quiet mountains and a medieval backdrop, Radstadt is your place.

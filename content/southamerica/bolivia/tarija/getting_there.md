@@ -3,6 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-If you get the chance: go or arrive via the road to the south, to Bermejo, where you can cross the border with Argentina. It's great surface and the scenery is unbelievable.
+If you have any choice in the matter, arrive via the road south to Bermejo, where you can cross from Argentina. The surface is good and the scenery — a deep forested canyon descending from the mountains — is genuinely spectacular. It's also a less-traveled route, so you're unlikely to share it with tour buses.
 
-The road to Tupiza on the other hand will shake your stomach untill, well, unitll it really hurts. If you take the night bus, don't eat out before leaving.
+The road north to Tupiza is a different story: bone-rattling on a good day. If you're taking the night bus, eat lightly before you leave.
+
+Alternatively, cross from Argentina at Aguas Blancas and head north through the canyon into Bolivia. From Aguas Blancas you can also detour into the [Parque Nacional Calilegua](https://en.wikipedia.org/wiki/Calilegua_National_Park) before continuing to [Salta](/southamerica/argentina/salta) or [Jujuy](/southamerica/argentina/jujuy). Because most travelers take the better-known Tupiza–La Quiaca–Salta route, this road sees very few tourists.

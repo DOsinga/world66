@@ -1,33 +1,16 @@
 ---
-title: "Quang Tri"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 16.7403
+longitude: 107.1854
+title: Quang Tri
 type: location
-latitude: 17.216696
-longitude: 106.954825
 ---
 
-Travel Guide
+Quang Tri province sits astride the old Demilitarized Zone, the line that divided North and South Vietnam from 1954 to 1975. More than almost anywhere else in the country, the landscape here is still shaped by war. The former DMZ is now a kind of open-air history lesson: tunnels, cemeteries, bombed citadels, and a bridge where families were once separated for decades. If you want to understand the Vietnam War beyond the American narrative, this is the place to come.
 
-Quang TriArea: 4,745.7 sq. km.
-Population: 621,700 habitants (2005)
-Capital: Dong Ha Town.
-Administrative divisions:
-- Town: Quang Tri
-- Districts: Vinh Linh, Gio Linh, Cam Lo, Trieu Phong, Hai Lang, Huong Hoa, Da Krong, Con Co.
-Ethnic groups: Viet (Kinh), Bru - Van Kieu, Ta Oi, Hoa.
+The province stretches from the coast in the east to the mountains along the Lao border in the west. The coastal strip has beaches — Cua Tung is the best known — but most travelers pass through Dong Ha, the provincial capital, as a base for visiting the war sites scattered across the surrounding countryside. The Khe Sanh Combat Base, site of one of the war's longest sieges, is about 60km west near the Lao border. The Vinh Moc Tunnels, where an entire village lived underground for years to escape American bombing, lie north of Dong Ha near the coast.
 
-Geography
+The old town of Quang Tri itself was almost completely destroyed in the 1972 Easter Offensive and never rebuilt. Its ruined citadel stands as a kind of monument. The Truong Son National Cemetery, the largest in Vietnam, holds the graves of tens of thousands of North Vietnamese soldiers.
 
-Located on North - Central Vietnam Quang Tri is surrounded by Quang Binh Province on the north, Thua Thien-Hue Province on the south, Savanakhet (Laos)on the west, East Sea on the east with 75km seaside.
-
-Topography consists of mountains, hills, plains, sand dune and seaside. The long coast and complex network of rives includes Ben Hai, Cam Lo, Quang Tri, Thach Han making a good condition for hydroelectricity and aquiculture.
-
-The weather condition is very severe with hot and dry south- west winds. Annual average temperature is 24ºC.
-
-Tourism
-
-Quang Tri preserves many remains from the anti- American resistance war such as the ancient citadel of Quang Tri, Khe Sanh Combat Base, Truong Son National Cemetery, Vinh Moc Tunnels, Hien Luong Bridge and Ben Hai River.
-
-Coming to there, tourists are able to take interesting holiday in Dakrong Beauty Spot and Cua Tung Beach. The beach has sparkling clean water, silky sand and soft breeze, the whisper made by the rows of casuarinas trees. It is very pleasant to go on boat down stream on the Ben Hai River and admire the beautiful landscapes.
-
-Transportation
-Dong Ha Town is 74km from Hue City, 80km from Lao Bao Border crossing, 94km from Dong Hoi (Quang Binh Province), 190km from Danang, 598km from Hanoi, and 1,112km from Ho Chi Minh City . National Highway No.1A runs through the province and National Highway No.9, the Trans-Asia Highway connects with the Lao Bao international border gate to Laos.
+Getting to Quang Tri is easy: Dong Ha is on the main Hanoi–Ho Chi Minh City railway line and National Highway 1A, about 74km north of Hue. Highway 9 runs west through the province to the Lao Bao border crossing into Laos, making it a logical stop on an overland route between Vietnam and Laos.

@@ -1,16 +1,9 @@
 ---
-title: "See Orangutan in the wild"
+title: "Semenggoh Wildlife Centre"
 type: poi
-address: "Semenggoh Wildlife Centre"
-type: "Other"
+category: "Sight"
 latitude: 1.3998
-longitude: 110.324427
+longitude: 110.3244
 ---
 
-Semenggoh Wildlife Centre is where to spot the orangutan live in the wild. They live freely in the surrounding jungle. They will come out from the jungle during the feeding time. The feeding time is at 9am in the morning & 3pm in the afternoon. Visit during the feeding time, you will get to see the Orangutans coming out from the jungle to the feeding platform, & you will get chance to see the giant Orangutan too, who is the leader of all orangutans at that territory. You can hire a taxi & it will take approximately 30 mins drive from Kuching. Entrance fee is RM3 per person
-
-type: Other
-
-
-
-address: Semenggoh Wildlife Centre
+Semenggoh, about 25 km south of Kuching, is the best place near the city to see semi-wild orangutans. The animals roam freely in the surrounding forest and come to a feeding platform twice daily — at around 9am and 3pm — when they can be observed at close range. Numbers at the platform vary with fruiting seasons; visits during fruit scarcity guarantee the best sightings. Entrance is around RM10.

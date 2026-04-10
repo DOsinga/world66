@@ -1,16 +1,9 @@
 ---
-title: "Haad Son"
+category: Sight
+latitude: 9.7479
+longitude: 99.9707
+title: Haad Son
 type: poi
-address: "Koh Phangan West Coast"
 ---
 
-**Haad Son Beach** is located between the main town at Thongsala and Haad Yao - one of the busiest destiantions on Koh Phangan.
-
-Haad Son is secluded with only one hotel and bungalow development on the beach. This is [Haad Son Resort](/asia/thailand/kohphangan/accommodation/haad_son) which offers a range of accommodation for all budgets - from garden villas to penthouse apartments.
-
-**Contributors**
-December 16, 2008
-
-
-
-address: Koh Phangan West Coast
+Haad Son is a secluded cove on the west coast, tucked between Thong Sala and the busier Haad Yao beach. The small bay is sheltered and quiet, with only modest bungalow accommodation on the beach — making it a good choice for those who want to avoid the more developed stretches further south.

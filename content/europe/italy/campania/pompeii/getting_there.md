@@ -1,5 +1,5 @@
 ---
-title: "Getting to Pompeii"
+title: "Getting There"
 type: section
 ---
 

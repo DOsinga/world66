@@ -1,8 +1,12 @@
 ---
-title: "De efteling"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.648431
 longitude: 5.043606
+title: De Efteling
+type: location
 ---
 
-With over 2 million visitors a year, De Efteling is the Netherlands favourite amusement park. Originally it was a big **Sprookjesbos** (Fairytale Forrest) designed by Anton Pieck in the 50-ies, with very cosy built small houses in it, each representing a famous fairytale. In the 80-ies it has added a lot of modern attractions like a **rollercoaster** (the Python) which changed the outlook of the park a bit, but in recent years the park has gone or [Den Bosch](/europe/netherlands/denbosch).
+De Efteling is the Netherlands' most-visited amusement park, drawing over 5 million visitors a year. It is located near Kaatsheuvel in the province of Noord-Brabant, not far from [Den Bosch](/europe/netherlands/denbosch).
+
+What sets De Efteling apart from other theme parks is its deep roots in European fairy tale tradition. The Sprookjesbos (Fairytale Forest), designed by the illustrator Anton Pieck in the 1950s, is a walk-through woodland filled with detailed miniature houses and scenes depicting classic European fairy tales — it remains the heart of the park and has a charm that holds up for adults as well as children. Later additions include roller coasters and thrill rides, but the park has maintained its distinctive storybook aesthetic throughout its expansion.

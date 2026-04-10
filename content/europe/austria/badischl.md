@@ -1,8 +1,10 @@
 ---
-title: "Bad Ischl"
+title: Bad Ischl
 type: location
 latitude: 47.71153
 longitude: 13.623933
+done:
+  location_cleanup: 2026-04-06
 ---
 
 At only 468 m altitude Bad Ischl with its 13.887 inhabitants combines noble tradition with fresh zest for life. Located by a mountain, by a river and near several skiing areas tourists can choose what to do: make a trip with a cableway, have a visit at the Emperor's Villa, the Salt Mine, the Operetta Festival or the Salzkammergut Gulf Club. Sporting at tennis courts, explore hiking or cycling tracks.

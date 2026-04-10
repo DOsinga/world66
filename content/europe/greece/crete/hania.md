@@ -1,27 +1,14 @@
 ---
 title: "Hania"
 type: location
-latitude: 35.512083
-longitude: 24.019154
+latitude: 35.5121
+longitude: 24.0192
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Hania is one of the nicest towns in Crete, with wonderful houses, parks and squares and a well designed town-plan. 
- 
+Hania (Chania) is widely considered the most beautiful city in Crete, and it's hard to argue otherwise. The old town is a near-perfect example of Venetian colonial architecture, with an entire Jewish quarter, a Turkish quarter, and Venetian mansions all compressed into a labyrinth of narrow streets around an old harbour. The harbour itself — with its lighthouse, Venetian shipyards, and the old mosque converted to a market — is where everyone ends up in the evenings.
 
+The covered public market, built in 1911 in the shape of a cross, is the best place to stock up on Cretan olive oil, honey, and herbs. The Archaeological Museum in the old Venetian church of Agios Fragkiskos has a good collection of Minoan artifacts from western Crete. The Maritime Museum at the Firkas fortress at the entrance to the harbour covers Cretan and Greek naval history.
 
- The Public Market is an impressive building, in the town center, built at the beginning of the present century (1911) and houses grocery stores, butchers' shops, a fish market and vegetable shops.
- The Public Gardens, next to the Market, are ideal for those in search of shade and tranquillity.
- Northeast of the gardens is the beautiful neighborhood of Chalepa where the residences of Prince George and Eleftherios Venizelos were.
-
-
- The old city has preserved to a great extent the distinctive atmosphere and charm of the Venetian and Turkish periods. Entire Venetian, Turkish and Jewish quarters are saved, with well preserved buildings in the narrow picturesque streets. 
- One of the most significant buildings is the large Venetian church of Aghios Frankiskos which today houses the Archaeological Museum of Hania.
-
-
- The old city leads at the harbor, where many Venetian and Turkish buildings are preserved. At the entrance of the harbor, at its northerst point, is the renovated fort "Firkas", built on 1629, that today houses the Maritime Museum of Hania as well as a summer theatre, where drama performances are presented.
- Opposite the Firkas fort, is the magnificent Venetian lighthouse, built on the 16 century and restored by the Egyptians.
- The harbor is protected by a Venetian breakwater, built of huge stones. At the center of the breakwater are the ruins of a fortress.
-
-
- West of Hania, at a distance of 4.5 km, is the hill of Profitis Ilias, where the memorial and tomb of Eleftherios Venizelos and his son Sophokles are located. 
- Hania can be the starting point for a tour to the western Crete, a part of the island with magnificent natural beauty. There are lots of places worth seeing , within driving distance (two to three hours) , the most famous being the Samaria Gorge. This is a National Park of Greece that starts at the village of Omalos, at an altitude of 1227 m. and ends after a walk of approximately 18 Km to the beach of Agia Roumeli. The Gorge is open from May to the beginning of October and is definitely a must for everyone.
+Hania is also an excellent base for western Crete. The Samaria Gorge — a 16-km hike through Europe's longest limestone gorge, from the Omalos plateau down to the Libyan Sea — is one of the great walks in Greece, open from May to early October. The village of Paleochora on the southwestern coast and the beaches of the Akrotiri peninsula are both easily reached by car or bus.

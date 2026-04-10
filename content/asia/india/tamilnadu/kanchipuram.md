@@ -1,8 +1,10 @@
 ---
-title: "Kanchipuram"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 12.964716
 longitude: 79.983969
+title: Kanchipuram
+type: location
 ---
 
 Kanchipuram is one of the seven sacred cities of Hinduism, 75 km southwest of Chennai, and was once the capital of the Pallava dynasty that ruled much of south India between the 4th and 9th centuries. The Pallavas were the architects of Dravidian temple style, and Kanchipuram's temples are among the oldest and finest examples of that tradition.

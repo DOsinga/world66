@@ -3,4 +3,4 @@ title: 'Bars and Cafes'
 type: section
 ---
 
-**Rocombe Farm Organic Ice Cream** -- Union St, Castle Circus. Tel: 01803 293996. Organic ice cream made locally.
+The seafront and harbour area have the highest concentration of cafes and bars. Union Street, running up from the harbour, is the main pub and nightlife strip.

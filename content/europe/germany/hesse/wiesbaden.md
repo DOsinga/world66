@@ -1,14 +1,14 @@
 ---
-title: "Wiesbaden"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.082038
 longitude: 8.241656
+title: Wiesbaden
+type: location
 ---
 
-Beautifully situated between the Taunus highlands in the north and the Rhine in the south, Hesse's capital is a beautiful, elegant and vibrant city where sports and the arts are equally at home. Its 26 hot springs were already worth a mention for the writers of ancient Rome, and today Wiesbaden combines the attractions of a modern conference and trade fair venue with the old-world charm of one of the great spas of yesteryear - and a rich historical heritage including imposing ruins, castles, churches and other monuments.
+Wiesbaden, the capital of Hesse, sits between the Taunus highlands to the north and the Rhine to the south. Its 26 hot springs were already noted by Roman writers, and the city has been a fashionable spa destination since the 18th century — Dostoyevsky gambled away his fortune at the Kurhaus casino, and the grand Wilhelminian-era buildings along the Wilhelmstrasse still carry that old-world elegance.
 
+The city centre is walkable and well preserved. The Kurhaus and its surrounding park are the natural starting point; the Neroberg hill behind the city offers panoramic views over the Rhine-Main area and can be reached by a water-powered funicular railway dating from 1888. The warm springs themselves are still in use at the Kaiser-Friedrich-Therme, a beautifully restored Art Nouveau bathhouse.
 
- Thanks to its location in the heart of the Rhine-Main-area Wiesbaden has become an important economic centre and seat of many international companies. Nowadays two out of three people are employed by service providers (public services included), but there is still a strong chemical industry.
-
-
- As a general rule you can say that Frankfurt is the city of (banking) business and Wiesbaden the place to stay and live...
+Wiesbaden is quieter and more residential than neighbouring [Frankfurt](/europe/germany/hesse/frankfurt) — locals like to say that Frankfurt is where you work and Wiesbaden is where you live.

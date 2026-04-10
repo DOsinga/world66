@@ -1,8 +1,10 @@
 ---
-title: 'Kozhikode'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 11.245056
 longitude: 75.775472
+title: Kozhikode
+type: location
 ---
 
 Kozhikode, formerly known as Calicut, is where Vasco da Gama landed in 1498, opening the sea route between Europe and India. The city was the capital of the powerful Zamorin rulers and a major spice trading port for centuries before that. Marco Polo described it as a great province as early as 1320.

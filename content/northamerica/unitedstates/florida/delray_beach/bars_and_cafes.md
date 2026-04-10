@@ -1,5 +1,5 @@
 ---
-title: "Bars and Cafes in Delray Beach"
+title: "Bars and Cafes"
 type: section
 ---
 

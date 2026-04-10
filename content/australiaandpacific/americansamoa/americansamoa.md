@@ -1,15 +1,16 @@
 ---
-title: American Samoa
-type: location
-latitude: -14.297124
-longitude: -170.713148
-image: americansamoa.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Fagatogo_Dock.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="https://en.wikipedia.org/wiki/User:Marshman" class="extiw"
-  title="en:User:Marshman">Eric Guinther</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: americansamoa.jpg
+image_attribution: <a href="https://en.wikipedia.org/wiki/User:Marshman" class="extiw"
+  title="en:User:Marshman">Eric Guinther</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Fagatogo_Dock.jpg
+latitude: -14.297124
+longitude: -170.713148
+title: American Samoa
+type: location
 ---
 
 American Samoa is a small U.S. territory in the South Pacific — seven islands scattered between the equator and the Tropic of Capricorn, about halfway between Hawaii and New Zealand. It's remote, genuinely beautiful, and almost entirely off the tourist trail.

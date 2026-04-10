@@ -1,5 +1,5 @@
 ---
-title: "Getting Around in Sestri Levante"
+title: Getting Around
 type: section
 ---
 

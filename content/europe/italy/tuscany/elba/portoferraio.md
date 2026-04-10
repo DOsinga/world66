@@ -1,58 +1,16 @@
 ---
-title: "Portoferraio"
+title: Portoferraio
 type: location
-latitude: 42.814147
-longitude: 10.331026
+latitude: 42.8141
+longitude: 10.331
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Portoferraio, the capital of Elba
+Portoferraio is the capital of [Elba](/europe/italy/tuscany/elba) and where most visitors first set foot on the island — the ferry from Piombino docks right in the harbour. The town wraps around what has long been considered one of the safest natural ports in the Mediterranean, and the Medici fortifications that ring the old centre still give it a dramatic profile from the water.
 
+The historic core is a compact tangle of stepped lanes climbing between two imposing forts — **Forte Falcone** and **Forte Stella** — built by Cosimo I de' Medici in the 1540s when he renamed the place Cosmopoli. The ramparts offer sweeping views across the channel to the mainland, and on a clear day you can pick out the hills above Piombino. Below, the old town's pastel houses and narrow alleys are pleasant to wander, especially in the early evening when the day-trippers have left.
 
+Napoleon lived here during his ten-month exile (May 1814 to February 1815), and his presence still defines much of the town's identity. His official residence, the **Palazzina dei Mulini**, perches on the heights between the two forts and retains original furniture, letters, and frescoes celebrating his Egyptian campaign. His summer villa at **San Martino**, a few kilometres inland, houses the Demidoff gallery. Both are worth visiting — they hold the best Napoleonic collection outside France.
 
-
- It's not easy to find a a patch of earth in the midst of the sea that can tell you a
- tale as rich as this, which begins when the story of mankind was still part legend. And
-
-
- it is still harder to imagine another island with a "capital" chosen by nature rather than
- men. Yet that capital is Portoferraio. The port has always been considered the safest
- in the Mediterranean. It is centrally located with regards to the other seven municipalities on the Island and its territory reaches sweetly down to the sea in a tender
- embrace. These aspects enthral the visitors of today, but in antiquity they served as a
- magnet for many peoples.
-
-
- In his adventurous search for the golden fleece, Jason stopped in Porto Argo (the
- mythical name of Portoferraio). It was from here that the valiant inhabitants of Elba set
- sail on their long trip in aid of king Priam and the unfortunate inhabitants of Troy. When
- the Romans took over the exploitation of the iron mines from the Etruscans, they built
- two sumptuous villas, the first on the promontory of the Grotte, with its once in a life
- time view of the bay, the other on the peninsula of la Linguella, caressed by the glittering waves sent in by the mistral.
- When Cosimo I de'Medici built that Jewel of military town planning, the fortress
- of Portoferraio, in the sixteenth century, he really had no choice of site. The entire
- canal which separates Elba from the continent can be observed from the ramparts of
- Forte Stella or the Falcone and it was thus possible to keep an eye on the terrible Saracen pirates that roamed these waters The harmony between sea, land and architecture was so perfect that the city was called Cosmopoli, cradle of civilization and culture, a model of order and equilibrium.
-
-
- Next came Napoleon, who in his ten months rule over Elba (May 4, 1814 - February 26,
- 1815) profoundly marked the territory and the economic and social fabric
- of the city and the island. He set up his headquarters in the historical center in a large house known as "Villa
- dei Mulini" but he also had a summer residence in San Martino, where the Demidoff
- Museum now stands The furniture, weapons, letters written by the Emperor and his generals, can still be
- seen in the places where he
- lived. The paintings and frescoes celebrate his campaigns in Egypt, his victories in Arcole,
- Austerlitz and the many other battlefields where his military genius triumphed. Upon
- leaving the historical center, wild cliffs frame fascinating coves and small beaches of white
- pebbles.
-
-
- 
- The twisted stone columns of Enfola finally reveal their secrets caves smoothly polished by the perennial play of the waves,
- indentations populated by whole families of seagulls, the nests of swift low flying cormorants a paradise for scuba divers. Time
- has stopped and nature still rules. The road runs along on the heights and the cliffs gradually
- turn into hot sandy baches. The sleepy beaches of Scaglieri, Biodola, Forno follow
- along: golden beaches where people are one with the natural environment. Exploration
- of the eastern part takes us to località San Giovanni, with its mixture of countryside and
- ocean, with a small tourist harbour and a spa where ancient remedies and medications
- are extracted from the algae and muds of the sea. At Bagnala, with its hundred sails
- spread to the wind, the landscape is dominated by the castle of Volterraio, which has
- kept watch over the safety of the inhabitants of Elba for centuries.
+West of town, the coast turns wild. The rocky promontory of **Enfola** — almost an island, connected by a narrow sand bar — is a favourite spot for swimming and snorkelling. Further along, the beaches of **Scaglieri**, **Biodola**, and **Forno** are golden sand backed by pine woods, quieter than the south coast and easily reached by car or bus. East of town, **San Giovanni** has a small marina and a mud spa drawing on the therapeutic properties of local seabed sediments.

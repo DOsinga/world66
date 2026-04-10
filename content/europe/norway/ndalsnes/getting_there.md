@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-It's far from the only way to arrive but many come by the Romsdal line, a branch from hte main rail line from Oslo to Trondheim. The line ranks along with the prvate Flåmsbahn as one of Norway's most scenic. It drops thousands of metres in a very short distance and, on the left as you are approaching Åndalsnes, if you look back a bit you will see Europe's highest vertical cliff, The Trollsvegen.
+The **Rauma Line** from Dombås to Åndalsnes is one of Norway's most scenic railway journeys, branching off the main Oslo–Trondheim line and descending dramatically through the Romsdal valley. As you approach Åndalsnes, look left and back to catch a glimpse of the Trollveggen — Europe's tallest vertical cliff face. Buses also connect Åndalsnes with Molde, Ålesund, and in summer with Geiranger via the Trollstigen road.

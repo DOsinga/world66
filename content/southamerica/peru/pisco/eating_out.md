@@ -3,8 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Most probably you'll end up eating in one of the cafes around the plaza de armas, which are nice, convenient and cheap and have the usual fare. Check out the Ped Mal too. 
-
-We currently have no Eating Out listed in Pisco.
-
-If you do know any Eating Out in Pisco, please [Add].
+Most eating in Pisco happens around the Plaza de Armas, where simple cafes serve the usual Peruvian staples at low prices. The seafood is the thing to try — ceviche and fried fish are fresh and cheap. The pedestrian street off the plaza has a few more options.

@@ -3,9 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Eat at Meson Lucas for good honest Galician food.
-
-They are in the Daniel Váquez Boo, which is the oldest part of the town.
-
-**Contributors**
-June 25, 2005
+**Mesón Lucas** serves straightforward Galician food — the kind of place where the menu follows the season and portions are generous. It's in the old part of town on Calle Daniel Vázquez Boo.

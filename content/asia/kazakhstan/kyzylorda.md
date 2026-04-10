@@ -1,20 +1,16 @@
 ---
-title: "Kyzylorda"
+title: Kyzylorda
 type: location
-latitude: 45.205885
-longitude: 63.91552
+latitude: 45.2059
+longitude: 63.9155
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**KYZYLORDA** is a city in Southwestern Kazakhstan, only 400 kilometers far from the infamous Aral Sea. The name of the city, according to the local people, is translated as * Red Center *.
+Kyzylorda sits in southwestern Kazakhstan, only 400 kilometers from the infamous Aral Sea. The name, according to locals, translates as "Red Center." The city is located in a vast semidesert that might remind you of places in Utah or Nevada. In spring, the lands near Kyzylorda are covered with a beautiful carpet of flowers, among which wild tulips are the most striking. The landscape is flat, which is typical of southern Kazakhstan, and one of the city's most constant features is the wind. As one local put it, it only blows twice a year: six months in winter and six months in summer. It carries salt from the Aral Sea, and if you drive north you can easily see salty crust on the sand.
 
+The first thing that catches your attention arriving from the airport is the Syr-Darya, the river from Kazakh folk tales. It is remarkable that a river can flow so far through the sands without drying up. It once supplied fresh water to the people living on its banks, but today nobody uses it -- fields upstream consume vast quantities of water and flush pesticides into it. People now drill wells for their fresh water.
 
- The city is located in a vast semidesert that might remind you of some places in Utah or Nevada. In spring, the lands near Kyzylorda are covered with a beautiful carpet of flowers, among which wild tulips are the most beautiful. The landscape is quite flat, which is very representative of Southern Kazakhstan. One of the most constant features of Kyzylorda is the wind. As one of my acquaintances said, it only blows twice a year: six months in winter and six months in summer. It blows salt from the Aral Sea to the city, and as you take a ride to the north, you can easily see salty crust on the sand.
+The region is rich in oil, with wells to the north of the city. Kyzylorda is also an amazingly diverse place -- Kazakhs, Uzbeks, Russians, Koreans, Germans all live here, and they all have stories to tell. The legacy of Stalin is visible not only in the artwork on abandoned factories, but in the German and Korean populations who were deported here. Most of the Germans left after the fall of the Soviet Union, but not all.
 
-
- The first thing that attracts your attention when you go to the city from the airport is the Syr-Darya, or the Syra, the river from the Kazakh folk tales. It is amazing that a river can flow so far through the sands without drying. At some point in history, it supplied fresh water to the people who lived on its banks. However, at present nobody uses its water anymore. As it runs from the south, on its way there are fields that need a lot of water and from which various toxins such as pesticides pour into it. Presently, people have to drill wells to have fresh water supply. 
-
-
- The region is rich in oil. There are oil wells to the north of the city. It gives hope that some day this place might become one of the richest in Kazakhstan.
-
-
- It is never very cold in the city if not to take wind-chill factor into account. However, only two hundred kilometers north temperatures can drop down to -30 degrees Celsius (-22 Fahrenheit) in winter.
+It is never very cold in the city itself if you ignore the wind-chill, but just 200 kilometers north temperatures can drop to -30 degrees Celsius in winter. The bazaar is one of the best places to experience local culture, and the city has a beautiful new plaza near city hall and a river walk along the Syr-Darya.

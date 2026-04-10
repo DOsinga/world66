@@ -1,10 +1,8 @@
 ---
-title: "Getting There in Ullal"
+title: "Getting There"
 type: section
 ---
 
-Ullal Railway station
+Ullal has its own railway station on the Konkan Railway line, 2 km from the town centre.
 
-Busses to Ullal from mangalore 44A, 44D, 44C
-
-Taxi's and Auto rikshaws are also available.
+Buses from Mangalore run frequently — routes 44A, 44C, and 44D all serve Ullal. Auto-rickshaws and taxis are also available from Mangalore city.

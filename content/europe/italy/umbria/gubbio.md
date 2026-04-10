@@ -1,22 +1,14 @@
 ---
-title: "Gubbio"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 43.35176
 longitude: 12.577296
+title: Gubbio
+type: location
 ---
 
-Gubbio, located some kilometres north of [Assisi](/europe/italy/umbria/assisi) and 40 km north of [Perugia](/europe/italy/umbria/perugia) is one of Umbria's nicest towns, spread out along the foothills of Mt. Ingino from where it has a commanding view of the fertile valley below. Gubbio was first inhabited during the prehistoric era, later the primitive community of "Ikuvium", founded by the Umbrians, settled here. In the 1st century BC Gubbio became a Roman municipality and lived a period of peace and prosperity, until the fall of the Roman Empire. In 552 Gubbio is attacked and destroyed by the Goths, in 592 the Goths were succeeded by the Byzantines and later by the Longobards (772).
+Gubbio is the most convincingly medieval town in Umbria — possibly in all of Italy. Its grey stone streets climb steeply up the flank of Monte Ingino, its towers and palaces intact, its walls unbroken. There is no major highway running through, no sprawling suburb to negotiate. You arrive, you walk in, and you are five centuries back.
 
+The town sits about 40 km north of [Perugia](/europe/italy/umbria/perugia) and a similar distance from [Assisi](/europe/italy/umbria/assisi). It was the Roman municipium of Iguvium, and the ruins of a 1st-century theatre survive on the edge of town. In the Middle Ages Gubbio became a thriving commune — its citizens fought off Perugia under the leadership of Bishop Ubaldo, whose preserved body still lies in the basilica on the hill above. That hill defines the town: from Piazza Grande, the great hanging square that is Gubbio's centrepiece, you look out over the valley while Monte Ingino presses against your back.
 
- 
- 
- Even though Gubbio was donated to the Church by Pippin the Short and Charlemagne, it was able to maintain its autonomy. In the 11th century this condition permits Gubbio to become an independent commune, later it fell under Ghibelline and then under Guelphs rule. In the 12th century Gubbio, with the famous Bishop Ubaldo at his head, won a war against Perugia and other rival towns. During the 14th century Gubbio definitively becomes part of the Papal State and remains under its rule (with the exception of the Napoleonic period) until 1860, when it becomes part of the Kingdom of Italy.
-
-
- 
- 
- Today Gubbio represents the compact masterpiece of medieval civilization. For this reason it has been defined "the most beautiful medieval city" of Europe. Every single one of its inhabitants' homes has a medieval origin and even the city itself is protected by prefectly conserved medieval walls.
-
-
- 
- In Gubbio, there is a very strong artisan ceramic tradition. The 16th century school can be seen in the extremely fine artisan products appreciated in all the world. A stay in Gubbio is like going back 1000 years in time. In each house, in every street, in all the boutiques one breathes a medieval atmosphere that is accentuated by its typical tartufo cuisine, its excellent wine and by its fabulous craftsmanship.
+The ceramics tradition here goes back to the 16th century, and the workshops still turn out lustrous majolica. Gubbio is also serious about truffles — white truffle season (autumn) is a good excuse to visit if you need one. The town hosts the Corsa dei Ceri each May, a wild medieval race up the mountain carrying enormous wooden pillars, which the locals treat with complete seriousness.

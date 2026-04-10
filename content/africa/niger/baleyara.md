@@ -1,8 +1,12 @@
 ---
-title: "Baleyara"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 13.7841
+longitude: 2.9515
+title: Baleyara
 type: location
-latitude: 13.784102
-longitude: 2.951507
 ---
 
-While some areas have a seamy roadstop appearance most of the town and surrounding bush is framed majestically by towering acacia trees. Although Baleyara is primarily a Djerma-speaking area there are many villages of Bella Tuaregs to be found and it is located near the transition zone to the Hausa-speaking areas to the north.
+Baleyara is a market town in western Niger, north of Niamey along the road to Filingué. The town sits in the transition zone between the Djerma-speaking south and the Hausa-speaking areas to the north, and the surrounding bush country holds many villages of Bella Tuareg — former slaves of the Tuareg who formed their own communities after emancipation.
+
+The weekly market draws traders and herders from across the region, and the town has the slightly raw feel of a busy crossroads: roadside butchers, tea stalls under acacia trees, and trucks loaded with livestock. The landscape around Baleyara is framed by tall acacia trees that soften what could otherwise be a bleak stretch of Sahel.

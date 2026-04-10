@@ -1,12 +1,14 @@
 ---
-title: "Buzau"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 45.15
+longitude: 26.821
+title: Buzău
 type: location
-latitude: 45.269258
-longitude: 26.774817
 ---
 
-Buzau is the main city in Buzau County, and it is located in the Romanian Field, at about 130 km north-north-east from Bucharest, near the river also named Buzau. It is a very old city, mentioned in centuries old documents, and its population is approaching now 200.000. Although, most of the actual city is modern and there are very few old buildings left in town. The main green area is the Cring forest, on the South side of the city, and here is a fine place for walking and amusement. There is a little lake here where you can rent boats by the hour, and a little island with a bistro under the trees, for refreshments. 
+Buzău is the principal city of Buzău County, sitting at the foot of the Carpathian foothills about 130 km north-east of Bucharest, where the plains meet the mountains. It is an old city — documents from the 15th century mention it — but most of what you see today is modern, the old centre having been largely rebuilt in the Soviet era.
 
-Links:
+The green lungs of the city are the Crâng forest and park, on the southern edge of town. The park has a small lake with rowing boats available for hire, a pleasant backdrop for a summer afternoon. The Buzău County Museum has a reasonable collection of local history and archaeology.
 
-http://www.buzau.ro
+Buzău makes a reasonable stop between Bucharest and Brașov or Suceava, though travellers with limited time will find the mountain scenery north of the city more compelling than the city itself. The Colți area nearby has unusual mud volcanoes — a curious geological phenomenon where natural gas pushes through the ground and creates small erupting mud cones.

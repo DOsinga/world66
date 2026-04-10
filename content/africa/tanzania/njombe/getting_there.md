@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Njombe"
+title: "Getting There"
 type: section
 ---
 
-There are daily buses from [Dar es Salaam](/africa/tanzania/daressalaam) , Songea and several other places. Travellers by train on the Tanzam Railway disembark at Makambako from where there are shuttle buses to Njombe. There is an airfield at Njombe but without regular air connections.
-
-**Contributors**
-February 25, 2006
+There are daily buses from [Dar es Salaam](/africa/tanzania/daressalaam), Songea, and several other towns. Travellers arriving by train on the TAZARA Railway disembark at Makambako, from where shuttle buses run to Njombe. There is an airfield at Njombe but no regular air service.

@@ -1,19 +1,18 @@
 ---
-title: 'Cornwall'
+latitude: 50.26
+longitude: -5.05
+title: Cornwall
 type: location
-latitude: 50.443349
-longitude: -4.624657
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Cornwall is the westernmost part of England. It is a beautiful peninsula where you will find dramatic countryside dotted with ancient stone walls and granite-built farmhouses, framed against a colourful canvas of gorse and verdant fields dropping sharply down rugged cliffs to the sea below. Sea is all around and there are many beach resorts in Cornwall.
+Cornwall is the most south-westerly county of England, a dramatic peninsula jutting into the Atlantic with more than 300 miles of coastline. It is a place apart — Celtic in heritage, rugged in character, and stubbornly distinct from the rest of England. The landscape shifts from surf-battered cliffs and wide sandy beaches in the north to the gentler, wooded river creeks of the south coast, while the high moorland of Bodmin sits in the middle, scattered with ancient standing stones and Bronze Age settlements.
 
-Derelict mine engine houses can be seen throughout the Cornish landscape from Land's End to Gunnislake. These are witnesses to a time when the hills echoed to the din of an industry which drove the industrial revolution and once dominated the tin and copper markets of the world. Innovators Richard Trevithick, Humphry Davy, Goldworthy Gurney and others gave the world everything from the railway engine to the safety lamp at this glorious point in Cornish history.
+The sea defines everything here. Fishing villages cling to narrow coves, surfers paddle out at Newquay and Sennen, and the light — famously clear and shifting — has drawn artists to St Ives for more than a century. The Tate St Ives and the Barbara Hepworth Sculpture Garden make the town one of England's finest destinations for contemporary art.
 
-The coast road from St Ives to Land's End is particularly attractive.
+Cornwall's industrial past is written into the landscape. Derelict mine engine houses stand along the cliff tops from Botallack to Gunnislake, relics of the tin and copper boom that helped drive the Industrial Revolution. Richard Trevithick, inventor of the steam locomotive, was a Cornishman. Today those same engine houses are a UNESCO World Heritage Site.
 
-## Destinations in Cornwall
+The far west — the Penwith peninsula beyond Penzance — is Cornwall at its most elemental: prehistoric hill forts, dolmens and fogous, fishing communities, and the raw Atlantic edge at Land's End. St Just in Penwith and Zennor make excellent bases for exploring this corner. Further east, the Eden Project near St Austell and the Lost Gardens of Heligan draw visitors year-round.
 
-- [Newquay](/europe/unitedkingdom/england/bristol_plymouth/cornwall/newquay)
-- [Truro](/europe/unitedkingdom/england/bristol_plymouth/cornwall/truro)
-- [Lost Gardens of Heligan](/europe/unitedkingdom/england/bristol_plymouth/cornwall/lost_gardens_of_he)
-- [Eden Project](/europe/unitedkingdom/england/bristol_plymouth/cornwall/eden_project)
+Truro is the county's only city and its administrative centre; Newquay is the surf capital and main resort town. Summer brings enormous crowds to the beaches and villages; the shoulder seasons — May, June, and September — offer better weather for walking the South West Coast Path, which traces the entire Cornish coastline.

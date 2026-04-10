@@ -1,11 +1,14 @@
 ---
-title: "Kaduna"
+title: Kaduna
 type: location
-latitude: 10.51829
-longitude: 7.435986
+latitude: 10.5183
+longitude: 7.436
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Kaduna used to be the colonial and immediate post independence capital of Northern Nigeria. It is situated on the Kaduna River and has a cool temperate weather. It has an airport, railway station and is an important junction with roads branching in five (5) different directions. It is also a major commercial and industrial base in the North. It is now the capital of Kaduna State.
+Kaduna sits on the river that shares its name, a sprawling city that once served as the capital of Northern Nigeria under British rule and kept that role through the early years of independence. The colonial legacy is still visible in the wide boulevards and the old administrative buildings, though the city has long since grown well beyond that grid into a busy commercial hub of several million people.
 
+The city is not a tourist destination in the conventional sense, but it has a particular energy. As one of the major crossroads of northern Nigeria, Kaduna is where the largely Muslim north meets the Christian south, and that mix gives the city a cultural complexity you do not find in more homogeneous places. The markets are enormous and chaotic, the food draws from traditions across the region, and the pace of life is faster than in most northern Nigerian cities.
 
- Although Kaduna is quite a nice place it does not have many sights you should visit. There are a few things to do however. Kaduna is an excellent base for visiting the nearby town of [Zaria](/africa/nigeria/zaria). It is a nice stop on your way north to Kano} or south to [Abuja](/africa/nigeria/abuja).
+Most travellers pass through Kaduna on the way to somewhere else, and that is a perfectly good use of the city. It is well connected by road in every direction and makes a natural stopover between [Abuja](/africa/nigeria/abuja) to the south and [Kano](/africa/nigeria/kano) to the north. The nearby historic city of [Zaria](/africa/nigeria/zaria), with its ancient walls and the Palace of the Emir of Zazzau, is an easy day trip and arguably the main reason to linger.

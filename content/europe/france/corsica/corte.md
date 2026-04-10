@@ -1,8 +1,10 @@
 ---
-title: "Corte"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.30529
 longitude: 9.151193
+title: Corte
+type: location
 ---
 
 Corte (Corti in Corsican) is located at the heart of Corsica and marks

@@ -1,14 +1,12 @@
 ---
-title: "Limbe"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 4.0103
+longitude: 9.2071
+title: Limbe
 type: location
-latitude: 4.010289
-longitude: 9.207058
 ---
 
-Limbe is a great beach resort close to [Douala](/africa/cameroon/douala). In the weekend it can get pretty crowded with people from the big city.
+Limbe is a beach town on Cameroon's Atlantic coast, about an hour by road from [Douala](/africa/cameroon/douala). It fills up at weekends with city dwellers escaping the heat and traffic, but during the week it is a relaxed, low-key place.
 
-
- The beach in town itself is too rocky, but Mile Six has a good black sand beach that is free of oil. There are a few hotels and restaurants.
-
-
- Bush taxis from Douala take an hour and leave from the Blv de la Reunification.
+The beach in town itself is too rocky for swimming, but Mile Six beach has good black volcanic sand and is free of the oil that mars some stretches of coastline. A handful of restaurants and small hotels line the waterfront. Bush taxis from Douala leave from Boulevard de la Reunification and take about an hour.

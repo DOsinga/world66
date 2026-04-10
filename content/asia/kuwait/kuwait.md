@@ -1,14 +1,15 @@
 ---
-title: Kuwait
-type: location
-latitude: 29.3759
-longitude: 47.9774
-image: kuwait.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Q8desert.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Kuwaitsoccer" title="User:Kuwaitsoccer">Kuwaitsoccer</a>
 done:
   country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: kuwait.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Kuwaitsoccer" title="User:Kuwaitsoccer">Kuwaitsoccer</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Q8desert.jpg
+latitude: 29.3759
+longitude: 47.9774
+title: Kuwait
+type: location
 ---
 
 Kuwait is a small, wealthy nation wedged between Iraq and Saudi Arabia on the northwestern shore of the Persian Gulf. It is one of the richest countries on earth per capita, and its capital, [Kuwait City](/asia/kuwait/kuwaitcity), is a gleaming modern metropolis that rose from the desert on oil money. But beneath the skyscrapers and shopping malls lies a culture shaped by centuries of pearl diving, seafaring, and Bedouin tradition.

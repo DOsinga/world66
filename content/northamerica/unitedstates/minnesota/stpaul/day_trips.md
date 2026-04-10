@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in St. Paul"
+title: "Day Trips"
 type: section
 ---
 

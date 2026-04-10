@@ -1,8 +1,14 @@
 ---
-title: "Munster"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.96251
 longitude: 7.625188
+title: Münster
+type: location
 ---
 
-Münster (267.000 inhabitants) is an attractive city in the Münsterland (a flat green region with lots of charming little castles, great for cycling). If you arrive in Münster by train, don't be put off by the unattractive surroundings of the station, but move on to the city center. You would never guess that the center was almost completely destroyed in WW2 because it was rebuilt painstakingly, cobbled streets and all. You'll find lots of churches - most notably the impressive Dom with its treasury - , some interesting museums, the attractive city hall and (a short walk from the center) the palace (Schloss), which looks very nice from the outside. Don't bother to go in, though - these days, there are only functional rooms inside which are used for the university administration. With more than 40.000 students, the University of Münster is the third largest in Germany, and it's probably not a coincidence that Münster has a lively cultural scene - and a lot of nice bars and cafes. (However, if you get there on a Sunday, you might get a different impression, with all the shops closed, the students gone or asleep and hardly a sound can be heard except for the churchbells.) Most of the sights are in the center, within walking distance from each other and connected by shopping streets lined with nice shops and some excellent ice-cream parlours. In December, the center is pleasantly crowded because of the very popular christmas market (which actually consists of four small separate markets).
+Münster (267,000 inhabitants) is an attractive city in the Münsterland, a flat green region dotted with charming little castles and ideal for cycling. If you arrive by train, don't be put off by the unattractive surroundings of the station — move on to the city centre and you'll find a different world entirely.
+
+You would never guess the centre was almost completely destroyed in World War II, because it was rebuilt painstakingly, cobbled streets and all. Churches are everywhere, most notably the impressive Dom with its treasury. The attractive city hall and, a short walk from the centre, the Schloss (palace) are also worth seeing — the Schloss looks very fine from the outside, though these days it houses only university administration offices.
+
+With more than 40,000 students, the University of Münster is the third largest in Germany, and that shows: the city has a lively cultural scene, a good selection of museums, and plenty of nice bars and cafes. Most of the sights are in the centre, within walking distance of each other, connected by shopping streets with excellent ice-cream parlours. In December, the centre comes alive with a popular Christmas market — actually four separate smaller markets spread around the old town.

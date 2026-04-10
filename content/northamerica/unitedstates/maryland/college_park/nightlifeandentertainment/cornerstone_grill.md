@@ -1,39 +1,12 @@
 ---
-title: "Cornerstone grill and loft"
-type: location
-address: "7325 Baltimore Avenue"
-email: "csgrill@comcast.net"
-phone: "301-779-7044"
-type: "Pubs"
-url: "www.cornerstonegrillandloft.com"
+address: 7325 Baltimore Avenue, College Park, MD
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.980657
 longitude: -76.937534
+phone: 301-779-7044
+title: Cornerstone Grill and Loft
+type: poi
 ---
 
-The
-Cornerstone Grill and Loft has tons to offer everyone; as College
-Park’s largest Sports Bar, we boast 17 High-Definition televisions,
-including 2 - 10 foot projectors, airing most NFL, NCAA Football and
-NCAA Basketball games throughout the year.
-
-Not
-feeling the crowded Sports Bar atmosphere? Then try out The Loft, our
-second floor featuring 2 pool tables and a much more relaxed
-atmosphere. The Loft is also available to be rented for private
-functions with full catering available. We are located at 7325
-Baltimore Avenue in the heart of Downtown College Park, and on the
-corner of US Route 1/Baltimore Avenue and Knox Road.
-
-For more information, please feel free to give us a call at 301-779-7044
-
-type: Pubs
-
-
-
-tel: 301-779-7044
-
-url: [www.cornerstonegrillandloft.com](http://www.cornerstonegrillandloft.com/Welcome.html)
-
-address: 7325 Baltimore Avenue
-
-email: csgrill@comcast.net
+College Park's largest sports bar, with 17 high-definition televisions and two 10-foot projectors showing NFL, NCAA football, and basketball. The Loft on the second floor has a more relaxed atmosphere with pool tables and is available for private hire. Located at the corner of US Route 1 and Knox Road in downtown College Park, close to the University of Maryland campus.

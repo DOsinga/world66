@@ -1,8 +1,12 @@
 ---
-title: "Sonora"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 37.9829
+longitude: -120.3822
+title: Sonora
 type: location
-latitude: 30.566734
-longitude: -100.642859
 ---
 
-From Sonora north to Jackson are some of Gold Country's most fabled towns. Step back in time in Sonora, amid early-California adobe structures and Victorian homes. Tour the Tuolumne County Museum, housed in Sonora's 1857 courthouse and jail, for its paintings and Western photographs. A favorite film location is nearby Columbia, preserved as a state historic park. Ride a stagecoach, sip a sarsaparilla, and pan for gold. Explore Hidden Mine, the state's only operating hard-rock mine, which is carved into a hill.
+Sonora is the seat of Tuolumne County and the main town in the southern part of California's Gold Country. Founded during the Gold Rush by Mexican miners from the state of Sonora, it has an appealing historic downtown of early-California adobes, Victorian homes, and a main street lined with shops and restaurants.
+
+The Tuolumne County Museum, housed in Sonora's 1857 courthouse and jail, has Gold Rush-era photographs and artifacts. Nearby Columbia State Historic Park, a few minutes' drive north, preserves an entire Gold Rush town — you can ride a stagecoach, pan for gold, and explore the original buildings. Sonora also makes a good base for visiting Yosemite National Park via Highway 120, the Tioga Pass road (open roughly May to November).

@@ -3,12 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Santa Eulàlia has a good selection of restaurants along the promenade and in the streets behind the harbour.
 
-**Celler C'an Pere **
-
-Oldest restaurant / bar of San Eulalia. Dates back more than 50 years.
-
-address: Calle San Jaime
-
-tel: 971 330 884
+**Celler Ca'n Pere** — The oldest restaurant in Santa Eulàlia, dating back over 50 years. Traditional Ibizan cooking in a rustic setting. Calle San Jaime. Tel: 971 330 884.

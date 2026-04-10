@@ -1,15 +1,10 @@
 ---
-title: "Lake Elmenteita"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -0.44175
 longitude: 36.246022
+title: Lake Elmenteita
+type: location
 ---
 
-Lake Elmenteita is a shallow soda lake near Lake
- Nakuru. The lake is frequented by flamingos, but you
- won’t see as many here as Lake Nakuru or Lake Bogoria.
- This is not a National Park, so you can walk around
- the lake, although there is a whole lot of wildlife. 
- If you stay, the only hotel is *Lake Elmenteita
- Lodge* (# (0367) 5040), which has singles/doubles
- for US$ 40/80 in the low season, and US$ 110/140 inthe high season.
+Lake Elmenteita is a shallow soda lake in the Rift Valley near Lake Nakuru. Flamingos frequent the lake, though not in the vast numbers you will see at Lake Nakuru or Lake Bogoria. The advantage here is that Elmenteita is not a national park, so you can walk freely around the shoreline — and there is still plenty of wildlife, including gazelle, zebra, and pelicans.

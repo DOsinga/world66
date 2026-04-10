@@ -1,17 +1,16 @@
 ---
-title: "Crans Montana"
+title: "Crans-Montana"
 type: location
-latitude: 46.306917
-longitude: 7.469015
+latitude: 46.3069
+longitude: 7.4690
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Travel Guide
+Crans-Montana sits on a wide sunny plateau at 1,500 metres above the Rhône Valley in the canton of Valais, looking south across a panorama that takes in the Weisshorn, the Matterhorn, and half a dozen other great Alpine peaks. It is one of Switzerland's most famous ski resorts, and it knows it. The place has a well-heeled, confident air — good restaurants, international crowd, designer boutiques alongside ski shops. This is not a rustic village that stumbled into tourism. It is a purpose-built resort that has been doing this for a century and does it well.
 
-Discover the most beautiful panorama in the Alps in Crans-Montana! The views over the « Imperial Crown » of the Weisshorn, the Zinalrothorn, the Obergabelhorn, the Matterhorn and the Dent-Blanche are striking.
+The twin towns of Crans and Montana merged their identities long ago, though locals still use both names. The skiing is the main draw in winter: 140 kilometres of marked pistes between 1,500 and 3,000 metres, served by 28 lifts. The glacier above Plaine Morte at 3,000 metres provides reliable snow and exceptional views. A third of the runs can be covered with artificial snow, so early and late season conditions are generally good. The terrain suits intermediate skiers best, with long, wide cruising runs on the main mountain. There is also a substantial snowpark for freestyle skiers and snowboarders.
 
-Crans-Montana, you can ski at altitudes ranging from 1500 right up to the glacier at 3000m. The ski area includes 28 ski lifts – amongst them, the brand new "Nationale Express" chairlift. The area extends over 140 km of marked pistes, a third of which can be covered with artificial snow, so a great ski season is guaranteed in this region which is among the sunniest in Valais.
-Although the ski area attracts the best skiers in the world for Alpine skiing and freestyle competitions, the pistes can be enjoyed by everyone. Beginners are introduced to the joys of skiing and snowboarding on the nursery slopes or on the golf course, which is transformed into a snow-covered playground during winter. Adventure seekers will have a great time in the 50'000m2 snowpark. Cross-country skiers can enjoy 35 km of prepared pistes, ranging from the plateau at 1500 metres, up to the glacier itself.
+What distinguishes Crans-Montana from purely ski-focused resorts is golf. The plateau hosts four courses — the most famous being the Severiano Ballesteros course at the Golf Club Crans-sur-Sierre — and the area draws serious golfers throughout the summer. The resort has hosted the European Masters for decades, one of the most scenic venues on the European Tour. In summer the plateau is popular for hiking and mountain biking too, though the resort's character is firmly set by winter and golf.
 
-The ski area can even be enjoyed by those who don’t ski ! The mountain restaurants and bars have very different atmospheres, and three of them have been renovated for this winter.
-
-Come and spend your winter holidays in Crans-Montana, whether you’re on your own, with the family or with friends. There are a great number of professionals on hand who’ll be pleased to accompany you on tailor-made downhill adventures !
+The south-facing plateau gets exceptional sunshine for an Alpine resort, which is both a pleasure and a slight liability in spring, when snow can turn slushy quickly. It is the sunniest major ski resort in Switzerland, a fact the tourist board mentions often. The trade-off is a relatively low tree line and exposed runs when the weather turns. Come for the views and the sun as much as the skiing.

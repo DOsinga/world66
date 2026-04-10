@@ -1,10 +1,8 @@
 ---
-title: "Getting There in Karnala"
+title: "Getting There"
 type: section
 ---
 
-Karnala is on the Mumbai Goa highway. The distance from Mumbai is about 60kms. It is 120 km from Pune and 13 km from Panvel which is the nearest railway station.
-Maharashtra State Transport buses ply along this too but Karnala is a request stop so be sure to keep the bus conductor/driver informed to stop at Karnala.
+Karnala sits on the Mumbai–Goa highway, about 60 km south of Mumbai and 120 km from Pune. The nearest railway station is Panvel, just 13 km away.
 
-**Contributors**
-July 29, 2006
+Maharashtra State Transport buses run this route but Karnala is a request stop — tell the conductor or driver in advance so they know to stop.

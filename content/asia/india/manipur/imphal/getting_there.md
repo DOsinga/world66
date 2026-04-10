@@ -3,18 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-AIR
+Imphal is remote by Indian standards, but getting there is straightforward if you plan ahead.
 
- Indian Airlines flights connect Imphal with Delhi via Guwahati on Mondays, Wednesdays, Fridays & Saturdays. Imphal is also connected with Calcutta via Agartala and Silchar by Indian flights.
+**By air:** Bir Tikendrajit International Airport (IMF) has daily flights to Delhi, Kolkata, and Guwahati on carriers including IndiGo and Air India. Flying via Guwahati is the most common route and the quickest way to reach the city.
 
- RAIL
+**By rail:** The nearest major railway station is Dimapur in Nagaland, about 215 kilometres and six to seven hours by road. From Dimapur, buses and shared taxis run to Imphal daily. A railway extension to Imphal is under construction as part of the Jiribam-Imphal line.
 
-The nearest railhead is Dimapur-215 km. 
-
-ROAD
-
-Motorable roads connect Imphal with Agartala -465 km, Aizwal-374 km, Dimapur-216 km, Guwahati-579 km, Itanagar-413 km, Kaziranga-346 km, Kohima-123 km, Shillong-643 km. 
-
- BUS SERVICE
-
-Nagaland State Transport runs a semi-luxury bus daily from Dimapur to Imphal (9 hrs). The Manipur State Transport also runs a service, BLUE HILLS TRAVEL, with its centre of operations in Guwahati, with luxury buses connecting all the State capitals of the North-Eastern region.
+**By road:** National Highway 2 (formerly NH-39) connects Imphal to Kohima (137 km), Dimapur (215 km), and Guwahati (579 km). State transport buses and private operators run daily services. The roads through the hills are scenic but slow, with sharp bends and occasional landslides during the monsoon.

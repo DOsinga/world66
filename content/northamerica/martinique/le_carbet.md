@@ -1,8 +1,12 @@
 ---
-title: "Le Carbet"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 14.7167
+longitude: -61.1833
+title: Le Carbet
 type: location
 ---
 
-Travel Guide
+Le Carbet is a small coastal town on the Caribbean side of [Martinique](/northamerica/martinique), tucked between the sea and the green slopes of Mont Pelée. A marker on the pier commemorates Columbus's landing here in 1502 — though the Carib people who were already there might have had a different view of the occasion.
 
-Le Carbet is supposed to be the site of Columbus' 1502 landing and a marker on the pier notes that event. The church in this village was built in 1645. This town has character, with thin streets and local restaurants stretching along the beach. The beautiful botanical gardens as Anse Latouche is a stop for you, where you will see its impressive display of cacti.
+The town has real character: narrow streets, a church dating to 1645, and a string of local restaurants along the dark-sand beach where fishermen still pull in their boats. Just north of town, the botanical gardens at Anse Latouche occupy the ruins of a 17th-century sugar plantation, with an impressive collection of tropical plants and cacti set against the jungle-covered hillside. The painter Paul Gauguin lived briefly in Le Carbet in 1887, and a small museum marks his stay.

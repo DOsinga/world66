@@ -3,6 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Most travelers reach Auckland by plane. Auckland Airport is 25km from the CBD, Wellington 8km and Christchurch 11km. Journey times depend on traffic conditions 
+Auckland Airport sits about 25 km south of the CBD. The SkyBus runs every ten to fifteen minutes into the city centre and is the cheapest option. Shuttle services will drop you at your accommodation but take longer. Taxis and rideshares cost roughly NZ$70-90 to the CBD depending on traffic.
 
-All of New Zealand's international airports and most domestic ones have shuttle services running from the airport to central business districts via the main hotels. At Auckland there is also a shuttle that runs between the international and domestic terminals. These services are cheaper than taking a taxi, but do take longer. Allow plenty of time when booking a shuttle to the airport, or make sure the shuttle company is aware of your check-in time. There are also regular direct bus services between the airports and the CBD that are even cheaper, but these do not set down at hotels.
+Domestic flights connect Auckland to Wellington, Christchurch, Queenstown, and most regional centres. InterCity buses and the Northern Explorer train (to Wellington, three times a week) use the Britomart Transport Centre downtown.

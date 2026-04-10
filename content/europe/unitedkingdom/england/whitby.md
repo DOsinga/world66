@@ -1,16 +1,14 @@
 ---
-title: "Whitby"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 54.487414
 longitude: -0.615511
+title: Whitby
+type: location
 ---
 
-Travel Guide
+Whitby is a fishing town on the North Yorkshire coast, 47 miles from [York](/europe/unitedkingdom/england/york), built into the steep sides of the River Esk where it meets the North Sea. The harbour divides the town in two: the old town on the east side is a tangle of narrow streets climbing the cliff, while the west side has a long sandy beach and the usual seaside amusements.
 
-A beautiful coastal city located in North Yorkshire, United Kingdom, situated 47 miles from York, Whitby is famous for Whitby Abbey, the statue of Capitan James Cook, it's whalebone arch, and it's Dracula museum.
+The ruins of Whitby Abbey dominate the headland above the east cliff, reached by the famous 199 steps from the old town. Bram Stoker stayed here in 1890 and used the abbey and harbour as the setting for Dracula's arrival in England — you can still see why he chose the spot. The graveyard of St Mary's Church, next to the abbey, is atmospheric enough on a grey afternoon.
 
-Whitby is famous for Bram Stoker's story, Dracula, as a large portion of the story is based in this city. Using Whitby Abbey as the backdrop for the chilling tale and the harbor as the first step Dracula put in Britain, you can almost feel the chills going down your spine when you look up at the church that looms on the top of the hill, watching over the town. Walking up the famous 199 steps that lead up the hill to the Abbey, you can hear many people counting each step as they go up, sometimes losing their place as they turn around and look at the breath-taking view of the port.
-
-Whitby is a maze of steep hills and hidden alleys, revealing lovely stores with the most amazing fudge to stores packed with dried teas, jams, and rock candy. It also contains England's No. 1 fish and chip shop, Magpie Cafe, which has been in business since the 1930's.
-
-So take a deep breath of fresh sea air, wolf down some delicious fish and chips, hike up the 199 steps to Whitby Abbey, and sit there amongst the tombstones and reflect on what it would've been like to live in this port during Bram Stokers time. You won't regret it.
+Below the abbey, the old town is a maze of steep alleys lined with jet jewellery shops, fudge sellers, and tea rooms. Captain Cook served his apprenticeship in Whitby, and a statue of him stands on the west cliff near the whalebone arch — a reminder of the town's whaling past. The Magpie Cafe on Pier Road has been serving fish and chips since the 1930s and regularly claims to be the best chippy in England.

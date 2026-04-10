@@ -1,20 +1,14 @@
 ---
-title: "Kourou"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 5.157983
 longitude: -52.64242
+title: Kourou
+type: location
 ---
 
-Kourou is a small town , well kept and contains everything a tourist needs. The beach is nice but sometimes strewn with the outflow of the Amazon basin.
+Kourou is a small, well-kept town on the coast of French Guiana, best known as the home of the Guiana Space Centre — Europe's spaceport, from which Ariane rockets are launched. The space centre dominates the local economy and gives the town a more modern, planned feel than most settlements in the region.
 
+The main attraction for visitors, however, is the **Îles du Salut** — the Salvation Islands, including the notorious Devil's Island, which served as a French penal colony until 1953. Boats depart from the port at the end of Vieux Bourg. The islands are now a nature reserve, with ruins of the prison buildings scattered among coconut palms and howler monkeys.
 
- There are many bars and a couple of half decent pubs. For quick food, go to the Wai Wai restaurant in Place D'Europe next to the Market Place - here they do good Chinese and French food at very good prices to eat in or take away. The best bars are either the Saramaca opposite Wai Wai or the Sports bar next to the Post Office.
-
-
- To get to Cayenne or Saint Laurent, there are many collective taxis which drive around the town picking up people from just about every quartier of town. The main attractions of Kourou are the **Isles du Salut** - Devils Island etc which can be visited from a boat service operating from the port at the end of Vieux Bourg, Avenue de Charles de Gaulle. The fish market is great, in Vieux Bourg and some of teh fish available are extraordinairy!
-
-
- The French Foreign Legion base dominates the town and Legionnaires are always seen around town. Generally it is a very safe place, but watch out at night especially near the beach and in Vieux Bourg. There are many beggars and people will often demand 10 francs or more - don't be intimidated, you are not obliged to give them anything!
-
-
- Things are generally expensive, especially your everyday food items, and when buying souvenirs definitely shop around a bit as prices can differ immensely from place to place!
+The town itself has a decent beach (though it can be littered with debris carried by currents from the Amazon basin), a lively fish market in Vieux Bourg, and a handful of restaurants and bars. The French Foreign Legion has a base here, and legionnaires are a common sight around town. Prices are high — French Guiana uses the euro and the cost of living reflects its status as a French overseas department. Be prepared to pay metropolitan French prices for groceries and everyday items.

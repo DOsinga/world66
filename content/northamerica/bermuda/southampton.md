@@ -1,17 +1,14 @@
 ---
-title: "Southampton"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 32.2652
+longitude: -64.8534
+title: Southampton
 type: location
 ---
 
-Travel Guide
+Southampton is the westernmost parish of Bermuda, strung along the South Shore with some of the island's finest beaches. The parish is quiet and residential compared to Hamilton or St. George's, but the coastline is the reason to come.
 
-Southampton is home to some of the finest beaches in Bermuda, and also a couple of truly lovely hotels.
+Horseshoe Bay is the standout: a long arc of pink sand with red rock outcrops at either end, lifeguards in season, and equipment rentals for the water. Follow the shore path east from Horseshoe Bay and you'll find a series of smaller coves tucked between the rocks — quieter and with no facilities, connected by a clifftop trail. On Cup Match holiday (a public holiday in late July or August), local families camp on the beach with tents and it becomes a genuine street party.
 
-Horseshoe Bay is a must-visit. A large, well-kept and beautiful beach, with lifeguards, rentals and a cafe. Walk all the way along the shore and you can discover hidden coves that are connected to each other, and can be accessed through the water or along the road.
-
-On the Cup Match holiday, look for the blue tents of local families enjoying camping out under the stars and creating a real party atmosphere!
-
-Hotels in the area include the gorgeous Fairmont Southampton Princess, and the Elbow Beach. Smaller and more intimate, The Reefs is ideal for Honeymooners.
-
-Hire a moped and explore! The South Shore Road runs all the way through Southampton and will take you towards Hamilton or The Dockyard easily. Or jump on a pink bus.
-
+South Shore Road runs the length of the parish and is easily covered on a rented moped — the standard way of getting around Bermuda.

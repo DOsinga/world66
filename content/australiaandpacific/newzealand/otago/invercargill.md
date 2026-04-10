@@ -1,20 +1,14 @@
 ---
-title: "Invercargill"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -46.411847
 longitude: 168.347063
+title: Invercargill
+type: location
 ---
 
-Travel Guide
+Invercargill is the southernmost city in New Zealand and the gateway to some of the country's wildest landscapes. Sitting at the bottom of the South Island with the Roaring Forties whipping in from the Southern Ocean, it has a bracing, end-of-the-world quality that grows on you fast.
 
-**Invercargill** is the most southern city in New Zealand.
+The city itself is a tidy grid of wide streets and solid Victorian and Edwardian buildings — a legacy of the wool and timber wealth that built the Southland region. The [Southland Museum](https://southlandmuseum.co.nz/) in Queens Park is worth a visit for its tuatara breeding programme and displays on the region's history, from Maori settlement to the Scottish pioneers who gave the area its distinctive rolling Rs.
 
-Locals have it that penguins wonder the streets during the winter, even during the summer the visitor can get a taste of the forties wind.
-
-**Invercargill** is home to the **Southland Museum** which can be visited in a day.
-It has a good history of the Southland region with displays and documents over 2 levels.
-
-This is an interesting stop off for those travelling the **Southern Scenic Route** which runs along a crescent at the bottom of South Island.
-
-More information on
-*Invercargill Travel*
+Most travellers pass through Invercargill on the [Southern Scenic Route](/australiaandpacific/newzealand/otago/invercargill/day_trips), the spectacular coastal road that loops along the bottom of the South Island. It is also the jumping-off point for [Stewart Island](/australiaandpacific/newzealand/stewartisland), New Zealand's third island, where kiwi outnumber people and the night sky is among the darkest on earth.

@@ -1,8 +1,10 @@
 ---
-title: "Taroko Gorge"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.157617
 longitude: 121.617428
+title: Taroko Gorge
+type: location
 ---
 
 Taroko Gorge is Taiwan's most spectacular natural sight — a marble canyon carved by the Liwu River, with walls rising hundreds of metres on either side of the road. The gorge sits at the heart of Taroko National Park, which stretches from sea level up into the high mountains of the Central Range.

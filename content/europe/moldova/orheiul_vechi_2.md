@@ -1,8 +1,10 @@
 ---
-title: "Orheiul Vechi"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 47.305712
 longitude: 28.974868
+title: Orheiul Vechi
+type: location
 ---
 
 Orheiul Vechi is a natural and archaeological reserve about 60 km north of Chisinau, set in a dramatic limestone canyon where the Raut river loops back on itself. The site has been inhabited for thousands of years — by Dacians, Mongols, Tatars, and others — but what draws visitors today are the cave churches and medieval fortifications carved directly into the cliff face.

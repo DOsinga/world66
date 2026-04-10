@@ -1,14 +1,16 @@
 ---
-title: "Gdansk"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 54.352
+longitude: 18.6466
+title: Gdansk
 type: location
-latitude: 54.428803
-longitude: 18.798327
 ---
 
-Gdanks is an amazingly beautiful city in spite of (or thanks to?) it's turbulent history. There are not many places in the world where the history of our time seems more immediate. After all it was here in September 1939 that the hell of the **Second World War started**, the war that was to realise Hitler's mad plans to make Europe and half the world into the dominion of his 'thousand-year' Third Reich.<br> 
+Gdansk is one of the most historically loaded cities in Europe — and one of the most beautiful. It was here, on 1 September 1939, that the Second World War began, with German guns opening fire on the Polish garrison at Westerplatte. And it was here, in 1980, that Lech Walesa climbed over the fence of the Lenin Shipyard and the Solidarity trade union was born — the movement that would eventually bring down communist rule across Eastern Europe. Two of the defining events of the twentieth century, in the same city.
 
-It was also here that the **Solidarity movement was born**, the movement that would bring about the victory of democracy in this part of Europe, which had been subjected, as a result of the Yalta Agreement, to the domination of another sick totalitarian ideology 
+The old town is a revelation. Virtually every building was destroyed in the fighting of 1945, yet the Poles rebuilt it all — the tall burgher houses along Dluga Street, the Gothic towers, the merchant facades leaning over the Motlawa River — stone by stone, from old engravings and photographs. What you see today is a reconstruction, but it is a strikingly beautiful one, and the scale and detail of the effort give it its own kind of emotional weight.
 
-The city center was completely destroyed during WW-II. In the Dlugi Targ (Long Market) with the beautiful coloured houses, only two were still standing after the big bombardments! 
+The Royal Way runs from the Upland Gate through the Golden Gate and along Dluga Street to the Long Market, a sequence of set-pieces that few European city centres can match. Beyond it, Mariacka Street — lined with amber shops and outdoor cafes — leads to St Mary's Church, the largest brick church in the world. The waterfront along the Motlawa, with its cranes and granaries, completes the picture.
 
-After the war, these houses were all rebuilt stone for stone.
+Gdansk is also the gateway to the Tri-City (Trojmiasto): the elegant resort of Sopot to the north, and Gdynia beyond it, with its interwar modernist architecture and working port. All three are connected by frequent commuter rail and easy to explore in a day or two.

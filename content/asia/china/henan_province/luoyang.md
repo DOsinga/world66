@@ -1,14 +1,16 @@
 ---
-title: "Luoyang"
+title: Luoyang
 type: location
-latitude: 34.619654
-longitude: 112.447705
+latitude: 34.6197
+longitude: 112.4477
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Located in the middle reaches of the Yellow River, Henan Province, the ancient Luoyang city is well known as the ancient "City of Nine Capitals" and "City of Peony". With its historic background, you can always find many glorious palaces,temples and caves in Luoyang. Here, you can visit the famous White Horse Temple, the Guanlin Temple, the Longmen Caves and the Wancheng Park. In every April, you can come and appreciate the beautifuland elegant peonies. 
+Luoyang is one of China's great ancient capitals, a city where imperial dynasties rose and fell for over a thousand years. Sitting on the banks of the Luo River in western Henan Province, it served as the capital for thirteen dynasties, making it one of the oldest continuously inhabited cities in China.
 
-See also: **Luoyang
+The star attraction is the Longmen Grottoes, a UNESCO World Heritage Site where tens of thousands of Buddhist statues were carved into limestone cliffs along the Yi River starting in 493 AD. The White Horse Temple, founded in 68 AD, holds the distinction of being the first Buddhist temple built in China. Between these two sites alone, Luoyang tells a story of Buddhism's arrival and flourishing in the Middle Kingdom that you simply cannot get anywhere else.
 
-**http://www.world66.com/asia/northeastasia/china/luoyang
+Every April the city erupts into color during the Peony Festival. Luoyang has cultivated peonies for over 1,500 years, and the flower has become inseparable from the city's identity. Parks and gardens overflow with hundreds of varieties in whites, yellows, pinks, and the prized dark purple-black blooms. If you can time your visit for mid-April, you should.
 
-Minor corrections on 02 January 05
+Modern Luoyang is a mid-sized Chinese city without the polish of Beijing or Shanghai, but that is part of its appeal. The old town area around Lijing Gate retains some character, and the food scene leans into Henan's hearty, wheat-based cuisine. Luoyang water banquet, a multi-course procession of soups and braised dishes, is the local specialty you should not miss.

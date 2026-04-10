@@ -1,19 +1,14 @@
 ---
-title: "Wausau"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 44.9598
+longitude: -89.6273
+title: Wausau
 type: location
-latitude: 44.959786
-longitude: -89.627279
 ---
 
-Travel Guide
+Wausau is an unassuming central Wisconsin city that punches above its weight for outdoor recreation. The Wisconsin River runs through the centre of town, and a series of rapids just below the downtown bridge has made Wausau one of the top whitewater kayaking venues in the Midwest — the city has hosted numerous national and world championships over the past two decades.
 
-Wausau is the county seat of Marathon County, Wisconsin. The city is located at 44°57'N 89°38'W with an altitude of 364.2 meters. The Wisconsin River divides the city. Wausau is 180 miles east of Minneapolis, Minnesota. According to the 2000 census, Wausau had a population of 38,426 people. The city is located adjacent to and partially within the Town of Wausau.
+The cultural highlight is the Leigh Yawkey Woodson Art Museum, known internationally for its annual "Birds in Art" exhibition, which draws wildlife artists from around the world. Rib Mountain State Park, just south of town, offers hiking trails and one of the highest points in Wisconsin — and in winter, the mountain becomes a popular ski area.
 
-The Wausau metropolitan area had a 2000 census population of 78,664 and, besides the City of Wausau, includes Schofield, Rothschild, Weston, Kronenwetter, and the town of Rib Mountain. The city forms the core of the United States Census Bureau's Wausau MSA, which includes all of Marathon County (2000 population: 125,834).
-
-The industries of Wausau include paper manufacturing, insurance, home manufacturing, and tourism.
-
-Wausau is home to the Leigh Yawkey Woodson Art Museum, famous for its "Birds in Art" collection. Wausau is also home to a world-class kayak course, having hosted numerous regional, national, and world competitions over the last two decades.
-
-More information on
-*Wausau Travel*
+Wausau's downtown has a solid selection of locally owned restaurants and a pleasant riverwalk. It is a practical base for exploring Marathon County's lakes and forests, with good highway connections in all directions — Minneapolis is about three hours west, and the Door County peninsula is roughly the same distance to the east.

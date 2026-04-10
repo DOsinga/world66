@@ -1,22 +1,12 @@
 ---
-title: "Littleton"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.3045
+longitude: -71.7762
+title: Littleton
 type: location
-latitude: 39.613321
-longitude: -105.016649
 ---
 
-Travel Guide
+Littleton is a small town in New Hampshire's North Country, serving as the commercial hub for the surrounding mountains and lakes region. It sits roughly equidistant between the ski resorts of Franconia Notch and the towns of North Conway and Burlington, Vermont.
 
-The Littleton area is truly a destination. It is the center for
-business, unique shopping experiences, recreation, cultural arts,
-medical care, education and countless other services in New Hampshire's
-North Country. The quality of life attracts many to move here and is
-envied by all who visit. The charm of all four seasons provides ample
-opportunity to enjoy each to its fullest; whether you walk past homes
-well preserved from the late 1800's or drive and park to take our
-historic walking tour- browse the retail shops, bookstores and art
-galleries eclectically lined along Main Street and its parallel, Mill
-street along the riverfront where there is fine shopping and buildings
-that show up in historic photos. A new walking bridge provides a
-community connection and a scenic downtown river walk opportunity- as
-it does for biking.
+Main Street runs along the Ammonoosuc River and has been carefully preserved since the late 1800s — the historic buildings now house retail shops, bookstores, art galleries, and cafes. A walking bridge connects the town to a riverfront path popular with cyclists and pedestrians. Four distinct seasons define life here: skiing and snowshoeing in winter, leaf-peeping drives in autumn, hiking in summer on the trails of the White Mountains nearby.

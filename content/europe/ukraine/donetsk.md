@@ -1,14 +1,14 @@
 ---
-title: "Donetsk"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 48.0159
+longitude: 37.8029
+title: Donetsk
 type: location
-latitude: 47.921291
-longitude: 37.780983
 ---
 
-On the headwaters of the Kalmius River, Donetsk is the most important town of the South-East of the Ukraine. Donetsk has always been an industrial city. In 1872 an ironworks was founded there by a Welshman, John Hughes (from whom the town's pre-Revolutionary name Yuzovka was derived), to produce iron rails for the growing Russian rail network. Later steel rails were made. The plant used coal from the immediate vicinity, and both coal mining and steel making developed rapidly. By 1914 there were 4 metallurgical plants, 10 coalpits, and a population of about 50,000. 
- 
+Donetsk is the largest city in eastern Ukraine's Donbas region, an industrial centre built on coal and steel. Founded in 1869 by the Welsh industrialist John Hughes — the city was originally called Yuzovka after him — it grew rapidly around ironworks and coalmines. Renamed Stalino after the revolution, it became Donetsk in 1961.
 
-After the October Revolution (1917), Yuzovka was renamed Stalino and, in 1961, Donetsk. Heavy destruction in World War II led to postwar modernization and an increase in the scale of industry. Subsequent growth has been rapid and sustained. There are now more than 40 coalpits within the town limits. A major integrated coking, iron-smelting, and steel-making plant makes modern Donetsk one of the largest metallurgical centres of Ukraine. 
- 
+The city was heavily damaged in World War II and rebuilt in Soviet style, with wide boulevards, open spaces (many left undeveloped because of mining subsidence beneath), and a long main street running from the railway station to the steelworks. Before 2014 it was a city of about a million people, with a university, theatres, a philharmonic hall, and the Donbas Arena football stadium.
 
-Donetsk is not a very pretty town. All over town your will find big open spaces. Due to the danger of subsidence caused by mining these were left open. The principal street, from the railway station to the steelworks, is 5.5 miles (9 km) long, with the main shops, hotels, and administrative buildings. There are a university; polytechnic, medical and trade institutes; and more than 30 scientific research establishments, including a branch of the Academy of Sciences of Ukraine. Cultural amenities include several theatres and a philharmonic hall.
+Since 2014, Donetsk has been at the centre of the armed conflict in eastern Ukraine and is not accessible to ordinary travellers. The information on this page reflects the city before the conflict.

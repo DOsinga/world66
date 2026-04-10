@@ -1,11 +1,12 @@
 ---
-title: "Buga"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 3.9001
+longitude: -76.302
+title: Buga
 type: location
-latitude: 3.900058
-longitude: -76.302013
 ---
 
-Travel Guide
+Buga is a small colonial city in the Valle del Cauca, set between green mountains about 75 kilometres east of [Cali](/southamerica/colombia/cali). It is best known as a pilgrimage destination — the Basílica del Señor de los Milagros draws millions of Colombian visitors each year — but the surrounding countryside makes it worth a stop for anyone travelling through the region.
 
-The small colonial city of Buga in the heart of the Valley del Cauca is surrounded by luscious green mountains with nature reserves, rivers and lakes. Activities in the region include bird watching, wind and kite surfing, hiking, paragliding, swimming, rock climbing.
-Also, Buga's proximity to the city of Cali as well as the Pacific coast makes it a perfect starting point to explore the region.
+The town itself has a pleasant, low-key colonial centre with whitewashed buildings and a leafy plaza. The Laguna de Sonso, a wetland reserve nearby, is one of the best birdwatching spots in the valley. The mountains above town offer hiking, paragliding, and access to nature reserves along the western slope of the Cordillera Central.

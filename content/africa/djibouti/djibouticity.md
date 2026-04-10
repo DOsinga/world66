@@ -1,8 +1,10 @@
 ---
-title: "Djibouti City"
+title: Djibouti City
 type: location
-latitude: 11.5880
+latitude: 11.588
 longitude: 43.1456
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Two thirds of Djibouti's population lives in the capital, and everything of consequence in the country flows through it. Djibouti City is not a beautiful city — it is hot, dusty, and sprawling — but it has a scruffy energy and serves as the only practical base for exploring the country.

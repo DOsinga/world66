@@ -1,11 +1,9 @@
 ---
-title: "Beaches in Punta Cana"
+title: "Beaches"
 type: section
 ---
 
-Punta Cana in the [Dominican Republic](/northamerica/dominicanrepublic) is such a popular travel destination mainly because of its stunning beaches. It is known that Punta Cana has some of the most beautiful beaches in the world, and these beaches provide excellent opportunities for relaxation as well as a wide range of outdoor activities.
-
-The beaches in [Punta Cana](/northamerica/dominicanrepublic/punta_cana) are very well-maintained. Most of them have fine white sand, and they are lined with lots of tall palm trees that offer ample shade. The calm and clear waters around the beaches are perfect for swimming as well as other [water activities](/northamerica/dominicanrepublic/punta_cana/things_to_do), including boating, paragliding and sailing. There are also a number of centers on these beaches that provide instructions for scuba-diving and other water sports. Those who are vacationing in Punta Cana with their children should make sure that they visit the right beaches, because some of the beaches have very strong waves and rocks. Here are some of the most popular beaches in Punta Cana:
+Punta Cana's beaches stretch for about 50 km along the eastern coast, with fine white sand and calm water protected by an offshore reef. The main beach area runs from Bavaro in the north to Cap Cana in the south.
 
 **Punta Cana Beach**
 

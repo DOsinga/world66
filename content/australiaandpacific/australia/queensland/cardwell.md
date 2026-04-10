@@ -1,18 +1,14 @@
 ---
-title: "Cardwell"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -18.2706
+longitude: 146.0164
+title: Cardwell
 type: location
-latitude: -18.270588
-longitude: 146.016354
 ---
 
-Travel Guide
+Cardwell is a small coastal town on Queensland's Tropical North coast, sitting between the Pacific Highway and the Coral Sea about halfway between Townsville and Cairns. With a population of around 1,200, it moves at a pace that matches the surrounding tropics.
 
-Cardwell is part of Cardwell Shire. It lies on the main transport routes along the east coast and is a popular tourist destination. Hinchinbrook Island lies off the shore.
+The main draw is Hinchinbrook Island, visible from the waterfront. The island is the largest national park island in the world, protecting pristine rainforest that tumbles down to mangroves and beaches. The Thorsborne Trail — a 32 km multi-day walk along the island's eastern coast — is one of Australia's finest wilderness hikes, accessible only by boat from Cardwell. Permits are required and numbers are strictly limited.
 
-The first Europeans settled in the area in January 1864 in order to create a port which they called "Port Hinchinbrook." Subsequently the town was renamed after Edward Cardwell, 1st Viscount Cardwell.
-
-The Cardwell Shire Story is about this place. The aboriginal language boundary of Dyirbal and Warrgamay was to the north, between Tully and Cardwell.
-
-Population: around 1200
-
-Plan a nature travel Australian vacation itinerary. Major international and domestic transportation hubs are Cairns and Townsville, Queensland. Web search Cardwell, Tully and Mission Beach. Allow a minimum of five (5) days to explore the Tropical Cassowary Coast.
+The town itself has a waterfront park popular for fishing, and the Cardwell Forest Drive winds through rainforest to various waterfalls and swimming holes. The Edmund Kennedy National Park, on the southern outskirts, commemorates explorer Edmund Kennedy's fateful 1848 expedition.

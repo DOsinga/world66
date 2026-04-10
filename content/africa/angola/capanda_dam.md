@@ -1,12 +1,15 @@
 ---
-title: "Capanda Dam"
-type: location
-latitude: -9.795746
-longitude: 15.466835
+category: Sight
+done:
+  location_cleanup: '2026-04-09'
+latitude: -9.7957
+longitude: 15.4668
+title: Capanda Dam
+type: poi
 ---
 
-Travel Guide
+The Capanda Dam is Angola's largest hydroelectric installation, spanning the Kwanza River in [Malanje](/africa/angola/malanje) province. Built with Brazilian and Chinese involvement over several decades, it is one of the country's primary sources of electricity.
 
-The Capanda Dam is one of the major electrical power sources of the country. It is situated in the Malanje province. This is one of the dams in the Kwanza river, the biggest river of Angola. From Malanje you drive to Cacuso and then enter to the left. 50km on a good track you pass the famous "Pedras Negras" and another 30km to Capanda.
+To reach it from [Malanje](/africa/angola/malanje), drive to Cacuso and turn left. About 50 km along a reasonable track you pass the striking rock formation known as Pedras Negras; the dam is another 30 km beyond that.
 
-Unfortunately you cannot enter the area to visit the dam. The Angolan police and military are still too much afraid of all foreigners. Even showing some public pictures from Google Earth could not convince the police officer at the entrance gate that they cannot hide the dam. It will change the day the road is ready and when they figure out that they can make money with guided tours...
+Access to the dam site itself is restricted — the facility is a militarily sensitive installation and visitors are not admitted. The drive through the surrounding landscape is scenic, and Pedras Negras is worth stopping for in its own right.

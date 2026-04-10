@@ -1,14 +1,14 @@
 ---
-title: "Banjarmasin"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -3.3188
+longitude: 114.5926
+title: Banjarmasin
 type: location
-latitude: -3.31875
-longitude: 114.592583
 ---
 
-Travel Guide
+Banjarmasin is built on water. The capital of South Kalimantan sits at the confluence of the Barito and Martapura rivers, and much of daily life still happens on those waterways — people travel by boat, buy their vegetables from floating vendors, and build their homes on stilts above the current. It is one of the few cities in Borneo where the river culture feels genuinely alive rather than performed for tourists.
 
-**Banjarmasin** is addressed as city of the water and also one of the Venice in Asia. Becomes provincional city of South Kalimantan, most of daily activities in this city happened in Barito and Kapuas rivers. Locals built houses by the rivers, buying and selling stuffs by the rivers and visit other places also by the rivers. Usually they take traditional boats powered by engine named* klotok*.
+The city is sometimes called the "Venice of the East," which is an exaggeration, but the boat trips are real. The most rewarding thing you can do here is hire a klotok — a traditional wooden motorboat — before dawn and head out to the floating markets while the mist is still on the water and the sellers are doing business.
 
-It's a worth trip to take a klotok trip early morning and visit two of big floating markets in Banjarmasin, named Pasar Kuin and Lokbaintan. There can be seen before the sunrise, people gathers using boats and do transaction for fresh veggies, fruits, meats and fish and several daily utensils, from tooth paste, shampoo, soya sauce to condensed milk!
-
-And not to be missed is about floating resto among the boats of veggies and fruits. You can pick the snacks from your boat and order their local light soup called *Soto Banjar*, served with rice cake named *ketupat*.
+Banjarmasin is not a polished destination. The city itself is hot, congested, and not especially attractive. But it is an honest, working Borneo city, and the river life around it is unlike anywhere else in Indonesia.

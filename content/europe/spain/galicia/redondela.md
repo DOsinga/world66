@@ -1,11 +1,14 @@
 ---
-title: "Redondela"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.284221
 longitude: -8.608599
+title: Redondela
+type: location
 ---
 
-Redondela, this council belongs to the region of Vigo and it is situated in the south west of the province of Pontevedra, in the inner side of the ria of Vigo. The sea willingly bestows its fruits, especially the "choco" (small cuttlefish) -which is the patron to a popular festival- on its inhabitants. Amongst its yearly gastronomic exaltation fairs, the popular Festa da Coca (Coca's Festival) also stands out. The impressive viaduct of the railway Vigo-Ourense-Madrid is one of the most important constructions in the council. From the Middle Age, and as a remembrance of the noble families who lived here. Built by Pedro Floriani, how committed suicide from his very own bridge due to the people of the village saying that the bridge will never hold up the weight of a train and in the long run it did.
+Redondela is a small town on the inner shore of the Ría de Vigo, in the southwest corner of Galicia. It is best known for its dramatic railway viaducts — two 19th-century stone arched bridges that carry the main Vigo–Ourense line high above the town. Their reflection in the ría below is a striking image.
 
-**Contributors**
-March 09, 2005
+The town sits on the Camino Portugués, the Portuguese route of the Camino de Santiago, and pilgrim traffic passes through. Redondela's Festa da Coca, a midsummer celebration involving a dragon effigy, is one of the livelier local festivals in the province.
+
+The ría coast here is mussel and clam country — the *choco* (small cuttlefish) is the local specialty and the subject of its own gastronomy festival. Redondela is a short train or bus ride from [Vigo](/europe/spain/galicia/vigo) and makes a reasonable day trip.

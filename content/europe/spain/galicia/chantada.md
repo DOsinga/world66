@@ -1,53 +1,16 @@
 ---
-title: "Chantada"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 42.6096
+longitude: -7.7706
+title: Chantada
 type: location
-latitude: 42.609622
-longitude: -7.770586
 ---
 
-** Chantada** is the agricultural capital of the Miño. From the 'Serra do Faro' the lands
-of Chantada lie crossing the deep rivers up to the vineyards of the 'Ribeiras
-do Miño'. The village of Chantada, the stately home of the Counts of Lemos in
-the past is the centre of a strong wine producing, agricultural and livestock
-region. The lands of Chantada receive the Miño making the most of its strength
-and energy thanks to the Embalse de Belesar (river dam), the largest in Galicia
-(second largest in Spain). Depending on the water level it is possible to
-travel on a boat from here to Portomarin. The wide margins and the deep flow
-make the Miño an ideal place for practising various water sports. The
-landscapes are of great interest and walking through the different hamlets such
-as Belesar, A Sarinha and Nogueira de Miño. A beautiful roman roadway
-goes through Lincora and continues along a bridge that was submerged during the
-construction of the hydroelectric power station. The typical landscapes of
-sculptured riverbanks by the mountain terraces dyed by the different colours of
-the vineyards obliges admiration and delight. Here is where they collect
-Chantada's variety of Ribeira Sacra Wines, of great quality and increasing prestige.
+Chantada is a small agricultural town in the heart of Galicia's wine country, sitting above the Miño river valley where it broadens into the Embalse de Belesar — the largest reservoir in Galicia. The landscape here is dramatic: terraced vineyards cling to steep riverbanks, ancient hamlets perch over the water, and the Serra do Faro rises behind it all.
 
-Chantada is on ‘ok’
-village. It has a few shops of no significant note. The old quarter is worth a
-visit with its colonnaded shops, typical of the region, old church and
-‘cultural house’.
+The town itself is compact and unhurried. The old quarter has colonnaded arcades typical of Galician market towns, a Romanesque church, and a cultural centre. Don't expect grand monuments — Chantada's appeal is its setting and its wine.
 
-In the surrounding
-countryside are also places on note to visit, like the old village of
-Belesar,
-where some streets are so narrow a car cannot drive down them. From
-Belesar you can take a catamaran down the river Miño to O Peeares. The
-places of
-worship like the ‘Ermita de Faro’ and the abandoned church at
-Pesqueiras. You
-can follow the walking route of the old Roman road from Chantada to
-Monforte de
-Lemos.
+The surrounding area rewards exploration. The village of Belesar, partly submerged when the reservoir was created, has lanes too narrow for cars and views over the water. A section of Roman road runs from Chantada toward Monforte de Lemos, passing through Lincora and over a bridge that now disappears into the reservoir depending on the water level. The hilltop Ermita do Faro and the abandoned riverside church at Pesqueiras are worth seeking out.
 
-A local market is held on every 5 th and 21 st of
-every month. Two local fiestas of note are one for the local wine ‘Ribeira
-Sacra’ held on the second weekend of March and the ‘VIRXE DO CARME’, in which cows pull carts, which
-depict events from local history. This is on the 3 rd weekend of
-August.
-
-**Contributors**
-March 10, 2005
-
-June 25, 2005
-
-June 27, 2005
+Chantada produces wines under the [Ribeira Sacra](https://en.wikipedia.org/wiki/Ribeira_Sacra) DO — predominantly Mencía reds from those terraced vineyards. A local wine festival is held on the second weekend of March. The town's main fiesta, the Virxe do Carme, takes place on the third weekend of August, featuring ox-carts depicting scenes from local history. A street market fills the town on the 5th and 21st of every month.

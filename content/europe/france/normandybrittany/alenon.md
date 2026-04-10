@@ -1,21 +1,14 @@
 ---
-title: "Alençon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 48.431206
 longitude: 0.091137
+title: Alençon
+type: location
 ---
 
-Travel Guide
+Alençon sits between Paris and Mont-Saint-Michel, less than two hours from both, making it a convenient stop on the way to the Normandy coast. It is the main town of the Orne department and the gateway to the area known as the Pays d'Alençon, which straddles Normandy and the Pays de Loire.
 
-Situated between Paris
-and Mont Saint Michel, and less than two hours away from both, Alençon and the area called "Pays d'Alençon" straddles the departments of
-Orne (Normandy) and Sarthe (Pays de Loire).
+The town is best known for its lace — Alençon point lace was once the finest in France, and the Musée des Beaux-Arts et de la Dentelle has a good collection. The old quarter has half-timbered houses and the Basilica of Notre-Dame, a fine example of Flamboyant Gothic. Sainte-Thérèse of Lisieux was born here in 1873, and her birthplace is now a pilgrimage site.
 
-The Pays d'Alençon is made up of seven distinct regions: Alençon (the
-main town of the Orne) Carrouges, Sées,
-Courtomer, Essay, Le Mêle-sur-Sarthe and Mamers.
-
-Each offers a wide selection of accommodation, popular leisure
-activities, natural attractions and historic sites to the visitor.
-
-Chateaux, gardens, outdoor activities (rambling, cycling, horse riding, canoeing), forest walks and medieval history are the main tourist attractions of this area.
+The surrounding countryside is excellent for rambling, cycling, and horse riding. The Forest of Écouves to the north is the highest point in western France. Nearby Sées has a striking cathedral, and the Château de Carrouges is one of Normandy's best medieval fortresses.

@@ -1,20 +1,16 @@
 ---
-title: "Islands"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.9033
 longitude: 8.5319
+title: Borromean Islands
+type: location
 ---
 
-The Borromean Islands are the highlight of any visit to Lago Maggiore. Ferries run regularly from [Stresa](/europe/italy/piemonte/stresa) and Baveno.
+The Borromean Islands are the finest thing about Lago Maggiore — three small islands in the middle of the lake, each with its own character, all belonging to the same aristocratic family that has owned them for six centuries. Ferries run regularly from [Stresa](/europe/italy/piemonte/stresa) and Baveno, and a day hopping between the islands is one of the most pleasurable excursions in the Italian Lakes.
 
-**Isola Bella**
+**Isola Bella** is the showpiece. In 1670 Count Vitaliano Borromeo transformed a bare rock into an elaborate baroque fantasy: a ten-terraced garden rising from the water like a wedding cake, planted with exotic trees, statuary, and fountains, with a grandiose palace at its centre. The palace's state rooms are crammed with tapestries, paintings by Rubens and Van Dyck, and furniture that hasn't moved in three hundred years. The white peacocks strutting the garden terraces are theatrical enough to seem staged.
 
-In 1670 Count Vitaliano Borromeo started the construction of a monumental baroque palace, and began landscaping the gardens for which the island became famous. The stately Borromeo residence contains priceless masterpieces: tapestries, furniture, and paintings by great masters. The gardens bloom with every variety of trees and rare flowers which, in their succession of ornate terraces, provide a classic example of the celebrated "Italian garden" of that period.
+**Isola Madre** is the largest and the most atmospheric. The 16th-century palazzo here is quieter than Isola Bella's — the rooms are given over to a remarkable collection of puppet theatres and dolls' houses from the 18th and 19th centuries, including a puppet theatre that Napoleon allegedly commissioned. The garden is wilder and more romantic than Isola Bella's, full of azaleas, camellias, rhododendrons, and ancient Kashmir cypresses. More white peacocks, parrots, and pheasants wander freely among the visitors.
 
-**Isola Madre**
-
-The largest of the Borromeo islands and the most atmospheric, with its gardens of exotic plants where white peacocks, parrots, and pheasants roam freely. Isola Madre is particularly famous for its flourishing azaleas, rhododendrons, and camellias. The 16th-century palace was opened to the public in 1978 and houses a notable collection of puppet theatres from the 18th and 19th centuries.
-
-**Isola dei Pescatori**
-
-Fishermen's Island owes its name to its inhabitants. The charm of this island lies in the simplicity of its houses and narrow streets. Good restaurants offer the opportunity to taste the best fish from the lake.
+**Isola dei Pescatori** is the odd one out — a real working fishing village, not a garden showpiece. Its narrow lanes, drying nets, and tumbledown houses haven't changed much in a century. There are several restaurants serving fresh lake fish, and unlike the other two islands it has a permanent population. Come in the early morning or evening, when the day-trippers are gone and the place feels like itself.

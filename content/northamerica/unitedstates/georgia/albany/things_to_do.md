@@ -1,5 +1,5 @@
 ---
-title: "Things to Do in Albany"
+title: "Things to Do"
 type: section
 ---
 

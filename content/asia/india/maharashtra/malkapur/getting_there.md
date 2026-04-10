@@ -1,15 +1,6 @@
 ---
-title: "Getting There in Malkapur"
+title: "Getting There"
 type: section
 ---
 
-Malkapur is on Central Railway Route any train moving from Bhusawal towards Akola has a stop at Malkapur.
-
-From Mumbai there are several daily trians.
-
-From Pune you can reach here by daily trains like Maharashtra Express and Azad Hind Express.
-
-You can also reach here by Bus from Mumbai, and Pune.
-
-**Contributors**
-November 17, 2006
+Malkapur is on the Central Railway line between Bhusawal and Akola. Trains from Mumbai and Pune stop here daily — the Maharashtra Express and Azad Hind Express both serve the route. Buses also connect Malkapur to Mumbai and Pune.

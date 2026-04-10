@@ -1,15 +1,14 @@
 ---
-title: "Colorado Springs"
+title: Colorado Springs
 type: location
-latitude: 38.833958
-longitude: -104.825348
+latitude: 38.834
+longitude: -104.8253
+done:
+  location_cleanup: 2026-04-07
 ---
 
-A big city, sprawling across the mountains and plains, Colorado Springs has a bit of something for everyone. From the conservative christians with Focus on the Family to the New Agers in Manitou Springs, there's a spot for everyone. Downtown has undergone a renaissance in the past 10 years or so, and is now the hip place to be at night, with bars, restaurants, performance venues, and coffee shops. In the summer, check out the Colorado Springs Sky Sox, a feeder team for the Colorado Rockies. You'll see some rising stars here. In the winter, don't miss Colorado College Hockey, at the World Arena- Go Tigers! The World Arena is also host to a myriad of events, from rock concerts to comedians. Don't miss an opportunity to get outside- climbing, biking and hiking are very popular in the Garden of the Gods and Cheyenne Canyon.
+Colorado Springs sits at the base of Pikes Peak on the edge of the Great Plains, a sprawling city of half a million people with the Rocky Mountains rising abruptly to the west. The setting is spectacular — red rock formations jut from the foothills, the air is thin and dry, and the views of the Front Range from almost anywhere in town are hard to beat.
 
-## Destinations in Colorado Springs
+The main draw is the outdoors. [Garden of the Gods](/northamerica/unitedstates/colorado/coloradosprings/gardenofgods), a free public park of towering red sandstone formations, is one of the most striking natural landscapes in [Colorado](/northamerica/unitedstates/colorado). [Pikes Peak](/northamerica/unitedstates/colorado/coloradosprings/pikespeak), the 14,115-foot mountain that inspired "America the Beautiful," can be driven, hiked, or reached by cog railway. [Manitou Springs](/northamerica/unitedstates/colorado/coloradosprings/manitousprings), a small artsy town tucked into the foothills, makes a good base for exploring both.
 
-[Pikes Peak](/world/northamerica/unitedstates/colorado/coloradosprings/pikespeak)
-[Pikes Peak](/world/northamerica/unitedstates/colorado/coloradosprings/gardenofgods/pikespeak)
-[Garden of Gods](/world/northamerica/unitedstates/colorado/coloradosprings/gardenofgods)
-[Manitou Springs](/world/northamerica/unitedstates/colorado/coloradosprings/manitousprings)
+The downtown has come alive in recent years with restaurants, bars, and live music venues. The Arkansas River, about 35 minutes south, offers some of the best whitewater rafting in the state, from gentle family floats to serious Class V runs through the Royal Gorge. In summer, Territory Days in Old Colorado City kicks off the season with three days of street vendors and local bands on Memorial Day weekend.

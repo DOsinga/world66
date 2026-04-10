@@ -1,16 +1,12 @@
 ---
-title: "Batna"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.338429
 longitude: 5.731545
+title: Batna
+type: location
 ---
 
-Batna is located in the east of Algeria, not far from 
-[Constantine](/africa/algeria/constantine) and the Tunisian border. Although the town has little to offer, it is a good base for visiting 
-[Timgad](/africa/algeria/timgad) . 
- 
+Batna is a gateway town in eastern Algeria, sitting at over 1,000 metres on the northern edge of the Aurès Mountains. The town itself is functional rather than charming — the French built it as a military camp in 1844 to control the roads running south into the Sahara — but the surroundings are the reason to come.
 
-
- 
-
-Batna was constructed by the French in 1844, as a military camp, in order to protect the roads running into Sahara. The setting is nice, and with an altitude of 1,038 metres, the climate is great especially in the hot summer months.
+The Roman ruins of [Timgad](/africa/algeria/timgad), one of the best-preserved Roman cities in North Africa, are just 35 kilometres east. The Aurès Mountains themselves offer dramatic gorges and Berber villages rarely visited by outsiders. [Constantine](/africa/algeria/constantine) and the Tunisian border are both within easy reach. At this altitude, the climate stays pleasant through the hot summer months when the lowlands become stifling.

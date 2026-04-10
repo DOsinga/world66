@@ -1,19 +1,16 @@
 ---
-title: "Corsica"
+title: Corsica
 type: location
 latitude: 42.188098
 longitude: 9.068314
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Although Corsica is still ruled by France, one can hardly deny the Italian atmosphere the island exhales. The island is, except for a few cities on the coasts, such as [Ajaccio](/europe/france/corsica/ajaccio) and [Bastia](/europe/france/corsica/bastia) , not densely populated. As a result, Corsica still exists of vast areas of unspoiled scenery. Hence why its inhabitants (round and about a quarter of a million) call it the Island of Beauty to which you can probably only agree when you see the versatile character composed of lakes and snow-capped mountains. 
+Corsica is the third-largest island in the Mediterranean, a mountainous mass rising from the sea off the French and Italian coasts that feels like neither country. It is administratively French — it has been since 1768, one year before Napoleon Bonaparte was born there — but its culture, language, and temperament are distinctly its own. The Corsican independence movement has never gone away: road signs in French are routinely defaced, and the island's prickly relationship with Paris is a constant undertone.
 
-Choose for yourself whether you want to visit the olive trees and vineyards, the little white towns in the countryside, see the cultural heritage of Napoleon in [Ajaccio](/europe/france/corsica/ajaccio) or explore the unspoilt snow-capped mountains of the interior. Until you’ve decided on your travel plan, take a glass of Patrimonio wine, sit back on the beach at [Calvi](/europe/france/corsica/calvi) and enjoy the Island of Beauty.
+The interior is wild and largely uninhabited. Snow-capped peaks rise above 2,700 metres; forests of chestnut and Laricio pine cover the slopes; gorges cut through the granite. The GR20, a long-distance trail running the spine of the island from Calenzana in the north to Conca in the south, is considered one of the hardest and most beautiful mountain hikes in Europe — two weeks of demanding walking through scenery that is genuinely extreme. For less arduous hiking, the Mare a Mare and Mare e Monti routes cross the island from coast to coast with village stops and gîte accommodation.
 
-The GR20, a long-distance hiking trail running the length of the island from north to south, is considered one of the finest and most challenging mountain treks in Europe. The island also has strong Corsican independence sentiment — road signs in French are frequently defaced — which adds to its distinct, prickly character.
+The coasts are equally impressive: long sandy beaches in the south, dramatic red-cliffed coves around Porto and Scandola (a UNESCO Marine Nature Reserve), turquoise water throughout. Ajaccio, Napoleon's birthplace and the island capital, has good museums and a lively port. Bastia in the north is grittier and more authentically Corsican. Calvi is the most resort-like, with a Genoese citadel and a famous long beach. Corte, in the interior, is the spiritual capital of Corsican nationalism and the island's university town.
 
-## Destinations in Corsica
-
-[Ajaccio](/europe/france/corsica/ajaccio)
-[Corse](/europe/france/corsica/corse)
-[Bastia](/europe/france/corsica/bastia)
-[Calvi](/europe/france/corsica/calvi)
+Getting there: ferries from Nice, Toulon, Marseille, Genoa, and Livorno; flights from most French cities and several European airports.

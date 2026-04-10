@@ -3,17 +3,12 @@ title: "Yaroslavl"
 type: location
 latitude: 57.626388
 longitude: 39.893371
+done:
+  location_cleanup: 2026-04-08
 ---
 
-The City of Yaroslavl, located at the confluence of the Volga and Kotorosl rivers, is today a World Heritage Sight. Said to be founded in 1010 by Prince Yaroslavl the Wise, it was incorporated into the principality of Muscovy in 1463.
+Yaroslavl sits at the confluence of the Volga and Kotorosl rivers, about 250 kilometres northeast of Moscow. Said to have been founded in 1010 by Prince Yaroslav the Wise, the historic centre is now a UNESCO World Heritage Site and one of the most rewarding stops on Russia's Golden Ring.
 
-In the 17th century it was Russia's second largest city, and during the Polish occupation of Moscow in 1612, it was the de-facto capital of Russia. Today it is an important industrial center, and is the administrative center of the Yaroslavl Region, or Oblast, bordering the Moscow Oblast.
+In the 17th century, Yaroslavl was Russia's second-largest city. During the Polish occupation of Moscow in 1612, it briefly served as the de facto capital. That period of prosperity left behind some of the finest churches and monasteries in the Golden Ring — notable for their vivid frescoes and the distinctive "Yaroslavl type" church architecture with red brick and brightly coloured tile exteriors.
 
-Yaroslavl has some of the "Golden Ring's" most impressive churches and monasteries, highlighting some of the countries most beautiful frescos and the architectural "Yaroslavl Type" church (red brick and bright tiled exteriors).
-
-Yaroslavl in also a college town, with about a dozen institutes of higher learning. The city boasts the oldest remaining theater in all of Russia, the Volkov theater built in 1750. Yarolsavl also has a well developed system of public transportation, with frequent trolleys, trams, and buses traveling all over the city. There are two major train stations in Yaroslavl, with daily trains to Moscow and St. Petersburg, as well to many other major locations and medium sized towns in Russia.
-
-Yaroslavl is approximately 250 kilometers north east of Moscow and has a population of over 600,000.
-
-**Contributors**
-May 11, 2006
+The city also has the oldest surviving theatre in Russia, the Volkov Theatre, built in 1750. Yaroslavl is a university town with about a dozen institutes of higher learning, which keeps the atmosphere lively. Public transport is well developed, with frequent trolleybuses, trams, and buses. There are two major train stations with daily services to Moscow and St Petersburg.

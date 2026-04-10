@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Zakopane"
+title: "Day Trips"
 type: section
 ---
 

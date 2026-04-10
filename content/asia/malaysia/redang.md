@@ -1,17 +1,16 @@
 ---
-title: "Redang"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 5.783416
 longitude: 103.014076
+title: Redang
+type: location
 ---
 
-Travel Guide
+Pulau Redang is one of the largest and most popular islands off Malaysia's east coast, about 25 km offshore from Kuala Terengganu. It is part of a marine park encompassing the nine islands of the Redang Archipelago, and the main draw is the water — clear, warm, and rich with coral and tropical fish.
 
-Redang or in malay Pulau Redang (Pulau meaning Island) is a pituresque island on the east coast of Malaysia. The island is situated about 25 km off the coast, and about 50km north-east of Kuala Terengganu. It in one of the largest islands on the east coast and a popular vacation island for Malaysians.
+There are no real sights on land. Visitors come to snorkel, dive, or simply lie on the white sand of Pasir Panjang, the main beach, which has a good reef right offshore. Most package deals include boat trips to snorkelling spots around the neighbouring islands. Diving conditions are excellent, with visibility often exceeding 20 metres.
 
-There are different ways to get there: One is to take a boat from Kuala Terengganu, the other is to take one of the daily flights from Kuala Lumpur with Berjaya Air (but only in the main season). Boat and plane will arrive at the south-west tip of the island. Most of the 17 Resorts are located on the islands east coast. There are no roads connecting the south-west and the east coast, therefor it might be difficult to get from from the airport to the chosen Resort without any prior arrangements. Most visitors come on package deals and will be picked up at Merang Jetty (30 km north of Kuala Terengganu) by resort operated ferrys. The bus trip from Kuala Terengganu to Merang Jetty is generally included in the package deals as well.
+Redang is more upmarket than the neighbouring Perhentian Islands. Nearly all accommodation is resort-based, and most visitors arrive on package deals that include ferry transfers from Merang Jetty (30 km north of Kuala Terengganu), accommodation, and meals. There is one mid-range campground at Teluk Kelong for those on a tighter budget.
 
-Redang is part of a marine park, formed by the nine islands of the Redang Archipelago. Redang does not have any sights, so most visitors spend their time lazing on the beach or snorkeling or diving. Most package deals include snorkeling trips by boat to nearby islands, but there is a nice reef right off the main beach Pasir Panjang. Whereas the neighboring Perhentian Islands are a popular backpackers destination, Redang has a more upmarket image. Besides one mid-range campground at Teluk Kelong all accomodation is resort-based. The main season is in July and August. Most resorts are closed during notheast monsoon season between November and February, and ferry transport schedules will be severely restricted, too.
-
-**Contributors**
-August 22, 2007
+The main season runs from March to October, peaking in July and August. Most resorts close during the northeast monsoon season from November to February, when seas are rough and ferry services are severely reduced.

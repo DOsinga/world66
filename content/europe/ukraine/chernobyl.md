@@ -1,8 +1,16 @@
 ---
-title: "Chernobyl"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 51.2706
+longitude: 30.2196
+title: Chernobyl
 type: location
-latitude: 51.270548
-longitude: 30.219561
 ---
 
-Just 100 km north of [Kyiv](/europe/ukraine/kyiv) Chernobyl is the site of the worst atomic energy disaster in human history. It may be sick but at least until beginning 2000 it was possible to arrange a visit through the tourist office in Kyiv. You take a bus to a checkpoint about 20 km from the power plant, where you change to another bus which never leaves the contaminated zone. Among the "major attractions" are the villages of Kopachi, which has “partially encased” houses, and Pripyat, a ghost town left exactly as it was when the residents were evacuated. The culmination of the tour is the cement- and lead-encased nuclear reactor, known as the Sarcophagus. The casing is so corroded now that you could actually put an arm through the lead and concrete at some points. After a final radiation check, visitors switch
+Just 100 km north of [Kyiv](/europe/ukraine/kyiv), Chernobyl is the site of the worst nuclear disaster in human history. On 26 April 1986, Reactor No. 4 of the Chernobyl Nuclear Power Plant exploded during a safety test, releasing radioactive material across Europe. The Soviet government evacuated around 350,000 people from the surrounding 30 km Exclusion Zone — most of whom never returned.
+
+Today, Chernobyl is one of the world's most compelling dark tourism destinations. Guided tours run daily from Kyiv, taking visitors through the ghost town of [Pripyat](/europe/ukraine/chernobyl/pripiat), abandoned villages, and the plant itself — including a close view of the New Safe Confinement structure that now covers the ruined reactor. The experience is eerie and unforgettable: nature has reclaimed much of the zone, wildlife is abundant, and the silence is profound.
+
+Radiation levels in the areas visitors are taken to are generally low — comparable to a long-haul flight — but you follow the guide's instructions and stay on paved surfaces. One-day tours from Kyiv are the norm; two-day tours include an overnight stay in Chernobyl town, which has functioning basic accommodation for workers and visitors.
+
+Note that the Exclusion Zone was affected by Russian military activity during the 2022 invasion, and access has varied since. Check current conditions before planning a visit.

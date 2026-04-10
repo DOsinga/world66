@@ -1,13 +1,18 @@
 ---
-title: "Pasman, island"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.961
+longitude: 15.383
+title: Pašman Island
 type: location
 ---
 
-Travel Guide
+Pašman is a long, slender island in the Zadar archipelago — 63 square kilometres of pine forest, olive groves, and aromatic herbs, fringed by 65 km of irregular coastline. A bridge at the Ždrelac straits connects it to the neighbouring island of Ugljan, and ferries run to both Zadar and Biograd on the mainland.
 
-The island of Pasman ( 63 km2, 65 km of irregular coast ), belongs to the Zadar island group. It is connected to the island of Ugljan by a bridge over the Zdrelac straits, while ferryboat lines connect it to Zadar and Biograd. The Pasman Channel lies between the island and the mainland. At places it is only 2 km wide, and it is dotted with dozens of tiny islands, which make this an ideal region for all types of water sports, sailing and diving.
-The sea currents in this area change direction every 6 hours,thus making the waters here among the cleanest in the entire Adriatic. The island's well-preserved landscape contains many species of medicinal and aromatic herbs, vineyards, fields and olive groves, as well as numerous sand and gravel beaches, making it a true choice for those who want to take a break from the hustle and bustle of life in more populated areas.
+The Pašman Channel separating the island from the coast is barely 2 km wide in places, dotted with dozens of tiny islands. Sea currents change direction every six hours, keeping the water exceptionally clean — among the clearest in the Adriatic. This makes the channel ideal for sailing, diving, and all kinds of water sports.
 
-## Destinations in Pasman, island
+Pašman's appeal is its quietness. Sand and gravel beaches, Benedictine monasteries, vineyards, and a pace of life that hasn't yet been reshaped by mass tourism. If you want the Dalmatian coast without the crowds, this is a good place to start.
+
+## Destinations on Pašman Island
 
 [Mrljane](/europe/croatia/pasman_island/mrljane)

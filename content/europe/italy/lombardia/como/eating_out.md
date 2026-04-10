@@ -3,8 +3,14 @@ title: "Eating Out"
 type: section
 ---
 
-When hungry, Como is not the worst place to find yourself. There are more than enough places where you can sample the typical northern Italian cuisine. 
+Como's cooking is solidly Lombard, shaped by the lake and the Alpine valleys
+behind it. *Polenta uncia* — polenta drenched in butter and aged cheese —
+is the defining dish, alongside lake fish: *agoni* (shad) dried and pressed
+in salt, *lavarello* (whitefish) grilled or in a light broth, and *persico*
+(perch) fillets fried golden. Goat's milk cheeses from the valleys, local
+salami, and porcini mushrooms round out the picture.
 
-One of the dishes most associated with Como is Polenta. These little yellow lumps used to constitute most of the poor man's diet. It was made for lunch every day, and leftovers would be eaten for breakfast or as a side dish at dinner. Today, you can still enjoy many delicious specialities with polenta. Other Como delicacies are the caprini (goat's milk cheeses), salami and mushrooms. And of course, a wide variety of fish from the lake: allis shads, lavaret, perch.  
-
-Any good restaurant will surely serve one of these things, and many other things to make you wish you would never have to leave again.
+The lakefront and the streets around Piazza San Fedele have the highest
+concentration of restaurants. Avoid the most tourist-facing places on the
+main piazzas and look for the trattorias one or two streets back — the food
+is better and the prices lower.

@@ -1,10 +1,12 @@
 ---
-title: "Jal"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.0674
+longitude: 19.8163
+title: Jalë
 type: location
-latitude: 20.761817
-longitude: -103.694736
 ---
 
-Travel Guide
+Jalë is a small coastal village on the Albanian Riviera, roughly halfway between [Vlorë](/europe/albania/vlore) and [Sarandë](/europe/albania/saranda), about seven kilometres south of [Himarë](/europe/albania/saranda/himare). The beach here is one of the most beautiful on this stretch of coast — a crescent of white pebbles and clear turquoise water backed by olive groves and scrubby hills.
 
-Jali is a village between the cities known for holiday, Vlora and Saranda, about 7 Km from the City of Himare. Jali is one place where nature is perfect and without exploring. It is relatively quiet country. There are two or three nightclubs, two fast food restaurants, and a shop. There are dozens of small beaches. I personally stayed a week in 2009 with my friends and I was very impressed and recommend it highly.
+The village is tiny and the development still modest: a handful of beach bars, a couple of restaurants, and a small shop. That simplicity is part of the appeal. The Albanian Riviera has been changing fast, but Jalë retains more of its quiet character than the busier beaches further north. The water is clean, the setting is dramatic, and in the shoulder months of June and September you may have long stretches of shoreline largely to yourself.

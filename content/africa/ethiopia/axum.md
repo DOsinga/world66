@@ -1,8 +1,18 @@
 ---
-title: "Axum"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.122098
 longitude: 38.732175
+title: Axum
+type: location
 ---
 
-This unique holy city and former capital in the northern province of Tigray is ancient dating back 2 000 years. The town whose picturesque ramshackle buildings are painted in diverse pastel shades offers a wonderfully relaxed atmosphere. A major stop in caravan routes heading to the Red Sea Axum was the home of the Queen of Sheba whose son Menelik I reputedly brought back the Ark of the Covenant stolen from the temple of King Solomon of Jerusalem. According to Ethiopian legend the Ark remains in the 17th-century Cathedral of St. Mary of Zion built by Emperor Haile Selasie, who also happens to be the 227th direct decedent of Menelik 1 (refer to the personal essay under the section "The Ark of the Covenant", for background information) . Unfortunately the chapel is guarded night and day by a monk who refuses to let anyone check out the story. The chapel is considered too holy for anyone to enter, excetp the chosen guardian monk. Although the civil war left its scars, most of Axum’s ruins which date from AD 400 remain untouched. They include palaces buildings and 11 large stelae or obelisks each carved from a single piece of stone (some as tall as 75 ft/22 m). Other attractions include the ruins of the Queen of Sheba’s palace the Queen’s well (still in use) and a display (in a modern church) of the crowns of ancient kings and Queens. Take a day trip to Yeha 50 mi/80 km northeast to see a 2 500-year-old Sabaean temple that became a Christian church in the 6th century. 350 mi/565 km north of Addis Ababa.
+Axum is one of the oldest continuously inhabited cities in Africa and the historical heart of Ethiopian civilisation. For over a thousand years it was the capital of the Aksumite Empire, a trading power that connected the Roman world with India and controlled the Red Sea coast. Today it is a small, quietly atmospheric town in Tigray province, about 565 kilometres north of Addis Ababa, its ramshackle buildings painted in faded pastels.
+
+The most striking remains are the **stelae** — giant carved obelisks, some over 20 metres tall, each cut from a single piece of stone around the 4th century AD. The largest still standing marks the Northern Stelae Field, a UNESCO World Heritage Site. Nearby are the ruins of ancient palaces, including what tradition calls the **Palace of the Queen of Sheba**, and the Queen of Sheba's Bath — a large reservoir still in use today.
+
+The city's greatest claim, however, is religious. Ethiopian tradition holds that Menelik I, son of the Queen of Sheba and King Solomon, brought the Ark of the Covenant from Jerusalem to Axum, where it has remained ever since. The Ark is said to rest in the Chapel of the Tablet, a small building next to the **Cathedral of St. Mary of Zion**. The chapel is guarded day and night by a single monk — the only person permitted to enter. No one else has ever been allowed to see it.
+
+The cathedral compound includes two churches: the old cathedral, built in the 17th century by Emperor Fasilides, and a modern one built by Haile Selassie in the 1960s, which houses a museum displaying the crowns of ancient Aksumite kings.
+
+From Axum, a worthwhile day trip leads 80 kilometres northeast to **Yeha**, where a 2,500-year-old Sabaean temple — one of the oldest standing structures in sub-Saharan Africa — was converted into a Christian church in the 6th century.

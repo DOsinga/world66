@@ -1,20 +1,16 @@
 ---
-title: "Glenwood Springs"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.546638
 longitude: -107.324694
+title: Glenwood Springs
+type: location
 ---
 
-Travel Guide
+Glenwood Springs sits at the confluence of the Colorado River and the Roaring Fork River, surrounded by some of the best outdoor country in the Rocky Mountains. The two rivers bring gold-medal fly fishing, world-class whitewater rafting and kayaking right through town.
 
-Glenwood Springs is located at the confluence of the Colorado River and the Roaring Fork River, in the Roaring Fork Valley. The two rivers shape the town. They provide gold-medal fly-fishing, world-class whitewater rafting, whitewater kayaking.
+The town grew up in the late 1800s around its hot springs — the Glenwood Hot Springs Pool, fed by the Yampah Spring, is one of the largest in the world and still the main attraction. The Iron Mountain Hot Springs on the riverbank offer a quieter soak. Doc Holliday came here for the mineral waters in 1887 and is buried in the cemetery on the hill above town.
 
-Back in the late 1800s, Glenwood Springs was named by white men arrived from an Iowa town called Glenwood. Many of the nearby towns (Aspen and Leadville) had their booms while Glenwood Springs was yet in its infancy. Glenwood Springs was difficult to reach due to the canyons to the east and west; it was also located on Ute land. The town grew in part thanks to its location on the railroad and the Colorado River.
+The surrounding wilderness is enormous. The Flattops Wilderness to the north is one of Colorado's largest wild areas, with endless high-country exploring. Grand Mesa rises to the west. The Four Mile recreation area to the southwest offers easier day hikes favoured by locals. Glenwood Caverns Adventure Park, high above the valley, combines cave tours with thrill rides and mountain views.
 
-The local area is surrounded by state and national parks which attract hunters and campers from great distances. The Grand Mesa is to the west and the Flattops Wilderness area dominate to the North. The Flattops is HUGE area offering unlimited high-country exporing. The Four Mile recreation area (to the South-west)offers easier day mountain access favored by locals. Glenwood Springs is a truly great place to access all the Rocky Mountains have to offer.
-
-In terms of Culture (and ski-appeal) it is hard to underestimate the role of Aspen. Glenwood Springians may not want to actually live in Aspen, but they do appreciate being able to commute to a cultural mecca.
-
-"UpValley" is to the North of Glenwood Springs and is Carbondale, Basalt, Snowmass and ASPEN. To the west, or downvalley, is New Castle, Silt and Rifle. "UP" and "Down" refer to altidude, not North or South. Grand Junction is an 80 minute drive West on I-70. Vail is 70 minutes east. Aspen is 60 minutes south. Vail, Aspen and Grand Junction all have airports.
-
-Glenwood Springs has some excellent adventures for families... just in the last few years there are several new adventure rides (they are a blast!) at Glenwood Caverns and a new paragliding company. A whitewater park is scheduled to be built too.
+[Aspen](/northamerica/unitedstates/colorado/aspen) is 60 minutes south and brings world-class skiing and a cultural scene that Glenwood Springs residents happily commute to. Vail is 70 minutes east on I-70. Grand Junction, with its wine country, is 80 minutes west. All three have airports, but Glenwood Springs itself is easily reached by Amtrak or car.

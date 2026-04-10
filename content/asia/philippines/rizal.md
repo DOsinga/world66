@@ -1,16 +1,14 @@
 ---
-title: "Rizal"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.65
 longitude: 121.25
+title: Rizal
+type: location
 ---
 
-Travel Guide
+Rizal is a mountainous province on the eastern edge of Metro Manila, named after José Rizal, the national hero whose family came from Calamba, a town in nearby Laguna. It's one of the most densely populated provinces in the Philippines but most of it remains green — the Sierra Madre mountain slopes that form Rizal's eastern flank are forested and largely undeveloped.
 
-Rizal is a province located in the CALABARZON , just 16 kilometers east of Manila. The province was named after the country's national hero, José Rizal. Rizal Governor Casimiro A. Ynares III on June 17, 2008 announced the transfer of the Capitol from Pasig. Its P 270-million capitol building, constructed in Antipolo City by Ortigas & Co., owner thereof, was completed by December of that year. Built on 5-hectare lot at the Ynares Center, it employs 2,008 employees.[2] The New Capitol was successfully inaugurated on March 4, 2009, bringing back the Capitol Building inside the provincial territory, from which it was absent for 33 years (when Pasig was incorporated into Metro Manila).
+For most Manila residents, Rizal means Antipolo City: a hill town with a famous pilgrimage church (Our Lady of Peace and Good Voyage), a panoramic view over Metro Manila, and a clutch of restaurants and weekend markets that draw day-trippers from the capital. The Hinulugang Taktak waterfall park near the city centre is popular with families. For more serious hiking, the Sierra Madre trails further east are less crowded and more demanding.
 
-Rizal is bordered by Metro Manila to the west, the province of Bulacan to the north, Quezon to the east and Laguna province to the south. The province also lies on the northern shores of Laguna de Bay, the largest lake in the country.
-
-Rizal is a mountainous province perched on the western slopes of the southern portion of the Sierra Madre mountain range. Antipolo City boasts of a wonderful view of Metro Manila and it is where Hinulugang Taktak, a waterfall popular with tourists, can be found.
-
-The Rizal Province will be accessed by the future C-6 Road connecting the provinces of Bulacan and Cavite and cities of Taguig (beside Laguna de Bay), Parañaque and Muntinlupa which located in Metro Manila.
+The province also borders Laguna de Bay, the largest lake in the Philippines, which its southern municipalities share with Laguna Province.

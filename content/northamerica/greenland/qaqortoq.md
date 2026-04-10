@@ -1,8 +1,10 @@
 ---
-title: "Qaqortoq"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 60.718202
 longitude: -46.038521
+title: Qaqortoq
+type: location
 ---
 
 Several old buildings sit around the square which boasts the only fountain in Greenland. The Cooper’s Shop dates from 1781. 

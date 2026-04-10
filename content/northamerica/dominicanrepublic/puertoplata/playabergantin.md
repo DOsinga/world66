@@ -1,10 +1,12 @@
 ---
-title: "Playa Bergantin"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 19.787
+longitude: -70.632
+title: Playa Bergantin
 type: location
-latitude: 19.7870
-longitude: -70.6320
 ---
 
-There is one good reason to visit Playa Bergantin: it's paradise.
+Playa Bergantin is a quiet stretch of sand east of [Puerto Plata](/northamerica/dominicanrepublic/puertoplata), away from the resort crowds. Follow the main road east for a few miles, then take a dirt track to the left — the reward is a near-empty beach with calm water and coconut palms.
 
-Just follow the main road out of Puerto Plata to the east for a few miles, then take a dirt track to the left.
+If you are looking for a Dominican beach without the all-inclusive package, this is it.

@@ -1,10 +1,14 @@
 ---
-title: "Franschhoek"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: -33.909167
 longitude: 19.119444
+title: Franschhoek
+type: location
 ---
 
-Travel Guide
+Franschhoek is a small town in the Cape Winelands, tucked at the head of a long, mountain-framed valley about 75 kilometres east of Cape Town. French Huguenot settlers arrived here in the late 17th century — the name means "French corner" in Dutch — and planted the first vines in soil that turned out to be exceptionally suited to winemaking.
 
-A small, picturesque town nestled among the valleys of the Cape winelands, Franschhoek provides the traveller with a great selection of restaurants and guest houses. Whether you're on a day trip from Cape Town or it's a stop on a Garden Route adventure, the town centre a nice place to go for a stroll.
+The valley now holds some of South Africa's most celebrated wine estates, concentrated along the Franschhoek Wine Valley. Wine tastings, cellar tours, and vineyard lunches are the primary activities, and the standard is consistently high. The town's main street, Huguenot Road, is lined with restaurants that make Franschhoek one of the strongest food destinations in the country.
+
+The Huguenot Memorial Museum and monument at the end of the main street tell the story of the original settlers. The town itself is walkable, and the valley drive — surrounded by mountains and vineyards — is one of the most scenic in the Western Cape. Most visitors come as a day trip from Cape Town or Stellenbosch, though staying overnight allows for a more relaxed pace and the chance to visit estates that are quieter in the evenings.

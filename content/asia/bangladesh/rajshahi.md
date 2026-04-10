@@ -1,8 +1,10 @@
 ---
-title: "Rajshahi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.371666
-longitude: 88.600920
+longitude: 88.60092
+title: Rajshahi
+type: location
 ---
 
 Rajshahi sits on the south bank of the Padma River in northwest Bangladesh, a quieter and greener city than Dhaka. It is the center of Bangladesh's silk industry — you can visit weaving workshops and buy silk at prices well below anything in the capital. The city is also known for its mangoes: in season (May–June), the markets overflow with dozens of varieties.

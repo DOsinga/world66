@@ -1,12 +1,12 @@
 ---
-title: "Pontrieux"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 48.6972
+longitude: -3.163
+title: Pontrieux
 type: location
-latitude: 48.697242
-longitude: -3.162979
 ---
 
-We currently have no information about .
+Pontrieux is a small Breton town on the tidal River Trieux, known for its remarkable collection of private washhouses — over fifty lavoirs tucked along the riverbanks, many of them beautifully restored and open to visitors during guided boat trips in summer. It is a quiet, picturesque place with half-timbered houses reflected in the river, and a good stop on a tour of the Côtes-d'Armor.
 
-If you do know any general information about Pontrieux, please [Edit this article].
-
-If you know any hotels in Pontrieux or restaurants in Pontrieux, please [[Add].](/destinations/addItemWizard?addwhere=world/europe/france/normandybrittany/pontrieux)
+The town comes alive on Thursday mornings for its market. From Pontrieux you can take a river cruise downstream through wooded banks towards the coast, or head north to explore the Pink Granite Coast around Perros-Guirec.

@@ -1,8 +1,12 @@
 ---
-title: "Rio Branco, Uruguay"
+done:
+  location_cleanup: '2026-04-10'
+latitude: -32.5978
+longitude: -53.3864
+title: Río Branco
 type: location
 ---
 
-Travel Guide
+Río Branco is a small border town in northeastern [Uruguay](/southamerica/uruguay), sitting on the Yaguarón River across from the Brazilian city of Jaguarão. The Barón de Mauá International Bridge connects the two countries here, and the town has the unhurried feel of a place where two cultures quietly blend — you will hear as much Portuguese as Spanish in the streets.
 
-Rio Branco, Uruguay is located in the northeast part of Uruguay near the Brazilian border. Duck hunting is excellent here (Los Gauchos) with the multiple rice farms and fields. The towns are small in population, but large in number of ducks that migrate each Uruguay duck hunting season. Winter in Rio Branco begins May 1st and lasts until August. This is also the Uruguay duck hunting season.
+The surrounding countryside is flat rice-farming land crisscrossed by wetlands, and the area is known for its abundant birdlife. Río Branco itself is modest, but it serves as a crossing point for travellers moving between Uruguay and southern Brazil, and gives a glimpse of rural Uruguayan life far from the beaches and bustle of the coast.

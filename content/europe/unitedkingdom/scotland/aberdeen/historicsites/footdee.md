@@ -1,14 +1,9 @@
 ---
 title: "Footdee"
-type: location
-type: "Streets"
-latitude: 57.14373
-longitude: -2.071799
+type: poi
+category: "Sight"
+latitude: 57.1437
+longitude: -2.0718
 ---
 
-Traditional fishing village at mouth of River Dee close to Aberdeen harbour.
-
-**Contributors**
-December 29, 2005
-
-type: Streets
+Traditional fishing village at the mouth of the River Dee, close to Aberdeen harbour. The tightly packed cottages, with their backs turned to the sea for shelter, have been converted into quirky, colourful homes — each with a distinctive character. Worth a wander for its unique atmosphere.

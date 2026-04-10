@@ -1,19 +1,14 @@
 ---
-title: "Ozark"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.646782
 longitude: -92.45752
+title: Ozark National Scenic Riverways
+type: location
 ---
 
-Ozark National Scenic Riverways was created by an Act of Congress on August 24, 1964, to protect 134 miles of the Current and Jacks Fork Rivers in the Ozark Highlands of southeastern Missouri. The clean, clear waters of these two beautiful rivers provide excellent opportunities for johnboating, canoeing, swimming, fishing and tubing. Hunting is also an authorized use within the Riverways' boundaries. The landscape is predominantly rural, with broadleaf forests and occasional open fields.
+The Ozark National Scenic Riverways protects 134 miles of the Current and Jacks Fork Rivers in the Ozark Highlands of southeastern Missouri. These are spring-fed rivers — clear, cold, and flowing through a landscape of limestone bluffs, broadleaf forest, and over 300 caves. It is some of the best canoeing and kayaking in the Midwest.
 
+The geology makes the place. The Ozark karst is riddled with sinkholes and springs — sixty per cent of the rivers' flow comes from underground. Big Spring, one of the largest in the United States, pumps out an average of 276 million gallons a day. The springs are worth visiting on their own, even if you do not get on the water.
 
- 
- The southeast Missouri Ozark Mountains are typified by narrow steep-sided hollows, numerous streams, and bluffs. 
- 
- Much of the area is underlain by soluble limestone and dolomite, giving rise to sinkholes, caves, and springs of a classical karst topography. There are over 300 recorded caves within the boundaries. 
-
-
- Sixty per cent of the rivers' flow comes from seven major springs and 51 other springs of various sizes within the drainage basin. Big Spring, one of the largest springs in the United States, has an average flow of 276 million gallons of water per day. The maximum recorded flow in one day was 840 million gallons in June 1928. 
- 
- There are 112 species of fish, 196 species of birds, and 58 species of mammals found in the park. There are also 25 species of snakes found in the park, including 4 poisonous species.
+Canoeing and kayaking are the main activities, with outfitters along both rivers renting boats and running shuttles. Swimming, tubing, fishing, and hiking are all good. Wildlife is abundant — over 190 bird species and enough snakes (25 species, four venomous) to keep you watching where you step.

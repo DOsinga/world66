@@ -1,14 +1,16 @@
 ---
-title: "Cozumel"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 20.43206
 longitude: -86.920691
+title: Cozumel
+type: location
 ---
 
-Cozumel is a small island just of the coast of [Yucatan](/northamerica/mexico/yucatan). It is an ideal place to go scuba diving. It has some of the best underwater scenery in the world. 
+Cozumel is a flat, jungle-covered island off the coast of [Yucatan](/northamerica/mexico/yucatan), famous for some of the best diving in the Western Hemisphere. The Mesoamerican Reef runs along the island's western shore, and the drift dives through Palancar, Santa Rosa Wall, and Columbia are world-class — warm, clear water with huge sponges, sea fans, and the occasional nurse shark.
 
-According to the Mayan legend, Cozumel was the home of the godess Ixchel, devoted to love and fertility. Religious temples were dedicated with honor to the godess and in return she sent her favorite bird as a sign of gratitude and good fortune. For this reason, the Mayans named the island "The Land of the Swallows". Today, Cozumel is renowned for having the second largest reef in the world. It offers the most spectacular diving and snorkeling in México. With this in mind, hundreds of cruise ships sail to this island paradise for a fun filled day of sun, nature beauty and endless explorations thoughout this island. 
+The Mayans knew the island as Cuzamil, "Land of the Swallows," and it was sacred to Ixchel, goddess of fertility. The ruins of San Gervasio in the island's interior are the main archaeological site, modest compared to the mainland but worth a visit for the setting among the scrub jungle.
 
-Cozumel caters for tourists rather than travelers. There are many activities organized by the hotel complexes, that are best booked directly form the US / Europe. 
+Cozumel is heavily geared toward cruise ship passengers — hundreds of ships dock here each year — and the waterfront of San Miguel de Cozumel is lined with jewellery shops and tourist restaurants. Get away from the cruise port and the island improves. The eastern (windward) coast has empty beaches and rough surf. Punta Sur Eco Beach Park at the southern tip has a lighthouse, crocodile lagoon, and good snorkelling. Chankanaab National Marine Park on the west coast is the most accessible reef snorkelling — bring your own gear and go early before the cruise crowds arrive.
 
-Should you find yourself on one of those cruises you can visit Chankanaab National Marine Park via a short taxi ride (~$5). For you entrance fee ($10 or $15) you can snorkel from the beach with your own gear and relax in the sun. The park has a large number of people but it is much more fun than getting packed on a small boat or bus for a day of snorkeling.
+The ferry from Playa del Carmen on the mainland takes 45 minutes and runs frequently throughout the day.

@@ -1,12 +1,12 @@
 ---
-title: "Naufrage"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.467384
 longitude: -62.416511
+title: Naufrage
+type: location
 ---
 
-Naufrage is real PEI. Quiet farm country bordered by clear oceans and red beaches. 
+Naufrage is a tiny bayside village in Kings County on Prince Edward Island's northeast coast, the kind of quiet PEI that visitors come looking for — farm country, red sand beaches, and clear Atlantic water. Seals are a regular sight from the shore in the morning.
 
-Naufrage is a quiet peaceful bayside village on Prince Edward Island. Naufrage, an unincorporated area, is located the in Kings County portion of the Island, Northeast. of St. Peters. In the morning you can watch the seals swimming in the ocean. 
-
-The family will enjoy scenic hikes and nature trails in the park, which also has a playground. There is also a historic lighthouse, which is open to public viewing. The family will also enjoy the beach and the bay being right outside the door. The village is also close to a new preservation area, which has an incredible boardwalk.
+The Naufrage area has nature trails, a historic lighthouse open for viewing, and a boardwalk through a nearby conservation area. The beaches are uncrowded even in high summer.

@@ -1,30 +1,12 @@
 ---
-title: "Morgan City"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 29.699375
 longitude: -91.20677
+title: “Morgan City”
+type: location
 ---
 
-Travel Guide
+Morgan City sits on the Atchafalaya River in southern Louisiana, on US 90 between New Orleans and Lafayette. It is a working oil-and-shrimp town with a claim to fame: the world’s first offshore oil well was drilled from a platform in the Gulf of Mexico here on 14 November 1947, by Kerr-McGee. The offshore oil industry that now circles the globe started in Morgan City’s backyard.
 
-Located on U. S. 90 between New Orleans and Lafayette, Morgan
-City sits on the banks of the great Atchafalaya River. Originally
-incorporated in l860 as Brasher in honor of the founding family
-who, in the 1850s, divided its sugar plantation into lots to form
-a townsite. In 1876, the community's name was changed to Morgan
-City in tribute to Charles Morgan, rail and steamship magnate who
-first dredged the Atchafalaya Bay Ship Channel to accommodate
-ocean-going vessels, and thus launched these Atchafalaya River
-communities on their route to success as port cities. The oil or
-more properly, the petroleum products industry is of
-extraordinary importance to the economies of the community, the
-state, and the nation. Local origins of the industry may be found
-in the discovery of oil on Belle Isle by A. F. Lucas in 1896. In
-1914, oil wells were drilled on Avoca Island. Morgan City's
-"black gold rush" did not truly begin, however, until
-November 14, 1947, when a Kerr-McGee experimental offshore oil
-rig struck oil. This event marked the founding of the offshore
-oil industry, an industry vital to the security and well-being of
-the United States. At present, “offshore" drilling
-produces approximately sixteen percent of the free world’s
-total of oil and over six percent of the world's natural gas.
+The town’s other big event is the annual Louisiana Shrimp and Petroleum Festival — an unlikely pairing that makes perfect sense here. The Atchafalaya Basin, North America’s largest river swamp, surrounds the city and offers excellent fishing, birding, and swamp tours. The Cajun culture and food that define this part of Louisiana are well represented in Morgan City’s restaurants.

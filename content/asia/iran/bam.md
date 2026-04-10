@@ -1,8 +1,10 @@
 ---
-title: "Bam"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 29.105986
 longitude: 58.356566
+title: Bam
+type: location
 ---
 
 Bam is an oasis city in the desert of southeastern [Iran](/asia/iran), known above all for its extraordinary mud-brick citadel, the Arg-e Bam. The citadel, a UNESCO World Heritage Site, was one of the largest adobe structures in the world — a fortified city within a city, with towers, bazaars, and houses rising from the desert floor. It dated back over two thousand years and was still largely intact until December 2003, when a devastating earthquake struck and killed over 26,000 people.

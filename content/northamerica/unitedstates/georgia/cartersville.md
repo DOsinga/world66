@@ -1,8 +1,10 @@
 ---
-title: "Cartersville"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 34.16523
 longitude: -84.799761
+title: Cartersville
+type: location
 ---
 
 Cartersville is a small city about 45 miles northwest of [Atlanta](/northamerica/unitedstates/georgia/atlanta) in Bartow County, a convenient stop between Atlanta and Chattanooga on I-75.

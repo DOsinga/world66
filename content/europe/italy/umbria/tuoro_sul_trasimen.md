@@ -1,8 +1,10 @@
 ---
-title: "Tuoro sul Trasimeno"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 43.206848
 longitude: 12.074615
+title: Tuoro sul Trasimeno
+type: location
 ---
 
 Tuoro sul Trasimeno is a quiet hilltop village on the northern shore of Lake Trasimeno, in the province of Perugia. It sits right on the border between [Umbria](/europe/italy/umbria) and [Tuscany](/europe/italy/tuscany), and the landscape around it — olive groves, vineyards, and the wide blue lake — belongs to both.

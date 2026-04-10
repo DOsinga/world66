@@ -1,12 +1,12 @@
 ---
-title: "St. Valery sur Somme"
+title: "St-Valéry-sur-Somme"
 type: location
 latitude: 50.188701
 longitude: 1.627915
 ---
 
-St Valery sur Somme - a wonderful medieval town from where William the Conqueror set sail for England.
+St-Valéry-sur-Somme is one of those small French towns that rewards the traveller who slows down. Perched on a hill above the Baie de Somme, it is where William the Conqueror gathered his fleet before sailing for England in 1066 — a fact the town remembers with quiet pride.
 
-Situated on the mouth of the River Somme, with some of the best ornithology sites in Northern France as a backdrop, this town consists of a cobbled old town with narrow streets and lanes, and a newer part.
+The upper town is a tangle of cobbled lanes, medieval ramparts, and half-timbered houses with views across the estuary. The lower town sits on the waterfront, where you can watch the tide retreat to reveal vast stretches of sand — and, if you time it right, see the colony of harbour seals that hauls out on the sandbanks. The Baie de Somme is one of northern France's best birdwatching sites, particularly during migration season.
 
-Le Beau Rivage is great for Pizza - either served on the premises or take-away.
+A ride on the Chemin de Fer de la Baie de Somme, a heritage steam railway that runs along the estuary to Le Crotoy, is a fine way to spend an afternoon. And the seafood here is excellent — this is Picardy coast country, so expect fresh mussels, cockles, and the local ficelle picarde.

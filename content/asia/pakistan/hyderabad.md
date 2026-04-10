@@ -1,16 +1,14 @@
 ---
-title: "Hyderabad"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 25.3869
+longitude: 68.3715
+title: Hyderabad
 type: location
-latitude: 25.386829
-longitude: 68.371497
 ---
 
-Not to be confused with Hyderabad in [India](/asia/india). 
+Not to be confused with [Hyderabad in India](/asia/india/andhrapradesh/hyderabad), this Hyderabad is the second largest city in Sindh and one of the largest in Pakistan. It lies 164 km north of [Karachi](/asia/pakistan/karachi), on the eastern bank of the Indus. When the river shifted its course away from Khudabad, the old regional capital, Hyderabad took over the role — and it has been the cultural heart of Sindh ever since.
 
-This Hyderabad lies 164 km north of [Karachi](/asia/pakistan/karachi) and is the second largest city in Sind and one of the largest in Pakistan. Hyderabad is five km from the eastern bank of the Indus changed its course away from Khudabad, at that time the capital of the region, the new capital was shifted to Hyderabad. 
+The Fort, built in 1766, presides over the old city, where narrow streets are topped by badgirs — distinctive wind-catching towers that look like chimneys on the rooftops. They catch the cool southwest breezes that blow steadily for about 40 days from late April each year, a natural air-conditioning system that has worked for centuries. In the old sections of town, cows still roam the streets, giving the place a distinctly medieval atmosphere.
 
-Sights include the Fort (from 1766) and the old city buildings that are topped by badgirs that look like chimneys on roof tops. They catch the cool breezes which blow steadily in a south-west direction for 40 days from late April each year. In the old sections of the town, cows still roam the streets giving it a distinctly medieval atmosphere. 
-
-North of the city there are tombs from the Talpur and Kalhora periods. The tomb of Ghulam Shah Kalhora is one of the finest, although its dome collapsed and has now been replaced by a flat roof. 
-
-Also worth a visit is the Institute of Sindhology's museum at the University of Sind. It has displays on all aspects of Sindhi history, music and culture depicting the lifestyles of the desert tribes. Infrequent GTS buses go to the campus, otherwise take a miniwagon to Jumshero, across the river from Hyderabad, and walk the 1-1/2 km to the university.
+North of the city stand tombs from the Talpur and Kalhora periods. The tomb of Ghulam Shah Kalhora is one of the finest, though its dome collapsed long ago and has been replaced by a flat roof. Also worth a visit is the Institute of Sindhology's museum at the University of Sindh, with displays on all aspects of Sindhi history, music, and culture. Getting there is easiest by miniwagon to Jamshoro, across the river, and then a 1.5 km walk to the campus.

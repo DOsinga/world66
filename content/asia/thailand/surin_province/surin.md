@@ -1,8 +1,10 @@
 ---
 title: "Surin"
 type: location
-latitude: 15.061014
-longitude: 103.761312
+latitude: 14.8818
+longitude: 103.4936
 ---
 
-A medium sized city Surin is the center of the province that bears its name. Center now for much of the collection of Jasmin Rice grown in the region, it also is the closest Thai city (and Airport) to Angar Wat just 60 KL away across the Cambodian Border.
+Surin is a medium-sized Isan city and the capital of the province that bears its name. It is a pleasant, unhurried place — a grid of shophouses, market stalls, and temple spires that sees relatively few foreign visitors outside the November Elephant Round-Up. The city makes a practical base for visiting the Khmer ruins at Prasat Sikhoraphum and Prasat Ta Muen, and for crossing into Cambodia at Chong Chom, roughly 70 km to the south.
+
+The night market near the train station is the best place to eat, with Isan staples like som tam, larb, and sticky rice alongside more unusual dishes. Surin is also famous for its silk, and the villages around the city produce some of the finest hand-woven fabrics in Thailand.

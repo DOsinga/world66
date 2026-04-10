@@ -1,20 +1,14 @@
 ---
-title: "Erwin"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 36.1451
+longitude: -82.4184
+title: Erwin
 type: location
-latitude: 42.131675
-longitude: -77.141161
 ---
 
-Travel Guide
+Nestled in the Appalachian Mountains of northeastern Tennessee, Erwin sits in the Nolichucky River valley — a sun-drenched stretch of green that locals call "The Valley Beautiful." With a population under 6,000, it is small by any measure, but the surrounding mountains pack in more outdoor recreation than towns ten times its size.
 
-A visit to Tennessee would not be complete without a trip through Erwin and The Valley Beautiful as it is so fondly referred to by the local residents.
+The Appalachian Trail passes right through the area, and the Nolichucky River draws kayakers and rafters to some of the best whitewater in the Southeast. Fat-tire biking, fishing, and hunting round out the options for those who want to stay active. For a quieter visit, the historic downtown has a handful of shops and eateries, and the nearby colleges and cultural venues in Johnson City (about 20 minutes north) add some variety.
 
-Nestled within the bosom of the Appalachian Mountains, you will find the sun drenched valley a difficult place to leave once you have tasted its serenity.
-
-With a population of under 6000, Erwin would be considered small by most standards. However small, it boasts seven nearby colleges, five high school, elementary and middle schools, and is within an hours drive from two regional airports.
-
-An outdoor playground, the surrounding forest is healthy and rich with plant and animal wild life, and offers a large variety of outdoor activities. From touring the winding footpaths of the Appalachian Trail to kayaking the wicked white-water of the Nolichuckey River, outdoor enthusiasts will find it a paradise of fun and adventure.
-
-For those not inclined toward outdoor activities, one can travel a few miles north of Erwin and visit some of the best night clubs, live theater, formal dining establishments, live concerts, museums and historical sites.
-
-Whether it is fat-tire biking, fishing, hunting, hiking, whitewater rafting or enjoying the night life and black-tie society, Erwin Tennessee is a great place to be.
+Erwin is also home to a piece of unusual Americana: in 1916, a circus elephant named Mary was publicly hanged here from a railroad crane after killing a handler — a bizarre and widely documented episode that the town has since grappled with as part of its history.

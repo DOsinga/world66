@@ -1,18 +1,17 @@
 ---
-title: "Makarska riviera"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.2355
+longitude: 17.0907
+title: Makarska Riviera
 type: location
-latitude: 43.235537
-longitude: 17.090723
 ---
 
-Makarska riviera is one of the most beautiful parts of adriatic coast ( and many says THE most beautiful ). 
+The Makarska Riviera is a 60 km stretch of the central Dalmatian coast, backed by the dramatic wall of Mount Biokovo and facing the islands of Brač and Hvar across a sparkling channel. Many consider it the most beautiful section of the entire Croatian coastline, and it is hard to argue — the combination of long pebble beaches, clear Adriatic water, and a mountain that rises straight out of the sea to nearly 1,800 metres is extraordinary.
 
-Why is that so? Maybe because the fame of Makarska riviera is based on kilometers of beaches, pebbled beaches streched all along the riviera, or because the mountain Biokovo with its high peaks, which arises directly from the sea and give you such a beautiful view on the seaside surounded by the islands of Brac and Hvar. 
+Makarska itself is the main town and a popular tourist destination, with a palm-lined harbour, a lively summer nightlife scene, and a Franciscan monastery that houses a quirky malacological (seashell) museum. But the riviera's real charm is in the smaller villages strung along the coast — places like Brela, Baška Voda, Tučepi, and Živogošće, where the Mediterranean pace of life still sets the rhythm.
 
-This photo was made in the mountain, above Makarska (you can see it in the background.Thanx David,Tom and Peter!). 
+## Destinations on the Makarska Riviera
 
-Makarska is the center and famous touristic destination but not the only one: there are a lot of villages in which you will be able to catch mediterranean spirit - and listen the symphony of cicades, sea and wind. 
-
-Zivogosce-Mala Duba is just one of those villages,situated 20 km southern of Makarska. 
-
-See more of these photos at www.whisper-mala-duba.com. You will enjoy in the beautiful landscapes.
+[Gradac](/europe/croatia/makarskariviera/gradac)
+[Podaca](/europe/croatia/makarskariviera/podaca)

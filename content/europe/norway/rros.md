@@ -1,14 +1,14 @@
 ---
-title: "Røros"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 62.5695
+longitude: 11.6604
+title: Røros
 type: location
-latitude: 62.569515
-longitude: 11.660441
 ---
 
-Røros is a town south of Trondheim not far from the Swedish border. Its history is based largely on copper mining and there are many remains of the industry there. There is also a bus trip arranged to the mine itself. The town is now a World Heritage site. 
+Røros is a small mining town in the mountains south of [Trondheim](/europe/norway/trondheim), near the Swedish border. Copper was discovered here in 1644, and for over three centuries the mines drove the town's economy. The result is a remarkably well-preserved wooden town — rows of dark-timbered houses, grass-roofed smelter buildings, and slag heaps stretching into the surrounding plateau. The entire town centre is a UNESCO World Heritage Site.
 
-The church interior is entirely of wood but, as marble was all the rage when it was built, you might find it hard to tell the difference. 
+A guided walk is the best way to experience Røros. The guides bring the history of the miners and farmers to life, and you will learn far more than wandering on your own. The church, built in 1784, is worth a look inside — the interior is entirely of wood, but painted to imitate marble with such skill that it takes a moment to tell the difference. Guided tours to the old copper mine at Olavsgruva, a few kilometres outside town, run regularly and take you deep underground.
 
-This is a place where a guided walk is worth far more than it actually costs. You will learn a lot about the mining and farming history of the area. 
-
-http://www.norphoto.com/r/eng75.php
+The surrounding Røros plateau is beautiful in both summer and winter — wide, open, and very cold. The town hosts a traditional Christmas market in December that draws visitors from across Norway.

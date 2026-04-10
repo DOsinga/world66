@@ -1,18 +1,12 @@
 ---
-title: "De blauwe druif"
+title: "De Blauwe Druif"
 type: poi
-latitude: 52.380436
-longitude: 4.89105
+latitude: 52.3812
+longitude: 4.6384
 ---
 
-In former days the inhabitants of Haarlem did not have shops to buy liquor, as a supermarket or licensed victualler's shop, in these days you went to a so called "proeflokaal". Here people could taste (the Dutch word is proeven or proef) the liquor or wine they wanted to buy.
+One of the oldest *proeflokalen* (tasting houses) in Haarlem, De Blauwe Druif has been serving drinks since the 17th century. In the old days, these were the places where people came to taste liquor and wine before buying — the Dutch word *proeven* means to taste. The interior has barely changed in a hundred years.
 
+Today it functions as a pub, but the atmosphere is more old-world parlour than modern bar. You will find business people, tradesmen, and local politicians all mixed together. In August, it becomes one of the venues for jazz during the Haarlem Jazz & More festival.
 
- Nowadays these locals are pubs, while the interior is still the same as 100 years ago. Here people meet from all ranks, the business men, the carpenter and even the local politicians. You can drink a beer or whatever you like and talk the day away.
- 
- The Proeflokaal De Blauwe Druif is the most famous of them all and known all over The Netherlands.
-
-
- In august the Proeflokaal is one of the centres where jazz bands are playing (see events).
- 
- Opening hours: from 15.00-01.00
+Opens at 15:00 daily.

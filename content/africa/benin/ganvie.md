@@ -1,12 +1,14 @@
 ---
-title: "Ganvie"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 6.4681
+longitude: 2.39
+title: Ganvié
 type: location
-latitude: 6.468112
-longitude: 2.389967
 ---
 
-To people who expect to see the Venice of Africa, the town of Ganvie can be something of a disappointment. It is a bit spoilt by tourism (as is the European [Venice](/europe/italy/veneto/venice))and when arriving from [Cotonou](/africa/benin/cotonou) you can be beseiged by touts who want to guide you around.
+**Ganvié** is a town built entirely on stilts over Lake Nokoué, about 15 km north of [Cotonou](/africa/benin/cotonou). It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet — tourism has taken its toll, and arriving from Cotonou you will be surrounded by touts offering to guide you around.
 
+Still, the site is remarkable. During the worst days of the slave trade, the Tofinu people sought refuge on the lake because, according to the religion of the Abomey kingdom, it was forbidden to attack people on the water. In the Tofinu language, Ganvié means "the collectivity of those who found peace at last." The people who settled here built a complete town on stilts — houses, markets, a school — and their descendants still live there.
 
- Still the site is quite pretty and the history behind it is mnost remarkable. During the worst days of the slave trade, the Tofinu peoples sought refuge on the lakes, because according to the religion of the Abomey it was forbidden to attack people on the water. In the language of the Tofinu Ganvie means:
- the collectivity of those who found peace at last. The people who built their houses here have managed to construct a complete town on stilts.
+The best way to visit is by pirogue from the Abomey-Calavi shore. Expect to negotiate a price before setting out.

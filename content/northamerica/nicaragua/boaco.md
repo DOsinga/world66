@@ -1,8 +1,14 @@
 ---
-title: "Boaco"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 12.4722
+longitude: -85.6586
+title: Boaco
 type: location
 ---
 
-Travel Guide
+**Boaco** sits about 90 km northeast of Managua, a hill town that has grown from a quiet mountaintop community into the bustling capital of the Department of Boaco. The city spreads down the flanks of its mountain and out into the surrounding cattle country.
 
-Located about 90 km from Managua in hilly cattle country, Boaco is also the seat of government of the Department of Boaco that was originally a part of the vast Department of Chontales. What was earlier a serene community on a mountain top is now a bustling city spreading down the flanks of the mountain and out into the countryside. There are currently several hundred autos serving as taxicabs, congesting the narrow streets, and choking the citizenry with pollutants and noise. During the rainy season, surrounding hills have the look of green velvet; during the dry season, they turn tan and crisp. The supply of water and electricity is irregular, and a new traffic signal often fails due to a power outage. This contrast between the modern and primitive is unsettling but interesting.
+During the rainy season the hills look like green velvet; in the dry season they turn tan and crisp. The contrast between modern and traditional is everywhere — narrow streets clogged with taxis alongside unreliable water and electricity. It is unsettling but genuinely interesting, the kind of place where a traffic signal fails mid-cycle because the power went out.
+
+Boaco is not a tourist destination in any conventional sense, but travellers passing through the Nicaraguan highlands will find an honest, working Nicaraguan city with good views and a distinctive character.

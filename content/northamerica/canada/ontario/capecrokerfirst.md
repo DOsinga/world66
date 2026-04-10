@@ -1,12 +1,14 @@
 ---
-title: "Cape Croker First Nation"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.893
+longitude: -81.1175
+title: Cape Croker
 type: location
 ---
 
-This is one of 13 First Nation (American Indian) Reserves that have never been out of Native control. There is a campground and hiking. It is located on Bruce Peninsula in lake Huron north of Sarnia/Port Huron. 
+**Cape Croker** (Neyaashiinigmiing) is a Chippewas of Nawash First Nation reserve on the Bruce Peninsula, overlooking Georgian Bay. The reserve has never left Indigenous control and is one of the more welcoming First Nations communities for visitors in Ontario.
 
-Nestled between high limestone bluffs, the Park encompasses 520 acres of land and has more then 250 campsites. Some of them are for trailers, complete with hydro hook-up. But all of them are comfortably laid out and close to all amenities you’ll need while you’re away from home. 
+The main draw is **Cape Croker Park**, which sits between high limestone bluffs on the shore of Georgian Bay. The park has over 250 campsites, a section of the Bruce Trail, swimming, and canoeing. The water is clear and cold, and the bluffs give the landscape a dramatic edge.
 
-From hiking the Bruce Trail to swimming in Georgian Bay, from canoeing to simply soaking up the warm atmosphere, all our visitors to the Cape Croker Indian Park are guaranteed their own special experience.
-
-Minor corrections by [snowwolf](/world/member/snowwolf) on 03 March 04
+It is a quiet, beautiful spot — a good alternative to the more crowded provincial parks further up the peninsula.

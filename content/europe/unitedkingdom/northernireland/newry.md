@@ -1,8 +1,10 @@
 ---
-title: "Newry"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 54.177528
 longitude: -6.337506
+title: Newry
+type: location
 ---
 
 Newry straddles the border between Northern Ireland and the Republic in all but name — the frontier is just a few miles south, and the town has always been a crossing point. It sits in the gap between the Mourne Mountains and Slieve Gullion, with the Newry Canal (the oldest summit-level canal in the British Isles) running through the centre.

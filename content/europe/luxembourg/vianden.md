@@ -1,14 +1,14 @@
 ---
-title: "Vianden"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 49.933698
 longitude: 6.206671
+title: Vianden
+type: location
 ---
 
-Located near the German border this town is the site of the Castle of Vianden the largest castle in the region.
+Vianden is a small town in northeastern [Luxembourg](/europe/luxembourg), set in a narrow valley of the Our river near the German border. It is dominated by the Castle of Vianden, one of the largest fortified castles west of the Rhine, perched on a rocky promontory above the town. The castle dates from the 11th to 14th centuries and has been extensively restored — the interior is open to visitors and the views over the valley are excellent. A chairlift from the town centre takes you to the hilltop above for an even wider panorama.
 
+Victor Hugo lived in Vianden during his exile from France, and his former house on the main street is now a small museum. There is also a folklore museum.
 
- Vianden is also known for the house of Victor Hugo which houses a small museum nowadays. There is also a folklore museum. The area around Vianden is very scenic. You can easily imagine how old Victor Hugo wandered around the woods.
-
-
- Vianden is 40 km northeast of [Luxembourg city](/europe/luxembourg/luxembourgcity).
+The surrounding countryside is some of the most scenic in Luxembourg, with forested hills and walking trails along the river. Vianden is 40km northeast of [Luxembourg City](/europe/luxembourg/luxembourgcity) and easy to visit as a day trip.

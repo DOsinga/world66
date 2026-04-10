@@ -3,10 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-There are direct train services from Kyoto daily, leaving at 0925hrs,
-taking just under two hours to get there. Part of the train journey is
-managed by a private railway company, so JR Rail Pass holders will need
-to pay a supplement.
+There are direct train services from Kyoto, taking just under two hours. Part of the journey runs on the Kitakinki Tango Railway (now Kyoto Tango Railway), a private line, so JR Rail Pass holders will need to pay a supplement for that section.
 
-**Contributors**
-October 25, 2005
+From Osaka, the journey takes around two and a half hours with a change in Kyoto or Fukuchiyama. Highway buses also run from Kyoto and Osaka.

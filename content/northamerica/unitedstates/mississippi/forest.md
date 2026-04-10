@@ -1,12 +1,14 @@
 ---
-title: "Forest"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 32.3646
+longitude: -89.4742
+title: Forest
 type: location
-latitude: 41.532976
-longitude: -79.264091
 ---
 
-Travel Guide
+Forest is a small town in Scott County, [Mississippi](/northamerica/unitedstates/mississippi), sitting off I-20 about halfway between Jackson and Meridian. It is primarily an agricultural community and the county seat.
 
-Not so much a city as a small town, Forest is located off I-20 in Scott County, about halfway between Jackson and Meridian. Primarily an agricultural community, the claim-to-fame here is the Annual Wing Dang Doodle Festival held every September. This festival celebrates two things: chicken and blues music. Visitors are allowed to judge the wing cooking contest which reportedly has some of the best wings in the region.
+The town's claim to fame is the Annual Wing Dang Doodle Festival, held every September, which celebrates chicken wings and blues music. Visitors can judge the wing cooking contest, which reportedly produces some of the best wings in the region.
 
-For nature enthusiasts, there is the Bienville National Forest which includes the 23-mile Shockaloe Horse trail (off Hwy 80 -- available to hikers and horses). This is a very easy trail with beautiful scenery that winds through the forest; however it can be quite muddy after a good rain. Trail is clearly marked througout. The standard marker is a wooden sigh with a horse and rider on it. Spring/Summer visitors should come prepared with some type of bug repellent.
+For nature enthusiasts, the Bienville National Forest lies nearby and includes the 23-mile Shockaloe Horse Trail (off Hwy 80), open to hikers and horses. The trail winds through beautiful forest scenery and is clearly marked, though it can get muddy after rain. Spring and summer visitors should bring bug repellent.

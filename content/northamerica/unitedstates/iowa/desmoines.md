@@ -1,14 +1,16 @@
 ---
-title: "Des Moines"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.586865
 longitude: -93.624949
+title: Des Moines
+type: location
 ---
 
-Des Moines is the capital of Iowa. Greater Des Moines offers something for everyone. Spend the morning at Living History Farms and the afternoon at Blank Park Zoo. Enjoy a weekend exploring some of Des Moines' historic homes – like Salisbury House, Hoyt Sherman Place or Terrace Hill.
+Des Moines is the capital of [Iowa](/northamerica/unitedstates/iowa) and its largest city, sitting where the Des Moines and Raccoon rivers meet. It is more interesting than its reputation as a flyover-country capital might suggest.
 
+The gold-domed State Capitol dominates the skyline from the east side. Downtown has reinvented itself around the Western Gateway Park and the Pappajohn Sculpture Park, a free outdoor collection of major contemporary works. The Des Moines Art Center, designed in three stages by Eliel Saarinen, I.M. Pei, and Richard Meier, is one of the best small art museums in the Midwest.
 
- State Capitol Building and Historical Building along with the Des Moines Art Center, Science Center and Botanical Gardens are definitely among the favorites of many visitors.
+The East Village neighbourhood has the best concentration of independent restaurants and bars. The downtown Farmers' Market, running Saturday mornings from May to October, draws huge crowds and is genuinely worth the early start. Living History Farms, on the western edge of the metro, recreates Iowa life from the 1700s to the 1900s across several working farmsteads.
 
-
- Des Moines offers performing arts – from theater, symphony, world-class opera, to an eclectic array of community and alternative theater options. Weekends bring flea markets, bazaars, art fairs or craft shows to the capitol city. Add to the mix three shopping malls full of fun and funky stores, water parks, horse-racing, slot machines along with Cubs baseball, Bucs hockey and you have the exciting year round city of Des Moines.
+Des Moines gets bitterly cold in winter and hot and humid in summer. The Iowa State Fair in August is the real cultural event — one of the largest and oldest state fairs in the country.

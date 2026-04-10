@@ -1,10 +1,12 @@
 ---
-title: "Sveg"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 62.036071
 longitude: 14.359839
+title: Sveg
+type: location
 ---
 
-Travel Guide
+Sveg is the main town of Härjedalen in Jämtland county, a small settlement of about 2,500 people on the river Ljusnan in northern Sweden. It is a stop on the Inlandsbanan, the inland railway that runs through the Swedish north — a scenic journey in itself.
 
-Sveg is the central municipality in the province Härjedalen (Jämtland county) with about 2500 inhabitants. It is situated at the river Ljusnan and at the inland railway through north Sweden (Inlandsbanan). It has a peat industry and a sawmill. It is the gateway to the tourist areas of the mountainous western parts of the province.
+The town is not a destination so much as a gateway to the mountainous western parts of the province, where hiking, skiing, and fishing draw visitors in season. Sveg itself is quiet and functional, with basic services and a handful of places to eat.

@@ -1,8 +1,12 @@
 ---
-title: "Visegrad"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.7846
+longitude: 18.9703
+title: Visegrad
 type: location
-latitude: 47.784581
-longitude: 18.970337
 ---
 
-The town of Visegrad is not too spectacular in itself. The most interesting thing to be seen is the Visegrad ruins. These consist of the citadel on top of the mountain, and the largely reconstructed Royal Palace, Water Bastion and Salamon Tower. From here you can overlook one of the most beautiful stretches of the Danube.
+Visegrad sits on the Danube Bend, where the river makes its sharp turn south toward Budapest. The town itself is small and quiet, but the hilltop citadel and the reconstructed Royal Palace below it are the real draw. From the citadel walls you get one of the finest views of the Danube anywhere along its course.
+
+The Royal Palace was the seat of Hungarian kings in the fourteenth and fifteenth centuries, and the largely reconstructed complex — along with the Salamon Tower and Water Bastion at the riverside — gives a good sense of the scale of medieval Hungarian power. Visegrad is an easy day trip from Budapest and pairs well with the neighbouring towns of [Esztergom](/europe/hungary/esztergom) and [Szentendre](/europe/hungary/szentendre) along the Danube Bend.

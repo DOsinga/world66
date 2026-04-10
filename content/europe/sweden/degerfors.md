@@ -1,10 +1,12 @@
 ---
-title: "Degerfors"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 59.266667
 longitude: 14.433333
+title: Degerfors
+type: location
 ---
 
-Travel Guide
+Degerfors sits on the [Stockholm](/europe/sweden/stockholm)–[Oslo](/europe/norway/oslo) road at the eastern edge of Värmland province. It is a small industrial town built on steel, though the mills have been declining for years. The football team, Degerfors IF, has been the more reliable source of local pride.
 
-Degerfors on the [Stockholm](/europe/sweden/stockholm) – [Oslo](/europe/norway/oslo) road at the eastern border of the province Värmland is wellknown for its steel industry, its successful football team and for Sveafallen (“the Svea rapids”). The steel industry has been in a downward trend in recent years but the football team is still going strong. Sveafallen, just outside Degerfors, are dead and dry since thousands of years but they left a dramatic topography well worth a visit. Mountaineering can be practiced there.
+The reason to stop is **Sveafallen** just outside town — ancient rapids that dried up thousands of years ago, leaving behind a dramatic landscape of carved rock channels and steep gorges. The terrain is good for scrambling and rock climbing, and it is a striking geological curiosity even if you just walk through.

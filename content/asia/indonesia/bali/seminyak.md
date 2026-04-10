@@ -1,10 +1,12 @@
 ---
-title: "Seminyak"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -8.69056
 longitude: 115.168704
+title: Seminyak
+type: location
 ---
 
-Travel Guide
+Seminyak is [Bali](/asia/indonesia/bali)'s upmarket beach strip, running north from [Kuta](/asia/indonesia/bali/kuta) and Legian along the west coast. What was once a quiet township is now the island's centre for boutique shopping, international restaurants, and beach clubs — a world away from Kuta's backpacker scene just down the road.
 
-Seminyak** **is a mixed tourist residential area on the west coast of Bali just north of Kuta and Legian. Originally a separate township, this is now just another suburb of Kuta. This area is very popular with resident expatriates and land and accommodation prices are amongst the highest in Bali. Plenty of luxury spas and hotels abound. Owing to its high density of high-end shopping, combined with the clustering of many fine eating establishments, it has rapidly become one of the most well known tourist areas on the island.
+The beach is wide and west-facing, which means good sunsets and reliable surf. Jalan Kayu Aya (known as "Eat Street") and Jalan Petitenget are the main drags, lined with designer shops, cocktail bars, and restaurants covering everything from Balinese to Japanese to Italian. Seminyak attracts a more affluent crowd than its southern neighbours, along with a large expat community. Prices are among the highest in Bali, but the quality of food and nightlife is noticeably better too.

@@ -1,16 +1,12 @@
 ---
-title: "Pilis Hills"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.711
+longitude: 18.897
+title: Pilis Hills
 type: location
 ---
 
-Travel Guide
+The Pilis Hills are a compact forested range northwest of [Budapest](/europe/hungary/budapest), reachable in under an hour by car or bus. For anyone spending a few days in the capital, they are the easiest escape into genuine Hungarian countryside — limestone ridges, beech forests, and well-marked hiking trails with views down to the Danube Bend.
 
-Within an hour's car or bus drive of Budapest to the north-west are the well-forested Pilis Hills.
-
-These hills offer much to hikers and day-trippers looking to swap the bustle of Budapest for a calm and scenic spot. Look at hikers maps of this area and you will note an abundance of routes ranging from easy to challenging but all with much to offer.
-
-The Danube river is just to the north. The river forms the end point of perhaps the 2 most popular walks in the Pilis:
-
-1. From Dobogoko to Domos via the Ramszakadek (ravine)
-
-2. From Pilisszentlaszlo to Visegrad.
+The two most popular walks both end at the Danube: **Dobogókő to Dömös** via the Ram-szakadék ravine, a narrow gorge with ladders and chains on the steeper sections; and **Pilisszentlászló to Visegrád**, a gentler ridge walk that finishes at the medieval castle above the river. Both are half-day hikes and can be combined with a return to Budapest by HÉV suburban rail or bus from the riverside towns.

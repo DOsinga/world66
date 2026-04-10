@@ -1,8 +1,10 @@
 ---
-title: "Banjamarsin"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -3.3186
 longitude: 114.5944
+title: Banjamarsin
+type: location
 ---
 
 Banjamarsin is a city built on water. Its maze of canals and rivers thread through the urban fabric, and life plays out on and around the water — in stilt houses, on wooden boats, and at the famous floating market that draws visitors from across the island. It is the most accessible introduction to Kalimantan and a comfortable base for onward exploration.

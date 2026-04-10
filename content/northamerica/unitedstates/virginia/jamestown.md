@@ -1,16 +1,12 @@
 ---
-title: "Jamestown"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.208918
 longitude: -76.7783
+title: Jamestown
+type: location
 ---
 
-Travel Guide
+Jamestown is where English America began. Founded in 1607, it was the first permanent English settlement on the continent and the site of the first representative assembly in the New World. Today the original island is a National Park, where ongoing archaeological excavations have uncovered the foundations of the 1607 fort and thousands of artefacts from the colony's earliest — and most desperate — years.
 
-Virginia is also home to Jamestown, the first permanent English
-settlement in America. Jamestown was founded in 1607 and was the site
-of the first representative government in America. Today, Jamestown
-island is a National Park, open year round to the public, and located
-nearby is Jamestown Settlement. Visitors are welcome to visit the
-Settlement and explore recreations of the Jamestown fort, the three
-ships that sailed from England and a Powahatan Indian village.
+Adjacent to the archaeological site, Jamestown Settlement is a living-history museum with full-scale recreations of the three ships that crossed the Atlantic, the colonists' fort, and a Powhatan village. Between the two sites you can easily spend a full day. Jamestown sits on the Colonial Parkway, which also connects [Williamsburg](/northamerica/unitedstates/virginia/williamsburg) and Yorktown — the so-called Historic Triangle of Virginia.

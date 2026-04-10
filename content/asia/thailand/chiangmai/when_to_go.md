@@ -1,26 +1,12 @@
 ---
-title: "When to Go in Chiang mai"
+title: "When to Go"
 type: section
 ---
 
-** **
+Chiang Mai's climate is different from Bangkok and southern Thailand thanks to its mountainous setting in the north.
 
-** Rent a car with a driver. Travel in Chiang Mai**
+The cool season runs from late October to the end of February, with average daytime temperatures around 21°C (70°F) and noticeably cooler nights. December and January are the coolest months and the most pleasant time to visit — warm days, cool evenings, and little rain.
 
-****
+The hot season runs from early March to the end of May, with average daytime temperatures around 30°C (85°F). March and April can be hazy from agricultural burning in the surrounding hills.
 
-We are a friendly and professional taxi service.
-Our knowledgeable drivers and courteous service-center staff make getting around Chiang Mai convenient and enjoyable.
-We pride ourselves on our high customer satisfaction and excellent
-safety record.
-
-Please call us or e-mail to us for more information or booking now and let us show you around this wonderful city and great activity.
-
-** BUNNY SERVICE**
-
-1.Transfer from airport to hotel start **150 **baht per car
-2.Recommended attractions in Chiang Mai
-
-**Phone : +66898512768**
-
-**e-mail : ****niceguy2510@gmail.c**om
+The rainy season begins in early June and lasts through October, with September typically the wettest month. Showers tend to be heavy but short, and the countryside is at its greenest.

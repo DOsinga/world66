@@ -1,5 +1,5 @@
 ---
-title: "Getting There in The Woodlands"
+title: "Getting There"
 type: section
 ---
 

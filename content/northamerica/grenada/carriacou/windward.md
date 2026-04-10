@@ -1,8 +1,10 @@
 ---
 title: "Windward"
 type: location
+latitude: 12.4878
+longitude: -61.4417
 ---
 
-Travel Guide
+Windward is a small village on the eastern coast of Carriacou, the largest of Grenada's sister islands. It has an unusual history: a group of Scottish boatbuilders settled here in the 19th century, and their names and skills have been passed down through the generations.
 
-The village of Windward was home to a group of Scottish boatbuilders who settled here in the 19th century. The Scottish names and boatbuilding skills have been passed down through the generations. Many locally built boats from small fishing sloops to large trading schooners are seen in the Carriacou waters. Boat building is still carried out in the traditional way on the beaches but fewer have been built in recent years
+Traditional boatbuilding is still carried out on the beach, using hand tools and techniques that have barely changed in two hundred years. You can watch the craftsmen at work on fishing sloops and trading schooners, though fewer boats are being built now than in past decades. The Carriacou Regatta, held every August, is the best time to see these locally built boats in action.

@@ -1,11 +1,12 @@
 ---
-title: "Kramfors"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 62.916667
 longitude: 17.666667
+title: Kramfors
+type: location
 ---
 
-Travel Guide
+Kramfors is a small town of about 6,000 people in the province of Ångermanland, close to the Ångermanälven — one of Sweden's largest rivers. The town grew up around saw mills and paper mills, most of which closed in the 1970s, and it has been losing population since.
 
-In 1947 Gudmundrå parish in the province Ångermanland became the town Kramfors. It is situated close to Ångermanälven , Sweden ’s biggest river, and has about 6 000 inhabitants. The economy was based on saw mills and paper mills but most of these were closed down in the 1970s and since then many people have been forced to move. Most people today work with service or administration.
-Kramfors is a convenient base for excursions to [the](/europe/sweden/the_high_coast) [High Coast](/europe/sweden/the_high_coast) or along Ångermanälven.
+The main reason to stop here is its position as a base for exploring the [High Coast](/europe/sweden/the_high_coast), a UNESCO World Heritage Site of dramatic cliffs, islands, and old fishing villages along the Bothnian Sea. Excursions along the Ångermanälven are also worthwhile.

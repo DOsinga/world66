@@ -1,8 +1,10 @@
 ---
-title: "Rockland"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.1048
 longitude: -69.1092
+title: Rockland
+type: location
 ---
 
 Rockland is a working harbor town on Penobscot Bay that has quietly become one of the more compelling stops on the Maine coast. It bills itself as the lobster capital of the world, and during the Maine Lobster Festival in late July and early August, the claim is hard to dispute — the harbor fills with windjammer schooners, the smell of steaming shellfish drifts down Main Street, and the whole town leans into it.

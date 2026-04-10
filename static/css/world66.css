@@ -646,31 +646,6 @@ img { max-width: 100%; height: auto; }
   font-size: 11px;
 }
 
-/* Nested nav list for section_group children (neighbourhoods, themes) */
-.sidebar-nav-nested {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.sidebar-nav-nested li a {
-  display: block;
-  padding: 4px 14px 4px 28px;
-  font-size: 13px;
-  color: var(--text-light);
-  text-decoration: none;
-}
-
-.sidebar-nav-nested li a:hover {
-  background: rgba(0,0,0,0.04);
-  text-decoration: none;
-}
-
-.sidebar-nav-nested li.active a {
-  background: var(--red-bg);
-  color: var(--red);
-}
-
 /* Sidebar toggle — hidden on desktop */
 .sidebar-toggle {
   display: none;

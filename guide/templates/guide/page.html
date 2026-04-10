@@ -34,42 +34,14 @@
       {% if parent %}
       <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in parent_sections %}
-      {% if s.page_type == "section_group" %}
-      <li{% if active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
-        <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
-        {% if s.nav_children %}
-        <ul class="sidebar-nav-nested">
-          {% for child in s.nav_children %}
-          <li{% if child.slug == page.slug %} class="active"{% endif %}>
-            <a href="{{ child.get_absolute_url }}">{{ child.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </li>
-      {% else %}
       <li{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
         <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
       </li>
-      {% endif %}
       {% endfor %}
       {% else %}
       <li class="active"><a href="{{ page.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in sections %}
-      {% if s.page_type == "section_group" %}
-      <li>
-        <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
-        {% if s.nav_children %}
-        <ul class="sidebar-nav-nested">
-          {% for child in s.nav_children %}
-          <li><a href="{{ child.get_absolute_url }}">{{ child.title }}</a></li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </li>
-      {% else %}
       <li><a href="{{ s.get_absolute_url }}">{{ s.title }}</a></li>
-      {% endif %}
       {% endfor %}
       {% endif %}
     </ul>
@@ -221,6 +193,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
           {% endif %}
         </span>
         {% endfor %}
+        {% if poi.snippet %}{{ poi.snippet }}{% endif %}
       </td>
     </tr>
     {% endfor %}

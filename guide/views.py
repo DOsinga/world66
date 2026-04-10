@@ -97,9 +97,12 @@ def location_or_section(request, path):
     if _cpath:
         city_tag_index = build_city_tag_index(_cpath)
 
-    # Nav pages collect their POIs by tag; section_groups collect their child nav pages
+    # Nav pages collect their POIs by tag; section_groups collect their child nav pages.
+    # nav_children are populated by the parent's children() call, so look up this
+    # section_group in parent_nav to get the enriched version with nav_children attached.
     if page.page_type == "section_group":
-        pois = nav_pages
+        sg_enriched = next((n for n in parent_nav if n.slug == page.slug), None)
+        pois = sg_enriched.nav_children if sg_enriched else nav_pages
     elif page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
 

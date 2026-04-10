@@ -5,10 +5,8 @@ latitude: 20.167451
 longitude: -16.224841
 ---
 
-An alternative to the Banc d'Arguin, the Cape Tagarit is nort of Tidra. you can fish, snorkel and camp without special permissions. You do not need a guide to take you here either.
+Cape Tagarit is a quiet coastal alternative to the Banc d'Arguin, sitting north of Tidra island on Mauritania's Atlantic coast. Unlike the national park, you don't need special permits or a guide to visit — you can fish, snorkel, and camp here freely.
 
+The water is clear and the views over the bay are genuinely beautiful. Big fish are visible below the surface, and sea turtles are a real possibility. Sea bass and sea bream are the most likely catches if you're fishing.
 
- The views over the water are great. The water itself is very clear and there are big fish and turtles to be seen. Sea Bass and Sea bream are your most likely catches.
-
-
- In order to go to the cape, you need a 4WD. It is about 100 km north of Amghouar. You can reach it in about a day from both Nouakchott and Nouadhibou.
+Getting here requires a 4WD. The cape is about 100 km north of Amghouar and can be reached in a day from both Nouakchott and Nouadhibou.

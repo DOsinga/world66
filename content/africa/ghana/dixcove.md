@@ -1,8 +1,10 @@
 ---
-title: "Dixcove"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 4.7948
 longitude: -1.9464
+title: Dixcove
+type: location
 ---
 
 Dixcove is a small fishing village on Ghana's southwest coast, about 30 km west of Takoradi. It sits on a rocky headland around a natural harbour, with fishing canoes pulled up on the beach and the smell of the sea everywhere. It's a quiet, unpretentious place — not a resort, just a working village that happens to have one of the most impressive forts on the coast and easy access to one of Ghana's best beaches.

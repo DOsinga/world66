@@ -1,11 +1,14 @@
 ---
-title: "Kavaratti"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 10.5672
+longitude: 72.6395
+title: Kavaratti
 type: location
-latitude: 10.56722
-longitude: 72.639464
 ---
 
-The historical record shows that around the 7th century a Muslim saint was shipwrecked on the island of Amini. The inhabitants were converted to Islam despite initial opposition. Kavaratti is dotted with 52 mosques of which the Ujra mosque is most outstanding. The entrance presents a perspective of flowing lines, sinuous scrolls and pillars with floral embellishments - all this carved out a piece of driftwood washed ashore! A well in the precincts is said to have waters with curativel powers.
+Kavaratti is the administrative capital of [Lakshadweep](/asia/india/lakshadweep), India's smallest union territory -- a scattering of coral islands in the Arabian Sea about 400 km off the Kerala coast. The island is small enough to walk across in an hour, fringed by white sand and shallow turquoise lagoons.
 
+The island's history goes back centuries. Around the 7th century, a Muslim saint was shipwrecked on nearby Amini, and the islanders eventually converted to Islam. Kavaratti is dotted with 52 mosques, the most striking being the Ujra Mosque. Its entrance is a marvel of carved driftwood -- flowing lines, sinuous scrolls and floral pillars, all shaped from a single piece of wood washed ashore. A well in the mosque grounds is said to have curative powers.
 
- Kavaratti also boasts an aquarium and a museum. Facilities for swimming, kayaking, water-skiing, snorkeling and sailing are available for visitors.
+Beyond the mosques, there is a small aquarium and a marine museum. The real draw is the water: swimming, snorkelling, kayaking and sailing are all available, and the coral reefs just offshore are among the best-preserved in India. Permits are required for all visitors to Lakshadweep and are arranged through tour operators or the Lakshadweep tourism office in Kochi.

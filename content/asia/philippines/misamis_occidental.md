@@ -1,24 +1,12 @@
 ---
-title: "Misamis Occidental"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 8.333333
 longitude: 123.7
+title: Misamis Occidental
+type: location
 ---
 
-Travel Guide
+Misamis Occidental is a province near the narrow strip of land linking northwestern Mindanao to the north-central part of the island. It is bounded by the Mindanao Sea to the northeast, Iligan Bay to the east, Panguil Bay to the southeast, and the provinces of Zamboanga del Norte and del Sur to the west.
 
-Misamis Occidental
-is located near the narrow strip of land linking northwestern Mindanao
-to the north central part of the island. It is bounded on the northeast
-by the Mindanao Sea, east by the Iligan Bay, southeast by the Panguil
-Bay, and west by Zamboanga del Norte and del Sur.
-
-The fact that three
-of its boundaries are bodies of water makes fishing as one of its main
-industries. Except along the coastal area, hilly and rolling lands
-characterize the provincial terrain. Towards the western border, the
-terrain is particularly rugged. The province falls between 6 and 9
-degrees east longitude.
-
-**Contributors**
-June 22, 2006
+With three of its boundaries formed by water, fishing is one of the main industries. The terrain beyond the coastal areas is hilly and rolling, becoming particularly rugged towards the western border.

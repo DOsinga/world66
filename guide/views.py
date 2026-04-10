@@ -9,7 +9,10 @@ from django.http import FileResponse, Http404, JsonResponse
 from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
-from .models import CONTENT_DIR, load_page, load_tag_index
+from .models import (
+    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
+    load_page, load_tag_index, resolve_tag_route, _find_city_path,
+)
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
@@ -30,38 +33,74 @@ def location_or_section(request, path):
     path = path.strip("/")
 
     page = load_page(path)
+    context_nav = None  # nav page used to reach this POI (for sidebar context)
+
     if not page:
-        # Check redirects (flattened sub-regions)
+        # Try virtual tag-based routing: city/nav-slug/poi-slug
+        page, context_nav = resolve_tag_route(path)
+
+    if not page:
         redirects = _load_redirects()
         new_path = redirects.get(path)
         if new_path:
             return redirect("/" + new_path, permanent=True)
         raise Http404
 
-    # Derive parent for section/poi pages
+    # Derive parent for nav/poi pages
     parent = None
-    if page.page_type in ("section", "poi") and "/" in page.path:
+    if page.page_type in NAV_TYPES | {"poi"} and "/" in page.path:
         parent_path = page.path.rsplit("/", 1)[0]
         parent = load_page(parent_path)
 
-    parent_sections = []
+    # Build sidebar nav: nav_pages from the parent (city or section_group).
+    # For POIs the immediate parent is the section, which has no nav children —
+    # walk up one more level to the city so the sidebar shows all city sections.
+    parent_nav = []
     parent_locations = []
+    active_nav = None   # which nav item should be highlighted in the sidebar
     if parent:
-        parent_sections, parent_locations, _ = parent.children()
+        parent_nav, parent_locations, _ = parent.children()
+        if page.page_type == "poi" and not parent_nav and "/" in parent.path:
+            # Parent is a section with no nav children — use grandparent (city)
+            grandparent = load_page(parent.path.rsplit("/", 1)[0])
+            if grandparent and grandparent.page_type == "location":
+                parent_nav, parent_locations, _ = grandparent.children()
+                active_nav = parent   # mark the section as active in the sidebar
 
+    # For a POI reached via a context nav page, build sidebar from that nav page
+    nav_siblings = []
+    if context_nav:
+        nav_siblings = context_nav.tagged_pois()
+        if active_nav is None:
+            active_nav = context_nav  # highlight the context section in the city sidebar
+
+    # Contextual URL prefix for POI links on nav pages (section/neighbourhood/theme).
+    # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
+    poi_context_prefix = None
+    _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
+    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
+        poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
-    sections, locations, pois = page.children()
+    nav_pages, locations, pois = page.children()
 
-    # For section pages, load POIs
-    if page.page_type == "section":
-        pois = page.pois()
+    # Build the city tag index once so all tagged_pois() calls reuse it.
+    city_tag_index = None
+    _cpath = _city_path if page.page_type in NAV_TYPES else (page.path if nav_pages else None)
+    if _cpath:
+        city_tag_index = build_city_tag_index(_cpath)
+
+    # Nav pages collect their POIs by tag; section_groups collect their child nav pages
+    if page.page_type == "section_group":
+        pois = nav_pages
+    elif page.page_type in NAV_TYPES:
+        pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
-    if page.page_type == "section" and pois:
+    if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
-    # Map context — validate lat/lng as floats
+    # Map context
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
 
@@ -69,10 +108,8 @@ def location_or_section(request, path):
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
 
-    # Collect map markers from children
-    markers = _collect_markers(page, sections, locations, pois)
+    markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
-    # Hero image
     image_path = _image_path(page)
     hero_image_url = f'/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
@@ -81,11 +118,15 @@ def location_or_section(request, path):
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
-        "sections": sections,
+        "sections": nav_pages,           # child nav pages of current page (location sidebar)
         "locations": locations,
         "pois": pois,
-        "parent_sections": parent_sections,
+        "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
+        "active_nav": active_nav,        # nav page to mark active (when POI bumped to grandparent nav)
+
+        "context_nav": context_nav,
+        "nav_siblings": nav_siblings,
         "body_html": body_html,
         "breadcrumbs": page.breadcrumbs(),
         "lat": lat,
@@ -96,9 +137,10 @@ def location_or_section(request, path):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
-        "tags": page.tags,
+        "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
+        "poi_context_prefix": poi_context_prefix,
     })
 
 
@@ -119,8 +161,6 @@ def search_api(request):
     conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
     try:
-        # Split into words, quote each, add * to last for prefix matching
-        # "berlin cycling" → "berlin" "cycling"*
         words = query.split()
         parts = ['"' + w.replace('"', '""') + '"' for w in words[:-1]]
         parts.append('"' + words[-1].replace('"', '""') + '"*')
@@ -163,22 +203,15 @@ _SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "thi
 
 
 def _marker_from_page(page, highlight=False):
-    """Extract a map marker dict from a page, or None if no coords."""
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
     if lat is not None and lng is not None:
-        return {"lat": lat, "lng": lng, "name": page.title, "url": page.get_absolute_url(), "highlight": highlight}
+        return {"lat": lat, "lng": lng, "name": page.title,
+                "url": page.get_absolute_url(), "highlight": highlight}
     return None
 
 
-def _collect_markers(page, sections, locations, pois):
-    """Collect map markers from child pages.
-
-    For locations: markers come from child locations (cities in a country).
-    For sections: markers come from POIs.
-    Also gathers POIs from all sections (including their subdirectories).
-    Sights-section POIs are flagged highlight=True.
-    """
+def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     markers = []
     seen = set()
 
@@ -193,24 +226,23 @@ def _collect_markers(page, sections, locations, pois):
     for poi in pois:
         add(_marker_from_page(poi))
 
-    # Gather POIs from inside each section's subdirectory
-    for section in sections:
-        is_sight = section.slug in _SIGHT_SLUGS
-        for poi in section.pois():
+    for nav in nav_pages:
+        if nav.page_type == "section_group":
+            continue
+        is_sight = nav.slug in _SIGHT_SLUGS
+        for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
             add(_marker_from_page(poi, highlight=is_sight))
 
     return markers
 
 
 def _image_path(page):
-    """Build the content-relative path to a page's hero image."""
     image = page.meta.get('image', '')
     if not image:
         return None
-    # Check both possible locations for the image file
     for candidate in [
-        f'{page.path}/{image}',                                          # inside directory
-        f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,  # next to .md
+        f'{page.path}/{image}',
+        f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,
     ]:
         if (CONTENT_DIR / candidate).is_file():
             return candidate
@@ -218,7 +250,6 @@ def _image_path(page):
 
 
 def content_image(request, path):
-    """Serve an image file from the content directory."""
     file_path = (CONTENT_DIR / path).resolve()
     if not file_path.is_relative_to(CONTENT_DIR.resolve()):
         raise Http404
@@ -227,9 +258,7 @@ def content_image(request, path):
     return FileResponse(open(file_path, 'rb'))
 
 
-
 def _safe_float(value):
-    """Return value as float, or None if invalid."""
     if value is None:
         return None
     try:

@@ -34,7 +34,7 @@
       {% if parent %}
       <li><a href="{{ parent.get_absolute_url }}"><strong>General</strong></a></li>
       {% for s in parent_sections %}
-      <li{% if s.slug == page.slug %} class="active"{% endif %}>
+      <li{% if s.slug == page.slug or active_nav and s.slug == active_nav.slug %} class="active"{% endif %}>
         <a href="{{ s.get_absolute_url }}">{{ s.title }}</a>
       </li>
       {% endfor %}
@@ -74,11 +74,25 @@
   </div>
   {% endif %}
 
-  {% if pois %}
+  {% if nav_siblings %}
   <div class="sidebar-box">
     <h3 class="sidebar-box-title">
       <span class="box-accent"></span>
-      {% if page.page_type == "section" %}{{ page.title }}{% else %}Highlights{% endif %}
+      {{ context_nav.title }}
+    </h3>
+    <ul class="sidebar-nav">
+      {% for poi in nav_siblings %}
+      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
+        <a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% elif pois %}
+  <div class="sidebar-box">
+    <h3 class="sidebar-box-title">
+      <span class="box-accent"></span>
+      {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{{ page.title }}{% else %}Highlights{% endif %}
     </h3>
     <ul class="sidebar-nav">
       {% for poi in pois %}
@@ -148,7 +162,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
-{% if page.page_type == "section" and pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
 {% if poi_categories %}
 <div class="poi-filter-bar">
   <button class="poi-filter-btn poi-filter-active" data-filter="">All</button>
@@ -164,7 +178,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   <tbody>
     {% for poi in pois %}
     <tr{% if poi.category %} data-category="{{ poi.category }}"{% endif %}>
-      <td class="poi-table-name"><a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a></td>
+      <td class="poi-table-name"><a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}">{{ poi.title }}</a></td>
       <td class="poi-table-details">
         {% if poi.category %}<span class="poi-category-badge">{{ poi.category }}</span>{% endif %}
         {% for key, value in poi.properties.items %}
@@ -207,11 +221,12 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </script>
 {% endif %}
 {% endif %}
+{% endif %}
 
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}
-  <a href="/tags/{{ tag|urlencode }}" class="tag">{{ tag }}</a>
+  <span class="tag">{{ tag }}</span>
   {% endfor %}
 </div>
 {% endif %}

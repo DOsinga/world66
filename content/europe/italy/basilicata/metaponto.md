@@ -1,12 +1,12 @@
 ---
-title: "Metaponto"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 40.374078
 longitude: 16.810096
+title: Metaponto
+type: location
 ---
 
-**Metaponto **was
-founded in the 7th century BC by Greek colonizers, - Pythagoras was
-born here. Later it was part of Carthago and later a roman city. From
-all periods yuo can find some remains in the Parco Archeologico and the
-Museo Archeologico Nazionale.They are about 3 km from the train station .
+Metaponto is a small coastal town in [Basilicata](/europe/italy/basilicata) where the Ionian Sea meets one of the richest Greek colonial landscapes in Italy. Founded in the 7th century BC by Greek settlers, it was here that Pythagoras spent the last years of his life after fleeing Croton. The town's archaeological legacy is exceptional — layers of Magna Graecia, Carthaginian, and Roman occupation are all visible.
+
+The Parco Archeologico preserves the remains of temples, a theatre, and the grid plan of the ancient city. The Museo Archeologico Nazionale next door holds the finds from decades of excavation, including pottery, coins, and votive offerings. Both are about 3 km from the modern train station. The Lido di Metaponto, the beach resort strip, is a completely separate settlement — pleasant enough in summer but with nothing of historical interest.

@@ -1,10 +1,12 @@
 ---
-title: "Porkeri"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 61.481959
 longitude: -6.746296
+title: Porkeri
+type: location
 ---
 
-Travel Guide
+Porkeri is a small village on the east coast of Suðuroy, the southernmost of the Faroe Islands, situated between Hov to the north and Vágur to the south. The population is around 330. Like most Faroese villages, it sits at the edge of the sea with steep hillsides rising behind it.
 
-Porkeri is a village in Suðuroy, Faroe Islands. It is located on the east coast of the island, between Hov and Vágur. The population is around 330. There is a charming old wooden church from 1847 with turfed roof. Near the church there is a local museum. Visitors often visit both the museum and the church.
+The village has a wooden church from 1847 with a turf roof — a fine example of the traditional church architecture found across the islands — and a local museum next door. The combination of church and museum makes it a worthwhile stop for anyone travelling the length of Suðuroy.

@@ -1,10 +1,12 @@
 ---
-title: "Mina de Sao Domingos"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 37.671347
 longitude: -7.498263
+title: Mina de São Domingos
+type: location
 ---
 
-Travel Guide
+Mina de São Domingos is a deserted mining village in the Alentejo, deep in the southeast of [Portugal](/europe/portugal) near the Spanish border. The Romans mined here for gold and silver for about four hundred years, and the British reopened the mines in the 19th century to extract copper pyrite, building a railway and an English-style village for the workers.
 
-The São Domingos Mine is a deserted open-pit mine in São Domingos, Alentejo, Portugal. This site is one of the volcanogenic massive sulfide ore deposits in the Iberian Pyrite Belt, which extends from the southern Portugal into Spain. The Romans mined in the São Domingos area for gold and silver for about 400 years. Mining stopped here when the Romans left.
+When the mines closed in 1966, the village was largely abandoned. Today it is an eerie, atmospheric place — the open pit, the rust-red river, and the crumbling industrial buildings make for a striking landscape. There is a small museum, and the old mining beach on the Chança reservoir has become an unlikely swimming spot in summer.

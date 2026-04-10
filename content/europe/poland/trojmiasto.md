@@ -1,8 +1,12 @@
 ---
-title: "Trojmiasto"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 54.44948
 longitude: 18.733495
+title: Trojmiasto
+type: location
 ---
 
-Trojmiasto is the Polish term meaning 'Tri-city': Gdansk, Gdynia and Sopot. These three distinct cities actually make up one long city along the Baltic coast. It can take about an hour to travel from Gydnia through Sopot to Gdansk Glowny on the commuter trains and even longer if you drive. Roads are getting increasingly congested in the Trojmiasto as car ownership increases.
+Trojmiasto — the "Tri-City" — is the Polish name for the urban strip of Gdansk, Sopot, and Gdynia stretching along the Baltic coast. The three cities have distinct characters but blend into one continuous conurbation, connected by commuter rail and an increasingly busy motorway.
+
+Gdansk is the historic heavyweight, with its meticulously rebuilt Old Town and shipyard heritage. Sopot is the beach resort in the middle, famous for its wooden pier and summer nightlife. Gdynia, the youngest of the three, is a modernist port city with a growing arts scene. Getting from one end to the other takes about an hour by SKM commuter train, making it easy to sample all three in a single trip.

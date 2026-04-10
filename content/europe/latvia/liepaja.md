@@ -1,8 +1,10 @@
 ---
-title: "Liepaja"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 56.504843
 longitude: 21.00709
+title: Liepaja
+type: location
 ---
 
 Liepaja is Latvia's third-largest city, on the west coast where the Baltic Sea meets the Liepaja Lake. It's a three-hour bus ride from Riga but worth the trip — the city has a lived-in character, good beaches, and a handful of genuine sights that reward a day or two.

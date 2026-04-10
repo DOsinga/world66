@@ -1,6 +1,6 @@
 # Neighbourhoods Task
 
-Add a rich `explore` section to major cities — a guide to the city's distinct neighbourhoods and areas, each with a proper intro, a hero image, and cross-references to the POIs already listed in other sections.
+Add a rich neighbourhood section to major cities — a guide to the city's distinct neighbourhoods and areas, each with a proper intro, a hero image, and cross-references to the POIs already listed in other sections.
 
 This task is for **major cities only**. Each batch contains exactly one city.
 
@@ -34,12 +34,12 @@ To fix: look up the correct coordinates for the place (use web search), update t
 
 ### 4. Neighbourhood POIs in things_to_do?
 
-Check for POIs with `category: "Neighbourhood"` in `things_to_do/`. These are neighbourhoods masquerading as POIs and must be **converted** to proper neighbourhood files in `explore/`:
+Check for POIs with `category: "Neighbourhood"` in `things_to_do/`. These are neighbourhoods masquerading as POIs and must be **converted** to proper neighbourhood files at the city root:
 
 1. Read the existing POI body — use it as the starting point for the neighbourhood file.
-2. Create `explore/<slug>.md` with `type: neighbourhood` and expanded content (3–5 paragraphs).
+2. Create `<slug>.md` at the city root with `type: neighbourhood` and expanded content (3–5 paragraphs).
 3. Delete the original `things_to_do/<slug>.md` POI file.
-4. Add a redirect in `redirects.json`: `"city/things_to_do/slug"` → `"city/explore/slug"`.
+4. Add a redirect in `redirects.json`: `"city/things_to_do/slug"` → `"city/slug"`.
 
 Do not leave a `category: "Neighbourhood"` POI in `things_to_do/` once its neighbourhood page exists.
 
@@ -73,29 +73,32 @@ After this step the city root will contain many more files. That is correct — 
 
 For each city, create:
 
-1. **`explore.md`** — the section file
-2. **`explore/neighbourhood_slug.md`** — one file per neighbourhood (15–25 for a world capital, 8–15 for a smaller major city)
+1. **`neighbourhoods.md`** — the section group file
+2. **`<neighbourhood_slug>.md`** — one file per neighbourhood at the city root (15–25 for a world capital, 8–15 for a smaller major city)
+3. **`<neighbourhood_slug>/<local_poi_slug>.md`** — neighbourhood-local streets, squares, and parks
 
-### Section file (`explore.md`)
+### Section group file (`neighbourhoods.md`)
 
 ```yaml
 ---
-title: "Explore by Neighbourhood"
-type: section
+title: "Neighbourhoods"
+type: section_group
 ---
 
 Brief intro (2–3 sentences) describing how the city divides into areas and why it's worth exploring neighbourhood by neighbourhood.
 ```
 
-### Neighbourhood file (`explore/soho.md`)
+The `type: section_group` makes this a container that groups all `neighbourhood` pages in the city sidebar.
+
+### Neighbourhood file (`jordaan.md` — at city root)
 
 ```yaml
 ---
-title: "Soho"
+title: "Jordaan"
 type: neighbourhood
-latitude: 51.5137
-longitude: -0.1337
-image: soho.jpg
+latitude: 52.3738
+longitude: 4.8827
+image: jordaan.jpg
 image_source: "https://commons.wikimedia.org/wiki/File:..."
 image_license: "CC BY-SA 4.0"
 ---
@@ -103,7 +106,7 @@ image_license: "CC BY-SA 4.0"
 [3–5 paragraphs about the neighbourhood: its character, history, what it looks like, what draws people there, what time of day is best, what makes it different from adjacent areas.]
 ```
 
-The `type: neighbourhood` distinguishes these from regular sections and locations.
+The `type: neighbourhood` is a NAV_TYPE — it appears in the city sidebar and collects POIs by tag. Any POI with `tags: [jordaan]` (matching the slug) will appear on this neighbourhood page automatically.
 
 ### Neighbourhood writing guide
 
@@ -112,11 +115,11 @@ The `type: neighbourhood` distinguishes these from regular sections and location
 - **Honest about rougher edges.** If part of an area is under construction or touristed to death, say so.
 - **3–5 paragraphs minimum** for major neighbourhoods. Smaller satellite areas can be shorter.
 - **Research using web search** — do not invent details, street names, or history.
-- **Link to local POIs by name.** When the body text mentions a street, square, park, or market that has a POI file in `explore/<slug>/` or in the city's sections, link the name directly. Use the full URL path: `[Bloemgracht](/europe/netherlands/amsterdam/explore/jordaan/bloemgracht)`. If the same name appears multiple times, link only the first occurrence. This applies to both neighbourhood-local POIs (in `explore/<slug>/`) and city-section POIs (in `shopping/`, `bars_and_cafes/`, etc.) that are tagged to the neighbourhood. For example, in the De Pijp page: link [Albert Cuypmarkt](/europe/netherlands/amsterdam/shopping/albert_cuypmarkt), [Ceintuurbaan](/europe/netherlands/amsterdam/explore/de_pijp/ceintuurbaan), [Ferdinand Bolstraat](/europe/netherlands/amsterdam/explore/de_pijp/ferdinand_bolstraat), [Van Woustraat](/europe/netherlands/amsterdam/explore/de_pijp/van_woustraat), and [Sarphatipark](/europe/netherlands/amsterdam/explore/de_pijp/sarphatipark) where they appear in the text.
+- **Link to local POIs by name.** When the body text mentions a street, square, park, or market that has a POI file, link the name directly. Use the full URL path: `[Bloemgracht](/europe/netherlands/amsterdam/jordaan/bloemgracht)`. If the same name appears multiple times, link only the first occurrence. This applies to both neighbourhood-local POIs (in `<slug>/`) and city-root POIs tagged to the neighbourhood.
 
 ### Images
 
-Every neighbourhood file must have `image`, `image_source`, and `image_license` in its frontmatter, and the image file must be physically present at `explore/<slug>.jpg` (or `.png`).
+Every neighbourhood file must have `image`, `image_source`, and `image_license` in its frontmatter, and the image file must be physically present at `<slug>.jpg` (or `.png`) alongside the `.md` file at the city root.
 
 **How to fetch images from Wikipedia/Wikimedia Commons:**
 
@@ -147,48 +150,52 @@ image_source: "https://commons.wikimedia.org/wiki/File:Prinsengracht_Jordaan.jpg
 image_license: "CC BY-SA 4.0"
 ```
 
-The image file lives in the same `explore/` directory as the `.md` file. Add 1–2 seconds of delay between requests to avoid rate limiting.
+The image file lives at the city root alongside the neighbourhood `.md` file. Add 1–2 seconds of delay between requests to avoid rate limiting.
 
 ### Tagging POIs
 
-After creating the neighbourhood files, go through the city's existing sections (`things_to_do/`, `eating_out/`, `bars_and_cafes/`, etc.) and add `neighbourhood: "Exact Title"` to any POI that belongs to a neighbourhood. The title must match the neighbourhood file's `title:` exactly (case-sensitive).
+After creating the neighbourhood files, go through the city's POIs (now at the city root after flattening) and ensure each POI that belongs to a neighbourhood has:
 
-This makes the POI show up on the neighbourhood page automatically without removing it from its section.
+1. `neighbourhood: "Exact Title"` — must match the neighbourhood file's `title:` exactly (case-sensitive)
+2. The neighbourhood slug in its `tags:` list — e.g. `tags: [things_to_do, jordaan]`
+
+Both are needed: `neighbourhood:` is displayed in the info box; the slug tag is what wires the POI to the neighbourhood page via `tagged_pois()`.
 
 ### Neighbourhood-local streets, squares, and parks
 
-For each neighbourhood, add POI files for the streets, squares, and parks that give the area its character — the market, the main shopping street, the local park, the canal worth walking. These are stored in `explore/<slug>/` subdirectories and appear **only on the neighbourhood page**, not in city-section listings.
+For each neighbourhood, add POI files for the streets, squares, and parks that give the area its character — the market, the main shopping street, the local park, the canal worth walking. These are stored in `<neighbourhood_slug>/` subdirectories at the city root and appear **only on the neighbourhood page**, not in city-section listings.
 
 **What belongs here vs in city sections:**
 
-- **City-level** (add to `shopping/`, `bars_and_cafes/`, or `eating_out/` with a `neighbourhood:` tag): only if the street is a genuine destination on its own — a famous market street, a well-known nightlife strip, a park people travel across the city for.
-- **Neighbourhood-level only** (store in `explore/<slug>/`): streets, squares, and parks that reward knowing about but are not city-level destinations. A beautiful canal that only locals seek out. A neighbourhood market. A local park. The kind of place that makes a neighbourhood feel like somewhere, not just a location.
+- **City-level** (keep as a city-root POI with section tag + neighbourhood slug tag): only if the street is a genuine destination on its own — a famous market street, a well-known nightlife strip, a park people travel across the city for.
+- **Neighbourhood-level only** (store in `<slug>/` subdirectory): streets, squares, and parks that reward knowing about but are not city-level destinations. A beautiful canal that only locals seek out. A neighbourhood market. A local park.
 
-**Aim for 3–6 neighbourhood-local POIs per neighbourhood**, covering the full geography — not just one famous street, but the grid of streets and spaces that make the area navigable. Think about what a resident would point a visitor to:
+**Aim for 3–6 neighbourhood-local POIs per neighbourhood.** Each must have:
+- `type: poi`
+- `category: "Street"`, `category: "Square"`, or `category: "Park"`
+- `tags: [neighbourhood_slug]` — this is how `tagged_pois()` finds them
+- `latitude` and `longitude`
 
-- The park or green space people use daily (e.g. Oosterpark in Oost, Sarphatipark in De Pijp)
-- The main commercial artery (e.g. Ferdinand Bolstraat in De Pijp, Kinkerstraat in Oud-West)
-- The market, if there is one (e.g. Dappermarkt in Oost, Albert Cuypmarkt in De Pijp — city-level)
-- The cross-street or boundary road that defines the neighbourhood's shape (e.g. Ceintuurbaan in De Pijp)
-- A quieter canal or side street that gives the area its character (e.g. Bloemgracht in the Jordaan)
-- A secondary shopping or restaurant street (e.g. Van Woustraat in De Pijp)
+Example: `amsterdam/jordaan/bloemgracht.md` with `tags: [jordaan]`.
 
-For a neighbourhood like De Pijp, the right coverage is: Albert Cuypmarkt (city-level, in `shopping/`), Ferdinand Bolstraat, Ceintuurbaan, Van Woustraat, and Sarphatipark — five entries that between them describe the shape and character of the neighbourhood. That is the level of detail to aim for.
-
-City-level streets that also belong to a neighbourhood should be added to the relevant city section (`shopping/`, `bars_and_cafes/`, etc.) with `neighbourhood: "Exact Title"` — they will appear in both city listings and the neighbourhood page. Neighbourhood-local POIs go in `explore/<slug>/` only and appear only on the neighbourhood page.
-
-Use `category: "Street"`, `category: "Square"`, or `category: "Park"`. Always include coordinates.
+**Aim for coverage across the full neighbourhood geography:**
+- The park or green space people use daily
+- The main commercial artery
+- The market, if there is one (city-level if famous enough)
+- A cross-street or boundary road that defines the neighbourhood's shape
+- A quieter canal or side street that gives the area its character
+- A secondary shopping or restaurant street
 
 ## Cities with sub-locations
 
 Some major cities (Tokyo, London boroughs, etc.) have their districts or wards stored as separate child locations in the hierarchy — e.g. `tokyo/shinjuku.md` with `type: location`. When you encounter this:
 
-1. **Move them into the explore section.** Convert each sub-location to a neighbourhood file in `explore/`, changing `type: location` to `type: neighbourhood`.
+1. **Convert them to neighbourhood files.** Change `type: location` to `type: neighbourhood` and move the file to the city root if needed.
 2. **Collapse the content.** Merge any content from the sub-location's own sections (things_to_do, eating_out, etc.) into the neighbourhood page body — cite the key POIs inline rather than keeping them as separate files under the old sub-location.
-3. **Redirect the old path.** Add a redirect in `redirects.json`: `"old/path/subdistrict" → "city/explore/subdistrict"`.
+3. **Redirect the old path.** Add a redirect in `redirects.json`: `"old/path/subdistrict" → "city/subdistrict"`.
 4. **Delete the old sub-location files.** Remove the `.md` file and its directory once its content has been merged.
 
-The goal is a single canonical city page where neighbourhoods are part of `explore/`, not scattered sub-locations that duplicate the hierarchy.
+The goal is a single canonical city page where neighbourhoods live at the city root, not as scattered sub-locations.
 
 ## What makes a good neighbourhood list
 

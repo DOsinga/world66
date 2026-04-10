@@ -1,8 +1,10 @@
 ---
-title: "Belgorod"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 50.59556
 longitude: 36.587339
+title: Belgorod
+type: location
 ---
 
 Travel Guide

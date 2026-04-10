@@ -1,8 +1,10 @@
 ---
-title: "East Grand Forks"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 47.931701
 longitude: -97.017579
+title: East Grand Forks
+type: location
 ---
 
 We currently have no information about .

@@ -16,5 +16,5 @@ Horse-back riding, Tennis, etc. all near-by.
 
 A beautiful place to relax for you and your family. Away from it
 all, but still close to the action. Enjoy the active outdoors in Summer
-and Winter, and the old cities of Freiburg (Germany), Strassbourg
-(France) and Zurich & Basel (Switzerland), with histories dating
+and Winter, and the old cities of Freiburg (Germany), Strasbourg
+(France) and Zurich & Basel (Switzerland), all within easy reach.

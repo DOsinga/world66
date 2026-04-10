@@ -1,10 +1,12 @@
 ---
-title: "Kärdla"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 59.001242
 longitude: 22.741145
+title: Kärdla
+type: location
 ---
 
-Travel Guide
+Kärdla is the only real town on [Hiiumaa](/europe/estonia/hiiumaa), Estonia's second-largest island. It is small and quiet — more a large village than a city — with a handful of shops, a couple of cafes, and a pretty town park built around the ruins of an old cloth factory.
 
-This is the only major town in the island. Kärdla as a small Swedish village probably existed already in the 14th century, but the oldest and still preserved written note date
+The town makes a convenient base for exploring Hiiumaa. The island is known for its lighthouses, juniper-covered coastal heaths, and an unhurried pace that feels remote even by Estonian standards. The Kõpu Lighthouse on the western tip is one of the oldest continuously operating lighthouses in the world.

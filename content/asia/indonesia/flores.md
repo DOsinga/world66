@@ -1,14 +1,14 @@
 ---
 title: "Flores"
 type: location
-latitude: -8.510037
-longitude: 120.598154
+latitude: -8.6574
+longitude: 121.0794
 ---
 
-Flores is one of the most beautiful islands of the Indonesian archipelago. Flores is 95% catholic and it were the Portuguese the name the island. 'Flowers' is a fitting name.
+Flores is one of Indonesia's most rewarding islands — volcanic, mountainous, and almost entirely Catholic in a country that's otherwise the world's largest Muslim nation. The Portuguese named it after its flowers, and while the flora is lush, what draws travellers here is something stranger and more dramatic: coloured crater lakes, Komodo dragons, excellent diving, and a rugged interior that rewards those who slow down.
 
+The undisputed highlight is Kelimutu, a volcano near the small town of Moni whose three summit craters each hold a lake of a different colour — turquoise, black, and deep brown-red. The colours shift over time due to changing mineral concentrations, and no two visits are quite the same. Most people hike up before dawn to watch the colours emerge from the mist.
 
- The main attraction is the coloured lakes of Kelimutu, near Moni The lake are located in volcanoes that are no longer active (you hope). Bawaja is the best place to start from if you want to see something of the traditional villages.
+Labuan Bajo, on the western tip, has transformed from a fishing village into the main gateway for Komodo National Park — home to the Komodo dragon, the world's largest lizard, as well as some of the best diving in Indonesia. It's grown quickly and feels a little rough around the edges, but the sunsets from the harbour are genuinely spectacular. From here, boats head out to Komodo and Rinca islands for dragon encounters, and to the surrounding reefs for diving and snorkelling.
 
-
- Labuanboja is a good place to relax a bit, the beaches are pretty okay and accommodation is cheap.
+The interior of Flores is mountainous and sparsely populated, with traditional villages — particularly around Bajawa — where local megalithic culture is still very much alive. The Trans-Flores Highway connects the island east to west but takes considerably longer than the distance suggests. Flying into Labuan Bajo or Ende and working your way across is the standard approach.

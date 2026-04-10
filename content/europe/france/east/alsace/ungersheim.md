@@ -1,12 +1,12 @@
 ---
-title: "Ungersheim"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 47.877551
 longitude: 7.306572
+title: Ungersheim
+type: location
 ---
 
-We currently have no information about Ungersheim.
+Ungersheim is a small village in the Alsace plain near Mulhouse, best known as the home of the Écomusée d'Alsace — one of the largest open-air museums in France. The museum has reconstructed over 70 authentic Alsatian buildings moved from their original locations across the region, including farmhouses, a forge, a schoolhouse, and a working stork sanctuary.
 
-If you do know any general information about Ungersheim, please [Edit this article].
-
-If you know any hotels in Ungersheim or restaurants in Ungersheim, please [[Add].](/destinations/addItemWizard?addwhere=europe/france/east/alsace/ungersheim)
+The experience is engaging rather than just educational: craftspeople demonstrate traditional trades, farm animals roam the grounds, and the reconstructed village gives a vivid sense of rural life before modernisation. Plan at least half a day here.

@@ -1,16 +1,14 @@
 ---
-title: "Malaga"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.721303
 longitude: -4.421637
+title: Malaga
+type: location
 ---
 
-Travel Guide
+Málaga is a vibrant, thoroughly Andalusian city strung between the mountains and the Mediterranean. It is the capital of the Costa del Sol and the birthplace of Picasso — and Antonio Banderas — but it is often overlooked by tourists who arrive at the airport and head straight for the beach resorts. This is their loss. The city has real substance.
 
-The city of Malaga is the vibrant, wholely Spanish, joint (with Sevilla) capital of the province of Andalucia. It has the 3 Fs - festivals, flamenco and fun. The centre of the Costa del Sol, it is often overlooked by the tourists arriving at the recently-upgraded Malaga Airport and rushing to their resort of choice.
+The old centre has a Roman theatre, an Arabic castle (the Alcazaba, with the ruined Gibralfaro fortress above it), and the Picasso Museum in his birthplace on the Plaza de la Merced. The Paseo del Parque, running along the port, offers a cool promenade shaded by tropical trees. The neighbouring barrios of Huelin and Pedrogalejo have held their character through decades of coastal overdevelopment.
 
-It is strung out between the mountains and the Mediterranian. As such, it has both the city life and the beaches. Although there is a major botanical garden in the foothills, the Paseo del Parque by the port has a variety of trees offering a cool promenade in summer.
-
-Like many cities, it is an amalgam of the villages around a central point, in this case the port. Even through the frantic building of the 90s, many have managed to retain their character - notably Huelin and Pedrogalego.
-
-Culturally important, it has a Roman theatre and an Arabic castle. It is the home of Piccaso and Antonio Banderas. Rarely a week goes by without a festival of music, theatre and art. There are museums and art galleries for every taste.
+Málaga is one of the warmest cities in Europe — even in December the streets are busy. In summer the heat is intense but the sea is close. The city has a genuine festival calendar and an active art scene; rarely a week passes without something on. The tapas culture is excellent and the fresh fish excellent.

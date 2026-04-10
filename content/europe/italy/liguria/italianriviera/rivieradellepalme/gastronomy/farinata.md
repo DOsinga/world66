@@ -1,8 +1,10 @@
 ---
-title: "Farinata"
-type: poi
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.410945
 longitude: 8.939231
+title: Farinata
+type: poi
 ---
 
 Undoubtedly the most traditional and savory

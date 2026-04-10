@@ -1,8 +1,10 @@
 ---
-title: "Jinja"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 0.4244
 longitude: 33.2041
+title: Jinja
+type: location
 ---
 
 Jinja sits on the northern shore of Lake Victoria at the point where the lake's waters narrow and spill northward into the Nile — the starting point of the world's longest river. That geographical accident has made it one of the most visited towns in Uganda, and the adrenaline industry that's grown up around the rapids has given it a second identity as East Africa's adventure capital.

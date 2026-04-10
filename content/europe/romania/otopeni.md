@@ -1,11 +1,10 @@
 ---
-title: "Otopeni"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.550794
 longitude: 26.072927
+title: Otopeni
+type: location
 ---
 
-Travel Guide
-
-Otopeni is a town in Ilfov County, Romania, some 9.5 miles (15 kilometers) North of Bucharest along the road to Ploieşti. It has 10,215 inhabitants, of which 99.0% are Romanians.
-Its main claim to fame is the Henri Coandă International Airport - formerly known as Bucharest Otopeni International Airport. As of 2007, it is also the town in Romania with the highest output per capita, mainly because a lot of companies operating in Bucharest have the headquarters in Otopeni.
+Otopeni is a small town in Ilfov County, 15 kilometres north of Bucharest on the road to Ploieşti. Most travellers know it only for Henri Coandă International Airport, which sits on the town's outskirts and is the main gateway to Bucharest. There is little reason to linger in Otopeni itself — Bucharest is easily reached by express train or the 780 bus from the airport.

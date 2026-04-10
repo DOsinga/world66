@@ -1,14 +1,14 @@
 ---
-title: "Torshavn"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 62.01014
 longitude: -6.771571
+title: Tórshavn
+type: location
 ---
 
-Travel Guide
+Tórshavn is the capital of the Faroe Islands, set on the southern tip of Streymoy — the largest island in the archipelago. With around 20,000 people it is one of the smallest capital cities in Europe, but it functions as the hub for everything in the Faroes: government, culture, commerce, and the main ferry port.
 
-Torshavn, the capital of the Færoes, is located in the largest island, Streymoy. It could be described as a rural city, since its total area is large but much of it is occupied by green spaces.
+The oldest part of the town, Tinganes, juts out into the harbour on a small peninsula. The turf-roofed wooden houses here are some of the oldest in the Faroes, and the area remains largely unchanged despite the modern city that surrounds it. The Norse parliament (the Løgting) has met on this spot since the tenth century.
 
-The old part, Tinganes, is very spectacular and contains public buildings, such as the Prime Minister's office close to some very old turf roofed houses that are still inhabited.
-
-Torshavn is a major port and the only place in the islands connected to other countries by ferry.
+International ferries from Denmark (Hirtshals) and Iceland (Seyðisfjörður) arrive at Tórshavn's port, making it the main gateway to the islands. Domestic boat and helicopter services connect Tórshavn to the other islands.

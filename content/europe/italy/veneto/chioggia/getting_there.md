@@ -1,5 +1,5 @@
 ---
-title: "Getting There in Chioggia"
+title: "Getting There"
 type: section
 ---
 

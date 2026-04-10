@@ -1,8 +1,10 @@
 ---
-title: 'Kollam'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 8.887053
 longitude: 76.59067
+title: Kollam
+type: location
 ---
 
 Located 70 km north of [Thiruvananthapuram](/asia/india/kerala/thiruvananthapuram), Kollam is one of the oldest ports on the Malabar coast and the cashew capital of India. It is also the southern gateway to Kerala's backwaters.

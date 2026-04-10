@@ -1,5 +1,9 @@
 ---
-title: "Grand Gaube"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -20.0144
+longitude: 57.6608
+title: Grand Gaube
 type: location
 ---
 

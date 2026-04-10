@@ -1,8 +1,10 @@
 ---
-title: "Sanga"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 14.4684
 longitude: -3.3065
+title: Sanga
+type: location
 ---
 
 Sanga is the largest village on the Bandiagara Escarpment, 40 km northeast of [Bandiagara](/africa/mali/dogoncountry/bandiagara). The people here are well accustomed to visitors. It is the starting point for the one-day loop hikes along the escarpment (Petit Tour, Moyen Tour, and Grand Tour).

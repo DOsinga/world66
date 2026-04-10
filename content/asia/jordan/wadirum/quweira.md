@@ -1,8 +1,10 @@
 ---
-title: "Quweira"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 29.805227
 longitude: 35.311861
+title: Quweira
+type: location
 ---
 
 The last stop before you head into the wilderness of Wadi Rum. Quweira sits on the Desert Highway between [Aqaba](/asia/jordan/aqaba) and Amman, and it is where you stock up on water and supplies before heading east into the desert.

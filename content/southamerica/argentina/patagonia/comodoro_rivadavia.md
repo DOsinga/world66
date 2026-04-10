@@ -1,8 +1,10 @@
 ---
-title: "Comodoro Rivadavia"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -45.8632
 longitude: -67.4753
+title: Comodoro Rivadavia
+type: location
 ---
 
 The biggest city in Patagonia sits on the Atlantic coast, battered by relentless wind. Comodoro Rivadavia grew rapidly in the early twentieth century when oil was discovered here, and it still has the feel of a working industrial town rather than a tourist destination. Like many Argentine cities of that era, it is modern and practical rather than picturesque.

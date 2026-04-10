@@ -1,22 +1,22 @@
 ---
-title: "London"
+done:
+  location_cleanup: 2026-04-05
+latitude: 51.5074
+longitude: -0.1278
+title: London
 type: location
-latitude: 51.507446
-longitude: -0.127765
 ---
 
-London is the coolest city on earth, according to big crowd of fans of the city, and there is quite some truth in that. The city on the Thames has an amazing lot of things to do. One can spend several weeks in the city alone, doing something different every day.
+London is one of the great world cities — a place where you can eat Ethiopian in Brixton, see a West End show, walk through a Roman fort, and end the evening in a Georgian pub all in a single day. It is vast, expensive, and occasionally exhausting, but it repays effort in a way that few cities can match.
 
+The city spreads across both banks of the Thames, divided into loosely defined neighbourhoods each with a distinct character. The West End — Soho, Covent Garden, Leicester Square, Piccadilly — is the commercial and entertainment heart, always crowded, always alive. To the west, Kensington and Chelsea are quieter and wealthier, home to a cluster of outstanding museums. The City of London, the ancient square mile that gave the whole place its name, is now the financial district; its streets are deserted at weekends but lined with 2,000 years of architectural history. South of the river, Bankside and Southwark have transformed over the past two decades into one of London's most interesting areas, with the Tate Modern, Borough Market, and the reconstructed Globe Theatre.
 
- On the first day, one could enjoy his love for the fine arts in some of the world's finest museums, such as the British Museum and the National Gallery. The second day is for fun and entertainment. There are streets filled with bars, pubs and theaters. And contrary to popular belief, not all pubs close at 11.00 PM (but most of them do). Then there is shopping for day four, and not just Harrods. London has the lot from trendy to traditional. Day five can be spent visiting historic buildings, such as the Houses of Parliament and the Tower of London. You might want to throw in a boat trip in between. Day six is for visiting the different Palaces of London, the most famous ones being Buckingham Palace and Kensington Palace.
- The seventh day one can relax, there are many big parks, where you can linger around and sit on the grass, one of the most famous being Hyde Park, with the Speakers Corner.
+Greenwich, six miles east of the centre, deserves a half-day at minimum: the Old Royal Naval College, the Cutty Sark, and the Royal Observatory on the hill above, where you can stand on the Prime Meridian. To the north, Hampstead Heath offers a genuine feeling of open space and views across the whole city from Parliament Hill.
 
+London has been a capital since the Romans founded Londinium in AD 43. The medieval city burned in 1666 and was rebuilt by Wren. The Georgian and Victorian eras added the broad terraces, the great museums, and the underground railway. The 20th century bombed and rebuilt it again. What you see today is all of these layers at once, which is part of what makes the city so dense and interesting.
 
- During your stay in London you can also enjoy some culinary pleasures. Even though England does not have a good reputation, when it comes to food, multi-ethnic London has more to offer than just fish and chips. 
- 
+The tube is your default transport: 13 lines, extensive if not complete, and faster than any surface alternative in the centre. Buy an Oyster card or tap a contactless bank card — you will overpay significantly using paper tickets. Buses are slower but far more pleasant for sightseeing. Black cabs are excellent but expensive; apps like Uber and Bolt offer cheaper alternatives.
 
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
+Budget carefully. London is not cheap. A pint of beer in a pub runs £5–7, a sit-down meal for two with wine easily reaches £60–80, and even the Tube adds up quickly if you are crossing zones repeatedly. That said, the city's museums — the British Museum, the National Gallery, the V&A, the Natural History Museum — are all free, which is genuinely remarkable.
 
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+[Things to Do](/europe/unitedkingdom/england/london/things_to_do) · [Eating Out](/europe/unitedkingdom/england/london/eating_out) · [Bars and Cafes](/europe/unitedkingdom/england/london/bars_and_cafes) · [Shopping](/europe/unitedkingdom/england/london/shopping) · [Getting There](/europe/unitedkingdom/england/london/getting_there) · [Getting Around](/europe/unitedkingdom/england/london/getting_around) · [When to Go](/europe/unitedkingdom/england/london/when_to_go)

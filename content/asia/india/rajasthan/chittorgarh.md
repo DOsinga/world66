@@ -1,8 +1,10 @@
 ---
-title: 'Chittorgarh'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.8887
 longitude: 74.6269
+title: Chittorgarh
+type: location
 ---
 
 Chittorgarh Fort is the largest fort in India, sprawling across a 180-meter-high plateau for over 13 km in circumference. It is also the most historically charged site in Rajasthan -- the fort was besieged three times, and each defeat ended with the women performing jauhar (mass self-immolation) rather than face capture.

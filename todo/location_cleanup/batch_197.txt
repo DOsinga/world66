@@ -27,7 +27,7 @@ europe/unitedkingdom/scotland/aberdeen/barspubs/oddfellowsltd
 europe/hungary/budapest/coffeehouses/newyorkkvhz
 europe/armenia/lori_marz/vanadzor
 # DONE australiaandpacific/australia/tasmania/eastcoast/st_helens
-northamerica/unitedstates/westvirginia/wheeling_1
+# DONE northamerica/unitedstates/westvirginia/wheeling_1
 northamerica/unitedstates/california/american_canyon
 northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno
 asia/china/bei_dai_he

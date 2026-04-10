@@ -1,17 +1,12 @@
 ---
-title: "Meghri"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.9013
-longitude: 46.245912
+longitude: 46.2459
+title: Meghri
+type: location
 ---
 
-Travel Guide
+Meghri is Armenia's southernmost town, perched above the Arax River where it forms the border with Iran. The place has a completely different feel from the rest of the country — the narrow, winding alleys, the dusty craggy peaks, the sand-brown buildings and medieval churches all carry a Middle Eastern character that Soviet planning was never quite able to erase.
 
-Meghri, overlooking Iran, has a completely different feel from the rest
-of Armenia. The old, middle eastern alleys, the dusty, craggy peaks,
-the sand-brown buildings and churches all lend a different feel that
-much Soviet planning was not able to completely wipe out. A popular
-stop for Iranian truckers, but not much to offer in terms of
-comfortable accommodation.
-
-There are three churches, a fortress, and some old pre-Soviet architecture.
+The old town preserves three Armenian churches, a ruined fortress on the hillside, and patches of pre-Soviet architecture unusual for this part of the Caucasus. It sits on the main road between Armenia and Iran and has long been a stop for Iranian truckers, giving it a quietly cosmopolitan edge for such a small place. Travelers passing through on their way between Yerevan and Tabriz will find it worth a few hours on foot.

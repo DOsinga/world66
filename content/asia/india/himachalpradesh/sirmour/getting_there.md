@@ -3,11 +3,4 @@ title: 'Getting There'
 type: section
 ---
 
-Delhi to Nahan by road is 284 kms. There are regular bus and taxi services from Delhi , Shimla,Ambala, Chandigarh.
-
-Nearest Railway station is AMBALA.
-
-Nearest Airport is Chandigarh
-
-**Contributors**
-September 18, 2005
+The most common approach is by road from Delhi, roughly 284 km via Ambala and Chandigarh — expect five to six hours by bus or taxi. Regular services run from Delhi, Shimla, Ambala, and Chandigarh to Nahan and Paonta Sahib. The nearest major railway station is Ambala, and the nearest commercial airport is Chandigarh, both around two to three hours away by road.

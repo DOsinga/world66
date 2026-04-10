@@ -1,16 +1,16 @@
 ---
-title: "Spa"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 50.4921
+longitude: 5.8628
+title: Spa
 type: location
-latitude: 50.492065
-longitude: 5.862757
 ---
 
-Spa is a very nice city not far from Verviers and [Liege](/europe/belgium/liege), very
-renowed for its water. Its many water sources made its name become the
-common denominations to all "spas" in the world.
+Spa is the town that named the world. Long before "spa" became a generic word for any wellness centre with a hot tub, it was this small Walloon town in the Ardennes hills that European royalty visited to drink the mineral-rich spring water and restore their constitutions. The word stuck, and it travelled everywhere — but there is only one original.
 
-And indeed even today, Spa is known as not only the home of the biggest
-Belgian producer of mineral water, but also one of the best thermalism
-cities of Belgium.
+The town sits in a green valley about 35 kilometres southeast of [Liège](/europe/belgium/liege), surrounded by forested hills. It is compact and pleasantly worn, with a faded elegance that suits a place whose peak was the 18th century. Tsar Peter the Great came here. So did Victor Hugo. Today you are more likely to share the baths with Formula 1 engineers — the Circuit de Spa-Francorchamps, one of the great motor racing tracks in the world, lies just a few kilometres away.
 
-For tourism information, you could visit http://www.spa-info.be/tourisme/index.html
+The spring water is still the point. The Thermes de Spa, built into the hillside above the town centre, offer proper thermal treatments — pools, saunas, jets — with a view over the Ardennes that alone is worth the cable car ride up. The springs themselves, scattered across the surrounding area, can still be tasted free of charge; the Pouhon Pierre le Grand in the town centre is the best-known.
+
+Spa is a good base for walking and cycling in the Hautes Fagnes, the high plateau nature reserve to the east. The landscape up there is bleak and beautiful — open moorland, peat bogs, wooden boardwalks through the mist. It is one of the more surprising corners of Belgium.

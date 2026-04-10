@@ -1,12 +1,14 @@
 ---
-title: "Kanatal"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 30.415334
 longitude: 78.32119
+title: Kanatal
+type: location
 ---
 
-Travel Guide
+Kanatal is a small hill station in Uttarakhand, perched at about 2,600 metres on the Chamba–Mussoorie highway, roughly 300 km (six to seven hours by road) from Delhi. It is a quiet place — barely a village — with views of the snow-covered Garhwal Himalayas and dense forests of deodar and oak.
 
-Kanatal, a quaint little hamlet in Uttaranchal state, located just 300 kilometers, or 6-7 hours journey by road from Delhi is perched at an altitude of over 8,500 feet. Kanatal offers a spectacular view of the snow-clad Garhwal Himalayas and lush green forests.
+The area is popular as a weekend escape from Delhi, especially in winter when snowfall between December and February transforms the landscape. In warmer months, the forests and meadows are good for walking, and the nearby Surkanda Devi temple offers a short trek with panoramic mountain views. Tehri Dam and its reservoir are within day-trip distance.
 
-With summer temperatures ranging from 10-25 degrees Celsius, and between minus 5 and 18 degrees in winters, the pleasant climate and lush green natural environs of Kanatal offer a welcome respite from the heat and dust-laden environs of crowded cities and towns in the plains. Occupying prime location on the Chamba Mussoorie highway, the high point of the year at Kanatal occurs between December and February, when over 50 inches of powder snow carpets its areas, creating a spectacular Cottonwood Canyon and transforms the landscape into a ravishing white wonderland.
+Kanatal has a handful of resorts and camps but remains low-key compared to Mussoorie or Shimla. That is much of its appeal.

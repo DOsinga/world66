@@ -1,28 +1,14 @@
 ---
-title: "Waxahachie"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 32.394491
 longitude: -96.843936
+title: Waxahachie
+type: location
 ---
 
-Travel Guide
+Waxahachie is a small Texas town about 45 minutes south of Dallas, best known for its remarkably well-preserved collection of Victorian and Edwardian buildings. The name comes from a Native American word meaning "cow creek." The town grew rich on cotton in the late nineteenth century, and the wealth shows in the architecture — particularly the ornate Ellis County Courthouse (1897), one of the finest Romanesque Revival buildings in the state.
 
-The
-Texas State Legislature created Ellis County on December 20, 1849 with land drawn
-from Navarro County. Waxahachie was established as the county seat in August 1850
-on land donated by Emory W. Rogers, a pioneer settler. The town name comes from
-an Indian word meaning "cow", and it's also the name of a local creek.
+The downtown square around the courthouse is the heart of town, with antique shops, cafes, and a handful of restaurants. Waxahachie has served as a filming location for several movies, including *Tender Mercies* and *Places in the Heart*, which used its period streetscapes as ready-made sets.
 
-Construction on the Waxahachie Tap Railroad was completed in September 1879. The
-railroad carried Waxahachie's vast cotton crop to market. In 1881 the Waxahachie
-Tap was absorbed by the Houston and Texas Central Railway, which extended the
-rail line all the way to Fort Worth. In the following years more rail lines were
-built to match the county's ever expanding agricultural output.
-
-Like
-so many other rural counties in this part of the state of Texas, Ellis County
-had a period of great growth from about 1880 to 1930. By the 1920's Waxahachie
-had a population of 7,958 and 200 businesses including three banks, three cottonseed
-oil mills, five cotton gins, and two daily and two weekly newspapers. Profits
-from the cultivation and processing of cotton drove this economic boom. Unfortunately,
-when cotton prices dropped in the 1930's so did the local economy.
+If you are driving between Dallas and Austin, the town makes for a pleasant stop — enough to see in an hour or two, and a good excuse to stretch your legs.

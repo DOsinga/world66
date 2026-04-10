@@ -1,8 +1,10 @@
 ---
-title: "Nevis"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 17.15
+longitude: -62.58
+title: Nevis
 type: location
-latitude: 17.1500
-longitude: -62.5800
 ---
 
 Nevis is a small volcanic island — roughly 36 square miles — that rises from the Caribbean Sea in a single graceful cone. At its centre, Nevis Peak climbs to around 985 metres and is usually wrapped in cloud by mid-morning. The island is quieter and less developed than its neighbour [Saint Kitts](/northamerica/saintkittsandnevis/st_kitts), which suits it well.

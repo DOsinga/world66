@@ -1,8 +1,10 @@
 ---
-title: "Island Vis"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 43.043421
 longitude: 16.165472
+title: Island Vis
+type: location
 ---
 
 Travel Guide

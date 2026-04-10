@@ -1,8 +1,10 @@
 ---
-title: "Ashbourne"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 53.01813
 longitude: -1.732789
+title: Ashbourne
+type: location
 ---
 
 We currently have no information about .

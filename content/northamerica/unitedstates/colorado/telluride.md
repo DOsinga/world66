@@ -1,8 +1,10 @@
 ---
-title: "Telluride"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 37.937494
 longitude: -107.812285
+title: Telluride
+type: location
 ---
 
 We currently have no information about .

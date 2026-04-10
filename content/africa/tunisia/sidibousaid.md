@@ -1,8 +1,10 @@
 ---
-title: "Sidi bou said"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 36.871094
 longitude: 10.349052
+title: Sidi bou said
+type: location
 ---
 
 We currently have no information about Sidi bou said.

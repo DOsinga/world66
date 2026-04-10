@@ -1,8 +1,10 @@
 ---
-title: "Fresno"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 36.739442
 longitude: -119.78483
+title: Fresno
+type: location
 ---
 
 Travel Guide

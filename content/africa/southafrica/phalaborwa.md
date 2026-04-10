@@ -1,8 +1,10 @@
 ---
-title: "Phalaborwa"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -23.948502
 longitude: 31.137577
+title: Phalaborwa
+type: location
 ---
 
 Phalaborwa is the only town in South Africa that shares a direct border with Kruger National Park — the Phalaborwa Gate is literally at the edge of town. That alone makes it worth knowing about. Most visitors use it as a base for entering Kruger's northern section, which is quieter and wilder than the busy south.

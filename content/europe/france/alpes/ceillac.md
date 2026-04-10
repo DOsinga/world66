@@ -1,12 +1,12 @@
 ---
-title: "Ceillac"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.6683
+longitude: 6.778
+title: Ceillac
 type: location
-latitude: 44.668328
-longitude: 6.778012
 ---
 
-This is one of the first villages reached in [Queyras](/europe/france/alpes/queyras). There is a ski resort but it has been kept separate from and above the main village. Sadly for tourists most of the original wooden roofs have been replaced by corrugated iron but the houses, in other respects, still preserve their original characteristics and some of them have sundials, which are one of the 'specialities' of the Queyras area.
+Ceillac is one of the first villages you reach in the [Queyras](/europe/france/alpes/queyras) regional park, a quiet corner of the southern French Alps near the Italian border. There is a small ski resort, but it has been kept separate from and above the main village, so the settlement retains its mountain character.
 
-Flowers are fabulous, both in the area immediately around the village and in the Alpine pastures above.
-
-http://www.beyond.fr/villages/ceillac.html
+The houses still preserve their traditional features, and some bear painted sundials — a Queyras speciality. The wildflowers in the surrounding Alpine pastures are fabulous, particularly in June and July. Walking trails lead up to the Lac Miroir and Lac Sainte-Anne, both spectacularly set beneath rocky peaks.

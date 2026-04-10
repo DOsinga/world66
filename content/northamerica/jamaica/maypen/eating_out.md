@@ -1,18 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Lot 22 Mineral Heights Shopping Complex May Pen Clarendon"
-type: "Local"
 ---
 
-**HOMAR'S ROTI & GRILL**
-
-### [HOMAR'S ROTI & GRILL](/northamerica/jamaica/maypen/eating_out/homars_roti__gri)
-
-HOMAR'S ROTI & GRILL
-
-type: Local
-
-
-
-address: Lot 22 Mineral Heights Shopping Complex May Pen Clarendon
+May Pen is a market town, and eating here means local Jamaican food. Jerk chicken, curry goat, and fried fish are easy to find at roadside stalls and small restaurants along the main road.

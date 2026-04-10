@@ -1,12 +1,16 @@
 ---
-title: "Nyingchi"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 29.5488
+longitude: 94.6385
+title: Nyingchi
 type: location
-latitude: 29.548791
-longitude: 94.638474
 ---
 
-Travel Guide
+Nyingchi (Linzhi) is the greenest and most lush corner of Tibet, sitting in the lower reaches of the Yarlung Tsangpo River at relatively low elevations compared to the rest of the plateau. Where most of Tibet is barren and high, Nyingchi is forested, mild, and surprisingly verdant — it is sometimes called "the Switzerland of Tibet," and while that overstates things, the contrast with the rest of the region is real.
 
-**Nyingchi **means “the Grand Seat of the Sun” in the language of Tibetan, is one of the 7 prefecture area of Tibet Autonomous Region. It is lying in the southeast of Tibet， the lower reaches of the **Yaluzhangbu River** , with the Sichuan-Tibet highway running through the whole region from east to west. The capital township Bayi is about 400 km eastward of Lhasa city. Nyingchi is noted for its green mountains and clear water. The Himalaya and Tangula Mountains wind their ways from west to east like two colossal dragons and join the Henduan Mountains in the east. Nyingchi is also called “the Switzerland of Tibet” and “the Jiangnan of Tibet” (Jiangnan means the fertile and prosperous area in the south of the Yangtze River.)
-The primitive forest of Nyingchi is well preserved that you can easily find the upright ancient plateau Tibetan cypress, the Himalaya cold cedar, the “living plant fossil”- the tree bracken and a vast variety of azaleas. Nyingchi therefore also has the name “the Natural Museum” and “the Natural Gene Pool”.
-The major townships and scenic zones include the Economic Area of the **Niyang River Valley**, **Bayi Town** and the **Scenic Zones of Yaluzhangbu River**.
+The prefectural capital, Bayi, is about 400 km east of Lhasa along the Sichuan-Tibet Highway. The Niyang River valley around it is broad and pleasant, with barley fields, apple orchards, and ancient Tibetan cypress groves. The surrounding mountains are covered in dense forest of cedar, rhododendron, and fir — a different world from the treeless passes further west.
+
+The great attraction nearby is the Yarlung Tsangpo Grand Canyon, where the river makes a dramatic horseshoe bend around Namcha Barwa (7,782 m) before plunging southeast into India as the Brahmaputra. The canyon is deeper than the Grand Canyon, though far less accessible. Treks to the bend and views of Namcha Barwa's snow peak are the main draws for adventurous visitors.
+
+Nyingchi's relatively low altitude (Bayi sits at around 2,900 m) makes it a gentler introduction to Tibet than arriving directly in Lhasa. The airport receives flights from Chengdu and Lhasa.

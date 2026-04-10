@@ -1,8 +1,10 @@
 ---
-title: "Torrevieja"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 37.977542
 longitude: -0.682845
+title: Torrevieja
+type: location
 ---
 
 Torrevieja is a coastal town in the south of Alicante province, backed by two salt lakes that form a protected natural park — the pink-tinged Laguna de Torrevieja and the green Laguna de La Mata. The town has a long history as a salt-producing centre, and the lakeside walking trails offer a striking contrast to the beach-resort atmosphere of the waterfront.

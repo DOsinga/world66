@@ -1,12 +1,18 @@
 ---
-title: "Sleeping Bear"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.8786
+longitude: -86.0336
+title: Sleeping Bear Dunes National Lakeshore
 type: location
-latitude: 39.75699
-longitude: -105.223106
 ---
 
-Sleeping Bear Dunes National Lakeshore encompasses a 60 km (35 mi.) stretch of Lake Michigan's eastern coastline, as well as North and South Manitou Islands. The park was established primarily for its outstanding natural features, including forests, beaches, dune formations, and ancient glacial phenomena. The Lakeshore also contains many cultural features including a 1871 lighthouse, three former Life-Saving Service/Coast Guard Stations and an extensive rural historic farm district. Authorized: October 21, 1970. Acreage: 56,993 federal, 14,194 non-federal. 
+Sleeping Bear Dunes National Lakeshore stretches along 60 km of Lake Michigan's eastern coastline in the northwest corner of the Lower Peninsula, encompassing forests, beaches, towering sand dunes, and North and South Manitou Islands. The park was established in 1970 and covers about 57,000 federal acres.
+
+The dunes are the centrepiece — some rising more than 100 m above the lake, shaped by winds and glacial deposits left 10,000 years ago. The Dune Climb on M-109 is the classic experience: a strenuous walk up a steep dune face, with a good view of Glen Lake below. Hiking to the lake itself takes about 3–4 hours return and is genuinely demanding. The Pierce Stocking Scenic Drive is a 7-mile loop with pull-offs at the best viewpoints.
+
+The park also has a 1871 lighthouse, three former Coast Guard stations, and an extensive rural historic district of old farm buildings. The Sleeping Bear Heritage Trail, a paved multi-use path, connects several communities within the park. The park town of Glen Arbor makes a good base.
 
 ## Destinations in Sleeping Bear
 
-[E-Town](/northamerica/unitedstates/michigan/sleepingbear/etown)
+[Empire](/northamerica/unitedstates/michigan/sleepingbear/etown)

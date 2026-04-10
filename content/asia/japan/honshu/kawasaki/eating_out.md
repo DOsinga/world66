@@ -1,23 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "kawasaki"
-type: "Indian and Pakistani"
-zipcode: "2110012"
-latitude: 35.530664
-longitude: 139.703767
 ---
 
-### [tandoor](/asia/japan/honshu/kawasaki/eatingout/tandoor)
-
-kawasaki, marui building 10th floor.
-
-nearest station kawasaki station on jr line
-
-type: Indian and Pakistani
-
-
-
-zipcode: 2110012
-
-address: kawasaki
+Kawasaki's food scene reflects its working-class roots and its position between Tokyo and Yokohama. The area around Kawasaki Station is packed with ramen shops, izakayas, and chain restaurants. For something more distinctive, head to the Korean barbecue strip in the Sakuramoto neighbourhood or explore the small curry houses and Indian restaurants scattered through the station area.

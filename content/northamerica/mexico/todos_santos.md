@@ -1,10 +1,12 @@
 ---
-title: "Todos Santos"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 23.4501
+longitude: -110.2254
+title: Todos Santos
 type: location
-latitude: 23.450067
-longitude: -110.225374
 ---
 
-Travel Guide
+Todos Santos is a small town on the Pacific coast of Baja California Sur, about 80 kilometres north of Cabo San Lucas. It has developed a reputation as an arts colony — there are galleries, studios, and good restaurants tucked along its streets — while staying considerably more relaxed than Cabo. The town sits just inland from some powerful Pacific surf breaks.
 
-A small town populated by artists and ex-pats, the quaint an friendly atmosphere accompanies the large waves and laid back approach to life. Located on the Pacific side of Baja, Todos Santos houses many art galleries, cafes, and quaint restaurants, making it the bohemian capital of Baja.
+The palm-shaded historic centre has a colonial church and a cluster of colonial-era buildings. Unlike the tourist strip further south, Todos Santos has a local Mexican character that manages to coexist with the expat and visitor presence.

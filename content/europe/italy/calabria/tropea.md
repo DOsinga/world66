@@ -1,8 +1,10 @@
 ---
-title: "Tropea"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.6753
 longitude: 15.8949
+title: Tropea
+type: location
 ---
 
 Tropea is perhaps the most famous destination in all of Calabria, and for good reason. The town perches on cliffs above a sandy beach, with the church of Santa Maria dell'Isola built on a rock with sea on three sides. The old town above is a tangle of steep streets, crumbling palaces, and old churches.

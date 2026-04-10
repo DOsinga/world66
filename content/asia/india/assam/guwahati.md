@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 26.180598
 longitude: 91.753943
 title: Guwahati

@@ -1,14 +1,12 @@
 ---
-title: "Figline"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.922877
 longitude: 11.091134
+title: Figline
+type: location
 ---
 
-Travel Guide
+Figline Valdarno sits in the upper Arno valley between [Florence](/europe/italy/tuscany/florence) and Arezzo, at the point where the valley floor meets the Chianti hills. The town is a useful base for exploring southern Tuscany — the S.P. 16, the "famous wine road," connects Figline with Greve in Chianti, and Florence and Arezzo are both easily reached by rail.
 
-One of the outstanding features of this commune’s territory is a widespread network of roads of both national and local importance. As well as the Autosole motorway which crosses the territory, making it easily accessible, there is also the State Road S.S. 69 connecting Figline to the Aretine and Florentine territories, the provincial road S.P. 16, the "famous wine road", joining Figline with Greve in Chianti. In this way, Figline is the centrepoint connecting Arezzo, Siena and Florence. The entire network of roads in the commune is easy to travel through and see the territory at its best, particularly the hilly area where the network is especially widespread.
-
-
- 
- There are excellent connections with Florence and Arezzo, by rail and other public transport.
+The old centre has a handsome main square with a loggia and a handful of churches. The surrounding countryside is classic Tuscan: olive groves, vineyards, and hilltop farmhouses.

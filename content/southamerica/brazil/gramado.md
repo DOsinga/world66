@@ -1,19 +1,16 @@
 ---
-title: "Gramado"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -29.379286
 longitude: -50.873702
+title: Gramado
+type: location
 ---
 
-A small town in the mountains. located in Rio Grande de Sol aprox. 2 hours from porto Alegre.
+Gramado is the kind of place Brazilians escape to when they want a break from Brazil. Perched in the Serra Gaúcha highlands two hours north of Porto Alegre, it's a mountain resort town that wears its European heritage with some pride — half-timbered houses, fondue restaurants, chocolate shops, and a main street that could pass for a Bavarian village if you squinted. The German and Italian immigrant influence here is genuine, not a theme park affectation.
 
-It is a very European looking town, quaint and sweet. you have all the normal tourist shops, a gas station ect.
+The town is small and very walkable. Most visitors base themselves here and day-trip to the surrounding area: the nearby town of Canela (a short bus ride away) has the spectacular Parque do Caracol with its 131-metre waterfall, and the broader Serra Gaúcha countryside is full of vineyards, forested canyons, and hiking trails. The Parque da Ferradura and the Parque das Sequóias are worth the drive.
 
-Although the town itself is small there are many parks and great stuff to do in the earea.
+The climate is the other draw. In a country defined by heat and humidity, Gramado sits at around 850 metres and stays genuinely cool — cold enough for proper winter nights between June and August, sometimes with frost. That's a novelty for most Brazilians, and the town leans into it with cozy cafes and hot chocolate everywhere. Summer (December–February) is popular too, cooler than the coast and less crowded than the beaches.
 
-Many people own winter homes in the region of gramado but it is also
-a great place to go in the summer. it is considerably cooler than the
-city and alot less crowded than the beaches.
-
-**Contributors**
-November 06, 2005
+December brings the Natal Luz festival, a month-long Christmas celebration that turns the whole town into a light display. It draws enormous crowds — if you're not into that, stay away. The rest of the year is more relaxed, though weekends fill up quickly regardless of season.

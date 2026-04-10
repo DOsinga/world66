@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.9634
 longitude: 0.6395
 title: Brancaster

@@ -1,13 +1,14 @@
 ---
-title: "Bordeaux"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.841225
 longitude: -0.580036
+title: Bordeaux
+type: location
 ---
 
-This elegant city on the banks of the Garonne near the Bay of Biscay is in the heart of the justly famed Bordeaux wine region. Tour the area wineries sample some of their products and in October watch the grape harvest.
+Bordeaux stands on the Garonne river, 50 km from the Atlantic coast, and is the undisputed capital of French wine. The vineyards of the Médoc, Saint-Émilion, Pomerol, Sauternes, and Graves surround the city, and the négociants and châteaux that trade here have shaped the global wine market for three centuries. The Cité du Vin, a striking museum on the riverfront, covers the history and culture of wine and is more engaging than it sounds.
 
+Bordeaux is also a beautiful city in its own right. The 18th-century centre — built on wealth from Atlantic trade — is among the finest Neoclassical ensembles in Europe and is listed as a UNESCO World Heritage Site. The Quai de la Douane and the broad esplanade of the Place des Quinconces give the city an open, unhurried feel. The Musée des Beaux-Arts has one of the larger permanent collections in France outside Paris.
 
- Don’t however neglect the city of Bordeaux itself: it's a stylish city with a lively cosmopolitan air and some of the best examples of 18th-century architecture in the whole of France. To see the nicest buildings stroll along the river near the Quai de la Douane (Customs House Quay). The city also has a major fine-arts museum.
-
-Bordeau is also a great place to make day trips from. [Arcachon](/europe/france/midi/aquitaine/arcachon) or [Les eyzies](/europe/france/midi/aquitaine/leseyzies) are very good options. Bordeaux 360 mi/580 km southwest of [Paris](/europe/france/paris).
+Day trips are excellent: [Arcachon](/europe/france/midi/aquitaine/arcachon) on the Atlantic coast is less than an hour by train, and the prehistoric cave paintings at [Les Eyzies](/europe/france/midi/aquitaine/leseyzies) in the Dordogne valley are about two hours east.

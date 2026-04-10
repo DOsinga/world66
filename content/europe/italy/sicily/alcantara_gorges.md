@@ -1,8 +1,10 @@
 ---
-title: 'Alcantara Gorges'
-type: location
-latitude: 37.8770
+done:
+  location_cleanup: '2026-04-09'
+latitude: 37.877
 longitude: 15.1764
+title: Alcantara Gorges
+type: location
 ---
 
 The Gole dell'Alcantara are a dramatic series of gorges carved by the Alcantara river through ancient basalt lava flows from Mount Etna. The sheer canyon walls, formed into striking prismatic columns, rise up to 50 metres high in places.

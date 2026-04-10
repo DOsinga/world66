@@ -1,8 +1,10 @@
 ---
-title: "Hobyo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 5.859166
-longitude: 48.254090
+longitude: 48.25409
+title: Hobyo
+type: location
 ---
 
 Hobyo is a small historic port town on the Indian Ocean coast, in the Galmudug region of central Somalia. It was once the capital of the Sultanate of Hobyo, a 19th-century polity that controlled trade along this stretch of coast, and ruins of the sultanate's infrastructure survive in the town.

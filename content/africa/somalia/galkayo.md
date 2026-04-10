@@ -1,8 +1,10 @@
 ---
-title: "Galkayo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 6.769726
 longitude: 47.430826
+title: Galkayo
+type: location
 ---
 
 Galkayo is a divided city straddling the administrative boundary between Puntland in the north and the Galmudug region in the south. The two halves operate under different administrations and have at times been separated by checkpoints and inter-clan tension. The northern, Puntland-administered half is the more stable side.

@@ -1,8 +1,10 @@
 ---
-title: "Dingli"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 35.86042
 longitude: 14.381682
+title: Dingli
+type: location
 ---
 
 Dingli is a quiet hilltop village on Malta's southwest coast, known above all for the dramatic cliffs that bear its name. The Dingli Cliffs are Malta's highest point — around 250 metres above sea level — and the view from the edge, straight down to the Mediterranean with nothing between you and the horizon, is one of the finest on the island. Come at sunset and you'll understand why locals drive out here on weekends.

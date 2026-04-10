@@ -1,8 +1,12 @@
 ---
-title: "Callander"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 56.243694
 longitude: -4.214803
+title: Callander
+type: location
 ---
 
-Callander is one of the two main towns in The Trossachs area (the other one being Abefoyle). The Trossachs area is known for its lakes, Sir Walter Scott who wrote about it and .... Rob Roy. This is his country and decide for yourself in Callandar's visitors centre (together with a lot of other travellers) whether Rob Roy MacGregor was a vicious villain or a noble hero.
+Callander is one of the two gateway towns to the Trossachs, the other being Aberfoyle. Sitting on the River Teith at the edge of the Highlands, it is a handsome stone-built town that fills with walkers, cyclists, and day-trippers in summer.
+
+The Trossachs themselves — a compact landscape of lochs, wooded hills, and narrow glens — were made famous by Sir Walter Scott, and this is Rob Roy MacGregor country. The visitor centre in town invites you to decide for yourself whether Rob Roy was a noble hero or a vicious outlaw. Beyond the legend, Callander is a good base for walking the Rob Roy Way, cycling to the Falls of Leny, or driving the scenic road along Loch Katrine.

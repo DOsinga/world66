@@ -1,8 +1,10 @@
 ---
-title: "Vila Nova Sintra"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 14.8648
 longitude: -24.6942
+title: Vila Nova Sintra
+type: location
 ---
 
 Vila Nova Sintra is the only real town on Brava, perched at about 500 meters in the island's interior. It is a quiet place of around 1,500 people, reached in about fifteen minutes from the port at Furna.

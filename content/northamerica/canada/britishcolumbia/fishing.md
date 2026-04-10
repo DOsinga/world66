@@ -1,5 +1,7 @@
 ---
-title: "Fishing"
+done:
+  location_cleanup: '2026-04-10'
+title: Fishing
 type: section
 ---
 

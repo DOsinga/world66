@@ -1,17 +1,21 @@
 ---
-title: "Mauritania"
+done:
+  country_cleanup: 2026-03-31
+  location_cleanup: '2026-04-08'
+image: mauritania.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Finn-DE" title="User:Finn-DE">Finn-DE</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Border-Senegal-from-Mauretania.JPG
+latitude: 20.254
+longitude: -10.9408
+title: Mauritania
 type: location
-latitude: 20.254038
-longitude: -9.239926
 ---
 
-'Le Grand Vide', the Big Nothing, that's what the French colonialist called Mauritania. This qualification is somewhat unjust to the country. There is, however, a lot of sand, and a lot of nothing. But Mauritania also has fascinating wildlife (birds, seals) in the [Arguin bank national park](/africa/mauritania/arguinbanknationalpark), impressive old caravan cities like [Chinguetti](/africa/mauritania/chinguetti), [Ouadane](/africa/mauritania/ouadane) or Tichit and is generally speaking a very nice place for travelling.
+Mauritania is one of those countries that still rewards the genuinely curious traveller. Most of it is Sahara — vast, empty, and strikingly beautiful. The northwest is dominated by the Adrar plateau and its ancient desert towns, now UNESCO World Heritage sites. The Atlantic coast offers remarkable wildlife. The southeast holds the ruins of an empire most people have never heard of.
 
+It is not an easy country to visit. Infrastructure is sparse, heat is brutal from May through September, and the security situation in the interior has been unstable at times. But for those who make the effort between November and April, Mauritania offers desert landscapes and historic towns without the tourist crowds found elsewhere in North Africa.
 
- That doesn't mean traveling is easy in Mauritania. Travel infrastructure (in the form of hotels, restaurants, roads) is lacking in many places. When you can find accommodation, it is not very cheap. Food isn't cheap either and nice cosy restaurants are not to be found anywhere except maybe in the biggest cities [Nouakchott](/africa/mauritania/nouakchott) and [Nouadhibou](/africa/mauritania/nouadhibou). But this makes travel adventurous! Where else than in [Zouerate](/africa/mauritania/zouerate) can you take a 2,5 km long desert train that just transports iron ore and you!
+Mauritania sits on a cultural fault line. The Arabic-speaking Moors of the north and the Black African communities of the Senegal River valley in the south share a country but not always a common history. The legacy of slavery — formally abolished in 1981 but only criminalised in 2007 — still shapes social relations. Understanding this tension is part of understanding the country.
 
-
- For people who want to cross the Sahara taking the route from [Morocco](/africa/morocco) to [Mauritania](/africa/mauritania) is one of the best options. There are a few tough spots near the border (land mines, lack of road) but generally speaking it is not too hard to cross here. It seems that it is easier going from the north to the south. Check the [Dakhla](/africa/morocco/dakhla) section in Morocco for details.
-
-
- Travelers to Mauritania need to realize that it's a country that faces many problems of social nature. Not only is it one of the poorest countries on the planet but also the population is very divided ethnically, finally the issue of slavery still has a big impact on every day life and politics.
+Nouakchott, the capital, was little more than a village when it was designated the capital at independence in 1960. It has since grown into a sprawling, sandy city of around one million people. It is a reasonable base but not in itself a reason to come.

@@ -1,11 +1,8 @@
 ---
-title: "Things to do in Jackson"
+title: "Things to Do"
 type: section
-type: "general"
 ---
 
-### [Amador County Museum](/northamerica/unitedstates/california/goldcountry/jackson/thingstodo/amadorcountymuseum)
+The Gold Country around Jackson offers a mix of history, wine, and outdoors.
 
-225 Church St. 95642 209/223-6386
-
-type: general
+**Amador County Museum** — 225 Church St. Local history museum with mining-era exhibits and a working scale model of the Kennedy Mine headframe. Free admission.

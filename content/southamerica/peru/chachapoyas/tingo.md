@@ -1,16 +1,16 @@
 ---
-title: "Tingo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -6.390398
 longitude: -77.941677
+title: Tingo
+type: location
 ---
 
-Travel Guide
+Old Tingo is a tiny village on the banks of the Río Utcubamba in northern Peru. It would be just another village were it not for Kuélap, the massive stone fortress of the Chachapoya civilisation perched on the ridge above.
 
-Old Tingo is a minsicule village on the Rio Utcubamba banks. It would be just another village, if not for the nearvy ruins of Kuelap. From Tingo you can walk up to them on foot in between 3 and 5 hours.
+The village itself can be explored in five minutes — there is a restaurant, a shop, and a couple of basic places to stay. Much of old Tingo was destroyed by a flood, which led to the founding of Nuevo Tingo a few kilometres up the mountain.
 
-The village itself can be discovered in 5 minutes. There is a restaurant, a shop and two hotels. Large part of the village was destroyed by a flood some years ago, which lead to the founding of Nuevo Tingo, a few kilometers up the mountain. You can still see the ruins.
+From Tingo you can walk up to Kuélap on foot. The 10-kilometre trail rises over 1,000 metres, so it is a serious hike — allow 3 to 5 hours depending on your fitness. Horses or donkeys can be hired for those who prefer to ride. A cable car (teleférico) from Nuevo Tingo now provides a much faster alternative, reaching the site in about 20 minutes.
 
-A good way to discover Kuelap is to walk up to them, crash for an hour then discovering the site. The 10 kilometer walk rises over 1000 meters so it is pretty tiring. You can rent a horse or donkey for 20 soles if you don't think you're up to it. Locals say the trip is 3 hours, but that's only true if you don't take any breaks.
-
-On the site itself one can easily lose a few hours, so leave early in the morning. To get .
+Kuélap itself is enormous and you can easily spend a few hours exploring, so leave early in the morning.

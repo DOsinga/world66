@@ -1,40 +1,14 @@
 ---
-title: "Hombroich"
-type: location
+title: "Museum Insel Hombroich"
+type: poi
+category: "Museum"
 latitude: 51.141632
 longitude: 6.655372
+address: "Minkel 2, 41472 Neuss-Holzheim"
 ---
 
-In a lush garden setting on a small island in a river art and nature meet. The artist Erwin Heerich has created 11 pavillions that present works of other artists to the visitor.
+In a lush garden setting on a small island in a river, art and nature meet. The artist Erwin Heerich designed 11 walk-in pavilions scattered through meadows and woodland, each presenting works without labels or explanations — you encounter the art directly.
 
-Persian sculptures, Khmer-art und chinese pottery from the Han-era stand next to works of art from Gotthard Graubner and Jean Fautrier. Famous names include: Arp, Brancusi, Calder, Chillida, Klimt, Matisse und Schwitters.
+The collection ranges from Persian sculptures and Khmer art to Chinese pottery from the Han dynasty, alongside modern works by Arp, Brancusi, Calder, Chillida, Klimt, Matisse, and Schwitters. The lack of labels is deliberate: the buildings, art, and landscape are meant to be experienced as a whole.
 
-Opening times:
-
-February 1st to March 31st 10.00-17.00h
-
-April 1st to September 30th 10.00-19.00h
-
-October 10.00-18.00h
-
-November 10.00-17.00h
-
-1. Dezember bis 31. Januar closed
-
-Address:
-
-Museum Insel Hombroich - www.inselhombroich.de
-
-Kappellener Straße
-
-Neuss-Holzheim
-
-Telephone: 02182/ 2094
-
-Entrance fee:
-
-Monday - Friday 5€/10€
-
-Saturday - Sunday 7€/15€
-
-Hombroich is near Neuss and it also possible to go there as a day trip from [Dusseldorf](/europe/germany/northrhinewestphalia/dusseldorf).
+Hombroich is near Neuss, about 20 minutes from [Düsseldorf](/europe/germany/northrhinewestphalia/dusseldorf), and works well as a day trip. The grounds take a couple of hours to wander. Open daily except December and January.

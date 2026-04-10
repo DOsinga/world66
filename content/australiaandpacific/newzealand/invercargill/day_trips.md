@@ -3,13 +3,6 @@ title: "Day Trips"
 type: section
 ---
 
-One of the things you can do from Invercargill out is a trip to Bluff.
-Bluff is the must southern town in NZ you can go by car. It is for many
-people the most southern point they will ever visit in their life.
+The most obvious day trip from Invercargill is Bluff, 27 km south — the end of State Highway 1 and, for most visitors, the southernmost point they'll reach by car in New Zealand. The signpost at Stirling Point marks the distance to the equator, the South Pole, and London. The oysters are the other reason to come: Bluff oysters, harvested from Foveaux Strait, are famous throughout the country and available at the local pub when the season runs (roughly March to August).
 
-**Contributors**
-August 06, 2005
-
-### Bluff
-
-Go there just to be on the most southern point of New Zealand you can get.
+[Fiordland](/australiaandpacific/newzealand/south_island/southland/fiordland) is further but worth it. Te Anau, the gateway town, is about two hours by road. From there you can take a boat trip on Doubtful Sound or continue to Milford Sound. A long day is enough to get there and back if you leave early.

@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-10'
 latitude: 50.214906
 longitude: -5.479508
 title: St Ives

@@ -1,8 +1,10 @@
 ---
-title: "Röttingen"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 49.509684
 longitude: 9.968819
+title: Röttingen
+type: location
 ---
 
 Röttingen bills itself as the first town on the Romantic Road, and it is a charming introduction. This small wine village in the Tauber valley still has its medieval city walls largely intact, and the centre is a pleasant jumble of half-timbered houses around a baroque town hall.

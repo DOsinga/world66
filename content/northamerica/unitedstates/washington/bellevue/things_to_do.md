@@ -1,12 +1,6 @@
 ---
-title: "Sights"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Bellevue Botanical Garden**
-
-address: Main St, Bellevue 12001
-
-url: [www.bellevuebotanical.org](http://www.bellevuebotanical.org/)
+Bellevue's main attractions lean toward parks and gardens, with the Botanical Garden as the standout. The city also has a growing arts scene centred around the Bellevue Arts Museum downtown.

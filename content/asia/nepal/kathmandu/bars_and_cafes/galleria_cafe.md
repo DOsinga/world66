@@ -6,11 +6,4 @@ latitude: 27.716658
 longitude: 85.312702
 ---
 
-The latest cafe in Thamel - Kathmandu's busy and popular backpacker area. Very stylish and the closest to Starbucks in Thame. Some great food available and free wirless internet.
-
-**Contributors**
-May 19, 2007
-
-
-
-address: Thamel
+A stylish cafe in Thamel, Kathmandu's busy backpacker area. Good food and free wireless internet.

@@ -1,8 +1,10 @@
 ---
-title: "Kaundorf"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 49.9201
+longitude: 5.9013
+title: Kaundorf
 type: location
-latitude: 49.920138
-longitude: 5.901288
 ---
 
-Small and charming mountain village that is an excellent place from which to explore the countryside. Besides hiking and relaxing, you can also visit a World War II bunker, the Priminus Chapel and the Pfarr-church.
+Kaundorf is a small village in the Éislek region of northern Luxembourg, set in hilly, wooded countryside near the Upper Sûre lake. It makes a quiet base for walking and cycling in the surrounding nature park. A World War II bunker from the Westwall fortifications can be visited nearby, and the village has a small Romanesque chapel (the Priminus Chapel) worth a look.

@@ -1,8 +1,10 @@
 ---
-title: "Ashtarak"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.2887
 longitude: 44.3613
+title: Ashtarak
+type: location
 ---
 
 Ashtarak is a small historic town built along the Kasagh river gorge, about 20 kilometres northwest of [Yerevan](/asia/armenia/yerevan). It is the only real urban centre in [Aragatsotn Marz](/europe/armenia/aragatsotn_marz) and makes a natural base for exploring the region's monasteries and the slopes of Mount Aragats.

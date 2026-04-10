@@ -1,11 +1,12 @@
 ---
-title: "Lazarus island"
-type: location
-type: "general"
+done:
+  location_cleanup: '2026-04-10'
 latitude: 1.222193
 longitude: 103.855299
+title: Lazarus Island
+type: location
 ---
 
-Lazarus island is yet another island with lush tropical vegetation, golden sands and aquamarine waters. For this reason, it is earmarked by the Singapore Tourist Promotion Board for development into an inviting tropical beach resort island.
+Lazarus Island is a small, uninhabited island in Singapore's Southern Islands chain, connected by a causeway to St John's Island. It has one of the best natural beaches in Singapore — a crescent of white sand with clear water that feels a world away from the city skyline visible in the distance.
 
-type: general
+There are no facilities, no food stalls, and no lifeguards, which is precisely the appeal. Bring your own supplies, a picnic, and plenty of water. The island is reached by taking a ferry from Marina South Pier to St John's Island and walking across the link bridge. On weekdays you may have the beach almost entirely to yourself.

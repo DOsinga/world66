@@ -1,13 +1,12 @@
 ---
-title: "Cortez"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 37.3495
+longitude: -108.5841
+title: Cortez
 type: location
-latitude: 37.349453
-longitude: -108.584073
 ---
 
-Travel Guide
+Cortez sits in the southwest corner of Colorado, surrounded by high desert and the ancient landscape of the Four Corners region. Its main draw is as the gateway to Mesa Verde National Park, where the Ancestral Puebloans built their cliff dwellings into the canyon walls around 1,400 years ago — Mesa Verde is one of the most significant pre-Columbian archaeological sites in North America and is worth at least a full day.
 
-Located in the southwest corner of Colorado, Cortez is an interesting little town. It's the gateway to the world famous Mesa Verde National Park, where the ancient cliff dwellings of the Pueblo Indians are preserved. The town itself reflects this heritage, with many cheezy motels dedicated to the ancient Indians or the cliff dwellings. Still, Cortez itself should not be missed. There's an interesting museum, decent restaurants and shops, and a genuine, laid back attitude that makes for a fun visit.
-
-More information on
-*Cortez Travel*
+The town reflects its heritage honestly, if a little commercially. There is a genuine museum, the Crow Canyon Archaeological Center runs educational programmes nearby, and the Ute Mountain Ute tribal park offers guided tours of a less-visited set of cliff dwellings. Cortez has decent restaurants, a few good shops selling authentic Southwestern art and pottery, and a relaxed attitude toward its visitors. It makes a better base for the region than the more tourist-saturated Durango.

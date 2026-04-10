@@ -1,18 +1,14 @@
 ---
-title: "Mihintale"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 8.3583
-longitude: 80.512158
+longitude: 80.5122
+title: Mihintale
+type: location
 ---
 
-Mihintale in North Central Sri Lanka is the cradle of Theravada
-buddhism in Sri Lanka . According to the story Indian Emperor Ashoka
-had sent his son Mahinda to Sri Lanka to spread the teachings of the
-Buddha. Mahinda met King Devanampiya Tissa of Anuradhapura during
-a royal hunting expedition. He converted the king and hence the country
-to buddhism. The date of this meeting is believed to have been on
-the full moon of June in the year 247 BC. This Poson pya is celebrated
-throughout Sri Lanka but especiallyat Mihintale
+Mihintale is widely regarded as the cradle of Buddhism in Sri Lanka. According to tradition, the Indian Emperor Ashoka's son Mahinda arrived here in 247 BC and converted King Devanampiyatissa of Anuradhapura during a royal hunt on the hill. The site marks the moment the island became Buddhist — a status it has largely maintained ever since.
 
-**Contributors**
-June 10, 2005
+The hilltop complex, about 12 kilometres east of Anuradhapura, consists of a series of terraces reached by 1,840 granite steps. Along the way are ancient dagobas, a hospital, meditation caves, and a large pond. The Ambastale Dagoba at the summit is believed to mark the exact spot of Mahinda's meeting with the king.
+
+The Poson Poya full moon in June draws large crowds to Mihintale for the annual commemoration — tens of thousands of pilgrims climb the steps through the night. At other times it is quiet and well worth combining with a visit to the nearby ancient capital of Anuradhapura.

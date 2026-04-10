@@ -1,12 +1,12 @@
 ---
-title: "Leighlinbridge"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 52.736023
 longitude: -6.976626
+title: Leighlinbridge
+type: location
 ---
 
-Travel Guide
+Leighlinbridge is one of the prettiest villages in County Carlow, straddling the River Barrow where a nine-arched stone bridge has crossed since medieval times. The ruins of Black Castle, a Norman fortress built in 1181, watch over the river from a grassy bank. The Barrow itself is navigable and popular with kayakers and anglers.
 
-Leighlinbridge is a pretty village on the banks of the River Barrow.
-
-The Lord Bagenal Inn has two restaurants. The waterfront is truly special.
+The village is small — a few pubs, a church, and a handful of houses along the water — but the setting is genuinely lovely, and it makes a pleasant stop on the drive between Dublin and the southeast.

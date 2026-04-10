@@ -1,8 +1,10 @@
 ---
-title: "Carmona"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.4718
 longitude: -5.6413
+title: Carmona
+type: location
 ---
 
 Carmona sits on a ridge above the Corbones plain, 33km east of [Seville](/europe/spain/andalucia/seville), and it is one of the most rewarding day trips — or overnight stops — in Andalucía. The old town is compact and unhurried, ringed by sections of Roman and Moorish walls, and largely untouched by the tourist machinery that runs at full speed along the coast.

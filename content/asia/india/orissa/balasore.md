@@ -1,14 +1,12 @@
 ---
-title: 'Balasore'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 21.500642
 longitude: 86.919884
+title: Balasore
+type: location
 ---
 
-Travel Guide
+Balasore is a coastal district in the far north of Odisha (formerly Orissa), bordered by West Bengal to the north and the Bay of Bengal to the east. The district town is a busy trading centre in a fertile agricultural area, traditionally known as the granary of Odisha for its rice production.
 
-Balasore is situated to the north of Orissa located in the south eastern part of the India surround with (States) West Bengal to the north,Andhra pradesh to the south, Chhattisgrah & Jharkhand west and the Bay of Bengal in her east.
-
-A Coastal district on the North Eastern Sea board Balasore has distination of having been called the " Cranary of Orissa " with atretches of green paddy fields, a network of rivers, blue hills, extensive meadows and extraordinary beach.
-
-The religious centres at Remuna, Chandaneswar, Panchalingeswar, Sajanagarh, Ayodya, Maninageswar Temple at Bardhanpur are popular among the decotees and from major attraction for the tourists.
+The coastline includes Chandipur beach, one of the stranger beaches in India — the sea retreats up to 5 km at low tide, exposing a vast expanse of red sand, then surges back. It is also the site of India's Integrated Test Range missile facility, which means access to the shoreline can occasionally be restricted. Remuna, Chandaneswar, and Panchalingeswar are the main religious centres in the district and attract pilgrims from across the region.

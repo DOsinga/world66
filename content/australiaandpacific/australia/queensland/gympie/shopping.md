@@ -3,14 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-Gympie has a range of specialty shops
-
-**all**
-
-[Gympie Online
-
-Gympie Online ofers a directory of shopping locations in Gympie and the Cooloola coast
-
-address: Tin Can Bay Road
-
-url: www.gympieonline.com](/australiaandpacific/australia/queensland/gympie/shopping/gympie_online)
+Gympie's town centre has a range of specialty shops, boutiques, and antique dealers along Mary Street. The region is known for local crafts and produce — dairy products, macadamia nuts, and tropical fruits from the surrounding farms are available at the markets and farm stalls.

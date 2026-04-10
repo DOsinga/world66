@@ -1,14 +1,14 @@
 ---
-title: "Lleyn Peninsula"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 52.8712
+longitude: -4.4788
+title: Lleyn Peninsula
 type: location
 ---
 
-This is a wonderful peninsula with terrific coastal scenery that sticks out westward beyond Snowdonia. It is quite narrow so that anybody with a car can easily get to both north and south coasts. 
+The Llŷn Peninsula (pronounced "Hlin") is a narrow arm of land extending 50 km westward from Snowdonia into the Irish Sea, one of Wales's most beautiful and least-spoiled coastal regions. It is narrow enough that you can drive from the north coast to the south in minutes, but the two coasts have quite different characters: the north is more exposed and dramatic, the south more sheltered.
 
-Many of the beaches are National Trust property, perhaps the best known being Porth Oer or Whistling Sands, though the lesser known southern beach of Poth Ysgo is a place of great beauty. At the end of the peninsula, beyond Aberdaron is a headland and glorious viewpoint overloking Bardsea Island. 
+The beaches are exceptional and many are National Trust property. **Porth Oer** (Whistling Sands) on the north coast is famous for the dry sand that squeaks underfoot — a result of the spherical quartz grains rubbing against each other. **Porth Ysgo** on the south coast is less visited and arguably more beautiful. Beyond Aberdaron at the tip of the peninsula, the headland above **Bardsey Island** (Ynys Enlli) offers magnificent views and a strong sense of the world's edge.
 
-Abersoch, on the south coast, is a popular sailing resort; Criccieth, with an old castle, was Lloyd-George's birth place and at the end of the peninsula on the southern side is the Itliaanate village of Portmeirion, noted for its Chian and Portmadoc with perhaps the best preserved railway in the UK. 
-
-Unfortunately there is no youth hostel in Lleyn.
-
-Write up by [davidx](/world/member/davidx) on 15 September 04
+The peninsula is deeply Welsh-speaking — over 70% of the population use Welsh as their first language — and has a strong cultural identity. **Abersoch** on the south coast is a popular sailing resort. **Criccieth**, at the eastern end of the south coast, has an attractive castle and was the birthplace of David Lloyd George. The Italian-inspired village of **Portmeirion** nearby is a must-see architectural curiosity, and the Ffestiniog Railway at Porthmadog is one of the finest narrow-gauge lines in Britain.

@@ -1,5 +1,5 @@
 ---
-title: "Explore by Neighbourhood"
+title: "Neighbourhoods"
 type: section_group
 ---
 

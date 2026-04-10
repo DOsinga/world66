@@ -1,4 +1,0 @@
----
-title: "Cartago"
-type: location
----

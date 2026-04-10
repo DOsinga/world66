@@ -1,8 +1,10 @@
 ---
-title: "Green Island"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 29.365024
 longitude: 48.026786
+title: Green Island
+type: location
 ---
 
 Green Island is an artificial island connected to the [Kuwait City](/asia/kuwait/kuwaitcity) waterfront by a short causeway. Built in the late 1980s, it covers nearly 800,000 square metres and was designed as a recreational escape from the city.

@@ -1,8 +1,10 @@
 ---
-title: "Haghpat"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.094419
 longitude: 44.711056
+title: Haghpat
+type: location
 ---
 
 Haghpat (Հաղպատ, meaning "a huge wall") is a well known monastery in
@@ -21,4 +23,3 @@ In 1996 Haghpat and neighbouring [Sanahin](/europe/armenia/sanahin_1) were the f
 Apart from parking fee (about 100AMD) there is no entrance fee, just
 buy some candles (40AMD/piece) as it's a custom elsewhere at Armenian
 churches.
-

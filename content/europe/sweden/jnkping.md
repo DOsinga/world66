@@ -1,14 +1,14 @@
 ---
-title: "Jönköping"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 57.782563
 longitude: 14.165719
+title: Jönköping
+type: location
 ---
 
-Travel Guide
+Jönköping sits at the southern tip of Lake Vättern, Sweden's second-largest lake, in south-central Sweden. The lake dominates the town's character: sunsets over Vättern from the city pier are famously beautiful, and in summer the long beach promenade along the waterfront becomes the focus of local life.
 
-Jönköping is a city in south-central Sweden. Beautiful surroundings with a lot of lakes and forest. Nice atmosphere in the city centre. The city has a long beach walk, as it´s set south of lake Vättern, and in summer, many people watch the sun set over the lake from one of the restaurants on the city pier.
+The town has one genuine oddity in its history: it was the birthplace of the safety match in 1845, and the old match factory on the waterfront now houses the Tändsticksmuseet (Match Museum), which tells this unlikely story in considerable detail.
 
-Jönköping offers a variety of nice hotels and restaurants and there is also a water park which tends to be very appreciated by the kids. There are also many nice paths for hiking and cycling in the countryside.
-
-Jönköping is a good city to have as your "base-camp" for other destinations in Sweden, such as Astrid Lindgren´s world in Vimmerby, Gränna - home of the famous Swedish candy Polkagrisen - and the amusement park Liseberg in [Göteborg](/europe/sweden/gothenburg) which are all within a 2 hours drive.
+Jönköping makes a convenient base for the surrounding region. Astrid Lindgren's World — the theme park based on Pippi Longstocking and Lindgren's other characters — is in Vimmerby, about 90 minutes east. Gränna, a small town known for its red-and-white striped candy and as the birthplace of the Swedish polar explorer Salomon August Andrée, is 40 km north along the lake. [Gothenburg](/europe/sweden/gothenburg) and its Liseberg amusement park are about two hours west.

@@ -1,10 +1,12 @@
 ---
-title: "Texarkana"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 33.446675
 longitude: -94.077148
+title: Texarkana
+type: location
 ---
 
-Texarkana is twice as nice! Located on the border of Texas and Arkansas, Texarkana is composed of two cities with the same name. They are connected by a man made line, State Line Avenue, which runs through the center of downtown Texarkana. Visit the only post office in the US sitting in two different states.
+Texarkana is two cities sharing one name — one in Texas, one in Arkansas — divided by State Line Avenue running through the heart of downtown. The oddity is literal: the Federal Building and Post Office straddles the state line, making it the only post office in the country that sits in two states at once.
 
-Minor corrections on 14 December 04
+It is a small city, not a destination in its own right, but if you are passing through on I-30 it is worth a stop. The downtown has a handful of historic buildings and a quiet, mid-century feel.

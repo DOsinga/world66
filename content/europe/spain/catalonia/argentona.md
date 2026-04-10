@@ -1,8 +1,12 @@
 ---
-title: "Argentona"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.555433
 longitude: 2.400279
+title: Argentona
+type: location
 ---
 
-Argentona is located in the Maresme, 33 km northeast from Barcelona and 4 km from Mataró. An advantaged location because, in spite of being near a big cosmopolitan city with international fame, Argentona finds itself in a natural environment perfect for spending some relax days enjoying the peacefulness and benefits of nature. Moreover, the city of Argentona offers a rich architectural heritage. Don’t lose the chance of visiting the places of interest of this beautiful city.
+Argentona is a small town in the Maresme comarca, 33 km northeast of [Barcelona](/europe/spain/catalonia/barcelona) and just 4 km inland from the coastal town of Mataró. It is a quiet, leafy place that makes a good escape from the city — close enough for a day trip, but with the unhurried feel of a Catalan country town.
+
+The town has a notable collection of Modernista architecture, including the Can Calopa house and several other buildings from the early 20th century. The Font Picant mineral spring has drawn visitors since the 19th century. The surrounding hills offer pleasant walks through pine forest and Mediterranean scrub, with views down to the coast.

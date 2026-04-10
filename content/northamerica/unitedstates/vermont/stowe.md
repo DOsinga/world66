@@ -1,10 +1,12 @@
 ---
-title: "Stowe"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.4644
+longitude: -72.6856
+title: Stowe
 type: location
-latitude: 44.464377
-longitude: -72.68562
 ---
 
-Stowe is known as the "Ski Capitol of the East" Stowe is also a year round destination for it's Mountains, recreation, unspoiled scenery, galleries, spas and shops. Stowe is home to the Trapp Family Lodge founded and still operated by the Trapp Family of "Sound of Music" fame. It is near Ben & Jerry's Ice Cream factory and the Vermont Ski Museum.
+Stowe is a small village in the Green Mountains of Vermont, often called the ski capital of the East. Mount Mansfield, Vermont's highest peak, rises just to the west, and the Stowe Mountain Resort on its slopes draws skiers all winter. But Stowe works year-round — the fall foliage is spectacular, summer brings hiking and mountain biking, and the village itself is pretty enough to warrant a stroll in any season.
 
-The closest major airport is in Burlington, Vermont about 45 minutes away. Driving to Vermont will usually be on highways most all the way. Visitors driving to Stowe head North to Vermont Rt 89 and then take exit 10 North toward Stowe. After a 10- 15 minute drive the traveler will arrive at a Stop sign. This is Stowe village and the junction of Routes 100 and 108.
+The Trapp Family Lodge, founded by the real von Trapp family of *Sound of Music* fame, sits on a hillside outside town and operates as a resort with cross-country ski trails, a brewery, and mountain views. The closest major airport is Burlington, about 45 minutes to the west.

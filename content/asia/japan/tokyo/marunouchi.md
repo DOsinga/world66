@@ -1,11 +1,14 @@
 ---
-title: "Marunouchi"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 35.6791
+longitude: 139.7653
+title: Marunouchi
 type: location
-latitude: 35.67907
-longitude: 139.765299
 ---
 
-Marunouchi is the area from Tokyo central station to the Imperial Palace. The main reason for visiting this area is the Imperial Palace. It is huge. From the Tayasumon Gate in the north to the south near Hibiya park is a good walk.
+Marunouchi is the district between Tokyo Station and the Imperial Palace — the business heart of the city by day, and one of the best areas for a walk. The Imperial Palace grounds are vast: from the Tayasumon Gate in the north to Hibiya Park in the south is a serious stroll.
 
+Within the great moats, one thing is conspicuously missing: a grand imperial palace. The Emperor's residence is there but it is modest and largely hidden from view. The real attractions are the massive stone walls and gates, the East Gardens (free to enter and beautifully maintained), and the several museums scattered around the grounds. You could easily spend a day visiting all of them. This is also one of the greenest parts of central Tokyo — the lungs of the city.
 
- Within the great moats of the Imperial Palace there is one thing missing though: a big imperial palace. The residence of the Emperor is there but it is small and you will hardly notice it. The walls, the gates and the many museums are the main attractions you are here for. To visit all of them you could easily spend a day. Furthermore this is a very green area: the lungs of the city.
+The Marunouchi side of Tokyo Station has been restored to its original 1914 red-brick facade and is worth a look in its own right. The surrounding streets have upscale shopping and restaurants.

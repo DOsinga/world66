@@ -1,8 +1,10 @@
 ---
-title: "corvallis"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 44.564566
 longitude: -123.262044
+title: corvallis
+type: location
 ---
 
 We currently have no information about corvallis.

@@ -5,14 +5,8 @@ latitude: 52.952181
 longitude: -8.303211
 ---
 
-Travel Guide
+Lough Derg is the largest lake on the Shannon and one of Ireland's great inland waterways. The eastern shore of County Clare looks out across the lake toward Tipperary, and the surrounding countryside is green, rolling, and quiet.
 
-Lough
-Derg, "Ireland's pleasure lake" into which the Shannon River
-flows, is a popular destination with both domestic and foreign
-holidaymakers alike and offers a wide variety of activities including
-fishing, boating, golfing and camping. The region has no shortage of accomodation with a multitude of hotels,
-B&Bs, caravan parks, marinas, holiday homes and cottages to stay in
-as well as great restaurants to enjoy and many great pubs and bars - many of which featuring traditional Irish music.
+The lake is popular for fishing, sailing, and kayaking, and the villages along its shores — Killaloe, Mountshannon, and Scarriff among them — have a relaxed pace and good pubs with traditional music. From Mountshannon you can take a boat to Inis Cealtra (Holy Island), an early Christian monastic site with round towers, churches, and high crosses dating from the 7th century onwards. The island is one of the most atmospheric historic sites in the region.
 
-The region is also famous for being the birthplace of Brian Boru, the first High King of Ireland who defeated the Vikings at the Battle of Clontarf. One can also take a boat tour to the early Christian monastic sight of Inis Cealtra, or Holy Island to visit the ruins there.
+The area is also the birthplace of Brian Boru, the High King who defeated the Vikings at the Battle of Clontarf in 1014. His fort at Béal Boru, near Killaloe, is marked by an earthen ringfort overlooking the lake.

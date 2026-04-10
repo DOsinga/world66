@@ -3,17 +3,12 @@ title: "Livorno"
 type: location
 latitude: 42.790238
 longitude: 10.340224
+done:
+  location_cleanup: 2026-04-08
 ---
 
-Travel Guide
+Livorno is Tuscany's port city, built by the Medici in the late 16th century as a grand commercial harbour and designed from scratch by the architect Bernardo Buontalenti. It has none of the medieval charm of [Florence](/europe/italy/tuscany/florence) or [Siena](/europe/italy/tuscany/siena), but it has character of a different kind — a cosmopolitan, slightly rough-edged trading city with canals, fortresses, and a long history of religious tolerance.
 
-**Livorno** is a port city on the Ligurian sea.
-It reveals its history through the structure of its neighbourhoods, crossed by canals and surrounded by fortified town walls, through the tangle of its streets, which embroider the town's Venice district, and through the Medici Port characteristically overlooked by towers and fortresses leading to the town centre.
-Designed by the architect Bernanrdo Buontalenti at the end of the 16th century, Livorno underwent a period of great town planning expansion at the end of the 17th century. Near the defensive pile of the Old Fortress, a new fortress, together
-with the town-walls and the system of navigable canals, was then built.
-In the late 1580s, Ferdinando I de Medici declared Livorno a "*porto Franco*", which meant that the goods traded here were duty free. The "*Leggi Livornine*" were laws which ruled between 1590 and 1603. These laws helped the trading activities of the merchant, freedom of religion and amnesty for some penance. Thanks to these laws, Livorno became a cosmopolitan city!
-Livorno is important for his "Naval Academy" and its fish specialities.
-Montenero,
-placed on a hill that dominates Livorno, is one of the most important places of Tuscany,
-for its sanctuary. The view of the sea, from here, is
-really wonderful! You can arrive in Montenero with a bus, and then you must change with funicular railway.
+In 1590, Ferdinando I de' Medici declared Livorno a *porto franco* (free port) and enacted the *Leggi Livornine*, laws guaranteeing freedom of religion and trade. The result was a city that attracted merchants, refugees, and adventurers from across the Mediterranean — Jews, Greeks, Armenians, English, Dutch. The old Venice Quarter (*Venezia Nuova*), laced with navigable canals, still reflects that cosmopolitan past.
+
+The Old Fortress and New Fortress guard the harbour, and the Medici Port is worth a stroll. Above the city, the hilltop sanctuary of Montenero offers sweeping views over the Tyrrhenian Sea — reach it by bus and funicular. Livorno is also known for its fish cuisine, particularly *cacciucco*, a rich, spicy fish stew that is the city's signature dish.

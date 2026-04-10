@@ -3,11 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**From the South**: From Argentina (La Quiaca - Villazon crossing) there are several busses daily.
+**From Argentina.** The border crossing at La Quiaca–Villazón is the main route from Argentina. Several buses run daily from Villazón to Tupiza.
 
-**From the North**: Most comfortable in Bolivia is travelling by train. The line from [Oruro](/southamerica/bolivia/oruro) to Villazon has a stop in Tupiza. There are busses from La Paz and Oruro, but a big part of the trip is on a terrible dirt road.
-**
-From the East**: A hellish road is taken by buses from [Tarija](/southamerica/bolivia/tarija) to Tupiza. If you can choose, take a bus that drives during daytime. Don't eat too much before boarding.
+**From the north.** The most comfortable option in Bolivia is the train from [Oruro](/southamerica/bolivia/oruro) to Villazón, which stops at Tupiza. Buses from La Paz and Oruro are cheaper but slower, and a long stretch of the road is unpaved.
 
-**Contributors**
-February 20, 2007
+**From the east.** Buses from [Tarija](/southamerica/bolivia/tarija) make the journey on a rough mountain road. Take a daytime departure if you can — the scenery is worth seeing, and the road is not one you want to experience in the dark.

@@ -1,8 +1,10 @@
 ---
-title: "Perast"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.486268
 longitude: 18.698859
+title: Perast
+type: location
 ---
 
 Perast is a small baroque town on the inner bay of Kotor, arranged along a single waterfront street with two small islands just offshore. It's one of the most picture-perfect places in Montenegro, and thankfully not yet overrun — though it gets busy in peak season.

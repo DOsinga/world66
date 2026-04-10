@@ -1,12 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Northern Arizona Yoga Center**
-
-**Northern Arizona Yoga Center **is the largest yoga studio in town. This studio offers more than just yoga...they also host Salsa parties, Tango classes, Capoiera, Pilates, and Tai Chi. They are also a great supplier of yoga clothing and accessories. They are partners with the Vertical Relief Climbing Gym. Dual memberships are available.
-
-113 S. San Francisco St. Flagstaff, AZ 86001 (928) 774-3144
-
-www.northernarizonayogacenter.com
+Flagstaff is an outdoor town with good options year-round. In winter there is skiing at Arizona Snowbowl; in summer the surrounding national forests offer hiking, mountain biking, and camping. The Arboretum at Flagstaff, just outside town, has one of the largest collections of high-country wildflowers in the country and hosts birds-of-prey programs on weekends.

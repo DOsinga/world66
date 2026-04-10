@@ -1,11 +1,12 @@
 ---
-title: "Miglionico"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 40.569392
 longitude: 16.500966
+title: Miglionico
+type: location
 ---
 
-Travel Guide
+Miglionico is one of the nicest hilltop towns in Basilicata, set on a ridge between the Bradano and Basento rivers with commanding views over the surrounding countryside. The Norman-Swabian castle, with its six towers, dominates the town and is the main draw — it was here that a conspiracy against King Ferdinand of Aragon was hatched in 1481.
 
-One of the nicest towns of Basilicate. Located on a hilltop between the Bradano and Basento river, Miglionico has a great setting and a long history.
-The main sight is the Norman-Schwabian castle, with six towers. Other sights include the "Chiesa Madre di Santa Maria Maggiore" with a Renaissance portal and a Romanesque belfry.
+The Chiesa Madre di Santa Maria Maggiore has a fine Renaissance portal and a Romanesque belfry. The town is quiet and largely untouristed, a good stop on the way between Matera and the coast.

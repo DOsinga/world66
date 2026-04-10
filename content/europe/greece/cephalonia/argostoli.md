@@ -1,8 +1,10 @@
 ---
-title: "Argostoli"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 38.175673
 longitude: 20.48788
+title: Argostoli
+type: location
 ---
 
 Argostoli is the capital of Cephalonia, sitting at the head of a long landlocked bay. The 1953 earthquake levelled most of the town, and it was rebuilt in a functional rather than picturesque style — don't come expecting Venetian grandeur. What it does have is a lively, working-town energy: a colourful waterfront market where local farmers sell produce, plenty of cafes along the esplanade, and good connections to the rest of the island.

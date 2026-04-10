@@ -1,10 +1,14 @@
 ---
-title: "Gardone"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 45.618785
 longitude: 10.5591
+title: Gardone
+type: location
 ---
 
-Gardone is just north of Salo on the eastern side of the Garda lake. It is a very small and rather charming place. The main sight is the Vittoriale, the house of Gabriele D'Anniunzio, an Italian writer. His houses is jammed with all sorts of stuff that is beautiful on its own but taken together it sort of creates a data overflow to your eyes. 
+Gardone sits just north of Salò on the western shore of Lake Garda. It is a small and rather charming place, quieter than the busier resort towns further north.
 
-There are signs in town showing the way to the house. Entrance is a stiff 11 euro, which includes a guided tour and entrance to the gardens. In the gardens you find a anti-submarine boat and parts of another large warship.
+The main sight is the Vittoriale degli Italiani, the extravagant estate of the poet and nationalist Gabriele D'Annunzio. His house is jammed with all sorts of objects — beautiful individually, but taken together they create something like a sensory overload. In the gardens you will find an anti-submarine boat and parts of a warship, along with an open-air theatre with views over the lake.
+
+The town itself has a pleasant lakeside promenade and a botanical garden (the Giardino Botanico Hruska) worth a visit if you are in the area.

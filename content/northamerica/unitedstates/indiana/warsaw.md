@@ -1,8 +1,10 @@
 ---
-title: "Warsaw"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 41.238102
 longitude: -85.853054
+title: Warsaw
+type: location
 ---
 
 Warsaw is the county seat of Kosciusko County in northern Indiana, surrounded by lakes that make it a popular summer destination for boating, fishing and swimming. The town sits between Winona Lake and Center Lake, with several more within a short drive.

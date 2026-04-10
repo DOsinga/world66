@@ -1,20 +1,14 @@
 ---
-title: "Lughaya"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 10.730573
 longitude: 43.691688
+title: Lughaya
+type: location
 ---
 
-Travel Guide
+Lughaya is a small coastal town on the Guban Coast of Somaliland, about 200 km northwest of the port city of Berbera. Hot, dry, and remote, it sits in the Awdal Region and serves as the administrative centre of the Lughaya district.
 
-Lughaya is a hot and dry coastal town in the Guban Coast.
+The town itself has a population of under 15,000, while the surrounding district is home to around 75,000 people — nomads, farmers, and fishing communities whose livelihoods depend largely on the sea and remittances from relatives abroad.
 
-The Lughaya district is part of Somalilands Awdal Region.
-
-Lughaya has a population below 15,000. The whole district has a population of around 75,000.
-
-Lughaya is a small coastal town about 200km to the north of the main port of Berbera, Sahil Region.
-
-The people of the Lughaya district are nomads and farmers that are mostly dependent on the sea for their income and money of the diaspora family members.
-
-Lughaya has huge oil reserves, American Oil Company Chevron was exploring in this area from 1985 till 1988 (The stopped they works because the unrest of the Somali cival war)
+Lughaya attracted outside interest in the 1980s when the American oil company Chevron carried out exploration in the area, work that was halted when the Somali Civil War made operations impossible.

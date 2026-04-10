@@ -1,12 +1,14 @@
 ---
-title: "West Orange"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.799
+longitude: -74.239
+title: West Orange
 type: location
-latitude: 40.798711
-longitude: -74.239035
 ---
 
-West Orange is the home of a unique site in the history of Science: for more than forty years, the laboratory created by Thomas Alva Edison in West Orange, New Jersey, had enormous impact on the lives of millions of people worldwide. Out of the West Orange laboratories came the motion picture camera, vastly improved phonographs, sound recordings, silent and sound movies and the nickel-iron alkaline electric storage battery.
+West Orange is a quiet township in Essex County, about 12 miles west of Newark, that earns its place on the traveler's map through a single extraordinary fact: Thomas Edison set up his main laboratory here in 1887 and worked in it for more than forty years. The complex on Main Street — now the Edison National Historic Site — is where he invented the motion picture camera, refined the phonograph, and developed the nickel-iron alkaline battery. Walking through the original lab buildings, with equipment still on the benches and the chemical smell still faintly in the air, gives you a rare sense of what industrial invention actually looked like in the Gilded Age.
 
+The other draw is Turtle Back Zoo, a well-regarded regional zoo set in South Mountain Reservation. The reservation itself is worth a visit even without the zoo — several hundred acres of wooded ridgeline with good walking trails and views back toward Newark and New York.
 
- 
- Edison National Historic Site provides a unique opportunity to interpret and experience important aspects of America's industrial, social and economic past, and to learn from the legacy of the world's best known inventor
+West Orange is not a destination in the conventional sense; there is no historic downtown worth wandering and the dining scene is entirely suburban. But as a half-day excursion from Newark or New York City — Edison's lab in the morning, a walk in the reservation in the afternoon — it works very well.

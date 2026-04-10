@@ -1,32 +1,14 @@
 ---
-title: "Chapada dos Veadeiros"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -14.1419
+longitude: -47.6842
+title: Chapada dos Veadeiros
 type: location
-latitude: -23.46191
-longitude: -46.866092
 ---
 
-Travel Guide
+Chapada dos Veadeiros is a high-altitude plateau in the state of Goiás, 230 km north of Brasília. The national park at its heart — a UNESCO World Heritage Site — protects the richest savanna on earth, a cerrado landscape of crystal-clear rivers, dramatic waterfalls, natural swimming pools, and canyon trails cutting through ancient quartzite rock.
 
-Famed for its beautiful landscapes, this region located in Central
-Brazil has fantastic treasures and its richness can be seen as a
-perfect blend of the human and divine. With rich biodiversity, local
-culture, crystal clear waters, high waterfalls, natural swimming pools,
-ranging canyons, hiking trails, oasis-like stands of wine palms and
-friendly **Chapada dos Veadeiros Hotels** , this place is a special destination for ecotourists.
+The park covers around 240,000 hectares and sits at elevations between 600 and 1,600 metres. The plateau's age — among the oldest geological formations on the planet — gives it an otherworldly quality: the quartzite cliffs catch the light at dusk in shades of pink and amber, and the air at altitude feels noticeably cleaner than in the lowlands. Over 10,000 plant varieties grow here, making it one of the most biodiverse savannas anywhere in the world. Flowers bloom from January onwards, with the peak in May and June.
 
-*Walking
-through Chapada dos Veadeiros endless mountains and bathing in its
-beautiful waterfalls will introduce you to unforgettable sensations.*
-
-Chapada
-dos Veadeiros lies 230 km north of Brasília, Brazil's capital renowned
-for its daring city layout and striking and modern architecture.
-Covering the plateau region of Brazil and the central plains is the
-Cerrado, a tropical savanna. The **Chapada dos Veadeiros National Park** is spread over an area of 236,570 hectares and is situated in the northern part of Goiás. The Park is recognised as a **World Natural Heritage site by UNESCO**
-due to the importance of the high altitude savanna environment as a
-unique area of bio-diversity. This distinct biome (natural environment)
-is well preserved in the Park, with over 10000 varieties of plants
-making it the richest savanna in the entire world. The flowers bloom
-from January onwards, with the peak season in May and June.
-
-READ MORE: http://www.chapadaveadeiros.travel
+The base for most visitors is Alto Paraíso de Goiás, a small town known for its alternative community and as the gateway to the park. São Jorge, closer to the main park entrance, is smaller and quieter, and puts you within walking distance of some of the best trails.

@@ -1,14 +1,16 @@
 ---
-title: "Ourika"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 31.378
+longitude: -7.8048
+title: Ourika
 type: location
-latitude: 31.378027
-longitude: -7.804832
 ---
 
-A trip to the Ourika Valley is a great escape from the heat and noise of [Marrakesh](/africa/morocco/marrakesh). The first thirty minutes, you drive through a rather dull, flat plan. At the village, souk tnine de l’ourika, the breathtaking views of Berber villages and landscapes begin. There is a great Monday souk at this roadside village.
- 
+The Ourika Valley is one of the finest day trips from [Marrakesh](/africa/morocco/marrakesh) — a narrow gorge cutting into the High Atlas where Berber villages cling to red rock cliffs above a fast-running river. It takes about an hour to get there, and the contrast with the city is immediate.
 
-Setti Fatma is the place to go, if the road is not too washed out. If you take anything but a four-wheel drive, especially during spring, you will be dropped off beside a stream of icy water. Above the village, you can wander around waterfalls. The higher waterfalls can be difficult to climb, and especially to come down. Wear good foot-wear!
- 
+The first stretch of road out of Marrakesh is flat and unremarkable. But after the village of Souk Tnine de l'Ourika — where a lively Monday market takes over the roadside — the landscape opens up dramatically. Snow-capped peaks appear, the valley narrows, and the air cools.
 
-It’s possible to set out for trekking to Toubkal from Setti Fatma. The valley is in the middle of the Atlas mountains. The Djebel Yagour with prehistoric rock carvings, the Djebel Tougledn (at least 1 night overnight) are for adventurous trekkers. A three day trek across the Zat Valley, beginning at Setti Fatma and ending beneath Taddert on the Tizi n’Tichka is spectacular but challenging. For guides, go to the Cafe Azagza.
+Setti Fatma, at the end of the paved road, is the main destination. From here you can walk up into the gorge to a series of waterfalls. The lower falls are easy enough; the higher ones involve some scrambling and are genuinely slippery on the way down. Wear proper shoes. In spring, snowmelt turns the river into a torrent and the track can wash out completely.
+
+For serious trekkers, Setti Fatma is also a starting point for routes into the Atlas. You can reach Toubkal from here in a few days, or make a three-day crossing of the Zat Valley, ending below Taddert on the Tizi n'Tichka pass. The Djebel Yagour, reachable in a long day, has an extraordinary collection of prehistoric rock carvings. For guides, the Café Azagza in Setti Fatma is the place to ask.

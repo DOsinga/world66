@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Khabarovsk"
+title: "Getting There"
 type: section
 ---
 
-Khabarovsk is situated on the Transsiberian Railway. The ride from [Moscow](/europe/russia/moscow) takes about six days. From [Vladivostok](/europe/russia/vladivostok) it takes 12-15 hours. There are flights from Moscow and other cities in Russia ( Vladivostok , [Irkutsk](/europe/russia/irkutsk) , [Krasnoyarsk](/europe/russia/krasnoyarsk_region) , Magadan, [Novosibirsk](/europe/russia/novosibirsk) , Petropavlovsk-Kamchatskiy, [St. Petersburg](/europe/russia/stpetersburg) , Yakutsk , Yuzhno-Sakhalinsk). There are also international flights from [Seoul](/asia/southkorea/seoul) and [Harbin](/asia/china/harbin) .
-
-**Contributors**
-January 05, 2008
+Khabarovsk sits on the Trans-Siberian Railway. The journey from Moscow takes around six days; from Vladivostok it is 12–15 hours. There are regular flights from Moscow and other Russian cities including Vladivostok, Irkutsk, Krasnoyarsk, Magadan, Novosibirsk, Petropavlovsk-Kamchatsky, St. Petersburg, Yakutsk, and Yuzhno-Sakhalinsk. International flights connect Khabarovsk to Seoul and Harbin.

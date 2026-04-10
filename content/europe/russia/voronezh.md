@@ -1,24 +1,14 @@
 ---
-title: "Voronezh"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.680008
 longitude: 39.183725
+title: Voronezh
+type: location
 ---
 
-Travel Guide
+Voronezh is a city of around one million people on the Don River, roughly 500 km south of Moscow. Founded in 1585 as a military outpost, it later became the birthplace of the Russian Navy — Peter the Great chose it as the site where Russia's first fleet was built in the 1690s. That naval heritage sits at the heart of the city's identity.
 
-Voronezh is a major Russian administrative, industrial and cultural centre located 500 km south of
-Moscow. Voronezh has a chequered past. From an important military base, founded in 1585 by Tsar
-Feodor I, it declined into an insignificant agricultural village only to be reborn at the end of the 17th
-century as the biggest trading point in south-east Russia and the central city of the famous Black Soil
-region. Its location, at the crossroads of important transport routes, has always played a crucial role in
-its development. Tsar Peter I was the first to recognize Voronezh's strategic value, having chosen it as
-the building site of the first Russian Navy.
+Today Voronezh is the largest city in the Black Earth region, a prosperous agricultural and industrial hub that often goes overlooked by foreign travellers. It has broad Soviet-era boulevards, a handful of worthwhile museums, and a lively student population — several major universities give the city an energy that shows in its cafes and nightlife.
 
-*Today, the city is the kingpin of south-east Russia, a region within which is concentrated a lion's share of the region's industry and commerce, not to mention its steadily growing population. Just over *1 million people *live in Voronezh itself and around 1,5 million within an hour's drive of the city. According to economic studies, Voronezh can look forward to the future with confidence. Not only is it set to benefit further from its excellent communications with the rest of Russia, but the city is also establishing its links with Europe, China and the USA through its ambitious development programme. . . READ MORE AT www.lcstudies.com*
-
-*Interesting to visit Voronezh?*
-
-*L&C Language and Culture Co.,Ltd.] will be glad to manage visit visas for you.*
-
-**
+The city was almost completely destroyed in World War II and suffered severe fighting during the German advance in 1942–43. Much of what visitors see today was rebuilt in the post-war decades, though some older architecture survived in the city centre.

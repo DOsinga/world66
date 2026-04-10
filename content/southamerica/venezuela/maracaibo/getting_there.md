@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Maracaibo's downtown is 15 minutes from La Chinita International Airport and 10 minutes from Maracaibo Lake Bridge and the Lara-Zulia speedway wich connected the city with the rest of the country. Is a 45 minutes flight from [Caracas](/southamerica/venezuela/caracas) and 8 hours drive by car.
+Maracaibo is well connected by air and road. La Chinita International Airport sits about 15 minutes from the city centre and handles frequent flights from Caracas — the journey takes around 45 minutes. By road, the Lara-Zulia speedway links Maracaibo to the rest of Venezuela via the Maracaibo Lake Bridge, though the drive from Caracas takes around 8 hours.

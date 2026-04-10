@@ -1,46 +1,14 @@
 ---
-title: "Getting There in Corniglia"
+title: "Getting There"
 type: section
-type: "By Rail"
-url: "www.cinqueterre.it"
 ---
 
-Take a train to Corniglia or go by road on your bike or in a car. Or walk!
+Corniglia is served by train on the La Spezia–Genoa line, with the station sitting at the foot of the cliff below the village. From there it's a 15-minute climb up the Lardarina staircase (382 steps) or a short shuttle bus ride to the village centre. A ferry calls at Corniglia in summer, and the coastal trail connects the village to Vernazza and Manarola on foot.
 
-### [Train](/europe/italy/liguria/corniglia/getting_there/train)
+**By train:** Corniglia station is on the main La Spezia–Sestri Levante line. All regional trains stop here; journey time from La Spezia is about 20 minutes.
 
-There is a train station in Corniglia.
+**By ferry:** Seasonal ferries run along the Cinque Terre coast. Corniglia has a small landing stage but note that the ferry does not stop in rough weather. Check timetables at [navigazionegolfodeipoeti.it](http://www.navigazionegolfodeipoeti.it/).
 
-type: By Rail
+**By road:** A narrow road climbs to the village from the Via Aurelia, but parking is very limited. Most visitors arrive by train.
 
-
-
-url: [www.cinqueterre.it](http://www.cinqueterre.it/en/ct2.html#)
-
-### [State Route](/europe/italy/liguria/corniglia/getting_there/state_route)
-
-The state route can get very windy and steep at places.
-
-type: By Road
-
-
-
-url: [www.cinqueterre.it](http://www.cinqueterre.it/en/ct2.html#)
-
-### [The Airport](/europe/italy/liguria/corniglia/getting_there/the_airport)
-
-Use either the CRISTOFORO COLOMBO International airport in Genoa or the GALILEO GALILEI international airport which is in Pisa.
-
-type: By Air
-
-
-
-### [Ferryboat](/europe/italy/liguria/corniglia/getting_there/ferryboat)
-
-Take a ferryboat ride to Corniglia also for a beautiful view of the coastline. Check out the timetable for the right season and departure port.
-
-type: By Sea
-
-
-
-url: [www.navigazionegolfodeipoeti.it](http://www.navigazionegolfodeipoeti.it/)
+**By air:** The nearest airports are Cristoforo Colombo (Genoa, 90 km) and Galileo Galilei (Pisa, 100 km). Both have good rail connections to the Cinque Terre.

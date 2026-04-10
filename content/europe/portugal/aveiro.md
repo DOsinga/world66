@@ -1,18 +1,14 @@
 ---
-title: "Aveiro"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.6405
+longitude: -8.6538
+title: Aveiro
 type: location
-latitude: 40.640496
-longitude: -8.653784
 ---
 
-Travel Guide
+Aveiro sits on a shallow coastal lagoon about an hour south of [Porto](/europe/portugal/oporto), and its nickname — the Portuguese Venice — is well earned. The city is laced with narrow canals crossed by arched bridges, and colourful moliceiro boats drift between them carrying tourists where fishermen once harvested seaweed.
 
-Aveiro is a beautiful city, located just an hour away from [Porto](/europe/portugal/oporto). This small city has much to offer including lovely untouched beaches where you can just get away in 10 minutes from the city.
+The canals give Aveiro its character, but the city has more going for it than the gondola rides. The covered market and the Art Nouveau buildings around Praça da República are worth a wander, and the coastline just west of town — reached in ten minutes by bike or bus — opens onto long Atlantic beaches backed by dunes. The lighthouse at Barra, the tallest in the Iberian Peninsula, marks the point where the lagoon meets the sea.
 
-There are many shops to visit, during the day and in the evening there are quite many restaurants to enjoy great portuguese food, whether it be seafood and all its varieties or great tasty traditional main courses, you're sure to find whatever your taste buds desire. After dinner, you can either take a stroll on the boardwalk located at the Barra beach or enjoy a night out in town. You have many bars along side the river to choose from and for an extraordinary night, you can dance at the most "in" club, Estacao da Luz, located a few miles from city center. The dance floor opens at 2 am and keeps going until dawn.
-
-To really enjoy Aveiro, I suggest you also try "ovos moles" as this is the origin of this delicious egg cream, used in pastries and cakes. Also known as the Portguese Venice, you can take a short ride on the Gondolas located in the city center where you can view Aveiro from its riverside.
-
-Walking along the oceanside at Barra, you'll end up coming to a tall lighthouse, actually the tallest lighthouse in the Iberian Peninsula built during 1885 to 1893.
-
-For anyone wanting to get away from the big city, but wanting to capture a bit of Portuguese modern culture, Aveiro is the place to visit.
+One local thing to seek out: ovos moles, a sweet made from egg yolks and sugar wrapped in thin wafer shells shaped like fish and seashells. Aveiro is their birthplace, and every pastry shop in the centre sells them.

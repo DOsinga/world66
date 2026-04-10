@@ -1,12 +1,14 @@
 ---
-title: "Moenjodaro"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 27.3217
+longitude: 68.1366
+title: Moenjodaro
 type: location
-latitude: 27.321657
-longitude: 68.136593
 ---
 
-Moenjodaro is one of the archeological highlights of the world. The discovery of this site and that opf Harappa showed the existence of the Indus civilization that had its peak from the 3rd till the middle of the 2nd millennium BC.
+Moenjodaro is one of the great archaeological sites of the world — a 4,500-year-old city that was contemporary with ancient Egypt and Mesopotamia, and far larger than most people expect. The ruins sit in the flat plains of Sindh province, beside the Indus River, quietly extraordinary in their scale and sophistication.
 
-Discovered in 1922, Moenjodaro (in Sindh province) was once a metropolis of great importance, forming part of the Indus Valley Civilization with Harrappa (discovered in 1923 in the southern Punjab), Kot Diji (Sindh) and recently discovered Mehr Garh (Balochistan).
+Discovered in 1922, the city was once home to tens of thousands of people at its peak. What survives is startlingly modern in conception: a grid of streets, a covered sewage system more advanced than many cities of the 19th century AD, a great granary, a pillared assembly hall, and a large ritual bath known as the Great Bath. The buildings were made of fired brick, and many walls still stand to head height.
 
-Moenjodaro is considered as one of the most spectacular ancient cities of the World. It had mud and baked bricks’ buildings, an elaborate covered drainage system, a large state granary, a spacious pillared hall, a College of Priests, a palace and a citadel. Harrappa, another major city of the Indus Valley Civilization, was surrounded by a massive brick wall fortification. Other features and plan of the city were similar to that of Moenjodaro. The Kot Diji culture is marked by well-made pottery and houses built of mud-bricks and stone foundations. Mehr Garh, the oldest Civilization (7,000 B.C), remains of which were found in the district Kachhi of Balochistan recently, was the pioneer of the Indus Valley Civilization. The evidence of crop cultivation, animal husbandry and human settlements have been found here. The inhabitant of Mehr Garh were living in mud-brick houses and learned to make pottery around 6,000 B.C.
+Visiting requires some imagination — there are no inscriptions that have been decoded, no royal tombs, no statues of gods or rulers. The Indus Valley Civilization left almost no images of itself. But that absence is part of what makes Moenjodaro haunting. A city of 40,000 people, thriving for centuries, and then — silence. No one knows why it ended.

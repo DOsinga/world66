@@ -25,9 +25,9 @@ europe/malta/mellieha
 europe/unitedkingdom/england/manchester_liverp/argos
 europe/unitedkingdom/scotland/aberdeen/barspubs/oddfellowsltd
 europe/hungary/budapest/coffeehouses/newyorkkvhz
-# DONE europe/armenia/lori_marz/vanadzor
-# DONE australiaandpacific/australia/tasmania/eastcoast/st_helens
-# DONE northamerica/unitedstates/westvirginia/wheeling_1
+europe/armenia/lori_marz/vanadzor
+australiaandpacific/australia/tasmania/eastcoast/st_helens
+northamerica/unitedstates/westvirginia/wheeling_1
 northamerica/unitedstates/california/american_canyon
 northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno
 asia/china/bei_dai_he

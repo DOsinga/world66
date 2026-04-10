@@ -1,12 +1,12 @@
 ---
-title: "Mahdishar"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.708
+longitude: 53.348
+title: Mahdishar
 type: location
 ---
 
-Travel Guide
+Mahdishahr — also known by its older name Sangesar — is a small city in Semnan Province, sitting on the southern slopes of the Alborz mountains about 20 kilometres west of Semnan. At roughly 1,630 metres above sea level, it is a cool retreat from the lowland heat, with cold winters and heavy snowfall but mild summers. To the north the Alborz ridgeline marks the border with Mazandaran Province; to the south, the land drops away into the vast salt desert of Dasht-e Kavir.
 
-Mahdishahr a beautiful city , in Alburze mountain surrounded by hill and tall mount.
-
-** **Mahdishahr or Sangesar (Persian: سَنگسَر) is a city located in the Semnān Province of Iran on the southern slopes of the Alborz mountains, the administrative centre Mehdishahr County. In the northern part it has a common boundary with Mazandaran Province. Here, the chain of Alborz mountains is very close to the desert of Dasht-e Kavir. Sangesar, specially the northern part of it, is completely mountainous with cold winters, heavy snowfalls but with mild summers.
-
-The area of the county is about 1100 square kilometers. The distance between Sangsar city and Semnan city is 20 kilometers. The altitude is about 1630 meters above sea level.
+The surrounding landscape is rugged and largely mountainous, and the county covers around 1,100 square kilometres. It is a quiet, unhurried place — more interesting to travellers as a base for mountain hiking or as a glimpse of small-town Iranian life than as a destination with conventional sights. The contrast between the green mountain valleys and the desert edge to the south is striking.

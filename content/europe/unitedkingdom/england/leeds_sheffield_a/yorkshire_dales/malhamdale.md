@@ -1,10 +1,12 @@
 ---
-title: "Malhamdale"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 54.023331
 longitude: -2.145729
+title: Malhamdale
+type: location
 ---
 
-Malham itself is a delightful hamlet when it's allowed to be; i.e. when its not bursting at hte seams with visitors. It has no church for which would-be worshippers or sightseers have to go to nearby Kirkby Malham. There is a National Park information centre and carpark Meals can be obtained at the Buck or at a local cafe.
+Malham itself is a delightful hamlet when it's allowed to be — which is to say, when it's not bursting at the seams with visitors. It has no church of its own; would-be worshippers and sightseers have to go to nearby Kirkby Malham. There is a National Park information centre and car park, and meals can be had at the Buck Inn or at a local café.
 
-The principle attraction to visitors is the scenery; three sights in particular, Malham Cove and Gordale Scar featuring wonderful limestone formations and janet's Foss being an attractive though not very large waterfall. Neither Malham Cove with its precipitous front nor gordale Scar is to be recommended to parents who expect to be able to take their attention away from their children!
+The principal draw is the scenery. Three sights stand out: Malham Cove and Gordale Scar, both featuring extraordinary limestone formations, and Janet's Foss, an attractive if modest waterfall set in a wooded gill. Neither Malham Cove — with its sheer, curving cliff face — nor Gordale Scar is the place to let your attention wander if you have young children in tow.

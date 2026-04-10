@@ -1,12 +1,12 @@
 ---
-title: "Schweinfurt"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.049932
 longitude: 10.233509
+title: Schweinfurt
+type: location
 ---
 
-Travel Guide
+Schweinfurt sits directly on the Main River between Bamberg and Würzburg — a compact town of cobblestone streets and market squares that rewards a few hours of wandering. The focal point is the Rathaus and its surrounding blocks, where fruit and vegetable stalls set up daily and festivals fill the calendar through the year.
 
-This quaint town is located directly off the Main River, between Bamberg and Wurzburg. You'll find cobblestone streets and modern shopping in the several blocks surrounding the main building downtown, Rathaus. Fruits and Vegetable stands set up daily in the main square, with plenty of festivals all year round. The Georg Schafer Art Museum, located a couple blocks south of Rathaus, Markt is worth a visit, if only for a look at the contemporary building, the air-conditioning, clean bathrooms, and comfortable cafe. And across the bridge, Main River rides are available for around 15 euro.
-
-Many locals speak English, maybe partially because of the U.S. Army base located north of downtown.
+The Georg Schäfer Museum, a couple of blocks south of the Markt, is worth a visit — not just for the 19th-century German art collection but for the contemporary building itself. Across the river, boat trips on the Main run for around €15. Many locals speak good English, in part a legacy of the US Army base that was once stationed north of town.

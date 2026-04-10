@@ -1,8 +1,16 @@
 ---
-title: "Schleswig"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 54.5185
+longitude: 9.5653
+title: Schleswig
 type: location
-latitude: 54.51851
-longitude: 9.565328
 ---
 
-Schleswig (25.000 inhabitants) is a pleasant town at the Baltic Sea and the river Schlei. It's quite old - in 2004, the Schleswiger celebrate their city's 1200th birthday. There are still a lot of beautiful medieval and other sights around. One of the highlights is the "Dom" with its famous carved wooden altar. Also worth seeing is Gottorf Castle (Schloss Gottorf) which is now a museum. Don't miss the Viking Museum Haithabu (Winkinger Museum Haithabu) and enjoy the Days of the Vikings (Wikingertage): August 6 - 8th, 2004.
+Schleswig is one of northern Germany's most quietly rewarding towns — small (around 25,000 people), but historically substantial. It sits at the head of the Schlei, a long, narrow fjord that cuts inland from the Baltic, and for centuries it was the most important city in the Danish-German borderlands. That layered past — Viking, medieval, Danish, Prussian — is visible everywhere you look.
+
+The centerpiece of the old town is the Dom St. Petri, a red-brick Gothic cathedral with a carved wooden altarpiece by Hans Brüggemann that is genuinely one of the finest pieces of medieval woodwork in northern Europe. It rewards close attention. Across the water on a small island sits Schloss Gottorf, a renaissance palace that houses two excellent state museums covering art history and archaeology. The Schleswig-Holstein Landesmuseen here are serious institutions, not tourist traps.
+
+Just south of town, the Viking settlement of Haithabu was one of the most important trading posts in early medieval Europe. The open-air museum and its reconstructed longhouses give a vivid sense of 9th-century life. The finds from the site — excavated over decades — are displayed in the adjacent museum with real depth.
+
+The Schlei itself is the unsung pleasure of a visit. Rent a kayak or take a boat trip along the fjord. The surrounding landscape is flat, green, and unhurried.

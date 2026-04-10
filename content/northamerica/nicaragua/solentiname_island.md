@@ -1,8 +1,12 @@
 ---
 title: "Solentiname Islands"
 type: location
+latitude: 11.2000
+longitude: -84.7833
 ---
 
-Travel Guide
+The Solentiname Islands are a small archipelago in the southern end of Lake Nicaragua, about as far off the beaten path as you can get in Central America. Reached from San Carlos by a twice-weekly public boat (or by arranging private transport), they feel genuinely remote — no ATMs, no nightlife, just a handful of guesthouses and an extraordinary art tradition.
 
-Solentiname is situated in the southern end of Lake Nicaragua. They can be reached from San Carlos by either aranging private transport or using the twice-weekly boat. They are the centre for Nicaragua's primitivist art scene and other crafts. They feel very remote and are somewhat off the beaten path. They also have a few interesting legends and some petroglyphs. There are a couple places to stay on the islands.
+The islands became famous in the 1960s when the poet and priest Ernesto Cardenal founded a contemplative community on Mancarrón and encouraged the local campesinos to paint. The result was Nicaragua's primitivist art movement, still thriving today. You can visit workshops where islanders paint vivid scenes of birds, fish, and daily life on balsa wood, and buy directly from the artists.
+
+Beyond the art, there are pre-Columbian petroglyphs scattered across the islands, good birdwatching in the surrounding wetlands, and the kind of absolute quiet that is increasingly hard to find. Bring cash, mosquito repellent, and a book — and plan to stay at least two nights, because the boat schedule will not let you rush.

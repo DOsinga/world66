@@ -1,15 +1,16 @@
 ---
-title: "La Coruna"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.37097
 longitude: -8.395943
+title: La Coruña
+type: location
 ---
 
-La Coruna is located in the North West of Spain, close to the border with
-[Portugal](/europe/portugal).
+A Coruña (Spanish: La Coruña) sits on a narrow peninsula jutting into the Atlantic on Galicia's northern coast. It is one of the most liveable cities in northwestern Spain — a working port with a grand promenade, a medieval old town, and the oldest working lighthouse in the world.
 
-Land of seamen and countrymen, La Coruña has known how to become a city of the future, a nice place to live and a great destination to spend the holidays. No other city in the northwest of Spain has such a mix of relax and high standard cultural activities.
+The city's most remarkable feature is its glassed-in balconies, the *galerías*, which line the seafront and the old quarter in rows of white-framed glass. Built to catch the light without letting in the Atlantic wind, they give La Coruña a silvery, luminous quality that has earned it the nickname *Ciudad de Cristal* — City of Glass.
 
-The old center is definately worth a visit. It contains most of the historical monuments built before the 19th century. Even more important probably are the buildings dating from the Modernist period. La Coruña blosomed during the progressive wave at the end of the nineteenth and beginning of the twentieth centuries. Picasso lived in La Coruna during that time and there are many reminders of the great painter.
+The Torre de Hércules, a Roman lighthouse rebuilt in the 18th century, stands on the northern tip of the peninsula still in active use. Below it, a series of wild Atlantic beaches stretch south along the coast. The city centre is compact and walkable: the old town of Ciudad Vieja clusters around Romanesque churches and the Plaza de Azcárraga, while the newer 19th-century grid fans out toward the busy port.
 
-Near the city, the Rías Altas, the Costa da Morte (Death Coast), the shires of As Mariñas, Os Bergantiños, and a little bit further away, the rest of Galicia, make the city of La Coruña an ideal base for hiking in a beautiful natural area.
+Picasso spent his formative years here — his father was a drawing teacher at the local school of fine arts — and the city carries that connection with quiet pride. The seafood is exceptional, as you would expect anywhere in Galicia: pulpo a feira, percebes (barnacles), and excellent white Albariño wine from nearby Rías Baixas.

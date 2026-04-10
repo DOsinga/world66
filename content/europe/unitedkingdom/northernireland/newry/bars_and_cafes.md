@@ -1,16 +1,6 @@
 ---
 title: "Bars and Cafes"
 type: section
-accessibility: "Excellent"
-address: "Francis Street Newry"
 ---
 
-### [Quayside bar](/europe/unitedkingdom/northernireland/newry/barsandcafes/quayside_bar)
-
-**QUAYSIDE BAR **opposite the Buttercrane Shopping Centre in Newry. Excellent for a quick bite and drink. Great location overlooking the Newry Canal.
-
-
-
-accessibility: Excellent
-
-address: Francis Street Newry
+Newry has a solid pub scene, with most of the action centred on the canal-side streets near the Buttercrane Shopping Centre. The Quayside Bar, overlooking the Newry Canal on Francis Street, is a good spot for a pint and a bite in a relaxed waterfront setting.

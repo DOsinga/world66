@@ -1,11 +1,11 @@
 ---
-title: "Montpoupon"
-type: location
+title: "Château de Montpoupon"
+type: poi
+category: "Sight"
 latitude: 47.252047
 longitude: 1.141773
 ---
 
-The chateau de Montpoupon is some 10 km south of [Chenonceau](/europe/france/centre/loirevalley/chenonceau), halfway between Montrichard and [Loches](/europe/france/centre/loirevalley/loches) close to the town of Cere la Ronde.
+The Château de Montpoupon sits about 10 km south of [Chenonceau](/europe/france/centre/loirevalley/chenonceau), halfway between Montrichard and [Loches](/europe/france/centre/loirevalley/loches) near the village of Céré-la-Ronde. It is one of the lesser-known Loire châteaux but well worth a visit, especially if you are interested in country life and hunting traditions.
 
-
- 25 rooms are open to the public, as well as the stables, an old blacnsmith workshop and reconstructed houses of the dog keeper and the huntsman. For more info see the Montpoupon website.
+Twenty-five rooms are open to the public, along with the stables, a blacksmith's workshop, and reconstructed quarters for the dog keeper and huntsman. The château has been continuously inhabited and feels more like a lived-in house than a museum.

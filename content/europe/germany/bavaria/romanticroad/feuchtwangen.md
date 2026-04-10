@@ -1,8 +1,10 @@
 ---
-title: "Feuchtwangen"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 49.16786
 longitude: 10.331327
+title: Feuchtwangen
+type: location
 ---
 
 Feuchtwangen is a former free imperial city in the Wörnitz valley with a picturesque market square surrounded by half-timbered houses. The Stiftskirche contains a notable altarpiece by Michael Wolgemut, Albrecht Dürer's teacher, and next door the Romanesque cloister hosts open-air theatre and concerts in summer — the Kreuzgangspiele have been running since 1949.

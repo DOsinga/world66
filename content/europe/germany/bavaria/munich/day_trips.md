@@ -1,10 +1,12 @@
 ---
-title: "Day Trips"
-type: section
+done:
+  location_cleanup: '2026-04-10'
 linked_locations:
-  - europe/germany/bavaria/neuschwanstein
-  - europe/germany/bavaria/dachau
-  - europe/germany/bavaria/garmischpartenkirchen
+- europe/germany/bavaria/neuschwanstein
+- europe/germany/bavaria/dachau
+- europe/germany/bavaria/garmischpartenkirchen
+title: Day Trips
+type: section
 ---
 
 Munich's position at the foot of the Alps makes it an excellent base for day trips. The Bavarian countryside is packed with castles, lakes, and mountain scenery, most reachable within one to two hours by train or car.

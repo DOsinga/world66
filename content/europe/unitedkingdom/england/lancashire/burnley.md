@@ -1,8 +1,10 @@
 ---
-title: "Burnley"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 53.790726
 longitude: -2.24392
+title: Burnley
+type: location
 ---
 
 From a lively nightlife to dynamic theatrical productions, Burnley

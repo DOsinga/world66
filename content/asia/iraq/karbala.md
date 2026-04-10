@@ -1,11 +1,12 @@
 ---
-title: "Karbala"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 32.598406
 longitude: 44.015793
+title: Karbala
+type: location
 ---
 
-Karbala is loacted in central Iraq, roughly speaking about halfway between [Baghdad](/asia/iraq/baghdad) and [An najaf](/asia/iraq/annajaf). It is one of the holiest places of Shia Islam and major place of pilgrimage.
+Karbala is located in central Iraq, roughly halfway between [Baghdad](/asia/iraq/baghdad) and [An Najaf](/asia/iraq/annajaf). It is one of the holiest places in Shia Islam and a major pilgrimage destination.
 
-
- The Mosque where Husain, the son of Ali, the first Muslim after Muhammad, is buried is the main attraction for religious and non-religious visitors alike. The big golden dome and the three minarets can be seen from afar.
+The Imam Husain Shrine, where Husain ibn Ali was killed and buried in 680 AD, is the city's focal point. Its golden dome and three minarets can be seen from far away, and millions of Shia pilgrims visit each year, particularly during the Arbaeen commemoration — one of the largest annual gatherings of people in the world.

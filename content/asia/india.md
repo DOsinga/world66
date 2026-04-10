@@ -1,70 +1,60 @@
 ---
-title: "India"
+done:
+  country_cleanup: 2026-03-31
+image: india.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Tamjeed_Ahmed" title="User:Tamjeed
+  Ahmed">Tamjeed Ahmed</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Back_view_of_Rashtrapati_Bhavan.jpg
+latitude: 20.593684
+longitude: 78.96288
+title: India
 type: location
-latitude: 22.351115
-longitude: 78.667743
 ---
 
-Maybe this will be your first and final visit or maybe this will be the beginning of a never ending passionate relationship with this dazzling subcontinent. Whatever the case will be, you will never forget India for as long as you live.
+*Asia > India*
 
+India is one of the most demanding and rewarding destinations on earth. It is enormous — the seventh-largest country by area, the most populous on the planet — and it contains multitudes. The India of the Taj Mahal, the Himalayan foothills, the Kerala backwaters, the Rajasthani desert forts, and the chaotic streets of Mumbai are all real, and all very different from one another.
 
- 
- **Arabian nights revive in colourful Rajasthan**
+First-time visitors are often overwhelmed. The sensory load is high: noise, colour, traffic, heat, and an almost constant press of people. Give it time. India rewards patience and a willingness to be confused. Most travelers who push through the initial disorientation find themselves deeply attached to the place.
 
+The country divides roughly into a few distinct zones. The north — Delhi, Agra, Rajasthan, Varanasi — is where most first-timers head, and for good reason. The Golden Triangle of Delhi, Agra, and Jaipur is the obvious introduction. [Rajasthan](/asia/india/rajasthan) in particular is spectacular: desert forts, painted havelis, camel markets, and cities that glow gold and pink and white. [Delhi](/asia/india/delhi) is the chaotic, layered capital — Mughal monuments, colonial avenues, and some of the best street food in the country.
 
- Most people begin at [Delhi](/asia/india/delhi) and set off for one of the well-known routes. After a visit to the general and the ghost town of Fathehpur Sikri, [Rajasthan](/asia/india/rajasthan) offers an inspiring combination of famous palaces, such as the general, fascinating cities such as [Udaipur](/asia/india/rajasthan/udaipur) and [Jodhpur](/asia/india/rajasthan/jodhpur) and impressive temple complexes, such as the general at Mt Abu. An absolute must is a visit to the colourful general and, if it suits you, finish it off with a camel-ride leaving from the Thar desert town of [Jaisalmer](/asia/india/rajasthan/jaisalmer).
+South India has a different pace and a different culture. [Kerala](/asia/india/kerala) is lush and slow, famous for its backwaters and Ayurvedic massage. The temples of Tamil Nadu are extraordinary works of architecture that are still functioning places of worship, not museums. Karnataka contains the ruined Vijayanagara empire at Hampi, one of the most atmospheric sites in Asia.
 
+The northeast is India's least-visited region — tribal states, tea gardens, extraordinary mountain scenery, and a frontier feel that is hard to find elsewhere. [Himachal Pradesh](/asia/india/himachalpradesh) and [Jammu and Kashmir](/asia/india/jammuandkashmir) draw trekkers and those seeking dramatic Himalayan landscape.
 
- 
- **Snow-capped mountains eclipsing tea plantations and erotic carvings**
+India is not a comfortable country to travel in. Heat, dust, bureaucracy, scams directed at tourists, and vast distances all take a toll. The train network is one of the great wonders of the country — it goes almost everywhere, and traveling in a reserved sleeper is one of the genuine pleasures of a trip — but booking tickets requires patience. Budget plenty of time for everything.
 
+## States and Regions
 
- 
- The eastern track leads for many visitors to the tea plantations in [darjeeling](/asia/india/westbengal/darjeeling/darjeeling) or the neighbouring country [Nepal](/asia/nepal). A logical stop on the way is the temple complex of [Khajuraho](/asia/india/madhyapradesh/khajuraho) with its erotic carvings. After that, the holy city of [Varanasi](/asia/india/uttarpradesh/varanasi) will give a deeper insight into the importance of Hinduism in India.
+- [Andhra Pradesh](/asia/india/andhrapradesh)
+- [Assam](/asia/india/assam)
+- [Bihar](/asia/india/bihar)
+- [Goa](/asia/india/goa)
+- [Gujarat](/asia/india/gujarat)
+- [Haryana](/asia/india/haryana)
+- [Himachal Pradesh](/asia/india/himachalpradesh)
+- [Jammu and Kashmir](/asia/india/jammuandkashmir)
+- [Jharkhand](/asia/india/jharkhand)
+- [Karnataka](/asia/india/karnataka)
+- [Kerala](/asia/india/kerala)
+- [Madhya Pradesh](/asia/india/madhyapradesh)
+- [Maharashtra](/asia/india/maharashtra)
+- [Manipur](/asia/india/manipur)
+- [Meghalaya](/asia/india/meghalaya)
+- [Mizoram](/asia/india/mizoram)
+- [Nagaland](/asia/india/nagaland)
+- [Orissa](/asia/india/orissa)
+- [Punjab](/asia/india/punjab)
+- [Rajasthan](/asia/india/rajasthan)
+- [Sikkim](/asia/india/sikkim)
+- [Tamil Nadu](/asia/india/tamilnadu)
+- [Tripura](/asia/india/tripura)
+- [Uttar Pradesh](/asia/india/uttarpradesh)
+- [Uttaranchal](/asia/india/uttaranchal)
+- [West Bengal](/asia/india/westbengal)
 
+## Cities
 
- 
- For those interested in snow, mountains and trekkings, the northern area offers plenty of opportunities. Although the general area often still is the sight of political struggle, this is the gateway to the general and places such as [Manali](/asia/india/himachalpradesh/manali), Ladakh and ‘little Tibet’, better known as [Leh](/asia/india/jammuandkashmir/leh).
-
-
- 
- **Lushy green fields entangled with architectural masterpieces and a freaky beach centre**
-
-
- The southern part offers the green regions of [Karnataka](/asia/india/karnataka) and [Kerala](/asia/india/kerala) and the historically interesting state of [Tamil Nadu](/asia/india/tamilnadu). Whether you leave the capital [Chennai](/asia/india/tamilnadu/chennai) for the temple complex at the sandelwood city [Mysore](/asia/india/karnataka/mysore) or the rock temples at [Mahabalipuram](/asia/india/tamilnadu/mahabalipuram), there is always a marvellous beach somewhere where you can catch your breath again, such as the beaches at Kollam and [Varkala](/asia/india/kerala/varkala).
-
-
- 
- 
- India’s most famous beach area is on the west coast, the old freaky hippy centre of [Goa](/asia/india/goa). From there, you can explore the old ghost town of [Hampi](/asia/india/karnataka/hampi). Although many people fly in on Goa these days, it can also be reached from the thriving metropolis [Mumbai](/asia/india/maharashtra/mumbai), the capital of Maharashtra. From Mumbai, the Daytrips is an obligatory stop. [Hyderabad](/asia/pakistan/hyderabad) in the Andra Pradesh is an impressive sight of Hindus and Muslims living together. And these are only a few of the options. 
-
-There is too much to see in India to speak of in this brief introduction. In order to make the information more easily accessible, we have divided India in regions according to the 25 states of India. Check out the different states for the most interesting places and set out on a trip that gives you a touch of everything for the time being and be willing to accept your defeat: you’ll have to come [Andhra Pradesh](/asia/india/andhrapradesh)
-[Arunachal Pradesh](/asia/india/arunachalpradesh)
-[Assam](/asia/india/assam)
-[Bihar](/asia/india/bihar)
-[Dadra and Nagar Haveli](/asia/india/dadraandnagarhaveli)
-[Delhi](/asia/india/delhi)
-[Goa](/asia/india/goa)
-[Gujarat](/asia/india/gujarat)
-[Haryana](/asia/india/haryana)
-
-[Himachal Pradesh](/asia/india/himachalpradesh)
-[Jammu and Kashmir](/asia/india/jammuandkashmir)
-[Karnataka](/asia/india/karnataka)
-[Kerala](/asia/india/kerala)
-[Lakshadweep](/asia/india/lakshadweep)
-[Madhya Pradesh](/asia/india/madhyapradesh)
-[Maharashtra](/asia/india/maharashtra)
-[Manipur](/asia/india/manipur)
-[Meghalaya](/asia/india/meghalaya)
-[Mizoram](/asia/india/mizoram)
-
-[Nagaland](/asia/india/nagaland)
-[Orissa](/asia/india/orissa)
-[Punjab](/asia/india/punjab)
-[Rajasthan](/asia/india/rajasthan)
-[Sikkim](/asia/india/sikkim)
-[Tamil Nadu](/asia/india/tamilnadu)
-[Tripura](/asia/india/tripura)
-[Uttar Pradesh](/asia/india/uttarpradesh)
-[West Bengal](/asia/india/westbengal)
+- [Delhi](/asia/india/delhi)

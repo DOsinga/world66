@@ -1,24 +1,32 @@
 ---
-title: "Bangladesh"
+done:
+  country_cleanup: 2026-03-31
+  location_cleanup: '2026-04-08'
+image: bangladesh.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Nahid.rajbd" class="mw-redirect"
+  title="User:Nahid.rajbd">Nahid.rajbd</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg
+latitude: 23.684994
+longitude: 90.356331
+title: Bangladesh
 type: location
-latitude: 24.476929
-longitude: 90.293441
 ---
 
-Travel Guide
+Bangladesh is one of the most densely populated countries on earth, a watery delta nation squeezed between India on three sides and Myanmar to the southeast, with the Bay of Bengal opening to the south. It is not an easy country to travel — the infrastructure is rough, traffic is chaotic, and the heat and humidity in summer are genuinely punishing — but travelers who come here find something they rarely expected: warmth, generosity, and landscapes of extraordinary beauty.
 
-We currently have no information about Bangladesh.
+The country is essentially a river delta. The Ganges, the Brahmaputra, and the Meghna all converge here, splitting into hundreds of channels before emptying into the Bay of Bengal. In monsoon season, vast stretches of the country flood completely. In the dry season, the same landscape turns startlingly green. The rivers are not just scenery — they are roads, markets, and livelihood for millions of people.
 
-If you do know any general information about Bangladesh, please [Edit this article].
+Most travelers pass through [Dhaka](/asia/bangladesh/dhaka), the chaotic and endlessly energetic capital. It is worth more than a transit stop. The old city, Puran Dhaka, is one of the most atmospheric historic neighborhoods in South Asia: narrow lanes, Mughal mosques, rickshaw traffic jams, and street food at every corner. From Dhaka, the rest of the country opens up.
 
-If you know any hotels in Bangladesh or restaurants in Bangladesh, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/bangladesh)
+To the south, [Cox's Bazar](/asia/bangladesh/coxsbazar) has one of the longest natural beaches in the world — 120 kilometers of sand with relatively few tourists by international standards. To the southeast, the Chittagong Hill Tracts — the forested hill country around [Bandarban](/asia/bangladesh/banderban_hill_tra), Rangamati, and Khagrachhari — are home to a dozen or more indigenous peoples with distinct languages, religions, and cultures. Permits are required to visit some areas. Further east, the Sundarbans, a vast mangrove forest shared with India, is home to the Royal Bengal Tiger and is a UNESCO World Heritage Site.
 
-Bangladesh is a very densly populated country in South Asia. It shares a very long border with neighbour [India](/asia/india) and if it wasn't for a short border of 25 kilomters with [Myanmar](/asia/myanmar), India would be the only neighbour.
+The northeast — [Sylhet](/asia/bangladesh/sylhet) and the surrounding tea country — is Bangladesh at its most lush. Rolling plantations, clear rivers descending from Meghalayan hills, and swamp forests full of birds draw travelers willing to make the journey.
 
-Bangladesh was the Eastern part of [Pakistan](/asia/pakistan) after the split between India and Pakistan in 1947. The Bengalis then had a second struggle for independance with the Pakistanis, but now they have their own country. Independence from Pakistan was achieved in 1971.
+## Destinations
 
-[Dhaka](/asia/bangladesh/dhaka) is the capital city of Bangladesh. It is the largest city and the fastest growing city as well. It is the best starting point for travels in the country. In the south, near the Myanmar border, [Chittagong](/asia/bangladesh/chittagong) is the second largest and fastest growing city. It is a pretty place with tombs and mosques to visit. Not to mention the natural sights just miles away from the city.
-
-Cox's Bazar is known to have the longest running shore-line in the world. This city has since been developed into an obvious touring spot. During the tourist season, reservations to hotels are done months in advance, otherwise the hotels closest to the shore have to get off the list.
-
-Minor corrections on 05 May 04
+- [Dhaka](/asia/bangladesh/dhaka) — the capital, old and new, overwhelming and compelling
+- [Chittagong](/asia/bangladesh/chittagong) — port city, gateway to the hill tracts and Cox's Bazar
+- [Cox's Bazar](/asia/bangladesh/coxsbazar) — the long beach on the Bay of Bengal
+- [Sylhet](/asia/bangladesh/sylhet) — tea country and river valleys in the northeast
+- [Rajshahi](/asia/bangladesh/rajshahi) — silk city on the Padma river, gateway to Paharpur ruins

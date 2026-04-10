@@ -1,30 +1,24 @@
 ---
-title: "Brunei"
+done:
+  country_cleanup: 2026-03-31
+  location_cleanup: '2026-04-08'
+image: brunei.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:KLOTZ" title="User:KLOTZ">JERRYE
+  AND ROY KLOTZ MD</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg
+latitude: 4.5353
+longitude: 114.7277
+title: Brunei
 type: location
-latitude: 4.413716
-longitude: 114.565391
 ---
 
-Travel Guide
+Brunei is a sultanate the size of a large county, tucked into the northwest coast of Borneo and surrounded on three sides by the Malaysian state of Sarawak. It is one of the smallest and wealthiest countries in Asia — its oil and gas revenues have made it one of the highest per-capita income nations in the world, and the benefits are visible everywhere: free healthcare, no income tax, heavily subsidized petrol, and roads that would not embarrass Germany.
 
-We currently have no information about Brunei.
+What makes Brunei unusual, beyond the money, is how it wears its wealth. There are no casinos, no nightclubs, and no alcohol sold anywhere in the country. The Sultan — one of the richest individuals on earth — lives in the Istana Nurul Iman, a palace with 1,788 rooms, and governs under a philosophy called Melayu Islam Beraja: Malay identity, Islamic values, and royal authority. This is not a country trying to become somewhere else.
 
-If you do know any general information about Brunei, please [Edit this article].
+For travelers willing to accept those terms, Brunei is a genuine surprise. The capital, [Bandar Seri Begawan](/asia/brunei/bandarseribegawan), is clean and quiet, with gold-domed mosques that rival anything in the Islamic world and a vast water village — Kampong Ayer — where some 30,000 people live above the Brunei River on stilts. Beyond the city, the Temburong district holds some of the most pristine rainforest left on Borneo, accessible by longboat and explored via a spectacular canopy walkway.
 
-If you know any hotels in Brunei or restaurants in Brunei, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/brunei)
+Brunei sits on Borneo, the world's third-largest island, and shares it with the Malaysian states of Sabah and Sarawak, and Indonesian Kalimantan. The country is actually split in two by a strip of Malaysian territory — the main part contains the capital and most of the population, while the smaller Temburong district to the east is connected by road through Malaysia or by speedboat up the river.
 
-A sparkling jewel on the island of Borneo, along the shores of the South China Sea, the land of Brunei Darussalam is an Islamic Sultanate blessed with a royal heritage of 600 years. The Sultanate of Brunei on the northwest corner of the island of Borneo is embraced and at one point even split in two by the Malaysian state of Sarawak. This tiny Islamic state is especially known for the legendary wealth of its Sultan, and for being one of the richest countries in Southeast Asia, with a very high standard of living. Education and healthcare are free; houses, cars, and even pilgrimages to Mecca are subsidized. There’s no tax on personal income and the average per capita income among the highest in the world. 
-
-In the sixteenth century Brunei was the seat of power to an empire that covered all of Borneo and even captured large parts of the Philippines and Manila for a brief period. Today the Sultanate of Brunei lost most of its territory but is nonetheless thriving on massive oil and gas reserves. 
-
-The capital, Bandar Seri Begawan, is an ostensive display of modern architecture, but the rest of the country has remained unchanged for centuries and is luckily quite unspoiled. Because of the oil, Brunei has never needed to exploit its forestry to any great degree, with the result that tropical forests still covers around seventy percent of the total land area. The coast caters for with sandy beaches and azure waters and mangrove swamps There are quaint villages amongst majestic monuments to be found, remnants of over 1200 years of an exotic and rich culture. 
-
-The Islamic ban on alcohol and the fact that nightlife is virtually non-existent make this country an Ideal destination for those that love rest and outdoor adventure. Brunei's has an equatorial climate with lots of rainfall and humidity at an average temperature of 28 degrees Celsius.
-
-## Destinations in Brunei
-
-[Bandar Seri Begawan](/asia/brunei/bandarseribegawan)
-[Seria](/asia/brunei/seria)
-[Bangar](/asia/brunei/bangar)
-[Kota batu](/asia/brunei/kotabatu)
-[Kuala Belait](/asia/brunei/kualabelait)
+Destinations within Brunei include the capital [Bandar Seri Begawan](/asia/brunei/bandarseribegawan), the oil town of [Seria](/asia/brunei/seria), the border town of [Kuala Belait](/asia/brunei/kualabelait), and the gateway to Temburong, [Bangar](/asia/brunei/bangar).

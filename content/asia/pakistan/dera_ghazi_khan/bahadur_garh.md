@@ -1,12 +1,12 @@
 ---
-title: "Bahadur garh"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 30.5563
+longitude: 70.6824
+title: Bahadur Garh
 type: location
-latitude: 31.565563
-longitude: 74.282394
 ---
 
-Travel Guide
+Bahadur Garh is a small historic settlement in the Dera Ghazi Khan district of Punjab, Pakistan. It is the ancestral home of the Khosa tribe leaders.
 
-BAHADUR GARH
-
-ITS THE HOME PLACE OF KHOSA TRIBE LEADERS. SARDAR BADUR KHAN KHOSA BUILD A MUD FORT THERE IN 1800BC. AND SARDAR GULAM HAIDER KHAN KHOSA TUMANDAR KHOSA TRIBE BUILT IT PROPERLY IN 1916. KNOW SARDAR MUHAMAD INAMULLAH KHAN KHOSA WITH HIS FAMILY,LIVE THERE.AND ALL OTHERE SARDARS ALSO LIVE THERE THAT IS A HISTORICAL PLACE
+The settlement's history centres on its fort. Sardar Bahadur Khan Khosa built a mud fort here around 1800, and it was later rebuilt properly in 1916 by Sardar Ghulam Haider Khan Khosa, the Tumandar (chief) of the Khosa tribe. The fort and surrounding lands remain the seat of the Khosa sardars.

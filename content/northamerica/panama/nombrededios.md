@@ -1,8 +1,12 @@
 ---
-title: "Nombre de Dios"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 9.5634
+longitude: -79.4693
+title: Nombre de Dios
 type: location
 ---
 
-Nombre de Dios is not very big, nor very exciting. It used to be the staring point of the "old Panama canal" which wasn't a canal but a route by small rivers and small paths to transport things from the Carribean to the Pacific. 
+Nombre de Dios is not big, nor particularly exciting — but it has history layered deep beneath its sleepy surface. This was one of the first Spanish settlements on the American mainland, founded in 1510, and for decades served as the Caribbean terminus of the Camino Real: not a canal, but a punishing overland route of rivers and jungle paths used to haul Peruvian gold and silver to waiting ships. The town was raided by Sir Francis Drake in 1572 and eventually abandoned in favour of [Portobelo](/northamerica/panama/portobelo) down the coast.
 
-Now it is a laid back place on the Carribean coast with a distinct Rasta atmosphere. After this it becomes hard to follow the road along the coast to go to [Portobelo](/northamerica/panama/portobelo) the last port of call before [Colombia](/southamerica/colombia).
+Today Nombre de Dios is a laid-back Afro-Caribbean village with a distinct reggae atmosphere, a scattering of basic shops, and not much reason to linger beyond the setting — green hills dropping to a turquoise coast. The road east along the shore towards Portobelo is rough and adventurous, the last stretch before reaching [Colombia](/southamerica/colombia) by sea.

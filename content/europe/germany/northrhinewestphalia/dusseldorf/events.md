@@ -1,8 +1,6 @@
 ---
 title: "Events"
-type: location
-latitude: 52.943759
-longitude: 12.785624
+type: section
 ---
 
-Düsseldorf is a modern city. And yet, it cherishes its century old traditions of which numerous festivities are an integral part. For as true Rhinelanders, the Düsseldorfers joyfully seize every opportunity for celebrating.
+Düsseldorf is a modern city that cherishes its centuries-old traditions. The Rhineland carnival season, culminating in Rosenmontag (Rose Monday), is the biggest event of the year — the city shuts down for a massive parade through the Altstadt. The Kirmes fun fair along the Rhine in July is one of the largest in Germany, and the Japan Day festival in spring reflects the city's large Japanese community.

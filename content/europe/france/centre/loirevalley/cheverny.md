@@ -1,18 +1,14 @@
 ---
-title: "Cheverny"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 47.4997
+longitude: 1.4611
+title: Cheverny
 type: location
-latitude: 47.499699
-longitude: 1.461106
 ---
 
-Situated in the Sologne, near the city of [Blois](/europe/france/centre/loirevalley/blois), Cheverny is one of the main chateaux of the Loire valley, the lands of which have been owned by the same family for nearly seven centuries. Of the original stronghold, a few traces remain in the present outbuildings.
+Cheverny is one of the most elegant chateaux in the Loire Valley, and unlike many of its neighbours, it is still lived in — the Hurault family and their descendants, the marquis de Vibraye, have owned the estate for nearly seven centuries. That continuity gives Cheverny a quality rare among the great Loire chateaux: it feels like a home rather than a monument.
 
+The present chateau was completed in 1634 by Henri Hurault, Count of Cheverny. Built from Bourré stone — a local limestone that grows whiter and harder with age — it has an almost dazzling whiteness in good light. The architect Boyer de Blois and the painter Jean Mosnier directed both the construction and the interior decoration, which remains largely intact and includes some remarkable 17th-century painted ceilings and tapestries.
 
- Cheverny is privately owned (and lived in by the descendants of the Hurault, marquis de Vibraye) and is also a famous center of venery proudly displaying its many hunting trophies. The present chateau, which was completed in 1634 by Henri Hurault, Count of Cheverny (son of Phillippe Hurault, Chancellor of Kings Henri III and Henri IV) was built in Bourre stone, a local stone which becomes whiter and harder with age. The architect Boyer de Blois and the painter, Jean Mosnier directed the building and the decoration, as they did for Blois and Chambord chateaux. 
- 
-
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
-
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+Cheverny is also famous as a centre of venery: the estate maintains a working hunt, and the kennels house over a hundred English foxhounds. The trophy room displays the antlers of more than 2,000 stags taken over the centuries, a slightly startling sight in the context of such refined surroundings. The chateau is a short drive from [Blois](/europe/france/centre/loirevalley/blois) and pairs well with a visit to [Chambord](/europe/france/centre/loirevalley/chambord).

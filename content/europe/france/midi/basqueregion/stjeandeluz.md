@@ -1,14 +1,16 @@
 ---
-title: "St.Jean de Luz"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.3872
+longitude: -1.6637
+title: Saint-Jean-de-Luz
 type: location
-latitude: 43.387219
-longitude: -1.663695
 ---
 
-A beautiful seaside resort and active fishing port not far from the Spanish border, Saint Jean de Luz is a lively and cosmopolitan town. The town center of St Jean de Luz has a medieval background, with a great deal of influence in the past from Spain and the Moors, and with this mixture of architecture, old World charm, old buildings, fishing port and narrow lanes, there is an atmosphere that's like no other place in France.
+Saint-Jean-de-Luz is the most Basque of the French Basque towns — a handsome fishing port and beach resort pressed between the Pyrenees and the Atlantic, just 15 kilometres north of the Spanish border. It feels genuinely different from the rest of France: the architecture is painted red and green, the pelota courts are busy, and the language you overhear on the street is as likely to be Basque as French.
 
+The town made history in 1660 when Louis XIV married the Spanish Infanta Marie-Thérèse here, ending two decades of war between France and Spain. The church where the ceremony took place, the Église Saint-Jean-Baptiste, is the finest example of Basque religious architecture in France — you can still see the door that was bricked up immediately after the royal couple walked through it, so no lesser soul could follow. The royal connection gave the town a gloss of grandeur, but it never lost its fishing-village character.
 
- Around the main square in the town center, you can find some of the best sea-food restaurants on the Cote Basque, as well as other bars and terraces from which to see and enjoy the regular musical events in the square - including a Basque Choir every Sunday morning (in the summer months). When you wander through the lanes looking at the shop windows, you will arrive at the more commercial end of town (still quite old, but certainly not medieval) where the Thermes and Casino are located and the chic shops are located.
+The main square, Place Louis XIV, is where Saint-Jean-de-Luz does its socialising. Terraces fill with people most of the year, and on summer Sunday mornings a Basque choir performs here. From the square, narrow streets lined with food shops and boutiques lead down to the working port, where the smell of salt and fish reminds you this is still a serious tuna fishing harbour. The beach — a broad arc of sheltered sand — is one of the finest on the Basque coast, protected from Atlantic swells by two stone jetties.
 
-
- The principle Architecture here is typically Basque, but with a blend of Moorish and Spanish Andelusian architecture, which creates a fine balance.
+The eating here is outstanding. The restaurants around the main square serve the freshest fish and seafood on the coast, alongside Basque staples like piperade, axoa, and gâteau Basque from the patisseries. This is a small town that repays a day or two — long enough to walk the port, visit the church, eat well, and understand why the Basques are so proud of their corner of the world.

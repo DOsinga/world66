@@ -1,46 +1,16 @@
 ---
-title: "Orel"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 52.9709
+longitude: 36.0642
+title: Orel
 type: location
-latitude: 52.970926
-longitude: 36.064213
 ---
 
-**Orel** is one of the oldest Russian cities located on the Oka River with a long and dramatic history. It was founded in 1564 by Ivan IV as a defense post against Mongol invasions. During World War II it was badly damaged.
+Oryol — written Orel in Russian — sits on the Oka River in western Russia, about 370 kilometres south of Moscow. Ivan the Terrible founded it in 1564 as a defensive fort against Tatar raids from the steppe, and the town grew steadily as the frontier moved south.
 
-Orel now is a capital center of the Orel oblast. It is known for hosting a famous Russian writer Ivan Turgenev, who spent his childhood there. The house that he lived in is now turned into museum.
+The city is inseparable from Ivan Turgenev, one of Russia's great 19th-century novelists. Turgenev grew up at Spasskoye-Lutovinovo, a country estate just outside Oryol, and the landscape of the surrounding forests and meadows shaped the prose of *Sketches from a Hunter's Album* and *Fathers and Sons*. The estate is open to visitors, and the Turgenev museum in the city centre fills in the biography. Two other major Russian writers — Nikolai Leskov and Leonid Andreyev — were also born here, giving Oryol an unusually dense literary pedigree for a provincial city.
 
-Orel is a center of agricultural trade. Manufactures include machinery, clothing, flour, and beer. 
- 
- 
- 
+During the Second World War the city was occupied by German forces from 1941 to 1943 and was badly damaged. Its liberation in August 1943 — the same week as Belgorod — was marked by the first Soviet artillery salute of the war, a signal honour that Muscovites heard from across the city. Much of what you see today was rebuilt in the Soviet era.
 
-**See also other Russian cities:**
-
-
- 
- 
- 
- 
- [Irkutsk](/europe/russia/irkutsk)
- [Kazan](/europe/russia/kazan)
- [Kizhi](/europe/russia/kizhi)
- 
- 
- [Moscow](/europe/russia/moscow)
- [Murmansk](/europe/russia/murmansk)
- [Novgorod](/europe/russia/novgorod)
- 
- 
- [Novosibirsk](/europe/russia/novosibirsk)
- [Pyatigorsk](/europe/russia/pyatigorsk)
- St_Petersburg
- 
- 
- [Suzdal](/europe/russia/suzdal)
- [Tula](/europe/russia/tula)
- [Ulyanovsk](/europe/russia/ulyanovsk)
- 
- 
- [Vladimir](/europe/russia/vladimir)
- [Vladivostok](/europe/russia/vladivostok)
- [Yakutsk](/europe/russia/yakutsk)
+Oryol is a working regional capital: agricultural trade, light industry, a university. It is not on the main tourist trail, but for visitors interested in Russian literature or in the contested landscape of the Eastern Front, it rewards a day or two.

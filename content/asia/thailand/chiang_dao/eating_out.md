@@ -3,12 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-The new **Mon and Kurt's Thai - German Restaurant **offers great food and a nice athmosphere with a beautiful view of Doi Chiang Dao. It is located on the Chiang Mai - Fang Highway, 2.5 km past the Chiang Dao 7-11 on the way to Fang, just after the Fang kilometer stone 79 on the right hand side of the old highway.
-
-Their menu includes over 150 food and drink items including Western, Thai and vegetarian dishes and also cocktails and fresh brewed cofee with free refills. Prices are set with the budget traveller in mind.
-
-The restaurant has become a popular meeting place for local Expats and a favorite stop for visa run travellers.
-
-There you can enjoy 60's and 70's style music and on occations listen to the owner play guitar.
-
-For more information on this and other attractions in Chiang Dao, you may also decide to visit http:www.chiangdao.org
+The food in Chiang Dao punches well above the town's size. Northern Thai cooking here is the real thing — khao soi, braised pork over rice, noodle soups with complex broths. Walk towards wherever you see locals eating. There are also a few good Western options for when you need a break, and the Chiang Dao Nest restaurant has earned a strong reputation for both Thai and international food.

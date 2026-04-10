@@ -1,14 +1,18 @@
 ---
-title: "Baltistan"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.5
+longitude: 75.6
+title: Baltistan
 type: location
-latitude: 35.999997
-longitude: 75.000002
 ---
 
-Travel Guide
+Baltistan sits in the far north of Pakistan, wedged between the Karakoram and Himalayan ranges in what is now Gilgit-Baltistan territory. This is one of the most dramatic mountain regions on earth. Four of the world's fourteen 8,000-metre peaks are here: K2 (8,611 m), the second highest mountain on earth, along with Broad Peak, Gasherbrum I (Hidden Peak), and Gasherbrum II. If you come to climb or trek seriously, this is the destination.
 
-Baltistan was known as “Little Tibet” in the medieval ages. This is because the majority of the inhabitants are of Tibetan origin, both racially and linguistically.
+The people of Baltistan are largely of Tibetan descent — the region was once known as "Little Tibet" — and the Balti language is related to archaic Tibetan. The culture is distinct from lowland Pakistan: the architecture, the food, the music, and the faces all carry that Central Asian flavour. Most people are Shia Muslim, unlike the Sunni majority elsewhere in Pakistan.
 
-If one travels Baltistan, one will discover a New World, where the beauty of nature is in full bloom. Welcome to Baltistan, where the valley presents a heavenly scene and which is the reason that this masterpiece of nature is dubbed as the country’s most scenic splendour and one of its best kept secrets.
+Skardu is the main town and your base for most expeditions into the high mountains. It has a small airport with connections to Islamabad, though flights are frequently cancelled due to weather — build slack into your schedule if you're catching an onward flight. The overland route via the Karakoram Highway is spectacular and reliable when open.
 
-Baltistan is considered to be a tourist’s heaven on earth. The beauty of the surrounding mountains is unparalleled. Four of the world’s 8,000 metre high peaks - K2 (8,611 m), the second highest peak in the world. Broad Peak (8060 m), Gasha Brum I or Hidden Peak (8,068 m) and Gasha Brum II (8,036 m) – are situated in Baltistan. Besides, hundreds of other Peaks including Masha Brum, Laila, Trango Tower and K7 Peak are here inviting the adventure seekers for a mountain expedition.
+Getting around takes time and effort. Roads are rough, distances are deceptive in the mountains, and many trekking routes require porters, permits, and serious preparation. The rewards are proportionate: the Baltoro Glacier, the Concordia amphitheatre of peaks, the villages along the Shyok and Indus rivers — all genuinely extraordinary.
+
+The season runs roughly June to September. Outside of that window, high passes close and conditions at altitude become extreme.

@@ -1,8 +1,10 @@
 ---
-title: "Keren"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 15.7805
 longitude: 38.4536
+title: Keren
+type: location
 ---
 
 Keren is Eritrea's second city, sitting in a bowl of rocky hills about 90 km northwest of [Asmara](/africa/eritrea/asmara) at an elevation of 1,390 metres. It is quieter and less visited than the capital, but many travelers who make the trip find it more immediately likeable — a market town that feels genuinely lived in.

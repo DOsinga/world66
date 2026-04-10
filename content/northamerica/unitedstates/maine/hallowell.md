@@ -1,8 +1,10 @@
 ---
-title: "Hallowell"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.2856
 longitude: -69.7903
+title: Hallowell
+type: location
 ---
 
 Hallowell is a small town adjacent to [Augusta](/northamerica/unitedstates/maine/augusta) along the Kennebec River, built along a steep hillside. The main street is lined with antique shops, bookstores, coffee shops, and restaurants -- it has more character per block than most towns ten times its size.

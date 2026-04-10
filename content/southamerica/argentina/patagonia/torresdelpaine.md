@@ -1,8 +1,10 @@
 ---
-title: "Torres del Paine"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -50.9423
 longitude: -73.4068
+title: Torres del Paine
+type: location
 ---
 
 Torres del Paine National Park, across the border in Chile, is one of the most spectacular wilderness areas in South America. The park covers 935 square miles of staggering variety: wind-bent grasslands give way to turquoise lakes, ancient forests, and the sheer granite towers that give the park its name. The three Torres -- soaring rock pillars that glow pink at dawn -- are the iconic image of Patagonia.

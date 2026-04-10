@@ -1,12 +1,11 @@
 ---
 title: "Pescara"
 type: location
-latitude: 42.310262
-longitude: 13.95759
+latitude: 42.4610
+longitude: 14.2158
+todo_location_cleanup: done
 ---
 
-Pescara is a very non stop party beach city, with over 20 km of Beautiful Beach and lots of fun.
+Pescara is Abruzzo's largest city and its main beach resort, stretched along more than 20 km of sandy Adriatic coast. It is a modern city — largely rebuilt after heavy bombing in World War II — with little of the medieval character found in nearby towns like [Chieti](/europe/italy/abruzzo/chieti) or [Lanciano](/europe/italy/abruzzo/lanciano). What it offers instead is a lively seafront, warm summer nights, and a beach and nightlife scene that draws Italians from across the region.
 
-However there is nothing historical because it is a fairly recent
-city, so If you are not looking to go to the beach and clubbin' at
-night this is not the place to be.
+The city is the birthplace of the poet Gabriele d'Annunzio; his childhood home is now a museum. Beyond that, Pescara is primarily a departure point: the airport connects to Rome and other Italian cities, and the mountains of the [Gran Sasso](/europe/italy/abruzzo/gransasso) and [Majella](/europe/italy/abruzzo/majella) are an hour's drive inland.

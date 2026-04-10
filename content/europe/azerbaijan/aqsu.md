@@ -1,6 +1,11 @@
 ---
 title: "Aqsu"
 type: location
+latitude: 40.5700
+longitude: 48.4200
+todo_location_cleanup: done
 ---
 
-On the road leading north-east from Kurdamir to the Shemakha road lies the quiet provincial town of Aqsu. Among the main sights, there is the usual History Museum, a recently built Mosque, a memorial to the 20th January massacre and unusually a nice tax office building!   The bus station is on the southern end of the town, not far from the mosque. In the centre you'll find Aqsu Hotel, whith basic but clean facilities. Aqsu is an agricultural area, with a preserves factory, a grapes' processing plant and a cocoon drying plant.   North of the town you should enjoy the magnificent views of the Aqsu pass. To the east you'll find the ruins of the 18th century 'new-Shemakha' (near the village of Bazavand). South-west of Aqsu is Qaraqoyonlu where you can see the 19th century Ag Gumbaz tomb.   (150 km west of Baku)
+Aqsu is a quiet provincial town in eastern Azerbaijan, on the road north-east from Kurdamir toward the Shemakha highway. It sits in an agricultural area known for grape processing, preserves, and cocoon drying — a glimpse of the rural economy that underpins this part of the country.
+
+The town's main sights include a History Museum, a recently built mosque, and a memorial to the 20th January massacre. North of town, the Aqsu pass offers magnificent views over the surrounding hills. To the east, near the village of Bazavand, lie the ruins of 18th-century New-Shemakha. South-west is Qaraqoyonlu, where the 19th-century Ag Gumbaz tomb can be seen. Aqsu is about 150 km west of Baku.

@@ -1,10 +1,10 @@
 ---
-title: "Chersones"
+title: "Chersonesus"
 type: location
-latitude: 44.583323
-longitude: 33.378866
+latitude: 44.6103
+longitude: 33.4942
 ---
 
-Chersones is ancient Greek city located inside modern Sevastopol. It was founded more than 2000 years ago and was bigest and richest city in Crimea during almost 1000 years. It is National park and museum now. There is nice site with more photos of Chersones so I will no write about it by myself but give you advice to visit the site. And, of course, Chersones is a place you MUST to see if you will visit Crimea.
+Chersonesus (Chersones) is an ancient Greek colony founded around 422 BC on a headland inside modern Sevastopol. For nearly a thousand years it was the largest and richest city in Crimea — a thriving Hellenic trading post that outlasted the fall of Rome and survived into the Byzantine period. The site is now a national archaeological reserve and museum.
 
-......
+The ruins are extensive: theatre, temples, a basilica, mosaic floors, and the remains of the street grid are all visible. The museum holds a fine collection of artefacts found on site. It is genuinely one of the most impressive classical sites in the former Soviet Union and a place worth taking time over.

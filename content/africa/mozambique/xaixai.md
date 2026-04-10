@@ -1,8 +1,10 @@
 ---
-title: "Xai-Xai"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -25.044479
 longitude: 33.64073
+title: Xai-Xai
+type: location
 ---
 
 Xai-Xai is the capital of Gaza province, situated on the Limpopo River about 220 km north of Maputo. The town itself is a sprawling settlement of markets, shops, and fuel stations — useful for a stop but not a destination in itself.

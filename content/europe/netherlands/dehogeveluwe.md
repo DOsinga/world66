@@ -1,8 +1,13 @@
 ---
-title: "De hoge veluwe"
+title: "De Hoge Veluwe"
 type: location
-latitude: 52.079706
-longitude: 5.831077
+latitude: 52.0797
+longitude: 5.8311
+todo_location_cleanup: done
 ---
 
-This 130 000-acre/53 000-hectare nature reserve has lakes, heather deer, wild pigs etc. It's perfect for some walking-tours. The Kroller-Muller Museum (located inside the park) has a fine collection including works by van Gogh and Rodin and is a real must-see in the Netherlands. You can reach the park easily by bus from Apeldoorn or Arnhem.*40 mi/65 km east of Amsterdam. *
+De Hoge Veluwe is one of the Netherlands' largest and finest national parks, covering around 5,400 hectares of heathland, sand drifts, woodland, and lakes about 65 km east of Amsterdam. Red deer, wild boar, foxes, and mouflon roam freely through the park — you are more or less guaranteed to see deer if you spend a few hours walking the trails.
+
+The park is also home to the outstanding **Kröller-Müller Museum**, which holds one of the world's largest collections of Van Gogh paintings alongside works by Mondrian, Picasso, and Rodin. The sculpture garden outside is one of the best in Europe. White bicycles are available free of charge at park entrances and scattered throughout the grounds — the classic way to explore.
+
+The park is easily reached by bus from both Apeldoorn and Arnhem.

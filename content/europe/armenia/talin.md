@@ -1,11 +1,11 @@
 ---
 title: "Talin"
 type: location
-latitude: 40.383707
-longitude: 43.873599
+latitude: 40.3837
+longitude: 43.8736
+todo_location_cleanup: done
 ---
 
-Turning from the main road toward **Talin** (4981 p), the right turn just before the fountains in the town square leads to a large cemetery in which are the impressive remains of an important cathedral church very similar to the 7th c. church at Aruch. Nearby is a smaller S. Astvatsatsin church, built in the 7th c. According to the inscription, "I Nerseh the patrician proconsul, lord of Shirak and Asharunik, built this church in the name of the Holy Mother of God for her intercession for me and my wife Shushan and Hrapat my son." Two Nersehs are attested as Byzantine governor, one from the reign of the Emperor Heraclius in 639, the other from the reign of Justinian II in 689. Somewhere in the vicinity are remnants of a medieval castle.
+Talin is a small provincial town in the Aragatsotn region of Armenia, west of Yerevan. The main reason to stop is the remarkable **Talin Cathedral**, whose impressive ruins stand just off the road in a large cemetery. The partially standing walls of this 7th-century church are closely comparable to the church at Aruch, built under the same dynasty of Armenian nobles. An inscription names the patron as Nerseh, a Byzantine governor and lord of Shirak and Asharunik, who built it for the Holy Mother of God.
 
-**Contributors**
-January 18, 2006
+Nearby is the smaller church of St Astvatsatsin, also from the 7th century. Somewhere in the vicinity are remnants of a medieval castle. The right turn for the churches is just before the fountains in the town square.

@@ -1,24 +1,11 @@
 ---
 title: "Plodio"
 type: location
-latitude: 44.351194
-longitude: 8.256452
+latitude: 44.3512
+longitude: 8.2565
+todo_location_cleanup: done
 ---
 
-An agricultural center close to the Colle di
- Cadibona, located in the Ligurian Alps on the
- ridge that separates the upper valleys of the two
- Bormidas. Groups of rock carvings on the
- surrounding hills attest to the inhabitation of the
- territory in ancient times. In the twelfth-thirteenth
- century it belonged to the marchesi
- Del Carretto of Millesimo. Briefly occupied by
- the Savoy in 1639, it became a free commune
- toward the end of the seventeenth century. It
- was annexed to the kingdom of Sardinia in
- 1735. The parish church of Sant'Andrea is an
- eighteenth-century construction with the central
- baroque block of a sixteenth-century building
- inserted in the façade. The Siezi spring in the
- environs is famous for the curative properties of
- its water.
+Plodio is a small agricultural commune in the Ligurian Alps near the Colle di Cadibona, on the ridge separating the upper valleys of the two Bormida rivers. Rock carvings on the surrounding hills attest to ancient human habitation. The village had a complex feudal history: it belonged to the Del Carretto marchesi of Millesimo in the 12th and 13th centuries, was briefly occupied by Savoy in 1639, became a free commune toward the end of the 17th century, and was finally annexed to the Kingdom of Sardinia in 1735.
+
+The parish church of Sant'Andrea is an 18th-century construction, incorporating the central baroque block of an earlier 16th-century building into the façade. The **Siezi spring** in the surrounding countryside is locally known for the reputed curative properties of its water.

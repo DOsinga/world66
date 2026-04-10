@@ -1,20 +1,11 @@
 ---
 title: "Great North Woods"
 type: location
-latitude: 36.844282
-longitude: -76.047828
+latitude: 44.8500
+longitude: -71.3000
+todo_location_cleanup: done
 ---
 
-A century ago, only 50% of New Hampshire was forested, today 84% of it is. Nowhere do New Hampshire’s forests dominate the landscape as they do in the Great North Woods.
+The Great North Woods is the name given to the northernmost region of New Hampshire, stretching up to the Canadian border and the borders with Vermont and Maine. About 84% of the state is forested today, and nowhere does the forest dominate the landscape more completely than here.
 
-
- 
- The region is unique in other ways, too. Close proximity to Canada’s Province of Quebec, as well as the Maine and Vermont borders, has resulted in a mix of cultures and outlooks.
-
-
- 
- Great North Woods is generally the first place in the state to receive the winter’s snows and the last place to greet summer.
-
-
- 
- Though, it is the natural attractions that make the region what it is. Colebrook and Lancaster are centers for shopping. Colebrook, like Pittsburg, is a center for sporting adventures, from fishing and hunting, to camping, boating, wildlife watching and snowmobiling.
+The region has a character shaped by its proximity to Quebec — French-Canadian cultural influences are visible in the architecture and in some family names — and by its position as the first part of New Hampshire to get snow and the last to lose it. The towns of Colebrook, Pittsburg, and Lancaster are the main centres. Colebrook and Pittsburg are bases for fishing, hunting, camping, boating, and snowmobiling, while Lancaster serves as a shopping hub. The Connecticut Lakes, near Pittsburg, are a draw for anglers.

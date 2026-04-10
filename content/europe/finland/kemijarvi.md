@@ -1,14 +1,14 @@
 ---
-title: "Kemijarvi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 66.716118
 longitude: 27.433353
+title: Kemijärvi
+type: location
 ---
 
-Kemijarvi is a small town in the North of Finland located on a beautifully typical Finnish lake. The town centre itself is quite small, offering amongst other things, a scattering of restaurants and pubs, a good selection of supermarkets and one excellent hat shop!!
+Kemijärvi is a small town in Finnish Lapland, set on the shores of a beautifully typical Finnish lake. The town centre is compact — a scattering of restaurants and pubs, a good selection of supermarkets, and not much else. That is the point: you come here for the lake, the forest, and the silence.
 
-The surrounding area is dotted with Finns' summer cottages, many of which lie on the shores of the large lake Kemi.
+The surrounding area is dotted with summer cottages, many on the shores of Lake Kemijärvi. In winter the landscape transforms into a snow-covered wilderness, and this is reindeer country — hundreds of them roam freely, so watch out on the roads.
 
-Like most of this area of Lapland, Kemijarvi is home to hundreds of roaming reindeer... Watch out on the roads!
-
-Kemijarvi is on the major train route from Helsinki via Rovaniemi.
+Kemijärvi is on the major train route from Helsinki via Rovaniemi, making it one of the more accessible gateways to Lapland.

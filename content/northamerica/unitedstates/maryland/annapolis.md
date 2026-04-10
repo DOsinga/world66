@@ -1,8 +1,10 @@
 ---
-title: "Annapolis"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 38.97864
 longitude: -76.492786
+title: Annapolis
+type: location
 ---
 
 We currently have no information about Annapolis.

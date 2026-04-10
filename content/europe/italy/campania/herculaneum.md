@@ -1,8 +1,10 @@
 ---
-title: "Herculaneum"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.805361
 longitude: 14.347104
+title: Herculaneum
+type: location
 ---
 
 *Europe > Italy > Campania > Herculaneum*

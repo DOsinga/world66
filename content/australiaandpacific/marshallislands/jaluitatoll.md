@@ -1,8 +1,10 @@
 ---
-title: "Jaluit Atoll"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 6.0
 longitude: 169.583333
+title: Jaluit Atoll
+type: location
 ---
 
 Jaluit was the administrative capital of the Marshall Islands under both German and Japanese colonial rule, and the remnants of that history are scattered across the atoll. Japanese fortifications, a seaplane base, and the ruins of the colonial administration are still visible. During World War II, Jaluit was a major Japanese naval base and was heavily bombed by US forces; the lagoon holds a number of wrecks.

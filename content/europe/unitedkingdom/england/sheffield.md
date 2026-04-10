@@ -1,13 +1,14 @@
 ---
-title: "Sheffield"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 53.3807
+longitude: -1.4702
+title: Sheffield
 type: location
-latitude: 53.380663
-longitude: -1.470228
 ---
 
-Sheffield is one of those industrial cities of England where one can still see the impact of the steel making industry that made Sheffield into what it is these days. Although some people consider it an uncharming and depressing city, others love this city at the heart of Britain because of the combination of a thriving steel making industry with a modern pulse, set in hilly surroundings with the moors and the famous Peak district only a few miles away.
+Sheffield is a city built on steel — and on hills. England's fourth-largest city sits where the River Don meets the Sheaf, at the edge of the Peak District, and the combination of industrial grit and wild moorland is part of what makes it distinctive. The steelworks that once filled the Don Valley are mostly gone, but their legacy runs through the city's museums, its architecture, and its character.
 
+The city centre has been substantially rebuilt since the 1990s, with the Winter Garden, the Millennium Gallery, and the redeveloped Sheaf Square around the station. Kelham Island, a former industrial quarter along the Don, has become one of the most interesting neighbourhoods — old workshops turned into craft breweries, independent restaurants, and the excellent Kelham Island Museum, where a massive River Don Engine still runs on demonstration days.
 
- 
- These days, Sheffield has about half of a million inhabitants and attracts visitors from all over the world, not in the least because of its rapid and fairly short (approximately 2,5 hours) connection with London. There are several good museums, most of them dedicated to the city’s industrial past, subsequent growth and prosperity, and the present. 
- Besides that, Sheffield has two universities and offers excellent sport facilities and an active nightlife scene. The Yorkshire countryside lends itself perfectly for a walking trip.
+Sheffield has two universities and a large student population, which keeps the nightlife lively and the food scene diverse. The real bonus, though, is the location: the Peak District National Park begins at the city's western edge, and you can walk from the suburbs onto open moorland in under an hour. Stanage Edge, one of the finest gritstone edges in England, is a short drive away.

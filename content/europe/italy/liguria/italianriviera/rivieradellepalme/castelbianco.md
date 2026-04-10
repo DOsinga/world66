@@ -1,29 +1,14 @@
 ---
-title: "Castelbianco"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.1118
+longitude: 8.0709
+title: Castelbianco
 type: location
-latitude: 44.111817
-longitude: 8.070908
 ---
 
-A commune in the lower Pennavaire valley, it
- is made up of the villages of Colletta, Oresine,
- Veravo (seat of the municipality) and Vesallo,
- the latter abandoned after its destruction by an
- earthquake in 1887. Formerly a possession of
- the Cepolla of Albenga, it became part of the
- marquisate of Zuccarello in 1383. In 1623 the
- Del Carretto sold it to the Savoy, but only a
- short time afterward it was acquired by the
- republic of Genoa. The parish church of the
- Assunta at Veravo and the church of the
- Annunziata at Vesallo date from the baroque
- era: the latter has two campaniles, a tall one
- with an onion-shaped spire and another of
- smaller size, also baroque. The ruins of the
- castle include substantial sections of the walls.
- The village houses have a characteristically
- Ligurian appearance, with windows surrounded
- by white borders. The commune shares the
- agricultural vocation of the nearby plain of
- Albenga, producing chiefly fruit (cherries),
- vegetables and olives.
+Castelbianco is a tiny commune in the lower Pennavaire valley, made up of the hamlets of Colletta, Oresine, Veravo (the municipal seat), and the ruins of Vesallo, which was destroyed by an earthquake in 1887 and never rebuilt. The area was once a possession of the Cepolla family of Albenga before passing to the marquisate of Zuccarello in 1383, then to the Savoy, and finally to the Republic of Genoa.
+
+The village houses have a characteristically Ligurian appearance — stone walls with windows framed by white borders. Colletta di Castelbianco, perched on a hilltop, has been carefully restored as a "tele-village" with satellite internet in every house, attracting remote workers and artists to what was once an abandoned medieval hamlet.
+
+The baroque parish church of the Assunta at Veravo and the church of the Annunziata at Vesallo (the latter with two campaniles, one tall with an onion-shaped spire) are worth a look if you pass through. Ruins of the medieval castle include substantial sections of wall. The commune shares the agricultural character of the nearby Albenga plain, producing cherries, vegetables, and olives.

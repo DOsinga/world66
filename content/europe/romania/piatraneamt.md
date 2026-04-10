@@ -1,16 +1,14 @@
 ---
-title: "Piatra neamt"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 46.932
+longitude: 26.3695
+title: Piatra Neamț
 type: location
-latitude: 46.931989
-longitude: 26.369505
 ---
 
-**Piatra Neamt** is the capital of the Neamt region in northeast Romania south of Bukovina. The Neamt county is known as the region with most monasteries per square kilometer in the world. It boasts a rich and varied landscape, with elements of great beauty, and lots of cultural and historical vestiges. The local people are renowned for their hospitality. 
+Piatra Neamț is the capital of Neamț County in northeast Romania, south of Bukovina. The town sits in a natural amphitheatre of forested mountains along the Bistrița River, and the setting alone makes it worth a stop. Neamț County claims the highest concentration of monasteries per square kilometre in the world, and the painted monasteries of southern Bukovina — though technically in neighbouring Suceava County — are within day-trip distance.
 
+The town centre is compact and pleasant, with a mix of medieval and communist-era architecture. The Princely Court (Curtea Domnească) dates from the 15th century, and Ștefan cel Mare's Church nearby is one of the finest examples of Moldavian ecclesiastical architecture. The Clock Tower, the Art Museum, and the Ethnography Museum are all worth a look. The Neamț Monastery, about 10 km west of town, served as a model for Moldavian churches for over a century — its monumental church blends Gothic elements with Byzantine structure in a style unique to this region.
 
-
-
-
-The Moldavian art style, of great originality and stylistic unity, was developed by blending Gothic elements with the Byzantine structure specific to the churches. Among such constructions, the monumental church of the Neamt Monastery served, for more than a century, as a model for Moldavian churches and monasteries. 
-
-In town the main attractions are the Princely Court, Stefan cel Mare's Church, the Clock Tower, Museum of Art, Museum of Ethnography, Museum of Natural Sciences, "Calistrat Hogas" Memorial Museum, the "Schimbarea la Fata" Wooden Church in Valeni, Cozla Hermitage, the Wooden Synagogue, and the Elena Cuza House.
+The surrounding mountains offer good hiking in summer and skiing in winter at the small resort of Durău. Piatra Neamț is a good base for exploring this part of Romania, quieter and more authentic than the more touristed towns further north.

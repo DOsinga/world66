@@ -1,10 +1,14 @@
 ---
-title: "Lake Garda"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 45.6624
+longitude: 10.6862
+title: Lake Garda
 type: location
-latitude: 45.662431
-longitude: 10.686157
 ---
 
-Travel Guide
+Lake Garda is the largest lake in Italy and one of the most beautiful in Europe. Straddling three regions — Lombardy, Veneto, and Trentino — it offers something for almost every taste: medieval castles, Roman ruins, lemon groves, windsurfing beaches, and elegant Belle Époque resort towns.
 
-Beautiful Lake in northern Italy. Numerous lovely towns surrounding the lake from peaceful Sirmione in the south, Garda and Bardolino on the eastern coast to windy Malcesine and Riva in the north. Something for everyone. Close enough for a trip to Verona or Venice. A trip to the Verona opera is not to be missed.
+The southern end around Sirmione is the gentlest and most visited, with the dramatic Scaligero Castle jutting into the water and the ruins of a Roman villa at the tip of the peninsula. The eastern shore passes through Garda and Bardolino — both good for wine — while the western Brescia shore has the most dramatic scenery, with cliffs dropping to the water. At the northern end, Riva del Garda and Malcesine see strong winds that make them a European centre for windsurfing and kitesurfing.
+
+Verona is only 30 km from the southern shore and makes an easy day trip, especially if you're timing a visit around the opera season in the Roman amphitheatre.

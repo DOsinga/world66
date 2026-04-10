@@ -1,6 +1,7 @@
 ---
 title: "Hooiberg"
-type: location
+type: poi
+category: "Sight"
 latitude: 12.4972
 longitude: -69.9810
 ---

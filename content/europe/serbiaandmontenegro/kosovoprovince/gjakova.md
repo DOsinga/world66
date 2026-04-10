@@ -1,8 +1,10 @@
 ---
-title: "Gjakova"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 42.3803
+longitude: 20.4289
+title: Gjakova
 type: location
-lat: 42.3803
-long: 20.4289
 ---
 
 Gjakova (Serbian: Đakovica) is a city in southwest Kosovo, known for one of the best-preserved Ottoman bazaars in the Balkans. The Çarshia e Gjatë — the Long Bazaar — stretches for nearly a kilometre and was largely rebuilt after the 1998–99 war, in which much of the old town was destroyed. The reconstruction was careful and the bazaar today is an active market with craftsmen's shops, mosques, and cafés.

@@ -64,7 +64,6 @@ For each section subdirectory (`things_to_do/`, `eating_out/`, `bars_and_cafes/`
 
 **Do not flatten:**
 - Section files (`things_to_do.md`, `eating_out.md`, etc.)
-- Child location directories (e.g. `districts/shoreditch.md`) — handle those under "Cities with sub-locations"
 - Files already at city root
 
 After this step the city root will contain many more files. That is correct — all POIs are now peers of the section files, discoverable by tag.

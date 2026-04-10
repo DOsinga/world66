@@ -71,6 +71,8 @@ class Page:
     page_type: str = "location"
     body: str = ""
     meta: dict = field(default_factory=dict)
+    nav_children: list = field(default_factory=list)
+    """Child nav pages grouped under this page (used by section_group)."""
 
     def get_absolute_url(self):
         return f"/{self.path}"
@@ -151,6 +153,27 @@ class Page:
                         locations.append(child)
                     elif child.page_type in NAV_TYPES:
                         nav_pages.append(child)
+
+        # Group neighbourhood/theme pages under their section_group so they
+        # don't appear as top-level items in the city sidebar.
+        section_groups = [p for p in nav_pages if p.page_type == "section_group"]
+        if section_groups:
+            # Build a lookup: section_group slug → page object
+            sg_by_slug = {sg.slug: sg for sg in section_groups}
+            # Convention: 'neighbourhood' pages → 'neighbourhoods' section_group
+            #             'theme' pages         → 'themes' section_group
+            # Fallback: first section_group in the list.
+            _type_defaults = {
+                "neighbourhood": sg_by_slug.get("neighbourhoods") or section_groups[0],
+                "theme": sg_by_slug.get("themes") or section_groups[0],
+            }
+            grouped_paths = set()
+            for nav in nav_pages:
+                if nav.page_type in _type_defaults:
+                    sg = _type_defaults[nav.page_type]
+                    sg.nav_children.append(nav)
+                    grouped_paths.add(nav.path)
+            nav_pages = [p for p in nav_pages if p.path not in grouped_paths]
 
         return nav_pages, locations, pois
 

@@ -67,6 +67,14 @@ def location_or_section(request, path):
                 parent_nav, parent_locations, _ = grandparent.children()
                 active_nav = parent   # mark the section as active in the sidebar
 
+    # When viewing a neighbourhood/theme, mark its section_group as active in the sidebar
+    if page.page_type in ("neighbourhood", "theme") and active_nav is None:
+        for nav in parent_nav:
+            if nav.page_type == "section_group":
+                if any(child.slug == page.slug for child in nav.nav_children):
+                    active_nav = nav
+                    break
+
     # For a POI reached via a context nav page, build sidebar from that nav page
     nav_siblings = []
     if context_nav:

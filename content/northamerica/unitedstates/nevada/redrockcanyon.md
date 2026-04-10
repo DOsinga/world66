@@ -1,8 +1,12 @@
 ---
-title: "Red Rock Canyon"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 36.1355
+longitude: -115.4294
+title: Red Rock Canyon
 type: location
-latitude: 38.853611
-longitude: -104.873859
 ---
 
-Red Rock Canyon National Conservation area is located 17 miles West of the strip on Charleston Boulevard. It is one of THE destinations for rock climbers in the world. This is obvious if you ever go to the Red Rock Canyon camp grounds. You'll find guests there from all over the world, year round in the blazing heat and freezing cold just to climb at Red Rock.
+Red Rock Canyon National Conservation Area lies just 17 miles west of the Las Vegas Strip, a striking landscape of red and cream sandstone formations rising from the Mojave Desert. The 13-mile scenic loop drive is the easiest way to take it in, with pull-offs at viewpoints and trailheads along the way.
+
+For rock climbers, Red Rock is one of the premier destinations in the world — the sandstone walls draw climbers from every continent, year-round. Hikers have plenty of options too, from short walks to Calico Tanks (with views back to the Strip) to longer routes into the canyons. The contrast between the neon excess of Las Vegas and this raw desert landscape just minutes away is part of what makes it memorable.

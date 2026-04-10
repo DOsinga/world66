@@ -1,11 +1,14 @@
 ---
-title: "Saumur"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 47.2596
+longitude: -0.0785
+title: Saumur
 type: location
-latitude: 47.259622
-longitude: -0.078518
 ---
 
-Saumur is one of the bigger cities in the Loire Vlley. It is located between [Tours](/europe/france/centre/loirevalley/tours) and [Angers](/europe/france/centre/loirevalley/angers). The inner city contains many stately mansions in a very green environment. The most impressive sight of the town is -as always- the chateua which dominates the city. Climb the stairs and you get a lovekly view over the valley. The museum in the castle focuses mostly on equestrian sports. In july Saumur is also the location of a famous horse parade.
+Saumur sits halfway between [Tours](/europe/france/centre/loirevalley/tours) and [Angers](/europe/france/centre/loirevalley/angers) on the Loire, its château rising dramatically above a town of white tuffeau stone mansions and tree-lined streets. It is one of the more handsome cities in the valley — unhurried, compact enough to walk, and serious about its two great pleasures: wine and horses.
 
+The château is the obvious starting point. Climb up through the old town and you are rewarded with a wide view over the Loire and the confluence of the Thouet. Inside, the Musée des Arts Décoratifs holds a good collection of medieval tapestries and faïence. July brings the Carrousel de Saumur, a spectacular equestrian parade staged by the Cadre Noir — the French national riding academy that has been based here since 1814 and remains one of the finest in the world.
 
- The region around Saumur is famous for the production of excellent white wines and mushrooms.
+The surrounding countryside produces some of the Loire Valley's best sparkling whites, made in the same méthode traditionnelle as Champagne from Chenin Blanc grapes. The tuffeau hillsides are riddled with cave cellars, many open for visits, and the same caves shelter the mushroom farms that supply much of France. A short drive west takes you into the Saumurois vineyards; a short drive north reaches the troglodyte village of Troo.

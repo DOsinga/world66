@@ -1,8 +1,10 @@
 ---
-title: "Aregua"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -25.31293
 longitude: -57.384658
+title: Aregua
+type: location
 ---
 
 Areguá is a small lakeside town on the shore of Lake Ypacaraí, 30km east of Asunción and a popular weekend destination for the capital's residents. It's known for its strawberry cultivation — you'll see roadside stalls selling fruit and jam from July to November — and for a growing community of ceramic artists whose workshops line the hillside streets.

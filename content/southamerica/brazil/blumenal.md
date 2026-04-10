@@ -1,8 +1,16 @@
 ---
-title: "Blumenal"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -26.9194
+longitude: -49.0661
+title: Blumenau
 type: location
-latitude: -24.41873
-longitude: -53.88156
 ---
 
-Characteristics With superior standard of living to the Brazilian average, Blumenau possesss the dynamism of a modern center, high per capita income and baixíssimos indices of illiteracy and violence. It is a modern city, that offers good tourist infrastructure with tempers it of the German traditions. Date of foundation - 02 of September of 1850. Festive date - October (Oktoberfest). Main economic activities - Tourism, commerce and industry, with prominence for the textile production and of crystals, being also known for the production of ceramics, porcelains, chocolates caretakers and musical instruments. Population - 250,000 inhabitants. Settling - German. Main etnias - German and Italian. Localization - Average valley of the Itajaí-Açu, the 50 km of the coast. Area - the city had, initially, more than 10 a thousand Km2. Today the area of Blumenau is reduced little more than the 510 Km2, due to emancipation of more than 40 on cities to the old colony. Climate - Tempered hot, with average temperature between 16ºC and 27ºC. Altitude - 21m above of the level of the sea. Next Cities - Brusque, Indaial, Pomerode, Islet, Caspar, Apiúna, Timbó.
+Blumenau is one of Brazil's most distinctive cities — a place where German heritage runs so deep that the streets, the architecture, and the beer halls could almost convince you that you had somehow landed in Bavaria. Founded in 1850 by German pharmacist Hermann Bruno Otto Blumenau, who led a group of settlers into the Itajaí Valley in what is now Santa Catarina state, the city grew into a thriving industrial and cultural hub that never forgot where it came from.
+
+The city sits in the lush Itajaí-Açu River valley, about 140 km north of Florianópolis and 50 km inland from the Atlantic coast. The surrounding hills are green year-round, and the river defines both the geography and, in flood years, the drama of city life — Blumenau has suffered major floods throughout its history, including a devastating one in 2008.
+
+What most visitors come for is the atmosphere and the beer. Blumenau hosts one of the world's largest Oktoberfest celebrations each October, second only to Munich's original. The festival draws well over a million visitors to the city's Vila Germânica park for two weeks of live music, traditional costumes, and enormous quantities of draft beer. Outside of Oktoberfest, the city's Germanic character is visible in the half-timbered architecture of the historic center, the craft breweries, and the chocolatiers and crystal workshops scattered through town.
+
+With a population of around 350,000 and a standard of living well above the Brazilian average, Blumenau is a prosperous, tidy, and safe city by any measure. It is also a base for exploring some interesting destinations in the surrounding Santa Catarina highlands, including the almost entirely German-speaking town of [Pomerode](/southamerica/brazil/pomerode).

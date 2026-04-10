@@ -1,8 +1,10 @@
 ---
-title: "Dego"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.443038
 longitude: 8.305947
+title: Dego
+type: location
 ---
 
 An agricultural center on the slopes of the

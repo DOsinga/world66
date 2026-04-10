@@ -1,8 +1,10 @@
 ---
-title: "Sidon"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.564733
 longitude: 35.374978
+title: Sidon
+type: location
 ---
 
 Sidon (Saida in Arabic) is the capital of South Lebanon and one of the great ancient Phoenician cities. It sits on the coast about 40 km south of [Beirut](/asia/lebanon/beirut) and is worth visiting for its atmospheric old town, its sea castle and its legendary sweets.

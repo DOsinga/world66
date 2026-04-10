@@ -1,8 +1,10 @@
 ---
-title: "Petra"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 30.325836
 longitude: 35.474567
+title: Petra
+type: location
 ---
 
 Petra is on your top priority list if you are in Jordan. Located in the Wadi Musa Canyon the solid red sandstone buildings, carved by the Nabataeans are unlike anything you have ever seen.

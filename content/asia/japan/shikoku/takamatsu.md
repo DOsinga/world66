@@ -1,26 +1,16 @@
 ---
-title: "Takamatsu"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 34.3428
+longitude: 134.0466
+title: Takamatsu
 type: location
-latitude: 34.342559
-longitude: 134.046534
 ---
 
-Travel Guide
+Takamatsu is the gateway to Shikoku — the island most visitors reach by rail across the Seto-ohashi Bridge from Okayama. It is the largest city in Kagawa Prefecture and a modern, comfortable base for exploring the island's more remote corners. Largely rebuilt after being flattened by wartime bombing, it lacks old-city atmosphere, but compensates with Japan's finest strolling garden, an abundance of excellent udon, and easy ferry connections to the islands of the Seto Inland Sea.
 
-The second largest city in Shikoku, Takamatsu is usually the first port
-of call for visitors arriving by train. Mostly destroyed by aerial
-bombing towards the end of World War II, it is now a modern and quite
-cosmopolitan city. Even before the **Seto-ohashi Bridge **was built, many ships trafficked through its harbour. The city's most famous site is **Ritsurin-koen**,
-the largest garden in Japan. Dating from the 17th century, it is
-celebrated for its usage of "borrowed scenery" and vistas in miniature.
-Although not one of the official "big three" gardens, it easily ranks
-among the country's finest.
+The city's crown jewel is **Ritsurin-koen**, a 17th-century garden that spans 75 hectares at the foot of Shiun-zan hill. It is widely considered one of the finest gardens in Japan — better, many argue, than the official "big three" — and its design makes masterful use of borrowed scenery, framing the hill as a backdrop to every composition. Allow at least two hours; more if you visit the attached folk craft museum.
 
-The old feudal castle, **Takamatsu-jo**, was once one of Japan's few
-seaside fortresses, but it was mostly obliterated by wartime bombing.
-What little remains can be found in the small, but picturesque **Tamamo-koen**, east of the main train station. Beside Tamamo-koen is the **Kagawa History Museum**, which documents the history of Kagawa Prefecture.
+Near the main train station, **Tamamo-koen** holds what little survives of Takamatsu Castle, once one of Japan's rare seaside fortresses. The castle was bombed out of existence, but the moats remain filled with seawater, and the park is a pleasant place to watch herons stalk the shallows. The adjacent **Kagawa History Museum** traces the prefecture's past from prehistoric times through the feudal era.
 
-Takamatsu, like the rest of the prefecture, is renowned for its *sanuki udon* (thick flour noodles), which is on offer at many local eateries.
-
-More information on
-*Takamatsu Travel*
+Takamatsu is the home of **sanuki udon** — thick, firm, hand-pulled wheat noodles served in a light dashi broth. The city has hundreds of udon shops ranging from no-frills canteen to refined kaiseki-adjacent. Locals eat it for breakfast, lunch, and sometimes dinner, and the noodles taste noticeably better here than anywhere else in Japan.

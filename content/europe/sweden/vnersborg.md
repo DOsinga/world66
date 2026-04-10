@@ -1,16 +1,14 @@
 ---
-title: "Vänersborg"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 58.3812
+longitude: 12.3227
+title: Vänersborg
 type: location
-latitude: 58.381199
-longitude: 12.322688
 ---
 
-Travel Guide
+Vänersborg is a small city of around 40,000 people perched on the southernmost shore of Lake Vänern, Sweden's largest lake. The city is often paired with the nearby industrial city of [Trollhättan](/europe/sweden/trollhttan) — together they are known as "Tvåstad" ("Two Cities") — but Vänersborg has its own quieter, more intimate character.
 
-Vänersborg is a city of about 40 000 persons situated on the southernmost shore of Lake Vänern. Together with [Trollhättan](/europe/sweden/trollhttan) the area is known as "Tvåstad" ("Two Cities").
+The city centre has held onto its old wooden houses in a way that is genuinely rare in Sweden, giving the streets a 19th-century atmosphere that feels unhurried and unspoiled. This is a town that chose preservation over redevelopment, and it shows.
 
-The city centre has maintained the atmosphere of a small town by embracing the old houses. This is something that is not so common in Sweden.
-
-Vänersborg was also the home of the poet Birger Sjöberg who coined the name "Little Paris" for the city.
-
-Before the creation of the "West Götaland Region" Vänersborg was the administrative hub for Älvsborg county.
+Vänersborg was the hometown of the poet Birger Sjöberg, who gave the city its affectionate nickname: "Little Paris." Before the reorganisation of Swedish regional government, it also served as the administrative capital of Älvsborg County.

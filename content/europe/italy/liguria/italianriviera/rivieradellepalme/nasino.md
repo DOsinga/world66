@@ -1,32 +1,16 @@
 ---
-title: "Nasino"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.11375
 longitude: 8.031713
+title: Nasino
+type: location
 ---
 
-An agricultural center spread out over the
- Pennavaire valley, it is located on the southern
- side of Monte Galero (1708 meters or 5604
- feet) and faces the steep slopes of Monte Peso Grande (1092 meters or 3583 feet). The valley,
- divided between the provinces of Imperia,
- Cuneo and Savona), contains numerous caves
- that were inhabited, either permanently or
- seasonally, from the end of the Epigravettian
- period (about 9000 years ago) up until the
- Roman era. The finds made in those of the
- Savona region are conserved in the Civico
- Museo Inguano at Albenga. The area was a fief
- of the marchesi Del Carretto of Balestrino, who
- had a castle at the locality of Vignoletto, in an
- excellent strategic position. It is now in ruins.
- In 1202 the marchesi signed a pact with the
- republic of Genoa that remained in force until
- 1735, when the fief was placed under the rule
- of the kingdom of Sardinia. The parish church
- of San Giovanni Battista dates from the
- seventeenth century, while the shrine of the
- Madonna di Curagna was originally the
- principal church in the valley. The area has
- pleasant agricultural scenery, characterized by
- woods and pastures.
+Nasino is a small agricultural village spread across the Pennavaire valley, sheltered between the southern slopes of Monte Galero (1,708 m) and the steep face of Monte Peso Grande (1,092 m). The valley straddles the provinces of Imperia, Cuneo, and Savona, and is surrounded by woods and pastures that give the area a quietly scenic character.
+
+The valley has been inhabited for an extraordinarily long time. Numerous caves here were used — either permanently or seasonally — from the end of the Epigravettian period, around 9,000 years ago, right through to the Roman era. Finds from the Savona caves are on display at the Civico Museo Inguano in nearby Albenga.
+
+In the medieval period, Nasino was a fief of the marchesi Del Carretto of Balestrino, who built a castle at the locality of Vignoletto, in an excellent strategic position above the valley. The ruins are still visible. In 1202 the marchesi signed a pact with the Republic of Genoa that held until 1735, when the fief passed to the Kingdom of Sardinia.
+
+The village's seventeenth-century parish church of San Giovanni Battista is worth a look, as is the shrine of the Madonna di Curagna, which was originally the principal church of the whole valley.

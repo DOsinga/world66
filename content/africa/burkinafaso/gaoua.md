@@ -1,8 +1,10 @@
 ---
-title: "Gaoua"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 10.3303
 longitude: -3.1796
+title: Gaoua
+type: location
 ---
 
 Gaoua is the capital of Poni Province in the far southwest of Burkina Faso, about 430 km from Ouagadougou and close to the borders with Ghana and Côte d'Ivoire. Most travellers who make the effort to get here come for one reason: the Musée de Poni, one of the best ethnographic museums in West Africa. It is absolutely worth the journey.

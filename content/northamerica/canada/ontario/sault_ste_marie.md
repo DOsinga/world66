@@ -1,8 +1,10 @@
 ---
-title: "Sault Ste. Marie"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.512655
 longitude: -84.33303
+title: Sault Ste. Marie
+type: location
 ---
 
 Sault Ste. Marie — "the Soo" — sits at the narrows between Lake Superior and Lake Huron, connected to its American twin city by the International Bridge. It is a gateway to Northern Ontario's wilderness, and a surprisingly interesting stop in its own right.

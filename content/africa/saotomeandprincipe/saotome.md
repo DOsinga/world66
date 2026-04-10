@@ -1,10 +1,14 @@
 ---
-title: "Sao tome"
+title: "São Tomé"
 type: location
+latitude: 0.2500
+longitude: 6.6100
+done:
+  location_cleanup: 2026-04-10
 ---
 
-Sao Tome is the bigger island. It is not only the name of the island but also of the capital and of the highest mountain.
+São Tomé is the larger of the two islands in the Gulf of Guinea, and shares its name with both the national capital and the highest peak. It sits almost exactly on the equator, which makes the light here extraordinary — everything is sharp and green.
 
- The cathedral and the fort of St. Sebastian are the main sights. Just 15km from town you find the Casa de Repouso from where you get a great panoramic view over the island.
+The capital, also called São Tomé, holds the main sights. The 16th-century **Sé Cathedral** is the oldest cathedral in sub-Saharan Africa, a modest Portuguese colonial building that has survived remarkably well. The **Forte de São Sebastião** nearby is now a national museum covering the island's history, from the Portuguese sugar trade to the cocoa era that followed.
 
- Great beaches are all around the island, but the best ones are found at prai das Pombas.
+About 15 km from town, the **Casa de Repouso** is a former rest house set high enough to give a panoramic view over the island and the sea. The beaches are excellent and largely uncrowded — the best are at **Praia das Pombas**, on the northern coast.

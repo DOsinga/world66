@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-10'
 latitude: 50.828525
 longitude: -4.546936
 title: Bude

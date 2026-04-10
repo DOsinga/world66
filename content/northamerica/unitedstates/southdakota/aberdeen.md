@@ -1,8 +1,10 @@
 ---
-title: "Aberdeen"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 45.464981
 longitude: -98.487813
+title: Aberdeen
+type: location
 ---
 
 We currently have no information about Aberdeen.

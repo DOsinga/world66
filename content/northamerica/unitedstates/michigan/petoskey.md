@@ -1,10 +1,12 @@
 ---
-title: "Petoskey"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 45.373343
 longitude: -84.95533
+title: Petoskey
+type: location
 ---
 
-Travel Guide
+Petoskey is a small resort city on the northeastern shoreline of Lake Michigan, in the part of the state that Michiganders call "Up North." The downtown Gaslight District has an attractive row of shops, galleries, and restaurants catering to the summer crowd. The waterfront along Little Traverse Bay is the main draw — the shoreline is known for Petoskey stones, fossilized coral unique to this part of Michigan.
 
-Petoskey is located on the north-east shoreline of Lake Michigan with a population of 6,080 as per the 2000 census. It is a delightful little city that we found when touring around the Lake Michigan coastline. It is a summer resort area with an impressive shoreline on Lake Michigan. Its downtown is home to several upscale shops which cater to Michigan's wealthier people.
+Ernest Hemingway spent his boyhood summers nearby, and the area's lakes, rivers, and forests still draw people who come to fish, hike, and ski.

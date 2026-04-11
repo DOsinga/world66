@@ -85,9 +85,34 @@ for pt in route:
 
 OSRM returns many points along the streets. This is correct — more points means a smoother, more accurate line on the map.
 
+### When the prose says "walk along a street"
+
+If the narrative describes walking the length of a street (e.g. a market street, a canal-side boulevard), the route **must physically traverse that street** — not cut across it or skip to a parallel path. OSRM will only follow a street if it is forced to stop at a point beyond the far end of it.
+
+**How to do it:**
+
+1. Add a *forcing waypoint* at the far end of the street in your OSRM request — a coordinate just past where the street exits, not a named stop in the walk.
+2. Use that forcing waypoint only in the OSRM URL. The `waypoints:` list in the walk file only includes the named stops.
+3. Route separate segments if needed to avoid backtracking (see below).
+
+**Avoiding backtracking:**
+
+OSRM sometimes creates U-turns when a waypoint sits mid-route and the next stop is back the way you came. Check the coordinates: if the longitude (or latitude) oscillates back and forth around the same value, the route is doubling back. Fix this by:
+
+- Splitting into separate OSRM calls and stitching the segments: route A→B→C cleanly, then C→D→E cleanly, join them.
+- Reordering waypoints so the walk progresses in one direction (e.g. west-to-east, or a loop that never reverses).
+- Placing the named waypoint at the *entry* of a street, not the exit, so OSRM continues forward after it.
+
+**One-way streets and pedestrian zones:**
+
+Some pedestrian streets are tagged one-way in OSM (market streets are common examples). OSRM will only route through them in one direction. If the route approaches a street from the wrong end and creates a loop, reverse the direction: approach the street from the end OSRM naturally enters it.
+
 ### Sanity-check the route
 
-Verify the route makes sense: the coordinates should all fall within the city's bounding box and trace a logical path between the waypoints. A quick check — the first and last points should be near the first and last waypoints.
+Verify the route makes sense: the coordinates should all fall within the city's bounding box and trace a logical path between the waypoints. A quick check:
+- The first and last points should be near the first and last waypoints.
+- Plot the longitude values in order — they should progress mostly in one direction. A value that reverses and repeats is a sign of backtracking.
+- The route should reach the far end of any street the prose says you walk.
 
 ## Step 4 — Write the walk
 

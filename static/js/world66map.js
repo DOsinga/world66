@@ -217,7 +217,7 @@ function initWalkMap(elementId, route, waypoints) {
         if (wp.lat == null || wp.lng == null) return;
         var icon = L.divIcon({
             className: 'walk-marker',
-            html: '<span>' + (i + 1) + '</span>',
+            html: String(i + 1),
             iconSize: [24, 24],
             iconAnchor: [12, 12],
         });

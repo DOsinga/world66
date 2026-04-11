@@ -50,6 +50,20 @@ Add 1–2 seconds of delay between requests to avoid rate limiting.
 
 Each waypoint POI file needs `latitude` and `longitude`. Without them the marker won't appear on the map.
 
+**Critical: Nominatim returns area centroids, not street points.** A POI described as being "on" a street may have coordinates that are 50–100m away from the actual street. This causes routing to silently follow a parallel street instead. Always verify coordinates that need to be on a specific street:
+
+1. Query Nominatim for the **street itself** (not just the POI) to get actual street coordinates:
+   ```
+   https://nominatim.openstreetmap.org/search?q=STREET+NAME+CITY&format=json&limit=5&accept-language=en
+   ```
+   This returns multiple points along the street — use these to verify the POI lat is close to the street's actual lat at that longitude.
+
+2. After routing, **check OSRM step names** to confirm the route follows the intended street:
+   ```
+   ?overview=full&geometries=geojson&steps=true
+   ```
+   The `steps[].name` field shows which street each segment is on. If it shows the wrong street name, the waypoint coordinates are wrong.
+
 ## Step 3 — Get the walking route
 
 The `route:` field is a list of `[lat, lng]` coordinate pairs that trace the actual walking path through the streets. This is what draws the red line on the map.
@@ -87,7 +101,11 @@ OSRM returns many points along the streets. This is correct — more points mean
 
 ### When the prose says "walk along a street"
 
-If the narrative describes walking the length of a street (e.g. a market street, a canal-side boulevard), the route **must physically traverse that street** — not cut across it or skip to a parallel path. OSRM will only follow a street if it is forced to stop at a point beyond the far end of it.
+If the narrative describes walking the length of a street (e.g. a market street, a canal-side boulevard), the route **must physically traverse that street** — not cut across it or skip to a parallel path. OSRM will only follow a street if forced through it by intermediate waypoints.
+
+**Forcing waypoints must be on the correct street.** Use Nominatim to query the street itself and get its actual lat/lng at multiple points. Do not rely on the coordinates of a POI *near* the street — those are often the centroid of a named area and can be 50m off. Compute intermediate forcing points by interpolating along the Nominatim-verified street line.
+
+OSRM will only follow a street if it is forced to stop at a point beyond the far end of it.
 
 **How to do it:**
 

@@ -222,7 +222,7 @@ def build_city_tag_index(city_path):
         if not result:
             continue
         meta, _ = result
-        if meta.get("type") != "poi":
+        if meta.get("type") not in ("poi", "walk"):
             continue
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):

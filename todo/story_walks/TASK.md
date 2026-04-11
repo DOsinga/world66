@@ -53,7 +53,7 @@ The walk doesn't need to be in one neighbourhood. It can cross boundaries if the
 - A walk about things that burned down — and why
 - A walk with no theme at all, just story after story, each one stranger than the last
 
-Name the walk after the theme, not the neighbourhood: "The Swindlers' Mile", "Amsterdam After Dark", "The City That Burned Twice."
+The walk title can reflect the theme if there is one, but a simple descriptive title is fine too.
 
 ## Step 3 — Research each story thoroughly
 
@@ -113,7 +113,7 @@ The short version:
 
 ```yaml
 ---
-title: "The Swindlers' Mile"   # or whatever the theme demands
+title: "The [Theme or Area] Walk"
 type: walk
 tags:
   - city_walks
@@ -147,7 +147,7 @@ Not every stop needs all five. Some stories are short. But every stop needs at l
 
 **The close** should leave something unresolved or unanswered — a question, an irony, something that will still be in the reader's head when they get home.
 
-**End with distance and time**: "The walk is approximately X km and takes about Y minutes, not counting the time you'll spend standing outside No. 14 trying to decide if you believe it."
+**End with distance and time**: "The walk is approximately X km and takes about Y minutes at a comfortable pace."
 
 ### Tone
 

@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+image: noordpolderzijl.jpg
+image_attribution: Wutsje
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:20110805_Zielhoes_Noordpolderzijl_Gn_NL.jpg
 latitude: 53.432069
 longitude: 6.582255
 title: Noordpolderzijl

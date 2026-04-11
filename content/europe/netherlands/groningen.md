@@ -1,8 +1,12 @@
 ---
-title: Groningen
-type: location
+image: groningen.jpg
+image_attribution: Agnes Monkelbaan
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Groningen_(stad),_station_Groningen._13-06-2022._(actm.)_03.jpg
 latitude: 53.219065
 longitude: 6.568008
+title: Groningen
+type: location
 score: 0.54
 ---
 

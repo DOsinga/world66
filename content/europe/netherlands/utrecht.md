@@ -1,8 +1,12 @@
 ---
-title: Utrecht
-type: location
+image: utrecht.jpg
+image_attribution: Pedro Nuno Caetano on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/12962905@N05/49438549761
 latitude: 52.090701
 longitude: 5.121563
+title: Utrecht
+type: location
 score: 0.65
 ---
 

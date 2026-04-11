@@ -1,10 +1,14 @@
 ---
-title: Breda
-type: location
-latitude: 51.5719
-longitude: 4.7683
 done:
   location_cleanup: 2026-04-02
+image: breda.jpg
+image_attribution: deborah's perspective on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/38911919@N00/14136857869
+latitude: 51.5719
+longitude: 4.7683
+title: Breda
+type: location
 score: 0.52
 ---
 

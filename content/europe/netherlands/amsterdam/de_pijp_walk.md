@@ -40,7 +40,20 @@ route:
   - [52.356606, 4.890694]
   - [52.356181, 4.890618]
   - [52.355443, 4.890499]
-  - [52.355863, 4.892547]
+  - [52.355101, 4.890447]
+  - [52.354983, 4.890442]
+  - [52.354971, 4.890373]
+  - [52.354966, 4.890347]
+  - [52.354963, 4.890326]
+  - [52.354957, 4.890292]
+  - [52.354949, 4.890233]
+  - [52.354984, 4.890451]
+  - [52.355068, 4.890901]
+  - [52.355199, 4.891607]
+  - [52.355441, 4.892908]
+  - [52.355471, 4.893072]
+  - [52.355887, 4.892836]
+  - [52.355903, 4.892915]
   - [52.355936, 4.892898]
   - [52.355965, 4.892883]
   - [52.355972, 4.892921]
@@ -129,9 +142,9 @@ From the brewery, head southwest to [Marie Heinekenplein](/europe/netherlands/am
 
 Walk south along Ferdinand Bolstraat. This is the main spine of De Pijp, named for the painter Ferdinand Bol, a pupil of Rembrandt. The streets crossing it to the left and right are named for other Dutch painters: Frans Hals, Jan Steen, Jacob van Ruisdael, Gerard Dou. The naming was not affectionate — it was simply the convention for a neighbourhood being built so fast that no one had time to think of better names. The street itself is busy and direct, with shops at ground level and the characteristic four-storey façades pressing close on both sides.
 
-At the bottom of Ferdinand Bolstraat, turn into [Albert Cuypmarkt](/europe/netherlands/amsterdam/albert_cuypmarkt). The market fills Albert Cuypstraat from this western entrance all the way east to Ceintuurbaan — 300 metres of stalls selling cheese, raw herring, stroopwafels made fresh to order, fabric, spices, electronics, and produce from Suriname, Turkey, and Morocco. It is the largest daytime market in the Netherlands, and one of the few places in Amsterdam where the city's full diversity is visible all at once. Near the western entrance, look for the bronze statue of André Hazes, the folk singer who grew up in De Pijp and was discovered singing at this market as a child of eight. When he died in 2004, 48,000 people came to Amsterdam Arena to say goodbye.
+At the bottom of Ferdinand Bolstraat, turn east into [Albert Cuypmarkt](/europe/netherlands/amsterdam/albert_cuypmarkt). The market fills Albert Cuypstraat from here all the way to Ceintuurbaan — 300 metres of stalls selling cheese, raw herring, stroopwafels made fresh to order, fabric, spices, electronics, and produce from Suriname, Turkey, and Morocco. It is the largest daytime market in the Netherlands, and one of the few places in Amsterdam where the city's full diversity is visible all at once. Near the western entrance, look for the bronze statue of André Hazes, the folk singer who grew up in De Pijp and was discovered singing at this market as a child of eight. When he died in 2004, 48,000 people came to Amsterdam Arena to say goodbye.
 
-Walk east through the market. About halfway along, you reach [Gerard Douplein](/europe/netherlands/amsterdam/gerard_douplein), the small square where Gerard Doustraat crosses the market. This is a good place to stop. The market widens slightly here, and looking north along Gerard Doustraat you see the view that defines De Pijp: a straight canyon of brick tenements disappearing into the distance, every ground floor a shop or café, the upper floors solid and uniform. Buy a stroopwafel if you haven't already — the ones made fresh, the caramel still soft, are worth stopping for.
+Walk east through the full length of the market. About halfway along, you reach [Gerard Douplein](/europe/netherlands/amsterdam/gerard_douplein), the small square where Gerard Doustraat crosses the market. This is a good place to stop. The market widens slightly here, and looking north along Gerard Doustraat you see the view that defines De Pijp: a straight canyon of brick tenements disappearing into the distance, every ground floor a shop or café, the upper floors solid and uniform. Buy a stroopwafel if you haven't already — the ones made fresh, the caramel still soft, are worth stopping for.
 
 From Gerard Douplein, turn south on Gerard Doustraat and walk into the quieter streets between the market and the park. The noise of the stalls fades quickly. These backstreets — narrower and more residential than Ferdinand Bolstraat — are typical of the older, inner parts of De Pijp: the same four-storey brick buildings, but without the ground-floor commerce, a little more worn, a little more lived-in.
 

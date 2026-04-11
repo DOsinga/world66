@@ -1,7 +1,7 @@
 ---
 done:
   country_cleanup: 2026-03-30
-  location_cleanup: '2026-04-07'
+  location_cleanup: '2026-04-10'
 image: pakistan.jpg
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Usman.pg&amp;action=edit&amp;redlink=1"
   class="new" title="User:Usman.pg (page does not exist)">Usman.pg</a>

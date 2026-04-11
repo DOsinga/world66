@@ -1,21 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-address: "The Station, Corner of Camp and Shotover Streets"
-email: "bungycentre@ajhackett.co.nz"
-phone: "+64 3 442 4007"
-type: "Other"
-url: "www.ajhackett.com"
 ---
 
-Queenstown is well known for being the best place for extreme sports.
-
-### Bungy Jumping
-
-The first permanent bungy jumping site in the world was installed in
-Queenstown (Kawarau Bridge). The inventor of bungy jumping, A J
-Hackett, operates with his company three jumping sites in this area.
-The highest one is the "nevis highwire bungy" with 134m. It is also the
-highest in NZ.
-
-type: Other
+Queenstown built its name on adventure sports, and the options haven't shrunk since. Bungy jumping, jet boating, skydiving, white-water rafting, canyon swinging — most of it is bookable from the activity hubs along Shotover Street. Beyond the adrenaline, the Skyline gondola gives you views over the lake and mountains without breaking a sweat, and the Queenstown Gardens are a good place to decompress.

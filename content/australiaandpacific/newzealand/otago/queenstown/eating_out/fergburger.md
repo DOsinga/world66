@@ -1,31 +1,10 @@
 ---
 title: "Fergburger"
 type: poi
-address: "42 Shotover street"
-price: "$9.00 - $15.50"
-type: "Fast food"
-url: "www.fergburger.com"
-latitude: -45.031742
-longitude: 168.659462
+address: "42 Shotover Street"
+url: "https://www.fergburger.com"
+latitude: -45.0317
+longitude: 168.6595
 ---
 
-Everyone on the south island in [New Zealand](/australiaandpacific/newzealand) knows this place. Fergburger serves the best burgers in the southern hemisphere, maybe even in the world.
-It´s exclusiveness makes it a special treat when you come to [Queenstown](/australiaandpacific/newzealand/otago/queenstown), cause [Queenstown](/australiaandpacific/newzealand/otago/queenstown) is the only place in the world where they have a Fergburger.
-The word "burger" really understates the food they make over there. Okay, the burger is the base, but you get a huge, fresh bun filled with stuff you choose.
-They have a pretty big menu with items like ´Sweet Bambi´ and the ´Codfather´. Sounds nice and tastes great.
-So really don´t miss out on this place when you visit [Queenstown](/australiaandpacific/newzealand/otago/queenstown), cause everyone will ask you about it when you leave.
-
-**Contributors**
-October 25, 2007
-
-type: Fast food
-
-
-
-
-
-url: [www.fergburger.com](http://www.fergburger.com)
-
-address: 42 Shotover street
-
-PriceOfMenu: $9.00 - $15.50
+Fergburger has been the thing everyone tells you to eat in Queenstown for years, and it still deserves the reputation. The burgers are large, fresh, and made to order — not assembly-line fast food. The buns are soft, the fillings are generous, and the menu includes items like the "Sweet Bambi" (venison) and the "Codfather" (fish). Queues can be long during peak season. There is only one Fergburger, and it's here.

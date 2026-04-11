@@ -2,17 +2,8 @@
 title: "Winnies"
 type: poi
 address: "7-9 The Mall"
-latitude: -37.772127
-longitude: 145.113051
+latitude: -45.0314
+longitude: 168.6608
 ---
 
-This restaurant/bar is a nice place to get a gourmet pizza and other food. They have a pretty good menu to choose from and you can certainly get stuffed with their good foods.
-Then, when the eating is over, the restaurant changes into a crazy ass bar. The parties here are infamous for various reasons. They also throw a lot of themed parties, so don´t miss out on one of those when your there.
-This bar also has a feauture which I never seen in any other bar, anywhere on the world. They have an opening roof, which gives a pretty cool effect at night. So you think somebody left the door open, but no, it´s the roof they opened. A nice and cool relief from all the heat that is going on in there. A definate must-do.
-
-**Contributors**
-October 13, 2007
-
-
-
-address: 7-9 The Mall
+Half restaurant, half bar — Winnies does good wood-fired pizza in the early evening and turns into a lively bar later on. The retractable roof is the party trick: on warm nights they open it up, which transforms the atmosphere entirely. They run themed nights and it gets busy on weekends. Worth combining dinner and drinks in one stop.

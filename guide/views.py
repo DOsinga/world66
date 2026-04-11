@@ -67,21 +67,6 @@ def location_or_section(request, path):
                 parent_nav, parent_locations, _ = grandparent.children()
                 active_nav = parent   # mark the section as active in the sidebar
 
-    # Neighbourhood sidebar context
-    neighbourhood_page = None
-    neighbourhood_pois = []
-    if page.page_type == "poi":
-        from .models import find_neighbourhood_page
-        neighbourhood_title = page.meta.get("neighbourhood")
-        if neighbourhood_title and parent and "/" in parent.path:
-            city_path = parent.path.rsplit("/", 1)[0]
-            neighbourhood_page = find_neighbourhood_page(city_path, neighbourhood_title)
-            if neighbourhood_page:
-                neighbourhood_pois = neighbourhood_page.neighbourhood_pois()
-        elif parent and parent.page_type == "neighbourhood":
-            neighbourhood_page = parent
-            neighbourhood_pois = parent.neighbourhood_pois()
-
     # For a POI reached via a context nav page, build sidebar from that nav page
     nav_siblings = []
     if context_nav:
@@ -115,9 +100,6 @@ def location_or_section(request, path):
     if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
-    # Group nav_pages by type for the sidebar template
-    nav_grouped = _group_nav_pages(nav_pages)
-
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
@@ -142,7 +124,7 @@ def location_or_section(request, path):
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
         "active_nav": active_nav,        # nav page to mark active (when POI bumped to grandparent nav)
-        "nav_grouped": nav_grouped,
+
         "context_nav": context_nav,
         "nav_siblings": nav_siblings,
         "body_html": body_html,
@@ -158,8 +140,6 @@ def location_or_section(request, path):
         "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
-        "neighbourhood_page": neighbourhood_page,
-        "neighbourhood_pois": neighbourhood_pois,
         "poi_context_prefix": poi_context_prefix,
     })
 
@@ -217,24 +197,6 @@ def tag_index(request, tag):
     if not pages and tag not in index:
         raise Http404
     return render(request, "guide/tag.html", {"tag": tag, "pages": pages})
-
-
-def _group_nav_pages(nav_pages):
-    """Group a flat list of nav pages by type for sidebar rendering.
-
-    Returns a list of (group_label, [pages]) tuples, where section_group
-    pages become group headers with their children listed beneath them.
-    Plain sections are returned as (None, [page]) single-item groups.
-    """
-    groups = []
-    group_types = {}
-    for p in nav_pages:
-        if p.page_type == "section_group":
-            group_types[p.slug] = p
-        else:
-            groups.append(p)
-    # For now return flat — template can check page_type directly
-    return nav_pages
 
 
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "beaches", "landmarks", "things_to_do"}

@@ -1,5 +1,4 @@
 {% extends "guide/base.html" %}
-{% load guide_tags %}
 
 {% block title %}
 {{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
@@ -102,22 +101,6 @@
     </ul>
   </div>
   {% endif %}
-
-  {% if neighbourhood_page %}
-  <div class="sidebar-box">
-    <h3 class="sidebar-box-title">
-      <span class="box-accent"></span>
-      {{ neighbourhood_page.title }}
-    </h3>
-    <ul class="sidebar-nav">
-      {% for poi in neighbourhood_pois %}
-      <li{% if poi.slug == page.slug %} class="active"{% endif %}>
-        <a href="{{ poi.get_absolute_url }}">{{ poi.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
 </aside>
 {% endblock %}
 
@@ -210,7 +193,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
           {% endif %}
         </span>
         {% endfor %}
-        {% if poi.excerpt %}<p class="poi-excerpt">{{ poi.excerpt }}</p>{% endif %}
       </td>
     </tr>
     {% endfor %}
@@ -256,12 +238,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 </div>
 {% endif %}
 
-{% if neighbourhood_page %}
-<div class="neighbourhood-ref">
-  Part of <a href="{{ neighbourhood_page.get_absolute_url }}">{{ neighbourhood_page.title }}</a>
-</div>
-{% endif %}
-
 {% if locations and page.page_type == "location" and locations|length > 30 %}
 <div class="destinations-section">
   <h2>All {{ locations|length }} Destinations</h2>
@@ -289,16 +265,6 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   var bgMap = null;
   var bgInited = false;
 
-  // After init or after hero resize, pan so the POI marker sits in the
-  // visible hero strip rather than behind the page content.
-  function poiPanToHero(animate) {
-    {% if not is_continent %}
-    if (bgMap && mapOptions.isPoi && markers.length === 1) {
-      panMarkerToHero(bgMap, markers[0].lat, markers[0].lng, animate);
-    }
-    {% endif %}
-  }
-
   function initBgMap() {
     if (bgInited || !bgMapEl) return;
     void bgMapEl.offsetHeight; // force reflow so Leaflet measures real dimensions
@@ -320,12 +286,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
     document.body.style.backgroundImage = 'none';
     if (heroBtnMap)   heroBtnMap.classList.add('hero-toggle-active');
     if (heroBtnPhoto) heroBtnPhoto.classList.remove('hero-toggle-active');
-    if (!bgInited) {
-      initBgMap();
-    } else if (bgMap) {
-      bgMap.invalidateSize();
-      requestAnimationFrame(function() { poiPanToHero(false); });
-    }
+    if (!bgInited) { initBgMap(); } else if (bgMap) { bgMap.invalidateSize(); }
   }
 
   function setPhotoMode() {
@@ -343,14 +304,13 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
   initBgMap();
   {% endif %}
 
-  // Expand/collapse hero strip — re-pan after the CSS transition (0.4s) finishes
+  // Expand/collapse hero strip
   if (hero && heroExpandBtn) {
     heroExpandBtn.addEventListener('click', function() {
       heroExpanded = !heroExpanded;
       hero.classList.toggle('hero-expanded', heroExpanded);
       heroExpandBtn.innerHTML = heroExpanded ? '&#8963;' : '&#8964;';
       heroExpandBtn.title = heroExpanded ? 'Show less' : 'Show more';
-      setTimeout(function() { poiPanToHero(true); }, 420);
     });
   }
 })();

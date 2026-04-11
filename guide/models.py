@@ -101,17 +101,6 @@ class Page:
         """The tag this nav page uses to collect its POIs. Defaults to slug."""
         return self.meta.get("tag", self.slug)
 
-    @property
-    def excerpt(self):
-        """Plain-text excerpt of body, ~220 characters, markdown stripped."""
-        import re
-        text = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', self.body or '')
-        text = re.sub(r'[*_`#>]', '', text)
-        text = ' '.join(text.split())
-        if len(text) > 220:
-            text = text[:220].rsplit(' ', 1)[0] + '\u2026'
-        return text
-
     def breadcrumbs(self):
         crumbs = []
         parts = self.path.split("/")
@@ -165,29 +154,6 @@ class Page:
 
         return nav_pages, locations, pois
 
-    def nav_children(self):
-        """For section_group pages: return the nav pages they group.
-
-        Scans sibling .md files at the same directory level whose type
-        matches the group's expected child type.  For example, a
-        `neighbourhoods` section_group returns all `neighbourhood` pages.
-        """
-        expected_child_type = self.meta.get("groups", "neighbourhood")
-        if not self.path or "/" not in self.path:
-            return []
-        parent_dir = CONTENT_DIR / self.path.rsplit("/", 1)[0]
-        children = []
-        for entry in sorted(parent_dir.iterdir()):
-            if entry.is_file() and entry.suffix == ".md":
-                page = _load_page_from_file(entry, self.path.rsplit("/", 1)[0] + "/" + entry.stem)
-                if page and page.page_type == expected_child_type:
-                    children.append(page)
-            elif entry.is_dir():
-                child = load_page(self.path.rsplit("/", 1)[0] + "/" + entry.name)
-                if child and child.page_type == expected_child_type:
-                    children.append(child)
-        return children
-
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.
 
@@ -231,11 +197,6 @@ class Page:
     # Keep old name for call sites not yet updated
     def pois(self):
         return self.tagged_pois()
-
-    def neighbourhood_pois(self):
-        """Kept for backwards compatibility — use tagged_pois() instead."""
-        return self.tagged_pois()
-
 
 
 def _find_city_path(path):
@@ -290,24 +251,6 @@ def find_tagged_pois(city_path, tag, _city_tag_index=None):
     if _city_tag_index is None:
         _city_tag_index = build_city_tag_index(city_path)
     return list(_city_tag_index.get(tag, []))
-
-
-def find_neighbourhood_page(city_path, title):
-    """Find a neighbourhood page by title — checks both old explore/ and city level."""
-    for search_path in [city_path, city_path + "/explore"]:
-        search_dir = CONTENT_DIR / search_path
-        if not search_dir.is_dir():
-            continue
-        for entry in sorted(search_dir.iterdir()):
-            if entry.is_file() and entry.suffix == ".md":
-                result = _load_md(entry)
-                if not result:
-                    continue
-                meta, _ = result
-                if meta.get("title") == title:
-                    rel_path = search_path + "/" + entry.stem
-                    return _load_page_from_file(entry, rel_path)
-    return None
 
 
 def _load_page_from_file(file_path, url_path):

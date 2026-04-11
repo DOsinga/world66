@@ -103,9 +103,13 @@ OSRM sometimes creates U-turns when a waypoint sits mid-route and the next stop 
 - Reordering waypoints so the walk progresses in one direction (e.g. west-to-east, or a loop that never reverses).
 - Placing the named waypoint at the *entry* of a street, not the exit, so OSRM continues forward after it.
 
-**One-way streets and pedestrian zones:**
+**Use routing.openstreetmap.de, not router.project-osrm.org:**
 
-Some pedestrian streets are tagged one-way in OSM (market streets are common examples). OSRM will only route through them in one direction. If the route approaches a street from the wrong end and creates a loop, reverse the direction: approach the street from the end OSRM naturally enters it.
+The public `router.project-osrm.org` foot profile can produce wildly wrong routes in some cities (multi-kilometre detours for 200m segments). Use `routing.openstreetmap.de/routed-foot` instead — it uses the same OSRM format but a better-maintained foot graph:
+
+```
+https://routing.openstreetmap.de/routed-foot/route/v1/foot/LNG1,LAT1;LNG2,LAT2?overview=full&geometries=geojson
+```
 
 ### Sanity-check the route
 

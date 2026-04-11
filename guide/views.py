@@ -100,6 +100,18 @@ def location_or_section(request, path):
     if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
 
+    # Walk: load route coordinates and waypoint pages
+    walk_route = []
+    walk_waypoints = []
+    if page.page_type == "walk":
+        walk_route = page.meta.get("route", [])
+        city_path = _find_city_path(page.path)
+        if city_path:
+            for wp_slug in page.meta.get("waypoints", []):
+                wp = load_page(city_path + "/" + wp_slug)
+                if wp:
+                    walk_waypoints.append(wp)
+
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
     lng = _safe_float(page.meta.get("longitude"))
@@ -137,6 +149,8 @@ def location_or_section(request, path):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
+        "walk_route": mark_safe(json.dumps(walk_route)),
+        "walk_waypoints": walk_waypoints,
         "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,

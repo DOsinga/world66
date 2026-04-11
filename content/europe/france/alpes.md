@@ -1,20 +1,16 @@
 ---
-title: "Lyon, the Rhone valley and the French Alps"
+done:
+  location_cleanup: 2026-04-04
+latitude: 45.1885
+longitude: 5.7245
+title: French Alps
 type: location
 ---
 
-The region of the Alpes consists of one of the most beautiful mountain areas in the world, the French Alps. The highest mountain of Western Europe, the Mount Blanc is located here - and the good news is you can even go skiing on it, using [Chamonix](/europe/france/alpes/chamonix) as a base. There are many more skiing resorts in the area that may not have the charm of their Swiss and Austrian counterparts, but they tend to offer better value for money. Alp dHuez is more than just a skiing resort; it is also the mecca for cyclists On its steep slopes many Tour de France has been decided.
+The French Alps stretch from Lake Geneva in the north to the Mediterranean hinterland in the south, and they contain some of the most spectacular mountain scenery in Europe. This is where Mont Blanc, western Europe's highest peak, rises to 4,808 meters, and where skiers have been coming since the sport was invented.
 
-There are also beautiful cities in the region, like [Lyon](/europe/france/alpes/lyon) the metropole of the south, which has some great museums, roman remains and and some of the best restaurants in the world. [Grenoble](/europe/france/alpes/grenoble) and [Annecy](/europe/france/alpes/annecy) are nice towns to spend some time as well.
+[Lyon](/europe/france/alpes/lyon) is the region's great city, a place where Roman ruins sit alongside Renaissance architecture and where the food is arguably the best in France. The city's bouchon bistros serve honest, hearty Lyonnaise cooking, and Paul Bocuse's legacy looms over everything. [Grenoble](/europe/france/alpes/grenoble) is the gateway to the high Alps, a university city wedged between three mountain ranges with a thriving cultural scene and the dramatic Bastille fortress reached by cable car.
 
-## Destinations in Lyon, the Rhone valley and the French Alps
+The ski resorts are legendary. [Chamonix](/europe/france/alpes/chamonix) at the foot of Mont Blanc is the birthplace of alpinism and still draws serious mountaineers alongside skiers. [Meribel](/europe/france/alpes/meribel) sits at the heart of the Three Valleys, the largest linked ski area in the world. [Courchevel](/europe/france/alpes/courchevel) and [Alpe d'Huez](/europe/france/alpes/alpdhuez) offer world-class slopes in winter and cycling routes made famous by the Tour de France in summer.
 
-[Grenoble](/europe/france/alpes/grenoble)
-[Lyon](/europe/france/alpes/lyon)
-[Alp dHuez](/europe/france/alpes/alpdhuez)
-[Courthezon](/europe/france/alpes/courthezon)
-[Chamonix](/europe/france/alpes/chamonix)
-[Annecy](/europe/france/alpes/annecy)
-[St. Etienne](/europe/france/alpes/stetienne)
-[Vienne](/europe/france/alpes/vienne)
-[Chambery](/europe/france/alpes/chambery)
+Away from the big resorts, the Alps reward exploration. The [Chartreuse](/europe/france/alpes/chartreuse) regional park is green and forested with rushing streams and spring wildflowers. The [Queyras](/europe/france/alpes/queyras) in the far southeast enjoys more than 300 days of sunshine a year and has some of the finest alpine flower meadows in France. [Annecy](/europe/france/alpes/annecy), with its castle, canals, and crystal-clear lake, is one of the most picturesque towns in the country.

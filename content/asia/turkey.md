@@ -1,20 +1,54 @@
 ---
-title: "Turkey"
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-07'
+image: turkey.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Serhio_Magpie" title="User:Serhio
+  Magpie">Serhio Magpie</a>
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg
+latitude: 39.0
+longitude: 35.0
+title: Turkey
 type: location
-latitude: 39.294076
-longitude: 35.231663
 ---
 
-This is the way Nazim Hikmet described Turkey and a look on the map shows you immediately that the country is surrounded on three sides by the sea: The Aegean Sea and the Sea of Marmara on the [West coast](/northamerica/puertorico/westcoast), the Eastern Mediterranean Sea in the south and the Black Sea in the north. There is only one small physical connection to Europe: the two impressive brigdes across the Bosphorus, connecting european and asian parts of [Istanbul](/asia/turkey/istanbul). It is hardly surprising that sea side resorts like [Antalya](/asia/turkey/antalya), [Bodrum](/asia/turkey/bodrum) or [Kusadasi](/asia/turkey/kusadasi)are very popular with tourists from Europe. This may lead you to believe Turkey is very much oriented on the sea. You couldn't be more wrong: "Anadolu", the anatolian high central plateau is where turkish culture is rooted. The soul of the country is to be found in the green pastures of the hinterland, where shepards still move their herds with the seasons. 
+Turkey — or Türkiye, as it has officially styled itself internationally since 2022 — is one of the most rewarding countries to travel in. It sits at the intersection of Europe and Asia, and that geographical fact plays out in everything: the food, the architecture, the people's self-understanding, the politics. You can stand on the Bosphorus in [Istanbul](/asia/turkey/istanbul) and watch tankers cross from one continent to the other. The effect never quite wears off.
 
-This is why you shouldn't be surprised that the Turkish Republic chose [Ankara](/asia/turkey/ankara) as the capital. The city is located centrally in Anatolia. For travellers, the city offers some interesting sights and attractions, the most imporant ones being the Museum of Anatolian Culture and the Mausoleum of Ataturk. 
+The country is large — roughly the size of Texas — and enormously varied. The Aegean coast has ancient Greek and Roman ruins tucked between coves and resort towns. Cappadocia in central Anatolia has a landscape so strange it looks sculpted: fairy chimneys, underground cities, valleys carved by wind and water. The Black Sea coast is green and rainy and barely touched by mass tourism. The southeast — around [Diyarbakir](/asia/turkey/diyarbakir), Mardin, and the Tigris — is a different Turkey again, older, more Arabic in flavor, and historically Kurdish.
 
-[Istanbul](/asia/turkey/istanbul) is Turkey's prime attraction, however; it has the most beautiful mosques and palaces of the country, it has Byzantine churches and Roman temples. Without fear of exageration one can say that Istanbul's claim to the title of Eternal city is as justified as Rome's 
+Istanbul is the obvious entry point and deserves several days on its own. But the country rewards those who go further. [Ephesus](/asia/turkey/ephesus) is one of the finest Roman cities in the world. [Cappadocia](/asia/turkey/cappadocia) is like nothing else. The Aegean towns of [Bodrum](/asia/turkey/copy_of_bodrum), [Fethiye](/asia/turkey/fethiye), and [Kas](/asia/turkey/olympos) have real character alongside the package tourism. And if you push east — to [Van](/asia/turkey/van), to [Kars](/asia/turkey/kars__ani), to [Nemrut Dagi](/asia/turkey/nemrutdagi) — you will find yourself among very few other foreigners.
 
+One thing worth knowing: Turkey has had a turbulent decade politically, with a failed coup attempt in 2016, significant press restrictions, and a sharp currency depreciation that has made it excellent value for visitors while squeezing ordinary Turks hard. The political situation is real and worth being aware of, but it does not generally affect tourist travel.
 
+## Destinations
 
-[Cappadocia](/asia/turkey/cappadocia) is another great sight: it is both a natural wonder and the result of human inventiveness. Soft volcanic rock formed a landscape of bizarre beauty, but it was man who made their homes, churches, shops and courtrooms in them. All of these are decorated in a highly original style. 
-
-In the East of Anatolia you find the strange rock statues at [Nemrut Dagi](/asia/turkey/nemrutdagi)which could remind you of the Easter Island, as well as ancient cities like [Van](/asia/turkey/van), located on lake Van, and Dogubayazit. 
-
-Which such a diversity of sights, Turkey is a wonderful destination for any traveler.
+- [Istanbul](/asia/turkey/istanbul) — the great city, straddling two continents
+- [Ankara](/asia/turkey/ankara) — the capital; worth a day for the Anatolian Civilizations Museum
+- [Izmir](/asia/turkey/izmir) — the modern, secular west-coast city
+- [Antalya](/asia/turkey/antalya) — gateway to the Mediterranean coast
+- [Cappadocia](/asia/turkey/cappadocia) — the fairy-chimney landscape of central Anatolia
+- [Ephesus](/asia/turkey/ephesus) — arguably the best-preserved Roman city in the world
+- [Bodrum](/asia/turkey/copy_of_bodrum) — Aegean resort with history and good nightlife
+- [Fethiye](/asia/turkey/fethiye) and [Marmaris](/asia/turkey/marmaris) — yachting bases on the Turquoise Coast
+- [Selcuk](/asia/turkey/selcuk) — the small town closest to Ephesus
+- [Side](/asia/turkey/side) — Roman ruins on the Mediterranean coast
+- [Olympos](/asia/turkey/olympos) — backpacker beach with ancient ruins and the Chimaera flame
+- [Konya](/asia/turkey/konya) — the spiritual home of the Whirling Dervishes
+- [Diyarbakir](/asia/turkey/diyarbakir) — ancient walled city in the Kurdish southeast
+- [Kars and Ani](/asia/turkey/kars__ani) — ruins of the medieval Armenian capital near the Armenian border
+- [Van](/asia/turkey/van) — the vast lake in far eastern Turkey
+- [Nemrut Dagi](/asia/turkey/nemrutdagi) — giant stone heads on a remote mountain summit
+- [Gallipoli](/asia/turkey/gallipoli) — the World War I battlefields
+- [Pergamon](/asia/turkey/pergamon) — hilltop Hellenistic city above modern Bergama
+- [Troy](/asia/turkey/troy) — the legendary city near Canakkale
+- [Bursa](/asia/turkey/bursa) — first Ottoman capital, great bazaar, good food
+- [Canakkale](/asia/turkey/canakkale) — ferry town for Gallipoli and Troy
+- [Kusadasi](/asia/turkey/kusadasi) — cruise-ship port and base for Ephesus
+- [Alanya](/asia/turkey/alanya) — beach resort on the eastern Mediterranean coast
+- [Pamukale](/asia/turkey/pamukale) — the white calcium terraces and ancient Hierapolis above them
+- [Aphrodisias](/asia/turkey/aphrodisias) — underrated Roman site inland from the coast
+- [Dogubeyazit](/asia/turkey/dogubeyazit) — border town below Mount Ararat
+- [Edirne](/asia/turkey/edirne) — Ottoman city near the Greek and Bulgarian borders
+- [Eskisehir](/asia/turkey/eskisehir) — lively university city
+- [Trabzon region](/asia/turkey/kackar) — Black Sea coast and the Kackar mountains

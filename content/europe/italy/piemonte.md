@@ -1,23 +1,16 @@
 ---
-title: "Piemonte"
+done:
+  location_cleanup: 2026-04-04
+latitude: 45.0522
+longitude: 7.5155
+title: Piemonte
 type: location
-latitude: 45.060735
-longitude: 7.923549
 ---
 
-Piemonte (Piedmont) means "at the foot of the mountains" and that is just where you should look for it. Here you will find a very interesting region, with French influences, delicious food and great wines.
+Piedmont is the region where Italy meets the Alps, a land of snow-capped mountains, rolling vineyard hills, and one of the country's most sophisticated cities. Tucked into the northwest corner of the peninsula, bordering France and Switzerland, it feels distinctly different from the Italy of popular imagination -- quieter, more refined, and seriously devoted to the pleasures of eating and drinking well.
 
+[Turin](/europe/italy/piemonte/turin), the regional capital, is a grand Baroque city that served as Italy's first capital and today offers world-class museums, legendary cafes, and an aperitivo culture that puts most Italian cities to shame. South of Turin, the hills of the Langhe and [Monferrato](/europe/italy/piemonte/monferrato) produce some of the world's finest wines -- Barolo, Barbaresco, Barbera -- along with white truffles that draw gourmets every autumn to Alba's famous truffle fair.
 
-[Turin](/europe/italy/piemonte/turin), the capital of Piemonte, is very much a European city with an open and international atmosphere. It is the centre of a region renowned for its wines and cuisine. A city of many souls, Turin is imperial and bourgeois; a masterpiece of aesthetic urban design along the Po river, flanked by green hills. In the city you find the world's most important Egyptian museum outside of Egypt, and the Holy Shroud is kept in the Cathedral of San Giovanni Battista. [Lago Maggiore](/europe/italy/piemonte/stresa) is a favourite getaway for people from Turin — a lovely lake town, though it can be very crowded with Torinesi at weekends. Another charming lake is Lago d'[Orta](/europe/italy/piemonte/orta). The town of Orta is as pretty as anywhere in the Italian lakes and a boat trip to the island of San Giulio just opposite is a must.
+The lakes along Piedmont's eastern edge are among Italy's most beautiful. [Stresa](/europe/italy/piemonte/stresa) is the gateway to the Borromean Islands on Lake Maggiore, while the smaller [Lago d'Orta](/europe/italy/piemonte/orta) offers a quieter, more intimate alternative. To the north and west, the Alpine valleys -- Val di Susa, Valle d'Aosta's doorstep, and the ski resorts of Sestriere and Bardonecchia -- draw winter sports enthusiasts and summer hikers alike.
 
-Wine is Piemonte's greatest gift to the world. The Langhe hills south of Turin produce Barolo and Barbaresco from the Nebbiolo grape — two of Italy's greatest reds. The Monferrato hills produce Barbera and Dolcetto. Alba in October holds the International White Truffle Fair, when the surrounding villages fill with the scent and the price of the local white truffle.
- 
- 
- 
-
-## Destinations in Piemonte
-
-[Turin](/europe/italy/piemonte/turin)
-[Stresa](/europe/italy/piemonte/stresa)
-[Orta](/europe/italy/piemonte/orta)
-[Fubine](/europe/italy/piemonte/fubine)
+Piedmont rewards the traveler who takes their time. This is not a region for ticking off sights at speed; it is one for lingering over a long lunch, driving the back roads between hilltop villages, and discovering that some of Italy's best experiences are in the places most visitors never think to go.

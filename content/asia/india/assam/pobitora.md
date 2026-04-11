@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-10'
 latitude: 26.259401
 longitude: 91.984768
 title: Pobitora

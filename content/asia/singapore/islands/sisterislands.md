@@ -1,6 +1,12 @@
 ---
-title: "Sister Islands"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 1.2064
+longitude: 103.7564
+title: Sister Islands
 type: location
 ---
 
-Two tranquil islands, Subar Laut and Subar Darat, are known as Sisters Island. Separated only by narrow strip of sea, their beaches laze in the sun and warm blue waters make snorkeling a favourite pastime. Abundant shade, beach shelters and conveniences make these islands popular with picnickers.
+Sister Islands — formally Subar Laut and Subar Darat — are two small islands lying just south of Sentosa that together make up one of Singapore's less-visited marine reserves. The surrounding waters are among the clearest around the main island, and the reef hosts a good variety of coral and tropical fish, making snorkelling the main draw. The islands are linked by a sandbar at low tide.
+
+Access is by chartered boat from Marina South Pier. Day visitors can use the beach shelters and basic facilities on the island; overnight stays in camping-style accommodation are available by permit through the National Parks Board. It is one of the quieter spots in an otherwise busy city.

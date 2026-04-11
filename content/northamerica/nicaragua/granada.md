@@ -1,6 +1,14 @@
 ---
 title: "Granada"
 type: location
+latitude: 11.9344
+longitude: -85.9560
+done:
+  location_cleanup: '2026-04-10'
 ---
 
-Granada is situated on the port of Lago de Nicaragua. The citys main street ist very nice with houses in colonial style. The Parque Central is also very nice, with a church in one end. Street wenders sell the traditional food in banana leaves.
+Granada sits on the northwestern shore of Lago de Nicaragua, Central America's largest lake, with the Mombacho volcano rising behind it. It is one of the oldest Spanish colonial cities in the Americas and one of the best-preserved — the cathedral, the main square, and the colourful facades along Calle La Calzada give the centre a coherent character that many similarly promoted colonial cities have lost.
+
+The Parque Central anchors the city. Street vendors sell vigorón — yuca topped with pork rinds and curtido — wrapped in banana leaves, and horse-drawn carriages still carry passengers through the streets. The lake is close enough to feel present; boat trips to the islets (isletas) just offshore make for a good half-day out.
+
+Granada is small enough to walk in an afternoon and lively enough to reward a couple of nights.

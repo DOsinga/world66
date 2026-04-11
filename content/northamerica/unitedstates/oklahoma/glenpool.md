@@ -1,8 +1,12 @@
 ---
-title: 'Glenpool'
+done:
+  location_cleanup: '2026-04-10'
+latitude: 35.9554
+longitude: -96.0088
+title: Glenpool
 type: location
-latitude: 35.955352
-longitude: -96.008778
 ---
 
-Located in southern Tulsa County, Glenpool is a city of over 8,000 people. An annual May event called **Black Gold Days** celebrates the town's history as the site of the biggest oil strike of its time. Glenpool claims to be "the town that made Tulsa famous."
+Glenpool is a small city of around 12,000 people in southern Tulsa County, Oklahoma. It owes its existence to oil: the Glenn Pool oilfield discovered here in 1905 was one of the richest strikes of its era and played a significant role in funding the early growth of Tulsa, earning the town its unofficial motto as "the city that made Tulsa famous."
+
+Each May the town marks this history with **Black Gold Days**, a festival celebrating the oil boom era. Glenpool sits just south of Tulsa and is primarily a residential community, but its oil history gives it a distinctive identity in the region.

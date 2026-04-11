@@ -1,16 +1,19 @@
 ---
-title: "Montserrat"
+done:
+  country_cleanup: 2026-03-29
+  location_cleanup: '2026-04-08'
+image: montserrat.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Mattes" title="User:Mattes">User:Mattes</a>
+image_license: CC BY 2.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Montserrat_—_Beach_with_footprints.JPG
+latitude: 16.7425
+longitude: -62.1874
+title: Montserrat
 type: location
 ---
 
-A small volcanic island, originally settled by Irish immigrants fleeing persecution, Montserrat is off the beaten Caribbean track. Its size is tiny (39 square miles). It has beautiful beaches, hills, forests, rivers and waterfalls. It's known as the 'Emerald Isle of the Caribbean' and is the only west indian island that has St.Patrick's day as a national holiday. Hiking, nature watching and climbing are favourite ways to spend the day on the island. It is a British Overseas Territory. 
+Montserrat is a small British Overseas Territory in the Lesser Antilles, roughly 40 kilometres southwest of Antigua. It is one of the most unusual islands in the Caribbean — not because of beaches or resorts, but because of a volcano that changed everything.
 
+In 1995, the Soufrière Hills volcano in the south of the island erupted after centuries of dormancy. The eruptions intensified in 1997, burying the Georgian capital Plymouth in ash and pyroclastic debris and forcing the evacuation of two-thirds of the island's population. Plymouth remains abandoned today, an eerie parallel to Pompeii. The volcano has been relatively quiet since 2010 but continues to be monitored around the clock.
 
-
-A big volcano eruption which started in 1998 has disrupted life on the island in a dramatic way. The capital Plymouth is covered by ash and pyroclastic flows and completely devastated. Access to more than half of the island is prohibited. The latest major explosion occurred in July 2004 when the island was again covered by ashes. The activity of the volcano is monitored by the Montserrat Volcano Observatory. Further information about the volcano can be found on www.mvo.ms 
-
-
-
-Because of the eruption the population has dropped from about 11,000 to 4,500. However, life in the northern part of Montserrat is again flourishing. No casualties have occurred outside the closed zone. The island can be reached by sea from Antigua. The airport was destroyed by the eruptions but there is also a helicopter service from Antigua. Small numbers of tourists have again found their way to the Emerald Isle.
-
-Minor corrections on 13 January 05
+What remains is a small, safe island of about 5,000 people in the northern zone, with functioning towns, good hiking, clear water, and a population that has rebuilt its life with remarkable resilience. The island is nicknamed the Emerald Isle of the Caribbean — both for its lush hills and for the strong Irish heritage dating back to 17th-century settlers. Visitors who come looking for a typical Caribbean resort will be puzzled. Visitors who come curious about the volcano, the buried city, or the quiet Caribbean as it used to be will find it rewarding.

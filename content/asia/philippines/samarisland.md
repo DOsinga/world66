@@ -1,22 +1,16 @@
 ---
-title: "Samar Island"
+done:
+  location_cleanup: 2026-04-04
+latitude: 11.7886
+longitude: 124.96
+title: Samar Island
 type: location
-latitude: 11.798222
-longitude: 125.169042
 ---
 
-Travel Guide
+Samar is the third-largest island in the Philippines and one of its least-visited, which is exactly the point. Connected to Leyte by the San Juanico Bridge, the island is split into three provinces -- Western Samar, Eastern Samar, and Northern Samar -- and offers raw, unpolished natural beauty: waterfalls, caves, surf breaks, and long stretches of coastline with barely a tourist in sight.
 
-We currently have no information about Samar Island.
+[Calbayog](/asia/philippines/samarisland/calbayog) on the western coast is the island's largest city and a good base for exploring. It is known as the "City of Waterfalls" for good reason -- Bangon-Bugtong Falls, Pan-as Falls, and Tabokno Falls are all within striking distance. Caves like Guinogo-an and Danao add underground adventure, while Malajog Beach offers the best swimming near town. The Mawacat natural water slide is a highlight for families.
 
-If you do know any general information about Samar Island, please [Edit this article].
+[Borongan](/asia/philippines/samarisland/borongan), the capital of Eastern Samar, has fine grey-sand beaches at Cabong and Rawis, and the eastern coast faces Pacific swells that draw a small but dedicated surfing community. Getting around the island requires patience -- roads vary in quality and jeepneys and habal-habals (modified motorcycles) are the main transport options. The main language is Waray-Waray, though Tagalog and English are widely understood.
 
-If you know any hotels in Samar Island or restaurants in Samar Island, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/philippines/samarisland)
-
-The Phillipine archipelago comprises over 7,000 islands and Samar is the third-largest one, connected to Leyte_island on the southwestern side and bordering on the Pacific Ocean on the eastern side. The island has beautiful beaches, hot springs and an impressive natural park.
-
-The Sohoton Natural Bridge National Park is located in the southern tip of the province and was founded to preserve the caves and rainforest. Near Gandara, one can visit the Blanca Aurora Waterfalls. The capital Catarman is the largest of the 25 towns on the islands.
-
-## Destinations in Samar island
-
-[Calbayog](/asia/philippines/samarisland/calbayog)
+The wet season runs from November to January, with drier conditions from March to September. Samar took a devastating hit from Typhoon Haiyan in 2013 and has rebuilt steadily since. The island rewards the adventurous traveler willing to go off the beaten path.

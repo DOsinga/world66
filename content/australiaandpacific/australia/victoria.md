@@ -1,24 +1,16 @@
 ---
-title: "Victoria"
+done:
+  location_cleanup: 2026-04-04
+latitude: -37.4713
+longitude: 144.7852
+title: Victoria
 type: location
-latitude: -36.59861
-longitude: 144.678005
 ---
 
-Victoria is Australia's smallest mainland state and its most densely populated. The Gold Rush of the 1850s made it fabulously wealthy for a generation, and that wealth built [Melbourne](/australiaandpacific/australia/victoria/melbourne) — the elegant, European-feeling city that still considers itself the country's cultural capital, to the mild irritation of Sydney.
+Victoria is Australia's smallest mainland state, but it packs more variety into its compact frame than anywhere else on the continent. From the cosmopolitan laneways of [Melbourne](/australiaandpacific/australia/victoria/melbourne) to the wild surf beaches of the Great Ocean Road, from gold rush towns frozen in the 1850s to snow-capped alpine peaks, you could spend months here and still find surprises around the next bend.
 
-Melbourne is the reason to come. The city has excellent restaurants, a serious coffee culture, the National Gallery of Victoria, a tram network that works, and a genuine street life that most Australian cities lack. It's also the sporting capital of the country: the AFL Grand Final, the Melbourne Cup, the Australian Open, and the Formula 1 Grand Prix all happen here. The markets (Queen Victoria Market, the Prahran Market) are outstanding.
+The state was built on gold. When prospectors struck it rich at [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo) in the 1850s, hopeful immigrants flooded in from every corner of the world. That wealth still shows in the grand Victorian architecture lining country town main streets, and in Melbourne's confident cultural swagger. The capital claims the title of Australia's cultural heart, and with its festival calendar, restaurant scene, and obsessive sporting culture, the claim has merit.
 
-The **Great Ocean Road** runs west of Melbourne for 243 km along one of the world's most dramatic coastlines. The Twelve Apostles — limestone stacks rising from the Southern Ocean — are the famous landmark, but the drive itself is the point. Koalas are reliably spotted in the roadside trees near Kennett River. Allow at least two days.
+Beyond Melbourne, the Great Ocean Road is the headline act. This coastal drive delivers jaw-dropping scenery, from the Twelve Apostles to the surf breaks at Bells Beach. But Victoria's interior rewards exploration too. The Victorian Alps in the northeast offer Australia's best skiing in winter and superb bushwalking in summer. The Grampians rise dramatically from the western plains, packed with Aboriginal rock art and wildflowers. The Murray River towns of [Echuca](/australiaandpacific/australia/victoria/echuca) and [Cobram](/australiaandpacific/australia/victoria/cobram) provide lazy riverside escapes, and the Mornington Peninsula and Yarra Valley wine regions are within easy day-trip range of Melbourne.
 
-The **Yarra Valley**, an hour east of Melbourne, has good wineries, the Healesville Sanctuary (native wildlife), and pleasant driving through orchard and vineyard country. The **Mornington Peninsula** offers ocean beaches, hot springs at Peninsula Hot Springs, and more wineries. Both make easy day trips from the city.
-
-The **Victorian Alps** in the northeast have ski resorts (Falls Creek, Mount Buller, Hotham) that operate June to September. In summer, the high country turns into excellent hiking and mountain biking terrain. The Bogong High Plains are beautiful and little visited.
-
-Gold country — **Ballarat** and **Bendigo** — is a couple of hours from Melbourne and retains the ornate Victorian architecture of its prosperous past. Sovereign Hill in Ballarat is an outdoor museum of a 1850s goldfield; it's well done and genuinely interesting.
-
-## Destinations in Victoria
-
-[Melbourne](/australiaandpacific/australia/victoria/melbourne)
-[Ballarat](/australiaandpacific/australia/victoria/ballarat)
-[Bendigo](/australiaandpacific/australia/victoria/bendigo)
+Victorians are a friendly bunch, less brash than their Sydney counterparts and proud of their liveable state. If you can only visit one part of Australia outside Sydney, make it Victoria.

@@ -1,10 +1,12 @@
 ---
-title: "Kidal"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 19.802089
 longitude: 0.725313
+title: Kidal
+type: location
 ---
 
-Kidal is the least developed of the regions of Mali - it is the poorest and least populated, comprised entirely of Sahara desert. There are no paved roads.
+Kidal is the most remote of [Mali](/africa/mali)'s regions, a vast stretch of Sahara desert in the far northeast with almost no infrastructure. There are no paved roads, and the sparse population is primarily Tamashek (Tuareg), who have historically had a tense relationship with the government in Bamako.
 
-The people are primarily Tamashek (Touareg).
+The region has been at the center of multiple Tuareg rebellions and was occupied by armed groups in 2012. Since then, travel to Kidal has been essentially impossible for foreigners. The security situation remains volatile, and no government services function reliably this far north. If the situation ever stabilizes, the landscape itself is striking — rocky desert plateaus, sand dunes, and the Adrar des Ifoghas mountains — but for now this is a place to read about rather than visit.

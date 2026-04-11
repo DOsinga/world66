@@ -1,8 +1,7 @@
 ---
 title: "Albert Cuypmarkt"
 type: poi
-tags:
-  - city_walks
+category: Market
 latitude: 52.355233
 longitude: 4.891779
 ---

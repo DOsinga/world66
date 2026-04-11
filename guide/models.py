@@ -141,8 +141,8 @@ class Page:
                     nav_pages.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
-                else:
-                    locations.append(page)
+                elif page.page_type == "walk":
+                    pass  # walks surface via city_walks section, not as locations
 
             elif entry.is_dir():
                 child = load_page(self.path + "/" + entry.name)

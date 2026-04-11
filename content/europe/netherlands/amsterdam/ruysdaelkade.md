@@ -1,8 +1,7 @@
 ---
 title: "Ruysdaelkade"
 type: poi
-tags:
-  - city_walks
+category: Canal
 latitude: 52.352888
 longitude: 4.886909
 ---

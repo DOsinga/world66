@@ -1,8 +1,7 @@
 ---
 title: "Heineken Experience"
 type: poi
-tags:
-  - city_walks
+category: Museum
 latitude: 52.357840
 longitude: 4.891784
 ---

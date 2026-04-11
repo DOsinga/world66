@@ -1,8 +1,7 @@
 ---
 title: "Sarphatipark"
 type: poi
-tags:
-  - city_walks
+category: Park
 latitude: 52.354375
 longitude: 4.896388
 ---

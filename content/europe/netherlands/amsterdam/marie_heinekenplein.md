@@ -1,8 +1,7 @@
 ---
 title: "Marie Heinekenplein"
 type: poi
-tags:
-  - city_walks
+category: Square
 latitude: 52.357112
 longitude: 4.891547
 ---

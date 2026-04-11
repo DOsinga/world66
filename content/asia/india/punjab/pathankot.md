@@ -1,8 +1,12 @@
 ---
-title: "Pathankot"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 32.3022
+longitude: 75.6589
+title: Pathankot
 type: location
-latitude: 32.30219
-longitude: 75.658941
 ---
 
-Pathankot is a travel hub in Northern India. It is connected by rail and road and situated in the picturesque foothills of [Kangra](/asia/india/himachalpradesh/kangra) and [Dalhousie](/asia/india/himachalpradesh/dalhousie) near river Chakki is an important link city for going to [Jammu and Kashmir](/asia/india/jammuandkashmir), Dalhousie, Chamba, Kangra and the deep Himalayas. It is surrounded by picturesque spots; Shahpur Kandi with a hanging rest house, Madhopur Headworks which date
+Pathankot is a transport junction in northern Punjab, the gateway to the hill stations and mountain valleys of Himachal Pradesh and [Jammu and Kashmir](/asia/india/jammuandkashmir). Most travellers pass through rather than linger, but it serves as a useful staging point for journeys to [Dalhousie](/asia/india/himachalpradesh/dalhousie), [Kangra](/asia/india/himachalpradesh/kangra), Chamba, and the deeper Himalayas.
+
+The town sits in the foothills where the Punjab plains meet the Shivalik Hills, near the Chakki River. Shahpur Kandi, a few kilometres out, has a fort with views over the river valley, and the Madhopur Headworks — a colonial-era barrage on the Ravi — makes for a pleasant excursion. But Pathankot's real value to the traveller is as a railway and road hub connecting the plains with the mountains.

@@ -1,13 +1,16 @@
 ---
-title: "Vorokhta"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 48.293
+longitude: 24.5636
+title: Vorokhta
 type: location
-latitude: 48.292983
-longitude: 24.563579
 ---
 
-Travel Guide
+Vorokhta is a small mountain resort town in the Ukrainian Carpathians, strung along the Prut River at around 850 metres above sea level. It is best known as the closest town to Mt. Hoverla, the highest peak in Ukraine at 2061 metres, and draws hikers and skiers from across the country.
 
-**Vorokhta** is a small town in the Ukrainian Carpathian Mountains on the Prut River. It is a popular tourist resort.
-Town is surrounded by mountains with coniferous and beech forests and in summer it is very nice place for walking.
-**Wooden church**, built in the 18th century, is beautiful example of local architecture.
-**Mt. Hoverla: **This is the tallest mountain of Ukraine, and this is THE town closest to the mountain, despite what maps might say. President Yushchenko climbed the mountain during his successful campaign. Part of his platform was cleaning up Ukraine, and he wanted to clean up the trail on Mt. Hoverla. The trail on Mt. Hoverla is EXTREMELY steep, and it is better to located guide. There is deep snow at the top even in summer. Find a homestay in Vorokhta, there are no real viable hotels. People are friendly and curious, but watch for the occassional two-bit thied - nothing dangerous however. The countryside is beautiful and idyllic. There is skiing in the winter.
+The town itself is modest — a few streets lined with wooden houses, homestays, and the smell of pine — but the setting is extraordinary. Coniferous and beech forests press in from every side, and the surrounding ridges offer serious hiking in summer and cross-country and downhill skiing in winter. The pace is slow, the people are curious and welcoming, and there is very little in the way of commercial tourism. That is the point.
+
+Vorokhta also has a striking 18th-century wooden church that is one of the finest examples of Hutsul religious architecture in the region. The Hutsuls — the highlander people of the Ukrainian Carpathians — have a rich craft tradition, and the surrounding villages are a good place to find embroidery, woodcarving, and painted Easter eggs.
+
+In winter the town fills with Ukrainian families on ski holidays. In summer it fills with hikers preparing for or recovering from Hoverla. Both seasons work well.

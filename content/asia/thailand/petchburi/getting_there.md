@@ -3,16 +3,10 @@ title: "Getting There"
 type: section
 ---
 
-** By Bus from Bangkok:
-**
+Phetchaburi is about 120km southwest of Bangkok, an easy two to two-and-a-half hour trip by road.
 
-There
-are several buses leaving regularly from the Southern Bus Terminal in Thonburi on the new road, or on the old road (via
-Ratchaburi and Nakhon Pathom). The
-bus takes about 2 to 2 1/2 hours to reach the destination. Contact 0 2435
-1199-200 or Phetchaburi Tour, Tel: 0 2435 7408 for more details.
+**By bus:** Regular services leave from Bangkok's Southern Bus Terminal (Sai Tai Mai) in Thonburi. The ride takes around two hours.
 
-** By Car from Bangkok:
-**
+**By car:** Take Highway 35 (Thonburi-Pak Tho) through Samut Sakhon and Samut Songkhram, then Highway 4 south to Phetchaburi. The total distance is about 123km. You can also drive via Nakhon Pathom and Ratchaburi.
 
-Drive along Highway No. 35 (Thon Buri-Pak Tho) passing Samut Sakhon and Samut Songkhram Provinces and then take Highway No. 4 to Phetchaburi Province . The total distance is 123 kilometers. Alternatively, it is possible to travel via Nakhon Pathom and Ratchaburi Provinces.
+**By train:** Phetchaburi is on the southern railway line from Bangkok's Hua Lamphong station. Trains are slower than the bus but the route is scenic.

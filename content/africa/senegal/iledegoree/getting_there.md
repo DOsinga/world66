@@ -3,8 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-At least ten departures per day from Dakar harbour by boat.
+The ferry from [Dakar](/africa/senegal/dakar) is the only way onto the island. Boats depart from the port terminal near Place de l'Indépendance, and the crossing takes around 20 minutes. Ferries run throughout the day, roughly every hour, with around ten departures daily.
 
-We currently have no Getting There listed in Ile de goree.
+Avoid the midday crossing if you can — the heat on the island is brutal between about 11am and 3pm, and the boats tend to be more crowded. Early morning or late afternoon is far more pleasant.
 
-If you do know any Getting There in Ile de goree, please [Add].
+The return ferry runs until early evening; don't cut it too fine if you're planning to be back in Dakar for dinner.

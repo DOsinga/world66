@@ -1,53 +1,22 @@
 ---
-title: "Gran Canaria"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 27.9202
+longitude: -15.5474
+title: Gran Canaria
 type: location
-latitude: 27.958
-longitude: -15.606231
 ---
 
-Gran Canaria assembles in an almost perfect circle of 1,532 square
-kilometers (597 square miles) a little of everything found on the other
-Canary Islands, in addition to holiday attractions that combine vast
-beaches and natural physical diversity. This astonishing variety has
-turned it into the vacation destination of various millions of visitors
-a year who seek to enjoy not only the sun and the sea, but also the
-beautiful countryside, the culture, and the excellent tourist
-facilities.
+Gran Canaria packs an unlikely amount of variety into 1,532 square kilometres: volcanic peaks, deep ravines, fertile valleys, and a southern coastline dominated by one of Europe's most famous beach resorts. The island is roughly circular, which means the interior mountains intercept northern clouds and keep the south perpetually sunny — you can swim in January.
 
-Approximately 50 of the 236 kilometers of coastline are occupied
-by diverse beaches. Maspalomas, with 250 hectares (618 acres) of dunes
-by the sea, is unquestionably the focal point. In addition to this calm
-sandy shore, Gran Canaria also has abrupt wild areas with secluded
-unspoiled spots, such as Güigüí, or rockscapes that push headlong
-hundreds of feet towards the sea, such as the cliffs of Andén Verde.
+Roughly 50 of the 236 kilometres of coastline are beaches. The south is the most visited stretch: Maspalomas, Playa del Inglés, and San Agustín run together into a continuous resort belt anchored by the Maspalomas dunes — 250 hectares of sand that spill down to the sea like a miniature Sahara. Puerto Rico and Mogán are smaller and quieter, both built around marinas and good for water sports.
 
-Most of the beaches are found on the southern end of the
-island, where the climate is sunny and dry. Whereas the mountains in
-the interior retain the clouds coming from the north, the south has
-clear skies all year long, and sunbathing and swimming are possible in
-winter as well as in summer. Some of the best beaches in this area are
-near tourist complexes of different sizes, offering the amenities of a
-large city in some cases, or the quiet of a small village in others, or
-the possibility of practicing water sports.
+Beyond the resorts the landscape changes quickly. The GC-60 road climbs into the interior through terraced hillsides and pine forests to Roque Nublo, a basalt monolith at 1,813 metres that is the most recognisable landmark on the island. The market town of Tejeda sits below it, surrounded by almond orchards that flower white every February. On the northwest coast, Agaete is a genuine working town with a small port and a valley famous for growing the only commercial coffee in Europe.
 
-San Agustín and the Playa del Inglés, together with Maspalomas,
-make up one of the most important tourist complexes in Spain with a
-large variety of hotels, apartments, shops, restaurants, bars, and
-entertainment. The three resorts share what is possibly the most
-well-known beach of the archipelago; eight kilometers (5 miles) long
-and up to two meters wide formed by dunes and an oasis of palm trees,
-an authentic mini-desert by the sea Puerto Rico and Mogán are two
-smaller resorts devoted to the practice of water sports, each with its
-own boating marina. Puerto Rico has a quiet beach around which it is
-possible to enjoy a wide assortment of activities, including boat
-trips, windsurfing, deep-sea fishing, parachuting into the sea, etc.
-The port of Mogán is an attractive enclave of traditional architecture
-located in a fishing village. Its flower-adorned streets open onto a
-harbor where hundreds of boats are docked and excellent fresh fish is
-plentiful.
+Las Palmas de Gran Canaria, the island's capital in the north, is a proper city of around 400,000 people. The old quarter of Vegueta — where Columbus stayed before his first Atlantic crossing — has cobbled streets, colonial mansions, and the excellent Museo Canario. The city beach, Las Canteras, is a long urban strand backed by a promenade rather than a hotel strip.
 
 ## Destinations in Gran Canaria
 
 [Las Palmas](/europe/spain/canaryislands/grancanaria/las_palmas)
 [Maspalomas](/europe/spain/canaryislands/grancanaria/maspalomas)
-[Playa del Ingles](/europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles)
+[Agaete](/europe/spain/canaryislands/grancanaria/agaete)

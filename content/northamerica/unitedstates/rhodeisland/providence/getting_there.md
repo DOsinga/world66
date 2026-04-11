@@ -1,9 +1,12 @@
 ---
-title: "Getting There in Providence"
+title: "Getting There"
 type: section
 ---
 
-Providence travel is easy with several airline carriers providing service to and from T.F. Green Airport. Southwest Airlines, which offers low budget fares, flies to and from Providence from over 40 cities nationwide. For fares and scheduling, go to their website at southwest.com. Other airlines servicing Providence are American, Air Canada, Continental, Delta, Northwest, United, and US Airways. Amtrak offers rail service to Providence and the city has a train station at 100 Gaspee Street. If you decide to go the bus route, book your trip with Greyhound. The bus station is on Kennedy Plaza. Go to greyhound.com for directions.
+Providence is well-connected by both rail and air.
 
-**Contributors**
-May 12, 2009
+**By train:** Amtrak's Northeast Regional and Acela stop at Providence Station, 100 Gaspee Street, a short walk from downtown. Boston is 45 minutes away; New York Penn Station is about 3 hours. The train is usually the most convenient option from either city.
+
+**By air:** T.F. Green Airport (PVD) in Warwick, about 10 miles south of downtown, handles most flights into the area. It's smaller and easier than Boston Logan for many routes. A taxi or rideshare from the airport to downtown takes 20–25 minutes; the MBTA commuter rail also connects the airport to Providence Station.
+
+**By bus:** Peter Pan and Greyhound serve Providence from New York, Boston, and other New England cities. The bus stop is at Kennedy Plaza downtown.

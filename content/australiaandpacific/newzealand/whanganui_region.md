@@ -1,21 +1,14 @@
 ---
-title: "Manawatu-Whanganui Region"
+title: Manawatu-Whanganui Region
 type: location
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The **Manawatu-Whanganui Region**, or *Manawatu-Wanganui Region*, is named for *Whanganui* and *Manawatu River.*
+The Manawatu-Whanganui region stretches across the lower half of the North Island's west coast, a broad swath of farmland, river valleys, and volcanic country that most tourists drive straight through. That is a mistake. The landscape here is shaped by two powerful rivers, and the towns along them have a quiet, unpretentious character that rewards anyone willing to slow down.
 
-The alternative spelling if the name are just one aspect of the Maori cultural revival that is centred in this part of New Zealand.
+The Whanganui River — New Zealand's longest navigable river — winds through deep bush-clad gorges from the volcanic plateau to the sea. For centuries it was the only route into the interior, and the river towns still carry that sense of remoteness. The city of [Wanganui](/australiaandpacific/newzealand/whanganui_region/wanganui) sits at its mouth, a compact, arts-minded place with more heritage architecture than you would expect.
 
-The *Whanganui* (or *Wanganui*) *River* is, unlike most
-[New Zealand](/australiaandpacific/newzealand) rivers is navigable from the sea to its upper reaches. For many years the river was the only transport route to the inland communities and farms.
+To the north, [New Plymouth](/australiaandpacific/newzealand/whanganui_region/newplymouth) sits beneath the near-perfect cone of Mount Taranaki, gateway to some of the North Island's best surfing and alpine walking. The Manawatu River, meanwhile, cuts a dramatic gorge through the Tararua Range — one of the few places in New Zealand where a river has carved clean through a mountain range.
 
-The city of
-[Wanganui](/australiaandpacific/newzealand/whanganui_region/wanganui) lies at the mouth of the river.The *Manawatu River *is powerful
-enough to cut a gorge through the main mountain range that separtates
-the eastern and western coasts of the North Island, the *Manawatu River* drains both sides of the mountain ranges.
-
-## Destinations in Manawatu-Whanganui Region
-
-[Wanganui](http://www2.world66.com/australiaandpacific/newzealand/whanganui_region/wanganui)
-[New Plymouth](http://www2.world66.com/australiaandpacific/newzealand/whanganui_region/newplymouth)
+The spelling question comes up often: the river, the national park, and the region use "Whanganui" with an 'h', while the city has historically been spelled "Wanganui" without it. Both forms reflect the ongoing Maori cultural revival that runs strong in this part of the country.

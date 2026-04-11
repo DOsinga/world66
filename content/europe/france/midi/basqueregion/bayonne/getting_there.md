@@ -1,17 +1,6 @@
 ---
-title: "Getting There in Bayonne"
+title: "Getting There"
 type: section
-type: "By Air"
 ---
 
-A few suggestions on how to reach Bayonne.
-
-### [Biarritz Airport (BIQ)](/europe/france/midi/basqueregion/bayonne/getting_there/biarritz_airport)
-
-(10km) with companies :
-
-- Air France
-
-- Ryanair
-
-type: By Air
+Bayonne is easy to reach from across France and from Spain. The nearest airport is Biarritz Airport (BIQ), about 10 km south of the city, served by Air France and budget carriers including Ryanair. The TGV connects Bayonne to Paris in about four hours, and there are regular train services to Bordeaux and into the Spanish Basque Country. The A63 motorway runs through, connecting Bordeaux to the Spanish border.

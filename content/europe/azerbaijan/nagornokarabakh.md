@@ -1,8 +1,10 @@
 ---
-title: "Nagorno-Karabakh (Karabakh)"
+title: Nagorno-Karabakh (Karabakh)
 type: location
 latitude: 39.8
 longitude: 46.75
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Karabakh (known in Armenian as Artsakh, in Azerbaijani as Qarabağ) is a mountainous region of Azerbaijan that was the site of one of the post-Soviet era's most prolonged and destructive conflicts. The region was under the control of ethnic Armenian forces from the early 1990s until Azerbaijan reasserted full sovereignty in September 2023. The area — including the former separatist capital Khankendi (Stepanakert) and the historically and culturally significant city of [Shusha](/europe/azerbaijan/nagornokarabakh/shusha) — is now firmly under Azerbaijani administration.

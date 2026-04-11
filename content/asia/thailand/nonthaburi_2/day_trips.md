@@ -1,8 +1,6 @@
 ---
-title: "Day Trips in Nonthaburi"
+title: "Day Trips"
 type: section
 ---
 
-Nonthaburi Province
-Ko Kret Lived by the descendants of the Mon people who have had a permission to install here during the reign of King Krungthonburi, Ko Kret was also the destination of another wave of Mon immigrants in the period of King Rama II.
-Book cheap transfer at Bangkok Suvarnaphumi Airport with a comfortable car and VIP VAN for all NONTHABURI PROVINCE you need at Bangkoklimo.org.online payment is a vailable. www. bangkoklimo.org
+Nonthaburi itself is often visited as a day trip from Bangkok. If you are based here, the most obvious excursion is Ko Kret (see Things to Do), which merits a half-day of its own. Bangkok is 20 km south and reachable in around 45 minutes by Chao Phraya Express Boat.

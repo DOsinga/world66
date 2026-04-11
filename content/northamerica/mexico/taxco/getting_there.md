@@ -3,7 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Other than on conducted tour, or driving, you could bus it. A number of bus companies serve Taxco. From Mexico City, the Premium service costs MXN105, and takes about 150 minutes.
+Most visitors reach Taxco by bus from Mexico City. Several companies run the route from Terminal de Autobuses del Sur (Taxquena), and the journey takes about two and a half to three hours through winding mountain roads. First-class and premium services are comfortable and frequent. Taxco is also a common stop on the route between Mexico City and [Acapulco](/northamerica/mexico/acapulco), roughly halfway between the two.
 
-**Contributors**
-January 12, 2007
+If you are driving, the autopista from Mexico City via Cuernavaca is the fastest route. Taxco has no airport; the nearest commercial airport is in Mexico City.

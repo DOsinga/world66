@@ -1,22 +1,14 @@
 ---
-title: "Ventimiglia"
+title: Ventimiglia
 type: location
-latitude: 43.791762
-longitude: 7.603313
+latitude: 43.7918
+longitude: 7.6033
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The **Ventimiglia** of today is composed of the upper town of medieval origin,
- built on the top of the "Cavo" hill, and of the new lower town in the alluvial plain between the river Roja and the torrent Nervia, where the ancient Ligurian people Intemelii and then the Romans once settled.
- 
+Ventimiglia sits right on the French border, the last Italian town before the Cote d'Azur takes over. It is a place of two halves: a medieval upper town perched on the Cavo hill, all narrow alleys and crumbling stone, and a lower town spread across the plain where the Roja river meets the sea.
 
-The Ventimiglia region is very various from a geographical and a climatical point of view. The valley of the Roja, the only river of the Imperia region
- running nevertheless mostly in France, is characterized by steep and deep gorges rich in woods and small
- lakes, studded with few but picturesque mountain villages; the coast westwards between the mouth of the
- Roja and the French border near Mentone, on the contrary, has a typical mediterranean vegetation and
- offers such an exceptionally mild climate that it favoured in the last century the creation of the
- acclimatization park of Sights. 
- 
+The setting is striking. The Roja valley cuts inland through steep gorges thick with forest and dotted with small mountain villages, while the coast west toward Menton enjoys some of the mildest weather in Liguria. That climate made Ventimiglia famous among 19th-century botanists and aristocrats, who planted exotic gardens along its cliffs.
 
-The extreme western strip of the coast is famous for the presence of the **Balzi Rossi caves**, imposing cliffs sheer to the sea characterized by the
- typical reddish colour where prehistoric man found a shelter for milleniums, leaving many evidences
- of his presence.
+The town's greatest draw is the **Balzi Rossi** — a series of prehistoric caves in towering reddish cliffs that drop straight into the sea near the French border. People sheltered here for tens of thousands of years, and the small museum at the site holds some of the most important Paleolithic finds in Europe. Between the caves, the Hanbury Gardens, and the lively Friday market that draws shoppers from across the border, Ventimiglia rewards a day or two even if you are just passing through on your way between Italy and France.

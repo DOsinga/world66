@@ -1,13 +1,13 @@
 ---
-title: "Sierras de Córdoba"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -31.986439
 longitude: -64.93628
+title: Sierras de Córdoba
+type: location
 ---
 
-Travel Guide
-
-The surroundings of the city of Córdoba are highly recommend for those who have little time to travel and want to experience rough nature and have an adventorous holiday. Many daytrips are possible from the capital, like for example trips to:
+The mountains surrounding the city of [Córdoba](/southamerica/argentina/cordoba) are a popular escape for Argentines looking for fresh air, lakes, and outdoor adventure without travelling far. Many day trips are possible from the capital.
 
 North of Córdoba capital you'll find **Valle de la Punilla**, a valley full of interesting sites and famous amongst Argentineans. Towns like Villa Carlos Paz (on Lago San Roque), La Falda, La Cumbre and Capilla del Monte are very attractive to visit. Capilla del Monte attracts many visitors because of its famous Cerro Uritorco. You can walk to the top and at nighttime maybe experience some UFO's (which some have witnessed here).
 

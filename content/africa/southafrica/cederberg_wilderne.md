@@ -1,24 +1,18 @@
 ---
-title: "Cederberg Wilderness Area"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -32.365037
 longitude: 19.112816
+title: Cederberg Wilderness Area
+type: location
 ---
 
-Travel Guide
+The Cederberg Wilderness Area takes its name from the rare Clanwilliam cedar tree, once nearly extinct and now slowly recovering. It is a vast, rugged mountain landscape of sandstone formations, waterfalls, crystal-clear streams, and some of the richest concentrations of San (Bushman) rock art in the world.
 
-The Cederberg Wilderness Area, which derives its name from the rare and once near-extinct Clanwilliam cedar tree, is a vast area characterised by a rugged and stunning mountain range.
+Southern Africa has the greatest legacy of rock art on earth, and the Cederberg has more paintings per square kilometre than anywhere else in the region. The San and Khoi people lived here for thousands of years, leaving art in caves and overhangs throughout the mountains.
 
-This stark and fascinating landscape with it’s amazing rock formations, waterfalls, crystal clear streams and rock pools, caverns, overhangs, peaks and ravines was once home to the San (“Bushmen”) and Khoi people and there are now many wonderful sites where one can view their unique rock art.
+Wildlife includes klipspringer, grey rhebok, leopard, caracal, bat-eared fox, and baboon. Birders will find sunbirds, sugarbirds, bee-eaters, and raptors including black eagles and jackal buzzards. The area is part of the Cape Floral Kingdom, renowned for its extraordinary plant diversity — it is also home to the rooibos tea plant and many species of fragrant buchu.
 
-Southern Africa probably has the richest legacy of rock art in the world, and the Cederberg has more rock painting per square kilometre than anywhere else in Southern Africa.
+Two hikes stand out. The climb through the Wolfberg Cracks to the Wolfberg Arch is serious but spectacular — the views from the top are worth every step. The walk to the Maltese Cross formation is less strenuous and equally striking. An extensive network of 254 km of unmarked but well-maintained footpaths traverses the area.
 
-Wildlife is prolific and comprises some 30 mammal species such as klipspringer, grey rhebok, steenbok, grysbok, leopard, wild cat, caracal, bat-eared fox and baboon. Bird-watchers are spoilt for choice with sunbirds, orange crested sugarbirds, bee eaters and a number of raptors, including the black eagle, jackal buzzard, black sparrowhawk and rock kestrel filling the skies.
-
-The Cederberg is also a good place to see the vegetation of the Cape Floral Kingdom, world-renowned for its spectacularly high numbers of plant species. The Cederberg is also home to the rooibos tea plant and to many different types of buchu with their fragrant oils.
-
-The natural attributes of the Cederberg are so diverse in form and structure, that any nature lover, hiker or mountaineer will find its opportunities and challenges difficult to exhaust. The area is traversed by a number of dirt top roads and an extensive network (254 km) of unmarked, well maintained, footpaths are laid out.
-
-Two towns Citrusdal and Clanwilliam lie in the foothills of the mountains and are 2-3 hours drive North of Cape Town. Both offer ample accommodation of various types.
-
-Two walks I can recommend in this area are the climb up the Wolfberg Cracks up to the arch as seen in the photo above, this is a serious hike but the splendour experiencecd once you get to the top is well worth it. The other formation worth hiking to is the Maltese cross, this walk is not as strenuous, I walked it with the Late Colin Ingles ex Chief Scout of South Africa when he was 70 years old. This rock formation is truely magnificent.
+The gateway towns of Citrusdal and Clanwilliam lie in the foothills, 2–3 hours north of Cape Town by road. Both offer a range of accommodation.

@@ -1,35 +1,6 @@
 ---
-title: "Eating Out in Brescia"
+title: "Eating Out"
 type: section
-accessibility: "all"
-address: "Via Colle S. Giuseppe 1"
-email: "info@davidedattoli.it"
-phone: "0302004224"
-price: "65"
-type: "Italian"
-url: "www.castellomalvezzi.it"
-latitude: 41.567799
-longitude: 14.054144
 ---
 
-More information about eating out in Brescia coming soon.
-
-### [Castello Malvezzi](/europe/italy/lombardia/brescia/eating_out/castello_malvezzi)
-
-Very good restourant near the city
-
-type: Italian
-
-
-
-accessibility: all
-
-tel: 0302004224
-
-url: [www.castellomalvezzi.it](http://www.castellomalvezzi.it)
-
-address: Via Colle S. Giuseppe 1
-
-PriceOfMenu: 65
-
-email: info@davidedattoli.it
+Brescian cooking is solidly Lombard: casoncelli pasta stuffed with pumpkin or cheese, polenta with game stews, Bagòss cheese from the nearby Val Camonica, and plenty of beef from the Po plain. For a proper sit-down dinner the old streets around Piazza della Loggia are lined with *trattorie* and osterie, and the surrounding **Franciacorta** wine region means every bar worth its salt will have a decent sparkling white by the glass.

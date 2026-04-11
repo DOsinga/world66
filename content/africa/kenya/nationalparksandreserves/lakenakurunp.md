@@ -1,12 +1,14 @@
 ---
-title: "Lake Nakuru N.P."
+done:
+  location_cleanup: '2026-04-08'
+latitude: -0.3667
+longitude: 36.0833
+title: Lake Nakuru National Park
 type: location
 ---
 
-Lake Nakuru is a soda lake south of Nakuru in the Rift Valley. It’s the most visited Lake in Kenya because of the variety of quantity of wildlife. The lake is famous for its flamingos, but you’ll see a lot of mammals too, and your chances of seeing a rhinoceros are better than any other park.
+Lake Nakuru is a shallow soda lake in Kenya's Rift Valley, famous for the vast flocks of flamingos that sometimes line its shores — at peak times, the lake can be ringed in pink. The national park surrounding it is compact but rich in wildlife, and it is one of Kenya's most visited parks.
 
-  You don’t necessarily need your own vehicle to see Lake Nakuru. You can always hire a taxi from Nakuru town to take you to the park and then drive you around for a few hours. Bargain with many drives for a long time, but expect to pay KSh 2000 to the driver, plus all the park fees. There is also a WWF bus that tours the lake every Saturday, taking anyone for a few hundred shillings. I’m not sure where the bus leaves from, so ask around town, maybe at the Midland Hotel.
+Beyond the flamingos, Lake Nakuru is one of the best places in East Africa to see rhinoceros — both black and white rhino are present in the fenced sanctuary. The park also has buffalo, waterbuck, baboon, leopard, and lion. The landscape is a mix of open grassland, acacia woodland, and rocky escarpment along the eastern edge.
 
-  If you want to stay in the park instead of in Nakuru, there are some camp sites as well as nice lodges. The *Backpacker’s Camp Site* and the *Njoro Camp Site* are not far from the Main Gate. They have fresh water and toilets and run about US$15 for a night.
-
-  The *Sarova Lion Hill Lodge* (# (02) 333248) has the usual facilities like a swimming pool, bar and restaurant. Singles/Doubles with full board are US$ 135/165 in the high season and US$ 55/110 in the low season. The *Lake Nakuru Lodge* (# (02) 224998) has the some facilities for almost the exact same prices.
+The park is just south of Nakuru town, about 160 km northwest of Nairobi on the main highway. You do not need your own vehicle — a taxi from Nakuru town can be hired for a few hours to drive you around the park.

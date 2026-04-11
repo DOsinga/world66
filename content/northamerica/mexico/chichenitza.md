@@ -1,10 +1,14 @@
 ---
-title: "Chichen Itza"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 20.682852
 longitude: -88.56872
+title: Chichen Itza
+type: location
 ---
 
-Chichen Itza has the biggest Maya temple in Mexico, second in the world only to the one in [Tikal](/northamerica/guatemala/tikal) in [Guatemala](/northamerica/guatemala) . It is a very impressive sight and even more impressive if you dream away and think about all the rituals that were performed on the top of that temple by Maya priests. 
+Chichen Itza is one of the most dramatic archaeological sites in the Americas — a vast ancient city that served as the political and ceremonial heart of the northern Maya lowlands from roughly 600 to 1200 AD. Its centrepiece, the step pyramid El Castillo, rises 30 metres from the jungle floor and was engineered so precisely that during the spring and autumn equinoxes, shadow and light create the illusion of a serpent descending its northern staircase.
 
-The site is just a few short hours from Akumal. Chichen Itza is one of the largest ancient Mayan cities in the north-central Yucatan. The first large- scale archaeologial investigations began in 1924 and were conducted for 20 years by the Carnegie Institution. Chichen Itza means "opening of the wells of the Itza". Chichen Itza has many elaborate structures, the most impressive being "El Castillo", the Great Ball Court, Temple of the Warriors and The Caracol. Plan to spend the day at this site. Wear your hiking boots and go early in the morning.
+The site covers several square kilometres and includes the Great Ball Court (the largest in Mesoamerica), the Temple of the Warriors, the Platform of Skulls, and the Sacred Cenote — a natural sinkhole where offerings and human sacrifices were cast into the water below. The name itself translates as "at the mouth of the well of the Itza", a reference to these cenotes and the people who built the city.
+
+Arrive early — the site opens at 8am and the heat becomes punishing by mid-morning. Wear sturdy footwear, bring water, and allow at least four hours to do it justice. The ruins at Old Chichen, the older southern section, are not open to the public.

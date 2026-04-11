@@ -1,12 +1,14 @@
 ---
-title: "Sagay City"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 10.896068
 longitude: 123.415462
+title: Sagay City
+type: location
 ---
 
-Travel Guide
+Sagay City occupies the northern tip of Negros Island, facing the Visayan Sea. The city is best known for the Sagay Marine Reserve, a protected area covering about 32,000 hectares that encompasses coral reefs, seagrass beds, and mangroves — one of the better-managed marine protected areas in the Philippines.
 
-Home of the Sinigayan Festival and the Garden CIty of the North...Visit our Sagay Marine Reserve, Museo Sang Bata sa Negros, Sagay City Garden and Living Tree Museom , Vito Church, Legendary Siete, Produkto Sagaynon, Balay Kauswagan, Sinigayan Kahoneros,
+The Siete Pecados (Seven Sins) Marine Park, a cluster of small islands within the reserve, is the most popular snorkelling spot and accessible by bangka from the city. The reserve's coral gardens are in good shape and the fish populations are recovering. The Sagay City Garden and the Museo Sang Bata (children's museum) are minor local attractions.
 
-The 66th city in the Philippines, Sagay straddles a good portion of the Northernmost tip of the island of Negros. Located at the latitude of 10 degrees 53 minutes and 50.52 seconds and longitude of 123 degrees, 24 minutes and 52.75 seconds. It is bounded in the North by Asuncion Pass and Visayan sea; West by Cities of Cadiz and Silay; East by the City of Escalante and Municipality of Toboso; South by the City of Talisay and Municipality of Calatrava. It is approximately 84 kms. from Bacolod City which is the Provincial Capital.
+The Sinigayan Festival, held in August, is the city's main annual celebration. Regular buses run south to Bacolod, the provincial capital, about 84 km away.

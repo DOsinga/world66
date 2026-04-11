@@ -1,8 +1,10 @@
 ---
-title: "Ofu"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -14.184507
 longitude: -169.669072
+title: Ofu
+type: location
 ---
 
 Ofu is part of the Manu'a Island group, about 100 kilometres east of Tutuila and a 30-minute flight on a small plane. It's connected to its twin island Olosega by a short bridge.

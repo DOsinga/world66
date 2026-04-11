@@ -1,8 +1,12 @@
 ---
-title: "Haderslev"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 55.250071
 longitude: 9.499787
+title: Haderslev
+type: location
 ---
 
-Haderslev is one of Denmark's seaports and the reason why you see it is probably because you pass it by train (it's a rail junction). If you happen to get out of the train, there is a church you can visit and the Haderslev Museum, the central archeological museum of Jutland. Beseid that, the surrounding area is good for walks and watching birds.
+Haderslev is a small port town in southern Jutland, sitting at the head of the Haderslev Fjord. Most travellers pass through on the train — it is a rail junction — but if you step off, the town rewards a few hours of wandering.
+
+The cathedral-sized Haderslev Domkirke is the main draw, a Gothic brick church with origins in the 13th century. The Haderslev Museum covers the archaeology of southern Jutland and is worth a visit if you have time. Beyond the town, the fjord and surrounding countryside are good for walks and birdwatching.

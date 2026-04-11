@@ -1,8 +1,10 @@
 ---
-title: 'Vinita'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.640837
 longitude: -95.156363
+title: Vinita
+type: location
 ---
 
 Located on Historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m) in Craig County, Vinita is a city of nearly 6,500 people. The historic downtown has antique shops, specialty stores, and the Hotel Vinita, making it worth a day trip from [Tulsa](/northamerica/unitedstates/oklahoma/tulsa) or Joplin, Missouri.

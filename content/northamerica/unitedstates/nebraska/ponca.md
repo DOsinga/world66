@@ -1,14 +1,12 @@
 ---
-title: "Ponca"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.562528
 longitude: -96.705563
+title: Ponca
+type: location
 ---
 
-Ponca State Park is an ideal place for discovering the Missouri river. Flowing more than 2,300 miles from the Rocky Mountains to the Mississippi, the Missouri River is loaded not only with sediment, but is also steeped in stories about American indians, Lewis and Clark, fur traders, and steamboat captains.
+Ponca is a small town in northeastern Nebraska, best known for Ponca State Park on the bluffs above the Missouri River. The park offers hiking trails through hardwood forest, horseback riding, and excellent views of the Missouri valley — one of the few stretches where the river still flows freely and exhibits its dynamic character of islands, sandbars, and shifting channels.
 
-
- The river's role in the settlement of the Great Plains is celebrated in two free-flowing reaches along the Nebraska-South Dakota border--the Missouri National Recreational River. The reach between Gavins Point Dam near Yankton, South Dakota, to Ponca State Park, NE, still exhibits the river's dynamic character in its islands, bars, and chutes.
-
-
- The reach from Ft. Randall Dam by Pickstown, SD, to the vicinity of [Delaware Water Gap](/northamerica/unitedstates/newjersey/delawarewatergap), SD, represents the natural landscape of the pre-settlement river. These segments also provide habitat for several endangered and threatened bird and fish species. Besides protecting natural and historic features, this National Park System unit offers such activities as boating, fishing, canoeing, camping, birdwatching, and touring of historic sites, thus providing opportunities to pursue outdoor activities within one of America's great historic settings. It is managed by a partnership of local, state, tribal, and federal agencies and private landowners.
+The Missouri National Recreational River, a unit of the National Park System, protects two free-flowing reaches along the Nebraska-South Dakota border. The segment from Gavins Point Dam near Yankton, South Dakota, downstream to Ponca State Park is popular for boating, fishing, canoeing, and birdwatching. The river here provides habitat for several endangered species, including the pallid sturgeon and the piping plover.

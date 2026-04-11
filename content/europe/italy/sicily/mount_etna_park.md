@@ -1,57 +1,14 @@
 ---
-title: 'Mount Etna Park'
+title: "Mount Etna Park"
 type: location
 latitude: 37.7488
 longitude: 14.9669
+done:
+  location_cleanup: 2026-04-08
 ---
 
-The Etna Natural Park is a region in the east side of [Sicily](/europe/italy/sicily) composed by 20 commons all in the province of [Catania](/europe/italy/sicily/catania)
+The Parco dell'Etna is the protected area around Mount Etna, Europe's tallest and most active volcano, rising to over 3,300 metres on the eastern coast of [Sicily](/europe/italy/sicily) above [Catania](/europe/italy/sicily/catania). The park encompasses 20 municipalities and a remarkable range of landscapes — lava deserts, chestnut and pine forests, vineyards on volcanic soil, and the smoking summit craters themselves.
 
-**The commons are:**
-Zafferana
-Viagrande
-Trecastagni
-Sant'Alfio
-Santa
-Maria di
-Licodia
-Randazzo
-Ragalna
-Piedimonte
-Pedara
-Nicolosi
-Milo
-Mascali
-Maletto
-Linguaglossa
-Fiumefreddo
-Castiglione
-di Sicilia
-Bronte
-Biancavilla
-Belpasso
-Adrano
+There are two main approaches for excursions. The south side, from Rifugio Sapienza above Nicolosi, is the most popular route to the summit craters and the Valle del Bove, a vast collapsed valley that looks like something from another planet. The north side, from Piano Provenzana above Linguaglossa, passes through dense forests and is better suited to hikers and trekkers. Both sides have cable cars and off-road vehicles that take you higher if you prefer not to walk.
 
-The main attraction of this natural park is the Volcano Etna, the tallest active volcano of Europe.
-
-The park is a protected area **where it's possible to practice:**
-* Trekking - Hiking
-* Mountain bike
-* Wine tours
-* Cultural sight-seeing
-
-**The main attractions to visit are:**
-* Forest and woods
-* The paths that cross all the volcano
-* The centers of the Etna towns
-
-Generally **tourists visit the Park for excursions**. There 2 different types of excursions to do:
-
-1) The south side (**Rifugio Sapienza - Nicolosi**) to visit the summit craters and the eruptive scenario of the Bove Valley, a lava desert similar to Mars
-
-2) The north side (**Piano Provenzana - Linguaglossa**) to visit the forests and woods...this is very indicated for trekking lovers.
-
-**The other destinations to visit near the Etna Park are:**
-[Acireale](/europe/italy/sicily/acireale)
-[Acitrezza](/europe/italy/sicily/acitrezza)
-[Taormina](/europe/italy/sicily/taormina)
+Beyond the volcano itself, the park is excellent for cycling, wine touring in the Etna DOC vineyards, and exploring the small towns around its base. Nearby destinations worth combining with a visit include [Taormina](/europe/italy/sicily/taormina) and [Acireale](/europe/italy/sicily/acireale).

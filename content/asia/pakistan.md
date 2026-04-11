@@ -1,32 +1,39 @@
 ---
-title: "Pakistan"
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-07'
+image: pakistan.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Usman.pg&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Usman.pg (page does not exist)">Usman.pg</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Moenjodaro(a)_by_Usman_Ghani.jpg
+latitude: 30.3753
+longitude: 69.3451
+title: Pakistan
 type: location
-latitude: 30.33084
-longitude: 71.247499
 ---
 
-Travel Guide
+*Asia > Pakistan*
 
-We currently have no information about Pakistan.
+Pakistan is one of the most dramatic and least understood countries in Asia. It has five of the world's fourteen 8,000-metre peaks, a coastline on the Arabian Sea, the ruins of one of the oldest urban civilizations on earth, and a 5,000-year thread of history running through its cities and plains. Most travelers who make it here come back astonished — both by the landscape and by the welcome.
 
-If you do know any general information about Pakistan, please [Edit this article].
+The country divides roughly into four regions. The **north** — Gilgit-Baltistan and the upper reaches of Khyber Pakhtunkhwa — is high mountain terrain: the Karakoram, the Himalayas, and the Hindu Kush converge here. This is where serious trekkers come, and where the [Karakoram Highway](/asia/pakistan/karakoram_highway) winds through scenery that has no rival in the world. The **northwest**, centered on [Peshawar](/asia/pakistan/peshawar) and the Khyber Pass, is the historic gateway between Central Asia and the Indian subcontinent, and remains the most traditional part of the country. The **Punjab heartland** — flat, fertile, densely populated — is where you'll find [Lahore](/asia/pakistan/lahore) and most of the great Mughal monuments. The **south** is dominated by Sindh and Balochistan: the archaeological wonders of [Moenjodaro](/asia/pakistan/moenjodaro) and [Harappa](/asia/pakistan/harappa), the chaotic megacity of [Karachi](/asia/pakistan/karachi), and vast arid landscapes.
 
-If you know any hotels in Pakistan or restaurants in Pakistan, please [[Add].](/destinations/addItemWizard?addwhere=asia/pakistan)
+Traveling here requires some preparation and awareness of the security situation, but the rewards are real: extraordinary food, almost no crowds at world-class sites, and a culture of hospitality that can feel overwhelming in the best way.
 
-Pakistan is an almost undiscovered touristic treasure. This does not mean you can explore it on your own. There will be many Pakistani's watching over your shoulder to share the experience, for Pakistan has one of the fastest growing population in the world. 
+## Destinations
 
-
-
-
-
-The Islamic Republic of Pakistan extends along either side of the historic Indus River, following its course from the mountain valleys of the Himalayas down to the Arabian Sea. Bordering on [India](/asia/india) , [China](/asia/china) , [Afghanistan](/asia/afghanistan) and [Iran](/asia/iran) , it is strategically located astride the ancient trade routes between Asia and Europe. 
-
-Pakistan has a lot to offer to the exploring traveler. In the south you'll find beautiful beaches, lagoons and mangrove forests. The high uprising peaks of the Himalayan, the Karakorams and the Hindu Kush mountain ranges dominate the north, with the K2 (8611 m.) as a final challenge to alpinists. Without doubt this is one of the most beautiful mountain regions in the world. The *Karakoram Highway* which runs over the over the [Khunjerab pass](/asia/china/xinjiangprovince/khunjerabpass) and leads from [Islamabad](/asia/pakistan/islamabad) via [Gilgit](/asia/pakistan/gilgit) , [Hunza valley](/asia/pakistan/hunzavalley) and [Passu](/asia/pakistan/passu) to [Kashgar](/asia/china/xinjiangprovince/kashgar) in [China](/asia/china) is an unforgetable way to see this region. The nearby Valleys of [Chitral](/asia/pakistan/chitral) , [Swat](/asia/pakistan/swat) and [Skardu](/asia/pakistan/skardu) are extremely beautiful as well. Landscapes in the north range from Swiss style mountain scenery to what you can expect to see on the moon. 
-
-Between the mountains in the North and the sandy beaches in the South, there are all sorts of landscapes from harsh deserts and green valleys to fertile plains and desolate plateaus. 
-
-But it’s not just natures wonders to be see here. Though Pakistan as a country is relatively new, it’s really the birthplace of mankind. Fossils of Homo sapiens found in the area date back 50,000 years. Pakistan has ruins of the most ancient civilization of the planet and has cities that have been full of life for centuries now, and have the monuments to show for it. Most interesting city of all is the capital [Islamabad](/asia/pakistan/islamabad) , but [Peshawar](/asia/pakistan/peshawar) or [Quetta](/asia/pakistan/quetta) are also well worth your visit, and then there's the city of contrasts [Karachi](/asia/pakistan/karachi) , also called the city of lights or [Lahore](/asia/pakistan/lahore) , the city best known for its beautiful gardens, were the national flower, Jasmine, grows abundantly that should not be missed either. 
-
-
-
-Right now World66.com does not have a Pakistan editor. If you are interested click here
+- [Islamabad](/asia/pakistan/islamabad) — the planned capital, leafy and relatively relaxed
+- [Lahore](/asia/pakistan/lahore) — the cultural heart: Mughal architecture, bazaars, extraordinary food
+- [Karachi](/asia/pakistan/karachi) — Pakistan's largest city and economic engine
+- [Peshawar](/asia/pakistan/peshawar) — ancient city near the Afghan border, Pashtun culture
+- [Rawalpindi](/asia/pakistan/rawalpindi) — twin city of Islamabad, older and busier
+- [Multan](/asia/pakistan/multan) — "City of Saints," famous for Sufi shrines
+- [Quetta](/asia/pakistan/quetta) — gateway to Balochistan, near the Iranian border
+- [Gilgit](/asia/pakistan/gilgit) — hub for northern trekking
+- [Hunza Valley](/asia/pakistan/hunzavalley) — stunning mountain valley with ancient forts
+- [Skardu](/asia/pakistan/skardu) — base for K2 expeditions
+- [Swat](/asia/pakistan/swat) — green valley once called "Switzerland of Pakistan"
+- [Chitral](/asia/pakistan/chitral) — isolated valley near Hindu Kush, home of the Kalash people
+- [Taxila](/asia/pakistan/taxila) — UNESCO-listed Buddhist archaeological site
+- [Hyderabad](/asia/pakistan/hyderabad) — second city of Sindh

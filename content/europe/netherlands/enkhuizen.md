@@ -1,11 +1,12 @@
 ---
-title: "Enkhuizen"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.75772
 longitude: 5.320694
+title: Enkhuizen
+type: location
 ---
 
-Enkhuizen is a very nice town on the shores of the Ijsselmeer. It is a good place to go if you consider sailing on one of the old big brown sailing boats used in earlier days. The center is preety and the Zuiderzee museum, open air museum with old houses and traditional trades, is nice to visit. Near the harbour you will find the big monument of the town, the Dromedaris, a big old lighthouse.
+Enkhuizen is a handsome old town on the Ijsselmeer (the former Zuiderzee), about an hour from Amsterdam by train via [Hoorn](/europe/netherlands/hoorn). Once one of the most powerful trading cities in the Dutch Golden Age — at its peak in the 17th century it was a major base for the VOC — it is now a quiet, well-preserved harbour town that rewards an easy day trip.
 
-
- You can go to Enkhuizen by train from Amsterdam. The trip takes about an hour and passes by Hoorn.
+The Zuiderzee Museum is the main attraction: a large open-air museum spread along the waterfront with authentic old buildings, traditional crafts, and demonstrations of how life looked in the fishing communities of the former inland sea. Near the harbour, the Dromedaris — a fortified tower that once guarded the harbour entrance — is one of the town's landmarks. Enkhuizen is also a good base for sailing on traditional brown-sailed vessels that still operate on the Ijsselmeer.

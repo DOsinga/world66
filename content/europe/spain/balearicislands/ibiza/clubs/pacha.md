@@ -1,15 +1,11 @@
 ---
 title: "Pacha"
-type: location
-latitude: 38.918441
-longitude: 1.443315
+type: poi
+category: "Nightclub"
+latitude: 38.9177
+longitude: 1.4392
+address: "Av. 8 de Agosto, Ibiza Town"
+tel: "+34 971 313 600"
 ---
 
-Even more exclusive than El Divino is Pacha (Av. Ocho de Agosto). The abundant mixture of African and Mediterranean influences
- give it the 'chic' that it is known for and, therefore, its distinctive character. Pacha refuses to go along with the British invasion and stays tuned and focused on Speed Garage, that is, American house music influenced by soul. This is the main reason why the public bears such a diverse and international character. At the moment, Pacha has seven clubs world-wide, each one of them being located at an exclusive and unexpected location. Pacha is the most
- important and most imitated club on the island. Despite this, it has been able to maintain its exclusivity.
- 
-
-address: Abadordo 330, Ibiza Town
-
-tel: +34/971191000
+The most iconic club on the island and the most imitated. Pacha has a warmth and character that its imitators never quite manage — something in the mix of Mediterranean and African influences that gives it a chic edge without feeling cold. Unlike many clubs on the island, it stays focused on house music with soulful roots, which keeps its crowd genuinely diverse and international. Today Pacha has venues worldwide, but the Ibiza original remains the one that counts.

@@ -1,14 +1,16 @@
 ---
-title: 'Preston'
+title: Preston
 type: location
 latitude: 53.759336
 longitude: -2.699272
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Preston lies on the River Ribble in Central Lancashire and was granted city status in 2002 as part of Queen Elizabeth II's Golden Jubilee celebrations. It is one of the newer cities in England, though its history stretches back centuries -- the name derives from "Priest's Town" and it played a role in both the English Civil War and the Jacobite risings.
+Preston sits on the River Ribble in central Lancashire and received city status in 2002 as part of Queen Elizabeth's Golden Jubilee celebrations — one of England's newest cities, though its history stretches back considerably further. The name derives from "Priest's Town" and the city played a role in both the English Civil War and the Jacobite risings.
 
-The city centre has undergone significant redevelopment in recent years, with a mix of Victorian architecture and modern buildings. The Harris Museum, Art Gallery and Library on the Market Square is a fine neoclassical building housing impressive collections of fine and decorative art. The Ribble Steam Railway on the docks offers a nostalgic trip into Lancashire's industrial past.
+The city centre mixes Victorian architecture with modern development. The standout building is the Harris Museum, Art Gallery and Library on the Market Square — a grand neoclassical structure housing solid collections of fine and decorative art, and free to enter. The Ribble Steam Railway at the docks runs preserved steam trains along the former dock branch line, a satisfying afternoon for anyone interested in Lancashire's industrial past.
 
-Preston's multi-ethnic population, particularly its large South Asian community centred around the Deepdale area, gives the city a diverse dining scene with excellent Indian and Pakistani restaurants. The city also celebrates its heritage through the Preston Guild, a festival held every twenty years since 1179, making it one of the oldest traditions in England.
+Preston has a large South Asian community, particularly around the Deepdale area, which makes for an excellent and well-priced Indian and Pakistani dining scene. The Preston Guild is worth knowing about if you're planning ahead: a festival held every twenty years since 1179, it's one of the oldest civic traditions in England. The next one is in 2032.
 
-From Preston it is a short journey to the [Lake District](/europe/unitedkingdom/england/manchester_liverp/lakedistrict), the Yorkshire Dales, and the seaside resort of Blackpool.
+From Preston you're well placed for day trips: the Lake District is an hour north, the Yorkshire Dales are to the east, and Blackpool is twenty minutes down the M55.

@@ -1,9 +1,8 @@
 ---
-title: "Beaches in Srikakulam"
+title: "Beaches"
 type: section
 ---
 
-Calingapatnam beech : is situated 3o kms fron srikakulam Town. This scenic spot was an ancient seaport and European merchants resided here during the regime of the Rast India company . Palces of interest include a Light house , a Buddhist stupa and seashore.
+**Kalingapatnam** is the main beach destination in the district, about 30 kilometers from Srikakulam town. Once an active seaport used by European merchants during the East India Company period, the town retains a lighthouse and the remains of a Buddhist stupa near the shore. The beach itself is long and largely empty — good for a quiet walk, though the water can be rough.
 
-**Contributors**
-January 02, 2008
+**Baruva** is a smaller beach further up the coast toward Odisha, with clean sand and very few visitors. There is little infrastructure, so bring what you need.

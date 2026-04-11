@@ -1,27 +1,16 @@
 ---
-title: "Wellington"
+done:
+  location_cleanup: '2026-04-07'
+latitude: -41.2866
+longitude: 174.7756
+title: Wellington
 type: location
-latitude: -41.288795
-longitude: 174.777211
 ---
 
-Wellington City, New Zealand's capital (population 346,000), is a superbly compact city, set on the shores of a deep harbour and surrounded by a natural amphitheatre of wooded hills. It is New Zealand's trendy weekend destination and has the most vibrant entertainment district in the country, where you can find some of the best bars, cafes, restaurants and theatres. 
- 
+Wellington is New Zealand's capital and, by most accounts, its most liveable city. Compact, hilly, and perpetually windswept, it sits at the southern tip of the North Island where Cook Strait funnels gales off the Tasman Sea. The locals have embraced the weather as part of their identity — they call themselves "Wellingtonians" with genuine pride.
 
-Wellington boasts an eclectic mix of shops. With a host of fashion stores and the country's premier department store, the city offers some of New Zealand's best shopping opportunities. 
- 
+What makes Wellington stand out is the combination of a serious cultural life squeezed into a very small city. The national museum, Te Papa Tongarewa, is one of the best in the Southern Hemisphere. The film industry — Peter Jackson's Weta Workshop is here — has brought an international creative energy to the waterfront. And there are more cafes, bars, and restaurants per capita than almost anywhere in the country.
 
-Main Attractions/Activities
- With around 400 cafes and restaurants, Wellington's inner city has the highest concentration of eating establishments in New Zealand, earning it the tag 'café capital of New Zealand'. 
- 
+The city's geography is dramatic: a natural harbour ringed by steep green hills, with the centre packed tightly around the waterfront. The central business district is small enough to walk across in twenty minutes, but the surrounding suburbs — Newtown, Mount Victoria, Aro Valley, Thorndon — each have their own character and are worth exploring on foot.
 
-The city is home to the Royal New Zealand Ballet and the New Zealand Symphony Orchestra, as well as national dance, drama, opera and musical groups. Four professional theatres operate year-round, so there are live shows every night. Wellington is also the home of much New Zealand heritage, including Te Papa, New Zealand's national, leading edge museum. 
- 
-
-Just 45 minutes by car or rail from Wellington, Kapiti Coast is the recreational playground for the lower North Island, with both beaches and mountains readily accessible. Choose from white water rafting, safe swimming, boating, hunting and hiking, golfing, horse trekking and bush walks. 
- 
-
-Courtesy of:**100% Pure New Zealand**
- 
-
-Hi, There is no editor for this country, region or city. All data available has been automatically gathered. However, if you want to become the editor for this region, contact us!
+[Kapiti Coast](/australiaandpacific/newzealand/kapiti_coast), about 45 minutes north by car or train, is a popular escape for Wellingtonians looking for beaches and quieter air.

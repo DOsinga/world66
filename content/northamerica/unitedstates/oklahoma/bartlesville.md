@@ -1,8 +1,10 @@
 ---
-title: 'Bartlesville'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.750927
 longitude: -95.977178
+title: Bartlesville
+type: location
 ---
 
 Bartlesville in northeast Oklahoma is known as the "City of Legends." It is home to dramatic architecture, world-renowned events, and the legacy of Phillips Petroleum, one of the nation's major oil companies.

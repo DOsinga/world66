@@ -1,18 +1,16 @@
 ---
-title: "Urumqi"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 43.8244
+longitude: 87.6139
+title: Ürümqi
 type: location
-latitude: 43.824407
-longitude: 87.613904
 ---
 
-Urumqi is the capital of the Xinjiang provinde - an Autonomous region inhavited by the Uyguyr people. Although it occupies one sixth of the surface of China, there are only 16 million people living here.
+Ürümqi is the capital of Xinjiang, China's vast northwestern autonomous region. It is the most inland major city in the world — further from the sea than any other city of its size. The population is a mix of Han Chinese, Uyghur, Kazakh, and other Central Asian peoples, and this cultural crossroads gives the city a character quite different from eastern China.
 
+The city itself is modern and sprawling, with wide boulevards and high-rises, but the markets are the main attraction. The Erdaoqiao Bazaar near the main mosque is the most atmospheric — dried fruit, spices, carpets, knives, and Uyghur streetfood. The Xinjiang Museum (132 Northwest Road) has an excellent collection, including the famous Tarim Basin mummies.
 
- The sights in the city itself are not spectacular. There is a nine-story Hong Ding Shan Ta pagoda with good views over the city. The Xinjian museum (at132 Northwest road) is very good. Daytrips can be made to Tianshan and Lake Tianzi, 155 south on the way to [Kashgar](/asia/china/xinjiangprovince/kashgar). Think of Lake Louise with yurts and nomads.
+The best day trip is to Tianshan (Heavenly Lake), about 155 km south toward [Kashgar](/asia/china/xinjiangprovince/kashgar). The lake sits at 1,900 metres in an alpine setting of spruce forest and snow-capped peaks — think Lake Louise with yurts and Kazakh nomads.
 
-
- Since Urumqi is a border town, ther are some interesting markets. There is a Russian one, and a Moslem one (near the Mosque). On the Qiao market you can buy a camle or a horse for onward transport. 
- 
-
-
- You can go to Urumqi by train all the way form Beijing, it's a hard 64 hours, the logest train ride in China. Onward travel takes you to Kasgar by bus, or accross the mountains to the [Kazakhstan](/asia/kazakhstan) by train or bus.
+Getting to Ürümqi by train from Beijing is one of China's epic rail journeys — 64 hours across the country. From here you can continue west to Kashgar by train or bus, or cross into [Kazakhstan](/asia/kazakhstan) via the border at Khorgos.

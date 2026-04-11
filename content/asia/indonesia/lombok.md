@@ -1,8 +1,10 @@
 ---
-title: "Lombok"
+title: Lombok
 type: location
 latitude: -8.583564
 longitude: 116.358082
+done:
+  location_cleanup: 2026-04-05
 ---
 
 Lombok has gotten more popular over the past few years. People who think

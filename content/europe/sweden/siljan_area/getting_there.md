@@ -1,9 +1,6 @@
 ---
-title: "Getting There in Siljan area"
+title: "Getting There"
 type: section
 ---
 
-There are frequent trains and buses from Stockholm. Those in a real hurry can also fly from Stockholm to Mora.
-
-**Contributors**
-May 20, 2005
+Frequent trains and buses run from Stockholm to the main towns around Siljan, with Mora and Leksand the most useful destinations. The train journey from Stockholm takes about three hours. Those short on time can fly from Stockholm Arlanda to Mora airport.

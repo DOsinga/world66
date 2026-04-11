@@ -1,17 +1,16 @@
 ---
-title: "Banaue"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 16.9118
+longitude: 121.0614
+title: Banaue
 type: location
-latitude: 16.911791
-longitude: 121.061407
 ---
 
-Travel Guide
+Banaue is a small mountain town in Ifugao province, high in the Cordillera of northern Luzon. It is the gateway to the Banaue Rice Terraces — vast stairways carved into the mountainsides by the Ifugao people over two thousand years ago, and now a UNESCO World Heritage Site. The terraces are often called the "eighth wonder of the world," and while that is tourist-board talk, the sight of an entire mountain slope sculpted into green steps is genuinely extraordinary.
 
-A visit to the Philippines cannot be complete without checking out the world famous Banaue rice terraces. Already declared as a UNESCO Heritage site, one cannot help but marvel at the sight of mountain slopes carved liked a giant stairway. From Manila, take the night bus heading directly to Banaue.
+The best-preserved terraces are not in Banaue town itself but in the amphitheatre-shaped valley of Batad, about an hour away by jeepney or tricycle to the junction, then a steep 45-minute hike down into the village. Batad is the place to stay if you want to wake up surrounded by terraces. Simple guesthouses line the village, and from here you can hike further to the Tappiyah waterfall. Back in Banaue proper, a viewpoint 4 km from the centre gives a panoramic overview.
 
-The best spot to see the terraces is in Batad. From Banaue town proper, take a jeepney or tricycle to Batad junction then hike up to Batad Village. Cheap accommodations are available for those who want to stay overnight or more. For those not inclined to explore further you can still see the terraces around the town proper. The Viewpoint is also 4km away from the center and you can hire a tricyce to take you there. You can also get a glimpse of the everyday life of the indigenous Ifugaos, the proud builders of the amazing rice terraces.
+The Ifugao people still farm many of the terraces using traditional methods, and the culture here is distinct from lowland Filipino life. A visit during planting or harvest season (typically February to March and June to July) gives the terraces their most vivid green.
 
-For those who want to maximize their trip to the Cordilleras, a 3 hour jeepney ride gets you to nearby Sagada, known for their caves, mummified dead and hanging coffins.
-
-More information on
-*Banaue Travel*
+From Banaue, a three-hour jeepney ride through stunning mountain roads takes you to Sagada, known for its hanging coffins, limestone caves, and cool pine-forest setting. Combining the two makes for one of the best trips in the Philippines. Night buses from Manila to Banaue run daily, taking about nine hours.

@@ -1,76 +1,30 @@
 #!/usr/bin/env python3
-"""
-Mark a content page as "done" for a given todo task.
+"""Mark a task as done in a page's frontmatter."""
 
-Adds (or updates) an entry in the `done:` dict in the page's YAML frontmatter:
-
-    ---
-    title: Some Place
-    ...
-    done:
-      location_cleanup: 2026-04-05
-    ---
-
-Usage:
-    python3 tools/mark_done.py <task_name> <path/to/page.md> [<path/to/page.md> ...]
-
-The date defaults to today (local date). Pass --date YYYY-MM-DD to override.
-"""
-
-import argparse
-import datetime as dt
 import sys
+from datetime import date
 from pathlib import Path
 
 import frontmatter
 
 
-def mark_done(path: Path, task: str, date: dt.date) -> str:
+def mark_done(task: str, page_path: str) -> None:
+    """Add task: <today> to the done: dict in the page's frontmatter."""
+    path = Path(page_path)
+    assert path.exists(), f'File not found: {path}'
+
     post = frontmatter.load(path)
-    done = post.get("done")
-    if done is None:
-        done = {}
+    done = post.metadata.get('done', {})
     if not isinstance(done, dict):
-        raise ValueError(f"{path}: existing `done` field is not a mapping")
-    action = "updated" if task in done else "added"
-    done[task] = date
-    post["done"] = done
-    # sort_keys=False preserves existing field order in the frontmatter.
-    path.write_text(frontmatter.dumps(post, sort_keys=False) + "\n", encoding="utf-8")
-    return action
+        done = {}
+    done[task] = str(date.today())
+    post.metadata['done'] = done
+    frontmatter.dump(post, path)
+    print(f'Marked {task} done in {path}')
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser(description="Mark a content page done for a todo task.")
-    ap.add_argument("task", help="Task name (e.g. location_cleanup)")
-    ap.add_argument("paths", nargs="+", type=Path, help="Path(s) to markdown file(s)")
-    ap.add_argument(
-        "--date",
-        default=dt.date.today().isoformat(),
-        help="Date (YYYY-MM-DD), default today",
-    )
-    args = ap.parse_args()
-
-    try:
-        date = dt.date.fromisoformat(args.date)
-    except ValueError:
-        print(f"Invalid --date: {args.date!r} (expected YYYY-MM-DD)", file=sys.stderr)
-        return 2
-
-    rc = 0
-    for p in args.paths:
-        if not p.exists():
-            print(f"{p}: not found", file=sys.stderr)
-            rc = 1
-            continue
-        try:
-            action = mark_done(p, args.task, date)
-            print(f"{action}: {p} ({args.task}={date.isoformat()})")
-        except Exception as e:
-            print(f"{p}: {e}", file=sys.stderr)
-            rc = 1
-    return rc
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+if __name__ == '__main__':
+    if len(sys.argv) != 3:
+        print(f'Usage: {sys.argv[0]} <task> <path/to/page.md>')
+        sys.exit(1)
+    mark_done(sys.argv[1], sys.argv[2])

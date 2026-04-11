@@ -1,8 +1,10 @@
 ---
-title: "Bikini Atoll"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 11.538887
 longitude: 165.272232
+title: Bikini Atoll
+type: location
 ---
 
 Bikini Atoll is a UNESCO World Heritage site and one of the most consequential places in the Pacific. Between 1946 and 1958, the United States detonated 23 nuclear weapons here, including Castle Bravo in 1954 — the largest US nuclear test ever, a thousand times more powerful than the Hiroshima bomb. The fallout from Castle Bravo drifted over inhabited atolls to the east, contaminating the people of Rongelap and Utrik.

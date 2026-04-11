@@ -3,4 +3,4 @@ title: 'Things to Do'
 type: section
 ---
 
-Echuca sits on the Murray River and is best known for its restored historic port, where you can take a paddle steamer cruise on one of the world's largest collections of operating paddle steamers. The port precinct has heritage buildings, shops, and a working sawmill. The Great Aussie Beer Shed on Mary Ann Road houses a quirky collection of over 16,000 beer cans alongside Australiana like Furphy Water Carts and vintage farm equipment.
+The historic port precinct is the heart of Echuca's appeal. The old wharf — the longest wooden inland wharf in Australia — still stands, and you can board one of several operating paddlesteamers for a cruise on the Murray. Beyond the port, the town has a handful of eccentric museums and easy river-country activities that reward a slow couple of days.

@@ -1,14 +1,12 @@
 ---
-title: "Mountain View"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 37.389389
 longitude: -122.08321
+title: Mountain View
+type: location
 ---
 
-Travel Guide
+Mountain View is a city in the southern San Francisco Bay Area, best known as the home of Google's headquarters (the Googleplex). It sits between Palo Alto and Sunnyvale in the heart of Silicon Valley.
 
-We currently have no information about Mountain View.
-
-If you do know any general information about Mountain View, please [Edit this article].
-
-If you know any hotels in Mountain View or restaurants in Mountain View, please [[Add].](/destinations/addItemWizard?addwhere=northamerica/unitedstates/california/mountain_view)
+Castro Street, the main downtown strip, has a decent selection of restaurants and cafes — the dining is surprisingly good for a suburban tech town. Shoreline Park, on the edge of the bay, has walking trails and a lake, and the Computer History Museum is one of the best technology museums in the world, with artefacts from the abacus to the iPhone.

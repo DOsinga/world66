@@ -1,16 +1,8 @@
 ---
 title: "Parrot Tree Plantation"
 type: poi
-type: "Seafood"
-url: "www.parrot-tree.net"
+latitude: 16.3085
+longitude: -86.4748
 ---
 
-Sit on the Coffee House veranda and enjoy a capuccino as you take in the sights of a beautiful bay called Second Bight and fell the refreshing trade wind breezes.
-
-type: Seafood
-
-
-
-
-
-url: [www.parrot-tree.net](http://www.parrot-tree.net/)
+A marina and residential development on Second Bight, on Roatan's southern coast. The coffee house has a pleasant veranda overlooking the bay, good for a quiet cappuccino and a breeze. More of a resort-style stop than a local hangout, but the setting on the sheltered bay is genuinely attractive.

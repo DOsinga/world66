@@ -1,10 +1,14 @@
 ---
-title: 'Wells'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.209451
 longitude: -2.64512
+title: Wells
+type: location
 ---
 
-Wells is actually a city -- England's smallest. Like the village city of St David's in Wales, its claim to fame is its cathedral, and what a cathedral it is. It rivals the totally different cathedrals of [Exeter](/europe/unitedkingdom/england/bristol_plymouth/devon/exeter), Worcester and Durham for the best external view of a cathedral in England. It provides a wonderful illustration of Early English Gothic architecture at its very best.
+Wells is England's smallest city — and only qualifies as a city at all because of its cathedral. That cathedral, begun in 1175, is one of the finest examples of Early English Gothic in the country. The west facade is extraordinary: a vast stone screen covered in nearly 300 medieval statues, many still with traces of original colouring. The interior is equally impressive, especially the dramatic scissor arches added in the 14th century to stabilise the tower.
 
-Near the cathedral, outside the Bishop's Palace, the swans have been trained to pull a rope and ring a bell at feeding time.
+Immediately beside the cathedral, the moated Bishop's Palace is one of the best-preserved medieval palaces in England. The swans on the moat have been trained for generations to ring a bell at the gatehouse when they want to be fed — a detail that sounds apocryphal but is genuine. The medieval Vicars' Close, a short walk away, is claimed to be the oldest residential street in Europe still in continuous use.
+
+Wells makes a good base for exploring the Somerset Levels and the Mendip Hills. Glastonbury is eight miles south, the caves at Cheddar Gorge are nine miles to the west, and the whole area rewards a few days of slow exploration.

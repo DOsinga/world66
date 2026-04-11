@@ -1,35 +1,10 @@
 ---
-title: "Shopping in Chichen Itza"
+title: "Shopping"
 type: section
-accessibility: "Zona Hotelera, Km.120"
-address: "Yaxkin Spa Gifthshop Suite 29"
-email: "yaxkinspa@haciendachichen.com"
-phone: "985 851 0046"
-type: "Speciality shops"
-url: "www.yaxkinspa.com"
 ---
 
-**Toh Boutique and Giftshop** is a great place to find exquisite Mayan Art pieces such as Patricia Martin's Maya Fine Clay Vessels Replicas, Maria C. embroidered pillow cases, handmade fine weaves, Designer A. Mora's jewelry collection or Marc Petit unique Maya glyph neckalces. The boutique's profits go to support the Maya Foundation Children's Program and the Maya Nature Reserve Reforestation Program conducted by the Hacienda Chichen Resort and Yaxkin Spa to help the Mayan families and communities nearby Chichen Itza.
+Souvenir stalls cluster around the main entrance and along the road through Piste. Quality varies widely, and wood carvings sold in the streets of Piste and nearby Xcalacoop are often made from illegally logged timber — buying them contributes to deforestation and habitat loss in the area. Better choices are hand-embroidered dresses, Maya ceramics, and handwoven hammocks.
 
-**Contributors**
-October 21, 2007
+**Toh Boutique** at Hacienda Chichen carries work by local Maya artists and ceramicists — fine clay vessel replicas, embroidered textiles, handmade jewellery, and Maya glyph necklaces. Profits support a children's programme and a reforestation effort in the surrounding jungle reserve.
 
-### [Yaxkin Spa Maya GiftShop](/northamerica/mexico/chichenitza/shopping/yaxkin_spa_maya_gi)
-
-Small Spa giftshop dedicated to natural Mayan herbal skin care products, with a collection of aromatherapy products such as handmade soaps and candles. The shop dedicates a percent of the profit to help the Maya Foundation's Children Program.
-
-type: Speciality shops
-
-
-
-[[rate it]](/northamerica/mexico/chichenitza/shopping/yaxkin_spa_maya_gi)
-
-accessibility: Zona Hotelera, Km.120
-
-tel: 985 851 0046
-
-url: [www.yaxkinspa.com](http://www.yaxkinspa.com)
-
-address: Yaxkin Spa Gifthshop Suite 29
-
-email: yaxkinspa@haciendachichen.com
+The **Yaxkin Spa Gift Shop** (Zona Hotelera, Km. 120; tel. 985 851 0046; yaxkinspa@haciendachichen.com) sells Mayan herbal skin care products, handmade soaps, and aromatherapy candles. A percentage of sales goes to the Maya Foundation's children's programme.

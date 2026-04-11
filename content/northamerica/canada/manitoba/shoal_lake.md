@@ -1,10 +1,14 @@
 ---
-title: "Shoal Lake"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.4379
 longitude: -100.591171
+title: Shoal Lake
+type: location
 ---
 
-Travel Guide
+Shoal Lake is a small farming town of around 900 people in western Manitoba, situated at the northern edge of Shoal Lake at the junction of three highways including the Yellowhead. The lake itself is the main draw — good for water-skiing and fishing, with pickerel and northern pike in reliable quantities.
 
-The town of Shoal Lake is located in Western Manitoba, on the northern edge of Shoal Lake itself, and at the intersection of three major highways including the Yellowhead highway. The beautifull lake is the perfect place to get in some water skiing or great pickerel and jack fishing. A small farming town of aprx. 900 people, tourism is an important part of the local economy. In the fall time the town's population jumps with a wave of goose hunters from all over the United States. Besides geese, the area is also a haven for deer hunters. Lakeview park offers great camping with hookup. The Park is also home to Manitoba's official RCMP Museum located in a replica building of the historic detatchment first settled on the Ellice Trail. Shoal Lake is also only a 15 minute drive from historic Olha, MB, a town settled by Ukranian Pioneers in the 1800's, with many historical attractions and beautiful views to be found. If you're looking to get away from it all Shoal Lake is a definate must stay. Visit www.shoallake.ca for more info
+Lakeview Park offers lakeside camping with hookups. The park also houses Manitoba's official RCMP Museum in a replica of the historic detachment building from the old Ellice Trail. In autumn the surrounding wetlands attract large numbers of geese, and the town sees a seasonal influx of hunters from across North America.
+
+The historic Ukrainian pioneer settlement of Olha, a 15-minute drive away, is worth a detour for its heritage buildings and farm landscapes.

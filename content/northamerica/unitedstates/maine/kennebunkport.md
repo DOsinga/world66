@@ -1,8 +1,10 @@
 ---
-title: "Kennebunkport"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.3615
 longitude: -70.4771
+title: Kennebunkport
+type: location
 ---
 
 Kennebunkport is a fishing port and tourist town on Maine's southern coast. The old section is worth a slow walk -- shops, galleries, and restaurants line the streets near the harbor, and several beaches are within easy reach.

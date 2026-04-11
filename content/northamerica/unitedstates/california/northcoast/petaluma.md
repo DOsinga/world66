@@ -1,8 +1,14 @@
 ---
-title: "Petaluma"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.232583
 longitude: -122.636465
+title: Petaluma
+type: location
 ---
 
-West of Sonoma, in Petaluma, board a steamboat for a ride on the Petaluma River. Then visit Petaluma Adobe State Historic Park, the remains of a once-vast rancho. Be sure to stop at the California Welcome Center in Rohnert Park and visit its excellent Sonoma County Wine Center.
+Petaluma sits at the northern end of San Francisco Bay's reach, straddling a tidal slough that made it a booming river port in the 19th century. It's a genuine small city with a well-preserved Victorian downtown, a walkable riverfront, and enough restaurants and breweries to make an overnight stay worthwhile. Most visitors pass through on the way to wine country, but Petaluma rewards those who slow down.
+
+The historic downtown is centered on Petaluma Boulevard, lined with ornate commercial buildings from the 1880s and 1890s. The Petaluma River — really a tidal slough — runs alongside the old warehouse district, now converted to shops and eateries. Petaluma Adobe State Historic Park preserves the remains of General Mariano Vallejo's vast rancho, which once covered much of Sonoma County.
+
+Petaluma has a strong local food culture fed by the surrounding dairy farms and produce growers. The farmers market (Saturday mornings, downtown) is one of the better ones in the North Bay.

@@ -3,7 +3,4 @@ title: "Shopping"
 type: section
 ---
 
-If you want to go shopping then a 25 mile trip south to Aberdeen is needed, only the essentials can be found in Fyvie. Neighbouring towns such as Turriff have a selection of shops catering for a variety of needs, but the real shopping is in Aberdeen.
-
-**Contributors**
-January 21, 2006
+Fyvie has only basic provisions. For serious shopping, Aberdeen is 25 miles south. Turriff, 5 miles north, has a small range of shops for everyday needs.

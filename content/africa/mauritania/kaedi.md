@@ -1,11 +1,12 @@
 ---
-title: "Kaedi"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 16.152368
 longitude: -13.503987
+title: Kaedi
+type: location
 ---
 
-Kaedi is an easy going town on the northern banks of the Senegal river. It is populated by Toucouleur, Halpulaar (Fulani), Beidane (Arabs/Berbers) and Haratine (former slaves). The town does not have any major attractions, but the nearby region has a few 'forests' (don't expect too many trees) and the villages on the river are sometimes beautifully set. The whole area has started to recover from the 1989 riots.
+Kaedi is a river town on the northern bank of the Senegal River in southern Mauritania, serving as the main crossing point into Senegal in this part of the country. The population is an ethnic mix of Toucouleur, Halpulaar (Fulani), Beidane Arabs and Berbers, and Haratine. It is a quiet, easy-going place with a riverside character and more green vegetation than much of Mauritania.
 
-
- It is possible to cross the border into Senegal here, but the gards do not see many tourists. It is very easy to find a pirogue to take you to the other side.
+The town has no major tourist sights, but the river setting is pleasant, the nearby villages along the Senegal are sometimes beautifully positioned, and the border crossing into Senegal is straightforward — pirogues can take you across without difficulty. Travellers heading overland between the two countries often pass through here.

@@ -1,28 +1,14 @@
 ---
-title: "Laguardia - Rioja"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.544151
 longitude: -2.545422
+title: Laguardia
+type: location
 ---
 
-A walled Villa and capital of Rioja Alavesa, its name derives from Navarra´s " La Guarda " ( The Guardian ) due to the strategic position it holds against Castilla. To this day, Laguardia holds true to a Medieval Atmosphere, and still Counts with the presence oh high surrounding walls built during the 13 TH Century with cobble Stone. 
+Laguardia is a small walled town and the capital of Rioja Alavesa, the Basque Country's wine-producing corner. Its name derives from "La Guarda" (The Guardian) — a reference to its strategic hilltop position on the frontier between Navarra and Castilla. The thirteenth-century walls and cobblestone streets are remarkably well-preserved, and the town is entirely pedestrian.
 
+What makes Laguardia unique is what lies beneath: the entire town is honeycombed with underground wine cellars, some dating back centuries, carved eight metres or more into the rock. Wine is the lifeblood of the place. The surrounding vineyards produce some of the finest Rioja wines in Spain, and many of Rioja Alavesa's best-known bodegas — including Ysios, with its Santiago Calatrava-designed winery, and the Marqués de Riscal complex by Frank Gehry in nearby Elciego — are within a short drive.
 
-
-Laguardia is a complety pedestrian town because its underground houses a multitude of wine cellars built at light meters deep.. 
-
-This towns main activity is viticulture and as a result of the area´s microclimate and deep-rooted wine tradition, the highest quality Rioja Designation of Origin wines are elaborated here. In additio, the most important Rioja Alavesa wine cellars are located in the surrounding area.. 
-
-Posada Mayor de Migueloa 
-
-The wine cellar, located in Posada Mayor de Migueloa´s underground, was built at 8 meters deep at once with the remainder of the house in 1619, this fact, makes this wine cellar one of the oldest among the Rioja Designation or Origin wine cellars in working condition. 
-
-Mayor de Migueloa Nº 20 
-
-01300 - Laguardia -Álava 
-
-Teléfono: +34 945 62 11 75 / 76 
-
-Fax.: +34 945 62 10 22 
-
-http://www.mayordemigueloa.com
+The town has a couple of excellent churches (Santa María de los Reyes has a painted Gothic portico that is one of the finest in Spain) and makes a wonderful base for a few days of wine-tasting and walking through the vineyards.

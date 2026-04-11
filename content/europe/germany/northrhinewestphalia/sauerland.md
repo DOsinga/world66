@@ -1,13 +1,17 @@
 ---
-title: "Sauerland"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 51.261
+longitude: 8.0475
+title: Sauerland
 type: location
-latitude: 51.260984
-longitude: 8.047548
 ---
 
-Located halfway between Dortmund and [Kassel](/europe/germany/hesse/kassel) the Sauerland is a skiing area in the heart of Germany. It is very popular with people from the industrial region between [Cologne](/europe/germany/northrhinewestphalia/cologne) and [Dusseldorf](/europe/germany/northrhinewestphalia/dusseldorf) because of its proximity. In weekends it can get crowded, but during weekdays its mostly okay.
+The Sauerland is a hilly, forested region in the heart of North Rhine-Westphalia, halfway between Dortmund and [Kassel](/europe/germany/hesse/kassel). It is the closest thing to mountains that the millions of people living between [Cologne](/europe/germany/northrhinewestphalia/cologne) and [Düsseldorf](/europe/germany/northrhinewestphalia/dusseldorf) have, and they flock here in winter for skiing and in summer for hiking and cycling.
 
-The main town in [Winterberg](/europe/germany/northrhinewestphalia/sauerland/winterberg) which has the best skiing facilities, some 10 lifts, enough for a long weekend. The mountains here are not very high, about 800 meters so you are less certain of getting good snow than in the Alps.
+The main town is [Winterberg](/europe/germany/northrhinewestphalia/sauerland/winterberg), which has the best skiing facilities — around ten lifts, enough for a long weekend. The peaks top out at about 840 metres, so snow is less reliable than in the Alps, but when conditions are right the slopes are perfectly enjoyable. Weekends can get crowded; weekdays are much quieter.
+
+In summer the Sauerland is surprisingly pretty — rolling hills, reservoirs, and small timber-framed towns. The Biggesee and Sorpesee are popular for swimming and sailing, and the Rothaarsteig long-distance trail crosses the region.
 
 ## Destinations in Sauerland
 

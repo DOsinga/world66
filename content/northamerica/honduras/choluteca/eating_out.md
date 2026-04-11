@@ -1,18 +1,8 @@
 ---
 title: "Eating Out"
 type: section
-price: "$1.50 -$2.00"
-type: "Local"
 ---
 
-### [Las Baleadas](/northamerica/honduras/choluteca/eatingout/las_baleadas)
+Choluteca is known throughout Honduras for its street food and inexpensive local cooking. Baleadas — freshly made flour tortillas filled with beans, cheese, chicken, or meat — are the local staple and available throughout the day from street stalls and small restaurants downtown.
 
-*Las Baleadas* is a great and economical resturant in Choluteca. It is a family owned and run business with a breakfast and luch place downtown oposite the Cooperativa Guadalupe that serves baleadas (freshly made flour tortillas with beans, chease, and whatever else you want in there), chicken, meat, fried plátanos, and soup. The servies is quick and the food is good. For dinner the family has another resturant in barrio El Cortijo (but just tell someone that you want to go to Las Baleadas and they will take you there or tell you how to get [more..](/northamerica/honduras/choluteca/eatingout/las_baleadas)
-
-type: Local
-
-
-
-[[rate it]](/northamerica/honduras/choluteca/eatingout/las_baleadas)
-
-PriceOfMenu: $1.50 -$2.00
+**Las Baleadas** is a family-owned breakfast and lunch place downtown, opposite the Cooperativa Guadalupe. It serves excellent baleadas, chicken, meat dishes, fried plátanos, and soup at very low prices (around $1.50–$2.00 a plate). For dinner, the family runs a second restaurant in Barrio El Cortijo — ask any local and they will direct you.

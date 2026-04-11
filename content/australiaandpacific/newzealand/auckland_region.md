@@ -1,23 +1,16 @@
 ---
-title: "Auckland Region"
+title: Auckland Region
 type: location
-latitude: -37.011479
-longitude: 174.850578
+latitude: -36.8667
+longitude: 174.7624
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The **Auckland Region** of the North Island, with a population of over 1 million, includes the cities of
-[Auckland](/australiaandpacific/newzealand/auckland),
-[North Shore City](/australiaandpacific/newzealand/auckland_region/northshorecity), Waitakere and Manukau as well as the Rodney district.
+The Auckland Region stretches across the narrowest part of New Zealand's North Island, bounded by the Waitemata Harbour to the east and the Manukau Harbour to the west. Home to over a third of New Zealand's population, it encompasses the sprawling city of Auckland, the beaches and suburbs of North Shore City, the forested Waitakere Ranges to the west, and the ferry-linked village of Devonport across the harbour.
 
-**Other places include:**
+At its heart is Auckland city — New Zealand's largest urban area and the main international gateway to the country. The region fans out from there into quieter suburbs, coastal parks, and the Hauraki Gulf, a vast maritime park dotted with islands that stretches 250 kilometres along the coast. Waiheke Island, Rangitoto, and Great Barrier Island are among the most visited.
 
-**Hauraki gulf **maritime park;
+The Waitakere Ranges Regional Park, about 30 minutes west of the city, covers rugged bushland with surf beaches on the west coast, tramping trails, and the Arataki Visitor Centre on Scenic Drive — a good starting point for day walks. Long Bay Regional Park on the North Shore offers calmer swimming beaches and a coastal reserve popular for picnics and summer gatherings.
 
-**[Devonport](/australiaandpacific/newzealand/devonport)** - A suburb of
-[North Shore City.](/australiaandpacific/newzealand/northshorecity)
-
-## Destinations in Auckland Region
-
-[Auckland (city)](http://www2.world66.com/australiaandpacific/newzealand/auckland_region/auckland)
-[North Shore City](http://www2.world66.com/australiaandpacific/newzealand/auckland_region/northshorecity)
-[Devonport](http://www2.world66.com/australiaandpacific/newzealand/auckland_region/devonport)
+Whether you're arriving in New Zealand for the first time or using Auckland as a base for exploring the upper North Island, the region has enough variety to keep you occupied — from Ponsonby's boutique shopping and K'Road's nightlife to the sailing culture of the Waitemata Harbour.

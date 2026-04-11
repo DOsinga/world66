@@ -1,12 +1,6 @@
 ---
-title: "When to Go in Huang Shan"
+title: "When to Go"
 type: section
 ---
 
-Take a winter tours to Yellow Mountain for the snowy peculiar-looking pines, white grotesque peaks, breathtaking
-sunrise, stunning sea of clouds, numb cascades and fumy hot springs...It is very popular that people visit the Huangshan at winter season(Dec.1st through next March 28th), Huangshan forms a ice and snow fairyland. There are less visitors there, with discounted hotels rates and entrance fees.
-
-It is definitely safe to climb Mt.Huangshan in winter and you don't need to worry about the slippery as all the paths and steps are cleaned up in time.
-
-**Contributors**
-October 27, 2009
+Huang Shan is beautiful in every season but each has distinct character. Spring (April–May) brings mist, flowering trees, and moderate crowds. Summer (June–August) is the rainy season — lush and green but often foggy, with heavy rain possible. Autumn (September–November) is the most popular time: clear skies, good visibility, spectacular light. Winter (December–March) brings snow to the peaks, quieter trails, lower prices, and the famous sight of snow-covered pine trees on granite cliffs. The mountain is cold at altitude even in summer; bring layers.

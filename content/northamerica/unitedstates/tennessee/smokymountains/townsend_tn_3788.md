@@ -1,10 +1,14 @@
 ---
-title: "Townsend, Tn. 37882"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.6754
+longitude: -83.7557
+title: Townsend
 type: location
-latitude: 35.675366
-longitude: -83.755728
 ---
 
-Travel Guide
+Townsend is a small, unhurried town on the western edge of Great Smoky Mountains National Park — far quieter than Gatlinburg or Pigeon Forge and better for it. The Little River runs clear and fast through the valley, and the surrounding mountains press in close on all sides.
 
-(Townsend Tn.) is the true gateway to the Smoky Mountains and the most place visited inside the National Park. That place is Cades Cove. A place as it was over 100 to 150 years ago. The town of Townsend is a very nice peaceful old village not changed much for the past several decades. Surrounded by mountains with a crystal clear river rolling through the middle of town. Great place to stay and not have to fight the traffic. Half of the people that live here now. Came on vacation and didn't want to leave. Come see for yourself.
+The town's main draw is as a base for Cades Cove, the broad valley about 10 miles east that preserves 19th-century farms, mills, and churches much as they stood 150 years ago. It's the most visited spot in the most visited national park in the United States, so go early or in the off-season if you want peace. Wildlife — deer, black bear, wild turkey — are commonly spotted in the cove.
+
+Townsend itself is low-key and genuine. People really do move here after a vacation and decide not to leave.

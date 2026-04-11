@@ -3,10 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-**Hotel La Cascade**
-
-This is just a short distance upstream from Ceillac, past the campsites. It is a Logis de France, appropriately named after the waterfall just opposite.
-
-Menus are reasonably low priced and delicious.
-
-http://www.logis-de-france.fr/fr/recherch/index-fast.php?id=12&lang=FR&action=fastadvsearch&logis=Cascade&x=14&y=6
+Ceillac is a small village with limited dining options, but the Hotel La Cascade, just upstream past the campsites, is a Logis de France with reasonably priced and well-prepared menus. It is named after the waterfall directly opposite.

@@ -1,12 +1,16 @@
 ---
-title: "Mopti"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.514489
 longitude: -3.646458
+title: Mopti
+type: location
 ---
 
-Mopti is about halfway from [Bamako](/africa/mali/bamako) to [Timbuktu](/africa/mali/timbuktu). The city is spread over three islands and sits at the junction of the Niger River and the Bani River. The city is mostly inhabited by Fulani traders. This makes Mopti is an interesting market town where various tribes go to trade for fish and salt. Vendors sell cloth, leather goods, masks, jewellery, amber and intricately woven Fulani wedding blankets. 
+Mopti is about halfway from [Bamako](/africa/mali/bamako) to [Timbuktu](/africa/mali/timbuktu), spread across three islands at the junction of the Niger and Bani rivers. Mostly inhabited by Fulani traders, it is a busy, colourful market town where various ethnic groups come to trade fish, salt, cloth, leather goods, masks, jewellery, amber, and intricately woven Fulani wedding blankets.
 
-Mopti is an excellent base to start a trip to Dogon Country a must see on your Mali trip. To go to [Timbuktu](/africa/mali/timbuktu) it is also a necessary stop to plan your trip. 
+Mopti is the jumping-off point for Dogon Country — a must-see on any Mali trip — and a necessary stop for planning the journey to [Timbuktu](/africa/mali/timbuktu). But the town is more than just a transit point. The mud-brick mosque, built in 1935 and modelled on the famous one in [Djenné](/africa/mali/djenne), is an impressive sight. The Grand Marché in the old town (best on Thursday, market day) is full of dried fish and salt from the mines near Timbuktu. A pirogue trip on the river at dusk, easily arranged at the Bar Bozo waterfront, is one of the most atmospheric experiences in West Mali.
 
-It may seem like Mopti is nothing but a stopover to these places, but this impression is wrong. Mopti is a pleasant, very lively place. It also has good options for eating out and even for nightlife. It is basically a nive place to enjoy yourself for a few days in a beautiful surrounding. It is, however, a haven for mosquitoes.
+Mopti is a lively, pleasant place to spend a few days, with good food and a laid-back atmosphere — though it is a haven for mosquitoes.
+
+Note: The security situation in central Mali has been volatile in recent years. Check current conditions before travelling.

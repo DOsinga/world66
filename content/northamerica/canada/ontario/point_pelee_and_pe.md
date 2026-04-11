@@ -1,12 +1,14 @@
 ---
-title: "Point Pelee and Pelee Island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.9534
+longitude: -82.5129
+title: Point Pelee and Pelee Island
 type: location
 ---
 
-Travel Guide
+Point Pelee National Park juts southward from the Ontario mainland into Lake Erie, tapering to a sharp point that marks the southernmost tip of the Canadian mainland. Its mix of marsh, forest, and open lakefront makes it one of the finest birdwatching sites in North America — during the spring and autumn migrations, hundreds of species pass through or pause to rest, and dedicated birders come from across the continent for the spectacle.
 
-Point Pelee National Park extends from the mainland of southwestern Ontario into Lake Erie as peninsula of land that tapers to a sharp point. It consists of marshes and woodland habitats ideal for bird watching especially during migrations.
+Beyond the tip of Point Pelee lies Pelee Island, the southernmost inhabited point in Canada and the largest island in Lake Erie. About 300 people live here year-round, with the population rising to around 1,500 during summer. The island has a genuinely relaxed pace — cycling is the best way to get around, and it produces wine from its own vineyards thanks to the long growing season.
 
-Beyond the tip of Point Pelee lies Pelee Island which is the southernmost point in Canada. Pelee Island is home to nearly 300 permanent residents, with the population rising to around 1,500 during the summer months. The Island is a natural place to enjoy nature, to walk on beaches, to swim or fish for walleye and bass.
-
-Ferry service is available from mid-March to mid-December from both Canada (Leamington or Kingsville) and United States (Sandusky Ohio). Make sure to check your departure location, and don’t forget to make a reservation for your vehicle!
+Ferry service operates from mid-March to mid-December from Leamington and Kingsville on the Ontario mainland, and from Sandusky, Ohio. Vehicle reservations are recommended in peak season.

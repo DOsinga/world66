@@ -1,14 +1,12 @@
 ---
-title: "Lewes"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 38.773396
 longitude: -75.137957
+title: Lewes
+type: location
 ---
 
-Lewes, Delaware was first settled by the Dutch in 1631, and as such was the first settlement in Delaware. Lewes offers a wealth of historic, nautical and recreational activities that reflect on its location at the intersection of the Delaware Bay and Atlantic Ocean. 
+Lewes was Delaware's first European settlement, founded by the Dutch in 1631. It sits where the Delaware Bay meets the Atlantic Ocean, and that location has shaped everything about it — from the colonial-era maritime heritage to the beaches that draw visitors today.
 
-Bay and ocean beaches in and near Lewes, Delaware provide swimming, fishing, boating and a host of other watersports.
-
-Beaches, nature trails, bird sanctuaries and the Seaside Nature Center can all be found at Cape Henlopen State Park just outside of Lewes.
-
-And the Cape May-Lewes Ferry is an unforgettable way to cross the Delaware Bay from Lewes to Cape May, New Jersey.
+Cape Henlopen State Park, just outside town, has some of the best public beaches on the Delaware coast along with nature trails, bird sanctuaries, and the Seaside Nature Center. The Cape May-Lewes Ferry connects to Cape May, New Jersey, making it easy to explore both sides of the bay. The town itself is walkable and well-preserved, with a handful of good restaurants and a low-key coastal atmosphere that hasn't been overrun by resort development.

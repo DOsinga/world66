@@ -1,8 +1,10 @@
 ---
-title: "Kittery"
+title: Kittery
 type: location
 latitude: 43.0857
 longitude: -70.7437
+done:
+  location_cleanup: 2026-04-06
 ---
 
 Kittery is the gateway to Maine -- the first town you hit after crossing the Piscataqua Bridge from New Hampshire. Most visitors know it for one thing: outlet shopping. Over 120 retail stores line Route 1, and Bostonians flock here on weekends (Massachusetts plates outnumber Maine plates as a rule).

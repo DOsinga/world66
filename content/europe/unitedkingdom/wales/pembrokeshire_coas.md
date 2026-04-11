@@ -3,12 +3,14 @@ title: "Pembrokeshire Coast National Park"
 type: location
 latitude: 52.016855
 longitude: -4.825811
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Pembrokeshire is at the south-west of Wales with a long coast line because of a major indentation from the west. There are beaches galore, some being practically like resorts with donkeys, such as Broad Haven and Little Haven. At the other end of the spectrum are Druidson Haven, whose inadequate parking keeps it quiet and those which need a walk like some near the cathedral cty, the smallest in Britain, of St. David's. 
+Pembrokeshire sits at the south-west tip of Wales, where the land breaks into a ragged coastline of headlands, sea stacks, coves, and beaches in startling variety. The national park is defined by that coast — a 186-mile path runs its full length, taking in everything from family beaches with donkeys to remote coves accessible only on foot.
 
-Here you will find lumps of only a few hundred feet called 'mountains,' full of possibilities for 6-year old achievement. There is a railway to Tenby, Saundersfoot and the oil tanker terminal of Milton Haven and Fishguard is the terminal for Irish ferries. 
+The beaches alone justify the trip. Some, like Broad Haven and Little Haven, are almost resort-like in summer. Others, like Marloes Sands and Druidston Haven, stay quiet because the parking is poor or the walk is long — which is exactly the point. The sand changes colour from beach to beach: red, pink, yellow, near-white — a geological variety you do not expect in a stretch of coast this size.
 
-Pembroke itself has a splendid castle but the chief claims to fame of this area are monuments of a far earlier time. There are Bronze Age cromlechs in plenty and at Abereiddy, on the north coast, fossils are frequently found which make the cromlechs seem like yesterday's remains. 
+St David's is the heart of the park — a cathedral city so small it barely qualifies, officially the smallest in Britain. The cathedral and ruined Bishop's Palace, both built of the same warm red sandstone, were deliberately tucked below the skyline so as not to be visible from the sea. The effect is still striking today. Nearby, the headland at St David's Head has its own Bronze Age cromlech, and the cliffs around Strumble Head lighthouse offer some of the wildest scenery in Wales.
 
-An astonishing feature is the different colour of the sand at different beaches in close proximity, red, pink, yellow, near whie, black - no not mud; hard enough to play beach cricket.
+The north coast around Abereiddy is worth a detour for the Blue Lagoon — a flooded slate quarry — and for the fossils that erode out of the cliffs at low tide, making the Bronze Age monuments seem almost recent by comparison. Fishguard, in the north, is the ferry port for Ireland; the Preseli Hills in the interior are the source of the bluestones hauled all the way to Stonehenge.

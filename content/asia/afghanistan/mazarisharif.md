@@ -1,13 +1,16 @@
 ---
-title: "Mazar-i-sharif"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.709
+longitude: 67.1114
+title: Mazar-i-Sharif
 type: location
-latitude: 36.709037
-longitude: 67.111408
 ---
 
-Mazar-i-Sharif is located in northern Afghanistan, close to the old city of [Balkh](/asia/afghanistan/balkh). The name of the city means soemthing like "Tomb of The Chosen One".
+Mazar-i-Sharif is Afghanistan's fourth-largest city and the capital of Balkh province in the far north, close to the Uzbek and Turkmen borders. Its name means "Tomb of the Noble One" — a reference to the Blue Mosque at the city's heart, which according to tradition holds the tomb of Ali ibn Abi Talib, cousin and son-in-law of the Prophet Muhammad.
 
-The main sight in town is the great Blue Mosque, Tomb Of Hazrat Ali, cousin and son-in-law of Prophet Mohammad. The tomb was covered with earth to escape the ravage of Genghis Khan in 1220 and remained lost until it was uncovered during the rebuilding work in 1480s.
+The Blue Mosque — properly the Shrine of Hazrat Ali — is one of the most spectacular religious buildings in Central Asia. Its tilework shifts between turquoise and deep blue depending on the light, and the courtyard is famously home to a flock of white doves that pilgrims consider sacred. The tomb was reportedly buried to protect it from Genghis Khan in 1220 and rediscovered only in the 1480s, after which the Timurid rulers built the current shrine. Nowruz, the Persian New Year celebrated in March, brings enormous crowds and a famous flag-raising ceremony.
 
+The old city of [Balkh](/asia/afghanistan/balkh), a few kilometres to the west, was once one of the great cities of the ancient world — the Bactrian capital that Alexander the Great passed through and that the Arabs called "the Mother of Cities." It is now little more than ruins and mud walls, but worth the short trip.
 
- Please note that according to many (western) governments it is not safe to travel to Afghanistan. Although the country is very beautiful and travel will be very exciting it will also be quite dangerous.
+Afghanistan remains one of the most difficult and dangerous countries for foreign visitors. Since the Taliban resumed power in 2021, the security situation has changed significantly, and most Western governments advise against all travel. The situation on the ground varies and can shift quickly. If you are determined to go, research current conditions carefully, connect with local contacts in advance, and travel conservatively.

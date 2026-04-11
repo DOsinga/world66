@@ -1,10 +1,6 @@
 ---
-title: "Bars and Cafes in Fredrikshavn"
+title: "Bars and Cafes"
 type: section
 ---
 
-fredrikshavn
-
-We currently have no Bars and Cafes listed in Fredrikshavn.
-
-If you do know any Bars and Cafes in Fredrikshavn, please [Add].
+John Bull Pub in Hotel Jutlandia at Havnepladsen is a reliable spot with a large beer selection, live bands on Saturdays, and a monthly pub quiz. Cafe Staehr in the northern part of town has an extensive wine list and a cosy atmosphere. Several nondescript local pubs near the ferry port serve cheap beer to travellers in transit.

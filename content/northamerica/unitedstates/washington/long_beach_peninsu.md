@@ -1,35 +1,16 @@
 ---
-title: "Long Beach Peninsula"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 46.4666
+longitude: -124.043
+title: Long Beach Peninsula
 type: location
-latitude: 46.466614
-longitude: -124.042991
 ---
 
-Travel Guide
+The Long Beach Peninsula is a 28-mile strip of land in the southwestern corner of Washington State, caught between the Pacific and Willapa Bay. It is one of the longest uninterrupted stretches of drivable beach on the west coast of North America, and at low tide the hard-packed sand makes for easy walking or driving for miles in either direction.
 
-We live on the South-Western most corner of Washington State. The 29
-mile long peninsula is know for it's fine dinning experiences due to
-the local availability of fresh seafood. Oysterville was in the 1800's
-the West Coast source of fresh Willapa Bay oysters and still is a million
-dollar business today. Fishing and logging in the past were the
-mainstays of support for the local folks. Due to loss in these two,
-tourism has carved an in-road to our corner as the newest industry to
-support our Peninsula.
+The peninsula's economy has long turned on what comes out of the water. Willapa Bay produces oysters — it was the main supplier for the West Coast in the 1800s and remains a significant operation today. Razor clams, dug from the beach at low tide, are another local speciality and something of a ritual for visitors. Crabbing and sport fishing are popular further offshore.
 
-The beach is approximately 28 miles of drivable sand on low tide. The beach also supplies the tastiest razor clams around.
+The town of **Oysterville** at the north end of the peninsula is a historic district, a small cluster of Victorian buildings from the oyster boom years that has barely changed since. It is worth the drive for the quiet and the setting alone. **Long Beach** town itself is the commercial centre, with most of the restaurants and visitor services. The Lewis and Clark expedition camped in this area in November 1805 during their push to the Pacific; a trail system and interpretive sites mark the route.
 
-Next year will be the celebration of the "Lewis and Clarke"
-Expedition and many events have already taken place here to commemorate
-this bicentennial event. New hiking paths are in the making to mark the
-trail. Sculptures and memorials are being created or near completion
-for the next year events. A new park is being built now on the North
-side of the Columbia just 3 miles from the historical town of Chinook,
-WA. This being the home of the Chinook Indian tribe associated with the
-"Lewis and Clarke" Explorations on the Columbia River.
-
-Altogether it is a quiet place to visit with several 4 and 5 star
-fine dining establishments. The Shelburne Inn, 42 Street Cafe, The Ark
-Restuarant, and The Depot Tavern are just a few. We have a new visitors
-center at the junctions of highway 101 and 103 with a toll free number
-to make it easy to gain information about a beautiful Peninsula. So
-come take a look and enjoy next year's festivities, plus all the fine dining and accomodations.
+The peninsula is at its best outside peak summer. Storms roll in from the Pacific in autumn and winter with considerable force — dramatic to watch, less pleasant for beach walks. Spring brings less fog than summer.

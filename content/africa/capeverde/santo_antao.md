@@ -1,20 +1,18 @@
 ---
-title: "Santo Antao"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 17.055529
 longitude: -25.172305
+title: Santo Antão
+type: location
 ---
 
-It's the most north island of the archipel. The main cities there are **Porto Novo** and **Povo Sao**. The views from the mountains are immensely beautiful. 
+Santo Antão is the northernmost and most mountainous island in the Cape Verde archipelago, and for many visitors it is the most beautiful. The island splits dramatically into two halves: the northeast is green and lush, with steep valleys filled with sugarcane, banana plantations, and dripping tropical vegetation, while the southwest is dry, barren, and volcanic.
 
-If you're in **Porto Novo** and it's clear weather, you can even see **San Vicente**. There's a boatline between that island and Porto Novo.
+The main towns are Porto Novo, where the ferry from [São Vicente](/africa/capeverde/saovicente) arrives, and Ribeira Grande (Povoação) on the northeast coast. The real draw is the landscape in between — the mountain roads wind through clouds, past terraced hillsides and deep ravines, with views that are genuinely staggering. On a clear day from Porto Novo you can see São Vicente across the channel.
 
-You can also visit breweries, where they brew the national drink **Grogue**.
+Hiking is the main activity. The old cobbled paths (calçadas) connecting the mountain villages make for some of the best walking in West Africa. You can also visit distilleries producing grogue, the national sugarcane spirit.
 
-Tipically is that one side of the island is pretty dry, but the other side is very green. In valleys it's always green, because the water comes down from the mountains and stays down, in the valleys. 
+## Destinations
 
-When you drive in the mountains it can occur that there's a cloud in between, and it's very special to drive through it.
-
-## Destinations in Santo Antao
-
-[Ponto Do Sol](/africa/capeverde/santo_antao/ponto_do_sol)
+- [Ponto do Sol](/africa/capeverde/santo_antao/ponto_do_sol)

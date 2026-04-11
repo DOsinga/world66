@@ -1,8 +1,10 @@
 ---
-title: 'Asheville'
+title: Asheville
 type: location
 latitude: 35.595363
 longitude: -82.550841
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Asheville feels like a scaled-down San Francisco set against the Blue Ridge Mountains -- creative, independent, and full of surprises. The city has reinvented itself from a quiet mountain town into one of the South's most interesting destinations, with a thriving arts scene, more craft breweries per capita than almost anywhere in America, and the kind of farm-to-table food culture that bigger cities envy.

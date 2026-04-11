@@ -1,20 +1,14 @@
 ---
-title: "Kwe kwe"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -18.9281
+longitude: 29.8149
+title: Kwekwe
 type: location
 ---
 
-Kwe Kwe is a mining and steel centre town almost halfway between Zimbabwe's two major cities, Harare and Bulawayo. It lies in the centre of the country, between the Kwe Kwe and Sebakwe rivers, and the towns of Kadoma and Gweru. 
+Kwekwe (formerly Que Que) is a mining and steel town almost exactly halfway between Harare and Bulawayo on Zimbabwe's main road and rail corridor. It exists because of the Globe and Phoenix gold mine, which at its peak in the early 1900s was the biggest gold mine in the world. The mining museum on its premises preserves the Paper House, a wood and reinforced cardboard dwelling on stilts that once served as home to the first mine manager and was slept in by Cecil John Rhodes.
 
-It's satellite neighbour, Redcliff, is home to the ZISCO (Zimbabwe Iron and Steel Corporation) steelworks, accounting for most of Zimbabwe's local and export steel. 
+Today Kwekwe is a town of around 200,000 people. Its satellite town Redcliff is home to ZISCO, the state steel corporation. Cricketing enthusiasts have ensured the town stays on the sporting map — the renovated Kwekwe Sports Club has hosted internationally televised matches against New Zealand, Sri Lanka, and Pakistan.
 
-At one stage, the Globe and Phoenix mine around which the town developed (circa 1900) was the biggest gold mine in the world. In the local mining museum on it's premises stands a relic of these boom days called the Paper House - a wood and reinforced cardboard affair in striking green and white. This 2 bedroomed dwelling on stilts (presumably to combat the heat and protect from termites) was home to the first mine manager, and was once slept in by Cecil John Rhodes, the controversial colonial empire builder who founded the country from which Zimbabwe emerged at 1980's independence - Rhodesia. 
-
-Today Kwe Kwe (formerly Que Que) is a robust if not bustling business centre, of around 200 000 people. Served by the main national road and rail links, and even a small aerodrome, it boasts the normal commercial enterprises one would expect in a small African town, but most industry is located around the steel works and associated chemical and manufacturing plants. 
-
-Two main hotels, the Golden Mile and the Shamwari cater for business travellers, and a recent abundance of chalet accommodation at breezy lodges such as Touchwood have emerged to cope with the overflow. 
-
-Cricketing enthusiasts have worked hard to ensure that Kwe Kwe remains on the sporting map, and several internationally televised cricketing events have been held at the renovated facilities of the Kwe Kwe Sports Club, against countries such as New Zealand, Sri Lanka and Pakistan. 
-
-Despite massive government intrusion, some small tourist operators maintain hunting and photographic safari licences on farms and concessions near town, where an abundance of wildlife can for some years to come hopefully still be seen - including Rhino, Elephant, Leopard, Lion and most big antelope (Kudu, Eland, Sable, Tsessebe etc). 
-
-Kwe Kwe has always been a festive and social centre with warm inhabitants and a mild political atmosphere, and is worth a short stopover if time allows.
+Some small operators maintain hunting and photographic safari concessions on farms near town, where wildlife including rhino, elephant, leopard, and large antelope can still be seen. Kwekwe has always been a sociable and warm-hearted place, and is worth a short stop if you are travelling between the two big cities.

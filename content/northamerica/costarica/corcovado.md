@@ -1,6 +1,14 @@
 ---
-title: "Corcovado"
+title: Corcovado National Park
 type: location
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Corcovado National Park is home to more than 400 species of birds and more than a hundred species each of amphibians and mammals and spans more than 40,000 hectares of protected land. Several habitats can be found inside its borders including montane and mangrove. Corcovado Park is the crown Jewel of the Costa Rican park sysem. It is hard to get to the best part of the park,Sirena ( means mermaid, but is the ranger station in the center of the park), but it is well worth it. You want at least 3 days to do Corcovado park right, unless you can afford $250 to fly in and save the hours hiking and the two hours in a taxi. In Sirena rent the pango ( little hand made boat, made from a tree ) and paddle it up river, it is your best change to see a tapir up close. At night go to the river mouth at high tide to see all the sharks and crocodiles in the river mouth. Cocovado has a sister park called Piedras Blancas Park, it use to be part of Corcovado but they have since made it into its own park. One of the best ways to see Piedras Blancas Park is with Escondido Trex, a kayaking tour company out of Pt. Jimenez. www.escondidotrex.com . They offer 2-6 night tours by kayak around the Gulfo Dulce ( Costa Rica's best flat water kayaking from budget for campers to deluxe where you stay at luxury lodges only accessible by boat). They also have an amazing day tour to visit the park and stop by a animal rehabilitation center in the center of the park where it is only boat accessible
+Corcovado is widely regarded as the most biologically intense place on Earth. The national park covers 424 square kilometers of the Osa Peninsula's southern tip — rainforest, mangrove, wetland, and coastline — and contains more species per square kilometer than almost anywhere else on the planet. This is not a zoo or a nature trail. It's a genuine wilderness.
+
+The park holds the largest primary rainforest on the Pacific coast of the Americas. Trees reach 70 meters. Scarlet macaws fly in pairs overhead. Four species of sea turtle nest on the beaches. Jaguars and pumas patrol the interior — you won't see them often, but you'll find their tracks. The squirrel monkey, found almost nowhere else in Costa Rica, lives here in small troops.
+
+The heart of the park is Sirena, a ranger station on the coast where the Río Sirena meets the Pacific. Getting there takes real effort: an 8-hour hike through jungle from Los Patos, or a small plane from Puerto Jiménez. Once there, you're surrounded by nothing but forest and ocean. Sirena has dormitory accommodation, meals, and a small fleet of dugout canoes for exploring upstream.
+
+Access is controlled and requires advance registration with SINAC (Costa Rica's park service). You must enter with a licensed guide. That's not bureaucracy for its own sake — the park limits visitors to protect what makes it extraordinary.

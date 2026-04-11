@@ -1,14 +1,10 @@
 ---
-title: "Getting There in Karwar"
+title: "Getting There"
 type: section
 ---
 
-Rail Connectivity
+**By rail:** Karwar is on the Konkan Railway line and well connected to Mumbai (around 12 hours), Mangalore, Kochi, and other coastal cities. There are three stations in the taluka — Asnoti, Karwar (Shirwad), and Harwada. The journey from Madgaon (Goa) takes about an hour.
 
-Karwar Railway Station
-Karwar is well connected to Mumbai, Delhi, Ahmedabad, Mangalore, Cochin and other important places through the Konkan Railway.The three railway stations falling under Karwar Taluka on Konkan Railway route are Asnoti, Karwar(Shirwad) & Harwada.
-[edit]From other cities in India
+**By road:** Karwar is 107 km from Panaji (Goa), about 540 km from Bengaluru, 268 km from Mangalore, and 117 km from Dandeli. Both state and private bus services connect Karwar to these cities; the Bengaluru journey takes around 12 hours overnight.
 
-Karwar is 13 km from Goan border (Polem) & 1 hour by train from Madgaon, 12 hours by bus from Bengalooru and 12 hours by train from Mumbai on Konkan Railway route.
-
-Karwar is 107 kilometres from Panjim (Goa), 540 kilometres from Bengalooru, 117 kilometers from Dandeli, 881 kilometres from Chennai, 701 kilometres from Mumbai, 268 km from Mangalore.
+**By air:** The nearest airport is Dabolim (Goa), about 100 km north of Karwar. Mangalore International Airport is roughly 280 km south and has more domestic connections.

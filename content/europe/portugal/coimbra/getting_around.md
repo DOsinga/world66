@@ -3,9 +3,4 @@ title: "Getting Around"
 type: section
 ---
 
-Loacal buses seem to be everywhere. Their main depot is opposite the turismo near the river - but tickets and passes can be bought at most book hsops and the Turismo itself is usually a better bet for information.
-
-Tickets for multiple trips give considerable saving and also cover the lift and funicular that go from just above the main market to near the university.
-
-**Contributors**
-October 17, 2008
+The old town is compact and walkable, though steep — the climb from the river to the university is real exercise. A funicular and a lift run from near the market up to the university quarter, saving your legs on the steepest section. Multi-trip bus tickets, available from the tourist office and bookshops, cover both the buses and the funicular.

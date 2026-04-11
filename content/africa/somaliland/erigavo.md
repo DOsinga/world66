@@ -1,18 +1,12 @@
 ---
-title: "Erigavo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 10.61806
 longitude: 47.37
+title: Erigavo
+type: location
 ---
 
-Erigavo lies NE of Somaliland, at the bottom of the highest peak in
-Somalia Surud about 2670 ft above the sea level. It is Surrounded by
-very beautiful natural views like MT Daallo. There is a road which goes
-to the top of this high mountain, on the top of it you can see an
-extremely beautiful sight of the sea as well as a tiny village called
-Mait, this view is about 60 Km away.
+Erigavo (also spelled Ceerigaabo) is a highland town in eastern Somaliland, sitting at around 1,800 metres above sea level near the foot of Surud Ad — the highest point in Somalia at about 2,420 metres. The elevation gives the town and its surroundings a cooler, greener character than the lowland coast, with juniper forests and dramatic mountain views.
 
-Sometimes you will hear tiger roar and the local people would tell you about the tiger.
-
-**Contributors**
-May 07, 2005
+The road up into the Daallo range offers some of the most striking scenery in the Horn of Africa, with views across to the Gulf of Aden coast far below. A small village called Mait lies on the high plateau. The forests around Daallo are one of the few remaining stands of old-growth juniper in the region. Erigavo is not easily reached and sees very few foreign visitors, but for those travelling in Somaliland it is worth the effort.

@@ -1,35 +1,6 @@
 ---
 title: "Getting Around"
 type: section
-address: "Cadiz"
-email: "tours@euroadventures.net"
-phone: "+34 986 22 13 99"
-url: "www.euroadventures.net"
 ---
 
-getting around Cadiz
-
-**Contributors**
-October 20, 2006
-
-### [Private Driver Chauffeur Shore Excursions from Cadiz](/europe/spain/andalucia/cadiz/getting_around/private_driver_cha)
-
-If Cadiz is on your itinerary for a stop during
-your cruise around Spain why not have a private English-speaking
-chauffeur at your disposal to take you around Cadiz or on an excursion
-to nearby cities. You can customize your own chauffeur driven tour for
-a day. Tailor make an extended tour to have a private driver take you
-from town to town around the Cadiz area (eg. Seville, Jerez de la
-Frontera, Whitewashed Towns, etc..). This is a perfect choice for those
-seeking a stress free vacation while discovering the area. Stay away
-from the crowds of a regular group excursion and enjoy [more..](/europe/spain/andalucia/cadiz/getting_around/private_driver_cha)
-
-
-
-tel: +34 986 22 13 99
-
-url: [www.euroadventures.net](http://www.euroadventures.net/spain/private-tours/cadiz-driver-car-tour.html)
-
-address: Cadiz
-
-email: tours@euroadventures.net
+The old city is small and best explored on foot. The historic centre sits on a peninsula and is easily walkable from end to end in 30 minutes. Buses connect the old city with the newer districts and the bus station. Cadiz is well connected by train to Jerez de la Frontera (30 minutes), Seville (two hours), and Madrid.

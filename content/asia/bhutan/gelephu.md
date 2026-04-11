@@ -1,11 +1,14 @@
 ---
-title: "Gelephu"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 26.8704
+longitude: 90.4856
+title: Gelephu
 type: location
-latitude: 26.870365
-longitude: 90.48558
 ---
 
-Travel Guide
+Gelephu is a border town in southern Bhutan's Sarpang District, sitting on the Indian frontier where the Himalayan foothills flatten into the Assamese plains. It is hot and humid by Bhutanese standards — a different world from the mountain valleys further north — and has traditionally served as a transit point for traders and travellers crossing between the two countries.
 
-Gelephu (Tibetan: དགེ་ལེགས་ཕུ་; Wylie: dge-legs-phu; also known as Gelyephug) is a town in Sarpang District in Bhutan.[1] It is located on the Indian border, about 30 km to the east of Sarpang, the Dzongkhag (District) headquarters [2], and has a population of 9,199 as per 2005 census.[3]
-Gelephu was selected as a site for Bhutan's second international airport project, but it was downgraded to a domestic airport project in October 2008
+The town itself is small and unhurried. The Gelephu Tshachu (hot springs) lie a short drive to the north and are popular with locals. The Royal Manas National Park, Bhutan's oldest protected area, is accessible from here — a vast stretch of subtropical forest that is home to tigers, elephants, golden langurs, and several hundred bird species.
+
+Gelephu has been selected as the site of Bhutan's ambitious Mindfulness City project, a planned economic hub intended to attract international investment while maintaining the country's emphasis on Gross National Happiness. Whether this transforms the sleepy border town remains to be seen, but for now it offers an unconventional entry point into Bhutan — less dramatic than flying into [Paro](/asia/bhutan/paro), but with its own low-key appeal.

@@ -1,5 +1,5 @@
 ---
-title: "When to Go in St. Helena"
+title: "When to Go"
 type: section
 ---
 

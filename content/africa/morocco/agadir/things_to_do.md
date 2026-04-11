@@ -1,12 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-During your stay in Agadir, you can do many excursions withlocal travel agencies such as :
-
-Massa Excursion on 4x4 - from 9am to 5pm visiting the lake, Massa bird reserve, tifnit fishermen village
-
-Tafraout : from 7am to 7pm - visiting Tizourgane Kasbah - Berber villages on granite rocks in Tafraout - Then Tiznit Medina (silverware) -
-
-Marrakech : some like to go to Marrakech for one day, but as road takes up to 4 hours, it is better to go to the red Medina for two days. Start at 7am - arrive at 11, visit monuments - Jamaa El Fna square in the late afternoon - dinner with soire in a moroccan restaurant - overnight - the following day, visit some other interesting sites like Majorelles gardens, menara gardnes - drive to Essaouira (mogador), nice white ocean city known for its festivals and arts - visit - then
+The beach is the dominant attraction — a wide, clean arc of sand stretching 9 km along the bay, with generally calm Atlantic water. Beyond the beach, the Kasbah on its hilltop north of town offers the best panoramic view of the bay and is worth the trip for that alone. The Souq El Had and the Marché Municipal provide authentic city life away from the resort strip. The fishing port is liveliest at dusk. Day trips to Taroudannt, Paradise Valley, and the Massa bird lagoon are all easily arranged from Agadir.

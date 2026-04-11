@@ -1,5 +1,5 @@
 ---
-title: 'Shopping in Broken Arrow'
+title: 'Shopping'
 type: section
 ---
 

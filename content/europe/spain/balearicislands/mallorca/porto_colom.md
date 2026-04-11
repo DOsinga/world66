@@ -1,15 +1,14 @@
 ---
-title: "Porto Colom"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.423044
 longitude: 3.261471
+title: Porto Colom
+type: location
 ---
 
-Travel Guide
+Porto Colom is a natural harbour on the east coast of [Mallorca](/europe/spain/balearicislands/mallorca), the main coastal settlement of the municipality of Felanitx. It has a quieter, more local feel than the big resorts on the island's south and west coasts — the harbour is still used by working fishing boats, and the waterfront is lined with traditional boathouses (escars) painted in faded pastels.
 
-The resort of Porto Colom is the principle coastal development of the municipal district of Felanitx, on the southern half of the east coast of Majorca. Although as the crow flies the resort is only around 65km, or 40 miles east of Palma and the Son Sant Joan International airport, it has to be said that the road over to the east coast is not particularly good, and it is not unusual for the transfer to take approximately 1.1/2 to 2 hours from the time you actually leave the airport grounds.
-Although most visitors to the area are undoubtedly on traditional package holidays, many of the tour operators now consider the transfer from the airport to your chosen accommodation to be an optional extra, which in turn is leading more people to make their own arrangements for the journey by either pre-booked hire car, or alternatively by one of the many taxis from the ranks outside the arrivals hall.
+The town spreads around both sides of the inlet. The south shore has a small sandy beach (Cala Marçal) popular with families, while the north side is rockier and favoured by locals for swimming off the flat rocks. Several good seafood restaurants line the harbour promenade.
 
-In theory at least, these taxi should all operate on a fixed price basis, typically charging around 65 euro to 70 euro for the journey to Porto Colom, however experience has shown that this "fixed price" may vary slightly depending upon the number of suitcases, the time of day or night of the journey, and of course the number of passengers carried.
-
-Also an important consideration for families with small children, is that these taxis do not as a rule carry child seats, therefore children may have to sit on their parent's knee for the journey. If this is a cause for concern, we strongly recommend that you make arrangements for a pre-booked taxi to be waiting for you, and clearly specify at the time of booking that a child seat is needed for the journey.
+Porto Colom is about 65 km east of [Palma](/europe/spain/balearicislands/mallorca/palma) — allow around an hour and a half by car. There is no direct public transport from the airport, so a hire car or pre-booked taxi is the practical option.

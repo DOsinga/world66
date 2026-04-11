@@ -1,15 +1,16 @@
 ---
-title: 'Jajpur'
+done:
+  location_cleanup: '2026-04-08'
+latitude: 20.8747
+longitude: 86.1215
+title: Jajpur
 type: location
-latitude: 20.874679
-longitude: 86.121539
 ---
 
-Otherwise known as* Vaitarani Tirtha*, Jajpur with Goddess Viraja (Durga) as its
- presiding deity is one of the sacred places of pilgrimage in Orissa. The place has
- its unique importance in India as Navigaya Kshetra where pinda is offered for the
- satisfaction of the ancestors. The shrine of Sweta Varaha (the white boar
- incarnation of Vishnu) along with hundreds of other shrines here made Jajpur a
- Tirtha par excellence. The "Dasavamedha Ghat", the flight of steps leading to the
- Vaitarani where the ten horse sacrifices were performed is a great sanctified spot
- for the Hindus.
+Jajpur — also known as Vaitarani Tirtha — is one of Odisha's most important Hindu pilgrimage sites, built around the sacred Vaitarani river. The presiding deity is Goddess Viraja, a form of Durga whose temple draws devotees from across India, particularly those performing ancestral rites.
+
+The town's special significance lies in its role as a Navigaya Kshetra: a place where Hindus come to offer pinda (rice balls) for the souls of their ancestors. This makes Jajpur a quieter, more contemplative pilgrimage than the crowds of Puri — the people you see here are mostly on a specific religious mission. The atmosphere around the ghats is unhurried and genuinely devout.
+
+The Dasavasmedha Ghat is the ritual focal point — a broad flight of steps descending to the Vaitarani river, traditionally said to be where ten horse sacrifices (ashvamedha) were performed in ancient times. The compound also contains the shrine of Sweta Varaha (the white boar, an avatar of Vishnu) and hundreds of smaller shrines scattered through the town. Wandering among them is the main thing to do here.
+
+Jajpur is a straightforward base for visiting these sites. It's not a major tourist destination in the conventional sense, but for those interested in living Hindu practice and Odishan religious architecture, it rewards a day or two.

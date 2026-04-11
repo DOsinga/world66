@@ -1,33 +1,12 @@
 ---
-title: "Kingsburg"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 36.5138
+longitude: -119.5539
+title: Kingsburg
 type: location
-latitude: 36.51384
-longitude: -119.553893
 ---
 
-Travel Guide
+Kingsburg is a small city in the San Joaquin Valley south of Fresno, distinguished by its Swedish heritage. The first settlers arrived in the 1870s — Swedish immigrants drawn by the promise of Central Pacific Railroad land grants and good farming conditions — and by 1921 around 94% of the population within three miles was Swedish-American. The town still leans into the identity: buildings downtown are styled with Swedish architectural touches, there's a giant coffee pot water tower, and the annual Swedish Festival in May draws visitors from across California.
 
-The history of Kingsburg is unique with its single ethnic origin. In the early 1870s,
-news of good farming, warm climate and free government land prompted
-two Swedish natives to settle in a Central Pacific Railroad (now Union Pacific)
-town called "Kings River Switch". In 1874 the present town site was
-drawn up and the name was changed to "Kingsbury". Two years later it
-became "Kingsburgh" and in 1894 took on its present spelling,
-"Kingsburg".
-
-Before widespread irrigation,
-huge wheat farms were the source of Valley wealth and problems.
-Transient workers with no ties to any community spent their wages in
-the saloons of whatever town they found themselves. Overindulgence
-often resulted in gunshot-punctuated exuberance that often spilled into
-the streets. Kingsburg was no different. By 1886 there were four hotels
-and several saloons causing consternation to a growing town population.
-Alarmed community leaders, hoping to incorporate their city, led the
-fight to clean up the town. The fight was between "drys" who wanted all
-saloons within the city limits closed, and "wets" who wanted to
-maintain status quo. On May 11, 1908, "drys" won the day. Kingsburg was incorporated and all but two saloons were closed.
-
-In 1921,
-ninety-four percent of the population within a three-mile radius of
-Kingsburg was Swedish-American, giving the community the nickname of
-"Little Sweden."
+The town's economy, like most of the Central Valley, runs on agriculture — particularly stone fruits and raisins. It's a pleasant stopover on Highway 99 for anyone interested in the immigrant communities that built California's farming towns, though not a major destination in itself.

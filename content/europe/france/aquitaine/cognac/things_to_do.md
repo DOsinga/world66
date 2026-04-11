@@ -1,7 +1,8 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Tour the best vineyards of cognac, the Grande Champagne area, where you discover traditional distilleries, barrel factories, Romanesque churches. Ones name this area the French Tuscany with its people who still maintain their art of living, the slow attitude.
-Ask "Cognac Tasting Tour" to organize your tailor-made tour. English speaking driver & guide : +33 (0) 5 45 80 80 38
+The main activity in Cognac is touring the distilleries and chais (ageing warehouses). Most of the major houses -- Hennessy, Martell, Remy Martin, Camus -- offer guided visits with tastings, typically lasting one to two hours. Booking ahead is recommended in summer.
+
+For a deeper look at how cognac is made, drive out into the Grande Champagne area south of town. Small family distilleries are often happy to show visitors around, and the rolling countryside of vineyards and Romanesque churches makes the trip worthwhile even without a tasting at the end.

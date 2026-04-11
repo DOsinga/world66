@@ -1,10 +1,12 @@
 ---
-title: "Carlisle"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.201499
 longitude: -77.189078
+title: Carlisle
+type: location
 ---
 
-This pleasant mid-size town in south central Pennsylvania (just west of Harrisburg) is home to the U.S. Army War College and Dickinson College. Jim Thorp, noted Native American athlete, trained here. The USAWC post/campus was the site of the government's "Indian School" in the early 20th century. The post also contains the Hessian Guard House, a building that housed Hessian mercenaries during the Revolutionary War.
+Carlisle is a pleasant mid-size town in south-central Pennsylvania, just west of Harrisburg. It is home to both the U.S. Army War College and Dickinson College, giving it an academic and military character unusual for a town of its size. The post that houses the Army War College was historically the site of a government-run Indian boarding school in the early twentieth century — a complicated and important chapter in American history. The campus also contains the Hessian Guard House, which held Hessian mercenaries during the Revolutionary War.
 
-Gettysburg, the Cumberland Mountains (part of the Appalachians) and the Amish country in Lancaster County are all within a short drive from Carlisle.
+Gettysburg, the Cumberland Mountains, and the Amish country of Lancaster County are all within an easy drive, making Carlisle a reasonable base for exploring south-central Pennsylvania.

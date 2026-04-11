@@ -1,10 +1,16 @@
 ---
-title: "Cardiff"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 51.481655
 longitude: -3.179193
+title: Cardiff
+type: location
 ---
 
-Cardiff became the capital of Wales in 1955, but it has risen to the occasion pretty fast. The town is getting a real European capital like atmosphere and is very much alive and kicking. The area near Tiger Bay is completely being renovated there is a new Opera house. 
+Cardiff only became the capital of [Wales](/europe/unitedkingdom/wales) in 1955, but it has grown into the role with impressive speed. The city has a genuinely European feel — compact, walkable, and with a cultural life that punches well above the weight of its 350,000 population.
 
-Cardiff is maybe more English than [Swansea](/europe/unitedkingdom/wales/swansea), but you have to be more Welsh than the Welsh if you let this fact stop you from enjoying yourself in this vibrant city!
+**Cardiff Castle** dominates the city centre — a Roman fort, Norman keep and Victorian Gothic fantasy all on the same site. The Marquess of Bute's lavishly decorated interiors are worth the tour. Nearby, the **National Museum Cardiff** houses one of the best Impressionist collections outside Paris, alongside an excellent natural history section.
+
+The **Cardiff Bay** waterfront, once the gritty docklands of Tiger Bay that shipped Welsh coal to the world, has been completely transformed. The **Wales Millennium Centre** (the opera house) is a striking piece of architecture, and the **Senedd** (Welsh Parliament building) is open to visitors. The bay itself is now a freshwater lake, ringed by restaurants and bars.
+
+For rugby fans, the **Principality Stadium** in the heart of the city centre is something close to a cathedral. On match days the entire city revolves around it.

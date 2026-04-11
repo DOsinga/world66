@@ -1,8 +1,12 @@
 ---
-title: "Igaliku"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 60.9891
+longitude: -45.421
+title: Igaliku
 type: location
-latitude: 60.989138
-longitude: -45.421044
 ---
 
-This tiny village (known in ancient times as Gardar) shielded by the mountains and blessed with good soil is in a sheep-raising and vegetable-growing area. It was the main religious center for the Vikings in Greenland and you can still see the ruins of their cathedral which was built in the 1100s. Hvalsey Church one of Greenland’s best Viking ruins is five hours away from Igaliku by boat. *305 mi/490 km southeast of [Nuuk](/northamerica/greenland/nuuk). *
+Igaliku is one of the most beautiful spots in southern [Greenland](/northamerica/greenland) — a tiny farming village of brightly painted houses in a sheltered valley surrounded by mountains, with views across the fjord. The setting alone justifies the trip, but this place also carries a thousand years of Norse history.
+
+Known in Viking times as Gardar, Igaliku was the ecclesiastical capital of the Norse Greenland colony. The ruins of the cathedral, built in the 1100s, are still visible at the edge of the village — modest in scale but remarkable for their location. The soil here is unusually good by Greenlandic standards, and the village remains a sheep-farming settlement, its green fields a startling contrast to the surrounding rock and ice. Hvalsey Church, one of Greenland’s best-preserved Norse ruins, is reachable by boat from here. Igaliku sits about 490 kilometres southeast of [Nuuk](/northamerica/greenland/nuuk).

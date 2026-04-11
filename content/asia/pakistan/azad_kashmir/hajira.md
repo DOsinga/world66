@@ -1,10 +1,10 @@
 ---
-title: "hajira"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 33.771551
 longitude: 73.896786
+title: Hajira
+type: location
 ---
 
-Travel Guide
-
-Hajira is a Tasil of Poonch district. Hajira is sorrounded by beautiful villages.Total Population of Hajira and sorrounded villages is almost Fourty Thousand(40,000).Line of Control is only 5 Km far from Hajira.Weather of this city is hot as compare to other Kashmir's citites.The special thing in hajira is that all hotel and resturant open 24 hours.
+Hajira is a tehsil of Poonch District in Azad Kashmir, surrounded by forested hills and villages. The Line of Control lies only a few kilometres away, giving the area a frontier quality. The local restaurants and hotels are said to keep long hours.

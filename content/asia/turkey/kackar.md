@@ -1,10 +1,14 @@
 ---
-title: "Kackar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 41.098659
 longitude: 40.814018
+title: Kackar
+type: location
 ---
 
-Travel Guide
+The Kaçkar Mountains rise steeply from Turkey's Black Sea coast between Trabzon and [Rize](/asia/turkey/kackar/rize), reaching 3,932 metres at Kaçkar Dağı — the second highest peak in Turkey after Mount Ararat. This is some of the finest trekking country in the eastern Mediterranean: alpine meadows, glacial lakes, and mountain villages connected by ancient paths.
 
-**Kackar** Mountain is located between Trabzon-Rize, 50km inland which is the second highest peak(3,932m) in Turkey after Mount Ararat (5,165m). Ayder Yayla (Platue) is the last town where one can stay near the top which has pansions, hotels and hot spring of Turkish Bath. Ayder is the place where you may start the trekking tours but make sure you get a tour guide before you do it. The most popular trekking tour starts at Yukarı Kavrun and crosses the mountain to Barhal, Yusufeli (south side of the mountain) but only can be done in June-August time frame and make sure you have a tour guide to lead your way. You may get lost easily when there is a dense fog which may happen several times a day!!!! You may still drive to edge of the mountain at Yukari Kavrun village but the road is very bumpy and only be operational in the summer time, the 17 km road easily takes one hour of driving. In winter time, people organize snow board tours when a helicopter drops them off at the summit and they ski down all the way to Ayder however, only the professional skiers can do it.
+Ayder Yayla, a plateau settlement at about 1,300 metres, is the most popular base on the northern side. It has pensions, small hotels, and a hot spring. From here, the classic trek crosses the range via Yukarı Kavrun to Barhal and Yusufeli on the southern side — a multi-day route that is only feasible from June to August. A guide is essential: dense fog can roll in several times a day and the terrain is disorienting.
+
+You can drive to the edge of the mountain at Yukarı Kavrun village, but the 17-kilometre road is extremely rough and only passable in summer — allow at least an hour. In winter, helicopter-assisted snowboarding from the summit down to Ayder attracts experienced riders, though this is strictly for professionals.

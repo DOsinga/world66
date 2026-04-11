@@ -1,8 +1,14 @@
 ---
-title: "Keukenhof"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.269873
 longitude: 4.547257
+title: Keukenhof
+type: location
 ---
 
-Anyone with an interest for flowers who is visiting the Netherlands in spring should visit the Keukenhof. Open from March to May, this is where you can find an amazing 6 million flowers! The Keukenhof is easy to reach by bus from [Haarlem](/europe/netherlands/haarlem) and [Leiden](/europe/netherlands/leiden) .
+Anyone with an interest in flowers visiting the [Netherlands](/europe/netherlands) in spring should make the trip to Keukenhof. Open from mid-March to mid-May, this is one of the world's largest flower gardens — some six million tulips, hyacinths, daffodils, and other bulbs are planted each year across 32 hectares of parkland.
+
+The gardens are located between [Haarlem](/europe/netherlands/haarlem) and [Leiden](/europe/netherlands/leiden) and are easy to reach by bus from either city. The surrounding bulb fields, visible from the road on the way in, are nearly as impressive as the gardens themselves — vast stripes of red, yellow, pink, and purple stretching to the horizon.
+
+Keukenhof is extremely popular and gets crowded, especially on weekends. Go early on a weekday if you can.

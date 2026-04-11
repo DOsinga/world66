@@ -1,10 +1,14 @@
 ---
-title: "Cherating"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 4.1265
+longitude: 103.3925
+title: Cherating
 type: location
-latitude: 4.126509
-longitude: 103.392474
 ---
 
-Cherating is located approx. 75 kilometers north of Kuantan. It is known as Asia's first Club Mediterranee are excellent for a host of leisure activities, such as windsurfing, swimming, snorkelling and parasailing. Among the beach's attractions is the rustic atmosphere in the kampungs, whose friendly people will usually play host to visitors. There are also a large number of backpackers visiting Cherating. Most guesthouses serve dinner for every guest at a fixed time. A nice way of meeting other travellers. The area is also known for the famous sea turtles. 
+Cherating is a laid-back beach village about 75 kilometers north of Kuantan on Malaysia's east coast. It draws a steady mix of backpackers and water sports enthusiasts to its long stretch of sand, where the pace of life moves roughly as fast as the fishing boats drifting offshore.
 
-Cherating is also a good place to explore the surrounding area - it is not necessary to stay in Kuantan for that. There are a few travel agents around. You can, for example, arrange tours to sights and sights.
+The village has a pleasantly rustic feel, with simple guesthouses lining the road behind the beach and a handful of restaurants where everyone eats at the same time, making it easy to meet fellow travelers. The lagoon is calm enough for learning to windsurf or kayak, while the open sea picks up proper waves during the monsoon months from November to March.
+
+Beyond the beach, Cherating is a base for boat trips up the mangrove river, where you can spot monitor lizards, otters, and monkeys by day, or watch fireflies light up the riverbanks after dark. The area is also known for its sea turtles, which come ashore to nest on nearby beaches. It makes a good base for exploring the Kuantan region without staying in the city itself.

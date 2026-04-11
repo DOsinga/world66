@@ -1,8 +1,10 @@
 ---
-title: "Kotor"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.4249
+longitude: 18.7713
+title: Kotor
 type: location
-latitude: 42.42492
-longitude: 18.771333
 ---
 
 Kotor is the most compelling city on the Montenegrin coast — a medieval Venetian town enclosed by 4.5km of walls that climb steeply up the rocky hillside behind it. The old town is a tight maze of marble-paved lanes, Romanesque churches, and small piazzas, with cats lounging on every warm surface (Kotor has taken the stray cat as its unofficial symbol and embraces it fully).

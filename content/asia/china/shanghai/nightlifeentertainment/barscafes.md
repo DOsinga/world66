@@ -1,6 +1,6 @@
 ---
-title: "Bars & Cafes"
-type: location
+title: Bars and Cafes
+type: section
 ---
 
 **Place to go outs**

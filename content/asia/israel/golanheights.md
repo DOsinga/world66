@@ -1,8 +1,10 @@
 ---
-title: "Golan Heights"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 33.040802
 longitude: 35.739289
+title: Golan Heights
+type: location
 ---
 
 The Golan Heights are a rocky plateau captured by Israel from Syria in the 1967 war and annexed in 1981, though the annexation is not recognized under international law. Israel declared sovereignty over the area in 2019, a move recognized by the United States but not by most other countries. The strategic territory sits above the Sea of Galilee and the Jordan Valley.

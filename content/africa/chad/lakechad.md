@@ -1,8 +1,10 @@
 ---
-title: "Lake Chad"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 13.0
 longitude: 14.0
+title: Lake Chad
+type: location
 ---
 
 Lake Chad once ranked among the largest lakes in Africa. Since the 1960s it has lost roughly 90% of its surface area, a combination of climate change, drought, and upstream irrigation. What remains is a shallow, marshy expanse of open water, reed beds, and islands, shared between [Chad](/africa/chad), Cameroon, Nigeria, and Niger.

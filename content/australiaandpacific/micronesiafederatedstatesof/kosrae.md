@@ -1,12 +1,16 @@
 ---
-title: "Kosrae"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 5.325
+longitude: 162.9817
+title: Kosrae
 type: location
 ---
 
-Kosrae has been described as an unblemished garden of flowers, palms and citrus trees. And the clear, clean seas around it are home to healthy and diverse coral reefs. The air is fresh on Kosrae and adventure beckons those wanting to truly get away from it all.
+Kosrae is the easternmost of the four states of the Federated States of Micronesia, and one of the most remote inhabited islands in the Pacific. Covered in dense jungle, flowering trees, and citrus groves, it feels genuinely untouched — there are no resorts, no cruise ships, and very few tourists. The island is small enough to drive around in an hour, but rich enough to keep you busy for a week.
 
-  Steeped in the history of many decades, the island is ripe for exploration. There are mysterious ancient ruins of the forefathers of the Kosraean people. World War II artifacts, cave systems and remnants abound and there's even a pirate ship sunk beneath the waves. A hike up to Kosrae's famous Mount Omar will take the explorer past a series of gushing waterfalls pouring through the lush Kosrae jungle. The famous mangroves of the island present a world of opportunity to see nature in its all of its peace and solitude. Paddle a sea kayak or a native outrigger canoe through the vast channels for a truly exhilarating trip into the womb of the marine world.
+The clear ocean around Kosrae is its greatest draw. Living coral reefs completely encircle the island, with more than fifty identified dive sites marked with buoys to prevent anchor damage. The eastern side has beautiful hard coral gardens; the western side drops away into plunging walls where sharks, dogtooth tuna, and schools of barracuda patrol the reef edge. Underwater visibility regularly exceeds 30 metres.
 
- Kosrae offers a restful scenic way of life that few people get to experience firsthand. The mangroves of Kosrae are some of the most amazing to be found anywhere in the world. In some places they form a high jungle canopy where rivers flow below and channels rise and fall with the tides. Immense root systems and a myriad of animal and plant life flourish in these complicated ecosystems. There is also a marine preserve on Kosrae where juvenile creatures are allowed to grow and flourished unmolested by humans. Not all of Kosrae is paved and villages like Walung can be reached only by boat. Here people go about their daily lives without cars or electricity. They commute at high tide and must live both from and with the sea.
+On land, the ruins of Lelu are the main historical attraction — a complex of ancient basalt structures built by the forefathers of the Kosraean people, less famous than Nan Madol on Pohnpei but similarly atmospheric. World War II relics are scattered around the island, and there is a pirate ship sunk beneath the harbour waters. A hike up Mount Oma (also called Mount Finkol, the highest peak at 629 metres) passes through jungle and a series of waterfalls.
 
-  For the adventurer, its greatest attraction is the clear, clean ocean and living coral reefs that completely encircle it. More than 50 dive sites have been identified by local diving pioneers. Each has been marked with a buoy to prevent improper anchoring, leaving Kosrae's reefs pristine and ripe for exploration. Beautiful hard coral gardens punctuate the eastern side of the island. On the west, the gardens give way to plunging walls. Sharks, dogtooth tuna, barracuda schools and other exciting ocean citizens can all be encountered along the reef's edge. And a rainbow of colors can be found in the forests of tiny Christmas tree invertebrates that populate the large corals. Underwater visibility averages 100 feet or better.
+The mangroves deserve special mention. In places they form a high jungle canopy over tidal channels, and paddling a sea kayak or traditional outrigger canoe through them is extraordinary. A marine preserve protects juvenile sea life within the mangrove ecosystem. Not all of Kosrae is connected by road — villages like Walung can only be reached by boat, where people live without cars and commute at high tide.

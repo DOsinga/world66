@@ -1,20 +1,12 @@
 ---
-title: "Steingaden"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 47.701707
 longitude: 10.860269
+title: Steingaden
+type: location
 ---
 
-Here, where the Romantic Road crosses the German Alp Road (Alpenstrasse), travellers will find a "Praemonstratenser" monastery founded by duke Welf VI in the times of the second crusade and the well known pilgrimage church "Wieskirche". Built in Rococo style (1746 - 1754) the Wieskirche is today a Unesco world cultural heritage sight. In summertime there are series of concerts, worth to be heard.
+Steingaden is a small village at the point where the Romantic Road crosses the Deutsche Alpenstrasse. The village itself is quiet, but two churches make it an essential stop.
 
-
- More informations:
-
-
- Tourist office Steingaden
-
-
- Verkehrsamt, 86989 Steingaden
-
-
- Tel. +49 8862 - 200
+The Wieskirche, about 5 km southeast of town, is one of the finest rococo churches in the world and a UNESCO World Heritage Site. Built between 1746 and 1754 by Dominikus Zimmermann, its exterior is plain white — but the interior is an explosion of colour, gilding, and trompe-l'oeil that leaves most visitors genuinely speechless. In Steingaden itself, the 12th-century Premonstratensian monastery church of St. John the Baptist is worth a visit for its Romanesque cloister and baroque interior. Summer concerts in both churches draw appreciative audiences.

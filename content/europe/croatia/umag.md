@@ -1,12 +1,14 @@
 ---
-title: "Umag"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 45.432359
 longitude: 13.52241
+title: Umag
+type: location
 ---
 
-Travel Guide
+Umag is a small harbour town at the very northwestern tip of the Istrian peninsula in [Croatia](/europe/croatia), the first stop on the coast if you are coming from Italy or Slovenia. The old town sits on a small promontory, its narrow streets lined with Venetian houses, remnants of medieval walls, and churches — the most notable being the parish church of the Assumption and the church of St Peregrine.
 
-**Umag** is a picturesque small Mediterranean town - harbour, the Croatian gate to Europe, the first tourist destination you come across on arrival to the northern part of the Adriatic coast. Umag has excellent road and air connections with all large towns in the world (at only 50 nautical miles from the famous Venice!). It is located in an attractive bay with one of the most prestigious ACI marinas awarded the Blue Flag. Beside the marina, this internationally recognized an eco-label given to beaches and marinas with high environmental standards as well as good sanitary and safety facilities flutters on 10 more beaches in Umag. The crystal clear sea is suitable for bathing from May to October.
-Its natural beauties, the history and tradition of the old town of Umag and of the surrounding Istrian area, a warm Mediterranean climate with an abundance of sunshine during most months of the year and high quality hotels, campsites, apartments and bungalows make Umag an ideal vacation place for the whole family. Umag is a widely known site of the international **ATP** tennis tournament, which has been successfully organized since 1990.
-The history of Umag is exceptionally interesting: In ancient times it was discovered by Roman aristocracy who adopted it for their summer residence. The splendour, luxury and glamour of those times is reflected today in Venetian houses many of which can be find in the old town core of Umag. The town has preserved parts of the town walls and defence towers, Renaissance and Baroque houses and churches, the most famous among them being the parish church of the Assumption of Virgin Mary and the church of St. Peregrine.
+The town is best known internationally for its annual ATP tennis tournament, held since 1990. Outside tournament week, Umag is a quiet, pleasant base for exploring northern Istria. The coastline has clean beaches (several fly the Blue Flag), the sea is warm enough for swimming from May to October, and the ACI marina is one of the best-equipped on the Croatian coast.
+
+Venice is only 50 nautical miles across the Adriatic. The Istrian interior, with its hilltop towns and truffle country, is within easy reach by car.

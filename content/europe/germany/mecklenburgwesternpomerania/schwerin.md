@@ -1,23 +1,14 @@
 ---
-title: "Schwerin"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 53.6288
+longitude: 11.4148
+title: Schwerin
 type: location
-latitude: 53.62883
-longitude: 11.414804
 ---
 
-Schwerin is the second largest city in "Mecklenburg-Vorpommern" and also the old residential seat of the Grand Dukes of Mecklenburg-Schwerin. The former royal residence and present state capital lies in the middle of one of Germany’s most beautiful lake districts, the "Mecklenburger Seenplatte".
+Schwerin is the smallest state capital in Germany and one of the most beautiful. The city spreads across a landscape of seven lakes and dense forests in the heart of Mecklenburg-Vorpommern, and its centrepiece is a fairytale castle on an island in the Schweriner See that looks like it belongs in a Disney film rather than northern Germany.
 
+The old residential seat of the Grand Dukes of Mecklenburg-Schwerin, the city has a remarkably grand feel for its size. Classicist buildings line the Alter Garten square, including the State Theatre, widely considered one of Germany's finest, and the Staatliches Museum with its outstanding collection of Dutch and Flemish old masters. The Gothic cathedral's 117-metre brick spire dominates the skyline and offers sweeping views across the lakes from its lookout platform.
 
- 
- The Schwerin Chateau, lying on an island in Lake Schwerin is one of the most notable historic buildings in Germany and an irresistible tourist attraction as is the Schwerin Cathedral, a fine example of Gothic brick architecture. The representative Classicist buildings such as the Regional Museum, the Alte Palais, the Marstall, the State Theatre (widely regarded as one of the finest in Germany) and the Arsenal are all worth visiting. Further highlights are the Market Place, the Old Town, the many museums and the general cultural programme.
-
-
- 
- The excellent shopping facilities are appreciated by tourists and local people alike. Its superb setting on the southwest banks of Lake Schwerin and the surrounding countryside with its countless woods and lakes make the "city of the seven lakes and forests" well worth a visit. 
- 
-
-This content is available under the terms of the [GNU Free Documentation Licence](http://www.gnu.org/copyleft/fdl.html)
-
-Webdesign and logo (c) World66.com B.V.
-
-World66 is created and maintained by [Oberon Medialab B.V.](http://www.oberon.nl/en)
+Beyond the monuments, Schwerin is a relaxed, walkable city. The compact old town has a pleasant market square, and the lakefront parks are ideal for a slow afternoon. It makes an excellent base for exploring the Mecklenburg lake district, a vast watery landscape of interconnected lakes, forests, and quiet villages that stretches east toward the Mueritz.

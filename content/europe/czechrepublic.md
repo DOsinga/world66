@@ -1,23 +1,22 @@
 ---
-title: "Czech Republic"
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-09'
+image: czechrepublic.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:N%C3%96LB_Mh&amp;action=edit&amp;redlink=1"
+  class="new" title="User:NÖLB Mh (page does not exist)">NÖLB Mh</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:CD-RJ_als_EC_73.jpg
+latitude: 49.8175
+longitude: 15.473
+title: Czech Republic
 type: location
-latitude: 49.743905
-longitude: 15.338106
 ---
 
-After the fall of the Berlin wall millions of people from the west sped to the Czech republic and specially its capital Prague. And with some reason. This central European country really has a lot to show and Prague is definitely one of the most beautiful cities in the whole world. The ancient tradition of brewing beer (Budweiser was originally a czech beer) makes your stay in the country an even more enjoyable one.
+Officially called Czechia since 2016, though Czech Republic remains widely used, this landlocked country in the heart of Central Europe punches well above its weight as a travel destination. It packs medieval old towns, fairytale castles, rolling Bohemian countryside, and one of the world's great beer cultures into a compact and very easy-to-navigate country.
 
-The Czech Republic is situated approximately in the geographical center of Europe and has an area of 78,866 sq. km. It is a landlocked country 326 km from the Baltic and 322 km from the Adriatic. It shares borders with Germany (810 km), Poland (762 km), Austria (466 km) and Slovakia (265 km). The highest point of elevation is the peak of Mt. Snezka (1,602 m above sea level) and the lowest point of elevation is near Hrensko where the River Labe leaves Czech territory (117 m above sea level).
+[Prague](/europe/czechrepublic/prague) dominates the tourist map — and rightly so, it's stunning — but the country rewards those who venture further. [Brno](/europe/czechrepublic/brno), Moravia's capital, is a lively university city with a fraction of Prague's crowds. [Český Krumlov](/europe/czechrepublic/ceskykrumlov) is arguably the most beautiful small town in Central Europe. The spa towns of western Bohemia, the wine country of South Moravia, and the sandstone landscapes of Bohemian Switzerland all have their own distinct appeal.
 
-## Destinations in Czech Republic
+The country has been independent since 1993, when Czechoslovakia peacefully split into the Czech Republic and Slovakia. The communist period left its marks — some industrial cities feel heavy with that history — but the historic cores of most towns came through the 20th century remarkably intact.
 
-[Prague](/europe/czechrepublic/prague)
-[Nachod](/europe/czechrepublic/nachod)
-[Karlovy vary](/europe/czechrepublic/karlovyvary)
-[Plzen](/europe/czechrepublic/plzen)
-[Brno](/europe/czechrepublic/brno)
-[Kutna hora](/europe/czechrepublic/kutnahora)
-[Cesky krumlov](/europe/czechrepublic/ceskykrumlov)
-[Spindleruv Mlyn](/europe/czechrepublic/spindleruvmlyn)
-[Marianske lazne](/europe/czechrepublic/marianskelazne)
-[Ceske budejovice](/europe/czechrepublic/ceskebudejovice)
+Czechs are not effusive by default, but they warm up quickly over a glass of beer. The pub (hospoda) is the true center of Czech social life.

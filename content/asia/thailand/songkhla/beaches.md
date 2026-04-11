@@ -3,12 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-**Beachs**
-
-**Son On Beach**
-
-North of Samila Beach. Great seafood available. 
-
-**Samila Beach**
-
-This white sand beach is the most popular beach in the province. Located 3 km out of the city centre.
+Songkhla's beaches line the narrow strip of land separating the Gulf of Thailand from Songkhla Lake. Samila Beach, 3 km from the city centre, is the most popular — a long white-sand stretch shaded by casuarina trees, famous for its bronze mermaid statue. Son On Beach lies further north and is quieter, with good seafood restaurants nearby.

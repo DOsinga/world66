@@ -1,9 +1,9 @@
 ---
-title: "Shopping in Sestri Levante"
+title: Shopping
 type: section
 ---
 
-Sestri Levante is a town in Liguria, Italy. Located on the Mediterranean Sea, it is about an hour from Genoa. **Sestri Levante ****Shopping **is getting more interesting every year. This was a quiet fishing village and right now it is slowly becoming a tourist hot spot. The old town has been there for centuries and the new town is growing rapidly. Most of the shops are located around the beach and city center and tourists can easily spend the whole day wondering around the place. Via Nazionale is the main street in the city and is also packed with shops and small malls. The best thing to shop for around Sestri Levante is local food and products.
+The best shopping in Sestri Levante is local food. Via Nazionale is the main shopping street, but look also in the old town streets for the best specialist food shops.
 
 **Old Salumificio Castiglione**
 

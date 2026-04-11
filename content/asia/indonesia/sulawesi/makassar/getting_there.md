@@ -3,8 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-Now you will come to [Makassar](/asia/indonesia/sulawesi/makassar) South Sulawesi direct from Kuala Lumpur.
-Starting on Aug 2008, Air Asia was open flight from Kuala Lumpur - Malaysia to Makassar. For More detail you can visit Air Asia Website.
+Sultan Hasanuddin International Airport receives domestic flights from Jakarta, Bali, and Surabaya, as well as some international connections from Kuala Lumpur and Singapore. The airport is about 20 km east of the city centre.
 
-Cempaka Travel Makassar
-www.cempakatravel.co.cc
+Pelni ferries connect Makassar to ports across eastern Indonesia, including Balikpapan, Surabaya, and Papua. The Pelni harbour is in the city centre. Long-distance buses and minivans serve destinations across South Sulawesi, departing from Terminal Daya in the north of the city.

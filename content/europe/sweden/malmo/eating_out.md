@@ -3,4 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Food lovers have a lot to choose from in Malmö. There is a vast array of cosy local pubs and gourmet restaurants. During the summer Lilla torg is like a giant outdoor restaurant, full of cafés, restaurants and pubs. But all year round there is a multitude of restaurants available, serving everything from home cooking to exotic food.
+Malmo's food scene is one of Sweden's best, driven by the city's diversity and its proximity to Denmark's culinary culture. Lilla Torg is the obvious starting point, with its ring of restaurants spilling onto outdoor terraces in summer, but the real finds are scattered across the neighbourhoods. Mollevangen is the go-to area for cheap, excellent Middle Eastern and Asian food, while the streets around Davidshallstorg have filled up with inventive bistros and brunch spots. Swedish classics like herring and meatballs are easy to find, but the city's strength is range.

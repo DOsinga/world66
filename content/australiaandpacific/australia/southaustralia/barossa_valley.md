@@ -1,22 +1,16 @@
 ---
-title: "Barossa Valley"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -34.600905
 longitude: 138.890809
+title: Barossa Valley
+type: location
 ---
 
-The Barossa Valley is the largest & best developed Wine region in South Australia. SA produces 60% of Australia's wine & this district has a hand in it all in some way.
+The Barossa Valley is Australia's most famous wine region, responsible for a significant share of the country's output and home to some of its most celebrated producers — Penfolds, Henschke, Peter Lehmann, Seppeltsfield. It lies about an hour's drive north of Adelaide and is the easiest of South Australia's wine regions to visit.
 
-It comprises three main towns Tanunda, Nuriootpa & Angaston. Subsidiary villages included Greenock, Bethany, Light Pass, Stockwell, Seppeltsfield, Truro, Kapunda, Rowland Flat & Lyndoch.
+The valley was settled in the 1840s partly by German religious refugees from Silesia and Prussia, and their influence is still visible. The names on the hills — Kaiser Stuhl, Menglers, Gnaddenfrei — are German. The food tradition runs to smallgoods, pretzels and smoked meats alongside the modern Australian dining that has grown up around the cellar doors. The original immigrants brought tobacco plants, which failed. Fortunately, one brought vine cuttings, and the rest is history.
 
-Some names in the region supply a hint of the region's history. Menglers Hill, The Kaiser Stuhl, Gnaddenfrei at Marananga. The district was settled in part by german religious refugees who brought tobacco plants with them with the intention of setting up as growers. It was a failure. Fortunately one of the immigrants brought some vine cuttings with him. The result were beautiful vines bearing abundant fruit. One by one the disillusioned tobacco growers pulled out the dying tobacco plants & planted cuttings from those first few vines.
+The three main towns are Tanunda, Nuriootpa and Angaston, with smaller villages — Greenock, Bethany, Seppeltsfield, Lyndoch — scattered through the valley. Most wineries welcome visitors for tastings, and the best way to see the area is to drive (or cycle, if the heat allows) between them. The Seppeltsfield Road is particularly scenic, with a long avenue of palms leading to the historic winery.
 
-Their wine was originally made in the german tradition with german names for the produce. For many years white wine in South Australia was either Hock or Moselle. Latterly, the growth of an international wine market has seen the adoption of better known terms & identification with varietal descriptors. When you drink Australian Wine no matter where in the world, there is a chance it came from or was influenced by the Barossa Valley & its heritage.
-
-Only a fool would visit South Australia & not visit the Barossa. Its food, wine, heritage & lifestyle today is a celebration of its history & the unique folk who abide there. Other South Australians often refer to them as Barossa Valley Deutschers. They are unlike no others in SA. Good people to be sure & hospitable to a fault.
-
-Things Teutonic especially wine, small goods, leather work & attitude to living have survived & in fact prospered in the fertile Barossa Valley soil.
-
-Accommodation & Food from Back-packer to 5 star.
-
-This is a work in process. There is much to add to it.
+The Barossa Vintage Festival, held every two years, is the longest-running wine festival in Australia. On non-festival years, the Barossa Gourmet Weekend in September offers food-and-wine events across the valley.

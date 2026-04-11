@@ -1,14 +1,12 @@
 ---
-title: "Wye Valley"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.706856
 longitude: -2.692298
+title: Wye Valley
+type: location
 ---
 
-The Wye starts in Mid-Wales and joins the Severn at its mouth going into the Bristol Channel. At times it forms the border between England and Wales but at other times it is entirely in Wales. 
+The River Wye rises in mid-Wales and joins the Severn at its mouth near the Bristol Channel. For stretches it forms the border between England and Wales; elsewhere it's entirely in Welsh territory. The whole river is beautiful, but "the Wye Valley" usually means the lower section — the dramatic gorge around Symonds Yat and, further downstream, the hauntingly photogenic ruins of Tintern Abbey.
 
-It is a lovely river throughout but the best known stretch, that always known as 'the Wye valley', is the lower part near the great viewing area of Symond's Yat and lower still at Tintern Abbey.
-
-In its upper reaches the river gives its name to two towns, Hey-on-Wye and Ross-on-Wye the first being possibly the best venue in Britain for second hand books in Powys and the second being in England.
-
-http://www.visitwyevalley.com/home_frame.html
+Upstream, the river connects two very different market towns. Hay-on-Wye, just inside Powys, is one of Britain's best destinations for second-hand books. Ross-on-Wye, across the border in Herefordshire, is a quieter place with good walking access to the valley below.

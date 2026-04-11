@@ -1,18 +1,16 @@
 ---
-title: "Hull"
+title: Hull
 type: location
-latitude: 53.762386
-longitude: -0.330121
+latitude: 53.744
+longitude: -0.332
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Hull is a major port in England. Many people just get off the boat here and immediately move on. It would be a pity. Hull has quite a few things to offer to travelers.
+Kingston upon Hull — everyone calls it Hull — sits where the River Hull meets the Humber estuary, and for centuries the North Sea has defined everything about it: the fishing industry that made it rich, the Blitz that flattened much of it, and the bleakly beautiful flatness of the surrounding landscape. Most visitors arrive by ferry from Rotterdam or Zeebrugge and promptly catch a train to somewhere else. That's a mistake.
 
+The Old Town is the place to start. Its tight grid of medieval streets survived relatively intact, and the Museum Quarter here offers genuinely excellent free museums — the Arctic Corsair, a deep-sea trawler moored on the River Hull, gives an unflinching picture of what the fishing industry actually looked like. The Streetlife Museum and the Hull and East Riding Museum round out the picture without charging a penny.
 
- Officially known as Kingston-upon-Hull, Hull - as it is better known - is a city and port in Humberside, England, situated at the junction of the Hull and Humber rivers. It is linked to the south bank of the estuary by a bridge completed in 1981. Hull was the birthplace of the English philanthropist William Wilberforce.
+Hull was UK City of Culture in 2017, which triggered a wave of investment and public art. The most striking result is the Blade — a 75-metre wind turbine blade lying diagonally across Queen Victoria Square — a reminder that the Humber estuary is now one of Europe's biggest centres for offshore wind manufacturing. William Wilberforce was born here; the Wilberforce House Museum on the High Street is a serious and moving account of the abolition of slavery.
 
-
- The city centre has spacious pedestrianised shopping streets; distinguished public buildings, many recently refurbished; the Old Town, where Hull began about 800 years ago, offers narrow, cobbled lanes and quays; Holy Trinity Church, founded 700 years ago; 18th and 19th Century architecture; old waterside inns and a wide range of museums to which entrance is entirely free.
-
-
- 
- New leisure attractions in out historic dockland include an elegant yacht harbour, and Olympic-standard Ice Arena, a 34-lane 10-pin Bowling Centre and an extensive range of shopping facilities complementary to those in the heart of the City. There is also a satisfying variety of entertainment, theatrical and musical choice to meet the most demanding tastes - all brought together by many special and 'festive' events throughout the year and the ever present tang of the sea.
+The Humber Bridge, a few miles west, held the record as the world's longest single-span suspension bridge for over a decade. It's worth the drive just to walk across it.

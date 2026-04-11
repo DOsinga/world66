@@ -1,12 +1,14 @@
 ---
-title: "Burlington"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.4762
+longitude: -73.2129
+title: Burlington
 type: location
-latitude: 44.47616
-longitude: -73.212906
 ---
 
-We currently have no information about Burlington.
+**Burlington** is Vermont's largest city, though at around 45,000 people it hardly feels urban. It sits on the eastern shore of Lake Champlain, with the Adirondack Mountains of New York visible across the water and the Green Mountains rising behind.
 
-If you do know any general information about Burlington, please [Edit this article].
+Church Street Marketplace, a four-block pedestrian street in the centre, is the heart of the city — lined with restaurants, cafes, and independent shops. The waterfront park along the lake is good for walking or cycling, and in summer the lake itself offers sailing, kayaking, and swimming. Burlington has a lively food and craft beer scene that punches well above its weight for a city this size.
 
-If you know any hotels in Burlington or restaurants in Burlington, please [[Add].](/destinations/addItemWizard?addwhere=northamerica/unitedstates/vermont/burlington)
+The University of Vermont campus gives the city a young, progressive character. In winter, several ski resorts — Stowe, Smugglers' Notch, Bolton Valley — are within easy driving distance.

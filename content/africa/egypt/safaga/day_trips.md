@@ -1,27 +1,8 @@
 ---
-title: "Day Trips in Safaga"
+title: "Day Trips"
 type: section
-address: "15 luxor st"
-email: "info@egyptlastminute.com"
-phone: "00201005759364"
-url: "www.egyptlastminute.com"
+linked_locations:
+  - africa/egypt/luxor
 ---
 
-Spend a day in Luxor from Safaga Port. Visit the Karnak Temples, known as the largest place of worship ever built; the statues of Amenhotep III at Colossi of Memnon; the Valley of the Kings, where many pharaohs are entombed; and the Hatsepshut Temple, and many other activities like diving or snorkelling
-www.egyptlastminute.com
-
-### [Day Trips Safaga](/africa/egypt/safaga/day_trips/day_trips_safaga)
-
-Spend a day in Luxor from Safaga Port. Visit the Karnak Temples, known as the largest place of worship ever built; the statues of Amenhotep III at Colossi of Memnon; the Valley of the Kings, where many pharaohs are entombed; and the Hatsepshut Temple, dedicated to the only female pharaoh in ancient Egypt.
-
-
-
-[[rate it]](/africa/egypt/safaga/day_trips/day_trips_safaga)
-
-tel: 00201005759364
-
-url: [www.egyptlastminute.com](http://www.egyptlastminute.com)
-
-address: 15 luxor st
-
-email: info@egyptlastminute.com
+Safaga's location on the Red Sea coast puts Luxor within striking distance — about 200 km west through the desert via the Sohag–Red Sea highway, a journey of roughly three hours. Day trips to Luxor from Safaga are genuinely worthwhile: you get Karnak, the Valley of the Kings, and Hatshepsut's temple in a single long day. Start early.

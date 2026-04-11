@@ -1,6 +1,14 @@
 ---
-title: "Dades Valley"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 31.35
+longitude: -6.0
+title: Dades Valley
 type: location
 ---
 
-Oh the beauty of the valley of a thousand kasbahs! The Dades area is filled with lush valley oasis towns, set against the immense blue Moroccan sky. This area is almost surreal in its ancient charm. Each town has its own distinctive trait, so don’t be fooled into thinking they are all the same, as you speed by them in your car. Be ready to take breaks in your journey to step out of the car, and walk along the riverbed during the morning or in the late afternoon to fully appreciate the ruined Kasbahs and vast fields of date palms. Many of the Dades kasbahs are in ruin, which lends to the mysterious atmosphere. However, there are a few that remain in perfect condition where Berber families continue to live along the fertile bed of the river. Interesting stops on the road from Ouarzazate are Skoura, Boumalne Dades, the Dades Gorge, Tinerhir and the Todra Gorge
+The Dades Valley stretches east from Ouarzazate into the High Atlas foothills, its floor bright green with palmeries, its walls rising into dramatic ochre and rose-coloured rock formations. The road along the valley — the N10, known as the Route des Kasbahs — passes through a succession of oasis villages, each with its own crumbling or restored kasbah, before entering the spectacular narrows of the Dades Gorge.
+
+Interesting stops along the way include Skoura, with its famous palmeraie and the Kasbah Amerhidil; Boumalne Dades, the main town and a good base for gorge excursions; and Tinerhir, gateway to the Todra Gorge a few kilometres north. Walking along the river in the morning or late afternoon light, with ruined kasbahs above and date palms below, is one of the great slow pleasures of southern Morocco.
+
+The valley is best combined with the Todra Gorge as a two-day circuit from Ouarzazate or Tinerhir.

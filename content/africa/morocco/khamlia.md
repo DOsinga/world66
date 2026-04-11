@@ -1,22 +1,14 @@
 ---
-title: "Khamlia"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 31.0351
+longitude: -4.0073
+title: Khamlia
 type: location
-latitude: 31.035117
-longitude: -4.007253
 ---
 
-Travel Guide
+Khamlia is a tiny Saharan village about 7 km south of Merzouga, sitting in the shadow of the Erg Chebbi dunes — the great sea of orange sand that rises to over 150 metres on Morocco's eastern edge. The village is small: around 30 households, a few hundred people, a handful of small shops and a school. Life here moves slowly, and that is much of the point.
 
-Khamlia
-is a very little village in desert by the biggest dunes Erg
-Chebi in Morocco.
-It is about 7 km from village Merzouga on way to Taouz, Zagora and
-M´Fis -
-mineral mine. Both to Zagora and M´Fis you can go only by 4x4. To Taouz is going asphalt road.
-In Khamlia are now three smal
-shop, coffeehouse and the school. Here is also electricity and water. All houses
-are together 32 and here lives about 150 persons. Majority of people are black. Of course, you will find here the famous music group Gnawa. Theirs music is ritual music and communicate with mystery.
-To go to Khamlia is not easy if you not have the car. But you can take taxi or some other driver from Merzouga. And to go
-from Khamlia is more difficult because the people
-will not
-let you go back. They are happy for you. It is still calm and peaceful life.
+What sets Khamlia apart from the busier dune towns is its Gnawa community. The residents are largely of sub-Saharan descent, and the village is known throughout the region for its traditional Gnawa music — a ritual repertoire played on sintir bass lute, guembri, and krakeb metal castanets. You can hear it performed informally in the village or at organised evenings in local guesthouses.
+
+Getting here without your own transport takes some planning. Taxis run from Merzouga, but the return trip is harder to arrange — ask your host to help. The road from Merzouga is paved; onward to Taouz is also sealed, but the routes to Zagora and the mineral mines at M'Fis require a 4x4.

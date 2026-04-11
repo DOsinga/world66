@@ -1,9 +1,9 @@
 ---
-title: "Getting Around in Sanya"
+title: "Getting Around"
 type: section
 ---
 
-**Sanya transportation** is in charge of your smooth travel in Sanya, a city in the province of Hainan, China. Sanya is a famous place because of its nice beaches and tropical weather. It has been among the destinations of some foreigners where they can relax and enjoy the clear water of its beaches. To tour around the city, some transportation is available for you.
+Sanya is a compact city and easy to get around. Taxis are metered but drivers typically speak no English — ask your hotel to write destinations in Chinese. Local buses connect most parts of the city for RMB 1. Bikes can be rented for RMB 20 per hour.
 
 **Taxi**
 

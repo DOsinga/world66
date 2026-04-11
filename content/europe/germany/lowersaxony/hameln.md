@@ -1,16 +1,14 @@
 ---
-title: "Hameln"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 52.104
+longitude: 9.3562
+title: Hameln
 type: location
-latitude: 52.103994
-longitude: 9.356157
 ---
 
-Hameln - the famous town of the Pied Piper legend is situated about 50 km south west of [Hannover](/europe/germany/lowersaxony/hannover), the state capital of Lower Saxony in the North of the Federal Republic of Germany. As well as the German name "Hameln" the town is also known as "Hamelin" and "Hamlin" to the English speaking world. Located in the centre of the Weserbergland, Hamlen economically important and a nice tourist attraction. This hilly region extends on both sides of the river Weser from its source (where the rivers Fulda and Werra meet) from the town of Hannoversch Münden down to the region of Minden.
+Hameln — Hamelin to the English-speaking world — is the town of the Pied Piper legend, situated about 50 km southwest of [Hannover](/europe/germany/lowersaxony/hannover) in the hilly Weserbergland along the river Weser.
 
+The carefully restored old town centre is the main attraction. Weser Renaissance buildings line the streets: the Rattenfängerhaus (Pied Piper's House, 1602), the Dempterhaus (1607), the Leisthaus (1585) and the Hochzeitshaus (1610) among them. The style is distinctive — ornate stone facades with scrolled gables, unique to this stretch of the Weser valley. In summer, the Pied Piper open-air play is performed on the Hochzeitshaus terrace every Sunday.
 
- 
- The Pied Piper's town has about 59.000 inhabitants, about 30% of whom live in the 12 associated boroughs. The town hosts some 2 million day visitors per year and over 200.000 visitors per year who stay overnight.
-
-
- 
- In the carefully reconstructed old town centre you can admire the numerous Weser Renaissance-style buildings - for example the Rattenfängerhaus, or Pied Piper’s house originally built in 1602/3, the Dempterhaus dating from 1607/8, the Leisthaus from 1585-89 and the Hochzeitshaus from 1610-17.
+The town draws around two million day visitors a year, which gives the centre a lively feel. Beyond the Pied Piper theme, the riverside setting and surrounding hills make for pleasant walking.

@@ -1,12 +1,14 @@
 ---
-title: "Kasungu"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -12.992179
 longitude: 33.472454
+title: Kasungu
+type: location
 ---
 
-Travel Guide
+Kasungu is a market town in central Malawi, 124km north of Lilongwe on the M1 highway. It sits on the fertile Kasungu-Lilongwe plain, surrounded by tobacco farms — tobacco has long been the economic engine here.
 
-Kasungu town is found in the central region of the country and is 124km from Lilongwe, the capital city of Malawi. It is within the Kasungu-Lilongwe plain which has fertile soils suitable for arable crops and the town is mostly surrounded by tobacco farmers.Kasungu is a home of the first president of the Republic of Malawi, the late Dr Hastings Kamuzu Banda who was famous for his good agricultural policies.
+The town is best known as the home of Malawi's first president, Dr Hastings Kamuzu Banda, who built the Kamuzu Academy nearby — a grammar school modelled on Eton that is still sometimes called "the Eton of Africa." To the west, [Kasungu National Park](https://en.wikipedia.org/wiki/Kasungu_National_Park) protects a large area of miombo woodland, with Lifupa Lodge as the main base for visitors.
 
-The town is well linked to others interesting sites such as the Lifupa Lodge in the Kasungu National Park several kilometers to the west, the Kamuzu Acadamy grammar school popurally known as the Elton of Africa-built by the first president, Kasungu Chipala hill, the restaurants that offers mostly the real Malawian dishes, Chulu,Lukwa,Mphomwa and Njombwa areas where the tranditional dance "Gulewankulu"for the Chewa people can be viewed dancing during some occassions. It is a must for any visitor to see this traditional dance.
+If you are in the area during a ceremony or festival, look out for the Gule Wamkulu — the masked dance tradition of the Chewa people, recognised by UNESCO. The dancers in their elaborate costumes emerge from the bush to perform at funerals, initiations, and other important occasions.

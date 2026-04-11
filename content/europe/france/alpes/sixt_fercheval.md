@@ -1,14 +1,14 @@
 ---
-title: "Sixt Fer-à-Cheval"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 46.0547
+longitude: 6.7754
+title: Sixt Fer-à-Cheval
 type: location
-latitude: 46.054705
-longitude: 6.775372
 ---
 
-Although Sixt is not far as the crow - or eagle? - flies form Chamonix, Mont Blanc and the areas of mass tourism and Mont Blanc may well be visible from your tent, it is at the end of a road through Samoens into the high Alps and is thus a bit of a backwater. 
+Sixt-Fer-à-Cheval sits at the dead end of a long valley road through [Samoëns](/europe/france/alpes/samoens), deep in the Haute-Savoie — close to [Chamonix](/europe/france/alpes/chamonix) as the crow flies but a world away in atmosphere. Mont Blanc is visible from a tent pitched here, yet the crowds are not. That contrast is precisely the point.
 
-Thus if you are staying there a few nights, it is easily possible to get to Chamonix and do the cable cars to Italy one day and the next to have a peaceful though immensely beautiful walk.
+The Fer-à-Cheval — horseshoe — part of the name comes from the cirque at the valley's end: a vast semicircle of cliffs up to 700 metres high, ringed by some thirty waterfalls that thunder down when the snowmelt begins in spring. It is one of the largest cirques in Europe and justifiably the centrepiece of the Réserve Naturelle du Sixt Fer-à-Cheval.
 
-The Fer-à-Cheval [horseshoe] part of the name is based on the very end of the road where it comes p against mountains arranged in a horseshoe shape with spectacular waterfalls when the snow is melting above,
-
-http://www.peakretreats.co.uk/default.cfm/loadindex.109
+Staying here a few nights is a fine strategy. You can spend one day driving over to Chamonix for the cable cars and the Aiguille du Midi, and the next on a long, peaceful walk up into the high alpine meadows without meeting another soul. The village itself is small and quiet — a handful of farms, a church, some gîtes — but that is part of its appeal.

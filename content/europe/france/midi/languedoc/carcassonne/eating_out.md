@@ -1,40 +1,14 @@
 ---
 title: "Eating Out in Carcassonne"
 type: section
-address: "86 rue Albert-Tomey and 31 blvd Omer-Sarrant"
-opening_hours: "Closed: Sat. lunchtimes in winter"
-phone: "04 68 72 02 23"
-type: "general"
 ---
+
+Carcassonne is Languedoc, and that means cassoulet — the slow-cooked bean and meat stew that originated here. Most restaurants in the Cite serve a version, but the better options are often in the Bastide Saint-Louis on the left bank.
 
 ### [Chez Fred](/europe/france/midi/languedoc/carcassonne/eatingout/chezfred)
 
-With menus starting at 15 Euro's and great a la carte options this is a good place to fill your tummy.
-
-type: general
-
-
-
-[[rate it]](/europe/france/midi/languedoc/carcassonne/eatingout/chezfred)
-
-address: 86 rue Albert-Tomey and 31 blvd Omer-Sarrant
-
-openinghours: Closed: Sat. lunchtimes in winter
-
-tel: 04 68 72 02 23
+Reliable neighbourhood restaurant with menus starting around 15 euros and solid a la carte options. Address: 86 rue Albert-Tomey and 31 blvd Omer-Sarrant. Closed Saturday lunchtimes in winter. Tel: 04 68 72 02 23.
 
 ### [La Divine Comedie](/europe/france/midi/languedoc/carcassonne/eatingout/ladivinecomedie)
 
-Good value for money. Specialties include cassoulet, confit of duck, blanquette of lamb, daube langedocienne.
-
-type: general
-
-
-
-[[rate it]](/europe/france/midi/languedoc/carcassonne/eatingout/ladivinecomedie)
-
-address: 29 blvd Jean-Jaures
-
-openinghours: closed Sun. and 2 to 3 weeks at Christmas time.
-
-tel: 04 68 72 30 36
+Good value for money with regional specialities including cassoulet, confit of duck, blanquette of lamb, and daube languedocienne. Address: 29 blvd Jean-Jaures. Closed Sundays and two to three weeks at Christmas. Tel: 04 68 72 30 36.

@@ -1,42 +1,14 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Phra Nakhon Khiri Historical Park
+Phetchaburi's main attractions are its temples and royal sites, most of them clustered in or near the old town. You can see the highlights on foot in a day, though the hilltop palace deserves an unhurried visit.
 
-** It is locally known as Khao Wang (Palace Hill), located up on a 92-meter high verdant hill, in the city of Phetchaburi .
-It was built under the royal command of King Rama IV and in 1860 became
-his summer palace. The whole compound is comprised of royal halls,
-palaces, temples and other buildings which were elegantly constructed
-in a well-balanced Thai, neoclassical Western and Chinese architectural
-styles.
+**Phra Nakhon Khiri Historical Park** (Khao Wang) is the city's landmark -- a royal summer palace built by King Rama IV in 1860, spread across three hilltops. The compound mixes Thai, Western neoclassical, and Chinese architectural styles, with royal halls, temples, and a white pagoda visible from across the city. A cable car runs to the top, or you can walk up through shady paths populated by cheeky monkeys. The panoramic views of Phetchaburi from the summit are worth the climb alone.
 
-There are a group of royal residences on the western side of the hill consisting of the Phetchphoomphairot Building , Pramotmahaisawan Building , Wetchayanwichienprasat Building , Ratchathammasapha Building and Hor Chatchawanwiengchai Observatory.
+On the eastern hill, **Wat Maha Samanaram** dates to the Ayutthaya period and contains murals by Khrua In Khong, one of the most important Thai painters of the 19th century. Nearby, **Wat Phra Kaew Noi** was modelled on the Grand Palace chapel in Bangkok.
 
-The
-big white pagoda situated on the middle peak of the hill is Phrathat
-Jomphet. King Rama IV ordered the renovation of the old pagoda and
-later added a Buddha image inside. Visitors to the Palace should not
-miss the panoramic view of Phetchaburi City and other buildings on another two nearby mountaintops.
+In town, **Wat Mahathat Worawihan** is the most prominent temple, with its distinctive five-pranged Khmer-style tower. **Wat Kamphaeng Laeng** is even older -- a laterite Khmer sanctuary from the 12th or 13th century, one of the southernmost Khmer ruins in Thailand.
 
-There
-are several temples to be admired on the Eastern Mountain, one of which
-is Wat Maha Samanaram, which has a history that can be traced back to
-the Ayutthaya period and the place where murals by Khrua In Khong, a
-renowned Thai artist is located. Another temple located on top of the
-mountain is Wat Phra Kaew Noi, the Royal Temple of Phra Nakhon Khiri
-that was constructed based on the model of the Grand Palace in Bangkok.
-
-The
-Ordination Hall and Phra Sutthasela Chedi are also popular attractions. Phra Sutthasela Chedi was built from
-greenish gray marble.
-
-* Getting to Phra Nakhon Khiri Historical Park *
-
-The site is located on Phetkasem Road , just one kilometer from the town entrance junction. It is possible to climb the mountain by walking or by cable car.
-
-**Contributors**
-September 09, 2006
-
-September 11, 2006
+Just outside town, **Tham Khao Luang** is a cave temple filled with Buddha images, lit by shafts of sunlight that stream through holes in the ceiling. It is at its most dramatic around midday.

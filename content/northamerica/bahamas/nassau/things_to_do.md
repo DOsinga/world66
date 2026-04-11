@@ -3,20 +3,28 @@ title: "Things to do in Nassau"
 type: section
 ---
 
-Nassau is the number one travel destination for tourists. Millions of migrants travel to Nassau each year to enjoy the specialty attractions that only this Bahamian city can offer. From the one of a kind festivals, to laying on the beach, Nassau is the perfect place to find a relaxing vacation activity. If you don't find an activity that fits your liking below visit http://www.bahamasfinder.com/nassau.html or visit http://www.bahamaslocal.com. They are both high quality Bahamian directories that will help you find things to do in Nassau.
+Between the beaches, festivals, and a few genuinely good museums, Nassau keeps most visitors busy. Here are the highlights.
 
-**Snorkeling
+**Snorkeling**
 
-**Nassau is known for its snorkeling excursions. You should be able to find one in your hotel lobby. They are generally very cheap and range from full day snorkeling adventures to an afternoon getaway. Depending on which resort your staying at most snorkeling excursions will pick you up strait from your resorts beachfront property. If the excursion you choose does not offer this quality it should only be at most a 20 minute taxi ride to the dock where the excursion takes off from.
+Nassau's offshore reefs are easy to reach and well worth the effort. Most hotels can book excursions, or you can arrange one directly at the docks. Half-day trips are common and cheap; full-day adventures go further out and include lunch.
 
-**Visit A Festival
+**Junkanoo**
 
-**Depending on the time of year you are traveling you may get the opportunity to see a Bahamian festival. The Bahamians are well known for their colorful and vibrant festivals. The Junkanoo is held in December and is one of the most well known festivals in the world. If you ever get the opportunity to see the Junkanoo it is highly recommended that you give it a visit.
+If you're here in late December or on New Year's Day, don't miss Junkanoo. It's a street parade with elaborate hand-made costumes, goatskin drums, cowbells, and brass bands — the whole city turns out. Even outside the main festival dates, the Junkanoo Museum downtown explains the tradition well.
 
-**Go To The Fish Fry
+**Arawak Cay Fish Fry**
 
-**The Fish Fry is a local Bahamian hangout that essentially is a strip of restaurants. During the day it is a great place to grab a bite to eat and during the night it becomes a local hotspot that features live bands, great food, and fun times. It is located on the north side of Nassau on Arawak Cay, just west of the cruise ship docks.
+On the north shore just west of the cruise ship docks, Arawak Cay is a strip of open-air restaurants where locals actually eat. During the day it's a good spot for cracked conch and cold Kalik beer; at night there's often live music.
 
-**Hangout On A Beach
+**Cable Beach and Cabbage Beach**
 
-**Nassau has some of the most amazing beaches in the world. The turquoise waters and white sandy beaches make Nassau the go to spot for vacationers who want to just relax and lay on the beach. Some of the more popular beaches are Cable Beach, and Cabbage Beach.
+Cable Beach on the north shore and Cabbage Beach on Paradise Island are the most popular. Both have the white sand and turquoise water Nassau is known for. Cabbage Beach tends to be quieter away from the Atlantis resort end.
+
+**The Pirate Museum**
+
+Located in downtown Nassau, the Pirates of Nassau museum is genuinely well done. It walks you through the golden age of Caribbean piracy with life-size reconstructions, and the building itself resembles a period ship. Reasonable admission, good for all ages.
+
+**The Dig at Atlantis**
+
+The Dig is an elaborate series of aquarium tunnels beneath the Atlantis resort on Paradise Island, designed to look like an archaeological excavation. Free for Atlantis guests; non-guests pay a fee. Jellyfish, stingrays, eels, and plenty of other marine life. Worth the trip even if you're not staying at the resort.

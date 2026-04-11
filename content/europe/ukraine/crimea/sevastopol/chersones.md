@@ -1,10 +1,11 @@
 ---
-title: "Chersones"
-type: location
+title: "Chersonesus"
+type: poi
+category: "Sight"
 latitude: 44.583323
 longitude: 33.378866
 ---
 
-Chersones is ancient Greek city located inside modern Sevastopol. It was founded more than 2000 years ago and was bigest and richest city in Crimea during almost 1000 years. It is National park and museum now. There is nice site with more photos of Chersones so I will no write about it by myself but give you advice to visit the site. And, of course, Chersones is a place you MUST to see if you will visit Crimea.
+Chersonesus (Khersones) is an ancient Greek city on the outskirts of [Sevastopol](/europe/ukraine/crimea/sevastopol), founded in the fifth century BC as a Doric colony. For nearly a thousand years it was the most important city on the Crimean peninsula — a wealthy trading port, a Roman outpost, and later a Byzantine stronghold.
 
-......
+The ruins are extensive and well-preserved: city walls, a basilica, a theatre, residential quarters, and the iconic St Vladimir's Cathedral built over the site where Prince Vladimir of Kyiv is said to have been baptised in 988 AD, the event that brought Christianity to Kievan Rus. The on-site museum houses Greek and Roman artefacts, mosaics, and inscriptions. Chersonesus is a UNESCO World Heritage Site and one of the most important archaeological sites in the Black Sea region.

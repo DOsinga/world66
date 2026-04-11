@@ -1,8 +1,12 @@
 ---
-title: "Varatella valley"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.051
+longitude: 8.189
+title: Varatella Valley
 type: location
 ---
 
-Varettela valley is famous for its caves, housing remnants of prehistoric times. Although not all caves are open to the public, the few that are accessible even show human hand- and footprints from Neanderthals on their walls.
+The Varatella Valley, inland from the Ligurian coast near Toirano, is best known for its remarkable prehistoric caves. The cave walls still bear hand- and footprints left by Neanderthals, making this one of the more extraordinary prehistoric sites in northern Italy. Not all caves are open to the public, but those that are leave a genuine impression.
 
- The anthropological Museo Preistorico della Val Varatella is located at the beginning of the cave area and offers a good insight into prehistorical times. Besides that, the area is known for its olive cultivation.
+Beyond the caves, the valley is classic Ligurian countryside — terraced hillsides planted with olive groves, small villages, and the kind of quiet that has long since been chased away from the coast. The Museo Preistorico della Val Varatella at the entrance to the cave area is a worthwhile stop before heading inside.

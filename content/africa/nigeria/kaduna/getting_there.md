@@ -1,23 +1,12 @@
 ---
-title: "Getting There in Kaduna"
+title: "Getting There"
 type: section
 ---
 
-**By Air**
+Kaduna is one of the best-connected cities in northern Nigeria, sitting at a junction where roads branch in five directions. This makes it a natural hub whether you are heading north to [Kano](/africa/nigeria/kano), south to [Abuja](/africa/nigeria/abuja), or further afield.
 
-**Chanchangi Airlines**
+**By air**, Kaduna Airport (KAD) handles domestic flights, with regular connections to Lagos and other major cities. It also serves as an alternative when Abuja's airport is busy or undergoing maintenance.
 
-Kaduna is home base for **Chanchangi Airlines**, supposed to be one of the biggest and safest air carriers in Nigeria.
+**By road**, Kaduna is roughly two hours from Abuja on a well-maintained expressway, and about three hours from Kano. Long-distance buses and shared taxis connect the city to most major destinations in the north and beyond.
 
-Chanchangi has stations at Lagos (Murtalla Mohammed), Port Harcourt, Owerri and Abuja Airports.
-
-Flights are 12,000 Nigerian Naira (single - one way) from Kaduna to Lagos.
-
-Chanchangi operates Boeing 727 and 737 aircraft.
-
-The in flight Chanchangi donuts are something else!!
-
-Website: www.chanchangi.com
-
-**Contributors**
-June 25, 2007
+**By rail**, Kaduna sits on the Abuja-Kaduna railway, a modern standard-gauge line that makes the trip to the capital in about two hours. It is comfortable and reliable by Nigerian standards, and a much better option than driving if Abuja is your starting point.

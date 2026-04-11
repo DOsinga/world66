@@ -1,37 +1,14 @@
 ---
-title: "Kerman"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 29.571858
 longitude: 57.301047
+title: Kerman
+type: location
 ---
 
-City of **Kerman** is the center of the Kerman province located 1022 KM south-east of Tehran. Around 2 million people live in the Kerman province and 340,000 of them live in its central city-**Kerman**.
+Kerman is an ancient desert city in southeastern Iran, about a thousand kilometres from [Tehran](/asia/iran/tehran). It sits at the edge of the Lut Desert — one of the hottest places on earth — and has been a crossroads of trade for two millennia. The city was known as Botia in Achaemenid times, and its position on the old routes between the Persian Gulf and Central Asia made it a natural centre for commerce.
 
-It is an ancient city and during the Achaemenids dynasty it was called **Botia**. It has some of the oldest urban developments of the province, perhaps dating back around 2000 years.
+Today Kerman is best known for its carpets, hand-woven in hundreds of small workshops across the city. The bazaar is one of the longest in Iran, a covered labyrinth of brick vaults that stretches for several kilometres. Other highlights include the Ganjali Khan complex — a seventeenth-century square with a bathhouse, mosque, mint, and caravanserai — and the Shazdeh Garden in nearby Mahan, a Persian garden fed by underground channels with views of snow-capped mountains.
 
-Kerman is a center of trade in the region. It also is a major carpet production center of the country. The carpets are hand woven in hundreds of small workshops all around the city.
-
-Being an ancient city, Kerman has a great number of sights to visit. It can be accessed by the Persian gulf and Oman Sea ports through railway and highways. 
- 
- 
- 
-
-**See also other cities of Iran**
-
-
- 
- 
- 
- 
- 
- [Isfahan](/asia/iran/isfahan)
- [Kashan](/asia/iran/kashan)
- [Persepolis](/asia/iran/persepolis)
- 
- 
- [Shiraz](/asia/iran/shiraz)
- [Tabriz](/asia/iran/tabriz)
- [Tehran](/asia/iran/tehran)
- 
- 
- [Qum](/asia/iran/qum)
+Kerman also serves as the gateway to the spectacular Kaluts of the Lut Desert — wind-sculpted rock formations that look like a ruined city — and to the ancient citadel of Bam, about 190 km to the southeast.

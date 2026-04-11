@@ -1,26 +1,6 @@
 ---
-title: "Bars and Cafes in Noordpolderzijl"
+title: "Bars and Cafes"
 type: section
-address: "Zijlweg 4"
-phone: "+31595423058"
-zipcode: "9988 TD Usquert"
 ---
 
-There's only one cafe in Noordpolderzijl and (apart from the pumping-station) it is the only house up there. Check *'t Zielhoes* below.
-
-**Contributors**
-March 07, 2005
-
-### ['t Zielhoes](/europe/netherlands/noordpolderzijl/bars_and_cafes/t_zielhoes)
-
-or Sluice House is very well known by locals and regional people. This authentic, old-fashioned, "living room style" cafe is open almost every day in all seasons. It's also a regionally famous stage for various music groups: Folk, Country, Celtic, Groninger and more.. Friendly staff
-
-
-
-[[rate it]](/europe/netherlands/noordpolderzijl/bars_and_cafes/t_zielhoes)
-
-zipcode: 9988 TD Usquert
-
-tel: +31595423058
-
-address: Zijlweg 4
+There is exactly one place to drink in Noordpolderzijl, and it happens to be the only inhabited building in the hamlet. 't Zielhoes — the Sluice House — has been drawing visitors from across the province for decades, as much for its living-room atmosphere and folk music sessions as for its position at the edge of the Wadden Sea.

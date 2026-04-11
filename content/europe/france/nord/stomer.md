@@ -1,12 +1,16 @@
 ---
-title: "St. Omer"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 50.7516
+longitude: 2.2534
+title: St. Omer
 type: location
-latitude: 50.751577
-longitude: 2.253418
 ---
 
-St.Omer was a famous trade city in the Middle Age. Not a lot remains of this glorious past, unhappily, but you can still see its old market and the ruins of an abbey where died the last Merovingian king, at the end of the VIIth century.
- Located at the border between Flanders and Artois, Saint Omer is also famous in the region for its swamp, the "marais audomarois": there, people cultivate vegetables and sell them on small boats.
- I recommend you the inhabitants, among the friendliest French. it's worth a stopover just for that!
- 
- P.S.: There is no train station at Saint Omer; one must go down at Hazebrouck, 20 Km away...
+Saint-Omer is one of those quietly rewarding French towns that rewards you for stopping rather than driving through. It was a major trading city in the Middle Ages — positioned on the border between Flanders and Artois — and its old market square and the atmospheric ruins of Saint-Bertin Abbey still hint at that former importance. The abbey is where the last Merovingian king died in the late seventh century, which is the kind of historical footnote that makes wandering these streets feel surprisingly weighty.
+
+What makes Saint-Omer truly distinctive, though, is the marais audomarois — a living wetland of canals and market gardens on the edge of town where farmers have grown vegetables for centuries, selling their produce from flat-bottomed boats. It's an unexpected slice of working rural life just minutes from the town centre.
+
+The locals are genuinely among the friendliest you'll meet in northern France. That alone is worth a detour.
+
+Note: Saint-Omer has no train station. The nearest rail connection is Hazebrouck, about 20 km away.

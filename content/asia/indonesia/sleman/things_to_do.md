@@ -1,23 +1,8 @@
 ---
-title: "Things to do in Sleman"
+title: "Things to Do"
 type: section
 ---
 
-Sleman is rich of culture and village surrounding it, and it's
-attractive for tourists. Several villages, give visitors opportunity to
-see their daily lives in village, like planting, harvesting or caring
-for their livestock, a few villages have opened their doors to tourist
-for staying include overnight accommodations, etc.
+The **Museum Gunung Merapi** (Merapi Volcano Museum) sits in the regency and covers the geology and history of Indonesia's most active volcanoes. Exhibits include dioramas of eruptions, seismic monitoring equipment, film screenings, and collections on tsunamis and landslides. It is a good primer before heading up toward the mountain itself.
 
-*Brayut Village, many old style Javanese homes. Candirejo Village,
-surrounded by volcanoes, two rivers meander through the villages.
-
-* Panjang Rejo Village, local ceramic works and krupuk (shrimp crackers) made there.
-
-* Sambi Village, in the foothills of MountMerapi, is its joglo traditional house which is open for homestay.
-
-* Tanjung Village, surrounded by many fields, and joglo traditional house built 200 years ago.
-
-Read more at: http://tourthewonder.com/content/tour/19
-
-www.borobudurpark.com
+Several villages around Sleman offer **village tourism** — structured visits where you can join in daily agricultural life. Brayut Village has well-preserved old-style Javanese homes. Candirejo, set between two rivers with volcanoes as a backdrop, is particularly scenic. Sambi Village in the Merapi foothills has a traditional joglo house open for homestays, and Tanjung Village is surrounded by rice fields with a 200-year-old joglo still standing.

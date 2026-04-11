@@ -1,15 +1,11 @@
 ---
-title: "Epcot"
-type: location
+category: Sight
+done:
+  location_cleanup: '2026-04-10'
 latitude: 28.371406
 longitude: -81.548959
+title: Epcot
+type: poi
 ---
 
-Epcot Center Dr
- Lake Buena Vista, FL 32830
- Phone: 407/824-4321
- Fax: 407/390-5033
- Website: http://www.disneyworld.com
- 
- A permanent international and discovery showplace covering 260 acres. Center of the 15-month Walt Disney World Millennium Celebration. Two major areas include Future World and The World Showcase. 
- Hours: Hours vary seasonally.
+A permanent international and discovery showplace covering 260 acres, located at Epcot Center Drive in Lake Buena Vista. Two major areas make up the park: Future World, focused on science and technology, and the World Showcase, a circuit of pavilions representing cultures from around the globe. Hours vary seasonally; check the Disney World website for current schedules.

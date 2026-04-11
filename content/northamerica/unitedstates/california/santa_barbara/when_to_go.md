@@ -1,11 +1,9 @@
 ---
-title: "When to Go in Santa Barbara"
+title: "When to Go"
 type: section
 ---
 
-**Answers to Santa Barbara When to Go Queries **
-
-People planning a trip to Santa Barbara shouldn&rsquo;t be bothered about **Santa Barbara** **when to go** concerns. Located in California, Santa Barbara is situated along the southern coastline, north of Los Angeles. Santa Barbara has a pleasant climate throughout much of the year.
+Santa Barbara has a mild Mediterranean climate year-round, with an average temperature of around 18°C (64°F). Spring (April to June) and autumn (September to November) are the most pleasant times to visit. Summer is warmer and draws larger crowds; marine fog is common in early summer mornings. Winter is mild but can bring occasional rain and rougher coastal conditions.
 
 #### **Santa Barbara Travel Seasons**
 

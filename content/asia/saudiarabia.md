@@ -1,22 +1,41 @@
 ---
-title: "Saudi Arabia"
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: 2026-04-07
+image: saudiarabia.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Javierblas&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Javierblas (page does not exist)">Javierblas</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Rub_al_khali_sunset_Nov_2007.jpg
+latitude: 24.0
+longitude: 45.0
+title: Saudi Arabia
 type: location
-latitude: 25.624262
-longitude: 42.352833
 ---
 
-For centuries Arabia has appealed to travelers all over the world, inspired by travel reports and of course the tales of 1001 nights and the romanticism. Todayâ€™s Saudi Arabia is still a land of mystery largely due to its fundamentalist Islam state form and its rigid admission policy. Saudi Arabia is incredibly difficult to visit, there's no tourist visa in this country. Best way to get in is by invitation of a Saudi person or company, or, if youâ€™re a Muslim, on a pilgrimage to one of the holy cities. 
+*Asia > Saudi Arabia*
 
-Of course, **don't even bother if you are Jewish**. Jews are forbidden in Saudi Arabia . Don't bring your bible either, they will shred it at customs for you. This is an absolute monarchy ruled under Sharia. Women are beaten for immodesty (ankle display) and are forbidden to drive. Hands are amputated for theft. Adultery is punishable by public execution. 
+Saudi Arabia is a country that has changed faster in the past decade than almost anywhere else on earth. For most of its modern history it was sealed off to outside visitors — tourism visas simply did not exist. Then in 2019 the kingdom opened up, issuing e-visas to citizens of 49 countries almost overnight, and the transformation has been accelerating ever since. Women can now drive, cinemas have reopened after a 35-year ban, mixed-gender concerts fill arenas, and some of the most spectacular ancient sites on the planet are being prepared for mass visitors for the first time.
 
+None of this means Saudi Arabia has become an easy or familiar destination. It remains a deeply conservative Muslim country where alcohol is prohibited, modest dress is expected, and the pace of life shifts dramatically during Ramadan. But the strangeness is part of the appeal. You are visiting a society in the middle of a remarkable transition, and the contrast between ancient desert culture and gleaming Vision 2030 megaprojects is genuinely fascinating.
 
+Geographically the country is enormous — roughly the size of Western Europe — and the landscape is far more varied than the cliché of endless flat desert. The northwest has rose-red canyon country and the Nabataean tombs of Hegra. The southwest has the green Asir mountains, cool enough for clouds and apple orchards. The Hejaz coast along the Red Sea has some of the world's best coral reefs. The central plateau around [Riyadh](/asia/saudiarabia/riyadh) is limestone tableland edged by spectacular escarpments. The Empty Quarter in the south is the largest sand desert on earth.
 
-About half of Saudi Arabia consists of uninhabitable desert. Here there are no permanent rivers and lakes and the average temperature in July is about 40ÂºC. These unfriendly circumstances have deeply influenced the Arab way of life. Saudi Arabia is the largest country in the Middle East. The Saudi Arabian state was first established in the central region of the Arabian Peninsula in the early 18th Century, but king Abdul Aziz Bin Abdul Rahman Al-Saud founded the present day state only in 1932. 
+The country's spiritual core, [Mecca](/asia/saudiarabia/mecca) and [Medina](/asia/saudiarabia/medina), remain off-limits to non-Muslims. This is worth knowing before you go. But the rest of the country — and there is an enormous amount of it — is now open.
 
-Saudi Arabia is a fairly rich country, due to its vast oilfields, but this wealth is not evenly divided. The royal family effectively owns the country. There is minimal political freedom and little tolerance for opposition groups. 
+## Destinations
 
-The country's capital is [Riyadh](/asia/saudiarabia/riyadh) , situated in the very interior of the country, 300 km from the Persian Gulf. Itâ€™s a modern oil booming city with lots of high rising buildings. Most interesting cities are the holy cities of [Mecca](/asia/saudiarabia/mecca) and [Medina](/asia/saudiarabia/medina) . Mecca is the most holy city in Islam. The city is revered from being the first place created on earth, as well as the place where Ibrahim together with his son Isma'il, built the Ka'ba, a rectangular building made of bricks. Around the Ka'ba is the great mosque, al-Haram. Medina, once called Yathrib, was chosen as the new headquarter when the Muslim community had to flee from Mecca in 622. This city of the Prophet is also the place were Muhammad died in 632. 
-
-Both cities are strictly off limits to non-muslims. The non-muslim architect of a Mecca Hotel had to supervise construction through a telescope. Nearby [Jeddah](/asia/saudiarabia/jeddah) the major Red Sea port of the country can be visited and gives a unique insight in the culture and history of the West of Saudi Arabia. 
-
-The whole of the Middle East is tilted, so the southwest of Saudi Arabia has mountains as high as 3000 meters while the east has lowlands. The mountain area is the greenest and freshest climate especially compared to the deserts in the east. Extensive irrigation projects now gradualy transform these deserts into farmland, yielding dates and grains.
+- [Riyadh](/asia/saudiarabia/riyadh) — the capital, a sprawling modern city with excellent museums and the historic Diriyah district nearby
+- [Jeddah](/asia/saudiarabia/jeddah) — the Red Sea port city, the most cosmopolitan in the kingdom, with a beautiful UNESCO-listed old town
+- [Mecca](/asia/saudiarabia/mecca) — the holiest city in Islam, accessible to Muslims only
+- [Medina](/asia/saudiarabia/medina) — the second holiest city, also restricted to Muslims
+- [Dammam](/asia/saudiarabia/dammam) — gateway to the Eastern Province and the oil country
+- [Khobar](/asia/saudiarabia/khobar) — modern city on the Gulf, connected to Bahrain by causeway
+- [Dhahran](/asia/saudiarabia/dhahran) — home to Saudi Aramco, the world's largest oil company
+- [Yanbu](/asia/saudiarabia/yanbu) — Red Sea port with good diving
+- [Ta'if](/asia/saudiarabia/taif) — mountain city above Mecca, cool and green in summer
+- [Asir](/asia/saudiarabia/asir) — the mountainous southwest, centered on Abha
+- [Ha'il](/asia/saudiarabia/hail) — northern city, gateway to the Nafud desert
+- [Sakakah](/asia/saudiarabia/sakakah) — in the Al-Jawf region in the far northwest
+- [Al-Ahsa](/asia/saudiarabia/alhasa) — ancient oasis in the Eastern Province, UNESCO World Heritage Site
+- [Qatif](/asia/saudiarabia/qatif) — historic town on the Gulf coast

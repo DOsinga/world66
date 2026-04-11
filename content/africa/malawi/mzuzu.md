@@ -1,15 +1,14 @@
 ---
-title: "Mzuzu"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -11.4608
+longitude: 34.0226
+title: Mzuzu
 type: location
-latitude: -11.460752
-longitude: 34.022642
 ---
 
-This is a quiet and attractive city in the Northern Region, situated on a 1000m high plain,
- about 370km north of [Lilongwe](/africa/malawi/lilongwe).
- It has recently experienced some commercial development with the return of the Asian businessmen
- and a new University is currently under construction. Mzuzu offers all the usual amenities of a city. The city has an airport 10km to the north which operates flights to and from Lilongwe, [Blantyre](/africa/malawi/blantyre) and Karonga. There is a variety of accomodation including an international standard hotel.
+Malawi's third-largest city sits at 1,000 metres on a cool, open plateau in the Northern Region, about 370km north of [Lilongwe](/africa/malawi/lilongwe). It's a proper working city — a university town with a functioning airport and a commercial centre that has been growing steadily — rather than a tourist destination in its own right. Most travellers pass through on their way north or south, and that's not a bad instinct: Mzuzu is a useful base, not a highlight.
 
+What makes it worth a stop is its position. The [Nyika Plateau](/africa/malawi/nyika) lies to the north, a vast 3,000-metre grassland with good wildlife, excellent hiking, and some of the finest views in Central Africa. The [Vwaza Marsh Game Reserve](/africa/malawi/vwaza) is to the northwest. The historic [Livingstonia Mission](/africa/malawi/livingstonia) sits dramatically on an escarpment above Lake Malawi to the northeast, and [Nkhata Bay](/africa/malawi/nkhata_bay) — with its lake beaches and diving — is a couple of hours to the southeast. Mzuzu airport has flights to Lilongwe, [Blantyre](/africa/malawi/blantyre), and Karonga, and twice-weekly flights serve Nyika directly.
 
- Nearby tourist attractions include Nyika Plateau to the north, a cool 3000m high plateau with good game viewing, horse riding, hiking and superb views. To the northwest is Vwaza Marsh Game Reserve, a well established safari camp as is the case with Nyika. The roads to both camps can be poor, particularly in the rainy season, but Nyika is served by Air Malawi flying from Mzuzu airport, twice a week. Also to the north is the historic Livingstonia Mission and to the southeast there is Nkhata Bay
- on the shores of Lake Malawi where lake steamers can be boarded and where there is scuba diving and beach accomodation.
+The city itself has everything you need: banks, fuel, supermarkets, and decent restaurants. Roads to both Nyika and Vwaza can deteriorate badly in the rainy season (November to April), so check conditions before heading out.

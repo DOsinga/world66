@@ -1,22 +1,14 @@
 ---
-title: "Khanpur Mahar"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 27.841123
 longitude: 69.411988
+title: Khanpur Mahar
+type: location
 ---
 
-Travel Guide
+Khanpur Mahar is a city in Tehsil Khangarh Sharif, Ghotki District, in the Sindh province of Pakistan. It is the largest city in Ghotki District by area.
 
-Khanpur Mahar is a City of Tehsil Khangarh Sharif District
-Ghotki in the Sindh state of Pakistan.
+The city is an agricultural hub and an important economic centre for sugarcane and cotton crops. The surrounding land is very fertile, also producing wheat and rice.
 
-The city is agricultarally an economic infux as a centre for
-sugarcane and cotton crops.
-
-It is largest City of the Ghotki District, in terms of its area.
-
-The famous Cholistan Desert is mainly located in the Khanpur Mahar area.
-
-Khanpur Mahar has very hot weather around the year and winter only lasts for 3 months.
-
-Khanpur Mahar has very fertile land and main crops it produces are Cotton,Wheat and Rice.
+Khanpur Mahar has hot weather for most of the year, with winter lasting only about three months.

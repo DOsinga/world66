@@ -3,7 +3,12 @@ title: "Day Trips"
 type: section
 ---
 
-There are plenty of fun Providence attractions to keep you busy on your vacation. But if you are traveling with children, plan a visit to Roger Williams Park & Zoo. The kids will forever love you because Roger Williams Park & Zoo has a carousel and offers pony rides. If that isn't enough, there are also paddle boats so you can paddled in the lily-pad pond next to the swans. There are over 850 animals from 156 different species to see. Zebras, giraffes, kangaroos, penguins, red pandas, flamingos, and boa snakes. For directions and information, visit their website at rwpzoo.org
+Providence sits at the center of a small state, which means most of Rhode Island is within an hour's drive, and southeastern Massachusetts is equally close.
 
-**Contributors**
-May 12, 2009
+**Newport** is the obvious first day trip — 30 miles south, accessible by car or bus. The Gilded Age mansions on Bellevue Avenue (The Breakers, Marble House) are genuinely impressive, and the Cliff Walk along the ocean is free. The downtown waterfront has good seafood restaurants and a working harbor.
+
+**Roger Williams Park and Zoo** is within Providence itself, about 3 miles south of downtown. The zoo covers 40 acres inside a Victorian-era park and holds over 100 species. More manageable than a big-city zoo, and the surrounding park is worth walking on its own. rwpzoo.org
+
+**Bristol** is a small harbor town 18 miles southeast, best known for claiming the oldest Fourth of July parade in America (since 1785). The Herreshoff Marine Museum covers the history of America's Cup racing, much of which happened here.
+
+**Cape Cod** is about 90 minutes from Providence, making it reachable for a long day in summer — though it's better as an overnight.

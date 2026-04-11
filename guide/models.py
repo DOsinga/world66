@@ -188,17 +188,19 @@ class Page:
                     children.append(child)
         return children
 
-    def tagged_pois(self):
+    def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.
 
         Also includes POIs in the legacy section subdirectory (files that
         predate the tag system and haven't been migrated yet).
+
+        Pass _city_tag_index (from build_city_tag_index) to avoid repeated scans.
         """
         city_path = _find_city_path(self.path)
         if not city_path:
             return []
         tag = self.nav_tag
-        by_tag = find_tagged_pois(city_path, tag)
+        by_tag = find_tagged_pois(city_path, tag, _city_tag_index=_city_tag_index)
 
         # Legacy: also scan the section's own subdirectory for untagged POIs
         legacy = self._legacy_dir_pois()
@@ -235,6 +237,7 @@ class Page:
         return self.tagged_pois()
 
 
+
 def _find_city_path(path):
     """Return the path of the nearest ancestor page with type 'location'."""
     parts = path.split("/")
@@ -246,12 +249,12 @@ def _find_city_path(path):
     return None
 
 
-def find_tagged_pois(city_path, tag):
-    """Scan all POI files under city_path and return those tagged with tag."""
+def build_city_tag_index(city_path):
+    """Scan all POI files under city_path once and return {tag: [Page, ...]}."""
     city_dir = CONTENT_DIR / city_path
     if not city_dir.is_dir():
-        return []
-    pois = []
+        return {}
+    index = {}
     seen = set()
     for md_file in sorted(city_dir.rglob("*.md")):
         result = _load_md(md_file)
@@ -263,7 +266,7 @@ def find_tagged_pois(city_path, tag):
         raw_tags = meta.get("tags", [])
         if isinstance(raw_tags, str):
             raw_tags = [t.strip() for t in raw_tags.split(",")]
-        if tag not in raw_tags:
+        if not raw_tags:
             continue
         rel = md_file.relative_to(CONTENT_DIR)
         parts = list(rel.parts)
@@ -274,8 +277,19 @@ def find_tagged_pois(city_path, tag):
         seen.add(url_path)
         page = _load_page_from_file(md_file, url_path)
         if page:
-            pois.append(page)
-    return pois
+            for t in raw_tags:
+                index.setdefault(t, []).append(page)
+    return index
+
+
+def find_tagged_pois(city_path, tag, _city_tag_index=None):
+    """Return POIs under city_path tagged with tag.
+
+    Pass _city_tag_index (from build_city_tag_index) to avoid repeated scans.
+    """
+    if _city_tag_index is None:
+        _city_tag_index = build_city_tag_index(city_path)
+    return list(_city_tag_index.get(tag, []))
 
 
 def find_neighbourhood_page(city_path, title):

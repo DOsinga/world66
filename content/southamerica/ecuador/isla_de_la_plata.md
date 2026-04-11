@@ -1,14 +1,12 @@
 ---
-title: "Isla de la Plata"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -1.274094
 longitude: -81.0708
+title: Isla de la Plata
+type: location
 ---
 
-Travel Guide
+Isla de la Plata is a small island off the coast of [Ecuador](/southamerica/ecuador), part of the Parque Nacional Machalilla. It has earned the nickname "the Poor Man's Galapagos" for its blue-footed and red-footed boobies, frigatebirds, sea lions, and marine iguanas — many of the same species found on the Galapagos, at a fraction of the cost and travel time.
 
-One of the highlights of the Parque Nacional Machililla,
-Isla de la Plata has earned the nickname of the Poor Man´s Galapagos
-because of the unique variety of birds, seals and iguanas that are
-found in both spots. From July to October you can see humpback whales.
-To read more about Isla de la Plata, visit http://www.vivatravelguides.com/south-america/ecuador/the-northern-coast-and-lowlands/manabi/manabi-activities/parque-nacional-machililla/isla-de-la-plata
+Day trips run from Puerto Lopez, about 90 minutes by boat. From July to October you can spot humpback whales on the crossing. The island itself has a couple of walking trails through dry scrub where the birds nest right beside the path, seemingly unbothered by visitors. Snorkelling around the island is excellent, with manta rays, sea turtles, and colourful reef fish.

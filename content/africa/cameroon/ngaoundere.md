@@ -1,17 +1,14 @@
 ---
-title: "Ngaoundere"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 7.321154
 longitude: 13.587821
+title: Ngaoundéré
+type: location
 ---
 
-Ngaoundere is the end of the railroad north form Yaounde, some 800 km northeast. You're pretty close to the [Benoue Park](/africa/cameroon/benouepark) here and well on your way to Maroua in the north.
+Ngaoundéré is the northern terminus of the railway from Yaoundé, some 800 kilometres northeast, and a natural stop on the way to [Bénoué National Park](/africa/cameroon/benouepark) or Maroua in the far north of [Cameroon](/africa/cameroon).
 
+The town has few sights, but the Palais du Lamido is the main attraction — especially interesting on weekends when locals come to pay their respects to the Lamido (traditional ruler). The centre is compact and easily explored on foot. Along the main street you will find cheap places to eat and stay, such as L'Épi d'Or, between the Grand Mosque and the Cameroon Airlines office.
 
- Nagouandere has few sights. The Palace du Lamido is the main attraction. It's especially interesting in weekends when the locals come here to pay thier tribute to the Lamido. 
-
-
- The centre is pretty small and easliy explored on foot. On the main drag you find many cheap places to stay and eat, such as L`Epi d`Or (between the Grand Mosque and the Cameroun Airlines office). About a block away you find the New Jersey dance club, and a block south you find the street which leads to the Petite Marche and the railway station.
-
-
- Set at an elevation of 1100 meters, Ngaoundere has a nice climate. Meiganga, some 30 km away is some 200 meters higher and some sort of a resort. The Ranch de Ngaoundaba is a popular place to stay.
+Set at an elevation of 1,100 metres, Ngaoundéré has a pleasant climate compared to the lowlands. Meiganga, about 30 kilometres away and 200 metres higher, is something of a hill resort. The Ranch de Ngaoundaba, set around a crater lake outside town, is a popular place to stay.

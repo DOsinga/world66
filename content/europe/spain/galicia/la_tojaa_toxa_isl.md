@@ -1,6 +1,12 @@
 ---
-title: "La Toja/A Toxa Island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.4475
+longitude: -8.8406
+title: La Toja/A Toxa Island
 type: location
 ---
 
-**La Toja/A Toxa Island** , together with the Island of Arousa, one of the great island spaces in the province. Joined to O Grove peninsula through a bridge built at the beginning of the present century, A Toxa started to develop as a result of the construction of its spa. Hotels and sports and leisure centres sprouted up round it. Its natural locations and the peculiar hermitage of San Caralampio (12th cent.), covered with scallop shells, are of particular beauty.
+La Toja (A Toxa in Galician) is a small island off the coast of [Galicia](/europe/spain/galicia), connected to the O Grove peninsula by a bridge built in the early 20th century. Together with the Island of Arousa, it is one of the great island spaces in the Rías Baixas.
+
+The island developed around its thermal spa, and today it is a genteel resort with hotels and leisure facilities. The most distinctive sight is the 12th-century hermitage of San Caralampio, whose walls are entirely covered in scallop shells — a striking and peculiar piece of Galician architecture.

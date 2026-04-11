@@ -1,12 +1,14 @@
 ---
-title: "Hamptons on Long Island"
+title: The Hamptons
 type: location
+latitude: 40.9632
+longitude: -72.1846
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+The Hamptons stretch along the south shore of eastern Long Island, a string of towns and villages — Westhampton, Southampton, Bridgehampton, East Hampton, Amagansett — that have been the summer retreat of wealthy New Yorkers for over a century. The beaches are long, wide, and backed by dunes; the villages have a manicured New England charm with white clapboard buildings, farm stands, and upscale shops.
 
-The Hamptons on Long Island consists of numerous towns and cities along the south shore of Long Island east of New York City fronting on the Atlantic Ocean. Incluced are such places as Eastport, Westhampton, Hampton Bays, Southampton, Bridgehampton, East Hampton and Amagansett.
+For visitors without a house to borrow, the Hamptons can be challenging. Many beaches require expensive parking permits, accommodation books up months in advance, and the prices at restaurants and shops reflect the clientele. But the beaches are genuinely beautiful, the farm-to-table food scene is excellent, and the art galleries and cultural offerings — particularly the Parrish Art Museum and the summer programming — are among the best on the East Coast.
 
-These places include many upscale residences and vacation properties for the wealthy of New York City. A drive along Dune Road in the Westhampton Beach area reveals miles of million-dollar-plus vacation homes. Many of the so-called public beaches in the Hampton areas are actually for residents who live in the various Hampton towns and non-residents are not allowed to use them.
-
-Many upscale shops and stores are located in the Hamptons including some impressive garden shops and nurseries. The downtowns have the quaint New England flare and style. There are no chain type hotels located in these towns, instead bed and breakfast inns or local hotels that blend into the New England style will cater to your needs, however they do fill up quickly.
+Getting there from New York City takes two to three hours by car (longer on Friday afternoons in summer, when the Long Island Expressway earns its nickname "the world's longest parking lot"). The Hampton Jitney bus service runs regularly from Manhattan.

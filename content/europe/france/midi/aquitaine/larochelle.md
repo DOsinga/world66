@@ -1,14 +1,14 @@
 ---
-title: "La Rochelle"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.159732
 longitude: -1.151595
+title: La Rochelle
+type: location
 ---
 
-La Rochelle is one of the most interesting seaside towns in France. The centre and the waterfront date from the 17-th century when the town played an important in the trade with the new world.
+La Rochelle is one of the most attractive seaside towns in [France](/europe/france). The centre and waterfront date largely from the 17th century, when the town grew wealthy from trade with the New World. The old harbour, guarded by its three medieval towers, is one of the most photogenic waterfronts on the Atlantic coast.
 
+The most attractive area lies between the harbour and the Place de Verdun. The **Grosse Horloge**, a gateway straddling the harbour entrance, gives access to the Rue du Palais, lined with shops under 18th-century arcades. The **Musée du Nouveau Monde** traces the town's colonial trading history, and the **Hôtel de Ville** is one of the finest Renaissance town halls in France.
 
- The most attractive area is located between the harbour and the place de Verdun. The **Grosse Horloge** is a gateway to the old town and dominates the harbour. It gives access to the rue du palais which is filled with shops under the 18-th century arcades. The main sights to visist include the **Musee du nouveau Monde** and the **Hotel de Ville**.
-
-
- Just south of La Rochelle is the [Ile dOleron](/europe/france/midi/aquitaine/iledoleron) Frances second largest islands with lots of sandy beaches.
+Just south of La Rochelle, the [Île d'Oléron](/europe/france/midi/aquitaine/iledoleron) — France's second largest island — offers long sandy beaches and oyster farms.

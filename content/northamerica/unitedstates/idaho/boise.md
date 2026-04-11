@@ -1,12 +1,14 @@
 ---
-title: "Boise"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.6166
+longitude: -116.2009
+title: Boise
 type: location
-latitude: 43.616616
-longitude: -116.200886
 ---
 
-We currently have no information about Boise.
+Idaho's capital sits where the high desert meets the foothills of the Rocky Mountains, a mid-sized western city that punches above its weight in livability and outdoor access. The Boise River Greenbelt runs 25 miles through the heart of town, and you can be hiking in the Boise Foothills within minutes of downtown.
 
-If you do know any general information about Boise, please [Edit this article].
+The city's core is compact and walkable. 8th Street is the main drag for restaurants and bars, while the Basque Block — one of the largest Basque communities outside Europe — gives the city an unexpected cultural dimension, complete with a Basque museum and traditional restaurants. The Idaho State Capitol building anchors the downtown grid.
 
-If you know any hotels in Boise or restaurants in Boise, please [[Add].](/destinations/addItemWizard?addwhere=northamerica/unitedstates/idaho/boise)
+Boise makes a natural base for exploring central Idaho. The Sawtooth Mountains are a few hours north, the Snake River canyon lies to the south, and the city's own backyard — Bogus Basin ski area — is just 16 miles from downtown.

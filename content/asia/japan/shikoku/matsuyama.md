@@ -1,40 +1,14 @@
 ---
-title: "Matsuyama"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 33.8395
+longitude: 132.7654
+title: Matsuyama
 type: location
-latitude: 33.839519
-longitude: 132.765352
 ---
 
-Travel Guide
+Shikoku's largest city is also arguably its most interesting. Matsuyama has one of Japan's handful of original feudal castles still standing on its hilltop, a historic hot spring resort practically attached to the city limits, and a strong literary identity rooted in haiku — the poet Masaoka Shiki was born here, and his influence is still felt.
 
-Shikoku's largest city is also
-arguably its most interesting. Home to one of Japan's finest original
-castles, Matsuyama is also contiguous with the relaxed and historic spa
-town of **Dogo**. Much of
-Japan's haiku poetry originated in this city, a lot courtesy of the famous poet Masaoka Shiki.
+The city and the spa town of **Dogo** are essentially continuous, which means you can move between castle, temples, and thermal baths in the same afternoon. Dogo Onsen is among Japan's most celebrated hot springs, and its old wooden bathhouse — the Honkan — has been drawing visitors for well over a century.
 
-The magnificent **Matsuyama-jo** should be at the top of
-any visitor's itinerary. Originally dating from the early 17th century,
-it has been rebuilt and/or renovated some five times since it's
-foundation. The present form dates from 1854 (the reconstruction took
-some 34 years!) after having been struck by lightning and burnt down in
-1784. Both a cable car and chairlift are available for quick access to
-its mountain-top location, but it is possible to hike up as well. The
-Shinto shrine of **Shinonome-jinja**
-sits on the east side of the castle's hill, which hosts torch-lit Noh
-performances during April's Takagi festival. The tranquil gardens of the** Ninomaru Shiseki Teien** are found on the site of the former *Ninomaru*
-(outer palace), along the western slope of the hill. A Japanese sweet
-and powdered green tea are available for ¥300 from the gardens'
-teahouse.
-
-In the eastern suburbs of Matsuyama is the resort area of **Dogo Onsen**,
-one of Japan's most famous hot springs. Although home to some notably
-seedy nightlife (as in most Japanese onsen areas), it offers a pleasant
-and historic area to soak up the thermal waters and enjoy oneself. The
-old bathhouse of **Dogo Onsen Honkan** is the most rustically picturesque
-in the area and well worth a visit.
-
-Matsuyama also offers easy access to **Mt. Ishizuchi**, Shikoku's largest mountain, which is within an hour's bus ride.
-
-More information on
-*Matsuyama Travel*
+Matsuyama also makes a good base for Shikoku. Mt. Ishizuchi, the island's highest peak, is about an hour by bus.

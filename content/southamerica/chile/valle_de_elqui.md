@@ -1,16 +1,16 @@
 ---
-title: "Valle de Elqui"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -30.13
+longitude: -70.5
+title: Valle de Elqui
 type: location
-latitude: -33.553253
-longitude: -70.582463
 ---
 
-Travel Guide
+The Elqui Valley runs east from La Serena into the Andes, climbing through a narrow green corridor of vineyards and fruit orchards set against bone-dry brown mountains. The sky here is among the clearest on earth — several major astronomical observatories are located in the surrounding hills, and on a moonless night the Milky Way is so bright it casts shadows.
 
-The Elqui Valley is famous for its unique nature, fresh air and calmness.
-Driving through the valley, you will pass fertile grape plantations and now and then a peaceful village with a beautiful plaza. This scenery is surrounded by the impressive barren mountains of the semi-desert and a nearly year-round blue skies. The climatic conditions in the valley create an attractive destination all year round.
-Amongst others, the area is known for Pisco, which is a grape brandy. The local distilleries are in each case worth a visit worth and tasting.
+The valley is the heartland of pisco production. The grape brandy is distilled at several artisanal and industrial plants along the road, most of which offer tours and tastings. The village of Pisco Elqui, renamed from La Unión in 1936 in a strategic move during the pisco origin dispute with Peru, is the main base for visitors — a small, pleasant place with a church on the plaza, guesthouses, and tour operators.
 
-The Elqui Valley is located about 500 km north of Santiago. You can reach it for a day's journey from the coastal city of La Serena by bus. But you should take at least a period of two days for the experience. The reason is its incredibly starry sky, which is rightly reputed to be the most beautiful in the world. The valley's clear atmosphere is an invitation to observations.
+The Nobel Prize-winning poet Gabriela Mistral grew up in the valley, in the village of Montegrande, where her childhood home is now a museum. The surrounding landscape — irrigated green against empty desert, with snow-capped Andean peaks above — has an almost hallucinatory quality.
 
-The most popular place in the valley is Pisco Elqui. The dreamy village is home to numerous hotels, campgrounds, restaurants and a beautiful church in the village square. From here, many tours are offered to explore the valley, making Pisco Elqui an ideal starting point for all out door fans.
+The valley is reached from La Serena, about an hour's drive, and can be visited as a day trip. But staying at least one night is strongly recommended for the stargazing alone. Several small observatories offer evening tours with telescope viewing.

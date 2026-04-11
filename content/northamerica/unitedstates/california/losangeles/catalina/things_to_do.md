@@ -1,14 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Casino Building, Avalon**
-
-1 Casino Way 90704 310/510-7400 
-
-**Catalina Island Museum, Avalon**
-
-1 Casino Way 90704 310/510-2414
+Catalina is split between Avalon's compact waterfront charm and the wild interior of the Catalina Island Conservancy. In town, the Casino Building and museum are the main draws. Beyond Avalon, hiking trails wind through surprisingly rugged hills, and the clear waters offer some of the best snorkelling and kayaking near Los Angeles.

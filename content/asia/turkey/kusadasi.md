@@ -1,14 +1,16 @@
 ---
-title: "Kusadasi"
+title: Kuşadası
 type: location
-latitude: 37.86324
-longitude: 27.266873
+latitude: 37.8596
+longitude: 27.257
+done:
+  location_cleanup: 2026-04-05
 ---
 
-A foaming sea, good beaches and over 300 days of sunshine a year.... no wonder Kusadasi has grown into one of Turkey's major sea-resorts. The ancient ruins of the fortress and its gates are a reminder of the impact the Ottomans had on the city at the beginning of the 15th century. These days, you'll still see old houses in narrow streets altered with more fashionable streets, such as the 'Barlak Sokak', the place to go to when you're looking for restaurants and entertainment when the sun sets over the palm-lined boulevard of this harbour town.
+Kuşadası is a cruise-ship port and beach resort on Turkey's central Aegean coast, best known as the closest port to the ruins of Ephesus. The name means "Bird Island," after the small Pigeon Island (Güvercinada) just off the shore, which carries the ruins of a 16th-century fortress the locals call the Pirate Castle. The town itself has grown massively over the last thirty years — from a quiet fishing village into one of Turkey's busiest resorts — and on a summer day when several cruise ships are in port the harbour area can feel overwhelming. But the setting is genuinely pretty, and it is an unbeatable base for exploring one of the richest archaeological landscapes in the world.
 
-The Pigeon Island (just off the coast) offers the ruins of a Byzantine castle (better known as the Pirate Castle) and some good views of the coastal town itself. Originally, the island was named 'Bird Island' but when the Ottomans decided to name the city like that (Kusadasi means Bird Island), the island was renamed Pigeon Island.
+The reason most people come is **Ephesus**, thirty minutes north — one of the largest and best-preserved classical cities anywhere in the Mediterranean. The Library of Celsus, the Great Theatre, the marble-paved Curetes Street, and the houses on the slope of Mount Coressus are essential; come first thing in the morning or late in the afternoon to avoid both the heat and the worst of the cruise-ship crowds. Other day trips from Kuşadası include the ruins of **Priene**, **Miletus**, and **Didyma** to the south (the three together make a classic one-day loop), the **House of the Virgin Mary** in the hills above Ephesus (believed by Catholics to be where Mary spent her last days), and **Pamukkale**, three hours inland — the blinding white travertine terraces and the ruins of Hierapolis above them.
 
+In Kuşadası itself, the **Kaleiçi** (the old walled town) tucked around the harbour still has cobblestone streets and old Ottoman houses converted to restaurants and carpet shops. The 17th-century **Öküz Mehmet Paşa Mosque** — known as the Kale Mosque — is the most striking of the town's Ottoman buildings. **Long Beach** (Uzun Plaj), south of the centre, is the best sandy beach nearby, though the city is not the main reason to come here.
 
- 
- From Kusadasi, ferries leave to and fro [Italy](/europe/italy) or one of the Greek islands - there are daily ferries for [Samos](/europe/greece/samos) in summer. But before you rush off, Kusadasi is also an excellent city from which to explore impressive historical sights including Miletos and [Ephesus](/asia/turkey/ephesus) and the rock formations at [Pamukale](/asia/turkey/pamukale).
+Kuşadası is also one of the main jumping-off points for the Greek island of **Samos**, a ninety-minute ferry ride across the strait — a quick way to hop between Turkey and Greece, though you'll need your passport and the ferry doesn't always run in winter. Come in May, June, September, or October if you can; high summer is hot and crowded.

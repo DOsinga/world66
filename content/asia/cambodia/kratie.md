@@ -3,24 +3,12 @@ title: "Kratie"
 type: location
 latitude: 12.678302
 longitude: 106.058173
+done:
+  location_cleanup: "2026-04-07"
 ---
 
-Kratie is a lovely little country town on the way to the Cambodia/Laos
-border. It is a great place to see the rare Irrawaddy dolphin (a 25
-minute moto ride from town via a road lined with authentic rural
-Cambodian life). Just be sure to be clear about what is included, the
-boatmen have been known to ask for extra money to see the rapids
-upstream. These are said to be good when the river is high(which was
-lucky as it was dry season and there would have been little to see) but
-it may be interesting when the river is higher.
+Kratie is a quiet provincial town on the upper Mekong, roughly halfway between Phnom Penh and the Laos border. Most travellers stop here for one reason: the Irrawaddy dolphins. A small, critically endangered freshwater population survives in the deep pools at Kampi, about 15km north, and watching them surface in the brown river light is genuinely memorable.
 
-There is a bustling market which is a great place to watch frogs being
-skinned (and escaping first through the holes in the nets), sample some
-delicious foods (such as freshly grilled corn cakes) and generally take
-in rural Cambodian life. We spent a pleasant morning wandering around
-town. The main temple is worth a look.
+Beyond the dolphins, Kratie rewards a slow morning. The market is lively and good — frogs, freshly grilled corn cakes, pork buns for a few cents — and the French colonial shophouses along the riverfront give the town a pleasant, unhurried character. The main temple is worth a look. There are no crowds, no hard sell, and life moves at a pace that feels a long way from Phnom Penh.
 
-**Contributors**
-September 03, 2005
-
-September 03, 2005
+A word of caution: negotiate clearly with moto drivers before setting off for Kampi. Some add charges for rapids and temple visits that weren't mentioned upfront. Agree on everything before you go.

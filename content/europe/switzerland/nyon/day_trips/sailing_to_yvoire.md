@@ -1,6 +1,8 @@
 ---
 title: "Sailing to Yvoire"
 type: poi
+latitude: 46.3703
+longitude: 6.3256
 ---
 
-For those of you who come to Switzerland in summer there is a nice trip to be had. Try to organise a trip with someone who has a boat and cross from Nyon harbour to Yvoire, have a meal there and then sail
+The CGN lake boats run a regular summer service from Nyon harbour across to Yvoire, a medieval walled village on the French shore of Lac Leman. The crossing takes about twenty minutes, and the village is a pleasant place to wander for a couple of hours, with stone houses, a fourteenth-century castle, and the Jardin des Cinq Sens. Have lunch on the waterfront before catching the boat back.

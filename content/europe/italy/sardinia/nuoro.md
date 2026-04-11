@@ -1,17 +1,18 @@
 ---
-title: "Nuoro"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 40.3217
+longitude: 9.3268
+title: Nuoro
 type: location
-latitude: 40.264089
-longitude: 9.127204
 ---
 
-For the real Sardinia you should head for Nuoro. Located in the mountainous heartland of the island where the locals still speak Sardo, at the bottom of the Monte Ortobene, Nuoro has kept most of teh insular traditions intact; they include Eternal Bloodfeuds and the Art of Kidnapping.
+Nuoro is the real Sardinia. Tucked into the mountainous heartland of the island, far from the coastal resorts, it is the capital of the Barbagia — a rugged interior region where Sardo is still spoken, traditional festivals survive intact, and the landscape has a spare, almost austere beauty.
 
+The old quarter spreads around the Corso Garibaldi, a broad pedestrian street lined with old palazzi and small bars. This is where Nuoro's literary legacy lives: Grazia Deledda, the only Italian woman to win the Nobel Prize in Literature, was born here in 1871. Her novel *Canne al Vento* captures the mountain villages of Barbagia with unsparing honesty.
 
- The old wuarter of town is spread around the Corso Garibaldi. The main sights in the area is the Ethnographic Museum on Via Antonio Meru, with an incredible collection of Sardinian jewels, masks, carpets and other handicrafts.
+The Ethnographic Museum on Via Antonio Mereu is outstanding — one of the best in Sardinia, with an extraordinary collection of traditional jewellery, carnival masks, embroidered costumes, and handwoven carpets. It gives you the context to understand everything else you'll see in the region.
 
+Above the town, Monte Ortobene rises to almost 1,000 metres. A winding road or a good hour's walk on foot takes you to the summit, where a large bronze statue of the Redeemer looks out over the town and the surrounding valleys. The views are sweeping on a clear day.
 
- A walk to the summit of the Monte Ortobene, almost 1000 meters high, gives you an stunning views over the town and the surrounding countryside.
-
-
- Nuoro is an excellent starting point for taking trips to some of the other villages in the region. Orgoloso is famous for its mural paintings on the houses. Fonni, the highest village on the island, Mamoiada and Ottana have interesting festivals with strange processions that go
+Nuoro is an excellent base for the villages of the Barbagia. [Orgosolo](/europe/italy/sardinia) is famous for its political murals, painted across the walls of the village since the 1960s. Fonni, the highest village in Sardinia, and Mamoiada — home of the Mamuthones carnival masks — are both within easy reach.

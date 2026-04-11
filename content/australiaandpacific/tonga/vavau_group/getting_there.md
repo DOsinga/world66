@@ -3,7 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-It's relatively easy to get a flight from the main island of tonga to here. So if you wanted to fly in, best case is: Fiki - Tongatapu - Vava'u.
+Real Tonga operates flights from Tongatapu (the main island) to Vava'u, and the flight takes about an hour. Most international visitors fly into Nuku'alofa first and connect from there. There are also occasional direct flights from Fiji.
 
-**Contributors**
-January 06, 2005
+By sea, ferries run between Tongatapu and Neiafu, but the journey is long and the boats are not always reliable. Flying is strongly recommended if your schedule matters.

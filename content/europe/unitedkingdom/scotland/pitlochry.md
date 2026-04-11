@@ -1,10 +1,12 @@
 ---
-title: "Pitlochry"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 56.701969
 longitude: -3.730685
+title: Pitlochry
+type: location
 ---
 
-Tucked away in the hills nestles the beautiful town of **Pitlochry**. It's a real trap for tourists, particularly during the Pitlochry Festival which takes place every summer at the The Pitlochry Festival Theatre.
+**Pitlochry** sits in a green fold of the Perthshire hills, surrounded by forested slopes and the River Tummel. It fills up in summer — particularly during the Pitlochry Festival Theatre's season, which runs from May through October and draws audiences from across Scotland for its rotating repertoire of plays.
 
-Another wonderful find just outside Pitlochry is **Moulin** which has just a few houses and a wonderful pub. It's worth the walk across the hill tops looking over Pitlochry - and the pub which makes it's own beer is a wonderful reward. After a break there head a little further to the smalles distillery in Scotland - Edradour. It is the quaintest place to visit and has only 3 employees working there (if you don't count the numerous guides who show you round the distillery on free tours, even throwing in a free dram!)
+Just outside town, the tiny hamlet of **Moulin** rewards a walk over the hilltops with fine views back over Pitlochry and a pub that brews its own ale. From there, push on a little further to **Edradour**, one of the smallest distilleries in Scotland. With only a handful of employees and free guided tours that end with a dram, it feels like stepping into a working postcard of what Scotch whisky production used to look like.

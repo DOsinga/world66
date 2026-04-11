@@ -3,8 +3,6 @@ title: "Day Trips"
 type: section
 ---
 
-Petchaburi
-Kaeng Krachan National Park, Thailand
-Thailand has many green oases, but the 2,915 sq.km. Kaeng Krachan National Park in Petchaburi Province spanning the border with Burma/Myanmar, .is the largest. A three hour drive from Bangkok on the way South towards Cha’am, Hua Hin and Phuket, this wilderness is unparalleled for its rich diversity.
-Flora, Fauna and Accommodation in Kaeng Krachan National Park.
-There are over 250 species of insects and moths, over 450 species of birds including hornbills and the black drongo, plus spectacled langurs, Fea’s barking deer, tapir, elephant, wild dog, monkeys and gibbons. Rumours surface periodically of other wildlife including tigers and the Asiatic leopard. The rumours usually start after someone has gone into the park, disregarded the rules, and got lost. In recent years, two campers disappeared completely, never to be found.
+The big draw near Phetchaburi is Kaeng Krachan National Park, Thailand's largest at 2,915 square kilometres, stretching west to the Burmese border. The park is about an hour's drive from town and shelters over 450 bird species, including hornbills and the black drongo, plus elephants, tapirs, gibbons, and spectacled langurs. Two campers have disappeared in the park over the years after ignoring the rules -- stick to marked trails.
+
+To the south, the beach towns of [Cha-am](/asia/thailand/chaam) and [Hua Hin](/asia/thailand/huahin) are both within easy reach for a day at the coast.

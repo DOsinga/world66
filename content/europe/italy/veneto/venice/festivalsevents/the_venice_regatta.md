@@ -14,10 +14,3 @@ lagoon. More than 400 boats in various kinds and sizes from 50 Venice's
 clubs and private boats from all over the world participate in this
 wonderful event.
 
-
-
-
-
-url: www.carnifest.com
-
-email: yaporat@gmail.com

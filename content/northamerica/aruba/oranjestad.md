@@ -1,5 +1,9 @@
 ---
-title: "Oranjestad"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 12.5092
+longitude: -70.0086
+title: Oranjestad
 type: location
 ---
 

@@ -1,18 +1,16 @@
 ---
-title: "Peniscola"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 40.3578
+longitude: 0.4074
+title: Peñíscola
 type: location
-latitude: 40.357784
-longitude: 0.407379
 ---
 
-Travel Guide
+Peñíscola is a small fishing village turned popular resort on the Costa del Azahar, dominated by a rocky promontory that juts into the Mediterranean. The medieval castle and walled old town perched on the headland make it one of the most visually striking towns on Spain's east coast — and one of the most photographed.
 
-Peniscola is a small fishing village which has become a sizeable tourist destination in recent years. It has a picturesque penninsula jutting out which contains the impressive mediaeval castle and fortified town.
+The town is best known as the refuge of Pedro de Luna, the Aragonese cardinal who was elected Pope Benedict XIII during the Western Schism and stubbornly refused to abdicate. He retreated to Peñíscola in 1415 and held court in the castle until his death in 1423, still insisting he was the legitimate pope. The castle, originally built by the Knights Templar in the 14th century, bears his mark throughout.
 
-On both sides of the peninsula there are beaches. The south beach is about 1km in length and the very popular north beach is 7km in length and is where the majority of the tourism is located.
+On either side of the promontory there are beaches. The south beach is about 1 km and catches the afternoon sun; the north beach stretches 7 km and is where most of the resort hotels and tourism activity are concentrated. July and August are very busy. June and September offer better weather-to-crowds ratios.
 
-There are plenty of bars, restaurants and hotels and it is very busy during peak times (July / August and fiestas). I recpmmend June and September as the best times to go for a mixture of great weather, bar and restaurant availability and busy-ness.
-
-The town itself is famous for a number of things but probably its biggest is that it was the hiding place for Pope Benedict also known as Papa Luna.
-
-The nearest train station is Benicarlo/Peniscola which is 8km from Peniscola. Peniscola is well served by the A7 motorway and the N340 which both have junctions very close to Peniscola and are well signed.
+Getting here is straightforward: the A-7 motorway and N-340 both pass close by with well-signed exits. The nearest train station is Benicarló-Peñíscola, about 8 km from town, with regular connections to Valencia and Barcelona.

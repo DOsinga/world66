@@ -1,28 +1,16 @@
 ---
-title: "Aberystwyth"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 52.4145
+longitude: -4.0811
+title: Aberystwyth
 type: location
-latitude: 52.414311
-longitude: -4.081685
 ---
 
-Aberystwyth is a university town in Wales with a name that is rather hard to pronounce. It's an easy going place with many things to do at night, which is mainly due to the presence of the student population.
+Aberystwyth is a university town on the west coast of Wales, perched between the sea and some of the finest countryside in Britain. The name is famously hard for English speakers to pronounce — roughly "ab-er-IST-with" — but the town itself is disarmingly easy to like.
 
+The presence of Aberystwyth University gives the place an energy and bohemian streak that you don't often find in Welsh market towns. There's a lively bar scene, good cafes, and an independent bookshop culture that punches well above its size. Out of term the pace drops, but the town never feels sleepy.
 
- The town is surrounded on three sides by some of the most glorious countryside in Great Britain - the Rheidol Valley, the Pumlumon mountains, not to mention Ceredigion's Heritage Coast and the most concentrated collection of award-winning beaches in the UK.
+The setting is striking: Cardigan Bay stretches to the west, the Cambrian Mountains rise to the east, and the Rheidol Valley cuts inland toward some spectacular upland scenery. The Heritage Coast of Ceredigion runs north and south, with a string of award-winning beaches within easy reach.
 
-
- Aberystwyth was established over seven hundred years ago by virtue of a charter awarded by Edward I. Neighbouring Llanbadarn Fawr is a much older settlement whose history is more based upon the historical Welsh culture.
-
-
- 
- An original castle was built by invading Anglo-Saxon forces far to the south of the site of the existing castle ruins. The original fortifications would probably have been much nearer to the mouth of the river Ystwyth ("Aber Ystwyth" in Welsh means mouth of the river Ystwyth) than are the ruins of the later, stone-built castle, that remain.
-
-
- 
- Although its origins stemmed from an intent to subdue the Welsh people, Aberystwyth became the home of some of the most important institutions for and of Wales.
- 
- The very first college of the University of Wales was established here and education remains to dominate the calendar of the town for much of the year. The University of Wales Aberystwyth now encompasses the College of Librarianship Wales and the Institute for Rural Studies - previously the Welsh College of Agriculture.
-
-
- 
- Aberystwyth also houses the National Library of Wales - where many of the greatest literary treasures of Wales and the other Celtic countries are securely stored, including the illuminated "Black Book of Carmarthen", the oldest surviving manuscript written in the Welsh language.
+Historically, Aberystwyth has been a place of Welsh cultural significance well beyond its modest size. The National Library of Wales is here, housing the oldest surviving manuscript in the Welsh language. The first college of the University of Wales was established here in the 19th century, and the town has long been a hub for Welsh-language culture and politics.

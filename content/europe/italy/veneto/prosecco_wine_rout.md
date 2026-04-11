@@ -1,5 +1,7 @@
 ---
-title: "Prosecco Wine Route"
+done:
+  location_cleanup: '2026-04-08'
+title: Prosecco Wine Route
 type: section
 ---
 

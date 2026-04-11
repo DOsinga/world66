@@ -1,20 +1,6 @@
 ---
-title: "Bars and Cafes in Arraial da Ajuda"
+title: "Bars and Cafes"
 type: section
-address: "Rua do Mucuge"
 ---
 
-Arraial is full of bars and interesting cafes to sit and spend some time enjoying yourself.
-
-**Contributors**
-November 24, 2005
-
-### [La Morocha](/southamerica/brazil/arraial_da_ajuda/bars_and_cafes/la_morocha)
-
-Fun bar, with strange drinks, good live music, in the middle of the most agitated spot in Arraial. Owners speak many languages and make jokes all the time. Drinks like Llama Loca attract many people interested in trying this drink which has flames coming out of the glass.
-
-
-
-[[rate it]](/southamerica/brazil/arraial_da_ajuda/bars_and_cafes/la_morocha)
-
-address: Rua do Mucuge
+The Rua do Mucuge is the centre of Arraial's nightlife, lined with bars that start quiet and build through the evening. La Morocha is the liveliest spot — flaming cocktails, live music, and multilingual bartenders who keep the crowd entertained. The village also has regular beach parties, full moon parties, and forro nights, especially during high season and festivals.

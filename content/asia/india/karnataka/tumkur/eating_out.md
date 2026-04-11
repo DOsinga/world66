@@ -1,9 +1,6 @@
 ---
-title: "Eating Out in Tumkur"
+title: "Eating Out"
 type: section
 ---
 
-Try out Tatte Idli and chutney(Speciality of Tumkur)
-
-**Contributors**
-May 27, 2008
+Tumkur's signature dish is tatte idli — flat, plate-shaped idlis served with fresh coconut chutney and sambar. You will find them at most local restaurants and street stalls, particularly around the bus stand area. The town is also well-served by standard South Indian vegetarian restaurants.

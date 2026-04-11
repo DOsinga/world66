@@ -1,15 +1,14 @@
 ---
-title: "Dushanbe"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 38.5762
+longitude: 68.7864
+title: Dushanbe
 type: location
-latitude: 38.576271
-longitude: 68.786357
 ---
 
-The capital of Tajikstan is nestled in the snowcapped Pamir Mountains and has a population of 600 000. It wasn’t always the premier city in the country: Until 1926 Dushanbe was a tiny village whose main importance was a market held every Monday (the city’s name means Monday in Tajik). Then the railroad came to town and transformed the sleepy hamlet into a major transportation hub.
+Dushanbe is one of those capitals that surprises you by being more pleasant than expected. Its name means Monday in Tajik — a reference to the weekly bazaar that once defined the place — and until the Soviet railroad arrived in the 1920s, it was little more than a market village. The Soviets built it into a proper city: wide tree-lined boulevards, grand Stalinist facades, a leafy central park. The bones of that plan are still there, and on a sunny day the city is genuinely agreeable.
 
+It's not a destination in itself — most travelers use it as a base before pushing out to the Pamirs, the Fann Mountains, or the ruins around Penjikent. But it rewards a day or two. The covered Barakat bazaar is lively and colorful; the Ethnographic Museum gives you a grounding in Tajik culture before you encounter it in the countryside; the Rokhat teahouse is a Soviet-era institution worth sitting in with a pot of tea and nothing in particular to do.
 
- The soviet building boom left its scars on the city. Nonetheless its tree-lined streets and avenues and stalinst government buildings are not without a certain charm.
-
-The biggest attraction in town is the Barakat covered market where colorful Tajik goods are sold. Other sites include the motley Tajikistan Unified Museum (stuffed animals and ex-Soviet memorabilia) the Ethnographic Museum (traditional handicrafts) the Rokhat teahouse and Aini Square and Memorial Complex (named after the father of Tajik literature).
-
-After you’ve exhausted the possibilities in town take a day trip to Gissar Fortress 18 mi/30 km away. The stronghold built in the 18th century and abandoned after 1920 was once the residence of the Turko-Mongric rulers. Other excursions can be made to Adzhina-Tepe (an ancient Buddhist monastery) and to the Varzob Gorge the site of a health resort and thermal springs (it will appeal to those who feel that hot radon steam is therapeutic). The Ramit Nature Reserve lies not far off.
+The city is calm and walkable in the center. You can cover most of the main sights on foot. Marshrutkas and shared taxis handle everything else. The people are friendly and curiosity about foreign visitors is genuine rather than commercially motivated — this is not a city that gets many tourists.

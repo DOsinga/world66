@@ -1,8 +1,12 @@
 ---
-title: "Sakskobing"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 54.7988
+longitude: 11.6341
+title: Sakskøbing
 type: location
-latitude: 54.798788
-longitude: 11.634138
 ---
 
-Well, as far as we know there is one youth hostel (Saxeâ€™s Alle, 54/70 60 45) and it might be an idea for you to go there and let yourself be overwhelmed by the mystery called Sakskobing with the subsequent task of finding out why it is also known as the 'smiling town'. Don't hesitate to update us.
+Sakskøbing is a small town on the island of Lolland in southern Denmark, best known for its water tower — a bright yellow sphere painted with a cheerful grinning face that has earned the town its nickname, "the smiling town." The tower is visible from the harbour and has become one of the most photographed landmarks in the Danish islands.
+
+The town itself is quiet and pleasant, with a compact centre of pastel-coloured houses and a small harbour. It serves mainly as a stop for travellers heading to or from the Falster and Lolland islands, but the surrounding countryside offers good cycling along flat, scenic routes through farmland and along the coast.

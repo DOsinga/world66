@@ -1,10 +1,14 @@
 ---
-title: "Hampton Beach"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.91202
 longitude: -70.81742
+title: Hampton Beach
+type: location
 ---
 
-Travel Guide
+Hampton Beach is New Hampshire's liveliest stretch of coastline — a compact, old-school beach resort about 15 miles south of [Portsmouth](/northamerica/unitedstates/newhampshire/portsmouth) on the Atlantic. It draws crowds all summer with a wide sandy beach, a boardwalk lined with fried dough stands and souvenir shops, and the kind of seaside carnival atmosphere that bigger resort towns have long since polished away.
 
-Hampton Beach is a village district and beach resort within the town of Hampton, in the U.S. state of New Hampshire, located on the Atlantic Ocean. Hampton Beach is located in Rockingham County, approximately 15 miles (24 km) south of Portsmouth. The community is a popular tourist destination and the busiest beach community in the state. Ocean Boulevard, the main street along the beach, includes a boardwalk, many shops and businesses, several seasonal hotels, and the Hampton Beach Casino Ballroom. The Ballroom hosts many national acts throughout the summer months.
+Ocean Boulevard runs the length of the beach, packed with arcades, ice cream parlours, and seafood shacks. The Hampton Beach Casino Ballroom — not a casino at all, but a storied concert venue — hosts national acts throughout the summer. On Wednesday nights the beach puts on a free fireworks show that is one of the best on the New England coast.
+
+Outside peak season the village is quiet, the beach nearly empty, and the sunrises over the Atlantic are worth the drive alone.

@@ -1,14 +1,12 @@
 ---
-title: "Widecombe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 50.576819
 longitude: -3.812579
+title: Widecombe-in-the-Moor
+type: location
 ---
 
-Travel Guide
+Widecombe-in-the-Moor is a small granite village at the heart of the southern part of Dartmoor, better known to most people through the old folk song "Widecombe Fair." The song tells the tale of a horse that died from the strain of carrying seven riders to the fair, and whose ghost still haunts the moor — a story that suits the windswept landscape rather well.
 
-Widecombe is possibly best known for the song, 'Widecombe Fair', about a horse who died after carrying seven people to the fair and then haunted the moor. 
-
-It **should **be noted for its church, sometimes called the 'Cathedral of the Moors' on account of its spectacularly high tower, for its splendid position at the heart of the southern moor and the fine walks around its area and for its two old pubs, the so-called 'New Inn' in the centre and the even older Rugglestone Inn half a mile south, small but super! 
-
-http://www.widecombe-in-the-moor.com/
+The village church, dedicated to St Pancras, is sometimes called the Cathedral of the Moors for its strikingly tall tower, which can be seen from miles across the open moorland. Two old pubs serve the village: the New Inn in the centre and the Rugglestone Inn half a mile to the south, a small, unspoiled local worth the short walk.

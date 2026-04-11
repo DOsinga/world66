@@ -1,9 +1,9 @@
 ---
-title: "Bars and Cafes in Sestri Levante"
+title: Bars and Cafes
 type: section
 ---
 
-A vacation in Sestri Levante will be incomplete without visiting one of the **Sestri Levante bars and caf&eacute;s**. This small resort town located in Liguria, Italy, was once a small fishing village, but now it is fast becoming a popular tourist destination. If you are in Sestri Levante, you might be interested in trying out some fine Italian wine. Italy has a long history of wine production; some of the oldest wines in the world come from Italy. Here is one such bar where you can enjoy some of the best wines in Italy.
+The promenade around both bays is lined with bars and cafes, and the old town streets have their own good options. Il Polpino, on Cappuccini Road, is a wine bar worth seeking out for Ligurian whites and good bar food.
 
 **Il Polpino**
 

@@ -1,16 +1,18 @@
 ---
-title: "Rome"
+done:
+  location_cleanup: 2026-04-04
+latitude: 41.9028
+longitude: 12.4964
+title: Rome
 type: location
-latitude: 41.89332
-longitude: 12.482932
 ---
 
-Roma: the name inverts neatly to form 'amor'. And that’s it - people tend either to love or to hate the place and Rome can reward you as no other city can. Rome, the eternal city which exerts the most compelling fascination, has to be visited by the Italy traveler. 29 million pilgrims and tourists went to Rome in the year 2000 alone.
+The Eternal City needs no introduction, yet it still manages to surprise. Rome layers nearly three thousand years of history into a living, breathing capital where ancient ruins sit beside buzzing trattorias and Renaissance churches share streets with vintage clothing shops. It is chaotic, beautiful, maddening, and utterly addictive.
 
-Few cities have such a long and turbulent history as has Rome. No other city has been the focal point of the world for such a long period. The mistress of the Roman Empire, lavished with architectural jewelry by her emperors, but also often seiged raided and destroyed. Also fires and earthquakes left their scars, but each time the eternal city recovered from her injuries.
+At its heart lies the historic center, a UNESCO World Heritage Site so dense with landmarks that you will stumble across a Bernini fountain or a Caravaggio painting on the way to buy a coffee. The Colosseum, the Pantheon, St. Peter's Basilica, and the Roman Forum are just the headliners. Entire neighborhoods like Trastevere, Testaccio, and Monti have their own distinct character and reward aimless wandering as much as any museum visit.
 
-Rome’s history is tightly connected to the history of Europe. Not just the Roman emperors, but also medieval emperors and kings like Charlemagne or Otto I saw Rome as the true seat of power. They challenged the new rulers, the popes for the supreme power. It was the dispute about who was the true representative of God. Both emperor and pope claimed to be true inheritors of the Roman Empire.
+Roman food is simple and fiercely traditional. The four canonical pasta dishes -- cacio e pepe, carbonara, amatriciana, and gricia -- are served everywhere, and locals will debate which trattoria does them best with the passion others reserve for football. Pizza here is thin-crusted and sold by weight (pizza al taglio) as often as by the plate. Gelato is an essential food group. Wash it all down with a Frascati white from the nearby hills or a bitter Negroni at an outdoor table.
 
-It is said that one life is not enough to get to know Rome. Maybe you’ll need about nine, as much as the countless stray cats that also populate the city, but a week will do for a first introduction. At each corner of each street there’s a story to tell. Thousands of stories together tell the history of a three thousand year old city. Two weeks may be enough for a hasty tour through most everything; a month would be better. Fortunately, Rome (pop. 2.900.000) is compact enough to skim the best in three (full) days, and if you have more time we guarantee you will find delightful and fulfilling ways to use it.
+Getting around is straightforward once you accept that Rome rewards walking above all else. The metro has three lines that hit the major stations but misses most of the historic center, where the ground is too full of archaeology to dig. Buses fill the gaps, taxis are plentiful, and distances between the major sights are shorter than they look on a map. The main challenge is the cobblestones -- wear good shoes.
 
-Highlights in Rome include the Trevi fountain (remember Anita Ekberg in the classic scene in La Dolce Vita) and the Spanish Steps, the Roman heritage sights such as the Pantheon, the Colloseum and the Forum Romanum, at least some of the world famous churches such as Il Gesu, S. Giovanni in Laterano or Sta. Maria Maggiore. Make sure not to miss a stroll through the [Vatican City](/europe/vaticancity) with the incredibly huge St. Peter's Cathedral and the unrivalled Vatican Museum.
+Rome is busiest in spring and autumn when the weather is mild and the city is packed with visitors. Summer brings punishing heat but thinner crowds and lower prices, while winter offers a quieter, moodier city with surprisingly pleasant days between the rain.

@@ -1,25 +1,12 @@
 ---
-title: "Fashion Centre at Pentagon City"
+address: 1100 South Hayes Street, Arlington, VA 22202
+category: Shopping centers and malls
+latitude: 38.8631
+longitude: -77.0606
+phone: (703) 415-2400
+title: Fashion Centre at Pentagon City
 type: poi
-address: "1100 South Hayes Street Arlington, VA 22202"
-phone: "(703) 415-2400"
-type: "Shopping centers and malls"
-url: "www.simon.com"
-latitude: 38.863131
-longitude: -77.060622
+url: https://www.simon.com/mall/fashion-centre-at-pentagon-city
 ---
 
-Just across the freeway from the headquarters of the world's most powerful military is a monument to consumerism. The **Fashion Centre at Pentagon City** hosts many upper-scale stores, such as **Coach**, the **Apple Store**, **Williams-Sonoma**, **Banana Republic**, **J Crew**, **Sony Style**, **Johnny Rockets**, and **United Colors of Benetton**.
-
-**Contributors**
-December 22, 2006
-
-type: Shopping centers and malls
-
-
-
-tel: (703) 415-2400
-
-url: www.simon.com
-
-address: 1100 South Hayes Street Arlington, VA 22202
+Just across the freeway from the headquarters of the world's most powerful military is a monument to consumerism. The Fashion Centre at Pentagon City hosts over 170 stores including Macy's, Nordstrom, Coach, the Apple Store, Williams-Sonoma, Banana Republic, J.Crew, and Crate & Barrel. A skylit food court and seven full-service restaurants round out the experience. Pentagon Row, the open-air extension outside, adds more dining and retail.

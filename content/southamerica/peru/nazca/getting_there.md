@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-For a lot of visitors, Nazca is where the Panamerica highway begins or ends. [Arequipa](/southamerica/peru/arequipa) somewhat in the mountains is 9 hours away. [Cuzco](/southamerica/peru/cuzco) anything from 24 to 40 hours. The other way, you could go to [Ica](/southamerica/peru/ica) in three hours or continue to [Pisco](/southamerica/peru/pisco) in another hour, or sit until to Peru.
+Nazca sits on the Panamericana highway. Lima is about 7 hours north by bus; [Ica](/southamerica/peru/ica) is 3 hours north and [Pisco](/southamerica/peru/pisco) another hour beyond that. [Arequipa](/southamerica/peru/arequipa) is roughly 9 hours southeast. Multiple bus companies run daily services along the coast. There is no commercial airport; the aerodrome serves only light aircraft for overflights.

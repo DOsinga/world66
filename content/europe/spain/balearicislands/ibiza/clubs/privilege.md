@@ -1,15 +1,11 @@
 ---
 title: "Privilege"
-type: location
-latitude: 38.957901
-longitude: 1.408304
+type: poi
+category: "Nightclub"
+latitude: 38.9579
+longitude: 1.4083
+address: "San Antonio Road, Ibiza Town"
+tel: "+34 971 198 160"
 ---
 
-Formerly known as KU and still the largest disco in the world! You can trace the Techno Tech style in the
- magnificent gardens, trees, swimming pools and the giant fountain. The propelling window in the roof shows the
- Ibiza sky scattered with bright stars. Because Privilige is bigger, faster and noisier than any disco in the world, it misses a touch of exclusivity. However, as soon as the internationally renowned DJ's start playing, you'll feel the adrenaline rushing through your veins and it will make you feel larger than life.
- 
-
-address: San Antonio Road, Ibiza Town
-
-tel: +34/971198160
+Formerly known as KU and still the largest disco in the world. The grounds include magnificent gardens, trees, swimming pools and a giant fountain, while the propelling window in the roof reveals the Ibiza sky scattered with bright stars. Because Privilege is bigger, faster and noisier than any other disco on the island, it trades a touch of exclusivity for sheer scale — but as soon as the headline DJs start playing, you'll feel the adrenaline.

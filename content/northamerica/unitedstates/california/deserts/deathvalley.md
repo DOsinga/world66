@@ -1,8 +1,16 @@
 ---
-title: "Death Valley"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.4614
+longitude: -116.8672
+title: Death Valley
 type: location
-latitude: 36.422872
-longitude: -116.913718
 ---
 
-The desolation of Death Valley is inspiring. Furnace Creek offers recreation, restaurants, lodging, a general store, and the Borax Museum. Cruise Artist's Palette Drive, with its colorfully streaked rock and mineral formations. Farther north, tour Scotty's Castle, an extravagant 1920s jewel of Spanish-Moorish architecture.
+Death Valley is the hottest, driest, and lowest national park in the United States — and one of the most dramatic landscapes on earth. The valley floor sits 86 metres below sea level at Badwater Basin, surrounded by mountains that trap summer heat until the air itself seems to shimmer. The record high here is 56.7°C (134°F), set in 1913. It is not a place you visit casually.
+
+Yet for all its extremes, Death Valley is surprisingly alive. Desert bighorn sheep pick their way across rocky slopes, coyotes patrol the campgrounds at dusk, and after a wet winter the valley floor erupts in wildflowers. The park covers over 13,000 square kilometres — larger than Connecticut — and stretches from California into Nevada, with terrain that ranges from salt flats to sand dunes to 3,000-metre peaks.
+
+The main hub is Furnace Creek, where you'll find the visitor center, the Borax Museum, a gas station, and the park's only grocery store. Stovepipe Wells, 40 kilometres northwest, is smaller but useful as a base for the dunes. Most of the park's highlights are accessible by paved road, though a few require high-clearance 4WD — check conditions before heading off the main routes.
+
+Come in October through April. In summer, the heat is genuinely dangerous: cars overheat, water evaporates faster than you expect, and the NPS records multiple heat casualties every year.

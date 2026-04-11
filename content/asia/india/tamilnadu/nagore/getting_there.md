@@ -3,8 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**By Train**: Every day Express Train Service available from Chennai and Bangalore. Connected to Nagapattinam, Thiruvarur, Thanjavur and Tiruchirapalli.
+**By train:** Daily express services run from Chennai and Bangalore. The station connects to Nagapattinam, Thiruvarur, Thanjavur, and Tiruchirappalli.
 
-**By Bus**: Connected to all major towns in Tamilnadu
+**By bus:** Regular services connect Nagore to all major towns in Tamil Nadu. From Nagapattinam, local buses and autos take under 15 minutes.
 
-**By Air**: Nearest airport is Tiruchirapalli (88 KM). Chennai is 320KM North.
+**By air:** The nearest airport is Tiruchirappalli, about 88 km away. Chennai is 320 km to the north.

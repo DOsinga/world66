@@ -3,9 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-You can travel to the Lake District by car via the M6 motorway and then on the A591 from the south [Junction 36] or the A66 in the north [Junction 40], but you can also avoid any congestion, especially at busy times, by going by train to Windermere [changing from the westcoast mainline at Oxenholme] or to Penrith [on the mainline].
+The M6 motorway runs along the eastern edge of Cumbria, with the A591 from junction 36 heading into the heart of the Lake District, and the A66 from junction 40 providing access to Keswick and the northern lakes. At busy times — bank holidays and summer weekends — the roads into Windermere and Ambleside can be slow.
 
-Other parts of Cumbria are served well by train with Carlisle, Penrith and Oxenholme station on the main London to Glasgow line, and direct trains from Manchester Airport to Barrow and Ulverston. There is also the line going around the coast of the county from Barrow to Carlisle via Millom, Whitehaven, Workington and Maryport.
-
-**Contributors**
-June 07, 2006
+By train, Windermere station is on a branch line from Oxenholme on the West Coast Main Line, with direct connections from London, Manchester, and Edinburgh. Penrith and Carlisle are also on the main line. The Cumbrian Coast line from Barrow to Carlisle via Whitehaven is one of England's most scenic rail journeys.

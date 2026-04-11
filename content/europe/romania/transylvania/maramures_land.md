@@ -1,15 +1,16 @@
 ---
-title: "Maramures Land"
+title: Maramures Land
 type: location
+latitude: 47.75
+longitude: 24.1
+done:
+  location_cleanup: 2026-04-07
 ---
 
-The Maramures Land, situated in Northern Transylvania (Romania), close to Ukrainian border, is one of the best kept Europe's secrets.
-Here the time hasn't move in the past decades.
-Maramures is known as the "wooden land", because nearly everything (from churches, houses or carts, to spoons, cans or thousand of other things) is timber hand made.
-In Maramures are well preserved the ancestral traditions (some of them thousands of year old), the folklore and also the landscape.
-You can see there a couple of interesting museums (in Sighet town are the Memorial Museum, dedicated to communist Holocaust), Maramures Museum (displaying etnographical pieces and also an Open Air Museum), The Jewish Museum (dedicated to +40000 Maramures jews sent to Auscwitz death camp, included Nobel Prize winner, Elie Wiesel).
-In Ieud, Barsana, Dragomiresti, Sapanta and Tisa villages are also a couple of small locally museums.
-The best to see are the medieval wooden churches (eight of them included in UNESCO world heritage sites list). The best are Ieud, Barsana, Poienile Izei and Desesti churches, displaying wood carvings, old paintings and textiles.
-The accomodation is easy to find, every village has a network of eco pensions.
-Also you can find there a couple of hotels (in Sighet, Viseu, Borsa towns, or in Ocna Sugatag spa resort).
-Every year Maramures is visited by about 100 000 tourists, from all over the world.
+Maramureș is the corner of Romania where the 21st century has barely arrived. Tucked against the Ukrainian border in northern Transylvania, this is a landscape of steep-sided valleys, hay meadows cut by hand, and villages where horse-drawn carts still outnumber cars on the road. People here build in wood — houses, gates, barns, spoons, everything — and have done so for centuries.
+
+The great sights are the wooden churches. Eight of them are UNESCO World Heritage sites, built without a single nail, with impossibly tall spires rising above the trees. The churches at Ieud, Bârsana, Șurdești, and Desești are the finest, filled with old wall paintings and carved wooden chandeliers. Bârsana also has a newer monastery complex, a showcase of traditional Maramureș woodcraft.
+
+[Sighetu Marmației](/europe/romania/transylvania/maramures_land/sights/sighetul_marmatiei) is the regional capital and worth a stop for its museums — the Memorial of the Victims of Communism, housed in the former political prison, is one of Romania's most powerful sites. The town also has an ethnographic museum and an open-air village museum. In Săpânța, the Merry Cemetery has carved and painted wooden crosses that tell the life stories of the dead in wry, often funny verse.
+
+Every village has guesthouses and eco-pensions, and staying in one is half the experience. You eat what the family grows, drink their plum brandy, and wake to the sound of roosters and church bells. The roads are slow, the distances short, and the reward for getting off the main highway is a way of life that has largely vanished from the rest of Europe.

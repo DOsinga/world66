@@ -1,19 +1,14 @@
 ---
-title: "Mulanje Mountains"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -15.95
+longitude: 35.65
+title: Mulanje Mountains
 type: location
 ---
 
-Travel Guide
+Rising dramatically from the flat plains of southern Malawi, the Mulanje Massif — known locally as "the island in the sky" — is one of the most spectacular hiking destinations in Central Africa. At 3,002 metres, Sapitwa Peak is the highest point in the region, and the plateau's sheer escarpments, cedar forests, and sweeping grasslands make the effort of getting up there very much worth it.
 
-Also: Mulanje Plateau.
+Traversing Mulanje takes around three to four days. A network of forest department huts provides overnight shelter across the plateau — each staffed by a caretaker and supplied with firewood. There are no food supplies or blankets available on the mountain, so you need to carry everything in. Plan accordingly.
 
-The Mulanje (Englich: The island in the sky) Mountains provide great
-hiking in southern Malawi. Traversing Mulanje takes about 3 to 4 days.
-On the Mountain there are huts equipted with firewood and a caretaker,
-but facilities are going to be improved in the near future. There are
-no food and blankets available on the mountain.
-
-The trip schould be started at Likhubula Forest Station. This is where
-accomodation has to be payed for in advance(around 5 USD per night). At
-Likhubula there is a variety of official guides porters who offer their
-services. Going without a guid is not advised but possible.
+The standard starting point is Likhubula Forest Station, where you pay hut fees in advance (around US$5 per night) and arrange guides and porters. A good local guide is not strictly required but makes a significant difference — they know the trails, the weather patterns, and where to find water. The ascent through the forest to the plateau is steep and can be slippery after rain.

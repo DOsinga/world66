@@ -1,8 +1,10 @@
 ---
-title: "Labe"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 11.323003
 longitude: -12.282253
+title: Labe
+type: location
 ---
 
 Labe is the third-largest town in Guinea and the unofficial capital of the Fouta Djallon. It sits about 400 km north of [Conakry](/africa/guineeconakry/conakry) at the end of the main paved road through the highlands, and serves as the principal transit point for travelers heading to [Guinea-Bissau](/africa/guineabissau).

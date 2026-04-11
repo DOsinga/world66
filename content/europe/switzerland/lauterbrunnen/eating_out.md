@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Lauterbrunnen"
+title: "Eating Out"
 type: section
 ---
 

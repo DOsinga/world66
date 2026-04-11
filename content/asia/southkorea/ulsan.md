@@ -1,34 +1,18 @@
 ---
-title: "Ulsan"
+done:
+  location_cleanup: 2026-04-04
+latitude: 35.5384
+longitude: 129.3114
+title: Ulsan
 type: location
-latitude: 35.53917
-longitude: 129.311914
 ---
 
-Travel Guide
+Ulsan is South Korea's industrial powerhouse -- home to Hyundai's car factories and shipyards, the city hums with manufacturing energy that most tourists never see. With a population of over a million, it is the country's seventh-largest city, sprawling across a wide valley between mountains and the East Sea coast.
 
-Ulsan is a metropolitan city in the southeast of Korea on the Sea of Japan. It is 70 kilometres north of Busan.
+What Ulsan lacks in UNESCO sites it makes up for in character. The city is a patchwork of distinct districts: the commercial buzz of Samsandong and Seongnamdong, the university energy of Mugeodong, and the expat-friendly pockets of Bangeojin near the Hyundai shipyards. The Taehwagang River cuts through the centre, flanked by bamboo groves where migratory birds gather each winter.
 
-Those who come to Ulsan are predominantly here to work for the large conglomerates or heavy industries (Hyundai Motors being one of the most notable) and to teach English as a foreign language.
+There are genuine highlights if you look. Daewangam Rock and its pine forest along the coast are striking. The twelve scenic areas catalogued by the tourist board range from mountain summits to the night view of the industrial complex -- an oddly beautiful carpet of lights seen from Mt. Muryongsan. Mt. Gajisan, the tallest peak in the area at 1,240 metres, offers the peninsula's earliest sunrise.
 
-It is considered the industrial centre of the country with some guidebooks likening the city to Pittsburgh or Detroit in the USA. There is much truth in this view. Yet recently re-elected Mayor, Park-Maeng-woo, plans to establish an ‘Eco-polis’ based on the restoration of the Taewha river. In 2010 it will host World Environmental Day which should crown Ulsan's rebirth as an environmentally-friendly ecological city.
+Ulsan also works well as a base. [Gyeongju](/asia/southkorea/gyeongju), the ancient Silla capital with its temples and burial mounds, is barely an hour north. [Busan](/asia/southkorea/busan), Korea's second city with its famous Haeundae beach, is about the same distance south. The beaches closer to home are honestly not Korea's finest, but they offer a window into local beach culture that is entertaining in its own right.
 
-There are a small number of appealing districts.
-
-Samsandong, home of the Lotte and Hyundai department stores, can be considered the up-market district. Western fashion brands are available along with a number of western chain restaurants. The neon lit back streets yield a vibrant bar and restaurant culture. The Lotte Ferris wheel is also in this area next to the Lotte Cinema.
-
-Old down-town, Seongnamdong, is good for shopping at low, local prices (there are brand goods shops too however). It is the location of a small number of foreigner friendly/foreigner run bars.
-
-Mugeodong, the home of Ulsan University, is the best place for the young, twenty-something’s wishing to eat, drink and party.
-
-There are twelve touristic 'scenic sights' to see in and around city that range from the natural to man-made. However none are world class or notable sites within Korea itself.
-
-Ilsan beach offers the best sand and sea in the area but is somewhat polluted and run down thanks to heavy industries becoming located closeby.
-
-For a city of 1.2 million there is no metro system, but an extensive bus network. It takes time to negotiate the city streets on these buses.
-
-Ulsan today then, lives in a catch 22 situation – in some districts it is impossible to escape the industries and while these industrial sites are breathe-taking in scope, a testament to the achievement of man, they blight the landscape. On the other hand, the investment from these industries makes the city an undeniably better place to be.
-
-Though people living there don’t wish to admit it, there is something likable about Ulsan. Perhaps it’s the industrial grit and grime, though this is doubtful. It might be the constant surprises, of beauty and happiness that peak out between this grit and grime that make it not such a bad place to be after all.
-
-Ulsan was a World Cup 2002 host city.
+The food scene covers most cuisines if you know where to look, and the bar scene has enough variety to keep expats and visitors happy. Ulsan is not glamorous, but it is real -- a working Korean city where the welcome is warm and the cost of living is lower than Seoul or Busan.

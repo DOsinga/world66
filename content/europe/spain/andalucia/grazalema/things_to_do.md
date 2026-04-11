@@ -1,7 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-url: "www.walkingworld.com"
 ---
 
 As said on the main page, this is an area with splendid walks - but a permit should be obtained from the tourist office - and some walks may be out of bounds in the vultures' nesting season.

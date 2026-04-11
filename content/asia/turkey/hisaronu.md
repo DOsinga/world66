@@ -1,16 +1,14 @@
 ---
-title: "Hisaronu"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 36.5547
+longitude: 29.1167
+title: Hisaronu
 type: location
-latitude: 41.560951
-longitude: 32.024659
 ---
 
-Travel Guide
+Hisaronu is a small resort village in the hills above [Oludeniz](/asia/turkey/fethiye), about 8 kilometres from [Fethiye](/asia/turkey/fethiye) in southwestern Turkey. It sits in the pine-covered slopes of the Taurus Mountains, close enough to the famous blue lagoon at Oludeniz to use it as a base without being on the beach itself.
 
-Nestled within the picturesque Taurus mountains and just minutes away from Olu Deniz beach and famous blue lagoon lies the over rated resort of Hisaronu. Slightly off the beaten track but still the main base for holidaymakers.
+The village has grown considerably from its origins but local building restrictions have kept it from sprawling too aggressively, and newer buildings are generally built in a style that fits the surroundings. It is very popular with British visitors — English is widely spoken, and the range of bars and restaurants is considerable for a place this size.
 
-Hisaronu has been transformed from a tiny village into a complete resort. Happily, due to local restrictions regarding mass development, it still remains unspoilt, retaining its unique village charm by sympathetically designing newer buildings to compliment existing originals.
-
-Hisaronu is hugely popular with British visitors, English is, for the most part, very well spoken by locals and the sheer variety of bars, restaurants and nightlife is second to none. There is something for everyone of every age which has helped it develop into a lively and friendly resort with visitors returning year after year.
-
-Nearby Olu Deniz is in a league of its own for scenery and its turquoise lagoon and sun bleached sands have adorned the front cover of holiday brochures for years, quite rightly earning it the enviable title of most photographed beach in the whole of Turkey. The beach at Oludeniz offers a huge variety of water sports, there is paragliding from Babadag Mountain onto the beach below, a selection of boat trips departing regularly from Oludeniz or Fethiye for a day exploring the scenic coastline, windsurfing, waterskiing and, in the shallow, clear waters of the lagoon itself, scuba diving.
+The main draw is the proximity to [Oludeniz](/asia/turkey/fethiye), whose turquoise lagoon and white sand are among the most photographed in Turkey. From Oludeniz you can paraglide off Babadag Mountain, join boat trips exploring the coastline from Fethiye, or try windsurfing and diving in the clear shallow waters of the lagoon.

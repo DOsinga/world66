@@ -1,14 +1,14 @@
 ---
-title: "Monterrey"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 25.680202
 longitude: -100.315258
+title: Monterrey
+type: location
 ---
 
-Founded in the 16-th century and named after the Spanish Viceroy Count Monterrey, the city of Monterrey is most important city in the north of [Mexico](/northamerica/mexico) and an industrial and economic powerhouse. 
+Monterrey is Mexico's third-largest city and its industrial powerhouse — the capital of Nuevo León, ringed by the dramatic peaks of the Sierra Madre Oriental. This is not the laid-back, colonial Mexico of the tourist brochures. Monterrey is modern, wealthy, fast-moving, and proudly distinct from the rest of the country.
 
-**Monterrey** is **Mexico**’s third largest city; it's not one of those laid back towns with colonial architecture you've seen in the movies. It's vibrant and full of life. The Gran Plaza of Monterrey is the center for the state government of **Nuevo León**. The Plaza’s modern buildings, gardens, and monuments are a reflection of the city that has fully embraced the spirit of modern industrialism. 
+The Gran Plaza (Macroplaza), one of the largest public squares in the world, anchors the city center with its modernist monuments, the Faro del Comercio laser beacon, and the baroque Catedral Metropolitana. The Museo de Arte Contemporáneo (MARCO) is one of Latin America's best contemporary art museums. For a dramatic view of the city, take the cable car up Cerro de la Silla or hike the trails in Chipinque Ecological Park.
 
-Monterrey is surrounded by the Sierra Madre mountains. The city is set at an elevation of 1,800 feet above sea level - the climate is a lot better here than in Mexico City. Monterrey is the main transport hub of the north and there are many routes into and out of Monterrey, including excellent highways, railroads, and Monterrey’s international airport which offers daily flights to and from many cities in Mexico and the United States. 
-
-The city is spread out, but remains relatively crowded. The city is wealthier than most other Mexican cities, and consequently, the prices here tend to be higher. Despite the minor disadvantages, Monterrey is a beautiful, modern city that has much to offer both in business and tourism.
+Monterrey is surrounded by mountains and has excellent road and air connections. The city sits at about 540 metres elevation and has a semi-arid climate — hot summers, mild winters, and much less rain than Mexico City. Prices are higher here than in most of Mexico, reflecting the city's prosperity.

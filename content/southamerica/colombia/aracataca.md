@@ -1,14 +1,14 @@
 ---
-title: "Aracataca"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 10.5906
+longitude: -74.1877
+title: Aracataca
 type: location
-latitude: 10.590601
-longitude: -74.18768
 ---
 
-Travel Guide
+Aracataca is a small town in the Magdalena department of northern Colombia, about 90 km south of Santa Marta. It is the birthplace of Gabriel García Márquez, and the town served as the template for Macondo, the mythical town at the heart of *One Hundred Years of Solitude*. For anyone who has read the novel, wandering Aracataca's dusty streets under the fierce Caribbean sun is a genuinely strange experience — the bananas, the heat, the lassitude, the sense of time behaving oddly.
 
-Aracataca, Magdalena is a lovely little town with a splendid history and culture. Just an hour and a half south of Santa Marta it's an excellent trip to visit a real Colombian town, for a couple of days...
-Gabriel Garcia Marquez was born here and he found his inspiration for many of his books including; one hunderd years of solitude, here and many of the important sights are accesable for visits.
-Don't miss out on the museums (museum house and the house of the telegraph)the river, the church, the canal the african palm tree forest, barrios where time hasn't gone by since 200 years. etc...
-The recommended place to stay in Aracataca is The Gypsy Residence; www.thegypsyresidence.com
-Discover Macondo in the heart of Aracataca and feel what it is like to be a character in a nobel prize winning novel...
+The Casa Museo García Márquez, a reconstruction of the house where Gabo was born, is the main attraction. The original structure was demolished, but the recreation captures the colonial layout well. The house of the telegraph — where his grandfather worked — and the old railway station are also worth seeing. Much of the fabric of the town, including the canal and the African palm plantations on the outskirts, appears directly in the novel.
+
+Aracataca is an easy day trip from Santa Marta, about an hour and a half by bus. Staying overnight gives you time to feel the town's rhythm — and the heat — at a more suitable pace.

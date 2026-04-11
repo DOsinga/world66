@@ -3,6 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Columbia has grown over the years. It's far more metropolitan than you'd first think. With that, a wide variety of restaurants have popped up, serving cuisine from all over.
-
-The Free Times, Columbia's Alternative Weekly, has a huge section devoted to local eateries.
+Columbia's restaurant scene has grown considerably, with a good range of options concentrated in the Vista district along Gervais Street and in Five Points near the university. Southern comfort food, barbecue, and a growing number of international restaurants are all well represented.

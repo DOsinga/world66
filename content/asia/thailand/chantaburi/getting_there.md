@@ -1,6 +1,6 @@
 ---
-title: "Getting There"
+title: Getting There
 type: section
 ---
 
-Chantaburi is located on the east of Thailand. There are a plenty fruits that grow in this province and all are delicious. It is possible for you to travel by road with a private car to visit this province in one day. There is also popular to visit the market those sell Ruby and Saffire. For more information you can contact bangkoklimo to get a reasonable price.
+Chantaburi is about 245 km from Bangkok, roughly a four-hour drive on Route 3 (the eastern coastal highway). Buses run regularly from Bangkok's Eastern Bus Terminal (Ekkamai) and take around four hours. There is no direct train service to Chantaburi.

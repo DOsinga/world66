@@ -1,16 +1,16 @@
 ---
-title: "Oostende"
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 51.225856
 longitude: 2.919496
+title: Oostende
+type: location
 ---
 
-Oostende is one of the nicest beach resorts on the North Sea. With its Pier, its Casino and its Boulevard it has the grandeur of any of the resorts on the riviera. Combine that with the Belgian charm, the Moules & Frites and the great Belgian beer and you have an ideal place to spend your beach holiday.
+Ostend is Belgium's main seaside resort — a proper working harbour town that also happens to have a grand seafront, a pier stretching out into the grey North Sea, and a casino that looks like it belongs on the Riviera. The combination of mussels, Belgian beer, and salt air is hard to beat.
 
-But Oostende has more to offer than that. James Ensor's name and fame are closely linked to that of Ostende. Both his house and the Provincial Museum of Modern Art (PMMK) have very interesting exhibitions on his work and life.
+The town's most famous resident was the painter James Ensor, whose masked, macabre canvases prefigured Expressionism by decades. His house on the Vlaanderenstraat is preserved as it was in his lifetime, and the Municipal Museum of Fine Arts holds a strong collection of his work alongside other Belgian masters. Ensor's shadow falls across the whole town — you see his imagery in shop windows and on café walls.
 
-If you want to get around a bit, there is a very nice streetcar running from Knokke (north of Oostende) to De Panne, near the French border. It is an ideal way of visiting some of the other charming towns along the coast.
+Beyond Ensor, Ostend rewards slow exploration: the fishermen's quay in the early morning when the shrimping boats come in, the Albert I promenade along the beach, Leopold Park with its 19th-century bandstand, and the Mercator sailing ship moored in the yacht harbour. The coastal tram — the longest in the world — runs the full length of the Belgian coast from Knokke to De Panne, making it easy to visit quieter villages like De Haan or Koksijde in an afternoon.
 
-The nightlife in the Langestraat is the best of the whole Belgian coast. There is a new Irish pub and plenty of other bars of all kinds.
-
-In the "bosje", a large park close to the train station, you can rent bikes for free. There is also a pay-parking near the Casino in the centre of town where you can get free bikes if your car is parked there.
+The Langestraat is the main bar street; lively on weekends year-round.

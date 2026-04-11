@@ -1,7 +1,7 @@
 ---
-title: "Day Trips in San Luis Potosi"
+title: Day Trips
 type: section
-url: "www.journeymexico.com"
+url: www.journeymexico.com
 ---
 
 **San Luis Potosi day trips** include a visit to some of the attractive cities in Mexico. San Luis Potosi was established in the year 1592. This city is now part of the richest cities in Mexico because of the mines from the Peter&rsquo;s hill. However, it has kept its colonial structure and past history despite becoming a modern city.

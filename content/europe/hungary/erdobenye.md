@@ -1,12 +1,16 @@
 ---
-title: "Erdobenye"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 48.2663
+longitude: 21.356
+title: Erdőbénye
 type: location
-latitude: 48.266262
-longitude: 21.356014
 ---
 
-The village Erdobenye has 1600 inhabitants and is located 20 km from the town of Tokaj, in a valley surrounded by mountains and vineyards, in the middle of the famous wine-region ‘Tokaj-Hegyalja’, in Borsod-Abauj-Zemplen County. The village is one of the centres of the wine-production in this region. There are more cellars in the village, where the regional wines can be tasted. As the well-known old saying tells us: “Good wine, like Tokaj Aszú, needs a good wine-cask too…“, that is why also the profession of coopers has a long tradition in this region. The Coopers of Erdobenye are the only one in the world who have still preserved the tradition of the dance of the Coopers, which they handed down from father to son, and which they perform every year in summer on the “Festival of Coopers”.
+Erdőbénye is a small village of around 1,600 people tucked into a valley in the Zemplén hills, about 20 km north of [Tokaj](/europe/hungary/tokaj), deep in the Tokaj-Hegyalja wine region. Vineyards cover the surrounding slopes and wine cellars honeycomb the hillsides — this is one of the production centres for the region's celebrated wines, and you can taste them at several cellars in the village itself.
 
-This region can attract not only the “lovers of wine”, but also the “lovers of the nature”. Because of the clear air and low pollution, this region is a climatic health resort and can be a very good place for making excursions. There is a valley called ‘Aranyosi-volgy’ in the nature conservation area near the village, which is the Paradise for tourists and bikers.
-In the towns of Boldogkovaralja, Sarospatak, Szerencs, Fuzer, Regec, castles and ruins of old castles show us the history of the past. River Bodrog is an ideal place for those ones who enjoy different kinds of water-sports. Tourists can be amazed by the beautiful landscape where the two rivers: Tisza and Bodrog meet. The forests of Zemplen Mountains can be adventurous not only for professional hunters.
-There are cultural events, too. Concerts of the Zemplen Cultural Festival, ‘Zemplen Muveszeti Napok’, are held in the Calvinist Church of Erdobenye
+What makes Erdőbénye genuinely unusual is its coopers. Barrel-making has a long tradition here, bound up with the wine trade, and the coopers of Erdőbénye are said to be the only craftspeople in the world who still perform the traditional Cooper's Dance — passed down from father to son for generations. They perform it each summer at the Festival of Coopers, which draws visitors from across the region.
+
+The surroundings reward walkers and cyclists. The Aranyosi valley, in the nature conservation area just outside the village, is a good base for excursions into the Zemplén forests. The air here is clean enough that the area has been designated a climatic health resort. Within easy reach are several medieval castles and ruins — Boldogkőváralja, Füzér, and Regéc among them — as well as Sárospatak, one of the most historically significant towns in northeastern Hungary. The Bodrog and Tisza rivers converge nearby, offering canoeing and water sports, and the Zemplén forests attract hunters in season.
+
+Cultural life runs through the Calvinist church: concerts from the Zemplén Arts Festival (*Zempléni Művészeti Napok*) are held here each year, bringing classical and folk music into this otherwise quiet valley.

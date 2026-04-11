@@ -1,10 +1,12 @@
 ---
-title: "Calangute"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 15.5456
+longitude: 73.7646
+title: Calangute
 type: location
-latitude: 15.545594
-longitude: 73.764618
 ---
 
-Calangute is the busiest beach resort. It has many small hotels and guesthouses. In the weekends it gets a bit too crowded so we may suggest you use the weekends to visit [Old Goa](/asia/india/goa/oldgoa) or daytrip to another nice place. The beaches are good: white sand, cocotrees, the works. North of Calangute you find Baga and [Anjuna](/asia/india/goa/anjuna).
+Calangute is the busiest beach resort in [Goa](/asia/india/goa), a long strip of sand backed by a chaotic jumble of guesthouses, restaurants, and souvenir shops. It is the default destination for domestic tourists and package holidaymakers, which means weekends and holidays can get overwhelming — that is a good time to escape to [Old Goa](/asia/india/goa/oldgoa) or one of the quieter beaches further north.
 
-Cows often roam around the beaches. The water is warm but not clear. Beware of drum sellers!
+The beach itself is decent: warm water, palm trees, long walks at low tide. Cows roam the sand, hawkers sell drums and sarongs, and the water is warm but not particularly clear. North of Calangute, Baga has a livelier nightlife scene, and beyond that [Anjuna](/asia/india/goa/anjuna) offers the remnants of Goa's old hippie culture. Calangute is not the most atmospheric beach in Goa, but it is the most convenient — well-connected, full of options, and easy to use as a base.

@@ -1,22 +1,14 @@
 ---
-title: "Käsmu"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 59.603462
 longitude: 25.896749
+title: Käsmu
+type: location
 ---
 
-Travel Guide
+Käsmu is a tiny coastal village on the Lahemaa coast in northern Estonia, known locally as the "Captains' Village" for its long maritime history. In the 19th and early 20th centuries the village produced a disproportionate number of ship captains, and later became a base for salt and fish smugglers — a heritage the small maritime museum in the village documents with evident pride.
 
-**Käsmu** is a small coastal village in North Estonia.
+The village sits on a wooded peninsula jutting into the Gulf of Finland. Walking trails wind through coastal forest and along boulder-strewn shores, and in summer the beach is a calm, uncrowded spot for a swim. Every July, Käsmu hosts a folk music festival that draws visitors from across Estonia.
 
-Käsmu was used by, and home to, many smugglers of salt and fish in the
-past century. It is steeped in maritime history and known in Estonia as
-the "Captains Village".
-
-Naturally the beach is the biggest attraction of the village. There are also camp trails in the woods.
-
-Every July there is a popular folk music festival in the village.
-**More information **about Käsmu can be found on the official tourist
-information website of Estonia: http://www.visitestonia.com/en/articles/destinations/the-coastline/kasmu
-
-*
+It is one of the most atmospheric stops along the Lahemaa National Park coast and easily visited as a day trip from [Tallinn](/europe/estonia/tallinn), about 80 km to the west.

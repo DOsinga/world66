@@ -1,10 +1,16 @@
 ---
-title: "Carcassonne"
+title: Carcassonne
 type: location
-latitude: 43.213036
-longitude: 2.349107
+latitude: 43.213
+longitude: 2.3491
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Sitting on the banks of the Aude, a Pyrenean river flowing to the Mediterranean, Carcassonne is waiting for you. Carcassone is one of the most perfectly preserved walled towns of the world. It is also the largest walled city in Europe, it encompasses towers, dungeons, moats and drawbridges and serves as one of the most impressive examples of medieval France. At Carcassonne, time lies imprisoned in the stones. Since the ancient times of the Colonia Julia Carcasso, each successive generation has acted out the history of this town governing power building and leaving the mark and style of their passing.
+Carcassonne is one of the most perfectly preserved medieval walled cities in the world, and the largest in Europe. The Cite sits above the River Aude with 52 towers and two concentric walls adding up to three kilometres of ramparts — a fortress that looks almost exactly as it did seven centuries ago.
 
-The Cité is still lived in today. 52 towers and 2 concentric walls add up to 3 kilometres of ramparts. The castle, the towers, the city walls, the "lists" (open space between the ramparts), belong to the State, the reminder is administered by the Municipality of Carcassonne. The visitor can freely discover most parts of the Cité.
+The city has two distinct centres. On the right bank of the Aude rises the Cite itself: a medieval fortress enclosing a Romanesque and Gothic basilica, a fortified castle where the counts of Carcassonne once held court, narrow alleyways, and ancient wells, all wrapped within its double ring of walls. The left bank holds the Bastide Saint-Louis, a more conventional French town with grid-iron streets, a handsome main square, and merchants' houses from the seventeenth and eighteenth centuries that recall the days when Languedoc's cloth trade made fortunes.
+
+The Cite is still lived in today. The castle, towers, and ramparts belong to the State, while the rest falls under municipal authority. Most of the Cite is freely accessible to visitors, and walking the lists — the open ground between the inner and outer walls — gives you a real sense of the scale and ingenuity of medieval military architecture.
+
+Beyond the walls, Carcassonne sits at the heart of [Languedoc](/europe/france/midi/languedoc), surrounded by vineyards and within easy reach of the Pyrenees. The Aude river offers kayaking, and the Canal du Midi passes just north of town.

@@ -1,8 +1,10 @@
 ---
-title: 'Southampton'
-type: location
+done:
+  location_cleanup: '2026-04-05'
 latitude: 50.902535
 longitude: -1.404189
+title: Southampton
+type: location
 ---
 
 Southampton is a port city on the south coast of England with deep maritime roots. It was from here that the Mayflower set sail for America in 1620, and from here that the Titanic departed on its ill-fated maiden voyage in 1912. Today it remains one of Europe's busiest cruise ports, and the waterfront is always busy with ships.

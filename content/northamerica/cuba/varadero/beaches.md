@@ -1,5 +1,5 @@
 ---
-title: "Beaches in Varadero"
+title: Beaches
 type: section
 ---
 

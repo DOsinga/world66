@@ -1,8 +1,10 @@
 ---
-title: "Haifa"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 32.819122
 longitude: 34.998386
+title: Haifa
+type: location
 ---
 
 Haifa is the third biggest city of Israel and the economic powerhouse of the country. As the people in Haifa say: [Jerusalem](/asia/israel/jerusalem) is for praying, Tel Aviv for partying, Haifa for working. 

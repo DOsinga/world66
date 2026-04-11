@@ -1,8 +1,12 @@
 ---
-title: "Piscataway"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.546433
 longitude: -74.466054
+title: Piscataway
+type: location
 ---
 
-This is no small town. Hoes ln. is filled with large scale company office buildings. Johnson and Johnson, IEEE, and many others. Very close to New Brunswick, it is the perfect off campus residence for any rutgers student. It is also the home of "The Rack" The Scarlet Knights football stadium, Busch Campus, and Livingston Campus. Livingston campus is the home of the "Louis Brown Atheletic Center" where the women and men's basketball teams play. It's most valuable asset is its diversity.
+Piscataway is a township in central New Jersey, adjacent to New Brunswick and best known as the home of several Rutgers University campuses — Busch Campus and Livingston Campus are both here, along with the university's football stadium and basketball arena. The area is heavily suburban, dominated by corporate office parks along Route 1 and Hoes Lane.
+
+As a destination in its own right, Piscataway offers little beyond its proximity to New Brunswick, which has far more to offer visitors. It is largely a commuter and university community.

@@ -1,8 +1,10 @@
 ---
-title: "Round Top"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 30.065101
 longitude: -96.695545
+title: Round Top
+type: location
 ---
 
 Travel Guide

@@ -1,10 +1,10 @@
 ---
-title: Pune
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 18.521374
 longitude: 73.854507
-done:
-  location_cleanup: 2026-04-04
+title: Pune
+type: location
 ---
 
 Pune is the cultural capital of [Maharashtra](/asia/india/maharashtra) and India's great college town -- a sprawling, energetic city of four million that manages to feel more livable than [Mumbai](/asia/india/maharashtra/mumbai), just three hours down the expressway. Perched on the Deccan Plateau at 560 meters, it enjoys a climate that stays pleasant when much of India is sweltering, and the green Western Ghats rise dramatically to its west.

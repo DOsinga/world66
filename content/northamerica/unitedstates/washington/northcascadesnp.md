@@ -1,8 +1,14 @@
 ---
-title: "North Cascades NP"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 48.808349
 longitude: -121.406215
+title: North Cascades NP
+type: location
 ---
 
-Years back I went North Cascade Nat'l park In Washington State with some fellow church members well about 30 of us, I know I was so exited, I was around 14 ys old. They sayed we were going on a mule train and set up came deep up in the mountains, With my young mind I was think cool we are going to ride mules up the trails, To my suprize the mules where there to pack our stuff up the trails, well at that time I was disapointed we had to Hike about 5 miles In No mans land. once we got to where are camp had already been set up. Our Camp was set up near a small lake I was So exited i loved to fish and still do, standing there fishing I can still pitcure In my mind the reflections of the snow capped Moutains in the water.. Pulled some nice trout outta that lake .. We were Up in the cascade's for 3 night's, being young not having a worry on our minds, I remember being more content then ever reading my Bible on a big boulder feeling so comfortable. The wildlife act as if the have never seen a human before the deer come up near you and sniff your scent out of the air, I was amazed. As evening rolled around we all sat around the Blazing campfire cooking our potatos getting ready to eat our dinner ..We would tell stories and read some parts from the Bible.. It seemed so relaxing up there in those there mountains. One of these days I would Love to go
+North Cascades National Park is one of the wildest places in the lower 48 states — a rugged landscape of jagged peaks, over 300 glaciers, and dense old-growth forest that sees far fewer visitors than its neighbors Mount Rainier and Olympic. The park is sometimes called the "American Alps" for its steep, heavily glaciated terrain.
+
+The most accessible entry point is along the North Cascades Highway (State Route 20), which cuts through the park complex and offers pullouts with views of glacier-clad peaks and turquoise lakes. Diablo Lake, fed by glacial meltwater, is an almost unreal shade of blue-green. For backpackers, the park has hundreds of miles of trails ranging from short lakeside walks to multi-day wilderness routes.
+
+Wildlife is abundant — black bears, mountain goats, and deer are commonly seen, while wolves and grizzlies maintain a presence in the more remote valleys. The park is open year-round, but the North Cascades Highway closes in winter (typically November to April), limiting access to foot travel only.

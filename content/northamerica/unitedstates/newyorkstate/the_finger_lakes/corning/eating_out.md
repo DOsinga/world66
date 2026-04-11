@@ -1,57 +1,12 @@
 ---
-title: "Eating Out in Corning"
+title: "Eating Out"
 type: section
-address: "Market Street"
-price: "Below $20.00"
-type: "American"
-latitude: 40.860133
-longitude: -74.115984
 ---
 
-An interesting blend of tastes.
+Market Street in downtown Corning has a good selection of restaurants for a town this size.
 
-### [Aniello's Pizzeria](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/eating_out/aniellos_pizzeria_1)
+### Aniello's Pizzeria
 
-Definitely an institution for everyone living in the Southern Tier of
-New York state! You have to try Aniello's take on thin crust New
-York Style pizza. Honestly, I haven't had any better throughout
-the United States. Aniello's uses a unique blend of spices that
-emphasize the garlic in the pizza. You'll also find an excellent
-choice of hot subs that are served with great speed and have intense
-flavors. If you want to be able to really taste the
-excellent ingredients, you'll be delighted.
+An institution in the Southern Tier. Aniello's does thin-crust New York-style pizza with a distinctive garlic-forward spice blend that sets it apart. The hot subs are also excellent, served fast and packed with flavor. If you want to taste the ingredients rather than just the cheese, this is your place.
 
-Aniello's serves an amazing cheese pizza, or [more..](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/eating_out/aniellos_pizzeria_1)
-
-type: American
-
-
-
-[[rate it]](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/eating_out/aniellos_pizzeria_1)
-
-address: Market Street
-
-PriceOfMenu: Below $20.00
-
-### [Aniello's Pizzeria](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/eating_out/aniellos_pizzeria)
-
-Definitely an institution for everyone living in the Southern Tier of
-New York state! You have to try Aniello's take on thin crust New
-York Style pizza. Honestly, I haven't had any better throughout
-the United States. Aniello's uses a unique blend of spices that
-emphasize the garlic in the pizza. You'll also find an excellent
-choice of hot subs that are served with great speed and have intense
-flavors. If you want to be able to really taste the
-excellent ingredients, you'll be delighted.
-
-Aniello's serves an amazing cheese pizza, or add [more..](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/eating_out/aniellos_pizzeria)
-
-type: American
-
-
-
-[[rate it]](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/eating_out/aniellos_pizzeria)
-
-address: Market Street
-
-PriceOfMenu: Below $20.00
+**Address:** Market Street.

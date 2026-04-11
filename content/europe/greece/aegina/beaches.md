@@ -3,12 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-On the coasts of Aegina visitor will find sandy beaches and
-wonderful crystalline waters, glimmering under the bright sun. Some of
-those beaches are fully organised and propose sun beds and umbrellas
-rentals as well as sea sports facilities, while others sandy beaches
-are located in secluded and picturesque little bays.
-
-Minor corrections on 07 June 05
-
-Quick hotel finder
+Aegina has a good variety of beaches spread around its coastline. Some are fully organised with sunbeds, umbrellas, and watersports facilities; others are quiet, secluded bays tucked into rocky coves where you can swim in clear, calm water without the crowds. The most popular beaches are within easy reach of the main town by bus or taxi.

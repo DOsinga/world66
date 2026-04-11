@@ -1,8 +1,14 @@
 ---
-title: "Lake Titicaca"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -16.0167
+longitude: -69.15
+title: Lake Titicaca
 type: location
 ---
 
-Lying on the border between Bolivia and Peru, Lake Titicaca is a must when visiting either of the countries. This lake has played a dominant role in Andean beliefs for over 2 millennia. Its most important religious site during Inca times was **Sun Island**. Here you will find, just a few meters from the Inca steps, a fountain and inside the site the Inca Garden. Sun Island hosts the largest collection of archaeological and anthropological items and the largest demo variety of andean crops and medicinal herbs and in andean fauna; the only reserve of its kind available to tourists. 
+Lake Titicaca straddles the border between Bolivia and Peru at 3,812 metres above sea level — the highest navigable lake in the world. It has been central to Andean belief for over two millennia. The Incas considered Isla del Sol (Sun Island) the birthplace of their civilisation, and it remains the most important archaeological site on the lake.
 
-Touristical offers include: Participating in an ancient Kallawaya ceremony, sailing in a RA Reptica (the famous reed vessel) to the Pilkokaina Inca Palace, participating in manual agricultural work, learning about andean agricultural technology, tradicional medicine, ancient healing rituals, reed vessel constructions and transoceanic epic adventures, andean weaving techniques, taste of andean grains, herbs and tubers harvested at Sun Island.
+On Sun Island you will find Inca steps, a sacred fountain, the ruins of the Pilkokaina palace, and the Inti Wata Cultural Complex, which houses the largest collection of Sun Island archaeological items, Andean mummies, and the Ekako abundance god. The complex also includes traditional agricultural terraces, medicinal herb gardens, and demonstrations of reed vessel construction — the same technique used by Thor Heyerdahl for his transatlantic RA expeditions.
+
+[Copacabana](/southamerica/bolivia/copacabana), on the Bolivian shore, is the main base for visiting the lake. It is a pilgrimage town centred on its famous Moorish-style basilica housing the Virgen de Copacabana. Boats to Sun Island leave from the harbour daily.

@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Travel Clinic Geraldton.** Our goal is to protect the health of travellers by providing exemplary clinical care along with specific advice and information for each traveller. We provide country destination reports, vaccinations, malaria & gastro medications. For appointments call **08 9920 8175. **
-
-**Travel Clinic Geraldton, 233 Lester Avenue, Geraldton WA.**
+Geraldton punches well above its size for a regional city. The standout attractions are the HMAS Sydney II Memorial and the remarkable Hawes-designed cathedral, but the main draw for many visitors is the water: windsurfing, kite-boarding, surfing, diving, and fishing all feature strongly. The Abrolhos Islands offshore are a world-class dive destination, with coral reefs, shipwrecks, and abundant marine life.

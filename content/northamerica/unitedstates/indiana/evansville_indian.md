@@ -1,12 +1,12 @@
 ---
-title: "Evansville"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.970495
 longitude: -87.571564
+title: Evansville
+type: location
 ---
 
-Travel Guide
+Evansville is the third-largest city in Indiana, sitting on a bend of the Ohio River in the southwestern corner of the state. It is a regional center for business and the arts, and home to two universities — the University of Evansville and the University of Southern Indiana.
 
-Evansville is the third most populated city in the state of Indiana (pop. 121, 582). It's also the center for business, entertainement, and the arts in the southwestern part of the state. Settled in 1812, it was incorporated as a city in 1847 and is the county seat of Vanderburgh County.
-
-Casino Aztar, the first riverboat casino in the state, is located in downtown Evansville. The city is also home to the University of Evansville and the University of Southern Indiana.
+The downtown riverfront has been developed with parks and museums, including the Evansville Museum of Arts, History, and Science. The city also has a strong live music scene. The Ohio River waterfront is pleasant for walking and gives a sense of the city's roots as a river trading town.

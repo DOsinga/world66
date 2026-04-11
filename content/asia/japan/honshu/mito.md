@@ -1,20 +1,12 @@
 ---
-title: "Mito"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.365917
 longitude: 140.473174
+title: Mito
+type: location
 ---
 
-Mito is the perfect Japanese little, big city, close to Hitachi-naka, where I lived. Mito is situated in the southeast of Honshu Island 125 km north of Tokyo. It is the capital of Ibaraki prefecture and has a wonderful mix of old and new. 
+Mito is the capital of Ibaraki Prefecture, 125 kilometres north of Tokyo on the eastern side of Honshu. It is best known for Kairakuen, one of Japan's three great gardens, which is spectacular during the plum blossom season in February and March — over 3,000 plum trees of 100 varieties bloom across the hillside, followed by cherry blossoms in April.
 
-It is well known for its "Nato" (A food incidentially that most foreigners hate... Took me 6 months to stomach it!). The above picture is Nato wrapped in the traditional manner. You can find it not wrapped like this easily in stores.
-
-Nato is sort of a stringy bean food. Nothing good in texture, but add some soy sauce and you might ONLY hate it. (Again... 6 months) 
-
-Scenic spots worth seeing include the imperial park. It looks stunning during the cherry blossums. In the off-centre of the park lies two rather beautiful Go boards. 
-
-Go is currently a very popular game within Japan. One I personally love and live for. Think of it as Chess, if Chess were complex and hard while being simple to grasp. 
-
-Also within Mito is the "Art Tower". Personally, I was never really taken by it. It is merely an interesting looking building, that reminds me of the falic CN tower. 
-
-In all, my second home is Mito. A beautiful city. LOTS to see and do, without the problems of a big city. The people are friends and understanding.
+The city has a pleasant mix of old and new. The Art Tower Mito, a spiralling titanium monument designed by Arata Isozaki, is a striking piece of modern architecture. Mito is also famous for nattō — fermented soybeans with a pungent smell and sticky texture that is something of an acquired taste, though the locals eat it with gusto.

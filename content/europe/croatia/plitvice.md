@@ -1,14 +1,14 @@
 ---
-title: "Plitvice"
+title: "Plitvice Lakes"
 type: location
-latitude: 44.844607
-longitude: 15.4807
+latitude: 44.8654
+longitude: 15.5820
+done:
+  location_cleanup: 2026-04-07
 ---
 
-This national park is situated in the region of Lika, between the mountain massif of Mala Kapela and a spur of Licka Pljesivica. Administratively, a minor part of the Park falls within the areas of Slunj, Otocac and Ogulin, but most of it is administered by Titova Korenica. The Park's headquarters is in Plitvieka jezera. The region was proclaimed a National Park in 1949.
- 
+Plitvice Lakes National Park is Croatia's most visited natural attraction — a UNESCO World Heritage Site and one of the most spectacular lake systems in Europe. Sixteen terraced lakes descend through a limestone gorge, connected by waterfalls and rapids, their colours shifting from emerald green to deep turquoise depending on the season and the angle of light. The effect is produced by the karst geology: calcium carbonate precipitates out as travertine, forming natural dams that hold the lakes in tiers, and the mineral-rich water takes on colours that don't look real.
 
+The park is well set up for visitors. Wooden boardwalks run along the water's edge and over the falls, and boat ferries cross the largest lakes. There are two main entrance points and several marked routes ranging from 2 to 8 hours. The Lower Lakes (Donja jezera) have the most dramatic waterfalls — the Veliki Slap, at 78 metres, is Croatia's tallest waterfall. The Upper Lakes (Gornja jezera) are wider and more forested, with a different character.
 
- The Park's greatest value and beauty comprises the sixteen beautiful lakes which flow into each other through a series of waterfalls, and the exceptional richness of the flora and fauna. The Plitvice Lakes are a unique phenomenon of karst hydrography. Although throughout their course they are located in pronouncedly karst topography, the lakes have nevertheless remained surface features, and it is from this that the other unusual and specific characteristics of the lakes derive. The water largely comes in from the Crna rijeka, Bijela rijeka and potok Ljeskovac (Black and White Rivers, Ljeskovac brook), which issue into the Proscansko jezero (lake). This lake lies at an altitude of 636 meters above sea level, and the water runs from it through the lower lakes down to the River Korana, racing over many travertine barriers of various morphological forms and creating countless falls and rapids of great beauty. 
-
-The lakes' unique colours, ranging from emerald green to turquoise, make the beauty of the scene and the attraction of this central part of the Park complete. On the basis of the World Natural and Cultural Heritage Convention, the Plitvice Lakes National Park has been entered in the UNESCO List of World Heritage as being a natural asset of universal and exceptional value and importance. The Plitvice Lakes are an excellent example of how a national park can be turned to account for holidaymaking purposes. The development of the tourist industry has been optimally combined with preservation of the natural environment. Several hotels have been built in the Park, all of them merging completely into the natural scenery. There are also motels and camps. Residential, excursion and congress tourism are all being developed. It is possible to stay here all the year round, and the lakes provide excellent conditions for recreation and relaxation.
+Spring and autumn are the best times to visit. Summer brings large crowds and high prices; the park imposes visitor quotas but the main boardwalk areas can feel overrun in July and August. The drive from Zagreb takes about two hours. Accommodation exists inside and near the park, but booking ahead is essential in high season.

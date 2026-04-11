@@ -1,12 +1,16 @@
 ---
-title: "Bagno Vignoni"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.028123
 longitude: 11.618679
+title: Bagno Vignoni
+type: location
 ---
 
-**Bagno Vignoni** is a very little city in the hills around Siena, in Tuscany. Not very well known as a touristic destination, is actually an amazing place: the city was built around a thermal area that still gives the place is fisionomy. In the center of the town, other than the "classical" square, there is a very big thermal pool where, they say, S. Francesco used to refresh his feet after his long and medative walkings in the hills. Today it is forbidden to do the same, but there are little canals that from the pool make their way between the houses and out in the little, suggestive surroundings, where you will be permitted to refresh!
+Bagno Vignoni is a tiny hamlet in the Val d'Orcia, south of Siena, and one of the most quietly extraordinary villages in Tuscany. Where most Italian hill towns have a central piazza, this one has a large, steaming thermal pool — a Roman bath that has been here for two thousand years and still defines the whole settlement around it. St. Catherine of Siena reportedly bathed here. Lorenzo de' Medici came to take the waters. Today you can't swim in the pool itself, but you can stand at its edge and understand why this place has drawn people for centuries.
 
-The place is very near to **Bagni San Filippo**, another thermal place famous for its big, calcarean fall where little pools of hot thermal water are used even in winter to have a relaxing bath...
+The village is tiny — a few dozen permanent residents, a handful of streets, and one medieval piazza-pool. The thermal water continues to flow through channels beyond the pool down into the valley, where a public bathing area lets you soak in the hot sulphurous water year-round. In winter, with steam rising and no crowds, it's particularly good.
 
-The area is very well known for wines as well, Montepulciano in primis, but can offer good food, especially good cheese, as well.
+The surrounding countryside is classic Val d'Orcia: rolling clay hills, cypress-lined roads, and medieval towers on the horizon. Pienza is about fifteen minutes by car. Montepulciano and its Vino Nobile wine estates are close, as is Montalcino and Brunello. Nearby **Bagni San Filippo** has a different thermal character — a natural calcium waterfall that has built up white travertine formations, with small pools of hot water you can use for free.
+
+Come here to slow down. There's nothing to rush through.

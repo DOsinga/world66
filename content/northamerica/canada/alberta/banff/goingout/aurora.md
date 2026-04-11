@@ -1,13 +1,11 @@
 ---
-title: "Aurora ."
-type: location
-type: "general"
-latitude: 43.99973
-longitude: -79.467545
+category: Bar
+done:
+  location_cleanup: '2026-04-10'
+latitude: 51.1766
+longitude: -115.5701
+title: Aurora
+type: poi
 ---
 
-Entertainment, dancing. Separate martini/cigar bar. 
- Tel: 1 403 760-5300 
- Address: 110 Banff Ave, Banff AB T0L 0C0
-
-type: general
+Entertainment and dancing with a separate martini and cigar bar. A lively spot on Banff Avenue for a night out.

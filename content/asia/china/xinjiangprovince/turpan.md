@@ -1,17 +1,14 @@
 ---
-title: "Turpan"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.942503
 longitude: 89.179589
+title: Turpan
+type: location
 ---
 
-Turpan used to be one of the most important cities on the silk road. Today it is a charming, sleepy little town, where donkey carts are still the most common way of transport.
+Turpan was one of the most important oasis cities on the Silk Road — a key stopping point on the route between China and Central Asia. Today it is a small, unhurried town where donkey carts still share the streets with cars, and the surrounding desert landscape is extraordinary.
 
+The sights in and around Turpan are remarkable. The 37-metre Emin Minaret (Sugong Tower), built in 1777, stands 2 km east of town. The ghost city of Gaochang, 40 km southeast, once held 50,000 inhabitants and was ravaged by the Mongols in the 14th century — the walls and roofless houses still stand in the desert. The Astana Tombs nearby preserve mummies and frescoes from the 8th century. Jiaohe, 10 km west of town and partially restored by UNESCO, is another ancient ghost city set on a cliff above a river gorge. The Bezeklik Thousand Buddha Caves, 20 km northeast in the Flaming Mountains, contain grottoes with frescoes and views across a dramatic valley.
 
- Ina nd around Turpan are many sights that remind you of its earlier fame. The 37 meter high Imam minaret is just 2 km east of twon. Further afield are more spectacular sights. The gost city of Gaochang, 40 km southeast, had 50,000 inhabitants in the 9-th century. Although it was ravaged by the mongols in the 14-th century, the houses still stand - the roofs are gone however. Use your imagination and you can see a busy market town. Another 8 km takes you to the Astana tombs where 500 mummies form the 8-th century are awaiting your visit.
-
-
- Jaohe is 10 km to the west of Turpan. UNESCO has worked hard on the restauration of this gost town and a visit (by donkey cart) is well worth your while.
-
-
- The flaming mountains and the Thousand buddha caves in Pazikelik are to the northeast of turpan, about 20 km. Many grottoes with frescoes and some views over the valley here.
+The Flaming Mountains themselves — so named for their reddish rock that glows in the afternoon light — are one of the classic images of the Xinjiang desert. Summer temperatures in Turpan regularly exceed 45°C; spring and autumn are far more comfortable for visiting.

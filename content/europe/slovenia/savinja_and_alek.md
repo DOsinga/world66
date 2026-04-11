@@ -1,23 +1,14 @@
 ---
-title: "Savinja and Šalek Valley"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 46.37
+longitude: 14.85
+title: Savinja and Šalek Valley
 type: location
 ---
 
-Travel Guide
+The Savinja Alps and the valleys beneath them are one of [Slovenia's](/europe/slovenia) finest mountain landscapes. The Logar Valley (Logarska Dolina) is considered one of the most beautiful alpine valleys in Europe, and in 2009 the wider Solčavsko area won the European Destination of Excellence Award.
 
-Great mountains of Savinja Alp are perfect spot for hiking and mountaineering. Logar Valley Landscape Park is said to be one of the most beautiful alpine valleys in Europe. In 2009 Solčavsko won European Destination of Excellence Award for tourism in protected areas.
+The Solčava Panoramic Road offers spectacular vistas and stops for local food tasting. Natural parks at Robanov Kot, Matkov Kot, and Golte provide excellent hiking. The Rinka Waterfall, dropping from the head of the Logar Valley, and Snežna Jama (Snow Cave) are the headline natural attractions. The Savinja River itself offers whitewater rafting and fly fishing.
 
-MUST SEE AND DO:
-
-- Scenic Solčava Panoramic Road - perfect vistas and local food tasting;
-- Natural parks (Robanov kot, Matkov kot, Golte, Logar Valley);
-- Natural wonders (Snežna jama Cave, Rinka Waterfall);
-- Cultural wonders (Coal Mining Museum in Velenje, the world's biggest Tito statue);
-- Events (Flosarski bal wood rafting event, Pippi Festival in Velenje);
-- Rafting and other whitewater activities on Savinja River (Savinja rules);
-- Fishing on Savinja River;
-- Sailing or Zorbing on Velenje Lakes;
-- Savinjski želodec dry meet tasting;
-- Skiing on Golte;
-- Mozirski gaj flower park visiting
-- Enjoying Topolšica Spa health and wellness programmes.
+In the valley below, the town of Velenje has the Coal Mining Museum and, improbably, the world's largest statue of Tito. The Mozirski Gaj flower garden and the Topolšica Spa round out the gentler attractions. In winter, skiing at Golte is the main draw.

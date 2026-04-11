@@ -1,22 +1,12 @@
 ---
-title: "Alcains"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.915137
 longitude: -7.461465
+title: Alcains
+type: location
 ---
 
-Travel Guide
+Alcains is a small town a few kilometres north of Castelo Branco, in the Beira Baixa region of central Portugal. Tucked between gentle streams — with the Líria the main watercourse — the town sits in a quiet agricultural landscape typical of the interior Alentejo borderlands.
 
-The origin of Alcains is particulary on to the development of the agricultural exploration of the fields, a time that the locality if finds between streams being the stream of the Líria the predominant water course.
-
-It is not obtained however to date in very rigorous way the birth of the town.
-
-Some studious places make to retrace the existence of Alcais the Roman times, for having in one definitive zone (in the way for the hermitage of Sta. Apolónia) a related way to the ways left for the Romans in some points of the country.
-
-Another possible date meets in the proper name of the locality: Alcains, enrolled in the toponimy of Arab origin. It will be, then, possible to bind the setting of the town to the period of Arab occupation.
-
-The currents limits of Alcains, were enclosed in the Iberian Peninsula , this enclosed the space of currently busy for Portugal and Spain . Its village was made by tribes of the neolithic time according to archaeological data.
-
-Also numerous vestiges of the Roman period had been found, such as a Roman oven in the called place of Bare Head and two roads Romans a coming of Castelo Branco and following for north and another coming of Castile, passing for the Egitânea (Idanha-a-Nova), following for Saint Vicente da Beira in direction the Coimbra.
-
-The influence of the Arabs is well-known in Alcains, until the name is of Arab origin, Alcaien what it means Existing or Permanent, as based Loyal Pine as of custom, in Frei Luis de Sousa.
+The settlement has ancient roots. Roman roads passed through the area, and the name Alcains itself is of Arabic origin, thought to derive from a word meaning "existing" or "permanent" — a trace of the Moorish occupation that shaped much of this part of Portugal. It is a workaday place rather than a tourist destination, but serves as a convenient stop when exploring the wider Castelo Branco district.

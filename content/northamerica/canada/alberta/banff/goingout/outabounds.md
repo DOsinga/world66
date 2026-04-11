@@ -1,18 +1,11 @@
 ---
-title: "HooDoos"
-type: location
-email: "cheekylesh_57@hotmail.com"
-type: "Clubs and dancing"
-latitude: 52.49297
-longitude: -112.233449
+category: Club
+done:
+  location_cleanup: '2026-04-10'
+latitude: 51.176
+longitude: -115.571
+title: HooDoos
+type: poi
 ---
 
-DJ and dancing. Ladies night Tues. Cheap drinks on Thurs Tel: 1 403 762-8434 Address: Bsmt, 137 Banff Ave,
-
-type: Clubs and dancing
-
-
-
-
-
-email: cheekylesh_57@hotmail.com
+DJ and dancing at 137 Banff Avenue. Ladies' night on Tuesdays, cheap drinks on Thursdays.

@@ -1,23 +1,8 @@
 ---
 title: "Getting There"
 type: section
-type: "By Air"
 ---
 
-uja ftota
+There are no direct flights to Vlorë. Fly to Tirana (Rinas Airport) and take a bus or minivan south — about an hour and a half on the SH8 coastal road.
 
-### [Eva](/europe/albania/vlore/getting_there/eva)
-
-There are no direct flights to Vlore. Anyhoo, you can **fly to Tirana**, a mere **1 1/2 hr** long** **bus/minivan ride away. There are pretty good fares from the UK, Germany, Italy etc. especially if you purchase in advance.
-
-type: By Air
-
-
-
-[[rate it]](/europe/albania/vlore/getting_there/eva)
-
-### [Fera](/europe/albania/vlore/getting_there/fera)
-
-There is a regular connection from Brindisi in Italy by sea. Several companies operate this service, but the ships depart usually at the same time. Very convenient possibility is travel by night, departure from Brindisi 23:00 and arrival to Vlore at 7:30. The service runs daily, in off-season period except for Sundays.
-
-type: By Sea
+From Italy, ferries run from Brindisi to Vlorë. Several companies operate the route, usually departing Brindisi around 23:00 and arriving at 07:30. The service runs daily in summer and most days in winter except Sundays.

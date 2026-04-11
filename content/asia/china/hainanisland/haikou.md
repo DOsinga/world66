@@ -1,15 +1,14 @@
 ---
-title: "Haikou"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 20.046233
 longitude: 110.19565
+title: Haikou
+type: location
 ---
 
-Haikou is the capital of Hainan. Although most travelers head for the beach resorts nera [Sanya](/asia/china/hainanisland/sanya) directly, the old Coconut Capital of China has a few things worth checking out as well.
+Haikou is the capital of Hainan, China's southernmost province, sitting on the northern coast of the island where the Qiongzhou Strait separates it from the mainland. Most travellers pass through on their way to the beach resorts around [Sanya](/asia/china/hainanisland/sanya) in the south, but the old "Coconut Capital" has a few things worth a stop.
 
+The old town quarter near the harbour retains some atmosphere, with arcaded shophouses showing a mix of Chinese and Southeast Asian influences. Wugong Temple (the "Five Officials Temple") honours five Tang and Song dynasty officials exiled to Hainan, and the adjoining Qiongtai Academy is one of Hainan's oldest educational institutions. The Hairui Tomb commemorates a famously incorruptible Ming dynasty official. None are major sights individually, but together they make a pleasant half-day of wandering.
 
- 
- The city is located on the southern bank of the Qiongzhou Strait, facing the mainland's Leizhou Peninsula. Built on the mound of the coast, it is the biggest city in Hainan Province.
-
-
- Haikou It is an ancient city. It has tropical crops processing, electronics and textiles as the mainstays of its light industry, and it is a foreign trade and sea port city with advanced communications and a complete range of service equipment. The city has beautiful scenery, a pleasant climate and luxuriant vegetation. Among the ancient remains and tourist sites are Wugong Temple reputed to be the "first building under the heaven", the admirable Qiongtai Academy of Classical Learning, the Hairui Tomb, the Qiujun Tomb, and the like.
+The climate is tropical year-round — hot and humid, with a rainy season from May to October. Coconut palms are everywhere, and coconut water is the default street drink.

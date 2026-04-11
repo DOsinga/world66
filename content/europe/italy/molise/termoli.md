@@ -1,14 +1,12 @@
 ---
-title: "Termoli"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.998327
 longitude: 14.993937
+title: Termoli
+type: location
 ---
 
-Termoli can get pretty overcrowded in weekends but it's still one of the nicest beach resorts of the area. The Borgo Vecchio, the historci centre, is quite interesting with many small medieval streets the great Castello Svevo, built in 1247 by Frederico II. The cathedral is well worth a visit too, it's an interesting micture of styles.
+Termoli is a small Adriatic port town on the Molise coast — one of the few places along this stretch of coastline with a proper historic centre. The Borgo Vecchio sits on a promontory surrounded on three sides by the sea, a tight knot of medieval lanes with the Castello Svevo (built by Frederick II in 1247) at its tip and a Romanesque cathedral that blends Norman, Byzantine, and later elements. It gets crowded on summer weekends, especially with Italian families, but out of season it is quiet and atmospheric.
 
-
- The beaches around town are pretty good and there are many hostels and pensions to accommodate you as well as quite some good Italian restaurants.
-
-
- Termoli is an excellent base for a visit to the Tremiti islands.
+The beaches north and south of town are good, and the town makes an excellent base for the Tremiti Islands — ferries run regularly from the port in summer.

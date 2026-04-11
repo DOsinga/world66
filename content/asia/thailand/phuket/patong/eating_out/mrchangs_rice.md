@@ -1,21 +1,8 @@
 ---
-title: "Mr.Chang's Rice & Noodles Patong Beach Phuket"
+title: "Mr. Chang's Rice & Noodles"
 type: poi
-address: "Patong Beach Phuket"
-price: "B 79 + famous Rice & Noodle Bowls"
-type: "International"
-latitude: 7.896632
-longitude: 98.295429
+latitude: 7.8966
+longitude: 98.2954
 ---
 
-Thai, Chinese and Oriental dishes and fusion dishes. Menu plus famous Mr.Chang's Rice Bowls and Noodle Bowls from just B 79 ! Enjoy Oriental food fast at cheap prices at Mr. Chang's. Drinks and desserts also available.
-
-type: International
-
-
-
-
-
-address: Patong Beach Phuket
-
-PriceOfMenu: B 79 + famous Rice & Noodle Bowls
+A no-frills spot on Patong Beach serving Thai, Chinese, and fusion rice bowls and noodle dishes at low prices. Popular with budget travellers looking for a quick, filling meal.

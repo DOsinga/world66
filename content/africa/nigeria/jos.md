@@ -1,14 +1,14 @@
 ---
-title: "Jos"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 9.9167
+longitude: 8.8983
+title: Jos
 type: location
-latitude: 9.917513
-longitude: 8.89794
 ---
 
-Jos is one of the nicest places to visit in Nigeria. It's the capital of the Plateau State and is located at an elevation of 1200 metres above sea level, which means that it is cooler here than anywhere else in the country most of the time. 
+Jos sits at 1,200 metres on the Jos Plateau in central Nigeria, which makes it noticeably cooler than most of the country — a welcome relief if you've been sweating through the south. The city is the capital of Plateau State and has a relaxed, unhurried atmosphere compared to Lagos or Abuja.
 
-The main attraction of the town is the Jos Museum Complex, which consists of four separate museums and a zoo. Skip the Railroad and the Tin Mining Museum and head for the Jos National Museum and the Traditional Nigerian Architecture Museum. 
+The plateau landscape is striking: rounded granite inselbergs rise from the surrounding savannah, and the area is dotted with streams, dams, and green valleys. It's not dramatic mountain scenery, but it's genuinely pleasant and well worth a couple of days.
 
-If you are spending a few days here you might consider paying a visit to the Rock Brewery. They have guided tours with an all you can drink buffet for reasonable prices. 
-
-The Shere Hills are worth a visit too. None of them rival the world's highest ranges, but you can work up a hearty appetite climbing up them. Factor in their natural beauty and the various streams and dams around, the area makes a perfect picnic spot.
+The main draw is the Jos Museum Complex — one of the more interesting museum collections in West Africa. The Shere Hills on the edge of town offer easy walking, and the Rock Brewery, if it's running tours, is a sociable afternoon out.

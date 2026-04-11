@@ -1,11 +1,6 @@
 ---
-title: "Things to do in San Mateo"
+title: "Things to Do in San Mateo"
 type: section
-type: "general"
 ---
 
-### [Coyote Point Museum & Wildlife Habitat](/northamerica/unitedstates/california/sanfranciscobayarea/sanmateo/thingstodo/coyotepointmuseumwildlifehabitat)
-
-1651 Coyote Point Dr. 94401-1097 (650) 342-7755
-
-type: general
+San Mateo rewards a slow afternoon more than a checklist approach. The waterfront, the hills, and the compact downtown are all within easy reach of each other.

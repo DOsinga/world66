@@ -1,9 +1,8 @@
 ---
-title: "Getting Around in Porto Seguro"
+title: "Getting Around"
 type: section
 ---
 
-Dont miss Arraial da Ajuda, at the other side of the river. More quiet, with a village feeling, it´s one of the high points in the region.
+Within Porto Seguro itself, mototaxis and local buses are the main options. Taxis are available but pricier. Most of the beaches are strung along a coastal road north of the centre, easily reached by local bus.
 
-**Contributors**
-November 24, 2005
+To reach Arraial d'Ajuda on the south bank of the river, take the small passenger ferry from the dock near the bus station — it runs frequently and takes about five minutes. From the ferry landing, taxis and mototaxis continue to the village and further south to Trancoso and Caraíva.

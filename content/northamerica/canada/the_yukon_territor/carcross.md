@@ -5,20 +5,6 @@ latitude: 60.166789
 longitude: -134.708665
 ---
 
-Travel Guide
+Carcross (originally Caribou Crossing) is a small community of about 430 people on the South Klondike Highway between Whitehorse and Skagway. It sits at the narrows between Bennett and Tagish Lakes, where large herds of caribou once crossed on their annual migration — hence the name.
 
-Carcross also is known as Caribou Crossing.
-
-From the time the first prospectors came over the Chilkoot Pass, this place was known as Caribou Crossing because of the large herds of caribou that crossed the narrows between Bennett and Tagish Lakes twice a year on their annual migration.
-
-Following the discovery of Klondike gold in 1896, it became a popular stopping off place for stampeders in their migration to and from the gold fields of Dawson City.
-
-**Location:** on the South Klondike Highway, between Whitehorse and Skagway
-
-Population (June 2006): 430
-
-Elevation: 2,170 feet, 662 meters
-
-Home of the World's Smallest Desert, the Carcross Desert, and the great beach of Lake Bennett. The population is about 50/50 Native and non-Native.
-
-If taking the White Pass Railway tour from Skagway Alaska, you most likely will tour through Carcross. Make sure that you visit the Wildlife Museum just out of town as it features dozens of full size wild animals carefully restored by a taxidermist.
+During the Klondike Gold Rush, Carcross was a popular stopping point for prospectors heading to and from the gold fields of Dawson City. Today it is home to the Carcross Desert, often called the world's smallest desert — a pocket of sand dunes left behind by retreating glacial lakes. The beach on Lake Bennett is beautiful, and the White Pass and Yukon Route railway from Skagway passes through town on its scenic route.

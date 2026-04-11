@@ -3,9 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-**City transport in Druskininkai**
+Druskininkai is compact enough to walk. The town centre, spa district, and most restaurants are all within easy reach on foot. A few local bus routes serve the wider area if you need them, but most visitors will not.
 
-In Druskininkai there are 5 bus routes, the most frequent is the line 4. You pay the driver 0,80 Lt for a ticket (in the city zone)
-
-**Contributors**
-August 11, 2005
+Cycling is a good option in summer — the town has flat terrain and dedicated bike paths through the surrounding pine forests.

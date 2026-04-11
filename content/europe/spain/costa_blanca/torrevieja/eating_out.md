@@ -1,6 +1,6 @@
 ---
-title: "Eating Out in Torrevieja"
+title: "Eating Out"
 type: section
 ---
 
-* Restaurante El Pescador, http://www.restauranteelpescador.es]: For dining out or eating with your partner or friends. Located in the pedestrian Torrevejenses ausentes 5, along the promenade. Specialising in seafood and rice paellas. Daily menu at 15 €. Golden Fork Award 2012.
+Torrevieja has a wide range of restaurants along the promenade and in the pedestrian streets of the centre, with seafood and rice dishes (paella, arroz a banda) the local specialities.

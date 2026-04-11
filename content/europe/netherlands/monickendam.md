@@ -1,11 +1,12 @@
 ---
-title: "Monickendam"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 52.457699
+longitude: 5.038892
+title: Monnickendam
 type: location
 ---
 
-Forget [Volendam](/europe/netherlands/volendam). Go to Monickendam instead.
+Monnickendam (often misspelled Monickendam) is a quiet historic town just north of Amsterdam on the shores of the Markermeer. It received its city rights around 650 years ago and has retained much of its old character — canal houses, narrow streets, and a relaxed pace that is increasingly rare in the towns of the Waterland region.
 
-This pleasant old town just north of amsterdam received it's city rights 650 years ago. The old houses along the canals give you a good impression of how Holland used to be. This neighbour town of Volendam is a lot less touristic an at least as pretty.
-
-**Contributors**
-July 31, 2005
+Where nearby [Volendam](/europe/netherlands/volendam) is overrun with tourists, Monnickendam is comparably calm and at least as pretty. It makes a pleasant half-day trip from Amsterdam.

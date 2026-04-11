@@ -1,5 +1,7 @@
 ---
-title: "Southern Highlands"
+done:
+  location_cleanup: '2026-04-09'
+title: Southern Highlands
 type: location
 ---
 

@@ -3,5 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Air Kazakhstan provides excellent service, once daily, to and from
-[Almaty](/world/asia/kazakhstan/almaty). Some days on a jet - the Yak-42 or Yak-40, and some days on a smaller, loud prop plane. One thing to watch for - the airport in Almaty is under construction, and the flight to Kyzylorda is very early. Don't be duped by cab drivers into going into downtown Almaty to check in. While it works, airport check in works just fine, in spite of the construction.
+There are daily flights between Kyzylorda and [Almaty](/asia/kazakhstan/almaty). The airport is small and straightforward. You can also reach the city by train -- the station is one of the finest in Central Asia -- though rail journeys in this region tend to be long.

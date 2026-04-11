@@ -1,8 +1,10 @@
 ---
-title: "Agra"
+title: Agra
 type: location
 latitude: 27.175255
 longitude: 78.009816
+done:
+  location_cleanup: 2026-04-06
 ---
 
 The reason why people come to Agra is very obvious: to lay their eyes on the impressive Taj Mahal.

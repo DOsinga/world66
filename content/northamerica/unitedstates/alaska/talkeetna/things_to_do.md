@@ -1,11 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**Flightseeing**
-
-K2 Aviation is one of the companies in Talkeetna that will take you on a not-to-be-missed flightseeing trip around Mt McKinley (or Mt Denali). There are different options, at different prices - all are equally spectacular. The shortest tour takes you around the base of the mountain, over glaciers and past some amazing mountain peaks and past a little private lodge perched on top of a ridge, with one tour circling the summit. Highly recommended.
-
-**Contributors**
-February 04, 2006
+Talkeetna punches well above its weight for a town this small. Flightseeing around Denali is the headliner -- several operators run glacier landings and summit circuits that rank among Alaska's most spectacular experiences. On the ground, the town's history as a railroad stop and mountaineering base is preserved in a handful of log-cabin museums and landmarks. Walk Main Street, wander to the riverbank, and keep your eyes on the sky -- there is almost always a bush plane coming or going.

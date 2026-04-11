@@ -1,8 +1,10 @@
 ---
-title: "Lynchburg"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 37.413754
 longitude: -79.142246
+title: Lynchburg
+type: location
 ---
 
 We currently have no information about Lynchburg.

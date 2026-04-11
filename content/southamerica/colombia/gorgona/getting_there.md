@@ -3,12 +3,12 @@ title: "Getting There"
 type: section
 ---
 
-Here there are a few choices:
+Getting to Gorgona takes effort, but the remoteness is part of the appeal.
 
-**1.** fly to Guapi (via Satena from Medellín or [Bogota](/southamerica/colombia/bogota)) and from Guapi rent a motor boat which should take you to the island in around 5 hrs. The prize for renting the boats depends on the boat’s capacity (usually 10 to 15 people), not on the size of your group, so if you’re traveling with a small party, it will be more expensive. Call: (92825) 7137 - 7136 for more info.
+**By air and boat via Guapi.** Fly to Guapi on Satena (routes from [Bogota](/southamerica/colombia/bogota) and Medellin), then rent a motorboat for the roughly five-hour crossing. Boat rental is priced per vessel (capacity 10-15 people), not per person, so small groups pay more.
 
-**2.** From Buenaventura (easily reached by bus) catch a *barco de cabotaje* in the Piñal dock, *Muelle del Piñal*. These are cargo and passenger boats that travel daily from Buenaventura to Olaya Herrera (also known as *Satinga*) and they’ll detour from their route to drop you off in Gorgona. The trip is around 10 – 12 hrs. Call: (9224) 46089 - 46106 – 46091 to make reservations, or negotiate upon arrival in Buenaventura.
+**By cargo boat from Buenaventura.** Buenaventura is easily reached by bus. From the Piñal dock (*Muelle del Piñal*), cargo and passenger boats (*barcos de cabotaje*) run daily to Olaya Herrera and will detour to drop you at Gorgona. The trip takes 10-12 hours. Book ahead or negotiate on arrival.
 
-In both cases, its wise to pack your bag/backpack in plastic as it will most likely travel on deck and will be drenching wet by the time you reach Gorgona.
+**Diving trips from the mainland.** Dive centers in [Cali](/southamerica/colombia/cali), [Medellin](/southamerica/colombia/medellin), and Bogota regularly organize group trips to Gorgona. A good option if you prefer someone else handling the logistics.
 
-Finally, diving centers in [Cali](/southamerica/colombia/cali), [Medellin](/southamerica/colombia/medellin) and Bogotá frequently organize diving trips to the island, and this is also an option if you’re short on time and/or would rather have an experienced agent take care of the logistics. However, the island is worth the long trip every bit. And the trip itself can be very fun, off the beaten track. Buena suerte!
+In all cases, wrap your bag in plastic. It will travel on deck and arrive drenched. Book accommodation with Parques Nacionales Naturales (parquesnacionales.gov.co) well in advance -- the island has limited capacity.

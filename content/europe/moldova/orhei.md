@@ -1,8 +1,10 @@
 ---
-title: "Orhei"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 47.378229
 longitude: 28.824675
+title: Orhei
+type: location
 ---
 
 Orhei is a small regional town about 45 km north of Chisinau. Most travelers pass through it on the way to [Orheiul Vechi](/europe/moldova/orheiul_vechi_2), the remarkable cave monastery complex that lies another 18 km beyond. Orhei itself has a modest centre with a park, a market, and a history museum.

@@ -1,12 +1,14 @@
 ---
-title: "Sighisoara"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 46.220204
 longitude: 24.793448
+title: Sighisoara
+type: location
 ---
 
-Located in the center of Romania, the medieval town of Sighisoara is best known for the fact that it is the place of birth of Vlad Tepes, aka Count Dracula. There are plans to build a huge amusement park around the idea of Dracula near the town.
+Sighisoara is one of the best-preserved medieval citadels in Europe, a UNESCO World Heritage Site perched on a hill in the centre of Transylvania. It is best known as the birthplace of Vlad Tepes — the historical figure behind the Dracula legend — but the town is worth visiting for far better reasons than vampire tourism.
 
-The town is worth a visit for other and better reasons though. The medieval citadel is the main sights. Walking up from the city center of Sighisoara, one enters the citadel through the 60-meter-tall clock tower, which dates from the 14th century. Be sure to visit the Clock tower too. It houses a museum and the clock still works with wooden figures truning round. From the gallery at the top of the tower you have a good overview of the town. 
+The citadel is entered through the 60-metre clock tower, which dates from the 14th century and still has working wooden figures that turn on the hour. Inside the tower is a small museum, and from the gallery at the top you get a panoramic view over the town and the surrounding hills. Just opposite the tower is the house where Vlad Tepes was born, now a restaurant serving traditional Romanian fare.
 
-The house of Vlad is just opposite the clock tower. It has been turned into a restaurant. Walking uphill form here, along narrow streets lined with beautiful old houses, you'll come to a covered staircase. This leads to a 14th-century Gothic church and a German cemetery.
+Walking uphill from the clock tower along narrow streets lined with painted medieval houses, you reach a covered wooden staircase of 175 steps that leads to a 14th-century Gothic church and a quiet German cemetery on the hilltop. Each summer the citadel hosts a medieval festival, with costumed performers, open-air plays, and concerts — well worth timing a visit around if you are in Romania in late July.

@@ -1,57 +1,18 @@
 ---
-title: "National Parks"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -25.2744
+longitude: 152.7093
+title: National Parks
 type: location
-latitude: -33.628317
-longitude: 150.306235
 ---
 
-Fraser Island, off the Hervey Bay coast, is one of the many national parks in Queensland. This island, besides being the world’s largest sand island, offers great possibilities of exploring much of what Queensland has to offer at one go: beaches, forests, lakes and the corresponding fauna. Fraser Island is one of several islands that are proclaimed national parks. Other national park islands are located within the [Great Barrier Reef](/australiaandpacific/australia/queensland/greatbarrierreef) Maritime Park. Although most visitors stay at the coast whether for diving or surfing activities, it would be a shame to miss out on one of the parks, especially Eungella in the Wet Tropics World Heritage Area that stretches from about 200 kilometers north of Cairns to some 300 kilometers to the south. Because of the many national parks, the following list is by no means all comprising. 
- 
+Queensland has some of the most varied national parks in Australia — from the ancient rainforest of the Wet Tropics World Heritage Area to the red sandstone gorges of Carnarvon, and from the dune lakes of Fraser Island to the remote river country of the Cape York Peninsula. Taken together they cover an enormous range of ecosystems and experiences, and several rank among the best wilderness destinations on the continent.
 
-**Points of Interest**
+The standout is **Fraser Island** (K'gari), off the Hervey Bay coast — the world's largest sand island and a UNESCO World Heritage Site. You drive 4WD along the beach, swim in clear freshwater lakes perched high in the dunes, and walk through tall rainforest that somehow grows in pure sand. It deserves at least three days.
 
-**Daintree National Park**
+Further north, **Eungella National Park** is Queensland's largest rainforest park — over 50,000 hectares of cloud forest in the Clarke Range above Mackay. It's the best place in Australia to spot a platypus in the wild; the creek at Broken River is famous for reliable sightings at dusk. The birdlife is exceptional and the walking trails are well-maintained.
 
+At the far northwest corner of Queensland, **Lawn Hill National Park** (Boodjamulla) protects a dramatic limestone gorge cut through the outback — bright turquoise water, ancient stromatolites, and Waanyi rock art. It's genuinely remote and genuinely spectacular. **Carnarvon Gorge**, in central Queensland, is more accessible and offers some of the most significant Aboriginal stencil art galleries in the country, alongside sandstone cliffs and fern-filled side canyons.
 
-
-**Staaten River National Park**
-
-
-
-**Lawn Hill National Park**
-
-
-
-**{Eungella National Park}**
-
-Eungella National Park is Queensland's largest rainforest national park and it covers over 50,000 hectares. It houses impressive waterfalls, several rare species of animals and plants. It as an excellent area for bush-walking, not in the least because of the various trails that will keep you busy [more..](/australiaandpacific/australia/queensland/nationalparks/eungellanationalpark)
-
-**Jardine River National Park**
-
-
-
-**Mungkane Kandju National Park**
-
-
-
-**Blackdown Tableland National Park**
-
-
-
-**Lamington National Park**
-
-
-
-**Fraser Island**
-
-
-
-**Cooloola National Park**
-
-
-
-**Carnavon National Park**
-
-
-
-**Simpson Desert National Park**
+If you're in the far north, **Daintree National Park** covers the oldest tropical rainforest on Earth, coming right down to the Coral Sea — the classic "where rainforest meets reef" experience. Combined with a snorkelling trip on the [Great Barrier Reef](/australiaandpacific/australia/queensland/greatbarrierreef), it makes a compelling reason to base yourself around Port Douglas or Cape Tribulation.

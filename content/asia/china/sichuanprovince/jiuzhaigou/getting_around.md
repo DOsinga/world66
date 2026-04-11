@@ -1,11 +1,6 @@
 ---
-title: "Getting Around in Jiuzhaigou"
+title: "Getting Around"
 type: section
 ---
 
-In the park, it is very easy to get around by walking, there are wooden-plank trails in the whole area, passing the lakes and forest.
-
-Another option would be to take a bus that takes you to a lot of the sites within the park. A two-day pass for the bus is 90 RMB.
-
-**Contributors**
-July 12, 2007
+The park has an extensive network of wooden-plank trails winding past the lakes and through the forest — walking is the best way to take it in. A shuttle bus also runs through all three valleys, stopping at the major sights. Bus passes are sold at the entrance alongside admission tickets.

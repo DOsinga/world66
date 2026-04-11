@@ -1,10 +1,8 @@
 ---
 title: "Cormier Beach"
 type: poi
-address: "Portland ME"
-type: "general"
+latitude: 19.8116
+longitude: -72.2270
 ---
 
-Has tennis courts scuba diving and restaurants that serve fresh lobster.
-
-Dates
+A sheltered cove about 20 minutes north of Cap-Haitien with calm water, tennis courts, a dive operation, and a restaurant serving fresh lobster straight from the boats.

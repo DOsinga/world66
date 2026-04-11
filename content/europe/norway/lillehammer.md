@@ -1,13 +1,16 @@
 ---
-title: "Lillehammer"
+title: Lillehammer
 type: location
-latitude: 61.133341
-longitude: 10.426585
+latitude: 61.1153
+longitude: 10.4663
+done:
+  location_cleanup: 2026-04-05
 ---
 
-Well known because of the Olympics, Lillehammer is ut a small town with a population of only 60,000 people.
- The city lies at the northern end of Norway’s biggest lake, Mjøsa at a distance of 160 km from [Oslo](/europe/norway/oslo). It is surrounded by farms, forests and small settlements. The intimate and cosy main walking street, “Storgata”, has well preserved wooden buildings and is located in the heart of Lillehammer.
+Lillehammer is a small, tidy town of 30,000 people at the northern tip of Lake Mjøsa — Norway's biggest lake — about two and a half hours north of Oslo by train. Most people have heard of it for exactly one reason: the 1994 Winter Olympics, which put the town on the map and left behind a set of ski venues, an Olympic museum, and a slight but enduring pride of place. It turns out to be a more interesting stop than that reputation suggests.
 
+Storgata, the main walking street, is a long, gently curving stretch of 19th-century wooden buildings — painted red, yellow, and ochre — that climbs up from the lake. It is one of the best-preserved wooden main streets in Norway. At the top, Maihaugen is the town's real cultural highlight: one of the largest open-air museums in northern Europe, with 200-odd buildings relocated from around the Gudbrandsdal valley, including a 13th-century stave church. You can easily spend half a day wandering through medieval farms, town houses, and post-war workers' cottages reconstructed room by room.
 
- 
- Lillehammer was founded as a trading post in 1827 and granted full market town status in 1842.Lillehammer is an important year round tourist destination. During the winter, Lillehammer is a skiing Eldorado for ski enthusiasts. Here you will find one of northern Europe’s best cross-country ski resorts. In 1994, the city successfully hosted the Winter Olympics. During the summer is Lillehammer’s main atttraction, Maihaugen, The Sandvig Collections. Maihaugen is one of Europe’s biggest open air museums. It boasts 140 examples of working farms, a 13th-century stave church and a variety of houses. Other attractions are the Olympic Park, Norwegian Olympic Museum, Lillehammer Art Museum, the paddle steamer, Skibladner, and Hunderfossen Family Park.
+In winter, Lillehammer is a cross-country skiing town more than a downhill one — the Birkebeiner ski race finishes here every March, drawing 16,000 participants — though Hafjell and Kvitfjell resorts, both a short drive away, have the downhill slopes. In summer, you can hike in the surrounding fells, take the paddle steamer *Skibladner* (the oldest paddle steamer still in regular service anywhere) across the lake, and, if you're feeling brave, ride a wheeled bobsled down the original Olympic track at up to 100 km/h.
+
+It makes an easy day trip from Oslo, but it is worth an overnight if you can manage it: the light on the lake in the evenings, and the quiet of Storgata after dinner, are part of the point.

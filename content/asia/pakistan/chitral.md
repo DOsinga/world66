@@ -1,26 +1,14 @@
 ---
-title: "Chitral"
+title: Chitral
 type: location
-latitude: 35.850889
-longitude: 71.79019
+latitude: 35.8509
+longitude: 71.7902
+done:
+  location_cleanup: 2026-04-06
 ---
 
-The Chitral Valley at an elevation of 1128 meters (3,700 ft) is popular with mountaineers, anglers, hunters, hikers, naturalists and anthropologists. The 7,788 meters (25,550 ft) Trichmir, the highest peak of the Hindukush mountain, dominates this 322km long exotic valley.
- 
+Chitral is one of Pakistan's most remote and extraordinary valleys — a 322-kilometre corridor hemmed in by Afghanistan on three sides and separated from Tajikistan only by the narrow Wakhan strip. At its heart sits Tirich Mir, the highest peak of the Hindu Kush at 7,788 metres, presiding over a landscape that draws mountaineers, trekkers, anglers and anthropologists alike.
 
+The valley's most famous residents are the Kalash, a community of around 3,000 people living in the side valleys of Bumburet, Rumbur and Birir south of Chitral town. The Kalash follow an ancient animist religion, and their festivals — Joshi in May, Phool in September, Chowmos in December — are vivid, music-filled affairs open to respectful visitors. Bumburet, the largest and most accessible valley, is about 40 kilometres from Chitral by jeep road. Birir and Rumbur are slightly closer but involve rougher tracks.
 
- Chitral district has [Afghanistan](/asia/afghanistan) on its North, South and West. A narrow strip of Afghan territory, Wakhan, separates it from Tajikistan. The tourist season in Chitral is from June to September. 
- 
-
-
- One of the major attractions of Chitral are the Kalash valleys-the home of the Kafir-Kalash or "Wearers of the Black Robe", a primitive pagan tribe.
- 
- Their ancestry is enveloped in mystery and is the subject of controversy. A legend says that five soldiers of the legions of Alexander of Macedon settled in Chitral and are the progenitors of the Kafir-Kalash.
- 
-
-
- The 3,000 strong Kafir-Kalash live in the valley of Birir, Bumburet and Rambur in the South. Bamburet, the largest and the most picturesque valley of the Kafir-Kalash, is 40km from Chitral and is connected by a jeepable road. Birir, 34km away is accessible by a jeepable road. Rambur is 32km from Chitral, the road is jeepable upto Ayun and the remaining 16km have to be travelled on foot.
- 
- The Kalash women wear black gowns of coarse cloth in summer and hand-spun wool dyed in black in winter. Their pictureque headgear is made of woollen black material decked out with cowrie shells, buttons and crowned with a large coloured feather. In parts of Greece even today some women sport a similar headcovering.
- 
- The Kalash people love music and dancing particularly on occasions of their religious festivals like Joshi Chilimjusht (14th & 15th May - spring), Phool (20th - 25th September) and Chowas (18th to 21st December).
+Beyond the Kalash valleys, Chitral rewards anyone willing to deal with its limited infrastructure. The rivers hold brown trout, the high passes connect to [Gilgit](/asia/pakistan/gilgit) via the Shandur Pass, and the peaks above 6,000 metres are numerous enough that you will not be fighting for permits. The tourist season runs from June to September, when the Lowari Pass is open and the weather cooperates.

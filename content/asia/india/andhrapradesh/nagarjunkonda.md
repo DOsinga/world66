@@ -1,19 +1,16 @@
 ---
-title: "Nagarjunkonda"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 16.5275
+longitude: 79.2416
+title: Nagarjunakonda
 type: location
 ---
 
-Nagarjunakonda is located at Nagarjunasaag or reservoir 150km east of Hydrebad.
+Nagarjunakonda is an island archaeological site in Nagarjuna Sagar reservoir, about 150 km southeast of Hyderabad in Andhra Pradesh. It preserves the remains of one of the most important Buddhist centres in South India, dating primarily from the 2nd century BC to the 9th century AD.
 
-It is the site of a major buddhist community enlosed within three valleys bordered by the Nallamallai Range and the river Krishna. When a dam was proposed in the 1960's extensive excavations were undertaken by the Archealogical survey of India in an excersise similar to the Aswan excavations which came a few years later. Over 1000 sites of arechological interest were excavated.
+When the Nagarjuna Sagar dam was built in the 1960s, the valley was about to be flooded. The Archaeological Survey of India conducted extensive excavations before the waters rose, uncovering over 1,000 sites — more than 30 Buddhist monasteries and stupas among them. The most significant finds were carefully relocated to the hilltop that became an island when the reservoir filled, and a museum was built there to house the smaller artefacts.
 
-30 Buddhist Monasteries and stupas showing the evolution of buddhism into the Mahayana and Hinayana strands have been discovered in the archeological finds which date mainly from 200BC -900AD.
+The site documents the evolution of Buddhism from its early forms into the Mahayana and Hinayana traditions. Four distinct Buddhist sects have been identified here, including the Aparamahavinasaliya, an important early Mahayana sect, and the Mahisasaka, a Hinayana school.
 
-The remains of theses sites are now displayed in a museum and reconstructed sites on an mountain top now island in the reservoir.
-
-Four Buddhist sects have been confirmed in the area They include Apara Mahavinseliya ( the major early Mahayana sect) , Bahusrtiya, Mahisasaka (Hinayana) and Maha viharavasin (a Hinayana sect from Sri Lanka)
-
-There is no firm proved connection of the site to the prominent sage Nagarjuna who was a prominent member of the sangha for a period of 50 years in the second century AD and established Madhyamika school which went onto establish the beginning of Mahayana buddhism.
-
-**Contributors**
-July 15, 2005
+To visit, you take a boat from the Nagarjuna Sagar dam site across the reservoir to the island — a pleasant ride with views of the surrounding hills. The museum and reconstructed ruins can be covered in a few hours. The site is most easily visited as a day trip from Hyderabad, though basic accommodation exists at Nagarjuna Sagar town.

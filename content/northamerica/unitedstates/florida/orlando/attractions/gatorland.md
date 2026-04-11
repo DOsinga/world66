@@ -1,17 +1,13 @@
 ---
-title: "Gatorland"
-type: location
-latitude: 28.354993
-longitude: -81.401899
+category: Sight
+done:
+  location_cleanup: '2026-04-10'
+latitude: 28.355
+longitude: -81.4019
+title: Gatorland
+type: poi
 ---
 
-14501 S. Orange Blossom Tr.
- Orlando, FL 32837-6699
- Phone: 407/855-5496
- Toll Free (U.S. & Canada): 800/393-5297
- Fax: 407/240-9389
- Website: http://gatorland.com
- E-mail: gatorlnd@magicnet.net
- 
- Celebrating its 50th year! Home to thousands of alligators and crocodiles. Petting zoo, mini water park, eco-tour, bird sanctuary and wildlife shows, all in a turn-of-the-century setting. 
- Hours: 9 a.m. - dusk.
+Home to thousands of alligators and crocodiles, Gatorland is one of Orlando's oldest attractions — a refreshing antidote to the mega theme parks. The park includes a petting zoo, bird sanctuary, wildlife shows, and a boardwalk through a cypress swamp. The Screamin' Gator zip line runs over the alligator breeding marsh.
+
+14501 S. Orange Blossom Trail, Orlando.

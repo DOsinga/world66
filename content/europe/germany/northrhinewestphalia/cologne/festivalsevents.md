@@ -1,10 +1,12 @@
 ---
-title: "Festivals & Events"
-type: location
+title: "When to Go"
+type: section
+done:
+  location_cleanup: '2026-04-08'
 ---
 
-There is always something happening in Cologne - often on a grand scale. And because the city's many diverse "scenes" not only co-exist but also tend to join forces in a spirit of cooperation, every event is always colourful and spectacular. For example, Cologne's annual city marathon is performed to the beat of live music; the Christopher Street Day is transformed into a summer carnival, and Cologne's Carnival itself is undergoing a permanent transformation.
+Cologne has events year-round. The highlight is Carnival (Karneval), which builds from November 11 and peaks in the days before Ash Wednesday with parades, costumes, and street celebrations that take over the entire city. Cologne's Carnival is one of the largest in Europe and an unforgettable experience if you time it right.
 
-  By virtue of Cologne's vibrant populace, the numerous tradefairs staged here assume a special kind of flair. And the tradefair centre itself is located virtually in the inner city. Hardly surprising, therefore, that each year millions of visit flood into this Domstadt to sample the delights of life in the shadow of our famous cathedral.
+In late November, four major Christmas markets open — on the Cathedral square, the Old Market, the New Market, and at Rudolfsplatz. The aroma of Glühwein, roasted chestnuts, and gingerbread fills the streets, and visitors come from across Europe for the handicrafts and decorations.
 
-  **With courtesy of www.koeln.de**
+Summer brings street parties in almost every borough. "The Longest Table in Cologne" in the southern part of the city sees restaurants and pubs set up tables side by side in the street. The Musiktriennale is a festival of 20th-century music from around the world, staged across venues including the Kölner Philharmonie and the Stadtgarten.

@@ -1,5 +1,7 @@
 ---
-title: "Pilgrims Ways"
+done:
+  location_cleanup: '2026-04-09'
+title: Pilgrims Ways
 type: section
 ---
 

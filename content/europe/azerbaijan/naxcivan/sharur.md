@@ -1,8 +1,10 @@
 ---
-title: "Sharur"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 39.589265
 longitude: 45.036218
+title: Sharur
+type: location
 ---
 
 Travel Guide

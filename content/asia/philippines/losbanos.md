@@ -1,16 +1,16 @@
 ---
-title: "Los Banos"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.17909
 longitude: 121.221791
+title: Los Banos
+type: location
 ---
 
-Travel Guide
+Los Baños sits about 40 miles south of Manila on the south shore of Laguna de Bay, nestled at the foot of the dormant volcano Mount Makiling. The name means "The Baths," and the town earns it: numerous spas draw on thermal springs that bubble up from the volcanic ground beneath.
 
-Los Banos, about 40 miles south of Manila in on the south of Lake Laguna. Nestled at the foot of the dormant volcano Mount Makiling it is the home of numerous spas that utilise the hot water from thermal springs. Hence its name that translates to "The Baths".
+An ambitious hike to the top of Mount Makiling passes through hot mud springs and dense virgin rainforest. Though the King Cobra makes its home here, you are far more likely to come in contact with small land leeches that wait patiently for passing flesh.
 
-An ambitious hike to the top of Mount Makiling passes the hot waters of mud springs and dense virgin rain forest. Though home of the King Cobra you are much more likely to come in contact with small land leeches that patiently wait for passing flesh.
+Los Baños is home to the International Rice Research Institute and a branch of the University of the Philippines. The resulting mix of students, academics, and researchers gives the town a lively, well-serviced character that sets it apart from other towns in the region.
 
-Los Banos is home of the International Rice Research Institute and a branch of the Univeristy of the Philippines. Hence the thriving population of students, academics and some foreigners help to maintain a lively and well-serviced town.
-
-The botanic gardens are worth a visit and don't forget to try the local buko pie.
+The botanic gardens are worth a visit. And don't leave without trying buko pie — a coconut custard tart that is the local specialty and sold at roadside stalls throughout town.

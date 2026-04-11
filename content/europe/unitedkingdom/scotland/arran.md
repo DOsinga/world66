@@ -1,16 +1,12 @@
 ---
-title: "Arran"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 55.577451
 longitude: -5.252161
+title: Arran
+type: location
 ---
 
-Aran is on of Scotland's most southerly islands and is often said to be like 'Scotland in Miniature', presumably on the grounds that it is mountainous in the north. However this may be it is a lovely island with some glorious mountains and beaches. It is one of the islands easiest to reach from the south. 
+Arran is often called "Scotland in Miniature" — the northern half is rugged mountain country dominated by Goat Fell (874m), while the southern half is rolling farmland and sandy bays. It is one of the most accessible Scottish islands, reached by a short CalMac ferry from Ardrossan on the Ayrshire coast.
 
-http://www.undiscoveredscotland.co.uk/areaarra/index.html
-
-## Destinations in Arran
-
-[Brodick](/world/europe/unitedkingdom/scotland/arran/brodick)
-[Whiting Bay](/world/europe/unitedkingdom/scotland/arran/whiting_bay)
-[Lochranza](/world/europe/unitedkingdom/scotland/arran/lochranza)
+The main town is [Brodick](/europe/unitedkingdom/scotland/arran/brodick), where the ferry arrives, with Brodick Castle (National Trust for Scotland) set against the mountain backdrop. [Lochranza](/europe/unitedkingdom/scotland/arran/lochranza) in the north has a ruined castle and the Arran Distillery. [Whiting Bay](/europe/unitedkingdom/scotland/arran/whiting_bay) on the southeast coast is a quieter base. The island is small enough to drive around in a day, but the walking — particularly the ridge traverse of the northern mountains — is what makes it worth staying longer.

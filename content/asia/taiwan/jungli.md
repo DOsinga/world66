@@ -1,8 +1,10 @@
 ---
-title: "Zhongli"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.954964
 longitude: 121.236332
+title: Zhongli
+type: location
 ---
 
 Zhongli (also spelled Jungli) is a city in Taoyuan District, about 45 minutes from [Taipei](/asia/taiwan/taipei) by train. It is not a major tourist destination but has a large Southeast Asian expatriate community, particularly from Thailand, Indonesia, and Vietnam, which gives its market streets a different flavour from most Taiwanese cities.

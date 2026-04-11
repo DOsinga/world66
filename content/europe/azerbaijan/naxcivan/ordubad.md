@@ -1,24 +1,16 @@
 ---
-title: "Ordubad"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 39.076
+longitude: 45.9228
+title: Ordubad
 type: location
-latitude: 39.076022
-longitude: 45.922805
 ---
 
-Travel Guide
+After Nakhchivan City, Ordubad is the most important town in the Nakhchivan Autonomous Republic, once the capital of a semi-independent sultanate that yielded sovereignty to the Russian tsars in 1828. Situated near the river of the same name — a tributary of the Araz — Ordubad is a mountain town, built at 850 metres under the imposing presence of the Zangezur range.
 
-After [Nakhchivan City](/europe/az-nakhchivan-city.html), Ordubad is the most important town in the Nakhchivan Autonomous Republic, having once been the capital of a semi-independent sultanate, which eventually yielded sovereignty to the Russians tzars in 1828.
+Several buildings from the seventeenth and eighteenth centuries are well preserved, notably three mosques — Saatabad, Dilbar, and Juma — the last of which retains a religious school (madrasa). The history museum provides a glimpse into a town with a rich cultural tradition: Ordubad was one of the early printing centres in the region and home to the family of astronomer and mathematician Nasraddin Tusi.
 
-Situated near the river of the same name - a tributary of the Araz - Ordubad is nevertheless a mountain town, built at 850m under the imposing presence of the Zangezur range.
+The train ride to Nakhchivan City is memorable. The line runs along the Araz river, the border with Iran, with views of the Iranian bank including the ancient church of St. Stephanos near where the Qotur river joins the Araz. Note that the station is almost 4 kilometres south of town.
 
-Although the area always had an agitated history, several buildings from the 17th and 18th century are well preserved, namely three mosques (Saatabad, Dilbar and Juma), the last one also retains a religious school (madrasa). The history museum is also well worth visiting. The museum provides a glimpse into the past of a town with a rich cultural tradition, having been one of the early printing centres and home to the family of astronomer and mathematician Nasraddin Tusi.
-
-Due to the Karabakh conflict trains no longer go to Azerbaijan proper via Megri, but there are train services to Nakhchivan city, notice that the station is almost 4 km south of the town. The rail trip is memorable. The line goes along the Aras river, the border with Iran, providing amazing vistas of the Iranian bank, including of the world's oldest churches - St. Stephanos, built near the place where the Qotur river joins the Aras.
-
-The only place to stay is the old Soviet style hotel Sahil, near the bridge over the river Ordubad. The compensates its many insufficiencies with a nice view of the river.
-
-Around the town there are vast and varied orchards, as well as mulberry plantations, producing the leaves used for breeding silkworms.
-
-Azeri and Iranian authorities have agreed to build a new bridge over the river Araz in the border point of Ordubad-Siahrud.
-
-(420 km southwest of Baku)
+Around the town, vast orchards and mulberry plantations — used for silkworm breeding — give the landscape a green, productive character unusual for this part of the Caucasus.

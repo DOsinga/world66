@@ -1,14 +1,16 @@
 ---
-title: "Stockbridge"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.2824
+longitude: -73.3124
+title: Stockbridge
 type: location
-latitude: 42.282398
-longitude: -73.312368
 ---
 
-Stockbridge is located at the west end of Massachusetts near the New York State boundary. It is an extremely small place, basically a T-junction. The main street in Stockbridge is called Main Street and really is one block long.
+Stockbridge is a tiny Berkshires village near the New York State line -- basically a single block of Main Street at a T-junction -- but it punches well above its weight.
 
-Being so small, it is a surprise that Stockbridge is home to two famous US landmarks.
+The [Red Lion Inn](https://redlioninn.com), built in 1773, still operates as a country inn and is worth a stop for a meal even if you are not staying. It is one of the oldest continuously operating inns in the United States.
 
-The first is the historic Red Lion Inn built in 1773 and still operating as an Inn. A meal at The Red Lion Inn is a must if you are in Stockbridge as the food is fantastic.
+Stockbridge's biggest claim to fame is Norman Rockwell, who lived and painted here for the last twenty-five years of his life. His studio was originally on Main Street -- the very street he depicted in his iconic Saturday Evening Post covers of small-town America. The Norman Rockwell Museum has since moved to a larger property just outside town, where you can see the original studio and the most comprehensive collection of his work anywhere.
 
-The second is feature is that famed US painter Norman Rockwell spent many years living and painting in Stockbridge. His studio used to be on Main Street from where he painted "small town America" for The Saturday Evening Post. The studio has been moved just outside of town to a larger property which also includes a new museum building to house all of his artwork.
+The surrounding Berkshires countryside is beautiful in any season, but autumn is spectacular. Stockbridge also sits close to Tanglewood, the summer home of the Boston Symphony Orchestra, and the town makes a good base for exploring the rest of the Berkshires.

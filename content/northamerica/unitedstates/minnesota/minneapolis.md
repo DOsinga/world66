@@ -1,20 +1,16 @@
 ---
-title: "Minneapolis"
+title: Minneapolis
 type: location
 latitude: 44.9773
-longitude: -93.265469
+longitude: -93.2655
+done:
+  location_cleanup: 2026-04-06
 ---
 
-From an urban sculpture garden to the largest mall in America, Minneapolis boasts an abundance of unique sights. Throughout the city, neighborhoods house unique shops and ethnic eateries, while the Mississippi River and more than 20 lakes add to the landscape. During your stay, you will find no shortage of leisure activities in the area, including cultural events, professional sports and festivals galore.
+Minneapolis is a city that punches well above its weight in culture, food, and green space. It sits on both banks of the Mississippi River, connected by a network of parks and lakes that would make most American cities jealous. The Chain of Lakes — Cedar, Isles, Bde Maka Ska, and Harriet — threads through the western neighborhoods, drawing runners, cyclists, and swimmers year-round. In winter, the lakes freeze and the city doesn't slow down. People skate, ski, and fish on the ice.
 
-A string of lakes along the west side of town features many old, large and expensive homes nestled amid more comfortable middle- and working-class residential neighborhoods. A drive or walk around **The Lakes**, from Cedar Lake with its public and "Hidden" beaches in the north, around Lake of the Isles with its bird sanctuary island, Lake Calhoun and Lake Harriet in the south, emptying into Minnehaha Creek, will reveal some of the most picturesque houses with spectacular views of the lakes. Lake Calhoun and Lake of the Isles could be called the most popular in the city-thousands of people can be found walking, biking, running, swimming, skating and boating on and around them.
+The neighborhoods give the city its character. **Uptown** is the center of the twenty-something scene, with rental brownstones, independent shops on Hennepin Avenue and Lake Street, good restaurants, and alternative movie theaters. A few blocks east, **Lyn-Lake** is a creative district where spots like Bryant-Lake Bowl & Theatre — part bowling alley, part restaurant, part hundred-seat theater — capture the city's knack for unexpected combinations.
 
-Just south of downtown Minneapolis you find the **Uptown Neighborhood ** of Minneapolis, the center of the 20-something scene. It contains mostly rental properties in old brownstone buildings with hardwood floors. It also features some of the best shopping in Minneapolis; its main streets, Hennepin Avenue and Lake Street, are lined with unique shops. Other highlights of the area include great restaurants and bars, numerous coffee houses and alternative movie theaters.
+The **Warehouse District** downtown has reinvented itself around galleries, shops, and restaurants in converted industrial buildings. Across the river, the **West Bank** and **Cedar-Riverside** neighborhoods near the University of Minnesota campus are the heart of the Twin Cities' thriving small theater scene. North of campus, **Dinkytown** is a compact arts and shopping district centered on University Avenue and 4th Street SE, anchored by bookstores and eateries that have served generations of students.
 
-Lyn-Lake Just a few blocks east of Uptown is **Lyn-Lake**a great up-and-coming neighborhood with creative hang-out spots popping up all the time and creative retail outlets. Bryant-Lake Bowl & Theatre, a unique combination of a bowling alley, restaurant and 100-seat theater is a great place to join friends for the evening. For a cultural experience, visit the Jungle Theater, an acclaimed local theater, featuring plays by Sam Shepard and other local artists.
-
-For dining and entertainment, **Warehouse District** in the Downtown area has great places to explore, from the International Design Center to renovated warehouses with galleries, shops and offices.
-
-Just east of Downtown on a bend of the Mississippi River, you'll find the Minneapolis Campus of the University of Minnesota, linked by busses to the smaller St. Paul campus. Much of the Twin Cities' thriving small theatre culture centers around the **West Bank** and **Cedar-Riverside** neighborhoods, from the U of MN's theatre complex to the decades old Theatre in the Round to new performances by Pig's Eye Theatre at the Cedar Riverside People's Center.
-
-Dinkytown is a thriving arts and shopping area of about six blocks centered on University Ave and 4th Street S.E. just north of the U of MN main campus, with bookstores and eateries that have been there for generations of students and and long-time residents.
+Minneapolis has world-class cultural institutions — the Walker Art Center, the Guthrie Theater, the Minneapolis Institute of Art — alongside a music scene that shaped Prince and the Replacements. The food is better than outsiders expect, with strong Southeast Asian, East African, and Latin American communities adding depth to the dining landscape.

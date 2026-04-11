@@ -1,22 +1,12 @@
 ---
-title: "Leibnitz"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 46.780476
 longitude: 15.5407
+title: Leibnitz
+type: location
 ---
 
-You can see the wine hills of the Seggau castle from afar and you know:
-this is a wine-region. Leibnitz is the pivotal point of the
-Südsteirisch wineland: the city offers great outdoor cafes with both
-local and international dishes and of course many steirisch wines. Many
-events take place in town: of course wine celebrations but also sport,
-music and cultural events.
+You can see the wine hills around Seggau castle from far off, and that tells you everything: Leibnitz is the heart of the South Styrian wine country. The town has good outdoor cafes serving local and international dishes alongside the region's excellent wines, and hosts wine celebrations, music and cultural events throughout the year.
 
-Great shopping, good accommodation, the Sulmflussbad for swimming ard
-recreation and many places nearby where you can make excellent hikes
-make this a good place to stay a while. Highlights include a hike to
-the ruins of Flavia Solva or a walk on the "Weinlehrpfad" of the local
-winemakers school.
-
-**Contributors**
-September 07, 2005
+It is a good base for exploring the area. The ruins of Flavia Solva, a Roman city, are a short walk away. The Weinlehrpfad — a wine education trail run by the local winemakers' school — winds through the vineyards. The Sulmflussbad offers swimming in summer, and there are plenty of hiking routes in the surrounding hills.

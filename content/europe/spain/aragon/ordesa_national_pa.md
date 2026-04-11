@@ -1,12 +1,18 @@
 ---
-title: "Ordesa National Park"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.626
+longitude: -0.0434
+title: Ordesa National Park
 type: location
-latitude: 42.609568
-longitude: 0.07656
 ---
 
-The best entry point for Ordesa is Torla - see 'getting there.' There is no access for private cars, except in the winter, but a coach runs up every 20 minutes from the large car park There is a limit to the number allowed in at any one time but this is certainly not a problem outside the main holiday season. You can get off the coach at the Exhibition Centre [well worth while] and continue in another coach to the Ordesa coach park on the same ticket. here there is an information centre for walks, a cafeteria and toilets. 
+Ordesa y Monte Perdido National Park is one of the great mountain parks of Europe — a deep glacial canyon cut into the Spanish Pyrenees, ringed by sheer limestone walls and waterfalls, with Monte Perdido (3,355 m) dominating the skyline. It was Spain's first national park, established in 1918, and it feels like it was made for walking.
 
-Walks are of all standards. Those who are not into steep slopes may well enjoy the walk from Ordesa back down to Torla by a very attractive footpath - only the last bit from the river being uphill. Otherwise it is possible to folow the river upwards for quite some distance before the path gets steeper. 
+The park is divided into four valleys: the Ordesa canyon, the Añisclo gorge, the Escuaín canyon, and the Pineta cirque. The Ordesa valley is the most visited and the most spectacular — a broad, flat-bottomed canyon with the Arazas river threading through beech and pine forest, framed by walls of orange and grey limestone rising almost vertically. On a clear morning in late spring, with the snowmelt waterfalls still running, it is genuinely breathtaking.
 
-Thre are Land Rover taxis, which do higher trips into the park but you have to provide a group or join onto one to make this a financially good proposition.
+The most famous walk is the Circo de Soaso route, which follows the valley floor upstream to the Cola de Caballo (Horse Tail) waterfall at the head of the canyon. It takes about five or six hours return and is one of the best day walks in Spain — straightforward enough for fit walkers, spectacular enough to justify the effort. The path up to the Brecha de Rolando and into France via the Faja de Pelay is harder and more exposed, but rewards with views across the whole massif.
+
+Wildlife is abundant: chamois graze on the high ledges, griffon vultures wheel overhead, and if you're lucky you may spot a lammergeier — the enormous bearded vulture that drops bones from height to crack them on the rocks below. The park also holds one of the last viable populations of Pyrenean brown bear, though you are very unlikely to encounter one.
+
+The gateway town is [Torla-Ordesa](/europe/spain/aragon/torla), a handsome stone village 8 km from the park entrance. In summer, private cars are banned from the road into the valley; a shuttle bus runs every twenty minutes from the large car park below Torla. The park is also accessible from [Ainsa](/europe/spain/aragon/ainsa) to the south, which gives access to the Añisclo and Pineta sectors.

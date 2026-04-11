@@ -1,21 +1,14 @@
 ---
-title: "Port Clinton"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 41.512
+longitude: -82.9377
+title: Port Clinton
 type: location
-latitude: 41.511995
-longitude: -82.937692
 ---
 
-Travel Guide
+Port Clinton bills itself as the "Walleye Capital of the World," and the claim is not much of a stretch. This small city on the shore of Lake Erie in Ottawa County, Ohio, is the launching point for some of the best freshwater fishing in the Midwest. Every spring and fall, anglers descend on the Portage River and the lake for walleye, perch and smallmouth bass.
 
-Port Clinton is a
-city in and the county seat of Ottawa County, Ohio, United States. The
-population was 6,391 at the 2000 census. The city has been nicknamed the
-"Walleye Capital of the World."
+Fishing aside, Port Clinton is a handy base for exploring the western Lake Erie islands. The Miller Ferry and Jet Express run to Put-in-Bay on South Bass Island and to Kelleys Island throughout the summer. Cedar Point amusement park in Sandusky is a short drive east, and a handful of local wineries have sprung up along the lakeshore.
 
-The city is known for
-its annual Walleye Drop, commemorating the new year as well as its fishing and
-boating industries, the annual National Matches at neighboring Camp Perry, and
-its proximity to a variety of vacation destinations (such as the Lake Erie
-islands, the Cedar Point amusement park and a number of local wineries). Port
-Clinton's transient dockage on the Portage River is a safe harbor for Lake Erie
-boaters. (Wikipedia)
+The town marks each New Year's Eve with the Walleye Drop -- a 20-foot fibreglass fish lowered at midnight, Port Clinton's answer to the Times Square ball. The annual National Matches at neighbouring Camp Perry draw competitive shooters from across the country. In between events, the pace is slow, the dockage on the Portage River is safe harbour for boaters, and the lake sunsets are hard to beat.

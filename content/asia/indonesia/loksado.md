@@ -1,18 +1,16 @@
 ---
-title: "Loksado"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -2.794682
 longitude: 115.496021
+title: Loksado
+type: location
 ---
 
-Travel Guide
+Loksado is a small town in the Meratus Mountains of South Kalimantan, about five hours by road from Banjarmasin. It is the starting point for treks into the Meratus range — one of the few places in Indonesian Borneo where you can walk through genuine mountain rainforest and stay with indigenous Dayak communities.
 
-**Loksado** is a small town about 5 hours ride from Banjarmasin, the capital city of South Kalimantan. Or about 3 hours from Marabahan.
+The classic trek runs from Loksado to Malaris and Haratai, passing through dense tropical forest, across wooden bridges and small rivers, and through villages where the locals keep dogs and pigs (called gunik in the local language). The evening stretch toward Haratai is the best — as the light fades, the sky fills with more stars than you thought possible.
 
-From Loksado, travelers can start trekking to Meratus Mountaineous Range with itinerary Loksado-Malaris-Haratai. With additional attraction bamboo rafting in Amandit river.
+In Haratai, you can stay with local families who still practise Hindu Kaharingan beliefs. If you are lucky, you may witness a Jujuran — a pre-wedding ceremony in which the families of bride and groom negotiate wedding expenses through improvised poetry (beruji). The event can last all night, with intermissions of traditional drumming, singing and dancing in trance-like states, all held in a communal house connecting several families descended from the same ancestor.
 
-Trekking from Loksado to Haratai is nice, especially if the time close to sunset and evening. Passes wooden bridge and forests and small rivers and several villages. And the evening sky showing thousand stars that feel so close to the earth.
-
-And in Haratai, you can stay with locals. If you're lucky, you can witnessing the locals who are still have Hinduism beliefs [called *Hindu Kaharingan*] arrange a ceremony called *Jujuran*. A pre-wedding procession where both sides of bride and groom doing *Beruji* [in Indonesian so called pantun or poem in English] for a dealing about expenses should be paid for the wedding ceremony.
-
-This Jujuran can take all night long! With intermission traditional music and song using drums in trance conditions. This event will be held in a communal house, which connected with several families' houses from the same ancestor.
+Bamboo rafting on the Amandit River is another popular activity, and can be combined with the trek for a return trip to Loksado.

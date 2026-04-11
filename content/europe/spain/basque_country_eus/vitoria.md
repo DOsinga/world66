@@ -1,21 +1,13 @@
 ---
-title: "Vitoria"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.846509
 longitude: -2.672403
+title: Vitoria-Gasteiz
+todo_location_cleanup: done
+type: location
 ---
 
-Travel Guide
+Vitoria-Gasteiz is the capital of the Basque Country and the seat of its regional government, but it remains remarkably under the tourist radar compared to Bilbao or San Sebastián. It's a pleasant, walkable city with a well-preserved medieval old town, a ring of parks and green corridors that earned it the title of European Green Capital in 2012, and a lively pintxos scene that doesn't cater to tourists so much as to the locals who actually live here.
 
-Vitoria is located in the heart of the Basque Country in Spain, 66 km
-south of Bilbao, 114 km from San Sebastian and 351 km from Madrid.
-
-Vitoria is the political capital of the Basque country and administration was recently relocated from Bilbao to Vitoria.
-Spanish is the main language, but Basque language is common and English is not spoken everywhere.
-
-You can visit Vitoria coming from Bilbao Airport on a toll road or
-using public transport (bus). Vitoria has a small Airport (Aeropuerto
-Vitoria-Foronda) 8 km north of the town with a few flight destinations.
-
-More information on
-*Vitoria Travel*
+The old city sits on a low hill, with its medieval streets radiating outward from the cathedral. The 19th-century expansion below is tidy and bourgeois, full of covered arcades and good bars. Spanish and Basque are both spoken; English less so than in Bilbao, which makes the city feel more genuinely Basque.

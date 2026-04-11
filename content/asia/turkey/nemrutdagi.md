@@ -1,8 +1,16 @@
 ---
-title: "Nemrut Dagi"
+title: Nemrut Dagi
 type: location
-latitude: 37.980639
-longitude: 38.740797
+latitude: 37.9806
+longitude: 38.7408
+done:
+  location_cleanup: 2026-04-06
 ---
 
-South of Malatya, pretty much in the middle of nowhere is Nemrut Dagi (Mount Nimrod). On the summit of this mountain is a 2000 year old memorial sanctuary for an old Commagene king. Here you can wonder around the mountain which seems made up of millions and millions of loose lying little stones and gaze at the statues of gods and kings. Many hotels in the area offer trips to this site and most of them advertise for a either sunset or sunrise combined with sightseeing between roman ruins in the area. A nice day of waking up very early, freezing at the mountain (keep in mind the mountain is realy cold in the mornings and evenings), and strolling along all the roman leftovers didn't cost me more than 16 dollars. Ofcourse this incluided transportation and is less or comparable to what you would spend on taxi's.
+On a remote mountaintop in southeastern Turkey, a megalomaniac king built his own monument to eternity. Two thousand years later, the giant stone heads of gods and kings sit scattered across the summit of Nemrut Dagi, toppled by earthquakes but still staring out across the Mesopotamian plain. It is one of the most extraordinary archaeological sites in the world.
+
+King Antiochus I of Commagene had the peak of Mount Nemrut (2,134m) leveled in the first century BC and covered with a vast tumulus of crushed rock. On the east and west terraces he placed colossal statues of himself seated among the gods: Zeus, Apollo, Hercules, and Tyche, the goddess of fertility. The statues stood nine meters tall. Today most of the heads have tumbled from their thrones and rest on the ground, enormous and oddly serene, surrounded by fallen eagles and lions.
+
+Most visitors come for sunrise or sunset, when the light turns the stone heads golden against the sky. The east terrace catches the dawn; the west terrace faces the setting sun. Either is worth the early alarm. The mountain is genuinely cold at altitude, even in summer, so bring warm layers.
+
+The nearest towns are Kahta and Adiyaman, both of which have hotels and pensions that organize transport to the summit. Most tours combine Nemrut with the Roman bridge at Cendere, the Karakus tumulus, and the ruined Commagene capital at Arsameia. A full day of ruins and mountain air is easy to arrange and remarkably affordable.

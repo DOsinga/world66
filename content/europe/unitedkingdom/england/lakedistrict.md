@@ -1,32 +1,16 @@
 ---
-title: "Lake District"
+title: Lake District
 type: location
-latitude: 54.47853
-longitude: -3.065533
+latitude: 54.4609
+longitude: -3.0886
+done:
+  location_cleanup: 2026-04-05
 ---
 
-England's only mountainous region is a miniature Switzerland of incomparable beauty - the Lake District is not a large area, Switzerland itself is 25 times larger. From the 3118-foot (950 m) peak of Helvellyn, it is possible to see the hills of Scotland and the Irish sea (on a clear day). Within the Lake District's 700 square miles (1800 sq.km.) there are some 100 peaks over 2000 feet (600 m) and 15 lakes. 
- 
+The Lake District is England's only real mountain country: sixteen lakes and more than 200 peaks squeezed into 900 square miles of the north-western corner of the country. It is small by the standards of the Alps or the Rockies — you can drive across it in under an hour — and tame compared to the Scottish Highlands, but the compression is part of the appeal. Valleys open onto lakes, fells rise straight out of the water, stone walls climb impossibly steep pastures, and the whole landscape has a worn, glaciated beauty that has been attracting walkers and writers for more than two centuries.
 
-The Lake District is thronged with tourists and the m6 moterway, which slices through the North West region from the West Midlands to the Scottish border, brings an ever growing stream from the south to enjoy it's beauty. The road up Langdale from Ambleside, passing through Elterwater and Langdale villages, is one of the classic roads of the Lake District tour, culminating in the impressive view of the Langdale pikes accross Blea Tarn. The main peaks -Pike o'stickle, Harrison Stickle, Loft Crag and Peveey Ark- are all above 2000 feet (600m) but in their solitude, they seem much higher. This view of Derwentwater emphasizes one of the great charms of the Lake District.
- 
+It was the Lake Poets — Wordsworth, Coleridge, Southey — who first made the region fashionable in the early 19th century. Wordsworth's cottage at Grasmere and his later house at Rydal Mount are both open to visitors, and they remain among the most visited literary sites in Britain. Beatrix Potter lived and wrote here too; Hill Top, her farmhouse near Hawkshead, is preserved much as she left it. But the real draw is the walking, which ranges from easy lakeshore strolls to the full round of the 214 "Wainwrights" — the fells listed in Alfred Wainwright's classic seven-volume pictorial guide, which generations of British hillwalkers have worked their way through.
 
-Derwentwater is claimed by many to be the most beautiful of the lakes in England. For this lake, three miles long and one mile wide, is surrounded by rich scenery, a wonderful blending of crag, green fell and wooded slopes with an imposing background of mountains. Two of the major islands are the, now national trust property owned, Lord's Island, and the St. Herberts Islands, where a a disciple of St. Cuberth lived in the seventh century. 
- 
+The main bases are Keswick in the north, on the shore of Derwentwater and surrounded by the Skiddaw, Blencathra, and Borrowdale fells; Ambleside and Windermere in the south, on the bigger, busier lake of the same name; and Coniston, quieter, with the Old Man of Coniston rising behind it. Scafell Pike, the highest point in England at 978 metres, is a serious half-day walk from Wasdale Head — the remotest and arguably the most spectacular valley in the district. Helvellyn, with its knife-edge Striding Edge ridge, is the classic day out for anyone looking for a taste of proper British mountain walking.
 
-Courtesy of: **travelbritain.com**
- 
-
-
- By car there are two main entrances to the heart of the Lake district: south from Lancaster to Windermere,
- and north from Penrith to Keswick. On Fridays and Sundays
- you can expect big traffic jams.
- The Lake District is at its nicest when you walk alongside the hills, just at the border of the farmland and the moors, the view changes from moment to moment, and you encounter all kind of plants, animals, streams, stone walls. If you are insistent to climb the hills,
- as a start, I recommend, the Old Man of Coniston near
- Coniston in the south, or Catbells near Keswick in the north. They have nice views and can be reached easily.
- The real work is done at Scafell Pike, the highest hill
- in the lake district and the horseshoe range north of it, and the two ridges that run north south; Helvellyn, and
- High Street.
-
-
- But really, if you like wide views, and a bit of peace and quiet, I would go to the Yorkshire Dales, Peaks, or Cheviot.
+The region is popular, and on a sunny summer Saturday the honeypots (Windermere, Ambleside, Bowness) are genuinely crowded. The quieter valleys — Ennerdale, Buttermere, Duddon, Longsleddale — are a short drive away and see a fraction of the traffic. Come in autumn for the colours, or in winter when the high fells hold snow and the inns light their fires. Just bring good waterproofs: the Lake District is one of the wettest places in England, and the clouds rarely take a day off.

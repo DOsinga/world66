@@ -1,31 +1,6 @@
 ---
-title: "Bars and Cafes in Bundaberg"
+title: "Bars and Cafes"
 type: section
 ---
 
-**BUNDABERG INTERNET AND TOUR CENTRE**
-
-**Shop 3/197 Bourbong ST **
-
-**Bundaberg 4670 **
-
-**Ph 41514342**
-
-**(Just up from the train station)**
-
-New Internet Cafe opened in Bundaberg, Friendly service, Fast Computers with comfortable Seating.
-
-We also do Tour Bookings for local places, Fraser Island, Airie beach and so much more..Just ask.
-
-Dvd/Cd Burning, phone cards
-
-fax, photocopy, print
-
-Close to Hostels and train Station.
-
-Bus Booking with premier and greyhound
-
-Great place to meet other fellow travellers.
-
-**Contributors**
-May 06, 2010
+Bundaberg's cafe and bar scene clusters around the CBD on Bourbong Street and the nearby riverfront precinct. The city has a strong coffee culture built around the agricultural workforce, and you will find decent espresso alongside the usual Australian cafe staples. A handful of bars serve local Bundaberg Rum alongside the usual beer selection — worth ordering at least once given you are in the distillery's hometown.

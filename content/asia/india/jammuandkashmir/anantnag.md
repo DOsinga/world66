@@ -1,8 +1,14 @@
 ---
-title: "Anantnag"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 33.74611
 longitude: 75.185447
+title: Anantnag
+type: location
 ---
 
-Anantnag is one of the six districts of the Kashmir Valley situated in its south and south western direction. Geographically the district lies between 33 o -20 ' to 34 o -15' north latitude and 74 o -30' to 75 o -35' east longitude, bounded in the north and north-west by Srinagar and Pulwama districts respectively and in the north east by Kargil district. It is also bounded by Doda and Kishtwar tehsil of Doda district in the east and south east and bordered by tehsil Gool Gulab Garh of Udhampur district, Ramban teshsil of Doda district and tehsil Budhal of Rajauri district in the south and south-west. However, its western portion is contigous with Mendhar tehsil. Its entire southern sector and major part of the eastern region is strewn with thick forests and mountains.
+Anantnag is the main town of the southern Kashmir Valley, about 55 km south of Srinagar on the Jhelum River. Known also as Islamabad in older maps, it serves as the gateway district for some of Kashmir's most visited sights in the surrounding countryside.
+
+The Martand Sun Temple, an 8th-century ruined Hindu temple on a plateau with views across the valley, is one of the most significant archaeological sites in Kashmir. Achabal, a Mughal garden with natural spring sources, and Kokernag, a botanical garden built around the largest spring source in the Kashmir Valley, are both within easy reach. The Verinag Garden, at the source of the Jhelum River itself, is another Mughal-era site in the district.
+
+The district is predominantly agricultural — apple orchards, rice fields, and saffron cultivation — and the landscapes around the valley are attractive. Pahalgam, the mountain resort at the head of the Lidder Valley, is within this district and is one of Kashmir's most popular destinations.

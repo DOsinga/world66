@@ -1,8 +1,10 @@
 ---
-title: 'Pantelleria'
+title: Pantelleria
 type: location
 latitude: 36.8315
-longitude: 11.9450
+longitude: 11.945
+done:
+  location_cleanup: 2026-04-06
 ---
 
 If you are looking for a beautiful island in Italy where you can relax,

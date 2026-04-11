@@ -1,27 +1,16 @@
 ---
-title: "Paro"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 27.464637
 longitude: 89.318341
+title: Paro
+type: location
 ---
 
-Paro boasts the only airport in Bhutan. Paro is also one of the most beautiful valleys in Bhutan.
+Paro is the site of Bhutan's only international airport and, for most visitors, the first glimpse of the country. The town sits in a broad, fertile valley in the shadow of Mount Chomolhari (7,320 metres), surrounded by terraced rice paddies and traditional farmhouses.
 
+Despite being little more than a large village, Paro rewards several days. The valley was once the capital of western Bhutan and is dense with historic sites. The Ta Dzong, a 17th-century watchtower, now houses the National Museum. Below it stands the Rinpung Dzong, one of the finest fortress-monasteries in the country, used as a location in Bertolucci's *Little Buddha*. The 7th-century Kyichu Lhakhang, one of the oldest temples in Bhutan, is another highlight.
 
- 
- The town of Paro sits in the shadow of 24 000-ft/7 320-m Mt. Chomolhari (Divine Mountain). Because Paro has Bhutan’s only airport, most travelers arrive there first.
+The most famous sight is the Taktsang Monastery — the Tiger's Nest — built on a sheer cliff face 900 metres above the valley floor. The hike up takes two to three hours and is steep, but the setting is extraordinary. According to legend, Guru Rinpoche flew to this ledge on the back of a tiger.
 
-
- Though it’s really only a large village we recommend three nights to get used to the altitude as well as to see the many sights related to Paro’s days as capital of the western region.
-
-
- Among those sights are the 200-year-old Ta Dzong (now the National Museum) the Rinchen Pung Dzong (sacred scrolls icons etc.) the Rimpong Dzong the 7th-century Kyichu Lhakhang (holy temple) and the Dungtse Lhakhang (temple).
-
-
- Also worth seeing are the fortresses and monasteries of Paro Dzong where Bertolucci’s *Little Buddha* was filmed and Drugyel Dzong named after a famous victory of the Bhutanese over Tibetan invaders (about 15 mi/24 km northwest of town). On a full-day trip it’s possible to visit the site of the Taktsang Monastery (Tiger’s Nest) which was destroyed by fire last year (1998). Rehabilitation is underway. It was built on a 7 000-ft/2 000-m rock ledge overlooking the Paro Valley. It is accessible only by a narrow footpath. According to legend the monastery was founded by Guru Rimpoche who landed there on the back of a flying tiger.
-
-
- If you’re there on a weekend be sure to visit the colorful Paro market where grains, chillies, oranges, bananas and a host of other items are sold.
-
-
- The Paro Tsechu (festival) is held in late March. 12 mi/20 km straight-line or 35 mi/55 km by road west of Thimphu.
+The weekend market is lively and colourful, with stalls selling chillies, grain, and local produce. The Paro Tsechu, one of Bhutan's most important festivals, is held in late March and features masked dances and religious ceremonies. Paro is about 55 kilometres by road west of [Thimphu](/asia/bhutan/thimphu).

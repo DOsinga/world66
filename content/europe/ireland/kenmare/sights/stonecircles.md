@@ -1,8 +1,0 @@
----
-title: "Stone Circles"
-type: poi
-latitude: 54.70157
-longitude: -6.936995
----
-
-Thousands of years ago people spoke in stone. Great circles of huge stone like Stonehenge and the marvellously decorative and evocative passage-grave at Newgrange spoke volumes to the peoples of those times. Today we look a wonder, because these silent relics of pre-historic human activity do not answer all the questions they raise in our minds. Here in the South West of Ireland there are many stone circles. They stand in ungarnished simplicity and they leave us wondering.The typical stone circle consists of a ring of stones with a recumbent stone. Frequently such a stone occupies the centre of the enclosure. There are many variations - the size of the stones used, the plan of the enclosure and the resence of associated monument outliers. They are seldom found below the 500-foot contoursThe stone circle, like others of its kind, is over 3,000 years old. It consists of 15 stones arranged in a circle, the diameter of which is 55 feet. This monument may simply be a pre-historic burial place, with a circle of stones girdling a bolder dolmen. A monument of this kind would only be erected to a particularly important person. It may subsequently have been a place for periodic ritual assemblies, where those gathered would express some aspect of their understanding of death. Many of these stone circles are very precisely orientated in relation to the sun. As such they are capable of being used as primitive but accurate calendars - this would be very useful for agricultural purposes. Perhaps there was some form of ritual sun worship associated with these mute sentinels of the past.The Circle known locally as the "Druids Circle" is situated beyond the end of Market Street.

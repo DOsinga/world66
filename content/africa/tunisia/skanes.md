@@ -1,11 +1,12 @@
 ---
-title: "Skanes"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.766
+longitude: 10.7774
+title: Skanes
 type: location
-latitude: 35.766022
-longitude: 10.777435
 ---
 
-Skanes is a suburb just 8 km south of [Monastir](/africa/tunisia/monastir). Most of the hotels are situated in Skanes. Most visitors tend to stick to the beaches outside their hotels where the soft sand is well maintained. Watersports are ample as are parasols. Local traders often patrol the beaches selling pottery and can become tiresome.
+Skanes is a coastal suburb 8km south of [Monastir](/africa/tunisia/monastir), dominated by a string of large beach resort hotels. The beaches are well-maintained, the water clean, and watersports are widely available — but this is very much package-holiday Tunisia rather than local life. Beach vendors can be persistent.
 
-
- For a glance of real Tunisia head for Monastir immediately. For the actual thing head of for places like [Kairouan](/africa/tunisia/kairouan), [Tunis](/africa/tunisia/tunis) or [Sfax](/africa/tunisia/sfax).
+If you want a feel for the real Tunisia, make the short trip to Monastir's old medina and ribat. Better still, head inland to [Kairouan](/africa/tunisia/kairouan), one of the great cities of the Islamic world, or to [Tunis](/africa/tunisia/tunis) or [Sfax](/africa/tunisia/sfax) for something altogether less resort-like.

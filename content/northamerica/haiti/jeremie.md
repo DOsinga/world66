@@ -1,8 +1,10 @@
 ---
-title: "Jérémie"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 18.6461
 longitude: -74.1172
+title: Jérémie
+type: location
 ---
 
 Jérémie is the capital of the Grand'Anse department on Haiti's southwestern peninsula, known as the city of poets for the unusual number of writers and intellectuals it has produced. The area around Jérémie has some of Haiti's most beautiful and remote coastline, with excellent beaches and lush hillsides that receive more rainfall than the rest of the country.

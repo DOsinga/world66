@@ -1,6 +1,10 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Gorgona has several walking trails, all beautiful, which are a great opportunity to learn about its diverse ecosystem. One of them leads to a beach on the other side, Bahia Cocal, and is a one-day trip you can’t miss for this beach is truly breathtaking, and from its shore you can see Gorgonilla, a second, small island. There are several snorkeling and diving spots, for the experts as well as for the amateurs, and a diving station that rents the necessary equipment and teaches diving courses. The boat trip around the island is a must; you can also visit the prison ruins and the small museum, and the beach in front is always an inviting option. If you go during “whale season”, then whale sighting from the beach will be a major part of the trip... just listening to the chants while you swim or dive will be amazing.
+Gorgona's trails, waters, and wildlife are the whole point of being here. Your assigned guide will shape each day around what your group wants to do.
+
+Several walking trails wind through the rainforest, all worthwhile for the chance to see the island's unique ecosystem up close. The standout is the trail to Bahia Cocal, a beach on the far side of the island -- a full-day trip through jungle that ends at a breathtaking stretch of sand with views of Gorgonilla, a smaller neighboring island. The old prison ruins and a small museum are worth a visit for the eerie history.
+
+Snorkeling and diving are excellent, with spots suited to both beginners and experienced divers. A diving station on the island rents equipment and offers courses. A boat trip around the island is a must. During whale season (August to October), humpback sightings from the beach become a daily highlight.

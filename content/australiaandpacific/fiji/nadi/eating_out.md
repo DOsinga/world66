@@ -3,6 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Go to the curry house and get Goat Curry. it is $12. the hot curry is really hot.
+Nadi's food scene reflects its Indo-Fijian population. Curry houses and roti shops line the main street, and you can eat well for very little. Western options exist too, mostly pizza and Chinese places near the highway.
 
-Mama's Pizza is incredibly good too. It is one block closer to the highway from the supermarket/movie theater. Mama's should cost you about $6 pp.
+Head to one of the curry houses on the main drag for goat curry — it is filling, cheap, and genuinely spicy if you ask for the hot version. Mama's Pizza, near the supermarket and cinema, does surprisingly good pies for around FJ$6 per person.

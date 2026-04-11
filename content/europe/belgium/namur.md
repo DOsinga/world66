@@ -1,12 +1,14 @@
 ---
-title: "Namur"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 50.4665
+longitude: 4.8662
+title: Namur
 type: location
-latitude: 50.466528
-longitude: 4.866189
 ---
 
-Namur may not be the most attractive Belgian city but it's still a nice place to visit and an excellent base for exploring the valleys around it which are of great natural beauty. 
+Namur sits at the confluence of the Sambre and the Meuse, a strategic position that made it one of the most contested cities in the Low Countries for centuries. The massive Citadel looming over the rivers is the main reminder of that history — you can walk the ramparts for views over the city and the wooded valleys below.
 
+The city itself is the capital of Wallonia and has a pleasant, understated centre. The old town streets between the cathedral and the river are lined with cafes and small shops. Namur is not as polished as [Bruges](/europe/belgium/bruges) or as lively as [Brussels](/europe/belgium/brussels), but it is genuine and unhurried, and the riverside setting is lovely.
 
- Over the centuries Namur has been one of the main strategic points of the whole of Belgium, on account of its geographical position where the Sambre flows into the Meuse. 
- Namur is also historical town whose foundation goes
+Namur makes an excellent base for exploring the Meuse valley. The towns of Dinant and Rochefort are easy day trips, and the surrounding Ardennes countryside offers cycling, kayaking, and some of Belgium's best walking.

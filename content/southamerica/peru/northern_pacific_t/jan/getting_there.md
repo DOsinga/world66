@@ -13,7 +13,3 @@ From [Chachapoyas](/southamerica/peru/chachapoyas) Movil tours has got buses at 
 
 From Jaén to [Chachapoyas](/southamerica/peru/chachapoyas), the situation is similar, with buses leaving from Bagua Grande at about 11am, 4pm and 12pm. In Bagua Grande there are two bus terminals. If one takes a mototaxi to the one going to Chachapoyas, they might drop him or her off at the place where the cars leave. Blatantly lying they will tell passengers there is no other terminal, or that the bus only leaves at night. This is a good time for travelers to release built up anger.
 
-**Contributors**
-May 25, 2006
-
-February 14, 2008

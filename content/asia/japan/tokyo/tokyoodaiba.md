@@ -1,10 +1,12 @@
 ---
-title: "Tokyo Odaiba"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 35.626286
 longitude: 139.77078
+title: Odaiba
+type: location
 ---
 
-This is the newest part of Tokyo. You can go there by monorail and subway. Very few people live there and the mall (Ocean City) is very big and crowded - mainly with young people who come to Odaiba to see and be seen. Fuji television center and the Toyota car exhibition and of course Rainbow bridge are things you must see. 
+Odaiba is a large artificial island in Tokyo Bay, built on reclaimed land and connected to central [Tokyo](/asia/japan/tokyo) by the Yurikamome monorail and the Rinkai Line. Originally developed as a futuristic waterfront district in the 1990s, it has an oddly spacious, almost surreal feel — wide boulevards, vast shopping malls, and a full-scale replica of the Statue of Liberty facing Rainbow Bridge.
 
-There is also TIEC - Tokyo International Exchange Center - an international dormitory - probably the best place for living normally in this city.
+The main draws are the Fuji Television building (a striking Kenzo Tange design), the teamLab digital art exhibitions, the National Museum of Emerging Science and Innovation (Miraikan), and DiverCity Tokyo Plaza with its towering Gundam statue. Odaiba also has a small artificial beach and several onsen complexes. It is popular with young Tokyoites on dates and draws big crowds on weekends, but can feel oddly empty on weekdays.

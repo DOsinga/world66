@@ -1,14 +1,14 @@
 ---
-title: "Blanding"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 37.623962
 longitude: -109.47802
+title: Blanding
+type: location
 ---
 
-Travel Guide
+Blanding is a small town in San Juan County, in the remote canyon country of southeastern Utah. It is not a destination in itself, but it is the best-supplied town in a vast and empty region and makes a practical base for exploring some of the most rewarding archaeology and landscape in the American Southwest.
 
-Okay, Blanding is not the nicest city, but it's in a beautiful area. There are some small motels, including the usual Best Western, and they are all pretty decent. I stayed in the Cliff Palace, a funky little motel that was the project of a student of Frank Lloyd Wright. Neat, but a bit run down.
+To the west lies Cedar Mesa, a high plateau cut by canyons that shelter hundreds of Ancestral Puebloan sites — cliff dwellings, granaries, and kiva ruins — most of them accessible only on foot and often visited by no one else. Grand Gulch, the most spectacular of the canyons, requires a permit and at least a night in the backcountry. To the north, the Abajo Mountains offer forest scenery and cooler temperatures in summer.
 
-There are the usual restaurants and whatnot for food. Nothing really spectacular here. Two small grocery stores are in town, but their selection is a bit limited. Still, you can get what you need here.
-
-The real draw is the surrounding country. To the north are the Blue Mountains, with great mountain and forest scenery. Camping and hiking can be enjoyed here, along with jeeping and mountain biking. To the west is Cedar Mesa and Grand Gulch, areas full of abandoned ancient villages left by the Pueblo ancestors. Neat stuff!
+The town has motels (including a Best Western), a couple of grocery stores, and basic restaurants. The Edge of the Cedars State Park Museum in town has an excellent collection of Ancestral Puebloan pottery and artifacts from the region.

@@ -1,25 +1,14 @@
 ---
-title: "Three Forks"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 45.892606
 longitude: -111.551448
+title: Three Forks
+type: location
 ---
 
-Travel Guide
+Three Forks is a small town in Gallatin County, [Montana](/northamerica/unitedstates/montana), named for its location near the point where the Jefferson, Madison, and Gallatin rivers converge to form the Missouri River. Meriwether Lewis named the three rivers in July 1805 for President Jefferson, Secretary of State Madison, and Treasury Secretary Gallatin.
 
-Three Forks is a city in Gallatin County, Montana, United
-States. The population was 1,728 at the 2000 census. Three Forks is named
-because it lies near the point, in Missouri Headwaters State Park, where the
-Jefferson, Madison, and Gallatin Rivers converge to form the Missouri River.
+The Missouri Headwaters State Park, just north of town, marks the confluence and is the main reason to stop here. The park has walking trails along the riverbanks, interpretive signs about the Lewis and Clark expedition, and good fishing. A statue of Sacagawea stands in a park off Main Street — she was captured near this spot by the Hidatsa in 1800 and later returned with the Corps of Discovery.
 
-The three rivers, west to east, were named by Meriwether
-Lewis in late July 1805 for President Thomas Jefferson, Secretary of State
-James Madison, and Treasury Secretary Albert Gallatin.
-
-Honored in Three Forks, the Indian woman Sacagawea is best
-known as the interpreter and guide for the Lewis and Clark Expedition. In 1800,
-she was captured by the Mennetaree tribe near the present site of Three Forks.
-She later returned to this area with Lewis and Clark and the Corps of
-Discovery. A statue of Sacagawea now sits in a park off Main Street.
-
-The Three Forks school mascot is the Wolves.
+Three Forks sits at the western end of the Gallatin Valley, about 30 miles west of [Bozeman](/northamerica/unitedstates/montana/bozeman). The Madison River to the south is famous for trout fishing.

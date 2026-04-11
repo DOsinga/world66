@@ -1,8 +1,12 @@
 ---
-title: "Lovina"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -8.160924
 longitude: 115.024532
+title: Lovina
+type: location
 ---
 
-Lovina is the group name for a bunch of small coastal villages on the north coast of Bali. It is probaly better known as the snorkelling, swimming and relaxing paradise and you won't have a problem finding accommodation, 'cause the area is packed with hotels. Despite the flock of tourists to the black volcanic beaches and their urge to spot dolphins, Lovina is still quite laid back, unspoilt and not that expensive.
+Lovina is a string of small coastal villages along the north coast of [Bali](/asia/indonesia/bali), stretching several kilometres either side of the main settlement of Kalibukbuk. It is the north coast's main tourist area, but feels like a different world from the south — quieter, cheaper, and more laid-back.
+
+The beaches are volcanic black sand, the sea is calm, and the main draw is the morning dolphin-watching trips that head out before dawn. The snorkelling is good, particularly around the reef at nearby Menjangan Island. Lovina makes a practical base for visiting the Banjar hot springs, the Buddhist monastery at Brahma Vihara Arama, and the waterfalls in the hills above the coast.

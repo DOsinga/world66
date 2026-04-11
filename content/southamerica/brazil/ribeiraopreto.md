@@ -1,8 +1,12 @@
 ---
-title: "Ribeirao Preto"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -21.1776
+longitude: -47.8101
+title: Ribeirao Preto
 type: location
-latitude: -21.177632
-longitude: -47.810098
 ---
 
-Ribeirão Preto is a municipality and city in the state of São Paulo, Brazil. It's nicknamed "Brazilian California", because of a combination of an economy based on agrobusiness plus high technology, wealth and sunny weather all year long. With a little more than 550,000 inhabitants, Ribeirão Preto is the fourth largest municipality in the state, after the capital city, São Paulo, Campinas and Santos. With a total area of 652,2 km2, its localization is 21º 10’ 42" South e 47º 48’ 24" West; and it is situated at 289 km from the capital city and at 516 km from Brasília, the federal capital. Mean altitude is 546,8 m. Ribeirão Preto is the center of an urban agglomeration with about 827 mil inhabitants.
+Ribeirão Preto sits in the sugarcane and coffee heartland of São Paulo state, about 300 km northwest of the capital. It earned the nickname "Brazilian California" — sunshine most of the year, an agricultural economy that generates serious wealth, and a tech sector growing alongside it. With around 700,000 people, it is one of the largest cities in the interior of Brazil, and it feels prosperous and self-confident in a way that many interior cities do not.
+
+The city's identity is tied to agribusiness: the surrounding region produces sugar, ethanol, and orange juice on an enormous scale. That agricultural wealth shows up in the city itself — good restaurants, a lively bar scene, well-maintained parks, and a university (USP Ribeirão Preto) that keeps the population young. It is not a major tourist destination, but travellers passing through the São Paulo state interior, or heading toward Minas Gerais, will find it a comfortable and unpretentious stop.

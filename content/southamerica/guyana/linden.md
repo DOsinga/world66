@@ -1,8 +1,10 @@
 ---
-title: "Linden"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 6.010002
 longitude: -58.312488
+title: Linden
+type: location
 ---
 
 Linden is Guyana's second-largest town, about 100km south of Georgetown on the Demerara River. It grew up around bauxite mining in the early 20th century and the industry still defines the place: the skyline is dominated by the old processing infrastructure, and the reddish laterite soil of the surrounding area gives it a distinctive colour.

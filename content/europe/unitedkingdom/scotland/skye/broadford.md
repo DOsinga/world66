@@ -1,12 +1,10 @@
 ---
-title: "Broadford"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 57.241015
 longitude: -5.90618
+title: Broadford
+type: location
 ---
 
-We currently have no information about Broadford.
-
-If you do know any general information about Broadford, please [Edit this article].
-
-If you know any hotels in Broadford or restaurants in Broadford, please [[Add].](/destinations/addItemWizard?addwhere=europe/unitedkingdom/scotland/skye/broadford)
+Broadford is the second-largest settlement on Skye, on the southeastern coast of the island. It has a supermarket, petrol station, and a range of accommodation, making it a practical base for exploring southern Skye, Sleat, and the road to Elgol. The Skye Serpentarium (reptile sanctuary and exhibition) is in the village.

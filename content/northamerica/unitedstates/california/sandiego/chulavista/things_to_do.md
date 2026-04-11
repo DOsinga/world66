@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-ARCO Olympic Training Center
-
-FREE daily tours of an official U.S. Olympic training facility overlooking Otay Lakes. Spirit Store sells official U.S. Olympic merchandise and collectibles. Making Olympic dreams come true. 2800 Olympic Pkwy. 91915 619/656-1500 Fax: 619/482-6200 www.olympic-usa.org Wheelchair Access
+Chula Vista's main draw for visitors is the US Olympic and Paralympic Training Center, which offers free public tours of a working elite sports facility. The surrounding hills and bay shoreline also have some decent walking and nature areas.

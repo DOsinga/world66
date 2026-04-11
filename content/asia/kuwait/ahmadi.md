@@ -1,8 +1,10 @@
 ---
-title: "Ahmadi"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 29.0928
+longitude: 48.0813
+title: Ahmadi
 type: location
-latitude: 28.853857
-longitude: 48.165238
 ---
 
 Ahmadi is Kuwait's oil town, built by the Kuwait Oil Company in the 1940s and named after the ruling Emir at the time. It sits about 40 km south of [Kuwait City](/asia/kuwait/kuwaitcity) and feels like a different world -- tree-lined avenues, small houses with gardens, and a quiet, almost suburban atmosphere that is rare in Kuwait.

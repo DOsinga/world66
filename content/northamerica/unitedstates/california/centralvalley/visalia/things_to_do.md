@@ -1,27 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "general"
 ---
 
-### [Central California Chinese Cultural Center](/northamerica/unitedstates/california/centralvalley/visalia/thingstodo/centralcaliforniachineseculturalcenter)
-
-500 S. Akers Rd. 93277 559/625-4545
-
-type: general
-
-
-
-### [Paramount Citrus](/northamerica/unitedstates/california/centralvalley/visalia/thingstodo/paramountcitrus)
-
-36445 Rd. 172 93292 559/798-3100
-
-type: general
-
-
-
-### [Tulare County Museum](/northamerica/unitedstates/california/centralvalley/visalia/thingstodo/tularecountymuseum)
-
-27000 S. Mooney Blvd. 93277 559/733-6616
-
-type: general
+Visalia's main draws are its proximity to the national parks and a handful of genuinely interesting stops in and around the city. The Tulare County Museum is the standout — a solid local history collection inside Mooney Grove Park, which itself is a pleasant place to wander. The Kaweah Oaks Preserve offers a rare look at what the valley floor looked like before agriculture took over.

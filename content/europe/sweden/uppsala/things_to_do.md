@@ -1,11 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-There are plenty of things to do in Uppsala. Shopping along the main
-street is quite popular, but the many historical sites and museums are
-not to be missed.
-
-**Contributors**
-October 19, 2005
+Uppsala packs a surprising amount of history into a compact area. The medieval cathedral and castle dominate the western skyline, while the ancient Viking mounds at Old Uppsala lie just a short bus ride north. In between, the legacy of Carl Linnaeus — botanical gardens, a preserved home, a countryside estate — threads through the city. Most of the key sights are walkable from the central station.

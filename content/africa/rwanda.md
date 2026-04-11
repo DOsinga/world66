@@ -1,13 +1,23 @@
 ---
-title: "Rwanda"
+title: Rwanda
 type: location
-latitude: -2.000205
-longitude: 30.000396
+latitude: -1.9403
+longitude: 29.8739
+image: rwanda.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Seven_Volcanoes_-_Musanze,_Rwanda_(cropped).jpg
+image_license: CC BY-SA 2.0
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/84985982@N00">Andrew
+  Moore</a> from Johannesburg, South Africa
+done:
+  country_cleanup: 2026-03-31
 ---
 
-Rwanda is a small country in East Africa. Located between [Tanzania](/africa/tanzania), [Kenya](/africa/kenya), [Congo Kinshasa](/africa/congokinshasa) and [Burundi](/africa/burundi). On the small surface you find many mountains since the country is split by the Rift Valley, and dominated by a mountain range that traverses the country from north to south.
+Rwanda is a small, landlocked country in East-Central Africa — roughly the size of Maryland — yet it packs in an extraordinary variety of landscapes. The "Land of a Thousand Hills" is exactly that: a country of steep green ridges, tea plantations, volcanic peaks, and deep crater lakes. Dense rainforest in the southwest gives way to open savanna in the east. It is one of the most densely populated countries in Africa.
 
+Rwanda was the site of one of the worst atrocities of the twentieth century. In the spring of 1994, in the space of roughly 100 days, an estimated 800,000 people — the vast majority of them Tutsi — were killed in a genocide organized by Hutu extremists while the international community largely stood by. The country was destroyed, its population traumatized, its institutions shattered.
 
- [Kigali](/africa/rwanda/kigali) the capital is not really worth a visit unless it is for arranging the rest of your trip - and if you want to be visiting the national parks in the west you probably need to pass by.
+What has happened since is genuinely remarkable. Rwanda rebuilt quickly, achieved broad political stability, and tackled development with unusual seriousness. Kigali is now one of Africa's cleanest and most orderly cities. Roads are well maintained. Corruption is low by regional standards. Women hold more than half of parliamentary seats — a world record. The country feels, in many ways, more organized and functional than you might expect.
 
-The three principal areas of interest are the [Volcanoes national park](/africa/rwanda/volcanoesnationalpark), the place to see the last mountain gorillas of the planet, the [Akagera national park](/africa/rwanda/akageranationalpark) and the region around Lake Kivu.
+Visitors come primarily to trek mountain gorillas in Volcanoes National Park — one of the world's great wildlife experiences — and to explore the genocide memorials, which are frank, sobering, and essential. But there is more: Nyungwe Forest for chimpanzees and colobus monkeys, Akagera National Park for the classic East African savanna experience, and Lake Kivu for scenery and relaxation. [Kigali](/africa/rwanda/kigali) itself has a strong café culture, good restaurants, and a growing arts scene.
+
+Rwanda is not cheap — gorilla permits alone cost $1,500 per person — but the experience is unlike anywhere else on the continent.

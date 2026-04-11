@@ -1,13 +1,11 @@
 ---
 title: "Williams Dam"
 type: location
-latitude: 43.226489
-longitude: -72.807292
+latitude: 38.8200
+longitude: -87.0400
+todo_location_cleanup: done
 ---
 
-Williams Dam, Indiana is a sleepy little villiage along th east fork of white river. There is not to much to the villiage nowdays, Popualion of about 400. It is a mere shadow of its former glory days during the WWII era. At one time the villiage hosted a gas station, several stores, twelve grade school, a hotel and resturant even a dance hall. A water generated power plant served the surrounding community and the river was used as means of transporation of goods.
+Williams Dam is a quiet village on the east fork of the White River in Indiana, population around 400. Once a more substantial community — with a gas station, stores, a twelve-grade school, a hotel and restaurant, a dance hall, and a water-powered generating plant that served the surrounding area — it is now a shadow of its WWII-era peak.
 
-Now days this sleepy village's only industry is tourism. The fishing and site-seeing are great and the villiage host one of the few remaining intact cover bridges. There is a state park for camping, a restrurant and a bait and tackle shop that is also a museum.
-
-**Contributors**
-January 18, 2006
+Today the village survives on tourism. The fishing and scenery are the main draws, and the village is home to one of Indiana's few remaining intact covered bridges. There is a state park for camping, a restaurant, and a bait-and-tackle shop that doubles as a small museum.

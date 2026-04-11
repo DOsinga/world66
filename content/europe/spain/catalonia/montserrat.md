@@ -1,10 +1,13 @@
 ---
 title: "Montserrat"
 type: location
-latitude: 39.357649
-longitude: -0.6031
+latitude: 41.5928
+longitude: 1.8353
+todo_location_cleanup: done
 ---
 
-Montserrat is the spiritual heart of Catalonia and here you can find the high peaks of the Serra de Montserrat. These weird sawtoothed peaks have given rise to countless legends: Here, Parsifal found the Holy Grail, St Peter left a statue of the Virgin Mary and Wagner sought inspiration for his opera.
+Montserrat is the spiritual heart of Catalonia, a dramatic massif of jagged serrated peaks rising out of the plains northwest of Barcelona. The name means "serrated mountain," and the silhouette lives up to it — the strange, rounded rock formations have inspired legends across the centuries, including the story that Parsifal found the Holy Grail here and that Wagner sought inspiration for his opera among the peaks.
 
-Besides this all you can also bring a visit to Museu de Montserrat or take a walk around the mountain, to its various caves and ruined hermitages. To have a wonderful view of the Pyrenees, make the easy walk called Los Degotalls. A funicular (cable car) ascends from the Placa Santa Creu to the Santa Cova and another will lift you up to the Hermitage of Sant Joan. From her you can make a spectacular walk in just over an hour up to the Hermitage of Sant Jeroni.
+The Benedictine monastery of Santa Maria de Montserrat, founded in the 11th century, occupies a ledge partway up the mountain and houses the venerated **Black Madonna** (La Moreneta), patron saint of Catalonia. Pilgrims come year-round. The **Museu de Montserrat** has a noteworthy collection of paintings, including works by El Greco, Caravaggio, and several Impressionists.
+
+For those who want to go higher, funiculars ascend to the Santa Cova chapel and to the hermitage of Sant Joan, from which a spectacular walk leads in just over an hour to the highest hermitage, Sant Jeroni. The easy walk called Los Degotalls gives excellent views of the Pyrenees on a clear day. Montserrat is about an hour from Barcelona by train and rack railway.

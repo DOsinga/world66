@@ -1,18 +1,14 @@
 ---
-title: "Fergus Falls"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 46.283
+longitude: -96.0776
+title: Fergus Falls
 type: location
-latitude: 46.283015
-longitude: -96.077558
 ---
 
-Travel Guide
+Fergus Falls is a small city of about 13,000 in west-central Minnesota, the county seat of Otter Tail County — which claims to have over a thousand lakes within its borders. Five of those lakes lie within the city limits itself. If you are driving between the Twin Cities and Fargo, Fergus Falls is the halfway point and a reasonable stop.
 
-History of Fergus Falls
+The town was founded in 1857 and named by a scout called Joe Whitford after his employer, James Fergus. The Otter Tail River runs through the centre, and a five-block walking path along the riverbank near downtown makes for a pleasant stretch. The city has 22 parks covering over 550 acres — an unusual amount of green space for a town this size.
 
-In 1857, Joe Whitford was sent by his employer, James Fergus, to locate a site for a new community. Along the way he encountered an Indian family who told him of a location where there was a big falls or rapids. After locating the rapids, Whitford staked out a town site at the big falls and named it Fergus Falls in honor of his employer.
-
-In 1870, George B. Wright purchased the town site for just over $100.00. He built a dam on the river to power a sawmill. From that time on, the building in Fergus Falls was limited only by the ability of the mill to furnish lumber.
-
-On March 1, 1872, Fergus Falls was chartered as an official village of the State of Minnesota and the County Seat of Otter Tail County. Fergus Falls is located in West Central Minnesota near the fertile Red River Valley. Rich rolling farmland, wooded hills, and over 1,000 lakes combine to make both agriculture and tourism valued industries in Otter Tail County. The retail trade area includes approximately 100,000 people making Fergus Falls a regional center for shopping, education, recreation, medical treatment, and entertainment. Today Fergus Falls is a community of approximately 13,000 residents.
-
-Many honors have been bestowed on our community during recent years including Tree City USA. Fergus Falls can be called a City of Parks also as it contains 22 parks covering over 550 acres. We also have a scenic five-block walking path along the Otter Tail River near downtown Fergus Falls. Five lakes lie within the city limits and over 1,000 lakes are less than one hour's driving time away. The clear lakes in Otter Tail County provide opportunities for fishing, swimming, and water sports.
+Fergus Falls is more a base than a destination. The lakes in Otter Tail County offer good fishing, swimming, and water sports, and the rolling farmland and wooded hills around the city are attractive for driving or cycling.

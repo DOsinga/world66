@@ -3,11 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-****
+Eating in Kratie is cheap, local, and centred on the river and the market. There are no tourist restaurants to speak of — which is part of the charm.
 
-The stalls on the riverbank provide good cheap Khemer food. A bowl of chicken porrige is 0.36 US cents and a bowl of pork with Chinese noodles is 0.50 US cents.
-
-Snacks at the market include steamed pork buns (0.12 US cents each) and beancurd patties (0.02 US cents each).
-
-**Contributors**
-September 03, 2005
+The stalls on the riverbank serve good, simple Khmer food. A bowl of chicken porridge runs around US$0.36 and pork with Chinese noodles US$0.50. At the market, steamed pork buns are US$0.12 each and beancurd patties just US$0.02 — ideal for a cheap, filling breakfast before heading out to see the dolphins.

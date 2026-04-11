@@ -1,8 +1,10 @@
 ---
-title: "Tai national park"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 5.630703
 longitude: -7.118699
+title: Tai national park
+type: location
 ---
 
 We currently have no information about Tai national park.

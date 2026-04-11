@@ -1,31 +1,14 @@
 ---
-title: "Karula National Park"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 57.7081
+longitude: 26.4947
+title: Karula National Park
 type: location
-latitude: 57.708134
-longitude: 26.494712
 ---
 
-Travel Guide
+Estonia's smallest national park, established in 1993, covers the rolling Karula uplands in Valgamaa. The landscape was shaped by continental glaciers thousands of years ago and is noted for its rich diversity — marshes, swamp-forests, small lakes, streams, meadows and flower-covered knolls and hills.
 
-**Karula National Park** is in Valgamaa of Estonia.
+Seventy per cent of the park is forest, and 38 lakes are scattered across the territory. The cultural landscape is sparsely inhabited, with narrow fields, patches of forest, mires, meadows and old farmsteads giving it an especially intimate feel. This is a place for quiet walking and birdwatching, not crowds.
 
-It's Estonian's smallest and it was recognised as a national park in 1993.
-
-The landscape of the Karula uplands, formed thousands of years ago
-by continental glacial activity, is noted for its rich diversity;
-marshes, swamp-forests, small lakes, streams, meadows and
-floret-covered knolls and hills.
-
-Seventy per cent of the territory of the national park is forest and there are 38 lakes.
-
-The cultural landscape is sparsely inhabited. Narrow fields,
-plots of forests, mires, meadows and farmsteads all give the landscape
-an especially intimate feel.
-
-The most typical large mammals living in the park are moose, western
-roe deer, wild boar and lynx. Common small mammals include the red fox,
-raccoon dog, polecat, brown hare, red squirrel and European beaver.
-
-157 species of birds have been spotted in Karula National Park.
-**More information **about Karula National Park can be found on the official tourist
-information website of Estonia (http://www.visitestonia.com/en/destinations/national-parks/karula) and Karula National Park (http://www.karularahvuspark.ee).
+Moose, western roe deer, wild boar and lynx are the most typical large mammals, alongside red fox, raccoon dog, polecat, brown hare, red squirrel and European beaver. Over 157 bird species have been recorded in the park.

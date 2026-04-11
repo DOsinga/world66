@@ -3,22 +3,10 @@ title: "Richardson's"
 type: poi
 address: "222 W Route 66"
 phone: "505-722-4762"
-type: "Speciality shops"
 url: "www.richardsontrading.com"
-latitude: 35.250642
-longitude: -112.189049
+latitude: 35.5241
+longitude: -108.7420
+category: Shopping
 ---
 
-Their ad says "come to where the Indians trade," and they aren't making it up. The store is a classic old trading post, right on Route 66 in the downtown. Go inside, and be blown away by the sheer overwhelming volume of "Indian stuff" that they have. Go back out, take a long break, then go back inside to look some more.
-
-type: Speciality shops
-
-
-
-
-
-tel: 505-722-4762
-
-url: [www.richardsontrading.com](http://www.richardsontrading.com)
-
-address: 222 W Route 66
+A classic old trading post right on Route 66 in downtown Gallup. Their ad says "come to where the Indians trade," and they aren't exaggerating. An overwhelming volume of Native American jewelry, rugs, pottery, and pawn goods. Go in, be overwhelmed, take a break, go back in again.

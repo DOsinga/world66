@@ -1,11 +1,14 @@
 ---
-title: "Buffalo River"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 36.0829
+longitude: -92.766
+title: Buffalo River
 type: location
-latitude: 42.862945
-longitude: -78.842872
 ---
 
-The Buffalo River is one of the few remaining unpolluted, free-flowing rivers in the lower 48 states offering both swift-running and placid stretches. The Buffalo National River encompasses 135 miles of the 150-mile long river. It begins as a trickle in the Boston Mountains 15 miles above the park boundary. Following what is likely an ancient riverbed, the Buffalo cuts its way through massive limestone bluffs traveling eastward through the Ozarks and into the White River. The national river has three designated wilderness areas within its boundaries. 
+The Buffalo River is one of the few remaining unpolluted, free-flowing rivers in the lower 48 states. Designated as America's first national river in 1972, it carves 135 miles through the Arkansas Ozarks, cutting past massive limestone bluffs that rise hundreds of feet above the water. The river offers everything from swift whitewater in the upper stretches above Ponca to broad, lazy floats in the lower sections — making it a paddler's destination for all skill levels.
 
+The national river contains three designated wilderness areas and protects a remarkably intact stretch of Ozark hill country. Elk roam the valleys near Boxley, often visible from the road in the early morning. Trails range from short bluff-top walks to multi-day backpacking routes. The river is best experienced by canoe or kayak — outfitters along the route rent boats and can arrange shuttles between put-ins and take-outs.
 
- Headquarters is located in Harrison, Arkansas, providing administrative services to the national river. The Tyler Bend Visitor Center, the main visitor center for the park, is located eleven miles north of Marshall, Arkansas. The park has two other visitor contact stations; the Pruitt Ranger Station, located five miles north of Jasper, Arkansas on Highway 7, and Buffalo Point Ranger Station, located 17 miles south of Yellville, Arkansas, on Highway 14.
+Headquarters is in Harrison; the main Tyler Bend Visitor Center sits eleven miles north of Marshall. The Pruitt Ranger Station is five miles north of Jasper on Highway 7, and the Buffalo Point Ranger Station is 17 miles south of Yellville on Highway 14.

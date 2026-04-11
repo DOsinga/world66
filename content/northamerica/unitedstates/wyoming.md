@@ -1,18 +1,14 @@
 ---
-title: "Wyoming"
+title: Wyoming
 type: location
-latitude: 43.170026
-longitude: -107.568534
+latitude: 43.1700
+longitude: -107.5685
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Form the Badlands to [Yellowstone](/northamerica/unitedstates/wyoming/yellowstone) Wyoming is a very exciting state to explore. It offers rough and rugged outdoors traveling and great natural beauty. 
- [Jackson hole](/northamerica/unitedstates/wyoming/jacksonhole) is an ideal starting place to go to Grand Teton, [Yellowstone](/northamerica/unitedstates/wyoming/yellowstone), to go skiing or to enjoy one of the many other outdoor activities.
+Wyoming is the least populous state in the US and one of the most dramatic in landscape. The Rocky Mountains run through the west; the Great Plains extend across the east; and the Continental Divide crosses the state. Two of America's great national parks — Yellowstone and Grand Teton — occupy the northwest corner, making that area the most visited part of Wyoming and one of the most popular outdoor destinations in the country.
 
+[Yellowstone](/northamerica/unitedstates/wyoming/yellowstone) is the world's oldest national park and the site of half the earth's geothermal features — geysers, hot springs, mud pots, and fumaroles across a landscape shaped by one of the largest volcanic systems on the planet. [Jackson Hole](/northamerica/unitedstates/wyoming/jacksonhole) is the valley south of Grand Teton and the main base for both parks, with skiing at Jackson Hole Mountain Resort in winter and world-class hiking and wildlife watching in summer. Moose, elk, bison, and grizzly bears are regularly seen in both parks.
 
- The state also has quite a few interesting historic sights. Most are related to the covered wagon emigration trails of the 19-th century. They all came together in Wyoming and several forts arose to meet the settlers' needs.
-
-
- Many of these trails and forts can still be found in Wyoming, allowing 21st century visitors a unique opportunity to step back into the past. The actual wagon wheel ruts of the old trails can still be seen in many places. Modern highways also follow or parallel the trails, a testament to the skill of those early scouts and explorers who relied only on dead reckoning and the lay of the land to establish the covered wagon routes. 
-
-
- The lovers of museums should head for the capital city [Cheyenne](/northamerica/unitedstates/wyoming/cheyenne) or to Cody. The Buffalo Bill Historical Center in Cody, actually four in one complex, was tabbed by The New York Times as "The Smithsonian of the West." The Wyoming State Museum in Cheyenne which tells the stories of Wyoming's human and natural history and the Cheyenne Frontier Days Old West Museum, also in Cheyenne, showcases one of the world's largest and finest collections of horse-drawn vehicles. Art is also showcased at facilities like the University of Wyoming Art Museum in Laramie, the Nicolaysen Art Museum in [Casper](/northamerica/unitedstates/wyoming/casper), the Bradford Brinton Memorial in Big Horn, the National Museum of Wildlife Art in [Jackson](/northamerica/unitedstates/mississippi/jackson) and the Charles Belden Museum in Meeteetse.
+Away from the northwest, Wyoming rewards those who explore. The Oregon Trail, California Trail, and Mormon Pioneer Trail all crossed the state, and wagon wheel ruts are still visible in places. Historic forts along these routes — Fort Laramie, Fort Bridger — preserve the frontier era. Devil's Tower, in the northeast, is an extraordinary rock formation and the first US National Monument, declared by Theodore Roosevelt in 1906. [Cheyenne](/northamerica/unitedstates/wyoming/cheyenne), the capital, hosts Cheyenne Frontier Days each July — one of the largest outdoor rodeos in the world. [Cody](/northamerica/unitedstates/wyoming/cody), founded by Buffalo Bill, has the Buffalo Bill Center of the West (five museums in one complex), described by the New York Times as the Smithsonian of the West.

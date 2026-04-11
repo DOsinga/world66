@@ -1,8 +1,10 @@
 ---
-title: "Ciudad Bolívar"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 8.102853
 longitude: -63.546956
+title: Ciudad Bolívar
+type: location
 ---
 
 Ciudad Bolívar is a colonial city on the southern bank of the Orinoco, and the main jumping-off point for trips to Angel Falls, Canaima National Park, and the Gran Sabana. Most travelers arrive here by bus from Caracas or by connection from Ciudad Guayana, then book a light-aircraft tour to Canaima.

@@ -1,5 +1,7 @@
 ---
-title: "Taboga"
+done:
+  location_cleanup: '2026-04-09'
+title: Taboga
 type: location
 ---
 

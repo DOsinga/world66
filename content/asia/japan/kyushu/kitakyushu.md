@@ -1,18 +1,14 @@
 ---
-title: "Kitakyushu"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 33.883
-longitude: 130.874901
+longitude: 130.8749
+title: Kitakyushu
+type: location
 ---
 
-Kitakyushu is a metropolitan city of two million people located midway between [Tokyo](/asia/japan/tokyo) and [Shanghai](/asia/china/shanghai), China. The area has been an important trade center since ancient times, and an important industrial area in more recent times. Kitakyushu City was created in 1963 with the world's first five-city merger.
+Kitakyushu sits at the northern tip of Kyushu, looking across the narrow Kanmon Strait to Honshu. It's a city built on steel and coal — one of Japan's great industrial heartlands — and it carries that history visibly in its architecture, its port districts, and its gritty, unpretentious character.
 
-Each of the five original cities [Moji, Kokura, Wakamatsu, Yahata and Tobata] has retained its own distinct character, with Kokura being the most lively section of Kitakyushu.
+The city was created in 1963 through the merger of five distinct towns: Moji, Kokura, Wakamatsu, Yahata, and Tobata. Two million people live here, yet it feels nothing like Tokyo or Osaka. Each of the old towns has kept its own identity. Kokura is the commercial heart, with covered shopping arcades and a castle. Moji, near the strait crossing, has preserved its Meiji-era port architecture and reinvented itself as a heritage destination. Yahata and Tobata still wear their industrial past on their sleeves.
 
-## Destinations in Kitakyushu
-
-[Moji](/asia/japan/kyushu/kitakyushu/moji)
-[Kokura](/asia/japan/kyushu/kitakyushu/kokura)
-[Tobata](/asia/japan/kyushu/kitakyushu/tobata)
-[Yahata](/asia/japan/kyushu/kitakyushu/yahata)
-[Wakamatsu](/asia/japan/kyushu/kitakyushu/wakamatsu)
+Most visitors base themselves in Kokura and make day trips from there. It's an easy city to navigate and rewards those willing to explore beyond the obvious.

@@ -1,15 +1,14 @@
 ---
-title: "Metsovo"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 39.7693
+longitude: 21.183
+title: Metsovo
 type: location
-latitude: 39.769301
-longitude: 21.183048
 ---
 
-Travel Guide
+Metsovo is a stone-built mountain town perched at 1,150 metres on the Pindos range, at the crossroads where [Epirus](/europe/greece/epirus), Thessaly, and western Macedonia meet. It feels more Alpine than Mediterranean — steep cobbled streets, slate-roofed houses, wood smoke in the air, and locals who still wear traditional Vlach dress on festival days.
 
-**Metsovo** is one of the most picturesque and traditional towns in [Greece](/europe/greece). It is built like an amphitheatre at an altitude of 1.156m., on one of the highest peaks of the **Pindos** range at the junction of [Epirus](/europe/greece/epirus), Thessaly and Western [Macedonia](/europe/macedonia). It is the capital of the homonym province and it has a population of 6.000 inhabitants.
-The first reference to Metsovo was made in 1380 A.D. in the chronicle of the Philanthropinos brothers **Proklos** and **Komnenos**.
-At first, Metsovo used to be a small settlement of shepherds. Later, due to its important geographical location, Metsovo acquired a number of privileges that contributed to its survival and accelerated the development course in difficult times.
-Such privileges were granted in 1430 A.D. by the **Sultan Murat II** as a reward for the good behavior of the Metsovite guards of Zygos to the Ottoman trοops of Sinan Pasha, who were heading for [Ioannina](/europe/greece/ioannina). Τhe **Sultan Mehmet IV** renewed the privileges in 1659. Based on these privileges, Metsovo and the surrounding villages of Malakasi, Milia, Anilio, Votonosi, Palia Koutsoufliani (Platanistos) and Derventista (Anthochori) formed a federation, an autonomous, democratic state within the limits of the **Ottoman Empire**. The privileges granted to Metsovo, with the exception of the Patriarchal Hexarchy that was preserved until 1924, were abolished in 1795 by Ali Pasha. In 1700 A.D., a self-catering Greek school was founded in Metsovo to become one of the most important education centers, staffed with the eminent teachers of that time. Metsovo suffered considerable destruction on March 27, 1854 by the Ottoman troops of **Abdi Pasha**. This became known as the "**Grivas disaster**". Following the "Grivas disaster", Metsovo experienced a unique progress that was attributed to the large number of benefactors, who hailed from the town and offered substantial sums of money in order to contribute to its re-establishment.
-Metsovo was liberated from the Turkish yoke on October 31, 1912 by forces of the Greek Army and Cretan and Epirot volunteers.
-Decisive role in the economic and cultural development of Metsovo played the Baron **Mihail Tossizza Foundation**, established in 1948 by the Baron himself at the instigation and the encouragement of **Evangelos Averoff Tossizza**. Among the great men of Metsovo are: the Metsovian neomartyr Nicholaos (+May 17, 1617), the teachers of the nation during the Turkish occupation Nicholaos Tzartzoulis, Parthenios Katzioulis, Dimitrios Vardakas, Tryfon the priest-monk, Adam Tsapekos, the national benefactors George Averoff, Nicholaos Stournaras, Mihail Tossizza, Triantafyllos Tsoumagas, Kyriakos Flokas, Baron Mihail Tossizza, the freedom fighters Dimitrios Ipatros, Anastasios Manakis, Ioannis Gadelos, Apostolos Hatzis, Dimitrios Zamanis and the politician and benefactor Evangelos Averoff Tossizza.
+The town has a prosperous feel that belies its mountain setting, thanks to generations of wealthy benefactors (notably the Averoff and Tossizza families) who funded schools, museums, and infrastructure. The Averoff Gallery houses an unexpectedly strong collection of 19th- and 20th-century Greek painting. The Tossizza mansion, preserved as a museum, gives a vivid picture of how a well-to-do Metsovite family lived, with carved wooden interiors and woven textiles.
+
+Metsovo makes a natural stop if you are driving between [Ioannina](/europe/greece/ioannina) and Kalambaka (for Meteora). In winter it draws Greek skiers to the small Karakoli resort nearby. In any season, the local cheese — Metsovone, a smoked pasta filata — is worth tracking down, along with the surprisingly good local red wine produced by the Katogi Averoff winery just outside town.

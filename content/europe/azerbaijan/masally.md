@@ -5,12 +5,10 @@ latitude: 39.032211
 longitude: 48.672109
 ---
 
-Masalli is a reasonably prosperous agricultural town which also has some light industry, capital of the Rayon of the same name. The town's centre is built near the river, with some modest buildings and a nice Palace of Culture. The Palace of Culture wih a statue of the poet Nizami illustrates well the Azeri architecture of the Soviet period. There are no important sights, except maybe the tea tower. The modest soccer field is home to F.C. Vilash.
+Masally is a prosperous agricultural town in the far south of Azerbaijan, capital of the district of the same name, sitting on the main highway between Baku and the Iranian border at Astara. Around 200 kilometres from the capital, it makes a natural stopping point on the way south — and for those who take the time to look beyond the busy road, there's more to it than the traffic.
 
-When you leave Masalli towards the west there are dense woods and also a small lake, a favourite spot for picnics. West of Masalli you find a spa area ( Masalli Istisu ), providing hot mineral baths for a variety of illnesses or simply for your pleasure. The place is rather scenic with a small hot waterfall and a miniature suspension bridge. Another waterfall can be found at Shalala on the road to Yardimli.
+The town itself is modest but pleasant. Its centre sits near the river, with some low-rise Soviet-era buildings and a Palace of Culture fronted by a statue of the Azerbaijani poet Nizami — a good example of the architectural ambitions of that period. There is no grand old town, no cathedral, no castle. What Masally has is its landscape.
 
-Being located on the main road leading south to Lenkoran and Iran, Masali is always busy and commerce is abundant.
+Head west out of town and the scenery changes quickly. Dense woodland closes in, and a small lake appears — a favourite spot for locals on weekends. Further along the road to [Yardimli](/europe/azerbaijan/yardimli), you reach Masalli Istisu, a spa area built around hot mineral springs. There is a small hot waterfall here and a miniature suspension bridge, and the setting is genuinely scenic. Another waterfall at Shalala lies further along the same road.
 
-In the town there is a very basic hotel, but outside Masalli, on the road going west to Yardimli, there is a good hotel , the Dashtvend. Further down the road, near Masalli Istisu there are also turbazas with some decent huts.
-
-(200 km south of Baku)
+Being on the main road south to [Lenkoran](/europe/azerbaijan/lenkoran) and onward to Iran, Masally is always busy and commerce is brisk. Travellers passing through will find food, fuel and accommodation without difficulty.

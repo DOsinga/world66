@@ -1,8 +1,10 @@
 ---
-title: "Osh"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.108285
 longitude: 73.193145
+title: Osh
+type: location
 ---
 
 Osh is the second-largest city in Kyrgyzstan and one of the oldest cities in Central Asia, with a history stretching back over 3,000 years. Sitting in the Fergana Valley in the south of the country, it has always been a trading city, and its bazaar -- which sprawls along the Ak-Buura River -- is one of the most atmospheric markets in the region.

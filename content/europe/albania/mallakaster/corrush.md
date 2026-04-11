@@ -5,4 +5,4 @@ latitude: 40.443911
 longitude: 19.800563
 ---
 
-Corrush is the birthplace village of ex Prime Minister Of Albania in the totalitarism era, Mr Mehmet Shehu, who was executed in 1983. Corrush is located in Mallakastra Region.
+Corrush is a small village in the Mallakastër district of southern Albania. It is known locally as the birthplace of Mehmet Shehu, who served as Prime Minister of Albania during the Hoxha era.

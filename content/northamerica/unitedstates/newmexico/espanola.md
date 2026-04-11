@@ -1,8 +1,10 @@
 ---
-title: 'Espanola'
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 36.0028
 longitude: -106.0578
+title: Espanola
+type: location
 ---
 
 If you have been in New Mexico for any amount of time, you will have heard the cruel jokes locals tell about Espanola. Ignore them -- this is actually a pretty interesting town sitting in a beautiful valley at the confluence of the Rio Grande and Rio Chama.

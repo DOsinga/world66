@@ -1,25 +1,21 @@
 ---
-title: "Greenland"
+done:
+  country_cleanup: 2026-03-29
+  location_cleanup: '2026-04-08'
+image: greenland.jpg
+image_attribution: Col. Lee-Volker Cox
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Qaanaaq,_Greenland.jpg
+latitude: 72.0
+longitude: -40.0
+title: Greenland
 type: location
-latitude: 77.619235
-longitude: -42.812597
 ---
 
-Greenland is great if you are into dog sleighing or snow scooters. Big parts of this big land are covered with snow all year round.
+Greenland is the world's largest island — 836,000 square miles of ice cap, fjords, and tundra, with a coastline longer than the earth's circumference. About 80% of the island is covered by a permanent ice sheet. The roughly 56,000 people who live here are concentrated along the southwest coast, in small towns connected not by roads but by air and sea.
 
+It is a place of extreme contrasts: 24-hour daylight in summer, polar darkness in winter, calving glaciers visible from town centers, sled dogs chained outside modern supermarkets. The pace of change is rapid — Greenland's first international airport opened in Nuuk in late 2024, bringing direct transatlantic flights for the first time — but the landscape itself remains as raw and overwhelming as it has always been.
 
- The capital city [Nuuk](/northamerica/greenland/nuuk) is loacted in the West. It is an ideal starting place for exploring the rest of the country and one of the best places to find transport, accommodation and arrange the details of your trip.
+Greenland is an autonomous territory within the Kingdom of Denmark. Greenlandic (Kalaallisut) is the official language, though Danish is widely spoken, and English is understood in most towns. The independence question is alive and contested; the airport opening was framed explicitly by political leaders as a step toward eventual statehood.
 
-
- South Greenland will appeal most to visitors seeking excellent outdoor activities from hiking to serious rock climbing. Field ice (floating sheets of ice—not to be confused with icebergs) drift in this area in spring and summer and occasionally impede vessels that carry supplies to the villages.
- In the South [Igaliku](/northamerica/greenland/igaliku) is a tiny village (known in ancient times as Gardar) shielded by the mountains and blessed with good soil in a sheep-raising and vegetable-growing area.
-
-[Nanortalik](/northamerica/greenland/nanortalik) (pop. 1 500) offers well-kept gardens and scenic views of the surrounding granite mountains. [Narsaq](/northamerica/greenland/narsaq), set against a mountain backdrop this village (pop. 1 900) offers several attractions including a museum. [Narsarsuaq](/northamerica/greenland/narsarsuaq) was founded in 1941 as a U.S. air base—U.S. personnel departed shortly after World War II—is the gateway to the beautiful Skov and Eiriks Fjords. [Qaqortoq](/northamerica/greenland/qaqortoq) (Julianehåb) with its multicolored houses perched on a mountainside overlooking icebergs rates as one of the most beautiful towns on the island (with very friendly people).
-
-
-
-
- The East Coast is mostly inhabited. There are only two major settlements [Tasiilaq](/northamerica/greenland/tasiilaq) and [Ittoqqortoormiit](/northamerica/greenland/ittoqqortoormiit). The area is very beautiful and boasts the biggest National Park in the world.
-
-
- In the North [Disko bay](/northamerica/greenland/diskobay) is a prime destination. It has the best climate in summer - but is of course very cold in winter- and is ideal for outdoor activities especially if you like dog sledges. Further up north, [Qaanaaq](/northamerica/greenland/qaanaaq) is the only settlement of some size. It is hard to visit however because of the presence of a US military base. Permits can be hard to get.
+Travel here is expensive and logistically demanding. Rewards are proportionate.

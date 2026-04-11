@@ -1,17 +1,14 @@
 ---
-title: "Kunitachi, Tokyo"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 35.681991
 longitude: 139.43624
+title: Kunitachi, Tokyo
+type: location
 ---
 
-Travel Guide
+About 40 minutes west of central [Tokyo](/asia/japan/tokyo) on the Chuo Line, Kunitachi is a quiet college town centred on Hitotsubashi University. Because much of the area was once a US military base, it is greener and more spacious than most station towns on the western Chuo corridor — which also makes it one of the more expensive suburbs in the area.
 
-About 40 minutes west of metro [Tokyo](/asia/japan/tokyo) on the Chuo Line is **Kunitachi City**, a college town home to **Hitotsubashi University**. The station is one of the oldest in Japan and has a small rotary from which roads radiate outwards to the south. Because much of Kunitachi was once a US base, it is more spacious and green that many other station towns between Tachikawa (the next station west) and Tokyo. This is perhaps one reason why rent in Kunitachi tends to be somewhat above average.
+Kunitachi is best known for Daigaku-dori, the broad avenue running straight south from the station, lined with cherry trees on both sides. When the blossoms come out in late March to early April, the street fills with sightseers walking beneath a kilometre-long canopy of pink. It is one of the better hanami spots in western Tokyo.
 
-Kunitachi is best known for its broad cherry-tree lined **Daigakumae Doori** (roughly, "University-fronting Road") that goes straight south from the station. When the cherry trees are in bloom, varying from late March to early April, swarms of sightseers and tourists descend on Kunitachi to walk beneath the **cherry blossoms**, which continue for about a kilometer.
-
-About 300 meters south of the station, Hitotsubashi University is split by Daigakumae Doori, but both sides of the campus are heavily wooded with attractive brick buildings from the late Meiji Era. The university's library is open to the public, though you have to fill in a small card to enter. Because the university's library is designated as a special repository for foreign language materials, the selection of periodicals is quite broad, though many are highly technical academic journals.
-
-**Contributors**
-August 03, 2006
+Hitotsubashi University, split by the avenue, has an attractive campus of wooded grounds and Meiji-era brick buildings. The university library is open to the public and has an unusually strong collection of foreign-language periodicals.

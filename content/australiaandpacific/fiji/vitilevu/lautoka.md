@@ -1,17 +1,12 @@
 ---
-title: "Lautoka"
+done:
+  location_cleanup: '2026-04-10'
+latitude: -17.6046
+longitude: 177.4483
+title: Lautoka
 type: location
-latitude: -17.604606
-longitude: 177.448277
 ---
 
-Travel Guide
+Lautoka is [Fiji's](/australiaandpacific/fiji) second largest city, a working sugar town on the western coast of [Viti Levu](/australiaandpacific/fiji/vitilevu). The sugar mill dominates the waterfront and during crushing season the sweet smell of processed cane hangs over the whole city.
 
-Lautoka is an industrial city covered in sugarcane ashes.
-
-The best reason to go there is that it has 8 movie theater screens. Food is less expensive than Nadi. I guess you could learn about how Sugar is refined from cane. You can see lots of sugarcane on boxcars on the railroad.
-
-There is also a great beach here too.
-
-More information on
-*Lautoka Travel*
+Lautoka does not pretend to be a resort — it is a real Fijian town with busy markets, Indian temples, and food that is noticeably cheaper than nearby Nadi. The municipal market is one of the liveliest in Fiji, and the waterfront esplanade lined with royal palms is a pleasant place to walk. The Yasawa Islands ferry departs from Lautoka's port, making the city a natural staging point for travellers heading to those remote islands.

@@ -1,78 +1,16 @@
 ---
-title: "Lugansk"
+title: Lugansk
 type: location
-latitude: 48.571708
-longitude: 39.297315
+latitude: 48.5717
+longitude: 39.2973
+done:
+  location_cleanup: 2026-04-06
 ---
 
-At
-the end of **XVIII** century Russia successfully won a number of Black Sea
-wars. A wide access to the Black Sea was opened for Russia as well as a chance of using
-the rich natural resources of Azov Sea territories. The access to the Black Sea and
-joining of Crimea stipulated a need of fortification of the South borders. Olds Turkish
-fortresses, and newly-built ones were used for this purpose. The fortresses and the fleet
-needed cannons. Industrial Ural was far off, and government came to a conclusion of
-construction of a government plant close to the Black Sea shore. "Godfather" of
-Lugansk foundry plant certainly was a commander-in-chief of the Black Sea fleet, admiral Nikolay Semenovitch Mordvinov, and "godmother"
-- empress Ekaterina the Second, who signed in **1795**
-the edict on the settlement of foundry plant on the river Lugan'. Edict was prepared by
-Mordvinov, since he was one who managed to persuade Petersburg Admiralty to switch **715
-thousand silver** roubles left from construction of the young Black Sea fleet to
-the construction of cannon-foundry plant in the south Russia. Mordvinov entrusted a Scottish foundry engineer and
-inventor, Carl Gaskoin, to build a cannon-foundry plant.
-After close study of the natural deposits Carl Gaskoin
-offered to manufacture cast iron cannons, rather then copper ones. For this purpose an
-ironworks was built at the village of **Cambrod (Stone Ford)** near the river
-**Lugan'**.
+Lugansk (also known as Luhansk) is an industrial city in eastern Ukraine, sitting in the Donets Basin coalfield region near the Russian border. Founded in 1795 as a cannon-foundry settlement on the river Lugan, it grew into one of Ukraine's major industrial and cultural centres over the following centuries. The city's working-class character — shaped by generations of ironworkers, miners, and factory hands from a dozen nationalities — gives it a distinct identity unlike the more touristic parts of Ukraine.
 
-Plant was built in rather a short term. First cast iron was produced in **1800**.
-Canons and projectiles, cast at Lugansk foundry plant, protected Russia in War **1812**,
-in the Crimean war of **1853-1856**. Together with the plant, a village was
-growing that was called Lugansk plant. By the **30-th** of the **XIX**
-century there were already nearly **200** private houses, along with the
-barracks where the most poor population nestled. Amongst the workers there were Russians,
-Ukrainians, Poles, Belorussians, Tatars, Jews. Each nationality tended to save their own
-traditions, customs, but gradually merging, they formed some particular flavor of Lugansk
-region.
+The city centre along Sovetskaya Street retains some of its pre-Soviet grandeur, with two-storey merchant houses and remnants of the old street plan laid out by a Scottish engineer in the early 1800s. The Gorky Library, with its imposing white colonnade, is one of the finest buildings in town and holds over a million volumes. The Petropavlovskaya Church in the Stone Ford district survived the Soviet demolitions and has been restored — one of the few pre-revolutionary sacred buildings still standing.
 
-First, city was being built without an officially confirmed plan. All vertical streets
-were identified as lines (as in Saint Petersbourgh), and all horizontal ones had names.
-The most first street of the city was **English Street**. Foreign specialists
-who arrived to work at the plant settled there. A mansion for the director of plant was
-built there. On the same street, in the family of a factory physician, **Vladimir
-Dal**, a compiler of a well-known Explanatory dictionary of Russian, was born.
-Later have other streets appeared such as Peterbourgskaya, Uspenskaya, Kazanskaya,
-Bankovskaya. Later Peterbourgskaya Street became the main one. Here two-stored houses were
-built, in which, as a rule, shops, barbers' shops were placed at the ground floor. In
-Lugansk there were more then ten churches of different religions: Kazanskaya
-Preobrazhenskaya,Trinity, Assumotion, Petropavlovskaya, Nikolayevsky cathedral, a
-synagogue, catholic church, several of prayer houses. To great regret all these buildings
-that had a great value as architectural monuments were destroyed in the **30th**
-of **XX** century. The only church that survived but was greatly damaged is
-Petropavlovskaya church in the Stone Ford.
+Beyond the city, the Mergeleva Ridge lies about 30 kilometres out: an archaeological site with Bronze Age burial mounds and the ruins of ancient temples, discovered by students on an expedition and dating back to around 4000 BC. Heroes Square, on Sovetskaya Street, honours those who fell in the Second World War with a row of life-sized monuments and an obelisk.
 
-In **1882**
-Lugansk considering its economic position, by the solicitation of local merchants and
-gentries was raised in the status of a district city. In the springtime of 1883 the first
-Chairman of City Duma (Mayor), Nikolay Petrovitch
-Kholodilin was elected, and Duma itself was placed in one of the best buildings of the
-city on Kazanskaya Street.
-
-With increasing of a number of population, a network of schools increased. In the city
-there were several private gymnasiums, two public gymnasiums, schools, grade schools. With
-the development of industry in Lugansk several banks appeared in the city. The largest was
-Azov-Don bank on Kazanskaya Street.
-
-In **1903** Lugansk received its court of arms. Life of the citizens of Lugansk was varied and interesting. .Several libraries, movie
-theaters, a circus, parks, clubs were in the city.
-
-In **70-80**-ieth
-of **XIX** century new factories and plants appeared in Lugansk. The largest
-one was Lugansk cartridge plant modified from foundry and locomotive plant of Gartman. In **1898**
-there were already more than 30 industrial enterprises, as well as much small businesses
-and craft workshops.
-
-At
-the beginning of the **XX**-th centuryLugansk has confirmed itself as a large
-industrial center, as a city with Its own multinational traditions and particular mode of
-life.
+Note: Lugansk has been affected by ongoing conflict since 2014 and is not accessible to most travellers at the time of writing. This page reflects the city as it was before hostilities began.

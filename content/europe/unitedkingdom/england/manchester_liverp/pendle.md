@@ -1,8 +1,10 @@
 ---
-title: 'Pendle'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 53.87904
 longitude: -2.171779
+title: Pendle
+type: location
 ---
 
 Many people have only heard of Pendle in one context -- witches. The trial of the Pendle witches in the 17th century has never been forgotten and is the subject of a much-read novel, *Mist over Pendle* by Robert Neill.

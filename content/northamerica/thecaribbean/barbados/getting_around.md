@@ -3,12 +3,12 @@ title: "Getting Around"
 type: section
 ---
 
-The best and cheapest transport option on Barbados is the bus. There are three kinds of buses: government-operated public buses which have the most extensive routes; a privately operated minibus system; and route taxis.
+Barbados is small enough that getting around is rarely a headache. The road network is extensive and most of the island is reachable by bus, taxi, or rental car within 30–40 minutes from anywhere on the west or south coast.
 
-* Now boarding (9K)*
+The best and cheapest option is the bus. There are three kinds: government-operated public buses with the most extensive routes, a privately operated minibus system, and route taxis (shared minivans that follow fixed routes). All are inexpensive and can get you to most parts of the island.
 
-Renting a car is another good way of getting around. None of the island's many car rental agencies is affiliated with a major international rental chain so just call to book a car and someone will swing by your hotel to pick you up. Temporary driving permits are required; they can be obtained for a small fee through your rental agency. In Barbados you drive on the left.
+Renting a car gives you the most flexibility. None of the local agencies is affiliated with a major international chain, but most will pick you up from your hotel. You will need a temporary driving permit, which your rental agency can arrange for a small fee. Remember that Barbados drives on the left.
 
-Taxis are also available and fares are fixed by the government. However vehicles are unmetered so establish a fare in advance especially if you hire a taxi for a sightseeing tour. Bicycles can be rented in Hastings and Maxwell.
+Taxis are widely available and fares are government-fixed — but vehicles are unmetered, so agree on a price before you set off, especially for longer sightseeing runs. Bicycles can be rented in Hastings and Maxwell if you want to explore at a slower pace.
 
-Barbados' Grantley Adams International Airport is on the island's southern coast 16km (10mi) southeast of Bridgetown. Few car rental agencies have booths at the airport but most will pick customers up. Otherwise travelers have a choice of catching a taxi to their destination or simply walking out onto the road and catching a local bus.
+Grantley Adams International Airport is on the southern coast, 16km southeast of Bridgetown. Most car rental agencies will collect you from there; otherwise taxis and local buses are both available at the arrivals exit.

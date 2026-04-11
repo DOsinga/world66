@@ -1,24 +1,19 @@
 ---
-title: "Northumberland"
-type: location
-latitude: 55.25
-longitude: -2.000559
+metadata:
+  latitude: 55.25
+  longitude: -2.0006
+  title: Northumberland
+  type: location
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Northumberland is England's most northerly county. This does need saying as Scotland's most northerly was Sutherland! The border between England and Scotland goes from south-west to north-east so that many points in Northmberland are farther north than many towns in south-west Scotland. 
+Northumberland is England's most northerly county — and also one of its most dramatic. Stretching from the Scottish border down to the edges of Tyneside, it covers open moorland, the wild Cheviot Hills, and a coastline lined with dune-backed beaches and medieval castles that is often called the finest in England.
 
-Inland lie the Cheviots, a sort of northern extension of the Pennines and the site of Northumberland National Park [http://www.northumberland-national-park.org.uk/VisitorGuide/default.htm] Thttp://www.balticmill.com/he coast contains some scenery as picturesque as many better known areas further south, with the additional charm of some fine castles. 
+The county divides naturally into three zones. In the north, a cluster of extraordinary historic sites crowd together near the coast: the tidal island of [Lindisfarne (Holy Island)](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/lindisfarne_holy), the mighty fortress at [Alnwick](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/alnwick_castle_and), and the [Farne Islands](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/farne_islands) just offshore, home to vast seabird colonies and grey seals. The remote villages of [Ford, Etal and Millfield](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/ford_etal_and_mil) nestle in this corner too, further north than most visitors imagine England extends.
 
-In the south of the county is
-[Newcastle under Lyme](/europe/unitedkingdom/england/birmingham_and_wes/newcastleunderlyme) upon Tyne with Gateshead, once a poor and neglected neighbour but site of much recent development, the Baltic Centre for Contemporary Art [http://www.balticmill.com/] and, from December 2004, the Sage [described as a new home for music] giving it a remarkable place in the art world. [www.**gateshead**-quays.com/**sage**/] The Angel of the North really is a sign of hope, a controversial sculpture entirely pleasing from my own perspective. 
+Across the middle of the county runs [Hadrian's Wall](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/hadrians_wall), built by the Romans in the 2nd century AD to mark the empire's northern frontier. Much of the most dramatic surviving section lies within Northumberland, where the wall follows the crest of the Whin Sill escarpment through open countryside. Walking the full length from coast to coast is a popular long-distance route.
 
-There are many attractions in the county and those shown here are only a sample.
+The interior is dominated by the Cheviots and Northumberland National Park — one of the least-visited and least-populated national parks in England, which is exactly its appeal. The park contains vast tracts of upland moorland, dark skies good enough to earn it International Dark Sky Park status, and the extraordinary fortified village of [Chillingham](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/chillingham) with its herd of ancient wild white cattle.
 
-Minor corrections on 16 September 04
-
-## Destinations in Northumberland
-
-[Newcastle](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/newcastleupontyn)
-[Berwick on Tweed](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed)
-[Ashington](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/ashington)
-[Warksworth](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/warksworth)
+[Berwick-upon-Tweed](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed), England's northernmost town, sits right on the Scottish border and retains a circuit of remarkably complete Elizabethan town walls. The market town of [Warkworth](/europe/unitedkingdom/england/newcastle_and_nort/northumberland/warksworth), with its riverside castle and preserved medieval street plan, is worth a stop on the way up the coast.

@@ -1,6 +1,8 @@
 ---
-title: "Getting Around in Kokura"
+title: "Getting Around"
 type: section
 ---
 
-Kokura is definately a town you can walk. There's such a buzz in the air, you don't really need a plan, you can walk around for a whole day with just a few coffee stops. Just watch out for the indoor / outdoor arcades that are likely to leave you completely disoriented. My tip is to bring a compass and don't rely on a 'pachinko parlour' as a landmark! Hopefully you will get
+Kokura is a city you can walk. There's enough energy in the streets that you don't need a plan — just head into the covered arcades and follow your instincts. A full day on foot is easy here, with coffee stops along the way.
+
+The main hazard is the arcade system itself. The indoor and outdoor sections connect in ways that make it easy to lose your bearings. Bring a compass if you're navigationally cautious, and don't use a pachinko parlour as a landmark — they all look the same.

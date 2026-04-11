@@ -1,16 +1,12 @@
 ---
-title: "Combarro village"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.433
+longitude: -8.682
+title: Combarro
 type: location
 ---
 
-Combarro village, considered as a National Monument. In Combarro the
-visitor has the feeling of walking through a sort of natural museum,
-where all the components that have shaped the Galician landscape are on
-display. Within a reduced space, the homes of fishermen and peasants,
-small boats and carts are harmoniously combined. Houses are erected on
-rock and copious hórreos (stone granaries in which to store corn) -
-from which some artists have derived their inspiration - can be seen
-mingled amidst its narrow streets, as suspended above the sea.
+Combarro is a small fishing village on the Ría de Pontevedra, a few kilometres west of Pontevedra city. It's one of the best-preserved examples of traditional Galician coastal architecture in the region, declared a Historic-Artistic Site.
 
-**Contributors**
-March 08, 2005
+What makes Combarro distinctive is the concentration of hórreos — the raised stone granaries used to store corn — that line the waterfront, appearing to overhang the sea. Alongside them stand cruceiros (stone crosses) and the stone houses of fishermen and farmers, all packed into narrow cobbled lanes. Walking through the old quarter takes under an hour but rewards unhurried exploration. Come on a weekday if you can; it draws crowds on summer weekends.

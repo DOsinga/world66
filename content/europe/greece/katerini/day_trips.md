@@ -1,12 +1,6 @@
 ---
-title: "Day Trips in Katerini"
+title: "Day Trips"
 type: section
 ---
 
-**Experience Greek Mythology on a Katerini Day Trip**
-
-**Katerini day trips** will not be complete without visiting the archaeological site of the ancient city of Dion. Katerini is a town in northern Greece and the capital town of the Pieria prefecture. It is a popular tourist destination due to its coastal location and great archaeological interests.
-
-#### **Archaeological Site**
-
-One famous tourist attraction in Katerini is the ancient city of Dion, which is an archaeological site located about 20 kilometers from the town. This archaeological site has revealed priceless finds dating way
+The easy day trips from Katerini are **Mount Olympus** (via Litochoro), **Ancient Dion**, and **Thessaloniki**, an hour north on the motorway and one of the most interesting cities in Greece. Further afield, **Vergina** — where the royal tombs of Philip II of Macedon were discovered in 1977 — is 80 km to the northwest, and the Byzantine rock monasteries of **Meteora** are 2.5 hours south by car.

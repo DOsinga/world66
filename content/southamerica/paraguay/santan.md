@@ -1,8 +1,10 @@
 ---
-title: "Santaní"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -24.665743
 longitude: -56.44168
+title: Santaní
+type: location
 ---
 
 Travel Guide

@@ -1,32 +1,10 @@
 ---
-title: "Blue on blue"
+title: "Blue on Blue"
 type: poi
-address: "9400 Olympic Blvd."
+address: "9400 Olympic Blvd., Beverly Hills"
 phone: "310-277-5221"
-type: "American"
-latitude: 34.004459
-longitude: -118.074806
+latitude: 34.0594
+longitude: -118.3900
 ---
 
-Eating establishment inside the achingly trendy Avalon Hotel. The
-stylish indoor-outdoor tables share space with the hotel’s pool, lively
-bar and its constant wave of partygoers and socialites. Lunch begets a
-more casual mood, whereas nighttime is primarily the right time as the
-hotel bar/pool/restaurant kicks into high gear. Food-wise, it’s modern
-American cuisine galore and reaches a level of top-tier flavor one
-might not expect going in. Cool music, lounge-style vibe and good food
-makes for an enjoyable experience. The scallop and celery root risotto
-is a menu highlight.
-
-**Contributors**
-December 15, 2006
-
-December 18, 2006
-
-type: American
-
-
-
-tel: 310-277-5221
-
-address: 9400 Olympic Blvd.
+The restaurant and bar of the Avalon Hotel, with indoor-outdoor seating around the pool. A fashionable crowd; the vibe shifts from casual at lunch to full party mode at night. Modern American cuisine; the scallop and celery root risotto is recommended.

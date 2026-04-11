@@ -1,10 +1,16 @@
 ---
-title: "Puerto Baquerizo Moreno, San Cristobal Island"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -0.9013
+longitude: -89.6088
+title: Puerto Baquerizo Moreno
 type: location
 ---
 
-Travel Guide
+Puerto Baquerizo Moreno is the capital of the Galápagos province, set on the southwestern tip of San Cristóbal Island. It is smaller and quieter than Puerto Ayora on Santa Cruz, and feels more like a real town than a tourist hub — sea lions lounge on the benches along the waterfront, and frigate birds wheel overhead.
 
-San Cristobal Island in the Galapagos Islands provides countless opportunities for nature lovers to see some of the most unique, intriguing and spectacular wonders of the world. Favorite destinations within the Galapagos National Park and Galapagos Marine Reserve are located on San Cristobal Island and its environs. On San Cristobal Island itself, you can visit everything from the National Park’s Interpretation Center and Charles Darwin Tortoise Reserve to Frigatebird Hill and Puerto Chino, the foremost surfing site in all of the Galapagos Archipelago. About an hour from the port are some of the most highly recognized sites in the Galapagos, including Kicker Rock, Punta Pitt, Isla Lobos, Puerto Grande and many more.
+San Cristóbal was the first island Darwin visited in 1835, and it remains one of the best for wildlife encounters without a cruise. The National Park's Interpretation Centre, a short walk from town, is an excellent introduction to the islands' natural and human history. Frigatebird Hill, just above the centre, offers views over the harbour and a nesting colony of both great and magnificent frigate birds.
 
-A stay at the Galapagos Eco-Lodge in San Cristobal is the perfect place for travelers invested in environmental awareness and conservation and is convenient to these and many more amazing adventures. The owner is a naturalist guide certified by the National Park Service who, in his private boat, will take you on day trips on and around San Cristobal Island for hiking, touring, SCUBA diving and snorkeling adventures. The Galapagos Eco-Lodge, http://galapagosecolodge.net provides access to all of these activities and more and the hotel is given 5 starts in TripAdvisor.
+Kicker Rock (León Dormido), a dramatic volcanic formation rising from the sea about an hour offshore, is one of the top snorkelling and diving sites in the Galápagos — hammerhead sharks, sea turtles and rays are common in its channel. Other accessible sites include Isla Lobos (sea lion colony), Punta Pitt (the only place in the archipelago where all three booby species nest together), and Puerto Chino, a surf beach on the island's south coast.
+
+Flights arrive daily from [Quito](/southamerica/ecuador/quito) and [Guayaquil](/southamerica/ecuador/guayaquil). Inter-island boats connect to Santa Cruz.

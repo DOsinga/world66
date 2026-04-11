@@ -1,6 +1,14 @@
 ---
-title: "Meshkin-Shahr"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 38.3957
+longitude: 47.6761
+title: Meshkin-Shahr
 type: location
 ---
 
-This town is situated to the west of Ardebil and the north of Mount Sabalan. It is temperate in summer and cold in winter. The rich pastures of this region are largely populated by pastoral nomads. Although in the villages many people are engaged in handicrafts, the economy is mainly dependent on agriculture and animal husbandry. Being an ancient town, Meshkin-Shahr's historical monuments are of great significance. The following are among well known ones: The Castle of Arshoq, the mausoleum of Sheikh Heydar and a petrograph belonging to Shapur II (a King of the Sassanian dynasty). The most well known mineral springs in this region are the springs of Googerdi and Qotoor Sooyee on the slopes of Mt. Sabalan, and the springs of Shabil, Aqsoo, Malek Soo'i and Ilandoo.
+Meshkin-Shahr sits to the west of Ardebil and north of Mount Sabalan in the Iranian province of Ardabil. The climate is temperate in summer and harsh in winter; the surrounding highlands are the territory of Shahsavan pastoral nomads who migrate seasonally with their flocks.
+
+The area has a respectable collection of historical monuments. The Castle of Arshoq and the mausoleum of Sheikh Heydar are the most notable, along with a petroglyph attributed to the Sassanid king Shapur II. The slopes of Mount Sabalan hide several mineral springs — Googerdi and Qotoor Sooyee are the best known — used by locals for their therapeutic properties.
+
+Meshkin-Shahr is not a major tourist destination, but those travelling between Ardebil and the border region will find it a pleasant stop, and the nomadic culture of the surrounding countryside is worth seeking out.

@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Corfu"
+title: "Day Trips"
 type: section
 ---
 

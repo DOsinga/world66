@@ -1,24 +1,14 @@
 ---
-title: "Getting there"
+title: "Getting There"
 type: section
 ---
 
-By car
+Trang is well connected by air, rail, and road, though it takes some effort to reach from Bangkok. The journey is part of the appeal: the further south you go, the fewer tourists you encounter.
 
-  Getting to Trang From Suratthani, Route 4 and 41 head south to Thung-Song 786 kilometres. Then head right on Route 403 to Huay-yot and continue straight on Route 4 to Trang. Total distance from Bangkok is 864 km.
+**By air.** Nok Air and AirAsia operate daily flights from Bangkok's Don Mueang airport to Trang airport, about 7 km from the city centre. Flight time is roughly 1 hour 20 minutes.
 
- Alternatively a more scenic Route From Bangkok is head straight towards Chumphon, At Chumphon head right towards Ranong and continue on to Phranga and Krabi when you finally arrive in Krabi turn left towards Trang. Total distance is 1,020 m.
+**By train.** Overnight trains run from Bangkok's Hua Lamphong station to Trang, arriving the next morning after roughly 15 hours. Sleeper berths make the journey comfortable and save a night's accommodation.
 
- By Train
+**By bus.** Air-conditioned buses depart daily from Bangkok's Southern Bus Terminal (Sai Tai Mai) and take around 12 hours. Minivans also connect Trang to Krabi, Surat Thani, and Hat Yai.
 
- There are daily trains from Bangkok Southern terminal (Hualamphong) to Trang. A Rapid train "IF YOU CAN CALL IT RAPID" leaves for Trang at 17.05 hrs arriving in Trang the following morning at 09.30hrs (hopefully). And at 18.30hrs to Kantang which stops at Trang this is called an Express train I let you decide...
-
-Further information can can be acquired at Bangkok Railway station Tel (02) 223 7010, 223 7020 or Trang Railway station Tel (075) 218 012.
-
-By Bus
-
-There are daily scheduled non and Air conditioned buses from Bangkok southern terminal known as (sai dai) to Trang. Further information can can be acquired at Bangkok southern Terminal, Tel (02) 434 1199 or (02) 434 5557-8.
-
-  By Plane
-
-  Thai International Airways offers daily flights from Bangkok Domestic Terminal Don Muang to Trang. Tel (02) 280 0060 or Trang (075) 219 923, 218 066.
+**By car.** From Bangkok, take Route 4 south through Chumphon and Surat Thani, then Route 403 via Huai Yot. The total distance is about 860 km. A more scenic alternative runs via Ranong and Krabi along the Andaman coast.

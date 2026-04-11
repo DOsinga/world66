@@ -1,5 +1,7 @@
 ---
-title: "Mont Choisi"
+done:
+  location_cleanup: '2026-04-10'
+title: Mont Choisi
 type: location
 ---
 

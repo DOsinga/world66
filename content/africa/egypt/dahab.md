@@ -1,15 +1,16 @@
 ---
-title: "Dahab"
+done:
+  location_cleanup: 2026-04-04
+latitude: 28.5091
+longitude: 34.5131
+title: Dahab
 type: location
-latitude: 28.496363
-longitude: 34.514565
 ---
 
-Dahab is the Arabic word for gold - have a look at the colour of the sand of the beaches around here and you immediately know where the town took its name from. Though Dahab is not yet as popular as Sharm el Sheik to the south, but the combination of soft sand, gorgeous blue water, and a luxuriant strip of palm trees is pulling in visitors in growing numbers.
+Dahab is the Sinai's laid-back antidote to the package-tour glitz of [Sharm el Sheikh](/africa/egypt/sharm_el_sheikh). Named after the Arabic word for gold, this former Bedouin fishing village sits on the Gulf of Aqaba with desert mountains at its back and some of the Red Sea's best diving just offshore. Backpackers discovered it in the 1980s, and the vibe has never fully shaken that easygoing DNA, even as proper restaurants and dive centers have moved in.
 
+The town stretches along the coast in two main parts. Assalah, the old Bedouin village, is where you will find budget camps, cafes with floor cushions, and the unmistakable smell of shisha. Masbat Bay, the tourist waterfront, runs south along a pedestrian promenade lined with restaurants and dive shops, all facing the sea. There is no real separation between the two -- you walk from one to the other in fifteen minutes.
 
- 
- Assalah is the most developed part of Dahab, a sprawling conglomeration of palm trees, shops, campgrounds, hotels, bars, and restaurants that lie along the shore of Ghazala Bay. Assalah has a distinctly bohemian feel, and during the Israeli occupation it wasn't uncommon to see soldiers patrolling the same beaches as dreadlocked vagabonds from Europe and America. Less laid back, but still relaxed, is the area just south lying along El-Qura Bay. 
+What makes Dahab special is the combination of world-class reef diving with a small-town feel and genuinely low prices. The Blue Hole, one of the most famous (and most dangerous) dive sites on earth, is a short drive north. But even snorkeling off the Lighthouse reef right in town reveals a dazzling underwater world. When you are done in the water, the desert is right there -- camel treks, jeep safaris to colored canyons, and sunrise hikes up Mount Sinai are all easy day trips.
 
-
- Within just a few miles of Dahab are some great adventure spots. Excellent dive sites lie both to the north and south, including Blue Hole, one of Sinai's best. Just south are the wadis of Qnai el-Rayan and Qnai el-Atschan.
+Dahab is not a party town in the Ibiza sense, but it is not sleepy either. Beachfront bars stay open late, there is usually live music somewhere, and the international crowd keeps things interesting. The food punches above its weight, with good seafood, Egyptian home cooking, and a surprising number of decent international kitchens. It is one of the cheapest destinations on the Red Sea, and one of the most rewarding.

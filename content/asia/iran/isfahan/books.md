@@ -3,18 +3,4 @@ title: "Books"
 type: section
 ---
 
-The wonder world of arts, architecture, culture or history you will discover in the remarkable books that we have displayed below. The list will be updated regularly. So you are welcome to check it often. 
-
-**Books**
-
-**Book Arts of Isfahan **
-
-Book Arts of Isfahan explores the vibrant artistic legacy of the capital city of the Safavid Empire in seventeenth-century Persia.
-
-  Book Arts of Isfahan examines Armenian manuscript illuminations that reflect medieval traditions, European woodcuts imported to the city, Jewish illustrations [more..](/asia/iran/isfahan/books/bookartsofisfahan)
-
-[](http://www.amazon.com/exec/obidos/tg/detail/-/ISBN 0-89236-338-X/ref=ase_osingacom?v=glance&s=books)
-
-author: Alice Taylor
-
-isbn: ISBN 0-89236-338-X
+Isfahan's art, architecture, and history have attracted serious scholarship and inspired fiction. These titles help a visitor understand the city's layers — the Safavid golden age, the Armenian diaspora, and the texture of Persian urban life.

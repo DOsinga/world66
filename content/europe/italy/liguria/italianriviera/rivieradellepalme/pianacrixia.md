@@ -1,28 +1,12 @@
 ---
-title: "Piana Crixia"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 44.486179
 longitude: 8.306101
+title: Piana Crixia
+type: location
 ---
 
-On the northern slope of the Ligurian
- Appennines, in the valley of the Bormida di
- Spigno, the commune includes the protected
- area containing the famous “mushroom” of
- Piana Crixia, the result of an unusual process of
- erosion. Perhaps of Roman origin, it was devastated by the Saracens at the beginning of
- the tenth century. In the middle of the twelfth
- century it became a possession of the Del
- Carretto, who built a castle there. In 1337 it was
- ceded by the marchese di Saluzzo to the
- Scarampi of Asti and was annexed to the
- kingdom of Sardinia in 1735. The parish
- church, dedicated to the martyrs St. Eugenius,
- St. Victor and St. Corona, was built in the
- baroque manner between 1715 and 1765. The
- ruins of a castle in the hamlet of Borgio are of
- medieval origin. Another was built near it in a
- pseudo-medieval style in the nineteenth
- century. The houses are surrounded by dense
- natural vegetation, as well as by cultivated
- fields and vineyards.
+Piana Crixia sits on the northern slope of the Ligurian Apennines in the valley of the Bormida di Spigno, well inland from the coast. The main reason to come here is the Fungo di Piana Crixia — a striking mushroom-shaped rock formation created by an unusual process of erosion, now protected as a natural monument.
+
+The commune itself is a quiet cluster of stone houses surrounded by vineyards and dense natural vegetation. Perhaps of Roman origin, it was devastated by Saracens at the beginning of the tenth century and later became a possession of the Del Carretto family, who built a castle. The baroque parish church, dedicated to Saints Eugenius, Victor, and Corona, dates from 1715–1765. In the hamlet of Borgio, the ruins of a medieval castle stand alongside a nineteenth-century pseudo-medieval one.

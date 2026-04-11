@@ -1,4 +1,0 @@
----
-title: "Andros"
-type: location
----

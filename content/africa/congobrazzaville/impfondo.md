@@ -1,8 +1,14 @@
 ---
-title: "Impfondo"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 1.618
+longitude: 18.0597
+title: Impfondo
 type: location
 ---
 
-Travel Guide
+Impfondo is the capital of the Likouala department in the far north of the Republic of the Congo, roughly 800 kilometres from [Brazzaville](/africa/congobrazzaville/brazzaville) on the western bank of the Ubangi River. It is about as far off the beaten track as you can get in Central Africa.
 
-Impfondo is the capital of the Northern Region of Likoluala. It is located approximately 350 miles North of Brazzaville and is on the West side of the Ubangui River. The town has approximately 25,000 inhabitants; approximately 10-20 people are Europeon. The Native language is Linguala and a there is a missionary hospital operated by a family called the Harveys. Rebel soldiers are still active in this area as of April, 2006; in fact there is a rebel camp I saw from my kayak about 4 miles upstream on the DRC side of the Ubangui from Impfondo. The rebels buy supplies in Impfondo and I was told by one of the Surveillance Officers that they will occasionally capture and hold for ransom people from the town. When you enter this town by aircraft, you will probably be taken from the airport and interrogated by the police. I was "arrested" 5 times in this town. The authorities are quite suspicious of Whites in Impfondo. When you arrive in Impfondo, you will quickly realize you are off the tourist track. Be prepared to be called "M'della" constantly and to have children point and stare at you and then run away screaming "M'della!", which means "white person" in Linguala. In my opinion this is not a safe town, but I am also not saying you will die if you go there. Be prepared for some hassels by local authorities. There is no electricity in this town. After dark you are walking in the darkness with many thousands of strangers all around you. Again, I would not suggest this town for the inexperienced African traveller. On two occasions I saw dead people along the street; both were being wrapped by their relatives for burial.
+The town has around 25,000 inhabitants and almost no foreign visitors. There is limited infrastructure — electricity is unreliable, the roads are poor, and the nearest reliable medical care is far away. The local language is Lingala; French is the official language but not universally spoken.
+
+This is not a destination for inexperienced travellers. Authorities can be suspicious of foreigners, and security in the surrounding area has historically been unpredictable. If you do come, arrive with patience, proper documentation, and a clear purpose for your visit. The Ubangi River itself is the main draw — it forms the border with the Democratic Republic of the Congo and is the lifeline for communities on both sides.

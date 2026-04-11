@@ -1,12 +1,12 @@
 ---
-title: "Ballincollig"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 51.888264
 longitude: -8.591841
+title: Ballincollig
+type: location
 ---
 
-**Ballincollig** 
+Ballincollig is a large and growing town about 10 km west of [Cork](/europe/ireland/cork) city on the road to Macroom. Its most interesting feature is the Royal Gunpowder Mills, an 18th-century industrial complex now preserved as a regional park with walking trails along the River Lee. The ruins of the mills, workers' cottages, and canal system give a vivid picture of what was once one of the largest gunpowder factories in the British Isles.
 
-Large, fast growing town, roughly 6 miles west of Cork City on the road to Macroom. It has a lot of history surrounding it, with the remains of gunpowder mills from the 18th century still a site to visit. The north side of the main street is dominated by a mile long stone wall, behind which was the Army Barracks, but it now being developed into residential, commercial, and retail sites. 
-
-An ideal base from which to explore the Cork/Kerry region.
+The north side of the main street is dominated by a mile-long stone wall that once enclosed the army barracks, now being redeveloped. The town makes a practical base for exploring the Cork and Kerry region.

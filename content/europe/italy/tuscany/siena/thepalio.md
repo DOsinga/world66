@@ -1,6 +1,6 @@
 ---
 title: "The Palio"
-type: location
+type: section
 ---
 
 The **Palio**, held twice a year on july 2nd (to commemorate the miracles of the Madonna of Provenzano) and august 16th (to honour the Assumption of the Virgin) is "the" event in Siena - a 75 second lasting horse-race. The yearly aim of every town quarter (**contrada**) is to win the palio or at least to take part. The "Palio", a tradition dating from the Renaissance, takes place in the **Piazza del Campo** a marvelous sloping plaza in the shape of a half-shell whose circumference is topped on race day with a layer of dirt to create a track. Bright costumes crowds parades and the horse races themselves make for a fascinating spectacle. 

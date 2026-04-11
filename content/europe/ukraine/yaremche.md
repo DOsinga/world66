@@ -1,8 +1,12 @@
 ---
-title: "Yaremche"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 48.450413
 longitude: 24.550955
+title: Yaremche
+type: location
 ---
 
-Yaremche is a town of about 8,800 located in western Ukraine's Ivano-Frankivsk oblast. It lies next to the Carpathian Mountains, at the entrance of the Carpathian National Park, so Yaremche serves as a Carpathian tourist base for the region. The Prut river flows through the area and falls through a scenic gorge that is visited by many tourists. Locals sell a variety of crafts, souvenirs and artwork in an open air market by the falls. There are trails that lead out of Yaremche for those wanting to explore the cliffs, valleys, and peaks nearby.
+Yaremche is a small mountain town of about 8,800 people in western Ukraine's Ivano-Frankivsk oblast, sitting right at the entrance to the Carpathian National Park. It is the main base for exploring the Ukrainian Carpathians — a region of forested ridges, alpine meadows, and Hutsul mountain culture that feels a world away from Ukraine's flat steppe heartland.
+
+The Prut river cuts through town in a scenic gorge, tumbling over rocks past an open-air market where locals sell carved wooden crafts, sheepskin vests, and Hutsul artwork. Trails lead straight out of town into the surrounding valleys and peaks, from easy riverside walks to full-day ridge hikes. In winter the area draws cross-country skiers, though facilities are modest compared to western European resorts.

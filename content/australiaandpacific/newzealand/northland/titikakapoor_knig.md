@@ -1,16 +1,14 @@
 ---
-title: "Tutukaka/Poor Knights"
+done:
+  location_cleanup: '2026-04-09'
+latitude: -35.62
+longitude: 174.5367
+title: Tutukaka / Poor Knights
 type: location
 ---
 
-Tutukaka is a sleepy little hamlet about 90km from Auckland (2-2.5 hours), on the NE Coast of the North Island. It has a couple of hotels and B&Bs, and a couple of bars. It is about 30 minutes from [Whangarei](/australiaandpacific/newzealand/whangarei), which is the main city in the region.
+Tutukaka is a tiny harbour settlement on the northeast coast of the North Island, about 30 minutes from [Whangarei](/australiaandpacific/newzealand/whangarei) and a couple of hours north of Auckland. It exists almost entirely as the departure point for dive trips to the Poor Knights Islands, about 15 km offshore.
 
-It is reknowned as the starting point for dives that go to the Poor Knights Islands, about 15km from town. The Poor Knights were named by Jacques Cousteau as one of his 10 favorite dive spots.
+The Poor Knights are a marine reserve — no one is allowed on the islands without scientific permission — and the underwater scenery is exceptional. Jacques Cousteau rated them among his ten favourite dive sites in the world. The water is clear, around 20–22°C in summer, and the volcanic rock formations create caves, arches, and kelp forests teeming with life: moray eels, scorpionfish, rays, and large schools of fish. It is not a tropical reef — the colours come from sponges and bryozoans rather than coral — but the diversity and visibility are remarkable.
 
-The islands themselves are a nature reserve, and no one is allowed on them, except for scientists with government permission. Creatures live on the islands that have become extinct on the main islands.
-
-The diving is quite nice, clear water, about 70-72F, and the views of the islands are definitely worthy of picture-taking.
-
-If you are looking for coral and bright & brilliant colors, go to the Barrier Reef or Cozumel. Here, you have brilliantly clear water chock-full of Morays, Scorpionfish, Sand Sharks, little bottle-shaped jellyfish, and Rays, and lots of Kelp forests (but not as extreme as off the coast of California).
-
-This is a good getaway from the hustle & bustle of Auckland, with some breathtaking vistas along the way.
+Several dive operators run trips from Tutukaka harbour. Non-divers can snorkel or take a kayak trip around the islands. The drive up from Auckland passes through beautiful coastal scenery and makes for a good overnight getaway.

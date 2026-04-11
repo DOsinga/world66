@@ -1,14 +1,12 @@
 ---
-title: "Akureyri"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 65.682636
 longitude: -18.091299
+title: Akureyri
+type: location
 ---
 
-Akureyri is the second-largest town in Iceland (pop. 15 000). An industrial shipping and dairy town on Eyjafjordur Fjord it has a folklore museum and botanical gardens that shouldn’t be missed and when the weather is colder plenty of winter sports. During the summer because the sun never sets contestants in the Arctic Open play midnight golf. Nearby is lunar-like Lake Myvatn and its impressive green inlets and geothermal activity. At least two nights are needed to do justice to Akureyri and the immediate area.
+Akureyri is Iceland’s second-largest town, known to Icelanders as the Capital of the North. It sits at the head of Eyjafjörður, the longest fjord in Iceland, about 380 km by road from Reykjavík — though a short domestic flight makes it easily accessible. Despite having only around 20,000 people, Akureyri has a disproportionately active cultural life: galleries, an arts museum, a folklore museum, a botanical garden (at 65°N, one of the world’s most northerly), and a theatre company that runs through the winter.
 
-
- Referred to by Icelanders as the Capital of the North, Akureyri has a surprisingly active cultural life for such a small town. A number of art galleries operate year round, and an amateur theater company operates during the winter. Akureyri also is the site of the second oldest gymnasium (high school/college) in Iceland.
-
-
- 150 mi/240 km northeast of Reykjavik.
+In summer, the midnight sun allows for the Arctic Open golf tournament, played through the night in late June. In winter, the ski area at Hlíðarfjall, just outside town, is a favourite with Icelandic skiers. The real reason most people stop here, however, is as a base for **Lake Mývatn**, 100 km to the east — a geothermally active area of lava formations, craters, hot springs, and birdlife unlike anywhere else in Iceland. Dettifoss, Europe’s most powerful waterfall, is a further 60 km beyond Mývatn. Budget at least two nights here.

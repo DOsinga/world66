@@ -1,20 +1,14 @@
 ---
-title: "Astana"
+title: Astana
 type: location
-latitude: 51.12822
-longitude: 71.430668
+latitude: 51.1282
+longitude: 71.4307
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Astana (us-tuh NUH) is the capital of Kazakhstan. The name of the city is translated from Kazakh as ‘the capital city’. It became capital in September of 1995. The population of the city is 350 thousand people.
+Astana is the capital of Kazakhstan, purpose-built on the vast Kazakh steppe about 1,200 kilometres northwest of Almaty. It became the capital in 1997, and since then an extraordinary building boom has transformed what was a modest provincial city into a showcase of futuristic architecture.
 
+The left bank of the Ishim River is where the showpiece buildings are clustered: the Bayterek Tower (the city's symbol, a 97-metre observation tower shaped like a tree holding a golden egg), the Khan Shatyr entertainment centre (a giant transparent tent designed by Norman Foster), and the Palace of Peace and Reconciliation (a glass pyramid, also by Foster). The scale is enormous and deliberately so — this is a capital designed to project ambition.
 
- Like many cities in Kazakhstan, Astana changed its name several times. In the 1800s it was called Akmola, according to the most popular version it means ‘a white tomb’. The name was given by the Russians who founded a fortress with this name. By 1870s Akmola was a place where merchants from Russia, China and central Asia came to trade cattle and agricultural products. It is worth mentioning that the city is located on the legendary Silk Road. 
-
-
- After the Great October Socialist Revolution and establishment of the Soviet power the name was russified and Akmola became Akmolinsk. In 1961 Khrushchev insisted on changing its name to Tselinograd (the city of virgin lands) because at that time a lot of young people according to the plans of the Communist Party were sent to Northern Kazakhstan to explore the rich steppes of Kazakhstan to increase production of wheat in the Soviet Union. 
-
-
- In 1992 after Kazakhstan became independent, the city regained its original name Akmola, and in 1998 it received its new name Astana. The government, especially the president are trying to make Astana a true capital of the huge country. Their efforts sometimes lead to a lot of waste. The climate is very harsh; the humidity is high because of the underground waters. Therefore, special materials are needed, but it is not always considered.
-
-
- Astana is still remaining just a political center of the country. It will probably take a while before it becomes a major tourist attraction. However, the potential of the former capital Almaty was almost exhausted (the valley where it is situated is too small to accommodate the growing population and business community) and transferring the capital to Astana was quite reasonable.
+The right bank feels more like a real city, with Soviet-era apartment blocks, markets, and the older residential neighbourhoods. The climate is brutal — winters regularly drop below minus 30°C with biting steppe winds, and summers can reach 35°C. Spring and early autumn are the most comfortable times to visit.

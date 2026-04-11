@@ -1,14 +1,14 @@
 ---
-title: "Marken"
+title: Marken
 type: location
-latitude: 52.457875
-longitude: 5.106826
+latitude: 52.4578
+longitude: 5.1068
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Marken is a small island community in the Ijsselmeer. It is easy to reach from Amsterdam (via [Volendam](/europe/netherlands/volendam)) and is a nice daytrip if you want to see a traditional Dutch fisher village. If you visit as a daytrip from Amsterdam you will feel you are in a different world and century.
+Marken is a small former island in the IJmeer, about 15 kilometres northeast of Amsterdam, now connected to the mainland by a causeway built in 1957. For most of its history it was genuinely isolated — accessible only by boat — and that isolation produced an architecture and a culture that remained largely unchanged while the rest of the Netherlands modernised. The result is one of the most intact traditional Dutch villages in the country.
 
+The village is built on a series of elevated mounds, the werften, each supporting a tight cluster of green-painted wooden houses. Before the dyke was constructed, floodwaters regularly inundated the lower ground; the mound-building was a survival strategy refined over centuries. Today the most famous of these clusters, Rozewerf, is a tangle of narrow alleys between houses so close together that neighbours can shake hands from their windows. The Marker Museum, housed in six converted fishermen's cottages, documents the old fishing life, traditional costume, and the permanent struggle with water that shaped the village.
 
- Marken is most noticeable for its green painted houses on the Dyke, its religious fanatism, its strong football team and its expensive tourist shops.
-
-
- If you are making a sailing trip on the IJsselmeer, marken is definately worth a stop.
+Marken is easily visited from Amsterdam as a half-day excursion. The most pleasant approach is by ferry from Volendam — a 30-minute crossing across the IJmeer that arrives at the small harbour where the souvenir shops and fish stalls are clustered. The dyke walk circles the island in about two hours, passing the lighthouse at the northern tip and offering open views across the water.

@@ -1,18 +1,12 @@
 ---
-title: "Valdemossa"
+done:
+  location_cleanup: '2026-04-09'
+lat: 39.7101
+long: 2.6218
+title: Valldemossa
 type: location
 ---
 
-Travel Guide
+Valldemossa is a small mountain village tucked into the Serra de Tramuntana, easily reached by bus from [Palma](/europe/spain/balearicislands/mallorca/palma1) or from Sóller. It looks down over the rugged north-west coast of Mallorca with views that stop you in your tracks.
 
-This is a village with magnificent views over the north-west coat of the island. It is easily reached by bus from
-[Palma](/europe/spain/balearicislands/mallorca/palma1) or
-from Sóller. Valdemossa was the place where Chopin and George Sand
-stayed for a winter in a converted monastery – without the anticipated
-benefits to Chopin’s health. However they must surely have enjoyed the
-views from their ‘cell’, even if Chopin did have problems getting his
-piano delivered.
-
-Just around the corner from the old monastery is a sort of palace
-where Chopin recitals are played at a fixed time of each hour, even if
-you are the sole visitor.
+The village is forever linked to Frédéric Chopin and George Sand, who spent the winter of 1838–39 in a converted cell at the old monastery here. The visit didn't do Chopin's tuberculosis any favours — and getting a piano delivered to a remote Mallorcan village in winter was its own ordeal — but the setting was extraordinary. Just around the corner from the monastery is a small palace where Chopin recitals are performed on the hour, even if you happen to be the only person there.

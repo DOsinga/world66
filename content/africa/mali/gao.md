@@ -1,17 +1,14 @@
 ---
-title: "Gao"
+title: Gao
 type: location
 latitude: 16.278813
 longitude: -0.041239
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Gao is not a very attractive city. For those crossing the Sahara, it is however the last or the first place where one can get some comfort.
+Gao sits on the eastern bank of the Niger River, in the harsh scrubland where the Sahara begins to soften into the Sahel. It is not a beautiful city — the 1591 raid by Moulay Ismail's Moroccan warriors ended Gao's role as the great Songhai empire's capital and it has never quite recovered. But for travellers crossing the Sahara or threading between West Africa's major routes, it is a significant waypoint: buses run west to [Bamako](/africa/mali/bamako) and [Mopti](/africa/mali/mopti), east to [Niamey](/africa/niger/niamey), and north towards [Tamanrasset](/africa/algeria/tamanrasset) in Algeria.
 
+The Tomb of Askia, a 500-year-old adobe pyramid on the edge of town, is the most important sight — a UNESCO World Heritage Site and one of the finest examples of Sudano-Sahelian architecture in the region. The Musée du Sahel has local artefacts, art, and tools. The market sells leather goods, desert sandals, and the occasional sword. An early-morning pirogue ride across the river to the red sand dune on the far bank is one of the most atmospheric things you can do here.
 
- The town has nevere quite recovered from Moulay Ismail's raid with his Moroccan warriors in 1591 despite its prime location on the Niger River. 
-
-
- Gao is also quite a hot place to be and self appointed guides can be rather pushy, so you may want to move on quickly. For this purpose (moving on) Gao is an excellent place. It is a link between the routes north to [Tamanrasset](/africa/algeria/tamanrasset), east to [Niger](/africa/niger), and west to [Bamako](/africa/mali/bamako). 
-
-
- Sights include the rather uninspiring Musee du Sahel (a museum featuring art tools household items) markets (leather work desert sandals knives and swords) and the tomb of Askia (a 500-year-old adobe “pyramid” with a view of the river and town). Another highlight is an early-morning pirogue ride to the big red sand dune just out of town.
+Self-appointed guides can be persistent. The heat is fierce. But Gao has the rough authenticity of a place at the edge of things, and the river sunsets are memorable.

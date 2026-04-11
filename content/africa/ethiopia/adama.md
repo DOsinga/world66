@@ -1,8 +1,10 @@
 ---
-title: "Adama"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 8.541026
 longitude: 39.270546
+title: Adama
+type: location
 ---
 
 Travel Guide

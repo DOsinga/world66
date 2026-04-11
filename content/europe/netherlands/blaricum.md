@@ -1,11 +1,12 @@
 ---
-title: "Blaricum"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 52.281133
 longitude: 5.293714
+title: Blaricum
+type: location
 ---
 
-Travel Guide
+Blaricum is a small, well-heeled village in the Gooi region of North Holland, tucked between heathland and polders about 30 km southeast of Amsterdam. It has the feel of a country retreat that never quite became a town — monumental farmhouses line quiet lanes, and the village center is little more than a church, a few cafes, and a handful of shops.
 
-Blaricum is a municipality and village in the Netherlands, in the province of North Holland. It is known for its many monumental farm buildings, local cafes & restaurants, nature, several annual community events and extensive up-market residential areas. All-in-all : good living. Many dutch celebrities live here.,
-Visit the Singer Museum in Laren, only 4 km away.
+The area draws walkers and cyclists heading into the surrounding nature reserves, and the excellent Singer Museum in neighboring Laren is just a few minutes away by bike. Blaricum is popular with Dutch celebrities and media types, which has pushed property prices skyward but kept the village pleasantly low-key.

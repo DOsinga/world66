@@ -1,22 +1,9 @@
 ---
-title: "Visit Annah Rais Longhouse"
+title: "Annah Rais Longhouse"
 type: poi
-address: "Annah Rais Longhouse"
-email: "info@longhouseadventure.com"
-type: "Spa and Sauna"
-url: "www.longhouseadventure.com"
-latitude: 1.156142
-longitude: 110.265392
+category: "Sight"
+latitude: 1.1561
+longitude: 110.2654
 ---
 
-This authentic Bidayuh tribe's longhouse is about 175 yrs old. You will get a chance to see how people live there in the traditional way of longhouse living. Annah Rais longhouse is located at about 65km away from Kuching & you can do a day visit, or stay overnight to adventure into the surrounding beautiful tropical rainforest. By far, this is the nearest authentic longhouse acciessible from Kuching, which still preserve the traditional Borneo longhouse style structure. Entrance to the longhouse will cost you RM8 per person & the fund will go to the community of the longhouse.
-
-type: Spa and Sauna
-
-
-
-url: [www.longhouseadventure.com](http://www.longhouseadventure.com)
-
-address: Annah Rais Longhouse
-
-email: info@longhouseadventure.com
+About 65 km south of Kuching, Annah Rais is one of the most accessible authentic Bidayuh longhouses in Sarawak. The community still occupies the traditional longhouse structure — a row of interconnected family apartments under a single roof — and charges a small entrance fee that goes directly to the community. Day visits are straightforward; staying overnight is also possible and gives a much better sense of longhouse life. The drive passes through plantation and secondary forest.

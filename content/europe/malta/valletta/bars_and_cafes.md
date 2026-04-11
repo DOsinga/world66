@@ -3,8 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Enjoy a warm and relaxing setting in one of Valletta's oldest buildings dating from the Knights of St. John where you can sit at a table and enjoy food and wine. We have a variety of local delicacies including baguettes, platters and Gozitan Ftira, salads and over 100 wines on the list from Malta and around the World at very reasobly prices. We also have a fully stockd bar.
-
-Email: t[alukardu@gmail.com](/europe/malta/valletta)
-
-Website: www.talukardu.com
+Valletta's drinking scene has been transformed since the city became European Capital of Culture in 2018. The area around St George's Square and Merchants Street has the highest concentration of cafes, but the most atmospheric spots are in the backstreets and converted palazzos. Strait Street — the old sailors' haunt that was off-limits to officers — has been revived as a bar strip. Pastizzerias serving flaky ricotta or mushy-pea pastizzi are the definitive Maltese street food and the best cheap fuel between sightseeing.

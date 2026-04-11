@@ -3,11 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-Head out on the town.
-
-**Contributors**
-March 19, 2007
-
-### [Rhapsody's](/africa/zambia/lusaka/bars_and_cafes/rhapsodys)
-
-Rhapsody's located in the Arcades shopping center offers a nice relaxed atmosphere complimented with extremely good food and all availabililty of drinks
+Lusaka's nightlife has grown steadily alongside the city itself. Most of the popular bars and cafes cluster around the main shopping centres -- the Arcades and Manda Hill -- where you'll find a mix of relaxed spots for daytime coffee and livelier places for evening drinks. Look out for venues with live music, particularly on weekends, when local bands often play kalinduka and other Zambian styles.

@@ -1,20 +1,12 @@
 ---
-title: "Vanadzor"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 40.813631
 longitude: 44.482104
+title: Vanadzor
+type: location
 ---
 
-The train to Vanadzor from both Georgia and Giumri passes through some of the most beautiful terrain in Armenia, and Vanadzor is a terrific location logistically for exploring Lori. If you arrange you stops accordingly, you can see the Northern region in its entirety, exploring pristine forests and long forgotten Bronze Age, Byzantine and Medieval ruins. 
+Armenia's third-largest city sits in a valley where three rivers meet, surrounded by the forested mountains of Lori province. Vanadzor itself is a quiet Soviet-era city without major sights of its own, but it is a terrific base for exploring one of Armenia's most beautiful regions — pristine forests, deep gorges, and long-forgotten Bronze Age, Byzantine, and medieval ruins scattered through the hills.
 
-
-
-From Airum, stop at Alaverdi (poor but clean hotel) and hire a car to explore the forest monasteries like Haghbat, Sanahin, Odzun, and the Debet River (gorgeous terrain and flora in the Spring). 
-
-
-
-From Vanadzor, you can explore Stepanavan, the only remaining Armenian Water Lily population in Armenia, and East into Tavush, which is never on the main tour paths, but which holds the most pristine wilderness in Northern Armenia (stay At Berd and Ijevan). 
-
-
-
-Two services are available in Vanadzor to/from the Georgian border: one gnatsk train (obshi and coupé class) and one elektrichka train (obshi class only). Note on the elektrichka train there are no toilets. The train to and from Vanadzor is on the same rail line as that to Yerevan.
+The train from [Gyumri](/europe/armenia/gyumri) or from the Georgian border passes through some of the most dramatic terrain in the country. From Vanadzor you can reach the forest monasteries of the Debed Canyon — Haghpat, Sanahin, and Odzun — via [Alaverdi](/europe/armenia/alaverdi). Head east into Tavush province for the most pristine wilderness in northern Armenia, a region rarely visited by tourists, with good bases at Ijevan and Dilijan. Or go north to Stepanavan, where the last wild population of Armenian water lilies survives in a small lake.

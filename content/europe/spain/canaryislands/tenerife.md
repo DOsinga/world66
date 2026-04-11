@@ -1,19 +1,16 @@
 ---
-title: "Tenerife"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 28.2916
+longitude: -16.6291
+title: Tenerife
 type: location
-latitude: 28.293578
-longitude: -16.621447
 ---
 
-The beautiful scenery throughout the Canary Islands and their Atlantic culture contribute to the pleasures derived from the island climate and the sea without having to give up nature excursions or cultural visits. This is especially true on the island of Tenerife, where the marked contrasts and dramatic beauty of its scenery, as well as the rich traditions, can be indulged in at the two large, renowned tourist centers: one in the fertile north, the other in the sunny south.
+Tenerife is the largest of the Canary Islands and one of the most geographically dramatic islands in the Atlantic. At its center rises Mount Teide, Spain's highest peak at 3,718 meters, surrounded by a vast volcanic caldera that feels more like another planet than a holiday island. The contrast between the lush, green north and the sun-baked south gives Tenerife a split personality that rewards exploration.
 
-Puerto de la Cruz is the oldest tourist center in the Canaries. Since the 19th century, it exists as a famous place of rest and relaxation due to its mild climate and lovely surroundings. It is located by the sea at the foot of the fertile Orotava valley on the northern coast of the island. The harbor is an enclave that blends with the tropical valley, and its streets, filled with trees and flowers, are ideal for strolling. Particularly lovely are the Paseo Marítimo promenade and Lake Martiánez, a dramatic area of natural pools created by the great artist from Lanzarote, César Manrique. In the outskirts of the city, there are lovely spots that should not be missed, including the prestigious Botanical Gardens, and the aviary, Loro Park. A large number of excursions to all kinds of places of interest are possible from here by foot and by car, only a short distance from the city.
+The north is built around [Puerto de la Cruz](/world/europe/spain/canaryislands/tenerife/puertodelacruz), the oldest tourist center in the Canaries. Since the 19th century, visitors have come here for the mild climate and the fertile Orotava valley, where banana plantations cascade down hillsides toward the sea. The town itself has genuine character: a historic harbor, the extraordinary Lake Martianez swimming complex designed by Lanzarote artist Cesar Manrique, and the excellent Loro Parque zoo. Above the town, the Anaga mountains offer some of the best hiking in the archipelago through ancient laurel forests.
 
-Another way to enjoy the sun and sea is at the tourist resorts of the south, more arid and with a better climate. The Playa de las Américas-Los Cristianos certainly stands out with its wide variety of lodgings, restaurants, bars, night spots, and other amenities for the comfort of the tourist. All along the southern coast, there are other smaller resorts, including El Médano for windsurfing, Costa del Silencio and Los Gantes; each one with a personality of its own.
+The south is drier, sunnier, and more resort-oriented. Playa de las Americas and Los Cristianos sprawl along the coast with a wide selection of restaurants, bars, and beaches. Further along the coast, El Medano is one of Europe's top windsurfing spots, and quieter resorts like Costa del Silencio offer a more relaxed pace. The southern beaches are the best on the island, though many are made from imported Saharan sand.
 
-The southern part of the island is perfect for relaxing on the beach, swimming in the sea, and practicing water sports, especially windsurfing.
-
-## Destinations in Tenerife
-
-[Santa Cruz de Tenerife](/world/europe/spain/canaryislands/tenerife/santacruzdetenerife)
-[Puerto de la Cruz](/world/europe/spain/canaryislands/tenerife/puertodelacruz)
+The Teide National Park, a UNESCO World Heritage Site, dominates the interior. A cable car takes you close to the summit, but the real magic is in the caldera itself: strange rock formations, vast lava fields, and an almost lunar stillness. On a clear day, you can see the shadows of all seven Canary Islands from the peak.

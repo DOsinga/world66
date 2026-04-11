@@ -3,6 +3,4 @@ title: "Eating Out"
 type: section
 ---
 
-Go to the curry house and get Goat Curry. it is $12. the hot curry is really hot.
-
-Mama's Pizza is incredibly good too. It is one block closer to the highway from the supermarket/movie theater. Mama's should cost you about $6 pp.
+Nadi's food is cheap and good, especially the Indian food. The curry houses along the main street serve goat curry, roti, and dal at prices that make the resort restaurants look absurd. Mama's Pizza, a block closer to the highway from the supermarket, is a local favourite for something different.

@@ -1,8 +1,10 @@
 ---
-title: "Geghard"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.156623
 longitude: 44.799262
+title: Geghard
+type: location
 ---
 
 The monastery of Geghard was named after its most famous religious artifact, the lance that was said to have pierced the side of Christ. Although the lance has been moved, there are still reasons enough to still visit Geghard. The buildings of this fascinating monastery were carved from solid granite. A total of four churches were hewed out of the hillsides and valley. The oldest dates from the 1200s (don’t miss the two carved lions over the doorway). Animal sacrifices take place outside the church on Sundays. 

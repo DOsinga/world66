@@ -3,12 +3,12 @@ title: "Larache"
 type: location
 latitude: 35.195233
 longitude: -6.152913
+done:
+  location_cleanup: 2026-04-08
 ---
 
-With little hassle and few tourist traps, Larache is worth a short visit to feel what a typical Moroccan town is like. Larache is next to an estuary which wanders into the Atlantic ocean. The west of the town is bordered by sea cliffs and the south is covered with tangerine and orange groves. A nice morning activity is to take a boat taxi across the estuary to the beach. 
- 
+Larache is a relaxed Atlantic coast town where few tourists venture, making it a good place to experience everyday Moroccan life without the hustle of the more popular destinations. The town sits beside an estuary that opens into the Atlantic, with sea cliffs to the west and tangerine and orange groves to the south.
 
-The old medina, a fortress known as the Casbah de la Cigogne and an archeological museum built in a Spanish citadel are worth a visit. The walls that surrounded the medina and the kasbah, now in ruins, add an interesting air to the town. Although the town has seen better days, it still has a nice atmosphere. The new town is a good example of Spanish colonial architecture. The colors of the buildings in the town are a beautiful white-washed white and blue. 
- 
+The old medina is worth a wander, as is the Casbah de la Cigogne (Stork Fortress) and the small archaeological museum housed in a Spanish citadel. The crumbling walls that once surrounded the medina and kasbah add character, and the new town beyond has attractive Spanish colonial architecture in white and blue. A pleasant morning activity is taking a boat taxi across the estuary to the beach on the far side.
 
-Four to five kilometers outside of Larache are the Roman remains of Lixus. They are not as impressive as the ones inVolubilis., but to watch the sunset into the sea from the Phoenician temple can be a beautiful experience.
+Four to five kilometres outside town are the Roman remains of Lixus, one of the oldest settlements in North Africa. The site is less impressive than [Volubilis](/africa/morocco/volubilis), but watching the sunset from the Phoenician temple above the river is a memorable experience.

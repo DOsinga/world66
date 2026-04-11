@@ -1,12 +1,16 @@
 ---
-title: "Uluru-Kata Tjuta National Park (formerly known as Ayers Rock and The Olgas)"
+done:
+  location_cleanup: '2026-04-08'
+latitude: -25.3444
+longitude: 131.0369
+title: Uluru-Kata Tjuta National Park
 type: location
 ---
 
-Travel Guide
+Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.
 
-Uluru-Kata Tjuta National Park is a park in the southern portion of the Northern Territory of Australia , part of the so-called Red Centre of the continent. The National Park is a UNESCO World Heritage area. It is best known for Uluru (formerly known as "Ayers Rock"), a single massive rock formation, and also for Kata Tjuta (formerly known as "The Olgas"), a range of rock domes.
+Uluru itself needs no introduction: a single enormous sandstone monolith rising 348 metres above the flat desert plain, measuring 3.6 by 2.4 km at the surface, with a circumference of 9.4 km. The rock changes colour dramatically through the day — deep orange at sunrise, glowing red at sunset, grey-purple after rain. The base walk (10 km, flat) takes you past waterholes, caves with ancient rock art, and patches of surprising green. Climbing Uluru is permanently closed, at the request of the Anangu people.
 
-Uluru is one of Australia's best known natural features, the long domed rock having achieved iconic status as one of the symbols of the continent. The rock is a so-called monolith, i.e. a single piece of rock or a giant boulder, extending about 5km beneath the desert plain and measuring 3.6 by 2.4km at the surface. It rises 348 meters above the plain (862.5 meters above sea level) and has a circumference of 9.4km. Some say that Uluru is the biggest of its kind, others say that Mount Augustus in Western Australia is bigger. Whatever the case may be, standing in front of Uluru and seeing its massive bulk rise above the flat plain surrounding it, it is nothing less than impressive.
+Kata Tjuta, 36 km to the west, is a collection of 36 rock domes that many visitors find equally impressive. The Valley of the Winds walk (7.4 km loop) weaves between the domes and is one of the best hikes in central Australia. Geologists believe these domes may once have formed a single monolith far larger than Uluru.
 
-Kata Tjuta is a collection of 36 variously-sized rock domes 36 km to the west of Uluru. Some geologists believe that once it may have been a monolith far surpassing Uluru in size, but that it eroded to several separate bulks of rock.
+The nearest town is Yulara (Ayers Rock Resort), purpose-built to serve the park. Connellan Airport has direct flights from Sydney, Melbourne, and Cairns. The park is about 450 km by road from [Alice Springs](/australiaandpacific/australia/northernterritory/alicesprings).

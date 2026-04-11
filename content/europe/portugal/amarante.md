@@ -1,14 +1,14 @@
 ---
-title: "Amarante"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 41.269932
 longitude: -8.080456
+title: Amarante
+type: location
 ---
 
-B
+Amarante is one of northern Portugal's most picturesque small towns, draped along both banks of the Tâmega River about 60 kilometres east of Porto. The town's centrepiece is the São Gonçalo Bridge, a 16th-century stone span anchored at one end by the monastery church of the same name. The balconied houses lining the riverbank make for a scene that is almost impossibly photogenic.
 
-We currently have no information about Amarante.
+São Gonçalo is the town's patron saint, and he is associated with love and fertility — during the June festival, locals exchange phallic-shaped pastries called *doces de São Gonçalo*, one of Portugal's more memorable folk traditions. The town is also known for its conventional pastries, particularly the egg-and-almond sweets found in the confeitarias along the main street.
 
-If you do know any general information about Amarante, please [Edit this article].
-
-If you know any hotels in Amarante or restaurants in Amarante, please [[Add].](/destinations/addItemWizard?addwhere=europe/portugal/amarante)
+The Amadeo de Souza-Cardoso Museum, housed in the monastery, holds works by the Portuguese modernist painter who was born nearby and died young during the 1918 flu pandemic. The surrounding countryside, with its vineyards and granite hills, is part of the Vinho Verde wine region and makes for good day drives. Amarante is an easy stop on the way between Porto and the Douro Valley.

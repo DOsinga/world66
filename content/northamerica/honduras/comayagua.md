@@ -1,8 +1,10 @@
 ---
-title: "Comayagua"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 14.4513
 longitude: -87.6395
+title: Comayagua
+type: location
 ---
 
 Comayagua is the former capital of Honduras, founded in 1537 and the seat of colonial government for more than 300 years. After being heavily damaged by fire during the civil war of 1873, the capital was moved to Tegucigalpa — and Comayagua has been relatively unchanged ever since.

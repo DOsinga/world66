@@ -1,14 +1,14 @@
 ---
-title: "Matmata"
+done:
+  location_cleanup: '2026-04-07'
+latitude: 33.5087
+longitude: 9.9786
+title: Matmata
 type: location
-latitude: 33.508675
-longitude: 9.978609
 ---
 
-Matmata is famous for its cave dwellings and more so for the Star Wars film that was shot here. Anyone who visits Tunisia and doesn't take the opportunity to visit Matmata will miss seeing a type of architecture which is unique - cave dwellings. Matmata, made up of several villages, takes its name from the Berber tribes who have taken refuge in this isolated region. The Berbers, who nowadays somewhat influenced by Arab culture, still live in villages carved out of the mountainside. Others hide away in the underground dwellings or rifts in the valley. To the south of Gabes barren ochre mountains rise to 700 metres in heiqht. The conical summits are intersected and separarated by precipitous narrow ravines where figs, olives, barley and some stunted palms grow. 
+Matmata is a small Berber town in southern Tunisia famous for its extraordinary troglodyte architecture — villages carved into the hillside and underground dwellings hollowed out of the earth. The name comes from the Berber tribes who took refuge in this isolated region, and their descendants still live in these unusual homes today. The town is also known internationally as a filming location for Star Wars and Raiders of the Lost Ark, where the lunar landscape of craters and ochre ridges stood in for alien worlds.
 
+The villages look almost invisible from a distance. What appears to be an empty hillside is actually densely inhabited: each crater is a house, with a central circular courtyard sunk into the ground and rooms radiating outward from the walls. A tunnel leads in from the surface, often lined with storage spaces and stables. The steep courtyard walls are honeycombed with niches for living, cooking, and storing food — the upper chambers, sometimes only reachable by rope, serve as granaries. The design is a masterpiece of natural climate control: cool in summer when temperatures exceed 40°C, and warm in winter.
 
- The villages are inhabited by a hardworking people. An unsuspecting eye would look at the village and only see the cruters which hide the houses and create a lunar landscape. The American film producer Steven Spielberg used this landsca pe to great effect in his famous films ''Star Wars'' and "Raiders of the Lost Ark". These invisible villages are made up of several cave dwellings hidden in the ground, which resembles a lunar landscape riddled with giant holes. In fact, every crater is a house. A tunnel permits access to a kind of "well", a genuine circular crater hollowed out of the hill top, surrounded by rooms for living and storage excavated out of the ground. The entrance tunnel is lined with stzbles and places for storing tools and gives on to a round courtyard. The steep walls of the "putio" are hezvily indented with the niches which form the living quarters, the food stores and the communsl rooms. The upper parts of the rooms, which ohen can only be reached by a rope, are used as granaries. Cereals can be fed into here through a narrow pipe from the outside. Huge grain stores are piled up in the courtyard, fenced in by esparto grass. The individual niches are extremeIy well air conditioned, cool when the temperature exceeds 40 degrees Centigrade and warm in winter. 
-
-
- Just 40 km away from the sea, and 400 m above sea level, Matmata enjoys pure, dry air. The inhabitants are noted for their longevity and good health. If Matmata is considered to be a typical cave dwellers' village, for several kilometers in every direction the ground shelters other similar villages such as Beni Aissa, Chembali, Techine and Hedege, which are perhaps more "genuine" since they receive less visitors.
+Matmata sits about 40 km from the coast and 400 m above sea level, among barren ochre mountains that rise to 700 m. The ridges and conical summits are cut by deep ravines where figs, olives, barley, and stunted palms grow. If you want a less touristed version of the same troglodyte lifestyle, the nearby villages of Beni Aissa, Chembali, Techine, and Hedege receive far fewer visitors and feel more genuinely inhabited.

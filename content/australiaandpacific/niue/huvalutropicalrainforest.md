@@ -1,8 +1,10 @@
 ---
-title: "Huvalu Forest Conservation Area"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -19.087
 longitude: -169.803
+title: Huvalu Forest Conservation Area
+type: location
 ---
 
 The Huvalu Forest Conservation Area covers roughly 54 square kilometres of the island's southeastern corner — the largest remaining area of primary forest in Niue. It was established in 1992 and protects tropical rainforest, coastal forest, and the jagged limestone formations of the east coast.

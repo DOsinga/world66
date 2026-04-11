@@ -1,14 +1,14 @@
 ---
-title: "Aquila"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.34892
 longitude: 13.397967
+title: L’Aquila
+type: location
 ---
 
-L'Aquila’s late medieval glory can still be seen despite the devating impact of the earthquake at the beginning of the eigtheenth century. Its main sight is the castle thatw as erected by Don Pedro of Toledo midway the 16th century. It was meant to safeguard the residents of the city from attacks by the Spaniards. The fortress is only one of many castles in the area that served as strongholds, as the story goes that the inhabitants of the round and about 100 castles in the area helped to built the city in the 12th century. However, from a military architectural point of view it is definitely the most impressive one.
+L’Aquila sits in a broad valley at 700 metres altitude, ringed by the highest peaks of the Apennines. The city was founded in the 13th century, legend says by the inhabitants of 99 surrounding castles — hence the recurring motif of 99 that runs through the city: 99 churches, 99 piazzas, 99 fountains. The famous Fontana delle 99 Cannelle, near the old city walls, has 99 stone-carved faces each spouting water.
 
+The 2009 earthquake devastated the city centre, and reconstruction is still ongoing. But much has been restored, and the medieval bones of the city remain impressive. The 16th-century Spanish fortress, built by Don Pedro of Toledo, dominates from the north — it is the finest Renaissance military architecture in central Italy and now houses the National Museum of Abruzzo. The **Basilica di Santa Maria di Collemaggio**, with its striking pink-and-white stone façade, is one of the most important churches in Abruzzo and the only place outside the Vatican where a pope (Celestine V) is buried.
 
- The central Piazza Duomo, with its daily market, is an excellent place from which to explore the town with its little courtyards and gardens. The city boast the most well-known basilica of the Aruzza area, the ‘Basilica di S.Maria di Collemaggio’. Besides that, there are several well-preserved churches with an interesting array of frescoes. The fountain with the 99 spouts is located nearby the remnants of the city wall and the Quattro Cantoni, a meeting point for locals. This is also the area where one can see the finest examples of one of the town’s characteristics, the arcades, also better known as ‘portici’ in this region.
-
-
- If you're looking for a bit more of green, head for the Abruzzo_National_Park. [Pescara](/europe/italy/abruzzo/pescara) might be worth a detour when you've some time left.
+The central Piazza del Duomo hosts a daily market and makes a good starting point for exploring the old town with its arcaded streets (portici), courtyards, and churches. The Gran Sasso, the highest peak in the Apennines, rises just north of the city — a funicular from the edge of town gives access to the mountain. [Pescara](/europe/italy/abruzzo/pescara) on the coast is about an hour away.

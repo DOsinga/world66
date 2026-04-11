@@ -1,8 +1,10 @@
 ---
-title: "Pontianak"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -0.02269
 longitude: 109.344749
+title: Pontianak
+type: location
 ---
 
 Pontianak is the capital of West Kalimantan province on the island of Borneo, notable for sitting almost exactly on the equator. A monument marks the equatorial line a few kilometres north of the city centre.

@@ -1,12 +1,14 @@
 ---
-title: "Kiffa"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 16.6162
+longitude: -11.4002
+title: Kiffa
 type: location
-latitude: 16.616156
-longitude: -11.400204
 ---
 
-Kiffa has a nice market and is on your way from Nouakchott to Nema. It makes for a nice stop, although there is no hotel in town but a nice bed and breakfast ( source www.terremauritanie.com) on the road when you arrive from Nouakchott. Nearby is an interesting canyon you can visit. For this you’ll need an all-terrain vehicle. 
+Kiffa is a desert town on the Route de l'Espoir, roughly halfway between Nouakchott and Nema in southern Mauritania. Most travellers pass through on the long east-west crossing, but it is worth a stop rather than just a fuel break.
 
+The town has a lively market and is famous across West Africa for Kiffa beads -- elaborately decorated glass beads made by local women using a centuries-old powder glass technique. They are beautiful objects, and the market is the place to find them. A canyon near town makes for an interesting excursion if you have a 4x4.
 
-
-Kiffa has quite a reputation nas a centre for beads. So if you are here, you could go to the market and get you some.
+Accommodation is limited. There is no real hotel in town, though a guesthouse on the Nouakchott approach road offers basic rooms. Kiffa is spread out and dusty, but the people are welcoming, and the market alone makes the stop worthwhile.

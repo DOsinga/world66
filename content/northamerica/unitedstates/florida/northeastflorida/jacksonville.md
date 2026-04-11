@@ -1,16 +1,18 @@
 ---
-title: "Jacksonville"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 30.326225
 longitude: -81.657918
+title: Jacksonville
+type: location
 ---
 
-If you're in town on a Sunday in the fall you might be able to catch the Jaguars football team in action-the city is very **proud of its new** franchise. The Cummer Museum of Art, in the Riverside neighborhood near downtown, has a good collection of American artists and a fascinating garden with a view of downtown. Architecture buffs will find the Riverside district fascinating. Many homes here were designed by noted Jacksonville architect Henry Klutho, a student of Frank Lloyd Wright's Prairie Style. 
+Jacksonville is the largest city by area in the contiguous [United States](/northamerica/unitedstates), sprawling across both sides of the St. Johns River in northeast [Florida](/northamerica/unitedstates/florida). It is not a typical tourist stop, but it has more character than first impressions suggest.
 
-On both sides of the St. Johns river, in downtown Jacksonville there are riverwalks that provide great views of downtown as well as access to the Jacksonville Landing, an open-air mall that is often the site of concerts, political rally's or other events, and other attactions along the way. The riverwalks are great places for romantic walks in the evening. 
+The **Riverside** neighbourhood near downtown is the architectural highlight — streets of homes designed by Henry Klutho, a student of Frank Lloyd Wright's Prairie Style. The **Cummer Museum of Art** here has a strong collection of American artists and a garden overlooking downtown across the river. The **Museum of Science and History** on the south bank has rotating exhibits and the Alexander Brest Planetarium.
 
-The Museum of Science and History has a series of rotating hands-on exhibits, generally geared toward children, and also is home to the Alexander Brest Planetarium, with hourly shows. Across the river you can dine and shop at The Landing, a Jack Rouse project modelled after the larger (and more successful) Inner Harbor in Baltimore. Next door to the Landing is the Times-Union Center for the Performing Arts, home to the Jacksonville Symphony Orchestra, regarded as one of the best orchestras in the state for those who might care to take in some high culture. 
+The riverwalks on both sides of the St. Johns offer pleasant evening strolls with views of the downtown skyline. Jacksonville's three beach communities — Jacksonville Beach, Neptune Beach and Atlantic Beach — blend together along a stretch of fine sand on the Atlantic coast.
 
-Jacksonville has three beach towns, which are pleasant enough and have fine beaches but more or less blend together. Immediately to the south is Ponte Vedra Beach, where many golf and tennis stars live and where the TPC at Sawgrass golf tournament is played each year. One-day memberships to the Sawgrass course are available, but only deeply committed golf fans will want to pony up the roughly $300 it takes to purchase one. The somewhat less committed golf fans will want to head for the World Golf Village, just off I-95 between Jacksonville and St. Augustine. Several challenging courses and the World Golf Hall of Fame are here, as well as an entertainment complex that includes an IMAX theatre. 
+Golf is a serious draw. **Ponte Vedra Beach**, just south, is home to the TPC at Sawgrass where the Players Championship is held each year. The **World Golf Village** off I-95, with several courses and the World Golf Hall of Fame, caters to less deep-pocketed fans.
 
-Jacksonville is only 30 minutes north of [St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), the nations oldest city. Be sure to make the trip down to visit, it is well worth it.
+[St. Augustine](/northamerica/unitedstates/florida/northeastflorida/staugustine), the oldest city in the United States, is only 30 minutes south and well worth a day trip.

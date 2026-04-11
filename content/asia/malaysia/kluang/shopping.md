@@ -1,5 +1,5 @@
 ---
-title: "Shopping in Kluang"
+title: Shopping
 type: section
 ---
 

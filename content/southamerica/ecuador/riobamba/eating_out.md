@@ -3,9 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Special recommendation in town:
+Riobamba has a good range of cheap, filling restaurants. The market area on Saturdays is the best place to eat — look for the stalls serving hornado (roast pork) and llapingachos (fried potato patties).
 
-**Pizzeria D'Baggio: **Av. Daniel L.B. 33-24 y Miguel A. Leon (two blocks from the train station heading to the bus terminal). Very good Italian food at cheap prices.
-
-**Contributors**
-December 20, 2005
+**Pizzeria D'Baggio** — Av. Daniel L.B. 33-24 y Miguel A. León, two blocks from the train station heading toward the bus terminal. Good Italian food at very low prices.

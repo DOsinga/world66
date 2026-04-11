@@ -1,12 +1,18 @@
 ---
-title: "Plymouth"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 50.3714
+longitude: -4.1424
+title: Plymouth
 type: location
-latitude: 50.371412
-longitude: -4.142445
 ---
 
-Plymouth's naval dockyard made it a prime bombing target in WW2 and it was one of the very first English cities to make its plans for post-war recovery. Initially it was celebrated and visited for this but of course other cities learned from Plymouth's mistakes and the centre is something like a museum of the late forties.
+Plymouth is a proud, slightly battered naval city on the Devon coast, looking out across Plymouth Sound toward Cornwall. The Mayflower departed from here in 1620 — the Pilgrim Fathers' last sight of England was the Barbican quayside — and the city has been sending ships into the Atlantic ever since. Sir Francis Drake and Sir Walter Raleigh both called it home.
 
-Even so it has much going for it. The Mayflower Steps, where the Pilgrim Fathers last sighted land before heading for America, ensure that it has a lot of visitors from overseas..There is an authentic Elizabethan [the First!] house near the Barbican area and between there and the well known Plymouth Hoe is the Citadel, built in the reign of Charles II, with more guns pointing at the city than out to sea; no prizes for guessing Plymouth's side in the Civil War.
+The city centre was levelled by German bombing in 1941 and rebuilt to a bold postwar plan, all wide boulevards and civic ambition. It hasn't aged gracefully, but that's part of the character: Plymouth wears its history visibly, from the Blitz to the Cold War. Walk from the rebuilt centre down to the Barbican and you move from the 1940s to the Elizabethan waterfront in ten minutes.
 
-There is a road bridge to Saltash in Cornwall near to the Brunel railway bridge on the main Penzance line making Plymouth a great point of access for the SE Cornwall area as well as for lovely river valleys and the south part of Dartmoor in its own county of [Devon](/europe/unitedkingdom/england/bristol_plymouth/devon)
+The Barbican is the heart of the old city — cobbled lanes, Tudor buildings, fish market, pubs, and the Mayflower Steps where a plaque marks the embarkation point. Plymouth Hoe, just above, is a broad grassy headland with views across the Sound, Drake's famous bowling green (he reportedly finished the game before beating the Armada), and the red-and-white Smeaton's Tower lighthouse, relocated here from Eddystone Rock.
+
+The Royal Citadel guards the headland — a 17th-century fortress built for Charles II, with more of its guns pointing at the city than out to sea. Plymouth backed Parliament in the Civil War and Charles didn't forget it. You can tour it in summer.
+
+Across the Tamar lies Cornwall, accessible via the Brunel railway bridge and the newer road bridge to Saltash. Plymouth is an excellent base for south-east Cornwall, the Dart valley, and the southern edge of Dartmoor.

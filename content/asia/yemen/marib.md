@@ -1,14 +1,14 @@
 ---
-title: "Marib"
+title: Marib
 type: location
-latitude: 15.457879
-longitude: 45.323024
+latitude: 15.4579
+longitude: 45.323
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Marib is located in the east of Yemen. High mountains, beautiful valleys, plains and desert are all nearby. The most important valley in Marib is Wadi Dhanah or Shebe Valleyâ€™, in the banks of which flourished the Sabean dynasty, the foundation of Yemeni history.
+Marib is the most important archaeological site in Yemen and one of the great ancient cities of the Arabian Peninsula. Capital of the Sabaean kingdom from roughly the 8th century BCE, it sat at the crossroads of the incense trade routes that linked the Arabian Sea coast to the Mediterranean world. The Great Dam of Marib, an engineering marvel that irrigated the surrounding desert for over a millennium, was famous enough to be mentioned in the Quran.
 
+The old city lies on the Sabaean plains at the edge of the eastern Yemeni desert, flanked by high mountains, valleys, and open desert. The landscape around Marib is stark and beautiful -- the Balaq mountains frame ancient ruins, and Wadi Dhanah (the Valley of Sheba) cuts through the terrain where the Sabaean dynasty flourished. The ruins of temples, dams, and wells are scattered across the area, most within easy day-trip distance of the town.
 
- Marib is the most famous ancient city in Yemen. The old city of Marib lies in the Sabean plains on the outskirts of the east Yemen desert Mafazet Saihadâ€™. Itâ€™s strategic position lends itself to its important role in history, as it controlled the ancient incense routs. It was a meeting point for caravans coming from the Qana port on the Arabian Sea coast, crossing the Wadi Hadhramout.
-
-
- Close to the city are many attractions, the most famopus being the Great Marib Dam. All of these can easily be seen as daytrips from the city.
+Marib has been severely affected by Yemen's civil war, which began in 2014. The city and its surroundings have seen heavy fighting, air strikes, and displacement. Several archaeological sites have been damaged. As of the mid-2020s, travel to Marib is extremely dangerous and effectively impossible for tourists. The information here is preserved for its historical value and for the day when Yemen is at peace again.

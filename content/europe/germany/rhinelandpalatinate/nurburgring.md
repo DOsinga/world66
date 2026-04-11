@@ -1,40 +1,16 @@
 ---
 title: "Nurburgring"
 type: location
-latitude: 50.33092
-longitude: 6.940674
+latitude: 50.3309
+longitude: 6.9407
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**Where the legend lives...
+The Nürburgring is one of the most legendary motorsport venues in the world, built in 1925–27 near the small village of Nürburg in the Eifel region of western Germany. The original 22-km Nordschleife circuit — the "Green Hell" — remains largely intact and is open for public driving on most weekdays: you can pay a lap fee and take your own car or motorcycle around what is widely considered the most challenging road circuit ever built.
 
+The track's history is extraordinary. Niki Lauda's near-fatal crash here in 1976 led to the original circuit being dropped from the Formula One calendar; a new shorter circuit was built alongside it, which hosted F1 races in the 1980s and 1990s. The Nordschleife itself has been immortalized by everything from endurance races to video games — it is a rite of passage for serious driving enthusiasts.
 
- 27th April 1925 - 75 years ago**
+Besides the driving experience, the complex includes a kart track (both indoor and outdoor), a recreation park with rollercoasters, and a museum. The surrounding Eifel landscape is beautiful — hilly, forested, and dotted with castle ruins and volcanic lakes. The village of Nürburg with its medieval castle is worth a short walk. Accommodation in the immediate area is limited; many visitors base themselves in Koblenz or Trier and drive out for the day.
 
-
-
-
- In 1925 the German government decided to build a racing track as a part of the job program in the depression after World War I. They began working on April 27th, close to the small village Nürburg in a big rural area in the very west of Germany: the Eifel. In the next three years up to 3,000
- construction workers were employed and lived in shacks on and all around the racing track. To lay the foundation in the
- neighborhood several new basalt quarries were opened up and many kilometers of railway lines were constructed.
-
-
-
-
- More than 3 years later (and three very cold and hard winters) on June 18th 1928, the new track was opened with a motorcycle race.
- One day later the first car race took place at the Nürburgring and the prominent winner was the famous Rudolf Caracciola (1901-1959) on its Mercedes 680 S.
-
-
-
-
- The original 14 mile Nürburgring circuit was taken off the Formula One calendar after Nikki Lauda's terrible crash in 1976. Some say that the new track, at just 2.82 miles long (4,556 km), is only a shadow of the former circuit, although it does incorporate the original start finish straight.
-
-
-
-
- The new circuit first hosted a Formula One race in 1984 - the European Grand Prix - in which Alan Prost claimed victory in his McLaren. In reaction to the former accidents security
- measures were overemphasize so that the formula One paddock deemed the new track as unimaginative and sterile after the 1985 race, and did not return until 1995.
-
-
-
-
- The current circuit provides the spectator with great views all around the circuit - thanks to the large numbers of permanent grandstands.
+To get there from Frankfurt, take the A3 to the A48 toward Koblenz or Trier, exit at Ulmen/Kelberg (highway 259), and head north following signs to Nürburg — under two hours from Frankfurt in normal traffic.

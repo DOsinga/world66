@@ -3,6 +3,9 @@ title: "Gallivare"
 type: location
 latitude: 67.3
 longitude: 20.25
+todo_location_cleanup: done
 ---
 
-Gallivare does have something more to offer than its endless mines that are the most important source of iron in Europe. Although the city probably does not bear anymore the charm it had during the 17th century, there are a few interesting historical tracks in the old town worth exploring. The Homestead Museum offers a good insight into both the history of the town and the surrounding forested area. Of course, this is your chance par excellence to chase the northern light and experience the unspoilt scenery. During winter time, it's an excellent place to go to when you want to indulge in whatever type of sports.
+Gällivare is a mining town in Swedish Lapland, about 100 km north of the Arctic Circle, sitting atop one of Europe's most important iron ore deposits. The mines are the dominant fact of life here, and the company town character — orderly streets, functional buildings — reflects that history. Yet the town has a genuine charm and serves as an excellent base for exploring the surrounding wilderness.
+
+The old town has a few historical traces worth exploring, and the Homestead Museum gives a good sense of local history and the forested landscape that stretches in every direction. In winter, Gällivare is one of the more reliable places in Sweden to see the northern lights. In summer, the midnight sun and the unspoilt scenery attract hikers and nature lovers. The town lies on the Inlandsbanan railway, one of Sweden's great train journeys.

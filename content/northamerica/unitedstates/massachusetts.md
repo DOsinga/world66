@@ -1,14 +1,14 @@
 ---
-title: "Massachusetts"
+done:
+  location_cleanup: 2026-04-04
+latitude: 42.4072
+longitude: -71.3824
+title: Massachusetts
 type: location
-latitude: 42.378877
-longitude: -72.032366
 ---
 
-Massachusetts is probably more 'New England' than any of the other states in the northeast of the U.S. Small old towns like [Old Deerfield](/northamerica/unitedstates/massachusetts/olddeerfield), [Marblehead](/northamerica/unitedstates/massachusetts/marblehead) or Brewster all bring back the time of the 17-th century.
+Massachusetts packs an outsized amount of American history, natural beauty, and cultural life into a small state. The Pilgrims landed at [Plymouth](/northamerica/unitedstates/massachusetts/plymouth) in 1620, the American Revolution started in [Lexington](/northamerica/unitedstates/massachusetts/lexington) and [Concord](/northamerica/unitedstates/massachusetts/concord), and [Boston](/northamerica/unitedstates/massachusetts/boston) remains one of the most historically rich cities in the country.
 
+Beyond history, Massachusetts has Cape Cod's beaches, the islands of [Martha's Vineyard](/northamerica/unitedstates/massachusetts/marthasvineyard) and [Nantucket](/northamerica/unitedstates/massachusetts/nantucket), the Berkshire hills in the west, and some of the best universities in the world. The state is small enough that you can drive from the Atlantic coast to the New York border in under three hours.
 
- [Boston](/northamerica/unitedstates/massachusetts/boston) also known as bean town is the capital of the state and one of the oldest cities of the country with a unique history. In downtown Boston, Old South Meeting House, Old State House, Faneuil Hall, the Paul Revere House and Old North Church bring to life the American ideals of freedom of speech, religion, government, and self-determination.
-
-
- From the west of the state where there is a good stretch of Apalachian Trail you can follow, to [Cape Cod](/northamerica/unitedstates/massachusetts/capecod), there are many outdoor activities you can do.
+[Boston](/northamerica/unitedstates/massachusetts/boston) is the obvious starting point, but the smaller cities and towns reward exploration. [Lowell](/northamerica/unitedstates/massachusetts/lowell) preserves the story of America's industrial revolution. [Worcester](/northamerica/unitedstates/massachusetts/worcester) is the state's second city. The Berkshire towns of [Stockbridge](/northamerica/unitedstates/massachusetts/stockbridge), [Great Barrington](/northamerica/unitedstates/massachusetts/great_barrington), and [Pittsfield](/northamerica/unitedstates/massachusetts/pittsfield) draw visitors for summer music festivals and autumn foliage. [Cape Cod](/northamerica/unitedstates/massachusetts/capecod) is a world unto itself, with dunes, lighthouses, and fresh seafood from Sandwich to [Provincetown](/northamerica/unitedstates/massachusetts/provincetown).

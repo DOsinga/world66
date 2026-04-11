@@ -1,18 +1,14 @@
 ---
-title: "Prince Edward County"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 44.0319
+longitude: -77.2469
+title: Prince Edward County
 type: location
-latitude: 44.031827
-longitude: -77.246933
 ---
 
-Travel Guide
+Prince Edward County is a large island county on the north shore of Lake Ontario, connected to the mainland by bridges near Belleville and Trenton. Over the past two decades it has quietly transformed from a farming backwater into one of Ontario's most appealing short breaks — wine country, Sandbanks Provincial Park, cycling routes, and a genuine arts scene have all arrived without burying the rural character underneath.
 
-Prince Edward County is an island on the north shore of Lake Ontario near the City of Belleville connected to the mainland by several bridges. It consists of numerous towns, villages and
-hamlets such as: Ameliasburgh, Bloomfield, Carrying Place, Cherry
-Valley, Consecon, Demorestville, Milford, Northport, Picton,
-Rednersville, Waupoos, Wellington and West Lake.
+The county's villages each have a distinct personality. Picton is the market town hub with the most restaurants and shops. Wellington has the greatest concentration of wineries and a handsome main street. Bloomfield is small and artsy. The roads between them are flat and quiet — practically made for cycling. The landscape is pastoral: orchards, vineyards, limestone outcrops, and long views across the bay.
 
-The County is home to artists, farmers, nature lovers, cyclists and Sandbanks Provincial Park. The County also offers galleries, shops, and a growing wine industry.
-The quiet roads connecting these towns offer great cycling opportunities. Aside from cycling or camping at Sandbanks, BEWARE: there is nothing to do! All shops close at 5 pm. Most restaurants offer mediocre, overpriced food, which makes one wonder why they insist on reservations and closing their doors before 8:30. One restaurant in particular, the Devonshire in Wellington, is especially unwelcoming. For such a beautiful area, one might expect hiking trails, cycling paths, farmer's markets, and water access to dot the countryside - this is not the case.
-
-Prepare to be disappointed in Prince Edward County.
+Sandbanks is the obvious anchor attraction — the largest freshwater sand dune system in the world — and in summer the park gets genuinely busy. Come mid-week if you can, or in September when the crowds thin and the light turns golden. The rest of the year the county is peaceful to the point of sleepy, which is exactly what a lot of people are looking for.

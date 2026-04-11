@@ -1,9 +1,6 @@
 ---
 title: "Eating Out"
-type: location
+type: section
 ---
 
-** EMBER's Native Restaurant**
-*The sizzling, Grilled and Seafood Expe*rt
-National Highway near royal hotel) GSC
-for special request txt chef ember at 09205251721
+General Santos is the tuna capital of the Philippines, and seafood dominates the local dining scene. Grilled tuna belly, kinilaw (Filipino ceviche), and sizzling seafood platters are the things to order.

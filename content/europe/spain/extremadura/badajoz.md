@@ -1,19 +1,16 @@
 ---
-title: "Badajoz"
+title: Badajoz
 type: location
 latitude: 38.878187
 longitude: -6.970111
+done:
+  location_cleanup: 2026-04-06
 ---
 
-Travel Guide
+Badajoz is one of those Spanish cities where you might be the only tourist in town. Sitting on the banks of the Guadiana River just six kilometres from the Portuguese border, the capital of Extremadura's largest province has an Andalusian warmth mixed with Portuguese influence, a Moorish fortress overlooking the old quarter, and tapas bars where a beer still comes with a free plate of food.
 
-It is the capital of the Spanish province of Badajoz in the autonomous community of Extremadura, is situated close to the Portuguese border, on both banks of the river Guadina, and the Madrid-Lisbon railway.
-Badajoz is the biggest city in Extremadura. To its population (around 160000) we have to add the Portugues city of Elvas( around 40000). Both cities want to create an international agglomeration.
+The city was founded by the Galician Muslim rebel Ibn Marwan around 875 and spent centuries as a contested frontier town. Its Alcazaba, the Arab fortress crowning the hill above the old town, is one of the largest in Spain. Below it, the Plaza Alta and the Torre de Espantaperros hint at the city's Moorish past, while the fortress-like Cathedral of Saint John reflects the centuries of warfare that shaped this border city. The Puerta de Palmas, a monumental gateway facing the 15th-century bridge over the Guadiana, is the city's most recognizable landmark.
 
-Owing to its position the city enjoys considerable transit trade with Portugal; its other industries include the manufacture of linen, woollen and leather goods, and of pottery.
+Badajoz does not polish itself for visitors. The historic centre rewards wandering, but step outside it and you will find a workaday Spanish city with strong opinions about regional politics and an enduring affinity for neighbouring Portugal. Ask for a beer near the cathedral or around La Giralda square, and the tapas will arrive without ordering. The [MEIAC](https://www.meiac.es/), a contemporary art museum built inside a former Franco-era prison, is one of the best modern art spaces in western Spain.
 
-It is not mentioned by any Roman historian, and first rose to importance under Moorish rule. It was founded by the Galician Muslim Ibn Marwan around 875 and after 1022 it became the capital of a small Moorish kingdom Taifa de Badajoz, and, though temporarily held by the Portuguese in 1168, it retained its independence until 1229; when it was captured by Alfonso IX of Leon.
-
-As a frontier fortress it underwent many sieges. It was beleaguered by the Portuguese in 1660, and in 1705 by the Allies in the War of Spanish Succesion. During the Independence War Badajoz was unsuccessfully attacked by the French in 1808 and 1809 (also important is to highlight that the city was closely aligned with the French due to the fact that Manuel de Godoy, born in Badajoz, was for the French forces); but on March 10, 1811 the Spanish commander, José Imaz, was bribed into surrendering to a French force under Marshal Soult. A British army, commanded by Marshal Beresford, endeavoured to retake it, and on MAy 16, 1811 defeated a relieving force at Albuera, but the siege was abandoned in June.
-
-A military and republican uprising took place in August 1883, but completely failed.During the Spanish Civi War, Badajoz was defending the Republic but was then taken by the Nationalists in the Battle of Badajoz. A number of Republican prisoners were executed in the bullring called the Matanza de Badajoz, as the Franco repression was really extreme in this area.
+The city makes a good base for exploring the surrounding region. [Merida](/europe/spain/extremadura/merida), with its extraordinary Roman ruins, is less than an hour east. The Cornalvo Nature Reserve and the agricultural heartland of Tierra de Barros are close by. And the Portuguese city of Elvas, a UNESCO World Heritage garrison town, is just across the border.

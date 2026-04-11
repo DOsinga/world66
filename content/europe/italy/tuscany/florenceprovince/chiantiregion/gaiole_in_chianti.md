@@ -1,26 +1,14 @@
 ---
-title: "Gaiole in Chianti"
-type: location
-latitude: 43.468295
+done:
+  location_cleanup: '2026-04-08'
+latitude: 43.4683
 longitude: 11.4342
+title: Gaiole in Chianti
+type: location
 ---
 
-Travel Guide
+Gaiole in Chianti sits on a hill near the northern course of the Arbia river, deep in the wine country between Florence and Siena. This is the quieter, more rural side of Chianti — fewer tour buses, more working vineyards, and a surprising concentration of medieval castles and fortified farmhouses that recall the centuries when this borderland was fought over by the two rival cities.
 
-Gaiole is set on a hill near the northern course
-of the river Arbia. There are several evidences of former etruscan and
-roman installations. The most important examples referred to the roman
-age are the ruins preserved at the Pieve di San Marcellino. In this
-town there are several churches as San Giusto in Salcio, San Polo in
-Rosso e Spaltenna, San Marcellino, San Vincenti and castles as Castello
-di Montegrossi, Castello di Lecchi and the famous Castello di Brolio.
-Gaiole, as many other town in this area, was the core of the conflict
-between Firenze and Siena.
-Today, as in the past, viticulture and olive growing are the most
-important activities.
+The Castello di Brolio, seat of the Ricasoli family since 1141, dominates the landscape south of town and is open to visitors — the views from its walls stretch across an ocean of vines and olive groves. Closer to Gaiole, the fortified abbey of Coltibuono produces excellent wine and olive oil. The comune has mapped out six itineraries forming a "Chianti castles route" that threads through towers, fortified churches, and Romanesque pievi in the surrounding hills.
 
-The **Chianti castles route** is a tourist promotion project developed by the comune of Gaiole in Chianti, ****drawing its inspiration from the surprising number of castles,
-fortified farm houses, towers and fortified Abbeys in the area. The
-comune defined six itineraries that provide a very pleasant way to
-discover the architecture, history and present way of life of this part
-of the Chianti area.
+Viticulture and olive growing remain the lifeblood of the area, as they have been for centuries. Gaiole is a good base for exploring Chianti on foot or by car, with far fewer crowds than Greve or Radda.

@@ -1,12 +1,12 @@
 ---
-title: "Hemkunt"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 30.6968
+longitude: 79.6096
+title: Hemkund
 type: location
-latitude: 28.54895
-longitude: 77.247193
 ---
 
-Travel Guide
+Hemkund Sahib is a Sikh pilgrimage site at about 4,000 metres in the Garhwal Himalayas of [Uttarakhand](/asia/india/uttaranchal). A glacial lake surrounded by seven peaks, with a Gurudwara and a small Lakshman temple on its shore, it is one of the highest places of worship in the world. The setting is extraordinary — stark mountain walls, cold clear water, and beds of Brahma Kamal, a rare lotus-like flower that grows only at these altitudes.
 
-Hemkunt is located at about 4000meters above sea level;approachable by a 6km trecking path from Govindghat. Govindghat in turn is at about 14km trecking path from Govinddham.
-
-There is a Gurudwara, Laxman Mandir, a Lake and a bed of rare flowers called *BRAHMA KAMAL, which grow at that heights only.*
+The site is reached by a steep 6 km trek from Ghangaria (also known as Govind Dham), which is itself a 14 km walk from Govindghat on the main road. The trail is open only from June to October, when the snow has melted enough to allow passage. It is a demanding walk but the landscape rewards the effort. The nearby Valley of Flowers, a UNESCO World Heritage Site, can also be reached from Ghangaria.

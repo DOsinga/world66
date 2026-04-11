@@ -1,8 +1,12 @@
 ---
-title: "Bhagatawala - Chak 24 sb (Sargodha)"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 31.7717
+longitude: 72.6581
+title: Bhagatawala (Chak 24 SB)
 type: location
 ---
 
-Travel Guide
+Bhagatawala is a small village about 25 km from Sargodha city in Punjab, Pakistan, and less than a kilometre from Sargodha's domestic airport. The area is known for citrus farming — particularly oranges — and the Lower Jhelum Canal runs along its edge.
 
-It is about 25 Km away from sargodha city and 300 Mtr from Sargodha Domestic Air port. it is famous for Orange Growing and for having natural resources itself. it is also famous for traditional hosting and have some special treatment for some deseases. Many decent people are living in that place. it has beautiful view of Lower Jhelum Canal in its brink. Jan-March is best time to visit this place as it deliver a lot of variety in citrus and having nice weather . (Saqib Shah )
+January to March is the best time to visit, when the citrus harvest is underway and the weather is mild.

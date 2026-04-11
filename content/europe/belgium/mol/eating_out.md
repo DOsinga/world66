@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Mol"
+title: "Eating Out"
 type: section
 address: "Corbiestraat, 22"
 phone: "+32 (0)14 322662"

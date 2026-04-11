@@ -1,18 +1,6 @@
 ---
-title: "Shopping in Jomtien Beach"
+title: "Shopping"
 type: section
-email: "behnazvak@yahoo.com"
-type: "Speciality shops"
 ---
 
-Jomtien Beach has local shops, mini-marts and convenience stors plus also supermarkets, there is a very large Lotus Shopping Mall about 5 minutes inland from the beach road. There are also large shopping malls in nearby Pattaya.
-
-### [behnaz](/asia/thailand/jomtien_beach/shopping/behnaz)
-
-find a delta kites , children kites shops in bankok or Pattaya
-
-type: Speciality shops
-
-
-
-email: behnazvak@yahoo.com
+Jomtien itself has mini-marts and convenience stores on every block, but for serious shopping most people head to the large Tesco Lotus mall a few minutes inland from the beach road, or to the bigger malls in [Pattaya](/asia/thailand/pattaya) -- Central Festival and Terminal 21 are both easily reached by songthaew. Along the beach road, small shops sell beachwear, souvenirs, and tailored clothing.

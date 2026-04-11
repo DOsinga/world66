@@ -1,12 +1,12 @@
 ---
-title: "Pic Carlit"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 42.569841
 longitude: 1.932093
+title: Pic Carlit
+type: location
 ---
 
-This is not one of the highest Pyrannean peaks at a little under 3,000 metres but it is the highest in its area , the Eastern Pyrenees near the ski resort of Font-Romeu. It seems to be in a micro-climate area which gives it more sun than many of the peaks. 
+Pic Carlit tops out just under 3,000 metres -- not the highest in the Pyrenees, but the highest peak in the Eastern Pyrenees, near the ski resort of Font-Romeu. A reliable micro-climate gives it more sun than most of its neighbours.
 
-Its ascent demands not much more than reasonable fitness and an absence of vertigo and the views from the top are fantastically good. Ibex and Chamois are to be seen in the falling light of a summer evening on the upper [snowy] slopes. 
-
-There are good photos on http://www.pyrenees-team.com/pteam/photos/carlit/carlitg/19 but carlit doesn't seem to attract English sites.
+The ascent demands reasonable fitness and a head for heights, but nothing technical. The views from the summit are superb: lakes, ridges, and on a clear day the Mediterranean. In the falling light of a summer evening, you may spot ibex and chamois on the upper slopes.

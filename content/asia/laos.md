@@ -1,25 +1,23 @@
 ---
-title: "Laos"
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-08'
+image: laos.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a>
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Laos_entry_and_exit_stamps.jpg
+latitude: 19.8563
+longitude: 102.4955
+title: Laos
 type: location
-latitude: 20.017111
-longitude: 103.378253
 ---
 
-Travel Guide
+Laos is Southeast Asia's most languid country, a place where the Mekong River sets the pace and nobody rushes. Landlocked between [Thailand](/asia/thailand), [Vietnam](/asia/vietnam), [Cambodia](/asia/cambodia), [China](/asia/china) and [Myanmar](/asia/myanmar), it remains one of the region's least developed nations -- and that is a large part of its appeal. With a population of around 8 million, it feels blissfully uncrowded.
 
-We currently have no information about Laos.
+The country is dominated by mountains and jungle. Rugged ranges cover more than 75 percent of the land, and roughly half is still draped in primary forest. The Mekong flows along the western and southern borders, and most of Laos's important towns -- [Vientiane](/asia/laos/vientiane), [Luang Prabang](/asia/laos/luangprabang), [Pakse](/asia/laos/pakse) -- sit on its banks.
 
-If you do know any general information about Laos, please [Edit this article].
+[Luang Prabang](/asia/laos/luangprabang), the former royal capital, is a UNESCO World Heritage Site and arguably the most beautiful small city in Southeast Asia. Saffron-robed monks collect alms at dawn, French colonial buildings line quiet streets, and the Mekong and Nam Khan rivers frame the old town on both sides. Further south, [Vientiane](/asia/laos/vientiane) is the world's most laid-back capital, with gilded temples, French bakeries, and rice paddies within city limits.
 
-If you know any hotels in Laos or restaurants in Laos, please [[Add].](/destinations/addItemWizard?addwhere=asia/south/laos)
+Beyond the cities, Laos rewards the adventurous. The turquoise pools of Kuang Si Falls near Luang Prabang are stunning. The mysterious Plain of Jars near [Phonsavan](/asia/laos/phonesavanh) has never been fully explained. The 4,000 Islands of Si Phan Don in the far south offer hammock time on the Mekong with rare Irrawaddy dolphins nearby. And the Laos-China Railway, which opened in 2021, now whisks you from Vientiane to Luang Prabang in two hours -- a journey that once took a full day by bus.
 
-If you're looking for a hassle-free tourist destination, experience Laos in all its majestic beauty. Natural in almost every aspect, Laos is one of Southeast Asia's least developed nations offering the adventurous tourist a land of many surprises.
- 
-
-Laos, also known as the Land of a Million Elephants, is a culturally rich, land-locked country with a population of about 4 million. The Laotians are predominantly Buddhist and are very friendly and hospitable people. The official language is Lao. French and English are also widely spoken. The capital city, Vientiane, skirts the Mekong River, which forms the border between Laos and Thailand.
- 
-
-Embrace this wonderful opportunity to experience this untouched culture. In [Vientiane](/asia/laos/vientiane), you visit Hophrakeo, Wat Si Saket, Patousay (the Arc of Triumph) and That Luang Stupa. You also have time at the end of the trip to see the National Cultural Ethnic Park, Friendship Bridge and Buddha Park.
- 
-
-In [Luang prabang](/asia/laos/luangprabang), you enjoy trips to Wat Phousy on top of the hill overlooking the Mekong River. You also get to experience the Wat Xieng Thong, the most beautiful temple.
+Laos is a communist state that has cautiously opened to tourism. The infrastructure is basic in places, the roads can be rough, and outside the main towns English is limited. But the Lao people are famously gentle and welcoming, the food is excellent, and the landscapes are extraordinary. If you want Southeast Asia without the crowds, this is where you come.

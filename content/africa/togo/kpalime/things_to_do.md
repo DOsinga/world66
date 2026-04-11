@@ -1,17 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
-type: "Hiking"
 ---
 
-The area around Kpalime is very green and hilly, and great for treks.
-
-**Contributors**
-February 02, 2008
-
-### [Hiking around Klouto and Kuma Kunda](/africa/togo/kpalime/things_to_do/kuma_kunde)
-
-Klouto and Kuma Kunda are small villages near Kpalime, which can be reached by car or by moto.
-From Klouto or Kuma Kunda, you can make great treks in the neighbourhood, where butterflies and other insects are abundant. You can easily find a guide (or they find you) when entering the village.
-
-type: Hiking
+The area around Kpalimé is green, hilly, and excellent for trekking. The villages of Klouto and Kuma Kunda, reachable by car or moto, are the main starting points for walks through forest where butterflies and other insects are abundant. Guides are easy to find in the villages. Mount Agou, Togo's highest peak, is a straightforward half-day climb from nearby.

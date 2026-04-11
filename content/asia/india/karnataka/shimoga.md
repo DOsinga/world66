@@ -1,25 +1,16 @@
 ---
-title: "Shimoga"
+title: Shimoga
 type: location
-latitude: 14.05565
-longitude: 75.238055
+latitude: 14.0557
+longitude: 75.2381
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Travel Guide
+Shimoga — officially renamed Shivamogga — sits in the heart of [Karnataka](/asia/india/karnataka)'s Malnad region, where the Western Ghats tumble eastward into rice paddies and river valleys. This is green, wet, waterfall country, and it feels completely different from the dry Deccan plateau a few hours to the east.
 
-Shimoga is a true picture of nature's bounty-landscapes dotted with waterfalls, swaying palms and lush paddy fields make for picturesque locales.
+The district is carved by rivers. The Tunga and Bhadra flow through it and merge at Koodli, the Sharavathi crashes over Jog Falls (one of India's highest waterfalls, about 100 km away), and the Varada winds through the eastern plains. Dense forests of teak, rosewood, and sandalwood cover the hills, and the lowlands are thick with areca nut palms, paddy, and pepper vines. If you are arriving from Bengaluru, the landscape change is dramatic — scrubby plains give way to deep green within a couple of hours.
 
-Shimoga, almost central on the Karnataka map is the rice bowl of the State . The rivers Tungabhadra, Sharavathi, Varada and Kumudavathi inundate the luxuriant greens of the region.Shimoga was ruled by the great Indian dynasties of the Kadambas, Gangas, Chalukyas, Rastrakutas, Keladi and Vijaynagar Kings. Shimoga ( Face of Shiva) , was established by the Keladi rulers. It reached its pinnacle during the rule of Shivappa Nayaka around 1600 A.D.
+The city itself is a modest district capital, not a destination in its own right but a practical base. The real draws are in the surrounding countryside: Jog Falls, the temple town of Sigandur on the backwaters of the Sharavathi reservoir, the rainforests around Agumbe (one of the wettest spots in southern India), and the lion-tailed macaque habitat at Mookambika Wildlife Sanctuary. Shivamogga's bus stand connects well to all of these.
 
-The Sahyadri ranges,part of the Western Ghats, feed the rivers round the year, and inundate the fertile alluvial soil, this nature's blessing makes it the bread basket of Karnataka . The Sharavathi Hydel Project and Varahi Project provide a substantial portion of the state's power needs.
-
-Today, Shimoga is more than just a tourist destination. Its rich tradition in education, fine arts and culture remain deeply etched in its people and place. The enchanting natural scenery of hills, hillocks and green dales, rivers and streams, dense forests, flora & fauna, forts, temples and historical places, sandalwood and spices, add to this mouth-watering cuisine and touching hospitality and you know you've got - HEAVEN ON EARTH
-
-Shimoga, a place known for its scenic beauty, flush green lush forests, eye-catching waterfalls, cool climate is situated in the Malnad region bounded by Sahyadri ghats at an mean elevation of 640 AMSL in the western part of karnataka. The district is spread over an area of 1058,000 Hectares with an forest area of 327,000 Hectares. The total population of shimoga district as per 1991 census is around 14,52,320. The eastern part of district comes under the semi-malnad zone with plain topography and occasional chains of hills covered with semi-deciduous vegetation. Shimoga is origin of rivers Kali, Gangavathi, Sharavathi and tadadi . The other major rivers which flow through the district are Tunga, Bhadra and Varada. The rivers Tunga and Bhadra meets at a place called Koodalgi in shimoga district. Agumbe , a small place , known for its highest rainfall (8000 mm/annum) in southern india hails from this land. Shimoga district is rich in flora and fauna , the dense forest and green shrub jungles are main producers of sandalwood, rosewood, teak and other exotic timber. Mango, Jackfruit, Tamarind etc.. are the other important trees found around the district with rich yields. The dense forests of the district is home for wild animals like Elephant, Tiger, Lion, Leopard, Wild boar, Bear, Antelope, Bison, Porcupine, Monkeys, wolves and many other animals. Birds migrate from all over the world and travel down to shimoga for a honeymoon. Birds like ...... are found flying higher and higher in the blue skies. Shimoga farmers are feeding the people of Shimoga and other districts of Karnataka by producing good quality paddy, coconut, Ragi, Pepper, Areca and Sugarcane. It ranks 9th in size among all the districts of the State. The district is just 274 Kms away from the silicon valley of India, BANGALORE
-
-**HISTORY **
-
-Shimoga, as per traditional derivations ,the name pertains to Lord Shiva ( 'Shiva - Mukha' - Face of shiva , 'Shivana - Mogu' - Nose of shiva, 'Shivana - Mogge' - Buds of flowers meant for shiva ) . According to the legend, the place had the ashram of the famous sage ' Durvasa' who was noted for his sharpness of temper. He used to keep on the oven a pot boiling with sweet herbs. Once, some cowherds, who chanced upon it, tasted the beverage out of curiosity and called the place ' Sihi- Moge' (Sweet Pot) , Which was later called as 'SHIMOGA' .
-
-More information on
-*Shimoga Travel*
+The name has a good story behind it. One folk etymology traces it to "Sihi Moge" — sweet pot — after cowherds supposedly stumbled upon a sage's pot of boiling herbs and found it delicious. Another connects it to Lord Shiva. Either way, the Keladi Nayaka rulers built the town up in the 16th and 17th centuries, and the old temple architecture in the surrounding villages still reflects that era.

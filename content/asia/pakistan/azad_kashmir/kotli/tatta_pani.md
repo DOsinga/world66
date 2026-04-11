@@ -1,12 +1,12 @@
 ---
-title: "tatta pani"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 33.605
+longitude: 73.91
+title: Tatta Pani
 type: location
-latitude: 33.605569
-longitude: 73.948138
 ---
 
-Travel Guide
+Tatta Pani — literally "hot water" in the local Pahari dialect — is a small riverside settlement on the banks of the Poonch river, about 26 kilometres north of Kotli. It is known for its sulphur hot springs, which bubble up from the ground at high temperatures and flow into the river below. In winter, when the nights are cold and the surrounding hills have a bite to them, the springs draw visitors from across Azad Kashmir and from Pakistan proper, who come to soak and to believe, as locals long have, that the sulphur water does some good.
 
-- Tatta pani is situated on the banks of river poonch,north of kotli.It is famous for hot sulpher springs where thousands of people flock during winter.Here they bathe with hot water.
-- It is an excellent place to visit especially durring winter.It is accessible from Rawalakot via Hijira and Kotli.
-- AJK Tourism Department has constructed here a Tourist Rest House and bathrooms for the convenience of the visitors. Transport Services for Tatta Pani are available in good number from all important point Poonch, Mirpur & Kotli districts of Azad Kashmir.
+The setting is attractive in a rough-edged way: green hills above, the Poonch running below, and the smell of sulphur in the air. Facilities are basic — some simple bathing areas, a few chai stalls — and it remains well off the tourist trail. The road from Kotli through the Poonch valley is itself worth the drive.

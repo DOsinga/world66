@@ -1,14 +1,16 @@
 ---
-title: "Chichen Itza"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 20.682852
 longitude: -88.56872
+title: Chichen Itza
+type: location
 ---
 
-Travel Guide
+Chichen Itza is the most visited archaeological site in Mexico and one of the great ancient cities of the world. A UNESCO World Heritage Site and one of the New Seven Wonders of the World, it sits in the heart of the Yucatan Peninsula and draws visitors from across the globe — and for good reason.
 
-An impressive ancient Maya city located an hour and a half drive from Cancun airport. The most visited archaeological zone in Yucatan , here you will find one of the most known pyramids and temples of the Mayan world, "El Castillo or Kukulcan Temple ", "El Caracol or the Observatory", and the majestic "Juego de Pelota or Ball-Court". To fully enjoy this important site, plan to stay at least two nights in the area; there are small budget hotels in the nearby town of Piste , and truly quality hotels at the "zona hotelera de Chichen Itza " with their own private entrance gate. Hacienda Chichen Resort stands out for its commitment to Sustainable Tourism, Maya Jungle Reserve, Bird Refuge, Maya Holistic Center: Yaxkin Spa, and its unique history as a 16th Century Colonial Hacienda; this small boutique hotel has the best bird-watching nature trails and gardens in the area.
+The centerpiece is El Castillo, the stepped pyramid of Kukulcán that rises 30 meters above the jungle floor. Built with extraordinary precision, its four stairways each have 91 steps — add the top platform and you get 365, one for every day of the year. Twice a year at the equinoxes, the afternoon sun casts a shadow down the north staircase that looks unmistakably like a serpent descending from the sky. If you can time your visit, it is worth it.
 
-*Uxmal **: *Compact archaeological zone filled with impressive temples and courtyards beautifully built with what is known as the Maya "Puc" Style. Rich in its massive decor, this site is a must for those planning to stay in Merida for at least two nights. Recommended to book a day-trip tour and stay for the Light and Sound Show offer at sunset each day. Three hotels are near the entrance of Uxmal 's archaeological site for those travelers choosing to overnight.
+Beyond El Castillo, the site is vast. The Great Ball Court is the largest in Mesoamerica, stretching 168 meters long, with stone rings set high on the walls through which players drove a rubber ball using only their hips. The acoustics are remarkable — a whisper at one end carries clearly to the other. El Caracol, the round observatory, is an outlier among Mayan architecture: a cylindrical tower on a rectangular base, its windows aligned to track Venus across the sky. And the Sacred Cenote, a natural sinkhole some 60 meters wide, was a site of ritual offering — archaeologists have recovered gold, jade, incense, and human remains from its depths.
 
-*Ek Balam: *The most recently reconstructed archaeological site, a small group of pyramids and temples worth visiting for a few hours, the site is near the Colonial city of Valladolid, about 50 minutes away from Chichen Itza. Mexican authorities recreated the top sculpted decor of EK Balam's largest temple in the manner of Tatiana P.'s drawings. No hotels near it, but the town of Valladolid is close and has several hotel options.
+Chichen Itza is about two hours from Cancún and one and a half hours from Mérida, making it an easy day trip from either city. Arrive as early as possible — the site opens at 8am and the first tour buses from Cancún typically roll in around 10am. By midday the site is crowded and the heat is serious. Bring water, sunscreen, and comfortable shoes.

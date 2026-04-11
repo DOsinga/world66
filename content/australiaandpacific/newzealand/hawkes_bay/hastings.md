@@ -1,56 +1,12 @@
 ---
-title: "Hastings"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -39.641768
 longitude: 176.843078
+title: Hastings
+type: location
 ---
 
-Welcome. Stay awhile. Bask in our sunshine.
-Sip a glass of wine. Crunch into a crisp red apple straight
-from the tree. Relax. Making you feel at home is what
-we do best. You deserve a holiday!
+Hastings is a prosperous agricultural city in [Hawke's Bay](/australiaandpacific/newzealand/hawkes_bay), set in the wide Heretaunga Plains about twenty minutes inland from the coast. It was almost entirely rebuilt after the devastating 1931 earthquake — one of New Zealand's deadliest natural disasters — and the reconstruction left it with a remarkable concentration of Art Deco and Spanish Mission architecture, rivalling [Napier](/australiaandpacific/newzealand/hawkes_bay/napier) as a showcase of the style.
 
-We understand your needs, your desires and we
-offer you our special place in the sun to make your own. It
-could be for a day, two weeks or forever.
-
-If you want a memorable family holiday…
-golden sand beaches, lakes fringed by green willows
-to picnic under, scenic walks through richly diverse
-and beautiful countryside, to swim with dolphins and
-visit the National Aquarium of New Zealand, to learn
-about the 1931 Hawkes Bay earthquake, to have your children
-play all day in a water theme park and a range of affordable
-accommodation…we can do it!
-
-If you’re a thrill seeker, we provide
-them too. Paraglide from the top of Te Mata Peak. Take
-an early morning balloon ride. Watch the sun come up
-over the mountains and the mist trailing long gossamer
-scarves through vineyards below. Jet skiing, surfing,
-caving, mountain biking…All of it and more.
-
-For those looking for culture, then a visit
-to us will delight you. We’re home to many highly regarded,
-well-known artists, events and numerous galleries. Our investment
-art scene is thriving as out-of-towners and local residents
-recognize the quality of what we offer.
-
-And as for edible experiences, there’s
-enough to satiate the most discerning of palates. Even
-reading about them will start you yearning. The Hasting’s
-District proudly presents a total menu: the best of
-wines with the best of foods.
-
-We are one of New Zealand’s internationally
-acclaimed wine making regions as well as providing a
-complete range of dining experiences. You want cafes.
-We’ve got them. You need organic foods straight
-from the grower. We can do it. We’ve got it covered.
-Fine dining? We do that too. Wine tours and tasting,
-fresh vegetables, fruit of all sorts… It’s
-here in abundance.
-
-The only thing we don’t do? Big city.
-We CAN'T provide traffic jams, rush-rush-rush, air pollution
-and towering high-rises.
+The surrounding region is New Zealand's premier wine country, and Hastings is at the centre of it. Orchards and vineyards stretch in every direction, and the city has a well-earned reputation for food: farmers' markets, cellar doors, and restaurants using produce grown within sight of the hills. Te Mata Peak, rising sharply above the plains to the south-east, is the defining landmark — you can drive or walk to the top for sweeping views across the bay and back towards the Kaweka ranges.

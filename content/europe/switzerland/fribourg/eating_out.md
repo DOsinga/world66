@@ -1,18 +1,8 @@
 ---
 title: "Eating Out"
 type: section
-price: "8.30CHF"
-type: "Local"
 ---
 
-### [Menza](/europe/switzerland/fribourg/eating_out/menza)
+Fribourg's restaurant scene is modest but honest. The old town has a handful of good traditional restaurants serving rösti, cheese fondue (Gruyères cheese is made just down the road), and raclette. Prices are Swiss, but not outrageous by local standards.
 
-Cheap place located in the "école d'ingénieur". For 8.30CHF one gets a decent meal each working day.
-
-type: Local
-
-
-
-[[rate it]](/europe/switzerland/fribourg/eating_out/menza)
-
-PriceOfMenu: 8.30CHF
+The student quarter around the university keeps a number of cheaper options open during term time, including canteen-style places where a full meal runs around 8–10 CHF.

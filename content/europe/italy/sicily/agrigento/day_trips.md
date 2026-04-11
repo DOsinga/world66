@@ -1,8 +1,8 @@
 ---
 title: 'Day Trips'
 type: section
+linked_locations:
+  - europe/italy/sicily/caltabellotta
 ---
 
-Selinunte makes a rewarding day trip from Agrigento, though it is even better to stay overnight in Marinella. The site has as many temple ruins as Agrigento itself, including one that has been reconstructed, plus an old Acropolis and a necropolis. In February the wildflowers are already spectacular, and for the size of the place there are remarkably few visitors.
-
-[Caltabellotta](/europe/italy/sicily/caltabellotta) is a dramatic hilltop village reached by bus via Sciacca. The winding ride up the mountain is half the fun.
+Agrigento sits close to some rewarding destinations. Selinunte makes a particularly good day trip — it has as many temple ruins as Agrigento itself, including one fully reconstructed, plus an acropolis and a necropolis. In February the wildflowers are already spectacular. Caltabellotta, a dramatic hilltop village perched above Sciacca, is reachable by bus and worth the winding ride up the mountain.

@@ -1,10 +1,10 @@
 ---
-title: "Getting There in Billings"
+title: "Getting There"
 type: section
 ---
 
-Billings travel is convenient with several major airlines offering service to and from Billings Logan International Airport. United, US Airways, Frontier Airlines, American, and Delta all provide flights to Billings. If you decide to take Amtrak, the nearest stop is in Malta, Montana, about 212 miles north of Billings. However, Greyhound does have a stop on the east side of town. If you decide to drive, Interstate 90 runs east/west through Billing. If traveling in Billings north/south, Highway 87 turns into Main Street then connect into US Highway 87 East.
+Billings sits at the junction of Interstate 90 and Interstate 94, making it the easiest city in Montana to reach by road. I-90 runs east-west and connects to Bozeman, Missoula, and eventually Seattle to the west, and the Black Hills of South Dakota to the east. I-94 heads northeast toward North Dakota. From the south, I-90 comes up out of Wyoming through Sheridan.
 
-Interstate 90 comes up to Billings from the south out of Wyoming and junctions with Interstate 94 which comes west out of North Dakota. If you are heading east towards Billings you would take I-90. From the north Hwy. 87 is good
+Billings Logan International Airport is on the north side of the city and has service from several major carriers including United, Delta, American, and Frontier. It is the busiest airport in Montana.
 
-You can also fly in to Logan international airport, which is on the north side of Billngs
+Greyhound has a stop on the east side of town. If you are thinking about Amtrak, the nearest station is in Malta, about 212 miles north -- not practical unless you are making a trip of it.

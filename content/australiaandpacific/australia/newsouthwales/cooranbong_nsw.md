@@ -1,15 +1,14 @@
 ---
-title: "Cooranbong NSW"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -33.07621
 longitude: 151.453613
+title: Cooranbong
+type: location
 ---
 
-Travel Guide
+Cooranbong is a small town on the western shore of Lake Macquarie, about 100 km north of Sydney and 30 km south of Newcastle. It sits at the foot of the Watagan Mountains and serves as a gateway to the Watagan State Forest, which has good bushwalking, camping, and mountain-bike trails in the hills above the lake.
 
-**Cooranbong**
-Quiet rural town now being absorbed into the larger city of Lake Macquarie
-Located just over 100 km north of Sydney, can be reached by the scenic route (pacific Hiway or the Sydney to Newcastle Freeway exiting at Morriset. Cooranbong is the major gateway to the Watagan Mountains and is located on the western side of Lake Macquarie. In the town centre there is a nice little restaurant, and a variety of shops including the Elephant Shop, selling a range of quallity imported homewares and semi precious gem stones. Cooranbong has a number of historical buildings located along Martinsville Road, this includes the old church and Cooranbong's first post office.
+The town is quiet and largely residential. The historic buildings along Martinsville Road include the old church and Cooranbong's original post office. The Sunnyside Museum on Avondale Road holds artefacts from the Pacific Islands and the region's early Adventist history — the area was settled in the late 19th century by Seventh-day Adventists who established Avondale College here.
 
-**Sunnyside and South Sea Islands Museum**
-is located in Avondale Road, gives an presents many atifacts from the Pacific Islands dating
+For most visitors, Cooranbong is a rest stop or a base for lake and forest activities rather than a destination in itself.

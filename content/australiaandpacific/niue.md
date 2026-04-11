@@ -1,19 +1,22 @@
 ---
-title: "Niue"
+done:
+  country_cleanup: 2026-03-30
+  location_cleanup: '2026-04-09'
+image: niue.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Fmarier" title="User:Fmarier">Francois
+  Marier</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Togo_Chasm_beach.jpg
+latitude: -19.054
+longitude: -169.861
+title: Niue
 type: location
-latitude: -19.053641
-longitude: -169.861341
 ---
 
-The Country Niue is affectionately known as 'the rock' and is reputedly the largest upraised coral atoll in the world. A single land mass in the center of a triangle of Polynesian islands, made up of Tonga, Western Samoa and the Cook Islands, Niue is located 2400 km north-east of New Zealand, on the eastern side of the International dateline and is 11 hours behind Greenwich meantime. 
+Niue is one of the world's smallest nations — a single raised coral island in the South Pacific, about 2,400 km northeast of New Zealand. It calls itself the Rock of Polynesia, and the name fits. There are no beaches to speak of on most of the coast; instead, the island rises abruptly from the sea in dramatic limestone cliffs, chasms, and arches carved by millennia of wave action.
 
+The population is around 1,700, making Niue one of the least populated self-governing nations on earth. Many Niueans have emigrated to New Zealand, and the diaspora in Auckland alone outnumbers the population at home. Those who remain are welcoming and unpretentious. Tourism is a growing part of the economy, but Niue is still genuinely off the beaten track.
 
- The island isolation and coral makeup create an exciting rugged coastline and reef which provides intimate swimming coves as opposed to the typical long stretches of sandy beaches so predominant elsewhere in Polynesia. 
- The landmass of Niue is 259 sq. km, and 13 villages are found along Niue's 67-km circle island road.
+What draws visitors is the water. Visibility in Niue's ocean can reach 100 metres — some of the clearest in the world. Divers come for the sea caves, coral walls, and resident sea snakes. From July to October, humpback whales arrive to calve and nurse, and you can sometimes watch them from the clifftop cafes. Snorkelling at natural pools like Matapa Chasm is extraordinary even for non-divers.
 
-
- The whole island is two tiered but is dotted with a myriad of caves that have yet to be discovered. Shaped like a saucer and rising only 65 meters above sea level, Niue is without streams or rivers, and therefore after rain the water filters through the porous coral out into the ocean completely devoid of any silt run-off. This allows the surrounding sea to be crystal clear with dive visibility often up to 70 meters. 
- The flora and fauna are spectacular with butterflies everywhere, and an abundance of bougainvillea, frangipani, hibiscus and orchids. A variety of ferns and profusion of "crows nest" grow amongst wild rhododendron and poinsettia. There is a rich bird life with weka, swamp kens, parakeets and white tailed terns.
-
-
- Start you visit in the capital of [Alofi](/australiaandpacific/niue/alofi). From there you can start exploring the islands.
+The island is easy to explore independently by rental car. The main road loops around the coast with tracks and paths leading down to chasms, tide pools, arches, and caves. Alofi, the small capital, has a handful of restaurants, a market, a bank, and not much else — which is part of the appeal.

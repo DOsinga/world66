@@ -1,9 +1,6 @@
 ---
-title: "Bars and Cafes in Matsumoto"
+title: "Bars and Cafes"
 type: section
 ---
 
-There is a new cafe opened just near Matsumoto Castle - it's called "payasa" (means "Indian rice pudding"). The place has got a great atomosphere and it's already become my favorite cafe! Owner Yasoo is great to talk to and you can just visit the place alone or with friends. They've also got a website www.geocities.com/cafepayasa Definitely worth a try!
-
-**Contributors**
-September 14, 2006
+Matsumoto has a lively cafe and bar scene concentrated around the castle area and the Nakamachi merchant district. The narrow streets south of the castle are dotted with independent coffee shops, sake bars, and izakayas — many housed in converted kura storehouses. The city is small enough that you can wander and find your own favourites.

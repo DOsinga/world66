@@ -1,40 +1,16 @@
 ---
-title: "Getting Around in Varanasi"
+title: "Getting Around"
 type: section
 ---
 
-There are several **Varanasi transportation **services that will
-transport you around the city. However, the narrow lanes of the city
-restricts the modes of transport to a few types. Walking is advisable
-in these narrow lanes.
+The narrow lanes of the old city restrict transport to a few options. Walking is the only way to navigate the ghat area and the maze of alleys around Vishwanath Temple.
 
-**Cycle Rickshaw**
+**Cycle Rickshaw** — Easily available everywhere and cheap. Best for short hops within the city.
 
-This environment-friendly mode of transportation is easily available
-everywhere in the city and is also very cheap and comfortable. It is
-mostly preferred for short distance routes within the city.
+**Auto-Rickshaw** — Three-wheelers run on the main roads throughout the day. Economical and comfortable for longer trips. Agree on the fare before you get in.
 
-**City Bus**
+**Boats** — Small rowing boats are the classic way to travel between ghats and to cross the river. Hire one at any ghat for a sunrise ride — this is one of Varanasi's essential experiences.
 
-They mostly serve the outskirts of the city and is mostly used by
-the locals for commuting. It is better to avoided it all together as
-they are very crowded and uncomfortable for long journeys.
+**Taxi** — Available for trips to the outskirts (Sarnath, the airport) but restricted to main roads. The by-lanes are far too narrow.
 
-**Auto-Rickshaws**
-
-These three-wheelers run on the city roads throughout the day. They
-are pretty economical and very comfortable for long and short trips in
-and around the city. Moreover, they are easily available too.
-
-**Boats**
-
-Small boat rides are a common sight on the River Ganga. They are the
-most comfortable and cheapest mode of transportation for crossing the
-river and reaching the ghats.
-
-**Taxi**
-
-Taxi service is also available in the city and is best used for long
-trips in and around city. They are much comfortable then others.
-However, the service is restricted to main city roads only, as the
-by-lanes are too narrow for taxis.
+**City Bus** — Serves the outskirts and is used mainly by locals. Crowded and not practical for visitors.

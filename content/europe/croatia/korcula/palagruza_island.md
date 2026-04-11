@@ -1,11 +1,14 @@
 ---
-title: "Palagruza island"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 42.3936
+longitude: 16.265
+title: Palagruža
 type: location
 ---
 
-Travel Guide
+Palagruža is Croatia's most remote island — a tiny sliver of rock in the middle of the Adriatic, roughly equidistant between the Croatian and Italian coasts. The island is about 1,400 metres long and 300 metres wide, rising to 90 metres at its highest point, and is covered in low Mediterranean scrub.
 
-**PALAGRUZA ISLAND**
-**Palagruza lighthouse** was built in 1875 on the island of the same name, placed in the middle of the Adriatic sea, between the **Italian and Croatian coasts**, 68 NM south of Split and 26 NM south of the island of Lastovo. This island of exceptional beauty is Croatia's furthest island. The island itself is 1400 m long, 300 m wide and 90 m high, and is covered in Mediterranean vegetation.
+The lighthouse, built in 1875, is the island's only structure of note and can be rented as accommodation — one of several Croatian lighthouse stays that offer genuine isolation. The waters around the island are exceptionally clear, and the island itself has been inhabited since Neolithic times; archaeological finds include a bronze statue of Diomedes, the Greek hero said to have founded a cult here.
 
-More information at http://www.mediterano.hr/lighthouses/default.asp?id=456
+Getting to Palagruža requires a private boat or an organized excursion from [Korčula](/europe/croatia/korcula) or Lastovo — there is no scheduled ferry. The crossing can be rough, but on a calm day it is worth the effort.

@@ -3,5 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Air flights to
-[Algiers](/africa/algeria/algiers), and also some to France. Buses and trains connect Tlemcen well with the rest of Algeria.
+Tlemcen has a small airport (Zenata-Messali El Hadj Airport) with flights to [Algiers](/africa/algeria/algiers) and some connections to France. Buses and trains connect the city to Oran (about two hours), Algiers, and other Algerian cities. The road from Oran follows the coast before turning inland through the hills.

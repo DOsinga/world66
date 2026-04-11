@@ -1,8 +1,10 @@
 ---
-title: "Maracaibo Lake"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 10.025111
 longitude: -71.616313
+title: Maracaibo Lake
+type: location
 ---
 
 We currently have no information about Maracaibo Lake.

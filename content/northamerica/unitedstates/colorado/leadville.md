@@ -1,8 +1,10 @@
 ---
-title: "Leadville"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 39.250823
 longitude: -106.292524
+title: Leadville
+type: location
 ---
 
 We currently have no information about .

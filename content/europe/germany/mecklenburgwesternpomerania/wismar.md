@@ -1,17 +1,14 @@
 ---
-title: "Wismar"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 53.891
+longitude: 11.4648
+title: Wismar
 type: location
-latitude: 53.890983
-longitude: 11.464793
 ---
 
-The old hanseatic town of Wismar was founded in the 13th century. Today it is the second largest port in Mecklenburg Vorpommerania with some 50,000 inhabitants. The city lies in a picturesque setting directly on the Baltic coast and its charming historic Old Town is one of the best preserved mediaeval town centres in North Germany
- with many fine and unusual architectonic examples. Some of the street and place names are reminders that the city was a Swedish possession between 1648 and 1803.
- The urban skyline is dominated by three imposing medieval brick built cathedrals.
+Wismar is a Hanseatic port town on the Baltic coast of Mecklenburg-Western Pomerania, with one of the best-preserved medieval town centres in northern Germany. Founded in the thirteenth century, it grew wealthy through Baltic trade and was a Swedish possession from 1648 to 1803 — a history still visible in some of the street names.
 
+The skyline is dominated by three imposing medieval brick-built churches, and the Market Square, one of the largest in northern Germany, is ringed with carefully restored gabled houses including the Alter Schwede and the ornate Wasserkunst fountain. The old harbour, still a working port, adds character to the waterfront. Wismar and neighbouring Stralsund were jointly listed as a UNESCO World Heritage Site in 2002 for their outstanding examples of Brick Gothic architecture.
 
- The beauty of the city is enhanced by the old harbour and the impressive Market Square, one of the largest in North Germany. It is fringed with fine, carefully restored residences, including the oldest, the "Alte Schwede" and the "Wasserkunst", an ornate fountain.
- Look at the new Wismar on an interactive Aerial picture -map.
-
-
- Apart from its lovely charm Wismar has a great deal to offer in its cultural programme as well as varied leisure and shopping facilities invite to visit the city.
+The city has about 50,000 inhabitants and a relaxed, walkable quality that makes it an easy day trip from Rostock or Schwerin, or a quiet overnight stop on a journey along the Baltic coast.

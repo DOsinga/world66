@@ -1,10 +1,14 @@
 ---
-title: "Lake City"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 30.189425
 longitude: -82.63948
+title: Lake City
+type: location
 ---
 
-Travel Guide
+Lake City sits at the junction of I-10 and I-75 in north Florida, a practical stop and a reasonable base for the spring-fed rivers and forests of the region. The town itself is modest — its past as a farming community is still visible — but the surrounding area has real attractions.
 
-Lake City is considered to be the gateway to Florida. I-10 and I-75 intersect here. It is a small Nort Florida town that is rapidly growing. The main industry 50 years ago was farming. Now the main industry is tourism. There are several lakes in the area for fishing, swimming, or skiing. The Suwanne River, Sante Fe River, and the Itchetuckee are all near. Picture tubing down the cool crystal clear river of the famous Itchetuckee. It is a wonderful way to spend a lazy summer day. The people are friendly, and the schools are great. The Florida Hiking trail and several national forests are nearby. The area is a beautiful place and a great place to visit.
+The Ichetucknee River, about 12 miles northwest of town, is one of the best things to do in north Florida. The springs pour out millions of gallons of 68°F water daily, and tubing the slow current through the forest on a summer afternoon is genuinely pleasant. Nearby, the Suwannee and Santa Fe rivers offer canoeing and kayaking.
+
+The Osceola National Forest lies just east of town, with trails, camping, and wildlife. Lake City is also close to the Florida Trail.

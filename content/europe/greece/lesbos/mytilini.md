@@ -1,8 +1,10 @@
 ---
-title: "Mytilini"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.103735
 longitude: 26.554788
+title: Mytilini
+type: location
 ---
 
 Mytilini is probably the most visited city on Lesbos, not in the least because this is one of the few places in the eastern part that can be reached fairly easy by public transport (both boat and bus). It's a busy coastal city with old markets, an old harbour, small cafés (where you can taste the original ouzo), cobbled streets and various museums. The museum of Theofilos gives a nice overview of the life of this popular painter. If you want to know more about Lesbos' history, a visit to the New Archeological Museum might be an idea.

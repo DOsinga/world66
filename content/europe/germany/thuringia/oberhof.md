@@ -1,24 +1,16 @@
 ---
-title: "Oberhof"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 50.706776
 longitude: 10.725744
+title: Oberhof
+type: location
 ---
 
-Already in the 19th century, the quietness, the fresh air and the environmental surrounding let visitors come to Oberhof, located south between [Eisenach](/europe/germany/thuringia/eisenach) and [Jena](/europe/germany/thuringia/jena). Known as the centre of the Thuringian forest, Oberhof is an ideal location for every sport fan during both summer and winter season.
+Oberhof is a small resort town in the heart of the Thuringian Forest, sitting at around 800 metres elevation between [Eisenach](/europe/germany/thuringia/eisenach) and [Jena](/europe/germany/thuringia/jena). It has been drawing visitors since the 19th century, first for the clean mountain air and now for its reputation as one of Germany's premier winter sports centres.
 
+In winter, Oberhof comes into its own. The town is famous across Europe for biathlon and cross-country skiing — World Cup events are held here regularly — and there is also downhill skiing, snowboarding, and an ice canal toboggan run that is open to everyone. When the weather is unreliable, the winter sports exhibition offers a worthwhile indoor alternative.
 
- 
- Oberhof is definitely a place to do cross-country in winter. There is a place to do downhill and snowboarding even at night. A special event for everybody is the possibility to go down the toboggan track called the ice canal. For unstable weather conditions, you have the chance to visit the Oberhof - winter sport exhibition, which is really interesting and worth a visit.
+The biggest event on the calendar is the Rennsteig-Lauf, a major cross-country running race held in May that anyone can enter — not just athletes. It follows the Rennsteig ridge trail through the forest.
 
-
- 
- Not only the pro athletes do competitions in Oberhof. In May and even in winter now, the greatest Cross - Country run takes place called the "Rennsteig-Lauf". It is a competition whereby everybody can try himself and test his conditions.
-
-
- 
- In summer the Rennsteiggarten Oberhof is a precious little place to be. All through the year, from May till October, upon an area of 7 hectare, 4000 different species of plants from all over the world can be viewed. The festival of blossoms even became tradition. It is the last weekend in June and the fall festival in September.
-
-
- 
- Enjoy to see the "Schneekopf" (978m) - the 2nd highest "peak" of the Thuringian Forest and only a few kilometers away from Oberhof - a favored destinations for hiking.
+In summer, the Rennsteiggarten is the main draw: a botanical garden spread across seven hectares, with 4,000 plant species from around the world. It opens from May to October, with a blossoms festival on the last weekend in June and a harvest festival in September. The Schneekopf (978m), the second-highest peak in the Thuringian Forest, is just a few kilometres away and a popular hiking destination.

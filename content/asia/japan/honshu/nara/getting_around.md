@@ -1,18 +1,11 @@
 ---
-title: "GettingAround in Nara"
+title: "Getting Around"
 type: section
 ---
 
-Become familiar with **Nara transportation **before your trip so that you'll be able to get to where you're going without stressing out. Any of the following methods can help you get to and around Nara:
+The main sights cluster around Nara Park and are easily reached on foot from either of the two train stations. Most visitors walk between Todai-ji, Kasuga Grand Shrine, and Naramachi — the distances are short and the park itself is the route.
 
-**Train**
+The Nara Kotsu city bus network covers the wider city. Buses run roughly every thirty minutes to most stops; a single journey costs around ¥220. A day pass is available and worthwhile if you plan to venture beyond the park.
 
-Japan is known for its highly efficient, affordable train system, and Nara is no exception. Riding to Nara on the Kintetsu Kyoto Line and the JR Nara Line out of Kyoto takes only a little more than half an hour and costs around $7. If originating from Osaka, you can get to Nara on the Kintetsu Nara Line in about 45 minutes for around $8. The Kintetsu Nara Line can also get you to several points throughout the city for even cheaper fare.
+Taxis are available at the train stations but expensive by the standards of the local sights, all of which are within easy walking distance of each other.
 
-**Bus**
-
-The Nara Kotsu Bus Service is one of the most inexpensive and safest ways to get around Nara. You can get to a nice walking point near just about any point of interest in the city for only around $2 per adult and $1 per child ages twelve and younger. However, make sure you get to a bus stop early, as buses come by only once every half an hour or so to most stops.
-
-**Taxi**
-
-Japanese taxis are fairly pricey, simply because their public transportation systems are so much more often used, and it's easy to walk from place to place as well. However, if you like the personalized service that a taxi can provide, you may be able to find taxis and taxi stands near the train station and possibly at major sites of interest throughout the city. Just to be on the safe side, though, get some Nara taxi service phone numbers ahead of time so that you can call a taxi when needed. Prices may vary, but don't be surprised to find that the cost is somewhere around $7 for the first 1 1/4 miles (two kilometers) and $2 for every 2/3 miles (one kilometer) after that. You won't have to tip, though, as that's included in the price.

@@ -244,7 +244,7 @@ body{background-image:url('{{ hero_image_url }}');background-size:cover;backgrou
 {% if tags %}
 <div class="tags">
   {% for tag in tags %}
-  <span class="tag">{{ tag|replace_underscores }}</span>
+  <span class="tag">{{ tag }}</span>
   {% endfor %}
 </div>
 {% endif %}

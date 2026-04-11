@@ -1,15 +1,16 @@
 ---
-title: "Bratislava"
+title: Bratislava
 type: location
-latitude: 48.155918
-longitude: 17.131354
+latitude: 48.1559
+longitude: 17.1314
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Bratislava is the capital of the Slovakia. It is an old city with a long history and many sights. Bratislava Castle dominates the town, around the catsle you find a couple of interesting museums, such as the Museum of Jewish Culture and the Municipal Museum. Opposite is the Blue House, which houses the Exhibition of Arts and Crafts.
+Bratislava is one of Europe's smallest and most underrated capitals. Sitting on the Danube where [Slovakia](/europe/slovakia), [Austria](/europe/austria), and [Hungary](/europe/hungary) meet, it spent centuries in the shadow of nearby Vienna — and for much of that time, it was the coronation city of the Hungarian kings.
 
-To the south of the castle hill are the preserved remains of an ancient tower which protected the Danube ford. Other sights close to the castle include the Baroque Church of the Order of the Holy Trinity and the Renaissance Bramer Manor House, where the Archeological Museum is housed.
+The old town is compact and walkable. Bratislava Castle, perched on a hill above the Danube, dominates the skyline and houses several museums including the Museum of Jewish Culture. Below, the medieval streets lead to the Main Square, where the Renaissance Maximilian Fountain and Gothic Town Hall anchor a cluster of pastel-coloured houses. The Primate's Palace, a few steps away, is the finest Classicist building in Slovakia.
 
+St. Martin's Cathedral, a 13th-century Gothic church where 19 Hungarian monarchs were crowned, anchors the western edge of the old town. The Slavin war memorial, on the city's highest hill, offers panoramic views and a sombre reminder of the 6,845 Soviet soldiers buried here. For a lighter afternoon, pack a picnic for Janka Krala park on the south bank of the Danube, or head to Horsky Park for a walk in the woods.
 
- The Main Square of the medieval town constitutes the centre of the historical city. The most important events have happened here since the 14th century. Besides regular markets, all gatherings, celebrations and executions took place here. All the houses on the square have an older Gothic core, several of them were built prior to the fortification of the town as defensive houses with towers. The sandstone Renaissance Maximilian's Fountain and circular reservoir stand in the centre of the square. The square is dominated by the Town Hall.
-
-The narrow Kostolna ulica next to the Old Town Hall leads to the Primate's Square, which served as a market place in the Middle Ages. On it you find the Primate's Palace, which is the most beautiful Classicist structure in Slovakia.
+The Christmas Market on the Main Square is one of the best in Central Europe — worth timing a visit around if you are in the region in December.

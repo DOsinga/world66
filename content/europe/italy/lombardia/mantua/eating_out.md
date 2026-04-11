@@ -3,10 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-**all**
+Mantuan cuisine is distinctive — tortelli di zucca (pumpkin-stuffed pasta) is the signature dish, sweeter and richer than you might expect. Risotto alla pilota, made with local sausage, is another staple. Fresh pasta shops (like the Casa del Pane on Via Verdi) sell handmade noodles and filled pasta to take away.
 
-**Self catering / casa del pane**
-
-Get your fresh noodles at the casa del pane. Beware of the tortellini alla mantovana con zucca. They are too sweet for my taste.
-
-address: Via Verdi 65
+The streets around the piazzas have a good range of trattorias and restaurants. Eating well in Mantua is easy and affordable.

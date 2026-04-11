@@ -1,8 +1,10 @@
 ---
-title: "Gouessesso"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 7.761147
 longitude: -7.652709
+title: Gouessesso
+type: location
 ---
 
-12 km west of [Biankouma](/africa/ivorycoast/biankouma) and some 50 km from [Man](/africa/ivorycoast/man), this Yacouba village is mainly famous for its attractive tourist hotel, Les Lianes. The hotel blends in perfectly with the village and here you can observe traditional village live without feeling too much like someone who is disturbing what he is trying to observe.
+Gouessesso is a small Yacouba village 12 km west of [Biankouma](/africa/ivorycoast/biankouma) and about 50 km from [Man](/africa/ivorycoast/man), in the hilly west of [Ivory Coast](/africa/ivorycoast). The village is known for Les Lianes, a small hotel that blends into its surroundings so well that staying there feels less like tourism and more like a quiet immersion in traditional village life. If you are looking for an authentic encounter with rural West Africa without the self-consciousness that often comes with it, this is a good place to start.

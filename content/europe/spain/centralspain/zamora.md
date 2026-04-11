@@ -1,16 +1,14 @@
 ---
-title: "Zamora"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 41.685769
 longitude: -5.942315
+title: Zamora
+type: location
 ---
 
-Zamora is accessible from [Madrid](/europe/spain/madrid), Ávila or southern Galicia by Talgo and from [Salamanca](/europe/spain/centralspain/salamanca)or León by bus, bus from Salamanca taking less than an hour. 
+Zamora is probably the least well known of Spain's grand old cities, overlooked in favour of nearby [Salamanca](/europe/spain/centralspain/salamanca) and León. That is a shame, because it is a handsome place on a hill above the Duero River with more Romanesque churches per square kilometre than anywhere else in Spain.
 
-It is probably the least well known of Spain's grand old cities, perhaps because of the lack of any specific mastersight, other than its cathedral. However it does not deserve to suffer from people not knowing it. The site is great and it used to be known as 'the Clased One' because it was easily defended on its hill. The steep streets down to the river, where there is a Roman bridge, are spectacular and there are some good looking art nouveau shops near its Plaza Mayor. 
+The city was known as "La Bien Cercada" (The Walled One) for its formidable defences, and the steep streets dropping down to the river — crossed by a medieval bridge — are striking. The cathedral, with its distinctive Byzantine-inspired dome, sits at the highest point. Below it, over twenty small Romanesque churches are scattered through the old town, each with its own character. One of them houses a museum of the ornate floats and vestments used during Zamora's Semana Santa processions, considered among the finest in Spain.
 
-Its main features, however, are the cathedral [photoed with some difficulty in avoiding scaffolding at the time] and its number of small Romanesque churches, one of which is also a museum for the artefacts used during the famous Semana Sancta processions in the city. 
-
-davidx
-
-2 July 2004
+The Plaza Mayor and surrounding streets have some attractive Art Nouveau shopfronts. Zamora is easily reached from Salamanca by bus (under an hour) or by train from [Madrid](/europe/spain/madrid).

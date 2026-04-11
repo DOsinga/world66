@@ -1,12 +1,14 @@
 ---
-title: "Trebbia valley"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.549
+longitude: 9.217
+title: Trebbia Valley
 type: location
 ---
 
-Just outside Genoa, you go up to the neraby hills, passing Torriglia near to the Scrivia valley and following the ss45 you fund yourself in this small, narrow but fascinating valley. Descending the upper part of this valley you find the important village of Montebruno a well known holiday resort with also a famous historical background. He is most famous for its Sanctaury of Nostra Signora but there is also a very important roman bridge, a passage for the Ligurian pilgrims and the High Way of the Ligurian Mountains. It has also an interesting folk museum. Montebruno is also famous to have been the landing place of Sophie Blanchard and gained recently national importance to have elected the youngest mayor in Italy. From here you can go to Barbagelata The hamlet of Barbagelata (1 1 15 rn) is a summer resort. the uppper village of the Ligurian Mountains
+Just outside [Genoa](/europe/italy/liguria/genoa), the Trebbia Valley cuts a narrow, winding path through the Ligurian Apennines. Follow the SS45 past Torriglia, near the Scrivia valley, and you find yourself in a small but fascinating mountain landscape.
 
-Enrico Pelos, Liguria editor, Osinga.com, Genoa, Italy.
+Descending the upper valley, the village of Montebruno is a well-known holiday resort with a rich historical background. It is most famous for its Sanctuary of Nostra Signora, but there is also a Roman bridge — once a passage for Ligurian pilgrims — and an interesting folk museum. Higher up, the hamlet of Barbagelata sits at over 1,100 metres and serves as a summer retreat along the Alta Via dei Monti Liguri (the High Way of the Ligurian Mountains).
 
- pelos@tn.village.it
-
- http://www.pelos.it
+The valley is quiet, green, and largely unvisited by tourists — a good escape from the coast for anyone based in Genoa.

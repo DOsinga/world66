@@ -1,32 +1,14 @@
 ---
-title: "Viroqua"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 43.556917
 longitude: -90.888741
+title: Viroqua
+type: location
 ---
 
-Travel Guide
+Viroqua is a small town of about 5,000 people in the heart of Wisconsin's Driftless Region — the southwest corner of the state that was never flattened by glaciers. The result is a landscape of winding coulees, sandstone bluffs, spring-fed streams, and valleys that look like nowhere else in the Midwest.
 
-**Viroqua, Wisconsin and the unglaciated, "Driftless Region" of Southwest Wisconsin: **One of the most unique places in North America,
-pristine, and virtually undiscovered. Encompassing a circular area
-approximately ninety miles across, Wisconsin's Driftless Region has
-never been bulldozed by advancing glaciers
-(unlike most of northern North America). The resulting topography is
-the unperturbed remains of an underwater mountain range from 100
-million years ago. The fern-like pattern of coulees, bluffs, streams
-and rock formations lend themselves well for great day-adventures.
+The town sits along US Route 14, about ninety miles west of Madison. It's an unlikely mix: old-school farming community and countercultural enclave, where conventional and organic farmers share the same county roads, and where you'll find art galleries, a farmers' market, live music venues, and good coffee within a few blocks of each other. The surrounding Vernon County has one of the highest concentrations of organic farms in the country.
 
-The
-subtle power of the Driftless lands is equaled only by the people of
-this mystic region. A unique opportunity for communion with humanity
-awaits in the unofficial capital of the Driftless, Viroqua, Wisconsin.
-A town of about 5,000, in the geographic center of the region, Viroqua
-is a crossroads of time and space. A traveler's sanctuary along US
-Route 14, just ninety miles west of Madison,
-WI. Viroqua is an unexpected mix of classic American grit and a
-back-to-the-Earth revival. The surrounding farmer are still mostly
-independent and many are organic. Viroqua, despite it's small size, is
-disproportionally blessed culturally. There are art galleries,
-theater, music halls, public markets, historic buildings and organic
-cafes. But most notably, there is a warmth, independence, genuineness,
-and vitality within the people, awaiting your visit.
+Viroqua is small enough to walk across in twenty minutes, but it punches above its weight culturally. It makes a good base for exploring the broader Driftless Area — the hiking, the trout streams, and the quiet back roads that loop through the hills.

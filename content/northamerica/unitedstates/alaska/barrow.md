@@ -1,12 +1,14 @@
 ---
-title: "Barrow"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 71.2906
+longitude: -156.7887
+title: Barrow
 type: location
-latitude: 33.984861
-longitude: -83.699648
 ---
 
-Travel Guide
+Barrow -- officially renamed Utqiagvik in 2016, though most people still call it Barrow -- is the northernmost city in the United States, sitting 330 miles above the Arctic Circle where the Chukchi and Beaufort Seas meet. About half of its 5,000 residents are Inupiat, making it the largest Inupiat Eskimo community in the world.
 
-Situated 330 miles north of the Arctic Circle, Barrow is the northernmost incorporated city in North America. With almost 5,000 population, about half of them native Americans, it is the largest Inupiat Eskimo community in the world. Barrow is the seat of government for the North Slope Borough, and serves as regional center for the sparsely populated 89,000-square-mile borough - the largest municipality on earth. In land area the North Slope is larger than the states of Ohio and Pennsylvania combined.
+The town serves as the seat of the North Slope Borough, an 89,000-square-mile municipality larger than Ohio and Pennsylvania combined. Getting here is an adventure in itself: there are no roads in, and everything arrives by air or barge. The Inupiat name Utqiagvik means "the place where we hunt snowy owls," and subsistence hunting -- particularly bowhead whaling -- remains central to daily life.
 
-Barrow was called Utqiagvik by it its Inupiat founders, meaning "The place where we hunt snowy owls." Because of its key location at the junction of the Chukchi and Beaufort Seas on the Arctic Ocean, Barrow became an important whaling site. The town remains a center of subsistence whaling and harvesting of other land and water species.
+Visitors come for the sheer otherworldliness of the place. In summer, the sun does not set for 82 consecutive days. In winter, it does not rise for 65. The tundra stretches flat in every direction, polar bears occasionally wander through town, and the frozen ocean extends to the horizon. It is one of the most remote and genuinely unusual places you can visit in North America.

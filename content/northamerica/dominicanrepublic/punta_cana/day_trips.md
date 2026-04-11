@@ -1,5 +1,5 @@
 ---
-title: "Day Trips in Punta Cana"
+title: "Day Trips"
 type: section
 address: "C/ Duarte no. 12"
 email: "reservas@cuevafunfun.com"
@@ -7,7 +7,7 @@ phone: "809 553 2812"
 url: "www.cuevafunfun.com"
 ---
 
-While in one of the loveliest places in the Dominican Republic, make sure you go on these Punta Cana day trips that are just one to two hours away.
+Several worthwhile destinations lie within an hour or two of Punta Cana.
 
 **La Romana & Altos de Chavón**
 

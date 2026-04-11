@@ -1,14 +1,16 @@
 ---
-title: "St. Louis"
+done:
+  location_cleanup: '2026-04-05'
+latitude: 38.627
+longitude: -90.1994
+title: St. Louis
 type: location
-latitude: 38.625406
-longitude: -90.190009
 ---
 
-St. Louis was French and Spanish before it became American. Even before the European explorers traveled up the river, this area was home to the Mississippians, a mighty Indian civilization of mound builders.
+St. Louis sits on the west bank of the Mississippi, where the river meets the Missouri, and that geography has defined it. French fur traders founded it in 1764, the Spanish ran it for a generation, and then Lewis and Clark set out from here in 1804 to map the Louisiana Purchase. The Gateway Arch, rising 630 feet above the riverfront, marks both the actual departure point and the city's role as the eastern edge of the American West.
 
-Downtown St. Louis is one of the most attractive places in the US. red brick, cobblestone streets, terra cotta friezes and stained glass. Combine that with a large number of bars, clubs and restaurants and you know you will need to spend a few days here. From the open-air market of the Soulard French district to the eclectic shops and cafes of the Central West End, St. Louis' vibrant culture is apparent all over the place.
+The city has a physical confidence that surprises visitors — the downtown core is dense with red brick, terra cotta ornament, and cast-iron facades from the 1880s and 1890s, when St. Louis was the fourth-largest city in the country. Forest Park, larger than Central Park, holds four major museums and the zoo within its 1,370 acres, and nearly everything there is free.
 
-St. Louis also has its fair share of museums, galleries and sights. The Chirst Church Cathedral, the City Museum, the fully restored historic State Capitol and Forest park should all be on your list. But what to make of a dog museum, giant teeth or a hall of fame dedicated to bowling top? Come over and find out.
+The character of the city sits somewhere between Midwest and South. It has the flat vowels and the Cardinals baseball devotion of the heartland, but also a funkier, more Southern edge in its music and food — Soulard's blues bars, the toasted ravioli and St. Louis-style thin-crust pizza that locals defend with some heat.
 
-If you want to roll the dice and think Vegas is fake, then St. Louis is the place to come to. The riverboats are excellent locations for a bit of first class gambling.
+The city has a complicated history with race — the Dred Scott case was argued in its old courthouse, and East St. Louis across the river was the site of a devastating race riot in 1917. That history is visible and, increasingly, honestly presented. The Old Courthouse and the Arch's underground museum both address it directly.

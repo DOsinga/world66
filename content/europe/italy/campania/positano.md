@@ -1,8 +1,10 @@
 ---
-title: "Positano"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 40.628658
 longitude: 14.485496
+title: Positano
+type: location
 ---
 
 *Europe > Italy > Campania > Positano*

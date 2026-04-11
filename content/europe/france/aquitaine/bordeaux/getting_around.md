@@ -3,10 +3,6 @@ title: "Getting Around"
 type: section
 ---
 
-i cant believe its nto butter
+Bordeaux has an excellent modern tram system with three lines covering most of the city centre and inner suburbs. Buy tickets from the multilingual machines at tram stops — single trip, multi-trip, daily, or weekly passes are available.
 
-### [Trams & town centre](/europe/france/aquitaine/bordeaux/getting_around/red)
-
-Excellent, very modern, tram system for getting around town - though it is possible to walk most places if you are fairly fit. Buy tickets from machines with multi-lingual translation at Tram stops - per trip, multi-trip, daily or weekly tickets available.
-
-Many areas around the centre are virtually car free making it fume free and a very pleasant environment. Plenty of bicycles and mopeds but these are not an issue.
+Much of the centre is pedestrianised, making it pleasant to walk. Most sights are within comfortable walking distance of each other if you are reasonably fit. Bicycles are available through the VCub bike-share scheme, with stations across the city.

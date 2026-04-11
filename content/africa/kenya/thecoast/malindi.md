@@ -1,8 +1,12 @@
 ---
-title: "Malindi"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -3.229594
 longitude: 39.975088
+title: Malindi
+type: location
 ---
 
-Kenya is fortunate to have an abundance of protected coral reefs and beaches (250 mi/420 km of the stuff). Malindi on what’s called the Coral Coast provides a very nice introduction to the area—there are surfing snorkeling deep-sea fishing and other water sports. The Malindi Marine National Park is protected and has fine beaches clear water and very colorful fish. Malindi, the second major city on the coast lies about 100 km north of Mombasa.
+Malindi is a beach town on Kenya's Coral Coast, about 120 km north of Mombasa. It sits on Malindi Bay at the mouth of the Galana River and has been a trading port since the 14th century — Vasco da Gama stopped here in 1498 and erected a coral pillar that still stands. Today it is a popular beach resort, particularly with Italian visitors, and serves as a gateway to the Malindi Marine National Park.
+
+The marine park has protected coral reefs, clear water, and colourful fish — good for snorkelling and glass-bottom boat trips. Surfing, deep-sea fishing, and diving are all available along the coast. Nearby, the Gedi Ruins are the remains of a medieval Swahili trading town hidden in the coastal forest, one of the most atmospheric historical sites on the Kenyan coast.

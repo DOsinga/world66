@@ -1,12 +1,8 @@
 ---
 title: "Mubi"
 type: location
-latitude: 10.267607
-longitude: 13.264359
+latitude: 10.2676
+longitude: 13.2644
 ---
 
-We currently have no information about Mubi.
-
-If you do know any general information about Mubi, please [Edit this article].
-
-If you know any hotels in Mubi or restaurants in Mubi, please [[Add].](/destinations/addItemWizard?addwhere=africa/nigeria/yola/mubi)
+Mubi is a border town in Adamawa State, northeast Nigeria, close to Cameroon. It's a commercial hub for the area around the Mandara Mountains and serves as a crossing point into Cameroon.

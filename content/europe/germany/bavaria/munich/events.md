@@ -1,8 +1,6 @@
 ---
-title: "Events"
-type: location
-latitude: 52.943759
-longitude: 12.785624
+title: "When to Go"
+type: section
 ---
 
 **Every March:** Beginning of the strong beer season 

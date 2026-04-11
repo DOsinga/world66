@@ -1,8 +1,10 @@
 ---
-title: 'Winston-Salem'
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 36.099813
 longitude: -80.244052
+title: Winston-Salem
+type: location
 ---
 
 Winston-Salem is the fifth-largest city in North Carolina and one of the most historically interesting. Moravians settled here in the 1700s, establishing what became Salem -- they founded the first women's school in the United States (Salem Academy) and later Salem College, both still in operation. The tobacco industry made the city wealthy through R.J. Reynolds, and the textile tradition lives on through Hanes and the hosiery business.

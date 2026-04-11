@@ -1,19 +1,14 @@
 ---
 title: "Saskatoon"
 type: location
-latitude: 52.131802
-longitude: -106.660767
+latitude: 52.1318
+longitude: -106.6608
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**Location** 
+Saskatoon sits on the banks of the South Saskatchewan River in the heart of the prairies, about 520 km southeast of Edmonton and 780 km northwest of Winnipeg. Seven bridges span the river within city limits, giving the city its unofficial nickname — the "City of Bridges." With a population of around 250,000, it is the largest city in Saskatchewan and an agricultural and university hub for the surrounding region.
 
-Saskatoon is centrally located in the province of Saskatchewan,
-[Canada](/northamerica/canada).The city lies 780 kilometres northwest of
-[Winnipeg](/northamerica/canada/manitoba/winnipeg), a little over 520 kilometres southeast of
-[Edmonton](/northamerica/canada/alberta/edmonton), and just over 300 kilometres north of the U.S. border. Saskatoon is situated on the banks of the south Saskatchewan river which is crossed by seven bridges within the city limits. (information from the Tourism Saskatoon website)
+The riverbank is the best part of the city. The Meewasin Valley Trail follows both sides of the South Saskatchewan for some 65 km, making it excellent for walking and cycling. The Ukrainian Museum of Canada is worth a visit — it has one of the largest Ukrainian art and artifact collections in the country, reflecting the strong immigrant heritage of the prairies. The Wanuskewin Heritage Park, just north of the city, preserves 6,000 years of Northern Plains Indigenous culture and is an excellent introduction to the history of the land.
 
-**Population 
-
-**213,607 
-
-Minor corrections by [metallicpeach](/world/member/metallicpeach) on 13 February 04
+Saskatoon has a compact, walkable downtown with good cafes and restaurants along 2nd Avenue. The Broadway District, across the river from downtown, is a lively strip of independent shops, bars, and restaurants that gives the city some character. Summers here are hot and sunny; winters are brutally cold. If you're visiting in summer, the farmers' market on Saturday mornings at Riversdale is one of the best in the province.

@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-Busses leave from [Tbilisi](/europe/georgia/tbilisi) every half hour or so and cover the 25 kilometers in 30 minutes. The cost at 70ct is minimal; alternatively you could try the train or charter a taxi for a day. The latter is of course far more expensive, count on US$ 20, but will allow you to take in the sites around the city too.
+Buses from [Tbilisi](/europe/georgia/tbilisi) depart frequently and cover the 25 kilometres in about 30 minutes at very low cost. There is also a train connection. A chartered taxi from Tbilisi gives you more flexibility — expect to pay around USD 20 for the day — and makes it easier to combine Mtskheta with the Jvari Monastery, which sits on the opposite side of the river.

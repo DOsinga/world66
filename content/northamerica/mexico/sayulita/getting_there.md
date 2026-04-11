@@ -3,10 +3,8 @@ title: "Getting There"
 type: section
 ---
 
-**Directions to Sayulita from Puerto Vallarta **
+Sayulita is about 35 km north of Puerto Vallarta's international airport (PVR), roughly 40 minutes by car in light traffic.
 
-From the Puerto Vallarta international airport, drive/bus north on hwy MEX 200. Sayulita is about 21 miles (35kms) north of the Puerto Vallarta airport. Upon exiting the airport take a right onto MEX 200 and an immediate left in order to be traveling north. Follow the signs to Compestela and Tepic. After approximately twenty minutes you will pass through the town of Bucerias. After passing through Bucerias, Mex 200 continues on as a four-lane highway for a few more miles until the turnoff to Punta Mita. Make sure to bear to the left here and pass through the military inspection (don't worry; the soldiers are there for your protection.)
-From the inspection point, the highway changes to a two-lane road, and heads up and over a small mountain in a winding and twisting manner with tons of curves. Watch for animals grazing along the road and slow moving vehicles. You will pass signs for several small villages. After passing through the village of San Ignacio, approximately 40 kms from the airport, a small sign marks the turnoff to Sayulita. Continue the three kilometers into town and all the way to the town plaza.
+**By car or taxi:** From the airport, head north on Highway MEX 200 toward Compostela and Tepic. You'll pass through Bucerias after about 20 minutes. A few kilometers further, bear left at the Punta Mita junction and through the military checkpoint — routine and quick. The highway narrows to two lanes and winds up over a small coastal ridge; watch for slow vehicles and animals on the road. Past the village of San Ignacio, a sign marks the turnoff to Sayulita. Follow the road 3 km into town to the main plaza. An airport taxi runs around 500–600 pesos; agree on the price before you get in.
 
-**Contributors**
-January 16, 2006
+**By bus:** From Puerto Vallarta's bus terminal (on Bahía de Banderas), take a Compostela or Tepic-bound bus and ask to be dropped at the Sayulita junction. From there it's a short local taxi or mototaxi ride into the village. The journey takes about an hour and costs very little.

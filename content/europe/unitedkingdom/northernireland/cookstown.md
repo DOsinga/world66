@@ -1,8 +1,10 @@
 ---
-title: "Cookstown"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 54.643673
 longitude: -6.741601
+title: Cookstown
+type: location
 ---
 
 We currently have no information about Cookstown.

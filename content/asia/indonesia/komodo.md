@@ -1,14 +1,14 @@
 ---
-title: "Komodo"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: -8.589191
 longitude: 119.462412
+title: Komodo
+type: location
 ---
 
-Komodo is famous for its dragons. Giant lizards (probably not the right technical term) that can swallow an entire goat. 
+Komodo Island is the best-known part of Komodo National Park, a UNESCO World Heritage site in the eastern Lesser Sundas between Sumbawa and Flores. It gives its name to the Komodo dragon — the world's largest living lizard, which can reach three metres in length and take down a deer or a goat without much difficulty. The park protects around 5,700 of them across Komodo, Rinca, and a few smaller islands.
 
-The only village on the island is
-[Komodo](/asia/indonesia/komodo), it's a nice place but if you are here for dragon spotting head for Banu Nggulung (come again?). A guide will take you to a dried up river bed where the dragons come to have a look at the tourists. The best season is the dry season when the dragons come to the watering holes. 
+The main village on the island is Kampung Komodo, where the park rangers are based. Dragon sightings are most reliable at Banu Nggulung, a dried-up riverbed where rangers guide visitors in small groups — the dragons congregate near watering holes, especially during the dry season from April to October. The park also has good snorkelling and diving; the currents between the islands are strong but the marine life is exceptional.
 
-The easiest way of getting to Komodo is to take the boat from
-[Flores](/northamerica/guatemala/flores).
+The easiest approach is by boat from [Flores](/asia/indonesia/flores), either from Labuan Bajo in the west or on a liveaboard that combines diving with dragon-watching. Day trips from Labuan Bajo are common, though spending a night on the island gives you the place to yourself in the early morning.

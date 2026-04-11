@@ -1,8 +1,10 @@
 ---
-title: "Baraqish"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 14.082526
 longitude: 44.407781
+title: Baraqish
+type: location
 ---
 
 Baraqish is an ancient city close to [Marib](/asia/yemen/marib) and can be visited as a day trip from there. Located in the semi-arid area on the road to Hazm Al-Jawf, about 125 km from [Sana'a](/asia/yemen/sanaa), Baraqish stands on top of a lofty hill enclosed by a highly fortified wall up to 8 metres high in places. The wall has 57 towers and two gates — one east, one west — and large sections remain intact.

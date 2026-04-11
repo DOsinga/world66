@@ -1,14 +1,14 @@
 ---
-title: "Santo Domingo"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 18.4861
+longitude: -69.9312
+title: Santo Domingo
 type: location
 ---
 
-Santo Domingo has many sights in the category "oldest in the new world". This is the place to look for the oldest street, the oldest cathedral and the oldest chapel in the new world. Add to that a large number of buildings that may not be the oldest in thier kind but that still are pretty old and you can see that a visit to the capital of the Dominican Republic is a must for every traveler. So get your bum away from the beach and get ready for a history tour.
+Santo Domingo is the oldest European-founded city in the Americas, and it wears its history proudly. The Zona Colonial — the historic heart — is packed with firsts: the oldest street in the New World (Calle de las Damas), the oldest cathedral (Santa Maria la Menor), the oldest chapel. Add to that a large number of buildings that may not hold records but are still impressively old, and you have a compelling reason to leave the beach for a day.
 
- Start in the **Calle de las Damas** yes indeed the oldest street. Strolling down this street you'll pass the Cathderal of Santa Maria de Menor and the Capilla de los Remedios as well as the National Pantheon.
+Start on the **Calle de las Damas**, the cobblestone street where the first Spanish conquistadors walked. Along it you will pass the Cathedral, the Capilla de los Remedios, and the National Pantheon. The **Parque Independencia** is a good spot to rest and watch locals go about their day. The **Plaza de la Cultura** houses the city's three main museums and the National Theatre. Across the Ozama River, the Acuario Nacional — the largest aquarium in the Caribbean — and the Columbus Lighthouse are worth the detour.
 
- The **Parque Independencia** is a good place to have a rest and observe the locals enjoying themselves.
-
- The **Plaza de la Cultura** is an impressive square and it houses the three most important museums of the city as well as the National Theatre.
-
- On the other side of the Ozama River you find the Acario Nacional, the largest in the Caribbean. Nearby on the Avenida de Esapana is the Columbus Lighthouse, which honors the discoverer of the Americas.
+Beyond the history, Santo Domingo has good scuba diving at La Caleta, lively baseball culture, and a nightlife scene that goes late.

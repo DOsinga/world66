@@ -1,21 +1,10 @@
 ---
-title: "Getting There in Fresno"
+title: "Getting There"
 type: section
-phone: "559 621 6699"
-type: "By Air"
-url: "www.flyfresno.org"
 ---
 
-### [Fresno Yosemite International Airport](/northamerica/unitedstates/california/centralvalley/fresno/gettingthere/fresno_yosemite_in)
+Fresno is the largest city between Los Angeles and the Bay Area, and its airport reflects that.
 
-The largest airport between Southern California and the Bay Area, Fresno is served by a wide range of air carriers. Destinations include Dallas, Denver, Las Vegas, Los Angeles, Portland, and Seattle. Flights to Mexico are expected to take off within the next couple years.
+**Fresno Yosemite International Airport** (FAT) is served by a range of carriers with direct flights to Dallas, Denver, Las Vegas, Los Angeles, Portland, Seattle, and other destinations. The airport is about 10 minutes east of downtown. For details, see [flyfresno.org](http://www.flyfresno.org).
 
-type: By Air
-
-
-
-[[rate it]](/northamerica/unitedstates/california/centralvalley/fresno/gettingthere/fresno_yosemite_in)
-
-url: [www.flyfresno.org](http://www.flyfresno.org)
-
-tel: 559 621 6699
+By car, Fresno sits on Highway 99, the main north-south route through the Central Valley. Highway 41 heads north to Yosemite, and Highway 180 runs east into Kings Canyon.

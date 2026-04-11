@@ -1,20 +1,18 @@
 ---
-title: "Paxi"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.209398
 longitude: 20.161634
+title: Paxi
+type: location
 ---
 
-Paxos is in the Ionian group of Greek islands, a few miles south of Corfu. As there is no airport on Paxos, most people travel there by ferry from either Corfu or Igoumenitsa. 
+Paxos (Paxi) is one of the smallest of the Ionian Islands, a few miles south of [Corfu](/europe/greece/corfu). There is no airport — you arrive by ferry from Corfu or Igoumenitsa, and the crossing itself sets the pace. The island is about 10 kilometres long, covered in olive groves, and fringed by small pebble coves on the east coast and dramatic white cliffs on the west. It is quiet in a way that most Greek islands stopped being decades ago.
 
-There are 3 main villages on Paxos. Gaios is the main "town" and is the liveliest, with lots of restaurants and a huge harbour where you can stroll along and drool over all the "rich people's" floating gin palaces. It's certainly worth at least one visit, but it gets very busy during the day with trippers from Corfu and Parga and many of the shops seem to just want to make a quick killing from these daytrippers. 
+Three villages make up the island. **Gaios** is the main port and the liveliest, with a handsome harbour lined with restaurants and a pair of small islands guarding the entrance. Day trippers from Corfu and Parga crowd the waterfront during the day, but by evening the town settles into something more local.
 
-Loggos is the tiniest of the 3 and, for me at least, it's the friendliest and least spoilt. One of their major concession to commercialism was to string a row of fairy lights along the harbour front about 5 years ago, but each year we went back, more and more bulbs were in need of replacing, and last year (2003) they had taken it down altogether! It has about half a dozen tavernas, about the same number of bars and a handful of shops, including a wonderful bakery - so everything you need really. 
+**Loggos** is the smallest of the three — a handful of tavernas, a few bars, a bakery, and a tiny harbour. It has the most intimate feel and the least commercial pressure.
 
-Lakka is somewhere between Loggos and Gaios in terms of size and has plenty of restaurants, bars and shops - even an internet bar! Personally speaking, that means to me that it lacks both the charm and intimacy of Loggos and the cosmopolitan atmosphere of Gaios, but it's very popular especially with first time visitors, so that's just my own opinion for what it's worth. 
+**Lakka** sits in a sheltered bay at the northern tip. It is popular with sailing yachts and has a slightly wider selection of restaurants and shops than Loggos, while staying considerably quieter than Gaios.
 
-
-
-Elaine Key (xenosinastrangeland@yahoo.co.uk) 
-
-19.03.2004
+The west coast cliffs are best seen by boat — small trips run from all three villages. The swimming is better on the east coast, where a series of small coves are reachable by foot or dinghy. Antipaxos, the even smaller island to the south, has two beaches with water of an almost absurd turquoise.

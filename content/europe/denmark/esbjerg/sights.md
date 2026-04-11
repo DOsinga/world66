@@ -1,6 +1,0 @@
----
-title: "Sights in Esbjerg"
-type: section
----
-
-yes....ejsberg is the fuckent place were if you are a foreigner and enter any bar...you will find al least one person interested in killing you; specially if you look mediterranean and wear an african cap. Also is the mother fuckent place were racism is a joke, that nazi type young people use to practice "kill the foreigner type of sport" also it is the fuckent place were you can watch "nordic" decor at its best....always the same boring stupid decor...and of course the natives think it is the "superior style"....it is also the place were most women are relegated into the kitchen and cleaning behind the bar (si there it goes the equality of genres in scandinavia) ejsberg is the most expensive arsehole in the world and the only place were if yoyu are a sailor and ask the shop to fix your automatic pilot , not only they don't fixit, but they also charge you 15 dollars to return your pilot....because they used the shop-car....yes ejsberg is the worst arse-hole in the world.....and believe me i am a sailor and i have been everywere....if you want to do a favor to the world trow a bomb on top of ejsberg.....saludos filiberto bonaventura.

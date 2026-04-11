@@ -1,8 +1,10 @@
 ---
-title: "Cape Tagarit"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 20.167451
 longitude: -16.224841
+title: Cape Tagarit
+type: location
 ---
 
 An alternative to the Banc d'Arguin, the Cape Tagarit is nort of Tidra. you can fish, snorkel and camp without special permissions. You do not need a guide to take you here either.

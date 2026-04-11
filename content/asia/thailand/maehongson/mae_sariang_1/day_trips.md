@@ -1,9 +1,8 @@
 ---
-title: "Day Trips in Mae Sariang"
+title: "Day Trips"
 type: section
 ---
 
-Take a boat trip down the** Salawin River** which divides Myanmar and Thailand, along the way are impressive mountains and the riverbanks which form the border between these two counries. This boat trip can be done on a one day trip from Mae Sariang town. Drive through windy mountain roads passing through stunning vistas on the way and a couple of hours later you will arrive at Sop Moei village, made up of wooden stilt houses perched precariously off the cliffs of the riverbank. This village is inhabited by Burmese people and you will immediately feel the Burmese influence here. The Salawin River begins from the Himalayas flowing down through to Myanmar and Thailand.
+The countryside around Mae Sariang rewards exploration. The main event is a longboat trip down the Salawin River, which marks the border between Thailand and Myanmar — the scenery is dramatic and the sense of remoteness is real. Salawin National Park and Mae Ngao National Park both offer jungle hiking with relatively few crowds.
 
-**Contributors**
-December 01, 2009
+Take a boat trip down the Salawin River, which divides Myanmar and Thailand. Along the way are impressive mountains and riverbanks forming the border between the two countries. You can make this a full day trip from Mae Sariang town. Drive through winding mountain roads with stunning vistas for a couple of hours and you'll arrive at Sop Moei village — wooden stilt houses perched on the cliffs above the river, inhabited largely by Burmese people and carrying a distinctly Burmese atmosphere. The Salawin itself originates in the Himalayas and flows down through Myanmar before forming this stretch of border.

@@ -1,33 +1,10 @@
 ---
 title: "Pearl Alley Bistro"
 type: poi
-address: "110 Pearl Alley"
-email: "pests@pearlalley.com"
+address: "110 Pearl Alley, Santa Cruz, CA 95060"
 phone: "831-429-8070"
-price: "$$"
-type: "International"
-url: "www.pearlalley.com"
-latitude: 36.973228
-longitude: -122.026555
+latitude: 36.9732
+longitude: -122.0266
 ---
 
-This is another great restaurant located in downtown Santa Cruz at 110 Pearl Alley. Try the Mongolian BBQ, it is like asian fajitas, but with rice papers instead of tortillas. Reservations are recommended.
-
-**Contributors**
-March 22, 2006
-
-type: International
-
-
-
-
-
-tel: 831-429-8070
-
-url: [www.pearlalley.com](http://www.pearlalley.com/)
-
-address: 110 Pearl Alley
-
-PriceOfMenu: $$
-
-email: pests@pearlalley.com
+A downtown bistro tucked into Pearl Alley with a menu that draws from several cuisines. The Mongolian BBQ is a standout — think Asian fajitas with rice paper instead of tortillas. Reservations recommended, especially on weekends.

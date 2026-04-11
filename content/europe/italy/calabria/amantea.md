@@ -1,8 +1,10 @@
 ---
-title: "Amantea"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 39.1332
 longitude: 16.0746
+title: Amantea
+type: location
 ---
 
 Amantea ranks high on a list of Calabria's prettiest towns, and it is one of the region's most historically layered. Long before the Greeks and Romans, Bronze and Iron Age settlements flourished around the mouth of the river Savuto near the port.

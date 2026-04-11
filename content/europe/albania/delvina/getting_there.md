@@ -3,4 +3,4 @@ title: "Getting There"
 type: section
 ---
 
-**Delvina** (Albanian also *Delvine)* is been appropriate a town in sourthen Albania, for 16 km northeast from Saranda. Delvina is principal place of the district of the same name. You can travel to Delvina by car from Saranda or Gjirokaster
+Delvina is 16 kilometres northeast of [Saranda](/europe/albania/saranda) and about 30 kilometres south of [Gjirokastër](/europe/albania/gjirokaster). Local buses and furgons (shared minivans) connect the three towns. By car, the road from Saranda takes about 20 minutes.

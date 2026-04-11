@@ -1,12 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-**all**
-
-**Kulm Executive Golf Course**
-
-Address: 75000 St.Moritz. Now the St. Moritz golf architect Mario Verdieri and the Kulm Hotel have developed a new concept for the historic greens. An interesting and challenging 9-hole Executive Golf Course has been created, surrounded by magical Engadine mountain scenery. 
-
- The design of t [more..](/europe/switzerland/stmoritz/thingstodo/kulmexecutivegolfcourse)
+St. Moritz is built around outdoor sport, but there is more here than skiing. The frozen lake hosts polo and horse racing in winter. Summer opens up hiking trails across the Engadin valley, and the Muottas Muragl viewpoint offers one of the finest panoramas in the Alps. Two small museums are worth a visit between runs.

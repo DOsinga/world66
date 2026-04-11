@@ -1,12 +1,6 @@
 ---
 title: "Beaches"
 type: section
-address: "Oriental Parade"
 ---
 
-The
-[Kapiti Coast](/australiaandpacific/newzealand/kapiti_coast) also has good beaches.
-
-### Oriental Bay
-
-Just 15 minutes walk from the central city, **Oriental Bay** is a popular beach for Wellingtonians. They jog along it, have picnics at it and even swim there on warm sunny summer days.
+Wellington has surprisingly good beaches given its reputation for wind and rain. Oriental Bay is the city beach, a short walk from downtown. The south coast is wilder and less sheltered, with a string of small bays between Oriental Parade and the airport, and real surf at Lyall Bay.

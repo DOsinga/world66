@@ -1,14 +1,9 @@
 ---
-title: "Banff Park Lodge ."
-type: location
-type: "general"
-latitude: 51.177411
-longitude: -115.574198
+title: "Banff Park Lodge Terrace Lounge"
+type: poi
+category: "Bar"
+latitude: 51.1774
+longitude: -115.5742
 ---
 
-Pianist Mon-Sat at Terrace Lounge. 
- Tel: 1 403 762-4433 Fax: 1 403 762-3553
- Toll Free: 1-800-661-9266 
- Address: 222 Lynx St, Banff Alberta T0L 0C0
-
-type: general
+Relaxed hotel lounge at 222 Lynx Street with a pianist performing Monday through Saturday. A quieter option for a drink away from the Banff Avenue bustle.

@@ -1,19 +1,12 @@
 ---
-title: "Rock Hall"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 39.138166
 longitude: -76.234954
+title: Rock Hall
+type: location
 ---
 
-Travel Guide
+Rock Hall is a small waterfront town on Maryland's Eastern Shore, facing west across the open Chesapeake Bay. It's the kind of place watermen have worked out of for generations — crabbing and oystering, with the occasional sailboat from Annapolis dropping anchor for the weekend.
 
-Rock Hall faces west, looking out
-upon the open Chesapeake Bay. Its privileged location permits one to witness
-some of the most dramatic and sensational sunsets imaginable anywhere on the
-east coast. When the sunset fades, and darkness comes, the harbor lights
-reflect out upon the water, stretching for awhile across the rock jetty harbor
-entrance where they disappear into a horizon lit only by the distant sky of
-Baltimore. To the southeast, the Kent Narrows Bridge, like a string of pearls,
-is all that can be seen connecting this spectacular Chesapeake gemstone with all
-there is that we have come to get away from. The spectator might equate the
-feeling to sitting on the moon looking at the earth.
+The west-facing position means genuinely good sunsets. When the light goes, the harbor reflects it back off the water before the distant glow of Baltimore takes over the horizon. It's quiet here, deliberately so — that's the draw. The Kent Narrows Bridge to the southeast is the last thing connecting Rock Hall to the rest of the world, and most people who come are happy to let it stay there.

@@ -1,18 +1,6 @@
 ---
-title: "Eating Out in Guanajuato"
+title: "Eating Out"
 type: section
 ---
 
-**Ocho Reales**
-
-The village of la Valenciana, only a few minutes drive from the city,
-atop a hill overlooking Guanajuato, boasts several old mines which are
-now available for exploration on guided tours, as well as the
-University's mathematics and arts & letters faculties. In
-December 2005 a new restaurant called Ocho Reales opened just behind
-the church of San Cayetano which is on the main road up to la
-Valenciana. I visited Ocho Reales in June 2006 and was delighted;
-it's in the upper floor of a renovated former mine house and features
-beautiful decor, beautiful and tasty food, and very reasonable prices
-by American standards. This week they got a mention online in
-Guanajuatocapital dot com.
+Guanajuato has a solid restaurant scene, concentrated in the centre and in the village of La Valenciana up the hill. Local specialities include enchiladas mineras — corn tortillas stuffed with cheese and topped with a red sauce, a regional variation worth seeking out. Restaurants around the Jardín de la Unión (the main plaza) are convenient but pricey; venture a few blocks away for better value.

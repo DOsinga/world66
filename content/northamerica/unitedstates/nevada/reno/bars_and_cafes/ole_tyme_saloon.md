@@ -1,16 +1,12 @@
 ---
-title: "Ole Tyme Saloon"
-type: location
-address: "1505 Geiger Grade Reno"
-phone: "775-851-8963"
+address: 1505 Geiger Grade, Reno, NV
+done:
+  location_cleanup: '2026-04-10'
 latitude: 39.392244
 longitude: -119.723164
+phone: 775-851-8963
+title: Ole Tyme Saloon
+type: poi
 ---
 
-It is an old style neighborhood bar, friendly, clean and a lot of fun. It is on the way to Virginia City (Reno Side) It is a must stop. Check out their web site (otsnv.com)
-
-
-
-tel: 775-851-8963
-
-address: 1505 Geiger Grade Reno
+A classic neighbourhood bar on the road to Virginia City, about 20 minutes outside central Reno. Old-fashioned in the best sense — friendly, unpretentious, and worth a stop if you're making the drive up to the historic mining town.

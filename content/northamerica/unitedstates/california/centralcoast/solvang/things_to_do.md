@@ -1,8 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-Elverhøj Museum
-
-1624 Elverhoy Way 93464 805/686-1211
+Solvang's main draws are its Danish heritage architecture, the surrounding wine country, and the old Spanish missions nearby.

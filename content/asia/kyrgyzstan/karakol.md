@@ -1,8 +1,10 @@
 ---
-title: "Karakol"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 42.491744
 longitude: 78.396857
+title: Karakol
+type: location
 ---
 
 Karakol is the main town on the eastern shore of [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul) and the trekking capital of Kyrgyzstan. With a population of around 80,000, it is a quiet, leafy town that serves as the base for some of the country's best multi-day hikes, including the Ala-Kul trek, Altyn-Arashan hot springs and the Jeti Oguz Valley.

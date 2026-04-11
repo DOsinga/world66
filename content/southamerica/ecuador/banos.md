@@ -1,8 +1,14 @@
 ---
-title: "Banos"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: -1.331916
 longitude: -78.262529
+title: Baños
+type: location
 ---
 
-Banos is one of the most popular destinations for every independent traveler in Ecuador. A lot of guesthouses and specialised restaurants serve only for the needs of this group of tourists. It is known for its rather mild climate and as the gateway between the Andes Mountains and the Oriente region of Amazonian jungle. The town is built dramatically on a shelf under the steep slopes of the Tungurahua Volcano and has been regularly threatened by volcanic activity. Many Ecuadorians come here for the weekend to enjoy the many popular hot springs and thermal baths. The area is also excellent for walking trails that frequently lead to high waterfalls set amid the spectacular mountain scenery. The town itself is famed for the Church of the Virgin of the Holy Water. The Virgin is credited with many miracles and the church has become a place of pilgrimage for those seeking her blessing.
+Baños de Agua Santa is one of Ecuador's most popular destinations for independent travellers, a small town built dramatically on a shelf beneath the active Tungurahua volcano. The name means "baths of holy water" — hot springs fed by volcanic activity have drawn visitors for centuries, and the town's basilica is dedicated to the Virgen del Agua Santa, credited with protecting the town from eruptions and other calamities.
+
+The setting is spectacular: steep green mountains on all sides, waterfalls cascading down the valleys, and the gateway to the Oriente — Ecuador's Amazon region — just down the road. The area is excellent for walking, with trails to waterfalls and viewpoints in every direction. The thermal baths range from simple public pools to more developed complexes, and most are open into the evening.
+
+The town itself is geared towards backpackers and adventure travellers, with guesthouses, tour operators and restaurants lining the main streets. It has a lively, slightly chaotic energy that makes it easy to stay longer than planned.

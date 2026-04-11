@@ -1,11 +1,12 @@
 ---
-title: "Loches"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 47.1282
+longitude: 0.998
+title: Loches
 type: location
-latitude: 47.128169
-longitude: 0.997955
 ---
 
-Within the medieval centre of Loches you find one of the greatest Loire chateaux. The dungeons and the thick walls show that this is a real castle used in warfare and not just a royal countryside hunting lodge, like [Chambord](/europe/france/centre/loirevalley/chambord).
+Loches is one of the finest medieval towns in the Loire Valley — and one of the least crowded. Perched on a ridge above the Indre river, its old quarter is dominated by a royal citadel that makes most other Loire chateaux look like country houses. This is a fortress in the proper sense: thick walls, towers, a keep that has stood since the 11th century, and dungeons where enemies of the French crown were quietly forgotten.
 
-
- Construction of the castel started alll the way back in the 6-th century. Over the ages more and more parts were added and now the complex consists of a fort, a castle and a palace.
+The town below the citadel is charming and very much lived-in. The market square, the tangle of old streets, the Romanesque church of Saint-Ours with its unusual hollow pyramidal spires — Loches rewards an afternoon of wandering. It makes an excellent base for the southern Loire, with [Chenonceau](/europe/france/centre/loirevalley/chenonceau), [Amboise](/europe/france/centre/loirevalley/amboise), and [Azay-le-Rideau](/europe/france/centre/loirevalley/azaylerideau) all within easy reach.

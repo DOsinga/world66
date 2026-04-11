@@ -1,24 +1,18 @@
 ---
-title: "Como"
+title: Como
 type: location
-latitude: 45.939476
-longitude: 9.14941
+latitude: 45.9075
+longitude: 9.1599
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Located on the Swiss - Italian border, Como is the main metropolitan area of the Lake Como district. Most people visiting that region never leave the lakeside, and that's a shame, because Como is a nice little town to visit. You can walk around the cool shade of the old buildings and soak in that Italian Renaissance atmosphere.
+Como occupies the southern tip of the lake that bears its name, a compact city wedged between water and steep wooded hills. Most visitors treat it as a launching pad for the lake — an understandable mistake. The city itself has a rich historic centre that rewards a day's exploration: narrow medieval streets, a cathedral four centuries in the making, two magnificent Romanesque basilicas, and a lakefront promenade lined with neoclassical villas.
 
+The old town is enclosed by stretches of its medieval walls and anchored by the Piazza del Duomo, where the Cathedral's Gothic facade faces a line of arcaded buildings. A few streets away, the Romanesque churches of San Fedele and — a short walk outside the walls — Sant'Abbondio show why the *Maestri Comacini*, Como's medieval master builders, were in demand across all of Europe.
 
- 
- Como is really a must for any architecture buff. The most famous landmark is the *Duomo* at the Piazza Cavour with its gothic facade and renaissance dome. In the walled Old Town, there are many 400-year-old buildings, and two more magnificent basilicas to be admired. For a wonderful view of Lake Como, you can climb the Baradello Tower. If you walk along the lake, you will see the Tempio Voltiano, a shrine to Alessandro Volta, the inventor of the first reliable battery and name-giver of the term Volt.
+Alessandro Volta was born here in 1745, and the city has never stopped celebrating it. The Tempio Voltiano on the lakefront holds his original instruments; the main piazza bears his name; the liceo where he taught is named after him. It is perhaps the most thorough civic commemoration of a scientist anywhere in Italy.
 
+Como is also the world capital of silk. The mills in the surrounding valleys have been printing and dyeing silk since the fifteenth century, and the city's shops still sell ties, scarves, and furnishings that supply fashion houses across Europe. If you are going to buy silk anywhere, buy it here.
 
- 
- Como developed during the Roman Empire to be the capital of a territory bordering with Milan and Bergamo. Later it became the headquarters of a Prefect and the base of a naval fleet. It had all the furnishings of a Roman city, like a stadium, gym, public baths and a theatre. Remnants of these can still be spotted in modern Como today: there are eight greenish striped Roman limestone columns in the portico of the Volta Liceum, various bits of the old city walls, and in the basement of the technical institute, the remains of the *Porta Praetoria* are still visible.
-
-
- 
- But Como is more than a collection of old buildings. It is renowned for it fine silks throughout the world. One of the towns major industries is in printing and dyeing silk, numerous workshops where ties and scarves are created and sold all over the world, silk spinning and marketing of clothing and furnishings. If you like silk, Como is the place to shop for it.
-
-
- 
- And then, after a hard day of shopping and taking in culture, there is still the lake. Arguably the most beautiful lake in Italy, it's the perfect place to wash away the warm dust and recharge yourself for another day in one of Italy’s most popular regions.
+After a day of all that, the lake is waiting. The evening ferry across to Cernobbio or Bellagio is one of the great small pleasures of northern Italy.

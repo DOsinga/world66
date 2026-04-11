@@ -3,14 +3,6 @@ title: "Eating Out"
 type: section
 ---
 
-Catering in Djenne is not always easy. On market days you can buy some things on the big markteplace, but hygiene can be a problem.
+Dining options in Djenné are limited. On market days you can buy food at the stalls — grilled fish, rice, and brochettes — but options are sparse the rest of the week. Most visitors eat at their guesthouse or at one of a few small restaurants.
 
-**Restaurants**
-
-**Le Campement**
-
-For rice and chicken, this is an option. You have to order in advance. See also section mail/accommodation. 
-
-**Chez Baba**
-
-A very friendly place, in a courtyard near the Petit Marche. A plate with rice chicken and desert should not cost more than 1500 CFA.
+**Chez Baba**, in a courtyard near the Petit Marché, is friendly and serves simple plates of rice and chicken. **Le Campement**, the old colonial-era rest house, also serves meals but you may need to order in advance.

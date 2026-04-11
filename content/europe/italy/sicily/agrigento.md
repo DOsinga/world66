@@ -1,8 +1,10 @@
 ---
-title: 'Agrigento'
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 37.3123
 longitude: 13.5747
+title: Agrigento
+type: location
 ---
 
 Agrigento is a small town on the south coast of Sicily. The beach is good and the small streets of the old town are charming, but what brings you here are the Greek temples just outside of town.

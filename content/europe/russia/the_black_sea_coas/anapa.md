@@ -1,22 +1,14 @@
 ---
-title: "Anapa"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 44.894272
 longitude: 37.316887
+title: Anapa
+type: location
 ---
 
-Travel Guide
+Anapa sits at the northern end of Russia's Black Sea coast, where the flat Kuban steppe meets the first foothills of the Caucasus. It has wide sandy beaches — some stretching 600 metres deep — that are considered the best on the northern coast, and the shallow, warm water makes it Russia's most popular family resort.
 
-The resort Anapa is located in the northern part of the Black Sea coast of Russia. It is situated in a beautiful place where the steppe comes to the end and moun&shy;tains begin.
+The town has ancient roots. It was founded as the Greek colony of Gorgippia, and the archaeological museum on the site of the old city displays mosaics, pottery and stone tombs from that era. Greek and Ottoman influences are visible in the local culture and architecture.
 
-Sandy beaches of Anapa are the best beaches of all northern Black Sea cost. In some places the width of the beach stretches for 600 meters.
-
-Anapa is a balneological resort. Various kinds of local mineral waters and medical mud are used here. The city has the airport.
-
-Anapa is considered the best Russian resort for children's and family leisure.
-
-Having said that, for a few years now Anapa is a choice of young couples. A fantastic nightlife entertainment, scuba diving in WWII wrecks and large cargo ship, sea fishing, picking rapans and seafood and cook it right there on the beach, taking a ferry along the seacost down to Sochi and back, hiking in the mountains and of course not to forget the best spar treatment you will ever have. All that and a lot more attracts a new type of holiday makers.
-
-The ancient Gorgippiya (Anapa) was found by the greeks and you will certainly see a lot of Greek influence in the local culture over there. It would feel like you are in the Medetterenian with a slight difference and addition to it.
-
-Enjoy it.
+Beyond the beaches, Anapa offers scuba diving on WWII wrecks and sunken cargo ships, sea fishing, and hiking in the nearby mountains. The area is also known as a balneological resort — mineral springs and therapeutic mud have drawn visitors for over a century. The town has an airport with direct flights from Moscow and other Russian cities.

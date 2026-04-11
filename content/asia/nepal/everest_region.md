@@ -1,19 +1,16 @@
 ---
-title: "Everest Region"
+done:
+  location_cleanup: 2026-04-04
+latitude: 27.9881
+longitude: 86.925
+title: Everest Region
 type: location
-latitude: 29.081329
-longitude: 89.297308
 ---
 
-To see the roof of the world you should come to Sagarmatha National Park, where the Everest is.
+The Everest Region -- known locally as the Khumbu -- is the roof of the world, home to Mount Everest (8,849m) and some of the most spectacular trekking on earth. The region lies in the Solukhumbu district of northeastern Nepal and is protected as the Sagarmatha National Park, a UNESCO World Heritage Site.
 
-There are lots of possibilities to go there; the easy way or the long way. You can fly to Lukla and walk to Basecamp Mount Everest, Kalapathar, Gokyo Peak and many more. The trip to for example Basecamp then will take you about six days with lots of tourist on the way.
+Most trekkers come for the classic Everest Base Camp trek, a two-week round trip from Lukla through Sherpa villages, Buddhist monasteries, and increasingly dramatic mountain scenery. But the region has more to offer than the base camp trail. The Gokyo Lakes trek takes you to turquoise glacial lakes beneath Cho Oyu. The Three Passes route -- crossing Kongma La, Cho La, and Renjo La -- is a challenging circuit for experienced trekkers. And for those short on time, the Everest Panorama trek reaches Tengboche monastery in about a week.
 
-For the real experience you should go to Jiri by bus and take a long walk to Gokyo peak (about 14 days) and fly back from Lukla (another 4 days to there). The first part you will see allmost no tourists and the scenery is great. (note: -december 2004- You will meet Maoists in the first days, this is no problem if you pay about 10 Euro). After passing Lukla you will see more tourists but most go to Basecamp Mt.Everest, so on the way to Gokyo it's less crowded. From Gokyo ri or the fifth lake the view is just great...!!!!
+The Sherpa people of the Khumbu are welcoming hosts, and the teahouse infrastructure along the main trails is well developed. You will sleep in simple but warm lodges, eat dal bhat and potatoes, and drink endless cups of tea. Prices rise with altitude -- expect to pay more for everything above Namche Bazaar.
 
-When you are up there you can also do other peaks or trails, so you can stay there for weeks if you'd like.
-
-**Contributors**
-March 04, 2005
-
-March 08, 2005
+The best trekking seasons are pre-monsoon (March to May) and post-monsoon (September to November), when skies are clearest and the mountains are at their most dramatic. Winter treks are possible but cold and quiet. The monsoon months of June through August bring rain, clouds, and leeches to the lower trails.

@@ -1,10 +1,16 @@
 ---
-title: "Odemira"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 37.5976
 longitude: -8.6422
+title: Odemira
+type: location
 ---
 
-Travel Guide
+Odemira is Portugal's largest municipality by area, a vast sweep of Alentejo countryside that stretches from the rolling cork oak hills of the interior all the way to the wild Atlantic cliffs of the Costa Vicentina. Most visitors come for the coast — the beaches here are among the finest in Europe, protected within the Parque Natural do Sudoeste Alentejano e Costa Vicentina and largely spared the overdevelopment that has consumed the Algarve to the south.
 
-The largest County in the Alentejo and Portugal. This is also one of Portugal's best kept secrets in terms of it's beauty (both in the mountains, the damn, streams or by the sea). The quality of it's delicacies, from the cheese, wine, black Alentejo Pig, prociuto, choriços, etc... the quality of it's many traditional crafts, from cork to pottery and basketery, this regiuon is particularly rich. Most of it's wealth in traditions, handcrafts, mysticism, folklore and history is due to the many peoples who have populated the peninsula over the centuries and especially thanks to the Arab invasions and their influence of over the 500 years of occupation, visible in all the architechture, the tastes, flavours, the language, the place names, and the genetic heritage. Other visible inheritances come from roman times in the shape of thermal spas, brigdes and other impressive engineering works. Then there are also the many pre-historic megalithic monuments, the renaissance architecture, etc. All part of a 1000 year old country history, too long to describe in just a few lines and best experienced in loco.
+The town of Odemira itself sits on the Rio Mira, a calm river that winds through wooded valleys before reaching the sea at Vila Nova de Milfontes. It's a working market town rather than a tourist destination, which is part of its charm: there are good local restaurants, a lively weekly market, and the unhurried pace of a place that hasn't been reshaped around tourism. The surrounding countryside holds megalithic monuments, Roman bridges, and whitewashed villages little changed over centuries.
+
+The coast is the star attraction. Praia de Odeceixe in the north, Praia de Almograve, and Praia de Vila Nova de Milfontes are all spectacular — long, exposed beaches backed by dunes or cliffs, with cold, clean Atlantic water. The clifftop walking trails between them rank among Portugal's finest coastal hikes. Come in June or September to avoid peak crowds; July and August bring strong winds from the north (unpleasant for sunbathing but paradise for surfers).
+
+The Alentejo interior rewards those willing to slow down. The Serra de Monchique hills to the southeast provide a green backdrop, and the Barragem de Santa Clara reservoir — one of the largest in Portugal — sits in the heart of the municipality, surrounded by eucalyptus and pine forests popular with wild campers and birdwatchers.

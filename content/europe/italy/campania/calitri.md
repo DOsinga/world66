@@ -1,8 +1,10 @@
 ---
-title: "Calitri"
+title: Calitri
 type: location
 latitude: 40.902119
 longitude: 15.430556
+done:
+  location_cleanup: 2026-04-05
 ---
 
 *Europe > Italy > Campania > Calitri*

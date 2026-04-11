@@ -1,5 +1,5 @@
 ---
-title: "Eating Out in Tirunelveli"
+title: "Eating Out"
 type: section
 ---
 

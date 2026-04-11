@@ -1,10 +1,14 @@
 ---
-title: "Kluang"
+title: Kluang
 type: location
-latitude: 2.032347
-longitude: 103.319077
+latitude: 2.0323
+longitude: 103.3191
+done:
+  location_cleanup: 2026-04-06
 ---
 
-One of the charming places to visit in Kluang is the Kluang Railway station, in service since 1915. Like nearby Sungai Mengkibol, the railway passes through Kluang town, basically cutting it into two halves. As the road to the town is temporarily closed for the train to pass, local residents once said that when the trains approach Kluang Railway station, the entire Kluang town stands still. The station itself withstood the test of time and should be of interest for those who have passion for nostalgic photographs. 
+Kluang is a small town in the centre of Johor state, Peninsular Malaysia, known mainly among Malaysians for one thing: its coffee. The Kluang Railway Station Canteen on Jalan Omar has been serving kopi (strong, sweet local coffee), kaya toast, and half-boiled eggs since the 1940s and is one of the most celebrated breakfast spots in the country. Food enthusiasts make the trip specifically for this breakfast, served from 7am to noon and again for afternoon tea.
 
-Today, the trains continue ferrying its passengers and passing through Kluang town, noisily but faithfully. Though trainspotting may not be a popular local pastime, take a walk to the canteen on nearby Jalan Omar, and you will find something else that will trigger a moment of reminisce - really good coffee, toasted breads and half boiled eggs. No visitors to Kluang should miss this local dish that is available for breakfast between 7.00am and 12.00noon and for afternoon tea between 2.30pm and 6.00pm.
+The town is bisected by the Keretapi Tanah Melayu rail line, which has passed through since 1915. When trains approach, the road crossing closes and the town pauses briefly — a piece of small-town Malaysian rhythm that the locals have grown up with. The station building itself, white-painted and colonial in character, is worth a photograph.
+
+Outside town, the Gunung Lambak and Gunung Belumut recreational forests offer jungle hiking. Kluang sits on the North-South Expressway, about 80 km from Johor Bahru.

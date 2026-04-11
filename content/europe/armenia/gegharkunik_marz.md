@@ -1,14 +1,16 @@
 ---
-title: "Gegharkunik Marz"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 40.352445
 longitude: 45.127131
+title: Gegharkunik Marz
+type: location
 ---
 
-Gegharkunik Marz is the area including and surrounding Lake Sevan, the massive alpine lake covering 5% of Armenia's surface. On those magical days when the water is a bright turquoise, and you're by a white sand beach, you can be fooled into thinking you're in the Caribbean somewhere, but only so long as you keep your toes out of the cold water, which though refreshing on a hot summer day, will shatter any tropical fantasies you may have held.
+Gegharkunik Marz is the region surrounding Lake Sevan, the massive alpine lake covering five percent of Armenia's surface. On those magical days when the water turns bright turquoise and you are standing on a white sand beach, you could be fooled into thinking you are somewhere in the Caribbean — at least until you dip your toes in the cold water.
 
-The most popular area is that closest to the highway approaching from Yerevan, around the peninsula with Sevanavank Monastery on it. Known as the island in Armenian, the peninsula indeed was an island until Stalin decided to lower the level of the water in the lake.
+The most popular area is closest to the highway from [Yerevan](/europe/armenia/yerevan), around the peninsula where Sevanavank Monastery sits. Known as "the island" in Armenian, it was indeed an island until Soviet-era water diversion lowered the lake level and joined it to the shore.
 
-Sevanavank Monastery, Hayravank Monastery and the large khachkar (cross stone) cemetary in Noratus are the main attractions in the area, though there are other minor sites and medium sized towns such as Kavar, Martuni and Vardenis. The monasteries of Makenyats and Vanevan are on the south end of the lake, nearer to Vardenis.
+Sevanavank, Hayravank Monastery, and the large khachkar cemetery at Noratus are the main draws. Noratus holds the biggest collection of medieval cross-stones in Armenia — hundreds of them standing in open fields. Further south around Vardenis, the monasteries of Makenyats and Vanevan are worth the detour if you have your own transport.
 
 The road east from Vardenis formerly connected through Kelbajar to Nagorno-Karabakh. This route has been closed since Azerbaijan retook the region in 2023.

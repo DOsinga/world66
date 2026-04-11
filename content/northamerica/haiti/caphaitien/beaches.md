@@ -3,16 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-**all**
-
-**Cormier Beach **
-
-Has tennis courts scuba diving and restaurants that serve fresh lobster.  
-
-**Rival Beach **
-
-Has places to rent equipment for water sports.  
-
-**Labadie Beach**
-
-About 9 mi/15 km west of town is Labadie Beach which has a beautifully landscaped water park restaurants and water-sports rentals.
+The coast north and west of Cap-Haitien has some of Haiti's best beaches. Cormier Plage, a short drive north of town, is a sheltered cove with calm water, a dive operation, and a beachside restaurant serving fresh lobster. Further west, Labadie Beach — about 15 kilometres from town — has a landscaped waterpark, restaurants, and water-sports rentals, though much of the bay is leased to a cruise line. Rival Beach, closer to town, is simpler but has equipment rental for water sports.

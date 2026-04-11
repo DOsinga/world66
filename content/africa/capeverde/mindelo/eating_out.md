@@ -1,20 +1,6 @@
 ---
 title: "Eating Out"
 type: section
-address: "Rua Senador Vera Cruz, 5"
-type: "African"
-latitude: 16.88672
-longitude: -24.987908
 ---
 
-### [Maria](/africa/capeverde/mindelo/eatingout/maria)
-
-Restaurante Gaudi in the center of Mindelo. Nice food and ambience.
-
-type: African
-
-
-
-[[rate it]](/africa/capeverde/mindelo/eatingout/maria)
-
-address: Rua Senador Vera Cruz, 5
+The best concentration of restaurants is around Rua de Lisboa and the surrounding streets in the center. Fish is the backbone of most menus — grilled wahoo, tuna, and grouper are all excellent. Cachupa, Cape Verde's national dish (a slow-cooked stew of corn, beans, and whatever protein is to hand), appears everywhere and is worth ordering at least once. Prices are low by European standards.

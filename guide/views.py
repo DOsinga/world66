@@ -10,7 +10,7 @@ from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
 from .models import (
-    CONTENT_DIR, NAV_TYPES, find_tagged_pois,
+    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
     load_page, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -67,21 +67,7 @@ def location_or_section(request, path):
                 parent_nav, parent_locations, _ = grandparent.children()
                 active_nav = parent   # mark the section as active in the sidebar
 
-    # For a POI reached via a context nav page, build sidebar from that nav page
-    nav_siblings = []
-    if context_nav:
-        nav_siblings = context_nav.tagged_pois()
-        if active_nav is None:
-            active_nav = context_nav  # highlight the context section in the city sidebar
-
-    # Contextual URL prefix for POI links on nav pages (section/neighbourhood/theme).
-    # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
-    poi_context_prefix = None
-    _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
-    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
-        poi_context_prefix = f"/{_city_path}/{page.slug}/"
-
-    # Neighbourhood sidebar context (for PR #105 Amsterdam content)
+    # Neighbourhood sidebar context
     neighbourhood_page = None
     neighbourhood_pois = []
     if page.page_type == "poi":
@@ -96,14 +82,33 @@ def location_or_section(request, path):
             neighbourhood_page = parent
             neighbourhood_pois = parent.neighbourhood_pois()
 
+    # For a POI reached via a context nav page, build sidebar from that nav page
+    nav_siblings = []
+    if context_nav:
+        nav_siblings = context_nav.tagged_pois()
+        if active_nav is None:
+            active_nav = context_nav  # highlight the context section in the city sidebar
+
+    # Contextual URL prefix for POI links on nav pages (section/neighbourhood/theme).
+    # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
+    poi_context_prefix = None
+    _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
+    if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
+        poi_context_prefix = f"/{_city_path}/{page.slug}/"
     body_html = md.markdown(page.body) if page.body else ""
     nav_pages, locations, pois = page.children()
+
+    # Build the city tag index once so all tagged_pois() calls reuse it.
+    city_tag_index = None
+    _cpath = _city_path if page.page_type in NAV_TYPES else (page.path if nav_pages else None)
+    if _cpath:
+        city_tag_index = build_city_tag_index(_cpath)
 
     # Nav pages collect their POIs by tag; section_groups collect their child nav pages
     if page.page_type == "section_group":
         pois = nav_pages
     elif page.page_type in NAV_TYPES:
-        pois = page.tagged_pois()
+        pois = page.tagged_pois(_city_tag_index=city_tag_index)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
@@ -121,7 +126,7 @@ def location_or_section(request, path):
     continent_slug = path_parts[0] if path_parts else None
     is_continent = len(path_parts) == 1 and page.page_type == "location"
 
-    markers = _collect_markers(page, nav_pages, locations, pois)
+    markers = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
 
     image_path = _image_path(page)
     hero_image_url = f'/content-image/{image_path}' if image_path else None
@@ -150,7 +155,7 @@ def location_or_section(request, path):
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,
-        "tags": page.tags,
+        "tags": [t.replace("_", " ") for t in page.tags],
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "neighbourhood_page": neighbourhood_page,
@@ -244,7 +249,7 @@ def _marker_from_page(page, highlight=False):
     return None
 
 
-def _collect_markers(page, nav_pages, locations, pois):
+def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     markers = []
     seen = set()
 
@@ -263,7 +268,7 @@ def _collect_markers(page, nav_pages, locations, pois):
         if nav.page_type == "section_group":
             continue
         is_sight = nav.slug in _SIGHT_SLUGS
-        for poi in nav.tagged_pois():
+        for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
             add(_marker_from_page(poi, highlight=is_sight))
 
     return markers

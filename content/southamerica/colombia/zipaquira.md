@@ -1,8 +1,12 @@
 ---
-title: "Zipaquira"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 5.023475
 longitude: -74.003982
+title: Zipaquira
+type: location
 ---
 
-The Salt Mines of Zipaquira are a nice day trip from Bogota. The mines were used since long before the arrival of the Spaniards. In the mines you can find a cathedral hewn out of rock.
+Zipaquirá is a colonial town about 50 km north of [Bogotá](/southamerica/colombia/bogota) and one of the most popular day trips from the capital. The main attraction is the Catedral de Sal, an underground cathedral carved entirely out of the walls of an active salt mine. The mine has been worked since pre-Columbian times by the Muisca people, and the current cathedral — the second on the site — was completed in 1995, some 180 metres below the surface. The scale is dramatic: a full-sized nave, side aisles, and an enormous cross carved in relief from the rock face, all illuminated in coloured light.
+
+The town itself has a pleasant colonial centre with a tree-lined main square and whitewashed buildings. A tourist train, the Tren de la Sabana, runs from Bogotá on weekends and makes the journey part of the experience.

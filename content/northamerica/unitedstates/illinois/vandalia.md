@@ -1,8 +1,10 @@
 ---
-title: 'Vandalia'
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 38.9606
 longitude: -89.0937
+title: Vandalia
+type: location
 ---
 
 This small town of fewer than 7,000 people was the first state capital of Illinois. A young Abraham Lincoln served as a state legislator here -- the only public office he held before winning the presidency. The old Vandalia Statehouse, now a state historic site, is well preserved and worth a brief stop.

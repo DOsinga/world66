@@ -1,8 +1,12 @@
 ---
-title: "Jacobabad"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 28.281309
 longitude: 68.436436
+title: Jacobabad
+type: location
 ---
 
-Jacobabad is situated on Sind Baluchistan border. It is a district of sind province of Pakistan and is liklely tobe divided into two districts by the end of 2004 by creating another district comprising if its two tehsils namely Kandhkot and Kashmore. It is famous for scrorching heat during the summer season.It is also known for a notorious custome of KARO KARI by which a relative is allowed to kill a man or a women if he comes to know of their relations, no matter the nature of relations is pious. This custom is being promoted by a MPA Mr.Manzoor Panhwar and Mr.Sher Muhammad Khan Bijarani, the uncle of Nazim of District council of Jacobabad
+Jacobabad is a district capital in northern Sindh, near the Balochistan border. Founded in the 19th century by General John Jacob, a British military engineer who built irrigation canals and established the town as an administrative center, it remains one of the hottest inhabited places on earth — summer temperatures regularly exceed 50°C.
+
+The town is primarily a transit point for travelers heading between Sindh and Balochistan. The annual Sindh Horse and Cattle Show, held in January and dating back to General Jacob's era, is the main event — featuring horse and camel races, shooting competitions, and traditional sports.

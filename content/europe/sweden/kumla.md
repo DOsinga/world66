@@ -1,10 +1,14 @@
 ---
-title: "Kumla"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 59.117955
 longitude: 15.120621
+title: Kumla
+type: location
 ---
 
-Travel Guide
+Kumla is a small industrial town in the province of Närke, south of [Örebro](/europe/sweden/rebro) on the E20 between [Stockholm](/europe/sweden/stockholm) and [Gothenburg](/europe/sweden/gothenburg). It sits in a flat agricultural landscape and is primarily known for two things: it was once the centre of Sweden's shoe industry, with dozens of factories operating through the 20th century, and it is home to Kumla Prison, one of Sweden's highest-security facilities.
 
-Kumla is a town in the province Närke south of [Örebro](/europe/sweden/rebro) on the E20 road between [Stockholm](/europe/sweden/stockholm) and [Göteborg](/europe/sweden/gothenburg). It is situated in the middle of a flat agricultural area. Traditionally it was known for its many shoe factories of which few remain. Today Ericsson is one of the main employers, but the town is probably best known for its high-security prison. Outside town is Kvarntorp industrial area with, among others, SAKAB where hazardous substances are destroyed or removed from the human ecosystem. Quarrying of alum-shale took place in earlier decades at Kvarntorp which has resulted in a hill of slag, more then 100 metres high. This hill, still burning inside, has now been turned into a permanent open-air sculpture park.
+Outside town, the Kvarntorp industrial area has an unusual legacy: decades of alum-shale quarrying left a slag heap more than 100 metres high that continues to burn slowly inside — a low-temperature combustion that has been going on for generations. The heap has been converted into a permanent open-air sculpture park, a strange and compelling combination of industrial ruin and public art.
+
+Kumla is a short rail or bus ride from Örebro.

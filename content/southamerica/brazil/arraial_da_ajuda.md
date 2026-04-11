@@ -1,17 +1,16 @@
 ---
-title: "Arraial da Ajuda"
+title: Arraial da Ajuda
 type: location
-latitude: -16.489592
-longitude: -39.068752
+latitude: -16.4896
+longitude: -39.0688
+done:
+  location_cleanup: 2026-04-07
 ---
 
-Arraial da Ajuda is located in the South of Bahia, a region with endless beaches, sweet coconut water, huge variety of food with African and Indian influences. The sun shines all year round and the people are very welcoming.
+Arraial da Ajuda is a beach village on the coast of southern Bahia, across the river from [Porto Seguro](/southamerica/brazil/portoseguro) — the spot where the Portuguese first landed in Brazil over 500 years ago. Despite its proximity to Porto Seguro's package tourism, Arraial has kept its village atmosphere: dirt streets lined with colourful houses, a hilltop church with ocean views, and a string of beautiful beaches backed by low cliffs.
 
-Arraial da Ajuda is part of Porto Seguro, the city where the Portuguese first docked more than 500 years ago. It´s the most important historical city in Brazil. Porto Seguro is now a big destination but Arraial still keeps its village feeling. From there you can visit other interesting villages such as Trancoso and Caraiva, the latter still doesnt have eletric light.
+The beaches are the main draw. Mucuge and Parracho are the liveliest, with beach bars and music. Pitinga, further south, has dramatic clay cliffs and fewer crowds. For real solitude, walk south to Taipe or Rio da Barra. The water is warm year-round, the sun reliable, and the coconut water cold.
 
-The village of Arraial da Ajuda offers many options to people who enjoy walks on the beach and also night life. The parties start only after midnight and finish in the morning. For those who like day time, there are many boat trips and deserted beaches to explore.
+Arraial also has serious nightlife for a small village — parties start after midnight and go until morning, especially during Carnival, New Year, and the Sao Joao festival in June. The Rua do Mucuge, the main street, is lined with restaurants, bars, and shops. From here, you can take day trips south to Trancoso (a quieter, more upscale village) and Caraiva (even more remote, and until recently without electric light).
 
-You can get to Porto Seguro from any city in Brazil, and then you would need to cross the river in a ferry boat to get to Arraial.
-
-**Contributors**
-November 23, 2005
+To get here, fly to Porto Seguro from any major Brazilian city, then take the ferry across the river and a short bus or taxi up the hill.

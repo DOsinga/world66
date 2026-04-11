@@ -1,17 +1,11 @@
 ---
-title: "Wet 'n Wild"
-type: location
-latitude: 32.761252
-longitude: -97.082314
+category: Sight
+done:
+  location_cleanup: '2026-04-10'
+latitude: 28.4557
+longitude: -81.4684
+title: Wet 'n Wild
+type: poi
 ---
 
-6200 International Dr
- Orlando, FL 32819-8290
- Phone: 407/351-1800
- Toll Free (U.S.): 800/992-9453
- Fax: 407/363-1147
- Website: http://www.wetnwild.com
- E-mail: info@wetnwildorf.com
- 
- A water park with multi-passenger rides, including the new Hydra-Fighter. 
- Hours: Hours vary by season.
+A water park on International Drive with multi-passenger rides and wave pools, popular with families visiting Orlando. Located at 6200 International Drive, within easy reach of the major theme parks.

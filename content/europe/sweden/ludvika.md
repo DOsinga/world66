@@ -1,10 +1,12 @@
 ---
-title: "Ludvika"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 60.2
 longitude: 14.833333
+title: Ludvika
+type: location
 ---
 
-Travel Guide
+Ludvika is an industrial town in southern Dalarna, in the heart of Bergslagen — the central Swedish mining district that drove Swedish industry for several centuries. The town is surrounded by forests and lakes, and the area still has wolves and bears, though you are unlikely to see either.
 
-Ludvika is a town in the south of the province Dalarna, in the central Swedish mining district called Bergslagen. It is surrounded by forests, lakes and picturesque villages. Bears and wolves are not uncommon, although seldom seen. ABB, a major employer in the town, develops high voltage transmission systems. Not far from town is Brunnsvik Folk High School which has been of fundamental importance for the development of the workers’ political movement during the 20th century.
+The nearby Brunnsvik Folk High School has a notable history as a centre for the Swedish labour movement. For visitors, the main appeal is the surrounding countryside: good walking, cycling, and fishing in the quiet Bergslagen landscape.

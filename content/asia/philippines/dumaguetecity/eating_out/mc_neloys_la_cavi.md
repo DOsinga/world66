@@ -1,39 +1,10 @@
 ---
-title: "Mc Neloy's La Cavitena Restaurant"
+title: "Mc Neloy's La Cavitena"
 type: poi
-accessibility: "very accessable, near the Blvd and Silliman Hall"
 address: "Silliman Ave., Dumaguete City"
-email: "jcestur_gsk@yahoo.com"
 phone: "0352254502"
-price: "P20-P140"
-type: "Chinese"
 latitude: 9.310203
 longitude: 123.306482
 ---
 
-The best grilled seafood, native filipino delicacies.
-
-"Barkadahan Special" specialty of the house. Grilled feafood, chicken and pork in 1 platter
-
-Chicken and Pork Barbecue, another among the favorites of Mc Neloys!
-
-Also accepts catering for all occassions.
-
-**Contributors**
-June 21, 2007
-
-type: Chinese
-
-
-
-
-
-accessibility: very accessable, near the Blvd and Silliman Hall
-
-tel: 0352254502
-
-address: Silliman Ave., Dumaguete City
-
-PriceOfMenu: P20-P140
-
-email:
+A Filipino restaurant near the Boulevard and Silliman Hall known for grilled seafood, chicken, and pork barbecue. Their "Barkadahan Special" — a mixed platter of grilled seafood, chicken, and pork — is the house specialty. Very affordable; popular with students and locals. Accepts catering.

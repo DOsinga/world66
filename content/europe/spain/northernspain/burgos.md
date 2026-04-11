@@ -1,20 +1,14 @@
 ---
-title: "Burgos"
+done:
+  location_cleanup: '2026-04-08'
+latitude: 42.3439
+longitude: -3.697
+title: Burgos
 type: location
-latitude: 42.343926
-longitude: -3.696977
 ---
 
-**Burgos** is an important travel destination in the North of Spain. The main tourist attraction is the Cathedral, which was completed in 1222. It is modeled after the French cathedral of Bourges and reflects the Gothic style made popular in Spain by the Cistercian Order some time earlier. The cathedral houses the tomb of **El Cid**, a great knight who fought the Moors in Spain.
+Burgos is one of the great Gothic cities of Spain, dominated by its cathedral — a UNESCO World Heritage Site whose delicate spires and flying buttresses are visible from every approach to the city. Completed in the thirteenth century and modelled on the French cathedral at Bourges, it houses the tomb of El Cid, the legendary knight of the Reconquista, and his wife Jimena.
 
+The city sits on the high meseta of Castilla y Leon, on the Camino de Santiago pilgrim route, and its character is shaped by that setting — austere, cold in winter, proud. Beyond the cathedral, the old town is rich in Gothic churches: San Nicolas de Bari with its extraordinary stone reredos, San Gil, San Esteban. Las Huelgas monastery, founded by Alfonso VIII, has a royal pantheon and a museum of medieval fabrics. The remains of the castle above the city give wide views over the meseta.
 
- Other important sights in town include the Gothic churches of Santa Agueda, San Esteban, San Gil, San Lesmes, San Nicolás de Bari with the stone retable (or reredos) by Francis of Cologne, and Nuestra Señora la Real y Antigua de Gamonal.
-
-
- Las Huelgas Monastery was founded by Alfonso VIII and has a royal pantheon. It has a museum of rich medieval fabrics.
-
-
- Among the civil buildings that are worth a visit, El Rey Hospital founded by Alfonso VIII for the pilgrims on their way to Santiago deserves to be mentioned. It still preserves an attractive inner court called Patio de Romeros. In the 15th-century El Cordón House Felipe el Hermoso died and the Catholic Monarchs received Columbus after his return from his second voyage.
-
-
- Also preserved are remains of the castle, once an important medieval fortress, sections of the walls and the arches of Santa Maria.
+The tapas scene along Calle San Lorenzo and the streets around the cathedral is one of the best in northern Spain — Burgos is famous for its morcilla (blood sausage) and roast lamb.

@@ -1,6 +1,6 @@
 ---
-title: "Getting Around in Big Horn Canyon"
+title: "Getting Around"
 type: section
 ---
 
-Automobile and boat are the best ways to see this recreation area. There is no road connecting the two sections. Boat travel is the only way to go directly from one section to the other. The North end of Bighorn Canyon is surrounded by the Crow Indian Reservation. Please respect their land and stay on the road, or on the water, except in areas that are open to travel. The South end can be traversed by auto or boat. Hiking, bicycling and horseback riding are other ways to enjoy this end of the recreation area.
+There is no road connecting the north and south sections of the recreation area, so plan to visit one or the other unless you have a boat. The north end at Fort Smith is surrounded by the Crow Indian Reservation; stay on designated roads and waterways. The south end near Lovell, Wyoming, has more road access and is easier to explore by car. Hiking, biking, and horseback riding are all options on the south side trails.

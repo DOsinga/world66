@@ -1,10 +1,12 @@
 ---
-title: "Bahchisaray"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 44.748
+longitude: 33.881
+title: Bahchisaray
 type: location
 ---
 
-Bakhchysaray means the "palace of gardens" (tatar). It was a capital of the Crimean Khandom (XV-XVIII). When the Crimea was absorbed by Russia, Bakhchysaray became a standard provincial town. Now, Bakhchysaray is popular city of more than 30,000, and is centered in the large agricultural region of the Crimea. Bakhchysaray is the town of excursions. The main tourist attraction is Khan's Palace. This is a "must see" for any visitor to the Crimea.
+Bahchisaray — whose name means "palace of gardens" in Tatar — was the capital of the Crimean Khanate from the 15th to the 18th century. When Russia absorbed Crimea, it became a provincial backwater, but it never lost the character that centuries of Tatar rule had given it. Today it is a city of around 30,000 people, sitting at the heart of a wide agricultural valley.
 
-Although this city is growing in population, the old portion of the city is most interesting for tourists. This old part of the Bakhchysaray has retained a medieval atmosphere with it's narrow and curved streets, as well as many other medieval attributes, including Khan's Palace.
-
- ..The Khan Palace..
+The old quarter is the reason to come. Its narrow, winding streets still feel medieval, lined with low stone houses, ancient mosques, and craft workshops. The undisputed centrepiece is the Khan's Palace (Khansaray), the only surviving palace of the Crimean khans — a remarkable complex of courtyards, fountains, and ornate audience halls that repays a long, slow visit.

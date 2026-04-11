@@ -1,44 +1,20 @@
 ---
-title: "Rost"
+title: Røst
 type: location
-latitude: 67.397286
-longitude: 12.032691
+latitude: 67.527
+longitude: 12.1
+done:
+  location_cleanup: 2026-04-07
 ---
 
-**RØST** 
+Røst is the southernmost municipality in the [Lofoten Islands](/europe/norway/lofotenislands), and it feels like the end of the world. An archipelago of 365 islands, holms, and skerries scattered across open ocean, about 100 km west of Bodø and well above the Arctic Circle. The main island, Røstlandet, barely rises 12 metres above sea level — flat, windswept, and utterly unlike the dramatic peaks that define the rest of Lofoten.
 
-On the tip of Lofoten, jutting out into sea, about 100 km to the west of Bodø and 115 to the north of the Arctic Circle, we come to Røst and its 365 islands, holms and skerries. The largest of them, with it´s highest point just barely 12 m above sea level, is Røstlandet. Further south, the islands of Storfjellet, Vedøya, Trenyken and Hærnyken loom like gigantic monuments in the water. 
+That flatness is deceptive, though. To the southwest, the islands of Storfjellet, Vedøya, and Trenyken rear up out of the sea like fortresses, reaching 259 metres. These cliffs host the largest seabird colonies in Norway — roughly a quarter of the country's entire seabird population. During summer, boat trips run daily to the nesting colonies, and if you have any interest in birdlife at all, this is one of the most extraordinary places in Northern Europe.
 
-Mount Storfjellet is the highest of these mountains, reaching a height of 259 metres above sea level. The entire population of this municipality is to be found on Røstlandet and a couple of lesser islands with which it is connected by roads. Here, too, we find the municipal administration offices, a primary school, a nursery, shops, restaurant, post office, bank, air strip, and fish landing facilities. 
+Røst lives and breathes cod. From January to April, enormous quantities of fish are brought ashore and hung on wooden racks to dry in the relentless wind — the same stockfish production that has sustained these islands since the Viking Age. The Gulf Stream keeps winters surprisingly mild for a place this far north, but the wind never lets up. That combination of salt air and constant breeze is what makes Røst's stockfish some of the best in Norway.
 
-The great ocean itself, and what is left of the Gulf Stream, leaves its mark on Røst, with mild winters and cool summers. Coupled with relentless winds, the climate is ideal for the production of the island´s most important export commodity, stockfish. From January to April large amounts of cod are brought ashore and hanged on racks, to be processed by the weather and turned into first class products. 
+The island has a remarkable history. In the winter of 1431, a Venetian nobleman named Pietro Querini was shipwrecked in the North Sea on a voyage from Crete to Flanders. His lifeboat drifted to the uninhabited island of Sandøy, just outside Røst. The survivors were found half-dead in January 1432, nursed back to health by the islanders, and stayed until spring. Querini's account of daily life on Røst is one of the most vivid descriptions of medieval Northern Norway that exists. A monument on Sandøy commemorates the episode.
 
-Preparatory to the export of this excellent commodity, a number of people are employed in the process, both in spring and summer. Røst is more dependent on fish than most other municipalities in the country. In fact, not many municipalities in Norway produce export articles for larger sums per inhabitant than Røst. 
+The church on Røstlandet holds a treasure worth seeing: a medieval triptych, one of five given by the Dutch Princess Elizabeth to Norwegian coastal churches in 1520, as thanks for surviving a storm at sea on her way to marry King Christian II in Copenhagen. It has adorned at least five different churches on Røst since then — the earlier ones having a tendency to blow down in hurricanes.
 
-There are daily flights between Bodø and Røst. Good corresponding flights. Also direct flights between Røst and Leknes. Ferry link between Bodø, Værøy and Moskenes. The direct crossing from Bodø to Røst takes about 4 hours on the ferry and 20 minutes by air. 
-
-The scenery on Røstlandet, covered as it is by flat pastures, marshes and innumerable fresh and brackish lakes and ponds, contrasts sharply with the towering, steep bird cliffs that rise out of the sea towards the southwest. Nowhere else in Norway will you find as many nesting sea birds as on these islands. 
-
-**The Church Spire** 
-
-In January 1835 Røst Church (built around 1825) was blown down by a hurricane. According to eye witnesses the roof was swept off, with the spire and the bells attached to it. The spire is still there, in the cemetery, and is a reliable navigation point for ships off the coast. 
-
-**The Church Ruins 
-
-**The church itself was consecrated 5 May 1839 by a bishop, the Right Rev. Kierschow, whereas the choir and sacristy were consecrated in 1883. In building their church out of stone, people felt they were safeguarding it from storms. It was constructed along lines laid down by the architect H.D.F. Lindstows for the country´s churches in general, but is presumed to have been the only church of its kind to be made of stone. It was used until 1900, as it was considered too small and demolished the year after by Royal decree. 
-
-Today´s church was inaugurated in 1900. 
-
-**The Triptych** 
-
-The triptych in Røst Church is one of five triptychs given by the Dutch Princess Elizabeth to Norwegian Churches along the rugged coast. This was a gift of gratitude to the powers above for having shielded her during a storm, on her sea journey to Copenhagen to become the bride and queen of Christian II. In 1520, the triptych arrived in Røst, where it has probably adorned five different churches thus far. 
-
-**Pietro Querini** 
-
-This was a Venetian nobleman, shipwrecked in the North Sea during the early winter of 1431/32, on a journey from Crete to Flanders. A life boat with survivors from the wreck drifted ashore on the uninhabited island Sandøy, outside Røst. The survivors were found, in very poor condition, in January 1432. They stayed on till spring, and then left on ships carrying stockfish. The Italians´ narratives of conditions on Røst at the time is one of the most important descriptions we have about the lives of ordinary people in North Norway during the Middle Ages. A monument to commemorate Querini and his companions was unveiled on Sandøy, 10 July 1932. 
-
-**Bird Nesting Colonies** 
-
-The steep and towering islands southwest of the populated island of Røstlandet, are "home" for the largest number of nesting birds in all of Norway, - with approximately one fourth of the country´s seabird population. A "census" taken in 1992 shows a population of 2,5 million adults birds. 
-
-During the summer, there are daily boat trips to the nesting colonies. On the island of Vedøya, you can see the remnants of early settlement, showing that the island was probably an old fishing and hunting station. Bird lovers and researchers, both at home and abroad, regularly visit these ornithologically important islands. Moreover, a book about the birds on Røst has been published in Norwegian, English, German and French.
+Getting here takes commitment. There are daily flights from Bodø (20 minutes) and a ferry via [Værøy](/europe/norway/lofotenislands/vaeroy) and [Moskenes](/europe/norway/lofotenislands/moskenes) that takes about four hours. The island has a handful of shops, a restaurant, and basic services, but you come here for the birds, the stockfish, and the sheer remoteness of the place — not for nightlife.

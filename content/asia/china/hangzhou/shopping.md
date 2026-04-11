@@ -1,10 +1,6 @@
 ---
-title: "Shopping in Hangzhou"
+title: "Shopping"
 type: section
 ---
 
-Hangzhou is the commercial and administrative capital of the Chinese Zhejiang province, and **Hangzhou shopping** options cater to the demands of every kind of customer. Hangzhou is primarily famous for its native offerings like China silk and tea. The best among Hangzhou Shopping options include:
-
-**Hangzhou Shopping for Local Crafts**
-
-Qinghefang Street is regarded as the most historic street of Hangzhou. It is paved with many buildings that date
+Hangzhou is the best place in China to buy silk and Longjing green tea. The Silk Market (Zhongguo Sichou Cheng) on Xinhua Lu sells fabric by the metre as well as finished goods. For tea, buying directly in Longjing Village gives you better quality and lower prices than the city shops. Qinghefang Old Street near the south gate of the old city is the most atmospheric place for souvenirs, fans, and traditional crafts — touristy but genuinely historic.

@@ -1,15 +1,8 @@
 ---
 title: "Playa El Yaque"
 type: poi
-email: "alel22@hotmail.com"
-latitude: 10.897027
-longitude: -63.964601
+latitude: 10.8970
+longitude: -63.9646
 ---
 
-Certainly the world best beach to practice water sports like kitesurf and windsurf due to its perfect wind conditions during the whole year. It is also one of the main international tourists destinations in Margarita Island. White sand, warm and calmed waters besides strong sea winds are the main features of this idyllic place. The best daylight beach parties during the high seasons that you won't want to miss.
-
-
-
-
-
-email: alel22@hotmail.com
+One of the top kitesurfing and windsurfing spots in the Caribbean. Steady trade winds blow almost year-round, and the water is warm, shallow, and flat -- perfect conditions for both beginners and pros. A small beach village has grown up around the sport, with rental shops, surf schools, and casual restaurants. Even if you do not windsurf, it is a pleasant beach for families thanks to the calm, shallow water.

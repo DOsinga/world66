@@ -1,12 +1,12 @@
 ---
-title: "Vijayanagaram"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 18.114126
 longitude: 83.411439
+title: Vijayanagaram
+type: location
 ---
 
-We currently have no information about Vijayanagaram.
+Vizianagaram (also spelled Vijayanagaram) is a mid-sized town in the northern part of Andhra Pradesh, situated between Visakhapatnam and the Odisha border. The town was the seat of the Vizianagaram princely state and retains traces of that era in its modest fort and the Vizianagaram Palace, both of some historical interest.
 
-If you do know any general information about Vijayanagaram, please [Edit this article].
-
-If you know any hotels in Vijayanagaram or restaurants in Vijayanagaram, please [[Add].](/destinations/addItemWizard?addwhere=asia/southasia/india/andhrapradesh/vijayanagaram)
+The town is a transport stop for travellers heading to Visakhapatnam ("Vizag") further south, or into the Eastern Ghats. For most visitors it functions as a transit point rather than a destination in itself.

@@ -1,12 +1,18 @@
 ---
-title: "Kremnica"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 48.7042
+longitude: 18.9175
+title: Kremnica
 type: location
-latitude: 48.704213
-longitude: 18.917485
 ---
 
-A visit to Kremnica usually begins at the Lower Gatehouse. The sloping regular square with the Holy Trinity Plague Column affords a nice view of the imposing castle. History - lovers may visit several attractive museums, they will go to the Franciscan church to admire its interior. To reach the square from another side, they may go accross the site of the former Upper Gatehouse behind the mint.
+Kremnica is a small medieval mining town in the Kremnica Mountains of central Slovakia, and it punches well above its weight. It is home to the oldest continuously operating mint in the world — coins have been struck here since 1328 — and the fortified town centre, ringed by Gothic walls and anchored by a castle-church complex, is one of the best-preserved in the country.
 
-Mining of ores with content of gold and silver has longterm tradition in the Kremnica region. The extent of the Kremnica veins extraction can be characterized as big one.
+The focal point is the sloping main square, Štefánikovo námestie, with its striking Holy Trinity Plague Column rising from the cobblestones and the walled castle complex looming at the top. Walk up through the Lower Gatehouse and you step into a different century. The castle church of St. Catherine dominates the hilltop enclosure, and the views over the valley are worth the climb alone.
 
-Kremnica is starting point for hiking trips to the surrounding mountains. The ski centres on Krahule, Sibenicny Hill and Skalka mountains, all of them with ski lifts, are well-known for cross-country and downhill skiing. In summer the holiday makers may spend their time in a thermal open-air swimming pool. The town and its surroundings provide a wide choice for recreational activities all the year round.
+History-minded visitors will find plenty to occupy them: the municipal museum covers the town's long mining and minting heritage, and the Franciscan church has a handsome interior worth a look. Collectors and numismatists should not miss the mint itself, which still produces Slovak commemorative coins and runs a small museum.
+
+In winter, Kremnica serves as a base for skiing at Krahule, Sibeličný kopec, and Skalka — modest ski areas with lifts, well-suited for families and beginners rather than expert skiers. In summer, the surrounding mountains open up for hiking and cycling, and there is a thermal outdoor pool for warm-weather relaxation.
+
+It is an easy day trip from Banská Bystrica, about 25 km to the south, but if you are interested in medieval Slovak towns and have time to linger, Kremnica rewards an overnight stay.

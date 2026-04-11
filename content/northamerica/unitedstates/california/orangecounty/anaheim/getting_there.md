@@ -1,24 +1,10 @@
 ---
-title: "Getting There in Anaheim"
+title: "Getting There"
 type: section
-type: "By Road"
-url: "www.metro.net"
 ---
 
-<a href="http://wbaxter1.tripod.com/anaheim/id40.html">Anaheim/Orange County Airport.</a><br>
+The closest airport is John Wayne Airport (SNA) in Santa Ana, about 15 minutes south. Los Angeles International Airport (LAX) is roughly an hour away depending on traffic — which in LA means it could be much longer. Several shuttle services run between LAX and the Anaheim resort area.
 
-### [Metropolitan Transit Authority](/northamerica/unitedstates/california/orangecounty/anaheim/getting_there/metropolitan_trans)
+If you are on a budget, you can take public transit from LAX: the G Shuttle to Aviation Station on the Green Line, transfer at Norwalk Station to the 460 bus, which drops you at Disneyland. It takes around two hours but costs a fraction of a cab or rental car.
 
-When heading to Anaheim from Los Angeles International Airport (LAX), the Los Angeles County Metropolitan Transity Authority offers an easy journey, perfect for the budget traveller.
-
-Take the 'G' Shuttle from LAX to the Aviaiton Station on the Green Line. Disembark at Norwalk Station, and transfer to the 460 Bus. Disembark at Disneyland.
-
-Total Fare: *$3.00 *Estimated Travel Time: *2 hours.*
-
-While it may seem like a long journey, renting a car at LAX and then driving to Anaheim can take over 90 [more..](/northamerica/unitedstates/california/orangecounty/anaheim/getting_there/metropolitan_trans)
-
-type: By Road
-
-
-
-url: [www.metro.net](http://www.metro.net)
+By car, Anaheim is right off the I-5 freeway, accessible from anywhere in Southern California.

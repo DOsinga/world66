@@ -1,12 +1,14 @@
 ---
-title: "Nagrota Surian"
+done:
+  location_cleanup: '2026-04-09'
+latitude: 32.0507
+longitude: 76.0888
+title: Nagrota Surian
 type: location
-latitude: 32.050658
-longitude: 76.088832
 ---
 
-Travel Guide
+Nagrota Surian is a small town on the edge of the Pong Dam Lake wetlands, and the most practical base for exploring this Ramsar-designated bird sanctuary. The lake and its surrounding marshes attract hundreds of thousands of migratory birds between November and March, including bar-headed geese, ruddy shelducks, and various species of wader.
 
-This is a wonderful place that has a great climate all year, the most beautiful scenery in the world, and a lot of big farms, and animals.
-The climate is usually nice and enjoyable all year round and makes this place really pleasuring. The huge rock sides next to the highway are wonderful to look at. They are enormous and look as if they are going to fall and crush any person or vehicle passing by. All of the beautiful sites attract many tourists to this territory.
-Pong Wetland is best approached via Nagrota Surian, a small town near the flats around the lake, which has access by rail. This historic narrow-gauge train, running from Pathankot to Jogindernagar, is in itself a great way to see the Shivalik, particularly en route from Kangra to Nagrota Surian where it passes through beautifully rugged valleys and canyons, crossing rushing rivers.
+The best reason to arrive here by train rather than road is the Kangra Valley Railway, a narrow-gauge line running from Pathankot to Jogindernagar. The stretch from Kangra to Nagrota Surian passes through rugged Shivalik valleys and canyons, crossing rushing rivers on narrow bridges. It is one of the more scenic rail journeys in Himachal Pradesh and a worthwhile experience in its own right.
+
+The town itself is quiet and agricultural, surrounded by farmland and the flat marshy fringes of the lake. There is little in the way of tourist infrastructure, but that is part of its appeal if you are coming for the birdwatching.

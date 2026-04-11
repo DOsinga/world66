@@ -1,14 +1,10 @@
 ---
-title: "Tours and Excursions"
-type: location
+title: "Day Trips"
+type: section
 ---
 
-**Tours**
+[Victoria Falls](/africa/zimbabwe/victoriafalls) is a base for some of Zimbabwe's best wildlife experiences. Two national parks are within easy reach.
 
-**Hwange National Park**
+**Hwange National Park** is Zimbabwe's largest game reserve, about a two-hour drive from Victoria Falls. Day trips and overnight stays are available through any booking agency in town, with pick-up and drop-off at your accommodation. Hwange is known for its large elephant herds and excellent birdlife.
 
-Day trips and overnight stays available from Victoria Falls. pick-up and drop-off at your hotel. Book through any agency.
-
-**Zambezi National Park**
-
-Game Viewing in this game park can include walking and braai (barbecue) breakfasts as well as birdwatching, lunch along the Zambezi River banks and, sundowners at watering holes. Transport is needed, but you can go on your own or through any of the local booking agents.
+**Zambezi National Park** begins just upstream from the falls and runs along the river for 40 kilometres. Game drives here can include walking safaris, bush breakfasts with braai (barbecue), birdwatching, lunch on the Zambezi river banks, and sundowner drinks at watering holes. You can visit independently with your own transport or book through a local agent.

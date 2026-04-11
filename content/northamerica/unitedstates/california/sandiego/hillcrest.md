@@ -1,10 +1,12 @@
 ---
-title: "Hillcrest"
+done:
+  location_cleanup: '2026-04-10'
+latitude: 32.7469
+longitude: -117.1631
+title: Hillcrest
 type: location
-latitude: 41.95114
-longitude: -89.064541
 ---
 
-Right next to Balboa Park and Downtown San Diego, this popular region is known for it's vintage clothing stores, record outlets, and restaurants of all varieties. 
+Hillcrest is a vibrant, walkable neighbourhood just north of [Downtown San Diego](/northamerica/unitedstates/california/sandiego), bordering [Balboa Park](/northamerica/unitedstates/california/sandiego) to the east. It is the centre of San Diego's LGBTQ+ community, with gay bars, clubs, and social organisations along and around University Avenue, but the neighbourhood's appeal extends well beyond that identity. The commercial strips are packed with independent restaurants, vintage clothing shops, record stores, and bookshops that draw a diverse mix of residents and visitors.
 
-Hillcrest is also known as the "gay area" of San Diego, offering gay and lesbian bars, clubs, social groups and activities.
+The proximity to Balboa Park makes Hillcrest a natural base for exploring the park's museums, the zoo, and its gardens. On weekends the Hillcrest Farmers Market on Normal Street is one of the best in the city. The neighbourhood is compact enough to explore entirely on foot, with flat streets and a relaxed atmosphere that San Diego does better than almost anywhere.

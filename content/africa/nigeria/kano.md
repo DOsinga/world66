@@ -1,20 +1,16 @@
 ---
-title: "Kano"
-type: location
+done:
+  location_cleanup: '2026-04-07'
 latitude: 11.993998
 longitude: 8.521974
+title: Kano
+type: location
 ---
 
-Kano is one of the nicest cities to visit in Nigeria. It has been one of the most importnat trading towns for the Hausa, who had a big empire in the 18-th and 19-th century and are still one of the most influential people of Nigeria.
+Kano is one of the most compelling cities to visit in Nigeria. It has been a major trading hub for the Hausa people for centuries — their empire dominated northern Nigeria in the 18th and 19th centuries, and their cultural influence remains enormous. The Old City, ringed by mud walls with 16 gates, is the reason most travellers come.
 
-On the edge of the Sahel (the fringe of the Sahara) Kano has many cultural and historical links to the tribes of the southern Sahara. It’s a bustling and interesting city (the third-largest in the country—it’s grown at a frenzied pace in recent years) and though it’s noisy and crowded it’s much more bearable than Lagos.
+Sitting on the edge of the Sahel, just below the fringe of the Sahara, Kano has deep cultural and commercial links stretching north across the desert to the Maghreb. The city has grown at a frenzied pace in recent decades and is now the third-largest in Nigeria — noisy and crowded, but far more navigable than Lagos. Most of what you want to see is concentrated in the walkable Old City, which makes it easy to spend a day well.
 
-Be sure to visit the walls of the Old City (there are 16 gates) and the massive Kurmi Market. Also in the Old City is the Central Mosque (now closed to non-Islamic visitors but worth seeing from outside especially during a Friday service). South of the mosque is the Emir’s Palace (you can’t enter it without a personal invitation from the emir) and across from the palace is the Gidan Makama Museum (historic and crafts exhibits). Indigo cloth is dyed at the Kofar Mata dye pits (the oldest in Africa). The Gidan Dan Hausa (an old colonial governor’s mansion) is worth a visit to see its unusual Hausa/Islamic architecture. There’s also a nice zoo south of town. 
+The Old City's big four: the Kurmi Market, one of the largest traditional markets in West Africa; the Kofar Mata dye pits, where indigo cloth has been dyed in the same pits since 1498; the Gidan Makama Museum, a well-curated collection of Hausa history and crafts; and the Emir's Palace, a centuries-old compound of mud-brick architecture that remains the seat of the emirate today.
 
-Excursions can be made to Katsina, Daura (a traditional Hausa town) Birnin Kudu (rock paintings) and [Sokoto](/africa/nigeria/sokoto) (with a sultan’s palace, and a good market for leather goods).
-
-
- Kano is situated 835 km northeast of [Lagos](/africa/nigeria/lagos).
-
-
- Historically, Kano has been a centre of trade especially towards the North across the Sahara and South to Zaria. It is currently the largest city in the North and the capital of Kano State. A marked distinction could however be noticed between the old Hausa City and the modern industrial one served by an international airport, rail lines and major roads.
+Day trips are worth considering. [Sokoto](/africa/nigeria/sokoto) has a sultan's palace and excellent markets for leather goods. Katsina and Daura are traditional Hausa towns with a quieter pace. Birnin Kudu has rock paintings. All are reachable in a day if you have your own transport.

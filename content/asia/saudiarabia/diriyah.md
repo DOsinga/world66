@@ -1,8 +1,10 @@
 ---
-title: "Dir’iyah"
-type: location
+done:
+  location_cleanup: '2026-04-09'
 latitude: 24.732996
 longitude: 46.573384
+title: Dir’iyah
+type: location
 ---
 
 Dir’iyah sits on the outskirts of [Riyadh](/asia/saudiarabia/riyadh) in the Wadi Hanifa valley, and it is where the story of modern Saudi Arabia begins. This was the ancestral home of the Al Saud family and the capital of the First Saudi State in the 18th century, before the Ottomans destroyed it in 1818.

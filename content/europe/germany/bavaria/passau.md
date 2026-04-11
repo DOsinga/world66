@@ -1,8 +1,10 @@
 ---
-title: "Passau"
-type: location
+done:
+  location_cleanup: '2026-04-08'
 latitude: 48.574823
 longitude: 13.460974
+title: Passau
+type: location
 ---
 
 City of the three Rivers Danube, Inn and Ilz, this is Passau, located in the very eastern part of Bavaria named "Niederbayern". Human settlements have existed here at the confluence of the three rivers ever since prehistoric times. In the last millennium the city was considerably enlarged by the prince bishops of Passau, who made it their royal residence and capital of the largest Danube diocese. 

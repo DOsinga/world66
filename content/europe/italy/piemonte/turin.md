@@ -1,8 +1,10 @@
 ---
-title: 'Turin'
+title: Turin
 type: location
 latitude: 45.0678
 longitude: 7.6825
+done:
+  location_cleanup: 2026-04-07
 ---
 
 Turin is Italy's most underrated major city. While tourists flock to Rome, Florence, and Venice, the former capital of the Savoy kingdom quietly offers world-class museums, one of Europe's most impressive collections of Baroque architecture, and a food and cafe culture that rivals anywhere on the peninsula. The elegant grid of arcaded streets, the sweeping views of the Alps from nearly every vantage point, and the River Po winding through riverside parks give the city a grandeur that constantly surprises first-time visitors.

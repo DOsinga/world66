@@ -1,10 +1,8 @@
 ---
-title: "Getting Around in Karwar"
+title: "Getting Around"
 type: section
 ---
 
-Autorickshaws are available in Plenty to go around the town, and so are taxis of all sizes available for hire on Km basis or day basis. The local public Bus services are erratic.
+Karwar town is compact enough to walk around, but autorickshaws are plentiful and cheap for getting between the beaches, the fort, and the bus stand. Taxis can be hired by the day or by the kilometre for trips out to Devbagh, the naval area beaches, or further afield to Dandeli. Local bus services exist but run infrequently and are best treated as a last resort.
 
-Karwar is also well connected with major cities like Bangalore - 525 kms, Panjim -110kms, Belgaum - 170km, Hubli - 170kms, Mangalore - 275km, Shimoga - 260kms, Poona - 600kms, etc., by Public and Private Bus services, and to Mumbai - 960kms by Konkan Railway Services.
-
-The nearest Airport is at Dabolim, Goa, 100 kms from Karwar.
+Boats are the way to reach Devbagh Beach and Kurumgad Island; boatmen congregate near the main beach and the river mouth.

@@ -1,8 +1,10 @@
 ---
-title: "Yoga Teacher Training India"
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 8.414503
 longitude: 76.973293
+title: Yoga Teacher Training India
+type: location
 ---
 
 Travel Guide

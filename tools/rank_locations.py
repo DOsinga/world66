@@ -436,47 +436,52 @@ def select_batch_from_graph(
     size: int = BATCH_SIZE,
     rng: random.Random | None = None,
 ) -> list[Rating]:
-    """Pick `size` locations that maximize comparison graph coverage.
+    """Pick `size` locations that maximize total pairwise graph distance.
 
-    Greedy selection: start with an unseen/weakly-connected item, then
-    repeatedly add the item with the highest minimum distance to the
-    current batch. This ensures every round adds maximally new information.
+    Greedy max-sum: start with an unseen/weakly-connected item, then
+    repeatedly add the item that maximizes the sum of distances to all
+    items already in the batch. This prefers items that are far from
+    the batch on average, not just far from the nearest member.
     """
     rng = rng or random
     n = len(ratings)
     if n <= size:
-        return ratings
+        return list(ratings)
 
     # Seed: pick an unseen item (no edges), or the item with fewest connections.
     degrees = [(len(adj[i]), i) for i in range(n)]
     degrees.sort()
     seed = degrees[0][1]
 
-    batch_indices = {seed}
-    dist = _bfs_distances(adj, batch_indices, n)
+    batch_order = [seed]
+    batch_set = {seed}
+    # sum_dist[i] = sum of distances from i to each item in the batch.
+    sum_dist = _bfs_distances(adj, {seed}, n)
 
     for _ in range(size - 1):
-        # Pick the item with the highest minimum distance to the batch.
-        # Tie-break randomly to avoid deterministic bias.
-        best_dist = -1
+        # Pick the item maximizing sum of distances to the batch.
+        # Tie-break randomly.
+        best_sum = -1
         candidates = []
         for i in range(n):
-            if i in batch_indices:
+            if i in batch_set:
                 continue
-            if dist[i] > best_dist:
-                best_dist = dist[i]
+            if sum_dist[i] > best_sum:
+                best_sum = sum_dist[i]
                 candidates = [i]
-            elif dist[i] == best_dist:
+            elif sum_dist[i] == best_sum:
                 candidates.append(i)
         if not candidates:
             break
         chosen = candidates[rng.randint(0, len(candidates) - 1)]
-        batch_indices.add(chosen)
-        # Update distances with new batch member via BFS from just this node.
+        batch_order.append(chosen)
+        batch_set.add(chosen)
+        # Add distances from the new member to the running sum.
         new_dist = _bfs_distances(adj, {chosen}, n)
-        dist = [min(dist[i], new_dist[i]) for i in range(n)]
+        for i in range(n):
+            sum_dist[i] += new_dist[i]
 
-    return [ratings[i] for i in batch_indices]
+    return [ratings[i] for i in batch_order]
 
 
 def update_graph(adj: dict[int, set[int]], indices: list[int]) -> None:

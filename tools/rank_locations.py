@@ -367,41 +367,34 @@ RANKING_SCHEMA = {
 }
 
 
-_country_title_cache: dict[str, str] = {}
+_parent_title_cache: dict[str, str] = {}
 
 
-def _country_context(path: str) -> str:
-    """Return the country name from its frontmatter title.
+def _parent_context(path: str) -> str:
+    """Return the parent page's title from frontmatter.
 
-    Paths look like continent/country/[region/]*/place. We resolve the
-    second segment to its markdown file and read the title. Results are
-    cached so each country file is read at most once.
+    For 'europe/spain/astorga' the parent is 'europe/spain' → 'Spain'.
+    For 'northamerica/unitedstates/california/sanluisobispo' → 'California'.
     """
-    parts = path.split('/')
-    if len(parts) < 2:
+    if '/' not in path:
         return ''
-    country_slug = parts[1]
+    parent_path = path.rsplit('/', 1)[0]
 
-    if country_slug in _country_title_cache:
-        return _country_title_cache[country_slug]
+    if parent_path in _parent_title_cache:
+        return _parent_title_cache[parent_path]
 
-    # Try continent/country/country.md then continent/country.md
-    continent = parts[0]
-    for candidate in [
-        CONTENT_DIR / continent / country_slug / f'{country_slug}.md',
-        CONTENT_DIR / continent / f'{country_slug}.md',
-    ]:
-        if candidate.is_file():
-            try:
-                title = frontmatter.load(candidate).metadata.get('title', '')
-                _country_title_cache[country_slug] = title
-                return title
-            except Exception:
-                break
+    md_path = _resolve_md_path(parent_path)
+    if md_path is not None:
+        try:
+            title = frontmatter.load(md_path).metadata.get('title', '')
+            _parent_title_cache[parent_path] = title
+            return title
+        except Exception:
+            pass
 
-    # Fallback: just titlecase the slug
-    fallback = country_slug.replace('_', ' ').title()
-    _country_title_cache[country_slug] = fallback
+    # Fallback: titlecase the last slug
+    fallback = parent_path.rsplit('/', 1)[-1].replace('_', ' ').title()
+    _parent_title_cache[parent_path] = fallback
     return fallback
 
 
@@ -415,11 +408,30 @@ def build_prompt(batch: list[Rating]) -> str:
         '',
     ]
     for i, r in enumerate(batch):
-        country = _country_context(r.path)
-        if country and country.lower() != r.title.lower():
-            lines.append(f'- [{i}] {r.title}, {country}')
-        else:
+        parts = r.path.split('/')
+        depth = len(parts)  # 1=continent, 2=country, 3+=sub-country
+        parent = _parent_context(r.path)
+        if depth <= 2 or not parent or parent.lower() == r.title.lower():
+            # Continent or country: no extra context needed
             lines.append(f'- [{i}] {r.title}')
+        else:
+            # Sub-country location: show parent, plus country if different
+            country_path = '/'.join(parts[:2])
+            country = _parent_title_cache.get(country_path)
+            if country is None:
+                md = _resolve_md_path(country_path)
+                if md:
+                    try:
+                        country = frontmatter.load(md).metadata.get('title', '')
+                    except Exception:
+                        country = ''
+                else:
+                    country = ''
+                _parent_title_cache[country_path] = country
+            if country and country.lower() != parent.lower():
+                lines.append(f'- [{i}] {r.title}, {parent} ({country})')
+            else:
+                lines.append(f'- [{i}] {r.title}, {parent}')
     return '\n'.join(lines)
 
 

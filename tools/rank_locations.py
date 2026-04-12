@@ -480,7 +480,7 @@ def update_directed_graph(fwd: dict[int, set[int]], rev: dict[int, set[int]],
 
 def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None,
                             log_dir: Path | None = None) -> list[Rating]:
-    """Pick a country with the most unseen/weakly-connected locations, then select within it."""
+    """Pick a country with the most unseen/least-compared locations, then select within it."""
     rng = rng or random
 
     by_country: dict[str, list[Rating]] = {}
@@ -490,13 +490,13 @@ def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Ra
 
     eligible = {k: v for k, v in by_country.items() if len(v) >= 2}
     if not eligible:
-        return select_batch(state, size, rng, log_dir)
+        return []
 
-    # Pick country with the most unseen locations, tie-break by total variance.
+    # Pick country with the most unseen locations, tie-break by fewest total comparisons.
     def country_priority(locs):
         unseen = sum(1 for r in locs if r.comparisons == 0)
-        total_var = sum(r.variance for r in locs)
-        return (unseen, total_var)
+        total_cmp = sum(r.comparisons for r in locs)
+        return (unseen, -total_cmp)
 
     chosen_key = max(eligible, key=lambda k: country_priority(eligible[k]))
     pool = eligible[chosen_key]
@@ -504,16 +504,9 @@ def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Ra
     if len(pool) <= size:
         return pool
 
-    # Within the country, use variance-weighted sampling (graph-based
-    # selection is less useful within a small pool).
-    keys = []
-    for r in pool:
-        w = max(r.variance, 1e-9)
-        u = rng.random()
-        key = math.log(u) / w if u > 0 else -math.inf
-        keys.append((key, r))
-    keys.sort(key=lambda kv: kv[0], reverse=True)
-    return [r for _, r in keys[:size]]
+    # Within the country, prefer least-compared locations.
+    pool.sort(key=lambda r: r.comparisons)
+    return pool[:size]
 
 
 # ---------------------------------------------------------------------------

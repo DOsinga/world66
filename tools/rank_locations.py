@@ -595,8 +595,8 @@ def _print_leaderboard(state: State, rows: list[Rating], reverse: bool) -> None:
 def _filter_pool(state: State, args) -> list[Rating]:
     """Filter the rating pool by --min-n and --country."""
     pool = list(state.ratings.values())
-    if hasattr(args, 'country') and args.country:
-        prefix = args.country.strip('/')
+    if hasattr(args, 'prefix') and args.prefix:
+        prefix = args.prefix.strip('/')
         pool = [r for r in pool if r.path.startswith(prefix + '/') or r.path == prefix]
     if hasattr(args, 'min_n'):
         pool = [r for r in pool if r.comparisons >= args.min_n]
@@ -883,7 +883,7 @@ def main() -> None:
                        help='Sort by mu - 3*sigma (penalise uncertain ratings)')
     p_top.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
-    p_top.add_argument('--country', help='Filter to a country prefix (e.g. europe/belgium)')
+    p_top.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
     p_top.set_defaults(func=cmd_top)
 
     p_bot = sub.add_parser('bottom', help='Show the bottom-ranked locations')
@@ -892,7 +892,7 @@ def main() -> None:
                        help='Sort by mu + 3*sigma (only confidently-bad locations)')
     p_bot.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
-    p_bot.add_argument('--country', help='Filter to a country prefix (e.g. europe/belgium)')
+    p_bot.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
     p_bot.set_defaults(func=cmd_bottom)
 
     p_stats = sub.add_parser('stats', help='Show rating state summary')

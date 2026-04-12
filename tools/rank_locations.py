@@ -641,38 +641,29 @@ def cmd_replay(args) -> None:
     state.api_calls = 0
 
     replayed = 0
-    skipped = 0
+    skipped_entries = 0
     for log_file in log_files:
         data = json.loads(log_file.read_text())
-        order_entries = data['order']
 
-        # Look up each entry in the state by path.
+        # Build batch in best-to-worst order, skipping unknown paths.
         batch = []
-        ranking = []
-        missing = False
-        for entry in order_entries:
+        for entry in data['order']:
             path = entry['path']
             if path not in state.ratings:
-                print(f'  {log_file.name}: unknown path {path!r}, skipping round',
-                      file=sys.stderr)
-                missing = True
-                break
+                skipped_entries += 1
+                continue
             batch.append(state.ratings[path])
-            ranking.append(len(batch) - 1)  # identity mapping: entries are already ordered
 
-        if missing:
-            skipped += 1
+        if len(batch) < 2:
             continue
 
-        # batch is already in best-to-worst order (from the log),
-        # so apply_ranking directly.
         apply_ranking(batch)
         state.rounds += 1
         state.api_calls += 1
         replayed += 1
 
     state.save()
-    print(f'Replayed {replayed} rounds, skipped {skipped}.')
+    print(f'Replayed {replayed} rounds, skipped {skipped_entries} unknown entries.')
     print(f'State: {state.rounds} rounds, {len(state.ratings)} locations.')
 
 

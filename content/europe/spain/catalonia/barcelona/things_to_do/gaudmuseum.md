@@ -1,11 +1,12 @@
 ---
-title: "Gaudí Museum"
-type: poi
+address: Ctra Carmel 23, Parque Güell
 category: sights
-address: "Ctra Carmel 23, Parque Güell"
-opening_hours: "Daily: 10-14:00 and 16:00- 19:00."
-phone: "93 21 93 811"
+opening_hours: 'Daily: 10-14:00 and 16:00- 19:00.'
+phone: 93 21 93 811
+tags:
+- things_to_do
+title: Gaudí Museum
+type: poi
 ---
-
 
 The Gaudí Museum is where the cradle of Gaudí stood located in the Gaudí park.

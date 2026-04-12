@@ -1,12 +1,13 @@
 ---
-title: "Naval Museum"
-type: poi
-address: "Avda. Drassanes"
-phone: "93 301 18 71"
+address: Avda. Drassanes
 latitude: 41.37533
 longitude: 2.175866
+phone: 93 301 18 71
+tags:
+- museums
+title: Naval Museum
+type: poi
 ---
-
 
 The Naval Museum is basically a shipyard. This is the place where the ships that sailed the world were built.
  ** steven caldwell:** The restaurant next door to the museum was unfriendly, expensive and the guy who seems to be the head waiter was rude.

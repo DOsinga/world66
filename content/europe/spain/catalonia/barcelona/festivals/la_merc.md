@@ -1,12 +1,13 @@
 ---
-title: 'La Merce'
-type: poi
-address: 'Barcelona'
-date: '24th September'
+address: Barcelona
+date: 24th September
 latitude: 41.38258
 longitude: 2.177073
+tags:
+- festivals
+title: La Merce
+type: poi
 ---
-
 
 La Merce is Barcelona's biggest festival, celebrating the city's patron saint around the 24th of September. For a full week, the streets of the old town erupt into chaotic, joyful madness. Live music stages pop up across the city, and the traditional Catalan festival elements come out in force: human castle builders (castellers) stacking nine storeys high in Placa Sant Jaume, enormous puppet giants parading through the Gothic Quarter, and fire-breathing devil figures running through the crowds in the spectacular Correfoc.
 

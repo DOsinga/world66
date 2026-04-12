@@ -1,14 +1,15 @@
 ---
-title: "Lotus Theater"
-type: poi
+address: Bailen 22
 category: nightlife
-address: "Bailen 22"
-closing_time: "5 am"
-email: "rrpp@lotustheater.info"
-phone: "692 043 191"
-url: "www.lotustheater.info"
+closing_time: 5 am
+email: rrpp@lotustheater.info
+phone: 692 043 191
+tags:
+- bars_and_cafes
+title: Lotus Theater
+type: poi
+url: www.lotustheater.info
 ---
-
 
 Lotus Theater is a new club in Barcelona that opened on 10th July. It's a place where many types of shows are presented, especially live music shows.
 

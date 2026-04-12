@@ -1,10 +1,11 @@
 ---
-title: "Playa de la Barceloneta"
-type: poi
 latitude: 41.371346
 longitude: 2.189262
+tags:
+- beaches
+title: Playa de la Barceloneta
+type: poi
 ---
-
 
 Barceloneta beach is the closest beach to Barcelona city centre. If you
 walk to Colom at the end of the Ramblas you have about a 15 mins walk

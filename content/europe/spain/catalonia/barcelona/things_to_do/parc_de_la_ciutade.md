@@ -1,10 +1,11 @@
 ---
-title: 'Parc de la Ciutadella'
-type: poi
+address: Passeig de Pujades and Passeig de Picasso
 category: sights
-address: 'Passeig de Pujades and Passeig de Picasso'
+tags:
+- things_to_do
+title: Parc de la Ciutadella
+type: poi
 ---
-
 
 This is one of the greenest zones in the city. Parc de la Ciutadella was the first public park in Barcelona, built on the site of an 18th-century military fortress that was demolished in the 19th century.
 

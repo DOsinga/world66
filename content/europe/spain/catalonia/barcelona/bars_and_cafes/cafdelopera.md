@@ -1,9 +1,10 @@
 ---
-title: "Café de L’Opera"
+address: Ramblas 74
+tags:
+- bars_and_cafes
+title: Café de L’Opera
 type: poi
-address: "Ramblas 74"
 ---
-
 
 ** steven caldwell:** This is a very friendly and stylish cafe' bar and has an established staff who are the quickest and most efficient waiters we've seen.
  

@@ -1,8 +1,9 @@
 ---
-title: "Insolit"
+address: Maremagnum, local 111
+tags:
+- bars_and_cafes
+title: Insolit
 type: poi
-address: "Maremagnum, local 111"
 ---
-
 
 Futuristic bar with internet facilities.

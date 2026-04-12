@@ -1,11 +1,12 @@
 ---
-title: "Picasso Museum"
-type: poi
-url: "www.museupicasso.bcn.es"
 latitude: 41.385104
 longitude: 2.181201
+tags:
+- museums
+title: Picasso Museum
+type: poi
+url: www.museupicasso.bcn.es
 ---
-
 
 As one would probably predict based on the name of the place, the
 Picasso Museum has nothing but Picasso paintings. Make sure you set

@@ -1,15 +1,16 @@
 ---
-title: "La Gauche Divine"
-type: poi
-address: "Passatge de la pau 7 bis"
-email: "info@lagauchedivine.com"
-phone: "+34 933 016 125"
-url: "www.lagauchedivine.com"
-zipcode: "08002"
+address: Passatge de la pau 7 bis
+email: info@lagauchedivine.com
 latitude: 41.377904
 longitude: 2.177787
+phone: +34 933 016 125
+tags:
+- shopping
+title: La Gauche Divine
+type: poi
+url: www.lagauchedivine.com
+zipcode: 08002
 ---
-
 
 In the 1960’s, a group of young artists in Barcelona used their work to challenge the establishment and to strive for a better future. The movement became known as La Gauche Divine and for two Barceloneses it has become an inspiration and the namesake for their new concept store.
 

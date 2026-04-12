@@ -1,14 +1,15 @@
 ---
-title: "La Pintada"
-type: poi
-address: "Mozart 3,Gràcia"
-email: "lapintadabcn@gmail.com"
-phone: "933681617"
-url: "lapintadabcn.blogspot.com"
+address: Mozart 3,Gràcia
+email: lapintadabcn@gmail.com
 latitude: 41.39893
 longitude: 2.158604
+phone: '933681617'
+tags:
+- shopping
+title: La Pintada
+type: poi
+url: lapintadabcn.blogspot.com
 ---
-
 
 La
 Pintada

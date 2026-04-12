@@ -1,13 +1,14 @@
 ---
-title: "La Casa Mila"
-type: poi
+address: Passeig de Gràcia 92
 category: sights
-address: "Passeig de Gràcia 92"
-phone: "+34 93 487 36 13"
 latitude: 41.395256
 longitude: 2.161572
+phone: +34 93 487 36 13
+tags:
+- things_to_do
+title: La Casa Mila
+type: poi
 ---
-
 
 La Casa Mila (nicknamed La Pedrera) is the last wonderful building that Gaudí designed. It is built between 1905 and 1910 and has beautiful ornamental balconies and an extraordinary chimneys. **Justin :** When I was there, there were long queues for the entrance. I found the entrance fee steep too.
 

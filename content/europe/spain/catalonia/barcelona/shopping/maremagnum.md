@@ -1,10 +1,11 @@
 ---
-title: "Maremagnum"
-type: poi
 latitude: 41.375143
 longitude: 2.182835
+tags:
+- shopping
+title: Maremagnum
+type: poi
 ---
-
 
 Mon-sat 11:00-23:00
 

@@ -1,9 +1,10 @@
 ---
-title: "Centre Comercial de les Glories"
+address: Glories Catalanes square
+tags:
+- shopping
+title: Centre Comercial de les Glories
 type: poi
-address: "Glories Catalanes square"
-url: "www.lesglories.com"
+url: www.lesglories.com
 ---
-
 
 Have you got information about Centre Comercial de les Glories? Tell our readers all about it here.

@@ -1,10 +1,11 @@
 ---
-title: "Mirador de Colon"
-type: poi
+address: 'La Rambla, Metro: Drassanes'
 category: sights
-address: "La Rambla, Metro: Drassanes"
+tags:
+- things_to_do
+title: Mirador de Colon
+type: poi
 ---
-
 
 At the end of La Rambla, near the sea, you will find the Mirador de Colon, a great work built in 1888 for the Universal Exhibition as a reminder of the discovery of America.
 

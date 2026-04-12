@@ -1,8 +1,9 @@
 ---
-title: "El Bosque de Fades"
+tags:
+- bars_and_cafes
+title: El Bosque de Fades
 type: poi
 ---
-
 
 It's behind the Las Ramblas, near the statue of Columbus. It is part of the Museo de Cera, the waxmuseum of Barcelona.
  **hendrickx :** 

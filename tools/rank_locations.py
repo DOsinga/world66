@@ -117,10 +117,18 @@ class State:
 # Discovery
 # ---------------------------------------------------------------------------
 
+CONTINENTS = {'africa', 'antarctica', 'asia', 'australiaandpacific', 'europe',
+               'northamerica', 'southamerica'}
+
+
 def discover_locations() -> list[tuple[str, str]]:
-    """Scan content/ for type: location pages."""
+    """Scan content/ for type: location pages under known continents."""
     found = []
     for md_file in sorted(CONTENT_DIR.rglob('*.md')):
+        # Only include pages under a known continent.
+        rel = md_file.relative_to(CONTENT_DIR)
+        if rel.parts[0] not in CONTINENTS:
+            continue
         try:
             meta = frontmatter.load(md_file).metadata
         except Exception:

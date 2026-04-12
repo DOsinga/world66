@@ -39,7 +39,7 @@ CONTENT_DIR = SCRIPT_DIR.parent / 'content'
 PROGRESS_FILE = SCRIPT_DIR / 'photo_progress.json'
 
 MIN_WIDTH = 780
-TARGET_WIDTH = 780
+MIN_HEIGHT = 438
 THUMB_SIZE = (320, 240)
 JPEG_QUALITY = 85
 MAX_PER_SOURCE = 3
@@ -145,7 +145,7 @@ def search_wikimedia(query: str) -> list[Candidate]:
         info = (page.get('imageinfo') or [{}])[0]
         width = info.get('width', 0)
         height = info.get('height', 0)
-        if width < MIN_WIDTH or height == 0 or width / height < 1.2:
+        if width < MIN_WIDTH or height < MIN_HEIGHT or width / height < 1.2:
             continue  # skip non-landscape or too small
 
         mime = info.get('mime', '')
@@ -162,6 +162,93 @@ def search_wikimedia(query: str) -> list[Candidate]:
             url=info.get('url', ''),
             thumb_url=info.get('thumburl', info.get('url', '')),
             source='wikimedia',
+            width=width,
+            height=height,
+            license=license_short,
+            attribution=artist,
+            source_page=info.get('descriptionurl', ''),
+        ))
+        if len(candidates) >= MAX_PER_SOURCE:
+            break
+
+    return candidates
+
+
+def search_wikipedia(query: str) -> list[Candidate]:
+    """Fetch photos from the top Wikipedia article matching the query."""
+    # Step 1: find article and its image list
+    try:
+        resp = httpx.get(
+            'https://en.wikipedia.org/w/api.php',
+            params={
+                'action': 'query',
+                'generator': 'search',
+                'gsrsearch': query,
+                'gsrlimit': 1,
+                'prop': 'images',
+                'imlimit': 20,
+                'format': 'json',
+            },
+            headers={'User-Agent': USER_AGENT},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as e:
+        print(f'  Wikipedia search failed: {e}')
+        return []
+
+    image_titles = []
+    for page in data.get('query', {}).get('pages', {}).values():
+        for img in page.get('images', []):
+            title = img.get('title', '')
+            if re.search(r'\.(jpg|jpeg|png)$', title, re.IGNORECASE):
+                image_titles.append(title)
+
+    if not image_titles:
+        return []
+
+    # Step 2: fetch imageinfo from Commons for those titles
+    try:
+        resp = httpx.get(
+            'https://commons.wikimedia.org/w/api.php',
+            params={
+                'action': 'query',
+                'titles': '|'.join(image_titles[:10]),
+                'prop': 'imageinfo',
+                'iiprop': 'url|extmetadata|size|mime',
+                'iiurlwidth': 800,
+                'format': 'json',
+            },
+            headers={'User-Agent': USER_AGENT},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        info_data = resp.json()
+    except Exception as e:
+        print(f'  Wikipedia imageinfo fetch failed: {e}')
+        return []
+
+    candidates = []
+    for page in info_data.get('query', {}).get('pages', {}).values():
+        info = (page.get('imageinfo') or [{}])[0]
+        width = info.get('width', 0)
+        height = info.get('height', 0)
+        if width < MIN_WIDTH or height < MIN_HEIGHT or width / height < 1.2:
+            continue
+
+        mime = info.get('mime', '')
+        if 'svg' in mime or 'gif' in mime:
+            continue
+
+        ext = info.get('extmetadata', {})
+        license_short = ext.get('LicenseShortName', {}).get('value', 'Unknown')
+        artist = re.sub(r'<[^>]+>', '', ext.get('Artist', {}).get('value', 'Unknown')).strip()
+
+        candidates.append(Candidate(
+            url=info.get('url', ''),
+            thumb_url=info.get('thumburl', info.get('url', '')),
+            source='wikipedia',
             width=width,
             height=height,
             license=license_short,
@@ -221,7 +308,7 @@ def search_flickr(query: str) -> list[Candidate]:
 
         width = int(photo.get('width_l') or photo.get('o_width') or photo.get('width_z') or 0)
         height = int(photo.get('height_l') or photo.get('o_height') or photo.get('height_z') or 0)
-        if width < MIN_WIDTH or height == 0 or width / height < 1.2:
+        if width < MIN_WIDTH or height < MIN_HEIGHT or width / height < 1.2:
             continue
 
         lic = str(photo.get('license', ''))
@@ -335,19 +422,32 @@ def make_thumbnail(image_bytes: bytes) -> bytes | None:
         return None
 
 
-def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_text: str, cli: CLIAdapter) -> int | None:
+def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], title: str, page_text: str, cli: CLIAdapter) -> int | None:
     """Use AI CLI to pick the best photo. Returns candidate index or None."""
-    prompt = (
-        f'You are selecting the best photo for a travel guide page. '
-        f'Below are {len(thumb_data)} candidate photos numbered 0 to {len(thumb_data) - 1}.\n\n'
-        f'Page content:\n{page_text[:1000]}\n\n'
-        f'Pick the single best photo based on:\n'
-        f'1. Relevance to this specific destination/topic\n'
-        f'2. Visual quality and composition\n'
-        f'3. How well it represents the place to a traveler\n\n'
-        f'If NONE of the photos are suitable, respond with just "NONE".\n'
-        f'Otherwise respond with just the number (0-{len(thumb_data) - 1}) of the best photo.'
-    )
+    prompt = f"""You are selecting the best photo for a travel guide page.
+    Below are {len(thumb_data)} candidate photos numbered 0 to {len(thumb_data) - 1}.
+
+    Location: {title}
+
+    Page content:
+    {page_text[:1000]}
+
+    Pick the single best photo based on:
+    1. Relevance to this specific destination/topic
+    2. Visual quality and composition
+    3. How well it represents the place to a traveler
+    
+    Not suitable are:
+    - Indoor pictures unless the location is actually indoors
+    - Black and white pictures
+    - Maps
+    - General scenes that could be anywhere
+
+    If NONE of the photos are suitable, respond with just "NONE".
+    Otherwise respond with just the number (0-{len(thumb_data) - 1}) of the best photo.
+
+    Important! Better to have no photo than a bad photo so if the photo is not a good fit for the place, respond with "NONE" 
+    """
 
     with tempfile.TemporaryDirectory() as tmpdir:
         image_paths = []
@@ -380,14 +480,9 @@ def pick_best_photo(candidates: list[Candidate], thumb_data: list[bytes], page_t
 # ---------------------------------------------------------------------------
 
 def save_photo(image_bytes: bytes, md_path: Path, slug: str) -> str:
-    """Resize to target width and save as JPEG next to the markdown file."""
+    """Save image as JPEG next to the markdown file."""
     img = Image.open(io.BytesIO(image_bytes))
     img = img.convert('RGB')
-
-    # Resize to TARGET_WIDTH maintaining aspect ratio
-    ratio = TARGET_WIDTH / img.width
-    new_height = int(img.height * ratio)
-    img = img.resize((TARGET_WIDTH, new_height), Image.LANCZOS)
 
     filename = f'{slug}.jpg'
     out_path = md_path.parent / filename
@@ -437,13 +532,14 @@ def _search_candidates(content_path: str, meta: dict) -> tuple[list[Candidate], 
     query = build_search_query(content_path, meta)
     print(f'  Search query: {query}', file=sys.stderr)
 
-    sources_searched = ['wikimedia']
+    sources_searched = ['wikimedia', 'wikipedia']
     if os.environ.get('FLICKR_API_KEY'):
         sources_searched.append('flickr')
 
     candidates = []
     for name, search_fn in [
         ('wikimedia', search_wikimedia),
+        ('wikipedia', search_wikipedia),
         ('flickr', search_flickr),
     ]:
         results = search_fn(query)
@@ -571,8 +667,9 @@ def process_page(content_path: str, cli: CLIAdapter, force: bool = False) -> boo
 
     print(f'  Evaluating {len(thumb_data)} candidates with {cli.name}...')
 
-    page_text = f'Title: {meta.get("title", "")}\n\n{body[:1500]}'
-    best_idx = pick_best_photo(valid_candidates, thumb_data, page_text, cli)
+    title = meta.get('title', '')
+    page_text = body[:1500]
+    best_idx = pick_best_photo(valid_candidates, thumb_data, title, page_text, cli)
 
     if best_idx is None:
         print(f'  {cli.name}: no suitable photo found')

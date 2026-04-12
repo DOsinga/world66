@@ -5,6 +5,10 @@ latitude: 36.5552
 longitude: -121.9233
 title: Carmel
 type: location
+image: carmel.jpg
+image_source: https://www.flickr.com/photos/41024804@N00/362240746
+image_license: CC BY 2.0
+image_attribution: vtsr on Flickr
 ---
 
 Carmel-by-the-Sea is a small, artsy village on the Monterey Peninsula in California, known for its white-sand beach, its fairytale-cottage architecture, and its exceptional concentration of galleries and boutiques. The town has more art galleries per capita than almost anywhere in the United States — a legacy of the artists and writers, including Robinson Jeffers and Sinclair Lewis, who settled here in the early 20th century. Jeffers's Tor House, a stone tower he built by hand above the sea, is open for weekend tours and gives a vivid sense of the rugged, visionary character that once defined this coast.

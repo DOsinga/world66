@@ -1,5 +1,8 @@
 ---
-title: "Jil Sanders"
+tags:
+- shopping
+- charlottenburg
+title: Jil Sanders
 type: poi
 ---
 

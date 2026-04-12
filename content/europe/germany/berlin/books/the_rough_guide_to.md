@@ -1,8 +1,10 @@
 ---
-title: "The Rough Guide To Berlin"
+author: John Gawthrop, Jack Holland
+isbn: '1843532433'
+tags:
+- books
+title: The Rough Guide To Berlin
 type: poi
-author: "John Gawthrop, Jack Holland"
-isbn: "1843532433"
 ---
 
 **Paperback:** 368 pages **Publisher:** Rough Guides; 7th edition (August 1, 2005)

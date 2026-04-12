@@ -1,12 +1,14 @@
 ---
-title: "Grober Unfug"
-type: poi
-address: "Weinmeisterstr. 9b"
-connections: "U Gneisenaustr."
-opening_hours: "Mo-Fr 11am -7pm, Sa 11am -4pm"
-type: "Funshopping"
+address: Weinmeisterstr. 9b
+connections: U Gneisenaustr.
 latitude: 52.525207
 longitude: 13.405927
+opening_hours: Mo-Fr 11am -7pm, Sa 11am -4pm
+tags:
+- shopping
+- berlinmitte
+title: Grober Unfug
+type: Funshopping
 ---
 
 The comic shop with a huge selection and witty accessories. Changing

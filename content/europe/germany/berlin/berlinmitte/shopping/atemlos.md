@@ -1,11 +1,13 @@
 ---
-title: "Atemlos"
-type: poi
-address: "Oranienburger Str."
-connections: "S Hackescher Markt"
-type: "Fashion"
+address: Oranienburger Str.
+connections: S Hackescher Markt
 latitude: 52.525225
 longitude: 13.393014
+tags:
+- shopping
+- berlinmitte
+title: Atemlos
+type: Fashion
 ---
 
 Fashion shopping!

@@ -1,12 +1,14 @@
 ---
-title: "Tukadu"
-type: poi
-address: "Rosenthaler Str. 46/47"
-connections: "U Weinmeisterstr."
-opening_hours: "Mo-Fr 11am -7pm, Sa 11am -3pm"
-type: "Funshopping"
+address: Rosenthaler Str. 46/47
+connections: U Weinmeisterstr.
 latitude: 52.524594
 longitude: 13.403242
+opening_hours: Mo-Fr 11am -7pm, Sa 11am -3pm
+tags:
+- shopping
+- berlinmitte
+title: Tukadu
+type: Funshopping
 ---
 
 Lovely beads and fun jewelry oposite the Hackesche Höfe.

@@ -1,10 +1,12 @@
 ---
-title: "Berlin"
-type: poi
-author: "David Clay Large"
-isbn: "046502646X"
+author: David Clay Large
+isbn: 046502646X
 latitude: 52.517389
 longitude: 13.395131
+tags:
+- books
+title: Berlin
+type: poi
 ---
 
 **From Publishers Weekly**

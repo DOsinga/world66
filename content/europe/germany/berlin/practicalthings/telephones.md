@@ -1,5 +1,7 @@
 ---
-title: "Telephones"
+tags:
+- practicalthings
+title: Telephones
 type: poi
 ---
 

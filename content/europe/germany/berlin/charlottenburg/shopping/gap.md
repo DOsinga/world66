@@ -1,8 +1,11 @@
 ---
-title: "GAP"
-type: poi
 latitude: 48.891289
 longitude: 8.612812
+tags:
+- shopping
+- charlottenburg
+title: GAP
+type: poi
 ---
 
 Basic fashions for young and old.

@@ -1,7 +1,10 @@
 ---
-title: "Fodor's Berlin, 1st Edition: The Guide for All Budgets Where to Stay, Eat, and Explore On and Off the Beaten Path (Fodor's Gold Guides)"
+isbn: 0676901441
+tags:
+- books
+title: 'Fodor''s Berlin, 1st Edition: The Guide for All Budgets Where to Stay, Eat,
+  and Explore On and Off the Beaten Path (Fodor''s Gold Guides)'
 type: poi
-isbn: "0676901441"
 ---
 
 **Paperback:** 272 pages **Publisher:** Fodor's (February 5, 2002)

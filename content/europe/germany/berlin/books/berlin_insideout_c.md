@@ -1,7 +1,9 @@
 ---
-title: "Berlin Insideout City Guide"
+isbn: '1904766463'
+tags:
+- books
+title: Berlin Insideout City Guide
 type: poi
-isbn: "1904766463"
 ---
 
 **Hardcover:** 64 pages **Publisher:** The Map Group; 2.00 edition (April 28, 2006)

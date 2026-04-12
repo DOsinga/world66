@@ -1,8 +1,11 @@
 ---
-title: "Gucci"
-type: poi
 latitude: 52.50098
 longitude: 13.317182
+tags:
+- shopping
+- charlottenburg
+title: Gucci
+type: poi
 ---
 
 Elegant clubwear and essential accessories for big spenders. There's also a branch at Friedrichstr. 71 in Mitte.

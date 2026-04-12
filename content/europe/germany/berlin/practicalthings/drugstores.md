@@ -1,5 +1,7 @@
 ---
-title: "Drugstores"
+tags:
+- practicalthings
+title: Drugstores
 type: poi
 ---
 

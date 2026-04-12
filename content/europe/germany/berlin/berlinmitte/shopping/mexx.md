@@ -1,12 +1,14 @@
 ---
-title: "Mexx"
-type: poi
-address: "Alte Potsdamer Str. 7"
-connections: "U+S Potsdamer Platz, U Mendelssohn-Bartholdy Platz"
-opening_hours: "Mo-Fr 9:30am -8pm, Sa 9am -4pm"
-type: "Shopping centers and malls"
+address: Alte Potsdamer Str. 7
+connections: U+S Potsdamer Platz, U Mendelssohn-Bartholdy Platz
 latitude: 52.507412
 longitude: 13.374115
+opening_hours: Mo-Fr 9:30am -8pm, Sa 9am -4pm
+tags:
+- shopping
+- berlinmitte
+title: Mexx
+type: Shopping centers and malls
 ---
 
 Brand name clothes between classic and sporty. Lovely, highquality men's suits.

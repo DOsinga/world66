@@ -1,5 +1,8 @@
 ---
-title: "Canzone"
+tags:
+- shopping
+- charlottenburg
+title: Canzone
 type: poi
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: "Time Out Berlin (Time Out Guides)"
+author: David Rimmer (Editor)
+isbn: '1904978568'
+tags:
+- books
+title: Time Out Berlin (Time Out Guides)
 type: poi
-author: "David Rimmer (Editor)"
-isbn: "1904978568"
 ---
 
 Now in its seventh edition, *Time Out Berlin* contains a

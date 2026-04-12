@@ -1,11 +1,14 @@
 ---
-title: "East Side Gallery"
-type: poi
+address: Mühlenstraße 3-100, Friedrichshain
 category: Sight
-address: "Mühlenstraße 3-100, Friedrichshain"
-url: "www.eastsidegallery-berlin.de"
-latitude: 52.505250
-longitude: 13.440850
+latitude: 52.50525
+longitude: 13.44085
+tags:
+- things_to_do
+- friedrichshain
+title: East Side Gallery
+type: poi
+url: www.eastsidegallery-berlin.de
 ---
 
 The longest surviving section of the Berlin Wall, running 1.3 km along the Spree in Friedrichshain. In 1990, over 100 artists from 21 countries painted murals directly onto the East side of the Wall — the side that East Berliners never saw. The most famous image, Dmitri Vrubel's fraternal kiss between Brezhnev and Honecker, is here. Free to visit at any hour.

@@ -1,5 +1,7 @@
 ---
-title: "Post offices"
+tags:
+- practicalthings
+title: Post offices
 type: poi
 ---
 

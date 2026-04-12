@@ -1,5 +1,8 @@
 ---
-title: "kookai"
+tags:
+- shopping
+- charlottenburg
+title: kookai
 type: poi
 ---
 

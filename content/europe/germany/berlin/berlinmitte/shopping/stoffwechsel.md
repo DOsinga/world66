@@ -1,9 +1,11 @@
 ---
-title: "Stoffwechsel"
-type: poi
-address: "Oranienburger Str. 3, Alte Schönhauser Str. 48"
-connections: "U Weinmeisterstr, S Hackescher Markt"
-type: "Fashion"
+address: Oranienburger Str. 3, Alte Schönhauser Str. 48
+connections: U Weinmeisterstr, S Hackescher Markt
+tags:
+- shopping
+- berlinmitte
+title: Stoffwechsel
+type: Fashion
 ---
 
 Trendy goods.

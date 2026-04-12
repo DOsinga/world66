@@ -1,12 +1,14 @@
 ---
-title: "Lisa D"
-type: poi
-address: "Rosenthaler Str. 40-41"
-connections: "S Hackescher Markt, U Weinmeisterstr"
-opening_hours: "Mo-Sa noon -6:30pm"
-type: "Fashion"
+address: Rosenthaler Str. 40-41
+connections: S Hackescher Markt, U Weinmeisterstr
 latitude: 52.524042
 longitude: 13.402083
+opening_hours: Mo-Sa noon -6:30pm
+tags:
+- shopping
+- berlinmitte
+title: Lisa D
+type: Fashion
 ---
 
 Individual fashion in the Hackesche Höfe. In courtyard you’ll find her experimental outfits and pieces from shows.

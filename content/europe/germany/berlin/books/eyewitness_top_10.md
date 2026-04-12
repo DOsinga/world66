@@ -1,7 +1,9 @@
 ---
-title: "Eyewitness Top 10 Travel Guides: Berlin (Eyewitness Travel Top 10)"
+isbn: 0789484331
+tags:
+- books
+title: 'Eyewitness Top 10 Travel Guides: Berlin (Eyewitness Travel Top 10)'
 type: poi
-isbn: "0789484331"
 ---
 
 A better value than all the competition, these pocket travel guides

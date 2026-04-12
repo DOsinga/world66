@@ -1,5 +1,8 @@
 ---
-title: "Hennes & Mauritz (H&M)"
+tags:
+- shopping
+- charlottenburg
+title: Hennes & Mauritz (H&M)
 type: poi
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: "Lonely Planet Berlin"
+author: Andrea Schulte-Peevers, Tom Parkinson
+isbn: '1740598776'
+tags:
+- books
+title: Lonely Planet Berlin
 type: poi
-author: "Andrea Schulte-Peevers, Tom Parkinson"
-isbn: "1740598776"
 ---
 
 **Contributors**

@@ -1,8 +1,10 @@
 ---
-title: "Berlin Made Easy: The Best Sights and Walks of Berlin (Open Road Travel Guides)"
+author: Andy Herbach
+isbn: '1593600542'
+tags:
+- books
+title: 'Berlin Made Easy: The Best Sights and Walks of Berlin (Open Road Travel Guides)'
 type: poi
-author: "Andy Herbach"
-isbn: "1593600542"
 ---
 
 **Paperback:** 128 pages **Publisher:** Open Road (October 11, 2005)

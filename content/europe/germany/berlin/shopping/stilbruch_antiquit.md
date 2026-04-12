@@ -1,14 +1,15 @@
 ---
-title: "Stilbruch Antiquitäten & Schmuck"
-type: poi
-address: "Uhlandstrasse 20-25"
-email: "info@antik-stilbruch.de"
-phone: "++49 30 312 83 04"
-type: "Antiques"
-url: "www.antik-stilbruch.de"
-zipcode: "10623"
+address: Uhlandstrasse 20-25
+email: info@antik-stilbruch.de
 latitude: 52.504261
 longitude: 13.325343
+phone: ++49 30 312 83 04
+tags:
+- shopping
+title: Stilbruch Antiquitäten & Schmuck
+type: Antiques
+url: www.antik-stilbruch.de
+zipcode: '10623'
 ---
 
 It's far from being the largest antiques store in Berlin, but something about its dense inventories of Biedermeier-era furniture, tableware, and jewelry might appeal to your sense of schmaltz and nostalgia. Owner Margareta Wojcieszak makes sure that objects are waxed and polished to a high sheen. Everything seems to evoke a story about other places, other priorities, and other eras.

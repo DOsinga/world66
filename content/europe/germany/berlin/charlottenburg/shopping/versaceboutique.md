@@ -1,5 +1,8 @@
 ---
-title: "Versace Boutique"
+tags:
+- shopping
+- charlottenburg
+title: Versace Boutique
 type: poi
 ---
 

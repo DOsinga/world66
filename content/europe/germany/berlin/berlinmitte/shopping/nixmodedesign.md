@@ -1,10 +1,12 @@
 ---
-title: "NIX Mode-Design"
-type: poi
-address: "Oranienburger Str. 32/ in the Hec, kmann Höfe"
-connections: "S Oranienburger Str."
-opening_hours: "Tu-Fr noon -8pm, Sa noon -6pm"
-type: "Fashion"
+address: Oranienburger Str. 32/ in the Hec, kmann Höfe
+connections: S Oranienburger Str.
+opening_hours: Tu-Fr noon -8pm, Sa noon -6pm
+tags:
+- shopping
+- berlinmitte
+title: NIX Mode-Design
+type: Fashion
 ---
 
 The right wrappings for big city inhabitants (children, men, women). Barbara Gebhardt's collection is produced here.

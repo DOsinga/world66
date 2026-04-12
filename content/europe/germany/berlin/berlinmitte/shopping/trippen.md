@@ -1,10 +1,12 @@
 ---
-title: "Trippen"
-type: poi
-address: "Rosenthaler Str. 40-41 (Hackesche Höfe, Fountain Court)"
-connections: "S Hackescher Markt"
-opening_hours: "Mo-Fr 12am- 7pm, Sa 10am -5pm"
-type: "Shoes"
+address: Rosenthaler Str. 40-41 (Hackesche Höfe, Fountain Court)
+connections: S Hackescher Markt
+opening_hours: Mo-Fr 12am- 7pm, Sa 10am -5pm
+tags:
+- shopping
+- berlinmitte
+title: Trippen
+type: Shoes
 ---
 
 Unusual shoes by Berlin designers from garish to comfortable in the Fountain Courtyard in the Hackesche Höfe.

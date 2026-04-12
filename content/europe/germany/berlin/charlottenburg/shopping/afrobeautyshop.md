@@ -1,8 +1,11 @@
 ---
-title: "Afro Beauty Shop"
-type: poi
 latitude: 52.567615
 longitude: 13.364802
+tags:
+- shopping
+- charlottenburg
+title: Afro Beauty Shop
+type: poi
 ---
 
 Out of Africa but stocked with everything a desert mouse need: cosmetics, wigs, hairpieces, fabrics - not all produced in Africa but very authentic-looking.

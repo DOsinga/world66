@@ -1,7 +1,9 @@
 ---
-title: "Berlin (Eyewitness Travel Guides)"
+isbn: '0756615372'
+tags:
+- books
+title: Berlin (Eyewitness Travel Guides)
 type: poi
-isbn: "0756615372"
 ---
 
 As Berlin is laid out on an epic scale, this travel guide is organized

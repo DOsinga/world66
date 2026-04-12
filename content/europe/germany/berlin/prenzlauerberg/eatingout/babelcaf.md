@@ -1,11 +1,13 @@
 ---
-title: "Babel Café"
-type: poi
-address: "Käthe-Niederkirchner-Str. 2"
-phone: "+49 (0)30 424 75 52"
-type: "African"
+address: Käthe-Niederkirchner-Str. 2
 latitude: 52.531551
 longitude: 13.428822
+phone: +49 (0)30 424 75 52
+tags:
+- eatingout
+- prenzlauerberg
+title: Babel Café
+type: African
 ---
 
 Cosy place that offers the right atmosphere and good food.

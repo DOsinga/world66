@@ -1,14 +1,15 @@
 ---
-title: "How to find a post office..."
-type: poi
-accessibility: "gunukim@hotmail.com"
-address: "kothener str 6"
-email: "gunukim@hotmail.com"
-phone: "0049-18 02-33 33 (Info Center)"
-type: "Post office"
-url: "www.deutschepost.de"
+accessibility: gunukim@hotmail.com
+address: kothener str 6
+email: gunukim@hotmail.com
 latitude: 51.262714
 longitude: 7.178428
+phone: 0049-18 02-33 33 (Info Center)
+tags:
+- practicalthings
+title: How to find a post office...
+type: Post office
+url: www.deutschepost.de
 ---
 
 Berlin has several post offices in every quarter. Some small post offices are part of a stationery shop.

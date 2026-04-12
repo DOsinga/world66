@@ -27,13 +27,13 @@ import math
 import random
 import sys
 import time
+from collections import defaultdict
 from dataclasses import dataclass, field
+from functools import cmp_to_key
 from pathlib import Path
 
 import frontmatter
-import numpy as np
 from dotenv import load_dotenv
-from scipy.optimize import minimize
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_DIR = SCRIPT_DIR.parent
@@ -44,10 +44,6 @@ LOG_DIR = PROJECT_DIR / 'log_scoring'
 BATCH_SIZE = 24
 DEFAULT_MODEL = 'claude-sonnet-4-6'
 
-# Prior: L2 regularization toward 0 (equivalent to Gaussian prior on scores).
-# Larger = stronger pull toward 0, prevents scores from diverging.
-REGULARIZATION = 0.01
-
 
 # ---------------------------------------------------------------------------
 # State
@@ -57,13 +53,9 @@ REGULARIZATION = 0.01
 class Rating:
     path: str
     title: str
-    score: float = 0.0       # Plackett-Luce MLE score (log-scale strength)
-    variance: float = 1.0    # Uncertainty from inverse Hessian diagonal
-    comparisons: int = 0
-
-    def conservative(self) -> float:
-        """Lower-bound score (score - 2*std), used for sorting 'top'."""
-        return self.score - 2 * math.sqrt(self.variance)
+    rank: int = 0            # Global rank (1 = best), set by sort
+    win_count: int = 0       # Total pairwise wins across all rounds
+    comparisons: int = 0     # Number of rounds appeared in
 
 
 @dataclass
@@ -87,8 +79,8 @@ class State:
             state.ratings[path] = Rating(
                 path=path,
                 title=r['title'],
-                score=r.get('score', r.get('mu', 0.0)),
-                variance=r.get('variance', r.get('sigma', 1.0) ** 2 if 'sigma' in r else 1.0),
+                rank=r.get('rank', 0),
+                win_count=r.get('win_count', 0),
                 comparisons=r.get('comparisons', 0),
             )
         return state
@@ -101,8 +93,8 @@ class State:
             'ratings': {
                 path: {
                     'title': r.title,
-                    'score': round(r.score, 4),
-                    'variance': round(r.variance, 6),
+                    'rank': r.rank,
+                    'win_count': r.win_count,
                     'comparisons': r.comparisons,
                 }
                 for path, r in self.ratings.items()
@@ -197,157 +189,128 @@ def cmd_discover(args) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Plackett-Luce MLE
+# Pairwise sort from round logs
 # ---------------------------------------------------------------------------
 
-def fit_plackett_luce(
-    rounds: list[list[int]],
-    n_items: int,
-) -> tuple[np.ndarray, np.ndarray]:
-    """Fit Plackett-Luce scores via maximum likelihood.
+def sort_locations(state: State, log_dir: Path) -> None:
+    """Sort all locations using directed transitivity from round logs.
 
-    Args:
-        rounds: list of rankings, each a list of item indices in best-to-worst
-                order. Not all items need to appear in every round.
-        n_items: total number of items (some may not appear in any round).
-
-    Returns:
-        (scores, variances): arrays of length n_items.
-        scores are log-scale strengths (higher = better).
-        variances are diagonal of the inverse Hessian (uncertainty).
-        Items with no observations get score=0, variance=1/REGULARIZATION.
+    1. Build a directed graph (winner → loser) from all rounds.
+    2. Find strongly connected components (cycles).
+    3. Topological sort the condensed DAG.
+    4. Within each SCC, sort by win rate.
+    5. Assign global ranks.
     """
-    if not rounds:
-        return np.zeros(n_items), np.full(n_items, 1.0 / REGULARIZATION)
+    known_paths = set(state.ratings.keys())
+    paths = list(state.ratings.keys())
+    path_to_idx = {p: i for i, p in enumerate(paths)}
+    n = len(paths)
 
-    def neg_log_likelihood(s):
-        """Negative log-likelihood + L2 regularization."""
-        nll = 0.5 * REGULARIZATION * np.dot(s, s)
-        for ranking in rounds:
-            # P(r1>r2>...>rk) = prod_i exp(s[ri]) / sum_{j>=i} exp(s[rj])
-            # log P = sum_i (s[ri] - log(sum_{j>=i} exp(s[rj])))
-            # Compute from the bottom up for numerical stability.
-            exp_s = np.exp(s[ranking] - np.max(s[ranking]))  # shift for stability
-            suffix_sum = np.cumsum(exp_s[::-1])[::-1]
-            log_suffix = np.log(suffix_sum) + np.max(s[ranking])
-            nll -= np.sum(s[ranking] - log_suffix)
-        return nll
-
-    def gradient(s):
-        """Gradient of negative log-likelihood."""
-        grad = REGULARIZATION * s.copy()
-        for ranking in rounds:
-            exp_s = np.exp(s[ranking])
-            suffix_sum = np.cumsum(exp_s[::-1])[::-1]
-            probs = exp_s / suffix_sum  # P(item i wins given remaining)
-            n = len(ranking)
-            for i in range(n):
-                grad[ranking[i]] -= 1.0  # from the s[ri] term
-                # Add back the probability contributions to the suffix sums
-                for j in range(i + 1):
-                    grad[ranking[i]] += probs[i] * (1.0 if j <= i else 0.0)
-            # Cleaner: for each position i, item ranking[i] contributes
-            # -1 + sum_{j<=i} exp(s[ri]) / suffix_sum[j]
-            # Recompute more efficiently:
-            grad_round = np.zeros(n)
-            for i in range(n):
-                grad_round[i] = -1.0
-                for j in range(i + 1):
-                    grad_round[i] += exp_s[i] / suffix_sum[j]
-            for i, idx in enumerate(ranking):
-                grad[idx] += grad_round[i]
-            # Undo the double-counting from above
-            grad[ranking] -= REGULARIZATION * s[ranking]
-        # Recompute properly
-        grad = REGULARIZATION * s.copy()
-        for ranking in rounds:
-            exp_s = np.exp(s[ranking])
-            suffix_sum = np.cumsum(exp_s[::-1])[::-1]
-            for i, idx in enumerate(ranking):
-                grad[idx] -= 1.0
-                for j in range(i + 1):
-                    grad[idx] += exp_s[i] / suffix_sum[j]
-        return grad
-
-    s0 = np.zeros(n_items)
-
-    result = minimize(
-        neg_log_likelihood,
-        s0,
-        jac=gradient,
-        method='L-BFGS-B',
-        options={'maxiter': 500, 'ftol': 1e-8},
-    )
-
-    scores = result.x
-    # Center scores (the model is invariant to a constant shift)
-    scores -= np.mean(scores)
-
-    # Variance from inverse Hessian diagonal (approximate).
-    # H_ii = regularization + sum over rounds where i participates of
-    #        sum_{j where i is in suffix} p_i_in_suffix * (1 - p_i_in_suffix)
-    hess_diag = np.full(n_items, REGULARIZATION)
-    for ranking in rounds:
-        exp_s = np.exp(scores[ranking])
-        suffix_sum = np.cumsum(exp_s[::-1])[::-1]
-        for i, idx in enumerate(ranking):
-            for j in range(i + 1):
-                p = exp_s[i] / suffix_sum[j]
-                hess_diag[idx] += p * (1.0 - p)
-
-    variances = 1.0 / np.maximum(hess_diag, 1e-9)
-
-    return scores, variances
-
-
-# ---------------------------------------------------------------------------
-# Log loading and scoring
-# ---------------------------------------------------------------------------
-
-def _load_log_rounds(log_dir: Path, path_to_idx: dict[str, int]) -> tuple[list[list[int]], np.ndarray]:
-    """Load round logs and convert to index-based rankings.
-
-    Returns (rounds_as_indices, comparisons_count).
-    """
-    n = len(path_to_idx)
-    comparisons = np.zeros(n, dtype=int)
-    rounds = []
+    # Build directed graph and collect stats.
+    fwd: dict[int, set[int]] = {i: set() for i in range(n)}
+    total_wins = [0] * n
+    possible_wins = [0] * n
+    comparisons = [0] * n
 
     for log_file in sorted(log_dir.glob('round_*.json')):
         data = json.loads(log_file.read_text())
-        indices = []
-        for entry in data['order']:
-            path = entry['path']
-            if path in path_to_idx:
-                indices.append(path_to_idx[path])
-        if len(indices) >= 2:
-            rounds.append(indices)
-            for idx in indices:
-                comparisons[idx] += 1
+        indices = [path_to_idx[e['path']] for e in data['order'] if e['path'] in known_paths]
+        batch_size = len(indices)
+        for pos, idx in enumerate(indices):
+            comparisons[idx] += 1
+            wins_this_round = batch_size - 1 - pos
+            total_wins[idx] += wins_this_round
+            possible_wins[idx] += batch_size - 1
+        for i in range(len(indices)):
+            for j in range(i + 1, len(indices)):
+                fwd[indices[i]].add(indices[j])
 
-    return rounds, comparisons
+    # Tarjan's SCC algorithm.
+    index_counter = [0]
+    stack = []
+    on_stack = [False] * n
+    indices_arr = [-1] * n
+    lowlink = [0] * n
+    sccs: list[list[int]] = []
 
+    def strongconnect(v):
+        indices_arr[v] = index_counter[0]
+        lowlink[v] = index_counter[0]
+        index_counter[0] += 1
+        stack.append(v)
+        on_stack[v] = True
 
-def fit_from_logs(state: State, log_dir: Path) -> None:
-    """Fit Plackett-Luce from all log files and update state."""
-    paths = list(state.ratings.keys())
-    path_to_idx = {p: i for i, p in enumerate(paths)}
+        for w in fwd[v]:
+            if indices_arr[w] == -1:
+                strongconnect(w)
+                lowlink[v] = min(lowlink[v], lowlink[w])
+            elif on_stack[w]:
+                lowlink[v] = min(lowlink[v], indices_arr[w])
 
-    rounds, comparisons = _load_log_rounds(log_dir, path_to_idx)
-    if not rounds:
-        print('No valid rounds to fit.', file=sys.stderr)
-        return
+        if lowlink[v] == indices_arr[v]:
+            scc = []
+            while True:
+                w = stack.pop()
+                on_stack[w] = False
+                scc.append(w)
+                if w == v:
+                    break
+            sccs.append(scc)
 
-    scores, variances = fit_plackett_luce(rounds, len(paths))
+    sys.setrecursionlimit(max(n + 100, sys.getrecursionlimit()))
+    for v in range(n):
+        if indices_arr[v] == -1:
+            strongconnect(v)
 
-    for i, path in enumerate(paths):
-        r = state.ratings[path]
-        r.score = float(scores[i])
-        r.variance = float(variances[i])
-        r.comparisons = int(comparisons[i])
+    # Map each node to its SCC id.
+    scc_id = [0] * n
+    for i, scc in enumerate(sccs):
+        for v in scc:
+            scc_id[v] = i
 
-    state.rounds = len(rounds)
-    state.api_calls = len(rounds)
+    # Build condensation DAG (edges between SCCs).
+    scc_edges: dict[int, set[int]] = {i: set() for i in range(len(sccs))}
+    for v in range(n):
+        for w in fwd[v]:
+            if scc_id[v] != scc_id[w]:
+                scc_edges[scc_id[v]].add(scc_id[w])
+
+    # Topological sort of condensation DAG (Kahn's algorithm).
+    in_degree = [0] * len(sccs)
+    for sid, targets in scc_edges.items():
+        for t in targets:
+            in_degree[t] += 1
+    queue = [i for i in range(len(sccs)) if in_degree[i] == 0]
+    topo_order = []
+    head = 0
+    while head < len(queue):
+        sid = queue[head]
+        head += 1
+        topo_order.append(sid)
+        for t in scc_edges[sid]:
+            in_degree[t] -= 1
+            if in_degree[t] == 0:
+                queue.append(t)
+
+    # Build final ordering: SCCs in topological order, within each SCC sort by win rate.
+    sorted_indices = []
+    for sid in topo_order:
+        scc = sccs[sid]
+        if len(scc) == 1:
+            sorted_indices.extend(scc)
+        else:
+            scc.sort(key=lambda v: total_wins[v] / possible_wins[v]
+                     if possible_wins[v] > 0 else 0, reverse=True)
+            sorted_indices.extend(scc)
+
+    # Assign ranks.
+    for rank, idx in enumerate(sorted_indices, 1):
+        r = state.ratings[paths[idx]]
+        r.rank = rank
+        r.win_count = total_wins[idx]
+        r.comparisons = comparisons[idx]
+
+    state.rounds = sum(1 for _ in log_dir.glob('round_*.json'))
 
 
 # ---------------------------------------------------------------------------
@@ -370,14 +333,14 @@ def write_scoring_log(
     ordered = []
     for rank_idx, batch_idx in enumerate(ranking, 1):
         r = batch[batch_idx]
-        s0, v0, n0 = prior[r.path]
+        prior_rank, prior_wins, prior_n = prior[r.path]
         ordered.append({
             'rank': rank_idx,
             'title': r.title,
             'path': r.path,
-            'prior_score': round(s0, 4),
-            'prior_variance': round(v0, 6),
-            'prior_n': n0,
+            'prior_rank': prior_rank,
+            'prior_wins': prior_wins,
+            'prior_n': prior_n,
         })
 
     data = {
@@ -401,103 +364,118 @@ def _country_key(path: str) -> str:
     return '/'.join(parts[:2]) if len(parts) >= 2 else path
 
 
-def _build_comparison_graph(log_dir: Path, path_to_idx: dict[str, int]) -> dict[int, set[int]]:
-    """Build an adjacency list from round logs.
+def _build_directed_graph(log_dir: Path, path_to_idx: dict[str, int]) -> tuple[dict[int, set[int]], dict[int, set[int]]]:
+    """Build directed adjacency lists from round logs.
 
-    Two items are connected if they appeared in the same round.
+    Returns (forward, reverse) where forward[a] contains items a beat,
+    and reverse[a] contains items that beat a.
     """
-    adj: dict[int, set[int]] = {i: set() for i in range(len(path_to_idx))}
+    n = len(path_to_idx)
+    fwd: dict[int, set[int]] = {i: set() for i in range(n)}
+    rev: dict[int, set[int]] = {i: set() for i in range(n)}
     for log_file in log_dir.glob('round_*.json'):
         data = json.loads(log_file.read_text())
         indices = [path_to_idx[e['path']] for e in data['order'] if e['path'] in path_to_idx]
         for i in range(len(indices)):
             for j in range(i + 1, len(indices)):
-                adj[indices[i]].add(indices[j])
-                adj[indices[j]].add(indices[i])
-    return adj
+                fwd[indices[i]].add(indices[j])  # i beat j
+                rev[indices[j]].add(indices[i])   # j was beaten by i
+    return fwd, rev
 
 
-def _bfs_distances(adj: dict[int, set[int]], sources: set[int], n: int) -> list[int]:
-    """Multi-source BFS. Returns distance from nearest source for each node.
-
-    Unreachable nodes get distance n (effectively infinity).
-    """
-    dist = [n] * n
-    queue = []
-    for s in sources:
-        dist[s] = 0
-        queue.append(s)
+def _bfs_reachable(adj: dict[int, set[int]], sources: set[int]) -> set[int]:
+    """BFS from sources following directed edges. Returns all reachable nodes."""
+    visited = set(sources)
+    queue = list(sources)
     head = 0
     while head < len(queue):
         node = queue[head]
         head += 1
-        for neighbor in adj[node]:
-            if dist[neighbor] > dist[node] + 1:
-                dist[neighbor] = dist[node] + 1
-                queue.append(neighbor)
-    return dist
+        for nb in adj[node]:
+            if nb not in visited:
+                visited.add(nb)
+                queue.append(nb)
+    return visited
 
 
 def select_batch_from_graph(
-    adj: dict[int, set[int]],
+    fwd: dict[int, set[int]],
+    rev: dict[int, set[int]],
     ratings: list[Rating],
     size: int = BATCH_SIZE,
     rng: random.Random | None = None,
 ) -> list[Rating]:
-    """Pick `size` locations that maximize total pairwise graph distance.
+    """Pick `size` locations that are maximally incomparable in the directed graph.
 
-    Greedy max-sum: start with an unseen/weakly-connected item, then
-    repeatedly add the item that maximizes the sum of distances to all
-    items already in the batch. This prefers items that are far from
-    the batch on average, not just far from the nearest member.
+    An item is "comparable" to the batch if there's a directed path from
+    it to any batch member (it's better) or from any batch member to it
+    (it's worse). Items with no directed path in either direction are
+    incomparable — those are the most valuable to add.
+
+    Greedy: start with the least-connected item, then repeatedly add the
+    item that is comparable to the fewest batch members.
     """
     rng = rng or random
     n = len(ratings)
     if n <= size:
         return list(ratings)
 
-    # Seed: pick an unseen item (no edges), or the item with fewest connections.
-    degrees = [(len(adj[i]), i) for i in range(n)]
-    degrees.sort()
-    seed = degrees[0][1]
+    # Seed: item with smallest total reach (fewest items it can compare to).
+    min_reach = n + 1
+    seed_candidates = []
+    for i in range(n):
+        reach = len(fwd[i]) + len(rev[i])
+        if reach < min_reach:
+            min_reach = reach
+            seed_candidates = [i]
+        elif reach == min_reach:
+            seed_candidates.append(i)
+    seed = seed_candidates[rng.randint(0, len(seed_candidates) - 1)]
 
     batch_order = [seed]
     batch_set = {seed}
-    # sum_dist[i] = sum of distances from i to each item in the batch.
-    sum_dist = _bfs_distances(adj, {seed}, n)
+    # Track: items reachable FROM the batch (batch beats them) and
+    # items that can REACH the batch (they beat the batch).
+    fwd_reached = _bfs_reachable(fwd, {seed})
+    rev_reached = _bfs_reachable(rev, {seed})
 
     for _ in range(size - 1):
-        # Pick the item maximizing sum of distances to the batch.
-        # Tie-break randomly.
-        best_sum = -1
+        # Pick the item that is LEAST comparable to the batch.
+        # comparable = in fwd_reached (batch can reach it) OR rev_reached (it can reach batch)
+        best_score = -1
         candidates = []
         for i in range(n):
             if i in batch_set:
                 continue
-            if sum_dist[i] > best_sum:
-                best_sum = sum_dist[i]
+            # Score: 2 if incomparable (not in fwd or rev reached),
+            # 1 if reachable in only one direction, 0 if both.
+            in_fwd = i in fwd_reached
+            in_rev = i in rev_reached
+            score = (0 if in_fwd else 1) + (0 if in_rev else 1)
+            if score > best_score:
+                best_score = score
                 candidates = [i]
-            elif sum_dist[i] == best_sum:
+            elif score == best_score:
                 candidates.append(i)
         if not candidates:
             break
         chosen = candidates[rng.randint(0, len(candidates) - 1)]
         batch_order.append(chosen)
         batch_set.add(chosen)
-        # Add distances from the new member to the running sum.
-        new_dist = _bfs_distances(adj, {chosen}, n)
-        for i in range(n):
-            sum_dist[i] += new_dist[i]
+        # Extend reachability with new member.
+        fwd_reached |= _bfs_reachable(fwd, {chosen})
+        rev_reached |= _bfs_reachable(rev, {chosen})
 
     return [ratings[i] for i in batch_order]
 
 
-def update_graph(adj: dict[int, set[int]], indices: list[int]) -> None:
-    """Add edges for all pairs in a round (in-place graph update)."""
+def update_directed_graph(fwd: dict[int, set[int]], rev: dict[int, set[int]],
+                          indices: list[int]) -> None:
+    """Add directed edges for a round result (indices in best-to-worst order)."""
     for i in range(len(indices)):
         for j in range(i + 1, len(indices)):
-            adj[indices[i]].add(indices[j])
-            adj[indices[j]].add(indices[i])
+            fwd[indices[i]].add(indices[j])
+            rev[indices[j]].add(indices[i])
 
 
 def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None,
@@ -684,11 +662,11 @@ def cmd_run(args) -> None:
           f'({len(state.ratings)} locations, {state.rounds} rounds so far).')
     print(f'Logging each round to {log_dir}/')
 
-    # Build the comparison graph once; update incrementally after each round.
+    # Build the directed comparison graph once; update incrementally after each round.
     ratings_list = list(state.ratings.values())
     path_to_idx = {r.path: i for i, r in enumerate(ratings_list)}
-    adj = _build_comparison_graph(log_dir, path_to_idx)
-    print(f'Comparison graph: {sum(len(v) for v in adj.values())//2} edges')
+    fwd, rev = _build_directed_graph(log_dir, path_to_idx)
+    print(f'Directed graph: {sum(len(v) for v in fwd.values())} edges')
 
     try:
         for i in range(target_rounds):
@@ -705,9 +683,9 @@ def cmd_run(args) -> None:
                     rng_local.shuffle(pool)
                     batch = pool[:BATCH_SIZE]
             else:
-                batch = select_batch_from_graph(adj, ratings_list, BATCH_SIZE, rng)
+                batch = select_batch_from_graph(fwd, rev, ratings_list, BATCH_SIZE, rng)
 
-            prior = {r.path: (r.score, r.variance, r.comparisons) for r in batch}
+            prior = {r.path: (r.rank, r.win_count, r.comparisons) for r in batch}
 
             try:
                 ranking = rank_with_claude(client, model, batch)
@@ -726,13 +704,13 @@ def cmd_run(args) -> None:
             state.rounds += 1
             write_scoring_log(log_dir, state.rounds, model, batch, ranking, prior)
 
-            # Update the comparison graph with the new round's edges.
-            batch_idx = [path_to_idx[r.path] for r in batch]
-            update_graph(adj, batch_idx)
+            # Update the directed graph with the new round's edges.
+            ranked_idx = [path_to_idx[batch[idx].path] for idx in ranking]
+            update_directed_graph(fwd, rev, ranked_idx)
 
-            # Refit from all logs periodically (every 10 rounds) and at the end.
+            # Re-sort periodically (every 10 rounds) and at the end.
             if (i + 1) % 10 == 0 or i + 1 == target_rounds:
-                fit_from_logs(state, log_dir)
+                sort_locations(state, log_dir)
                 state.save()
 
             best = ranked[0]
@@ -745,21 +723,21 @@ def cmd_run(args) -> None:
             print(f'  round {state.rounds}{country_info}: '
                   f'best={best.title!r} worst={worst.title!r}')
     except KeyboardInterrupt:
-        print('\nInterrupted. Refitting and saving...')
-        fit_from_logs(state, log_dir)
+        print('\nInterrupted. Sorting and saving...')
+        sort_locations(state, log_dir)
     finally:
         state.save()
 
     print(f'Done. {state.rounds} rounds, {state.api_calls} API calls.')
 
 
-def _print_leaderboard(state: State, rows: list[Rating], reverse: bool) -> None:
+def _print_leaderboard(state: State, rows: list[Rating]) -> None:
     width = max((len(r.title) for r in rows), default=20)
-    header = f'{"#":>4}  {"title":<{width}}  {"score":>7}  {"var":>8}  {"n":>4}  path'
+    header = f'{"rank":>6}  {"title":<{width}}  {"wins":>6}  {"n":>4}  path'
     print(header)
     print('-' * len(header))
-    for i, r in enumerate(rows, 1):
-        print(f'{i:>4}  {r.title:<{width}}  {r.score:>7.3f}  {r.variance:>8.4f}  '
+    for r in rows:
+        print(f'{r.rank:>6}  {r.title:<{width}}  {r.win_count:>6}  '
               f'{r.comparisons:>4}  {r.path}')
 
 
@@ -780,12 +758,8 @@ def cmd_top(args) -> None:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
     pool = _filter_pool(state, args)
-    rows = sorted(
-        pool,
-        key=lambda r: r.conservative() if args.conservative else r.score,
-        reverse=True,
-    )[:args.n]
-    _print_leaderboard(state, rows, reverse=True)
+    rows = sorted(pool, key=lambda r: r.rank)[:args.n]
+    _print_leaderboard(state, rows)
 
 
 def cmd_bottom(args) -> None:
@@ -794,11 +768,8 @@ def cmd_bottom(args) -> None:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
     pool = _filter_pool(state, args)
-    rows = sorted(
-        pool,
-        key=lambda r: (r.score + 2 * math.sqrt(r.variance)) if args.conservative else r.score,
-    )[:args.n]
-    _print_leaderboard(state, rows, reverse=False)
+    rows = sorted(pool, key=lambda r: -r.rank)[:args.n]
+    _print_leaderboard(state, rows)
 
 
 DEBUG_BATCH = [
@@ -839,20 +810,23 @@ def cmd_debug(args) -> None:
 
 
 def cmd_replay(args) -> None:
-    """Refit Plackett-Luce model from all log files."""
+    """Sort all locations from round log data."""
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
 
     log_dir = Path(args.log_dir) if args.log_dir else LOG_DIR
-    fit_from_logs(state, log_dir)
+    sort_locations(state, log_dir)
     state.save()
-    print(f'Fitted {state.rounds} rounds across {len(state.ratings)} locations.')
+    print(f'Sorted from {state.rounds} rounds across {len(state.ratings)} locations.')
 
 
 def cmd_apply(args) -> None:
-    """Write a normalized 0-1 score into each location's frontmatter."""
+    """Write a normalized 0-1 score into each location's frontmatter.
+
+    Score is derived from rank: rank 1 → 1.0, rank N → 0.0.
+    """
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
@@ -864,15 +838,12 @@ def cmd_apply(args) -> None:
         print(f'No locations with >= {min_n} comparisons.', file=sys.stderr)
         sys.exit(2)
 
-    s_min = min(r.score for r in rated)
-    s_max = max(r.score for r in rated)
-    s_range = s_max - s_min
-    if s_range < 1e-9:
-        print('All rated locations have the same score — nothing to normalize.',
-              file=sys.stderr)
+    max_rank = max(r.rank for r in rated)
+    if max_rank <= 1:
+        print('Not enough ranked locations to normalize.', file=sys.stderr)
         sys.exit(2)
 
-    print(f'Normalizing score [{s_min:.3f}, {s_max:.3f}] → [0.0, 1.0]')
+    print(f'Normalizing rank [1, {max_rank}] → [1.0, 0.0]')
 
     updated = 0
     skipped_n = 0
@@ -889,7 +860,7 @@ def cmd_apply(args) -> None:
             continue
 
         post = frontmatter.load(md_path)
-        score = round((r.score - s_min) / s_range, 2)
+        score = round(1.0 - (r.rank - 1) / (max_rank - 1), 2)
 
         if post.metadata.get('score') == score:
             continue
@@ -911,9 +882,8 @@ def cmd_stats(args) -> None:
         sys.exit(2)
 
     ratings = list(state.ratings.values())
-    scores = [r.score for r in ratings]
-    variances = [r.variance for r in ratings]
     comparisons = [r.comparisons for r in ratings]
+    win_counts = [r.win_count for r in ratings]
     unseen = sum(1 for c in comparisons if c == 0)
 
     print(f'locations:       {len(ratings)}')
@@ -921,8 +891,7 @@ def cmd_stats(args) -> None:
     print(f'api calls:       {state.api_calls}')
     print(f'model:           {state.model}')
     print(f'unseen:          {unseen}')
-    print(f'score mean/min/max {sum(scores)/len(scores):.3f} / {min(scores):.3f} / {max(scores):.3f}')
-    print(f'var   mean/min/max {sum(variances)/len(variances):.4f} / {min(variances):.4f} / {max(variances):.4f}')
+    print(f'wins  mean/min/max {sum(win_counts)/len(win_counts):.1f} / {min(win_counts)} / {max(win_counts)}')
     print(f'cmp   mean/min/max {sum(comparisons)/len(comparisons):.2f} / '
           f'{min(comparisons)} / {max(comparisons)}')
 
@@ -957,8 +926,6 @@ def main() -> None:
 
     p_top = sub.add_parser('top', help='Show the top-ranked locations')
     p_top.add_argument('n', type=int, nargs='?', default=25)
-    p_top.add_argument('--conservative', action='store_true',
-                       help='Sort by score - 2*std (penalise uncertain ratings)')
     p_top.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_top.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
@@ -966,8 +933,6 @@ def main() -> None:
 
     p_bot = sub.add_parser('bottom', help='Show the bottom-ranked locations')
     p_bot.add_argument('n', type=int, nargs='?', default=25)
-    p_bot.add_argument('--conservative', action='store_true',
-                       help='Sort by score + 2*std (only confidently-bad locations)')
     p_bot.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_bot.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
@@ -980,7 +945,7 @@ def main() -> None:
     p_debug.add_argument('--model', help=f'Claude model to use (default: {DEFAULT_MODEL})')
     p_debug.set_defaults(func=cmd_debug)
 
-    p_replay = sub.add_parser('replay', help='Refit Plackett-Luce from all log files')
+    p_replay = sub.add_parser('replay', help='Sort all locations from round log data')
     p_replay.add_argument('--log-dir', help=f'Directory with JSON round logs (default: {LOG_DIR})')
     p_replay.set_defaults(func=cmd_replay)
 

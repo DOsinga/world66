@@ -398,6 +398,40 @@ def _bfs_reachable(adj: dict[int, set[int]], sources: set[int]) -> set[int]:
     return visited
 
 
+def _directed_distance(fwd: dict[int, set[int]], rev: dict[int, set[int]],
+                        source: int, n: int) -> list[int]:
+    """Compute directed comparison distance from source to all other nodes.
+
+    Distance = min(forward BFS dist, reverse BFS dist). This is the shortest
+    directed path in either direction — how many hops to establish who's better.
+    Unreachable nodes get distance n (effectively infinity).
+    """
+    # Forward: items source beats transitively
+    fwd_dist = [n] * n
+    fwd_dist[source] = 0
+    queue = [source]
+    head = 0
+    while head < len(queue):
+        node = queue[head]; head += 1
+        for nb in fwd[node]:
+            if fwd_dist[nb] > fwd_dist[node] + 1:
+                fwd_dist[nb] = fwd_dist[node] + 1
+                queue.append(nb)
+    # Reverse: items that beat source transitively
+    rev_dist = [n] * n
+    rev_dist[source] = 0
+    queue = [source]
+    head = 0
+    while head < len(queue):
+        node = queue[head]; head += 1
+        for nb in rev[node]:
+            if rev_dist[nb] > rev_dist[node] + 1:
+                rev_dist[nb] = rev_dist[node] + 1
+                queue.append(nb)
+    # Min of both directions
+    return [min(fwd_dist[i], rev_dist[i]) for i in range(n)]
+
+
 def select_batch_from_graph(
     fwd: dict[int, set[int]],
     rev: dict[int, set[int]],
@@ -405,57 +439,42 @@ def select_batch_from_graph(
     size: int = BATCH_SIZE,
     rng: random.Random | None = None,
 ) -> list[Rating]:
-    """Pick `size` locations that are maximally incomparable in the directed graph.
+    """Pick `size` locations maximizing total pairwise directed distance.
 
-    An item is "comparable" to the batch if there's a directed path from
-    it to any batch member (it's better) or from any batch member to it
-    (it's worse). Items with no directed path in either direction are
-    incomparable — those are the most valuable to add.
-
-    Greedy: start with the least-connected item, then repeatedly add the
-    item that is comparable to the fewest batch members.
+    Greedy max-sum: start with the least-connected item, then repeatedly
+    add the item with the highest sum of directed distances to all current
+    batch members. Ties are broken by fewest comparisons, then randomly.
     """
     rng = rng or random
     n = len(ratings)
     if n <= size:
         return list(ratings)
 
-    # Seed: item with smallest total reach (fewest items it can compare to).
-    min_reach = n + 1
+    # Seed: item with smallest direct edge count (least connected).
+    min_edges = n + 1
     seed_candidates = []
     for i in range(n):
-        reach = len(fwd[i]) + len(rev[i])
-        if reach < min_reach:
-            min_reach = reach
+        edges = len(fwd[i]) + len(rev[i])
+        if edges < min_edges:
+            min_edges = edges
             seed_candidates = [i]
-        elif reach == min_reach:
+        elif edges == min_edges:
             seed_candidates.append(i)
     seed = seed_candidates[rng.randint(0, len(seed_candidates) - 1)]
 
     batch_order = [seed]
     batch_set = {seed}
-    # Track: items reachable FROM the batch (batch beats them) and
-    # items that can REACH the batch (they beat the batch).
-    fwd_reached = _bfs_reachable(fwd, {seed})
-    rev_reached = _bfs_reachable(rev, {seed})
+    sum_dist = _directed_distance(fwd, rev, seed, n)
 
     for _ in range(size - 1):
-        # Pick the item that is LEAST comparable to the batch,
-        # penalizing items that have already been compared many times.
-        best_score = -1
+        best_score = (-1, 0)
         candidates = []
         for i in range(n):
             if i in batch_set:
                 continue
-            # Incomparability: 2 if no directed path either way,
-            # 1 if reachable in only one direction, 0 if both.
-            in_fwd = i in fwd_reached
-            in_rev = i in rev_reached
-            incomp = (0 if in_fwd else 1) + (0 if in_rev else 1)
-            # Penalize over-compared items: prefer items with few comparisons.
-            # Score = incomparability * 1000 - comparisons, so incomparable
-            # items with few comparisons are picked first.
-            score = incomp * 1000 - ratings[i].comparisons
+            # Primary: highest sum of directed distances to batch.
+            # Secondary: fewest comparisons (spread budget).
+            score = (sum_dist[i], -ratings[i].comparisons)
             if score > best_score:
                 best_score = score
                 candidates = [i]
@@ -466,9 +485,9 @@ def select_batch_from_graph(
         chosen = candidates[rng.randint(0, len(candidates) - 1)]
         batch_order.append(chosen)
         batch_set.add(chosen)
-        # Extend reachability with new member.
-        fwd_reached |= _bfs_reachable(fwd, {chosen})
-        rev_reached |= _bfs_reachable(rev, {chosen})
+        new_dist = _directed_distance(fwd, rev, chosen, n)
+        for i in range(n):
+            sum_dist[i] += new_dist[i]
 
     return [ratings[i] for i in batch_order]
 

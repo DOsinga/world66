@@ -316,6 +316,28 @@ def apply_ranking(ranked: list[Rating]) -> None:
 # Active selection
 # ---------------------------------------------------------------------------
 
+def _country_key(path: str) -> str:
+    """Extract continent/country from a content path."""
+    parts = path.split('/')
+    return '/'.join(parts[:2]) if len(parts) >= 2 else path
+
+
+def _weighted_sample(candidates: list[Rating], size: int, rng) -> list[Rating]:
+    """Efraimidis-Spirakis weighted reservoir sampling, weight ∝ sigma²."""
+    if len(candidates) <= size:
+        return candidates
+    keys = []
+    for r in candidates:
+        w = r.sigma * r.sigma
+        if w <= 0:
+            w = 1e-9
+        u = rng.random()
+        key = math.log(u) / w if u > 0 else -math.inf
+        keys.append((key, r))
+    keys.sort(key=lambda kv: kv[0], reverse=True)
+    return [r for _, r in keys[:size]]
+
+
 def select_batch(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None) -> list[Rating]:
     """Pick `size` locations to compare next.
 
@@ -326,23 +348,45 @@ def select_batch(state: State, size: int = BATCH_SIZE, rng: random.Random | None
     algorithm drifts toward locations whose ratings are still uncertain.
     """
     rng = rng or random
-    candidates = list(state.ratings.values())
-    if len(candidates) <= size:
-        return candidates
+    return _weighted_sample(list(state.ratings.values()), size, rng)
 
-    # A. Weighted sample. Use the Efraimidis-Spirakis reservoir trick so we
-    #    get size items without replacement in one pass.
-    keys = []
-    for r in candidates:
-        w = r.sigma * r.sigma
-        if w <= 0:
-            w = 1e-9
-        u = rng.random()
-        # key = u ** (1/w); larger is better
-        key = math.log(u) / w if u > 0 else -math.inf
-        keys.append((key, r))
-    keys.sort(key=lambda kv: kv[0], reverse=True)
-    return [r for _, r in keys[:size]]
+
+def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None) -> list[Rating]:
+    """Pick a country weighted by uncertainty, then sample locations from it.
+
+    1. Group locations by country (continent/country prefix).
+    2. Pick a country with weight = sum of sigma² across its locations.
+    3. Sample up to `size` locations from that country by sigma².
+
+    Countries with fewer than 2 locations are skipped (can't rank 1 item).
+    """
+    rng = rng or random
+
+    # Group by country
+    by_country: dict[str, list[Rating]] = {}
+    for r in state.ratings.values():
+        key = _country_key(r.path)
+        by_country.setdefault(key, []).append(r)
+
+    # Filter out countries with < 2 locations
+    eligible = {k: v for k, v in by_country.items() if len(v) >= 2}
+    if not eligible:
+        return select_batch(state, size, rng)
+
+    # Pick a country weighted by total sigma²
+    countries = list(eligible.keys())
+    weights = [sum(r.sigma ** 2 for r in eligible[c]) for c in countries]
+    total = sum(weights)
+    pick = rng.random() * total
+    cumulative = 0.0
+    chosen = countries[0]
+    for c, w in zip(countries, weights):
+        cumulative += w
+        if cumulative >= pick:
+            chosen = c
+            break
+
+    return _weighted_sample(eligible[chosen], size, rng)
 
 
 # ---------------------------------------------------------------------------
@@ -495,7 +539,10 @@ def cmd_run(args) -> None:
 
     try:
         for i in range(target_rounds):
-            batch = select_batch(state, BATCH_SIZE, rng)
+            if args.by_country:
+                batch = select_batch_by_country(state, BATCH_SIZE, rng)
+            else:
+                batch = select_batch(state, BATCH_SIZE, rng)
             # Snapshot priors BEFORE the update so logs show what the model saw.
             prior = {r.path: (r.mu, r.sigma, r.comparisons) for r in batch}
 
@@ -520,7 +567,10 @@ def cmd_run(args) -> None:
 
             best = ranked[0]
             worst = ranked[-1]
-            print(f'  round {state.rounds}: '
+            country_info = ''
+            if args.by_country:
+                country_info = f' [{_country_key(batch[0].path)}]'
+            print(f'  round {state.rounds}{country_info}: '
                   f'best={best.title!r} (mu={best.mu:.2f}) '
                   f'worst={worst.title!r} (mu={worst.mu:.2f})')
     except KeyboardInterrupt:
@@ -542,12 +592,23 @@ def _print_leaderboard(state: State, rows: list[Rating], reverse: bool) -> None:
               f'{r.comparisons:>4}  {r.path}')
 
 
+def _filter_pool(state: State, args) -> list[Rating]:
+    """Filter the rating pool by --min-n and --country."""
+    pool = list(state.ratings.values())
+    if hasattr(args, 'country') and args.country:
+        prefix = args.country.strip('/')
+        pool = [r for r in pool if r.path.startswith(prefix + '/') or r.path == prefix]
+    if hasattr(args, 'min_n'):
+        pool = [r for r in pool if r.comparisons >= args.min_n]
+    return pool
+
+
 def cmd_top(args) -> None:
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
-    pool = [r for r in state.ratings.values() if r.comparisons >= args.min_n]
+    pool = _filter_pool(state, args)
     rows = sorted(
         pool,
         key=lambda r: r.conservative() if args.conservative else r.mu,
@@ -561,7 +622,7 @@ def cmd_bottom(args) -> None:
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
-    pool = [r for r in state.ratings.values() if r.comparisons >= args.min_n]
+    pool = _filter_pool(state, args)
     # Conservative sort for `bottom` uses the UPPER credible bound:
     # only locations whose best-case is still low are "confidently bad".
     rows = sorted(
@@ -785,6 +846,8 @@ def main() -> None:
     p_run.add_argument('--model', help=f'Claude model to use (default: {DEFAULT_MODEL})')
     p_run.add_argument('--seed', type=int, help='Random seed for batch selection')
     p_run.add_argument('--log-dir', help=f'Directory for per-round markdown logs (default: {LOG_DIR})')
+    p_run.add_argument('--by-country', action='store_true',
+                       help='Each round picks a country (by uncertainty) and ranks within it')
     p_run.set_defaults(func=cmd_run)
 
     p_top = sub.add_parser('top', help='Show the top-ranked locations')
@@ -793,6 +856,7 @@ def main() -> None:
                        help='Sort by mu - 3*sigma (penalise uncertain ratings)')
     p_top.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
+    p_top.add_argument('--country', help='Filter to a country prefix (e.g. europe/belgium)')
     p_top.set_defaults(func=cmd_top)
 
     p_bot = sub.add_parser('bottom', help='Show the bottom-ranked locations')
@@ -801,6 +865,7 @@ def main() -> None:
                        help='Sort by mu + 3*sigma (only confidently-bad locations)')
     p_bot.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
+    p_bot.add_argument('--country', help='Filter to a country prefix (e.g. europe/belgium)')
     p_bot.set_defaults(func=cmd_bottom)
 
     p_stats = sub.add_parser('stats', help='Show rating state summary')

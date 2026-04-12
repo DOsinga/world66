@@ -5,6 +5,10 @@ latitude: 44.0128
 longitude: 20.9114
 title: Kragujevac
 type: location
+image: kragujevac.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kragujevac_005.jpg
+image_license: CC BY-SA 4.0
+image_attribution: BrankaVV
 ---
 
 Kragujevac is Serbia's fourth-largest city, with a population of around 175,000, set in the rolling hills of the Šumadija region in central Serbia. It holds an outsized place in the country's history: from 1818 to 1841 it served as the first capital of modern Serbia, and the country's first printing press, theatre, and high school were all established here. Today the city is primarily industrial, home to the Zastava car factory and a large university.

@@ -675,25 +675,23 @@ def cmd_debug(args) -> None:
         print(f'  {rank_pos:>2}. {r.title:<20}  [id={batch_idx}]  {r.path}')
 
 
-def cmd_replay(args) -> None:
-    """Replay JSON log files to rebuild ratings from scratch.
+def _load_log_rounds(log_dir: Path, ratings: dict[str, Rating]) -> list[list[str]]:
+    """Load all round logs and return a list of path-lists (best-to-worst).
 
-    Reads each round log in order, looks up the locations in the current
-    state, and applies the same ranking updates that `run` would have done.
-    Locations in the state get fresh priors before replay starts.
+    Each element is a list of content paths in ranked order, with unknown
+    paths already stripped out.
     """
-    state = State.load()
-    if not state.ratings:
-        print('No locations in state. Run `discover` first.', file=sys.stderr)
-        sys.exit(2)
+    rounds = []
+    for log_file in sorted(log_dir.glob('round_*.json')):
+        data = json.loads(log_file.read_text())
+        paths = [e['path'] for e in data['order'] if e['path'] in ratings]
+        if len(paths) >= 2:
+            rounds.append(paths)
+    return rounds
 
-    log_dir = Path(args.log_dir) if args.log_dir else LOG_DIR
-    log_files = sorted(log_dir.glob('round_*.json'))
-    if not log_files:
-        print(f'No JSON log files found in {log_dir}/', file=sys.stderr)
-        sys.exit(2)
 
-    # Reset all ratings to the prior, zero counters.
+def _replay_once(state: State, rounds: list[list[str]]) -> None:
+    """Reset state to priors and replay all rounds in the given order."""
     for r in state.ratings.values():
         r.mu = INITIAL_MU
         r.sigma = INITIAL_SIGMA
@@ -701,30 +699,59 @@ def cmd_replay(args) -> None:
     state.rounds = 0
     state.api_calls = 0
 
-    replayed = 0
-    skipped_entries = 0
-    for log_file in log_files:
-        data = json.loads(log_file.read_text())
-
-        # Build batch in best-to-worst order, skipping unknown paths.
-        batch = []
-        for entry in data['order']:
-            path = entry['path']
-            if path not in state.ratings:
-                skipped_entries += 1
-                continue
-            batch.append(state.ratings[path])
-
-        if len(batch) < 2:
-            continue
-
+    for paths in rounds:
+        batch = [state.ratings[p] for p in paths]
         apply_ranking(batch)
         state.rounds += 1
         state.api_calls += 1
-        replayed += 1
+
+
+def cmd_replay(args) -> None:
+    """Replay JSON log files to rebuild ratings from scratch.
+
+    With --shuffle N, replays N times in random order and averages the
+    mu values. This cancels out ordering noise from the sequential updates.
+    """
+    state = State.load()
+    if not state.ratings:
+        print('No locations in state. Run `discover` first.', file=sys.stderr)
+        sys.exit(2)
+
+    log_dir = Path(args.log_dir) if args.log_dir else LOG_DIR
+    rounds = _load_log_rounds(log_dir, state.ratings)
+    if not rounds:
+        print(f'No valid JSON log files in {log_dir}/', file=sys.stderr)
+        sys.exit(2)
+
+    n_shuffle = args.shuffle or 0
+    if n_shuffle < 2:
+        # Single deterministic replay (original order).
+        _replay_once(state, rounds)
+        state.save()
+        print(f'Replayed {len(rounds)} rounds.')
+        print(f'State: {state.rounds} rounds, {len(state.ratings)} locations.')
+        return
+
+    # Shuffle-and-average: replay N times in random order, average mu.
+    rng = random.Random(42)
+    mu_accum: dict[str, float] = {p: 0.0 for p in state.ratings}
+
+    for i in range(n_shuffle):
+        shuffled = list(rounds)
+        rng.shuffle(shuffled)
+        _replay_once(state, shuffled)
+        for p, r in state.ratings.items():
+            mu_accum[p] += r.mu
+        if (i + 1) % 10 == 0 or i + 1 == n_shuffle:
+            print(f'  shuffle {i + 1}/{n_shuffle} done')
+
+    # Write averaged mu back; keep sigma and comparisons from last replay
+    # (they're the same regardless of order).
+    for p, r in state.ratings.items():
+        r.mu = mu_accum[p] / n_shuffle
 
     state.save()
-    print(f'Replayed {replayed} rounds, skipped {skipped_entries} unknown entries.')
+    print(f'Replayed {len(rounds)} rounds × {n_shuffle} shuffles, averaged.')
     print(f'State: {state.rounds} rounds, {len(state.ratings)} locations.')
 
 
@@ -877,6 +904,8 @@ def main() -> None:
 
     p_replay = sub.add_parser('replay', help='Replay JSON logs to rebuild ratings from scratch')
     p_replay.add_argument('--log-dir', help=f'Directory with JSON round logs (default: {LOG_DIR})')
+    p_replay.add_argument('--shuffle', type=int, metavar='N',
+                          help='Replay N times in random order and average mu (reduces ordering noise)')
     p_replay.set_defaults(func=cmd_replay)
 
     p_apply = sub.add_parser('apply', help='Write score field into each location\'s frontmatter')

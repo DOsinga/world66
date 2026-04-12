@@ -1,0 +1,200 @@
+{
+  "round": 99,
+  "timestamp": "2026-04-12T08:03:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 38.92,
+      "prior_sigma": 4.28,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_mu": 32.72,
+      "prior_sigma": 4.28,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_mu": 22.47,
+      "prior_sigma": 3.94,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_mu": 22.54,
+      "prior_sigma": 2.66,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_mu": 22.36,
+      "prior_sigma": 4.47,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_mu": 23.86,
+      "prior_sigma": 4.37,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_mu": 21.09,
+      "prior_sigma": 2.83,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_mu": 20.94,
+      "prior_sigma": 3.01,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Murcia",
+      "path": "europe/spain/murcia",
+      "prior_mu": 22.2,
+      "prior_sigma": 4.22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_mu": 20.46,
+      "prior_sigma": 2.67,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/sherborne",
+      "prior_mu": 21.17,
+      "prior_sigma": 3.32,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 20.76,
+      "prior_sigma": 2.61,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_mu": 21.18,
+      "prior_sigma": 3.66,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 20.67,
+      "prior_sigma": 2.45,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_mu": 20.61,
+      "prior_sigma": 2.69,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_mu": 21.09,
+      "prior_sigma": 3.29,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_mu": 20.38,
+      "prior_sigma": 3.65,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/maryland/hanover",
+      "prior_mu": 20.43,
+      "prior_sigma": 3.46,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_mu": 19.52,
+      "prior_sigma": 3.61,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_mu": 20.82,
+      "prior_sigma": 2.65,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_mu": 20.88,
+      "prior_sigma": 3.22,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_mu": 21.46,
+      "prior_sigma": 4.16,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_mu": 21.12,
+      "prior_sigma": 3.7,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_mu": 16.6,
+      "prior_sigma": 3.3,
+      "prior_n": 5
+    }
+  ]
+}

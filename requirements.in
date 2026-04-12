@@ -1,3 +1,4 @@
+anthropic
 Django==6.0.3
 Markdown
 PyYAML
@@ -7,3 +8,4 @@ geopy
 httpx
 Pillow
 python-dotenv
+anthropic

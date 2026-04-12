@@ -1,0 +1,200 @@
+{
+  "round": 73,
+  "timestamp": "2026-04-12T08:02:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_mu": 32.65,
+      "prior_sigma": 4.64,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cephalonia",
+      "path": "europe/greece/cephalonia",
+      "prior_mu": 25.5,
+      "prior_sigma": 5.32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lanzarote",
+      "path": "europe/spain/canaryislands/lanzarote",
+      "prior_mu": 26.45,
+      "prior_sigma": 5.58,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_mu": 22.5,
+      "prior_sigma": 3.84,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "The Cuillins",
+      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
+      "prior_mu": 25.67,
+      "prior_sigma": 4.23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/swanage",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.54,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_mu": 21.31,
+      "prior_sigma": 3.58,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_mu": 21.37,
+      "prior_sigma": 4.35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_mu": 21.9,
+      "prior_sigma": 4.28,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_mu": 20.9,
+      "prior_sigma": 3.19,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_mu": 22.64,
+      "prior_sigma": 3.84,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_mu": 22.9,
+      "prior_sigma": 5.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_mu": 19.8,
+      "prior_sigma": 2.92,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_mu": 20.58,
+      "prior_sigma": 3.48,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Birmingham and West Midlands",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes",
+      "prior_mu": 21.11,
+      "prior_sigma": 3.37,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_mu": 21.63,
+      "prior_sigma": 4.73,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Copiapo",
+      "path": "southamerica/chile/copiapo",
+      "prior_mu": 21.89,
+      "prior_sigma": 4.83,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_mu": 19.42,
+      "prior_sigma": 3.64,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_mu": 21.41,
+      "prior_sigma": 3.95,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_mu": 21.68,
+      "prior_sigma": 4.43,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_mu": 21.35,
+      "prior_sigma": 3.39,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_mu": 18.11,
+      "prior_sigma": 4.01,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_mu": 17.52,
+      "prior_sigma": 6.32,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_mu": 15.76,
+      "prior_sigma": 4.59,
+      "prior_n": 3
+    }
+  ]
+}

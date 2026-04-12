@@ -1,0 +1,200 @@
+{
+  "round": 76,
+  "timestamp": "2026-04-12T08:02:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 37.79,
+      "prior_sigma": 4.62,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 32.61,
+      "prior_sigma": 4.33,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 24.26,
+      "prior_sigma": 3.59,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/cambridge",
+      "prior_mu": 30.19,
+      "prior_sigma": 4.38,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_mu": 27.2,
+      "prior_sigma": 5.1,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_mu": 22.74,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_mu": 22.73,
+      "prior_sigma": 3.96,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_mu": 22.03,
+      "prior_sigma": 3.69,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_mu": 21.55,
+      "prior_sigma": 3.84,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_mu": 21.92,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_mu": 21.87,
+      "prior_sigma": 4.28,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_mu": 21.11,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_mu": 21.08,
+      "prior_sigma": 3.44,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_mu": 21.09,
+      "prior_sigma": 3.82,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_mu": 20.76,
+      "prior_sigma": 3.7,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_mu": 21.8,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_mu": 21.5,
+      "prior_sigma": 4.29,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_mu": 18.51,
+      "prior_sigma": 3.61,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_mu": 20.69,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_mu": 20.79,
+      "prior_sigma": 3.46,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_mu": 21.68,
+      "prior_sigma": 4.65,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 19.57,
+      "prior_sigma": 3.76,
+      "prior_n": 3
+    }
+  ]
+}

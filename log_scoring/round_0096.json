@@ -1,0 +1,200 @@
+{
+  "round": 96,
+  "timestamp": "2026-04-12T08:03:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_mu": 26.89,
+      "prior_sigma": 3.33,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_mu": 24.57,
+      "prior_sigma": 2.96,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_mu": 26.38,
+      "prior_sigma": 4.17,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_mu": 21.84,
+      "prior_sigma": 3.22,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_mu": 21.59,
+      "prior_sigma": 3.59,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/northland/te_paki_stream",
+      "prior_mu": 21.65,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_mu": 22.07,
+      "prior_sigma": 3.7,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 21.12,
+      "prior_sigma": 2.88,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_mu": 21.89,
+      "prior_sigma": 4.3,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_mu": 21.15,
+      "prior_sigma": 3.36,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Arno Atoll",
+      "path": "australiaandpacific/marshallislands/arnoatoll",
+      "prior_mu": 21.28,
+      "prior_sigma": 3.07,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_mu": 21.03,
+      "prior_sigma": 3.35,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_mu": 20.72,
+      "prior_sigma": 3.01,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_mu": 20.81,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 18.28,
+      "prior_sigma": 3.01,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_mu": 21.36,
+      "prior_sigma": 4.14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_mu": 20.86,
+      "prior_sigma": 3.0,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_mu": 20.54,
+      "prior_sigma": 3.08,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "National parks",
+      "path": "africa/benin/nationalparks",
+      "prior_mu": 21.31,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_mu": 18.69,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_mu": 19.17,
+      "prior_sigma": 3.28,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "chakwal",
+      "path": "asia/pakistan/soon_valley/chakwal",
+      "prior_mu": 17.45,
+      "prior_sigma": 3.29,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_mu": 19.8,
+      "prior_sigma": 4.46,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_mu": 13.68,
+      "prior_sigma": 3.6,
+      "prior_n": 4
+    }
+  ]
+}

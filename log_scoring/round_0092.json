@@ -1,0 +1,200 @@
+{
+  "round": 92,
+  "timestamp": "2026-04-12T08:03:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre",
+      "prior_mu": 33.54,
+      "prior_sigma": 4.38,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_mu": 22.51,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_mu": 23.63,
+      "prior_sigma": 3.59,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 25.56,
+      "prior_sigma": 2.92,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_mu": 25.01,
+      "prior_sigma": 3.39,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_mu": 22.12,
+      "prior_sigma": 2.62,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_mu": 22.34,
+      "prior_sigma": 3.94,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_mu": 21.45,
+      "prior_sigma": 2.54,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_mu": 21.5,
+      "prior_sigma": 2.86,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_mu": 21.12,
+      "prior_sigma": 3.66,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_mu": 20.8,
+      "prior_sigma": 3.32,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_mu": 20.96,
+      "prior_sigma": 2.83,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_mu": 21.25,
+      "prior_sigma": 3.42,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_mu": 21.5,
+      "prior_sigma": 3.92,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_mu": 20.83,
+      "prior_sigma": 3.0,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_mu": 20.32,
+      "prior_sigma": 3.02,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_mu": 20.92,
+      "prior_sigma": 3.45,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_mu": 20.81,
+      "prior_sigma": 3.08,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_mu": 21.71,
+      "prior_sigma": 4.08,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 20.28,
+      "prior_sigma": 2.76,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_mu": 19.52,
+      "prior_sigma": 3.71,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_mu": 20.51,
+      "prior_sigma": 3.56,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_mu": 20.69,
+      "prior_sigma": 3.15,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mossaka",
+      "path": "africa/congobrazzaville/mossaka",
+      "prior_mu": 16.18,
+      "prior_sigma": 4.52,
+      "prior_n": 3
+    }
+  ]
+}

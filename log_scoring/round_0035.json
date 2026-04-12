@@ -1,0 +1,200 @@
+{
+  "round": 35,
+  "timestamp": "2026-04-11T19:25:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 29.63,
+      "prior_sigma": 6.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.82,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Cephalonia",
+      "path": "europe/greece/cephalonia",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_mu": 26.63,
+      "prior_sigma": 5.48,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_mu": 23.06,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_mu": 22.13,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/la_mancha/talavera_de_la_rei",
+      "prior_mu": 21.93,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
+      "prior_mu": 20.98,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 22.04,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bou saada",
+      "path": "africa/algeria/bousaada",
+      "prior_mu": 22.68,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_mu": 22.52,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Cortes",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_mu": 22.1,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_mu": 22.61,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

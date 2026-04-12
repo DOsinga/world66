@@ -1,0 +1,200 @@
+{
+  "round": 64,
+  "timestamp": "2026-04-12T08:02:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_mu": 36.96,
+      "prior_sigma": 4.98,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_mu": 22.97,
+      "prior_sigma": 4.07,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/spotorno",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.19,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "The Peninsula of O Morrazo",
+      "path": "europe/spain/galicia/the_peninsula_of_o",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.7,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_mu": 23.16,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_mu": 21.44,
+      "prior_sigma": 3.95,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_mu": 21.67,
+      "prior_sigma": 4.52,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_mu": 21.46,
+      "prior_sigma": 4.25,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_mu": 20.82,
+      "prior_sigma": 3.4,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_mu": 22.14,
+      "prior_sigma": 5.42,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vaitupu island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_mu": 21.55,
+      "prior_sigma": 4.31,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 21.96,
+      "prior_sigma": 5.44,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_mu": 21.33,
+      "prior_sigma": 3.99,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_mu": 21.5,
+      "prior_sigma": 3.73,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_mu": 20.2,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 21.29,
+      "prior_sigma": 4.18,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_mu": 22.21,
+      "prior_sigma": 5.29,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_mu": 18.44,
+      "prior_sigma": 4.93,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_mu": 18.86,
+      "prior_sigma": 4.35,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_mu": 18.6,
+      "prior_sigma": 3.82,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_mu": 21.83,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Khawas",
+      "path": "asia/pakistan/azad_kashmir/bagh/islam_nagar_bhount_1/khawas",
+      "prior_mu": 18.74,
+      "prior_sigma": 5.24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "1",
+      "path": "europe/georgia/tbilisi/1",
+      "prior_mu": 18.54,
+      "prior_sigma": 2.81,
+      "prior_n": 7
+    }
+  ]
+}

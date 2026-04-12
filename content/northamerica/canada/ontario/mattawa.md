@@ -5,6 +5,10 @@ latitude: 46.317296
 longitude: -78.703308
 title: Mattawa
 type: location
+image: mattawa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mattawa_ON.JPG
+image_license: CC BY-SA 4.0
+image_attribution: P199
 ---
 
 Mattawa is a small town of about 2,000 people at the confluence of the Mattawa and Ottawa rivers in northern Ontario. The name comes from an Algonquin word meaning "meeting of the waters," and that sense of convergence — rivers, wilderness, and history — defines the place.

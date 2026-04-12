@@ -440,18 +440,22 @@ def select_batch_from_graph(
     rev_reached = _bfs_reachable(rev, {seed})
 
     for _ in range(size - 1):
-        # Pick the item that is LEAST comparable to the batch.
-        # comparable = in fwd_reached (batch can reach it) OR rev_reached (it can reach batch)
+        # Pick the item that is LEAST comparable to the batch,
+        # penalizing items that have already been compared many times.
         best_score = -1
         candidates = []
         for i in range(n):
             if i in batch_set:
                 continue
-            # Score: 2 if incomparable (not in fwd or rev reached),
+            # Incomparability: 2 if no directed path either way,
             # 1 if reachable in only one direction, 0 if both.
             in_fwd = i in fwd_reached
             in_rev = i in rev_reached
-            score = (0 if in_fwd else 1) + (0 if in_rev else 1)
+            incomp = (0 if in_fwd else 1) + (0 if in_rev else 1)
+            # Penalize over-compared items: prefer items with few comparisons.
+            # Score = incomparability * 1000 - comparisons, so incomparable
+            # items with few comparisons are picked first.
+            score = incomp * 1000 - ratings[i].comparisons
             if score > best_score:
                 best_score = score
                 candidates = [i]

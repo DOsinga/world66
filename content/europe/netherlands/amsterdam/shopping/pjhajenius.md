@@ -1,5 +1,7 @@
 ---
-title: "Pj. Hajenius"
+tags:
+- shopping
+title: Pj. Hajenius
 type: poi
 ---
 

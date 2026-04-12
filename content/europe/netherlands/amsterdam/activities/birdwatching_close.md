@@ -1,10 +1,11 @@
 ---
-title: "Birdwatching close to Amsterdam"
-type: poi
-accessibility: "Train or rental car, 30 minutes"
-email: "flevobirdwatching@gmail.com"
-type: "Trekking"
-url: "www.birdsnetherlands.nl"
+accessibility: Train or rental car, 30 minutes
+email: flevobirdwatching@gmail.com
+tags:
+- activities
+title: Birdwatching close to Amsterdam
+type: Trekking
+url: www.birdsnetherlands.nl
 ---
 
 Just 40 km outside Amsterdam is the nature reserve Oostvaardersplassen. It is a good place to go Birding. There are eurosian spoonbills, white tailed eagles and many other bird species. You can also see deer, heck cattle and foxes.

@@ -1,7 +1,8 @@
 ---
-title: "Wijn Antiquariat"
-type: poi
-type: "Wine"
+tags:
+- shopping
+title: Wijn Antiquariat
+type: Wine
 ---
 
 It is very easy to oversee, in that corner behind the bookstore, but you should not miss this shop if you are anyhow interested in wine! Here you can buy wine, dating back long as 1895! And there are always some good bottles opened for tastings...

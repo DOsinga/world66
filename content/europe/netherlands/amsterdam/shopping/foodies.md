@@ -1,8 +1,10 @@
 ---
-title: "Foodies"
-type: poi
 latitude: 12.095472
 longitude: -68.243612
+tags:
+- shopping
+title: Foodies
+type: poi
 ---
 
 In these shops you will find local and imported specialties, funny food gifts and tasty souvenirs. 

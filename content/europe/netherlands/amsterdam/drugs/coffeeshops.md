@@ -1,5 +1,7 @@
 ---
-title: "Coffee Shops"
+tags:
+- drugs
+title: Coffee Shops
 type: poi
 ---
 

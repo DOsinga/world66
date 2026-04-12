@@ -1,12 +1,14 @@
 ---
-title: "Kokopelli, conscious dreams"
-type: poi
-address: "warmoesstraat 12"
-email: "+31(0)20 4217000"
-phone: "0031"
-url: "www.consciousdreams.nl"
+address: warmoesstraat 12
+email: +31(0)20 4217000
 latitude: 52.380429
 longitude: 4.636409
+phone: '0031'
+tags:
+- drugs
+title: Kokopelli, conscious dreams
+type: poi
+url: www.consciousdreams.nl
 ---
 
 ' The Good Mood Smart-shop '

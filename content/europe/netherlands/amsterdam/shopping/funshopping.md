@@ -1,5 +1,7 @@
 ---
-title: "Funshopping"
+tags:
+- shopping
+title: Funshopping
 type: poi
 ---
 

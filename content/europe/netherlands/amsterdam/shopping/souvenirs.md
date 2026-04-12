@@ -1,8 +1,10 @@
 ---
-title: "Souvenirs"
-type: poi
 latitude: 52.365143
 longitude: 4.890357
+tags:
+- shopping
+title: Souvenirs
+type: poi
 ---
 
 **Shops**

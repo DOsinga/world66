@@ -1,5 +1,7 @@
 ---
-title: "Blijburg"
+tags:
+- beaches
+title: Blijburg
 type: poi
 ---
 

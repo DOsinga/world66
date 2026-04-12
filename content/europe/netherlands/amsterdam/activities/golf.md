@@ -1,8 +1,10 @@
 ---
-title: "Golf"
-type: poi
 latitude: 52.491506
 longitude: 4.794053
+tags:
+- activities
+title: Golf
+type: poi
 ---
 
 There are several locations in and around Amsterdam where you can play golf, a sport that becomes more and more popular in the Netherlands.

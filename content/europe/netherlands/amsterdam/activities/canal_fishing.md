@@ -1,7 +1,8 @@
 ---
-title: "Canal fishing"
-type: poi
-type: "Cycling"
+tags:
+- activities
+title: Canal fishing
+type: Cycling
 ---
 
 Don't let the title

@@ -1,7 +1,9 @@
 ---
-title: "Cycling in the countryside."
+tags:
+- day_trips
+title: Cycling in the countryside.
 type: poi
-url: "www.guideholland.com"
+url: www.guideholland.com
 ---
 
 You still can find the classical Holland within a few miles from Amsterdam. A great way to get around and see a lot is the bicycle.

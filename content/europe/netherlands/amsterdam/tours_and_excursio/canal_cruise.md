@@ -1,8 +1,10 @@
 ---
-title: "Canal Cruise"
-type: poi
 latitude: 52.378676
 longitude: 4.897165
+tags:
+- tours_and_excursio
+title: Canal Cruise
+type: poi
 ---
 
 If you haven't much time but want to get a complete overview of the

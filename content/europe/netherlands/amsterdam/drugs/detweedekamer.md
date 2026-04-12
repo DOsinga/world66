@@ -1,8 +1,10 @@
 ---
-title: "De Tweede Kamer"
-type: poi
 latitude: 51.903226
 longitude: 4.888478
+tags:
+- drugs
+title: De Tweede Kamer
+type: poi
 ---
 
 Tweede Kamer is one of forerunners in the scene. Some years ago they opened De Dampkring, which is more widely known. Bigger doesn't really mean better, they sell the same stuff, but the Tweede Kamer is more intimate and more in crowd.

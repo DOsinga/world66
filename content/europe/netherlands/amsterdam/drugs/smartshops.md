@@ -1,5 +1,7 @@
 ---
-title: "Smart shops"
+tags:
+- drugs
+title: Smart shops
 type: poi
 ---
 

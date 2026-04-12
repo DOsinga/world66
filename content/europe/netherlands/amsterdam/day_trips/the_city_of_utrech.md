@@ -1,5 +1,7 @@
 ---
-title: "The city of Utrecht"
+tags:
+- day_trips
+title: The city of Utrecht
 type: poi
 ---
 

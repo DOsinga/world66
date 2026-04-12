@@ -1,5 +1,7 @@
 ---
-title: "Bookshops"
+tags:
+- shopping
+title: Bookshops
 type: poi
 ---
 

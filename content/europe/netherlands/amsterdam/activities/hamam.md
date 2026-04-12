@@ -1,9 +1,11 @@
 ---
-title: "Hamam zaanstraat"
-type: poi
-address: "amsterdam"
+address: amsterdam
 latitude: 52.37308
 longitude: 4.892453
+tags:
+- activities
+title: Hamam zaanstraat
+type: poi
 ---
 
 Turkish bath with full service, massage, peeling, olive soap, towel, tea room, snacks, ...

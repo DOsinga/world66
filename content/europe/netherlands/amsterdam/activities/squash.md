@@ -1,8 +1,10 @@
 ---
-title: "Squash"
-type: poi
 latitude: 51.474504
 longitude: 5.457911
+tags:
+- activities
+title: Squash
+type: poi
 ---
 
 **Recommendations**

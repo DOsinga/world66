@@ -1,5 +1,7 @@
 ---
-title: "Supermarkets"
+tags:
+- shopping
+title: Supermarkets
 type: poi
 ---
 

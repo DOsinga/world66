@@ -1,9 +1,11 @@
 ---
-title: "Volendam"
-type: poi
-url: "www.vvvvolendam.nl"
 latitude: 52.496376
 longitude: 5.068274
+tags:
+- day_trips
+title: Volendam
+type: poi
+url: www.vvvvolendam.nl
 ---
 
 Legend has it that the Volendam coat of arms is a compliment to the

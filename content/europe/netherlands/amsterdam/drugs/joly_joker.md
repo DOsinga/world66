@@ -1,8 +1,10 @@
 ---
-title: "Jolly Joker"
-type: poi
 latitude: 52.242998
 longitude: 4.435231
+tags:
+- drugs
+title: Jolly Joker
+type: poi
 ---
 
 What can I say, another of my favourite haunts. peaceful atmosphere, excellent viewpoint for people watching while stoned.

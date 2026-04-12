@@ -1,9 +1,11 @@
 ---
-title: "Squash City"
-type: poi
-address: "Ketelmakerstraat 6"
+address: Ketelmakerstraat 6
 latitude: 52.383333
 longitude: 4.889787
+tags:
+- activities
+title: Squash City
+type: poi
 ---
 
 Great court. Also fitness club. Taking a sauna after the match is included. A ten minute walk from the Central station, near the Haarlemmerdijk.

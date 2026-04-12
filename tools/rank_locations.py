@@ -539,8 +539,14 @@ def cmd_run(args) -> None:
 
     try:
         for i in range(target_rounds):
-            if args.by_country:
+            if args.by_country is True:
                 batch = select_batch_by_country(state, BATCH_SIZE, rng)
+            elif args.by_country:
+                # Specific prefix: filter to that prefix and sample by uncertainty
+                pool = [r for r in state.ratings.values()
+                        if r.path.startswith(args.by_country.strip('/') + '/')
+                        or r.path == args.by_country.strip('/')]
+                batch = _weighted_sample(pool, BATCH_SIZE, rng)
             else:
                 batch = select_batch(state, BATCH_SIZE, rng)
             # Snapshot priors BEFORE the update so logs show what the model saw.
@@ -568,8 +574,10 @@ def cmd_run(args) -> None:
             best = ranked[0]
             worst = ranked[-1]
             country_info = ''
-            if args.by_country:
+            if args.by_country is True:
                 country_info = f' [{_country_key(batch[0].path)}]'
+            elif args.by_country:
+                country_info = f' [{args.by_country}]'
             print(f'  round {state.rounds}{country_info}: '
                   f'best={best.title!r} (mu={best.mu:.2f}) '
                   f'worst={worst.title!r} (mu={worst.mu:.2f})')
@@ -873,8 +881,9 @@ def main() -> None:
     p_run.add_argument('--model', help=f'Claude model to use (default: {DEFAULT_MODEL})')
     p_run.add_argument('--seed', type=int, help='Random seed for batch selection')
     p_run.add_argument('--log-dir', help=f'Directory for per-round markdown logs (default: {LOG_DIR})')
-    p_run.add_argument('--by-country', action='store_true',
-                       help='Each round picks a country (by uncertainty) and ranks within it')
+    p_run.add_argument('--by-country', nargs='?', const=True, default=False, metavar='PREFIX',
+                       help='Rank within countries. Omit value to auto-pick by uncertainty, '
+                            'or specify a prefix (e.g. europe/belgium) to target one country')
     p_run.set_defaults(func=cmd_run)
 
     p_top = sub.add_parser('top', help='Show the top-ranked locations')

@@ -5,6 +5,10 @@ latitude: 38.915243
 longitude: 21.794349
 title: Karpenisi
 type: location
+image: karpenisi.jpg
+image_source: https://www.flickr.com/photos/153329952@N02/36303483776
+image_license: CC BY 2.0
+image_attribution: petrospis on Flickr
 ---
 
 Karpenisi is the capital of the Evrytania regional unit in central Greece, a mountain town of about 7,000 set among forested peaks in the Agrafa range. It is one of Greece's main winter sports destinations, with the Velouchi ski resort on the slopes above the town. In summer the area attracts hikers drawn to the Karpenisiotis river gorge, the nearby village of Mikro Horio (partly abandoned after a 1963 earthquake), and rafting and kayaking on the Acheloos and Tavropos rivers.

@@ -1,9 +1,11 @@
 ---
-title: "Notre-Dame Cathedral"
-type: poi
+address: 6 Parvis Notre-Dame, Île de la Cité, 75004 Paris
 latitude: 48.852937
 longitude: 2.35005
-address: "6 Parvis Notre-Dame, Île de la Cité, 75004 Paris"
+tags:
+- things_to_do
+title: Notre-Dame Cathedral
+type: poi
 ---
 
 Notre-Dame is the Gothic masterpiece at the heart of Paris and the country's symbolic centre — all road distances in France are measured from its forecourt. Its first stone was laid in 1163 and the cathedral took 170 years to complete. The flying buttresses on its eastern end are particularly beautiful at dusk.

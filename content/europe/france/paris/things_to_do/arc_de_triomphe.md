@@ -1,12 +1,14 @@
 ---
-title: "Arc de Triomphe"
-type: poi
+address: Place Charles de Gaulle, 75008 Paris
+admission: €13; free for under-18s and EU residents under 26
 latitude: 48.873779
 longitude: 2.295037
-address: "Place Charles de Gaulle, 75008 Paris"
-url: "www.paris-arc-de-triomphe.fr"
-opening_hours: "Daily 10am–11pm (Apr–Sep), 10am–10:30pm (Oct–Mar)"
-admission: "€13; free for under-18s and EU residents under 26"
+opening_hours: Daily 10am–11pm (Apr–Sep), 10am–10:30pm (Oct–Mar)
+tags:
+- things_to_do
+title: Arc de Triomphe
+type: poi
+url: www.paris-arc-de-triomphe.fr
 ---
 
 Napoleon commissioned the Arc de Triomphe in 1806 to honour his Grand Army, but he never saw it completed — construction took thirty years. The arch stands 50 metres high at the centre of Place Charles de Gaulle, where twelve grand avenues converge in a star pattern that remains one of the most dramatic pieces of urban planning in any European city.

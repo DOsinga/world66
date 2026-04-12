@@ -1,12 +1,14 @@
 ---
-title: "The Catacombs"
-type: poi
+address: 1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris
+admission: €29 (with audio guide); book online — often sold out weeks ahead
 latitude: 48.833801
 longitude: 2.332409
-address: "1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris"
-url: "www.catacombes.paris.fr"
-opening_hours: "Tue–Sun 9:45am–8:30pm; closed Mon"
-admission: "€29 (with audio guide); book online — often sold out weeks ahead"
+opening_hours: Tue–Sun 9:45am–8:30pm; closed Mon
+tags:
+- things_to_do
+title: The Catacombs
+type: poi
+url: www.catacombes.paris.fr
 ---
 
 Beneath the streets of the 14th arrondissement lie the ossuary galleries of the Paris Catacombs: 2 kilometres of former limestone quarry tunnels lined with the bones of approximately 6 million Parisians, transferred here in the late 18th century when the city's overflowing cemeteries became a public health crisis.

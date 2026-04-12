@@ -1,8 +1,10 @@
 ---
-title: "Le Marais"
-type: poi
 latitude: 48.860382
 longitude: 2.360742
+tags:
+- things_to_do
+title: Le Marais
+type: poi
 ---
 
 Le Marais is Paris's most rewarding neighbourhood for an unstructured afternoon of wandering. Centred on the 3rd and 4th arrondissements, it escaped Haussmann's 19th-century demolitions almost entirely, so its medieval street pattern survives intact: narrow lanes, Renaissance mansions (hôtels particuliers), and quiet courtyards around every corner.

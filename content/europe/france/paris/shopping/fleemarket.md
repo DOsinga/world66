@@ -1,5 +1,7 @@
 ---
-title: "Flea Market (OHIO)"
+tags:
+- shopping
+title: Flea Market (OHIO)
 type: poi
 ---
 

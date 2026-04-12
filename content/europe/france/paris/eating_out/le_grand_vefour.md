@@ -1,12 +1,14 @@
 ---
-title: "Le Grand Véfour"
-type: poi
+address: 17 Rue de Beaujolais, 75001 Paris
 latitude: 48.866217
 longitude: 2.338015
-address: "17 Rue de Beaujolais, 75001 Paris"
-phone: "+33 1 42 96 56 27"
-url: "www.grand-vefour.com"
-opening_hours: "Mon–Fri noon–1:30pm and 7:30pm–9:30pm; closed Sat–Sun"
+opening_hours: Mon–Fri noon–1:30pm and 7:30pm–9:30pm; closed Sat–Sun
+phone: +33 1 42 96 56 27
+tags:
+- eating_out
+title: Le Grand Véfour
+type: poi
+url: www.grand-vefour.com
 ---
 
 Le Grand Véfour occupies one of the most beautiful dining rooms in Paris: a restored Empire-period interior beneath the arcades of the Palais-Royal, with painted glass panels, gilded columns, and upholstered banquettes that have accommodated Napoleon, Victor Hugo, and Colette. The room alone justifies the visit.

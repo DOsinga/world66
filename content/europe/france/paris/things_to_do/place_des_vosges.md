@@ -1,9 +1,11 @@
 ---
-title: "Place des Vosges"
-type: poi
+address: Place des Vosges, 75004 Paris
 latitude: 48.855455
 longitude: 2.362468
-address: "Place des Vosges, 75004 Paris"
+tags:
+- things_to_do
+title: Place des Vosges
+type: poi
 ---
 
 Place des Vosges is the oldest planned square in Paris and arguably the finest. Henri IV had it built in 1612 as the centrepiece of the Marais, and it worked: the neighbourhood became the most fashionable address in the city. Today the square's symmetrical red-brick pavilions and the arcaded ground floor — now lined with art galleries, antique dealers, and cafes — have barely changed since the 17th century.

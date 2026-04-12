@@ -1,12 +1,14 @@
 ---
-title: "Centre Pompidou"
-type: poi
+address: Place Georges-Pompidou, 75004 Paris
+admission: €15; free first Sun of the month
 latitude: 48.860496
 longitude: 2.352422
-address: "Place Georges-Pompidou, 75004 Paris"
-url: "www.centrepompidou.fr"
-opening_hours: "Wed–Mon 11am–9pm (Thu until 11pm); closed Tue"
-admission: "€15; free first Sun of the month"
+opening_hours: Wed–Mon 11am–9pm (Thu until 11pm); closed Tue
+tags:
+- things_to_do
+title: Centre Pompidou
+type: poi
+url: www.centrepompidou.fr
 ---
 
 The Centre Pompidou is one of the most provocative buildings in Paris: its skeleton turned inside out, with colour-coded utility ducts and escalator tubes running up the exterior. When it opened in 1977 the neighbourhood was outraged; now it anchors the lively Beaubourg quarter, and its rooftop terrace offers some of the best free views in Paris.

@@ -1,12 +1,14 @@
 ---
-title: "Musée Picasso Paris"
-type: poi
+address: 5 Rue de Thorigny, 75003 Paris
+admission: €14; free first Sun of the month
 latitude: 48.859741
 longitude: 2.362292
-address: "5 Rue de Thorigny, 75003 Paris"
-url: "www.museepicassoparis.fr"
-opening_hours: "Tue–Fri 10:30am–6pm, Sat–Sun 9:30am–6pm; closed Mon"
-admission: "€14; free first Sun of the month"
+opening_hours: Tue–Fri 10:30am–6pm, Sat–Sun 9:30am–6pm; closed Mon
+tags:
+- things_to_do
+title: Musée Picasso Paris
+type: poi
+url: www.museepicassoparis.fr
 ---
 
 The Musée Picasso is housed in the magnificent Hôtel Salé, a 17th-century mansion in the Marais, and holds the largest public collection of Picasso's work in the world: over 5,000 drawings, engravings, paintings, sculptures, and ceramics spanning his entire career from the Blue Period to Cubism to his final years.

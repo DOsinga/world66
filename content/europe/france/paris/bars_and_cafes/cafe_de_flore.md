@@ -1,12 +1,14 @@
 ---
-title: "Café de Flore"
-type: poi
+address: 172 Boulevard Saint-Germain, 75006 Paris
 latitude: 48.854144
 longitude: 2.332631
-address: "172 Boulevard Saint-Germain, 75006 Paris"
-phone: "+33 1 45 48 55 26"
-url: "www.cafedeflore.fr"
-opening_hours: "Daily 7:30am–1:30am"
+opening_hours: Daily 7:30am–1:30am
+phone: +33 1 45 48 55 26
+tags:
+- bars_and_cafes
+title: Café de Flore
+type: poi
+url: www.cafedeflore.fr
 ---
 
 Café de Flore is the most famous of the Saint-Germain literary cafes, a place where Sartre, de Beauvoir, Camus, and Picasso were regulars during the postwar years of existentialism and intellectual ferment. The Art Deco interior — red banquettes, mirrored walls, dark wood — has barely changed since the 1950s.

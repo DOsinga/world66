@@ -1,12 +1,15 @@
 ---
-title: "Eiffel Tower"
-type: poi
+address: Champ de Mars, 75007 Paris
+admission: €29.40 (top by lift), €19.10 (2nd floor by lift), €11.80 (stairs to 2nd
+  floor)
 latitude: 48.85826
 longitude: 2.294501
-address: "Champ de Mars, 75007 Paris"
-url: "www.tour-eiffel.fr"
-opening_hours: "Daily 9am–12:45am (lifts), 9am–midnight (stairs)"
-admission: "€29.40 (top by lift), €19.10 (2nd floor by lift), €11.80 (stairs to 2nd floor)"
+opening_hours: Daily 9am–12:45am (lifts), 9am–midnight (stairs)
+tags:
+- things_to_do
+title: Eiffel Tower
+type: poi
+url: www.tour-eiffel.fr
 ---
 
 The Eiffel Tower was built in 1889 for the World Exposition marking the centennial of the French Revolution. Architect Gustave Eiffel, better known as the engineer behind the Statue of Liberty's iron skeleton, erected the 330-metre iron lattice tower in just over two years. Contemporaries hated it; posterity proved them wrong.

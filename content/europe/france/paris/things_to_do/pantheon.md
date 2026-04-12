@@ -1,12 +1,14 @@
 ---
-title: "The Panthéon"
-type: poi
+address: Place du Panthéon, 75005 Paris
+admission: €13; free for under-18s and EU residents under 26
 latitude: 48.846195
 longitude: 2.346051
-address: "Place du Panthéon, 75005 Paris"
-url: "www.paris-pantheon.fr"
-opening_hours: "Daily 10am–6pm (Oct–Mar), 10am–6:30pm (Apr–Sep)"
-admission: "€13; free for under-18s and EU residents under 26"
+opening_hours: Daily 10am–6pm (Oct–Mar), 10am–6:30pm (Apr–Sep)
+tags:
+- things_to_do
+title: The Panthéon
+type: poi
+url: www.paris-pantheon.fr
 ---
 
 The Panthéon is one of Paris's most imposing buildings — a neoclassical temple with a 83-metre dome that dominates the Left Bank skyline. Louis XV built it as a church in 1758; it was secularised during the Revolution and has served as France's secular mausoleum ever since, housing the remains of Voltaire, Rousseau, Victor Hugo, Émile Zola, Marie and Pierre Curie, and some eighty other figures of French intellectual life.

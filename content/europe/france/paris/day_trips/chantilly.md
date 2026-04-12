@@ -1,12 +1,14 @@
 ---
-title: "Chantilly"
-type: poi
+address: Château de Chantilly, 60500 Chantilly
+admission: Château and park from €17
 latitude: 49.194094
 longitude: 2.481993
-address: "Château de Chantilly, 60500 Chantilly"
-url: "www.domainedechantilly.com"
-opening_hours: "Wed–Mon 10am–6pm (park until 8pm); closed Tue"
-admission: "Château and park from €17"
+opening_hours: Wed–Mon 10am–6pm (park until 8pm); closed Tue
+tags:
+- day_trips
+title: Chantilly
+type: poi
+url: www.domainedechantilly.com
 ---
 
 Chantilly, 50km north of Paris, is worth a day for its château, its forest, and its horses. The Château de Chantilly contains the Musée Condé — the second largest collection of old master paintings in France after the Louvre, assembled by the Prince de Condé in the 19th century. The Italian and French Renaissance rooms are extraordinary. The building itself, reflected in ornamental lakes, is one of the most photogenic in France.

@@ -1,13 +1,15 @@
 ---
-title: "Moulin Rouge"
-type: poi
+address: 82 Boulevard de Clichy, 75018 Paris
 latitude: 48.884109
 longitude: 2.332356
-address: "82 Boulevard de Clichy, 75018 Paris"
-phone: "+33 1 53 09 82 82"
-url: "www.moulinrouge.fr"
-opening_hours: "Shows at 9pm and 11pm nightly"
-price: "Show only from €87; dinner and show from €195"
+opening_hours: Shows at 9pm and 11pm nightly
+phone: +33 1 53 09 82 82
+price: Show only from €87; dinner and show from €195
+tags:
+- bars_and_cafes
+title: Moulin Rouge
+type: poi
+url: www.moulinrouge.fr
 ---
 
 The Moulin Rouge opened on 6 October 1889 at the foot of Montmartre and has been one of Paris's most famous addresses ever since. Toulouse-Lautrec's posters made it the symbol of Belle Époque excess; today it remains a working cabaret with elaborate costumes, can-can dancers, and a cast of 60 performers.

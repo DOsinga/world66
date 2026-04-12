@@ -1,12 +1,14 @@
 ---
-title: "Musée Rodin"
-type: poi
+address: 77 Rue de Varenne, 75007 Paris
+admission: €14; garden only €4; free first Sun of the month
 latitude: 48.855399
 longitude: 2.315765
-address: "77 Rue de Varenne, 75007 Paris"
-url: "www.musee-rodin.fr"
-opening_hours: "Tue–Sun 10am–6:30pm; closed Mon"
-admission: "€14; garden only €4; free first Sun of the month"
+opening_hours: Tue–Sun 10am–6:30pm; closed Mon
+tags:
+- things_to_do
+title: Musée Rodin
+type: poi
+url: www.musee-rodin.fr
 ---
 
 The Musée Rodin occupies the Hôtel Biron, an elegant 18th-century mansion where Auguste Rodin lived and worked for the last decade of his life. He bequeathed the house and his entire collection to the French state on the condition that they maintained it as a museum — one of the better deals in the history of French cultural policy.

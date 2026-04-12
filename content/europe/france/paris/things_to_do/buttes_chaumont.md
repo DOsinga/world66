@@ -1,11 +1,13 @@
 ---
-title: "Parc des Buttes-Chaumont"
-type: poi
+address: 1 Rue Botzaris, 75019 Paris
+admission: Free
 latitude: 48.878396
 longitude: 2.381201
-address: "1 Rue Botzaris, 75019 Paris"
-opening_hours: "Daily 7am–10pm (summer), 7am–dusk (winter)"
-admission: "Free"
+opening_hours: Daily 7am–10pm (summer), 7am–dusk (winter)
+tags:
+- things_to_do
+title: Parc des Buttes-Chaumont
+type: poi
 ---
 
 One of Paris's best-kept secrets among visitors who rarely venture into the working-class 19th arrondissement. The Buttes-Chaumont is the city's most dramatic park: a fantasy landscape created by Napoleon III in the 1860s on the site of a former rubbish dump and quarry. The designers engineered steep cliffs, a 30-metre waterfall, artificial caves, and a lake with a 50-metre island at its centre.

@@ -1,12 +1,14 @@
 ---
-title: "Musée d'Orsay"
-type: poi
+address: 1 Rue de la Légion d'Honneur, 75007 Paris
+admission: €16; free first Sun of the month
 latitude: 48.859918
 longitude: 2.326585
-address: "1 Rue de la Légion d'Honneur, 75007 Paris"
-url: "www.musee-orsay.fr"
-opening_hours: "Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon"
-admission: "€16; free first Sun of the month"
+opening_hours: Tue–Sun 9:30am–6pm (Thu until 9:45pm); closed Mon
+tags:
+- things_to_do
+title: Musée d'Orsay
+type: poi
+url: www.musee-orsay.fr
 ---
 
 The Musée d'Orsay is the world's finest collection of Impressionist and Post-Impressionist art, housed in a spectacularly converted 1900 railway station. Victor Laloux's Beaux-Arts iron-and-glass hall, with its giant clocks and ornate plasterwork, is as much an attraction as the paintings. The station closed in 1939 and the building spent decades awaiting demolition before reopening as a museum in 1986.

@@ -1,13 +1,15 @@
 ---
-title: "La Tour d'Argent"
-type: poi
-latitude: 48.849830
+address: 15-17 Quai de la Tournelle, 75005 Paris
+latitude: 48.84983
 longitude: 2.354915
-address: "15-17 Quai de la Tournelle, 75005 Paris"
-phone: "+33 1 43 54 23 31"
-url: "www.tourdargent.com"
-opening_hours: "Tue–Sat noon–2pm and 7:30pm–10pm; closed Sun–Mon"
-price_per_night: "€200+ per person"
+opening_hours: Tue–Sat noon–2pm and 7:30pm–10pm; closed Sun–Mon
+phone: +33 1 43 54 23 31
+price_per_night: €200+ per person
+tags:
+- eating_out
+title: La Tour d'Argent
+type: poi
+url: www.tourdargent.com
 ---
 
 La Tour d'Argent is one of the oldest restaurants in Paris — it has operated on the Quai de la Tournelle since at least 1582 in some form — and remains one of its grandest. The rooftop dining room has views directly onto Notre-Dame and the Seine that are difficult to match anywhere in the city.

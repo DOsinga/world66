@@ -383,20 +383,6 @@ def _build_directed_graph(log_dir: Path, path_to_idx: dict[str, int]) -> tuple[d
     return fwd, rev
 
 
-def _bfs_reachable(adj: dict[int, set[int]], sources: set[int]) -> set[int]:
-    """BFS from sources following directed edges. Returns all reachable nodes."""
-    visited = set(sources)
-    queue = list(sources)
-    head = 0
-    while head < len(queue):
-        node = queue[head]
-        head += 1
-        for nb in adj[node]:
-            if nb not in visited:
-                visited.add(nb)
-                queue.append(nb)
-    return visited
-
 
 def _directed_distance(fwd: dict[int, set[int]], rev: dict[int, set[int]],
                         source: int, n: int) -> list[int]:

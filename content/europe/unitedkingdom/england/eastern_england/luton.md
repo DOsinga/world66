@@ -5,6 +5,10 @@ latitude: 51.891073
 longitude: -0.42303
 title: Luton
 type: location
+image: luton.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Luton_from_the_air_-_geograph.org.uk_-_4547656.jpg
+image_license: CC BY-SA 2.0
+image_attribution: M J Richardson
 ---
 
 Luton is a large town of about 220,000 people in Bedfordshire, 30 miles north of London. It is primarily a transit hub — Luton Airport handles around 18 million passengers a year, serving many budget carriers — but the town itself has more to it than its reputation suggests.

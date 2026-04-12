@@ -2,26 +2,22 @@
 """
 Rank World66 locations as travel destinations using the Claude API.
 
-Maintains a TrueSkill-style Gaussian rating (mu, sigma) per location in a
-JSON state file. Each round selects 12 locations via uncertainty sampling
-(weighted by sigma^2), asks Claude to rank them from best to worst as
-travel destinations, and updates ratings from the resulting ordering.
+Uses a Plackett-Luce model fitted via maximum likelihood to all observed
+rankings. Each round selects locations via uncertainty sampling (weighted
+by the inverse Hessian of the log-likelihood), asks Claude to order them,
+and refits the model from all accumulated log data.
 
 Usage:
-    # Discover all locations and initialise the state file
     python tools/rank_locations.py discover
-
-    # Run 50 ranking rounds (12 locations per round = 1 API call per round)
     python tools/rank_locations.py run --rounds 50
-
-    # Show the current top / bottom locations
+    python tools/rank_locations.py replay
     python tools/rank_locations.py top 30
     python tools/rank_locations.py bottom 30
-
-    # Show progress stats
     python tools/rank_locations.py stats
 
-State is stored in tools/location_ratings.json and runs are resumable.
+State is stored in location_ratings.json and runs are resumable.
+Log files in log_scoring/ are the source of truth — scores can always
+be rebuilt from them via `replay`.
 """
 
 import argparse
@@ -31,11 +27,13 @@ import math
 import random
 import sys
 import time
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field
 from pathlib import Path
 
 import frontmatter
+import numpy as np
 from dotenv import load_dotenv
+from scipy.optimize import minimize
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_DIR = SCRIPT_DIR.parent
@@ -43,18 +41,12 @@ CONTENT_DIR = PROJECT_DIR / 'content'
 STATE_FILE = PROJECT_DIR / 'location_ratings.json'
 LOG_DIR = PROJECT_DIR / 'log_scoring'
 
-# TrueSkill-inspired constants
-INITIAL_MU = 25.0
-INITIAL_SIGMA = 25.0 / 3.0
-BETA = 25.0 / 6.0               # skill spread that produces ~76% win probability
-DYNAMICS = 25.0 / 300.0         # small additive variance per update to avoid freezing
-
 BATCH_SIZE = 24
 DEFAULT_MODEL = 'claude-sonnet-4-6'
 
-# How much of each location's page body to include in the prompt.
-# ~900 chars ≈ 200-250 tokens → ~3k tokens of context per 12-item batch.
-INTRO_CHARS = 900
+# Prior: L2 regularization toward 0 (equivalent to Gaussian prior on scores).
+# Larger = stronger pull toward 0, prevents scores from diverging.
+REGULARIZATION = 0.01
 
 
 # ---------------------------------------------------------------------------
@@ -65,13 +57,13 @@ INTRO_CHARS = 900
 class Rating:
     path: str
     title: str
-    mu: float = INITIAL_MU
-    sigma: float = INITIAL_SIGMA
+    score: float = 0.0       # Plackett-Luce MLE score (log-scale strength)
+    variance: float = 1.0    # Uncertainty from inverse Hessian diagonal
     comparisons: int = 0
 
     def conservative(self) -> float:
-        """Lower-bound score (mu - 3*sigma), used for sorting 'top'."""
-        return self.mu - 3 * self.sigma
+        """Lower-bound score (score - 2*std), used for sorting 'top'."""
+        return self.score - 2 * math.sqrt(self.variance)
 
 
 @dataclass
@@ -95,8 +87,8 @@ class State:
             state.ratings[path] = Rating(
                 path=path,
                 title=r['title'],
-                mu=r['mu'],
-                sigma=r['sigma'],
+                score=r.get('score', r.get('mu', 0.0)),
+                variance=r.get('variance', r.get('sigma', 1.0) ** 2 if 'sigma' in r else 1.0),
                 comparisons=r.get('comparisons', 0),
             )
         return state
@@ -109,8 +101,8 @@ class State:
             'ratings': {
                 path: {
                     'title': r.title,
-                    'mu': round(r.mu, 4),
-                    'sigma': round(r.sigma, 4),
+                    'score': round(r.score, 4),
+                    'variance': round(r.variance, 6),
                     'comparisons': r.comparisons,
                 }
                 for path, r in self.ratings.items()
@@ -126,11 +118,7 @@ class State:
 # ---------------------------------------------------------------------------
 
 def discover_locations() -> list[tuple[str, str]]:
-    """Scan content/ for type: location pages.
-
-    Returns a list of (content_path, title) tuples. content_path mirrors the
-    URL-style path used elsewhere (e.g. 'europe/france/paris').
-    """
+    """Scan content/ for type: location pages."""
     found = []
     for md_file in sorted(CONTENT_DIR.rglob('*.md')):
         try:
@@ -160,23 +148,15 @@ def cmd_discover(args) -> None:
         if args.sample < BATCH_SIZE:
             print(f'--sample must be at least {BATCH_SIZE}', file=sys.stderr)
             sys.exit(2)
-        # Refuse to resample if we already have ratings with real data,
-        # unless --force: that would discard learned ratings.
         has_work = any(r.comparisons > 0 for r in state.ratings.values())
         if has_work and not args.force:
-            print('State already contains rated locations '
-                  f'({sum(1 for r in state.ratings.values() if r.comparisons > 0)} '
-                  'with comparisons). Refusing to resample. '
-                  'Use --force to discard and resample.', file=sys.stderr)
+            print('State already contains rated locations. Use --force to discard.', file=sys.stderr)
             sys.exit(2)
         rng = random.Random(args.seed)
         rng.shuffle(locations)
         locations = locations[:args.sample]
         print(f'Sampled {len(locations)} locations (seed={args.seed}).')
 
-    # --sample --force means "throw away everything and start over with this
-    # sample". Zero the round counters and rebuild ratings from scratch so
-    # every location starts at the initial prior.
     if args.sample is not None and args.force:
         state.ratings = {}
         state.rounds = 0
@@ -209,54 +189,162 @@ def cmd_discover(args) -> None:
 
 
 # ---------------------------------------------------------------------------
-# TrueSkill-lite update
+# Plackett-Luce MLE
 # ---------------------------------------------------------------------------
 
-_SQRT_2 = math.sqrt(2.0)
-_SQRT_2PI = math.sqrt(2.0 * math.pi)
+def fit_plackett_luce(
+    rounds: list[list[int]],
+    n_items: int,
+) -> tuple[np.ndarray, np.ndarray]:
+    """Fit Plackett-Luce scores via maximum likelihood.
+
+    Args:
+        rounds: list of rankings, each a list of item indices in best-to-worst
+                order. Not all items need to appear in every round.
+        n_items: total number of items (some may not appear in any round).
+
+    Returns:
+        (scores, variances): arrays of length n_items.
+        scores are log-scale strengths (higher = better).
+        variances are diagonal of the inverse Hessian (uncertainty).
+        Items with no observations get score=0, variance=1/REGULARIZATION.
+    """
+    if not rounds:
+        return np.zeros(n_items), np.full(n_items, 1.0 / REGULARIZATION)
+
+    def neg_log_likelihood(s):
+        """Negative log-likelihood + L2 regularization."""
+        nll = 0.5 * REGULARIZATION * np.dot(s, s)
+        for ranking in rounds:
+            # P(r1>r2>...>rk) = prod_i exp(s[ri]) / sum_{j>=i} exp(s[rj])
+            # log P = sum_i (s[ri] - log(sum_{j>=i} exp(s[rj])))
+            # Compute from the bottom up for numerical stability.
+            exp_s = np.exp(s[ranking] - np.max(s[ranking]))  # shift for stability
+            suffix_sum = np.cumsum(exp_s[::-1])[::-1]
+            log_suffix = np.log(suffix_sum) + np.max(s[ranking])
+            nll -= np.sum(s[ranking] - log_suffix)
+        return nll
+
+    def gradient(s):
+        """Gradient of negative log-likelihood."""
+        grad = REGULARIZATION * s.copy()
+        for ranking in rounds:
+            exp_s = np.exp(s[ranking])
+            suffix_sum = np.cumsum(exp_s[::-1])[::-1]
+            probs = exp_s / suffix_sum  # P(item i wins given remaining)
+            n = len(ranking)
+            for i in range(n):
+                grad[ranking[i]] -= 1.0  # from the s[ri] term
+                # Add back the probability contributions to the suffix sums
+                for j in range(i + 1):
+                    grad[ranking[i]] += probs[i] * (1.0 if j <= i else 0.0)
+            # Cleaner: for each position i, item ranking[i] contributes
+            # -1 + sum_{j<=i} exp(s[ri]) / suffix_sum[j]
+            # Recompute more efficiently:
+            grad_round = np.zeros(n)
+            for i in range(n):
+                grad_round[i] = -1.0
+                for j in range(i + 1):
+                    grad_round[i] += exp_s[i] / suffix_sum[j]
+            for i, idx in enumerate(ranking):
+                grad[idx] += grad_round[i]
+            # Undo the double-counting from above
+            grad[ranking] -= REGULARIZATION * s[ranking]
+        # Recompute properly
+        grad = REGULARIZATION * s.copy()
+        for ranking in rounds:
+            exp_s = np.exp(s[ranking])
+            suffix_sum = np.cumsum(exp_s[::-1])[::-1]
+            for i, idx in enumerate(ranking):
+                grad[idx] -= 1.0
+                for j in range(i + 1):
+                    grad[idx] += exp_s[i] / suffix_sum[j]
+        return grad
+
+    s0 = np.zeros(n_items)
+
+    result = minimize(
+        neg_log_likelihood,
+        s0,
+        jac=gradient,
+        method='L-BFGS-B',
+        options={'maxiter': 500, 'ftol': 1e-8},
+    )
+
+    scores = result.x
+    # Center scores (the model is invariant to a constant shift)
+    scores -= np.mean(scores)
+
+    # Variance from inverse Hessian diagonal (approximate).
+    # H_ii = regularization + sum over rounds where i participates of
+    #        sum_{j where i is in suffix} p_i_in_suffix * (1 - p_i_in_suffix)
+    hess_diag = np.full(n_items, REGULARIZATION)
+    for ranking in rounds:
+        exp_s = np.exp(scores[ranking])
+        suffix_sum = np.cumsum(exp_s[::-1])[::-1]
+        for i, idx in enumerate(ranking):
+            for j in range(i + 1):
+                p = exp_s[i] / suffix_sum[j]
+                hess_diag[idx] += p * (1.0 - p)
+
+    variances = 1.0 / np.maximum(hess_diag, 1e-9)
+
+    return scores, variances
 
 
-def _pdf(x: float) -> float:
-    return math.exp(-0.5 * x * x) / _SQRT_2PI
+# ---------------------------------------------------------------------------
+# Log loading and scoring
+# ---------------------------------------------------------------------------
+
+def _load_log_rounds(log_dir: Path, path_to_idx: dict[str, int]) -> tuple[list[list[int]], np.ndarray]:
+    """Load round logs and convert to index-based rankings.
+
+    Returns (rounds_as_indices, comparisons_count).
+    """
+    n = len(path_to_idx)
+    comparisons = np.zeros(n, dtype=int)
+    rounds = []
+
+    for log_file in sorted(log_dir.glob('round_*.json')):
+        data = json.loads(log_file.read_text())
+        indices = []
+        for entry in data['order']:
+            path = entry['path']
+            if path in path_to_idx:
+                indices.append(path_to_idx[path])
+        if len(indices) >= 2:
+            rounds.append(indices)
+            for idx in indices:
+                comparisons[idx] += 1
+
+    return rounds, comparisons
 
 
-def _cdf(x: float) -> float:
-    return 0.5 * (1.0 + math.erf(x / _SQRT_2))
+def fit_from_logs(state: State, log_dir: Path) -> None:
+    """Fit Plackett-Luce from all log files and update state."""
+    paths = list(state.ratings.keys())
+    path_to_idx = {p: i for i, p in enumerate(paths)}
+
+    rounds, comparisons = _load_log_rounds(log_dir, path_to_idx)
+    if not rounds:
+        print('No valid rounds to fit.', file=sys.stderr)
+        return
+
+    scores, variances = fit_plackett_luce(rounds, len(paths))
+
+    for i, path in enumerate(paths):
+        r = state.ratings[path]
+        r.score = float(scores[i])
+        r.variance = float(variances[i])
+        r.comparisons = int(comparisons[i])
+
+    state.rounds = len(rounds)
+    state.api_calls = len(rounds)
 
 
-def _v(t: float) -> float:
-    """Mean of a truncated standard normal above t."""
-    denom = _cdf(t)
-    if denom < 1e-12:
-        # Asymptotic expansion for the deep tail
-        return -t
-    return _pdf(t) / denom
-
-
-def _w(t: float) -> float:
-    """Variance shrinkage factor for the truncated normal above t."""
-    vt = _v(t)
-    return vt * (vt + t)
-
-
-def update_pair(winner: Rating, loser: Rating) -> None:
-    """TrueSkill update for a single win/loss event."""
-    # Inject a small amount of dynamics variance so sigma never fully collapses.
-    sw2 = winner.sigma * winner.sigma + DYNAMICS * DYNAMICS
-    sl2 = loser.sigma * loser.sigma + DYNAMICS * DYNAMICS
-
-    c2 = 2.0 * BETA * BETA + sw2 + sl2
-    c = math.sqrt(c2)
-    t = (winner.mu - loser.mu) / c
-
-    v = _v(t)
-    w = _w(t)
-
-    winner.mu += (sw2 / c) * v
-    loser.mu -= (sl2 / c) * v
-    winner.sigma = math.sqrt(max(1e-6, sw2 * (1.0 - sw2 / c2 * w)))
-    loser.sigma = math.sqrt(max(1e-6, sl2 * (1.0 - sl2 / c2 * w)))
-
+# ---------------------------------------------------------------------------
+# Logging
+# ---------------------------------------------------------------------------
 
 def write_scoring_log(
     log_dir: Path,
@@ -266,12 +354,7 @@ def write_scoring_log(
     ranking: list[int],
     prior: dict[str, tuple[float, float, int]],
 ) -> Path:
-    """Write a JSON log of a single ranking round.
-
-    `prior` is a snapshot of (mu, sigma, comparisons) for each batch member
-    BEFORE the update, so the log shows what the model saw rather than the
-    already-updated values.
-    """
+    """Write a JSON log of a single ranking round."""
     log_dir.mkdir(parents=True, exist_ok=True)
     path = log_dir / f'round_{round_num:04d}.json'
     ts = dt.datetime.now().isoformat(timespec='seconds')
@@ -279,13 +362,13 @@ def write_scoring_log(
     ordered = []
     for rank_idx, batch_idx in enumerate(ranking, 1):
         r = batch[batch_idx]
-        mu0, sigma0, n0 = prior[r.path]
+        s0, v0, n0 = prior[r.path]
         ordered.append({
             'rank': rank_idx,
             'title': r.title,
             'path': r.path,
-            'prior_mu': round(mu0, 4),
-            'prior_sigma': round(sigma0, 4),
+            'prior_score': round(s0, 4),
+            'prior_variance': round(v0, 6),
             'prior_n': n0,
         })
 
@@ -300,18 +383,6 @@ def write_scoring_log(
     return path
 
 
-def apply_ranking(ranked: list[Rating]) -> None:
-    """Apply updates for a full ordered ranking (best first).
-
-    Uses adjacent-pair updates, which is the standard TrueSkill treatment of
-    a multi-competitor result.
-    """
-    for i in range(len(ranked) - 1):
-        update_pair(ranked[i], ranked[i + 1])
-    for r in ranked:
-        r.comparisons += 1
-
-
 # ---------------------------------------------------------------------------
 # Active selection
 # ---------------------------------------------------------------------------
@@ -323,14 +394,12 @@ def _country_key(path: str) -> str:
 
 
 def _weighted_sample(candidates: list[Rating], size: int, rng) -> list[Rating]:
-    """Efraimidis-Spirakis weighted reservoir sampling, weight ∝ sigma²."""
+    """Efraimidis-Spirakis weighted reservoir sampling, weight ∝ variance."""
     if len(candidates) <= size:
         return candidates
     keys = []
     for r in candidates:
-        w = r.sigma * r.sigma
-        if w <= 0:
-            w = 1e-9
+        w = max(r.variance, 1e-9)
         u = rng.random()
         key = math.log(u) / w if u > 0 else -math.inf
         keys.append((key, r))
@@ -339,43 +408,26 @@ def _weighted_sample(candidates: list[Rating], size: int, rng) -> list[Rating]:
 
 
 def select_batch(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None) -> list[Rating]:
-    """Pick `size` locations to compare next.
-
-    Strategy: weighted sampling without replacement, weight proportional to
-    sigma^2. This is uncertainty sampling — it spends API budget reducing
-    the posterior variance where it is largest. Brand new locations (still at
-    INITIAL_SIGMA) dominate early rounds; as the field converges, the
-    algorithm drifts toward locations whose ratings are still uncertain.
-    """
+    """Pick `size` locations weighted by variance (uncertainty sampling)."""
     rng = rng or random
     return _weighted_sample(list(state.ratings.values()), size, rng)
 
 
 def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None) -> list[Rating]:
-    """Pick a country weighted by uncertainty, then sample locations from it.
-
-    1. Group locations by country (continent/country prefix).
-    2. Pick a country with weight = sum of sigma² across its locations.
-    3. Sample up to `size` locations from that country by sigma².
-
-    Countries with fewer than 2 locations are skipped (can't rank 1 item).
-    """
+    """Pick a country weighted by total variance, then sample within it."""
     rng = rng or random
 
-    # Group by country
     by_country: dict[str, list[Rating]] = {}
     for r in state.ratings.values():
         key = _country_key(r.path)
         by_country.setdefault(key, []).append(r)
 
-    # Filter out countries with < 2 locations
     eligible = {k: v for k, v in by_country.items() if len(v) >= 2}
     if not eligible:
         return select_batch(state, size, rng)
 
-    # Pick a country weighted by total sigma²
     countries = list(eligible.keys())
-    weights = [sum(r.sigma ** 2 for r in eligible[c]) for c in countries]
+    weights = [sum(r.variance for r in eligible[c]) for c in countries]
     total = sum(weights)
     pick = rng.random() * total
     cumulative = 0.0
@@ -414,12 +466,20 @@ RANKING_SCHEMA = {
 _parent_title_cache: dict[str, str] = {}
 
 
-def _parent_context(path: str) -> str:
-    """Return the parent page's title from frontmatter.
+def _resolve_md_path(content_path: str) -> Path | None:
+    """Resolve a content path to its markdown file on disk."""
+    slug = content_path.rsplit('/', 1)[-1] if '/' in content_path else content_path
+    candidate = CONTENT_DIR / content_path / f'{slug}.md'
+    if candidate.is_file():
+        return candidate
+    candidate = CONTENT_DIR / f'{content_path}.md'
+    if candidate.is_file():
+        return candidate
+    return None
 
-    For 'europe/spain/astorga' the parent is 'europe/spain' → 'Spain'.
-    For 'northamerica/unitedstates/california/sanluisobispo' → 'California'.
-    """
+
+def _parent_context(path: str) -> str:
+    """Return the parent page's title from frontmatter."""
     if '/' not in path:
         return ''
     parent_path = path.rsplit('/', 1)[0]
@@ -436,16 +496,13 @@ def _parent_context(path: str) -> str:
         except Exception:
             pass
 
-    # Fallback: titlecase the last slug
     fallback = parent_path.rsplit('/', 1)[-1].replace('_', ' ').title()
     _parent_title_cache[parent_path] = fallback
     return fallback
 
 
 def build_prompt(batch: list[Rating]) -> str:
-    """Match the minimal free-text prompt that produced the consensus
-    ranking in the debug run, aside from 'rank' -> 'order' phrasing.
-    Each candidate is shown with its country for disambiguation."""
+    """Build the ranking prompt for a batch of locations."""
     lines = [
         f'Order these {len(batch)} travel destinations from best to '
         'worst as places to visit for a tourist:',
@@ -453,13 +510,11 @@ def build_prompt(batch: list[Rating]) -> str:
     ]
     for i, r in enumerate(batch):
         parts = r.path.split('/')
-        depth = len(parts)  # 1=continent, 2=country, 3+=sub-country
+        depth = len(parts)
         parent = _parent_context(r.path)
         if depth <= 2 or not parent or parent.lower() == r.title.lower():
-            # Continent or country: no extra context needed
             lines.append(f'- [{i}] {r.title}')
         else:
-            # Sub-country location: show parent, plus country if different
             country_path = '/'.join(parts[:2])
             country = _parent_title_cache.get(country_path)
             if country is None:
@@ -480,12 +535,7 @@ def build_prompt(batch: list[Rating]) -> str:
 
 
 def rank_with_claude(client, model: str, batch: list[Rating]) -> list[int] | None:
-    """Call Claude and return the ordering as a list of indices into `batch`.
-
-    Uses the API's structured outputs feature (output_config.format) to
-    guarantee the response is JSON matching RANKING_SCHEMA. Returns None
-    if the response cannot be parsed into a valid permutation.
-    """
+    """Call Claude and return the ordering as a list of indices into `batch`."""
     prompt = build_prompt(batch)
     response = client.messages.create(
         model=model,
@@ -519,7 +569,7 @@ def rank_with_claude(client, model: str, batch: list[Rating]) -> list[int] | Non
 # ---------------------------------------------------------------------------
 
 def cmd_run(args) -> None:
-    import anthropic  # imported lazily so `discover`/`top` work without the SDK
+    import anthropic
 
     state = State.load()
     if not state.ratings:
@@ -542,15 +592,14 @@ def cmd_run(args) -> None:
             if args.by_country is True:
                 batch = select_batch_by_country(state, BATCH_SIZE, rng)
             elif args.by_country:
-                # Specific prefix: filter to that prefix and sample by uncertainty
                 pool = [r for r in state.ratings.values()
                         if r.path.startswith(args.by_country.strip('/') + '/')
                         or r.path == args.by_country.strip('/')]
                 batch = _weighted_sample(pool, BATCH_SIZE, rng)
             else:
                 batch = select_batch(state, BATCH_SIZE, rng)
-            # Snapshot priors BEFORE the update so logs show what the model saw.
-            prior = {r.path: (r.mu, r.sigma, r.comparisons) for r in batch}
+
+            prior = {r.path: (r.score, r.variance, r.comparisons) for r in batch}
 
             try:
                 ranking = rank_with_claude(client, model, batch)
@@ -566,10 +615,13 @@ def cmd_run(args) -> None:
                 continue
 
             ranked = [batch[idx] for idx in ranking]
-            apply_ranking(ranked)
             state.rounds += 1
             write_scoring_log(log_dir, state.rounds, model, batch, ranking, prior)
-            state.save()
+
+            # Refit from all logs periodically (every 10 rounds) and at the end.
+            if (i + 1) % 10 == 0 or i + 1 == target_rounds:
+                fit_from_logs(state, log_dir)
+                state.save()
 
             best = ranked[0]
             worst = ranked[-1]
@@ -579,10 +631,10 @@ def cmd_run(args) -> None:
             elif args.by_country:
                 country_info = f' [{args.by_country}]'
             print(f'  round {state.rounds}{country_info}: '
-                  f'best={best.title!r} (mu={best.mu:.2f}) '
-                  f'worst={worst.title!r} (mu={worst.mu:.2f})')
+                  f'best={best.title!r} worst={worst.title!r}')
     except KeyboardInterrupt:
-        print('\nInterrupted. Progress saved.')
+        print('\nInterrupted. Refitting and saving...')
+        fit_from_logs(state, log_dir)
     finally:
         state.save()
 
@@ -591,17 +643,16 @@ def cmd_run(args) -> None:
 
 def _print_leaderboard(state: State, rows: list[Rating], reverse: bool) -> None:
     width = max((len(r.title) for r in rows), default=20)
-    path_width = max((len(r.path) for r in rows), default=20)
-    header = f'{"#":>4}  {"title":<{width}}  {"mu":>7}  {"sigma":>6}  {"n":>4}  path'
+    header = f'{"#":>4}  {"title":<{width}}  {"score":>7}  {"var":>8}  {"n":>4}  path'
     print(header)
     print('-' * len(header))
     for i, r in enumerate(rows, 1):
-        print(f'{i:>4}  {r.title:<{width}}  {r.mu:>7.2f}  {r.sigma:>6.2f}  '
+        print(f'{i:>4}  {r.title:<{width}}  {r.score:>7.3f}  {r.variance:>8.4f}  '
               f'{r.comparisons:>4}  {r.path}')
 
 
 def _filter_pool(state: State, args) -> list[Rating]:
-    """Filter the rating pool by --min-n and --country."""
+    """Filter the rating pool by --min-n and --prefix."""
     pool = list(state.ratings.values())
     if hasattr(args, 'prefix') and args.prefix:
         prefix = args.prefix.strip('/')
@@ -619,7 +670,7 @@ def cmd_top(args) -> None:
     pool = _filter_pool(state, args)
     rows = sorted(
         pool,
-        key=lambda r: r.conservative() if args.conservative else r.mu,
+        key=lambda r: r.conservative() if args.conservative else r.score,
         reverse=True,
     )[:args.n]
     _print_leaderboard(state, rows, reverse=True)
@@ -631,17 +682,14 @@ def cmd_bottom(args) -> None:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
     pool = _filter_pool(state, args)
-    # Conservative sort for `bottom` uses the UPPER credible bound:
-    # only locations whose best-case is still low are "confidently bad".
     rows = sorted(
         pool,
-        key=lambda r: (r.mu + 3 * r.sigma) if args.conservative else r.mu,
+        key=lambda r: (r.score + 2 * math.sqrt(r.variance)) if args.conservative else r.score,
     )[:args.n]
     _print_leaderboard(state, rows, reverse=False)
 
 
 DEBUG_BATCH = [
-    # (title, path) — path is used for parent-hierarchy disambiguation in the prompt
     ('Xalapa',          'northamerica/mexico/veracruz/xalapa'),
     ('Astorga',         'europe/spain/astorga'),
     ('Medan',           'asia/indonesia/sumatra/medan'),
@@ -658,16 +706,11 @@ DEBUG_BATCH = [
 
 
 def cmd_debug(args) -> None:
-    """Run a single round against a fixed 12-location batch and print the result.
-
-    Uses the same build_prompt() and rank_with_claude() code path that `run`
-    uses, so if this produces a sensible ordering, run should too.
-    """
+    """Send a hardcoded list to Claude and print the result."""
     import anthropic
 
     client = anthropic.Anthropic()
     model = args.model or DEFAULT_MODEL
-
     batch = [Rating(path=path, title=title) for title, path in DEBUG_BATCH]
 
     print(f'=== PROMPT ({model}) ===')
@@ -683,107 +726,21 @@ def cmd_debug(args) -> None:
         print(f'  {rank_pos:>2}. {r.title:<20}  [id={batch_idx}]  {r.path}')
 
 
-def _load_log_rounds(log_dir: Path, ratings: dict[str, Rating]) -> list[list[str]]:
-    """Load all round logs and return a list of path-lists (best-to-worst).
-
-    Each element is a list of content paths in ranked order, with unknown
-    paths already stripped out.
-    """
-    rounds = []
-    for log_file in sorted(log_dir.glob('round_*.json')):
-        data = json.loads(log_file.read_text())
-        paths = [e['path'] for e in data['order'] if e['path'] in ratings]
-        if len(paths) >= 2:
-            rounds.append(paths)
-    return rounds
-
-
-def _replay_once(state: State, rounds: list[list[str]]) -> None:
-    """Reset state to priors and replay all rounds in the given order."""
-    for r in state.ratings.values():
-        r.mu = INITIAL_MU
-        r.sigma = INITIAL_SIGMA
-        r.comparisons = 0
-    state.rounds = 0
-    state.api_calls = 0
-
-    for paths in rounds:
-        batch = [state.ratings[p] for p in paths]
-        apply_ranking(batch)
-        state.rounds += 1
-        state.api_calls += 1
-
-
 def cmd_replay(args) -> None:
-    """Replay JSON log files to rebuild ratings from scratch.
-
-    With --shuffle N, replays N times in random order and averages the
-    mu values. This cancels out ordering noise from the sequential updates.
-    """
+    """Refit Plackett-Luce model from all log files."""
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
         sys.exit(2)
 
     log_dir = Path(args.log_dir) if args.log_dir else LOG_DIR
-    rounds = _load_log_rounds(log_dir, state.ratings)
-    if not rounds:
-        print(f'No valid JSON log files in {log_dir}/', file=sys.stderr)
-        sys.exit(2)
-
-    n_shuffle = args.shuffle or 0
-    if n_shuffle < 2:
-        # Single deterministic replay (original order).
-        _replay_once(state, rounds)
-        state.save()
-        print(f'Replayed {len(rounds)} rounds.')
-        print(f'State: {state.rounds} rounds, {len(state.ratings)} locations.')
-        return
-
-    # Shuffle-and-average: replay N times in random order, average mu.
-    rng = random.Random(42)
-    mu_accum: dict[str, float] = {p: 0.0 for p in state.ratings}
-
-    for i in range(n_shuffle):
-        shuffled = list(rounds)
-        rng.shuffle(shuffled)
-        _replay_once(state, shuffled)
-        for p, r in state.ratings.items():
-            mu_accum[p] += r.mu
-        if (i + 1) % 10 == 0 or i + 1 == n_shuffle:
-            print(f'  shuffle {i + 1}/{n_shuffle} done')
-
-    # Write averaged mu back; keep sigma and comparisons from last replay
-    # (they're the same regardless of order).
-    for p, r in state.ratings.items():
-        r.mu = mu_accum[p] / n_shuffle
-
+    fit_from_logs(state, log_dir)
     state.save()
-    print(f'Replayed {len(rounds)} rounds × {n_shuffle} shuffles, averaged.')
-    print(f'State: {state.rounds} rounds, {len(state.ratings)} locations.')
-
-
-def _resolve_md_path(content_path: str) -> Path | None:
-    """Resolve a content path to its markdown file on disk."""
-    slug = content_path.rsplit('/', 1)[-1] if '/' in content_path else content_path
-    # Directory-style: content/europe/france/paris/paris.md
-    candidate = CONTENT_DIR / content_path / f'{slug}.md'
-    if candidate.is_file():
-        return candidate
-    # Flat-style: content/europe/france/paris.md
-    candidate = CONTENT_DIR / f'{content_path}.md'
-    if candidate.is_file():
-        return candidate
-    return None
+    print(f'Fitted {state.rounds} rounds across {len(state.ratings)} locations.')
 
 
 def cmd_apply(args) -> None:
-    """Write a normalized 0-1 score into each location's frontmatter.
-
-    The normalization maps the current min/max mu across all rated
-    locations (those with ≥ min_n comparisons) to 0.0 and 1.0,
-    rounding to 2 decimal places.
-    """
+    """Write a normalized 0-1 score into each location's frontmatter."""
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
@@ -795,15 +752,15 @@ def cmd_apply(args) -> None:
         print(f'No locations with >= {min_n} comparisons.', file=sys.stderr)
         sys.exit(2)
 
-    mu_min = min(r.mu for r in rated)
-    mu_max = max(r.mu for r in rated)
-    mu_range = mu_max - mu_min
-    if mu_range < 1e-9:
-        print('All rated locations have the same mu — nothing to normalize.',
+    s_min = min(r.score for r in rated)
+    s_max = max(r.score for r in rated)
+    s_range = s_max - s_min
+    if s_range < 1e-9:
+        print('All rated locations have the same score — nothing to normalize.',
               file=sys.stderr)
         sys.exit(2)
 
-    print(f'Normalizing mu [{mu_min:.2f}, {mu_max:.2f}] → [0.0, 1.0]')
+    print(f'Normalizing score [{s_min:.3f}, {s_max:.3f}] → [0.0, 1.0]')
 
     updated = 0
     skipped_n = 0
@@ -820,7 +777,7 @@ def cmd_apply(args) -> None:
             continue
 
         post = frontmatter.load(md_path)
-        score = round((r.mu - mu_min) / mu_range, 2)
+        score = round((r.score - s_min) / s_range, 2)
 
         if post.metadata.get('score') == score:
             continue
@@ -842,8 +799,8 @@ def cmd_stats(args) -> None:
         sys.exit(2)
 
     ratings = list(state.ratings.values())
-    mus = [r.mu for r in ratings]
-    sigmas = [r.sigma for r in ratings]
+    scores = [r.score for r in ratings]
+    variances = [r.variance for r in ratings]
     comparisons = [r.comparisons for r in ratings]
     unseen = sum(1 for c in comparisons if c == 0)
 
@@ -852,9 +809,9 @@ def cmd_stats(args) -> None:
     print(f'api calls:       {state.api_calls}')
     print(f'model:           {state.model}')
     print(f'unseen:          {unseen}')
-    print(f'mu  mean/min/max {sum(mus)/len(mus):.2f} / {min(mus):.2f} / {max(mus):.2f}')
-    print(f'sig mean/min/max {sum(sigmas)/len(sigmas):.2f} / {min(sigmas):.2f} / {max(sigmas):.2f}')
-    print(f'cmp mean/min/max {sum(comparisons)/len(comparisons):.2f} / '
+    print(f'score mean/min/max {sum(scores)/len(scores):.3f} / {min(scores):.3f} / {max(scores):.3f}')
+    print(f'var   mean/min/max {sum(variances)/len(variances):.4f} / {min(variances):.4f} / {max(variances):.4f}')
+    print(f'cmp   mean/min/max {sum(comparisons)/len(comparisons):.2f} / '
           f'{min(comparisons)} / {max(comparisons)}')
 
 
@@ -880,7 +837,7 @@ def main() -> None:
     p_run.add_argument('--rounds', type=int, required=True, help='Number of rounds to run')
     p_run.add_argument('--model', help=f'Claude model to use (default: {DEFAULT_MODEL})')
     p_run.add_argument('--seed', type=int, help='Random seed for batch selection')
-    p_run.add_argument('--log-dir', help=f'Directory for per-round markdown logs (default: {LOG_DIR})')
+    p_run.add_argument('--log-dir', help=f'Directory for per-round logs (default: {LOG_DIR})')
     p_run.add_argument('--by-country', nargs='?', const=True, default=False, metavar='PREFIX',
                        help='Rank within countries. Omit value to auto-pick by uncertainty, '
                             'or specify a prefix (e.g. europe/belgium) to target one country')
@@ -889,7 +846,7 @@ def main() -> None:
     p_top = sub.add_parser('top', help='Show the top-ranked locations')
     p_top.add_argument('n', type=int, nargs='?', default=25)
     p_top.add_argument('--conservative', action='store_true',
-                       help='Sort by mu - 3*sigma (penalise uncertain ratings)')
+                       help='Sort by score - 2*std (penalise uncertain ratings)')
     p_top.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_top.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
@@ -898,7 +855,7 @@ def main() -> None:
     p_bot = sub.add_parser('bottom', help='Show the bottom-ranked locations')
     p_bot.add_argument('n', type=int, nargs='?', default=25)
     p_bot.add_argument('--conservative', action='store_true',
-                       help='Sort by mu + 3*sigma (only confidently-bad locations)')
+                       help='Sort by score + 2*std (only confidently-bad locations)')
     p_bot.add_argument('--min-n', type=int, default=0,
                        help='Only include locations with at least this many comparisons')
     p_bot.add_argument('--prefix', help='Filter to a path prefix (e.g. europe, europe/belgium)')
@@ -907,14 +864,12 @@ def main() -> None:
     p_stats = sub.add_parser('stats', help='Show rating state summary')
     p_stats.set_defaults(func=cmd_stats)
 
-    p_debug = sub.add_parser('debug', help='Send a hardcoded 12-name list to Claude and print the raw answer')
+    p_debug = sub.add_parser('debug', help='Send a hardcoded list to Claude and print the raw answer')
     p_debug.add_argument('--model', help=f'Claude model to use (default: {DEFAULT_MODEL})')
     p_debug.set_defaults(func=cmd_debug)
 
-    p_replay = sub.add_parser('replay', help='Replay JSON logs to rebuild ratings from scratch')
+    p_replay = sub.add_parser('replay', help='Refit Plackett-Luce from all log files')
     p_replay.add_argument('--log-dir', help=f'Directory with JSON round logs (default: {LOG_DIR})')
-    p_replay.add_argument('--shuffle', type=int, metavar='N',
-                          help='Replay N times in random order and average mu (reduces ordering noise)')
     p_replay.set_defaults(func=cmd_replay)
 
     p_apply = sub.add_parser('apply', help='Write score field into each location\'s frontmatter')

@@ -393,28 +393,103 @@ def _country_key(path: str) -> str:
     return '/'.join(parts[:2]) if len(parts) >= 2 else path
 
 
-def _weighted_sample(candidates: list[Rating], size: int, rng) -> list[Rating]:
-    """Efraimidis-Spirakis weighted reservoir sampling, weight ∝ variance."""
-    if len(candidates) <= size:
-        return candidates
-    keys = []
-    for r in candidates:
-        w = max(r.variance, 1e-9)
-        u = rng.random()
-        key = math.log(u) / w if u > 0 else -math.inf
-        keys.append((key, r))
-    keys.sort(key=lambda kv: kv[0], reverse=True)
-    return [r for _, r in keys[:size]]
+def _build_comparison_graph(log_dir: Path, path_to_idx: dict[str, int]) -> dict[int, set[int]]:
+    """Build an adjacency list from round logs.
+
+    Two items are connected if they appeared in the same round.
+    """
+    adj: dict[int, set[int]] = {i: set() for i in range(len(path_to_idx))}
+    for log_file in log_dir.glob('round_*.json'):
+        data = json.loads(log_file.read_text())
+        indices = [path_to_idx[e['path']] for e in data['order'] if e['path'] in path_to_idx]
+        for i in range(len(indices)):
+            for j in range(i + 1, len(indices)):
+                adj[indices[i]].add(indices[j])
+                adj[indices[j]].add(indices[i])
+    return adj
 
 
-def select_batch(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None) -> list[Rating]:
-    """Pick `size` locations weighted by variance (uncertainty sampling)."""
+def _bfs_distances(adj: dict[int, set[int]], sources: set[int], n: int) -> list[int]:
+    """Multi-source BFS. Returns distance from nearest source for each node.
+
+    Unreachable nodes get distance n (effectively infinity).
+    """
+    dist = [n] * n
+    queue = []
+    for s in sources:
+        dist[s] = 0
+        queue.append(s)
+    head = 0
+    while head < len(queue):
+        node = queue[head]
+        head += 1
+        for neighbor in adj[node]:
+            if dist[neighbor] > dist[node] + 1:
+                dist[neighbor] = dist[node] + 1
+                queue.append(neighbor)
+    return dist
+
+
+def select_batch_from_graph(
+    adj: dict[int, set[int]],
+    ratings: list[Rating],
+    size: int = BATCH_SIZE,
+    rng: random.Random | None = None,
+) -> list[Rating]:
+    """Pick `size` locations that maximize comparison graph coverage.
+
+    Greedy selection: start with an unseen/weakly-connected item, then
+    repeatedly add the item with the highest minimum distance to the
+    current batch. This ensures every round adds maximally new information.
+    """
     rng = rng or random
-    return _weighted_sample(list(state.ratings.values()), size, rng)
+    n = len(ratings)
+    if n <= size:
+        return ratings
+
+    # Seed: pick an unseen item (no edges), or the item with fewest connections.
+    degrees = [(len(adj[i]), i) for i in range(n)]
+    degrees.sort()
+    seed = degrees[0][1]
+
+    batch_indices = {seed}
+    dist = _bfs_distances(adj, batch_indices, n)
+
+    for _ in range(size - 1):
+        # Pick the item with the highest minimum distance to the batch.
+        # Tie-break randomly to avoid deterministic bias.
+        best_dist = -1
+        candidates = []
+        for i in range(n):
+            if i in batch_indices:
+                continue
+            if dist[i] > best_dist:
+                best_dist = dist[i]
+                candidates = [i]
+            elif dist[i] == best_dist:
+                candidates.append(i)
+        if not candidates:
+            break
+        chosen = candidates[rng.randint(0, len(candidates) - 1)]
+        batch_indices.add(chosen)
+        # Update distances with new batch member via BFS from just this node.
+        new_dist = _bfs_distances(adj, {chosen}, n)
+        dist = [min(dist[i], new_dist[i]) for i in range(n)]
+
+    return [ratings[i] for i in batch_indices]
 
 
-def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None) -> list[Rating]:
-    """Pick a country weighted by total variance, then sample within it."""
+def update_graph(adj: dict[int, set[int]], indices: list[int]) -> None:
+    """Add edges for all pairs in a round (in-place graph update)."""
+    for i in range(len(indices)):
+        for j in range(i + 1, len(indices)):
+            adj[indices[i]].add(indices[j])
+            adj[indices[j]].add(indices[i])
+
+
+def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Random | None = None,
+                            log_dir: Path | None = None) -> list[Rating]:
+    """Pick a country with the most unseen/weakly-connected locations, then select within it."""
     rng = rng or random
 
     by_country: dict[str, list[Rating]] = {}
@@ -424,21 +499,30 @@ def select_batch_by_country(state: State, size: int = BATCH_SIZE, rng: random.Ra
 
     eligible = {k: v for k, v in by_country.items() if len(v) >= 2}
     if not eligible:
-        return select_batch(state, size, rng)
+        return select_batch(state, size, rng, log_dir)
 
-    countries = list(eligible.keys())
-    weights = [sum(r.variance for r in eligible[c]) for c in countries]
-    total = sum(weights)
-    pick = rng.random() * total
-    cumulative = 0.0
-    chosen = countries[0]
-    for c, w in zip(countries, weights):
-        cumulative += w
-        if cumulative >= pick:
-            chosen = c
-            break
+    # Pick country with the most unseen locations, tie-break by total variance.
+    def country_priority(locs):
+        unseen = sum(1 for r in locs if r.comparisons == 0)
+        total_var = sum(r.variance for r in locs)
+        return (unseen, total_var)
 
-    return _weighted_sample(eligible[chosen], size, rng)
+    chosen_key = max(eligible, key=lambda k: country_priority(eligible[k]))
+    pool = eligible[chosen_key]
+
+    if len(pool) <= size:
+        return pool
+
+    # Within the country, use variance-weighted sampling (graph-based
+    # selection is less useful within a small pool).
+    keys = []
+    for r in pool:
+        w = max(r.variance, 1e-9)
+        u = rng.random()
+        key = math.log(u) / w if u > 0 else -math.inf
+        keys.append((key, r))
+    keys.sort(key=lambda kv: kv[0], reverse=True)
+    return [r for _, r in keys[:size]]
 
 
 # ---------------------------------------------------------------------------
@@ -587,17 +671,28 @@ def cmd_run(args) -> None:
           f'({len(state.ratings)} locations, {state.rounds} rounds so far).')
     print(f'Logging each round to {log_dir}/')
 
+    # Build the comparison graph once; update incrementally after each round.
+    ratings_list = list(state.ratings.values())
+    path_to_idx = {r.path: i for i, r in enumerate(ratings_list)}
+    adj = _build_comparison_graph(log_dir, path_to_idx)
+    print(f'Comparison graph: {sum(len(v) for v in adj.values())//2} edges')
+
     try:
         for i in range(target_rounds):
             if args.by_country is True:
-                batch = select_batch_by_country(state, BATCH_SIZE, rng)
+                batch = select_batch_by_country(state, BATCH_SIZE, rng, log_dir)
             elif args.by_country:
+                prefix = args.by_country.strip('/')
                 pool = [r for r in state.ratings.values()
-                        if r.path.startswith(args.by_country.strip('/') + '/')
-                        or r.path == args.by_country.strip('/')]
-                batch = _weighted_sample(pool, BATCH_SIZE, rng)
+                        if r.path.startswith(prefix + '/') or r.path == prefix]
+                if len(pool) <= BATCH_SIZE:
+                    batch = pool
+                else:
+                    rng_local = rng or random
+                    rng_local.shuffle(pool)
+                    batch = pool[:BATCH_SIZE]
             else:
-                batch = select_batch(state, BATCH_SIZE, rng)
+                batch = select_batch_from_graph(adj, ratings_list, BATCH_SIZE, rng)
 
             prior = {r.path: (r.score, r.variance, r.comparisons) for r in batch}
 
@@ -617,6 +712,10 @@ def cmd_run(args) -> None:
             ranked = [batch[idx] for idx in ranking]
             state.rounds += 1
             write_scoring_log(log_dir, state.rounds, model, batch, ranking, prior)
+
+            # Update the comparison graph with the new round's edges.
+            batch_idx = [path_to_idx[r.path] for r in batch]
+            update_graph(adj, batch_idx)
 
             # Refit from all logs periodically (every 10 rounds) and at the end.
             if (i + 1) % 10 == 0 or i + 1 == target_rounds:

@@ -367,43 +367,42 @@ RANKING_SCHEMA = {
 }
 
 
-_COUNTRY_SLUG_FIXUPS = {
-    'unitedstates': 'United States',
-    'unitedkingdom': 'United Kingdom',
-    'unitedarabemirates': 'United Arab Emirates',
-    'newzealand': 'New Zealand',
-    'southafrica': 'South Africa',
-    'southkorea': 'South Korea',
-    'northkorea': 'North Korea',
-    'costarica': 'Costa Rica',
-    'puertorico': 'Puerto Rico',
-    'dominicanrepublic': 'Dominican Republic',
-    'czechrepublic': 'Czech Republic',
-    'saudiarabia': 'Saudi Arabia',
-    'srilanka': 'Sri Lanka',
-    'elsalvador': 'El Salvador',
-    'faroeislands': 'Faroe Islands',
-    'ivorycoast': 'Ivory Coast',
-    'sierraleone': 'Sierra Leone',
-    'burkinafaso': 'Burkina Faso',
-    'papuanewguinea': 'Papua New Guinea',
-}
+_country_title_cache: dict[str, str] = {}
 
 
 def _country_context(path: str) -> str:
-    """Return a human-friendly country name inferred from the path.
+    """Return the country name from its frontmatter title.
 
-    Paths look like continent/country/[region/]*/place. We take the second
-    segment as the country. Returns '' if the path has fewer than 2 segments
-    (i.e. the location IS a continent).
+    Paths look like continent/country/[region/]*/place. We resolve the
+    second segment to its markdown file and read the title. Results are
+    cached so each country file is read at most once.
     """
     parts = path.split('/')
     if len(parts) < 2:
         return ''
-    slug = parts[1]
-    if slug in _COUNTRY_SLUG_FIXUPS:
-        return _COUNTRY_SLUG_FIXUPS[slug]
-    return slug.replace('_', ' ').title()
+    country_slug = parts[1]
+
+    if country_slug in _country_title_cache:
+        return _country_title_cache[country_slug]
+
+    # Try continent/country/country.md then continent/country.md
+    continent = parts[0]
+    for candidate in [
+        CONTENT_DIR / continent / country_slug / f'{country_slug}.md',
+        CONTENT_DIR / continent / f'{country_slug}.md',
+    ]:
+        if candidate.is_file():
+            try:
+                title = frontmatter.load(candidate).metadata.get('title', '')
+                _country_title_cache[country_slug] = title
+                return title
+            except Exception:
+                break
+
+    # Fallback: just titlecase the slug
+    fallback = country_slug.replace('_', ' ').title()
+    _country_title_cache[country_slug] = fallback
+    return fallback
 
 
 def build_prompt(batch: list[Rating]) -> str:
@@ -412,7 +411,7 @@ def build_prompt(batch: list[Rating]) -> str:
     Each candidate is shown with its country for disambiguation."""
     lines = [
         f'Order these {len(batch)} travel destinations from best to '
-        'worst as places to visit:',
+        'worst as places to visit for a tourist:',
         '',
     ]
     for i, r in enumerate(batch):

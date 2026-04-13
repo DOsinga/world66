@@ -1,8 +1,14 @@
 ---
-title: "Benevento"
-type: location
+done:
+  location_cleanup: '2026-04-12'
 latitude: 41.247631
 longitude: 14.705705
+title: Benevento
+type: location
+image: benevento.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Trajan_(Benevento)_01.jpg
+image_license: CC0
+image_attribution: Bernard Gagnon
 ---
 
 Benevento is an inland city in northern Campania, about 55 km northeast of Naples. It is largely overlooked by tourists despite having one of the most significant collections of ancient remains in southern Italy. The city was an important Samnite town, later a major Roman city on the Appian Way, and the capital of a Lombard duchy in the early medieval period.

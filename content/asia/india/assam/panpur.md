@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-12'
 latitude: 26.7167
 longitude: 90.9167
 title: Panpur

@@ -5,6 +5,10 @@ latitude: 39.9933
 longitude: 15.7189
 title: Costa di Maratea
 type: location
+image: costa_di_maratea.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Costamarateamarina.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Luca Luongo
 ---
 
 The Costa di Maratea is Basilicata's only stretch of coastline — roughly 30 kilometres of dramatic cliffs, hidden coves, and clear Tyrrhenian water wedged between Calabria to the south and Campania to the north. It is one of southern Italy's least-known coastal areas, which is precisely its appeal.

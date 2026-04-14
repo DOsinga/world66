@@ -1,12 +1,14 @@
 ---
-title: Cortina d'Ampezzo
-type: location
+done:
+  location_cleanup: '2026-04-14'
+image: cortina_dampezzo.jpg
+image_attribution: Tiia Monto
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2019_Cortina_d%27Ampezzo.jpg
 latitude: 46.538333
 longitude: 12.137351
-image: cortina_dampezzo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2019_Cortina_d%27Ampezzo.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Tiia Monto
+title: Cortina d'Ampezzo
+type: location
 ---
 
 Cortina d'Ampezzo sits in a broad alpine valley surrounded by the jagged peaks of the Dolomites, and it looks the part. The town hosted the 1956 Winter Olympics and has been a playground for Italian skiers and European celebrities ever since. The setting is genuinely dramatic — rose-tinted rock towers rise on every side, and the light at sunset turns them shades of pink and orange that photographs never quite capture.

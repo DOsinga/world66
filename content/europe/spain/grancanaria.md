@@ -5,6 +5,7 @@ latitude: 27.958
 longitude: -15.6062
 title: Gran Canaria
 type: location
+score: 0.71
 ---
 
 Gran Canaria is often called a miniature continent, and the description is earned. In a single day you can drive from the golden dunes of Maspalomas in the south, through pine forests and volcanic ridges in the mountainous interior, to the lush green valleys of the north. Few islands this small pack in so much variety.

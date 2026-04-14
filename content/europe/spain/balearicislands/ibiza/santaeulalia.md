@@ -5,6 +5,7 @@ latitude: 38.9847
 longitude: 1.5328
 title: Santa Eulalia
 type: location
+score: 0.65
 ---
 
 Santa Eulàlia del Riu is the third-largest town on [Ibiza](/europe/spain/balearicislands/ibiza), on the east coast about 15 km from Ibiza Town. It is quieter and more family-friendly than the island's party centres, with a pleasant hilltop church looking down over the old town and harbour.

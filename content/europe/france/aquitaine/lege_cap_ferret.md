@@ -5,6 +5,7 @@ latitude: 44.795105
 longitude: -1.14721
 title: Lege Cap Ferret
 type: location
+score: 0.58
 ---
 
 The Lège-Cap Ferret peninsula (presqu'île) is a thin strip of land separating the Bassin d'Arcachon from the Atlantic Ocean, and it contains some of the finest ocean beaches in the southwest of France. On one side, the calm waters of the bassin are perfect for oysters and sailing; on the other, the open Atlantic delivers long, powerful surf.

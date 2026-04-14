@@ -5,6 +5,7 @@ latitude: 34.615807
 longitude: 43.678606
 title: Tikrit
 type: location
+score: 0.19
 ---
 
 Tikrit is a city on the Tigris River in Saladin Governorate, roughly 160 km north of Baghdad. It was the birthplace of Saddam Hussein and is associated with the Sunni Arab community that dominated Iraqi politics under his rule.

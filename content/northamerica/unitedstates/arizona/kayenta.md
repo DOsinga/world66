@@ -5,6 +5,7 @@ latitude: 36.715
 longitude: -110.2461
 title: Kayenta
 type: location
+score: 0.47
 ---
 
 Kayenta is a small Navajo Nation town on US-163, deep in the red-rock country of northeastern Arizona. It's the main base for Monument Valley Navajo Tribal Park, about 25 miles to the north — those sandstone mittens you've seen in a hundred Westerns. Without Kayenta, most visitors would have nowhere sensible to sleep before or after the park.

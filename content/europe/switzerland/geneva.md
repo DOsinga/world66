@@ -5,6 +5,7 @@ latitude: 46.2018
 longitude: 6.1466
 done:
   location_cleanup: 2026-04-06
+score: 0.71
 ---
 
 Geneva is a small city with a disproportionate presence in global affairs — home to the United Nations European headquarters, the Red Cross, WHO, CERN, and dozens of other international organisations. It sits at the western end of Lake Geneva (Lac Léman) where the Rhône flows out, with the Alps visible on clear days and the French border within walking distance of the centre.

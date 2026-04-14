@@ -5,6 +5,7 @@ latitude: 14.5886
 longitude: -88.5822
 title: Gracias
 type: location
+score: 0.43
 ---
 
 Gracias is a quiet colonial town in the mountains of western [Honduras](/northamerica/honduras), founded in 1536 and briefly the capital of all Central America. It sits at the foot of Celaque, the country's highest peak at 2,849 metres, and serves as the gateway to Parque Nacional Montaña de Celaque — one of the best cloud forest hikes in Honduras.

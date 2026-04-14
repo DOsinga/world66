@@ -5,6 +5,7 @@ latitude: 45.642726
 longitude: 13.05467
 title: Bibione
 type: location
+score: 0.53
 ---
 
 Bibione is a seaside resort on the northern Adriatic coast, about an hour's drive east of [Venice](/europe/italy/veneto/venice). The town exists almost entirely for beach tourism — an eight-kilometre stretch of wide, fine sand backed by a solid wall of hotels, apartments, and holiday parks. It is extremely popular with German and Austrian families, and in summer the beach is packed.

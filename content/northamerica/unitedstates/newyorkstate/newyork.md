@@ -5,6 +5,7 @@ latitude: 40.712728
 longitude: -74.006015
 done:
   location_cleanup: 2026-04-05
+score: 0.88
 ---
 
 New York City is five boroughs, eight million people, and an argument that has never quite been settled. It is overwhelming in the best possible way: dense, loud, expensive, and unlike anywhere else. You can spend weeks here and still feel like you've barely scratched the surface, which is partly the point.

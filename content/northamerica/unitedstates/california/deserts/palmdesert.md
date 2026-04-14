@@ -5,6 +5,7 @@ latitude: 33.7228
 longitude: -116.3826
 title: Palm Desert
 type: location
+score: 0.46
 ---
 
 Palm Desert sits in the Coachella Valley at the foot of the Santa Rosa Mountains, about 15 miles southeast of Palm Springs. It has the sun-bleached swagger of a wealthy resort town — manicured golf courses, open-air shopping on El Paseo, and the kind of winter warmth that draws Canadians south in droves — but it also has one of the best wildlife parks in California.

@@ -9,6 +9,7 @@ image: pahalgam.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg
 image_license: CC BY-SA 3.0
 image_attribution: KennyOMG
+score: 0.6
 ---
 
 Pahalgam sits at the confluence of the Lidder and Sheshnag rivers at 2,130 m, about 96 km east of Srinagar. It is the main trekking base in the Kashmir Valley and the starting point for the annual Amarnath pilgrimage, one of the most significant Hindu pilgrimages in India.

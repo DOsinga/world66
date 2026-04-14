@@ -5,6 +5,7 @@ latitude: 28.782535
 longitude: -82.606527
 title: Homosassa
 type: location
+score: 0.42
 ---
 
 Homosassa is a small community on Florida's Nature Coast, where the Homosassa River runs clear and cool from natural springs into the Gulf of Mexico. The area is best known for Florida manatees, which gather in the warm spring-fed waters year-round but are most visible in winter when sea temperatures drop.

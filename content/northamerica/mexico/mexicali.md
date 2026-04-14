@@ -5,6 +5,7 @@ latitude: 32.624531
 longitude: -115.452604
 title: Mexicali
 type: location
+score: 0.36
 ---
 
 Mexicali is the capital of Baja California and one of Mexico's major border cities, sitting directly across from Calexico, California. It is a working city rather than a tourist destination, which gives it an authenticity that the resort towns further south lack.

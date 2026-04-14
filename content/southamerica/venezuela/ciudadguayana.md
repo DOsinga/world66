@@ -5,6 +5,7 @@ latitude: 8.322376
 longitude: -62.689662
 title: Ciudad Guayana
 type: location
+score: 0.25
 ---
 
 Ciudad Guayana sits at the confluence of the Orinoco and Caroní rivers in Bolívar state. It is an industrial city — planned and built in the 1960s around heavy manufacturing (steel, aluminum, hydropower) — and is not a destination in itself. Most travelers pass through on the way south toward the Gran Sabana and the Brazilian border, or as a connection point for flights and buses to [Ciudad Bolívar](/southamerica/venezuela/ciudadbolivar).

@@ -1,6 +1,7 @@
 ---
-title: "anis yaroo khosa"
+title: anis yaroo khosa
 type: location
+score: 0.16
 ---
 
 Travel Guide

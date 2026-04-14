@@ -5,6 +5,7 @@ latitude: 61.481959
 longitude: -6.746296
 title: Porkeri
 type: location
+score: 0.44
 ---
 
 Porkeri is a small village on the east coast of Suðuroy, the southernmost of the Faroe Islands, situated between Hov to the north and Vágur to the south. The population is around 330. Like most Faroese villages, it sits at the edge of the sea with steep hillsides rising behind it.

@@ -1,8 +1,9 @@
 ---
-title: 'Tulsa'
+title: Tulsa
 type: location
 latitude: 36.156312
 longitude: -95.992752
+score: 0.42
 ---
 
 Located northeast of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) on Route 66, Tulsa is the second city of the state and a good starting point for exploring Green Country, the lush northeastern corner of Oklahoma.

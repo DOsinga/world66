@@ -5,6 +5,7 @@ latitude: 18.943411
 longitude: 96.423054
 title: Ngapali
 type: location
+score: 0.53
 ---
 
 Ngapali Beach is one of the most beautiful stretches of coast in [Myanmar](/asia/myanmar) — kilometres of unspoilt white sand fringed with coconut palms and backed by the blue hills of Rakhine State. Unlike the overdeveloped beaches of Southeast Asia, Ngapali remains quiet and low-key, with a handful of small resorts and local fishing villages along the shore.

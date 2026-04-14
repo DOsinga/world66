@@ -5,6 +5,7 @@ latitude: 42.4167
 longitude: -7.6167
 title: Ribeira Sacra
 type: location
+score: 0.57
 ---
 
 The Ribeira Sacra is a wine region carved into the steep gorges of the Miño and Sil rivers in inland [Galicia](/europe/spain/galicia). The name — "sacred bank" — comes from the concentration of Romanesque monasteries and churches that dot the hillsides, built when this was one of the most important monastic centres in medieval Iberia.

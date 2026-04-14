@@ -5,6 +5,7 @@ latitude: 52.341767
 longitude: 4.797749
 title: Sloten
 type: location
+score: 0.43
 ---
 
 Sloten (Sleat in Frisian) is one of the smallest and most picturesque towns in [Friesland](/europe/netherlands/friesland). A single canal runs through the centre, lined with old houses, and the town gate and cannon are still intact. If you want to know what a Dutch town looked like before it grew into a city, this is the place.

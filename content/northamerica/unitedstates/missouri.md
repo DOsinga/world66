@@ -1,8 +1,9 @@
 ---
-title: "Missouri"
+title: Missouri
 type: location
 latitude: 38.760481
 longitude: -92.561787
+score: 0.37
 ---
 
 There are many things to do and see in Missouri, so don't just visit [St. Louis](/northamerica/unitedstates/missouri/stlouis) and skip the rest.

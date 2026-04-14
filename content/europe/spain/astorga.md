@@ -5,6 +5,7 @@ latitude: 42.4554
 longitude: -6.0529
 title: Astorga
 type: location
+score: 0.53
 ---
 
 Astorga is a small Roman city on the Camino de Santiago in the León province of northwest Spain. It's compact enough to walk in an afternoon but has two things worth going out of your way for: a medieval cathedral and, right next to it, an extraordinary neo-Gothic bishop's palace designed by Antoni Gaudí. The palace looks like something dreamed up for a fairy tale — all turrets and pointed arches in cream-coloured stone — and it now houses a museum of the Camino.

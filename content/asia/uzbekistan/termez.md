@@ -5,6 +5,7 @@ latitude: 37.2442
 longitude: 67.2832
 title: Termez
 type: location
+score: 0.34
 ---
 
 Uzbekistan's southernmost city sits right on the Afghan border, where the Amu Darya marks the line between the two countries. Termez is one of the hottest cities in Central Asia — summer temperatures routinely hit 45–50°C — and one of the least visited by travellers, which is genuinely a shame.

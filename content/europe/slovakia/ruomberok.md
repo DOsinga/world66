@@ -5,6 +5,7 @@ latitude: 49.0816
 longitude: 19.3034
 done:
   location_cleanup: 2026-04-07
+score: 0.44
 ---
 
 Ružomberok sits in a broad valley where the Váh and Revúca rivers meet, hemmed in by the Greater Fatra mountains, the Low Tatras, and the jagged limestone peaks of Chočské vrchy. It is not a postcard town — a paper mill dominates the skyline and the communist-era housing blocks are hard to miss — but it is an honest working town with real character, and the surroundings are spectacular.

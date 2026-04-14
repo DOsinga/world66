@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Pjmon
   class="new" title="User:Pjmonline2000 (page does not exist)">Peter James McNally</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.47
 ---
 
 Norfolk island was virtually uninhabited when, in 1774, Captain James Cook fell across it. If you see how small the island is and how big the Ocean around, you understand that a bit of luck was involved, even if you take into account that Cook was a great explorer.

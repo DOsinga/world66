@@ -5,6 +5,7 @@ latitude: 36.398987
 longitude: 118.505569
 done:
   location_cleanup: 2026-04-05
+score: 0.46
 ---
 
 Shandong is one of the historical cradles of Chinese civilisation — a flat, densely populated province on the Yellow Sea coast between Beijing and Shanghai, best known as the birthplace of **Confucius** and **Sun Tzu**. Both men were born here within a century of each other, and their ideas — one shaping Chinese ethics for 2,500 years, the other shaping its military thinking — still give Shandong a certain weight in the Chinese imagination. The province is also the origin of two of China's most famous exports: silk and Tsingtao beer.

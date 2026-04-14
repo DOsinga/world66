@@ -5,6 +5,7 @@ latitude: 10.960411
 longitude: 79.382086
 title: Kumbakonam
 type: location
+score: 0.48
 ---
 
 Kumbakonam is a temple town in the Cauvery Delta, 40 km east of Thanjavur, and one of the most concentrated clusters of Dravidian temples in India. The town has over a dozen significant temples within walking distance of each other, including the Sarangapani Temple, the Kumbheshwarar Temple, and the Nageshwarar Temple — each with gopurams rising above the town's rooftops.

@@ -5,6 +5,7 @@ latitude: 29.912351
 longitude: 78.008718
 done:
   location_cleanup: 2026-04-07
+score: 0.5
 ---
 
 Haridwar is one of the seven sacred cities of Hinduism, sitting at the point where the Ganges descends from the Himalayan foothills onto the plains of Uttar Pradesh. Its name means "Gateway to the Gods" — it is the last major town before the road divides toward Rishikesh and the high mountains of the Char Dham pilgrimage. Every evening, the Ganga Aarti ceremony at Har Ki Pauri ghat draws thousands of pilgrims: oil lamps are set afloat on the river in a ritual that has been performed here for centuries.

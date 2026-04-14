@@ -5,6 +5,7 @@ latitude: 9.6615
 longitude: 80.0255
 title: Jaffna
 type: location
+score: 0.52
 ---
 
 Jaffna is the cultural capital of Tamil Sri Lanka, a city that spent decades cut off by civil war but has roared back to life since 2009. The northern peninsula feels distinctly different from the rest of the island -- the food is spicier, the temples more ornate, and the pace of life has its own rhythm. You will find a city proud of its Tamil heritage and genuinely happy to see visitors.

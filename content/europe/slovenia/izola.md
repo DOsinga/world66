@@ -5,6 +5,7 @@ latitude: 45.539894
 longitude: 13.65939
 title: Izola
 type: location
+score: 0.52
 ---
 
 Izola is a small fishing town on Slovenia's short Adriatic coast, wedged between [Koper](/europe/slovenia/koper) and [Piran](/europe/slovenia/piran). It lacks Piran's postcard-perfect Venetian architecture, but that is part of its charm — Izola is quieter, less polished, and more genuinely lived-in. The old town sits on what was once an island (the connecting causeway was filled in centuries ago), and the narrow streets and pastel-coloured houses still have an Italian feel.

@@ -5,6 +5,7 @@ latitude: 41.9983
 longitude: 12.0992
 title: Cerveteri
 type: location
+score: 0.54
 ---
 
 Cerveteri, ancient Caere, is one of the most important Etruscan sites in Italy and well worth the short detour from [Rome](/europe/italy/lazio/rome) or [Tarquinia](/europe/italy/lazio/tarquinia). The Necropoli della Banditaccia — a vast city of the dead — is where most of the Etruscan objects now filling the museums of Rome and beyond were excavated.

@@ -5,6 +5,7 @@ latitude: 37.413754
 longitude: -79.142246
 title: Lynchburg
 type: location
+score: 0.42
 ---
 
 We currently have no information about Lynchburg.

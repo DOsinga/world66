@@ -5,6 +5,7 @@ latitude: 0.8281
 longitude: -77.6414
 title: Ipiales
 type: location
+score: 0.48
 ---
 
 Ipiales is a border town in the far south of Colombia, right on the line with Ecuador. It has the feel of most border crossings — busy, transactional, not somewhere you'd linger by choice. The Rumichaca bridge to Tulcán is the main land crossing between the two countries, and most travellers pass through quickly in one direction or the other.

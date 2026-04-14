@@ -5,6 +5,7 @@ latitude: 47.0667
 longitude: 6.35
 title: Rivers of the Doubs
 type: location
+score: 0.52
 ---
 
 The Département of Doubs is home to some of the finest river scenery in France. While the [Loue valley](/europe/france/east/franchecomte/loue_valley) deserves its fame, four other rivers cut outstanding gorges through the Jura limestone: the Doubs itself, the Lison, the Hérisson, and the Dessoubre.

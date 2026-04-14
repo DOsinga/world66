@@ -5,6 +5,7 @@ latitude: 44.032116
 longitude: 8.050223
 title: Casanova Lerrone
 type: location
+score: 0.41
 ---
 
 Casanova Lerrone is a quiet farming town in the upper valley of the Lerrone River, inland from the Ligurian coast. Its history is typical of the small fiefdoms that changed hands repeatedly between Genoa's noble families — Del Carretto, Clavesana, Laigueglia, Negroni — and it was the centre of a short-lived uprising against Genoa in 1763–64, prompted by excessive taxation.

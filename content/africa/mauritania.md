@@ -10,6 +10,7 @@ latitude: 20.254
 longitude: -10.9408
 title: Mauritania
 type: location
+score: 0.23
 ---
 
 Mauritania is one of those countries that still rewards the genuinely curious traveller. Most of it is Sahara — vast, empty, and strikingly beautiful. The northwest is dominated by the Adrar plateau and its ancient desert towns, now UNESCO World Heritage sites. The Atlantic coast offers remarkable wildlife. The southeast holds the ruins of an empire most people have never heard of.

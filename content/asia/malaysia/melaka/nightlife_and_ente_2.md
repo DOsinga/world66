@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 title: Nightlife and Entertainment
 type: location
+score: 0.43
 ---
 
 Honky Tonk Haven Cafe

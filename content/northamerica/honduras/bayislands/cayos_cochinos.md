@@ -5,6 +5,7 @@ latitude: 15.96
 longitude: -86.48
 title: Cayos Cochinos
 type: location
+score: 0.6
 ---
 
 Cayos Cochinos (Hog Islands) is a small archipelago of two main islands and thirteen coral cays between [Roatan](/northamerica/honduras/roatan) and the northern coast of Honduras. The islands are a marine protected area, and the surrounding reef is some of the healthiest in the Caribbean — the coral cover here is notably better than around the more-visited Bay Islands.

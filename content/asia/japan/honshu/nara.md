@@ -5,6 +5,7 @@ latitude: 34.6851
 longitude: 135.805
 title: Nara
 type: location
+score: 0.77
 ---
 
 Nara was Japan's first permanent capital, founded in 710 and modelled on the Tang Chinese city of Chang'an. For barely seventy years it served as the seat of imperial power before the court moved to Kyoto — but those decades were enough to produce some of the greatest Buddhist monuments in the country. Today Nara is a compact, manageable city that rewards a day or two's wandering, and it is far less crowded than Kyoto.

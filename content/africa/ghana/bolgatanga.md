@@ -5,6 +5,7 @@ latitude: 10.785396
 longitude: -0.848732
 title: Bolgatanga
 type: location
+score: 0.35
 ---
 
 Bolgatanga -- "Bolga" to everyone -- is the capital of the Upper East Region and the main town in Ghana's far north. It is hot, dusty, and distinctly different from the south, with a strong Muslim influence and Sahelian architecture of flat-roofed mud compounds.

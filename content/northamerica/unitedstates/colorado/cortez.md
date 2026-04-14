@@ -5,6 +5,7 @@ latitude: 37.3495
 longitude: -108.5841
 title: Cortez
 type: location
+score: 0.47
 ---
 
 Cortez sits in the southwest corner of Colorado, surrounded by high desert and the ancient landscape of the Four Corners region. Its main draw is as the gateway to Mesa Verde National Park, where the Ancestral Puebloans built their cliff dwellings into the canyon walls around 1,400 years ago — Mesa Verde is one of the most significant pre-Columbian archaeological sites in North America and is worth at least a full day.

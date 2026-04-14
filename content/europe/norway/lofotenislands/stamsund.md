@@ -5,6 +5,7 @@ latitude: 68.130075
 longitude: 13.849229
 title: Stamsund
 type: location
+score: 0.61
 ---
 
 Stamsund is a fishing village on the island of Vestvågøy in [Lofoten](/europe/norway/lofotenislands), with about 1,400 inhabitants. It remains an active fishing port — the harbour, the drying racks, and the rorbuer (fishermen's cabins) along the waterfront give the place its character.

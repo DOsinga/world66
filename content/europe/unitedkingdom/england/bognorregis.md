@@ -5,6 +5,7 @@ latitude: 50.7835
 longitude: -0.6731
 title: Bognor Regis
 type: location
+score: 0.37
 ---
 
 Bognor Regis is a small seaside town on the West Sussex coast, about 80 kilometres south of London. It earned its royal suffix in 1929 when King George V recuperated here after a serious illness — a distinction the town has clung to ever since, though its character is firmly that of an unpretentious British seaside resort rather than anything regal.

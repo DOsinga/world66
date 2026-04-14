@@ -5,6 +5,7 @@ latitude: -5.1945
 longitude: -80.6328
 title: Piura
 type: location
+score: 0.46
 ---
 
 Founded in 1532, Piura is older than [Lima](/southamerica/peru/lima), the capital of Peru. Located on the banks of the Piura river, the city is charming, with colonial buildings and new structures blending together around several pleasant parks.

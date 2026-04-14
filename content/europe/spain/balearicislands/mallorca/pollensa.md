@@ -5,6 +5,7 @@ latitude: 39.879207
 longitude: 3.01571
 title: Pollensa
 type: location
+score: 0.68
 ---
 
 Pollença is a small inland town in the northeastern corner of Mallorca, set at the foot of the Tramuntana mountains. It has the feel of a genuinely lived-in Mallorcan town rather than a resort — cobbled streets, a Roman bridge, a large plane-tree-shaded main square, and a weekly Sunday market that attracts both locals and visitors.

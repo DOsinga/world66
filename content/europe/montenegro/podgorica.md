@@ -5,6 +5,7 @@ latitude: 42.441524
 longitude: 19.262108
 title: Podgorica
 type: location
+score: 0.45
 ---
 
 Podgorica is Montenegro's capital and largest city, with about 200,000 people — roughly a third of the country's population in one place. It's the administrative and economic centre, and despite its modest size, it has a genuine city feel: universities, embassies, a reasonable café culture, and some decent restaurants.

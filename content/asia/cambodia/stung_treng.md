@@ -5,6 +5,7 @@ latitude: 13.5253
 longitude: 105.9686
 title: Stung Treng
 type: location
+score: 0.35
 ---
 
 Stung Treng is a small provincial capital on the Mekong in northeastern Cambodia, close to the Lao border. Most travellers pass through on their way between Laos and the rest of Cambodia, but it is worth a stop.

@@ -5,6 +5,7 @@ latitude: 29.1081
 longitude: 21.2869
 title: Awjila
 type: location
+score: 0.2
 ---
 
 Awjila (also written Awjilah, Aujila, or Augila) is a historic oasis deep in the Libyan desert, about 260 km south of [Agedabia](/africa/libya/agedabia). For centuries it sat at the crossroads of the great east-west North African caravan routes and the north-south routes from the coast into sub-Saharan Africa, making it one of the most important stops in the Saharan trade network.

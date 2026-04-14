@@ -5,6 +5,7 @@ latitude: 33.749495
 longitude: -117.873221
 title: Santa Ana
 type: location
+score: 0.34
 ---
 
 Santa Ana is the county seat of [Orange County](/northamerica/unitedstates/california/orangecounty) and one of the most densely populated cities in the United States. Its downtown has undergone a quiet revival, with a growing arts district centred on the Artists Village along Second Street, where galleries, theatres and murals share space with taquerias and Vietnamese restaurants.

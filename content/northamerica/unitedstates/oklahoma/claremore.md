@@ -1,10 +1,11 @@
 ---
-title: "Claremore"
+title: Claremore
 type: location
 latitude: 36.3126
 longitude: -95.6161
 done:
   location_cleanup: '2026-04-09'
+score: 0.33
 ---
 
 Located on historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m) in Rogers County, Claremore is a small Oklahoma city of nearly 16,000 people best known as the home of Will Rogers, the Cherokee-born cowboy, humorist, and film star who became one of the most popular figures in 1930s America.

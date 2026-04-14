@@ -5,6 +5,7 @@ latitude: 47.25306
 longitude: 0.301449
 title: Usse
 type: location
+score: 0.59
 ---
 
 If you are a prince searching for your Sleeping Beauty, look no further. It is here at the Château d'Ussé that Charles Perrault supposedly found his inspiration for the famous fairy tale — and looking at the château from across the Indre river, with its towers, turrets, and white tufa walls rising against a backdrop of dark forest, it is easy to see why. Whether or not the story is literally true, the château is as beautiful as can be.

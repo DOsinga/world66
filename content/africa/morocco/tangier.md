@@ -5,6 +5,7 @@ latitude: 35.7596
 longitude: -5.834
 done:
   location_cleanup: 2026-04-02
+score: 0.59
 ---
 
 Tangier sits at the northwestern tip of Africa, where the Mediterranean meets the Atlantic and Europe shimmers on the horizon. For centuries this position made it a crossroads of civilizations, a free port, and an international zone where anything went. The old reputation for intrigue has faded, but the city's restless energy has not.

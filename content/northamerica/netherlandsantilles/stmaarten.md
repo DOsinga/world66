@@ -5,6 +5,7 @@ latitude: 18.0425
 longitude: -63.0548
 done:
   location_cleanup: 2026-04-06
+score: 0.67
 ---
 
 St Maarten / Saint-Martin is the smallest island in the world shared between two nations: the southern Dutch side (Sint Maarten) and the northern French side (Saint-Martin). The whole island is barely 87 square kilometres, and you can drive around it in under an hour — but the two halves have genuinely different characters. The Dutch side, with the capital Philipsburg, is the cruise-ship and casino half: duty-free shopping on Front Street, beach bars on Great Bay, and a nightlife scene concentrated on the Boardwalk and the Simpson Bay strip. The French side is quieter, more upscale, and more European: better restaurants, topless beaches (Baie Orientale is the famous one), and the lovely harbour town of Marigot.

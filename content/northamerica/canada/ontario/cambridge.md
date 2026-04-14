@@ -5,6 +5,7 @@ latitude: 43.3601
 longitude: -80.3123
 title: Cambridge
 type: location
+score: 0.4
 ---
 
 Cambridge sits at the confluence of the Grand and Speed rivers in Ontario's Region of Waterloo, about an hour west of Toronto. It was formed in 1973 by merging three older communities — Galt, Preston, and Hespeler — and that layered history is still visible on the ground. Walk through Galt's downtown and you'll find a compact Victorian streetscape built mostly of local limestone, unusually intact for a city of this size.

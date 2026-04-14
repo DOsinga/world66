@@ -5,6 +5,7 @@ latitude: 21.152747
 longitude: -86.842576
 done:
   location_cleanup: 2026-04-05
+score: 0.59
 ---
 
 Cancun delivers on the basics: white sand that stays cool underfoot, warm Caribbean water in shades of turquoise, and more Mayan ruins within two hours' drive than most people can visit in a week. The Hotel Zone (Zona Hotelera) is exactly what you'd expect — a 15-mile strip of international resorts, chain restaurants, and nightclubs — while Cancun City (Ciudad Cancun) to the west is a genuine Mexican town with a market, local restaurants, and lower prices.

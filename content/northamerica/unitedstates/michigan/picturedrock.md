@@ -5,6 +5,7 @@ latitude: 46.5635
 longitude: -90.6882
 title: Pictured Rocks
 type: location
+score: 0.57
 ---
 
 Pictured Rocks National Lakeshore was the first national lakeshore in the United States, designated in 1966, and it remains one of the most dramatic stretches of shoreline in the Great Lakes. For more than 40 miles, multicolored sandstone cliffs drop straight into Lake Superior — mineral seepage stains them in streaks of copper green, iron red, and manganese black, giving the park its name.

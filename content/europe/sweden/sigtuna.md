@@ -5,6 +5,7 @@ latitude: 59.6165
 longitude: 17.7236
 done:
   location_cleanup: 2026-04-06
+score: 0.54
 ---
 
 Sigtuna claims to be Sweden's oldest town, founded around 980 AD as a royal stronghold on the shores of Lake Mälaren. Whether the claim is strictly accurate or not, the town feels ancient — a single main street of low wooden houses, handicraft shops, and cafes leads past ruined medieval churches to the tiny Sigtuna Rådhus, said to be Sweden's smallest city hall.

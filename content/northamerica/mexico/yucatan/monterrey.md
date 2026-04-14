@@ -5,6 +5,7 @@ latitude: 25.680202
 longitude: -100.315258
 title: Monterrey
 type: location
+score: 0.35
 ---
 
 Monterrey is Mexico's third-largest city and its industrial powerhouse — the capital of Nuevo León, ringed by the dramatic peaks of the Sierra Madre Oriental. This is not the laid-back, colonial Mexico of the tourist brochures. Monterrey is modern, wealthy, fast-moving, and proudly distinct from the rest of the country.

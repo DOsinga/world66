@@ -5,6 +5,7 @@ latitude: 47.534878
 longitude: -122.043297
 title: Issaquah
 type: location
+score: 0.42
 ---
 
 Issaquah sits about 16 miles east of Seattle at the base of the Cascade foothills, right off Interstate 90. It's an easy day trip or overnight stop if you're heading into the mountains, and it has more going for it than most Seattle suburbs.

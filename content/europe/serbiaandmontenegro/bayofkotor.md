@@ -5,6 +5,7 @@ latitude: 42.4833
 longitude: 18.6833
 title: Bay of Kotor
 type: location
+score: 0.76
 ---
 
 The Bay of Kotor — Boka Kotorska in Montenegrin — is one of the most dramatic stretches of coastline in the Mediterranean. The bay cuts deep into the mountains, forming a series of connected inlets that look from above like a fjord misplaced from Norway. The water is still and dark, the limestone peaks rise sharply above the shoreline, and the old Venetian towns along the edge are some of the best-preserved in the Adriatic.

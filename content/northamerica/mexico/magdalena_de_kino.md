@@ -5,6 +5,7 @@ latitude: 30.6269
 longitude: -110.9615
 title: Magdalena de Kino
 type: location
+score: 0.34
 ---
 
 A prosperous small city of around 25,000 people, Magdalena de Kino sits 80 km south of Nogales and the Arizona border on Mexico's national route 15. Most travelers rush through — a mistake. The town has a genuine and compelling story to tell, one that touches on the colonial mission era, indigenous pilgrimage traditions, and one of modern Mexico's most mourned political tragedies.

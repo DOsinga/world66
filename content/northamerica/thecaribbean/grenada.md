@@ -5,6 +5,7 @@ latitude: 12.1165
 longitude: -61.679
 title: Grenada
 type: location
+score: 0.62
 ---
 
 Just south of [Saint Vincent and the Grenadines](/northamerica/thecaribbean/saintvincentandthegrenadines), Grenada's main claim to fame is the American intervention in the early 1980s. Those days of turmoil are far behind it now, and the island has settled into being one of the Caribbean's most appealing destinations — lush, unhurried, and genuinely friendly.

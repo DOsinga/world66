@@ -5,6 +5,7 @@ latitude: 41.511
 longitude: -112.0155
 title: Brigham City
 type: location
+score: 0.37
 ---
 
 Brigham City is a quiet county seat at the northern end of Utah's Wasatch Front, backed by the Wasatch Mountains and fronting the broad flats that slope toward the Great Salt Lake. With a population of around 17,000, it has the feel of a rural market town — family farms ring the outskirts and the pace is unhurried.

@@ -5,6 +5,7 @@ latitude: 42.1084
 longitude: -72.0808
 title: Sturbridge
 type: location
+score: 0.44
 ---
 
 Sturbridge is a small town in south-central Massachusetts, best known as the home of Old Sturbridge Village — a living history museum that recreates life in an early 19th-century New England community. Costumed interpreters demonstrate period crafts, farming, and domestic life across a 200-acre site with nearly 40 original buildings. It's one of the most visited outdoor history museums in New England.

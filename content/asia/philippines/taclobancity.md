@@ -1,8 +1,9 @@
 ---
-title: "Tacloban City"
+title: Tacloban City
 type: location
 latitude: 11.243621
 longitude: 125.007954
+score: 0.43
 ---
 
 Travel Guide

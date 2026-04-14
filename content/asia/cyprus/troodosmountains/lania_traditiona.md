@@ -5,6 +5,7 @@ latitude: 34.85
 longitude: 32.8167
 done:
   location_cleanup: 2026-04-06
+score: 0.47
 ---
 
 Lania sits on the southern slopes of the Troodos Mountains, about 26 km from [Limassol](/asia/cyprus/limassol), right on the road that climbs from the coast into the highlands. It is one of the traditional wine villages of Cyprus, and it looks the part: stone houses, narrow lanes, flowers spilling from every wall.

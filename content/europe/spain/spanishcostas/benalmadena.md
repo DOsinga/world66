@@ -5,6 +5,7 @@ latitude: 36.594519
 longitude: -4.572284
 title: Benalmadena
 type: location
+score: 0.58
 ---
 
 Benalmádena is a resort town on the Costa del Sol between Torremolinos and Fuengirola, about 20 minutes west of Málaga. It divides into three distinct parts: the pueblo (old village) up in the hills, Arroyo de la Miel (the main residential and commercial centre), and the costa (the beachfront strip with hotels, bars, and the marina).

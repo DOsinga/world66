@@ -5,6 +5,7 @@ latitude: 30.003536
 longitude: -91.818729
 title: New Iberia
 type: location
+score: 0.36
 ---
 
 New Iberia sits in the heart of Cajun Country, along Bayou Teche in southern Louisiana. It is a small, unhurried city where the French-speaking Acadian heritage still runs deep -- in the food, the music, and the easygoing pace of life along the bayou.

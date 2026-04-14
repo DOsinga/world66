@@ -1,10 +1,11 @@
 ---
-title: "Las Palmas"
+title: Las Palmas
 type: location
 latitude: 28.1289
 longitude: -15.4349
 done:
   location_cleanup: 2026-04-07
+score: 0.65
 ---
 
 Las Palmas de Gran Canaria is the capital and largest city of the Canary Islands, situated on the northeastern tip of Gran Canaria. It tends to be overlooked by visitors who head straight for the resorts in the sunny south of the island — which is their loss. Las Palmas is a proper Spanish city with a life of its own: busy streets, real bars, good food, and a beach that's considerably more pleasant than anything in the tourist belt.

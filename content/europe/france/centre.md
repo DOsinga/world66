@@ -1,8 +1,9 @@
 ---
-title: "Centre"
+title: Centre
 type: location
 latitude: 47.549025
 longitude: 1.732406
+score: 0.44
 ---
 
 [Chartres](/europe/france/centre/chartres) is both an ideal daytrip from Paris and a good first step to visit central France. The city itself has one of the most beautiful medieval cathedrals in the world and more wonders of the world are close at hand.

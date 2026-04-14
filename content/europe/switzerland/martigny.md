@@ -1,6 +1,7 @@
 ---
-title: "Martigny"
+title: Martigny
 type: location
 latitude: 46.103115
 longitude: 7.072735
+score: 0.59
 ---

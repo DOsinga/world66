@@ -5,6 +5,7 @@ latitude: 43.159566
 longitude: -4.087838
 title: Cantabria
 type: location
+score: 0.61
 ---
 
 Cantabria is one of Spain's best-kept secrets. Tucked along the northern coast between Asturias and the Basque Country, it offers dramatic coastline, green mountains, and a refreshing absence of crowds. The Picos de Europa spill into its western edge, prehistoric cave art dots the hillsides, and the beaches rival anything on the Mediterranean — minus the package tourists.

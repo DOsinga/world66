@@ -5,6 +5,7 @@ latitude: 51.381386
 longitude: -2.359696
 done:
   location_cleanup: 2026-04-06
+score: 0.68
 ---
 
 Bath is a beautiful Roman city nestled in the heart of Somerset. Its rolling hills and limestone facades have been attracting visitors for centuries.

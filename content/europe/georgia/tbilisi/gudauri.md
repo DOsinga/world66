@@ -5,6 +5,7 @@ latitude: 42.4766
 longitude: 44.477
 title: Gudauri
 type: location
+score: 0.51
 ---
 
 Gudauri is Georgia's main ski resort, perched at around 2,200 metres on the south-facing slopes of the Greater Caucasus, about two hours' drive north of [Tbilisi](/europe/georgia/tbilisi) along the Georgian Military Highway. The resort has runs for all levels — from gentle nursery slopes to serious off-piste terrain — and the snow season typically runs from December to April.

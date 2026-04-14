@@ -5,6 +5,7 @@ latitude: 21.333
 longitude: -71.2
 title: Salt Cay
 type: location
+score: 0.55
 ---
 
 Salt Cay is a tiny island in the Turks and Caicos — just over 6 square kilometres, with a permanent population of around 100 people. For centuries the island's economy was built on salt, raked from shallow ponds and exported to North America. The salt industry collapsed in the 1960s, and today the island moves at a pace that makes the rest of the Turks and Caicos look busy.

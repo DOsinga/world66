@@ -5,6 +5,7 @@ latitude: 44.775687
 longitude: 14.734712
 title: Rab Island
 type: location
+score: 0.67
 ---
 
 Rab is one of the most beautiful islands in the Kvarner Gulf, a green, forested island with sandy beaches — a rarity on the Croatian coast — and a perfectly preserved medieval old town. The town of Rab sits on a narrow peninsula, its skyline defined by four bell towers rising above terracotta roofs, and its streets lined with Renaissance palaces, churches dating from the eleventh to the sixteenth century, and quiet stone lanes.

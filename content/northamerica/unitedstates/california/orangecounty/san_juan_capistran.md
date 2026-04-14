@@ -5,6 +5,7 @@ latitude: 33.5012
 longitude: -117.6626
 title: San Juan Capistrano
 type: location
+score: 0.51
 ---
 
 San Juan Capistrano is the oldest town in Orange County, and it shows. While the rest of Southern California races toward the next development, this small city has kept its historic core intact — Spanish colonial architecture, a crumbling adobe mission, and a walkable downtown that feels genuinely old rather than theme-park old.

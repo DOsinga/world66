@@ -5,6 +5,7 @@ latitude: 3.8667
 longitude: 17.9833
 title: M'Baïki
 type: location
+score: 0.15
 ---
 
 M'Baïki is the capital of Lobaye Prefecture in the Central African Republic, situated about 100 kilometres southwest of [Bangui](/africa/centralafricanrepublic/bangui) and not far east of [Zinga](/africa/centralafricanrepublic/zinga) near the Congo border. It sits in the heart of the CAR's coffee-growing region, surrounded by a landscape of equatorial forest and plantation agriculture.

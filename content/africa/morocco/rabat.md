@@ -1,8 +1,9 @@
 ---
-title: "Rabat"
+title: Rabat
 type: location
 latitude: 34.021845
 longitude: -6.840893
+score: 0.57
 ---
 
 About a million people live in the capital Rabat and its sister city Sale, but wandering around the Medina, the Kasbah or the Modern Town this is not the impression you get. Life is easy. Not many people harrass you. Shopowners are very nice. 

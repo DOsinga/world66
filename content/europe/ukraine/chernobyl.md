@@ -5,6 +5,7 @@ latitude: 51.2706
 longitude: 30.2196
 title: Chernobyl
 type: location
+score: 0.42
 ---
 
 Just 100 km north of [Kyiv](/europe/ukraine/kyiv), Chernobyl is the site of the worst nuclear disaster in human history. On 26 April 1986, Reactor No. 4 of the Chernobyl Nuclear Power Plant exploded during a safety test, releasing radioactive material across Europe. The Soviet government evacuated around 350,000 people from the surrounding 30 km Exclusion Zone — most of whom never returned.

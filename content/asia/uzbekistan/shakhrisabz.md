@@ -5,6 +5,7 @@ latitude: 39.0053
 longitude: 67.1135
 title: Shakhrisabz
 type: location
+score: 0.51
 ---
 
 Shakhrisabz is Tamerlane's hometown — the place where Amir Timur was born in 1336 and where he intended to be buried. For a ruler who built one of history's great empires and left monuments all over Central Asia, it's fitting that his birthplace is a modest Uzbek town where locals still outnumber tourists by a comfortable margin. That's part of what makes it worth visiting.

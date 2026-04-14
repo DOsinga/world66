@@ -5,6 +5,7 @@ latitude: 30.36742
 longitude: -89.092816
 title: Gulfport
 type: location
+score: 0.39
 ---
 
 Gulfport is the second-largest city in Mississippi, sitting on the Gulf of Mexico just west of Biloxi. The two cities run together along the coast, sharing a stretch of white sand beach that faces the Mississippi Sound and the barrier islands beyond.

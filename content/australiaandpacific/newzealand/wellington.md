@@ -5,6 +5,7 @@ latitude: -41.2866
 longitude: 174.7756
 title: Wellington
 type: location
+score: 0.65
 ---
 
 Wellington is New Zealand's capital and, by most accounts, its most liveable city. Compact, hilly, and perpetually windswept, it sits at the southern tip of the North Island where Cook Strait funnels gales off the Tasman Sea. The locals have embraced the weather as part of their identity — they call themselves "Wellingtonians" with genuine pride.

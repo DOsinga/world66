@@ -5,6 +5,7 @@ latitude: -12.8275
 longitude: 45.1662
 title: Mayotte
 type: location
+score: 0.45
 ---
 
 Mayotte is geographically part of the Comoros archipelago but politically part of France -- it voted to remain French when the other islands chose independence in 1974, and became a full French department in 2011. This creates a surreal contrast: European-standard roads and supermarkets sit alongside traditional villages and one of the most spectacular lagoons on earth.

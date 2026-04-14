@@ -5,6 +5,7 @@ latitude: 52.824694
 longitude: -2.007455
 title: Staffordshire
 type: location
+score: 0.39
 ---
 
 Staffordshire is one of those English counties that most visitors drive through without stopping — which is a shame, because there is more here than meets the eye. The Potteries around Stoke-on-Trent still produce some of England's finest ceramics, and factory tours at Wedgwood and Emma Bridgewater are genuinely worth your time.

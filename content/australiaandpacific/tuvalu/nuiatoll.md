@@ -5,6 +5,7 @@ latitude: -7.238
 longitude: 177.148
 title: Nui Atoll
 type: location
+score: 0.35
 ---
 
 Nui is one of Tuvalu's nine atolls, located roughly in the centre of the island chain. It is among the more isolated of the group, with a small population spread across a few islets around the lagoon. The main community is the village of Tanrake.

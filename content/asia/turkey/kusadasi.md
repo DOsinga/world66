@@ -5,6 +5,7 @@ latitude: 37.8596
 longitude: 27.257
 done:
   location_cleanup: 2026-04-05
+score: 0.58
 ---
 
 Kuşadası is a cruise-ship port and beach resort on Turkey's central Aegean coast, best known as the closest port to the ruins of Ephesus. The name means "Bird Island," after the small Pigeon Island (Güvercinada) just off the shore, which carries the ruins of a 16th-century fortress the locals call the Pirate Castle. The town itself has grown massively over the last thirty years — from a quiet fishing village into one of Turkey's busiest resorts — and on a summer day when several cruise ships are in port the harbour area can feel overwhelming. But the setting is genuinely pretty, and it is an unbeatable base for exploring one of the richest archaeological landscapes in the world.

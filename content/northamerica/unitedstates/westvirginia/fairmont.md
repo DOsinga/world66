@@ -5,6 +5,7 @@ latitude: 39.484898
 longitude: -80.142654
 title: Fairmont
 type: location
+score: 0.31
 ---
 
 Fairmont sits at the confluence of the Monongahela, Tygart Valley, and West Fork rivers in the rolling hills of north-central West Virginia. It is the county seat of Marion County and a small, pleasant town of about 20,000 people.

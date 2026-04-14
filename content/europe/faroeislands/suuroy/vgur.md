@@ -5,6 +5,7 @@ latitude: 61.473886
 longitude: -6.811462
 title: Vágur
 type: location
+score: 0.51
 ---
 
 Vágur is one of the largest towns on Suðuroy, the southernmost island in the Faroes. It sits on the east coast around Vágsfjørður, between the villages of Porkeri and Lopra. About 1,370 people live here.

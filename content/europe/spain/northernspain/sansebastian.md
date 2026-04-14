@@ -5,6 +5,7 @@ latitude: 43.3224
 longitude: -1.9839
 title: San Sebastián
 type: location
+score: 0.76
 ---
 
 San Sebastián (Donostia in Basque) has one of the most beautiful urban settings in Europe. The city curves around the Bay of La Concha, a near-perfect crescent of sand sheltered by the green hills of Monte Urgull and Monte Igueldo, with the tiny island of Santa Clara sitting in the middle of the bay. The view from either hill is reason enough to visit.

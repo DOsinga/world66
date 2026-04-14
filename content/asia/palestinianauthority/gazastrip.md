@@ -5,6 +5,7 @@ latitude: 31.3547
 longitude: 34.3088
 title: Gaza Strip
 type: location
+score: 0.11
 ---
 
 The Gaza Strip is a narrow territory on the eastern Mediterranean coast, bordered by Egypt to the south and Israel to the north and east. It is one of the most densely populated places on earth, home to over two million people in an area of just 365 square kilometres.

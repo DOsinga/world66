@@ -1,8 +1,9 @@
 ---
-title: "Moscow"
+title: Moscow
 type: location
 latitude: 55.625578
 longitude: 37.606392
+score: 0.57
 ---
 
 **Moscow** is one of the oldest and one of the most beautiful Russian cities.

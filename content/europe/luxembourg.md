@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Libreravi" title="
   Dwivedi</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.64
 ---
 
 The Grand Duchy of Luxembourg is one of Europe's smallest countries and quietly one of its most interesting. Wedged between Belgium, Germany, and France, it covers just 2,586 square kilometres — slightly smaller than Rhode Island — yet contains a genuine capital city, four distinct regions of countryside, a UNESCO-listed fortress, fine medieval castles, some of the best hiking in the Benelux, and a wine region that deserves more attention than it gets.

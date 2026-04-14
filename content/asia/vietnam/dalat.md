@@ -5,6 +5,7 @@ latitude: 11.940242
 longitude: 108.437576
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 Dalat is Vietnam's mountain retreat — a city of pine forests, flower farms, and French colonial villas perched at 1500m in the Central Highlands of Lam Dong province. While the rest of southern Vietnam sweats, Dalat stays cool and misty, which is why the French built it as a hill station in the early 20th century and why Vietnamese couples still come here for honeymoons.

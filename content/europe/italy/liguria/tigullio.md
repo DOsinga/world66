@@ -5,6 +5,7 @@ latitude: 44.27264
 longitude: 9.396492
 title: Tigullio
 type: location
+score: 0.58
 ---
 
 The Tigullio Gulf is the eastern arc of the Ligurian Riviera, a string of beautiful small towns between [Portofino](/europe/italy/liguria/portofino) and Sestri Levante. The coastline here is gentler than the Cinque Terre to the south — sheltered bays, palm-lined promenades and pastel harbours.

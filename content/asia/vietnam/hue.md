@@ -1,8 +1,9 @@
 ---
-title: "Hue"
+title: Hue
 type: location
 latitude: 16.463932
 longitude: 107.586339
+score: 0.67
 ---
 
 Hue is located 660 km from [Hanoi](/asia/vietnam/hanoi) and 1080 km from [Saigon](/asia/vietnam/saigon), Hue has always been considered the fulcrum of Vietnam's two rice baskets, the Red river delta and the Mekong delta. The ancient capital of the Annamese people Hue used to be even greater than it is today. The Tet offensive during the Vietnam war and the counteroffensive that followed it destroyed many of the old palaces.

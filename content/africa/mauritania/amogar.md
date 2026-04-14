@@ -5,6 +5,7 @@ latitude: 20.45
 longitude: -13.1
 title: Amogar
 type: location
+score: 0.18
 ---
 
 Amogjar is the mountain pass between Atar and Chinguetti. The road is not always good but the views are rewarding. Near the Amogjar Pass ancient rock paintings are found.

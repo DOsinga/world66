@@ -5,6 +5,7 @@ latitude: 11.16669
 longitude: 123.718882
 title: Bantayan
 type: location
+score: 0.52
 ---
 
 Bantayan is an island municipality off the northern tip of Cebu, reached by a ferry crossing from Hagnaya Wharf. It is far quieter than the resort strip around Cebu City, and its beaches — particularly the long white-sand stretch at Santa Fe's Kota Beach — are among the finest in the Visayas. The water is shallow and calm, the crowds are manageable outside Holy Week, and the pace is resolutely unhurried.

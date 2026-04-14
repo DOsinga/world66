@@ -5,6 +5,7 @@ latitude: 33.919642
 longitude: 134.250963
 title: Tokushima
 type: location
+score: 0.58
 ---
 
 The first major city beyond the Akashi Kaikyo-Ohashi bridge, Tokushima is a small but modern city on the northeast coast of Shikoku. It is best known for the **Awa-Odori** festival, held during the Obon period in mid-August and sometimes called Japan's Mardi Gras. For three days the city's population explodes — during the day it is quiet, but once dusk comes, thousands of people pour into the streets to drink, dance, and watch the dancing groups called *ren*. Hotel rooms are impossible to find during the festival, so book well in advance.

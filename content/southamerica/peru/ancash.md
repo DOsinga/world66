@@ -5,6 +5,7 @@ latitude: -9.5
 longitude: -77.75
 title: Ancash
 type: location
+score: 0.57
 ---
 
 Ancash is a region in northern Peru that contains some of the most spectacular mountain scenery in South America. The Cordillera Blanca — the highest tropical mountain range in the world — runs through it, with over 30 peaks above 6,000 metres including Huascarán at 6,768m. Huascarán National Park, a UNESCO World Heritage Site, covers the heart of the range.

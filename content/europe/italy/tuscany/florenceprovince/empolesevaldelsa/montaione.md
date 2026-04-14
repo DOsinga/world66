@@ -5,6 +5,7 @@ latitude: 43.552937
 longitude: 10.912773
 title: Montaione
 type: location
+score: 0.51
 ---
 
 Montaione is a small medieval hill town in the Valdelsa, halfway between Florence and Volterra. It sees far fewer visitors than its neighbours, which is part of the appeal — this is workaday Tuscany, not postcard Tuscany, though the views from the old centre are postcard-worthy all the same.

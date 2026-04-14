@@ -5,6 +5,7 @@ latitude: 63.734757
 longitude: -148.885135
 done:
   location_cleanup: 2026-04-07
+score: 0.74
 ---
 
 Denali National Park and Preserve covers six million acres — roughly the size of Massachusetts — in the heart of Alaska, 237 miles north of Anchorage and 120 miles south of Fairbanks. No park in North America offers so complete a wilderness ecosystem accessible to the average visitor. Grizzly bears, moose, caribou, wolves, Dall sheep, and dozens of other species roam the tundra plains and boreal forests with almost no human infrastructure in the way.

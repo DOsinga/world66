@@ -5,6 +5,7 @@ latitude: 8.479
 longitude: -13.268
 done:
   location_cleanup: 2026-04-07
+score: 0.3
 ---
 
 Freetown is the capital and by far the largest city in [Sierra Leone](/africa/sierraleone), home to about a third of the country's population. It is not a city you will fall in love with immediately — it is dense, noisy, and congested, built on steep hills running down to the Atlantic, with a geography that makes traffic a constant ordeal. But it has real energy and a distinct Krio character that sets it apart from other West African capitals.

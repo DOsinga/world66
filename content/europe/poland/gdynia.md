@@ -9,6 +9,7 @@ latitude: 54.516498
 longitude: 18.540274
 title: Gdynia
 type: location
+score: 0.48
 ---
 
 Gdynia is the youngest of the Tri-City trio — together with [Gdańsk](/europe/poland/gdansk) and [Sopot](/europe/poland/sopot), it forms a continuous urban strip along the Bay of Gdańsk on Poland's Baltic coast. While Gdańsk has medieval streets and Sopot has its seaside promenade, Gdynia's identity is rooted in the 20th century. The city was built almost from scratch in the 1920s after Poland regained independence and needed its own port. The result is a city with a striking collection of modernist architecture and a harbour that still feels like the engine of the place.

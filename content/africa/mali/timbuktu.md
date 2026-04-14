@@ -5,6 +5,7 @@ latitude: 16.7716
 longitude: -3.0087
 done:
   location_cleanup: 2026-04-06
+score: 0.41
 ---
 
 In the West, Timbuktu means "the ends of the earth." For centuries no European saw it and returned alive. The reality, when you finally arrive, is quieter than the legend -- a small sand-colored town at the edge of the Sahara where the desert meets the Niger River's floodplain.

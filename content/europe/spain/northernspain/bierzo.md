@@ -5,6 +5,7 @@ latitude: 42.6527
 longitude: -6.6232
 title: El Bierzo
 type: location
+score: 0.52
 ---
 
 El Bierzo is a comarca tucked into the far northwest corner of León province, cupped by mountains on three sides and open toward Galicia on the fourth. Geographically and culturally it sits between worlds — the meseta of Castile to the east, the green hills of Galicia to the west — and that in-between quality gives it a character unlike either neighbour.

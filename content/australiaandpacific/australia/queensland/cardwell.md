@@ -5,6 +5,7 @@ latitude: -18.2706
 longitude: 146.0164
 title: Cardwell
 type: location
+score: 0.44
 ---
 
 Cardwell is a small coastal town on Queensland's Tropical North coast, sitting between the Pacific Highway and the Coral Sea about halfway between Townsville and Cairns. With a population of around 1,200, it moves at a pace that matches the surrounding tropics.

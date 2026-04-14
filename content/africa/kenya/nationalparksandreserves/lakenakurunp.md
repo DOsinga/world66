@@ -5,6 +5,7 @@ latitude: -0.3667
 longitude: 36.0833
 title: Lake Nakuru National Park
 type: location
+score: 0.66
 ---
 
 Lake Nakuru is a shallow soda lake in Kenya's Rift Valley, famous for the vast flocks of flamingos that sometimes line its shores — at peak times, the lake can be ringed in pink. The national park surrounding it is compact but rich in wildlife, and it is one of Kenya's most visited parks.

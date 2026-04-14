@@ -5,6 +5,7 @@ latitude: 46.623943
 longitude: 14.307598
 title: Klagenfurt
 type: location
+score: 0.59
 ---
 
 Klagenfurt is the capital of Carinthia (Kärnten), Austria's southernmost province, and it carries the easy confidence of a city that knows it sits in one of the most beautiful corners of the Alps. Legend says the city was founded after brave townspeople slew the Lindwurm, a dragon that terrorized the moors — the beast still looms large in civic identity, immortalized in a famous fountain on the central Neuer Platz.

@@ -5,6 +5,7 @@ latitude: 13.45535
 longitude: -16.575646
 title: Banjul
 type: location
+score: 0.44
 ---
 
 Banjul is The Gambia's capital, though it barely feels like one. Situated on St Mary's Island at the mouth of the Gambia River, it was founded by the British in 1816 as a trading post and has never grown into a big city. The population is small -- most of the urban sprawl has moved to neighbouring Serekunda and the coastal resort towns. What Banjul offers is a compact, walkable centre with genuine West African character.

@@ -5,6 +5,7 @@ latitude: 49.188
 longitude: -2.104
 title: St Helier
 type: location
+score: 0.52
 ---
 
 St Helier is the capital of [Jersey](/europe/channelislands/jersey) and home to about a third of the island's population. It sits on the south coast around a natural harbour, with Elizabeth Castle standing on a tidal island at the entrance — accessible on foot at low tide or by amphibious ferry when the water comes in.

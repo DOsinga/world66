@@ -5,6 +5,7 @@ latitude: 20.6717
 longitude: 83.4846
 done:
   location_cleanup: 2026-04-06
+score: 0.29
 ---
 
 Balangir is a district in western [Odisha](/asia/india/orissa), flanked by the Gandhamardan hills to the northwest and the rocky Mahanadi river to the northeast. It is hot, dry, and deeply historical — the kind of place where ancient temples stand quietly in fields and the past feels close to the surface.

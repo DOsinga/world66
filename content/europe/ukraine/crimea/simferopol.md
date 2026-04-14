@@ -5,6 +5,7 @@ latitude: 44.9522
 longitude: 34.1024
 title: Simferopol
 type: location
+score: 0.41
 ---
 
 Simferopol is the administrative capital of [Crimea](/europe/ukraine/crimea) and the peninsula's main transport hub. Most travellers pass through on their way to the southern coast — to [Yalta](/europe/ukraine/crimea/yalta), Sevastopol, or the beaches — but the city has enough to fill a half day if you are changing buses or trains.

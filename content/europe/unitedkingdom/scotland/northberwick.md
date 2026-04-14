@@ -1,6 +1,7 @@
 ---
-title: "North Berwick"
+title: North Berwick
 type: location
 latitude: 56.058118
 longitude: -2.720913
+score: 0.56
 ---

@@ -5,6 +5,7 @@ latitude: 20.967076
 longitude: -89.62374
 title: Merida
 type: location
+score: 0.67
 ---
 
 Merida is the capital of [Yucatan](/northamerica/mexico/yucatan) state and the cultural hub of the entire peninsula. Founded in 1542 by the Spanish conquistador Francisco de Montejo on the ruins of the Maya city of T’ho, it is a handsome colonial city of low-rise limestone buildings, shaded plazas, and streets that come alive in the evening.

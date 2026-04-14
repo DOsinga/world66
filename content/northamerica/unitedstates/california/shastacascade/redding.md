@@ -5,6 +5,7 @@ latitude: 40.586356
 longitude: -122.391675
 title: Redding
 type: location
+score: 0.4
 ---
 
 Redding is the gateway to California's far north, sitting in the Sacramento Valley where the Sacramento River flows out of the mountains. It is not a destination in itself for most travellers, but it is the natural base for exploring some of the state's most dramatic landscape: Mount Shasta to the north, Lassen Volcanic National Park to the east, Shasta Lake and its massive dam nearby, and the wild Trinity Alps to the west.

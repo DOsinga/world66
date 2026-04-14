@@ -1,8 +1,9 @@
 ---
-title: "Naples"
+title: Naples
 type: location
 latitude: 40.835885
 longitude: 14.248768
+score: 0.73
 ---
 
 *Europe > Italy > Campania > Naples*

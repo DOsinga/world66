@@ -5,6 +5,7 @@ latitude: 61.155724
 longitude: 13.269409
 title: Sälen
 type: location
+score: 0.5
 ---
 
 Sälen is a mountain village in Dalarna, western Sweden, and the country's biggest ski destination. The area has several alpine centres clustered around the village, offering a wide range of slopes for all levels. In summer the mountains are popular for hiking — the Kungsleden (King's Trail) starts nearby.

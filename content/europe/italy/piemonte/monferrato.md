@@ -5,6 +5,7 @@ latitude: 45.3241
 longitude: 8.423
 title: Monferrato
 type: location
+score: 0.6
 ---
 
 Monferrato is Piedmont's rolling wine country, a landscape of hilltop villages, fortified castles, and vineyards that stretches between the provinces of [Asti](/europe/italy/piemonte/asti) and Alessandria. The wines here are among Italy's finest -- Barbera d'Asti, Grignolino, and the sweet, fizzy Moscato d'Asti all come from these hills, and the wine cellars are welcoming and unpretentious.

@@ -5,6 +5,7 @@ latitude: 28.6353
 longitude: -106.0889
 title: Chihuahua
 type: location
+score: 0.44
 ---
 
 The dog is probably more famous than the city, but Chihuahua rewards the traveler who makes the effort to get here. As the capital of Mexico's largest state — a vast territory of desert, sierra, and canyon — it is the natural gateway to the [Copper Canyon](/northamerica/mexico/coppercanyon), one of the great natural spectacles of North America. The canyon system is deeper and longer than the Grand Canyon, and the train ride down into it from Chihuahua is one of the finest rail journeys on the continent.

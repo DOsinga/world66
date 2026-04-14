@@ -5,6 +5,7 @@ latitude: 40.172173
 longitude: 22.487426
 title: Dion
 type: location
+score: 0.55
 ---
 
 Dion is a small village at the foot of Mount Olympus in northern Greece, but its significance far outweighs its size. The ancient city of Dion was one of the most sacred places in the Macedonian kingdom — Philip II and Alexander the Great both made offerings here before military campaigns, and the city's temples to Zeus, Demeter, and Isis were among the most important in the ancient world.

@@ -5,6 +5,7 @@ latitude: 38.32496
 longitude: 43.658983
 title: Van
 type: location
+score: 0.47
 ---
 
 Van sits on the eastern shore of Lake Van, the largest lake in Turkey and one of the largest endorheic lakes in the world. The city is the main hub for exploring the remote, mountainous far east of the country — a region that sees far fewer visitors than the Aegean and Mediterranean coasts but rewards those who make the journey.

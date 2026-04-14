@@ -5,6 +5,7 @@ latitude: 43.581388
 longitude: 7.123697
 title: Antibes
 type: location
+score: 0.71
 ---
 
 Antibes is one of the more rewarding towns on the Côte d'Azur — less flashy than Cannes, less hectic than Nice. The old town sits behind Vauban's ramparts, a maze of narrow streets that opens onto the harbour and a small but excellent market. The Musée Picasso is here, occupying the Château Grimaldi where Picasso worked intensively in 1946 and left many of his paintings.

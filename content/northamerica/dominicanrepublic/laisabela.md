@@ -1,4 +1,5 @@
 ---
-title: "La isabela"
+title: La isabela
 type: location
+score: 0.42
 ---

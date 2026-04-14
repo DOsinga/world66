@@ -5,6 +5,7 @@ latitude: 41.7399
 longitude: -7.471521
 title: Chaves
 type: location
+score: 0.5
 ---
 
 Chaves sits in the far north of Portugal, in the Trás-os-Montes region just 12 kilometres from the Spanish border. The town straddles the Tâmega river, crossed by a Roman bridge — the Ponte de Trajano — that has stood here since the 2nd century. The Romans came for the thermal springs, and people still do: the hot springs in the centre of town are among the hottest in Europe.

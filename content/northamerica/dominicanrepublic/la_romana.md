@@ -5,6 +5,7 @@ latitude: 18.4274
 longitude: -68.9728
 title: La Romana
 type: location
+score: 0.53
 ---
 
 La Romana is the Dominican Republic's sugar-cane capital turned resort town, sitting on the southeastern coast about an hour and a half east of Santo Domingo. It is one of the most visited regions in the country, thanks to a combination of white-sand beaches, the Casa de Campo luxury resort, and the remarkably photogenic Altos de Chavón.

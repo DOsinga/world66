@@ -1,8 +1,9 @@
 ---
-title: "Suriname"
+title: Suriname
 type: location
 latitude: 4.141303
 longitude: -56.077119
+score: 0.47
 ---
 
 Suriname is a small country in South America that borders on [French Guiana](/southamerica/frenchguiana), [Guyana](/southamerica/guyana) and [Brazil](/southamerica/brazil).

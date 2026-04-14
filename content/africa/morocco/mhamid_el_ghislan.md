@@ -5,6 +5,7 @@ latitude: 29.8258
 longitude: -5.7228
 title: M'Hamid el Ghislane
 type: location
+score: 0.5
 ---
 
 M'Hamid el Ghislane is where the road ends and the Sahara begins. This small settlement at the southern tip of the Draa Valley was once a major crossroads for caravans carrying gold, salt, and slaves from sub-Saharan Africa. The closure of the Algerian border has long since put an end to the caravan trade, but the desert is still very much alive — and M'Hamid is the best base in Morocco for reaching it without the crowds of Merzouga.

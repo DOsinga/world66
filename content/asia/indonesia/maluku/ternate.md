@@ -5,6 +5,7 @@ latitude: 0.785204
 longitude: 127.383234
 title: Ternate
 type: location
+score: 0.49
 ---
 
 Ternate is a tiny volcanic island with an outsized place in history. It was one of the four sultanates of North Maluku that were once the world's only source of cloves, drawing traders from China, Arabia and eventually Portugal, Spain and the Dutch East India Company. The competition for control of these islands helped shape the course of European colonialism in Southeast Asia.

@@ -1,8 +1,9 @@
 ---
-title: "Fortuna"
+title: Fortuna
 type: location
 latitude: 40.597407
 longitude: -124.156034
+score: 0.39
 ---
 
 Travel Guide

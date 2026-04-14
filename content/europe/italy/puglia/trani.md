@@ -1,6 +1,7 @@
 ---
-title: "Trani"
+title: Trani
 type: location
 latitude: 41.275088
 longitude: 16.416259
+score: 0.62
 ---

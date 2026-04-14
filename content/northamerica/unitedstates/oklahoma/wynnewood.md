@@ -5,6 +5,7 @@ latitude: 34.643
 longitude: -97.164
 title: Wynnewood
 type: location
+score: 0.27
 ---
 
 Located in Garvin County in south-central Oklahoma, Wynnewood is a town of about 2,300 people.

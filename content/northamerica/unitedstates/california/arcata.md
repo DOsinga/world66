@@ -5,6 +5,7 @@ latitude: 40.866517
 longitude: -124.08284
 title: Arcata
 type: location
+score: 0.44
 ---
 
 Arcata is a small, progressive college town on Humboldt Bay in Northern California, home to Cal Poly Humboldt (formerly Humboldt State University). The students give the town a youthful energy, and the politics lean firmly left — this is a place of food co-ops, bicycle activism, and earnest environmental commitment.

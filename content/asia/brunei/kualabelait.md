@@ -5,6 +5,7 @@ latitude: 4.5845
 longitude: 114.1932
 title: Kuala Belait
 type: location
+score: 0.35
 ---
 
 Kuala Belait is a small, quiet town at the mouth of the Belait River in the southwest of Brunei — the last stop before the border crossing into Sarawak, Malaysia. The town exists largely because of the oil industry; Shell has had a presence in the region for decades and the surrounding district is the centre of Brunei's petroleum wealth.

@@ -5,6 +5,7 @@ latitude: 39.4745
 longitude: -6.3717
 title: Caceres
 type: location
+score: 0.63
 ---
 
 Caceres sits on a hill in Extremadura, its old town a remarkably intact medieval quarter that earned UNESCO World Heritage status in 1986. Walk through the Arco de la Estrella and you step into a city that has barely changed in five centuries — a maze of narrow streets lined with golden stone palaces, fortified towers, and churches, almost entirely free of traffic and modern intrusions.

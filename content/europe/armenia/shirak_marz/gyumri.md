@@ -5,6 +5,7 @@ latitude: 40.7852
 longitude: 43.8416
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 Armenia's second city sits on a high plateau in the northwest of the country, 1,500 metres above sea level. Gyumri has been known by many names — Kumayri in antiquity, Alexandrapol under the Russian Empire, Leninakan during the Soviet era — and each period left its mark. The old centre is built from black and orange tufa stone, giving it a character quite different from Yerevan's pink volcanic rock.

@@ -5,6 +5,7 @@ latitude: 27.3364
 longitude: -82.5307
 done:
   location_cleanup: 2026-04-07
+score: 0.54
 ---
 
 Sarasota sits on Florida's Gulf Coast about an hour south of Tampa, and it punches well above its weight for a city of around 60,000. It has something rare for a Florida beach town: an actual cultural life. The Ringling Museum — John Ringling of circus fame built his winter estate here — is one of the best art museums in the American South. The Asolo Repertory Theatre has been staging professional productions since the 1960s. There's a real downtown with independent restaurants and bars, not just chain hotels and souvenir shops.

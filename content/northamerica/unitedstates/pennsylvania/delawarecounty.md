@@ -5,6 +5,7 @@ latitude: 39.919412
 longitude: -75.400164
 title: Delaware County
 type: location
+score: 0.32
 ---
 
 Delaware County lies just southwest of [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia) and is among the most densely settled corners of Pennsylvania, packed into a small wedge between the Delaware River and the state line with Delaware and Maryland. Despite its suburban character, it carries more history per square mile than most American counties its size.

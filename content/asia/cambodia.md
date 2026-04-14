@@ -1,8 +1,9 @@
 ---
-title: "Cambodia"
+title: Cambodia
 type: location
 latitude: 12.543322
 longitude: 104.814491
+score: 0.71
 ---
 
 Cambodia is one of Southeast Asia's most absorbing countries — a place where one of history's greatest civilizations left its mark in stone, and where a more recent history of extraordinary suffering is still within living memory. The contrast between Angkor's immense temples and the Khmer Rouge killing fields gives Cambodia a weight that few countries in the region can match.

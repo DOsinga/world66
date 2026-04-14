@@ -5,6 +5,7 @@ latitude: 50.9025
 longitude: -1.4042
 title: Southampton
 type: location
+score: 0.45
 ---
 
 Southampton has been sending ships out into the world for centuries. The Mayflower departed from here in 1620. The Titanic left on its maiden voyage in April 1912. Today the city is still one of Europe's busiest cruise ports, and that maritime identity — part pride, part melancholy — runs through everything.

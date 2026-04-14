@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Sfiva
   class="new" title="User:Sfivat (page does not exist)">Sfivat</a>
 done:
   country_cleanup: 2026-03-31
+score: 0.14
 ---
 
 Libya does not sound like an every day tourist destination, and it's not. That doesn't mean that that you shouldn't go. Quite on the contrary. Libya has marvellous monuments dating [Al Qatrun](/africa/libya/alqatrun)

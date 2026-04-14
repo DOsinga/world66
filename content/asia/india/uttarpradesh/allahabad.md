@@ -1,10 +1,11 @@
 ---
-title: "Allahabad"
+title: Allahabad
 type: location
 latitude: 25.4381
 longitude: 81.8338
 done:
   location_cleanup: 2026-04-07
+score: 0.39
 ---
 
 Allahabad (officially renamed Prayagraj in 2018) is one of the most sacred cities in India, situated at the Triveni Sangam — the confluence of the Ganges, the Yamuna, and the mythical underground Saraswati rivers. For Hindus, bathing at the Sangam is an act of enormous spiritual significance, and the city draws pilgrims year-round.

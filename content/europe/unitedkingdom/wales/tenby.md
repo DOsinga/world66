@@ -5,6 +5,7 @@ latitude: 51.672613
 longitude: -4.705044
 title: Tenby
 type: location
+score: 0.59
 ---
 
 Tenby is a walled medieval town on the Pembrokeshire coast of south-west Wales, built on a headland between two sandy beaches. The old town sits inside well-preserved medieval walls, its streets lined with colourful Georgian and Victorian houses that drop steeply to the harbour. It is genuinely pretty in a way that goes beyond the typical British seaside resort, and the combination of good beaches, an intact old town, and Pembrokeshire Coast National Park all around it makes it a strong destination.

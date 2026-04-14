@@ -5,6 +5,7 @@ latitude: 7.226
 longitude: 134.1312
 title: Koror
 type: location
+score: 0.7
 ---
 
 Koror is Palau's main island and the country's commercial heart — the place where nearly everyone stays, eats, and gears up for the underwater adventures that make Palau famous. It is a compact, walkable town with a mix of Japanese colonial relics, concrete shophouses, and dive shops lining the main road. Don't mistake busyness for charm: Koror is a functional base, not a destination in itself.

@@ -5,6 +5,7 @@ latitude: -43.291503
 longitude: -65.4983
 title: Gaiman
 type: location
+score: 0.45
 ---
 
 Gaiman is a small town in the Chubut Valley of Patagonia, and one of the most unexpected places in Argentina: a functioning Welsh colony where street signs appear in Welsh, chapels dot the landscape, and the afternoon tradition of a Welsh tea — with homemade cakes, scones, and bread — has been kept alive since the first settlers arrived in 1865.

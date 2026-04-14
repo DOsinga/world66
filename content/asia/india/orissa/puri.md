@@ -5,6 +5,7 @@ latitude: 19.807608
 longitude: 85.825254
 title: Puri
 type: location
+score: 0.52
 ---
 
 Puri sits on the Bay of Bengal in Odisha, dominated by two great forces: the sea and the Jagannath Temple. The temple rises 65 metres above the old town and has been the most important Hindu pilgrimage site in eastern India for over a thousand years. Puri is one of the four sacred *dhams* — alongside Dwarka, Badrinath, and Rameswaram — meaning it draws devout Hindus from across the subcontinent year-round.

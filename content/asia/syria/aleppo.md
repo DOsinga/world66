@@ -5,6 +5,7 @@ latitude: 36.1992
 longitude: 37.1637
 done:
   location_cleanup: 2026-04-07
+score: 0.21
 ---
 
 Aleppo is one of the oldest continuously inhabited cities in the world, with roots stretching back at least eight thousand years. Before the war, it was Syria's largest city and its commercial heart — a place where Ottoman merchants, Armenian craftsmen, and Bedouin traders had done business for centuries in the same covered souks. Then came the siege of 2012–2016, and much of the old city was reduced to rubble.

@@ -5,6 +5,7 @@ latitude: 47.931701
 longitude: -97.017579
 title: East Grand Forks
 type: location
+score: 0.28
 ---
 
 We currently have no information about .

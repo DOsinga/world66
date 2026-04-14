@@ -5,6 +5,7 @@ latitude: 47.2184
 longitude: -1.5536
 done:
   location_cleanup: 2026-04-05
+score: 0.53
 ---
 
 Nantes sits at the head of the Loire estuary in western France, historically the capital of Brittany (a designation the Bretons still contest and Nantes still claims) and now the sixth-largest city in France. It is one of those cities that has reinvented itself dramatically in a single generation: the old shipyards and industrial docks have been turned into one of the most ambitious and successful urban renewal projects in Europe, anchored by a full-sized mechanical elephant that walks the streets carrying passengers on its back.

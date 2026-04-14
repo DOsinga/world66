@@ -5,6 +5,7 @@ latitude: 36.448
 longitude: 74.9006
 title: Hussaini
 type: location
+score: 0.45
 ---
 
 Hussaini is a small village in the Gojal region of Upper Hunza, 145 km north of Gilgit and about 45 km from Aliabad in Central Hunza. The Karakoram Highway (KKH) passes to its west while the Hunza River runs to the east, at an altitude of around 2,556 metres.

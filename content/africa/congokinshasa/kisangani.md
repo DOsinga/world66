@@ -5,6 +5,7 @@ latitude: 0.5153
 longitude: 25.191
 title: Kisangani
 type: location
+score: 0.27
 ---
 
 Known in colonial times as Stanleyville, Kisangani sits on the Congo River over 1,700 km upstream from [Kinshasa](/africa/congokinshasa/kinshasa), deep in the equatorial forest. It is a city of fading colonial architecture, dense humidity, and an atmosphere that feels genuinely remote from the rest of the world.

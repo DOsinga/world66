@@ -5,6 +5,7 @@ latitude: -8.35
 longitude: 157.5833
 title: New Georgia
 type: location
+score: 0.4
 ---
 
 New Georgia is the largest island in the Western Province of the [Solomon Islands](/australiaandpacific/solomonislands) and the hub of some of the best diving in the Pacific. The island sits at the edge of Marovo Lagoon — one of the largest saltwater lagoons on earth — where pristine coral walls drop into deep blue water teeming with sharks, barracuda, manta rays, and sea turtles. Visibility regularly exceeds 30 metres.

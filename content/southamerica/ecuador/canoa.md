@@ -5,6 +5,7 @@ latitude: -0.46255
 longitude: -80.455838
 title: Canoa
 type: location
+score: 0.49
 ---
 
 Mompiche may have the surfers' hearts and Atacames the party crowd, but Canoa is the one that makes people stay longer than they planned. A long, wide stretch of white sand backed by a small, easy-going town on Ecuador's northern coast — it is not uncommon for travellers to arrive for a night and end up spending a month.

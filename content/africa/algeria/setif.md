@@ -5,6 +5,7 @@ latitude: 36.189349
 longitude: 5.404688
 title: Setif
 type: location
+score: 0.33
 ---
 
 Sétif sits on a high plateau in the Tell Atlas mountains at around 1,100 metres, which gives it a surprisingly mild climate for Algeria and distinguishes it sharply from the scorching lowlands to the south. It is the largest city in eastern Algeria and one of the country's main commercial and agricultural centres — a working city rather than a tourist one, but with enough history and character to reward a day or two.

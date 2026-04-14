@@ -5,6 +5,7 @@ latitude: 53.7974
 longitude: -1.5438
 done:
   location_cleanup: 2026-04-07
+score: 0.51
 ---
 
 Leeds is the principal city of northern [England](/europe/unitedkingdom/england), a commercial and cultural centre that has reinvented itself from its industrial past into one of the most dynamic cities in the country. It sits at the crossroads where the main north-south and east-west motorways and railways meet, making it easy to reach from anywhere in Britain.

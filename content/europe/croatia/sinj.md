@@ -5,6 +5,7 @@ latitude: 43.701731
 longitude: 16.63734
 title: Sinj
 type: location
+score: 0.49
 ---
 
 Sinj is a market town in the Dalmatian hinterland, set on a fertile karst plain through which the river Cetina flows, ringed by the mountains Svilaja, Dinara, Kamešnica and Visoka. It sits about 30 km northeast of Split, but feels very different from the coast — the climate is harsher, the landscape more austere, and the mood more emphatically Croatian.

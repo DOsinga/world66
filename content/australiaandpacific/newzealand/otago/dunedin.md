@@ -5,6 +5,7 @@ title: Dunedin
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 The Otago Coast stretches from the Waitaki River to the mighty Clutha River, on the South Island's eastern coast. About halfway between is Dunedin, built around Otago Harbour, which indents Otago Peninsula. 

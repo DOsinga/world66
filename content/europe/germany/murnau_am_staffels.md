@@ -5,6 +5,7 @@ latitude: 47.6779
 longitude: 11.2012
 title: Murnau am Staffelsee
 type: location
+score: 0.52
 ---
 
 Murnau am Staffelsee is a small Bavarian town at the foot of the Alps, about 45 minutes by train south of Munich. It sits between the Staffelsee lake and the Murnauer Moos, one of the largest intact raised bogs in Central Europe -- the landscape is open, green, and framed by mountains in every direction.

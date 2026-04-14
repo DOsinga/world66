@@ -5,6 +5,7 @@ latitude: 35.530664
 longitude: 139.703767
 title: Kawasaki
 type: location
+score: 0.48
 ---
 
 Kawasaki sits between [Tokyo](/asia/japan/honshu/tokyo) and [Yokohama](/asia/japan/honshu/yokohama) along the western shore of Tokyo Bay. With over 1.5 million residents it is one of Japan's largest cities, though most visitors pass through it without stopping. That is a mistake if you are curious about the less polished side of the Kanto region.

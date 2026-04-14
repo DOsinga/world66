@@ -5,6 +5,7 @@ latitude: 39.1001
 longitude: -94.5782
 title: Kansas City
 type: location
+score: 0.46
 ---
 
 Kansas City sits on the Missouri River at the point where [Missouri](/northamerica/unitedstates/missouri) and [Kansas](/northamerica/unitedstates/kansas) meet, though the Missouri side has long been the cultural heart of the metro area. It is a city that does several things extraordinarily well: barbecue, jazz, fountains, and art deco architecture. None of these is a minor footnote — Kansas City takes them seriously, and so should you.

@@ -5,6 +5,7 @@ latitude: 54.3503
 longitude: -6.6528
 title: Armagh
 type: location
+score: 0.48
 ---
 
 Armagh is one of the oldest settlements in Ireland and the ecclesiastical capital of the island. Saint Patrick is said to have built his first stone church here in the fifth century, and the city still has two cathedrals that bear his name -- one Catholic, one Church of Ireland -- facing each other from twin hilltops across the city centre.

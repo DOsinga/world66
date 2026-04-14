@@ -1,8 +1,9 @@
 ---
-title: "St. Paul"
+title: St. Paul
 type: location
 latitude: 44.949749
 longitude: -93.093103
+score: 0.42
 ---
 
 St. Paul is the capital of Minnesota and the quieter, more historic half of the Twin Cities. While Minneapolis tends to draw attention with its arts scene and modern ambitions, St. Paul has older bones: grand 19th-century buildings, Summit Avenue's mansion row, and a downtown shaped more by the 1890s than by urban renewal.

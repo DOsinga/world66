@@ -9,6 +9,7 @@ latitude: 46.538333
 longitude: 12.137351
 title: Cortina d'Ampezzo
 type: location
+score: 0.75
 ---
 
 Cortina d'Ampezzo sits in a broad alpine valley surrounded by the jagged peaks of the Dolomites, and it looks the part. The town hosted the 1956 Winter Olympics and has been a playground for Italian skiers and European celebrities ever since. The setting is genuinely dramatic — rose-tinted rock towers rise on every side, and the light at sunset turns them shades of pink and orange that photographs never quite capture.

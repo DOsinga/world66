@@ -5,6 +5,7 @@ latitude: 20.518194
 longitude: -13.054393
 title: Atar
 type: location
+score: 0.39
 ---
 
 Atar is the capital of the Adrar region and the main gateway to one of Mauritania's most rewarding corners. Sitting at the foot of the Adrar plateau, roughly 450 kilometres northeast of Nouakchott, it is the largest town for a very long distance in any direction — a working market town that happens to be the best base for exploring the Saharan landscapes and ancient caravan cities nearby.

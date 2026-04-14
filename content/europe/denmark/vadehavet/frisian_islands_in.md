@@ -5,6 +5,7 @@ latitude: 53.8
 longitude: 7.5
 title: Frisian Islands
 type: location
+score: 0.5
 ---
 
 The Frisian Islands are an interregional archipelago stretching in a crescent from the Dutch coast through Germany to Denmark. Divided between three countries for administrative purposes, they form a single ecological entity — a chain of low-lying barrier islands fronting the Wadden Sea, one of the world's most important tidal wetlands and a UNESCO World Heritage Site.

@@ -5,6 +5,7 @@ latitude: 31.5147
 longitude: -5.5328
 title: Tineghir
 type: location
+score: 0.53
 ---
 
 Even though Tineghir (sometimes written as Tinerhir) is a good base from which to visit the Todra Gorge, it is also a very beautiful and relaxing place to stay. The Tineghir palm grove is a must see, before or after a visit to the gorge. The palmery is like a fantasy world in itself, with its many crumbling ksours (mud-like family houses) and miles of date palms blowing in the wind. It’s a comfortable place to just get lost. An interesting way to explore them is by renting a mule and a guide in town. 

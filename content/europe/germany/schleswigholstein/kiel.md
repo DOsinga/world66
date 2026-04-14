@@ -5,6 +5,7 @@ latitude: 54.3227
 longitude: 10.1355
 title: Kiel
 type: location
+score: 0.51
 ---
 
 Kiel is the state capital of Schleswig-Holstein, a port city of around 250,000 people at the western end of the Baltic Sea. Its position at the mouth of the Kiel Canal — the world's busiest artificial waterway — has shaped everything about it: the economy, the culture, and the steady flow of ferries heading to Scandinavia and the Baltic states. It is a functional, likeable city without much tourist polish, and most visitors experience it briefly, waiting for a boat north.

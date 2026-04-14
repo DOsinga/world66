@@ -5,6 +5,7 @@ latitude: 37.1155
 longitude: -8.5321
 done:
   location_cleanup: 2026-04-06
+score: 0.61
 ---
 
 Praia da Rocha is a beach resort at the mouth of the Arade River, just south of Portimão in the Algarve. The main beach is wide and long, backed by eroded sandstone cliffs and sea stacks in characteristic Algarve orange-red. A 16th-century fort (Fortaleza de Santa Catarina) stands at the eastern end of the beach, where the river meets the sea.

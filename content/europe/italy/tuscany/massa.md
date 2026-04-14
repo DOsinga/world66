@@ -5,6 +5,7 @@ latitude: 44.035932
 longitude: 10.139552
 title: Massa
 type: location
+score: 0.49
 ---
 
 Massa sits where the Apuan Alps meet the sea in northern [Tuscany](/europe/italy/tuscany), sharing its province with the marble town of Carrara. The setting is striking — rugged mountains drop almost directly to a long sandy coastline, and the Malaspina castle on its hilltop dominates the town below.

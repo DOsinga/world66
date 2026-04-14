@@ -5,6 +5,7 @@ latitude: 39.507
 longitude: -84.745
 title: Oxford
 type: location
+score: 0.33
 ---
 
 Oxford is the quintessential American college town, tucked into the rolling farmland of southwest Ohio between [Dayton](/northamerica/unitedstates/ohio/dayton) and [Cincinnati](/northamerica/unitedstates/ohio/cincinnati). Miami University — a public university often called a "public Ivy" — dominates the town and gives it a character far larger than its population would suggest.

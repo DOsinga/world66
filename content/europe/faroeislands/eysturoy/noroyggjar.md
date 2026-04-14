@@ -5,6 +5,7 @@ latitude: 62.2694
 longitude: -6.58
 title: Norðoyggjar
 type: location
+score: 0.55
 ---
 
 Norðoyggjar — the Northern Isles — is the collective name for the six north-eastern islands of the Faroe archipelago: Borðoy, Víðoy, Kunoy, Kalsoy, Svinoy, and Fugloy. Klaksvík, on Borðoy, is the group's main town and the second-largest settlement in the Faroes, and it functions as the ferry hub for the whole cluster.

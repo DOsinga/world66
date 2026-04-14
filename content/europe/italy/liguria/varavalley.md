@@ -5,6 +5,7 @@ latitude: 44.25
 longitude: 9.65
 title: Vara Valley
 type: location
+score: 0.5
 ---
 
 The Vara Valley runs through the eastern end of [Liguria](/europe/italy/liguria), parallel to the motorway, connecting the coast near La Spezia with the Apennine passes. It is a quiet, rural area of medieval villages, chestnut forests, and organic farms — a world away from the crowds on the Riviera.

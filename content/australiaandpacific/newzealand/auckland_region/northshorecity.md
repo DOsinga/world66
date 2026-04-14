@@ -5,6 +5,7 @@ latitude: -36.74676
 longitude: 174.721788
 title: North Shore City
 type: location
+score: 0.46
 ---
 
 Just 15 minutes from downtown Auckland, North Shore City is a lovely

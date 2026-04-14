@@ -1,6 +1,7 @@
 ---
-title: "Bo"
+title: Bo
 type: location
 latitude: 7.962065
 longitude: -11.73665
+score: 0.27
 ---

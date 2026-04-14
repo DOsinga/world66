@@ -1,8 +1,9 @@
 ---
-title: "Central Spain"
+title: Central Spain
 type: location
 latitude: 40.416775
-longitude: -3.703790
+longitude: -3.70379
+score: 0.5
 ---
 
 The old region Castile and Leon encompasses two ancient kingdoms of the meseta- a flat semi-arid table-top 700-1000 m above sea level. Here they have nine months of winter and -as they say it in Catalan, three months of hell. Besides all this Castile and Leon contains much farmland, splendid cathedrals and palaces. 

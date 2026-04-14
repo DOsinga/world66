@@ -5,6 +5,7 @@ latitude: 52.4156
 longitude: 0.7487
 title: Thetford
 type: location
+score: 0.38
 ---
 
 Thetford is a quiet market town in the Brecklands of Norfolk, surrounded by one of the largest lowland pine forests in Britain. The landscape is flat — famously flat — but the forest gives it character, and the town itself has more history than its modest size suggests. It was once the seat of the kings of East Anglia and the site of a Norman castle, though all that remains of the latter is the mound.

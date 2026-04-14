@@ -5,6 +5,7 @@ latitude: 42.626
 longitude: -0.0434
 title: Ordesa National Park
 type: location
+score: 0.7
 ---
 
 Ordesa y Monte Perdido National Park is one of the great mountain parks of Europe — a deep glacial canyon cut into the Spanish Pyrenees, ringed by sheer limestone walls and waterfalls, with Monte Perdido (3,355 m) dominating the skyline. It was Spain's first national park, established in 1918, and it feels like it was made for walking.

@@ -5,6 +5,7 @@ latitude: 18.3
 longitude: 42.733333
 title: Khamis
 type: location
+score: 0.24
 ---
 
 Khamis Mushait is a large city in the [Asir](/asia/saudiarabia/asir) region of southwest Saudi Arabia, close to Abha and effectively part of the same urban area. It is best known for its weekly market (souq), one of the most lively traditional markets in the country, drawing traders and farmers from the surrounding mountains with produce, livestock, handicrafts, and traditional goods.

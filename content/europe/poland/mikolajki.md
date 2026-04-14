@@ -5,6 +5,7 @@ latitude: 53.798182
 longitude: 21.577246
 title: Mikolajki
 type: location
+score: 0.49
 ---
 
 Mikołajki is a small resort town in the heart of Poland's Masurian Lake District, the region of forested hills and interconnected lakes that stretches across the northeast of the country. The town sits on a narrow isthmus between Lake Mikołajskie and Lake Tałty, and in summer its waterfront fills with sailboats, kayaks, and the occasional excursion steamer. Lake Śniardwy, Poland's largest lake, is just a short sail to the south.

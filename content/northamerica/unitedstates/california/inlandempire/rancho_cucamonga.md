@@ -5,6 +5,7 @@ latitude: 34.103319
 longitude: -117.575173
 title: Rancho Cucamonga
 type: location
+score: 0.33
 ---
 
 Rancho Cucamonga sits at the base of the San Gabriel Mountains along historic Route 66. The city blends suburban living with echoes of its wine-country past -- the Cucamonga Valley was once one of California's most productive grape-growing regions.

@@ -5,6 +5,7 @@ latitude: 53.744
 longitude: -0.332
 done:
   location_cleanup: 2026-04-07
+score: 0.43
 ---
 
 Kingston upon Hull — everyone calls it Hull — sits where the River Hull meets the Humber estuary, and for centuries the North Sea has defined everything about it: the fishing industry that made it rich, the Blitz that flattened much of it, and the bleakly beautiful flatness of the surrounding landscape. Most visitors arrive by ferry from Rotterdam or Zeebrugge and promptly catch a train to somewhere else. That's a mistake.

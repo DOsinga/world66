@@ -1,6 +1,7 @@
 ---
-title: "Anahuac"
+title: Anahuac
 type: location
 latitude: 27.322799
 longitude: -100.066318
+score: 0.28
 ---

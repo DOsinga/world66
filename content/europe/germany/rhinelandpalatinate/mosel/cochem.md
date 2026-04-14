@@ -5,6 +5,7 @@ latitude: 50.1484
 longitude: 7.1663
 title: Cochem
 type: location
+score: 0.63
 ---
 
 Cochem is one of the most photogenic towns on the [Mosel](/europe/germany/rhinelandpalatinate/mosel) — a compact medieval riverside settlement dominated by a fairy-tale hilltop castle that rises more than 100 metres above the water. The town is small enough to explore on foot in an afternoon, yet substantial enough to hold your interest for a day or two.

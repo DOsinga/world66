@@ -5,6 +5,7 @@ latitude: 27.068024
 longitude: 56.46417
 title: Hormuz Island
 type: location
+score: 0.51
 ---
 
 Hormuz is a small island in the Strait of Hormuz, a short boat ride from [Bandar Abbas](/asia/iran/bandarabbas) on the Iranian mainland. It is a genuinely strange and beautiful place — the landscape is almost lunar, with vivid red, orange, and yellow soil that locals use as spice (the "red earth" is edible and used in cooking). The beaches on the south side of the island shimmer with mineral colours unlike anything you have seen before.

@@ -5,6 +5,7 @@ latitude: -41.2
 longitude: 147.5
 title: North-East Tasmania
 type: location
+score: 0.54
 ---
 
 The north-eastern corner of Tasmania is one of the less visited parts of the state, but that is more a reflection of its sparse population than a lack of things to do. The area takes in the **Tamar Valley** wine region, **Ben Lomond National Park** (Tasmania's main skiing destination), and a rugged coastline running from St Helens to Georgetown.

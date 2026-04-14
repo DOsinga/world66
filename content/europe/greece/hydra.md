@@ -5,6 +5,7 @@ latitude: 37.332108
 longitude: 23.466424
 title: Hydra
 type: location
+score: 0.75
 ---
 
 Hydra is perhaps the most singular of the Greek islands — no cars, no motorbikes, and no scooters are allowed anywhere on the island. Everything moves by donkey, foot, or boat. The harbour town is one of the most beautiful in the Aegean: stone mansions built by 18th-century sea captains climb the hillsides above a perfect natural harbour, and the waterfront is lined with cafes and restaurants. Artists and writers have been coming here since the 1950s; Leonard Cohen lived here for years and wrote some of his best early work on the island.

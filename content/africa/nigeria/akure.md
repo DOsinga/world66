@@ -5,6 +5,7 @@ latitude: 7.2526
 longitude: 5.1933
 title: Akure
 type: location
+score: 0.28
 ---
 
 Akure is the capital of Ondo State in southwestern Nigeria, set in the lush cocoa-growing country of the Yoruba heartland. It is a mid-sized city — busy and functional rather than polished — but it rewards visitors who are interested in Yoruba culture, the surrounding rainforest, and Nigeria off the usual tourist trail.

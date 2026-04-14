@@ -10,6 +10,7 @@ image_attribution: Ranjit Bhaskar, <i>via</i> <a rel="nofollow" class="external 
   href="https://www.flickr.com/people/32834977@N03">Al Jazeera English</a>.
 done:
   country_cleanup: 2026-03-31
+score: 0.18
 ---
 
 South Sudan is the world's youngest country, gaining independence from [Sudan](/africa/sudan) in 2011 after decades of brutal civil war. It is also one of the most dangerous and difficult countries on earth for travelers. A new civil war broke out in 2013 and conflict has continued in various forms ever since. As of 2025–2026, armed fighting has intensified in Upper Nile State, with airstrikes killing civilians and mass displacement ongoing. Every major government travel advisory — US, UK, Australia, Canada — rates South Sudan at the highest possible risk level and advises against all travel.

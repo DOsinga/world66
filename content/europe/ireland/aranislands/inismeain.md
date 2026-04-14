@@ -1,8 +1,9 @@
 ---
-title: "Inis Meain"
+title: Inis Meain
 type: location
 latitude: 55.10429
 longitude: -8.337443
+score: 0.56
 ---
 
 Inis Meáin is the middle island between Inis Mor and Inis Oirr. Its approx. 5km long and 2.5km wide. It has approximately 225 people.

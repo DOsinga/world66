@@ -5,6 +5,7 @@ latitude: 27.7595
 longitude: -15.5741
 title: Playa del Inglés
 type: location
+score: 0.61
 ---
 
 Playa del Inglés is the largest resort on Gran Canaria's southern coast, stretching east from the [Maspalomas](/europe/spain/canaryislands/crancanaria/maspalomas) dunes to San Agustín. It is purpose-built for tourism — the town is essentially hotels, apartment complexes, and shopping centres — but the beach is genuinely impressive: several kilometres of wide golden sand backed by a boardwalk promenade.

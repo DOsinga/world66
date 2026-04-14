@@ -5,6 +5,7 @@ latitude: 29.5452
 longitude: 103.7659
 title: Leshan
 type: location
+score: 0.59
 ---
 
 Leshan exists almost entirely in the shadow of one extraordinary thing: a 71-metre Buddha carved into a cliff face where three rivers meet. It is the largest stone Buddha in the world, and it is genuinely astonishing — not in the way that photographs prepare you for, but in the way that standing at the statue's feet and realising his toenails are taller than you are can only be experienced in person.

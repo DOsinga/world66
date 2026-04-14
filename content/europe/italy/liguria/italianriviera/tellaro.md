@@ -5,6 +5,7 @@ latitude: 44.058022
 longitude: 9.93037
 title: Tellaro
 type: location
+score: 0.63
 ---
 
 Tellaro is one of the prettiest villages on the Ligurian coast, a tight cluster of pastel houses tumbling down a rocky promontory into the Gulf of La Spezia. There are no cars — you park above and walk down steep steps through narrow caruggi to a tiny piazza overlooking the sea.

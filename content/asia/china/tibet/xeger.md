@@ -5,6 +5,7 @@ latitude: 28.913
 longitude: 87.237
 title: Xeger
 type: location
+score: 0.3
 ---
 
 **Xeger** (also spelled Shelkar or New Tingri) is a small town at 4,350 metres in southern Tibet, built at the foot of the ruins of Xegar Dzong, an old hilltop fortress. It sits just off the Friendship Highway between [Shigatse](/asia/china/tibet/shigatse) and the Nepalese border.

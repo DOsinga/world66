@@ -5,6 +5,7 @@ latitude: 50.082038
 longitude: 8.241656
 title: Wiesbaden
 type: location
+score: 0.52
 ---
 
 Wiesbaden, the capital of Hesse, sits between the Taunus highlands to the north and the Rhine to the south. Its 26 hot springs were already noted by Roman writers, and the city has been a fashionable spa destination since the 18th century — Dostoyevsky gambled away his fortune at the Kurhaus casino, and the grand Wilhelminian-era buildings along the Wilhelmstrasse still carry that old-world elegance.

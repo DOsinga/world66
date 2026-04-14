@@ -1,10 +1,11 @@
 ---
-title: "Andersonville"
+title: Andersonville
 type: location
 latitude: 32.195995
 longitude: -84.139909
 done:
   location_cleanup: 2026-04-08
+score: 0.29
 ---
 
 Andersonville is a tiny village in southwest Georgia known almost entirely for the Civil War prison that once stood here. Camp Sumter, as it was officially named, was one of the largest Confederate military prisons. Built in early 1864, it held more than 45,000 Union soldiers during its 14 months of operation. Nearly 13,000 of them died from disease, malnutrition, overcrowding, and exposure — making it one of the deadliest places in American history.

@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Spiekeroog_(view_from_the_east).jpg
 title: Spiekeroog
 type: location
+score: 0.49
 ---
 
 Spiekeroog is the quietest and most unspoiled of the East Frisian Islands. No cars, no airport, no chain hotels — just a small village of brick cottages, a church dating to 1696, and kilometres of empty beach backed by high dunes. The island has a wild, windswept character that sets it apart from its more developed neighbours.

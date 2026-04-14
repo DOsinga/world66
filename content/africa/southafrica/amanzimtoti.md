@@ -5,6 +5,7 @@ latitude: -30.049722
 longitude: 30.888611
 title: Amanzimtoti
 type: location
+score: 0.44
 ---
 
 Amanzimtoti is a coastal town on the KwaZulu-Natal South Coast, about 25 kilometres south of Durban. The name is Zulu, reportedly given by Shaka when he tasted the sweet water of the river here. The area stretches along the Sapphire Coast and encompasses several beach settlements — Umbogintwini, Doonside, Warner Beach, Winkle Spruit, and Illovo Beach among them.

@@ -5,6 +5,7 @@ latitude: -20.193761
 longitude: 169.825176
 title: Anatom
 type: location
+score: 0.43
 ---
 
 Anatom (also spelled Aneityum) is the southernmost island in Vanuatu, remote even by the standards of the archipelago. It is a small, mountainous island with dense forest, clear rivers, and fringing reefs that offer good snorkelling and diving. The population is tiny — the island was devastated by disease after European contact in the 19th century and has never fully recovered.

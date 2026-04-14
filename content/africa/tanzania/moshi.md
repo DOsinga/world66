@@ -5,6 +5,7 @@ latitude: -3.348646
 longitude: 37.343525
 title: Moshi
 type: location
+score: 0.53
 ---
 
 Moshi is the gateway to [Mount Kilimanjaro](/africa/kenya/mtkilimanjaro), a busy little town set where the plains begin to climb towards Africa's highest peak. On this southern side the mountain hides behind cloud for most of the day — the snow-capped summit only reveals itself in the early morning and late evening, if you are lucky. Moshi means "smoke" in Swahili, a fitting name for a place perpetually in Kilimanjaro's shadow.

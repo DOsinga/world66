@@ -5,6 +5,7 @@ latitude: 57.6645
 longitude: -2.5218
 done:
   location_cleanup: 2026-04-05
+score: 0.49
 ---
 
 Banff is a small historic town on the Moray Firth coast of Aberdeenshire, where the River Deveron meets the sea. It received its royal burgh charter in 1372 and still retains a dense collection of 17th and 18th-century townhouses and public buildings, many of them Georgian, that give it a more architecturally distinguished character than most small Scottish coastal towns.

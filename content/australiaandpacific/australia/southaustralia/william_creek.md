@@ -5,6 +5,7 @@ latitude: -28.907794
 longitude: 136.341327
 title: William Creek
 type: location
+score: 0.34
 ---
 
 William Creek is the smallest town in South Australia, with a population of just 16, set near the midpoint of the famous Oodnadatta Track in the remote outback. It sits at the heart of Anna Creek Station — at over 30,000 square kilometres, the largest cattle station in Australia. The town's colourful pub is a landmark and a necessary stop for anyone driving the track.

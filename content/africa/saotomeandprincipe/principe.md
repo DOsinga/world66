@@ -5,6 +5,7 @@ latitude: 1.6139
 longitude: 7.4057
 title: Príncipe
 type: location
+score: 0.5
 ---
 
 Príncipe is the smaller and wilder of the two islands that make up São Tomé and Príncipe. Only about 160 sq km in size, it sits roughly 150 km north of São Tomé, cloaked in dense rainforest that tumbles down to some of the least-visited beaches in the Atlantic. The pace here is genuinely slow — there is one main town, Santo António, and life moves accordingly.

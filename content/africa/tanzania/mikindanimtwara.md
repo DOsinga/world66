@@ -5,6 +5,7 @@ latitude: -10.286914
 longitude: 40.115346
 title: Mikindani-Mtwara
 type: location
+score: 0.45
 ---
 
 Mikindani is a small, quietly remarkable town on Tanzania's far southern coast, the kind of place that most travelers never reach. For centuries it was a trading port — ivory, slaves, and spices passed through its harbor — and in 1866 David Livingstone chose it as the starting point for his last expedition into the African interior. The Old Boma, the German colonial fort where Livingstone stayed, has been beautifully restored and now operates as a guesthouse and community project. Walking through Mikindani's narrow streets, past crumbling coral-stone houses and a handful of mosques, you get the sense of a place with far more history than its size would suggest.

@@ -5,6 +5,7 @@ latitude: 41.2371
 longitude: 1.8118
 done:
   location_cleanup: 2026-04-05
+score: 0.67
 ---
 
 Sitges is a small seaside town about 35 km south-west of Barcelona on the coast of the Garraf, and it has been drawing visitors since the late 19th century, when the Catalan modernista artist Santiago Rusiñol made it a centre for artists and writers and gave it the bohemian reputation it has never quite lost. Today it is Barcelona's favourite beach escape, a glamorous and LGBTQ+-friendly resort of whitewashed houses, palm-lined promenades, and long, clean sandy beaches that stretch south from the old town for kilometres.

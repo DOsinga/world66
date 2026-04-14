@@ -5,6 +5,7 @@ latitude: 54.666667
 longitude: -1.75
 title: Durham
 type: location
+score: 0.56
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to

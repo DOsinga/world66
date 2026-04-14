@@ -5,6 +5,7 @@ latitude: 41.07314
 longitude: 27.410201
 title: Tekirdağ
 type: location
+score: 0.43
 ---
 
 Tekirdağ is a provincial capital on the northern shore of the Sea of Marmara, about 150 km west of Istanbul in Thrace, the European part of Turkey. It is best known for two things: Tekirdağ Rakısı, considered the finest rakı in Turkey and sold across the country, and Tekirdağ köfte, a distinctive local meatball that draws visitors from Istanbul on weekends.

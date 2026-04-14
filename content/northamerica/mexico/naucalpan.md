@@ -5,6 +5,7 @@ latitude: 19.478836
 longitude: -99.232799
 title: Naucalpan
 type: location
+score: 0.3
 ---
 
 Naucalpan de Juarez is one of the largest municipalities in the Mexico City metropolitan area, sprawling across the northwestern edge of the capital. It's primarily an industrial and residential satellite city, but it has its own identity -- a mix of modern commercial districts, working-class neighborhoods, and pockets of colonial heritage dating back to the 16th century.

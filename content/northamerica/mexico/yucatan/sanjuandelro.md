@@ -1,6 +1,7 @@
 ---
-title: "San Juan del Ro"
+title: San Juan del Ro
 type: location
 latitude: 20.552259
 longitude: -86.92496
+score: 0.3
 ---

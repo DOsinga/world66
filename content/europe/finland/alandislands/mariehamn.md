@@ -1,10 +1,11 @@
 ---
-title: "Mariehamn"
+title: Mariehamn
 type: location
 latitude: 60.102423
 longitude: 19.94126
 done:
   location_cleanup: 2026-04-08
+score: 0.53
 ---
 
 Mariehamn is the only town and capital of the Åland Islands, the autonomous Swedish-speaking archipelago between Sweden and Finland. It is the main port of call for the Viking Line and Silja Line ferries that run between Stockholm and Helsinki, and for many travellers it provides a first glimpse of Åland.

@@ -5,6 +5,7 @@ latitude: 30.9848
 longitude: -8.2281
 title: Tin Mal
 type: location
+score: 0.43
 ---
 
 Tin Mal is a remote and atmospheric site in the High Atlas, roughly halfway between [Marrakesh](/africa/morocco/marrakesh) and [Taroudant](/africa/morocco/taroudant) on the Tizi n'Test pass road. It was here that the Almohad movement was founded in the 12th century, and from this mountain stronghold Ibn Tumart launched the conquest of North Africa and Spain. All that remains today is the ruined mosque — roofless but still standing, its arches open to the sky. It is one of the few mosques in Morocco that non-Muslims can enter, precisely because it no longer functions as one.

@@ -5,6 +5,7 @@ latitude: 44.0
 longitude: -74.0
 title: Adirondacks
 type: location
+score: 0.65
 ---
 
 The Adirondack Park is the largest publicly protected area in the contiguous United States -- six million acres of mountains, forests, and lakes that dwarf Yellowstone, Yosemite, and the Grand Canyon combined. It is not a national park but a patchwork of public and private land in upstate New York, and that mix gives it a character all its own: wild backcountry one moment, small-town diners and antique shops the next.

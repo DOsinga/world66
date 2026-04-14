@@ -5,6 +5,7 @@ latitude: 3.868987
 longitude: 11.521334
 title: Yaoundé
 type: location
+score: 0.37
 ---
 
 Yaoundé is the capital of [Cameroon](/africa/cameroon), a sprawling city of hills and greenery set at around 750 metres altitude in the south-central part of the country. It is quieter and more administrative than the economic capital [Douala](/africa/cameroon/douala), with a calmer pace and a more agreeable climate thanks to the elevation.

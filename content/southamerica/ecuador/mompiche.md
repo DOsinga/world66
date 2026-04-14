@@ -5,6 +5,7 @@ latitude: 0.500201
 longitude: -80.019672
 title: Mompiche
 type: location
+score: 0.46
 ---
 
 Mompiche is a small fishing village on Ecuador's northern coast, tucked into a sheltered bay south of the Ensenada de Mompiche in Esmeraldas province. For years it was known mainly to surfers chasing the long left-hand point break, but a growing number of beach bungalows and simple restaurants have turned it into a low-key backpacker stop as well.

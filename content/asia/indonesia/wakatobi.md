@@ -5,6 +5,7 @@ latitude: -5.31567
 longitude: 123.585044
 title: Wakatobi
 type: location
+score: 0.64
 ---
 
 Wakatobi is a marine national park in Southeast Sulawesi, its name an acronym of its four main islands: Wangi-Wangi, Kaledupa, Tomia, and Binongko. The park protects some of the most biodiverse coral reefs on the planet — over 750 coral species and nearly a thousand types of reef fish have been recorded here. If you care about what's under the water more than what's on the beach, this is one of the best places in Indonesia to be.

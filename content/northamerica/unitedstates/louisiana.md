@@ -1,8 +1,9 @@
 ---
-title: "Louisiana"
+title: Louisiana
 type: location
 latitude: 30.870388
 longitude: -92.007126
+score: 0.54
 ---
 
 The Americans purchased Louisiana from the French in 1803 for just 15 million dollars. Just come and visit the state of Louisiana and you will see that they got their money's worth (especially if you take into consideration that they got the states of Arkansas, Oklahoma, Kansas, Colorado, Nebraska, Missouri, Iowa, Wyoming, South Dakota, Texas Minnesota, North Dakota, Montana and New Mexico for free as part of the deal).

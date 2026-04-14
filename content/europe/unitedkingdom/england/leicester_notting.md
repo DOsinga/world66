@@ -1,6 +1,7 @@
 ---
-title: "Leicester, Nottingham and East Midlands"
+title: Leicester, Nottingham and East Midlands
 type: location
+score: 0.45
 ---
 
 The East Midlands is a historic region with many sights. The region played an important role in the industrialization of England especially the textile industry, but the history of the region goes back a lot further, to the Battle of Bosworth that ended the War of the Roses and put Henry Tudor - Henry VII - on the throne or to the days of Mr Darcy at magnificent stately homes at Chatsworth House, Belvoir Castle and Kirby Hall.

@@ -5,6 +5,7 @@ latitude: 64.684531
 longitude: 24.481635
 title: Raahe
 type: location
+score: 0.4
 ---
 
 Raahe is a small coastal city on the Gulf of Bothnia, about 75 km south of Oulu. Count Pehr Brahe founded the town in 1649, and its history as a trading and shipbuilding port is still visible in the old town quarter — one of the best-preserved wooden town centres in Finland. The old streets and 19th-century timber houses have been carefully maintained and still function as a lived-in neighbourhood.

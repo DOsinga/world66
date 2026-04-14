@@ -5,6 +5,7 @@ latitude: -38.661326
 longitude: 178.020649
 title: Gisborne
 type: location
+score: 0.47
 ---
 
 Gisborne is the first city in the world to see the sunrise each day, sitting on the East Coast of New Zealand's North Island where the Waipaoa River meets Poverty Bay. The Maori name for the district is Tairawhiti — "the coast upon which the sun shines across the water" — and the light here really is something special.

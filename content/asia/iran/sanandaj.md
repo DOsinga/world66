@@ -5,6 +5,7 @@ latitude: 35.312605
 longitude: 46.997864
 title: Sanandaj
 type: location
+score: 0.35
 ---
 
 Sanandaj — historically known as Senna — is the capital of Kurdistan Province in western Iran, set in a mountain valley at about 1,500 metres elevation. The city is the cultural heart of Iranian Kurdistan, and Kurdish language, music, and traditions are everywhere: in the bazaar, in the teahouses, and in the sound of the tanbur lute drifting from doorways in the old quarter.

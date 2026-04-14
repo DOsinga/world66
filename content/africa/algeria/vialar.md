@@ -1,6 +1,7 @@
 ---
-title: "Vialar"
+title: Vialar
 type: location
 latitude: 35.604813
 longitude: 1.810476
+score: 0.27
 ---

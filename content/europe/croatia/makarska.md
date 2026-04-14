@@ -5,6 +5,7 @@ latitude: 43.293976
 longitude: 17.020242
 title: Makarska
 type: location
+score: 0.66
 ---
 
 Makarska is the liveliest resort town on the Dalmatian coast, pressed between a backdrop of the Biokovo mountain range and a long shingle beach that curves around the turquoise waters of the Adriatic. It sits roughly halfway between Split and Dubrovnik, which makes it both a destination in its own right and a natural base for exploring the surrounding [Makarska Riviera](/europe/croatia/makarska_riviera).

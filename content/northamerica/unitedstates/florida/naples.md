@@ -5,6 +5,7 @@ latitude: 26.142
 longitude: -81.7948
 title: Naples
 type: location
+score: 0.49
 ---
 
 Naples is one of Florida's most refined Gulf Coast cities, a place where white-sand beaches meet manicured tropical gardens and a surprisingly good food scene. Perched on the southwestern tip of the state, it trades the spring-break chaos of the Atlantic coast for a quieter, wealthier stretch of shoreline where the sunsets alone are worth the trip.

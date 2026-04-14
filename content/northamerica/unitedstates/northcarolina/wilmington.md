@@ -5,6 +5,7 @@ latitude: 34.225727
 longitude: -77.94471
 title: Wilmington
 type: location
+score: 0.49
 ---
 
 Wilmington is one of the most beautiful cities on the North Carolina coast. Founded over 250 years ago on the shores of the Cape Fear River, it has a rich past that is visible in its architecture -- the Historic District is one of the largest listed on the National Register of Historic Places.

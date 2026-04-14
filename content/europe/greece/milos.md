@@ -5,6 +5,7 @@ latitude: 36.709344
 longitude: 24.506834
 title: Milos
 type: location
+score: 0.78
 ---
 
 Milos is a volcanic island in the Cyclades, famous for its extraordinary variety of beach landscapes — coloured rock formations, sea caves, white sand coves, and the extraordinary lunar-looking coastline around Sarakiniko, where wind-eroded white pumice looks like a moonscape dropped into the Aegean. The Venus de Milo, now in the Louvre, was found here in 1820.

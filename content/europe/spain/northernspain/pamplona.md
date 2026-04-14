@@ -5,6 +5,7 @@ latitude: 42.818199
 longitude: -1.644009
 title: Pamplona
 type: location
+score: 0.64
 ---
 
 Pamplona (Iruñea in Basque) is the capital of the foral community of Navarra, a city of around 200,000 people sitting at the foot of the western Pyrenees, about 50 km south of the mountain passes into France. Outside Spain, it is known almost exclusively for one thing: the Fiesta de San Fermín in July, which includes the famous encierro — the running of the bulls through the narrow streets of the old town.

@@ -5,6 +5,7 @@ latitude: -37.7879
 longitude: 175.2818
 title: Hamilton
 type: location
+score: 0.45
 ---
 
 Hamilton is [New Zealand](/australiaandpacific/newzealand)'s fourth-largest city, straddling the Waikato River in the heart of the North Island's dairy country. It is not a major tourist destination, but it is a useful base for exploring the Waikato region — the [Waitomo Caves](/australiaandpacific/newzealand/waitomo), [Hobbiton](/australiaandpacific/newzealand/matamata), and the Coromandel Peninsula are all within easy driving distance.

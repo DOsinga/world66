@@ -5,6 +5,7 @@ latitude: 17.1449
 longitude: 73.2668
 title: Ganpatipule
 type: location
+score: 0.41
 ---
 
 Ganpatipule is a small coastal town on Maharashtra's Konkan coast, about 350 kilometres south of Mumbai. It sits on a crescent-shaped bay backed by coconut palms, with a long sandy beach that is remarkably clean and uncrowded by Indian standards. The town is best known for the Swayambhu Ganpati Temple, a hilltop shrine housing a naturally formed Ganesh idol that draws Hindu pilgrims from across western India.

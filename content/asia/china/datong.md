@@ -5,6 +5,7 @@ latitude: 40.092319
 longitude: 113.295266
 title: Datong
 type: location
+score: 0.52
 ---
 
 Datong sits on the dry, windy plateau of northern Shanxi, close to the Mongolian border and far from the polished tourist circuits of eastern China. For centuries it was a frontier garrison town, and the landscape still has that stark, edge-of-empire feel.

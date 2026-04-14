@@ -5,6 +5,7 @@ latitude: 38.642089
 longitude: 34.829623
 title: Göreme
 type: location
+score: 0.87
 ---
 
 Göreme is the centre of [Cappadocia](/asia/turkey/cappadocia) and the best base for exploring the region's famous fairy chimneys — strange rock formations of soft volcanic tuff that have been carved into churches, houses, and even carpet shops over many centuries.

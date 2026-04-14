@@ -5,6 +5,7 @@ latitude: 41.3123
 longitude: 69.2787
 title: Tashkent
 type: location
+score: 0.5
 ---
 
 Tashkent is the capital of Uzbekistan but lacks the headline attractions of [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara). A devastating earthquake in 1966 levelled much of the old city, and the Soviets seized the moment — calling in volunteer workers from across the USSR to rebuild. Thousands came and stayed, turning the ancient Silk Road city into a modern, Soviet, and rather Russian town.

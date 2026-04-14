@@ -5,6 +5,7 @@ latitude: 33.7284
 longitude: 134.5353
 title: Hiwasa
 type: location
+score: 0.51
 ---
 
 About two hours south of [Tokushima City](/asia/japan/shikoku/tokushima) on the coast, Hiwasa is a small town with a couple of compelling reasons to stop. The train station rents bicycles, but Hiwasa is small enough to explore comfortably on foot.

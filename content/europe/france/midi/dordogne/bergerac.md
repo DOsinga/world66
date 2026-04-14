@@ -5,6 +5,7 @@ latitude: 44.8535
 longitude: 0.4875
 title: Bergerac
 type: location
+score: 0.57
 ---
 
 Bergerac sits on the banks of the Dordogne river and is the second largest town in the département, though it feels far smaller than that suggests. Its name is forever linked with Cyrano de Bergerac — who was in fact a Parisian, not a Gascon — but the town has its own real charms.

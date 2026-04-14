@@ -9,6 +9,7 @@ image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/48600082269@N01">upyernoz</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.69
 ---
 
 **Vietnam** is located in South-East Asia. The name of the country has become almost a synonym of the Vietnam War. The history of the country goes back a lot further than 'the war that wasn't won', as the Americans euphemistically call it. Vietnam is actually a country with a long history and ancient traditions. It has many historic sights and old temple.

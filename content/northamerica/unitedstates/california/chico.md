@@ -1,10 +1,11 @@
 ---
-title: "Chico"
+title: Chico
 type: location
 latitude: 39.728494
 longitude: -121.837478
 done:
-  location_cleanup: "2026-04-09"
+  location_cleanup: '2026-04-09'
+score: 0.4
 ---
 
 Chico is a mid-sized city in the Sacramento Valley at the foot of the Sierra Nevada foothills, about 90 miles north of Sacramento. It is best known as a college town — California State University, Chico anchors the downtown — which gives the city an unpretentious energy and a lively bar and restaurant scene that belies its size.

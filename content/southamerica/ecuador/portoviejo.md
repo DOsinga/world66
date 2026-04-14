@@ -5,6 +5,7 @@ latitude: -1.05282
 longitude: -80.453413
 title: Portoviejo
 type: location
+score: 0.4
 ---
 
 Portoviejo is the capital of Manabí province on Ecuador's central coast, a hot and busy commercial city that serves as the gateway to the province's beaches. The city itself is not a tourist destination — it was heavily damaged in the 2016 earthquake and has been substantially rebuilt — but it is where you will pass through if you are heading to the coast from the highlands.

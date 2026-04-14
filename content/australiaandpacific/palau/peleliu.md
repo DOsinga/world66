@@ -5,6 +5,7 @@ latitude: 6.899656
 longitude: 134.336994
 title: Peleliu
 type: location
+score: 0.54
 ---
 
 Peleliu is a small island in the southern part of Palau, best known for one of the most brutal battles of the Pacific War. In September 1944, US Marines and Army troops fought a month-long battle against a deeply entrenched Japanese garrison. The battle cost over 10,000 Allied casualties and nearly the entire Japanese force of 11,000 men. The island remains one of the most poignant WWII battlefield sites in the Pacific.

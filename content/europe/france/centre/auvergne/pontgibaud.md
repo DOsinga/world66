@@ -5,6 +5,7 @@ latitude: 45.832683
 longitude: 2.851766
 title: Pontgibaud
 type: location
+score: 0.41
 ---
 
 Pontgibaud is a small medieval village about 25 km west of Clermont-Ferrand in the Auvergne, straddling the Sioule river at the edge of the Chaîne des Puys volcanic range.

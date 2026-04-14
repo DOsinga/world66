@@ -5,6 +5,7 @@ latitude: 35.33908
 longitude: 25.133284
 title: Iraklion
 type: location
+score: 0.61
 ---
 
 Heraklion (also spelled Iraklion or Iraklio) is the capital and largest city of Crete and its main point of entry for flights and ferries. It is a busy, working city — noisy and commercially dense — but it contains some of the finest Minoan archaeology in the world.

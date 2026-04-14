@@ -5,6 +5,7 @@ latitude: 42.295226
 longitude: 12.40917
 title: Civita Castellana
 type: location
+score: 0.47
 ---
 
 Civita Castellana is a small town in northern [Lazio](/europe/italy/lazio), set on a tufa plateau above a deep gorge carved by the Rio Maggiore. It lies in the heart of the ancient Etruscan territory — the nearby Faliscan settlements date back to the 8th century BC — and has maintained a tradition of ceramic arts for centuries.

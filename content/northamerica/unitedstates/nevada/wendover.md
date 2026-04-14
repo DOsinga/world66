@@ -5,6 +5,7 @@ latitude: 40.737597
 longitude: -114.03142
 title: Wendover
 type: location
+score: 0.32
 ---
 
 Wendover sits on the Utah-Nevada border, on the edge of the vast Great Salt Lake Desert. To many it is little more than an exit off Interstate 80 — a cluster of casinos and gas stations where you can pull over before the long haul across the desert to Salt Lake City or Wells. But that is being too dismissive.

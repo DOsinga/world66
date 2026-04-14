@@ -5,6 +5,7 @@ latitude: 40.032229
 longitude: -3.60401
 title: Aranjuez
 type: location
+score: 0.58
 ---
 
 Aranjuez sits about 50 kilometres south of [Madrid](/europe/spain/centralspain/madrid) on the banks of the Tagus, and has been a royal retreat since the time of Philip II. The town is officially designated a Royal Site, and it shows — the scale and grandeur of the place is entirely out of proportion to its modest size.

@@ -5,6 +5,7 @@ latitude: 34.2746
 longitude: -119.229
 done:
   location_cleanup: 2026-04-07
+score: 0.47
 ---
 
 Ventura sits on the Pacific coast midway between Los Angeles and Santa Barbara, and it manages to feel like neither. The downtown is compact and walkable, built around a genuine 1782 Spanish mission rather than a freeway interchange. The harbor sends boats daily to the Channel Islands. And Surfer's Point has been breaking surf-obsessed hearts — in the best way — for decades.

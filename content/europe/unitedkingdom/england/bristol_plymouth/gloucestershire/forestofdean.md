@@ -1,8 +1,9 @@
 ---
-title: "Forest of Dean"
+title: Forest of Dean
 type: location
 latitude: 51.80017
 longitude: -2.530753
+score: 0.51
 ---
 
 Travel Guide

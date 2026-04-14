@@ -5,6 +5,7 @@ latitude: 43.1566
 longitude: -77.6088
 done:
   location_cleanup: 2026-04-05
+score: 0.42
 ---
 
 Rochester is the third-largest city in New York State, sitting on the south shore of Lake Ontario about 90 minutes west of Syracuse. It was once the world headquarters of Eastman Kodak, Bausch + Lomb, and Xerox — a trio that made it one of the richest cities per capita in America through much of the 20th century. The decline of film photography hit the city hard, but Rochester has reinvented itself around its universities (the University of Rochester, RIT), its medical sector, and a creative economy that benefits from cheap real estate and a strong cultural infrastructure left behind by the Kodak era.

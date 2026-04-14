@@ -5,6 +5,7 @@ latitude: 10.202862
 longitude: -64.630763
 title: Puerto la Cruz
 type: location
+score: 0.37
 ---
 
 Puerto la Cruz is Venezuela's main beach resort city, on the northeastern coast in Anzoátegui state. It sits at the edge of the Mochima National Park, which protects a spectacular archipelago of islands, peninsulas, and coves in the Caribbean — clear water, white sand beaches, and mangrove channels accessible by boat.

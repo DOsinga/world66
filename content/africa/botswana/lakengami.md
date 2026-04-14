@@ -5,6 +5,7 @@ latitude: -20.48549
 longitude: 22.758571
 title: Lake Ngami
 type: location
+score: 0.42
 ---
 
 Lake Ngami lies at the southern edge of the Okavango Delta system in northwestern Botswana. It was the first major geographical feature that David Livingstone reached on his explorations in 1849, and for a time it was famous in Europe — a great lake in the middle of the Kalahari. The reality is more complicated: the lake depends entirely on overflow from the Okavango, and for much of the twentieth century it was dry.

@@ -1,8 +1,9 @@
 ---
-title: "Giusvalla"
+title: Giusvalla
 type: location
 latitude: 44.447939
 longitude: 8.394149
+score: 0.35
 ---
 
 A village on the northern side of the Ligurian

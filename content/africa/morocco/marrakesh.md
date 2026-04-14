@@ -1,8 +1,9 @@
 ---
-title: "Marrakesh"
+title: Marrakesh
 type: location
 latitude: 31.625826
 longitude: -7.989161
+score: 0.77
 ---
 
 Known as the "Red City" Marrakesh is the capital of the

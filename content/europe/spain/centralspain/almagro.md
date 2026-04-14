@@ -5,6 +5,7 @@ latitude: 38.888238
 longitude: -3.711822
 title: Almagro
 type: location
+score: 0.52
 ---
 
 Almagro is a small town in the heart of La Mancha that punches well above its weight culturally. Its centerpiece is the Corral de Comedias, a 17th-century open-air theater and one of the very few surviving in Europe. The wooden galleries and cobblestone courtyard have been in continuous use for over 400 years, and stepping inside feels like walking onto a stage set from the Spanish Golden Age. Every July, the International Classical Theater Festival fills the Corral and other venues around town with performances of Lope de Vega, Calderon, and their contemporaries.

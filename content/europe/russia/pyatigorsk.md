@@ -5,6 +5,7 @@ latitude: 44.037544
 longitude: 43.036367
 title: Pyatigorsk
 type: location
+score: 0.43
 ---
 
 Pyatigorsk is a spa town in the Northern Caucasus, tucked among the volcanic peaks of the Caucasian Mineral Waters group. The name means "Five Mountains Town" — a reference to the cluster of ancient cones that frame the city, including the flat-topped Mount Mashuk that looms directly above it. With around 150,000 people, it is the largest and most important of the four Caucasian Mineral Waters resorts, alongside Kislovodsk, Zheleznovodsk, and Yessentuki.

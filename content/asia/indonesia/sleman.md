@@ -5,6 +5,7 @@ latitude: -7.689418
 longitude: 110.38129
 title: Sleman
 type: location
+score: 0.42
 ---
 
 Sleman is a regency on the northwest border of the Yogyakarta Special Region, stretching from the urban fringes of [Yogyakarta](/asia/indonesia/yogyakarta) up to the slopes of Mount Merapi. The volcano dominates the northern skyline and shapes daily life — its fertile ash soils support the surrounding rice paddies and villages.

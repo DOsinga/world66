@@ -5,6 +5,7 @@ latitude: 33.7833
 longitude: 73.7167
 title: Banjosa
 type: location
+score: 0.39
 ---
 
 Banjosa is a hill resort in Azad Kashmir, perched at around 1,980 meters in the forested hills above [Rawalakot](/asia/pakistan/azad_kashmir/rawala_kot). Its centrepiece is a tranquil artificial lake ringed by dense pine and oak forest — one of the few genuinely peaceful retreats in this part of Pakistan.

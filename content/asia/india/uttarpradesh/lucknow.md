@@ -8,6 +8,7 @@ latitude: 26.8381
 longitude: 80.9346
 done:
   location_cleanup: 2026-04-06
+score: 0.47
 ---
 
 Lucknow stretches along the banks of the Gomti River, a city shaped above all by its Nawabi past. It was Nawab Asaf ud Daula who built the Lucknow we see today — the grand gateways, the intricate mosques, the sprawling Imambaras — and it was under Wajid Ali Shah that the city became the cultural capital of northern India, celebrated for Urdu poetry, classical music, and courtly manners so elaborate they became legendary. The British annexation of Awadh in 1856 ended the Nawabi era, but the refinement stuck.

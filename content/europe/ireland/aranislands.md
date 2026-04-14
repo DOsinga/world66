@@ -1,8 +1,9 @@
 ---
-title: "Aran islands"
+title: Aran islands
 type: location
 latitude: 53.120352
 longitude: -9.705632
+score: 0.63
 ---
 
 In the bay of Galway, the three Aran islands are excellent trips from Galway . Inis Mor is the largest island and has about 800 inhabitants, Inis Meain is 5 km and has two pubs for 250 people, Inis Oirr is the smallest of the three islands and has a catsle that can be visited. The population are all related and inbred since 200bc

@@ -1,8 +1,9 @@
 ---
-title: "Nakuru"
+title: Nakuru
 type: location
 latitude: -0.280272
 longitude: 36.071205
+score: 0.6
 ---
 
 There’s a controversy in Kenya whether Nakuru is the country’s 4th or 5th largest city. Many people think Eldoret, farther west in Rift Valley Province, has passed up Nakuru. Either way, Nakuru is an important agricultural city, trade center, and transportation hub.

@@ -5,6 +5,7 @@ latitude: 51.264018
 longitude: 7.178037
 title: Wuppertal
 type: location
+score: 0.45
 ---
 
 Wuppertal is best known for its Schwebebahn, a suspended monorail built in 1901 that still runs along the Wupper river through the centre of town. Riding it is one of the more unusual public transport experiences in Europe — the carriages hang from an elevated steel frame, swinging gently over the river and the streets below.

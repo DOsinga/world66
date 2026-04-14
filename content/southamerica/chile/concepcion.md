@@ -5,6 +5,7 @@ latitude: -36.82707
 longitude: -73.050206
 title: Concepción
 type: location
+score: 0.44
 ---
 
 Concepción is Chile's second-largest city and the capital of the Biobío Region. It sits at the mouth of the Biobío River, where it meets the Pacific Ocean, and has a character quite different from Santiago — more industrial, more rain, more university town. The Universidad de Concepción, founded in 1919, gives the city energy and keeps it culturally lively.

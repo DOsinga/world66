@@ -9,6 +9,7 @@ image: morella.jpg
 image_source: https://www.flickr.com/photos/75727216@N00/755646075
 image_license: CC BY-SA 2.0
 image_attribution: po.psi.que on Flickr
+score: 0.58
 ---
 
 Morella is one of the best-preserved medieval walled cities in Spain, a fortified hilltop town of about 2,500 people rising dramatically from the Els Ports highlands of the Valencian Community. The entire old town sits within its original circuit of walls, crowned by a ruined castle perched on a near-vertical crag that dominates the skyline for miles around. Walking the walls and climbing to the castle is the obvious first move, and the views over the surrounding hills and plains are worth every step.

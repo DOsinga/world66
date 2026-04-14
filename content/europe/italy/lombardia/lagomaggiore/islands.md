@@ -5,6 +5,7 @@ latitude: 45.9033
 longitude: 8.5319
 title: Borromean Islands
 type: location
+score: 0.69
 ---
 
 The Borromean Islands are the finest thing about Lago Maggiore — three small islands in the middle of the lake, each with its own character, all belonging to the same aristocratic family that has owned them for six centuries. Ferries run regularly from [Stresa](/europe/italy/piemonte/stresa) and Baveno, and a day hopping between the islands is one of the most pleasurable excursions in the Italian Lakes.

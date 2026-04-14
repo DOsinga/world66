@@ -5,6 +5,7 @@ latitude: 18.0791
 longitude: -15.9785
 title: Nouakchott
 type: location
+score: 0.29
 ---
 
 Nouakchott is the capital of Mauritania and one of the youngest capital cities in the world. When France granted independence in 1960, Mauritania had no obvious urban centre — most of its people were nomads. The new government chose a small administrative outpost near the Atlantic coast and built a capital around it. In the decades since, people have flooded in from the desert as drought and conflict pushed nomadic communities toward the city. Today roughly a third of Mauritania's population — around a million people — lives here.

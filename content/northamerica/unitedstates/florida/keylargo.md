@@ -5,6 +5,7 @@ latitude: 25.0861
 longitude: -80.4476
 title: Key Largo
 type: location
+score: 0.63
 ---
 
 Key Largo is the first and largest island in the [Florida Keys](/northamerica/unitedstates/florida/floridakeys), a 120-mile chain of coral and limestone islands stretching southwest from the mainland into the Gulf of Mexico and Atlantic Ocean. Often called the "Diving Capital of the World," Key Largo sits alongside the only living coral barrier reef in the continental United States.

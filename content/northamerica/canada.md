@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Traveler100" title="User:Traveler100">Traveler100</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.44
 ---
 
 Canada is the second largest country in the world. Although Canada is quite sparsely populated, it has some major cosmopolitan cities, such as [Toronto](/northamerica/canada/ontario/toronto) Toronto , [Montreal](/northamerica/canada/quebec/montreal) Montreal and [Vancouver](/northamerica/canada/britishcolumbia/vancouver) Vancouver that offer anything a traveler could want. 

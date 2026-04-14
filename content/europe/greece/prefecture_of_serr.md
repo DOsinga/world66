@@ -5,6 +5,7 @@ latitude: 41.0911
 longitude: 23.5498
 title: Prefecture of Serres
 type: location
+score: 0.42
 ---
 
 The prefecture of Serres occupies the eastern part of Greek Macedonia, stretching from the gulf of Strymon to the Bulgarian border. It is a landscape of broad plains surrounded by mountains — Kerkini, Vertisko, Menikio, Pangaio — with the river Strymon running through from Bulgaria to the sea.

@@ -11,6 +11,7 @@ latitude: 49.8175
 longitude: 15.473
 title: Czech Republic
 type: location
+score: 0.51
 ---
 
 Officially called Czechia since 2016, though Czech Republic remains widely used, this landlocked country in the heart of Central Europe punches well above its weight as a travel destination. It packs medieval old towns, fairytale castles, rolling Bohemian countryside, and one of the world's great beer cultures into a compact and very easy-to-navigate country.

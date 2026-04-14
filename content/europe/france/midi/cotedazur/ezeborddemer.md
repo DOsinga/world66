@@ -5,6 +5,7 @@ latitude: 43.7217
 longitude: 7.3563
 title: Eze-bord-de-mer
 type: location
+score: 0.67
 ---
 
 Eze-bord-de-mer is the lower, coastal part of the perched village of Eze — a small stretch of shore along the Grande Corniche between Nice and Monaco. Unlike the hilltop village of Eze proper, the seaside version is quiet and low-key, with a pebble beach and direct train access on the scenic Côte d'Azur line.

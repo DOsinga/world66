@@ -5,6 +5,7 @@ latitude: 43.274463
 longitude: 11.746
 done:
   location_cleanup: 2026-04-07
+score: 0.61
 ---
 
 Lucignano is one of the most unusual medieval towns in Tuscany — not just charming, but geometrically extraordinary. Sitting at 414m above the Valdichiana valley between Siena and Arezzo, the entire town is laid out in a series of concentric elliptical rings. Walking its streets feels like threading a labyrinth, with the upper section — the Palazzo Comunale, the church of San Francesco, and the Collegiata — at the centre of the puzzle.

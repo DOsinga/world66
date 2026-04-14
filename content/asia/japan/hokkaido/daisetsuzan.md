@@ -5,6 +5,7 @@ latitude: 43.5283
 longitude: 142.994
 title: Daisetsuzan
 type: location
+score: 0.64
 ---
 
 Daisetsuzan is Japan's largest national park, covering over 226,000 hectares of central Hokkaido. The park takes in several mountain groups, active volcanoes, high plateaus, forests, and crater lakes — a genuine wilderness in a country where wilderness is rare.

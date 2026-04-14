@@ -5,6 +5,7 @@ latitude: 39.328141
 longitude: 46.15303
 title: Syunik
 type: location
+score: 0.45
 ---
 
 The south marz (province) of Syunik is high plateau, and very ancient. Entered from the west through the Gates of Syunik (don't forget to honk), the road descends past an alpine reservoir on the right, and over a treeless plateau.

@@ -5,6 +5,7 @@ latitude: -45.874098
 longitude: 170.503576
 done:
   location_cleanup: 2026-04-07
+score: 0.64
 ---
 
 Dunedin is New Zealand's most Scottish city — its name is the old Gaelic word for Edinburgh — and that heritage shows in its Victorian and Edwardian streetscapes, its stone-built university, and a certain Presbyterian seriousness balanced by a fierce local pride. The South Island's second-largest city sits at the head of Otago Harbour, with the long finger of Otago Peninsula stretching out to sea beside it.

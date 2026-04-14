@@ -5,6 +5,7 @@ latitude: 42.136061
 longitude: -0.029803
 title: Huesca
 type: location
+score: 0.53
 ---
 
 Huesca is a modest provincial capital sitting in the foothills of the Pyrenees, an easy stopover between Zaragoza and the mountain passes to the north. It's not a place most people put on their itinerary, but if you find yourself here — and it's worth it — you'll discover a well-preserved old town with real depth.

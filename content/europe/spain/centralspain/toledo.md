@@ -5,6 +5,7 @@ latitude: 39.855891
 longitude: -4.024265
 done:
   location_cleanup: 2026-04-06
+score: 0.68
 ---
 
 Toledo is known as the City of the Three Cultures, a name that refers to the Christians, Islamic and Hebrew cultures that coexist during centuries. This union of traditions is reflected on the architecture, where it can be seen the Mudejar style, a mixture of Islamic and Christian styles, which predominates in the city.

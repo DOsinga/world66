@@ -5,6 +5,7 @@ latitude: 57.046263
 longitude: 9.921526
 title: Aalborg
 type: location
+score: 0.51
 ---
 
 Aalborg sits on the Limfjord in northern Jutland. The local tourist board calls it "the little Paris of the North" — a stretch, perhaps, but the location by the water is genuinely lovely, and the city has more to offer than its size suggests.

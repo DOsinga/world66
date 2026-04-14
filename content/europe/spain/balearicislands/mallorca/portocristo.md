@@ -5,6 +5,7 @@ latitude: 39.542325
 longitude: 3.334431
 title: Porto Cristo
 type: location
+score: 0.6
 ---
 
 Set on a hillside overlooking a small natural harbour on [Mallorca's](/europe/spain/balearicislands/mallorca) east coast, Porto Cristo is a pretty resort with genuine old-world charm. The tree-lined esplanade along the waterfront is lined with bars and cafes, and a sandy beach sits at the head of the inlet.

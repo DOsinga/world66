@@ -1,8 +1,9 @@
 ---
-title: "East"
+title: East
 type: location
 latitude: 51.502939
 longitude: -0.001459
+score: 0.37
 ---
 
 The east of France consists of five different regions. Starting in the North, we first come to the [Champagne](/europe/france/east/champagne) - the area that produces the famous bubbly wines. [Reims](/europe/france/east/champagne/reims) its capital is a stylish city with a beautiful cathedral and many, many places to taste the one an only real Champaign.

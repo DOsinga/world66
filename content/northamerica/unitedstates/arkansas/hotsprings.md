@@ -1,8 +1,9 @@
 ---
-title: "Hotsprings"
+title: Hotsprings
 type: location
 latitude: 40.820286
 longitude: -115.778693
+score: 0.48
 ---
 
 Hot Springs, Arkansas - the vacation spot filled with breathtaking mountain top views, historic hotels, thermal waters, quaint shopping and antiquing, Thoroughbred horseracing and a special southern charm. Take a tour through Hot Springs - there is so much to see & do.

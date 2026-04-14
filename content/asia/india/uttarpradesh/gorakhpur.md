@@ -5,6 +5,7 @@ latitude: 26.667798
 longitude: 83.364233
 title: Gorakhpur
 type: location
+score: 0.3
 ---
 
 Gorakhpur is an important railway junction in eastern Uttar Pradesh, close to the Nepal border. Most travellers pass through on their way to the border crossing at Sunauli, but the city has a few draws of its own if you are stopping.

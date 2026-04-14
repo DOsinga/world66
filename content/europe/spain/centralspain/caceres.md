@@ -5,6 +5,7 @@ latitude: 39.474517
 longitude: -6.371676
 title: Cáceres
 type: location
+score: 0.59
 ---
 
 Cáceres is one of the best-preserved medieval cities in Europe, and one of the least crowded. Its old city — a UNESCO World Heritage Site since 1986 — sits on a hill and contains an almost unbroken ensemble of palaces, towers, and fortified houses from the 14th to 16th centuries. Walk through the Arco de la Estrella into the Ciudad Monumental and the modern world largely disappears.

@@ -5,6 +5,7 @@ latitude: 16.1013
 longitude: -86.9069
 title: Utila
 type: location
+score: 0.53
 ---
 
 Utila is the smallest and cheapest of the Bay Islands, 11 km long and sitting about 30 km off the north coast of Honduras. It has a well-earned reputation as one of the best-value places in the world to learn to scuba dive — prices for PADI open-water courses are lower here than almost anywhere comparable — and the diving itself is excellent.

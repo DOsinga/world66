@@ -5,6 +5,7 @@ latitude: 42.4694
 longitude: -8.895
 title: O Grove
 type: location
+score: 0.55
 ---
 
 O Grove is a small fishing town on a peninsula jutting into the Ría de Arousa in Galicia's Rías Baixas. It is Galicia's seafood capital — the town lives and breathes shellfish, and the Festa do Marisco (Seafood Festival) in October draws huge crowds for ten days of open-air eating along the waterfront.

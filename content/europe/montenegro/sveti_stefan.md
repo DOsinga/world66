@@ -5,6 +5,7 @@ latitude: 42.255651
 longitude: 18.89695
 title: Sveti Stefan
 type: location
+score: 0.68
 ---
 
 Sveti Stefan is the most photographed spot in Montenegro — a turreted medieval village on a small island, connected to the shore by a narrow sandy causeway, with pink-sand beaches on both sides. If you've seen a postcard of Montenegro, this is probably it.

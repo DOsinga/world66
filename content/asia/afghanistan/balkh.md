@@ -5,6 +5,7 @@ latitude: 36.7581
 longitude: 66.898
 title: Balkh
 type: location
+score: 0.27
 ---
 
 Balkh lies in northern Afghanistan, close to [Mazar-i-Sharif](/asia/afghanistan/mazarisharif), and claims to be one of the oldest cities in the world. It is the legendary birthplace of the prophet Zoroaster. Alexander the Great founded a Greek colony here, and as Bactra it became the capital of the independent kingdom of Bactria. In the early centuries AD, Balkh was a prominent centre of Buddhism, renowned for its monasteries and stupas.

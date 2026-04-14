@@ -1,8 +1,9 @@
 ---
-title: "Berbera"
+title: Berbera
 type: location
 latitude: 10.438621
 longitude: 45.013401
+score: 0.3
 ---
 
 Berbera is a coastal town on the Gulf of Aden in the northwestern corner of Somaliland — hot, port-dominated, and quietly important to the economy of the Horn of Africa.

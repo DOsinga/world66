@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Proimos</a> from Sydney, Australia
 done:
   country_cleanup: 2026-03-29
+score: 0.24
 ---
 
 Haiti occupies the western third of Hispaniola, the island it shares with the Dominican Republic. It was the first Black republic in the world, winning independence from France in 1804 after the only successful slave revolution in history — a fact that has shaped its identity, its relationship with the outside world, and the fierce pride of its people ever since.

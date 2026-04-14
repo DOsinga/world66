@@ -5,6 +5,7 @@ latitude: -33.909167
 longitude: 19.119444
 title: Franschhoek
 type: location
+score: 0.64
 ---
 
 Franschhoek is a small town in the Cape Winelands, tucked at the head of a long, mountain-framed valley about 75 kilometres east of Cape Town. French Huguenot settlers arrived here in the late 17th century — the name means "French corner" in Dutch — and planted the first vines in soil that turned out to be exceptionally suited to winemaking.

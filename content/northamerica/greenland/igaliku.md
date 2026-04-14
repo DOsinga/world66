@@ -5,6 +5,7 @@ latitude: 60.9891
 longitude: -45.421
 title: Igaliku
 type: location
+score: 0.41
 ---
 
 Igaliku is one of the most beautiful spots in southern [Greenland](/northamerica/greenland) — a tiny farming village of brightly painted houses in a sheltered valley surrounded by mountains, with views across the fjord. The setting alone justifies the trip, but this place also carries a thousand years of Norse history.

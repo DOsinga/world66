@@ -5,6 +5,7 @@ latitude: 49.152964
 longitude: -125.904708
 done:
   location_cleanup: 2026-04-07
+score: 0.67
 ---
 
 Tofino sits at the far western edge of Vancouver Island, where the road runs out and the Pacific begins. It is one of Canada's most dramatic coastal settings: ancient temperate rainforest, massive swells rolling in from the open ocean, and wide sandy beaches that attract surfers from around the world. Long Beach, within Pacific Rim National Park, is one of the longest beaches in Canada and the centre of the surf scene.

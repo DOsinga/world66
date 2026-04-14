@@ -5,6 +5,7 @@ latitude: -36.760161
 longitude: 175.497274
 title: Coromandel
 type: location
+score: 0.53
 ---
 
 The Coromandel Peninsula lies east of Auckland, across the Hauraki Gulf — visible on the horizon from the city but feeling like a different world. Although only 90 minutes' drive away, its pace is slower, its coastline is spectacular, and its bush-clad hills still harbour giant kauri trees.

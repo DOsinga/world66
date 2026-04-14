@@ -5,6 +5,7 @@ latitude: 52.23433
 longitude: -0.902804
 title: Northampton
 type: location
+score: 0.41
 ---
 
 Northampton is a large market town in the East Midlands that has been making shoes since the Middle Ages — at its peak it supplied boots to the British Army, and a handful of quality shoemakers still operate here today. The town's history is older than that: it was a major medieval centre with a royal castle where parliaments were held, though almost nothing survives of either.

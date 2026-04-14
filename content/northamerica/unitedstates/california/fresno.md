@@ -5,6 +5,7 @@ latitude: 36.739442
 longitude: -119.78483
 title: Fresno
 type: location
+score: 0.33
 ---
 
 Travel Guide

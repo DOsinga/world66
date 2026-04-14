@@ -5,6 +5,7 @@ latitude: 31.999694
 longitude: -102.156226
 title: Midland-Odessa
 type: location
+score: 0.31
 ---
 
 Midland and Odessa are twin cities in the heart of the Permian Basin, the engine of West [Texas](/northamerica/unitedstates/texas)' oil industry. The landscape is flat and dry, and the towns are unapologetically working-class — but there are reasons to stop. The Commemorative Air Force Museum (formerly the Confederate Air Force) in Midland houses an impressive collection of World War II aircraft, and the Permian Basin Petroleum Museum explains the geology and history of the oil boom.

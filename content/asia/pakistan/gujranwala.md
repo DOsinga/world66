@@ -5,6 +5,7 @@ latitude: 32.152531
 longitude: 74.193375
 title: Gujranwala
 type: location
+score: 0.26
 ---
 
 Gujranwala is Pakistan's fifth-largest city, an industrial centre in Punjab with a population of well over a million. It is known across the country as the "City of Wrestlers" — traditional Punjabi wrestling (pehlwani) has been a local passion for generations, and matches at Sheranwala Garden draw big crowds.

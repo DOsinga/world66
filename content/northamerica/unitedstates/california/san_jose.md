@@ -5,6 +5,7 @@ latitude: 37.336166
 longitude: -121.890591
 title: San Jose
 type: location
+score: 0.38
 ---
 
 San Jose is California's oldest city, its original state capital, and the self-proclaimed capital of Silicon Valley. With over a million residents, it is the third largest city in the state — and one of the most ethnically diverse, with residents speaking more than 50 languages.

@@ -5,6 +5,7 @@ latitude: 40.968514
 longitude: 17.115044
 title: Conversano
 type: location
+score: 0.59
 ---
 
 Conversano sits on a hill between the Murgia plateau and the Adriatic, surrounded by olive groves and cherry orchards — cherries are a local specialty, celebrated with a festival each June. The town is anchored by a Norman-era castle that now houses a pinacoteca, and a Romanesque cathedral with an understated facade that belies the age of the place.

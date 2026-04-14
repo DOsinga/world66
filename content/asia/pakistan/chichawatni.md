@@ -5,6 +5,7 @@ latitude: 30.531691
 longitude: 72.691405
 done:
   location_cleanup: 2026-04-07
+score: 0.25
 ---
 
 Chichawatni is a mid-sized agricultural town in Punjab, about 45 km south of Sahiwal on the Grand Trunk Road. It sits roughly 20 km from the ancient Indus Valley site of Harappa, making it a plausible base for anyone heading to that archaeological site. Most travellers pass through rather than stop, but the town has a few things worth knowing about.

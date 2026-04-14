@@ -5,6 +5,7 @@ latitude: 40.6824
 longitude: 14.7681
 title: Salerno
 type: location
+score: 0.65
 ---
 
 Salerno sits at the northern end of the [Amalfi Coast](/europe/italy/campania/amalfi_coast), a working Italian city that most visitors rush through on their way to Positano or Ravello. That is a mistake. Salerno has a handsome historic centre, a spectacular waterfront promenade, and a fraction of the crowds — and the prices — of its famous neighbours.

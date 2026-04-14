@@ -5,6 +5,7 @@ latitude: -43.5321
 longitude: 172.6362
 done:
   location_cleanup: 2026-04-06
+score: 0.64
 ---
 
 Christchurch is the largest city on New Zealand's South Island and the country's most English-feeling place — the founding settlers in the 1850s explicitly set out to build a model Anglican city on the Canterbury Plains, and for 150 years they largely succeeded. Then, on 22 February 2011, a 6.3-magnitude earthquake hit directly beneath the central city, killed 185 people, and destroyed or damaged more than 80 percent of the buildings in the CBD.

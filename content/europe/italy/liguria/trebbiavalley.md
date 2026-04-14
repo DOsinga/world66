@@ -5,6 +5,7 @@ latitude: 44.549
 longitude: 9.217
 title: Trebbia Valley
 type: location
+score: 0.55
 ---
 
 Just outside [Genoa](/europe/italy/liguria/genoa), the Trebbia Valley cuts a narrow, winding path through the Ligurian Apennines. Follow the SS45 past Torriglia, near the Scrivia valley, and you find yourself in a small but fascinating mountain landscape.

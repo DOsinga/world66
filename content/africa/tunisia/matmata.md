@@ -5,6 +5,7 @@ latitude: 33.5087
 longitude: 9.9786
 title: Matmata
 type: location
+score: 0.52
 ---
 
 Matmata is a small Berber town in southern Tunisia famous for its extraordinary troglodyte architecture — villages carved into the hillside and underground dwellings hollowed out of the earth. The name comes from the Berber tribes who took refuge in this isolated region, and their descendants still live in these unusual homes today. The town is also known internationally as a filming location for Star Wars and Raiders of the Lost Ark, where the lunar landscape of craters and ochre ridges stood in for alien worlds.

@@ -1,6 +1,7 @@
 ---
-title: "Bordeaux and the Atlantic Coast"
+title: Bordeaux and the Atlantic Coast
 type: location
+score: 0.7
 ---
 
 [Bordeaux](/europe/france/aquitaine/bordeaux) is famous for its wines, Gascogne for its [Cognac](/europe/france/aquitaine/cognac). But also for those not primarily interested in alcoholic beverages this region has a lot to offer, Beautiful mountains in the [Pyrenees](/europe/france/midi/pyrenees), great beach resorts such as [Biarritz](/europe/france/midi/basqueregion/biarritz) and many medieval towns and castles. The [Dordogne](/europe/france/midi/dordogne) valley isn't far away either.

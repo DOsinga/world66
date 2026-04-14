@@ -1,6 +1,7 @@
 ---
-title: "Faisalabad"
+title: Faisalabad
 type: location
+score: 0.25
 ---
 
 Travel Guide

@@ -1,8 +1,9 @@
 ---
-title: "Madrid"
+title: Madrid
 type: location
 latitude: 40.416782
 longitude: -3.703507
+score: 0.75
 ---
 
 Spain's capital is a lively city - nobody is exactly sure when the Madrilenos sleep. It may be the afternoon siesta that gives them the endurance to keep things going well into the night. Try it. 

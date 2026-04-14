@@ -5,6 +5,7 @@ latitude: 43.539113
 longitude: 10.954075
 title: Gambassi Terme
 type: location
+score: 0.48
 ---
 
 Gambassi Terme is a small Tuscan hill town between Florence and Siena, set among olive groves and copse-covered hills in the Valdelsa. The area has been inhabited since Neolithic times, and in the Middle Ages it was an important stop on the Via Francigena — the medieval pilgrimage route from Canterbury to Rome. The Romanesque parish church of Santa Maria a Chianni, just outside town, served those pilgrims.

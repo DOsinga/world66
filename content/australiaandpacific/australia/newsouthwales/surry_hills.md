@@ -5,6 +5,7 @@ latitude: -33.884512
 longitude: 151.21003
 title: Surry Hills
 type: location
+score: 0.45
 ---
 
 Surry Hills is an inner-city neighbourhood of Sydney, south of the CBD and east of Central Station, that has transformed over several decades from a working-class district of terrace houses into one of Sydney's most active eating and drinking precincts. The change happened gradually — artists and designers moved in first, then cafes and restaurants followed, and the neighbourhood never quite lost its edge even as the prices rose.

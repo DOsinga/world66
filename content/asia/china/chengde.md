@@ -5,6 +5,7 @@ latitude: 40.9507
 longitude: 117.9567
 title: Chengde
 type: location
+score: 0.57
 ---
 
 Two hundred and thirty kilometres northeast of Beijing, Chengde sits in a fold of the Yanshan mountains where the air is cooler and the pace noticeably slower. For three centuries this was the summer capital of the Qing emperors, who fled the Beijing heat to hold court here among lakes, pavilions, and forested hills. That imperial past is the reason to come: Chengde has one of the finest concentrations of eighteenth-century Chinese architecture anywhere, and it has not been overwhelmed by mass tourism.

@@ -5,6 +5,7 @@ latitude: 38.13742
 longitude: -120.459643
 title: Murphys
 type: location
+score: 0.44
 ---
 
 Murphys is one of the Gold Country's most appealing small towns — a tree-lined main street of stone buildings, boutique wineries, and a hotel whose guest log once held the signatures of Ulysses S. Grant, Mark Twain, and the outlaw Black Bart. It has just enough to fill a day or two without ever feeling overrun.

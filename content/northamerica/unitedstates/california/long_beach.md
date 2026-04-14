@@ -5,6 +5,7 @@ latitude: 33.769
 longitude: -118.1916
 title: Long Beach
 type: location
+score: 0.48
 ---
 
 Long Beach is California's seventh-largest city, sitting on the coast about 40 kilometres south of downtown [Los Angeles](/northamerica/unitedstates/california/losangeles). It has long lived in LA's shadow, but the city has its own distinct identity — more laid-back, more diverse, and with a genuine waterfront life that much of coastal Southern California lacks.

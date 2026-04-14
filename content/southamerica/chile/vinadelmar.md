@@ -5,6 +5,7 @@ latitude: -33.024453
 longitude: -71.551764
 title: Viña del Mar
 type: location
+score: 0.58
 ---
 
 Viña del Mar — "Viña" to Chileans — is the country's most popular beach resort, just a short ride north along the coast from [Valparaíso](/southamerica/chile/valparaiso). It is loved by Chileans for its cleanliness, parks, and casino, though foreign visitors sometimes find it short on character compared to its grittier neighbour. The town has wide avenues, manicured gardens, and high-rise apartment blocks lining the waterfront.

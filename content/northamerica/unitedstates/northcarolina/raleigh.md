@@ -5,6 +5,7 @@ latitude: 35.780398
 longitude: -78.639099
 done:
   location_cleanup: 2026-04-05
+score: 0.42
 ---
 
 Raleigh is the state capital and one of the most livable cities in the American South. The unofficial motto is "Trees, Tees, and PhDs" -- a nod to its 150-plus parks, excellent golf courses, and the concentration of universities in the Research Triangle.

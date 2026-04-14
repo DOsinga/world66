@@ -5,6 +5,7 @@ latitude: 41.9469
 longitude: -8.8372
 done:
   location_cleanup: 2026-04-05
+score: 0.43
 ---
 
 O Rosal is a small, fertile valley in the far southwestern corner of Galicia, where the Miño river meets the Atlantic and the border with Portugal. It is wine country — a sub-zone of the Rías Baixas appellation, known for crisp Albariños and the local Rosal blends that mix Albariño with Loureiro and Caiño. The vines cover south-facing slopes running down to the river, and the mild, wet climate means harvests come in year after year with little drama.

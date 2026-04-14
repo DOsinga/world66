@@ -5,6 +5,7 @@ latitude: -4.2634
 longitude: 15.2429
 title: Brazzaville
 type: location
+score: 0.4
 ---
 
 Brazzaville sits on the western shore of Malebo Pool, the vast widening of the Congo River, directly across the water from Kinshasa. It is one of only two national capitals in the world that face each other across a river. Compared to its enormous neighbour, Brazzaville is smaller, quieter, and considerably more relaxed.

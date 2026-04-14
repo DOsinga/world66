@@ -5,6 +5,7 @@ latitude: 47.4464
 longitude: 12.3911
 title: Kitzbühel
 type: location
+score: 0.69
 ---
 
 Kitzbuhel is one of the most famous names in skiing, thanks to the Hahnenkamm downhill — the most feared race on the World Cup circuit, held every January on a course so steep and icy that it has no real equivalent anywhere. During race week the medieval town fills with athletes, celebrities, and fans, and the atmosphere is electric.

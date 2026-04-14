@@ -5,6 +5,7 @@ latitude: 18.3108
 longitude: -65.3029
 title: Culebra
 type: location
+score: 0.68
 ---
 
 Culebra is a small, arid island off the east coast of [Puerto Rico](/northamerica/puertorico), reachable by ferry from Fajardo or by a short flight from [San Juan](/northamerica/puertorico/sanjuan) — the aerial views of the cays and reefs on approach are worth the fare alone.

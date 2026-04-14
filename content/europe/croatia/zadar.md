@@ -5,6 +5,7 @@ latitude: 44.116859
 longitude: 15.235326
 title: Zadar
 type: location
+score: 0.71
 ---
 
 Zadar is a 3,000-year-old city on the Dalmatian coast, and for centuries it was the capital of the entire region. The old town sits on a narrow peninsula, still laid out on its ancient Roman street grid. A Roman forum — the largest on the eastern Adriatic — anchors the center, and the 9th-century Church of St. Donatus stands beside it, a round pre-Romanesque structure that has become the city's signature landmark.

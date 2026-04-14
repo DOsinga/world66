@@ -5,6 +5,7 @@ latitude: 48.8326
 longitude: 9.3164
 title: Waiblingen
 type: location
+score: 0.38
 ---
 
 Waiblingen is a town of about 50,000 people in the Rems-Murr district of Baden-Württemberg, roughly 15 km east of Stuttgart. It is the kind of well-preserved Swabian town that the region does well: a medieval core with half-timbered houses, a circuit of old city walls with battlements, a 15th-century watchtower, and a town gate dating from 1300.

@@ -5,6 +5,7 @@ latitude: -41.124067
 longitude: 175.069959
 title: Upper Hutt
 type: location
+score: 0.4
 ---
 
 Upper Hutt sits at the northern end of the Hutt Valley, about half an hour's drive northeast of downtown [Wellington](/australiaandpacific/newzealand/greater_wellington/wellington). It is the quieter, more suburban sibling of [Lower Hutt](/australiaandpacific/newzealand/greater_wellington/lowerhutt), nestled against the hills where the valley narrows toward the Rimutaka Range.

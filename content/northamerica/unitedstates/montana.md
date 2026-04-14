@@ -1,8 +1,9 @@
 ---
-title: "Montana"
+title: Montana
 type: location
 latitude: 47.375267
 longitude: -109.638757
+score: 0.6
 ---
 
 Montana has great scenery and beautiful national parks with lots of wildlife. Check out the different regions for more information.

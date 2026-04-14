@@ -5,6 +5,7 @@ latitude: 52.4081
 longitude: -1.5104
 done:
   location_cleanup: 2026-04-07
+score: 0.4
 ---
 
 Coventry is a city that refuses to be defined by its destruction. Heavily bombed in November 1940 — the raid was so total that "to coventrate" briefly entered the language as a verb meaning to obliterate — it was rebuilt from scratch in the 1950s and 60s. The result is a city-centre that is partly a period piece of post-war civic optimism and partly, in places, an object lesson in what went wrong with British planning. But Coventry has made something interesting of all this.

@@ -5,6 +5,7 @@ latitude: 40.1003
 longitude: 65.3792
 title: Navoi
 type: location
+score: 0.31
 ---
 
 Navoi is the most Soviet city in Uzbekistan — and that is saying something. Built from scratch in the 1950s as an industrial centre, it was administered directly from Moscow rather than Tashkent, and supplied with goods unavailable anywhere else in Central Asia. The city's grid of grand boulevards, rectangular apartment blocks, and geometrically perfect parks is a textbook of Soviet urban planning, dropped into the desert between [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara).

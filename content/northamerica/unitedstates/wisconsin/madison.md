@@ -5,6 +5,7 @@ latitude: 43.07469
 longitude: -89.384166
 done:
   location_cleanup: 2026-04-05
+score: 0.52
 ---
 
 Madison is the capital of Wisconsin and the most pleasant small city in the upper Midwest — a university town of about 270,000 people squeezed onto a narrow **isthmus** between two lakes, with the State Capitol at one end and the University of Wisconsin at the other. The whole of downtown fits on the isthmus, which makes it unusually walkable, and State Street, the pedestrianised mile that links the Capitol to the University, is one of the nicest downtown streets in America — a continuous run of bookshops, coffee places, student bars, ice-cream parlours and live-music venues.

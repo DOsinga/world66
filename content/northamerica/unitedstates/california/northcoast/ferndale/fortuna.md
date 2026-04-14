@@ -5,6 +5,7 @@ latitude: 40.597407
 longitude: -124.156034
 title: Fortuna
 type: location
+score: 0.37
 ---
 
 Fortuna sits about 20 miles south of [Eureka](/northamerica/unitedstates/california/northcoast/eureka) in Humboldt County, seven miles inland from the Pacific. The slight distance from the coast gives it warmer summers than its foggy neighbours — temperatures regularly reach the mid-70s when Eureka is stuck in the low 60s.

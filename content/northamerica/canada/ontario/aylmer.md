@@ -5,6 +5,7 @@ latitude: 42.7732
 longitude: -80.9837
 title: Aylmer
 type: location
+score: 0.35
 ---
 
 Aylmer is a small town in Elgin County, southwestern Ontario, surrounded by tobacco and dairy farmland. The town has a well-preserved Victorian main street, and the Aylmer and District Museum in the old town hall gives a good sense of the area's agricultural roots.

@@ -5,6 +5,7 @@ latitude: 49.8916
 longitude: 10.8868
 title: Bamberg
 type: location
+score: 0.69
 ---
 
 Bamberg is one of the best-preserved medieval towns in Germany and a UNESCO World Heritage Site. Built on seven hills along the Regnitz River, it escaped major wartime damage and still looks remarkably as it did centuries ago — half-timbered houses, Baroque facades, and narrow lanes climbing up from the waterfront.

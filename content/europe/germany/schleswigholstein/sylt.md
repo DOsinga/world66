@@ -5,6 +5,7 @@ latitude: 54.902662
 longitude: 8.331149
 title: Sylt
 type: location
+score: 0.53
 ---
 
 Sylt is Germany's most famous North Sea island, a long, narrow sliver of sand and dune stretching 40 kilometres off the coast of Schleswig-Holstein. Connected to the mainland only by the Hindenburgdamm railway causeway, it has been the preferred seaside retreat of Hamburg's wealthy for over a century — and the prices reflect it. Sylt is regularly called Germany's most expensive island.

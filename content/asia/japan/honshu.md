@@ -5,6 +5,7 @@ latitude: 36.2048
 longitude: 138.2529
 title: Honshu
 type: location
+score: 0.68
 ---
 
 Honshu is Japan's main island and home to most of what visitors come to see. It stretches over 1,300 kilometers from the subtropical south to the snowy north, and contains the country's biggest cities, most sacred temples, and finest landscapes.

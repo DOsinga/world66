@@ -1,8 +1,9 @@
 ---
-title: "Bucharest"
+title: Bucharest
 type: location
 latitude: 44.436141
 longitude: 26.102684
+score: 0.56
 ---
 
 The 500-year-old town of Bucharest, with a population of 2,100,000, was once touted as the "Small Paris". Bucharest today, like any big capital, is a bustling modern metropolis full of life and diversity. Touting a rich and full history, Bucharest offers attractive opportunities to enjoy and explore.

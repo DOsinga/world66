@@ -5,6 +5,7 @@ latitude: 42.424811
 longitude: 25.625748
 title: Stara Zagora
 type: location
+score: 0.39
 ---
 
 Stara Zagora is a mid-sized Bulgarian city of about 180,000 people in the upper Thracian plain, between the Sredna Gora mountains to the north and the Sarnena Gora to the south. It is one of the oldest continuously inhabited cities in Europe — Neolithic dwellings dating back 8,000 years have been excavated in the city centre and can be visited in situ.

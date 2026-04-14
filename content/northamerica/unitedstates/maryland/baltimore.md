@@ -5,6 +5,7 @@ latitude: 39.290882
 longitude: -76.610759
 done:
   location_cleanup: 2026-04-06
+score: 0.46
 ---
 
 Baltimore gets a bad rap, and some of it is earned. But this is a city with serious character — gritty, unpretentious, and fiercely loyal to its own identity. It is not Washington, D.C., and it does not want to be.

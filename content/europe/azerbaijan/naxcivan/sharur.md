@@ -5,6 +5,7 @@ latitude: 39.589265
 longitude: 45.036218
 title: Sharur
 type: location
+score: 0.29
 ---
 
 Travel Guide

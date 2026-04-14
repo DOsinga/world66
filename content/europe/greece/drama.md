@@ -5,6 +5,7 @@ latitude: 41.149944
 longitude: 24.146829
 title: Drama
 type: location
+score: 0.41
 ---
 
 Drama is a city in northeastern Greece, in the region of Eastern Macedonia and Thrace, set in a broad plain between the Rhodope mountains to the north and the Kavala plain to the south. It is one of the greenest cities in Greece, with numerous springs and streams running through the city centre, feeding parks and gardens that give it a pleasant, almost alpine character unusual for Greece.

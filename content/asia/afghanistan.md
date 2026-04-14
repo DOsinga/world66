@@ -9,6 +9,7 @@ image_license: Public domain
 image_attribution: Employee of the U.S. State Department
 done:
   country_cleanup: 2026-03-30
+score: 0.1
 ---
 
 Afghanistan is one of the most beautiful and least accessible countries on earth. The Hindu Kush mountains cut through its heart, rising above 7,000 meters. The landscape ranges from high alpine valleys to scorching deserts, and the history runs deeper than almost anywhere in Central Asia. Alexander the Great marched through here. The Silk Road crossed it. Genghis Khan destroyed its greatest cities, and they were rebuilt, and destroyed again.

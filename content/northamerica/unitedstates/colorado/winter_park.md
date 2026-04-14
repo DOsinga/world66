@@ -5,6 +5,7 @@ latitude: 39.8917
 longitude: -105.7631
 title: Winter Park
 type: location
+score: 0.55
 ---
 
 Winter Park is a ski town tucked into the Rocky Mountains about 70 miles northwest of Denver, sitting at an elevation of nearly 9,000 feet. It is one of Colorado's most accessible mountain resorts — the drive from Denver takes under two hours, and Amtrak's Winter Park Express runs a seasonal ski train straight from Union Station to the base of the slopes.

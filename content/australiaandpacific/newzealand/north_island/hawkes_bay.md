@@ -5,6 +5,7 @@ latitude: -39.941397
 longitude: 176.569649
 title: Hawke's Bay
 type: location
+score: 0.59
 ---
 
 Hawke's Bay lies on the sunny east coast of the [North Island](/australiaandpacific/newzealand/north_island) of [New Zealand](/australiaandpacific/newzealand) — one of the country's warmest and driest regions, and its oldest wine-producing area. The landscape is a mix of rolling farmland, orchards, and vineyards backed by the Kaweka and Ruahine ranges.

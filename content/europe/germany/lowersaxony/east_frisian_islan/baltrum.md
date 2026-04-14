@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Baltrum_(view_from_the_west).jpg
 title: Baltrum
 type: location
+score: 0.49
 ---
 
 Baltrum is the smallest of the seven inhabited East Frisian Islands — just five kilometres long and barely a kilometre wide. Cars are banned entirely, and there is not even a paved road. Getting anywhere means walking, cycling, or hitching a ride on one of the electric carts that handle luggage and supplies. The result is an almost surreal quiet, broken only by wind, birdsong, and the occasional church bell.

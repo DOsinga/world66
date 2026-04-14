@@ -5,6 +5,7 @@ latitude: 46.448152
 longitude: -87.63059
 title: Marquette
 type: location
+score: 0.47
 ---
 
 Marquette is the largest city on [Michigan](/northamerica/unitedstates/michigan)'s Upper Peninsula, set on the shore of Lake Superior with dramatic red sandstone bluffs and long views across the water. In winter it is one of the snowiest cities in the eastern United States — good for skiing, snowshoeing, and snowmobiling. In summer the lake comes alive with kayaking, fishing, and swimming at Presque Isle Park.

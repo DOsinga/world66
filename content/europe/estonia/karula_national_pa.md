@@ -5,6 +5,7 @@ latitude: 57.7081
 longitude: 26.4947
 title: Karula National Park
 type: location
+score: 0.45
 ---
 
 Estonia's smallest national park, established in 1993, covers the rolling Karula uplands in Valgamaa. The landscape was shaped by continental glaciers thousands of years ago and is noted for its rich diversity — marshes, swamp-forests, small lakes, streams, meadows and flower-covered knolls and hills.

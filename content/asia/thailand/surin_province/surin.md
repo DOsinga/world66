@@ -5,6 +5,7 @@ latitude: 15.061014
 longitude: 103.761312
 title: Surin
 type: location
+score: 0.46
 ---
 
 Surin is a medium-sized city in the Isan region of northeastern [Thailand](/asia/thailand), and the capital of the province that bears its name. It sits on the flat, dry plateau of lower Isan, closer to the Cambodian border than to Bangkok.

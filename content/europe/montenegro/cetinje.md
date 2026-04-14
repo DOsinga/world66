@@ -5,6 +5,7 @@ latitude: 42.389633
 longitude: 18.924609
 title: Cetinje
 type: location
+score: 0.53
 ---
 
 Cetinje is the old royal capital of Montenegro, sitting in a high plateau in the mountains above Budva. It was the seat of the Petrović-Njegoš dynasty and the capital of the Principality (then Kingdom) of Montenegro from 1482 until 1918, when it was incorporated into Yugoslavia. Now it has a population of around 13,000 and a slightly melancholy grandeur.

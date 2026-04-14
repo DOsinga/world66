@@ -5,6 +5,7 @@ latitude: 63.825657
 longitude: 20.263074
 title: Umeå
 type: location
+score: 0.48
 ---
 
 Umeå is the largest city in northern Sweden and one of the country's fastest-growing, driven by its large university and a lively cultural scene that belies its position well inside the Arctic Circle. Sitting on the Ume River where it meets the Gulf of Bothnia, the city has a youthful energy — students make up a significant portion of the population — and more going on culturally than many Swedish cities twice its size.

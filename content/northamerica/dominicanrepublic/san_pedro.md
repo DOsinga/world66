@@ -5,6 +5,7 @@ latitude: 18.4604
 longitude: -69.3051
 title: San Pedro de Macorís
 type: location
+score: 0.41
 ---
 
 San Pedro de Macorís is a port city on the southeastern coast of the Dominican Republic, about 70 kilometres east of [Santo Domingo](/northamerica/dominicanrepublic/santodomingo). It is one of the country's most distinctive cities — a place with a real history, a fierce local pride, and a reputation that reaches far beyond its size.

@@ -5,6 +5,7 @@ latitude: 46.49272
 longitude: -80.991211
 title: Sudbury
 type: location
+score: 0.39
 ---
 
 Greater Sudbury is a sprawling northern Ontario city built on one of the richest nickel deposits on Earth — a legacy of a meteorite impact some 1.85 billion years ago. The mining history is impossible to ignore: a 9-metre-tall nickel coin towers over the city on Big Nickel Road, and the blackened rock outcrops around town are a direct result of decades of smelter emissions that stripped the surrounding landscape bare. Since the 1970s, an ambitious regreening program has replanted millions of trees, and today the countryside around the city is recovering nicely.

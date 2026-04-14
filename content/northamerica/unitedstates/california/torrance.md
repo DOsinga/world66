@@ -5,6 +5,7 @@ latitude: 33.837139
 longitude: -118.341361
 title: Torrance
 type: location
+score: 0.32
 ---
 
 Torrance is a city in the South Bay region of Los Angeles County, sitting between the beach cities of Redondo Beach and Hermosa Beach. It is primarily a residential and industrial city rather than a tourist destination, but it has a pleasant downtown area and is home to the largest Honda America headquarters outside Japan, reflecting the large Japanese-American community in the South Bay.

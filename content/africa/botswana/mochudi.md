@@ -5,6 +5,7 @@ latitude: -24.38286
 longitude: 26.14895
 title: Mochudi
 type: location
+score: 0.36
 ---
 
 Mochudi is a traditional Tswana village about 35 km north of [Gaborone](/africa/botswana/gaborone), the capital of the Bakgatla ba Kgafela people. It makes an easy half-day trip from the capital and offers a glimpse of village life that the modern sprawl of Gaborone itself does not.

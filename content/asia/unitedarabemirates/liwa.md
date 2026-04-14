@@ -5,6 +5,7 @@ latitude: 23.131
 longitude: 53.7611
 title: Liwa
 type: location
+score: 0.41
 ---
 
 Liwa is a string of oasis settlements along the northern edge of the Rub al Khali — the Empty Quarter — in the Western Region of Abu Dhabi. It is the ancestral homeland of the ruling families of both Abu Dhabi and Dubai, and the landscape is as dramatic as anywhere in the [UAE](/asia/unitedarabemirates): enormous orange sand dunes rising to over 300 metres, date palm plantations in the valleys between them, and very little else.

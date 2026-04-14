@@ -5,6 +5,7 @@ latitude: 58.6163
 longitude: 50.1357
 title: Vyatka
 type: location
+score: 0.31
 ---
 
 Vyatka — officially renamed Kirov in 1934 but still called Vyatka by many of its residents — is one of the oldest cities in the Russian northeast, founded in 1181 by Novgorodian settlers on the high western bank of the Vyatka River. It sits deep in the taiga belt, far from any tourist circuit, and has the quiet, self-contained character of a provincial Russian city that has never needed to perform for outsiders.

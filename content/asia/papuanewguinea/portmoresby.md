@@ -5,6 +5,7 @@ latitude: -9.47433
 longitude: 147.15995
 done:
   location_cleanup: 2026-04-05
+score: 0.3
 ---
 
 Port Moresby is the capital of Papua New Guinea and the main gateway to the country — almost every traveller arrives here whether they plan to or not. It is a sprawling, disorderly city of around 400,000 people on a fine natural harbour in the south-east of the island, with the older colonial downtown near the port, newer districts spreading out over the hills, and the government quarter at **Waigani**.

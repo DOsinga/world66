@@ -5,6 +5,7 @@ latitude: 35.488748
 longitude: -82.988872
 title: Waynesville
 type: location
+score: 0.45
 ---
 
 Waynesville is a charming mountain town just minutes from [Asheville](/northamerica/unitedstates/northcarolina/asheville) and Maggie Valley. The downtown Main Street is lined with independent shops, galleries, and restaurants that reward a slow afternoon of browsing.

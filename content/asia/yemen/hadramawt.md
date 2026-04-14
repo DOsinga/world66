@@ -5,6 +5,7 @@ latitude: 16.7323
 longitude: 48.6085
 title: Hadramawt
 type: location
+score: 0.19
 ---
 
 Hadramawt is a vast wadi region in eastern Yemen, stretching about 560 kilometres from the Arabian Sea to the Saudi border. It is one of the most spectacular landscapes in the Arabian Peninsula — a deep canyon cut through a limestone plateau, with ancient mud-brick tower cities perched along its walls.

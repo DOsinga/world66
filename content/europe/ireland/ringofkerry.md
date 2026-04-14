@@ -1,9 +1,10 @@
 ---
-title: "Ring of Kerry"
+title: Ring of Kerry
 type: location
 latitude: 51.8845
 longitude: -9.5808
 todo_location_cleanup: done
+score: 0.75
 ---
 
 The Ring of Kerry is a 179-km circular driving route around the Iveragh Peninsula in County Kerry, one of Ireland's most popular scenic drives. The landscape is spectacular: mountains dropping to a ragged Atlantic coastline, lakes tucked into green valleys, and views out to the Skellig Islands on a clear day. It is beautiful, and it is crowded — the route is one of the most visited in Ireland, and in summer the main road can be slow.

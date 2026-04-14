@@ -5,6 +5,7 @@ latitude: 33.6447
 longitude: 75.0188
 done:
   location_cleanup: 2026-04-06
+score: 0.28
 ---
 
 Kulgam is a small town in the southern Kashmir Valley, sitting at 1,739 metres on the banks of the river Veshaw with the foothills of the Pir Panjal mountains rising across the valley. It is the district headquarters and known locally as the rice bowl of Kashmir, surrounded by rice paddies and apple orchards.

@@ -5,6 +5,7 @@ latitude: 55.283008
 longitude: 14.791535
 title: Sandvig-Allinge
 type: location
+score: 0.57
 ---
 
 Sandvig and Allinge sit at the northern tip of Bornholm, twin villages so close they have long been treated as one. Of the two, Sandvig is the quieter — a cluster of half-timbered houses around a small harbour, backed by rocky headlands and heather-covered hills. Allinge is the more practical, with shops, restaurants, and the ferry connection to Christiansø.

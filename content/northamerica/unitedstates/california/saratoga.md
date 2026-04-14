@@ -5,6 +5,7 @@ latitude: 37.2639
 longitude: -122.0231
 title: Saratoga
 type: location
+score: 0.41
 ---
 
 Saratoga is a quiet, leafy town at the base of the Santa Cruz Mountains in Silicon Valley. Despite sitting in the heart of the Bay Area’s tech corridor, it feels a world apart — tree-lined streets, small-town shops along Big Basin Way, and hiking trails into the redwoods just minutes from downtown.

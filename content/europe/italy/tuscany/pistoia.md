@@ -5,6 +5,7 @@ latitude: 43.974096
 longitude: 10.868708
 title: Pistoia
 type: location
+score: 0.61
 ---
 
 Pistoia is a handsome Tuscan city that sits in the shadow of its famous neighbours — [Florence](/europe/italy/tuscany/florence) is 35 km east, [Lucca](/europe/italy/tuscany/lucca) 45 km west — and benefits from the relative neglect. The historic centre is compact and almost entirely medieval, built around the Piazza del Duomo, one of the finest squares in Tuscany.

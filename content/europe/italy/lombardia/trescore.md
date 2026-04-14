@@ -1,6 +1,7 @@
 ---
-title: "Trescore"
+title: Trescore
 type: location
 latitude: 45.693751
 longitude: 9.8525
+score: 0.39
 ---

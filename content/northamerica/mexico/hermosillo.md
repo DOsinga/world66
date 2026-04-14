@@ -5,6 +5,7 @@ latitude: 29.094821
 longitude: -110.96922
 title: Hermosillo
 type: location
+score: 0.36
 ---
 
 Hermosillo is the capital of Sonora, a prosperous northern state that feels as much influenced by the American Southwest as by central Mexico. Set in the low desert at about 215 metres above sea level, it is a practical, fast-moving city of around 900,000 people — the industrial and commercial hub of a region known for cattle ranching, wheat farming, car manufacturing, and some of the best beef in Mexico.

@@ -1,6 +1,7 @@
 ---
-title: "Spanish Costas"
+title: Spanish Costas
 type: location
+score: 0.58
 ---
 
 The Spanish mediterranean coast is blessed with great beaches & a good climate. 

@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Hanne
   class="new" title="User:Hannelore Hopfe (page does not exist)">Hannelore Hopfe</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.67
 ---
 
 Ecuador is one of the smallest countries in South America and one of the most rewarding to travel. It sits exactly on the equator — the name gives that away — and its geography does something remarkable within a compact space: the Pacific coast, the high Andes, and the Amazon basin all coexist here, and you can move between them in a matter of hours.

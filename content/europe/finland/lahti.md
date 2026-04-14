@@ -5,6 +5,7 @@ latitude: 60.982628
 longitude: 25.661342
 title: Lahti
 type: location
+score: 0.46
 ---
 
 Lahti is a city of about 120,000 people in southern Finland, roughly 100 km north of Helsinki — an hour by the fast train. It sits at the southern end of a lake system and at the foot of the Salpausselkä ridge, which gives the city its identity as a winter sports hub.

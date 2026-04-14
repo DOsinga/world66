@@ -1,9 +1,10 @@
 ---
-title: "Great North Woods"
+title: Great North Woods
 type: location
-latitude: 44.8500
-longitude: -71.3000
+latitude: 44.85
+longitude: -71.3
 todo_location_cleanup: done
+score: 0.43
 ---
 
 The Great North Woods is the name given to the northernmost region of New Hampshire, stretching up to the Canadian border and the borders with Vermont and Maine. About 84% of the state is forested today, and nowhere does the forest dominate the landscape more completely than here.

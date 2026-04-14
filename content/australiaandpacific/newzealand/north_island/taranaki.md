@@ -5,6 +5,7 @@ latitude: -39.3841
 longitude: 174.1974
 title: Taranaki
 type: location
+score: 0.56
 ---
 
 Taranaki is a region on the western bulge of the [North Island](/australiaandpacific/newzealand/north_island), dominated — visually and spiritually — by the near-perfect cone of Mount Taranaki. The volcano rises to 2,518 metres above a flat coastal plain, symmetrical enough that it doubled as Mount Fuji in The Last Samurai, and visible from the sea on a clear day. For the local Māori, Taranaki (the mountain) is an ancestor, a living being, and the heart of the region's identity.

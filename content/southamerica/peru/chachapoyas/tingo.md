@@ -5,6 +5,7 @@ latitude: -6.390398
 longitude: -77.941677
 title: Tingo
 type: location
+score: 0.49
 ---
 
 Old Tingo is a tiny village on the banks of the Río Utcubamba in northern Peru. It would be just another village were it not for Kuélap, the massive stone fortress of the Chachapoya civilisation perched on the ridge above.

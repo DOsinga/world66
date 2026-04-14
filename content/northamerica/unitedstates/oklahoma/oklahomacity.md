@@ -1,8 +1,9 @@
 ---
-title: 'Oklahoma City'
+title: Oklahoma City
 type: location
 latitude: 35.472989
 longitude: -97.517054
+score: 0.4
 ---
 
 Oklahoma City is the state capital and by far the largest city, with a metropolitan population of over 1.4 million. It has transformed itself from a sprawling oil town into a city with genuine character, largely through investment in its inner-city districts.

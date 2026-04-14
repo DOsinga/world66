@@ -1,8 +1,9 @@
 ---
-title: "Mandaue City"
+title: Mandaue City
 type: location
 latitude: 10.333474
 longitude: 123.961591
+score: 0.38
 ---
 
 Travel Guide

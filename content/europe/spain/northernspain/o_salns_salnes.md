@@ -1,6 +1,7 @@
 ---
-title: "O Salnés (Salnes Valley)"
+title: O Salnés (Salnes Valley)
 type: location
+score: 0.52
 ---
 
 O Salnés (Salnes Valley) traveling along the ría of Arousa's southern shore passing by villages offering varied and interesting allures, but each and every one of them has its own symbol. O Salnés presents an important natural inheritance with beautiful panoramic views of the coast and vineyard valleys. It is one of the sub-zones for the Domination of Origin Rias Baixas.

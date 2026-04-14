@@ -5,6 +5,7 @@ latitude: 33.9045
 longitude: 130.9329
 title: Moji
 type: location
+score: 0.53
 ---
 
 Moji is where Kyushu begins — or ends, depending on which way you're crossing. The Kanmon Strait is narrow here, just a few hundred metres between Kyushu and Honshu, bridged above and tunnelled below.

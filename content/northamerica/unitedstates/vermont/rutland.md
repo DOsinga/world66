@@ -5,6 +5,7 @@ latitude: 43.608479
 longitude: -72.972477
 title: Rutland
 type: location
+score: 0.39
 ---
 
 Rutland is Vermont's third-largest city, set in a valley in the Green Mountains at the intersection of Routes 4 and 7. It built its prosperity on marble quarrying — the surrounding area contains some of the world's highest-quality marble deposits, used in the Lincoln Memorial and other landmark buildings — and later became a key railroad junction.

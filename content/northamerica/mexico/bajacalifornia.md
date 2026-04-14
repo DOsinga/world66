@@ -5,6 +5,7 @@ latitude: 30.033892
 longitude: -115.142511
 title: Baja California
 type: location
+score: 0.56
 ---
 
 Baja California is the 1,300-kilometre peninsula that hangs south from the US border between the Pacific Ocean and the Gulf of California. It is mostly rugged, arid, and sparsely populated — a spine of mountains running through desert, with the sea on both sides. For travelers willing to make the drive, it is one of the most dramatic landscapes in North America.

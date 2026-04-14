@@ -5,6 +5,7 @@ latitude: 57.006132
 longitude: -5.829449
 title: Mallaig
 type: location
+score: 0.57
 ---
 
 Mallaig is a smallish town on the west coast. It is normally reached from Fort William either by road or by on of Scotland's most scenic railways. There is however a longer route frm the south or from Mull via Morvern and Moidart, which is equally picturesque and much quieter.

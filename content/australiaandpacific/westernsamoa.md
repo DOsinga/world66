@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Kelemen</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.53
 ---
 
 The Samoa Islands are located in the Pacific Ocean. Western Samoa is an independent country. [American Samoa](/australiaandpacific/americansamoa) is part of the United States. Both groups of islands were discoverd by the same ecplorer Jacon Roggeveen and share one culture. 

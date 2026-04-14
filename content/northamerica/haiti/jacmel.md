@@ -5,6 +5,7 @@ latitude: 18.2342
 longitude: -72.5358
 title: Jacmel
 type: location
+score: 0.41
 ---
 
 Jacmel is a coastal town on Haiti's southern coast, about four hours from Port-au-Prince by road. It is one of the most charming towns in the country — a port with well-preserved Victorian-era ironwork houses, a lively market, and a thriving arts scene centered on papier-mâché masks, carved wood animals, and painting.

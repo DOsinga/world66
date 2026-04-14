@@ -1,6 +1,7 @@
 ---
-title: "Wasilla"
+title: Wasilla
 type: location
 latitude: 61.582422
 longitude: -149.442563
+score: 0.37
 ---

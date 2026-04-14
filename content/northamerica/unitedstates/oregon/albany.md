@@ -5,6 +5,7 @@ latitude: 44.6365
 longitude: -123.1059
 title: Albany
 type: location
+score: 0.35
 ---
 
 Albany sits at the confluence of the Calapooia and Willamette rivers in the heart of Oregon's fertile Willamette Valley. As the Linn County seat, it's one of the oldest cities in the state, and its downtown is packed with beautifully preserved Victorian-era buildings -- more than 700 historic structures spread across four distinct heritage districts.

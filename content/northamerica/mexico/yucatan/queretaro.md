@@ -5,6 +5,7 @@ latitude: 20.805222
 longitude: -99.883738
 title: Querétaro
 type: location
+score: 0.36
 ---
 
 Querétaro is a prosperous colonial city in central Mexico, about three hours north of Mexico City. Its historic centre is a UNESCO World Heritage Site, full of Baroque churches, shaded plazas, and handsome 18th-century mansions built with pink sandstone.

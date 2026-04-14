@@ -5,6 +5,7 @@ latitude: 38.481154
 longitude: 22.500549
 title: Delphi
 type: location
+score: 0.74
 ---
 
 Delphi was once considered the centre of the world. Set dramatically on the slopes of Mount Parnassus, overlooking the vast olive-covered plain of Phocis, it served for centuries as the most important oracle in the ancient Greek world. A priestess of Apollo, the Pythia, would sit in a grotto and — under the influence of intoxicating gases rising from the earth — deliver prophecies that shaped the fates of kings and city-states. It was here that Oedipus learned his terrible destiny, and Socrates that no man was wiser than he.

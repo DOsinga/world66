@@ -5,6 +5,7 @@ latitude: 27.752773
 longitude: -15.597083
 title: Maspalomas
 type: location
+score: 0.64
 ---
 
 Maspalomas occupies the southern tip of [Gran Canaria](/europe/spain/canaryislands/crancanaria), where most of the island's tourism is concentrated. The main attraction is the Dunas de Maspalomas — a miniature Sahara of golden sand dunes stretching along the coast, protected as a nature reserve. The beach at their base is one of the longest and finest in the Canary Islands.

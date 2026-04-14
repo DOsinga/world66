@@ -5,6 +5,7 @@ latitude: 12.305183
 longitude: 76.655361
 title: Mysore
 type: location
+score: 0.56
 ---
 
 Mysore (officially Mysuru) is Karnataka's cultural capital, a graceful city of palaces, gardens, and sandalwood at the foot of the Chamundi Hills, about 150 km southwest of [Bangalore](/asia/india/karnataka/bangalore). It was the seat of the Wodeyar dynasty for centuries, and that royal heritage shows in the city's wide boulevards, grand public buildings, and — above all — the Mysore Palace, one of India's most visited monuments.

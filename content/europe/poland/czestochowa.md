@@ -5,6 +5,7 @@ latitude: 50.812047
 longitude: 19.113213
 title: Częstochowa
 type: location
+score: 0.47
 ---
 
 Częstochowa is Poland's spiritual capital, home to the Jasna Góra monastery and the Black Madonna — an icon that has drawn millions of pilgrims for over six centuries. The hilltop monastery complex dominates the city and is worth visiting regardless of your beliefs; the fortified walls, the treasury, and the sheer fervour of the pilgrims are remarkable.

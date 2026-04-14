@@ -5,6 +5,7 @@ latitude: 51.8654
 longitude: -2.2458
 title: Gloucester
 type: location
+score: 0.5
 ---
 
 Gloucester is the county town of Gloucestershire, sitting in the broad Severn Vale where the river begins to widen toward its estuary. It's an ancient place — founded by the Romans as Glevum — with a cathedral that ranks among the finest in England and a restored Victorian dockland that gives the city an unexpectedly handsome waterfront.

@@ -5,6 +5,7 @@ latitude: 50.809
 longitude: 8.7705
 title: Marburg
 type: location
+score: 0.53
 ---
 
 Marburg is a university town in Hessen built on a steep hillside above the river Lahn. The university, founded in 1527 by Philip of Hesse as the first Protestant university in the world, still dominates the town — roughly a quarter of the population are students, which gives the place a lively, youthful character despite its medieval bones.

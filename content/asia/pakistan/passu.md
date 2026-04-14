@@ -5,6 +5,7 @@ latitude: 36.465816
 longitude: 74.894326
 title: Passu
 type: location
+score: 0.48
 ---
 
 Passu is a small village on the Karakoram Highway, roughly halfway between the Hunza Valley and the Chinese border. It sits beneath a dramatic wall of jagged peaks — the Passu Cones — with two glaciers within walking distance: the Passu Glacier and the Batura Glacier, the longest in Pakistan.

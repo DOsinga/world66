@@ -5,6 +5,7 @@ latitude: 31.957897
 longitude: 77.108923
 title: Kullu
 type: location
+score: 0.56
 ---
 
 The Kullu Valley is one of the loveliest stretches of the Himalayas, a broad green corridor carved by the Beas River and flanked by densely forested ridges. Known as the *Valley of Gods*, it is studded with wooden temples dedicated to local deities, and the surrounding hills are terraced with apple orchards that turn the landscape pink each spring.

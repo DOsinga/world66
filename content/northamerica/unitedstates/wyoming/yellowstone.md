@@ -5,6 +5,7 @@ latitude: 44.428
 longitude: -110.5885
 title: Yellowstone
 type: location
+score: 0.88
 ---
 
 Yellowstone became the world's first national park in 1872, and it remains one of the most extraordinary landscapes on earth. The park sits on top of a volcanic hotspot that powers over 10,000 thermal features — geysers, hot springs, mud pots and fumaroles — more than anywhere else on the planet.

@@ -5,6 +5,7 @@ latitude: 28.8632
 longitude: -13.8299
 title: Playa Blanca
 type: location
+score: 0.55
 ---
 
 Playa Blanca sits on Lanzarote's southern tip and is the quietest of the island's three main resorts. It grew up around a small fishing port, and the old harbour area still has some of that character -- a handful of seafood restaurants line the waterfront, and the ferry to Fuerteventura departs from here.

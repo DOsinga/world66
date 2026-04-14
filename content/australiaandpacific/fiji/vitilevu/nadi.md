@@ -5,6 +5,7 @@ latitude: -17.7993
 longitude: 177.4179
 done:
   location_cleanup: 2026-04-07
+score: 0.62
 ---
 
 Nadi is where most visitors to [Fiji](/australiaandpacific/fiji) first set foot, landing at Nadi International Airport about 15 minutes north of town. The town itself is small and functional — two streets crossing, a strip of shops, a produce market — but it serves as a useful staging point for the islands and resorts beyond.

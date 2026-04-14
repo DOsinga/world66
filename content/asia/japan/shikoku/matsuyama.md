@@ -5,6 +5,7 @@ latitude: 33.8395
 longitude: 132.7654
 title: Matsuyama
 type: location
+score: 0.65
 ---
 
 Shikoku's largest city is also arguably its most interesting. Matsuyama has one of Japan's handful of original feudal castles still standing on its hilltop, a historic hot spring resort practically attached to the city limits, and a strong literary identity rooted in haiku — the poet Masaoka Shiki was born here, and his influence is still felt.

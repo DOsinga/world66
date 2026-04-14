@@ -5,6 +5,7 @@ latitude: 53.992149
 longitude: -1.539104
 title: Harrogate
 type: location
+score: 0.57
 ---
 
 Harrogate is a handsome Victorian spa town in [North Yorkshire](/europe/unitedkingdom/england/northyorkshire), with broad tree-lined avenues, immaculate public gardens, and an air of quiet prosperity. The town grew rich in the 18th and 19th centuries on the strength of its mineral springs — visitors came from across Europe to "take the waters" — and the legacy shows in the elegant stone architecture of the town centre.

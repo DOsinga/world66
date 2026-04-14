@@ -9,6 +9,7 @@ image: abemama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kiribati_Abemama_Atoll.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Flexmaen
+score: 0.37
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Abemama*

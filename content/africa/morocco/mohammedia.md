@@ -5,6 +5,7 @@ latitude: 33.6958
 longitude: -7.3893
 title: Mohammedia
 type: location
+score: 0.44
 ---
 
 Mohammedia is a coastal city midway between [Casablanca](/africa/morocco/casablanca) (30 km south) and [Rabat](/africa/morocco/rabat) (60 km north). It began as a small Portuguese trading post and was known as Fedala until Moroccan independence. Today it serves largely as a beach getaway for Casablanca residents, with a long sandy coastline and a more relaxed pace than its larger neighbour.

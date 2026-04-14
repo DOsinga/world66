@@ -5,6 +5,7 @@ latitude: 41.9584
 longitude: -70.6673
 title: Plymouth
 type: location
+score: 0.53
 ---
 
 Plymouth was one of the first European settlements in North America, settled by the Pilgrims in 1620. After a perilous crossing of the Atlantic on the *Mayflower* and a cold first few winters, the Plymouth colony began to flourish, and was the precursor to many others soon to follow.

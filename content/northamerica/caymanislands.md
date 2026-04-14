@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Lhb12
   class="new" title="User:Lhb1239 (page does not exist)">Lhb1239</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.7
 ---
 
 Three small British Overseas Territory islands sitting in the western Caribbean, about 150 miles south of Cuba. The Cayman Islands are one of the world's wealthiest places per capita — a status built on offshore finance and high-end tourism rather than agriculture or industry. Expect polished infrastructure, immaculate beaches, and prices to match.

@@ -5,6 +5,7 @@ latitude: 4.262992
 longitude: 72.991745
 title: Rasdhoo
 type: location
+score: 0.72
 ---
 
 Rasdhoo is a small inhabited island at the northern tip of Ari Atoll, about 56 kilometres west of [Malé](/asia/maldives/male). Unlike the resort islands nearby, Rasdhoo is a local island — you stay in guesthouses rather than resorts, eat at local cafés, and get a sense of everyday Maldivian life.

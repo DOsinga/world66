@@ -5,6 +5,7 @@ latitude: 29.692261
 longitude: 121.278182
 title: Xikou
 type: location
+score: 0.39
 ---
 
 Xikou is a small town in the mountains south of Ningbo, best known as the birthplace of Chiang Kai-shek. His former residences and ancestral halls are scattered through the town and draw a steady stream of Chinese visitors, though few foreign tourists make the trip.

@@ -5,6 +5,7 @@ latitude: 52.8293
 longitude: 0.4626
 title: Wolferton
 type: location
+score: 0.36
 ---
 
 Wolferton is a tiny village on the western edge of Norfolk, about 3 miles from Sandringham. It sits within the Sandringham Estate woodland, surrounded by stands of mature trees that give it an unexpectedly secluded feel.

@@ -5,6 +5,7 @@ latitude: 53.4072
 longitude: -2.9917
 done:
   location_cleanup: 2026-04-06
+score: 0.56
 ---
 
 Situated on a broad curve of the Mersey, Liverpool is one of the world's great port cities. In the 19th century it was second only to London in the British Empire, and its docks were the departure point for millions of emigrants heading to the Americas. If you live in North America, your ancestors more than likely passed through the famous Mersey docks.

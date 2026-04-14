@@ -1,8 +1,9 @@
 ---
-title: "Bowral"
+title: Bowral
 type: location
 latitude: -34.481663
 longitude: 150.417787
+score: 0.49
 ---
 
 Travel Guide

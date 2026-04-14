@@ -5,6 +5,7 @@ latitude: 39.5988
 longitude: -110.8107
 title: Price
 type: location
+score: 0.31
 ---
 
 Price is a small city in Carbon County in eastern Utah, sitting at the edge of the Colorado Plateau roughly two hours southeast of Salt Lake City. It is a working coal-mining town without much tourist gloss, but it punches above its weight for anyone interested in prehistoric life: the College of Eastern Utah Prehistoric Museum (now the USU Eastern Prehistoric Museum) holds one of the finest collections of dinosaur fossils in the region, including the fearsome Utahraptor and the long-necked Camarasaurus.

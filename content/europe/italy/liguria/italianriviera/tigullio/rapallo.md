@@ -5,6 +5,7 @@ latitude: 44.351147
 longitude: 9.229671
 title: Rapallo
 type: location
+score: 0.59
 ---
 
 Rapallo is the largest town on the Tigullio Gulf, with around 30,000 residents and a long history as a resort. Its symbol is the small sixteenth-century castle that stands on a promontory in the bay — once a defence against Saracen pirates, now a venue for art exhibitions with its feet in the sea. The seafront promenade curves around the harbour in the classic Ligurian fashion, all palm trees and pastel-painted hotels.

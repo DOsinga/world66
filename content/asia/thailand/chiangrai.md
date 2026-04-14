@@ -5,6 +5,7 @@ latitude: 19.758952
 longitude: 99.673459
 done:
   location_cleanup: 2026-04-07
+score: 0.69
 ---
 
 Chiang Rai is Thailand's northernmost major city, set in a broad river valley surrounded by forested mountains near the borders with Myanmar and Laos. It is calmer, smaller, and less commercialised than Chiang Mai, with a good night market, pleasant temples, and easy access to some of northern Thailand's most interesting countryside.

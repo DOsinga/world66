@@ -5,6 +5,7 @@ latitude: 59.581084
 longitude: 9.173583
 title: Heddal
 type: location
+score: 0.49
 ---
 
 Heddal is a small village in Telemark, about 150 km southwest of Oslo, known for one thing: the Heddal Stave Church, the largest of Norway's surviving stave churches. Built in the early 13th century, the triple-nave structure rises in tiers of dark tarred timber and looks almost impossibly intricate from the outside.

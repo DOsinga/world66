@@ -5,6 +5,7 @@ title: Los Angeles
 type: location
 done:
   location_cleanup: 2026-04-05
+score: 0.67
 ---
 
 L.A. is the quintessential American 21st century city – embracing and absorbing everything in its path – from culture to food to people – and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.

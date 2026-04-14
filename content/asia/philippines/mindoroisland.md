@@ -5,6 +5,7 @@ latitude: 12.8692
 longitude: 121.1345
 title: Mindoro Island
 type: location
+score: 0.51
 ---
 
 Mindoro is a large island south of Luzon in the [Philippines](/asia/philippines), split into two provinces: Oriental Mindoro on the east coast and Occidental Mindoro on the west. Most travellers head straight for the dive sites around Puerto Galera on the northeast tip, particularly [Sabang Beach](/asia/philippines/mindoroisland/sabangbeach), which has some of the best and most accessible diving in the Philippines.

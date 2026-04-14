@@ -1,8 +1,9 @@
 ---
-title: "Ohio's Amish Country"
+title: Ohio's Amish Country
 type: location
 latitude: 40.5534
 longitude: -81.9079
+score: 0.49
 ---
 
 The largest Amish settlement in the world, centred on Holmes County in northeastern Ohio. The region covers eight counties — Holmes, Wayne, Tuscarawas, Coshocton, Stark, Knox, Ashland, and Richland — and is Ohio's top tourist destination. The landscape of rolling hills, farmland, and back roads is genuinely beautiful, and the Amish communities here have maintained their traditional way of life more completely than almost anywhere else in North America.

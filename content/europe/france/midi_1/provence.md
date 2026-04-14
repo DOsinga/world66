@@ -5,6 +5,7 @@ latitude: 44.0581
 longitude: 6.0639
 title: Provence
 type: location
+score: 0.75
 ---
 
 Provence is the southeast corner of [France](/europe/france), stretching from the Rhône valley to the Italian border, from the lavender plateaux of the Luberon to the Mediterranean coast. It is one of Europe's most celebrated regions — the light that drew Cézanne and Van Gogh, the Roman ruins of Arles and Orange, the wild marshlands of the Camargue, and hilltop villages that seem carved from the rock itself.

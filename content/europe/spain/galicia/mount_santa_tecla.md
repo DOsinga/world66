@@ -5,6 +5,7 @@ latitude: 41.889
 longitude: -8.8718
 title: Mount Santa Tecla
 type: location
+score: 0.45
 ---
 
 Mount Santa Tecla rises above the mouth of the Miño River at the very southwestern tip of Galicia, just outside the town of A Guarda. The summit offers one of the most spectacular viewpoints in northwestern Spain — on a clear day you can see south into Portugal, west across the Atlantic, and up the Galician coast.

@@ -5,6 +5,7 @@ latitude: 7.4828
 longitude: 4.5604
 title: Ile-Ife
 type: location
+score: 0.35
 ---
 
 Ile-Ife — often called simply Ife — holds a singular place in Yoruba culture: this is where, according to tradition, Oduduwa descended from the heavens on a chain and created the earth. Whether or not you subscribe to the cosmology, the city has a legitimate claim to being one of the oldest urban centres in West Africa, and the archaeological record backs it up. The Ife bronzes and terracottas discovered here, some dating to the 12th–14th centuries, rank among the finest sculpture produced anywhere in the medieval world.

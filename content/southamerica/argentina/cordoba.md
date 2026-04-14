@@ -5,6 +5,7 @@ latitude: -31.416687
 longitude: -64.183419
 title: Cordoba
 type: location
+score: 0.56
 ---
 
 Ask any Argentinian about their favourite part of the country and many will answer: the province of Córdoba. About 800 km northwest of Buenos Aires, this region is where porteños come to escape the capital and breathe mountain air. The Sierras de Córdoba — rolling, scrubby ranges that rarely top 2,800 metres — are laced with rivers, lakes, and small valleys, and the villages tucked into them have become beloved holiday destinations: Villa Carlos Paz on the lake, Mina Clavero with its river pools, the German-flavoured Villa General Belgrano, and the hippie haven of San Marcos Sierra.

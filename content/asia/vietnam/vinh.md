@@ -5,6 +5,7 @@ latitude: 18.735841
 longitude: 105.69061
 title: Vinh
 type: location
+score: 0.4
 ---
 
 **Vinh** is a rather nondescript city on the coast to the south of [Hanoi](/asia/vietnam/hanoi). It is the centre of some of the poorest areas in Vietnam and thus provides the visitor some insight into the difficulties facing a country emerging from a long period of isolation. 

@@ -5,6 +5,7 @@ latitude: -33.858228
 longitude: 121.893161
 title: Esperance
 type: location
+score: 0.55
 ---
 
 Esperance sits on the southern coast of Western Australia, a long way from anywhere — about 700 km southeast of Perth. The reward for getting here is some of the most beautiful coastline in the country. The beaches along the Great Ocean Drive are startlingly white, the water an intense, almost unreal turquoise, and in the right season you will have long stretches entirely to yourself.

@@ -5,6 +5,7 @@ latitude: 40.493588
 longitude: 50.149548
 title: Mardakan
 type: location
+score: 0.33
 ---
 
 Mardakan is a small town on the Absheron Peninsula, about 30 km north-east of [Baku](/europe/azerbaijan/baku). Named after the ancient tribe of the Mards, it sits among flat-roofed houses and old mansions — many now converted into sanatoria. In summer, Baku residents flock here to escape the city heat, renting dachas and spending long weekends by the Caspian shore.

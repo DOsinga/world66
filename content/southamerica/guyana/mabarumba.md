@@ -5,6 +5,7 @@ latitude: 8.2
 longitude: -59.783
 title: Mabaruma
 type: location
+score: 0.31
 ---
 
 Mabaruma is the administrative centre of the Barima-Waini region in northwestern Guyana, sitting close to the Venezuelan border. It is a remote town reachable only by small aircraft from Georgetown or by a long boat journey. The surrounding area includes mangrove-lined coast, rivers, and forest that is part of the range of the harpy eagle — Guyana's national bird.

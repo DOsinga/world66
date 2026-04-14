@@ -5,6 +5,7 @@ latitude: 44.2273
 longitude: 8.4192
 title: Spotorno
 type: location
+score: 0.54
 ---
 
 Spotorno is a small seaside town on the Ligurian Riviera di Ponente, tucked between Savona and Noli. It has a long sandy beach backed by a palm-lined promenade, a compact historic center with narrow caruggi (alleys), and the ruins of a medieval castle on the hill above. The pace is unhurried, the water is clean, and in summer the beach fills with Italian families rather than international tourists.

@@ -5,6 +5,7 @@ latitude: 18.3358
 longitude: -64.8963
 title: US Virgin Islands
 type: location
+score: 0.69
 ---
 
 The US Virgin Islands were bought from Denmark in 1917 for $25 million in gold — one of the stranger real-estate transactions in Caribbean history. Columbus named them Las Vírgenes in 1493, in honour of St. Ursula's legendary 10,000 martyred virgins. Today the territory consists of three main islands, each with a distinct character.

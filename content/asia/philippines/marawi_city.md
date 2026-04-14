@@ -5,6 +5,7 @@ latitude: 7.9986
 longitude: 124.2928
 title: Marawi City
 type: location
+score: 0.28
 ---
 
 Marawi City sits on the northern shore of Lake Lanao, the largest lake in Mindanao and one of the oldest in the world. As the capital of Lanao del Sur province, it serves as the cultural heart of the Maranao people and is sometimes called the Islamic City of Marawi -- the only city in the Philippines with a predominantly Muslim population.

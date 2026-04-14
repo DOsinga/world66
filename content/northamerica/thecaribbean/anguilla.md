@@ -5,6 +5,7 @@ latitude: 18.2206
 longitude: -63.0686
 title: Anguilla
 type: location
+score: 0.7
 ---
 
 **Anguilla** is still a bit off the beaten Caribbean track, and that is a large part of its appeal. The northernmost of the Leeward Islands, it is a flat, 16-mile-long sliver of coral and limestone with a population of around 15,000. There are no mountains, no rainforests, no volcanoes — just some of the most beautiful beaches in the Caribbean.

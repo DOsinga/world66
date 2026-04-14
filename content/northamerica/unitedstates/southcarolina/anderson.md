@@ -5,6 +5,7 @@ latitude: 34.5034
 longitude: -82.6501
 title: Anderson
 type: location
+score: 0.34
 ---
 
 Anderson sits at the western edge of South Carolina, a small city in the foothills of the Blue Ridge Mountains that calls itself "The Electric City" — it was one of the first cities in the southeastern United States to have electricity, powered by a hydroelectric plant on the Rocky River in 1895.

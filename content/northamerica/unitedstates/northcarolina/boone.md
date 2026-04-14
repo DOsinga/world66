@@ -5,6 +5,7 @@ latitude: 36.216389
 longitude: -81.674444
 title: Boone
 type: location
+score: 0.48
 ---
 
 Boone is a mountain town in northwestern North Carolina, sitting at around 3,300 feet in the Blue Ridge Mountains. It is a popular destination year-round: skiers come in winter for the slopes at nearby Appalachian Ski Mountain, summer visitors arrive for relief from lowland heat and access to the Blue Ridge Parkway, and autumn draws leaf-peepers for some of the best fall color in the eastern United States.

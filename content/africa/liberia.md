@@ -9,6 +9,7 @@ image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/65193799@N00">dbking</a>
 done:
   country_cleanup: 2026-03-31
+score: 0.22
 ---
 
 *Africa > Liberia*

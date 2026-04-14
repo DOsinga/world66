@@ -5,6 +5,7 @@ latitude: 17.055529
 longitude: -25.172305
 title: Santo Antão
 type: location
+score: 0.57
 ---
 
 Santo Antão is the northernmost and most mountainous island in the Cape Verde archipelago, and for many visitors it is the most beautiful. The island splits dramatically into two halves: the northeast is green and lush, with steep valleys filled with sugarcane, banana plantations, and dripping tropical vegetation, while the southwest is dry, barren, and volcanic.

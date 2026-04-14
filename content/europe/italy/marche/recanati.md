@@ -5,6 +5,7 @@ latitude: 43.403509
 longitude: 13.548602
 title: Recanati
 type: location
+score: 0.49
 ---
 
 Recanati is a hilltop town in the Marche region of central Italy, overlooking the Adriatic coast from a ridge above the province of Macerata. It is best known as the birthplace of Giacomo Leopardi (1798–1837), one of the greatest Italian poets, whose brooding verse on mortality, infinity, and the indifference of nature made him a towering figure in European Romanticism. The house where he was born and spent much of his melancholy life is now a museum, with his extraordinary private library of 20,000 volumes preserved in the rooms where he read and wrote by candlelight.

@@ -5,6 +5,7 @@ latitude: 52.27196
 longitude: 8.047635
 title: Osnabrück
 type: location
+score: 0.49
 ---
 
 Osnabrück is a mid-sized city in Lower Saxony, about halfway between the Dutch border and Hannover. It played an outsized role in European history as one of the twin cities — alongside Münster — where the Peace of Westphalia was negotiated in 1648, ending the Thirty Years' War. The old town still has a compact, walkable core with a handsome cathedral and market square.

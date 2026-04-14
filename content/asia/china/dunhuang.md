@@ -5,6 +5,7 @@ latitude: 40.1411
 longitude: 94.660759
 title: Dunhuang
 type: location
+score: 0.65
 ---
 
 Dunhuang is in the wild, wild west of China: it's a good 2000 kilometres west of [Beijing](/asia/china/beijing), right on the silk road that caravans would take to get from China to the Middle East.

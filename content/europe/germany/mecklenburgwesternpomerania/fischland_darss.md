@@ -5,6 +5,7 @@ latitude: 54.41
 longitude: 12.57
 title: Fischland-Darss-Zingst
 type: location
+score: 0.54
 ---
 
 **Fischland-Darss-Zingst** is a narrow peninsula stretching along the Baltic coast in Mecklenburg-Western Pomerania, separating the Bodden lagoons from the open sea. It is one of the most beautiful stretches of coastline in northern Germany — long sandy beaches, windswept dunes, and old-growth coastal forest.

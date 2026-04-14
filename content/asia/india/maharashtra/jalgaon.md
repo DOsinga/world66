@@ -5,6 +5,7 @@ latitude: 20.842883
 longitude: 75.526125
 done:
   location_cleanup: 2026-04-07
+score: 0.33
 ---
 
 Jalgaon is a prosperous market town in the Khandesh region of northern Maharashtra, best known as the most convenient base for visiting the Ajanta Caves — one of India's supreme artistic and archaeological treasures. The town sits on the main Mumbai–Kolkata rail line, making it easy to reach from both coasts, and a steady stream of travellers passes through on their way to the caves.

@@ -5,6 +5,7 @@ latitude: 0.519833
 longitude: 35.271548
 title: Eldoret
 type: location
+score: 0.37
 ---
 
 Eldoret is Kenya's fifth-largest city, an agricultural and trading hub in the Rift Valley highlands at an elevation of around 2,100 metres. It is the centre of Kalenjin country and the heartland of Kenyan distance running — many of the world's greatest marathon runners have trained here, drawn by the altitude, the terrain, and a running culture that goes back generations.

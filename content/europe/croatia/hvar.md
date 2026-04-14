@@ -1,10 +1,11 @@
 ---
-title: "Hvar"
+title: Hvar
 type: location
 latitude: 43.173941
 longitude: 16.556516
 done:
   location_cleanup: '2026-04-07'
+score: 0.76
 ---
 
 South of [Brač](/europe/croatia/brac) and easily reached from [Split](/europe/croatia/split), Hvar is the longest island in the Adriatic and one of the sunniest places in Croatia. The island is covered with vineyards, olive groves, and lavender fields that scent the summer air.

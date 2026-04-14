@@ -5,6 +5,7 @@ latitude: 15.5747
 longitude: -61.457
 title: Portsmouth
 type: location
+score: 0.45
 ---
 
 Portsmouth is [Dominica's](/northamerica/dominica) second town, a quiet settlement on Prince Rupert Bay in the north of the island. It serves as the base for visiting Cabrits National Park, where the restored Fort Shirley — an 18th-century British garrison — sits on a volcanic headland between two beaches.

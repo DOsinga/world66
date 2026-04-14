@@ -3,6 +3,7 @@ latitude: 34.043778
 longitude: 71.901693
 title: Kheshgi
 type: location
+score: 0.19
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: 44.9773
 longitude: -93.2655
 done:
   location_cleanup: 2026-04-06
+score: 0.49
 ---
 
 Minneapolis is a city that punches well above its weight in culture, food, and green space. It sits on both banks of the Mississippi River, connected by a network of parks and lakes that would make most American cities jealous. The Chain of Lakes — Cedar, Isles, Bde Maka Ska, and Harriet — threads through the western neighborhoods, drawing runners, cyclists, and swimmers year-round. In winter, the lakes freeze and the city doesn't slow down. People skate, ski, and fish on the ice.

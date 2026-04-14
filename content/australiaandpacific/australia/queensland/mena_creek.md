@@ -1,10 +1,11 @@
 ---
-title: "Mena Creek"
+title: Mena Creek
 type: location
 latitude: -17.65487
 longitude: 145.956352
 done:
   location_cleanup: 2026-04-10
+score: 0.41
 ---
 
 Mena Creek is a small township in the wet tropics of North Queensland, about 90 kilometres south of Cairns on the Pacific Coast Highway. It would be entirely unremarkable except for **Paronella Park** — one of Queensland's most unusual and atmospheric attractions.

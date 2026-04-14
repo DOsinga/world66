@@ -1,10 +1,11 @@
 ---
-title: "Whanganui Region"
+title: Whanganui Region
 type: location
-latitude: -39.9300
-longitude: 175.0500
+latitude: -39.93
+longitude: 175.05
 done:
   location_cleanup: '2026-04-09'
+score: 0.51
 ---
 
 The Whanganui region of New Zealand's North Island takes its name from the Whanganui River, which winds 290 km from the slopes of Mount Tongariro to the Tasman Sea. The river is one of the few in New Zealand navigable for most of its length, and for a century before roads arrived, it was the only route into the interior — a kind of antipodean Amazon for travellers and missionaries.

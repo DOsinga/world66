@@ -1,8 +1,9 @@
 ---
-title: "Boracay"
+title: Boracay
 type: location
 latitude: 11.969369
 longitude: 121.922734
+score: 0.75
 ---
 
 Travel Guide

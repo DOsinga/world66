@@ -5,6 +5,7 @@ latitude: 51.833
 longitude: -1.6833
 title: Cotswolds
 type: location
+score: 0.72
 ---
 
 The Cotswolds is an area of gentle hills with dry-stone walls criss-crossing the landscape, hidden river valleys, and distinctive market towns and villages built from the famous honey-coloured Cotswold stone. Towns like Winchcombe, Bibury, and Painswick have a timeless charm that draws visitors from all over the world — sometimes too many visitors, in summer especially. If you want the Cotswolds to yourself, avoid Bourton-on-the-Water on a weekend and instead take to the footpaths. The best way to experience the region is on foot, hiking from village to village through rolling farmland and woodland.

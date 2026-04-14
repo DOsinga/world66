@@ -7,6 +7,7 @@ latitude: 51.9851
 longitude: 5.8987
 done:
   location_cleanup: 2026-04-06
+score: 0.52
 ---
 
 Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of *A Bridge Too Far* -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: a rebuilt bridge named after the operation, the excellent Airborne Museum in nearby Oosterbeek, and a few memorials are all that remain.

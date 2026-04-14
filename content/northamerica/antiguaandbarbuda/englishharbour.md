@@ -5,6 +5,7 @@ latitude: 17.0048
 longitude: -61.7649
 title: English Harbour
 type: location
+score: 0.64
 ---
 
 English Harbour is a historic port on the southern coast of [Antigua](/northamerica/antiguaandbarbuda), best known as the site of Nelson's Dockyard — the only continuously working Georgian dockyard in the world. The restored naval base, where Horatio Nelson was stationed in the 1780s, is now a UNESCO World Heritage Site and the heart of Antigua's yachting scene.

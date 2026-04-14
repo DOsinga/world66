@@ -5,6 +5,7 @@ latitude: -32.9275
 longitude: 151.7817
 title: Newcastle
 type: location
+score: 0.49
 ---
 
 Newcastle sits on a headland above a working harbour, about two hours north of Sydney by road or rail. It is Australia's seventh-largest city, but it carries itself more like a big country town — unhurried, unpretentious, and genuinely welcoming to visitors.

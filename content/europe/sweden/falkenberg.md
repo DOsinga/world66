@@ -5,6 +5,7 @@ latitude: 56.904894
 longitude: 12.491293
 done:
   location_cleanup: 2026-04-05
+score: 0.46
 ---
 
 Falkenberg is a pleasant small coastal town in **Halland**, midway along Sweden's south-west coast between Gothenburg and Malmö. The **Ätran river** runs through the centre and empties into the Kattegat just below the old town, where low wooden houses cluster around the 14th-century **Sankt Laurentii Church** — one of the best-preserved medieval stone churches in the region. The beach at **Skrea strand**, a ten-minute drive south of the centre, is one of the longest sandy beaches in Sweden and a popular Swedish summer destination.

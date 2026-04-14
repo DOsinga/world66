@@ -5,6 +5,7 @@ latitude: 62.4452
 longitude: 13.8628
 done:
   location_cleanup: 2026-04-06
+score: 0.48
 ---
 
 Vemdalen is a small village in the Härjedalen mountains of northern [Sweden](/europe/sweden), sitting in a valley along the river Veman at around 500 metres above sea level. It is best known as a ski destination -- three mountain resorts, Björnrike, Vemdalsskalet, and Storhogna, lie within a kilometre of each other on the slopes above the village, each with its own character. But Vemdalen has plenty to offer in summer too, when the mountains open up for hiking, fishing, and wildlife.

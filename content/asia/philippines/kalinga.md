@@ -5,6 +5,7 @@ latitude: 17.46
 longitude: 121.31
 title: Kalinga
 type: location
+score: 0.48
 ---
 
 Kalinga is a mountainous province in the Cordillera region of northern Luzon, known for its dramatic river gorges, rice terraces, and the living traditions of the Kalinga people. The name comes from the Ibanag word for "headhunters" — a practice long abandoned but still part of the province's fierce identity. Elderly Kalinga women still bear the traditional tattoos (*batok*) that once marked warriors and their wives.

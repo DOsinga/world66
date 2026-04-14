@@ -5,6 +5,7 @@ latitude: 51.680008
 longitude: 39.183725
 title: Voronezh
 type: location
+score: 0.33
 ---
 
 Voronezh is a city of around one million people on the Don River, roughly 500 km south of Moscow. Founded in 1585 as a military outpost, it later became the birthplace of the Russian Navy — Peter the Great chose it as the site where Russia's first fleet was built in the 1690s. That naval heritage sits at the heart of the city's identity.

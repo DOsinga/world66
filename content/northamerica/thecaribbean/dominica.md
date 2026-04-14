@@ -5,6 +5,7 @@ latitude: 15.415
 longitude: -61.371
 title: Dominica
 type: location
+score: 0.62
 ---
 
 Dominica is the Caribbean's wild child — a volcanic island so rugged and forested that Christopher Columbus, who spotted it on a Sunday in 1493 and named it accordingly, would probably still recognize the place. While its neighbours paved over their coastlines with resorts, Dominica kept its mountains, its rainforest, and its rivers. It has the largest remaining population of indigenous Kalinago (Carib) people in the Caribbean, living in a 3,700-acre territory on the island's east coast.

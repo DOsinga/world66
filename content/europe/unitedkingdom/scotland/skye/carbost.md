@@ -1,10 +1,11 @@
 ---
-title: "Carbost"
+title: Carbost
 type: location
 latitude: 57.301539
 longitude: -6.353226
 done:
   location_cleanup: 2026-04-10
+score: 0.52
 ---
 
 Carbost is a small village on the shore of Loch Harport in the Minginish peninsula, lying under the shadow of the Black Cuillin mountains. It has two things that bring visitors here: a fine beach and one of Scotland's most celebrated whisky distilleries.

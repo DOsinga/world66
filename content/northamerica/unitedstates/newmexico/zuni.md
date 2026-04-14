@@ -5,6 +5,7 @@ latitude: 35.0694
 longitude: -108.8494
 title: Zuni
 type: location
+score: 0.41
 ---
 
 The Pueblo of Zuni is the largest of the New Mexico pueblos, home to a community that has lived in this corner of the Southwest for thousands of years. It sits in a landscape of juniper- and piñon-studded mesas southwest of Grants and due south of Gallup, with the sacred Dowa Yalanne mesa rising nearby — a place deeply tied to Zuni history and identity.

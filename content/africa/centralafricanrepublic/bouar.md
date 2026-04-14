@@ -5,6 +5,7 @@ latitude: 5.95
 longitude: 15.6
 title: Bouar
 type: location
+score: 0.18
 ---
 
 Located close to the major border crossing with Cameroon, Bouar is a common stop for overland travellers passing through the [Central African Republic](/africa/centralafricanrepublic). The town is a bit run down, but thanks to its altitude — around 1,000 metres — the climate is more pleasant than in the lowlands.

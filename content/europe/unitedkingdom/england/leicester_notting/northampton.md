@@ -1,10 +1,11 @@
 ---
-title: "Northampton"
+title: Northampton
 type: location
 latitude: 52.2343
 longitude: -0.9028
 done:
   location_cleanup: 2026-04-07
+score: 0.38
 ---
 
 Northampton is the largest town in England without city status — a fact locals mention with varying degrees of pride and frustration. It's the administrative hub of Northamptonshire, positioned almost exactly between Birmingham and London (about 50 miles from each), and has good motorway and rail connections in both directions.

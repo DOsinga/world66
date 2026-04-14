@@ -5,6 +5,7 @@ latitude: 35.227209
 longitude: -80.843083
 title: Charlotte
 type: location
+score: 0.42
 ---
 
 Charlotte is North Carolina's largest city and the second-largest banking center in the United States after New York. But beyond the glass towers of Uptown, the city has genuine Southern character and a history that stretches back to the eighteenth century.

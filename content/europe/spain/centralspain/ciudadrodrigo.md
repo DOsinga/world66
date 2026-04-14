@@ -5,6 +5,7 @@ latitude: 40.597392
 longitude: -6.533518
 title: Ciudad Rodrigo
 type: location
+score: 0.5
 ---
 
 Ciudad Rodrigo is a compact walled city in western Castile, about 90 km southwest of [Salamanca](/europe/spain/castillaylon/salamanca) and close to the Portuguese border. It makes an excellent half-day or day trip from Salamanca, offering genuine medieval atmosphere without the tourist crowds.

@@ -5,6 +5,7 @@ latitude: -39.03939
 longitude: 177.427139
 title: Wairoa
 type: location
+score: 0.38
 ---
 
 Wairoa is a quiet river town in northern Hawke’s Bay, set where the Wairoa River meets the sea. It is not a tourist hub, but it is a useful base for some of the best trout fishing in New Zealand and for reaching the wild Mahia Peninsula.

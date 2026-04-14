@@ -5,6 +5,7 @@ latitude: 50.443349
 longitude: -4.624657
 title: Cornwall
 type: location
+score: 0.71
 ---
 
 Cornwall is the south-westernmost county of England, a long peninsula jutting into the Atlantic with sea on three sides. The landscape shifts dramatically as you cross the county: the north coast faces the full force of the ocean with wide surf beaches and sheer clifftops, while the south coast is gentler — sheltered coves, wooded estuaries, and pretty fishing harbours. The Gulf Stream keeps the climate mild and gives Cornwall more than its share of sunshine for England.

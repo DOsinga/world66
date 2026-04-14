@@ -5,6 +5,7 @@ latitude: -45.291553
 longitude: 167.487993
 title: Fiordland
 type: location
+score: 0.83
 ---
 
 Fiordland lies in the southwest corner of the [South Island](/australiaandpacific/newzealand/south_island), and most of it is protected as Fiordland National Park — one of the wildest and most untouched regions in [New Zealand](/australiaandpacific/newzealand). There are places here where no one has ever set foot, only flown over.

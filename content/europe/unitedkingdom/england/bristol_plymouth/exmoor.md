@@ -5,6 +5,7 @@ latitude: 51.133841
 longitude: -3.603995
 title: Exmoor
 type: location
+score: 0.61
 ---
 
 Unlike [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor), which is exclusively in Devon, Exmoor National Park lies mostly in Somerset but partly in Devon.

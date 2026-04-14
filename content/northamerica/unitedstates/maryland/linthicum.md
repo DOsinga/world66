@@ -5,6 +5,7 @@ latitude: 39.203909
 longitude: -76.659709
 title: Linthicum
 type: location
+score: 0.29
 ---
 
 Travel Guide

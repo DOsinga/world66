@@ -5,6 +5,7 @@ latitude: 42.3936
 longitude: 16.265
 title: Palagruža
 type: location
+score: 0.43
 ---
 
 Palagruža is Croatia's most remote island — a tiny sliver of rock in the middle of the Adriatic, roughly equidistant between the Croatian and Italian coasts. The island is about 1,400 metres long and 300 metres wide, rising to 90 metres at its highest point, and is covered in low Mediterranean scrub.

@@ -5,6 +5,7 @@ latitude: 16.322
 longitude: -86.5353
 done:
   location_cleanup: 2026-04-07
+score: 0.61
 ---
 
 Roatan is the largest of Honduras's Bay Islands, a 50-kilometer sliver of jungle and reef about 65 kilometers off the Caribbean coast. The island sits on the Mesoamerican Barrier Reef, the second largest in the world, and the diving here is genuinely world-class — warm, clear water with walls, wrecks, and an absurd density of marine life.

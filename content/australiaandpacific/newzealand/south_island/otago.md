@@ -5,6 +5,7 @@ latitude: -45.3975
 longitude: 170.1779
 title: Otago
 type: location
+score: 0.69
 ---
 
 Otago is one of [New Zealand](/australiaandpacific/newzealand)'s original provinces, stretching from the southeastern coast deep into the Southern Alps. Its largest city is [Dunedin](/australiaandpacific/newzealand/dunedin), founded by Scottish settlers in 1848 and named after Edinburgh — Scottish place names are everywhere in the region.

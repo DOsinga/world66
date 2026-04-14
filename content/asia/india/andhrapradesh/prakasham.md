@@ -5,6 +5,7 @@ latitude: 15.3647
 longitude: 80.0444
 title: Prakasham
 type: location
+score: 0.29
 ---
 
 Prakasham is a district in the southern coastal belt of Andhra Pradesh, stretching from the mouth of the Krishna River down toward Nellore. Its headquarters, Ongole, sits about 160 km south of Vijayawada on the Bay of Bengal coast. The district is largely agricultural — it grows cotton, tobacco, and chilies in quantity — but the coastline and a scattering of temples give it a quiet appeal for travellers passing through this part of the state.

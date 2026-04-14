@@ -3,6 +3,7 @@ title: Amazon basin
 type: location
 done:
   location_cleanup: 2026-04-06
+score: 0.64
 ---
 
 **AMAZON IN ECUADOR** **TOP**

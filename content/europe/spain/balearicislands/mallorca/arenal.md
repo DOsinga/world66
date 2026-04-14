@@ -5,6 +5,7 @@ latitude: 39.5167
 longitude: 2.75
 title: S'Arenal
 type: location
+score: 0.52
 ---
 
 S'Arenal (also known as El Arenal) is a beach resort on the southern coast of [Mallorca](/europe/spain/balearicislands/mallorca), straddling the boundary between Palma and Llucmajor. It sits at the eastern end of the Platja de Palma, a long sandy beach stretching some four kilometres to the neighbouring resort of Ca'n Pastilla, lined by a flat promenade perfect for walking.

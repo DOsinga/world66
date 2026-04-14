@@ -5,6 +5,7 @@ latitude: -26.072917
 longitude: -65.976032
 title: Cafayate
 type: location
+score: 0.62
 ---
 
 Cafayate is a small, sun-baked town in the Calchaquí Valley of northwestern Argentina, surrounded by vineyards that produce some of the country's best white wines. At 1,660 metres elevation and with more than 300 days of sunshine a year, this is one of the highest wine regions in the world, and the Torrontés grape — floral, dry, and distinctly Argentine — reaches its peak here.

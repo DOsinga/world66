@@ -1,8 +1,9 @@
 ---
-title: "Cork"
+title: Cork
 type: location
 latitude: 51.898514
 longitude: -8.472642
+score: 0.61
 ---
 
 Cork City is Ireland's FIRST city, and is the rightful capital of the entire island of Ireland. Ignore those scummy places called Belfast and Dublin - Cork has it all. 

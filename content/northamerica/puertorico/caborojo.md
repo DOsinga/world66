@@ -5,6 +5,7 @@ latitude: 18.0868
 longitude: -67.1497
 title: Cabo Rojo
 type: location
+score: 0.58
 ---
 
 Cabo Rojo sits at the southwestern tip of Puerto Rico, where the island tapers into a jagged coastline of salt flats, mangroves, and wind-scoured cliffs. It is one of the less-touristed corners of the island — quieter than the east coast resorts, and all the better for it.

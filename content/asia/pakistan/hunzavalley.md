@@ -1,6 +1,7 @@
 ---
-title: "Hunza valley"
+title: Hunza valley
 type: location
+score: 0.57
 ---
 
 The Hunza Valley is one of the most beautiful regions in Pakistan. Coming from Giligit you first pass the majestic Rakaposhi mountain, one of those 8K giants of the Western Himalaya. Once in the valley, you see the capital city of Karimabad on the left bank, with its fort perched high on the top of the hill.

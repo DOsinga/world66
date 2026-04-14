@@ -5,6 +5,7 @@ latitude: 36.143704
 longitude: -121.564593
 title: Big Sur
 type: location
+score: 0.74
 ---
 
 Big Sur is a 90-mile stretch of [California's](/northamerica/unitedstates/california) central coast where the Santa Lucia Mountains rise abruptly from the Pacific. Highway 1 clings to the cliffs between San Simeon and Carmel, crossing famous bridges — Bixby Creek Bridge is the most photographed — and passing through groves of redwoods that somehow thrive in the fog.

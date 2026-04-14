@@ -5,6 +5,7 @@ latitude: 31.7054
 longitude: 35.2024
 title: Bethlehem
 type: location
+score: 0.41
 ---
 
 Bethlehem is one of the most visited places in the Palestinian territories, drawing pilgrims and tourists who come to see the Church of the Nativity — built over the traditional site of Jesus's birth and one of the oldest continuously operating churches in the world. The church, with its fourth-century mosaics and the silver star marking the spot in the grotto below, is a UNESCO World Heritage Site.

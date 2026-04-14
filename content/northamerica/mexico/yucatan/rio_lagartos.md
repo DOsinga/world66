@@ -5,6 +5,7 @@ latitude: 21.5205
 longitude: -88.1332
 title: Rio Lagartos
 type: location
+score: 0.41
 ---
 
 Rio Lagartos is a small fishing village on the north coast of the Yucatan Peninsula, best known for the flamingo colony in the surrounding biosphere reserve. Thousands of Caribbean flamingos breed in the shallow lagoons and salt flats here — boat trips to see them are the main reason visitors come. The reserve also supports over 300 bird species and extensive mangrove habitat.

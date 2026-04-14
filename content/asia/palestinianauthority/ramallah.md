@@ -5,6 +5,7 @@ latitude: 31.9038
 longitude: 35.2034
 title: Ramallah
 type: location
+score: 0.31
 ---
 
 Ramallah is the de facto administrative capital of the Palestinian Authority, perched on a ridge in the central West Bank about fifteen kilometres north of [Jerusalem](/asia/israel/jerusalem). It has grown from a small Christian town into a busy, cosmopolitan city — by West Bank standards — with universities, NGO offices, and the most active nightlife scene in the Palestinian territories.

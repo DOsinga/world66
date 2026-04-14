@@ -5,6 +5,7 @@ latitude: 33.769
 longitude: -118.1916
 done:
   location_cleanup: 2026-04-06
+score: 0.48
 ---
 
 Long Beach sits where Los Angeles meets the Pacific, but it has never been content to play second fiddle to its famous neighbour. California's fifth-largest city has its own personality — part gritty port town, part beachside playground, part cultural hub with a surprisingly good arts scene.

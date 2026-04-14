@@ -5,6 +5,7 @@ latitude: 28.824598
 longitude: -111.937186
 title: Bahia De Kino
 type: location
+score: 0.43
 ---
 
 Bahia de Kino is where the Sonoran Desert meets the Sea of Cortez -- a quiet beach town with none of the disco-and-resort glitz of Cabo or Cancun. The sunsets alone are worth the trip.

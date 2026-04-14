@@ -5,6 +5,7 @@ latitude: 40.0484
 longitude: -86.4694
 title: Lebanon
 type: location
+score: 0.32
 ---
 
 Lebanon is the seat of Boone County, about 20 miles northwest of [Indianapolis](/northamerica/unitedstates/indiana/indianapolis) in central [Indiana](/northamerica/unitedstates/indiana). The town of about 14,000 was named for a grove of hickory trees that reminded its pioneer founders of the biblical cedars of Lebanon.

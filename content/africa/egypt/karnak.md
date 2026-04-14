@@ -5,6 +5,7 @@ latitude: 25.729427
 longitude: 32.65945
 title: Karnak
 type: location
+score: 0.7
 ---
 
 Karnak is the site of ancient Thebes, and one of the most staggering human constructions on earth. The complex is massive — 1,500 metres by 800 metres — built, added to, restored, enlarged and redecorated over a period of 1,500 years. At its heart is the enormous Amun Temple, largely constructed between 1570 and 1090 BC. Later pharaohs kept adding their own touches, and the Ptolemies and early Christians also left their mark.

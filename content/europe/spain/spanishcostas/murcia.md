@@ -1,8 +1,9 @@
 ---
-title: "Murcia"
+title: Murcia
 type: location
 latitude: 37.992379
 longitude: -1.130543
+score: 0.55
 ---
 
 The city of Murcia has a population of 320,000. It is set in the heart of a rich fertile plain at 43 metres above sea level. Unlike the rest of the region, where the terrain is dry and rugged, the soil here is irrigated by the River Segura and the land has been widely and fruitfully cultivated.

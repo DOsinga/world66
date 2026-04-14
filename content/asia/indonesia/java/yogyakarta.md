@@ -1,8 +1,9 @@
 ---
-title: 'Yogyakarta'
+title: Yogyakarta
 type: location
 latitude: -7.9778
 longitude: 110.3672
+score: 0.71
 ---
 
 Yogya is the heart of Javanese culture. Founded in 1755 as the capital of the Mataram kings, it retains its sultanate to this day -- the current Sultan still lives in the Keraton, the sprawling 18th-century palace that is really a city within a city. This is the place to experience gamelan music, wayang shadow puppetry, classical dance, and batik-making at their best. [Solo](/asia/indonesia/java/solo) is a worthy runner-up, but Yogya is number one.

@@ -5,6 +5,7 @@ latitude: 45.15254
 longitude: -78.514813
 title: Haliburton
 type: location
+score: 0.45
 ---
 
 Haliburton is the heart of Ontario's cottage country — a small town surrounded by lakes, forest, and rocky Canadian Shield landscape about three hours northeast of [Toronto](/northamerica/canada/ontario/toronto). In summer the population swells as families head to lakeside cottages for swimming, canoeing, and fishing. In autumn the hardwood forests blaze with colour and the Haliburton Highlands become one of Ontario's best leaf-peeping destinations.

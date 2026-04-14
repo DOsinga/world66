@@ -5,6 +5,7 @@ latitude: 44.696086
 longitude: -73.454291
 title: Plattsburgh
 type: location
+score: 0.36
 ---
 
 Plattsburgh sits on the western shore of Lake Champlain in upstate New York, with the Adirondack Mountains rising to the west and Vermont visible across the water. It is a quiet city with a long military history — the Battle of Plattsburgh in 1814 was a decisive American victory in the War of 1812, and the former Plattsburgh Air Force Base, closed in 1995, has been repurposed into a mixed-use development.

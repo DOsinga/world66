@@ -1,8 +1,9 @@
 ---
-title: "Wisconsin"
+title: Wisconsin
 type: location
 latitude: 44.430898
 longitude: -89.688464
+score: 0.41
 ---
 
 Much of Wisconsin's popularity is due to its natural beauty - two Great Lakes, the famous Mississippi River and extensive forests and lakes. From top-notch outdoor recreation to world-class events, attractions and lodging, visitors enjoy four seasons of unsurpassed travel opportunities.

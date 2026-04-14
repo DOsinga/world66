@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Johnson</a> from Tokyo, Japan
 done:
   country_cleanup: 2026-03-30
+score: 0.76
 ---
 
 Fifteen islands scattered across an area of ocean the size of India, with a total population of around 17,000 people. That ratio — vast sea, tiny population — tells you most of what you need to know about the Cook Islands. These are not undiscovered islands dressed up as paradise. They are the real thing.

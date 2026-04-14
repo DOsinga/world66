@@ -5,6 +5,7 @@ latitude: -28.617207
 longitude: 29.031599
 done:
   location_cleanup: 2026-04-07
+score: 0.62
 ---
 
 The Northern Drakensberg is the highest and most dramatic section of the Drakensberg range, rising to over 3,000m along the escarpment that forms the border between KwaZulu-Natal and the mountain kingdom of Lesotho. The Zulu name is Ukhahlamba — "Barrier of Spears." The basalt peaks divide the watershed: rain falling west flows towards the Atlantic, while on the eastern side it tumbles down frequently vertical slopes into KwaZulu-Natal, towards the Indian Ocean.

@@ -5,6 +5,7 @@ latitude: -39.49021
 longitude: 176.917839
 title: Napier
 type: location
+score: 0.6
 ---
 
 Napier is New Zealand's Art Deco city. After a devastating earthquake levelled the town in 1931, it was rebuilt almost entirely in the styles of the day — Stripped Classical, Spanish Mission, and above all Art Deco. Walking through the centre feels like stepping into a 1930s movie set, and the annual Art Deco Weekend in February draws visitors from around the world.

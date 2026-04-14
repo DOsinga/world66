@@ -5,6 +5,7 @@ latitude: 21.7272
 longitude: 86.1172
 title: Karanjia & Similipal
 type: location
+score: 0.4
 ---
 
 Karanjia is a small town in the Mayurbhanj district of Orissa, serving as the main gateway to Similipal National Park — one of India's largest tiger reserves, spread over 2,750 square kilometres of sal forest, grasslands, and hills.

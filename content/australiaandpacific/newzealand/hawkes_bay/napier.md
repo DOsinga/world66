@@ -5,6 +5,7 @@ latitude: -39.4902
 longitude: 176.9178
 done:
   location_cleanup: 2026-04-07
+score: 0.6
 ---
 
 Napier is the Art Deco capital of the world, and it earned that title the hard way. On 3 February 1931, a magnitude 7.8 earthquake flattened the city and killed 256 people. What rose from the rubble was an entire town centre rebuilt in the architectural style of the moment: clean lines, geometric patterns, sunburst motifs, and pastel facades. No other city has such a concentrated, cohesive collection of 1930s architecture, and walking the streets feels like stepping into a beautifully preserved time capsule.

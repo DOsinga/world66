@@ -5,6 +5,7 @@ latitude: 58.7693
 longitude: -94.1737
 done:
   location_cleanup: 2026-04-06
+score: 0.58
 ---
 
 Churchill sits on the western shore of Hudson Bay in northern Manitoba, accessible only by train, plane, or — in winter — ice road. With a population of barely a thousand, it is one of the most remote towns in Canada, but it draws visitors from around the world for three extraordinary wildlife experiences.

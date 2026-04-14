@@ -5,6 +5,7 @@ latitude: 34.444255
 longitude: -85.719689
 title: Fort Payne
 type: location
+score: 0.38
 ---
 
 Fort Payne sits in the northeastern corner of Alabama and is the gateway to Little River Canyon National Preserve. The Little River flows for most of its length atop Lookout Mountain before dropping into a dramatic canyon system — forested uplands, waterfalls, sandstone cliffs, and boulder-strewn pools that are spectacular in any season. The canyon rim drive offers overlooks of the gorge, and trails lead down to swimming holes and the base of DeSoto Falls.

@@ -10,6 +10,7 @@ latitude: 0.0236
 longitude: 37.9062
 title: Kenya
 type: location
+score: 0.44
 ---
 
 *Africa > Kenya*

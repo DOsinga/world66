@@ -5,6 +5,7 @@ latitude: 10.624835
 longitude: -9.317517
 title: Kankan
 type: location
+score: 0.29
 ---
 
 Kankan is the second-largest city in Guinea and the spiritual heart of the Malinke (Mandinka) people. For those tracing the history of the Mali Empire, this is significant ground. For everyone else, it is a dusty but atmospheric stop on the long road east from [Conakry](/africa/guineeconakry/conakry) to [Mali](/africa/mali).

@@ -3,8 +3,9 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 38.582477
 longitude: 39.396179
-title: "Elazığ"
+title: Elazığ
 type: location
+score: 0.35
 ---
 
 Elazığ is a city in eastern Turkey, sitting at around 1,000m altitude in the upper Euphrates basin. It is the gateway to Keban Dam reservoir — one of the largest in Turkey — which flooded much of the old Harput valley when it was built in the 1970s. The city itself is modern and somewhat unremarkable, but it sits in a region with deep history and dramatic landscape.

@@ -5,6 +5,7 @@ latitude: -26.654434
 longitude: 153.093367
 title: Sunshine Coast
 type: location
+score: 0.61
 ---
 
 The Sunshine Coast stretches about 100 km along the Queensland coast north of Brisbane, from Caloundra in the south to [Noosa](/australiaandpacific/australia/queensland/noosa) in the north. It is the quieter, less developed alternative to the Gold Coast — surf beaches, hinterland rainforest, and small towns that still feel like beach towns rather than resort strips.

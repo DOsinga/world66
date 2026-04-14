@@ -5,6 +5,7 @@ latitude: 33.059899
 longitude: 10.339057
 title: Ghomrassen
 type: location
+score: 0.36
 ---
 
 Ghomrassen is a small town in the Tataouine region of southern Tunisia, set in a dramatic landscape of mountains and eroded gorges. A sanctuary perches on the cliff directly above the town centre, offering good views over the surrounding countryside. The caves in the area are worth exploring.

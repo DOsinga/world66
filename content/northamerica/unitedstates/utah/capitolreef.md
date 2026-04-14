@@ -5,6 +5,7 @@ latitude: 38.29
 longitude: -111.26
 title: Capitol Reef
 type: location
+score: 0.62
 ---
 
 Capitol Reef is the least-visited of Utah's five national parks, which is exactly what makes it worth going. The centerpiece is the Waterpocket Fold — a 100-mile wrinkle in the earth's crust that tilts rock layers sideways and creates a landscape of domes, canyons, and narrow slot passages that look like they were drawn by someone who had never seen geology work the way it's supposed to.

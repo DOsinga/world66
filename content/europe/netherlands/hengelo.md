@@ -5,6 +5,7 @@ latitude: 52.265873
 longitude: 6.792405
 title: Hengelo
 type: location
+score: 0.38
 ---
 
 Hengelo is a mid-sized city in the Twente region of eastern Netherlands, close to the German border. It is an industrial town at heart — the old Stork factory complex has been partly converted into a cultural quarter with studios, a theatre, and restaurants — but the surrounding countryside of small farms and wooded estates is attractive.

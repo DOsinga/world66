@@ -5,6 +5,7 @@ latitude: 40.6518
 longitude: -119.3563
 title: Gerlach
 type: location
+score: 0.34
 ---
 
 Gerlach is a tiny town at the edge of the Black Rock Desert in northern Nevada, home to fewer than 200 people for most of the year. For one week each August, it becomes the gateway to Burning Man, when tens of thousands of people descend on the playa to build a temporary city in the desert — but for the other 51 weeks, Gerlach is as remote and quiet as Nevada gets.

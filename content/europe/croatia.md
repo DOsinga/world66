@@ -10,6 +10,7 @@ image_attribution: <bdi><a href="https://www.wikidata.org/wiki/Q28147777" class=
   title="d:Q28147777"><span title="Spanish photographer">Diego Delso</span></a></bdi>
 done:
   country_cleanup: 2026-03-30
+score: 0.57
 ---
 
 Croatia stretches along the eastern Adriatic coast, offering one of Europe's most varied travel experiences within a small country: a walled medieval city at Dubrovnik, over a thousand islands ranging from tiny rocky outcrops to substantial inhabited places, Roman ruins repurposed as living neighbourhoods in Split, UNESCO-listed national parks, and an Istrian peninsula with its own distinct Italian-inflected culture.

@@ -5,6 +5,7 @@ latitude: 9.6671
 longitude: 118.5347
 title: Palawan Island
 type: location
+score: 0.83
 ---
 
 Palawan is a long, slender island 500 km southwest of Manila, often described as the Philippines' last frontier. It remains largely free of mass tourism, with dense jungle, clear waters, and some of the best diving in the country. The island stretches from the regional capital Puerto Princesa in the south to the spectacular karst seascapes of El Nido in the north.

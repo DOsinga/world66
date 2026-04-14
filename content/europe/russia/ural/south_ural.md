@@ -5,6 +5,7 @@ latitude: 54.256939
 longitude: 57.950404
 title: South Ural
 type: location
+score: 0.26
 ---
 
 The South Ural is the southernmost stretch of the Ural Mountains, where the range tapers down from its rugged northern heights into rolling, forested hills before meeting the Kazakh steppe. The landscape here is a mix of industrial cities, mountain lakes, dense birch and pine forests, and rivers good for rafting.

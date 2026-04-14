@@ -5,6 +5,7 @@ latitude: 19.3133
 longitude: -81.2546
 title: Cayman Islands
 type: location
+score: 0.71
 ---
 
 The Cayman Islands are a British Overseas Territory south of [Cuba](/northamerica/cuba), comprising three low-lying coral islands in the western Caribbean. They are best known as an offshore financial centre — one of the world's largest — but the reason most visitors come is simpler: clear water, white sand, and some of the best diving in the Caribbean.

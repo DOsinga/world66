@@ -5,6 +5,7 @@ latitude: 53.3807
 longitude: -1.4702
 title: Sheffield
 type: location
+score: 0.42
 ---
 
 Sheffield is England's greenest city, built on seven hills at the edge of the [Peak District](/europe/unitedkingdom/england/peakdistrict). Once the steel capital of the world — the city still makes most of the country's cutlery — it has reinvented itself around two universities, a strong arts and music scene, and some of the best outdoor access of any English city. A third of Sheffield lies within the Peak District National Park.

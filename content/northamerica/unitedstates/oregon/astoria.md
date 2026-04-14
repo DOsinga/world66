@@ -5,6 +5,7 @@ latitude: 46.188201
 longitude: -123.83198
 title: Astoria
 type: location
+score: 0.53
 ---
 
 **Astoria** sits at the mouth of the Columbia River in the far northwest corner of Oregon, where the river meets the Pacific. It is the oldest American settlement west of the Rockies, established as a fur trading post by John Jacob Astor's Pacific Fur Company in 1811.

@@ -5,6 +5,7 @@ latitude: 48.290177
 longitude: 8.343635
 title: Schiltach
 type: location
+score: 0.5
 ---
 
 Schiltach sits at the confluence of the Kinzig and Schiltach rivers in the heart of the Black Forest, and it is one of the best-preserved half-timbered towns in Baden-Württemberg. The market square slopes uphill, ringed by sixteenth-century fachwerk houses in various states of careful restoration, with a fine town hall at the top. The narrow lanes behind it are just as good.

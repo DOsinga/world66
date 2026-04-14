@@ -5,6 +5,7 @@ latitude: 48.0159
 longitude: 37.8029
 title: Donetsk
 type: location
+score: 0.13
 ---
 
 Donetsk is the largest city in eastern Ukraine's Donbas region, an industrial centre built on coal and steel. Founded in 1869 by the Welsh industrialist John Hughes — the city was originally called Yuzovka after him — it grew rapidly around ironworks and coalmines. Renamed Stalino after the revolution, it became Donetsk in 1961.

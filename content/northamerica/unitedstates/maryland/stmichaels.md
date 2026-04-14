@@ -5,6 +5,7 @@ latitude: 38.7851
 longitude: -76.2244
 done:
   location_cleanup: 2026-04-07
+score: 0.47
 ---
 
 St. Michaels is a small, well-preserved harbour town on [Maryland](/northamerica/unitedstates/maryland)'s Eastern Shore, sitting between the Miles River and Broad Creek on the Chesapeake Bay. It dates from the colonial era and still has the feel of a working waterfront town, with crabbers and oystermen going out in the morning and tourists filling the restaurants by evening.

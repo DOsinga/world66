@@ -5,6 +5,7 @@ latitude: 47.3941
 longitude: 0.6848
 title: Loire Valley
 type: location
+score: 0.68
 ---
 
 The Loire Valley is France's third-largest wine region, stretching nearly 300 km along the Loire river from the Atlantic coast inland past [Tours](/europe/france/touraine/tours) and [Orleans](/europe/france/ile_de_france/orleans). The diversity here is remarkable — the region produces everything from bone-dry Muscadets near Nantes to the honeyed sweet wines of Vouvray and Quarts de Chaume.

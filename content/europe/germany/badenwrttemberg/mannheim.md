@@ -5,6 +5,7 @@ latitude: 49.489291
 longitude: 8.46731
 title: Mannheim
 type: location
+score: 0.45
 ---
 
 Mannheim sits at the confluence of the Rhine and Neckar rivers in Baden-Württemberg, directly opposite Ludwigshafen on the far bank. It is a working city more than a tourist one, but its distinctive grid layout — the centre is divided into numbered blocks rather than named streets — gives it a character all its own.

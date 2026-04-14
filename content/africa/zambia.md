@@ -1,5 +1,5 @@
 ---
-title: "Zambia"
+title: Zambia
 type: location
 latitude: -13.1339
 longitude: 28.6316
@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Tsido
   class="new" title="User:Tsidoti (page does not exist)">Tsidoti</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.48
 ---
 
 Zambia is one of Africa's great safari destinations, yet it remains blissfully uncrowded compared to its neighbors. This is the country where the walking safari was invented, where Victoria Falls thunders on its southern border, and where vast national parks shelter some of the continent's densest wildlife populations. If you want an authentic African wilderness experience without the tourist buses, Zambia is it.

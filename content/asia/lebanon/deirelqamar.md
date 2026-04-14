@@ -5,6 +5,7 @@ latitude: 33.697969
 longitude: 35.564743
 title: Deir el Qamar
 type: location
+score: 0.54
 ---
 
 Deir el Qamar ("Monastery of the Moon") is a scenic little town on the road between [Beirut](/asia/lebanon/beirut) and [Beiteddine](/asia/lebanon/beiteddine) in the Chouf Mountains. It served as the capital of Mount Lebanon from the 16th to the 19th century and has some of the best-preserved traditional architecture in the country -- stone houses with red-tiled roofs, old churches, a Druze palace and a central square lined with historic buildings.

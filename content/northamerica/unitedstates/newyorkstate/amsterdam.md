@@ -5,6 +5,7 @@ latitude: 42.936223
 longitude: -74.190582
 title: Amsterdam
 type: location
+score: 0.32
 ---
 
 Amsterdam is a small city on the Mohawk River in upstate New York, about 30 miles northwest of Albany. Once a prosperous carpet-manufacturing centre, it has the faded-grandeur look common to former mill towns in the Northeast — handsome 19th-century commercial buildings alongside empty lots.

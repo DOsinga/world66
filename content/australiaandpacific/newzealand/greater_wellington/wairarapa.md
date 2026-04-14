@@ -5,6 +5,7 @@ latitude: -41.23618
 longitude: 175.21969
 title: Wairarapa
 type: location
+score: 0.54
 ---
 
 The Wairarapa is part of the [Greater Wellington](/australiaandpacific/newzealand/north_island/greater_wellington) region.

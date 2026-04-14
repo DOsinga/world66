@@ -5,6 +5,7 @@ latitude: 41.5239
 longitude: -70.6694
 title: Woods Hole
 type: location
+score: 0.43
 ---
 
 Woods Hole is a small village at the southwestern tip of Cape Cod where two very different worlds overlap without friction: the Woods Hole Oceanographic Institution (WHOI) — one of the world's foremost marine research centers — shares the waterfront with the ferry terminal that dispatches thousands of summer visitors to Martha's Vineyard. Nobel laureates and lobstermen coexist here, and somehow both feel at home.

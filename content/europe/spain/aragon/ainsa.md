@@ -5,6 +5,7 @@ latitude: 42.41719
 longitude: 0.138644
 title: Aínsa
 type: location
+score: 0.61
 ---
 
 Aínsa is one of the most beautiful medieval villages in the Spanish Pyrenees, perched on a hilltop above the confluence of the Cinca and Ara rivers in the Sobrarbe comarca of [Aragón](/europe/spain/aragon). The lower, modern part of town is unremarkable, but climb the hill and you arrive in one of the finest old quarters in northern Spain.

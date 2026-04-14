@@ -1,10 +1,11 @@
 ---
-title: "Södertälje"
+title: Södertälje
 type: location
 latitude: 59.196429
 longitude: 17.627166
 done:
   location_cleanup: 2026-04-08
+score: 0.4
 ---
 
 Södertälje is a small city just south of [Stockholm](/europe/sweden/stockholm), known for the Södertälje Canal and lock — the largest lock in the Nordic countries — which connects Lake Mälaren to the Baltic Sea. The city has a long industrial history as the home of Scania trucks and AstraZeneca.

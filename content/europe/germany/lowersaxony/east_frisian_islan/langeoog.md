@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Langeoog_(view_from_the_southwest).jpg
 title: Langeoog
 type: location
+score: 0.49
 ---
 
 Langeoog is one of the car-free East Frisian Islands, and one of the most popular with families. The name means "long island" in Low German, and it is indeed elongated — about ten kilometres from end to end, with a broad sandy beach running the entire north coast. Behind the beach, a belt of high dunes gives way to meadows and salt marshes on the sheltered south side.

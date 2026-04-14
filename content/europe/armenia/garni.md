@@ -5,6 +5,7 @@ latitude: 40.122331
 longitude: 44.742019
 title: Garni
 type: location
+score: 0.58
 ---
 
 The main reason to come to Garni is the two-thousand-year-old Temple of Garni, the only standing Greco-Roman colonnaded building in Armenia. Built in the 1st century AD and dedicated to the sun god Mihr, it stands on the edge of a gorge with a drop of 300 metres to the Azat river below — a spectacular setting.

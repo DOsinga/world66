@@ -5,6 +5,7 @@ latitude: 15.502333
 longitude: 73.911743
 title: Old Goa
 type: location
+score: 0.63
 ---
 
 Old Goa (Velha Goa) was the capital of Portuguese India from the early 16th century until disease and decline forced the administration to move to Panjim in the 18th century. What remains is a remarkable cluster of churches, convents, and ruins — the best Portuguese colonial architecture in India, and a UNESCO World Heritage Site.

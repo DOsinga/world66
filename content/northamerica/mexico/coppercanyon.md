@@ -5,6 +5,7 @@ latitude: 27.534683
 longitude: -107.822961
 title: Copper Canyon
 type: location
+score: 0.67
 ---
 
 Copper Canyon — Barrancas del Cobre in Spanish — is not a single canyon but a vast network of more than 20 interconnected gorges carved through the Sierra Madre Occidental in the northern state of Chihuahua. Together they cover over 20,000 square miles and run deeper than the Grand Canyon, though far fewer people have heard of them.

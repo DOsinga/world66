@@ -5,6 +5,7 @@ latitude: 27.553
 longitude: 76.6346
 title: Alwar
 type: location
+score: 0.49
 ---
 
 Alwar is one of the oldest cities in Rajasthan, sitting 170 km south of Delhi at the edge of the Aravalli Range. The city itself has a handsome palace, a hilltop fort (Bala Quilla), and the peaceful Jai Samand Lake, but most visitors come for the Sariska Tiger Reserve just 35 km away.

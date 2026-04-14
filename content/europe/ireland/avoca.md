@@ -5,6 +5,7 @@ latitude: 52.823021
 longitude: -6.209618
 title: Avoca
 type: location
+score: 0.47
 ---
 
 Avoca sits in one of the prettiest valleys in County Wicklow, where two rivers meet among wooded hills. The village is small — a handful of streets along the Avoca River — but it draws visitors for the scenery and for Avoca Handweavers, Ireland's oldest working mill, producing woollen throws and blankets since 1723.

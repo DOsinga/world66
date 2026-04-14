@@ -5,6 +5,7 @@ latitude: 37.977542
 longitude: -0.682845
 title: Torrevieja
 type: location
+score: 0.51
 ---
 
 Torrevieja is a coastal city on the Costa Blanca in southeastern Spain, built between two large salt lakes that turn a vivid pink in summer. The salt industry has been the town's livelihood for centuries, and the Salinas de Torrevieja are still commercially active — the pink lake is one of the most photographed sights on this stretch of coast.

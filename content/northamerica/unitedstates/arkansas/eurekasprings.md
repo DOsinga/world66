@@ -5,6 +5,7 @@ latitude: 36.4001
 longitude: -93.7392
 done:
   location_cleanup: 2026-04-06
+score: 0.52
 ---
 
 Eureka Springs is a quirky Victorian resort town tucked into the Ozark Mountains of northwest Arkansas. The entire downtown is on the National Register of Historic Places — winding streets follow the contours of the hills, lined with ornate Victorian buildings that house galleries, restaurants, and shops. There are no traffic lights in town.

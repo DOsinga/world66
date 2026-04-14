@@ -5,6 +5,7 @@ latitude: 5.4759
 longitude: 10.4218
 title: Bafoussam
 type: location
+score: 0.34
 ---
 
 Bafoussam is the capital of the West Region of Cameroon and the cultural centre of the Bamiléké people, about 250 kilometres northeast of [Douala](/africa/cameroon/douala). The highland setting at around 1,400 metres makes the climate noticeably cooler than the coast.

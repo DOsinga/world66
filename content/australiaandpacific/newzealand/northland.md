@@ -1,8 +1,9 @@
 ---
-title: "Northland"
+title: Northland
 type: location
 latitude: -35.375509
 longitude: 173.947011
+score: 0.57
 ---
 
 **Northland** is the long peninsula stretching north from [Auckland](/australiaandpacific/newzealand/auckland) to Cape Reinga, where the Tasman Sea meets the Pacific Ocean. It's the warmest and most subtropical part of New Zealand.

@@ -5,6 +5,7 @@ latitude: 54.653792
 longitude: -8.110262
 title: Donegal
 type: location
+score: 0.62
 ---
 
 Donegal is Ireland at its most elemental. The county stretches along the northwest Atlantic coast in a tangle of peninsulas, sea inlets, and mountain moorland — one of the largest and least-populated counties in the Republic, and arguably the wildest. If you want the green, windswept Ireland of imagination rather than the tourist-brochure version, this is where you go.

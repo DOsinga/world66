@@ -3,6 +3,7 @@ title: Corcovado National Park
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.74
 ---
 
 Corcovado is widely regarded as the most biologically intense place on Earth. The national park covers 424 square kilometers of the Osa Peninsula's southern tip — rainforest, mangrove, wetland, and coastline — and contains more species per square kilometer than almost anywhere else on the planet. This is not a zoo or a nature trail. It's a genuine wilderness.

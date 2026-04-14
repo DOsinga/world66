@@ -5,6 +5,7 @@ latitude: 40.182573
 longitude: 29.067504
 title: Bursa
 type: location
+score: 0.59
 ---
 
 Bursa was the first major capital of the Ottoman Empire, and that origin story still defines the city. The Green Mosque and Green Tomb, with their exquisite Iznik tilework, are among the finest early Ottoman monuments anywhere. The covered market district, the Koza Han (Silk Bazaar), and the Grand Mosque with its twenty domes are all within walking distance of each other in the old city center.

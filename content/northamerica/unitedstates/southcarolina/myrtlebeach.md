@@ -5,6 +5,7 @@ latitude: 33.6954
 longitude: -78.8901
 done:
   location_cleanup: 2026-04-07
+score: 0.54
 ---
 
 Myrtle Beach is South Carolina's resort machine — 60 miles of Atlantic coastline, more than a hundred golf courses, and a strip of hotels, water parks, and seafood buffets that caters to millions of visitors each summer. It is unabashedly commercial and entirely unapologetic about it. If you come looking for unspoiled natural beauty, head further down the coast. If you come looking for a beach with warm water, easy access, and every conceivable form of family entertainment within five minutes, this is one of the best-equipped stretches of coast in the eastern United States.

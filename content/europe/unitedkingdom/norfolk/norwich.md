@@ -5,6 +5,7 @@ latitude: 52.6286
 longitude: 1.2928
 title: Norwich
 type: location
+score: 0.49
 ---
 
 Norwich is Norfolk's only city and its cultural and commercial heart. Compact and walkable, it clusters around a Norman castle mound at the centre, with a medieval street plan that has survived largely intact. The old lanes — Elm Hill, Tombland, the Lanes — are lined with independent shops, cafés, and restaurants, making it one of England's better cities for an afternoon on foot.

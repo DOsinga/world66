@@ -5,6 +5,7 @@ latitude: 45.502688
 longitude: 25.576158
 title: Predeal
 type: location
+score: 0.48
 ---
 
 Predeal is the highest town in Romania, sitting at about 1,100 metres in the Bucegi Mountains on the border between Transylvania and Wallachia. It is a modest ski resort — smaller and quieter than neighbouring [Sinaia](/europe/romania/sinaia) or [Poiana Brașov](/europe/romania/brasov) — with a handful of runs suited to beginners and intermediates.

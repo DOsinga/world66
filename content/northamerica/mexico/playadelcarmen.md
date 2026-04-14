@@ -5,6 +5,7 @@ latitude: 20.6468
 longitude: -87.08
 done:
   location_cleanup: 2026-04-06
+score: 0.68
 ---
 
 Playa del Carmen is a beach resort town on the Caribbean coast of Mexico's Yucatán Peninsula, about 65 kilometres south of Cancun. It is the main town of the Riviera Maya, the coastal strip stretching south to Tulum, and functions as the hub from which most visitors explore the region's combination of Caribbean beaches, Mayan ruins, and cenotes. The town itself has a more genuine character than the resort zones of Cancun, though it has grown dramatically from the fishing village it was in the 1980s.

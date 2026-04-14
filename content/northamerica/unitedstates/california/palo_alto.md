@@ -5,6 +5,7 @@ latitude: 37.444329
 longitude: -122.159847
 title: Palo Alto
 type: location
+score: 0.41
 ---
 
 Palo Alto is a pleasant, leafy city on the San Francisco Peninsula, best known as the home of Stanford University and the heart of Silicon Valley. The university campus — 8,000 acres of sandstone arcades, palm-lined avenues, and open space — is the main attraction and is freely accessible on foot or by bicycle.

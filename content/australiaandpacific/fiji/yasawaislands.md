@@ -5,6 +5,7 @@ latitude: -17.290947
 longitude: 177.125786
 title: Yasawa Islands
 type: location
+score: 0.75
 ---
 
 The Yasawa Islands are a volcanic chain stretching north from [Fiji's](/australiaandpacific/fiji) main island of Viti Levu — about 20 islands, most of them long and narrow, with white sand beaches, clear lagoons, and not much else. For years they were off-limits to independent travellers, but since the late 1990s a network of budget and mid-range resorts has opened up along the chain.

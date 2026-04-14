@@ -5,6 +5,7 @@ latitude: -34.4266
 longitude: 172.6775
 title: Cape Reinga
 type: location
+score: 0.58
 ---
 
 Cape Reinga is the northernmost accessible point of the North Island, and one of the most dramatic places in New Zealand. Standing at the lighthouse, you can watch the Pacific Ocean and the Tasman Sea collide — a visible white line of churning water stretching out toward the horizon where the two bodies of water meet.

@@ -1,8 +1,9 @@
 ---
-title: 'Oxford'
+title: Oxford
 type: location
 latitude: 51.752013
 longitude: -1.25785
+score: 0.71
 ---
 
 Oxford is one of the world's great university cities. Less than two hours from [London](/europe/unitedkingdom/england/london), it draws visitors who come to wander between the ancient colleges, admire the honey-coloured stone architecture and imagine themselves as students among the "dreaming spires" that poet Matthew Arnold made famous.

@@ -5,6 +5,7 @@ latitude: 41.006381
 longitude: 28.975872
 done:
   location_cleanup: 2026-04-05
+score: 0.83
 ---
 
 No city in the world has been a capital of two empires for so long, on two continents, straddling a strait that separates Europe from Asia. Istanbul is overwhelming in the best possible sense — the kind of place that makes other cities feel thin.

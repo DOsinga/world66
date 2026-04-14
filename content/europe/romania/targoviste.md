@@ -5,6 +5,7 @@ latitude: 44.926771
 longitude: 25.462816
 title: Târgoviște
 type: location
+score: 0.42
 ---
 
 Târgoviște was the capital of Wallachia from the thirteenth to the seventeenth century, when the princes of this Romanian principality held court here before moving to Bucharest. Today it is a mid-sized city about 80 kilometres northwest of Bucharest, and its history gives it more layers of interest than most Romanian towns of similar size.

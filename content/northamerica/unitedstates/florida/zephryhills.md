@@ -1,6 +1,7 @@
 ---
-title: "Zephryhills"
+title: Zephryhills
 type: location
+score: 0.32
 ---
 
 Travel Guide

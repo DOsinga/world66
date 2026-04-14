@@ -5,6 +5,7 @@ latitude: 13.3531
 longitude: -81.375
 title: Providencia
 type: location
+score: 0.61
 ---
 
 Providencia is the smaller, quieter, and more beautiful of the two main islands in Colombia's [San Andrés and Providencia](/southamerica/colombia/sanandresandprovidencia) archipelago, lying about 75 kilometres north of San Andrés in the western Caribbean. Where San Andrés has duty-free shopping and package tourism, Providencia has volcanic peaks, empty beaches, and a pace of life that runs on island time.

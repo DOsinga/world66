@@ -5,6 +5,7 @@ latitude: -29.379286
 longitude: -50.873702
 title: Gramado
 type: location
+score: 0.58
 ---
 
 Gramado is the kind of place Brazilians escape to when they want a break from Brazil. Perched in the Serra Gaúcha highlands two hours north of Porto Alegre, it's a mountain resort town that wears its European heritage with some pride — half-timbered houses, fondue restaurants, chocolate shops, and a main street that could pass for a Bavarian village if you squinted. The German and Italian immigrant influence here is genuine, not a theme park affectation.

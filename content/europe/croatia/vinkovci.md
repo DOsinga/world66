@@ -5,6 +5,7 @@ latitude: 45.288377
 longitude: 18.804525
 title: Vinkovci
 type: location
+score: 0.41
 ---
 
 Vinkovci is one of the oldest continuously inhabited cities in Europe, sitting in the flat Slavonian plains of eastern Croatia. Archaeological finds here go back over 8,000 years, and the town museum has an impressive collection spanning from Neolithic pottery to Roman artefacts.

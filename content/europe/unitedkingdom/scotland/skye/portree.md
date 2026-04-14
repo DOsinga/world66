@@ -5,6 +5,7 @@ latitude: 57.4131
 longitude: -6.1944
 title: Portree
 type: location
+score: 0.69
 ---
 
 Portree is the capital and main town of Skye, perched on the northeastern coast of the island. The harbour, framed by a row of brightly painted houses against a backdrop of green hills, is the most photographed view on Skye — and it earns it, especially in the soft light of a Highland evening.

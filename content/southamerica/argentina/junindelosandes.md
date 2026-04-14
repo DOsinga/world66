@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:R%C3%ADo_Chimehu%C3%ADn_en_Jun%C3%ADn_de_los_Andes.JPG
 title: Junín de los Andes
 type: location
+score: 0.49
 ---
 
 Junín de los Andes is a small town in the Neuquén province of Argentine Patagonia, sitting on the banks of the Chimehuin River at the foot of the Andes. It is one of Argentina's premier fly-fishing destinations — the Chimehuin and the nearby Malleo and Aluminé rivers are full of brown and rainbow trout introduced in the early twentieth century, and anglers come from around the world for the season (November to April).

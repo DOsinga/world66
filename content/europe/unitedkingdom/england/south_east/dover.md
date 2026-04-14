@@ -5,6 +5,7 @@ latitude: 51.125127
 longitude: 1.313423
 done:
   location_cleanup: 2026-04-07
+score: 0.47
 ---
 
 When you think of Dover, you think of the white cliffs. Those dramatic chalk faces have greeted and farewelled travellers for centuries, and they remain one of the most iconic landscapes in England. Dover is the gateway between Britain and continental Europe, and while most visitors are passing through on their way to [London](/europe/unitedkingdom/england/london) or the ferry terminal, the town deserves more than a glance through a car window.

@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Hayford O'Leary</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.45
 ---
 
 One look at the map of Norway and you know immediately what the biggest attraction of the country is. The wierdly shaped coast line, with its mainy deep fjords. At that Norway has stunning mountains, and many historic towns dating , [Bergen](/europe/norway/bergen) and [Trondheim](/europe/norway/trondheim) date back 1000 years and have many monuments to prove it. [Tromso](/europe/norway/tromso) the northernmost city of the country is pretty as well and an ideal base for exploring the Arctic region.

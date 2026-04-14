@@ -5,6 +5,7 @@ latitude: 47.054916
 longitude: 21.928523
 title: Oradea
 type: location
+score: 0.52
 ---
 
 Oradea sits in the far northwest of Romania, close to the Hungarian border, and it shows — in the language on the street, the names above the shops, and the grand Austro-Hungarian architecture that lines its central boulevards. This is a city that spent centuries as part of the Habsburg Empire, and it wears that history confidently. Nearly a third of the population is of Hungarian descent, making it one of Romania's most distinctly bicultural cities.

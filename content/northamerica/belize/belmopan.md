@@ -1,8 +1,9 @@
 ---
-title: "Belmopan"
+title: Belmopan
 type: location
 latitude: 17.2514
 longitude: -88.7669
+score: 0.44
 ---
 
 Belmopan became Belize's capital in 1970, after Hurricane Hattie nearly destroyed Belize City in 1961. The government relocated inland to higher ground, but most of the population stayed put. The result is a small, quiet administrative town that still feels purpose-built rather than organically grown.

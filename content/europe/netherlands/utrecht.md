@@ -1,8 +1,9 @@
 ---
-title: "Utrecht"
+title: Utrecht
 type: location
 latitude: 52.090701
 longitude: 5.121563
+score: 0.65
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

@@ -5,6 +5,7 @@ latitude: 45.618785
 longitude: 10.5591
 title: Gardone
 type: location
+score: 0.63
 ---
 
 Gardone sits just north of Salò on the western shore of Lake Garda. It is a small and rather charming place, quieter than the busier resort towns further north.

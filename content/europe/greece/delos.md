@@ -5,6 +5,7 @@ latitude: 37.39089
 longitude: 25.271739
 title: Delos
 type: location
+score: 0.7
 ---
 
 Delos is a tiny uninhabited island in the Cyclades and one of the most important archaeological sites in all of Greece. In antiquity it was considered the birthplace of Apollo and Artemis, and became one of the most sacred sites in the Greek world — a major religious and commercial centre whose ruins now spread across virtually the entire island. Nobody lives here permanently; it is accessible only by boat from nearby Mykonos.

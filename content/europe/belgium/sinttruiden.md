@@ -5,6 +5,7 @@ latitude: 50.815278
 longitude: 5.18589
 title: Sint-Truiden
 type: location
+score: 0.46
 ---
 
 Sint-Truiden sits in the heart of Haspengouw, Belgium's fruit-growing region, and in spring the town is surrounded by a sea of cherry and apple blossom. The Grote Markt is one of the largest market squares in Belgium, dominated by the belfry tower, a thirteenth-century abbey gate, and the town hall.

@@ -5,6 +5,7 @@ latitude: 48.142715
 longitude: 8.197494
 title: Schönach
 type: location
+score: 0.4
 ---
 
 Schönach im Schwarzwald is a small village in the central Black Forest, surrounded by dark wooded hills, green pastures, and the kind of rolling landscape that makes this corner of Germany so appealing for walkers. The village sits at about 900 metres above sea level, high enough for reliable snow in winter and cool, clear air in summer.

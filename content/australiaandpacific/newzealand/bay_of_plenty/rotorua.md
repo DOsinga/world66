@@ -5,6 +5,7 @@ latitude: -38.136
 longitude: 176.2526
 title: Rotorua
 type: location
+score: 0.68
 ---
 
 Rotorua smells like rotten eggs and it doesn't apologize for it. Hydrogen sulphide from the volcanic vents beneath the town gives the air a sharp sulphurous edge, and once you're used to it you start to appreciate that this place is genuinely different — a city built on a geothermal field where steam rises from roadside drains and mud pools bubble in public parks.

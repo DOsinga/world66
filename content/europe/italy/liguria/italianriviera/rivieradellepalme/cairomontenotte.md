@@ -5,6 +5,7 @@ latitude: 44.399268
 longitude: 8.274561
 title: Cairo Montenotte
 type: location
+score: 0.41
 ---
 
 Cairo Montenotte sits on the left bank of the Bormida di Spigno, on a plain ringed by hills that climb toward the Apennines in the direction of Monferrato. The town has been a crossroads since Roman times — it was a station on the Via Julia Augusta from Vado to Tortona — and was fought over by Lombards, Saracens, the Del Carretto marchesi, and the House of Savoy. Napoleon defeated the Austrians here in 1796, his first major victory of the Italian campaign.

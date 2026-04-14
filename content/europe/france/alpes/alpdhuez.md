@@ -5,6 +5,7 @@ latitude: 45.092
 longitude: 6.068
 title: Alpe d'Huez
 type: location
+score: 0.65
 ---
 
 Alpe d'Huez is one of cycling's sacred mountains. The 21 hairpin bends climbing 1,100 metres from Bourg-d'Oisans to the resort at 1,860 metres have featured in the Tour de France since 1952, and the road is a pilgrimage for anyone who has ever watched the race. Each bend is numbered and named after a stage winner.

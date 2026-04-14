@@ -5,6 +5,7 @@ latitude: -39.3848
 longitude: 174.1974
 title: Taranaki
 type: location
+score: 0.58
 ---
 
 Taranaki is a region on the western coast of [New Zealand's](/australiaandpacific/newzealand) [North Island](/australiaandpacific/newzealand/north_island), dominated by its volcano — Mount Taranaki (formerly Mount Egmont), a near-perfect cone that rises 2,518 metres from a ring of rainforest and dairy farmland. On a clear day it is one of the most beautiful sights in the country.

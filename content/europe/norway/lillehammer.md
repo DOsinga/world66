@@ -5,6 +5,7 @@ latitude: 61.1153
 longitude: 10.4663
 done:
   location_cleanup: 2026-04-05
+score: 0.62
 ---
 
 Lillehammer is a small, tidy town of 30,000 people at the northern tip of Lake Mjøsa — Norway's biggest lake — about two and a half hours north of Oslo by train. Most people have heard of it for exactly one reason: the 1994 Winter Olympics, which put the town on the map and left behind a set of ski venues, an Olympic museum, and a slight but enduring pride of place. It turns out to be a more interesting stop than that reputation suggests.

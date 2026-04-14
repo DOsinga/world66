@@ -5,6 +5,7 @@ latitude: 52.7411
 longitude: 6.0774
 done:
   location_cleanup: 2026-04-06
+score: 0.63
 ---
 
 Giethoorn is a small village in the province of Overijssel that has earned the nickname "Venice of the North" — though the comparison flatters both cities in different directions. Giethoorn is genuinely pretty, with thatched farmhouses sitting along narrow canals threaded through the peatlands of the Weerribben-Wieden National Park. There are no cars in the old village: boats, bikes, and your own feet are how you get around.

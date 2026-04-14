@@ -5,6 +5,7 @@ latitude: 46.2354
 longitude: -63.1265
 done:
   location_cleanup: 2026-04-07
+score: 0.57
 ---
 
 Charlottetown is the capital of Prince Edward Island and the birthplace of Canadian Confederation. With around 35,000 residents, it is a small city by any measure, but it punches well above its weight in restaurants, culture, and walkability. The historic downtown is compact enough to explore on foot in an afternoon, lined with Victorian buildings in bright paint and independent shops that have somehow held off the chains.

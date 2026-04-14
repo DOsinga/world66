@@ -5,6 +5,7 @@ latitude: 38.8209
 longitude: -0.61
 title: Ontinyent
 type: location
+score: 0.46
 ---
 
 Ontinyent is a small city of about 36,000 people in the Valencia region, tucked into the hills of the Vinalopó river valley an hour's drive from the coast. It has a compact old quarter with a Moorish-era castle and a pleasant central square that comes alive in the evenings.

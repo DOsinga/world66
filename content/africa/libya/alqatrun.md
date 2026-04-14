@@ -5,6 +5,7 @@ latitude: 24.935154
 longitude: 14.617331
 title: Al Qatrun
 type: location
+score: 0.18
 ---
 
 Al Qatrun (also Al Gatrun) is a small desert oasis in the Fezzan, close to the borders of Niger and Chad. It is largely a transit point for southward travel rather than a destination in itself, with a fuel station, basic supplies, and a Niger consulate that was historically used by travelers crossing into Niger.

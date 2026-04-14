@@ -1,4 +1,5 @@
 ---
-title: "West caicos"
+title: West caicos
 type: location
+score: 0.54
 ---

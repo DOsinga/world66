@@ -5,6 +5,7 @@ latitude: 42.6023
 longitude: -6.815
 title: Vilafranca del Bierzo
 type: location
+score: 0.48
 ---
 
 Vilafranca del Bierzo is the last major stop on the Camino de Santiago before pilgrims enter [Galicia](/europe/spain/galicia). The town grew from the pilgrim traffic — its name comes from the Franks who settled here — and it retains a medieval atmosphere, particularly along the Calle del Agua, a narrow street of stone houses dropping down to the bridge over the River Burbia.

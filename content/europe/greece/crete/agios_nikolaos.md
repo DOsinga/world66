@@ -5,6 +5,7 @@ latitude: 35.190858
 longitude: 25.717889
 title: Agios Nikolaos
 type: location
+score: 0.69
 ---
 
 Agios Nikolaos is the capital of eastern [Crete](/europe/greece/crete)'s Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settled into a more relaxed, upmarket identity. The recent addition of a large marina has added sailing regattas to the summer calendar.

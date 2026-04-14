@@ -5,6 +5,7 @@ latitude: 49.47
 longitude: -2.458
 title: Herm
 type: location
+score: 0.54
 ---
 
 Herm is tiny — a mile and a half long and half a mile wide — and entirely car-free. It sits three miles east of St Peter Port, Guernsey, and the fast catamaran crossing takes about 20 minutes. Around 60 people live here year-round; in summer day-trippers arrive to walk the clifftop paths, swim off Shell Beach on the north end, and eat at the island's single pub.

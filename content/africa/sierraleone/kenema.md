@@ -1,6 +1,7 @@
 ---
-title: "Kenema"
+title: Kenema
 type: location
 latitude: 7.885972
 longitude: -11.186383
+score: 0.26
 ---

@@ -5,6 +5,7 @@ latitude: 38.627
 longitude: -90.1994
 title: St. Louis
 type: location
+score: 0.44
 ---
 
 St. Louis sits on the west bank of the Mississippi, where the river meets the Missouri, and that geography has defined it. French fur traders founded it in 1764, the Spanish ran it for a generation, and then Lewis and Clark set out from here in 1804 to map the Louisiana Purchase. The Gateway Arch, rising 630 feet above the riverfront, marks both the actual departure point and the city's role as the eastern edge of the American West.

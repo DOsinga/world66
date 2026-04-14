@@ -5,6 +5,7 @@ latitude: 20.690251
 longitude: -88.2017
 title: Valladolid
 type: location
+score: 0.65
 ---
 
 Valladolid is a small colonial city halfway between [Mérida](/northamerica/mexico/yucatan/merida) and [Cancún](/northamerica/mexico/yucatan/cancun), and one of the most pleasant stops on the [Yucatán](/northamerica/mexico/yucatan) peninsula. The pace is slow, the architecture is handsome, and the town has not yet been overwhelmed by tourism.

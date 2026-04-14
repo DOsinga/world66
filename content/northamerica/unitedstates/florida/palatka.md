@@ -5,6 +5,7 @@ latitude: 29.648788
 longitude: -81.637211
 title: Palatka
 type: location
+score: 0.3
 ---
 
 Palatka is a quiet river town on the St. Johns River in north-central Florida, well placed for anyone wanting a base away from the theme-park corridor. It sits about 50 miles south of [Jacksonville](/northamerica/unitedstates/florida/jacksonville), 30 miles east of Gainesville, and 30 miles southwest of [St. Augustine](/northamerica/unitedstates/florida/staugustine).

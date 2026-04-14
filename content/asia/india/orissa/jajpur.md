@@ -5,6 +5,7 @@ latitude: 20.8747
 longitude: 86.1215
 title: Jajpur
 type: location
+score: 0.31
 ---
 
 Jajpur — also known as Vaitarani Tirtha — is one of Odisha's most important Hindu pilgrimage sites, built around the sacred Vaitarani river. The presiding deity is Goddess Viraja, a form of Durga whose temple draws devotees from across India, particularly those performing ancestral rites.

@@ -5,6 +5,7 @@ latitude: 62.19887
 longitude: -6.817845
 title: Eysturoy
 type: location
+score: 0.57
 ---
 
 Eysturoy is the second largest of the Faroe Islands and home to Slættaratindur, the highest peak in the archipelago. It rewards exploration — the landscape shifts from dramatic sea cliffs and mountain passes in the north-west to quieter, bird-rich wetlands in the south.

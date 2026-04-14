@@ -5,6 +5,7 @@ latitude: 43.547601
 longitude: -96.729363
 title: Sioux Falls
 type: location
+score: 0.41
 ---
 
 Sioux Falls is South Dakota's largest city by a wide margin, a growing plains metropolis built around the waterfalls of the Big Sioux River. Falls Park, where the river drops over exposed quartzite ledges in the middle of town, is the obvious first stop — the pink Sioux quartzite gives the cascades an unexpected warmth, and the ruins of a 19th-century mill add to the scene.

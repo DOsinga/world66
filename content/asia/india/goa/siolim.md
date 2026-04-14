@@ -5,6 +5,7 @@ latitude: 15.627022
 longitude: 73.765685
 title: Siolim
 type: location
+score: 0.49
 ---
 
 Siolim is a quiet village on the northern bank of the Chapora River, about 7 km from [Mapusa](/asia/india/goa/mapusa). It sits at a natural crossing point that once served ferries between North Goa's beaches and the interior, and that history gives the village its unhurried, between-places character.

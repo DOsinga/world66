@@ -5,6 +5,7 @@ latitude: 70.6634
 longitude: 23.6821
 title: Hammerfest
 type: location
+score: 0.52
 ---
 
 Hammerfest claims the title of the world's northernmost city, perched on the island of Kvaloya in Norway's Finnmark region at 70 degrees north. It is a small, windswept place — about 10,000 people — but it has a resilience that belies its size. The town was burned to the ground twice, once in 1890 and again by retreating German forces in 1944, and rebuilt from scratch both times.

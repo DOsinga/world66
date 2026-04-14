@@ -5,6 +5,7 @@ latitude: 11.7089
 longitude: 122.364
 title: Kalibo
 type: location
+score: 0.46
 ---
 
 Most travelers pass through Kalibo on their way to Boracay — the town's airport is the main entry point for the island — but that's a shame, because Kalibo is worth more than a quick connection. It's the capital of Aklan province, a busy, lived-in market town with good food and a genuinely welcoming atmosphere.

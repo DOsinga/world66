@@ -9,6 +9,7 @@ image_license: CC BY 2.0
 image_attribution: Andrew Colin
 done:
   country_cleanup: 2026-03-29
+score: 0.42
 ---
 
 Hi there, my name is Richard and being English I consider that I own the world. I will set my football hooligans on you if you dare think otherwise! O ya and we lick Bush's ass!!!!!

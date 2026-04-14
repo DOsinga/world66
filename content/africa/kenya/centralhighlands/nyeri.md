@@ -5,6 +5,7 @@ latitude: -0.4169
 longitude: 36.951
 done:
   location_cleanup: 2026-04-06
+score: 0.44
 ---
 
 Nyeri is a highland town in central Kenya, tucked between the slopes of Mount Kenya and the forested ridges of the Aberdare Range. At around 1,750 meters, the climate is cool and green year-round, and the surrounding countryside is some of Kenya's most productive farmland — coffee and tea estates stretch in every direction.

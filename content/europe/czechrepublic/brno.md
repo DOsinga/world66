@@ -5,6 +5,7 @@ latitude: 49.192244
 longitude: 16.611338
 title: Brno
 type: location
+score: 0.56
 ---
 
 Brno is Moravia's capital and the Czech Republic's second city, with around 380,000 people. It has a reputation among Czechs as the cooler, less tourist-overrun alternative to Prague — that reputation is largely deserved. The city has a strong university culture, a good food and bar scene, and a genuinely lived-in feel that the more polished capital sometimes lacks.

@@ -5,6 +5,7 @@ latitude: 47.7467
 longitude: 7.339
 title: Mulhouse
 type: location
+score: 0.47
 ---
 
 Mulhouse is an industrial city in southern Alsace, near the Swiss and German borders, that has reinvented itself as a surprisingly compelling museum destination. The Cité de l'Automobile houses the Schlumpf Collection — over 400 cars including the world's largest collection of Bugattis — and is one of the finest automobile museums in Europe. The Cité du Train, nearby, is the largest railway museum in France.

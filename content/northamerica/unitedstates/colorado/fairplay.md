@@ -5,6 +5,7 @@ latitude: 39.225189
 longitude: -106.001952
 title: Fairplay
 type: location
+score: 0.43
 ---
 
 Travel Guide

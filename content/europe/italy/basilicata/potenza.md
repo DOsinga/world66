@@ -5,6 +5,7 @@ latitude: 40.517312
 longitude: 15.821609
 title: Potenza
 type: location
+score: 0.45
 ---
 
 Potenza is probably not on your dreamlist — and the city itself will not argue the point. The capital of Basilicata sits on a long ridge at over 800 metres, making it the highest regional capital in Italy, a distinction that brings cold winters and an occasionally bleak atmosphere. The city has been destroyed multiple times by earthquakes over the centuries, most recently in 1857 and 1980, and what you find now is mostly postwar concrete and 1970s architecture with very little of historical note surviving.

@@ -5,6 +5,7 @@ latitude: 59.1242
 longitude: 37.9123
 title: Cherepovets
 type: location
+score: 0.28
 ---
 
 Cherepovets is an industrial city in Russia's Vologda Oblast, built around one of the country's largest steel plants. The Severstal steelworks dominate the skyline and the local economy, and the city has the no-nonsense character of a place that works for a living. It is not a conventional tourist destination, but travellers passing through the Vologda region may find it a useful stop.

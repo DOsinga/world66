@@ -5,6 +5,7 @@ latitude: 5.8475
 longitude: -0.1753
 title: Aburi
 type: location
+score: 0.41
 ---
 
 Aburi sits in the Akuapem Ridge hills about 35 km north of [Accra](/africa/ghana/accra), and the main reason to come here is the Aburi Botanical Gardens. Established by the British in 1890, the gardens cover 65 hectares of tropical plants, towering palms, and shaded walkways. It is a cool, green escape from the heat and noise of Accra, and makes an easy half-day trip from the capital.

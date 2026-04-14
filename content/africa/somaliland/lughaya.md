@@ -5,6 +5,7 @@ latitude: 10.730573
 longitude: 43.691688
 title: Lughaya
 type: location
+score: 0.18
 ---
 
 Lughaya is a small coastal town on the Guban Coast of Somaliland, about 200 km northwest of the port city of Berbera. Hot, dry, and remote, it sits in the Awdal Region and serves as the administrative centre of the Lughaya district.

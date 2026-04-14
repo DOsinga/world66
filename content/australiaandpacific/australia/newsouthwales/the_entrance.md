@@ -5,6 +5,7 @@ latitude: -33.3441
 longitude: 151.496
 title: The Entrance
 type: location
+score: 0.47
 ---
 
 The Entrance sits on a narrow strip of land between Tuggerah Lake and the Pacific Ocean on the New South Wales Central Coast, about an hour and a half north of Sydney. It is a low-key beach town that makes a good alternative to the crowded city beaches -- the sand is just as good and you will have far more of it to yourself.

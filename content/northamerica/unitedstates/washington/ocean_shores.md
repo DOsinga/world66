@@ -5,6 +5,7 @@ latitude: 46.973703
 longitude: -124.156277
 title: Ocean Shores
 type: location
+score: 0.42
 ---
 
 Ocean Shores is a small resort community on a sandy peninsula between Grays Harbor and the Pacific Ocean, on Washington's central coast. The beaches here are wide and dramatic — miles of flat sand backed by dunes, with the kind of moody Pacific weather that makes the Washington coast distinctive.

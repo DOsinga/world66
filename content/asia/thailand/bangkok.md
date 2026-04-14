@@ -5,6 +5,7 @@ latitude: 13.7563
 longitude: 100.5018
 title: Bangkok
 type: location
+score: 0.85
 ---
 
 Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm of the place.

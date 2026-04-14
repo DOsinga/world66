@@ -3,6 +3,7 @@ latitude: 13.7942
 longitude: -88.8965
 title: El Salvador
 type: location
+score: 0.36
 ---
 
 Once known as the coffee republic, El Salvador is the smallest country of Central America, yet it is the most populous. In the 1980's it was ravaged by a bloody civil war between the American CIA installed right wing military dictators and the socialist left peasant guerillas, which tore the whole country apart in civil strife. Since then, it has made considerable progress and it is a quite stable country now. 

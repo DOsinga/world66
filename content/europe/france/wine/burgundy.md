@@ -5,6 +5,7 @@ latitude: 47.2781
 longitude: 4.2225
 title: Burgundy
 type: location
+score: 0.72
 ---
 
 Burgundy produces some of the most celebrated wines in the world, and the landscape itself is the explanation — a patchwork of meticulously tended vineyards rolling across limestone slopes that the monks mapped by taste a thousand years ago. The concept of terroir was essentially invented here, and visiting the region is the fastest way to understand what the word actually means.

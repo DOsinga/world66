@@ -5,6 +5,7 @@ latitude: 52.033409
 longitude: 113.500893
 title: Chita
 type: location
+score: 0.28
 ---
 
 Chita is the capital of Zabaykalsky Krai, a sprawling region east of Lake Baikal in the Russian Far East. The city sits on the Trans-Siberian Railway, roughly halfway between [Irkutsk](/europe/russia/irkutsk) and Khabarovsk, and most visitors encounter it as a stop on that legendary train journey.

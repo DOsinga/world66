@@ -5,6 +5,7 @@ latitude: 27.6667
 longitude: 91.1833
 title: Lhuntsi
 type: location
+score: 0.5
 ---
 
 Lhuntsi is one of Bhutan's most remote districts, tucked into the northeast corner of the country amid jagged peaks and deep valleys. Not many visitors make it here — the journey from Thimphu takes about three days — but those who do find a quiet, largely unchanged part of the kingdom.

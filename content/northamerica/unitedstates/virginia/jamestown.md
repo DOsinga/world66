@@ -5,6 +5,7 @@ latitude: 37.208918
 longitude: -76.7783
 title: Jamestown
 type: location
+score: 0.49
 ---
 
 Jamestown is where English America began. Founded in 1607, it was the first permanent English settlement on the continent and the site of the first representative assembly in the New World. Today the original island is a National Park, where ongoing archaeological excavations have uncovered the foundations of the 1607 fort and thousands of artefacts from the colony's earliest — and most desperate — years.

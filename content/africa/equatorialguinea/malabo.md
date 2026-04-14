@@ -5,6 +5,7 @@ latitude: 3.741877
 longitude: 8.774066
 title: Malabo
 type: location
+score: 0.34
 ---
 
 Malabo the capital of Equatorial Guinea is set beautifully between the cloud-capped Pico Malabo on one side and high ocean waves on the other. Unfortunately there are no good beaches nearby, and there are no agencies to arrange a hiking trip in the inland, but the city has quite some tourist potential nevertheless. 

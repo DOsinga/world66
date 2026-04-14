@@ -5,6 +5,7 @@ latitude: 42.6597
 longitude: 20.2883
 title: Peja
 type: location
+score: 0.44
 ---
 
 Peja (Albanian: Pejë; Serbian: Peć) sits at the mouth of the Rugova Gorge, where the Bistrica river tumbles out of the Accursed Mountains — the dramatic limestone range that marks Kosovo's border with Montenegro and Albania. With around 85,000 inhabitants, it is the main city of the Dukagjin region and a gateway to some of the most spectacular mountain scenery in the western Balkans.

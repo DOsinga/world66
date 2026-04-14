@@ -5,6 +5,7 @@ latitude: 53.382839
 longitude: 5.285649
 title: Midsland
 type: location
+score: 0.53
 ---
 
 **Midsland** is the second village on Terschelling, located centrally on the island. It has a good selection of restaurants, bars, and campsites, making it a practical base for exploring the island.

@@ -5,6 +5,7 @@ latitude: 20.682852
 longitude: -88.56872
 title: Chichen Itza
 type: location
+score: 0.78
 ---
 
 Chichen Itza is the most visited archaeological site in Mexico and one of the great ancient cities of the world. A UNESCO World Heritage Site and one of the New Seven Wonders of the World, it sits in the heart of the Yucatan Peninsula and draws visitors from across the globe — and for good reason.

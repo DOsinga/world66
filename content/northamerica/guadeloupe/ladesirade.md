@@ -5,6 +5,7 @@ latitude: 16.3167
 longitude: -61.05
 title: La Désirade
 type: location
+score: 0.45
 ---
 
 La Désirade is a small, quiet island about fifteen kilometres east of Grande-Terre, the easternmost point of Guadeloupe. It draws far fewer visitors than the main islands, which is precisely the appeal — empty beaches, unhurried villages, and a pace of life that the rest of the Caribbean lost decades ago.

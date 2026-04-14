@@ -5,6 +5,7 @@ latitude: 51.899569
 longitude: -2.071156
 done:
   location_cleanup: 2026-04-07
+score: 0.53
 ---
 
 Cheltenham is a handsome Regency spa town in Gloucestershire, the most sophisticated urban base for exploring the Cotswolds. Its grid of wide, tree-lined avenues, white stucco terraces, and ornamental ironwork balconies give it an elegance unusual for an English market town — a legacy of its rapid growth in the early 19th century, when the discovery of mineral springs brought royalty and the fashionable classes flooding in.

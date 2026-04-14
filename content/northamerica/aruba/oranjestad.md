@@ -5,6 +5,7 @@ latitude: 12.5092
 longitude: -70.0086
 title: Oranjestad
 type: location
+score: 0.66
 ---
 
 With its charming Dutch-colonial architecture, Oranjestad (pop. 30,000) is a wonderful place to explore on foot. Be sure to walk along the harbor, where Venezuelan ships sell fresh fish, produce and spices at a waterfront market. Other sights include the 17th century Fort Zouman, the Archaeological museum and the Numismatic museum. Across from the fort is Wilhelmina Park, a seaside park off L. G. Smith Boulevard (just east of the town square) that has pleasant gardens and a statue of the Queen Mother. Allow about two hours to see downtown Oranjestad. 

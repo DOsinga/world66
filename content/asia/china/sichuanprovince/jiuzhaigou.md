@@ -5,6 +5,7 @@ latitude: 33.30716
 longitude: 103.932599
 title: Jiuzhaigou
 type: location
+score: 0.74
 ---
 
 Jiuzhaigou Valley is one of China's most spectacular natural landscapes — a UNESCO World Heritage Site in northern Sichuan Province where turquoise lakes, multi-tiered waterfalls, and snow-dusted peaks are set in dense forests of spruce, fir, and birch. The name means "Nine Village Valley," after the Tibetan settlements scattered along the valley floor.

@@ -5,6 +5,7 @@ latitude: 52.345053
 longitude: -1.581603
 title: Kenilworth
 type: location
+score: 0.5
 ---
 
 Kenilworth is a small Warwickshire town dominated by the red sandstone ruins of Kenilworth Castle, one of the grandest fortified sites in England. The castle was a royal stronghold for centuries before Elizabeth I gave it to her favourite Robert Dudley, who transformed part of it into an extravagant Elizabethan pleasure palace to entertain the queen. The ruins are now managed by English Heritage and the restored Elizabethan garden is worth seeing.

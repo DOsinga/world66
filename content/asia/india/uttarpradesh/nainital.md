@@ -5,6 +5,7 @@ latitude: 29.294995
 longitude: 79.416251
 title: Nainital
 type: location
+score: 0.53
 ---
 
 Nainital is a hill station in Uttarakhand perched at nearly 2,000 metres in the Kumaon Hills, built around a crescent-shaped lake that gives the town its name. The British established it as a summer retreat in the 1840s, and the colonial-era architecture — churches, boarding schools, a band stand on the Mall Road — still sets the tone.

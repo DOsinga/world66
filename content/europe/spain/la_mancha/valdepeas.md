@@ -9,6 +9,7 @@ image: valdepeas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Valdepe%C3%B1as_(Ciudad_Real).jpg
 image_license: CC BY 2.0
 image_attribution: Miguel Angel Masegosa Martínez
+score: 0.45
 ---
 
 Valdepeñas is the wine capital of La Mancha, sitting at the southern edge of the vast Castilian plateau about two hours south of Madrid. The town gives its name to one of Spain's most widely drunk denominations — Valdepeñas wine is the reliable house red in bars across the country, though the best producers here make far more interesting bottles than that reputation suggests.

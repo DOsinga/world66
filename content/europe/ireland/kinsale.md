@@ -9,6 +9,7 @@ latitude: 51.705737
 longitude: -8.522982
 title: Kinsale
 type: location
+score: 0.61
 ---
 
 Kinsale is a small harbour town on the southern coast of Ireland, about 25 kilometres south of [Cork](/europe/ireland/cork). It has been called the gourmet capital of Ireland, and while that sounds like tourism board hyperbole, the town genuinely punches above its weight when it comes to food. A cluster of excellent restaurants lines the narrow streets around the harbour, and the annual Gourmet Festival in October draws crowds from across the country.

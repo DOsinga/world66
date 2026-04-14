@@ -5,6 +5,7 @@ latitude: 46.335191
 longitude: 8.75259
 title: Tessin
 type: location
+score: 0.53
 ---
 
 Ticino is the Italian-speaking corner of [Switzerland](/europe/switzerland), and it feels like a different country. South of the Gotthard Pass, the climate turns Mediterranean, the architecture turns Italianate, and the food improves dramatically. Palm trees line the lakefronts, the piazzas fill with espresso drinkers, and the light has a warmth you do not find north of the Alps.

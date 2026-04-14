@@ -5,6 +5,7 @@ latitude: -19.053416
 longitude: -169.919199
 title: Alofi
 type: location
+score: 0.5
 ---
 
 Alofi is Niue's capital and only real town, with a population of under 1,000. It sits on the west coast and looks out over a wide bay. The cliffs here are lower than on much of the island, making access to the water easier, though there is no beach — just a rocky shoreline and a concrete pier.

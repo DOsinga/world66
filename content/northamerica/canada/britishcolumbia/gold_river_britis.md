@@ -1,8 +1,9 @@
 ---
-title: "Gold River"
+title: Gold River
 type: location
 latitude: 49.780755
 longitude: -126.047302
+score: 0.37
 ---
 
 Travel Guide

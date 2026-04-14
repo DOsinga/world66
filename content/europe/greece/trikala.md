@@ -5,6 +5,7 @@ latitude: 39.556087
 longitude: 21.767884
 title: Trikala
 type: location
+score: 0.51
 ---
 
 *Europe > [Greece](/europe/greece) > Trikala*

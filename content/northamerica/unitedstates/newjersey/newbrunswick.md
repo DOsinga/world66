@@ -5,6 +5,7 @@ latitude: 40.495137
 longitude: -74.443925
 title: New Brunswick
 type: location
+score: 0.34
 ---
 
 New Brunswick is a small city on the Raritan River, defined above all by Rutgers University — the State University of New Jersey, whose campus sprawls across much of the town. The result is a college-town atmosphere with a good mix of cheap food, live music, and a surprisingly active theatre scene centred on the State Theater on Livingston Avenue.

@@ -5,6 +5,7 @@ latitude: 47.6161
 longitude: 1.517
 title: Chambord
 type: location
+score: 0.7
 ---
 
 Chambord is probably the second most famous chateau in France after [Versailles](/europe/france/around_paris/versailles), and arguably the more impressive of the two — a fantasy of towers, chimneys, and dormers rising from the flat Sologne forest. Begun in 1519 for King Francis I, the castle is square-shaped with a central keep connected to the outer wings by galleries. Inside the keep, a famous double-helix spiral staircase — widely attributed to Leonardo da Vinci — allows two people to ascend simultaneously without ever meeting.

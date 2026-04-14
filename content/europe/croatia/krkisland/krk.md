@@ -9,6 +9,7 @@ latitude: 45.0267
 longitude: 14.5756
 title: Krk
 type: location
+score: 0.62
 ---
 
 Krk is the oldest continuously inhabited town on the island, and one of the oldest in Croatia. It sits on a small promontory on the southwestern coast, its medieval walls more or less intact, with a compact old town of Roman foundations and Venetian stone.

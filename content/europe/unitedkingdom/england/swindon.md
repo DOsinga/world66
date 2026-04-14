@@ -5,6 +5,7 @@ latitude: 51.561533
 longitude: -1.785432
 title: Swindon
 type: location
+score: 0.33
 ---
 
 Swindon is a large town in Wiltshire that grew up around the Great Western Railway works in the 19th century. It is not a tourist destination in the conventional sense, but it sits in a remarkably useful location — the Cotswolds, the Marlborough Downs, Avebury, and the White Horse at Uffington are all within easy reach, and it has good motorway and rail connections to London, Bristol, and Bath.

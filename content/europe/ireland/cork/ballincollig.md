@@ -5,6 +5,7 @@ latitude: 51.888264
 longitude: -8.591841
 title: Ballincollig
 type: location
+score: 0.37
 ---
 
 Ballincollig is a large and growing town about 10 km west of [Cork](/europe/ireland/cork) city on the road to Macroom. Its most interesting feature is the Royal Gunpowder Mills, an 18th-century industrial complex now preserved as a regional park with walking trails along the River Lee. The ruins of the mills, workers' cottages, and canal system give a vivid picture of what was once one of the largest gunpowder factories in the British Isles.

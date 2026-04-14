@@ -5,6 +5,7 @@ latitude: 15.724101
 longitude: 73.688732
 title: Tiracol
 type: location
+score: 0.53
 ---
 
 Tiracol sits at the very tip of North Goa, a quiet enclave separated from the rest of the state by the Tiracol River. Most people come for the fort — a small but striking structure perched on a headland with sweeping views over the Arabian Sea and the river estuary below.

@@ -5,6 +5,7 @@ latitude: 43.37009
 longitude: -80.981802
 title: Stratford
 type: location
+score: 0.49
 ---
 
 Stratford is a small Ontario city on the Avon River, about 150 km west of Toronto. It is best known for the Stratford Festival, one of the largest and most respected classical theatre festivals in North America. Running from April to October, the festival stages a dozen or more productions each season — Shakespeare is the anchor, but the programme ranges from musicals to new Canadian plays.

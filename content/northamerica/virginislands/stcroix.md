@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 title: St. Croix
 type: location
+score: 0.68
 ---
 
 St. Croix is the largest of the US Virgin Islands, and the most historically layered. Where St. Thomas runs on tourism and St. John on eco-credentials, St. Croix has a quieter confidence — colonial architecture, working towns, and some of the best diving in the Caribbean without the crowds.

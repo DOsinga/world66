@@ -1,10 +1,11 @@
 ---
-title: "Iowa City"
+title: Iowa City
 type: location
 latitude: 41.6612
 longitude: -91.5299
 done:
   location_cleanup: '2026-04-09'
+score: 0.39
 ---
 
 Iowa City is a college town with outsized cultural ambitions. Home to the University of Iowa and its legendary Writers' Workshop — the oldest creative writing program in the country — the city was designated a UNESCO City of Literature in 2008, the first in the Americas.

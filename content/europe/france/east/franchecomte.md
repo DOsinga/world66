@@ -5,6 +5,7 @@ latitude: 47.142585
 longitude: 6.132022
 title: Franche-Comté
 type: location
+score: 0.54
 ---
 
 Franche-Comté is a region tucked between [Alsace](/europe/france/east/alsace), [Burgundy](/europe/france/east/burgundy) and [Switzerland](/europe/switzerland), and it borrows a little from each: the mountain character of the Swiss border, the rolling vineyards of Burgundy, and the forested quietness of Alsace. It is one of France's least-visited regions, which is precisely why it is worth visiting.

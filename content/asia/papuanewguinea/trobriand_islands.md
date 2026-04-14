@@ -5,6 +5,7 @@ latitude: -8.623771
 longitude: 151.332747
 title: Trobriand Islands
 type: location
+score: 0.47
 ---
 
 The Trobriand Islands are a small coral archipelago in the Solomon Sea, about 100 kilometres north of the eastern tip of Papua New Guinea's mainland. Made famous by the anthropologist Bronisław Malinowski, who spent years here during World War I studying the Kula ring exchange system, the islands retain a strong traditional culture that sets them apart from much of PNG.

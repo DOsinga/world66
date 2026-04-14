@@ -9,6 +9,7 @@ image: sumedang.jpg
 image_source: https://www.flickr.com/photos/98421865@N08/14523258305
 image_license: CC BY 2.0
 image_attribution: orisonmarden on Flickr
+score: 0.37
 ---
 
 A small Sundanese town between [Bandung](/asia/indonesia/java/bandung) and Cirebon, Sumedang is famous across Java for its tahu — deep-fried and eaten hot as a roadside snack. Vendors line the main road through town, and stopping to eat a plate of freshly fried tofu with sambal and rice is essentially mandatory for anyone passing through.

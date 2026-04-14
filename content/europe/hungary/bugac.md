@@ -5,6 +5,7 @@ latitude: 46.688899
 longitude: 19.682144
 title: Bugac
 type: location
+score: 0.43
 ---
 
 Bugac is a small village on the Great Hungarian Plain (Alföld), sitting within the Kiskunság National Park — the puszta grasslands that stretch across central Hungary. It is best known as the place where you can watch the famous Hungarian horse shows, where csikós (herdsmen) demonstrate traditional horsemanship including the extraordinary feat of riding five horses at full gallop while standing astride the two rear animals.

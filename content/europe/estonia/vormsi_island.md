@@ -5,6 +5,7 @@ latitude: 59.0045
 longitude: 23.2488
 title: Vormsi Island
 type: location
+score: 0.45
 ---
 
 Vormsi is Estonia's fourth-largest island and one of its least visited. For centuries it was home to a community of Estonian Swedes — at its peak around 2,500 people — who were evacuated to Sweden in 1944. The Soviet military closed the island to civilians for decades, and when independence came in 1991, fewer than a hundred people lived here.

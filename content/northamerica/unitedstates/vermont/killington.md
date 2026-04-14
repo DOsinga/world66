@@ -5,6 +5,7 @@ latitude: 43.6743
 longitude: -72.7784
 title: Killington
 type: location
+score: 0.56
 ---
 
 Killington is Vermont's biggest ski resort and one of the largest in the eastern United States, with seven mountain areas, nearly 100 kilometres of trails, and a season that often stretches from October into May. Locals call it "The Beast of the East," and on a busy winter weekend the access road is a slow crawl of ski traffic.

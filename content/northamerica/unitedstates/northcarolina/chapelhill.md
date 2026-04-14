@@ -5,6 +5,7 @@ latitude: 35.9132
 longitude: -79.0558
 title: Chapel Hill
 type: location
+score: 0.43
 ---
 
 Chapel Hill is a quintessential college town, home to the University of North Carolina -- the nation's first public university. The campus is beautiful, especially in spring when the dogwoods bloom, and the surrounding streets are walkable, lively, and packed with good restaurants.

@@ -5,6 +5,7 @@ latitude: 39.7693
 longitude: 21.183
 title: Metsovo
 type: location
+score: 0.55
 ---
 
 Metsovo is a stone-built mountain town perched at 1,150 metres on the Pindos range, at the crossroads where [Epirus](/europe/greece/epirus), Thessaly, and western Macedonia meet. It feels more Alpine than Mediterranean — steep cobbled streets, slate-roofed houses, wood smoke in the air, and locals who still wear traditional Vlach dress on festival days.

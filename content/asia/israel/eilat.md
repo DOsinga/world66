@@ -5,6 +5,7 @@ latitude: 29.5577
 longitude: 34.9519
 title: Eilat
 type: location
+score: 0.6
 ---
 
 Eilat is Israel's southernmost city, perched at the northern tip of the Red Sea where the borders of Israel, Jordan, and Egypt converge in a blaze of desert and coral. It exists primarily as a beach resort — a warm-water escape from the cold Israeli winters — built around some of the most accessible coral reef snorkeling in the world. The underwater life is the real draw: colorful reef fish, rays, and occasional dolphins can be seen just meters from shore.

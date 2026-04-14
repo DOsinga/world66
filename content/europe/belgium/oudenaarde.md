@@ -9,6 +9,7 @@ image: oudenaarde.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2009-05-24_Oudenaarde_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Szilas
+score: 0.49
 ---
 
 Oudenaarde sits on the Scheldt River in the rolling hills of the Flemish Ardennes, and if you follow professional cycling at all, you already know the name. This is the spiritual home of the Tour of Flanders — the Ronde van Vlaanderen — and the town's cycling museum, the Centrum Ronde van Vlaanderen, occupies the ground floor of the spectacular late-Gothic town hall on the Markt. The surrounding hills, with their short sharp climbs and narrow farm roads, are the battlefield where the race is decided each spring.

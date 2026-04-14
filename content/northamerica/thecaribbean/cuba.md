@@ -1,6 +1,7 @@
 ---
-title: "Cuba"
+title: Cuba
 type: location
+score: 0.69
 ---
 
 Banished for many from the community of the western world by the American boycott, Cuba is slowly coming back. And in fact there are many good reasons to visit the Island. 

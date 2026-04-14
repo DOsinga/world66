@@ -1,8 +1,9 @@
 ---
-title: "Bakkhali"
+title: Bakkhali
 type: location
 latitude: 21.560769
 longitude: 88.267317
+score: 0.36
 ---
 
 Bakkhali is a small beach resort about 132 km south of Kolkata, close to the edge of the Sundarbans. It is more remote than Digha — reaching it requires a bus from Kolkata to Namkhana, a ferry crossing of the Hatania Doania river, and another bus — which keeps the crowds down. From the beach at Bakkhali you can walk to Frasergunj, the small settlement nearby, and take a motor launch to Jamhudwip, a forested island in the delta.

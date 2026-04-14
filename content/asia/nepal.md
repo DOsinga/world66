@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Goddard Space Flight Center</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.76
 ---
 
 Travel Guide

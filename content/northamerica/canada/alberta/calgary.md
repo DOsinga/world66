@@ -1,8 +1,9 @@
 ---
-title: "Calgary"
+title: Calgary
 type: location
 latitude: 51.045606
 longitude: -114.057541
+score: 0.51
 ---
 
 Calgary is nestled on the banks of the Bow River where the prairies meet the foothills of the Canadian Rockies. This city of 908,000 is just minutes from world class skiing and hiking in the Rockies, outstanding golf in Kananaskis Country and the beautiful scenery of Banff National Park. Take a stroll through the Eau Claire Market and Prince's Island Park.

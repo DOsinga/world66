@@ -5,6 +5,7 @@ latitude: 36.974363
 longitude: -122.029467
 title: Santa Cruz
 type: location
+score: 0.58
 ---
 
 Santa Cruz is a laid-back beach city on the northern curve of Monterey Bay, about 75 miles south of San Francisco. The boardwalk — one of the oldest amusement parks on the West Coast — runs along the main beach, with a vintage wooden roller coaster and a 1911 carousel that are both National Historic Landmarks.

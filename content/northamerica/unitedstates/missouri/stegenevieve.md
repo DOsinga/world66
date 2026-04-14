@@ -5,6 +5,7 @@ latitude: 37.8896
 longitude: -90.1857
 title: Ste. Genevieve
 type: location
+score: 0.43
 ---
 
 Ste. Genevieve is Missouri's oldest community, founded by French settlers around 1735 on the banks of the Mississippi River. It has one of the most important collections of French colonial architecture in North America -- the distinctive "vertical log" (poteaux-sur-sole) construction technique used here is rarely found elsewhere in the United States.

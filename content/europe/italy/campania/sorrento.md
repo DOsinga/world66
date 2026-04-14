@@ -5,6 +5,7 @@ latitude: 40.624906
 longitude: 14.374836
 done:
   location_cleanup: 2026-04-07
+score: 0.83
 ---
 
 *Europe > Italy > Campania > Sorrento*

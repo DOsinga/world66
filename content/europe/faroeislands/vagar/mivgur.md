@@ -5,6 +5,7 @@ latitude: 62.047955
 longitude: -7.192204
 title: Miðvágur
 type: location
+score: 0.54
 ---
 
 Miðvágur is one of the larger settlements on Vágar island in the [Faroe Islands](/europe/faroeislands), home to about a thousand people. The village sits on the shore of Sørvágsfjørður and serves as a practical base for exploring Vágar, which has the Faroes' airport and some of its most dramatic scenery.

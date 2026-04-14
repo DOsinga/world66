@@ -5,6 +5,7 @@ latitude: 42.097
 longitude: -79.2353
 title: Jamestown
 type: location
+score: 0.37
 ---
 
 Jamestown is a small city in the southwestern corner of New York State, on the outlet of Chautauqua Lake. It is best known as the birthplace of Lucille Ball — the National Comedy Center, opened in 2018, is the main draw and a genuinely engaging museum dedicated to the art and history of comedy.

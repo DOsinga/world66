@@ -5,6 +5,7 @@ latitude: 58.75
 longitude: 11.4167
 title: Tanum
 type: location
+score: 0.53
 ---
 
 Tanum is a municipality in the province of Bohuslän on the northern part of the Swedish west coast. It is best known for its extraordinary concentration of Bronze Age rock carvings — hundreds of panels scattered across the landscape depicting humans, animals, boats, and ritual scenes. These carvings, mostly around 3,000 years old, were declared a UNESCO World Heritage Site in 1994.

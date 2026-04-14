@@ -5,6 +5,7 @@ latitude: 12.3827
 longitude: 75.6641
 title: Coorg
 type: location
+score: 0.58
 ---
 
 Coorg — officially known as Kodagu — is a hilly district in southwestern [Karnataka](/asia/india/karnataka), draped in coffee plantations and spice estates. It sits in the Western Ghats at elevations between 900 and 1800 metres, which gives it a cool, misty climate that comes as a relief after the heat of the Indian plains.

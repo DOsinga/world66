@@ -5,6 +5,7 @@ latitude: 47.289063
 longitude: 3.818276
 title: Lormes
 type: location
+score: 0.43
 ---
 
 Lormes is a small hilltop town in the Nièvre département, on the western edge of the [Morvan](/europe/france/east/burgundy/morvan) regional natural park. It makes a practical base for exploring the Morvan's forests and lakes, or for a stopover on the way to [Vézelay](/europe/france/east/burgundy/vezelay), about 40 kilometres to the north.

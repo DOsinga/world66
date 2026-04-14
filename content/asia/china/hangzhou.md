@@ -5,6 +5,7 @@ latitude: 30.2741
 longitude: 120.1551
 title: Hangzhou
 type: location
+score: 0.67
 ---
 
 Hangzhou sits at the southern end of the Yangtze Delta, about 180 km southwest of Shanghai, and has been considered one of China's most beautiful cities for a thousand years. Marco Polo visited in the 13th century and called it "the finest and most splendid city in the world." The claim still has some force.

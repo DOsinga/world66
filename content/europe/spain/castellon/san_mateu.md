@@ -5,6 +5,7 @@ latitude: 40.465033
 longitude: 0.179319
 title: Sant Mateu
 type: location
+score: 0.42
 ---
 
 Sant Mateu is a small medieval town in the interior of Castellón province in Valencia, Spain. It was once the capital of the Maestrat region and served as the seat of the Knights Templar in the area, which explains the grandeur of its Gothic church and the scale of its arcaded main square relative to its modest size today.

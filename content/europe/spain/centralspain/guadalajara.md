@@ -5,6 +5,7 @@ latitude: 40.739996
 longitude: -2.50593
 title: Guadalajara
 type: location
+score: 0.5
 ---
 
 Guadalajara is a provincial capital about 55 km northeast of Madrid, well connected by commuter rail and fast trains that run every 30 minutes. It is often overlooked in favour of Toledo or Segovia, but it has genuine historical monuments that reward a half-day visit.

@@ -5,6 +5,7 @@ latitude: 35.8686
 longitude: -92.1174
 title: Mountain View
 type: location
+score: 0.41
 ---
 
 Mountain View is a small town of about 3,000 people in the Ozark Mountains of north-central Arkansas, and it calls itself the "Folk Music Capital of the World" with some justification. Music is everywhere here -- on the courthouse square on weekend evenings, at the Ozark Folk Center, and in impromptu jam sessions on front porches.

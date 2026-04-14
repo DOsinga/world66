@@ -5,6 +5,7 @@ latitude: 35.67101
 longitude: 10.10062
 title: Kairouan
 type: location
+score: 0.53
 ---
 
 Kairouan is one of the great Islamic cities of North Africa. Founded in 670 AD as the first Arab capital of the Maghreb, it is widely regarded as the fourth holiest city in Islam after Mecca, Medina, and Jerusalem — a claim that may be debated, but the city's religious significance is beyond question. Seven pilgrimages to Kairouan are said to equal one to Mecca.

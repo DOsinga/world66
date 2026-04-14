@@ -5,6 +5,7 @@ latitude: 52.584795
 longitude: -1.982269
 title: Walsall
 type: location
+score: 0.32
 ---
 
 Walsall is a market town in the West Midlands, six miles north of Birmingham, that made its name and its money in leather. For two centuries it was one of the most important centres of the British saddlery and leatherwork trade, and while the industry has shrunk considerably, the town still has a handful of working leather workshops and a market that dates back to the 13th century.

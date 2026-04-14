@@ -5,6 +5,7 @@ latitude: 47.585965
 longitude: 9.142877
 title: Thurgau
 type: location
+score: 0.57
 ---
 
 Thurgau is the apple canton — rolling countryside between the Bodensee (Lake Constance) and the hills of eastern Switzerland, covered in orchards that bloom white in spring and turn the roadside farm stalls into cider-tasting stops in autumn. It is one of the least-visited parts of Switzerland, which keeps it affordable and unhurried.

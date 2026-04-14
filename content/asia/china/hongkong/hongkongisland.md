@@ -1,8 +1,9 @@
 ---
-title: "Hong Kong Island"
+title: Hong Kong Island
 type: location
 latitude: 22.253463
 longitude: 114.190975
+score: 0.77
 ---
 
 You might still catch a glimpse of the former Hong Kong, of the way it was before skyscrapers and shopping arcades put the vendors’ stalls and narrow alleys in their shade.

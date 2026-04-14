@@ -10,6 +10,7 @@ latitude: 16.7425
 longitude: -62.1874
 title: Montserrat
 type: location
+score: 0.54
 ---
 
 Montserrat is a small British Overseas Territory in the Lesser Antilles, roughly 40 kilometres southwest of Antigua. It is one of the most unusual islands in the Caribbean — not because of beaches or resorts, but because of a volcano that changed everything.

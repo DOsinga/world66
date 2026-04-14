@@ -5,6 +5,7 @@ latitude: 71.2906
 longitude: -156.7887
 title: Barrow
 type: location
+score: 0.32
 ---
 
 Barrow -- officially renamed Utqiagvik in 2016, though most people still call it Barrow -- is the northernmost city in the United States, sitting 330 miles above the Arctic Circle where the Chukchi and Beaufort Seas meet. About half of its 5,000 residents are Inupiat, making it the largest Inupiat Eskimo community in the world.

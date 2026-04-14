@@ -5,6 +5,7 @@ latitude: -1.6101
 longitude: 103.6131
 title: Jambi
 type: location
+score: 0.37
 ---
 
 Jambi is the capital of Jambi Province on the eastern coast of [Sumatra](/asia/indonesia/sumatra), straddling the broad Batang Hari River as it winds toward the Strait of Malacca. It is not on most travellers' itineraries, but the city serves as the gateway to one of Sumatra's most important archaeological sites and some of the island's last remaining lowland rainforest.

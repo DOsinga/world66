@@ -5,6 +5,7 @@ latitude: 55.883327
 longitude: 12.543427
 title: Rungstedlund
 type: location
+score: 0.47
 ---
 
 We currently have no information about Rungstedlund.

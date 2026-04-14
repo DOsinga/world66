@@ -5,6 +5,7 @@ latitude: 27.841123
 longitude: 69.411988
 title: Khanpur Mahar
 type: location
+score: 0.22
 ---
 
 Khanpur Mahar is a city in Tehsil Khangarh Sharif, Ghotki District, in the Sindh province of Pakistan. It is the largest city in Ghotki District by area.

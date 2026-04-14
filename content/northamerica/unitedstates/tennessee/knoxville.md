@@ -5,6 +5,7 @@ latitude: 35.9606
 longitude: -83.9207
 title: Knoxville
 type: location
+score: 0.45
 ---
 
 Knoxville sits in the foothills of the Great Smoky Mountains, at the point where the Tennessee River bends south before heading toward Chattanooga. It is not a glamorous city, but it is an honest one — a working-class university town that has spent the last couple of decades rediscovering its own centre after decades of suburban drift.

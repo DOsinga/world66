@@ -1,6 +1,7 @@
 ---
-title: "Goulburn"
+title: Goulburn
 type: location
 latitude: -34.752387
 longitude: 149.719801
+score: 0.37
 ---

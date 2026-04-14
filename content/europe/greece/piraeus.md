@@ -5,6 +5,7 @@ latitude: 37.9431
 longitude: 23.6471
 title: Piraeus
 type: location
+score: 0.55
 ---
 
 Piraeus is Athens's port — sprawling, industrial, and very much a working city rather than a tourist destination, yet worth knowing if you're catching a ferry to the Greek islands or simply want to eat excellent seafood away from the crowds. It has been Athens's main harbour since antiquity and today handles a huge volume of ferry traffic to the Aegean and Ionian islands.

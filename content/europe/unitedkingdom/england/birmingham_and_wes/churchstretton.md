@@ -5,6 +5,7 @@ latitude: 52.5376
 longitude: -2.8032
 title: Church Stretton
 type: location
+score: 0.46
 ---
 
 Church Stretton sits in a narrow valley between the Long Mynd and the Stretton Hills in south Shropshire, surrounded by some of the best walking country in the English Midlands. The Victorians called it "Little Switzerland" and came for the clean air; today it draws hikers, hang-gliders, and anyone who wants a quiet base in genuinely wild-feeling landscape that is surprisingly close to Birmingham.

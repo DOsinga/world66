@@ -5,6 +5,7 @@ latitude: 38.401896
 longitude: 20.670093
 title: Ithaca
 type: location
+score: 0.69
 ---
 
 Ithaca is a small, mountainous island in the Ionian Sea, famous as the mythical home of Odysseus. Whether Homer's hero actually lived here is debatable, but the island has been trading on the connection for centuries — and it works. The landscape is dramatic: steep green hillsides dropping to tiny coves with water so clear it hardly looks real.

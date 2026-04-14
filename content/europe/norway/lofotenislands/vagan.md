@@ -1,10 +1,11 @@
 ---
-title: "Vagan"
+title: Vagan
 type: location
 latitude: 68.2777
 longitude: 14.6631
 done:
   location_cleanup: 2026-04-07
+score: 0.66
 ---
 
 Vågan municipality encompasses most of the islands of Austvågøy and Gimsøy in the northern Lofoten archipelago, along with a scattering of smaller islands including Henningsvær and Skrova. Its main town is Svolvær, the de facto capital of Lofoten and the busiest entry point for the islands by ferry, express boat, and air.

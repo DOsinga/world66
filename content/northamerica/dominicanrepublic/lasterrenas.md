@@ -5,6 +5,7 @@ latitude: 19.3117
 longitude: -69.5424
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 Las Terrenas sits on the north coast of the Samaná Peninsula, a former fishing village that found itself on the map when a road was cut through the mountains in 1946. The French and Italians arrived first, then everyone else. Today it is one of the Dominican Republic's most cosmopolitan small towns — a place where you can eat fresh-caught lobster for lunch and proper French pastries for breakfast.

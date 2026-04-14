@@ -1,6 +1,7 @@
 ---
-title: "Newhall"
+title: Newhall
 type: location
 latitude: 41.994547
 longitude: -91.96739
+score: 0.34
 ---

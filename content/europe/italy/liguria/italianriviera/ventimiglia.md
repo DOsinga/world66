@@ -5,6 +5,7 @@ latitude: 43.7918
 longitude: 7.6033
 done:
   location_cleanup: 2026-04-07
+score: 0.56
 ---
 
 Ventimiglia sits right on the French border, the last Italian town before the Cote d'Azur takes over. It is a place of two halves: a medieval upper town perched on the Cavo hill, all narrow alleys and crumbling stone, and a lower town spread across the plain where the Roja river meets the sea.

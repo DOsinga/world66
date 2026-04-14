@@ -1,6 +1,7 @@
 ---
-title: "Outjo"
+title: Outjo
 type: location
 latitude: -20.111863
 longitude: 16.156687
+score: 0.4
 ---

@@ -5,6 +5,7 @@ latitude: 51.034771
 longitude: 2.377252
 title: Dunkerque
 type: location
+score: 0.41
 ---
 
 Dunkerque sits at the northernmost tip of France, on the shores of the North Sea and just a few kilometres from the Belgian border. It is best known in the English-speaking world for the 1940 evacuation, but the town has a strong Flemish identity and a cultural life that is very much its own.

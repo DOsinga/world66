@@ -5,6 +5,7 @@ latitude: 52.093751
 longitude: 23.685185
 title: Brest
 type: location
+score: 0.42
 ---
 
 Brest sits at the southwestern edge of Belarus, right on the border with Poland, with the Bug river marking the frontier. It is 200km from Warsaw and 350km from Minsk, which makes it a natural entry point for travelers arriving from Poland by train or road. The city is also gateway to one of Europe's last primeval forests.

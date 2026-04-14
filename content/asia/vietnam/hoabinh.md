@@ -5,6 +5,7 @@ latitude: 20.8133
 longitude: 105.3383
 done:
   location_cleanup: 2026-04-07
+score: 0.47
 ---
 
 Hoa Binh sits 75 km southwest of [Hanoi](/asia/vietnam/hanoi) at the edge of Vietnam's northwestern highlands, where the Red River Delta gives way to limestone mountains and terraced valleys. The provincial capital is not much to look at itself, but it serves as the jumping-off point for some of the most rewarding hill-tribe encounters in northern Vietnam.

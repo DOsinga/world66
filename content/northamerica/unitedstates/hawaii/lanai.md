@@ -5,6 +5,7 @@ latitude: 20.8306
 longitude: -156.9029
 title: Lanai
 type: location
+score: 0.63
 ---
 
 For nearly 70 years, Lanai — dubbed the "Pineapple Island" — was operated as a plantation by the Dole Company. In its heyday it was the world's largest source of pineapple, grown on more than 16,000 acres, until the industry began to falter. By 1993 pineapple was phased out in favour of resort development, ranching, and other agriculture.

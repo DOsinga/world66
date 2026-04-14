@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cleopatra_Bath,_Marsa_Matrouh_(22).jpg
 title: Marsa Matruh
 type: location
+score: 0.45
 ---
 
 Marsa Matruh sits on Egypt's Mediterranean coast, about 290 kilometres west of Alexandria and roughly halfway to the Libyan border. It is a summer resort town, popular with Egyptian families escaping the heat of Cairo, and the beaches here are genuinely striking — white sand, turquoise water, and a sheltered bay that makes the sea unusually calm for the open Mediterranean.

@@ -5,6 +5,7 @@ latitude: 40.345875
 longitude: 15.237878
 title: Parco del Cilento
 type: location
+score: 0.6
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

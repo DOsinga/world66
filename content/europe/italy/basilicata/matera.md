@@ -5,6 +5,7 @@ latitude: 40.447642
 longitude: 16.473574
 title: Matera
 type: location
+score: 0.73
 ---
 
 Matera is one of the most astonishing cities in Italy — a place where people have lived continuously since the Palaeolithic, carving homes, churches, and entire neighbourhoods into the soft tufa rock of two ravines. The result is the Sassi, a dense labyrinth of cave dwellings, rock-cut churches, and terraced alleyways that earned Matera its place on the UNESCO World Heritage list in 1993. It is also one of Europe's oldest continuously inhabited settlements.

@@ -1,9 +1,10 @@
 ---
-title: "Salto"
+title: Salto
 type: location
 latitude: -31.3889
 longitude: -57.9609
 todo_location_cleanup: done
+score: 0.39
 ---
 
 Salto is Uruguay's second largest city, sitting on the Uruguay River near the border with [Argentina](/southamerica/argentina) and about 500 km northwest of Montevideo. It is the centre of a major citrus-growing region, and the orange groves that surround the city give the countryside here a distinctly pleasant character.

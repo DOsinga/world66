@@ -5,6 +5,7 @@ latitude: 53.794423
 longitude: -1.751919
 title: Bradford
 type: location
+score: 0.36
 ---
 
 Bradford made its fortune in wool. By the mid-19th century it was the wool capital of the world, its mills churning out enough fabric to clothe an empire. The industry collapsed after World War II, but the evidence of that wealth is still visible: grand Victorian civic buildings, a world-class science and media museum, and Saltaire — a model mill village so intact it's now a UNESCO World Heritage Site.

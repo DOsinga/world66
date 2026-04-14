@@ -5,6 +5,7 @@ latitude: 37.950932
 longitude: -91.770808
 title: Rolla
 type: location
+score: 0.33
 ---
 
 Rolla sits in the Ozark foothills at the junction of I-44 and US-63, roughly equidistant from [St. Louis](/northamerica/unitedstates/missouri/stlouis) and [Springfield](/northamerica/unitedstates/missouri/springfield) — locals call it the "Middle of Everywhere." It is the home of Missouri S&T (formerly the University of Missouri at Rolla), a well-regarded engineering school that gives the small town a college-town energy.

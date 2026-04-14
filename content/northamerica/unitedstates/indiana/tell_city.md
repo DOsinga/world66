@@ -5,6 +5,7 @@ latitude: 37.950848
 longitude: -86.769701
 title: Tell City
 type: location
+score: 0.3
 ---
 
 Tell City sits on the Ohio River in southern [Indiana](/northamerica/unitedstates/indiana), the largest town in Perry County. It was founded in 1857 by a Swiss colonisation society and named after the legendary William Tell — the Swiss heritage is still visible in the town's layout and architecture.

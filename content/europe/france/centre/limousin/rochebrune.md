@@ -5,6 +5,7 @@ latitude: 44.336213
 longitude: 5.245032
 title: Rochebrune
 type: location
+score: 0.41
 ---
 
 Tucked away in a forest in the Charente countryside, the Château de Rochebrune has been the seat of the Lords of Chabanais since the 11th century. The castle sits between [Limoges](/europe/france/centre/limousin/limoges) and Poitiers, in the kind of quiet, green landscape that makes this part of France feel a long way from anywhere.

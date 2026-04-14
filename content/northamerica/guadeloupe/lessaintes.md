@@ -5,6 +5,7 @@ latitude: 15.8569
 longitude: -61.5833
 title: Les Saintes
 type: location
+score: 0.65
 ---
 
 Les Saintes is a small archipelago of eight islands just south of [Guadeloupe](/northamerica/guadeloupe), often called the most beautiful bay in the world — a claim that feels less like hyperbole once you arrive. Only two of the islands are inhabited: Terre-de-Haut and Terre-de-Bas, with Terre-de-Haut drawing most visitors.

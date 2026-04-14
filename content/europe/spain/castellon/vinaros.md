@@ -5,6 +5,7 @@ latitude: 40.470399
 longitude: 0.474608
 title: Vinaros
 type: location
+score: 0.49
 ---
 
 Vinaròs is a working fishing port at the northern tip of Castellón province, right on the border with Tarragona. It is one of the main landing ports for the prized Mediterranean red prawn (gamba roja), and the fish market and the restaurants around the port are the main reasons to stop here. The town has a modest beach and a pleasant, unpolished seafront — this is a real Spanish port town rather than a resort, and the locals outnumber the tourists.

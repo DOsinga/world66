@@ -5,6 +5,7 @@ latitude: 18.2208
 longitude: -66.5901
 title: Puerto Rico
 type: location
+score: 0.68
 ---
 
 Puerto Rico occupies a peculiar and fascinating position in the world: a Caribbean island with a strong Spanish colonial identity that has been a territory of the United States since 1898. It is neither a state nor an independent nation, and Puerto Ricans hold US citizenship — yet the island has its own distinct culture, its own flag, and a spirit that feels emphatically its own.

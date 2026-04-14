@@ -5,6 +5,7 @@ latitude: 52.952181
 longitude: -8.303211
 title: Lough Derg
 type: location
+score: 0.5
 ---
 
 Lough Derg, "Ireland's pleasure lake," is the largest lake on the Shannon and a popular destination for both domestic and foreign visitors. The lake stretches across parts of County [Clare](/europe/ireland/clare), Tipperary and Galway, and offers fishing, boating, golfing and camping. The lakeshore villages have no shortage of accommodation — B&Bs, holiday homes, marinas and caravan parks — and plenty of pubs with traditional Irish music.

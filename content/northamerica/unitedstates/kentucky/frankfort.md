@@ -5,6 +5,7 @@ latitude: 38.2009
 longitude: -84.8733
 done:
   location_cleanup: 2026-04-05
+score: 0.45
 ---
 
 Frankfort is the capital of Kentucky and, at around 28,000 people, one of the smallest state capitals in the United States. It sits in a pretty bend of the Kentucky River, surrounded by the rolling pasture-and-horse-farm country of the Bluegrass. Most visitors to Kentucky head for Lexington or Louisville without giving Frankfort a thought — a mistake, because the city is handsomer than its size suggests, full of Federal-era architecture, and sits right in the middle of the state's bourbon country.

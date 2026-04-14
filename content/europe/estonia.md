@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Abrget47j" title="User:Abrget47j">Abrget47j</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.39
 ---
 
 The most northern of the three Baltic states, Estonia punches well above its weight. It's small — 1.3 million people, roughly the size of the Netherlands — but it packs in a medieval capital, unspoilt national parks, hundreds of islands, and a tech culture that pioneered e-governance and gave the world Skype.

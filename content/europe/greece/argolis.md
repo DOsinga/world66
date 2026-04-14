@@ -9,6 +9,7 @@ image: argolis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20090728_palamidi90.jpg
 image_license: CC BY 3.0
 image_attribution: Jeanhousen
+score: 0.69
 ---
 
 The Argolid is the northeastern finger of the Peloponnese, and it packs more ancient Greek history into a small area than almost anywhere else in the country. [Mycenae](/europe/greece/mycenae), [Epidaurus](/europe/greece/epidaurus), Tiryns, and ancient Argos are all here, spread across a landscape of olive groves, orange orchards, and dry hills that has not changed all that much since Agamemnon's time.

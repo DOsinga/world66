@@ -5,6 +5,7 @@ latitude: 42.5144
 longitude: -8.8138
 title: Cambados
 type: location
+score: 0.55
 ---
 
 Cambados is the undisputed capital of Albariño, the crisp white wine that defines Galician drinking culture. The town sits on the Salnés coast, looking out over the Ría de Arousa, and its granite streets are lined with some of the most handsome manor houses in Galicia.

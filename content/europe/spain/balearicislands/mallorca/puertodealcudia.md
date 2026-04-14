@@ -5,6 +5,7 @@ latitude: 39.8486
 longitude: 3.1213
 title: Puerto de Alcudia
 type: location
+score: 0.62
 ---
 
 Puerto de Alcudia sits at the eastern end of Mallorca's longest beach — a five-mile sweep of soft, white sand that shelves gently into shallow, warm water, making it one of the best family beaches on the island. The resort town itself is a busy strip of restaurants, bars, and shops running along the waterfront, with a small marina at one end and the beach stretching away to the south towards Ca'n Picafort.

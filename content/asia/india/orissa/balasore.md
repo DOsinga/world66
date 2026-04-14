@@ -5,6 +5,7 @@ latitude: 21.500642
 longitude: 86.919884
 title: Balasore
 type: location
+score: 0.3
 ---
 
 Balasore is a coastal district in the far north of Odisha (formerly Orissa), bordered by West Bengal to the north and the Bay of Bengal to the east. The district town is a busy trading centre in a fertile agricultural area, traditionally known as the granary of Odisha for its rice production.

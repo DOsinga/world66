@@ -5,6 +5,7 @@ latitude: 13.8032
 longitude: 77.6097
 title: Lepakshi
 type: location
+score: 0.47
 ---
 
 Lepakshi is a small village in the Anantapur district of southern Andhra Pradesh, about 120 kilometres north of Bangalore and a short detour off the main highway to Hyderabad. It would be easy to drive past — but doing so would mean missing one of the finest examples of Vijayanagara architecture in India.

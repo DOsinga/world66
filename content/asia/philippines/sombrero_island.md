@@ -5,6 +5,7 @@ latitude: 13.698194
 longitude: 120.82911
 title: Sombrero Island
 type: location
+score: 0.52
 ---
 
 Sombrero Island is a small, hat-shaped island off the coast of Tinagba in Camarines Sur province, named for its resemblance to a sombrero when seen from a distance. It has a white sand beach, clear water, and the kind of unspoiled quiet that the bigger Philippine resort islands lost years ago.

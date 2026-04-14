@@ -5,6 +5,7 @@ latitude: 36.9744
 longitude: -122.0295
 done:
   location_cleanup: 2026-04-07
+score: 0.52
 ---
 
 Santa Cruz is a beach town with a countercultural streak, perched at the northern tip of Monterey Bay where the redwood-covered Santa Cruz Mountains meet the Pacific. It is 75 miles south of [San Francisco](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco) and has the vibe of a university town that never quite grew up — surfers, students, artists, and tech workers share the streets.

@@ -5,6 +5,7 @@ latitude: 32.924726
 longitude: 73.719388
 done:
   location_cleanup: 2026-04-07
+score: 0.27
 ---
 
 Jhelum is a city in the Punjab province of Pakistan, on the banks of the Jhelum River — one of the five rivers that give the Punjab its name, and the ancient Hydaspes where Alexander the Great fought his last great battle against the army of the Indian king Porus in 326 BCE. The engagement was the most costly of Alexander's campaigns and marked the eastern limit of his conquests.

@@ -5,6 +5,7 @@ latitude: 54.6144
 longitude: -2.9421
 title: Cumbria
 type: location
+score: 0.57
 ---
 
 Cumbria is England's most north-westerly county and home to the Lake District, a compact landscape of mountains, lakes, and stone-walled valleys that has drawn walkers, poets, and painters for centuries. The fells — as the mountains are known locally — include Scafell Pike, England's highest point, and the lakes themselves range from the busy shores of Windermere to the quiet isolation of Wastwater.

@@ -1,10 +1,11 @@
 ---
-title: "Sarajevo"
+title: Sarajevo
 type: location
 latitude: 43.8563
 longitude: 18.4131
 done:
   location_cleanup: '2026-04-07'
+score: 0.63
 ---
 
 Sarajevo has always been a place where civilisations meet — Ottoman, Austro-Hungarian, Yugoslav, and now Bosnian — and the result is a city unlike any other in Europe. You can walk from a 16th-century Ottoman bazaar to a Habsburg boulevard in five minutes, passing mosques, Catholic churches, Orthodox churches, and a synagogue along the way.

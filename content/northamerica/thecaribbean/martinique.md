@@ -5,6 +5,7 @@ latitude: 14.6361
 longitude: -61.0192
 title: Martinique
 type: location
+score: 0.68
 ---
 
 Martinique is a bit of France in the Caribbean. Located over 6,000 km from Paris, it is a full département and région of France — the euro is the currency, the food is French, and the bureaucracy is unmistakably Gallic. The French arrived in 1635, and with the exception of brief British occupations, the island has been French ever since.

@@ -5,6 +5,7 @@ latitude: 44.359682
 longitude: -78.742173
 title: Kawartha Lakes
 type: location
+score: 0.47
 ---
 
 Kawartha Lakes is a sprawling municipality in east-central Ontario that's more countryside than city, despite its official designation. The name comes from the anglicized Anishinaabe word gaa-waategamaag, meaning "shining waters" — and that's exactly what you'll find. Lakes everywhere, most of them ringed with cottages.

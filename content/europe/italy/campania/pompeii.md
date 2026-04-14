@@ -5,6 +5,7 @@ latitude: 40.751737
 longitude: 14.490564
 done:
   location_cleanup: 2026-04-07
+score: 0.77
 ---
 
 *Europe > Italy > Campania > Pompeii*

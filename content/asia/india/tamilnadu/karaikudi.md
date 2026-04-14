@@ -5,6 +5,7 @@ latitude: 10.072844
 longitude: 78.779519
 title: Karaikudi
 type: location
+score: 0.42
 ---
 
 Karaikudi is the largest town in Sivaganga district in central Tamil Nadu, and the cultural centre of the **Nattukotai Chettiar** (Nagarathar) community — the merchant caste whose trading networks spread across Southeast Asia in the 19th and early 20th centuries. The town and surrounding villages are full of their mansions: enormous houses built with teak, Burmese timber, Italian marble, and Belgian tiles imported when the community was at its most prosperous. Many stand empty or semi-abandoned now; some have been converted into heritage hotels.

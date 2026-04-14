@@ -5,6 +5,7 @@ latitude: 47.229118
 longitude: 16.618762
 title: Szombathely
 type: location
+score: 0.48
 ---
 
 Szombathely may not be on most tourists' itineraries, but this quiet western Hungarian city has a long history worth exploring. Nearly 1,800 years ago, as Savaria, it was the capital of the Roman province of Upper Pannonia — and the birthplace of Saint Martin of Tours.

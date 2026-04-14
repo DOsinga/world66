@@ -5,6 +5,7 @@ latitude: 39.2547
 longitude: 45.519
 title: Babek
 type: location
+score: 0.33
 ---
 
 Babek is a rural district in the Nakhchivan Autonomous Republic, wedged between Iran to the south, Armenia to the north, and the [Nakhchivan city](/europe/azerbaijan/naxcivan/nakhchivan_city) area to the east. The landscape is striking: the southern foothills of the Daralayaz chain give way to broad plains fed by the Nakhchivanchay river and its tributaries, with the region's highest point at Mount Buzgov reaching 2,475 metres.

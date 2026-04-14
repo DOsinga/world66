@@ -1,8 +1,9 @@
 ---
-title: "Bradford"
+title: Bradford
 type: location
 latitude: 53.794423
 longitude: -1.751919
+score: 0.4
 ---
 
 Bradford made its fortune on wool. By the mid-19th century it was the wool capital of the world, a grimy, prosperous mill town that drew workers from across Europe and, later, from South Asia. The industry unravelled after World War II, and Bradford has been reinventing itself ever since — with mixed but often interesting results.

@@ -5,6 +5,7 @@ latitude: 48.3984
 longitude: 9.9912
 title: Ulm
 type: location
+score: 0.53
 ---
 
 Ulm sits on the Danube in Baden-Wurttemberg, right where southern Germany feels most itself. The city is best known for its Minster, whose spire at 161.5 meters is the tallest church tower in the world. Climb the 768 steps for a view that stretches to the Alps on a clear day.

@@ -1,8 +1,9 @@
 ---
-title: "Accra"
+title: Accra
 type: location
 latitude: 5.55711
 longitude: -0.201238
+score: 0.48
 ---
 
 Accra is a sprawling, energetic capital of around four million people, spread along the southern coast. It is chaotic, noisy, and fascinating -- a city where modern skyscrapers and air-conditioned malls sit alongside open sewers and crowded market stalls. Love it or endure it, you will almost certainly pass through.

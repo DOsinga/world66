@@ -5,6 +5,7 @@ latitude: -20.385671
 longitude: -43.503617
 title: Ouro Preto
 type: location
+score: 0.68
 ---
 
 Ouro Preto (formerly Vila Rica — "Rich Town") made its fortune from gold, and then renamed itself after the black gold ore that defined it. The colonial-era wealth is still written across the town in baroque churches, grand mansions, and cobblestone streets that climb steep hillsides to offer views of the surrounding mountains.

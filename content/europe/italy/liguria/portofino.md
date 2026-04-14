@@ -5,6 +5,7 @@ latitude: 44.303665
 longitude: 9.209345
 done:
   location_cleanup: 2026-04-07
+score: 0.85
 ---
 
 Portofino is a tiny fishing village on the Ligurian coast southeast of Genoa, set at the base of a promontory covered in Monte di Portofino Natural Park. Its harbour is barely large enough for 300 boats, its streets barely wide enough for two people to pass — and yet it is one of the most famous villages in Italy, photographed and visited by the wealthy since the late 19th century. The coloured houses around the port, the hilltop castle, and the surrounding blue-green sea are genuinely as beautiful as the postcards suggest.

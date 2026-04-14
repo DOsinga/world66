@@ -5,6 +5,7 @@ latitude: 42.774411
 longitude: -9.057535
 title: Muros
 type: location
+score: 0.52
 ---
 
 Muros is a small fishing town on the Ría de Muros e Noia, one of the least developed of [Galicia's](/europe/spain/galicia) Atlantic inlets. The bus ride from Santiago de Compostela is half the pleasure — it winds through green Galician countryside and then follows the coast of the ría from [Noia](/europe/spain/northernspain/noia).

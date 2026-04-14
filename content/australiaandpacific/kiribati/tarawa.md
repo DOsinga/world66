@@ -10,6 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Tarawa_from_the_air.
 image_license: CC BY 3.0
 image_attribution: Photo taken by Government of Kiribati employee in the course of
   their work
+score: 0.44
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Tarawa*

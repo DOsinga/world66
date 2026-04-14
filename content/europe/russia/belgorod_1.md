@@ -5,6 +5,7 @@ latitude: 50.59556
 longitude: 36.587339
 title: Belgorod
 type: location
+score: 0.29
 ---
 
 Travel Guide

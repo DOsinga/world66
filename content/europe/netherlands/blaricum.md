@@ -5,6 +5,7 @@ latitude: 52.281133
 longitude: 5.293714
 title: Blaricum
 type: location
+score: 0.39
 ---
 
 Blaricum is a small, well-heeled village in the Gooi region of North Holland, tucked between heathland and polders about 30 km southeast of Amsterdam. It has the feel of a country retreat that never quite became a town — monumental farmhouses line quiet lanes, and the village center is little more than a church, a few cafes, and a handful of shops.

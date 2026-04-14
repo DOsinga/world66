@@ -5,6 +5,7 @@ latitude: 42.12434
 longitude: 14.705923
 title: Vasto
 type: location
+score: 0.57
 ---
 
 Vasto is a hilltop town on the Adriatic coast of Abruzzo, perched above a long stretch of sandy beach and a small but pretty marina. The old town up top has a medieval castle, a cathedral, and narrow streets with views out over the sea — it feels a world away from the beach resort below.

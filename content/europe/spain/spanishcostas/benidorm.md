@@ -1,10 +1,11 @@
 ---
-title: "Benidorm"
+title: Benidorm
 type: location
 latitude: 38.540625
 longitude: -0.129093
 done:
-  location_cleanup: "2026-04-08"
+  location_cleanup: '2026-04-08'
+score: 0.57
 ---
 
 Benidorm is Spain's ultimate beach resort — brash, unapologetic, and genuinely fun if you know what you are getting into. Two sweeping sandy beaches, Playa de Levante and Playa de Poniente, bracket the old town on either side, with the Mediterranean stretching blue to the horizon and the Sierra Helada rising dramatically behind. The beaches are among the finest on the Costa Blanca: wide, clean, and well-organised.

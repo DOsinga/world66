@@ -5,6 +5,7 @@ latitude: 52.1625
 longitude: 10.5348
 title: Wolfenbüttel
 type: location
+score: 0.45
 ---
 
 Wolfenbüttel is a small town just south of [Braunschweig](/europe/germany/lowersaxony/braunschweig) in Lower Saxony, with one of the best-preserved timber-frame old towns in northern Germany. Over 600 half-timbered houses line the streets of the centre, many of them dating from the 16th and 17th centuries when Wolfenbüttel served as the residence of the Dukes of Brunswick-Lüneburg.

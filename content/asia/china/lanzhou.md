@@ -5,6 +5,7 @@ latitude: 36.4744
 longitude: 103.7332
 done:
   location_cleanup: 2026-04-07
+score: 0.41
 ---
 
 *Asia > China > Lanzhou*

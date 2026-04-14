@@ -1,8 +1,9 @@
 ---
-title: "Sumatra"
+title: Sumatra
 type: location
 latitude: -0.143294
 longitude: 101.624102
+score: 0.53
 ---
 
 Sumatra, the westernmost of the main islands of

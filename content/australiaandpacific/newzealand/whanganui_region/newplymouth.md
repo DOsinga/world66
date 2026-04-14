@@ -5,6 +5,7 @@ latitude: -39.058
 longitude: 174.0806
 title: New Plymouth
 type: location
+score: 0.47
 ---
 
 New Plymouth sits on the North Island's west coast in the shadow of Mount Taranaki, a near-perfect volcanic cone that dominates everything here — the landscape, the weather, the local identity. Abel Tasman called it "the noblest hill I've ever seen" when he sailed past in the 17th century, and it is hard to argue with him.

@@ -5,6 +5,7 @@ latitude: 38.3738
 longitude: -110.7064
 title: Hanksville
 type: location
+score: 0.36
 ---
 
 Tiny Hanksville is surrounded by overwhelmingly dramatic country. Home to around 300 people, this desert crossroads has a colourful past as a polygamist hideout, an outlaw refuge — Butch Cassidy and his Wild Bunch reportedly frequented the area — and a hardscrabble ranching town. Even today it is not easy to get here; long drives across burning, empty desert are pretty much the only way in.

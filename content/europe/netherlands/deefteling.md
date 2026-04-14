@@ -5,6 +5,7 @@ latitude: 51.648431
 longitude: 5.043606
 title: De Efteling
 type: location
+score: 0.6
 ---
 
 De Efteling is the Netherlands' most-visited amusement park, drawing over 5 million visitors a year. It is located near Kaatsheuvel in the province of Noord-Brabant, not far from [Den Bosch](/europe/netherlands/denbosch).

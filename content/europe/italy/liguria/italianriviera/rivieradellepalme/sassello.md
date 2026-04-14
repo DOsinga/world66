@@ -5,6 +5,7 @@ latitude: 44.478969
 longitude: 8.490171
 title: Sassello
 type: location
+score: 0.46
 ---
 
 Sassello sits in a green valley on the northern slope of the Ligurian Apennines, surrounded by woods and pastures and partly within the Parco del Beigua. It is a quiet, attractive hill town well off the coastal tourist trail, known above all for its amaretti — soft macaroons made to a centuries-old recipe that remain the town's most famous product.

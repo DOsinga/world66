@@ -1,8 +1,9 @@
 ---
-title: "Lagos"
+title: Lagos
 type: location
 latitude: 6.455057
 longitude: 3.394179
+score: 0.39
 ---
 
 Lagos is the bomb! very spread out and it is hard to get a good grip on the the place. The city consists of Lagos island, Victoria islands and a lot of suburbs, which constitute complete cities of their own. 

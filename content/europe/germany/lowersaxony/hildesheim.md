@@ -5,6 +5,7 @@ latitude: 52.1527
 longitude: 9.9518
 title: Hildesheim
 type: location
+score: 0.5
 ---
 
 Hildesheim is a mid-sized city in [Lower Saxony](/europe/germany/lowersaxony) whose two Romanesque churches — St. Michael's and the Cathedral of the Assumption — are UNESCO World Heritage Sites. Both date to around 1000 AD and contain remarkable art, including the famous bronze doors and the Bernward Column in the cathedral.

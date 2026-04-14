@@ -5,6 +5,7 @@ latitude: 17.9714
 longitude: -66.9081
 title: Guanica
 type: location
+score: 0.5
 ---
 
 Guanica is a small town on the southern coast of [Puerto Rico](/northamerica/puertorico), best known for the Guanica Dry Forest Reserve — a UNESCO Biosphere Reserve with 48 rare tree species and excellent birdwatching. The subtropical dry forest is one of the best-preserved examples in the world and makes for good hiking.

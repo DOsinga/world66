@@ -5,6 +5,7 @@ latitude: 25.3869
 longitude: 68.3715
 title: Hyderabad
 type: location
+score: 0.3
 ---
 
 Not to be confused with [Hyderabad in India](/asia/india/andhrapradesh/hyderabad), this Hyderabad is the second largest city in Sindh and one of the largest in Pakistan. It lies 164 km north of [Karachi](/asia/pakistan/karachi), on the eastern bank of the Indus. When the river shifted its course away from Khudabad, the old regional capital, Hyderabad took over the role — and it has been the cultural heart of Sindh ever since.

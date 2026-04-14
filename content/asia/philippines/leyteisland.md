@@ -5,6 +5,7 @@ latitude: 10.784116
 longitude: 124.892321
 title: Leyte island
 type: location
+score: 0.49
 ---
 
 Leyte is an island in the Eastern Visayas of the Philippines, linked by bridge to the smaller island of Samar to the north. The capital is Tacloban, birthplace of Imelda Marcos and the main entry point for the island.

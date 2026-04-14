@@ -5,6 +5,7 @@ latitude: 41.117236
 longitude: 1.254606
 title: Tarragona
 type: location
+score: 0.64
 ---
 
 Tarragona, south of [Barcelona](/europe/spain/catalonia/barcelona) along the Costa Daurada, was one of the most important cities in Roman Hispania — the capital of the province of Tarraconensis and a place where emperors Augustus and Hadrian both spent time. The Roman remains are extensive and earned UNESCO World Heritage status.

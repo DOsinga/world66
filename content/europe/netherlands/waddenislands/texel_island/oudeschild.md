@@ -5,6 +5,7 @@ latitude: 53.038389
 longitude: 4.845691
 title: Oudeschild
 type: location
+score: 0.51
 ---
 
 Oudeschild is Texel's harbour village, sitting on the sheltered eastern coast of the island where the Waddenzee laps at the quayside. It's a small, unhurried place — fishing boats unloading, nets drying, the smell of salt and diesel — and a welcome counterpoint to the busier resort atmosphere of De Koog on the other side of the island.

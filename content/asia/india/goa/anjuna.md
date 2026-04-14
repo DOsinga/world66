@@ -5,6 +5,7 @@ latitude: 15.585041
 longitude: 73.743815
 title: Anjuna
 type: location
+score: 0.56
 ---
 
 Anjuna is one of the most popular beach villages in north [Goa](/asia/india/goa), known since the 1960s as a gathering point for the international hippie trail. The all-night beach parties with trance music still draw a diverse crowd from around the world, though the scene has mellowed considerably from its wilder days.

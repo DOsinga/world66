@@ -5,6 +5,7 @@ latitude: 27.36008
 longitude: 92.24121
 title: Dirang
 type: location
+score: 0.44
 ---
 
 Dirang is a small valley town in western Arunachal Pradesh, sitting at about 1,500 metres between Bomdila and Tawang on the road that climbs toward the Tibetan border. Most travelers pass through on their way to Tawang, but Dirang deserves more than a fuel stop.

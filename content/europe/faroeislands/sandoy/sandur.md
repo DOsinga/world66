@@ -5,6 +5,7 @@ latitude: 61.8348
 longitude: -6.8176
 title: Sandur
 type: location
+score: 0.5
 ---
 
 Sandur is the main village on Sandoy, the quietest and most pastoral of the Faroe Islands. Known locally as "Heima á Sandi", it sits at the head of a sheltered fjord surrounded by green hillsides and farmland — a slower pace than Tórshavn, and all the better for it.

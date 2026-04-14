@@ -5,6 +5,7 @@ latitude: 38.0382
 longitude: 12.5872
 title: Erice
 type: location
+score: 0.64
 ---
 
 Erice is a medieval hilltop village perched 750 metres above Trapani on Sicily's west coast. The views from the top are spectacular, stretching over Trapani, the salt flats, and on clear days all the way to the Egadi Islands.

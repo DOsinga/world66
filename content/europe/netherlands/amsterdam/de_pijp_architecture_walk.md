@@ -8,12 +8,13 @@ longitude: 4.891784
 waypoints:
   - heineken_experience
   - ferdinand_bolstraat_tenements
-  - eerste_jan_steenstraat
   - albert_cuypmarkt
   - sarphatipark
+  - huis_met_de_kabouters
+  - tolstraat_160
   - de_dageraad
 route:
-  - [52.357923, 4.891825]
+  - [52.357917, 4.891858]
   - [52.357953, 4.891660]
   - [52.357973, 4.891327]
   - [52.357970, 4.891058]
@@ -37,30 +38,26 @@ route:
   - [52.356641, 4.890703]
   - [52.356606, 4.890694]
   - [52.356181, 4.890618]
+  - [52.355820, 4.890560]
   - [52.355443, 4.890499]
   - [52.355101, 4.890447]
   - [52.354983, 4.890442]
+  - [52.354971, 4.890373]
+  - [52.354966, 4.890347]
+  - [52.354963, 4.890326]
+  - [52.354957, 4.890292]
+  - [52.354949, 4.890233]
+  - [52.354937, 4.890171]
+  - [52.354929, 4.890175]
+  - [52.354898, 4.890187]
+  - [52.354844, 4.890208]
+  - [52.354861, 4.890320]
+  - [52.354865, 4.890347]
+  - [52.354868, 4.890371]
   - [52.354881, 4.890454]
   - [52.354771, 4.890467]
   - [52.354566, 4.890554]
-  - [52.354097, 4.890759]
-  - [52.354061, 4.890777]
-  - [52.354058, 4.890677]
-  - [52.354055, 4.890654]
-  - [52.354040, 4.890548]
-  - [52.354520, 4.890334]
-  - [52.354844, 4.890208]
-  - [52.354929, 4.890175]
-  - [52.354937, 4.890171]
-  - [52.354949, 4.890233]
-  - [52.354957, 4.890292]
-  - [52.354963, 4.890326]
-  - [52.354966, 4.890347]
-  - [52.354971, 4.890373]
-  - [52.354983, 4.890442]
-  - [52.354984, 4.890451]
-  - [52.355068, 4.890901]
-  - [52.355471, 4.893072]
+  - [52.354644, 4.891008]
   - [52.355045, 4.893275]
   - [52.354499, 4.893603]
   - [52.354495, 4.893679]
@@ -77,7 +74,6 @@ route:
   - [52.354524, 4.896046]
   - [52.354439, 4.896042]
   - [52.354463, 4.896289]
-  - [52.354467, 4.896376]
   - [52.354468, 4.896391]
   - [52.354475, 4.896457]
   - [52.354489, 4.896534]
@@ -108,39 +104,92 @@ route:
   - [52.354802, 4.898442]
   - [52.354807, 4.898526]
   - [52.354846, 4.898663]
-  - [52.354325, 4.899064]
-  - [52.354299, 4.899085]
-  - [52.354268, 4.899110]
-  - [52.354236, 4.899135]
-  - [52.354211, 4.899155]
-  - [52.354178, 4.899181]
-  - [52.354151, 4.899203]
-  - [52.354107, 4.899238]
-  - [52.354078, 4.899260]
-  - [52.354052, 4.899280]
-  - [52.353841, 4.899442]
-  - [52.353763, 4.899481]
-  - [52.353414, 4.899647]
-  - [52.353283, 4.898923]
-  - [52.353264, 4.898872]
-  - [52.353242, 4.898836]
-  - [52.353247, 4.898777]
-  - [52.353246, 4.898735]
-  - [52.353169, 4.898330]
-  - [52.353128, 4.898107]
-  - [52.353155, 4.898020]
-  - [52.353030, 4.897338]
-  - [52.352977, 4.897262]
-  - [52.352957, 4.897205]
-  - [52.352947, 4.897228]
-  - [52.352917, 4.897255]
-  - [52.352886, 4.897266]
-  - [52.352369, 4.897378]
-  - [52.352287, 4.897399]
-  - [52.351736, 4.897597]
-  - [52.351702, 4.897610]
-  - [52.351357, 4.897743]
-  - [52.350993, 4.897883]
+  - [52.355472, 4.900726]
+  - [52.355477, 4.900742]
+  - [52.355248, 4.900929]
+  - [52.355038, 4.901085]
+  - [52.354985, 4.901126]
+  - [52.354921, 4.901176]
+  - [52.354914, 4.901181]
+  - [52.354916, 4.901185]
+  - [52.354919, 4.901194]
+  - [52.354935, 4.901237]
+  - [52.354967, 4.901320]
+  - [52.355007, 4.901455]
+  - [52.355021, 4.901503]
+  - [52.355137, 4.901887]
+  - [52.355238, 4.902198]
+  - [52.355446, 4.902862]
+  - [52.355622, 4.903415]
+  - [52.355697, 4.903648]
+  - [52.355878, 4.904219]
+  - [52.355697, 4.903648]
+  - [52.355645, 4.903694]
+  - [52.355614, 4.903720]
+  - [52.355605, 4.903728]
+  - [52.355594, 4.903737]
+  - [52.355553, 4.903772]
+  - [52.355509, 4.903811]
+  - [52.355031, 4.904201]
+  - [52.354984, 4.904039]
+  - [52.354550, 4.904350]
+  - [52.354451, 4.904009]
+  - [52.354403, 4.904051]
+  - [52.354319, 4.904122]
+  - [52.354173, 4.904232]
+  - [52.354084, 4.904296]
+  - [52.354034, 4.904325]
+  - [52.353978, 4.904339]
+  - [52.353789, 4.904518]
+  - [52.353697, 4.904596]
+  - [52.353666, 4.904615]
+  - [52.353848, 4.905301]
+  - [52.353806, 4.905339]
+  - [52.353832, 4.905443]
+  - [52.353184, 4.905899]
+  - [52.353245, 4.906153]
+  - [52.353255, 4.906198]
+  - [52.353180, 4.906251]
+  - [52.352984, 4.906377]
+  - [52.352950, 4.906399]
+  - [52.352894, 4.906436]
+  - [52.352877, 4.906447]
+  - [52.352889, 4.906498]
+  - [52.352872, 4.906535]
+  - [52.352859, 4.906562]
+  - [52.352848, 4.906569]
+  - [52.352802, 4.906520]
+  - [52.352694, 4.906594]
+  - [52.352628, 4.906293]
+  - [52.352559, 4.906065]
+  - [52.352681, 4.905981]
+  - [52.352741, 4.905943]
+  - [52.352764, 4.905928]
+  - [52.352653, 4.905449]
+  - [52.352620, 4.905307]
+  - [52.352576, 4.905089]
+  - [52.352453, 4.904554]
+  - [52.352377, 4.904238]
+  - [52.352188, 4.903194]
+  - [52.352169, 4.903050]
+  - [52.352164, 4.903011]
+  - [52.352143, 4.902849]
+  - [52.351908, 4.901248]
+  - [52.351640, 4.899339]
+  - [52.351636, 4.899281]
+  - [52.351643, 4.899234]
+  - [52.351659, 4.899200]
+  - [52.351680, 4.899169]
+  - [52.351698, 4.899114]
+  - [52.351646, 4.899073]
+  - [52.351562, 4.898983]
+  - [52.351372, 4.898858]
+  - [52.351166, 4.898933]
+  - [52.351135, 4.898953]
+  - [52.351111, 4.898891]
+  - [52.351090, 4.898812]
+  - [52.351078, 4.898733]
+  - [52.351003, 4.898197]
   - [52.350972, 4.897894]
   - [52.350927, 4.897915]
   - [52.350381, 4.898128]
@@ -151,32 +200,36 @@ route:
   - [52.350112, 4.898306]
 ---
 
-De Pijp is one of the most architecturally coherent neighbourhoods in Amsterdam, and that coherence comes from speed. Almost the entire area was built between 1870 and 1895 by speculative developers working to a municipal grid plan approved in 1875. The result is a neighbourhood with a single dominant building type — the four-storey brick tenement, two windows wide, with applied ornament stretched over cheap construction — and one striking counter-argument to that type, built thirty years later by architects who found it intolerable. This walk traces that argument from one end to the other.
+De Pijp was built in a hurry, and the hurry shows — which is exactly the point. Between 1870 and 1895, a municipal grid plan turned a stretch of Amsterdam polderland into a dense residential neighbourhood almost overnight. Speculative developers worked through the land plots as fast as they could sell houses. The result is a place with an unusually consistent architectural character, because nearly everything was built to the same formula by the same methods, often from the same catalogue of ornamental parts. Walk this neighbourhood and you will learn to read that formula, understand what it was trying to say, and then see it demolished — twice over, in two completely different ways — by the buildings that came after it.
 
-Begin at the [Heineken Experience](/europe/netherlands/amsterdam/heineken_experience) on Stadhouderskade 78. The brewery was built in 1867 to a design by Isaac Gosschalk, and it reads differently from the tenements immediately south of it: the main building is symmetrical, with two flanking wings carrying step gables, and two small towers framing a large bow window in the central facade. Gosschalk gave it the vocabulary of a public institution — a building that needed to signal permanence and authority. The step gable — each face of the step a right angle, rising in tiers to a flat top — is the earliest form of the Amsterdam gable type, more common in the 17th century than in 1867; using it here was a deliberately historicist gesture, aligning the brewery with the civic confidence of the Golden Age. Look for the 1913 brewhouse addition, designed by Rotterdam architect Arie Heederik with Art Nouveau stained-glass windows: two architectural moments, two generations apart, both in the red brick that links De Pijp together.
+Begin at the [Heineken Experience](/europe/netherlands/amsterdam/heineken_experience) on Stadhouderskade 78. Stand on the pavement and look at the brewery building before you go in or past it. Isaac Gosschalk designed it in 1867 (the first brew was in 1868), and it looks like something no private developer would have built in De Pijp. The facade along Stadhouderskade is broad and symmetrical, with a projecting section whose tower-like profile and clock recall a civic building rather than a factory. Around the corner on Ferdinand Bolstraat, the gabled face carries step gables — the stepped silhouette, each face of the step a right angle, rising in tiers — that reach back to the Golden Age of the 17th century. Gosschalk used them deliberately, giving a new industrial building the associative weight of Amsterdam's commercial past. The building is substantially bigger than anything on the residential streets behind it, its walls solid enough to protect the cellars from daylight; where the tenements to the south punch window after window through thin brick, the brewery facade is nearly opaque. This is what the difference between a client with money and ambition and a speculative developer on a tight margin looks like, before you have seen a single tenement.
 
-Behind the brewery, Stadhouderskade is the boundary between two Amsterdams. To the north are the grand 19th-century apartment buildings facing the ring canal; to the south, a grid of narrow streets that were countryside until 1870. Head south on Ferdinand Bolstraat.
+Head south on [Ferdinand Bolstraat](/europe/netherlands/amsterdam/ferdinand_bolstraat_tenements), the main spine of De Pijp. This street is where you learn the De Pijp vocabulary. The buildings lining its length were constructed between roughly 1870 and 1890 by developers working a method the Dutch called *revolutiebouw* — revolution-building. The *revolutie* was not political but technical: developers now built for the open market rather than on commission, which meant recovering their investment only on sale or rental. The incentive was to build fast and cheap, and the evidence is still visible in the facades. Plots are typically 5–6 metres wide. Four storeys of brick rise straight from the pavement. Applied ornament runs across the surface — *pilasters* (the flat, non-structural columns pressed against the wall face), *cornices* (the horizontal projecting bands between storeys), and decorative panels set into the brickwork between window levels. None of this was individually designed: it came from trade catalogues, cast in terracotta or moulded in artificial stone, and applied by builders who bought their ornament by the linear metre. Look at how the cornice lines align across adjacent buildings, then don't quite align on the next one: each plot was a separate contract, the catalogue details a common currency, but the execution was always slightly different.
 
-[Ferdinand Bolstraat](/europe/netherlands/amsterdam/ferdinand_bolstraat_tenements) is the spine of De Pijp, named for a pupil of Rembrandt. The naming convention was pragmatic rather than reverential — a neighbourhood being laid out at speed simply worked through a list of Dutch painters. The street itself is a sustained example of *revolutiebouw* (revolution-building), the Dutch term for the speculative construction of the 1870s and 1880s. The word *revolutie* refers not to politics but to the new working method: developers buying land, building fast, and selling or renting quickly without architects in the traditional sense. The result is visible here. The facades are typically two windows wide on a narrow plot — sometimes three — with four storeys of brick rising straight from the pavement. Applied ornament runs across the surface: pilasters (the flat columns applied to the wall face, not structural, purely decorative), cornices (the horizontal projecting bands between floors), and decorative panels set into the brickwork above and below windows. None of this was custom-designed. It came from trade catalogues, pressed in terracotta or cast in artificial stone, applied by builders who bought their ornament wholesale. The effect is a kind of democratic grandeur — a neighbourhood that looks like it is trying, on a tight budget, to signal respectability.
+On 21 September 1876, two houses under construction at numbers 35 and 37 of this street collapsed, pulling the half-built number 33 with them. Eight workers were pulled from the rubble; two died. A newspaper investigation found single-thickness walls, undersized beams, and foundations sunk into sand. The ornamental cornices survived the collapse better than the structure beneath them. The disaster prompted Amsterdam to establish its first Building and Housing Inspection Service.
 
-In September 1876, two houses under construction on this street collapsed, pulling a third down with them. The investigating committee found inadequate foundations, single-brick walls, and beams no thicker than boards. The ornament survived the collapse better than the structure beneath it.
+Continue south and turn east on to Albert Cuypstraat. The [Albert Cuypmarkt](/europe/netherlands/amsterdam/albert_cuypmarkt) has run the length of this street since 1905, and the stalls press close on either side. But look above the canvas awnings. The buildings running the full length of Albert Cuypstraat are the same *revolutiebouw* type as Ferdinand Bolstraat — the same four storeys, the same narrow plots, the same applied pilasters and cornices. What the market did was not change the buildings; it intensified what De Pijp already was. The ground floors here were always mixed residential and commercial, the streets always dense with foot traffic. The market made that logic permanent and visible to the whole city, while the building fabric above it stayed more or less as it was built in the 1880s. When you look up from a stroopwafel stall, the ornamental programme above the shopfronts is still intact: a De Pijp tenement frozen at first-floor height, its catalogue pilasters stacked up into the sky.
 
-Continue south to [Eerste Jan Steenstraat](/europe/netherlands/amsterdam/eerste_jan_steenstraat), one of the cross-streets running east to west through the interior. Pause here and look along the length of it. The street is a textbook of the De Pijp ornamental vocabulary: pilasters dividing the bays, cornices running at first-floor and third-floor height, decorative panels set between the windows. At street level almost every ground floor has been converted to commercial use, which has altered the buildings' proportions. The original ground floor was residential, with a slightly higher ceiling than the upper floors to give the appearance of a piano nobile. Most of that reading has been obscured by shopfronts, but the ornamental programme above the ground floor is largely intact. Jan Steen himself — the painter for whom this street is named — was known for chaotic domestic interiors crowded with people; the street named for him has the same quality of density barely held in order.
+From the eastern end of the market, follow the streets north-east into [Sarphatipark](/europe/netherlands/amsterdam/sarphatipark), laid out in 1885 and named for Samuel Sarphati, the physician and urban reformer who transformed 19th-century Amsterdam before De Pijp itself existed. Look at the buildings facing the park as you approach. They are the same basic type as the interior tenements — still speculative, still brick, still the *revolutiebouw* formula — but the facades are noticeably different in register. They are slightly wider, with more generous window proportions. The ornamental cornices are heavier and more considered. A park-facing or canal-side plot commanded higher rents and attracted developers who were willing to spend a fraction more on the front elevation. This is not high architecture; it is the upper end of a budget range. The difference between wanting to signal respectability and being willing to pay a little more to do it is visible in the depth of the cornices and the spacing of the pilasters. Now that you can read the formula, you can hear the variations.
 
-Turn east and walk through the market street. The [Albert Cuypmarkt](/europe/netherlands/amsterdam/albert_cuypmarkt) has run along Albert Cuypstraat since 1905, and the market transformed the ground-floor use of the entire street. But look above the stalls. The buildings along Albert Cuypstraat are the same late-19th-century speculative type as those on Ferdinand Bolstraat — the same four storeys, the same applied ornament, the same narrow plot ratios. What the market did was intensify what was already here: De Pijp's ground floors were always mixed-use, always commercial and residential jumbled together, always pressed close on a narrow street. The market made that visible to outsiders and made it permanent. Buy something if you haven't yet.
+The monument to Sarphati at the park's centre was unveiled in 1886. Sarphati died in 1866, before a single brick of De Pijp had been laid.
 
-From the eastern end of the market, walk north-east to [Sarphatipark](/europe/netherlands/amsterdam/sarphatipark). The park was laid out between 1881 and 1885 by municipal engineer J.G. van Niftrik and named for Samuel Sarphati, the physician and reformer who transformed 19th-century Amsterdam before De Pijp existed. Look at the buildings facing the park as you approach: they are perceptibly different from the interior tenements. The facades are slightly wider, the ornament more considered, the cornices more substantial. Canal-side or park-facing plots commanded higher rents and attracted developers who would spend a little more on the facade. These are not grand buildings — they are still speculative, still brick, still broadly the same type — but they represent the upper register of the *revolutiebouw* range. The contrast with the back streets you have just walked is real but subtle: the difference between wanting to impress and being willing to pay slightly more to do it.
+From Sarphatipark, walk east along Tweede Jan van der Heijdenstraat and north-east on Ceintuurbaan, the broad boulevard that marks the boundary between Oude Pijp and Nieuwe Pijp. At Ceintuurbaan 251–255, pause in front of the [Huis met de Kabouters](/europe/netherlands/amsterdam/huis_met_de_kabouters) — the House with the Gnomes. Built in 1884, also in the *revolutiebouw* years, and also in brick with applied ornament, but that is where the resemblance to every other building you have looked at today ends. Architect A.C. Boerma reached simultaneously into the Gothic Revival for lancet windows and carved gargoyles, into the Dutch Renaissance for *kruiskozijn* windows (divided into four panes by a horizontal and a vertical bar), and into the Swiss chalet for the elaborately carved wooden bay windows with their deeply overhanging eaves. On the bay windows and atop the gable peaks, small gnome figures appear to be throwing a ball between them — reportedly a visual pun on the client's surname, Van Ballegooijen, which translates roughly as "to throw a ball."
 
-The monument at the park's centre was unveiled in 1886, designed by J.R. Kruyff. Sarphati died in 1866, before a single brick of De Pijp had been laid. The neighbourhood that grew up around his park knew nothing of his legacy except the name.
+The building is a rijksmonument, but it teaches something more useful than its own eccentricity. The *revolutiebouw* tenements are trying to borrow authority from a broadly understood classical ornamental vocabulary — pilasters are column-shaped, cornices are storey-dividing, the whole thing is meant to suggest that discipline is being applied. The Huis met de Kabouters borrows from everywhere at once, which is a different kind of signalling: it is a client spending money on individualism rather than respectability, at the exact same historical moment, on the same street. Hold these two buildings in mind as you continue east.
 
-From Sarphatipark, head south-east, crossing Ceintuurbaan into the Nieuwe Pijp. The streets change almost immediately: the *revolutiebouw* grid gives way to broader streets and more substantial buildings, then, on Pieter Lodewijk Takstraat and Burgemeester Tellegenstraat, to something altogether different.
+From Ceintuurbaan, turn south on Tolstraat and walk to number 160. The [Theosophical Temple](/europe/netherlands/amsterdam/tolstraat_160) was built in 1925–1926 to designs by architects J.A. Brinkman and L.C. van der Vlugt, and it looks unlike anything else you have seen today. The building has no applied ornament at all. Its floor plan is a quarter-circle — two straight side facades converging at a point, with the curved front facing the street. The concrete structure is exposed. Each straight side facade is broken by a large window section subdivided into narrow vertical panes set diagonally in the wall plane, allowing light into the meeting hall that once held 750 people. The form explains itself entirely: all the visual interest comes from the geometry of a functional solution, not from decoration added to a box.
 
-[De Dageraad](/europe/netherlands/amsterdam/de_dageraad) (The Dawn) was built between 1919 and 1923 for a socialist housing association of the same name, to designs by Michel de Klerk (1884–1923) and Piet Kramer (1881–1962), the two leading architects of the Amsterdam School. Stand at the corner of Pieter Lodewijk Takstraat and look along both sides of the street. Everything you have been reading on this walk — the applied ornament, the identical plot widths, the cornices from a catalogue — is absent. Instead: brickwork in three colours, laid in patterns that shift from one section to the next. Windows set at irregular heights, sometimes grouped, sometimes isolated, obeying an internal rhythm rather than a structural grid. Rooflines that swell upward into curved forms, dip into recesses, break into towers. Corner balconies that project outward in curves rather than right angles.
+Brinkman and Van der Vlugt were practitioners of *Het Nieuwe Bouwen* — the New Building, the Dutch strand of the European modernist movement sometimes called New Objectivity or Functionalism. Where the Amsterdam School architects you will see in a moment believed that working-class buildings deserved artistic expression through ornament, colour, and sculptural brickwork, the *Nieuwe Bouwen* architects argued that honest expression of structure and function was the only genuine architecture. At Tolstraat 160, the argument is visible: the building tells you exactly what it is and nothing more. The hall is now a branch of the Amsterdam public library.
 
-This is not decoration applied to a box. It is the box shaped by the decoration. The Amsterdam School rejected the separation between structure and surface that *revolutiebouw* took for granted. De Klerk and Kramer believed that working-class housing should be as architecturally ambitious as any building in the city — that people who could not afford to choose their surroundings had an equal right to surroundings worth looking at. The irony is that they achieved this within the same constraints as the *revolutiebouw* developers: maximum four storeys, staircases open to the air, the greatest possible floor area to living rooms. The difference was entirely in intention.
+From Tolstraat, head west and south to [De Dageraad](/europe/netherlands/amsterdam/de_dageraad), the housing complex that occupies Pieter Lodewijk Takstraat and Burgemeester Tellegenstraat. Built between 1919 and 1923 for the socialist housing cooperative De Dageraad (The Dawn), it was designed by Michel de Klerk (1884–1923) and Piet Kramer (1881–1962), the two principal architects of the Amsterdam School. Stand at the corner of Pieter Lodewijk Takstraat and look along both sides of the street.
 
-De Klerk died in 1923, the year the complex was completed, at the age of 39. The Museum de Dageraad at Burgemeester Tellegenstraat 128 is open to the public and explains the building's history from the inside.
+The first thing to notice is what is absent. There are no catalogue pilasters, no standardised cornices, no two-window-wide plots repeating the same formula. Instead: brickwork laid in three colours, shifting in pattern from section to section. Windows at irregular heights, sometimes grouped, sometimes isolated, set by internal rhythm rather than structural bay. Rooflines that swell upward into curved forms, break into towers, dip into concave recesses. Corner balconies that project in curves. The chimney stacks — functional objects, purely utilitarian — are given the profiles of ship funnels riding an undulating wave. De Klerk and Kramer did not decorate the building; they shaped it.
 
-What you now have is a lens. *Revolutiebouw* — speculative brick, applied ornament, ornament from a catalogue — is one of the dominant building types of 19th-century Amsterdam, and it appears in neighbourhood after neighbourhood across the city. Once you can read the pilasters and cornices on De Pijp's tenements as budget signalling rather than considered design, you will see the same logic at work throughout the 19th-century belt. And when you encounter the Amsterdam School elsewhere — the Spaarndammerbuurt to the north, the Plan Zuid neighbourhood south of here — you will recognise De Dageraad's argument: that every building is also a claim about who deserves good architecture.
+This is the opposite argument from *revolutiebouw*. Where the tenement developers applied ornament as a budget supplement to a cheap structure, De Dageraad integrates decoration and structure so thoroughly that you cannot separate them. The brickwork is the architecture. The Amsterdam School rejected the split between building and ornament that *revolutiebouw* took for granted, on the grounds that working-class residents had as much right to surroundings designed with intention as anyone in the city.
 
-The walk is approximately 2.1 kilometres and takes about 75 minutes at a comfortable pace, longer if you stop at the market or visit Museum de Dageraad.
+The complex contains 294 dwellings. A memorial stone at the corner of Burgemeester Tellegenstraat commemorates both architects. De Klerk died in 1923, the year the complex was completed, aged 39. The Museum de Dageraad at Burgemeester Tellegenstraat 128 is open to the public.
+
+By the time you reach the end of Burgemeester Tellegenstraat, you have three positions in a conversation that ran through Dutch architecture from the 1870s to the 1920s. The *revolutiebouw* tenements are builders using applied ornament as a commercial signal, a budget argument for respectability. De Dageraad is architects insisting that ornament must be inseparable from the building that carries it, and that the people inside deserve both. Tolstraat 160 is a third voice, equally insistent, saying that the only honest architecture strips back to what the building actually is and does. These are not just three styles — they are three different answers to the question of what buildings are for. De Pijp happens to have all three within a twenty-minute walk of each other.
+
+The walk is approximately 3.0 kilometres and takes about 90 minutes at a comfortable pace, longer if you stop at the market or visit Museum de Dageraad.

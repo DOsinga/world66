@@ -5,6 +5,10 @@ latitude: 55.4895
 longitude: 9.47905
 title: Kolding
 type: location
+image: kolding.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kolding_-_Slots%C3%B81.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Hubertus
 ---
 
 Kolding sits at the head of Kolding Fjord in southeast Jutland, a mid-sized Danish city that most people drive past on the E45 motorway. That is a mistake. The city has one of Denmark's most striking buildings and a pleasant, walkable centre that rewards a half-day stop.

@@ -1,0 +1,200 @@
+{
+  "round": 2177,
+  "timestamp": "2026-04-13T16:17:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 7.9406,
+      "prior_variance": 0.413264,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Stoupa",
+      "path": "europe/greece/stoupa",
+      "prior_score": 4.4143,
+      "prior_variance": 0.259616,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 4.6971,
+      "prior_variance": 0.227288,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.5382,
+      "prior_variance": 0.26145,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 2.2258,
+      "prior_variance": 0.230866,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.0295,
+      "prior_variance": 0.271077,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 1.8988,
+      "prior_variance": 0.276923,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.5827,
+      "prior_variance": 0.276609,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 1.2867,
+      "prior_variance": 0.229324,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": 0.9681,
+      "prior_variance": 0.20511,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -2.5454,
+      "prior_variance": 0.352747,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": 0.5102,
+      "prior_variance": 0.25659,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_score": 0.4824,
+      "prior_variance": 0.276112,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/west_coast/hokitika",
+      "prior_score": 2.3288,
+      "prior_variance": 0.25584,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/newplymouth",
+      "prior_score": 1.5487,
+      "prior_variance": 0.326151,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -1.4947,
+      "prior_variance": 0.261547,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -1.9754,
+      "prior_variance": 0.274546,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequen",
+      "prior_score": -3.2434,
+      "prior_variance": 0.245878,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Lenkaran",
+      "path": "europe/azerbaijan/baku/lenkaran",
+      "prior_score": -4.4323,
+      "prior_variance": 0.21702,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -4.9127,
+      "prior_variance": 0.284541,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -5.439,
+      "prior_variance": 0.268173,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "waseca",
+      "path": "northamerica/unitedstates/minnesota/waseca",
+      "prior_score": -6.281,
+      "prior_variance": 0.306011,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.2732,
+      "prior_variance": 0.223409,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Syria",
+      "path": "asia/syria",
+      "prior_score": -11.1213,
+      "prior_variance": 0.649322,
+      "prior_n": 5
+    }
+  ]
+}

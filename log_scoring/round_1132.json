@@ -1,0 +1,200 @@
+{
+  "round": 1132,
+  "timestamp": "2026-04-12T22:11:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_rank": 179,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_rank": 3804,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_rank": 1125,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tioman Island",
+      "path": "asia/malaysia/tiomanisland",
+      "prior_rank": 2264,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_rank": 1497,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_rank": 1622,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
+      "prior_rank": 1003,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_rank": 1720,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_rank": 745,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_rank": 3047,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire",
+      "prior_rank": 1141,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durangocolorado",
+      "prior_rank": 1397,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_rank": 1786,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island/koh_talu",
+      "prior_rank": 276,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_rank": 2474,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_rank": 1696,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_rank": 2047,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_rank": 3144,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_rank": 4069,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_rank": 2095,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_rank": 4736,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/saranda/jal",
+      "prior_rank": 1894,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_rank": 3323,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_rank": 3598,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 943,
+  "timestamp": "2026-04-12T16:08:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Japan",
+      "path": "asia/japan",
+      "prior_rank": 8,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "France",
+      "path": "europe/france",
+      "prior_rank": 64,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_rank": 49,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_rank": 48,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_rank": 39,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_rank": 106,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Oahu",
+      "path": "northamerica/unitedstates/hawaii/oahu",
+      "prior_rank": 56,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_rank": 80,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_rank": 104,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_rank": 29,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_rank": 4,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_rank": 22,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Vatican City",
+      "path": "europe/vaticancity",
+      "prior_rank": 51,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_rank": 41,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_rank": 3643,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_rank": 13,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_rank": 8124,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Reedsville",
+      "path": "northamerica/unitedstates/westvirginia/reedsville",
+      "prior_rank": 8106,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_rank": 8122,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_rank": 8112,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "gh",
+      "path": "asia/pakistan/gujrat/gh",
+      "prior_rank": 8147,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cha bait wala Yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_bait_wala_yaro",
+      "prior_rank": 8101,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "MdFrJwObBzEDeO",
+      "path": "europe/russia/krasnoyarsk_region/mdfrjwobbzedeo",
+      "prior_rank": 8218,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "PesTeCPvzsxDFv",
+      "path": "asia/oman/musandampeninsula/pestecpvzsxdfv",
+      "prior_rank": 8104,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

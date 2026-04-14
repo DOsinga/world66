@@ -1,0 +1,200 @@
+{
+  "round": 1673,
+  "timestamp": "2026-04-13T10:40:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 10.247,
+      "prior_variance": 0.773734,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_score": 7.8636,
+      "prior_variance": 0.557987,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lo\u0161inj",
+      "path": "europe/croatia/losinjisland",
+      "prior_score": 6.3269,
+      "prior_variance": 0.326935,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 4.6631,
+      "prior_variance": 0.404316,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.5196,
+      "prior_variance": 0.34055,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Su\u00f0uroy",
+      "path": "europe/faroeislands/suuroy",
+      "prior_score": 1.1595,
+      "prior_variance": 0.497582,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 3.137,
+      "prior_variance": 0.342259,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_score": -1.0722,
+      "prior_variance": 0.327042,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 2.6884,
+      "prior_variance": 0.443564,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durangocolorado",
+      "prior_score": 3.6233,
+      "prior_variance": 0.496838,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": 0.9073,
+      "prior_variance": 0.297414,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/victoria/chemainus",
+      "prior_score": -0.8894,
+      "prior_variance": 0.302243,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/wanganui",
+      "prior_score": -0.286,
+      "prior_variance": 0.312495,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -2.8183,
+      "prior_variance": 0.404099,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -3.4856,
+      "prior_variance": 0.299378,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -3.7912,
+      "prior_variance": 0.330988,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.2232,
+      "prior_variance": 0.52224,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rakesh",
+      "path": "asia/india/uttaranchal/hemkunt/rakesh",
+      "prior_score": -6.3955,
+      "prior_variance": 0.880742,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -6.1107,
+      "prior_variance": 0.474503,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -3.1414,
+      "prior_variance": 0.624719,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_score": -5.8142,
+      "prior_variance": 0.317581,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "oras",
+      "path": "asia/india/maharashtra/oras",
+      "prior_score": -7.0577,
+      "prior_variance": 0.385203,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dry Gap",
+      "path": "northamerica/unitedstates/kentucky/dry_gap",
+      "prior_score": -7.9592,
+      "prior_variance": 0.406406,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -11.8155,
+      "prior_variance": 0.55818,
+      "prior_n": 4
+    }
+  ]
+}

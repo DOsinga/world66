@@ -1,0 +1,200 @@
+{
+  "round": 1917,
+  "timestamp": "2026-04-13T15:53:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_score": 4.9245,
+      "prior_variance": 0.279868,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 5.3384,
+      "prior_variance": 0.282366,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 3.0584,
+      "prior_variance": 0.253969,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Playa del Ingl\u00e9s",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.0269,
+      "prior_variance": 0.251219,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.1272,
+      "prior_variance": 0.313864,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -6.7142,
+      "prior_variance": 0.599125,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince/banlung",
+      "prior_score": -1.6962,
+      "prior_variance": 0.291241,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -2.132,
+      "prior_variance": 0.343816,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.431,
+      "prior_variance": 0.286421,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.585,
+      "prior_variance": 0.25911,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "vascauti",
+      "path": "europe/romania/bucharest/vascauti",
+      "prior_score": -8.1257,
+      "prior_variance": 0.440109,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -4.1942,
+      "prior_variance": 0.315885,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Elko",
+      "path": "northamerica/unitedstates/nevada/elko",
+      "prior_score": -4.7859,
+      "prior_variance": 0.282263,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "chhindwara",
+      "path": "asia/india/madhyapradesh/chhindwara",
+      "prior_score": -5.0501,
+      "prior_variance": 0.249676,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "sion",
+      "path": "asia/india/maharashtra/mumbai/sion",
+      "prior_score": -6.1555,
+      "prior_variance": 0.351013,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ural",
+      "path": "europe/russia/ural",
+      "prior_score": -6.9806,
+      "prior_variance": 0.369345,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -7.0582,
+      "prior_variance": 0.346068,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal",
+      "prior_score": -9.4956,
+      "prior_variance": 0.663543,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Yaziva",
+      "path": "northamerica/panama/dariengap/yaziva",
+      "prior_score": -9.1172,
+      "prior_variance": 0.355473,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -7.9545,
+      "prior_variance": 0.580354,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Awdal",
+      "path": "africa/somaliland/awdal",
+      "prior_score": -9.0017,
+      "prior_variance": 0.267782,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -10.3779,
+      "prior_variance": 0.641181,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -10.3065,
+      "prior_variance": 0.706581,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Libya",
+      "path": "africa/libya",
+      "prior_score": -10.6079,
+      "prior_variance": 0.467926,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 973,
+  "timestamp": "2026-04-12T16:10:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_rank": 44,
+      "prior_wins": 90,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_rank": 185,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_rank": 491,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_rank": 833,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_rank": 2096,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_rank": 2510,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_rank": 4250,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_rank": 1984,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_rank": 1695,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Datong",
+      "path": "asia/china/datong",
+      "prior_rank": 3788,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_rank": 2402,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_rank": 2715,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Banana islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_rank": 6173,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_rank": 6626,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_rank": 3188,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_rank": 5865,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/suffolk/lowestoft",
+      "prior_rank": 5442,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/mersea_island_esse",
+      "prior_rank": 5696,
+      "prior_wins": 36,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_rank": 3568,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_rank": 6603,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_rank": 4986,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_rank": 5295,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_rank": 8197,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_rank": 8106,
+      "prior_wins": 5,
+      "prior_n": 5
+    }
+  ]
+}

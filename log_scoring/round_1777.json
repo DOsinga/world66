@@ -1,0 +1,200 @@
+{
+  "round": 1777,
+  "timestamp": "2026-04-13T10:50:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 7.6747,
+      "prior_variance": 0.489105,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Laterbrunnen",
+      "path": "europe/switzerland/laterbrunnen",
+      "prior_score": 6.4573,
+      "prior_variance": 0.574157,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/yucatan/islamujeres",
+      "prior_score": 8.6388,
+      "prior_variance": 0.385761,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_score": 3.5886,
+      "prior_variance": 0.265795,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 4.9871,
+      "prior_variance": 0.445231,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/avebury",
+      "prior_score": 5.5412,
+      "prior_variance": 0.324842,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 2.5865,
+      "prior_variance": 0.296668,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Redang",
+      "path": "asia/malaysia/redang",
+      "prior_score": 4.0326,
+      "prior_variance": 0.305853,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.1176,
+      "prior_variance": 0.350636,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 0.2376,
+      "prior_variance": 0.43162,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.1571,
+      "prior_variance": 0.34185,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.4784,
+      "prior_variance": 0.32423,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "O Saln\u00e9s (Salnes Valley)",
+      "path": "europe/spain/northernspain/o_salns_salnes",
+      "prior_score": 1.7295,
+      "prior_variance": 0.324412,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -0.7332,
+      "prior_variance": 0.425845,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Jacmel",
+      "path": "northamerica/haiti/jacmel",
+      "prior_score": -3.0168,
+      "prior_variance": 0.35495,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 1.4758,
+      "prior_variance": 0.338505,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "The Panhandle",
+      "path": "northamerica/unitedstates/florida/thepanhandle",
+      "prior_score": -0.2839,
+      "prior_variance": 0.469154,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.721,
+      "prior_variance": 0.416051,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.7594,
+      "prior_variance": 0.310112,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -2.2832,
+      "prior_variance": 0.301224,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -3.6705,
+      "prior_variance": 0.33609,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -2.7132,
+      "prior_variance": 0.318884,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -6.7024,
+      "prior_variance": 0.615269,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Casselberry",
+      "path": "northamerica/unitedstates/florida/casselberry",
+      "prior_score": -6.1313,
+      "prior_variance": 0.35938,
+      "prior_n": 4
+    }
+  ]
+}

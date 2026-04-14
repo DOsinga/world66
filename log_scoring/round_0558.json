@@ -1,0 +1,200 @@
+{
+  "round": 558,
+  "timestamp": "2026-04-12T10:37:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_mu": 22.8917,
+      "prior_sigma": 5.9453,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ring of Kerry",
+      "path": "europe/ireland/ringofkerry",
+      "prior_mu": 29.1092,
+      "prior_sigma": 6.9935,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_mu": 23.943,
+      "prior_sigma": 4.4235,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Aran islands",
+      "path": "europe/ireland/aranislands",
+      "prior_mu": 22.9499,
+      "prior_sigma": 5.7275,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_mu": 22.3351,
+      "prior_sigma": 4.838,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Clare",
+      "path": "europe/ireland/clare",
+      "prior_mu": 23.055,
+      "prior_sigma": 4.7172,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_mu": 22.2418,
+      "prior_sigma": 5.749,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_mu": 22.613,
+      "prior_sigma": 5.7075,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_mu": 21.7727,
+      "prior_sigma": 4.7173,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Rosses Point",
+      "path": "europe/ireland/sligo/rossespoint",
+      "prior_mu": 21.5357,
+      "prior_sigma": 3.7623,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Skerries",
+      "path": "europe/ireland/dublin/skerries",
+      "prior_mu": 21.8671,
+      "prior_sigma": 4.3935,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_mu": 21.788,
+      "prior_sigma": 4.555,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Newbridge",
+      "path": "europe/ireland/newbridge",
+      "prior_mu": 21.5878,
+      "prior_sigma": 5.427,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Carrigaline",
+      "path": "europe/ireland/cork/carrigaline",
+      "prior_mu": 22.3967,
+      "prior_sigma": 5.4907,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mahon",
+      "path": "europe/ireland/cork/mahon",
+      "prior_mu": 22.4607,
+      "prior_sigma": 5.5363,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Portlaoise",
+      "path": "europe/ireland/carlow/portlaoise",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Arva",
+      "path": "europe/ireland/arva",
+      "prior_mu": 22.2539,
+      "prior_sigma": 5.6486,
+      "prior_n": 1
+    }
+  ]
+}

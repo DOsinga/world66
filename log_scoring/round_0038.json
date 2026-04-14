@@ -1,0 +1,200 @@
+{
+  "round": 38,
+  "timestamp": "2026-04-11T19:25:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_mu": 26.21,
+      "prior_sigma": 5.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Laos",
+      "path": "asia/laos",
+      "prior_mu": 24.39,
+      "prior_sigma": 5.9,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mongolia",
+      "path": "asia/mongolia",
+      "prior_mu": 23.39,
+      "prior_sigma": 6.03,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_mu": 24.46,
+      "prior_sigma": 6.11,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_mu": 23.94,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_mu": 22.56,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_mu": 23.09,
+      "prior_sigma": 4.82,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_mu": 24.49,
+      "prior_sigma": 6.11,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_mu": 22.4,
+      "prior_sigma": 4.47,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_mu": 21.09,
+      "prior_sigma": 3.48,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_mu": 21.69,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 21.65,
+      "prior_sigma": 4.79,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_mu": 22.64,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 17.7,
+      "prior_sigma": 6.42,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_mu": 21.5,
+      "prior_sigma": 3.92,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_mu": 22.44,
+      "prior_sigma": 5.42,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_mu": 20.13,
+      "prior_sigma": 4.82,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "valley falls",
+      "path": "northamerica/unitedstates/kansas/valley_falls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_mu": 14.97,
+      "prior_sigma": 5.77,
+      "prior_n": 2
+    }
+  ]
+}

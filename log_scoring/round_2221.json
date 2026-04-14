@@ -1,0 +1,200 @@
+{
+  "round": 2221,
+  "timestamp": "2026-04-13T16:21:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pyrenees",
+      "path": "europe/france/midi/pyrenees",
+      "prior_score": 6.3546,
+      "prior_variance": 0.236382,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 6.1973,
+      "prior_variance": 0.337577,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 6.1076,
+      "prior_variance": 0.285825,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 4.475,
+      "prior_variance": 0.215851,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 5.5777,
+      "prior_variance": 0.324495,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 5.8765,
+      "prior_variance": 0.247481,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Santo Ant\u00e3o",
+      "path": "africa/capeverde/santo_antao",
+      "prior_score": 2.6076,
+      "prior_variance": 0.270264,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 3.2747,
+      "prior_variance": 0.245205,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 2.6464,
+      "prior_variance": 0.232565,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.6654,
+      "prior_variance": 0.235752,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 2.4641,
+      "prior_variance": 0.230417,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 2.3473,
+      "prior_variance": 0.222509,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 2.6856,
+      "prior_variance": 0.273362,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 3.1913,
+      "prior_variance": 0.25451,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 1.4992,
+      "prior_variance": 0.267298,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 3.3914,
+      "prior_variance": 0.220396,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 1.4885,
+      "prior_variance": 0.202315,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 2.1327,
+      "prior_variance": 0.252886,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "La Trinite",
+      "path": "northamerica/martinique/latrinite",
+      "prior_score": 0.7361,
+      "prior_variance": 0.271467,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -2.6531,
+      "prior_variance": 0.198991,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Vengurle",
+      "path": "asia/india/maharashtra/konkan/vengurle",
+      "prior_score": -3.3728,
+      "prior_variance": 0.250481,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
+      "prior_score": -4.8471,
+      "prior_variance": 0.26925,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_score": -4.8755,
+      "prior_variance": 0.318278,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mubi",
+      "path": "africa/nigeria/yola/mubi",
+      "prior_score": -9.5501,
+      "prior_variance": 0.354176,
+      "prior_n": 5
+    }
+  ]
+}

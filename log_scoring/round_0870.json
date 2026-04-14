@@ -1,0 +1,200 @@
+{
+  "round": 870,
+  "timestamp": "2026-04-12T14:46:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_score": 5.6239,
+      "prior_variance": 15.658511,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 6.0679,
+      "prior_variance": 2.141376,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 3.6252,
+      "prior_variance": 1.496985,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.8256,
+      "prior_variance": 1.220199,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 0.752,
+      "prior_variance": 2.988715,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 5.0557,
+      "prior_variance": 1.32133,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": -0.8971,
+      "prior_variance": 3.080504,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mangawhai heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 2.8839,
+      "prior_variance": 1.612848,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Saint John",
+      "path": "northamerica/canada/newbrunswick/saintjohn",
+      "prior_score": -0.3018,
+      "prior_variance": 1.469278,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -0.6766,
+      "prior_variance": 1.603886,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": 0.5628,
+      "prior_variance": 1.442437,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -2.4719,
+      "prior_variance": 1.237943,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.7746,
+      "prior_variance": 1.568773,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -5.2099,
+      "prior_variance": 2.840983,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -1.6272,
+      "prior_variance": 1.49231,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/vancouver/delta",
+      "prior_score": -4.1655,
+      "prior_variance": 1.172134,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Moose Jaw",
+      "path": "northamerica/canada/saskatchewan/moose_jaw",
+      "prior_score": -5.2153,
+      "prior_variance": 0.5934,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -3.6941,
+      "prior_variance": 1.182776,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -6.9125,
+      "prior_variance": 3.496811,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Chuvashia",
+      "path": "europe/russia/chuvashia",
+      "prior_score": -7.0673,
+      "prior_variance": 3.535831,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -9.6303,
+      "prior_variance": 2.103213,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -3.9306,
+      "prior_variance": 1.170763,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_score": -2.501,
+      "prior_variance": 1.331334,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -11.2812,
+      "prior_variance": 8.897807,
+      "prior_n": 1
+    }
+  ]
+}

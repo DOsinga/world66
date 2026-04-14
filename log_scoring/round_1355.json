@@ -1,0 +1,200 @@
+{
+  "round": 1355,
+  "timestamp": "2026-04-12T22:23:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_rank": 7188,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_2",
+      "prior_rank": 7146,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Minnesota",
+      "path": "northamerica/unitedstates/minnesota",
+      "prior_rank": 5579,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_rank": 5568,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_rank": 7022,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_rank": 5643,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_rank": 3960,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_rank": 7425,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "mambucal",
+      "path": "asia/philippines/mambucal",
+      "prior_rank": 7166,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_rank": 6695,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_rank": 7586,
+      "prior_wins": 25,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Weybridge",
+      "path": "europe/unitedkingdom/england/weybridge",
+      "prior_rank": 7824,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_rank": 7362,
+      "prior_wins": 22,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_rank": 7021,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_rank": 7339,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_rank": 5889,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_rank": 7291,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_rank": 5592,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_rank": 7817,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_rank": 4158,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Laatzen",
+      "path": "europe/germany/lowersaxony/laatzen",
+      "prior_rank": 7971,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_rank": 7323,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/yucatan/chiautempan",
+      "prior_rank": 6207,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_rank": 7884,
+      "prior_wins": 7,
+      "prior_n": 3
+    }
+  ]
+}

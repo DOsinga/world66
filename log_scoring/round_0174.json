@@ -1,0 +1,200 @@
+{
+  "round": 174,
+  "timestamp": "2026-04-12T08:46:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/west_coast/hokitika",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Penticton",
+      "path": "northamerica/canada/britishcolumbia/penticton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Hundecove",
+      "path": "europe/albania/saranda/hundecove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

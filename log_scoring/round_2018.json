@@ -1,0 +1,200 @@
+{
+  "round": 2018,
+  "timestamp": "2026-04-13T16:03:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 6.9519,
+      "prior_variance": 0.406286,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 4.0386,
+      "prior_variance": 0.281596,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kozanh",
+      "path": "europe/greece/kozanh",
+      "prior_score": -3.1104,
+      "prior_variance": 0.295957,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -2.135,
+      "prior_variance": 0.214471,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -2.4138,
+      "prior_variance": 0.295504,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -3.4369,
+      "prior_variance": 0.254385,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -4.1463,
+      "prior_variance": 0.167352,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -4.2674,
+      "prior_variance": 0.333698,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_score": -3.1081,
+      "prior_variance": 0.189018,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -2.5932,
+      "prior_variance": 0.294426,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -6.1712,
+      "prior_variance": 0.322165,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -5.5898,
+      "prior_variance": 0.301044,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Abbotsford",
+      "path": "northamerica/unitedstates/wisconsin/abbotsford",
+      "prior_score": -7.1033,
+      "prior_variance": 0.415209,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -5.7733,
+      "prior_variance": 0.346631,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -2.742,
+      "prior_variance": 0.250175,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -6.4049,
+      "prior_variance": 0.304074,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Tipping",
+      "path": "northamerica/costarica/travelinformation/tipping",
+      "prior_score": -6.304,
+      "prior_variance": 0.311345,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -6.1738,
+      "prior_variance": 0.291,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Laatzen",
+      "path": "europe/germany/lowersaxony/laatzen",
+      "prior_score": -5.8892,
+      "prior_variance": 0.281096,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -7.7007,
+      "prior_variance": 0.320226,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Guinea",
+      "path": "africa/guineeconakry",
+      "prior_score": -8.5095,
+      "prior_variance": 0.46018,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -7.0397,
+      "prior_variance": 0.317834,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -7.0868,
+      "prior_variance": 0.393648,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -3.9614,
+      "prior_variance": 0.30768,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1470,
+  "timestamp": "2026-04-12T22:29:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_rank": 2858,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_rank": 2487,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_rank": 6280,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_rank": 5453,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_rank": 5589,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_rank": 1649,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_rank": 4579,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_rank": 5130,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_rank": 921,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverp/kendal",
+      "prior_rank": 6615,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_rank": 4301,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_rank": 3962,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_ca",
+      "prior_rank": 1417,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_rank": 6558,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_rank": 4272,
+      "prior_wins": 44,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_rank": 5426,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_rank": 7079,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/preston",
+      "prior_rank": 3635,
+      "prior_wins": 49,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_rank": 5524,
+      "prior_wins": 45,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Iligan City",
+      "path": "asia/philippines/mindanaoisland/iligan_city",
+      "prior_rank": 5334,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_rank": 4420,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_rank": 5711,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_rank": 4453,
+      "prior_wins": 45,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon",
+      "prior_rank": 3757,
+      "prior_wins": 48,
+      "prior_n": 4
+    }
+  ]
+}

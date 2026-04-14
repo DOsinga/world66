@@ -1,0 +1,200 @@
+{
+  "round": 429,
+  "timestamp": "2026-04-12T09:30:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_mu": 25.1032,
+      "prior_sigma": 5.9716,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_mu": 22.9065,
+      "prior_sigma": 5.5702,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_mu": 24.3616,
+      "prior_sigma": 6.0814,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_mu": 23.1453,
+      "prior_sigma": 5.529,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Madryn",
+      "path": "southamerica/argentina/puerto_madryn_1",
+      "prior_mu": 22.7105,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Patagonia",
+      "path": "southamerica/argentina/patagonia",
+      "prior_mu": 28.6808,
+      "prior_sigma": 5.5509,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_mu": 22.1798,
+      "prior_sigma": 5.7647,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_mu": 22.5583,
+      "prior_sigma": 5.6672,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_mu": 22.7174,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_mu": 23.0368,
+      "prior_sigma": 5.3891,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_mu": 22.9891,
+      "prior_sigma": 5.6108,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_mu": 22.1655,
+      "prior_sigma": 5.7628,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "La Mira",
+      "path": "southamerica/argentina/lamira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

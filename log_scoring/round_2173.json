@@ -1,0 +1,200 @@
+{
+  "round": 2173,
+  "timestamp": "2026-04-13T16:17:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Island",
+      "path": "australiaandpacific/newzealand/north_island",
+      "prior_score": 8.3765,
+      "prior_variance": 0.323568,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 3.9043,
+      "prior_variance": 0.282339,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.75,
+      "prior_variance": 0.247273,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 2.0398,
+      "prior_variance": 0.279905,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_score": 1.6946,
+      "prior_variance": 0.274436,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/halfmoonbay",
+      "prior_score": 0.9978,
+      "prior_variance": 0.489227,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": -0.1138,
+      "prior_variance": 0.16688,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 2.7299,
+      "prior_variance": 0.227653,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.3083,
+      "prior_variance": 0.256051,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
+      "prior_score": 0.8182,
+      "prior_variance": 0.234756,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Space Coast Area",
+      "path": "northamerica/unitedstates/florida/spacecoastarea",
+      "prior_score": 0.2709,
+      "prior_variance": 0.328785,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": 0.3518,
+      "prior_variance": 0.228108,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -4.0034,
+      "prior_variance": 0.252453,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -1.3334,
+      "prior_variance": 0.271152,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.3943,
+      "prior_variance": 0.27151,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -3.0393,
+      "prior_variance": 0.279526,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -3.9548,
+      "prior_variance": 0.267241,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/vallejo",
+      "prior_score": -4.3346,
+      "prior_variance": 0.349318,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Woodbridge",
+      "path": "northamerica/unitedstates/virginia/woodbridge",
+      "prior_score": -4.929,
+      "prior_variance": 0.277354,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -5.4719,
+      "prior_variance": 0.258366,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Paniqui",
+      "path": "asia/philippines/paniqui",
+      "prior_score": -5.7506,
+      "prior_variance": 0.267642,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Goba",
+      "path": "africa/ethiopia/goba",
+      "prior_score": -5.2814,
+      "prior_variance": 0.268232,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -5.6963,
+      "prior_variance": 0.283369,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -7.0147,
+      "prior_variance": 0.619828,
+      "prior_n": 5
+    }
+  ]
+}

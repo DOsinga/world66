@@ -1,0 +1,200 @@
+{
+  "round": 2340,
+  "timestamp": "2026-04-13T16:32:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Masai Mara N.R.",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr",
+      "prior_score": 11.0332,
+      "prior_variance": 0.877602,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Rarotonga",
+      "path": "australiaandpacific/cookislands/rarotonga",
+      "prior_score": 10.5341,
+      "prior_variance": 0.414024,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 3.5685,
+      "prior_variance": 0.229671,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Saint-Martin",
+      "path": "northamerica/saintmartin",
+      "prior_score": 3.8553,
+      "prior_variance": 0.273467,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 3.5651,
+      "prior_variance": 0.240434,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 5.5275,
+      "prior_variance": 0.238561,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.9224,
+      "prior_variance": 0.243993,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": 3.3172,
+      "prior_variance": 0.218222,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_score": 3.4295,
+      "prior_variance": 0.204844,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tunisia",
+      "path": "africa/tunisia",
+      "prior_score": -1.5725,
+      "prior_variance": 0.480268,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.4688,
+      "prior_variance": 0.236958,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 5.0788,
+      "prior_variance": 0.236985,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_score": 2.841,
+      "prior_variance": 0.206317,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 4.4345,
+      "prior_variance": 0.243433,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 0.7454,
+      "prior_variance": 0.235615,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Fontainebleau",
+      "path": "europe/france/paris/fontainebleau",
+      "prior_score": 5.1468,
+      "prior_variance": 0.234158,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": 2.1783,
+      "prior_variance": 0.233302,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -1.6008,
+      "prior_variance": 0.254286,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -2.9548,
+      "prior_variance": 0.236647,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": 0.4564,
+      "prior_variance": 0.204271,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.1768,
+      "prior_variance": 0.256361,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": -0.193,
+      "prior_variance": 0.190354,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 1.3078,
+      "prior_variance": 0.211675,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.4489,
+      "prior_variance": 0.210543,
+      "prior_n": 6
+    }
+  ]
+}

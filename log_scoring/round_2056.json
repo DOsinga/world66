@@ -1,0 +1,200 @@
+{
+  "round": 2056,
+  "timestamp": "2026-04-13T16:06:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Crist\u00f3bal Island",
+      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
+      "prior_score": 10.1747,
+      "prior_variance": 0.926526,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 6.2762,
+      "prior_variance": 0.312501,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 4.9082,
+      "prior_variance": 0.252486,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_score": 6.8049,
+      "prior_variance": 0.302284,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 3.8375,
+      "prior_variance": 0.27751,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_score": 3.2373,
+      "prior_variance": 0.266938,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 3.8984,
+      "prior_variance": 0.254864,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "West caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 1.6826,
+      "prior_variance": 0.343659,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 4.7676,
+      "prior_variance": 0.369865,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 3.5161,
+      "prior_variance": 0.307499,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 1.3612,
+      "prior_variance": 0.29524,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_score": 1.3448,
+      "prior_variance": 0.269877,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 0.2051,
+      "prior_variance": 0.257679,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 1.5333,
+      "prior_variance": 0.351016,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 0.8251,
+      "prior_variance": 0.294913,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol/legazpi_city",
+      "prior_score": 1.2345,
+      "prior_variance": 0.256834,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 0.3574,
+      "prior_variance": 0.233055,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 4.3972,
+      "prior_variance": 0.288575,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -2.0075,
+      "prior_variance": 0.340492,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_score": -2.213,
+      "prior_variance": 0.306631,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": 0.1561,
+      "prior_variance": 0.27835,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 3.8458,
+      "prior_variance": 0.283365,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Santa rita",
+      "path": "australiaandpacific/guam/santarita",
+      "prior_score": -3.1189,
+      "prior_variance": 0.285904,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tizi-ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.355,
+      "prior_variance": 0.296675,
+      "prior_n": 5
+    }
+  ]
+}

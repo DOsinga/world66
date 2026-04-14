@@ -1,0 +1,200 @@
+{
+  "round": 55,
+  "timestamp": "2026-04-11T19:26:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 31.57,
+      "prior_sigma": 6.22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 29.27,
+      "prior_sigma": 5.17,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_mu": 30.14,
+      "prior_sigma": 5.71,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Southern Alps",
+      "path": "europe/france/midi/southern_alps",
+      "prior_mu": 22.47,
+      "prior_sigma": 4.49,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_mu": 22.42,
+      "prior_sigma": 4.45,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_mu": 21.96,
+      "prior_sigma": 3.9,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_mu": 22.8,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_mu": 22.15,
+      "prior_sigma": 4.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 21.1,
+      "prior_sigma": 3.29,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Paraguay",
+      "path": "southamerica/paraguay",
+      "prior_mu": 21.41,
+      "prior_sigma": 5.44,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_mu": 21.5,
+      "prior_sigma": 4.67,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_mu": 22.05,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to",
+      "prior_mu": 21.43,
+      "prior_sigma": 3.97,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mizoram",
+      "path": "asia/india/mizoram",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.57,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_mu": 22.29,
+      "prior_sigma": 5.54,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_mu": 21.39,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_mu": 20.53,
+      "prior_sigma": 4.62,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_mu": 23.13,
+      "prior_sigma": 5.59,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_mu": 21.45,
+      "prior_sigma": 4.38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ruskin",
+      "path": "northamerica/unitedstates/florida/ruskin",
+      "prior_mu": 19.52,
+      "prior_sigma": 4.99,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_mu": 21.66,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_mu": 11.48,
+      "prior_sigma": 4.77,
+      "prior_n": 4
+    }
+  ]
+}

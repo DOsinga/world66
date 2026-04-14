@@ -1,0 +1,200 @@
+{
+  "round": 1087,
+  "timestamp": "2026-04-12T22:08:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_rank": 1771,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sabah",
+      "path": "asia/malaysia/sabah",
+      "prior_rank": 1654,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_rank": 768,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_rank": 2756,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_p",
+      "prior_rank": 1303,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_rank": 630,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_rank": 1502,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/devon",
+      "prior_rank": 1495,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Newfoundland",
+      "path": "northamerica/canada/newfoundland",
+      "prior_rank": 4469,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_rank": 1527,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_rank": 2481,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Comillas",
+      "path": "europe/spain/northernspain/comillas",
+      "prior_rank": 1670,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_rank": 954,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_rank": 612,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Slovakia",
+      "path": "europe/slovakia",
+      "prior_rank": 900,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_rank": 1318,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_rank": 3786,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/bangalore/mysore",
+      "prior_rank": 1896,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Block Island",
+      "path": "northamerica/unitedstates/rhodeisland/block_island",
+      "prior_rank": 1145,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_rank": 1889,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_rank": 2084,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_rank": 2100,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_rank": 332,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_rank": 992,
+      "prior_wins": 38,
+      "prior_n": 2
+    }
+  ]
+}

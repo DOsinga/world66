@@ -1,0 +1,200 @@
+{
+  "round": 922,
+  "timestamp": "2026-04-12T14:50:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_score": 7.3928,
+      "prior_variance": 1.545636,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 4.9757,
+      "prior_variance": 1.287719,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 7.4346,
+      "prior_variance": 1.105623,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 5.6254,
+      "prior_variance": 1.400362,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.8614,
+      "prior_variance": 2.902927,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 7.3266,
+      "prior_variance": 1.997127,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 7.8107,
+      "prior_variance": 3.596406,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 4.4322,
+      "prior_variance": 1.72516,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.1936,
+      "prior_variance": 0.673511,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": -0.1523,
+      "prior_variance": 1.246974,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Dzanga-Sangha",
+      "path": "africa/centralafricanrepublic/dzanga_sangha",
+      "prior_score": 0.5151,
+      "prior_variance": 1.260519,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -1.2794,
+      "prior_variance": 1.365069,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 4.2802,
+      "prior_variance": 1.617287,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": 0.9816,
+      "prior_variance": 1.372973,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -4.4596,
+      "prior_variance": 1.462174,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -2.1762,
+      "prior_variance": 1.399555,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Tres Rios",
+      "path": "northamerica/costarica/tresrios",
+      "prior_score": -3.3738,
+      "prior_variance": 1.215302,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
+      "prior_score": -3.916,
+      "prior_variance": 0.859236,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/newhampshire/manchester",
+      "prior_score": -4.7053,
+      "prior_variance": 1.182748,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Resita",
+      "path": "europe/romania/resita",
+      "prior_score": -5.679,
+      "prior_variance": 1.347641,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -4.8531,
+      "prior_variance": 1.214738,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mano",
+      "path": "europe/switzerland/mano",
+      "prior_score": -2.7327,
+      "prior_variance": 1.171575,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -6.1324,
+      "prior_variance": 1.635202,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.7259,
+      "prior_variance": 1.426204,
+      "prior_n": 1
+    }
+  ]
+}

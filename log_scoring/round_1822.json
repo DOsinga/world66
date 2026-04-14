@@ -1,0 +1,200 @@
+{
+  "round": 1822,
+  "timestamp": "2026-04-13T10:54:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 11.0,
+      "prior_variance": 0.490431,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 6.1329,
+      "prior_variance": 0.315333,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "San Marino",
+      "path": "europe/sanmarino",
+      "prior_score": 5.2975,
+      "prior_variance": 0.318564,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 5.0167,
+      "prior_variance": 0.361793,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 1.1419,
+      "prior_variance": 0.346385,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.8818,
+      "prior_variance": 0.311995,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.3828,
+      "prior_variance": 0.320006,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/murnau_am_staffels",
+      "prior_score": 0.9659,
+      "prior_variance": 0.307129,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.7542,
+      "prior_variance": 0.297249,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 5.2459,
+      "prior_variance": 0.272404,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 3.8806,
+      "prior_variance": 0.268444,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 1.7842,
+      "prior_variance": 0.383192,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 1.7586,
+      "prior_variance": 0.292809,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_score": -0.3578,
+      "prior_variance": 0.32501,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": -1.0213,
+      "prior_variance": 0.282299,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.1912,
+      "prior_variance": 0.356943,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -0.269,
+      "prior_variance": 0.298938,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -1.623,
+      "prior_variance": 0.310637,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -2.3419,
+      "prior_variance": 0.290613,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -3.4591,
+      "prior_variance": 0.317283,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cortland",
+      "path": "northamerica/unitedstates/newyorkstate/cortland",
+      "prior_score": -5.2349,
+      "prior_variance": 0.290171,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_score": -6.4109,
+      "prior_variance": 0.337596,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "El Salvador",
+      "path": "northamerica/elsalvador",
+      "prior_score": -1.2937,
+      "prior_variance": 0.310763,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -5.5328,
+      "prior_variance": 0.307238,
+      "prior_n": 4
+    }
+  ]
+}

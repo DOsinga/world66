@@ -1,0 +1,200 @@
+{
+  "round": 310,
+  "timestamp": "2026-04-12T09:11:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cayman Islands",
+      "path": "northamerica/caymanislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_mu": 23.9787,
+      "prior_sigma": 5.8047,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cambodia",
+      "path": "asia/cambodia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_mu": 22.6856,
+      "prior_sigma": 5.9328,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_mu": 22.5929,
+      "prior_sigma": 5.9319,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/newplymouth",
+      "prior_mu": 22.6207,
+      "prior_sigma": 5.9249,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_mu": 22.7897,
+      "prior_sigma": 5.7291,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

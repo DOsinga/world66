@@ -1,0 +1,200 @@
+{
+  "round": 1642,
+  "timestamp": "2026-04-13T10:38:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuba",
+      "path": "northamerica/thecaribbean/cuba",
+      "prior_score": 7.5125,
+      "prior_variance": 0.499151,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": -1.2957,
+      "prior_variance": 0.507797,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/taranaki",
+      "prior_score": 3.015,
+      "prior_variance": 0.486486,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/norfolk/the_norfolk_broads",
+      "prior_score": 2.8401,
+      "prior_variance": 0.300792,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": -0.131,
+      "prior_variance": 0.492743,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.5927,
+      "prior_variance": 0.470609,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Oderzo",
+      "path": "europe/italy/veneto/oderzo",
+      "prior_score": -1.31,
+      "prior_variance": 0.355708,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.9253,
+      "prior_variance": 0.413518,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -2.4845,
+      "prior_variance": 0.3379,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.7304,
+      "prior_variance": 0.620017,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -2.0453,
+      "prior_variance": 0.369994,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.4015,
+      "prior_variance": 0.309335,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -3.9726,
+      "prior_variance": 0.385449,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_score": -2.1663,
+      "prior_variance": 0.360335,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -2.6553,
+      "prior_variance": 0.300909,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -1.9385,
+      "prior_variance": 0.33753,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -2.5866,
+      "prior_variance": 0.337049,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Benin",
+      "path": "africa/benin",
+      "prior_score": -4.3209,
+      "prior_variance": 0.448392,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.3709,
+      "prior_variance": 0.325436,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/eastern_england/peterborough",
+      "prior_score": -4.6955,
+      "prior_variance": 0.44525,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -3.0583,
+      "prior_variance": 0.312736,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -1.7383,
+      "prior_variance": 0.379064,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -6.4611,
+      "prior_variance": 0.324923,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -3.8986,
+      "prior_variance": 0.670828,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1144,
+  "timestamp": "2026-04-12T22:11:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_rank": 4736,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Soppong",
+      "path": "asia/thailand/maehongson/soppong",
+      "prior_rank": 4508,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_rank": 3142,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_rank": 3408,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_rank": 2861,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Orheiul Vechi",
+      "path": "europe/moldova/orheiul_vechi_2",
+      "prior_rank": 3186,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_rank": 5623,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_rank": 4981,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/ventimiglia",
+      "prior_rank": 3580,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_rank": 5928,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Teresopolis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_rank": 3614,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Remedios",
+      "path": "northamerica/cuba/remedios",
+      "prior_rank": 4500,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_rank": 4530,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_rank": 2123,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_rank": 3440,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Wildlife",
+      "path": "asia/india/gujarat/wildlife",
+      "prior_rank": 3633,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_rank": 4531,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_rank": 3626,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wisconsin Dells",
+      "path": "northamerica/unitedstates/wisconsin/wisconsindells",
+      "prior_rank": 2510,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_rank": 5198,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_rank": 2871,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_rank": 3612,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_rank": 2647,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Hedensted",
+      "path": "europe/denmark/hedensted",
+      "prior_rank": 4330,
+      "prior_wins": 22,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2145,
+  "timestamp": "2026-04-13T16:14:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 7.1361,
+      "prior_variance": 0.326145,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Rico",
+      "path": "northamerica/thecaribbean/puertorico",
+      "prior_score": 6.1593,
+      "prior_variance": 0.272857,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Grenada",
+      "path": "northamerica/grenada",
+      "prior_score": 5.6795,
+      "prior_variance": 0.239315,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 2.533,
+      "prior_variance": 0.230561,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 7.3481,
+      "prior_variance": 0.484576,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 6.4885,
+      "prior_variance": 0.283242,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 6.6776,
+      "prior_variance": 0.348415,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 5.757,
+      "prior_variance": 0.320799,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_score": 6.4643,
+      "prior_variance": 0.353515,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "La Rochelle",
+      "path": "europe/france/midi/aquitaine/larochelle",
+      "prior_score": 6.0839,
+      "prior_variance": 0.294304,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_score": 5.348,
+      "prior_variance": 0.269484,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 3.1524,
+      "prior_variance": 0.227889,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/devon",
+      "prior_score": 4.967,
+      "prior_variance": 0.262562,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Saxony",
+      "path": "europe/germany/saxony",
+      "prior_score": 3.4412,
+      "prior_variance": 0.29871,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 3.7971,
+      "prior_variance": 0.262293,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Niagara Frontier",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier",
+      "prior_score": 3.6737,
+      "prior_variance": 0.332069,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 3.7357,
+      "prior_variance": 0.284038,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 1.1789,
+      "prior_variance": 0.216051,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Frisian Islands",
+      "path": "europe/germany/lowersaxony/frisianislands",
+      "prior_score": 1.9127,
+      "prior_variance": 0.229346,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 4.8267,
+      "prior_variance": 0.273447,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 1.6606,
+      "prior_variance": 0.253249,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.1087,
+      "prior_variance": 0.245912,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Campo de Criptana",
+      "path": "europe/spain/la_mancha/campo_de_criptana_1",
+      "prior_score": 3.1575,
+      "prior_variance": 0.266402,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dunster",
+      "prior_score": 0.8053,
+      "prior_variance": 0.254545,
+      "prior_n": 5
+    }
+  ]
+}

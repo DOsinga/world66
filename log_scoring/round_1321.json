@@ -1,0 +1,200 @@
+{
+  "round": 1321,
+  "timestamp": "2026-04-12T22:21:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Slovenia",
+      "path": "europe/slovenia",
+      "prior_rank": 1116,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bavaria",
+      "path": "europe/germany/bavaria",
+      "prior_rank": 112,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/york",
+      "prior_rank": 1745,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_rank": 932,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_rank": 1176,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_eus/bilbao",
+      "prior_rank": 1311,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_rank": 311,
+      "prior_wins": 140,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Bohol",
+      "path": "asia/philippines/bohol",
+      "prior_rank": 274,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Belize",
+      "path": "northamerica/belize",
+      "prior_rank": 607,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/rotorua",
+      "prior_rank": 395,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_rank": 275,
+      "prior_wins": 122,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_rank": 842,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_rank": 288,
+      "prior_wins": 122,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_rank": 866,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/waikato/waitomo",
+      "prior_rank": 533,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_rank": 1209,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_rank": 438,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Maspalomas",
+      "path": "europe/spain/canaryislands/crancanaria/maspalomas",
+      "prior_rank": 519,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_rank": 850,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_rank": 4222,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Gibraltar",
+      "path": "europe/gibraltar",
+      "prior_rank": 801,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_rank": 419,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_rank": 460,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_rank": 423,
+      "prior_wins": 79,
+      "prior_n": 4
+    }
+  ]
+}

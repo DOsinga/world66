@@ -1,0 +1,200 @@
+{
+  "round": 2106,
+  "timestamp": "2026-04-13T16:11:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u201cTakayama\u201d",
+      "path": "asia/japan/takayama",
+      "prior_score": 8.3878,
+      "prior_variance": 0.544071,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tuscany",
+      "path": "europe/italy/tuscany",
+      "prior_score": 14.5494,
+      "prior_variance": 0.8487,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 6.6162,
+      "prior_variance": 0.318168,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 6.2076,
+      "prior_variance": 0.280371,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.1851,
+      "prior_variance": 0.269207,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 4.3892,
+      "prior_variance": 0.26964,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Curacao",
+      "path": "northamerica/netherlandsantilles/curacao",
+      "prior_score": 5.7409,
+      "prior_variance": 0.252295,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 2.5362,
+      "prior_variance": 0.31706,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 4.7382,
+      "prior_variance": 0.419055,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_score": 1.304,
+      "prior_variance": 0.268606,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
+      "prior_score": 0.2443,
+      "prior_variance": 0.223819,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 2.3239,
+      "prior_variance": 0.24982,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.1198,
+      "prior_variance": 0.257552,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.5516,
+      "prior_variance": 0.28804,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
+      "prior_score": 0.5957,
+      "prior_variance": 0.325873,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -1.4805,
+      "prior_variance": 0.267969,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_score": -1.8498,
+      "prior_variance": 0.375368,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_score": -3.4347,
+      "prior_variance": 0.255662,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -2.5477,
+      "prior_variance": 0.260389,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -1.0604,
+      "prior_variance": 0.259169,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -1.6885,
+      "prior_variance": 0.242144,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.4237,
+      "prior_variance": 0.327471,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -1.8693,
+      "prior_variance": 0.324213,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_score": -6.3575,
+      "prior_variance": 0.226663,
+      "prior_n": 7
+    }
+  ]
+}

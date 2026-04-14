@@ -1,0 +1,200 @@
+{
+  "round": 2336,
+  "timestamp": "2026-04-13T16:32:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 8.3584,
+      "prior_variance": 0.317506,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
+      "prior_score": 0.4805,
+      "prior_variance": 0.174383,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -2.1371,
+      "prior_variance": 0.334101,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": -0.1456,
+      "prior_variance": 0.262177,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.1923,
+      "prior_variance": 0.226269,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": -0.6252,
+      "prior_variance": 0.278951,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/plymouth",
+      "prior_score": 0.4074,
+      "prior_variance": 0.222596,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.0372,
+      "prior_variance": 0.235347,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.7019,
+      "prior_variance": 0.20406,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": -1.5776,
+      "prior_variance": 0.27767,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -2.453,
+      "prior_variance": 0.337892,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -1.9929,
+      "prior_variance": 0.313798,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 0.0195,
+      "prior_variance": 0.232883,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_score": -2.0323,
+      "prior_variance": 0.255475,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -0.6593,
+      "prior_variance": 0.20441,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -2.9044,
+      "prior_variance": 0.181778,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -1.9071,
+      "prior_variance": 0.201586,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -1.3149,
+      "prior_variance": 0.218566,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Douglaston",
+      "path": "northamerica/unitedstates/newyorkstate/douglaston",
+      "prior_score": -4.0478,
+      "prior_variance": 0.229392,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -4.8307,
+      "prior_variance": 0.23509,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -5.7026,
+      "prior_variance": 0.241607,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_score": -4.7598,
+      "prior_variance": 0.273391,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -6.6748,
+      "prior_variance": 0.233284,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.4836,
+      "prior_variance": 0.301028,
+      "prior_n": 9
+    }
+  ]
+}

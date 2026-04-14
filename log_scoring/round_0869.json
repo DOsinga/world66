@@ -1,0 +1,200 @@
+{
+  "round": 869,
+  "timestamp": "2026-04-12T14:46:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 12.4916,
+      "prior_variance": 3.755047,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 5.0269,
+      "prior_variance": 1.743888,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 7.6562,
+      "prior_variance": 6.957674,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 4.2863,
+      "prior_variance": 1.473211,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cabo Rojo",
+      "path": "northamerica/puertorico/caborojo",
+      "prior_score": 1.8674,
+      "prior_variance": 1.644304,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 6.0586,
+      "prior_variance": 1.748852,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 3.449,
+      "prior_variance": 1.712208,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Su\u00f0uroy",
+      "path": "europe/faroeislands/suuroy",
+      "prior_score": 3.8147,
+      "prior_variance": 1.294281,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_score": -1.577,
+      "prior_variance": 1.532165,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 3.0872,
+      "prior_variance": 2.84214,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": 2.4233,
+      "prior_variance": 1.842541,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": 2.203,
+      "prior_variance": 1.369377,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": 2.6079,
+      "prior_variance": 1.665843,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": 0.7814,
+      "prior_variance": 1.445642,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Blagoevgrad",
+      "path": "europe/bulgaria/blagoevgrad",
+      "prior_score": -1.1666,
+      "prior_variance": 1.480491,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -5.5028,
+      "prior_variance": 1.645456,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gurabo",
+      "path": "northamerica/puertorico/gurabo",
+      "prior_score": -3.3842,
+      "prior_variance": 1.472332,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -3.5102,
+      "prior_variance": 1.176441,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -3.3503,
+      "prior_variance": 1.666416,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -4.3141,
+      "prior_variance": 1.217885,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Athis-Mons",
+      "path": "europe/france/around_paris/athismons",
+      "prior_score": -9.5043,
+      "prior_variance": 6.430552,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -6.6279,
+      "prior_variance": 1.477003,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_score": -9.7354,
+      "prior_variance": 9.572984,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -10.9598,
+      "prior_variance": 8.833239,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1879,
+  "timestamp": "2026-04-13T10:59:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 6.8102,
+      "prior_variance": 0.556083,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/york",
+      "prior_score": 5.5613,
+      "prior_variance": 0.366054,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 5.9714,
+      "prior_variance": 0.356633,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 4.9692,
+      "prior_variance": 0.332648,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 6.6227,
+      "prior_variance": 0.413222,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_score": 3.3683,
+      "prior_variance": 0.22632,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.8851,
+      "prior_variance": 0.317931,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 2.8503,
+      "prior_variance": 0.42964,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 1.6515,
+      "prior_variance": 0.277132,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.9082,
+      "prior_variance": 0.225901,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 1.1853,
+      "prior_variance": 0.367476,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 4.6511,
+      "prior_variance": 0.338376,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -1.009,
+      "prior_variance": 0.312197,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": 0.1667,
+      "prior_variance": 0.246746,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": 1.6742,
+      "prior_variance": 0.277004,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_score": 1.1456,
+      "prior_variance": 0.253942,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -1.0742,
+      "prior_variance": 0.307162,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ludlow",
+      "path": "northamerica/unitedstates/vermont/ludlow",
+      "prior_score": -0.253,
+      "prior_variance": 0.271238,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_score": -6.1507,
+      "prior_variance": 0.560506,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.8102,
+      "prior_variance": 0.263248,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -3.6851,
+      "prior_variance": 0.324748,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -3.0063,
+      "prior_variance": 0.285482,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Rio Rico",
+      "path": "northamerica/unitedstates/arizona/rio_rico",
+      "prior_score": -6.3859,
+      "prior_variance": 0.32563,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Mubi",
+      "path": "africa/nigeria/yola/mubi",
+      "prior_score": -9.9214,
+      "prior_variance": 0.354139,
+      "prior_n": 4
+    }
+  ]
+}

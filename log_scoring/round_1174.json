@@ -1,0 +1,200 @@
+{
+  "round": 1174,
+  "timestamp": "2026-04-12T22:13:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kalahari Desert",
+      "path": "africa/botswana/kalaharidesert",
+      "prior_rank": 3579,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_rank": 4891,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_rank": 4220,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_rank": 3817,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_rank": 4583,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_rank": 2652,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_rank": 5211,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_rank": 3639,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_rank": 2970,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Benguet",
+      "path": "asia/philippines/benguet",
+      "prior_rank": 3859,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_rank": 4978,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ulm",
+      "path": "europe/germany/bade/ulm",
+      "prior_rank": 3391,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_rank": 4287,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/langeoog",
+      "prior_rank": 4289,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_rank": 1947,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_rank": 2454,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_rank": 4067,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_rank": 5448,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/churchstretton",
+      "prior_rank": 5636,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/worcester",
+      "prior_rank": 5481,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/plymouth",
+      "prior_rank": 1581,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_rank": 6412,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/leicester_notting/highpeak",
+      "prior_rank": 1780,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_rank": 3086,
+      "prior_wins": 27,
+      "prior_n": 2
+    }
+  ]
+}

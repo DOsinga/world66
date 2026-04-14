@@ -1,0 +1,200 @@
+{
+  "round": 1171,
+  "timestamp": "2026-04-12T22:13:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_rank": 7517,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_rank": 7798,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/fullerton",
+      "prior_rank": 5283,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wrzesnia",
+      "path": "europe/poland/wrzesnia",
+      "prior_rank": 7342,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/sabden",
+      "prior_rank": 7291,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_rank": 7419,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_rank": 4357,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_rank": 7690,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_rank": 7702,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_rank": 6850,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_rank": 7646,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_rank": 6855,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_rank": 7867,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Wamic",
+      "path": "northamerica/unitedstates/oregon/wamic",
+      "prior_rank": 7989,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_rank": 6758,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_rank": 8001,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_rank": 6866,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_rank": 7214,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_rank": 7157,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_rank": 7857,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sudhnoti",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/sudnooti",
+      "prior_rank": 7724,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_rank": 7199,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_rank": 6845,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "vascauti",
+      "path": "europe/romania/bucharest/vascauti",
+      "prior_rank": 7708,
+      "prior_wins": 6,
+      "prior_n": 2
+    }
+  ]
+}

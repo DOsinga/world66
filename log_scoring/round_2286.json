@@ -1,0 +1,200 @@
+{
+  "round": 2286,
+  "timestamp": "2026-04-13T16:27:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 2.5575,
+      "prior_variance": 0.219423,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_score": 0.1742,
+      "prior_variance": 0.239932,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 3.9388,
+      "prior_variance": 0.267472,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 2.5539,
+      "prior_variance": 0.224561,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -1.8191,
+      "prior_variance": 0.219157,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistran",
+      "prior_score": 0.8918,
+      "prior_variance": 0.256152,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.9787,
+      "prior_variance": 0.295659,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 2.8129,
+      "prior_variance": 0.254047,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -0.0343,
+      "prior_variance": 0.237868,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.3512,
+      "prior_variance": 0.26105,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.6714,
+      "prior_variance": 0.229568,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_score": -2.4443,
+      "prior_variance": 0.160775,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Safaga",
+      "path": "africa/egypt/hurghada/safaga",
+      "prior_score": 0.2828,
+      "prior_variance": 0.250876,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -0.7059,
+      "prior_variance": 0.210207,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": -0.2381,
+      "prior_variance": 0.301775,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -1.8888,
+      "prior_variance": 0.239374,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.1879,
+      "prior_variance": 0.220206,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -4.3731,
+      "prior_variance": 0.279802,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -5.5585,
+      "prior_variance": 0.372684,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -5.4749,
+      "prior_variance": 0.236522,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Hotels near Harne Beach",
+      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
+      "prior_score": -2.7081,
+      "prior_variance": 0.219006,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Basconcobe",
+      "path": "northamerica/mexico/yucatan/basconcobe",
+      "prior_score": -5.6032,
+      "prior_variance": 0.263299,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/karanprayag/pauri",
+      "prior_score": -3.9613,
+      "prior_variance": 0.383911,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -7.8524,
+      "prior_variance": 0.375332,
+      "prior_n": 6
+    }
+  ]
+}

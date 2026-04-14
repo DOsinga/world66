@@ -1,0 +1,200 @@
+{
+  "round": 839,
+  "timestamp": "2026-04-12T14:36:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florida",
+      "path": "northamerica/unitedstates/florida",
+      "prior_score": -1.2549,
+      "prior_variance": 1.556957,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": -5.7198,
+      "prior_variance": 1.632364,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Auvergne",
+      "path": "europe/france/centre/auvergne",
+      "prior_score": 3.6085,
+      "prior_variance": 0.713223,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 4.6524,
+      "prior_variance": 1.498557,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/kenilworth",
+      "prior_score": 0.4466,
+      "prior_variance": 1.494859,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 0.8541,
+      "prior_variance": 1.653641,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 1.1528,
+      "prior_variance": 1.573461,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 5.5961,
+      "prior_variance": 1.736682,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": -6.2571,
+      "prior_variance": 1.820725,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": 4.8671,
+      "prior_variance": 17.722816,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.8349,
+      "prior_variance": 1.925259,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Beaches",
+      "path": "europe/ireland/dublin/beaches_1",
+      "prior_score": -4.8745,
+      "prior_variance": 1.699971,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.5893,
+      "prior_variance": 1.349293,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": 0.7527,
+      "prior_variance": 2.140489,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": 0.1009,
+      "prior_variance": 1.364153,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": -0.131,
+      "prior_variance": 2.85712,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -8.765,
+      "prior_variance": 1.811567,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": 0.6116,
+      "prior_variance": 64.689196,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": 0.4856,
+      "prior_variance": 1.373991,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -8.0492,
+      "prior_variance": 1.326552,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -12.6635,
+      "prior_variance": 3.107117,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -5.4972,
+      "prior_variance": 2.548929,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -10.3614,
+      "prior_variance": 2.930269,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -9.6064,
+      "prior_variance": 1.284039,
+      "prior_n": 1
+    }
+  ]
+}

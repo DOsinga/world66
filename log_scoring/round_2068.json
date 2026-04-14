@@ -1,0 +1,200 @@
+{
+  "round": 2068,
+  "timestamp": "2026-04-13T16:07:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_score": 4.8501,
+      "prior_variance": 0.240218,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 9.3643,
+      "prior_variance": 0.347945,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sardinia",
+      "path": "europe/italy/sardinia",
+      "prior_score": 7.6663,
+      "prior_variance": 0.328892,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 6.8895,
+      "prior_variance": 0.359427,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 4.6966,
+      "prior_variance": 0.288253,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 7.084,
+      "prior_variance": 0.282252,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": 4.5912,
+      "prior_variance": 0.270912,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 5.489,
+      "prior_variance": 0.239637,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 3.3884,
+      "prior_variance": 0.248483,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.8019,
+      "prior_variance": 0.26024,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 2.6315,
+      "prior_variance": 0.277074,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 4.7225,
+      "prior_variance": 0.324429,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 2.9828,
+      "prior_variance": 0.301007,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 3.1673,
+      "prior_variance": 0.323654,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 3.8952,
+      "prior_variance": 0.300004,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "North of Mombasa",
+      "path": "africa/kenya/thecoast/northofmombasa",
+      "prior_score": 1.1833,
+      "prior_variance": 0.246492,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 3.4518,
+      "prior_variance": 0.250793,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountai/vorokhta",
+      "prior_score": -1.5926,
+      "prior_variance": 0.284404,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -0.6005,
+      "prior_variance": 0.244285,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/chichester",
+      "prior_score": 1.4013,
+      "prior_variance": 0.302618,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -2.5909,
+      "prior_variance": 0.290729,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
+      "prior_score": -2.4279,
+      "prior_variance": 0.267243,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -7.1506,
+      "prior_variance": 0.29778,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -10.2055,
+      "prior_variance": 0.289219,
+      "prior_n": 7
+    }
+  ]
+}

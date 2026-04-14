@@ -1,0 +1,200 @@
+{
+  "round": 1781,
+  "timestamp": "2026-04-13T10:50:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 6.8988,
+      "prior_variance": 0.36335,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 6.7498,
+      "prior_variance": 0.260663,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 4.4784,
+      "prior_variance": 0.30208,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "costa dorada",
+      "path": "europe/spain/spanishcostas/costa_dorada",
+      "prior_score": 1.7815,
+      "prior_variance": 0.305066,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lak",
+      "prior_score": 4.3508,
+      "prior_variance": 0.4092,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 4.9625,
+      "prior_variance": 0.472885,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 2.9513,
+      "prior_variance": 0.267968,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Manchester, Liverpool and North West",
+      "path": "europe/unitedkingdom/england/manchester_liverp",
+      "prior_score": 1.8757,
+      "prior_variance": 0.346784,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_score": 3.0377,
+      "prior_variance": 0.333074,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 0.2158,
+      "prior_variance": 0.317196,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -0.3595,
+      "prior_variance": 0.296515,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -0.7659,
+      "prior_variance": 0.264325,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": 0.4562,
+      "prior_variance": 0.328866,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/crewkerne",
+      "prior_score": -2.3574,
+      "prior_variance": 0.473255,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_score": -5.946,
+      "prior_variance": 0.303817,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Deleg",
+      "path": "southamerica/ecuador/deleg",
+      "prior_score": -4.6061,
+      "prior_variance": 0.546716,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -3.8613,
+      "prior_variance": 0.282226,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -6.0605,
+      "prior_variance": 0.347842,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -4.6608,
+      "prior_variance": 0.314774,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bussy",
+      "path": "europe/france/around_paris/bussy",
+      "prior_score": -5.8502,
+      "prior_variance": 0.407262,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -4.8593,
+      "prior_variance": 0.407764,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pickerington",
+      "path": "northamerica/unitedstates/ohio/pickerington",
+      "prior_score": -7.21,
+      "prior_variance": 0.422912,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -5.1732,
+      "prior_variance": 0.305124,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -11.39,
+      "prior_variance": 0.288783,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1505,
+  "timestamp": "2026-04-13T10:26:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sardinia",
+      "path": "europe/italy/sardinia",
+      "prior_score": 8.3788,
+      "prior_variance": 0.409568,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 8.0543,
+      "prior_variance": 0.502261,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/northland/bayofislands",
+      "prior_score": 7.0545,
+      "prior_variance": 0.433274,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lake Atitl\u00e1n",
+      "path": "northamerica/guatemala/lakeatitlan",
+      "prior_score": 5.9214,
+      "prior_variance": 0.608011,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 7.4658,
+      "prior_variance": 0.441366,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 5.2661,
+      "prior_variance": 0.587097,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 7.6534,
+      "prior_variance": 0.536807,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cadiz",
+      "path": "europe/spain/cadiz",
+      "prior_score": 6.4372,
+      "prior_variance": 0.416998,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Elba",
+      "path": "europe/italy/tuscany/elba",
+      "prior_score": 5.9126,
+      "prior_variance": 0.37206,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pelje\u0161ac",
+      "path": "europe/croatia/peljesac",
+      "prior_score": 6.0617,
+      "prior_variance": 0.392821,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_score": 4.1745,
+      "prior_variance": 0.363362,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 5.5642,
+      "prior_variance": 0.350972,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 5.7139,
+      "prior_variance": 0.394691,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 4.3548,
+      "prior_variance": 0.543106,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 4.0295,
+      "prior_variance": 0.728459,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_score": 4.3644,
+      "prior_variance": 0.805237,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 5.6038,
+      "prior_variance": 0.665187,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/bay_of_plenty",
+      "prior_score": 4.064,
+      "prior_variance": 0.554107,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Karnataka",
+      "path": "asia/india/karnataka",
+      "prior_score": 5.5003,
+      "prior_variance": 0.497756,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 6.0874,
+      "prior_variance": 0.459141,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 4.4693,
+      "prior_variance": 0.365296,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 4.0267,
+      "prior_variance": 0.361641,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 3.5443,
+      "prior_variance": 0.354484,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 3.4965,
+      "prior_variance": 0.429152,
+      "prior_n": 4
+    }
+  ]
+}

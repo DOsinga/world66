@@ -1,0 +1,200 @@
+{
+  "round": 204,
+  "timestamp": "2026-04-12T08:47:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sicily",
+      "path": "europe/italy/sicily",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Piemonte",
+      "path": "europe/italy/piemonte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/northland/bayofislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Northern Ireland",
+      "path": "europe/unitedkingdom/northernireland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_mu": 21.9841,
+      "prior_sigma": 4.842,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Franche-Comt\u00e9",
+      "path": "europe/france/east/franchecomte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Norfolk",
+      "path": "europe/unitedkingdom/norfolk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Vadehavet",
+      "path": "europe/denmark/vadehavet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Kharipati, Nagarkot Phedi",
+      "path": "asia/nepal/dhulikel/kharipati_nagarko",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Shenyang",
+      "path": "asia/china/shenyang",
+      "prior_mu": 22.5285,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Blanchard",
+      "path": "northamerica/unitedstates/oklahoma/blanchard",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

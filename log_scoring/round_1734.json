@@ -1,0 +1,200 @@
+{
+  "round": 1734,
+  "timestamp": "2026-04-13T10:46:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Norway",
+      "path": "europe/norway",
+      "prior_score": -2.625,
+      "prior_variance": 0.617305,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 4.8896,
+      "prior_variance": 0.407632,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Spanish Costas",
+      "path": "europe/spain/spanishcostas",
+      "prior_score": 2.6499,
+      "prior_variance": 0.535707,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 5.355,
+      "prior_variance": 0.299722,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_score": -0.6397,
+      "prior_variance": 0.335122,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 2.1937,
+      "prior_variance": 0.347731,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -0.1688,
+      "prior_variance": 0.365454,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_score": 1.3992,
+      "prior_variance": 0.319749,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": 0.4167,
+      "prior_variance": 0.404239,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 1.9246,
+      "prior_variance": 0.442257,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -1.6564,
+      "prior_variance": 0.26727,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -1.0932,
+      "prior_variance": 0.477426,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -0.8669,
+      "prior_variance": 0.431142,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -2.1496,
+      "prior_variance": 0.413126,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Santiago",
+      "path": "africa/capeverde/saotiago",
+      "prior_score": -0.1162,
+      "prior_variance": 0.334688,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": 0.374,
+      "prior_variance": 0.232375,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -0.151,
+      "prior_variance": 0.33922,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.2939,
+      "prior_variance": 0.354741,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -1.299,
+      "prior_variance": 0.299553,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -5.998,
+      "prior_variance": 0.371547,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_notting/buxton",
+      "prior_score": -1.5585,
+      "prior_variance": 0.368688,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/worksop",
+      "prior_score": -4.0934,
+      "prior_variance": 0.349149,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_score": -6.2087,
+      "prior_variance": 0.324771,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -9.0587,
+      "prior_variance": 0.410009,
+      "prior_n": 4
+    }
+  ]
+}

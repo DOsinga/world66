@@ -1,0 +1,200 @@
+{
+  "round": 291,
+  "timestamp": "2026-04-12T09:10:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Liechtenstein",
+      "path": "europe/liechtenstein",
+      "prior_mu": 24.2906,
+      "prior_sigma": 5.8318,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_mu": 22.4735,
+      "prior_sigma": 5.5697,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Black Sea Coast",
+      "path": "europe/georgia/blackseacoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_mu": 22.4912,
+      "prior_sigma": 5.9083,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_mu": 22.7204,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_mu": 22.7232,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_mu": 22.7219,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Vengurle",
+      "path": "asia/india/maharashtra/konkan/vengurle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_mu": 22.9003,
+      "prior_sigma": 5.7255,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/bearwood",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

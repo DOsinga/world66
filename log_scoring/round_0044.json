@@ -1,0 +1,200 @@
+{
+  "round": 44,
+  "timestamp": "2026-04-11T19:26:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_mu": 30.23,
+      "prior_sigma": 6.73,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_mu": 29.09,
+      "prior_sigma": 6.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_mu": 22.03,
+      "prior_sigma": 4.53,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_mu": 23.07,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_mu": 22.95,
+      "prior_sigma": 5.56,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_mu": 21.77,
+      "prior_sigma": 4.48,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_mu": 22.68,
+      "prior_sigma": 4.63,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_mu": 21.56,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_mu": 21.71,
+      "prior_sigma": 4.6,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_mu": 22.41,
+      "prior_sigma": 5.89,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)",
+      "path": "europe/italy/calabria/hilltowns_of_the",
+      "prior_mu": 23.07,
+      "prior_sigma": 5.99,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_mu": 22.44,
+      "prior_sigma": 5.41,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_mu": 21.11,
+      "prior_sigma": 4.48,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.97,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_mu": 21.31,
+      "prior_sigma": 4.63,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "People",
+      "path": "asia/pakistan/lahore/people_1",
+      "prior_mu": 16.93,
+      "prior_sigma": 4.3,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_mu": 22.46,
+      "prior_sigma": 5.42,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_mu": 21.9,
+      "prior_sigma": 5.69,
+      "prior_n": 1
+    }
+  ]
+}

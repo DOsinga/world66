@@ -1,0 +1,200 @@
+{
+  "round": 1895,
+  "timestamp": "2026-04-13T14:34:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aruba",
+      "path": "northamerica/aruba",
+      "prior_score": 10.3878,
+      "prior_variance": 0.72562,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 7.9682,
+      "prior_variance": 0.50479,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 6.1394,
+      "prior_variance": 0.370473,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_score": 6.0649,
+      "prior_variance": 0.315181,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 4.6707,
+      "prior_variance": 0.297265,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": 0.704,
+      "prior_variance": 0.341373,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadei",
+      "prior_score": 4.2558,
+      "prior_variance": 0.378949,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.2561,
+      "prior_variance": 0.269623,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 2.9407,
+      "prior_variance": 0.32172,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Trujillo",
+      "path": "southamerica/peru/huanchaco/trujillo",
+      "prior_score": 3.8448,
+      "prior_variance": 0.252511,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 2.7589,
+      "prior_variance": 0.335003,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_score": 2.8987,
+      "prior_variance": 0.298408,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Solomon Islands",
+      "path": "australiaandpacific/solomonislands",
+      "prior_score": -1.0501,
+      "prior_variance": 0.709443,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "St.George",
+      "path": "northamerica/saintvincentandthegrenadines/stgeorge",
+      "prior_score": 0.4313,
+      "prior_variance": 0.359223,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 1.7116,
+      "prior_variance": 0.343638,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -0.4705,
+      "prior_variance": 0.292449,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -2.3399,
+      "prior_variance": 0.457202,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_score": -2.8068,
+      "prior_variance": 0.275236,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -5.4538,
+      "prior_variance": 0.356028,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -4.6836,
+      "prior_variance": 0.272808,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Laurel",
+      "path": "northamerica/unitedstates/mississippi/laurel",
+      "prior_score": -5.7321,
+      "prior_variance": 0.293276,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -6.6599,
+      "prior_variance": 0.386347,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "chiniot",
+      "path": "asia/pakistan/sargodha/chiniot",
+      "prior_score": -8.3573,
+      "prior_variance": 0.392965,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -9.4201,
+      "prior_variance": 0.427642,
+      "prior_n": 4
+    }
+  ]
+}

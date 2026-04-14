@@ -1,0 +1,200 @@
+{
+  "round": 1382,
+  "timestamp": "2026-04-12T22:24:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Togo",
+      "path": "africa/togo",
+      "prior_rank": 7647,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_rank": 7906,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_rank": 8006,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ipiales",
+      "path": "southamerica/chile/ipiales",
+      "prior_rank": 8116,
+      "prior_wins": 10,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_rank": 8061,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_rank": 3033,
+      "prior_wins": 55,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_rank": 7379,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nawanshahr",
+      "path": "asia/india/punjab/nawanshahr",
+      "prior_rank": 8147,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_rank": 8173,
+      "prior_wins": 7,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/consett",
+      "prior_rank": 8161,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_rank": 8127,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_rank": 6989,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_rank": 7649,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Williamstown",
+      "path": "northamerica/unitedstates/newjersey/williamstown",
+      "prior_rank": 7914,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_rank": 7307,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_rank": 5288,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_rank": 7160,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal_1",
+      "prior_rank": 7943,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_rank": 8036,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_rank": 8073,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Japiim",
+      "path": "southamerica/brazil/japiim",
+      "prior_rank": 7888,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_rank": 8157,
+      "prior_wins": 10,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Lekoumou region",
+      "path": "africa/congobrazzaville/lekoumouregion",
+      "prior_rank": 7128,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_rank": 7839,
+      "prior_wins": 17,
+      "prior_n": 5
+    }
+  ]
+}

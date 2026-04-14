@@ -1,0 +1,200 @@
+{
+  "round": 2072,
+  "timestamp": "2026-04-13T16:08:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 5.0961,
+      "prior_variance": 0.342817,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 0.8664,
+      "prior_variance": 0.249484,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 5.9451,
+      "prior_variance": 0.264773,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cadiz",
+      "path": "europe/spain/cadiz",
+      "prior_score": 6.0843,
+      "prior_variance": 0.250372,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 3.554,
+      "prior_variance": 0.313063,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": -1.2864,
+      "prior_variance": 0.35637,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/norwich",
+      "prior_score": 0.4455,
+      "prior_variance": 0.308681,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/dover",
+      "prior_score": 0.5233,
+      "prior_variance": 0.249452,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 4.0748,
+      "prior_variance": 0.276005,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/amelia_island",
+      "prior_score": 0.9087,
+      "prior_variance": 0.238503,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 1.1577,
+      "prior_variance": 0.258907,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/vancouver/goldenears",
+      "prior_score": 2.1532,
+      "prior_variance": 0.275306,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": 0.0288,
+      "prior_variance": 0.298032,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.8778,
+      "prior_variance": 0.311665,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 1.9431,
+      "prior_variance": 0.29247,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": -0.0698,
+      "prior_variance": 0.236735,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 1.2098,
+      "prior_variance": 0.241863,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/juist",
+      "prior_score": -0.037,
+      "prior_variance": 0.260853,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": 0.1427,
+      "prior_variance": 0.342103,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.207,
+      "prior_variance": 0.299401,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.1533,
+      "prior_variance": 0.257606,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -5.6551,
+      "prior_variance": 0.273694,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_score": -4.2297,
+      "prior_variance": 0.238516,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -5.2533,
+      "prior_variance": 0.320872,
+      "prior_n": 5
+    }
+  ]
+}

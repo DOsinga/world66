@@ -1,0 +1,200 @@
+{
+  "round": 1465,
+  "timestamp": "2026-04-12T22:29:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_rank": 283,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Malta",
+      "path": "europe/malta",
+      "prior_rank": 2205,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_rank": 291,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/yucatan/islamujeres",
+      "prior_rank": 1139,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bath",
+      "prior_rank": 1108,
+      "prior_wins": 86,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_rank": 451,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_rank": 240,
+      "prior_wins": 121,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_rank": 1800,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_rank": 1279,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Val di Fassa",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa",
+      "prior_rank": 450,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_rank": 1057,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_rank": 1592,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_rank": 317,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_rank": 149,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_rank": 1337,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_rank": 1232,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_rank": 2648,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_rank": 458,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_rank": 1353,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_rank": 901,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains",
+      "prior_rank": 449,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nevada",
+      "path": "northamerica/unitedstates/nevada",
+      "prior_rank": 561,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_rank": 934,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_rank": 2822,
+      "prior_wins": 41,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 387,
+  "timestamp": "2026-04-12T09:14:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_mu": 29.2411,
+      "prior_sigma": 6.9693,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tanzania",
+      "path": "africa/tanzania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Algarve",
+      "path": "europe/portugal/algarve",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Margaret River",
+      "path": "australiaandpacific/australia/westernaustralia/margaretriver",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_mu": 22.7952,
+      "prior_sigma": 5.957,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_mu": 22.2264,
+      "prior_sigma": 5.7699,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_mu": 22.2744,
+      "prior_sigma": 5.7836,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/berkhampsted",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_mu": 22.8938,
+      "prior_sigma": 5.7247,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Illinois",
+      "path": "northamerica/unitedstates/illinois",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_mu": 21.0874,
+      "prior_sigma": 3.9794,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "MoorKhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Sudhnoti",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/sudnooti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_mu": 22.2207,
+      "prior_sigma": 5.51,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Chowchilla",
+      "path": "northamerica/unitedstates/california/centralvalley/chowchilla",
+      "prior_mu": 21.6282,
+      "prior_sigma": 4.7419,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_mu": 22.4586,
+      "prior_sigma": 5.5282,
+      "prior_n": 1
+    }
+  ]
+}

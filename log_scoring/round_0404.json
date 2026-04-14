@@ -1,0 +1,200 @@
+{
+  "round": 404,
+  "timestamp": "2026-04-12T09:29:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ischia",
+      "path": "europe/italy/campania/ischia",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_mu": 23.4334,
+      "prior_sigma": 5.0244,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorci",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Salo",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_mu": 22.2833,
+      "prior_sigma": 5.7846,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_mu": 21.994,
+      "prior_sigma": 2.7742,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_mu": 22.9878,
+      "prior_sigma": 5.6107,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Basilicata",
+      "path": "europe/italy/basilicata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Alto Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
+      "prior_mu": 22.2358,
+      "prior_sigma": 5.7131,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_mu": 22.7048,
+      "prior_sigma": 5.9477,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_mu": 22.643,
+      "prior_sigma": 5.9388,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_mu": 21.6932,
+      "prior_sigma": 4.7976,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_mu": 22.7306,
+      "prior_sigma": 5.7024,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

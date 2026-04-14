@@ -1,0 +1,200 @@
+{
+  "round": 1938,
+  "timestamp": "2026-04-13T15:55:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/chester",
+      "prior_score": 3.439,
+      "prior_variance": 0.335186,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 5.5503,
+      "prior_variance": 0.344026,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 3.0614,
+      "prior_variance": 0.244963,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": 0.6365,
+      "prior_variance": 0.313752,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 3.4912,
+      "prior_variance": 0.243348,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.3978,
+      "prior_variance": 0.319307,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.3338,
+      "prior_variance": 0.267819,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.6326,
+      "prior_variance": 0.394789,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 1.4072,
+      "prior_variance": 0.260535,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -2.5334,
+      "prior_variance": 0.310043,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.6481,
+      "prior_variance": 0.255666,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -0.0102,
+      "prior_variance": 0.256781,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -2.7981,
+      "prior_variance": 0.218342,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.5495,
+      "prior_variance": 0.301098,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/sebastopol",
+      "prior_score": -2.1561,
+      "prior_variance": 0.29094,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -2.5178,
+      "prior_variance": 0.314505,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Czestochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": 0.2307,
+      "prior_variance": 0.316194,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": 0.3921,
+      "prior_variance": 0.327267,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -1.2273,
+      "prior_variance": 0.263274,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Algeria",
+      "path": "africa/algeria",
+      "prior_score": -6.1832,
+      "prior_variance": 0.46711,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_score": -2.5857,
+      "prior_variance": 0.29666,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -3.9655,
+      "prior_variance": 0.262299,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sherbro island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -5.2597,
+      "prior_variance": 0.294177,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -6.9646,
+      "prior_variance": 0.485873,
+      "prior_n": 5
+    }
+  ]
+}

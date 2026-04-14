@@ -1,0 +1,24 @@
+{
+  "round": 493,
+  "timestamp": "2026-04-12T09:33:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 2,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Marino",
+      "path": "europe/sanmarino",
+      "prior_mu": 22.5487,
+      "prior_sigma": 4.9072,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Borgo maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

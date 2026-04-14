@@ -1,0 +1,200 @@
+{
+  "round": 772,
+  "timestamp": "2026-04-12T10:47:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_mu": 24.7137,
+      "prior_sigma": 4.8081,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_mu": 23.1923,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_mu": 23.2567,
+      "prior_sigma": 5.6699,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mosel",
+      "path": "europe/germany/wine/mosel",
+      "prior_mu": 22.8263,
+      "prior_sigma": 5.464,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kardamili",
+      "path": "europe/greece/kardamili",
+      "prior_mu": 23.9194,
+      "prior_sigma": 4.7154,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_mu": 23.6348,
+      "prior_sigma": 5.6683,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_mu": 22.7069,
+      "prior_sigma": 4.0009,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_mu": 19.9855,
+      "prior_sigma": 4.8712,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_mu": 22.7124,
+      "prior_sigma": 5.8992,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_mu": 21.796,
+      "prior_sigma": 4.6899,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_mu": 22.8341,
+      "prior_sigma": 5.7279,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_mu": 21.9188,
+      "prior_sigma": 5.6807,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_mu": 22.3935,
+      "prior_sigma": 5.4455,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_mu": 21.6359,
+      "prior_sigma": 4.3154,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_mu": 21.9982,
+      "prior_sigma": 4.3861,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_mu": 21.7658,
+      "prior_sigma": 5.7794,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Do Not Believe Strangers!",
+      "path": "travelwise/safetyandsecurity/do_not_believe_str",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

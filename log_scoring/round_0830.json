@@ -1,0 +1,200 @@
+{
+  "round": 830,
+  "timestamp": "2026-04-12T14:35:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Anguilla",
+      "path": "northamerica/thecaribbean/anguilla",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Galicia",
+      "path": "europe/spain/galicia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 5.1886,
+      "prior_variance": 1.395099,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Guanica",
+      "path": "northamerica/puertorico/guanica",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Passaic",
+      "path": "northamerica/unitedstates/newjersey/passaic",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

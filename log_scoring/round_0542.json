@@ -1,0 +1,80 @@
+{
+  "round": 542,
+  "timestamp": "2026-04-12T10:36:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_mu": 19.9858,
+      "prior_sigma": 3.8389,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Belarus",
+      "path": "europe/belarus",
+      "prior_mu": 18.8883,
+      "prior_sigma": 5.2052,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_mu": 19.3528,
+      "prior_sigma": 3.089,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_mu": 22.4088,
+      "prior_sigma": 5.7206,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

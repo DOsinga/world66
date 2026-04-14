@@ -1,0 +1,200 @@
+{
+  "round": 823,
+  "timestamp": "2026-04-12T14:35:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Hallingdal",
+      "path": "europe/norway/hallingdal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Tranekr",
+      "path": "europe/denmark/tranekr",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Iwate",
+      "path": "asia/japan/iwate",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Kalahari Desert",
+      "path": "africa/botswana/kalaharidesert",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Olongapo City",
+      "path": "asia/philippines/olongapocity",
+      "prior_score": -2.7603,
+      "prior_variance": 1.568174,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

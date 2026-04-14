@@ -1,0 +1,200 @@
+{
+  "round": 522,
+  "timestamp": "2026-04-12T09:45:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_mu": 22.6054,
+      "prior_sigma": 2.9178,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland",
+      "prior_mu": 21.2673,
+      "prior_sigma": 3.1164,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_mu": 21.3941,
+      "prior_sigma": 3.2204,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_mu": 25.358,
+      "prior_sigma": 4.1837,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.2044,
+      "prior_sigma": 2.8482,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_mu": 21.3136,
+      "prior_sigma": 3.7341,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 21.3435,
+      "prior_sigma": 3.2367,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_mu": 20.8882,
+      "prior_sigma": 2.7599,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_mu": 21.419,
+      "prior_sigma": 3.4289,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_mu": 21.2653,
+      "prior_sigma": 2.9051,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_mu": 20.9238,
+      "prior_sigma": 3.2897,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 20.7614,
+      "prior_sigma": 2.7687,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_mu": 20.787,
+      "prior_sigma": 2.4486,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 20.8778,
+      "prior_sigma": 2.9412,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_mu": 20.9804,
+      "prior_sigma": 3.8216,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_mu": 21.0482,
+      "prior_sigma": 3.4288,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_mu": 20.397,
+      "prior_sigma": 2.7703,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_mu": 20.731,
+      "prior_sigma": 2.8245,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Schagen",
+      "path": "europe/netherlands/schagen",
+      "prior_mu": 20.6376,
+      "prior_sigma": 2.7711,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_mu": 20.665,
+      "prior_sigma": 2.7488,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_mu": 20.1004,
+      "prior_sigma": 3.232,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_mu": 20.6065,
+      "prior_sigma": 3.3151,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_mu": 17.0594,
+      "prior_sigma": 3.3297,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_mu": 18.4563,
+      "prior_sigma": 3.9601,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1887,
+  "timestamp": "2026-04-13T14:33:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_score": 7.8985,
+      "prior_variance": 0.47597,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 5.4032,
+      "prior_variance": 0.256559,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 6.9008,
+      "prior_variance": 0.396729,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cantabria",
+      "path": "europe/spain/cantabria",
+      "prior_score": 4.4315,
+      "prior_variance": 0.364284,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.6199,
+      "prior_variance": 0.430173,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 3.4642,
+      "prior_variance": 0.308158,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 2.483,
+      "prior_variance": 0.360738,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.1955,
+      "prior_variance": 0.412003,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": 0.7843,
+      "prior_variance": 0.278265,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 1.4365,
+      "prior_variance": 0.175287,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": 0.0776,
+      "prior_variance": 0.339506,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -1.1422,
+      "prior_variance": 0.394873,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": 0.7965,
+      "prior_variance": 0.324347,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -1.8313,
+      "prior_variance": 0.272297,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.1319,
+      "prior_variance": 0.280877,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -2.2622,
+      "prior_variance": 0.349821,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -3.1462,
+      "prior_variance": 0.332948,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/yucatan/puertoescondido",
+      "prior_score": -2.0474,
+      "prior_variance": 0.290587,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -1.9507,
+      "prior_variance": 0.286749,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -2.7904,
+      "prior_variance": 0.265632,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -5.1416,
+      "prior_variance": 0.329591,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -5.5329,
+      "prior_variance": 0.297729,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.2086,
+      "prior_variance": 0.292404,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.3602,
+      "prior_variance": 0.350486,
+      "prior_n": 5
+    }
+  ]
+}

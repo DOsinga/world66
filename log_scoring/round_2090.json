@@ -1,0 +1,200 @@
+{
+  "round": 2090,
+  "timestamp": "2026-04-13T16:09:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 6.4194,
+      "prior_variance": 0.299261,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_score": 5.2955,
+      "prior_variance": 0.363167,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lago Maggiore",
+      "path": "europe/italy/lombardia/lagomaggiore",
+      "prior_score": 7.9322,
+      "prior_variance": 0.396784,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.012,
+      "prior_variance": 0.359793,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 4.2125,
+      "prior_variance": 0.272518,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 4.5919,
+      "prior_variance": 0.301954,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
+      "prior_score": 1.2151,
+      "prior_variance": 0.310289,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/weymouth",
+      "prior_score": 0.8732,
+      "prior_variance": 0.251372,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
+      "prior_score": 0.1823,
+      "prior_variance": 0.261186,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.396,
+      "prior_variance": 0.297978,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "saskatchewan river crossing",
+      "path": "northamerica/canada/alberta/saskatchewan_river",
+      "prior_score": -1.0356,
+      "prior_variance": 0.218813,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -1.6096,
+      "prior_variance": 0.253186,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Luoyang",
+      "path": "asia/china/luoyang",
+      "prior_score": 2.5762,
+      "prior_variance": 0.256264,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 2.2786,
+      "prior_variance": 0.213858,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 1.5037,
+      "prior_variance": 0.210119,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -2.3739,
+      "prior_variance": 0.182537,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": 0.2284,
+      "prior_variance": 0.27724,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -1.6114,
+      "prior_variance": 0.317342,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Giulianova Lido",
+      "path": "europe/italy/abruzzo/giulianovalido",
+      "prior_score": -0.0646,
+      "prior_variance": 0.263488,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -1.8888,
+      "prior_variance": 0.251953,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.3226,
+      "prior_variance": 0.244389,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Punjab",
+      "path": "asia/india/punjab",
+      "prior_score": -0.93,
+      "prior_variance": 0.403864,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -1.8076,
+      "prior_variance": 0.214908,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -9.6349,
+      "prior_variance": 0.251918,
+      "prior_n": 7
+    }
+  ]
+}

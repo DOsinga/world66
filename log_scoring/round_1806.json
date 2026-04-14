@@ -1,0 +1,200 @@
+{
+  "round": 1806,
+  "timestamp": "2026-04-13T10:53:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Around Paris",
+      "path": "europe/france/around_paris",
+      "prior_score": 10.6226,
+      "prior_variance": 0.605798,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 12.1941,
+      "prior_variance": 0.6545,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Balearic islands",
+      "path": "europe/spain/balearicislands",
+      "prior_score": 7.6614,
+      "prior_variance": 0.399278,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 6.7677,
+      "prior_variance": 0.38791,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "South Africa",
+      "path": "africa/southafrica",
+      "prior_score": -1.3294,
+      "prior_variance": 0.554253,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
+      "prior_score": 1.8367,
+      "prior_variance": 0.284429,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 5.1388,
+      "prior_variance": 0.312451,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 5.1458,
+      "prior_variance": 0.329419,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_score": 4.9185,
+      "prior_variance": 0.446362,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/marlborough",
+      "prior_score": 3.3866,
+      "prior_variance": 0.324441,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "New Hampshire",
+      "path": "northamerica/unitedstates/newhampshire",
+      "prior_score": 0.4095,
+      "prior_variance": 0.368597,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 1.0032,
+      "prior_variance": 0.345567,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Frisian Islands",
+      "path": "europe/germany/lowersaxony/frisianislands",
+      "prior_score": 1.8765,
+      "prior_variance": 0.346457,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -1.7688,
+      "prior_variance": 0.334176,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_score": 1.6463,
+      "prior_variance": 0.325728,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": -1.8029,
+      "prior_variance": 0.336511,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 1.4352,
+      "prior_variance": 0.255516,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 2.6403,
+      "prior_variance": 0.273414,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nightlife and Entertainment",
+      "path": "asia/malaysia/melaka/nightlife_and_ente_2",
+      "prior_score": -1.6739,
+      "prior_variance": 0.362143,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -2.2179,
+      "prior_variance": 0.339164,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": 0.7924,
+      "prior_variance": 0.405758,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -7.4234,
+      "prior_variance": 0.529354,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -7.2528,
+      "prior_variance": 0.556432,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tibbi Qaisrani (Miana)",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1",
+      "prior_score": -10.1358,
+      "prior_variance": 0.420236,
+      "prior_n": 4
+    }
+  ]
+}

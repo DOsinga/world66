@@ -1,0 +1,200 @@
+{
+  "round": 1809,
+  "timestamp": "2026-04-13T10:53:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_score": 4.2189,
+      "prior_variance": 0.36673,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 3.5777,
+      "prior_variance": 0.300649,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 2.7629,
+      "prior_variance": 0.361945,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Aran islands",
+      "path": "europe/ireland/aranislands",
+      "prior_score": 4.6624,
+      "prior_variance": 0.302213,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 4.5259,
+      "prior_variance": 0.33586,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandres",
+      "prior_score": 3.9173,
+      "prior_variance": 0.352804,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_score": 2.1099,
+      "prior_variance": 0.317879,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.5858,
+      "prior_variance": 0.358615,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 2.8983,
+      "prior_variance": 0.303887,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.6295,
+      "prior_variance": 0.335843,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 1.4479,
+      "prior_variance": 0.311226,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Whitefish",
+      "path": "northamerica/unitedstates/montana/whitefish",
+      "prior_score": 2.1205,
+      "prior_variance": 0.334139,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Rwanda",
+      "path": "africa/rwanda",
+      "prior_score": 3.0734,
+      "prior_variance": 0.291842,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_score": 3.8208,
+      "prior_variance": 0.348567,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 3.6893,
+      "prior_variance": 0.270498,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 2.4791,
+      "prior_variance": 0.277324,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 1.8755,
+      "prior_variance": 0.248608,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": 0.1325,
+      "prior_variance": 0.277942,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -2.7386,
+      "prior_variance": 0.34062,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Carpathian Mountains",
+      "path": "europe/ukraine/carpathian_mountai",
+      "prior_score": 2.9405,
+      "prior_variance": 0.345613,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -1.129,
+      "prior_variance": 0.275335,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Moose Jaw",
+      "path": "northamerica/canada/saskatchewan/moose_jaw",
+      "prior_score": -3.6951,
+      "prior_variance": 0.305294,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -1.843,
+      "prior_variance": 0.266832,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.6841,
+      "prior_variance": 0.432754,
+      "prior_n": 4
+    }
+  ]
+}

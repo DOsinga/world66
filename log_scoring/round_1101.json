@@ -1,0 +1,200 @@
+{
+  "round": 1101,
+  "timestamp": "2026-04-12T22:09:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_rank": 7091,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/ashburton",
+      "prior_rank": 6116,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Forestville",
+      "path": "northamerica/unitedstates/california/northcoast/forestville",
+      "prior_rank": 5142,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_rank": 6281,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_rank": 6088,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/hitchin",
+      "prior_rank": 7034,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_rank": 6279,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_rank": 5661,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Chagauramas",
+      "path": "northamerica/trinidadandtobago/chagauramas",
+      "prior_rank": 5875,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Marabella",
+      "path": "northamerica/trinidadandtobago/marabella",
+      "prior_rank": 6787,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_rank": 7095,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_rank": 4239,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_rank": 6756,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_rank": 4716,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_rank": 6037,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_rank": 3215,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_rank": 5185,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_rank": 5854,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_rank": 4266,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_rank": 4325,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_rank": 5737,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_rank": 4328,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_rank": 6473,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_rank": 7125,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

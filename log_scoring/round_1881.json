@@ -1,0 +1,200 @@
+{
+  "round": 1881,
+  "timestamp": "2026-04-13T11:00:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 11.6555,
+      "prior_variance": 0.438543,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/tennessee/smokymountains",
+      "prior_score": 6.4792,
+      "prior_variance": 0.418247,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 8.0149,
+      "prior_variance": 0.694834,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_score": 6.6563,
+      "prior_variance": 0.400706,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_score": 2.2144,
+      "prior_variance": 0.213637,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.6673,
+      "prior_variance": 0.252175,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 3.6266,
+      "prior_variance": 0.284774,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.2314,
+      "prior_variance": 0.255141,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.751,
+      "prior_variance": 0.304469,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 1.3461,
+      "prior_variance": 0.287533,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.2543,
+      "prior_variance": 0.247518,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": -1.5524,
+      "prior_variance": 0.248256,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 2.3356,
+      "prior_variance": 0.371349,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 2.2163,
+      "prior_variance": 0.253501,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 3.1385,
+      "prior_variance": 0.327621,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_score": 1.328,
+      "prior_variance": 0.270765,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -2.2345,
+      "prior_variance": 0.425936,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/gloucester",
+      "prior_score": 0.7364,
+      "prior_variance": 0.340675,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -2.2311,
+      "prior_variance": 0.290416,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -1.954,
+      "prior_variance": 0.309478,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -0.1544,
+      "prior_variance": 0.41757,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -1.8884,
+      "prior_variance": 0.353957,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/lowerhutt",
+      "prior_score": -2.9968,
+      "prior_variance": 0.26132,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Aliot",
+      "path": "asia/pakistan/azad_kashmir/bagh/aliot",
+      "prior_score": -8.6037,
+      "prior_variance": 0.36243,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2267,
+  "timestamp": "2026-04-13T16:26:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 5.3137,
+      "prior_variance": 0.277405,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 2.556,
+      "prior_variance": 0.194891,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 2.9333,
+      "prior_variance": 0.250808,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.1396,
+      "prior_variance": 0.258219,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.1227,
+      "prior_variance": 0.228098,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.2203,
+      "prior_variance": 0.16526,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 0.8882,
+      "prior_variance": 0.276322,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": 0.0391,
+      "prior_variance": 0.33805,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.2377,
+      "prior_variance": 0.219063,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 2.1101,
+      "prior_variance": 0.240899,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 3.0351,
+      "prior_variance": 0.227745,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 2.0111,
+      "prior_variance": 0.170804,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -3.2838,
+      "prior_variance": 0.404594,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -3.6205,
+      "prior_variance": 0.610729,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Weilburg",
+      "path": "europe/germany/hessen/weilburg",
+      "prior_score": -1.4062,
+      "prior_variance": 0.251214,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.7261,
+      "prior_variance": 0.238741,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.0072,
+      "prior_variance": 0.246989,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_score": -1.3839,
+      "prior_variance": 0.346354,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -1.6999,
+      "prior_variance": 0.195811,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -0.4921,
+      "prior_variance": 0.269104,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -0.2781,
+      "prior_variance": 0.255842,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -2.0271,
+      "prior_variance": 0.225524,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.4624,
+      "prior_variance": 0.287545,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -4.1951,
+      "prior_variance": 0.228552,
+      "prior_n": 6
+    }
+  ]
+}

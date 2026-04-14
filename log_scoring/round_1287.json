@@ -1,0 +1,200 @@
+{
+  "round": 1287,
+  "timestamp": "2026-04-12T22:19:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_natio",
+      "prior_rank": 3038,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Guyana",
+      "path": "southamerica/guyana",
+      "prior_rank": 6996,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_rank": 6158,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_rank": 7614,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_rank": 6056,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_rank": 7421,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_rank": 7516,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_rank": 4696,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene/tepelena",
+      "prior_rank": 7857,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_rank": 6968,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_rank": 7657,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_rank": 6585,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_rank": 7933,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_rank": 7768,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Radford",
+      "path": "northamerica/unitedstates/virginia/radford",
+      "prior_rank": 7808,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_rank": 7738,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "neguac",
+      "path": "northamerica/canada/newbrunswick/neguac",
+      "prior_rank": 7934,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_rank": 7847,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_rank": 8150,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_rank": 7888,
+      "prior_wins": 15,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "ocotal,nueva segovia",
+      "path": "northamerica/nicaragua/ocotalnueva_segov",
+      "prior_rank": 6860,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_rank": 7037,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_rank": 7026,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_rank": 6815,
+      "prior_wins": 12,
+      "prior_n": 2
+    }
+  ]
+}

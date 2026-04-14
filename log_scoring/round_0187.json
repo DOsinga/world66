@@ -1,0 +1,200 @@
+{
+  "round": 187,
+  "timestamp": "2026-04-12T08:47:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tiro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Central Coast",
+      "path": "northamerica/unitedstates/california/centralcoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_mu": 23.1995,
+      "prior_sigma": 6.0011,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "South Carolina",
+      "path": "northamerica/unitedstates/southcarolina",
+      "prior_mu": 22.0427,
+      "prior_sigma": 4.8484,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/raumati_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Montrose",
+      "path": "northamerica/unitedstates/texas/houston/montrose",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "LaGrange",
+      "path": "northamerica/unitedstates/indiana/lagrange",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Sierra Leone",
+      "path": "africa/sierraleone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2213,
+  "timestamp": "2026-04-13T16:20:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 7.16,
+      "prior_variance": 0.503884,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.6681,
+      "prior_variance": 0.349352,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 0.8031,
+      "prior_variance": 0.276849,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 1.7601,
+      "prior_variance": 0.227311,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.4887,
+      "prior_variance": 0.203803,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.6501,
+      "prior_variance": 0.26021,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_score": 0.2847,
+      "prior_variance": 0.218438,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_score": -1.8446,
+      "prior_variance": 0.210536,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -2.0208,
+      "prior_variance": 0.22276,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Manzanares",
+      "path": "europe/spain/la_mancha/manzanares",
+      "prior_score": -1.9992,
+      "prior_variance": 0.246926,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Voorburg",
+      "path": "europe/netherlands/voorburg",
+      "prior_score": -2.9066,
+      "prior_variance": 0.212191,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/lowerhutt",
+      "prior_score": -2.3091,
+      "prior_variance": 0.223229,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -2.4868,
+      "prior_variance": 0.258853,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -7.5074,
+      "prior_variance": 0.477362,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -4.9386,
+      "prior_variance": 0.211445,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -4.0084,
+      "prior_variance": 0.374548,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -3.5921,
+      "prior_variance": 0.257155,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Maitland",
+      "path": "northamerica/unitedstates/florida/maitland",
+      "prior_score": -4.0504,
+      "prior_variance": 0.264465,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -2.8699,
+      "prior_variance": 0.20401,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.7554,
+      "prior_variance": 0.243871,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -5.2729,
+      "prior_variance": 0.266145,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -6.0629,
+      "prior_variance": 0.452937,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_score": -5.9375,
+      "prior_variance": 0.251351,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hannahurfri",
+      "path": "asia/china/hainanisland/hannahurfri",
+      "prior_score": -4.9236,
+      "prior_variance": 0.302794,
+      "prior_n": 5
+    }
+  ]
+}

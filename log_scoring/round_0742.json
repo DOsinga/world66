@@ -1,0 +1,200 @@
+{
+  "round": 742,
+  "timestamp": "2026-04-12T10:46:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_mu": 25.7595,
+      "prior_sigma": 6.3749,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Las Palmas",
+      "path": "europe/spain/canaryislands/crancanaria/las_palmas",
+      "prior_mu": 22.7612,
+      "prior_sigma": 4.5282,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_mu": 22.4314,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Valpolicella",
+      "path": "europe/italy/veneto/valpolicella",
+      "prior_mu": 22.8107,
+      "prior_sigma": 5.9094,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_mu": 22.1684,
+      "prior_sigma": 4.4778,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ardeche",
+      "path": "europe/france/midi/ardeche",
+      "prior_mu": 21.4423,
+      "prior_sigma": 3.7681,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_mu": 21.0279,
+      "prior_sigma": 3.9592,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_mu": 21.7266,
+      "prior_sigma": 4.6837,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_mu": 18.0953,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 21.1972,
+      "prior_sigma": 2.2225,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_mu": 22.6894,
+      "prior_sigma": 5.3713,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_mu": 22.4247,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_mu": 22.3908,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_mu": 18.1346,
+      "prior_sigma": 6.6975,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_mu": 24.7089,
+      "prior_sigma": 5.2021,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_mu": 21.3487,
+      "prior_sigma": 3.9109,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_mu": 17.8849,
+      "prior_sigma": 6.7534,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_mu": 21.218,
+      "prior_sigma": 4.3856,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_mu": 22.1781,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_mu": 18.0602,
+      "prior_sigma": 6.6888,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequen",
+      "prior_mu": 21.3955,
+      "prior_sigma": 3.7158,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_mu": 21.3357,
+      "prior_sigma": 3.8053,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_mu": 22.6267,
+      "prior_sigma": 5.8887,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Cha Jaind Wala Muza Yaroo Khosa Aamir Khan",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_jaind_wala_muz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1715,
+  "timestamp": "2026-04-13T10:44:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 14.1051,
+      "prior_variance": 1.248283,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bolivia",
+      "path": "southamerica/bolivia",
+      "prior_score": 7.0507,
+      "prior_variance": 0.462465,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 7.6722,
+      "prior_variance": 0.331576,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/wellington",
+      "prior_score": 5.7938,
+      "prior_variance": 0.420011,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_score": 5.0599,
+      "prior_variance": 0.431963,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 6.5099,
+      "prior_variance": 0.485783,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ebisu",
+      "path": "asia/japan/tokyo/ebisu",
+      "prior_score": 3.4327,
+      "prior_variance": 0.468392,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_score": 3.8055,
+      "prior_variance": 0.316238,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_score": 2.3144,
+      "prior_variance": 0.433532,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_score": 5.9944,
+      "prior_variance": 0.37777,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 2.7997,
+      "prior_variance": 0.329573,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Auvergne",
+      "path": "europe/france/centre/auvergne",
+      "prior_score": 2.8234,
+      "prior_variance": 0.313602,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 4.2347,
+      "prior_variance": 0.306031,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.3389,
+      "prior_variance": 0.302682,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 2.2709,
+      "prior_variance": 0.32451,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_score": 2.8761,
+      "prior_variance": 0.329843,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": -0.1991,
+      "prior_variance": 0.412143,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.0934,
+      "prior_variance": 0.322945,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/coventry",
+      "prior_score": -2.3338,
+      "prior_variance": 0.47567,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
+      "prior_score": -2.9351,
+      "prior_variance": 0.372952,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -3.2352,
+      "prior_variance": 0.314267,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -5.4209,
+      "prior_variance": 0.445971,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Powell",
+      "path": "northamerica/unitedstates/wyoming/powell",
+      "prior_score": -4.0265,
+      "prior_variance": 0.362614,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_score": -7.6637,
+      "prior_variance": 0.565734,
+      "prior_n": 4
+    }
+  ]
+}

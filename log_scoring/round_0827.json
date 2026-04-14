@@ -1,0 +1,200 @@
+{
+  "round": 827,
+  "timestamp": "2026-04-12T14:35:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Martinique",
+      "path": "northamerica/thecaribbean/martinique",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/dunedin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cumbria",
+      "path": "europe/unitedkingdom/cumbria",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -1.8307,
+      "prior_variance": 0.436856,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Gurabo",
+      "path": "northamerica/puertorico/gurabo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

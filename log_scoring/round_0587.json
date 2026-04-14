@@ -1,0 +1,200 @@
+{
+  "round": 587,
+  "timestamp": "2026-04-12T10:38:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_mu": 24.9299,
+      "prior_sigma": 5.0992,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_mu": 22.3739,
+      "prior_sigma": 5.948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_mu": 23.0498,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_mu": 22.3513,
+      "prior_sigma": 5.946,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_mu": 23.1397,
+      "prior_sigma": 5.7488,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_mu": 21.9515,
+      "prior_sigma": 4.7995,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_mu": 21.8163,
+      "prior_sigma": 4.6657,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_mu": 22.5361,
+      "prior_sigma": 5.6905,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.7634,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_mu": 21.8945,
+      "prior_sigma": 4.7118,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_mu": 21.2812,
+      "prior_sigma": 4.7168,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_mu": 22.456,
+      "prior_sigma": 5.7752,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Thuburbo majus",
+      "path": "africa/tunisia/thuburbomajus",
+      "prior_mu": 22.4724,
+      "prior_sigma": 5.9106,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_mu": 22.3952,
+      "prior_sigma": 5.9443,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Dkhila",
+      "path": "africa/tunisia/dkhila",
+      "prior_mu": 20.6215,
+      "prior_sigma": 4.4027,
+      "prior_n": 2
+    }
+  ]
+}

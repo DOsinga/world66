@@ -1,0 +1,200 @@
+{
+  "round": 1148,
+  "timestamp": "2026-04-12T22:12:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vietnam",
+      "path": "asia/vietnam",
+      "prior_rank": 950,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_rank": 1620,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_rank": 593,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_rank": 998,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_rank": 2404,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/wellington",
+      "prior_rank": 1403,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_rank": 4019,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Batumi",
+      "path": "europe/georgia/batumi",
+      "prior_rank": 3154,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_rank": 2290,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_rank": 1200,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_rank": 1252,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_rank": 567,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_rank": 733,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_rank": 368,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_rank": 757,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_rank": 2194,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_rank": 945,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_rank": 1458,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Northern Cyprus",
+      "path": "asia/cyprus/northerncyprus",
+      "prior_rank": 2697,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_rank": 490,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Plata",
+      "path": "northamerica/dominicanrepublic/puertoplata",
+      "prior_rank": 895,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_rank": 2436,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_rank": 2672,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_rank": 3866,
+      "prior_wins": 24,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2219,
+  "timestamp": "2026-04-13T16:21:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Chang",
+      "path": "asia/thailand/kohchang",
+      "prior_score": 5.683,
+      "prior_variance": 0.252246,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 4.2594,
+      "prior_variance": 0.308589,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 4.9201,
+      "prior_variance": 0.310532,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 4.807,
+      "prior_variance": 0.271618,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 2.1023,
+      "prior_variance": 0.246848,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
+      "prior_score": 3.2701,
+      "prior_variance": 0.221122,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 4.3207,
+      "prior_variance": 0.247542,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/liverpool",
+      "prior_score": 3.2235,
+      "prior_variance": 0.244141,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": 0.232,
+      "prior_variance": 0.248951,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 0.8804,
+      "prior_variance": 0.252171,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.1324,
+      "prior_variance": 0.213323,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.3821,
+      "prior_variance": 0.243416,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "North Carolina",
+      "path": "northamerica/unitedstates/northcarolina",
+      "prior_score": 1.733,
+      "prior_variance": 0.200854,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -3.6576,
+      "prior_variance": 0.326384,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/eastern_england/berkhampsted",
+      "prior_score": -3.2419,
+      "prior_variance": 0.27271,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -2.8371,
+      "prior_variance": 0.250464,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.5994,
+      "prior_variance": 0.228503,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sao Luis",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 1.4627,
+      "prior_variance": 0.239473,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Jhansi",
+      "path": "asia/india/uttarpradesh/jhansi",
+      "prior_score": -1.5399,
+      "prior_variance": 0.248091,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -1.5714,
+      "prior_variance": 0.262488,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -8.3143,
+      "prior_variance": 0.39136,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Port-au-Prince",
+      "path": "northamerica/haiti/portauprince",
+      "prior_score": -8.2856,
+      "prior_variance": 0.607252,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -5.1616,
+      "prior_variance": 0.280363,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -8.756,
+      "prior_variance": 0.505876,
+      "prior_n": 5
+    }
+  ]
+}

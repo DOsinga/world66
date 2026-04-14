@@ -1,0 +1,200 @@
+{
+  "round": 313,
+  "timestamp": "2026-04-12T09:11:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_mu": 22.6941,
+      "prior_sigma": 5.8359,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Schoelcher",
+      "path": "northamerica/martinique/schoelcher",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "West caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Shanxi Province",
+      "path": "asia/china/shanxiprovince",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_mu": 22.1603,
+      "prior_sigma": 4.685,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/solihull",
+      "prior_mu": 21.7758,
+      "prior_sigma": 4.6002,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_mu": 22.9451,
+      "prior_sigma": 5.6107,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/florida/arcadia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Chowchilla",
+      "path": "northamerica/unitedstates/california/centralvalley/chowchilla",
+      "prior_mu": 22.1977,
+      "prior_sigma": 5.7734,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1063,
+  "timestamp": "2026-04-12T22:07:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karnataka",
+      "path": "asia/india/karnataka",
+      "prior_rank": 1178,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_rank": 1353,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tassili n\u2019ajjer",
+      "path": "africa/algeria/tassilinajjer",
+      "prior_rank": 3801,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_rank": 1201,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bay of Plenty",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty",
+      "prior_rank": 1735,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_rank": 3339,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_rank": 2075,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_rank": 1525,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_rank": 1141,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Camuy caves",
+      "path": "northamerica/puertorico/camuycaves",
+      "prior_rank": 2494,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/waikato",
+      "prior_rank": 1540,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/bowness",
+      "prior_rank": 1153,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_rank": 2329,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_rank": 823,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_rank": 666,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_rank": 2778,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_rank": 2889,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_rank": 1186,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_rank": 2960,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Friedrichshain",
+      "path": "europe/germany/berlin/friedrichshain",
+      "prior_rank": 2931,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_rank": 2949,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
+      "prior_rank": 2792,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_rank": 2325,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Finalese park",
+      "path": "europe/italy/liguria/finalesepark",
+      "prior_rank": 2416,
+      "prior_wins": 30,
+      "prior_n": 2
+    }
+  ]
+}

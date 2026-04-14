@@ -1,0 +1,200 @@
+{
+  "round": 1065,
+  "timestamp": "2026-04-12T22:07:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_rank": 5979,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_rank": 3885,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_rank": 6135,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_rank": 7571,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_rank": 6564,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/eastern_england/ware",
+      "prior_rank": 7084,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_rank": 7830,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_rank": 7624,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mahlow",
+      "path": "europe/germany/brandenburg/mahlow",
+      "prior_rank": 8103,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Varlosen",
+      "path": "europe/germany/lowersaxony/varlosen",
+      "prior_rank": 8104,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_rank": 7106,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_rank": 8024,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_rank": 8101,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_rank": 7487,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_rank": 7360,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_rank": 6737,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Victorias City",
+      "path": "asia/philippines/negrosisland/victorias_city",
+      "prior_rank": 7650,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_rank": 7050,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_rank": 7772,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_rank": 7061,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_rank": 2711,
+      "prior_wins": 45,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_rank": 5791,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_rank": 7287,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Port-au-Prince",
+      "path": "northamerica/haiti/portauprince",
+      "prior_rank": 7324,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

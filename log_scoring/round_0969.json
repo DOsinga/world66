@@ -1,0 +1,200 @@
+{
+  "round": 969,
+  "timestamp": "2026-04-12T16:09:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_rank": 1858,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_eus/bilbao",
+      "prior_rank": 509,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Martinique",
+      "path": "northamerica/thecaribbean/martinique",
+      "prior_rank": 331,
+      "prior_wins": 86,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Aran islands",
+      "path": "europe/ireland/aranislands",
+      "prior_rank": 1038,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_rank": 2089,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_rank": 3207,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_rank": 5063,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_rank": 2012,
+      "prior_wins": 118,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_rank": 4225,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_rank": 6131,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ghana",
+      "path": "africa/ghana",
+      "prior_rank": 6789,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_rank": 4632,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Roxas City",
+      "path": "asia/philippines/manila/roxas_city",
+      "prior_rank": 6076,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_rank": 3123,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_rank": 4686,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_rank": 5645,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_rank": 7755,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Midway Islands",
+      "path": "australiaandpacific/midwayislands",
+      "prior_rank": 5452,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_rank": 7688,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pirules",
+      "path": "northamerica/mexico/yucatan/pirules",
+      "prior_rank": 7362,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Havre",
+      "path": "northamerica/unitedstates/montana/havre",
+      "prior_rank": 7509,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_rank": 7720,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_rank": 3317,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_rank": 6423,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

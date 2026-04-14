@@ -1,0 +1,200 @@
+{
+  "round": 545,
+  "timestamp": "2026-04-12T10:36:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Scotland",
+      "path": "europe/unitedkingdom/scotland",
+      "prior_mu": 22.6254,
+      "prior_sigma": 5.6656,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Skye",
+      "path": "europe/unitedkingdom/scotland/skye",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Arran",
+      "path": "europe/unitedkingdom/scotland/arran",
+      "prior_mu": 21.9137,
+      "prior_sigma": 4.1549,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_mu": 22.3606,
+      "prior_sigma": 5.7544,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_mu": 23.6331,
+      "prior_sigma": 4.682,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/glastonbury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "South Pennines",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/south_pennines_yo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/buxton",
+      "prior_mu": 23.1286,
+      "prior_sigma": 5.5383,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/gloucestershire",
+      "prior_mu": 21.9367,
+      "prior_sigma": 4.8367,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/taunton",
+      "prior_mu": 21.5481,
+      "prior_sigma": 4.5781,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/chichester",
+      "prior_mu": 22.8493,
+      "prior_sigma": 5.605,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/chichester",
+      "prior_mu": 22.4051,
+      "prior_sigma": 5.5528,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devizes",
+      "prior_mu": 21.7661,
+      "prior_sigma": 4.7289,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_notting/lincoln",
+      "prior_mu": 22.6135,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_mu": 22.3523,
+      "prior_sigma": 5.534,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_notting/skegness",
+      "prior_mu": 18.8249,
+      "prior_sigma": 2.5613,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "United Kingdom",
+      "path": "europe/unitedkingdom",
+      "prior_mu": 22.681,
+      "prior_sigma": 5.7219,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/stafford",
+      "prior_mu": 22.8225,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/menston",
+      "prior_mu": 22.4026,
+      "prior_sigma": 5.5621,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/stourbridge",
+      "prior_mu": 22.0684,
+      "prior_sigma": 5.3288,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/wigan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_mu": 16.5192,
+      "prior_sigma": 6.4549,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/eastern_england/harlow",
+      "prior_mu": 21.5197,
+      "prior_sigma": 4.5374,
+      "prior_n": 2
+    }
+  ]
+}

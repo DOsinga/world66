@@ -1,0 +1,200 @@
+{
+  "round": 1832,
+  "timestamp": "2026-04-13T10:55:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_score": 11.4217,
+      "prior_variance": 0.633625,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 8.7574,
+      "prior_variance": 0.421437,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 2.4672,
+      "prior_variance": 0.349257,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 4.1623,
+      "prior_variance": 0.304979,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 3.1281,
+      "prior_variance": 0.315255,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_score": 1.3251,
+      "prior_variance": 0.331692,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tonsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 1.9188,
+      "prior_variance": 0.26335,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Fujian Province",
+      "path": "asia/china/fujianprovince",
+      "prior_score": 0.3105,
+      "prior_variance": 0.330971,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.766,
+      "prior_variance": 0.344792,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kassel",
+      "path": "europe/germany/hesse/kassel",
+      "prior_score": 0.1213,
+      "prior_variance": 0.244345,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -1.8567,
+      "prior_variance": 0.462486,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -1.1369,
+      "prior_variance": 0.247472,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -2.1606,
+      "prior_variance": 0.300499,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kalimantan",
+      "path": "asia/indonesia/kalimantan",
+      "prior_score": -1.3956,
+      "prior_variance": 0.274588,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -4.7416,
+      "prior_variance": 0.432391,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -3.3382,
+      "prior_variance": 0.361146,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -4.1416,
+      "prior_variance": 0.34777,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_score": -2.809,
+      "prior_variance": 0.394237,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -4.5059,
+      "prior_variance": 0.383454,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "mourin",
+      "path": "northamerica/trinidadandtobago/mourin",
+      "prior_score": -6.99,
+      "prior_variance": 0.607373,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Santa Rita",
+      "path": "southamerica/brazil/santa_rita",
+      "prior_score": -6.7477,
+      "prior_variance": 0.41506,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sahagun Hidalgo",
+      "path": "northamerica/mexico/yucatan/sahagunhidalgo",
+      "prior_score": -6.3788,
+      "prior_variance": 0.306117,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -8.7093,
+      "prior_variance": 0.393498,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "kana mohri",
+      "path": "asia/pakistan/azad_kashmir/bagh/kana_mohri_1",
+      "prior_score": -10.5086,
+      "prior_variance": 0.590768,
+      "prior_n": 4
+    }
+  ]
+}

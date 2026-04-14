@@ -1,0 +1,200 @@
+{
+  "round": 1699,
+  "timestamp": "2026-04-13T10:43:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 8.4809,
+      "prior_variance": 0.376711,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "New Town",
+      "path": "europe/unitedkingdom/scotland/edinburgh/newtown_1",
+      "prior_score": 8.5272,
+      "prior_variance": 0.459836,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 2.3125,
+      "prior_variance": 0.423384,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Navarre",
+      "path": "europe/spain/navarre",
+      "prior_score": 4.7552,
+      "prior_variance": 0.334071,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 2.6453,
+      "prior_variance": 0.296152,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.0715,
+      "prior_variance": 0.501381,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territor/carcross",
+      "prior_score": 1.0962,
+      "prior_variance": 0.422915,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": 0.6275,
+      "prior_variance": 0.31538,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.8351,
+      "prior_variance": 0.328706,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.4842,
+      "prior_variance": 0.347306,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_score": -2.8114,
+      "prior_variance": 0.252982,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -5.3535,
+      "prior_variance": 0.392592,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/mumbai/nagpur",
+      "prior_score": -4.114,
+      "prior_variance": 0.330335,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -2.6991,
+      "prior_variance": 0.343084,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Surco",
+      "path": "southamerica/peru/surco",
+      "prior_score": -4.1946,
+      "prior_variance": 0.722487,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -3.6898,
+      "prior_variance": 0.378575,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -3.7253,
+      "prior_variance": 0.412439,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -2.4463,
+      "prior_variance": 0.30451,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -5.6528,
+      "prior_variance": 0.41785,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -5.4623,
+      "prior_variance": 0.517596,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Upper Montclair",
+      "path": "northamerica/unitedstates/newjersey/uppermontclair",
+      "prior_score": -5.7422,
+      "prior_variance": 0.326749,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.7733,
+      "prior_variance": 0.291349,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gronau",
+      "path": "europe/germany/northrhinewestphalia/gronau",
+      "prior_score": -4.362,
+      "prior_variance": 0.385331,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -7.647,
+      "prior_variance": 0.440166,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1442,
+  "timestamp": "2026-04-12T22:27:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Norway",
+      "path": "europe/norway",
+      "prior_rank": 5899,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_rank": 5197,
+      "prior_wins": 38,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_rank": 3269,
+      "prior_wins": 52,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_rank": 3025,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_rank": 5323,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_rank": 5139,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_rank": 5004,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Simeiz",
+      "path": "europe/ukraine/crimea/simeiz",
+      "prior_rank": 1838,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_rank": 5132,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Millaa Millaa",
+      "path": "australiaandpacific/australia/queensland/millaamillaa",
+      "prior_rank": 4535,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_rank": 5879,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Mount Dora",
+      "path": "northamerica/unitedstates/florida/mount_dora",
+      "prior_rank": 3587,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_rank": 2732,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_rank": 5550,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_rank": 4294,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_rank": 4918,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junctio",
+      "prior_rank": 2994,
+      "prior_wins": 53,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_rank": 5104,
+      "prior_wins": 53,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_rank": 6017,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "West Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles/westlosangeles",
+      "prior_rank": 4140,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/saratoga",
+      "prior_rank": 4561,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_rank": 4562,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/scarborough",
+      "prior_rank": 2196,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pendle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle",
+      "prior_rank": 6387,
+      "prior_wins": 22,
+      "prior_n": 3
+    }
+  ]
+}

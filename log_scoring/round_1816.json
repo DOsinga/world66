@@ -1,0 +1,200 @@
+{
+  "round": 1816,
+  "timestamp": "2026-04-13T10:54:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 9.4025,
+      "prior_variance": 0.351634,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 8.4407,
+      "prior_variance": 0.435065,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Algarve",
+      "path": "europe/portugal/algarve",
+      "prior_score": 7.3935,
+      "prior_variance": 0.485534,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 7.3167,
+      "prior_variance": 0.362195,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 6.5541,
+      "prior_variance": 0.383443,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 6.7171,
+      "prior_variance": 0.342134,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 7.3411,
+      "prior_variance": 0.290039,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 4.6523,
+      "prior_variance": 0.286366,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Gulf of Papagayo",
+      "path": "northamerica/costarica/gulf_of_papagayo",
+      "prior_score": 5.3917,
+      "prior_variance": 0.385561,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 6.5467,
+      "prior_variance": 0.333704,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 1.0912,
+      "prior_variance": 0.319794,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "The Peninsula of O Morrazo",
+      "path": "europe/spain/galicia/the_peninsula_of_o",
+      "prior_score": 2.7033,
+      "prior_variance": 0.285118,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": -1.673,
+      "prior_variance": 1.466868,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Straume",
+      "path": "europe/norway/straume",
+      "prior_score": -1.5437,
+      "prior_variance": 0.322213,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": 0.0941,
+      "prior_variance": 0.24044,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_score": 1.0327,
+      "prior_variance": 0.318544,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -0.5815,
+      "prior_variance": 0.261218,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -3.3909,
+      "prior_variance": 0.453295,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -6.574,
+      "prior_variance": 0.307939,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Marion",
+      "path": "australiaandpacific/australia/southaustralia/marion",
+      "prior_score": -5.3313,
+      "prior_variance": 0.43699,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -4.2969,
+      "prior_variance": 0.288536,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.2221,
+      "prior_variance": 0.371299,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Milton",
+      "path": "northamerica/unitedstates/wisconsin/milton",
+      "prior_score": -6.9824,
+      "prior_variance": 0.495144,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Penas Blancas",
+      "path": "northamerica/nicaragua/penas_blancas",
+      "prior_score": -6.8438,
+      "prior_variance": 0.404334,
+      "prior_n": 4
+    }
+  ]
+}

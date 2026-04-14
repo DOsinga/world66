@@ -1,0 +1,200 @@
+{
+  "round": 917,
+  "timestamp": "2026-04-12T14:49:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 9.7938,
+      "prior_variance": 10.156713,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 11.6317,
+      "prior_variance": 3.040612,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_score": 5.7181,
+      "prior_variance": 1.7674,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 5.0568,
+      "prior_variance": 1.664151,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 4.9148,
+      "prior_variance": 1.295264,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.3566,
+      "prior_variance": 1.690194,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -1.1151,
+      "prior_variance": 1.184415,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 4.1879,
+      "prior_variance": 1.536792,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Windward",
+      "path": "northamerica/grenada/carriacou/windward",
+      "prior_score": 6.5275,
+      "prior_variance": 1.578542,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 2.3539,
+      "prior_variance": 1.482003,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
+      "prior_score": 1.8498,
+      "prior_variance": 1.337271,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/combe_martin",
+      "prior_score": 0.5933,
+      "prior_variance": 1.723881,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.4083,
+      "prior_variance": 1.582273,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -0.1808,
+      "prior_variance": 1.330788,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bay View",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
+      "prior_score": -4.541,
+      "prior_variance": 0.248439,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.8733,
+      "prior_variance": 1.404095,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.3372,
+      "prior_variance": 0.753553,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": 0.3265,
+      "prior_variance": 1.818092,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_score": -4.6251,
+      "prior_variance": 1.211442,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -1.233,
+      "prior_variance": 1.486212,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -1.7636,
+      "prior_variance": 1.317089,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kollam",
+      "path": "asia/oman/musandampeninsula/kollam",
+      "prior_score": -5.9729,
+      "prior_variance": 1.280707,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -4.4148,
+      "prior_variance": 2.420148,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -10.5641,
+      "prior_variance": 8.829742,
+      "prior_n": 2
+    }
+  ]
+}

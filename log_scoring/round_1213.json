@@ -1,0 +1,200 @@
+{
+  "round": 1213,
+  "timestamp": "2026-04-12T22:15:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_rank": 4398,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_rank": 4319,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_rank": 6167,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_rank": 5710,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "{Sunny Isles}",
+      "path": "northamerica/unitedstates/florida/sunny_isles",
+      "prior_rank": 5478,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_rank": 5010,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_rank": 6688,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_rank": 4803,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_rank": 3387,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Carolina",
+      "path": "northamerica/puertorico/carolina",
+      "prior_rank": 5702,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/vancouver/burnaby",
+      "prior_rank": 4543,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_rank": 6074,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_rank": 6137,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_rank": 5836,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/wakefield",
+      "prior_rank": 6453,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_rank": 4541,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_rank": 6222,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Guadalupe",
+      "path": "northamerica/costarica/guadalupe",
+      "prior_rank": 7461,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_rank": 7565,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_rank": 6562,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_rank": 5596,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Alega",
+      "path": "australiaandpacific/americansamoa/alega",
+      "prior_rank": 6210,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Laguna",
+      "path": "northamerica/unitedstates/newmexico/laguna",
+      "prior_rank": 6326,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_rank": 3848,
+      "prior_wins": 24,
+      "prior_n": 2
+    }
+  ]
+}

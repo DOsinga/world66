@@ -1,0 +1,200 @@
+{
+  "round": 59,
+  "timestamp": "2026-04-11T19:26:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_mu": 23.31,
+      "prior_sigma": 4.65,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Finland",
+      "path": "europe/finland",
+      "prior_mu": 29.21,
+      "prior_sigma": 7.19,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_mu": 22.6,
+      "prior_sigma": 3.92,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_mu": 23.07,
+      "prior_sigma": 4.66,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_mu": 22.09,
+      "prior_sigma": 4.26,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_mu": 21.22,
+      "prior_sigma": 4.63,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_mu": 22.93,
+      "prior_sigma": 4.24,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_mu": 22.05,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_mu": 23.74,
+      "prior_sigma": 5.85,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_mu": 21.23,
+      "prior_sigma": 4.3,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Aguadilla",
+      "path": "northamerica/puertorico/aguadilla",
+      "prior_mu": 22.26,
+      "prior_sigma": 5.77,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_mu": 21.15,
+      "prior_sigma": 3.88,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_mu": 21.61,
+      "prior_sigma": 4.27,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sherborne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/sherborne",
+      "prior_mu": 21.83,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_mu": 20.77,
+      "prior_sigma": 2.99,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_mu": 22.12,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_mu": 21.78,
+      "prior_sigma": 4.57,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_mu": 21.42,
+      "prior_sigma": 4.56,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_mu": 16.63,
+      "prior_sigma": 6.26,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Tibbi Qaisrani",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
+      "prior_mu": 10.57,
+      "prior_sigma": 4.46,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jhook Masoo",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/jhook_masoo",
+      "prior_mu": 18.34,
+      "prior_sigma": 6.76,
+      "prior_n": 1
+    }
+  ]
+}

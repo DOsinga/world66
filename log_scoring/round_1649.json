@@ -1,0 +1,200 @@
+{
+  "round": 1649,
+  "timestamp": "2026-04-13T10:38:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.043,
+      "prior_variance": 0.422404,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": 0.6747,
+      "prior_variance": 0.306665,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -2.0719,
+      "prior_variance": 0.339503,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.6257,
+      "prior_variance": 0.438968,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": 0.0241,
+      "prior_variance": 0.345652,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -3.8078,
+      "prior_variance": 0.43531,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Uchhali",
+      "path": "asia/pakistan/soon_valley/uchhali",
+      "prior_score": -2.3257,
+      "prior_variance": 0.385368,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_score": -2.0856,
+      "prior_variance": 0.307232,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -3.5763,
+      "prior_variance": 0.394527,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -0.6299,
+      "prior_variance": 0.321026,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -3.2728,
+      "prior_variance": 0.547367,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -2.1752,
+      "prior_variance": 0.363978,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -2.2241,
+      "prior_variance": 0.435725,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Campobello Island",
+      "path": "northamerica/canada/newbrunswick/campobello_island",
+      "prior_score": -0.7237,
+      "prior_variance": 0.337781,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_score": -4.401,
+      "prior_variance": 0.371506,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -3.5449,
+      "prior_variance": 0.331622,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -3.4147,
+      "prior_variance": 0.293163,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "West Orange",
+      "path": "northamerica/unitedstates/newjersey/westorange",
+      "prior_score": -4.8957,
+      "prior_variance": 0.394066,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -3.2223,
+      "prior_variance": 0.300628,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire",
+      "prior_score": -2.3315,
+      "prior_variance": 0.374581,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -3.6539,
+      "prior_variance": 0.291357,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/sabden",
+      "prior_score": -4.3252,
+      "prior_variance": 0.34531,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -4.6631,
+      "prior_variance": 0.396418,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "El Ejido",
+      "path": "europe/spain/andalucia/elejido",
+      "prior_score": -4.0466,
+      "prior_variance": 0.384783,
+      "prior_n": 5
+    }
+  ]
+}

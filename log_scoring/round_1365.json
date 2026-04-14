@@ -1,0 +1,200 @@
+{
+  "round": 1365,
+  "timestamp": "2026-04-12T22:23:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Trabuco Canyon",
+      "path": "northamerica/unitedstates/california/orangecounty/trabucocanyon",
+      "prior_rank": 7291,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_rank": 7837,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_rank": 6881,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_rank": 7530,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
+      "prior_rank": 7631,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_rank": 7079,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_rank": 7526,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_rank": 7065,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_rank": 7190,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_rank": 7051,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_rank": 7854,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_rank": 7691,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_rank": 6719,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_rank": 7647,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_rank": 6228,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indian",
+      "prior_rank": 7822,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_rank": 7434,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_rank": 6642,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_rank": 5092,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/yucatan/guerreronegro",
+      "prior_rank": 7625,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_rank": 3332,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_rank": 7428,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Maykop",
+      "path": "europe/russia/krasnodar/maykop",
+      "prior_rank": 6177,
+      "prior_wins": 30,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal_1",
+      "prior_rank": 7674,
+      "prior_wins": 12,
+      "prior_n": 3
+    }
+  ]
+}

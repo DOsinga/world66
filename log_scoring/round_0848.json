@@ -1,0 +1,200 @@
+{
+  "round": 848,
+  "timestamp": "2026-04-12T14:44:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 11.8268,
+      "prior_variance": 8.762403,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/wanaka",
+      "prior_score": 6.4196,
+      "prior_variance": 1.454442,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 7.3013,
+      "prior_variance": 12.895862,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Liguria",
+      "path": "europe/italy/liguria",
+      "prior_score": 4.8259,
+      "prior_variance": 1.409821,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 5.208,
+      "prior_variance": 1.698589,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 7.6289,
+      "prior_variance": 1.613962,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 10.2146,
+      "prior_variance": 1.851313,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 7.8644,
+      "prior_variance": 1.446301,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 3.9039,
+      "prior_variance": 0.997578,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.7623,
+      "prior_variance": 1.809678,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": 3.0498,
+      "prior_variance": 1.673068,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": 1.3909,
+      "prior_variance": 1.229237,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.114,
+      "prior_variance": 1.453286,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lengwe National Park",
+      "path": "africa/malawi/lengwe_national_pa",
+      "prior_score": 0.81,
+      "prior_variance": 1.782902,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 2.2277,
+      "prior_variance": 1.640182,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -1.4366,
+      "prior_variance": 1.188222,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -3.8804,
+      "prior_variance": 1.85557,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.0891,
+      "prior_variance": 1.197216,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -4.6616,
+      "prior_variance": 0.687463,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -7.5802,
+      "prior_variance": 12.15194,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.0414,
+      "prior_variance": 1.84802,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Orem",
+      "path": "northamerica/unitedstates/utah/orem",
+      "prior_score": -4.3885,
+      "prior_variance": 2.246996,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -10.5229,
+      "prior_variance": 3.487681,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Lula",
+      "path": "northamerica/unitedstates/mississippi/lula",
+      "prior_score": -11.7662,
+      "prior_variance": 3.313258,
+      "prior_n": 1
+    }
+  ]
+}

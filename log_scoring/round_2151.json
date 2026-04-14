@@ -1,0 +1,200 @@
+{
+  "round": 2151,
+  "timestamp": "2026-04-13T16:15:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Washington",
+      "path": "northamerica/unitedstates/washington",
+      "prior_score": 5.8007,
+      "prior_variance": 0.266087,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Marunouchi",
+      "path": "asia/japan/tokyo/marunouchi",
+      "prior_score": 2.8576,
+      "prior_variance": 0.312272,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bondi Beach",
+      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
+      "prior_score": 7.3731,
+      "prior_variance": 0.269909,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 8.4598,
+      "prior_variance": 0.384067,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bordeaux and the Atlantic Coast",
+      "path": "europe/france/aquitaine",
+      "prior_score": 6.8854,
+      "prior_variance": 0.4227,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.8639,
+      "prior_variance": 0.390058,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_score": 1.7504,
+      "prior_variance": 0.236549,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 3.9162,
+      "prior_variance": 0.242615,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.6903,
+      "prior_variance": 0.25761,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 2.5772,
+      "prior_variance": 0.315767,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national",
+      "prior_score": 4.3821,
+      "prior_variance": 0.438565,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_score": 5.1151,
+      "prior_variance": 0.256357,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/casadecampo/la_romana",
+      "prior_score": 4.0737,
+      "prior_variance": 0.29109,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 4.8525,
+      "prior_variance": 0.289837,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Soppong",
+      "path": "asia/thailand/maehongson/soppong",
+      "prior_score": 2.7594,
+      "prior_variance": 0.297993,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sumatra",
+      "path": "asia/indonesia/sumatra",
+      "prior_score": 1.2677,
+      "prior_variance": 0.270874,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Around Town",
+      "path": "northamerica/canada/alberta/calgary/aroundtown",
+      "prior_score": -0.1343,
+      "prior_variance": 0.249558,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/taunton",
+      "prior_score": 0.4956,
+      "prior_variance": 0.237616,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 2.2211,
+      "prior_variance": 0.2743,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": 1.364,
+      "prior_variance": 0.304003,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.2013,
+      "prior_variance": 0.2883,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 1.7562,
+      "prior_variance": 0.236735,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.1199,
+      "prior_variance": 0.261556,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -7.8736,
+      "prior_variance": 0.448875,
+      "prior_n": 5
+    }
+  ]
+}

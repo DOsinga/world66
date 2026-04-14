@@ -1,0 +1,200 @@
+{
+  "round": 1743,
+  "timestamp": "2026-04-13T10:47:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/sandiego/coronado",
+      "prior_score": 5.1747,
+      "prior_variance": 0.388292,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 6.9977,
+      "prior_variance": 0.3161,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_score": 4.7015,
+      "prior_variance": 0.474616,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington",
+      "prior_score": 3.2593,
+      "prior_variance": 0.354687,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Noumea",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_score": 4.7996,
+      "prior_variance": 0.293503,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_score": 1.8392,
+      "prior_variance": 0.293664,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kashmir",
+      "path": "asia/india/jammuandkashmir/kashmir",
+      "prior_score": 7.8715,
+      "prior_variance": 0.299182,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "The High Coast",
+      "path": "europe/sweden/the_high_coast",
+      "prior_score": 2.6828,
+      "prior_variance": 0.340953,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 3.841,
+      "prior_variance": 0.312876,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 3.2898,
+      "prior_variance": 0.371711,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -1.3313,
+      "prior_variance": 0.312932,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_score": 0.3477,
+      "prior_variance": 0.265783,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Brooklyn",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
+      "prior_score": 3.8658,
+      "prior_variance": 0.367411,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.141,
+      "prior_variance": 0.392844,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ventura County",
+      "path": "northamerica/unitedstates/california/ventura_county_ca",
+      "prior_score": 0.2626,
+      "prior_variance": 0.315379,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -0.7791,
+      "prior_variance": 0.324366,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.993,
+      "prior_variance": 0.344067,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/west_coast",
+      "prior_score": 4.0524,
+      "prior_variance": 0.358034,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.9209,
+      "prior_variance": 0.33054,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 2.303,
+      "prior_variance": 0.393018,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -0.4071,
+      "prior_variance": 0.317755,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -1.0791,
+      "prior_variance": 0.352979,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -2.7404,
+      "prior_variance": 0.329116,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -10.1127,
+      "prior_variance": 0.347723,
+      "prior_n": 6
+    }
+  ]
+}

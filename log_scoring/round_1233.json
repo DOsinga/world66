@@ -1,0 +1,200 @@
+{
+  "round": 1233,
+  "timestamp": "2026-04-12T22:16:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_rank": 3082,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_rank": 5708,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_rank": 3814,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hillsborough",
+      "path": "northamerica/saintvincentandthegrenadines/hillsborough",
+      "prior_rank": 3281,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_rank": 5364,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_rank": 6934,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_rank": 5365,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hundecove",
+      "path": "europe/albania/saranda/hundecove",
+      "prior_rank": 6003,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_rank": 3100,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_rank": 6675,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_rank": 6253,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_rank": 6472,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_rank": 7448,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_rank": 5052,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_rank": 6272,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Robertson NSW",
+      "path": "australiaandpacific/australia/newsouthwales/robertson_nsw",
+      "prior_rank": 4558,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_rank": 5874,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_rank": 5637,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/peterborough",
+      "prior_rank": 3664,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_rank": 4036,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/maryland/hanover",
+      "prior_rank": 7216,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Castro Valley",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/castrovalley",
+      "prior_rank": 4992,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nebraska",
+      "path": "northamerica/unitedstates/nebraska",
+      "prior_rank": 7468,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "lahore",
+      "path": "asia/pakistan/abbottabad/lahore",
+      "prior_rank": 5056,
+      "prior_wins": 19,
+      "prior_n": 2
+    }
+  ]
+}

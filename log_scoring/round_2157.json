@@ -1,0 +1,200 @@
+{
+  "round": 2157,
+  "timestamp": "2026-04-13T16:15:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 8.6088,
+      "prior_variance": 0.437126,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.9455,
+      "prior_variance": 0.246825,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 3.0421,
+      "prior_variance": 0.279797,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Margarita Island",
+      "path": "southamerica/venezuela/margaritaisland",
+      "prior_score": 1.8674,
+      "prior_variance": 0.265789,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island/koh_talu",
+      "prior_score": 4.3198,
+      "prior_variance": 0.264947,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Aragon",
+      "path": "europe/spain/aragon",
+      "prior_score": 2.7724,
+      "prior_variance": 0.227757,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 1.4483,
+      "prior_variance": 0.253466,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 1.3293,
+      "prior_variance": 0.227919,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Limburg",
+      "path": "europe/germany/hesse/limburg",
+      "prior_score": -0.4584,
+      "prior_variance": 0.159427,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_score": 2.2206,
+      "prior_variance": 0.251078,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": 0.1336,
+      "prior_variance": 0.284906,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -1.2712,
+      "prior_variance": 0.242266,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -2.487,
+      "prior_variance": 0.286643,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Arkansas",
+      "path": "northamerica/unitedstates/arkansas",
+      "prior_score": -3.1905,
+      "prior_variance": 0.377718,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Midway Islands",
+      "path": "australiaandpacific/midwayislands",
+      "prior_score": -2.5721,
+      "prior_variance": 0.265892,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Trescore",
+      "path": "europe/italy/lombardia/trescore",
+      "prior_score": -3.169,
+      "prior_variance": 0.270303,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_notting/northampton",
+      "prior_score": -3.4113,
+      "prior_variance": 0.220232,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -3.0295,
+      "prior_variance": 0.214186,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.2821,
+      "prior_variance": 0.25919,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_score": -2.3466,
+      "prior_variance": 0.227288,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Surinam",
+      "path": "africa/mauritius/souillac/surinam",
+      "prior_score": -2.4762,
+      "prior_variance": 0.269517,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.5156,
+      "prior_variance": 0.316713,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Nagorno-Karabakh (Karabakh)",
+      "path": "europe/azerbaijan/nagornokarabakh",
+      "prior_score": -4.6379,
+      "prior_variance": 0.365443,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba_1",
+      "prior_score": -13.4601,
+      "prior_variance": 0.61627,
+      "prior_n": 5
+    }
+  ]
+}

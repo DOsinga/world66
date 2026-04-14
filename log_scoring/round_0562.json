@@ -1,0 +1,200 @@
+{
+  "round": 562,
+  "timestamp": "2026-04-12T10:37:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichenitza",
+      "prior_mu": 24.7867,
+      "prior_sigma": 5.8167,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_mu": 22.5822,
+      "prior_sigma": 5.743,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Merida",
+      "path": "northamerica/mexico/yucatan/merida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_mu": 21.9386,
+      "prior_sigma": 4.1699,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_mu": 22.7213,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_mu": 22.4344,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_mu": 22.6545,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_mu": 21.5774,
+      "prior_sigma": 2.872,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_mu": 21.7549,
+      "prior_sigma": 5.7279,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_mu": 22.7815,
+      "prior_sigma": 5.7247,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_mu": 22.1976,
+      "prior_sigma": 5.7354,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/yucatan/bocadelrio",
+      "prior_mu": 22.5988,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/yucatan/veracruz",
+      "prior_mu": 22.6713,
+      "prior_sigma": 5.949,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_mu": 22.6122,
+      "prior_sigma": 5.9124,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Morelia",
+      "path": "northamerica/mexico/yucatan/morelia",
+      "prior_mu": 21.3104,
+      "prior_sigma": 4.4823,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Puebla",
+      "path": "northamerica/mexico/yucatan/puebla",
+      "prior_mu": 22.5641,
+      "prior_sigma": 5.9135,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/apizaco",
+      "prior_mu": 22.798,
+      "prior_sigma": 5.9432,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Torreon",
+      "path": "northamerica/mexico/yucatan/torreon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/yucatan/guerreronegro",
+      "prior_mu": 21.8777,
+      "prior_sigma": 4.5233,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/yucatan/reynosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/yucatan/tijuana",
+      "prior_mu": 22.1659,
+      "prior_sigma": 5.5873,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_mu": 21.7997,
+      "prior_sigma": 4.812,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1962,
+  "timestamp": "2026-04-13T15:58:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Romantic Road",
+      "path": "europe/germany/bavaria/romanticroad",
+      "prior_score": 7.4496,
+      "prior_variance": 0.364881,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.9208,
+      "prior_variance": 0.25723,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 6.8328,
+      "prior_variance": 0.414332,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Albania",
+      "path": "europe/albania",
+      "prior_score": 2.9632,
+      "prior_variance": 0.28174,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_score": 4.3761,
+      "prior_variance": 0.316584,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 3.4365,
+      "prior_variance": 0.320716,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.7207,
+      "prior_variance": 0.255541,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": 2.1476,
+      "prior_variance": 0.288048,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 1.0128,
+      "prior_variance": 0.284712,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": 0.6934,
+      "prior_variance": 0.276724,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Roseau",
+      "path": "northamerica/dominica/roseau",
+      "prior_score": 1.713,
+      "prior_variance": 0.424494,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 1.8093,
+      "prior_variance": 0.333725,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_score": 0.855,
+      "prior_variance": 0.259913,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 1.9822,
+      "prior_variance": 0.247899,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -2.4283,
+      "prior_variance": 0.280127,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -0.8842,
+      "prior_variance": 0.395072,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
+      "prior_score": -3.1598,
+      "prior_variance": 0.258524,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_lla",
+      "prior_score": -1.2945,
+      "prior_variance": 0.233024,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": -0.0379,
+      "prior_variance": 0.249209,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -2.0425,
+      "prior_variance": 0.412257,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.184,
+      "prior_variance": 0.329495,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -3.3667,
+      "prior_variance": 0.298895,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -4.8899,
+      "prior_variance": 0.250203,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -3.4964,
+      "prior_variance": 0.546595,
+      "prior_n": 5
+    }
+  ]
+}

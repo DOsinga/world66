@@ -1,0 +1,200 @@
+{
+  "round": 1387,
+  "timestamp": "2026-04-12T22:24:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denmark",
+      "path": "europe/denmark",
+      "prior_rank": 2097,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_rank": 1484,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/south_island/west_coast",
+      "prior_rank": 1890,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Montenegro",
+      "path": "europe/montenegro",
+      "prior_rank": 408,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_rank": 781,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_rank": 2212,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vieques",
+      "path": "northamerica/puertorico/vieques",
+      "prior_rank": 1693,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cayo Coco",
+      "path": "northamerica/cuba/cayo_coco",
+      "prior_rank": 2602,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_rank": 917,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_rank": 585,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tonga",
+      "path": "australiaandpacific/tonga",
+      "prior_rank": 2150,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Western Samoa",
+      "path": "australiaandpacific/westernsamoa",
+      "prior_rank": 1925,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_rank": 2830,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_rank": 1270,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_rank": 891,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Perast",
+      "path": "europe/serbiaandmontenegro/perast",
+      "prior_rank": 1210,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_rank": 623,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_rank": 808,
+      "prior_wins": 100,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_rank": 2241,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_rank": 2381,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_rank": 1142,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_rank": 1712,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aland Islands",
+      "path": "europe/finland/alandislands",
+      "prior_rank": 739,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_rank": 919,
+      "prior_wins": 54,
+      "prior_n": 3
+    }
+  ]
+}

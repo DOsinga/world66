@@ -1,0 +1,200 @@
+{
+  "round": 1844,
+  "timestamp": "2026-04-13T10:56:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Korea",
+      "path": "asia/southkorea",
+      "prior_score": 8.1332,
+      "prior_variance": 0.535104,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 4.2043,
+      "prior_variance": 0.384991,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.8496,
+      "prior_variance": 0.373681,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 2.2276,
+      "prior_variance": 0.42315,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/sanremo",
+      "prior_score": 4.1661,
+      "prior_variance": 0.363596,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Prenzlauer Berg",
+      "path": "europe/germany/berlin/prenzlauerberg",
+      "prior_score": 1.531,
+      "prior_variance": 0.311147,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 0.853,
+      "prior_variance": 0.321314,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 2.4556,
+      "prior_variance": 0.255542,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 3.4904,
+      "prior_variance": 0.313088,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_score": 1.2465,
+      "prior_variance": 0.289173,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_score": -1.2509,
+      "prior_variance": 0.255507,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.5789,
+      "prior_variance": 0.262025,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": 0.7759,
+      "prior_variance": 0.243224,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.4603,
+      "prior_variance": 0.270456,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": 0.9501,
+      "prior_variance": 0.489719,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.868,
+      "prior_variance": 0.271224,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -4.1052,
+      "prior_variance": 0.336285,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -0.7284,
+      "prior_variance": 0.351755,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_score": -1.4028,
+      "prior_variance": 0.248743,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Alabama",
+      "path": "northamerica/unitedstates/alabama",
+      "prior_score": -3.2287,
+      "prior_variance": 0.312182,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -3.7151,
+      "prior_variance": 0.311248,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pirules",
+      "path": "northamerica/mexico/yucatan/pirules",
+      "prior_score": -5.7431,
+      "prior_variance": 0.481653,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Webuye",
+      "path": "africa/kenya/westernkenya/webuye",
+      "prior_score": -5.9965,
+      "prior_variance": 0.305678,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -4.3453,
+      "prior_variance": 0.507764,
+      "prior_n": 4
+    }
+  ]
+}

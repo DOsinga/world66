@@ -1,0 +1,200 @@
+{
+  "round": 374,
+  "timestamp": "2026-04-12T09:14:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_mu": 21.7411,
+      "prior_sigma": 4.7362,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_mu": 22.7336,
+      "prior_sigma": 5.9512,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Nida curonian spit",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Millaa Millaa",
+      "path": "australiaandpacific/australia/queensland/millaamillaa",
+      "prior_mu": 22.6933,
+      "prior_sigma": 5.9462,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/ledbury",
+      "prior_mu": 21.5992,
+      "prior_sigma": 4.7232,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jinggangshan",
+      "path": "asia/china/jinggangshan",
+      "prior_mu": 22.6314,
+      "prior_sigma": 5.6809,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_mu": 22.4587,
+      "prior_sigma": 5.9044,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_mu": 22.1207,
+      "prior_sigma": 5.758,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jebel Akhdar",
+      "path": "africa/libya/jebelakhdar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_mu": 22.7218,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_mu": 22.4928,
+      "prior_sigma": 5.9093,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kanye",
+      "path": "africa/botswana/kanye",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_mu": 21.1822,
+      "prior_sigma": 5.7459,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

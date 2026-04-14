@@ -1,0 +1,200 @@
+{
+  "round": 2016,
+  "timestamp": "2026-04-13T16:03:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sichuan Province",
+      "path": "asia/china/sichuanprovince",
+      "prior_score": 5.1579,
+      "prior_variance": 0.286227,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 3.7074,
+      "prior_variance": 0.430193,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 3.1199,
+      "prior_variance": 0.298227,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Marie-Galante",
+      "path": "northamerica/guadeloupe/mariegalante",
+      "prior_score": 2.0543,
+      "prior_variance": 0.244473,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 2.9378,
+      "prior_variance": 0.325415,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_score": 4.6758,
+      "prior_variance": 0.130879,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.229,
+      "prior_variance": 0.292152,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dilijan",
+      "path": "europe/armenia/dilijan",
+      "prior_score": 0.9818,
+      "prior_variance": 0.329321,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 0.225,
+      "prior_variance": 0.237081,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 1.1995,
+      "prior_variance": 0.269806,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.8491,
+      "prior_variance": 0.260471,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -0.8202,
+      "prior_variance": 0.3638,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Legazpi",
+      "path": "europe/spain/northernspain/legazpi",
+      "prior_score": -1.2493,
+      "prior_variance": 0.267563,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": 0.8046,
+      "prior_variance": 0.264732,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": 0.1759,
+      "prior_variance": 0.220185,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": 0.3394,
+      "prior_variance": 0.242356,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": 2.007,
+      "prior_variance": 0.283877,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -0.2218,
+      "prior_variance": 0.242402,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -1.5987,
+      "prior_variance": 0.345646,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_score": -1.158,
+      "prior_variance": 0.193987,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": -0.7496,
+      "prior_variance": 0.297362,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -1.8764,
+      "prior_variance": 0.226004,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -0.418,
+      "prior_variance": 0.278054,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -9.8037,
+      "prior_variance": 0.443854,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1417,
+  "timestamp": "2026-04-12T22:26:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_rank": 5267,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_rank": 4526,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_rank": 1523,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_rank": 2664,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_rank": 2894,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_rank": 936,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_rank": 2287,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_rank": 2359,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_rank": 3091,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_rank": 1888,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_rank": 2346,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_rank": 2057,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_rank": 2548,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_rank": 3943,
+      "prior_wins": 58,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_rank": 3972,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_rank": 3437,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_rank": 5105,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_rank": 5273,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_rank": 1024,
+      "prior_wins": 79,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "St. Johann",
+      "path": "europe/austria/stjohann",
+      "prior_rank": 3733,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Nida curonian spit",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_rank": 1782,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_rank": 2747,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/paloalto",
+      "prior_rank": 3247,
+      "prior_wins": 65,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_rank": 4528,
+      "prior_wins": 32,
+      "prior_n": 3
+    }
+  ]
+}

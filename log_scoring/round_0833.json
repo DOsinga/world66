@@ -1,0 +1,200 @@
+{
+  "round": 833,
+  "timestamp": "2026-04-12T14:36:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tuscany",
+      "path": "europe/italy/tuscany",
+      "prior_score": 11.965,
+      "prior_variance": 8.67485,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "San Crist\u00f3bal Island",
+      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Vanuatu",
+      "path": "australiaandpacific/vanuatu",
+      "prior_score": 4.7008,
+      "prior_variance": 1.965898,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Grand Turk",
+      "path": "northamerica/turksandcaicosislands/grandturk",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 10.7371,
+      "prior_variance": 2.645507,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Windward",
+      "path": "northamerica/grenada/carriacou/windward",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Whitefish",
+      "path": "northamerica/unitedstates/montana/whitefish",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Tavush Marz",
+      "path": "europe/armenia/tavush_marz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -3.9118,
+      "prior_variance": 2.170686,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Crimea",
+      "path": "europe/ukraine/crimea",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "San Giorgio Lucano",
+      "path": "europe/italy/basilicata/san_giorgio_lucano",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gran chaco",
+      "path": "southamerica/paraguay/granchaco",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

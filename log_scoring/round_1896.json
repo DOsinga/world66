@@ -1,0 +1,200 @@
+{
+  "round": 1896,
+  "timestamp": "2026-04-13T14:34:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 7.887,
+      "prior_variance": 0.548116,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Provence",
+      "path": "europe/france/midi_1/provence",
+      "prior_score": 8.9225,
+      "prior_variance": 0.932502,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 8.4234,
+      "prior_variance": 0.335092,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cuba",
+      "path": "northamerica/cuba",
+      "prior_score": 2.7259,
+      "prior_variance": 0.652705,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 3.2418,
+      "prior_variance": 0.406868,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Arizona",
+      "path": "northamerica/unitedstates/arizona",
+      "prior_score": 4.449,
+      "prior_variance": 0.547777,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mosel",
+      "path": "europe/germany/wine/mosel",
+      "prior_score": 4.7955,
+      "prior_variance": 0.317894,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/arenzano",
+      "prior_score": 2.155,
+      "prior_variance": 0.309299,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 2.9471,
+      "prior_variance": 0.319377,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 2.3862,
+      "prior_variance": 0.582753,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/wells",
+      "prior_score": 2.1224,
+      "prior_variance": 0.301974,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_score": 1.7951,
+      "prior_variance": 0.261036,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.4659,
+      "prior_variance": 0.271809,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/ravenglass",
+      "prior_score": 1.16,
+      "prior_variance": 0.243234,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tavush Marz",
+      "path": "europe/armenia/tavush_marz",
+      "prior_score": -0.4053,
+      "prior_variance": 0.27917,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -1.3996,
+      "prior_variance": 0.24016,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/barnstaple",
+      "prior_score": 0.0216,
+      "prior_variance": 0.261532,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -1.8605,
+      "prior_variance": 0.299553,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -1.5776,
+      "prior_variance": 0.26235,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -4.72,
+      "prior_variance": 0.423115,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.0061,
+      "prior_variance": 0.354639,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/yucatan/nuevolaredo",
+      "prior_score": -4.5343,
+      "prior_variance": 0.33369,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -7.2077,
+      "prior_variance": 0.402558,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nkoranza - Brong Ahafo",
+      "path": "africa/ghana/nkoranza__brong_a",
+      "prior_score": -5.8141,
+      "prior_variance": 0.293579,
+      "prior_n": 4
+    }
+  ]
+}

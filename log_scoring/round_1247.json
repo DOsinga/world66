@@ -1,0 +1,200 @@
+{
+  "round": 1247,
+  "timestamp": "2026-04-12T22:17:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_rank": 2010,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_rank": 1295,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_rank": 1861,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Coromandel",
+      "path": "australiaandpacific/newzealand/coromandel",
+      "prior_rank": 2247,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_rank": 1631,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_rank": 3119,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_rank": 2842,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_rank": 750,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Holmenkollen",
+      "path": "europe/norway/oslo/holmekollen",
+      "prior_rank": 1072,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_rank": 3151,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_rank": 3821,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_rank": 961,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_rank": 2176,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/arenzano",
+      "prior_rank": 4962,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_isla",
+      "prior_rank": 5264,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_rank": 3771,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_rank": 3078,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_rank": 2290,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gallipoli",
+      "path": "asia/turkey/canakkale/gallipoli",
+      "prior_rank": 2099,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_rank": 2552,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_rank": 1568,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_rank": 3649,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_rank": 2571,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "West caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_rank": 1074,
+      "prior_wins": 54,
+      "prior_n": 3
+    }
+  ]
+}

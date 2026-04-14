@@ -1,0 +1,200 @@
+{
+  "round": 2302,
+  "timestamp": "2026-04-13T16:29:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/crancanaria",
+      "prior_score": 7.2421,
+      "prior_variance": 0.394577,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 4.9255,
+      "prior_variance": 0.411283,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 2.8767,
+      "prior_variance": 0.219107,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "1",
+      "path": "europe/france/val_disere/1",
+      "prior_score": 1.3763,
+      "prior_variance": 0.368298,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_score": -2.9633,
+      "prior_variance": 0.391407,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": 1.7743,
+      "prior_variance": 0.237141,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.9985,
+      "prior_variance": 0.296969,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": -2.9367,
+      "prior_variance": 0.264971,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -1.2722,
+      "prior_variance": 0.27423,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -1.6022,
+      "prior_variance": 0.208808,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Guyana",
+      "path": "southamerica/guyana",
+      "prior_score": -3.199,
+      "prior_variance": 0.379821,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_score": -4.3797,
+      "prior_variance": 0.212832,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -1.7332,
+      "prior_variance": 0.242248,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.318,
+      "prior_variance": 0.226867,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_score": -2.1711,
+      "prior_variance": 0.223112,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/sudbury",
+      "prior_score": -2.495,
+      "prior_variance": 0.213173,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kansas",
+      "path": "northamerica/unitedstates/kansas",
+      "prior_score": -3.2858,
+      "prior_variance": 0.231904,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -2.1677,
+      "prior_variance": 0.30176,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/mumbai/nagpur",
+      "prior_score": -3.2774,
+      "prior_variance": 0.217186,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Paracin",
+      "path": "europe/serbiaandmontenegro/paracin",
+      "prior_score": -4.4413,
+      "prior_variance": 0.281693,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Epalinges",
+      "path": "europe/switzerland/epalinges",
+      "prior_score": -2.3626,
+      "prior_variance": 0.251252,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -8.3338,
+      "prior_variance": 0.72812,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Udayagi",
+      "path": "asia/india/andhrapradesh/udayagi",
+      "prior_score": -6.1932,
+      "prior_variance": 0.22602,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "ghamir dhariyan kot",
+      "path": "asia/pakistan/azad_kashmir/forward_kahuta/tanda_ghamir/ghamir_dhariyan_ko",
+      "prior_score": -9.74,
+      "prior_variance": 0.431424,
+      "prior_n": 5
+    }
+  ]
+}

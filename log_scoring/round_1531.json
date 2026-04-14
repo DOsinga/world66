@@ -1,0 +1,200 @@
+{
+  "round": 1531,
+  "timestamp": "2026-04-13T10:28:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 4.4163,
+      "prior_variance": 0.433939,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 3.1171,
+      "prior_variance": 0.334557,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 2.9316,
+      "prior_variance": 0.445272,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 2.2355,
+      "prior_variance": 0.396717,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Elduvik",
+      "path": "europe/faroeislands/eysturoy/elduvik",
+      "prior_score": 1.6919,
+      "prior_variance": 0.355752,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Marlborough",
+      "path": "australiaandpacific/newzealand/marlborough",
+      "prior_score": 3.8281,
+      "prior_variance": 0.450307,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 0.4577,
+      "prior_variance": 0.759155,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_score": 3.429,
+      "prior_variance": 0.492806,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.8109,
+      "prior_variance": 0.488448,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 2.2412,
+      "prior_variance": 0.380077,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Finale Valley",
+      "path": "europe/italy/liguria/finalevalley",
+      "prior_score": 1.298,
+      "prior_variance": 0.449679,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": 0.8006,
+      "prior_variance": 0.467513,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 1.5155,
+      "prior_variance": 0.422928,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 2.6089,
+      "prior_variance": 0.331821,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.2672,
+      "prior_variance": 0.368453,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 3.2608,
+      "prior_variance": 0.378339,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 0.0787,
+      "prior_variance": 0.467346,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 1.4764,
+      "prior_variance": 0.33746,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
+      "prior_score": 2.3849,
+      "prior_variance": 0.450736,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": 1.5762,
+      "prior_variance": 0.416043,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": 0.5101,
+      "prior_variance": 0.388356,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 2.598,
+      "prior_variance": 0.454925,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.8575,
+      "prior_variance": 0.40979,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -3.2758,
+      "prior_variance": 0.494465,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1394,
+  "timestamp": "2026-04-12T22:25:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Makarska",
+      "path": "europe/croatia/makarska",
+      "prior_rank": 2369,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_rank": 3056,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/california/sandiego/downtown",
+      "prior_rank": 445,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Gulf of Papagayo",
+      "path": "northamerica/costarica/gulf_of_papagayo",
+      "prior_rank": 678,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Grenada",
+      "path": "northamerica/thecaribbean/grenada",
+      "prior_rank": 801,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_rank": 5385,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_rank": 125,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/yorkshire_dales",
+      "prior_rank": 347,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_rank": 1007,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_rank": 1460,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_rank": 1581,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_rank": 3726,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_rank": 3794,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_rank": 1017,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/west_coast",
+      "prior_rank": 2693,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sulawesi",
+      "path": "asia/indonesia/sulawesi",
+      "prior_rank": 876,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_rank": 326,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_rank": 2172,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_rank": 1511,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_rank": 1154,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_rank": 3030,
+      "prior_wins": 73,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_rank": 1107,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_rank": 1430,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_rank": 1794,
+      "prior_wins": 40,
+      "prior_n": 3
+    }
+  ]
+}

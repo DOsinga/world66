@@ -1,0 +1,200 @@
+{
+  "round": 83,
+  "timestamp": "2026-04-12T08:03:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_mu": 28.22,
+      "prior_sigma": 3.16,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_mu": 29.83,
+      "prior_sigma": 3.76,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_mu": 24.09,
+      "prior_sigma": 3.85,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_mu": 22.67,
+      "prior_sigma": 4.92,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bordeaux",
+      "path": "europe/france/midi/aquitaine/bordeaux",
+      "prior_mu": 28.77,
+      "prior_sigma": 3.69,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_mu": 21.92,
+      "prior_sigma": 3.45,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 21.28,
+      "prior_sigma": 3.2,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_mu": 21.05,
+      "prior_sigma": 3.71,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_mu": 22.07,
+      "prior_sigma": 3.46,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_mu": 21.87,
+      "prior_sigma": 4.44,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_mu": 21.67,
+      "prior_sigma": 3.18,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_mu": 20.79,
+      "prior_sigma": 3.12,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_mu": 21.74,
+      "prior_sigma": 4.17,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 20.88,
+      "prior_sigma": 2.88,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/yucatan/losmochis",
+      "prior_mu": 20.72,
+      "prior_sigma": 3.58,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_mu": 20.63,
+      "prior_sigma": 3.02,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_mu": 21.97,
+      "prior_sigma": 4.4,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_mu": 20.98,
+      "prior_sigma": 3.28,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_mu": 20.78,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_mu": 20.7,
+      "prior_sigma": 4.21,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_mu": 20.53,
+      "prior_sigma": 3.25,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_mu": 19.23,
+      "prior_sigma": 3.83,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_mu": 19.87,
+      "prior_sigma": 4.43,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_mu": 20.01,
+      "prior_sigma": 4.05,
+      "prior_n": 2
+    }
+  ]
+}

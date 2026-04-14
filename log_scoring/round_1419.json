@@ -1,0 +1,200 @@
+{
+  "round": 1419,
+  "timestamp": "2026-04-12T22:26:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/liverpool",
+      "prior_rank": 1127,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_rank": 1645,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_rank": 2385,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_rank": 3578,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_rank": 3016,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/bangalore/mysore",
+      "prior_rank": 3251,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_rank": 2016,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_rank": 2355,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/northland/cape_reinga",
+      "prior_rank": 2907,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_rank": 2675,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_rank": 2904,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_rank": 2254,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_rank": 2352,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ameland",
+      "path": "europe/netherlands/waddenislands/ameland_island",
+      "prior_rank": 1531,
+      "prior_wins": 98,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_rank": 2366,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_rank": 4690,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_rank": 3576,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_rank": 1279,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_rank": 3178,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_rank": 1768,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Palm island",
+      "path": "northamerica/saintvincentandthegrenadines/palmisland",
+      "prior_rank": 3947,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_rank": 5639,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_rank": 3559,
+      "prior_wins": 74,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_rank": 1434,
+      "prior_wins": 50,
+      "prior_n": 3
+    }
+  ]
+}

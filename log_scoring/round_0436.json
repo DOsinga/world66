@@ -1,0 +1,200 @@
+{
+  "round": 436,
+  "timestamp": "2026-04-12T09:30:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_mu": 29.2508,
+      "prior_sigma": 5.2297,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/yogyakarta",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_mu": 23.5142,
+      "prior_sigma": 6.0424,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_mu": 24.1478,
+      "prior_sigma": 5.83,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_mu": 22.223,
+      "prior_sigma": 5.7642,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_mu": 23.3722,
+      "prior_sigma": 5.0169,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_mu": 21.2707,
+      "prior_sigma": 4.6052,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_mu": 23.7377,
+      "prior_sigma": 5.8471,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Kalimantan",
+      "path": "asia/indonesia/kalimantan",
+      "prior_mu": 21.1405,
+      "prior_sigma": 3.9051,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Irian Jaya",
+      "path": "asia/indonesia/irianjaya",
+      "prior_mu": 22.7173,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Java",
+      "path": "asia/indonesia/java",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_mu": 22.3338,
+      "prior_sigma": 5.8808,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jambi",
+      "path": "asia/indonesia/sumatra/jambi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_mu": 22.4006,
+      "prior_sigma": 5.8968,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_mu": 22.7934,
+      "prior_sigma": 5.5642,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_mu": 22.7073,
+      "prior_sigma": 5.948,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Indonesia",
+      "path": "asia/indonesia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

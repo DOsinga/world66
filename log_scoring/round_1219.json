@@ -1,0 +1,200 @@
+{
+  "round": 1219,
+  "timestamp": "2026-04-12T22:15:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_rank": 378,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Pyrenees",
+      "path": "europe/france/midi/pyrenees",
+      "prior_rank": 1274,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_rank": 70,
+      "prior_wins": 153,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Martinique",
+      "path": "northamerica/thecaribbean/martinique",
+      "prior_rank": 139,
+      "prior_wins": 107,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_rank": 780,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Transylvania",
+      "path": "europe/romania/transylvania",
+      "prior_rank": 2071,
+      "prior_wins": 78,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_rank": 1843,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bilbao",
+      "path": "europe/spain/northernspain/bilbao",
+      "prior_rank": 300,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_rank": 480,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_rank": 744,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_rank": 294,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_rank": 387,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_rank": 1097,
+      "prior_wins": 72,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lo\u0161inj",
+      "path": "europe/croatia/losinjisland",
+      "prior_rank": 799,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_rank": 343,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_rank": 866,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dorset",
+      "path": "europe/unitedkingdom/dorset",
+      "prior_rank": 964,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_rank": 1081,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_rank": 555,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_rank": 924,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_rank": 967,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_rank": 3917,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_rank": 774,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_rank": 910,
+      "prior_wins": 37,
+      "prior_n": 2
+    }
+  ]
+}

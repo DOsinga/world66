@@ -1,0 +1,200 @@
+{
+  "round": 1588,
+  "timestamp": "2026-04-13T10:33:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mycenae",
+      "path": "europe/greece/mycenae",
+      "prior_score": 6.6261,
+      "prior_variance": 0.502512,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 6.471,
+      "prior_variance": 0.455641,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vila do conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 0.8721,
+      "prior_variance": 0.385036,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 1.9765,
+      "prior_variance": 0.302457,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 1.5495,
+      "prior_variance": 0.346155,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -2.493,
+      "prior_variance": 0.485577,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.5244,
+      "prior_variance": 0.488769,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -1.1769,
+      "prior_variance": 0.408687,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bardufoss",
+      "path": "europe/norway/bardufoss",
+      "prior_score": -2.2518,
+      "prior_variance": 0.354889,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.1147,
+      "prior_variance": 0.313467,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -2.7138,
+      "prior_variance": 0.365001,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.8671,
+      "prior_variance": 0.428579,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": 0.0542,
+      "prior_variance": 0.30222,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -3.6031,
+      "prior_variance": 0.282077,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -3.411,
+      "prior_variance": 0.439815,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -3.4962,
+      "prior_variance": 0.341993,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.3045,
+      "prior_variance": 0.310541,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.5849,
+      "prior_variance": 0.48847,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -5.4336,
+      "prior_variance": 0.43603,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kirklees",
+      "path": "europe/unitedkingdom/kirklees",
+      "prior_score": -4.3384,
+      "prior_variance": 0.393376,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.9487,
+      "prior_variance": 0.452979,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -5.5477,
+      "prior_variance": 0.559919,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/yucatan/tijuana",
+      "prior_score": -5.0701,
+      "prior_variance": 0.558641,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mandangad",
+      "path": "asia/india/maharashtra/konkan/mandangad",
+      "prior_score": -5.2461,
+      "prior_variance": 0.463505,
+      "prior_n": 3
+    }
+  ]
+}

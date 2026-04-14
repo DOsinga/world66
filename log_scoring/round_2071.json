@@ -1,0 +1,200 @@
+{
+  "round": 2071,
+  "timestamp": "2026-04-13T16:08:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 8.5506,
+      "prior_variance": 0.377406,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 1.23,
+      "prior_variance": 0.491973,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 5.5537,
+      "prior_variance": 0.330544,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "High Sierra",
+      "path": "northamerica/unitedstates/california/highsierra",
+      "prior_score": 7.1519,
+      "prior_variance": 0.312472,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Inis Meain",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.534,
+      "prior_variance": 0.256153,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 2.315,
+      "prior_variance": 0.280653,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 2.7139,
+      "prior_variance": 0.240541,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_score": 1.3705,
+      "prior_variance": 0.200162,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "saskatchewan river crossing",
+      "path": "northamerica/canada/alberta/saskatchewan_river",
+      "prior_score": -1.2842,
+      "prior_variance": 0.255599,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 1.2098,
+      "prior_variance": 0.241863,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.2233,
+      "prior_variance": 0.186027,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 3.3749,
+      "prior_variance": 0.250915,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.7522,
+      "prior_variance": 0.317472,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 1.3723,
+      "prior_variance": 0.266023,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Shanxi Province",
+      "path": "asia/china/shanxiprovince",
+      "prior_score": 0.0542,
+      "prior_variance": 0.323546,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -1.3165,
+      "prior_variance": 0.249895,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -1.0393,
+      "prior_variance": 0.354549,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/formerum",
+      "prior_score": 0.3867,
+      "prior_variance": 0.20885,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.5789,
+      "prior_variance": 0.281109,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.7943,
+      "prior_variance": 0.271502,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.433,
+      "prior_variance": 0.356048,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -5.655,
+      "prior_variance": 0.330039,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Wadi Hayat",
+      "path": "africa/libya/wadi_alhayat/wadi_hayat",
+      "prior_score": -10.2598,
+      "prior_variance": 0.675683,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -10.2341,
+      "prior_variance": 0.613397,
+      "prior_n": 6
+    }
+  ]
+}

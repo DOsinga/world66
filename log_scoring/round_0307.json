@@ -1,0 +1,200 @@
+{
+  "round": 307,
+  "timestamp": "2026-04-12T09:11:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_mu": 22.6157,
+      "prior_sigma": 5.8137,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_mu": 21.3955,
+      "prior_sigma": 4.5645,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_mu": 22.6424,
+      "prior_sigma": 5.9388,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_sen",
+      "prior_mu": 22.4264,
+      "prior_sigma": 5.5699,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_mu": 22.5286,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_mu": 22.7206,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "The Tweed",
+      "path": "australiaandpacific/australia/newsouthwales/the_tweed",
+      "prior_mu": 22.7224,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/otterystmary",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_mu": 22.2075,
+      "prior_sigma": 5.7756,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_mu": 21.644,
+      "prior_sigma": 4.7435,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

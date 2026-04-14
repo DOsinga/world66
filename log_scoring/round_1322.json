@@ -1,0 +1,200 @@
+{
+  "round": 1322,
+  "timestamp": "2026-04-12T22:21:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_rank": 7193,
+      "prior_wins": 26,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_rank": 5890,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kota batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_rank": 6701,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_rank": 5810,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_rank": 4523,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_rank": 7213,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_rank": 7744,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_rank": 7576,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/apizaco",
+      "prior_rank": 6514,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_rank": 7801,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_rank": 7577,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/kotli/tatta_pani",
+      "prior_rank": 7212,
+      "prior_wins": 30,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_rank": 7582,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_rank": 4691,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_rank": 6397,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/loughborough",
+      "prior_rank": 5379,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_rank": 7324,
+      "prior_wins": 24,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ware",
+      "path": "europe/unitedkingdom/england/ware",
+      "prior_rank": 6107,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_rank": 7419,
+      "prior_wins": 23,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/delaware",
+      "prior_rank": 5881,
+      "prior_wins": 32,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_rank": 7001,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_rank": 5427,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_rank": 4578,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_rank": 7249,
+      "prior_wins": 15,
+      "prior_n": 3
+    }
+  ]
+}

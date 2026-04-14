@@ -1,0 +1,200 @@
+{
+  "round": 1389,
+  "timestamp": "2026-04-12T22:25:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_rank": 1217,
+      "prior_wins": 54,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Eysturoy",
+      "path": "europe/faroeislands/eysturoy",
+      "prior_rank": 3602,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_rank": 2694,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Northland",
+      "path": "australiaandpacific/newzealand/northland",
+      "prior_rank": 611,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_rank": 1034,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_rank": 1308,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Uttaranchal",
+      "path": "asia/india/uttaranchal",
+      "prior_rank": 1558,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_rank": 939,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_rank": 2575,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_rank": 707,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Bornholm Island",
+      "path": "europe/denmark/bornholmisland",
+      "prior_rank": 3571,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_rank": 1430,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_rank": 3220,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_rank": 3821,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Abruzzo",
+      "path": "europe/italy/abruzzo",
+      "prior_rank": 1287,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_rank": 3062,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_rank": 3787,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_rank": 2067,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_rank": 2539,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_rank": 2576,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_rank": 4490,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_rank": 427,
+      "prior_wins": 97,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_rank": 3251,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_rank": 2566,
+      "prior_wins": 43,
+      "prior_n": 3
+    }
+  ]
+}

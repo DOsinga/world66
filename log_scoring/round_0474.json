@@ -1,0 +1,200 @@
+{
+  "round": 474,
+  "timestamp": "2026-04-12T09:32:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_mu": 21.8967,
+      "prior_sigma": 5.7046,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/bude",
+      "prior_mu": 21.4438,
+      "prior_sigma": 4.1545,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/scarborough",
+      "prior_mu": 22.1833,
+      "prior_sigma": 5.7506,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_mu": 21.8968,
+      "prior_sigma": 5.3348,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_mu": 22.7355,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/rochester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester",
+      "prior_mu": 22.1946,
+      "prior_sigma": 5.7726,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_mu": 21.951,
+      "prior_sigma": 4.8388,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/lancaster",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/highpeak",
+      "prior_mu": 22.7485,
+      "prior_sigma": 5.953,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/ramsgate",
+      "prior_mu": 21.6634,
+      "prior_sigma": 4.735,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_mu": 22.7259,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bedfordshire",
+      "path": "europe/unitedkingdom/england/bedfordshire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/berkhampsted",
+      "prior_mu": 22.0827,
+      "prior_sigma": 5.7531,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
+      "prior_mu": 22.7219,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_mu": 22.0845,
+      "prior_sigma": 4.7033,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverp/helmshore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_mu": 22.7101,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    }
+  ]
+}

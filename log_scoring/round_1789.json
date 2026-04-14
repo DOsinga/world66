@@ -1,0 +1,200 @@
+{
+  "round": 1789,
+  "timestamp": "2026-04-13T10:51:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 8.3688,
+      "prior_variance": 0.344705,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Shibuya",
+      "path": "asia/japan/tokyo/shibuya",
+      "prior_score": 15.6531,
+      "prior_variance": 1.093709,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 9.5383,
+      "prior_variance": 0.398701,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 3.7969,
+      "prior_variance": 0.171062,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 3.3995,
+      "prior_variance": 0.302735,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Gipuzkoa",
+      "path": "europe/spain/gipuzkoa",
+      "prior_score": 3.7143,
+      "prior_variance": 0.379764,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 1.2954,
+      "prior_variance": 0.331446,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Saxony-Anhalt",
+      "path": "europe/germany/saxonyanhalt",
+      "prior_score": -0.813,
+      "prior_variance": 0.314637,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": 0.8103,
+      "prior_variance": 0.322004,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_score": 0.9278,
+      "prior_variance": 0.328599,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.0548,
+      "prior_variance": 0.290626,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 1.5562,
+      "prior_variance": 0.305552,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 3.9226,
+      "prior_variance": 0.278612,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 3.4147,
+      "prior_variance": 0.357063,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_score": -0.4654,
+      "prior_variance": 0.373847,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_score": -1.792,
+      "prior_variance": 0.327076,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.2702,
+      "prior_variance": 0.307682,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -3.6572,
+      "prior_variance": 0.478842,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_score": -2.0307,
+      "prior_variance": 0.294462,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -0.6028,
+      "prior_variance": 0.449824,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_score": -6.366,
+      "prior_variance": 0.304012,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.6949,
+      "prior_variance": 0.340652,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Milton",
+      "path": "northamerica/canada/ontario/milton",
+      "prior_score": -5.4156,
+      "prior_variance": 0.334506,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -9.0201,
+      "prior_variance": 0.349293,
+      "prior_n": 5
+    }
+  ]
+}

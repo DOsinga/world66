@@ -1,0 +1,200 @@
+{
+  "round": 773,
+  "timestamp": "2026-04-12T10:47:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/paris/versailles",
+      "prior_mu": 30.0056,
+      "prior_sigma": 6.9058,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/thecinqueterre",
+      "prior_mu": 26.0515,
+      "prior_sigma": 5.9747,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Veneto",
+      "path": "europe/italy/veneto",
+      "prior_mu": 24.117,
+      "prior_sigma": 5.0109,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lombardia",
+      "path": "europe/italy/lombardia",
+      "prior_mu": 22.0262,
+      "prior_sigma": 4.6673,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Havana",
+      "path": "northamerica/cuba/havana",
+      "prior_mu": 32.9707,
+      "prior_sigma": 6.2556,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_mu": 22.8761,
+      "prior_sigma": 5.8331,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_mu": 25.99,
+      "prior_sigma": 5.0448,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_mu": 21.6557,
+      "prior_sigma": 3.7911,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_mu": 21.9584,
+      "prior_sigma": 4.6621,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_mu": 22.2739,
+      "prior_sigma": 4.5167,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_mu": 22.5488,
+      "prior_sigma": 5.9119,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_mu": 22.5083,
+      "prior_sigma": 5.56,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_mu": 22.4324,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_mu": 21.2756,
+      "prior_sigma": 4.4482,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_mu": 21.7467,
+      "prior_sigma": 4.4858,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_mu": 20.7144,
+      "prior_sigma": 4.4342,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lower saxony",
+      "path": "europe/germany/lowersaxony",
+      "prior_mu": 21.2698,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_mu": 21.3279,
+      "prior_sigma": 3.8279,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_mu": 21.6075,
+      "prior_sigma": 5.5086,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/upperhutt",
+      "prior_mu": 21.418,
+      "prior_sigma": 4.4439,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_mu": 21.4621,
+      "prior_sigma": 4.5721,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Travel Insurance",
+      "path": "travelwise/safetyandsecurity/travelinsurance",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

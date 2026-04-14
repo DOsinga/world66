@@ -1,0 +1,200 @@
+{
+  "round": 2096,
+  "timestamp": "2026-04-13T16:10:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 5.8024,
+      "prior_variance": 0.319933,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 7.4358,
+      "prior_variance": 0.323176,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_score": 5.9975,
+      "prior_variance": 0.328127,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_score": 4.6337,
+      "prior_variance": 0.249498,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Freiburg",
+      "path": "europe/germany/badenwrttemberg/freiburg",
+      "prior_score": 3.8982,
+      "prior_variance": 0.302775,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mosel",
+      "path": "europe/germany/wine/mosel",
+      "prior_score": 4.5043,
+      "prior_variance": 0.270426,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 6.192,
+      "prior_variance": 0.324094,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monterey",
+      "prior_score": 4.8879,
+      "prior_variance": 0.337174,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 4.2339,
+      "prior_variance": 0.261387,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 2.8127,
+      "prior_variance": 0.364536,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 4.2442,
+      "prior_variance": 0.269485,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_score": 5.212,
+      "prior_variance": 0.358491,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 3.4936,
+      "prior_variance": 0.249695,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 3.8672,
+      "prior_variance": 0.389824,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 2.6094,
+      "prior_variance": 0.296816,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/exeter",
+      "prior_score": 1.6302,
+      "prior_variance": 0.270072,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Prenzlauer Berg",
+      "path": "europe/germany/berlin/prenzlauerberg",
+      "prior_score": 1.7496,
+      "prior_variance": 0.255121,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 2.2526,
+      "prior_variance": 0.243558,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
+      "prior_score": 3.4588,
+      "prior_variance": 0.311856,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_sen",
+      "prior_score": 0.8749,
+      "prior_variance": 0.273634,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_score": 0.1558,
+      "prior_variance": 0.314595,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -2.9327,
+      "prior_variance": 0.268186,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -4.7849,
+      "prior_variance": 0.332624,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -9.5358,
+      "prior_variance": 0.339774,
+      "prior_n": 7
+    }
+  ]
+}

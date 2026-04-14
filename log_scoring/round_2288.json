@@ -1,0 +1,200 @@
+{
+  "round": 2288,
+  "timestamp": "2026-04-13T16:28:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 8.9225,
+      "prior_variance": 0.509811,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 6.259,
+      "prior_variance": 0.266342,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 6.9376,
+      "prior_variance": 0.255855,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Pantanal",
+      "path": "southamerica/brazil/pantanal",
+      "prior_score": 5.2024,
+      "prior_variance": 0.300411,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 2.4667,
+      "prior_variance": 0.295889,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 3.33,
+      "prior_variance": 0.289092,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Coloane",
+      "path": "asia/china/macau/coloane",
+      "prior_score": 1.2711,
+      "prior_variance": 0.222546,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 1.7705,
+      "prior_variance": 0.243541,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.198,
+      "prior_variance": 0.297899,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 0.2998,
+      "prior_variance": 0.247643,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kentucky",
+      "path": "northamerica/unitedstates/kentucky",
+      "prior_score": -1.76,
+      "prior_variance": 0.294663,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/west_coast",
+      "prior_score": 2.1521,
+      "prior_variance": 0.25738,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -1.4936,
+      "prior_variance": 0.263527,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -1.7038,
+      "prior_variance": 0.208086,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -1.4168,
+      "prior_variance": 0.183638,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_score": -1.4543,
+      "prior_variance": 0.257819,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/maidstone",
+      "prior_score": -2.1152,
+      "prior_variance": 0.169315,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/otago/lawrence_gateway",
+      "prior_score": -0.7965,
+      "prior_variance": 0.20888,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -3.4327,
+      "prior_variance": 0.299271,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -2.097,
+      "prior_variance": 0.235816,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mouscron",
+      "path": "europe/belgium/mouscron",
+      "prior_score": -4.269,
+      "prior_variance": 0.19384,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.601,
+      "prior_variance": 0.243539,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
+      "prior_score": -4.082,
+      "prior_variance": 0.239722,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "SANJAR SAIDAN",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/sanjar_saidan",
+      "prior_score": -9.9413,
+      "prior_variance": 0.591917,
+      "prior_n": 5
+    }
+  ]
+}

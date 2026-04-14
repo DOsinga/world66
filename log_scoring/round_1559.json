@@ -1,0 +1,200 @@
+{
+  "round": 1559,
+  "timestamp": "2026-04-13T10:31:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monaco",
+      "path": "europe/monaco",
+      "prior_score": 10.4749,
+      "prior_variance": 0.460771,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mani",
+      "path": "europe/greece/mani",
+      "prior_score": 6.7621,
+      "prior_variance": 0.4375,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 4.8595,
+      "prior_variance": 0.415772,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 2.628,
+      "prior_variance": 0.343692,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_score": 2.4902,
+      "prior_variance": 0.199915,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/chichester",
+      "prior_score": 1.9264,
+      "prior_variance": 0.420979,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.3132,
+      "prior_variance": 0.446065,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 1.1079,
+      "prior_variance": 0.378316,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Block Island",
+      "path": "northamerica/unitedstates/rhodeisland/block_island",
+      "prior_score": 3.8222,
+      "prior_variance": 0.40257,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.5955,
+      "prior_variance": 0.426311,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
+      "prior_score": -0.3921,
+      "prior_variance": 0.220643,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": 0.1564,
+      "prior_variance": 0.494643,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_score": 0.5696,
+      "prior_variance": 0.397684,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 2.7576,
+      "prior_variance": 0.499904,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_score": 2.8758,
+      "prior_variance": 0.381573,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": 1.1504,
+      "prior_variance": 0.335868,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 0.3218,
+      "prior_variance": 0.312752,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 2.2159,
+      "prior_variance": 0.408732,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": 1.053,
+      "prior_variance": 0.439133,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": 0.908,
+      "prior_variance": 0.232465,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Assam",
+      "path": "asia/india/assam",
+      "prior_score": 1.8671,
+      "prior_variance": 0.347376,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Fujian Province",
+      "path": "asia/china/fujianprovince",
+      "prior_score": 0.6646,
+      "prior_variance": 0.449771,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": 0.0209,
+      "prior_variance": 0.307549,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -3.5803,
+      "prior_variance": 0.469519,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 872,
+  "timestamp": "2026-04-12T14:46:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 8.8235,
+      "prior_variance": 1.983209,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 6.8509,
+      "prior_variance": 1.512689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 6.0219,
+      "prior_variance": 2.085348,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sieve Valley",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley",
+      "prior_score": 6.2114,
+      "prior_variance": 2.861958,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bornholm Island",
+      "path": "europe/denmark/bornholmisland",
+      "prior_score": 5.7904,
+      "prior_variance": 1.398638,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Guernsey",
+      "path": "europe/channelislands/guernsey",
+      "prior_score": 6.3114,
+      "prior_variance": 1.43581,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 9.9166,
+      "prior_variance": 6.235072,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Extremadura",
+      "path": "europe/spain/extremadura",
+      "prior_score": 2.7528,
+      "prior_variance": 1.632026,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 1.616,
+      "prior_variance": 1.354215,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 0.1823,
+      "prior_variance": 1.24417,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 2.6634,
+      "prior_variance": 1.709736,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -2.1976,
+      "prior_variance": 1.211342,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 0.9325,
+      "prior_variance": 1.556319,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
+      "prior_score": 1.2902,
+      "prior_variance": 0.737266,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 1.9419,
+      "prior_variance": 1.294874,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Aregua",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.2968,
+      "prior_variance": 1.204511,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -3.0793,
+      "prior_variance": 1.230234,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cochrane",
+      "path": "northamerica/canada/alberta/cochrane",
+      "prior_score": -1.0805,
+      "prior_variance": 1.561959,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Chester",
+      "path": "northamerica/unitedstates/vermont/chester",
+      "prior_score": 0.7716,
+      "prior_variance": 1.381805,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Pleven",
+      "path": "europe/bulgaria/sofia/pleven",
+      "prior_score": -3.282,
+      "prior_variance": 1.17293,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": -0.4717,
+      "prior_variance": 1.354716,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vinnista",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -6.7121,
+      "prior_variance": 2.785332,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_score": -7.5173,
+      "prior_variance": 1.427253,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -4.4897,
+      "prior_variance": 1.629758,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1709,
+  "timestamp": "2026-04-13T10:44:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Qurico D' Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 6.2841,
+      "prior_variance": 0.394696,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 6.1975,
+      "prior_variance": 0.352767,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ancash",
+      "path": "southamerica/peru/ancash",
+      "prior_score": 1.328,
+      "prior_variance": 0.635882,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.6843,
+      "prior_variance": 0.313201,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_score": 0.3441,
+      "prior_variance": 0.330332,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cayo Coco",
+      "path": "northamerica/cuba/cayo_coco",
+      "prior_score": 4.5888,
+      "prior_variance": 0.384228,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 3.7125,
+      "prior_variance": 0.349992,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_score": 1.3979,
+      "prior_variance": 0.330868,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 3.6268,
+      "prior_variance": 0.336863,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -2.1406,
+      "prior_variance": 0.400351,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kollam",
+      "path": "asia/oman/musandampeninsula/kollam",
+      "prior_score": -5.5674,
+      "prior_variance": 0.333591,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -1.2515,
+      "prior_variance": 0.517636,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.0979,
+      "prior_variance": 0.348472,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.3165,
+      "prior_variance": 0.370205,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -1.5229,
+      "prior_variance": 0.367407,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Birmingham and West Midlands",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes",
+      "prior_score": -0.8408,
+      "prior_variance": 0.38806,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_score": -2.5174,
+      "prior_variance": 0.370364,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -0.2132,
+      "prior_variance": 0.152972,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Bromma",
+      "path": "europe/sweden/stockholm/bromma",
+      "prior_score": -4.0227,
+      "prior_variance": 0.521207,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -2.1145,
+      "prior_variance": 0.346013,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -1.9892,
+      "prior_variance": 0.248055,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -4.5699,
+      "prior_variance": 0.30285,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -3.0983,
+      "prior_variance": 0.347983,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_score": -4.8176,
+      "prior_variance": 0.303806,
+      "prior_n": 4
+    }
+  ]
+}

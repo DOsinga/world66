@@ -1,0 +1,200 @@
+{
+  "round": 453,
+  "timestamp": "2026-04-12T09:31:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_mu": 22.0858,
+      "prior_sigma": 4.4117,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Aland Islands",
+      "path": "europe/finland/alandislands",
+      "prior_mu": 22.4123,
+      "prior_sigma": 5.5611,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_mu": 21.9462,
+      "prior_sigma": 5.6773,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_mu": 22.7248,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_mu": 22.6208,
+      "prior_sigma": 5.9352,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_mu": 22.7218,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_mu": 22.557,
+      "prior_sigma": 5.5383,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_mu": 22.0277,
+      "prior_sigma": 5.6736,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_mu": 22.7886,
+      "prior_sigma": 5.946,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_mu": 22.5249,
+      "prior_sigma": 5.9133,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_mu": 22.6367,
+      "prior_sigma": 5.9379,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_mu": 21.3342,
+      "prior_sigma": 4.0909,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_mu": 22.0397,
+      "prior_sigma": 5.7415,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Salla",
+      "path": "europe/finland/kouvola_city/salla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "BbCMQeVjeZFcG",
+      "path": "europe/finland/kotka/bbcmqevjezfcg",
+      "prior_mu": 18.2388,
+      "prior_sigma": 6.7447,
+      "prior_n": 1
+    }
+  ]
+}

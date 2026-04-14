@@ -1,0 +1,200 @@
+{
+  "round": 473,
+  "timestamp": "2026-04-12T09:32:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kutch",
+      "path": "asia/india/gujarat/kutch",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_mu": 22.8467,
+      "prior_sigma": 5.7055,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_mu": 21.7818,
+      "prior_sigma": 4.6567,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_mu": 21.4681,
+      "prior_sigma": 4.5022,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_mu": 22.7223,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_mu": 22.653,
+      "prior_sigma": 5.6804,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_mu": 21.8844,
+      "prior_sigma": 4.831,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_mu": 22.5924,
+      "prior_sigma": 5.9326,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_mu": 21.1822,
+      "prior_sigma": 5.7579,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_mu": 22.9815,
+      "prior_sigma": 5.6112,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Yemkeshwar Malla Banas",
+      "path": "asia/india/uttaranchal/yemkeshwar_malla_b",
+      "prior_mu": 22.7101,
+      "prior_sigma": 5.9484,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_mu": 22.1302,
+      "prior_sigma": 5.7573,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Panipat",
+      "path": "asia/india/haryana/panipat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_mu": 20.0431,
+      "prior_sigma": 5.6872,
+      "prior_n": 1
+    }
+  ]
+}

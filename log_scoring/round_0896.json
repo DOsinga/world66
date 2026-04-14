@@ -1,0 +1,200 @@
+{
+  "round": 896,
+  "timestamp": "2026-04-12T14:48:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_score": 7.2803,
+      "prior_variance": 0.474915,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 8.0259,
+      "prior_variance": 3.29949,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Spanish Costas",
+      "path": "europe/spain/spanishcostas",
+      "prior_score": 0.228,
+      "prior_variance": 1.384757,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 3.9637,
+      "prior_variance": 1.307502,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 0.4305,
+      "prior_variance": 0.943345,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 3.3679,
+      "prior_variance": 1.432681,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": 6.1677,
+      "prior_variance": 1.537643,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 2.7176,
+      "prior_variance": 1.207603,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 2.442,
+      "prior_variance": 1.190243,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -5.3914,
+      "prior_variance": 15.90666,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 1.8331,
+      "prior_variance": 1.2642,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/abingdon",
+      "prior_score": 2.7773,
+      "prior_variance": 1.473151,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.9846,
+      "prior_variance": 1.507692,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 2.0161,
+      "prior_variance": 2.00041,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 6.35,
+      "prior_variance": 1.982397,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": -0.5822,
+      "prior_variance": 0.799784,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -0.4313,
+      "prior_variance": 1.43923,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -3.6329,
+      "prior_variance": 1.318252,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_score": 1.1313,
+      "prior_variance": 1.352512,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -2.5839,
+      "prior_variance": 0.683037,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -0.2331,
+      "prior_variance": 1.418544,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -7.5809,
+      "prior_variance": 1.354799,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -1.2412,
+      "prior_variance": 1.529659,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_score": -11.119,
+      "prior_variance": 8.574701,
+      "prior_n": 1
+    }
+  ]
+}

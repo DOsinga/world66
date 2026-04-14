@@ -1,0 +1,104 @@
+{
+  "round": 565,
+  "timestamp": "2026-04-12T10:37:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 12,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_mu": 17.8817,
+      "prior_sigma": 6.3096,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_mu": 18.0532,
+      "prior_sigma": 6.7369,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_mu": 17.4977,
+      "prior_sigma": 6.7444,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_mu": 19.2833,
+      "prior_sigma": 2.841,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_mu": 21.9403,
+      "prior_sigma": 5.7952,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_mu": 14.8771,
+      "prior_sigma": 5.4699,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_mu": 18.1011,
+      "prior_sigma": 6.7449,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Afghanistan",
+      "path": "asia/afghanistan",
+      "prior_mu": 12.7694,
+      "prior_sigma": 5.2604,
+      "prior_n": 3
+    }
+  ]
+}

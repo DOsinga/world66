@@ -1,0 +1,200 @@
+{
+  "round": 1507,
+  "timestamp": "2026-04-13T10:26:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -3.4433,
+      "prior_variance": 0.498967,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 1.579,
+      "prior_variance": 0.393567,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Monkstown",
+      "path": "europe/ireland/cork/monkstown",
+      "prior_score": -2.5114,
+      "prior_variance": 0.395693,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -3.0151,
+      "prior_variance": 0.395015,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Odder",
+      "path": "europe/denmark/odder",
+      "prior_score": -2.4225,
+      "prior_variance": 0.413216,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.9527,
+      "prior_variance": 0.402832,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -3.7077,
+      "prior_variance": 0.449524,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -3.375,
+      "prior_variance": 0.390407,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "North Bend",
+      "path": "northamerica/unitedstates/oregon/north_bend",
+      "prior_score": -2.756,
+      "prior_variance": 0.419825,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.4273,
+      "prior_variance": 0.46511,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_score": -4.5612,
+      "prior_variance": 0.811641,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -1.9801,
+      "prior_variance": 0.396534,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_score": -2.5502,
+      "prior_variance": 0.309696,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -4.422,
+      "prior_variance": 0.385711,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "West Bengal",
+      "path": "asia/india/westbengal",
+      "prior_score": -3.3403,
+      "prior_variance": 0.739425,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -2.9016,
+      "prior_variance": 0.37097,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -2.6075,
+      "prior_variance": 0.440194,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Jambi",
+      "path": "asia/indonesia/sumatra/jambi",
+      "prior_score": -3.9226,
+      "prior_variance": 0.396247,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -3.9225,
+      "prior_variance": 0.435726,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Narayangarh",
+      "path": "asia/nepal/narayangarh",
+      "prior_score": -2.9108,
+      "prior_variance": 0.361585,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.4561,
+      "prior_variance": 0.441798,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -3.7189,
+      "prior_variance": 0.369031,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_score": -5.9413,
+      "prior_variance": 0.598256,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Clarksburg",
+      "path": "northamerica/unitedstates/westvirginia/clarksburg",
+      "prior_score": -4.7137,
+      "prior_variance": 0.40245,
+      "prior_n": 3
+    }
+  ]
+}

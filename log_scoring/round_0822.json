@@ -1,0 +1,200 @@
+{
+  "round": 822,
+  "timestamp": "2026-04-12T14:35:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Cayman",
+      "path": "northamerica/caymanislands/grandcayman",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 1.9213,
+      "prior_variance": 0.760029,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Whanganui Region",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Mosfellsbaer",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Mindoro Island",
+      "path": "asia/philippines/mindoroisland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/haiti/jeremie",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Bahadur Garh",
+      "path": "asia/pakistan/dera_ghazi_khan/bahadur_garh",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 464,
+  "timestamp": "2026-04-12T09:31:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guilin",
+      "path": "asia/china/guilin",
+      "prior_mu": 24.1345,
+      "prior_sigma": 4.8264,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Yunnan Province",
+      "path": "asia/china/yunnanprovince",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Suzhou",
+      "path": "asia/china/suzhou",
+      "prior_mu": 23.5285,
+      "prior_sigma": 2.9539,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sichuan Province",
+      "path": "asia/china/sichuanprovince",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Dunhuang",
+      "path": "asia/china/dunhuang",
+      "prior_mu": 22.8245,
+      "prior_sigma": 5.9504,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_mu": 21.8238,
+      "prior_sigma": 4.7487,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hainan island",
+      "path": "asia/china/hainanisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Outlying Islands",
+      "path": "asia/china/hongkong/outlyingislands",
+      "prior_mu": 22.7215,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chengde",
+      "path": "asia/china/chengde",
+      "prior_mu": 22.889,
+      "prior_sigma": 5.9674,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Harbin",
+      "path": "asia/china/harbin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_mu": 22.2901,
+      "prior_sigma": 5.7856,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_mu": 21.6628,
+      "prior_sigma": 4.5846,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Henan Province",
+      "path": "asia/china/henan_province",
+      "prior_mu": 21.7735,
+      "prior_sigma": 4.7562,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Zhejiang",
+      "path": "asia/china/zhejiang",
+      "prior_mu": 22.1357,
+      "prior_sigma": 5.3379,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jiangxi",
+      "path": "asia/china/jiangxi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Huangyaguan",
+      "path": "asia/china/huangyaguan",
+      "prior_mu": 22.8574,
+      "prior_sigma": 5.7263,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_mu": 22.0226,
+      "prior_sigma": 5.4614,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_mu": 19.404,
+      "prior_sigma": 5.0879,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Zhongshan",
+      "path": "asia/china/zhongshan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_mu": 21.1314,
+      "prior_sigma": 5.8466,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_mu": 17.9613,
+      "prior_sigma": 5.0932,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Teahouses",
+      "path": "asia/china/shanghai/nightlifeentertainment/teahouses",
+      "prior_mu": 17.9519,
+      "prior_sigma": 6.6803,
+      "prior_n": 1
+    }
+  ]
+}

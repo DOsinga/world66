@@ -1,0 +1,200 @@
+{
+  "round": 1489,
+  "timestamp": "2026-04-13T10:25:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_score": -1.4746,
+      "prior_variance": 0.607245,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.028,
+      "prior_variance": 0.433287,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -1.7574,
+      "prior_variance": 0.566991,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Minnesota",
+      "path": "northamerica/unitedstates/minnesota",
+      "prior_score": -2.8002,
+      "prior_variance": 0.36704,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -2.1037,
+      "prior_variance": 0.316543,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/tallahassee",
+      "prior_score": -2.4428,
+      "prior_variance": 0.479367,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -1.8401,
+      "prior_variance": 0.521835,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hawes_and_gayle",
+      "prior_score": -0.7533,
+      "prior_variance": 0.344592,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/crewkerne",
+      "prior_score": -3.0888,
+      "prior_variance": 0.628302,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -2.0652,
+      "prior_variance": 0.338825,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -2.5474,
+      "prior_variance": 0.398795,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -3.4374,
+      "prior_variance": 0.584485,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_score": -1.4619,
+      "prior_variance": 0.348648,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -2.1228,
+      "prior_variance": 0.541102,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -1.9402,
+      "prior_variance": 0.410915,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -1.2902,
+      "prior_variance": 0.446671,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -2.4434,
+      "prior_variance": 0.394751,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -1.0042,
+      "prior_variance": 0.432263,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -2.3484,
+      "prior_variance": 0.332381,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cuiaba",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -1.3189,
+      "prior_variance": 0.465619,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -4.6446,
+      "prior_variance": 0.445893,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -1.588,
+      "prior_variance": 0.439635,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": 0.9052,
+      "prior_variance": 0.408182,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -4.0056,
+      "prior_variance": 0.581657,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1298,
+  "timestamp": "2026-04-12T22:20:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_rank": 413,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_rank": 813,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Piemonte",
+      "path": "europe/italy/piemonte",
+      "prior_rank": 2497,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bilbao",
+      "path": "europe/spain/northernspain/bilbao",
+      "prior_rank": 535,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_rank": 258,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_rank": 95,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_rank": 969,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_rank": 624,
+      "prior_wins": 77,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_rank": 161,
+      "prior_wins": 106,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_rank": 218,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_rank": 212,
+      "prior_wins": 105,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_rank": 1104,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_rank": 284,
+      "prior_wins": 103,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ueno",
+      "path": "asia/japan/tokyo/ueno",
+      "prior_rank": 1015,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Costa Brava",
+      "path": "europe/spain/costa_brava",
+      "prior_rank": 88,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_rank": 134,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_rank": 202,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_rank": 418,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_rank": 424,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Grand Turk",
+      "path": "northamerica/turksandcaicosislands/grandturk",
+      "prior_rank": 432,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_rank": 594,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_rank": 287,
+      "prior_wins": 100,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_rank": 967,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "El Yunque",
+      "path": "northamerica/puertorico/elyunque",
+      "prior_rank": 125,
+      "prior_wins": 171,
+      "prior_n": 8
+    }
+  ]
+}

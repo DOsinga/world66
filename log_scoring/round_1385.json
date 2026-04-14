@@ -1,0 +1,200 @@
+{
+  "round": 1385,
+  "timestamp": "2026-04-12T22:24:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_rank": 7329,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_rank": 4629,
+      "prior_wins": 41,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_rank": 7334,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_rank": 7080,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Okotoks",
+      "path": "northamerica/canada/alberta/okotoks",
+      "prior_rank": 7222,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_rank": 7684,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_rank": 6796,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Eustis",
+      "path": "northamerica/unitedstates/florida/eustis",
+      "prior_rank": 6966,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_rank": 6938,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_rank": 7211,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_rank": 7427,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_rank": 6560,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_rank": 7901,
+      "prior_wins": 16,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_rank": 6947,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_rank": 7738,
+      "prior_wins": 19,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/goole",
+      "prior_rank": 6654,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_rank": 7271,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Altos Mirandinos",
+      "path": "southamerica/venezuela/altos_mirandinos",
+      "prior_rank": 7793,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/yucatan/reynosa",
+      "prior_rank": 8002,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_rank": 8117,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_rank": 7423,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_rank": 7915,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ingal",
+      "path": "africa/niger/ingal",
+      "prior_rank": 6565,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "CHAKWAL",
+      "path": "asia/pakistan/azad_kashmir/bagh/chakwal",
+      "prior_rank": 8120,
+      "prior_wins": 6,
+      "prior_n": 3
+    }
+  ]
+}

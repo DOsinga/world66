@@ -1,0 +1,200 @@
+{
+  "round": 1693,
+  "timestamp": "2026-04-13T10:42:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cancun",
+      "path": "northamerica/mexico/yucatan/cancun",
+      "prior_score": 7.1624,
+      "prior_variance": 0.39145,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 5.4287,
+      "prior_variance": 0.388138,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 9.0071,
+      "prior_variance": 0.47007,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Brazil",
+      "path": "southamerica/brazil",
+      "prior_score": -5.9041,
+      "prior_variance": 1.271948,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 5.0438,
+      "prior_variance": 0.411321,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 6.3441,
+      "prior_variance": 0.371737,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_score": 4.3418,
+      "prior_variance": 0.568407,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tonga",
+      "path": "australiaandpacific/tonga",
+      "prior_score": 2.1241,
+      "prior_variance": 0.564858,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "St. George's",
+      "path": "northamerica/grenada/stgeorges",
+      "prior_score": 5.6691,
+      "prior_variance": 0.274477,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 5.1818,
+      "prior_variance": 0.590345,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Perpignan",
+      "path": "europe/france/midi/pyrenees/perpignan",
+      "prior_score": 3.0218,
+      "prior_variance": 0.302685,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lake khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 2.9323,
+      "prior_variance": 0.313213,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 5.1664,
+      "prior_variance": 0.324634,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "South-West",
+      "path": "australiaandpacific/australia/tasmania/southwest",
+      "prior_score": 3.5276,
+      "prior_variance": 0.393513,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vitoria",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.8549,
+      "prior_variance": 0.332435,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol/legazpi_city",
+      "prior_score": 1.2752,
+      "prior_variance": 0.316034,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_score": 3.1861,
+      "prior_variance": 0.341836,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.9298,
+      "prior_variance": 0.31605,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_score": 1.7331,
+      "prior_variance": 0.357434,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/newtonabbot",
+      "prior_score": -3.3451,
+      "prior_variance": 0.345359,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -3.283,
+      "prior_variance": 0.314824,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -2.84,
+      "prior_variance": 0.33943,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -6.9281,
+      "prior_variance": 0.357272,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -8.3803,
+      "prior_variance": 0.596396,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 85,
+  "timestamp": "2026-04-12T08:03:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_mu": 26.64,
+      "prior_sigma": 4.7,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Karakoram Highway",
+      "path": "asia/pakistan/karakoram_highway",
+      "prior_mu": 22.47,
+      "prior_sigma": 4.07,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_mu": 25.69,
+      "prior_sigma": 3.42,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_mu": 22.2,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_mu": 21.9,
+      "prior_sigma": 2.82,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_mu": 23.77,
+      "prior_sigma": 4.02,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_mu": 23.22,
+      "prior_sigma": 3.73,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_mu": 20.88,
+      "prior_sigma": 2.51,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_mu": 21.26,
+      "prior_sigma": 3.58,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_mu": 22.44,
+      "prior_sigma": 2.91,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_mu": 22.22,
+      "prior_sigma": 3.68,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gower",
+      "path": "europe/unitedkingdom/wales/gower",
+      "prior_mu": 22.04,
+      "prior_sigma": 3.38,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
+      "prior_mu": 21.34,
+      "prior_sigma": 3.62,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_mu": 20.9,
+      "prior_sigma": 3.47,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_mu": 20.77,
+      "prior_sigma": 3.27,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_mu": 21.08,
+      "prior_sigma": 3.6,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_mu": 20.66,
+      "prior_sigma": 2.99,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 21.03,
+      "prior_sigma": 3.32,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_mu": 21.07,
+      "prior_sigma": 3.87,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_mu": 20.93,
+      "prior_sigma": 3.61,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_mu": 17.42,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bialogard",
+      "path": "europe/poland/bialogard",
+      "prior_mu": 18.82,
+      "prior_sigma": 3.04,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ruskin",
+      "path": "northamerica/unitedstates/florida/ruskin",
+      "prior_mu": 19.82,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lubero",
+      "path": "africa/congokinshasa/lubero",
+      "prior_mu": 16.65,
+      "prior_sigma": 3.76,
+      "prior_n": 4
+    }
+  ]
+}

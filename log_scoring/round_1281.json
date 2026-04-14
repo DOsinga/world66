@@ -1,0 +1,200 @@
+{
+  "round": 1281,
+  "timestamp": "2026-04-12T22:19:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_rank": 124,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_rank": 57,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Provence",
+      "path": "europe/france/midi_1/provence",
+      "prior_rank": 62,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Phuket",
+      "path": "asia/thailand/phuket",
+      "prior_rank": 33,
+      "prior_wins": 89,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_rank": 18,
+      "prior_wins": 178,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_rank": 1484,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_rank": 180,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "\u201cTakayama\u201d",
+      "path": "asia/japan/takayama",
+      "prior_rank": 433,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_rank": 302,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_rank": 543,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_rank": 154,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_rank": 153,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_rank": 155,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bolivia",
+      "path": "southamerica/bolivia",
+      "prior_rank": 116,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_rank": 1946,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_rank": 304,
+      "prior_wins": 103,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_rank": 327,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Gran Canaria",
+      "path": "europe/spain/grancanaria",
+      "prior_rank": 129,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Busan",
+      "path": "asia/southkorea/pusan",
+      "prior_rank": 439,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_rank": 1947,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "George Town",
+      "path": "northamerica/caymanislands/grandcayman/george_town",
+      "prior_rank": 2409,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_rank": 61,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_rank": 101,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_rank": 445,
+      "prior_wins": 80,
+      "prior_n": 4
+    }
+  ]
+}

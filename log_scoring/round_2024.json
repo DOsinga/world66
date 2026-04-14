@@ -1,0 +1,200 @@
+{
+  "round": 2024,
+  "timestamp": "2026-04-13T16:03:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sabah",
+      "path": "asia/malaysia/sabah",
+      "prior_score": 5.4359,
+      "prior_variance": 0.277838,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 3.7024,
+      "prior_variance": 0.264018,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 5.7966,
+      "prior_variance": 0.362698,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 4.399,
+      "prior_variance": 0.294165,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 5.128,
+      "prior_variance": 0.258872,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "The Hamptons",
+      "path": "northamerica/unitedstates/newyorkstate/hamptons_on_long_i",
+      "prior_score": 3.8343,
+      "prior_variance": 0.281487,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Southern Norway (Sorlandet)",
+      "path": "europe/norway/southernnorways",
+      "prior_score": 3.8007,
+      "prior_variance": 0.359763,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 0.4531,
+      "prior_variance": 0.325613,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 3.7261,
+      "prior_variance": 0.299052,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Romantic Russell",
+      "path": "australiaandpacific/newzealand/romanticrussell",
+      "prior_score": 3.605,
+      "prior_variance": 0.283937,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 0.5177,
+      "prior_variance": 0.410191,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 2.6781,
+      "prior_variance": 0.312496,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -1.2144,
+      "prior_variance": 0.262777,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.2797,
+      "prior_variance": 0.245721,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Davao",
+      "path": "asia/philippines/davao",
+      "prior_score": 0.4782,
+      "prior_variance": 0.181342,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -3.0839,
+      "prior_variance": 0.244028,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -1.7921,
+      "prior_variance": 0.249262,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -1.6213,
+      "prior_variance": 0.288601,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.127,
+      "prior_variance": 0.267254,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -3.0877,
+      "prior_variance": 0.240166,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.7293,
+      "prior_variance": 0.279053,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -4.2346,
+      "prior_variance": 0.411257,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_score": -6.3062,
+      "prior_variance": 0.325946,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Moanda",
+      "path": "africa/congokinshasa/moanda",
+      "prior_score": -7.4131,
+      "prior_variance": 0.290361,
+      "prior_n": 6
+    }
+  ]
+}

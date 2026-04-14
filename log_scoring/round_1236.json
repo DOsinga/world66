@@ -1,0 +1,200 @@
+{
+  "round": 1236,
+  "timestamp": "2026-04-12T22:16:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_rank": 498,
+      "prior_wins": 88,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_rank": 334,
+      "prior_wins": 82,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_rank": 546,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_rank": 548,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_rank": 917,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_rank": 1661,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_rank": 695,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_rank": 1176,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/avebury",
+      "prior_rank": 1244,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lak",
+      "prior_rank": 1230,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_rank": 599,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_rank": 961,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_rank": 306,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_rank": 1603,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Stoupa",
+      "path": "europe/greece/stoupa",
+      "prior_rank": 2462,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_rank": 1430,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dominica",
+      "path": "northamerica/thecaribbean/dominica",
+      "prior_rank": 1865,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_rank": 910,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_rank": 1877,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_rank": 1713,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_rank": 1053,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_rank": 1066,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_rank": 771,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_rank": 1187,
+      "prior_wins": 53,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 158,
+  "timestamp": "2026-04-12T08:46:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_s",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Gernika",
+      "path": "europe/spain/northernspain/guernika",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Vanuatu",
+      "path": "australiaandpacific/vanuatu",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/losangeles/manhattenbeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/northampton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Campobello Island",
+      "path": "northamerica/canada/newbrunswick/campobello_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Queens",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Ventura County",
+      "path": "northamerica/unitedstates/california/ventura_county_ca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Quality Inn New Haven",
+      "path": "northamerica/unitedstates/connecticut/quality_inn_new_ha",
+      "prior_mu": 18.3078,
+      "prior_sigma": 6.7538,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

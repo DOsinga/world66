@@ -1,0 +1,200 @@
+{
+  "round": 1003,
+  "timestamp": "2026-04-12T22:04:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_rank": 6177,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Papua New Guinea",
+      "path": "asia/papuanewguinea",
+      "prior_rank": 6782,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_rank": 1580,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_rank": 4248,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_rank": 4730,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_rank": 5097,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_rank": 5071,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Simeiz",
+      "path": "europe/ukraine/crimea/simeiz",
+      "prior_rank": 4990,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_rank": 5774,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_rank": 7190,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_rank": 3760,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_rank": 5845,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_rank": 6970,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_rank": 5840,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_rank": 6030,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_rank": 6256,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Blacksburg",
+      "path": "northamerica/unitedstates/virginia/blacksburg",
+      "prior_rank": 2739,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_rank": 3932,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_rank": 6825,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_rank": 7023,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_rank": 3287,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_rank": 3442,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_rank": 7728,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_rank": 7350,
+      "prior_wins": 3,
+      "prior_n": 1
+    }
+  ]
+}

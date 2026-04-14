@@ -1,0 +1,200 @@
+{
+  "round": 1686,
+  "timestamp": "2026-04-13T10:42:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 11.9076,
+      "prior_variance": 0.781216,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_score": 14.2371,
+      "prior_variance": 1.119999,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Spain",
+      "path": "europe/spain",
+      "prior_score": -1.039,
+      "prior_variance": 0.534794,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sabah",
+      "path": "asia/malaysia/sabah",
+      "prior_score": 5.7401,
+      "prior_variance": 0.352844,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 5.9843,
+      "prior_variance": 0.439032,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 5.7079,
+      "prior_variance": 0.332168,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 4.4984,
+      "prior_variance": 0.388917,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.7906,
+      "prior_variance": 0.406076,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 2.6547,
+      "prior_variance": 0.306307,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 1.5623,
+      "prior_variance": 0.343159,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": 1.0259,
+      "prior_variance": 0.288233,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 0.9193,
+      "prior_variance": 0.416909,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -4.8598,
+      "prior_variance": 0.599129,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 1.6626,
+      "prior_variance": 0.367643,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": 0.603,
+      "prior_variance": 0.340304,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Punjab",
+      "path": "asia/india/punjab",
+      "prior_score": -1.4968,
+      "prior_variance": 0.674669,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.5095,
+      "prior_variance": 0.307023,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -2.144,
+      "prior_variance": 0.395823,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -4.7194,
+      "prior_variance": 0.539248,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.9825,
+      "prior_variance": 0.341648,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.7255,
+      "prior_variance": 0.388353,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -2.9543,
+      "prior_variance": 0.301018,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Pasco County",
+      "path": "northamerica/unitedstates/florida/pasco_county",
+      "prior_score": -4.9751,
+      "prior_variance": 0.326134,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -6.0766,
+      "prior_variance": 0.407592,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1243,
+  "timestamp": "2026-04-12T22:17:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_rank": 840,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_rank": 290,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_rank": 1180,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_rank": 244,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_rank": 494,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_rank": 307,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_rank": 619,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_rank": 485,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_rank": 890,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_rank": 389,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_rank": 870,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_rank": 1075,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_rank": 751,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_rank": 730,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sabah",
+      "path": "asia/malaysia/sabah",
+      "prior_rank": 829,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_rank": 342,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_rank": 1490,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_rank": 403,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Curacao",
+      "path": "northamerica/netherlandsantilles/curacao",
+      "prior_rank": 133,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_rank": 3048,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_rank": 1508,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_rank": 525,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_rank": 4740,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_rank": 629,
+      "prior_wins": 58,
+      "prior_n": 3
+    }
+  ]
+}

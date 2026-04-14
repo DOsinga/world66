@@ -1,0 +1,200 @@
+{
+  "round": 512,
+  "timestamp": "2026-04-12T09:43:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_mu": 33.2567,
+      "prior_sigma": 5.6758,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_mu": 21.6242,
+      "prior_sigma": 3.8042,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_mu": 20.8317,
+      "prior_sigma": 3.7409,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_mu": 22.5191,
+      "prior_sigma": 4.3599,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Texel island",
+      "path": "europe/netherlands/waddenislands/texel_island",
+      "prior_mu": 24.0232,
+      "prior_sigma": 4.1898,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_mu": 21.3562,
+      "prior_sigma": 3.3126,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_mu": 22.7256,
+      "prior_sigma": 5.7096,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_mu": 22.0443,
+      "prior_sigma": 4.6874,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_mu": 21.0497,
+      "prior_sigma": 3.2489,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_mu": 21.1604,
+      "prior_sigma": 3.2993,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Friesland",
+      "path": "europe/netherlands/friesland",
+      "prior_mu": 22.0585,
+      "prior_sigma": 5.3451,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_mu": 21.5382,
+      "prior_sigma": 4.4322,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 21.3366,
+      "prior_sigma": 4.5042,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_mu": 20.8068,
+      "prior_sigma": 3.3843,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_mu": 21.2234,
+      "prior_sigma": 4.2894,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_mu": 20.8527,
+      "prior_sigma": 3.3699,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_mu": 22.3735,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Meppel",
+      "path": "europe/netherlands/meppel",
+      "prior_mu": 21.2161,
+      "prior_sigma": 3.714,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_mu": 22.4195,
+      "prior_sigma": 5.7815,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_mu": 21.5001,
+      "prior_sigma": 4.4726,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_mu": 21.4563,
+      "prior_sigma": 4.0839,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_mu": 21.4486,
+      "prior_sigma": 4.2464,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_mu": 21.2431,
+      "prior_sigma": 3.7976,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_mu": 21.6584,
+      "prior_sigma": 4.4986,
+      "prior_n": 2
+    }
+  ]
+}

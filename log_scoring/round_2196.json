@@ -1,0 +1,200 @@
+{
+  "round": 2196,
+  "timestamp": "2026-04-13T16:19:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.6131,
+      "prior_variance": 0.336146,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ardeche",
+      "path": "europe/france/midi/ardeche",
+      "prior_score": 3.3618,
+      "prior_variance": 0.235247,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 3.4595,
+      "prior_variance": 0.244901,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 2.1809,
+      "prior_variance": 0.278143,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 4.4917,
+      "prior_variance": 0.243265,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": 0.9868,
+      "prior_variance": 0.233867,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": -0.9471,
+      "prior_variance": 0.234449,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.3335,
+      "prior_variance": 0.261095,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.5833,
+      "prior_variance": 0.21691,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_score": -1.5566,
+      "prior_variance": 0.285617,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.6632,
+      "prior_variance": 0.206041,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -3.7276,
+      "prior_variance": 0.242062,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.9457,
+      "prior_variance": 0.258098,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_score": -4.5256,
+      "prior_variance": 0.272445,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Holyoke",
+      "path": "northamerica/unitedstates/massachusetts/holyoke",
+      "prior_score": -4.8484,
+      "prior_variance": 0.27833,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_score": -6.1485,
+      "prior_variance": 0.363059,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.7567,
+      "prior_variance": 0.311905,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Clifton",
+      "path": "northamerica/unitedstates/newjersey/clifton",
+      "prior_score": -5.2209,
+      "prior_variance": 0.309861,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -5.6164,
+      "prior_variance": 0.283241,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_score": -6.8777,
+      "prior_variance": 0.452542,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -6.2873,
+      "prior_variance": 0.337169,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rajar (Khushab)",
+      "path": "asia/pakistan/islamabad/rajar_khushab",
+      "prior_score": -9.1978,
+      "prior_variance": 0.322498,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "adagav",
+      "path": "asia/india/maharashtra/konkan/adagav",
+      "prior_score": -8.5644,
+      "prior_variance": 0.513284,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -9.1335,
+      "prior_variance": 0.24916,
+      "prior_n": 8
+    }
+  ]
+}

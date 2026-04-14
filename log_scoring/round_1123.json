@@ -1,0 +1,200 @@
+{
+  "round": 1123,
+  "timestamp": "2026-04-12T22:10:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ivory Coast",
+      "path": "africa/ivorycoast",
+      "prior_rank": 6973,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_rank": 8085,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/eastern_england/ipswich",
+      "prior_rank": 6730,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_rank": 7918,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_rank": 7651,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_rank": 7796,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_rank": 6498,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_rank": 6465,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_rank": 7824,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Campoformido",
+      "path": "europe/italy/friuliveneziagiulia/campoformido",
+      "prior_rank": 7861,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_rank": 6781,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mungivacca",
+      "path": "europe/italy/puglia/bari/mungivacca",
+      "prior_rank": 7219,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_rank": 6734,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_rank": 6992,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_rank": 6945,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaana",
+      "prior_rank": 3909,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pickerington",
+      "path": "northamerica/unitedstates/ohio/pickerington",
+      "prior_rank": 8068,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_rank": 7165,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_rank": 6150,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/indiana/auburn",
+      "prior_rank": 5292,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_rank": 7800,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_rank": 7811,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Renfrew",
+      "path": "europe/unitedkingdom/scotland/glasgow/renfrew",
+      "prior_rank": 7752,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ural",
+      "path": "europe/russia/ural",
+      "prior_rank": 7507,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

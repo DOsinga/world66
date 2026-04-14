@@ -1,0 +1,200 @@
+{
+  "round": 1958,
+  "timestamp": "2026-04-13T15:57:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Washington",
+      "path": "northamerica/unitedstates/washington",
+      "prior_score": 5.7671,
+      "prior_variance": 0.302177,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lazise",
+      "path": "europe/italy/lombardia/lagodigarda/lazise",
+      "prior_score": 5.5217,
+      "prior_variance": 0.288881,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 2.0519,
+      "prior_variance": 0.255657,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": -0.1005,
+      "prior_variance": 0.277462,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/greatyarmouth",
+      "prior_score": -0.8285,
+      "prior_variance": 0.30596,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nainital",
+      "path": "asia/india/uttarpradesh/nainital",
+      "prior_score": 1.8243,
+      "prior_variance": 0.272693,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.5276,
+      "prior_variance": 0.246683,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.5315,
+      "prior_variance": 0.278257,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -1.9424,
+      "prior_variance": 0.29963,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -2.9622,
+      "prior_variance": 0.260874,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.5499,
+      "prior_variance": 0.221915,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Zhongshan",
+      "path": "asia/china/zhongshan",
+      "prior_score": -2.6349,
+      "prior_variance": 0.29466,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -3.6043,
+      "prior_variance": 0.268452,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.6837,
+      "prior_variance": 0.272061,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -3.6571,
+      "prior_variance": 0.240377,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -4.7768,
+      "prior_variance": 0.309125,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_score": -3.5205,
+      "prior_variance": 0.243328,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Nias Selatan",
+      "path": "asia/indonesia/nias_selatan",
+      "prior_score": -3.3114,
+      "prior_variance": 0.416677,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/norfolk/wolferton",
+      "prior_score": -3.8114,
+      "prior_variance": 0.35846,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": -4.5946,
+      "prior_variance": 0.355168,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "East",
+      "path": "europe/france/east",
+      "prior_score": -3.2346,
+      "prior_variance": 0.407453,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.2118,
+      "prior_variance": 0.332894,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Woodbridge",
+      "path": "northamerica/unitedstates/virginia/woodbridge",
+      "prior_score": -4.5789,
+      "prior_variance": 0.302769,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Holiday Inn Philadelphia-Cherry Hill",
+      "path": "northamerica/unitedstates/newjersey/holiday_inn_philad",
+      "prior_score": -8.0135,
+      "prior_variance": 0.627457,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1433,
+  "timestamp": "2026-04-12T22:27:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_rank": 6206,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_rank": 7637,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_rank": 5644,
+      "prior_wins": 34,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ivory Coast",
+      "path": "africa/ivorycoast",
+      "prior_rank": 5935,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_rank": 6013,
+      "prior_wins": 32,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_rank": 7529,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_rank": 6851,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_rank": 6884,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_rank": 7634,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_rank": 7911,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "bagh azad kashmir",
+      "path": "asia/pakistan/azad_kashmir/bagh/bagh_azad_kashmir",
+      "prior_rank": 5612,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_rank": 6645,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_rank": 7544,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "hopfingen",
+      "path": "europe/germany/badenwrttemberg/hopfingen",
+      "prior_rank": 6685,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_rank": 7729,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_rank": 7983,
+      "prior_wins": 14,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Oklahoma",
+      "path": "northamerica/unitedstates/oklahoma",
+      "prior_rank": 7402,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_rank": 8072,
+      "prior_wins": 13,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "bedford",
+      "path": "northamerica/unitedstates/ohio/bedford",
+      "prior_rank": 6400,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/luton",
+      "prior_rank": 8040,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_rank": 6607,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "San Diego",
+      "path": "southamerica/venezuela/altos_mirandinos/san_diego",
+      "prior_rank": 8079,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_rank": 8113,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_rank": 7359,
+      "prior_wins": 21,
+      "prior_n": 5
+    }
+  ]
+}

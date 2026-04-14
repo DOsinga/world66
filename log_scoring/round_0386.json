@@ -1,0 +1,200 @@
+{
+  "round": 386,
+  "timestamp": "2026-04-12T09:14:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyushu",
+      "path": "asia/japan/kyushu",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/otago/dunedin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_mu": 23.2073,
+      "prior_sigma": 5.8551,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Tongatapu",
+      "path": "australiaandpacific/tonga/tongatapu",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.9146,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_mu": 22.7231,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_mu": 22.1895,
+      "prior_sigma": 5.7726,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_mu": 22.7445,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_mu": 22.4775,
+      "prior_sigma": 5.9067,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_mu": 22.4775,
+      "prior_sigma": 5.9067,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_mu": 22.7172,
+      "prior_sigma": 5.9492,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_mu": 22.3851,
+      "prior_sigma": 5.8892,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_mu": 21.7372,
+      "prior_sigma": 4.6038,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bjuv",
+      "path": "europe/sweden/bjuv",
+      "prior_mu": 22.5286,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Carina",
+      "path": "australiaandpacific/australia/queensland/carina",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Dry Gap",
+      "path": "northamerica/unitedstates/kentucky/dry_gap",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Garata",
+      "path": "europe/bulgaria/gornaoryahovica/garata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

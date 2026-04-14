@@ -1,0 +1,200 @@
+{
+  "round": 1842,
+  "timestamp": "2026-04-13T10:56:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.6451,
+      "prior_variance": 0.313648,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Casamicciola Terme",
+      "path": "europe/italy/campania/ischia/casamicciola",
+      "prior_score": 2.1391,
+      "prior_variance": 0.365977,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 2.1493,
+      "prior_variance": 0.447867,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 3.0253,
+      "prior_variance": 0.272264,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_score": -0.6512,
+      "prior_variance": 0.353873,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 1.2711,
+      "prior_variance": 0.316016,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_notting/lincoln",
+      "prior_score": -0.1514,
+      "prior_variance": 0.299572,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.3509,
+      "prior_variance": 0.329244,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -1.4384,
+      "prior_variance": 0.294364,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Draginuan",
+      "path": "europe/france/midi/draginuan",
+      "prior_score": -2.1725,
+      "prior_variance": 0.327799,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -2.7504,
+      "prior_variance": 0.249605,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cortenuova",
+      "path": "europe/italy/lombardia/cortenuova",
+      "prior_score": -5.7006,
+      "prior_variance": 0.418607,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -0.6131,
+      "prior_variance": 0.277188,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "El castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": -1.1276,
+      "prior_variance": 0.269154,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lanzhou",
+      "path": "asia/china/lanzhou",
+      "prior_score": -2.216,
+      "prior_variance": 0.307406,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "O Rosal Valley",
+      "path": "europe/spain/galicia/o_rosal_valley",
+      "prior_score": -1.7933,
+      "prior_variance": 0.306794,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -2.1458,
+      "prior_variance": 0.201481,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_score": -0.0335,
+      "prior_variance": 0.271363,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Warwick",
+      "path": "northamerica/unitedstates/rhodeisland/warwick",
+      "prior_score": -3.4271,
+      "prior_variance": 0.528341,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.5529,
+      "prior_variance": 0.262082,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.7905,
+      "prior_variance": 0.451954,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -8.1617,
+      "prior_variance": 0.400218,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -7.4068,
+      "prior_variance": 0.580423,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -10.6748,
+      "prior_variance": 0.622882,
+      "prior_n": 5
+    }
+  ]
+}

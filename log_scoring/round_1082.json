@@ -1,0 +1,200 @@
+{
+  "round": 1082,
+  "timestamp": "2026-04-12T22:08:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Latvia",
+      "path": "europe/latvia",
+      "prior_rank": 3729,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_rank": 4371,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_rank": 4040,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_rank": 4699,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_rank": 4166,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/hove",
+      "prior_rank": 3001,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_rank": 5997,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_rank": 2130,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_rank": 5349,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_rank": 2343,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_rank": 4953,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Samar Island",
+      "path": "asia/philippines/samarisland",
+      "prior_rank": 4457,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Northern Kenya",
+      "path": "africa/kenya/northernkenya",
+      "prior_rank": 4070,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_rank": 4637,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_rank": 5077,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_rank": 3875,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_rank": 4951,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_rank": 5137,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_rank": 2799,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_rank": 4931,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_rank": 4463,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_rank": 5996,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_rank": 4940,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_rank": 5376,
+      "prior_wins": 17,
+      "prior_n": 2
+    }
+  ]
+}

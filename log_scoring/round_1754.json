@@ -1,0 +1,200 @@
+{
+  "round": 1754,
+  "timestamp": "2026-04-13T10:48:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 12.4468,
+      "prior_variance": 0.64816,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cheverny",
+      "path": "europe/france/centre/loirevalley/cheverny",
+      "prior_score": 5.4708,
+      "prior_variance": 0.325315,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 3.5877,
+      "prior_variance": 0.39975,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "costa dorada",
+      "path": "europe/spain/catalonia/costa_dorada",
+      "prior_score": 3.1148,
+      "prior_variance": 0.409263,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_score": 1.3822,
+      "prior_variance": 0.326307,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 1.2259,
+      "prior_variance": 0.436353,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Georgia",
+      "path": "europe/georgia",
+      "prior_score": -2.4194,
+      "prior_variance": 1.327396,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/southampton",
+      "prior_score": -1.2672,
+      "prior_variance": 0.367468,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 1.8746,
+      "prior_variance": 0.328221,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tretten",
+      "path": "europe/norway/tretten",
+      "prior_score": 0.1392,
+      "prior_variance": 0.339703,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 2.9953,
+      "prior_variance": 0.388757,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -0.364,
+      "prior_variance": 0.265804,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -2.3124,
+      "prior_variance": 0.226642,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Hunan",
+      "path": "asia/china/hunan",
+      "prior_score": 1.6523,
+      "prior_variance": 0.424858,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_notting/loughborough",
+      "prior_score": -1.6362,
+      "prior_variance": 0.320958,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -2.7928,
+      "prior_variance": 0.261934,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/tuxtepec",
+      "prior_score": -2.9628,
+      "prior_variance": 0.333648,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -3.7096,
+      "prior_variance": 0.350054,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sylvania",
+      "path": "northamerica/unitedstates/ohio/sylvania",
+      "prior_score": -5.7864,
+      "prior_variance": 0.29959,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -4.8272,
+      "prior_variance": 0.496731,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Puebla",
+      "path": "northamerica/mexico/yucatan/puebla",
+      "prior_score": -4.0259,
+      "prior_variance": 0.339512,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Boghni",
+      "path": "africa/algeria/boghni",
+      "prior_score": -7.6624,
+      "prior_variance": 0.383972,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -7.367,
+      "prior_variance": 0.337551,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.2155,
+      "prior_variance": 0.534333,
+      "prior_n": 4
+    }
+  ]
+}

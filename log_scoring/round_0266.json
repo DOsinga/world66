@@ -1,0 +1,200 @@
+{
+  "round": 266,
+  "timestamp": "2026-04-12T09:09:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_mu": 27.1995,
+      "prior_sigma": 6.1175,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kailua",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_mu": 22.9109,
+      "prior_sigma": 5.9583,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_mu": 23.235,
+      "prior_sigma": 5.7707,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/northland/paihia",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/albenga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_mu": 22.7224,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_mu": 22.1819,
+      "prior_sigma": 5.8513,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Felton",
+      "path": "northamerica/unitedstates/california/centralcoast/felton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Milton",
+      "path": "northamerica/canada/ontario/milton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Festivals",
+      "path": "africa/burkinafaso/ouagadougou/fespaco",
+      "prior_mu": 20.7873,
+      "prior_sigma": 4.7044,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_mu": 18.3439,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

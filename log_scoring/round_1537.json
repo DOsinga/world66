@@ -1,0 +1,200 @@
+{
+  "round": 1537,
+  "timestamp": "2026-04-13T10:29:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_score": 0.0875,
+      "prior_variance": 0.723696,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.6186,
+      "prior_variance": 0.427179,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sao paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_score": -0.4644,
+      "prior_variance": 0.367177,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 3.2257,
+      "prior_variance": 0.577748,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 1.3772,
+      "prior_variance": 0.494093,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.9342,
+      "prior_variance": 0.423555,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": 0.1784,
+      "prior_variance": 0.343075,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.5057,
+      "prior_variance": 0.35769,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 3.8946,
+      "prior_variance": 0.37339,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 0.4466,
+      "prior_variance": 0.78498,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -0.1382,
+      "prior_variance": 0.368052,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 5.2733,
+      "prior_variance": 0.559913,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 1.352,
+      "prior_variance": 0.486192,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": -0.0615,
+      "prior_variance": 0.479223,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Saint John",
+      "path": "northamerica/canada/newbrunswick/saintjohn",
+      "prior_score": 0.0363,
+      "prior_variance": 0.413126,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 3.0367,
+      "prior_variance": 0.357632,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": -2.3294,
+      "prior_variance": 0.697817,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Coloane",
+      "path": "asia/china/macau/coloane",
+      "prior_score": 2.329,
+      "prior_variance": 0.420482,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.715,
+      "prior_variance": 0.527768,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/langeoog",
+      "prior_score": 0.02,
+      "prior_variance": 0.42344,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": 0.9701,
+      "prior_variance": 0.406946,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -1.2072,
+      "prior_variance": 0.645447,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -2.9311,
+      "prior_variance": 0.367726,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": 1.5614,
+      "prior_variance": 0.501041,
+      "prior_n": 3
+    }
+  ]
+}

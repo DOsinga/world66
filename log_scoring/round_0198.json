@@ -1,0 +1,200 @@
+{
+  "round": 198,
+  "timestamp": "2026-04-12T08:47:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Winelands",
+      "path": "africa/southafrica/winelands",
+      "prior_mu": 23.3661,
+      "prior_sigma": 5.7508,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Arran",
+      "path": "europe/unitedkingdom/scotland/arran",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kalsoy",
+      "path": "europe/faroeislands/kalsoy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Gipuzkoa",
+      "path": "europe/spain/gipuzkoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_mu": 22.724,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "N\u00e4vekvarn",
+      "path": "europe/sweden/nvekvarn",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Temara",
+      "path": "africa/morocco/rabat/temara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Benin",
+      "path": "africa/benin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Theft",
+      "path": "travelwise/safetyandsecurity/theft",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

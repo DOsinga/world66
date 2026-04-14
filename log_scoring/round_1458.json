@@ -1,0 +1,200 @@
+{
+  "round": 1458,
+  "timestamp": "2026-04-12T22:28:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skye",
+      "path": "europe/unitedkingdom/scotland/skye",
+      "prior_rank": 449,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_rank": 675,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_rank": 1683,
+      "prior_wins": 72,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/otago/wanaka",
+      "prior_rank": 1344,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_rank": 1176,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_rank": 38,
+      "prior_wins": 110,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_rank": 131,
+      "prior_wins": 105,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_rank": 1045,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_rank": 1592,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_rank": 237,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_rank": 1339,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_rank": 93,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national",
+      "prior_rank": 1606,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_rank": 372,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_rank": 87,
+      "prior_wins": 107,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_rank": 1161,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_rank": 839,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/finaleligure",
+      "prior_rank": 497,
+      "prior_wins": 133,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_rank": 1468,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_rank": 181,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_rank": 632,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_rank": 386,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_rank": 1826,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_rank": 861,
+      "prior_wins": 54,
+      "prior_n": 3
+    }
+  ]
+}

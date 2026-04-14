@@ -1,0 +1,200 @@
+{
+  "round": 1646,
+  "timestamp": "2026-04-13T10:38:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 5.8568,
+      "prior_variance": 0.338334,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 8.0359,
+      "prior_variance": 0.919293,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.4473,
+      "prior_variance": 0.339829,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.0364,
+      "prior_variance": 0.423758,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Camuy caves",
+      "path": "northamerica/puertorico/camuycaves",
+      "prior_score": 2.6107,
+      "prior_variance": 0.361562,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nanjing",
+      "path": "asia/china/nanjing",
+      "prior_score": 3.6784,
+      "prior_variance": 0.349514,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_score": 1.7613,
+      "prior_variance": 0.362604,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 2.9937,
+      "prior_variance": 0.45797,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.5507,
+      "prior_variance": 0.371521,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 2.3915,
+      "prior_variance": 0.32978,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -1.4448,
+      "prior_variance": 0.295074,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": 0.1968,
+      "prior_variance": 0.343438,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.2186,
+      "prior_variance": 0.450167,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -2.237,
+      "prior_variance": 0.402415,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Luderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.8555,
+      "prior_variance": 0.304364,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -1.0503,
+      "prior_variance": 0.339351,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Roxas City",
+      "path": "asia/philippines/manila/roxas_city",
+      "prior_score": -3.0441,
+      "prior_variance": 0.323742,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": 0.4533,
+      "prior_variance": 0.389216,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Aguadilla",
+      "path": "northamerica/puertorico/aguadilla",
+      "prior_score": 1.7106,
+      "prior_variance": 0.270283,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Blue Lamp",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluelamp",
+      "prior_score": -8.8041,
+      "prior_variance": 0.539921,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bouenza region",
+      "path": "africa/congobrazzaville/bouenzaregion",
+      "prior_score": -9.4867,
+      "prior_variance": 0.54142,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hotle",
+      "path": "asia/pakistan/dera_ghazi_khan/hotle",
+      "prior_score": -10.9548,
+      "prior_variance": 0.541854,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -9.1277,
+      "prior_variance": 0.384679,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.0731,
+      "prior_variance": 0.565557,
+      "prior_n": 4
+    }
+  ]
+}

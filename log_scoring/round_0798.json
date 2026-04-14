@@ -1,0 +1,200 @@
+{
+  "round": 798,
+  "timestamp": "2026-04-12T10:48:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iceland",
+      "path": "europe/iceland",
+      "prior_mu": 28.3313,
+      "prior_sigma": 5.7205,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fiordland",
+      "path": "australiaandpacific/newzealand/otago/fiordland",
+      "prior_mu": 33.9418,
+      "prior_sigma": 6.1607,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_mu": 24.19,
+      "prior_sigma": 3.8966,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Salo",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_mu": 22.8078,
+      "prior_sigma": 5.7207,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/northland/bayofislands",
+      "prior_mu": 22.9872,
+      "prior_sigma": 3.7476,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pitcairn Islands",
+      "path": "australiaandpacific/pitcairnislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_mu": 21.3462,
+      "prior_sigma": 3.2993,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/gisborne",
+      "prior_mu": 20.2984,
+      "prior_sigma": 3.8742,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/warwick",
+      "prior_mu": 21.3136,
+      "prior_sigma": 3.8135,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_mu": 25.7461,
+      "prior_sigma": 5.3597,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_mu": 22.4382,
+      "prior_sigma": 5.947,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Malaysia",
+      "path": "asia/malaysia",
+      "prior_mu": 21.8641,
+      "prior_sigma": 4.7786,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_mu": 21.6274,
+      "prior_sigma": 4.6433,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_mu": 21.1066,
+      "prior_sigma": 3.8284,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Irvine",
+      "path": "northamerica/unitedstates/california/orangecounty/irvine",
+      "prior_mu": 21.7453,
+      "prior_sigma": 4.5635,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/sandiego/delmar",
+      "prior_mu": 21.5843,
+      "prior_sigma": 4.4506,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/wigan",
+      "prior_mu": 20.3908,
+      "prior_sigma": 4.0556,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Zivinice",
+      "path": "europe/bosniaandherzegovina/zivinice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Sirsa",
+      "path": "asia/india/haryana/sirsa",
+      "prior_mu": 21.5162,
+      "prior_sigma": 4.5667,
+      "prior_n": 2
+    }
+  ]
+}

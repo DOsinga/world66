@@ -1,0 +1,200 @@
+{
+  "round": 56,
+  "timestamp": "2026-04-11T19:26:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_mu": 27.67,
+      "prior_sigma": 5.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_mu": 26.77,
+      "prior_sigma": 5.98,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_mu": 24.32,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_mu": 22.16,
+      "prior_sigma": 4.27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_mu": 23.91,
+      "prior_sigma": 4.17,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_mu": 21.67,
+      "prior_sigma": 3.95,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_mu": 21.56,
+      "prior_sigma": 4.51,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_mu": 22.13,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_mu": 22.12,
+      "prior_sigma": 4.71,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/swanage",
+      "prior_mu": 22.83,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/richmond",
+      "prior_mu": 22.4,
+      "prior_sigma": 5.79,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Africa",
+      "path": "africa",
+      "prior_mu": 22.3,
+      "prior_sigma": 5.38,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_mu": 20.68,
+      "prior_sigma": 5.23,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_mu": 10.91,
+      "prior_sigma": 5.05,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_mu": 22.73,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_mu": 22.35,
+      "prior_sigma": 5.71,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_mu": 22.0,
+      "prior_sigma": 5.4,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_mu": 21.89,
+      "prior_sigma": 5.35,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_mu": 21.67,
+      "prior_sigma": 4.45,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_mu": 21.03,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "LittleNeck",
+      "path": "northamerica/unitedstates/newyorkstate/littleneck",
+      "prior_mu": 21.03,
+      "prior_sigma": 4.6,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Naushera",
+      "path": "asia/pakistan/soon_valley/naushera",
+      "prior_mu": 22.27,
+      "prior_sigma": 5.59,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1717,
+  "timestamp": "2026-04-13T10:44:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spitsbergen",
+      "path": "europe/norway/spitsbergen",
+      "prior_score": 6.1601,
+      "prior_variance": 0.425746,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 4.9389,
+      "prior_variance": 0.368826,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_score": 1.9378,
+      "prior_variance": 0.288087,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 0.7943,
+      "prior_variance": 0.367564,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_sen",
+      "prior_score": 0.6215,
+      "prior_variance": 0.338885,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.9472,
+      "prior_variance": 0.38722,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": -0.3567,
+      "prior_variance": 0.362901,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 0.3751,
+      "prior_variance": 0.303921,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Remedios",
+      "path": "northamerica/cuba/remedios",
+      "prior_score": 0.9336,
+      "prior_variance": 0.312096,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Zimbabwe",
+      "path": "africa/zimbabwe",
+      "prior_score": -0.0822,
+      "prior_variance": 0.311609,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 0.5548,
+      "prior_variance": 0.328731,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -0.4373,
+      "prior_variance": 0.361421,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Guangzhou",
+      "path": "asia/china/guangzhou",
+      "prior_score": 0.0062,
+      "prior_variance": 0.290262,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mindanao island",
+      "path": "asia/philippines/mindanaoisland",
+      "prior_score": -1.1759,
+      "prior_variance": 0.325692,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -4.714,
+      "prior_variance": 0.303948,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Downtown",
+      "path": "northamerica/unitedstates/texas/houston/downtown",
+      "prior_score": -0.6291,
+      "prior_variance": 0.333958,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -3.5018,
+      "prior_variance": 0.298558,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Darmstadt",
+      "path": "europe/germany/hesse/darmstadt",
+      "prior_score": -0.02,
+      "prior_variance": 0.255667,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -2.9873,
+      "prior_variance": 0.332445,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lismore",
+      "path": "australiaandpacific/australia/newsouthwales/lismore",
+      "prior_score": -3.8932,
+      "prior_variance": 0.336576,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -3.4091,
+      "prior_variance": 0.345099,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -5.161,
+      "prior_variance": 0.369285,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.368,
+      "prior_variance": 0.304764,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -11.8918,
+      "prior_variance": 0.785329,
+      "prior_n": 4
+    }
+  ]
+}

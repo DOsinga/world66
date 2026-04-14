@@ -1,0 +1,40 @@
+{
+  "round": 655,
+  "timestamp": "2026-04-12T10:41:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 4,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Listing of countries using the Euro as their currency...",
+      "path": "travelwise/money/listing_of_countri",
+      "prior_mu": 17.3738,
+      "prior_sigma": 6.7083,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "ATMs",
+      "path": "travelwise/money/atms",
+      "prior_mu": 18.1836,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "ATM and Money Exchange",
+      "path": "travelwise/money/atm_and_money_exch",
+      "prior_mu": 17.9332,
+      "prior_sigma": 6.3718,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Credit Cards",
+      "path": "travelwise/money/creditcards",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

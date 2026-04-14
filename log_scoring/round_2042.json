@@ -1,0 +1,200 @@
+{
+  "round": 2042,
+  "timestamp": "2026-04-13T16:05:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_score": 5.1468,
+      "prior_variance": 0.306663,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 4.0993,
+      "prior_variance": 0.348988,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 4.3835,
+      "prior_variance": 0.344333,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.014,
+      "prior_variance": 0.265247,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.8553,
+      "prior_variance": 0.28512,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 1.6195,
+      "prior_variance": 0.221302,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.8873,
+      "prior_variance": 0.339743,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/palm_springs",
+      "prior_score": 3.0482,
+      "prior_variance": 0.311901,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Long Island",
+      "path": "northamerica/unitedstates/newyorkstate/long_island",
+      "prior_score": 1.3899,
+      "prior_variance": 0.247626,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "North Carolina",
+      "path": "northamerica/unitedstates/northcarolina",
+      "prior_score": 1.9553,
+      "prior_variance": 0.23555,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Marina del Rey",
+      "path": "northamerica/unitedstates/california/losangeles/marinadelrey",
+      "prior_score": 0.3957,
+      "prior_variance": 0.25977,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.9599,
+      "prior_variance": 0.2376,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 0.0991,
+      "prior_variance": 0.25258,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.9941,
+      "prior_variance": 0.243333,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Marsa Matroh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -0.8247,
+      "prior_variance": 0.306401,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.9509,
+      "prior_variance": 0.241142,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -2.7632,
+      "prior_variance": 0.356974,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Kragujevac",
+      "path": "europe/serbiaandmontenegro/kragujevac",
+      "prior_score": -3.9263,
+      "prior_variance": 0.347567,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "East",
+      "path": "europe/france/east",
+      "prior_score": -3.8583,
+      "prior_variance": 0.291948,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Iran",
+      "path": "asia/iran",
+      "prior_score": -5.8445,
+      "prior_variance": 0.43463,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": -2.5952,
+      "prior_variance": 0.337653,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -4.9079,
+      "prior_variance": 0.323222,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -1.3487,
+      "prior_variance": 0.3303,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -10.5818,
+      "prior_variance": 0.451369,
+      "prior_n": 5
+    }
+  ]
+}

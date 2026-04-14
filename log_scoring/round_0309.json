@@ -1,0 +1,200 @@
+{
+  "round": 309,
+  "timestamp": "2026-04-12T09:11:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Madagascar",
+      "path": "africa/madagascar",
+      "prior_mu": 22.1334,
+      "prior_sigma": 5.327,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Eilat",
+      "path": "asia/israel/eilat",
+      "prior_mu": 21.8218,
+      "prior_sigma": 4.8175,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Lancashire",
+      "path": "europe/unitedkingdom/england/lancashire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/churchstretton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Saarland",
+      "path": "europe/germany/saarland",
+      "prior_mu": 22.6259,
+      "prior_sigma": 5.9368,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Giessen",
+      "path": "europe/germany/hesse/giessen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Komarna",
+      "path": "europe/croatia/komarna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_mu": 21.9482,
+      "prior_sigma": 4.6852,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Paranuaque",
+      "path": "asia/philippines/manila/paranuaque",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Nightlife and Entertainment",
+      "path": "northamerica/canada/princeedwardisland/entertainment",
+      "prior_mu": 22.7222,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Eritrea",
+      "path": "africa/eritrea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

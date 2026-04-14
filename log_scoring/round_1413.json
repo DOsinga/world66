@@ -1,0 +1,200 @@
+{
+  "round": 1413,
+  "timestamp": "2026-04-12T22:26:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_rank": 5638,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_rank": 6783,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_rank": 7387,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_rank": 7843,
+      "prior_wins": 16,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown_1",
+      "prior_rank": 6849,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_rank": 8112,
+      "prior_wins": 15,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_rank": 7616,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_rank": 4642,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_rank": 7291,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/indiana/auburn",
+      "prior_rank": 6396,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Beveren",
+      "path": "europe/belgium/beveren",
+      "prior_rank": 7718,
+      "prior_wins": 20,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mol",
+      "path": "europe/belgium/mol",
+      "prior_rank": 7893,
+      "prior_wins": 23,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_rank": 7582,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mulheim",
+      "path": "europe/germany/brandenburg/mulheim",
+      "prior_rank": 7638,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cuzy",
+      "path": "europe/france/east/cuzy",
+      "prior_rank": 7879,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_rank": 7450,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Viipuri",
+      "path": "europe/russia/viipuri",
+      "prior_rank": 6652,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Zacapu",
+      "path": "northamerica/mexico/yucatan/zacapu",
+      "prior_rank": 7725,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sahagun Hidalgo",
+      "path": "northamerica/mexico/yucatan/sahagunhidalgo",
+      "prior_rank": 7824,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kairatabad",
+      "path": "asia/india/andhrapradesh/kairatabad",
+      "prior_rank": 7723,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_rank": 7437,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_rank": 7630,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_rank": 5708,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "e",
+      "path": "northamerica/unitedstates/colorado/e",
+      "prior_rank": 7149,
+      "prior_wins": 17,
+      "prior_n": 3
+    }
+  ]
+}

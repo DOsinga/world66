@@ -1,0 +1,200 @@
+{
+  "round": 209,
+  "timestamp": "2026-04-12T09:06:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Balearic islands",
+      "path": "europe/spain/balearicislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Rico",
+      "path": "northamerica/thecaribbean/puertorico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/sanremo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Tunisia",
+      "path": "africa/tunisia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Nor\u00f0oyggjar",
+      "path": "europe/faroeislands/noroyggjar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Southern Highlands",
+      "path": "africa/tanzania/sothern_highlands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_mu": 22.2153,
+      "prior_sigma": 5.7756,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ermelo",
+      "path": "europe/netherlands/ermelo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Val d'Or",
+      "path": "northamerica/canada/quebec/val_dor",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.681,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_mu": 22.7056,
+      "prior_sigma": 5.9478,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lekoumou region",
+      "path": "africa/congobrazzaville/lekoumouregion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Congo Kinshasa",
+      "path": "africa/congokinshasa",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 921,
+  "timestamp": "2026-04-12T14:50:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Singapore",
+      "path": "asia/singapore",
+      "prior_score": 13.0776,
+      "prior_variance": 7.599585,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 8.0382,
+      "prior_variance": 10.157107,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 5.4953,
+      "prior_variance": 1.687945,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 9.5907,
+      "prior_variance": 2.571003,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 13.1991,
+      "prior_variance": 8.037036,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 4.5161,
+      "prior_variance": 2.190843,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ventura County",
+      "path": "northamerica/unitedstates/california/ventura_county_ca",
+      "prior_score": -1.2849,
+      "prior_variance": 1.422345,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Queens",
+      "path": "northamerica/unitedstates/newyorkstate/newyork/queens",
+      "prior_score": -0.656,
+      "prior_variance": 1.450776,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Agder",
+      "path": "europe/norway/southernnorways/agder",
+      "prior_score": 1.6839,
+      "prior_variance": 0.82598,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": 0.2006,
+      "prior_variance": 1.464652,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -7.7622,
+      "prior_variance": 1.420761,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 6.1886,
+      "prior_variance": 0.810326,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": -1.5867,
+      "prior_variance": 0.925767,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_score": -1.836,
+      "prior_variance": 1.296396,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lori Marz",
+      "path": "europe/armenia/lori_marz",
+      "prior_score": -0.2517,
+      "prior_variance": 1.341662,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -3.2689,
+      "prior_variance": 1.299795,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -3.3757,
+      "prior_variance": 0.725992,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -1.3899,
+      "prior_variance": 1.312846,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -3.7556,
+      "prior_variance": 1.42501,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Dagestan",
+      "path": "europe/russia/dagestan",
+      "prior_score": -7.1565,
+      "prior_variance": 1.23234,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -8.0166,
+      "prior_variance": 1.303641,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -7.6861,
+      "prior_variance": 1.258793,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -7.5158,
+      "prior_variance": 1.47044,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Berberati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -14.0137,
+      "prior_variance": 3.22357,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1605,
+  "timestamp": "2026-04-13T10:35:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tanzania",
+      "path": "africa/tanzania",
+      "prior_score": -3.064,
+      "prior_variance": 1.035197,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Denali Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 7.7728,
+      "prior_variance": 0.38658,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "\u201cTakayama\u201d",
+      "path": "asia/japan/takayama",
+      "prior_score": 9.9794,
+      "prior_variance": 0.519478,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_score": 4.4426,
+      "prior_variance": 0.421281,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 4.9966,
+      "prior_variance": 0.430509,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_score": 3.591,
+      "prior_variance": 0.279934,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kalsoy",
+      "path": "europe/faroeislands/kalsoy",
+      "prior_score": 4.1266,
+      "prior_variance": 0.380372,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/avebury",
+      "prior_score": 5.959,
+      "prior_variance": 0.426072,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 3.1245,
+      "prior_variance": 0.629947,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_score": 3.7883,
+      "prior_variance": 0.248964,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Christ Church",
+      "path": "northamerica/barbados/christchurch",
+      "prior_score": 3.4974,
+      "prior_variance": 0.229641,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 4.4454,
+      "prior_variance": 0.42397,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_score": 3.7199,
+      "prior_variance": 0.368449,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 3.8309,
+      "prior_variance": 0.432494,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 3.6744,
+      "prior_variance": 0.300462,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 4.054,
+      "prior_variance": 0.309518,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Prizren",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
+      "prior_score": 2.5997,
+      "prior_variance": 0.398837,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wye Valley",
+      "path": "europe/unitedkingdom/wales/wye_valley",
+      "prior_score": 4.2097,
+      "prior_variance": 0.366913,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 3.9564,
+      "prior_variance": 0.34468,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Wadden islands",
+      "path": "europe/netherlands/waddenislands",
+      "prior_score": 3.178,
+      "prior_variance": 0.220426,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 2.6567,
+      "prior_variance": 0.383993,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "South Dakota",
+      "path": "northamerica/unitedstates/southdakota",
+      "prior_score": 2.2338,
+      "prior_variance": 0.387066,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 2.3442,
+      "prior_variance": 0.410376,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/newplymouth",
+      "prior_score": 2.2553,
+      "prior_variance": 0.343822,
+      "prior_n": 4
+    }
+  ]
+}

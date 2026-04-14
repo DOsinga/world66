@@ -1,0 +1,200 @@
+{
+  "round": 1804,
+  "timestamp": "2026-04-13T10:52:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Zealand",
+      "path": "australiaandpacific/newzealand",
+      "prior_score": 10.201,
+      "prior_variance": 0.500294,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Devon",
+      "path": "europe/unitedkingdom/england/devon",
+      "prior_score": 4.6423,
+      "prior_variance": 0.36851,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 5.2697,
+      "prior_variance": 0.352928,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_score": 4.9814,
+      "prior_variance": 0.471932,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 4.8118,
+      "prior_variance": 0.350636,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.4814,
+      "prior_variance": 0.363597,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "La Gomera",
+      "path": "europe/spain/canaryislands/lagomera",
+      "prior_score": 4.9199,
+      "prior_variance": 0.349393,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 1.9267,
+      "prior_variance": 0.278171,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.7827,
+      "prior_variance": 0.412817,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.075,
+      "prior_variance": 0.321626,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.1236,
+      "prior_variance": 0.31613,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 2.5962,
+      "prior_variance": 0.200919,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tigzirt",
+      "path": "africa/algeria/tigzirt",
+      "prior_score": -2.5366,
+      "prior_variance": 0.345615,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -3.5978,
+      "prior_variance": 0.330033,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": 0.0541,
+      "prior_variance": 0.375916,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "San Clemente",
+      "path": "northamerica/unitedstates/california/orangecounty/sanclemente",
+      "prior_score": -0.1194,
+      "prior_variance": 0.329205,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -1.6931,
+      "prior_variance": 0.29286,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_score": -3.5299,
+      "prior_variance": 0.29942,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_ca",
+      "prior_score": -2.0811,
+      "prior_variance": 0.40077,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -4.3402,
+      "prior_variance": 0.49346,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -4.5164,
+      "prior_variance": 0.608291,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bretten",
+      "path": "europe/germany/badenwrttemberg/bretten",
+      "prior_score": -2.7761,
+      "prior_variance": 0.316232,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -3.5384,
+      "prior_variance": 0.298764,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/harlow",
+      "prior_score": -7.0299,
+      "prior_variance": 0.436774,
+      "prior_n": 4
+    }
+  ]
+}

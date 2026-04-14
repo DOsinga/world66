@@ -1,0 +1,200 @@
+{
+  "round": 301,
+  "timestamp": "2026-04-12T09:10:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Aragon",
+      "path": "europe/spain/aragon",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_mu": 22.8991,
+      "prior_sigma": 5.9716,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tampa Bay Area",
+      "path": "northamerica/unitedstates/florida/tampabayarea",
+      "prior_mu": 22.7924,
+      "prior_sigma": 5.9584,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/paloalto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_mu": 22.2613,
+      "prior_sigma": 5.782,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Iligan City",
+      "path": "asia/philippines/mindanaoisland/iligan_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_mu": 22.2639,
+      "prior_sigma": 5.7824,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "woodmere",
+      "path": "northamerica/unitedstates/newyorkstate/woodmere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "hamdani sadat jaba",
+      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
+      "prior_mu": 14.548,
+      "prior_sigma": 2.9308,
+      "prior_n": 8
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 189,
+  "timestamp": "2026-04-12T08:47:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Norway",
+      "path": "europe/norway",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_som",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_mu": 22.6924,
+      "prior_sigma": 5.9461,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "MAIRA",
+      "path": "asia/pakistan/abbottabad/maira",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_mu": 14.9934,
+      "prior_sigma": 5.8991,
+      "prior_n": 2
+    }
+  ]
+}

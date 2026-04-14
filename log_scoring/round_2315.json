@@ -1,0 +1,200 @@
+{
+  "round": 2315,
+  "timestamp": "2026-04-13T16:30:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 3.1639,
+      "prior_variance": 0.224239,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_score": -0.1025,
+      "prior_variance": 0.328035,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Montserrat",
+      "path": "northamerica/montserrat",
+      "prior_score": 1.7407,
+      "prior_variance": 0.257714,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 1.041,
+      "prior_variance": 0.217935,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 2.8905,
+      "prior_variance": 0.222394,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": -0.188,
+      "prior_variance": 0.145125,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_score": 1.5338,
+      "prior_variance": 0.198364,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/chagford",
+      "prior_score": 0.3745,
+      "prior_variance": 0.201668,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -1.6656,
+      "prior_variance": 0.233888,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": 0.3296,
+      "prior_variance": 0.246717,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -1.6949,
+      "prior_variance": 0.191899,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.3499,
+      "prior_variance": 0.222745,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/greater_wellington/raumati_beach",
+      "prior_score": -1.7869,
+      "prior_variance": 0.275645,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/kaitaia",
+      "prior_score": -1.2915,
+      "prior_variance": 0.210201,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -0.4202,
+      "prior_variance": 0.229833,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Slagelse",
+      "path": "europe/denmark/slagelse",
+      "prior_score": -2.522,
+      "prior_variance": 0.204894,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/crewkerne",
+      "prior_score": -3.0997,
+      "prior_variance": 0.308967,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junctio",
+      "prior_score": -1.6779,
+      "prior_variance": 0.302744,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -2.5285,
+      "prior_variance": 0.336856,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -4.4678,
+      "prior_variance": 0.262254,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gjilan",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjilan",
+      "prior_score": -4.9036,
+      "prior_variance": 0.270123,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Zivinice",
+      "path": "europe/bosniaandherzegovina/zivinice",
+      "prior_score": -4.587,
+      "prior_variance": 0.269773,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -4.7118,
+      "prior_variance": 0.297371,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -7.045,
+      "prior_variance": 0.433719,
+      "prior_n": 6
+    }
+  ]
+}

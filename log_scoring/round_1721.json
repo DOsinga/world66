@@ -1,0 +1,200 @@
+{
+  "round": 1721,
+  "timestamp": "2026-04-13T10:45:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_eus/bilbao",
+      "prior_score": 7.0059,
+      "prior_variance": 0.341815,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": 4.658,
+      "prior_variance": 0.326629,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 2.5745,
+      "prior_variance": 0.330422,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Margaret River",
+      "path": "australiaandpacific/australia/westernaustralia/margaretriver",
+      "prior_score": 3.6882,
+      "prior_variance": 0.353584,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.6319,
+      "prior_variance": 0.394018,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_score": 2.3756,
+      "prior_variance": 0.269262,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 3.1717,
+      "prior_variance": 0.320164,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 2.7221,
+      "prior_variance": 0.365846,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 7.5611,
+      "prior_variance": 0.45829,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 2.4497,
+      "prior_variance": 0.333868,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 5.9405,
+      "prior_variance": 0.452228,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
+      "prior_score": 1.1162,
+      "prior_variance": 0.319396,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 5.727,
+      "prior_variance": 0.324473,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 2.0748,
+      "prior_variance": 0.54473,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 2.9044,
+      "prior_variance": 0.281394,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.6696,
+      "prior_variance": 0.324557,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -1.5563,
+      "prior_variance": 0.460074,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": 0.029,
+      "prior_variance": 0.339928,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nybro",
+      "path": "europe/sweden/nybro",
+      "prior_score": -4.3756,
+      "prior_variance": 0.29652,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Montrose",
+      "path": "northamerica/unitedstates/texas/houston/montrose",
+      "prior_score": -2.1993,
+      "prior_variance": 0.407278,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": 0.3009,
+      "prior_variance": 0.367005,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.0315,
+      "prior_variance": 0.295403,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -4.8629,
+      "prior_variance": 0.365119,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -5.0353,
+      "prior_variance": 0.463163,
+      "prior_n": 4
+    }
+  ]
+}

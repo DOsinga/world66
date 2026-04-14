@@ -1,0 +1,200 @@
+{
+  "round": 243,
+  "timestamp": "2026-04-12T09:08:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Channel Islands",
+      "path": "europe/channelislands",
+      "prior_mu": 22.7061,
+      "prior_sigma": 5.9478,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Otavalo Imbabura",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_mu": 22.7199,
+      "prior_sigma": 5.9495,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Vava'u Group",
+      "path": "australiaandpacific/tonga/vavau_group",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Carnac",
+      "path": "europe/france/aquitaine/carnac",
+      "prior_mu": 28.9736,
+      "prior_sigma": 7.0008,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "South-West",
+      "path": "australiaandpacific/australia/tasmania/southwest",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "West Coast",
+      "path": "australiaandpacific/australia/tasmania/westcoast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Wildlife",
+      "path": "asia/india/gujarat/wildlife",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Bury",
+      "path": "europe/unitedkingdom/england/bury",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Prior Lake",
+      "path": "northamerica/unitedstates/minnesota/priorlake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "hopfingen",
+      "path": "europe/germany/badenwrttemberg/hopfingen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "KURADHI",
+      "path": "asia/pakistan/soon_valley/kuradhi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

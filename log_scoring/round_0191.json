@@ -1,0 +1,200 @@
+{
+  "round": 191,
+  "timestamp": "2026-04-12T08:47:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Barbados",
+      "path": "northamerica/barbados",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Montenegro",
+      "path": "europe/montenegro",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sint Maarten",
+      "path": "northamerica/netherlandsantilles/sintmaarten",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_mu": 23.1312,
+      "prior_sigma": 3.951,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/teramo/pineto",
+      "prior_mu": 22.2666,
+      "prior_sigma": 5.7827,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_mu": 22.4926,
+      "prior_sigma": 5.9183,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Aguascalientes",
+      "path": "northamerica/mexico/aguascalientes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "La Romaine",
+      "path": "northamerica/trinidadandtobago/laromaine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 193,
+  "timestamp": "2026-04-12T08:47:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_mu": 23.3976,
+      "prior_sigma": 6.0282,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Spitsbergen",
+      "path": "europe/norway/spitsbergen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Adirondacks",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_p",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Mombasa",
+      "path": "africa/kenya/mombasa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 20.8243,
+      "prior_sigma": 2.6383,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_mu": 22.6856,
+      "prior_sigma": 5.945,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_mu": 20.5742,
+      "prior_sigma": 3.3599,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Transkei",
+      "path": "africa/southafrica/transkei",
+      "prior_mu": 23.0163,
+      "prior_sigma": 5.6931,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mughan",
+      "path": "europe/azerbaijan/baku/mughan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/haiti/petite_riviere_de",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Sunrise Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/sunrisecoffee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "MdFrJwObBzEDeO",
+      "path": "europe/russia/krasnoyarsk_region/mdfrjwobbzedeo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

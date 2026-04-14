@@ -1,0 +1,200 @@
+{
+  "round": 257,
+  "timestamp": "2026-04-12T09:08:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queensland",
+      "path": "australiaandpacific/australia/queensland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_mu": 22.7229,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/severn_bore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Limousin",
+      "path": "europe/france/centre/limousin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Tibas",
+      "path": "northamerica/costarica/tibas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_mu": 22.686,
+      "prior_sigma": 5.9454,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Satora",
+      "path": "asia/pakistan/abbottabad/satora",
+      "prior_mu": 18.3371,
+      "prior_sigma": 6.7578,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "caston norfolk",
+      "path": "europe/unitedkingdom/england/castonnorfolk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

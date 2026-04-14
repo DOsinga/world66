@@ -1,0 +1,200 @@
+{
+  "round": 970,
+  "timestamp": "2026-04-12T16:09:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/losangeles/santamonica",
+      "prior_rank": 168,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Shikoku",
+      "path": "asia/japan/shikoku",
+      "prior_rank": 252,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Noosa Heads",
+      "path": "australiaandpacific/australia/queensland/noosaheads",
+      "prior_rank": 449,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_rank": 1254,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_rank": 1355,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_rank": 5202,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_rank": 1651,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_rank": 1105,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_rank": 3209,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_rank": 2624,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_rank": 3953,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_rank": 1493,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_rank": 4135,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_rank": 4320,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_rank": 2457,
+      "prior_wins": 109,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_rank": 3118,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_rank": 3260,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_rank": 2519,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_rank": 3786,
+      "prior_wins": 61,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Carolina",
+      "path": "northamerica/puertorico/carolina",
+      "prior_rank": 4675,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Cortes",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_rank": 6690,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_rank": 4811,
+      "prior_wins": 67,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/bradford",
+      "prior_rank": 6398,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Campoformido",
+      "path": "europe/italy/friuliveneziagiulia/campoformido",
+      "prior_rank": 7159,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

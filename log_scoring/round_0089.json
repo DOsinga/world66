@@ -1,0 +1,200 @@
+{
+  "round": 89,
+  "timestamp": "2026-04-12T08:03:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_mu": 32.84,
+      "prior_sigma": 3.77,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_mu": 27.87,
+      "prior_sigma": 4.01,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/yucatan/coppercanyon",
+      "prior_mu": 24.98,
+      "prior_sigma": 3.6,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_mu": 23.87,
+      "prior_sigma": 2.99,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_mu": 26.28,
+      "prior_sigma": 4.04,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_mu": 21.9,
+      "prior_sigma": 3.98,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_mu": 21.27,
+      "prior_sigma": 3.13,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_mu": 21.17,
+      "prior_sigma": 3.63,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 20.77,
+      "prior_sigma": 2.91,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Rhode Island",
+      "path": "northamerica/unitedstates/rhodeisland",
+      "prior_mu": 22.3,
+      "prior_sigma": 5.49,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_mu": 21.64,
+      "prior_sigma": 4.24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Guangzhou",
+      "path": "asia/china/guangzhou",
+      "prior_mu": 23.07,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_mu": 22.09,
+      "prior_sigma": 5.28,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_mu": 21.41,
+      "prior_sigma": 3.44,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_mu": 20.98,
+      "prior_sigma": 3.13,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_mu": 18.5,
+      "prior_sigma": 4.03,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_mu": 21.2,
+      "prior_sigma": 4.39,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_mu": 20.12,
+      "prior_sigma": 2.96,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_mu": 20.47,
+      "prior_sigma": 2.87,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_mu": 20.22,
+      "prior_sigma": 3.72,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_mu": 19.63,
+      "prior_sigma": 3.05,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_mu": 20.42,
+      "prior_sigma": 3.26,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_mu": 13.62,
+      "prior_sigma": 4.18,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 29,
+  "timestamp": "2026-04-11T19:25:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/midi/aquitaine/bordeaux",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_mu": 24.89,
+      "prior_sigma": 4.96,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_mu": 22.62,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_mu": 26.53,
+      "prior_sigma": 6.08,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_mu": 21.68,
+      "prior_sigma": 4.74,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_mu": 22.51,
+      "prior_sigma": 4.9,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Qatar",
+      "path": "asia/qatar",
+      "prior_mu": 22.01,
+      "prior_sigma": 4.69,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_mu": 22.15,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_mu": 22.09,
+      "prior_sigma": 4.71,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_mu": 22.13,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_mu": 22.86,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_mu": 21.96,
+      "prior_sigma": 4.84,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "People",
+      "path": "asia/pakistan/lahore/people_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_mu": 21.03,
+      "prior_sigma": 4.59,
+      "prior_n": 2
+    }
+  ]
+}

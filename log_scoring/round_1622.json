@@ -1,0 +1,200 @@
+{
+  "round": 1622,
+  "timestamp": "2026-04-13T10:36:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/thecinqueterre",
+      "prior_score": 10.5587,
+      "prior_variance": 1.769017,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 6.6775,
+      "prior_variance": 0.441231,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 4.9783,
+      "prior_variance": 0.332967,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_pa",
+      "prior_score": 7.5629,
+      "prior_variance": 0.370362,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 5.4309,
+      "prior_variance": 0.375385,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 9.1072,
+      "prior_variance": 0.599479,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Grenada",
+      "path": "northamerica/thecaribbean/grenada",
+      "prior_score": 3.9734,
+      "prior_variance": 0.486727,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 0.8118,
+      "prior_variance": 0.481853,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 5.3308,
+      "prior_variance": 0.624023,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 5.3767,
+      "prior_variance": 0.171474,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 1.9196,
+      "prior_variance": 0.314883,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_score": 3.6354,
+      "prior_variance": 0.404231,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": 0.9138,
+      "prior_variance": 0.307248,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 2.1487,
+      "prior_variance": 0.867153,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester",
+      "prior_score": 1.1564,
+      "prior_variance": 0.395305,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -1.1218,
+      "prior_variance": 0.441105,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.31,
+      "prior_variance": 0.409477,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.3485,
+      "prior_variance": 0.31902,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 2.0304,
+      "prior_variance": 0.478793,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -3.3356,
+      "prior_variance": 0.440941,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -6.0268,
+      "prior_variance": 0.400352,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "al khasra",
+      "path": "asia/oman/alkhuwair/al_khasra",
+      "prior_score": -10.2474,
+      "prior_variance": 0.59579,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mirpurkhas",
+      "path": "asia/pakistan/mirpurkhas",
+      "prior_score": -10.4077,
+      "prior_variance": 0.717361,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_score": -9.3812,
+      "prior_variance": 0.722154,
+      "prior_n": 4
+    }
+  ]
+}

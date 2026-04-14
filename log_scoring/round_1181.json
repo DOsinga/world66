@@ -1,0 +1,200 @@
+{
+  "round": 1181,
+  "timestamp": "2026-04-12T22:13:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yunnan Province",
+      "path": "asia/china/yunnanprovince",
+      "prior_rank": 713,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lapland",
+      "path": "europe/finland/lapland",
+      "prior_rank": 308,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_rank": 306,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_rank": 496,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_rank": 407,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Merida",
+      "path": "northamerica/mexico/yucatan/merida",
+      "prior_rank": 609,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_rank": 540,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_rank": 689,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_rank": 2480,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_rank": 504,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_rank": 802,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_rank": 2207,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_rank": 535,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cuenca",
+      "path": "europe/spain/la_mancha/cuenca",
+      "prior_rank": 890,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_rank": 967,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_rank": 3090,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_rank": 1207,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_rank": 98,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Koh Chang",
+      "path": "asia/thailand/kohchang",
+      "prior_rank": 364,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_rank": 801,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Rico",
+      "path": "northamerica/thecaribbean/puertorico",
+      "prior_rank": 578,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_rank": 961,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Sixt Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_rank": 3001,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_rank": 21,
+      "prior_wins": 39,
+      "prior_n": 2
+    }
+  ]
+}

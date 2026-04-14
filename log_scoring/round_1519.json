@@ -1,0 +1,200 @@
+{
+  "round": 1519,
+  "timestamp": "2026-04-13T10:27:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacel",
+      "prior_score": 1.8229,
+      "prior_variance": 0.625028,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": 1.3818,
+      "prior_variance": 0.437265,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 0.0763,
+      "prior_variance": 0.394256,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 1.5707,
+      "prior_variance": 0.423472,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/princetown",
+      "prior_score": 0.3713,
+      "prior_variance": 0.397437,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_score": 0.1063,
+      "prior_variance": 0.184999,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/wangerooge",
+      "prior_score": 0.4575,
+      "prior_variance": 0.398165,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": 0.8024,
+      "prior_variance": 0.450512,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_score": 0.3276,
+      "prior_variance": 0.433002,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": 0.8642,
+      "prior_variance": 0.387157,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": 0.5122,
+      "prior_variance": 0.483544,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 1.7829,
+      "prior_variance": 0.60023,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.1634,
+      "prior_variance": 0.325892,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": -0.0494,
+      "prior_variance": 0.418479,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -0.1115,
+      "prior_variance": 0.3221,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": 0.0673,
+      "prior_variance": 0.34933,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -0.7063,
+      "prior_variance": 0.215472,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -0.0027,
+      "prior_variance": 0.422604,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/kaitaia",
+      "prior_score": -1.1076,
+      "prior_variance": 0.350114,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Alto Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
+      "prior_score": 1.0534,
+      "prior_variance": 0.537628,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": 0.5795,
+      "prior_variance": 0.420653,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -1.6135,
+      "prior_variance": 0.437129,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_score": -0.6531,
+      "prior_variance": 0.467024,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -1.5126,
+      "prior_variance": 0.514415,
+      "prior_n": 4
+    }
+  ]
+}

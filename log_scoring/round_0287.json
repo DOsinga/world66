@@ -1,0 +1,200 @@
+{
+  "round": 287,
+  "timestamp": "2026-04-12T09:10:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "French Alps",
+      "path": "europe/france/alpes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_is",
+      "prior_mu": 22.4627,
+      "prior_sigma": 5.9049,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_mu": 23.073,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/warwick",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/ramsgate",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/ventura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Landsberg",
+      "path": "europe/germany/bavaria/landsberg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Amizmiz",
+      "path": "africa/morocco/marrakesh/amizmiz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_mu": 22.2613,
+      "prior_sigma": 5.7819,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/losangeles/newhall",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Laurel",
+      "path": "northamerica/unitedstates/mississippi/laurel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "San Diego",
+      "path": "southamerica/venezuela/altos_mirandinos/san_diego",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

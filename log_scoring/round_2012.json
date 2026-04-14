@@ -1,0 +1,200 @@
+{
+  "round": 2012,
+  "timestamp": "2026-04-13T16:02:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gran Canaria",
+      "path": "europe/spain/grancanaria",
+      "prior_score": 7.3335,
+      "prior_variance": 0.346483,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 6.1716,
+      "prior_variance": 0.280866,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Jordan",
+      "path": "asia/jordan",
+      "prior_score": 6.4036,
+      "prior_variance": 0.61519,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_score": 3.7142,
+      "prior_variance": 0.208448,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 3.8036,
+      "prior_variance": 0.260244,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 3.3299,
+      "prior_variance": 0.252766,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea",
+      "prior_score": 1.6329,
+      "prior_variance": 0.365411,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Condado",
+      "path": "northamerica/puertorico/condado",
+      "prior_score": 2.9846,
+      "prior_variance": 0.364969,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.0349,
+      "prior_variance": 0.260078,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 1.5138,
+      "prior_variance": 0.216142,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 1.1675,
+      "prior_variance": 0.309901,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": -0.4178,
+      "prior_variance": 0.269536,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -1.2343,
+      "prior_variance": 0.282622,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Santiago",
+      "path": "africa/capeverde/saotiago",
+      "prior_score": -0.1971,
+      "prior_variance": 0.258451,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -0.8067,
+      "prior_variance": 0.245264,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": 0.3659,
+      "prior_variance": 0.263156,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": 0.4614,
+      "prior_variance": 0.346086,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -1.7579,
+      "prior_variance": 0.255773,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_score": -3.4799,
+      "prior_variance": 0.279424,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -4.6324,
+      "prior_variance": 0.305776,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Romford",
+      "path": "europe/unitedkingdom/england/romford",
+      "prior_score": -5.9546,
+      "prior_variance": 0.540869,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -4.7565,
+      "prior_variance": 0.288592,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -6.2687,
+      "prior_variance": 0.269214,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -10.6421,
+      "prior_variance": 0.372192,
+      "prior_n": 5
+    }
+  ]
+}

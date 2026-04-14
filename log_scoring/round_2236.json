@@ -1,0 +1,200 @@
+{
+  "round": 2236,
+  "timestamp": "2026-04-13T16:23:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 7.0029,
+      "prior_variance": 0.534137,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Anguilla",
+      "path": "northamerica/thecaribbean/anguilla",
+      "prior_score": 6.9057,
+      "prior_variance": 0.262063,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/england/cornwall",
+      "prior_score": 7.5834,
+      "prior_variance": 0.349899,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -1.3413,
+      "prior_variance": 0.255902,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.8608,
+      "prior_variance": 0.250672,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.6839,
+      "prior_variance": 0.277219,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.0398,
+      "prior_variance": 0.297636,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_score": -4.2886,
+      "prior_variance": 0.241865,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_score": -2.0719,
+      "prior_variance": 0.210595,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -2.6273,
+      "prior_variance": 0.243504,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -3.3147,
+      "prior_variance": 0.148019,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -4.0502,
+      "prior_variance": 0.254909,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.3466,
+      "prior_variance": 0.229271,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lefini reserve",
+      "path": "africa/congobrazzaville/lefinireserve",
+      "prior_score": -5.7748,
+      "prior_variance": 0.465428,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -5.7726,
+      "prior_variance": 0.321195,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -5.9162,
+      "prior_variance": 0.415627,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -5.1779,
+      "prior_variance": 0.272581,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -6.2067,
+      "prior_variance": 0.311564,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -4.7594,
+      "prior_variance": 0.205455,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -5.2631,
+      "prior_variance": 0.285705,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/netherton",
+      "prior_score": -6.5888,
+      "prior_variance": 0.329721,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -5.3472,
+      "prior_variance": 0.294213,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/viverosdelaloma",
+      "prior_score": -5.8018,
+      "prior_variance": 0.259582,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -7.3236,
+      "prior_variance": 0.322135,
+      "prior_n": 5
+    }
+  ]
+}

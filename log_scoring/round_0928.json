@@ -1,0 +1,200 @@
+{
+  "round": 928,
+  "timestamp": "2026-04-12T16:07:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_rank": 57,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_rank": 117,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_rank": 39,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_rank": 152,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_rank": 104,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Monaco",
+      "path": "europe/monaco",
+      "prior_rank": 71,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_rank": 251,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mauritius",
+      "path": "africa/mauritius",
+      "prior_rank": 3,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_rank": 263,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_rank": 49,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Virgin Islands",
+      "path": "northamerica/virginislands",
+      "prior_rank": 159,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_rank": 137,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_rank": 186,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cornwall",
+      "path": "europe/unitedkingdom/cornwall",
+      "prior_rank": 266,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_rank": 213,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_rank": 4046,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_rank": 8100,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_rank": 8122,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_rank": 8208,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_rank": 8072,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_rank": 8133,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_rank": 8067,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_2",
+      "prior_rank": 8065,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_rank": 8066,
+      "prior_wins": 0,
+      "prior_n": 3
+    }
+  ]
+}

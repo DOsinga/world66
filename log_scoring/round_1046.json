@@ -1,0 +1,200 @@
+{
+  "round": 1046,
+  "timestamp": "2026-04-12T22:06:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ecuador",
+      "path": "southamerica/ecuador",
+      "prior_rank": 752,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "San Juan",
+      "path": "northamerica/puertorico/sanjuan",
+      "prior_rank": 3369,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_rank": 1977,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_na",
+      "prior_rank": 1028,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mombasa",
+      "path": "africa/kenya/mombasa",
+      "prior_rank": 815,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sikkim",
+      "path": "asia/india/sikkim",
+      "prior_rank": 1663,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_rank": 1595,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_rank": 1856,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_rank": 309,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_rank": 2030,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/ponta_delgada",
+      "prior_rank": 397,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_rank": 1208,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_rank": 1598,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_rank": 1204,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_rank": 1676,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Stoupa",
+      "path": "europe/greece/stoupa",
+      "prior_rank": 1358,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_rank": 1985,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
+      "prior_rank": 1614,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_rank": 1577,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_rank": 1232,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kreuzberg",
+      "path": "europe/germany/berlin/kreuzberg",
+      "prior_rank": 1004,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_rank": 1068,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Extremadura",
+      "path": "europe/spain/extremadura",
+      "prior_rank": 2000,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_rank": 3386,
+      "prior_wins": 13,
+      "prior_n": 1
+    }
+  ]
+}

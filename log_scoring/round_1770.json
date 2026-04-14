@@ -1,0 +1,200 @@
+{
+  "round": 1770,
+  "timestamp": "2026-04-13T10:49:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 7.9623,
+      "prior_variance": 0.456613,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/istanbul/asianpart",
+      "prior_score": 4.4678,
+      "prior_variance": 0.301373,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 5.4111,
+      "prior_variance": 0.41499,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 6.4984,
+      "prior_variance": 0.408115,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 4.7458,
+      "prior_variance": 0.321041,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 3.051,
+      "prior_variance": 0.306896,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 1.0832,
+      "prior_variance": 0.3079,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 3.3907,
+      "prior_variance": 0.455192,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.6724,
+      "prior_variance": 0.376117,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": -0.2871,
+      "prior_variance": 0.376283,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.2079,
+      "prior_variance": 0.364415,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/winsford",
+      "prior_score": -1.9126,
+      "prior_variance": 0.348564,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -2.6462,
+      "prior_variance": 0.336505,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -2.1612,
+      "prior_variance": 0.310828,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "New Jersey",
+      "path": "northamerica/unitedstates/newjersey",
+      "prior_score": -4.5499,
+      "prior_variance": 0.459962,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/hawkes_bay/wairoa",
+      "prior_score": -3.618,
+      "prior_variance": 0.309546,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chiautempan",
+      "path": "northamerica/mexico/yucatan/chiautempan",
+      "prior_score": -5.4373,
+      "prior_variance": 0.414603,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -3.0028,
+      "prior_variance": 0.415441,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -4.7903,
+      "prior_variance": 0.271928,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -6.7891,
+      "prior_variance": 0.351595,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -6.2687,
+      "prior_variance": 0.366326,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -4.4081,
+      "prior_variance": 0.316933,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/dadyal",
+      "prior_score": -8.8963,
+      "prior_variance": 0.399912,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -4.08,
+      "prior_variance": 0.464756,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1096,
+  "timestamp": "2026-04-12T22:09:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_notting/buxton",
+      "prior_rank": 6506,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/devizes",
+      "prior_rank": 5159,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_rank": 6447,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_rank": 7600,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_rank": 4935,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_rank": 3629,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_rank": 5813,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_rank": 7089,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_rank": 5247,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_rank": 6019,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/sebastopol",
+      "prior_rank": 5820,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_rank": 6028,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_rank": 6709,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_rank": 6877,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kota batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_rank": 6908,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_rank": 7459,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_rank": 7115,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_rank": 7100,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_rank": 3476,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_rank": 6053,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oklahoma",
+      "path": "northamerica/unitedstates/oklahoma",
+      "prior_rank": 6471,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Missouri",
+      "path": "northamerica/unitedstates/missouri",
+      "prior_rank": 6469,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_rank": 6080,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_rank": 5811,
+      "prior_wins": 15,
+      "prior_n": 2
+    }
+  ]
+}

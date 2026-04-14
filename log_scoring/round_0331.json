@@ -1,0 +1,200 @@
+{
+  "round": 331,
+  "timestamp": "2026-04-12T09:12:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Netherlands",
+      "path": "europe/netherlands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_prov",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_mu": 22.9236,
+      "prior_sigma": 5.8684,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_mu": 22.2499,
+      "prior_sigma": 5.7806,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_mu": 21.9594,
+      "prior_sigma": 5.2863,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/mersea_island_esse",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_mu": 22.8902,
+      "prior_sigma": 5.7242,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_mu": 22.7096,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_mu": 22.3701,
+      "prior_sigma": 5.6546,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

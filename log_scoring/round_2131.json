@@ -1,0 +1,200 @@
+{
+  "round": 2131,
+  "timestamp": "2026-04-13T16:13:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_score": 7.0971,
+      "prior_variance": 0.419376,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 3.5653,
+      "prior_variance": 0.252966,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/palm_springs",
+      "prior_score": 2.7373,
+      "prior_variance": 0.247958,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.6182,
+      "prior_variance": 0.222688,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Alpine County",
+      "path": "northamerica/unitedstates/california/highsierra/alpinecounty",
+      "prior_score": 1.3529,
+      "prior_variance": 0.265832,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Manchester, Liverpool and North West",
+      "path": "europe/unitedkingdom/england/manchester_liverp",
+      "prior_score": 1.9571,
+      "prior_variance": 0.276002,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 3.104,
+      "prior_variance": 0.238202,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": 0.5557,
+      "prior_variance": 0.322001,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Shanhaiguan",
+      "path": "asia/china/shanhaiguan",
+      "prior_score": 0.5215,
+      "prior_variance": 0.319863,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 2.762,
+      "prior_variance": 0.209421,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 1.8946,
+      "prior_variance": 0.235773,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.9963,
+      "prior_variance": 0.161647,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": 1.0507,
+      "prior_variance": 0.288957,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -1.8473,
+      "prior_variance": 0.315144,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.9909,
+      "prior_variance": 0.28046,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -1.0697,
+      "prior_variance": 0.219505,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "El castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": -1.1465,
+      "prior_variance": 0.215918,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
+      "prior_score": -2.6059,
+      "prior_variance": 0.267345,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -2.0947,
+      "prior_variance": 0.264646,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_score": -5.1468,
+      "prior_variance": 0.260756,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -3.122,
+      "prior_variance": 0.352412,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -2.8101,
+      "prior_variance": 0.36862,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.0023,
+      "prior_variance": 0.30173,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -5.2592,
+      "prior_variance": 0.229981,
+      "prior_n": 7
+    }
+  ]
+}

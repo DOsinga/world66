@@ -1,0 +1,200 @@
+{
+  "round": 1888,
+  "timestamp": "2026-04-13T14:33:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 14.1517,
+      "prior_variance": 1.019199,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 12.2872,
+      "prior_variance": 0.698829,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 15.8449,
+      "prior_variance": 0.859447,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 13.1579,
+      "prior_variance": 0.68282,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 3.5958,
+      "prior_variance": 0.291018,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gran Canaria",
+      "path": "europe/spain/canaryislands/crancanaria",
+      "prior_score": 7.8087,
+      "prior_variance": 0.395651,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 3.5115,
+      "prior_variance": 0.277687,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Drakensberg",
+      "path": "africa/southafrica/drakensberg",
+      "prior_score": 5.4722,
+      "prior_variance": 0.519961,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 4.1062,
+      "prior_variance": 0.314429,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 1.063,
+      "prior_variance": 0.253265,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_score": -1.8551,
+      "prior_variance": 0.392228,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": -0.6466,
+      "prior_variance": 0.27389,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 2.6061,
+      "prior_variance": 0.354465,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.9367,
+      "prior_variance": 0.282549,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 2.0862,
+      "prior_variance": 0.238058,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -1.116,
+      "prior_variance": 0.272668,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -2.4091,
+      "prior_variance": 0.32074,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_score": -1.3992,
+      "prior_variance": 0.242716,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/northumberland/berwickontweed",
+      "prior_score": -1.3727,
+      "prior_variance": 0.411129,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.2094,
+      "prior_variance": 0.285238,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -2.923,
+      "prior_variance": 0.271736,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Dzanga-Sangha",
+      "path": "africa/centralafricanrepublic/dzanga_sangha",
+      "prior_score": -0.6182,
+      "prior_variance": 0.505942,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -5.1416,
+      "prior_variance": 0.329591,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -5.0584,
+      "prior_variance": 0.474868,
+      "prior_n": 5
+    }
+  ]
+}

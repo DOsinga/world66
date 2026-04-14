@@ -1,0 +1,200 @@
+{
+  "round": 1620,
+  "timestamp": "2026-04-13T10:36:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Okinawa Island",
+      "path": "asia/japan/ryukyuislands/okinawaisland",
+      "prior_score": 8.5985,
+      "prior_variance": 0.464836,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Arles",
+      "path": "europe/france/midi/provence/arles",
+      "prior_score": 8.3355,
+      "prior_variance": 0.360862,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_score": 2.7163,
+      "prior_variance": 0.399284,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cantabria",
+      "path": "europe/spain/cantabria",
+      "prior_score": 4.7484,
+      "prior_variance": 0.433183,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 1.6503,
+      "prior_variance": 0.607871,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 1.7056,
+      "prior_variance": 0.300679,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 4.0041,
+      "prior_variance": 0.329299,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 2.6094,
+      "prior_variance": 0.320491,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -2.446,
+      "prior_variance": 0.307762,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "George",
+      "path": "africa/southafrica/gardenroute/george",
+      "prior_score": 0.8432,
+      "prior_variance": 0.318244,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -2.4521,
+      "prior_variance": 0.237954,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -7.6945,
+      "prior_variance": 0.447213,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -0.9483,
+      "prior_variance": 0.342329,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale/fortuna",
+      "prior_score": -3.9638,
+      "prior_variance": 0.411213,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.8547,
+      "prior_variance": 0.254355,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -5.0548,
+      "prior_variance": 0.38285,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_score": -6.4593,
+      "prior_variance": 0.472513,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -5.3821,
+      "prior_variance": 0.390094,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -8.0447,
+      "prior_variance": 0.720842,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -7.77,
+      "prior_variance": 0.451003,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "hafizabad",
+      "path": "asia/pakistan/islamabad/hafizabad",
+      "prior_score": -7.5937,
+      "prior_variance": 0.414803,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -7.5117,
+      "prior_variance": 0.569161,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -7.9347,
+      "prior_variance": 0.397999,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -8.8899,
+      "prior_variance": 0.401018,
+      "prior_n": 3
+    }
+  ]
+}

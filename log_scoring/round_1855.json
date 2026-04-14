@@ -1,0 +1,200 @@
+{
+  "round": 1855,
+  "timestamp": "2026-04-13T10:57:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 7.1898,
+      "prior_variance": 0.32276,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 7.0343,
+      "prior_variance": 0.391339,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.2716,
+      "prior_variance": 0.316694,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 1.7272,
+      "prior_variance": 0.389064,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_score": 1.8632,
+      "prior_variance": 0.316002,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 2.3808,
+      "prior_variance": 0.262501,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -5.0006,
+      "prior_variance": 0.360932,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Qingdao",
+      "path": "asia/china/qingdao",
+      "prior_score": 2.4479,
+      "prior_variance": 0.260622,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": 1.11,
+      "prior_variance": 0.242725,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Campo de Gibraltar",
+      "path": "europe/spain/andalucia/gibraltar_field",
+      "prior_score": 0.7465,
+      "prior_variance": 0.29826,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "La Gran Sabana",
+      "path": "southamerica/venezuela/lagransabana",
+      "prior_score": 2.5063,
+      "prior_variance": 0.348883,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": -1.4847,
+      "prior_variance": 0.288757,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -1.1375,
+      "prior_variance": 0.253812,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -3.9191,
+      "prior_variance": 0.352342,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -4.0311,
+      "prior_variance": 0.387019,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -3.3669,
+      "prior_variance": 0.295853,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -3.4744,
+      "prior_variance": 0.299376,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wolfenbuettel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -1.4687,
+      "prior_variance": 0.30615,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -4.2655,
+      "prior_variance": 0.261172,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bethel",
+      "path": "northamerica/unitedstates/alaska/bethel",
+      "prior_score": -6.7161,
+      "prior_variance": 0.425092,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -7.0862,
+      "prior_variance": 0.419866,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -4.8846,
+      "prior_variance": 0.320421,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/viverosdelaloma",
+      "prior_score": -5.9734,
+      "prior_variance": 0.309879,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Irricana .",
+      "path": "northamerica/canada/alberta/calgary/aroundtown/irricana",
+      "prior_score": -5.9188,
+      "prior_variance": 0.577067,
+      "prior_n": 4
+    }
+  ]
+}

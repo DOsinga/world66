@@ -1,0 +1,200 @@
+{
+  "round": 2172,
+  "timestamp": "2026-04-13T16:17:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 5.94,
+      "prior_variance": 0.258716,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -1.171,
+      "prior_variance": 0.225725,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/napa/sthelena",
+      "prior_score": 0.4823,
+      "prior_variance": 0.188394,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -0.9726,
+      "prior_variance": 0.22506,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -0.9115,
+      "prior_variance": 0.292955,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -1.094,
+      "prior_variance": 0.205528,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -3.7343,
+      "prior_variance": 0.273091,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Echterdingen",
+      "path": "europe/germany/badenwrttemberg/echterdingen",
+      "prior_score": -6.1571,
+      "prior_variance": 0.398562,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -2.3237,
+      "prior_variance": 0.269533,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/wigan",
+      "prior_score": -4.3134,
+      "prior_variance": 0.255341,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -4.5865,
+      "prior_variance": 0.28215,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nieuwerkerk aan den IJssel",
+      "path": "europe/netherlands/nieuwerkerk_aan_de",
+      "prior_score": -5.6454,
+      "prior_variance": 0.211033,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -4.9699,
+      "prior_variance": 0.264099,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -3.5365,
+      "prior_variance": 0.282736,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -6.3843,
+      "prior_variance": 0.406495,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -4.8758,
+      "prior_variance": 0.303933,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -10.2206,
+      "prior_variance": 0.407601,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -7.3146,
+      "prior_variance": 0.740708,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "beit-jala",
+      "path": "asia/palestinianauthority/beitjala",
+      "prior_score": -6.4461,
+      "prior_variance": 0.333666,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -7.5174,
+      "prior_variance": 0.402072,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -8.2783,
+      "prior_variance": 0.368828,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Siakh in Tehsil Dadyal",
+      "path": "asia/pakistan/azad_kashmir/mirpur/siakh_in_tehsil_da",
+      "prior_score": -9.6233,
+      "prior_variance": 0.360954,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bazral Ugalisharif",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif",
+      "prior_score": -10.2274,
+      "prior_variance": 0.852491,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "anis yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
+      "prior_score": -9.7723,
+      "prior_variance": 0.475957,
+      "prior_n": 8
+    }
+  ]
+}

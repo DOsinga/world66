@@ -1,0 +1,200 @@
+{
+  "round": 1425,
+  "timestamp": "2026-04-12T22:27:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_rank": 6709,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ikast",
+      "path": "europe/denmark/ikast",
+      "prior_rank": 5286,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Beek",
+      "path": "europe/netherlands/beek",
+      "prior_rank": 7911,
+      "prior_wins": 26,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_rank": 5324,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_rank": 7872,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_rank": 5274,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_rank": 7283,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_rank": 7254,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_rank": 6994,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nias Selatan",
+      "path": "asia/indonesia/nias_selatan",
+      "prior_rank": 6350,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_rank": 5954,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_rank": 5671,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_rank": 6239,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Wasilla",
+      "path": "northamerica/unitedstates/alaska/wasilla",
+      "prior_rank": 6962,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_rank": 7289,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ventnor",
+      "path": "northamerica/unitedstates/newjersey/ventnor",
+      "prior_rank": 7410,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_rank": 7880,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_rank": 6382,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_rank": 7167,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_rank": 7524,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_rank": 7692,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_rank": 6400,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_rank": 7633,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_rank": 7060,
+      "prior_wins": 18,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 211,
+  "timestamp": "2026-04-12T09:07:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_mu": 22.7216,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Pensacola",
+      "path": "northamerica/unitedstates/florida/pensacola",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/padua/montegrotto_terme",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_mu": 21.95,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/livermore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Delaware County",
+      "path": "northamerica/unitedstates/pennsylvania/delawarecounty",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/suffolk/lowestoft",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_mu": 22.5286,
+      "prior_sigma": 5.9137,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Giridih",
+      "path": "asia/india/jharkhand/giridih",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

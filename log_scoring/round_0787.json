@@ -1,0 +1,200 @@
+{
+  "round": 787,
+  "timestamp": "2026-04-12T10:48:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Czech Republic",
+      "path": "europe/czechrepublic",
+      "prior_mu": 17.9513,
+      "prior_sigma": 6.4953,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ibiza Town",
+      "path": "europe/spain/balearicislands/ibiza/ibizatown",
+      "prior_mu": 23.2969,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_mu": 23.1554,
+      "prior_sigma": 5.1087,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_mu": 23.2219,
+      "prior_sigma": 5.737,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_mu": 21.7294,
+      "prior_sigma": 4.4676,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_nati",
+      "prior_mu": 21.4071,
+      "prior_sigma": 3.8458,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_mu": 21.5753,
+      "prior_sigma": 2.4904,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_mu": 22.1721,
+      "prior_sigma": 5.6869,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lantau",
+      "path": "asia/china/hongkong/lantau",
+      "prior_mu": 23.5839,
+      "prior_sigma": 6.0977,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/rochester",
+      "prior_mu": 21.3085,
+      "prior_sigma": 3.7874,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_mu": 22.2509,
+      "prior_sigma": 5.6803,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_mu": 22.3668,
+      "prior_sigma": 5.2744,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_mu": 22.3923,
+      "prior_sigma": 5.7956,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_mu": 21.5823,
+      "prior_sigma": 4.8321,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Overberg",
+      "path": "africa/southafrica/overberg",
+      "prior_mu": 21.0974,
+      "prior_sigma": 3.3579,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_mu": 20.9305,
+      "prior_sigma": 4.5738,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_mu": 21.8302,
+      "prior_sigma": 5.5015,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_mu": 22.2704,
+      "prior_sigma": 5.7065,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_mu": 22.7879,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_mu": 21.9188,
+      "prior_sigma": 3.9561,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_mu": 20.6653,
+      "prior_sigma": 4.4797,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_mu": 22.4555,
+      "prior_sigma": 5.5329,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Tibbi Qaisrani (Miana)",
+      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisranimia_1",
+      "prior_mu": 21.0865,
+      "prior_sigma": 4.6883,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_mu": 21.9369,
+      "prior_sigma": 5.7094,
+      "prior_n": 1
+    }
+  ]
+}

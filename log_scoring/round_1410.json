@@ -1,0 +1,200 @@
+{
+  "round": 1410,
+  "timestamp": "2026-04-12T22:26:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_rank": 5466,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_rank": 6689,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_rank": 6824,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_rank": 6682,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Legazpi",
+      "path": "europe/spain/northernspain/legazpi",
+      "prior_rank": 6931,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_rank": 5291,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_rank": 5800,
+      "prior_wins": 33,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_rank": 7539,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/upperhutt",
+      "prior_rank": 5976,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_rank": 6200,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Princes Town",
+      "path": "northamerica/trinidadandtobago/princestown",
+      "prior_rank": 7436,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_rank": 7006,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Wejherowo",
+      "path": "europe/poland/wejherowo",
+      "prior_rank": 4124,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tonstad",
+      "path": "europe/norway/tonstad",
+      "prior_rank": 5583,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_rank": 5786,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_rank": 6408,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_rank": 4529,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_rank": 6836,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_rank": 7366,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_rank": 7143,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_rank": 7270,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_rank": 5443,
+      "prior_wins": 45,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_rank": 7922,
+      "prior_wins": 17,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_rank": 7821,
+      "prior_wins": 11,
+      "prior_n": 4
+    }
+  ]
+}

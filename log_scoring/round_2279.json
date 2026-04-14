@@ -1,0 +1,200 @@
+{
+  "round": 2279,
+  "timestamp": "2026-04-13T16:27:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 14.2208,
+      "prior_variance": 0.523624,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -0.3137,
+      "prior_variance": 0.214499,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.0104,
+      "prior_variance": 0.211529,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -0.3103,
+      "prior_variance": 0.215834,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -1.5989,
+      "prior_variance": 0.196739,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -1.1478,
+      "prior_variance": 0.268443,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Schweinfurt",
+      "path": "europe/germany/bavaria/schweinfurt",
+      "prior_score": -3.0129,
+      "prior_variance": 0.257112,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Paterna",
+      "path": "europe/spain/spanishcostas/paterna",
+      "prior_score": -2.3225,
+      "prior_variance": 0.349382,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_score": -4.9082,
+      "prior_variance": 0.196717,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -0.9104,
+      "prior_variance": 0.240281,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_score": -1.8115,
+      "prior_variance": 0.224749,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Newbridge",
+      "path": "europe/ireland/newbridge",
+      "prior_score": -3.2863,
+      "prior_variance": 0.340316,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -4.6465,
+      "prior_variance": 0.31257,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -2.4041,
+      "prior_variance": 0.237661,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -1.6972,
+      "prior_variance": 0.235666,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -4.4622,
+      "prior_variance": 0.25105,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -5.3292,
+      "prior_variance": 0.309317,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -3.4313,
+      "prior_variance": 0.295143,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/bradford",
+      "prior_score": -3.3355,
+      "prior_variance": 0.246478,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -4.5243,
+      "prior_variance": 0.268237,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "waseca",
+      "path": "northamerica/unitedstates/minnesota/waseca",
+      "prior_score": -6.1256,
+      "prior_variance": 0.249728,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Oklahoma",
+      "path": "northamerica/unitedstates/oklahoma",
+      "prior_score": -4.3811,
+      "prior_variance": 0.247275,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Wamic",
+      "path": "northamerica/unitedstates/oregon/wamic",
+      "prior_score": -5.244,
+      "prior_variance": 0.286326,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -5.7435,
+      "prior_variance": 0.326582,
+      "prior_n": 7
+    }
+  ]
+}

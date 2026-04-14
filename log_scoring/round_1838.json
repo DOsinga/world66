@@ -1,0 +1,200 @@
+{
+  "round": 1838,
+  "timestamp": "2026-04-13T10:56:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.2871,
+      "prior_variance": 0.393142,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 6.8399,
+      "prior_variance": 0.308075,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 8.0433,
+      "prior_variance": 0.651709,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 5.2197,
+      "prior_variance": 0.48292,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pacific Beach",
+      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
+      "prior_score": 1.7903,
+      "prior_variance": 0.332526,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 4.4034,
+      "prior_variance": 0.329144,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": 0.6594,
+      "prior_variance": 0.314369,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_score": 0.8115,
+      "prior_variance": 0.332695,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 1.9998,
+      "prior_variance": 0.28661,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": 0.3112,
+      "prior_variance": 0.320842,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -0.5806,
+      "prior_variance": 0.334719,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": -1.5455,
+      "prior_variance": 0.310093,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -1.9849,
+      "prior_variance": 0.242846,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -2.8127,
+      "prior_variance": 0.34972,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -2.4183,
+      "prior_variance": 0.267401,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Serbia",
+      "path": "europe/serbia",
+      "prior_score": 0.8966,
+      "prior_variance": 0.316912,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -1.9672,
+      "prior_variance": 0.238857,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.4944,
+      "prior_variance": 0.23777,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.7083,
+      "prior_variance": 0.381365,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -4.3882,
+      "prior_variance": 0.319476,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Haiti",
+      "path": "northamerica/thecaribbean/haiti",
+      "prior_score": -6.9378,
+      "prior_variance": 0.850464,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -6.0957,
+      "prior_variance": 0.467279,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Runyanjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -7.0832,
+      "prior_variance": 0.373221,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Monon",
+      "path": "northamerica/unitedstates/indiana/monon",
+      "prior_score": -7.4197,
+      "prior_variance": 0.631206,
+      "prior_n": 5
+    }
+  ]
+}

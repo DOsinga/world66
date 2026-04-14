@@ -1,0 +1,200 @@
+{
+  "round": 738,
+  "timestamp": "2026-04-12T10:45:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_mu": 29.0635,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_mu": 22.7137,
+      "prior_sigma": 5.9534,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Freiburg",
+      "path": "europe/germany/badenwrttemberg/freiburg",
+      "prior_mu": 22.145,
+      "prior_sigma": 4.6753,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "West Coast",
+      "path": "australiaandpacific/newzealand/south_island/west_coast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_mu": 22.6138,
+      "prior_sigma": 5.9455,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_mu": 22.6235,
+      "prior_sigma": 5.6613,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_mu": 22.6669,
+      "prior_sigma": 5.6737,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_mu": 22.556,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_mu": 22.8517,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_mu": 22.7561,
+      "prior_sigma": 4.6643,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_mu": 22.4466,
+      "prior_sigma": 5.496,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_mu": 18.6674,
+      "prior_sigma": 4.873,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_mu": 21.7505,
+      "prior_sigma": 4.7996,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_mu": 22.534,
+      "prior_sigma": 5.3203,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_mu": 21.7197,
+      "prior_sigma": 4.7117,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Powell",
+      "path": "northamerica/unitedstates/wyoming/powell",
+      "prior_mu": 21.9158,
+      "prior_sigma": 4.5293,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_mu": 21.0393,
+      "prior_sigma": 4.8387,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_mu": 18.1538,
+      "prior_sigma": 6.7422,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_mu": 21.8303,
+      "prior_sigma": 5.8927,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Wake Island",
+      "path": "australiaandpacific/wakeisland",
+      "prior_mu": 14.4515,
+      "prior_sigma": 5.6406,
+      "prior_n": 2
+    }
+  ]
+}

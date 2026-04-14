@@ -1,0 +1,200 @@
+{
+  "round": 106,
+  "timestamp": "2026-04-12T08:04:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Cuillins",
+      "path": "europe/unitedkingdom/scotland/skye/thecuilins",
+      "prior_mu": 23.76,
+      "prior_sigma": 3.1,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_mu": 25.4,
+      "prior_sigma": 3.86,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_mu": 28.32,
+      "prior_sigma": 3.88,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_mu": 21.86,
+      "prior_sigma": 2.93,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Saskatchewan",
+      "path": "northamerica/canada/saskatchewan",
+      "prior_mu": 20.5,
+      "prior_sigma": 2.76,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_mu": 21.4,
+      "prior_sigma": 3.2,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_mu": 21.12,
+      "prior_sigma": 3.71,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_mu": 21.65,
+      "prior_sigma": 3.3,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Murcia",
+      "path": "europe/spain/murcia",
+      "prior_mu": 21.23,
+      "prior_sigma": 3.0,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/bognorregis",
+      "prior_mu": 19.5,
+      "prior_sigma": 3.26,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_mu": 20.35,
+      "prior_sigma": 2.51,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_mu": 21.14,
+      "prior_sigma": 3.66,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_mu": 21.23,
+      "prior_sigma": 3.59,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "valley falls",
+      "path": "northamerica/unitedstates/kansas/valley_falls",
+      "prior_mu": 17.23,
+      "prior_sigma": 2.81,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Quantico",
+      "path": "northamerica/unitedstates/virginia/quantico",
+      "prior_mu": 15.39,
+      "prior_sigma": 3.64,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Jackson Heights",
+      "path": "northamerica/unitedstates/newyorkstate/jacksonheights",
+      "prior_mu": 21.04,
+      "prior_sigma": 3.78,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_mu": 20.83,
+      "prior_sigma": 2.85,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Taringa",
+      "path": "australiaandpacific/australia/newsouthwales/taringa",
+      "prior_mu": 19.99,
+      "prior_sigma": 3.16,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_mu": 20.01,
+      "prior_sigma": 3.06,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_mu": 18.84,
+      "prior_sigma": 3.19,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_mu": 17.16,
+      "prior_sigma": 3.4,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_mu": 17.65,
+      "prior_sigma": 3.35,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "khatreel",
+      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
+      "prior_mu": 16.16,
+      "prior_sigma": 3.6,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_mu": 12.79,
+      "prior_sigma": 3.4,
+      "prior_n": 5
+    }
+  ]
+}

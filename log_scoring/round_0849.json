@@ -1,0 +1,200 @@
+{
+  "round": 849,
+  "timestamp": "2026-04-12T14:44:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kohsamui",
+      "path": "asia/thailand/kohsamui",
+      "prior_score": 11.2699,
+      "prior_variance": 2.579424,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Martinique",
+      "path": "northamerica/thecaribbean/martinique",
+      "prior_score": 10.0205,
+      "prior_variance": 2.215788,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 6.0645,
+      "prior_variance": 1.968917,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 9.4345,
+      "prior_variance": 6.376485,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 4.1453,
+      "prior_variance": 1.300648,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Khaplu",
+      "path": "asia/pakistan/skardu/khaplu",
+      "prior_score": 2.7538,
+      "prior_variance": 2.398528,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Serbia",
+      "path": "europe/serbia",
+      "prior_score": 2.6069,
+      "prior_variance": 1.441695,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": -0.3784,
+      "prior_variance": 1.582387,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -0.4767,
+      "prior_variance": 1.495994,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Vayots Dzor Marz",
+      "path": "europe/armenia/vayots_dzor_marz",
+      "prior_score": -1.0123,
+      "prior_variance": 1.214634,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.2995,
+      "prior_variance": 1.570444,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.4776,
+      "prior_variance": 1.525508,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.1147,
+      "prior_variance": 1.36308,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -4.4289,
+      "prior_variance": 1.909185,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -1.3647,
+      "prior_variance": 1.405047,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -4.5856,
+      "prior_variance": 1.806693,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.9919,
+      "prior_variance": 1.188864,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": 1.7906,
+      "prior_variance": 2.444916,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -0.9979,
+      "prior_variance": 0.890802,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -9.647,
+      "prior_variance": 9.890026,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -9.4987,
+      "prior_variance": 1.494727,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -6.0624,
+      "prior_variance": 3.074192,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -2.5437,
+      "prior_variance": 0.838673,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -15.7114,
+      "prior_variance": 6.585989,
+      "prior_n": 1
+    }
+  ]
+}

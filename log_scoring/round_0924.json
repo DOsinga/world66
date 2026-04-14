@@ -1,0 +1,200 @@
+{
+  "round": 924,
+  "timestamp": "2026-04-12T14:50:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 8.8501,
+      "prior_variance": 1.976011,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Martinique",
+      "path": "northamerica/thecaribbean/martinique",
+      "prior_score": 8.3885,
+      "prior_variance": 0.82323,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Odaiba",
+      "path": "asia/japan/tokyo/tokyoodaiba",
+      "prior_score": 2.8328,
+      "prior_variance": 0.734509,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": 2.6501,
+      "prior_variance": 1.611578,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 2.1659,
+      "prior_variance": 1.552051,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 1.6253,
+      "prior_variance": 1.240235,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": -0.1693,
+      "prior_variance": 0.682082,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 0.5934,
+      "prior_variance": 1.387404,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/spiekeroog",
+      "prior_score": -0.3837,
+      "prior_variance": 1.278753,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 1.3932,
+      "prior_variance": 0.80507,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountai/vorokhta",
+      "prior_score": -0.6164,
+      "prior_variance": 1.660033,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -6.0156,
+      "prior_variance": 2.858815,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -2.0659,
+      "prior_variance": 1.203773,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -4.0831,
+      "prior_variance": 1.365428,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -0.4621,
+      "prior_variance": 1.53604,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.0269,
+      "prior_variance": 0.872265,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -3.692,
+      "prior_variance": 1.4293,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sant Boi",
+      "path": "europe/spain/catalonia/santboi",
+      "prior_score": -3.0267,
+      "prior_variance": 1.428735,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Vares",
+      "path": "europe/bosniaandherzegovina/vares",
+      "prior_score": -10.5411,
+      "prior_variance": 8.953793,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_score": -2.3752,
+      "prior_variance": 1.451181,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -2.0815,
+      "prior_variance": 1.350702,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Havre",
+      "path": "northamerica/unitedstates/montana/havre",
+      "prior_score": -6.5552,
+      "prior_variance": 1.62928,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -10.4368,
+      "prior_variance": 9.388564,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "chiniot",
+      "path": "asia/pakistan/sargodha/chiniot",
+      "prior_score": -8.6997,
+      "prior_variance": 0.669522,
+      "prior_n": 3
+    }
+  ]
+}

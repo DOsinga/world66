@@ -1,0 +1,200 @@
+{
+  "round": 53,
+  "timestamp": "2026-04-11T19:26:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_mu": 26.1,
+      "prior_sigma": 4.42,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_mu": 24.55,
+      "prior_sigma": 4.86,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Iraklion",
+      "path": "europe/greece/iraklion",
+      "prior_mu": 25.93,
+      "prior_sigma": 4.45,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_mu": 23.24,
+      "prior_sigma": 5.43,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_mu": 21.21,
+      "prior_sigma": 3.67,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_mu": 22.0,
+      "prior_sigma": 4.78,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_mu": 22.65,
+      "prior_sigma": 5.93,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_mu": 21.95,
+      "prior_sigma": 5.44,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Birmingham and West Midlands",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_mu": 21.75,
+      "prior_sigma": 3.81,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ferntree Gully",
+      "path": "australiaandpacific/australia/victoria/ferntreegully",
+      "prior_mu": 21.81,
+      "prior_sigma": 4.66,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Yakima Valley",
+      "path": "northamerica/unitedstates/washington/yakima_valley",
+      "prior_mu": 21.42,
+      "prior_sigma": 3.99,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_mu": 22.12,
+      "prior_sigma": 5.53,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_mu": 21.3,
+      "prior_sigma": 3.85,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lichtenfels",
+      "path": "europe/germany/lichtenfels",
+      "prior_mu": 22.37,
+      "prior_sigma": 5.25,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ratingen",
+      "path": "europe/germany/northrhinewestphalia/ratingen",
+      "prior_mu": 22.11,
+      "prior_sigma": 4.68,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_mu": 21.65,
+      "prior_sigma": 4.58,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_mu": 18.86,
+      "prior_sigma": 4.22,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_mu": 17.66,
+      "prior_sigma": 3.89,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_mu": 18.83,
+      "prior_sigma": 4.8,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_mu": 21.54,
+      "prior_sigma": 4.72,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_mu": 22.93,
+      "prior_sigma": 5.72,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Inkisi",
+      "path": "africa/congokinshasa/inkisi",
+      "prior_mu": 19.18,
+      "prior_sigma": 3.43,
+      "prior_n": 4
+    }
+  ]
+}

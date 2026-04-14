@@ -1,0 +1,200 @@
+{
+  "round": 2207,
+  "timestamp": "2026-04-13T16:20:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 2.0543,
+      "prior_variance": 0.235215,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": 0.5845,
+      "prior_variance": 0.243928,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.5683,
+      "prior_variance": 0.214978,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/kapiti_coast",
+      "prior_score": 0.0574,
+      "prior_variance": 0.298684,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tsodilo hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.1514,
+      "prior_variance": 0.231958,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.5604,
+      "prior_variance": 0.283808,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_score": -1.2571,
+      "prior_variance": 0.264578,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_score": 0.6299,
+      "prior_variance": 0.208741,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_score": -1.3521,
+      "prior_variance": 0.209111,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.9378,
+      "prior_variance": 0.243554,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.4101,
+      "prior_variance": 0.244952,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -0.1142,
+      "prior_variance": 0.255697,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jacmel",
+      "path": "northamerica/haiti/jacmel",
+      "prior_score": -2.3299,
+      "prior_variance": 0.234821,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -0.2989,
+      "prior_variance": 0.266727,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -2.468,
+      "prior_variance": 0.262846,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -2.0823,
+      "prior_variance": 0.23289,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_score": -2.5749,
+      "prior_variance": 0.255382,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverp/warrington",
+      "prior_score": -3.3564,
+      "prior_variance": 0.297502,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/yucatan/xalapa",
+      "prior_score": -2.1998,
+      "prior_variance": 0.22524,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -3.8202,
+      "prior_variance": 0.318176,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/southcarolina/newport",
+      "prior_score": -4.9559,
+      "prior_variance": 0.241545,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -8.8029,
+      "prior_variance": 0.415868,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.4449,
+      "prior_variance": 0.424235,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "faisal bhtti",
+      "path": "asia/pakistan/cholistan/faisal_bhtti",
+      "prior_score": -8.0889,
+      "prior_variance": 0.384074,
+      "prior_n": 5
+    }
+  ]
+}

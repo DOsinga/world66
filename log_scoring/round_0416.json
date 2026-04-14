@@ -1,0 +1,200 @@
+{
+  "round": 416,
+  "timestamp": "2026-04-12T09:29:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverp/liverpool",
+      "prior_mu": 23.5966,
+      "prior_sigma": 4.7905,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/newquay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/windsor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
+      "prior_mu": 22.7067,
+      "prior_sigma": 5.9306,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_mu": 22.7234,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_mu": 22.938,
+      "prior_sigma": 5.6131,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_mu": 21.7815,
+      "prior_sigma": 4.4563,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_mu": 21.1984,
+      "prior_sigma": 2.8008,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/crovie",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/gloucester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/hove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/leamingtonspa",
+      "prior_mu": 22.7033,
+      "prior_sigma": 5.9475,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/stafford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/gillingham",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pemberton",
+      "path": "europe/unitedkingdom/england/pemberton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Ilford",
+      "path": "europe/unitedkingdom/england/ilford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

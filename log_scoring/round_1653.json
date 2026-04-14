@@ -1,0 +1,200 @@
+{
+  "round": 1653,
+  "timestamp": "2026-04-13T10:39:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 11.3145,
+      "prior_variance": 0.653879,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 2.9153,
+      "prior_variance": 0.456917,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vagar",
+      "path": "europe/faroeislands/vagar",
+      "prior_score": 5.5703,
+      "prior_variance": 0.544518,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.2939,
+      "prior_variance": 0.24202,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_score": 3.9031,
+      "prior_variance": 0.362275,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 1.0914,
+      "prior_variance": 0.297032,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": 1.2848,
+      "prior_variance": 0.189943,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Matanzas",
+      "path": "northamerica/cuba/matanzas",
+      "prior_score": 0.5734,
+      "prior_variance": 0.330527,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": 0.0796,
+      "prior_variance": 0.299446,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -1.5727,
+      "prior_variance": 0.366655,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.4531,
+      "prior_variance": 0.313833,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Noia",
+      "path": "europe/spain/northernspain/noia",
+      "prior_score": 0.3932,
+      "prior_variance": 0.288779,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Giulianova Lido",
+      "path": "europe/italy/abruzzo/giulianovalido",
+      "prior_score": -0.0988,
+      "prior_variance": 0.344478,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.1177,
+      "prior_variance": 0.328203,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -1.0528,
+      "prior_variance": 0.299848,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.3185,
+      "prior_variance": 0.316867,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Monkstown",
+      "path": "europe/ireland/cork/monkstown",
+      "prior_score": -1.947,
+      "prior_variance": 0.305348,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Leicester, Nottingham and East Midlands",
+      "path": "europe/unitedkingdom/england/leicester_notting",
+      "prior_score": -0.1672,
+      "prior_variance": 0.306654,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -2.7914,
+      "prior_variance": 0.497234,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -0.3212,
+      "prior_variance": 0.31235,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_score": -4.0441,
+      "prior_variance": 0.33907,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ganpati Phule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -1.7791,
+      "prior_variance": 0.319666,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -7.199,
+      "prior_variance": 0.471073,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -3.5763,
+      "prior_variance": 0.394527,
+      "prior_n": 3
+    }
+  ]
+}

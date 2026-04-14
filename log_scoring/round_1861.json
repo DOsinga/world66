@@ -1,0 +1,200 @@
+{
+  "round": 1861,
+  "timestamp": "2026-04-13T10:58:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 8.7102,
+      "prior_variance": 0.393119,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_score": 4.2849,
+      "prior_variance": 0.315492,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 4.9002,
+      "prior_variance": 0.305132,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Midi",
+      "path": "europe/france/midi",
+      "prior_score": 0.39,
+      "prior_variance": 0.324489,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_score": 2.8721,
+      "prior_variance": 0.310203,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_score": 4.3413,
+      "prior_variance": 0.318962,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 5.9778,
+      "prior_variance": 0.49632,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_score": 2.1334,
+      "prior_variance": 0.337498,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_score": 2.912,
+      "prior_variance": 0.246958,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": -0.2633,
+      "prior_variance": 0.272653,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 3.7209,
+      "prior_variance": 0.341656,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": -0.3477,
+      "prior_variance": 0.31173,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": -0.5119,
+      "prior_variance": 0.36936,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.3087,
+      "prior_variance": 0.29709,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Orange County",
+      "path": "northamerica/unitedstates/california/orangecounty",
+      "prior_score": 2.6945,
+      "prior_variance": 0.35506,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Robertson NSW",
+      "path": "australiaandpacific/australia/newsouthwales/robertson_nsw",
+      "prior_score": -2.2425,
+      "prior_variance": 0.298875,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -1.7388,
+      "prior_variance": 0.317541,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.0406,
+      "prior_variance": 0.306322,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -1.6179,
+      "prior_variance": 0.288534,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -0.3481,
+      "prior_variance": 0.296002,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -3.6697,
+      "prior_variance": 0.293872,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -2.2184,
+      "prior_variance": 0.275338,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mouscron",
+      "path": "europe/belgium/mouscron",
+      "prior_score": -4.6509,
+      "prior_variance": 0.235405,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/hajira",
+      "prior_score": -6.8432,
+      "prior_variance": 0.435931,
+      "prior_n": 4
+    }
+  ]
+}

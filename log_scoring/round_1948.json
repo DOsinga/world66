@@ -1,0 +1,200 @@
+{
+  "round": 1948,
+  "timestamp": "2026-04-13T15:56:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 7.151,
+      "prior_variance": 0.295346,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 8.8721,
+      "prior_variance": 0.444993,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 3.7595,
+      "prior_variance": 0.370385,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 5.2983,
+      "prior_variance": 0.245249,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 1.842,
+      "prior_variance": 0.306994,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 0.7198,
+      "prior_variance": 0.323397,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 1.6094,
+      "prior_variance": 0.257436,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_score": 0.9625,
+      "prior_variance": 0.31395,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Le Carbet",
+      "path": "northamerica/martinique/le_carbet",
+      "prior_score": 1.2645,
+      "prior_variance": 0.329861,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": 0.8605,
+      "prior_variance": 0.276225,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 1.5647,
+      "prior_variance": 0.265118,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -1.0986,
+      "prior_variance": 0.284872,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 1.34,
+      "prior_variance": 0.176651,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": 0.5949,
+      "prior_variance": 0.319546,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": 0.1062,
+      "prior_variance": 0.251255,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/churchstretton",
+      "prior_score": -0.5604,
+      "prior_variance": 0.299297,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": 0.9172,
+      "prior_variance": 0.260982,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/eastern_england/ipswich",
+      "prior_score": -3.3125,
+      "prior_variance": 0.329944,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -3.6187,
+      "prior_variance": 0.271661,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -4.2893,
+      "prior_variance": 0.272575,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -4.1461,
+      "prior_variance": 0.29377,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -5.8649,
+      "prior_variance": 0.306781,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -6.4788,
+      "prior_variance": 0.304148,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Abbotsford",
+      "path": "northamerica/unitedstates/wisconsin/abbotsford",
+      "prior_score": -6.8812,
+      "prior_variance": 0.424794,
+      "prior_n": 5
+    }
+  ]
+}

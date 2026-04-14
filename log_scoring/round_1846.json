@@ -1,0 +1,200 @@
+{
+  "round": 1846,
+  "timestamp": "2026-04-13T10:56:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Rico",
+      "path": "northamerica/thecaribbean/puertorico",
+      "prior_score": 6.0507,
+      "prior_variance": 0.321284,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_score": 4.3809,
+      "prior_variance": 0.459797,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Pacific Beach",
+      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
+      "prior_score": 1.7903,
+      "prior_variance": 0.332526,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.904,
+      "prior_variance": 0.319187,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Dades Valley",
+      "path": "africa/morocco/dadesvalley",
+      "prior_score": 4.5684,
+      "prior_variance": 0.326288,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 4.4677,
+      "prior_variance": 0.352552,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 3.932,
+      "prior_variance": 0.494792,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Taranaki",
+      "path": "australiaandpacific/newzealand/taranaki",
+      "prior_score": 2.8956,
+      "prior_variance": 0.38667,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 1.8263,
+      "prior_variance": 0.355003,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 3.8466,
+      "prior_variance": 0.317705,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.4474,
+      "prior_variance": 0.355678,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.5432,
+      "prior_variance": 0.251751,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.3451,
+      "prior_variance": 0.277392,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -0.5098,
+      "prior_variance": 0.324795,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/brendon_and_oare",
+      "prior_score": 0.0967,
+      "prior_variance": 0.252955,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 0.8724,
+      "prior_variance": 0.315517,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": -0.1304,
+      "prior_variance": 0.326774,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_notting/ashbourne",
+      "prior_score": -1.1564,
+      "prior_variance": 0.229273,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_score": -2.3435,
+      "prior_variance": 0.31581,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Southern Leyte",
+      "path": "asia/philippines/southern_leyte",
+      "prior_score": -1.9113,
+      "prior_variance": 0.243382,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -1.6765,
+      "prior_variance": 0.342175,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene/tepelena",
+      "prior_score": -4.2609,
+      "prior_variance": 0.311024,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -2.1877,
+      "prior_variance": 0.29579,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "faisal bhtti",
+      "path": "asia/pakistan/cholistan/faisal_bhtti",
+      "prior_score": -8.4862,
+      "prior_variance": 0.389444,
+      "prior_n": 4
+    }
+  ]
+}

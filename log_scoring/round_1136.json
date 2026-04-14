@@ -1,0 +1,200 @@
+{
+  "round": 1136,
+  "timestamp": "2026-04-12T22:11:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florida",
+      "path": "northamerica/unitedstates/florida",
+      "prior_rank": 1300,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_rank": 3598,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_rank": 5966,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_rank": 6373,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_rank": 2449,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Varatella Valley",
+      "path": "europe/italy/liguria/varatellavalley",
+      "prior_rank": 1250,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/harrogate",
+      "prior_rank": 1457,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_rank": 1596,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_rank": 2376,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_rank": 4263,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_rank": 3140,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_rank": 2555,
+      "prior_wins": 58,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_rank": 3602,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang_1",
+      "prior_rank": 5622,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_rank": 2739,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_rank": 4228,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_rank": 2970,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_rank": 3194,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_rank": 3307,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_rank": 3182,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_rank": 5238,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_rank": 4984,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_rank": 3873,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_rank": 4734,
+      "prior_wins": 20,
+      "prior_n": 2
+    }
+  ]
+}

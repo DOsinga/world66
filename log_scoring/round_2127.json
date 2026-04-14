@@ -1,0 +1,200 @@
+{
+  "round": 2127,
+  "timestamp": "2026-04-13T16:13:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 7.747,
+      "prior_variance": 0.359302,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 1.5996,
+      "prior_variance": 0.255186,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 4.7074,
+      "prior_variance": 0.364907,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 3.5325,
+      "prior_variance": 0.211116,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 7.4454,
+      "prior_variance": 0.326507,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 6.7817,
+      "prior_variance": 0.413357,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.1802,
+      "prior_variance": 0.303454,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bulgaria",
+      "path": "europe/bulgaria",
+      "prior_score": 1.8866,
+      "prior_variance": 0.282655,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 2.3001,
+      "prior_variance": 0.188676,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_score": 1.1404,
+      "prior_variance": 0.232139,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Muskoka",
+      "path": "northamerica/canada/ontario/muskoka",
+      "prior_score": 1.6133,
+      "prior_variance": 0.288169,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 1.4589,
+      "prior_variance": 0.257668,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -0.2326,
+      "prior_variance": 0.278737,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.1978,
+      "prior_variance": 0.270063,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -1.922,
+      "prior_variance": 0.248669,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -1.4839,
+      "prior_variance": 0.212654,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -1.3983,
+      "prior_variance": 0.213656,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -2.9317,
+      "prior_variance": 0.225034,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Wierden",
+      "path": "europe/netherlands/wierden",
+      "prior_score": -5.2256,
+      "prior_variance": 0.219499,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
+      "prior_score": -3.7855,
+      "prior_variance": 0.24439,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_score": -3.8799,
+      "prior_variance": 0.277333,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Chuvashia",
+      "path": "europe/russia/chuvashia",
+      "prior_score": -4.8828,
+      "prior_variance": 0.317109,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -6.5614,
+      "prior_variance": 0.339431,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -9.624,
+      "prior_variance": 0.375865,
+      "prior_n": 5
+    }
+  ]
+}

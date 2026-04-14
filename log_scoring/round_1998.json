@@ -1,0 +1,200 @@
+{
+  "round": 1998,
+  "timestamp": "2026-04-13T16:01:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_score": 10.459,
+      "prior_variance": 0.594576,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "French Polynesia",
+      "path": "australiaandpacific/frenchpolynesia",
+      "prior_score": 10.0506,
+      "prior_variance": 0.865864,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Anguilla",
+      "path": "northamerica/anguilla",
+      "prior_score": 5.203,
+      "prior_variance": 0.315244,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 7.5297,
+      "prior_variance": 0.331042,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.6128,
+      "prior_variance": 0.27173,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 6.4108,
+      "prior_variance": 0.267844,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 2.4517,
+      "prior_variance": 0.303205,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 4.3129,
+      "prior_variance": 0.364444,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 4.2621,
+      "prior_variance": 0.313151,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 1.6747,
+      "prior_variance": 0.25709,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/sandiego/coronado",
+      "prior_score": 5.1815,
+      "prior_variance": 0.342725,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 2.5277,
+      "prior_variance": 0.333282,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 4.7197,
+      "prior_variance": 0.355677,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 2.0908,
+      "prior_variance": 0.274366,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 5.4068,
+      "prior_variance": 0.366377,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -2.3061,
+      "prior_variance": 0.262351,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Le Havre",
+      "path": "europe/france/nord/lehavre",
+      "prior_score": -0.4713,
+      "prior_variance": 0.257635,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Clarkdale",
+      "path": "northamerica/unitedstates/arizona/clarkdale",
+      "prior_score": -1.7676,
+      "prior_variance": 0.234012,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -3.596,
+      "prior_variance": 0.300156,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -1.1954,
+      "prior_variance": 0.243884,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_score": -1.6509,
+      "prior_variance": 0.249093,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -3.371,
+      "prior_variance": 0.28391,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.2977,
+      "prior_variance": 0.266514,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "KURADHI",
+      "path": "asia/pakistan/soon_valley/kuradhi",
+      "prior_score": -7.6112,
+      "prior_variance": 0.386756,
+      "prior_n": 5
+    }
+  ]
+}

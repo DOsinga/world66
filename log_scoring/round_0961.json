@@ -1,0 +1,200 @@
+{
+  "round": 961,
+  "timestamp": "2026-04-12T16:09:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 414,
+      "prior_n": 18
+    },
+    {
+      "rank": 2,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_rank": 598,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Maldives",
+      "path": "asia/maldives",
+      "prior_rank": 249,
+      "prior_wins": 114,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_rank": 965,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_rank": 952,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_rank": 2061,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_rank": 530,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Noumea",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_rank": 1698,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_rank": 2059,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_rank": 3294,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Eastland",
+      "path": "australiaandpacific/newzealand/eastland",
+      "prior_rank": 4608,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Stjordal",
+      "path": "europe/norway/stjordal",
+      "prior_rank": 5295,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_rank": 5561,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Targoviste",
+      "path": "europe/romania/targoviste",
+      "prior_rank": 5568,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_rank": 4099,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_rank": 5552,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Colima",
+      "path": "northamerica/mexico/yucatan/colima",
+      "prior_rank": 6582,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_rank": 7200,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_rank": 7258,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_rank": 8054,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_rank": 6679,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/haiti/gonaveisland",
+      "prior_rank": 7444,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Taram Gaun",
+      "path": "asia/india/uttaranchal/taram_gaun",
+      "prior_rank": 7743,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_rank": 7204,
+      "prior_wins": 13,
+      "prior_n": 4
+    }
+  ]
+}

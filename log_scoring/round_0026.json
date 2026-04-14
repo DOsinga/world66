@@ -1,0 +1,200 @@
+{
+  "round": 26,
+  "timestamp": "2026-04-11T19:25:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_mu": 25.04,
+      "prior_sigma": 6.3,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Auckland Region",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region",
+      "prior_mu": 23.97,
+      "prior_sigma": 6.03,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Pontevedra",
+      "path": "europe/spain/northernspain/pontevedra",
+      "prior_mu": 23.06,
+      "prior_sigma": 5.75,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "The Peninsula of O Morrazo",
+      "path": "europe/spain/galicia/the_peninsula_of_o",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_mu": 22.43,
+      "prior_sigma": 5.8,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_mu": 22.27,
+      "prior_sigma": 5.78,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_mu": 22.83,
+      "prior_sigma": 5.96,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Gambia",
+      "path": "africa/gambia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_mu": 22.62,
+      "prior_sigma": 5.94,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_mu": 22.53,
+      "prior_sigma": 5.91,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "James Island",
+      "path": "northamerica/unitedstates/southcarolina/james_island",
+      "prior_mu": 22.2,
+      "prior_sigma": 5.77,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_mu": 22.59,
+      "prior_sigma": 5.67,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_mu": 22.69,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Orpington",
+      "path": "europe/unitedkingdom/england/orpington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.33,
+      "prior_n": 0
+    }
+  ]
+}

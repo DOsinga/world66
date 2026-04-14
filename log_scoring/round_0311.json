@@ -1,0 +1,200 @@
+{
+  "round": 311,
+  "timestamp": "2026-04-12T09:11:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_mu": 24.4867,
+      "prior_sigma": 6.1102,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_mu": 26.24,
+      "prior_sigma": 6.3845,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_mu": 23.1701,
+      "prior_sigma": 6.0059,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_par",
+      "prior_mu": 23.7369,
+      "prior_sigma": 5.8471,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Venice Beach",
+      "path": "northamerica/unitedstates/california/venice_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_mu": 23.8686,
+      "prior_sigma": 6.0977,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Santa Ponsa",
+      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_mu": 22.7099,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_mu": 22.8073,
+      "prior_sigma": 5.712,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kaleden",
+      "path": "northamerica/canada/britishcolumbia/kaleden",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_mu": 21.9224,
+      "prior_sigma": 4.8357,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Maple Creek",
+      "path": "northamerica/canada/saskatchewan/maple_creek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Sylvania",
+      "path": "northamerica/unitedstates/ohio/sylvania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_2",
+      "prior_mu": 18.344,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Santa Clara de Tulpancingo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santa_clara_de_tul",
+      "prior_mu": 18.3419,
+      "prior_sigma": 6.7585,
+      "prior_n": 1
+    }
+  ]
+}

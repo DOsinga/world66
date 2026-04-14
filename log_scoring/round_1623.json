@@ -1,0 +1,200 @@
+{
+  "round": 1623,
+  "timestamp": "2026-04-13T10:36:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 11.2739,
+      "prior_variance": 0.647007,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 9.3711,
+      "prior_variance": 0.452947,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/christchurch",
+      "prior_score": 5.4227,
+      "prior_variance": 0.336619,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Las Palmas",
+      "path": "europe/spain/canaryislands/crancanaria/las_palmas",
+      "prior_score": 6.6747,
+      "prior_variance": 0.478845,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Valle d'Aosta",
+      "path": "europe/italy/valledaosta",
+      "prior_score": 4.6761,
+      "prior_variance": 0.370731,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Isola di San Pietro",
+      "path": "europe/italy/sardinia/isoladisanpietro",
+      "prior_score": 4.4647,
+      "prior_variance": 0.306723,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 3.7466,
+      "prior_variance": 0.368139,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 2.5302,
+      "prior_variance": 0.239374,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 3.8453,
+      "prior_variance": 0.324972,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 3.9579,
+      "prior_variance": 0.242603,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 3.0935,
+      "prior_variance": 0.335259,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 3.0857,
+      "prior_variance": 0.339805,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Senglea (or L-lsla)",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 4.0064,
+      "prior_variance": 0.347215,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Vieux Fort",
+      "path": "northamerica/saintlucia/vieuxfort",
+      "prior_score": 1.9889,
+      "prior_variance": 0.393753,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 2.1062,
+      "prior_variance": 0.317025,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 3.3148,
+      "prior_variance": 0.548575,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.2902,
+      "prior_variance": 0.306878,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wisconsin",
+      "path": "northamerica/unitedstates/wisconsin",
+      "prior_score": -2.0981,
+      "prior_variance": 0.396928,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -1.3956,
+      "prior_variance": 0.324273,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -3.449,
+      "prior_variance": 0.309242,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -6.0268,
+      "prior_variance": 0.400352,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_score": -5.1177,
+      "prior_variance": 0.337821,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
+      "prior_score": -3.7102,
+      "prior_variance": 0.495406,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nagorno-Karabakh (Karabakh)",
+      "path": "europe/azerbaijan/nagornokarabakh",
+      "prior_score": -4.5966,
+      "prior_variance": 0.661673,
+      "prior_n": 5
+    }
+  ]
+}

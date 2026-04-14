@@ -1,0 +1,200 @@
+{
+  "round": 1676,
+  "timestamp": "2026-04-13T10:41:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 9.8129,
+      "prior_variance": 0.449339,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 6.5178,
+      "prior_variance": 0.334984,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Culebra",
+      "path": "northamerica/puertorico/culebra",
+      "prior_score": 6.5921,
+      "prior_variance": 0.353912,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Calabria",
+      "path": "europe/italy/calabria",
+      "prior_score": 1.3396,
+      "prior_variance": 0.318525,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 4.2295,
+      "prior_variance": 0.301328,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 4.1407,
+      "prior_variance": 0.423484,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": 0.0974,
+      "prior_variance": 0.28761,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": 0.7488,
+      "prior_variance": 0.512056,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 1.2722,
+      "prior_variance": 0.395848,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -4.1988,
+      "prior_variance": 0.708624,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/eastbourne",
+      "prior_score": 0.2355,
+      "prior_variance": 0.43417,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": 0.1036,
+      "prior_variance": 0.299879,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_score": -0.0891,
+      "prior_variance": 0.321286,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": -0.6504,
+      "prior_variance": 0.332708,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -2.5223,
+      "prior_variance": 0.317228,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.9625,
+      "prior_variance": 0.348508,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -2.0416,
+      "prior_variance": 0.37513,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -4.3811,
+      "prior_variance": 0.313448,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Yakouren",
+      "path": "africa/algeria/yakouren",
+      "prior_score": -5.9528,
+      "prior_variance": 0.330499,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bonita",
+      "path": "northamerica/unitedstates/california/sandiego/bonita",
+      "prior_score": -4.1443,
+      "prior_variance": 0.352133,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Dickenson Bay",
+      "path": "southamerica/argentina/dickensonbay",
+      "prior_score": -10.154,
+      "prior_variance": 0.473506,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -9.2652,
+      "prior_variance": 0.981795,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -9.4344,
+      "prior_variance": 0.577616,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -12.0379,
+      "prior_variance": 0.555575,
+      "prior_n": 6
+    }
+  ]
+}

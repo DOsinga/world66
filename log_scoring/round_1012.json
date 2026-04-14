@@ -1,0 +1,200 @@
+{
+  "round": 1012,
+  "timestamp": "2026-04-12T22:04:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_rank": 3248,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_rank": 1449,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_rank": 2008,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_rank": 1490,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_rank": 212,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_rank": 2836,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_rank": 2654,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gallipoli",
+      "path": "asia/turkey/canakkale/gallipoli",
+      "prior_rank": 2624,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_rank": 2224,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_rank": 1145,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_rank": 2628,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_rank": 5593,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Khaplu",
+      "path": "asia/pakistan/skardu/khaplu",
+      "prior_rank": 926,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_rank": 3413,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_rank": 5806,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_rank": 4154,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_rank": 2596,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_rank": 3221,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Vila do conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_rank": 2162,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_rank": 1086,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_rank": 3093,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_rank": 2875,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_rank": 2179,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_rank": 2854,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

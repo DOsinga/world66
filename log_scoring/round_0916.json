@@ -1,0 +1,200 @@
+{
+  "round": 916,
+  "timestamp": "2026-04-12T14:49:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 6.6422,
+      "prior_variance": 0.884591,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "america",
+      "path": "europe/spain/northernspain/santiagodecompostela/america",
+      "prior_score": -4.6411,
+      "prior_variance": 17.859222,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 7.998,
+      "prior_variance": 1.692503,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 6.7372,
+      "prior_variance": 1.276614,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 5.1473,
+      "prior_variance": 1.523279,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 6.5793,
+      "prior_variance": 1.296933,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Isla Verde",
+      "path": "northamerica/puertorico/islaverde",
+      "prior_score": 3.9322,
+      "prior_variance": 1.82297,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Orheiul Vechi",
+      "path": "europe/moldova/orheiul_vechi_2",
+      "prior_score": 0.3934,
+      "prior_variance": 1.241108,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -13.5521,
+      "prior_variance": 2.960412,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kellokoski",
+      "path": "europe/finland/helsinki/kellokoski",
+      "prior_score": -7.1285,
+      "prior_variance": 12.526966,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -3.3373,
+      "prior_variance": 1.202103,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 0.5597,
+      "prior_variance": 1.380043,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lorraine",
+      "path": "europe/france/east/lorraine",
+      "prior_score": 1.494,
+      "prior_variance": 1.244473,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -5.9596,
+      "prior_variance": 1.243982,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tibas",
+      "path": "northamerica/costarica/tibas",
+      "prior_score": -2.0164,
+      "prior_variance": 1.175843,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -6.1865,
+      "prior_variance": 1.607975,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -3.5691,
+      "prior_variance": 1.337221,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.2516,
+      "prior_variance": 1.354602,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tizi-ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.9648,
+      "prior_variance": 0.598705,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bethel",
+      "path": "northamerica/unitedstates/alaska/bethel",
+      "prior_score": -14.4088,
+      "prior_variance": 7.411041,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_score": -3.5023,
+      "prior_variance": 0.565933,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sudhnoti",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/sudnooti",
+      "prior_score": -6.6419,
+      "prior_variance": 1.362524,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": 2.2572,
+      "prior_variance": 1.529965,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -9.218,
+      "prior_variance": 1.465138,
+      "prior_n": 1
+    }
+  ]
+}

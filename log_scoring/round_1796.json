@@ -1,0 +1,200 @@
+{
+  "round": 1796,
+  "timestamp": "2026-04-13T10:52:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 15.6608,
+      "prior_variance": 0.856399,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lofoten islands",
+      "path": "europe/norway/lofotenislands",
+      "prior_score": 13.5311,
+      "prior_variance": 0.696945,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 13.1214,
+      "prior_variance": 0.730115,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Thailand",
+      "path": "asia/thailand",
+      "prior_score": 13.2471,
+      "prior_variance": 0.739037,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island/koh_talu",
+      "prior_score": 4.2038,
+      "prior_variance": 0.319969,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pelagian Islands",
+      "path": "europe/italy/sicily/pelagianislands",
+      "prior_score": 4.5206,
+      "prior_variance": 0.257809,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 5.2842,
+      "prior_variance": 0.297499,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 3.414,
+      "prior_variance": 0.277139,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 1.4949,
+      "prior_variance": 0.33723,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_score": 3.0963,
+      "prior_variance": 0.423955,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 0.7582,
+      "prior_variance": 0.330024,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Maluku",
+      "path": "asia/indonesia/maluku",
+      "prior_score": 0.1776,
+      "prior_variance": 0.332326,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 3.8501,
+      "prior_variance": 0.363434,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.0815,
+      "prior_variance": 0.341042,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.2653,
+      "prior_variance": 0.570317,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -4.1468,
+      "prior_variance": 0.327035,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 0.559,
+      "prior_variance": 0.384482,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": 0.9435,
+      "prior_variance": 0.327793,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 2.497,
+      "prior_variance": 0.408161,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -3.1811,
+      "prior_variance": 0.316537,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Jerico",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": -4.8956,
+      "prior_variance": 0.540508,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -1.2889,
+      "prior_variance": 0.252757,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/preston",
+      "prior_score": -1.9076,
+      "prior_variance": 0.282954,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.2976,
+      "prior_variance": 0.380383,
+      "prior_n": 4
+    }
+  ]
+}

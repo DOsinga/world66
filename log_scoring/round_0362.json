@@ -1,0 +1,200 @@
+{
+  "round": 362,
+  "timestamp": "2026-04-12T09:13:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong Island",
+      "path": "asia/china/hongkong/hongkongisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Basque Country (Euskadi)",
+      "path": "europe/spain/basque_country_eus",
+      "prior_mu": 23.2562,
+      "prior_sigma": 5.6431,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_mu": 22.8667,
+      "prior_sigma": 5.7103,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_mu": 21.6186,
+      "prior_sigma": 4.5612,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_mu": 22.7964,
+      "prior_sigma": 5.9588,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_mu": 22.001,
+      "prior_sigma": 5.5964,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_mu": 22.6895,
+      "prior_sigma": 5.9457,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_mu": 22.9022,
+      "prior_sigma": 5.7258,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_mu": 21.5646,
+      "prior_sigma": 5.4879,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Keratsini",
+      "path": "europe/greece/keratsini",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "kana mohri",
+      "path": "asia/pakistan/azad_kashmir/bagh/kana_mohri_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

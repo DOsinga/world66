@@ -1,0 +1,200 @@
+{
+  "round": 2179,
+  "timestamp": "2026-04-13T16:17:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/otago/milford_sound",
+      "prior_score": 13.4801,
+      "prior_variance": 0.614551,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vatican City",
+      "path": "europe/vaticancity",
+      "prior_score": 10.39,
+      "prior_variance": 0.423753,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 5.8622,
+      "prior_variance": 0.276523,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 5.3525,
+      "prior_variance": 0.322198,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 1.3789,
+      "prior_variance": 0.243297,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 3.99,
+      "prior_variance": 0.333711,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 3.6136,
+      "prior_variance": 0.235032,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 4.9365,
+      "prior_variance": 0.274165,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.8382,
+      "prior_variance": 0.283694,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Around Hue",
+      "path": "asia/vietnam/hue/aroundhue",
+      "prior_score": 3.1494,
+      "prior_variance": 0.408016,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/west_coast/hokitika",
+      "prior_score": 2.3288,
+      "prior_variance": 0.25584,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 3.6958,
+      "prior_variance": 0.217424,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverp/liverpool",
+      "prior_score": 2.4298,
+      "prior_variance": 0.29612,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": 0.6637,
+      "prior_variance": 0.281293,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.4269,
+      "prior_variance": 0.226214,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 0.4759,
+      "prior_variance": 0.224594,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 2.7466,
+      "prior_variance": 0.246327,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -0.5513,
+      "prior_variance": 0.249219,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Solomon Islands",
+      "path": "australiaandpacific/solomonislands",
+      "prior_score": -0.5733,
+      "prior_variance": 0.582496,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/chiswick",
+      "prior_score": -1.6894,
+      "prior_variance": 0.230578,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/livermore",
+      "prior_score": -3.4031,
+      "prior_variance": 0.267885,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.4023,
+      "prior_variance": 0.20952,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.728,
+      "prior_variance": 0.259857,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.8063,
+      "prior_variance": 0.245926,
+      "prior_n": 5
+    }
+  ]
+}

@@ -5,6 +5,10 @@ latitude: 29.9457
 longitude: 78.1642
 title: Haridwar
 type: location
+image: haridwar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Har_Ki_Pauri,_Haridwar.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Livefree2013
 ---
 
 Haridwar is one of the seven holiest cities in Hinduism, and you will feel it the moment you arrive. The Ganges emerges from the Himalayan foothills here, and the entire city is organized around the river — bathing ghats, temple bells, chanting, and the smell of incense are constant. Every evening at Har Ki Pauri ghat, priests perform the Ganga Aarti ceremony, lowering fire to the water as thousands of small oil lamps float downstream. It is one of the most atmospheric rituals you will witness anywhere in India.

@@ -1,0 +1,200 @@
+{
+  "round": 2239,
+  "timestamp": "2026-04-13T16:23:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bolivia",
+      "path": "southamerica/bolivia",
+      "prior_score": 6.5736,
+      "prior_variance": 0.399929,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Malaga",
+      "path": "europe/spain/malaga",
+      "prior_score": 6.4684,
+      "prior_variance": 0.253708,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_score": 4.3133,
+      "prior_variance": 0.122815,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kreuzberg",
+      "path": "europe/germany/berlin/kreuzberg",
+      "prior_score": 3.5014,
+      "prior_variance": 0.23253,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 4.8128,
+      "prior_variance": 0.231802,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 2.5371,
+      "prior_variance": 0.229081,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Macedonia",
+      "path": "europe/macedonia",
+      "prior_score": 2.6185,
+      "prior_variance": 0.239261,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 4.1168,
+      "prior_variance": 0.190709,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 2.7318,
+      "prior_variance": 0.266175,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.1265,
+      "prior_variance": 0.246761,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 1.1123,
+      "prior_variance": 0.228802,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": 0.0235,
+      "prior_variance": 0.289045,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -0.8635,
+      "prior_variance": 0.244423,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -2.1083,
+      "prior_variance": 0.263522,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Almansa",
+      "path": "europe/spain/la_mancha/almansa",
+      "prior_score": -1.3145,
+      "prior_variance": 0.221021,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -1.2761,
+      "prior_variance": 0.305599,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -1.9311,
+      "prior_variance": 0.224704,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.2298,
+      "prior_variance": 0.189456,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.4024,
+      "prior_variance": 0.203088,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -2.642,
+      "prior_variance": 0.468927,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -4.0481,
+      "prior_variance": 0.202725,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -7.7779,
+      "prior_variance": 0.357897,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Pleasant Grove",
+      "path": "northamerica/unitedstates/utah/pleasantgrove",
+      "prior_score": -3.9581,
+      "prior_variance": 0.257054,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -4.2318,
+      "prior_variance": 0.258509,
+      "prior_n": 5
+    }
+  ]
+}

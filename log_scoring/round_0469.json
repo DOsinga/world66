@@ -1,0 +1,200 @@
+{
+  "round": 469,
+  "timestamp": "2026-04-12T09:31:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_mu": 29.4372,
+      "prior_sigma": 6.8088,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Iona",
+      "path": "europe/unitedkingdom/scotland/iona",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_mu": 21.608,
+      "prior_sigma": 4.7241,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/glenridding",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
+      "prior_mu": 21.7091,
+      "prior_sigma": 4.5886,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/salisbury",
+      "prior_mu": 21.4096,
+      "prior_sigma": 4.6707,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_mu": 22.2889,
+      "prior_sigma": 5.5342,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_mu": 22.7075,
+      "prior_sigma": 5.9479,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/exeter",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/norwich",
+      "prior_mu": 22.7096,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_mu": 21.9371,
+      "prior_sigma": 5.3766,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Scotland",
+      "path": "europe/unitedkingdom/scotland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
+      "prior_mu": 22.3777,
+      "prior_sigma": 5.5621,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/norfolk/wolferton",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_mu": 21.5586,
+      "prior_sigma": 5.9241,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/bolton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Renfrew",
+      "path": "europe/unitedkingdom/scotland/glasgow/renfrew",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/consett",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Harlow",
+      "path": "europe/unitedkingdom/england/harlow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

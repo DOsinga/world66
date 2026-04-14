@@ -1,0 +1,200 @@
+{
+  "round": 725,
+  "timestamp": "2026-04-12T10:44:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_mu": 30.8027,
+      "prior_sigma": 6.7021,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_mu": 22.7656,
+      "prior_sigma": 5.7202,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_mu": 23.4142,
+      "prior_sigma": 5.0162,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_mu": 22.6469,
+      "prior_sigma": 5.5537,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "The High Coast",
+      "path": "europe/sweden/the_high_coast",
+      "prior_mu": 22.2547,
+      "prior_sigma": 4.7864,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_mu": 21.6702,
+      "prior_sigma": 4.5258,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_mu": 21.951,
+      "prior_sigma": 4.5008,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_mu": 21.5775,
+      "prior_sigma": 4.3039,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_mu": 22.4847,
+      "prior_sigma": 5.714,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_mu": 22.1577,
+      "prior_sigma": 5.4732,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_mu": 22.2315,
+      "prior_sigma": 5.5145,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_mu": 21.5661,
+      "prior_sigma": 4.6049,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_mu": 21.4395,
+      "prior_sigma": 4.6211,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_mu": 21.5119,
+      "prior_sigma": 4.0503,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_mu": 22.0387,
+      "prior_sigma": 5.7381,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_mu": 22.7616,
+      "prior_sigma": 5.5408,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_mu": 22.4445,
+      "prior_sigma": 5.5571,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_mu": 22.6486,
+      "prior_sigma": 5.9458,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "N\u00e4vekvarn",
+      "path": "europe/sweden/nvekvarn",
+      "prior_mu": 21.7612,
+      "prior_sigma": 4.587,
+      "prior_n": 2
+    }
+  ]
+}

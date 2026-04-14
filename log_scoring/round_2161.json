@@ -1,0 +1,200 @@
+{
+  "round": 2161,
+  "timestamp": "2026-04-13T16:16:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.449,
+      "prior_variance": 0.254397,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Sikkim",
+      "path": "asia/india/sikkim",
+      "prior_score": 5.1536,
+      "prior_variance": 0.333008,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_score": 3.8405,
+      "prior_variance": 0.393493,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pamplona",
+      "path": "europe/spain/northernspain/pamplona",
+      "prior_score": 5.2171,
+      "prior_variance": 0.239412,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 4.2043,
+      "prior_variance": 0.300337,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/hawkshead",
+      "prior_score": 2.9803,
+      "prior_variance": 0.276126,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Penticton",
+      "path": "northamerica/canada/britishcolumbia/penticton",
+      "prior_score": 0.871,
+      "prior_variance": 0.277497,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 1.5572,
+      "prior_variance": 0.25087,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ethiopia",
+      "path": "africa/ethiopia",
+      "prior_score": -1.7028,
+      "prior_variance": 0.397844,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 2.7947,
+      "prior_variance": 0.338134,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.418,
+      "prior_variance": 0.245325,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -3.1669,
+      "prior_variance": 0.234394,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -3.5496,
+      "prior_variance": 0.221251,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_score": -5.4394,
+      "prior_variance": 0.339609,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -8.2232,
+      "prior_variance": 0.67389,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bacoor",
+      "path": "asia/philippines/bacoor",
+      "prior_score": -5.292,
+      "prior_variance": 0.246345,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -7.0132,
+      "prior_variance": 0.324457,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -4.7145,
+      "prior_variance": 0.292811,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/yucatan/anahuac",
+      "prior_score": -6.4099,
+      "prior_variance": 0.394806,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -5.562,
+      "prior_variance": 0.296022,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_score": -6.2943,
+      "prior_variance": 0.281715,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.1257,
+      "prior_variance": 0.385654,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/haiti/petite_riviere_de",
+      "prior_score": -8.2561,
+      "prior_variance": 0.337629,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -9.7784,
+      "prior_variance": 0.560845,
+      "prior_n": 6
+    }
+  ]
+}

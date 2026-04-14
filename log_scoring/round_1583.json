@@ -1,0 +1,200 @@
+{
+  "round": 1583,
+  "timestamp": "2026-04-13T10:33:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 5.1567,
+      "prior_variance": 0.437774,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.7062,
+      "prior_variance": 0.457679,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.1716,
+      "prior_variance": 0.387694,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/kapiti_coast/raumati_beach",
+      "prior_score": -2.5792,
+      "prior_variance": 0.434016,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Meghalaya",
+      "path": "asia/india/meghalaya",
+      "prior_score": 7.0823,
+      "prior_variance": 0.540799,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_score": -6.5682,
+      "prior_variance": 0.356317,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st_1",
+      "prior_score": -2.3948,
+      "prior_variance": 0.307071,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Settat",
+      "path": "africa/morocco/settat",
+      "prior_score": -5.6986,
+      "prior_variance": 0.766354,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -4.5855,
+      "prior_variance": 0.43592,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Arviat",
+      "path": "northamerica/canada/nunavut/arviat",
+      "prior_score": -7.3351,
+      "prior_variance": 0.580972,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -5.1197,
+      "prior_variance": 0.336349,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Slidell",
+      "path": "northamerica/unitedstates/louisiana/slidell",
+      "prior_score": -4.6283,
+      "prior_variance": 0.344322,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_score": -5.2757,
+      "prior_variance": 0.270939,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -6.9397,
+      "prior_variance": 0.346646,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/anahuac",
+      "prior_score": -6.0098,
+      "prior_variance": 0.264258,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -5.8091,
+      "prior_variance": 0.350767,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -6.6754,
+      "prior_variance": 0.329774,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -7.1456,
+      "prior_variance": 0.383594,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -7.7103,
+      "prior_variance": 0.704845,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -6.7187,
+      "prior_variance": 0.358095,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Eagle Base",
+      "path": "europe/bosniaandherzegovina/eagle_base",
+      "prior_score": -9.1217,
+      "prior_variance": 0.574864,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -8.6037,
+      "prior_variance": 0.563924,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Aliot",
+      "path": "asia/pakistan/azad_kashmir/bagh/aliot",
+      "prior_score": -9.1819,
+      "prior_variance": 0.492155,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.2875,
+      "prior_variance": 0.381224,
+      "prior_n": 4
+    }
+  ]
+}

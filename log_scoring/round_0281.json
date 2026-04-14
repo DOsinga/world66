@@ -1,0 +1,200 @@
+{
+  "round": 281,
+  "timestamp": "2026-04-12T09:09:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rarotonga",
+      "path": "australiaandpacific/cookislands/rarotonga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_mu": 24.4601,
+      "prior_sigma": 5.6265,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tigullio",
+      "path": "europe/italy/liguria/italianriviera/tigullio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_mu": 22.8986,
+      "prior_sigma": 5.7255,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_mu": 22.4621,
+      "prior_sigma": 5.9048,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/victoria/chemainus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Campoformido",
+      "path": "europe/italy/friuliveneziagiulia/campoformido",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_mu": 21.8238,
+      "prior_sigma": 4.8175,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "kotnali villages photo",
+      "path": "asia/india/uttaranchal/kotnali_villages_p",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Daly City",
+      "path": "northamerica/unitedstates/california/daly_city",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/wolverhampton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

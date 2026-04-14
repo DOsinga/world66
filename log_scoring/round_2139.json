@@ -1,0 +1,200 @@
+{
+  "round": 2139,
+  "timestamp": "2026-04-13T16:14:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_score": 4.8789,
+      "prior_variance": 0.357796,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ladakh",
+      "path": "asia/india/jammuandkashmir/ladakh",
+      "prior_score": 8.6121,
+      "prior_variance": 0.332476,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 5.7042,
+      "prior_variance": 0.312664,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.8559,
+      "prior_variance": 0.263535,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 4.5705,
+      "prior_variance": 0.241524,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_score": 5.3786,
+      "prior_variance": 0.317677,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 5.7946,
+      "prior_variance": 0.357854,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Wadden islands",
+      "path": "europe/netherlands/waddenislands",
+      "prior_score": 2.8417,
+      "prior_variance": 0.170732,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": -0.5502,
+      "prior_variance": 0.283189,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": 0.0476,
+      "prior_variance": 0.223367,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 1.649,
+      "prior_variance": 0.243653,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -0.7945,
+      "prior_variance": 0.219363,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": 1.0333,
+      "prior_variance": 0.237617,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/plymouth",
+      "prior_score": -0.2227,
+      "prior_variance": 0.221477,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_score": -0.4746,
+      "prior_variance": 0.241709,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.4942,
+      "prior_variance": 0.295415,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -3.5261,
+      "prior_variance": 0.2653,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vares",
+      "path": "europe/bosniaandherzegovina/vares",
+      "prior_score": -5.4873,
+      "prior_variance": 0.419126,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -2.9973,
+      "prior_variance": 0.225,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -2.7372,
+      "prior_variance": 0.243795,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_score": -3.37,
+      "prior_variance": 0.32603,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.4702,
+      "prior_variance": 0.248706,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -2.7356,
+      "prior_variance": 0.220206,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -10.963,
+      "prior_variance": 0.284903,
+      "prior_n": 7
+    }
+  ]
+}

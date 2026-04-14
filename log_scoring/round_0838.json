@@ -1,0 +1,200 @@
+{
+  "round": 838,
+  "timestamp": "2026-04-12T14:36:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 15.8758,
+      "prior_variance": 6.979299,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.3754,
+      "prior_variance": 1.606494,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 4.8249,
+      "prior_variance": 1.348653,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/suva",
+      "prior_score": 2.0305,
+      "prior_variance": 1.575377,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Northern Kenya",
+      "path": "africa/kenya/northernkenya",
+      "prior_score": -3.6068,
+      "prior_variance": 1.5922,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -0.5009,
+      "prior_variance": 1.246228,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": 3.1052,
+      "prior_variance": 25.056366,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.5439,
+      "prior_variance": 1.321627,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": 0.2237,
+      "prior_variance": 2.345312,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -0.9768,
+      "prior_variance": 1.540032,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Ukraine",
+      "path": "europe/ukraine",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 1.4349,
+      "prior_variance": 2.932775,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": 0.0852,
+      "prior_variance": 1.369897,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Forest Hill",
+      "path": "europe/unitedkingdom/england/london/foresthill",
+      "prior_score": -5.5406,
+      "prior_variance": 1.416334,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -5.4872,
+      "prior_variance": 1.420825,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -3.901,
+      "prior_variance": 2.649422,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -4.3938,
+      "prior_variance": 1.269028,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -11.1474,
+      "prior_variance": 8.869449,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -8.8077,
+      "prior_variance": 3.939487,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Angola",
+      "path": "africa/angola",
+      "prior_score": -5.1135,
+      "prior_variance": 1.602236,
+      "prior_n": 1
+    }
+  ]
+}

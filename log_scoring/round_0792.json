@@ -1,0 +1,200 @@
+{
+  "round": 792,
+  "timestamp": "2026-04-12T10:48:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Islands",
+      "path": "asia/singapore/islands",
+      "prior_mu": 22.2234,
+      "prior_sigma": 4.4547,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_mu": 25.6537,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Grenada",
+      "path": "northamerica/thecaribbean/grenada",
+      "prior_mu": 21.8709,
+      "prior_sigma": 4.6053,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_mu": 22.3617,
+      "prior_sigma": 4.4904,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_mu": 22.5339,
+      "prior_sigma": 5.458,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_mu": 23.8973,
+      "prior_sigma": 4.3781,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_mu": 23.4454,
+      "prior_sigma": 5.0082,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_mu": 23.5026,
+      "prior_sigma": 4.6464,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Gudauri",
+      "path": "europe/georgia/tbilisi/gudauri",
+      "prior_mu": 22.7143,
+      "prior_sigma": 5.67,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_mu": 21.5813,
+      "prior_sigma": 4.7608,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/north_island/waikato",
+      "prior_mu": 22.4428,
+      "prior_sigma": 5.7563,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hawke's Bay",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_mu": 21.695,
+      "prior_sigma": 4.7886,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/colchester",
+      "prior_mu": 21.0785,
+      "prior_sigma": 3.4498,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_mu": 22.2438,
+      "prior_sigma": 5.2964,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Honduras",
+      "path": "northamerica/honduras",
+      "prior_mu": 21.6437,
+      "prior_sigma": 4.3035,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Brava",
+      "path": "africa/capeverde/brava",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_mu": 21.713,
+      "prior_sigma": 4.8182,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_mu": 20.3923,
+      "prior_sigma": 3.4471,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_mu": 21.7691,
+      "prior_sigma": 5.2748,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_mu": 21.5028,
+      "prior_sigma": 4.7008,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_mu": 21.0176,
+      "prior_sigma": 3.7694,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Travelwise",
+      "path": "travelwise",
+      "prior_mu": 18.1772,
+      "prior_sigma": 6.723,
+      "prior_n": 1
+    }
+  ]
+}

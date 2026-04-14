@@ -1,0 +1,200 @@
+{
+  "round": 701,
+  "timestamp": "2026-04-12T10:43:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_mu": 21.9824,
+      "prior_sigma": 4.5885,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_mu": 22.4242,
+      "prior_sigma": 5.7416,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Dilijan",
+      "path": "europe/armenia/dilijan",
+      "prior_mu": 22.4666,
+      "prior_sigma": 5.4224,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_mu": 22.5531,
+      "prior_sigma": 5.5404,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gyumri",
+      "path": "europe/armenia/gyumri",
+      "prior_mu": 22.6283,
+      "prior_sigma": 5.9281,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Vayots Dzor Marz",
+      "path": "europe/armenia/vayots_dzor_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_mu": 22.6291,
+      "prior_sigma": 5.913,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Syunik Marz",
+      "path": "europe/armenia/syunik_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_mu": 21.7316,
+      "prior_sigma": 4.6857,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Aragatsotn Marz",
+      "path": "europe/armenia/aragatsotn_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Shirak Marz",
+      "path": "europe/armenia/shirak_marz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_mu": 19.5452,
+      "prior_sigma": 4.1896,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Nagorno-Karabakh",
+      "path": "europe/armenia/nagornokarabakh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Armenia",
+      "path": "europe/armenia",
+      "prior_mu": 21.8567,
+      "prior_sigma": 4.8365,
+      "prior_n": 2
+    }
+  ]
+}

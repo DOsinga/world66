@@ -1,0 +1,200 @@
+{
+  "round": 1602,
+  "timestamp": "2026-04-13T10:34:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 7.3206,
+      "prior_variance": 0.365649,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Jammu and Kashmir",
+      "path": "asia/india/jammuandkashmir",
+      "prior_score": 6.8572,
+      "prior_variance": 0.320772,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Avanos",
+      "path": "asia/turkey/cappadocia/avanos",
+      "prior_score": 3.7873,
+      "prior_variance": 0.560765,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 6.6562,
+      "prior_variance": 0.414498,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "New York State",
+      "path": "northamerica/unitedstates/newyorkstate",
+      "prior_score": 5.9459,
+      "prior_variance": 0.326299,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Luxembourg",
+      "path": "europe/luxembourg",
+      "prior_score": 5.6928,
+      "prior_variance": 0.507124,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Auckland (city)",
+      "path": "australiaandpacific/newzealand/auckland_region/auckland",
+      "prior_score": 3.6981,
+      "prior_variance": 0.533222,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_score": 4.8031,
+      "prior_variance": 0.4122,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 6.8809,
+      "prior_variance": 0.436555,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 5.4048,
+      "prior_variance": 0.462763,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 5.2278,
+      "prior_variance": 0.605827,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Saint-Martin",
+      "path": "northamerica/saintmartin",
+      "prior_score": 4.4126,
+      "prior_variance": 0.417998,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.4695,
+      "prior_variance": 0.452261,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.9275,
+      "prior_variance": 0.763086,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 4.1121,
+      "prior_variance": 0.3671,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
+      "prior_score": 2.5572,
+      "prior_variance": 0.333414,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 2.3619,
+      "prior_variance": 0.382054,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 0.7296,
+      "prior_variance": 0.316534,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nelson",
+      "path": "australiaandpacific/newzealand/nelson",
+      "prior_score": 4.5565,
+      "prior_variance": 0.456329,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 0.9841,
+      "prior_variance": 0.373949,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 3.1119,
+      "prior_variance": 0.36308,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": -4.7656,
+      "prior_variance": 0.863859,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/ceriale",
+      "prior_score": 1.2965,
+      "prior_variance": 0.332911,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -5.0689,
+      "prior_variance": 0.296405,
+      "prior_n": 4
+    }
+  ]
+}

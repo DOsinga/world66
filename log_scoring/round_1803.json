@@ -1,0 +1,200 @@
+{
+  "round": 1803,
+  "timestamp": "2026-04-13T10:52:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 8.742,
+      "prior_variance": 0.60273,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Garden Route",
+      "path": "africa/southafrica/gardenroute",
+      "prior_score": 7.405,
+      "prior_variance": 0.391486,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_score": 6.2094,
+      "prior_variance": 0.54707,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 7.2323,
+      "prior_variance": 0.467264,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jammu and Kashmir",
+      "path": "asia/india/jammuandkashmir",
+      "prior_score": 6.681,
+      "prior_variance": 0.259143,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 2.9143,
+      "prior_variance": 0.352411,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.5343,
+      "prior_variance": 0.321999,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 5.3059,
+      "prior_variance": 0.333754,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 6.8498,
+      "prior_variance": 0.431549,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 7.0444,
+      "prior_variance": 0.306251,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Louisiana",
+      "path": "northamerica/unitedstates/louisiana",
+      "prior_score": 2.0813,
+      "prior_variance": 0.473892,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 4.1851,
+      "prior_variance": 0.476692,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 2.8795,
+      "prior_variance": 0.428773,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.9227,
+      "prior_variance": 0.393844,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_score": 3.1138,
+      "prior_variance": 0.329327,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.7445,
+      "prior_variance": 0.298234,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.4684,
+      "prior_variance": 0.209256,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "kamploops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -2.6782,
+      "prior_variance": 0.301159,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -1.779,
+      "prior_variance": 0.312168,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.6528,
+      "prior_variance": 0.243685,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ja\u00e9n (province)",
+      "path": "southamerica/peru/northern_pacific_t/jan",
+      "prior_score": -7.1319,
+      "prior_variance": 0.3606,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Simeiz",
+      "path": "europe/ukraine/crimea/simeiz",
+      "prior_score": 0.0048,
+      "prior_variance": 0.321308,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khoram Abad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -2.9352,
+      "prior_variance": 0.303558,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_score": -5.7867,
+      "prior_variance": 0.382262,
+      "prior_n": 4
+    }
+  ]
+}

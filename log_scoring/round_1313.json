@@ -1,0 +1,200 @@
+{
+  "round": 1313,
+  "timestamp": "2026-04-12T22:21:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/london",
+      "prior_rank": 39,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_rank": 23,
+      "prior_wins": 89,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_rank": 18,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_rank": 71,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Campania",
+      "path": "europe/italy/campania",
+      "prior_rank": 97,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hong Kong Island",
+      "path": "asia/china/hongkong/hongkongisland",
+      "prior_rank": 252,
+      "prior_wins": 103,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_rank": 755,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_rank": 42,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "French Alps",
+      "path": "europe/france/alpes",
+      "prior_rank": 40,
+      "prior_wins": 88,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_rank": 20,
+      "prior_wins": 155,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_rank": 17,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mal\u00e9 Atoll",
+      "path": "asia/maldives/male_atoll",
+      "prior_rank": 59,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Tahiti",
+      "path": "australiaandpacific/frenchpolynesia/tahiti",
+      "prior_rank": 65,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Rarotonga",
+      "path": "australiaandpacific/cookislands/rarotonga",
+      "prior_rank": 31,
+      "prior_wins": 75,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_rank": 116,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Namibia",
+      "path": "africa/namibia",
+      "prior_rank": 68,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Faroe Islands",
+      "path": "europe/faroeislands",
+      "prior_rank": 304,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bay of Kotor",
+      "path": "europe/serbiaandmontenegro/bayofkotor",
+      "prior_rank": 141,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Monaco",
+      "path": "europe/monaco",
+      "prior_rank": 258,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Aeolian Islands",
+      "path": "europe/italy/sicily/aeolianislands",
+      "prior_rank": 72,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/rivieramaya",
+      "prior_rank": 75,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Estes Park",
+      "path": "northamerica/unitedstates/colorado/estespark",
+      "prior_rank": 269,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_rank": 48,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bath",
+      "prior_rank": 101,
+      "prior_wins": 86,
+      "prior_n": 4
+    }
+  ]
+}

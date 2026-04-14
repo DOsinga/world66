@@ -1,0 +1,200 @@
+{
+  "round": 2073,
+  "timestamp": "2026-04-13T16:08:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Namibia",
+      "path": "africa/namibia",
+      "prior_score": 6.6675,
+      "prior_variance": 0.659543,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 4.0635,
+      "prior_variance": 0.265257,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.3002,
+      "prior_variance": 0.251427,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": 0.773,
+      "prior_variance": 0.284374,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": 0.8214,
+      "prior_variance": 0.301596,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 2.1212,
+      "prior_variance": 0.223336,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 1.1526,
+      "prior_variance": 0.245959,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.3142,
+      "prior_variance": 0.258145,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": 1.3049,
+      "prior_variance": 0.275699,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -0.7983,
+      "prior_variance": 0.242681,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -1.3313,
+      "prior_variance": 0.287523,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -4.6657,
+      "prior_variance": 0.318698,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.5028,
+      "prior_variance": 0.253111,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.7794,
+      "prior_variance": 0.295467,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.0728,
+      "prior_variance": 0.452568,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -2.5867,
+      "prior_variance": 0.255889,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/upperhutt",
+      "prior_score": -2.7355,
+      "prior_variance": 0.246223,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.3327,
+      "prior_variance": 0.339454,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -4.3688,
+      "prior_variance": 0.275156,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Cortland",
+      "path": "northamerica/unitedstates/newyorkstate/cortland",
+      "prior_score": -4.7936,
+      "prior_variance": 0.237923,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Occhiobello",
+      "path": "europe/italy/veneto/occhiobello",
+      "prior_score": -5.1887,
+      "prior_variance": 0.258708,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Griffith",
+      "path": "northamerica/unitedstates/indiana/griffith",
+      "prior_score": -6.0682,
+      "prior_variance": 0.286884,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_score": -5.5639,
+      "prior_variance": 0.293657,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -6.0694,
+      "prior_variance": 0.334148,
+      "prior_n": 5
+    }
+  ]
+}

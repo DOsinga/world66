@@ -1,0 +1,200 @@
+{
+  "round": 2275,
+  "timestamp": "2026-04-13T16:26:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 4.7711,
+      "prior_variance": 0.292455,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 4.6824,
+      "prior_variance": 0.270795,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 3.2944,
+      "prior_variance": 0.210123,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -1.2257,
+      "prior_variance": 0.281074,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_1",
+      "prior_score": -7.7235,
+      "prior_variance": 0.630501,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -3.9469,
+      "prior_variance": 0.405466,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.0275,
+      "prior_variance": 0.250371,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -2.9801,
+      "prior_variance": 0.21112,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -3.332,
+      "prior_variance": 0.212856,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -3.2812,
+      "prior_variance": 0.23286,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -2.1048,
+      "prior_variance": 0.221676,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -1.8974,
+      "prior_variance": 0.217339,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Laguna",
+      "path": "asia/philippines/laguna",
+      "prior_score": -0.8763,
+      "prior_variance": 0.206585,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Mississippi",
+      "path": "northamerica/unitedstates/mississippi",
+      "prior_score": -2.7099,
+      "prior_variance": 0.253374,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.06,
+      "prior_variance": 0.270528,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Pendle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle",
+      "prior_score": -2.3123,
+      "prior_variance": 0.284426,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -4.3316,
+      "prior_variance": 0.296087,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/stourbridge",
+      "prior_score": -4.7031,
+      "prior_variance": 0.225806,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Gjakova",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjakova",
+      "prior_score": -2.9354,
+      "prior_variance": 0.2029,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -4.6635,
+      "prior_variance": 0.268596,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -5.6855,
+      "prior_variance": 0.34193,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -4.8243,
+      "prior_variance": 0.258889,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -3.6486,
+      "prior_variance": 0.296195,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "TORDHER",
+      "path": "asia/pakistan/karachi/tordher",
+      "prior_score": -8.8463,
+      "prior_variance": 0.350229,
+      "prior_n": 5
+    }
+  ]
+}

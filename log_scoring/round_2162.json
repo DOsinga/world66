@@ -1,0 +1,200 @@
+{
+  "round": 2162,
+  "timestamp": "2026-04-13T16:16:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 7.6625,
+      "prior_variance": 0.37855,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 8.8046,
+      "prior_variance": 0.466644,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 7.1395,
+      "prior_variance": 0.265943,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Northern Ireland",
+      "path": "europe/unitedkingdom/northernireland",
+      "prior_score": 4.2751,
+      "prior_variance": 0.285121,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/waikato/waitomo",
+      "prior_score": 5.4162,
+      "prior_variance": 0.303037,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Laos",
+      "path": "asia/laos",
+      "prior_score": 4.0029,
+      "prior_variance": 0.233002,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.6199,
+      "prior_variance": 0.300906,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_score": 5.9952,
+      "prior_variance": 0.33829,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 2.4844,
+      "prior_variance": 0.294393,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/roatan",
+      "prior_score": 4.7823,
+      "prior_variance": 0.286721,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Venice Beach",
+      "path": "northamerica/unitedstates/california/venice_beach",
+      "prior_score": 2.7108,
+      "prior_variance": 0.310548,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.0138,
+      "prior_variance": 0.551335,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.0957,
+      "prior_variance": 0.261927,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.3786,
+      "prior_variance": 0.261545,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 2.686,
+      "prior_variance": 0.210178,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 1.8215,
+      "prior_variance": 0.184756,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 3.2089,
+      "prior_variance": 0.267492,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Hotsprings",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": -0.3379,
+      "prior_variance": 0.253295,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.389,
+      "prior_variance": 0.230015,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": 0.3552,
+      "prior_variance": 0.26074,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sauerland",
+      "path": "europe/germany/northrhinewestphalia/sauerland",
+      "prior_score": -0.385,
+      "prior_variance": 0.296871,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -2.9326,
+      "prior_variance": 0.240522,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lilongwe",
+      "path": "africa/malawi/lilongwe",
+      "prior_score": -3.8828,
+      "prior_variance": 0.273723,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": 2.4365,
+      "prior_variance": 0.315873,
+      "prior_n": 5
+    }
+  ]
+}

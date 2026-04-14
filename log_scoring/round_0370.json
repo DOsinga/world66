@@ -1,0 +1,200 @@
+{
+  "round": 370,
+  "timestamp": "2026-04-12T09:13:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_mu": 23.0348,
+      "prior_sigma": 5.7176,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_mu": 23.462,
+      "prior_sigma": 5.0273,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_mu": 22.3854,
+      "prior_sigma": 2.8863,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_mu": 22.4332,
+      "prior_sigma": 4.5727,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_mu": 22.1136,
+      "prior_sigma": 5.756,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_mu": 22.9772,
+      "prior_sigma": 5.6088,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/eastland/gisborne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Forster",
+      "path": "australiaandpacific/australia/newsouthwales/forster",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Christina Lake",
+      "path": "northamerica/canada/britishcolumbia/christinalake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "jijel, algeria",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Felton",
+      "path": "northamerica/unitedstates/california/centralcoast/felton",
+      "prior_mu": 21.5388,
+      "prior_sigma": 4.5391,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Mulheim",
+      "path": "europe/germany/brandenburg/mulheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_mu": 21.5591,
+      "prior_sigma": 5.9244,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_mu": 22.1819,
+      "prior_sigma": 5.7567,
+      "prior_n": 1
+    }
+  ]
+}

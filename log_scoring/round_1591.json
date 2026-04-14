@@ -1,0 +1,200 @@
+{
+  "round": 1591,
+  "timestamp": "2026-04-13T10:34:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kailua",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 6.4296,
+      "prior_variance": 0.371353,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 6.7867,
+      "prior_variance": 0.480407,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 5.2571,
+      "prior_variance": 0.447713,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Oranjestad",
+      "path": "northamerica/aruba/oranjestad",
+      "prior_score": 5.8103,
+      "prior_variance": 0.566088,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 6.6242,
+      "prior_variance": 0.480067,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 5.4623,
+      "prior_variance": 0.366978,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 4.8805,
+      "prior_variance": 0.37521,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 4.8742,
+      "prior_variance": 0.441369,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tarragona",
+      "path": "europe/spain/catalonia/tarragona",
+      "prior_score": 6.3008,
+      "prior_variance": 0.348629,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 7.1149,
+      "prior_variance": 0.589239,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 5.9228,
+      "prior_variance": 0.419099,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 5.7001,
+      "prior_variance": 0.332223,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 5.2928,
+      "prior_variance": 0.379211,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Uzbekistan",
+      "path": "asia/uzbekistan",
+      "prior_score": 1.851,
+      "prior_variance": 0.42253,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lesbos",
+      "path": "europe/greece/lesbos",
+      "prior_score": 5.1984,
+      "prior_variance": 0.33913,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 5.5145,
+      "prior_variance": 0.413329,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 3.8003,
+      "prior_variance": 0.323998,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.3308,
+      "prior_variance": 0.489239,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 3.2509,
+      "prior_variance": 0.41113,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": 0.3301,
+      "prior_variance": 0.445916,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Landsberg",
+      "path": "europe/germany/bavaria/landsberg",
+      "prior_score": -0.7454,
+      "prior_variance": 0.310727,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.6989,
+      "prior_variance": 0.399265,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "caranzalem",
+      "path": "asia/india/goa/caranzalem",
+      "prior_score": -0.5083,
+      "prior_variance": 0.369002,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_score": -0.4917,
+      "prior_variance": 0.348518,
+      "prior_n": 4
+    }
+  ]
+}

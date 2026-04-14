@@ -1,0 +1,200 @@
+{
+  "round": 846,
+  "timestamp": "2026-04-12T14:44:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 7.9266,
+      "prior_variance": 1.482016,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Zadar",
+      "path": "europe/croatia/zadar",
+      "prior_score": 12.1802,
+      "prior_variance": 3.590988,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 6.6299,
+      "prior_variance": 1.718939,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 4.9898,
+      "prior_variance": 1.761627,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Maine",
+      "path": "northamerica/unitedstates/maine",
+      "prior_score": 3.5086,
+      "prior_variance": 2.416365,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Block Island",
+      "path": "northamerica/unitedstates/rhodeisland/block_island",
+      "prior_score": 4.8822,
+      "prior_variance": 2.582678,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Disko Bay",
+      "path": "northamerica/greenland/diskobay",
+      "prior_score": 4.6397,
+      "prior_variance": 5.903596,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Saxony",
+      "path": "europe/germany/saxony",
+      "prior_score": 5.5755,
+      "prior_variance": 1.492544,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 2.1219,
+      "prior_variance": 1.095517,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 2.4182,
+      "prior_variance": 1.542576,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": -0.78,
+      "prior_variance": 1.385265,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 2.2786,
+      "prior_variance": 1.456343,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.8935,
+      "prior_variance": 1.223513,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 3.3279,
+      "prior_variance": 0.948804,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 1.0258,
+      "prior_variance": 1.428947,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol/legazpi_city",
+      "prior_score": 5.5057,
+      "prior_variance": 2.329635,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_score": -0.1387,
+      "prior_variance": 1.234029,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -2.7639,
+      "prior_variance": 1.443754,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -6.1542,
+      "prior_variance": 14.60516,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_score": 0.8375,
+      "prior_variance": 1.36603,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_score": -4.355,
+      "prior_variance": 1.289279,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -5.7636,
+      "prior_variance": 0.940199,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -0.8284,
+      "prior_variance": 1.406834,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Russia",
+      "path": "europe/russia",
+      "prior_score": -9.3661,
+      "prior_variance": 1.709329,
+      "prior_n": 1
+    }
+  ]
+}

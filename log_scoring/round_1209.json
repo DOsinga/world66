@@ -1,0 +1,200 @@
+{
+  "round": 1209,
+  "timestamp": "2026-04-12T22:15:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_rank": 318,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_rank": 633,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_rank": 1056,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_rank": 147,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_rank": 1520,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_rank": 1857,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Monterosso",
+      "path": "europe/italy/liguria/thecinqueterre/monterosso",
+      "prior_rank": 179,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_rank": 603,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_rank": 745,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_rank": 446,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_rank": 43,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_m",
+      "prior_rank": 465,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_rank": 255,
+      "prior_wins": 83,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_rank": 747,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_rank": 960,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_rank": 2353,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Arles",
+      "path": "europe/france/midi/provence/arles",
+      "prior_rank": 224,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_rank": 1313,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sardinia",
+      "path": "europe/italy/sardinia",
+      "prior_rank": 444,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Goa",
+      "path": "asia/india/goa",
+      "prior_rank": 2015,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Denali Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_rank": 647,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tarragona",
+      "path": "europe/spain/catalonia/tarragona",
+      "prior_rank": 1289,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_rank": 1859,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lake District",
+      "path": "europe/unitedkingdom/england/lakedistrict",
+      "prior_rank": 371,
+      "prior_wins": 61,
+      "prior_n": 3
+    }
+  ]
+}

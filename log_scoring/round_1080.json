@@ -1,0 +1,200 @@
+{
+  "round": 1080,
+  "timestamp": "2026-04-12T22:08:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_rank": 1746,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sumatra",
+      "path": "asia/indonesia/sumatra",
+      "prior_rank": 3820,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_rank": 3635,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_rank": 2161,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_rank": 4046,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mount Dora",
+      "path": "northamerica/unitedstates/florida/mount_dora",
+      "prior_rank": 4925,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_rank": 4271,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_rank": 5582,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_rank": 3411,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_rank": 4250,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_rank": 4899,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_rank": 5166,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_rank": 4232,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_rank": 4483,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_rank": 4499,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_rank": 5386,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_rank": 5353,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_rank": 4181,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zurzach",
+      "path": "europe/switzerland/zurzach",
+      "prior_rank": 6828,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_rank": 5763,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Gjakova",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/gjakova",
+      "prior_rank": 5656,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_rank": 6275,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_rank": 5336,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_rank": 6133,
+      "prior_wins": 9,
+      "prior_n": 2
+    }
+  ]
+}

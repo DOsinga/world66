@@ -1,0 +1,200 @@
+{
+  "round": 2283,
+  "timestamp": "2026-04-13T16:27:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 8.7984,
+      "prior_variance": 0.524997,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.1671,
+      "prior_variance": 0.26578,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 0.2,
+      "prior_variance": 0.265583,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": 1.6708,
+      "prior_variance": 0.240901,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Uttar Pradesh",
+      "path": "asia/india/uttarpradesh",
+      "prior_score": -2.9338,
+      "prior_variance": 0.31508,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Shandong Province",
+      "path": "asia/china/shandong_province",
+      "prior_score": -0.7961,
+      "prior_variance": 0.252874,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 2.1594,
+      "prior_variance": 0.260302,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -2.1209,
+      "prior_variance": 0.270518,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/crewkerne",
+      "prior_score": -1.9986,
+      "prior_variance": 0.286706,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -2.4168,
+      "prior_variance": 0.211634,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -4.1418,
+      "prior_variance": 0.269641,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_score": -2.7672,
+      "prior_variance": 0.174094,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -3.7031,
+      "prior_variance": 0.225586,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -4.1478,
+      "prior_variance": 0.220554,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -3.1782,
+      "prior_variance": 0.252537,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": -3.0768,
+      "prior_variance": 0.334149,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_score": -6.733,
+      "prior_variance": 0.289847,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.4472,
+      "prior_variance": 0.207722,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -4.8639,
+      "prior_variance": 0.32096,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Fountain Valley",
+      "path": "northamerica/unitedstates/california/orangecounty/fountainvalley",
+      "prior_score": -5.6239,
+      "prior_variance": 0.30657,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -3.8465,
+      "prior_variance": 0.298175,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -4.8261,
+      "prior_variance": 0.267168,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -4.0456,
+      "prior_variance": 0.293774,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -7.6608,
+      "prior_variance": 0.419555,
+      "prior_n": 7
+    }
+  ]
+}

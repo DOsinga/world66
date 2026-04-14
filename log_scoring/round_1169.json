@@ -1,0 +1,200 @@
+{
+  "round": 1169,
+  "timestamp": "2026-04-12T22:13:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kharipati, Nagarkot Phedi",
+      "path": "asia/nepal/dhulikel/kharipati_nagarko",
+      "prior_rank": 3835,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Long Island",
+      "path": "northamerica/unitedstates/newyorkstate/long_island",
+      "prior_rank": 1797,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_rank": 3590,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Punjab",
+      "path": "asia/india/punjab",
+      "prior_rank": 4303,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Leeds, Sheffield and Yorkshire",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a",
+      "prior_rank": 3304,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_rank": 2195,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_rank": 3841,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_rank": 4037,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Panama",
+      "path": "northamerica/panama",
+      "prior_rank": 4586,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_rank": 1752,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_rank": 5222,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_notting/leicester",
+      "prior_rank": 4180,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_rank": 4102,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_rank": 5904,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_rank": 6398,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Masirah Island",
+      "path": "asia/oman/masirahisland",
+      "prior_rank": 5214,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_rank": 5281,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_rank": 3447,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st",
+      "prior_rank": 4012,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_rank": 4064,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_rank": 3526,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_rank": 6164,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_rank": 4361,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_rank": 3600,
+      "prior_wins": 25,
+      "prior_n": 2
+    }
+  ]
+}

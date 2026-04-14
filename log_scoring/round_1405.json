@@ -1,0 +1,200 @@
+{
+  "round": 1405,
+  "timestamp": "2026-04-12T22:25:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nauru",
+      "path": "australiaandpacific/nauru",
+      "prior_rank": 7603,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_rank": 7440,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_rank": 7668,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_rank": 7843,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Niger",
+      "path": "africa/niger",
+      "prior_rank": 7967,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_rank": 7913,
+      "prior_wins": 19,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_rank": 7120,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Arva",
+      "path": "europe/ireland/arva",
+      "prior_rank": 7860,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_rank": 7399,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_rank": 8070,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_rank": 7762,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Torreon",
+      "path": "northamerica/mexico/yucatan/torreon",
+      "prior_rank": 7601,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_rank": 6230,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "amalner",
+      "path": "asia/india/maharashtra/mumbai/amalner",
+      "prior_rank": 7873,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_rank": 7946,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_rank": 7715,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Fairfield",
+      "path": "northamerica/unitedstates/newjersey/fairfield",
+      "prior_rank": 6840,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Winchendon",
+      "path": "northamerica/unitedstates/massachusetts/winchendon",
+      "prior_rank": 6380,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Caruthersville",
+      "path": "northamerica/unitedstates/missouri/caruthersville",
+      "prior_rank": 8085,
+      "prior_wins": 9,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_rank": 7939,
+      "prior_wins": 12,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_rank": 8102,
+      "prior_wins": 11,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Davenport",
+      "path": "northamerica/unitedstates/indiana/davenport",
+      "prior_rank": 4396,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
+      "prior_rank": 7993,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "South Ural",
+      "path": "europe/russia/ural/south_ural",
+      "prior_rank": 8068,
+      "prior_wins": 7,
+      "prior_n": 3
+    }
+  ]
+}

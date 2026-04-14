@@ -1,0 +1,200 @@
+{
+  "round": 1468,
+  "timestamp": "2026-04-12T22:29:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tuxtepec",
+      "path": "northamerica/mexico/tuxtepec",
+      "prior_rank": 5462,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_rank": 6625,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_rank": 8073,
+      "prior_wins": 12,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_rank": 7600,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_rank": 8155,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_rank": 7222,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Banking",
+      "path": "northamerica/costarica/travelinformation/banking",
+      "prior_rank": 8032,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_rank": 6579,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_rank": 6914,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "lahore",
+      "path": "asia/pakistan/abbottabad/lahore",
+      "prior_rank": 6913,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_rank": 8028,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Nkoranza - Brong Ahafo",
+      "path": "africa/ghana/nkoranza__brong_a",
+      "prior_rank": 6901,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Webuye",
+      "path": "africa/kenya/westernkenya/webuye",
+      "prior_rank": 7539,
+      "prior_wins": 19,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Giridih",
+      "path": "asia/india/jharkhand/giridih",
+      "prior_rank": 7692,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_rank": 8125,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_rank": 7459,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_rank": 7719,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Laurel",
+      "path": "northamerica/unitedstates/mississippi/laurel",
+      "prior_rank": 7577,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_rank": 7597,
+      "prior_wins": 21,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/bearwood",
+      "prior_rank": 7608,
+      "prior_wins": 27,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Cranford",
+      "path": "northamerica/unitedstates/newjersey/cranford",
+      "prior_rank": 6622,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_rank": 7878,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "LaGrange",
+      "path": "northamerica/unitedstates/indiana/lagrange",
+      "prior_rank": 7394,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Pickerington",
+      "path": "northamerica/unitedstates/ohio/pickerington",
+      "prior_rank": 7904,
+      "prior_wins": 10,
+      "prior_n": 3
+    }
+  ]
+}

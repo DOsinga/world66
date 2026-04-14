@@ -1,0 +1,200 @@
+{
+  "round": 2195,
+  "timestamp": "2026-04-13T16:19:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.7061,
+      "prior_variance": 0.264393,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.8879,
+      "prior_variance": 0.203338,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -0.5789,
+      "prior_variance": 0.210829,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.3184,
+      "prior_variance": 0.231076,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_score": -3.7542,
+      "prior_variance": 0.232651,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -3.9956,
+      "prior_variance": 0.284803,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
+      "prior_score": -5.5963,
+      "prior_variance": 0.262218,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -2.0582,
+      "prior_variance": 0.278465,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kutina",
+      "path": "europe/croatia/kutina",
+      "prior_score": -3.7621,
+      "prior_variance": 0.222437,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -3.3732,
+      "prior_variance": 0.26124,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -3.6259,
+      "prior_variance": 0.274319,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cauayan",
+      "path": "asia/philippines/cauayan",
+      "prior_score": -4.869,
+      "prior_variance": 0.341593,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_score": -6.1465,
+      "prior_variance": 0.29175,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.2488,
+      "prior_variance": 0.228582,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -5.3049,
+      "prior_variance": 0.274846,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -5.1679,
+      "prior_variance": 0.27156,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -7.2469,
+      "prior_variance": 0.335216,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -7.8135,
+      "prior_variance": 0.540314,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southcarolina/aberdeen",
+      "prior_score": -6.3274,
+      "prior_variance": 0.313634,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "valley falls",
+      "path": "northamerica/unitedstates/kansas/valley_falls",
+      "prior_score": -5.8799,
+      "prior_variance": 0.257202,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -6.858,
+      "prior_variance": 0.333573,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.8808,
+      "prior_variance": 0.35883,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_score": -7.416,
+      "prior_variance": 0.350175,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_score": -8.3289,
+      "prior_variance": 0.510915,
+      "prior_n": 5
+    }
+  ]
+}

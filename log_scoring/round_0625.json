@@ -1,0 +1,200 @@
+{
+  "round": 625,
+  "timestamp": "2026-04-12T10:40:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
+      "prior_mu": 22.5882,
+      "prior_sigma": 5.9094,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
+      "prior_mu": 22.5346,
+      "prior_sigma": 5.2722,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/swanage",
+      "prior_mu": 21.4056,
+      "prior_sigma": 3.6623,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_mu": 21.8759,
+      "prior_sigma": 4.5312,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_mu": 22.4717,
+      "prior_sigma": 5.4211,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_mu": 22.5729,
+      "prior_sigma": 5.4972,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/warwick",
+      "prior_mu": 21.4663,
+      "prior_sigma": 4.5791,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_mu": 23.3166,
+      "prior_sigma": 5.5228,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_mu": 21.293,
+      "prior_sigma": 3.794,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/exeter",
+      "prior_mu": 21.8678,
+      "prior_sigma": 4.3773,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devizes",
+      "prior_mu": 21.2647,
+      "prior_sigma": 3.5063,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
+      "prior_mu": 21.8164,
+      "prior_sigma": 4.3435,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_mu": 22.1197,
+      "prior_sigma": 4.8298,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
+      "prior_mu": 21.9255,
+      "prior_sigma": 4.5673,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/peterborough",
+      "prior_mu": 22.0059,
+      "prior_sigma": 5.4208,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/bradford",
+      "prior_mu": 22.2227,
+      "prior_sigma": 5.7345,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/bolton",
+      "prior_mu": 21.5659,
+      "prior_sigma": 3.8021,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/sunderland",
+      "prior_mu": 22.097,
+      "prior_sigma": 5.2998,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
+      "prior_mu": 21.699,
+      "prior_sigma": 4.735,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "England",
+      "path": "europe/unitedkingdom/england",
+      "prior_mu": 22.4782,
+      "prior_sigma": 5.8829,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_mu": 22.7215,
+      "prior_sigma": 5.9301,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
+      "prior_mu": 21.9255,
+      "prior_sigma": 4.6084,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/bearwood",
+      "prior_mu": 21.8894,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    }
+  ]
+}

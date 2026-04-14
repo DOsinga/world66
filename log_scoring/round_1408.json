@@ -1,0 +1,200 @@
+{
+  "round": 1408,
+  "timestamp": "2026-04-12T22:26:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuba",
+      "path": "northamerica/cuba",
+      "prior_rank": 1576,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "The Coast",
+      "path": "africa/kenya/thecoast",
+      "prior_rank": 4398,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_rank": 2556,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Suriname",
+      "path": "southamerica/suriname",
+      "prior_rank": 3733,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_rank": 5125,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_rank": 1596,
+      "prior_wins": 130,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_rank": 2745,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_rank": 2581,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Torrevieja",
+      "path": "europe/spain/spanishcostas/torrevieja",
+      "prior_rank": 4372,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_rank": 5640,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Elie Fife",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_rank": 4332,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "O Ribeiro",
+      "path": "europe/spain/galicia/o_ribeiro",
+      "prior_rank": 5636,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_rank": 6011,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_rank": 3623,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_rank": 3076,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_rank": 5228,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_rank": 2574,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_rank": 5773,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_rank": 5404,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_rank": 3278,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_rank": 2037,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mito",
+      "path": "asia/japan/mito",
+      "prior_rank": 2360,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_rank": 5073,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_rank": 2583,
+      "prior_wins": 43,
+      "prior_n": 3
+    }
+  ]
+}

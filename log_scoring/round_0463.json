@@ -1,0 +1,200 @@
+{
+  "round": 463,
+  "timestamp": "2026-04-12T09:31:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Menorca",
+      "path": "europe/spain/balearicislands/menorca",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lanzarote",
+      "path": "europe/spain/canaryislands/lanzarote",
+      "prior_mu": 27.2553,
+      "prior_sigma": 3.9215,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_mu": 22.9327,
+      "prior_sigma": 5.409,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "LLanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_mu": 21.9329,
+      "prior_sigma": 4.8368,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Comillas",
+      "path": "europe/spain/northernspain/comillas",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_mu": 22.4681,
+      "prior_sigma": 5.5707,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Santa Ponsa",
+      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
+      "prior_mu": 22.5542,
+      "prior_sigma": 5.8182,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_mu": 21.8297,
+      "prior_sigma": 4.6643,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Lloret de Mar",
+      "path": "europe/spain/lloret_de_mar",
+      "prior_mu": 22.7924,
+      "prior_sigma": 5.9584,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_mu": 22.0937,
+      "prior_sigma": 4.7041,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_mu": 22.3209,
+      "prior_sigma": 5.5423,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Spanish Costas",
+      "path": "europe/spain/spanishcostas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_mu": 22.5542,
+      "prior_sigma": 5.9265,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceitu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/catalonia/sant_andreu_de_lla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_mu": 22.9002,
+      "prior_sigma": 5.7255,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Real",
+      "path": "europe/spain/la_mancha/ciudad_real",
+      "prior_mu": 21.9542,
+      "prior_sigma": 5.7236,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Roqetas de mar",
+      "path": "europe/spain/andalucia/roqetasdemar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

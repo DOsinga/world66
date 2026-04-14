@@ -1,0 +1,200 @@
+{
+  "round": 1510,
+  "timestamp": "2026-04-13T10:27:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "ryder",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/ryder",
+      "prior_score": -0.1052,
+      "prior_variance": 0.61469,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kalambo falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -1.0279,
+      "prior_variance": 0.3825,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": -1.3524,
+      "prior_variance": 0.412535,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Rakitnica Canyon",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
+      "prior_score": -0.145,
+      "prior_variance": 0.39538,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Shanxi Province",
+      "path": "asia/china/shanxiprovince",
+      "prior_score": 0.1047,
+      "prior_variance": 0.42999,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
+      "prior_score": -0.1879,
+      "prior_variance": 0.464181,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 0.298,
+      "prior_variance": 0.170918,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.5352,
+      "prior_variance": 0.329697,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nieuwpoort",
+      "path": "europe/belgium/nieuwpoort",
+      "prior_score": -0.7038,
+      "prior_variance": 0.215338,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_score": -1.6074,
+      "prior_variance": 0.318129,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Suffolk",
+      "path": "europe/unitedkingdom/suffolk",
+      "prior_score": 0.0319,
+      "prior_variance": 0.39892,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devizes",
+      "prior_score": -0.1371,
+      "prior_variance": 0.306393,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": 0.0687,
+      "prior_variance": 0.435282,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": 0.5693,
+      "prior_variance": 0.425566,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.5248,
+      "prior_variance": 0.542053,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Laguna",
+      "path": "asia/philippines/laguna",
+      "prior_score": -0.7164,
+      "prior_variance": 0.33763,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mindanao island",
+      "path": "asia/philippines/mindanaoisland",
+      "prior_score": -1.4169,
+      "prior_variance": 0.484157,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.5436,
+      "prior_variance": 0.3276,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -1.0567,
+      "prior_variance": 0.4,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -1.6026,
+      "prior_variance": 0.3161,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -0.8035,
+      "prior_variance": 0.423628,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -0.8488,
+      "prior_variance": 0.324678,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -3.2729,
+      "prior_variance": 0.484492,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": -1.0113,
+      "prior_variance": 0.468384,
+      "prior_n": 3
+    }
+  ]
+}

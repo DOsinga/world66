@@ -1,0 +1,200 @@
+{
+  "round": 1729,
+  "timestamp": "2026-04-13T10:46:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 4.3925,
+      "prior_variance": 0.315988,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dominica",
+      "path": "northamerica/dominica",
+      "prior_score": 5.9361,
+      "prior_variance": 0.42246,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.8099,
+      "prior_variance": 0.304336,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Uttaranchal",
+      "path": "asia/india/uttaranchal",
+      "prior_score": 3.2695,
+      "prior_variance": 0.413459,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 2.4924,
+      "prior_variance": 0.361931,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": 0.396,
+      "prior_variance": 0.29001,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_score": 0.3651,
+      "prior_variance": 0.352734,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_score": -1.4165,
+      "prior_variance": 0.299876,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
+      "prior_score": 0.5699,
+      "prior_variance": 0.341712,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -3.957,
+      "prior_variance": 0.274486,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Nebel, Amrum",
+      "path": "europe/germany/schleswigholstein/nebel_amrum",
+      "prior_score": -0.7149,
+      "prior_variance": 0.34194,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -1.235,
+      "prior_variance": 0.353751,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -0.6955,
+      "prior_variance": 0.311891,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Quezon Province",
+      "path": "asia/philippines/quezonprovince",
+      "prior_score": -2.66,
+      "prior_variance": 0.421799,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -1.5146,
+      "prior_variance": 0.447756,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -2.1194,
+      "prior_variance": 0.294201,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -2.0887,
+      "prior_variance": 0.295213,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -3.039,
+      "prior_variance": 0.207213,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_score": -3.9642,
+      "prior_variance": 0.453114,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -6.5967,
+      "prior_variance": 0.459146,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -2.2225,
+      "prior_variance": 0.371497,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kosovo",
+      "path": "europe/serbiaandmontenegro/kosovoprovince",
+      "prior_score": -1.7731,
+      "prior_variance": 0.480478,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Somaliland",
+      "path": "africa/somaliland",
+      "prior_score": -13.1685,
+      "prior_variance": 0.560887,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_score": -9.7729,
+      "prior_variance": 0.448631,
+      "prior_n": 4
+    }
+  ]
+}

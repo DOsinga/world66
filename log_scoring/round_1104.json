@@ -1,0 +1,200 @@
+{
+  "round": 1104,
+  "timestamp": "2026-04-12T22:09:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_rank": 6534,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Manzanares",
+      "path": "europe/spain/la_mancha/manzanares",
+      "prior_rank": 7601,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ballincollig",
+      "path": "europe/ireland/cork/ballincollig",
+      "prior_rank": 6879,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_rank": 3009,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hampton",
+      "path": "northamerica/unitedstates/virginia/hampton",
+      "prior_rank": 5285,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/sandiego/chulavista",
+      "prior_rank": 5851,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "North Bend",
+      "path": "northamerica/unitedstates/oregon/north_bend",
+      "prior_rank": 5617,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_rank": 7182,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_rank": 6505,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bonita",
+      "path": "northamerica/unitedstates/california/sandiego/bonita",
+      "prior_rank": 5846,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Poughkeepsie",
+      "path": "northamerica/unitedstates/newyorkstate/poughkeepsie",
+      "prior_rank": 4340,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/vallejo",
+      "prior_rank": 7137,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_rank": 4326,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/sunderland",
+      "prior_rank": 6444,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_rank": 7259,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/keighley",
+      "prior_rank": 7251,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_rank": 7108,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Armavir Marz",
+      "path": "europe/armenia/armavir_marz",
+      "prior_rank": 6743,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_rank": 6719,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Misamis Occidental",
+      "path": "asia/philippines/misamis_occidental",
+      "prior_rank": 7225,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_rank": 4654,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_rank": 6389,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_rank": 4387,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_rank": 7930,
+      "prior_wins": 4,
+      "prior_n": 2
+    }
+  ]
+}

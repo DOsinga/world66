@@ -1,0 +1,200 @@
+{
+  "round": 778,
+  "timestamp": "2026-04-12T10:47:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/otago/queenstown",
+      "prior_mu": 24.3227,
+      "prior_sigma": 5.7675,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_mu": 23.9507,
+      "prior_sigma": 5.7349,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_mu": 21.9231,
+      "prior_sigma": 4.7076,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Arran",
+      "path": "europe/unitedkingdom/scotland/arran",
+      "prior_mu": 21.414,
+      "prior_sigma": 3.0962,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_mu": 22.7149,
+      "prior_sigma": 5.9547,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Vietnam",
+      "path": "asia/vietnam",
+      "prior_mu": 23.1206,
+      "prior_sigma": 5.8058,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Camuy caves",
+      "path": "northamerica/puertorico/camuycaves",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_mu": 22.8434,
+      "prior_sigma": 5.5559,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/auckland_region/devonport",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_mu": 21.4804,
+      "prior_sigma": 4.0824,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_mu": 22.3366,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Manchester, Liverpool and North West",
+      "path": "europe/unitedkingdom/england/manchester_liverp",
+      "prior_mu": 23.0141,
+      "prior_sigma": 4.603,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Limerick",
+      "path": "europe/ireland/limerick",
+      "prior_mu": 22.4305,
+      "prior_sigma": 4.4766,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/huddersfield",
+      "prior_mu": 22.6458,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_mu": 21.533,
+      "prior_sigma": 4.4738,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_mu": 21.5661,
+      "prior_sigma": 4.4299,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mindanao island",
+      "path": "asia/philippines/mindanaoisland",
+      "prior_mu": 22.2721,
+      "prior_sigma": 5.5288,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Nebraska",
+      "path": "northamerica/unitedstates/nebraska",
+      "prior_mu": 22.0058,
+      "prior_sigma": 5.8877,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mandarmani",
+      "path": "asia/india/westbengal/mandarmani",
+      "prior_mu": 21.3042,
+      "prior_sigma": 3.8311,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_mu": 22.6447,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jebel Akhdar",
+      "path": "africa/libya/jebelakhdar",
+      "prior_mu": 22.609,
+      "prior_sigma": 5.7228,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pentagon City",
+      "path": "northamerica/unitedstates/virginia/arlington/pentagoncity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "gh",
+      "path": "asia/pakistan/gujrat/gh",
+      "prior_mu": 18.0288,
+      "prior_sigma": 6.7621,
+      "prior_n": 1
+    }
+  ]
+}

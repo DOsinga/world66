@@ -1,0 +1,200 @@
+{
+  "round": 1234,
+  "timestamp": "2026-04-12T22:16:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/keighley",
+      "prior_rank": 6432,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swindon",
+      "prior_rank": 5780,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_rank": 7124,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_rank": 6387,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pe",
+      "prior_rank": 4915,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_rank": 5273,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Jhansi",
+      "path": "asia/india/uttarpradesh/jhansi",
+      "prior_rank": 5650,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_rank": 4041,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_rank": 6794,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Xikou",
+      "path": "asia/china/xikou",
+      "prior_rank": 7262,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_rank": 7304,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Curepe",
+      "path": "northamerica/trinidadandtobago/curepe",
+      "prior_rank": 6650,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_rank": 3842,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_rank": 7458,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/yucatan/tijuana",
+      "prior_rank": 7769,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_rank": 4206,
+      "prior_wins": 39,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_rank": 7076,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_rank": 7408,
+      "prior_wins": 21,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ballangen",
+      "path": "europe/norway/ballangen",
+      "prior_rank": 6452,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_rank": 8037,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_rank": 6624,
+      "prior_wins": 31,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_rank": 7454,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_rank": 6898,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_rank": 6879,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

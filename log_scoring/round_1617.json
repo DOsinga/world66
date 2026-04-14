@@ -1,0 +1,200 @@
+{
+  "round": 1617,
+  "timestamp": "2026-04-13T10:36:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 6.2872,
+      "prior_variance": 0.435536,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 2.8608,
+      "prior_variance": 0.329432,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 2.067,
+      "prior_variance": 0.445908,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 2.4366,
+      "prior_variance": 0.32805,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Helsingor",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 3.6697,
+      "prior_variance": 0.398665,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/catalonia/sant_andreu_de_lla",
+      "prior_score": -1.4325,
+      "prior_variance": 0.322711,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -0.0174,
+      "prior_variance": 0.37899,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -3.9523,
+      "prior_variance": 0.381002,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -0.084,
+      "prior_variance": 0.306485,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucu",
+      "prior_score": -0.0505,
+      "prior_variance": 0.318297,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -3.847,
+      "prior_variance": 0.256944,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -4.9366,
+      "prior_variance": 0.422133,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -4.5278,
+      "prior_variance": 0.40342,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -4.025,
+      "prior_variance": 0.3782,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -4.7802,
+      "prior_variance": 0.423953,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -3.5792,
+      "prior_variance": 0.501885,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.294,
+      "prior_variance": 0.404936,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -5.1888,
+      "prior_variance": 0.315642,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/goole",
+      "prior_score": -4.8414,
+      "prior_variance": 0.341856,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Schoenaich",
+      "path": "europe/germany/badenwrttemberg/schoenaich",
+      "prior_score": -6.2602,
+      "prior_variance": 0.493234,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -5.0269,
+      "prior_variance": 0.317156,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -5.9251,
+      "prior_variance": 0.615288,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -4.942,
+      "prior_variance": 0.501438,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.9626,
+      "prior_variance": 0.479586,
+      "prior_n": 4
+    }
+  ]
+}

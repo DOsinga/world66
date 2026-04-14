@@ -1,0 +1,200 @@
+{
+  "round": 1824,
+  "timestamp": "2026-04-13T10:54:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bermuda",
+      "path": "northamerica/bermuda",
+      "prior_score": 7.0177,
+      "prior_variance": 0.338704,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 8.2247,
+      "prior_variance": 0.504511,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_score": 7.4951,
+      "prior_variance": 0.424207,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Trogirska Riviera",
+      "path": "europe/croatia/trogirska_riviera",
+      "prior_score": 4.745,
+      "prior_variance": 0.319796,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 7.5817,
+      "prior_variance": 0.549476,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 5.8538,
+      "prior_variance": 0.440403,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.5846,
+      "prior_variance": 0.268987,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 2.813,
+      "prior_variance": 0.280683,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 6.892,
+      "prior_variance": 0.300126,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Carnac",
+      "path": "europe/france/aquitaine/carnac",
+      "prior_score": 3.6039,
+      "prior_variance": 0.372835,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.2497,
+      "prior_variance": 0.380088,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 3.6183,
+      "prior_variance": 0.386721,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 0.1343,
+      "prior_variance": 0.194854,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Mindoro Island",
+      "path": "asia/philippines/mindoroisland",
+      "prior_score": 1.2483,
+      "prior_variance": 0.408403,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.5767,
+      "prior_variance": 0.343326,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.321,
+      "prior_variance": 0.313985,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lengwe National Park",
+      "path": "africa/malawi/lengwe_national_pa",
+      "prior_score": -1.1198,
+      "prior_variance": 0.414087,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.0863,
+      "prior_variance": 0.321198,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -0.9631,
+      "prior_variance": 0.354107,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -0.7326,
+      "prior_variance": 0.254694,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/yucatan/tehuacan",
+      "prior_score": -3.8686,
+      "prior_variance": 0.324443,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -3.7821,
+      "prior_variance": 0.296433,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/massachusetts/burlington",
+      "prior_score": -4.4523,
+      "prior_variance": 0.340985,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -5.3238,
+      "prior_variance": 0.451219,
+      "prior_n": 4
+    }
+  ]
+}

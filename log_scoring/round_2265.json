@@ -1,0 +1,200 @@
+{
+  "round": 2265,
+  "timestamp": "2026-04-13T16:26:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 13.6358,
+      "prior_variance": 0.837917,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "ryder",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef/ryder",
+      "prior_score": -1.5436,
+      "prior_variance": 0.607328,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/canterbury",
+      "prior_score": 7.2071,
+      "prior_variance": 0.305168,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Islands",
+      "path": "asia/singapore/islands",
+      "prior_score": 0.7181,
+      "prior_variance": 0.755094,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 2.8526,
+      "prior_variance": 0.215165,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_score": 2.5926,
+      "prior_variance": 0.200436,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 2.8217,
+      "prior_variance": 0.216012,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tysfjord",
+      "path": "europe/norway/tysfjord",
+      "prior_score": 1.8495,
+      "prior_variance": 0.223315,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bambolim",
+      "path": "asia/india/goa/bambolim",
+      "prior_score": -0.3615,
+      "prior_variance": 0.271946,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -1.1859,
+      "prior_variance": 0.265563,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 1.5941,
+      "prior_variance": 0.250046,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_score": -0.9669,
+      "prior_variance": 0.269016,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Massachusetts",
+      "path": "northamerica/unitedstates/massachusetts",
+      "prior_score": 0.6008,
+      "prior_variance": 0.345055,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_score": -0.9415,
+      "prior_variance": 0.222752,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley",
+      "prior_score": -3.097,
+      "prior_variance": 0.227334,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "The Coast",
+      "path": "northamerica/unitedstates/newhampshire/thecoast",
+      "prior_score": -0.1185,
+      "prior_variance": 0.242281,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.0875,
+      "prior_variance": 0.27031,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -1.7531,
+      "prior_variance": 0.184187,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -3.2132,
+      "prior_variance": 0.306128,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.921,
+      "prior_variance": 0.233649,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -1.8927,
+      "prior_variance": 0.250903,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -5.6855,
+      "prior_variance": 0.323388,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -5.924,
+      "prior_variance": 0.248662,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "kana mohri",
+      "path": "asia/pakistan/azad_kashmir/bagh/kana_mohri_1",
+      "prior_score": -10.0998,
+      "prior_variance": 0.578419,
+      "prior_n": 5
+    }
+  ]
+}

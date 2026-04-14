@@ -1,0 +1,200 @@
+{
+  "round": 946,
+  "timestamp": "2026-04-12T16:08:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_rank": 19,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Maldives",
+      "path": "asia/maldives",
+      "prior_rank": 12,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_rank": 31,
+      "prior_wins": 92,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tuscany",
+      "path": "europe/italy/tuscany",
+      "prior_rank": 38,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_rank": 2,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Thailand",
+      "path": "asia/thailand",
+      "prior_rank": 17,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_rank": 23,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_rank": 32,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/montana/yellowstone",
+      "prior_rank": 58,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_rank": 59,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Roatan",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_rank": 52,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_rank": 2059,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ciechanow",
+      "path": "europe/poland/ciechanow",
+      "prior_rank": 8124,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Abbotsford",
+      "path": "northamerica/unitedstates/wisconsin/abbotsford",
+      "prior_rank": 8085,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kaltinec",
+      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
+      "prior_rank": 8186,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_rank": 8182,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_rank": 8208,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Somalia",
+      "path": "africa/somalia",
+      "prior_rank": 8073,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba_1",
+      "prior_rank": 8072,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "MANA AHMEDANI",
+      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
+      "prior_rank": 8213,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "CHANDAN N BHANDARI",
+      "path": "asia/india/uttaranchal/chandan_n_bhandari",
+      "prior_rank": 8165,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tcby",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
+      "prior_rank": 8133,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "BbCMQeVjeZFcG",
+      "path": "europe/finland/kotka/bbcmqevjezfcg",
+      "prior_rank": 8215,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "PesTeCPvzsxDFv",
+      "path": "asia/oman/musandampeninsula/pestecpvzsxdfv",
+      "prior_rank": 8104,
+      "prior_wins": 0,
+      "prior_n": 2
+    }
+  ]
+}

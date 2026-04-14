@@ -1,0 +1,200 @@
+{
+  "round": 729,
+  "timestamp": "2026-04-12T10:45:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Havana",
+      "path": "northamerica/cuba/havana",
+      "prior_mu": 29.2534,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_mu": 30.1001,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_mu": 27.7402,
+      "prior_sigma": 5.7191,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_mu": 22.9964,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_mu": 22.5657,
+      "prior_sigma": 2.0622,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_mu": 22.1896,
+      "prior_sigma": 4.2035,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_mu": 23.2384,
+      "prior_sigma": 5.4184,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_mu": 21.4882,
+      "prior_sigma": 3.9121,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/skipton",
+      "prior_mu": 21.6582,
+      "prior_sigma": 4.0303,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cat island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Pensacola",
+      "path": "northamerica/unitedstates/florida/pensacola",
+      "prior_mu": 22.8143,
+      "prior_sigma": 5.9467,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_notting/lincoln",
+      "prior_mu": 21.5315,
+      "prior_sigma": 4.4422,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kazanlak",
+      "path": "europe/bulgaria/valleyoftheroses/kazanlak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/greater_wellington/lowerhutt",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hawes_and_gayle",
+      "prior_mu": 22.4582,
+      "prior_sigma": 5.4249,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "san juan",
+      "path": "northamerica/dominicanrepublic/san_juan",
+      "prior_mu": 22.4107,
+      "prior_sigma": 5.9122,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_mu": 22.504,
+      "prior_sigma": 5.5045,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_mu": 21.7603,
+      "prior_sigma": 4.6893,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_mu": 21.171,
+      "prior_sigma": 4.4307,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_mu": 22.6787,
+      "prior_sigma": 5.4143,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    }
+  ]
+}

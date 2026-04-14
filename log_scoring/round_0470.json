@@ -1,0 +1,200 @@
+{
+  "round": 470,
+  "timestamp": "2026-04-12T09:32:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_mu": 25.7506,
+      "prior_sigma": 6.3396,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_mu": 21.6855,
+      "prior_sigma": 4.5946,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_mu": 22.0995,
+      "prior_sigma": 5.7551,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_cit",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_mu": 22.0985,
+      "prior_sigma": 4.7101,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_mu": 22.7005,
+      "prior_sigma": 5.6869,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_mu": 21.684,
+      "prior_sigma": 4.4554,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_mu": 21.787,
+      "prior_sigma": 5.613,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_mu": 22.0148,
+      "prior_sigma": 5.7432,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_mu": 21.6501,
+      "prior_sigma": 5.3119,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_mu": 18.3077,
+      "prior_sigma": 6.7536,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Paranuaque",
+      "path": "asia/philippines/manila/paranuaque",
+      "prior_mu": 22.0321,
+      "prior_sigma": 5.6819,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Paniqui",
+      "path": "asia/philippines/paniqui",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_mu": 18.0715,
+      "prior_sigma": 6.5309,
+      "prior_n": 1
+    }
+  ]
+}

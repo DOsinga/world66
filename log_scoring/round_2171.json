@@ -1,0 +1,200 @@
+{
+  "round": 2171,
+  "timestamp": "2026-04-13T16:17:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 9.8475,
+      "prior_variance": 0.452,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 8.1182,
+      "prior_variance": 0.378725,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 5.8633,
+      "prior_variance": 0.261287,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 5.5212,
+      "prior_variance": 0.339488,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 5.8747,
+      "prior_variance": 0.466993,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.3315,
+      "prior_variance": 0.41412,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_score": 2.1729,
+      "prior_variance": 0.265167,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -0.3196,
+      "prior_variance": 0.329702,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": -1.5334,
+      "prior_variance": 0.221498,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -3.5557,
+      "prior_variance": 0.248624,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -6.6855,
+      "prior_variance": 0.258592,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Rio Muni",
+      "path": "africa/equatorialguinea/riomuni",
+      "prior_score": -6.8663,
+      "prior_variance": 0.376759,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -6.5236,
+      "prior_variance": 0.338994,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -3.542,
+      "prior_variance": 0.253622,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -4.141,
+      "prior_variance": 0.241326,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tagum City",
+      "path": "asia/philippines/tagumcity",
+      "prior_score": -4.1475,
+      "prior_variance": 0.247373,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -2.6798,
+      "prior_variance": 0.2362,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Eustis",
+      "path": "northamerica/unitedstates/florida/eustis",
+      "prior_score": -4.6326,
+      "prior_variance": 0.282807,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.0991,
+      "prior_variance": 0.348735,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Senaki",
+      "path": "europe/georgia/zugdidi/senaki",
+      "prior_score": -4.6259,
+      "prior_variance": 0.272843,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -7.0789,
+      "prior_variance": 0.275477,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -7.9848,
+      "prior_variance": 0.3945,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mahala",
+      "path": "asia/pakistan/nowshera/kheshgi/mahala",
+      "prior_score": -9.4728,
+      "prior_variance": 0.34211,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jamshaid awan",
+      "path": "asia/pakistan/abbottabad/jamshaid_awan",
+      "prior_score": -8.6165,
+      "prior_variance": 0.331235,
+      "prior_n": 5
+    }
+  ]
+}

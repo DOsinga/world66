@@ -1,0 +1,200 @@
+{
+  "round": 1368,
+  "timestamp": "2026-04-12T22:23:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sumatra",
+      "path": "asia/indonesia/sumatra",
+      "prior_rank": 2031,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_rank": 5416,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_rank": 1975,
+      "prior_wins": 93,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_rank": 1882,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_rank": 3704,
+      "prior_wins": 61,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_rank": 2824,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_rank": 3936,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_rank": 3747,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_rank": 3238,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_rank": 3498,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_rank": 2298,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_rank": 2178,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Aba",
+      "path": "asia/china/aba",
+      "prior_rank": 5644,
+      "prior_wins": 38,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_rank": 4142,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_rank": 2974,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_rank": 3860,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ripon",
+      "prior_rank": 6385,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/combe_martin",
+      "prior_rank": 3998,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/juist",
+      "prior_rank": 4055,
+      "prior_wins": 46,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "San Clemente",
+      "path": "northamerica/unitedstates/california/orangecounty/sanclemente",
+      "prior_rank": 2393,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_rank": 3257,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_rank": 2239,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_rank": 2926,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_rank": 3346,
+      "prior_wins": 38,
+      "prior_n": 3
+    }
+  ]
+}

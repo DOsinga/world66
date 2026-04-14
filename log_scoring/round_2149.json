@@ -1,0 +1,200 @@
+{
+  "round": 2149,
+  "timestamp": "2026-04-13T16:15:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 5.1714,
+      "prior_variance": 0.319995,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Samar Island",
+      "path": "asia/philippines/samarisland",
+      "prior_score": -0.3379,
+      "prior_variance": 0.236283,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national",
+      "prior_score": 0.8722,
+      "prior_variance": 0.216939,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kapiti Coast",
+      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast",
+      "prior_score": -1.0513,
+      "prior_variance": 0.278056,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ambohimanga",
+      "path": "africa/madagascar/ambohimanga",
+      "prior_score": 0.4363,
+      "prior_variance": 0.284023,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": -0.0044,
+      "prior_variance": 0.212425,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": -0.3379,
+      "prior_variance": 0.21611,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.0949,
+      "prior_variance": 0.27318,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -3.1036,
+      "prior_variance": 0.646854,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": -1.1199,
+      "prior_variance": 0.439432,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 0.5098,
+      "prior_variance": 0.219925,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.6208,
+      "prior_variance": 0.259431,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
+      "prior_score": -1.1826,
+      "prior_variance": 0.258755,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.1674,
+      "prior_variance": 0.243144,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Suffolk",
+      "path": "europe/unitedkingdom/suffolk",
+      "prior_score": 0.0117,
+      "prior_variance": 0.23998,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/twickenham",
+      "prior_score": -1.959,
+      "prior_variance": 0.244781,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": 0.479,
+      "prior_variance": 0.254916,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -1.7832,
+      "prior_variance": 0.265747,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.5963,
+      "prior_variance": 0.294335,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Daytoa Beach",
+      "path": "northamerica/unitedstates/florida/daytoabeach",
+      "prior_score": -1.5252,
+      "prior_variance": 0.356927,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/coventry",
+      "prior_score": -2.3564,
+      "prior_variance": 0.271269,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Nocka Nocka Land",
+      "path": "europe/ireland/cork/nockanockaland",
+      "prior_score": -5.8879,
+      "prior_variance": 0.250991,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -9.3635,
+      "prior_variance": 0.372878,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -6.5503,
+      "prior_variance": 0.326985,
+      "prior_n": 6
+    }
+  ]
+}

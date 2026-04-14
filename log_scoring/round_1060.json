@@ -1,0 +1,200 @@
+{
+  "round": 1060,
+  "timestamp": "2026-04-12T22:07:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/losangeles/santaclarita",
+      "prior_rank": 7828,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/wolverhampton",
+      "prior_rank": 8117,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_rank": 7461,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_rank": 6605,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Queven",
+      "path": "europe/france/normandybrittany/queven",
+      "prior_rank": 8165,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/menston",
+      "prior_rank": 7835,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_rank": 7588,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_rank": 5563,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_rank": 6785,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_rank": 7346,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_rank": 3945,
+      "prior_wins": 48,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_rank": 7474,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_rank": 7964,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_rank": 7429,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Eustis",
+      "path": "northamerica/unitedstates/florida/eustis",
+      "prior_rank": 5140,
+      "prior_wins": 9,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_rank": 7163,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_rank": 8022,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Somerset",
+      "path": "northamerica/unitedstates/newjersey/somerset",
+      "prior_rank": 7318,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_rank": 6786,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kairatabad",
+      "path": "asia/india/andhrapradesh/kairatabad",
+      "prior_rank": 7117,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_rank": 7466,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_rank": 6495,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nocka Nocka Land",
+      "path": "europe/ireland/cork/nockanockaland",
+      "prior_rank": 7813,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ashington",
+      "path": "europe/unitedkingdom/england/ashington",
+      "prior_rank": 7646,
+      "prior_wins": 5,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2244,
+  "timestamp": "2026-04-13T16:23:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 6.5826,
+      "prior_variance": 0.289091,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "New York State",
+      "path": "northamerica/unitedstates/newyorkstate",
+      "prior_score": 5.5333,
+      "prior_variance": 0.24993,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 5.1069,
+      "prior_variance": 0.262385,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 5.0086,
+      "prior_variance": 0.250869,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Molokai",
+      "path": "northamerica/unitedstates/hawaii/molokai",
+      "prior_score": 2.058,
+      "prior_variance": 0.210635,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_score": 4.5992,
+      "prior_variance": 0.361633,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 5.3274,
+      "prior_variance": 0.278929,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 3.9488,
+      "prior_variance": 0.271578,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 4.1884,
+      "prior_variance": 0.237253,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "East Frisian Islands",
+      "path": "europe/germany/lowersaxony/east_frisian_islan",
+      "prior_score": 1.8366,
+      "prior_variance": 0.221558,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 2.5342,
+      "prior_variance": 0.309764,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": -0.8397,
+      "prior_variance": 0.229975,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Thuburbo majus",
+      "path": "africa/tunisia/thuburbomajus",
+      "prior_score": -1.674,
+      "prior_variance": 0.266073,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": 0.6602,
+      "prior_variance": 0.289674,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.6604,
+      "prior_variance": 0.269771,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -1.8335,
+      "prior_variance": 0.209685,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.1435,
+      "prior_variance": 0.219114,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Manawatu",
+      "path": "australiaandpacific/newzealand/north_island/manawatu",
+      "prior_score": -2.1091,
+      "prior_variance": 0.202655,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "North-West",
+      "path": "australiaandpacific/australia/tasmania/northwest",
+      "prior_score": 0.2054,
+      "prior_variance": 0.229586,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Marion",
+      "path": "australiaandpacific/australia/southaustralia/marion",
+      "prior_score": -4.6405,
+      "prior_variance": 0.327839,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -6.7875,
+      "prior_variance": 0.300449,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -5.591,
+      "prior_variance": 0.368557,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -6.212,
+      "prior_variance": 0.272529,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -9.2932,
+      "prior_variance": 0.436356,
+      "prior_n": 5
+    }
+  ]
+}

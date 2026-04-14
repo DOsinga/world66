@@ -1,0 +1,200 @@
+{
+  "round": 586,
+  "timestamp": "2026-04-12T10:38:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterosso",
+      "path": "europe/italy/liguria/thecinqueterre/monterosso",
+      "prior_mu": 24.4226,
+      "prior_sigma": 6.1073,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_mu": 25.6,
+      "prior_sigma": 5.3588,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lago di Garda",
+      "path": "europe/italy/lombardia/lagodigarda",
+      "prior_mu": 23.1907,
+      "prior_sigma": 5.8053,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_mu": 23.537,
+      "prior_sigma": 5.0303,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_mu": 23.8998,
+      "prior_sigma": 5.0562,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "San Qurico D' Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_mu": 22.9126,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_mu": 22.7595,
+      "prior_sigma": 5.7959,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_mu": 21.727,
+      "prior_sigma": 4.5054,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_mu": 21.5239,
+      "prior_sigma": 4.7209,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_mu": 22.6968,
+      "prior_sigma": 5.7262,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_mu": 22.4356,
+      "prior_sigma": 5.4591,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_mu": 22.0275,
+      "prior_sigma": 5.2694,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_mu": 21.8175,
+      "prior_sigma": 4.6348,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Calabria",
+      "path": "europe/italy/calabria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_mu": 21.5963,
+      "prior_sigma": 4.8386,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_mu": 21.8236,
+      "prior_sigma": 4.8225,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_mu": 22.4601,
+      "prior_sigma": 5.4912,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_mu": 22.2882,
+      "prior_sigma": 5.9043,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Molise",
+      "path": "europe/italy/molise",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

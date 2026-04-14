@@ -1,0 +1,200 @@
+{
+  "round": 1805,
+  "timestamp": "2026-04-13T10:53:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 6.0965,
+      "prior_variance": 0.338811,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 4.0768,
+      "prior_variance": 0.391032,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 6.1713,
+      "prior_variance": 0.408948,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sch\u00f6neberg",
+      "path": "europe/germany/berlin/schoneberg",
+      "prior_score": 1.7182,
+      "prior_variance": 0.334577,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 0.8084,
+      "prior_variance": 0.297712,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
+      "prior_score": 2.1781,
+      "prior_variance": 0.318669,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 3.8737,
+      "prior_variance": 0.335514,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santacruz",
+      "prior_score": 1.3714,
+      "prior_variance": 0.326631,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -1.808,
+      "prior_variance": 0.321271,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/whanganui_region/wanganui",
+      "prior_score": -1.1533,
+      "prior_variance": 0.303991,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": 0.8524,
+      "prior_variance": 0.306937,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -1.8502,
+      "prior_variance": 0.316312,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -2.5595,
+      "prior_variance": 0.365983,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -2.9672,
+      "prior_variance": 0.29629,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Wuhan",
+      "path": "asia/china/wuhan",
+      "prior_score": -1.2233,
+      "prior_variance": 0.315001,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_score": -1.1597,
+      "prior_variance": 0.295719,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -2.6865,
+      "prior_variance": 0.316189,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Zovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -4.9722,
+      "prior_variance": 0.315389,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -6.6807,
+      "prior_variance": 0.402803,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kouilou region",
+      "path": "africa/congobrazzaville/kouilouregion",
+      "prior_score": -6.7854,
+      "prior_variance": 0.365056,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.0663,
+      "prior_variance": 0.317749,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "ocotal,nueva segovia",
+      "path": "northamerica/nicaragua/ocotalnueva_segov",
+      "prior_score": -6.6184,
+      "prior_variance": 0.348698,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -7.8419,
+      "prior_variance": 0.255812,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "CHANDAN N BHANDARI",
+      "path": "asia/india/uttaranchal/chandan_n_bhandari",
+      "prior_score": -15.6936,
+      "prior_variance": 0.689033,
+      "prior_n": 4
+    }
+  ]
+}

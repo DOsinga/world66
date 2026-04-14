@@ -1,0 +1,200 @@
+{
+  "round": 1529,
+  "timestamp": "2026-04-13T10:28:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ireland",
+      "path": "europe/ireland",
+      "prior_score": -1.8028,
+      "prior_variance": 0.863608,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 1.7146,
+      "prior_variance": 0.40806,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Jaen",
+      "path": "europe/spain/jaen",
+      "prior_score": 1.8587,
+      "prior_variance": 0.497586,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/northernspain/ribeira_sacra",
+      "prior_score": 2.2888,
+      "prior_variance": 0.436509,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_score": 0.4031,
+      "prior_variance": 0.374964,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": 0.7252,
+      "prior_variance": 0.340874,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/warwick",
+      "prior_score": 2.0377,
+      "prior_variance": 0.352879,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 1.987,
+      "prior_variance": 0.527004,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/greater_wellington/wairarapa",
+      "prior_score": 1.9431,
+      "prior_variance": 0.418225,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_score": 1.513,
+      "prior_variance": 0.39618,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dogon Country",
+      "path": "africa/mali/dogoncountry",
+      "prior_score": 0.9239,
+      "prior_variance": 0.322056,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": 0.0464,
+      "prior_variance": 0.446645,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 1.4221,
+      "prior_variance": 0.339541,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 1.6181,
+      "prior_variance": 0.376112,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -0.5645,
+      "prior_variance": 0.510978,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.3652,
+      "prior_variance": 0.327454,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.9934,
+      "prior_variance": 0.332145,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": 0.1137,
+      "prior_variance": 0.347459,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": 0.5203,
+      "prior_variance": 0.320251,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 1.2809,
+      "prior_variance": 0.39181,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": 1.2004,
+      "prior_variance": 0.454406,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jinja",
+      "path": "africa/uganda/jinja",
+      "prior_score": 0.6375,
+      "prior_variance": 0.418178,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": 0.717,
+      "prior_variance": 0.291259,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Daytoa Beach",
+      "path": "northamerica/unitedstates/florida/daytoabeach",
+      "prior_score": 0.0694,
+      "prior_variance": 0.424687,
+      "prior_n": 4
+    }
+  ]
+}

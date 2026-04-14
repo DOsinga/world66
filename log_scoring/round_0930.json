@@ -1,0 +1,200 @@
+{
+  "round": 930,
+  "timestamp": "2026-04-12T16:08:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_rank": 117,
+      "prior_wins": 69,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_rank": 23,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal Island",
+      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
+      "prior_rank": 147,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Rarotonga",
+      "path": "australiaandpacific/cookislands/rarotonga",
+      "prior_rank": 34,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_rank": 80,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Rhodes",
+      "path": "europe/greece/rhodes",
+      "prior_rank": 134,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_rank": 31,
+      "prior_wins": 46,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_rank": 189,
+      "prior_wins": 89,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_rank": 72,
+      "prior_wins": 230,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_rank": 99,
+      "prior_wins": 23,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_rank": 137,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_rank": 239,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_rank": 197,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kazbegi",
+      "path": "europe/georgia/tbilisi/gudauri/kazbegi",
+      "prior_rank": 249,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_rank": 208,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_rank": 6259,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_rank": 8085,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Guinea-Bissau",
+      "path": "africa/guineabissau",
+      "prior_rank": 8154,
+      "prior_wins": 0,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hong",
+      "path": "africa/nigeria/yola/hong",
+      "prior_rank": 8226,
+      "prior_wins": 0,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_rank": 8202,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Libya",
+      "path": "africa/libya",
+      "prior_rank": 8177,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Las Anod",
+      "path": "africa/somalia/lasanod",
+      "prior_rank": 8094,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "J-1 On-line Internet Cafe",
+      "path": "asia/philippines/manila/j1_online_intern",
+      "prior_rank": 8153,
+      "prior_wins": 0,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Starbucks Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/starbuckscoffee",
+      "prior_rank": 8227,
+      "prior_wins": 0,
+      "prior_n": 3
+    }
+  ]
+}

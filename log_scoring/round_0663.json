@@ -1,0 +1,200 @@
+{
+  "round": 663,
+  "timestamp": "2026-04-12T10:41:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_mu": 29.2252,
+      "prior_sigma": 6.958,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_mu": 27.9042,
+      "prior_sigma": 5.7205,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_mu": 28.0878,
+      "prior_sigma": 5.6062,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_mu": 21.7333,
+      "prior_sigma": 3.7615,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_mu": 22.5803,
+      "prior_sigma": 4.6235,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_mu": 22.4996,
+      "prior_sigma": 5.5447,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_mu": 21.6414,
+      "prior_sigma": 4.4748,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kuelap",
+      "path": "southamerica/peru/chachapoyas/kuelap",
+      "prior_mu": 22.9391,
+      "prior_sigma": 5.7377,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_mu": 21.6907,
+      "prior_sigma": 4.5885,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_mu": 21.5456,
+      "prior_sigma": 4.4329,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "southamerica/peru/huanchaco/trujillo",
+      "prior_mu": 22.5292,
+      "prior_sigma": 5.6892,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ancash",
+      "path": "southamerica/peru/ancash",
+      "prior_mu": 22.5134,
+      "prior_sigma": 4.7583,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_mu": 22.0503,
+      "prior_sigma": 4.428,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_mu": 21.5885,
+      "prior_sigma": 4.434,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_mu": 21.561,
+      "prior_sigma": 4.8155,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_mu": 21.3206,
+      "prior_sigma": 4.5165,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_mu": 22.2675,
+      "prior_sigma": 5.5202,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_mu": 22.8681,
+      "prior_sigma": 4.6008,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_mu": 21.4703,
+      "prior_sigma": 4.7061,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional",
+      "prior_mu": 20.4253,
+      "prior_sigma": 4.5784,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Peru",
+      "path": "southamerica/peru",
+      "prior_mu": 25.163,
+      "prior_sigma": 5.223,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_ignacio/san_jos_de__lour",
+      "prior_mu": 18.5895,
+      "prior_sigma": 5.2444,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_mu": 12.5893,
+      "prior_sigma": 5.2934,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Surco",
+      "path": "southamerica/peru/surco",
+      "prior_mu": 22.4415,
+      "prior_sigma": 5.879,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1773,
+  "timestamp": "2026-04-13T10:49:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rangiroa",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa",
+      "prior_score": 9.0662,
+      "prior_variance": 0.340401,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 8.0101,
+      "prior_variance": 0.554296,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Zakinthos",
+      "path": "europe/greece/zakinthos",
+      "prior_score": 8.2833,
+      "prior_variance": 0.34638,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 5.7323,
+      "prior_variance": 0.367694,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 2.5342,
+      "prior_variance": 0.34173,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 2.3059,
+      "prior_variance": 0.301834,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 0.6729,
+      "prior_variance": 0.2785,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -0.7034,
+      "prior_variance": 0.259352,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": -0.1454,
+      "prior_variance": 0.165382,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/worcester",
+      "prior_score": -0.3675,
+      "prior_variance": 0.325061,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "El castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": -1.2473,
+      "prior_variance": 0.342478,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -0.7299,
+      "prior_variance": 0.343595,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -6.8227,
+      "prior_variance": 0.594181,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -1.5361,
+      "prior_variance": 0.308915,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -2.6475,
+      "prior_variance": 0.337426,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -4.652,
+      "prior_variance": 0.333812,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -4.4754,
+      "prior_variance": 0.314457,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_score": -7.2403,
+      "prior_variance": 0.466771,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.8498,
+      "prior_variance": 0.335433,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Holyoke",
+      "path": "northamerica/unitedstates/massachusetts/holyoke",
+      "prior_score": -4.878,
+      "prior_variance": 0.339262,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -6.5716,
+      "prior_variance": 0.427813,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -5.8913,
+      "prior_variance": 0.382279,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Balsall Common",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/balsall_common",
+      "prior_score": -6.2538,
+      "prior_variance": 0.347183,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.8644,
+      "prior_variance": 0.346107,
+      "prior_n": 4
+    }
+  ]
+}

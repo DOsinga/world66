@@ -1,0 +1,200 @@
+{
+  "round": 1825,
+  "timestamp": "2026-04-13T10:54:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 7.5153,
+      "prior_variance": 0.304472,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Halong City",
+      "path": "asia/vietnam/cat_ba_island/halong_city",
+      "prior_score": 6.0821,
+      "prior_variance": 0.418573,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 0.8839,
+      "prior_variance": 0.269345,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Denali Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 7.5149,
+      "prior_variance": 0.31065,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 0.9911,
+      "prior_variance": 0.304077,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -1.4177,
+      "prior_variance": 0.295703,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.8818,
+      "prior_variance": 0.311995,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 1.2119,
+      "prior_variance": 0.238866,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Halmstad",
+      "path": "europe/sweden/halmstad",
+      "prior_score": -0.1104,
+      "prior_variance": 0.309651,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -2.2398,
+      "prior_variance": 0.307403,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.7264,
+      "prior_variance": 0.306471,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": 0.4367,
+      "prior_variance": 0.292682,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_score": 0.2195,
+      "prior_variance": 0.242808,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -1.59,
+      "prior_variance": 0.245764,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Arva",
+      "path": "europe/ireland/arva",
+      "prior_score": -5.3407,
+      "prior_variance": 0.375863,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.4796,
+      "prior_variance": 0.286348,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Escalante City",
+      "path": "asia/philippines/escalante_city",
+      "prior_score": -5.4746,
+      "prior_variance": 0.311954,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wamic",
+      "path": "northamerica/unitedstates/oregon/wamic",
+      "prior_score": -5.934,
+      "prior_variance": 0.377323,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -2.3899,
+      "prior_variance": 0.460683,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_score": -5.7296,
+      "prior_variance": 0.3389,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -4.7297,
+      "prior_variance": 0.342934,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.0918,
+      "prior_variance": 0.395893,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Eagle Base",
+      "path": "europe/bosniaandherzegovina/eagle_base",
+      "prior_score": -8.3179,
+      "prior_variance": 0.395459,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -11.2706,
+      "prior_variance": 0.466001,
+      "prior_n": 4
+    }
+  ]
+}

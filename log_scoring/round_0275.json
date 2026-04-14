@@ -1,0 +1,200 @@
+{
+  "round": 275,
+  "timestamp": "2026-04-12T09:09:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Veneto",
+      "path": "europe/italy/veneto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sri Lanka",
+      "path": "asia/srilanka",
+      "prior_mu": 25.162,
+      "prior_sigma": 6.0749,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Luoyang",
+      "path": "asia/china/luoyang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/cuba/santiagodecuba",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_mu": 22.1514,
+      "prior_sigma": 5.7611,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_mu": 22.2076,
+      "prior_sigma": 5.7747,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "South Sudan",
+      "path": "africa/southsudan",
+      "prior_mu": 18.3436,
+      "prior_sigma": 6.7587,
+      "prior_n": 1
+    }
+  ]
+}

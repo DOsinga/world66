@@ -1,0 +1,200 @@
+{
+  "round": 1774,
+  "timestamp": "2026-04-13T10:50:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 1.1467,
+      "prior_variance": 0.499646,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 4.197,
+      "prior_variance": 0.412954,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/gloucestershire/cotswolds",
+      "prior_score": 6.9346,
+      "prior_variance": 0.401621,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 7.8398,
+      "prior_variance": 0.352049,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 8.0465,
+      "prior_variance": 0.451846,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.6685,
+      "prior_variance": 0.456002,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Makarska",
+      "path": "europe/croatia/makarska",
+      "prior_score": 5.8912,
+      "prior_variance": 0.267816,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 7.7653,
+      "prior_variance": 0.357,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 4.0632,
+      "prior_variance": 0.307306,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 4.5671,
+      "prior_variance": 0.433047,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_score": 5.2553,
+      "prior_variance": 0.347835,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_score": 5.6784,
+      "prior_variance": 0.267582,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_score": 5.5259,
+      "prior_variance": 0.275431,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 2.669,
+      "prior_variance": 0.506938,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 1.7311,
+      "prior_variance": 0.39837,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": -0.9857,
+      "prior_variance": 0.372494,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -1.5307,
+      "prior_variance": 0.354013,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.511,
+      "prior_variance": 0.325006,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.065,
+      "prior_variance": 0.337245,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.7982,
+      "prior_variance": 0.349522,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -4.1099,
+      "prior_variance": 0.297263,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "tacloban city",
+      "path": "asia/philippines/taclobancity/tacloban_city",
+      "prior_score": -2.581,
+      "prior_variance": 0.297158,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mandangad",
+      "path": "asia/india/maharashtra/konkan/mandangad",
+      "prior_score": -5.612,
+      "prior_variance": 0.417037,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/eastern_england/berkhampsted",
+      "prior_score": -2.9678,
+      "prior_variance": 0.316733,
+      "prior_n": 4
+    }
+  ]
+}

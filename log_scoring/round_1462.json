@@ -1,0 +1,200 @@
+{
+  "round": 1462,
+  "timestamp": "2026-04-12T22:28:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_rank": 5893,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_rank": 5430,
+      "prior_wins": 36,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Aars",
+      "path": "europe/denmark/aars",
+      "prior_rank": 6905,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_rank": 7901,
+      "prior_wins": 20,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_rank": 7334,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/grays",
+      "prior_rank": 6943,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hayward",
+      "path": "northamerica/unitedstates/california/hayward",
+      "prior_rank": 7249,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_rank": 7865,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_rank": 7037,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_rank": 7685,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_rank": 7903,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_rank": 7610,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_rank": 6133,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_rank": 7568,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_rank": 6776,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_rank": 6301,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_rank": 8127,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Delaware County",
+      "path": "northamerica/unitedstates/pennsylvania/delawarecounty",
+      "prior_rank": 7336,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_rank": 7434,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_rank": 7645,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_rank": 7341,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/yucatan/viverosdelaloma",
+      "prior_rank": 7908,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_rank": 7852,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_rank": 7236,
+      "prior_wins": 23,
+      "prior_n": 5
+    }
+  ]
+}

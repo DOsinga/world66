@@ -1,0 +1,200 @@
+{
+  "round": 1523,
+  "timestamp": "2026-04-13T10:28:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.4889,
+      "prior_variance": 0.514708,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -2.4638,
+      "prior_variance": 0.609455,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -4.0106,
+      "prior_variance": 0.382628,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -4.097,
+      "prior_variance": 0.412833,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -3.4699,
+      "prior_variance": 0.447365,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -3.0244,
+      "prior_variance": 0.566599,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Arkhangai",
+      "path": "asia/mongolia/arkhangai",
+      "prior_score": -2.3599,
+      "prior_variance": 0.276806,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Aragatsotn Marz",
+      "path": "europe/armenia/aragatsotn_marz",
+      "prior_score": -3.5168,
+      "prior_variance": 0.498792,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -5.0637,
+      "prior_variance": 0.347003,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -3.3857,
+      "prior_variance": 0.341947,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.9617,
+      "prior_variance": 0.354098,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_score": -2.6268,
+      "prior_variance": 0.554393,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -4.0485,
+      "prior_variance": 0.36693,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/moseley",
+      "prior_score": -4.6782,
+      "prior_variance": 0.342251,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -4.243,
+      "prior_variance": 0.41484,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_score": -3.964,
+      "prior_variance": 0.45619,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -3.9505,
+      "prior_variance": 0.411359,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.9741,
+      "prior_variance": 0.387315,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.2578,
+      "prior_variance": 0.451682,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -5.2329,
+      "prior_variance": 0.38439,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "San Gabriel",
+      "path": "asia/philippines/sangabriel",
+      "prior_score": -4.2891,
+      "prior_variance": 0.39572,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -5.2202,
+      "prior_variance": 0.425848,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chilton",
+      "path": "northamerica/unitedstates/wisconsin/chilton",
+      "prior_score": -6.8627,
+      "prior_variance": 0.63833,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mahon",
+      "path": "europe/ireland/cork/mahon",
+      "prior_score": -4.416,
+      "prior_variance": 0.464264,
+      "prior_n": 4
+    }
+  ]
+}

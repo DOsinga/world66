@@ -1,0 +1,200 @@
+{
+  "round": 2105,
+  "timestamp": "2026-04-13T16:11:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 7.2942,
+      "prior_variance": 0.362754,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.4958,
+      "prior_variance": 0.276355,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 2.4265,
+      "prior_variance": 0.253983,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 4.4222,
+      "prior_variance": 0.247662,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": 1.457,
+      "prior_variance": 0.248202,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_score": 3.1827,
+      "prior_variance": 0.393383,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": -0.0227,
+      "prior_variance": 0.207525,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": 1.1879,
+      "prior_variance": 0.206576,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 0.7542,
+      "prior_variance": 0.234203,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 1.2734,
+      "prior_variance": 0.238941,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 1.0006,
+      "prior_variance": 0.261678,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": 0.335,
+      "prior_variance": 0.220371,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": -0.0975,
+      "prior_variance": 0.255268,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": -0.36,
+      "prior_variance": 0.258331,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": 0.013,
+      "prior_variance": 0.20372,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mandarmani",
+      "path": "asia/india/westbengal/mandarmani",
+      "prior_score": -2.4156,
+      "prior_variance": 0.220853,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -0.969,
+      "prior_variance": 0.281191,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -1.5893,
+      "prior_variance": 0.256504,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -0.0922,
+      "prior_variance": 0.238852,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -2.0827,
+      "prior_variance": 0.25468,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mandangad",
+      "path": "asia/india/maharashtra/konkan/mandangad",
+      "prior_score": -5.2346,
+      "prior_variance": 0.330476,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
+      "prior_score": -3.4556,
+      "prior_variance": 0.256717,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Goole",
+      "path": "europe/unitedkingdom/england/goole",
+      "prior_score": -4.9469,
+      "prior_variance": 0.29689,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -10.5445,
+      "prior_variance": 0.276934,
+      "prior_n": 7
+    }
+  ]
+}

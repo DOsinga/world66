@@ -1,0 +1,200 @@
+{
+  "round": 482,
+  "timestamp": "2026-04-12T09:32:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_mu": 30.6945,
+      "prior_sigma": 6.9057,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Krabi",
+      "path": "asia/thailand/krabi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_mu": 23.5151,
+      "prior_sigma": 5.9562,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_mu": 23.0729,
+      "prior_sigma": 5.994,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Koh Mak",
+      "path": "asia/thailand/koh_mak",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_mu": 26.7914,
+      "prior_sigma": 3.3153,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_mu": 22.277,
+      "prior_sigma": 5.7762,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Soppong",
+      "path": "asia/thailand/maehongson/soppong",
+      "prior_mu": 22.7239,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_mu": 21.6976,
+      "prior_sigma": 4.7981,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_mu": 21.8888,
+      "prior_sigma": 4.8315,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_mu": 22.6992,
+      "prior_sigma": 5.9469,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_mu": 22.696,
+      "prior_sigma": 5.9466,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_mu": 21.8044,
+      "prior_sigma": 4.8155,
+      "prior_n": 2
+    }
+  ]
+}

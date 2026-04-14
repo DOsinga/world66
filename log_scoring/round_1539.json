@@ -1,0 +1,200 @@
+{
+  "round": 1539,
+  "timestamp": "2026-04-13T10:29:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spain",
+      "path": "europe/spain",
+      "prior_score": -1.8376,
+      "prior_variance": 0.734862,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.4828,
+      "prior_variance": 0.410276,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "High Peak",
+      "path": "europe/unitedkingdom/england/highpeak",
+      "prior_score": 1.1884,
+      "prior_variance": 0.473042,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/barnstaple",
+      "prior_score": -0.0836,
+      "prior_variance": 0.326427,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -1.4497,
+      "prior_variance": 0.295686,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -0.0546,
+      "prior_variance": 0.446213,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -3.1191,
+      "prior_variance": 0.63229,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Senaki",
+      "path": "europe/georgia/zugdidi/senaki",
+      "prior_score": -5.6088,
+      "prior_variance": 0.332133,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Fort Benning, GA",
+      "path": "northamerica/unitedstates/georgia/fort_benning_ga",
+      "prior_score": -9.9469,
+      "prior_variance": 0.59362,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "South Ural",
+      "path": "europe/russia/ural/south_ural",
+      "prior_score": -8.4838,
+      "prior_variance": 0.562458,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -6.0516,
+      "prior_variance": 0.3248,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_score": -8.8574,
+      "prior_variance": 0.579051,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lebialem",
+      "path": "africa/cameroon/lebialem",
+      "prior_score": -6.909,
+      "prior_variance": 0.291554,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Inkisi",
+      "path": "africa/congokinshasa/inkisi",
+      "prior_score": -9.1575,
+      "prior_variance": 0.298485,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Sunrise Coffee",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/sunrisecoffee",
+      "prior_score": -11.2233,
+      "prior_variance": 0.576866,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Birote",
+      "path": "asia/pakistan/azad_kashmir/mirpur/birote",
+      "prior_score": -11.3851,
+      "prior_variance": 0.676478,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Retra",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/retra",
+      "prior_score": -10.3623,
+      "prior_variance": 0.591569,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -9.56,
+      "prior_variance": 0.585108,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -9.6236,
+      "prior_variance": 0.538499,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -10.4372,
+      "prior_variance": 0.849129,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_score": -12.5002,
+      "prior_variance": 0.584469,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -12.5627,
+      "prior_variance": 0.741455,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -11.697,
+      "prior_variance": 0.964405,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -11.6976,
+      "prior_variance": 0.679574,
+      "prior_n": 5
+    }
+  ]
+}

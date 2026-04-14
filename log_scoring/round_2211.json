@@ -1,0 +1,200 @@
+{
+  "round": 2211,
+  "timestamp": "2026-04-13T16:20:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Romantic Road",
+      "path": "europe/germany/bavaria/romanticroad",
+      "prior_score": 7.502,
+      "prior_variance": 0.313648,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 7.5214,
+      "prior_variance": 0.290802,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 7.9293,
+      "prior_variance": 0.399703,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/yucatan/islamujeres",
+      "prior_score": 7.6845,
+      "prior_variance": 0.370225,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 3.7035,
+      "prior_variance": 0.252618,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 8.1449,
+      "prior_variance": 0.568615,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 4.4189,
+      "prior_variance": 0.350423,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 4.3318,
+      "prior_variance": 0.256287,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.8882,
+      "prior_variance": 0.227547,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.3622,
+      "prior_variance": 0.229105,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Maine",
+      "path": "northamerica/unitedstates/maine",
+      "prior_score": 4.3572,
+      "prior_variance": 0.282181,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 3.7333,
+      "prior_variance": 0.387745,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 4.3806,
+      "prior_variance": 0.258244,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 6.1476,
+      "prior_variance": 0.327985,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "costa dorada",
+      "path": "europe/spain/catalonia/costa_dorada",
+      "prior_score": 3.2153,
+      "prior_variance": 0.258677,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.7581,
+      "prior_variance": 0.234303,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.0636,
+      "prior_variance": 0.232748,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": 1.2182,
+      "prior_variance": 0.204399,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": 0.1453,
+      "prior_variance": 0.255306,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": 0.5509,
+      "prior_variance": 0.23568,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -2.8691,
+      "prior_variance": 0.375036,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -4.3354,
+      "prior_variance": 0.245487,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -3.9088,
+      "prior_variance": 0.29119,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/haiti/gonaveisland",
+      "prior_score": -5.6743,
+      "prior_variance": 0.303578,
+      "prior_n": 5
+    }
+  ]
+}

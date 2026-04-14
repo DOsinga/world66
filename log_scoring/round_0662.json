@@ -1,0 +1,200 @@
+{
+  "round": 662,
+  "timestamp": "2026-04-12T10:41:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_mu": 22.5003,
+      "prior_sigma": 4.8164,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_mu": 22.0475,
+      "prior_sigma": 4.7043,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/paloalto",
+      "prior_mu": 21.6558,
+      "prior_sigma": 4.1816,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_mu": 21.4102,
+      "prior_sigma": 3.9179,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_mu": 22.048,
+      "prior_sigma": 4.3141,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_mu": 22.481,
+      "prior_sigma": 5.907,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_mu": 21.4914,
+      "prior_sigma": 4.1584,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Elko",
+      "path": "northamerica/unitedstates/nevada/elko",
+      "prior_mu": 22.3652,
+      "prior_sigma": 5.5102,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville_indian",
+      "prior_mu": 22.5307,
+      "prior_sigma": 5.9495,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_mu": 22.4044,
+      "prior_sigma": 5.9151,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_mu": 22.5774,
+      "prior_sigma": 5.9478,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_mu": 20.8182,
+      "prior_sigma": 4.3893,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_mu": 18.999,
+      "prior_sigma": 4.1791,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_mu": 22.2872,
+      "prior_sigma": 5.9382,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_mu": 21.7747,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Caruthersville",
+      "path": "northamerica/unitedstates/missouri/caruthersville",
+      "prior_mu": 20.6199,
+      "prior_sigma": 4.0713,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

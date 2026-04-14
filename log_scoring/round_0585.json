@@ -1,0 +1,200 @@
+{
+  "round": 585,
+  "timestamp": "2026-04-12T10:38:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Hong Kong Island",
+      "path": "asia/china/hongkong/hongkongisland",
+      "prior_mu": 31.6788,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_mu": 24.1302,
+      "prior_sigma": 3.8678,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Hangzhou",
+      "path": "asia/china/hangzhou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Huang Shan",
+      "path": "asia/china/huang_shan",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Yunnan Province",
+      "path": "asia/china/yunnanprovince",
+      "prior_mu": 23.4884,
+      "prior_sigma": 4.5439,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_mu": 22.4097,
+      "prior_sigma": 4.708,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_mu": 21.7881,
+      "prior_sigma": 4.6137,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_mu": 21.7752,
+      "prior_sigma": 4.5693,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_mu": 22.8258,
+      "prior_sigma": 5.6705,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_mu": 22.392,
+      "prior_sigma": 5.9503,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/chengdu/dujiangyan",
+      "prior_mu": 22.4652,
+      "prior_sigma": 4.6338,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_mu": 22.2483,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nanjing",
+      "path": "asia/china/nanjing",
+      "prior_mu": 22.879,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_mu": 22.8218,
+      "prior_sigma": 5.362,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_mu": 21.7022,
+      "prior_sigma": 4.8187,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_mu": 22.5582,
+      "prior_sigma": 5.587,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Shanxi Province",
+      "path": "asia/china/shanxiprovince",
+      "prior_mu": 22.4934,
+      "prior_sigma": 5.7838,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Lanzhou",
+      "path": "asia/china/lanzhou",
+      "prior_mu": 22.3784,
+      "prior_sigma": 5.7406,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_mu": 17.5673,
+      "prior_sigma": 2.7178,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jiangxi",
+      "path": "asia/china/jiangxi",
+      "prior_mu": 22.4917,
+      "prior_sigma": 5.7269,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Jinggangshan",
+      "path": "asia/china/jinggangshan",
+      "prior_mu": 21.7584,
+      "prior_sigma": 4.7037,
+      "prior_n": 2
+    }
+  ]
+}

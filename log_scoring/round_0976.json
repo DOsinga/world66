@@ -1,0 +1,200 @@
+{
+  "round": 976,
+  "timestamp": "2026-04-12T16:10:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_rank": 902,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_rank": 362,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cebu",
+      "path": "asia/philippines/cebu",
+      "prior_rank": 1114,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_rank": 859,
+      "prior_wins": 80,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_rank": 537,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_rank": 2648,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_rank": 1220,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_rank": 2441,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/norfolk/norwich",
+      "prior_rank": 4290,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_rank": 4277,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_rank": 2756,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_rank": 1956,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_rank": 3222,
+      "prior_wins": 96,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_rank": 2956,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_rank": 3775,
+      "prior_wins": 73,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "My homepage",
+      "path": "europe/france/val_disere/my_homepage_2",
+      "prior_rank": 8195,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_rank": 2514,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_rank": 6459,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_rank": 6131,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Grand erg",
+      "path": "africa/algeria/granderg",
+      "prior_rank": 6621,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_rank": 6866,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vialar",
+      "path": "africa/algeria/vialar",
+      "prior_rank": 7516,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_rank": 147,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_rank": 8205,
+      "prior_wins": 3,
+      "prior_n": 8
+    }
+  ]
+}

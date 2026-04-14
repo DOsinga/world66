@@ -1,0 +1,200 @@
+{
+  "round": 2169,
+  "timestamp": "2026-04-13T16:17:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 8.1489,
+      "prior_variance": 0.328092,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 5.2836,
+      "prior_variance": 0.250095,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Chile",
+      "path": "southamerica/chile",
+      "prior_score": -0.6806,
+      "prior_variance": 0.668695,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Reunion",
+      "path": "africa/reunion",
+      "prior_score": 6.9046,
+      "prior_variance": 0.387779,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_score": 7.5566,
+      "prior_variance": 0.352751,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 6.1818,
+      "prior_variance": 0.290142,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 6.0848,
+      "prior_variance": 0.288471,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_score": 6.0896,
+      "prior_variance": 0.462971,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Veneto",
+      "path": "europe/italy/veneto",
+      "prior_score": 5.1529,
+      "prior_variance": 0.429625,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 6.5777,
+      "prior_variance": 0.271201,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 4.8041,
+      "prior_variance": 0.272906,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 6.434,
+      "prior_variance": 0.296522,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 2.9091,
+      "prior_variance": 0.269177,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Budva",
+      "path": "europe/serbiaandmontenegro/budva",
+      "prior_score": 4.4647,
+      "prior_variance": 0.293611,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 1.6301,
+      "prior_variance": 0.341804,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 2.6019,
+      "prior_variance": 0.297939,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 4.7669,
+      "prior_variance": 0.310621,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 3.2015,
+      "prior_variance": 0.303329,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 7.4559,
+      "prior_variance": 0.353219,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/beverley",
+      "prior_score": 0.1909,
+      "prior_variance": 0.266805,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Puncak",
+      "path": "asia/indonesia/puncak",
+      "prior_score": -0.5656,
+      "prior_variance": 0.232976,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.2015,
+      "prior_variance": 0.258549,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -4.7903,
+      "prior_variance": 0.266145,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mustafabad",
+      "path": "asia/pakistan/soon_valley/mustafabad",
+      "prior_score": -7.1071,
+      "prior_variance": 0.279874,
+      "prior_n": 5
+    }
+  ]
+}

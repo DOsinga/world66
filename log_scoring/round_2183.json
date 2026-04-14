@@ -1,0 +1,200 @@
+{
+  "round": 2183,
+  "timestamp": "2026-04-13T16:18:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Loire Valley",
+      "path": "europe/france/wine/loirevalley",
+      "prior_score": 6.1582,
+      "prior_variance": 0.350765,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 7.6756,
+      "prior_variance": 0.313231,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 6.057,
+      "prior_variance": 0.285566,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.4486,
+      "prior_variance": 0.211904,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Gernika",
+      "path": "europe/spain/northernspain/guernika",
+      "prior_score": 2.0564,
+      "prior_variance": 0.248745,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/lancaster",
+      "prior_score": 0.0646,
+      "prior_variance": 0.254487,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": 0.4415,
+      "prior_variance": 0.232436,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Campo de Gibraltar",
+      "path": "europe/spain/andalucia/gibraltar_field",
+      "prior_score": 0.7385,
+      "prior_variance": 0.239976,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "{Sunny Isles}",
+      "path": "northamerica/unitedstates/florida/sunny_isles",
+      "prior_score": -1.6141,
+      "prior_variance": 0.229138,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Remedios",
+      "path": "northamerica/cuba/remedios",
+      "prior_score": 0.9329,
+      "prior_variance": 0.206623,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 0.3852,
+      "prior_variance": 0.207826,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.0373,
+      "prior_variance": 0.2139,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -2.6619,
+      "prior_variance": 0.227747,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_score": -4.5311,
+      "prior_variance": 0.359778,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -2.5319,
+      "prior_variance": 0.218126,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -2.2431,
+      "prior_variance": 0.235445,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Manahawkin",
+      "path": "northamerica/unitedstates/newjersey/manahawkin",
+      "prior_score": -3.7142,
+      "prior_variance": 0.34037,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -4.5956,
+      "prior_variance": 0.266518,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Cotabato",
+      "path": "asia/philippines/cotabato",
+      "prior_score": -6.4437,
+      "prior_variance": 0.369116,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -6.4684,
+      "prior_variance": 0.314,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "SASTAGO",
+      "path": "europe/spain/aragon/sastago",
+      "prior_score": -3.1121,
+      "prior_variance": 0.324143,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_score": -5.4284,
+      "prior_variance": 0.276,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mirpurkhas",
+      "path": "asia/pakistan/mirpurkhas",
+      "prior_score": -9.0852,
+      "prior_variance": 0.414559,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Angola",
+      "path": "africa/angola",
+      "prior_score": -6.1404,
+      "prior_variance": 0.323383,
+      "prior_n": 6
+    }
+  ]
+}

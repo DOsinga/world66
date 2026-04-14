@@ -1,0 +1,200 @@
+{
+  "round": 334,
+  "timestamp": "2026-04-12T09:12:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dalmatia",
+      "path": "europe/croatia/dalmatia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national",
+      "prior_mu": 23.6281,
+      "prior_sigma": 5.9411,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_mu": 23.1701,
+      "prior_sigma": 6.0059,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_mu": 23.035,
+      "prior_sigma": 5.7432,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Luxembourg",
+      "path": "europe/luxembourg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/st_ives",
+      "prior_mu": 22.7924,
+      "prior_sigma": 5.9584,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lancaster County",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/devizes",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_mu": 21.1641,
+      "prior_sigma": 3.5596,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_mu": 22.7212,
+      "prior_sigma": 5.9497,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bretten",
+      "path": "europe/germany/badenwrttemberg/bretten",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_mu": 21.8889,
+      "prior_sigma": 4.8315,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "oras",
+      "path": "asia/india/maharashtra/oras",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_mu": 20.7881,
+      "prior_sigma": 5.7025,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Hotle",
+      "path": "asia/pakistan/dera_ghazi_khan/hotle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

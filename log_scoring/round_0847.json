@@ -1,0 +1,200 @@
+{
+  "round": 847,
+  "timestamp": "2026-04-12T14:44:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 11.6913,
+      "prior_variance": 8.868655,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 4.1169,
+      "prior_variance": 1.90718,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 4.5133,
+      "prior_variance": 1.732595,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 3.2047,
+      "prior_variance": 1.563276,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 3.8126,
+      "prior_variance": 2.429343,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 5.885,
+      "prior_variance": 1.590553,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/northland/cape_reinga",
+      "prior_score": 5.7377,
+      "prior_variance": 1.563143,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.8124,
+      "prior_variance": 1.316351,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -2.2781,
+      "prior_variance": 1.320738,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -5.3495,
+      "prior_variance": 1.22281,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Khoram Abad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -3.9082,
+      "prior_variance": 1.320389,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
+      "prior_score": -2.4558,
+      "prior_variance": 1.326817,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": 3.8239,
+      "prior_variance": 2.196494,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -8.2866,
+      "prior_variance": 3.853244,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.7143,
+      "prior_variance": 1.464169,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Roxas City",
+      "path": "asia/philippines/manila/roxas_city",
+      "prior_score": -4.0919,
+      "prior_variance": 0.627883,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/temuka",
+      "prior_score": -5.0507,
+      "prior_variance": 2.081217,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -10.5073,
+      "prior_variance": 7.693813,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -4.313,
+      "prior_variance": 1.661067,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -7.4342,
+      "prior_variance": 1.490129,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Haryana",
+      "path": "asia/india/haryana",
+      "prior_score": -7.551,
+      "prior_variance": 1.223399,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -5.6295,
+      "prior_variance": 1.169912,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -9.6463,
+      "prior_variance": 8.354214,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -0.4354,
+      "prior_variance": 1.288898,
+      "prior_n": 1
+    }
+  ]
+}

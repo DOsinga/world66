@@ -1,0 +1,200 @@
+{
+  "round": 720,
+  "timestamp": "2026-04-12T10:44:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_mu": 24.0619,
+      "prior_sigma": 5.0999,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_mu": 23.344,
+      "prior_sigma": 5.8968,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_mu": 22.5936,
+      "prior_sigma": 5.9089,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_mu": 22.4931,
+      "prior_sigma": 5.5189,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bucks County",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/amelia_island",
+      "prior_mu": 23.1067,
+      "prior_sigma": 4.4641,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_mu": 21.9651,
+      "prior_sigma": 4.503,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_mu": 21.8493,
+      "prior_sigma": 4.6748,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "New Mexico",
+      "path": "northamerica/unitedstates/newmexico",
+      "prior_mu": 27.5345,
+      "prior_sigma": 5.7191,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Wisconsin Dells",
+      "path": "northamerica/unitedstates/wisconsin/wisconsindells",
+      "prior_mu": 22.4044,
+      "prior_sigma": 5.7688,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_mu": 22.3964,
+      "prior_sigma": 5.8957,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_mu": 21.171,
+      "prior_sigma": 3.937,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/arcata",
+      "prior_mu": 20.8802,
+      "prior_sigma": 3.2409,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hampton",
+      "path": "northamerica/unitedstates/virginia/hampton",
+      "prior_mu": 22.0857,
+      "prior_sigma": 4.6764,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_mu": 21.9405,
+      "prior_sigma": 5.733,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_mu": 21.3805,
+      "prior_sigma": 4.6373,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_mu": 22.4592,
+      "prior_sigma": 5.558,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_mu": 21.6902,
+      "prior_sigma": 4.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_mu": 22.4749,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_mu": 18.0808,
+      "prior_sigma": 6.5259,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_mu": 22.4506,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    }
+  ]
+}

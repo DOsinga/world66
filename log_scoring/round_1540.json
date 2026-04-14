@@ -1,0 +1,200 @@
+{
+  "round": 1540,
+  "timestamp": "2026-04-13T10:29:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Flores",
+      "path": "asia/indonesia/flores",
+      "prior_score": 5.0889,
+      "prior_variance": 0.442414,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lombardia",
+      "path": "europe/italy/lombardia",
+      "prior_score": 1.0665,
+      "prior_variance": 0.687438,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 5.6308,
+      "prior_variance": 0.426596,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Spanish Costas",
+      "path": "europe/spain/spanishcostas",
+      "prior_score": 2.0971,
+      "prior_variance": 0.655441,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Caceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 3.7556,
+      "prior_variance": 0.344575,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Menton",
+      "path": "europe/france/midi/menton",
+      "prior_score": 6.1712,
+      "prior_variance": 0.422931,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 4.9425,
+      "prior_variance": 0.431882,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 5.7861,
+      "prior_variance": 0.32377,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kyrgyzstan",
+      "path": "asia/kyrgyzstan",
+      "prior_score": 3.9367,
+      "prior_variance": 0.403282,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 3.3366,
+      "prior_variance": 0.47028,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 4.4969,
+      "prior_variance": 0.338313,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 3.8603,
+      "prior_variance": 0.482649,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": 2.5346,
+      "prior_variance": 0.645218,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 4.7344,
+      "prior_variance": 0.39851,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Guernsey",
+      "path": "europe/channelislands/guernsey",
+      "prior_score": 4.0627,
+      "prior_variance": 0.406944,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
+      "prior_score": 4.3907,
+      "prior_variance": 0.38056,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bristol",
+      "prior_score": 3.8083,
+      "prior_variance": 0.359335,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tennessee",
+      "path": "northamerica/unitedstates/tennessee",
+      "prior_score": -0.4822,
+      "prior_variance": 0.318898,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Les eyzies",
+      "path": "europe/france/midi/aquitaine/leseyzies",
+      "prior_score": 4.595,
+      "prior_variance": 0.362752,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_kha",
+      "prior_score": 4.0114,
+      "prior_variance": 0.466324,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 0.902,
+      "prior_variance": 0.429233,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 3.4151,
+      "prior_variance": 0.462716,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.817,
+      "prior_variance": 0.524405,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 1.5931,
+      "prior_variance": 0.532413,
+      "prior_n": 4
+    }
+  ]
+}

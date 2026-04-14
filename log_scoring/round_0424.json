@@ -1,0 +1,200 @@
+{
+  "round": 424,
+  "timestamp": "2026-04-12T09:30:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/yucatan/rivieramaya",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/yucatan/cozumel",
+      "prior_mu": 25.6204,
+      "prior_sigma": 5.3587,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/yucatan/sanjosedelcabo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_mu": 22.6922,
+      "prior_sigma": 5.946,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_mu": 23.3162,
+      "prior_sigma": 5.5002,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_mu": 22.2441,
+      "prior_sigma": 5.7643,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_mu": 21.8716,
+      "prior_sigma": 4.536,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_mu": 22.712,
+      "prior_sigma": 5.9486,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_mu": 21.0144,
+      "prior_sigma": 3.4504,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/yucatan/ajijic",
+      "prior_mu": 22.4176,
+      "prior_sigma": 5.5478,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/yucatan/uruapan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Zacapu",
+      "path": "northamerica/mexico/yucatan/zacapu",
+      "prior_mu": 22.1428,
+      "prior_sigma": 5.76,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Anahuac",
+      "path": "northamerica/mexico/yucatan/anahuac",
+      "prior_mu": 18.0714,
+      "prior_sigma": 6.6985,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/yucatan/xalapa",
+      "prior_mu": 20.9225,
+      "prior_sigma": 3.1813,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_mu": 22.2588,
+      "prior_sigma": 5.7818,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pirules",
+      "path": "northamerica/mexico/pirules",
+      "prior_mu": 22.4445,
+      "prior_sigma": 5.5659,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Naulcapan",
+      "path": "northamerica/mexico/naulcapan",
+      "prior_mu": 22.9014,
+      "prior_sigma": 5.7257,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 875,
+  "timestamp": "2026-04-12T14:46:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 13.14,
+      "prior_variance": 2.44658,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 11.6644,
+      "prior_variance": 2.722537,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Las Palmas",
+      "path": "europe/spain/grancanaria/laspalmas",
+      "prior_score": 9.9709,
+      "prior_variance": 1.964894,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ebisu",
+      "path": "asia/japan/tokyo/ebisu",
+      "prior_score": -1.328,
+      "prior_variance": 3.865678,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Niue",
+      "path": "australiaandpacific/niue",
+      "prior_score": 1.0933,
+      "prior_variance": 1.642736,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 3.6272,
+      "prior_variance": 1.330439,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 3.0091,
+      "prior_variance": 1.358626,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 3.7515,
+      "prior_variance": 3.032779,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Guanica",
+      "path": "northamerica/puertorico/guanica",
+      "prior_score": 0.861,
+      "prior_variance": 0.652586,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 1.8426,
+      "prior_variance": 1.686542,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 5.2223,
+      "prior_variance": 1.185783,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 6.4746,
+      "prior_variance": 1.288227,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_score": 2.4475,
+      "prior_variance": 2.12142,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -0.0307,
+      "prior_variance": 1.320722,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -1.3735,
+      "prior_variance": 1.419297,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -1.6533,
+      "prior_variance": 1.228221,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -2.3147,
+      "prior_variance": 1.923422,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_score": -3.972,
+      "prior_variance": 1.434669,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -2.9097,
+      "prior_variance": 1.244701,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -2.0443,
+      "prior_variance": 1.439004,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -7.1823,
+      "prior_variance": 1.675953,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -7.356,
+      "prior_variance": 0.581739,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -7.9286,
+      "prior_variance": 0.90879,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Blair",
+      "path": "northamerica/unitedstates/nebraska/blair",
+      "prior_score": -10.3941,
+      "prior_variance": 8.950602,
+      "prior_n": 1
+    }
+  ]
+}

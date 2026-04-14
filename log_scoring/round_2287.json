@@ -1,0 +1,200 @@
+{
+  "round": 2287,
+  "timestamp": "2026-04-13T16:28:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_score": 10.7521,
+      "prior_variance": 0.450914,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Trogirska Riviera",
+      "path": "europe/croatia/trogirska_riviera",
+      "prior_score": 4.88,
+      "prior_variance": 0.266391,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 5.6752,
+      "prior_variance": 0.253722,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 3.1065,
+      "prior_variance": 0.334288,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lantau",
+      "path": "asia/china/hongkong/lantau",
+      "prior_score": 4.6467,
+      "prior_variance": 0.27964,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 3.4722,
+      "prior_variance": 0.226442,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tarragona",
+      "path": "europe/spain/catalonia/tarragona",
+      "prior_score": 5.5826,
+      "prior_variance": 0.224679,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 0.431,
+      "prior_variance": 0.266491,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 2.3077,
+      "prior_variance": 0.202652,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Uganda",
+      "path": "africa/uganda",
+      "prior_score": -4.0164,
+      "prior_variance": 0.424294,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 2.7951,
+      "prior_variance": 0.247097,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_score": -0.4659,
+      "prior_variance": 0.233677,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 0.3077,
+      "prior_variance": 0.288991,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.8182,
+      "prior_variance": 0.297192,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -3.1673,
+      "prior_variance": 0.34092,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 2.0547,
+      "prior_variance": 0.230802,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.7715,
+      "prior_variance": 0.343741,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 1.2573,
+      "prior_variance": 0.219828,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -0.9304,
+      "prior_variance": 0.221956,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -1.2056,
+      "prior_variance": 0.244266,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Warnemunde",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen/warnemunde",
+      "prior_score": 0.8215,
+      "prior_variance": 0.212798,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -2.0629,
+      "prior_variance": 0.218642,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -5.0293,
+      "prior_variance": 0.258932,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -2.5493,
+      "prior_variance": 0.234867,
+      "prior_n": 6
+    }
+  ]
+}

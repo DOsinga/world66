@@ -1,0 +1,200 @@
+{
+  "round": 1186,
+  "timestamp": "2026-04-12T22:14:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverp/preston",
+      "prior_rank": 6452,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/staffordshire",
+      "prior_rank": 7046,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/peterborough",
+      "prior_rank": 5657,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bury",
+      "path": "europe/unitedkingdom/england/bury",
+      "prior_rank": 7562,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_rank": 6428,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_rank": 6680,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_rank": 7029,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_rank": 7127,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_rank": 5477,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_rank": 6616,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_rank": 7438,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Hamden",
+      "path": "northamerica/unitedstates/connecticut/hamden",
+      "prior_rank": 6860,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_rank": 5734,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_rank": 4746,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Apizaco",
+      "path": "northamerica/mexico/apizaco",
+      "prior_rank": 6684,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_rank": 4324,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_rank": 7216,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_rank": 7469,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_rank": 7539,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_rank": 7254,
+      "prior_wins": 18,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "PODICHERRY",
+      "path": "asia/india/karnataka/bangalore/podicherry",
+      "prior_rank": 6876,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Morayfield",
+      "path": "australiaandpacific/australia/queensland/morayfield",
+      "prior_rank": 5129,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_rank": 7900,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_rank": 5307,
+      "prior_wins": 23,
+      "prior_n": 3
+    }
+  ]
+}

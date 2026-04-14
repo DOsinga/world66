@@ -1,0 +1,200 @@
+{
+  "round": 856,
+  "timestamp": "2026-04-12T14:45:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lago Maggiore",
+      "path": "europe/italy/lombardia/lagomaggiore",
+      "prior_score": 7.4118,
+      "prior_variance": 2.429063,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 9.9424,
+      "prior_variance": 10.069262,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Taiwan",
+      "path": "asia/taiwan",
+      "prior_score": 12.5453,
+      "prior_variance": 3.461378,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Uzbekistan",
+      "path": "asia/uzbekistan",
+      "prior_score": -1.5341,
+      "prior_variance": 1.324707,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_score": 2.7889,
+      "prior_variance": 1.669536,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 5.6893,
+      "prior_variance": 1.500775,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 5.1964,
+      "prior_variance": 1.403295,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": 3.6712,
+      "prior_variance": 1.254438,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 4.9503,
+      "prior_variance": 1.564864,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 2.0851,
+      "prior_variance": 1.545258,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": 0.829,
+      "prior_variance": 1.293349,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": -0.4859,
+      "prior_variance": 1.388795,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_score": -3.1282,
+      "prior_variance": 1.49345,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": 0.6767,
+      "prior_variance": 1.647567,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Manzshir hiid",
+      "path": "asia/mongolia/manzshirhiid",
+      "prior_score": 1.2785,
+      "prior_variance": 0.817835,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -5.6528,
+      "prior_variance": 1.397579,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_score": -5.9206,
+      "prior_variance": 1.85683,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -1.8699,
+      "prior_variance": 1.497942,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -5.7793,
+      "prior_variance": 1.269614,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -3.9482,
+      "prior_variance": 0.721232,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -4.6042,
+      "prior_variance": 1.429652,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -7.547,
+      "prior_variance": 1.993623,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -0.434,
+      "prior_variance": 1.166971,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -9.9093,
+      "prior_variance": 9.789753,
+      "prior_n": 1
+    }
+  ]
+}

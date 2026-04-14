@@ -1,0 +1,200 @@
+{
+  "round": 1130,
+  "timestamp": "2026-04-12T22:11:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lebanon",
+      "path": "asia/lebanon",
+      "prior_rank": 4062,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_rank": 2515,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Small Isles",
+      "path": "europe/unitedkingdom/scotland/small_isles",
+      "prior_rank": 4986,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_rank": 4546,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_rank": 5235,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Baja California",
+      "path": "northamerica/mexico/yucatan/bajacalifornia",
+      "prior_rank": 4752,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_rank": 4608,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "The Palouse",
+      "path": "northamerica/unitedstates/washington/the_palouse",
+      "prior_rank": 3205,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_rank": 3644,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_rank": 3053,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_rank": 3836,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_rank": 3487,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_rank": 5344,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_rank": 3648,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
+      "prior_rank": 1665,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_rank": 6377,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_rank": 4521,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_rank": 1021,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_rank": 4528,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Almansa",
+      "path": "europe/spain/la_mancha/almansa",
+      "prior_rank": 4987,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_rank": 2901,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_rank": 3881,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_rank": 4756,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_rank": 5428,
+      "prior_wins": 13,
+      "prior_n": 2
+    }
+  ]
+}

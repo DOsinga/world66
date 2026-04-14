@@ -1,0 +1,200 @@
+{
+  "round": 1152,
+  "timestamp": "2026-04-12T22:12:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_rank": 7970,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Espresso Country",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/espressocountry",
+      "prior_rank": 8158,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Reservoir",
+      "path": "australiaandpacific/australia/victoria/reservoir",
+      "prior_rank": 8127,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_rank": 8095,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Viveros de la Loma",
+      "path": "northamerica/mexico/viverosdelaloma",
+      "prior_rank": 7845,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_rank": 8150,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_rank": 8023,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "CqoEEEHbAlhJ",
+      "path": "europe/norway/kongsberg/cqoeeehbalhj",
+      "prior_rank": 8218,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_rank": 7925,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_rank": 8077,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Nkayi",
+      "path": "africa/congobrazzaville/nkayi",
+      "prior_rank": 7764,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_rank": 8075,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_rank": 8078,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/haiti/petite_riviere_de",
+      "prior_rank": 7573,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_rank": 8178,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_rank": 8037,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_rank": 8186,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_rank": 6805,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_rank": 6938,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Jamshaid awan",
+      "path": "asia/pakistan/abbottabad/jamshaid_awan",
+      "prior_rank": 8017,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kheshgi",
+      "path": "asia/pakistan/nowshera/kheshgi",
+      "prior_rank": 6436,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_rank": 6239,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "TAUNSA SHARIF",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif",
+      "prior_rank": 7282,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_rank": 8194,
+      "prior_wins": 2,
+      "prior_n": 3
+    }
+  ]
+}

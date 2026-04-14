@@ -1,0 +1,200 @@
+{
+  "round": 548,
+  "timestamp": "2026-04-12T10:37:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_mu": 24.3454,
+      "prior_sigma": 6.1073,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_mu": 23.19,
+      "prior_sigma": 5.9746,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_mu": 23.8289,
+      "prior_sigma": 5.8378,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_ta",
+      "prior_mu": 23.0303,
+      "prior_sigma": 5.6757,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_mu": 22.5474,
+      "prior_sigma": 5.9418,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Playa Brasilito",
+      "path": "northamerica/costarica/playabrasilito",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/nationalparks/cur_national_par",
+      "prior_mu": 22.7248,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_mu": 21.0718,
+      "prior_sigma": 2.9629,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_mu": 21.8777,
+      "prior_sigma": 4.7195,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Costa Rica",
+      "path": "northamerica/costarica",
+      "prior_mu": 32.254,
+      "prior_sigma": 2.9457,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Taxes",
+      "path": "northamerica/costarica/travelinformation/taxes",
+      "prior_mu": 21.3497,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Time Zone",
+      "path": "northamerica/costarica/travelinformation/timezone",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2191,
+  "timestamp": "2026-04-13T16:19:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_pa",
+      "prior_score": 8.3667,
+      "prior_variance": 0.406491,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "norway",
+      "path": "europe/norway/norway_1",
+      "prior_score": 0.4935,
+      "prior_variance": 0.49401,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 6.1231,
+      "prior_variance": 0.24359,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 4.8186,
+      "prior_variance": 0.285161,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 2.769,
+      "prior_variance": 0.206923,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 4.8724,
+      "prior_variance": 0.170453,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 3.8139,
+      "prior_variance": 0.241347,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 0.633,
+      "prior_variance": 0.232099,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": 0.7001,
+      "prior_variance": 0.208092,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.5887,
+      "prior_variance": 0.261908,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Anchorage",
+      "path": "northamerica/unitedstates/alaska/anchorage",
+      "prior_score": 2.9805,
+      "prior_variance": 0.25828,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": 0.0835,
+      "prior_variance": 0.238837,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -1.2617,
+      "prior_variance": 0.244201,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -1.7023,
+      "prior_variance": 0.275245,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/kapiti_coast/raumati_beach",
+      "prior_score": -1.789,
+      "prior_variance": 0.260222,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/doncaster",
+      "prior_score": -3.0905,
+      "prior_variance": 0.292215,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -3.8153,
+      "prior_variance": 0.310719,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -4.2273,
+      "prior_variance": 0.498433,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -3.5682,
+      "prior_variance": 0.398706,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -4.5129,
+      "prior_variance": 0.231544,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -3.2341,
+      "prior_variance": 0.295551,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Dombivli",
+      "path": "asia/india/maharashtra/dombivli",
+      "prior_score": -6.284,
+      "prior_variance": 0.295111,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Clifton",
+      "path": "northamerica/unitedstates/newjersey/clifton",
+      "prior_score": -5.2209,
+      "prior_variance": 0.309861,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -7.8428,
+      "prior_variance": 0.302084,
+      "prior_n": 6
+    }
+  ]
+}

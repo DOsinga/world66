@@ -1,0 +1,200 @@
+{
+  "round": 1197,
+  "timestamp": "2026-04-12T22:14:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_rank": 6128,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_rank": 4540,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_rank": 7325,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_rank": 6180,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_rank": 5034,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Arkansas",
+      "path": "northamerica/unitedstates/arkansas",
+      "prior_rank": 4644,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_rank": 5002,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_rank": 3119,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_rank": 6744,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "La desirade",
+      "path": "northamerica/guadeloupe/ladesirade",
+      "prior_rank": 6127,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_rank": 6441,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_rank": 3601,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_rank": 7214,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Aragatsotn Marz",
+      "path": "europe/armenia/aragatsotn_marz",
+      "prior_rank": 6679,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_rank": 6442,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_rank": 6130,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_rank": 6200,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_rank": 6267,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_rank": 6746,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_rank": 6798,
+      "prior_wins": 34,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_rank": 4213,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_rank": 4697,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_rank": 7413,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_rank": 5351,
+      "prior_wins": 19,
+      "prior_n": 3
+    }
+  ]
+}

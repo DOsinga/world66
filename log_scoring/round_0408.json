@@ -1,0 +1,200 @@
+{
+  "round": 408,
+  "timestamp": "2026-04-12T09:29:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hawaii",
+      "path": "northamerica/unitedstates/hawaii",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Central Coast",
+      "path": "northamerica/unitedstates/california/centralcoast",
+      "prior_mu": 22.7538,
+      "prior_sigma": 5.9536,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_mu": 22.3511,
+      "prior_sigma": 3.1837,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_mu": 22.1365,
+      "prior_sigma": 5.7587,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Baltimore",
+      "path": "northamerica/unitedstates/maryland/baltimore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Gold Country",
+      "path": "northamerica/unitedstates/california/goldcountry",
+      "prior_mu": 21.0546,
+      "prior_sigma": 2.8991,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_mu": 22.3391,
+      "prior_sigma": 5.8793,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Clarkdale",
+      "path": "northamerica/unitedstates/arizona/clarkdale",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_mu": 22.3811,
+      "prior_sigma": 5.8883,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Conway",
+      "path": "northamerica/unitedstates/arkansas/conway",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Pleasant Grove",
+      "path": "northamerica/unitedstates/utah/pleasantgrove",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Holyoke",
+      "path": "northamerica/unitedstates/massachusetts/holyoke",
+      "prior_mu": 21.6589,
+      "prior_sigma": 4.7345,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Wayne",
+      "path": "northamerica/unitedstates/newjersey/wayne",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_mu": 21.7741,
+      "prior_sigma": 4.6682,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_mu": 22.1515,
+      "prior_sigma": 5.7611,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Elko",
+      "path": "northamerica/unitedstates/nevada/elko",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2014,
+  "timestamp": "2026-04-13T16:03:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charlottenburg",
+      "path": "europe/germany/berlin/charlottenburg",
+      "prior_score": 4.4043,
+      "prior_variance": 0.267595,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 2.2819,
+      "prior_variance": 0.271282,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/casadecampo/la_romana",
+      "prior_score": 4.2156,
+      "prior_variance": 0.352047,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.8383,
+      "prior_variance": 0.256271,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Prizren",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
+      "prior_score": 2.6177,
+      "prior_variance": 0.289542,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.2487,
+      "prior_variance": 0.266606,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": 0.5047,
+      "prior_variance": 0.263664,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.1617,
+      "prior_variance": 0.257545,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": 0.2318,
+      "prior_variance": 0.310208,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -1.3405,
+      "prior_variance": 0.313246,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.7853,
+      "prior_variance": 0.243758,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -1.3884,
+      "prior_variance": 0.330055,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -4.4696,
+      "prior_variance": 0.270344,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -3.0143,
+      "prior_variance": 0.30423,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -0.9787,
+      "prior_variance": 0.248851,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_score": -2.249,
+      "prior_variance": 0.245623,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -2.1291,
+      "prior_variance": 0.224991,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.3058,
+      "prior_variance": 0.262571,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -2.7063,
+      "prior_variance": 0.235647,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -4.2348,
+      "prior_variance": 0.256063,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -3.9411,
+      "prior_variance": 0.286097,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "North Dakota",
+      "path": "northamerica/unitedstates/northdakota",
+      "prior_score": -4.3875,
+      "prior_variance": 0.29837,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_score": -5.9321,
+      "prior_variance": 0.351908,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -5.7568,
+      "prior_variance": 0.492118,
+      "prior_n": 6
+    }
+  ]
+}

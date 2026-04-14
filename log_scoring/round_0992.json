@@ -1,0 +1,200 @@
+{
+  "round": 992,
+  "timestamp": "2026-04-12T22:03:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Island",
+      "path": "australiaandpacific/newzealand/south_island",
+      "prior_rank": 26,
+      "prior_wins": 168,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Bhutan",
+      "path": "asia/bhutan",
+      "prior_rank": 932,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_rank": 631,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_rank": 45,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_rank": 90,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bali",
+      "path": "asia/indonesia/bali",
+      "prior_rank": 586,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/montana/yellowstone",
+      "prior_rank": 410,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Around Paris",
+      "path": "europe/france/around_paris",
+      "prior_rank": 17,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_rank": 72,
+      "prior_wins": 67,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_rank": 3,
+      "prior_wins": 136,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_rank": 1301,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_rank": 1452,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_rank": 151,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_rank": 1131,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_rank": 157,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_rank": 36,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_rank": 173,
+      "prior_wins": 22,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_rank": 42,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_rank": 305,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_rank": 710,
+      "prior_wins": 61,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_rank": 38,
+      "prior_wins": 45,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_rank": 183,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_rank": 250,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_rank": 165,
+      "prior_wins": 66,
+      "prior_n": 3
+    }
+  ]
+}

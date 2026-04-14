@@ -1,0 +1,200 @@
+{
+  "round": 306,
+  "timestamp": "2026-04-12T09:10:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_mu": 30.6945,
+      "prior_sigma": 6.9057,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Kardamili",
+      "path": "europe/greece/kardamili",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/windermere",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_mu": 22.7884,
+      "prior_sigma": 5.9559,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/albenga",
+      "prior_mu": 22.4127,
+      "prior_sigma": 5.5539,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_mu": 22.5313,
+      "prior_sigma": 5.9141,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Belgium",
+      "path": "europe/belgium",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_mu": 22.2508,
+      "prior_sigma": 5.7807,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Aregua",
+      "path": "southamerica/paraguay/aregua",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Carlow",
+      "path": "europe/ireland/carlow",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "La desirade",
+      "path": "northamerica/guadeloupe/ladesirade",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts/businesshours",
+      "prior_mu": 18.3281,
+      "prior_sigma": 6.7566,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Listing of countries using the Euro as their currency...",
+      "path": "travelwise/money/listing_of_countri",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

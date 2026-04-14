@@ -1,0 +1,200 @@
+{
+  "round": 2092,
+  "timestamp": "2026-04-13T16:10:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterosso",
+      "path": "europe/italy/liguria/thecinqueterre/monterosso",
+      "prior_score": 8.1244,
+      "prior_variance": 0.37622,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Leh",
+      "path": "asia/india/jammuandkashmir/ladakh/leh",
+      "prior_score": 8.3335,
+      "prior_variance": 0.483809,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.5688,
+      "prior_variance": 0.261152,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 6.0937,
+      "prior_variance": 0.394704,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 5.3346,
+      "prior_variance": 0.254432,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Drakensberg",
+      "path": "africa/southafrica/drakensberg",
+      "prior_score": 5.0657,
+      "prior_variance": 0.429876,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 4.5695,
+      "prior_variance": 0.305305,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/napier",
+      "prior_score": 3.9527,
+      "prior_variance": 0.262408,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_score": 2.19,
+      "prior_variance": 0.226011,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_score": 0.9532,
+      "prior_variance": 0.343095,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 1.2874,
+      "prior_variance": 0.279843,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": 0.6807,
+      "prior_variance": 0.171983,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 3.0552,
+      "prior_variance": 0.257149,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 1.0016,
+      "prior_variance": 0.25562,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "The Tweed",
+      "path": "australiaandpacific/australia/newsouthwales/the_tweed",
+      "prior_score": -0.0516,
+      "prior_variance": 0.258916,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 0.8244,
+      "prior_variance": 0.265776,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Junin de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": 0.3337,
+      "prior_variance": 0.216228,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 2.4387,
+      "prior_variance": 0.256074,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.4531,
+      "prior_variance": 0.267992,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.6141,
+      "prior_variance": 0.285773,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -1.6727,
+      "prior_variance": 0.242215,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
+      "prior_score": -6.5343,
+      "prior_variance": 0.281093,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/todmorden",
+      "prior_score": -1.9299,
+      "prior_variance": 0.281563,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_score": -6.1381,
+      "prior_variance": 0.356528,
+      "prior_n": 5
+    }
+  ]
+}

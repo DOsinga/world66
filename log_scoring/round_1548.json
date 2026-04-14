@@ -1,0 +1,200 @@
+{
+  "round": 1548,
+  "timestamp": "2026-04-13T10:30:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 8.1947,
+      "prior_variance": 0.435463,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_score": 1.6997,
+      "prior_variance": 0.454161,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 3.553,
+      "prior_variance": 0.232524,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hochpustertal",
+      "path": "europe/austria/hochpustertal",
+      "prior_score": 1.5186,
+      "prior_variance": 0.514366,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 3.2467,
+      "prior_variance": 0.414321,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 2.8894,
+      "prior_variance": 0.437552,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 1.4956,
+      "prior_variance": 0.597585,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Aragon",
+      "path": "europe/spain/aragon",
+      "prior_score": 3.5397,
+      "prior_variance": 0.441518,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 1.5642,
+      "prior_variance": 0.450276,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 1.1676,
+      "prior_variance": 0.507616,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tamil Nadu",
+      "path": "asia/india/tamilnadu",
+      "prior_score": -0.9682,
+      "prior_variance": 0.476949,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 2.304,
+      "prior_variance": 0.432518,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": 1.2135,
+      "prior_variance": 0.41378,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -2.9278,
+      "prior_variance": 0.418449,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.2646,
+      "prior_variance": 0.440495,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jacmel",
+      "path": "northamerica/haiti/jacmel",
+      "prior_score": -3.7004,
+      "prior_variance": 0.488399,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/northampton",
+      "prior_score": -1.8169,
+      "prior_variance": 0.405011,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/longreach",
+      "prior_score": -1.2708,
+      "prior_variance": 0.45399,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -4.7441,
+      "prior_variance": 0.477774,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -4.7948,
+      "prior_variance": 0.467977,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.1028,
+      "prior_variance": 0.453208,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Wrzesnia",
+      "path": "europe/poland/wrzesnia",
+      "prior_score": -4.7252,
+      "prior_variance": 0.327871,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -4.1723,
+      "prior_variance": 0.406351,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -4.9819,
+      "prior_variance": 0.348564,
+      "prior_n": 5
+    }
+  ]
+}

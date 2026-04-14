@@ -1,0 +1,200 @@
+{
+  "round": 799,
+  "timestamp": "2026-04-12T10:48:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_mu": 24.2638,
+      "prior_sigma": 5.3788,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_mu": 31.6,
+      "prior_sigma": 6.3033,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bristol, Plymouth and the South-West",
+      "path": "europe/unitedkingdom/england/bristol_plymouth",
+      "prior_mu": 25.6522,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_mu": 22.1434,
+      "prior_sigma": 4.5578,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_mu": 21.843,
+      "prior_sigma": 4.4542,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_mu": 22.0358,
+      "prior_sigma": 4.8274,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_mu": 22.9689,
+      "prior_sigma": 5.3106,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_mu": 21.5803,
+      "prior_sigma": 3.7712,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Esperance",
+      "path": "australiaandpacific/australia/westernaustralia/esperance",
+      "prior_mu": 21.0372,
+      "prior_sigma": 3.3343,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_mu": 22.3174,
+      "prior_sigma": 5.4691,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_mu": 21.5046,
+      "prior_sigma": 4.4917,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kutch",
+      "path": "asia/india/gujarat/kutch",
+      "prior_mu": 23.3079,
+      "prior_sigma": 5.6522,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Matanzas",
+      "path": "northamerica/cuba/matanzas",
+      "prior_mu": 21.5168,
+      "prior_sigma": 3.803,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Deserts",
+      "path": "northamerica/unitedstates/california/deserts",
+      "prior_mu": 21.8399,
+      "prior_sigma": 4.8151,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Konkan",
+      "path": "asia/india/maharashtra/konkan",
+      "prior_mu": 22.4225,
+      "prior_sigma": 5.3347,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_mu": 21.7052,
+      "prior_sigma": 4.5757,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_mu": 22.4096,
+      "prior_sigma": 5.5271,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Palagru\u017ea",
+      "path": "europe/croatia/korcula/palagruza_island",
+      "prior_mu": 21.1563,
+      "prior_sigma": 3.4452,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Marabella",
+      "path": "northamerica/trinidadandtobago/marabella",
+      "prior_mu": 22.4146,
+      "prior_sigma": 5.7742,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to",
+      "prior_mu": 20.7169,
+      "prior_sigma": 2.9428,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "lonsdale",
+      "path": "australiaandpacific/australia/southaustralia/adelaide/lonsdale",
+      "prior_mu": 21.4188,
+      "prior_sigma": 4.7891,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_mu": 23.4148,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_mu": 18.7879,
+      "prior_sigma": 4.6705,
+      "prior_n": 2
+    }
+  ]
+}

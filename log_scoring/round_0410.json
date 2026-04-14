@@ -1,0 +1,200 @@
+{
+  "round": 410,
+  "timestamp": "2026-04-12T09:29:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_mu": 25.6478,
+      "prior_sigma": 6.0557,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_mu": 28.2208,
+      "prior_sigma": 5.5046,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_mu": 24.284,
+      "prior_sigma": 5.0544,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Sicily",
+      "path": "europe/italy/sicily",
+      "prior_mu": 31.6788,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_mu": 23.4366,
+      "prior_sigma": 5.6464,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_mu": 22.7152,
+      "prior_sigma": 5.5593,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_mu": 22.9095,
+      "prior_sigma": 5.9719,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_mu": 22.6068,
+      "prior_sigma": 5.9341,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_mu": 21.8982,
+      "prior_sigma": 4.8324,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_mu": 21.8088,
+      "prior_sigma": 4.6152,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_mu": 22.7774,
+      "prior_sigma": 5.9565,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_mu": 22.8797,
+      "prior_sigma": 5.6748,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

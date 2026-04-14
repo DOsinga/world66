@@ -1,0 +1,200 @@
+{
+  "round": 1380,
+  "timestamp": "2026-04-12T22:24:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_rank": 7299,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_rank": 7463,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vengurle",
+      "path": "asia/india/maharashtra/konkan/vengurle",
+      "prior_rank": 6636,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Debe",
+      "path": "northamerica/trinidadandtobago/debe",
+      "prior_rank": 7110,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_rank": 7668,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_rank": 7478,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Warrens",
+      "path": "northamerica/unitedstates/wisconsin/warrens",
+      "prior_rank": 7775,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_rank": 7763,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_rank": 7756,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_rank": 8030,
+      "prior_wins": 10,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_rank": 6717,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_rank": 8052,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_rank": 5833,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/doncaster",
+      "prior_rank": 7727,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_rank": 7843,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_rank": 7538,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_rank": 8119,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_rank": 5486,
+      "prior_wins": 32,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_rank": 7752,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "adagav",
+      "path": "asia/india/maharashtra/konkan/adagav",
+      "prior_rank": 8143,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_rank": 7479,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_rank": 7956,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_rank": 8141,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Jhook Masoo",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/jhook_masoo",
+      "prior_rank": 8175,
+      "prior_wins": 7,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 796,
+  "timestamp": "2026-04-12T10:48:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_mu": 26.5995,
+      "prior_sigma": 6.3881,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Rangiroa",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa",
+      "prior_mu": 24.395,
+      "prior_sigma": 5.9438,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Turkey",
+      "path": "asia/turkey",
+      "prior_mu": 21.9802,
+      "prior_sigma": 4.7399,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_mu": 27.3867,
+      "prior_sigma": 4.8723,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_mu": 24.5466,
+      "prior_sigma": 4.1378,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_mu": 22.8946,
+      "prior_sigma": 4.8364,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_mu": 22.0185,
+      "prior_sigma": 4.6834,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_mu": 21.9329,
+      "prior_sigma": 4.4163,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_mu": 22.4176,
+      "prior_sigma": 4.8347,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_mu": 21.2572,
+      "prior_sigma": 3.6725,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_mu": 22.2404,
+      "prior_sigma": 5.9666,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
+      "prior_mu": 21.7061,
+      "prior_sigma": 4.6861,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_mu": 22.3724,
+      "prior_sigma": 5.9054,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Simeiz",
+      "path": "europe/ukraine/crimea/simeiz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_mu": 21.3635,
+      "prior_sigma": 4.3861,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bowen",
+      "path": "australiaandpacific/australia/newsouthwales/bowen",
+      "prior_mu": 22.3098,
+      "prior_sigma": 5.5127,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Temara",
+      "path": "africa/morocco/rabat/temara",
+      "prior_mu": 21.813,
+      "prior_sigma": 5.6163,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_mu": 21.8717,
+      "prior_sigma": 5.7292,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Western Kenya",
+      "path": "africa/kenya/westernkenya",
+      "prior_mu": 21.2649,
+      "prior_sigma": 4.5234,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "El Progreso",
+      "path": "northamerica/honduras/elprogreso",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Port-au-Prince",
+      "path": "northamerica/haiti/portauprince",
+      "prior_mu": 22.704,
+      "prior_sigma": 5.6593,
+      "prior_n": 1
+    }
+  ]
+}

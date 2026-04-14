@@ -1,0 +1,200 @@
+{
+  "round": 1314,
+  "timestamp": "2026-04-12T22:21:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_rank": 1113,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_rank": 1334,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_rank": 487,
+      "prior_wins": 78,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_rank": 1601,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Southeast Tasmania",
+      "path": "australiaandpacific/australia/tasmania/southeast",
+      "prior_rank": 2719,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_rank": 609,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_riv",
+      "prior_rank": 1531,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Palm Springs Area",
+      "path": "northamerica/unitedstates/california/deserts/palmspringsarea",
+      "prior_rank": 3970,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
+      "prior_rank": 1079,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_rank": 859,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Isola di San Pietro",
+      "path": "europe/italy/sardinia/isoladisanpietro",
+      "prior_rank": 3098,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_rank": 1305,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_rank": 2527,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_rank": 2536,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_rank": 2156,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_rank": 1250,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_rank": 3432,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_rank": 2398,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_rank": 2297,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/grasmere",
+      "prior_rank": 768,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
+      "prior_rank": 1089,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_rank": 3868,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_rank": 5487,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_rank": 2479,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

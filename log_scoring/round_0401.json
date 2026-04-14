@@ -1,0 +1,200 @@
+{
+  "round": 401,
+  "timestamp": "2026-04-12T09:29:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_mu": 24.2105,
+      "prior_sigma": 5.6009,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sabah",
+      "path": "asia/malaysia/sabah",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Redang",
+      "path": "asia/malaysia/redang",
+      "prior_mu": 22.1151,
+      "prior_sigma": 5.7561,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tioman Island",
+      "path": "asia/malaysia/tiomanisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_mu": 22.6509,
+      "prior_sigma": 5.8244,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_mu": 22.4884,
+      "prior_sigma": 5.9064,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_mu": 22.7312,
+      "prior_sigma": 5.9509,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cherating",
+      "path": "asia/malaysia/kuantan/cherating",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Kelantan",
+      "path": "asia/malaysia/kelantan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Batang Kali",
+      "path": "asia/malaysia/batangkali",
+      "prior_mu": 22.6302,
+      "prior_sigma": 5.9373,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_mu": 22.7227,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

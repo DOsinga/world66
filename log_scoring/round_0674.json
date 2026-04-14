@@ -1,0 +1,200 @@
+{
+  "round": 674,
+  "timestamp": "2026-04-12T10:42:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Morocco",
+      "path": "africa/morocco",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_mu": 23.7315,
+      "prior_sigma": 5.8319,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_mu": 22.8026,
+      "prior_sigma": 4.7269,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dades Valley",
+      "path": "africa/morocco/dadesvalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_mu": 22.9224,
+      "prior_sigma": 5.6939,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_mu": 22.4961,
+      "prior_sigma": 5.9559,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_mu": 22.9403,
+      "prior_sigma": 5.985,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_mu": 22.9585,
+      "prior_sigma": 5.7226,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_mu": 21.9427,
+      "prior_sigma": 4.8322,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislan",
+      "prior_mu": 22.6816,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_mu": 22.5407,
+      "prior_sigma": 5.5445,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_mu": 21.8572,
+      "prior_sigma": 4.7286,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_mu": 22.6974,
+      "prior_sigma": 5.9449,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Settat",
+      "path": "africa/morocco/settat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

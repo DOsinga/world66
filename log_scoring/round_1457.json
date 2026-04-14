@@ -1,0 +1,200 @@
+{
+  "round": 1457,
+  "timestamp": "2026-04-12T22:28:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangladesh",
+      "path": "asia/bangladesh",
+      "prior_rank": 6772,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Puebla",
+      "path": "northamerica/mexico/yucatan/puebla",
+      "prior_rank": 6911,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_rank": 7458,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Paranuaque",
+      "path": "asia/philippines/manila/paranuaque",
+      "prior_rank": 7440,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_rank": 6595,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_rank": 8121,
+      "prior_wins": 19,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_rank": 8032,
+      "prior_wins": 21,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/newyorkstate/middletown",
+      "prior_rank": 7692,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_rank": 6590,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_rank": 7652,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_rank": 7665,
+      "prior_wins": 17,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_rank": 6762,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_rank": 6858,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_rank": 7450,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_rank": 7275,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/gillingham",
+      "prior_rank": 7807,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_rank": 5896,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ferizaj",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/ferizaj",
+      "prior_rank": 6883,
+      "prior_wins": 24,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mallakast\u00ebr",
+      "path": "europe/albania/mallakaster",
+      "prior_rank": 7273,
+      "prior_wins": 22,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Shirak Marz",
+      "path": "europe/armenia/shirak_marz",
+      "prior_rank": 6521,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_rank": 6920,
+      "prior_wins": 25,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_rank": 7501,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_rank": 6909,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_rank": 6960,
+      "prior_wins": 25,
+      "prior_n": 4
+    }
+  ]
+}

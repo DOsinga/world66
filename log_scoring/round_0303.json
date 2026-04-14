@@ -1,0 +1,200 @@
+{
+  "round": 303,
+  "timestamp": "2026-04-12T09:10:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denmark",
+      "path": "europe/denmark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_mu": 22.0038,
+      "prior_sigma": 4.8439,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_mu": 23.2291,
+      "prior_sigma": 5.7709,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Margarita Island",
+      "path": "southamerica/venezuela/margaritaisland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Baja California",
+      "path": "northamerica/mexico/bajacalifornia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Kassel",
+      "path": "europe/germany/hesse/kassel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Telemark",
+      "path": "europe/norway/telemark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsu",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Rakitnica Canyon",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
+      "prior_mu": 22.1497,
+      "prior_sigma": 5.762,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Paramus",
+      "path": "northamerica/unitedstates/newjersey/paramus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "sehnsa",
+      "path": "asia/pakistan/azad_kashmir/sehnsa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

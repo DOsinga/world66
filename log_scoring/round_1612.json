@@ -1,0 +1,200 @@
+{
+  "round": 1612,
+  "timestamp": "2026-04-13T10:35:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 5.1627,
+      "prior_variance": 0.333461,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.0007,
+      "prior_variance": 0.415005,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": 0.1933,
+      "prior_variance": 0.43191,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 5.1763,
+      "prior_variance": 0.529469,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -0.9777,
+      "prior_variance": 0.308861,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": 0.2728,
+      "prior_variance": 0.431314,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -3.2185,
+      "prior_variance": 0.426115,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.4064,
+      "prior_variance": 0.379955,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_score": 0.0365,
+      "prior_variance": 0.392248,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 0.0395,
+      "prior_variance": 0.313772,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.6045,
+      "prior_variance": 0.48591,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.7044,
+      "prior_variance": 0.31947,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.8141,
+      "prior_variance": 0.320118,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "kolhapur",
+      "path": "asia/india/maharashtra/konkan/kolhapur",
+      "prior_score": -1.3513,
+      "prior_variance": 0.341373,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -2.109,
+      "prior_variance": 0.312291,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/hull",
+      "prior_score": -2.2618,
+      "prior_variance": 0.311938,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/hitchin",
+      "prior_score": -2.695,
+      "prior_variance": 0.390433,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire/wolverhampton",
+      "prior_score": -4.6894,
+      "prior_variance": 0.323093,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Viersen",
+      "path": "europe/germany/northrhinewestphalia/viersen",
+      "prior_score": -3.3744,
+      "prior_variance": 0.490906,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mozambique",
+      "path": "africa/mozambique",
+      "prior_score": -1.9698,
+      "prior_variance": 0.413888,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Lubon",
+      "path": "europe/poland/lubon",
+      "prior_score": -6.7787,
+      "prior_variance": 0.419243,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -6.4833,
+      "prior_variance": 0.537851,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_score": -5.9155,
+      "prior_variance": 0.425307,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -6.5174,
+      "prior_variance": 0.618168,
+      "prior_n": 4
+    }
+  ]
+}

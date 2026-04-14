@@ -1,0 +1,200 @@
+{
+  "round": 1072,
+  "timestamp": "2026-04-12T22:07:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_rank": 7852,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_rank": 6870,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_rank": 6449,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_rank": 6796,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_rank": 6558,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_rank": 6467,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_rank": 7146,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Khushab (Valley Soon Sakesar)",
+      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_1/khushab_valley_so",
+      "prior_rank": 7670,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_rank": 7058,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_rank": 7857,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
+      "prior_rank": 7003,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_rank": 6237,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_rank": 7516,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_rank": 5501,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Marion",
+      "path": "australiaandpacific/australia/southaustralia/marion",
+      "prior_rank": 7182,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ventnor",
+      "path": "northamerica/unitedstates/newjersey/ventnor",
+      "prior_rank": 7338,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Upper Montclair",
+      "path": "northamerica/unitedstates/newjersey/uppermontclair",
+      "prior_rank": 7718,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Chigwell",
+      "path": "europe/unitedkingdom/england/eastern_england/chigwell",
+      "prior_rank": 7875,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_rank": 7152,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_rank": 7104,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_rank": 7859,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_rank": 8027,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
+      "prior_rank": 7404,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pemberton",
+      "path": "europe/unitedkingdom/england/pemberton",
+      "prior_rank": 8113,
+      "prior_wins": 2,
+      "prior_n": 2
+    }
+  ]
+}

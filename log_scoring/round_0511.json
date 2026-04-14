@@ -1,0 +1,200 @@
+{
+  "round": 511,
+  "timestamp": "2026-04-12T09:43:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_mu": 24.8122,
+      "prior_sigma": 4.6312,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling_islan/midsland",
+      "prior_mu": 21.5577,
+      "prior_sigma": 3.8467,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_mu": 21.4299,
+      "prior_sigma": 4.6224,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_mu": 21.4337,
+      "prior_sigma": 3.8822,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_mu": 21.1583,
+      "prior_sigma": 3.4667,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_mu": 21.1367,
+      "prior_sigma": 4.5766,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_mu": 21.3855,
+      "prior_sigma": 4.2747,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_mu": 21.4122,
+      "prior_sigma": 3.9568,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_mu": 21.1268,
+      "prior_sigma": 3.7759,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_mu": 20.9852,
+      "prior_sigma": 3.7454,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_mu": 21.1621,
+      "prior_sigma": 3.9908,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_mu": 21.7362,
+      "prior_sigma": 4.3712,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_mu": 21.2307,
+      "prior_sigma": 4.4791,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_mu": 22.6765,
+      "prior_sigma": 5.939,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_mu": 22.425,
+      "prior_sigma": 5.9456,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_mu": 21.6533,
+      "prior_sigma": 4.2765,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_mu": 21.6546,
+      "prior_sigma": 4.5531,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Voorburg",
+      "path": "europe/netherlands/voorburg",
+      "prior_mu": 20.9065,
+      "prior_sigma": 3.8265,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_mu": 21.1823,
+      "prior_sigma": 3.8514,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Meppel",
+      "path": "europe/netherlands/meppel",
+      "prior_mu": 21.7282,
+      "prior_sigma": 4.5851,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_mu": 21.919,
+      "prior_sigma": 4.3273,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_mu": 21.9041,
+      "prior_sigma": 4.3697,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kielwindeweer",
+      "path": "europe/netherlands/kielwindeweer",
+      "prior_mu": 17.4973,
+      "prior_sigma": 6.6202,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tjuchum",
+      "path": "europe/netherlands/tjuchum",
+      "prior_mu": 17.0113,
+      "prior_sigma": 3.6391,
+      "prior_n": 4
+    }
+  ]
+}

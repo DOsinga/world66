@@ -1,0 +1,200 @@
+{
+  "round": 1501,
+  "timestamp": "2026-04-13T10:26:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marrakech",
+      "path": "africa/morocco/marrakech",
+      "prior_score": 9.5339,
+      "prior_variance": 0.604437,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Yunnan Province",
+      "path": "asia/china/yunnanprovince",
+      "prior_score": 7.4577,
+      "prior_variance": 0.546207,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kowloon",
+      "path": "asia/china/hongkong/kowloon",
+      "prior_score": 7.0854,
+      "prior_variance": 0.505435,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 7.1047,
+      "prior_variance": 0.485982,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 7.9968,
+      "prior_variance": 0.592855,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kotor",
+      "path": "europe/serbiaandmontenegro/kotor",
+      "prior_score": 6.7046,
+      "prior_variance": 0.275488,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 8.055,
+      "prior_variance": 0.559538,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bondi Beach",
+      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
+      "prior_score": 8.5117,
+      "prior_variance": 0.375404,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Miljet Island",
+      "path": "europe/croatia/miljet_island",
+      "prior_score": 6.3004,
+      "prior_variance": 0.464605,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 6.2794,
+      "prior_variance": 0.537874,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 8.0413,
+      "prior_variance": 0.493778,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vagar",
+      "path": "europe/faroeislands/vagar",
+      "prior_score": 5.2439,
+      "prior_variance": 0.765872,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 8.5925,
+      "prior_variance": 0.432329,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 7.1973,
+      "prior_variance": 0.72982,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Merida",
+      "path": "northamerica/mexico/yucatan/merida",
+      "prior_score": 7.4127,
+      "prior_variance": 0.462478,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_score": 5.4909,
+      "prior_variance": 0.518288,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 5.2265,
+      "prior_variance": 0.688427,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 6.7185,
+      "prior_variance": 0.562129,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 6.7536,
+      "prior_variance": 0.604417,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tsavo N.P.",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp",
+      "prior_score": 5.9349,
+      "prior_variance": 0.675667,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 7.0629,
+      "prior_variance": 0.656188,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_score": 7.7029,
+      "prior_variance": 0.926179,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 2.1944,
+      "prior_variance": 0.532067,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_score": 6.6949,
+      "prior_variance": 0.918847,
+      "prior_n": 3
+    }
+  ]
+}

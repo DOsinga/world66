@@ -1,0 +1,200 @@
+{
+  "round": 1010,
+  "timestamp": "2026-04-12T22:04:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/vancouver/newwestminster",
+      "prior_rank": 6806,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
+      "prior_rank": 7377,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/huddersfield",
+      "prior_rank": 7544,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_rank": 7400,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kansas",
+      "path": "northamerica/unitedstates/kansas",
+      "prior_rank": 7019,
+      "prior_wins": 4,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Arkansas",
+      "path": "northamerica/unitedstates/arkansas",
+      "prior_rank": 6074,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_rank": 6996,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_rank": 6656,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_rank": 6844,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_rank": 7935,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_rank": 6520,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_rank": 6642,
+      "prior_wins": 5,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_rank": 6657,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_rank": 4324,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_rank": 7984,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_rank": 7199,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_rank": 5923,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "dang ghorahi",
+      "path": "asia/nepal/dang_ghorahi",
+      "prior_rank": 7583,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_rank": 7414,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Escalante City",
+      "path": "asia/philippines/escalante_city",
+      "prior_rank": 7401,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Milton",
+      "path": "northamerica/canada/ontario/milton",
+      "prior_rank": 5843,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_rank": 6314,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mustafabad",
+      "path": "asia/pakistan/soon_valley/mustafabad",
+      "prior_rank": 8095,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_rank": 6595,
+      "prior_wins": 7,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1252,
+  "timestamp": "2026-04-12T22:17:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/northland/te_paki_stream",
+      "prior_rank": 1666,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_rank": 2138,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_rank": 924,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_rank": 2073,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_rank": 3732,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_rank": 2566,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_rank": 2379,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_rank": 2583,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_rank": 4340,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Leyte island",
+      "path": "asia/philippines/leyteisland",
+      "prior_rank": 2095,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Space Coast Area",
+      "path": "northamerica/unitedstates/florida/spacecoastarea",
+      "prior_rank": 1897,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_rank": 2488,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_rank": 1928,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_rank": 2365,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_rank": 3901,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_rank": 3955,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_rank": 4159,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_rank": 3334,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Odisha",
+      "path": "asia/india/orissa",
+      "prior_rank": 4841,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_rank": 4428,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cherating",
+      "path": "asia/malaysia/kuantan/cherating",
+      "prior_rank": 4250,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hessen",
+      "path": "europe/germany/hessen",
+      "prior_rank": 4160,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lebanon",
+      "path": "asia/lebanon",
+      "prior_rank": 2177,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_rank": 2577,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

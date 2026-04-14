@@ -1,0 +1,200 @@
+{
+  "round": 356,
+  "timestamp": "2026-04-12T09:13:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/yucatan/cozumel",
+      "prior_mu": 22.9496,
+      "prior_sigma": 5.8719,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cyprus",
+      "path": "asia/cyprus",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Namibia",
+      "path": "africa/namibia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durangocolorado",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "New Brunswick",
+      "path": "northamerica/canada/newbrunswick",
+      "prior_mu": 21.5604,
+      "prior_sigma": 4.6311,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_mu": 22.8757,
+      "prior_sigma": 5.7265,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_mu": 21.7775,
+      "prior_sigma": 4.8121,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Marion",
+      "path": "australiaandpacific/australia/southaustralia/marion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_mu": 22.1647,
+      "prior_sigma": 5.7688,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Williamstown",
+      "path": "northamerica/unitedstates/newjersey/williamstown",
+      "prior_mu": 22.6873,
+      "prior_sigma": 5.9454,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Casselberry",
+      "path": "northamerica/unitedstates/florida/casselberry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_mu": 22.6456,
+      "prior_sigma": 5.6923,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

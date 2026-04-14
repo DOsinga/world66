@@ -1,0 +1,200 @@
+{
+  "round": 2121,
+  "timestamp": "2026-04-13T16:12:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_score": 8.9756,
+      "prior_variance": 0.425662,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Luigi , al di la del",
+      "path": "europe/italy/liguria/rivieradellepalme/albenga/luigi__al_di_la_d",
+      "prior_score": -4.5468,
+      "prior_variance": 0.807815,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -0.2672,
+      "prior_variance": 0.268861,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.0447,
+      "prior_variance": 0.323868,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -1.4444,
+      "prior_variance": 0.226509,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.8161,
+      "prior_variance": 0.369913,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -4.3511,
+      "prior_variance": 0.253492,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Paramus",
+      "path": "northamerica/unitedstates/newjersey/paramus",
+      "prior_score": -5.5709,
+      "prior_variance": 0.31474,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -2.4992,
+      "prior_variance": 0.298118,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/west_bromwich",
+      "prior_score": -5.9238,
+      "prior_variance": 0.347256,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -4.2422,
+      "prior_variance": 0.414097,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -5.5061,
+      "prior_variance": 0.32098,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -6.4334,
+      "prior_variance": 0.415632,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -5.4632,
+      "prior_variance": 0.281695,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -4.8006,
+      "prior_variance": 0.296453,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_score": -5.3182,
+      "prior_variance": 0.259106,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Yemkeshwar Malla Banas",
+      "path": "asia/india/uttaranchal/yemkeshwar_malla_b",
+      "prior_score": -5.5003,
+      "prior_variance": 0.413112,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -4.7103,
+      "prior_variance": 0.253083,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -6.4276,
+      "prior_variance": 0.29872,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Iraq",
+      "path": "asia/iraq",
+      "prior_score": -8.7628,
+      "prior_variance": 0.492731,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Las Anod",
+      "path": "africa/somalia/lasanod",
+      "prior_score": -10.821,
+      "prior_variance": 0.519601,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -7.025,
+      "prior_variance": 0.340688,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -6.6062,
+      "prior_variance": 0.336646,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "pakistan",
+      "path": "asia/pakistan/sargodha/pakistan",
+      "prior_score": -8.4534,
+      "prior_variance": 0.348265,
+      "prior_n": 5
+    }
+  ]
+}

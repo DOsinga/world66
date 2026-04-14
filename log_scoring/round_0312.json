@@ -1,0 +1,200 @@
+{
+  "round": 312,
+  "timestamp": "2026-04-12T09:11:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "S\u00e3o Miguel",
+      "path": "europe/portugal/theazores/so_miguel",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/otago/wanaka",
+      "prior_mu": 25.0779,
+      "prior_sigma": 6.0804,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Ueno",
+      "path": "asia/japan/tokyo/ueno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_mu": 22.7104,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_mu": 22.632,
+      "prior_sigma": 5.9264,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Outer Banks",
+      "path": "northamerica/unitedstates/northcarolina/outerbanks",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_mu": 22.9113,
+      "prior_sigma": 5.7268,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_mu": 22.861,
+      "prior_sigma": 5.9669,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_mu": 22.4714,
+      "prior_sigma": 5.9059,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Oklahoma",
+      "path": "northamerica/unitedstates/oklahoma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Gembloux",
+      "path": "europe/belgium/gembloux",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Clarence",
+      "path": "northamerica/unitedstates/newyorkstate/clarence",
+      "prior_mu": 22.71,
+      "prior_sigma": 5.9483,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_mu": 22.7165,
+      "prior_sigma": 5.9491,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Belarus",
+      "path": "europe/belarus",
+      "prior_mu": 22.6222,
+      "prior_sigma": 5.9363,
+      "prior_n": 1
+    }
+  ]
+}

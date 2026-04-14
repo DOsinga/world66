@@ -1,0 +1,200 @@
+{
+  "round": 1976,
+  "timestamp": "2026-04-13T15:59:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spain",
+      "path": "europe/spain",
+      "prior_score": -0.4507,
+      "prior_variance": 0.420672,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Liguria",
+      "path": "europe/italy/liguria",
+      "prior_score": 5.7854,
+      "prior_variance": 0.306378,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 6.7072,
+      "prior_variance": 0.355616,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_score": 2.9535,
+      "prior_variance": 0.239111,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 3.3344,
+      "prior_variance": 0.264416,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 4.7536,
+      "prior_variance": 0.277378,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 2.5796,
+      "prior_variance": 0.273269,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/calistoga",
+      "prior_score": 1.7677,
+      "prior_variance": 0.2755,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/sandiego/carlsbad",
+      "prior_score": 0.6418,
+      "prior_variance": 0.347246,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 3.6482,
+      "prior_variance": 0.282516,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/swanage",
+      "prior_score": 0.7113,
+      "prior_variance": 0.299217,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.8573,
+      "prior_variance": 0.150191,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/newyorkstate/astoria",
+      "prior_score": -1.9597,
+      "prior_variance": 0.310858,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -1.3517,
+      "prior_variance": 0.308395,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -2.8731,
+      "prior_variance": 0.296233,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.2957,
+      "prior_variance": 0.330966,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -1.7428,
+      "prior_variance": 0.321432,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -2.1414,
+      "prior_variance": 0.282165,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/yucatan/xalapa",
+      "prior_score": -2.336,
+      "prior_variance": 0.287392,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -1.661,
+      "prior_variance": 0.284925,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -1.6206,
+      "prior_variance": 0.220201,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -4.9682,
+      "prior_variance": 0.261199,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -5.4768,
+      "prior_variance": 0.277723,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "CHANDAN N BHANDARI",
+      "path": "asia/india/uttaranchal/chandan_n_bhandari",
+      "prior_score": -15.1253,
+      "prior_variance": 0.705645,
+      "prior_n": 5
+    }
+  ]
+}

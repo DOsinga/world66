@@ -1,0 +1,200 @@
+{
+  "round": 1414,
+  "timestamp": "2026-04-12T22:26:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honshu",
+      "path": "asia/japan/honshu",
+      "prior_rank": 87,
+      "prior_wins": 138,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_rank": 989,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Egypt",
+      "path": "africa/egypt",
+      "prior_rank": 59,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Jordan",
+      "path": "asia/jordan",
+      "prior_rank": 287,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_rank": 128,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_rank": 66,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_rank": 361,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago",
+      "prior_rank": 210,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_rank": 407,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_rank": 1137,
+      "prior_wins": 69,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_rank": 1648,
+      "prior_wins": 80,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_rank": 75,
+      "prior_wins": 86,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_rank": 1385,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_rank": 389,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_rank": 100,
+      "prior_wins": 127,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_rank": 213,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_rank": 126,
+      "prior_wins": 63,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Virgin Islands",
+      "path": "northamerica/virginislands",
+      "prior_rank": 806,
+      "prior_wins": 73,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Martinique",
+      "path": "northamerica/thecaribbean/martinique",
+      "prior_rank": 121,
+      "prior_wins": 127,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_rank": 400,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_rank": 410,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Central Otago",
+      "path": "australiaandpacific/newzealand/south_island/otago/central_otago",
+      "prior_rank": 234,
+      "prior_wins": 81,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Estes Park",
+      "path": "northamerica/unitedstates/colorado/estespark",
+      "prior_rank": 2507,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_rank": 208,
+      "prior_wins": 62,
+      "prior_n": 3
+    }
+  ]
+}

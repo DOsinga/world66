@@ -1,0 +1,200 @@
+{
+  "round": 1110,
+  "timestamp": "2026-04-12T22:10:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_rank": 8215,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dag nabbit good stuf",
+      "path": "europe/luxembourg/beaufort/dag_nabbit_good_st",
+      "prior_rank": 7657,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_rank": 8125,
+      "prior_wins": 6,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hounslow",
+      "path": "europe/unitedkingdom/england/hounslow",
+      "prior_rank": 8129,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/barking",
+      "prior_rank": 8190,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/netherton",
+      "prior_rank": 7440,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/slough",
+      "prior_rank": 7931,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Winchendon",
+      "path": "northamerica/unitedstates/massachusetts/winchendon",
+      "prior_rank": 7629,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Milton",
+      "path": "northamerica/unitedstates/wisconsin/milton",
+      "prior_rank": 7909,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_rank": 8165,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_rank": 8141,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hemet",
+      "path": "northamerica/unitedstates/california/orangecounty/hemet",
+      "prior_rank": 8179,
+      "prior_wins": 4,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_rank": 7658,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sirsa",
+      "path": "asia/india/haryana/sirsa",
+      "prior_rank": 7841,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_rank": 8142,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_rank": 8184,
+      "prior_wins": 2,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_rank": 7511,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_rank": 8153,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Wake Island",
+      "path": "australiaandpacific/wakeisland",
+      "prior_rank": 7972,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_rank": 8066,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_rank": 7862,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_rank": 7709,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_rank": 7795,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_rank": 7050,
+      "prior_wins": 11,
+      "prior_n": 3
+    }
+  ]
+}

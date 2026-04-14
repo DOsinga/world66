@@ -1,0 +1,200 @@
+{
+  "round": 974,
+  "timestamp": "2026-04-12T16:10:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_rank": 457,
+      "prior_wins": 84,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_rank": 2038,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_rank": 2257,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_rank": 597,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_rank": 2128,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_rank": 3097,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Marburg",
+      "path": "europe/germany/hesse/marburg",
+      "prior_rank": 4144,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_rank": 1234,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_rank": 2254,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_is",
+      "prior_rank": 3058,
+      "prior_wins": 71,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_rank": 2659,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_rank": 6884,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lebanon",
+      "path": "asia/lebanon",
+      "prior_rank": 3861,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Maryland",
+      "path": "northamerica/unitedstates/maryland",
+      "prior_rank": 5197,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_rank": 4800,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_rank": 6137,
+      "prior_wins": 6,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_rank": 4507,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_rank": 7897,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_rank": 7255,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_rank": 4114,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_rank": 7226,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_rank": 6493,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Hong",
+      "path": "africa/nigeria/yola/hong",
+      "prior_rank": 7978,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wayne",
+      "path": "northamerica/unitedstates/newjersey/wayne",
+      "prior_rank": 7064,
+      "prior_wins": 11,
+      "prior_n": 3
+    }
+  ]
+}

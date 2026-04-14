@@ -1,0 +1,200 @@
+{
+  "round": 988,
+  "timestamp": "2026-04-12T22:03:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_rank": 664,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_rank": 290,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_rank": 1526,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_rank": 851,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/taupo",
+      "prior_rank": 2234,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_rank": 1352,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_rank": 159,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_rank": 498,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_rank": 1890,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "The Finger Lakes",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes",
+      "prior_rank": 508,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Palm Springs Area",
+      "path": "northamerica/unitedstates/california/deserts/palmspringsarea",
+      "prior_rank": 2265,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_rank": 2710,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube__nort",
+      "prior_rank": 855,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_rank": 1154,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_rank": 398,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_rank": 455,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "The Yukon Territory",
+      "path": "northamerica/canada/the_yukon_territor",
+      "prior_rank": 1513,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_rank": 1519,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_rank": 4988,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hunza valley",
+      "path": "asia/pakistan/hunzavalley",
+      "prior_rank": 1511,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_rank": 3947,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang_1",
+      "prior_rank": 3081,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_rank": 546,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_rank": 3501,
+      "prior_wins": 13,
+      "prior_n": 1
+    }
+  ]
+}

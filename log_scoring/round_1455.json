@@ -1,0 +1,200 @@
+{
+  "round": 1455,
+  "timestamp": "2026-04-12T22:28:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mosfellsbaer",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_rank": 7197,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Temara",
+      "path": "africa/morocco/rabat/temara",
+      "prior_rank": 6523,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_rank": 7319,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_rank": 6489,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_rank": 4975,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_rank": 7444,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_rank": 6845,
+      "prior_wins": 26,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_rank": 7831,
+      "prior_wins": 15,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/hawkes_bay/wairoa",
+      "prior_rank": 6636,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chiusi Scalo",
+      "path": "europe/italy/tuscany/chiusiscalo",
+      "prior_rank": 4922,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_rank": 7575,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_rank": 7753,
+      "prior_wins": 12,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Roth",
+      "path": "europe/germany/rhinelandpalatinate/roth",
+      "prior_rank": 7429,
+      "prior_wins": 20,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Leutershausen",
+      "path": "europe/germany/badenwrttemberg/leutershausen",
+      "prior_rank": 4985,
+      "prior_wins": 40,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/woldingham",
+      "prior_rank": 8014,
+      "prior_wins": 11,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Greenhithe",
+      "path": "europe/unitedkingdom/england/greenhithe",
+      "prior_rank": 5705,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_rank": 7316,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Radford",
+      "path": "northamerica/unitedstates/virginia/radford",
+      "prior_rank": 7622,
+      "prior_wins": 20,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_rank": 7399,
+      "prior_wins": 26,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_ga",
+      "prior_rank": 7208,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_rank": 6456,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_rank": 7375,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "San-Pedro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_rank": 6692,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_rank": 7626,
+      "prior_wins": 18,
+      "prior_n": 5
+    }
+  ]
+}

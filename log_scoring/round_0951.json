@@ -1,0 +1,200 @@
+{
+  "round": 951,
+  "timestamp": "2026-04-12T16:08:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_rank": 256,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_rank": 183,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_rank": 1893,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_rank": 2486,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_rank": 2118,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_rank": 3618,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_rank": 2452,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_rank": 2850,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_rank": 5762,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_rank": 6133,
+      "prior_wins": 42,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverp/gawthorpe_hall",
+      "prior_rank": 3531,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_rank": 4948,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_rank": 5301,
+      "prior_wins": 52,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_rank": 4867,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_rank": 6742,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_rank": 6029,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Passaic",
+      "path": "northamerica/unitedstates/newjersey/passaic",
+      "prior_rank": 8170,
+      "prior_wins": 1,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zephryhills",
+      "path": "northamerica/unitedstates/florida/zephryhills",
+      "prior_rank": 7838,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kouilou region",
+      "path": "africa/congobrazzaville/kouilouregion",
+      "prior_rank": 6430,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_rank": 7906,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_rank": 7928,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Diadema",
+      "path": "southamerica/brazil/diadema",
+      "prior_rank": 8021,
+      "prior_wins": 3,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ali khan gurag baloch cha je andh wala",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gurag_bal",
+      "prior_rank": 8226,
+      "prior_wins": 3,
+      "prior_n": 6
+    }
+  ]
+}

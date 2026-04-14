@@ -1,0 +1,200 @@
+{
+  "round": 1099,
+  "timestamp": "2026-04-12T22:09:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_rank": 4261,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_rank": 3339,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_rank": 2069,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_rank": 3180,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_rank": 3818,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_rank": 2173,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_rank": 5537,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_rank": 2172,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_rank": 3003,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_rank": 3602,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_rank": 3865,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_rank": 2952,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territor/carcross",
+      "prior_rank": 2524,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_rank": 993,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Muros",
+      "path": "europe/spain/northernspain/muros",
+      "prior_rank": 4034,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_rank": 3142,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/northshorecity",
+      "prior_rank": 4046,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_rank": 2963,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_rank": 5632,
+      "prior_wins": 16,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_rank": 3605,
+      "prior_wins": 25,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nebel, Amrum",
+      "path": "europe/germany/schleswigholstein/nebel_amrum",
+      "prior_rank": 2983,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_rank": 1777,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_rank": 3804,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_rank": 2789,
+      "prior_wins": 20,
+      "prior_n": 2
+    }
+  ]
+}

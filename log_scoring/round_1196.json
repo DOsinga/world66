@@ -1,0 +1,200 @@
+{
+  "round": 1196,
+  "timestamp": "2026-04-12T22:14:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jordan",
+      "path": "asia/jordan",
+      "prior_rank": 905,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ebisu",
+      "path": "asia/japan/tokyo/ebisu",
+      "prior_rank": 2630,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_rank": 1239,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Yorkshire Dales",
+      "path": "europe/unitedkingdom/england/yorkshire_dales",
+      "prior_rank": 523,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/hawkshead",
+      "prior_rank": 2078,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_rank": 1076,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_rank": 1282,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_rank": 1042,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_rank": 245,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_rank": 2134,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_rank": 1310,
+      "prior_wins": 70,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_rank": 2348,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_rank": 252,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_rank": 3083,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Shetland",
+      "path": "europe/unitedkingdom/scotland/shetland",
+      "prior_rank": 1444,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Chengde",
+      "path": "asia/china/chengde",
+      "prior_rank": 2535,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_rank": 2607,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_rank": 1219,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_rank": 2270,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_rank": 446,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Valle de Elqui",
+      "path": "southamerica/chile/valle_de_elqui",
+      "prior_rank": 1767,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_p",
+      "prior_rank": 808,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_rank": 2621,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_rank": 1101,
+      "prior_wins": 36,
+      "prior_n": 2
+    }
+  ]
+}

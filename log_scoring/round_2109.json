@@ -1,0 +1,200 @@
+{
+  "round": 2109,
+  "timestamp": "2026-04-13T16:11:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 7.3764,
+      "prior_variance": 0.425915,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 5.9593,
+      "prior_variance": 0.290715,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/chester",
+      "prior_score": 5.2085,
+      "prior_variance": 0.304139,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_score": 6.5847,
+      "prior_variance": 0.238792,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 6.0425,
+      "prior_variance": 0.288273,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 3.9002,
+      "prior_variance": 0.258071,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 3.0477,
+      "prior_variance": 0.285437,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 4.8316,
+      "prior_variance": 0.30101,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 3.2336,
+      "prior_variance": 0.270329,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": -0.7367,
+      "prior_variance": 0.29257,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_score": 0.2506,
+      "prior_variance": 0.216003,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Arroscia valley",
+      "path": "europe/italy/liguria/arrosciavalley",
+      "prior_score": -0.8009,
+      "prior_variance": 0.23532,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": -1.8886,
+      "prior_variance": 0.266561,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Castell\u00f3n",
+      "path": "europe/spain/castellon",
+      "prior_score": -0.4571,
+      "prior_variance": 0.24254,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.1615,
+      "prior_variance": 0.27566,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": 0.2583,
+      "prior_variance": 0.24464,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.0254,
+      "prior_variance": 0.185017,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Permet",
+      "path": "europe/albania/lezha_castle/permet",
+      "prior_score": -2.0104,
+      "prior_variance": 0.336703,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Jesenice",
+      "path": "europe/slovenia/jesenice",
+      "prior_score": -2.0977,
+      "prior_variance": 0.339692,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Yoga Teacher Training India",
+      "path": "asia/india/uttaranchal/yoga_teacher_train",
+      "prior_score": -5.0055,
+      "prior_variance": 0.285607,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Forestville",
+      "path": "northamerica/unitedstates/california/northcoast/forestville",
+      "prior_score": -2.1025,
+      "prior_variance": 0.278381,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -2.2367,
+      "prior_variance": 0.272102,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "oras",
+      "path": "asia/india/maharashtra/oras",
+      "prior_score": -6.5684,
+      "prior_variance": 0.330585,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "TAUNSA SHARIF",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif",
+      "prior_score": -9.3008,
+      "prior_variance": 0.388613,
+      "prior_n": 5
+    }
+  ]
+}

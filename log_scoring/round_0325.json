@@ -1,0 +1,200 @@
+{
+  "round": 325,
+  "timestamp": "2026-04-12T09:11:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Kowloon",
+      "path": "asia/china/hongkong/kowloon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_mu": 23.5158,
+      "prior_sigma": 5.9516,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_mu": 22.4583,
+      "prior_sigma": 5.806,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Argentina",
+      "path": "southamerica/argentina",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_mu": 22.7207,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Connecticut",
+      "path": "northamerica/unitedstates/connecticut",
+      "prior_mu": 22.3083,
+      "prior_sigma": 5.773,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Uttar Pradesh",
+      "path": "asia/india/uttarpradesh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_mu": 18.3099,
+      "prior_sigma": 6.7539,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Enugu",
+      "path": "africa/nigeria/victoria_island_n/enugu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Orange Park",
+      "path": "northamerica/unitedstates/florida/orangepark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_mu": 22.4658,
+      "prior_sigma": 5.9053,
+      "prior_n": 1
+    }
+  ]
+}

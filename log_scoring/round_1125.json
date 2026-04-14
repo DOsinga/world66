@@ -1,0 +1,200 @@
+{
+  "round": 1125,
+  "timestamp": "2026-04-12T22:10:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amazon basin",
+      "path": "southamerica/ecuador/amazonbasin",
+      "prior_rank": 1702,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kuelap",
+      "path": "southamerica/peru/chachapoyas/kuelap",
+      "prior_rank": 1458,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_rank": 462,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_rank": 1517,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_rank": 929,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Baracoa",
+      "path": "northamerica/cuba/baracoa",
+      "prior_rank": 2772,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_rank": 446,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_rank": 792,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Makarska",
+      "path": "europe/croatia/makarska",
+      "prior_rank": 2708,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_rank": 1253,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_rank": 1621,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_gu",
+      "prior_rank": 1488,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_rank": 775,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_rank": 2133,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_rank": 791,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_rank": 714,
+      "prior_wins": 59,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_rank": 1104,
+      "prior_wins": 37,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_rank": 5167,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_rank": 1256,
+      "prior_wins": 36,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_rank": 848,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_rank": 984,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Poland",
+      "path": "europe/poland",
+      "prior_rank": 764,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_rank": 772,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_rank": 1452,
+      "prior_wins": 35,
+      "prior_n": 2
+    }
+  ]
+}

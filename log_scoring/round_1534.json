@@ -1,0 +1,200 @@
+{
+  "round": 1534,
+  "timestamp": "2026-04-13T10:29:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 0.5404,
+      "prior_variance": 0.535557,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -3.2359,
+      "prior_variance": 0.513142,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -5.6673,
+      "prior_variance": 0.786942,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_score": -0.6893,
+      "prior_variance": 0.309062,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -0.0806,
+      "prior_variance": 0.422734,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -0.0991,
+      "prior_variance": 0.344524,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_score": -2.5878,
+      "prior_variance": 0.352301,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.3381,
+      "prior_variance": 0.301845,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.7356,
+      "prior_variance": 0.463526,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "St.Augustine",
+      "path": "northamerica/trinidadandtobago/staugustine",
+      "prior_score": -1.2848,
+      "prior_variance": 0.387135,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -2.9827,
+      "prior_variance": 0.384721,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -2.9851,
+      "prior_variance": 0.473063,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_score": -1.7419,
+      "prior_variance": 0.317769,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.1545,
+      "prior_variance": 0.345743,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -0.765,
+      "prior_variance": 0.444605,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.9727,
+      "prior_variance": 0.3973,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -5.1849,
+      "prior_variance": 0.555816,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/srvr",
+      "prior_score": -1.904,
+      "prior_variance": 0.311165,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -1.7228,
+      "prior_variance": 0.456679,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -1.7282,
+      "prior_variance": 0.349455,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -2.2589,
+      "prior_variance": 0.22364,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Stafford",
+      "path": "europe/unitedkingdom/england/stafford",
+      "prior_score": -3.2006,
+      "prior_variance": 0.501073,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": -3.4214,
+      "prior_variance": 0.594802,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -2.2216,
+      "prior_variance": 0.415147,
+      "prior_n": 3
+    }
+  ]
+}

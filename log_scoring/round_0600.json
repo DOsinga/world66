@@ -1,0 +1,200 @@
+{
+  "round": 600,
+  "timestamp": "2026-04-12T10:39:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Town",
+      "path": "europe/unitedkingdom/scotland/edinburgh/newtown_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_mu": 26.2143,
+      "prior_sigma": 5.2975,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cotswolds",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cotswolds",
+      "prior_mu": 24.611,
+      "prior_sigma": 5.0594,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_mu": 22.3297,
+      "prior_sigma": 4.7187,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Snowdonia",
+      "path": "europe/unitedkingdom/wales/snowdonia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_mu": 22.2393,
+      "prior_sigma": 4.7135,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
+      "prior_mu": 24.9502,
+      "prior_sigma": 5.2544,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_mu": 27.2674,
+      "prior_sigma": 5.4221,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_mu": 22.5534,
+      "prior_sigma": 5.6653,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
+      "prior_mu": 23.3654,
+      "prior_sigma": 5.6036,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/nottingham",
+      "prior_mu": 21.3296,
+      "prior_sigma": 4.1008,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_mu": 21.9887,
+      "prior_sigma": 5.4557,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_mu": 21.4827,
+      "prior_sigma": 4.2495,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Berkhampsted",
+      "path": "europe/unitedkingdom/england/eastern_england/berkhampsted",
+      "prior_mu": 22.1792,
+      "prior_sigma": 5.7837,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_mu": 21.7511,
+      "prior_sigma": 4.5685,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Peterborough",
+      "path": "europe/unitedkingdom/england/peterborough",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/bolton",
+      "prior_mu": 22.4209,
+      "prior_sigma": 5.7463,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
+      "prior_mu": 21.6837,
+      "prior_sigma": 4.7257,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Romford",
+      "path": "europe/unitedkingdom/england/romford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/sabden",
+      "prior_mu": 22.1311,
+      "prior_sigma": 4.8174,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Menston",
+      "path": "europe/unitedkingdom/england/menston",
+      "prior_mu": 21.9077,
+      "prior_sigma": 5.3729,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/grays",
+      "prior_mu": 20.898,
+      "prior_sigma": 4.8305,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Balsall Common",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/balsall_common",
+      "prior_mu": 21.5178,
+      "prior_sigma": 5.523,
+      "prior_n": 1
+    }
+  ]
+}

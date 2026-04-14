@@ -1,0 +1,200 @@
+{
+  "round": 320,
+  "timestamp": "2026-04-12T09:11:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Sardinia",
+      "path": "europe/italy/sardinia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_mu": 22.4746,
+      "prior_sigma": 5.9064,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_mu": 22.7964,
+      "prior_sigma": 5.9588,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Jermuk",
+      "path": "europe/armenia/jermuk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_mu": 23.0567,
+      "prior_sigma": 5.3921,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_mu": 21.0867,
+      "prior_sigma": 3.8523,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_mu": 22.9018,
+      "prior_sigma": 5.7258,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_mu": 22.7217,
+      "prior_sigma": 5.9498,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Polvij\u00e4rvi",
+      "path": "europe/finland/joensuu/polvijrvi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_mu": 22.7017,
+      "prior_sigma": 5.9473,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_mu": 22.72,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Awdal",
+      "path": "africa/somaliland/awdal",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ainaba",
+      "path": "africa/somaliland/ainaba",
+      "prior_mu": 18.3441,
+      "prior_sigma": 6.7588,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "lodhana",
+      "path": "asia/pakistan/abbottabad/lodhana",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Cha bait wala Yaroo khosa",
+      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/cha_bait_wala_yaro",
+      "prior_mu": 18.1432,
+      "prior_sigma": 6.7098,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2114,
+  "timestamp": "2026-04-13T16:12:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taroko Gorge",
+      "path": "asia/taiwan/torokogorge",
+      "prior_score": 10.0935,
+      "prior_variance": 0.532462,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 7.7665,
+      "prior_variance": 0.372649,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 6.321,
+      "prior_variance": 0.293309,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 4.2658,
+      "prior_variance": 0.256431,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 3.6348,
+      "prior_variance": 0.26905,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 3.0262,
+      "prior_variance": 0.300837,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Leyte island",
+      "path": "asia/philippines/leyteisland",
+      "prior_score": 0.2066,
+      "prior_variance": 0.271558,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 0.7996,
+      "prior_variance": 0.242615,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -1.4985,
+      "prior_variance": 0.1947,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.5948,
+      "prior_variance": 0.278276,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -2.8249,
+      "prior_variance": 0.345364,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -2.8443,
+      "prior_variance": 0.253893,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -3.396,
+      "prior_variance": 0.335212,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -3.7091,
+      "prior_variance": 0.175212,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.1222,
+      "prior_variance": 0.247242,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pendle",
+      "path": "europe/unitedkingdom/england/manchester_liverp/pendle",
+      "prior_score": -1.8304,
+      "prior_variance": 0.327549,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -4.5314,
+      "prior_variance": 0.311479,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -5.7119,
+      "prior_variance": 0.351823,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pemberton",
+      "path": "europe/unitedkingdom/england/pemberton",
+      "prior_score": -6.3456,
+      "prior_variance": 0.339958,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -4.2299,
+      "prior_variance": 0.234631,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -3.8288,
+      "prior_variance": 0.356079,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -6.5279,
+      "prior_variance": 0.397086,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -6.7763,
+      "prior_variance": 0.373502,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -7.9186,
+      "prior_variance": 0.41917,
+      "prior_n": 5
+    }
+  ]
+}

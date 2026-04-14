@@ -1,0 +1,200 @@
+{
+  "round": 1206,
+  "timestamp": "2026-04-12T22:15:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bournemouth",
+      "prior_rank": 1713,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_rank": 5950,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Prince Edward County",
+      "path": "northamerica/canada/ontario/prince_edward_coun",
+      "prior_rank": 5359,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Los Lingues,Colchagua,San Fernando",
+      "path": "southamerica/chile/los_linguescolcha",
+      "prior_rank": 6518,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tamil Nadu",
+      "path": "asia/india/tamilnadu",
+      "prior_rank": 3828,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_rank": 4035,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_rank": 6487,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_rank": 3896,
+      "prior_wins": 59,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_rank": 4848,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_rank": 4050,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kincumber",
+      "path": "australiaandpacific/australia/newsouthwales/kincumber",
+      "prior_rank": 5978,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Napo",
+      "path": "southamerica/ecuador/napo",
+      "prior_rank": 3109,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_rank": 6477,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_rank": 5285,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
+      "prior_rank": 5026,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_rank": 6458,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_rank": 5966,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_rank": 4539,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_rank": 6883,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_rank": 5522,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_rank": 5486,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_rank": 6360,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_rank": 6516,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mahala",
+      "path": "asia/pakistan/nowshera/kheshgi/mahala",
+      "prior_rank": 7159,
+      "prior_wins": 10,
+      "prior_n": 2
+    }
+  ]
+}

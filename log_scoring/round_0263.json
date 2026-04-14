@@ -1,0 +1,200 @@
+{
+  "round": 263,
+  "timestamp": "2026-04-12T09:09:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Tasmania",
+      "path": "australiaandpacific/australia/tasmania",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "The South",
+      "path": "asia/srilanka/the_south",
+      "prior_mu": 21.3018,
+      "prior_sigma": 3.893,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_mu": 22.5557,
+      "prior_sigma": 5.9265,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_mu": 22.0431,
+      "prior_sigma": 3.3713,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_mu": 22.7176,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/crewkerne",
+      "prior_mu": 21.5874,
+      "prior_sigma": 5.9285,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_mu": 22.7205,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Georgia",
+      "path": "northamerica/unitedstates/georgia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_mu": 22.2665,
+      "prior_sigma": 5.7827,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Golmud",
+      "path": "asia/china/golmud",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Golden Coast",
+      "path": "asia/china/golden_coast",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

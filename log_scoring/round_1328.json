@@ -1,0 +1,200 @@
+{
+  "round": 1328,
+  "timestamp": "2026-04-12T22:21:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_rank": 736,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_nati",
+      "prior_rank": 886,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "North Cape",
+      "path": "europe/norway/northcape",
+      "prior_rank": 2571,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_rank": 1068,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_rank": 883,
+      "prior_wins": 90,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_rank": 1352,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_rank": 1036,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_rank": 585,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_rank": 1342,
+      "prior_wins": 110,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_rank": 3239,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_rank": 888,
+      "prior_wins": 89,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_rank": 1896,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_rank": 1056,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_rank": 2058,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_rank": 1070,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_rank": 1279,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_rank": 527,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_rank": 4228,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hesse/rudesheim",
+      "prior_rank": 1321,
+      "prior_wins": 68,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_rank": 3465,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_rank": 2082,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/vancouver/goldenears",
+      "prior_rank": 1031,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_rank": 3083,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_rank": 3792,
+      "prior_wins": 24,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1999,
+  "timestamp": "2026-04-13T16:01:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Rico",
+      "path": "northamerica/puertorico",
+      "prior_score": 6.0812,
+      "prior_variance": 0.327112,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Elba",
+      "path": "europe/italy/tuscany/elba",
+      "prior_score": 5.5657,
+      "prior_variance": 0.283933,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 5.3283,
+      "prior_variance": 0.287849,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lopud Island",
+      "path": "europe/croatia/lopud_island",
+      "prior_score": 3.7164,
+      "prior_variance": 0.277334,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_score": 4.0645,
+      "prior_variance": 0.270907,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
+      "prior_score": 4.9382,
+      "prior_variance": 0.389293,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durangocolorado",
+      "prior_score": 2.5246,
+      "prior_variance": 0.364899,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Chiriqu\u00ed",
+      "path": "northamerica/panama/chiriqui",
+      "prior_score": 1.9436,
+      "prior_variance": 0.292858,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_score": 1.5135,
+      "prior_variance": 0.2559,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 1.0129,
+      "prior_variance": 0.166592,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -0.0191,
+      "prior_variance": 0.343797,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": 0.4317,
+      "prior_variance": 0.23732,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 1.0474,
+      "prior_variance": 0.306002,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kazanlak",
+      "path": "europe/bulgaria/valleyoftheroses/kazanlak",
+      "prior_score": 0.4059,
+      "prior_variance": 0.277816,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -2.4098,
+      "prior_variance": 0.323216,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Chillan",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -0.9461,
+      "prior_variance": 0.25386,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -3.1483,
+      "prior_variance": 0.322719,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -4.6562,
+      "prior_variance": 0.300067,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/sunderland",
+      "prior_score": -3.7024,
+      "prior_variance": 0.283923,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.5376,
+      "prior_variance": 0.374008,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -4.3717,
+      "prior_variance": 0.242164,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_score": -3.581,
+      "prior_variance": 0.274127,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Gran chaco",
+      "path": "southamerica/paraguay/granchaco",
+      "prior_score": -6.2197,
+      "prior_variance": 0.342049,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -8.8509,
+      "prior_variance": 0.377166,
+      "prior_n": 5
+    }
+  ]
+}

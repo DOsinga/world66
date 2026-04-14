@@ -1,0 +1,200 @@
+{
+  "round": 1447,
+  "timestamp": "2026-04-12T22:28:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiapas",
+      "path": "northamerica/mexico/chiapas",
+      "prior_rank": 699,
+      "prior_wins": 74,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ancash",
+      "path": "southamerica/peru/ancash",
+      "prior_rank": 3286,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_rank": 4271,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_rank": 1154,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_rank": 1826,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "North Coast",
+      "path": "northamerica/unitedstates/california/northcoast",
+      "prior_rank": 1449,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Plata",
+      "path": "northamerica/dominicanrepublic/puertoplata",
+      "prior_rank": 2180,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Harbin",
+      "path": "asia/china/harbin",
+      "prior_rank": 1627,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_rank": 4124,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_rank": 3415,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dartmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
+      "prior_rank": 2502,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_rank": 2589,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_rank": 2167,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_p",
+      "prior_rank": 3008,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_rank": 2304,
+      "prior_wins": 103,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_rank": 2641,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Stockbridge",
+      "path": "europe/unitedkingdom/scotland/edinburgh/stockbridge",
+      "prior_rank": 2882,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nantes",
+      "path": "europe/france/normandy/nantes",
+      "prior_rank": 2640,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_de",
+      "prior_rank": 2853,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_rank": 1984,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_rank": 1238,
+      "prior_wins": 110,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/eastland/gisborne",
+      "prior_rank": 2461,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_rank": 1565,
+      "prior_wins": 57,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_rank": 1973,
+      "prior_wins": 46,
+      "prior_n": 3
+    }
+  ]
+}

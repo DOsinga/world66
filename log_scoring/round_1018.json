@@ -1,0 +1,200 @@
+{
+  "round": 1018,
+  "timestamp": "2026-04-12T22:04:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phuket",
+      "path": "asia/thailand/phuket",
+      "prior_rank": 131,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_rank": 726,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_rank": 4370,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Rico",
+      "path": "northamerica/puertorico",
+      "prior_rank": 877,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_rank": 1606,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_rank": 369,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_rank": 903,
+      "prior_wins": 39,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_rank": 208,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_rank": 718,
+      "prior_wins": 20,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_rank": 92,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_rank": 556,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_rank": 522,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_rank": 607,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_rank": 1345,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/york",
+      "prior_rank": 2165,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_rank": 249,
+      "prior_wins": 172,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Vieques",
+      "path": "northamerica/puertorico/vieques",
+      "prior_rank": 581,
+      "prior_wins": 41,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_rank": 719,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_rank": 86,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_rank": 413,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_rank": 113,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_rank": 347,
+      "prior_wins": 21,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_rank": 411,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_rank": 537,
+      "prior_wins": 41,
+      "prior_n": 2
+    }
+  ]
+}

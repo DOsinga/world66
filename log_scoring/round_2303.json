@@ -1,0 +1,200 @@
+{
+  "round": 2303,
+  "timestamp": "2026-04-13T16:29:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 5.1955,
+      "prior_variance": 0.24319,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_score": 6.3013,
+      "prior_variance": 0.368881,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 4.289,
+      "prior_variance": 0.283704,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Adirondacks",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks",
+      "prior_score": 5.3079,
+      "prior_variance": 0.252375,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Channel Islands (Crown Dependencies)",
+      "path": "europe/unitedkingdom/england/channel_islands_c",
+      "prior_score": 2.926,
+      "prior_variance": 0.28266,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_score": 5.8096,
+      "prior_variance": 0.376241,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 2.0227,
+      "prior_variance": 0.221978,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.2417,
+      "prior_variance": 0.258648,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_score": 0.1697,
+      "prior_variance": 0.268442,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 1.2517,
+      "prior_variance": 0.240419,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.2179,
+      "prior_variance": 0.260835,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tarkarli",
+      "path": "asia/india/maharashtra/konkan/tarkarli",
+      "prior_score": -0.169,
+      "prior_variance": 0.218727,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Lithuania",
+      "path": "europe/lithuania",
+      "prior_score": 0.9792,
+      "prior_variance": 0.237256,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 1.16,
+      "prior_variance": 0.216413,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.25,
+      "prior_variance": 0.222328,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -0.8836,
+      "prior_variance": 0.34409,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": 0.2294,
+      "prior_variance": 0.229814,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 0.2513,
+      "prior_variance": 0.272199,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.4163,
+      "prior_variance": 0.174934,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": 0.118,
+      "prior_variance": 0.253649,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_score": 1.055,
+      "prior_variance": 0.243206,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -0.3329,
+      "prior_variance": 0.236646,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -3.748,
+      "prior_variance": 0.307819,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": 1.1339,
+      "prior_variance": 0.180845,
+      "prior_n": 8
+    }
+  ]
+}

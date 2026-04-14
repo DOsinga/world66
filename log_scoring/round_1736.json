@@ -1,0 +1,200 @@
+{
+  "round": 1736,
+  "timestamp": "2026-04-13T10:46:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 8.3712,
+      "prior_variance": 0.388134,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Streymoy",
+      "path": "europe/faroeislands/streymoy",
+      "prior_score": 3.1724,
+      "prior_variance": 0.421606,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 4.0291,
+      "prior_variance": 0.306939,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/bay_of_plenty/tauranga",
+      "prior_score": 3.7342,
+      "prior_variance": 0.313084,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -1.4554,
+      "prior_variance": 0.319332,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Manzshir hiid",
+      "path": "asia/mongolia/manzshirhiid",
+      "prior_score": -1.4107,
+      "prior_variance": 0.265156,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.0969,
+      "prior_variance": 0.299846,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -0.7365,
+      "prior_variance": 0.347385,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.5821,
+      "prior_variance": 0.367391,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.0198,
+      "prior_variance": 0.311115,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -3.6112,
+      "prior_variance": 0.479457,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -0.5254,
+      "prior_variance": 0.403019,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -1.2046,
+      "prior_variance": 0.265565,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/ledbury",
+      "prior_score": -0.3289,
+      "prior_variance": 0.281013,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/england/crieff",
+      "prior_score": -6.37,
+      "prior_variance": 0.546201,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_score": -0.343,
+      "prior_variance": 0.296631,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mirano",
+      "path": "europe/italy/lombardia/mirano",
+      "prior_score": -1.7301,
+      "prior_variance": 0.327852,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_score": -0.9653,
+      "prior_variance": 0.327148,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -1.2141,
+      "prior_variance": 0.305062,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -1.8744,
+      "prior_variance": 0.30465,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/northampton",
+      "prior_score": -1.8203,
+      "prior_variance": 0.308701,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -3.8783,
+      "prior_variance": 0.391691,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -7.9185,
+      "prior_variance": 0.535398,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hotle",
+      "path": "asia/pakistan/dera_ghazi_khan/hotle",
+      "prior_score": -10.3226,
+      "prior_variance": 0.38136,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1260,
+  "timestamp": "2026-04-12T22:18:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
+      "prior_rank": 8090,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_rank": 7904,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_rank": 8113,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_rank": 7815,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Harrison",
+      "path": "northamerica/unitedstates/ohio/harrison",
+      "prior_rank": 5673,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_rank": 7687,
+      "prior_wins": 17,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_rank": 8151,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_rank": 7175,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_rank": 7897,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_rank": 8104,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "city",
+      "path": "northamerica/unitedstates/wisconsin/city",
+      "prior_rank": 8133,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Steinweiler",
+      "path": "europe/germany/bavaria/steinweiler",
+      "prior_rank": 7087,
+      "prior_wins": 26,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_rank": 7674,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_rank": 7959,
+      "prior_wins": 11,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Giridih",
+      "path": "asia/india/jharkhand/giridih",
+      "prior_rank": 7907,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_rank": 8049,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_rank": 7646,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_rank": 6533,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hasilpur",
+      "path": "asia/pakistan/islamabad/hasilpur",
+      "prior_rank": 7638,
+      "prior_wins": 11,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_rank": 7796,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Wadi halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_rank": 7773,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_rank": 7916,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_rank": 8130,
+      "prior_wins": 6,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_rank": 8156,
+      "prior_wins": 4,
+      "prior_n": 3
+    }
+  ]
+}

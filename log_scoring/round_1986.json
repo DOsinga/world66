@@ -1,0 +1,200 @@
+{
+  "round": 1986,
+  "timestamp": "2026-04-13T16:00:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_score": 8.1348,
+      "prior_variance": 0.519378,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 4.4094,
+      "prior_variance": 0.340266,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 8.9493,
+      "prior_variance": 0.367807,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Comino",
+      "path": "europe/malta/gozo/comino",
+      "prior_score": 3.4647,
+      "prior_variance": 0.290191,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 4.1355,
+      "prior_variance": 0.244578,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_de",
+      "prior_score": 3.0753,
+      "prior_variance": 0.249795,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 7.3108,
+      "prior_variance": 0.457455,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 2.7392,
+      "prior_variance": 0.28363,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 1.1393,
+      "prior_variance": 0.252979,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 2.6472,
+      "prior_variance": 0.295889,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 3.44,
+      "prior_variance": 0.26319,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gudauri",
+      "path": "europe/georgia/tbilisi/gudauri",
+      "prior_score": 0.6284,
+      "prior_variance": 0.392369,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 2.9978,
+      "prior_variance": 0.252627,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_score": 3.037,
+      "prior_variance": 0.265141,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -0.9651,
+      "prior_variance": 0.279297,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Negev",
+      "path": "asia/israel/negev",
+      "prior_score": 1.4179,
+      "prior_variance": 0.306379,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 2.0142,
+      "prior_variance": 0.275865,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "New Brunswick",
+      "path": "northamerica/canada/newbrunswick",
+      "prior_score": -0.816,
+      "prior_variance": 0.256691,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -2.4993,
+      "prior_variance": 0.261708,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/vancouver/burnaby",
+      "prior_score": -1.3762,
+      "prior_variance": 0.28289,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -0.8407,
+      "prior_variance": 0.411224,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hainaut",
+      "path": "europe/belgium/hainaut",
+      "prior_score": -2.3412,
+      "prior_variance": 0.222101,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "bagh azad kashmir",
+      "path": "asia/pakistan/azad_kashmir/bagh/bagh_azad_kashmir",
+      "prior_score": -6.2077,
+      "prior_variance": 0.287786,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -5.7878,
+      "prior_variance": 0.259562,
+      "prior_n": 5
+    }
+  ]
+}

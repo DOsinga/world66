@@ -1,0 +1,200 @@
+{
+  "round": 1168,
+  "timestamp": "2026-04-12T22:13:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mal\u00e9 Atoll",
+      "path": "asia/maldives/male_atoll",
+      "prior_rank": 221,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Palau",
+      "path": "australiaandpacific/palau",
+      "prior_rank": 74,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Krabi",
+      "path": "asia/thailand/krabi",
+      "prior_rank": 68,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_rank": 1045,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_rank": 59,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Corsica",
+      "path": "europe/france/corsica",
+      "prior_rank": 89,
+      "prior_wins": 87,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_rank": 337,
+      "prior_wins": 62,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Colca Canyon",
+      "path": "southamerica/peru/colca_canyon",
+      "prior_rank": 81,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_rank": 7,
+      "prior_wins": 68,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_rank": 144,
+      "prior_wins": 43,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_rank": 116,
+      "prior_wins": 65,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_rank": 32,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_rank": 103,
+      "prior_wins": 86,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_rank": 267,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_rank": 193,
+      "prior_wins": 64,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_rank": 506,
+      "prior_wins": 60,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_rank": 60,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_rank": 65,
+      "prior_wins": 44,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_rank": 807,
+      "prior_wins": 67,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_rank": 208,
+      "prior_wins": 85,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_rank": 72,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/yogyakarta",
+      "prior_rank": 515,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_rank": 64,
+      "prior_wins": 66,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_rank": 1495,
+      "prior_wins": 29,
+      "prior_n": 2
+    }
+  ]
+}

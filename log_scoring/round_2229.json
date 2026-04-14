@@ -1,0 +1,200 @@
+{
+  "round": 2229,
+  "timestamp": "2026-04-13T16:22:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 7.8749,
+      "prior_variance": 0.500614,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 6.0386,
+      "prior_variance": 0.355743,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Dunhuang",
+      "path": "asia/china/dunhuang",
+      "prior_score": 5.1224,
+      "prior_variance": 0.394597,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Java",
+      "path": "asia/indonesia/java",
+      "prior_score": 0.7963,
+      "prior_variance": 0.317781,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
+      "prior_score": 4.4278,
+      "prior_variance": 0.309775,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lakes District",
+      "path": "southamerica/chile/lakesdistrict",
+      "prior_score": 4.8444,
+      "prior_variance": 0.252465,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_score": 3.8745,
+      "prior_variance": 0.308357,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bahrain",
+      "path": "asia/bahrain",
+      "prior_score": 1.502,
+      "prior_variance": 0.214773,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 4.9405,
+      "prior_variance": 0.228746,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 2.7032,
+      "prior_variance": 0.214014,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 5.0813,
+      "prior_variance": 0.277648,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cat island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 1.9935,
+      "prior_variance": 0.213524,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 3.1103,
+      "prior_variance": 0.291435,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": -0.0433,
+      "prior_variance": 0.205866,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 1.9748,
+      "prior_variance": 0.216908,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Norfolk",
+      "path": "europe/unitedkingdom/norfolk",
+      "prior_score": 1.0099,
+      "prior_variance": 0.243642,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Manchester, Liverpool and North West",
+      "path": "europe/unitedkingdom/england/manchester_liverp",
+      "prior_score": 2.0503,
+      "prior_variance": 0.230643,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.7469,
+      "prior_variance": 0.236018,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.8165,
+      "prior_variance": 0.216612,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -1.63,
+      "prior_variance": 0.22778,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/wangerooge",
+      "prior_score": 0.5065,
+      "prior_variance": 0.219451,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/ceriale",
+      "prior_score": 0.9593,
+      "prior_variance": 0.288346,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_score": -0.5194,
+      "prior_variance": 0.254811,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -3.119,
+      "prior_variance": 0.286573,
+      "prior_n": 5
+    }
+  ]
+}

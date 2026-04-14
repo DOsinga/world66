@@ -1,0 +1,200 @@
+{
+  "round": 2050,
+  "timestamp": "2026-04-13T16:06:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 9.2817,
+      "prior_variance": 0.465293,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 7.488,
+      "prior_variance": 0.339645,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 3.3969,
+      "prior_variance": 0.318902,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 4.7085,
+      "prior_variance": 0.300381,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 1.6016,
+      "prior_variance": 0.280447,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 3.8535,
+      "prior_variance": 0.269666,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.3873,
+      "prior_variance": 0.224364,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 2.3965,
+      "prior_variance": 0.289684,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.6367,
+      "prior_variance": 0.257489,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 2.821,
+      "prior_variance": 0.266875,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Rincon",
+      "path": "northamerica/puertorico/rincon",
+      "prior_score": 2.0509,
+      "prior_variance": 0.289858,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 2.2146,
+      "prior_variance": 0.235551,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.86,
+      "prior_variance": 0.216352,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": 1.0558,
+      "prior_variance": 0.217949,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 2.3679,
+      "prior_variance": 0.231751,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Alora",
+      "path": "europe/spain/andalucia/alora",
+      "prior_score": 1.1122,
+      "prior_variance": 0.236785,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 0.7347,
+      "prior_variance": 0.246252,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.0313,
+      "prior_variance": 0.324012,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": 0.0344,
+      "prior_variance": 0.249643,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -0.3687,
+      "prior_variance": 0.250495,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": 1.6857,
+      "prior_variance": 0.273311,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_score": -1.9638,
+      "prior_variance": 0.260404,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pakistan",
+      "path": "asia/pakistan",
+      "prior_score": -7.2323,
+      "prior_variance": 0.322917,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -7.3997,
+      "prior_variance": 0.520988,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1550,
+  "timestamp": "2026-04-13T10:30:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "1",
+      "path": "europe/france/val_disere/1_3",
+      "prior_score": -2.3716,
+      "prior_variance": 1.665953,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 5.9998,
+      "prior_variance": 0.445022,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 1.7566,
+      "prior_variance": 0.35593,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 0.6609,
+      "prior_variance": 0.464852,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 2.237,
+      "prior_variance": 0.230556,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 3.4466,
+      "prior_variance": 0.520502,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_score": 0.6734,
+      "prior_variance": 0.425529,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 2.6968,
+      "prior_variance": 0.333022,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.9087,
+      "prior_variance": 0.523794,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": -0.5441,
+      "prior_variance": 0.379759,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -1.8191,
+      "prior_variance": 0.435312,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 1.7822,
+      "prior_variance": 0.49571,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -2.4435,
+      "prior_variance": 0.419941,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Devonport Tasmania Australia",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -0.6819,
+      "prior_variance": 0.396248,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -2.5493,
+      "prior_variance": 0.448823,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.0795,
+      "prior_variance": 0.425436,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -1.8916,
+      "prior_variance": 0.462743,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -1.8419,
+      "prior_variance": 0.463666,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverp/clitheroe",
+      "prior_score": -1.7574,
+      "prior_variance": 0.312467,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -1.6022,
+      "prior_variance": 0.404457,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pristina",
+      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
+      "prior_score": -3.965,
+      "prior_variance": 0.409165,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -1.7206,
+      "prior_variance": 0.362557,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_score": -3.4385,
+      "prior_variance": 0.395488,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "SANJAR SAIDAN",
+      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/sanjar_saidan",
+      "prior_score": -11.3147,
+      "prior_variance": 0.61943,
+      "prior_n": 3
+    }
+  ]
+}

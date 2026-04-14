@@ -1,0 +1,200 @@
+{
+  "round": 1985,
+  "timestamp": "2026-04-13T16:00:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Toledo",
+      "path": "europe/spain/centralspain/toledo",
+      "prior_score": 6.2884,
+      "prior_variance": 0.34548,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 4.2618,
+      "prior_variance": 0.289898,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Estes Park",
+      "path": "northamerica/unitedstates/colorado/estespark",
+      "prior_score": 5.5552,
+      "prior_variance": 0.437689,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 0.2514,
+      "prior_variance": 0.279782,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fischland-Darss-Zingst",
+      "path": "europe/germany/mecklenburgwesternpomerania/fischland_darss",
+      "prior_score": 1.9872,
+      "prior_variance": 0.248689,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.2908,
+      "prior_variance": 0.327701,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "American Samoa",
+      "path": "australiaandpacific/americansamoa",
+      "prior_score": -0.0298,
+      "prior_variance": 0.249334,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -0.0033,
+      "prior_variance": 0.25952,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -0.0387,
+      "prior_variance": 0.258388,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/colchester",
+      "prior_score": 0.184,
+      "prior_variance": 0.215439,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": 0.1815,
+      "prior_variance": 0.210427,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.2684,
+      "prior_variance": 0.267359,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -4.937,
+      "prior_variance": 0.289734,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -2.6038,
+      "prior_variance": 0.236032,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -3.0488,
+      "prior_variance": 0.345512,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -3.6224,
+      "prior_variance": 0.293782,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Roma",
+      "path": "australiaandpacific/australia/queensland/roma",
+      "prior_score": -3.9031,
+      "prior_variance": 0.299739,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Carrigaline",
+      "path": "europe/ireland/cork/carrigaline",
+      "prior_score": -3.3061,
+      "prior_variance": 0.266677,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -3.9302,
+      "prior_variance": 0.273165,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "San Marcos",
+      "path": "northamerica/unitedstates/california/sandiego/sanmarcos",
+      "prior_score": -3.2248,
+      "prior_variance": 0.221727,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Slidell",
+      "path": "northamerica/unitedstates/louisiana/slidell",
+      "prior_score": -4.3554,
+      "prior_variance": 0.269531,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -2.8401,
+      "prior_variance": 0.22377,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -4.9305,
+      "prior_variance": 0.346571,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_score": -4.053,
+      "prior_variance": 0.259603,
+      "prior_n": 5
+    }
+  ]
+}

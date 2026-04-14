@@ -1,0 +1,200 @@
+{
+  "round": 764,
+  "timestamp": "2026-04-12T10:47:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_mu": 29.5404,
+      "prior_sigma": 6.9341,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Wales",
+      "path": "europe/unitedkingdom/wales",
+      "prior_mu": 22.1124,
+      "prior_sigma": 4.1366,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_mu": 22.4649,
+      "prior_sigma": 3.8413,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_mu": 21.115,
+      "prior_sigma": 4.1471,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_mu": 22.2448,
+      "prior_sigma": 4.3298,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/sandiego/oceanside",
+      "prior_mu": 22.4135,
+      "prior_sigma": 5.518,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_mu": 22.5784,
+      "prior_sigma": 5.9037,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Idaho Cities of Stanley and Emmett",
+      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st",
+      "prior_mu": 22.4174,
+      "prior_sigma": 5.7462,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_mu": 22.285,
+      "prior_sigma": 5.3139,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_mu": 22.3115,
+      "prior_sigma": 5.9501,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Santiago",
+      "path": "africa/capeverde/saotiago",
+      "prior_mu": 22.7158,
+      "prior_sigma": 5.9486,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Haridwar",
+      "path": "asia/india/uttarpradesh/haridwar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "French Guiana",
+      "path": "southamerica/frenchguiana",
+      "prior_mu": 19.1968,
+      "prior_sigma": 4.7877,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cap-Ha\u00eftien",
+      "path": "northamerica/haiti/caphaitien",
+      "prior_mu": 22.1614,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_mu": 22.3574,
+      "prior_sigma": 5.2958,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_mu": 21.0506,
+      "prior_sigma": 3.4626,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_mu": 21.7182,
+      "prior_sigma": 5.703,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_mu": 21.5527,
+      "prior_sigma": 4.8336,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_mu": 21.1267,
+      "prior_sigma": 4.5903,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Goba",
+      "path": "africa/ethiopia/goba",
+      "prior_mu": 22.1302,
+      "prior_sigma": 5.4349,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_mu": 22.0614,
+      "prior_sigma": 5.9495,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kamen",
+      "path": "europe/germany/northrhinewestphalia/kamen",
+      "prior_mu": 22.3068,
+      "prior_sigma": 5.6711,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Beit Sahur",
+      "path": "asia/palestinianauthority/beitsahur",
+      "prior_mu": 21.2373,
+      "prior_sigma": 4.0453,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1232,
+  "timestamp": "2026-04-12T22:16:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_rank": 6920,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_rank": 5455,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Inland Empire",
+      "path": "northamerica/unitedstates/california/inlandempire",
+      "prior_rank": 7720,
+      "prior_wins": 13,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/oxnard",
+      "prior_rank": 7300,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Canyon",
+      "path": "northamerica/unitedstates/texas/amarillo/canyon",
+      "prior_rank": 4566,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_rank": 7088,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_rank": 8198,
+      "prior_wins": 3,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_rank": 7872,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanes",
+      "prior_rank": 5810,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_rank": 7086,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Moseley",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/moseley",
+      "prior_rank": 7168,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/wolverhampton",
+      "prior_rank": 5803,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_rank": 8040,
+      "prior_wins": 8,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Roth",
+      "path": "europe/germany/rhinelandpalatinate/roth",
+      "prior_rank": 7670,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale/fortuna",
+      "prior_rank": 6468,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ruskin",
+      "path": "northamerica/unitedstates/florida/ruskin",
+      "prior_rank": 7940,
+      "prior_wins": 11,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_rank": 7175,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_rank": 7117,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_rank": 7143,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_rank": 7388,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_rank": 7333,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_rank": 6221,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_rank": 6287,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_rank": 6903,
+      "prior_wins": 11,
+      "prior_n": 2
+    }
+  ]
+}

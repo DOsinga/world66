@@ -1,0 +1,200 @@
+{
+  "round": 1013,
+  "timestamp": "2026-04-12T22:04:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_rank": 5379,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_rank": 3450,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_rank": 6629,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_rank": 4344,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_rank": 7015,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Limburg",
+      "path": "europe/germany/hessen/limburg",
+      "prior_rank": 4695,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_rank": 5628,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_rank": 5820,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_rank": 7208,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Morrungulo",
+      "path": "africa/mozambique/morrungulo",
+      "prior_rank": 6824,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Robertson NSW",
+      "path": "australiaandpacific/australia/newsouthwales/robertson_nsw",
+      "prior_rank": 5411,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_rank": 4644,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_rank": 7026,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Poughkeepsie",
+      "path": "northamerica/unitedstates/newyorkstate/poughkeepsie",
+      "prior_rank": 3927,
+      "prior_wins": 12,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/ipswich",
+      "prior_rank": 5609,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_rank": 5825,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Barreiro",
+      "path": "europe/portugal/barreiro",
+      "prior_rank": 6990,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_rank": 5854,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_rank": 5042,
+      "prior_wins": 18,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_rank": 4640,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_rank": 6489,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_rank": 5423,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_rank": 7830,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_rank": 2703,
+      "prior_wins": 15,
+      "prior_n": 1
+    }
+  ]
+}

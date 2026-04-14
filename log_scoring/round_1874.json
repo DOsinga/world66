@@ -1,0 +1,200 @@
+{
+  "round": 1874,
+  "timestamp": "2026-04-13T10:59:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 8.4915,
+      "prior_variance": 0.29512,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 5.1868,
+      "prior_variance": 0.265665,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Peru",
+      "path": "southamerica/peru",
+      "prior_score": -0.8659,
+      "prior_variance": 0.523347,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 4.8495,
+      "prior_variance": 0.290531,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.0306,
+      "prior_variance": 0.255425,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.7324,
+      "prior_variance": 0.30841,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Marburg",
+      "path": "europe/germany/hesse/marburg",
+      "prior_score": 2.2476,
+      "prior_variance": 0.286051,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hillerod",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.8628,
+      "prior_variance": 0.305641,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -0.4818,
+      "prior_variance": 0.245159,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bydgoszcz",
+      "path": "europe/poland/bydgoszcz",
+      "prior_score": -2.2891,
+      "prior_variance": 0.304332,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": 0.634,
+      "prior_variance": 0.2719,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 2.1234,
+      "prior_variance": 0.270497,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -2.1963,
+      "prior_variance": 0.260772,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -4.2693,
+      "prior_variance": 0.324436,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_score": -2.9727,
+      "prior_variance": 0.378672,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -5.4182,
+      "prior_variance": 0.36952,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -5.4345,
+      "prior_variance": 0.336205,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Goba",
+      "path": "africa/ethiopia/goba",
+      "prior_score": -5.4477,
+      "prior_variance": 0.325059,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_score": -5.5624,
+      "prior_variance": 0.320531,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -9.6152,
+      "prior_variance": 1.509569,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mauritania",
+      "path": "africa/mauritania",
+      "prior_score": -8.1882,
+      "prior_variance": 0.565297,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -8.3637,
+      "prior_variance": 0.380602,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -9.086,
+      "prior_variance": 0.414756,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dry Gap",
+      "path": "northamerica/unitedstates/kentucky/dry_gap",
+      "prior_score": -7.7442,
+      "prior_variance": 0.383485,
+      "prior_n": 5
+    }
+  ]
+}

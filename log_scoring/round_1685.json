@@ -1,0 +1,200 @@
+{
+  "round": 1685,
+  "timestamp": "2026-04-13T10:42:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/northernspain/sansebastian",
+      "prior_score": 9.1199,
+      "prior_variance": 0.478852,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cayo Largo",
+      "path": "northamerica/cuba/cayolargo",
+      "prior_score": 3.3055,
+      "prior_variance": 0.316598,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_score": 2.7719,
+      "prior_variance": 0.232803,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 6.4584,
+      "prior_variance": 0.517748,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": 3.3952,
+      "prior_variance": 0.331151,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 3.2034,
+      "prior_variance": 0.426257,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang",
+      "prior_score": 1.2775,
+      "prior_variance": 0.263552,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 2.8748,
+      "prior_variance": 0.270804,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 1.9583,
+      "prior_variance": 0.477807,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Southland",
+      "path": "australiaandpacific/newzealand/south_island/southland",
+      "prior_score": 1.5015,
+      "prior_variance": 0.386999,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.3584,
+      "prior_variance": 0.363013,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -1.3321,
+      "prior_variance": 0.319038,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -1.0665,
+      "prior_variance": 0.439579,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_score": -1.3768,
+      "prior_variance": 0.308348,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -3.8529,
+      "prior_variance": 0.245271,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Aiea",
+      "path": "northamerica/unitedstates/hawaii/aiea",
+      "prior_score": -1.8663,
+      "prior_variance": 0.315473,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -4.4397,
+      "prior_variance": 0.417182,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.9883,
+      "prior_variance": 0.293457,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Jambi",
+      "path": "asia/indonesia/jambi",
+      "prior_score": -3.9516,
+      "prior_variance": 0.342018,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -4.1049,
+      "prior_variance": 0.325951,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Oklahoma",
+      "path": "northamerica/unitedstates/oklahoma",
+      "prior_score": -4.8959,
+      "prior_variance": 0.312589,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Menzah",
+      "path": "africa/tunisia/menzah",
+      "prior_score": -5.5347,
+      "prior_variance": 0.332247,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mahon",
+      "path": "europe/ireland/cork/mahon",
+      "prior_score": -5.4221,
+      "prior_variance": 0.415187,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -7.2215,
+      "prior_variance": 0.482089,
+      "prior_n": 4
+    }
+  ]
+}

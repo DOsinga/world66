@@ -1,0 +1,200 @@
+{
+  "round": 2292,
+  "timestamp": "2026-04-13T16:28:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seychelles",
+      "path": "africa/seychelles",
+      "prior_score": 10.2702,
+      "prior_variance": 0.367199,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 5.811,
+      "prior_variance": 0.255477,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": 0.5114,
+      "prior_variance": 0.25267,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_par",
+      "prior_score": 1.031,
+      "prior_variance": 0.25131,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": 0.6005,
+      "prior_variance": 0.213064,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lo Pagan",
+      "path": "europe/spain/spanishcostas/lopagan",
+      "prior_score": 0.0724,
+      "prior_variance": 0.194833,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -0.4466,
+      "prior_variance": 0.151,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": 0.1144,
+      "prior_variance": 0.274592,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.1618,
+      "prior_variance": 0.228201,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Dari\u00e9n Gap",
+      "path": "northamerica/panama/dariengap",
+      "prior_score": -4.0969,
+      "prior_variance": 0.418334,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.0244,
+      "prior_variance": 0.239735,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bie",
+      "prior_score": 0.1272,
+      "prior_variance": 0.238492,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.6842,
+      "prior_variance": 0.234691,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -1.1022,
+      "prior_variance": 0.214241,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Le Havre",
+      "path": "europe/france/nord/lehavre",
+      "prior_score": -0.482,
+      "prior_variance": 0.222485,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_score": -2.2335,
+      "prior_variance": 0.175887,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/vermont/greensboro",
+      "prior_score": -1.8663,
+      "prior_variance": 0.210945,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": 0.6,
+      "prior_variance": 0.24733,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -3.8654,
+      "prior_variance": 0.288263,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Cambridge",
+      "path": "northamerica/canada/ontario/cambridge",
+      "prior_score": -2.5324,
+      "prior_variance": 0.207594,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Olongapo City",
+      "path": "asia/philippines/olongapocity",
+      "prior_score": -2.787,
+      "prior_variance": 0.246615,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -1.8706,
+      "prior_variance": 0.240415,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/langley/museum",
+      "prior_score": -4.082,
+      "prior_variance": 0.239722,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_score": -5.67,
+      "prior_variance": 0.303384,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1467,
+  "timestamp": "2026-04-12T22:29:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama",
+      "path": "northamerica/panama",
+      "prior_rank": 3692,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Connecticut",
+      "path": "northamerica/unitedstates/connecticut",
+      "prior_rank": 2758,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Around Town",
+      "path": "northamerica/canada/alberta/calgary/aroundtown",
+      "prior_rank": 3101,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_rank": 2789,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_rank": 3193,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ripon",
+      "prior_rank": 6544,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/hove",
+      "prior_rank": 2118,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Skerries",
+      "path": "europe/ireland/dublin/skerries",
+      "prior_rank": 4609,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_rank": 5623,
+      "prior_wins": 35,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_rank": 6103,
+      "prior_wins": 32,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_rank": 7377,
+      "prior_wins": 21,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_rank": 6740,
+      "prior_wins": 27,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_rank": 5310,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_rank": 5707,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_rank": 5694,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Samar Island",
+      "path": "asia/philippines/samarisland",
+      "prior_rank": 4304,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Trobriand Islands",
+      "path": "asia/papuanewguinea/trobriand_islands",
+      "prior_rank": 4572,
+      "prior_wins": 32,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_rank": 5722,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_rank": 3830,
+      "prior_wins": 47,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_rank": 5909,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_rank": 3811,
+      "prior_wins": 48,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_rank": 3571,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_rank": 6398,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_rank": 4339,
+      "prior_wins": 33,
+      "prior_n": 3
+    }
+  ]
+}

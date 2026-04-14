@@ -1,0 +1,200 @@
+{
+  "round": 1581,
+  "timestamp": "2026-04-13T10:33:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 12.8724,
+      "prior_variance": 0.643115,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Campania",
+      "path": "europe/italy/campania",
+      "prior_score": 12.5341,
+      "prior_variance": 0.711262,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 4.1129,
+      "prior_variance": 0.33563,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 3.1386,
+      "prior_variance": 0.420753,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_score": 1.5227,
+      "prior_variance": 0.361408,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -1.0192,
+      "prior_variance": 0.393056,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -0.8536,
+      "prior_variance": 0.345479,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Novi Sad",
+      "path": "europe/serbiaandmontenegro/novisad",
+      "prior_score": 2.6578,
+      "prior_variance": 0.311153,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": 0.9333,
+      "prior_variance": 0.180802,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 1.0716,
+      "prior_variance": 0.318629,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 2.8984,
+      "prior_variance": 0.243306,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.1513,
+      "prior_variance": 0.18372,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Lithuania",
+      "path": "europe/lithuania",
+      "prior_score": 0.3586,
+      "prior_variance": 0.505872,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": 0.6664,
+      "prior_variance": 0.343941,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.9726,
+      "prior_variance": 0.431613,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/kenilworth",
+      "prior_score": 0.9155,
+      "prior_variance": 0.41766,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ridgeway",
+      "path": "europe/unitedkingdom/england/ridgeway",
+      "prior_score": 0.3901,
+      "prior_variance": 0.440326,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": 1.0136,
+      "prior_variance": 0.375833,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Junin de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": 1.0329,
+      "prior_variance": 0.288606,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.1682,
+      "prior_variance": 0.336314,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -1.1166,
+      "prior_variance": 0.373901,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -0.2323,
+      "prior_variance": 0.461677,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -0.6955,
+      "prior_variance": 0.326607,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.1559,
+      "prior_variance": 0.337465,
+      "prior_n": 4
+    }
+  ]
+}

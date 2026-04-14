@@ -1,0 +1,200 @@
+{
+  "round": 908,
+  "timestamp": "2026-04-12T14:49:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 6.4318,
+      "prior_variance": 1.76496,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 6.4898,
+      "prior_variance": 1.013835,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 5.6591,
+      "prior_variance": 1.541497,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.8538,
+      "prior_variance": 0.268193,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Greater Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington",
+      "prior_score": 3.2187,
+      "prior_variance": 1.267568,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 4.463,
+      "prior_variance": 1.374456,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kyrgyzstan",
+      "path": "asia/kyrgyzstan",
+      "prior_score": 4.9464,
+      "prior_variance": 1.457822,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": -3.8632,
+      "prior_variance": 0.460589,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 2.6484,
+      "prior_variance": 0.721002,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Indianopolis",
+      "path": "northamerica/unitedstates/indiana/indianopolis",
+      "prior_score": -2.3506,
+      "prior_variance": 1.314984,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -2.7709,
+      "prior_variance": 1.457953,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/eastland/gisborne",
+      "prior_score": -0.3186,
+      "prior_variance": 1.399363,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -0.8919,
+      "prior_variance": 1.284577,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_score": -3.4381,
+      "prior_variance": 2.189994,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Odder",
+      "path": "europe/denmark/odder",
+      "prior_score": -3.3397,
+      "prior_variance": 1.376039,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -0.8662,
+      "prior_variance": 1.398445,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Higuey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -3.4675,
+      "prior_variance": 0.670321,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -4.1392,
+      "prior_variance": 1.410564,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -2.4463,
+      "prior_variance": 1.190154,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -3.4582,
+      "prior_variance": 1.213576,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "igheem",
+      "path": "africa/morocco/igheem",
+      "prior_score": -6.971,
+      "prior_variance": 1.205301,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -8.7613,
+      "prior_variance": 1.939802,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bangladesh",
+      "path": "asia/bangladesh",
+      "prior_score": -8.2774,
+      "prior_variance": 1.265587,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kaltinec",
+      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
+      "prior_score": -14.5004,
+      "prior_variance": 7.117071,
+      "prior_n": 1
+    }
+  ]
+}

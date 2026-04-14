@@ -1,0 +1,64 @@
+{
+  "round": 439,
+  "timestamp": "2026-04-12T09:30:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 7,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maldives",
+      "path": "asia/maldives",
+      "prior_mu": 29.6322,
+      "prior_sigma": 6.9341,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_mu": 26.8236,
+      "prior_sigma": 3.2509,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "South Mal\u00e9 Atoll",
+      "path": "asia/maldives/south_male_atoll",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mal\u00e9 Atoll",
+      "path": "asia/maldives/male_atoll",
+      "prior_mu": 31.6787,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_mu": 23.5929,
+      "prior_sigma": 5.0415,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_mu": 22.5329,
+      "prior_sigma": 5.8159,
+      "prior_n": 1
+    }
+  ]
+}

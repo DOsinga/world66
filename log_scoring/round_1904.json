@@ -1,0 +1,200 @@
+{
+  "round": 1904,
+  "timestamp": "2026-04-13T14:34:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorci",
+      "prior_score": 6.5715,
+      "prior_variance": 0.270835,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": 5.5197,
+      "prior_variance": 0.422903,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 4.5658,
+      "prior_variance": 0.259645,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Namibia",
+      "path": "africa/namibia",
+      "prior_score": 8.588,
+      "prior_variance": 0.798085,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_score": 1.9506,
+      "prior_variance": 0.274953,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.8763,
+      "prior_variance": 0.264912,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 1.8806,
+      "prior_variance": 0.272491,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_score": 1.9949,
+      "prior_variance": 0.338139,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Alba iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.0838,
+      "prior_variance": 0.265963,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 1.2837,
+      "prior_variance": 0.277197,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 1.0624,
+      "prior_variance": 0.260161,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Stavoren",
+      "path": "europe/netherlands/friesland/stavoren",
+      "prior_score": -1.6724,
+      "prior_variance": 0.174029,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -1.0015,
+      "prior_variance": 0.328889,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_score": -3.3489,
+      "prior_variance": 0.29242,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": -1.4558,
+      "prior_variance": 0.363145,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -3.2748,
+      "prior_variance": 0.299165,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ballyvolane",
+      "path": "europe/ireland/cork/ballyvolane",
+      "prior_score": -2.5405,
+      "prior_variance": 0.432171,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/huddersfield",
+      "prior_score": -1.6716,
+      "prior_variance": 0.342655,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": 0.2411,
+      "prior_variance": 0.43301,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -3.8555,
+      "prior_variance": 0.363947,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.942,
+      "prior_variance": 0.330592,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Burkina Faso",
+      "path": "africa/burkinafaso",
+      "prior_score": -9.5825,
+      "prior_variance": 0.687081,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Inland Empire",
+      "path": "northamerica/unitedstates/california/inlandempire",
+      "prior_score": -4.65,
+      "prior_variance": 0.328271,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -3.9615,
+      "prior_variance": 0.310834,
+      "prior_n": 4
+    }
+  ]
+}

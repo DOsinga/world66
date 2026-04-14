@@ -1,0 +1,200 @@
+{
+  "round": 1910,
+  "timestamp": "2026-04-13T15:53:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mauritius",
+      "path": "africa/mauritius",
+      "prior_score": 9.4046,
+      "prior_variance": 0.502823,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 8.0644,
+      "prior_variance": 0.426301,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Malaysia",
+      "path": "asia/malaysia",
+      "prior_score": 0.0994,
+      "prior_variance": 0.436526,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 7.1343,
+      "prior_variance": 0.508325,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "China",
+      "path": "asia/china",
+      "prior_score": 2.1969,
+      "prior_variance": 0.546337,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 2.5416,
+      "prior_variance": 0.345202,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 6.0846,
+      "prior_variance": 0.228692,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Estonia",
+      "path": "europe/estonia",
+      "prior_score": -3.691,
+      "prior_variance": 0.40689,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadei",
+      "prior_score": 4.1968,
+      "prior_variance": 0.297909,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 4.0773,
+      "prior_variance": 0.328444,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 5.9805,
+      "prior_variance": 0.449212,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.4516,
+      "prior_variance": 0.362808,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 5.2089,
+      "prior_variance": 0.292024,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 4.7074,
+      "prior_variance": 0.312298,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 4.4354,
+      "prior_variance": 0.284915,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_score": 3.4603,
+      "prior_variance": 0.289219,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_score": 1.5138,
+      "prior_variance": 0.271024,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Baden-W\u00fcrttemberg",
+      "path": "europe/germany/badenwrttemberg",
+      "prior_score": 1.0453,
+      "prior_variance": 0.435867,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.7484,
+      "prior_variance": 0.28798,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 2.7002,
+      "prior_variance": 0.26537,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 1.2263,
+      "prior_variance": 0.316102,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.5054,
+      "prior_variance": 0.295481,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/southampton",
+      "prior_score": -1.0154,
+      "prior_variance": 0.31367,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -5.008,
+      "prior_variance": 0.319511,
+      "prior_n": 5
+    }
+  ]
+}

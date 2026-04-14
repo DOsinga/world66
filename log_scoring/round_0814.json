@@ -1,0 +1,200 @@
+{
+  "round": 814,
+  "timestamp": "2026-04-12T10:49:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_mu": 28.353,
+      "prior_sigma": 4.841,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bavaria",
+      "path": "europe/germany/bavaria",
+      "prior_mu": 24.2256,
+      "prior_sigma": 4.6689,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cook Islands",
+      "path": "australiaandpacific/cookislands",
+      "prior_mu": 23.6729,
+      "prior_sigma": 4.85,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Palau",
+      "path": "australiaandpacific/palau",
+      "prior_mu": 33.4468,
+      "prior_sigma": 5.9289,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_mu": 22.659,
+      "prior_sigma": 5.5362,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
+      "prior_mu": 22.5312,
+      "prior_sigma": 5.6891,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sahara desert",
+      "path": "africa/algeria/saharadesert",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_mu": 21.6926,
+      "prior_sigma": 4.8102,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_mu": 21.6322,
+      "prior_sigma": 4.573,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Le Carbet",
+      "path": "northamerica/martinique/le_carbet",
+      "prior_mu": 21.7318,
+      "prior_sigma": 4.8354,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_mu": 21.296,
+      "prior_sigma": 3.9846,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_mu": 21.8117,
+      "prior_sigma": 4.4669,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_mu": 22.7568,
+      "prior_sigma": 5.7055,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "mambucal",
+      "path": "asia/philippines/mambucal",
+      "prior_mu": 22.5545,
+      "prior_sigma": 5.5493,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_mu": 18.5446,
+      "prior_sigma": 4.9332,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_mu": 21.9614,
+      "prior_sigma": 4.5212,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_mu": 22.3997,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_mu": 22.2012,
+      "prior_sigma": 5.4628,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bearwood",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/bearwood",
+      "prior_mu": 19.4856,
+      "prior_sigma": 3.6698,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_mu": 19.1406,
+      "prior_sigma": 5.2488,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_mu": 18.0342,
+      "prior_sigma": 6.6983,
+      "prior_n": 1
+    }
+  ]
+}

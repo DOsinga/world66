@@ -1,0 +1,200 @@
+{
+  "round": 2280,
+  "timestamp": "2026-04-13T16:27:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kashmir",
+      "path": "asia/india/jammuandkashmir/kashmir",
+      "prior_score": 5.8765,
+      "prior_variance": 0.309115,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 4.1153,
+      "prior_variance": 0.236691,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.5208,
+      "prior_variance": 0.287218,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 1.343,
+      "prior_variance": 0.271341,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 1.8275,
+      "prior_variance": 0.226393,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 1.0041,
+      "prior_variance": 0.236147,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_score": 1.9056,
+      "prior_variance": 0.267454,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri",
+      "prior_score": 1.0965,
+      "prior_variance": 0.204759,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/girona/banyoles",
+      "prior_score": 2.0119,
+      "prior_variance": 0.266411,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.8306,
+      "prior_variance": 0.236969,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.407,
+      "prior_variance": 0.222946,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 0.1739,
+      "prior_variance": 0.21783,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": 0.5488,
+      "prior_variance": 0.219761,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": 0.5715,
+      "prior_variance": 0.271235,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": 0.6001,
+      "prior_variance": 0.181417,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 1.1061,
+      "prior_variance": 0.219426,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "West Virginia",
+      "path": "northamerica/unitedstates/westvirginia",
+      "prior_score": -1.5075,
+      "prior_variance": 0.220049,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.2096,
+      "prior_variance": 0.292641,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 0.2535,
+      "prior_variance": 0.210469,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Harihareshwer ( HAHAD/KONKAN)",
+      "path": "asia/india/maharashtra/harihareshwer__ha",
+      "prior_score": -2.2059,
+      "prior_variance": 0.249651,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -0.8381,
+      "prior_variance": 0.249923,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -2.2754,
+      "prior_variance": 0.22013,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -2.3415,
+      "prior_variance": 0.359728,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -4.4472,
+      "prior_variance": 0.24855,
+      "prior_n": 6
+    }
+  ]
+}

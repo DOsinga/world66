@@ -1,0 +1,200 @@
+{
+  "round": 1894,
+  "timestamp": "2026-04-13T14:34:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 11.7666,
+      "prior_variance": 0.656997,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "French Alps",
+      "path": "europe/france/alpes",
+      "prior_score": 10.5993,
+      "prior_variance": 0.577356,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Provence",
+      "path": "europe/france/midi_1/provence",
+      "prior_score": 8.9225,
+      "prior_variance": 0.932502,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "United Kingdom",
+      "path": "europe/unitedkingdom",
+      "prior_score": -2.3438,
+      "prior_variance": 0.399918,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": 2.8096,
+      "prior_variance": 0.286918,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": -0.3333,
+      "prior_variance": 0.272568,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 1.2544,
+      "prior_variance": 0.343575,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.9584,
+      "prior_variance": 0.306688,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.051,
+      "prior_variance": 0.27379,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hesse/wiesbaden",
+      "prior_score": 1.0871,
+      "prior_variance": 0.319072,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": -0.2794,
+      "prior_variance": 0.278609,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.2773,
+      "prior_variance": 0.33176,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -2.2177,
+      "prior_variance": 0.29743,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/coventry",
+      "prior_score": -2.5013,
+      "prior_variance": 0.291521,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": 1.7179,
+      "prior_variance": 0.326644,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.9106,
+      "prior_variance": 0.280044,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -2.4312,
+      "prior_variance": 0.243552,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -1.4733,
+      "prior_variance": 0.356114,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lesotho",
+      "path": "africa/lesotho",
+      "prior_score": 0.0989,
+      "prior_variance": 0.358306,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.0744,
+      "prior_variance": 0.262622,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -1.8163,
+      "prior_variance": 0.256183,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Jermuk",
+      "path": "europe/armenia/jermuk",
+      "prior_score": -0.8014,
+      "prior_variance": 0.308483,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -1.3668,
+      "prior_variance": 0.32809,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Thuburbo majus",
+      "path": "africa/tunisia/thuburbomajus",
+      "prior_score": -0.9839,
+      "prior_variance": 0.307177,
+      "prior_n": 5
+    }
+  ]
+}

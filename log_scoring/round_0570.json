@@ -1,0 +1,200 @@
+{
+  "round": 570,
+  "timestamp": "2026-04-12T10:37:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portree",
+      "path": "europe/unitedkingdom/scotland/skye/portree",
+      "prior_mu": 24.3372,
+      "prior_sigma": 5.8994,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_mu": 24.0668,
+      "prior_sigma": 5.8356,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_mu": 23.9609,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_mu": 21.9995,
+      "prior_sigma": 4.6862,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Scotland",
+      "path": "europe/unitedkingdom/scotland",
+      "prior_mu": 25.1879,
+      "prior_sigma": 5.1936,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/widecombe",
+      "prior_mu": 20.5987,
+      "prior_sigma": 2.4368,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/scarborough",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/ravenglass",
+      "prior_mu": 22.3012,
+      "prior_sigma": 5.9147,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_mu": 21.5921,
+      "prior_sigma": 4.5468,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/cheltenham",
+      "prior_mu": 21.3558,
+      "prior_sigma": 4.6546,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/bournemouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/norwich",
+      "prior_mu": 21.3615,
+      "prior_sigma": 3.8766,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/crewkerne",
+      "prior_mu": 21.6274,
+      "prior_sigma": 4.6129,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/sunderland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_notting/northampton",
+      "prior_mu": 21.7442,
+      "prior_sigma": 4.5927,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Staffordshire",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/staffordshire",
+      "prior_mu": 22.3001,
+      "prior_sigma": 5.7518,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/stokeontrent_st",
+      "prior_mu": 18.9682,
+      "prior_sigma": 5.1036,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_mu": 22.4481,
+      "prior_sigma": 5.7665,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Balsall Common",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/balsall_common",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_mu": 19.3496,
+      "prior_sigma": 5.1027,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Weybridge",
+      "path": "europe/unitedkingdom/england/weybridge",
+      "prior_mu": 22.3499,
+      "prior_sigma": 5.8642,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/england/crieff",
+      "prior_mu": 18.0752,
+      "prior_sigma": 6.4968,
+      "prior_n": 1
+    }
+  ]
+}

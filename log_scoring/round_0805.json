@@ -1,0 +1,200 @@
+{
+  "round": 805,
+  "timestamp": "2026-04-12T10:48:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_mu": 22.3223,
+      "prior_sigma": 5.6763,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_mu": 24.0334,
+      "prior_sigma": 5.8473,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Vagar",
+      "path": "europe/faroeislands/vagar",
+      "prior_mu": 22.8287,
+      "prior_sigma": 5.699,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverp/chester",
+      "prior_mu": 23.9217,
+      "prior_sigma": 5.2751,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_mu": 21.6866,
+      "prior_sigma": 4.4234,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_mu": 25.3448,
+      "prior_sigma": 5.4182,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_mu": 22.177,
+      "prior_sigma": 5.6211,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_mu": 22.7304,
+      "prior_sigma": 5.68,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_mu": 22.5265,
+      "prior_sigma": 5.95,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_mu": 21.1944,
+      "prior_sigma": 3.7221,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_mu": 22.5836,
+      "prior_sigma": 5.6925,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_mu": 21.625,
+      "prior_sigma": 4.3662,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_mu": 22.494,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_mu": 21.5359,
+      "prior_sigma": 4.6544,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_mu": 22.3896,
+      "prior_sigma": 5.9018,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_mu": 22.2231,
+      "prior_sigma": 5.5163,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_mu": 22.5992,
+      "prior_sigma": 5.9126,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_mu": 20.7913,
+      "prior_sigma": 3.4964,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_mu": 21.2841,
+      "prior_sigma": 4.6304,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_mu": 21.421,
+      "prior_sigma": 4.5411,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_mu": 21.2981,
+      "prior_sigma": 4.5133,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_mu": 18.6285,
+      "prior_sigma": 5.0078,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_mu": 21.6015,
+      "prior_sigma": 5.6629,
+      "prior_n": 1
+    }
+  ]
+}

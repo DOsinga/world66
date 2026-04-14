@@ -1,0 +1,200 @@
+{
+  "round": 1246,
+  "timestamp": "2026-04-12T22:17:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_rank": 6891,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_rank": 5491,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_rank": 6344,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_ca",
+      "prior_rank": 2212,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_rank": 4554,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Zurzach",
+      "path": "europe/switzerland/zurzach",
+      "prior_rank": 7123,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Joinville",
+      "path": "southamerica/brazil/joinville",
+      "prior_rank": 6589,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_rank": 7267,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Boblingen",
+      "path": "europe/germany/badenwrttemberg/boblingen",
+      "prior_rank": 6462,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Jacmel",
+      "path": "northamerica/haiti/jacmel",
+      "prior_rank": 6023,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_rank": 6924,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_rank": 7140,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_rank": 5956,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Indiana",
+      "path": "northamerica/unitedstates/indiana",
+      "prior_rank": 6507,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_rank": 6877,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_rank": 7126,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_rank": 3669,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Daly City",
+      "path": "northamerica/unitedstates/california/daly_city",
+      "prior_rank": 7828,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/redding",
+      "prior_rank": 7164,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_rank": 6466,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_rank": 6889,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/southampton/warsash",
+      "prior_rank": 6695,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/woldingham",
+      "prior_rank": 7723,
+      "prior_wins": 10,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_rank": 6110,
+      "prior_wins": 22,
+      "prior_n": 3
+    }
+  ]
+}

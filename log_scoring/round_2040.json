@@ -1,0 +1,200 @@
+{
+  "round": 2040,
+  "timestamp": "2026-04-13T16:05:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 8.0746,
+      "prior_variance": 0.351203,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 7.4444,
+      "prior_variance": 0.288668,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 6.9333,
+      "prior_variance": 0.292805,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 5.4815,
+      "prior_variance": 0.324815,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tanzania",
+      "path": "africa/tanzania",
+      "prior_score": -1.2079,
+      "prior_variance": 0.574524,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 3.5647,
+      "prior_variance": 0.301514,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 6.9946,
+      "prior_variance": 0.31251,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_score": 7.0192,
+      "prior_variance": 0.29361,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 4.8684,
+      "prior_variance": 0.303631,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Waikato",
+      "path": "australiaandpacific/newzealand/north_island/waikato",
+      "prior_score": 2.459,
+      "prior_variance": 0.280742,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 2.733,
+      "prior_variance": 0.277309,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": 0.6408,
+      "prior_variance": 0.230758,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 3.7537,
+      "prior_variance": 0.209604,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": -0.0051,
+      "prior_variance": 0.142881,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Southland",
+      "path": "australiaandpacific/newzealand/south_island/southland",
+      "prior_score": 1.4624,
+      "prior_variance": 0.263985,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_score": -0.079,
+      "prior_variance": 0.330346,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": 1.3629,
+      "prior_variance": 0.252976,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -1.2465,
+      "prior_variance": 0.435256,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -2.578,
+      "prior_variance": 0.355307,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 1.5126,
+      "prior_variance": 0.317662,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/yucatan/bocadelrio",
+      "prior_score": -1.7412,
+      "prior_variance": 0.240332,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -0.8532,
+      "prior_variance": 0.237646,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -2.0734,
+      "prior_variance": 0.252585,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -5.6795,
+      "prior_variance": 0.248585,
+      "prior_n": 5
+    }
+  ]
+}

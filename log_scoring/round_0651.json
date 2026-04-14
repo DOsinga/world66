@@ -1,0 +1,112 @@
+{
+  "round": 651,
+  "timestamp": "2026-04-12T10:41:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 13,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Coral Coast",
+      "path": "australiaandpacific/fiji/vitilevu/coral_coast",
+      "prior_mu": 23.615,
+      "prior_sigma": 6.0689,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_mu": 28.3293,
+      "prior_sigma": 3.2363,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_mu": 22.5651,
+      "prior_sigma": 5.774,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Fiji",
+      "path": "australiaandpacific/fiji",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Viti levu",
+      "path": "australiaandpacific/fiji/vitilevu",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/nadi",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_mu": 21.888,
+      "prior_sigma": 4.6962,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/suva",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_mu": 21.7862,
+      "prior_sigma": 4.839,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/lautoka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

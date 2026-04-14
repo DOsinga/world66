@@ -1,0 +1,200 @@
+{
+  "round": 250,
+  "timestamp": "2026-04-12T09:08:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_mu": 22.7443,
+      "prior_sigma": 5.9525,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_mu": 26.5279,
+      "prior_sigma": 6.0793,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinou",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Zacatecas",
+      "path": "northamerica/mexico/zacatecas",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Beverly Hills",
+      "path": "northamerica/unitedstates/california/losangeles/beverlyhills",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/maehongson/mae_sariang",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/greatyarmouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_mu": 21.5673,
+      "prior_sigma": 4.7201,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "saskatchewan river crossing",
+      "path": "northamerica/canada/alberta/saskatchewan_river",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/birmingham",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_mu": 22.7093,
+      "prior_sigma": 5.9482,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ontario",
+      "path": "northamerica/canada/ontario",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Stourbridge",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/stourbridge",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Batang Kali",
+      "path": "asia/malaysia/batangkali",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts/businesshours",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

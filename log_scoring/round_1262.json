@@ -1,0 +1,200 @@
+{
+  "round": 1262,
+  "timestamp": "2026-04-12T22:18:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Practical Information",
+      "path": "europe/spain/andalucia/granada/usefuladdresses",
+      "prior_rank": 6478,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/ceriale",
+      "prior_rank": 2562,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_rank": 5760,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Oderzo",
+      "path": "europe/italy/veneto/oderzo",
+      "prior_rank": 5813,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Beaches",
+      "path": "europe/ireland/dublin/beaches_1",
+      "prior_rank": 6017,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_rank": 4212,
+      "prior_wins": 56,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_rank": 4133,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_rank": 3866,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_rank": 6672,
+      "prior_wins": 15,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_rank": 6589,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_rank": 5045,
+      "prior_wins": 19,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_rank": 6419,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chesterfield",
+      "path": "europe/unitedkingdom/england/chesterfield",
+      "prior_rank": 4968,
+      "prior_wins": 29,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_rank": 6061,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_rank": 6934,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_rank": 6525,
+      "prior_wins": 13,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Surinam",
+      "path": "africa/mauritius/souillac/surinam",
+      "prior_rank": 6455,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_rank": 5473,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mardakan",
+      "path": "europe/azerbaijan/mardakan",
+      "prior_rank": 5361,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_rank": 4837,
+      "prior_wins": 30,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_rank": 4333,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_rank": 7380,
+      "prior_wins": 13,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_rank": 6726,
+      "prior_wins": 18,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_rank": 8182,
+      "prior_wins": 2,
+      "prior_n": 2
+    }
+  ]
+}

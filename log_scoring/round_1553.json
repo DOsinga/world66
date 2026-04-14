@@ -1,0 +1,200 @@
+{
+  "round": 1553,
+  "timestamp": "2026-04-13T10:30:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portugal",
+      "path": "europe/portugal",
+      "prior_score": 0.8862,
+      "prior_variance": 0.921209,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "New Caledonia",
+      "path": "australiaandpacific/newcaledonia",
+      "prior_score": 4.4401,
+      "prior_variance": 0.386485,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rangiroa",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa",
+      "prior_score": 9.9231,
+      "prior_variance": 0.348049,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Guadeloupe",
+      "path": "northamerica/guadeloupe",
+      "prior_score": 5.1445,
+      "prior_variance": 0.452512,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mekong delta",
+      "path": "asia/vietnam/mekongdelta",
+      "prior_score": 4.8041,
+      "prior_variance": 0.528487,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 6.1824,
+      "prior_variance": 0.398966,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 4.887,
+      "prior_variance": 0.543226,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ha'apai Group",
+      "path": "australiaandpacific/tonga/haapaigroup",
+      "prior_score": 1.8589,
+      "prior_variance": 0.403154,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Les Saintes",
+      "path": "northamerica/guadeloupe/lessaintes",
+      "prior_score": 6.0513,
+      "prior_variance": 0.42204,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 4.3628,
+      "prior_variance": 0.399664,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 7.5954,
+      "prior_variance": 0.390844,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 5.7798,
+      "prior_variance": 0.503909,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 5.9388,
+      "prior_variance": 0.515708,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 4.1283,
+      "prior_variance": 0.390445,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 2.0728,
+      "prior_variance": 0.506789,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 5.9346,
+      "prior_variance": 0.332517,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.8228,
+      "prior_variance": 0.44422,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_score": 4.9795,
+      "prior_variance": 0.334355,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 4.7218,
+      "prior_variance": 0.429416,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_gu",
+      "prior_score": 4.7673,
+      "prior_variance": 0.485143,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 8.4559,
+      "prior_variance": 0.451641,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 6.3869,
+      "prior_variance": 0.428902,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_score": 4.1577,
+      "prior_variance": 0.393548,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 2.1754,
+      "prior_variance": 0.40277,
+      "prior_n": 4
+    }
+  ]
+}

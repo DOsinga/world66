@@ -1,0 +1,200 @@
+{
+  "round": 906,
+  "timestamp": "2026-04-12T14:48:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 4.4073,
+      "prior_variance": 2.053267,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 2.4838,
+      "prior_variance": 1.426576,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 7.4226,
+      "prior_variance": 1.430769,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 7.1796,
+      "prior_variance": 2.084515,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 4.4229,
+      "prior_variance": 1.24538,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 2.1276,
+      "prior_variance": 1.583346,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 4.3668,
+      "prior_variance": 1.5813,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_score": 7.4984,
+      "prior_variance": 12.576287,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Basse-Terre",
+      "path": "northamerica/guadeloupe/basseterre",
+      "prior_score": 3.5745,
+      "prior_variance": 1.556193,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -1.1881,
+      "prior_variance": 1.509656,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tarkarli",
+      "path": "asia/india/maharashtra/konkan/tarkarli",
+      "prior_score": -1.1707,
+      "prior_variance": 0.723272,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": 1.3609,
+      "prior_variance": 1.590869,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -2.8312,
+      "prior_variance": 1.215447,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Shenzhen",
+      "path": "asia/china/shenzhen",
+      "prior_score": 1.8942,
+      "prior_variance": 1.26677,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": 0.4245,
+      "prior_variance": 0.630054,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -1.5293,
+      "prior_variance": 0.78623,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -0.39,
+      "prior_variance": 1.246976,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -0.4757,
+      "prior_variance": 2.654813,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -2.8494,
+      "prior_variance": 0.758031,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": 0.3191,
+      "prior_variance": 0.963352,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -2.0252,
+      "prior_variance": 1.240103,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -8.4265,
+      "prior_variance": 2.058945,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -5.5491,
+      "prior_variance": 3.988321,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -8.1573,
+      "prior_variance": 1.575186,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "round": 467,
+  "timestamp": "2026-04-12T09:31:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 3,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Gitega",
+      "path": "africa/burundi/gitega",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Burundi",
+      "path": "africa/burundi",
+      "prior_mu": 21.4006,
+      "prior_sigma": 5.4841,
+      "prior_n": 1
+    }
+  ]
+}

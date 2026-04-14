@@ -1,0 +1,200 @@
+{
+  "round": 1367,
+  "timestamp": "2026-04-12T22:23:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_rank": 3849,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_rank": 5618,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_rank": 6155,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_rank": 6275,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_rank": 6710,
+      "prior_wins": 32,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_rank": 3836,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_rank": 5978,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_rank": 5235,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Malanda",
+      "path": "australiaandpacific/australia/queensland/malanda",
+      "prior_rank": 6432,
+      "prior_wins": 28,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_rank": 6456,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_rank": 6361,
+      "prior_wins": 29,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_rank": 6231,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_rank": 7444,
+      "prior_wins": 14,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Alega",
+      "path": "australiaandpacific/americansamoa/alega",
+      "prior_rank": 7197,
+      "prior_wins": 16,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_rank": 4036,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mieres",
+      "path": "europe/spain/northernspain/mieres",
+      "prior_rank": 5582,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_rank": 5786,
+      "prior_wins": 25,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/fullerton",
+      "prior_rank": 3328,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_rank": 6415,
+      "prior_wins": 21,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_rank": 5977,
+      "prior_wins": 24,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_rank": 6736,
+      "prior_wins": 19,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Gronau",
+      "path": "europe/germany/northrhinewestphalia/gronau",
+      "prior_rank": 5588,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_rank": 6258,
+      "prior_wins": 22,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_rank": 5872,
+      "prior_wins": 24,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1984,
+  "timestamp": "2026-04-13T16:00:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 1.9121,
+      "prior_variance": 0.309536,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": -1.381,
+      "prior_variance": 0.311576,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimen",
+      "prior_score": -0.5319,
+      "prior_variance": 0.281343,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 0.0538,
+      "prior_variance": 0.433584,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.8861,
+      "prior_variance": 0.313148,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.2508,
+      "prior_variance": 0.253085,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 1.203,
+      "prior_variance": 0.332666,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -3.1486,
+      "prior_variance": 0.325441,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.3283,
+      "prior_variance": 0.245304,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.4069,
+      "prior_variance": 0.276279,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -2.7844,
+      "prior_variance": 0.316588,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.7698,
+      "prior_variance": 0.200546,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -2.5548,
+      "prior_variance": 0.12145,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": 0.238,
+      "prior_variance": 0.253688,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": 0.779,
+      "prior_variance": 0.257865,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Goiania",
+      "path": "southamerica/brazil/goiania",
+      "prior_score": -1.9964,
+      "prior_variance": 0.275374,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Armavir Marz",
+      "path": "europe/armenia/armavir_marz",
+      "prior_score": -4.0904,
+      "prior_variance": 0.275268,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/thetfordnorfolk",
+      "prior_score": -3.4207,
+      "prior_variance": 0.33222,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/bradford",
+      "prior_score": -2.454,
+      "prior_variance": 0.272411,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/florida/arcadia",
+      "prior_score": -5.4971,
+      "prior_variance": 0.244853,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_score": -3.5866,
+      "prior_variance": 0.335395,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Universities",
+      "path": "northamerica/canada/alberta/edmonton/universities",
+      "prior_score": -4.6556,
+      "prior_variance": 0.284521,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/mountainvieuw",
+      "prior_score": -2.7143,
+      "prior_variance": 0.254452,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -6.3272,
+      "prior_variance": 0.475638,
+      "prior_n": 5
+    }
+  ]
+}

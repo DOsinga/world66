@@ -1,0 +1,200 @@
+{
+  "round": 1352,
+  "timestamp": "2026-04-12T22:23:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_rank": 8036,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_rank": 8171,
+      "prior_wins": 4,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_rank": 7933,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_rank": 6600,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Waldorf",
+      "path": "northamerica/unitedstates/maryland/waldorf",
+      "prior_rank": 7903,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Passaic",
+      "path": "northamerica/unitedstates/newjersey/passaic",
+      "prior_rank": 8128,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_rank": 8090,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nebraska",
+      "path": "northamerica/unitedstates/nebraska",
+      "prior_rank": 7893,
+      "prior_wins": 9,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_rank": 6591,
+      "prior_wins": 20,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_rank": 8105,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Santa Clara de Tulpancingo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santa_clara_de_tul",
+      "prior_rank": 7985,
+      "prior_wins": 13,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "bagh azad kashmir",
+      "path": "asia/pakistan/azad_kashmir/bagh/bagh_azad_kashmir",
+      "prior_rank": 6120,
+      "prior_wins": 23,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "MAIRA",
+      "path": "asia/pakistan/abbottabad/maira",
+      "prior_rank": 8124,
+      "prior_wins": 7,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "pind gali abbottabad",
+      "path": "asia/pakistan/abbottabad/pind_gali_abbottab",
+      "prior_rank": 3835,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "chitta",
+      "path": "asia/pakistan/soon_valley/history_about_wadi/chitta",
+      "prior_rank": 8102,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mustafabad",
+      "path": "asia/pakistan/soon_valley/mustafabad",
+      "prior_rank": 8143,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "KURADHI",
+      "path": "asia/pakistan/soon_valley/kuradhi",
+      "prior_rank": 8181,
+      "prior_wins": 5,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Debsk",
+      "path": "europe/poland/debsk",
+      "prior_rank": 8091,
+      "prior_wins": 6,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_rank": 7991,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Pabre",
+      "path": "africa/burkinafaso/ouagadougou/excursions/pabre",
+      "prior_rank": 8079,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_rank": 7576,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_rank": 7667,
+      "prior_wins": 16,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_rank": 7786,
+      "prior_wins": 14,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_rank": 8170,
+      "prior_wins": 4,
+      "prior_n": 3
+    }
+  ]
+}

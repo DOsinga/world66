@@ -1,0 +1,200 @@
+{
+  "round": 1891,
+  "timestamp": "2026-04-13T14:33:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 5.912,
+      "prior_variance": 0.318927,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Smoky Mountains",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains",
+      "prior_score": 5.0689,
+      "prior_variance": 0.428121,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_score": 4.9872,
+      "prior_variance": 0.309723,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 5.5638,
+      "prior_variance": 0.327389,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gloucestershire",
+      "path": "europe/unitedkingdom/england/gloucestershire",
+      "prior_score": 2.167,
+      "prior_variance": 0.271045,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.096,
+      "prior_variance": 0.289949,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 4.2473,
+      "prior_variance": 0.302533,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cape Verde",
+      "path": "africa/capeverde",
+      "prior_score": 4.3297,
+      "prior_variance": 0.293688,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tilos",
+      "path": "europe/greece/tilos",
+      "prior_score": 3.5355,
+      "prior_variance": 0.290558,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 1.7743,
+      "prior_variance": 0.392971,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 4.3758,
+      "prior_variance": 0.353365,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 4.2476,
+      "prior_variance": 0.321894,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 3.9826,
+      "prior_variance": 0.37984,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_score": 1.9566,
+      "prior_variance": 0.293012,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.8731,
+      "prior_variance": 0.319651,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Basse-Terre",
+      "path": "northamerica/guadeloupe/basseterre",
+      "prior_score": 2.8699,
+      "prior_variance": 0.293066,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 2.7824,
+      "prior_variance": 0.256251,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.4157,
+      "prior_variance": 0.404312,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -1.0204,
+      "prior_variance": 0.368903,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -1.8002,
+      "prior_variance": 0.241352,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -2.5131,
+      "prior_variance": 0.239595,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -3.7789,
+      "prior_variance": 0.269815,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Belarus",
+      "path": "europe/belarus",
+      "prior_score": -4.5551,
+      "prior_variance": 0.427115,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -11.6893,
+      "prior_variance": 0.475516,
+      "prior_n": 4
+    }
+  ]
+}

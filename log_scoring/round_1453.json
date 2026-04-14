@@ -1,0 +1,200 @@
+{
+  "round": 1453,
+  "timestamp": "2026-04-12T22:28:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gudauri",
+      "path": "europe/georgia/tbilisi/gudauri",
+      "prior_rank": 3677,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_rank": 5010,
+      "prior_wins": 37,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Island \u0160olta",
+      "path": "europe/croatia/island_solta",
+      "prior_rank": 7192,
+      "prior_wins": 17,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_rank": 5419,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_rank": 874,
+      "prior_wins": 71,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_rank": 5330,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Murcia",
+      "path": "europe/spain/spanishcostas/murcia",
+      "prior_rank": 4342,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "O Saln\u00e9s (Salnes Valley)",
+      "path": "europe/spain/northernspain/o_salns_salnes",
+      "prior_rank": 3284,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_rank": 2985,
+      "prior_wins": 53,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_rank": 1218,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Frisian Islands",
+      "path": "europe/denmark/vadehavet/frisian_islands_in",
+      "prior_rank": 3031,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Frisian Islands",
+      "path": "europe/germany/lowersaxony/frisianislands",
+      "prior_rank": 2686,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hesse/wiesbaden",
+      "prior_rank": 3256,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_rank": 1435,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_rank": 3958,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_eus/portugalete",
+      "prior_rank": 2843,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_rank": 3990,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Victoria",
+      "path": "australiaandpacific/australia/victoria",
+      "prior_rank": 2449,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_rank": 4143,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_rank": 4457,
+      "prior_wins": 43,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_rank": 5526,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_rank": 3153,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_rank": 1800,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_rank": 3382,
+      "prior_wins": 38,
+      "prior_n": 3
+    }
+  ]
+}

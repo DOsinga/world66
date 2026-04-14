@@ -1,0 +1,200 @@
+{
+  "round": 1346,
+  "timestamp": "2026-04-12T22:22:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_rank": 607,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Oregon",
+      "path": "northamerica/unitedstates/oregon",
+      "prior_rank": 370,
+      "prior_wins": 98,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Botswana",
+      "path": "africa/botswana",
+      "prior_rank": 1068,
+      "prior_wins": 52,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_rank": 2269,
+      "prior_wins": 60,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_rank": 2702,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/chichester",
+      "prior_rank": 2534,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_rank": 523,
+      "prior_wins": 58,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_rank": 1926,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_rank": 3750,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_rank": 4154,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cuyahoga Valley",
+      "path": "northamerica/unitedstates/ohio/cuyahogavalley",
+      "prior_rank": 2703,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_rank": 1911,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_rank": 2563,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_rank": 1569,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_eus/guernika",
+      "prior_rank": 2841,
+      "prior_wins": 55,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Northern Cyprus",
+      "path": "asia/cyprus/northerncyprus",
+      "prior_rank": 4117,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_rank": 1453,
+      "prior_wins": 50,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Morvan",
+      "path": "europe/france/east/burgundy/morvan",
+      "prior_rank": 3231,
+      "prior_wins": 39,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Haut-Languedoc Regional Nature Park",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg",
+      "prior_rank": 2577,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_rank": 1286,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Passu",
+      "path": "asia/pakistan/passu",
+      "prior_rank": 1039,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_rank": 4100,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_rank": 3861,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_rank": 3710,
+      "prior_wins": 28,
+      "prior_n": 3
+    }
+  ]
+}

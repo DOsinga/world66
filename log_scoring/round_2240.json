@@ -1,0 +1,200 @@
+{
+  "round": 2240,
+  "timestamp": "2026-04-13T16:23:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 9.2246,
+      "prior_variance": 0.476907,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 5.7346,
+      "prior_variance": 0.301282,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 7.0151,
+      "prior_variance": 0.24868,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 5.59,
+      "prior_variance": 0.315491,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 4.5752,
+      "prior_variance": 0.272208,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 4.8841,
+      "prior_variance": 0.239218,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_score": 2.9764,
+      "prior_variance": 0.238241,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 3.994,
+      "prior_variance": 0.273463,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 3.66,
+      "prior_variance": 0.221054,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_score": 2.092,
+      "prior_variance": 0.189084,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 6.4605,
+      "prior_variance": 0.375465,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 2.5946,
+      "prior_variance": 0.245056,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/tavistock",
+      "prior_score": -0.1575,
+      "prior_variance": 0.231858,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": 0.5231,
+      "prior_variance": 0.219284,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.5955,
+      "prior_variance": 0.210236,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Eswatini (Swaziland)",
+      "path": "africa/swaziland",
+      "prior_score": -0.7694,
+      "prior_variance": 0.166878,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.7454,
+      "prior_variance": 0.292043,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Alto Mugello Area",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea",
+      "prior_score": 0.3092,
+      "prior_variance": 0.230948,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -1.2982,
+      "prior_variance": 0.234917,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_pa",
+      "prior_score": -0.7875,
+      "prior_variance": 0.237442,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.391,
+      "prior_variance": 0.253486,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Colima",
+      "path": "northamerica/mexico/yucatan/colima",
+      "prior_score": -3.5826,
+      "prior_variance": 0.246534,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/crawley",
+      "prior_score": -4.9723,
+      "prior_variance": 0.278326,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "LaGrange",
+      "path": "northamerica/unitedstates/indiana/lagrange",
+      "prior_score": -6.051,
+      "prior_variance": 0.238545,
+      "prior_n": 6
+    }
+  ]
+}

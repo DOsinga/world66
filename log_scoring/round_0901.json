@@ -1,0 +1,200 @@
+{
+  "round": 901,
+  "timestamp": "2026-04-12T14:48:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Asakusa",
+      "path": "asia/japan/tokyo/asakusa",
+      "prior_score": 12.0458,
+      "prior_variance": 1.668475,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Hokkaido",
+      "path": "asia/japan/hokkaido",
+      "prior_score": 10.944,
+      "prior_variance": 1.460101,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_score": 5.6959,
+      "prior_variance": 2.906333,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 3.7604,
+      "prior_variance": 0.597399,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 8.5957,
+      "prior_variance": 1.036057,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 6.4933,
+      "prior_variance": 0.799725,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 5.7683,
+      "prior_variance": 0.888088,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Marunouchi",
+      "path": "asia/japan/tokyo/marunouchi",
+      "prior_score": 4.6249,
+      "prior_variance": 1.282773,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kreuzberg",
+      "path": "europe/germany/berlin/kreuzberg",
+      "prior_score": 8.0607,
+      "prior_variance": 11.868029,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Luoyang",
+      "path": "asia/china/luoyang",
+      "prior_score": 2.7665,
+      "prior_variance": 0.403148,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": -2.2563,
+      "prior_variance": 0.736702,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": 2.573,
+      "prior_variance": 1.466182,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -1.2819,
+      "prior_variance": 1.301763,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": -0.2691,
+      "prior_variance": 1.397526,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": 1.647,
+      "prior_variance": 1.350075,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_re",
+      "prior_score": 0.5571,
+      "prior_variance": 1.216038,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": 0.1881,
+      "prior_variance": 1.212677,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -0.542,
+      "prior_variance": 1.203059,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -4.8598,
+      "prior_variance": 1.327871,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -4.816,
+      "prior_variance": 1.428636,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -8.552,
+      "prior_variance": 1.428621,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -6.9611,
+      "prior_variance": 2.295279,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -6.3191,
+      "prior_variance": 0.624651,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Hindunetion",
+      "path": "northamerica/guatemala/language/hindunetion",
+      "prior_score": -10.2744,
+      "prior_variance": 6.538397,
+      "prior_n": 1
+    }
+  ]
+}

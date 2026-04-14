@@ -1,0 +1,200 @@
+{
+  "round": 1639,
+  "timestamp": "2026-04-13T10:38:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 6.5806,
+      "prior_variance": 0.429667,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 7.485,
+      "prior_variance": 0.326665,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine/poitiers",
+      "prior_score": 0.9743,
+      "prior_variance": 0.25026,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Khaplu",
+      "path": "asia/pakistan/skardu/khaplu",
+      "prior_score": 0.5702,
+      "prior_variance": 0.34764,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "MoorKhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -6.2958,
+      "prior_variance": 0.551351,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tarkarli",
+      "path": "asia/india/maharashtra/konkan/tarkarli",
+      "prior_score": -0.4257,
+      "prior_variance": 0.321416,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": 0.048,
+      "prior_variance": 0.331119,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_score": -2.5225,
+      "prior_variance": 0.321041,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -2.7885,
+      "prior_variance": 0.323225,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Crewkerne",
+      "path": "europe/unitedkingdom/england/crewkerne",
+      "prior_score": -3.879,
+      "prior_variance": 0.553633,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -3.1178,
+      "prior_variance": 0.205807,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "San Pedro",
+      "path": "northamerica/unitedstates/california/san_pedro",
+      "prior_score": -3.1264,
+      "prior_variance": 0.409256,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_score": -3.9401,
+      "prior_variance": 0.447077,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.756,
+      "prior_variance": 0.306927,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.9168,
+      "prior_variance": 0.276528,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -5.3839,
+      "prior_variance": 0.510952,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -7.0371,
+      "prior_variance": 0.527673,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_score": -3.5859,
+      "prior_variance": 0.319187,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -4.0019,
+      "prior_variance": 0.441183,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -3.6895,
+      "prior_variance": 0.395476,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -4.5934,
+      "prior_variance": 0.5154,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -5.3899,
+      "prior_variance": 0.412968,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_score": -6.7304,
+      "prior_variance": 0.441018,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -6.2436,
+      "prior_variance": 0.255374,
+      "prior_n": 8
+    }
+  ]
+}

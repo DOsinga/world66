@@ -1,0 +1,200 @@
+{
+  "round": 1005,
+  "timestamp": "2026-04-12T22:04:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Schwaendi",
+      "path": "europe/switzerland/schwaendi",
+      "prior_rank": 7557,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_rank": 6451,
+      "prior_wins": 11,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Amstetten",
+      "path": "europe/austria/amstetten",
+      "prior_rank": 8185,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_rank": 7860,
+      "prior_wins": 5,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_rank": 8188,
+      "prior_wins": 1,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_rank": 7753,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_rank": 7354,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_rank": 7503,
+      "prior_wins": 8,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_rank": 7735,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_rank": 5914,
+      "prior_wins": 7,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_rank": 7331,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Paniqui",
+      "path": "asia/philippines/paniqui",
+      "prior_rank": 8087,
+      "prior_wins": 2,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_rank": 7423,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_rank": 7302,
+      "prior_wins": 7,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_rank": 7598,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_rank": 7427,
+      "prior_wins": 3,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_rank": 7232,
+      "prior_wins": 7,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_rank": 8052,
+      "prior_wins": 1,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_rank": 7619,
+      "prior_wins": 5,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_rank": 7622,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_rank": 5906,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "al khasra",
+      "path": "asia/oman/alkhuwair/al_khasra",
+      "prior_rank": 7788,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_rank": 7774,
+      "prior_wins": 2,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Espresso Country",
+      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/espressocountry",
+      "prior_rank": 7957,
+      "prior_wins": 3,
+      "prior_n": 2
+    }
+  ]
+}

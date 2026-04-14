@@ -1,0 +1,200 @@
+{
+  "round": 1983,
+  "timestamp": "2026-04-13T16:00:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 7.834,
+      "prior_variance": 0.360528,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 4.696,
+      "prior_variance": 0.296702,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 6.0848,
+      "prior_variance": 0.326626,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_pa",
+      "prior_score": 7.0015,
+      "prior_variance": 0.301673,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 7.0789,
+      "prior_variance": 0.335488,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 5.145,
+      "prior_variance": 0.388525,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_score": 5.3354,
+      "prior_variance": 0.31762,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 5.8473,
+      "prior_variance": 0.303168,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_score": 4.6035,
+      "prior_variance": 0.33709,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Las Palmas",
+      "path": "europe/spain/canaryislands/crancanaria/las_palmas",
+      "prior_score": 6.1851,
+      "prior_variance": 0.359008,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_score": 4.5617,
+      "prior_variance": 0.319466,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.2034,
+      "prior_variance": 0.248127,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.4585,
+      "prior_variance": 0.283473,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Vidoy",
+      "path": "europe/faroeislands/vidoy",
+      "prior_score": 0.6147,
+      "prior_variance": 0.246522,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 1.0474,
+      "prior_variance": 0.257466,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Alberta",
+      "path": "northamerica/canada/alberta",
+      "prior_score": -1.621,
+      "prior_variance": 0.404619,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/ventimiglia",
+      "prior_score": 1.8187,
+      "prior_variance": 0.286156,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": 1.2217,
+      "prior_variance": 0.270049,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -1.1677,
+      "prior_variance": 0.219429,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kirklees",
+      "path": "europe/unitedkingdom/kirklees",
+      "prior_score": -4.1382,
+      "prior_variance": 0.287047,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -2.5334,
+      "prior_variance": 0.268091,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chernobyl",
+      "path": "europe/ukraine/chernobyl",
+      "prior_score": -1.6881,
+      "prior_variance": 0.292048,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -7.0714,
+      "prior_variance": 0.46776,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -8.5063,
+      "prior_variance": 0.76509,
+      "prior_n": 5
+    }
+  ]
+}

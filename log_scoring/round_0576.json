@@ -1,0 +1,200 @@
+{
+  "round": 576,
+  "timestamp": "2026-04-12T10:38:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aeolian Islands",
+      "path": "europe/italy/sicily/aeolianislands",
+      "prior_mu": 25.994,
+      "prior_sigma": 6.2992,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_mu": 31.5286,
+      "prior_sigma": 6.4963,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_mu": 22.4062,
+      "prior_sigma": 4.7139,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_mu": 25.2969,
+      "prior_sigma": 6.0099,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_mu": 22.8281,
+      "prior_sigma": 5.5191,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_mu": 24.1427,
+      "prior_sigma": 5.4922,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Corniglia",
+      "path": "europe/italy/liguria/corniglia",
+      "prior_mu": 29.4332,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_mu": 22.6863,
+      "prior_sigma": 4.5395,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_mu": 22.4103,
+      "prior_sigma": 5.784,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Valle d'Aosta",
+      "path": "europe/italy/valledaosta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Valpolicella",
+      "path": "europe/italy/veneto/valpolicella",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_mu": 21.9644,
+      "prior_sigma": 4.6459,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Veneto",
+      "path": "europe/italy/veneto",
+      "prior_mu": 25.7901,
+      "prior_sigma": 6.0793,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_mu": 22.5331,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_mu": 21.818,
+      "prior_sigma": 4.8056,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_mu": 22.6992,
+      "prior_sigma": 5.9468,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_mu": 19.07,
+      "prior_sigma": 5.0952,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_mu": 21.8053,
+      "prior_sigma": 5.7119,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Marghera",
+      "path": "europe/italy/veneto/marghera",
+      "prior_mu": 18.1882,
+      "prior_sigma": 6.7562,
+      "prior_n": 1
+    }
+  ]
+}

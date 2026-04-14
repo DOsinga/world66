@@ -1,0 +1,200 @@
+{
+  "round": 1512,
+  "timestamp": "2026-04-13T10:27:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -0.4577,
+      "prior_variance": 0.397942,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Alcazar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_jua",
+      "prior_score": -2.6008,
+      "prior_variance": 0.359384,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -2.5192,
+      "prior_variance": 0.439461,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
+      "prior_score": -2.9732,
+      "prior_variance": 0.391751,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -0.5196,
+      "prior_variance": 0.304715,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -2.2775,
+      "prior_variance": 0.31957,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -2.3566,
+      "prior_variance": 0.423236,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -2.5462,
+      "prior_variance": 0.372482,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -2.1534,
+      "prior_variance": 0.439449,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kincumber",
+      "path": "australiaandpacific/australia/newsouthwales/kincumber",
+      "prior_score": -2.4564,
+      "prior_variance": 0.489156,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Shenyang",
+      "path": "asia/china/shenyang",
+      "prior_score": -3.2694,
+      "prior_variance": 0.462054,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -4.0215,
+      "prior_variance": 0.932358,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.077,
+      "prior_variance": 0.42747,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -3.6549,
+      "prior_variance": 0.440832,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Khoram Abad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -3.2554,
+      "prior_variance": 0.413725,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_franc",
+      "prior_score": -3.9213,
+      "prior_variance": 0.408624,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -2.7743,
+      "prior_variance": 0.320621,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -3.1739,
+      "prior_variance": 0.434763,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -1.7466,
+      "prior_variance": 0.351625,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_score": -1.0581,
+      "prior_variance": 0.453362,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.2985,
+      "prior_variance": 0.498329,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -4.7679,
+      "prior_variance": 0.321716,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "La Romaine",
+      "path": "northamerica/trinidadandtobago/laromaine",
+      "prior_score": -3.3642,
+      "prior_variance": 0.301694,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/vallejo",
+      "prior_score": -3.8383,
+      "prior_variance": 0.482057,
+      "prior_n": 3
+    }
+  ]
+}

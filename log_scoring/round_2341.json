@@ -1,0 +1,200 @@
+{
+  "round": 2341,
+  "timestamp": "2026-04-13T16:32:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anguilla",
+      "path": "northamerica/anguilla",
+      "prior_score": 5.3821,
+      "prior_variance": 0.273399,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_score": 4.6732,
+      "prior_variance": 0.282856,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 6.473,
+      "prior_variance": 0.226897,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 6.0854,
+      "prior_variance": 0.242359,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 3.9965,
+      "prior_variance": 0.295293,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 5.6233,
+      "prior_variance": 0.234919,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 2.0863,
+      "prior_variance": 0.241149,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Westman islands",
+      "path": "europe/iceland/westmanislands",
+      "prior_score": 3.2913,
+      "prior_variance": 0.202106,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort/durham",
+      "prior_score": 2.4716,
+      "prior_variance": 0.241918,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Tonsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 1.7217,
+      "prior_variance": 0.21993,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Penticton",
+      "path": "northamerica/canada/britishcolumbia/penticton",
+      "prior_score": 1.0168,
+      "prior_variance": 0.234742,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.2626,
+      "prior_variance": 0.208113,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.4961,
+      "prior_variance": 0.228999,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Norfolk Island",
+      "path": "australiaandpacific/norfolkisland",
+      "prior_score": -0.3685,
+      "prior_variance": 0.224254,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 0.4663,
+      "prior_variance": 0.241676,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.4466,
+      "prior_variance": 0.281944,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.5113,
+      "prior_variance": 0.233023,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -0.426,
+      "prior_variance": 0.286788,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -3.5292,
+      "prior_variance": 0.208495,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Carrigaline",
+      "path": "europe/ireland/cork/carrigaline",
+      "prior_score": -3.1857,
+      "prior_variance": 0.211955,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -2.9255,
+      "prior_variance": 0.392922,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -2.8724,
+      "prior_variance": 0.234132,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -5.1171,
+      "prior_variance": 0.225722,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Dkhila",
+      "path": "africa/tunisia/dkhila",
+      "prior_score": -6.5651,
+      "prior_variance": 0.32494,
+      "prior_n": 6
+    }
+  ]
+}

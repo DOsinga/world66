@@ -1,0 +1,200 @@
+{
+  "round": 2246,
+  "timestamp": "2026-04-13T16:23:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_score": 6.8249,
+      "prior_variance": 0.258829,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 6.043,
+      "prior_variance": 0.419045,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highla",
+      "prior_score": 3.4694,
+      "prior_variance": 0.242881,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 3.7049,
+      "prior_variance": 0.287255,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 4.2729,
+      "prior_variance": 0.258053,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_p",
+      "prior_score": 2.8219,
+      "prior_variance": 0.219326,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 2.9194,
+      "prior_variance": 0.325228,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 3.7075,
+      "prior_variance": 0.252554,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_score": 3.8639,
+      "prior_variance": 0.218711,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 2.6008,
+      "prior_variance": 0.213195,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 2.3519,
+      "prior_variance": 0.283409,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Palm Springs Area",
+      "path": "northamerica/unitedstates/california/deserts/palmspringsarea",
+      "prior_score": 3.2381,
+      "prior_variance": 0.23016,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "\u201cCoroico\u201d",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 1.3792,
+      "prior_variance": 0.525535,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_score": 2.2762,
+      "prior_variance": 0.224813,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Hochpustertal",
+      "path": "europe/austria/hochpustertal",
+      "prior_score": 2.1183,
+      "prior_variance": 0.307983,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherlan",
+      "prior_score": 2.6144,
+      "prior_variance": 0.262605,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 2.0064,
+      "prior_variance": 0.208036,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": 0.9594,
+      "prior_variance": 0.277235,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.2339,
+      "prior_variance": 0.274144,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.883,
+      "prior_variance": 0.241342,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/gisborne",
+      "prior_score": 1.1018,
+      "prior_variance": 0.21226,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.2807,
+      "prior_variance": 0.209453,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -5.284,
+      "prior_variance": 0.266855,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Upper West",
+      "path": "africa/ghana/upper_west",
+      "prior_score": -4.4894,
+      "prior_variance": 0.30748,
+      "prior_n": 5
+    }
+  ]
+}

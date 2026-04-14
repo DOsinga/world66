@@ -1,0 +1,200 @@
+{
+  "round": 2253,
+  "timestamp": "2026-04-13T16:24:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/wellington",
+      "prior_score": 5.5096,
+      "prior_variance": 0.328638,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 2.6243,
+      "prior_variance": 0.265723,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 0.9868,
+      "prior_variance": 0.223672,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -0.5809,
+      "prior_variance": 0.241254,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.4087,
+      "prior_variance": 0.237465,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 1.504,
+      "prior_variance": 0.2934,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.4103,
+      "prior_variance": 0.239519,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": -0.0951,
+      "prior_variance": 0.282149,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -0.1048,
+      "prior_variance": 0.219955,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Tibas",
+      "path": "northamerica/costarica/tibas",
+      "prior_score": -2.6475,
+      "prior_variance": 0.221641,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "seal beach ca",
+      "path": "northamerica/unitedstates/california/seal_beach_ca",
+      "prior_score": -3.6214,
+      "prior_variance": 0.28995,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.4135,
+      "prior_variance": 0.253062,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Alabama",
+      "path": "northamerica/unitedstates/alabama",
+      "prior_score": -3.0829,
+      "prior_variance": 0.210775,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -5.1226,
+      "prior_variance": 0.316195,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -1.1477,
+      "prior_variance": 0.254101,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -4.9073,
+      "prior_variance": 0.388781,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -6.6144,
+      "prior_variance": 0.29111,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sudhnoti",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/sudnooti",
+      "prior_score": -6.5131,
+      "prior_variance": 0.335719,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Solms",
+      "path": "europe/germany/hessen/solms",
+      "prior_score": -6.0569,
+      "prior_variance": 0.27806,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -8.3859,
+      "prior_variance": 0.342039,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Jerico",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": -4.7144,
+      "prior_variance": 0.333214,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -6.6281,
+      "prior_variance": 0.314571,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Dag nabbit good stuf",
+      "path": "europe/luxembourg/beaufort/dag_nabbit_good_st",
+      "prior_score": -7.0368,
+      "prior_variance": 0.507469,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "United States",
+      "path": "northamerica/unitedstates",
+      "prior_score": -4.8139,
+      "prior_variance": 0.389469,
+      "prior_n": 7
+    }
+  ]
+}

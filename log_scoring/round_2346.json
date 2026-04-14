@@ -1,0 +1,200 @@
+{
+  "round": 2346,
+  "timestamp": "2026-04-13T16:33:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 10.4669,
+      "prior_variance": 0.362464,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Costa Smeralda",
+      "path": "europe/italy/sardinia/costasmeralda",
+      "prior_score": 7.9951,
+      "prior_variance": 0.417337,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Andorra",
+      "path": "europe/andorra",
+      "prior_score": 3.1452,
+      "prior_variance": 0.234288,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 2.0567,
+      "prior_variance": 0.245678,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": 1.2272,
+      "prior_variance": 0.230264,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 0.972,
+      "prior_variance": 0.181201,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": 0.6627,
+      "prior_variance": 0.217452,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -2.8269,
+      "prior_variance": 0.234601,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.712,
+      "prior_variance": 0.260927,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.6202,
+      "prior_variance": 0.175757,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -2.0036,
+      "prior_variance": 0.197769,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.5424,
+      "prior_variance": 0.23101,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -4.1259,
+      "prior_variance": 0.266812,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -3.9711,
+      "prior_variance": 0.214879,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Settat",
+      "path": "africa/morocco/settat",
+      "prior_score": -4.454,
+      "prior_variance": 0.369327,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -2.9829,
+      "prior_variance": 0.161461,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -4.8758,
+      "prior_variance": 0.233252,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -6.1161,
+      "prior_variance": 0.250017,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -5.1883,
+      "prior_variance": 0.21888,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "American Canyon",
+      "path": "northamerica/unitedstates/california/american_canyon",
+      "prior_score": -4.3331,
+      "prior_variance": 0.297504,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/west_bromwich",
+      "prior_score": -5.5414,
+      "prior_variance": 0.274177,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -6.0366,
+      "prior_variance": 0.241476,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -6.1596,
+      "prior_variance": 0.452681,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Moanda",
+      "path": "africa/congokinshasa/moanda",
+      "prior_score": -7.3075,
+      "prior_variance": 0.286245,
+      "prior_n": 7
+    }
+  ]
+}

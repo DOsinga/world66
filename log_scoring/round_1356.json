@@ -1,0 +1,200 @@
+{
+  "round": 1356,
+  "timestamp": "2026-04-12T22:23:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Mexico",
+      "path": "northamerica/unitedstates/newmexico",
+      "prior_rank": 382,
+      "prior_wins": 79,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lancaster County",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty",
+      "prior_rank": 2924,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_rank": 506,
+      "prior_wins": 116,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lindau",
+      "path": "europe/germany/badenwrttemberg/lindau",
+      "prior_rank": 3601,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_rank": 1462,
+      "prior_wins": 83,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_rank": 1929,
+      "prior_wins": 47,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_rank": 3101,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_rank": 2413,
+      "prior_wins": 44,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_rank": 3371,
+      "prior_wins": 51,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Santa Ponsa",
+      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
+      "prior_rank": 5542,
+      "prior_wins": 26,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_rank": 3072,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_rank": 1572,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/northland/ninety_mile_beach",
+      "prior_rank": 2947,
+      "prior_wins": 41,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_rank": 2193,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sao Luis",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_rank": 2541,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_rank": 4099,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hillerod",
+      "path": "europe/denmark/hillerod",
+      "prior_rank": 2023,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_rank": 3099,
+      "prior_wins": 40,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_rank": 3773,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_rank": 4260,
+      "prior_wins": 44,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_rank": 1763,
+      "prior_wins": 64,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_rank": 3038,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_rank": 3626,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_rank": 1455,
+      "prior_wins": 50,
+      "prior_n": 3
+    }
+  ]
+}

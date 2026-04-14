@@ -1,0 +1,200 @@
+{
+  "round": 1543,
+  "timestamp": "2026-04-13T10:30:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Greece",
+      "path": "europe/greece",
+      "prior_score": 4.9278,
+      "prior_variance": 0.776644,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Loire Valley",
+      "path": "europe/france/wine/loirevalley",
+      "prior_score": 6.0497,
+      "prior_variance": 0.543115,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hangzhou",
+      "path": "asia/china/hangzhou",
+      "prior_score": 6.2845,
+      "prior_variance": 0.470994,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Liguria",
+      "path": "europe/italy/liguria",
+      "prior_score": 5.4328,
+      "prior_variance": 0.507082,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 8.473,
+      "prior_variance": 0.942444,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/otago/fiordland/te_anau",
+      "prior_score": 9.689,
+      "prior_variance": 0.871233,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 4.8022,
+      "prior_variance": 0.520422,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 5.0958,
+      "prior_variance": 0.425748,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 4.9038,
+      "prior_variance": 0.404797,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mosel",
+      "path": "europe/germany/rhinelandpalatinate/mosel",
+      "prior_score": 5.3107,
+      "prior_variance": 0.447434,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 4.8432,
+      "prior_variance": 0.519447,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 5.582,
+      "prior_variance": 0.359041,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 5.3093,
+      "prior_variance": 0.365852,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 3.8831,
+      "prior_variance": 0.478438,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 5.9151,
+      "prior_variance": 0.4705,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Gibraltar",
+      "path": "europe/gibraltar",
+      "prior_score": 4.6392,
+      "prior_variance": 0.433753,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 4.2353,
+      "prior_variance": 0.276095,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 4.8497,
+      "prior_variance": 0.454553,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 4.5555,
+      "prior_variance": 0.309737,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 4.5206,
+      "prior_variance": 0.515301,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 4.2472,
+      "prior_variance": 0.442376,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 3.9384,
+      "prior_variance": 0.505075,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/hawkshead",
+      "prior_score": 3.6613,
+      "prior_variance": 0.458958,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 2.7454,
+      "prior_variance": 0.462902,
+      "prior_n": 3
+    }
+  ]
+}

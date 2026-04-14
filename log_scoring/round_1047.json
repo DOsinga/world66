@@ -1,0 +1,200 @@
+{
+  "round": 1047,
+  "timestamp": "2026-04-12T22:06:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tohoku",
+      "path": "asia/japan/tohoku",
+      "prior_rank": 4002,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Frankfurt",
+      "path": "europe/germany/hesse/frankfurt",
+      "prior_rank": 1045,
+      "prior_wins": 19,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_rank": 2367,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_rank": 4637,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_rank": 2997,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_rank": 6698,
+      "prior_wins": 10,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_rank": 4167,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_rank": 2542,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_rank": 4196,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Alba iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_rank": 2340,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_rank": 2156,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_rank": 4341,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_rank": 982,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_rank": 1783,
+      "prior_wins": 34,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_rank": 2350,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_rank": 1946,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_rank": 2327,
+      "prior_wins": 31,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_rank": 3793,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Marina del Rey",
+      "path": "northamerica/unitedstates/california/losangeles/marinadelrey",
+      "prior_rank": 1549,
+      "prior_wins": 35,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_rank": 2518,
+      "prior_wins": 30,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_rank": 4192,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_rank": 4156,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_rank": 2830,
+      "prior_wins": 29,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_rank": 3009,
+      "prior_wins": 14,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2334,
+  "timestamp": "2026-04-13T16:32:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_score": 4.2315,
+      "prior_variance": 0.292897,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 6.1607,
+      "prior_variance": 0.3009,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 1.6915,
+      "prior_variance": 0.402208,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bambolim",
+      "path": "asia/india/goa/bambolim",
+      "prior_score": -0.1644,
+      "prior_variance": 0.231385,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kuelap",
+      "path": "southamerica/peru/chachapoyas/kuelap",
+      "prior_score": 4.5085,
+      "prior_variance": 0.250218,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 2.1759,
+      "prior_variance": 0.2565,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": -0.0866,
+      "prior_variance": 0.232918,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 2.7724,
+      "prior_variance": 0.22677,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Koessen",
+      "path": "europe/austria/koessen",
+      "prior_score": -0.0946,
+      "prior_variance": 0.235663,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/exeter",
+      "prior_score": 1.8026,
+      "prior_variance": 0.197441,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.9377,
+      "prior_variance": 0.225247,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Coffs Harbour",
+      "path": "australiaandpacific/australia/newsouthwales/coffsharbour",
+      "prior_score": 0.814,
+      "prior_variance": 0.263565,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 2.4193,
+      "prior_variance": 0.189285,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -0.0102,
+      "prior_variance": 0.209588,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 1.501,
+      "prior_variance": 0.204152,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Terschelling island",
+      "path": "europe/netherlands/waddenislands/terschelling_islan",
+      "prior_score": 2.4874,
+      "prior_variance": 0.167052,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 2.6149,
+      "prior_variance": 0.28205,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 0.404,
+      "prior_variance": 0.244981,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.2434,
+      "prior_variance": 0.273576,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -1.9186,
+      "prior_variance": 0.226457,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Tassili n\u2019ajjer",
+      "path": "africa/algeria/tassilinajjer",
+      "prior_score": 3.0371,
+      "prior_variance": 0.272637,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -1.7483,
+      "prior_variance": 0.325816,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Karelia",
+      "path": "europe/russia/karelia",
+      "prior_score": -1.7757,
+      "prior_variance": 0.229616,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Bost",
+      "path": "asia/afghanistan/bost",
+      "prior_score": -11.6833,
+      "prior_variance": 0.654891,
+      "prior_n": 6
+    }
+  ]
+}

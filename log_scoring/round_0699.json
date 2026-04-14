@@ -1,0 +1,80 @@
+{
+  "round": 699,
+  "timestamp": "2026-04-12T10:43:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_mu": 22.0716,
+      "prior_sigma": 5.646,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_mu": 21.6924,
+      "prior_sigma": 4.8336,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_mu": 22.4161,
+      "prior_sigma": 5.938,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_mu": 23.0427,
+      "prior_sigma": 5.4424,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_mu": 20.71,
+      "prior_sigma": 3.7815,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_mu": 18.0564,
+      "prior_sigma": 6.7419,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Guyana",
+      "path": "southamerica/guyana",
+      "prior_mu": 22.4755,
+      "prior_sigma": 5.9493,
+      "prior_n": 1
+    }
+  ]
+}

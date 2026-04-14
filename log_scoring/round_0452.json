@@ -1,0 +1,200 @@
+{
+  "round": 452,
+  "timestamp": "2026-04-12T09:31:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/oxford",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol",
+      "prior_mu": 24.4347,
+      "prior_sigma": 6.0897,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Exmoor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor",
+      "prior_mu": 24.0601,
+      "prior_sigma": 5.3425,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/skipton",
+      "prior_mu": 22.427,
+      "prior_sigma": 4.8936,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
+      "prior_mu": 22.5342,
+      "prior_sigma": 5.9144,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/clitheroe",
+      "prior_mu": 22.7138,
+      "prior_sigma": 5.9488,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/ashburton",
+      "prior_mu": 21.3536,
+      "prior_sigma": 4.0999,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/weymouth",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Newcastle and North East",
+      "path": "europe/unitedkingdom/england/newcastle_and_nort",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Stockbridge",
+      "path": "europe/unitedkingdom/scotland/edinburgh/stockbridge",
+      "prior_mu": 22.6353,
+      "prior_sigma": 5.9379,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_mu": 21.2257,
+      "prior_sigma": 4.0843,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester",
+      "prior_mu": 22.6287,
+      "prior_sigma": 5.937,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/derby",
+      "prior_mu": 22.6029,
+      "prior_sigma": 5.9339,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/suffolk/ipswich",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/hitchin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Bury",
+      "path": "europe/unitedkingdom/england/bury",
+      "prior_mu": 21.7727,
+      "prior_sigma": 4.8118,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/coventry",
+      "prior_mu": 22.0397,
+      "prior_sigma": 5.7415,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/coventry",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/harrow",
+      "prior_mu": 22.959,
+      "prior_sigma": 5.6901,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
+      "prior_mu": 22.6898,
+      "prior_sigma": 5.9457,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Netherton",
+      "path": "europe/unitedkingdom/england/birmingham_and_wes/netherton",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

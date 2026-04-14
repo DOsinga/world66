@@ -1,0 +1,200 @@
+{
+  "round": 1406,
+  "timestamp": "2026-04-12T22:25:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_rank": 4405,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Solomon Islands",
+      "path": "australiaandpacific/solomonislands",
+      "prior_rank": 3181,
+      "prior_wins": 42,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cat island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_rank": 4146,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_rank": 1632,
+      "prior_wins": 48,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_rank": 4133,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_rank": 2046,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_rank": 5127,
+      "prior_wins": 31,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_rank": 3959,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lunigiana",
+      "path": "europe/italy/tuscany/lunigiana",
+      "prior_rank": 2071,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_rank": 3751,
+      "prior_wins": 36,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_rank": 4145,
+      "prior_wins": 34,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tessin",
+      "path": "europe/switzerland/tessin",
+      "prior_rank": 3329,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_rank": 2966,
+      "prior_wins": 74,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_rank": 4399,
+      "prior_wins": 31,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Remedios",
+      "path": "northamerica/cuba/remedios",
+      "prior_rank": 4258,
+      "prior_wins": 28,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dunster",
+      "prior_rank": 2070,
+      "prior_wins": 46,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
+      "prior_rank": 2770,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_rank": 2746,
+      "prior_wins": 42,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_rank": 3431,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islan/norderney",
+      "prior_rank": 5451,
+      "prior_wins": 27,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_rank": 3589,
+      "prior_wins": 37,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_rank": 4348,
+      "prior_wins": 33,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_rank": 2224,
+      "prior_wins": 45,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_rank": 3230,
+      "prior_wins": 39,
+      "prior_n": 3
+    }
+  ]
+}

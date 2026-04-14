@@ -1,0 +1,200 @@
+{
+  "round": 953,
+  "timestamp": "2026-04-12T16:09:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_rank": 1,
+      "prior_wins": 184,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "La Rochelle",
+      "path": "europe/france/midi/aquitaine/larochelle",
+      "prior_rank": 908,
+      "prior_wins": 40,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_rank": 521,
+      "prior_wins": 42,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_rank": 1281,
+      "prior_wins": 38,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_rank": 1993,
+      "prior_wins": 17,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_rank": 3080,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_rank": 2356,
+      "prior_wins": 160,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_rank": 5699,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_rank": 3891,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_rank": 4698,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_rank": 3051,
+      "prior_wins": 85,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_rank": 4525,
+      "prior_wins": 21,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_rank": 5213,
+      "prior_wins": 17,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_rank": 4664,
+      "prior_wins": 10,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bowen",
+      "path": "australiaandpacific/australia/newsouthwales/bowen",
+      "prior_rank": 6215,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_rank": 6838,
+      "prior_wins": 8,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_rank": 6227,
+      "prior_wins": 12,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_rank": 4193,
+      "prior_wins": 49,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "neguac",
+      "path": "northamerica/canada/newbrunswick/neguac",
+      "prior_rank": 7878,
+      "prior_wins": 3,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_rank": 5555,
+      "prior_wins": 15,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_rank": 7662,
+      "prior_wins": 4,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Goba",
+      "path": "africa/ethiopia/goba",
+      "prior_rank": 7304,
+      "prior_wins": 6,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_rank": 6785,
+      "prior_wins": 9,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_rank": 7215,
+      "prior_wins": 7,
+      "prior_n": 3
+    }
+  ]
+}

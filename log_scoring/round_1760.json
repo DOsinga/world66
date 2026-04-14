@@ -1,0 +1,200 @@
+{
+  "round": 1760,
+  "timestamp": "2026-04-13T10:48:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 3.7924,
+      "prior_variance": 0.406123,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 1.0744,
+      "prior_variance": 0.327011,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 4.5094,
+      "prior_variance": 0.380482,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 1.7603,
+      "prior_variance": 0.328725,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 0.971,
+      "prior_variance": 0.339191,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 1.4432,
+      "prior_variance": 0.286237,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 5.4663,
+      "prior_variance": 0.309264,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": 0.5687,
+      "prior_variance": 0.277694,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.3872,
+      "prior_variance": 0.270363,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Manawatu",
+      "path": "australiaandpacific/newzealand/north_island/manawatu",
+      "prior_score": -2.5727,
+      "prior_variance": 0.2987,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -1.991,
+      "prior_variance": 0.354703,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kentucky",
+      "path": "northamerica/unitedstates/kentucky",
+      "prior_score": -2.5711,
+      "prior_variance": 0.459679,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Illinois",
+      "path": "northamerica/unitedstates/illinois",
+      "prior_score": -5.3268,
+      "prior_variance": 0.52393,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_score": -4.2492,
+      "prior_variance": 0.386705,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -4.4984,
+      "prior_variance": 0.402833,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Independence",
+      "path": "northamerica/unitedstates/missouri/independence",
+      "prior_score": -2.8502,
+      "prior_variance": 0.303904,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -4.2377,
+      "prior_variance": 0.299063,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Calbayog",
+      "path": "asia/philippines/calbayog",
+      "prior_score": -2.2845,
+      "prior_variance": 0.275074,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -1.5764,
+      "prior_variance": 0.341752,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -3.0938,
+      "prior_variance": 0.193146,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -3.4429,
+      "prior_variance": 0.334158,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ialomita",
+      "path": "europe/romania/ialomita",
+      "prior_score": -5.8308,
+      "prior_variance": 0.392325,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang_1",
+      "prior_score": -3.7825,
+      "prior_variance": 0.357471,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -12.0175,
+      "prior_variance": 0.573189,
+      "prior_n": 4
+    }
+  ]
+}

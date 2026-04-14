@@ -1,0 +1,200 @@
+{
+  "round": 841,
+  "timestamp": "2026-04-12T14:44:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Turks and Caicos Islands",
+      "path": "northamerica/turks__caicos_isl",
+      "prior_score": 8.0601,
+      "prior_variance": 1.931336,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Anguilla",
+      "path": "northamerica/thecaribbean/anguilla",
+      "prior_score": 9.9176,
+      "prior_variance": 3.895723,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 7.1072,
+      "prior_variance": 1.825338,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 15.2392,
+      "prior_variance": 3.602337,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 4.5775,
+      "prior_variance": 1.467777,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Harbin",
+      "path": "asia/china/harbin",
+      "prior_score": 2.0422,
+      "prior_variance": 1.622796,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_score": 5.3137,
+      "prior_variance": 0.873881,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": -1.0008,
+      "prior_variance": 1.41857,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 0.2974,
+      "prior_variance": 1.490017,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 1.5984,
+      "prior_variance": 1.738649,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Central Plateau",
+      "path": "australiaandpacific/newzealand/central_plateau",
+      "prior_score": 1.1255,
+      "prior_variance": 2.081465,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": -0.3622,
+      "prior_variance": 1.370366,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": 3.232,
+      "prior_variance": 1.800793,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 2.4378,
+      "prior_variance": 1.572497,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Maluku",
+      "path": "asia/indonesia/maluku",
+      "prior_score": 0.2964,
+      "prior_variance": 1.389774,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -4.9757,
+      "prior_variance": 2.578637,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serr/serres",
+      "prior_score": -5.6123,
+      "prior_variance": 1.409586,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sokobanja",
+      "path": "europe/serbiaandmontenegro/sokobanja",
+      "prior_score": -6.2153,
+      "prior_variance": 1.548702,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": 0.0535,
+      "prior_variance": 1.554699,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -3.5637,
+      "prior_variance": 2.288715,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -7.9263,
+      "prior_variance": 2.640672,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lebialem",
+      "path": "africa/cameroon/lebialem",
+      "prior_score": -6.0525,
+      "prior_variance": 0.758087,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -5.7107,
+      "prior_variance": 1.639404,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -10.2115,
+      "prior_variance": 9.23562,
+      "prior_n": 1
+    }
+  ]
+}

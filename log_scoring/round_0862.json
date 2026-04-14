@@ -1,0 +1,200 @@
+{
+  "round": 862,
+  "timestamp": "2026-04-12T14:45:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 9.614,
+      "prior_variance": 1.825137,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_pa",
+      "prior_score": 12.9407,
+      "prior_variance": 8.153799,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 7.8444,
+      "prior_variance": 2.027071,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_score": 9.3351,
+      "prior_variance": 2.202709,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 5.1491,
+      "prior_variance": 5.81926,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 3.7849,
+      "prior_variance": 1.504948,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 2.1977,
+      "prior_variance": 1.317127,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 8.1894,
+      "prior_variance": 2.232585,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 1.3897,
+      "prior_variance": 1.611929,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -0.2219,
+      "prior_variance": 1.330446,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/sandiego/carlsbad",
+      "prior_score": -2.1322,
+      "prior_variance": 1.448151,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/sanfranciscobayarea/saratoga",
+      "prior_score": -2.0412,
+      "prior_variance": 1.334134,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": 0.2683,
+      "prior_variance": 1.60064,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": 0.2011,
+      "prior_variance": 1.460776,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -3.0741,
+      "prior_variance": 0.93261,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -0.5878,
+      "prior_variance": 1.604987,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -1.9465,
+      "prior_variance": 0.654712,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "West Orange",
+      "path": "northamerica/unitedstates/newjersey/westorange",
+      "prior_score": -6.3857,
+      "prior_variance": 0.833036,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Nybro",
+      "path": "europe/sweden/nybro",
+      "prior_score": -4.402,
+      "prior_variance": 1.207481,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_score": -2.6595,
+      "prior_variance": 1.926114,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ivory Coast",
+      "path": "africa/ivorycoast",
+      "prior_score": -2.8975,
+      "prior_variance": 1.453711,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -8.2141,
+      "prior_variance": 4.355076,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "San Juan del Ro",
+      "path": "northamerica/mexico/yucatan/sanjuandelro",
+      "prior_score": -5.757,
+      "prior_variance": 1.499563,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -4.2349,
+      "prior_variance": 0.952067,
+      "prior_n": 2
+    }
+  ]
+}

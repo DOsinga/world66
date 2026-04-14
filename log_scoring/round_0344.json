@@ -1,0 +1,200 @@
+{
+  "round": 344,
+  "timestamp": "2026-04-12T09:12:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Rico",
+      "path": "northamerica/thecaribbean/puertorico",
+      "prior_mu": 25.0395,
+      "prior_sigma": 6.2991,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Isle of Man",
+      "path": "europe/unitedkingdom/manisleof",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_mu": 23.1701,
+      "prior_sigma": 6.0059,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_mu": 22.6437,
+      "prior_sigma": 5.9389,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Karelia",
+      "path": "europe/russia/karelia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/worksop",
+      "prior_mu": 21.0418,
+      "prior_sigma": 5.7288,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Water",
+      "path": "northamerica/costarica/travelinformation/water",
+      "prior_mu": 22.5317,
+      "prior_sigma": 5.557,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Dag nabbit good stuf",
+      "path": "europe/luxembourg/beaufort/dag_nabbit_good_st",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_mu": 22.7225,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_mu": 14.6994,
+      "prior_sigma": 6.0842,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_mu": 19.1111,
+      "prior_sigma": 5.2493,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

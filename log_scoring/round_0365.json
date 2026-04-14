@@ -1,0 +1,200 @@
+{
+  "round": 365,
+  "timestamp": "2026-04-12T09:13:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mal\u00e9 Atoll",
+      "path": "asia/maldives/male_atoll",
+      "prior_mu": 29.2055,
+      "prior_sigma": 7.1948,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_mu": 21.7737,
+      "prior_sigma": 4.8056,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_mu": 22.0712,
+      "prior_sigma": 5.7502,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Lake yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 6,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_eus/guernika",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Rosses Point",
+      "path": "europe/ireland/sligo/rossespoint",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_mu": 22.054,
+      "prior_sigma": 4.577,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_mu": 22.7228,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon_1",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_mu": 21.6195,
+      "prior_sigma": 4.7405,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/suffolk/lowestoft",
+      "prior_mu": 22.674,
+      "prior_sigma": 5.9437,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Elyria",
+      "path": "northamerica/unitedstates/ohio/elyria",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_mu": 22.7226,
+      "prior_sigma": 5.9499,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_mu": 22.7203,
+      "prior_sigma": 5.9496,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1283,
+  "timestamp": "2026-04-12T22:19:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colombia",
+      "path": "southamerica/colombia",
+      "prior_rank": 4068,
+      "prior_wins": 23,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_rank": 735,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_rank": 1633,
+      "prior_wins": 66,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/keswick",
+      "prior_rank": 731,
+      "prior_wins": 57,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/bowness",
+      "prior_rank": 1704,
+      "prior_wins": 49,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_rank": 2854,
+      "prior_wins": 28,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_rank": 1929,
+      "prior_wins": 63,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_rank": 825,
+      "prior_wins": 56,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_rank": 3240,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_rank": 3991,
+      "prior_wins": 35,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_rank": 1293,
+      "prior_wins": 61,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_rank": 2665,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_rank": 925,
+      "prior_wins": 55,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_rank": 2582,
+      "prior_wins": 43,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_rank": 1017,
+      "prior_wins": 54,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Speyer",
+      "path": "europe/germany/badenwrttemberg/speyer",
+      "prior_rank": 1752,
+      "prior_wins": 65,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Wharfedale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
+      "prior_rank": 1324,
+      "prior_wins": 51,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_rank": 3473,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_rank": 1158,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_rank": 1463,
+      "prior_wins": 92,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Prince Edward County",
+      "path": "northamerica/canada/ontario/prince_edward_coun",
+      "prior_rank": 3381,
+      "prior_wins": 38,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pacific Beach",
+      "path": "northamerica/unitedstates/california/sandiego/pacificbeach",
+      "prior_rank": 1878,
+      "prior_wins": 32,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/sandiego/oceanside",
+      "prior_rank": 1169,
+      "prior_wins": 53,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Almagro",
+      "path": "europe/spain/centralspain/almagro",
+      "prior_rank": 5064,
+      "prior_wins": 19,
+      "prior_n": 2
+    }
+  ]
+}

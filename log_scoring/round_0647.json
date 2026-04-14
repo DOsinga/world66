@@ -1,0 +1,80 @@
+{
+  "round": 647,
+  "timestamp": "2026-04-12T10:41:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 9,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Singapore",
+      "path": "asia/singapore",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_mu": 25.5041,
+      "prior_sigma": 6.0611,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_mu": 22.0062,
+      "prior_sigma": 4.4203,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_mu": 22.961,
+      "prior_sigma": 5.726,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_mu": 22.7271,
+      "prior_sigma": 5.7117,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 8,
+      "title": "Islands",
+      "path": "asia/singapore/islands",
+      "prior_mu": 23.3582,
+      "prior_sigma": 5.7391,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_mu": 22.4574,
+      "prior_sigma": 5.9064,
+      "prior_n": 1
+    }
+  ]
+}

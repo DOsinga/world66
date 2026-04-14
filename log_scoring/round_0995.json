@@ -1,0 +1,200 @@
+{
+  "round": 995,
+  "timestamp": "2026-04-12T22:03:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_rank": 2259,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_rank": 3418,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Holmenkollen",
+      "path": "europe/norway/oslo/holmekollen",
+      "prior_rank": 2137,
+      "prior_wins": 33,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_rank": 2976,
+      "prior_wins": 22,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_rank": 1507,
+      "prior_wins": 18,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_rank": 2310,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_rank": 2683,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_rank": 3873,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
+      "prior_rank": 3522,
+      "prior_wins": 13,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_rank": 3264,
+      "prior_wins": 27,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Guadalajara",
+      "path": "europe/spain/centralspain/guadalajara",
+      "prior_rank": 2690,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_rank": 2230,
+      "prior_wins": 16,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_rank": 3120,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/lautoka",
+      "prior_rank": 4974,
+      "prior_wins": 14,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_rank": 2726,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/barnstaple",
+      "prior_rank": 3894,
+      "prior_wins": 24,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_rank": 3372,
+      "prior_wins": 26,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_rank": 4241,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_rank": 2767,
+      "prior_wins": 15,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_rank": 5471,
+      "prior_wins": 8,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_rank": 4653,
+      "prior_wins": 20,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Malawi",
+      "path": "africa/malawi",
+      "prior_rank": 4233,
+      "prior_wins": 11,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nunavut",
+      "path": "northamerica/canada/nunavut",
+      "prior_rank": 3115,
+      "prior_wins": 14,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kota batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_rank": 4711,
+      "prior_wins": 10,
+      "prior_n": 1
+    }
+  ]
+}

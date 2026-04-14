@@ -1,0 +1,200 @@
+{
+  "round": 1482,
+  "timestamp": "2026-04-13T10:24:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Andhra Pradesh",
+      "path": "asia/india/andhrapradesh",
+      "prior_score": -3.6693,
+      "prior_variance": 0.429598,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -4.1404,
+      "prior_variance": 0.463334,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -4.0972,
+      "prior_variance": 0.361753,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -4.0559,
+      "prior_variance": 0.472923,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -3.846,
+      "prior_variance": 0.470323,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_a/wakefield",
+      "prior_score": -3.0449,
+      "prior_variance": 0.317007,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -4.0276,
+      "prior_variance": 0.34884,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Soon Valley",
+      "path": "asia/pakistan/soon_valley/soon_valley_2",
+      "prior_score": -3.8681,
+      "prior_variance": 0.29321,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -5.2948,
+      "prior_variance": 0.456385,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -4.5655,
+      "prior_variance": 0.366561,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "N\u00e4vekvarn",
+      "path": "europe/sweden/nvekvarn",
+      "prior_score": -3.5207,
+      "prior_variance": 0.47948,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -4.3675,
+      "prior_variance": 0.420549,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -3.0691,
+      "prior_variance": 0.412062,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/losangeles/newhall",
+      "prior_score": -4.5556,
+      "prior_variance": 0.373426,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Clifton",
+      "path": "northamerica/unitedstates/newjersey/clifton",
+      "prior_score": -5.7083,
+      "prior_variance": 0.501826,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.5845,
+      "prior_variance": 0.407354,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "lakewood",
+      "path": "northamerica/unitedstates/ohio/lakewood",
+      "prior_score": -6.0881,
+      "prior_variance": 0.564061,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Parkersburg",
+      "path": "northamerica/unitedstates/westvirginia/parkersburg",
+      "prior_score": -6.0013,
+      "prior_variance": 0.348721,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -5.4164,
+      "prior_variance": 0.608676,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Espanola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -5.1745,
+      "prior_variance": 0.518285,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -5.2121,
+      "prior_variance": 0.411761,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -5.7358,
+      "prior_variance": 0.578278,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ha\u2019il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -5.0917,
+      "prior_variance": 0.346951,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -6.3028,
+      "prior_variance": 0.543417,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2067,
+  "timestamp": "2026-04-13T16:07:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 7.2553,
+      "prior_variance": 0.255538,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Menton",
+      "path": "europe/france/midi/menton",
+      "prior_score": 5.1956,
+      "prior_variance": 0.263232,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 6.7471,
+      "prior_variance": 0.39026,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_score": 4.4505,
+      "prior_variance": 0.339417,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 5.6965,
+      "prior_variance": 0.256729,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 5.6389,
+      "prior_variance": 0.291909,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Isle of Man",
+      "path": "europe/unitedkingdom/manisleof",
+      "prior_score": 3.0207,
+      "prior_variance": 0.2514,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rakitnica Canyon",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
+      "prior_score": 0.1118,
+      "prior_variance": 0.306914,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": 0.0511,
+      "prior_variance": 0.253771,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 2.1903,
+      "prior_variance": 0.249071,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.718,
+      "prior_variance": 0.262169,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_score": -0.8801,
+      "prior_variance": 0.26691,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach_1",
+      "prior_score": -3.0143,
+      "prior_variance": 0.258737,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -1.2784,
+      "prior_variance": 0.273191,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to",
+      "prior_score": -2.6917,
+      "prior_variance": 0.268011,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Nybro",
+      "path": "europe/sweden/nybro",
+      "prior_score": -3.7527,
+      "prior_variance": 0.242722,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -1.9235,
+      "prior_variance": 0.323683,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Banking",
+      "path": "northamerica/costarica/travelinformation/banking",
+      "prior_score": -5.9578,
+      "prior_variance": 0.309457,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.3233,
+      "prior_variance": 0.25951,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -2.375,
+      "prior_variance": 0.263046,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -5.5885,
+      "prior_variance": 0.279562,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -4.2288,
+      "prior_variance": 0.292305,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sefadu",
+      "path": "africa/sierraleone/sefadu",
+      "prior_score": -8.3628,
+      "prior_variance": 0.309674,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_score": -5.4326,
+      "prior_variance": 0.290242,
+      "prior_n": 5
+    }
+  ]
+}

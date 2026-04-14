@@ -1,0 +1,200 @@
+{
+  "round": 1567,
+  "timestamp": "2026-04-13T10:32:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 10.7783,
+      "prior_variance": 0.456884,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 9.9647,
+      "prior_variance": 0.439085,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 10.2399,
+      "prior_variance": 0.778351,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne_2",
+      "prior_score": 10.5665,
+      "prior_variance": 0.834374,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 11.9795,
+      "prior_variance": 0.908695,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 9.2947,
+      "prior_variance": 0.40698,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Andalucia",
+      "path": "europe/spain/andalucia",
+      "prior_score": 11.6264,
+      "prior_variance": 0.683903,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 10.2463,
+      "prior_variance": 0.535685,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 10.1328,
+      "prior_variance": 0.636578,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ryukyu islands",
+      "path": "asia/japan/ryukyuislands",
+      "prior_score": 9.193,
+      "prior_variance": 0.857746,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Havana",
+      "path": "northamerica/cuba/havana",
+      "prior_score": 8.5651,
+      "prior_variance": 1.210359,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_score": 10.0736,
+      "prior_variance": 0.507104,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 10.045,
+      "prior_variance": 0.666084,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 4.6819,
+      "prior_variance": 0.475928,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 7.4524,
+      "prior_variance": 0.653074,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 11.2462,
+      "prior_variance": 0.625425,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Queensland",
+      "path": "australiaandpacific/australia/queensland",
+      "prior_score": 1.5473,
+      "prior_variance": 0.514871,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 11.2913,
+      "prior_variance": 0.874495,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Riviera Maya",
+      "path": "northamerica/mexico/rivieramaya",
+      "prior_score": 9.1949,
+      "prior_variance": 0.438895,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/roatan",
+      "prior_score": 5.7254,
+      "prior_variance": 0.446407,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 4.8724,
+      "prior_variance": 0.424922,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 3.0789,
+      "prior_variance": 0.513028,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 1.6677,
+      "prior_variance": 0.357773,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -6.4203,
+      "prior_variance": 0.443487,
+      "prior_n": 4
+    }
+  ]
+}

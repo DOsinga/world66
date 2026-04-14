@@ -1,0 +1,200 @@
+{
+  "round": 836,
+  "timestamp": "2026-04-12T14:36:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ari Atoll",
+      "path": "asia/maldives/ari_atoll",
+      "prior_score": 13.2613,
+      "prior_variance": 4.132792,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 12.5999,
+      "prior_variance": 8.331593,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "New Town",
+      "path": "europe/unitedkingdom/scotland/edinburgh/newtown_1",
+      "prior_score": 12.0228,
+      "prior_variance": 8.641818,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 4.8872,
+      "prior_variance": 4.059842,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 10.1904,
+      "prior_variance": 2.696321,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 6.3175,
+      "prior_variance": 1.737915,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 1.7933,
+      "prior_variance": 1.750012,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Martinique",
+      "path": "northamerica/martinique",
+      "prior_score": 6.8322,
+      "prior_variance": 13.545191,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Solomon Islands",
+      "path": "australiaandpacific/solomonislands",
+      "prior_score": -7.7642,
+      "prior_variance": 11.693744,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -1.0358,
+      "prior_variance": 6.848144,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "La Trinite",
+      "path": "northamerica/martinique/latrinite",
+      "prior_score": 0.6475,
+      "prior_variance": 1.655767,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": -0.7867,
+      "prior_variance": 1.329054,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.3322,
+      "prior_variance": 1.686612,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.0281,
+      "prior_variance": 1.562878,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
+      "prior_score": -0.7912,
+      "prior_variance": 1.552496,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -4.0509,
+      "prior_variance": 1.615691,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -11.0133,
+      "prior_variance": 3.413288,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.1616,
+      "prior_variance": 1.674471,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -13.3571,
+      "prior_variance": 2.14502,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -10.1563,
+      "prior_variance": 3.789311,
+      "prior_n": 1
+    }
+  ]
+}

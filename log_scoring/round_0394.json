@@ -1,0 +1,200 @@
+{
+  "round": 394,
+  "timestamp": "2026-04-12T09:25:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denali Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 2,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 3,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_mu": 22.0403,
+      "prior_sigma": 4.2195,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_mu": 21.939,
+      "prior_sigma": 4.8375,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_mu": 22.9947,
+      "prior_sigma": 5.597,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 7,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_mu": 22.059,
+      "prior_sigma": 4.7053,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 9,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Meredith",
+      "path": "northamerica/unitedstates/newhampshire/meredith",
+      "prior_mu": 22.056,
+      "prior_sigma": 5.7484,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 12,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_mu": 22.6849,
+      "prior_sigma": 5.9452,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_mu": 20.5156,
+      "prior_sigma": 2.4132,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_mu": 21.6784,
+      "prior_sigma": 4.7367,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Canyon",
+      "path": "northamerica/unitedstates/texas/amarillo/canyon",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_mu": 22.5288,
+      "prior_sigma": 5.9138,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_mu": 22.864,
+      "prior_sigma": 5.7206,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_mu": 21.9462,
+      "prior_sigma": 4.8383,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_mu": 25.0,
+      "prior_sigma": 8.3333,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Orange Park",
+      "path": "northamerica/unitedstates/florida/orangepark",
+      "prior_mu": 20.4863,
+      "prior_sigma": 4.6344,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_mu": 22.6431,
+      "prior_sigma": 5.9388,
+      "prior_n": 1
+    }
+  ]
+}

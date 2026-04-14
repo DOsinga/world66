@@ -1,0 +1,200 @@
+{
+  "round": 1969,
+  "timestamp": "2026-04-13T15:58:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seychelles",
+      "path": "africa/seychelles",
+      "prior_score": 10.1649,
+      "prior_variance": 0.424059,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_score": 11.831,
+      "prior_variance": 0.722516,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 10.8948,
+      "prior_variance": 0.599025,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "The Cinque Terre",
+      "path": "europe/italy/liguria/thecinqueterre",
+      "prior_score": 10.7572,
+      "prior_variance": 1.157368,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 5.9792,
+      "prior_variance": 0.354675,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Montana",
+      "path": "northamerica/unitedstates/montana",
+      "prior_score": 3.8437,
+      "prior_variance": 0.322687,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Fontainebleau",
+      "path": "europe/france/paris/fontainebleau",
+      "prior_score": 5.4302,
+      "prior_variance": 0.272106,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Holmenkollen",
+      "path": "europe/norway/oslo/holmekollen",
+      "prior_score": 2.7304,
+      "prior_variance": 0.356277,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 1.9463,
+      "prior_variance": 0.323938,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -1.4755,
+      "prior_variance": 0.403326,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": 4.1117,
+      "prior_variance": 0.368769,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 3.5738,
+      "prior_variance": 0.236487,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 1.8797,
+      "prior_variance": 0.269994,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 1.1612,
+      "prior_variance": 0.274487,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 3.3185,
+      "prior_variance": 0.258653,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": -0.3002,
+      "prior_variance": 0.269007,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 2.4332,
+      "prior_variance": 0.303221,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": -1.1514,
+      "prior_variance": 0.324558,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 1.9822,
+      "prior_variance": 0.247899,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -2.4312,
+      "prior_variance": 0.339451,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -0.1536,
+      "prior_variance": 0.187842,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": 1.7799,
+      "prior_variance": 0.243325,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -1.0755,
+      "prior_variance": 0.238697,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": 0.724,
+      "prior_variance": 0.24878,
+      "prior_n": 5
+    }
+  ]
+}

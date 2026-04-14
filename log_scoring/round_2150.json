@@ -1,0 +1,200 @@
+{
+  "round": 2150,
+  "timestamp": "2026-04-13T16:15:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_score": 8.5764,
+      "prior_variance": 0.384225,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 5.799,
+      "prior_variance": 0.257119,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "La Jolla",
+      "path": "northamerica/unitedstates/california/sandiego/lajolla",
+      "prior_score": 3.7732,
+      "prior_variance": 0.255524,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 5.0972,
+      "prior_variance": 0.253854,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sixt Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 5.9451,
+      "prior_variance": 0.245393,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Chartreuse",
+      "path": "europe/france/alpes/chartreuse",
+      "prior_score": 4.3094,
+      "prior_variance": 0.264451,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Friuli Venezia Giulia",
+      "path": "europe/italy/friuliveneziagiulia",
+      "prior_score": 3.6139,
+      "prior_variance": 0.280306,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "South-West",
+      "path": "australiaandpacific/australia/tasmania/southwest",
+      "prior_score": 3.1444,
+      "prior_variance": 0.285051,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 5.504,
+      "prior_variance": 0.360658,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 5.5211,
+      "prior_variance": 0.270338,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Laugarvatn",
+      "path": "europe/iceland/laugarvatn",
+      "prior_score": 1.7453,
+      "prior_variance": 0.253,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 4.6775,
+      "prior_variance": 0.268531,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Slovakia",
+      "path": "europe/slovakia",
+      "prior_score": 3.5199,
+      "prior_variance": 0.194437,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.6728,
+      "prior_variance": 0.234517,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": 3.2749,
+      "prior_variance": 0.265996,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_score": 5.35,
+      "prior_variance": 0.325527,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 3.7678,
+      "prior_variance": 0.336776,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "The Coast",
+      "path": "africa/kenya/thecoast",
+      "prior_score": 0.2824,
+      "prior_variance": 0.262469,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 2.2913,
+      "prior_variance": 0.266987,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 4.2447,
+      "prior_variance": 0.305403,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 3.4237,
+      "prior_variance": 0.249229,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 1.9419,
+      "prior_variance": 0.232123,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 1.4099,
+      "prior_variance": 0.280813,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Guerrero negro",
+      "path": "northamerica/mexico/yucatan/guerreronegro",
+      "prior_score": -5.1638,
+      "prior_variance": 0.247888,
+      "prior_n": 5
+    }
+  ]
+}

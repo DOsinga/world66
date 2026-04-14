@@ -1,0 +1,200 @@
+{
+  "round": 1480,
+  "timestamp": "2026-04-13T10:24:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.1876,
+      "prior_variance": 0.495894,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Imperial Beach",
+      "path": "northamerica/unitedstates/california/sandiego/imperialbeach",
+      "prior_score": -1.9371,
+      "prior_variance": 0.27012,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Portsmouth",
+      "path": "northamerica/dominica/portsmouth",
+      "prior_score": -1.9731,
+      "prior_variance": 0.419983,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_score": -3.0956,
+      "prior_variance": 0.531313,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -2.705,
+      "prior_variance": 0.477268,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.5199,
+      "prior_variance": 0.463147,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -2.5994,
+      "prior_variance": 0.54076,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -2.7885,
+      "prior_variance": 0.407617,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hundecove",
+      "path": "europe/albania/saranda/hundecove",
+      "prior_score": -1.3401,
+      "prior_variance": 0.566913,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Calice Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/caliceligure",
+      "prior_score": -2.0374,
+      "prior_variance": 0.492453,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -2.9356,
+      "prior_variance": 0.588978,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -2.5033,
+      "prior_variance": 0.61143,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -2.3579,
+      "prior_variance": 0.415923,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -2.5329,
+      "prior_variance": 0.468366,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_score": -0.9128,
+      "prior_variance": 0.40853,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -2.5584,
+      "prior_variance": 0.443342,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_score": -2.4956,
+      "prior_variance": 0.193556,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -3.141,
+      "prior_variance": 0.441895,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.3372,
+      "prior_variance": 0.329999,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.4009,
+      "prior_variance": 0.756664,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -4.0367,
+      "prior_variance": 0.388289,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -2.7897,
+      "prior_variance": 0.404836,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "BAYAMON",
+      "path": "northamerica/puertorico/bayamon_1",
+      "prior_score": -2.5699,
+      "prior_variance": 0.474025,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -1.6941,
+      "prior_variance": 0.407596,
+      "prior_n": 3
+    }
+  ]
+}

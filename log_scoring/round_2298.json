@@ -1,0 +1,200 @@
+{
+  "round": 2298,
+  "timestamp": "2026-04-13T16:29:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "England",
+      "path": "europe/unitedkingdom/england",
+      "prior_score": -2.0224,
+      "prior_variance": 0.362079,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 5.4236,
+      "prior_variance": 0.260122,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Surry Hills",
+      "path": "australiaandpacific/australia/newsouthwales/surry_hills",
+      "prior_score": -1.2768,
+      "prior_variance": 0.217877,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.4608,
+      "prior_variance": 0.230496,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Cortenuova",
+      "path": "europe/italy/lombardia/cortenuova",
+      "prior_score": -4.746,
+      "prior_variance": 0.273077,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -2.6586,
+      "prior_variance": 0.188328,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 0.3586,
+      "prior_variance": 0.237641,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -2.5075,
+      "prior_variance": 0.254838,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.5205,
+      "prior_variance": 0.213646,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -3.096,
+      "prior_variance": 0.294176,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -2.5527,
+      "prior_variance": 0.25848,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Moravia",
+      "path": "northamerica/costarica/moravia",
+      "prior_score": -3.4252,
+      "prior_variance": 0.259709,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -3.3254,
+      "prior_variance": 0.253979,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -2.9202,
+      "prior_variance": 0.281146,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -3.4416,
+      "prior_variance": 0.230079,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.1138,
+      "prior_variance": 0.220677,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -4.7668,
+      "prior_variance": 0.239243,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.2059,
+      "prior_variance": 0.172003,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -4.7082,
+      "prior_variance": 0.305185,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -3.9748,
+      "prior_variance": 0.233172,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sangha region",
+      "path": "africa/congobrazzaville/sangharegion",
+      "prior_score": -4.3807,
+      "prior_variance": 0.248198,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.1296,
+      "prior_variance": 0.229784,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -5.6911,
+      "prior_variance": 0.218115,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_score": -4.5961,
+      "prior_variance": 0.257059,
+      "prior_n": 6
+    }
+  ]
+}

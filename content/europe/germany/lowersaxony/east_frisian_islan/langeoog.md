@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 53.74087
 longitude: 7.485917
+image: langeoog.jpg
+image_attribution: Carsten Steger
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Langeoog_(view_from_the_southwest).jpg
 title: Langeoog
 type: location
 ---

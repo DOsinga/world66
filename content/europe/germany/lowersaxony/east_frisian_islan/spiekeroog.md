@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 53.771059
 longitude: 7.694663
+image: spiekeroog.jpg
+image_attribution: Carsten Steger
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Spiekeroog_(view_from_the_east).jpg
 title: Spiekeroog
 type: location
 ---

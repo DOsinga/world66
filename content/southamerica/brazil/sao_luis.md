@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: -2.529526
 longitude: -44.296394
+image: sao_luis.jpg
+image_attribution: Ridiculopathy
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Ant%C3%B4nio_Lobo,_S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o_aka_Sao_Luis,_Maranhao_01.jpg
 title: São Luís
 type: location
 ---

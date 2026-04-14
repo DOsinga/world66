@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: -39.950866
 longitude: -71.070888
+image: junindelosandes.jpg
+image_attribution: Alexrebolledo
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:R%C3%ADo_Chimehu%C3%ADn_en_Jun%C3%ADn_de_los_Andes.JPG
 title: Junín de los Andes
 type: location
 ---

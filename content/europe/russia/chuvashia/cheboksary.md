@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 56.13996
 longitude: 47.2481
+image: cheboksary.jpg
+image_attribution: Alexxx1979
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cheboksary._Dormition_Church_P8121972_2200.jpg
 title: Cheboksary
 type: location
 ---

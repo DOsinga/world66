@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 53.783439
 longitude: 7.934211
+image: wangerooge.jpg
+image_attribution: Bergthil
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Strand_von_Wangerooge.jpg
 title: Wangerooge
 type: location
 ---

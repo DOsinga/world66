@@ -3,6 +3,10 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 31.3543
 longitude: 27.2373
+image: marsa_matroh.jpg
+image_attribution: "لا روسا"
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cleopatra_Bath,_Marsa_Matrouh_(22).jpg
 title: Marsa Matruh
 type: location
 ---

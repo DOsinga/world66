@@ -5,6 +5,10 @@ latitude: 55.4895
 longitude: 9.47905
 title: Kolding
 type: location
+image: kolding.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kolding_-_Slots%C3%B81.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Hubertus
 ---
 
 Kolding sits at the head of Kolding Fjord in southeast Jutland, a compact city of around 60,000 that makes a natural stop between Copenhagen and the Jutland peninsula. The centrepiece is Koldinghus, a medieval royal castle perched above the harbour that burned down in 1808 and was controversially rebuilt in the 1990s with raw concrete and steel — the result is striking and the museum inside is one of Denmark's best regional collections.

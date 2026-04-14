@@ -5,6 +5,10 @@ latitude: 25.792806
 longitude: -108.990188
 title: Los Mochis
 type: location
+image: losmochis.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Los_Mochis_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jeat1993
 ---
 
 Los Mochis is a modern agricultural city in northwest Sinaloa that most travellers pass through for one reason: it is the western terminus of the Chepe railway, the spectacular train line that crosses the Copper Canyon (Barranca del Cobre) to Chihuahua. The canyon system is larger and deeper than the Grand Canyon, and the train ride through it — clinging to cliffsides, crossing bridges over dizzying gorges — is one of Mexico's great journeys.

@@ -5,6 +5,10 @@ latitude: -18.244086
 longitude: -43.600649
 title: Diamantina
 type: location
+image: diamantina.jpg
+image_source: https://www.flickr.com/photos/7138083@N04/54566511351
+image_license: CC BY 2.0
+image_attribution: xiquinhosilva on Flickr
 ---
 
 Diamantina is a UNESCO World Heritage colonial town in the mountains of northern Minas Gerais, built on diamond wealth in the 18th century and remarkably well preserved since. The town clings to steep hillsides at around 1,200 m altitude, its cobbled streets lined with colourful colonial houses, baroque churches, and the ornate mansions of long-gone diamond merchants.

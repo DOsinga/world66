@@ -5,6 +5,10 @@ latitude: 47.583663
 longitude: -3.079443
 title: Carnac
 type: location
+image: carnac.jpg
+image_source: https://commons.wikimedia.org/wiki/File:4748.1099_Menhire,_bis_zu_4_Meter_hoch,_von_OstnachWest_in_1167_Meter_Langen_Alignements_(Granit-Steinreihen)_in_einem_Halbkreis_endend_Le_M%C3%A9nec,_Carnac,_Departement_Morbihan,_Bretagne_Steffen_Heilfort.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Steffen Heilfort
 ---
 
 Carnac is home to the largest collection of standing stones in the world — over 3,000 menhirs arranged in long parallel rows stretching across the Breton countryside. The alignments date to around 4500 BC, making them older than Stonehenge by more than a millennium, and nobody knows for certain why they were built. Walking among them is eerie and compelling in equal measure.

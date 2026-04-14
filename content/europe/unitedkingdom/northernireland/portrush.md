@@ -5,6 +5,10 @@ latitude: 55.206032
 longitude: -6.654049
 title: Portrush
 type: location
+image: portrush.jpg
+image_source: https://www.flickr.com/photos/33143388@N04/29936069244
+image_license: CC BY 2.0
+image_attribution: NH53 on Flickr
 ---
 
 Portrush is a small seaside town on the north Antrim coast, perched on a rocky headland between two sweeping sandy beaches. It is the nearest town to the Giant's Causeway, just 10 km to the east along one of the most dramatic stretches of coastline in Ireland — basalt cliffs, ruined castles, and the famous rope bridge at Carrick-a-Rede.

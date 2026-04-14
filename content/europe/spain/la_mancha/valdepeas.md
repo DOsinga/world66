@@ -5,6 +5,10 @@ latitude: 38.759457
 longitude: -3.384739
 title: Valdepeñas
 type: location
+image: valdepeas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Valdepe%C3%B1as_(Ciudad_Real).jpg
+image_license: CC BY 2.0
+image_attribution: Miguel Angel Masegosa Martínez
 ---
 
 Valdepeñas is the wine capital of La Mancha, sitting at the southern end of the vast Castilian plateau where the endless vineyards produce more wine than any other single region in the world. The town has been making wine since at least the 12th century, and it shows — bodegas line the streets, and the local Tempranillo-based reds are honest, full-bodied, and remarkably cheap.

@@ -5,6 +5,10 @@ latitude: 54.651668
 longitude: 8.353619
 title: Nebel, Amrum
 type: location
+image: nebel_amrum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Amrum_-_Weg_durch_die_D%C3%BCnen_zum_Strand_bei_Nebel.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jörg Braukmann
 ---
 
 Nebel is the main village on Amrum, one of the North Frisian Islands off the coast of Schleswig-Holstein. The island is tiny — 10 km long and barely 3 km wide — but it has one of the best beaches in northern Europe: the Kniepsand, an enormous sandbank on the western shore that stretches for kilometres and is so wide you can walk for ten minutes from the dunes before reaching the water.

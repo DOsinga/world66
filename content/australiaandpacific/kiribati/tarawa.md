@@ -5,6 +5,11 @@ latitude: 1.484554
 longitude: 172.968965
 title: Tarawa
 type: location
+image: tarawa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:South_Tarawa_from_the_air.jpg
+image_license: CC BY 3.0
+image_attribution: Photo taken by Government of Kiribati employee in the course of
+  their work
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Tarawa*

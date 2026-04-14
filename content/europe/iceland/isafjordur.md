@@ -5,6 +5,10 @@ latitude: 66.072692
 longitude: -23.119354
 title: Isafjordur
 type: location
+image: isafjordur.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isafjordur.jpg
+image_license: Public domain
+image_attribution: Aron ingi at English Wikipedia
 ---
 
 Isafjordur is the largest town in Iceland's remote Westfjords and about as far off the beaten track as you can get without leaving paved roads entirely. With a population of around 2,600, it sits on a dramatic spit of land jutting into the Skutulsfjordur fjord, hemmed in on all sides by steep mountains that catch the light in extraordinary ways during the long summer evenings.

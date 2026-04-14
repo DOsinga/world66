@@ -1,8 +1,6 @@
 ---
 title: "De Drie Hendricken"
 type: poi
-tags:
-  - city_walks
 latitude: 52.374285
 longitude: 4.879697
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Lindengracht"
 type: poi
-tags:
-  - city_walks
 latitude: 52.379818
 longitude: 4.882411
 ---

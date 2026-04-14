@@ -1,8 +1,6 @@
 ---
 title: "Ferdinand Bolstraat 177"
 type: poi
-tags:
-  - city_walks
 latitude: 52.352124
 longitude: 4.891354
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Karthuizerhof"
 type: poi
-tags:
-  - city_walks
 latitude: 52.378672
 longitude: 4.881312
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Ruysdaelkade 75"
 type: poi
-tags:
-  - city_walks
 latitude: 52.356278
 longitude: 4.887125
 ---

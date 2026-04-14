@@ -1,8 +1,6 @@
 ---
 title: "Koco IJssalon"
 type: poi
-tags:
-  - city_walks
 latitude: 52.352857
 longitude: 4.902972
 ---

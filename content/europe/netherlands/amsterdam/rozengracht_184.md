@@ -1,8 +1,6 @@
 ---
 title: "Rozengracht 184"
 type: poi
-tags:
-  - city_walks
 latitude: 52.372802
 longitude: 4.877599
 ---

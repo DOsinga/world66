@@ -165,8 +165,6 @@ For new waypoints, create a file at the city root:
 ---
 title: "De Nederlandsche Bank (1763 building)"
 type: poi
-tags:
-  - city_walks
 latitude: 52.3756
 longitude: 4.8812
 ---
@@ -175,6 +173,8 @@ The original site of the bank that collapsed in 1763, triggering the first docum
 ```
 
 The POI body is the compressed version of the story — 2–4 sentences. It appears as a tooltip on the map and as a linked stop in the walk. It should leave the reader wanting the full version.
+
+**Do not add `tags: - city_walks` to waypoint POI files.** That tag makes them appear as items in the city_walks section listing alongside the walks themselves. Waypoint POIs are reached via the walk's waypoints list, not by browsing the section. Only the walk file itself should carry `tags: - city_walks`.
 
 ## Step 7 — Create the section file (if missing)
 

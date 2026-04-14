@@ -179,8 +179,6 @@ For new waypoints (not already in a city section), create a file at the city roo
 ---
 title: "Sint Andrieshofje"
 type: poi
-tags:
-  - city_walks
 latitude: 52.3756
 longitude: 4.8812
 ---
@@ -189,6 +187,8 @@ A 17th-century hofje (almshouse courtyard) at Egelantiersgracht 107...
 ```
 
 Keep the body short (2–4 sentences). It appears as a tooltip on the map and as a linked stop in the walk.
+
+**Do not add `tags: - city_walks` to waypoint POI files.** That tag makes them appear as items in the city_walks section listing, alongside the walks themselves. Waypoint POIs are reached via the walk's waypoints list, not by browsing the section. Only the walk file itself should carry `tags: - city_walks`.
 
 ## Step 5 — Create the section file (if missing)
 

@@ -1,7 +1,6 @@
 europe/netherlands/waddenislands/texel_island/oudeschild
 europe/albania/saranda/hundecove
 europe/ireland/cork/monkstown
-australiaandpacific/australia/tasmania/southeast/dsa
 northamerica/unitedstates/vermont/greensboro
 northamerica/canada/ontario/sudbury
 asia/india/gujarat/limbdi

@@ -5,6 +5,10 @@ latitude: 39.140174
 longitude: 23.681376
 title: Skopelos
 type: location
+image: skopelos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:1008_Chapel_of_Agios_Ioannis_in_Skopelos_Photo_by_Giles_Laurent.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Giles Laurent
 ---
 
 Skopelos is the greenest island in the Aegean. Dense pine forests run right down to the waterline, covering nearly the entire island and giving it a lush, almost un-Greek character. It sits in the northern Sporades, between [Skiathos](/europe/greece/skiathos) and Alonnisos, and while it gained international fame as the filming location for Mamma Mia in 2008, it has managed to stay quieter and less developed than its neighbors.

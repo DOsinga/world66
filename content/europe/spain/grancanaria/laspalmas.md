@@ -1,9 +1,11 @@
 ---
-title: Las Palmas
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 28.1289
 longitude: -15.4349
 score: 0.68
+title: Las Palmas
+type: location
 ---
 
 Las Palmas de Gran Canaria is the largest city in the Canary Islands and one of the most underrated cities in Spain. It has the feel of a place that exists for its residents rather than its visitors — a working port city with genuine neighbourhoods, good food, and a long stretch of golden beach running right through the middle of town.

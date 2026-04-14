@@ -5,6 +5,10 @@ latitude: 31.8611
 longitude: 35.4608
 title: Jericho
 type: location
+image: jerico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arabischer_Mosaizist_um_735_001.jpg
+image_license: Public domain
+image_attribution: Arabischer Mosaizist um 735
 ---
 
 Jericho lays claim to being the oldest continuously inhabited city on earth — people have lived here for at least ten thousand years. It sits in the Jordan Valley roughly 400 metres below sea level, making it also one of the lowest cities in the world. The combination of heat, springs, and fertile soil has drawn settlers since the Neolithic, and the layers of history are visible everywhere.

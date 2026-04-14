@@ -1,6 +1,6 @@
 ---
-title: "Eagle Base"
-type: location
+title: Eagle Base
+type: section
 ---
 
 Travel Guide

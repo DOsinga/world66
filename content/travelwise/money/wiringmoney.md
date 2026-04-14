@@ -1,6 +1,6 @@
 ---
-title: "Wiring Money"
-type: location
+title: Wiring Money
+type: section
 ---
 
 [TravelWise](/world/travelwise) **>** [Money](/world/travelwise/money) **>** [Wiring Money](/world/travelwise/money/wiringmoney)

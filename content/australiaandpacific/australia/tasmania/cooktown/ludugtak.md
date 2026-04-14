@@ -1,6 +1,6 @@
 ---
-title: "lUdugtaK"
-type: location
+title: lUdugtaK
+type: spam
 ---
 
 Travel Guide

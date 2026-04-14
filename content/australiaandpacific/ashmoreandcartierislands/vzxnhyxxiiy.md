@@ -1,6 +1,6 @@
 ---
-title: "vzXNhYXxIiy"
-type: location
+title: vzXNhYXxIiy
+type: spam
 ---
 
 Travel Guide

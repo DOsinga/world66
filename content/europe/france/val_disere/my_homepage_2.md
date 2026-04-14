@@ -1,6 +1,6 @@
 ---
-title: "My homepage"
-type: location
+title: My homepage
+type: section
 ---
 
 Travel Guide

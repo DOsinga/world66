@@ -1,6 +1,6 @@
 ---
-title: "Sunrise Coffee"
-type: location
+title: Sunrise Coffee
+type: section
 latitude: 36.071941
 longitude: -115.107039
 ---

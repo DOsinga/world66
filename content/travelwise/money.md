@@ -1,6 +1,6 @@
 ---
-title: "Money"
-type: location
+title: Money
+type: section
 latitude: 37.400697
 longitude: -76.520784
 ---

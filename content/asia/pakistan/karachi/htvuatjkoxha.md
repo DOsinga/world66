@@ -2,7 +2,7 @@
 done:
   location_cleanup: '2026-04-10'
 title: hTVuatjKOXHA
-type: location
+type: spam
 ---
 
 Travel Guide

@@ -1,6 +1,6 @@
 ---
-title: "A perfect day"
-type: location
+title: A perfect day
+type: section
 ---
 
 Begin your tour at the Prague Castle once the home of Bohemian royalty which overlooks the city from the ancient quarter of Hradcany. It will take at least half the day to see the castle and its exhibits cathedrals the Loreta Convent the Gothic Vladislaus Hall and Zlata Ulicka (the Golden Lane a short street of charming little houses). While construction began in the 14th century St. Vitus’ Cathedral wasn’t finished until 1929. The cathedral has beautiful stained-glass windows and a southern gate with bucolic scenes of workmen at their craft. Behind the cathedral is the Basilica of St. George a well-preserved (and restored) Romanesque structure.

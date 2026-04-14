@@ -1,6 +1,6 @@
 ---
-title: "quldenq"
-type: location
+title: quldenq
+type: spam
 ---
 
 Travel Guide

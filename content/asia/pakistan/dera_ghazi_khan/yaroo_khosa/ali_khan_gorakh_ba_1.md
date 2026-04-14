@@ -1,6 +1,6 @@
 ---
-title: "ALI KHAN GORAKH BALOCH CHAH JAIND WAL"
-type: location
+title: ALI KHAN GORAKH BALOCH CHAH JAIND WAL
+type: section
 ---
 
 Travel Guide

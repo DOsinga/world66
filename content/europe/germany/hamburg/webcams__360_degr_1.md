@@ -1,6 +1,6 @@
 ---
-title: "Webcams & 360 degree pics"
-type: location
+title: Webcams & 360 degree pics
+type: section
 ---
 
 Marriott Hotels

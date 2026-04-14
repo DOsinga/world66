@@ -1,6 +1,6 @@
 ---
-title: "rMTbOTryFtycR"
-type: location
+title: rMTbOTryFtycR
+type: spam
 ---
 
 Travel Guide

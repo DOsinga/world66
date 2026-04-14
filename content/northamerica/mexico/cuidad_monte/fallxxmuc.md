@@ -1,6 +1,6 @@
 ---
-title: "fAlLxxMuc"
-type: location
+title: fAlLxxMuc
+type: spam
 ---
 
 Travel Guide

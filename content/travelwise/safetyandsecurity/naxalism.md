@@ -1,6 +1,6 @@
 ---
-title: "naxalism"
-type: location
+title: naxalism
+type: section
 ---
 
 [TravelWise](/world/travelwise) **>** [Safety and Security](/world/travelwise/safetyandsecurity) **>** [naxalism](/world/travelwise/safetyandsecurity/naxalism)

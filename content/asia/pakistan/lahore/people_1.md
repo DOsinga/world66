@@ -1,6 +1,6 @@
 ---
-title: "People"
-type: location
+title: People
+type: section
 latitude: 33.734068
 longitude: 73.136042
 ---

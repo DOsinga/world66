@@ -1,6 +1,6 @@
 ---
-title: "Packing Tips"
-type: location
+title: Packing Tips
+type: section
 ---
 
 [TravelWise](/world/travelwise) **>** [Safety and Security](/world/travelwise/safetyandsecurity) **>** [Packing Tips](/world/travelwise/safetyandsecurity/packing_tips)

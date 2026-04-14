@@ -1,6 +1,6 @@
 ---
-title: "lCWemSzbpy"
-type: location
+title: lCWemSzbpy
+type: spam
 ---
 
 Travel Guide

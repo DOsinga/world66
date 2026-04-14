@@ -1,6 +1,6 @@
 ---
-title: "Theft"
-type: location
+title: Theft
+type: section
 ---
 
 [TravelWise](/world/travelwise) **>** [Safety and Security](/world/travelwise/safetyandsecurity) **>** [Theft](/world/travelwise/safetyandsecurity/theft)

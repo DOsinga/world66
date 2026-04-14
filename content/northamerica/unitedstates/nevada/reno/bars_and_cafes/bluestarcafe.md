@@ -1,6 +1,6 @@
 ---
-title: "Blue Star Cafe"
-type: location
+title: Blue Star Cafe
+type: section
 latitude: 43.05166
 longitude: -87.893728
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Tcby"
-type: location
+title: Tcby
+type: section
 latitude: 40.581714
 longitude: -74.166087
 ---

@@ -1,6 +1,6 @@
 ---
-title: "BAYAMON"
-type: location
+title: BAYAMON
+type: section
 ---
 
 Travel Guide

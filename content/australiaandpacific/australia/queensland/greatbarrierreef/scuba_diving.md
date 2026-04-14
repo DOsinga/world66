@@ -1,6 +1,6 @@
 ---
-title: "Scuba Diving"
-type: location
+title: Scuba Diving
+type: section
 latitude: -33.98327
 longitude: 151.136774
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Beautiful Historic Indian Head Saskatchewan"
-type: location
+title: Beautiful Historic Indian Head Saskatchewan
+type: section
 ---
 
 Travel Guide

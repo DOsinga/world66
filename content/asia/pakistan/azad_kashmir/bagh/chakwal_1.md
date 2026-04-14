@@ -1,6 +1,6 @@
 ---
-title: "CHAKWAL"
-type: location
+title: CHAKWAL
+type: section
 latitude: 32.932827
 longitude: 72.862976
 ---

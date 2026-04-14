@@ -1,6 +1,6 @@
 ---
-title: "Getting Around"
-type: location
+title: Getting Around
+type: section
 ---
 
 if you need any information to get around São José dos Campos, I can help you.

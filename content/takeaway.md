@@ -1,6 +1,6 @@
 ---
-title: "Take it away!"
-type: location
+title: Take it away!
+type: section
 ---
 
 So you are all set for your trip. That's great. We hope we've been able to help you plan your trip, but we hope we can do more.

@@ -1,6 +1,6 @@
 ---
-title: "Cash"
-type: location
+title: Cash
+type: section
 latitude: 43.806558
 longitude: -79.473951
 ---

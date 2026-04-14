@@ -1,6 +1,6 @@
 ---
-title: "Accommodation"
-type: location
+title: Accommodation
+type: section
 ---
 
 We currently have no Accommodation listed in Petra.

@@ -1,6 +1,6 @@
 ---
-title: "Shopping"
-type: location
+title: Shopping
+type: section
 latitude: 54.939683
 longitude: 23.892661
 ---

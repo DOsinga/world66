@@ -1,6 +1,6 @@
 ---
-title: "Mugging"
-type: location
+title: Mugging
+type: section
 ---
 
 [TravelWise](/world/travelwise) **>** [Safety and Security](/world/travelwise/safetyandsecurity) **>** [Mugging](/world/travelwise/safetyandsecurity/mugging)

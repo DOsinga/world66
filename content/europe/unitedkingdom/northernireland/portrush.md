@@ -5,6 +5,10 @@ latitude: 55.206032
 longitude: -6.654049
 title: Portrush
 type: location
+image: portrush.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Portrush_East_Strand_Beach.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Aaron Keys
 ---
 
 Portrush is a small seaside resort on a headland jutting into the Atlantic on Northern Ireland's north coast. It has been pulling holidaymakers from Belfast and beyond since the Victorian era, and its two sandy beaches — the West Strand and the East Strand — are among the best in the north.

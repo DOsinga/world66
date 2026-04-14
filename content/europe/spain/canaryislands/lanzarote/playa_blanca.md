@@ -1,8 +1,10 @@
 ---
-title: Playa Blanca
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 28.8632
 longitude: -13.8299
+title: Playa Blanca
+type: location
 score: 0.55
 ---
 

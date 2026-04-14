@@ -1,8 +1,10 @@
 ---
-title: Kumbakonam
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 10.960411
 longitude: 79.382086
+title: Kumbakonam
+type: location
 score: 0.48
 ---
 

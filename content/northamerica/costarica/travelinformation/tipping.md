@@ -1,6 +1,8 @@
 ---
+done:
+  location_cleanup: '2026-04-10'
 title: Tipping
-type: location
+type: section
 score: 0.29
 ---
 

@@ -1,8 +1,14 @@
 ---
-title: Warsash
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 50.8547
 longitude: -1.2989
+title: Warsash
+type: location
+image: warsash.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Coastline_near_Warsash,_Hampshire,_England.jpg
+image_license: CC0
+image_attribution: ITookSomePhotos
 score: 0.37
 ---
 

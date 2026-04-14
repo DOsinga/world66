@@ -1,8 +1,10 @@
 ---
-title: Springbrook
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: -28.185749
 longitude: 153.271559
+title: Springbrook
+type: location
 score: 0.56
 ---
 

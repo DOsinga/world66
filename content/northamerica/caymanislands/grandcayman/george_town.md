@@ -1,8 +1,10 @@
 ---
-title: George Town
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 19.2866
 longitude: -81.3744
+title: George Town
+type: location
 score: 0.7
 ---
 

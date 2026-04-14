@@ -1,8 +1,10 @@
 ---
-title: Pawnee
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 36.337
 longitude: -96.804
+title: Pawnee
+type: location
 score: 0.33
 ---
 

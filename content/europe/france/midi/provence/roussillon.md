@@ -1,8 +1,10 @@
 ---
-title: Roussillon
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 43.8972
 longitude: 5.2925
+title: Roussillon
+type: location
 score: 0.62
 ---
 

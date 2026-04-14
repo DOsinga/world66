@@ -1,8 +1,14 @@
 ---
-title: Pahalgam
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 34.014486
 longitude: 75.328516
+title: Pahalgam
+type: location
+image: pahalgam.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg
+image_license: CC BY-SA 3.0
+image_attribution: KennyOMG
 score: 0.6
 ---
 

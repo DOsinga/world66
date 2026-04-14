@@ -1,8 +1,10 @@
 ---
-title: Pripyat
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 51.4064
 longitude: 30.0548
+title: Pripyat
+type: location
 score: 0.47
 ---
 

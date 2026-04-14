@@ -1,8 +1,10 @@
 ---
-title: Contursi Terme
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 40.649513
 longitude: 15.239355
+title: Contursi Terme
+type: location
 score: 0.45
 ---
 

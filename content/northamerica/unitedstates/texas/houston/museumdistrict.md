@@ -1,8 +1,10 @@
 ---
-title: Museum District
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 29.7247
 longitude: -95.3878
+title: Museum District
+type: location
 score: 0.48
 ---
 

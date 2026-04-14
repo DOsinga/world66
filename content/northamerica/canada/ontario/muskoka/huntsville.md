@@ -1,8 +1,10 @@
 ---
-title: Huntsville
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 45.326392
 longitude: -79.218434
+title: Huntsville
+type: location
 score: 0.47
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: Pawhuska
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 36.66334
 longitude: -96.340121
+title: Pawhuska
+type: location
 score: 0.34
 ---
 

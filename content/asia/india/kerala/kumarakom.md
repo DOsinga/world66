@@ -1,8 +1,10 @@
 ---
-title: Kumarakom
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 9.596054
 longitude: 76.430538
+title: Kumarakom
+type: location
 score: 0.59
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: Minehead
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 51.205821
 longitude: -3.477852
+title: Minehead
+type: location
 score: 0.48
 ---
 

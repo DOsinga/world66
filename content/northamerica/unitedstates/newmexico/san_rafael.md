@@ -1,8 +1,10 @@
 ---
-title: San Rafael
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 35.1092
 longitude: -107.8803
+title: San Rafael
+type: location
 score: 0.37
 ---
 

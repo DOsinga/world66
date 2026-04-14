@@ -1,8 +1,10 @@
 ---
-title: Meta di Sorrento
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 40.621538
 longitude: 14.422194
+title: Meta di Sorrento
+type: location
 score: 0.6
 ---
 

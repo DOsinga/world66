@@ -1,8 +1,10 @@
 ---
-title: Gandhidham
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 23.071874
 longitude: 70.131715
+title: Gandhidham
+type: location
 score: 0.3
 ---
 

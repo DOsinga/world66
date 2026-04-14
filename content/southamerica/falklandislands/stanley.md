@@ -8,6 +8,8 @@ type: location
 score: 0.53
 ---
 
-Stanley — also known as Port Stanley — is the capital and only town of any size in the [Falkland Islands](/southamerica/falklandislands), home to around 2,200 of the territory's 3,500 residents. It sits on the north shore of East Falkland, a collection of brightly painted houses strung along the harbour, looking out toward the South Atlantic.
+Stanley — also called Port Stanley — is the capital and only real town in the Falkland Islands, home to about 2,500 of the territory's 3,500 residents. It sits on a sheltered harbour on the east coast of East Falkland, a huddle of brightly painted houses with corrugated iron roofs that look distinctly British despite being 13,000 km from London.
 
-The town has a very British feel — red phone boxes, a cathedral with a whalebone arch, fish and chips — transplanted to a windswept landscape that could not be further from Britain. The Historic Dockyard Museum covers the islands' maritime and military history, including the 1982 conflict. Most visitors arrive by cruise ship or expedition vessel, and Stanley serves as the base for trips to the penguin colonies and battlefield sites scattered across the islands.
+The town is compact and walkable. Christ Church Cathedral, the southernmost Anglican cathedral in the world, has an arch made from whalebone jawbones. The Historic Dockyard Museum covers the islands' maritime and military history, including the 1982 war. Minefields from that conflict are still being cleared in the surrounding landscape, though the town itself is safe.
+
+Most visitors arrive on expedition cruise ships or via the weekly RAF flight from Brize Norton (via Ascension Island). Stanley serves as the base for trips to the penguin colonies, seal beaches, and battlefields scattered across the islands.

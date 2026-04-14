@@ -1,8 +1,14 @@
 ---
-title: San Vito Lo Capo
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 38.1723
 longitude: 12.7349
+title: San Vito Lo Capo
+type: location
+image: san_vito_lo_capo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Vito_Lo_Capo_(1).jpg
+image_license: CC BY 2.0
+image_attribution: Roberto Fontana from Mantova, Italia
 score: 0.68
 ---
 

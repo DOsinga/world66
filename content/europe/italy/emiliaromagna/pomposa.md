@@ -1,8 +1,10 @@
 ---
-title: Pomposa
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 44.840606
 longitude: 12.176448
+title: Pomposa
+type: location
 score: 0.49
 ---
 

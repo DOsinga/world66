@@ -8,6 +8,6 @@ type: location
 score: 0.32
 ---
 
-Warsaw is the county seat of Kosciusko County in northern Indiana, surrounded by lakes that make it a popular summer destination for boating, fishing and swimming. The town sits between Winona Lake and Center Lake, with several more within a short drive.
+Warsaw is a small city of about 15,000 in northern Indiana's lake country, surrounded by more than 100 lakes. The largest, Winona Lake and Center Lake, sit right against the town, and in summer the place revolves around boating, fishing, and swimming.
 
-Warsaw also bills itself as the orthopaedic capital of the world — three major medical device manufacturers are headquartered here, an industry that traces back to the 1890s. The Wagon Wheel Center for the Arts and the Village at Winona offer pleasant diversions, but the real draw is the water.
+Warsaw is also — improbably — the orthopaedic manufacturing capital of the world. Zimmer Biomet, DePuy Synthes, and other major medical device companies are headquartered here, a legacy of one man's decision to start making splints in the town in 1895. The OrthoWorx campus tells this story if you are curious.

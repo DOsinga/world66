@@ -1,8 +1,10 @@
 ---
-title: Viganj
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 42.982063
 longitude: 17.102213
+title: Viganj
+type: location
 score: 0.56
 ---
 

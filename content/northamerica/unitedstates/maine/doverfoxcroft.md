@@ -1,8 +1,10 @@
 ---
-title: Dover-Foxcroft
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 45.1835
 longitude: -69.2276
+title: Dover-Foxcroft
+type: location
 score: 0.35
 ---
 

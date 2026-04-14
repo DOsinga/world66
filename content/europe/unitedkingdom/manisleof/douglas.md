@@ -1,8 +1,10 @@
 ---
-title: Douglas
-type: location
+done:
+  location_cleanup: '2026-04-14'
 latitude: 54.1509
 longitude: -4.4806
+title: Douglas
+type: location
 score: 0.5
 ---
 

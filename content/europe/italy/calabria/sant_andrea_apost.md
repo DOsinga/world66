@@ -1,8 +1,10 @@
 ---
-title: Sant'Andrea Apostolo dello Jonio
-type: location
+done:
+  location_cleanup: '2026-04-10'
 latitude: 38.6278
 longitude: 16.5386
+title: Sant'Andrea Apostolo dello Jonio
+type: location
 score: 0.43
 ---
 

@@ -5,6 +5,10 @@ latitude: 55.923
 longitude: 21.0683
 title: Palanga
 type: location
+image: palanga.jpg
+image_source: https://commons.wikimedia.org/wiki/File:19_palanga_Palanga_Pier_(29387721790).jpg
+image_license: CC0
+image_attribution: Brian Toward from London, United Kingdom
 ---
 
 Palanga is Lithuania's main seaside resort, a small town on the Baltic coast that transforms every summer into a busy holiday destination. The beach stretches for kilometers in both directions — wide, sandy, and backed by dunes and pine forests. A long wooden pier extends into the sea and serves as the town's social center on warm evenings, when half of Palanga gathers there to watch the sunset.

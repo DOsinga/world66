@@ -5,6 +5,10 @@ latitude: 53.7766
 longitude: 20.4778
 title: Olsztyn
 type: location
+image: olsztyn.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2024-07_Olsztyn_(72).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Marek Mróz
 ---
 
 Olsztyn is the capital of the Warmia-Masuria region in northeastern Poland, a city of about 170,000 set among the lakes and forests that make this corner of the country so appealing. Its most famous resident was Nicolaus Copernicus, who served as administrator of Warmia from the Gothic castle that still stands in the old town. The castle now houses a museum with a permanent exhibition on the astronomer, including an astronomical table he carved into a wall to track the movements of the sun.

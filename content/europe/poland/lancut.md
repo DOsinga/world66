@@ -5,6 +5,10 @@ latitude: 50.0696
 longitude: 22.2335
 title: Lancut
 type: location
+image: lancut.jpg
+image_source: https://commons.wikimedia.org/wiki/File:02023_0730_Lantzut_photographs_taken_on_2023-08-13.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Silar
 ---
 
 Lancut is a small town in southeastern Poland that would be entirely unremarkable if not for one thing: its castle. The Lancut Castle is one of the finest aristocratic residences in Poland, a sprawling palace surrounded by an English-style landscape park. Built in the early seventeenth century and expanded over the following centuries by the Lubomirski and Potocki families, it survived both world wars largely intact — a rarity in this part of Europe.

@@ -5,6 +5,10 @@ latitude: 47.5314
 longitude: 21.626
 title: Debrecen
 type: location
+image: debrecen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Debrecen_-_Protestant_Great_Church.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Pudelek (Marcin Szala)
 ---
 
 Debrecen is Hungary's second city, and it has always done things its own way. While [Budapest](/europe/hungary/budapest) looked to Vienna and the Catholic Habsburgs, Debrecen looked east and embraced Calvinism. The Great Reformed Church on Kossuth tér — the largest Protestant church in Hungary — still dominates the city center, and the Reformed College next to it has been a center of Hungarian learning since the sixteenth century. It was in this church that Lajos Kossuth declared Hungarian independence from Austria in 1849, and the city briefly served as the nation's capital.

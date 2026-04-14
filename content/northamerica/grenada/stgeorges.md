@@ -5,6 +5,7 @@ latitude: 12.053
 longitude: -61.7488
 title: St. George's
 type: location
+score: 0.64
 ---
 
 St. George's is one of the most attractive capitals in the Caribbean. It sits around the Carenage, a horseshoe-shaped inner harbour lined with Georgian warehouses painted in faded pastels, small fishing boats, and the occasional cruise ship tender. The city climbs the hills above the harbour in a jumble of steep lanes, red-roofed buildings, and old churches.

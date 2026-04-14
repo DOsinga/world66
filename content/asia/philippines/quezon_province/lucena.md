@@ -5,6 +5,7 @@ latitude: 13.9358
 longitude: 121.6129
 title: Lucena
 type: location
+score: 0.36
 ---
 
 Lucena is the capital of Quezon Province and the main gateway to the southern Luzon region of the [Philippines](/asia/philippines). It is a busy, mid-sized city that most travellers pass through rather than linger in — the Grand Central Terminal here is the jumping-off point for buses heading south to the Bicol region and for boats to Marinduque island.

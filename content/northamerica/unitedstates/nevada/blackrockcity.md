@@ -5,6 +5,7 @@ latitude: 40.793249
 longitude: -119.202879
 done:
   location_cleanup: 2026-04-05
+score: 0.42
 ---
 
 Black Rock City is not a city at all for 51 weeks of the year — it is an empty, cracked-mud lake bed, the Black Rock Desert, 170 km north of Reno in the sagebrush high country of Nevada. For one week at the end of August, it becomes the seventh-largest city in the state: 80,000 people arrive in RVs, buses and art cars; lay out a half-moon street grid; erect theme camps, giant wooden temples, mutant vehicles and a forty-foot effigy of a man; spend a week on "radical self-expression", gift economy, dust storms and all-night dancing; burn the Man and the Temple; and then disappear, leaving behind nothing at all. This is **Burning Man**.

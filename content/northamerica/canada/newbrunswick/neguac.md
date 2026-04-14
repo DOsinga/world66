@@ -1,8 +1,9 @@
 ---
-title: "neguac"
+title: neguac
 type: location
 latitude: 47.246901
 longitude: -65.076722
+score: 0.31
 ---
 
 Travel Guide

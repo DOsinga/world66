@@ -5,6 +5,7 @@ latitude: 48.9351
 longitude: 10.9762
 title: Altmühl Valley
 type: location
+score: 0.58
 ---
 
 The Altmühl Valley (Altmühltal) is a natural park in central Bavaria, threading along the Altmühl River between Gunzenhausen and Kelheim. It is one of Germany's most popular cycling and hiking destinations, and it earns that reputation: limestone cliffs, medieval walled towns, Roman ruins, and a river wide enough to canoe make for a genuinely varied few days.

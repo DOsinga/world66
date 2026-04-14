@@ -5,6 +5,7 @@ latitude: 41.4093
 longitude: -122.1949
 title: Mount Shasta
 type: location
+score: 0.52
 ---
 
 The city of Mount Shasta sits at the foot of one of California's most dramatic landmarks — a massive volcanic cone that towers over the surrounding forest and dominates the skyline for a hundred miles in every direction. The mountain itself is a serious wilderness destination, drawing hikers, skiers, and mountaineers year-round. The small city at its base is a quiet, outdoorsy town with just enough amenities to serve as a comfortable base.

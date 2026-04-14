@@ -5,6 +5,7 @@ latitude: 31.532569
 longitude: 35.099825
 title: Hebron
 type: location
+score: 0.37
 ---
 
 Hebron is one of the oldest continuously inhabited cities in the world and a place of deep significance for both Muslims and Jews. The Tomb of Abraham (the Cave of the Patriarchs) sits in the old centre, sacred to both faiths. Visiting it is a powerful experience — the building is divided into a mosque section and a synagogue section, each with its own entrance and heavy security presence.

@@ -5,6 +5,7 @@ latitude: 16.4023
 longitude: 120.596
 title: Baguio
 type: location
+score: 0.55
 ---
 
 Baguio is the Philippines' escape from the heat. Perched at 1,500 meters in the Cordillera mountains of northern Luzon, this pine-scented hill station stays cool when the rest of the country swelters, earning it the nickname "Summer Capital." Filipinos have been coming here to breathe since the Americans built Kennon Road up the mountainside in 1905, and the city still draws crowds every dry season.

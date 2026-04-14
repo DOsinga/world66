@@ -5,6 +5,7 @@ latitude: 13.1939
 longitude: -59.5432
 title: Barbados
 type: location
+score: 0.73
 ---
 
 Barbados sits alone in the Atlantic, well east of the main arc of the Lesser Antilles — the most windward of the Windward Islands. At 430 square kilometres it is small enough to drive end-to-end in under an hour, but those 97 kilometres of coastline pack in a remarkable range of beaches and seascapes.

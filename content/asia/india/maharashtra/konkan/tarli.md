@@ -1,8 +1,9 @@
 ---
-title: "tarli"
+title: tarli
 type: location
 latitude: 30.627314
 longitude: 77.854829
+score: 0.29
 ---
 
 Travel Guide

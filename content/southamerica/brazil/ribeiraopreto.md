@@ -5,6 +5,7 @@ latitude: -21.1776
 longitude: -47.8101
 title: Ribeirao Preto
 type: location
+score: 0.37
 ---
 
 Ribeirão Preto sits in the sugarcane and coffee heartland of São Paulo state, about 300 km northwest of the capital. It earned the nickname "Brazilian California" — sunshine most of the year, an agricultural economy that generates serious wealth, and a tech sector growing alongside it. With around 700,000 people, it is one of the largest cities in the interior of Brazil, and it feels prosperous and self-confident in a way that many interior cities do not.

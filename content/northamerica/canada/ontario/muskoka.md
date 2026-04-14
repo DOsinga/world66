@@ -5,6 +5,7 @@ latitude: 45.130701
 longitude: -79.383961
 title: Muskoka
 type: location
+score: 0.53
 ---
 
 Travel Guide

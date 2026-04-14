@@ -5,6 +5,7 @@ latitude: 43.8374
 longitude: 4.3601
 title: Nîmes
 type: location
+score: 0.63
 ---
 
 Nimes has some of the best-preserved Roman monuments anywhere in the former empire. The Arena, a first-century amphitheatre that once held 24,000 spectators, still hosts concerts and bullfights. The Maison Carree is the most intact Roman temple in existence — a small, elegant building that inspired Thomas Jefferson's design for the Virginia State Capitol. The Pont du Gard, the spectacular Roman aqueduct that carried water to the city, is about 25 kilometres northeast.

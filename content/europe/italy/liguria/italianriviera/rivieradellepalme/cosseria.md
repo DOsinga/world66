@@ -5,6 +5,7 @@ latitude: 44.367716
 longitude: 8.234808
 title: Cosseria
 type: location
+score: 0.35
 ---
 
 Cosseria is a small agricultural commune on the northern slope of the Ligurian Apennines, sitting on the ridge between the upper valleys of the two Bormidas rivers. The territory is sparsely settled, with the economy based on vegetables and cattle.

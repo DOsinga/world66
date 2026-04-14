@@ -5,6 +5,7 @@ latitude: 39.250823
 longitude: -106.292524
 title: Leadville
 type: location
+score: 0.51
 ---
 
 We currently have no information about .

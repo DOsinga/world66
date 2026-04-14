@@ -5,6 +5,7 @@ latitude: 21.4904
 longitude: 103.1046
 title: Dien Bien Phu
 type: location
+score: 0.45
 ---
 
 Dien Bien Phu is a small town in the northwest corner of Vietnam, set in a beautiful valley near the Laotian border. It is best known as the site of the decisive battle that ended French colonial rule in Indochina. In May 1954, Vietnamese forces besieged and destroyed the French garrison here — a defeat that led directly to the Geneva Accords and the French withdrawal.

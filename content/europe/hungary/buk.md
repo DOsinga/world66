@@ -5,6 +5,7 @@ latitude: 47.383396
 longitude: 16.753305
 title: Bük
 type: location
+score: 0.43
 ---
 
 Bük is a small village of about 3,000 people in western Hungary, close to the Austrian border between Szombathely and Sopron. It is known almost exclusively for its thermal baths, which rank among the best in a country that takes thermal bathing seriously.

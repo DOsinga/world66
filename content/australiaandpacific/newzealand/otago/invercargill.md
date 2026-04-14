@@ -5,6 +5,7 @@ latitude: -46.411847
 longitude: 168.347063
 title: Invercargill
 type: location
+score: 0.48
 ---
 
 Invercargill is the southernmost city in New Zealand and the gateway to some of the country's wildest landscapes. Sitting at the bottom of the South Island with the Roaring Forties whipping in from the Southern Ocean, it has a bracing, end-of-the-world quality that grows on you fast.

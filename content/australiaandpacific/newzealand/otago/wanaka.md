@@ -5,6 +5,7 @@ latitude: -44.6942
 longitude: 169.1365
 title: Wanaka
 type: location
+score: 0.71
 ---
 
 Wanaka sits on the southern shore of Lake Wanaka in Central Otago, surrounded by mountains that reflect in the lake with unreasonable clarity. It has long been described as the quieter alternative to [Queenstown](/australiaandpacific/newzealand/otago/queenstown), an hour's drive south — and while it has grown considerably as a destination, it still feels more human-scaled and less frantic than its famous neighbour.

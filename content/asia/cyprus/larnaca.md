@@ -1,8 +1,9 @@
 ---
-title: "Larnaca"
+title: Larnaca
 type: location
 latitude: 34.923609
 longitude: 33.623618
+score: 0.6
 ---
 
 This port city of 50.000 is the site of the main international airport and the most modern of Cyprus towns. Larnaca offers limited sightseeing attractions: Most visitors arrive and then leave quickly. If you do find yourself in Larnaca spend time on the beaches or tour the Ayia Phaneromeni Church (icons) and the 9th-century Byzantine Church of St. Lazarus which is reputed to hold the remains of the saint. In the winter the nearby Great Salt Lake is home to thousands of pink flamingos.

@@ -5,6 +5,7 @@ latitude: 56.4605
 longitude: -2.9702
 done:
   location_cleanup: 2026-04-07
+score: 0.48
 ---
 
 Dundee sits on the north bank of the Firth of Tay, Scotland's fourth-largest city and one its most underestimated. It has been consistently voted among the top ten cities in Britain for quality of life, which goes some way to explaining why Edinburgh professionals increasingly choose it as a hometown without the capital's price tag. Still, Dundee remains largely overlooked by visitors, and that is part of its appeal.

@@ -5,6 +5,7 @@ latitude: 55.250071
 longitude: 9.499787
 title: Haderslev
 type: location
+score: 0.45
 ---
 
 Haderslev is a small port town in southern Jutland, sitting at the head of the Haderslev Fjord. Most travellers pass through on the train — it is a rail junction — but if you step off, the town rewards a few hours of wandering.

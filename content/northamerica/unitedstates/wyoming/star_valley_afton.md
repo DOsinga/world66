@@ -5,6 +5,7 @@ latitude: 42.7121
 longitude: -110.9326
 title: Star Valley (Afton)
 type: location
+score: 0.4
 ---
 
 Star Valley is a long, fertile valley in western Wyoming, flanked by the Salt River Range to the east and the Wyoming Range to the west. A string of small towns runs down its length, with Afton as the main centre. The valley sits at around 1,900 metres and is known for clean air, big skies, and a pace of life that hasn't changed much in decades.

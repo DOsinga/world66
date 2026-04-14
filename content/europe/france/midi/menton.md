@@ -5,6 +5,7 @@ latitude: 43.7753
 longitude: 7.5029
 title: Menton
 type: location
+score: 0.65
 ---
 
 Menton sits at the very end of the French Riviera, so close to the Italian border that you can walk to [Ventimiglia](/europe/italy/liguria/ventimiglia) in twenty minutes. It is warmer and quieter than [Nice](/europe/france/midi/provence/nice), with a microclimate that allows lemon trees to grow in gardens all over town. The annual Fête du Citron in February, where enormous citrus sculptures parade through the streets, is unlike anything else on the Côte d'Azur.

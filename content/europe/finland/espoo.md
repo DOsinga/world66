@@ -1,9 +1,10 @@
 ---
-title: "Espoo"
+title: Espoo
 type: location
-latitude: 60.2050
-longitude: 24.6560
+latitude: 60.205
+longitude: 24.656
 todo_location_cleanup: done
+score: 0.45
 ---
 
 Espoo is Finland's second largest city and one of its most unusual in structure: rather than a single urban core, it consists of five distinct district centres spread across a large area, all connected by public transport. The carefully designed garden city of Tapiola is the best known, with its thoughtful blend of modernist architecture, green space, and residential neighbourhoods.

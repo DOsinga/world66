@@ -5,6 +5,7 @@ latitude: -0.8833
 longitude: 36.3167
 title: Hell's Gate N.P.
 type: location
+score: 0.61
 ---
 
 Hell's Gate is a small national park near Lake Naivasha with some of the most dramatic geology in Kenya. Unlike most Kenyan parks, you can explore it on foot or by bicycle — there are few large predators here, which means you walk among zebra, giraffe, buffalo, and baboons without the barrier of a vehicle. It gives the place a genuinely different feel.

@@ -1,6 +1,7 @@
 ---
-title: "My homepage"
+title: My homepage
 type: location
+score: 0.32
 ---
 
 Travel Guide

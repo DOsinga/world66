@@ -5,6 +5,7 @@ latitude: 58.622638
 longitude: 8.931236
 title: Tvedestrand
 type: location
+score: 0.49
 ---
 
 Tvedestrand is a small coastal town on Norway's southern shore, tucked into a narrow fjord between forested hills. White-painted wooden houses climb steeply from the harbour, and the town has the unhurried feel of a place that peaked as a shipping port in the nineteenth century and has been quietly charming ever since.

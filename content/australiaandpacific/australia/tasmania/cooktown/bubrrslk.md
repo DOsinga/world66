@@ -1,6 +1,7 @@
 ---
-title: "BuBRrsLK"
+title: BuBRrsLK
 type: location
+score: 0.13
 ---
 
 Travel Guide

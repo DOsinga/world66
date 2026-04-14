@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Basile_Morin" titl
   Morin">Basile Morin</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.84
 ---
 
 Singapore is a city-state on a small island at the southern tip of the Malay Peninsula, and it works harder than almost anywhere on earth to justify its own existence. No natural resources, no agricultural land, no hinterland — just 730 square kilometres of reclaimed and original island, six million people, and an economy that has grown from colonial trading port to one of the wealthiest places in the world within a single lifetime.

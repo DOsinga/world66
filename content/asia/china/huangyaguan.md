@@ -1,8 +1,9 @@
 ---
-title: "Huangyaguan"
+title: Huangyaguan
 type: location
 latitude: 40.246707
 longitude: 117.451756
+score: 0.45
 ---
 
 Travel Guide

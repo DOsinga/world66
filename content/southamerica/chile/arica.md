@@ -5,6 +5,7 @@ latitude: -18.478529
 longitude: -70.321139
 title: Arica
 type: location
+score: 0.5
 ---
 
 Arica sits in the far north of Chile, just a few kilometers from the Peruvian border, and holds the distinction of being one of the driest places on earth. Decades can pass without a drop of rain. It is a city that exists despite the desert, sustained by the sea, the Rio San José, and steady cross-border trade.

@@ -5,6 +5,7 @@ latitude: 53.2852
 longitude: 69.3815
 title: Kokshetau
 type: location
+score: 0.34
 ---
 
 Kokshetau is the administrative capital of Akmola Region in northern [Kazakhstan](/asia/kazakhstan), a quiet provincial city of about 150,000 people on the edge of the Kazakh steppe. The city itself is unremarkable, but its setting is the draw: the Burabay (Borovoe) lake and mountain district lies about 70 kilometres to the south and is one of Kazakhstan's most popular domestic holiday destinations.

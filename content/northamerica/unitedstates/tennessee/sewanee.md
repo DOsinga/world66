@@ -5,6 +5,7 @@ latitude: 35.2006
 longitude: -85.9195
 title: Sewanee
 type: location
+score: 0.43
 ---
 
 Sewanee is a tiny community on the Cumberland Plateau in southern Tennessee, defined almost entirely by the University of the South, whose Gothic stone buildings sit on a 13,000-acre campus called "The Domain." The setting is striking — the university occupies a forested plateau rimmed by bluffs with long views over the surrounding valleys.

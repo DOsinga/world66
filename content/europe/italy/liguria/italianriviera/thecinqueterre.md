@@ -5,6 +5,7 @@ latitude: 44.1286
 longitude: 9.71
 title: The Cinque Terre
 type: location
+score: 0.82
 ---
 
 The Cinque Terre is a string of five fishing villages clinging to the steep, terraced coastline of eastern Liguria — Riomaggiore, Manarola, Corniglia, Vernazza, and Monterosso. Connected by a coastal hiking trail and a local train line, they have become one of Italy's most popular destinations, and in summer the narrow streets and pebbly beaches of Vernazza and Monterosso can feel overwhelmed.

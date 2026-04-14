@@ -5,6 +5,7 @@ latitude: -31.6
 longitude: 28.8
 done:
   location_cleanup: 2026-04-05
+score: 0.39
 ---
 
 The Transkei is one of the wildest and most beautiful stretches of South African coast, running roughly from East London in the south to the KwaZulu-Natal border in the north. This is the **Wild Coast** — cliffs of black rock, long empty beaches of golden sand, subtropical forest running down to the surf, and hundreds of round Xhosa rondavels dotting the green hills inland. Under apartheid it was a "homeland" notionally independent of South Africa; since 1994 it has been part of the Eastern Cape, and it remains poorer and less visited than the rest of the country.

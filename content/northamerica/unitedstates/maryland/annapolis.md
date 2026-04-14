@@ -5,6 +5,7 @@ latitude: 38.97864
 longitude: -76.492786
 title: Annapolis
 type: location
+score: 0.57
 ---
 
 We currently have no information about Annapolis.

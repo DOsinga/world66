@@ -5,6 +5,7 @@ latitude: -46.0
 longitude: -69.0
 done:
   location_cleanup: 2026-04-07
+score: 0.73
 ---
 
 Made famous by Bruce Chatwin's restless travelogue, Patagonia covers the vast southern cone of Argentina from roughly the Rio Colorado down to Tierra del Fuego. It is a land of rugged beauty and wilderness -- endless steppe, jagged peaks, ancient glaciers, and a coastline teeming with marine life. If you are looking for wide open spaces and serious outdoor adventure, this is it.

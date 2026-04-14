@@ -5,6 +5,7 @@ latitude: 18.7
 longitude: 12.9
 title: Kawar
 type: location
+score: 0.16
 ---
 
 Kawar is a string of oases stretching from Bilma north toward the Libyan border in the remote northeastern corner of Niger. An ancient salt-producing center and the western edge of Toubou territory, these towns are about as far from anywhere as it gets.

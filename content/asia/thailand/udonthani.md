@@ -5,6 +5,7 @@ latitude: 17.4138
 longitude: 102.7878
 title: Udon Thani
 type: location
+score: 0.47
 ---
 
 Udon Thani is a mid-sized city in Thailand's northeastern region of Isan, some 560 kilometres from Bangkok. It rarely makes it into the top-ten lists, but that is part of the appeal — the streets are easy to navigate, the food is excellent and cheap, and the pace of life is genuinely relaxed.

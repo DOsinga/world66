@@ -5,6 +5,7 @@ latitude: 44.1598
 longitude: 28.6348
 title: Black Sea Coast
 type: location
+score: 0.48
 ---
 
 Romania's Black Sea coast stretches 245 kilometres from the wild, unspoiled Danube Delta in the north to the string of beach resorts near the Bulgarian border. The two halves could hardly be more different: the Delta is a protected wilderness of channels, reed beds, and pelican colonies, while the southern stretch is a continuous ribbon of golden sand backed by resorts that range from communist-era concrete to surprisingly stylish.

@@ -5,6 +5,7 @@ latitude: 1.222193
 longitude: 103.855299
 title: Lazarus Island
 type: location
+score: 0.48
 ---
 
 Lazarus Island is a small, uninhabited island in Singapore's Southern Islands chain, connected by a causeway to St John's Island. It has one of the best natural beaches in Singapore — a crescent of white sand with clear water that feels a world away from the city skyline visible in the distance.

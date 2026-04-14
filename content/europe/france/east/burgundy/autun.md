@@ -5,6 +5,7 @@ latitude: 46.951
 longitude: 4.2989
 title: Autun
 type: location
+score: 0.52
 ---
 
 Autun was founded by Emperor Augustus as Augustodunum and was one of the most important cities in Roman Gaul. Two thousand years later, the Roman legacy is still the first thing you notice: the Porte Saint-Andre and Porte d'Arroux, two monumental Roman gates, still stand at the edges of the old town, and the remains of a vast Roman theatre -- one of the largest in the Western Roman Empire -- sit on a hillside above the city.

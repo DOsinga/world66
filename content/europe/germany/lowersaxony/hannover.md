@@ -1,8 +1,9 @@
 ---
-title: "Hannover"
+title: Hannover
 type: location
 latitude: 52.374478
 longitude: 9.738553
+score: 0.49
 ---
 
 Hannover (engl. Hanover), formerly sharing the king with the British Empire and today the City of Trade Fairs, was host to the first World Exposition that took place in Germany and the first were the new Millenium was celebrated. During the time of the EXPO 2000 the capital of Lower Saxony (Niedersachsen) welcomed 20 million visitors from all over the world.

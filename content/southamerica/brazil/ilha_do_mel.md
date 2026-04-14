@@ -5,6 +5,7 @@ latitude: -25.53453
 longitude: -48.310747
 title: Ilha do Mel
 type: location
+score: 0.57
 ---
 
 Ilha do Mel — the Island of Honey — sits off the coast of Paraná state in southern Brazil, where the Paranaguá Bay meets the Atlantic. It is a protected area with no cars allowed, which gives the island a calm, unhurried quality that the more famous beach destinations of Brazil rarely manage. Getting around means walking or cycling the sandy tracks that connect the small settlements.

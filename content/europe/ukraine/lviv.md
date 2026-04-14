@@ -5,6 +5,7 @@ latitude: 49.842
 longitude: 24.0316
 title: Lviv
 type: location
+score: 0.64
 ---
 
 Lviv is the cultural capital of western [Ukraine](/europe/ukraine), a city of cobblestoned squares, baroque churches, and cafe culture that feels more Central European than Eastern. Known variously as Lemberg, Leopolis, and Lwów through its Polish, Austrian, and Soviet pasts, the city wears its layered history openly — you can read it in the architecture as you walk from the Armenian quarter to the Habsburg boulevards.

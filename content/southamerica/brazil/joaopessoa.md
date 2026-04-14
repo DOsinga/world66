@@ -5,6 +5,7 @@ latitude: -7.1216
 longitude: -34.882
 title: Joao Pessoa
 type: location
+score: 0.53
 ---
 
 João Pessoa sits at the easternmost point of the Americas — Cabo Branco, at longitude W34°44'55", is where the continent's land runs out. That geography alone makes it worth a stop on any northeast Brazil itinerary, but there's more to it than a bragging right. It's often cited as Brazil's second-greenest city, and the pace is noticeably slower than Recife or Natal.

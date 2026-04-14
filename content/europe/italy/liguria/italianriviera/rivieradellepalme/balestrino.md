@@ -5,6 +5,7 @@ latitude: 44.1251
 longitude: 8.1715
 title: Balestrino
 type: location
+score: 0.43
 ---
 
 Balestrino is a small inland village set among olive groves in the hills behind the Riviera delle Palme. In the upper part of the settlement stands the castle of the marquis, an imposing fortified palace rebuilt in the 17th century with sturdy ramparts and period furnishings.

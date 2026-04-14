@@ -5,6 +5,7 @@ latitude: 53.258092
 longitude: 19.399363
 title: Brodnica
 type: location
+score: 0.37
 ---
 
 Brodnica is a town in Kuyavian-Pomeranian Voivodeship in northern Poland, on the Drwęca river. It has a modest medieval core that makes it worth a stop if you are travelling through this part of the country.

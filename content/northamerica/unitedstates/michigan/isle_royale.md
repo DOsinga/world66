@@ -5,6 +5,7 @@ latitude: 48.007382
 longitude: -88.828987
 title: Isle Royale
 type: location
+score: 0.53
 ---
 
 **Isle Royale National Park** is a roadless wilderness island in the northwest corner of Lake Superior, closer to the Canadian shore than to Michigan. It is one of the least-visited national parks in the lower 48, and that isolation is the point — no cars, no roads, no cell service. You get there by ferry or seaplane from Houghton or Copper Harbor, and once you arrive, you walk.

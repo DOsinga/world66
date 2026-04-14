@@ -5,6 +5,7 @@ latitude: 67.8558
 longitude: 20.2253
 title: Kiruna
 type: location
+score: 0.55
 ---
 
 Kiruna is Sweden's northernmost city, sitting deep inside the Arctic Circle in Swedish Lapland. It is best known for two things: an enormous iron ore mine and the Aurora Borealis. The mine — operated by the state-owned LKAB — is one of the largest and most productive underground iron ore mines in the world, and it has shaped everything about the town, including its location. The ground beneath the old city centre was gradually subsiding due to mining activity, so between 2014 and the 2030s, Kiruna is being systematically moved three kilometres to the east — a relocation of an entire city that has no real precedent anywhere in the world.

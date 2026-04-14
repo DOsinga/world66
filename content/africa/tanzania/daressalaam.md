@@ -1,8 +1,9 @@
 ---
-title: "Dar es salaam"
+title: Dar es salaam
 type: location
 latitude: -6.816084
 longitude: 39.280358
+score: 0.46
 ---
 
 Dar es Salaam means "House of Peace" in Arabic. For a city which such a name it is a suprisingly busy and lively place where it is sometimes hard to find some rest. 

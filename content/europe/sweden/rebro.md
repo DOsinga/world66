@@ -5,6 +5,7 @@ latitude: 59.274729
 longitude: 15.215118
 title: Örebro
 type: location
+score: 0.46
 ---
 
 Örebro sits roughly halfway between [Stockholm](/europe/sweden/stockholm) and [Gothenburg](/europe/sweden/gothenburg), at a crossroads that has made it a market town since at least the 13th century. The east-west water route across the great lakes met the north-south land road here, and the town grew up around the traffic.

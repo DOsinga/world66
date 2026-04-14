@@ -5,6 +5,7 @@ title: Jakarta
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.45
 ---
 
 Jakarta is one of the great megacities of Asia — sprawling, chaotic, relentlessly energetic, and far more rewarding than its reputation suggests. As the capital and commercial engine of the world's fourth most populous nation, it is a city that runs on ambition. Skyscrapers and colonial Dutch warehouses sit within a few kilometres of each other; luxury malls neighbour street food markets where a bowl of soto betawi costs less than a dollar.

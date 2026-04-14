@@ -5,6 +5,7 @@ latitude: 48.761072
 longitude: 8.239959
 title: Baden-Baden
 type: location
+score: 0.65
 ---
 
 Baden-Baden is one of Europe's grand spa towns, built on a series of hills at the northern edge of the Black Forest in southwestern [Germany](/europe/germany). The Romans discovered the hot springs here two thousand years ago, and the town has been drawing visitors ever since — Russian aristocrats, European royalty, and writers from Dostoevsky to Mark Twain all came to take the waters.

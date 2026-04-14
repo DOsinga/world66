@@ -5,6 +5,7 @@ latitude: 68.799943
 longitude: 16.544032
 title: Harstad
 type: location
+score: 0.52
 ---
 
 Harstad is the largest town on the island of Hinnøya in Troms, northern [Norway](/europe/norway). It sits well above the Arctic Circle, which means midnight sun from late May to mid-July and a chance of northern lights through the winter months.

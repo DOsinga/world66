@@ -5,6 +5,7 @@ latitude: 41.666478
 longitude: -81.339977
 title: Mentor
 type: location
+score: 0.33
 ---
 
 Mentor is a suburban town on Lake Erie, about 30 km northeast of [Cleveland](/northamerica/unitedstates/ohio/cleveland). The principal reason to visit is the James A. Garfield National Historic Site, which preserves the home and property of the 20th President of the United States.

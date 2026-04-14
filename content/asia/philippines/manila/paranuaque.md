@@ -1,6 +1,7 @@
 ---
-title: "Paranuaque"
+title: Paranuaque
 type: location
+score: 0.34
 ---
 
 Travel Guide

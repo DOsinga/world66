@@ -5,6 +5,7 @@ latitude: 46.9144
 longitude: -103.5291
 title: Medora
 type: location
+score: 0.42
 ---
 
 Medora is a tiny town of a few hundred people in the western Badlands, about 140 km west of Bismarck, and the main gateway to Theodore Roosevelt National Park. It's small enough to walk across in ten minutes, but it packs in more history than most towns ten times its size.

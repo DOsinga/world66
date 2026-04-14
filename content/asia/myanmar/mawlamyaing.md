@@ -5,6 +5,7 @@ latitude: 16.490803
 longitude: 97.628483
 title: Mawlamyaing
 type: location
+score: 0.41
 ---
 
 Mawlamyaing (formerly Moulmein) is the capital of Mon State and Myanmar's fourth-largest city, spread along the eastern bank of the Thanlwin River where it widens toward the Andaman Sea. Kipling wrote about it — "By the old Moulmein Pagoda, lookin' lazy at the sea" — and the ridge of gilded pagodas along the hilltop above town still catches the light exactly as he described.

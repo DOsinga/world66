@@ -5,6 +5,7 @@ latitude: 38.975155
 longitude: -92.744028
 title: Boonville
 type: location
+score: 0.32
 ---
 
 Boonville sits on the south bank of the Missouri River in the rolling hills of central [Missouri](/northamerica/unitedstates/missouri), a quiet county seat with deep roots in westward expansion and the Civil War. The town was named for Daniel Boone's sons and served as a jumping-off point for settlers heading to the Santa Fe Trail. In 1861 it saw one of the war's earliest skirmishes, when Union forces scattered the Missouri State Guard in what became known as the Battle of Boonville.

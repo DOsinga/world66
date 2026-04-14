@@ -5,6 +5,7 @@ latitude: 51.5074
 longitude: -0.1278
 title: London
 type: location
+score: 0.87
 ---
 
 London is one of the world's great cities — not just for its history, but for the sheer density of things going on at any given moment. Museums that would be highlights in any other city are free and quietly astonishing here. The food scene has shaken off its old reputation entirely. And the parks — vast, green, genuinely central — make the city feel less claustrophobic than its size suggests.

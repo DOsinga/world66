@@ -5,6 +5,7 @@ latitude: 68.3603
 longitude: -133.7204
 title: Inuvik
 type: location
+score: 0.38
 ---
 
 Inuvik sits at the end of the Dempster Highway in Canada's Northwest Territories — the northernmost point you can reach by public road in North America. It is a small town of about 3,000 people on the Mackenzie River delta, built in the 1950s as an administrative centre and now serving as the main hub for the western Arctic.

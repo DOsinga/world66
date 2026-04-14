@@ -5,6 +5,7 @@ latitude: 51.790976
 longitude: 0.952176
 title: Mersea Island
 type: location
+score: 0.41
 ---
 
 Mersea Island lies in the Blackwater Estuary in Essex, connected to the mainland by a causeway called the Strood that floods at high tide. It is a low-key fishing and sailing community about 8 miles south of Colchester, with beaches, marshes, and a quietly scenic quality that attracts weekenders from London.

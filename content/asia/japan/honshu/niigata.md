@@ -5,6 +5,7 @@ latitude: 37.9026
 longitude: 139.0232
 done:
   location_cleanup: 2026-04-05
+score: 0.51
 ---
 
 Niigata is the largest city on the Sea of Japan coast of Honshu, about two hours by Shinkansen from Tokyo. For most foreign visitors it is a stopover rather than a destination — the port where the ferries leave for Sado Island, or the gateway to the ski resorts of the Echigo-Yuzawa area. But Niigata prefecture is one of the most distinctive corners of Japan, and worth more time than it usually gets.

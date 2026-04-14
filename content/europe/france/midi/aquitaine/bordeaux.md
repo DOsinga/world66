@@ -5,6 +5,7 @@ latitude: 44.841225
 longitude: -0.580036
 title: Bordeaux
 type: location
+score: 0.66
 ---
 
 Bordeaux stands on the Garonne river, 50 km from the Atlantic coast, and is the undisputed capital of French wine. The vineyards of the Médoc, Saint-Émilion, Pomerol, Sauternes, and Graves surround the city, and the négociants and châteaux that trade here have shaped the global wine market for three centuries. The Cité du Vin, a striking museum on the riverfront, covers the history and culture of wine and is more engaging than it sounds.

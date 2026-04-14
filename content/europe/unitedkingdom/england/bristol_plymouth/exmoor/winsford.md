@@ -5,6 +5,7 @@ latitude: 51.0914
 longitude: -3.5696
 title: Winsford
 type: location
+score: 0.42
 ---
 
 Winsford is widely considered the prettiest village on [Exmoor](/europe/unitedkingdom/england/bristol_plymouth/exmoor), set in a hollow where the River Exe meets the Winn Brook. Thatched cottages cluster around a ford, and the village feels remarkably unvisited despite being within easy reach of the moor's main roads.

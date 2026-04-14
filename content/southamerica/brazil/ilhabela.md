@@ -5,6 +5,7 @@ latitude: -23.816628
 longitude: -45.368685
 title: Ilhabela
 type: location
+score: 0.56
 ---
 
 Ilhabela is an archipelago off the northern coast of São Paulo state, about 210 km from the capital. The main island is the largest in Brazil's Atlantic coast and draws visitors with its beaches, waterfalls, and steady winds that have made it the sailing capital of the state.

@@ -1,8 +1,9 @@
 ---
-title: "Port Aransas"
+title: Port Aransas
 type: location
 latitude: 27.833217
 longitude: -97.061832
+score: 0.49
 ---
 
 Sitting on the Texas Gulf Coast just east of [Corpus Christi](/northamerica/unitedstates/texas/corpuschristi) on Mustang Island is **Port Aransas**.

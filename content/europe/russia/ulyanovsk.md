@@ -5,6 +5,7 @@ latitude: 54.315028
 longitude: 48.403373
 title: Ulyanovsk
 type: location
+score: 0.32
 ---
 
 **Ulyanovsk** sits on the high western bank of the Volga River, about 700 kilometres east of Moscow, and it is a city defined by one fact: Vladimir Lenin was born here in 1870. The Soviet authorities never let anyone forget it. They renamed the city (it was called Simbirsk until 1924), built a vast memorial complex on the bluffs above the river, and preserved Lenin's childhood home with almost religious devotion. The result is a city unlike any other in Russia — a living museum of Soviet ideology, now slowly making peace with a post-Soviet identity.

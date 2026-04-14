@@ -5,6 +5,7 @@ latitude: 56.8198
 longitude: -5.1052
 done:
   location_cleanup: 2026-04-05
+score: 0.6
 ---
 
 Fort William is a functional, sprawling town on the eastern shore of Loch Linnhe in the west of the Scottish Highlands — the largest settlement for a hundred miles in any direction and, for most visitors, the base from which to explore one of the most spectacular corners of Britain. The town itself has little to commend it beyond the supermarkets, hotels, and outdoor shops that make it a useful stopover. But the position is unbeatable: Ben Nevis rises directly behind the town, Glen Coe lies half an hour south, Loch Ness is an hour north, and the Road to the Isles runs west to Mallaig through some of the finest mountain-and-sea scenery in the country.

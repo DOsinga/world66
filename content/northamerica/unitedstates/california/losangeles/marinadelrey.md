@@ -5,6 +5,7 @@ latitude: 33.978
 longitude: -118.4516
 done:
   location_cleanup: 2026-04-06
+score: 0.48
 ---
 
 Marina del Rey is a small, upscale neighbourhood on the LA coast, just south of Venice Beach. Built around the world's largest artificial small-craft harbour, it's a relaxed, nautical enclave — more waterfront seafood restaurants and Hornblower dinner cruises than Venice's street circus or Santa Monica's pier scene.

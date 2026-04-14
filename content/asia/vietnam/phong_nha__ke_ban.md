@@ -5,6 +5,7 @@ latitude: 17.5553
 longitude: 106.1123
 done:
   location_cleanup: 2026-04-05
+score: 0.7
 ---
 
 Phong Nha - Ke Bang is a 200,000-hectare national park in central Vietnam's Quang Binh province, straddling the eastern flank of the Truong Son range near the Laotian border. It was recognised as a UNESCO World Heritage site in 2003, and again in 2015, for a reason that only fully registers when you see it in person: the limestone massif hides what is, by most measures, the largest and most extraordinary cave system on the planet.

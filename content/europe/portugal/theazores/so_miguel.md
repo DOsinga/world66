@@ -1,8 +1,9 @@
 ---
-title: "São Miguel"
+title: São Miguel
 type: location
 latitude: 37.808557
 longitude: -25.473137
+score: 0.74
 ---
 
 Travel Guide

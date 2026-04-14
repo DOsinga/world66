@@ -10,6 +10,7 @@ latitude: 12.0
 longitude: -15.0
 title: Guinea-Bissau
 type: location
+score: 0.24
 ---
 
 Guinea-Bissau is one of the smallest and least visited countries in West Africa, and that is precisely its appeal. This is a place where the rhythms of daily life have barely been touched by tourism, where cashew trees line red-dirt roads, and where the extraordinary Bijagos archipelago offers some of the most pristine island landscapes on the continent.

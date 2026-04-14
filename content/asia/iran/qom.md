@@ -5,6 +5,7 @@ latitude: 34.642294
 longitude: 50.880118
 title: Qom
 type: location
+score: 0.38
 ---
 
 Qom is Iran's pre-eminent religious city, about 140 km south of Tehran. It is the main centre for Shia Islamic scholarship in the country, home to dozens of seminaries and hundreds of thousands of theological students. Non-Muslims can visit but should dress conservatively and be aware that the city operates on a more conservative social register than Tehran.

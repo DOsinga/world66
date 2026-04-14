@@ -5,6 +5,7 @@ latitude: -26.3254
 longitude: 31.1447
 done:
   location_cleanup: 2026-04-06
+score: 0.44
 ---
 
 Mbabane is the administrative capital of Eswatini (formerly Swaziland), tucked into the Dlangeni Hills at 1,200 metres on the kingdom’s western highveld. It is a small, quiet capital — more government town than metropolis — but the mountain setting is striking and the surrounding highlands offer some of southern Africa’s best hiking and wildlife.

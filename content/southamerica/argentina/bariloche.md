@@ -5,6 +5,7 @@ latitude: -41.1335
 longitude: -71.3101
 title: Bariloche
 type: location
+score: 0.73
 ---
 
 Bariloche is Argentina's premier mountain town, set on the shores of Lago Nahuel Huapi in the northern Patagonian Andes. It is famous as a ski resort, but that barely scratches the surface — the surrounding national park offers hiking, mountain biking, rafting, and kayaking through scenery that rivals the Swiss Alps, with dark-blue lakes, snow-capped peaks, and forests of ancient arrayanes.

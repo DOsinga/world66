@@ -5,6 +5,7 @@ latitude: 52.9534
 longitude: -1.1496
 title: Nottingham
 type: location
+score: 0.51
 ---
 
 Nottingham sits in the heart of the East Midlands, trading on its connection to Robin Hood even though the outlaw's historical links to the city are tenuous at best — he was likely from Yorkshire and did most of his roaming in Sherwood Forest to the north. Still, Nottingham Castle and the Tales of Robin Hood visitor centre make the most of the legend, and Sherwood Forest itself is an easy day trip.

@@ -5,6 +5,7 @@ latitude: 32.678109
 longitude: -117.099197
 title: National City
 type: location
+score: 0.34
 ---
 
 National City is the second oldest incorporated city in San Diego County, founded in 1887 on land that was once part of the 26,000-acre El Rancho de la Nación. Frank Kimball and his brothers Warren and Levi purchased the ranch in 1868, cleared lands, built roads, constructed the city's first wharf, and brought the railroad to town.

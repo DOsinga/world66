@@ -5,6 +5,7 @@ latitude: 15.301
 longitude: -61.3883
 title: Roseau
 type: location
+score: 0.53
 ---
 
 With so much wilderness to explore on [Dominica](/northamerica/dominica), visitors sometimes rush past the capital. Roseau is compact, genuinely lived-in, and worth a half-day. The Dominica Museum in the old courthouse on the waterfront gives a good grounding in the island's history — colonial, volcanic, and Kalinago. Admission is modest.

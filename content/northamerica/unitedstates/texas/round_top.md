@@ -5,6 +5,7 @@ latitude: 30.065101
 longitude: -96.695545
 title: Round Top
 type: location
+score: 0.39
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: 5.325
 longitude: 162.9817
 title: Kosrae
 type: location
+score: 0.53
 ---
 
 Kosrae is the easternmost of the four states of the Federated States of Micronesia, and one of the most remote inhabited islands in the Pacific. Covered in dense jungle, flowering trees, and citrus groves, it feels genuinely untouched — there are no resorts, no cruise ships, and very few tourists. The island is small enough to drive around in an hour, but rich enough to keep you busy for a week.

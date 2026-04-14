@@ -5,6 +5,7 @@ latitude: 42.6985
 longitude: 2.8953
 title: Perpignan
 type: location
+score: 0.56
 ---
 
 Perpignan is the capital of French Catalonia, a sun-baked city at the foot of the Pyrenees near the Spanish border. It was the mainland capital of the Kingdom of Majorca in the 13th and 14th centuries, and the Catalan identity runs deep — you will hear Catalan spoken, see the *senyera* flag hanging from balconies, and eat *pa amb tomàquet* in the restaurants.

@@ -9,6 +9,7 @@ image: porthcawl.jpg
 image_source: https://www.flickr.com/photos/55898913@N04/17129262943
 image_license: CC BY 2.0
 image_attribution: interbeat on Flickr
+score: 0.45
 ---
 
 Porthcawl is a seaside resort on the Heritage Coast of South Wales, popular with visitors from the South Wales valleys for its three beaches: Sandy Bay, the busiest with a funfair; Trecco Bay to the east, dominated by one of Europe's largest static caravan parks; and Rest Bay to the north, which has better surf and is used for competitive surfing. The town has a pleasant esplanade and harbour area with the Grand Pavilion, a 1930s concert hall still in regular use.

@@ -5,6 +5,7 @@ latitude: 40.352445
 longitude: 45.127131
 title: Gegharkunik Marz
 type: location
+score: 0.43
 ---
 
 Gegharkunik Marz is the region surrounding Lake Sevan, the massive alpine lake covering five percent of Armenia's surface. On those magical days when the water turns bright turquoise and you are standing on a white sand beach, you could be fooled into thinking you are somewhere in the Caribbean — at least until you dip your toes in the cold water.

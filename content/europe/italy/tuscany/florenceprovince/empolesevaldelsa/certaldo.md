@@ -5,6 +5,7 @@ latitude: 43.547704
 longitude: 11.040954
 title: Certaldo
 type: location
+score: 0.53
 ---
 
 Certaldo is a small town in the Val d'Elsa, south of [Florence](/europe/italy/tuscany/florence), split between a modern lower town and a beautifully preserved hilltop village — Certaldo Alto — reached by funicular. The upper town is entirely medieval, with brick towers, narrow streets, and views over the Tuscan hills.

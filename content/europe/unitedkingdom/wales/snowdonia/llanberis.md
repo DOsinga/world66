@@ -5,6 +5,7 @@ latitude: 53.121276
 longitude: -4.127748
 title: Llanberis
 type: location
+score: 0.54
 ---
 
 Llanberis sits at the foot of Yr Wyddfa (Snowdon), Wales's highest peak, and is the most popular base for climbing it. The Llanberis Path is the longest but most gradual route to the summit — suited to anyone who is reasonably fit — and for those who prefer not to walk, the Snowdon Mountain Railway has been carrying visitors to the top since 1896.

@@ -1,6 +1,7 @@
 ---
-title: "Bellingen"
+title: Bellingen
 type: location
 latitude: -30.373991
 longitude: 152.71921
+score: 0.49
 ---

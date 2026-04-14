@@ -5,6 +5,7 @@ latitude: 26.670146
 longitude: 87.680101
 title: Damak
 type: location
+score: 0.31
 ---
 
 Damak is a small town in the Jhapa district of eastern Nepal, about 50 km west of the Indian border crossing at Kakarvitta. The town straddles the Ratuwa river and is surrounded by tea gardens — the area around Damak is part of Nepal's modest tea-growing belt, and you can walk through the plantations.

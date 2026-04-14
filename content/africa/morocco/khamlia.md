@@ -5,6 +5,7 @@ latitude: 31.0351
 longitude: -4.0073
 title: Khamlia
 type: location
+score: 0.5
 ---
 
 Khamlia is a tiny Saharan village about 7 km south of Merzouga, sitting in the shadow of the Erg Chebbi dunes — the great sea of orange sand that rises to over 150 metres on Morocco's eastern edge. The village is small: around 30 households, a few hundred people, a handful of small shops and a school. Life here moves slowly, and that is much of the point.

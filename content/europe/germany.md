@@ -11,6 +11,7 @@ image_attribution: <b><a href="//commons.wikimedia.org/wiki/User:Der_Wolf_im_Wal
   text" href="http://www.foto-tw.de">www.foto-tw.de</a></small>
 done:
   country_cleanup: 2026-03-30
+score: 0.44
 ---
 
 From the High Alps in the South, the Bavarian plain, and the flowing hills of central Germany to the coast of the North and Baltic Sea: it all looks like a miniature train landscape packed with the nicest of old towns, medieval houses, gothic churches and small villages.

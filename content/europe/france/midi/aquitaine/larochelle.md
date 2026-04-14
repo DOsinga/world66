@@ -5,6 +5,7 @@ latitude: 46.159732
 longitude: -1.151595
 title: La Rochelle
 type: location
+score: 0.67
 ---
 
 La Rochelle is one of the most attractive seaside towns in [France](/europe/france). The centre and waterfront date largely from the 17th century, when the town grew wealthy from trade with the New World. The old harbour, guarded by its three medieval towers, is one of the most photogenic waterfronts on the Atlantic coast.

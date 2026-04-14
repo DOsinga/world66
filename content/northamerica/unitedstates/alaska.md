@@ -1,8 +1,9 @@
 ---
-title: "Alaska"
+title: Alaska
 type: location
 latitude: 64.445961
 longitude: -149.680909
+score: 0.7
 ---
 
 **Alaska…** The Last Frontier

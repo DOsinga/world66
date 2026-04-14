@@ -5,6 +5,7 @@ latitude: 20.948886
 longitude: 107.103507
 title: Halong City
 type: location
+score: 0.65
 ---
 
 Halong City is the gateway to Ha Long Bay, the UNESCO World Heritage Site famous for its thousands of limestone karst islands rising from emerald waters. The city itself is functional rather than charming — its main purpose for most visitors is as the departure point for bay cruises — but it has been growing rapidly and the Bai Chay waterfront area on the western side has developed into a lively strip of hotels, restaurants, and tour offices.

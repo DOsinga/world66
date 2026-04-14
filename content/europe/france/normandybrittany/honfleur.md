@@ -1,8 +1,9 @@
 ---
-title: "Honfleur"
+title: Honfleur
 type: location
 latitude: 49.419722
 longitude: 0.233889
+score: 0.65
 ---
 
 One of these quintessential French harbour twons, Honfleur is more than charming. The fishing and sailing port is pretty and very dear to the Impressionists and more modern artists. 

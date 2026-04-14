@@ -5,6 +5,7 @@ latitude: 60.697933
 longitude: 26.815071
 title: Anjalankoski
 type: location
+score: 0.35
 ---
 
 Anjalankoski is a former Finnish municipality that merged into [Kouvola](/europe/finland/kouvola) in 2009. It sits in the Kymijoki river valley between Kotka on the coast and Kouvola to the north, and like much of this part of southern Finland its landscape is shaped by the paper and pulp industry that once defined the region.

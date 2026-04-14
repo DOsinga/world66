@@ -1,8 +1,9 @@
 ---
-title: "Tarkarli"
+title: Tarkarli
 type: location
 latitude: 16.006814
 longitude: 73.49184
+score: 0.48
 ---
 
 Travel Guide

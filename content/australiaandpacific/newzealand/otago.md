@@ -1,6 +1,7 @@
 ---
-title: "Southland & Otago"
+title: Southland & Otago
 type: location
+score: 0.62
 ---
 
 **Otago** is one of the origin provinces of

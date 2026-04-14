@@ -5,6 +5,7 @@ latitude: 5.630703
 longitude: -7.118699
 title: Tai national park
 type: location
+score: 0.44
 ---
 
 We currently have no information about Tai national park.

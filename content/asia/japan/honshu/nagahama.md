@@ -5,6 +5,7 @@ latitude: 35.380862
 longitude: 136.278507
 title: Nagahama
 type: location
+score: 0.58
 ---
 
 **Nagahama** sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with *machiya* (townhouses) and *kura* (storehouses), many now converted into shops, galleries, and cafes.

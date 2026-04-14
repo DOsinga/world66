@@ -5,6 +5,7 @@ latitude: 10.366953
 longitude: -2.092143
 title: Upper West
 type: location
+score: 0.31
 ---
 
 To the north-west of [Ghana](/africa/ghana) is the less-travelled region of the Upper West. Its capital is Wa, which has the impressive Wa Naa's Palace. Further north are Jirapa, Lawra and Nandom, all of which have vibrant markets and plenty of Pito bars.

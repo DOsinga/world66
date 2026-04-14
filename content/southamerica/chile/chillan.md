@@ -1,6 +1,7 @@
 ---
-title: "Chillan"
+title: Chillan
 type: location
 latitude: -36.606662
 longitude: -72.103319
+score: 0.45
 ---

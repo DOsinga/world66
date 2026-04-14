@@ -5,6 +5,7 @@ latitude: 28.762849
 longitude: 91.752314
 title: Shannan
 type: location
+score: 0.46
 ---
 
 Shannan — known in Tibetan as Lhoka — is considered the cradle of Tibetan civilization. This prefecture-level city in southern Tibet, sitting along the Yarlung Tsangpo River valley at around 3,600 metres, is where the first Tibetan kings ruled, where Tibet's first monastery was built, and where the mythic origins of the Tibetan people are said to lie. It is one of the most historically resonant corners of the plateau.

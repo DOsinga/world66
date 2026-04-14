@@ -1,6 +1,7 @@
 ---
-title: "bughlani"
+title: bughlani
 type: location
+score: 0.15
 ---
 
 Travel Guide

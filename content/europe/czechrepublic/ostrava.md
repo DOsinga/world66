@@ -5,6 +5,7 @@ latitude: 49.8209
 longitude: 18.2625
 title: Ostrava
 type: location
+score: 0.45
 ---
 
 Ostrava is not the Czech city you picture first, and that is exactly why it is worth visiting. The country's third-largest city built its identity on coal and steel, and now that the furnaces have gone cold, all that industrial grit has been repurposed into one of Central Europe's most interesting cultural scenes. If Prague is the polished postcard, Ostrava is the city rolling up its sleeves.

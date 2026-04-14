@@ -5,6 +5,7 @@ latitude: 18.465801
 longitude: -97.397835
 title: Tehuacan
 type: location
+score: 0.42
 ---
 
 Tehuacan is a mid-sized city in the southeastern corner of Puebla state, sitting in a dry valley at around 1,700 metres. It is best known across Mexico for two things: the mineral water that bubbles up from the local springs — "agua de Tehuacan" is shorthand throughout the country for sparkling water — and the Tehuacan-Cuicatlan Valley, a UNESCO World Heritage Site whose cactus-studded desert landscape stretches south into Oaxaca.

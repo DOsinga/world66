@@ -5,6 +5,7 @@ latitude: 48.7042
 longitude: 18.9175
 title: Kremnica
 type: location
+score: 0.43
 ---
 
 Kremnica is a small medieval mining town in the Kremnica Mountains of central Slovakia, and it punches well above its weight. It is home to the oldest continuously operating mint in the world — coins have been struck here since 1328 — and the fortified town centre, ringed by Gothic walls and anchored by a castle-church complex, is one of the best-preserved in the country.

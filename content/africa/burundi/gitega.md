@@ -5,6 +5,7 @@ latitude: -3.4264
 longitude: 29.9246
 title: Gitega
 type: location
+score: 0.26
 ---
 
 Gitega became Burundi's political capital in 2019, taking over from [Bujumbura](/africa/burundi/bujumbura), though in practice the larger lakeside city retains most of the country's economic and diplomatic activity. Gitega sits in the hilly center of the country at around 1,800 meters, giving it a cooler, more temperate climate than the lakeshore.

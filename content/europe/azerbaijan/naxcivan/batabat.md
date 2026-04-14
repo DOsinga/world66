@@ -5,6 +5,7 @@ latitude: 40.446371
 longitude: 49.83942
 title: Batabat
 type: location
+score: 0.33
 ---
 
 Batabat is an unpopulated alpine valley in the northern part of Nakhchivan, right near the Armenian border, high above the quaint, partly wooded village of Bichanak. Locals come here regularly for day trips and barbecues.

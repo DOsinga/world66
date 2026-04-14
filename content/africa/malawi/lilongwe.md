@@ -5,6 +5,7 @@ latitude: -13.9626
 longitude: 33.7741
 done:
   location_cleanup: 2026-04-05
+score: 0.37
 ---
 
 Lilongwe is the capital of Malawi and a city of sharp contrasts: a quiet, green, planned capital of wide avenues and government buildings on one side, and a busy, dusty African market town on the other, with about three kilometres of highway between the two. Most visitors to Malawi pass through it without lingering — Lilongwe is a practical stopover rather than a destination in its own right — but if you have a day or two to fill, it rewards a little exploration.

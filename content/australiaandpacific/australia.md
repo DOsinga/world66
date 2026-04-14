@@ -10,6 +10,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Diliff" class="ex
   title="en:User:Diliff">Diliff</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.55
 ---
 
 Australia is the world's sixth-largest country and its only continent-nation — a place of extreme distances, extraordinary wildlife, and a culture that is at once deeply relaxed and quietly competitive. Most of it is empty. The population of 27 million clusters along the coastline, particularly the southeast, leaving vast interior regions to red desert, salt flats, and the occasional outback town.

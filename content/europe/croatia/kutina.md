@@ -1,6 +1,7 @@
 ---
-title: "Kutina"
+title: Kutina
 type: location
 latitude: 45.483097
 longitude: 16.775591
+score: 0.37
 ---

@@ -5,6 +5,7 @@ latitude: 40.805361
 longitude: 14.347104
 title: Herculaneum
 type: location
+score: 0.68
 ---
 
 *Europe > Italy > Campania > Herculaneum*

@@ -5,6 +5,7 @@ latitude: 43.37097
 longitude: -8.395943
 title: La Coruña
 type: location
+score: 0.56
 ---
 
 A Coruña (Spanish: La Coruña) sits on a narrow peninsula jutting into the Atlantic on Galicia's northern coast. It is one of the most liveable cities in northwestern Spain — a working port with a grand promenade, a medieval old town, and the oldest working lighthouse in the world.

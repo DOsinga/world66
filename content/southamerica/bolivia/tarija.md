@@ -5,6 +5,7 @@ latitude: -21.5355
 longitude: -64.7296
 title: Tarija
 type: location
+score: 0.45
 ---
 
 Tarija is the most Argentine city in Bolivia — in the best possible way. Its people are descended from gauchos who drifted north across the border, and the city still carries that unhurried, slightly European character you find in places like [Jujuy](/southamerica/argentina/jujuy) and [Salta](/southamerica/argentina/salta). The climate is warm and dry, the squares are leafy, and the food and wine are dramatically better than you'd expect at this altitude.

@@ -5,6 +5,7 @@ latitude: 13.1095
 longitude: 99.9397
 done:
   location_cleanup: 2026-04-06
+score: 0.51
 ---
 
 Phetchaburi is one of Thailand's oldest cities, with roots stretching back to the Dvaravati kingdom over a thousand years ago. Unlike the beach towns further south, this is a place where Thai history sits in plain sight -- hilltop palaces, centuries-old cave temples, and monastery murals that rank among the finest in the country.

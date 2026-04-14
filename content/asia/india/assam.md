@@ -5,6 +5,7 @@ title: Assam
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 Assam is one of northeast India's most rewarding states — a vast, steamy lowland threaded by the Brahmaputra river and fringed by jungle-covered hills. It is the world's largest tea-growing region, home to around 850 plantations that produce some 55% of India's tea output, and the setting for Kaziranga National Park, one of the best places on earth to see the Indian one-horned rhinoceros.

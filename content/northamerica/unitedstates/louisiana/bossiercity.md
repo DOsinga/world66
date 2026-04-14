@@ -5,6 +5,7 @@ latitude: 32.515887
 longitude: -93.733654
 title: Bossier City
 type: location
+score: 0.33
 ---
 
 Bossier City sits across the Red River from [Shreveport](/northamerica/unitedstates/louisiana/shreveport), and the two cities function as a single metropolitan area. Bossier's main draw is its cluster of riverboat casinos along the Red River — this is where most of the area's gaming action is concentrated.

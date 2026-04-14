@@ -1,8 +1,9 @@
 ---
-title: "Pripyat"
+title: Pripyat
 type: location
 latitude: 51.4064
 longitude: 30.0548
+score: 0.47
 ---
 
 Pripyat was built in 1970 as a model Soviet city for workers at the nearby Chernobyl Nuclear Power Plant. By 1986 it had nearly 50,000 residents — young, educated, well-housed by Soviet standards. Then, on the morning of 27 April 1986, the entire population was given two hours to pack a bag and board buses. They were told it was temporary. It wasn't.

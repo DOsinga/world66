@@ -5,6 +5,7 @@ latitude: 48.7713
 longitude: 5.1624
 title: Bar-le-Duc
 type: location
+score: 0.42
 ---
 
 Bar-le-Duc is a quiet town in the Meuse département whose upper town (Ville Haute) contains one of the finest collections of Renaissance architecture in northeastern France. The old centre feels like an open-air museum: elegant stone facades, mullioned windows, sculptured medallions, and pilasters line the streets and squares, all built from the warm blond limestone of the Meuse.

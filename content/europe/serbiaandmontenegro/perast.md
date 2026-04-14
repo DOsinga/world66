@@ -5,6 +5,7 @@ latitude: 42.4867
 longitude: 18.6983
 title: Perast
 type: location
+score: 0.62
 ---
 
 Perast is a tiny, perfectly preserved Baroque town on the Bay of Kotor in Montenegro, squeezed between the mountains and the water with no room to grow and no reason to change. It has one main street, a row of stone palaces built by sea captains who grew rich in the Venetian maritime trade, and a view across the bay that stops you in your tracks.

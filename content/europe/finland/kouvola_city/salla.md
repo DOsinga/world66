@@ -1,8 +1,9 @@
 ---
-title: "Salla"
+title: Salla
 type: location
 latitude: 66.831877
 longitude: 28.666863
+score: 0.34
 ---
 
 Travel Guide

@@ -1,8 +1,9 @@
 ---
-title: "Chengdu"
+title: Chengdu
 type: location
 latitude: 30.659867
 longitude: 104.063315
+score: 0.71
 ---
 
 With a history of more than 2000 years, Chengdu is full of cultural and historical remains. Du Fu Thatched Cottage, where the famous Tang poet-Du Fu used to live and write his poems, Wuhou Shrine, Tomb of Wang Jian, and Wangjiang Tower are must-see for tourists. 

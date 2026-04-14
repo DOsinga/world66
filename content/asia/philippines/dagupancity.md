@@ -1,8 +1,9 @@
 ---
-title: "Dagupan City"
+title: Dagupan City
 type: location
 latitude: 16.043181
 longitude: 120.334189
+score: 0.37
 ---
 
 Travel Guide

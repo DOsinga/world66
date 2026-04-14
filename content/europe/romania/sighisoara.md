@@ -5,6 +5,7 @@ latitude: 46.220204
 longitude: 24.793448
 title: Sighisoara
 type: location
+score: 0.63
 ---
 
 Sighisoara is one of the best-preserved medieval citadels in Europe, a UNESCO World Heritage Site perched on a hill in the centre of Transylvania. It is best known as the birthplace of Vlad Tepes — the historical figure behind the Dracula legend — but the town is worth visiting for far better reasons than vampire tourism.

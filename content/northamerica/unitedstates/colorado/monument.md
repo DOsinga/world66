@@ -5,6 +5,7 @@ latitude: 39.0917
 longitude: -104.8728
 title: Monument
 type: location
+score: 0.36
 ---
 
 Monument sits on the Palmer Divide, the high ridge separating the South Platte and Arkansas River watersheds, roughly halfway between [Denver](/northamerica/unitedstates/colorado/denver) and [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings) along I-25. At nearly 7,000 feet, it is one of the higher towns along the Front Range corridor, and the surrounding Ponderosa pine forests give it a distinctly mountain-town feel despite being just minutes from the interstate.

@@ -5,6 +5,7 @@ latitude: 30.133
 longitude: 9.5
 title: Ghadames
 type: location
+score: 0.49
 ---
 
 Ghadames is one of the most remarkable places in Libya — a UNESCO World Heritage oasis town on the edge of the Sahara, near the point where the Libyan, Algerian, and Tunisian borders meet. It's about 600 km southwest of Tripoli.

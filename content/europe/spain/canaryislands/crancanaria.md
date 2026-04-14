@@ -1,8 +1,9 @@
 ---
-title: "Gran Canaria"
+title: Gran Canaria
 type: location
 latitude: 27.958
 longitude: -15.606231
+score: 0.71
 ---
 
 **Dunes and Palm Trees** 

@@ -5,6 +5,7 @@ latitude: 35.63422
 longitude: -83.402366
 title: Smoky Mountains
 type: location
+score: 0.64
 ---
 
 Great Smoky Mountains National Park straddles the border between North Carolina and Tennessee, encompassing 800 square miles of which 95 percent is forested. It is the most visited national park in the United States, renowned for the diversity of its plant and animal life, the beauty of its ancient mountains, the remnants of Southern Appalachian culture, and the depth of its wilderness.

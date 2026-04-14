@@ -5,6 +5,7 @@ latitude: 42.431
 longitude: -8.6446
 title: Pontevedra City
 type: location
+score: 0.57
 ---
 
 Pontevedra is the capital of its province and one of the best-preserved medieval towns in Galicia. The old town is a tight cluster of granite arcades, stone squares, and narrow streets running down toward the Lérez estuary — and since the 1990s it has been almost entirely car-free, which makes it feel like a genuinely liveable place rather than a tourist stage set.

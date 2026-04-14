@@ -5,6 +5,7 @@ latitude: 57.802439
 longitude: 23.243165
 title: Ruhnu Island
 type: location
+score: 0.48
 ---
 
 Ruhnu is Estonia's most remote inhabited island, a tiny speck in the Gulf of Riga closer to Latvia than to the Estonian mainland. About sixty people live here year-round, and the island has the unhurried feel of a place that time has not quite reached.

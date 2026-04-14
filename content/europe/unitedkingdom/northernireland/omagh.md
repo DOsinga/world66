@@ -5,6 +5,7 @@ latitude: 54.599249
 longitude: -7.302991
 title: Omagh
 type: location
+score: 0.4
 ---
 
 Omagh is the county town of Tyrone, set in the rolling green hills where the rivers Drumragh and Camowen meet to form the Strule. It is a quiet, pleasant market town that serves as a good base for exploring the Sperrins, the largest mountain range in Northern Ireland, whose heather-covered slopes and lonely valleys lie just to the north.

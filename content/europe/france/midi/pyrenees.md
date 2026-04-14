@@ -1,8 +1,9 @@
 ---
-title: "Pyrenees"
+title: Pyrenees
 type: location
 latitude: 43.648785
 longitude: 2.343568
+score: 0.69
 ---
 
 The departement of the Hautes-Pyrenees, or High Pyrenees offers just that - lots of high mountains. In winter it's great for skiing, with a sun a bit hotter than in the 

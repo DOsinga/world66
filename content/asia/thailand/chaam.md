@@ -5,6 +5,7 @@ latitude: 12.799
 longitude: 99.9698
 done:
   location_cleanup: 2026-04-05
+score: 0.55
 ---
 
 Cha-am is a quiet beach town on Thailand's upper Gulf coast, about 170 km south of Bangkok and 25 km north of the glitzier Hua Hin. It has one of the longest stretches of beach in the country — an uninterrupted strip of pale sand and easy surf running for some eight kilometres — and a laid-back, distinctly Thai holiday feel. Unlike Hua Hin (which fills up on weekends with well-heeled Bangkokians) or Pattaya (which fills up with, well, everyone), Cha-am is primarily a domestic destination: middle-class Thai families on weekend escapes, busloads of office workers on company outings, and a small expat community that has settled for the slower pace.

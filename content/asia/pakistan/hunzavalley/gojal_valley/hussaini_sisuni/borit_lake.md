@@ -5,6 +5,7 @@ latitude: 36.430774
 longitude: 74.862402
 title: Borit Lake
 type: location
+score: 0.46
 ---
 
 Borit Lake (also spelled Borith Lake) is a shallow saline lake in the Gojal area of Upper Hunza. Fed from underground sources with no visible inlet or outlet, it sits in unusual stillness and draws a broad range of migratory birds.

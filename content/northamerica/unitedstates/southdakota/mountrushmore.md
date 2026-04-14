@@ -5,6 +5,7 @@ latitude: 43.879403
 longitude: -103.459805
 title: Mount Rushmore
 type: location
+score: 0.63
 ---
 
 Mount Rushmore is one of those places that manages to be both exactly what you expect and more impressive than you imagined. The four presidential faces — Washington, Jefferson, Roosevelt, and Lincoln — carved into the granite of the Black Hills by Gutzon Borglum and his son are enormous up close, and the setting in the South Dakota wilderness adds to the impact.

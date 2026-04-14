@@ -1,8 +1,9 @@
 ---
-title: "Los Lingues,Colchagua,San Fernando"
+title: Los Lingues,Colchagua,San Fernando
 type: location
 latitude: -34.563792
 longitude: -70.914394
+score: 0.45
 ---
 
 Travel Guide

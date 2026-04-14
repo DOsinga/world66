@@ -5,6 +5,7 @@ latitude: 58.380916
 longitude: -5.188608
 title: Handa Island
 type: location
+score: 0.51
 ---
 
 Handa, an island off the coast of Sutherland, is formed of Torridonian sandstone and is covered in practically all types of seabirds in the nesting season. It is administered by the Scottish Wildlife Trust. There are regular boat trips from Tarbet, near Scourie, just off the coastal route from [Ullapool](/europe/unitedkingdom/scotland/ullapool) to [Durness, Sutherland](/europe/unitedkingdom/scotland/durness_sutherlan)

@@ -5,6 +5,7 @@ latitude: 54.586
 longitude: -6.9592
 done:
   location_cleanup: 2026-04-06
+score: 0.62
 ---
 
 Northern Ireland occupies the northeastern corner of the island of Ireland and is one of the four countries that make up the United Kingdom. It covers about 14,000 square kilometres, has a population of around 1.9 million, and shares an open land border with the Republic of Ireland to the south and west. Belfast is the capital and by far the largest city. Derry (also known as Londonderry) is the second city, located in the northwest near the border.

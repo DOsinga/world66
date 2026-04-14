@@ -5,6 +5,7 @@ latitude: -33.959721
 longitude: 22.458715
 title: George
 type: location
+score: 0.5
 ---
 
 George is the largest town on the Garden Route and the commercial hub of the southern Western Cape. The Outeniqua Mountains rise dramatically behind the town to the north, while the coastline — some of the finest beaches in South Africa — lies just a short drive to the south.

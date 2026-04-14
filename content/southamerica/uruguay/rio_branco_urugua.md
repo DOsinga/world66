@@ -5,6 +5,7 @@ latitude: -32.5978
 longitude: -53.3864
 title: Río Branco
 type: location
+score: 0.33
 ---
 
 Río Branco is a small border town in northeastern [Uruguay](/southamerica/uruguay), sitting on the Yaguarón River across from the Brazilian city of Jaguarão. The Barón de Mauá International Bridge connects the two countries here, and the town has the unhurried feel of a place where two cultures quietly blend — you will hear as much Portuguese as Spanish in the streets.

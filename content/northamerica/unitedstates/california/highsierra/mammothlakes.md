@@ -5,6 +5,7 @@ latitude: 37.6485
 longitude: -118.9721
 title: Mammoth Lakes
 type: location
+score: 0.63
 ---
 
 Mammoth Lakes sits at 7,880 feet on the eastern escarpment of the Sierra Nevada, in a wide volcanic basin ringed by peaks. It is a year-round mountain town whose personality changes completely with the seasons: a serious ski destination in winter, a hiker's and biker's paradise in summer.

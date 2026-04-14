@@ -1,8 +1,9 @@
 ---
-title: "Friesland"
+title: Friesland
 type: location
 latitude: 53.092369
 longitude: 5.777043
+score: 0.51
 ---
 
 Friesland (or Frisia) is the Netherlands northernmost province with a distinct character. The Frisians actually go back a long time and speak their own language, have their own culture and their own names. Male frisian forenames tend to end on an 'e', while family names tend to end on 'ga'.

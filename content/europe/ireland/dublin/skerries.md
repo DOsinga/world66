@@ -5,6 +5,7 @@ latitude: 53.573989
 longitude: -6.119175
 title: Skerries
 type: location
+score: 0.48
 ---
 
 Skerries is a pleasant surprise on the Dublin commuter belt — a seaside town that still feels like a Victorian fishing village, with good coastal walks, a working harbour, and a mix of Georgian and Edwardian architecture. It is on the DART/commuter rail line to Dublin, making it an easy day trip or a quieter base for exploring the capital.

@@ -5,6 +5,7 @@ latitude: 18.0731
 longitude: -63.0822
 title: Saint-Martin
 type: location
+score: 0.63
 ---
 
 Saint-Martin is the French half of an island shared with Dutch [Sint Maarten](/northamerica/netherlandsantilles/stmaarten) — the smallest landmass in the world divided between two nations, and one without any border controls between them. You can walk from a French patisserie to a Dutch casino in fifteen minutes.

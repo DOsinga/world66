@@ -5,6 +5,7 @@ latitude: 19.7517
 longitude: -70.515
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 Sosua is a small beach town on the north coast of the [Dominican Republic](/northamerica/dominicanrepublic), about 25 kilometres east of [Puerto Plata](/northamerica/dominicanrepublic/puertoplata). It has two distinct halves: El Batey, the more tourist-oriented western section with restaurants, bars, and hotels along the main drag of Pedro Clisante; and Los Charamicos, the Dominican side, which is cheaper, more local, and closer to everyday Dominican life.

@@ -1,6 +1,7 @@
 ---
-title: "M Baiki"
+title: M Baiki
 type: location
+score: 0.15
 ---
 
 Close to [Bangui](/africa/centralafricanrepublic/bangui) just east of [Zinga](/africa/centralafricanrepublic/zinga), M'baiki is a the heart of the coffee growing area.

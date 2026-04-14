@@ -1,6 +1,7 @@
 ---
-title: "kamploops"
+title: kamploops
 type: location
+score: 0.4
 ---
 
 Travel Guide

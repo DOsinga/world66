@@ -5,6 +5,7 @@ latitude: 40.649664
 longitude: 14.612275
 title: Ravello
 type: location
+score: 0.73
 ---
 
 *Europe > Italy > Campania > Ravello*

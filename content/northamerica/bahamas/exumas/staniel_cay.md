@@ -1,8 +1,9 @@
 ---
-title: "Staniel Cay"
+title: Staniel Cay
 type: location
-latitude: 24.1700
-longitude: -76.4400
+latitude: 24.17
+longitude: -76.44
+score: 0.64
 ---
 
 A tiny island in the central Exuma Cays with a population of around 100 and an outsized reputation. Staniel Cay is the gateway to the Exumas' headline attractions: Thunderball Grotto is a five-minute boat ride away, the swimming pigs of Big Major Cay are just to the north, and Compass Cay's nurse sharks are a short hop south. The island has its own airstrip with charter flights from Nassau, making it the main hub for visitors to the cays.

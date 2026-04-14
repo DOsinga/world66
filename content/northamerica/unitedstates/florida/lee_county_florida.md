@@ -5,6 +5,7 @@ latitude: 26.6865
 longitude: -81.9175
 title: Lee County
 type: location
+score: 0.49
 ---
 
 Lee County covers the southwest corner of Florida's Gulf Coast, anchored by Fort Myers and extending out to Sanibel and Captiva islands. It is less flashy than Miami and less theme-parked than Orlando, which is part of the appeal — this is where Floridians themselves come to fish, shell, and slow down.

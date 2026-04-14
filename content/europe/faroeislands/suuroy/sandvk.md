@@ -5,6 +5,7 @@ latitude: 61.634177
 longitude: -6.928838
 title: Sandvík
 type: location
+score: 0.47
 ---
 
 Sandvík is the northernmost village on [Suðuroy](/europe/faroeislands/suuroy), reached through an old road tunnel that is the only way in. About a hundred people live here. As the name suggests, it has a large sandy beach — a rarity in the Faroes.

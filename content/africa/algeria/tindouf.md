@@ -5,6 +5,7 @@ latitude: 27.543907
 longitude: -6.240041
 title: Tindouf
 type: location
+score: 0.25
 ---
 
 Tindouf used to be a small town in the westernmost part of Algeria. Since the outbreak of the conflict in the Western Sahara, it has seen many people from the WS flocking to the city. Most of them live in camps that have the same names as the cities they left behind: Smara, el Ayoune, Dakhla.

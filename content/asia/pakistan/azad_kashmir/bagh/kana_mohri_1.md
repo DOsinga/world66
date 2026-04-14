@@ -1,6 +1,7 @@
 ---
-title: "kana mohri"
+title: kana mohri
 type: location
+score: 0.16
 ---
 
 Travel Guide

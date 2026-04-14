@@ -5,6 +5,7 @@ latitude: -40.904736
 longitude: 174.986136
 title: Kapiti Coast
 type: location
+score: 0.45
 ---
 
 The Kapiti Coast runs along the southwest shore of the North Island, from Paekakariki in the south to Ōtaki in the north — about 40 kilometres of beach-fringed coast with the Tararua Range rising behind it. The towns along the route, including Waikanae, Paraparaumu, and Raumati Beach, are popular weekend and summer destinations for Wellingtonians, about an hour to the south.

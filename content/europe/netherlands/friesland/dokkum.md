@@ -5,6 +5,7 @@ latitude: 53.324351
 longitude: 5.999231
 title: Dokkum
 type: location
+score: 0.45
 ---
 
 Dokkum is one of the eleven historic cities of [Friesland](/europe/netherlands/friesland), tucked into the province's northeastern corner near [Groningen](/europe/netherlands/groningen). It is famous as the place where the Anglo-Saxon missionary Boniface was killed in 754 while attempting to convert the Frisians — an event still commemorated at the Bonifatius Chapel and spring outside town.

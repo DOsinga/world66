@@ -5,6 +5,7 @@ latitude: 37.937494
 longitude: -107.812285
 title: Telluride
 type: location
+score: 0.66
 ---
 
 We currently have no information about .

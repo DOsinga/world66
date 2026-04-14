@@ -5,6 +5,7 @@ latitude: 2.0323
 longitude: 103.3191
 done:
   location_cleanup: 2026-04-06
+score: 0.41
 ---
 
 Kluang is a small town in the centre of Johor state, Peninsular Malaysia, known mainly among Malaysians for one thing: its coffee. The Kluang Railway Station Canteen on Jalan Omar has been serving kopi (strong, sweet local coffee), kaya toast, and half-boiled eggs since the 1940s and is one of the most celebrated breakfast spots in the country. Food enthusiasts make the trip specifically for this breakfast, served from 7am to noon and again for afternoon tea.

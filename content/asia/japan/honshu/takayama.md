@@ -5,6 +5,7 @@ latitude: 36.139625
 longitude: 137.251032
 title: Takayama
 type: location
+score: 0.78
 ---
 
 Takayama sits deep in the Japanese Alps in Gifu Prefecture, about four hours from Nagoya by train. It is one of Japan's best-preserved Edo-period towns — the central Sanmachi Suji district, with its dark timber merchant houses, sake breweries open for tastings, and craft shops, has survived almost intact. Unlike much of Japan, Takayama feels genuinely old rather than restored, and it draws visitors year-round.

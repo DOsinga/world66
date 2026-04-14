@@ -1,6 +1,7 @@
 ---
-title: "ghazi chok"
+title: ghazi chok
 type: location
+score: 0.16
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: 31.6205
 longitude: 65.7158
 title: Kandahar
 type: location
+score: 0.11
 ---
 
 Kandahar is Afghanistan's second city and its historical heart — the birthplace of the Pashtun nation, the seat of Ahmad Shah Durrani who founded the Durrani Empire in 1747, and the city from which the Taliban launched their conquest of Afghanistan in the 1990s. It sits in the south on a flat, sun-baked plain ringed by desert, a city of pomegranate orchards, mud-walled compounds, and deep conservatism. Of all Afghan cities, this one bears the most weight of recent history — and the least tolerance for outsiders.

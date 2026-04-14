@@ -1,8 +1,9 @@
 ---
-title: "Bali"
+title: Bali
 type: location
 latitude: -8.22713
 longitude: 115.19192
+score: 0.82
 ---
 
 Although it is relatively small compared to the other two favourite Indonesian holiday destinations Sumatra and [Java](/asia/indonesia/java), Bali most certainly did not escape the Indonesian lover’s attention. Whereas one can find great extended areas of densed forests on [Sumatra](/asia/indonesia/sumatra) and Buddhist centres (such as the one at Borobodur) and vulcanoes on Java, Bali has a lot of the same kind - and maybe even of a prettier kind. However, everything is on a smaller scale, because Bali is not only small in size but also has a high density of population.

@@ -5,6 +5,7 @@ latitude: 44.8378
 longitude: -0.5792
 done:
   location_cleanup: 2026-04-06
+score: 0.74
 ---
 
 Bordeaux is a wine city. Not just because the surrounding vineyards produce some of the most celebrated bottles on earth, but because wine shapes the rhythm of life here — the restaurants, the economy, the landscape, the conversations. If you care about wine at all, this is a pilgrimage.

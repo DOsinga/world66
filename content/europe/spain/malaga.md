@@ -5,6 +5,7 @@ latitude: 36.721303
 longitude: -4.421637
 title: Malaga
 type: location
+score: 0.69
 ---
 
 Málaga is a vibrant, thoroughly Andalusian city strung between the mountains and the Mediterranean. It is the capital of the Costa del Sol and the birthplace of Picasso — and Antonio Banderas — but it is often overlooked by tourists who arrive at the airport and head straight for the beach resorts. This is their loss. The city has real substance.

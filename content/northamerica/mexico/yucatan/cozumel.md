@@ -5,6 +5,7 @@ latitude: 20.43206
 longitude: -86.920691
 title: Cozumel
 type: location
+score: 0.69
 ---
 
 Cozumel is a flat, jungle-covered island off the coast of [Yucatan](/northamerica/mexico/yucatan), famous for some of the best diving in the Western Hemisphere. The Mesoamerican Reef runs along the island's western shore, and the drift dives through Palancar, Santa Rosa Wall, and Columbia are world-class — warm, clear water with huge sponges, sea fans, and the occasional nurse shark.

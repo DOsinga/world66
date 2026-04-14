@@ -5,6 +5,7 @@ latitude: 41.083064
 longitude: -81.518485
 title: Akron
 type: location
+score: 0.36
 ---
 
 Akron sits in the foothills of the Cuyahoga Valley about 40 miles south of Cleveland. Once the rubber capital of the world — Goodyear, Firestone, and B.F. Goodrich were all headquartered here — the city has reinvented itself around its university, a revitalised downtown, and a surprisingly good food scene. The Cuyahoga Valley National Park, which stretches north toward Cleveland, puts hiking trails, waterfalls, and the scenic Cuyahoga Valley Scenic Railroad within easy reach.

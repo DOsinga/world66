@@ -5,6 +5,7 @@ latitude: 10.953376
 longitude: 108.247176
 title: Mui Ne - Phan Thiet
 type: location
+score: 0.6
 ---
 
 Mui Ne Beach stretches along the coast about 300 km northeast of [Ho Chi Minh City](/asia/vietnam/ho_chi_minh_city), reachable only by road. A long strip of soft grey sand backed by low-rise hotels, bamboo bungalows, and coconut palms, it has been developed with more restraint than most Vietnamese beach resorts — good gardens and tree screening give each place a sense of seclusion.

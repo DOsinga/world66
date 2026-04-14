@@ -10,6 +10,7 @@ latitude: 52.243498
 longitude: 5.634323
 title: Netherlands
 type: location
+score: 0.39
 ---
 
 The Netherlands is a small, flat, densely populated country in the northwest corner of Europe, wedged between [Germany](/europe/germany) and [Belgium](/europe/belgium) with its face turned towards the North Sea. It is far more interesting than the stereotype of windmills and tulips suggests — though the windmills and tulips are genuinely worth seeing.

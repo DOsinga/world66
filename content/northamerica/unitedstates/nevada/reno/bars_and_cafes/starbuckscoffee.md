@@ -1,8 +1,9 @@
 ---
-title: "Starbucks Coffee"
+title: Starbucks Coffee
 type: location
-address: "4809 Kietzke Ln"
-phone: "775-827-1192"
+address: 4809 Kietzke Ln
+phone: 775-827-1192
 latitude: 39.481382
 longitude: -119.794297
+score: 0.15
 ---

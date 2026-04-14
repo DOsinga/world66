@@ -5,6 +5,7 @@ latitude: 3.713048
 longitude: 101.736557
 title: Fraser's Hill
 type: location
+score: 0.53
 ---
 
 Fraser's Hill is a quiet hill station in the mountains of Pahang, about two hours' drive north of Kuala Lumpur. At around 1,500 metres, it is noticeably cooler than the lowlands — evenings can be genuinely chilly, so bring a sweater.

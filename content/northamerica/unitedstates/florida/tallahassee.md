@@ -5,6 +5,7 @@ latitude: 30.438083
 longitude: -84.280933
 done:
   location_cleanup: 2026-04-05
+score: 0.42
 ---
 
 **Tallahassee** is Florida's state capital, located in the eastern section of the panhandle. City life revolves around politics and higher education, as Tallahassee is home to two major universities - Florida State University and Florida A&M University - and a community college, Tallahassee Community College. However, despite this, Tallahassee has a rather sizeable non-transient (non-student and non-political) population, located primarily on the northeast side of town in the Killearn area. 

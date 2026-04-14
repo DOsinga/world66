@@ -5,6 +5,7 @@ latitude: 37.9694
 longitude: 126.5567
 title: Kaesong
 type: location
+score: 0.27
 ---
 
 Kaesong is the most historically interesting destination in North Korea after Pyongyang, and the easiest to justify on purely cultural grounds. The city was the capital of the Koryo dynasty (918–1392), which unified the Korean peninsula and gave the country its name — "Korea" is a Western rendering of Koryo.

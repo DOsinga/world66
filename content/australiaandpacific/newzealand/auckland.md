@@ -5,6 +5,7 @@ latitude: -36.8521
 longitude: 174.7632
 done:
   location_cleanup: 2026-04-06
+score: 0.66
 ---
 
 Auckland sprawls across a narrow isthmus between two harbours, built on and around some fifty volcanic cones. It is New Zealand's largest city by far, home to roughly a third of the country's population, and the place where most international visitors first set foot in the country.

@@ -5,6 +5,7 @@ latitude: 10.2636
 longitude: -85.585
 title: Santa Cruz
 type: location
+score: 0.5
 ---
 
 Santa Cruz is the main service town for the Guanacaste province in northwestern Costa Rica. It is not a beach destination itself, but it sits within easy reach of some of the country's best Pacific coast beaches — Playa Junquillal, Playa Tamarindo, and Playa Flamingo are all nearby. The town provides shopping, banks, and services for a wide area.

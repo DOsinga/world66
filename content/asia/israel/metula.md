@@ -1,8 +1,9 @@
 ---
-title: "Metula"
+title: Metula
 type: location
 latitude: 33.269214
 longitude: 35.572338
+score: 0.37
 ---
 
 Travel Guide

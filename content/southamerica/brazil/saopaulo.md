@@ -1,8 +1,9 @@
 ---
-title: "Sao paulo"
+title: Sao paulo
 type: location
 latitude: -23.550651
 longitude: -46.633382
+score: 0.48
 ---
 
 Sao Paulo is the largest city in South America and the third largest in the world. It is the economical capital of Brazil and a very busy place.It is also rich in culture parks and museums; but let's be honest it is not a very pretty city there is just too much concrete spilled all over the place.

@@ -5,6 +5,7 @@ latitude: 13.0827
 longitude: -59.5415
 title: Christ Church
 type: location
+score: 0.59
 ---
 
 Christ Church is the most visited parish in Barbados, stretching along the island's south coast from Bridgetown to the airport. The calm, turquoise Caribbean Sea here is gentler than the Atlantic surf on the east coast, making it ideal for swimming, snorkelling, and watersports.

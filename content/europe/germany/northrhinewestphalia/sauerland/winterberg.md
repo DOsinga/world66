@@ -5,6 +5,7 @@ latitude: 51.193339
 longitude: 8.533406
 title: Winterberg
 type: location
+score: 0.49
 ---
 
 Winterberg is the main winter sports town in the Sauerland region of North Rhine-Westphalia, and the closest thing to a ski resort you will find in western Germany's low mountains. The lifts start right in town, and while the slopes are modest by Alpine standards — the highest point is around 840 metres — they are more than enough for a weekend trip from the Ruhr cities or Cologne.

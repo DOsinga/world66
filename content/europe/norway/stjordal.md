@@ -1,6 +1,7 @@
 ---
-title: "Stjordal"
+title: Stjordal
 type: location
 latitude: 63.462703
 longitude: 11.134472
+score: 0.45
 ---

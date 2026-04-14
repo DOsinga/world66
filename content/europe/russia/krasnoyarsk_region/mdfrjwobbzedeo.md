@@ -1,6 +1,7 @@
 ---
-title: "MdFrJwObBzEDeO"
+title: MdFrJwObBzEDeO
 type: location
+score: 0.06
 ---
 
 Travel Guide

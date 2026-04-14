@@ -5,6 +5,7 @@ latitude: 51.424967
 longitude: -116.177535
 title: Lake Louise
 type: location
+score: 0.77
 ---
 
 Lake Louise is one of the most photographed scenes in the Canadian Rockies — a turquoise lake set against the stark backdrop of Victoria Glacier, surrounded by snow-capped peaks inside [Banff National Park](/northamerica/canada/alberta/banff). Known as Canada's "Diamond in the Wilderness," the lake and its surroundings draw skiers, hikers, and anyone who wants to stand in front of genuinely jaw-dropping mountain scenery.

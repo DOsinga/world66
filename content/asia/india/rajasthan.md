@@ -5,6 +5,7 @@ latitude: 26.9124
 longitude: 75.7873
 title: Rajasthan
 type: location
+score: 0.78
 ---
 
 Rajasthan is India at its most vivid. This is the land of massive forts perched on desert ridges, palaces reflected in still lakes, and cities painted in single colors -- pink for [Jaipur](/asia/india/rajasthan/jaipur), blue for [Jodhpur](/asia/india/rajasthan/jodhpur), gold for [Jaisalmer](/asia/india/rajasthan/jaisalmer), white for [Udaipur](/asia/india/rajasthan/udaipur). It is the most popular state in India for international tourists, and for good reason.

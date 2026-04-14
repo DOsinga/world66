@@ -5,6 +5,7 @@ latitude: 44.4495
 longitude: 1.4365
 title: Cahors
 type: location
+score: 0.58
 ---
 
 Cahors sits in a dramatic loop of the River Lot in southwestern France, the old town almost entirely enclosed by water. It is best known for two things: the Pont Valentré, a fortified medieval bridge with three towers that is one of the finest in Europe, and the deep, dark Cahors wine — a malbec that has been grown here since Roman times.

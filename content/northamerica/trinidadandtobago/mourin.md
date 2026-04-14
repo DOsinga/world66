@@ -1,6 +1,7 @@
 ---
-title: "mourin"
+title: mourin
 type: location
+score: 0.29
 ---
 
 Travel Guide

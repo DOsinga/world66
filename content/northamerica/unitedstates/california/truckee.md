@@ -5,6 +5,7 @@ latitude: 39.327945
 longitude: -120.183577
 title: Truckee
 type: location
+score: 0.51
 ---
 
 Truckee sits at 5,800 feet in the Sierra Nevada, twenty minutes north of Lake Tahoe and squarely in the path of every winter storm that rolls in off the Pacific. It started as a rough-and-tumble railroad town — the transcontinental railroad came through in 1868 — and that history is still legible in the wooden storefronts along Commercial Row downtown.

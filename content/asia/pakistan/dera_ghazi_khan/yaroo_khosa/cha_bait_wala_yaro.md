@@ -1,6 +1,7 @@
 ---
-title: "Cha bait wala Yaroo khosa"
+title: Cha bait wala Yaroo khosa
 type: location
+score: 0.05
 ---
 
 Travel Guide

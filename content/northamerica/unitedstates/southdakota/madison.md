@@ -1,8 +1,9 @@
 ---
-title: "Madison"
+title: Madison
 type: location
 latitude: 43.07469
 longitude: -89.384166
+score: 0.31
 ---
 
 Travel Guide

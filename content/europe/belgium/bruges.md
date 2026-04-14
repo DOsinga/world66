@@ -5,6 +5,7 @@ latitude: 51.208553
 longitude: 3.226772
 done:
   location_cleanup: 2026-04-05
+score: 0.74
 ---
 
 Bruges is one of the most beautiful cities in [Europe](/europe). It rightly deserves the name [Venice](/europe/italy/veneto/venice) of the north, canals, bridges and old city houses make it a very romantic place to visit.

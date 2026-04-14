@@ -1,8 +1,9 @@
 ---
-title: "Orlando"
+title: Orlando
 type: location
 latitude: 28.542122
 longitude: -81.379045
+score: 0.62
 ---
 
 Orlando is the super tourism capital of the world. A great climate more attractions than any other place, fantastic possibilities to go out at night, wonderful activities during daytime. A great place to go with your family.

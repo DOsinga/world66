@@ -5,6 +5,7 @@ latitude: 52.2815
 longitude: -1.5816
 title: Warwick
 type: location
+score: 0.53
 ---
 
 Warwick is a compact medieval town in the English Midlands, and it punches well above its size. The main draw is Warwick Castle, one of England's best-preserved medieval fortresses, which has loomed over the River Avon for nearly a thousand years. Beyond the castle, the town centre holds a pleasing mix of Tudor timber-frames and Georgian townhouses, most of it recoverable on foot in an afternoon.

@@ -5,6 +5,7 @@ latitude: 42.269867
 longitude: 27.750618
 title: Primorsko
 type: location
+score: 0.48
 ---
 
 Primorsko is a small Black Sea resort town about 50 km south of [Burgas](/europe/bulgaria/burgas), positioned on a narrow peninsula between two bays. It's considerably quieter than the big northern resorts (Golden Sands, Sunny Beach) and has a more local character — popular with Bulgarian families rather than package tourists.

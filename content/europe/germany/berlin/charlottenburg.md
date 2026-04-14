@@ -5,6 +5,7 @@ latitude: 52.5157
 longitude: 13.3097
 done:
   location_cleanup: 2026-04-06
+score: 0.63
 ---
 
 Charlottenburg is Berlin's western bourgeois heartland — grand apartment buildings, the Kurfürstendamm shopping boulevard, the city's best Jugendstil architecture, and a bar and restaurant scene that attracts an older, better-dressed crowd than the eastern districts. It was the centre of West Berlin during the divided city years and retains a certain self-conscious elegance.

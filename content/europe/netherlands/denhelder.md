@@ -5,4 +5,5 @@ latitude: 52.952989
 longitude: 4.826759
 title: Den Helder
 type: location
+score: 0.41
 ---

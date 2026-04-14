@@ -1,8 +1,9 @@
 ---
-title: "Rudesheim"
+title: Rudesheim
 type: location
 latitude: 49.84579
 longitude: 7.815331
+score: 0.55
 ---
 
 Since the beginning of the 19th century, Rudesheim has been an attraction for English and German romantic writers, and is today -- despite the modest number of its residents -- one of the most visited towns in Germany, especially in summertime. If you do not mind the overcrowded Drosselgasse, the historical buildings are well worth seeing: the Klunkhardshof, the fortified Adlerturm, the thousand-year-old Broemser castle, the Boosenburg and the ruins of Ehrenfels castle. For those who seek tranquility, there are extensive forests nearby, such as the nature park Rhein-Taunus.

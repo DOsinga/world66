@@ -1,8 +1,9 @@
 ---
-title: "Caruthersville"
+title: Caruthersville
 type: location
 latitude: 36.191663
 longitude: -89.654845
+score: 0.28
 ---
 
 Travel Guide

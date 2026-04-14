@@ -5,6 +5,7 @@ latitude: -38.2611
 longitude: 175.1103
 title: Waitomo
 type: location
+score: 0.65
 ---
 
 Waitomo is a small rural area in the [Waikato](/australiaandpacific/newzealand/waikato) region of New Zealand's North Island, famous for its network of limestone caves. The Waitomo Glowworm Caves are the main draw — a boat ride through an underground grotto lit by thousands of glowworms clinging to the ceiling is one of New Zealand's most iconic experiences.

@@ -5,6 +5,7 @@ title: Norfolk
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.52
 ---
 
 Norfolk is a large, largely flat county in the east of England, jutting into the North Sea between the Wash and the Suffolk border. It is one of England's least densely populated counties — a place of big skies, working farms, empty beaches, and enormous medieval churches left behind by a prosperous wool trade. The landscape is gentle and wide, with the Broads inland and long stretches of sand and salt marsh along the north and east coasts.

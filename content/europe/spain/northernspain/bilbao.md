@@ -5,6 +5,7 @@ latitude: 43.263
 longitude: -2.935
 done:
   location_cleanup: 2026-04-07
+score: 0.69
 ---
 
 Bilbao (pop. 350,000) is the largest city in the Basque Country and one of the most remarkable urban turnarounds in recent European history. For most of the twentieth century it was a gritty industrial port, its fortunes built on steel, shipbuilding, and the Nervión River that cuts through the city. When those industries collapsed in the 1970s and 80s, Bilbao faced a crisis that many similar cities never recovered from. Instead, it reinvented itself.

@@ -1,8 +1,9 @@
 ---
-title: "Langkawi"
+title: Langkawi
 type: location
 latitude: 6.370039
 longitude: 99.792863
+score: 0.73
 ---
 
 The isles of Langkawi - ninety nine of them, are tucked into the northwest corner of the peninsula and nestled on the Thai-Malaysian sea border. Unspoilt and rustic, it is a tropical paradise spectacularly endowed by nature, one where crystal clear emerald waters, azure skies, lush green vegetation and fantastic limestone formations can be found. But Langkawi is more than captivating beauty ~ it is also a land steep in legends and shrouded in mystery.

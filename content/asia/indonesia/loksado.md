@@ -5,6 +5,7 @@ latitude: -2.794682
 longitude: 115.496021
 title: Loksado
 type: location
+score: 0.47
 ---
 
 Loksado is a small town in the Meratus Mountains of South Kalimantan, about five hours by road from Banjarmasin. It is the starting point for treks into the Meratus range — one of the few places in Indonesian Borneo where you can walk through genuine mountain rainforest and stay with indigenous Dayak communities.

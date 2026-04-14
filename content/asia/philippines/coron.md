@@ -5,6 +5,7 @@ latitude: 11.998551
 longitude: 120.205161
 title: Coron
 type: location
+score: 0.73
 ---
 
 Coron is both the name of the largest town on the island of Busuanga and the name of a separate, smaller island just offshore. The area appears on most lists of the world's best dive destinations, and for good reason: in September 1944 a US Navy air raid sank a fleet of Japanese supply ships sheltering in the harbour, leaving around a dozen well-preserved wrecks scattered on the seabed. The wrecks sit at depths accessible to recreational divers and are now blanketed in coral and reef fish.

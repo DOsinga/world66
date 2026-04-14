@@ -1,8 +1,9 @@
 ---
-title: "Manaus"
+title: Manaus
 type: location
 latitude: -3.131633
 longitude: -59.982504
+score: 0.52
 ---
 
 Manaus is located at Negro River, just 10 kilometres upstream from the point this river meets the Solimoes to form the Amazon. When in the area you should pay a visit to this point for the mingling of black and yellow water from the two rivers is really a sight worth seeing.

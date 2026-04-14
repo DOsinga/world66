@@ -5,6 +5,7 @@ latitude: 7.775666
 longitude: -72.221415
 title: San Cristóbal
 type: location
+score: 0.34
 ---
 
 San Cristóbal is the capital of Táchira state in the Andean highlands of western [Venezuela](/southamerica/venezuela), close to the Colombian border. Founded in 1561 by Juan de Maldonado, it grew into one of the most progressive commercial centres in the country. The people of Táchira are known for being hardworking, conservative, and devoted to their traditions.

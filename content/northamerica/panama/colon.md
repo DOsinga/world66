@@ -5,6 +5,7 @@ latitude: 9.3547
 longitude: -79.9016
 title: Colón
 type: location
+score: 0.4
 ---
 
 Colón sits on the Caribbean end of the [Panama](/northamerica/panama) Canal and is the country's second-largest city, though it wears its status roughly. Much of the centre is run-down and can feel unsafe, especially after dark — take local advice and be sensible about where you walk.

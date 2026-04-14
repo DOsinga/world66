@@ -5,6 +5,7 @@ latitude: -42.56389
 longitude: 171.452334
 title: West Coast
 type: location
+score: 0.61
 ---
 
 The West Coast is a narrow strip of land between the Southern Alps and the Tasman Sea on New Zealand's [South Island](/australiaandpacific/newzealand/south_island). The Maori came here first for greenstone, then the Pakeha arrived chasing gold, then coal, then they felled the bush to farm the land. But there is still plenty left to see: glaciers, ancient rainforest, high mountains, wild rivers and lakes — and, of course, rain. Lots of rain.

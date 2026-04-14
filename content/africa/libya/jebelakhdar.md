@@ -5,6 +5,7 @@ latitude: 32.65
 longitude: 21.85
 title: Jebel Akhdar
 type: location
+score: 0.3
 ---
 
 The Jebel Akhdar — "Green Mountain" — is a limestone plateau rising above the Gulf of Sirte, roughly between Benghazi and the ancient city of Cyrene. It's the most fertile part of Libya, with pine forests, juniper, and wildflowers in spring. The ancient Greek cities of Cyrenaica — Cyrene, Apollonia, Tolmeitha — are all within reach of this region.

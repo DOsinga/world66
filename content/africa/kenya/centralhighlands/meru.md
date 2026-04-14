@@ -5,6 +5,7 @@ latitude: 0.2255
 longitude: 37.7773
 title: Meru
 type: location
+score: 0.44
 ---
 
 Meru is a substantial market town on the northeastern slopes of Mount Kenya, home to the Meru people — close relatives of the Kikuyu and Embu, with their own distinct traditions and language.

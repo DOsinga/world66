@@ -1,6 +1,7 @@
 ---
-title: "Siakh in Tehsil Dadyal"
+title: Siakh in Tehsil Dadyal
 type: location
+score: 0.18
 ---
 
 Travel Guide

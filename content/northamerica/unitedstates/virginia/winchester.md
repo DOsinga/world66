@@ -5,6 +5,7 @@ latitude: 39.1852
 longitude: -78.1652
 done:
   location_cleanup: 2026-04-07
+score: 0.4
 ---
 
 Winchester sits at the top of the Shenandoah Valley, a small city with a disproportionate amount of American history packed into its streets. George Washington got his start here — surveying, building forts, winning his first election — and during the Civil War the town changed hands between Union and Confederate forces so many times that locals lost count. Six battles were fought in and around Winchester, and the city is said to have changed flags around 70 times over four years.

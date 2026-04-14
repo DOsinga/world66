@@ -1,6 +1,7 @@
 ---
-title: "Teahouses"
+title: Teahouses
 type: location
+score: 0.26
 ---
 
 **Place to go outs**

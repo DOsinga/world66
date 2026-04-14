@@ -5,6 +5,7 @@ latitude: 15.7803
 longitude: -86.6714
 title: Corozal
 type: location
+score: 0.26
 ---
 
 Corozal is a small Garifuna village on the Caribbean coast of Honduras, about 13 km east of [La Ceiba](/northamerica/honduras/la_ceiba) along a stretch of beach road. It is one of the most accessible Garifuna communities in the country, making it a good introduction to a culture that most travelers have never encountered.

@@ -5,6 +5,7 @@ latitude: 63.749274
 longitude: -68.521376
 title: Iqaluit
 type: location
+score: 0.4
 ---
 
 Iqaluit is the capital of [Nunavut](/northamerica/canada/nunavut) and the gateway to the Eastern Arctic. Formerly known as Frobisher Bay, it sits on the southeastern coast of Baffin Island and is home to about 8,000 people — a growing city by Arctic standards, but still a place where the tundra begins at the edge of town.

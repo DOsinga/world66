@@ -5,6 +5,7 @@ latitude: 42.4247
 longitude: 18.7712
 title: Kotor
 type: location
+score: 0.68
 ---
 
 Kotor is a fortified town at the head of the Bay of Kotor in Montenegro, wedged between the water and a sheer mountain wall. The setting is dramatic — the bay is the deepest natural harbour in the southern Mediterranean, surrounded by mountains that rise straight up to over 1,700 metres — and the old town inside the walls is one of the best-preserved medieval centres on the Adriatic. UNESCO listed it in 1979.

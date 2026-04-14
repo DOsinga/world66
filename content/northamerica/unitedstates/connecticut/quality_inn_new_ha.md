@@ -1,6 +1,7 @@
 ---
-title: "Quality Inn New Haven"
+title: Quality Inn New Haven
 type: location
+score: 0.19
 ---
 
 Travel Guide

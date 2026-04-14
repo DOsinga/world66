@@ -5,6 +5,7 @@ latitude: 28.016
 longitude: 73.3171
 title: Bikaner
 type: location
+score: 0.54
 ---
 
 Bikaner is the overlooked gem of the Rajasthan desert circuit. Founded in 1488 by Rao Bika, this walled city has a magnificent fort, carved havelis, and a fraction of the tourist crowds that clog [Jaisalmer](/asia/india/rajasthan/jaisalmer) and [Jodhpur](/asia/india/rajasthan/jodhpur).

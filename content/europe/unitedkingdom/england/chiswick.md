@@ -5,6 +5,7 @@ latitude: 51.492314
 longitude: -0.263818
 title: Chiswick
 type: location
+score: 0.43
 ---
 
 Chiswick is a leafy west [London](/europe/unitedkingdom/england/london) neighbourhood with a village feel that belies its proximity to central London — Turnham Green tube station is about 20 minutes from the West End on the District line.

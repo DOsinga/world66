@@ -5,6 +5,7 @@ latitude: 44.2601
 longitude: -72.575
 title: Montpelier
 type: location
+score: 0.49
 ---
 
 Montpelier is the smallest state capital in the United States — a distinction that turns out to be one of its greatest charms. With fewer than 10,000 residents, this is a real small city that feels more like an overgrown New England village than a seat of government. The golden dome of the State House rises above Church Street, surrounded by independent bookshops, good restaurants, and the kind of walkable downtown that larger capitals can only envy.

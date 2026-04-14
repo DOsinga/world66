@@ -1,8 +1,9 @@
 ---
-title: "York"
+title: York
 type: location
 latitude: 53.965658
 longitude: -1.074305
+score: 0.64
 ---
 
 York is one of England's most visited historic cities, and for good reason. Its Roman walls, Viking past, and medieval streetscape are all visible to the naked eye. The city is compact enough to explore on foot in a day, though it rewards a longer stay.

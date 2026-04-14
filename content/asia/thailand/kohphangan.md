@@ -5,6 +5,7 @@ title: Koh Phangan
 type: location
 done:
   location_cleanup: 2026-04-07
+score: 0.68
 ---
 
 Koh Phangan is a lush, mountainous island in the Gulf of Thailand, about 100 km north of Koh Samui. It has a split personality: the south coast is famous for its Full Moon Party at Haad Rin, drawing tens of thousands of revellers every month, while the north and west coasts remain genuinely quiet, with jungle tracks, secluded bays, and fishing villages that feel a long way from the party scene.

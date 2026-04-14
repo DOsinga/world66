@@ -5,6 +5,7 @@ latitude: -1.828165
 longitude: -80.752906
 title: Montañita
 type: location
+score: 0.59
 ---
 
 Montañita is a small surf village on the south coast of Ecuador's Santa Elena Peninsula, and it punches well above its weight. Two sandy streets, a cluster of cafes and surf shops, and a beach that pulls in long, consistent waves — that is essentially the whole town, and for many travelers it is more than enough.

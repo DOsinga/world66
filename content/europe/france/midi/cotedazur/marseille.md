@@ -5,6 +5,7 @@ latitude: 43.2962
 longitude: 5.37
 done:
   location_cleanup: 2026-04-04
+score: 0.68
 ---
 
 Marseille is France's oldest and second-largest city, founded by Greek sailors from Phocaea around 600 BCE. It sits in a dramatic setting on the Mediterranean coast, built around the Vieux-Port and climbing up the hills behind it. The golden statue of the Virgin Mary atop Notre-Dame de la Garde watches over the whole city from the highest point.

@@ -5,6 +5,7 @@ latitude: 37.36883
 longitude: -122.036349
 title: Sunnyvale
 type: location
+score: 0.38
 ---
 
 Travel Guide

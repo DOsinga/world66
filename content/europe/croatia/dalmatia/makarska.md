@@ -5,6 +5,7 @@ latitude: 43.293976
 longitude: 17.020242
 title: Makarska
 type: location
+score: 0.67
 ---
 
 Makarska is the main town of the Makarska Riviera, on the Dalmatian coast about 60 kilometres southeast of [Split](/europe/croatia/split). The town sits at the foot of the Biokovo massif — a dramatic limestone range that rises sharply from the sea — giving it one of the most striking backdrops on the Croatian coast. The old town is centred on a Baroque square near the harbour.

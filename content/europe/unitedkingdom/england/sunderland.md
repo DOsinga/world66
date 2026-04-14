@@ -5,6 +5,7 @@ latitude: 54.905851
 longitude: -1.382873
 title: Sunderland
 type: location
+score: 0.36
 ---
 
 Sunderland sits on the coast of northeast England at the mouth of the River Wear, a former shipbuilding city that has reinvented itself around its waterfront. The city built more ships than anywhere else in the world for much of the nineteenth and twentieth centuries, and that industrial heritage is still visible in the docks and the terraced streets climbing the hills on both sides of the river.

@@ -5,6 +5,7 @@ latitude: 47.16156
 longitude: 27.583781
 title: Iași
 type: location
+score: 0.5
 ---
 
 Iași is the cultural capital of Romanian Moldavia, a lively university city in the northeast of the country, close to the border with the Republic of Moldova. It served as the capital of the Principality of Moldavia for centuries and remains the intellectual heart of the region.

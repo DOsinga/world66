@@ -5,6 +5,7 @@ latitude: 23.1568
 longitude: -81.2511
 done:
   location_cleanup: 2026-04-06
+score: 0.67
 ---
 
 Varadero is Cuba's principal beach resort — a long, narrow peninsula extending into the Straits of Florida about 140 km east of Havana, with 20 km of white sand beach on one side and the Bahía de Cárdenas on the other. It is almost entirely given over to tourism, with large all-inclusive resorts dominating the landscape. For most visitors, that is precisely the point.

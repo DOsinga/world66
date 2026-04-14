@@ -5,6 +5,7 @@ latitude: 51.250559
 longitude: 22.570102
 title: Lublin
 type: location
+score: 0.51
 ---
 
 Lublin is the largest city in eastern Poland, a university town with a substantial medieval old town and a history shaped by its position on the border between Catholic and Orthodox, Polish and Ukrainian, Christian and Jewish worlds. Before the Second World War, over a third of Lublin's population was Jewish; the Nazi occupation annihilated that community and established the Majdanek extermination camp on the city's outskirts, which can still be visited as a memorial.

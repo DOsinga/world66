@@ -10,6 +10,7 @@ image_attribution: Plamen Agov (<a href="//commons.wikimedia.org/wiki/User:MrPan
   title="User:MrPanyGoff">user:MrPanyGoff</a>)
 done:
   country_cleanup: 2026-03-30
+score: 0.53
 ---
 
 Bulgaria rewards travelers who look beyond the package-holiday beach resorts. Yes, the Black Sea coast gets crowded and a little tacky in summer, but drive an hour inland and you're in a country of mountain monasteries, Ottoman-era towns, Roman ruins, and a cuisine built around wood-fired clay pots, sheep's cheese, and homemade rakia. It's one of the cheapest countries in the EU, and it shows — in a good way.

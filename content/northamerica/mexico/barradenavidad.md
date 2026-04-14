@@ -5,6 +5,7 @@ latitude: 19.205644
 longitude: -104.68209
 title: Barra De Navidad
 type: location
+score: 0.56
 ---
 
 Barra de Navidad is a small, welcoming town on Mexico's Pacific coast, about four hours south of Puerto Vallarta. It sits on a sandbar between the ocean and a lagoon, with a relaxed fishing-village feel that has not been overwhelmed by tourism.

@@ -10,6 +10,7 @@ latitude: 17.5707
 longitude: -3.9962
 title: Mali
 type: location
+score: 0.27
 ---
 
 *Africa > Mali*

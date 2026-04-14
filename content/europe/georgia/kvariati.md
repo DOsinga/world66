@@ -1,8 +1,9 @@
 ---
-title: "kvariati"
+title: kvariati
 type: location
 latitude: 41.547606
 longitude: 41.563765
+score: 0.46
 ---
 
 Travel Guide

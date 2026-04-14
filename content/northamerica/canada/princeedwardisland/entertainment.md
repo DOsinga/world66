@@ -1,6 +1,7 @@
 ---
-title: "Nightlife and Entertainment"
+title: Nightlife and Entertainment
 type: location
+score: 0.37
 ---
 
 For updated information on the arts and entertainment scene on Prince Edward Island, visit Entertainment

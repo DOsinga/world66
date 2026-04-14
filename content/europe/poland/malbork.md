@@ -5,6 +5,7 @@ latitude: 54.035836
 longitude: 19.03685
 title: Malbork
 type: location
+score: 0.63
 ---
 
 Malbork exists because of its castle, and what a castle it is — the largest brick gothic fortress in the world, a UNESCO World Heritage site, and the former headquarters of the Teutonic Knights. Built in the thirteenth century as a monastic stronghold, it looks far more like a royal palace than anything vowed to poverty, chastity and obedience.

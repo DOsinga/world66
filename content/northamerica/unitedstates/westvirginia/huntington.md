@@ -5,6 +5,7 @@ latitude: 38.41925
 longitude: -82.445154
 title: Huntington
 type: location
+score: 0.33
 ---
 
 Huntington sits on the Ohio River in the western tip of [West Virginia](/northamerica/unitedstates/westvirginia), where the state meets both Ohio and Kentucky. It was founded in 1871 as a railroad terminus and named after railroad magnate Collis P. Huntington. The city grew around industry and river trade, and while much of that has declined, the riverfront has been revitalised with parks and a walkway along the Ohio.

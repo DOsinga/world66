@@ -5,6 +5,7 @@ latitude: 43.7596
 longitude: 10.9997
 title: Capraia e Limite
 type: location
+score: 0.4
 ---
 
 Capraia e Limite is a small comune on the slopes of the Montalbano hills between Florence and Empoli. It is not a conventional tourist destination, but the hills above the Arno here are laced with old walking trails that follow medieval trade routes, passing Romanesque churches and rural estates.

@@ -5,6 +5,7 @@ latitude: 33.816874
 longitude: 72.68572
 title: Hassan Abdal
 type: location
+score: 0.34
 ---
 
 Hassan Abdal is a quiet historical town 50 km west of [Rawalpindi](/asia/pakistan/rawalpindi), worth a stop on the road to [Peshawar](/asia/pakistan/peshawar) or Abbottabad.

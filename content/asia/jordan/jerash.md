@@ -5,6 +5,7 @@ latitude: 32.278448
 longitude: 35.88968
 title: Jerash
 type: location
+score: 0.65
 ---
 
 Jerash is a must-see. Hidden under a Circassian farming town until excavations began in the 1920s, the ruins of ancient Gerasa turned out to be among the best-preserved Greco-Roman provincial cities in the world — sometimes called the "Pompeii of the East."

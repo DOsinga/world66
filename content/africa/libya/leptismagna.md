@@ -5,6 +5,7 @@ latitude: 32.636483
 longitude: 14.290983
 title: Leptis Magna
 type: location
+score: 0.48
 ---
 
 Even those who have no interest in ruins will be impressed by **Leptis Magna**. The setting alone — a vast Roman city overlooking the Mediterranean — is striking, and the state of preservation rivals anything in Rome itself.

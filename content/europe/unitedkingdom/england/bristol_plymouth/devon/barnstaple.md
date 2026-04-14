@@ -5,6 +5,7 @@ latitude: 51.080901
 longitude: -4.060598
 title: Barnstaple
 type: location
+score: 0.47
 ---
 
 Barnstaple is the main town of North Devon and has been a market town since Saxon times. The covered Pannier Market, built in 1855, still operates several days a week selling local produce, crafts, and antiques. Butchers Row, a line of Victorian shops beside the market, is one of the most photographed streets in Devon.

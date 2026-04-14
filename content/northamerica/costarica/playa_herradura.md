@@ -5,6 +5,7 @@ latitude: 9.6358
 longitude: -84.6531
 title: Playa Herradura
 type: location
+score: 0.55
 ---
 
 Playa Herradura is a dark-sand beach 6 km north of Jacó on the Pacific coast. The bay is calm and well-protected, making it better for swimming than many nearby beaches. The Los Sueños resort and marina development dominates one end of the bay; the marina is a major hub for Pacific sport fishing charters.

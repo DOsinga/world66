@@ -1,8 +1,9 @@
 ---
-title: "Connecticut"
+title: Connecticut
 type: location
 latitude: 41.65002
 longitude: -72.734216
+score: 0.49
 ---
 
 Connecticut is located in the Northeast of the US and is one of the six states that make up New England. It borders

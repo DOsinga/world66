@@ -1,10 +1,11 @@
 ---
-title: "Méribel"
+title: Méribel
 type: location
 latitude: 45.40795
 longitude: 6.577333
 done:
   location_cleanup: '2026-04-08'
+score: 0.68
 ---
 
 Méribel was founded in 1938 by Scottish colonel Peter Lindsay, who built the resort's first lift above the village of Les Allues with the explicit aim of creating a ski resort that remained true to its mountain setting. That architectural discipline has held: all the buildings in Méribel are constructed in the traditional Savoyard style, with wood and stone, making it one of the most visually coherent resorts in France. There are no concrete blocks here.

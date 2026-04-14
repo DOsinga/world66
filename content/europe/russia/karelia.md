@@ -3,6 +3,7 @@ title: Karelia
 type: location
 latitude: 62.619403
 longitude: 33.492027
+score: 0.42
 ---
 
 Karelia is the lake-and-forest republic that stretches across the northwest of Russia, pressed between Finland to the west and the White Sea to the east. It is a landscape of extraordinary water: Lake Ladoga and Lake Onega, the two largest lakes in Europe, both lie partly within its borders, along with tens of thousands of smaller lakes, rivers, and bogs. The region has a quiet, northern character — vast spruce forests, granite outcrops, and long summer evenings when the light barely fades.

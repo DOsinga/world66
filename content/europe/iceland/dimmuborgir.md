@@ -5,6 +5,7 @@ latitude: 65.588055
 longitude: -16.907936
 title: Dimmuborgir
 type: location
+score: 0.63
 ---
 
 **Dimmuborgir** (the Dark Castles) is a dramatic field of lava formations on the eastern shore of Lake Myvatn in northeast [Iceland](/europe/iceland). The pillars, arches, and cave-like structures were created about 2,300 years ago when a lava flow passed over a lake, causing steam explosions that left behind these strange, castle-like shapes.

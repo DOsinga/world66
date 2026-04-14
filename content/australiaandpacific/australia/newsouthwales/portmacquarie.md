@@ -5,6 +5,7 @@ latitude: -31.42995
 longitude: 152.910352
 title: Port Macquarie
 type: location
+score: 0.51
 ---
 
 Port Macquarie sits at the mouth of the Hastings River on the mid-north coast of New South Wales, roughly halfway between Sydney and Brisbane. It began as a penal settlement in 1821 and has grown into a popular holiday town, particularly with families and retirees drawn by the beaches and mild climate.

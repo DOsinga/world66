@@ -5,6 +5,7 @@ latitude: 12.58301
 longitude: -81.697568
 title: San Andrés
 type: location
+score: 0.61
 ---
 
 San Andrés is a Caribbean island belonging to Colombia, sitting closer to Nicaragua than to the Colombian mainland. The sea around the island is famous for its "seven colours" — bands of turquoise, aquamarine, and deep blue created by the varying depth of the coral reef — and the snorkelling and diving are outstanding.

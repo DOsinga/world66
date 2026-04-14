@@ -1,8 +1,9 @@
 ---
-title: "New Hampshire"
+title: New Hampshire
 type: location
 latitude: 43.484913
 longitude: -71.655399
+score: 0.5
 ---
 
 In N.H. the land itself is beautiful. The terrain is widely diverse and varied, but definitely well developed, public ocean and beaches, to the overpopulated, not by residents but by tourists White Mountains region. It's a playground for well-to-do city dwellers, as well as die hard adventurers.

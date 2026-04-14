@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
   Podvorny</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.72
 ---
 
 Aruba is a small, flat island sitting just 27 km off the coast of Venezuela — far enough south to sit outside the main hurricane belt, which is a large part of its appeal. The trade winds blow steadily almost every day of the year, keeping the heat manageable and making it one of the Caribbean's top windsurfing destinations.

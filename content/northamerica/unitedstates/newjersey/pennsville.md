@@ -1,8 +1,9 @@
 ---
-title: "Pennsville"
+title: Pennsville
 type: location
 latitude: 39.653446
 longitude: -75.516588
+score: 0.3
 ---
 
 Travel Guide

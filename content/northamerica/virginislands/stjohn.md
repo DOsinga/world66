@@ -5,6 +5,7 @@ latitude: 18.3321
 longitude: -64.731
 title: St. John
 type: location
+score: 0.7
 ---
 
 St. John is the smallest of the three main US Virgin Islands and by far the most pristine. About two-thirds of the island is protected as Virgin Islands National Park — which means the beaches, coral reefs, and tropical forest here have largely been spared the development that has shaped neighbouring St. Thomas and St. Croix.

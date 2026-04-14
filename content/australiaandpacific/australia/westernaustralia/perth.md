@@ -1,8 +1,9 @@
 ---
-title: "Perth"
+title: Perth
 type: location
 latitude: -31.955897
 longitude: 115.860578
+score: 0.58
 ---
 
 Perth is the capital of Western Australia, it's situated along the banks of the Swan River. The river twists through the city and ends at the port of Fremantle where you can enjoy a coffee on the 'cappaccino' strip, or go down to the harbour to see the boats come in.

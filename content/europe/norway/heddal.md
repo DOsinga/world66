@@ -1,8 +1,9 @@
 ---
-title: "Heddal"
+title: Heddal
 type: location
 latitude: 59.581084
 longitude: 9.173583
+score: 0.49
 ---
 
 The city with the biggest stave church (stavkirke) of Norway!

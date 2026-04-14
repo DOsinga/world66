@@ -5,6 +5,7 @@ latitude: -41.18
 longitude: 145.9
 title: North-West
 type: location
+score: 0.47
 ---
 
 The North-West is Tasmania's agricultural heartland, blessed with rich red basalt soils that produce fine dairy products, beef, and vegetables — particularly potatoes, which grow exceptionally well in this climate. The coastline is pleasant for much of its length, broken by the industrial town of Burnie, which is a functional stopover rather than a destination.

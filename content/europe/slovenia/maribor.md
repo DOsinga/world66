@@ -1,10 +1,11 @@
 ---
-title: "Maribor"
+title: Maribor
 type: location
 latitude: 46.557644
 longitude: 15.645585
 done:
   location_cleanup: 2026-04-10
+score: 0.45
 ---
 
 Maribor is Slovenia's second city — overlooked by most visitors who rush between Ljubljana and the Slovenian Alps, which is their loss. A university town of around 100,000 on the Drava river in the northeastern corner of the country, it has a relaxed, lived-in quality that the more self-consciously picturesque capital sometimes lacks.

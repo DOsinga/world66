@@ -5,6 +5,7 @@ latitude: 51.717704
 longitude: 8.752653
 title: Paderborn
 type: location
+score: 0.47
 ---
 
 Paderborn is a small city of about 100,000 in the Ostwestfalen-Lippe region of [North Rhine-Westphalia](/europe/germany/northrhinewestphalia). People have settled here since pre-Roman times, drawn by the springs of the Pader — one of the shortest rivers in Germany, rising in over 200 springs right in the city centre.

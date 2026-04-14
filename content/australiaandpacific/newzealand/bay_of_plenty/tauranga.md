@@ -5,6 +5,7 @@ latitude: -37.685901
 longitude: 176.167505
 title: Tauranga
 type: location
+score: 0.58
 ---
 
 Tauranga sits on a large sheltered harbour on the Bay of Plenty coast, with a mild, sunny climate and easy access to good beaches. The city has all the practical amenities you'd expect, while across the harbour the beach resort of Mount Maunganui — with its distinctive volcanic cone — draws surfers, swimmers, and families who come for both the ocean swells and the calmer harbour side.

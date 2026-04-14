@@ -5,6 +5,7 @@ latitude: 13.7841
 longitude: 2.9515
 title: Baleyara
 type: location
+score: 0.21
 ---
 
 Baleyara is a market town in western Niger, north of Niamey along the road to Filingué. The town sits in the transition zone between the Djerma-speaking south and the Hausa-speaking areas to the north, and the surrounding bush country holds many villages of Bella Tuareg — former slaves of the Tuareg who formed their own communities after emancipation.

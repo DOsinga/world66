@@ -5,6 +5,7 @@ latitude: 43.6853
 longitude: 11.2547
 title: Impruneta
 type: location
+score: 0.53
 ---
 
 Impruneta is a small hilltop town about 13 km south of Florence, set in the rolling Chianti countryside between the Greve and Ema rivers. It is best known for two things: its terracotta — the distinctive red clay that has been fired here since the Romans — and the Basilica di Santa Maria all'Impruneta, which houses an icon of the Virgin attributed to Saint Luke and has drawn pilgrims for centuries.

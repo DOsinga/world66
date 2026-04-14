@@ -5,6 +5,7 @@ latitude: 42.774411
 longitude: -9.057535
 title: Muros
 type: location
+score: 0.52
 ---
 
 Muros sits on the unspoilt Ría de Muros e Noia in Galicia, a fishing town that has barely changed in decades. Arcaded streets, granite hórreos (raised granaries), and a working harbour where fishermen still mend nets in the afternoon sun give it an authenticity that many Galician coastal towns have lost.

@@ -1,6 +1,7 @@
 ---
-title: "faisal bhtti"
+title: faisal bhtti
 type: location
+score: 0.21
 ---
 
 Travel Guide

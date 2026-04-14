@@ -5,6 +5,7 @@ latitude: 15.590853
 longitude: 73.810215
 title: Mapusa
 type: location
+score: 0.46
 ---
 
 Mapusa is the administrative headquarters of North Goa and the main market town for the northern part of the state. It doesn't have the beach-resort feel of the coastal villages, but it is one of the most practical towns in Goa for getting things done — buses, pharmacies, banks, and supplies are all here.

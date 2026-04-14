@@ -1,10 +1,11 @@
 ---
-title: "Qingdao"
+title: Qingdao
 type: location
 latitude: 36.066325
 longitude: 120.377766
 done:
   location_cleanup: '2026-04-07'
+score: 0.55
 ---
 
 Qingdao sits on the southwestern tip of the Shandong Peninsula facing the Yellow Sea, and it is one of China's most pleasant coastal cities. Once a German colonial concession, the city still has a distinctly European old quarter — red-roofed Bavarian-style buildings climbing the hillsides above the waterfront. The Germans also introduced brewing in 1903, and Tsingtao Beer remains the city's most famous export.

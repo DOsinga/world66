@@ -5,6 +5,7 @@ latitude: 5.783416
 longitude: 103.014076
 title: Redang
 type: location
+score: 0.61
 ---
 
 Pulau Redang is one of the largest and most popular islands off Malaysia's east coast, about 25 km offshore from Kuala Terengganu. It is part of a marine park encompassing the nine islands of the Redang Archipelago, and the main draw is the water — clear, warm, and rich with coral and tropical fish.

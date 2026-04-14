@@ -5,6 +5,7 @@ latitude: -20.411104
 longitude: 57.706062
 title: Mahébourg
 type: location
+score: 0.62
 ---
 
 Mahébourg is a fishing town on the southwest shore of Grand Port Bay, close to the international airport. It's one of the more authentic towns on the island — not heavily touristed, with a lively waterfront market and a real neighbourhood feel.

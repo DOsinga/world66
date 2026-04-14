@@ -5,6 +5,7 @@ latitude: 52.736023
 longitude: -6.976626
 title: Leighlinbridge
 type: location
+score: 0.41
 ---
 
 Leighlinbridge is one of the prettiest villages in County Carlow, straddling the River Barrow where a nine-arched stone bridge has crossed since medieval times. The ruins of Black Castle, a Norman fortress built in 1181, watch over the river from a grassy bank. The Barrow itself is navigable and popular with kayakers and anglers.

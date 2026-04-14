@@ -5,6 +5,7 @@ latitude: 78.719852
 longitude: 20.349333
 title: Spitsbergen
 type: location
+score: 0.67
 ---
 
 Spitsbergen is the largest island of the Svalbard archipelago, sitting deep inside the Arctic Circle at roughly 78°N — closer to the North Pole than to Oslo. The landscape is raw and immense: glaciers calving into cold fjords, polar bears crossing tundra, reindeer grazing on rocky hillsides, and in summer, a sun that never sets. If you want genuine Arctic wilderness without the logistical extremes of Greenland or Antarctica, this is where to go.

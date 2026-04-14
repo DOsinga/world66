@@ -5,6 +5,7 @@ latitude: 48.515851
 longitude: -119.652748
 title: Okanogan
 type: location
+score: 0.34
 ---
 
 Okanogan is the county seat of its vast namesake county in north-central Washington, a small town that serves as the gateway to some of the state's most remote and least-visited landscape. The Okanogan Valley stretches north to the Canadian border, with apple orchards, cattle ranches and open sagebrush hills on either side. The county is enormous — larger than some US states — and its economy still runs on apples, timber and ranching.

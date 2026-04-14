@@ -5,6 +5,7 @@ latitude: 8.053714
 longitude: -1.728919
 title: Kintampo
 type: location
+score: 0.36
 ---
 
 Kintampo is a town in the Bono East Region of central Ghana, roughly halfway between Accra and Tamale and positioned near the geographic centre of the country. It sits at a transitional zone between the forest belt to the south and the drier savanna to the north, and this in-between character shapes the landscape around it.

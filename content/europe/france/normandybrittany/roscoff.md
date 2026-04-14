@@ -5,6 +5,7 @@ latitude: 48.725582
 longitude: -3.982898
 title: Roscoff
 type: location
+score: 0.53
 ---
 
 Roscoff is a small granite port town at the tip of northern Brittany, the French end of the ferry crossing from Plymouth. Most people arriving here drive straight on toward the rest of Brittany or south into France, which is a shame — the town is worth a few hours at least.

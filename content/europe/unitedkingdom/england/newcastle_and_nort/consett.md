@@ -5,6 +5,7 @@ latitude: 54.851878
 longitude: -1.833374
 title: Consett
 type: location
+score: 0.32
 ---
 
 Consett is a town in County Durham, sitting on a ridge in the North Pennines with wide views across the surrounding countryside. It was built around its steelworks, which for over a century dominated the town and provided most of its employment. When the Consett Steelworks closed in 1980, it was one of the largest industrial closures in British history and left the town to reinvent itself.

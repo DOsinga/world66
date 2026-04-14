@@ -5,6 +5,7 @@ latitude: 18.4272
 longitude: -68.9728
 title: La Romana
 type: location
+score: 0.6
 ---
 
 La Romana is a city on the southeastern coast of the [Dominican Republic](/northamerica/dominicanrepublic), best known as the gateway to some of the country's most popular resort areas. The city itself is a working sugar-mill town, but the main attraction for visitors is what surrounds it.

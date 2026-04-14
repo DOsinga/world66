@@ -5,6 +5,7 @@ latitude: 5.7269
 longitude: 10.905
 title: Foumban
 type: location
+score: 0.42
 ---
 
 Foumban is the cultural capital of the Bamoun people and one of Cameroon's most rewarding destinations for visitors interested in history and traditional craft. The city sits in the West Region, about 70 kilometres east of Bafoussam, and has been the seat of the Bamoun sultanate for more than six centuries.

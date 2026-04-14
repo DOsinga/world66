@@ -5,6 +5,7 @@ latitude: 44.970933
 longitude: 14.750801
 title: Baška
 type: location
+score: 0.61
 ---
 
 Baška is a popular resort town on the southern tip of Krk, one of the largest islands in the Croatian Adriatic. It sits in a sheltered bay surrounded by vineyards, olive groves, and rocky mountains, with the islet of Prvić providing natural protection from the open sea.

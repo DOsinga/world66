@@ -5,6 +5,7 @@ latitude: 20.682852
 longitude: -88.56872
 title: Chichen Itza
 type: location
+score: 0.78
 ---
 
 Chichen Itza is one of the largest and most impressive ancient Maya cities, located in the north-central [Yucatan](/northamerica/mexico/yucatan) peninsula. The site's centrepiece is El Castillo (the Temple of Kukulcán), a step pyramid that dominates the main plaza. At the spring and autumn equinoxes, the play of light and shadow on the northern staircase creates the illusion of a serpent descending the pyramid.

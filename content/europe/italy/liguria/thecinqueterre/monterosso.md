@@ -5,6 +5,7 @@ latitude: 44.1455
 longitude: 9.6538
 title: Monterosso
 type: location
+score: 0.74
 ---
 
 Monterosso al Mare is the largest and most accessible of the five Cinque Terre villages, sitting at the western end of the chain between the rocky promontory of Punta Mesco and the headland separating it from Vernazza. It is the only village with a proper sandy beach, which makes it the busiest in summer but also the most practical as a base.

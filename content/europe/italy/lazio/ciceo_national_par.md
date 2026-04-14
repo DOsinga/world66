@@ -5,6 +5,7 @@ latitude: 41.34
 longitude: 13.05
 title: Circeo National Park
 type: location
+score: 0.62
 ---
 
 Circeo National Park, on the coast south of Rome, packs a remarkable variety of landscapes into a compact strip of land. A limestone promontory juts into the Tyrrhenian Sea, giving the park its name and its most distinctive landmark. Forests of oak cover the inland slopes, while junipers cling to the seaward face. The peak of Circeo reaches 541 metres above sea level and can be reached on foot from [San Felice Circeo](/europe/italy/lazio/san_felice_circeo), which also serves as the main gateway to the park.

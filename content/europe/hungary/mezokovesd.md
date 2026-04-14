@@ -5,6 +5,7 @@ latitude: 47.809753
 longitude: 20.566089
 title: Mezőkövesd
 type: location
+score: 0.45
 ---
 
 Mezőkövesd is a small town in northeastern Hungary, about 130 km east of Budapest, and the heartland of Matyó folk culture — a tradition of extraordinarily elaborate embroidery recognised by UNESCO as Intangible Cultural Heritage.

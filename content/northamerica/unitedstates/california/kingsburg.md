@@ -5,6 +5,7 @@ latitude: 36.5138
 longitude: -119.5539
 title: Kingsburg
 type: location
+score: 0.33
 ---
 
 Kingsburg is a small city in the San Joaquin Valley south of Fresno, distinguished by its Swedish heritage. The first settlers arrived in the 1870s — Swedish immigrants drawn by the promise of Central Pacific Railroad land grants and good farming conditions — and by 1921 around 94% of the population within three miles was Swedish-American. The town still leans into the identity: buildings downtown are styled with Swedish architectural touches, there's a giant coffee pot water tower, and the annual Swedish Festival in May draws visitors from across California.

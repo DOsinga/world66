@@ -5,6 +5,7 @@ latitude: 42.338625
 longitude: -8.572628
 title: Soutomaior
 type: location
+score: 0.43
 ---
 
 Soutomaior is a small municipality near the ria of Vigo in southern [Galicia](/europe/spain/galicia). The reason to come here is the Castle of Soutomaior, set on a hilltop with fine views over the surrounding countryside.

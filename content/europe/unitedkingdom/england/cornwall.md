@@ -5,6 +5,7 @@ latitude: 50.4433
 longitude: -4.6247
 title: Cornwall
 type: location
+score: 0.71
 ---
 
 Cornwall is the westernmost part of England, a peninsula of dramatic coastline, ancient stone walls and granite farmhouses set against a canvas of gorse and green countryside dropping sharply down rugged cliffs to the sea. The coast is the main attraction — wild and varied, from the surfing beaches of the north coast to the sheltered coves and subtropical gardens of the south.

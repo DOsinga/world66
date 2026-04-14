@@ -5,6 +5,7 @@ latitude: 53.7974
 longitude: -1.5438
 done:
   location_cleanup: 2026-04-07
+score: 0.45
 ---
 
 Leeds is the largest city in Yorkshire and the principal city of the north of England. It sits at the crossroads where the main north-south and east-west motorways and railways meet, and that central position has shaped it into a hub of commerce, finance, and industry.

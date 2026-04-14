@@ -1,8 +1,9 @@
 ---
-title: 'Gawthorpe Hall'
+title: Gawthorpe Hall
 type: location
 latitude: 53.802752
 longitude: -2.294802
+score: 0.44
 ---
 
 Gawthorpe Hall sits at Padiham, near Burnley. It was home to the Kaye-Shuttleworths, a family connected to the great textile inventions, and is now owned by the National Trust.

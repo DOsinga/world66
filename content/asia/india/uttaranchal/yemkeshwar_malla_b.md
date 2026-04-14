@@ -1,6 +1,7 @@
 ---
-title: "Yemkeshwar Malla Banas"
+title: Yemkeshwar Malla Banas
 type: location
+score: 0.31
 ---
 
 Travel Guide

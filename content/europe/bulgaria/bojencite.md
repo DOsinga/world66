@@ -5,6 +5,7 @@ latitude: 42.8136
 longitude: 25.41
 title: Bojentsi
 type: location
+score: 0.44
 ---
 
 Bojentsi is a small village on the northern slopes of the Stara Planina mountains, 16 km east of [Gabrovo](/europe/bulgaria/gabrovo) and 40 km from [Veliko Tarnovo](/europe/bulgaria/velikoturnovo). At 750 metres altitude, tucked into the valley of the Bojanka River, the entire village has been declared an architectural and historical reserve.

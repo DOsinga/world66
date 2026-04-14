@@ -1,10 +1,11 @@
 ---
-title: "Sanremo"
+title: Sanremo
 type: location
 latitude: 43.819825
 longitude: 7.774883
 done:
   location_cleanup: '2026-04-07'
+score: 0.61
 ---
 
 Sanremo is the grand old lady of the Italian Riviera — a resort town with a mild year-round climate, sheltered between Cape Verde to the east and Cape Nero to the west. The town is shaped like an amphitheatre sloping down to the sea, with the old medieval quarter (La Pigna) climbing the hillside above the more modern waterfront.

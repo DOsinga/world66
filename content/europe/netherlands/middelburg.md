@@ -5,6 +5,7 @@ latitude: 51.499678
 longitude: 3.613737
 title: Middelburg
 type: location
+score: 0.53
 ---
 
 Middelburg is the capital of Zeeland, the southwesternmost province of the Netherlands — a land of islands, polders, and sea inlets that once rivalled Amsterdam in maritime ambition. The province gave its name to New Zealand, sent Admiral Michiel de Ruyter to sail the Dutch fleet up the Thames, and built much of its wealth on the spice trade. Today it is one of the quieter corners of the Netherlands, but Middelburg itself rewards a visit with a compact historic centre that emerged largely intact from the devastation of the Second World War.

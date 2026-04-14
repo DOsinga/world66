@@ -5,6 +5,7 @@ latitude: -23.4378
 longitude: 144.2587
 title: Longreach
 type: location
+score: 0.45
 ---
 
 Longreach sits in the red dust of outback Queensland, about 1,200 km west of the coast. It is a quintessential Australian bush town — wide streets, low buildings, enormous skies — and the birthplace of Qantas, which started here in 1920 as a two-plane mail service before becoming Australia's national airline.

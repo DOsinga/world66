@@ -5,6 +5,7 @@ latitude: 38.696892
 longitude: -9.42045
 title: Cascais
 type: location
+score: 0.64
 ---
 
 Cascais is a small coastal town about 30 kilometres west of Lisbon, where the Tagus estuary meets the open Atlantic. It spent much of the nineteenth and early twentieth centuries as Portugal's royal resort — King Luís I built a summer palace here in the 1870s — and it has kept something of that genteel character ever since.

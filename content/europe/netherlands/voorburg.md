@@ -1,8 +1,9 @@
 ---
-title: "Voorburg"
+title: Voorburg
 type: location
 latitude: 52.07032
 longitude: 4.355856
+score: 0.39
 ---
 
 Next to [The Hague](/europe/netherlands/thehague).

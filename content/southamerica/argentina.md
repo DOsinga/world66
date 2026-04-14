@@ -10,6 +10,7 @@ image_attribution: Luca Galuzzi (<a href="//commons.wikimedia.org/wiki/User:Luca
   title="User:Lucag">Lucag</a>)
 done:
   country_cleanup: 2026-03-29
+score: 0.49
 ---
 
 Argentina takes up most of the southern half of South America. with which it has a very long border going all the way from the north of the country to the south, Argentina also borders on [Paraguay](/southamerica/paraguay), [Uruguay](/southamerica/uruguay) and [Brazil](/southamerica/brazil).

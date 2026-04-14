@@ -5,6 +5,7 @@ latitude: 55.466489
 longitude: 8.452075
 title: Esbjerg
 type: location
+score: 0.46
 ---
 
 Esbjerg sits on the west coast of Jutland, Denmark's fifth largest city with around 83,000 inhabitants. It is a working harbour town at heart — the harbour built the city, and today it serves as the base for Denmark's offshore oil and gas industry. But the surroundings are what make it worth a stop: vast sandy beaches stretch along the coast, and Denmark's oldest town, [Ribe](/europe/denmark/ribe), is just 30 kilometres south.

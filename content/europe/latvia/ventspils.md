@@ -5,6 +5,7 @@ latitude: 57.3904
 longitude: 21.5636
 title: Ventspils
 type: location
+score: 0.45
 ---
 
 Ventspils is a port city on Latvia's northwest coast, about 190 kilometres from Riga. It has a reputation as one of Latvia's cleanest and best-kept cities — the municipality has drawn steady income from its busy commercial harbour and, to its credit, has spent much of it on parks, cycle paths, and a well-maintained city centre.

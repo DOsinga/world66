@@ -5,6 +5,7 @@ latitude: 14.6037
 longitude: -61.0586
 title: Fort-de-France
 type: location
+score: 0.57
 ---
 
 Fort-de-France is the capital of Martinique — a thoroughly French city in the Caribbean, balancing colonial architecture with the rhythms of Creole life. Narrow streets lined with balconied buildings wind through a compact downtown where the smells of spiced cooking drift from market stalls.

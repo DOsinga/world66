@@ -1,8 +1,9 @@
 ---
-title: "Roussillon"
+title: Roussillon
 type: location
 latitude: 43.8972
 longitude: 5.2925
+score: 0.62
 ---
 
 Roussillon is the most colourful village in the Luberon, built on and out of the ochre deposits that were once mined from the surrounding cliffs. The buildings glow in shades of orange, red, and gold, and the narrow streets climb steeply to a viewpoint over the patchwork landscape of the Vaucluse plateau.

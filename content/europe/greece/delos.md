@@ -1,6 +1,7 @@
 ---
-title: "Delos"
+title: Delos
 type: location
 latitude: 37.39089
 longitude: 25.271739
+score: 0.7
 ---

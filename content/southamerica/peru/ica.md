@@ -5,6 +5,7 @@ latitude: -14.3325
 longitude: -75.499722
 title: Ica
 type: location
+score: 0.57
 ---
 
 Ica sits in the middle of [Peru's](/southamerica/peru) wine country, and this is where Pisco — the grape brandy behind the Pisco Sour — is produced. Several bodegas can be visited, and a tour of the wineries makes a pleasant half-day excursion.

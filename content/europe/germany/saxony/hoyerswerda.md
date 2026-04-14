@@ -5,6 +5,7 @@ latitude: 51.43331
 longitude: 14.250083
 title: Hoyerswerda
 type: location
+score: 0.3
 ---
 
 Hoyerswerda is a small city in Upper Lusatia, the Sorbian-speaking region of eastern Saxony. It has two distinct halves: the Altstadt, a quiet centre with a fourteenth-century castle and half-timbered houses, and the Neustadt, a vast Communist-era housing development built in the 1950s to house workers for the nearby lignite mines.

@@ -5,6 +5,7 @@ latitude: 47.372
 longitude: 18.209
 title: Mór
 type: location
+score: 0.36
 ---
 
 Mór is a small Hungarian wine town in the Fejér county foothills, about 70 km southwest of Budapest. It has been producing white wines — particularly from the Ezerjó grape — for centuries, and the local cellars (pincék) are the main reason to visit. The pace is slow and genuinely local; you'll encounter few tourists.

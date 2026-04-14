@@ -1,6 +1,7 @@
 ---
-title: "Newton Abbot"
+title: Newton Abbot
 type: location
 latitude: 50.529644
 longitude: -3.61121
+score: 0.39
 ---

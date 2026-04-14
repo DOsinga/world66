@@ -11,6 +11,7 @@ latitude: 4.5353
 longitude: 114.7277
 title: Brunei
 type: location
+score: 0.5
 ---
 
 Brunei is a sultanate the size of a large county, tucked into the northwest coast of Borneo and surrounded on three sides by the Malaysian state of Sarawak. It is one of the smallest and wealthiest countries in Asia — its oil and gas revenues have made it one of the highest per-capita income nations in the world, and the benefits are visible everywhere: free healthcare, no income tax, heavily subsidized petrol, and roads that would not embarrass Germany.

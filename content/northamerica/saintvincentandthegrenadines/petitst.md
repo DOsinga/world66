@@ -5,6 +5,7 @@ latitude: 12.532
 longitude: -61.384
 title: Petit St. Vincent
 type: location
+score: 0.62
 ---
 
 Petit St. Vincent — known universally as PSV — is a small private island at the southern tip of the Grenadines, just north of Petit Martinique. It is operated exclusively as a single resort, meaning the entire 113-acre island is one property. Access is only by boat from Union Island or by chartered seaplane, and the island is effectively closed to non-guests.

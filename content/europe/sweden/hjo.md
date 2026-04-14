@@ -5,6 +5,7 @@ latitude: 58.3006
 longitude: 14.2167
 title: Hjo
 type: location
+score: 0.47
 ---
 
 Hjo is one of Sweden's finest surviving wooden towns, a compact lakeside community on the eastern shore of Lake Vättern that has changed remarkably little since the 19th century. Where many Swedish towns were rebuilt in brick after fires or wartime clearances, Hjo escaped major destruction and kept its narrow medieval street pattern and its timber buildings intact. Walking the alleys here feels less like a preserved heritage attraction and more like a town that simply never needed to rebuild.

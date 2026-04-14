@@ -5,6 +5,7 @@ latitude: 43.0125
 longitude: -83.6875
 title: Flint
 type: location
+score: 0.17
 ---
 
 Flint is a working-class city in eastern Michigan that was once the birthplace of General Motors and the heart of American automobile manufacturing. The boom years built grand Art Deco buildings downtown and a cultural infrastructure — museums, theatres, a university — that still anchors the city today.

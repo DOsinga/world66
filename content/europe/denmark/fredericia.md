@@ -5,6 +5,7 @@ latitude: 55.5653
 longitude: 9.7562
 title: Fredericia
 type: location
+score: 0.44
 ---
 
 Fredericia is a fortified town on the eastern coast of the Jutland peninsula in Denmark, built from scratch in the 17th century as a planned military stronghold. King Frederick III founded it in 1650 — hence the name — and laid it out on a strict grid plan enclosed by star-shaped ramparts. Those ramparts are still intact and intact, forming a green ring around the old town that residents use for walking and cycling.

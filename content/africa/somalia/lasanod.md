@@ -5,6 +5,7 @@ latitude: 8.472
 longitude: 47.355
 title: Las Anod
 type: location
+score: 0.16
 ---
 
 Las Anod (Laascaanood) is the capital of the Sool region in northern Somalia, sitting at the crossroads of a territory long contested between Somaliland and Puntland. The town has changed hands more than once, and in early 2023 it was the site of serious fighting when Somaliland forces clashed with local clan militias that had declared allegiance to the Somali federal government. Recovery has been slow and the political situation remains unresolved.

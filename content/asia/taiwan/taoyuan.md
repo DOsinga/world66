@@ -5,6 +5,7 @@ latitude: 24.992999
 longitude: 121.301
 title: Taoyuan
 type: location
+score: 0.47
 ---
 
 Taoyuan is a sprawling industrial and residential city southwest of [Taipei](/asia/taiwan/taipei), best known to travellers as the location of Taiwan Taoyuan International Airport. Most people pass through without stopping, which is fair — there isn't much to hold you.

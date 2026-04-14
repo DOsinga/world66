@@ -5,6 +5,7 @@ lat: 42.6026
 long: 20.903
 title: Kosovo
 type: location
+score: 0.4
 ---
 
 Kosovo declared independence from Serbia in February 2008, making it one of Europe's youngest countries. More than 100 states recognise it, including the United States and most EU members, though Serbia, Russia, and China do not. The status remains disputed and shapes daily life here in ways that are hard to ignore — from the currency (the euro, adopted unilaterally) to the blue UN and NATO flags alongside the Kosovo ones.

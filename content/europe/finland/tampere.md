@@ -5,6 +5,7 @@ latitude: 61.497793
 longitude: 23.761637
 title: Tampere
 type: location
+score: 0.55
 ---
 
 Tampere is the largest inland city in the Nordic countries, wedged between two lakes — Näsijärvi and Pyhäjärvi — and built around the Tammerkoski Rapids that once powered Finland's industrial revolution. The old red-brick factories of Tampella and Finlayson have been converted into museums, restaurants, cinemas, and studios, giving the city a creative, slightly gritty edge that sets it apart from polished Helsinki.

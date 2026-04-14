@@ -1,6 +1,7 @@
 ---
-title: "AuYrfpJmYTzFiPA"
+title: AuYrfpJmYTzFiPA
 type: location
+score: 0.04
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: -12.8204
 longitude: 28.2156
 title: Kitwe
 type: location
+score: 0.31
 ---
 
 Kitwe is the commercial heart of Zambia's Copperbelt, the second-largest city in the country and the hub of an industry that has shaped the nation's economy for nearly a century. It sits at around 1,300 meters elevation, giving it a surprisingly pleasant climate for a city this close to the equator.

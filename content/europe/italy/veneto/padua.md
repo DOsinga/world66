@@ -5,6 +5,7 @@ latitude: 45.4077
 longitude: 11.8734
 done:
   location_cleanup: 2026-04-06
+score: 0.69
 ---
 
 Padua gets overlooked. Visitors to the Veneto rush to [Venice](/europe/italy/veneto/venice) and sometimes stop in [Verona](/europe/italy/veneto/verona), but Padua — Padova to the Italians — is where Giotto painted the Scrovegni Chapel, one of the most important works of art in Europe. That alone is worth the detour.

@@ -5,6 +5,7 @@ latitude: 41.098659
 longitude: 40.814018
 title: Kackar
 type: location
+score: 0.49
 ---
 
 The Kaçkar Mountains rise steeply from Turkey's Black Sea coast between Trabzon and [Rize](/asia/turkey/kackar/rize), reaching 3,932 metres at Kaçkar Dağı — the second highest peak in Turkey after Mount Ararat. This is some of the finest trekking country in the eastern Mediterranean: alpine meadows, glacial lakes, and mountain villages connected by ancient paths.

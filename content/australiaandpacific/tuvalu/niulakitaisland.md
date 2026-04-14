@@ -1,4 +1,5 @@
 ---
-title: "Niulakita island"
+title: Niulakita island
 type: location
+score: 0.29
 ---

@@ -1,8 +1,9 @@
 ---
-title: "Wadi Hayat"
+title: Wadi Hayat
 type: location
 latitude: 26.587682
 longitude: 12.773479
+score: 0.19
 ---
 
 Travel Guide

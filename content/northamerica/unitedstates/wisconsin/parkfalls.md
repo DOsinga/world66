@@ -5,6 +5,7 @@ latitude: 45.933825
 longitude: -90.451745
 title: Park Falls
 type: location
+score: 0.33
 ---
 
 Park Falls is a small city in Price County, northern Wisconsin, and the gateway to the Chequamegon-Nicolet National Forest — a vast tract of 850,000 acres of public land that surrounds the area. The region is popular with anglers, hunters, canoeists, and hikers who come for the lakes and rivers of the Wisconsin Northwoods.

@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="http://www.tato
   Palazón, Tatoli Ba Kultura</a>
 done:
   country_cleanup: 2026-03-31
+score: 0.45
 ---
 
 Timor-Leste — officially the Democratic Republic of Timor-Leste, still widely called East Timor — is one of the world's youngest nations, having gained independence in 2002 after a brutal 24-year Indonesian occupation. It sits at the eastern end of the island of Timor, between Indonesia and Australia, covering about 14,874 sq km of mountains, coast, and tropical forest.

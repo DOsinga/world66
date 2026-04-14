@@ -5,6 +5,7 @@ latitude: 19.333333
 longitude: -96.666667
 title: Veracruz
 type: location
+score: 0.59
 ---
 
 Veracruz is Mexico's oldest port city, founded by Hernán Cortés in 1519, and it still feels more Caribbean than Mexican — the music is louder, the food is spicier, and the evening scene on the Zócalo is one of the liveliest in the country. Marimba bands and son jarocho groups play nightly while couples dance and vendors sell coffee and cigars.

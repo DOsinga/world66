@@ -5,6 +5,7 @@ latitude: 42.4531
 longitude: 18.5375
 title: Herceg Novi
 type: location
+score: 0.57
 ---
 
 Herceg Novi sits at the entrance to the Bay of Kotor, close to the border with Bosnia-Herzegovina and [Croatia](/europe/croatia), about 70 km by road west of [Podgorica](/europe/serbiaandmontenegro/podgorica). Its strategic position at the mouth of the bay gave the city its historical importance, and the main sights reflect this — city gates, fortresses, and defensive walls built by a succession of rulers from the Bosnians to the Ottomans to the Venetians.

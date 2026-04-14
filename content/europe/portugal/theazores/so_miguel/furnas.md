@@ -5,6 +5,7 @@ latitude: 37.7725
 longitude: -25.3133
 title: Furnas
 type: location
+score: 0.64
 ---
 
 Furnas is a small town in the volcanic interior of [São Miguel](/europe/portugal/theazores/so_miguel), with two main draws: the volcanic activity and the botanical garden.

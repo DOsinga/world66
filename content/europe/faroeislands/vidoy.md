@@ -1,9 +1,10 @@
 ---
-title: "Vidoy"
+title: Vidoy
 type: location
 latitude: 62.3356
 longitude: -6.5226
 todo_location_cleanup: done
+score: 0.5
 ---
 
 Vidoy is a beautiful island in the northern Faroe Islands, reached by causeway from Bordoy. The road ends at the village of Viðareiði, beyond which a mountainous cirque blocks the way to the island's tip.

@@ -5,6 +5,7 @@ latitude: -20.378147
 longitude: -43.417486
 title: Mariana
 type: location
+score: 0.35
 ---
 
 Mariana was the first capital of Minas Gerais and the first city in the state to receive its charter, in 1745. It sits just 12 kilometres east of [Ouro Preto](/southamerica/brazil/ouropreto) in the hills of central Minas, and the two are often visited together — but Mariana is quieter, less touristy, and arguably more charming.

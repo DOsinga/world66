@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 title: Tibbi Qaisrani (Miana)
 type: location
+score: 0.18
 ---
 
 Travel Guide

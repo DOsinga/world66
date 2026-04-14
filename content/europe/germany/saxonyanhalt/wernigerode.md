@@ -5,6 +5,7 @@ latitude: 51.834417
 longitude: 10.786253
 title: Wernigerode
 type: location
+score: 0.55
 ---
 
 Wernigerode is a charming town in the Harz mountains. Wernigerode became a city in the 13-th century and it is from that period that the main attractions, the **City Castle** (Schloss) and the ** Rathaus**date.

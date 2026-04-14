@@ -1,8 +1,9 @@
 ---
-title: "Boothbay Harbor"
+title: Boothbay Harbor
 type: location
 latitude: 43.8513
 longitude: -69.6278
+score: 0.55
 ---
 
 Boothbay Harbor is a classic Maine coastal village on a protected inlet about an hour north of Portland. The harbor is the center of activity -- whale watching and puffin cruises depart from the waterfront, and the shops and restaurants along the narrow streets cater to summer visitors without feeling entirely overrun.

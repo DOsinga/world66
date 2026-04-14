@@ -5,6 +5,7 @@ latitude: 25.6093
 longitude: 85.1235
 title: Patna
 type: location
+score: 0.36
 ---
 
 Patna is one of the oldest continuously inhabited cities in the world. As Pataliputra, it was the capital of the Maurya and Gupta empires -- the seat of Ashoka and Chandragupta -- and one of the great cities of the ancient world. Today it is the capital of Bihar, a sprawling, chaotic, and fascinating city stretched along the southern bank of the Ganges.

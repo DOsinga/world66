@@ -5,6 +5,7 @@ latitude: 44.428
 longitude: -110.5885
 done:
   location_cleanup: 2026-04-07
+score: 0.78
 ---
 
 Yellowstone is the world's first national park, established in 1872, and still one of its most extraordinary. Straddling the northwest corner of Wyoming and spilling into [Montana](/northamerica/unitedstates/montana) and Idaho, the park sits atop a massive volcanic hotspot that powers more geysers and hot springs than the rest of the world combined. Old Faithful is the famous one, but the whole park is alive with steaming vents, bubbling mud pots, and brilliantly coloured thermal pools.

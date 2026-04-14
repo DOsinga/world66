@@ -5,6 +5,7 @@ latitude: 42.243811
 longitude: 13.65779
 title: Bominaco
 type: location
+score: 0.46
 ---
 
 Bominaco is a tiny village in the Abruzzo hills, about 30 km from L'Aquila and reachable by bus. There is not much to the village itself — a handful of houses and a castle ruin on the hill above — but it holds two churches that are among the finest in central Italy.

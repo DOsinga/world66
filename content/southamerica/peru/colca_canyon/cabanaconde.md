@@ -5,6 +5,7 @@ latitude: -15.622076
 longitude: -71.98087
 title: Cabanaconde
 type: location
+score: 0.59
 ---
 
 Cabanaconde is a small, dusty town at the far end of the [Colca Canyon](/southamerica/peru/colca_canyon), and the starting point for most hikes down into the canyon. Stock up on water and supplies here before heading down — there is little available below.

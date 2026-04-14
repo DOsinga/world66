@@ -5,6 +5,7 @@ latitude: 55.871227
 longitude: 26.515934
 title: Daugavpils
 type: location
+score: 0.44
 ---
 
 Daugavpils is Latvia's second-largest city, sitting in the southeastern corner of the country near the borders with Lithuania, Belarus, and Russia. It's a predominantly Russian-speaking city — a legacy of Soviet-era settlement — and feels markedly different from Riga: less polished, more post-industrial, with a pace and atmosphere of its own.

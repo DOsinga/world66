@@ -5,6 +5,7 @@ latitude: 43.106453
 longitude: 17.341693
 title: Gradac
 type: location
+score: 0.57
 ---
 
 Gradac sits at the southern end of the Makarska Riviera, a small Croatian coastal town between [Makarska](/europe/croatia/makarskariviera/makarska) and Ploce. It has the longest pebble beach on this stretch of the Adriatic, backed by pine trees and facing the island of Hvar across the channel.

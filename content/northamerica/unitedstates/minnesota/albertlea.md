@@ -1,6 +1,7 @@
 ---
-title: "Albert Lea"
+title: Albert Lea
 type: location
 latitude: 43.648013
 longitude: -93.368266
+score: 0.32
 ---

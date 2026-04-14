@@ -5,6 +5,7 @@ latitude: 47.7417
 longitude: 18.1218
 title: Komarom
 type: location
+score: 0.4
 ---
 
 Komarom sits on the Hungarian bank of the Danube, directly across from its Slovak twin Komarno. The 1920 Treaty of Trianon split what had been a single town in two, and the border still runs along the river — a visible reminder of the region's tangled history. The Hungarian side has around 20,000 inhabitants and feels quietly proud of its layered past.

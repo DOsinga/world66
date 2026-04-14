@@ -1,6 +1,7 @@
 ---
-title: "Guerrero negro"
+title: Guerrero negro
 type: location
 latitude: 27.970951
 longitude: -114.036389
+score: 0.42
 ---

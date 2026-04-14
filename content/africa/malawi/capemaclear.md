@@ -5,6 +5,7 @@ latitude: -14.0264
 longitude: 34.8382
 title: Cape Maclear
 type: location
+score: 0.46
 ---
 
 Cape Maclear is Malawi's most famous backpacker beach, strung along a five-kilometre arc of sand on the southwestern shore of Lake Malawi. The lake here is at its most dramatic: crystal-clear, warm, and ringed by granite hills that tumble straight into the water. The National Park designation — Lake Malawi National Park, a UNESCO World Heritage Site — has kept development low-key, and the village that lines the beach remains a scatter of guesthouses, bar-restaurants, and fishing boats rather than a resort strip.

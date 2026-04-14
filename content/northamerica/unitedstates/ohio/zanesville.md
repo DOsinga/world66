@@ -5,6 +5,7 @@ latitude: 39.940143
 longitude: -82.005019
 title: Zanesville
 type: location
+score: 0.3
 ---
 
 Zanesville sits on the Muskingum River about 55 miles east of Columbus, and it has a legitimate claim to something no other city in the world can match: a Y-shaped bridge where you can start on one side and end up back on the same side without turning around. The Y-Bridge has been a curiosity since 1819, and locals have been watching tourists puzzle over it ever since.

@@ -5,6 +5,7 @@ latitude: 33.97996
 longitude: -118.468771
 title: Venice Beach
 type: location
+score: 0.57
 ---
 
 Venice Beach is one of Los Angeles's most distinctive neighborhoods — a mile-long boardwalk lined with street performers, tattoo parlors, fortune tellers, and artists hawking their work from open-air stalls. On any given weekend you'll see bodybuilders at the famous Muscle Beach outdoor gym, skaters tearing through the skate park, and the loose, sun-drenched crowd that gives Venice its particular energy. It can be chaotic and a little seedy, and that's part of the charm.

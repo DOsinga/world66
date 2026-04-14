@@ -5,6 +5,7 @@ latitude: 57.870795
 longitude: 11.979962
 title: Kungälv
 type: location
+score: 0.47
 ---
 
 Kungälv sits on the Nordre Älv river, just 20 kilometres north of Gothenburg — close enough for a day trip, substantial enough to deserve one. The town's history goes back a thousand years, and it shows: the ruins of Bohus Fästning loom over the river from a rocky island, and the old town centre around Gamla Torget still has its cobbled streets and wooden houses painted in warm colours.

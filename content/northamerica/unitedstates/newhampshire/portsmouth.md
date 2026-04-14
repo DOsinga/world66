@@ -5,6 +5,7 @@ latitude: 43.0718
 longitude: -70.7626
 title: Portsmouth
 type: location
+score: 0.53
 ---
 
 Portsmouth is a small, historic seaport city on the Piscataqua River in southeastern [New Hampshire](/northamerica/unitedstates/newhampshire). Founded in 1623, it is one of the oldest cities in the United States, and its compact downtown is packed with well-preserved colonial and Federal-era architecture. The streets are walkable and full of character — independent bookshops, craft breweries, and some of the best restaurants in northern New England sit shoulder to shoulder in old brick buildings.

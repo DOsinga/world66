@@ -5,6 +5,7 @@ latitude: 20.621933
 longitude: -87.075707
 title: Riviera Maya
 type: location
+score: 0.75
 ---
 
 Jungle, flora and fauna, archaeological sites, solitary beaches, a turquoise-colored sea with crystal-clear water which turns to silver by moonlight, the fantasy and warmth of the tropics, the mystery of the millenary culture which lives on in the Maya people — these are just some of the qualities which have turned the Riviera Maya into a destination that can compete favourably with all the rest of the Caribbean's tourist destinations.

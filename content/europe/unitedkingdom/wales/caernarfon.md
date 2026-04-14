@@ -5,6 +5,7 @@ latitude: 53.139436
 longitude: -4.276975
 title: Caernarfon
 type: location
+score: 0.62
 ---
 
 **Caernarfon** is a small walled town on the Menai Strait in northwest Wales, dominated by one of the most impressive castles in Britain. Edward I built Caernarfon Castle in the late 13th century as a seat of English power in Wales, modelling its banded stonework and polygonal towers on the walls of Constantinople. It is now a UNESCO World Heritage Site.

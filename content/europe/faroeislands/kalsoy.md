@@ -5,6 +5,7 @@ latitude: 62.298151
 longitude: -6.74299
 title: Kalsoy
 type: location
+score: 0.61
 ---
 
 Kalsoy is one of the six northern islands of the Faroe Islands, connected to Borðoy by a car ferry from Syðradalur to Klaksvík. The return fare of about £4 (£2 for pensioners) could be called a steal.

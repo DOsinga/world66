@@ -5,6 +5,7 @@ latitude: 53.6467
 longitude: -1.7822
 title: Huddersfield
 type: location
+score: 0.37
 ---
 
 Huddersfield sits in a bowl of West Yorkshire hills, about 15 miles south-east of Manchester. It's a working town with a proud industrial past — it made the cloth that dressed much of Victorian Britain — and a lively university that keeps it young. Not a typical tourist stop, but it rewards the curious traveller.

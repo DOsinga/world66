@@ -1,6 +1,7 @@
 ---
-title: "Khawas"
+title: Khawas
 type: location
+score: 0.22
 ---
 
 Travel Guide

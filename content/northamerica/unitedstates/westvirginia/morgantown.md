@@ -5,6 +5,7 @@ latitude: 39.6297
 longitude: -79.9559
 title: Morgantown
 type: location
+score: 0.4
 ---
 
 Morgantown is West Virginia University's town, and the university shapes everything about it — the energy, the nightlife, the rhythm of the year. Visit during the academic year and you'll find a lively, quasi-bohemian atmosphere that belies the surrounding Appalachian hills. Visit in summer and the place goes quiet. Plan accordingly.

@@ -1,6 +1,7 @@
 ---
-title: "PesTeCPvzsxDFv"
+title: PesTeCPvzsxDFv
 type: location
+score: 0.0
 ---
 
 Travel Guide

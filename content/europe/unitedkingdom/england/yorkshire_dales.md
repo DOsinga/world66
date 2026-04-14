@@ -5,6 +5,7 @@ latitude: 54.261643
 longitude: -2.190951
 title: Yorkshire Dales
 type: location
+score: 0.64
 ---
 
 The Yorkshire Dales National Park covers a stretch of the Pennine hills in northern England — a landscape of broad green valleys (the dales), limestone pavements, waterfalls, and stone-walled fields dotted with sheep. It is one of the most popular walking destinations in England, easily accessible from Leeds, Manchester, or the A1, and filled with small market towns that offer good pubs and reasonably priced accommodation.

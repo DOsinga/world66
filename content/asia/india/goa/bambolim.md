@@ -1,8 +1,9 @@
 ---
-title: "Bambolim"
+title: Bambolim
 type: location
 latitude: 15.454921
 longitude: 73.846448
+score: 0.48
 ---
 
 Travel Guide

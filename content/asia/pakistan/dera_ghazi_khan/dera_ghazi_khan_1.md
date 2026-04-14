@@ -1,8 +1,9 @@
 ---
-title: "dera ghazi khan"
+title: dera ghazi khan
 type: location
 latitude: 30.032137
 longitude: 70.640111
+score: 0.22
 ---
 
 Travel Guide

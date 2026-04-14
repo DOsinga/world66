@@ -5,6 +5,7 @@ latitude: 13.0969
 longitude: -59.6145
 title: Bridgetown
 type: location
+score: 0.68
 ---
 
 Bridgetown is the capital of [Barbados](/northamerica/barbados), a compact Caribbean city with a UNESCO-listed historic centre. The streets around Broad Street and the Careenage waterfront are walkable and full of character, mixing colonial architecture with rum shops and market stalls.

@@ -5,6 +5,7 @@ latitude: 49.316555
 longitude: 8.433615
 title: Speyer
 type: location
+score: 0.56
 ---
 
 Speyer is a small Rhine city with an outsized architectural legacy. It was a free city of the Holy Roman Empire from 1294 until 1779, and its cathedral — the Kaiserdom, or Dom St. Maria und St. Stephan — is by most accounts the finest surviving Romanesque church in the world. Four Holy Roman Emperors are buried in its crypt.

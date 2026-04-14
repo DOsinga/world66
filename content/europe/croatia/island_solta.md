@@ -5,6 +5,7 @@ latitude: 43.369525
 longitude: 16.324983
 title: Island Šolta
 type: location
+score: 0.56
 ---
 
 Šolta is a quiet Dalmatian island just a short ferry ride from Split, yet it sees a fraction of the crowds that descend on Hvar or Brač. That relative obscurity is precisely the point: this is where Dalmatians themselves go for summer, and the pace of life reflects it.

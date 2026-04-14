@@ -5,6 +5,7 @@ latitude: 47.996032
 longitude: -4.102478
 title: Quimper
 type: location
+score: 0.59
 ---
 
 Quimper is the cultural capital of Finistère and, many Bretons would argue, of Brittany itself. It sits at the confluence of the Odet and Steir rivers, and its medieval centre — half-timbered houses leaning over cobblestoned streets, the twin-spired Cathédrale Saint-Corentin rising above it all — is one of the best preserved in western France.

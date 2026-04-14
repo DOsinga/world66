@@ -1,10 +1,11 @@
 ---
-title: "Postojna Caves"
+title: Postojna Caves
 type: location
 latitude: 45.7828
 longitude: 14.2043
 done:
   location_cleanup: 2026-04-08
+score: 0.65
 ---
 
 Postojna is home to one of the most impressive cave systems in the world — 24 kilometres of passages, galleries, and halls carved out over millions of years by the Pivka River. A small electric train takes you two kilometres into the mountain to the start of the walking tour, which passes through vast chambers filled with stalactites, stalagmites, and formations that look like they belong on another planet.

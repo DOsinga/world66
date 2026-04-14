@@ -5,6 +5,7 @@ latitude: 54.503909
 longitude: -6.770362
 title: Dungannon
 type: location
+score: 0.38
 ---
 
 We currently have no information about Dungannon.

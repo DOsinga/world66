@@ -5,6 +5,7 @@ latitude: 34.898621
 longitude: -117.024431
 title: Barstow
 type: location
+score: 0.32
 ---
 
 Barstow sits at the crossroads of Interstates 15 and 40 in the heart of the Mojave Desert — most people blow through on their way to Las Vegas, but the town rewards a stop. It grew up around the railroad and the mines, and the beautifully restored Casa del Desierto (a 1911 Harvey House) at the train station is worth seeing for its architecture alone.

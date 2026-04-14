@@ -5,6 +5,7 @@ latitude: 21.4389
 longitude: -158.0001
 done:
   location_cleanup: 2026-04-06
+score: 0.83
 ---
 
 Oahu is Hawaii's most visited and most populous island, home to Honolulu and the state capital. It's where the tourist infrastructure is concentrated — Waikiki's tower-block hotels, Pearl Harbor, and the North Shore's legendary surf breaks — but also where much of Hawaii's genuine cultural and culinary life happens.

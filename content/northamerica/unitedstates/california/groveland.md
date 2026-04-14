@@ -5,6 +5,7 @@ latitude: 37.8425
 longitude: -120.2339
 title: Groveland
 type: location
+score: 0.42
 ---
 
 Groveland is a tiny Gold Rush-era town on Highway 120, the western approach to Yosemite National Park via the Big Oak Flat entrance. It is about 45 minutes from the park entrance and makes a practical overnight stop for visitors who want to avoid the crowds and prices inside Yosemite.

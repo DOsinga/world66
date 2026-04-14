@@ -5,6 +5,7 @@ latitude: 45.373513
 longitude: -121.695878
 title: Mount Hood
 type: location
+score: 0.57
 ---
 
 Mount Hood is Oregon's highest peak at 11,239 feet, a dormant volcano that dominates the skyline east of Portland. Snow-capped for most of the year, the mountain is surrounded by the vast Mount Hood National Forest and is the state's most popular outdoor destination.

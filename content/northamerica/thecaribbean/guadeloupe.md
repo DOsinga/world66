@@ -5,6 +5,7 @@ latitude: 16.265
 longitude: -61.551
 done:
   location_cleanup: 2026-04-06
+score: 0.63
 ---
 
 Guadeloupe is France in the Caribbean — a butterfly-shaped archipelago where Creole culture, French cuisine, and volcanic landscapes come together in a way you won't find anywhere else in the West Indies. The two main islands, Basse-Terre and Grande-Terre, are joined by a narrow strait and could hardly be more different from each other.

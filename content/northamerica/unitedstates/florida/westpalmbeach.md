@@ -5,6 +5,7 @@ latitude: 26.715364
 longitude: -80.053294
 title: West Palm Beach
 type: location
+score: 0.49
 ---
 
 **West Palm Beach** is the largest city on Florida's Treasure Coast, sitting across the Intracoastal Waterway from its more famous neighbour, Palm Beach. It has developed its own identity in recent years — the Clematis Street waterfront district and CityPlace (now Rosemary Square) have made the downtown lively and walkable.

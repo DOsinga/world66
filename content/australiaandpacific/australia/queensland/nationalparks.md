@@ -5,6 +5,7 @@ latitude: -25.2744
 longitude: 152.7093
 title: National Parks
 type: location
+score: 0.56
 ---
 
 Queensland has some of the most varied national parks in Australia — from the ancient rainforest of the Wet Tropics World Heritage Area to the red sandstone gorges of Carnarvon, and from the dune lakes of Fraser Island to the remote river country of the Cape York Peninsula. Taken together they cover an enormous range of ecosystems and experiences, and several rank among the best wilderness destinations on the continent.

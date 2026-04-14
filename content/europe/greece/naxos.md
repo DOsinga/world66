@@ -5,6 +5,7 @@ latitude: 37.1036
 longitude: 25.3762
 title: Naxos
 type: location
+score: 0.78
 ---
 
 Naxos is the largest of the Cyclades and arguably the most rewarding. Unlike its neighbours Mykonos and Santorini, tourism is not the main industry here. The island is fertile and green by Greek island standards, producing its own potatoes, cheese, and citron liqueur. You notice the difference immediately: the food is better and cheaper, and the villages feel like places where people actually live.

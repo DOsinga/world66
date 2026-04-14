@@ -5,6 +5,7 @@ latitude: 54.352
 longitude: 18.6466
 title: Gdansk
 type: location
+score: 0.65
 ---
 
 Gdansk is one of the most historically loaded cities in Europe — and one of the most beautiful. It was here, on 1 September 1939, that the Second World War began, with German guns opening fire on the Polish garrison at Westerplatte. And it was here, in 1980, that Lech Walesa climbed over the fence of the Lenin Shipyard and the Solidarity trade union was born — the movement that would eventually bring down communist rule across Eastern Europe. Two of the defining events of the twentieth century, in the same city.

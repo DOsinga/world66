@@ -5,6 +5,7 @@ latitude: 43.176937
 longitude: -90.068048
 title: Spring Green
 type: location
+score: 0.45
 ---
 
 Spring Green is a small town on the Wisconsin River, about 40 miles west of [Madison](/northamerica/unitedstates/wisconsin/madison). It was the home of Frank Lloyd Wright, and his influence is visible everywhere — a local bank, the Catholic church, and of course Taliesin, his home and studio, where tours are available.

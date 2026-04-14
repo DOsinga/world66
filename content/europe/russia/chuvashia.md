@@ -5,6 +5,7 @@ latitude: 55.425992
 longitude: 47.084943
 title: Chuvashia
 type: location
+score: 0.32
 ---
 
 Chuvashia is a small republic on the middle Volga, wedged between Mari El and Tatarstan. The Chuvash people are Turkic in origin but Orthodox Christian, giving the region a cultural character distinct from its neighbours. The landscape is gentle — rolling farmland, birch forests, and a long stretch of Volga riverbank.

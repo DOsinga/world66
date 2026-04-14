@@ -5,6 +5,7 @@ latitude: -35.61
 longitude: 174.536
 title: Tutukaka / Poor Knights
 type: location
+score: 0.6
 ---
 
 Tutukaka is a small harbour village on the northeast coast of New Zealand's North Island, about 30 minutes from [Whangarei](/australiaandpacific/newzealand/whangarei). It exists almost entirely as the launching point for trips to the Poor Knights Islands, 15 km offshore — a marine reserve that Jacques Cousteau rated among his ten favourite dive sites in the world.

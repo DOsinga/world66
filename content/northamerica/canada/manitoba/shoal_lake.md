@@ -5,6 +5,7 @@ latitude: 50.4379
 longitude: -100.591171
 title: Shoal Lake
 type: location
+score: 0.31
 ---
 
 Shoal Lake is a small farming town of around 900 people in western Manitoba, situated at the northern edge of Shoal Lake at the junction of three highways including the Yellowhead. The lake itself is the main draw — good for water-skiing and fishing, with pickerel and northern pike in reliable quantities.

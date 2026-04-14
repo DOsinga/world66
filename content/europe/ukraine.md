@@ -9,6 +9,7 @@ image_license: CC BY 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Galileo01" title="User:Galileo01">Galileo01</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.32
 ---
 
 Ukraine is one of Europe's largest countries, a place of extraordinary depth — ancient cities, rolling steppes, the forested Carpathians in the west, and the Black Sea coast in the south. Before the Russian invasion of February 2022, it was drawing more visitors every year, and [Lviv](/europe/ukraine/lviv) had become one of the continent's most beloved cities for weekend breaks.

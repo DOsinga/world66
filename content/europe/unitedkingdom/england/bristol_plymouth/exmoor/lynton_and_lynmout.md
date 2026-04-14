@@ -5,6 +5,7 @@ latitude: 51.204884
 longitude: -3.850564
 title: Lynton and Lynmouth
 type: location
+score: 0.57
 ---
 
 Lynton and Lynmouth are twin villages perched dramatically on the North Devon coast, within Exmoor National Park. Lynton sits high on the cliff; Lynmouth shelters at the bottom, right where the East and West Lyn rivers tumble into the Bristol Channel. The two are connected by a Victorian cliff railway — water-powered, still working, and genuinely useful — which saves you the white-knuckle drive down a road with gradients that seem unreasonable in any weather and outright terrifying in wet conditions.

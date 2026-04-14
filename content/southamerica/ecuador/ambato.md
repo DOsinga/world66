@@ -5,6 +5,7 @@ latitude: -1.2422
 longitude: -78.6288
 title: Ambato
 type: location
+score: 0.48
 ---
 
 Ambato is the capital of Tungurahua province, sitting at about 2,500 metres in Ecuador's central highlands. It is a busy, commercial city — not immediately obvious as a tourist stop, but useful as a base for exploring the surrounding sierra and as a window into everyday Ecuadorian life away from the gringo trail.

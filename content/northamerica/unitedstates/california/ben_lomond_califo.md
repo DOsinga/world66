@@ -5,6 +5,7 @@ latitude: 37.089114
 longitude: -122.086352
 title: Ben Lomond
 type: location
+score: 0.42
 ---
 
 In the San Lorenzo Valley, nestled in the redwoods, is Ben Lomond — named by an early Scottish immigrant who missed his homeland. Highway 9, the lifeblood of the valley, connects the three valley towns of [Felton](/northamerica/unitedstates/california/centralcoast/felton), Ben Lomond, and Boulder Creek with the outside world.

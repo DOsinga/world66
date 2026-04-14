@@ -5,6 +5,7 @@ latitude: 38.8039
 longitude: -120.8987
 title: Coloma
 type: location
+score: 0.44
 ---
 
 Coloma is where the California Gold Rush began. On 24 January 1848, James W. Marshall spotted gold flakes in the tailrace of a sawmill he was building for John Sutter on the American River. Within a year, tens of thousands of prospectors had flooded into California.

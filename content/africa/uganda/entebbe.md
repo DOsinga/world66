@@ -5,6 +5,7 @@ latitude: 0.0612
 longitude: 32.4699
 done:
   location_cleanup: 2026-04-06
+score: 0.48
 ---
 
 Entebbe is a quiet lakeside town on the northern shore of Lake Victoria, 37 kilometres southwest of Kampala. It serves as Uganda's main international gateway — Entebbe International Airport handles virtually all international flights — and many travellers pass through on their way to Kampala and the national parks. Those who stay longer find a genuinely pleasant town: cooler than Kampala, green, unhurried, and set amid tropical gardens and lake beaches.

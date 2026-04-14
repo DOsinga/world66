@@ -5,6 +5,7 @@ latitude: 47.5777
 longitude: -59.1424
 done:
   location_cleanup: 2026-04-06
+score: 0.4
 ---
 
 Channel-Port aux Basques is the gateway to Newfoundland — the ferry from North Sydney, Nova Scotia arrives here, and most visitors to the island pass through on their way in or out. The town sits at the southwestern tip of Newfoundland, exposed to the full force of the Atlantic.

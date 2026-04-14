@@ -5,6 +5,7 @@ latitude: 44.841225
 longitude: -0.580036
 title: Bordeaux
 type: location
+score: 0.71
 ---
 
 Bordeaux is the world's most famous wine region, producing reds built on Cabernet Sauvignon and Merlot that have set the benchmark for serious winemaking for centuries. The region divides roughly into the Left Bank (Médoc and Graves, dominated by Cabernet Sauvignon), the Right Bank (Saint-Émilion and Pomerol, where Merlot leads), and the sweet white appellations of Sauternes.

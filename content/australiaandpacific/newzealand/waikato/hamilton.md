@@ -5,6 +5,7 @@ latitude: -37.7879
 longitude: 175.2818
 done:
   location_cleanup: 2026-04-07
+score: 0.44
 ---
 
 Hamilton is New Zealand's fourth-largest city and the heart of the Waikato region, straddling the banks of the country's longest river. It is not a city that makes many tourist bucket lists, but it has a relaxed, unpretentious character and makes a solid base for exploring some of the North Island's best attractions.

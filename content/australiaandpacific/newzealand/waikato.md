@@ -5,6 +5,7 @@ latitude: -37.7833
 longitude: 175.2833
 done:
   location_cleanup: 2026-04-05
+score: 0.57
 ---
 
 The Waikato is a region of rolling dairy country in the middle of New Zealand's North Island, about ninety minutes south of Auckland. It takes its name from the Waikato River — at 425 km, the longest river in New Zealand — which runs the length of the region before entering the Tasman Sea west of Auckland. The landscape is lush green pasture, Holstein-Friesian cows, and the flat-topped cone of Mount Pirongia rising above everything else to the west. It is the heartland of the New Zealand dairy industry and a place most travellers drive through without stopping — which is a small shame, because the region hides some genuinely remarkable things.

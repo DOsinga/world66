@@ -5,6 +5,7 @@ latitude: 14.341
 longitude: 121.084
 done:
   location_cleanup: 2026-04-02
+score: 0.32
 ---
 
 Binan is one of the three cities in the province of Laguna, about 40 kilometres south of Manila on the island of Luzon. It started as a Spanish colonial settlement in 1571 and grew into one of the country's major industrial and export processing zones, but the old town centre still holds centuries-old landmarks that recall its past.

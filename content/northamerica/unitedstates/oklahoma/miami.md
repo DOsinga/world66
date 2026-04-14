@@ -5,6 +5,7 @@ latitude: 36.8747
 longitude: -94.8774
 title: Miami
 type: location
+score: 0.3
 ---
 
 Miami — pronounced "My-AM-uh" by the locals, not like the Florida city — sits in the far northeast corner of Oklahoma, right on historic [Route 66](/northamerica/unitedstates/gettingaround/route_66__the_m). With a population of around 14,000, it is one of the first Route 66 towns you hit when entering the state from the east, and it carries that roadside heritage proudly.

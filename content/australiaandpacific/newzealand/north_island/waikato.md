@@ -5,6 +5,7 @@ latitude: -37.779227
 longitude: 175.201032
 title: Waikato
 type: location
+score: 0.56
 ---
 
 The Waikato is New Zealand's largest region by population and occupies the broad lowland plains south of Auckland. It is named for the Waikato River, which runs 425 km from Lake Taupo to the Tasman Sea — New Zealand's longest river, flowing through the heart of the region.

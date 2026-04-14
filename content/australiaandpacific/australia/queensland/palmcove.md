@@ -5,6 +5,7 @@ latitude: -16.7472
 longitude: 145.6685
 title: Palm Cove
 type: location
+score: 0.62
 ---
 
 Palm Cove is a small beach village about 25 kilometres north of Cairns, strung along one of Queensland's most attractive stretches of coastline. A long esplanade shaded by ancient melaleuca trees runs beside a calm, usually swimmable beach — an unusual asset this far north, where stingers and crocodiles make many beaches off-limits for much of the year.

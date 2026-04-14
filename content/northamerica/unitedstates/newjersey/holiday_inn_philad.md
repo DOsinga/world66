@@ -1,8 +1,9 @@
 ---
-title: "Holiday Inn Philadelphia-Cherry Hill"
+title: Holiday Inn Philadelphia-Cherry Hill
 type: location
 latitude: 39.921136
 longitude: -75.041439
+score: 0.25
 ---
 
 Travel Guide

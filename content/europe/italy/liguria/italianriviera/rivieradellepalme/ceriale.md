@@ -5,6 +5,7 @@ latitude: 44.091629
 longitude: 8.223251
 title: Ceriale
 type: location
+score: 0.47
 ---
 
 A seaside resort at the eastern end of the fertile

@@ -5,6 +5,7 @@ latitude: 54.017529
 longitude: -124.007663
 title: Vanderhoof
 type: location
+score: 0.33
 ---
 
 Vanderhoof sits at the geographical centre of British Columbia, a small ranching and forestry town on the Nechako River. It is not a destination in itself, but it makes a useful stop on the drive between Prince George and the lakes district to the west.

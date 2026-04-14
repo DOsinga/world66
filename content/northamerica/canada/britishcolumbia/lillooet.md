@@ -5,6 +5,7 @@ latitude: 50.693938
 longitude: -121.933691
 title: Lillooet
 type: location
+score: 0.44
 ---
 
 Lillooet sits in the dry interior of British Columbia where the Bridge and Fraser rivers meet, surrounded by steep mountains and sagebrush-covered benchlands. The landscape is strikingly different from the wet coastal ranges to the west — hot in summer, cold in winter, and sparsely populated. The town itself has about 2,300 people.

@@ -5,6 +5,7 @@ latitude: 4.711
 longitude: -74.0721
 done:
   location_cleanup: 2026-04-02
+score: 0.59
 ---
 
 Bogota sits at 2,640 metres in the eastern Andes, a sprawling capital of eight million people where colonial churches share blocks with glass towers and street art covers every spare wall. The altitude catches newcomers off guard -- the air is thin, the sun surprisingly strong, and the temperature hovers around 14 degrees year-round. Give yourself a day to adjust before tackling the hills.

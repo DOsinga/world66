@@ -5,6 +5,7 @@ latitude: 63.526951
 longitude: -19.49443
 title: Skogar
 type: location
+score: 0.64
 ---
 
 Skógar is a small settlement on Iceland's south coast, best known as the site of Skógafoss, one of the biggest and most spectacular waterfalls in Iceland. The falls plunge 60 metres from the edge of the former sea cliffs, and in good light a rainbow is almost always visible in the mist at the base. You can walk right up to the foot of the falls and, via a steep staircase, to the top for views across the coastal plain to the sea.

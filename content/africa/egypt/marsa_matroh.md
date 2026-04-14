@@ -1,6 +1,7 @@
 ---
-title: "Marsa Matroh"
+title: Marsa Matroh
 type: location
+score: 0.45
 ---
 
 Travel Guide

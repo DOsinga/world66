@@ -5,6 +5,7 @@ latitude: 43.7683
 longitude: 59.0214
 title: Moynaq
 type: location
+score: 0.42
 ---
 
 Moynaq (also written Mo'ynoq or Muynak) was once a prosperous seaport on the Aral Sea, home to a thriving fishing fleet and cannery. Today it is a ghost town sitting in the middle of a desert, the water gone — retreated more than 150 km to the north — and the ships left rusting on the sand where the harbour used to be.

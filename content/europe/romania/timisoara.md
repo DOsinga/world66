@@ -5,6 +5,7 @@ latitude: 45.7538
 longitude: 21.2257
 done:
   location_cleanup: 2026-04-07
+score: 0.53
 ---
 
 Timisoara is the largest city in western [Romania](/europe/romania), historically closer in spirit to Vienna and Budapest than to Bucharest. It was the first city in the world to have electric street lighting (in 1884), the first European city to introduce horse-drawn trams, and — most significantly — the city where the 1989 revolution began that brought down Ceausescu.

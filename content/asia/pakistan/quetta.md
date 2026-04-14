@@ -1,8 +1,9 @@
 ---
-title: "Quetta"
+title: Quetta
 type: location
 latitude: 30.191627
 longitude: 67.000756
+score: 0.27
 ---
 
 Quetta is the capital of Baluchistan. Baluchistan is the largets province in Pakistan. Most of it is desert, and the Baluchi's look like true desert-dwellers: they have baggy trousers, big moustaches and they love their freedom.

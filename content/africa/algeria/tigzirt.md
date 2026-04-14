@@ -5,6 +5,7 @@ latitude: 36.892661
 longitude: 4.126179
 title: Tigzirt
 type: location
+score: 0.41
 ---
 
 Tigzirt is a small coastal town in [Algeria](/africa/algeria), close to Tizi Ouzou in the Kabyle region. It used to be a popular seaside getaway for Kabyle families, and the stony beach and relaxed atmosphere still draw visitors in summer.

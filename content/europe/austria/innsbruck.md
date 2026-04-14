@@ -5,6 +5,7 @@ latitude: 47.2654
 longitude: 11.3928
 done:
   location_cleanup: 2026-04-06
+score: 0.72
 ---
 
 Innsbruck is not just a ski town. It is the capital of Tyrol, a proper city of over 100,000 people wedged into a narrow valley beneath some of the most dramatic mountain scenery in the Alps. The Nordkette range rises directly behind the Old Town, so steep and close it feels like a painted backdrop. You can ride a cable car from the city centre to 2,300 metres in twenty minutes.

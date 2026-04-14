@@ -5,6 +5,7 @@ latitude: 37.3123
 longitude: 13.5747
 title: Agrigento
 type: location
+score: 0.68
 ---
 
 Agrigento is a small town on the south coast of Sicily. The beach is good and the small streets of the old town are charming, but what brings you here are the Greek temples just outside of town.

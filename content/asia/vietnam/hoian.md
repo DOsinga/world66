@@ -1,8 +1,9 @@
 ---
-title: "Hoi An"
+title: Hoi An
 type: location
 latitude: 15.8801
-longitude: 108.3380
+longitude: 108.338
+score: 0.78
 ---
 
 Hoi An is a remarkably well-preserved ancient trading port on the central Vietnamese coast, now a UNESCO World Heritage Site. For several centuries it was one of Southeast Asia's most important commercial hubs, drawing merchants from China, Japan, and the West — a history still visible in the architecture of the Old Town, which blends Chinese merchant houses, Japanese covered bridges, and French colonial shopfronts.

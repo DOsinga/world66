@@ -5,6 +5,7 @@ latitude: 37.5443
 longitude: -4.7278
 done:
   location_cleanup: 2026-04-05
+score: 0.8
 ---
 
 Andalucia is the Spain people picture when they haven't been: whitewashed villages stacked on rocky hillsides, flamenco rhythms drifting from bars, the smell of orange blossom, and the ghost of eight centuries of Moorish civilisation layered over everything. This is Spain's largest and arguably most dramatic region, stretching from the Atlantic coast at Cádiz all the way east to Almería's near-desert landscapes.

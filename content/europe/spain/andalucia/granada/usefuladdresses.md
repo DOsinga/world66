@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 title: Practical Information
 type: location
+score: 0.43
 ---
 
 **Practical addresss**

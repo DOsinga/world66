@@ -5,6 +5,7 @@ latitude: 18.3419
 longitude: -64.9307
 done:
   location_cleanup: 2026-04-05
+score: 0.7
 ---
 
 St. Thomas is the busiest of the US Virgin Islands — a lush, hilly island of 32 square miles that was Danish for 250 years before the United States bought the territory in 1917 for $25 million in gold. The Danish legacy is everywhere: red-roofed buildings climbing the hills of Charlotte Amalie, Danish street names (Dronningens Gade, Kongens Gade), and the second-oldest synagogue in the western hemisphere, built in 1833 with a sand floor to muffle the footsteps of its Sephardic founders.

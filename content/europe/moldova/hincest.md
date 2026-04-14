@@ -5,6 +5,7 @@ latitude: 46.859126
 longitude: 28.523544
 title: Hîncești
 type: location
+score: 0.33
 ---
 
 Hîncești is a small town about 35 km south of Chișinău, the administrative centre of Hîncești district. It sees little tourist traffic but sits in decent wine country — the southern Codru wine region extends through this part of Moldova.

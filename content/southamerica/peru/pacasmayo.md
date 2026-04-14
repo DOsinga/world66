@@ -5,6 +5,7 @@ latitude: -7.4256
 longitude: -79.434
 done:
   location_cleanup: 2026-04-06
+score: 0.48
 ---
 
 Pacasmayo is a quiet coastal town on Peru's northern Pacific seaboard, roughly halfway between Trujillo and Chiclayo on the Pan-American Highway. It sits in a bay where the wind blows constantly — which makes it one of Peru's best spots for windsurfing and kitesurfing, and the left-hand point break near the lighthouse ("El Faro") draws surfers as well.

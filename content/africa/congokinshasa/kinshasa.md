@@ -5,6 +5,7 @@ latitude: -4.325
 longitude: 15.3222
 done:
   location_cleanup: 2026-04-07
+score: 0.35
 ---
 
 Kinshasa is one of Africa's largest cities, home to over 17 million people and sprawling along the south bank of the Congo River directly across from [Brazzaville](/africa/congobrazzaville/brazzaville). It is loud, chaotic, creative, and exhausting -- sometimes all at once. This is not a city of tourist sights in the conventional sense, but it is a place of enormous energy, and for travelers willing to engage with it, deeply rewarding.

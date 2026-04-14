@@ -5,6 +5,7 @@ latitude: 38.927
 longitude: 17.085
 title: Steccato
 type: location
+score: 0.44
 ---
 
 The town of Steccato lies in the Crotone province, on the coast of the Ionian Sea within the Capo Rizzuto national park. The protected marine area provides rich and diverse sea life, and the beaches are uncrowded compared to the Tyrrhenian coast.

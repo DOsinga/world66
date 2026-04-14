@@ -5,6 +5,7 @@ latitude: 22.800396
 longitude: 70.886232
 title: Morbi
 type: location
+score: 0.3
 ---
 
 Morbi is a small city 64 km from [Rajkot](/asia/india/gujarat/rajkot), once a princely state and now known as India's ceramics capital -- along with being a major centre for clock manufacturing (Ajanta Quartz, the world's largest clock manufacturer, is based here on the Morbi-Rajkot road).

@@ -5,6 +5,7 @@ latitude: 28.2916
 longitude: -16.6291
 title: Tenerife
 type: location
+score: 0.72
 ---
 
 Tenerife is the largest of the Canary Islands and one of the most geographically dramatic islands in the Atlantic. At its center rises Mount Teide, Spain's highest peak at 3,718 meters, surrounded by a vast volcanic caldera that feels more like another planet than a holiday island. The contrast between the lush, green north and the sun-baked south gives Tenerife a split personality that rewards exploration.

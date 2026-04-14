@@ -5,6 +5,7 @@ latitude: 37.0482
 longitude: -112.5285
 title: Kanab
 type: location
+score: 0.55
 ---
 
 Kanab is a small town in southern Utah that punches well above its weight as a base for exploring some of the American Southwest's most spectacular landscapes. Sitting at the junction of US-89 and US-89A, it is within easy reach of four major protected areas: [Zion National Park](/northamerica/unitedstates/utah/zion), Bryce Canyon National Park, the North Rim of the Grand Canyon, and the vast Grand Staircase-Escalante National Monument. Travellers who come for a night often end up staying for a week.

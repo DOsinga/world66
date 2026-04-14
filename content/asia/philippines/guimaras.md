@@ -5,6 +5,7 @@ latitude: 10.5731
 longitude: 122.6239
 title: Guimaras
 type: location
+score: 0.52
 ---
 
 Guimaras is a small island province in the Western Visayas, tucked between Panay and Negros in the Panay Gulf. It is one of the Philippines' least-visited provinces, which is part of its appeal — the roads are quiet, the beaches uncrowded, and the pace of life genuinely relaxed.

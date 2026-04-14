@@ -5,6 +5,7 @@ latitude: 53.190887
 longitude: -2.890896
 title: Chester
 type: location
+score: 0.57
 ---
 
 Chester is the most complete walled city in the UK. Take a walk around the walls and enjoy the views of the city and the River Dee. It is also a popular shopping centre, though parking can be expensive. The Rows, the half-timbered galleried shops on two levels, date from the medieval period and are unique in England.

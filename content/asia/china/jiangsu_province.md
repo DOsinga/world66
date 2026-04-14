@@ -5,6 +5,7 @@ latitude: 33.0
 longitude: 120.0
 title: Jiangsu Province
 type: location
+score: 0.44
 ---
 
 Jiangsu (江苏) is a coastal province in eastern China, stretching along the Yellow Sea from the Yangtze River delta northward. It is one of the most densely populated and economically developed provinces in the country, a flat landscape of rivers, canals and rice paddies that has been central to Chinese culture for millennia.

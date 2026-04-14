@@ -5,6 +5,7 @@ latitude: 30.326225
 longitude: -81.657918
 title: Jacksonville
 type: location
+score: 0.39
 ---
 
 Jacksonville is the largest city by area in the contiguous [United States](/northamerica/unitedstates), sprawling across both sides of the St. Johns River in northeast [Florida](/northamerica/unitedstates/florida). It is not a typical tourist stop, but it has more character than first impressions suggest.

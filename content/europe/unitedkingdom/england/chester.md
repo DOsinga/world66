@@ -5,6 +5,7 @@ latitude: 53.190887
 longitude: -2.890896
 title: Chester
 type: location
+score: 0.65
 ---
 
 Chester is the most complete walled city in Britain, and the walls themselves — two miles of Roman and medieval stonework — are the best way to begin any visit. The circuit takes about an hour to walk and gives you a view over the rooftops of the city and across the River Dee to the Welsh hills on clear days.

@@ -1,8 +1,9 @@
 ---
-title: "Tirunelveli"
+title: Tirunelveli
 type: location
 latitude: 8.549501
 longitude: 77.580518
+score: 0.41
 ---
 
 Tirunelveli is a city in the far south of Tamil Nadu, about 160 km from the southern tip of India at Kanyakumari. It sits on the Thamirabarani River, one of the few perennial rivers in Tamil Nadu, which keeps the surrounding district unusually green for this dry corner of the state.

@@ -1,8 +1,9 @@
 ---
-title: "Karachi"
+title: Karachi
 type: location
 latitude: 24.854684
 longitude: 67.020706
+score: 0.33
 ---
 
 Karachi is the capital of the Sindh Province and is the largest city in Pakistan. It is the number one business city in Pakistan as well. Although for touristic reasons it is not the most interesting place in Pakistan, the fast paced life Pakistani style of this mega-city will have a big impact on you. There is a lot to do and see in the field of shopping, nightlife and eating out, more than anywhere else in Pakistan. With its wide sunny beaches, deep-sea fishing, yachting, golf and horse racing all-year round you do not have to be bored here.

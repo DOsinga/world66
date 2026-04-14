@@ -5,6 +5,7 @@ latitude: 9.7405
 longitude: 98.4036
 title: Koh Phayam
 type: location
+score: 0.65
 ---
 
 Koh Phayam is a small island in the Andaman Sea off the coast of Ranong province, in southern [Thailand](/asia/thailand). It is less developed and far quieter than the big-name Thai islands — no ATMs, limited electricity until recently, and a pace of life set by the tides and the cashew harvest.

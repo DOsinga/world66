@@ -5,6 +5,7 @@ latitude: 30.961335
 longitude: 46.105388
 title: Ur
 type: location
+score: 0.33
 ---
 
 Ur of the Chaldees is mentioned in the Bible as the birthplace of Abraham and was the capital of Sumeria during its greatest period of power. The site was first excavated between 1922 and 1934 by the British archaeologist Sir Leonard Woolley, whose discoveries — particularly the Royal Tombs — transformed understanding of the ancient world.

@@ -5,6 +5,7 @@ latitude: 43.1628
 longitude: -73.0723
 title: Manchester
 type: location
+score: 0.47
 ---
 
 Manchester is a small Vermont town that punches well above its weight for shopping and scenery. Nestled in the Green Mountains with views of Mount Equinox rising above the valley, it draws visitors for its famous outlet stores — a dense strip of designer brands that has made the town the retail capital of southern Vermont — and for the quieter pleasures of the surrounding hills.

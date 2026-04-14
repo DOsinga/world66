@@ -5,6 +5,7 @@ latitude: 39.663982
 longitude: 20.852278
 done:
   location_cleanup: 2026-04-07
+score: 0.61
 ---
 
 Ioannina is the capital of Epirus, a city of about 100,000 on the shores of Lake Pamvotis in north-western Greece, surrounded by mountains. It is one of the most historically interesting cities in Greece outside Athens — not for ancient ruins but for its layered Ottoman history, its lake with a tiny island at its centre, and its dramatic setting between water and peaks.

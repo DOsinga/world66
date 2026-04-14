@@ -5,6 +5,7 @@ latitude: 53.010272
 longitude: 18.604809
 title: Toruń
 type: location
+score: 0.57
 ---
 
 Toruń is one of the best-preserved medieval cities in Poland, a UNESCO World Heritage Site sitting on the Vistula River. It escaped the destruction of the Second World War almost entirely and its Gothic old town remains largely intact — red-brick churches, a ruined Teutonic Knights castle, and a market square lined with merchant houses. It is also the birthplace of Nicolaus Copernicus, and the city makes much of this connection.

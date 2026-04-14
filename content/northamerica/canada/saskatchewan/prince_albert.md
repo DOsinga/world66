@@ -1,8 +1,9 @@
 ---
-title: "Prince Albert"
+title: Prince Albert
 type: location
 latitude: 53.202029
 longitude: -105.755896
+score: 0.34
 ---
 
 Travel Guide

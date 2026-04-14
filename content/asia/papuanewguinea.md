@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Chapman</a> from Australia
 done:
   country_cleanup: 2026-03-30
+score: 0.43
 ---
 
 Papua New Guinea is one of the most linguistically and culturally diverse countries on earth. More than 800 languages are spoken here — roughly a tenth of all the world's languages — in a country of fewer than ten million people. Much of the interior remains accessible only by small plane or on foot, and there are communities in the highlands that had no contact with the outside world until the 1930s.

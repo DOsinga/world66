@@ -5,6 +5,7 @@ latitude: 53.227716
 longitude: -4.126882
 title: Bangor, Wales
 type: location
+score: 0.44
 ---
 
 Bangor is one of the smallest cities in the United Kingdom, tucked between the mountains of Snowdonia and the Menai Strait in north Wales. A population of around 20,000 — about a third of them students at Bangor University — gives the place an energy that belies its size.

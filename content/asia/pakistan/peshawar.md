@@ -1,8 +1,9 @@
 ---
-title: "Peshawar"
+title: Peshawar
 type: location
 latitude: 34.012385
 longitude: 71.578746
+score: 0.26
 ---
 
 Travel Guide

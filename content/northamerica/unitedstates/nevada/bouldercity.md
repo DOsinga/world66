@@ -5,6 +5,7 @@ latitude: 35.9788
 longitude: -114.8338
 title: Boulder City
 type: location
+score: 0.46
 ---
 
 Boulder City was built in the 1930s to house the workers constructing Hoover Dam, and it has kept its small-town character ever since — it is the only city in Nevada where gambling is illegal. The historic downtown has a pleasant main street with diners, antique shops, and a small museum about the dam's construction. The Boulder Dam Hotel, a handsome Dutch Colonial building from 1933, still operates.

@@ -5,6 +5,7 @@ latitude: 38.572332
 longitude: -94.878648
 title: Paola
 type: location
+score: 0.31
 ---
 
 Paola is the county seat of Miami County, about 40 miles south of Kansas City. It's a small, historically preserved town with a handsome courthouse square at its center and streets lined with late 19th-century brick buildings.

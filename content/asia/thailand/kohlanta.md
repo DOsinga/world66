@@ -5,6 +5,7 @@ latitude: 7.573
 longitude: 99.042
 done:
   location_cleanup: 2026-04-07
+score: 0.67
 ---
 
 Koh Lanta is the Thai island that people discover after they have had enough of the full-moon-party circuit. Part of an archipelago of 52 islands in the Andaman Sea off Krabi province, it is Ko Lanta Yai — the big island — that draws visitors: a long, hilly strip fringed by a dozen west-coast beaches, each one quieter than the last as you head south.

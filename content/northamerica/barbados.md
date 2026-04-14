@@ -10,6 +10,7 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   from Toronto, Canada
 done:
   country_cleanup: 2026-03-30
+score: 0.72
 ---
 
 Barbados is the most easterly island in the Caribbean — it sits alone in the Atlantic, well east of the main arc of the Lesser Antilles. This position shapes everything about it: the trade winds that keep the east coast surf-blown and wild, the coral aquifer that makes the tap water some of the purest in the Caribbean, and a certain self-assurance that comes from an island that has always stood slightly apart.

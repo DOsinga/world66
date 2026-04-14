@@ -5,6 +5,7 @@ latitude: 20.2401
 longitude: 105.7224
 title: Cuc Phuong
 type: location
+score: 0.56
 ---
 
 Cuc Phuong is Vietnam's oldest national park, established in 1962 and covering 222 square kilometres of primary tropical forest about 120 km south of Hanoi. The park shelters an extraordinary diversity of plant and animal life, including several species found nowhere else — among them the Delacour's langur, one of the rarest primates on earth.

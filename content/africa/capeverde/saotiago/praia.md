@@ -5,6 +5,7 @@ latitude: 14.916281
 longitude: -23.50951
 title: Praia
 type: location
+score: 0.49
 ---
 
 Praia is the capital of Cape Verde and the largest city in the archipelago — relaxed by African capital standards, with a compact old quarter (the Platô) perched on a plateau above the harbour. The colonial Portuguese architecture and the central square of Praça Alexandre Albuquerque give it more charm than most West African capitals manage.

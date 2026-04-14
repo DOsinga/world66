@@ -1,8 +1,9 @@
 ---
-title: "Manila"
+title: Manila
 type: location
 latitude: 14.590449
 longitude: 120.980362
+score: 0.45
 ---
 
 Travel Guide

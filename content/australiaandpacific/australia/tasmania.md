@@ -1,8 +1,9 @@
 ---
-title: "Tasmania"
+title: Tasmania
 type: location
 latitude: -42.035067
 longitude: 146.636689
+score: 0.66
 ---
 
 Tasmania is Australia's island state — separated from the mainland by the Bass Strait — and the most easily overlooked by international visitors, which is their loss. It's a compact, wild, and distinctive place that offers a different Australia from the beach-and-reef circuit most people follow.

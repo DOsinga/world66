@@ -5,6 +5,7 @@ latitude: 35.6269
 longitude: -120.6908
 title: Paso Robles
 type: location
+score: 0.54
 ---
 
 Paso Robles sits in the northern half of San Luis Obispo County, tucked between the Santa Lucia Range and the Cholame Hills. The coastal mountains that separate it from the Pacific beaches — just 20 minutes west — also shield this inland valley from the marine layer, giving it long, hot summers and cool nights that are ideal for growing Zinfandel, Cabernet Sauvignon, and Rhône varieties.

@@ -5,6 +5,7 @@ latitude: 38.9955
 longitude: -110.1627
 title: Green River
 type: location
+score: 0.39
 ---
 
 Green River is one of the loneliest towns on I-70, sitting in the desert of eastern Utah between the Book Cliffs and the San Rafael Swell. It is the kind of place you stop for fuel and end up staying longer than expected. The river the town is named for flows through on its way to a confluence with the Colorado, and this is where most rafting trips into Labyrinth and Stillwater Canyons launch.

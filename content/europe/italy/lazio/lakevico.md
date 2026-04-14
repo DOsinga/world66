@@ -5,6 +5,7 @@ latitude: 42.320498
 longitude: 12.174887
 title: Lake Vico
 type: location
+score: 0.53
 ---
 
 Lake Vico sits in the flooded crater of an extinct volcano in northern Lazio, ringed by forested hills and the broad slopes of Monte Venere. It is one of the best-preserved volcanic lakes in central Italy, smaller and far quieter than nearby Lake Bracciano or Lake Bolsena.

@@ -5,6 +5,7 @@ latitude: 31.5604
 longitude: -91.4032
 title: Natchez
 type: location
+score: 0.49
 ---
 
 Natchez is the oldest settlement on the Mississippi River, perched on a bluff high above the water. It is one of the great antebellum towns of the American South — a place where the wealth of the cotton economy produced an extraordinary concentration of grand houses, many of which survive intact. Few Southern towns have preserved such a rich architectural heritage.

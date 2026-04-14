@@ -5,6 +5,7 @@ latitude: 37.9806
 longitude: 38.7408
 done:
   location_cleanup: 2026-04-06
+score: 0.65
 ---
 
 On a remote mountaintop in southeastern Turkey, a megalomaniac king built his own monument to eternity. Two thousand years later, the giant stone heads of gods and kings sit scattered across the summit of Nemrut Dagi, toppled by earthquakes but still staring out across the Mesopotamian plain. It is one of the most extraordinary archaeological sites in the world.

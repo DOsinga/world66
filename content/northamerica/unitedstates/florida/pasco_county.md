@@ -5,6 +5,7 @@ latitude: 28.299618
 longitude: -82.45227
 title: Pasco County
 type: location
+score: 0.34
 ---
 
 Pasco County occupies the Gulf coast of central Florida, north of Tampa. It is one of the quieter stretches of the state's west coast, offering a glimpse of Florida before the theme parks and resort towers took over. The landscape is flat and green, dotted with lakes and laced with rivers that wind out to the Gulf of Mexico.

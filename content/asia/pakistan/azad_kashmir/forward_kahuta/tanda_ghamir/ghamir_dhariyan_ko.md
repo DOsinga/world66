@@ -1,6 +1,7 @@
 ---
-title: "ghamir dhariyan kot"
+title: ghamir dhariyan kot
 type: location
+score: 0.17
 ---
 
 Travel Guide

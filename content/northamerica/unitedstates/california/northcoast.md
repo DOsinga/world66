@@ -1,8 +1,9 @@
 ---
-title: "North Coast"
+title: North Coast
 type: location
 latitude: 41.506534
 longitude: -81.693995
+score: 0.55
 ---
 
 Drenched alternately in sun, fog, mist and rain, the North Coast changes moods with the weather. Forests of lofty redwood trees thrive in this moist, cool climate. Wild salmon swim up the Klamath, Eel, Smith, and other ancestral streams. Eagles soar overhead, whales cruise offshore, and sea lions lounge on the rocky outposts amid wild, crashing surf. Travel north on the rocky, wind-swept coast on Highway 1, then venture inland to Highway 101- head further north to verdant redwood groves or southward to beautiful vine covered river valleys and dense forestlands of the wine country.

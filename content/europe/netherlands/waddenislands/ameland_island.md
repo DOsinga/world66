@@ -5,6 +5,7 @@ latitude: 53.4483
 longitude: 5.74
 done:
   location_cleanup: 2026-04-07
+score: 0.55
 ---
 
 Ameland is one of the [Wadden Islands](/europe/netherlands/waddenislands) off the north coast of [Friesland](/europe/netherlands/friesland), a long, flat strip of sand dunes, beaches, and grass polder that feels a world away from the mainland. The island has four villages — Hollum, Ballum, Nes, and Buren — connected by a single road across a landscape of wide skies and salt marshes.

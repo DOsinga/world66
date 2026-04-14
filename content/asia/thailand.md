@@ -9,6 +9,7 @@ image_license: CC BY 2.0
 image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/14652587@N05">lkarasawa</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.86
 ---
 
 More people visit Thailand than any other country in Southeast Asia, and it's not hard to see why. The country has excellent infrastructure, extraordinary food, a rich Buddhist culture, some of the best beaches in Asia, and a reputation for genuine hospitality. It ranges from the chaos and energy of [Bangkok](/asia/thailand/bangkok) to mountain forests, ruined ancient capitals, and remote islands. You can spend a week or a year and feel like you've barely started.

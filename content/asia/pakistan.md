@@ -11,6 +11,7 @@ latitude: 30.3753
 longitude: 69.3451
 title: Pakistan
 type: location
+score: 0.27
 ---
 
 *Asia > Pakistan*

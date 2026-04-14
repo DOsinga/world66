@@ -5,6 +5,7 @@ latitude: 33.09082
 longitude: 75.32639
 title: Patnitop
 type: location
+score: 0.47
 ---
 
 Patnitop is a small hill station in the Jammu region, perched at about 2,024 metres in the Shivalik range and surrounded by dense pine and deodar forest. It is a quiet, unhurried place — the kind of hill retreat where the main activity is walking through the woods and breathing the mountain air.

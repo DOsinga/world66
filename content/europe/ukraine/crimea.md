@@ -1,8 +1,9 @@
 ---
-title: "Crimea"
+title: Crimea
 type: location
 latitude: 45.283504
 longitude: 34.200819
+score: 0.46
 ---
 
 The autonomous republic of Crimea is part of the Ukraine, and is within the peninsula from which it gets it's name. It is washed by the Black Sea on

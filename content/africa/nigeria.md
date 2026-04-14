@@ -10,6 +10,7 @@ latitude: 9.0765
 longitude: 7.3986
 title: Nigeria
 type: location
+score: 0.25
 ---
 
 *Africa > Nigeria*

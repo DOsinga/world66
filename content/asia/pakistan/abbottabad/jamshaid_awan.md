@@ -1,6 +1,7 @@
 ---
-title: "Jamshaid awan"
+title: Jamshaid awan
 type: location
+score: 0.2
 ---
 
 Travel Guide

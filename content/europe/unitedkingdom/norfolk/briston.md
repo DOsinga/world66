@@ -5,6 +5,7 @@ latitude: 52.8652
 longitude: 1.0321
 title: Briston
 type: location
+score: 0.29
 ---
 
 Briston is a large village in north Norfolk, sitting between Holt and Fakenham. It lies alongside Melton Constable, its immediate neighbour, and the two villages share facilities. The nearest town is Holt, and Norwich is the closest city, around 20 miles to the south-east.

@@ -5,6 +5,7 @@ latitude: 42.6887
 longitude: 2.8948
 done:
   location_cleanup: 2026-04-05
+score: 0.58
 ---
 
 Perpignan sits in Roussillon, in the far southern corner of France, fifteen minutes from the Mediterranean and half an hour from the Spanish border. It is the last French city before Catalonia — or, depending on how the locals are feeling that day, the first Catalan city. The red-and-yellow Catalan flag flies from half the balconies, Catalan is muttered in the boulangeries, and a glass of vin de table in a café is as likely to arrive with a plate of tapas as with a bowl of olives. Salvador Dalí famously declared Perpignan railway station "the centre of the world." He was being surrealistic, but not entirely.

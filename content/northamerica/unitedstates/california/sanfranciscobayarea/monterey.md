@@ -5,6 +5,7 @@ latitude: 36.6002
 longitude: -121.8947
 title: Monterey
 type: location
+score: 0.64
 ---
 
 Monterey sits on a crescent bay about two hours south of San Francisco, where the cold, nutrient-rich waters of the Pacific have built one of the richest marine ecosystems on the California coast. It is a small city with a genuinely dramatic setting — sea otters float in the kelp beds just offshore, harbor seals bark from the rocks, and on clear mornings the Santa Lucia mountains frame the whole bay.

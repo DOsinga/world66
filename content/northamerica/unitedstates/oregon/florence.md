@@ -5,6 +5,7 @@ latitude: 43.9826
 longitude: -124.0998
 title: Florence
 type: location
+score: 0.45
 ---
 
 Florence sits where the Siuslaw River meets the [Oregon](/northamerica/unitedstates/oregon) coast, at the northern edge of the Oregon Dunes National Recreation Area. The dunes here are enormous — some rise over 150 metres — and hiking through them to reach the ocean is a memorable experience, though bring water.

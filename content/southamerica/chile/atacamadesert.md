@@ -5,6 +5,7 @@ latitude: -24.556303
 longitude: -69.422648
 title: Atacama Desert
 type: location
+score: 0.77
 ---
 
 The Atacama is one of the driest places on earth — some parts of it haven't seen measurable rain in recorded history. Stretching 1,000 kilometres down the northern third of Chile, wedged between the Pacific coast ranges and the Andes, it is also one of the most spectacular landscapes you will ever stand in.

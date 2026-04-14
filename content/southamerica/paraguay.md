@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_attribution: Maurice Chédel
 done:
   country_cleanup: 2026-03-29
+score: 0.42
 ---
 
 Paraguay is an introvert country that borders on Bolivia, Brazil and Argentina. During a large part of this century it was one of the most notorious and durable police states, but it now is gradually getting used to being a republic. 

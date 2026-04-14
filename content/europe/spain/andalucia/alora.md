@@ -5,6 +5,7 @@ latitude: 36.823881
 longitude: -4.706301
 title: Alora
 type: location
+score: 0.52
 ---
 
 Alora is a small village on the rail line from Málaga to Bobadilla and Córdoba, and also on two of the three bus routes to [Ronda](/europe/spain/andalucia/ronda). Its position makes it a reasonable alternative to Málaga for a first or last night if you are traveling between the coast and the Andalucian interior.

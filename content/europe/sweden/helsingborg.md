@@ -5,6 +5,7 @@ latitude: 56.0442
 longitude: 12.7037
 title: Helsingborg
 type: location
+score: 0.53
 ---
 
 Helsingborg sits at the narrowest point of the Oresund, just four kilometres from [Helsingor](/europe/denmark/helsingor) in Denmark. For centuries this was Sweden's gateway to the continent, and the town still feels more outward-looking than most Swedish cities of its size. The medieval tower of Kärnan — the only remnant of a once-massive fortress — rises above a handsome waterfront lined with restaurants and outdoor cafes.

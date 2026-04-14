@@ -5,6 +5,7 @@ latitude: 43.918919
 longitude: 15.978529
 title: Krka National Park
 type: location
+score: 0.81
 ---
 
 Krka National Park covers 109 square kilometres along the Krka River near [Šibenik](/europe/croatia/sibenik), protecting a series of dramatic travertine waterfalls that cascade through a lush river canyon. The star attraction is Skradinski Buk, a staircase of seventeen falls where you can swim in the cold, clear pools at the base — one of the few national parks in Croatia where swimming is still allowed at certain times of year.

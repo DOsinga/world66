@@ -1,6 +1,7 @@
 ---
-title: "samana"
+title: samana
 type: location
+score: 0.56
 ---
 
 Travel Guide

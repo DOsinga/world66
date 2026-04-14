@@ -5,6 +5,7 @@ latitude: 40.9481
 longitude: -4.1172
 title: Segovia
 type: location
+score: 0.67
 ---
 
 Segovia is one of the most rewarding day trips from [Madrid](/europe/spain/centralspain/madrid), a compact walled city perched on a rocky promontory about 90 kilometres northwest of the capital. Its Roman aqueduct — 28 metres high, built from 20,000 granite blocks without mortar — is one of the best-preserved Roman structures anywhere in Europe, and the sight of it marching across the Plaza del Azoguejo is genuinely astonishing.

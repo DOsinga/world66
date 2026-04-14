@@ -5,6 +5,7 @@ latitude: 39.0
 longitude: -75.5
 done:
   location_cleanup: 2026-04-05
+score: 0.36
 ---
 
 Delaware is the second smallest state in the United States, and the one most Americans pass through without quite noticing: a thin wedge of land between Maryland and the Atlantic, squeezed against the Delaware Bay, crossed by the I-95 on the way between New York and Washington. It is also the "First State" — the first to ratify the Constitution in December 1787 — and a place with more interesting corners than its size and highway reputation suggest.

@@ -5,6 +5,7 @@ latitude: 37.26984
 longitude: -81.222319
 title: Bluefield
 type: location
+score: 0.32
 ---
 
 Bluefield sits in the Appalachian mountains right on the West Virginia–Virginia border, with a twin city of the same name on the Virginia side. Once a prosperous coal and railroad town, it has the handsome brick downtown of a place that was once considerably richer than it is today.

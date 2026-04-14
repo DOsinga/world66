@@ -5,6 +5,7 @@ latitude: 68.2321
 longitude: 14.5646
 title: Svolvær
 type: location
+score: 0.74
 ---
 
 Svolvær is the regional centre of the Lofoten Islands, a small but lively town of around 4,500 people strung along the waterfront beneath dramatic peaks. It is the natural base for exploring the archipelago — the only place in Lofoten with a proper airport, and a port of call for the Hurtigruten coastal steamer and express ferry services.

@@ -5,6 +5,7 @@ latitude: 8.541026
 longitude: 39.270546
 title: Adama
 type: location
+score: 0.31
 ---
 
 Travel Guide

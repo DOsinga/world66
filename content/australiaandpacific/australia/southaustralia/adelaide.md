@@ -1,8 +1,9 @@
 ---
-title: "Adelaide"
+title: Adelaide
 type: location
 latitude: -34.928181
 longitude: 138.599931
+score: 0.6
 ---
 
 Adelaide, South Australia’s capital, houses nearly 70 percent of all inhabitants of the southern region. The city itself was thoroughly planned and might frighten you at first sight. Well, don’t let the first signs of its major industrial character put you off. You can easily avoid the industrial area nearby the railway area and explore the rest Australia’s fifth largest and extremely fascinating city.

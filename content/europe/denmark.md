@@ -10,6 +10,7 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:MikkelH" class="mw
   title="User:MikkelH">Mikkel Houmøller</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.67
 ---
 
 Denmark is small, flat, and extraordinarily livable. It occupies the Jutland peninsula and some 400 inhabited islands, jutting northward between the North Sea and the Baltic. Germany is its only land border. Norway and Sweden lie across the straits to the north and east.

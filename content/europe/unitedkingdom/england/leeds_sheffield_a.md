@@ -1,8 +1,9 @@
 ---
-title: "Leeds, Sheffield and Yorkshire"
+title: Leeds, Sheffield and Yorkshire
 type: location
 latitude: 53.348435
 longitude: -1.22433
+score: 0.51
 ---
 
 The historic city of

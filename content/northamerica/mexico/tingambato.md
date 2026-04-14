@@ -5,6 +5,7 @@ latitude: 19.506387
 longitude: -101.85337
 title: Tingambato
 type: location
+score: 0.34
 ---
 
 Tingambato is a small village in the heart of avocado country in [Michoacán](/northamerica/mexico/michoacan), on the free road between [Uruapan](/northamerica/mexico/uruapan) and Pátzcuaro.

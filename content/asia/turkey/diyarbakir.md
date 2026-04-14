@@ -5,6 +5,7 @@ latitude: 37.9162
 longitude: 40.2363
 title: Diyarbakir
 type: location
+score: 0.48
 ---
 
 Diyarbakır is defined by its walls — a nearly continuous 6km circuit of black basalt built by the Romans and extended by successive rulers over two millennia. Walk the top of them for views over the old city, the Tigris valley, and the flat steppe stretching toward the Syrian border. The walls were designated a UNESCO World Heritage Site in 2015, together with the gardens (hevsel bahçeleri) that fill the flood plain below.

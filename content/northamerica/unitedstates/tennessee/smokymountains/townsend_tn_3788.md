@@ -5,6 +5,7 @@ latitude: 35.6754
 longitude: -83.7557
 title: Townsend
 type: location
+score: 0.51
 ---
 
 Townsend is a small, unhurried town on the western edge of Great Smoky Mountains National Park — far quieter than Gatlinburg or Pigeon Forge and better for it. The Little River runs clear and fast through the valley, and the surrounding mountains press in close on all sides.

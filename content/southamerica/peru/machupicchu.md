@@ -5,6 +5,7 @@ latitude: -13.164341
 longitude: -72.545009
 done:
   location_cleanup: 2026-04-05
+score: 0.91
 ---
 
 **Machu Picchu** 

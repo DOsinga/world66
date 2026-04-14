@@ -5,6 +5,7 @@ latitude: 57.72597
 longitude: 10.58446
 title: Skagen
 type: location
+score: 0.61
 ---
 
 Skagen sits at the very tip of Denmark, where the Skagerrak and Kattegat seas collide in visible, clashing wave patterns that stretch for miles. Walking out to Grenen — the actual northernmost point — you can stand with one foot in each sea. A derelict WWII bunker at the beach's edge is a stark reminder of this coastline's strategic importance.

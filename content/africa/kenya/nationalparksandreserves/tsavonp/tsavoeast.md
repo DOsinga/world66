@@ -5,6 +5,7 @@ latitude: -2.842033
 longitude: 38.818984
 title: Tsavo East
 type: location
+score: 0.64
 ---
 
 Tsavo East is the open, elemental half of Kenya's largest national park — flat red plains stretching in every direction, enormous herds of elephant, and skies that seem twice as wide as anywhere else in Africa. Where [Tsavo West](/africa/kenya/nationalparksandreserves/tsavonp/tsavowest) has drama and topography, the East has scale and silence.

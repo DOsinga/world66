@@ -1,10 +1,11 @@
 ---
-title: "Seydisfjordur"
+title: Seydisfjordur
 type: location
 latitude: 65.259848
 longitude: -14.004901
 done:
   location_cleanup: 2026-04-07
+score: 0.63
 ---
 
 Seyðisfjörður is one of Iceland's most striking small towns, tucked at the end of a long fjord in the East Fjords region and reached by a dramatic mountain road that drops in hairpin bends from the highland plateau. The town is small — around 700 people — but punches well above its weight for culture and atmosphere.

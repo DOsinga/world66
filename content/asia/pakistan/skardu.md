@@ -5,6 +5,7 @@ latitude: 35.286372
 longitude: 75.640075
 title: Skardu
 type: location
+score: 0.54
 ---
 
 Skardu, the capital of Baltistan, is situated on the banks of the mighty river Indus, just 8 km above its confluence with the river Shigar. Around it are high peaks, deep gorges and some of the most beautiful mountain scenery on the planet. 

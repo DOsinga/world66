@@ -5,6 +5,7 @@ latitude: 54.2616
 longitude: -2.191
 done:
   location_cleanup: 2026-04-05
+score: 0.63
 ---
 
 The Yorkshire Dales are a region of steep-sided river valleys — the dales of the name — cut through the limestone uplands of northern England, between the Lake District and the North York Moors. The whole area was designated a national park in 1954, and for anyone who has ever spent time there it remains one of the most beloved landscapes in Britain: dry-stone walls dividing impossibly green pasture, flocks of hardy sheep, grey limestone villages with names like Buttertubs and Muker, and long open walks up onto the peat moors and the tops of the fells. It is gentler and more pastoral than the Lake District to the west, and more populated, and the people are reliably warm in that particular Yorkshire way.

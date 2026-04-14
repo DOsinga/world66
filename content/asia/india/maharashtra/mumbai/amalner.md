@@ -1,8 +1,9 @@
 ---
-title: "amalner"
+title: amalner
 type: location
 latitude: 21.049319
 longitude: 75.057339
+score: 0.28
 ---
 
 Travel Guide

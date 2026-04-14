@@ -5,6 +5,7 @@ latitude: 45.935603
 longitude: 7.63044
 title: Cervinia
 type: location
+score: 0.6
 ---
 
 Breuil-Cervinia sits at 2,006 m at the foot of the Matterhorn — or Monte Cervino as the Italians call it — and what brought 19th-century climbers to the original village of Breuil is essentially what brings winter sports tourists now: altitude, and the exceptional snow reliability that comes with it. The slopes are gentle and extensive, the sun is generous, and the season runs reliably from November through May.

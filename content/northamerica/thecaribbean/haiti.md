@@ -5,6 +5,7 @@ latitude: 19.0558
 longitude: -72.3288
 done:
   location_cleanup: 2026-04-07
+score: 0.29
 ---
 
 Haiti occupies the western third of Hispaniola, the island it shares with the Dominican Republic. It was the first Black republic in the world, winning independence from France in 1804 after the only successful slave revolution in history — a fact that shapes its identity, its fierce national pride, and its complicated relationship with the outside world.

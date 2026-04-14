@@ -5,6 +5,7 @@ latitude: 51.315783
 longitude: 9.497848
 title: Kassel
 type: location
+score: 0.48
 ---
 
 Kassel is best known for two things: the documenta, one of the world's most important contemporary art exhibitions held every five years, and the Bergpark Wilhelmshöhe, a hillside park crowned by the colossal Herkules statue that is the city's landmark. The park is a UNESCO World Heritage Site — its cascading water features, running down the hillside from the Herkules to the palace lake below, are a spectacle that has drawn crowds for centuries.

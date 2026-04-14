@@ -1,8 +1,9 @@
 ---
-title: "Crete"
+title: Crete
 type: location
 latitude: 35.308495
 longitude: 24.463342
+score: 0.79
 ---
 
 Crete is home to the oldest civilization of Europe. The Minoan civilization predates that of the rest of Europe by a good few hunderd years. The temples and palaces they built were the basis of many myths and are still one of the most impressive archeological sites.

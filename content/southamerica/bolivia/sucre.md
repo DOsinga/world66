@@ -5,6 +5,7 @@ latitude: -19.047725
 longitude: -65.259431
 title: Sucre
 type: location
+score: 0.6
 ---
 
 Sucre is Bolivia's constitutional capital and one of the most beautiful cities in South America. Founded in 1538 as La Plata and later renamed, it became the seat of the Audiencia de Charcas and played a central role in Bolivian independence — the country's declaration was signed here in 1825. In 1991 UNESCO declared the city a World Heritage Site, recognizing its exceptional collection of colonial architecture.

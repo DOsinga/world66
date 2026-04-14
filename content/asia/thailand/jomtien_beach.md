@@ -5,6 +5,7 @@ latitude: 12.8783
 longitude: 100.872
 title: Jomtien Beach
 type: location
+score: 0.62
 ---
 
 Jomtien Beach stretches for six kilometres along the Gulf of Thailand, just south of [Pattaya](/asia/thailand/pattaya). Where Pattaya is loud and relentless, Jomtien is the quieter neighbour -- still lively, but with a more relaxed pace that draws long-stay visitors, families, and anyone who prefers their beach without a thumping bass line.

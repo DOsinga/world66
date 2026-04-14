@@ -9,6 +9,7 @@ image_license: CC BY-SA 4.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Gzzz" title="User:Gzzz">Gzzz</a>
 done:
   country_cleanup: 2026-03-31
+score: 0.87
 ---
 
 The Maldives is an archipelago of 26 atolls and roughly 1,200 coral islands scattered across the Indian Ocean southwest of India. Only about 200 islands are inhabited. The rest are either uninhabited wilderness, private resort islands, or just sandbanks. It is one of the flattest countries on earth: the highest natural point sits around 2.4 meters above sea level.

@@ -5,6 +5,7 @@ latitude: -7.1617
 longitude: -78.5128
 title: Cajamarca
 type: location
+score: 0.55
 ---
 
 Cajamarca is one of [Peru](/southamerica/peru)'s most historically significant cities and one of the most rewarding to visit. It was here, in November 1532, that Francisco Pizarro ambushed and captured the Inca emperor Atahualpa — a turning point in the Spanish conquest of South America. The Cuarto del Rescate (Ransom Room), where Atahualpa agreed to fill a room with gold and silver in exchange for his freedom, still stands and can be visited.

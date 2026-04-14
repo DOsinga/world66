@@ -5,6 +5,7 @@ latitude: 42.567708
 longitude: 8.759053
 title: Calvi
 type: location
+score: 0.67
 ---
 
 Calvi sits on the northwest coast of [Corsica](/europe/france/corsica), a port town dominated by a massive Genoese citadel that is visible from far out at sea. Below the fortress walls, the Basse Ville is a compact tangle of restaurants, markets, and cafes centred on a lively harbour.

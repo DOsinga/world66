@@ -5,6 +5,7 @@ latitude: 47.2517
 longitude: 16.9342
 title: Sárvár
 type: location
+score: 0.49
 ---
 
 Sárvár is a small town in western Hungary known for its castle and its thermal baths. The Nádasdy Castle sits at the centre of town, reached by a long stone bridge that once crossed a moat. The five-sided Renaissance fortress served as both a military stronghold and an aristocratic residence from the 16th century, and its lavishly decorated interior now houses the Ferenc Nádasdy Museum — one of Hungary's finest castle museums, with exhibitions on the town's history, Hungarian Hussars, and a rich collection of applied art.

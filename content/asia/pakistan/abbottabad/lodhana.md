@@ -1,6 +1,7 @@
 ---
-title: "lodhana"
+title: lodhana
 type: location
+score: 0.22
 ---
 
 Travel Guide

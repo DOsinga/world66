@@ -5,6 +5,7 @@ latitude: 32.3022
 longitude: 75.6589
 title: Pathankot
 type: location
+score: 0.35
 ---
 
 Pathankot is a transport junction in northern Punjab, the gateway to the hill stations and mountain valleys of Himachal Pradesh and [Jammu and Kashmir](/asia/india/jammuandkashmir). Most travellers pass through rather than linger, but it serves as a useful staging point for journeys to [Dalhousie](/asia/india/himachalpradesh/dalhousie), [Kangra](/asia/india/himachalpradesh/kangra), Chamba, and the deeper Himalayas.

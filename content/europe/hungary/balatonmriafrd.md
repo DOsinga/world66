@@ -1,6 +1,7 @@
 ---
-title: "BalatonmÃ¡riafürdÅ‘"
+title: BalatonmÃ¡riafürdÅ‘
 type: location
+score: 0.39
 ---
 
 Travel Guide

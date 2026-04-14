@@ -5,6 +5,7 @@ latitude: 18.3923
 longitude: -88.3975
 title: Corozal Town
 type: location
+score: 0.45
 ---
 
 Corozal is a small, quiet town on the northern coast near the Mexican border, overlooking Corozal Bay. It's not a major tourist destination but is pleasant enough — laid-back, relatively safe, and useful as a stopping point if you're crossing into Mexico at Chetumal.

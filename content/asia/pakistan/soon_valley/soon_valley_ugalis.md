@@ -1,6 +1,7 @@
 ---
-title: "Soon Valley Ugalisharif"
+title: Soon Valley Ugalisharif
 type: location
+score: 0.37
 ---
 
 Travel Guide

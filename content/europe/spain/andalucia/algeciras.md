@@ -5,6 +5,7 @@ latitude: 36.1312
 longitude: -5.4474
 title: Algeciras
 type: location
+score: 0.46
 ---
 
 Algeciras is a busy port city on the Bay of Gibraltar, the main Spanish departure point for ferries to [Ceuta](/africa/ceuta) and [Tangier](/africa/morocco/tangier) in Morocco. Most travellers pass through quickly on their way to Africa, but the city has a certain rough-edged charm if you have time to kill.

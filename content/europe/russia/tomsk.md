@@ -5,6 +5,7 @@ latitude: 56.4847
 longitude: 84.9482
 title: Tomsk
 type: location
+score: 0.39
 ---
 
 Tomsk is one of Siberia's oldest and most attractive cities, founded in 1604 as a fortress on the Tom River. Unlike most Siberian cities, which were rebuilt in Soviet concrete, Tomsk preserved a remarkable collection of wooden houses — ornately carved, painted in faded pastels, and leaning slightly with age. The wooden architecture alone makes it worth a detour.

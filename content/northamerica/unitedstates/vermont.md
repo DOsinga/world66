@@ -1,8 +1,9 @@
 ---
-title: "Vermont"
+title: Vermont
 type: location
 latitude: 44.599072
 longitude: -72.500261
+score: 0.62
 ---
 
 Vermont is one of the most attractive states of New England. Located between the Canadian border, [New York](/northamerica/unitedstates/newyorkstate/newyork), [New Hampshire](/northamerica/unitedstates/newhampshire) and [Massachusetts](/northamerica/unitedstates/massachusetts), Vermont is also known as The Green Mountain state. Vermont's peaceful beauty is unique in the Northeast. It is a place where farm fields still roll right up to the edge of villages and where lofty mountains and crystal clear lakes are everyday companions. Wild deer still occasionally browse on the lawn at the Vermont State House in [Montpelier](/northamerica/unitedstates/vermont/montpelier), and nature is close at hand everywhere.

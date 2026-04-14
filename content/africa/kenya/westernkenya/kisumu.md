@@ -5,6 +5,7 @@ latitude: -0.102911
 longitude: 34.754176
 title: Kisumu
 type: location
+score: 0.45
 ---
 
 Kisumu is Kenya’s third largest city and the beating heart of the western region. It sits on the eastern shore of [Lake Victoria](/africa/kenya/westernkenya), the world’s largest tropical lake, and carries a character all its own — hot and humid, unhurried, more reminiscent of coastal Mombasa than highland Nairobi.

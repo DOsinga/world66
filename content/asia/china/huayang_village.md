@@ -5,6 +5,7 @@ latitude: 33.5639
 longitude: 107.5097
 title: Huayang Village
 type: location
+score: 0.34
 ---
 
 Huayang is a tiny village in Shaanxi Province where people still live a traditional lifestyle and practise traditional agricultural methods. The village has one modern hotel and a restaurant serving local dishes and Shaanxi specialities.

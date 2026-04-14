@@ -11,6 +11,7 @@ image_attribution: Martin St-Amant (<a href="//commons.wikimedia.org/wiki/User:S
   href="//commons.wikimedia.org/wiki/User:Julia_W" title="User:Julia W">Julia W</a>
 done:
   country_cleanup: 2026-03-29
+score: 0.7
 ---
 
 Bolivia is a landlocked country in South America. It borders on [Peru](../peru) and [Chile](../chile) in the west, [Argentina](../argentina) and [Paraguay](../paraguay) in the south and [Brazil](../brazil) in the east and north. About half of the country lies in the Andean Highlands, located in the western part, where you will find the most interesting sights like Lake Titicaca, the capital La Paz, the city of [Oruro](oruro), that has a great carnival. In the southern Highlands [Potosi](potosi), the famous silver mine city and [Sucre](sucre) are the most interesting spots. The eastern half of Bolivia is tropical, hot and humid. Santa Cruz is an interesting place in the tropical bassin.

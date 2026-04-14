@@ -1,8 +1,9 @@
 ---
-title: "Cape Town"
+title: Cape Town
 type: location
 latitude: -33.92883
 longitude: 18.41722
+score: 0.81
 ---
 
 Cape Town has the most beautiful of settings, on the coast with the flat top Tafelberg behind the city. Combine that with a very nice climate and some pretty good sight seeing opportunities and you have a perfect travel destination.

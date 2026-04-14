@@ -5,6 +5,7 @@ latitude: -45.41449
 longitude: 167.717489
 title: Te Anau
 type: location
+score: 0.72
 ---
 
 Te Anau is a small town on the eastern shore of Lake Te Anau, the gateway to [Fiordland National Park](/australiaandpacific/newzealand/otago/fiordland) and one of the most spectacular wilderness areas in New Zealand. It sits roughly halfway between [Queenstown](/australiaandpacific/newzealand/otago/queenstown) and [Milford Sound](/australiaandpacific/newzealand/otago/fiordland/milfordsound), about two hours' drive from each.

@@ -5,6 +5,7 @@ latitude: 42.2528
 longitude: -73.7907
 title: Hudson
 type: location
+score: 0.43
 ---
 
 Hudson has one of the more colourful backstories of any small city in New York State. It started as a whaling port, reinvented itself as a semi-official centre for prostitution and gambling that flourished into the early 1950s, and has since transformed again into one of the most talked-about small towns in the Hudson River Valley.

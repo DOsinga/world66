@@ -1,6 +1,7 @@
 ---
-title: "Eagle Base"
+title: Eagle Base
 type: location
+score: 0.25
 ---
 
 Travel Guide

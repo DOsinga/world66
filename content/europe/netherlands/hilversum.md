@@ -5,6 +5,7 @@ latitude: 52.2241
 longitude: 5.1719
 done:
   location_cleanup: 2026-04-06
+score: 0.42
 ---
 
 Hilversum is the media capital of the Netherlands — most Dutch television and radio broadcasters are based here, and the broadcasting tower is visible from kilometres around. The town is 30 km southeast of Amsterdam in the Gooi region, in an area of heathland and mixed forest.

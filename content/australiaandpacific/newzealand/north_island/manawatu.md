@@ -5,6 +5,7 @@ latitude: -40.32841
 longitude: 175.819068
 title: Manawatu
 type: location
+score: 0.42
 ---
 
 The Manawatu is a region of the lower North Island named for its great river — powerful enough to cut a gorge through the Ruahine Range that divides the eastern and western coasts. The Manawatu Gorge is one of the more dramatic natural features of the lower North Island, and the river drains catchments on both sides of the main mountain range.

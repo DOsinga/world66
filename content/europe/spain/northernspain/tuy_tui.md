@@ -5,6 +5,7 @@ latitude: 42.050137
 longitude: -8.646641
 title: Tuy [Tui]
 type: location
+score: 0.48
 ---
 
 Tui sits in the south of [Galicia](/europe/spain/galicia), right on the Portuguese border. The two countries are linked here by an iron bridge designed by Gustave Eiffel. As a frontier town in a historically contested region, Tui is built on a hilltop with commanding views over the Miño river valley into [Portugal](/europe/portugal).

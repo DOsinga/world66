@@ -5,6 +5,7 @@ latitude: 50.7466
 longitude: -3.2724
 title: Ottery St Mary
 type: location
+score: 0.39
 ---
 
 Ottery St Mary is a small market town in the Otter valley of east Devon, best known for two things: it is the birthplace of Samuel Taylor Coleridge, and every 5 November it holds one of England's most extraordinary Guy Fawkes celebrations — the Tar Barrels, where locals hoist flaming barrels of tar onto their backs and run through the packed streets. It is as dangerous and exhilarating as it sounds.

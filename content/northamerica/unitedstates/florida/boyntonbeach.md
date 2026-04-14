@@ -5,6 +5,7 @@ latitude: 26.5289
 longitude: -80.0581
 title: Boynton Beach
 type: location
+score: 0.37
 ---
 
 Boynton Beach is a mid-sized city on Florida's southeast coast, wedged between West Palm Beach to the north and Delray Beach to the south. It is less flashy than its neighbours but has a pleasant stretch of public beach and a growing downtown with restaurants and breweries around the marina.

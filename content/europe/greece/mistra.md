@@ -1,6 +1,7 @@
 ---
-title: "Mistra"
+title: Mistra
 type: location
 latitude: 37.068905
 longitude: 22.375748
+score: 0.61
 ---

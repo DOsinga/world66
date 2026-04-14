@@ -5,6 +5,7 @@ latitude: 52.5187
 longitude: -1.9923
 title: West Bromwich
 type: location
+score: 0.3
 ---
 
 West Bromwich grew from a roadside settlement on the main route from the northwest to London into an industrial town shaped by the Black Country's coal seams and iron foundries during the 18th and 19th centuries. Mining is long gone and the steel industry followed, leaving the town with above-average unemployment and a landscape that is more post-industrial than picturesque. It sits in a dense West Midlands conurbation stretching between Birmingham and Wolverhampton.

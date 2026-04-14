@@ -1,8 +1,9 @@
 ---
-title: "Valencia"
+title: Valencia
 type: location
 latitude: 39.469707
 longitude: -0.376335
+score: 0.71
 ---
 
 Valencia is the third largest city in Spain, but one of the least visited by tourists. This is mainly due to it being more of a working city. However,during the summer, Valencia is known for its beach during the day and the clubs and bars at night. One key thing to remember though if you want to partake in the night life is that it doesn't start until really late. If you get there too early (before about 1am) you will think that Valencia has the worst night life ever, as you will be the only one there.

@@ -5,6 +5,7 @@ latitude: 6.015599
 longitude: 133.632646
 title: Angaur
 type: location
+score: 0.48
 ---
 
 Angaur is the southernmost inhabited island of Palau, a small flat island of about 8 square kilometres sitting apart from the main Palauan island chain. It is one of Palau's least-visited destinations, with a small resident population and no significant tourist infrastructure.

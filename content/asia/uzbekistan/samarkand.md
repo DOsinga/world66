@@ -5,6 +5,7 @@ latitude: 39.6542
 longitude: 66.9597
 title: Samarkand
 type: location
+score: 0.72
 ---
 
 The Registan is the reason most people come to Samarkand, and rightly so. Three massive madrasas face each other across a single square, their facades covered in tile work so intricate it stops you in your tracks. It is one of the finest pieces of Islamic architecture anywhere, on par with the Alhambra or the Blue Mosque.

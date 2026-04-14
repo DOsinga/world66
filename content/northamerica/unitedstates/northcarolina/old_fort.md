@@ -5,6 +5,7 @@ latitude: 35.629337
 longitude: -82.181083
 title: Old Fort
 type: location
+score: 0.38
 ---
 
 Old Fort is a small mountain town in [McDowell County](/northamerica/unitedstates/northcarolina/mcdowell_county), sitting at the eastern gateway to the Blue Ridge. It is a modest place — a few hundred people, a main street, a train depot — but it has an easy, unpretentious character and more to offer than its size suggests.

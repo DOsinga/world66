@@ -5,6 +5,7 @@ latitude: 41.798561
 longitude: 13.220489
 title: Fiuggi
 type: location
+score: 0.51
 ---
 
 Fiuggi is a town in the province of Frosinone, in the region of [Lazio](/europe/italy/lazio), in central Italy. Fiuggi, originally called Anticoli di Campagna, gained fame as early as the 14th century, when Pope Boniface VIII claimed his kidney stones had been healed by the mineral waters from the nearby Fiuggi spring. Two centuries later Michelangelo also extolled the virtues of the water that cured him of what he called "the only kind of stone I couldn't love." Soon Acqua di Fiuggi was being sent in bottles to all of Europe's royalty.

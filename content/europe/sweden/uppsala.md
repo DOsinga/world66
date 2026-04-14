@@ -5,6 +5,7 @@ latitude: 59.8586
 longitude: 17.6387
 done:
   location_cleanup: 2026-04-07
+score: 0.6
 ---
 
 Uppsala is Sweden's ancient spiritual and intellectual capital, a city where Viking burial mounds and a medieval cathedral sit alongside one of Europe's oldest universities. With a population of around 175,000, it is Sweden's fourth largest city, yet it has the feel of a small town — compact, walkable, and shaped by its 30,000 students.

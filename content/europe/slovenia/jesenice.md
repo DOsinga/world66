@@ -1,6 +1,7 @@
 ---
-title: "Jesenice"
+title: Jesenice
 type: location
 latitude: 46.43237
 longitude: 14.062394
+score: 0.42
 ---

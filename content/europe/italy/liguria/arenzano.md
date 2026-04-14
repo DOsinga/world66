@@ -5,6 +5,7 @@ latitude: 44.402518
 longitude: 8.683132
 done:
   location_cleanup: 2026-04-07
+score: 0.55
 ---
 
 Arenzano is a small seaside town on the Ligurian Riviera di Ponente, about 25km west of Genoa, sitting between Cape Invrea and the cliffs of the Lastroni. It shares the rocky coastline with neighbouring Cogoleto, the two communities divided by Cape San Martino. Today Arenzano is a quiet beach resort popular with Genoese families.

@@ -5,6 +5,7 @@ latitude: -7.7743
 longitude: 35.4826
 title: Iringa
 type: location
+score: 0.42
 ---
 
 Iringa is a provincial capital in the Tanzanian Southern Highlands, set on a dramatic escarpment at 1,600 metres. The altitude keeps it cooler than most of Tanzania, the scenery is striking, and the town itself is relaxed and largely tourist-free — a rare thing in this part of the world.

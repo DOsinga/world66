@@ -5,6 +5,7 @@ latitude: 50.796837
 longitude: -2.344732
 title: Dorset
 type: location
+score: 0.6
 ---
 
 Dorset is one of England's most beautiful counties — mostly rural, with rolling chalk downs, wide clay valleys full of small dairy farms, and a coastline that is genuinely spectacular. The Jurassic Coast, a 95-mile stretch of cliffs and beaches from Studland to Lyme Regis, is a UNESCO World Heritage Site and one of the finest geological exposures in the world. Fossils tumble out of the cliffs after every winter storm.

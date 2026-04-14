@@ -5,6 +5,7 @@ latitude: 43.2355
 longitude: 17.0907
 title: Makarska Riviera
 type: location
+score: 0.69
 ---
 
 The Makarska Riviera is a 60 km stretch of the central Dalmatian coast, backed by the dramatic wall of Mount Biokovo and facing the islands of Brač and Hvar across a sparkling channel. Many consider it the most beautiful section of the entire Croatian coastline, and it is hard to argue — the combination of long pebble beaches, clear Adriatic water, and a mountain that rises straight out of the sea to nearly 1,800 metres is extraordinary.

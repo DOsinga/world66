@@ -1,6 +1,7 @@
 ---
-title: "Ketchikan"
+title: Ketchikan
 type: location
 latitude: 55.34307
 longitude: -131.646682
+score: 0.57
 ---

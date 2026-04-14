@@ -7,6 +7,7 @@ image: heliopolis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Baron_Palace.JPG
 image_license: CC BY 3.0
 image_attribution: amr moustafa shalaby
+score: 0.4
 ---
 
 Heliopolis carries two histories at once. The ancient one — Iunu, City of the Sun, seat of the cult of Ra — is mostly gone. Where priests once tended to towering temples, Cairo's northeastern suburbs now sprawl. The one surviving monument is the Obelisk of Senusret I, a 68-tonne spike of pink granite that has stood in what is now the working-class neighbourhood of Matariyya since around 1950 BCE. It is the oldest standing obelisk in Egypt.

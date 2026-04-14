@@ -5,6 +5,7 @@ latitude: 47.204779
 longitude: -121.991637
 title: Enumclaw
 type: location
+score: 0.38
 ---
 
 Enumclaw sits at the foot of the Cascade foothills in southeast King County, about 45 miles southeast of Seattle. The town bills itself the "Gateway to Mt. Rainier," and the claim is honest: Highway 410 heads east out of downtown, climbs through timber country, and delivers you to Crystal Mountain ski area and Mt. Rainier National Park beyond.

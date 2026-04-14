@@ -5,6 +5,7 @@ latitude: 53.868402
 longitude: -1.902046
 title: Keighley
 type: location
+score: 0.37
 ---
 
 Keighley is a former mill town in West Yorkshire, now part of the Bradford Metropolitan District but still very much its own place. It sits at the confluence of the River Worth and the River Aire, on the edge of the moors that inspired the Brontes just a few miles up the road in Haworth.

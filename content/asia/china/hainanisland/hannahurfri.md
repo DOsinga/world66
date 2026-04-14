@@ -1,6 +1,7 @@
 ---
-title: "Hannahurfri"
+title: Hannahurfri
 type: location
+score: 0.31
 ---
 
 Travel Guide

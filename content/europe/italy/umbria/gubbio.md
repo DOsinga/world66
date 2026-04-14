@@ -5,6 +5,7 @@ latitude: 43.35176
 longitude: 12.577296
 title: Gubbio
 type: location
+score: 0.62
 ---
 
 Gubbio is the most convincingly medieval town in Umbria — possibly in all of Italy. Its grey stone streets climb steeply up the flank of Monte Ingino, its towers and palaces intact, its walls unbroken. There is no major highway running through, no sprawling suburb to negotiate. You arrive, you walk in, and you are five centuries back.

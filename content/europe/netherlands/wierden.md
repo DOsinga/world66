@@ -1,8 +1,9 @@
 ---
-title: "Wierden"
+title: Wierden
 type: location
 latitude: 52.351952
 longitude: 6.567448
+score: 0.33
 ---
 
 Cosy village in eastern part of the Netherlands.

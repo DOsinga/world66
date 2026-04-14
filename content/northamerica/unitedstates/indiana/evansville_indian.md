@@ -5,6 +5,7 @@ latitude: 37.970495
 longitude: -87.571564
 title: Evansville
 type: location
+score: 0.34
 ---
 
 Evansville is the third-largest city in Indiana, sitting on a bend of the Ohio River in the southwestern corner of the state. It is a regional center for business and the arts, and home to two universities — the University of Evansville and the University of Southern Indiana.

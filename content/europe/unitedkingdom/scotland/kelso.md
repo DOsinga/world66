@@ -5,6 +5,7 @@ latitude: 55.598379
 longitude: -2.433837
 title: Kelso
 type: location
+score: 0.52
 ---
 
 Kelso is one of the most appealing towns in the Scottish Borders, built at the confluence of the Tweed and Teviot rivers. Its large cobbled market square, flanked by Georgian and Victorian buildings, feels genuinely lived-in rather than preserved for tourists — there are independent shops here that have no interest in being photogenic.

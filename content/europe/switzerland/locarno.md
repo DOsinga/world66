@@ -5,6 +5,7 @@ latitude: 46.1696
 longitude: 8.7955
 title: Locarno
 type: location
+score: 0.66
 ---
 
 Locarno sits at the northern tip of Lake Maggiore in the Italian-speaking canton of Ticino, making it one of the warmest cities in [Switzerland](/europe/switzerland). The Piazza Grande, one of the finest public squares in the country, opens directly onto the lakeshore and every August becomes the open-air cinema of the Locarno Film Festival, one of the oldest and most respected film festivals in Europe.

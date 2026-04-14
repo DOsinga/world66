@@ -5,6 +5,7 @@ latitude: 52.4081
 longitude: -1.5104
 title: Coventry
 type: location
+score: 0.4
 ---
 
 Coventry is a city that earned its place in history the hard way. On the night of 14 November 1940, the Luftwaffe flattened the medieval centre in one of the most devastating raids of the Blitz, killing nearly 600 people and gutting the ancient cathedral. What the Germans left standing, postwar planners sometimes finished off — Coventry became a byword for brutal urban renewal. But the city has also produced something more interesting than any of its critics expected: a genuinely moving meditation on destruction and reconciliation, centred on the two cathedrals that now stand side by side, one ruined and one rebuilt.

@@ -5,6 +5,7 @@ latitude: 53.146093
 longitude: -3.75992
 title: Conwy
 type: location
+score: 0.63
 ---
 
 Conwy is one of the best-preserved medieval walled towns in Britain. The town walls, built by Edward I in the 1280s as part of his ring of fortresses across north Wales, still encircle the old town almost completely — you can walk the full circuit of the battlements and look down into the streets below. Conwy Castle itself is an impressive hulk of towers and great halls perched above the estuary, and along with the walls it forms a UNESCO World Heritage Site.

@@ -5,6 +5,7 @@ latitude: 41.1496
 longitude: -8.611
 done:
   location_cleanup: 2026-04-06
+score: 0.82
 ---
 
 Porto is Portugal's second city and, in many ways, its most honest one. As the Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies, and Porto works." It is a place that has never tried to be pretty for visitors, yet its unvarnished beauty — crumbling azulejo facades, granite churches, iron bridges spanning the Douro gorge — makes it one of Europe's most rewarding cities.

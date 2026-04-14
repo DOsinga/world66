@@ -5,6 +5,7 @@ latitude: 42.7485
 longitude: 17.0532
 title: Miljet Island
 type: location
+score: 0.66
 ---
 
 Mljet is one of the most appealing day trips from [Dubrovnik](/europe/croatia/dubrovnik), though it deserves more time if you can spare it. The western end of the island is a national park built around two stunning inland saltwater lakes connected by a narrow channel.

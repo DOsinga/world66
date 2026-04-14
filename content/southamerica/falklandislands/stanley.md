@@ -5,6 +5,7 @@ latitude: -51.693062
 longitude: -57.856525
 title: Stanley
 type: location
+score: 0.53
 ---
 
 Stanley — also known as Port Stanley — is the capital and only town of any size in the [Falkland Islands](/southamerica/falklandislands), home to around 2,200 of the territory's 3,500 residents. It sits on the north shore of East Falkland, a collection of brightly painted houses strung along the harbour, looking out toward the South Atlantic.

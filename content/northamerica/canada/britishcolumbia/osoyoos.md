@@ -5,6 +5,7 @@ latitude: 49.033333
 longitude: -119.466667
 done:
   location_cleanup: 2026-04-07
+score: 0.52
 ---
 
 Osoyoos sits in the only true desert in Canada — the northern tip of the Great Basin Desert that extends up from the American southwest through Washington State into British Columbia. The Okanagan Valley here is hot, dry, and brown, surrounded by sand dunes, cactus, and rattlesnakes, with Osoyoos Lake at its centre. Summers are the hottest in Canada, regularly exceeding 40°C.

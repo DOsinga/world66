@@ -5,6 +5,7 @@ latitude: 23.1885
 longitude: 75.7717
 done:
   location_cleanup: 2026-04-07
+score: 0.5
 ---
 
 Ujjain is one of the seven sacred cities of Hinduism, an ancient place on the banks of the Kshipra River in [Madhya Pradesh](/asia/india/madhyapradesh) that has been a centre of learning, astronomy, and pilgrimage for over two thousand years. The city was the capital of the kingdom of Avanti in the time of the Buddha, and later the court of the legendary King Vikramaditya, whose patronage made it a golden age of Sanskrit literature.

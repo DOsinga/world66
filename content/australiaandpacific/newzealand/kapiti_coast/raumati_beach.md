@@ -5,6 +5,7 @@ latitude: -40.918611
 longitude: 174.980706
 title: Raumati Beach
 type: location
+score: 0.42
 ---
 
 Raumati Beach is a small seaside suburb on the Kapiti Coast, sitting between Paraparaumu to the north and Paekakariki to the south. It has a long sandy beach facing west across the Tasman Sea, with Kapiti Island sitting just offshore — close enough to look enormous at sunset.

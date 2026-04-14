@@ -5,6 +5,7 @@ latitude: 44.486179
 longitude: 8.306101
 title: Piana Crixia
 type: location
+score: 0.42
 ---
 
 Piana Crixia sits on the northern slope of the Ligurian Apennines in the valley of the Bormida di Spigno, well inland from the coast. The main reason to come here is the Fungo di Piana Crixia — a striking mushroom-shaped rock formation created by an unusual process of erosion, now protected as a natural monument.

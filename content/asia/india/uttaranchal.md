@@ -1,8 +1,9 @@
 ---
-title: "Uttaranchal"
+title: Uttaranchal
 type: location
 latitude: 30.041738
 longitude: 79.089691
+score: 0.57
 ---
 
 Small state in the north of India.

@@ -5,6 +5,7 @@ latitude: -18.141588
 longitude: 178.442166
 title: Suva
 type: location
+score: 0.53
 ---
 
 Suva is the capital of Fiji and the largest city in the South Pacific outside of Australia and New Zealand. It sits on a hilly peninsula on the southeast coast of Viti Levu, surrounded by lush green hills that catch a lot of rain — this is not a beach destination, but a real working city with more character than the resort strips along the western coast.

@@ -5,6 +5,7 @@ latitude: 45.184021
 longitude: 0.716039
 title: Périgueux
 type: location
+score: 0.59
 ---
 
 Périgueux is the administrative capital of the Dordogne, set on the banks of the river Isle. It is a town of two distinct histories: a Roman city whose ruins still punctuate the modern streets, and a medieval centre that grew up around one of the most distinctive cathedrals in France.

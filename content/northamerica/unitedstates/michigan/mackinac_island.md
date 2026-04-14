@@ -5,6 +5,7 @@ latitude: 45.84907
 longitude: -84.619857
 title: Mackinac Island
 type: location
+score: 0.59
 ---
 
 Mackinac Island sits in Lake Huron just east of the Mackinac Bridge, reachable only by ferry or small plane. Private motor vehicles have been banned since the early twentieth century — everything moves by horse, bicycle, or on foot, and the clip-clop of hooves on the main street sets the pace for the whole island.

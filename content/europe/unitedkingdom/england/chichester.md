@@ -5,6 +5,7 @@ latitude: 50.836486
 longitude: -0.779172
 title: Chichester
 type: location
+score: 0.53
 ---
 
 Chichester is a compact cathedral city in West Sussex, close to [Portsmouth](/europe/unitedkingdom/england/portsmouth) and about 17 miles west of Brighton. The Romans founded it as Noviomagus Reginorum, and the city's cross-shaped street plan still follows the original layout, with the four main streets meeting at the Market Cross in the centre.

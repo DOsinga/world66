@@ -1,8 +1,9 @@
 ---
-title: "The Coast"
+title: The Coast
 type: location
 latitude: -4.051406
 longitude: 39.669456
+score: 0.5
 ---
 
 It sometimes seams as if the Swahili Coast is not part of Kenya at all. The culture of the Coast is a unique mix of African Bantu and Arab Muslim influences, a combination created by Arab traders who arrived on the Kenyan Coast before the 7th Century. By the 12th Century, permanent settlements were formed, and the Arabs took root. Arab men took African women as wives, and the Swahili people were born. Of course communication was necessary, so Kiswahili arose from the mixing of Africans’ tribal tongues and the traders’ Arabic.

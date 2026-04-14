@@ -1,8 +1,9 @@
 ---
-title: "Durgapur"
+title: Durgapur
 type: location
 latitude: 23.534948
 longitude: 87.303368
+score: 0.3
 ---
 
 *Asia > India > West Bengal > Durgapur*

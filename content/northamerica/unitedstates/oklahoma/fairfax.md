@@ -5,6 +5,7 @@ latitude: 36.573
 longitude: -96.704
 title: Fairfax
 type: location
+score: 0.28
 ---
 
 Fairfax is a small town of about 1,500 people in Osage County, in the heart of the Osage Nation. It gained worldwide attention through David Grann's book *Killers of the Flower Moon*, which documents the systematic murders of Osage people during the 1920s oil boom — a dark chapter in American history that unfolded right here.

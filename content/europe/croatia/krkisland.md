@@ -5,6 +5,7 @@ latitude: 45.090196
 longitude: 14.549668
 title: Krk Island
 type: location
+score: 0.67
 ---
 
 Krk is one of the largest islands in the Adriatic, covering 406 square kilometres off the northern Croatian coast. Unlike most Croatian islands, it is connected to the mainland by a bridge, and Rijeka airport sits on the island itself — making it one of the most accessible islands in the country.

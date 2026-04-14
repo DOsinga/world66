@@ -5,6 +5,7 @@ latitude: -8.69056
 longitude: 115.168704
 title: Seminyak
 type: location
+score: 0.73
 ---
 
 Seminyak is [Bali](/asia/indonesia/bali)'s upmarket beach strip, running north from [Kuta](/asia/indonesia/bali/kuta) and Legian along the west coast. What was once a quiet township is now the island's centre for boutique shopping, international restaurants, and beach clubs — a world away from Kuta's backpacker scene just down the road.

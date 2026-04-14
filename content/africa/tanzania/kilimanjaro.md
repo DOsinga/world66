@@ -5,6 +5,7 @@ latitude: -3.078653
 longitude: 37.419856
 done:
   location_cleanup: 2026-04-06
+score: 0.68
 ---
 
 **Part of history**

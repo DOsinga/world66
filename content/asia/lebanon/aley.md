@@ -5,6 +5,7 @@ latitude: 33.80827
 longitude: 35.606118
 title: Aley
 type: location
+score: 0.44
 ---
 
 Aley is a mountain town perched above [Beirut](/asia/lebanon/beirut) in the Mount Lebanon range, popular as a summer retreat when the coastal heat becomes oppressive. The cool mountain air, traditional stone houses and hillside restaurants make it a pleasant escape from the city, just 30 minutes up the winding mountain road.

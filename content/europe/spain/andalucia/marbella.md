@@ -1,8 +1,9 @@
 ---
-title: "Marbella"
+title: Marbella
 type: location
 latitude: 36.508976
 longitude: -4.88562
+score: 0.64
 ---
 
 Over time, Marbella has become a magnificent town, which concentrates on offering a multitude of attractions such as beautiful beaches, golf courses, pleasure harbours like Puerto Banus, luxury hotels, restaurants, commercial centres and its unbeatable natural surroundings and intense nightlife to its thousands of visitors. 

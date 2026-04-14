@@ -5,6 +5,7 @@ latitude: 7.584971
 longitude: -1.936401
 title: Techiman
 type: location
+score: 0.34
 ---
 
 Techiman is a bustling market town in the Bono East region of [Ghana](/africa/ghana), and its central market is one of the largest in West Africa. On market days — particularly Wednesdays — traders come from across the region to buy and sell everything from yams to textiles. If you want to experience Ghanaian commerce at its most energetic, this is the place.

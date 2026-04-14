@@ -5,6 +5,7 @@ latitude: 52.059575
 longitude: -9.505322
 title: Killarney
 type: location
+score: 0.68
 ---
 
 Killarney is the main base for exploring southwest Ireland's lake and mountain scenery — the national park, the Gap of Dunloe, and the Ring of Kerry all start from here. The town itself is not especially beautiful, but it has been hosting visitors for over two hundred years and does it well: there are pubs, restaurants, and places to stay in every price range.

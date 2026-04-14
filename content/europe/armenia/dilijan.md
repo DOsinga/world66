@@ -5,6 +5,7 @@ latitude: 40.741713
 longitude: 44.872221
 title: Dilijan
 type: location
+score: 0.52
 ---
 
 Dilijan is a small, forested town in Tavush province in northeastern Armenia, popular with Armenians as a weekend retreat and known as "Armenia's Little Switzerland." The comparison is flattering but the basic point holds: the air is cool, the hills are covered in deciduous forest, and it feels very different from the dry Ararat plain around Yerevan.

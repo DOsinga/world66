@@ -5,6 +5,7 @@ latitude: 35.701893
 longitude: 139.774368
 title: Akihabara
 type: location
+score: 0.66
 ---
 
 Akihabara — nicknamed "Electric Town" — is Tokyo's legendary electronics district, a dense cluster of multi-storey shops selling everything from the latest consumer gadgets to obscure vintage components. Its reputation took root after World War II, when surplus electrical parts flooded into the black market here, and it has never looked back.

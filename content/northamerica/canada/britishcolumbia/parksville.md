@@ -5,6 +5,7 @@ latitude: 49.317951
 longitude: -124.311739
 title: Parksville
 type: location
+score: 0.51
 ---
 
 Parksville is a small, welcoming town on the east coast of [Vancouver Island](/northamerica/canada/britishcolumbia), about two hours north of [Victoria](/northamerica/canada/britishcolumbia/victoria). It is known for its wide sandy beaches and unusually warm ocean water — at low tide the sand flats stretch hundreds of metres out and the shallow water warms in the sun, making it one of the best family swimming spots on the island.

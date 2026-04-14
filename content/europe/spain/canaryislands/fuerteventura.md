@@ -5,6 +5,7 @@ latitude: 28.4004
 longitude: -14.0049
 done:
   location_cleanup: 2026-04-07
+score: 0.67
 ---
 
 Fuerteventura is the oldest of the Canary Islands and the closest to the African coast, just 100 kilometres from Morocco. It is also the least developed, the least crowded, and the one with the best beaches. If you want turquoise water and white sand without fighting for a towel spot, this is your island.

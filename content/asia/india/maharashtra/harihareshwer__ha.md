@@ -1,6 +1,7 @@
 ---
-title: "Harihareshwer ( HAHAD/KONKAN)"
+title: Harihareshwer ( HAHAD/KONKAN)
 type: location
+score: 0.41
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: -42.56389
 longitude: 171.452334
 title: West Coast
 type: location
+score: 0.53
 ---
 
 The West Coast is the western edge of the [South Island](/australiaandpacific/newzealand/south_island), not all of [New Zealand](/australiaandpacific/newzealand). The Maori first came here for greenstone, then the Pakeha for gold, then coal, then they cut down trees to farm the land. But there was still plenty left over: glaciers, native forests, high mountains, lakes and rivers — and, of course, rain.

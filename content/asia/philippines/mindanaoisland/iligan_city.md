@@ -1,8 +1,9 @@
 ---
-title: "Iligan City"
+title: Iligan City
 type: location
 latitude: 14.328436
 longitude: 121.031347
+score: 0.41
 ---
 
 Travel Guide

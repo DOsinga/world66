@@ -5,6 +5,7 @@ latitude: 30.2241
 longitude: -92.0198
 title: Lafayette, LA
 type: location
+score: 0.43
 ---
 
 Lafayette is the heart of Acadiana — the stretch of southern Louisiana settled by French-speaking Acadians expelled from Nova Scotia in the 18th century. More than anywhere else in America, this is where Cajun culture survived and flourished: the food, the music, and the French-inflected English spoken by older residents are all distinctly local.

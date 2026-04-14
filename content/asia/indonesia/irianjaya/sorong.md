@@ -5,6 +5,7 @@ latitude: -0.8634
 longitude: 131.2545
 title: Sorong
 type: location
+score: 0.44
 ---
 
 Sorong sits at the westernmost tip of the Bird's Head Peninsula, a fading oil town with rusting tin roofs stretching along eight kilometres of coastline. It is not a place anyone comes to for its own sake.

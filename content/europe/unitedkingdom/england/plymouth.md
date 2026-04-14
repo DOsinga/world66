@@ -5,6 +5,7 @@ latitude: 50.371412
 longitude: -4.142445
 title: Plymouth
 type: location
+score: 0.48
 ---
 
 Plymouth is a naval city with a long memory. Its dockyard made it a prime bombing target in the Second World War, and the hurried post-war rebuilding left a centre that feels like a museum of late-1940s town planning. But look past the concrete and there is a city with real character, shaped by centuries of maritime history and a dramatic waterfront setting.

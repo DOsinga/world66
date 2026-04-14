@@ -5,6 +5,7 @@ latitude: 51.069061
 longitude: -1.795413
 title: Salisbury
 type: location
+score: 0.58
 ---
 
 Salisbury is a cathedral city in Wiltshire, about 145 km southwest of London. It's best known as the nearest city to Stonehenge, but the city itself has considerable merit and is often underestimated by visitors who treat it as a quick transit stop.

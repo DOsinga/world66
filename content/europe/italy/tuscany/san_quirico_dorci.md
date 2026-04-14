@@ -1,8 +1,9 @@
 ---
-title: "San Quirico d'Orcia"
+title: San Quirico d'Orcia
 type: location
 latitude: 43.060395
 longitude: 11.603645
+score: 0.69
 ---
 
 Travel Guide

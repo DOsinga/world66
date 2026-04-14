@@ -5,6 +5,7 @@ latitude: 37.749
 longitude: -119.5885
 title: Yosemite
 type: location
+score: 0.8
 ---
 
 Yosemite National Park embraces a spectacular tract of mountain-and-valley scenery in the Sierra Nevada, set aside as a national park in 1890. The park harbors a grand collection of waterfalls, meadows, and forests that include groves of giant sequoias, the world's largest living things.

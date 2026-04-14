@@ -5,6 +5,7 @@ latitude: 40.7282
 longitude: -73.7949
 title: Long Island
 type: location
+score: 0.53
 ---
 
 Long Island stretches 115 miles east from New York City into the Atlantic, a long wedge of sand and suburb bookended by the urban density of Queens and the empty beaches of Montauk. For most of its length the island is relentlessly suburban — Nassau and Suffolk counties are two of the most densely populated areas in America — but the extremities are another matter.

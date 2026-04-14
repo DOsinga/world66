@@ -5,6 +5,7 @@ latitude: 10.3571
 longitude: -66.9895
 title: Altos Mirandinos
 type: location
+score: 0.3
 ---
 
 The Altos Mirandinos is a cluster of highland towns in Miranda state, perched above 1,000 metres in the mountains southwest of Caracas. The altitude keeps temperatures around a pleasant 20°C year-round — a welcome escape from the heat of the capital, which is less than an hour away by road.

@@ -5,6 +5,7 @@ latitude: 37.596
 longitude: 23.0794
 title: Epidaurus
 type: location
+score: 0.71
 ---
 
 Epidaurus is an ancient sanctuary and theatre site on the eastern Peloponnese, about 30 kilometres east of Nafplio. The theatre is the reason most people come, and it deserves its reputation: built in the fourth century BC, it seats 14,000 people and has acoustics so precise that a coin dropped on the stage can be heard in the back row. It is the best-preserved ancient Greek theatre in existence and is still used for performances during the Athens and Epidaurus Festival every summer (July and August).

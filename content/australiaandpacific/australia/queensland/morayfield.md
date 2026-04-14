@@ -1,8 +1,9 @@
 ---
-title: "Morayfield"
+title: Morayfield
 type: location
 latitude: -27.110255
 longitude: 152.948924
+score: 0.33
 ---
 
 Morayfield.

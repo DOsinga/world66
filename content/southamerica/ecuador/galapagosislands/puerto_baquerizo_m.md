@@ -5,6 +5,7 @@ latitude: -0.9013
 longitude: -89.6088
 title: Puerto Baquerizo Moreno
 type: location
+score: 0.74
 ---
 
 Puerto Baquerizo Moreno is the capital of the Galápagos province, set on the southwestern tip of San Cristóbal Island. It is smaller and quieter than Puerto Ayora on Santa Cruz, and feels more like a real town than a tourist hub — sea lions lounge on the benches along the waterfront, and frigate birds wheel overhead.

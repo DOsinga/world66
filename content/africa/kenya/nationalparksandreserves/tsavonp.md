@@ -5,6 +5,7 @@ latitude: -2.9833
 longitude: 38.4667
 title: Tsavo N.P.
 type: location
+score: 0.62
 ---
 
 Tsavo is Kenya's largest national park and one of the biggest in the world, covering over 20,000 square kilometres of rugged wilderness between [Nairobi](/africa/kenya/nairobi) and [Mombasa](/africa/kenya/mombasa). Split into [Tsavo East](/africa/kenya/nationalparksandreserves/tsavonp/tsavoeast) and [Tsavo West](/africa/kenya/nationalparksandreserves/tsavonp/tsavowest) for administrative purposes, together they form an enormous swathe of savannah, volcanic hills, lava flows, and river-fed swamps. The park is famous as the home of the "man-eaters of Tsavo" -- the two maneless lions that terrorized railway workers in 1898 -- and its red-dusted elephants, coloured by the iron-rich soil they roll in.

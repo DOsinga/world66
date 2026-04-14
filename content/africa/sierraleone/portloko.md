@@ -1,6 +1,7 @@
 ---
-title: "Port loko"
+title: Port loko
 type: location
 latitude: 8.764375
 longitude: -12.781956
+score: 0.27
 ---

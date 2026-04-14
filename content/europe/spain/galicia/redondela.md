@@ -5,6 +5,7 @@ latitude: 42.284221
 longitude: -8.608599
 title: Redondela
 type: location
+score: 0.49
 ---
 
 Redondela is a small town on the inner shore of the Ría de Vigo, in the southwest corner of Galicia. It is best known for its dramatic railway viaducts — two 19th-century stone arched bridges that carry the main Vigo–Ourense line high above the town. Their reflection in the ría below is a striking image.

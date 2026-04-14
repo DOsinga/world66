@@ -5,6 +5,7 @@ latitude: 28.091192
 longitude: -80.567988
 title: Indialantic
 type: location
+score: 0.42
 ---
 
 Travel Guide

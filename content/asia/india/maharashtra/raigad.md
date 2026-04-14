@@ -5,6 +5,7 @@ latitude: 18.2333
 longitude: 73.44
 title: Raigad
 type: location
+score: 0.4
 ---
 
 Raigad Fort, in the Sahyadri ranges of the Western Ghats, was the capital of the Maratha warrior king Chhatrapati Shivaji Maharaj. Perched on a sheer-sided plateau roughly 820 m above the surrounding valley, it was one of the most formidable fortresses of 17th-century India. Shivaji was crowned here in 1674 and died here in 1680.

@@ -1,6 +1,7 @@
 ---
-title: "Jhook Masoo"
+title: Jhook Masoo
 type: location
+score: 0.17
 ---
 
 Travel Guide

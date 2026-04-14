@@ -5,6 +5,7 @@ latitude: 48.738389
 longitude: 19.15858
 title: Banská Bystrica
 type: location
+score: 0.5
 ---
 
 Banská Bystrica is a handsome town in the heart of central [Slovakia](/europe/slovakia), set in a wide valley surrounded by the peaks of the Low Tatras and Veľká Fatra ranges. It grew wealthy in the Middle Ages on copper mining — the Thurzó-Fugger mining company made it one of the richest towns in the Kingdom of Hungary — and the legacy shows in the elegant main square, Námestie SNP, which is ringed by Renaissance and baroque townhouses with pastel facades.

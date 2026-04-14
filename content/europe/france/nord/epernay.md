@@ -5,6 +5,7 @@ latitude: 49.042561
 longitude: 3.952866
 title: Epernay
 type: location
+score: 0.58
 ---
 
 Epernay is the champagne capital of the world. The town itself is modest — a quiet place in the Marne valley with none of the architectural grandeur of nearby [Reims](/europe/france/nord/reims) — but beneath its streets lie over 100 kilometres of chalk cellars holding millions of bottles of champagne. The Avenue de Champagne, a single elegant street lined with the great houses, is where you come to understand why this particular stretch of northern [France](/europe/france) produces a wine that no other region has managed to replicate.

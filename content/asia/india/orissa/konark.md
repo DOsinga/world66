@@ -5,6 +5,7 @@ latitude: 19.907429
 longitude: 86.14202
 title: Konark
 type: location
+score: 0.56
 ---
 
 **Konark** is famous for its magnificent 13th-century Sun Temple, constructed by Narasimha Deva I of the Ganga dynasty. Standing in solitary splendour amongst the sand dunes near the Bay of Bengal, the temple is the most striking example of Kalinga architecture and a UNESCO World Heritage Site.

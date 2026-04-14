@@ -1,8 +1,9 @@
 ---
-title: "Khasab"
+title: Khasab
 type: location
 latitude: 26.18413
 longitude: 56.246979
+score: 0.59
 ---
 
 Travel Guide

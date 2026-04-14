@@ -5,6 +5,7 @@ latitude: 42.2883
 longitude: -8.145
 title: O Ribeiro
 type: location
+score: 0.48
 ---
 
 **O Ribeiro** is one of Galicia's oldest wine regions, centred on the town of Ribadavia in the province of Ourense. The vineyards cover about 3,000 hectares of terraced hillsides running down to the Miño, Avia, and Arnoia rivers — a beautiful landscape of steep green slopes and granite villages.

@@ -5,6 +5,7 @@ latitude: 41.551058
 longitude: -8.428005
 title: Braga
 type: location
+score: 0.63
 ---
 
 Braga is the religious capital of Portugal — the seat of the country's archbishops for centuries, with an extraordinary concentration of churches, chapels, and baroque facades packed into its compact centre. But there is much more to it than churches: Roman remains (Bracara Augusta was an important provincial capital), a lively university population, and some of the best traditional food in the Minho region.

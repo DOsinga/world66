@@ -1,8 +1,9 @@
 ---
-title: 'Vadodara'
+title: Vadodara
 type: location
 latitude: 22.297314
 longitude: 73.194257
+score: 0.45
 ---
 
 Vadodara -- still commonly called Baroda -- is Gujarat's third-largest city and one of its most pleasant. The legacy of the Gaekwad dynasty, who ruled the princely state of Baroda for over two centuries, is everywhere: grand palaces, wide tree-lined avenues, and a genuine emphasis on education and the arts that persists to this day.

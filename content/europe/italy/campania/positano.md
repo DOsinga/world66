@@ -5,6 +5,7 @@ latitude: 40.628658
 longitude: 14.485496
 title: Positano
 type: location
+score: 0.84
 ---
 
 *Europe > Italy > Campania > Positano*

@@ -1,8 +1,9 @@
 ---
-title: "TAUNSA SHARIF"
+title: TAUNSA SHARIF
 type: location
 latitude: 30.702589
 longitude: 70.651128
+score: 0.19
 ---
 
 Travel Guide

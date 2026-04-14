@@ -5,6 +5,7 @@ latitude: 18.4833
 longitude: -73.5167
 title: Petite Rivière de Nippes
 type: location
+score: 0.22
 ---
 
 Petite Rivière de Nippes is a small fishing village on Haiti's southern coast, in the Nippes department. Far from the capital's noise and from the main tourist circuit, life here moves at the pace of the sea and the market day.

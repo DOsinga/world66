@@ -1,8 +1,9 @@
 ---
-title: "Cumberland Island"
+title: Cumberland Island
 type: location
 latitude: 30.855
 longitude: -81.471
+score: 0.5
 ---
 
 Cumberland Island is the southernmost and largest of Georgia's barrier islands, accessible only by ferry from St. Marys. Most of the island is National Seashore managed by the National Park Service, and it has been kept intentionally undeveloped. There are no roads open to the public, no cars, and no shops.

@@ -5,6 +5,7 @@ latitude: 39.310716
 longitude: 26.336002
 title: Mandamados
 type: location
+score: 0.5
 ---
 
 Mandamados is a small village in the northeastern part of [Lesbos](/europe/greece/lesbos), about 35 km from Mytilini. It sits in hilly country inland from the north coast, surrounded by olive groves and pine forest, and has two things that draw visitors from all over the island: its pottery and its monastery.

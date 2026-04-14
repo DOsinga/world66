@@ -5,6 +5,7 @@ latitude: 48.742758
 longitude: 9.307168
 title: Esslingen
 type: location
+score: 0.53
 ---
 
 Esslingen am Neckar is one of the best-preserved medieval towns in southern Germany, sitting just east of Stuttgart along the Neckar river. Founded in 777, it somehow escaped the worst of the wartime bombing that flattened much of the region, and its half-timbered old town feels remarkably intact.

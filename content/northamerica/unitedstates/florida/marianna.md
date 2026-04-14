@@ -5,6 +5,7 @@ latitude: 30.7744
 longitude: -85.2269
 title: Marianna
 type: location
+score: 0.32
 ---
 
 Marianna is a quiet county seat in Florida's Panhandle, sitting in the rolling red-clay hill country west of Tallahassee. It lacks the beach crowds of the Gulf Coast resorts and is all the better for it — this is old Florida, with Spanish-moss-draped oaks, antebellum courthouse squares, and a pace of life that hasn't changed much in decades.

@@ -1,8 +1,9 @@
 ---
-title: "Thessaloniki"
+title: Thessaloniki
 type: location
 latitude: 40.640317
 longitude: 22.935272
+score: 0.74
 ---
 
 Thessaloniki is the second city of Greece and the administrative centre for the north. Its history dates back more than 4000 years. The city of Thessaloniki was founded in 316 B.C. on a site of old prehistoric settlements dating ), remaining so until its sacking by Saracens in 904. It was restored to the empire in 1246, reaching a cultural “Golden Age” until Turkish conquest and occupation in 1430. Until just a few decades ago the city’s population was mixed as any in the Balkans. Besides the Turks, who had been in occupation for close on five centuries (and even Mustafa Kemal Pascha, today known as Kemal Atatürk was born here), there were Slavs, Albabians and the largest European Jewish community of the period. In World War II when all but a fraction were deported to the concentration camps, in the worst atrocity committed in the Balkans.

@@ -5,6 +5,7 @@ latitude: 45.899235
 longitude: 6.128885
 title: Annecy
 type: location
+score: 0.79
 ---
 
 Annecy sits at the northern tip of Lake Annecy, ringed by mountains that still carry snow well into spring. The old town is built around a canal that runs from the lake through cobbled streets lined with pastel-coloured houses — locals call it the Venice of the Alps, and for once the comparison is not entirely absurd.

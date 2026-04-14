@@ -5,6 +5,7 @@ latitude: 53.759336
 longitude: -2.699272
 done:
   location_cleanup: 2026-04-07
+score: 0.4
 ---
 
 Preston sits on the River Ribble in central Lancashire and received city status in 2002 as part of Queen Elizabeth's Golden Jubilee celebrations — one of England's newest cities, though its history stretches back considerably further. The name derives from "Priest's Town" and the city played a role in both the English Civil War and the Jacobite risings.

@@ -1,10 +1,11 @@
 ---
-title: "Gaborone"
+title: Gaborone
 type: location
 latitude: -24.6581
 longitude: 25.9089
 done:
   location_cleanup: 2026-04-07
+score: 0.42
 ---
 
 Gaborone is the capital of Botswana, a young city that grew rapidly after the country's independence from Britain in 1966. Named after Chief Gaborone, a 19th-century Tswana leader who settled here with his people, it has all the infrastructure of a modern capital — hotels, restaurants, cinemas, a casino, and good international connections — without the chaos of many African cities.

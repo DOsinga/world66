@@ -5,6 +5,7 @@ latitude: 11.993998
 longitude: 8.521974
 title: Kano
 type: location
+score: 0.37
 ---
 
 Kano is one of the most compelling cities to visit in Nigeria. It has been a major trading hub for the Hausa people for centuries — their empire dominated northern Nigeria in the 18th and 19th centuries, and their cultural influence remains enormous. The Old City, ringed by mud walls with 16 gates, is the reason most travellers come.

@@ -1,6 +1,7 @@
 ---
-title: "Kharipati, Nagarkot Phedi"
+title: Kharipati, Nagarkot Phedi
 type: location
+score: 0.5
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: -2.0
 longitude: -62.0
 title: Jaú National Park
 type: location
+score: 0.42
 ---
 
 Jaú National Park (Parque Nacional do Jaú) is one of the largest protected areas of tropical rainforest in the world, covering more than 2.2 million hectares in the state of Amazonas, about 220 kilometres west of Manaus. It was declared a UNESCO World Heritage Site in 2000 as part of the Central Amazon Conservation Complex, recognizing its exceptional biodiversity and near-pristine state.

@@ -1,8 +1,9 @@
 ---
-title: 'Bristol'
+title: Bristol
 type: location
 latitude: 51.453802
 longitude: -2.597298
+score: 0.58
 ---
 
 Bristol is the largest city in the south-west of England, with a population of around half a million. Historically a county in its own right, it lies between Somerset and [Gloucestershire](/europe/unitedkingdom/england/bristol_plymouth/gloucestershire) and is properly entitled the City and County of Bristol.

@@ -1,8 +1,9 @@
 ---
-title: "Brandenburg"
+title: Brandenburg
 type: location
 latitude: 52.845549
 longitude: 13.24613
+score: 0.46
 ---
 
 Brandenburg is the region all around Berlin, but the difference between the fast paced capital and the quiet countryside could not be bigger. Around the size of Belgium it stretches between the Elbe and Oder rivers and from the lakes around

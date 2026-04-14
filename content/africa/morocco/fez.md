@@ -1,8 +1,9 @@
 ---
-title: "Fez"
+title: Fez
 type: location
 latitude: 34.034653
 longitude: -5.016193
+score: 0.73
 ---
 
 It's hard to get your grip on Fez. This may be partly because there are three towns in Fez: the two ancient walled areas — Fes-l-Bali (the old town) and Fes-l-Jdid (the new town) — and the more modern French-built Ville Nouvelle.

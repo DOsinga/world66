@@ -5,6 +5,7 @@ latitude: 43.3147
 longitude: -2.6776
 title: Gernika
 type: location
+score: 0.55
 ---
 
 Gernika (Guernica in Spanish) is known worldwide for the 1937 bombing by the German Condor Legion during the Spanish Civil War, and for Picasso's painting that depicted the horror — a full-size reproduction hangs in the town's museum, while the original is in [Madrid](/europe/spain/madrid)'s Reina Sofía.

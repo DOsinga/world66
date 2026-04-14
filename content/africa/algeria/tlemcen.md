@@ -5,6 +5,7 @@ latitude: 34.8818
 longitude: -1.3167
 title: Tlemcen
 type: location
+score: 0.45
 ---
 
 Tlemcen sits in the hills of northwestern Algeria, close to the Moroccan border. Historically it had closer cultural ties to [Fez](/africa/morocco/fez) than to other Algerian cities, and that Moorish influence is still visible in its architecture and traditions. The city was the capital of a medieval Berber kingdom and a major centre of Islamic learning.

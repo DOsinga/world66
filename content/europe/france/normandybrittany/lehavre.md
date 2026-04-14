@@ -5,6 +5,7 @@ latitude: 49.493898
 longitude: 0.107973
 title: Le Havre
 type: location
+score: 0.47
 ---
 
 Le Havre is usually thought of as a place to get on or off a ship, but France's second-largest port has more going for it than the docks suggest. The city was heavily bombed in 1944 and rebuilt by architect Auguste Perret in a distinctive concrete modernism that earned the city centre UNESCO World Heritage status — one of the few 20th-century urban ensembles on the list.

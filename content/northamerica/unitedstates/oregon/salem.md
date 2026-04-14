@@ -5,6 +5,7 @@ latitude: 44.939157
 longitude: -123.033121
 title: Salem
 type: location
+score: 0.43
 ---
 
 Salem is Oregon's state capital, sitting in the Willamette Valley between Portland and Eugene. It's quieter than Portland, which some people see as a feature rather than a bug — walkable downtown, low prices, and easy access to some of the state's best scenery.

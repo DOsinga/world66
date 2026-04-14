@@ -5,6 +5,7 @@ latitude: 29.699375
 longitude: -91.20677
 title: “Morgan City”
 type: location
+score: 0.36
 ---
 
 Morgan City sits on the Atchafalaya River in southern Louisiana, on US 90 between New Orleans and Lafayette. It is a working oil-and-shrimp town with a claim to fame: the world’s first offshore oil well was drilled from a platform in the Gulf of Mexico here on 14 November 1947, by Kerr-McGee. The offshore oil industry that now circles the globe started in Morgan City’s backyard.

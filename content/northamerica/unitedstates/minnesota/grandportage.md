@@ -5,6 +5,7 @@ latitude: 47.9638
 longitude: -89.6848
 title: Grand Portage
 type: location
+score: 0.42
 ---
 
 Grand Portage sits on the shore of Lake Superior in the far northeastern corner of Minnesota, about as close to Canada as you can get without crossing the border. The main draw is Grand Portage National Monument, which preserves the site of an 18th-century fur trade headquarters where voyageurs, Ojibwe families, and North West Company agents gathered each summer for a grand rendezvous of trade and negotiation.

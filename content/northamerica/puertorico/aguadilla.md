@@ -5,6 +5,7 @@ latitude: 18.4274
 longitude: -67.1541
 title: Aguadilla
 type: location
+score: 0.5
 ---
 
 Aguadilla sits on the northwest corner of [Puerto Rico](/northamerica/puertorico), where the Atlantic meets the Caribbean. It is best known for its surfing — Crash Boat Beach and the breaks around Wilderness draw surfers from across the island and beyond. The annual world surfing championship events held here are a testament to the quality of the waves.

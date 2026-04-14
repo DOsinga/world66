@@ -5,6 +5,7 @@ latitude: 48.404938
 longitude: 2.701587
 title: Fontainebleau
 type: location
+score: 0.6
 ---
 
 Fontainebleau is a small town south of Paris surrounded by one of the great forests of the Île-de-France. It is best known for its château — the first Renaissance building in France, and a royal residence for over seven centuries. Napoleon called it "the true residence of kings, the house of the centuries," and thirty-four sovereigns from Louis VI to Napoleon III lived and hunted here. The château's gallery, with its delicate stucco ornaments, and the formal gardens are well worth a half-day visit.

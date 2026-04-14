@@ -5,6 +5,7 @@ latitude: 24.5787
 longitude: 73.6863
 done:
   location_cleanup: 2026-04-07
+score: 0.76
 ---
 
 Udaipur is the most romantic city in Rajasthan, built around the clear waters of Lake Pichola and backed by the ancient Aravalli hills. The white-walled buildings, the Lake Palace seemingly floating in the middle of the water, and the massive City Palace complex lining the eastern shore create a scene that has earned it the nickname "Venice of the East" — an overstatement, perhaps, but the city genuinely charms.

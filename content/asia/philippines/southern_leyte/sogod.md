@@ -5,6 +5,7 @@ latitude: 10.747195
 longitude: 124.004473
 title: Sogod
 type: location
+score: 0.36
 ---
 
 Sogod is the second-largest town in Southern Leyte, serving as a regional hub for commerce and education in the province. It sits inland, away from the dive-tourism crowds that concentrate along the coast, and has a workaday feel that reflects its role as a market and transport node rather than a tourist destination.

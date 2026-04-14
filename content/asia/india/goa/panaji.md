@@ -5,6 +5,7 @@ latitude: 15.498995
 longitude: 73.828214
 title: Panaji
 type: location
+score: 0.59
 ---
 
 Panaji (formerly Panjim) is the capital of Goa, a small and manageable town overlooked by the Altinho hill to the south. It lacks the grand monuments of Old Goa a few kilometres upriver, but has a relaxed charm of its own — particularly in the old Latin Quarter of Fontainhas, where narrow lanes wind between colourful Portuguese-era houses with tiled roofs and wrought-iron balconies.

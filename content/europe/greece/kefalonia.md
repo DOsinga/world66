@@ -5,6 +5,7 @@ latitude: 38.266032
 longitude: 20.53739
 title: Kefalonia
 type: location
+score: 0.77
 ---
 
 Kefalonia is the largest of the Ionian Islands, a mountainous island off the western coast of Greece that gained international fame through Louis de Bernières' novel Captain Corelli's Mandolin. The island was devastated by an earthquake in 1953 that destroyed most of its Venetian-era towns, so the architecture is mostly modern — but the landscape more than compensates: dramatic limestone mountains, hidden coves, and some of the most beautiful beaches in Greece.

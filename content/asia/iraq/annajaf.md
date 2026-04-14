@@ -5,6 +5,7 @@ latitude: 32.001023
 longitude: 44.329993
 title: An najaf
 type: location
+score: 0.28
 ---
 
 An Najaf is one of the highlights for shiites touring the Iraq. The shrine of Ali with a golden dome that can be seen from 40 km on a clear day. For more tombs, head for Wadi es Salaam, a big graveyard with 'streets', winding through the countless brick and cement tombs, some modest, some the size of small mosque-shrines. Some are gaily painted pink or green; some display photographs of the dead: turbaned graybeards or bright-eyed youngsters with proud moustaches and hair in fashionable quiffs.

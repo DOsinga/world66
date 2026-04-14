@@ -5,6 +5,7 @@ latitude: 42.9455
 longitude: 17.5338
 title: Komarna
 type: location
+score: 0.46
 ---
 
 Komarna is a tiny village on the [Croatian](/europe/croatia) Adriatic coast, 70 km north of [Dubrovnik](/europe/croatia/dubrovnik), overlooking the Mali Ston Bay and the Pelješac peninsula. It is the kind of place where the entire infrastructure consists of a mini market, a bar, a pizzeria, and two restaurants — and that is the appeal.

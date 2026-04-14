@@ -1,8 +1,9 @@
 ---
-title: "Tewkesbury"
+title: Tewkesbury
 type: location
 latitude: 51.993786
 longitude: -2.154957
+score: 0.51
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: 50.836486
 longitude: -0.779172
 title: Chichester
 type: location
+score: 0.51
 ---
 
 Chichester is a compact cathedral city in West Sussex, still largely contained within the Roman walls that have defined its boundaries for nearly two thousand years. The street plan follows the Roman grid: four main streets radiate from the medieval Market Cross at the centre, and you can walk the circuit of the walls in under an hour.

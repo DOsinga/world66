@@ -1,6 +1,7 @@
 ---
-title: "Sighet"
+title: Sighet
 type: location
 latitude: 47.928324
 longitude: 23.891558
+score: 0.42
 ---

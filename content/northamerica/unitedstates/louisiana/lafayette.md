@@ -5,6 +5,7 @@ latitude: 30.226219
 longitude: -92.01782
 title: Lafayette
 type: location
+score: 0.47
 ---
 
 Lafayette is the capital of Cajun country, a mid-sized Louisiana city where French is still spoken in homes, zydeco and Cajun music fill the dance halls on weeknights, and the food alone justifies the trip. This is where Acadian culture — the descendants of French colonists expelled from Nova Scotia in the 1700s — is most alive and most accessible.

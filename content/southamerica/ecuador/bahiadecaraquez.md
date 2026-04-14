@@ -5,6 +5,7 @@ latitude: -0.6
 longitude: -80.4236
 title: Bahia de Caraquez
 type: location
+score: 0.44
 ---
 
 Bahia de Caraquez sits on a narrow peninsula where the Rio Chone meets the Pacific, on Ecuador's central coast. It bills itself as an "eco-city" and has a cleaner, quieter feel than most Ecuadorian coastal towns — palm-lined streets, a waterfront malecon, and a relaxed pace. The town was badly damaged by an earthquake in 1998 and a subsequent El Nino flood, and the rebuilding effort led to the eco-city initiative.

@@ -5,6 +5,7 @@ latitude: 16.5132
 longitude: -15.81
 title: Rosso
 type: location
+score: 0.24
 ---
 
 There is not much to do in Rosso itself, but this border town on the Senegal River has a character of its own. It sits in Mauritania's fertile southern strip where the country's crops are grown, and the drive from Nouakchott is pleasant, passing small villages, interesting people and sand-coloured rock buildings.

@@ -5,6 +5,7 @@ latitude: 52.977849
 longitude: 5.446409
 title: Workum
 type: location
+score: 0.45
 ---
 
 Workum is one of the eleven historic Frisian cities, a quiet town on the shore of the IJsselmeer with a handsome church tower and a traditional harbour. The Museum Warkums Erfskip and especially the Jopie Huisman Museum are worth a visit — Huisman was a self-taught local artist known for hyperrealistic still lifes of worn-out objects and Frisian landscapes.

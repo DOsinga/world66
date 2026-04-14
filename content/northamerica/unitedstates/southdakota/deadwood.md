@@ -5,6 +5,7 @@ latitude: 44.374381
 longitude: -103.729072
 title: Deadwood
 type: location
+score: 0.53
 ---
 
 Deadwood is a historic gold-rush town tucked into a gulch in the Black Hills of South Dakota. The gold rush began in 1876 and the town quickly became notorious — Wild Bill Hickok was shot dead at a card table here that same year, and Calamity Jane made it her base. Both are buried in Mount Moriah Cemetery, which overlooks the town.

@@ -1,8 +1,9 @@
 ---
-title: "Montesilvano"
+title: Montesilvano
 type: location
 latitude: 42.513603
 longitude: 14.15162
+score: 0.47
 ---
 
 Next To Pescara

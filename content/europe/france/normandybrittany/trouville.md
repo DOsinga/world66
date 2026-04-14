@@ -5,6 +5,7 @@ latitude: 49.367982
 longitude: 0.080911
 title: Trouville
 type: location
+score: 0.58
 ---
 
 Trouville-sur-Mer would be considered one of Normandy's most elegant seaside resorts if it were not sitting right next to [Deauville](/europe/france/normandybrittany/deauville), which claims that title with more polish. But Trouville has the better character — it is a real fishing port as well as a resort, and the waterfront fish market is one of the best in Normandy.

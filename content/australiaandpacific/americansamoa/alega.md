@@ -5,6 +5,7 @@ latitude: -14.27967
 longitude: -170.636687
 title: Alega
 type: location
+score: 0.39
 ---
 
 Alega (pronounced Alenga) is a small village on Tutuila's south coast, about 10 kilometres east of Pago Pago. The beach here is one of the better snorkeling spots on the island.

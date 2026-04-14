@@ -5,6 +5,7 @@ latitude: 49.316555
 longitude: 8.433615
 title: Speyer
 type: location
+score: 0.54
 ---
 
 Speyer is a small city on the Rhine in the Palatinate region of southwestern [Germany](/europe/germany), with a history far larger than its size suggests. As a free city of the Holy Roman Empire from 1294 to 1779, it hosted over 50 imperial diets and was the seat of the Imperial Chamber Court. The Protestant Reformation takes its name from the "Protestation at Speyer" of 1529.

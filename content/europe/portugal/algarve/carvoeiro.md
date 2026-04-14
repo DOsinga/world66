@@ -5,6 +5,7 @@ latitude: 37.094
 longitude: -8.471
 done:
   location_cleanup: 2026-04-06
+score: 0.66
 ---
 
 Carvoeiro is a small, picturesque resort village built around a sandy cove framed by ochre cliffs. Once a fishing village, it retains a quieter, more laid-back atmosphere than [Albufeira](/europe/portugal/algarve/albufeira) to the east. The beach is compact but sheltered, and the surrounding coastline has some of the best diving in the Algarve.

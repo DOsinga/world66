@@ -5,6 +5,7 @@ latitude: 44.008011
 longitude: 8.173027
 title: Alassio
 type: location
+score: 0.61
 ---
 
 Alassio is one of the classic Ligurian Riviera resorts, set in the curve of the Baia del Sole on the Riviera delle Palme west of [Savona](/europe/italy/liguria/savona). With 11,500 residents that swell to 50,000 in summer, it has the feel of a proper seaside town rather than just a beach — a long pedestrian centre, good restaurants, and enough life in the evening to keep you occupied.

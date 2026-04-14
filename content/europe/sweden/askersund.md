@@ -5,6 +5,7 @@ latitude: 58.866667
 longitude: 14.916667
 title: Askersund
 type: location
+score: 0.43
 ---
 
 Askersund is a small wooden town at the northern tip of Lake Vättern in the province of Närke. It grew up around iron mining — nails and scythes were the local speciality — and the old centre still has the charm of painted timber houses and a handful of cafes along the harbour.

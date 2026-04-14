@@ -1,9 +1,10 @@
 ---
-title: "Lefkara"
+title: Lefkara
 type: location
 latitude: 34.8627
 longitude: 33.3164
 todo_location_cleanup: done
+score: 0.54
 ---
 
 Pano (Upper) and Kato (Lower) Lefkara are picturesque hill villages between Larnaca and Limassol, best known for their traditional lacemaking. The village lanes are narrow and whitewashed, and lace and lacework in the distinctive Lefkaritika style hang outside virtually every shop alongside silver and copper objects. The craftsmanship is genuinely fine — and the prices reflect that.

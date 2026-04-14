@@ -1,6 +1,7 @@
 ---
-title: "Podujeva"
+title: Podujeva
 type: location
+score: 0.24
 ---
 
 Travel Guide

@@ -1,8 +1,9 @@
 ---
-title: 'San Bernardino'
+title: San Bernardino
 type: location
 latitude: 34.108345
 longitude: -117.289757
+score: 0.28
 ---
 
 San Bernardino sits at the foot of the San Bernardino Mountains where Route 66 meets the pass between the desert and the coast. The city has a rough-around-the-edges reputation, but it rewards curious visitors with more than 280 acres of parks, lakes, and recreation areas within the city limits.

@@ -5,6 +5,7 @@ latitude: 33.209561
 longitude: -87.567526
 title: Tuscaloosa
 type: location
+score: 0.36
 ---
 
 Tuscaloosa is a college town of about 100,000 people, dominated by the University of Alabama and its fiercely loyal football culture. On game days in the fall, the city's population effectively doubles as fans descend on Bryant-Denny Stadium.

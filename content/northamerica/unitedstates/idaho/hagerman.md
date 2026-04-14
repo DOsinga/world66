@@ -1,8 +1,9 @@
 ---
-title: "Hagerman"
+title: Hagerman
 type: location
 latitude: 42.812124
 longitude: -114.898669
+score: 0.37
 ---
 
 Travel Guide

@@ -5,6 +5,7 @@ latitude: 34.739436
 longitude: 10.760402
 title: Sfax
 type: location
+score: 0.37
 ---
 
 Sfax sits roughly halfway along Tunisia's east coast, just opposite the [Kerkennah Islands](/africa/tunisia/kerkennahislands). With about half a million people, it is the second city of the country after [Tunis](/africa/tunisia/tunis) — but it is not much of a tourist destination. The hotels and restaurants mainly cater for Tunisian business people, and the surprising upshot is that things tend to be cheaper here than in the touristed areas. Sfax is probably one of the best places in Tunisia to buy souvenirs: the quality is higher and the goods are genuine.

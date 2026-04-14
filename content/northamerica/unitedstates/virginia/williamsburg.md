@@ -5,6 +5,7 @@ latitude: 37.270879
 longitude: -76.707404
 title: Williamsburg
 type: location
+score: 0.62
 ---
 
 Williamsburg sits at the heart of Virginia's Historic Triangle, a small city whose main street doubles as a time machine. Colonial Williamsburg — 301 acres of restored and reconstructed 18th-century buildings — is one of America's most ambitious living-history projects, and the reason most visitors come. Costumed interpreters work the trades, the taverns serve colonial-era recipes, and the Capitol and Governor's Palace have been rebuilt to their 1770s appearance.

@@ -5,6 +5,7 @@ latitude: 11.9001
 longitude: 121.9099
 title: Malay
 type: location
+score: 0.4
 ---
 
 Malay is a municipality on the northwestern tip of Panay Island in Aklan province, and for most travellers it means one thing: the gateway to Boracay. The Caticlan Jetty Port, where boats depart for the ten-minute crossing to the island, is in Malay's Caticlan barangay.

@@ -1,8 +1,9 @@
 ---
-title: "Auckland (city)"
+title: Auckland (city)
 type: location
 latitude: -36.852095
 longitude: 174.76318
+score: 0.61
 ---
 
 Auckland is situated on a narrow isthmus, bounded by two harbours - the

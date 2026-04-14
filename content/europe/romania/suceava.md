@@ -5,6 +5,7 @@ latitude: 47.647001
 longitude: 26.25226
 title: Suceava
 type: location
+score: 0.46
 ---
 
 Suceava was the capital of Transsylvania in the late Middle Ages. Today it is a pleasant city and worth a visit for its sights and museums, especially the Princely Fortress. A possible tourist route comprises the Princely Fortress of Suceava, the Sf. Ioan Monastery in Zamca as well as the medieval churches of Saint Dumitru, Holy Ressurection and Mirui. A point of interest is also the National Museum of Bucovina with its valuable historic and archaeologic exhibits.

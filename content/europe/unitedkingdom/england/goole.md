@@ -1,6 +1,7 @@
 ---
-title: "Goole"
+title: Goole
 type: location
 latitude: 53.703562
 longitude: -0.871595
+score: 0.32
 ---

@@ -5,6 +5,7 @@ latitude: 34.197631
 longitude: -119.180381
 title: Oxnard
 type: location
+score: 0.41
 ---
 
 Oxnard is a working agricultural city on the Ventura County coast, about an hour northwest of Los Angeles. It is not glamorous — the strawberry fields and the port set the tone — but it has genuine beaches, good Mexican food, and serves as the main departure point for boats to Channel Islands National Park.

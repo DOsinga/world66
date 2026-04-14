@@ -5,6 +5,7 @@ latitude: 46.215793
 longitude: -74.580558
 title: Mont-Tremblant
 type: location
+score: 0.61
 ---
 
 Mont-Tremblant is the best ski resort in eastern Canada and one of the top ten in North America. It sits in the Laurentian Mountains about 140km north of [Montréal](/northamerica/canada/quebec/montreal), an easy two-hour drive. The resort has grown from a small ski village into a full year-round destination, with a pedestrian village at the base of the mountain that fills with visitors in both winter and summer.

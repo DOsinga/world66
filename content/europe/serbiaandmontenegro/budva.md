@@ -1,10 +1,11 @@
 ---
-title: "Budva"
+title: Budva
 type: location
 latitude: 42.2894
 longitude: 18.8402
 done:
   location_cleanup: 2026-04-08
+score: 0.62
 ---
 
 Budva is one of the most popular resort towns on the Montenegrin coast, with a mix of good beaches, a well-preserved old town, and a lively summer atmosphere. The old city core is around 2,500 years old and survived a serious earthquake in 1979 largely intact. Its narrow stone lanes, small churches, and fortified walls make for pleasant wandering.

@@ -1,8 +1,9 @@
 ---
-title: "schallodenbach"
+title: schallodenbach
 type: location
 latitude: 49.545704
 longitude: 7.715929
+score: 0.26
 ---
 
 Travel Guide

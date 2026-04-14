@@ -1,8 +1,9 @@
 ---
-title: "mambucal"
+title: mambucal
 type: location
 latitude: 6.468074
 longitude: 124.835656
+score: 0.38
 ---
 
 Travel Guide

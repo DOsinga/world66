@@ -1,10 +1,11 @@
 ---
-title: "Žilina"
+title: Žilina
 type: location
 latitude: 49.223467
 longitude: 18.739314
 done:
   location_cleanup: 2026-04-10
+score: 0.44
 ---
 
 Žilina is the main city of northwestern Slovakia, set in a valley where the Váh and Kysuca rivers meet, with the Beskydy mountains visible on the eastern horizon. With around 80,000 people, it's Slovakia's third-largest city — a regional industrial and university centre that sees relatively few foreign visitors.

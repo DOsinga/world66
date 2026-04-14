@@ -1,6 +1,7 @@
 ---
-title: "Senglea (or L-lsla)"
+title: Senglea (or L-lsla)
 type: location
+score: 0.56
 ---
 
 Travel Guide

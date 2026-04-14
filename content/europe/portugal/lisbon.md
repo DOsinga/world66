@@ -1,8 +1,9 @@
 ---
-title: "Lisbon"
+title: Lisbon
 type: location
 latitude: 38.707751
 longitude: -9.136592
+score: 0.76
 ---
 
 Lisbon is a fascinating blend of old-fashioned and funky art, architecture and traditions. Its one of Europe’s most enjoyable capitals with its relaxed atmosphere, cultural diversity, reasonable prices and charming architecture. Lisbon is set on seven low hills next to the Rio Tejo. The city’s atmosphere is rich with wonderful old buildings, Europe’s longest suspension bridge, and fascinating museums and monuments. Despite the city’s muscle-aching hills, Lisbon is compact enough to explore on foot. If your legs get tired, Lisbon has very convenient, bus, trolley and subway lines as well as funiculars to take you up the steeper hills.

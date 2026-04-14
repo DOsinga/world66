@@ -9,6 +9,7 @@ image_license: CC0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jebulon" title="User:Jebulon">Jebulon</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.9
 ---
 
 Italy is one of those countries to which you probably have already quite a number of preconceptions even before you have put one foot into the country. Country of olive oil and pasta, wine and sunshine, roman ruins and renaissance palaces. 

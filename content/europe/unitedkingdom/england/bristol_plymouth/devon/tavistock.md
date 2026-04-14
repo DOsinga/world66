@@ -5,6 +5,7 @@ latitude: 50.5499
 longitude: -4.1444
 title: Tavistock
 type: location
+score: 0.48
 ---
 
 Tavistock is a handsome market town on the western edge of Dartmoor, built largely from the proceeds of tin and copper mining. It was one of Devon's four stannary towns, with its own courthouse and laws governing the tin trade, and the wealth shows in the solid granite buildings around the central square.

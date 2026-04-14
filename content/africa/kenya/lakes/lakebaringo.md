@@ -5,6 +5,7 @@ latitude: 0.618499
 longitude: 36.118288
 title: Lake Baringo
 type: location
+score: 0.54
 ---
 
 Lake Baringo is a large, shallow freshwater lake in the Rift Valley, north of Marigat and roughly 270 kilometres northwest of [Nairobi](/africa/kenya/nairobi). Once a productive fishing lake, it has been heavily overfished in recent years, but remains one of Kenya's premier birdwatching destinations — over 450 species have been recorded here. The many islands and papyrus-fringed shoreline make boat trips a highlight.

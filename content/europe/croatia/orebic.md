@@ -5,6 +5,7 @@ latitude: 42.976914
 longitude: 17.183237
 title: Orebic
 type: location
+score: 0.6
 ---
 
 Orebić is a small coastal town on the southwestern tip of the Pelješac Peninsula, sheltered by the bulk of St. Ilija Hill (961 metres) and looking directly across a narrow strait to the island of [Korčula](/europe/croatia/korcula). For most visitors it is a ferry stop en route to Korčula Town — the crossing takes about fifteen minutes — but it is worth a few hours or days in its own right.

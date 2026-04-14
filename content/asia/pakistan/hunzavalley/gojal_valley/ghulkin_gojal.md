@@ -5,6 +5,7 @@ latitude: 36.42
 longitude: 74.85
 title: Ghulkin Gojal
 type: location
+score: 0.4
 ---
 
 Ghulkin is a village in Gojal, upper Hunza, reached by following the Karakoram Highway (KKH) 140 km north of Gilgit — a journey of three to four hours by van. From a turn-off just beyond Gulmit, a winding jeep track climbs 3 km until the ground flattens out and the first houses come into view.

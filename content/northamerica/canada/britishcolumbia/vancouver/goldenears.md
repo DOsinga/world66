@@ -5,6 +5,7 @@ latitude: 49.358
 longitude: -122.478
 title: Golden Ears
 type: location
+score: 0.54
 ---
 
 Golden Ears Provincial Park is one of the largest parks in British Columbia, about an hour's drive east of [Vancouver](/northamerica/canada/britishcolumbia/vancouver). The park takes its name from the twin peaks of Mount Blanshard, which catch the sunlight and glow gold in the right conditions.

@@ -5,6 +5,7 @@ latitude: 10.60262
 longitude: 79.761935
 title: Nagapattinam
 type: location
+score: 0.34
 ---
 
 Nagapattinam is a coastal district town in the Cauvery Delta, 340 km south of Chennai on the Bay of Bengal. It's the main town in a district that contains an unusual concentration of pilgrimage sites across different religions — Hindu, Muslim, Christian, and Jain — within a small area.

@@ -5,6 +5,7 @@ latitude: 36.4438
 longitude: 28.2274
 title: Rhodes City
 type: location
+score: 0.78
 ---
 
 Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centuries ago. UNESCO granted it World Heritage status, and it deserves every bit of the recognition.

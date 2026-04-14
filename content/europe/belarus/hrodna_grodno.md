@@ -5,6 +5,7 @@ latitude: 53.6884
 longitude: 23.8258
 done:
   location_cleanup: 2026-04-05
+score: 0.38
 ---
 
 Hrodna — Grodno in Russian — sits on the high right bank of the Nioman river in the far west of Belarus, a stone's throw from the Polish and Lithuanian borders. It is one of the few Belarusian cities to escape wholesale destruction in the Second World War, and as a result it has the richest stock of old architecture in the country: baroque churches, Orthodox cathedrals, a surviving synagogue, and two castles overlooking the river.

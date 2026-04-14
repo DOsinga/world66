@@ -1,8 +1,9 @@
 ---
-title: "Ischia"
+title: Ischia
 type: location
 latitude: 40.734205
 longitude: 13.947125
+score: 0.7
 ---
 
 *Europe > Italy > Campania > Ischia*

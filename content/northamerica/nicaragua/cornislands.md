@@ -5,6 +5,7 @@ latitude: 12.1694
 longitude: -83.0418
 title: Corn Islands
 type: location
+score: 0.52
 ---
 
 Two small islands floating in the Caribbean, 70 kilometres off Nicaragua's Atlantic coast — the Corn Islands are among the most rewarding places in Central America that most people have never heard of. Big Corn and Little Corn together offer white sand beaches, healthy coral reefs, and an Afro-Caribbean culture that feels entirely distinct from the rest of Nicaragua.

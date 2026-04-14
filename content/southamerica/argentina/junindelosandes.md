@@ -1,6 +1,7 @@
 ---
-title: "Junin de los Andes"
+title: Junin de los Andes
 type: location
 latitude: -39.950866
 longitude: -71.070888
+score: 0.49
 ---

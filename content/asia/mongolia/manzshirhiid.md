@@ -1,4 +1,5 @@
 ---
-title: "Manzshir hiid"
+title: Manzshir hiid
 type: location
+score: 0.45
 ---

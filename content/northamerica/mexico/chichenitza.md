@@ -5,6 +5,7 @@ latitude: 20.682852
 longitude: -88.56872
 title: Chichen Itza
 type: location
+score: 0.77
 ---
 
 Chichen Itza is one of the most dramatic archaeological sites in the Americas — a vast ancient city that served as the political and ceremonial heart of the northern Maya lowlands from roughly 600 to 1200 AD. Its centrepiece, the step pyramid El Castillo, rises 30 metres from the jungle floor and was engineered so precisely that during the spring and autumn equinoxes, shadow and light create the illusion of a serpent descending its northern staircase.

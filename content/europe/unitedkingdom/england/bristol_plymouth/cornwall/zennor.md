@@ -5,6 +5,7 @@ latitude: 50.18769
 longitude: -5.573281
 title: Zennor
 type: location
+score: 0.52
 ---
 
 Zennor is a tiny village on the B3306 between St Ives and St Just in Penwith, set back slightly from the wild north Penwith coast. The village is little more than a cluster of granite cottages, a church, and a pub, but it has a distinctive character and makes an excellent stopping point on the coastal road.

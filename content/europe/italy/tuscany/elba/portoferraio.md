@@ -5,6 +5,7 @@ latitude: 42.8141
 longitude: 10.331
 done:
   location_cleanup: 2026-04-07
+score: 0.65
 ---
 
 Portoferraio is the capital of [Elba](/europe/italy/tuscany/elba) and where most visitors first set foot on the island — the ferry from Piombino docks right in the harbour. The town wraps around what has long been considered one of the safest natural ports in the Mediterranean, and the Medici fortifications that ring the old centre still give it a dramatic profile from the water.

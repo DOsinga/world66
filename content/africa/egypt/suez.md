@@ -5,6 +5,7 @@ latitude: 29.974498
 longitude: 32.537086
 title: Suez
 type: location
+score: 0.37
 ---
 
 Suez sits at the southern mouth of the canal that bears its name, where the Red Sea meets one of the world's busiest shipping lanes. It is a gritty transport hub rather than a tourist destination, but it serves as the jumping-off point for travel into the Sinai Peninsula, and there is something mesmerizing about watching massive container ships glide through a desert landscape.

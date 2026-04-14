@@ -5,6 +5,7 @@ latitude: 56.395876
 longitude: -3.43031
 done:
   location_cleanup: 2026-04-07
+score: 0.49
 ---
 
 Perth sits on the River Tay at the southern edge of the Highlands, a position that made it one of the most strategically important towns in medieval Scotland. It was a royal residence throughout the Middle Ages and served as the effective capital of Scotland until the 15th century — hence the unofficial title "The Ancient Capital of Scotland." The town centre retains its medieval street pattern, flanked by two large parks (the North and South Inches) where clan conflicts and the 1715 Jacobite uprising left their marks.

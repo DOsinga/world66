@@ -1,6 +1,7 @@
 ---
-title: "Podgorica"
+title: Podgorica
 type: location
+score: 0.44
 ---
 
 We currently have no information about Podgorica.

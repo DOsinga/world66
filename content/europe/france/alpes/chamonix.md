@@ -5,6 +5,7 @@ latitude: 45.92467
 longitude: 6.872751
 title: Chamonix
 type: location
+score: 0.81
 ---
 
 Chamonix sits at the foot of Mont Blanc, western Europe's highest peak, and that location alone makes it one of the most dramatic mountain towns on the continent. Unlike many French ski resorts — purpose-built clusters of high-rise apartments dropped next to a lift station — Chamonix is a real town, with a cosy centre full of good bars, restaurants, and cafes that have been drawing visitors since the 18th century.

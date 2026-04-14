@@ -1,8 +1,9 @@
 ---
-title: "Loire valley"
+title: Loire valley
 type: location
 latitude: 47.449277
 longitude: -0.349549
+score: 0.8
 ---
 
 The Loire Valley is one of the most spectacular regions of France. Along the Loire river there are a number of castles dating and [Angers](/europe/france/centre/loirevalley/angers) is on the UNESCO list, with the exception of two nuclear reactors. Highlights are the cities of [Amboise](/europe/france/centre/loirevalley/amboise) where you can find the grave of Leonardo Da Vinci, [Blois](/europe/france/centre/loirevalley/blois) with a chateau designed by the same Leonardo and the Houdin Museum and finally [Tours](/europe/france/centre/loirevalley/tours) with a very romantic old centre.

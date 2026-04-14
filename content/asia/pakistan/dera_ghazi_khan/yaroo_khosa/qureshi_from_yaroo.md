@@ -1,6 +1,7 @@
 ---
-title: "qureshi from yaroo khosa"
+title: qureshi from yaroo khosa
 type: location
+score: 0.05
 ---
 
 Travel Guide

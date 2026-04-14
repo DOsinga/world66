@@ -5,6 +5,7 @@ latitude: 4.1265
 longitude: 103.3925
 title: Cherating
 type: location
+score: 0.49
 ---
 
 Cherating is a laid-back beach village about 75 kilometers north of Kuantan on Malaysia's east coast. It draws a steady mix of backpackers and water sports enthusiasts to its long stretch of sand, where the pace of life moves roughly as fast as the fishing boats drifting offshore.

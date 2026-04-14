@@ -5,6 +5,7 @@ latitude: -37.950376
 longitude: 176.938287
 title: Bay of Plenty
 type: location
+score: 0.59
 ---
 
 The **Bay of Plenty** is a sun-drenched region on the northeastern coast of New Zealand's North Island, named by Captain Cook for the abundance of food he found when he arrived in 1769. It stretches from Waihi Beach in the west to Opotiki in the east, with some of the best beaches and warmest weather in the country.

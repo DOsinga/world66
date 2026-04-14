@@ -5,6 +5,7 @@ latitude: -16.579
 longitude: 179.2
 title: Vanua Levu
 type: location
+score: 0.62
 ---
 
 Vanua Levu is Fiji's second largest island, roughly half the size of Viti Levu but with a fraction of the tourists. If you want to see Fiji without the resort crowds, this is where to come. The island is lush and mountainous, with dense rainforest in the interior and some of the best diving in the South Pacific along its southern coast.

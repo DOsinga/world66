@@ -5,6 +5,7 @@ latitude: 21.237191
 longitude: -86.735
 title: Isla Mujeres
 type: location
+score: 0.72
 ---
 
 Isla Mujeres is a narrow island a few kilometres north of Cancún, sitting where the Caribbean Sea meets the Gulf of Mexico. It is far more relaxed than the resort strip across the water: the streets are narrow and colourful, golf carts are the main form of transport, and the pace is unhurried. Despite being a popular day trip from Cancún, the island retains more local character than most tourist destinations in the Yucatán.

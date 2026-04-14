@@ -5,6 +5,7 @@ latitude: 50.054791
 longitude: 6.027551
 title: Clervaux
 type: location
+score: 0.52
 ---
 
 Clervaux is a small medieval town set in a narrow, wooded valley in northern Luxembourg's Oesling region. The 12th-century castle dominates the town from above and is reason enough to visit — it houses Edward Steichen's "The Family of Man," a landmark photography exhibition originally shown at MoMA in 1955 and now a UNESCO Memory of the World. The castle also contains a collection of models of Luxembourg's fortified castles and a small museum on the 1944-1945 Battle of the Bulge, which devastated this area.

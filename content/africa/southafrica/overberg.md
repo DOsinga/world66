@@ -5,6 +5,7 @@ latitude: -33.909897
 longitude: 18.84814
 title: Overberg
 type: location
+score: 0.5
 ---
 
 The Overberg ("over the mountain") is the region southeast of [Cape Town](/africa/southafrica/capetown) across the Hottentots Holland Mountains. Once over Sir Lowry's Pass on the N2, the landscape opens into rolling wheat fields, canola, and eventually the dramatic Cape coastline.

@@ -5,6 +5,7 @@ latitude: 52.3451
 longitude: -1.5816
 title: Kenilworth
 type: location
+score: 0.5
 ---
 
 Kenilworth is a small Warwickshire town whose character is dominated by its castle — one of the grandest medieval ruins in England. The red sandstone walls of Kenilworth Castle stretch across an enormous site that saw centuries of royal drama, from King John's fortification of the keep to Robert Dudley's extravagant entertainments for Elizabeth I in 1575. The ruins are managed by English Heritage and make for a rewarding half-day visit.

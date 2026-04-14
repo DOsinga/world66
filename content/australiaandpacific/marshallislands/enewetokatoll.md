@@ -5,6 +5,7 @@ latitude: 11.5
 longitude: 162.333333
 title: Enewetak Atoll
 type: location
+score: 0.37
 ---
 
 Enewetak (also spelled Eniwetok) was the site of 43 US nuclear detonations between 1948 and 1958, including Ivy Mike in 1952 — the world's first hydrogen bomb test. Like the Bikinians, the people of Enewetak were removed from their home atoll before testing began, with promises they could return.

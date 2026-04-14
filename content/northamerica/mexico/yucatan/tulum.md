@@ -5,6 +5,7 @@ latitude: 20.2114
 longitude: -87.4654
 title: Tulum
 type: location
+score: 0.77
 ---
 
 Tulum sits at the southern end of the Riviera Maya, where the Yucatán jungle meets the Caribbean. The town has two distinct parts: the beach strip (Zona Hotelera), where boutique hotels and restaurants line the coast road, and the pueblo inland, where Mexicans live and buses arrive. Between the two, on a cliff above the sea, are the ruins that put Tulum on the map.

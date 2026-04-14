@@ -5,6 +5,7 @@ latitude: 52.264658
 longitude: 10.523607
 done:
   location_cleanup: 2026-04-05
+score: 0.47
 ---
 
 Braunschweig (Brunswick in English) is the second-largest city in Lower Saxony after Hannover, a historically important seat of the powerful **Welf dukes** in the Middle Ages and the home city of **Henry the Lion** — the 12th-century Saxon duke whose bronze lion statue still stands on a pedestal on **Burgplatz**, the square where he built his castle and cathedral. Almost every major building around Burgplatz and the adjoining **Altstadtmarkt** dates from the High Middle Ages or the Hanseatic centuries that followed, and together they make up one of the most atmospheric medieval city centres in northern Germany — despite the fact that the Second World War flattened much of what was in between.

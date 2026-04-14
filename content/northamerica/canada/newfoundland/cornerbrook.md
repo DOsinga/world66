@@ -5,6 +5,7 @@ latitude: 48.95317
 longitude: -57.947388
 title: Corner Brook
 type: location
+score: 0.42
 ---
 
 Corner Brook is the second-largest city in Newfoundland, set at the head of the Bay of Islands on the island's west coast. It is an industrial town — a pulp and paper mill still dominates the waterfront — but it sits in genuinely spectacular country where the Long Range Mountains drop toward the sea.

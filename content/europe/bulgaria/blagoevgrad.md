@@ -5,6 +5,7 @@ latitude: 41.750287
 longitude: 23.487341
 title: Blagoevgrad
 type: location
+score: 0.45
 ---
 
 Blagoevgrad is a university town about 100 km south of [Sofia](/europe/bulgaria/sofia), home to both the American University in Bulgaria (AUBG) and South-West University. The student population gives the town a livelier atmosphere than you might expect from a mid-sized Bulgarian city.

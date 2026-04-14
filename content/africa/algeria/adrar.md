@@ -5,6 +5,7 @@ latitude: 26.488816
 longitude: -1.358244
 title: Adrar
 type: location
+score: 0.26
 ---
 
 Adrar is a Saharan oasis town in southwestern Algeria, sitting at the edge of the Tidikelt plateau. It is a functional desert town rather than a scenic one — the kind of place you pass through on long hauls through the western Sahara rather than a destination in itself.

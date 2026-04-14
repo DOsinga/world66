@@ -5,6 +5,7 @@ latitude: 44.27264
 longitude: 9.396492
 title: Tigullio
 type: location
+score: 0.63
 ---
 
 The Golfo del Tigullio is one of the most beautiful stretches of the Italian Riviera — a wide arc of coastline east of Genoa where fishing villages and resort towns crowd the hillsides above a calm, brilliantly blue sea. The name comes from the ancient Ligurian Tigullii tribe, but today it is best known as a summer playground for northern Italians and an increasingly popular destination for visitors from further afield.

@@ -5,6 +5,7 @@ latitude: 5.85
 longitude: -54.7
 title: Wia Wia Reserve
 type: location
+score: 0.41
 ---
 
 Wia Wia Reserve is a stretch of coastal mangrove swamps and beaches about 100 km east of [Paramaribo](/southamerica/suriname/paramaribo). It has two main draws: exceptional birdwatching and one of the most important leatherback and green turtle nesting beaches on the Atlantic coast.

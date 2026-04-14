@@ -1,10 +1,11 @@
 ---
-title: "Ambon"
+title: Ambon
 type: location
 latitude: -3.695943
 longitude: 128.178785
 done:
   location_cleanup: 2026-04-10
+score: 0.48
 ---
 
 Ambon is the largest city in Maluku and the capital of South Maluku province, situated on the island of the same name in eastern Indonesia. Its transport connections — a busy airport, regular ferries, and fast boat services — make it the natural gateway to the wider Maluku archipelago.

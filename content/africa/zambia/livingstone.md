@@ -1,6 +1,7 @@
 ---
-title: "Livingstone"
+title: Livingstone
 type: location
 latitude: -17.853135
 longitude: 25.861429
+score: 0.63
 ---

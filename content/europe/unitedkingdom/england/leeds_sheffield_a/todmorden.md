@@ -5,6 +5,7 @@ latitude: 53.713725
 longitude: -2.097753
 title: Todmorden
 type: location
+score: 0.41
 ---
 
 Todmorden sits at the far west of West Yorkshire, at a point where the county boundary with Lancashire once ran beneath the town's grand Italianate town hall — a building that straddles two counties. Now part of [Calderdale](/europe/unitedkingdom/england/leeds_sheffield_a/calderdale), the town sits in a steep Pennine valley where the River Calder and several tributaries meet.

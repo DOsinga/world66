@@ -5,6 +5,7 @@ latitude: 38.9175
 longitude: -6.3444
 title: Mérida
 type: location
+score: 0.63
 ---
 
 Mérida punches well above its weight. A quiet provincial capital of around 60,000 people in the heart of [Extremadura](/europe/spain/extremadura), it sits on top of what was once one of the most important cities in Roman Spain — Augusta Emerita, founded in 25 BC as a retirement colony for veteran legionaries. The ruins left behind are extraordinary: a theatre that still hosts performances each summer, an amphitheatre, two aqueducts, a Roman bridge across the Guadiana that remained in daily use until the 1990s, and temples scattered through the modern town. UNESCO added it to the World Heritage List in 1993.

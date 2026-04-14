@@ -5,6 +5,7 @@ latitude: 40.5197
 longitude: 44.7501
 title: Hrazdan
 type: location
+score: 0.37
 ---
 
 Hrazdan is the administrative centre of Kotayk Marz, about 45 km north of Yerevan in the Hrazdan River gorge. With a population of around 40,000, it was a Soviet-era industrial town — a cement factory and hydroelectric station were its backbone — and the post-Soviet economic collapse hit it hard. The town itself offers little to the visitor, but it sits in a region with several worthwhile destinations nearby.

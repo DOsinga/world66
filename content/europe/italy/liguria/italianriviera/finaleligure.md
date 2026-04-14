@@ -5,6 +5,7 @@ latitude: 44.168905
 longitude: 8.343652
 title: Finale Ligure
 type: location
+score: 0.63
 ---
 
 Finale Ligure is a small coastal town on the Italian Riviera di Ponente, roughly 70 km southwest of Genoa. It sits between two capes — Caprazoppa to the west and Noli to the east — and divides neatly into three distinct neighbourhoods: Finalmarina, the seafront resort strip; Finalpia, a quieter village around a 12th-century abbey; and Finalborgo, the medieval walled town perched inland above the valley.

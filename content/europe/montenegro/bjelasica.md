@@ -5,6 +5,7 @@ latitude: 42.243136
 longitude: 19.052315
 title: Bjelasica
 type: location
+score: 0.49
 ---
 
 Bjelasica is a mountain massif in northern Montenegro, covering parts of five municipalities. The highest point is Crna Glava (Black Head) at 2,139 metres. The mountain has 630 square kilometres of territory and is protected as a nature park.

@@ -5,6 +5,7 @@ latitude: 19.449774
 longitude: 103.183655
 title: Phonsavan
 type: location
+score: 0.51
 ---
 
 Phonsavan is a small, chilly town on the Xieng Khouang Plateau, rebuilt after the original provincial capital was destroyed by bombing during the Vietnam War. The town itself is unremarkable, but it is the base for visiting the mysterious Plain of Jars -- one of Southeast Asia's most enigmatic archaeological sites.

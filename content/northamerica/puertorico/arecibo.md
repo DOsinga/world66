@@ -5,6 +5,7 @@ latitude: 18.4725
 longitude: -66.7156
 title: Arecibo
 type: location
+score: 0.49
 ---
 
 Arecibo is the largest municipality by area in Puerto Rico, a coastal city on the island's north shore known for two very different attractions: the Cueva del Indio, a sea cave with pre-Columbian Taíno petroglyphs carved into its walls, and the former Arecibo Observatory, once the world's largest single-aperture radio telescope.

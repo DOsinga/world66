@@ -5,6 +5,7 @@ latitude: 47.862646
 longitude: 101.031628
 title: Arkhangai
 type: location
+score: 0.42
 ---
 
 Arkhangai is a province in central Mongolia, a region of rolling steppe, volcanic formations, and hot springs set against the backdrop of the Khangai Mountains. The provincial capital Tsetserleg is one of the more pleasant small towns in the country, nestled in a valley with a hilltop monastery above it.

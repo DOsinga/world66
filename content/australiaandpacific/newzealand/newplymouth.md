@@ -5,6 +5,7 @@ latitude: -39.058
 longitude: 174.0806
 title: New Plymouth
 type: location
+score: 0.51
 ---
 
 New Plymouth sits on the west coast of New Zealand's North Island, in the shadow of Mount Taranaki — a symmetrical volcanic cone that dominates the skyline from almost everywhere in the city. The mountain is the main reason to come: its national park offers everything from short bush walks to a serious multi-day circuit, the Pouakai Crossing, and in winter there is skiing on its slopes.

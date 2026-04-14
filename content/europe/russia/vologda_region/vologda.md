@@ -5,6 +5,7 @@ latitude: 59.2187
 longitude: 39.8914
 title: Vologda
 type: location
+score: 0.34
 ---
 
 Vologda is one of the oldest Russian cities, founded in 1147 on the banks of the small, quiet river of the same name. Historically it was the "gate to the North" — a major trade and handicraft centre, and an outpost of Moscow in its struggles with rival principalities.

@@ -5,6 +5,7 @@ latitude: 60.863
 longitude: 7.1132
 title: Flåm
 type: location
+score: 0.74
 ---
 
 Flåm is a tiny village at the inner end of the Aurlandsfjord, a branch of the mighty Sognefjord. It is best known for the Flåmsbana — a spectacular railway that climbs 863 metres from the fjord to the mountain station at Myrdal through 20 tunnels and past waterfalls. The line is a marvel of engineering and one of Norway's most popular tourist attractions.

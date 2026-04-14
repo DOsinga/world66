@@ -5,6 +5,7 @@ latitude: 41.0981
 longitude: 44.6461
 title: Alaverdi
 type: location
+score: 0.45
 ---
 
 Alaverdi is an industrial copper-mining town at the bottom of the Debed Gorge in [Armenia](/europe/armenia)'s northern Lori province, close to the Georgian border. The name means "Allah gave" in Turkish. The town itself, with its Soviet-era apartment blocks and defunct smelter, is not much to look at — but it is the base for visiting some of Armenia's finest medieval monasteries.

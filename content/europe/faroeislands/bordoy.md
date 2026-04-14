@@ -5,6 +5,7 @@ latitude: 62.2638
 longitude: -6.52
 title: Borðoy
 type: location
+score: 0.54
 ---
 
 Borðoy is the largest of the six islands of the Norðoyggjar group in the northern Faroe Islands, and home to Klaksvík, the second-largest town in the archipelago. Where Tórshavn is the political and commercial capital, Klaksvík is the fishing capital — a working harbour town surrounded by dramatic mountains and fjords.

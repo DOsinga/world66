@@ -1,8 +1,9 @@
 ---
-title: 'Lake District'
+title: Lake District
 type: location
 latitude: 54.47853
 longitude: -3.065533
+score: 0.69
 ---
 
 The Lake District is England's most mountainous landscape and one of its most visited national parks. Glaciers carved the valleys and lakes during the Ice Age, leaving behind scenery that has inspired poets, painters and walkers for centuries. The M6 motorway brings an ever-growing stream of visitors from the south to enjoy its beauty.

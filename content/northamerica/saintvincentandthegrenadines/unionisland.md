@@ -5,6 +5,7 @@ latitude: 12.5988
 longitude: -61.4308
 title: Union Island
 type: location
+score: 0.59
 ---
 
 Union Island is a small, mountainous island at the southern end of the Grenadines chain, part of Saint Vincent and the Grenadines. It serves as the jumping-off point for the Tobago Cays, one of the Caribbean's most spectacular sailing and snorkelling destinations, and for the private island of Palm Island nearby.

@@ -5,6 +5,7 @@ latitude: -4.0
 longitude: 138.5
 done:
   location_cleanup: 2026-04-06
+score: 0.44
 ---
 
 Irian Jaya is the Indonesian half of New Guinea, the second-largest island on earth. Since 2001 it has been officially called Papua, though the old name persists among travellers. This is one of the most remote and least-visited regions in Southeast Asia, and that is precisely why it draws the people who come here.

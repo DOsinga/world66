@@ -5,6 +5,7 @@ latitude: 44.2715
 longitude: 9.3959
 done:
   location_cleanup: 2026-04-06
+score: 0.66
 ---
 
 Sestri Levante is a small Ligurian town on a narrow peninsula, roughly halfway between Genoa and La Spezia. While the [Cinque Terre](/europe/italy/liguria/thecinqueterre) and [Portofino](/europe/italy/liguria/portofino) get most of the attention on this stretch of coast, Sestri has become a favourite with Italians who want the same beauty with slightly less tourist pressure — though on summer weekends the narrow streets fill quickly.

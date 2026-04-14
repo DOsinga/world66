@@ -1,8 +1,9 @@
 ---
-title: "Targoviste"
+title: Targoviste
 type: location
 latitude: 44.926771
 longitude: 25.462816
+score: 0.42
 ---
 
 Travel Guide

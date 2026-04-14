@@ -1,8 +1,9 @@
 ---
-title: "Lorraine"
+title: Lorraine
 type: location
 latitude: 48.484516
 longitude: 6.113035
+score: 0.45
 ---
 
 Located between the [Luxembourg city](/europe/luxembourg/luxembourgcity), [Belgium](/europe/belgium), [Germany](/europe/germany) and the [Alsace](/europe/france/east/alsace) and the [Champagne](/europe/france/east/champagne), the Lorraine is one of the most charming regions of France. It's gently rolling hills with vineyards that produce some very good white wines, the rugged countryside of the Vosges, its stylish cities such as [Metz](/europe/france/east/lorraine/metz) and [Nancy](/europe/france/east/lorraine/nancy) make it an ideal place to come to for a relaxing holiday.

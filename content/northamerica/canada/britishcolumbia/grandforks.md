@@ -5,6 +5,7 @@ latitude: 49.031227
 longitude: -118.439204
 title: Grand Forks
 type: location
+score: 0.33
 ---
 
 Grand Forks sits at the confluence of the Kettle and Granby rivers in the Boundary Country of southeastern [British Columbia](/northamerica/canada/britishcolumbia). It is a small, quiet town with a distinctive heritage — Doukhobor settlers from Russia arrived in the early 1900s, and their influence is still visible in the community halls, the excellent borscht and perogies served at local restaurants, and the surrounding farmland.

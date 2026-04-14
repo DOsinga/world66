@@ -5,6 +5,7 @@ latitude: 38.793
 longitude: 15.2109
 title: Stromboli
 type: location
+score: 0.66
 ---
 
 Stromboli is one of the most reliably active volcanoes on earth — it has been erupting more or less continuously for at least 2,000 years. The island is essentially nothing but volcano: a near-perfect cone rising from the Tyrrhenian Sea to 924 metres, with a small village at its foot and almost nothing else. It is extraordinary.

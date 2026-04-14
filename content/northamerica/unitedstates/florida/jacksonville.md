@@ -5,6 +5,7 @@ latitude: 30.326225
 longitude: -81.657918
 done:
   location_cleanup: 2026-04-07
+score: 0.4
 ---
 
 Jacksonville is the largest city by area in the contiguous United States, sprawling across both sides of the St. Johns River where it empties into the Atlantic. It is a city that rewards the curious — behind the downtown skyline and suburban sprawl, you will find distinct neighbourhoods with real character, a serious arts scene, and easy access to some of northeast Florida's best beaches.

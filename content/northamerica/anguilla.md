@@ -10,6 +10,7 @@ latitude: 18.2206
 longitude: -63.0686
 title: Anguilla
 type: location
+score: 0.66
 ---
 
 Anguilla is a small British Overseas Territory in the Eastern Caribbean that has quietly become one of the region's most celebrated beach destinations. It is 26 km long and about 5 km wide, flat and scrubby, sitting directly north of St. Martin. What it lacks in dramatic landscapes it more than makes up for in beaches: the island has 33 of them, and several rank among the best in the Caribbean.

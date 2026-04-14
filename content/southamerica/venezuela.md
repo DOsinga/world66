@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/wiki/User:EEIM" title="User:EEIM">EEIM</a>
 done:
   country_cleanup: 2026-03-30
+score: 0.34
 ---
 
 Venezuela is a country of extraordinary natural richness and profound human difficulty. It sits on the northern coast of South America, bordering [Colombia](/southamerica/colombia) to the west, [Brazil](/southamerica/brazil) to the south, and [Guyana](/southamerica/guyana) to the east, with a Caribbean coastline and over 70 offshore islands. The terrain runs from the Andes in the west through the vast Orinoco plains to ancient tepui highlands in the southeast and tropical delta in the east.

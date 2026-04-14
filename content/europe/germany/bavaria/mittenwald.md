@@ -5,6 +5,7 @@ latitude: 47.441778
 longitude: 11.261429
 title: Mittenwald
 type: location
+score: 0.6
 ---
 
 Mittenwald is one of the best-known resort towns in the Bavarian Alps, set between the Karwendel and Wetterstein ranges, just 16 km from Garmisch-Partenkirchen and 30 km from Innsbruck across the Austrian border.

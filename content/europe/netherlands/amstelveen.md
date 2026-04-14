@@ -5,6 +5,7 @@ latitude: 52.3028
 longitude: 4.8597
 title: Amstelveen
 type: location
+score: 0.41
 ---
 
 Amstelveen is a prosperous suburb south of [Amsterdam](/europe/netherlands/amsterdam), close to Schiphol Airport. It is not a tourist destination in itself, but it has appeal for visitors staying near the airport or looking for a quieter base than central Amsterdam. The old village centre has been converted largely into restaurants — Argentinian, Indian, French, Italian — and the Stadshart shopping area is modern and well-stocked.

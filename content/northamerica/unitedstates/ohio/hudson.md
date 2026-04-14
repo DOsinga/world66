@@ -1,8 +1,9 @@
 ---
-title: "Hudson"
+title: Hudson
 type: location
 latitude: 40.738163
 longitude: -74.055073
+score: 0.34
 ---
 
 Travel Guide

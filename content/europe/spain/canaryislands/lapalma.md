@@ -5,6 +5,7 @@ latitude: 28.655116
 longitude: -17.857269
 title: La Palma
 type: location
+score: 0.65
 ---
 
 La Palma is the steepest island in the world relative to its size, a volcanic spike rising nearly 2,500 metres straight out of the Atlantic. Most of the Canary Islands have been reshaped by tourism; La Palma largely hasn't. It has stayed green, quiet, and agricultural, which is either a reason to go or a reason to go elsewhere, depending on what you're after.

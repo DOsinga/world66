@@ -1,8 +1,9 @@
 ---
-title: "Hyderabad"
+title: Hyderabad
 type: location
 latitude: 17.360589
 longitude: 78.474061
+score: 0.52
 ---
 
 Hyderabad is the capital of Andhra Pradesh. It is a big, lively, overcrowded city. Situated on the banks of the river Musi, the city gives travellers fascinating glimpses of past splendours – the legacy of its four hundred year old history. The city is better known as the Istanbul of India. On every street corner, you will see its dualistic character, the coming together of Muslims and Hindus. 

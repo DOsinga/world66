@@ -5,6 +5,7 @@ latitude: -15.416339
 longitude: 28.281841
 done:
   location_cleanup: 2026-04-07
+score: 0.38
 ---
 
 Lusaka is the capital city of Zambia. It doesn't have the headline sights of some African capitals, but it's a sprawling, energetic place that rewards a few days of exploration -- and it's a practical base for sorting out documents and planning onward travel across the region.

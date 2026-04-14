@@ -1,6 +1,7 @@
 ---
-title: "Hotels near Harne Beach"
+title: Hotels near Harne Beach
 type: location
+score: 0.38
 ---
 
 Travel Guide

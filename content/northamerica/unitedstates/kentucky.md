@@ -1,8 +1,9 @@
 ---
-title: "Kentucky"
+title: Kentucky
 type: location
 latitude: 37.572603
 longitude: -85.155141
+score: 0.43
 ---
 
 What can we say about a state that's famous for fried chicken more than anything else? In fact, quite a lot. 

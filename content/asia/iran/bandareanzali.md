@@ -5,6 +5,7 @@ latitude: 37.471636
 longitude: 49.46859
 title: Bandar-e Anzali
 type: location
+score: 0.4
 ---
 
 Bandar-e Anzali is a port city on the Caspian Sea coast of Iran's Gilan province, about 40 km northwest of Rasht. The town sits on a spit of land between the Caspian and the Mordab lagoon, a large freshwater wetland rich in birdlife and connected to the sea by a narrow channel.

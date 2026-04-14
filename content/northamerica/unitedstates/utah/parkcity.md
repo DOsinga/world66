@@ -5,6 +5,7 @@ latitude: 40.646092
 longitude: -111.497996
 title: Park City
 type: location
+score: 0.6
 ---
 
 Park City is a former silver-mining town turned ski resort about 30 miles east of Salt Lake City. It hosts two major ski areas — Park City Mountain Resort and Deer Valley — and was a main venue for the 2002 Winter Olympics. In January it becomes the centre of the independent film world when the Sundance Film Festival takes over the town.

@@ -5,6 +5,7 @@ latitude: 32.552
 longitude: -117.0431
 title: San Ysidro
 type: location
+score: 0.33
 ---
 
 San Ysidro sits at the very southern tip of San Diego, pressed up against the Mexican border. It is best known as the location of the San Ysidro Port of Entry, the busiest land border crossing in the world — around 100,000 people cross here on a typical day. For most travelers it is a threshold rather than a destination: the place where you step off the San Diego Trolley and walk across into Tijuana.

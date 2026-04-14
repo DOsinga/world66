@@ -5,6 +5,7 @@ latitude: 42.3931
 longitude: 18.9236
 title: Cetinje
 type: location
+score: 0.5
 ---
 
 Cetinje is the old royal capital of Montenegro, tucked into a valley at the foot of Mount Lovćen. From 1878 to 1918 it was the seat of a sovereign kingdom, and the grand European embassies built during that brief era — French, Russian, British, Austro-Hungarian — still line the wide avenues, most now converted into museums or government offices.

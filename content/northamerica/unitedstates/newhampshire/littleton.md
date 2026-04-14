@@ -5,6 +5,7 @@ latitude: 44.3045
 longitude: -71.7762
 title: Littleton
 type: location
+score: 0.43
 ---
 
 Littleton is a small town in New Hampshire's North Country, serving as the commercial hub for the surrounding mountains and lakes region. It sits roughly equidistant between the ski resorts of Franconia Notch and the towns of North Conway and Burlington, Vermont.

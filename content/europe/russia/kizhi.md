@@ -5,6 +5,7 @@ latitude: 61.769693
 longitude: 34.370758
 title: Kizhi
 type: location
+score: 0.53
 ---
 
 Kizhi is a small island in Lake Onega, about 70 kilometres northeast of [Petrozavodsk](/europe/russia/karelia/petrozavodsk), and it holds one of the most extraordinary collections of wooden architecture anywhere in the world. The island is a UNESCO World Heritage Site, and deservedly so.

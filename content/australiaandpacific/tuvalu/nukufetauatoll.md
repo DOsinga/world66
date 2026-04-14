@@ -5,6 +5,7 @@ latitude: -8.0
 longitude: 178.37
 title: Nukufetau Atoll
 type: location
+score: 0.36
 ---
 
 **Nukufetau** is a large atoll in the central part of Tuvalu, consisting of around 33 islets enclosing a wide lagoon. It is lightly populated and rarely visited by outsiders. The community maintains a traditional way of life based on fishing and pulaka cultivation.

@@ -5,6 +5,7 @@ latitude: -15.594596
 longitude: -72.048777
 title: Colca Canyon
 type: location
+score: 0.74
 ---
 
 The Colca Canyon is one of the deepest canyons in the world — Polish surveys have measured it at over 3,400 metres from rim to river, roughly twice the depth of the Grand Canyon. It is the main reason most travellers head northwest from [Arequipa](/southamerica/peru/arequipa), a five-hour bus ride away. The canyon offers spectacular hiking, hot springs, and the chance to watch Andean condors soaring on the thermals at Cruz del Condor. The local Collagua and Cabana communities still wear some of the most distinctive traditional clothing in South America.

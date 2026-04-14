@@ -5,6 +5,7 @@ latitude: -22.39776
 longitude: 26.703289
 title: Serowe
 type: location
+score: 0.38
 ---
 
 Serowe is one of Botswana's largest traditional villages, set against rocky hills to the east. It was the royal capital of the Bangwato people and home to three of the country's most important leaders: Khama III, Tshekedi Khama, and Seretse Khama, Botswana's first president.

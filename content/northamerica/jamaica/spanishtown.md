@@ -5,6 +5,7 @@ latitude: 17.991
 longitude: -76.9554
 title: Spanish Town
 type: location
+score: 0.43
 ---
 
 Spanish Town, 20 km west of Kingston along the main highway, was Jamaica's capital for over 300 years — from the Spanish founding in the 1530s until Kingston took over in 1872. Almost no visitors come here, which is a pity.

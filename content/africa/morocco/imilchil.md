@@ -5,6 +5,7 @@ latitude: 32.156119
 longitude: -5.633585
 title: Imilchil
 type: location
+score: 0.47
 ---
 
 Imilchil is a remote Berber village in the High Atlas at about 2,200 metres, surrounded by some of the most dramatic mountain scenery in Morocco. It sits on a high plateau between the lakes of Isli and Tislit — two crater lakes associated with a local Romeo-and-Juliet legend of star-crossed lovers whose tears formed the waters.

@@ -5,6 +5,7 @@ latitude: 33.4878
 longitude: 48.3558
 title: Khorramabad
 type: location
+score: 0.37
 ---
 
 *Asia > Iran > Khorramabad*

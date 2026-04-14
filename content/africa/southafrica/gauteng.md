@@ -5,6 +5,7 @@ latitude: -26.2041
 longitude: 28.0473
 title: Gauteng
 type: location
+score: 0.44
 ---
 
 Gauteng is South Africa's smallest province by area but its economic engine — a dense, fast-moving region on the Highveld plateau that produces roughly a third of the country's GDP. It contains two of South Africa's most important cities: [Johannesburg](/africa/southafrica/johannesburg), the commercial capital, and [Pretoria](/africa/southafrica/pretoria), the administrative capital. Despite covering barely 1.5% of the country's land, it is home to around a quarter of its population.

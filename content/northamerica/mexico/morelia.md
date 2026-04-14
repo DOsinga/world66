@@ -5,6 +5,10 @@ latitude: 19.6546
 longitude: -101.26238
 title: Morelia
 type: location
+image: morelia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Morelia,_Michoac%C3%A1n.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Pequeño mar
 ---
 
 Morelia is the capital of Michoacan state and one of Mexico's most handsome colonial cities. Its historic centre, built almost entirely from pink cantera stone, was declared a UNESCO World Heritage Site in 1991, and walking through it you can see why — block after block of arcaded buildings, baroque churches, and stately plazas, all in that warm rose colour that glows in the late afternoon sun.

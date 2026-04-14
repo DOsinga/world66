@@ -1,4 +1,6 @@
 ---
+done:
+  location_cleanup: '2026-04-14'
 latitude: 41.702731
 longitude: 13.63782
 score: 0.38

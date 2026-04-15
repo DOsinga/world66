@@ -1,36 +1,8 @@
 ---
 title: "Seaweed Memories"
 type: poi
-author: "Heinreich Becker"
-isbn: "0863278353"
+author: "Heinrich Becker"
+isbn: "978-0863278358"
 ---
 
-An important translation recounting life in the Western Islands
-
-[](http://www.amazon.com/exec/obidos/ASIN/0863278353/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-isbn: 0863278353
-
-author: Heinreich Becker
-
-##
-
--
-
--
-
--
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A translation recounting life in the western islands, offering an outsider's perspective on the rhythms and hardships of island existence along Ireland's Atlantic coast.

@@ -2,36 +2,7 @@
 title: "The Black Soul"
 type: poi
 author: "Liam O'Flaherty"
-isbn: "0863274781"
+isbn: "978-0863274787"
 ---
 
-A compelling account of adultery in the Western Isles. The author is a native of
-[Inis Meain](/europe/ireland/aranislands/inismeain)
-
-[](http://www.amazon.com/exec/obidos/ASIN/0863274781/osingacom?creative=125581&camp=2321&link_code=as1)
-
-
-
-isbn: 0863274781
-
-author: Liam O'Flaherty
-
-##
-
--
-
--
-
--
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+A novel of passion and adultery set on a western island, written by a native of Inis Mór. O'Flaherty captures the claustrophobia and intensity of island life — the gossip, the violence of the sea, the weight of community — in prose that is both brutal and lyrical.

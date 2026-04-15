@@ -22,7 +22,7 @@ The currency is the lempira (HNL). Most of Honduras is affordable by any standar
 
 [Copán](/northamerica/honduras/copan) is the country's standout attraction: a Mayan site famous not for its pyramids but for its extraordinary carved stelae, each one a portrait of a ruler. The setting, in a green valley near the Guatemalan border, adds to the appeal.
 
-The [Bay Islands](/northamerica/honduras/bayislands) — principally [Roatán](/northamerica/honduras/roatan) and [Utila](/northamerica/honduras/utila) — sit on the Mesoamerican Barrier Reef, the world's second-largest. Diving here is excellent and, especially on Utila, remarkably cheap.
+The [Bay Islands](/northamerica/honduras/bayislands) — principally [Roatán](/northamerica/honduras/bayislands/roatan) and [Utila](/northamerica/honduras/utila) — sit on the Mesoamerican Barrier Reef, the world's second-largest. Diving here is excellent and, especially on Utila, remarkably cheap.
 
 [La Mosquitia](/northamerica/honduras/lamosquitia) in the northeast is one of the most remote and biologically rich areas in Central America — a vast expanse of rainforest, rivers, and lagoons. Getting there takes effort, but it rewards it.
 

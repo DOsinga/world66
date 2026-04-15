@@ -1,12 +1,11 @@
 import json
 import sqlite3
-from functools import lru_cache
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
 from django.http import FileResponse, Http404, JsonResponse
-from django.shortcuts import redirect, render
+from django.shortcuts import render
 from django.utils.safestring import mark_safe
 
 from .models import (
@@ -15,14 +14,6 @@ from .models import (
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
-
-
-@lru_cache(maxsize=1)
-def _load_redirects():
-    redirects_file = Path(settings.BASE_DIR) / "redirects.json"
-    if redirects_file.exists():
-        return json.loads(redirects_file.read_text())
-    return {}
 
 
 def home(request):
@@ -40,10 +31,6 @@ def location_or_section(request, path):
         page, context_nav = resolve_tag_route(path)
 
     if not page:
-        redirects = _load_redirects()
-        new_path = redirects.get(path)
-        if new_path:
-            return redirect("/" + new_path, permanent=True)
         raise Http404
 
     # Derive parent for nav/poi pages

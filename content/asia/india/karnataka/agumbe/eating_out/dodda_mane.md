@@ -1,30 +1,8 @@
 ---
 title: "Dodda Mane"
 type: poi
-address: "Dodda Mane"
-email: "info@agumbe.com"
-phone: "08181 233075"
-price: "Pay what you wish"
-type: "Vegetarian"
-url: "www.agumbe.com"
-latitude: 12.701092
-longitude: 77.252775
+latitude: 13.5085
+longitude: 75.0960
 ---
 
-Doddamane is a bread and breakfast place. There is no menu or rate card; the visitors eat as much as they want and pay as much as they wish. The food served is pure vegetarian and owing to the fact that it is the food eaten by the family staying there, you can be certain that it is healthy and clean. Kasturakka takes care of Doddamane and the guests; and I bet nobody has any complaints about her so far. Visiting dodda mane is like visiting your ancestral home.
-
-type: Vegetarian
-
-
-
-
-
-tel: 08181 233075
-
-url: [www.agumbe.com](http://www.agumbe.com)
-
-address: Dodda Mane
-
-PriceOfMenu: Pay what you wish
-
-email: info@agumbe.com
+A heritage house in the centre of the village where visitors eat home-cooked vegetarian meals with the family. There is no menu and no fixed price — you eat as much as you want and pay what you wish. The food is simple, fresh, and clean. Visiting Dodda Mane feels like visiting an ancestral home, and it is one of the most memorable dining experiences in the Western Ghats.
